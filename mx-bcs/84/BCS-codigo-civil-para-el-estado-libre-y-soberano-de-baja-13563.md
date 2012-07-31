@@ -4,7 +4,7 @@ identifier: "BCS-codigo-civil-para-el-estado-libre-y-soberano-de-baja-13563"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-07-19"
-last_updated: "2011-07-06"
+last_updated: "2012-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCS"
 ---
 # CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
+CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 6 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE JULIO DE 2012.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 19 de julio de 1996.
 
@@ -231,9 +231,11 @@ Disposiciones generales.
 
 El Registro Civil es la institución de orden público y de interés social por la cual el Estado inscribe, autoriza, certifica y da publicidad a los hechos y actos constitutivos, modificativos o extintivos del estado civil de las personas.
 
+> <small>(REFORMADO, B.O. 31 DE JULIO DE 2012)</small>
+
 ###### Artículo 36.
 
-El Registro Civil estará constituido por una Coordinación Estatal, un Archivo Central y las Oficialías del Registro Civil que acuerde el Ejecutivo del Estado, a propuesta de los Presidentes Municipales respectivos.
+El Registro Civil estará constituido por una Dirección Estatal, un Archivo Central, y las Direcciones del Registro Civil de los Ayuntamientos y Oficialías del Registro Civil que acuerde el Ejecutivo del Estado, a propuesta de los Presidentes Municipales respectivos.
 
 ###### Artículo 37.
 
@@ -583,19 +585,19 @@ Si fuere necesario que las capitulaciones matrimoniales consten en escritura pú
 
 VI.- Copia certificada del acta de defunción del cónyuge fallecido si alguno de los contrayentes es viudo, o de la parte resolutiva de la sentencia de divorcio o de nulidad de matrimonio, en caso de que alguno de los pretendientes hubiere sido casado anteriormente;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, B.O. 10 DE JUNIO DE 2010)</small>
 
 VII.- Copia certificada de la dispensa de impedimentos, si los hubo;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, B.O. 10 DE JUNIO DE 2010)</small>
 
 VIII.- Para el caso de matrimonio de mexicano con extranjero, copia de la autorización expedida por la Secretaría de Gobernación; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, B.O. 10 DE JUNIO DE 2010)</small>
 
@@ -835,9 +837,25 @@ La declaración de nulidad de un acta será anotada al margen de la misma por el
 
 Para que proceda la reposición de actas ante la autoridad judicial, es necesario que no exista en los archivos, ninguno de los ejemplares originales.
 
+> <small>(REFORMADO, B.O. 31 DE JULIO DE 2012)</small>
+
 ###### Artículo 144.
 
-Cuando el error que contenga el acta sea sólo mecanográfico, ortográfico o de otra índole que no afecte los datos esenciales de aquélla, sólo se aclarará y su trámite se hará ante la Coordinación Estatal del Registro Civil, conforme a las disposiciones del reglamento correspondiente.
+Cuando el error que contenga el acta sea sólo mecanográfico, ortográfico o de otra índole que no afecte los datos esenciales de aquélla, sólo se aclarará y su trámite se hará ante la Dirección Estatal del Registro Civil, o ante la Dirección del Registro Civil del Ayuntamiento que corresponda, conforme a las disposiciones del reglamento correspondiente.
+
+Las Direcciones del Registro Civil de los Ayuntamientos, deberán de hacer de conocimiento en un plazo no mayor a cinco días hábiles siguientes a la conclusión del procedimiento de aclaración de actos registrales, de la aclaración que se hubiere realizado, a la Dirección Estatal del Registro Civil, acompañando al oficio de conocimiento, copia certificada del expediente que se hubiere formado con razón del trámite.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2012)</small>
+
+Artículo 144 BIS.- Los casos en que se realizara, el procedimiento de aclaración de actos registrales, serán los siguientes:
+
+I.- Nombre o nombres del Registrado: Cuando se incurra en errores manifiestos, escritos en forma abreviada, errores mecanográficos u ortográficos;
+
+II.- Apellidos del Registrado: Para que los apellidos del inscrito se encuentren igualmente redactados con aquellos de sus padres;
+
+III.- Fecha de Nacimiento: Se rectificara conforme a los datos consignados en el comprobante de nacimiento original;
+
+IV.- Sexo del Registrado: De acuerdo a lo señalado en el comprobante de nacimiento original o en el caso de disconformidad de los registros que lleva este Servicio.
 
 ###### Artículo 145.
 
@@ -1579,17 +1597,19 @@ El divorcio por mutuo consentimiento sólo puede pedirse cuando haya transcurrid
 
 Cuando ambos cónyuges convengan en divorciarse, sean mayores de edad, no tengan hijos menores de edad o mayores de edad sujetos a tutela y de común acuerdo hubieren liquidado la sociedad conyugal, si la había, podrán ocurrir personalmente ante el Oficial del Registro Civil del lugar de su domicilio, a solicitar la disolución del vínculo.
 
-> <small>(REFORMADO, B.O. 10 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO, B.O. 31 DE JULIO DE 2012)</small>
 
-###### Articulo 279.
+###### Artículo 279.
 
-El Oficial del Registro Civil, previa identificación de los cónyuges, levantará un acta en la que hará constar la solicitud de divorcio, recibirá copia del acta de matrimonio y del convenio de liquidación de bienes, así como la declaración de dos testigos que, bajo protesta de decir verdad, aseguren que los divorciantes no han procreado hijos entre sí, hecho lo anterior, citará a los cónyuges para que, dentro del plazo de quince días se presenten a ratificar dicha solicitud, previa exhortación de avenimiento.
+El Oficial del Registro Civil, previa identificación de los cónyuges, levantará un acta en la que hará constar la solicitud de divorcio, recibirá copia del acta de matrimonio, copia certificada de las actas de nacimiento de los hijos mayores de edad no sujetos a tutela, si los hubiera y del convenio de liquidación de bienes, así como la declaración de dos testigos que, bajo protesta de decir verdad, aseguren que los divorciantes no han procreado hijos entre sí o que los hijos procreados entre si ya son mayores de edad y no están sujetos a tutela.
 
-Hecha la ratificación por los cónyuges, el Oficial del Registro Civil los declarará divorciados, levantando el acta respectiva, haciendo la anotación correspondiente en el libro de matrimonios.
+Una vez que se haya verificado que se cumplan los requisitos anteriores, el Oficial del Registro Civil citará a los cónyuges dentro del plazo de quince días para realizarles la exhortación de avenimiento, y en caso de que ambos cónyuges manifiesten su intención de continuar el trámite de divorcio, se les recabara en el acto la ratificación de dicha solicitud.
+
+Hecha la ratificación por los cónyuges, el Oficial del Registro Civil los declarará divorciados, levantando el acta respectiva, haciendo la anotación correspondiente en el libro de matrimonios cuando el matrimonio se haya realizado en su oficialía, en los demás casos notificará a la Oficialía del Registro Civil donde se haya celebrado el matrimonio para que haga dicha anotación, para lo cual adjuntara al oficio correspondiente copia certificada del expediente que se haya formado con motivo de la solicitud de divorcio voluntario en la vía administrativa.
 
 ###### Artículo 280.
 
-Cubiertos estos requisitos, el Oficial citará a los interesados a una audiencia que se realizará entre los diez y quince días siguientes, en la que tratará de avenirlos y, en caso de que sostengan su voluntad de divorciarse, hará la declaración correspondiente y anotará el divorcio en el acta de matrimonio o notificará a la Oficialía en que ésta se encuentre, para que haga dicha anotación.
+(DEROGADO, B.O. 31 DE JULIO DE 2012)
 
 > <small>(REFORMADO, B.O. 10 DE JUNIO DE 2010)</small>
 
@@ -2485,7 +2505,7 @@ El adoptado se desvincula totalmente de su familia consanguínea, por lo que no 
 
 Sólo podrán adoptar los dos cónyuges que vivan juntos y que además de cumplir con los requisitos establecidos en los artículos 414, 415 y 416, tengan más de cinco años de c (sic)
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 441.
 
@@ -2517,7 +2537,7 @@ Los casos en que procede la adopción deben ser constatados judicialmente y aún
 
 (DEROGADO, B.O. 31 DE DICIEMBRE DE 2010)
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 445.
 
@@ -3039,7 +3059,7 @@ Ninguna tutela puede conferirse sin que previamente se declare, en los términos
 
 Los tutores y curadores no pueden ser removidos de su cargo, sin que previamente hayan sido oídos y vencidos en juicio.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 15 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 15 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 534.
 
@@ -3047,7 +3067,7 @@ El menor de edad que fuere discapacitado mental, discapacitado parlante- auditiv
 
 Si al cumplirse ésta continuare el impedimento, el incapaz quedará sujeto a una nueva tutela, previo juicio de interdicción en el cual serán oídos el tutor y el curador anteriores. Ninguno de ellos será removido, cuando se trate de la tutela legítima o testamentaria.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 15 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 15 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 535.
 
@@ -3141,7 +3161,7 @@ Si hubiere varios parientes del mismo grado, el Juez elegirá entre ellos al que
 
 La falta temporal del tutor legítimo se suplirá en los términos establecidos en los dos artículos anteriores.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 15 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 15 DE DICIEMBRE DE 2005)</small>
 
 ### CAPÍTULO VIII. De las excusas para desempeñar la tutela
 
@@ -15397,7 +15417,7 @@ SECRETARIO GENERAL DE GOBIERNO
 
 LIC. RAUL ANTONIO ORTEGA SALGADO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 B.O. 17 DE ENERO DE 1997.
 
@@ -15437,7 +15457,7 @@ B.O. 31 DE DICIEMBRE DE 2006.
 
 B.O. 31 DE MARZO DE 2008.
 
-DECRETO 1739, POR EL QUE SE DEROGA LA FRACCION XIVDEL ARTICULO 289 Y SE REFORMAN LOS ARTICULOS 289, EN SU FRACCION VII, 302, 322 Y 481 DEL CODIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA SUR.
+DECRETO 1739, POR EL QUE SE DEROGA LA FRACCIÓN XIV DEL ARTÍCULO 289 Y SE REFORMAN LOS ARTÍCULOS 289, EN SU FRACCIÓN VII, 302, 322 Y 481 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA SUR.
 
 PRIMERO.- El presente decreto entrará en vigor al siguiente día de su publicación en el Boletín Oficial del Gobierno Estado (sic) de Baja California Sur.
 
@@ -15445,19 +15465,19 @@ SEGUNDO.- Se derogan todas las disposiciones que contravengan el presente Decret
 
 B.O. 31 DE MARZO DE 2008.
 
-DECRETO 1745, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTICULOS DEL CODIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA SUR.
+DECRETO 1745, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA SUR.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 B.O. 10 DE JUNIO DE 2010.
 
-DECRETO 1844, POR EL QUE SE ADICIONAN Y REFORMAN LOS ARTICULOS 37, 278, 279, Y 281 DEL CODIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR.
+DECRETO 1844, POR EL QUE SE ADICIONAN Y REFORMAN LOS ARTÍCULOS 37, 278, 279, Y 281 DEL CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR.
 
 ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 B.O. 10 DE JUNIO DE 2010.
 
-DECRETO 1845, POR EL QUE SE REFORMA Y SE ADICIONA EL ARTICULO 100 DEL CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR.
+DECRETO 1845, POR EL QUE SE REFORMA Y SE ADICIONA EL ARTÍCULO 100 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -15472,3 +15492,23 @@ SEGUNDO.- Para los efectos de lo dispuesto en el artículo 18 fracción VII de l
 B.O. 6 DE JULIO DE 2011.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 31 DE JULIO DE 2012.
+
+DECRETO 2004, POR EL QUE SE REFORMA EL ARTÍCULO 279 Y SE DEROGA EL ARTÍCULO 280 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA SUR.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+B.O. 31 DE JULIO DE 2012.
+
+DECRETO 2005, POR EL QUE SE REFORMAN LOS ARTÍCULOS 36 Y 144 Y SE ADICIONA EL ARTÍCULO 144 BIS TODOS DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR.
+
+###### ARTÍCULO PRIMERO
+
+El presente Decreto entrara en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
