@@ -4,7 +4,7 @@ identifier: "SLP-ley-estatal-de-proteccion-a-los-animales-del-estado-de-san-7962
 country: "mx"
 rank: "ley"
 publication_date: "1995-03-17"
-last_updated: "2012-02-16"
+last_updated: "2012-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7962&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ESTATAL DE PROTECCIÓN A LOS ANIMALES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2012.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 17 de marzo de 1995.
 
@@ -501,15 +501,15 @@ Queda prohibido el sacrificio de hembras cuyo estado de preñez sea evidente.
 
 Todo animal que llegue a rastros o establecimientos autorizados, lesionado gravemente, deberá ser sacrificado sin demora, bajo las normas sanitarias correspondientes.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2012)</small>
+
 ###### ARTICULO 56.
 
-Previo al sacrificio, los animales deben insensibilizarse mediante alguno de los siguientes procedimientos:
+Los animales de compañía deberán ser insensibilizados y sacrificados únicamente mediante los siguientes procedimientos:
 
-I.- Electroanestesia;
+I. Pentobarbital sódico, o
 
-II.- El uso de rifles o pistolas de émbolo oculto o cautivo; o
-
-III.- Cualquier otro procedimiento debidamente probado y autorizado que insensibilice al animal.
+II. Cualquier procedimiento debidamente probado y autorizado por la Norma Oficial Mexicana respectiva, que los insensibilice.
 
 > <small>(ADICIONADO, P.O. 8 DE JULIO DE 2006)</small>
 
@@ -554,6 +554,10 @@ Para las maniobras médicas y zootécnicas en el manejo de animales, que produzc
 ###### ARTICULO 62.
 
 En ningún caso podrá ser utilizado el mismo animal dos o más veces, en experimentos donde se requiera la cirugía.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2012)</small>
+
+Asimismo, las investigaciones científicas que se realicen con animales, deben efectuarse con apego a las normas oficiales mexicanas sobre la materia.
 
 ## Título Sexto
 
@@ -707,9 +711,11 @@ De las Sanciones.
 
 Queda prohibida la presencia de menores de edad en al (sic) acto de sacrificar animales.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2012)</small>
+
 ###### ARTICULO 73.
 
-No se podrá sacrificar animales por medio de veneno, horca, golpes, ácidos corrosivos, estricnina, morfina cianuro, arsénico y otras substancias similares.
+No se podrá sacrificar animales por medio de, veneno, horca, golpes, ácidos corrosivos, estricnina, morfina, cianuro, arsénico y otras substancias similares; ni de cualquier otra manera que prolongue la agonía del animal.
 
 ###### ARTICULO 74.
 
@@ -719,11 +725,15 @@ No se permitirá la mutilación injustificada de animales.
 
 Se deberá evitar la inmovilización y el maltrato a los animales.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 76.
 
-No se podrán vender animales para mascota a menores de doce años de edad que no estén acompañados por un adulto, y que éste último, se comprometa por la adecuada subsistencia y buen trato del animal.
+Sólo se podrá vender animales de compañía a personas que acrediten la mayoría de edad, que se comprometan a la adecuada subsistencia y buen trato de éstos.
+
+En caso de no desear continuar con el resguardo y cuidado de los animales, deberán entregarse a alguna sociedad protectora de animales legalmente constituida, para su adopción; o al antirrábico.
+
+Queda prohibido el abandono de cualquier animal doméstico en la vía pública.
 
 ###### ARTICULO 77.
 
@@ -737,9 +747,11 @@ I.- Tener a la venta animales lesionados o enfermos; y
 
 II.- Mutilar, desollar o descuartizar a los animales estando vivos.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2012)</small>
+
 ###### ARTICULO 79.
 
-Se prohibe transportar animales peligrosos por lugares públicos, o que transiten libremente sin su dueño o de alguna persona autorizada.
+Se prohíbe la venta de animales en la vía pública.
 
 ### Capítulo Tercero.
 
@@ -892,3 +904,9 @@ P.O. 16 DE FEBRERO DE 2012.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales en lo que se opongan al presente Decreto.
+
+P.O. 31 DE JULIO DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
