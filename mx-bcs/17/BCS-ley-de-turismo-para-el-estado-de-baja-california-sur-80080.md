@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-turismo-para-el-estado-de-baja-california-sur-80080"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-20"
-last_updated: "2010-12-20"
+last_updated: "2012-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE TURISMO PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE JULIO DE 2012.
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California, el lunes 20 de diciembre de 2010.
 
@@ -138,6 +138,10 @@ XX.- Sustentabilidad: Preservación del equilibrio ecológico, protección del a
 XXI.- Zona de Desarrollo Turístico Sustentable.- Aquellas fracciones de territorio nacional declaradas por el Presidente de la República, claramente ubicadas y delimitadas geográficamente que por sus características naturales o culturales, constituyen un atractivo turístico;
 
 XXII.- Zona de Desarrollo Turístico Local.- Aquellas fracciones de territorio, claramente ubicadas y delimitadas geográficamente, que por sus características naturales o culturales, constituyan un atractivo turístico, declaradas por el Ejecutivo Estatal a propuesta del Secretario de Turismo.
+
+> <small>(ADICIONADA, B.O. 31 DE JULIO DE 2012)</small>
+
+XXII BIS.- Zona de prioridad turística.- Aquella en la que se desarrollan las principales actividades turísticas.
 
 XXIII.- Turismo Alternativo: La categoría de turismo que tiene como fin realizar actividades recreativas en contacto con la naturaleza y las expresiones culturales con una actitud y compromiso de conocer, respetar, disfrutar y participar de la conservación de los elementos y recursos naturales y culturales. El Turismo Alternativo incluye:
 
@@ -369,17 +373,25 @@ Las Zonas de Desarrollo Turístico Local serán declaradas en razón de sus cara
 
 El Decreto que se emita para la declaratoria de Zonas de Desarrollo Turístico Local, deberá establecer las acciones y políticas que habrán de instrumentarse, a fin de que se destinen los recursos necesarios para fomentar la inversión en infraestructura que garanticen su permanencia y éxito.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 31 DE JULIO DE 2012)</small>
+
+### CAPITULO IV. ZONAS DE PRIORIDAD TURISTICA
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2012)</small>
+
+Artículo 20 BIS.- Para los efectos de este Capítulo, los Ayuntamientos contaran con un Comité Municipal de Zonas de Prioridad Turística, mismo que será presidido por el Titular de la Dirección de Turismo Municipal, quien fungirá como enlace con la Secretaría de Turismo del Estado y a su vez, enlace y coordinador con la iniciativa privada, que permita crear un plan de manejo profesional e institucional de las Zonas de Prioridad Turística.
+
+Sera objetivo fundamental del Comité, delimitar las Zonas de Prioridad Turística en los Municipios, así como la creación de un programa que contemple la conservación de los andadores, cruce de peatones seguros, limpios, libres y sin obstáculos que faciliten el tránsito de personas con discapacidad, baños públicos, así como establecer áreas libres de vehículos, vigilancia pública, mantener las vialidades en estado óptimo, guarniciones pintadas, jardinería bien cuidada, iluminación en calles siempre funcionando, contar con señalamientos necesarios para la adecuada orientación de los turistas, tanto en la vialidad vehicular como peatonal, módulos de información y suficientes depósitos de basura en diversos puntos de la zona de prioridad turística, estableciendo para ello un programa nocturno de recolección de basura, misma que podrá ser reforzada con campañas de limpieza, que pueden realizarse en coordinación con los diversos prestadores de servicios turísticos.
+
 ### CAPÍTULO I. De la Promoción Turística
 
 ### CAPÍTULO II. Del Fomento a la Actividad Turística
 
 ### CAPÍTULO III. Del Premio Estatal de Turismo
 
-### CAPÍTULO IV. Turismo Social
-
 ## TÍTULO CUARTO. DE LA PROMOCIÓN, FOMENTO AL TURISMO Y RECONOCIMIENTOS
 
-### CAPÍTULO V. De la Cultura Turística
+### CAPÍTULO IV. Turismo Social
 
 ###### Artículo 21.
 
@@ -401,7 +413,7 @@ En los eventos que señala el artículo anterior, la Secretaría procurará que 
 
 La Secretaría participará en las campañas de promoción turística que ofrece el Estado de Baja California Sur, dirigidas al turismo nacional y extranjero.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO V. De la Cultura Turística
 
 ###### Artículo 26.
 
@@ -433,7 +445,7 @@ La Secretaría, coordinará sus acciones con la Secretaría de Desarrollo y Fome
 
 Para los efectos del artículo anterior, la Secretaría gestionará ante las instituciones de educación superior del Estado, los estudios sociales y de mercado necesarios.
 
-### CAPÍTULO II. De los Derechos
+### CAPÍTULO I. Disposiciones Generales
 
 ###### Artículo 30.
 
@@ -449,13 +461,13 @@ IV.- La promoción del Estado como destino turístico; y
 
 V.- La innovación tecnológica en la prestación de servicios turísticos.
 
-### CAPÍTULO III. De las Obligaciones
+### CAPÍTULO II. De los Derechos
 
 ###### Artículo 31.
 
 Al impulsar y promover el Turismo Social, en cumplimiento a la Ley General, la Secretaría promoverá ante los prestadores de servicios, paquetes a precios accesibles a fin de que los grupos de trabajadores, menores, jóvenes, estudiantes, personas con discapacidad adultos mayores, conozcan y desfruten (sic) de los atractivos turísticos de nuestro Estado.
 
-### CAPÍTULO I. De los Derechos
+### CAPÍTULO III. De las Obligaciones
 
 ###### Artículo 32.
 
@@ -471,13 +483,13 @@ La Secretaría en coordinación con la Secretaría de Educación Pública, promo
 
 La Secretaría así como los prestadores de servicios turísticos, transmitirán a sus funcionarios y trabajadores, la importancia del turismo, así como las normas, principios y valores que rigen en materia turística.
 
-### CAPÍTULO II. De sus Obligaciones
+### CAPÍTULO I. De los Derechos
 
-### CAPÍTULO III. De la Protección al Turista
+### CAPÍTULO II. De sus Obligaciones
 
 ## TÍTULO QUINTO. DE LA PRESTACIÓN DE SERVICIOS TURÍSTICOS
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO III. De la Protección al Turista
 
 ###### Artículo 35.
 
@@ -509,7 +521,7 @@ VII.- Empresas de sistema de intercambio de servicios turísticos.
 
 La Secretaría vigilará que los servicios turísticos se presten con eficiencia, calidad y oportunidad, en apego a lo dispuesto por esta ley, sin perjuicio de la aplicación de otros ordenamientos federales, estatales y municipales.
 
-### CAPÍTULO I. De la Competitividad y Profesionalización en la Actividad Turística
+### CAPÍTULO ÚNICO
 
 ###### Artículo 39.
 
@@ -537,7 +549,7 @@ X.- Ser incluidos en catálogos, directorios y guías turísticas, de conformida
 
 XI.- Participar en los programas de capacitación turística que promueva o lleve a cabo la Secretaría.
 
-### CAPÍTULO II. De la Capacitación Turística
+### CAPÍTULO I. De la Competitividad y Profesionalización en la Actividad Turística
 
 ###### Artículo 40.
 
@@ -563,7 +575,7 @@ IX.- Cooperar con las autoridades federales, estatales y municipales, en las inv
 
 ## TÍTULO SEXTO. DE LAS Y LOS TURISTAS
 
-### CAPÍTULO III. De la Certificación de las y los Prestadores de Servicios Turísticos
+### CAPÍTULO II. De la Capacitación Turística
 
 ###### Artículo 41.
 
@@ -583,7 +595,7 @@ VI.- Disfrutar el libre acceso y goce de todo el patrimonio turístico, así com
 
 VII.- Contar con las condiciones de higiene y seguridad de sus personas y bienes en las instalaciones y servicios turísticos, en los términos establecidos en la legislación correspondiente.
 
-### CAPÍTULO I. De las Sanciones
+### CAPÍTULO III. De la Certificación de las y los Prestadores de Servicios Turísticos
 
 ###### Artículo 42.
 
@@ -597,7 +609,7 @@ III.- Acatar las prescripciones particulares de establecimientos mercantiles y e
 
 IV.- Pagar el precio de los servicios utilizados en el momento de la presentación de la factura o del documento que ampare el pago en el plazo pactado.
 
-### CAPÍTULO II. Del Recurso de Reconsideración
+### CAPÍTULO I. De las Sanciones
 
 ###### Artículo 43.
 
@@ -628,6 +640,8 @@ Para determinar la calidad de los servicios prestados, se tomarán como referenc
 Los prestadores de servicios que de conformidad con las disposiciones jurídicas aplicables estén obligados a contratar fianzas y seguros respecto del servicio turístico que presten, deberán presentar a la Secretaría, la póliza correspondiente o bien su actualización anual. La Secretaría apoyará a los turistas que requieran presentar una reclamación para el pago de la fianza o del seguro contratado conforme al párrafo anterior.
 
 ## TÍTULO SÉPTIMO. DEL REGISTRO NACIONAL DE TURISMO
+
+### CAPÍTULO II. Del Recurso de Reconsideración
 
 ###### Artículo 48.
 
@@ -758,3 +772,15 @@ ING. NARCISO AGÚNDEZ MONTAÑO
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 LIC. ALFREDO PORRAS DOMÍNGUEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 31 DE JULIO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Ayuntamientos del Estado de Baja California Sur, cuentan con un término de hasta 60 días naturales, a partir de la entrada en vigor del presente Decreto, para expedir en sus respectivas jurisdicciones el Reglamento del Comité Municipal de Zonas de Prioridad Turística, para cumplir con los objetivos previstos en el presente Decreto.
