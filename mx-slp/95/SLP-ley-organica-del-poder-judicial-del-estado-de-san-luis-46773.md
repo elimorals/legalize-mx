@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-judicial-del-estado-de-san-luis-46773"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-10-15"
-last_updated: "2011-06-30"
+last_updated: "2012-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSI
 
-LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSI
+LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2012.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 15 de octubre de 2005.
 
@@ -195,9 +195,11 @@ El Supremo Tribunal de Justicia funcionará en Pleno y en salas colegiadas, las 
 
 El Pleno del Supremo Tribunal de Justicia conocerá de los asuntos de naturaleza judicial que determinen la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, los códigos Civil y Penal y de Procedimientos Civiles y Penales, la presente Ley y las demás disposiciones legales.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2012)</small>
+
 ###### ARTICULO 12.
 
-Las sesiones del Pleno del Supremo Tribunal de Justicia podrán ser ordinarias o extraordinarias y, en ambos casos, públicas o secretas. Las sesiones ordinarias se celebrarán el día y la hora que previamente se haya acordado, con las formalidades que establece el Reglamento Interior; y, las extraordinarias, cuando sea necesario para tratar y resolver asuntos urgentes, previa convocatoria del Presidente del mismo, en la que deberá incluir la orden del día a la cual debe sujetarse la sesión, determinándose si será pública o secreta. De igual forma se podrá celebrar sesión extraordinaria cuando lo soliciten por lo menos tres magistrados.
+Las sesiones del Pleno del Supremo Tribunal de Justicia podrán ser ordinarias o extraordinarias y, en ambos casos, públicas o privadas. Las sesiones ordinarias se celebrarán el día y la hora que previamente se haya acordado, con las formalidades que establece el Reglamento Interior; y las extraordinarias, cuando sea necesario para tratar y resolver asuntos urgentes, previa convocatoria del Presidente del mismo, en la que deberá incluir el orden del día a la cual debe sujetarse la sesión, determinándose si será pública o privada. De igual forma, se podrá celebrar sesión extraordinaria cuando lo soliciten por lo menos tres magistrados.
 
 ###### ARTICULO 13.
 
@@ -663,7 +665,7 @@ VIII. En general de todas las cuestiones familiares que reclamen la intervenció
 
 > <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
-ARTICULO 53 BIS. Además de las atribuciones ya establecidas para los jueces de primera instancia, los jueces especializados en justicia para menores, conocerán, tramitarán y resolverán los asuntos que atribuyen conductas tipificadas como delito en las leyes, a las personas que tengan entre doce años cumplidos y menos de dieciocho años de edad, o aquélas (sic) que en el momento de la comisión de la conducta atribuida hayan sido menores.
+ARTICULO 53 BIS. Además de las atribuciones ya establecidas para los jueces de primera instancia, los jueces especializados en justicia para menores, conocerán, tramitarán y resolverán los asuntos que atribuyen conductas tipificadas como delito en las leyes, a las personas que tengan entre doce años cumplidos y menos de dieciocho años de edad, o aquélas (sic)que en el momento de la comisión de la conducta atribuida hayan sido menores.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JUNIO DE 2011)</small>
 
@@ -2196,3 +2198,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se concede un plazo de sesenta días naturales para que el Consejo Estatal Electoral y de Participación Ciudadana del Estado, y el Poder Judicial del Estado, ajusten la reglamentación interna y administrativa que corresponda, para asegurar el cumplimiento de este Decreto.
 
 TERCERO. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 31 DE JULIO DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
