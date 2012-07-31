@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-2996"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-10"
-last_updated: "2011-12-31"
+last_updated: "2012-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE JULIO DE 2012.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de diciembre de 1990.
 
@@ -59,7 +59,7 @@ El ejercicio de las funciones de los Diputados al Congreso del Estado durante tr
 
 El Congreso tendrá la organización y funcionamiento que establecen la Constitución Política del Estado, esta Ley y los Reglamentos que deriven de la misma.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 14 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 5o.
 
@@ -159,7 +159,7 @@ Cuando por alguna circunstancia hubiere desaparecido el Poder Legislativo, el re
 
 DE LA INSTALACION DEL CONGRESO.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 24.
 
@@ -539,7 +539,7 @@ DE LAS COMISIONES.
 
 Para facilitar el despacho de los negocios del Congreso, se nombrarán Comisiones Permanentes y Especiales que los estudien y dictaminen, proponiéndo los proyectos de resoluciones que estimen procedentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 15 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 15 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 54.
 
@@ -665,7 +665,7 @@ g).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2011)
 
 h).- Las demás que le señalen la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JULIO DE 2008)</small>
 
 III.- DE DERECHOS HUMANOS Y DE ASUNTOS INDÍGENAS:
 
@@ -683,7 +683,7 @@ c).- Establecer coordinación con instituciones y organismo (sic) públicos y pr
 
 d).- Las demás que le encomiende la Mesa Directiva y la Junta de Gobierno y Coordinación Política.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE AGOSTO DE 2008)</small>
 
 IV.- DE ASUNTOS AGROPECUARIOS, FORESTALES Y MINEROS:
 
@@ -749,7 +749,7 @@ d).- La vigilancia del desempeño de la Procuraduría de la Defensa del Trabajo,
 
 e).- Las que le señalen la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE JULIO DE 2009)</small>
 
 IX.- DE LA SALUD, LA FAMILIA Y LA ASISTENCIA PÚBLICA:
 
@@ -947,9 +947,9 @@ d).- En coordinación con la Comisión de Puntos Constitucionales y de Justicia,
 
 e).- Lo relativo a la normatividad y demás aspectos relacionados con la protección civil;
 
-> <small>(ADICIONADO [N. DE E. REUBICADA], B.O. 10 DE NOVIEMBRE DE 2005)</small>
+> <small>(ADICIONADO [N. DE E. REUBICADO], B.O. 10 DE NOVIEMBRE DE 2005)</small>
 
-f).- En general, toda la legislación relacionada con la Seguridad Pública.
+f).- En general, toda legislación relacionada con la Seguridad Pública.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 20 DE DICIEMBRE DE 2011)</small>
 
@@ -1267,7 +1267,17 @@ XX.- Cuidar del local del Congreso promoviendo la realización de las mejoras ne
 
 XXI.- Llevar el control de la Biblioteca empleando el sistema de clasificación que se estime pertinente;
 
-XXII.- En las faltas accidentales de la Directiva o de la Diputación Permanente, rendir los informes previos y justificados que soliciten las Autoridades Judiciales Federales en los juicios de amparo, en los que el Congreso fuese señalado como autoridad responsable, pudiendo acreditar delegados para que actúen en los mismos conforme a lo que dispone el Artículo 19 de la Ley de Amparo. Igualmente, el Oficial Mayor podrá representar al Congreso ante cualquier autoridad, con las facultades de un Mandatario Jurídico;
+> <small>(REFORMADA, B.O. 31 DE JULIO DE 2012)</small>
+
+XXII.- Tener la representación legal del Congreso para:
+
+a) Rendir los informes previos y justificados que soliciten las Autoridades Judiciales Federales en los juicios de amparo, en los que el Congreso fuese señalado como autoridad responsable, pudiendo acreditar delegados para que actúen en los mismos conforme a lo que dispone el Artículo 19 de la Ley de Amparo.
+
+b) Representar legalmente al Congreso ante cualquier autoridad en materia de acciones de inconstitucionalidad y controversias constitucionales a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos.
+
+c) Representar legalmente al Congreso en todos los juicios o controversias de carácter administrativo, civil, electoral, laboral, penal y en todos aquellos en los que el Congreso del Estado intervenga, sea porte, tenga interés jurídico o se afecte su patrimonio.
+
+La facultad de representación señalada en la presente fracción las podrá delegar o trasmitir en favor de apoderados o de terceros, de conformidad con las formalidades aplicables al caso concreto. Dichos apoderados o terceros responderán solidariamente en caso de que por su negligencia o descuido en la atención de los asuntos que se les encomienden le resulte al Congreso del Estado de Baja California Sur, tener que cumplir con resoluciones de autoridades competentes que establezcan condenas en cantidades determinadas y liquidas.
 
 XXIII.- Coordinar, sistematizar y dar seguimiento a la consulta popular que el Congreso lleve a cabo como Cuerpo Colegiado, la Directiva, la Diputación Permanente o sus Comisiones;
 
@@ -1278,6 +1288,18 @@ XXV.- Las demás acordadas por la Asamblea, o que prescriban esta Ley y los Regl
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2011)</small>
 
 XXVI.- Con la información que le deberán entregar la Dirección de Finanzas, Dirección de Comunicación Social, Jefatura de Apoyo Parlamentario, Jefatura de Recursos Materiales y Humanos, Asesores Jurídicos, Fracciones Parlamentarias, Comisiones Legislativas, Mesa Directiva, Junta de Gobierno y Coordinación Política, y Órgano de Fiscalización Superior, instruirá a la Jefatura de Informática a publicar en la pagina Web del Congreso del Estado la información de carácter legislativo, administrativo y financiero, enumeradas en el articulo 247, misma que pondrá a disposición de la Unidad de Acceso a la Información Pública del Congreso del Estado.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2012)</small>
+
+Artículo 76 BIS.- El Oficial Mayor deberá cumplir por lo menos con los siguientes requisitos:
+
+I.- Ser ciudadano Sudcaliforniano;
+
+II.- Tener 25 años o más al momento de su designación;
+
+III.- Tener preferentemente Título de Licenciado en Derecho o carrera afín;
+
+IV.- No haber sido condenado por delito doloso que merezca pena privativa de libertad.
 
 ### CAPITULO IX
 
@@ -1415,7 +1437,7 @@ DE LAS INICIATIVAS.
 
 DE LOS DICTAMENES.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 14 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 85.
 
@@ -1493,7 +1515,7 @@ Son Sesiones Solemnes aquellas que determine la asamblea para la conmemoración 
 
 En estas Sesiones, siempre hará uso de la palabra, en representación del Congreso, alguno o algunos de los Diputados.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 95.
 
@@ -2139,7 +2161,7 @@ Las autoridades y funcionarios públicos en el desempeño de sus cargos, podrán
 
 ###### ARTICULO 187.
 
-El Congreso no podrá reunirse para tomar acuerdo o determinación oficial alguna, fuera del Recinto que le está destinado al efecto, salvo en caso de que por fuerza mayor o por circunstancias imprevistas no pudiera reunirse en éste. En tales casos, el Congreso podrá constituirse en local distinto al oficial; y al efecto investirá de la legalidad necesaria al lugar que ocupe, expedirá el Decreto correspondiente y dará aviso a las Autoridades Estatales y Federales, informando sobre los motivos que le hayan asistido para tomar tal determinación. Una vez desaparecidas las causas que motivaron el cambio de Recinto, volverá el Congreso del Estado a su Recinto Oficial, expidiéndo el Decreto respectivo y dando aviso a los otros Poderes.
+El Congreso no podrá reunirse para tomar acuerdo o determinación oficial alguna, fuera del Recinto que le está destinado al efecto, salvo en caso de que por fuerza mayor o por circunstancias imprevistas no pudiera reunirse en este. En tales casos, el Congreso podrá constituirse en local distinto al oficial; y al efecto investirá de la legalidad necesaria al lugar que ocupe, expedirá el Decreto correspondiente y dará aviso a las Autoridades Estatales y Federales, informando sobre los motivos que le hayan asistido para tomar tal determinación. Una vez desaparecidas las causas que motivaron el cambio de Recinto, volverá el Congreso del Estado a su Recinto Oficial, expidiéndo el Decreto respectivo y dando aviso a los otros Poderes.
 
 ###### ARTICULO 188.
 
@@ -2293,7 +2315,7 @@ DEL NOMBRAMIENTO E INSTALACION DE LA DIPUTACION PERMANENTE.
 
 DE LAS ATRIBUCIONES Y FUNCIONAMIENTO DE LA DIPUTACION PERMANENTE.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 6 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 6 DE ABRIL DE 1999)</small>
 
 ###### ARTICULO 215.
 
@@ -2433,7 +2455,7 @@ La representación del Poder Legislativo radicará en la Diputación Permanente,
 
 Al final de su ejercicio, la Diputación Permanente entregará a la Directiva del período que se inicia, un informe por escrito y detallado de los trabajos realizados, así como un inventario que contenga los expedientes de iniciativas, oficios, memoriales, comunicaciones y demás documentos turnados durante su ejercicio. Quién informe al pleno, deberá abstenerse de emitir opinión alguna sobre los asuntos mencionados.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, B.O. 31 DE JULIO DE 2009)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTICULOS QUE LO INTEGRAN, B.O. 31 DE JULIO DE 2009)</small>
 
 ## TITULO NOVENO. DE LA TRANSPARENCIA Y ACCESO A LA INFORMACION
 
@@ -2707,7 +2729,7 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. MARIO VARGAS AGUIAR.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 B.O. 20 DE DICIEMBRE DE 1995.
 
@@ -2727,13 +2749,13 @@ SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente Dec
 
 B.O. 20 DE JUNIO DE 2000.
 
-DECRETO NUMERO 1272.
+DECRETO NÚMERO 1272.
 
 PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
 
 B.O. 20 DE JUNIO DE 2000.
 
-DECRETO NUMERO 1275.
+DECRETO NÚMERO 1275.
 
 ###### ARTICULO UNICO.
 
@@ -2767,13 +2789,13 @@ SEGUNDO.- Los asuntos que actualmente se encuentran turnados a las diferentes Co
 
 B.O. 10 DE NOVIEMBRE DE 2005.
 
-DECRETO NUMERO 1567.
+DECRETO NÚMERO 1567.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 B.O. 10 DE NOVIEMBRE DE 2005.
 
-DECRETO NUMERO 1569.
+DECRETO NÚMERO 1569.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
@@ -2839,7 +2861,7 @@ B.O. 7 DE AGOSTO DE 2008.
 
 B.O. 31 DE JULIO DE 2009.
 
-DECRETO 1799, QUE DEROGA LA FRACCION VIII DEL ARTICULO 51 Y SE ADICIONA UN TITULO OCTAVO A LA LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR.
+DECRETO 1799, QUE DEROGA LA FRACCIÓN VIII DEL ARTÍCULO 51 Y SE ADICIONA UN TÍTULO OCTAVO A LA LEY REGLAMENTARÍA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR.
 
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
 
@@ -2847,7 +2869,7 @@ SEGUNDO.- El Presidente de la Gran Comisión del Congreso del Estado y el Presid
 
 B.O. 31 DE JULIO DE 2009.
 
-DECRETO 1800, QUE REFORMA Y ADICIONA LOS ARTICULOS 54 Y 55 DE LA LEY REGLAMENTARIA DEL PODER LEGISLATIVO PARA EL ESTADO DE BAJA CALIFORNIA SUR.
+DECRETO 1800, QUE REFORMA Y ADICIONA LOS ARTÍCULOS 54 Y 55 DE LA LEY REGLAMENTARIA DEL PODER LEGISLATIVO PARA EL ESTADO DE BAJA CALIFORNIA SUR.
 
 ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
 
@@ -2888,3 +2910,7 @@ B.O. 31 DE DICIEMBRE DE 2011.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 31 DE JULIO DE 2012.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
