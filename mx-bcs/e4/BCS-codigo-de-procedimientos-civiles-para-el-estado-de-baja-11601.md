@@ -4,7 +4,7 @@ identifier: "BCS-codigo-de-procedimientos-civiles-para-el-estado-de-baja-11601"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-05-23"
-last_updated: "2011-07-06"
+last_updated: "2012-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCS"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA SUR
+CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 6 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE JULIO DE 2012.
 
 Código publicado en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el viernes 23 de mayo de 1997.
 
@@ -803,7 +803,7 @@ II. Cuando se trate de personas cuyo domicilio se ignora, previo informe de la p
 
 En este caso y en el de la fracción anterior, los edictos se publicarán por tres veces, de tres en tres días, en el Boletín Judicial y en un periódico local de los de mayor circulación a criterio del juez, haciéndose saber que debe presentarse el citado dentro de un término que no será inferior a quince días ni excederá de sesenta días, y
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
 
 Tratándose de juicio de Pérdida de Patria Potestad el término para que el demandado comparezca a juicio no será menor de diez ni excederá de treinta días y
 
@@ -1111,7 +1111,7 @@ XII. En los juicios de divorcio, el tribunal del domicilio conyugal, y en caso d
 
 XIII. En los juicios de alimentos, el domicilio del actor o el del demandado a elección del primero.
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2010)</small>
 
 XIV.- En los procedimientos, tratándose de menores acogidos en una institución de asistencia social sea publica o privada, serán juzgados competentes aquellos en donde se haya establecido el domicilio del menor.
 
@@ -3969,7 +3969,7 @@ La retención o embargo practicados a consecuencia de declaración en rebeldía 
 
 En el caso en que el emplazamiento se hubiere hecho por edictos, la sentencia no se ejecutará sino pasados tres meses a partir de la última publicación en el Boletín Judicial o en el periódico del lugar, a no ser que el actor dé la fianza prevenida para el juicio ejecutivo.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
 
 En los casos de rebeldía tratándose de juicios de Patria Potestad, el término para la ejecución de la sentencia a que se refiere el párrafo anterior, será de treinta días y sin la posibilidad de exhibir la fianza a que se refiere el mismo.
 
@@ -4167,11 +4167,13 @@ Ejecutoriada la sentencia de divorcio, el Tribunal mandará remitir copia de ell
 
 Divorcio voluntario en la vía administrativa
 
+> <small>(REFORMADO, B.O. 31 DE JULIO DE 2012)</small>
+
 ### CAPITULO I. De la revocación y apelación
 
 ###### Artículo 666.
 
-El divorcio voluntario en la vía administrativa se tramitará ante el Oficial del Registro Civil del domicilio de los divorciantes, conforme lo establecen los artículos 277, 278, 279 y 280 del Código Civil.
+El divorcio voluntario en la vía administrativa se tramitará ante el Oficial del Registro Civil del domicilio de los divorciantes, conforme lo establecen los artículos 277, 278 y 279 del Código Civil.
 
 ### CAPITULO II. De la apelación extraordinaria
 
@@ -4341,7 +4343,7 @@ La revisión de las sentencias recaídas en los juicios sobre nulidad, rectifica
 
 Será admisible la apelación dentro de los tres meses que sigan al día de la notificación de la sentencia:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2010)</small>
 
 I. Cuando se hubiere notificado el emplazamiento al demandado, por edictos, y el juicio se hubiere seguido en rebeldía; o en cualquier otro caso en que la sentencia se notifique en igual forma, salvo que se trate de juicios de Patria Potestad en los que el termino será de treinta días;
 
@@ -5703,19 +5705,19 @@ Lo dispuesto en los artículos que preceden se aplicará al gravamen y enajenaci
 
 ###### Artículo 905.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2010)
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2010)
 
 ###### Artículo 906.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2010)
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2010)
 
 ###### Artículo 907.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2010)
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2010)
 
 ###### Artículo 908.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2010)
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2010)
 
 Adopción plena
 
@@ -5737,7 +5739,7 @@ Los infractores de esta disposición incluyendo los términos para llevar a cabo
 
 Cuando el menor hubiere sido acogido en una institución pública, los adoptantes recabarán constancia del tiempo de la exposición o abandono para los efectos de la fracción III del artículo 441 del Código Civil. Si hubiere transcurrido los plazos de exposición o abandono a que se refiere la fracción IV del artículo 507 del Código Civil, se decretará el depósito del menor con los presuntos adoptantes, si el menor no tuviera padres conocidos y no hubiera sido acogido por institución pública, se procederá a la adopción.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 910.
 
@@ -5745,13 +5747,13 @@ La adopción no puede ser revocada por los adoptantes.
 
 Adopción hecha por extranjeros
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 911.
 
 El extranjero que pretenda adoptar deberá cumplir con los requisitos establecidos en el artículo 447 del Código Civil.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 912.
 
@@ -5759,7 +5761,7 @@ El juez debe solicitar dentro de los tres días siguientes a la radicación del 
 
 ###### Artículo 913.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2010)
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2010)
 
 ### CAPITULO UNICO
 
@@ -6267,7 +6269,7 @@ SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. RAUL ANTONIO ORTEGA SALGADO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 B.O. 7 DE ENERO DE 2002.
 
@@ -6298,3 +6300,9 @@ SEGUNDO.- Para los efectos de lo dispuesto en el artículo 18 fracción VII de l
 B.O. 6 DE JULIO DE 2011.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 31 DE JULIO DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
