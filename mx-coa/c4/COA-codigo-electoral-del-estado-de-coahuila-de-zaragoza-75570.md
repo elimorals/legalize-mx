@@ -4,7 +4,7 @@ identifier: "COA-codigo-electoral-del-estado-de-coahuila-de-zaragoza-75570"
 country: "mx"
 rank: "codigo"
 publication_date: "2010-06-29"
-last_updated: "2011-02-25"
+last_updated: "2012-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75570&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COA"
 ---
 # CODIGO ELECTORAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-CODIGO ELECTORAL DEL ESTADO DE COAHUILA DE ZARAGOZA
+CÓDIGO ELECTORAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE FEBRERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2012.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el martes 29 de junio de 2010.
 
@@ -315,33 +315,51 @@ e) Ningún partido político podrá contar con más de dieciséis diputados por 
 
 a) Los miembros de los Ayuntamientos que serán electos según el principio de mayoría relativa, en cada uno de los municipios del Estado, serán los siguientes:
 
-I. Un Presidente Municipal, tres Regidores y un Síndico en los municipios que tengan hasta 15,000 electores;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2012)</small>
 
-II. Un Presidente Municipal, cinco Regidores y un Síndico, en los municipios que tengan de 15,001 hasta 40,000 electores;
+I. Un Presidente Municipal, cinco Regidores y un Síndico en los municipios que tengan hasta 15,000 electores;
 
-III. Un Presidente Municipal, siete Regidores y un Síndico, en los municipios que tengan de 40,001 hasta 80,000 electores, y
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2012)</small>
 
-IV. Un Presidente Municipal, ocho Regidores y un Síndico en los municipios que tengan 80,001 electores en adelante.
+II. Un Presidente Municipal, siete Regidores y un Síndico, en los municipios que tengan de 15,001 hasta 40,000 electores;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2012)</small>
+
+III. Un Presidente Municipal, nueve Regidores y un Síndico, en los municipios que tengan de 40,001 hasta 80,000 electores, y
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2012)</small>
+
+IV. Un Presidente Municipal, once Regidores y un Síndico en los municipios que tengan 80,001 electores en adelante.
 
 b) Se asignará una segunda sindicatura al partido político que se constituya como la primera minoría.
 
 c) En atención al número de electores de cada Municipio, los Ayuntamientos deber (sic) tener Regidores de representación proporcional, en la siguiente forma:
 
-I. Un Regidor, en los municipios que cuenten hasta con 15,000 electores;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2012)</small>
 
-II. Tres Regidores, en aquellos municipios que tengan de 15,001 hasta 40,000 electores, y
+l. Dos Regidores, en los municipios que cuenten hasta con 15,000 electores;
 
-III. Cuatro Regidores, en aquellos municipios que tengan de 40,001 electores en adelante.
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2012)</small>
+
+II. Cuatro Regidores, en aquellos municipios que tengan de 15,001 hasta 40,000 electores, y
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2012)</small>
+
+III. Seis Regidores, en aquellos municipios que tengan de 40,001 electores en adelante.
 
 3. Para que los partidos políticos tengan derecho a participar en la asignación de regidores de representación proporcional, deberán satisfacer los siguientes requisitos:
 
 a) Que no hayan alcanzado el triunfo de mayoría en el Municipio de que se trate; y
 
-b) Que obtengan, por lo menos, el 3% del total de la votación válida emitida en el Municipio correspondiente.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2012)</small>
+
+b) Que obtengan, por lo menos, el 2% del total de la votación válida emitida en el Municipio correspondiente.
 
 4. La asignación de regidores de representación proporcional se hará conforme a las fórmulas de porcentaje específico, cociente natural y resto mayor, de acuerdo con las bases siguientes:
 
-a) Para la primera ronda de asignación se procederá a aplicar el procedimiento de porcentaje específico en la circunscripción municipal, para lo cual se asignará un regidor a todo aquel partido político que haya obtenido al menos el 3% de la votación válida emitida.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2012)</small>
+
+a) Para la primera ronda de asignación se procederá a aplicar el procedimiento de porcentaje específico en la circunscripción municipal, para lo cual se asignará un regidor a todo aquel partido político que haya obtenido al menos el 2% de la votación válida emitida.
 
 En el caso de que el número de partidos políticos que cumplan el requisito anterior exceda al de las regidurías por repartir, se les asignarán regidurías en forma decreciente, dependiendo del resultado de la votación alcanzada por cada uno de ellos, hasta agotar las que haya por distribuir.
 
@@ -4205,7 +4223,7 @@ ARMANDO LUNA CANALES
 
 (RÚBRICA)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 25 DE FEBRERO DE 2011.
 
@@ -4214,3 +4232,9 @@ PRIMERO.- La presente Iniciativa entrará en vigor al día siguiente de su publi
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- Una vez realizada la publicación del Decreto correspondiente, se informe a la Suprema Corte de Justicia de la Nación, el cumplimiento de lo determinado por el Tribunal Pleno, en los autos de la ACCIÓN DE INCONSTITUCIONALlDAD 14/2010 Y SUS ACUMULADAS 15/2010, 16/2010 y 17/2010, remitiéndole el Periódico Oficial del Estado, así como los anexos legislativos correspondientes, solicitando en los términos de los artículos 46 y 50 de la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, sea resuelto el cumplimiento de la sentencia por ese Alto Tribunal y se ordene su archivo como asunto totalmente concluido.
+
+P.O. 31 DE JULIO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
