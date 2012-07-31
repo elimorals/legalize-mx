@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-penales-para-el-estado-de-san-luis-181
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2012-06-14"
+last_updated: "2012-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18105&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2012.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -750,6 +750,10 @@ Cuando tratándose de delito de ataques a las vías de comunicación, no fuere p
 Para integrar el cuerpo del delito de violencia familiar, deberán acreditarse las calidades especificas y circunstancias de los sujetos señalados en los artículos 177 y 178 del Código Penal del Estado, además de agregarse a la averiguación previa el dictamen médico o psicológico que acrediten el daño a la salud física o mental de la víctima, expedido por perito el correspondiente, de acuerdo a lo que dispone el artículo 247 y demás relativos de este Ordenamiento.
 
 Los profesionales que presten sus servicios en las instituciones legalmente constituidas, especializadas en atención de problemas relacionados con la violencia familiar, deberán rendir los informes por escrito que les sean solicitados por las autoridades. Asimismo, dichos profesionistas podrán colaborar en calidad de peritos, sujetándose a lo dispuesto por este Código.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2012)</small>
+
+ARTICULO 116 BIS. Para integrar el cuerpo del delito y la probable responsabilidad de los ilícitos a los que se refiere el Título Vigésimo del Código Penal del Estado, el Ministerio Público podrá realizar consultas o solicitar peritajes, dictámenes u opiniones técnicas a la Secretaría de Ecología y Gestión Ambiental, a instituciones académicas; centros de investigación científica; entidades y dependencias federales, así como especialistas certificados.
 
 ###### ARTICULO 117.
 
@@ -4026,3 +4030,11 @@ P.O. 14 DE JUNIO DE 2012.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE JULIO DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Ejecutivo del Estado expedirá en ciento veinte días los reglamentos a que se refiere este Decreto; y adecuará aquéllos que así lo requieran.
