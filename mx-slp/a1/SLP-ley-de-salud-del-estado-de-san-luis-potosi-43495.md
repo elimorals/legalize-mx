@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2011-11-10"
+last_updated: "2012-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2012.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -523,6 +523,24 @@ I. Que se garantice a la población del Estado la disponibilidad de medicamentos
 
 II. Que los establecimientos de los sectores públicos, social y privado dedicados al expendio de medicamentos y a la provisión de insumos para su elaboración, se ajusten a los preceptos legales aplicables.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2012)</small>
+
+ARTICULO 27 BIS. Los profesionales que podrán preescribir (sic) medicamentos son:
+
+l. Médicos;
+
+II. Homeópatas;
+
+III. Cirujanos Dentistas;
+
+IV. Médicos Veterinarios en el área de su competencia, y
+
+V. Licenciados en Enfermería, quienes únicamente podrán prescribir cuando no se cuente con los servicios de un médico, aquellos medicamentos del cuadro básico que determine la Secretaría de Salud Federal.
+
+Los profesionales a que se refiere el presente artículo deberán contar con cédula profesional expedida por las autoridades educativas competentes. Los pasantes en servicio social, de cualquiera de las carreras antes mencionadas y los enfermeros podrán prescribir ajustándose a las especificaciones que determine la Secretaría de Salud Federal.
+
 ### CAPITULO III. Prestadores de Servicios de Salud
 
 ###### ARTICULO 28.
@@ -544,6 +562,8 @@ IV. De rehabilitación, que incluyen acciones tendientes a corregir las minusval
 ### CAPITULO IV. Usuarios de los Servicios de Salud y Participación de la Comunidad
 
 ### CAPITULO V. Atención Materno-Infantil
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 29.
 
@@ -673,31 +693,51 @@ Para que tal denuncia pueda tener curso legal, bastará el señalamiento de los 
 
 ###### ARTICULO 51.
 
-La atención materno-infantil tiene carácter prioritario y comprende las siguientes acciones:
+La atención médica ginecológica de la madre durante el embarazo, el parto y el puerperio.
 
 I. La atención de la madre durante el embarazo, el parto y el puerperio;
 
-II. La atención del niño y la vigilancia de su crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna, y
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2012)</small>
 
-III. La promoción de la integración y el bienestar familiar, fomentando la responsabilidad de los padres en el crecimiento y desarrollo de sus hijos.
+II. La atención de la niña o niño en la vigilancia de su crecimiento y desarrollo, incluyendo la estimulación temprana y la promoción de la vacunación oportuna;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2012)</small>
+
+III. La promoción e información sobre:7 (sic) derechos sexuales y reproductivos, métodos anticonceptivos, planificación familiar, integración y el bienestar familiar, fomentando la responsabilidad de la madre y el padre en el crecimiento y desarrollo de sus hijas e hijos, y
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2012)</small>
+
+IV. La promoción de la integración y el bienestar familiar, fomentando la responsabilidad de madres y padres en el crecimiento y desarrollo de sus hijas e hijos.
 
 ###### ARTICULO 52.
 
 La Secretaría de Salud del Estado impulsará la organización institucional de comités de prevención de la mortalidad materna e infantil, a efecto de conocer, sistematizar y evaluar el problema, así como adoptar las medidas conducentes.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2012)</small>
+
 ###### ARTICULO 53.
 
-La protección de la salud física y mental de los menores es una responsabilidad que comparten los padres, tutores o quienes ejerzan la patria potestad sobre ellos, el estado y la sociedad en general.
+La protección de la salud física y mental de las personas menores de edad es una responsabilidad que deben compartir madre y padre por igual, tutores de menores de edad, el estado y la sociedad en general.
 
 ###### ARTICULO 54.
 
 En la organización y operación de los servicios de salud destinadas a la atención materno-infantil, las autoridades sanitarias del Estado establecerán:
 
-I. Procedimientos que permitan la participación activa de la familia en la prevención y atención oportuna de los padecimientos de los usuarios;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2012)</small>
 
-II. Acciones de orientación y vigilancia institucional, fomento a la lactancia materna y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno-infantil, y
+I. Procedimientos que permitan la participación activa de la familia en la prevención y atención oportuna de los padecimientos de las personas usuarias;
 
-III. Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarreicos y las infecciones respiratorias agudas de los menores de cinco años.
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2012)</small>
+
+II. Acciones de orientación y vigilancia institucional, fomento a la lactancia materna y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno-infantil;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2012)</small>
+
+III. Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarreicos y las infecciones respiratorias agudas de los menores de cinco años, y
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2012)</small>
+
+IV. Acciones para implementar programas de estimulación temprana en el primer nivel de atención, que contengan estrategias apropiadas de las áreas rural y urbana para inscribir a niñas y niños e informar a madres y padres, familia y comunidad, de los beneficios de éstas.
 
 ###### ARTICULO 55.
 
@@ -2867,7 +2907,7 @@ IX. Cuando lo solicite el interesado;
 
 > <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
-X. Cuando profesionales, técnicos o auxiliares en materia de salud, incurran en la práctica contemplada en el artículo 71BIS de esta Ley, y
+X. Cuando profesionales, técnicos o auxiliares en materia de salud, incurran en la práctica contemplada en el artículo 71 BIS de esta Ley, y
 
 XI. En los demás casos que determine la autoridad sanitaria competente.
 
@@ -3492,3 +3532,19 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 No obstante lo anterior, para la implementación del presente Decreto el Estado contará con un plazo de tres años a partir de su entrada en vigor.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 31 DE JULIO DE 2012.
+
+DECRETO NÚMERO 1115, POR EL QUE SE ADICIONA EL ARTÍCULO 27 BIS A LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ.
+
+PRIMERO. Este Decreto entrará en vigor una vez que el Ejecutivo Federal, a través de la Secretaría de Salud, de conformidad con lo que establece el artículo Único Transitorio del Decreto que adiciona el artículo 28 Bis a la Ley General de Salud, para establecer los lineamientos y procedimientos de operación, así como los criterios para la prescripción de medicamentos por el personal de enfermería en la atención primaria a la salud.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 31 DE JULIO DE 2012.
+
+DECRETO NÚMERO 1116, POR EL QUE SE REFORMA LOS ARTÍCULOS, 51, 53, Y 54, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
