@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2012-06-19"
+last_updated: "2012-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2012.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -2645,35 +2645,127 @@ El término para demandar la responsabilidad ambiental será el previsto en las 
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2012)</small>
+
 ###### ARTICULO 174.
 
-Los delitos a que se refiere este Capítulo se perseguirán de oficio.
+Las conductas constitutivas de delitos en materia ambiental, se sancionaran de conformidad con lo que establece el Código Penal del Estado.
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 175.
 
-Se impondrá pena de tres meses a seis años de prisión y multa por el equivalente de cien a diez mil días de salario mínimo general vigente en la Entidad, al que sin contar con las autorizaciones respectivas a que se refiere esta Ley, efectúe, autorice u ordene la realización de actividades que conforme a este ordenamiento se consideren como riesgosas, que ocasionen graves daños a la salud pública, la flora, la fauna o a los ecosistemas.
+La SEGAM deberá presentar denuncia o querella, según proceda, respecto de los delitos en materia ambiental de los que tenga conocimiento.
 
-Cuando las actividades consideradas como riesgosas a que se refiere el párrafo anterior, se lleven a cabo en un centro de población, se podrá elevar la pena hasta tres años más de prisión y la multa hasta veinte mil días de salario mínimo vigente en la Entidad.
+Tratándose de delitos ambientales, como autoridad en la materia, la SEGAM deberá coadyuvar con el Ministerio Público del fuero común.
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 176.
 
-Se impondrá pena de un mes a cinco años de prisión y multa por el equivalente de cien a diez mil días de salario mínimo vigente en la Entidad, al que con violación a lo dispuesto en las disposiciones legales y normas técnicas aplicables, expida, descargue en la atmósfera, gases, humos y polvos, vapores y olores, que ocasionen o puedan ocasionar daños graves a la salud pública, la flora, la fauna o los ecosistemas.
+En los términos del Código Penal, el Estado tiene derecho a la reparación del daño, a través del área estatal encargada de la ecología y gestión ambiental, en los casos de delitos contra el medio ambiente.
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 177.
 
-Se impondrá pena de tres meses a cinco años de prisión o multa por el equivalente de cien a diez mil días de salario mínimo general vigente en la Entidad, al que sin autorización de la autoridad competente y en contravención a las disposiciones legales, reglamentarias y normas técnicas aplicables, por acción propia o porque lo autorice u ordene, descargue, deposite o infiltre aguas residuales, desechos o contaminantes en ríos, cuencas, vasos, demás depósitos o corrientes de agua de jurisdicción estatal que ocasionen o puedan ocasionar graves daños a los ecosistemas o a la salud pública.
+Para el caso de la reparación del daño, la SEGAM expedirá dictamen técnico que evalúe el daño ambiental causado.
 
-Cuando se trate de aguas para ser entregadas en bloque a centros de población, la pena se podrá elevar hasta tres años más.
+Los lineamientos y requisitos para la expedición del dictamen al que se refiere el párrafo anterior, se establecerán en el Reglamento.
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 178.
 
-Se impondrá pena de un mes a cinco años de prisión y multa por el equivalente de cien a diez mil días de salario mínimo general vigente en la Entidad, a quien en contravención a las disposiciones legales aplicables y rebasando los límites fijados en las normas técnicas, generen emisiones de ruido, vibraciones, energía térmica o lumínica en zonas de jurisdicción estatal, que ocasionen o puedan ocasionar graves daños a la salud pública, la flora, la fauna o los ecosistemas.
+La SEGAM llevará un control y registro con la información que le proporcionará el Ministerio Público y, en su caso, las demás instituciones de seguridad pública locales, relacionada con las detenciones, consignaciones, procesos y sentencias relacionadas con este precepto, según corresponda, en donde se establezcan los datos generales del imputado, datos del vehículo de motor, forma de comisión del delito, y el cubicaje del recurso forestal objeto del delito, debiendo establecer mecanismos de coordinación con las autoridades federales, estatales y municipales correspondientes.
 
-> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 179.
 
-Los ayuntamientos regularán las sanciones administrativas que expidan en la materia por violaciones a los reglamentos y bandos de policía y gobierno.
+Los ayuntamientos regularán las sanciones administrativas por violaciones a los bandos y reglamentos de Policía y Gobierno que expidan en la materia.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE JULIO DE 2012)</small>
+
+## TITULO DECIMO QUINTO. DEL FONDO AMBIENTAL PÚBLICO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE JULIO DE 2012)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2012)</small>
+
+###### ARTICULO 180.
+
+La SEGAM contará con el Fondo Ambiental Público, que tiene por objeto subsidiar todos aquellos gastos no incluídos en el presupuesto anual de egresos.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2012)</small>
+
+###### ARTICULO 181.
+
+El Fondo Ambiental Público se integrará con los recursos obtenidos por:
+
+l. La reparación del daño a que tiene derecho la SEGAM, derivada de la comisión de los delitos previstos en el Titulo Vigésimo del Código Penal del Estado, y los reembolsos que, en su caso, se obtengan por el mismo concepto;
+
+II. Las aportaciones o transferencias que hagan los gobiernos, federal, estatal, o municipales, mediante los acuerdos o convenios de colaboración celebrados al efecto;
+
+III. Las multas por infracciones a lo dispuesto en esta Ley, sus reglamentos, normas ambientales estatales, y demás disposiciones que de ella deriven;
+
+IV. Las indemnizaciones generadas por la comisión de delitos ambientales;
+
+V. El pago de derechos por otorgamiento de autorizaciones, permisos, y renovaciones a que se refiere esta Ley y sus reglamentos;
+
+VI. Las donaciones, herencias o legados;
+
+VII. Las aportaciones en efectivo o en especie, que a título gratuito otorguen las personas fisicas o morales, y las instituciones públicas o privadas;
+
+VIII. Los intereses que generen los recursos financieros incorporados al Fondo señalados en las fracciones anteriores, y
+
+IX. Todo aquéllo que se incorpore al Fondo y sea legalmente útil para el cumplimiento de su objeto.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2012)</small>
+
+###### ARTICULO 182.
+
+La administración y ejecución de los recursos del Fondo estará a cargo de un Consejo Técnico integrado por:
+
+I. Un Presidente: que será el titular de la SEGAM;
+
+II. Un Vicepresidente: que será el titular de la dirección de normatividad de la SEGAM;
+
+III. Tres vocales que serán directores de área de la SEGAM;
+
+IV. Un Secretario Técnico, que será el titular de la dirección de administración de la SEGAM, y
+
+V. Un Comisario, que será el titular de la contraloría interna de la SEGAM.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2012)</small>
+
+###### ARTICULO 183.
+
+Los recursos del Fondo Ambiental Público serán destinados a:
+
+I. Contribuir en la reparación de los daños ambientales, causados por la comisión de los delitos a los que se refiere el Título Vigésimo del Código Penal del Estado;
+
+II. Coadyuvar en el financiamiento del diseño de programas de difusión, educación e investigación para proteger, mejorar, conservar y restaurar los recursos naturales;
+
+III. Apoyar acciones para prevenir y combatir la contaminación ambiental;
+
+IV. Desarrollar e implementar proyectos de mitigación de emisiones y mejoramiento de la calidad del aire, y
+
+V. Los demás que determine el Consejo Técnico.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2012)</small>
+
+###### ARTICULO 184.
+
+El Fondo Ambiental Público se sujetará a los mecanismos de control, auditoría, transparencia, evaluación y rendición de cuentas que establecen las diversas legislaciones del Estado.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2012)</small>
+
+###### ARTICULO 185.
+
+Las políticas, bases, y lineamientos de operación del Fondo Ambiental Público, se establecerán en su Reglamento.
 
 ## TRANSITORIOS
 
@@ -2832,3 +2924,11 @@ P.O. 19 DE JUNIO DE 2012.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 31 DE JULIO DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Ejecutivo del Estado expedirá en ciento veinte días los reglamentos a que se refiere este Decreto; y adecuará aquéllos que así lo requieran.
