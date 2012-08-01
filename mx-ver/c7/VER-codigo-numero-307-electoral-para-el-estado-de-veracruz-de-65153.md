@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-307-electoral-para-el-estado-de-veracruz-de-65153
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-22"
-last_updated: "2009-07-31"
+last_updated: "2012-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65153&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 CÓDIGO NÚMERO 307 ELECTORAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE JULIO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO NÚMERO 568 ELECTORAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADO EN LA G.O. DE 1 DE AGOSTO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADO.
 
 Código publicado en el Número Extraordinario 421 de la Gaceta Oficial del Estado de Veracruz, el lunes 22 de diciembre de 2008.
 
@@ -4884,3 +4886,11 @@ G.O. 31 DE JULIO DE 2009.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+G.O. 1 DE AGOSTO DE 2012
+
+Artículo primero. El presente Código entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Artículo segundo. Se abroga el Código Electoral número 307 para el Estado de Veracruz de Ignacio de la Llave, publicado en la Gaceta Oficial del estado, de fecha veintidós de diciembre del año dos mil ocho.
+
+Artículo tercero. El Consejo General del Instituto Electoral Veracruzano, a partir de la entrada en vigor del presente Código, contará con un plazo de tres meses para realizar las modificaciones correspondientes a su normativa interna.
