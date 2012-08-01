@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-de-la-administracion-publica-municipal-del-h-66660"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-14"
-last_updated: "2011-09-28"
+last_updated: "2012-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # REGLAMENTO DE LA ADMINISTRACION PUBLICA MUNICIPAL DEL H. AYUNTAMIENTO DE TUXTLA GUTIERREZ, CHIAPAS
 
-REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL H. AYUNTAMIENTO DE TUXTLA GUTIÉRREZ CHIAPAS
+REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL H. AYUNTAMIENTO DE TUXTLA GUTIÉRREZ, CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE TUXTLA GUTIÉRREZ CHIAPAS, PUBLICADO EN EL P.O. 1 DE AGOSTO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 14 de enero de 2009.
 
@@ -3414,3 +3416,13 @@ Artículo Primero.- La presente reforma entrará en vigor al día siguiente de s
 Artículo Segundo.- Quedan abrogadas todas aquellas disposiciones que se opongan al presente Acuerdo.
 
 Artículo Tercero.- Para su debido conocimiento publíquese el presente Acuerdo en la Gaceta Municipal, en los Estrados del Palacio Municipal y en cinco lugares de mayor afluencia vecinal de las Agencias Municipales.
+
+P.O. 1 DE AGOSTO DE 2012.
+
+Primero.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chiapas.
+
+Segundo.- A partir de la fecha de entrada en vigor del presente reglamento, se abroga el Reglamento de la Administración Pública Municipal de Tuxtla Gutiérrez, Chiapas, aprobado en sesión ordinaria de Cabildo Acta número 48, de fecha 08 de diciembre de 2008.
+
+Tercero.- Para el funcionamiento y operación de los nuevos organismos desconcentrados y aquellos que pasen a formar parte de otra dependencia o entidad de la Administración Pública Municipal, el Ayuntamiento adecuará las partidas presupuestales necesarias a través de la Tesorería Municipal con autorización del Presidente Municipal y transferirá mediante acuerdo en su caso, los inventarios que correspondan a recursos materiales, administrativos y capital humano que correspondan a cada entidad desconcentrada.
+
+Cuarto.- Para su debido conocimiento publíquese el presente Reglamento en la Gaceta Municipal, en los Estrados del Palacio Municipal y en cinco lugares de mayor afluencia vecinal de las Agencias Municipales.
