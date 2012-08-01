@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-operacion-del-comite-tecnico-de-valuacion-de-7534
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-06-18"
-last_updated: "2010-06-18"
+last_updated: "2012-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75342&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2010-05-24"
 ---
 # REGLAMENTO DE OPERACION DEL COMITE TECNICO DE VALUACION DE LA SECRETARIA DE LA REFORMA AGRARIA
 
-REGLAMENTO DE OPERACION DEL COMITE TECNICO DE VALUACION DE LA SECRETARIA DE LA REFORMA AGRARIA
+REGLAMENTO DE OPERACIÓN DEL COMITÉ TÉCNICO DE VALUACIÓN DE LA SECRETARÍA DE LA REFORMA AGRARIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO DE OPERACIÓN DEL COMITÉ TÉCNICO DE VALUACIÓN DE LA SECRETARÍA DE LA REFORMA AGRARIA, PUBLICADO EN EL D.O.F. DE 1 DE AGOSTO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 18 de junio de 2010.
 
@@ -360,3 +362,11 @@ PRIMERO.- Se abroga el Reglamento de Operación del Comité Técnico de Valuaci�
 SEGUNDO.- El presente Reglamento entrará en vigor a partir del día siguiente al que sea publicado en el Diario Oficial de la Federación.
 
 México, Distrito Federal, a los veinticuatro días del mes de mayo de dos mil diez.- El Secretario de la Reforma Agraria, Abelardo Escobar Prieto.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 1 DE AGOSTO DE 2012.
+
+PRIMERO.- Se abroga el Reglamento de Operación del Comité Técnico de Valuación de la Secretaría de la Reforma Agraria de fecha 3 de octubre de 1996, publicado el 22 de octubre del mismo año en el Diario Oficial de la Federación, su correspondiente reforma y adición de fecha 24 de mayo de 2010, publicado el 18 de junio del mismo año en el citado Diario Oficial, así como los demás publicados con anterioridad.
+
+SEGUNDO.- El presente Reglamento entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
