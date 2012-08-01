@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-del-instituto-de-desarrollo-humano-51136"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-06-21"
-last_updated: "2006-06-21"
+last_updated: "2012-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51136&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE DESARROLLO HUMANO
 
-REGLAMENTO INTERIOR DEL INSTITUTO DE DESARROLLO HUMANO
+REGLAMENTO INTERIOR DEL INSTITUTO DE DESARROLLO HUMANO DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. 1 DE AGOSTO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 21 de junio de 2006.
 
@@ -544,3 +546,23 @@ Artículo Tercero.- Se derogan las disposiciones que tenga similar o menor jerar
 Dado en en (sic) Palacio de Gobierno, Residencia Oficial del Poder Ejecutivo, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los ocho días del mes de junio del año dos mil seis.
 
 Pablo Salazar Mendiguchía, Gobernador del Estado.- Roger Grajales González, Secretario de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE AGOSTO DE 2012.
+
+Artículo Primero.- El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se abroga el Reglamento Interior del Instituto de Desarrollo Humano, publicado en el Periódico Oficial número 368-2a. Sección, de fecha 21 de junio de 2006; así como las disposiciones que del mismo emanen, y se derogan todas las disposiciones de igual o menor jerarquía que se opongan a este Decreto.
+
+Artículo Tercero.- Para las cuestiones no previstas en este Reglamento Interior, respecto al funcionamiento de los Órganos Administrativos, el Director General, resolverá lo conducente, previa aprobación de la Junta de Gobierno.
+
+Artículo Cuarto.- En un plazo no mayor a noventa días hábiles, el DIF-Chiapas, deberá expedir los Reglamentos del Albergue La Esperanza, Centro de Recuperación Nutricional, Casa Hogar para Ancianos I, Casa Hogar para Ancianos II, Centro de Desarrollo Infantil, Albergue temporal para las Mujeres Víctimas de Maltrato, Casa Hogar Infantil y el Velatorio "La Piedad".
+
+Artículo Quinto.- El Manual de Organización del DIF-Chiapas, deberá actualizarse en un plazo no mayor a noventa días hábiles, después de la publicación del presente Reglamento Interior.
+
+Artículo Sexto.- En tanto se expide el Manual de Organización respectivo, el Director General, queda facultado para resolver las incidencias de procedimiento y operación, que se originen por la aplicación de este ordenamiento legal.
+
+Artículo Séptimo.- El DIF-Chiapas, deberá establecer, controlar y evaluar el Programa Interno de Protección Civil para el personal, instalaciones, bienes e información, observando las normas necesarias para la operación, desarrollo y vigilancia del Programa que establezca la Unidad Estatal de Protección Civil.
+
+Artículo Octavo.- En cumplimiento a lo dispuesto por el artículo 8°, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Reglamento Interior en el Periódico Oficial.
