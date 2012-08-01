@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-de-adquisiciones-del-instituto-de-seguridad-y-62246"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-19"
-last_updated: "2008-07-19"
+last_updated: "2012-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62246&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 REGLAMENTO DE ADQUISICIONES DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE ADQUISICIONES DEL ISSSTEZAC, PUBLICADO EN EL P.O. DE 1 DE AGOSTO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 19 de julio de 2008.
 
@@ -724,3 +726,15 @@ SUBDIRECTOR DE PRESTACIONES ECONÓMICAS
 LIC. SERGIO DÍAZ DE LA TORRE
 
 SUBDIRECTOR DE FILIALES
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE AGOSTO DE 2012.
+
+Primero.- El presente Reglamento Interior, entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+Segundo.- Se abroga el Reglamento de Adquisiciones del ISSSTEZAC, publicado en el suplemento número 58 del Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas, correspondiente al día 19 de julio del año 2008.
+
+Tercero.- El Comité, bajo su responsabilidad, podrá fincar pedidos o celebrar contratos cuando existan condiciones o circunstancias extraordinarias o impredecibles.
+
+Cuarto.- El presente Reglamento considera en su redacción un lenguaje incluyente de género.
