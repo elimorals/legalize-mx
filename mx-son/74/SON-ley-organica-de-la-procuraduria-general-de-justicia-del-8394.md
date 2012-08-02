@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-de-la-procuraduria-general-de-justicia-del-8394"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-12-30"
-last_updated: "2007-05-10"
+last_updated: "2012-08-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE MAYO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 2 DE AGOSTO DE 2012.
 
 Ley publicada en la Sección Octava del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1991.
 
@@ -156,6 +156,12 @@ La Procuraduría General de Justicia del Estado de Sonora estará presidida por 
 La Procuraduría General de Justicia del Estado contará con los subprocuradores, directores generales, directores, subdirectores y demás personal que sea necesario para el ejercicio de las funciones relativas, los que tendrán la competencia que fije el reglamento de esta ley.
 
 Para la más eficaz atención y eficiente despacho de los asuntos de la competencia de la Procuraduría General de Justicia del Estado, podrá contar con órganos administrativos desconcentrados que le estarán jerárquicamente subordinados y tendrán facultades específicas para resolver sobre la materia y dentro del ámbito territorial que se determine en cada caso, de conformidad con las disposiciones legales aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 2 DE AGOSTO DE 2012)</small>
+
+La Procuraduría General de Justicia deberá contar con personal competente para la investigación y persecución de delitos cometidos en contra de periodistas, personas o instalaciones que afecten, limiten o menoscaben el derecho a la información o las libertades de expresión o imprenta, en el Estado de Sonora; asimismo, el Procurador establecerá y dará a conocer públicamente las agencias del Ministerio Público que serán responsables del desahogo de las acciones inherentes a la función de procuración de justicia, respecto de los delitos señalados en el presente párrafo.
 
 ###### ARTICULO 9o.
 
@@ -852,3 +858,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 2 DE AGOSTO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al trigésimo día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
