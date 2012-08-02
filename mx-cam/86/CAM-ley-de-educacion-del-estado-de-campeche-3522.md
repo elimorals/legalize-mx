@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-educacion-del-estado-de-campeche-3522"
 country: "mx"
 rank: "ley"
 publication_date: "1993-06-01"
-last_updated: "2011-11-25"
+last_updated: "2012-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3522&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE EDUCACIÓN DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 1 de junio de 1993.
 
@@ -167,17 +167,35 @@ XXIII.- Fomentar actitudes de aprecio al estudio, al trabajo y a la vida;
 
 XXIV.- Fomentar la educación para una sexualidad responsable;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2012)</small>
 
-XXV.- Fomentar el respeto a los derechos de la mujer y propiciar su pleno desarrollo e igualdad dentro de la sociedad; y
+XXV. Fomentar el respeto a los derechos de la mujer y propiciar su pleno desarrollo e igualdad dentro de la sociedad;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2012)</small>
 
-XXVI.- Fomentar el respeto a los derechos de la niñez y la adolescencia, de los adultos mayores y de las personas con discapacidad.
+XXVI. Fomentar el respeto a los derechos de la niñez y la adolescencia, de los adultos mayores y de las personas con discapacidad;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 2 DE AGOSTO DE 2012)</small>
+
+XXVII. Fomentar la educación inclusiva y de valoración a la diversidad como una condición de enriquecimiento social y cultural, sin discriminación, de acuerdo con lo que establecen los artículos 1° y 3° de la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 2 DE AGOSTO DE 2012)</small>
+
+XXVIII. Procurar que a las personas con discapacidad se les respete su derecho de acceso y permanencia en todos los niveles y modalidades del sistema educativo estatal, sin discriminación, con equidad y en igualdad de condiciones; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 2 DE AGOSTO DE 2012)</small>
+
+XXIX. Procurar que la educación estatal básica, en sus tres niveles, cuente con adaptaciones suficientes respondiendo a las características lingüísticas y culturales de los diversos grupos indígenas y migratorios ubicados en la entidad.
 
 ### CAPITULO III. AMBITO DE APLICACION
 
@@ -233,15 +251,21 @@ XXI.- Dictar las disposiciones necesarias para el óptimo funcionamiento de los 
 
 ### CAPITULO IV. ATRIBUCIONES DEL PODER EJECUTIVO DEL ESTADO EN MATERIA EDUCATIVA
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 13.
 
-Compete al Ejecutivo del Estado, por conducto de la Secretaría de Educación, Cultura y Deporte:
+Compete al Ejecutivo del Estado, por conducto de la Secretaría de Educación:
 
 I.- Prestar en la entidad el servicio público educacional que ofrezca el Gobierno del Estado, sin perjuicio de la concurrencia de los municipios y otras dependencias del ejecutivo estatal, conforme a las leyes y reglamentos locales aplicables;
 
-> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II.- Dirigir, promover, atender, administrar y sostener a aquellos establecimientos educativos que, encontrándose bajo su jurisdicción y esfera de competencia, incluyendo al tipo superior, presten servicios de educación preescolar, primaria, secundaria, formación de maestros y especial en los términos que señala esta ley, el marco constitucional local y los ordenamientos federales;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2012)</small>
+
+II. Dirigir, promover, atender, administrar y sostener a aquellos establecimientos educativos que, encontrándose bajo su jurisdicción y esfera de competencia, incluyendo al tipo superior, presten servicios de educación inicial, preescolar, primaria, secundaria, formación de maestros y especial en los términos que señala esta ley, el marco constitucional local y los ordenamientos federales;
 
 III.- Administrar los recursos financieros para la operación óptima de los establecimientos especificados en el párrafo anterior, conforme a las asignaciones presupuestarias federales y estatales aprobadas para tal efecto, los acuerdos concertados sobre el particular con el Ejecutivo Federal y las disposiciones de orden federal y estatal que resulten aplicables;
 
@@ -251,9 +275,11 @@ IV.- Establecer en la entidad los tipos, modalidades y órganos colegiados que c
 
 V.- Planificar, programar y promover la extensión de los tipos y modalidades del Sistema Educativo Estatal;
 
-> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VI.- Aplicar el uso de material educativo para preescolar, primaria, secundaria, normal, indígena, especial y para cualquier tipo o nivel de enseñanza, que se autorice en el Sistema de Educación Nacional, conforme a las normas y lineamientos de política educativa del Gobierno Federal;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2012)</small>
+
+VI. Aplicar el uso de material educativo para inicial, preescolar, primaria, secundaria, normal, indígena, especial y para cualquier tipo o nivel de enseñanza, que se autorice en el sistema de Educación Nacional, conforme a las normas y lineamientos de política educativa del Gobierno Federal;
 
 VII.- Concertar las acciones necesarias para reducir disparidades en el interior de la entidad y dar atención prioritaria a aquéllas regiones de la entidad con importantes rezagos educativos;
 
@@ -327,11 +353,17 @@ XXIV.- Implementar campañas para promover la práctica del ejercicio y los depo
 
 XXV.- Supervisar que las instituciones educativas instrumenten acciones tendientes a fomentar hábitos para una vida saludable, encaminadas a prevenir de manera oportuna la obesidad infantil y juvenil en el Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2012)</small>
 
-XXVI.- Las demás que emanen del artículo 3o. constitucional y otros ordenamientos legales.
+XXVI. Promover la universalización de la educación temprana o inicial en el Estado de Campeche, la cual deberá fortalecerse y considerarse de manera prioritaria como parte central del ciclo básico del sistema educativo; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 2 DE AGOSTO DE 2012)</small>
+
+XXVII. Las demás que emanen del artículo 3º de la Constitución Política de los Estados Unidos Mexicanos y de otros ordenamientos legales.
 
 ### CAPITULO V. DEL SISTEMA EDUCATIVO ESTATAL
 
@@ -583,11 +615,35 @@ La Secretaría de Educación, Cultura y Deporte podrá otorgar revalidaciones y 
 
 El Gobierno del Estado a través de la Secretaría de Educación, Cultura y Deporte, operará y supervisará el proceso de acreditación y certificación de estudios de los distintos niveles, conforme a lo que al efecto establezcan las disposiciones de la materia.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE AGOSTO DE 2012)</small>
+
+### CAPÍTULO VI BIS. DE LA EDUCACIÓN INICIAL
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2012)</small>
+
+###### Artículo 27 Bis.
+
+El Gobierno del Estado, por conducto de la Secretaría de Educación, promoverá el establecimiento y desarrollo de la educación temprana o inicial en todo el territorio estatal, bajo los siguientes términos:
+
+I. Colaborar con la Secretaría de Salud del Estado para el desarrollo de información, materiales educativos y la impartición de cursos a mujeres en gestación y padres de familia, sobre temas referentes al embarazo, parto, lactancia y a la educación temprana de los niños, con énfasis en los primeros tres años de vida;
+
+II. Crear programas educativos para maestros, agentes educativos y padres de familia, con objetivos específicos que comprendan la educación del niño desde el vientre materno hasta su ingreso a la educación prescolar obligatoria, promoviendo la paternidad responsable y comprometida. De igual manera, se deben crear programas multidisciplinarios e intersectoriales, que promuevan el trabajo de manera asociada con la madre, la familia y la comunidad.
+
+III. Planificar, programar y promover la educación temprana para infantes de 0 a 3 años, que impulse el desarrollo de habilidades y capacidades que faciliten la asimilación del conocimiento y el aprendizaje futuro, tanto en instituciones a cargo del Estado como particulares.
+
+IV. Impulsar acuerdos interinstitucionales e intersectoriales a nivel federal y estatal entre las instancias involucradas, estableciendo la obligatoriedad de la educación inicial y su incorporación dentro de la educación básica, así como también para que se instituya una estrategia de vinculación y aplicación de un nuevo modelo de atención, en el que se consideren la actualización y formación permanente de los agentes educativos;
+
+V. Proveer de recursos financieros, didácticos y pedagógicos a estancias infantiles para alcanzar su atención educativa integral; y
+
+VI. Las demás que emanen del artículo 3° de la Constitución Política de los Estados Unidos Mexicanos y de los demás ordenamientos legales en relación con la educación temprana o inicial.
+
 ### CAPITULO VII. DE LA INCORPORACION DE LAS ESCUELAS PARTICULARES AL SISTEMA ESTATAL
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
-
-### CAPITULO VIII. DE LA EDUCACION AUDIOVISUAL
 
 ###### Artículo 28.
 
@@ -597,19 +653,39 @@ Los particulares podrán impartir educación en todos sus tipos y modalidades. L
 
 I.- Observar en sus actividades educativas lo dispuesto por el artículo 3º constitucional, en concordancia con los artículos 7º y 8º de la Ley General de Educación, y sus correlativos de la presente ley;
 
-II.- Aplicar los planes y programas de estudio que señale la Secretaría de Educación Pública y las disposiciones pedagógicas, que dicte sobre esta materia la Secretaría de Educación, Cultura y Deporte;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2012)</small>
+
+II. Aplicar los planes y programas de estudio que señale la Secretaría de Educación Pública y las disposiciones pedagógicas que dicte sobre esta materia la Secretaría de Educación del Estado;
 
 III.- Suministrar la educación con personal que acredite su preparación profesional;
 
-> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV.- Contar con edificios, laboratorios, talleres, bibliotecas, campos deportivos y demás instalaciones necesarias, que satisfagan las condiciones higiénicas, pedagógicas y de seguridad que el Estado, a través de la Secretaria de Educación, Cultura y Deporte, determine;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2012)</small>
+
+IV. Contar con edificios, laboratorios, talleres, bibliotecas, campos deportivos y demás instalaciones necesarias, que satisfagan las condiciones higiénicas, pedagógicas y de seguridad que el Estado, a través de la Secretaria de Educación, determine;
 
 V.- Facilitar la vigilancia que el Estado ejerce en materia educativa;
 
-VI.- Proporcionar becas en los términos del reglamento respectivo, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VII.- Sujetarse a los (sic) condiciones que se establezcan en los acuerdos y demás disposiciones que dicten las autoridades educativas.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2012)</small>
+
+VI. Proporcionar becas en los términos del reglamento respectivo;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2012)</small>
+
+VII. Favorecer el acceso e implantar ajustes razonables para llevar a cabo la educación inclusiva de los diversos grupos de la población, con especial énfasis en los alumnos con discapacidad; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 2 DE AGOSTO DE 2012)</small>
+
+VIII. Sujetarse a las condiciones que se establezcan en los acuerdos y demás disposiciones que dicten las autoridades educativas.
 
 > <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
 
@@ -651,7 +727,7 @@ Para retirar el reconocimiento de validez oficial a los estudios a que se refier
 
 Para proporcionar educación por correspondencia, prensa, radio, fonografía, televisión, cinematografía o cualquier otro medio de comunicación los interesados deberán cumplir previamente los requisitos establecidos para el nivel, tipo o modalidad educativa que impartan, así como las leyes y reglamentos relativos al medio de comunicación que utilicen.
 
-### CAPITULO IX. DE LAS AUTORIDADES ESCOLARES
+### CAPITULO VIII. DE LA EDUCACION AUDIOVISUAL
 
 ###### Artículo 36.
 
@@ -661,13 +737,77 @@ El Gobierno del Estado, contará con medios masivos de comunicación como son ra
 
 El Gobierno del Estado promoverá la difusión de programas de radio y televisión que impulsen el desarrollo cultural y educativo de la entidad, exaltando los valores humanos en que se sustenta la convivencia armónica de los miembros de la comunidad.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE AGOSTO DE 2012)</small>
+
+### CAPÍTULO VIII BIS. DE LA EDUCACIÓN ESPECIAL
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2012)</small>
+
+###### Artículo 37
+
+1.- La educación especial tendrá como finalidad brindar atención psicopedagógica a individuos con discapacidades transitorias o definitivas, así como a aquéllos con aptitudes sobresalientes, englobando acciones de orientación y capacitación educativa a toda la sociedad para proporcionar educación temprana y apertura a estos grupos, brindándoles los avances de la ciencia y la tecnología, proporcionando atención a los educandos de manera pertinente, adecuada a sus propias condiciones y con equidad social.
+
+Tratándose de menores de edad con discapacidades, esta educación propiciará su integración a los planteles de educación básica regular. Para quienes no logren la integración, se procurará la satisfacción de necesidades básicas de aprendizaje para la autónoma convivencia social y productiva, insertando sus propuestas en los consejos de participación social, mismos que generarán cambios sustanciales con miras a favorecer la educación y, por ende, la calidad de vida de los educandos y de la comunidad en general.
+
+Esta educación incluye orientación a los padres o tutores, así como también a los docentes y personal de escuelas de educación básica regular, integrando alumnos con necesidades especiales de educación, a fin de lograr su participación activa y comprometida en el proceso educativo.
+
+Con el fin de detectar, estimular y proporcionar educación oportuna y de calidad óptima a los alumnos con capacidades y habilidades sobresalientes, la Secretaría de Educación del Estado atenderá y dará cumplimiento a los lineamientos y criterios establecidos por las instituciones que integran el sistema nacional de educación, para la evaluación diagnóstica, los modelos pedagógicos y los mecanismos de acreditación y certificación en los niveles de educación básica, educación normal, así como media superior y superior en el ámbito de su competencia.
+
+Las Instituciones de Educación Superior autónomas por Ley, podrán establecer convenios con las autoridades educativas federal y del Estado, a fin de homologar criterios para la atención, la evaluación, la acreditación y la certificación dirigidos a los alumnos con capacidades y aptitudes sobresalientes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2012)</small>
+
+###### Artículo 37
+
+2.- Para cumplir con lo dispuesto en el artículo anterior, las autoridades educativas en el ámbito de sus respectivas competencias llevarán a cabo las actividades siguientes:
+
+I.- La educación especial estará destinada a personas con y sin discapacidad, incluyendo a personas con aptitudes sobresalientes, que enfrentan barreras para el aprendizaje y la participación; y
+
+II.- Atenderá a los educandos de manera adecuada a sus propias condiciones, estilos y ritmos de aprendizaje, con equidad social incluyente y con perspectiva de género, considerando siempre la protección del interés superior del educando.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2012)</small>
+
+###### Artículo 37
+
+3.- Tratándose de menores de edad con discapacidad, se garantizará su inclusión a los planteles de educación regular mediante la aplicación de métodos, técnicas y materiales específicos, incluyendo la realización de ajustes razonables y las medidas de apoyo que sean necesarias.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2012)</small>
+
+###### Artículo 37
+
+4.- Para quienes opten por los servicios escolarizados de educación especial, ésta garantizará el máximo desarrollo del potencial del educando para su plena participación comunitaria y social, elaborando los materiales de apoyo didáctico que sean necesarios.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2012)</small>
+
+###### Artículo 37
+
+5.- La autoridad educativa estatal, en todos los niveles educativos, y las Instituciones de Educación Superior del Estado, deberán homologar criterios de evaluación, acreditación y certificación de los educandos, con y sin discapacidad, que enfrentan barreras para el aprendizaje y la participación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2012)</small>
+
+###### Artículo 37
+
+6.- La educación especial incluye la orientación y participación de los padres de familia o responsables de las personas con discapacidad, así como también a los maestros y personal de las escuelas de educación básica regular, para garantizar la educación inclusiva.
+
+### CAPITULO IX. DE LAS AUTORIDADES ESCOLARES
+
 ### CAPITULO X. DE LA EDUCACION NORMAL
 
 > <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
-
-### CAPITULO XI. DE LAS ASOCIACIONES DEL SISTEMA EDUCATIVO ESTATAL
-
-### CAPITULO XII. DE LA PARTICIPACION SOCIAL EN LA EDUCACION
 
 ###### Artículo 38.
 
@@ -703,9 +843,7 @@ El Secretario de Educación, Cultura y Deporte, los Subsecretarios, los Director
 
 Son atribuciones de la Secretaría de Educación, Cultura y Deporte las que se contienen en el Artículo 25 de la Ley Orgánica de la Administración Pública Estatal vigente, misma que fuese publicada mediante Periódico Oficial del Estado de fecha 26 de Octubre de 1991.
 
-### CAPITULO XIII. DE LAS INFRACCIONES Y SANCIONES
-
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
+### CAPITULO XI. DE LAS ASOCIACIONES DEL SISTEMA EDUCATIVO ESTATAL
 
 ###### Artículo 42.
 
@@ -735,9 +873,11 @@ VIII.- Cumplirá también con los principios básicos y objetivos que se estable
 
 Los alumnos de las Escuelas Normales prestarán un servicio social como base para obtener su título, de acuerdo con la reglamentación respectiva.
 
-### CAPITULO XIV. DEL RECURSO ADMINISTRATIVO
+### CAPITULO XII. DE LA PARTICIPACION SOCIAL EN LA EDUCACION
 
-> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
+### CAPITULO XIII. DE LAS INFRACCIONES Y SANCIONES
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Artículo 45.
 
@@ -756,6 +896,10 @@ Como parte del Sistema Educativo Estatal, se integrará un Sistema Estatal de Fo
 El Gobierno del Estado, por conducto de la Secretaría de Educación, Cultura y Deporte, implementará mecanismos que aseguren un control, verificación y seguimiento eficaces para el diagnóstico y valoración del desarrollo del Sistema Educativo Estatal, estableciendo las normas que posibiliten la integración del Sistema Estatal de Evaluación y los procedimientos que permitan a los directivos, supervisores e inspectores mejorar el desempeño de sus funciones, de conformidad con los lineamientos y criterios que determine la Secretaría de Educación Pública del Gobierno Federal.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
+
+### CAPITULO XIV. DEL RECURSO ADMINISTRATIVO
+
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Artículo 49.
 
@@ -891,9 +1035,23 @@ XI.- Oponerse a las actividades de evaluación, inspección y vigilancia que se 
 
 XII.- Ostentarse como plantel incorporado sin estarlo;
 
-XIII.- Incumplir con la disposición a que se contrae el artículo 33, de este ordenamiento; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XIV.- Incumplir cualesquiera de los demás preceptos de esta ley, así como las disposiciones expedidas con fundamento en la misma.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2012)</small>
+
+XIII. Incumplir con la disposición a que se contrae el artículo 33 de este ordenamiento;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2012)</small>
+
+XIV. Negar la inscripción, segregar, aislar o discriminar a las personas con discapacidad, o bien, omitir llevar a cabo ajustes razonables para su inclusión; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 2 DE AGOSTO DE 2012)</small>
+
+XV. Incumplir cualesquiera de los demás preceptos de esta Ley, así como las disposiciones expedidas con fundamento en la misma.
 
 > <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
 
@@ -1010,3 +1168,11 @@ P.O. 25 DE NOVIEMBRE DE 2011.
 PRIMERO.- Este decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 2 DE AGOSTO DE 2012.
+
+Primero.- El presente decreto entrará en vigor a los ciento ochenta días siguientes de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Las autoridades competentes deberán tomar oportunamente las previsiones presupuestales que sean necesarias para el cumplimiento de lo ordenado en este decreto.
+
+Tercero.- Se derogan todas las disposiciones legales y reglamentarias en lo que opongan al presente decreto
