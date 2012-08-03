@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-instituto-nacional-de-estadistica-y-678
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-03-31"
-last_updated: "2012-03-27"
+last_updated: "2012-08-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67802&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-03-25"
 
 REGLAMENTO INTERIOR DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE AGOSTO DE 2012.
 
 Reglamento publicado en la Cuarta Sección del Diario Oficial de la Federación, el martes 31 de marzo de 2009.
 
@@ -155,7 +155,9 @@ c) Dirección General Adjunta de Investigación.
 
 V. Dirección General de Coordinación del Sistema Nacional de Información Estadística y Geográfica:
 
-a) Dirección General Adjunta de Planeación;
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2012)</small>
+
+a) Dirección General Adjunta de Planeación e Infraestructura;
 
 b) Dirección General Adjunta de Coordinación de los Subsistemas Nacionales de Información;
 
@@ -687,11 +689,13 @@ XI. Autorizar, previa opinión de las autoridades competentes, el levantamiento 
 
 XII. Fungir como Secretario Técnico del Comité Ejecutivo del Subsistema Nacional de Información Demográfica y Social;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2012)</small>
 
-> <small>(REFORMADA, D.O.F. 27 DE MARZO DE 2012)</small>
+XIII. Atender y dar seguimiento, en el ámbito de sus atribuciones, a los acuerdos del Consejo, del Comité Ejecutivo y de los Comités Técnicos Especializados del Subsistema Nacional de Información Demográfica y Social;
 
-XIII. Atender y dar seguimiento, en el ámbito de sus atribuciones, a los acuerdos del Consejo, del Comité Ejecutivo y de los Comités Técnicos Especializados del Subsistema Nacional de Información Demográfica y Social; así como participar, en coordinación con las Unidades del Estado, en el diseño de indicadores a que hacen referencia los artículos 21 y 22 de la Ley;
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2012)</small>
+
+XIII Bis. Proponer, elaborar y actualizar en coordinación con las Unidades del Estado, los indicadores clave a que hacen referencia los artículos 21 y 22 de la Ley, con excepción de los temas Seguridad Pública, Impartición de Justicia y Gobierno, y coadyuvar con la Dirección General de Coordinación del Sistema Nacional de Información Estadística y Geográfica en la integración y actualización del Catálogo Nacional de Indicadores, en los términos que al efecto apruebe la Junta de Gobierno;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -979,7 +983,13 @@ XII. Autorizar, previa opinión de las autoridades competentes, el levantamiento
 
 XIII. Fungir como Secretario Técnico del Comité Ejecutivo del Subsistema Nacional de Información de Gobierno, Seguridad Pública e Impartición de Justicia;
 
-XIV. Atender y dar seguimiento, en el ámbito de sus atribuciones, a los acuerdos del Consejo, del Comité Ejecutivo y de los Comités Técnicos Especializados del Subsistema Nacional de Información de Gobierno, Seguridad Pública e Impartición de Justicia; así como participar, en coordinación con las Unidades del Estado, en el diseño de indicadores a que hace referencia el artículo 18 de la Ley;
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2012)</small>
+
+XIV. Atender y dar seguimiento, en el ámbito de sus atribuciones, a los acuerdos del Consejo, del Comité Ejecutivo y de los Comités Técnicos Especializados del Subsistema Nacional de Información de Gobierno, Seguridad Pública e Impartición de Justicia;
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2012)</small>
+
+XIV Bis. Proponer, elaborar y actualizar en coordinación con las Unidades del Estado, los indicadores clave de los temas Seguridad Pública, Impartición de Justicia y Gobierno a que hace referencia el artículo 21 de la Ley, y coadyuvar con la Dirección General de Coordinación del Sistema Nacional de Información Estadística y Geográfica en la integración y actualización del Catálogo Nacional de Indicadores, en los términos que al efecto apruebe la Junta de Gobierno;
 
 XV. Proveer y promover entre las Unidades del Estado el uso de conceptos, definiciones, clasificaciones, normas técnicas, nomenclaturas, abreviaturas, identificadores, directorios, símbolos, y demás elementos que permitan garantizar la homogeneidad y comparación de la información de gobierno, crimen, seguridad pública, victimización, justicia y sistema penitenciario, desde la captación y procesamiento de ésta, hasta la etapa de su presentación y publicación;
 
@@ -1065,9 +1075,13 @@ XIII. Autorizar, previa opinión de las autoridades competentes, el levantamient
 
 XIV. Fungir como Secretario Técnico del Comité Ejecutivo del Subsistema Nacional de Información Económica;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2012)</small>
 
-XV. Atender y dar seguimiento, en el ámbito de sus atribuciones, a los acuerdos del Consejo, del Comité Ejecutivo y de los Comités Técnicos Especializados del Subsistema Nacional de Información Económica, así como participar, en coordinación con las Unidades del Estado, en el diseño de indicadores clave a que hacen referencia los artículos 24 y 25 de la Ley;
+XV. Atender y dar seguimiento, en el ámbito de sus atribuciones, a los acuerdos del Consejo, del Comité Ejecutivo y de los Comités Técnicos Especializados del Subsistema Nacional de Información Económica;
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2012)</small>
+
+XV Bis. Proponer, elaborar y actualizar en coordinación con las Unidades del Estado, los indicadores clave a que hacen referencia los artículos 24 y 25 de la Ley, y coadyuvar con la Dirección General de Coordinación del Sistema Nacional de Información Estadística y Geográfica en la integración y actualización del Catálogo Nacional de Indicadores, en los términos que al efecto apruebe la Junta de Gobierno;
 
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
@@ -1405,7 +1419,13 @@ XVI. Establecer las políticas institucionales para el desarrollo y aprovechamie
 
 XVII. Fungir como Secretario Técnico del Comité Ejecutivo del Subsistema de Información Geográfica y del Medio Ambiente;
 
-XVIII. Atender y dar seguimiento, en al (sic) ámbito de sus atribuciones, a los acuerdos del Consejo, del Comité Ejecutivo y de los Comités Técnicos Especializados del Subsistema Nacional de Información Geográfica y del Medio Ambiente, así como participar, en coordinación con las Unidades del Estado en el diseño de indicadores a que hacen referencia los artículos 26, 27 y 28 de la Ley;
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2012)</small>
+
+XVIII. Atender y dar seguimiento, en el ámbito de sus atribuciones, a los acuerdos del Consejo, del Comité Ejecutivo y de los Comités Técnicos Especializados del Subsistema Nacional de Información Geográfica y del Medio Ambiente;
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2012)</small>
+
+XVIII Bis. Proponer, elaborar y actualizar en coordinación con las Unidades del Estado, los indicadores clave a que hacen referencia los artículos 26, 27 y 28 de la Ley, y coadyuvar con la Dirección General de Coordinación del Sistema Nacional de Información Estadística y Geográfica en la integración y actualización del Catálogo Nacional de Indicadores, en los términos que al efecto apruebe la Junta de Gobierno;
 
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
@@ -1789,7 +1809,7 @@ II. Coordinar la integración de estadísticas nacionales, sectoriales, estatale
 
 III. Proponer al Presidente, previa consulta a las Unidades Administrativas del Instituto, el Calendario Anual de Publicación de Información de Interés Nacional y el Calendario de Difusión de Información de Coyuntura, para su aprobación por la Junta de Gobierno;
 
-IV. Coordinar, con el apoyo de las Unidades Administrativas del Instituto, la integración del Catálogo Nacional de Indicadores en los términos que al efecto apruebe la Junta de Gobierno;
+IV. (DEROGADA, D.O.F. 3 DE AGOSTO DE 2012)
 
 V. Dirigir la elaboración de estudios econométricos que permitan generar estadística económica derivada;
 
@@ -1833,9 +1853,9 @@ V. Realizar el análisis de factibilidad, conceptual y temporal, para consolidar
 
 VI. Integrar las publicaciones de estadísticas nacionales, sectoriales, estatales y regionales;
 
-VII. Proponer las disposiciones normativas para la integración del Catálogo Nacional de Indicadores;
+VII. (DEROGADA, D.O.F. 3 DE AGOSTO DE 2012)
 
-VIII. Integrar y mantener actualizado, en coordinación con las Unidades Administrativas del Instituto, el Catálogo Nacional de Indicadores en los términos establecidos por la Junta de Gobierno;
+VIII. (DEROGADA, D.O.F. 3 DE AGOSTO DE 2012)
 
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
@@ -1911,21 +1931,25 @@ De la Dirección General de Coordinación del Sistema Nacional de Información E
 
 Son atribuciones específicas de la Dirección General de Coordinación del Sistema Nacional de Información Estadística y Geográfica, las siguientes:
 
-I. Coordinar la integración del Programa Estratégico del Sistema Nacional de Información Estadística y Geográfica, del Programa Nacional de Estadística y Geografía, y del Programa Anual de Estadística y Geografía, y someterlos por conducto del Presidente a consideración de la Junta de Gobierno para su aprobación, así como, dar seguimiento a su implementación;
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2012)</small>
+
+I. Coordinar la integración y actualización del Programa Estratégico del Sistema Nacional de Información Estadística y Geográfica, del Programa Nacional de Estadística y Geografía, y del Programa Anual de Estadística y Geografía, y someterlos por conducto del Presidente a consideración de la Junta de Gobierno para su aprobación, así como, dar seguimiento a su implementación;
 
 II. Proponer políticas y disposiciones normativas para el funcionamiento del Sistema, con fundamento en lo dispuesto por la Ley, el presente Reglamento y demás disposiciones administrativas aplicables, así como con base en los dictámenes que, en su caso, emitan los Comités Ejecutivos de los Subsistemas;
 
 III. Coordinar la elaboración de los informes anuales, sexenales y otros que el Instituto deba presentar ante el Poder Ejecutivo Federal, y el Congreso de la Unión, y someterlos por conducto del Presidente a consideración de la Junta de Gobierno para su aprobación;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2012)</small>
 
-IV. Normar y coordinar el Registro Nacional de Información Geográfica, así como el Registro Estadístico Nacional, en los que deberán asentarse por lo menos el registro de Instituciones y Unidades Administrativas con funciones Estadísticas o Geográficas del Sector Público, así como información de referencia básica sobre la información estadística y geográfica que se genera;
+IV. Normar y coordinar el Registro Nacional de Información Geográfica y el Registro Estadístico Nacional, en los que deberán registrarse al menos las Instituciones y Unidades Generadoras de Información Geográfica, las Instituciones y Unidades Administrativas con funciones Estadísticas del Sector Público, así como la referencia básica de la información estadística y geográfica que se genera, en el inventario correspondiente;
 
-V. Conducir y concertar el diseño conceptual y arquitectura informática de la Red Nacional de Información, para coordinar los procesos de intercambio de información del Sistema;
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2012)</small>
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+V. Conducir y concertar el diseño conceptual y arquitectura informática de la Red Nacional de Información, para coordinar los procesos de Intercambio de información del Sistema, y Resguardo de la Información de Interés Nacional del Sistema, así como del apoyo al Servicio Público de Información;
 
-VI. Normar y coordinar la conservación de la Información estadística y geográfica de Interés Nacional elaborada por las Unidades Administrativas del Instituto y las Unidades del Estado;
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2012)</small>
+
+VI. Normar y coordinar el resguardo y la conservación de la Información estadística y geográfica de Interés Nacional elaborada por las Unidades Administrativas del Instituto y las Unidades del Estado;
 
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
@@ -1957,17 +1981,23 @@ XVIII. Coordinar y dar seguimiento a la integración y funcionamiento de las ins
 
 XIX. Coordinar la participación de las Direcciones Regionales y Coordinaciones Estatales, en los Comités Técnicos Especializados constituidos en el ámbito de su jurisdicción geográfica;
 
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2012)</small>
+
+XIX. Bis Coordinar, con el apoyo de las Unidades Administrativas del Instituto, la integración y actualización del Catálogo Nacional de Indicadores a que hace referencia el artículo 56 de la Ley, en los términos que al efecto apruebe la Junta de Gobierno;
+
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
 XX. Coordinar la integración de las acciones de capacitación y actualización de los servidores públicos de las Unidades del Sistema, y
 
 XXI. Las facultades que expresamente le otorga el artículo 11 de este Reglamento a su Titular.
 
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 34.
 
-Son atribuciones específicas de la Dirección General Adjunta de Planeación, las siguientes:
+Son atribuciones específicas de la Dirección General Adjunta de Planeación e Infraestructura, las siguientes:
 
-I. Definir el modelo y las políticas de planeación, monitoreo y evaluación del Sistema y someterlas a consideración del Director General de su adscripción;
+I. Definir el modelo de planeación del Sistema y la política de monitoreo y evaluación de los programas del mismo y someterlos a consideración del Director General de su adscripción;
 
 II. Integrar los Programas Estratégico, Nacional y Anual del Sistema Nacional de Información Estadística y Geográfica, y los resultados de su monitoreo y evaluación, en los términos que establecen los artículos 9, 10, 11 y 12 de la Ley;
 
@@ -1975,13 +2005,35 @@ III. Integrar el informe con los resultados de la ejecución del Programa Anual 
 
 IV. Elaborar, en coordinación con la Dirección General de Administración, el informe anual de actividades sobre el ejercicio del gasto del año inmediato anterior, incluyendo las observaciones relevantes que, en su caso, haya formulado el auditor externo, en los términos que establece el artículo 86, fracción III de la Ley;
 
-V. Definir el conjunto de indicadores pertinentes para el monitoreo de los Programas del Sistema, y someterlo a consideración del Director General de su adscripción;
+V. Definir el conjunto de indicadores pertinentes para el monitoreo y la evaluación de los programas del SNIEG, y someterlo a consideración del Director General de su adscripción;
 
-VI. Definir el modelo y las políticas de evaluación, así como coordinar las actividades de evaluación, del Programa Estratégico del Sistema Nacional de Información Estadística y Geográfica;
+VI. Definir los términos de referencia para la evaluación de los Programas Estratégico del Sistema Nacional de Información Estadística y Geográfica y Nacional de Estadística y Geografía, y coordinar las actividades para su evaluación;
 
-VII. Integrar los informes con los resultados de la evaluación y actualización de los Programas Estratégico y Nacional del Sistema, así como someterlos a consideración del Director General de su adscripción, para los efectos que establecen los artículos 10 y 11 de la Ley, y
+VII. Integrar los informes con los resultados de la evaluación y actualización de los Programas Estratégico y Nacional del Sistema, así como someterlos a consideración del Director General de su adscripción, para los efectos que establecen los artículos 10 y 11 de la Ley;
 
-VIII. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
+VIII. Integrar el documento con la propuesta de actualizaciones a las Actividades específicas y sus entregables registradas en los Programas Anuales de Estadística y Geografía, solicitadas por los responsables de las mismas y someterlo a consideración del Director General de su adscripción;
+
+IX. Desarrollar, implementar y administrar el sitio de intercambio de información del Sistema para facilitar la participación de las Unidades del Estado en los órganos colegiados del Sistema;
+
+X. Administrar y coordinar el Registro Nacional de Información Geográfica mediante la integración y actualización del directorio de unidades generadoras de datos geográficos, así como del inventario nacional con las referencias básicas de la información geográfica que se genera; con la colaboración de la Dirección General de Geografía y Medio Ambiente;
+
+XI. Administrar y coordinar el Registro Estadístico Nacional mediante la integración y actualización del registro de instituciones y unidades administrativas con funciones estadísticas y del inventario nacional con las referencias básicas sobre la información estadística que se genera en el sector público; con la colaboración de la Dirección General de Estadísticas Sociodemográficas, la Dirección General de Estadísticas de Gobierno, Seguridad Pública y Justicia, la Dirección General de Estadísticas Económicas, la Dirección General de Geografía y Medio Ambiente y la Dirección General de Integración, Análisis e Investigación;
+
+XII. Desarrollar el diseño conceptual y arquitectura de la Red Nacional de Información para apoyar los procesos de Intercambio de información y de Resguardo de la Información de Interés Nacional del Sistema, y coadyuvar en las actividades de coordinación del Sistema y de sus Subsistemas, así como con la Dirección General Adjunta de Comunicación en la prestación del Servicio Público de Información;
+
+XIII. Desarrollar y administrar el Portal del Sistema Nacional de Información Estadística y Geográfica;
+
+XIV. Llevar a cabo las acciones de coordinación para conservar la Información de Interés Nacional elaborada por las Unidades Administrativas del Instituto y demás Unidades del Estado, y conformar con la misma el Acervo de Información del Instituto, conforme a las disposiciones normativas que al efecto emita la Junta de Gobierno;
+
+XV. Integrar, operar y actualizar un registro de los instrumentos jurídicos que hayan suscrito servidores públicos adscritos a la Dirección General de Coordinación del Sistema Nacional de Información Estadística y Geográfica con las Unidades del Estado;
+
+XVI. Proponer las disposiciones normativas para la integración y actualización del Catálogo Nacional de Indicadores a que hace referencia el artículo 56 de la Ley;
+
+XVII. Integrar y mantener actualizado, en coordinación con las Unidades Administrativas del Instituto, el Catálogo Nacional de Indicadores a que hace referencia el artículo 56 de la Ley, en los términos que al efecto apruebe la Junta de Gobierno, y
+
+XVIII. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
+
+> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 35.
 
@@ -1995,73 +2047,33 @@ III. Realizar actividades de coordinación con las Unidades Administrativas del 
 
 IV. Desarrollar e implementar acciones de coordinación entre los órganos colegiados: el Consejo, los Comités Ejecutivos y los Comités Técnicos Especializados de los Subsistemas Nacionales de Información y los integrantes del Sistema;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+V. Elaborar propuestas de políticas y lineamientos para el desarrollo de proyectos sobre normatividad, su conocimiento, aplicación y seguimiento, para contribuir a ordenar y normar la producción, integración, difusión y aprovechamiento de la Información estadística y geográfica, incorporada al Sistema;
 
 VI. Promover entre las Unidades Administrativas del Instituto y demás Unidades del Estado, a través de los Organos Colegiados del Sistema que refiere el artículo 8 de la Ley, la adopción de acciones tendientes a lograr que la información incorporada al Sistema se sujete a los principios rectores del mismo, que para tal efecto establece el artículo 3 de la Ley;
 
-VI. Promover entre las Unidades Administrativas del Instituto y demás Unidades del Estado, la adopción de acciones tendientes a lograr que la información incorporada al Sistema se sujete a los principios rectores del mismo, que para tal efecto establece el artículo 3 de la Ley;
+VII. Elaborar el informe con los resultados de las actividades de los Comités Ejecutivos de los Subsistemas, correspondiente al año inmediato anterior y someterlos a consideración del Director General de su adscripción;
 
-VII. Desarrollar y administrar el portal de intercambio del Sistema para facilitar la participación de las Unidades del Estado en los órganos colegiados;
+VIII. Dar seguimiento a la operación de los órganos colegiados del Sistema;
 
-VIII. Elaborar el informe con los resultados de las actividades de los Comités Ejecutivos de los Subsistemas, correspondiente al año inmediato anterior y someterlos a consideración del Director General de su adscripción;
+IX. Dar seguimiento al cumplimiento de los acuerdos adoptados por el Instituto con las Unidades del Estado que participan en el Sistema;
 
-IX. Dar seguimiento a la operación de los órganos colegiados del Sistema;
+X. Integrar y custodiar el Archivo de los asuntos que conocerán el Consejo y los Comités Ejecutivos de los Subsistemas Nacionales de Información;
 
-X. Dar seguimiento al cumplimiento de los acuerdos adoptados por el Instituto con las Unidades del Estado que participan en el Sistema;
+XI. Proponer normas y políticas para la integración y administración de los Registros del ámbito de su competencia;
 
-XI. Integrar y custodiar el Archivo de los asuntos que conocerán el Consejo y los Comités Ejecutivos de los Subsistemas Nacionales de Información;
+XII. Coordinar la integración y actualización de disposiciones normativas en la Red Nacional de Información;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+XIII. Planear, integrar y operar el Sistema de Compilación Normativa del Sistema;
 
-XII. Administrar el Registro Nacional de Información Geográfica, considerando la normatividad técnica y de funcionamiento, la integración y actualización del directorio de unidades generadoras de información geográfica, así como la integración de las referencias básicas sobre la información geográfica que se genera; en coordinación con la Dirección General de Geografía y Medio Ambiente;
-
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-XIII. Administrar el Registro Estadístico Nacional, considerando la normatividad técnica y de funcionamiento, la integración y actualización del registro de instituciones y Unidades Administrativas con funciones estadísticas, así como la integración de referencias básicas sobre la información estadística que se genera en el sector público; en coordinación con la Dirección General de Estadísticas Sociodemográficas; la Dirección General de Estadísticas Económicas y la Dirección General de Geografía y Medio Ambiente;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
-
-XIV. (DEROGADA, D.O.F. 27 DE MARZO DE 2012)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(REFORMADA, D.O.F. 27 DE MARZO DE 2012)</small>
-
-XV. Desarrollar el diseño conceptual y arquitectura de la Red Nacional de Información para apoyar los procesos de intercambio de información y coadyuvar en las actividades de coordinación del Sistema y de sus Subsistemas, y coadyuvar con la Dirección General Adjunta de Comunicación en la prestación del Servicio Público de Información.
-
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-XVI. Proponer normas y políticas para la integración y administración de los Registros del ámbito de su competencia;
-
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-XVII. Coordinar la integración y actualización de disposiciones normativas en la Red Nacional de Información;
-
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-XVIII. Llevar a cabo las acciones de coordinación para conservar la Información de Interés Nacional elaborada por las Unidades Administrativas del Instituto y demás Unidades del Estado, y conformar con la misma el Acervo de Información del Instituto, conforme a las disposiciones normativas que al efecto emita la Junta de Gobierno;
-
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-XIX. Planear, integrar y operar el Sistema de Compilación Normativa del Sistema;
-
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-XX. Registrar y dar seguimiento a las inspecciones que realicen las Unidades Administrativas competentes en el Instituto, para verificar la autenticidad de la información cuando los datos proporcionados sean incongruentes, incompletos o inconsistentes. Verificar que dichas diligencias se sujeten al procedimiento que al efecto establece el artículo 49 de la Ley y demás disposiciones administrativas aplicables.
+XIV. Registrar y dar seguimiento a las inspecciones que realicen las Unidades Administrativas competentes en el Instituto, para verificar la autenticidad de la información cuando los datos proporcionados sean incongruentes, incompletos o inconsistentes. Verificar que dichas diligencias se sujeten al procedimiento que al efecto establece el artículo 49 de la Ley y demás disposiciones administrativas aplicables.
 
 Determinar las faltas administrativas con motivo de las infracciones que establecen los artículos 103, 104 y 105 de la Ley; notificar y enviar el expediente integrado a la Contraloría Interna y a la Dirección General Adjunta de Asuntos Jurídicos, en su respectivo ámbito de competencia, para la imposición de las sanciones correspondientes;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+XV. Coadyuvar con la Dirección General de su adscripción en la difusión y actualización del Código de Etica del Sistema;
 
-XXI. Coadyuvar con la Dirección General de su adscripción en la difusión y actualización del Código de Etica del Sistema;
+XVI. Llevar a cabo las acciones de coordinación con las Unidades Administrativas del Instituto para apoyar la instrumentación de un programa de capacitación y actualización para los servidores públicos de las Unidades del Sistema que realizan Actividades Estadísticas y Geográficas.
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-XXII. Integrar, operar y actualizar un Registro de los Instrumentos Jurídicos que hayan suscrito servidores públicos adscritos a la Dirección General de Coordinación del Sistema Nacional de Información Estadística y Geográfica con las Unidades del Estado, y
-
-> <small>(ADICIONADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-XXIII. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
+XVII. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO DE LA JUNTA DE GOBIERNO POR EL QUE SE APRUEBAN LAS REFORMAS Y ADICIONES AL PRESENTE REGLAMENTO, PUBLICADO EN LA PRIMERA SECCIÓN DEL D.O.F. DE 3 DE JUNIO DE 2011, CAMBIA LA ESTRUCTURA DEL PRESENTE ARTÍCULO DE DIECISÉIS A CATORCE FRACCIONES.</small>
 
@@ -2071,9 +2083,9 @@ La Dirección General Adjunta de Operación Regional, contará con las atribucio
 
 I. Coordinar y participar en la elaboración, implementación y evaluación de los documentos programáticos previstos por la Ley, cuando su integración y desarrollo corresponda a las Direcciones Regionales y Coordinaciones Estatales del Instituto;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2012)</small>
 
-II. Evaluar y dar seguimiento a la ejecución del Programa Estratégico del Sistema Nacional de Información Estadística y Geográfica; al Programa Nacional de Estadística y Geografía, al Programa Anual de Estadística y Geografía y al Programa Anual de Trabajo del Instituto, en el ámbito de las Direcciones Regionales del Instituto, así como, integrar los reportes de resultados correspondientes;
+II. Apoyar en el seguimiento al Programa Anual de Estadística y Geografía y al Programa Anual de Trabajo del Instituto en coordinación con la Dirección General Adjunta de Planeación e Infraestructura, en el ámbito de las Direcciones Regionales y Coordinaciones Estatales del Instituto, así como integrar los reportes de resultados correspondientes;
 
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
@@ -2103,9 +2115,9 @@ VIII. Coordinar las acciones de cooperación y enlace entre el Instituto y las U
 
 IX. Promover y dar seguimiento a la Difusión de acuerdos, normas, lineamientos, reglas, mecanismos de operación y demás disposiciones administrativas requeridas para la integración y funcionamiento del Sistema en la jurisdicción de las Direcciones Regionales;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2012)</small>
 
-X. Diseñar, proponer y coordinar la aplicación de políticas y estrategias de coordinación entre las Unidades Administrativas del Instituto, y sus Direcciones Regionales y Coordinaciones Estatales, así como respecto de las Unidades del Estado que participan en el Sistema a nivel regional y estatal;
+X. Diseñar, proponer y coordinar la aplicación de políticas y estrategias de coordinación entre las Unidades Administrativas del Instituto, y sus Direcciones Regionales y Coordinaciones Estatales, así como respecto de las Unidades del Estado que participan en el Sistema a nivel regional y estatal; esta última actividad se efectuará en coordinación con la Dirección General Adjunta de Coordinación de los Subsistemas Nacionales de Información;
 
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
@@ -2123,7 +2135,11 @@ XIII. Coordinar la aplicación de políticas de comunicación interna y externa,
 
 > <small>(REFORMADA, D.O.F. 27 DE MARZO DE 2012)</small>
 
-XIV. Apoyar en la operación de los Centros de Información del Instituto así como en la implementación de la estrategia de promoción y difusión de la información estadística y geográfica del Instituto y del Sistema a través de éstos, y
+XIV. Apoyar en la operación de los Centros de Información del Instituto así como en la implementación de la estrategia de promoción y difusión de la información estadística y geográfica del Instituto y del Sistema a través de éstos, y (sic)
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2012)</small>
+
+XIV Bis. Coordinar, dar seguimiento y apoyo a la ejecución del programa de capacitación y actualización para los servidores públicos de las Unidades del Sistema que realizan Actividades Estadísticas y Geográficas en el ámbito de las Direcciones Regionales y Coordinaciones Estatales, en coordinación con la Dirección General Adjunta de Coordinación de los Subsistemas Nacionales de Información, y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -2155,9 +2171,9 @@ IV. Diseñar y proponer a la Dirección General Adjunta de Operación Regional l
 
 V. Supervisar en el ámbito de su circunscripción territorial, la aplicación de los ordenamientos que integran el marco jurídico del Instituto;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2012)</small>
 
-VI. Promover y difundir la información estadística y geográfica que genera e integra el Instituto y coordinar el funcionamiento de los centros de consulta y comercialización administrados por las Coordinaciones Estatales de su circunscripción territorial;
+VI. Promover y difundir la información estadística y geográfica que genera e integra el Instituto y coordinar el funcionamiento de los Centros de Información del Instituto administrados por las Coordinaciones Estatales de su circunscripción territorial;
 
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
@@ -2341,7 +2357,9 @@ VIII. Proponer al Director General de su adscripción los proyectos de disposici
 
 IX. Diseñar, aplicar y difundir la política de comercialización de los productos y servicios que ofrezca el Instituto, en los términos que apruebe la Junta de Gobierno;
 
-X. Diseñar y proponer estrategias de promoción y difusión para el funcionamiento de los Centros de Consulta y Comercialización del Instituto;
+> <small>(REFORMADA, D.O.F. 3 DE AGOSTO DE 2012)</small>
+
+X. Diseñar y proponer estrategias de promoción y difusión para el funcionamiento de los Centros de Información del Instituto;
 
 XI. Proponer normas y elaborar procedimientos para la difusión de la información estadística y geográfica que genera el Instituto y las demás Unidades del Estado;
 
@@ -2869,6 +2887,10 @@ VII. Coordinar la realización de auditorías, investigaciones o visitas de insp
 
 VIII. Coordinar la atención de quejas y denuncias; las investigaciones y procedimientos administrativos; la imposición de sanciones inherentes a las responsabilidades administrativas de los servidores públicos, de conformidad con la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos; la suspensión temporal del empleo, cargo o comisión del presunto responsable; las acciones y concertaciones con otras autoridades competentes, a fin de garantizar el cobro de las multas y sanciones económicas que imponga la Contraloría en el ámbito de sus respectivas atribuciones, con motivo de infracciones a lo dispuesto por la Ley; y resolver los recursos de revocación o revisión que interpongan los servidores públicos del Instituto en términos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, así como el Titulo Quinto de la Ley;
 
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2012)</small>
+
+VIII Bis. Dictar las disposiciones administrativas necesarias para el adecuado cumplimiento de la Ley Federal Anticorrupción en las Contrataciones Públicas, e interpretar sus disposiciones para efectos administrativos;
+
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
 IX. Resolver los recursos de revisión que se hagan valer en contra de las resoluciones de las inconformidades previstas en las Normas en Materia de Adquisiciones, Arrendamientos y Servicios del Instituto Nacional de Estadística y Geografía y en la Ley de Obras Públicas y Servicios Relacionados con las Mismas, así como en contra de aquellas resoluciones del Titular de Quejas y Responsabilidades que sancionen a licitantes, proveedores y contratistas;
@@ -2959,6 +2981,10 @@ II. Promover la instalación de módulos y buzones de orientación y recepción 
 
 III. Recibir las quejas y denuncias en contra de los servidores públicos del Instituto; practicar las investigaciones que se requieran para la integración de los expedientes relativos conforme a la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos; dar seguimiento a los procedimientos disciplinarios instaurados, y en su caso, informar al denunciante;
 
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2012)</small>
+
+III Bis. Investigar la posible comisión de las infracciones a que se refiere el artículo 8 de la Ley Federal Anticorrupción en las Contrataciones Públicas, así como determinar las responsabilidades que deriven de las mismas y aplicar las sanciones correspondientes;
+
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
 IV. Establecer y administrar el padrón de los servidores públicos del Instituto obligados a presentar declaración de situación patrimonial; vigilar y supervisar su recepción, registro y resguardo e imponer las sanciones por incumplimiento;
@@ -2978,6 +3004,10 @@ VII. Ordenar, de oficio o derivado de auditorías, la práctica de investigacion
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
 VIII. Citar al presunto responsable a la audiencia a que hace referencia el artículo 21 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos;
+
+> <small>(ADICIONADA, D.O.F. 3 DE AGOSTO DE 2012)</small>
+
+VIII Bis. Citar al presunto responsable al procedimiento a que se refiere el Capítulo Cuarto e imponer las sanciones que correspondan conforme a los Capítulos Quinto y Sexto, todos de la Ley Federal Anticorrupción en las Contrataciones Públicas.
 
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
@@ -3152,3 +3182,11 @@ SEGUNDO.- A la entrada en vigor del presente Acuerdo, los asuntos en trámite se
 TERCERO.- A la entrada en vigor del presente Acuerdo, las referencias hechas por las disposiciones normativas, acuerdos u ordenamientos a la Dirección General Adjunta de Información de Gobierno, Seguridad Pública e Impartición de Justicia, se entenderán hechas a la Dirección General de Estadísticas de Gobierno, Seguridad Pública y Justicia.
 
 CUARTO.- La Dirección General de Administración del Instituto realizará las acciones necesarias para que los recursos humanos, financieros y materiales asignados a las Unidades Administrativas que por virtud de las presentes reformas y adiciones al Reglamento se modifican, sean transferidos a las Unidades Administrativas que correspondan en los términos del mismo y de conformidad con la normatividad aplicable, atendiendo a la disponibilidad presupuestaria del Instituto.
+
+D.O.F. 3 DE AGOSTO DE 2012.
+
+PRIMERO.- Las reformas al Reglamento Interior del Instituto Nacional de Estadística y Geografía aprobadas por el presente Acuerdo, entrarán en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- A la entrada en vigor del presente Acuerdo, los asuntos en trámite se continuarán substanciando por las Unidades Administrativas a que hace referencia este Reglamento y de conformidad con las atribuciones conferidas.
+
+TERCERO.- A la entrada en vigor del presente Acuerdo, las referencias hechas por las disposiciones normativas, acuerdos u ordenamientos a la Dirección General Adjunta de Planeación, se entenderán hechas a la Dirección General Adjunta de Planeación e Infraestructura.
