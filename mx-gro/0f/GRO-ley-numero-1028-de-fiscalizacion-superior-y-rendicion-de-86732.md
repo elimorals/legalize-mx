@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-1028-de-fiscalizacion-superior-y-rendicion-de-86732"
 country: "mx"
 rank: "ley"
 publication_date: "2012-02-28"
-last_updated: "2012-02-28"
+last_updated: "2012-08-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 1028 DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2012.
 
 Ley publicada en el Alcance I del Periódico Oficial del Estado de Guerrero, el martes 28 de febrero de 2012.
 
@@ -1905,7 +1905,11 @@ T R A N S I T O R I O S
 
 PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
-SEGUNDO. Las formalidades para la presentación de las cuentas públicas del 2011 se regirán por lo dispuesto en la Ley de Fiscalización Superior del Estado de Guerrero, número 564. Su fiscalización se llevará a cabo conforme a lo señalado por la presente Ley.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2012)</small>
+
+SEGUNDO. Las formalidades para la presentación de las cuentas públicas del 2011 y de los ejercicios anteriores se regirán por lo dispuesto en la Ley de Fiscalización Superior del Estado de Guerrero, número 564. La fiscalización de las cuentas públicas anteriores a las del 2011 se regirán en lo que no se oponga en la presente Ley, por lo dispuesto en la Ley de Fiscalización Superior del Estado de Guerrero, número 564.
+
+Por única ocasión y respecto al ejercicio fiscal 2011, la Auditoría General del Estado podrá emitir informes de resultados de la revisión y fiscalización de las cuentas públicas de las entidades fiscalizables, siguiendo las formalidades previstas en la Ley de Fiscalización Superior del Estado de Guerrero, número 564, los que, en su caso, serán excluidos del informe que habrá de remitir al Honorable Congreso del Estado en el mes de septiembre del 2012, para su trámite conforme a la presente ley.
 
 Las cuentas públicas del 2012 se presentarán y fiscalizarán de conformidad con las disposiciones establecidas en esta Ley.
 
@@ -1960,3 +1964,15 @@ EL SECRETARIO DE FINANZAS Y ADMINISTRACIÓN.
 C.P. JORGE SILVERIO SALGADO LEYVA
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 3 DE AGOSTO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Comuníquese al Titular del Poder Ejecutivo del Estado para su sanción y publicación en el Periódico Oficial del Gobierno del Estado.
