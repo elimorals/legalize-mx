@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-17-2012-del-pleno-del-consejo-de-la-88363"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-06-15"
-last_updated: "2012-07-13"
+last_updated: "2012-08-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88363&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,13 +19,9 @@ issue_date: "2012-06-07"
 ---
 # ACUERDO GENERAL 17/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO]
 
-> <small>N. DE E. CUENTA CON LA MODIFICACIÓN DEL ACUERDO 19/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, A EFECTO DE MOSTRAR EL TEXTO ACTUALIZADO DE LA VERSIÓN VIGENTE.</small>
-
 ACUERDO GENERAL 17/2012, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-TEXTO ORIGINAL: 26 DE JUNIO DE 2012 Y ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE JUNIO DE 2012.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 13 DE JULIO DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE AGOSTO DE 2012.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 26 de junio de 2012.
 
@@ -173,7 +169,9 @@ VII. SEPTIMO CIRCUITO:
 
 1. Ocho tribunales colegiados especializados: dos en materias penal y de trabajo y dos en materia administrativa, con residencia en Boca del Río; dos tribunales colegiados en materia civil y dos en materias penal y de trabajo con sede en Xalapa.
 
-2. Dos tribunales unitarios con residencia en Boca del Río.
+> <small>(REFORMADO POR EL PUNTO DÉCIMO DEL ACUERDO GENERAL 24/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE AGOSTO DE 2012)</small>
+
+2. Tres tribunales unitarios dos con residencia en Boca del Río y uno con sede en Xalapa.
 
 3. Quince juzgados de Distrito en el Estado de Veracruz: dos especializados de Procesos Penales Federales con residencia en Villa Aldama, tres con sede en Xalapa, cuatro con residencia en Boca del Río, dos con sede en Tuxpan, dos con residencia en Poza Rica y dos con sede en Córdoba.
 
@@ -701,7 +699,9 @@ QUINTO. Se contará con:
 
 3. El Centro Auxiliar de la Tercera Región, se integrará por seis tribunales colegiados de Circuito Auxiliares, dos con residencia en Guanajuato, Guanajuato, dos con sede en Guadalajara, Jalisco y dos con residencia en Morelia, Michoacán; siete tribunales unitarios de Circuito Auxiliares, cinco con residencia en Guanajuato, Guanajuato y dos con sede en Guadalajara, Jalisco y, cinco juzgados de Distrito Auxiliares, dos con residencia en Guanajuato, Guanajuato, dos con sede en Guadalajara, Jalisco y uno en Uruapan, Michoacán.
 
-4. El Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, se integrará por dos tribunales colegiados de Circuito Auxiliares, un tribunal unitario de Circuito Auxiliar y cinco juzgados de Distrito Auxiliares.
+> <small>(REFORMADO POR EL PUNTO DECIMOPRIMERO DEL ACUERDO GENERAL 24/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE AGOSTO DE 2012)</small>
+
+4. El Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, el cual se integrará por dos tribunales colegiados Auxiliares y cinco juzgados de Distrito Auxiliares.
 
 5. El Centro Auxiliar de la Quinta Región, se integrará por cinco tribunales colegiados de Circuito auxiliares, tres con residencia en Culiacán, Sinaloa, uno en Los Mochis, Sinaloa y uno en La Paz, Baja California Sur; dos tribunales unitarios de Circuito auxiliares, ambos con sede en Culiacán, Sinaloa, y siete juzgados de Distrito Auxiliares, con residencia en Culiacán, Sinaloa, los cuales tendrán jurisdicción en toda la República y competencia mixta para para (sic) apoyar en el dictado de sentencias.
 
@@ -750,3 +750,13 @@ PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 17/2012, del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se Divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
+
+D.O.F. 3 DE AGOSTO DE 2012.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. Se abroga el Acuerdo General 7/2011, del Pleno del Consejo de la Judicatura Federal, relativo al inicio de funciones del Tribunal Unitario de Circuito del Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, con jurisdicción en toda la República.
+
+CUARTO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación deberá integrar de inmediato el texto de la reforma al Acuerdo General 17/2012, del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se Divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
