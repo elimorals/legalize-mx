@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2012-07-23"
+last_updated: "2012-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE AGOSTO DE 2012.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -157,13 +157,13 @@ Toda persona podrá ejercer el derecho de petición ante las autoridades del Est
 
 La ley regulará los casos en los que, ante el silencio de la autoridad administrativa, la respuesta a la petición se considere en sentido afirmativo.
 
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, G.O. 3 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 8.
 
-Los habitantes del Estado tienen derecho a vivir y crecer en un ambiente saludable y equilibrado. Las autoridades desarrollarán planes y programas destinados a la preservación, aprovechamiento racional y mejoramiento de los recursos naturales, de la flora y la fauna existentes en su territorio, así como para la prevención y combate a la contaminación ambiental.
+Los habitantes del Estado tienen derecho a vivir y crecer en un ambiente saludable, ecológicamente equilibrado y sustentable, para su bienestar y desarrollo humano. Las autoridades desarrollarán planes y programas destinados a la preservación, aprovechamiento racional y mejoramiento de los recursos naturales, de la flora y la fauna existentes en su territorio, así como para la prevención y combate a la contaminación ambiental. Asimismo, realizarán acciones de prevención, adaptación y mitigación frente a los efectos del cambio climático.
 
-Las personas serán igualmente responsables en la preservación, restauración, y equilibrio del ambiente, disponiendo para tal efecto del ejercicio de la acción popular ante la autoridad competente, para que atienda la problemática relativa a esta materia.
+Las personas serán igualmente responsables en la preservación, restauración y equilibrio del ambiente, así como en las acciones de prevención, adaptación y mitigación frente al cambio climático, disponiendo para tal efecto del ejercicio de la acción popular ante la autoridad competente, para que atienda la problemática relativa a esta materia.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -11793,7 +11793,7 @@ Primero. Se derogan todas las disposiciones que se opongan a la presente ley.
 
 Segundo. La disposición contenida en el artículo 52 entrará en vigor a partir del 5 de noviembre del año 2000.
 
-Tercero. La LVIII Legislatura del Estado que resulte electa el 2 de agosto de 1998, empezará su ejercicio constitucional el 1º de octubre del propio año y lo concluirá el 4 de noviembre del año 2000. Por consiguiente, su primer período de sesiones ordinarias terminará el 31 de diciembre, pudiendo prorrogarlo por treinta días más. Su segundo período de sesiones ordinarias se llevará a cabo del 1º de junio al 15 de julio como máximo del año correspondiente.
+Tercero. La LVIII Legislatura del Estado que resulte electa el 2 de agosto de 1998, empezará su ejercicio constitucional el 1º. de octubre del propio año y lo concluirá el 4 de noviembre del año 2000. Por consiguiente, su primer período de sesiones ordinarias terminará el 31 de diciembre, pudiendo prorrogarlo por treinta días más. Su segundo período de sesiones ordinarias se llevará a cabo del 1º de junio al 15 de julio como máximo del año correspondiente.
 
 Cuarto. En relación con lo dispuesto en la adición a la fracción XV del artículo 68, la Contaduría Mayor de Hacienda de la H. Legislatura del Estado empezará a funcionar en tiempo y forma una vez que entre en vigor la Ley Orgánica respectiva y su Reglamento Interior.
 
@@ -12060,6 +12060,10 @@ Segundo. El Congreso del Estado realizará las adecuaciones correspondientes en 
 Tercero. Al término del periodo de los Consejeros Electorales que concluye en enero de dos mil trece, el Congreso del Estado designará a dos Consejeros, uno, por única ocasión, para cubrir un periodo de tres años y otro para cubrir el periodo de cuatro años. El Congreso procederá de la misma manera al finalizar el periodo de los Consejeros que concluyen su función en el año dos mil dieciocho.
 
 Cuarto. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+G.O. 3 DE AGOSTO DE 2012.
+
+Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial del estado.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 1915 DEL CÓDIGO CIVIL FEDERAL".]
 
