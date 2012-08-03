@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interno-de-la-junta-de-gobierno-de-la-escuela-de-886
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-07-19"
-last_updated: "2012-07-19"
+last_updated: "2012-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88638&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,17 +20,17 @@ issue_date: "2012-06-13"
 ---
 # REGLAMENTO INTERNO DE LA JUNTA DE GOBIERNO DE LA ESCUELA DE ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE AGOSTO DE 2012 EN LA G.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERNO DE LA JUNTA DE GOBIERNO DE LA ESCUELA DE ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
 TEXTO ORIGINAL.
 
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL DEL 3 DE AGOSTO DE 2012.</small>
+
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 19 de julio de 2012.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE PÁRRAFO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE AGOSTO DE 2012 EN LA G.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., G.O. 3 DE AGOSTO DE 2012)</small>
 
-DRA. MARA NADIEZHDA ROBLES VILLASEÑOR, Secretaria Técnica de la Junta de Gobierno de la Escuela de Administración Pública del Distrito Federal, en cumplimiento al Acuerdo No. SO/02/03/2012, adoptado en su segunda sesión ordinaria, celebrada el veintisiete de abril de dos mil doce, mediante el cual se aprobó el nuevo Reglamento de la Junta de Gobierno y se abrogó el diverso aprobado en la primera sesión ordinaria de 2011, mediante Acuerdo SO/01/004/2011, así como sus reformas, con fundamento en el artículo 11, último párrafo, e instruye a la Secretaria Técnica para que realice las gestiones conducentes para su publicación en la Gaceta Oficial del Distrito Federal, doy a conocer el siguiente:
+DRA. MARA NADIEZHDA ROBLES VILLASEÑOR, Secretaria Técnica de la Junta de Gobierno de la Escuela de Administración Pública del Distrito Federal, en cumplimiento al Acuerdo No. SO/02/03/2012, adoptado en su segunda sesión ordinaria, celebrada el veintisiete de abril de dos mil doce, mediante el cual se aprobó el nuevo Reglamento de la Junta de Gobierno y se abrogó el diverso aprobado en la primera sesión ordinaria de 2011, mediante Acuerdo SO/01/004/2011, así como sus reformas, con fundamento en el artículo 11, último párrafo, del Estatuto Orgánico de la Escuela de Administración Pública del Distrito Federal, e instruye a la Secretaria Técnica para que realice las gestiones conducentes para su publicación en la Gaceta Oficial del Distrito Federal, doy a conocer el siguiente:
 
 REGLAMENTO INTERNO DE LA JUNTA DE GOBIERNO DE LA ESCUELA DE ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
@@ -120,8 +120,6 @@ El Comisario Público y el Contralor Interno de la Escuela asistirán con voz pe
 
 La Junta de Gobierno contará con un Secretario Técnico, a cargo del titular de la Dirección General de la Escuela.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE AGOSTO DE 2012 EN LA G.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 8.
 
 Para el cumplimiento de su objeto, además de las que le corresponden por disposición del artículo 70 de la Ley Orgánica de la Administración Pública del Distrito Federal, la Junta de Gobierno tendrá las siguientes funciones:
@@ -144,7 +142,9 @@ VIII. Verificar que exista congruencia entre los recursos asignados a la Escuela
 
 IX. Autorizar la creación de grupos de trabajo.
 
-X. Nombrar y remover, a propuesta del Director General, al Secretario General, al Coordinador General, así como a los titulares de las Direcciones Ejecutivas, Direcciones, Coordinaciones y Subdirecciones
+> <small>(F. DE E., G.O. 3 DE AGOSTO DE 2012)</small>
+
+X. Nombrar y remover, a propuesta del Director General, al Secretario General, así como a los titulares de las Direcciones y Subdirecciones Ejecutivas.
 
 XI. Las que le atribuyan los demás ordenamientos aplicables.
 
