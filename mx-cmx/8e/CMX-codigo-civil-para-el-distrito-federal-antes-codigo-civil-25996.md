@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2012-07-23"
+last_updated: "2012-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -19,11 +19,11 @@ scjn_last_update: "2026-08-20"
 ---
 # CODIGO CIVIL PARA EL DISTRITO FEDERAL -ANTES CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL-
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE AGOSTO DE 2012 EN LA G.O., SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO CIVIL PARA EL DISTRITO FEDERAL
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE JULIO DE 2012.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 3 DE AGOSTO DE 2012.</small>
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -13415,39 +13415,9 @@ ARTICULO 3,045.- Salvo los casos en que la anotación cierre el registro, los bi
 
 De la inmatriculación
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE AGOSTO DE 2012 EN LA G.O., SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE JULIO DE 2012)</small>
+(REFORMADO, G.O. 23 DE JULIO DE 2012) (F. DE E., G.O. 3 DE AGOSTO DE 2012)
 
 ARTICULO 3,046.- La inmatriculación es la inscripción de la propiedad de un inmueble en el Registro Público de la Propiedad, que carece de antecedentes registrales y se obtiene por resolución judicial a través de información de dominio. Para llevar a cabo el procedimiento de inmatriculación previsto en este Código, es requisito que dicho Registro emita, durante el procedimiento de que se trate, un certificado que acredite que el bien a inmatricularse no esté inscrito en esa institución.
-
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
-
-El Director del Registro Público podrá allegarse información de otras autoridades administrativas.
-
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
-
-El interesado en la inmatriculación de la propiedad o posesión de un inmueble podrá optar por obtenerla mediante resolución judicial o mediante resolución administrativa, en los términos de las disposiciones siguientes:
-
-I.- La inmatriculación por resolución judicial se obtiene:
-
-a) Mediante información de dominio, y
-
-b) Mediante información posesoria.
-
-II.- La inmatriculación por resolución administrativa se obtiene:
-
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
-
-a) Mediante la inscripción del decreto por el que se incorpora al dominio público del Distrito Federal un inmueble;
-
-b) Mediante la inscripción del decreto por el que se desincorpore del dominio público un inmueble, o el título expedido con base en ese decreto;
-
-c) Mediante la inscripción de un título fehaciente y suficiente para adquirir la propiedad de un inmueble, en los términos del artículo 3051 de este Código;
-
-d) Mediante la inscripción de la propiedad de un inmueble adquirido por prescripción positiva, en los términos del artículo 3052 del presente Código, y
-
-e) Mediante la inscripción de la posesión de buena fe de un inmueble, que reúna los requisitos de aptitud para prescribir, en los términos del artículo 3053 de este Código.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 7 DE ENERO DE 1988)</small>
 
@@ -14403,7 +14373,7 @@ Tercero.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor 
 
 G.O. 23 DE JULIO DE 2012.
 
-DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL.
+DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓGIGO CIVIL PARA EL DISTRITO FEDERAL.
 
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
