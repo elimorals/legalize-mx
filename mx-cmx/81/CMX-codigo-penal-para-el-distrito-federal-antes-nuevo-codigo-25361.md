@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2012-07-25"
+last_updated: "2012-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-07-11"
 
 CÓDIGO PENAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 25 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE AGOSTO DE 2012.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -584,7 +584,7 @@ Al imponer las consecuencias jurídicas accesorias previstas en este Capítulo, 
 
 Estos derechos quedan a salvo, aún cuando el juez no tome las medidas a que se refiere el párrafo anterior.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.O. 18 DE MARZO DE 2011)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 18 DE MARZO DE 2011)</small>
 
 ### CAPÍTULO XIV. PROHIBICIÓN DE COMUNICACIÓN CON PERSONA DETERMINADA
 
@@ -1260,7 +1260,7 @@ IV. Que sea resultado de una conducta culposa de la mujer embarazada.
 
 En los casos contemplados en las fracciones I, II y III, los médicos tendrán la obligación de proporcionar a la mujer embarazada, información objetiva, veraz, suficiente y oportuna sobre los procedimientos, riesgos, consecuencias y efectos; así como de los apoyos y alternativas existentes, para que la mujer embarazada pueda tomar la decisión de manera libre, informada y responsable.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.O. 26 DE JULIO DE 2011)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 26 DE JULIO DE 2011)</small>
 
 ### CAPÍTULO II. PELIGRO DE CONTAGIO
 
@@ -2252,7 +2252,7 @@ Se impondrán las penas previstas en el artículo anterior, al que se introduzca
 
 Los delitos previstos en este Capítulo, se perseguirán por querella.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.O. 19 DE JULIO DE 2010)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 19 DE JULIO DE 2010)</small>
 
 ### CAPÍTULO VII. DESPOJO
 
@@ -3864,6 +3864,10 @@ IV.- Un área verde en suelo urbano.
 
 Las penas previstas en este artículo se disminuirán en una mitad cuando, las actividades realizadas, aún siendo diferentes a las previstas en el uso de suelo correspondiente, se encuentren previstas en el programa o programas de ordenamiento ecológico del Distrito Federal, o en el Programa o Programas de Desarrollo Urbano aplicables.
 
+> <small>(ADICIONADO, G.O. 3 DE AGOSTO DE 2012)</small>
+
+No se considerará violatorio del uso de suelo el supuesto establecido en el artículo 37 de la Ley de Establecimientos Mercantiles.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2011)</small>
@@ -4773,3 +4777,9 @@ G.O. 25 DE JULIO DE 2012.
 Primero.- El presente decreto entrara en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 Segundo.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 3 DE AGOSTO DE 2012.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación
+
+Segundo.- Publíquese en la Gaceta Oficial del Distrito Federal, y para su mayor difusión en el Diario Oficial de la Federación.
