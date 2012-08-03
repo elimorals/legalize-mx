@@ -4,7 +4,7 @@ identifier: "VER-ley-ganadera-para-el-estado-de-veracruz-de-ignacio-de-la-6767"
 country: "mx"
 rank: "ley"
 publication_date: "1979-05-22"
-last_updated: "2012-05-09"
+last_updated: "2012-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6767&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY GANADERA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE AGOSTO DE 2012.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz Ignacio de la Llave, el martes 22 de mayo de 1979.
 
@@ -491,29 +491,33 @@ Los Supervisores e Inspectores de Ganadería serán considerados como agentes au
 
 ### CAPITULO OCTAVO. VIGILANCIA Y MOVILIZACION DEL GANADO
 
+> <small>(REFORMADO, G.O. 3 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 70.
 
-Toda conducción de ganado deberá ampararse con un documento denominado 'Guía de Tránsito', que será expedida por la Asociación Ganadera Local respectiva con autorización del Presidente Municipal, debiendo dicha Guía ir acompañada de los recibos de pago de impuestos cuando éstos deban causarse, de la Guía Sanitaria, así como de la factura que legitime la operación de compra-venta cuando de ello se trate. En los casos de partidas de ganado que se transporten en varios vehículos, cada uno de ellos deberá ir provisto de la referida documentación, excepción hecha de la factura, que podrá amparar a todos, debiendo presentarse para su revisión en la caseta respectiva por quien conduzca el primer vehículo.
+Toda conducción de ganado deberá ampararse con los documentos denominados "Guía de Tránsito" y "Certificado de Garrapata", que serán expedidos por la Asociación Ganadera Local respectiva, con autorización del Presidente Municipal, debiendo dichos documentos ir acompañados de los recibos de pago de impuestos cuando estos deban causarse; de la Guía Zoosanitaria, así como de la factura que legitime la operación de compraventa cuando de ello se trate. En los casos de partidas de ganado que se transporten en varios vehículos, cada uno de ellos deberá ir provisto de la referida documentación, excepción hecha de la factura, que podrá amparar a todos, debiendo presentarse para su revisión en la caseta respectiva por quien conduzca el primer vehículo.
 
-> <small>(ADICIONADO, G.O. 4 DE ABRIL DE 1992)</small>
+Cuando para la expedición de una Guía Zoosanitaria se requiera certificado de sanidad animal, así como los dictámenes de las pruebas de brucelosis y tuberculosis, estos serán expedidos por el Médico Veterinario Zootecnista regional especializado en rumiantes, a que se refiere el artículo 98 de esta Ley.
 
-Cuando para la expedición de una Guía Sanitaria se requiera certificado de sanidad animal, éste será expedido por el Médico Veterinario Zootecnista regional, a que se refiere el artículo 98 de esta Ley.
+En casos urgentes, como epidemias e inundaciones en los que no dé tiempo para acudir a las oficinas de la Asociación Ganadera Local para la expedición de la Guía de Tránsito, los arreos de un potrero a otro podrán efectuarse comprobando la propiedad con la patente del criador o con la factura que acredite la propiedad y el arete del Sistema Nacional de Identificación Individual del Ganado (SINIIGA).
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO, G.O. 3 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 71.
 
-Las Guías de Tránsito tendrán una vigencia de cinco días naturales; estarán numeradas progresivamente y serán proporcionadas por la Dirección General de Ganadería. Se expedirán por septuplicado: un tanto para el interesado, otro para la Dirección General de Ganadería, otro para la Unión Ganadera Regional y otro para la Secretaría de Finanzas y Planeación del Estado, mismos que remitirá la Asociación correspondiente durante los primeros cinco días del mes siguiente; otro tanto para la autoridad municipal, uno para la oficina Hacienda del Estado y el último para el archivo de la Asociación.
+Las Guías de Tránsito tendrán una vigencia de cinco días hábiles; estarán numeradas progresivamente y serán proporcionadas por la Dirección General de Ganadería a las Uniones Ganaderas Regionales respectivas para que éstas a su vez, las distribuyan entre las Asociaciones Ganaderas afiliadas; en el caso de las Asociaciones Ganaderas Libres, la propia Dirección se las proveerá. Se expedirán por sextuplicado: un tanto para el interesado, otro para la Dirección General de Ganadería y otro para la Unión Ganadera Regional, mismos que remitirá la Asociación correspondiente durante los primeros cinco días del mes siguiente; otro tanto para la autoridad municipal, uno para la oficina de Hacienda del Estado y el último para el archivo de la Asociación.
 
-Tal documento deberá llevar dibujados todos los fierros, marcas, tatuajes y señales que ostenten los animales que se transporten, protegidos con algún material que impida una posible alteración de los mismos, señalando con letra el total de los fierros, marcas, tatuajes y señales.
+Tal documento deberá llevar dibujados todos los fierros, marcas, tatuajes y señales que ostenten los animales que se transporten, protegidos con algún material que impida una posible alteración de los mismos, señalando con letra el total de los fierros, marcas, tatuajes, número de arete del Sistema Nacional de Identificación Individual del Ganado (SINIIGA) y señales.
 
-> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
+Las Guías de Tránsito se gravarán con un derecho de acuerdo con la tarifa respectiva, prevista en el Código Hacendario Municipal correspondiente. Este cobro lo realizará directamente la Secretaría de Finanzas y Planeación del Estado e ingresará al Fondo para el Desarrollo Municipal.
 
-Las Guías de Tránsito se gravarán con un derecho de acuerdo con la tarifa respectiva, prevista en la Ley de Hacienda Municipal. Este cobro lo realizará directamente la Secretaría de Finanzas y Planeación del Estado e ingresará al Fondo para el Desarrollo Municipal.
+Para recibir guías de Tránsito, las asociaciones ganaderas deberán cumplir con el requisito de domicilio establecido o el aviso oportuno de cambio del mismo, de lo contrario, serán sancionadas con la suspensión en la entrega de las mismas.
+
+> <small>(REFORMADO, G.O. 3 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 72.
 
-El ganado que transite sin estar amparado con la documentación que señala el artículo 70 será detenido con la intervención de las Asociaciones Ganaderas respectivas, mientras se hacen las investigaciones, consignándose el hecho, si procede, al Ministerio Público para el ejercicio de sus funciones.
+El ganado que transite sin estar amparado con la documentación que señala el artículo 70 de esta Ley será detenido por las autoridades competentes con la intervención de las Asociaciones Ganaderas respectivas; a efecto de las investigaciones, se le concederá al conductor o propietario un término de cuarenta y ocho horas para acreditar la propiedad, posesión o gestionar la guía de tránsito correspondiente, de no cumplir esta disposición, se turnará el hecho al Ministerio Público, para el ejercicio de sus funciones.
 
 > <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
 
@@ -521,11 +525,11 @@ El ganado que transite sin estar amparado con la documentación que señala el a
 
 En el caso del artículo anterior, si el conductor de ganado comprobara posteriormente la legítima procedencia de los animales, podrá continuar su ruta una vez que se provea de la documentación necesaria y previo pago de una multa al Ayuntamiento respectivo hasta de cinco salarios mínimos por la falta de presentación oportuna de dichos documentos, sin perjuicio de las responsabilidades fiscales por la omisión en el pago de los impuestos estatales y municipales.
 
-> <small>(REFORMADO, G.O. 4 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO, G.O. 3 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 74.
 
-Queda estrictamente prohibido transitar con ganado en la noche, sin autorización expresa y por escrito del Inspector Local o de la autoridad municipal. La autorización deberá constar en la Guía de Tránsito. La infracción a este precepto, se sancionará con multa hasta de cinco salarios mínimos, que ingresará al erario del Municipio en donde se compruebe la infracción, debiendo fijarla el Supervisor o el Inspector Local, y a falta de ellos la autoridad municipal.
+Queda estrictamente prohibido transitar con ganado en la noche, sin autorización expresa y por escrito del Inspector Local o de la autoridad municipal; con excepción de ganado bovino o equino que haya participado o vaya a participar en alguna competencia o deporte, siempre y cuando lo demuestre fehacientemente con la documentación correspondiente. La autorización deberá constar en la Guía de Tránsito. La infracción a este precepto se sancionará con multa de cincuenta salarios mínimos, que ingresará al erario del Municipio en donde se compruebe la infracción, debiendo imponerla el Supervisor o el Inspector Local, y a falta de ellos la autoridad municipal.
 
 ###### ARTICULO 75.
 
@@ -541,9 +545,11 @@ Quienes transporten ganado, cualquier producto o suproduccto (sic) del mismo, de
 
 Queda estrictamente prohibida la movilización de ganado enfermo. Si al conducirse una partida de un lugar a otro, se enfermara alguno de los animales, toda la partida será detenida en el lugar más inmediato y puesta en observación, aislándose los animales enfermos. La reanudación de la marcha será permitida cuando las autoridades competentes así lo autoricen, con la intervención de la Asociación Ganadera.
 
+> <small>(REFORMADO, G.O. 3 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 78.
 
-Los Propietarios de vehículos y las empresas de transporte, por ningún motivo embarcarán cueros, pieles, carne o los demás productos o subproductos derivados de los animales, si no están amparados con los documentos con que se comprueba la propiedad y las Guías Sanitaria y de Tránsito.
+Los propietarios de vehículos y las empresas de transporte, que embarquen cueros, pieles, carne o los demás productos o subproductos derivados de los animales, sin estar amparados en los documentos con que se comprueba la propiedad y las Guías Sanitarias y de Tránsito, serán sujetos al procedimiento que establece el artículo 72 de esta Ley.
 
 ###### ARTICULO 79.
 
@@ -918,3 +924,9 @@ Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de
 Artículo Segundo. A partir del inicio de la vigencia del presente Decreto, los ganaderos tendrán un plazo de quinientos cuarenta días naturales para la implantación y uso del arete del Sistema Nacional de Identificación Ganadera en todo el ganado bovino, caprino y ovino.
 
 Artículo Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 3 DE AGOSTO DE 2012.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
