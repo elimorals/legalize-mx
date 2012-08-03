@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-27-2008-del-pleno-del-consejo-de-la-61405"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-06-11"
-last_updated: "2012-01-18"
+last_updated: "2012-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61405&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-06-04"
 
 ACUERDO GENERAL 27/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE CREA EL CENTRO AUXILIAR DE LA CUARTA REGIÓN, CON RESIDENCIA EN XALAPA, VERACRUZ, ASÍ COMO LOS ÓRGANOS JURISDICCIONALES QUE LO INTEGRARÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE AGOSTO DE 2012.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 11 de junio de 2008.
 
@@ -57,9 +57,9 @@ En consecuencia, con fundamento en los artículos Constitucionales y legales inv
 
 ACUERDO
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 56/2008 DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 24/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE AGOSTO DE 2012)</small>
 
-PRIMERO. CONFORMACION, UBICACION Y COMPETENCIA. Se crea el Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, conformado por dos tribunales colegiados Auxiliares, un tribunal unitario y cinco juzgados de Distrito Auxiliares; el domicilio del tribunal unitario y de tres juzgados de Distrito Auxiliares será el ubicado en avenida Culturas Veracruzanas número 120, código postal 91096, colonia Reserva Territorial, en Xalapa, Veracruz, y el de los restantes órganos jurisdiccionales que integran el Centro Auxiliar, estará en Ruiz Cortines número 1628, código postal 91020, colonia Ferrer Guardia, Xalapa, Veracruz, los cuales tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias, su denominación será la siguiente:
+PRIMERO. CONFORMACION, UBICACION Y COMPETENCIA. Se crea el Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, conformado por dos tribunales colegiados Auxiliares y cinco juzgados de Distrito Auxiliares; el domicilio de tres juzgados de Distrito será el ubicado en avenida Culturas Veracruzanas número 120, código postal 91096, colonia Reserva Territorial, en Xalapa, Veracruz, y el de los restantes órganos jurisdiccionales que integran el Centro Auxiliar, estará en Ruiz Cortines número 1628, código postal 91020, colonia Ferrer Guardia, Xalapa, Veracruz, los cuales tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias, su denominación será la siguiente:
 
 Juzgado Primero de Distrito del Centro Auxiliar de la Cuarta Región.
 
@@ -70,10 +70,6 @@ Juzgado Tercero de Distrito del Centro Auxiliar de la Cuarta Región.
 Juzgado Cuarto de Distrito del Centro Auxiliar de la Cuarta Región.
 
 Juzgado Quinto de Distrito del Centro Auxiliar de la Cuarta Región.
-
-El tribunal unitario se denominará:
-
-Tribunal Unitario de Circuito del Centro Auxiliar de la Cuarta Región.
 
 Los tribunales colegiados se denominarán:
 
@@ -294,3 +290,13 @@ PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, a los Acuerdos Generales 10/2008, 18/2008, 27/2008, 52/2008, 53/2008, 54/2008, 20/2009, 51/2009, 54/2009, 32/2010 y 33/2011, relativos a la Creación de cada uno de los once Centros Auxiliares Regionales.
+
+D.O.F. 3 DE AGOSTO DE 2012.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. Se abroga el Acuerdo General 7/2011, del Pleno del Consejo de la Judicatura Federal, relativo al inicio de funciones del Tribunal Unitario de Circuito del Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, con jurisdicción en toda la República.
+
+CUARTO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación deberá integrar de inmediato el texto de la reforma al Acuerdo General 17/2012, del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se Divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
