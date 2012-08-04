@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-urbano-del-estado-de-zacatecas-12875"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-09-11"
-last_updated: "2011-08-20"
+last_updated: "2012-08-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ZAC"
 ---
 # CODIGO URBANO DEL ESTADO DE ZACATECAS
 
-CODIGO URBANO DEL ESTADO DE ZACATECAS
+CÓDIGO URBANO DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2012.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 11 de septiembre de 1996.
 
@@ -871,165 +871,35 @@ XX.- Las demás que le señalen este Código y otras disposiciones jurídicas ap
 
 La Junta Estatal de Protección y Conservación de Monumentos y Zonas Típicas, es un organismo descentralizado por razón de servicio, dependiente del Ejecutivo del Estado, con las facultades consultivas y ejecutivas que le atribuye la Ley de su creación y que ejercerá jurisdicción en los municipios que al efecto se describen en el Artículo 9° de la misma. Para la toma de decisiones, en asuntos de su competencia, deberá acordar con el vocal ejecutivo de la Comisión del Patrimonio Cultural.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 36.
 
-Se crea un organismo público descentralizado, denominado Consejo Promotor de la Vivienda Popular, dotado de personalidad jurídica y patrimonio propios, domicilio legal en la ciudad de Zacatecas y jurisdicción en la entidad, sujeto a los lineamientos que en política de vivienda y desarrollo urbano dicte el Gobierno del Estado, con el objeto fundamental de promover acciones de vivienda de interés social y popular, obras de urbanización, realizar acciones de regularización de la tenencia de la tierra urbana para la vivienda, así como la constitución de reservas territoriales, de conformidad con lo dispuesto por este Código y demás ordenamientos jurídicos aplicables.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS, P.O. 4 DE AGOSTO DE 2012)
 
-> <small>(REFORMADO, P. O. 23 DE ABRIL DE 1997)</small>
-
-El patrimonio del CONSEJO se constituye por:
-
-> <small>(REFORMADA, P. O. 23 DE ABRIL DE 1997)</small>
-
-I.- Las aportaciones, bienes muebles e inmuebles y demás ingresos, derechos y servicios que los Gobiernos Federal, Estatal y Municipal le otorguen o destinen;
-
-> <small>(REFORMADA, P. O. 23 DE ABRIL DE 1997)</small>
-
-II.- Las aportaciones, legados, donaciones y demás liberalidades que reciba de los sectores social y privado;
-
-> <small>(REFORMADA, P. O. 23 DE ABRIL DE 1997)</small>
-
-III.- Los rendimientos, recuperaciones, bienes, derechos y demás ingresos que generen sus operaciones, actividades y bienes;
-
-> <small>(REFORMADA, P. O. 23 DE ABRIL DE 1997)</small>
-
-IV.- En general, por los ingresos que obtenga por cualquier otro título legal.
-
-> <small>(REFORMADO, P.O. 23 DE ABRIL DE 1997)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 37.
 
-El CONSEJO para el cumplimiento de sus atribuciones contará con los siguientes órganos:
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS, P.O. 4 DE AGOSTO DE 2012)
 
-I.- La Junta Directiva;
-
-II.- El Director General, así como dos servidores públicos en jerarquías inferiores a éste, quienes serán designados por el Titular del Ejecutivo Estatal;
-
-III.- Un Comisario Público propietario y su respectivo suplente designados por la Secretaría de la Contraloría General del Estado; y
-
-IV.- Las unidades administrativas de apoyo que se requieran.
-
-> <small>(REFORMADO, P.O. 23 DE ABRIL DE 1997)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 38.
 
-La Junta Directiva del CONSEJO se integrará:
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS, P.O. 4 DE AGOSTO DE 2012)
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2001)</small>
-
-I. Por un Presidente, que será el Secretario de Obras Públicas;
-
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2001)</small>
-
-II. Por el Secretario de Finanzas;
-
-III. Por el Secretario de la Contraloría General del Estado;
-
-IV. Por el Secretario de Desarrollo Económico;
-
-V. Por el Delegado de la Secretaría de Desarrollo Social, quien será invitado al efecto;
-
-VI. Por el Presidente Estatal del Centro Bancario;
-
-VII. Por el Presidente de la Delegación de la Cámara Mexicana de la Industria de la Construcción;
-
-VIII. Por el Presidente Estatal de la Asociación Mexicana de Profesionales Inmobiliarios;
-
-IX. Un representante común designado conjuntamente por el Sindicato Unico de Trabajadores al Servicio del Estado, Municipios y Organismos Paraestatales, las secciones 34 y 58 del Sindicato Nacional de Trabajadores de la Educación y el Sindicato Independiente de Trabajadores de Telesecundarias del Estado de Zacatecas;
-
-X. Por el Secretario General de la Central Obrera Mayoritaria;
-
-XI. Por el Director de la Escuela, Facultad de Arquitectura o Institución equivalente, más antigua dentro del Sistema de Educación Superior;
-
-XII. Por el Director de la Escuela, Facultad de Ingeniería Civil o Institución equivalente, más antigua dentro del Sistema de Educación Superior; y
-
-XIII. Por uno o más Presidentes Municipales, cuando se traten asuntos relacionados con sus respectivos municipios.
-
-El Director General participará en las sesiones de la Junta Directiva con voz pero sin voto.
-
-En caso de empate, el Presidente tendrá voto de calidad.
-
-> <small>(REFORMADO, P.O. 23 DE ABRIL DE 1997)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 39.
 
-La Junta Directiva, a propuesta del Director General, expedirá el Estatuto Orgánico del Consejo Promotor de la Vivienda Popular que normará las obligaciones y facultades de sus órganos, señalando cuales de aquéllas son indelegables; el régimen laboral a que se sujetarán las relaciones de trabajo, así como la organización, el funcionamiento, las formas y términos de liquidación del Consejo.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS, P.O. 4 DE AGOSTO DE 2012)
 
-> <small>(REFORMADO, P.O. 23 DE ABRIL DE 1997)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 40.
 
-Las obligaciones y facultades relativas a los órganos del Consejo Promotor de la Vivienda Popular, que desarrolle el Estatuto Orgánico, tendrán como base y límite, las siguientes:
-
-A. Atribuciones de la Junta Directiva:
-
-I.- Intervenir, en coordinación con la Secretaría, en la promoción, coordinación y evaluación de los programas de vivienda del Gobierno del Estado;
-
-II.- Elaborar, en coordinación con la Secretaría, el Programa Estatal de Vivienda, así como los programas operativos anuales;
-
-III.- Promover con la participación de los sectores social y privado la construcción de fraccionamientos y condominios de interés social y popular;
-
-IV.- Promover ante las Instituciones de Crédito e Instituciones de Vivienda la disponibilidad de recursos financieros suficientes, oportunos y adecuados, ya sean de procedencia federal, estatal, municipal o coinversiones con capital privado, y la modernidad en su operación;
-
-V.- Establecer los mecanismos y medidas de financiamiento para el cumplimiento de los programas municipales de vivienda;
-
-VI.- Fomentar el abaratamiento en la producción y distribución de materiales de construcción para la vivienda de interés social y popular;
-
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2001)</small>
-
-VII.- Podrá realizar acciones de regularización de tenencia de la tierra urbana para la vivienda, mediante el otorgamiento de documentos privados, por conducto del Director General;
-
-VIII.- Administrar los inmuebles de su propiedad, teniendo la facultad para adquirir, realizar actos de dominio y comercializar dichos inmuebles;
-
-IX.- Celebrar todo tipo de actos, convenios y contratos necesarios para el eficaz cumplimiento de sus fines;
-
-X.- Participar, en coordinación con la Secretaría, en la ejecución de los programas de vivienda que se desarrollen en el Estado;
-
-XI.- Proponer la adquisición de reservas territoriales para vivienda de interés social y popular;
-
-XII.- Promover parques de producción y distribución de materiales de construcción para la vivienda de interés social y popular, así como su infraestructura;
-
-XIII.- Formular prototipos de vivienda y de componentes normalizados de construcción que permitan reducir el costo de la vivienda de interés social y popular;
-
-XIV.- Fomentar la investigación en materia de vivienda;
-
-XV.- Orientar a las personas de escasos recursos sobre los medios de financiamiento para adquirir lotes y viviendas en fraccionamientos y condominios de interés social o popular;
-
-XVI.- Coordinar la satisfacción de necesidades de vivienda, en caso de siniestros que afecten centros de población en el Estado, cuando así lo señale el Titular del Ejecutivo;
-
-XVII.- Fomentar la constitución de organizaciones comunitarias, sociedades cooperativas y otras de esfuerzo solidario, para la producción y mejoramiento de la vivienda de interés social y popular; y
-
-XVIII.- Las demás que le señalen este Código, el Estatuto Orgánico y otras disposiciones jurídicas aplicables.
-
-Previo acuerdo de la Junta Directiva, podrán delegarse en el Director General, exclusivamente las atribuciones señaladas en las fracciones II, IV, V, VII, VIII, IX, XIII y XVI, de este apartado.
-
-B. Atribuciones del Director General:
-
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2001)</small>
-
-I.- Representar legalmente al Consejo Promotor de la Vivienda Popular, y ejecutar los acuerdos de la Junta Directiva;
-
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2001)</small>
-
-II.- Expedir documentos privados traslativos de dominio cuyo origen sea el ejercicio de acciones de regularización de tenencia de la tierra urbana para la vivienda de interés social y popular, cumpliendo al respecto, con los deberes de escrituración, protocolo y registro establecidos en el reglamento que apruebe la Junta Directiva.
-
-III.- Ejercer las facultades previstas en el artículo 20 de la Ley de Entidades Públicas Paraestatales. Las facultades a que se refieren las fracciones II y III del mencionado artículo, sólo podrá ejercerlas previo acuerdo de la Junta Directiva;
-
-IV.- Convocar a los integrantes de la Junta Directiva, por instrucciones de su Presidente, o cuando menos por una tercera parte de sus integrantes, a las sesiones ordinarias y extraordinarias de aquélla;
-
-V.- Informar periódicamente, a la Junta Directiva, acerca de la forma como ejerció las atribuciones que se le delegaren, y en general, del estado que guarda la administración del organismo.
-
-VI.- Las demás que le confiera la Ley y la Junta Directiva.
-
-C. Atribuciones del Comisario Publico:
-
-I.- Evaluar el desempeño general, y por funciones, del Consejo Promotor;
-
-II.- Realizar estudios sobre la eficiencia con que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión;
-
-III.- Solicitar la información y efectuar los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de atender las que le asignen, conforme a la Ley, los Servidores Públicos de la Administración Centralizada.
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS, P.O. 4 DE AGOSTO DE 2012)
 
 ###### ARTICULO 41.
 
@@ -2503,7 +2373,7 @@ Los ayuntamientos aprovecharán para infraestructura, equipamiento y servicios, 
 
 Del área total donada por el promotor del fraccionamiento para equipamiento urbano de cada fraccionamiento, cuando menos un 30% deberá destinarse a áreas verdes, parques y jardines; el fraccionador tendrá la obligación de equipar dicha superficie para tales efectos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 209.
 
@@ -2981,7 +2851,7 @@ El ayuntamiento no autorizará fraccionamientos ni lotificaciones o relotificaci
 
 En el caso de subdivisiones relativas a fracciones en que se hayan construido unidades arquitectónicas, con funcionamientos independientes, podrán autorizarse aquéllas a criterio del ayuntamiento, siempre y cuando no se rebase la densidad y las porciones resultantes cuenten con los servicios públicos respectivos sin perjuicio de la dotación y operación normal de los mismos al sector en que se ubiquen y que cumplan con el reglamento y normas técnicas para la construcción.
 
-> <small>(DEROGADO TERCER PARRAFO, P.O. 20 DE AGOSTO DE 2011)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 20 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 244.
 
@@ -3037,7 +2907,7 @@ El acta constitutiva y el reglamento de referencia deberán inscribirse en el Ay
 
 ### CAPITULO IV. DE LA MUNICIPALIZACION DE LOS FRACCIONAMIENTOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 255.
 
@@ -3045,7 +2915,7 @@ Para los efectos de este Código se entiende por municipalización del fracciona
 
 En el caso de los servicios de suministro de energía eléctrica, agua potable y alcantarillado, las instalaciones se entregarán directamente a los organismos operadores respectivos, con intervención de la Secretaría y el Ayuntamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 256.
 
@@ -3927,13 +3797,13 @@ Tratándose de condominios, el dictamen técnico en ningún caso implica la muni
 
 Tan pronto como queden concluidas a satisfacción del Ayuntamiento las obras de urbanización de un fraccionamiento o condominio y estén en uso los servicios públicos, el Presidente municipal se dirigirá a la autoridad competente a efecto de que proceda al reavalúo de la zona en los términos de la legislación catastral.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 366.
 
 En el caso de los fraccionamientos que el Ayuntamiento autorice, la perforación y equipamiento de los pozos de agua potable que se requieran, será realizada a costa del fraccionador, de acuerdo a las normas y especificaciones que la Comisión Nacional del Agua le determine. El organismo operador del agua potable correspondiente, administrará y se hará cargo del mantenimiento de las fuentes de abastecimiento, lo mismo que de las redes de distribución y demás partes del sistema de agua potable, conforme sean puestas en operación, aún cuando no se haya municipalizado el fraccionamiento.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 20 DE AGOSTO DE 2011)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 20 DE AGOSTO DE 2011)</small>
 
 > <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2011)</small>
 
@@ -4945,7 +4815,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 ESAU HERNANDEZ HERRERA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 23 DE ABRIL DE 1997
 
@@ -4998,3 +4868,57 @@ P.O. 20 DE AGOSTO DE 2011.
 Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Segundo.- Se derogan las disposiciones que se opongan al presente instrumento.
+
+P.O. 4 DE AGOSTO DE 2012.
+
+Artículo Primero. La presente Ley entrará en vigor a partir del primero de enero del año dos mil trece.
+
+Artículo Segundo. Se abroga la Ley Orgánica de la Administración Pública del Estado de Zacatecas, publicada en Suplemento número 2 al 105 del Periódico Oficial, Órgano del Gobierno del Estado mediante el Decreto 205, de fecha 30 de diciembre del 2000, así como todas aquellas disposiciones que se opongan a la presente Ley.
+
+Artículo Tercero. Se abroga la Ley Orgánica de la Junta Estatal de Caminos, publicada en el Periódico Oficial, Órgano del Gobierno del Estado en fecha dieciocho de junio de dos mil once mediante el Decreto número 145, ordenamiento a través del cual se crea el organismo público denominado Junta Estatal de Caminos.
+
+Artículo Cuarto.- Se deroga el Capítulo Tercero de la Ley Estatal para la Integración al Desarrollo Social de las Personas con Discapacidad, publicada en el Periódico Oficial, Órgano del Gobierno del Estado en fecha cinco de noviembre de dos mil cinco.
+
+Artículo Quinto.- Se deroga el Capítulo Tercero del Título Primero de la Ley de los Sistemas de Agua Potable, Alcantarillado y Saneamiento del Estado de Zacatecas, publicada en el Periódico Oficial, Órgano del Gobierno del Estado en fecha trece de agosto de mil novecientos noventa y cuatro.
+
+Artículo Sexto.- Se derogan los artículos del 36 al 40 del Código Urbano del Estado de Zacatecas, publicado en el Suplemento del Periódico Oficial, Órgano del Gobierno del Estado el día once de septiembre de mil novecientos noventa y seis mediante el Decreto número 81.
+
+Artículo Séptimo.- Se abroga el Decreto número 76 mediante el cual se crea el Instituto de Ecología y Medio Ambiente del Estado de Zacatecas, publicado en el Periódico Oficial, Órgano del Gobierno del Estado, en fecha diez de julio de mil novecientos noventa y nueve.
+
+Artículo Octavo.- Se abroga el Decreto número 112 mediante el cual se crea el Instituto de Desarrollo Artesanal del Estado de Zacatecas, publicado en el Suplemento del Periódico Oficial, Órgano del Gobierno del Estado, en fecha veintinueve de diciembre de mil novecientos noventa y nueve.
+
+Artículo Noveno.- Se abroga la Ley del Instituto para las Mujeres Zacatecanas, publicada en el Suplemento del Periódico Oficial, Órgano del Gobierno del Estado, en fecha cuatro de abril de dos mil siete, mediante el decreto número 438; y las atribuciones pasarán a la Secretaría de las Mujeres.
+
+Artículo Décimo.- Se abroga la Ley del Instituto de la Juventud del Estado de Zacatecas, publicada en el Periódico Oficial, Órgano del Gobierno del Estado, en fecha once de enero de dos mil tres, mediante el decreto número 188.
+
+Artículo Décimo Primero.- Al inicio de vigencia del presente Decreto, se realizarán las siguientes transferencias de personal, recursos financieros y materiales:
+
+a) De la Junta Estatal de Caminos, a la Secretaría de Infraestructura;
+
+b) De la Comisión Estatal para la Integración Social de las Personas con Discapacidad, a la Secretaría de Desarrollo Social;
+
+c) De la Comisión Estatal de Agua Potable y Alcantarillado, a la Secretaría del Agua y Medio Ambiente, así como a la Secretaría de Infraestructura, según corresponda;
+
+d) Del Consejo Promotor de la Vivienda Popular, a la Secretaría de Infraestructura;
+
+e) Del Instituto de Desarrollo Artesanal del Estado de Zacatecas, a la Secretaría de Economía;
+
+f) Del Instituto de Ecología y Medio Ambiente del Estado de Zacatecas a la Secretaría del Agua y Medio Ambiente;
+
+g) Del Instituto para las Mujeres Zacatecanas, a la Secretaría de las Mujeres, y
+
+h) Del Instituto de la Juventud del Estado de Zacatecas, a la Secretaría de Desarrollo Social.
+
+Artículo Décimo Segundo.- Los acuerdos y convenios celebrados, los derechos y procedimientos que hubieren adquirido, suscrito o desarrollado las dependencias y entidades que se extinguen en virtud del presente Decreto, así como las atribuciones que otras leyes les asignen, serán asumidos por las dependencias facultadas para ello en la presente Ley.
+
+Artículo Décimo Tercero.- Las obligaciones laborales de cada entidad o dependencia que se extingue, serán asumidas por la dependencia o entidad respectiva en términos de esta Ley, respetando los derechos de los trabajadores y las disposiciones legales aplicables.
+
+De acuerdo con las necesidades institucionales, los titulares de las dependencias podrán determinar, conjuntamente con las Secretarías de Finanzas, de Administración y de la Función Pública, las transferencias de personal, su reubicación en otras dependencias o entidades y en su caso la terminación de la relación laboral.
+
+Artículo Décimo Cuarto.- El Gobernador del Estado deberá expedir los reglamentos interiores de las dependencias a que se refiere el presente ordenamiento, dentro del plazo de noventa días naturales contados a partir del inicio de vigencia de este Decreto.
+
+Artículo Décimo Quinto.- Las Secretaría (sic) de Finanzas, de la Función Pública y de Administración, serán las facultadas para dictaminar la estructura orgánica, creación, modificación y supresión de las unidades administrativas y plazas de cada dependencia.
+
+Artículo Décimo Sexto.- Los asuntos competencia de alguna dependencia o entidad establecida con anterioridad a la vigencia del presente Decreto y que por disposición de éste, deban ser atendidos por otra u otras, deberán transferirse junto con los expedientes y archivos a la nueva dependencia o entidad, la cual deberá concluirlos.
+
+Artículo Décimo Séptimo.- Cuando otros ordenamientos legales den una denominación distinta a alguna dependencia, entidad o unidad administrativa contempladas en la presente Ley, la atribución o función se entenderá como conferida a la dependencia, entidad o unidad administrativa que determine el presente ordenamiento legal.
