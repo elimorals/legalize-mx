@@ -4,7 +4,7 @@ identifier: "ZAC-ley-estatal-para-la-integracion-al-desarrollo-social-de-las-468
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-05"
-last_updated: "2011-07-13"
+last_updated: "2012-08-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46848&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # LEY ESTATAL PARA LA INTEGRACION AL DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD
 
-LEY ESTATAL PARA LA INTEGRACION AL DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD
+LEY ESTATAL PARA LA INTEGRACIÓN AL DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 378 POR EL QUE SE EXPIDE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS, P.O. 4 DE AGOSTO DE 2012, Y CON RELACIÓN A LO DISPUESTO POR EL ARTÍCULO CUARTO TRANSITORIO; NO ES POSIBLE APLICAR CON EXACTITUD LA DEROGACIÓN AL CAPÍTULO TERCERO, TODA VEZ QUE NO ES PRECISO EN SEÑALAR A QUE TÍTULO CORRESPONDE.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2012.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 5 de noviembre de 2005.
 
@@ -1173,7 +1175,7 @@ Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, m
 
 DADO en el Despacho del Poder Ejecutivo del Estado, el día veinticinco del mes de Octubre del año dos mil cinco.- Atentamente Sufragio Efectivo. No Reelección.- LA GOBERNADORA DEL ESTADO DE ZACATECAS.- AMALIA D. GARCIA MEDINA.- EL SECRETARIO GENERAL DE GOBIERNO.- LIC. TOMAS TORRES MERCADO. Rúbricas.
 
-N. DE EL A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+N. DE EL A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
 
 P.O. 3 DE JUNIO DE 2006.
 
@@ -1184,3 +1186,57 @@ P.O. 13 DE JULIO DE 2011.
 Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo.- Se derogan las disposiciones que contravengan este Decreto.
+
+P.O. 4 DE AGOSTO DE 2012.
+
+Artículo Primero. La presente Ley entrará en vigor a partir del primero de enero del año dos mil trece.
+
+Artículo Segundo. Se abroga la Ley Orgánica de la Administración Pública del Estado de Zacatecas, publicada en Suplemento número 2 al 105 del Periódico Oficial, Órgano del Gobierno del Estado mediante el Decreto 205, de fecha 30 de diciembre del 2000, así como todas aquellas disposiciones que se opongan a la presente Ley.
+
+Artículo Tercero. Se abroga la Ley Orgánica de la Junta Estatal de Caminos, publicada en el Periódico Oficial, Órgano del Gobierno del Estado en fecha dieciocho de junio de dos mil once mediante el Decreto número 145, ordenamiento a través del cual se crea el organismo público denominado Junta Estatal de Caminos.
+
+Artículo Cuarto.- Se deroga el Capítulo Tercero de la Ley Estatal para la Integración al Desarrollo Social de las Personas con Discapacidad, publicada en el Periódico Oficial, Órgano del Gobierno del Estado en fecha cinco de noviembre de dos mil cinco.
+
+Artículo Quinto.- Se deroga el Capítulo Tercero del Título Primero de la Ley de los Sistemas de Agua Potable, Alcantarillado y Saneamiento del Estado de Zacatecas, publicada en el Periódico Oficial, Órgano del Gobierno del Estado en fecha trece de agosto de mil novecientos noventa y cuatro.
+
+Artículo Sexto.- Se derogan los artículos del 36 al 40 del Código Urbano del Estado de Zacatecas, publicado en el Suplemento del Periódico Oficial, Órgano del Gobierno del Estado el día once de septiembre de mil novecientos noventa y seis mediante el Decreto número 81.
+
+Artículo Séptimo.- Se abroga el Decreto número 76 mediante el cual se crea el Instituto de Ecología y Medio Ambiente del Estado de Zacatecas, publicado en el Periódico Oficial, Órgano del Gobierno del Estado, en fecha diez de julio de mil novecientos noventa y nueve.
+
+Artículo Octavo.- Se abroga el Decreto número 112 mediante el cual se crea el Instituto de Desarrollo Artesanal del Estado de Zacatecas, publicado en el Suplemento del Periódico Oficial, Órgano del Gobierno del Estado, en fecha veintinueve de diciembre de mil novecientos noventa y nueve.
+
+Artículo Noveno.- Se abroga la Ley del Instituto para las Mujeres Zacatecanas, publicada en el Suplemento del Periódico Oficial, Órgano del Gobierno del Estado, en fecha cuatro de abril de dos mil siete, mediante el decreto número 438; y las atribuciones pasarán a la Secretaría de las Mujeres.
+
+Artículo Décimo.- Se abroga la Ley del Instituto de la Juventud del Estado de Zacatecas, publicada en el Periódico Oficial, Órgano del Gobierno del Estado, en fecha once de enero de dos mil tres, mediante el decreto número 188.
+
+Artículo Décimo Primero.- Al inicio de vigencia del presente Decreto, se realizarán las siguientes transferencias de personal, recursos financieros y materiales:
+
+a) De la Junta Estatal de Caminos, a la Secretaría de Infraestructura;
+
+b) De la Comisión Estatal para la Integración Social de las Personas con Discapacidad, a la Secretaría de Desarrollo Social;
+
+c) De la Comisión Estatal de Agua Potable y Alcantarillado, a la Secretaría del Agua y Medio Ambiente, así como a la Secretaría de Infraestructura, según corresponda;
+
+d) Del Consejo Promotor de la Vivienda Popular, a la Secretaría de Infraestructura;
+
+e) Del Instituto de Desarrollo Artesanal del Estado de Zacatecas, a la Secretaría de Economía;
+
+f) Del Instituto de Ecología y Medio Ambiente del Estado de Zacatecas a la Secretaría del Agua y Medio Ambiente;
+
+g) Del Instituto para las Mujeres Zacatecanas, a la Secretaría de las Mujeres, y
+
+h) Del Instituto de la Juventud del Estado de Zacatecas, a la Secretaría de Desarrollo Social.
+
+Artículo Décimo Segundo.- Los acuerdos y convenios celebrados, los derechos y procedimientos que hubieren adquirido, suscrito o desarrollado las dependencias y entidades que se extinguen en virtud del presente Decreto, así como las atribuciones que otras leyes les asignen, serán asumidos por las dependencias facultadas para ello en la presente Ley.
+
+Artículo Décimo Tercero.- Las obligaciones laborales de cada entidad o dependencia que se extingue, serán asumidas por la dependencia o entidad respectiva en términos de esta Ley, respetando los derechos de los trabajadores y las disposiciones legales aplicables.
+
+De acuerdo con las necesidades institucionales, los titulares de las dependencias podrán determinar, conjuntamente con las Secretarías de Finanzas, de Administración y de la Función Pública, las transferencias de personal, su reubicación en otras dependencias o entidades y en su caso la terminación de la relación laboral.
+
+Artículo Décimo Cuarto.- El Gobernador del Estado deberá expedir los reglamentos interiores de las dependencias a que se refiere el presente ordenamiento, dentro del plazo de noventa días naturales contados a partir del inicio de vigencia de este Decreto.
+
+Artículo Décimo Quinto.- Las Secretaría (sic) de Finanzas, de la Función Pública y de Administración, serán las facultadas para dictaminar la estructura orgánica, creación, modificación y supresión de las unidades administrativas y plazas de cada dependencia.
+
+Artículo Décimo Sexto.- Los asuntos competencia de alguna dependencia o entidad establecida con anterioridad a la vigencia del presente Decreto y que por disposición de éste, deban ser atendidos por otra u otras, deberán transferirse junto con los expedientes y archivos a la nueva dependencia o entidad, la cual deberá concluirlos.
+
+Artículo Décimo Séptimo.- Cuando otros ordenamientos legales den una denominación distinta a alguna dependencia, entidad o unidad administrativa contempladas en la presente Ley, la atribución o función se entenderá como conferida a la dependencia, entidad o unidad administrativa que determine el presente ordenamiento legal.
