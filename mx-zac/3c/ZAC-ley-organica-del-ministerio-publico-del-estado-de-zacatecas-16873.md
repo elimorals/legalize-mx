@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-ministerio-publico-del-estado-de-zacatecas-168
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-08-12"
-last_updated: "2003-02-19"
+last_updated: "2012-08-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16873&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ZAC"
 ---
 # LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE ZACATECAS
 
-LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE ZACATECAS
+LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE FEBRERO DE 2003.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2012.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 12 de agosto del 2000.
 
@@ -165,7 +165,9 @@ I. En la Averiguación Previa:
 
 a). Recibir denuncias o querellas sobre acciones u omisiones que puedan constituir delito;
 
-b). Investigar los delitos del orden común con la ayuda de los Servicios Periciales y de la Policía Ministerial Investigadora y otras autoridades, tanto Federales como de las entidades federativas, en los términos de los convenios de colaboración celebrados;
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2012)</small>
+
+b). Investigar los delitos del orden común con la ayuda del Instituto Zacatecano de Ciencias Forenses y de la Policía Ministerial Investigadora y otras autoridades, tanto Federales como de las entidades federativas, en los términos de los convenios de colaboración celebrados;
 
 c). Practicar las diligencias necesarias para la acreditación del cuerpo del delito y la probable responsabilidad del indiciado, así como la existencia y cuantificación del daño causado;
 
@@ -315,9 +317,9 @@ II. Subprocuraduría de Investigaciones;
 
 III. Subprocuraduría de Procedimientos Jurisdiccionales;
 
-> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2002)</small>
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2012)</small>
 
-III-A.- Sub Procuradurías Regionales;
+III-A. Subprocuraduría de Derechos Humanos y Atención a Víctimas;
 
 IV. Dirección General de Investigaciones;
 
@@ -329,13 +331,23 @@ VII. Dirección de Servicios Periciales;
 
 VIII. Dirección de la Policía Ministerial;
 
-IX. Dirección de Prevención del Delito;
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2012)</small>
+
+IX. Dirección de Prevención y Atención a Víctimas del Delito;
+
+> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2012)</small>
+
+IX-A. Unidad de Contraloría Interna y Derechos Humanos;
 
 X. Dirección de Aprehensiones, Colaboraciones y Extradiciones Internacionales;
 
-XI. Dirección del Instituto de Formación Profesional como organismo desconcentrado de la Procuraduría General de Justicia;
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2012)</small>
 
-XII. El número de Agentes del Ministerio Público que determine mediante Acuerdo General el Procurador; y
+XI. Instituto Zacatecano de Ciencias Forenses como órgano desconcentrado de la Procuraduría General de Justicia del Estado, el cual tendrá su sede en la capital del Estado y establecerá centros de servicio en las regiones o distritos que acuerde el Procurador General de Justicia;
+
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2012)</small>
+
+XII. El número de Delegaciones Regionales que determine mediante Acuerdo el Gobernador del Estado y el número de Agentes del Ministerio Público que determine mediante Acuerdo General el Procurador; y
 
 XIII. Las demás Unidades Administrativas y Técnicas que determine el Reglamento de esta Ley y los Acuerdos Generales expedidos por el Procurador.
 
@@ -355,9 +367,11 @@ Las ausencias temporales de los Agentes del Ministerio Público serán suplidas 
 
 El Procurador General de Justicia, en su caso, presentará su renuncia al cargo ante el Gobernador del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 20.
 
-El nombramiento y remoción de los Subprocuradores, Directores Generales y Directores corresponderá al Gobernador del Estado, a propuesta del Procurador General de Justicia.
+El nombramiento y remoción de los Subprocuradores, Directores Generales, Directores y Delegados Regionales, corresponderá al Gobernador del Estado, a propuesta del Procurador General de Justicia.
 
 El nombramiento y remoción de Agentes del Ministerio Público, Agentes de la Policía Ministerial y Peritos se hará en términos de las disposiciones aplicables de esta Ley por lo que se refiere al Servicio Civil de Carrera. Dicho nombramiento lo expedirá el Gobernador del Estado, respecto de los Agentes del Ministerio Público, y por el Procurador General de Justicia respecto de los Agentes de la Policía Ministerial y Peritos.
 
@@ -367,7 +381,9 @@ Son auxiliares directos del Ministerio Público:
 
 I. La Policía Ministerial; y
 
-II. Los Peritos de la Dirección de Servicios Periciales.
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2012)</small>
+
+II. Los Peritos del Instituto Zacatecano de Ciencias Forenses.
 
 Los auxiliares del Ministerio Público deberán, bajo su responsabilidad, dar aviso de inmediato a éste, en todos los casos, sobre los asuntos en que intervengan con ése carácter, haciendo de su conocimiento los elementos que conozcan con motivo de su intervención.
 
@@ -559,13 +575,11 @@ VIII. Someter a la aprobación del Procurador los estudios y proyectos de trasce
 
 IX. Realizar el trámite, control y supervisión de las colaboraciones solicitadas por otras Procuradurías de Justicia, y de aquellas que esta Institución a su vez les solicite, según los convenios de colaboración celebrados con apoyo en el artículo 119 de la Constitución General de la República, en el ámbito de las Averiguaciones Previas.
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 33.
 
-El Subprocurador de Investigaciones tendrá adscritas a su cargo y responsabilidad:
-
-a). La Dirección General de Investigaciones; y
-
-b).La Dirección General de Servicios Periciales.
+El Subprocurador de Investigaciones tendrá adscrita a su cargo y responsabilidad, la Dirección General de Investigaciones.
 
 ###### ARTICULO 34.
 
@@ -575,9 +589,9 @@ I. Emitir la normatividad interna para la debida atención de los procesos penal
 
 II. Emitir la normatividad interna para la debida atención de los procesos familiares y civiles en aquellos supuestos donde tenga intervención el Ministerio público;
 
-III. Fomentar entre los servidores públicos de la Institución, una cultura de respeto a los derechos humanos que otorga el orden jurídico mexicano;
+III. (DEROGADA, P.O. 4 DE AGOSTO DE 2012)
 
-IV. Atender las visitas, quejas, propuestas de conciliación y recomendaciones de las Comisiones Nacional y Estatal de Derechos Humanos conforme a las normas aplicables;
+IV. (DEROGADA, P.O. 4 DE AGOSTO DE 2012)
 
 V. Solicitar informe a cualquier servidor de la Institución, para el mejor cumplimiento de sus atribuciones;
 
@@ -587,7 +601,9 @@ VII. Emitir la normatividad interna para el funcionamiento de los instrumentos i
 
 VIII. Ser el Visitador General de la Procuraduría, teniendo las siguientes facultades y atribuciones:
 
-a). Practicar visitas generales o especiales a las Agencias del Ministerio Público, Dirección de la Policía Ministerial, Dirección de los Servicios Periciales, Dirección del Instituto de Formación Profesional, Dirección de Prevención del Delito, y demás unidades administrativas de la Institución, a fin de supervisar el cumplimiento de las disposiciones legales y las instrucciones del Procurador General de Justicia y de los Subprocuradores;
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2012)</small>
+
+a). Practicar visitas generales o especiales a las Agencias del Ministerio Público, Dirección de la Policía Ministerial, Dirección de Prevención y Atención a Víctimas del Delito, y demás unidades administrativas de la Institución, a fin de supervisar el cumplimiento de las disposiciones legales y las instrucciones del Procurador General de Justicia y de los Subprocuradores;
 
 b). Acordar con los titulares de las Agencias que visite e instruirlos sobre las normas, criterios y medidas aplicables para la resolución de los asuntos a su cargo y la formulación de las consultas que, conforme a la ley, deban hacer; y
 
@@ -605,6 +621,68 @@ XIII. Opinar para que el Procurador General de Justicia confirme, modifique o re
 
 XIV. Emitir acuerdos y circulares para el debido funcionamiento y organización de la Subprocuraduría de Procedimientos Jurisdiccionales.
 
+> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2012)</small>
+
+###### ARTICULO 34-A.
+
+Corresponde a la Subprocuraduría de Derechos Humanos y Atención a Víctimas:
+
+I. Proponer e instrumentar las políticas institucionales para la capacitación y promoción de los derechos humanos;
+
+II. Fomentar entre los servidores públicos de la Procuraduría una cultura de respeto a los derechos humanos que ampara la legislación federal, los tratados internacionales ratificados por el Estado mexicano y las leyes locales vigentes en el estado de Zacatecas;
+
+III. Establecer las relaciones de la Procuraduría con los Organismos Públicos de Derechos Humanos y las Organizaciones No Gubernamentales, así como proponer la celebración de convenios y bases de colaboración con instituciones públicas y privadas, nacionales e internacionales, para la capacitación y promoción en materia de derechos humanos;
+
+IV. Intervenir, conforme a las normas aplicables, en la investigación, resolución y seguimiento de las quejas que hagan del conocimiento de la Procuraduría, las Comisiones Nacional y Estatal de los Derechos Humanos, así como en las visitas que éstas realicen a la misma;
+
+V. Atender y dar seguimiento a la implementación y cumplimiento de las medidas cautelares que soliciten las Comisiones Nacional y Estatal de los Derechos Humanos;
+
+VI. Resolver oportunamente las solicitudes de información o inconformidades que plantee la ciudadanía, en relación con el respeto y observancia de los derechos humanos por parte de los servidores públicos de la Procuraduría;
+
+VII. Intervenir, conforme a las normas aplicables, en las propuestas de conciliación y las recomendaciones que envíen las Comisiones Nacional y Estatal de los Derechos Humanos, respecto de las quejas en que se vean involucrados servidores públicos de la Procuraduría;
+
+VIII. Dar vista al órgano interno de control, en los casos de probable responsabilidad con motivo de las propuestas de conciliación y recomendaciones provenientes de las Comisiones Nacional y Estatal de los Derechos Humanos;
+
+IX. Atender por parte de la Procuraduría, en términos de las disposiciones legales aplicables, los Programas de las Comisiones Nacional y Estatal de los Derechos Humanos, relacionados con la procuración de justicia;
+
+X. Cumplimentar en coordinación con las autoridades correspondientes, los requerimientos, visitas, medidas cautelares y recomendaciones que los organismos internacionales de derechos humanos realicen, respecto de aquellos casos que sean competencia de la Procuraduría;
+
+XI. Proporcionar orientación y asesoría jurídica a las víctimas y ofendidos por delitos del fuero común;
+
+XII. Coordinarse con las áreas competentes para promover que se garantice y haga efectiva la reparación de los daños y perjuicios a las víctimas y ofendidos de los delitos del fuero común, de conformidad con las disposiciones legales aplicables;
+
+XIII. Proponer la celebración de convenios con instituciones de asistencia médica y social, públicas y privadas, para los efectos del artículo 20, apartado C, fracción III, de la Constitución Política de los Estados Unidos Mexicanos;
+
+XIV. Canalizar a las víctimas y ofendidos por delitos del fuero común, así como a otras personas cuando resulte necesario, a las dependencias y entidades que proporcionen servicios de carácter tutelar, asistencial, preventivo, médico, psicológico y educacional, vigilando su debida atención;
+
+XV. Implementar medidas que faciliten el avenimiento entre la víctima u ofendido del delito y el imputado;
+
+XVI. Establecer el sistema de atención a detenidos que se encuentran a disposición del Ministerio Público o en las instalaciones de la Institución, vigilando el respeto irrestricto de sus derechos humanos;
+
+XVII. Diseñar y ejecutar el programa de vinculación de la Procuraduría con la sociedad, en coordinación con el Centro Estatal para la Prevención del Delito y Participación Ciudadana;
+
+XVIII. Facilitar el acceso a los servicios requeridos por las víctimas, en el ámbito de competencia de la Procuraduría, promoviendo acciones de coordinación con dependencias y entidades federales, estatales y municipales;
+
+XIX. Establecer mecanismos para la recepción de información ciudadana sobre la posible comisión de delitos, así como canalizarlas a las unidades y órganos competentes;
+
+XX. Recabar, difundir y propiciar la actualización de la información a que se refiere la Ley de Transparencia y Acceso a la Información Pública del Estado;
+
+XXI. Recibir y dar trámite a las solicitudes de acceso a la información a cargo de la Procuraduría, así como practicar las notificaciones respectivas, de conformidad con la Ley de Transparencia y Acceso a la Información Pública del Estado;
+
+XXII. Auxiliar a los particulares en la elaboración de solicitudes de acceso a la información y, en su caso, dar orientación a los solicitantes acerca de las dependencias, entidades u órganos que pudieran tener la información solicitada; y
+
+XXIII. Proponer los procedimientos internos que aseguren la mayor eficacia y eficiencia en la gestión de las solicitudes de acceso a la información, así como los criterios para la clasificación de información reservada y confidencial a cargo de la Institución.
+
+> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2012)</small>
+
+###### ARTICULO 34-B.
+
+El Subprocurador de Derechos Humanos y Atención a Víctimas tendrá a su cargo y responsabilidad:
+
+I. La Dirección de Prevención y Atención a Víctimas del Delito; y
+
+II. La Unidad de Contraloría Interna y Derechos Humanos.
+
 ###### ARTICULO 35.
 
 El Subprocurador de Procedimientos Jurisdiccionales, tendrá adscritos a su cargo y responsabilidad:
@@ -613,15 +691,15 @@ I. La Dirección General de Procedimientos Jurisdiccionales; y
 
 II. La Dirección de Aprehensiones, Colaboraciones y Extradiciones Internacionales.
 
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2002)</small>
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 35-A.
 
-Las Sub Procuradurías Regionales se crearán por el Gobernador del Estado a propuesta del Procurador General de Justicia, en aquellos municipios o regiones que en razón de los índices delictivos así se considere necesario.
+Las Delegaciones Regionales se crearán por el Gobernador del Estado a propuesta del Procurador General de Justicia, en aquellos municipios o regiones que en razón de los índices delictivos así se considere necesario.
 
-Los sub procuradores regionales, ejercerán, en su ámbito territorial, las atribuciones que en materia de investigaciones y de procedimientos jurisdiccionales, a que se refieren los artículos 32 y 34 de esta ley, el respectivo acuerdo, expresamente les asigne.
+Los delegados regionales, ejercerán, en su ámbito territorial, las atribuciones que en materia de investigaciones y de procedimientos jurisdiccionales se refieren los artículos 32 y 34 de esta ley, así como las concernientes a la atención integral a víctimas del delito, a la prevención del delito con un modelo que incluya la participación ciudadana, a la formación y profesionalización policial, al servicio forense y a la promoción y capacitación en el respeto de los derechos humanos que el respectivo acuerdo expresamente les asigne.
 
-El Procurador General de Justicia acordará las unidades administrativas y el personal que se adscriba a las subprocuradurías regionales.
+El Procurador General de Justicia acordará las unidades administrativas y el personal que se adscriba a las Delegaciones Regionales.
 
 ###### ARTICULO 36.
 
@@ -691,21 +769,59 @@ XII. Tener bajo su control y supervisión los instrumentos, objetos y productos 
 
 Las atribuciones relacionadas con el control de recursos humanos las ejercerá con observancia a lo dispuesto por la presente Ley en el apartado del Servicio Civil de Carrera y por la Ley del Servicio Civil del Estado.
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 40.
 
-Corresponde a la Dirección de Servicios Periciales:
+El Instituto Zacatecano de Ciencias Forenses tendrá por objeto:
 
-I. Emitir dictámenes en las diversas especialidades, a petición del Ministerio Público y de las demás autoridades administrativas de la Procuraduría y de las autoridades judiciales del fuero común;
+I. Establecer y operar un sistema de ciencias forenses;
 
-II. Integrar y tener a su cargo el casillero de identificación criminalística;
+II. Proponer al Procurador, para su aprobación y publicación, las normas, lineamientos y criterios técnicos y científicos de las diversas especialidades de las ciencias forenses; los reglamentos, normas y requisitos de acreditación del desempeño profesional de los peritos; las normas técnicas y requisitos aplicables para la validación y certificación;
 
-III. Revisar el grado de confiabilidad de las técnicas que se aplican en los dictámenes periciales con el objeto de utilizar las más avanzadas y adecuadas en el desempeño de sus atribuciones; y
+III. Acreditar y evaluar a los peritos forenses del Estado que presten servicios de manera oficial o particular, para tal efecto, propondrá al Procurador las normas técnicas aplicables que deberán ser publicadas en el Periódico Oficial, Órgano del Gobierno del Estado;
 
-IV. Las demás, que en razón de sus atribuciones, le solicite el Ministerio Público.
+IV. Validar y certificar de oficio los dictámenes periciales realizados por sus laboratorios y departamentos administrativos y, a petición de parte, por otras dependencias del Estado, de las entidades federativas o particulares interesados;
+
+V. Auxiliar al Ministerio Público en la elaboración o, en su caso, la validación de los dictámenes periciales forenses;
+
+VI. Administrar los laboratorios que tenga asignados;
+
+VII. Prestar trabajos periciales especializados de carácter gratuito para las instituciones públicas del Estado;
+
+VIII. Ofrecer sus servicios a dependencias públicas estatales o municipales de otras entidades federativas;
+
+IX. Prestar sus servicios a personas físicas o morales que lo soliciten; y
+
+X. Las demás que establezca esta Ley y su Reglamento.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 41.
 
-La Dirección de Servicios Periciales tendrá autonomía técnica en los dictámenes que emita, y los peritos que forman parte de ella no podrán ser sujetos de responsabilidad en las opiniones y dictámenes que emitan, salvo que se demuestre dolo o culpa grave.
+El Instituto Zacatecano de Ciencias Forenses, tendrá autonomía técnica en los dictámenes que emita, y los peritos que forman parte de él no podrán ser sujetos de responsabilidad, en las opiniones y dictámenes que emitan, salvo que se demuestre dolo o culpa grave.
+
+Para el cumplimiento de su objeto, el Instituto Zacatecano de Ciencias Forenses tendrá las siguientes atribuciones:
+
+I. Diseñar y establecer los criterios, normas técnicas y lineamientos a que deben apegarse la presentación y formulación de los dictámenes e informes de las diversas especialidades periciales;
+
+II. Elaborar los mecanismos, procedimientos, programas de supervisión y seguimiento de las actividades que realicen los peritos adscritos al Instituto;
+
+III. Evaluar y supervisar la intervención de los peritos del Instituto, en las diversas especialidades;
+
+IV. Atender sin demora, las peticiones de servicios periciales que formule el Ministerio Público, las autoridades judiciales o administrativas y, canalizarlas, para su atención a los titulares de los laboratorios y departamentos de especialidades de su adscripción;
+
+V. Establecer el procedimiento de registro y control, para la atención de las peticiones de servicios periciales, formuladas por los agentes del Ministerio Público, la autoridad judicial o administrativa, así como elaborar los informes y estadísticas correspondientes;
+
+VI. Establecer y operar un sistema de supervisión permanente del personal técnico científico de las diversas especialidades periciales del Instituto, a efecto de garantizar que cumplan y observen las normas jurídico administrativas vigentes en la materia;
+
+VII. Habilitar peritos cuando el Instituto no cuente con especialistas en una determinada disciplina, ciencia o arte que se requiera o en casos urgentes;
+
+VIII. Tener a su cargo el archivo de identificación criminalística;
+
+IX. Proponer programas de intercambio de experiencias, conocimientos y avances tecnológicos con las unidades de Servicios Periciales de la Procuraduría General de la República, de las Procuradurías Generales de Justicia de los Estados, con sus similares del extranjero e instituciones educativas, que logren el mejoramiento y la modernización de sus funciones; y
+
+X. Las demás que establezca esta Ley y su Reglamento.
 
 ###### ARTICULO 42.
 
@@ -727,13 +843,17 @@ VII. Ejecutar los mandamientos judiciales que de manera especial le solicite la 
 
 VIII. Las demás que le asigne esta Ley y el Reglamento correspondiente.
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 43.
 
-La Dirección de Prevención del Delito tendrá por objeto la formulación de estrategias y programas tendientes a evitar delitos, a fin de salvaguardar los valores fundamentales que son vitales para el individuo y la sociedad, tales como la vida, la integridad física y moral y la propiedad.
+La Dirección de Prevención y Atención a Víctimas del Delito tendrá por objeto la formulación de estrategias y programas tendientes a evitar delitos, a fin de salvaguardar los valores fundamentales que son vitales para el individuo y la sociedad, tales como la vida, la integridad física y moral y la propiedad, así como el diseño de políticas tendientes a garantizar los derechos de las víctimas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 44.
 
-Corresponde a la Dirección de Prevención del Delito:
+Corresponde a la Dirección de Prevención y Atención a Víctimas del Delito:
 
 I. Implementar las estrategias pertinentes y proponer políticas y normas en materia de prevención del delito que sean acordes con las necesidades y realidades de la Entidad;
 
@@ -743,39 +863,69 @@ III. Editar y difundir materiales impresos destinados a dar a conocer las polít
 
 IV. Propiciar la participación activa de la ciudadanía en la formulación y ejecución de las políticas y programas de prevención del delito mediante la realización constante de encuestas, foros de consulta y la organización de comités en áreas de mayor incidencia delictiva; y
 
-V. Cualquier otra que se relacione con el objeto señalado en el artículo precedente.
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2012)</small>
+
+V. Proporcionar orientación y asesoría jurídica a las víctimas y ofendidos por delitos del fuero común;
+
+> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2012)</small>
+
+VI. Coordinarse con las áreas competentes para promover que se garantice y haga efectiva la reparación de los daños y perjuicios a las víctimas y ofendidos de los delitos del fuero común, de conformidad con las disposiciones legales aplicables;
+
+> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2012)</small>
+
+VII. Proponer la celebración de convenios con instituciones de asistencia médica y social, públicas y privadas, para los efectos del artículo 20, apartado C, fracción III, de la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2012)</small>
+
+VIII. Canalizar a las víctimas y ofendidos por delitos del fuero común, así como a otras personas cuando resulte necesario, a las dependencias y entidades que proporcionen servicios de carácter tutelar, asistencial, preventivo, médico, psicológico y educacional, vigilando su debida atención;
+
+> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2012)</small>
+
+IX. Implementar medidas que faciliten el avenimiento entre la víctima u ofendido del delito y el imputado;
+
+> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2012)</small>
+
+X. Establecer el sistema de atención a detenidos que se encuentran a disposición del Ministerio Público o en las instalaciones de la Institución, vigilando el respeto irrestricto de sus derechos humanos;
+
+> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2012)</small>
+
+XI. Diseñar y ejecutar el programa de vinculación de la Procuraduría con la sociedad, en coordinación con el Centro Estatal para la Prevención del Delito y Participación Ciudadana;
+
+> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2012)</small>
+
+XII. Facilitar el acceso a los servicios requeridos por las víctimas, en el ámbito de competencia de la Procuraduría, promoviendo acciones de coordinación con dependencias y entidades federales, estatales y municipales; y
+
+> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2012)</small>
+
+XIII. Las demás que establezca esta Ley y su Reglamento.
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 45.
 
-El Instituto de Formación Profesional tendrá por objeto la formación y profesionalización altamente especializada de servidores públicos en las áreas de Seguridad Pública y Procuración de Justicia; la formación de investigadores, profesores, especialistas y técnicos en las diversas áreas que se relacionen con la procuración de justicia; la realización además de investigaciones sobre los problemas del Estado en estas áreas, y la información y difusión de los conocimientos sobre ellas.
+Corresponde a la Unidad de Contraloría Interna y Derechos Humanos:
 
-El Instituto de Formación Profesional funcionará como un organismo desconcentrado dependiente de la Procuraduría General de Justicia del Estado.
+I. Recibir y dar trámite a las quejas que se presenten en contra de servidores públicos de la Procuraduría General de Justicia, conforme lo dispuesto en la presente Ley, la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Zacatecas y demás disposiciones aplicables;
+
+II. Aplicar las sanciones previstas en el artículo 62 de la presente Ley y dar seguimiento a las mismas;
+
+III. Contestar las demandas y dar seguimiento a los juicios que se promuevan ante el Tribunal de lo Contencioso Administrativo del Estado y Municipios en contra de las resoluciones emitidas;
+
+IV. Registrar las quejas que se formulen en las Comisiones Estatal o Nacional de los Derechos Humanos en contra de los servidores públicos de la Procuraduría General de Justicia del Estado y recabar los informes solicitados por dichas Comisiones;
+
+V. Someter a la consideración del Procurador General de Justicia del Estado, los proyectos de conciliación, allanamiento o aceptación de las recomendaciones que emitan las Comisiones Estatal o Nacional de los Derechos Humanos;
+
+VI. Substanciar el procedimiento administrativo que se derive de los allanamientos o recomendaciones emitidas por las Comisiones Estatal o Nacional de los Derechos Humanos y remitirles las resoluciones que al respecto se emitan; y
+
+VII. Las demás que establezca esta Ley y su Reglamento.
 
 ###### ARTICULO 46.
 
-Para el cumplimiento de los objetivos que se han señalado, corresponde al Instituto de Formación Profesional:
-
-I. Impartir cursos de capacitación y especialización para la profesionalización de los Agentes del Ministerio Público, Peritos, Policías Ministeriales, así como servidores públicos de cualquier área relacionada con la procuración de justicia;
-
-II. Realizar actividades de extensión académica en las que se podrán incluir cursos de actualización y diplomados;
-
-III. Celebrar convenios o acuerdos de colaboración académica y administrativa con cualquier institución educativa o dedicada a la procuración y administración de justicia;
-
-IV. Establecer relaciones de intercambio con organismos similares, nacionales e internaciones;
-
-V. Contratar a profesores e investigadores para la realización del objeto para el que fue creado el Instituto;
-
-VI. Brindar el asesoramiento que requieran personas e instituciones públicas y privadas y participar, en su caso, como órgano consultivo y propositivo en el estudio, formulación y aplicación de medidas de Seguridad pública dentro del ámbito de su competencia;
-
-VII. Otorgar becas para realizar estudios en sus propios planteles e instalaciones, así como en instituciones similares del país o del extranjero, y recibir a becarios nacionales o del extranjero como investigadores, profesores y alumnos;
-
-VIII. Realizar las demás actividades inherentes a su naturaleza y conducentes al cumplimiento de sus funciones. El cumplimiento de dichas funciones se realizará mediante la formulación y ejecución de los planes y programas académicos y administrativos, aprobados por las instancias competentes del propio instituto;
-
-IX. Las demás facultades que le confiera el presente ordenamiento, el Reglamento del Ministerio Público, el Acuerdo que lo crea y su propio Reglamento Interior.
+(DEROGADO, P.O. 4 DE AGOSTO DE 2012)
 
 ###### ARTICULO 47.
 
-El Director General del Instituto será designado y removido libremente por el Gobernador del Estado, a propuesta del Procurador General de Justicia.
+(DEROGADO, P.O. 4 DE AGOSTO DE 2012)
 
 ### CAPITULO IV. DEL SERVICIO CIVIL DE CARRERA
 
@@ -783,7 +933,9 @@ El Director General del Instituto será designado y removido libremente por el G
 
 El Servicio Civil de Carrera del Ministerio Público comprende el relativo a los Agentes del Ministerio Público, Peritos y Policías Ministeriales y se sujetará a las siguientes disposiciones:
 
-I. Será el elemento básico para el ingreso y la formación de los integrantes de la Institución, personal del Ministerio Público, de la Policía Ministerial y de los Servicios Periciales;
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2012)</small>
+
+I. Será el elemento básico para el ingreso y la formación de los integrantes de la Institución, personal del Ministerio Público, de la Policía Ministerial y del Instituto Zacatecano de Ciencias Forenses;
 
 II. Tendrá carácter obligatorio y permanente;
 
@@ -799,7 +951,9 @@ VII. El contenido teórico y práctico de los programas de formación en todos s
 
 VIII. La formación promoverá la observancia de las disposiciones constitucionales y legales que rigen la actuación del Ministerio Público, fomentando particularmente el respeto irrestricto a los derechos humanos, la honestidad, eficiencia y la plena conciencia sobre el efecto social de la responsabilidad; y
 
-IX. Promoverá la celebración de convenios de colaboración con la Federación, los Estados, los Municipios, el Distrito Federal y demás autoridades que concurran en el Sistema Nacional de Seguridad Pública, tendientes a la profesionalización del Ministerio Público, Policía Ministerial y Servicios Periciales.
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2012)</small>
+
+IX. Promoverá la celebración de convenios de colaboración con la Federación, los Estados, los Municipios, el Distrito Federal y demás autoridades que concurran en el Sistema Nacional de Seguridad Pública, tendientes a la profesionalización del Ministerio Público, Policía Ministerial y el Instituto Zacatecano de Ciencias Forenses.
 
 ###### ARTICULO 49.
 
@@ -831,9 +985,11 @@ Para permanecer en el servicio civil de carrera como Agente del Ministerio Públ
 
 Los Agentes del Ministerio Público, Policía Ministerial, Peritos, Secretarios del Ministerio Público y, en general, todos los servidores públicos de la Institución, están obligados a seguir los programas de formación que se establezcan para su capacitación, actualización y, en su caso, especialización con miras a su mejoramiento profesional.
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 55.
 
-El Consejo del Servicio Civil será la instancia normativa de supervisión, control y evaluación de la operación del servicio civil de carrera y se integrará por el Procurador General, los Subprocuradores, Director de Administración y Director del Instituto de Formación Profesional.
+El Consejo del Servicio Civil será la instancia normativa de supervisión, control y evaluación de la operación del servicio civil de carrera y se integrará por el Procurador General, los Subprocuradores, el Director de Administración y el Director del Instituto Zacatecano de Ciencias Forenses.
 
 ###### ARTICULO 56.
 
@@ -859,9 +1015,11 @@ Para el ingreso al nivel básico de Agente de la Policía Ministerial se realiza
 
 Las categorías de peritos se determinarán por materia y dentro de ellas se establecerán los rangos atendiendo a la especialización, años mínimos de práctica, grado académico en la disciplina de que se trate y otros criterios que permitan establecerlos. Para el ingreso al rango básico de cada materia se realizará concurso de ingreso con las características que determinen las disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 58.
 
-Por la naturaleza de sus funciones son trabajadores de confianza: los Agentes del Ministerio Público, Agentes de la Policía Ministerial y los Peritos adscritos a los Servicio Periciales, así como los servidores públicos de las demás categorías y funciones previstas en esta Ley.
+Por la naturaleza de sus funciones son trabajadores de confianza: los Agentes del Ministerio Público, Agentes de la Policía Ministerial y los Peritos adscritos al Instituto Zacatecano de Ciencias Forenses, así como los servidores públicos de las demás categorías y funciones previstas en esta Ley.
 
 ### CAPITULO V. DE LAS RESPONSABILIDADES ESPECIALES DEL PERSONAL DE LA PROCURADURIA
 
@@ -1079,7 +1237,7 @@ EL PROCURADOR GENERAL DE JUSTICIA DEL ESTADO
 
 LIC. AQUILES GONZALEZ NAVARRO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 20 DE MARZO DE 2002
 
@@ -1094,3 +1252,15 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 4 DE AGOSTO DE 2012.
+
+Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- Se derogan las disposiciones que contravengan este Decreto.
+
+Artículo tercero.- Dentro de los treinta días naturales siguientes a la vigencia de este Decreto, se nombrará al Director del Instituto Zacatecano de Ciencias Forenses y al Subprocurador de Derechos Humanos y Atención a Víctimas.
+
+Artículo cuarto.- A la entrada en vigor del presente Decreto, los recursos humanos, materiales y financieros de la Dirección de Servicios Periciales de la Procuraduría General de Justicia del Estado de Zacatecas, se transferirán al Instituto Zacatecano de Ciencias Forenses.
+
+Artículo quinto.- El Reglamento Interno del Instituto Zacatecano de Ciencias Forenses, deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado, dentro de los noventa días naturales siguientes a la entrada en vigor de este Instrumento Legislativo.
