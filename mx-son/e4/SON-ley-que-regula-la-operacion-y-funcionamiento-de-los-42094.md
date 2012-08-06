@@ -4,7 +4,7 @@ identifier: "SON-ley-que-regula-la-operacion-y-funcionamiento-de-los-42094"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2008-12-26"
+last_updated: "2012-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42094&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 6 DE AGOSTO DE 2012.
 
 Ley publicada en la Cuarta Sección del Boletín Oficial del Estado de Sonora, el jueves 23 de diciembre de 2004.
 
@@ -157,6 +157,12 @@ Los restaurantes deberán contar con suficientes mesas y sillas para los comensa
 
 Dicho establecimiento podrá contar con bar anexo comunicado, en cuyo caso se denominará específicamente Restaurante-Bar, lo que deberá hacerse constar en la licencia respectiva, donde podrán consumirse bebidas alcohólicas sin alimentos. Podrá proporcionar servicio para eventos sociales en los que se permite la venta o consumo de bebidas con contenido alcohólico, en su caso, será necesario recabar autorización de la autoridad municipal para la celebración de tales eventos. Asimismo, se permite la venta y consumo en las áreas de jardines y terrazas del establecimiento;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
+
+Los establecimientos comerciales denominados “cine vip” son aquellos lugares en los cuales se proyectan películas cinematográficas o cualquier otro tipo de producción afín, con propósitos de explotación comercial y en los que además se expendan alimentos preparados para su consumo inmediato así como la venta y consumo de bebidas con contenido alcohólico. Estos establecimientos se homologarán en su regulación a aquellos que operen bajo el giro de “Restaurante Bar”, debiendo cumplir con los requisitos establecidos en esta fracción, respecto del giro, así como con las demás disposiciones que esta Ley contempla para la venta y consumo de bebidas con contenido alcohólico bajo la modalidad de Restaurante Bar incluyendo lo relativo al pago y cobro de los derechos correspondientes. La autorización para la venta y consumo de bebidas con contenido alcohólico bajo este concepto deberá constar en la licencia respectiva.
+
 VI.- Tienda de Autoservicio.- Establecimiento cuya actividad comercial es la venta de comestibles, alimentos perecederos e imperecederos, artículos de consumo básicos de uso doméstico y otra clase de mercancías, en la modalidad de autoservicio, podrá contar con equipo necesario para surtir al cliente productos alimenticios embutidos, lácteos o marinos.
 
 Deberá contar con una o más cajas para cobro, con refrigeradores o conservadores de alimentos, anaqueles y vitrinas de autoservicio y mostradores, pudiendo complementar su actividad con la venta de bebidas con contenido alcohólico. Del total de su inventario de mercancías, podrá tener hasta un 25% de bebidas con contenido alcohólico, que deberán encontrarse en el área de autoservicio. Asimismo, deberán contar con cajones de estacionamiento suficientes para los clientes.
@@ -192,6 +198,12 @@ XIII.- Porteadora.- La persona física o moral dedicada a la transportación de 
 Los permisos para esa actividad preferentemente se otorgarán a aquellas negociaciones que se dedican a la elaboración, distribución o comercialización de bebidas con contenido alcohólico;
 
 XIV.- Autorizaciones eventuales por tiempo determinado que otorgue el Ejecutivo del Estado por conducto de la Secretaría, para la venta o consumo de bebidas con contenido alcohólico, con fines determinados, tales como muestras, degustación y otros, en aquellos lugares que considere convenientes y sin que esta circunstancia implique la autorización de una licencia definitiva.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, B.O. 6 DE AGOSTO DE 2012)</small>
+
+XV.- Establecimiento que preste servicios de sorteos y juegos con apuestas.- Establecimiento en el que se lleva a cabo la prestación de servicios de sorteos y juegos con apuestas, independientemente del nombre con el que se les designe y que requieran permiso de acuerdo con la Ley Federal de Juegos y Sorteos y su Reglamento, en donde se expenden bebidas con contenido alcohólico en envase abierto y al copeo para el consumo inmediato en el interior del propio establecimiento.
 
 Los establecimientos autorizados conforme a la presente Ley, podrán contar con almacén anexo para guardar sus bebidas con contenido alcohólico, sin que requieran de autorización o licencia. Dicho almacén, no deberá exceder las dimensiones del local de venta al público y no deberá permitirse el acceso a este lugar al público en general.
 
@@ -307,9 +319,13 @@ Los conductores de automóviles de alquiler, autobuses, camiones de pasajeros o 
 
 Los particulares o empresas que intervengan en una o más de las actividades que en esta Ley se regulan, tienen la obligación de participar la apertura del establecimiento o despacho de su propiedad, así como el inicio de actividades tratándose de porteadores, a las autoridades correspondientes, y contar con previa licencia de funcionamiento.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 6 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 18.
 
-En los establecimientos a que se refieren las fracciones IV, X, IX y XI del artículo 10 de esta Ley, deberán contar con suficientes guardias de seguridad.
+En los establecimientos a que se refieren las fracciones IV, IX, X, XI y XV del artículo 10 de esta Ley, deberán contar con suficientes guardias de seguridad.
 
 El Ejecutivo del Estado, por conducto de la Secretaría, podrá exigir a los propietarios, administradores o encargados de los establecimientos de cualquier giro, la vigilancia necesaria para la seguridad de los concurrentes y vecinos del lugar.
 
@@ -325,7 +341,11 @@ I.- La venta o consumo de bebidas con contenido alcohólico a los menores de 18 
 
 II.- La venta de toda clase de bebidas con contenido alcohólico a personas en estado de ebriedad, bajo los efectos de psicotrópicos, así como a personas con carencias mentales, a personas armadas, a militares o miembros de la policía que se encuentren uniformados o en servicio;
 
-III.- Permitir la entrada, a menores de edad en los establecimientos señalados en las fracciones IV y IX del artículo 10 de esta Ley, salvo tratándose de boliches y en la celebración de eventos en que no se vendan o consuman bebidas con contenido alcohólico, debiendo el propietario o encargado inscribir en parte visible del interior y exterior del establecimiento esta prohibición. En el caso de los giros de hotel o motel y restaurante-bar, esta prohibición regirá en el local destinado para bar;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 6 DE AGOSTO DE 2012)</small>
+
+III.- Permitir la entrada a menores de edad en los establecimientos señalados en las fracciones IV, IX y XV del artículo 10 de esta Ley, salvo tratándose de boliches y en la celebración de eventos en que no se vendan o consuman bebidas con contenido alcohólico, debiendo el propietario o encargado inscribir en parte visible del interior y exterior del establecimiento esta prohibición. En el caso de los giros de hotel o motel y restaurante-bar, esta prohibición regirá en el local destinado para bar.
 
 IV.- En los establecimientos autorizados para la venta de bebidas alcohólicas en envase cerrado, queda prohibida la venta en envase abierto, así como el consumo de bebidas con contenido alcohólico en el área interior o exterior y, en su caso, en el área del estacionamiento del local;
 
@@ -361,7 +381,11 @@ I.- En las vías, parques y plazas públicas, salvo permiso especial que expida 
 
 II.- En el interior y exterior de unidades y centros deportivos públicos, salvo permiso especial que expida la autoridad competente;
 
-III.- En el interior de instituciones de educación básica, media superior o superior, templos, cementerios, teatros, carpas, circos, cinematógrafos, ferias o kermesses infantiles, establecimientos de readaptación social, edificios públicos, hospitales, salvo en caso de prescripción médica;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 6 DE AGOSTO DE 2012)</small>
+
+III.- En el interior de instituciones de educación básica, media superior o superior, templos, cementerios, teatros, carpas, circos, cinematógrafos, excepto cines vip, ferias o kermesses infantiles, establecimientos de readaptación social, edificios públicos y hospitales, salvo en casos de prescripción médica.
 
 IV.- En las inmediaciones de instituciones de educación básica, media superior o superior, dentro del horario escolar o durante los sesenta minutos anteriores a la hora de entrada o posteriores a la de salida de los alumnos. Se entiende por inmediaciones en las instituciones de educación básica, media superior o superior, la distancia de cien metros contados a partir del perímetro de las instituciones referidas;
 
@@ -405,13 +429,21 @@ Las agencias distribuidoras, los expendios, tiendas de autoservicio y tiendas de
 
 Tratándose de tiendas de abarrotes, podrá venderse bebidas alcohólicas todos los días desde las 8:00 horas hasta las 21:00 horas.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 28.
 
-Las cantinas, centros nocturnos, centros de eventos o salones de baile, restaurantes, hoteles o moteles y centros deportivos o recreativos, podrán permanecer abiertos de lunes a domingo de las 8:00 horas a las 2:00 horas del día siguiente.
+Las cantinas, centros nocturnos, centros de eventos o salones de bailes, restaurantes, hoteles o moteles, centros deportivos o recreativos y establecimientos que presten el servicio de sorteos y juegos con apuestas, podrán permanecer abiertos de lunes a domingo, de las 8:00 horas a las 02:00 horas del día siguiente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 29.
 
-El horario estipulado en los artículos anteriores, es para la venta y para el consumo de bebidas con contenido alcohólico, sin que por motivo alguno se pueda exceder del mismo, salvo las excepciones señaladas en esta Ley. Asimismo, los establecimientos señalados en las fracciones V, VI, VII, VIII y XI del artículo 10 de la presente Ley, tienen la obligación de suspender la venta de bebidas alcohólicas, pero podrán continuar prestando los demás servicios preponderantes.
+El horario estipulado en los artículos anteriores, es para la venta y para el consumo de bebidas con contenido alcohólico, sin que por motivo alguno se pueda exceder del mismo, salvo las excepciones señaladas en esta Ley. Asimismo, los establecimientos señalados en las fracciones V, VI, VII, VIII, XI y XV del artículo 10 de la presente Ley, tienen la obligación de suspender la venta de bebidas alcohólicas, pero podrán continuar prestando los demás servicios preponderantes.
 
 ###### Artículo 30.
 
@@ -501,9 +533,15 @@ IX.- No estar inhabilitado por la Ley o por sentencia de autoridad competente;
 
 X.- Constancia que acredite no tener antecedentes penales;
 
-XI.- Documento o constancia expedida por las autoridades federales correspondientes, en donde se manifieste su opinión para la instalación, operación y funcionamiento de un establecimiento de los señalados en el artículo 10 de esta Ley, cuya actividad preponderante sea la venta y consumo de bebidas alcohólicas en envase abierto, que pretende ubicarse en los márgenes de carreteras federales, en terminales aéreas o terrestres y zonas consideradas como reserva federal o de riesgo; y
+XI.- Documento o constancia expedida por las autoridades federales correspondientes, en donde se manifieste su opinión para la instalación, operación y funcionamiento de un establecimiento de los señalados en el artículo 10 de esta Ley, cuya actividad preponderante sea la venta y consumo de bebidas alcohólicas en envase abierto, que pretende ubicarse en los márgenes de carreteras federales, en terminales aéreas o terrestres y zonas consideradas como reserva federal o de riesgo; y (sic)
 
 XII.- La manifestación, bajo protesta de decir verdad, expresada en el sentido de que se cumple, además de lo ordenado en el presente ordenamiento, con lo dispuesto por la normatividad en materia de salud, protección al ambiente y conservación ecológica, desarrollo urbano y protección civil, así como con los demás ordenamientos que regulen el funcionamiento de los establecimientos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, B.O. 6 DE AGOSTO DE 2012)</small>
+
+XIII.- En el caso de que la solicitud sea para la autorización de venta y consumo de bebidas con contenido alcohólico a que se refiere la fracción XV del artículo 10 de esta Ley, copia certificada de la autorización de funcionamiento expedida por la autoridad competente en los términos y condiciones establecidos en la Ley Federal de Juegos y Sorteos y su Reglamento.
 
 En el supuesto de que el solicitante no pueda llenar los requisitos mencionados en las fracciones V y VI de este artículo, en virtud de que el proyecto de inversión a realizar contempla la construcción del local correspondiente, la Secretaría podrá autorizar el otorgamiento de un plazo para la realización del proyecto, y establecer la condición de que el local se deberá construir, cumpliéndose con los requisitos señalados por la normatividad precisada en la fracción que antecede.
 
@@ -553,7 +591,11 @@ La Secretaría podrá tomar las medidas que considere convenientes en los casos 
 
 En los supuestos contemplados en este artículo, se seguirá el procedimiento administrativo de cancelación de licencia a que se refiere esta Ley.
 
-#### SECCIÓN III. DE LA REVALIDACIÓN DE LICENCIAS
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 6 DE AGOSTO DE 2012)</small>
+
+#### SECCIÓN III. DE LA REVALIDACIÓN Y CANJE DE LICENCIAS
 
 ###### Artículo 45.
 
@@ -572,6 +614,28 @@ El Ejecutivo del Estado, por conducto de la Secretaría, deberá informar a los 
 En tanto se autorice la revalidación de la licencia, el establecimiento podrá seguir operando.
 
 Los ayuntamientos, participarán de los ingresos que se recauden en sus respectivas jurisdicciones por la revalidación señalada en este artículo, en un porcentaje que no podrá ser inferior al 20%, en la forma que determine anualmente la legislatura en la Ley de Ingresos del Estado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
+
+Artículo 45 BIS.- Las licencias deberán canjearse cada 3 años durante los meses de enero a mayo. Para tales efectos los titulares de las licencias o sus representantes legales, deberán presentar ante la Secretaría una solicitud en la que se manifieste bajo protesta de decir verdad que no se han modificado las condiciones en que se otorgó la licencia originalmente. Si hubiera alguna modificación en cuanto al giro, cambio de domicilio o de horario, se requerirá una nueva anuencia del ayuntamiento respectivo.
+
+A la solicitud de canje se deberán acompañar los siguientes requisitos:
+
+I.- Licencia original.
+
+II.- Carta de no adeudo.
+
+III.- Comprobante de pago de los derechos respectivos.
+
+Una vez recibida la solicitud y la documentación antes referida, la Secretaría podrá efectuar visitas para verificar que el solicitante cumple con lo establecido en la presente Ley. Realizado lo anterior y verificado el cumplimiento de la normatividad correspondiente, la Secretaría expedirá el respectivo canje de la licencia en mención.
+
+En tanto se autorice el canje de la licencia, el establecimiento podrá seguir operando, conforme a lo previsto en el párrafo último del artículo 45 de la presente Ley.
+
+El Ejecutivo del Estado, por conducto de la Secretaría, deberá informar a los ayuntamientos, dentro de los quince días siguientes a la fecha del vencimiento para el canje, sobre las licencias canjeadas y de las no autorizadas a los establecimientos regulados por esta Ley y que se encuentren ubicados en el territorio del Municipio respectivo.
+
+Los ayuntamientos, participarán de los ingresos que se recauden en sus respectivas jurisdicciones por el canje señalado en este artículo, en un porcentaje que no podrá ser inferior al 20%, en la forma que determine anualmente la Legislatura en la Ley de Ingresos del Estado.
 
 #### SECCIÓN IV. DE LA ENAJENACIÓN DE LOS GIROS
 
@@ -630,6 +694,22 @@ Las guías expedidas por la Secretaría causarán el pago de los derechos respec
 ###### Artículo 50.
 
 Los permisos para porteador deberán revalidarse durante los meses de enero a mayo de cada año, debiéndose presentar la solicitud ante la Secretaría acompañando copia simple del permiso y comprobante de pago del derecho respectivo. Realizado lo anterior, se expedirá la revalidación correspondiente y, en tanto se autorice la misma, podrá seguirse operando.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
+
+###### Artículo 50 Bis.
+
+Los permisos de porteador deberán canjearse cada 3 años durante los meses de enero a mayo, debiéndose presentar la siguiente documentación:
+
+I.- Solicitud ante la Secretaría acompañando licencia original.
+
+II.- Carta de no adeudo y,
+
+III.- Comprobante de pago del derecho respectivo.
+
+Realizado lo anterior, se expedirá el canje correspondiente y en tanto se autorice el mismo podrá seguirse operando.
 
 ###### Artículo 51.
 
@@ -829,7 +909,17 @@ IX.- Por operar fuera de los horarios establecidos en la licencia de funcionamie
 
 X.- Por vender o permitir el consumo de bebidas con contenido alcohólico a menores de edad o incapacitados legales, en el interior del establecimiento;
 
-XI.- En los demás casos que expresamente señalan las disposiciones de esta Ley.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 6 DE AGOSTO DE 2012)</small>
+
+XI.- Tratándose de la autorización que expida la Secretaría para el giro contemplado en la fracción XV del artículo 10 de esta Ley, al cancelarse la autorización que para su funcionamiento se otorgue en base a la Ley Federal de Juegos y Sorteos y su Reglamento por la autoridad competente, se cancelará la autorización para la venta y consumo de bebidas con contenido alcohólico.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, B.O. 6 DE AGOSTO DE 2012)</small>
+
+XII.- En los demás casos que expresamente señalan las disposiciones de esta Ley.
 
 ### CAPÍTULO X. DEL PROCEDIMIENTO ADMINISTRATIVO DE CANCELACIÓN DE LICENCIAS DE FUNCIONAMIENTO
 
@@ -861,7 +951,11 @@ Se establece la clausura como un acto de orden público a fin de suspender o can
 
 La clausura procederá:
 
-I.- Cuando el establecimiento carezca de la autorización correspondiente o cuando la licencia no haya sido revalidada por causa imputable al titular de la licencia;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 6 DE AGOSTO DE 2012)</small>
+
+I.- Cuando el establecimiento carezca de la autorización correspondiente o cuando la licencia no haya sido revalidada o canjeada, en el año fiscal que corresponda, por causa imputable al titular de la licencia.
 
 II.- Cuando la licencia sea explotada por persona distinta a su titular, sin justificarlo con el documento que legalmente acredite tal circunstancia;
 
@@ -927,7 +1021,11 @@ c).- Por no tener en lugar visible al público la licencia y demás documentaci�
 
 d).- A los que no cumplan, no avisen o no hagan la solicitud de auxilio a que se refieren las fracciones IV y V del artículo 14 de esta Ley, siendo causa de cancelación de la licencia, la reincidencia o repetición de escándalos graves, quedando la calificación a juicio de la Secretaría;
 
-e).- Por permitir en el interior de los establecimientos juegos de azar que no estén autorizadas (sic) en la presente Ley y apuestas aun en los juegos permitidos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
+
+e).- Por permitir en el interior de los establecimientos juegos de azar que no estén autorizados en la presente Ley y apuestas aun en los juegos permitidos; exceptuándose de lo anterior los establecimientos previstos en la fracción XV del artículo 10 de la presente Ley, que cuenten con la autorización correspondiente expedida por la Secretaría;
 
 f).- A los conductores de vehículos de pasaje o alquiler que no cumplan con lo dispuesto en el artículo 16 de esta Ley;
 
@@ -947,9 +1045,13 @@ a).- Cuando se impida o dificulte a las autoridades correspondientes, la inspecc
 
 b).- Por poseer las tiendas de abarrotes un inventario superior, en contravención a lo dispuesto en la fracción VIII del artículo 10 de esta Ley;
 
-c).- Cuando el establecimiento o porteador opere sin haber tramitado u obtenido la revalidación de la licencia respectiva;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-No se considerará infracción, cuando la carencia de la constancia de revalidación se deba a causas no imputables al interesado, entendiéndose que ello sucede, cuando hecha la solicitud y realizado el pago de la revalidación dentro de los meses de enero a mayo, ésta no se haya expedido, en cuyo caso se observará lo dispuesto en el artículo 45, último párrafo, de esta Ley;
+> <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
+
+c). Cuando el establecimiento o porteador opere sin haber tramitado u obtenido la revalidación o canje, en el año fiscal que corresponda, de la licencia respectiva.
+
+No se considerará infracción, cuando la carencia de la constancia de revalidación o canje de licencia, en el ejercicio fiscal que corresponda, se deba a causas no imputables al interesado, entendiéndose que ello sucede, cuando hecha la solicitud y realizado el pago de la revalidación o canje, en el año fiscal que corresponda, dentro de los meses de enero a mayo, éstas no se hayan expedido, en cuyo caso se observará lo dispuesto en los artículos 45, último párrafo y 45 bis, cuarto párrafo, de esta Ley.
 
 d).- A quienes vendan o consuman bebidas alcohólicas en los sitios mencionados en el artículo 22 de la presente Ley, así como los que transporten o consuman dichas bebidas en vehículos en circulación o estacionados en las vías públicas, en contravención a lo dispuesto en el precepto mencionado. En este último supuesto además de la aplicación de las sanciones a que se refiere esta fracción y de las que se señalan en el citado artículo 22, se impedirá por conducto de las autoridades de tránsito municipales que el vehículo continúe circulando, remitiéndolo al departamento de tránsito correspondiente;
 
@@ -985,7 +1087,11 @@ d).- A los que en cualquier forma alteren o afecten la licencia de funcionamient
 
 e).- A los que contravengan lo dispuesto por la fracción I del artículo 20 de esta Ley, la primera reincidencia con el doble de la sanción impuesta y la segunda, con la cancelación de la licencia y clausura del establecimiento;
 
-f).- Por permitir la entrada a menores de edad a los establecimientos señalados en las fracciones IV, IX y X, segundo párrafo del articulo 10 de esta Ley;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
+
+f).- Por permitir la entrada a menores de edad a los establecimientos señalados en las fracciones IV, IX, X, segundo párrafo y XV del artículo 10 de esta Ley;
 
 g).- A los que vendan o permitan el consumo de bebidas con contenido alcohólico distintas a las que específicamente se les autorizó en su licencia de funcionamiento;
 
@@ -1320,3 +1426,23 @@ B.O. 26 DE DICIEMBRE DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 6 DE AGOSTO DE 2012.
+
+Artículo Primero.- Las disposiciones contenidas en los artículos primero (modificaciones a la Ley de Hacienda del Estado), tercero (reformas a la Ley de Hacienda Municipal) y cuarto del presente Decreto (modificaciones a la Ley que Regula la Operación y Funcionamiento de los Establecimientos Destinados a la Fabricación, Envasamiento, Distribución, Almacenamiento, Transportación, Venta y Consumo de Bebidas con Contenido Alcohólico en el Estado de Sonora), entrarán en vigor a partir del 1° de enero de 2013 y las disposiciones contenidas en el artículo segundo del presente Decreto (reformas al Código Fiscal del Estado), entrarán en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- A partir de la entrada en vigor de las reformas contenidas en el artículo primero del presente Decreto, los contribuyentes propietarios o tenedores de vehículos registrados conforme a la normatividad establecida en la Ley del Impuesto Sobre Tenencia o Uso de Vehículos, pasarán a formar parte del Registro Estatal Vehicular, respecto a los vehículos que se les haya expedido placas de circulación en el territorio del Estado, así como aquellos que a partir de la vigencia de la presente Ley se den de alta ante la Secretaría de Hacienda.
+
+El Registro Estatal Vehicular a que se refiere el primer párrafo de este artículo, se integrará con datos de los vehículos de los contribuyentes que porten placas de la circunscripción territorial de esta Entidad Federativa que serán aquellos que contempla la Ley del Registro Público Vehicular de carácter federal. El Registro Estatal Vehicular estará conectado a los medios o sistemas que para efectos de intercambio de información determine la Secretaría de Hacienda y Crédito Público mediante sus disposiciones de carácter general.
+
+Artículo Cuarto.- Para los efectos de las modificaciones a la Ley que Regula la Operación y Funcionamiento de los Establecimientos Destinados a la Fabricación, Envasamiento, Distribución, Almacenamiento, Transportación, Venta y Consumo de Bebidas con Contenido Alcohólico en el Estado de Sonora, previstas en el artículo anterior se estará a lo siguiente:
+
+I.- Los permisionarios que se ubiquen dentro del supuesto a que se refiere el artículo 10 Fracción XV de la Ley que Regula la Operación y Funcionamiento de los Establecimientos Destinados a la Fabricación, Envasamiento, Distribución, Almacenamiento, Transportación, Venta y Consumo de Bebidas con Contenido Alcohólico en el Estado de Sonora, deberán presentar la licencia con la cual se encuentren operando a fin de que les sea canjeada bajo el giro de establecimiento que preste servicios de sorteos y juegos con apuestas, debiendo pagar los derechos correspondientes bajo la denominación del nuevo giro.
+
+Transcurrido el plazo a que se refiere la fracción II de este artículo, la Secretaría de Hacienda procederá de oficio a la cancelación de las licencias cuyos titulares no hayan solicitado su regularización conforme a esta Ley.
+
+II.- Para los efectos de lo dispuesto en los artículos 45 Bis y 50 Bis de la Ley que Regula la Operación y Funcionamiento de los Establecimientos Destinados a la Fabricación, Envasamiento, Distribución, Almacenamiento, Transportación, Venta y Consumo de Bebidas con Contenido Alcohólico en el Estado de Sonora, el canje de las licencias se efectuará en el transcurso de los meses de enero a mayo del año de calendario que corresponda y tendrá una vigencia de tres años, contados a partir del canje del presente ejercicio de 2012, debiendo presentarse para tales efectos, los requisitos correspondientes.
+
+Transcurrido el plazo a que se refiere el párrafo anterior, la Secretaría de Hacienda procederá de oficio a la cancelación de las licencias cuyos titulares no hayan solicitado su regularización conforme a esta Ley.
