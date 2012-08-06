@@ -4,7 +4,7 @@ identifier: "HID-ley-de-asistencia-social-para-el-estado-de-hidalgo-88792"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-30"
-last_updated: "2012-07-30"
+last_updated: "2012-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "HID"
 ---
 # LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE AGOSTO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 6 DE AGOSTO DE 2012.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de julio de 2012.
 
@@ -509,25 +509,33 @@ VII.- Coadyuvar con el Sistema Estatal de Salud en la supervisión de las Instit
 
 VIII.- Las demás que le otorguen las disposiciones legales en la materia.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE AGOSTO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 21.
 
 El Sistema contará para su funcionamiento con un órgano auxiliar de concertación, consulta, asesoría, apoyo y vinculación entre el Ejecutivo Estatal y la sociedad, denominado Consejo el cual tiene por objeto: Apoyar, analizar, proponer e impulsar políticas, programas y acciones interinstitucionales, para el desarrollo de la asistencia social pública y privada en el Estado y estará integrado por:
 
 I.- El Gobernador del Estado, quien lo presidirá:
 
+> <small>(F. DE E., P.O. 6 DE AGOSTO DE 2012)</small>
+
 II.- Una Presidencia Adjunta a cargo de quien ocupe la Presidencia del Patronato del Sistema para el Desarrollo Integral de la Familia.
 
-III.- En caso de ausencia o cuando lo solicite el Presidente lo sustituirá el Presidente Adjunto;
+En caso de ausencia o cuando lo solicite el Presidente lo sustituirá el Presidente Adjunto;
 
-IV.- Tres vocalías a cargo de la Secretaría de Desarrollo Social, Secretaría de Salud y Secretaría de Educación;
+> <small>(F. DE E., P.O. 6 DE AGOSTO DE 2012)</small>
 
-V.- Los representantes designados por el Ciudadano Gobernador del Estado, de las Dependencias, Entidades, Instituciones Educativas, Municipales y demás relacionadas en las fracciones IV a la XIII del artículo 16 de esta Ley; y (sic)
+III.- Tres vocalías a cargo de la Secretaría de Desarrollo Social, Secretaría de Salud y Secretaría de Educación;
 
-VI.- Una Coordinación General que será ocupada por el Titular de la Dirección General del Organismo.
+> <small>(F. DE E., P.O. 6 DE AGOSTO DE 2012)</small>
 
-VII.- El Consejo podrá proponer programas y proyectos para la atención de la población en situación de vulnerabilidad, así como fomentar la participación ciudadana en la elaboración e integración de políticas en materia de asistencia social.
+IV.- Los representantes designados por el Ciudadano Gobernador del Estado, de las Dependencias, Entidades, Instituciones Educativas, Municipales y demás relacionadas en las fracciones IV a la XIII del artículo 16 de esta Ley; y
+
+> <small>(F. DE E., P.O. 6 DE AGOSTO DE 2012)</small>
+
+V.- Una Coordinación General que será ocupada por el Titular de la Dirección General del Organismo.
+
+> <small>(F. DE E., P.O. 6 DE AGOSTO DE 2012)</small>
+
+El Consejo podrá proponer programas y proyectos para la atención de la población en situación de vulnerabilidad, así como fomentar la participación ciudadana en la elaboración e integración de políticas en materia de asistencia social.
 
 ###### Artículo 22.
 
