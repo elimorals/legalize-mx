@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-otorgamiento-del-beneficio-de-reclusion-5125
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-08-14"
-last_updated: "2006-08-14"
+last_updated: "2012-08-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51252&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2006-08-04"
 ---
 # REGLAMENTO PARA EL OTORGAMIENTO DEL BENEFICIO DE RECLUSION DOMICILIARIA MEDIANTE EL PROGRAMA DE MONITOREO ELECTRONICO A DISTANCIA PARA EL DISTRITO FEDERAL
 
-REGLAMENTO PARA EL OTORGAMIENTO DEL BENEFICIO DE RECLUSION DOMICILIARIA MEDIANTE EL PROGRAMA DE MONITOREO ELECTRONICO A DISTANCIA PARA EL DISTRITO FEDERAL
+REGLAMENTO PARA EL OTORGAMIENTO DEL BENEFICIO DE RECLUSIÓN DOMICILIARIA MEDIANTE EL PROGRAMA DE MONITOREO ELECTRÓNICO A DISTANCIA PARA EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO DE LA LEY DE EJECUCIÓN DE SANCIONES PENALES Y REINSERCIÓN SOCIAL PARA EL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 6 DE AGOSTO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADO.
 
 Reglamento publicado en el Número Bis de la Gaceta Oficial del Distrito Federal, el lunes 14 de agosto de 2006.
 
@@ -319,3 +321,17 @@ PRIMERO. Este reglamento entrará en vigor el día siguiente de su publicación 
 SEGUNDO. Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal.
 
 Dado en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México a los cuatro días del mes de agosto del año dos mil seis.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, ALEJANDRO DE JESÚS ENCINAS RODRÍGUEZ.- FIRMA.- EL SECRETARIO DE GOBIERNO, RICARDO RUÍZ SUÁREZ.- FIRMA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS</small>
+
+DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+
+G.O. 6 DE AGOSTO DE 2012.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- La Administración Pública del Distrito Federal proporcionará el presupuesto necesario para el cumplimiento del objeto del presente Reglamento y las autoridades vinculadas, al diseñar los programas, en el ámbito de sus atribuciones que les correspondan, dirigidos a los sentenciados, deberán incluir la asignación presupuestal para el cumplimiento de los mismos.
+
+CUARTO.- Se abroga el Reglamento para el Otorgamiento del Beneficio de Reclusión Domiciliaria Mediante el Programa de Monitoreo Electrónico a Distancia para el Distrito Federal y todas aquellas disposiciones que se opongan al presente Reglamento.
