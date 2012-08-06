@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-municipal-8369"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-29"
-last_updated: "2011-07-18"
+last_updated: "2012-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 18 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 6 DE AGOSTO DE 2012.
 
 Ley publicada en la Sección Decimacuarta del Boletín Oficial del Estado de Sonora, el jueves 29 de diciembre de 1983.
 
@@ -217,7 +217,7 @@ IV.- Las demás autoridades municipales a quienes las leyes confieran atribucion
 
 V.- (DEROGADA, B.O. 16 DE NOVIEMBRE DE 1987)
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 19.
 
@@ -265,7 +265,7 @@ VIII.- Las personas físicas o morales que adquieran bienes o negociaciones que 
 
 IX.- Las demás personas que señalen las Leyes Fiscales.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 16 DE JULIO DE 1984)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 16 DE JULIO DE 1984)</small>
 
 ###### ARTICULO 24.
 
@@ -273,7 +273,7 @@ Están exentos del pago de impuestos y derechos:
 
 I.- La Federación, los Estados y los Municipios.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 28 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 28 DE DICIEMBRE DE 1998)</small>
 
 II.- Los organismos descentralizados de la Federación Estado y Municipios, cuando realicen actividades con fines no lucrativos.
 
@@ -321,7 +321,7 @@ IV.- Si el crédito se determina mediante un convenio, en el término que éste 
 
 No satisfecho un crédito fiscal dentro del plazo que para el efecto señalen las disposiciones legales, se exigirá su pago mediante el procedimiento administrativo de ejecución, conforme a las reglas establecidas en el Título V del Código Fiscal del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 29.
 
@@ -339,7 +339,7 @@ No podrán condonarse total o parcialmente créditos fiscales a título particul
 
 Cuando la situación económica de los contribuyentes sea insuficiente para cubrir en su totalidad las contribuciones, los productos y los aprovechamientos, los Ayuntamientos, por conducto de las Tesorerías Municipales podrán conceder prórroga para el pago de los créditos fiscales o autorización para que los mismos sean cubiertos en parcialidades, las cuales se tramitarán en los términos que fijen los propios Ayuntamientos, de acuerdo con la presente Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE MAYO DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE MAYO DE 1992)</small>
 
 ###### ARTICULO 31.
 
@@ -427,7 +427,7 @@ Las multas por infracción a las disposiciones fiscales, podrán ser condonadas 
 
 Las facultades del Fisco Municipal para determinar la existencia de obligaciones fiscales, señalar las bases de su liquidación o fijarlas en cantidad líquida; para imponer sanciones por infracción a las disposiciones fiscales, así como las facultades de verificar el cumplimiento o incumplimiento de dichas disposiciones, se extinguen en el término de cinco años.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 41.
 
@@ -457,7 +457,7 @@ El término de la prescripción se inicia a partir de la fecha en que el pago pu
 
 Los particulares podrán solicitar a la autoridad la declaratoria de prescripción de los créditos fiscales.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 43.
 
@@ -491,7 +491,7 @@ Si no se plantean situaciones reales y concretas, las autoridades se abstendrán
 
 Las instancias o peticiones que se formulen a las autoridades fiscales, deberán ser resueltas en el término que la Ley fija, o a falta de término establecido, en noventa días. El silencio de las autoridades fiscales se considerará como resolución negativa cuando no den respuesta en el término que corresponda.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 49.
 
@@ -665,7 +665,7 @@ En los casos de reavalúos, así como de fusiones y subdivisiones de predios, la
 
 En los casos de traslación de dominio, el reavalúo cuando proceda, entrará en vigor el trimestre siguiente a dicha traslación.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 61.
 
@@ -823,7 +823,7 @@ Cuando con motivo de la adquisición, el adquirente asuma la obligación de paga
 
 Para los fines de este impuesto, se considera que el usufructo y la nuda propiedad tienen un valor cada uno de ellos del 50% del valor de la propiedad.
 
-> <small>(DEROGADO ULTIMO PARRAFO, B.O. 7 DE JULIO DE 2003)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, B.O. 7 DE JULIO DE 2003)</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -981,7 +981,7 @@ Los Ayuntamientos podrán ordenar la suspensión de un espectáculo o diversión
 
 Cuando el espectáculo público sea suspendido antes de su inicio, los responsables del evento deberán hacer la devolución del importe que hayan pagado los espectadores por el acceso al mismo, debiendo hacerlo en un plazo no mayor de cuarenta y ocho horas.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
 ### CAPITULO CUARTO. Impuestos sobre Loterías, Rifas o Sorteos
 
@@ -1057,35 +1057,23 @@ Las Leyes de Ingresos y Presupuestos de Ingresos señalarán las tasas de estos 
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, B.O. 27 DE JUNIO DE 1991)</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
 ### CAPITULO SEXTO. Del Impuesto por la prestación de Servicios de Hospedaje
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-ARTICULO 103 BIS.- Están obligados al pago del impuesto a la prestación de servicios de hospedaje, las personas físicas y morales que presten servicios de hospedaje en los municipios del Estado de Sonora.
+ARTICULO 103 BIS.- (DEROGADO, B.O. 6 DE AGOSTO DE 2012)
 
-Para los efectos de este impuesto, se consideran servicios de hospedaje, la prestación de alojamiento o albergue temporal de personas a cambio de una contraprestación, dentro de los que quedan comprendidos los servicios prestados por hoteles, hostales, moteles, campamentos, panaderos de casas rodantes, tiempo compartido y departamentos amueblados para fines de hospedaje para fines turísticos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-No se considerarán servicios de hospedaje, el albergue o alojamiento prestados por hospitales, clínicas, asilos, conventos, seminarios o internados.
+ARTICULO 103 BIS A.- (DEROGADO, B.O. 6 DE AGOSTO DE 2012)
 
-Los contribuyentes realizarán el traslado del impuesto a las personas a quienes se preste servicios de hospedaje.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+ARTICULO 103 BIS B.- (DEROGADO, B.O. 6 DE AGOSTO DE 2012)
 
-ARTICULO 103 BIS A.- El impuesto a que se refiere este capítulo se causará al momento en que se perciban los valores correspondientes a las contraprestaciones por los servicios de hospedaje, incluyendo depósitos, anticipos, gastos, reembolsos, intereses normales o moratorios, penas convencionales y cualquier otro concepto, que deriven de la prestación de dicho servicio.
-
-Cuando los contribuyentes convengan la prestación de servicios de hospedaje e incluyan servicios accesorios, tales como transportación, comida, uso de instalaciones u otros similares y no desglosen y comprueben la prestación de estos últimos, se entenderá que el valor de la contraprestación respectiva corresponde a servicios de hospedaje.
-
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
-
-ARTICULO 103 BIS B.- Los contribuyentes calcularán el impuesto a la prestación de servicios de hospedaje aplicando la tasa que al efecto apruebe el Congreso del Estado en las leyes de ingresos de los Ayuntamientos sobre el valor de las contraprestaciones que perciban por servicios de hospedaje y deberán pagarlo mediante declaración que presentarán en la forma oficial aprobada, ante las oficinas autorizadas, a mas tardar el día quince del mes siguiente a aquél en que se perciban dichas contraprestaciones.
-
-En el caso de que un contribuyente cuente con dos o más inmuebles para servicios de hospedaje, deberá presentar la declaración a que se refiere el párrafo anterior respecto de cada uno de ellos, a excepción de los inmuebles colindantes, por los que se presentará una sola declaración.
-
-Los contribuyentes del impuesto por la prestación de servicios de hospedaje, deberán formular declaraciones hasta en tanto no presenten el aviso de baja al padrón de contribuyentes o de suspensión temporal de actividades.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ### CAPITULO SEPTIMO. Del Impuesto Municipal sobre Tenencia o Uso de Vehículos
 
@@ -1133,9 +1121,9 @@ Cuando por cualquier motivo un vehículo deje de estar comprendido en los supues
 
 ARTICULO 103 BIS H.- Los tenedores o usuarios de los vehículos a que se refieren las fracciones I y IV del artículo anterior, para gozar del beneficio que el mismo establece, deberán comprobar ante la Tesorería Municipal que se encuentran comprendidos en dichos supuestos.
 
-> <small>N. DE E. LOS TITULOS TERCERO A OCTAVO SE REESTRUCTURAN INTEGRAMENTE, CON SUS RESPECTIVOS CAPITULOS Y SECCIONES, OBSERVANDOSE QUE ESTAS ULTIMAS NO EXISTEN EN LA NUEVA ESTRUCTURA DE LA LEY, B.O. 16 DE NOVIEMBRE DE 2003.</small>
+> <small>N. DE E. LOS TÍTULOS TERCERO A OCTAVO SE REESTRUCTURAN ÍNTEGRAMENTE, CON SUS RESPECTIVOS CAPÍTULOS Y SECCIONES, OBSERVÁNDOSE QUE ESTAS ÚLTIMAS NO EXISTEN EN LA NUEVA ESTRUCTURA DE LA LEY, B.O. 16 DE NOVIEMBRE DE 2003.</small>
 
-> <small>(REFORMADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, B.O. 16 DE NOVIEMBRE DE 2003)</small>
+> <small>(REFORMADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, B.O. 16 DE NOVIEMBRE DE 2003)</small>
 
 ## TITULO TERCERO. De los Derechos
 
@@ -1191,7 +1179,7 @@ VII.- Cuando en el presente título no se especifiquen los sujetos pagadores de 
 
 Las cuotas o tarifas de los derechos que se causen por la prestación de los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales y alumbrado, se pagarán con posterioridad a la prestación de dichos servicios.
 
-> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
 ### CAPITULO SEGUNDO. Agua Potable y Alcantarillado
 
@@ -1201,7 +1189,7 @@ Las cuotas o tarifas de los derechos que se causen por la prestación de los ser
 
 Las cuotas o tarifas de los derechos que se causen por la prestación del servicio de agua potable, drenaje, alcantarillado y tratamiento y disposición de aguas residuales, serán aprobadas por el Congreso del Estado en las leyes de ingresos de los Ayuntamientos.
 
-> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
 ### CAPITULO TERCERO. Alumbrado Público
 
@@ -1247,7 +1235,7 @@ El servicio a que se refiere este Capítulo es de utilización obligatoria.
 
 ARTICULO 111 BIS.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2001)
 
-> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
 ### CAPITULO CUARTO. Limpia
 
@@ -1293,7 +1281,7 @@ VI.- Las demás que se establezcan en las leyes de ingresos de los Ayuntamientos
 
 ARTICULO 113 BIS.- El pago de los derechos se hará previamente a la prestación de los servicios y conforme a las estimaciones que al efecto convengan los contribuyentes y la autoridad municipal, debiendo enterarse por períodos mensuales dentro de los cinco días anteriores al inicio del mes por el que deba efectuarse el pago ante las oficinas de la autoridad fiscal.
 
-> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
 ### CAPITULO QUINTO. Mercados y Centrales de Abasto
 
@@ -1315,7 +1303,7 @@ Las cuotas por los derechos que se causen en materia de concesiones de los espac
 
 Por el uso de sanitarios en los mercados y centrales de abasto, se causará el derecho que apruebe el Congreso del Estado en las leyes de ingresos de los Ayuntamientos.
 
-> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
 ### CAPITULO SEXTO. Panteones
 
@@ -1369,7 +1357,7 @@ Cuando el servicio público de panteones se preste fuera del horario de trabajo,
 
 Las agencias funerarias deberán recaudar o retener los derechos que, por concepto de inhumaciones o cremaciones corresponden a los Ayuntamientos, los cuales deberán ser enterados a la Tesorería Municipal dentro de los primeros cinco días de cada mes, ocasionando la mora de dicho entero, los recargos respectivos conforme a las tasas que apruebe el Congreso del Estado en las leyes de ingresos de los Ayuntamientos.
 
-> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
 ### CAPITULO SEPTIMO. Rastros
 
@@ -1447,7 +1435,7 @@ ARTICULO 123 BIS D.- No causa este derecho el sacrificio que se haga en los ranc
 
 ARTICULO 123 BIS E.- Las oficinas recaudadoras, al recibir aviso o tener conocimiento directo de que no se ha cubierto el pago de los derechos por los servicios enlistados en el artículo 123, iniciarán inmediatamente el procedimiento administrativo de ejecución, decretando sin demora el embargo precautorio sobre los bienes del causante.
 
-> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
 ### CAPITULO OCTAVO. Parques
 
@@ -1457,7 +1445,7 @@ ARTICULO 123 BIS E.- Las oficinas recaudadoras, al recibir aviso o tener conocim
 
 Por el acceso a los parques y a otros centros que tengan por objeto satisfacer las necesidades de recreación de los habitantes de los municipios, se pagarán los derechos que anualmente apruebe el Congreso del Estado en las leyes de ingresos de los Ayuntamientos, tomando en cuenta los segmentos de edades -niños, adultos y personas de la tercera edad.
 
-> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
 ### CAPITULO NOVENO. Seguridad Pública
 
@@ -1487,7 +1475,7 @@ D) En dependencias o entidades públicas.
 
 III.- Los demás que consideren los Ayuntamientos, siempre que estén previstos en sus leyes de ingresos.
 
-> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
 ### CAPITULO DECIMO. Tránsito
 
@@ -1535,7 +1523,7 @@ VIII.- Las demás que se establezcan en las leyes de ingresos de los Ayuntamient
 
 Por el estacionamiento de vehículos en la vía pública, donde se hayan instalado sistemas de control de tiempo y espacio, se deberá pagar un derecho conforme a la tarifa que apruebe el Congreso del Estado en las leyes de ingresos de los Ayuntamientos.
 
-> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
 ### CAPITULO DECIMO PRIMERO. Estacionamiento
 
@@ -1551,7 +1539,7 @@ Por la recepción, guarda y devolución de vehículos de propulsión automotriz 
 
 Cuando los ayuntamientos tengan contratado seguro por la pérdida o los daños causados a los vehículos o a sus accesorios, se cobrará un derecho adicional que al efecto apruebe el Congreso del Estado en las leyes de ingresos de los Ayuntamientos, sobre las cuotas por la prestación de los servicios a que se refiere el artículo anterior.
 
-> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
 ### CAPITULO DECIMO SEGUNDO. Desarrollo Urbano
 
@@ -1611,7 +1599,7 @@ Por la expedición del documento que contenga la enajenación de inmuebles que r
 
 Los dueños o poseedores de los fraccionamientos ilegales pagarán, en el procedimiento de regularización de los mismos, por los servicios señalados en este Capítulo, un derecho adicional conforme a la tasa que apruebe el Congreso del Estado en las leyes de ingresos de los Ayuntamientos.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
 ARTÍCULO 136 BIS.- Por los servicios que se presten en materia de protección civil y bomberos, se causarán los derechos conforme a la siguiente base:
 
@@ -1797,7 +1785,7 @@ XXII.- Por servicio en línea por internet de certificado catastral.
 
 El importe de las cuotas por la prestación de los anteriores servicios se reducirán en un 50% cuando estos sean solicitados para construcción o adquisición de vivienda de interés social.
 
-> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
 ### CAPITULO DECIMO TERCERO. Control Sanitario de Animales Domésticos
 
@@ -1817,7 +1805,7 @@ III.- Retención por 48 horas; y
 
 IV.- Las demás que se establezcan en las leyes de ingresos de los Ayuntamientos.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 30 DE DICIEMBRE DE 1996)</small>
 
 ### CAPITULO DECIMO TERCERO BIS. Uso o Tenencia de Anuncios o Publicidad
 
@@ -1837,7 +1825,7 @@ Serán responsables solidarios los propietarios de los predios, fincas o vehícu
 
 ARTICULO 137 BIS B.- Estarán exentos del pago de estos derechos, los anuncios, carteles o cualquier tipo de publicidad que realicen las entidades gubernamentales en sus funciones de derecho público, los partidos políticos, las instituciones de asistencia o beneficencia pública, las iglesias y los de carácter cultural.
 
-> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
 ### CAPITULO DECIMO CUARTO. Otros Servicios
 
@@ -1859,7 +1847,7 @@ IV.- Las demás que se establezcan en las leyes de ingresos de los Ayuntamientos
 
 Las cuotas por los derechos que originan los rubros anteriores deberán ser aprobadas por el Congreso del Estado en las leyes de ingresos de los Ayuntamientos.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
 ### CAPITULO DECIMO QUINTO. Licencias para la Colocación de Anuncios o Publicidad
 
@@ -1895,7 +1883,7 @@ Serán responsables solidarios los propietarios de los predios, fincas o vehícu
 
 ARTICULO 138 BIS B.- Estarán exentos del pago de estos derechos, los anuncios, carteles o cualquier tipo de publicidad que realicen las entidades gubernamentales en sus funciones de derecho público, los partidos políticos, las instituciones de asistencia o beneficencia pública, las asociaciones religiosas y las de carácter cultural.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
 ### CAPITULO DECIMO SEXTO. Anuencias, Autorizaciones y Guías de Transportación en Materia de Bebidas con Contenido Alcohólico
 
@@ -2025,7 +2013,7 @@ ARTICULO 142 BIS.- Las contribuciones especiales por mejoras se causarán por la
 
 ARTICULO 142 BIS A.- Para determinar la zona de beneficio en la que se ubica un inmueble se atenderá a la localización respectiva de la obra de que se trate atendiendo a la siguiente tabla:
 
-(VEASE TABLA ANEXA)
+(VÉASE TABLA ANEXA)
 
 > <small>(REFORMADO, B.O. 9 DE NOVIEMBRE DE 1989)</small>
 
@@ -2181,7 +2169,7 @@ Dentro de los quince días siguientes a la notificación del crédito fiscal cor
 
 ### CAPITULO UNICO. Productos
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 161.
 
@@ -2281,7 +2269,7 @@ Los saldos insolutos derivados del contrato, causarán la tasa de interés que a
 
 ### CAPITULO UNICO. Aprovechamientos
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 166.
 
@@ -2441,11 +2429,11 @@ VII.- Las Tesorerías Municipales se abstendrán de imponer sanciones cuando se 
 
 Se impondrá multa por cada infracción de las previstas en el artículo 170 de esta ley, conforme a los montos que apruebe el Congreso del Estado en las leyes de ingresos de los Ayuntamientos.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
 ## TITULO NOVENO. Facultad Reglamentaria de los Ayuntamientos en Materia Hacendaria
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
 ### CAPITULO UNICO. Reglamentos, Circulares y demás Disposiciones Administrativas de Observancia General en Materia Hacendaria
 
@@ -2513,7 +2501,7 @@ EL SECRETARIO DE GOBIERNO
 
 Lic. Carlos Gámez Fimbres.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 B.O. 16 DE JULIO DE 1984.
 
@@ -2898,3 +2886,23 @@ B.O. 18 DE JULIO DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 6 DE AGOSTO DE 2012.
+
+Artículo Primero.- Las disposiciones contenidas en los artículos primero (modificaciones a la Ley de Hacienda del Estado), tercero (reformas a la Ley de Hacienda Municipal) y cuarto del presente Decreto (modificaciones a la Ley que Regula la Operación y Funcionamiento de los Establecimientos Destinados a la Fabricación, Envasamiento, Distribución, Almacenamiento, Transportación, Venta y Consumo de Bebidas con Contenido Alcohólico en el Estado de Sonora), entrarán en vigor a partir del 1° de enero de 2013 y las disposiciones contenidas en el artículo segundo del presente Decreto (reformas al Código Fiscal del Estado), entrarán en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- A partir de la entrada en vigor de las reformas contenidas en el artículo primero del presente Decreto, los contribuyentes propietarios o tenedores de vehículos registrados conforme a la normatividad establecida en la Ley del Impuesto Sobre Tenencia o Uso de Vehículos, pasarán a formar parte del Registro Estatal Vehicular, respecto a los vehículos que se les haya expedido placas de circulación en el territorio del Estado, así como aquellos que a partir de la vigencia de la presente Ley se den de alta ante la Secretaría de Hacienda.
+
+El Registro Estatal Vehicular a que se refiere el primer párrafo de este artículo, se integrará con datos de los vehículos de los contribuyentes que porten placas de la circunscripción territorial de esta Entidad Federativa que serán aquellos que contempla la Ley del Registro Público Vehicular de carácter federal. El Registro Estatal Vehicular estará conectado a los medios o sistemas que para efectos de intercambio de información determine la Secretaría de Hacienda y Crédito Público mediante sus disposiciones de carácter general.
+
+Artículo Cuarto.- Para los efectos de las modificaciones a la Ley que Regula la Operación y Funcionamiento de los Establecimientos Destinados a la Fabricación, Envasamiento, Distribución, Almacenamiento, Transportación, Venta y Consumo de Bebidas con Contenido Alcohólico en el Estado de Sonora, previstas en el artículo anterior se estará a lo siguiente:
+
+I.- Los permisionarios que se ubiquen dentro del supuesto a que se refiere el artículo 10 Fracción XV de la Ley que Regula la Operación y Funcionamiento de los Establecimientos Destinados a la Fabricación, Envasamiento, Distribución, Almacenamiento, Transportación, Venta y Consumo de Bebidas con Contenido Alcohólico en el Estado de Sonora, deberán presentar la licencia con la cual se encuentren operando a fin de que les sea canjeada bajo el giro de establecimiento que preste servicios de sorteos y juegos con apuestas, debiendo pagar los derechos correspondientes bajo la denominación del nuevo giro.
+
+Transcurrido el plazo a que se refiere la fracción II de este artículo, la Secretaría de Hacienda procederá de oficio a la cancelación de las licencias cuyos titulares no hayan solicitado su regularización conforme a esta Ley.
+
+II.- Para los efectos de lo dispuesto en los artículos 45 Bis y 50 Bis de la Ley que Regula la Operación y Funcionamiento de los Establecimientos Destinados a la Fabricación, Envasamiento, Distribución, Almacenamiento, Transportación, Venta y Consumo de Bebidas con Contenido Alcohólico en el Estado de Sonora, el canje de las licencias se efectuará en el transcurso de los meses de enero a mayo del año de calendario que corresponda y tendrá una vigencia de tres años, contados a partir del canje del presente ejercicio de 2012, debiendo presentarse para tales efectos, los requisitos correspondientes.
+
+Transcurrido el plazo a que se refiere el párrafo anterior, la Secretaría de Hacienda procederá de oficio a la cancelación de las licencias cuyos titulares no hayan solicitado su regularización conforme a esta Ley.
