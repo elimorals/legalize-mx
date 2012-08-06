@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "2011-11-10"
+last_updated: "2012-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 6 DE AGOSTO DE 2012.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976.
 
@@ -61,81 +61,215 @@ Cuando las Autoridades Fiscales presuman fundadamente que el causante no ha decl
 
 ## TITULO SEGUNDO. De los Impuestos
 
-### Capítulo Primero. Del Impuesto Predial
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-#### Sección Primera. Objeto del Impuesto
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 6 DE AGOSTO DE 2012)</small>
+
+### Capítulo Primero. De los Impuestos a los Servicios de Hospedaje y Extracción de Materiales no Mineralizados
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 6 DE AGOSTO DE 2012)</small>
+
+#### Sección Primera. Del Impuesto por la Prestación de Servicios de Hospedaje
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 6 DE AGOSTO DE 2012)</small>
+
+###### Artículo 5.
+
+Es objeto de este impuesto la prestación de servicios de hospedaje en el Estado de Sonora.
+
+Para los efectos de este impuesto, se considerarán servicios de hospedaje, la prestación de alojamiento o albergue temporal de personas a cambio de una contraprestación, dentro de los que quedan comprendidos los servicios prestados por hoteles, moteles, tiempo compartido, hostales, casas de huéspedes, villas, búngalos, campamentos, paraderos de casas rodantes, departamentos amueblados con fines de hospedaje para fines turísticos y otros establecimientos que brinden servicios de hospedaje de naturaleza turística.
+
+No se considerarán servicios de hospedaje, el albergue o alojamiento prestados por hospitales, clínicas, asilos, conventos, seminarios o internados.
+
+Los contribuyentes realizarán el traslado del impuesto a las personas a quienes se preste el servicio de hospedaje. Se entenderá por traslado del impuesto, el cobro o cargo que el contribuyente debe hacer a dichas personas del monto equivalente al impuesto establecido en este Capítulo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 6 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 5o.
 
 (DEROGADO, B.O. 31 DE DICIEMBRE DE 2004)
 
-###### Artículo 6o.
+###### Artículo 6.
 
-(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+Son sujetos del impuesto por la presentación de servicios de hospedaje las personas físicas y morales que presten servicios de hospedaje en el Estado de Sonora.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 6 DE AGOSTO DE 2012)</small>
+
+###### Artículo 7.
+
+El impuesto a que se refiere este Capítulo se causará al momento que se perciban los valores correspondientes a las contraprestaciones por los servicios de hospedaje, incluyendo depósitos, anticipos, gastos, reembolsos, intereses normales y moratorios, penas convencionales y cualquier otro concepto, que deriven de la prestación de dicho servicio.
+
+Cuando los contribuyentes convengan la prestación de servicios de hospedaje e incluyan servicios accesorios tales como transportación, comida, uso de instalaciones u otros similares y no desglosen y comprueben la prestación de estos últimos, se entenderá que el valor de la contraprestación respectiva corresponde a servicios de hospedaje.
+
+Tratándose de servicios de hospedaje prestados bajo el sistema o modalidad de tiempo compartido, será base del impuesto, el monto de los pagos que se reciban por cuotas considerando únicamente el importe desglosado del servicio de hospedaje.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 6 DE AGOSTO DE 2012)</small>
+
+###### Artículo 8.
+
+La tasa del impuesto será del 2% sobre el valor de las contraprestaciones que los contribuyentes perciban por los servicios de hospedaje.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 6 DE AGOSTO DE 2012)</small>
+
+###### Artículo 9.
+
+El impuesto a que se refiere el presente Capítulo se calculará por mes de calendario. Los sujetos obligados realizarán el pago a más tardar el día 20 del mes siguiente a aquél en que se causó, mediante declaración mensual en las formas aprobadas por la Secretaría de Hacienda, que deberán presentar en la oficina recaudadora que corresponda al domicilio en donde se hayan proporcionado los servicios.
+
+El caso de que un contribuyente cuente con dos o más inmuebles para servicios de hospedaje, deberá presentar la declaración a que se refiere el párrafo anterior respecto de cada uno de ellos, a excepción de los inmuebles colindantes, por los que se presentará una sola declaración.
+
+Los contribuyentes del impuesto por la prestación de servicios de hospedaje, deberán formular declaraciones hasta en tanto no presenten el aviso de baja al Registro Estatal de Contribuyentes o de suspensión temporal de actividades.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 6 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 10.
 
-(DEROGADO, B.O. 31 DE DICIEMBRE DE 2004)
+El importe de los recursos recaudados por este Impuesto se destinará a los municipios donde se recaude, de la siguiente manera:
+
+Un 90% de los recursos captados en el municipio de que se trate, serán aportados a un fideicomiso de administración que para el efecto se creará, el cual deberá aplicar los recursos en los rubros de promoción, difusión y publicidad turística, del municipio en donde se recaudó, sus atractivos turísticos y mejoras materiales de los mismos y en general para realizar acciones tendientes a promover el turismo del municipio.
+
+El 10% restante, deberá ser utilizado por el Estado en tareas de administración, cumplimiento de obligaciones y fiscalización del impuesto.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 6 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 11.
 
-(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+Dentro de los 20 días naturales de cada mes, el Gobierno del Estado aportará el 90% del total de los ingresos recaudados por este Impuesto en el mes inmediato anterior, al fideicomiso público que administrará los recursos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 6 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 12.
 
-(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+El fideicomiso que se señala en el artículo anterior, tendrá como fideicomitente al Gobierno del Estado, como fiduciaria a la institución fiduciaria que mejores condiciones ofrezca y como fideicomisarios a los ayuntamientos de los municipios.
+
+El comité técnico del fideicomiso estará integrado por un representante del Gobierno del Estado, por un representante del ayuntamiento de que se trate y por un representante del ramo hotelero del municipio correspondiente.
+
+En la constitución del fideicomiso deberán estar de acuerdo en su contenido, las partes integrantes del comité técnico, manteniéndose en suspenso el cobro de este impuesto en los municipios que no formen parte del fideicomiso o que no se adhiera con posterioridad.
+
+La constitución del fideicomiso o su adhesión, deberá publicarse en el Boletín Oficial del Gobierno del Estado, para que al día siguiente de su publicación surja la obligación de cubrir y recaudar este impuesto.
+
+El comité técnico del fideicomiso determinará los importes y programas en que deberá invertirse el patrimonio fideicomitido. Para que puedan aplicarse los recursos del fideicomiso en cada municipio será necesario que los importes y programas a realizar, sean aprobados en forma unánime por el representante del ayuntamiento, del representante del sector hotelero del municipio de que se trate y del Gobierno del Estado, integrantes del comité técnico.
+
+La cuenta pública estatal correspondiente, deberá reflejar la aplicación que se haga de lo recaudado por este concepto en los términos del presente Capítulo, tomando como base los fines de este impuesto, respecto de cada municipio.
+
+El fideicomiso presentará al Instituto Superior de Auditoría Fiscal, a más tardar en el mes de mayo de cada año, un informe financiero de la aplicación y destino de los recursos entregados por el Gobierno del Estado durante el año inmediato anterior.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 6 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 13.
 
-(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+Los pagos por concepto del Impuesto por la Prestación de Servicios de Hospedaje no causarán el Impuesto para el Sostenimiento de la Universidad de Sonora y las Contribuciones para el Consejo Estatal de Concentración para la Obra Pública, establecidos en la presente Ley.
 
-#### Sección Segunda. Sujeto del Impuesto
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-###### Artículo 7o.
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 6 DE AGOSTO DE 2012)</small>
 
-(DEROGADO, B.O. 31 DE DICIEMBRE DE 2004)
+#### Sección Segunda. Del Impuesto Sobre la Extracción o Remoción de Suelo y Subsuelo de Materiales no Mineralizados
 
-###### Artículo 8o.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-(DEROGADO, B.O. 31 DE DICIEMBRE DE 2004)
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 6 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 14.
 
-(DEROGADO, B.O. 3 DE FEBRERO DE 1979)
+Es objeto de este impuesto la extracción o remoción del suelo y subsuelo de materiales que constituyan depósitos de igual naturaleza a los componentes de los terrenos, tales como: rocas no mineralizadas o material estéril y sustrato o capa fértil.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 6 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 15.
 
-(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+Son sujetos del pago de este impuesto las personas físicas y morales o unidades económicas que dentro del territorio del Estado de Sonora extraigan o remuevan del suelo y subsuelo materiales que constituyan depósitos de igual o semejante naturaleza a los componentes del terreno, tales como: rocas no mineralizadas o material estéril y sustrato o capa fértil.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 6 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 16.
 
-(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+La base de este Impuesto será:
+
+I.- El volumen de metros cúbicos del material extraído o removido a que se refiere el artículo 14 de esta Ley, tratándose de material que puede utilizarse para la fabricación de materiales de construcción o se destinen a este fin.
+
+II.- El peso en toneladas del material extraído o removido a que se refiere el artículo 14 de esta Ley, en los demás casos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 6 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 17.
 
-(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+La tasa de este Impuesto se aplicará:
+
+I.- El 0.14 veces el salario mínimo general vigente de la zona económica de que se trate, por cada metro cúbico que se extraiga o remueva tratándose de extracción o remoción de materiales que pueden utilizarse para la fabricación de materiales de construcción o se destinen a este fin.
+
+II.- El 0.0014 veces el salario mínimo general vigente de la zona económica de que se trate, por cada tonelada que se extraiga o remueva en los demás casos.
+
+El Impuesto Sobre la Extracción o Remoción de Suelo y Subsuelo de Materiales no Mineralizados a que se refiere esta Sección que resulte a cargo de los sujetos obligados, no excederá de la cantidad de $ 2, 000,000.00.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 6 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 18.
 
-(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+Los contribuyentes sujetos de este impuesto, efectuarán sus pagos, a más tardar el día 20 del mes siguiente al que ocurran las actividades a que se refiere el artículo 14 de esta Ley, mediante declaración que presentarán en las formas autorizadas por la Secretaria de Hacienda o a través de los medios electrónicos dispuestos por ésta.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 6 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 19.
 
-(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+Son obligaciones de los contribuyentes del impuesto a que se refiere esta Sección, además de las establecidas en el Código Fiscal del Estado, las siguientes:
+
+I.- Las personas físicas y morales o unidades económicas que para efecto de impuestos federales tengan su domicilio fiscal en otras entidades, pero que realicen las actividades a que se refiere esta Sección, deberán registrar como domicilio fiscal estatal, el lugar en donde se originen sus actos.
+
+II.- Pagar el impuesto correspondiente en la forma y los términos previstos en esta Sección.
+
+III.- Inscribirse en el Registro Estatal de Contribuyentes en la oficina recaudadora que corresponda al lugar de la ubicación de los terrenos explotados.
+
+IV.- Llevar un libro de registros de extracción o remoción de material, en el que se hará constar diariamente la cantidad en metros cúbicos o toneladas que se extraiga o remueva del suelo y subsuelo.
+
+V.- Presentar a más tardar el último día hábil del mes de febrero, mediante escrito libre, la declaración informativa en la que conste de manera clara, el Registro Federal de Contribuyentes, domicilio, nombre, denominación o razón social de las personas físicas, morales o unidades económicas a quienes, en el ejercicio anterior le hubiese suministrado cualquier material de los referidos en el artículo 14; así como el volumen de metros cúbicos o peso en toneladas del material proveído.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 6 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 20.
 
-(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+La realización de pagos por concepto del Impuesto Sobre la Extracción o Remoción de Suelo y Subsuelo de Materiales no Mineralizados, no causarán el Impuesto para el Sostenimiento de la Universidad de Sonora y las Contribuciones para el Consejo Estatal de Concertación para la Obra Pública, establecidos en la presente Ley,
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 6 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 21.
 
-(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA, B.O. 29 DE DICIEMBRE DE 1983)
+Son responsables solidarios en el pago del Impuesto a que se refiere la presente Sección, los propietarios, arrendadores o poseedores de los predios en donde se realice la extracción o remoción de suelo y subsuelo de materiales no mineralizados.
 
 #### Sección Tercera. Base, Tasas, Exenciones y Reducciones
-
-###### Artículo 9o.
-
-(DEROGADO, B.O. 31 DE DICIEMBRE DE 2004)
 
 #### Sección Cuarta. Definiciones
 
@@ -1739,89 +1873,613 @@ Tampoco podrán los encargados del Registro Público cancelar las inscripciones 
 
 Los Notarios, Jueces y Encargados del Registro Público de la Propiedad que no dén cumplimiento a las obligaciones que se les imponen y que traigan consigo la omisión total o parcial de créditos fiscales a cargo de los sujetos del impuesto, son solidariamente responsables en el pago de los mismos.
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-#### Sección Tercera. Impuesto Estatal Sobre Tenencia o Uso de Vehículos
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 6 DE AGOSTO DE 2012)</small>
+
+#### Sección Tercera. Impuesto Especial para el Fortalecimiento de la Infraestructura Municipal
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 6 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 212-A.
 
-(DEROGADO, B.O. 31 DE DICIEMBRE DE 2004)
+Es objeto de este impuesto la tenencia o uso de vehículos que se efectúe en el territorio del Estado de Sonora.
+
+Para los efectos de este impuesto se entiende por vehículos a los automóviles, pick-up, motocicletas, aeronaves, embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas, tablas de oleaje con motor, omnibuses, minibuses, microbuses, midibuses, autobuses integrales, camiones, tractores no agrícolas tipo quinta rueda, trimotos, y cuatrimotos.
+
+Se considera que el uso o tenencia del vehículo se efectúa dentro de la circunscripción territorial del Estado, cuando se de cualquiera de los siguientes supuestos:
+
+I.- La inscripción del vehículo se realice en el Registro Público Vehicular del Estado de Sonora.
+
+II.- Las personas físicas o las morales, tenedoras o usuaria de los vehículos se encuentren domiciliadas en el territorio del Estado.
+
+III.- Se expida el permiso provisional para circulación en traslado del vehículo.
+
+IV.- Se hayan tramitado placas de transporte público federal ante las autoridades federales competentes radicadas en el Estado, tratándose de vehículos destinados a dichos servicios.
+
+V.- Se hayan tramitado los certificados de aeronavegabilidad ante las autoridades federales competentes con circunscripción territorial en el Estado.
+
+VI.- Se realice la inspección de seguridad marítima por las autoridades federales competentes con circunscripción territorial en el Estado.
+
+VII.- Las personas físicas o morales cuya actividad sea la enajenación de vehículos nuevos o importados, los asignen a su propio servicio o al de sus funcionarios o empleados.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 6 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 212-B.
 
-(DEROGADO, B.O. 31 DE DICIEMBRE DE 2004)
+Están obligadas al pago de este impuesto las personas físicas y morales tenedoras o usuarias de los vehículos a que se refiere esta Sección.
+
+Para los efectos de esta Sección, se presume que el propietario es tenedor o usuario del vehículo.
+
+La Federación, el Estado y sus Municipios, así como sus organismos y entidades o cualquier otra persona, deberán pagar el Impuesto Especial para el Fortalecimiento de la Infraestructura Municipal, que establece esta Sección, con las excepciones que en la misma se señalan, aún cuando de conformidad con otras leyes o decretos no estén obligados a pagar impuestos locales o estén exentos de ellos.
+
+Las personas físicas o morales cuya actividad sea la enajenación de vehículos nuevos o importados, que asignen dichos vehículos a su servicio o al de sus funcionarios o empleados, deberán pagar el impuesto por el ejercicio en que hagan la asignación, en los términos previstos en el artículo 212-G 11 de esta Sección.
+
+En la enajenación o importación de vehículos nuevos de año modelo posterior al de aplicación de esta Sección, se pagará el impuesto correspondiente al año de calendario en que se enajene o importe, según corresponda. El impuesto para dichos vehículos se determinará en el siguiente año de calendario bajo el criterio de vehículo nuevo.
+
+En caso de que no puedan comprobarse los años de antigüedad del vehículo, el impuesto a que se refiere esta Sección, se pagará como si éste fuese nuevo.
+
+Cuando la enajenación o importación de vehículos nuevos se efectúe después del primer mes del año de calendario, el impuesto causado por dicho año se pagará en la proporción que resulte de aplicar el factor correspondiente:
+
+Mes de adquisición Factor aplicable al impuesto causado
+
+Febrero 0.92
+
+Marzo 0.83
+
+Abril 0.75
+
+Mayo 0.67
+
+Junio 0.58
+
+Julio 0.50
+
+Agosto 0.42
+
+Septiembre 0.33
+
+Octubre 0.25
+
+Noviembre 0.17
+
+Diciembre 0.08
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 6 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 212-C.
 
-(DEROGADO, B.O. 31 DE DICIEMBRE DE 2004)
+Son solidariamente responsables del pago del impuesto establecido en esta Sección:
+
+I.- Quienes por cualquier título adquieran la propiedad, tenencia o uso del vehículo, por el adeudo del impuesto que en su caso existiera, aún cuando se trate de personas que no están obligadas al pago de este impuesto.
+
+II.- Quienes reciban en consignación o comisión para su enajenación vehículos, por el adeudo del impuesto que en su caso existiera.
+
+III.- Las autoridades competentes, que autoricen el registro de vehículos, permisos provisionales para circulación en traslado, matrículas, altas, canje, cambios o bajas, de placas, sin haberse cerciorado que no existan adeudos por este impuesto, correspondiente a los últimos cinco años, salvo en los casos en que el contribuyente acredite que se encuentra liberado de esta obligación.
+
+IV.- Las autoridades competentes que expidan los certificados de aeronavegabilidad o de inspección de seguridad a embarcaciones y los certificados de matrícula para las aeronaves, cuando al expedirlos el tenedor o usuario del vehículo no compruebe el pago del impuesto establecido en esta Sección, a excepción de los casos en que se encuentre liberado de ese pago.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 6 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 212-D.
 
-(DEROGADO, B.O. 31 DE DICIEMBRE DE 2004)
+Para efectos de esta Sección, se entiende por:
+
+I.- Vehículo nuevo:
+
+a) El que se enajena por primera vez al consumidor por el fabricante, ensamblador, distribuidor o comerciantes en el ramo de vehículos.
+
+b) El importado definitivamente al país que corresponda al año modelo posterior al de aplicación de esta Sección, al año modelo en que se efectúe la importación, o a los nueve años modelos inmediatos anteriores al año de la importación definitiva.
+
+Il.- Valor total del vehículo, el precio de enajenación del fabricante, ensamblador, distribuidor autorizado, importador, empresas comerciales con registro ante la Secretaría de Economía como empresa para importar autos usados o comerciantes en el ramo de vehículos, según sea el caso, al consumidor, incluyendo el equipo que provenga de fábrica o el que el enajenante le adicione a solicitud del consumidor, incluyendo las contribuciones que se deban pagar con motivo de la importación, a excepción del impuesto al valor agregado.
+
+En el valor total del vehículo a que hace referencia el párrafo anterior, no se incluirán los intereses derivarlos de créditos otorgados para la adquisición del mismo.
+
+III.- Marca, las denominaciones y distintivos que los fabricantes de vehículos dan a estos para diferenciarlos de los demás.
+
+IV.- Año modelo, el año de fabricación o ejercicio automotriz comprendido, por el periodo entre el 1o. de octubre del año anterior y el 30 de septiembre del año que transcurra.
+
+V.- Modelo, todas aquellas versiones de la carrocería básica con dos, tres, cuatro o cinco puertas que se deriven de una misma línea. Por carrocería básica se entenderá, el conjunto de piezas metálicas o de plástico, que configuran externamente a un vehículo y de la que derivan los diversos modelos.
+
+VI.- Versión, cada una de las distintas presentaciones comerciales que tiene un modelo.
+
+VII.- Línea:
+
+a) Automóviles y pick-up, con motor de gasolina o gas hasta de 4 cilindros.
+
+b) Automóviles y pick-up, con motor de gasolina o gas de 6 u 8 cilindros.
+
+c) Automóviles y pick-up, con motor diesel.
+
+d) Automóviles y pick-up, eléctricos.
+
+e) Automóviles y pick-up, híbridos.
+
+f) Camiones con motor de gasolina, gas o diesel.
+
+g) Tractores no agrícolas tipo quinta rueda.
+
+h) Omnibuses.
+
+i) Autobuses integrales.
+
+j) Minibuses.
+
+k) Microbuses.
+
+l) Midibuses
+
+m) Motocicletas.
+
+n) Trimotos.
+
+ñ) Cuatrimotos.
+
+o) Motocicletas acuáticas.
+
+p) Aeronaves.
+
+q) Embarcaciones.
+
+r) Veleros.
+
+s) Tablas de oleaje con motor.
+
+t) Esquís acuáticos motorizados.
+
+VIII.- Comerciantes en el ramo de vehículos, a las personas físicas y morales cuya actividad sea la importación y enajenación de vehículos nuevos o usados.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 6 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 212-E.
 
-(DEROGADO, B.O. 31 DE DICIEMBRE DE 2004)
+Será base de este impuesto el valor total del vehículo consignado en la primera facturación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 6 DE AGOSTO DE 2012)</small>
+
+Apartado 1
+
+Vehículos Nuevos
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 6 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 212-F.
 
-(DEROGADO, B.O. 31 DE DICIEMBRE DE 2004)
+Tratándose de vehículos nuevos el impuesto se calculará como a continuación se indica:
+
+I.- En el caso de vehículos nuevos, destinados al transporte hasta de quince pasajeros, incluidos los vehículos pick-up, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo, la siguiente:
+
+Límite Límite Cuota fija ($) Tasa para aplicar-
+
+Inferior ($) Superior o Tasa base % se sobre el exce dente del límite inferior %
+
+0.01 526,657.78 0.00 3.0
+
+526,657.79 1,013,523.64 15,799.73 8.7
+
+1,103,523.65 1,362,288.13 58,157.06 13.3
+
+1,362,288.14 1,711,052.62 104,542.74 16.8
+
+1,711,052.63 En adelante 163,135.16 19.1
+
+Las cantidades anteriormente descritas se encuentran actualizadas al 28 de diciembre de 2009.
+
+Tratándose de automóviles blindados, excepto camiones, la tarifa a que se refiere esta fracción, se aplicará sobre el valor total del vehículo, sin incluir el valor del material utilizado para el blindaje. En ningún caso, el impuesto que se tenga que pagar por dichos vehículos, será mayor al que tendría que pagarse por la versión de mayor precio de enajenación de un automóvil sin blindaje del mismo modelo y año. Cuando no exista vehículo sin blindar que corresponda al mismo modelo, año o versión del automóvil blindado, el impuesto para este último, será la cantidad que resulte de aplicar al valor total del vehículo, la tarifa establecida en esta fracción, multiplicando el resultado por e! factor de 0.80.
+
+II.- Para automóviles nuevos destinados al transporte de más de quince pasajeros o efectos cuyo peso bruto vehicular sea menor a 15 toneladas, excepto pick-up, y para automóviles nuevos que cuenten con placas de servicio público de transporte de pasajeros y los denominados "taxis", el impuesto será la cantidad que resulte de aplicar el 0.245% al valor total del automóvil Cuando el peso bruto vehicular sea de 15 a 35 toneladas, el impuesto se calculará multiplicando la cantidad que resulte de aplicar el 0.50% al valor total del automóvil, por el factor fiscal que resulte de dividir el peso bruto máximo vehicular expresado en toneladas, entre 30. En el caso de que el peso sea mayor de 35 toneladas se tomará como peso bruto máximo vehicular esta cantidad.
+
+Para los efectos de esta fracción, peso bruto vehicular es el peso del vehículo totalmente equipado incluyendo chasis, cabina, carrocería, unidad de arrastre con el equipo y carga útil transportable.
+
+Para los efectos de este artículo, se entiende por vehículos destinados a transporte de más de 15 pasajeros o para el transporte de efectos, los camiones, tractores no agrícolas tipo quinta rueda, así como minibuses, microbuses, midibuses, omnibuses y autobuses integrales, cualquiera que sea su tipo y peso bruto vehicular.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 6 DE AGOSTO DE 2012)</small>
+
+Apartado 2
+
+Otros Vehículos Nuevos
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 6 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 212-G.
 
-(DEROGADO, B.O. 31 DE DICIEMBRE DE 2004)
+En este apartado se establecen las disposiciones aplicables a las aeronaves, embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas, tablas de oleaje con motor, automóviles eléctricos, motocicletas, trimotos y cuatrimotos.
 
-> <small>(REFORMADA SU DENOMINACIÓN, B.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-###### Artículo 212
-
-M BIS.- Son sujetos de este impuesto las personas físicas, morales o unidades económicas sin personalidad jurídica, que en el territorio del Estado realicen las actividades de prestación de servicios a que se refiere el artículo 212-M de esta Ley.
-
-> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 212
 
-M BIS 1.- Será base de este Impuesto:
+G 1.- Tratándose de aeronaves nuevas, el impuesto será la cantidad que resulte de multiplicar el peso máximo, incluyendo la carga de la aeronave expresado en toneladas, por la cantidad de $9,557.39, para aeronaves de pistón, turbohélice y helicópteros, y por la cantidad de $10,294.49, para aeronaves de reacción.
 
-I.- En los de juegos con apuestas, el monto total de las apuestas, una vez disminuido el valor de los premios efectivamente pagados o entregados conforme a las disposiciones aplicables.
+Las cantidades anteriormente descritas se encuentran actualizadas al 28 de diciembre de 2009.
 
-II.- En los juegos en los que la apuesta se realice mediante fichas, tarjetas, contraseñas, bandas magnéticas, dispositivos electrónicos u objetos similares, que se utilicen para apostar en sustitución de cantidades de dinero y sean aceptadas para esos fines por la persona que realice el juego, el valor total de las cantidades equivalentes en moneda nacional que amparen dichos medios, una vez disminuido el valor de los premios efectivamente pagados o entregados conforme a las disposiciones aplicables.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-III.- En el caso de concursos, el monto total de los ingresos obtenidos por las inscripciones que permitan participar en el evento, una vez disminuido el valor de los premios efectivamente pagados o entregados conforme a las disposiciones aplicables.
-
-Tratándose de premios en especie, en los eventos a que se refieren las fracciones anteriores de este artículo el monto que se podrá disminuir será el que corresponda al valor con el que se promocione el premio, en su defecto, el valor de facturación y en ausencia de ambos, el valor que tenga el premio en el mercado, así como las cantidades efectivamente devueltas a los participantes, siempre que las devoluciones se efectúen previo a la realización del evento y éstas se encuentren debidamente registradas en la contabilidad del contribuyente.
-
-Cuando el monto de las disminuciones a que se refieren las fracciones anteriores de este artículo sean superiores a la base gravable correspondiente al mes de que se trate, la diferencia se amortizará en los meses siguientes hasta agotarse.
-
-> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 212
 
-M BIS 2.- Sobre la base gravable se aplicará la tasa del 6%.
+G 2.- Tratándose de embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas y tablas de oleaje con motor, nuevos, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo de que se trate el 1.5%.
 
-> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-###### Artículo 212
-
-M BIS 3.- Este impuesto se causa en el momento que se entreguen a los participantes fichas, tarjetas, contraseñas, bandas magnéticas, dispositivos electrónicos u objetos similares, que se utilicen para apostar en sustitución de cantidades de dinero y sean aceptadas para esos fines por la persona que realice el juego o en el momento de participación en el concurso.
-
-> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 212
 
-M BIS 4.- No se pagará este impuesto cuando la prestación del servicio a que se refiere este impuesto se realice por organismos o instituciones de enseñanza con reconocimiento de validez oficial de estudios, de asistencia social o de beneficencia, debidamente autorizadas por las Leyes de la materia.
+G 3.- Tratándose de motocicletas, trimotos y cuatrimotos, nuevas, el impuesto se calculará aplicando al valor total de este tipo de vehículos, la siguiente:
 
-> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
+TARIFA
+
+Límite Límite Cuota fija($) Tasa para aplicar-
+
+Inferior ($) Superior ($) o Tasa base % se sobre el exce dente del límite inferior %
+
+0.01 220,660.00 0.00 3.00
+
+220,660.01 303, 459.28 6,619.80 8.7
+
+303,459.29 407,882.92 13,823.33 13.3
+
+407,882.93 En adelante 27,711.67 16.8
+
+Las cantidades anteriormente descritas se encuentran actualizadas al 28 de diciembre de 2009.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 212
 
-M BIS 5.- Los sujetos obligados al pago de los impuestos a que se refiere esta Sección, realizarán el pago a más tardar el día 20 del mes siguiente a aquél al que corresponda el pago, debiendo presentarse la declaración tratándose del Impuesto Estatal Sobre los Ingresos Derivados por la Obtención de Premios, en la oficina recaudadora que corresponda al domicilio en donde hayan sido pagados o entregados los premios y tratándose del Impuesto Estatal por la Prestación de Servicios de Juegos con Apuestas y Concursos, en la oficina recaudadora que corresponda al domicilio en donde se hayan organizado o celebrado tales eventos. Dicho pago se entenderá definitivo.
+G 4.- Tratándose de automóviles eléctricos nuevos, así como de aquellos eléctricos nuevos que, además, cuenten con motor de combustión interna o con motor accionado por hidrógeno, el impuesto se pagará a la tasa de 0%.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 212
 
-Ñ.- La realización de pagos por concepto del Impuesto Estatal Sobre los Ingresos Derivados por la Obtención de Premios y del Impuesto Estatal por la Prestación de Servicios de Juegos con Apuestas y Concursos, no causarán el Impuesto para el Sostenimiento de la Universidad de Sonora y las Contribuciones Para el Consejo Estatal de Concertación para la Obra Pública, establecidos en la presente Ley.
+G 5.- Para los efectos de lo dispuesto en los artículos 212-F, 212-G 1, 212-G 3 y 212 G 6, los montos de las cantidades que en los mismos se señalan se actualizarán cuando el incremento porcentual acumulado del Índice Nacional de Precios al Consumidor desde el mes en que se actualizaron por última vez de conformidad con las disposiciones fiscales federales, exceda del 10%. Dicha actualización se llevará a cabo a partir del mes de enero del siguiente ejercicio fiscal a aquél en el que se haya dado dicho incremento, aplicando el factor correspondiente al periodo comprendido desde el mes en el que éstas se actualizaron por última vez y hasta el último mes del ejercicio en el que se exceda el por ciento citado. Dicho factor se obtendrá dividiendo el Índice Nacional de Precios al Consumidor del mes de noviembre del año anterior a aquel para el cual se realizará la actualización entre el citado Índice correspondiente al mes de noviembre del año en que se realizó la última actualización. La Secretaria de Hacienda del Gobierno del Estado publicará el factor de actualización en el Boletín Oficial del Estado de Sonora.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 6 DE AGOSTO DE 2012)</small>
+
+Apartado 3
+
+Vehículos Usados
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
+
+###### Artículo 212
+
+G 6.- Tratándose de vehículos de más de diez años de fabricación anteriores al de aplicación de esta Sección, el impuesto se pagará conforme a la siguiente:
+
+TABLA
+
+TIPO DE VEHÍCULOS CUOTA
+
+AERONAVES
+
+Pistón (Hélice) $ 2,115. 74
+
+Turbohélice 11,710.12
+
+Reacción 16,918.38
+
+HELICÓPTEROS 2,600.99
+
+Las cantidades anteriormente descritas se encuentran actualizadas al 28 de diciembre de 2009.
+
+El monto de las cuotas establecidas en este artículo se actualizará con el factor a que se refiere el artículo 212-G 5 de esta Sección.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
+
+###### Artículo 212
+
+G 7.- Tratándose de vehículos de fabricación nacional o importados, a que se refiere el artículo 212-F, fracción II de esta Sección, así como de aeronaves, excepto automóviles destinados al transporte de hasta quince pasajeros y vehículos pick-up, el impuesto será el que resulte de multiplicar el importe del impuesto sobre tenencia o uso de vehículos de carácter federal causado en el ejercicio fiscal inmediato anterior al de aplicación de esta Ley, por el factor que corresponda conforme a los años de antigüedad del vehículo, de acuerdo con la siguiente:
+
+TABLA
+
+AÑOS ANTIGÜEDAD FACTOR DE ANTIGÜEDAD
+
+1 0.900
+
+2 0.889
+
+3 0.875
+
+4 0.857
+
+5 0.833
+
+6 0.800
+
+7 0.750
+
+8 0.667
+
+9 0.500
+
+El resultado obtenido conforme al párrafo anterior, se actualizará de acuerdo con lo dispuesto en el artículo 212-G 5.
+
+En los años posteriores, al de la aplicación de este gravamen, el impuesto será el que resulte de multiplicar el importe de este impuesto causado en el ejercicio fiscal inmediato anterior, por el factor que corresponda conforme a los años de antigüedad del vehículo, de acuerdo con la tabla de este artículo.
+
+Tratándose de automóviles de servicio particular que pasen a ser de servicio público de transporte denominados "taxis", el Impuesto Especial para, el Fortalecimiento de la Infraestructura Municipal, se calculará, para el ejercicio fiscal siguiente a aquél en el que se dé esta circunstancia, conforme al siguiente procedimiento:
+
+I.- El valor total del automóvil se multiplicará por el factor de antigüedad, de acuerdo al año modelo del vehículo, de conformidad con la tabla establecida en este artículo; y
+
+II.- La cantidad obtenida conforme a la fracción anterior se actualizará de conformidad con lo dispuesto en el artículo 212-G 5 de esta Sección y el resultado obtenido se multiplicará por 0.50%.
+
+Para los efectos de este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
+
+###### Artículo 212
+
+G 8.- Tratándose de vehículos de fabricación nacional o importados, de hasta nueve años modelo anteriores al de aplicación de esta Sección, destinados al transporte de hasta quince pasajeros, incluidos los vehículos pick-up, el impuesto será el que resulte de aplicar el procedimiento siguiente:
+
+I.- El valor total del vehículo se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la siguiente:
+
+TABLA
+
+AÑOS ANTIGÜEDAD FACTOR DE ANTIGÜEDAD
+
+1 0.850
+
+2 0.725
+
+3 0.600
+
+4 0.500
+
+5 0.400
+
+6 0.300
+
+7 0.225
+
+8 0.150
+
+9 0.075
+
+II.- La cantidad obtenida conforme a la fracción anterior, se actualizará de conformidad con lo dispuesto en el artículo 212-G 5 de esta Sección, al resultado se le aplicará la tarifa a que hace referencia el artículo 212-F.
+
+Para efectos de la depreciación y actualización a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
+
+###### Artículo 212
+
+G 9.- Tratándose de embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas y tablas de oleaje con motor, usados, el impuesto será el que resulte de aplicar el procedimiento siguiente:
+
+I.- El valor total del vehículo de que se trate se multiplicará por el factor de depreciación de acuerdo al año modelo, de conformidad con la siguiente:
+
+TABLA
+
+Años antigüedad Factor de depreciación
+
+1 0.9250
+
+2 0.8500
+
+3 0.7875
+
+4 0.7250
+
+5 0.6625
+
+6 0.6000
+
+7 0.5500
+
+8 0.5000
+
+9 0.4500
+
+10 0.4000
+
+11 0.3500
+
+12 0.3000
+
+13 0.2625
+
+14 0.2250
+
+15 0.1875
+
+16 0.1500
+
+17 0.1125
+
+18 0.0750
+
+19 y siguientes 0.0375
+
+II.- La cantidad obtenida conforme a la fracción anterior, se actualizará de conformidad con lo dispuesto en el artículo 212-G 5 de esta Sección; al resultado se le aplicará la tasa a que hace referencia el artículo 212-G 2 de dicha Sección.
+
+Para los efectos de la depreciación y actualización a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
+
+###### Artículo 212
+
+G 10.- Tratándose de motocicletas, trimotos y cuatrimotos, de fabricación nacional o importada, de hasta nueve años modelo anteriores al de aplicación de esta Sección, el impuesto será el que resulte de aplicar el procedimiento siguiente:
+
+I.- El valor total de este tipo de vehículos, se multiplicará por el factor de depreciación de acuerdo al año modelo del vehículo, de conformidad con la siguiente:
+
+TABLA
+
+Años antigüedad Factor de depreciación
+
+1 0.9
+
+2 0.8
+
+3 0.7
+
+4 0.6
+
+5 0.5
+
+6 0.4
+
+7 0.3
+
+8 0.2
+
+9 0.1
+
+II.- La cantidad obtenida conforme a la fracción anterior, se actualizará de conformidad con lo dispuesto en el artículo 212-G 5 de esta Sección; al resultado se le aplicará la tarifa a que hace referencia el artículo 212-G 3 de dicha Sección.
+
+Para efectos de la depreciación a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda al vehículo.
+
+Tratándose de motocicletas, trimotos y cuatrimotos de más de diez años modelos anteriores al de aplicación de esta Sección, el impuesto se pagará de conformidad con los ordenamientos fiscales municipales aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
+
+###### Artículo 212
+
+G 11.- Los contribuyentes pagarán el impuesto por año de calendario durante los seis primeros meses ante las oficinas autorizadas por la Secretaría de Hacienda, salvo en el caso de vehículos nuevos o importados, supuesto en el que el impuesto deberá calcularse y enterarse dentro de los quince días hábiles siguientes al de su enajenación o importación. El pago del impuesto a que se refiere esta Sección se comprobará de conformidad con las disposiciones del Código Fiscal del Estado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
+
+###### Artículo 212
+
+G 12.- No se pagará el impuesto, en los términos de esta Sección, por la tenencia o uso de los siguientes vehículos:
+
+I.- Los eléctricos utilizados para el transporte público de personas.
+
+II.- Los importados temporalmente en los términos de la legislación aduanera.
+
+III.- Los vehículos de la Federación, el Estado y sus Municipios que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, transportes de limpia, pipas de agua, servicios funerarios, y las ambulancias dependientes de cualquiera de esas entidades o de instituciones de beneficencia autorizadas por las leyes de la materia y los destinados a los cuerpos de bomberos.
+
+IV.- Los automóviles al servicio de misiones Diplomáticas y Consulares de carrera extranjera y de sus agentes diplomáticos y consulares de carrera, excluyendo los cónsules generales honorarios, cónsules y vicecónsules honorarios, siempre que sea exclusivamente para uso oficial y exista reciprocidad.
+
+V.- Los que tengan para su venta los fabricantes, las plantas ensambladoras, sus distribuidores y los comerciantes en el ramo de vehículos, siempre que carezcan de placas de circulación.
+
+VI.- Las embarcaciones dedicadas al transporte mercante o a la pesca comercial.
+
+VII.- Las aeronaves monomotoras de una plaza, fabricadas o adaptadas para fumigar, rociar o esparcir líquidos o sólidos, con tolva de carga; y
+
+VIII.- Las aeronaves con capacidad de más de 20 pasajeros, destinadas al aerotransporte, del público en general.
+
+Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el tenedor o usuario del mismo deberá pagar el impuesto correspondiente dentro de los 15 días siguientes a aquel en que tenga lugar el hecho de que se trate.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
+
+###### Artículo 212
+
+G 13.- Cuando el vehículo sufra, por alguna causa, destrucción total, en el ejercicio fiscal correspondiente y se acredite mediante peritaje de autoridades o de empresas aseguradoras, el impuesto se pagará en forma proporcional de acuerdo con el siguiente procedimiento:
+
+I.- El 100% del impuesto del ejercicio en el que se origina la pérdida, se multiplicará por el factor que a continuación se señala, y el resultado será el impuesto a pagar.
+
+TABLA
+
+Mes en que ocurre la pérdida %
+
+Enero 8.00
+
+Febrero 17.00
+
+Marzo 25.00
+
+Abril 33.00
+
+Mayo 42.00
+
+Junio 50.00
+
+Julio 58.00
+
+Agosto 67.00
+
+Septiembre 75.00
+
+Octubre a Diciembre 100.00
+
+II.- Los contribuyentes tendrán derecho a la devolución cuando hayan enterado la totalidad del impuesto en los casos a que se refiere el presente artículo, correspondiente al ejercicio en que se origina la pérdida, debiendo efectuar su solicitud dentro de los quince días hábiles siguientes al de la determinación del siniestro por parte de la autoridad o instancia correspondiente, la cual se realizará en forma proporcional al mes en que ocurra el siniestro conforme a la siguiente tabla:
+
+TABLA
+
+Mes de siniestro %
+
+Enero/Febrero .92
+
+Marzo .83
+
+Abril .75
+
+Mayo .67
+
+Junio .58
+
+Julio .50
+
+Agosto .42
+
+Septiembre .33
+
+Octubre a Diciembre .25
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
+
+###### Artículo 212
+
+G 14.- Los tenedores o usuarios de los vehículos a que se refieren las fracciones II y III del artículo 212-G 12 y 212-G 13 anteriores, para gozar del beneficio que los mismos establecen, deberán comprobar ante la Secretaría de Hacienda que se encuentran comprendidos en dichos supuestos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
+
+###### Artículo 212
+
+G 15.- Los fabricantes, ensambladores y distribuidores autorizados, así como los comerciantes en el ramo de vehículos, que tengan establecimiento en el Estado, tendrán la obligación de proporcionar a la Secretaría de Hacienda a más tardar el día 17 de cada mes, la información relativa al precio de enajenación al consumidor de cada unidad vendida en el territorio estatal en el mes inmediato anterior, a través de medios electrónicos procesados en los términos que señale dicha Secretaría. Los qué tengan más de un establecimiento, deberán proporcionar esta información, haciendo la separación por cada uno de los establecimientos.
+
+Tratándose de automóviles de más de diez años modelos anteriores al de aplicación de esta Sección, el impuesto se pagará de conformidad con los ordenamientos fiscales municipales aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 #### Sección Cuarta
 
@@ -1833,15 +2491,25 @@ Apartado 1
 
 Del Impuesto Estatal Sobre los Ingresos Derivados por la Obtención de Premios.
 
-> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Artículo 212 H.- Es objeto de este Impuesto la obtención de ingresos por premios derivados de loterías, rifas, sorteos y concursos de toda clase, cuando el premio haya sido pagado o entregado en el territorio del Estado, no obstante que el organizador y el evento mismo de cuyo resultado dependa la obtención del ingreso por premio, se encuentre y/o celebren dentro o fuera del territorio estatal.
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 6 DE AGOSTO DE 2012)</small>
+
+###### Artículo 212-H.
+
+Es objeto de este Impuesto la obtención de ingresos por premios derivados de loterías, rifas, sorteos, quinielas, apuestas y concursos de toda clase, cuando el beneficiario tenga su domicilio en el territorio del Estado de Sonora independientemente de que el premio haya sido pagado o entregado en dicho territorio, no obstante que el organizador y el evento mismo de cuyo resultado dependa la obtención del ingreso por premio, se encuentren y/o celebren dentro o fuera del territorio estatal.
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
 
 No se considerarán como ingresos por premios el reintegro correspondiente al comprobante que permitió participar en el evento de que se trate.
 
-> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Artículo 212 I.- Son sujetos de este Impuesto las personas físicas, morales o unidades económicas sin personalidad jurídica que obtengan ingresos por premios derivados de loterías, rifas, sorteos y concursos de toda clase, cuando el premio haya sido pagado o entregado en el territorio del Estado, no obstante que el organizador y el evento mismo de cuyo resultado dependa la obtención del ingreso por premio, se encuentren y/o celebren dentro o fuera del territorio estatal. Las personas o instituciones que organicen, vendan o enajenen los comprobantes que permitan participar en los eventos objeto de este impuesto, les deberán retener el impuesto que se cause.
+> <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
+
+###### Artículo 212-I.
+
+Son sujetos de este Impuesto las personas físicas, morales o unidades económicas sin personalidad jurídica que obtengan ingresos por premios derivados de loterías, rifas, sorteos y concursos de toda clase, cuando el beneficiario tenga su domicilio en el territorio del Estado de Sonora, independientemente de que el premio haya sido pagado o entregado en dicho territorio, no obstante que el organizador y el evento mismo de cuyo resultado dependa la obtención del ingreso por premio, se encuentren y/o celebren dentro o fuera del territorio estatal. Las personas o instituciones que organicen, vendan o enajenen los comprobantes que permitan participar en los eventos objeto de este impuesto, les deberán retener el impuesto que se cause.
 
 > <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -1863,13 +2531,79 @@ Apartado 2
 
 Del Impuesto Estatal por la Prestación de Servicios de Juegos con Apuestas y Concursos.
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 212-M.
 
-Es objeto de este impuesto las actividades de prestación de servicios consistentes en la realización en el territorio del Estado, de juegos con apuestas, independientemente del nombre con el que se les designe y que requieran permiso de conformidad con lo dispuesto en la Ley Federal de Juegos y Sorteos y su Reglamento, así como de juegos y concursos en los que el premio se obtenga por la destreza del participante en el uso de máquinas o que en su desarrollo utilicen imágenes visuales electrónicas como números, símbolos, figuras u otras similares.
+Es objeto de este impuesto las actividades de prestación de servicios consistentes en la realización en el territorio del Estado, de juegos con apuestas, independientemente del nombre con el que se les designe, así como de todas las actividades que requieran permiso de conformidad con lo dispuesto en la Ley Federal de Juegos y Sorteos y su Reglamento, así como de juegos, concursos y sorteos, en los que el premio se obtenga por la destreza del participante o del azar o la suerte, en el uso de máquinas o que en su desarrollo utilicen imágenes visuales electrónicas como números, símbolos, figuras u otras similares.
 
-Quedan comprendidos en los juegos con apuestas, aquellos en los que sólo se reciban, capten, crucen o exploten apuestas y en los concursos aquellos en los que intervenga directa o indirectamente el azar.
+Quedan comprendidos en los juegos con apuestas, aquellos en los que solo se reciban, capten, crucen o exploten apuestas y en los concursos aquellos en los que intervengan directa e indirectamente el azar.
+
+Se considera dentro del concepto de premio a que se refiere el párrafo primero de este artículo, los premios que previo un tiempo de juego, provengan de máquinas tragamonedas, los cuales a cambio de una cantidad de dinero o ficha pagada o pre pagada, se otorgan por el prestatario del servicio en efectivo o por medio electrónico, como tarjeta de crédito o débito, monedero electrónico o trasferencia electrónica emitida desde cuentas bancarias o·en vales canjeables por dinero en efectivo o bienes muebles.
+
+Las máquinas a que se refiere el párrafo anterior incluyen, de manera enunciativa más no limitativa, las siguientes:
+
+I.- Máquinas programadas.- En las cuales el premio depende de un programa interno en la máquina, de tal forma que al cabo de una secuencia de jugadas la máquina ha de devolver una cantidad determinada de la que se ha introducido en ella, sean de tipo mecánico o digital, que se utilicen programas computarizados o sistemas electrónicos de cualquier tipo.
+
+II.- Máquinas de azar.- En las cuales los premios dependen exclusivamente del azar.
+
+Las máquinas a que se refieren las fracciones I y II, anteriores, son con independencia de que se trate de máquinas digitales o de rodillos, máquinas mixtas, en las que se combinen rodillos en el juego inferior y un sistema digital en el superior, o incluso cuando se interactúe por medio de internet.
+
+III.- Maquinas electrónicas de bingo, juegos de números o de símbolos o video juegos electrónicos.
+
+Los pagos del Impuesto Sobre Loterías, Rifas o Sorteos efectuados en los términos de la Ley de Hacienda Municipal, se disminuirán de este Impuesto.
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 212
+
+G 16.- La realización de pagos por concepto del Impuesto Especial para el Fortalecimiento de la Infraestructura Municipal, no causarán el Impuesto para el Sostenimiento de la Universidad de Sonora y las Contribuciones para el Consejo Estatal de Concertación para la Obra Pública, establecidos en la presente Ley.
+
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 30 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 212
+
+M BIS.- Son sujetos de este impuesto las personas físicas, morales o unidades económicas sin personalidad jurídica, que en el territorio del Estado realicen las actividades de prestación de servicios a que se refiere el artículo 212-M de esta Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
+
+###### Artículo 212
+
+M BIS 1.- Será base de este Impuesto:
+
+I.- En los de juegos con apuestas, el monto total de las apuestas, y en los sorteos y las actividades a que se refiere el artículo 212-M de la presente Ley, el monto total del valor de la emisión, una vez disminuido el valor de los premios efectivamente pagados o entregados conforme a las disposiciones aplicables.
+
+Il.- En los juegos, sorteos y actividades a que se refiere el artículo 212-M de la presente Ley, en los que la apuesta o valor de la emisión se realice mediante fichas, tarjetas, contraseñas, bandas magnéticas, dispositivos electrónicos u objetos similares, que se utilicen para apostar o participar en sustitución de cantidades de dinero y sean aceptadas para esos fines por la persona que realice el juego, el valor total de las cantidades equivalentes en moneda nacional que amparen dichos medios, una vez disminuido el valor de los premios efectivamente pagados o entregados conforme a las disposiciones aplicables.
+
+III.- En el caso de concursos, el monto total de los ingresos obtenidos por las inscripciones que permitan participar en el evento, una vez disminuido el valor de los premios efectivamente pagados o entregados conforme a las disposiciones aplicables.
+
+Tratándose de premios en especie, en los eventos a que se refieren las fracciones anteriores de este artículo el monto que se podrá disminuir será el que corresponda al valor con el que se promocione el premio, en su defecto, el valor de facturación y en ausencia de ambos, el valor que tenga el premio en el mercado, así como las cantidades efectivamente devueltas a los participantes, siempre que las devoluciones se efectúen previo a la realización del evento y éstas se encuentren debidamente registradas en la contabilidad del contribuyente.
+
+Para efectos de este Impuesto se entiende por valor de la emisión, el monto total cuantificado en dinero o equivalente en moneda nacional, del valor nominativo de los comprobantes de participación en un sorteo.
+
+Cuando el monto de las disminuciones a que se refieren las fracciones anteriores de este artículo sea superior al valor de las actividades correspondientes al mes de que se trate, la diferencia se amortizará en los meses siguientes hasta agotarse.
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 212
+
+M BIS 2.- Sobre la base gravable se aplicará la tasa del 6%.
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 212
+
+M BIS 3.- Este impuesto se causa en el momento que se entreguen a los participantes fichas, tarjetas, contraseñas, bandas magnéticas, dispositivos electrónicos u objetos similares, que se utilicen para apostar en sustitución de cantidades de dinero y sean aceptadas para esos fines por la persona que realice el juego o en el momento de participación en el concurso.
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 212
+
+M BIS 4.- No se pagará este impuesto cuando la prestación del servicio a que se refiere este impuesto se realice por organismos o instituciones de enseñanza con reconocimiento de validez oficial de estudios, de asistencia social o de beneficencia, debidamente autorizadas por las Leyes de la materia.
 
 > <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
 
@@ -1895,17 +2629,27 @@ IV.- Conservar a disposición de las autoridades fiscales y exhibir cuando se le
 
 > <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
 
+###### Artículo 212
+
+M BIS 5.- Los sujetos obligados al pago de los impuestos a que se refiere esta Sección, realizarán el pago a más tardar el día 20 del mes siguiente a aquél al que corresponda el pago, debiendo presentarse la declaración tratándose del Impuesto Estatal Sobre los Ingresos Derivados por la Obtención de Premios, en la oficina recaudadora que corresponda al domicilio en donde hayan sido pagados o entregados los premios y tratándose del Impuesto Estatal por la Prestación de Servicios de Juegos con Apuestas y Concursos, en la oficina recaudadora que corresponda al domicilio en donde se hayan organizado o celebrado tales eventos. Dicho pago se entenderá definitivo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 212
+
+Ñ.- La realización de pagos por concepto del Impuesto Estatal Sobre los Ingresos Derivados por la Obtención de Premios y del Impuesto Estatal por la Prestación de Servicios de Juegos con Apuestas y Concursos, no causarán el Impuesto para el Sostenimiento de la Universidad de Sonora y las Contribuciones Para el Consejo Estatal de Concertación para la Obra Pública, establecidos en la presente Ley.
+
 ### Capítulo Sexto. De los Impuestos Sobre Productos del Trabajo
 
 #### Sección Primera. Del impuesto Sobre Remuneraciones al Trabajo Personal
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 213.
 
-Es objeto de este impuesto, la realización de pagos en dinero o en especie por concepto de remuneración al trabajo personal prestado bajo la dirección o dependencia de un patrón, así como las remuneraciones por honorarios a personas que presenten servicios preponderantemente a un prestatario, siempre que los mismos se lleven a cabo en las instalaciones de este último.
-
-Para los efectos del párrafo anterior, se entiende que una persona presta servicios preponderantemente a un prestatario, cuando los ingresos que hubiera percibido de dicho prestatario en el año de calendario inmediato anterior, representen más del 50% del total de los ingresos obtenidos.
+Es objeto de este Impuesto, la realización de pagos en dinero o en especie por concepto de remuneración al trabajo personal prestado bajo la dirección o dependencia de un patrón, así como las remuneraciones por honorarios a personas que presen (sic) servicios a un prestatario, en el supuesto en que los mismos se lleven a cabo en las instalaciones de este último, o independientemente del lugar en que se presten.
 
 > <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
 
@@ -2813,11 +3557,13 @@ Toda la recaudación que por concepto de ésta contribución se obtenga en cada 
 
 ### Capítulo Segundo. Servicios de Empadronamiento
 
-### Capítulo Tercero. Servicios por la Expedición y Revalidación de Licencias para la Venta de Bebidas con Contenido Alcohólico
+### Capítulo Tercero. Servicios por la Expedición, Revalidación y Canje de Licencias Para la Venta de Bebidas con Contenido Alcohólico
 
 > <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2010, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL B.O. DE 1 DE JULIO DE 2010.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 ### Capítulo Cuarto. Servicios de Ganadería
 
@@ -3035,6 +3781,18 @@ Los incrementos en las cuotas o tarifas de los Derechos se calcularán sobre el 
 
 Para determinar las cuotas de los derechos establecidos en esta Ley, se considerarán, inclusive, las fracciones del nuevo peso; no obstante lo anterior, para efectuar su pago, el monto se ajustará para que las que contengan cantidades que incluyan de 1 hasta 50 centavos se ajusten a la unidad del nuevo peso inmediata anterior y las que contengan cantidades de 51 a 99 centavos se ajusten a la unidad del nuevo peso inmediata superior.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
+
+La cuota de derechos por el servicio ordinario de expedición de actas del Registro Civil en las oficialías, a que se refiere el artículo 325 fracción II de esta Ley, no será objeto de la actualización a que se refiere el presente artículo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE DE 2012)</small>
+
+Tratándose de las cuotas de los derechos por los servicios prestados por la Comisión Estatal de Bienes y Concesiones a que se refiere el artículo 326 fracción VIII de esta Ley, únicamente se actualizarán en el mes de enero de cada año de conformidad con el tercer párrafo del presente artículo.
+
 > <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 300.
@@ -3055,7 +3813,9 @@ Cuando el pago de derechos deba efectuarse con posterioridad a la prestación de
 
 Los derechos por servicios de empadronamiento a que se refieren diversos preceptos del Código Fiscal del Estado de Sonora y de esta Ley de Hacienda, causarán una cuota de $ 25.00.
 
-> <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE DICIEMBRE DE 2000)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 6 DE AGOSTO DE DE 2012)</small>
 
 ### Capítulo Octavo. De los servicios prestados por la Dirección General de Documentación y Archivo
 
@@ -3065,7 +3825,7 @@ Los derechos por servicios de empadronamiento a que se refieren diversos precept
 
 ###### Artículo 302.
 
-Los servicios de expedición, cambios de domicilio, cambios de propietario y revalidación de licencias para la venta y consumo de bebidas con contenido alcohólico, causarán derechos conforme a las siguientes cuotas:
+Los servicios de expedición, cambio de domicilio, cambio de propietario, revalidación y canje de licencias para la venta y consumo de bebidas con contenido alcohólico, causarán derechos conforme a las siguientes cuotas:
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -3075,9 +3835,17 @@ a).- Fábrica. $300,000.00
 
 b).- Agencia distribuidora. $300,000.00
 
-c).- Expendio. $300,000.00
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-d).- Cantina, billar o boliche. $200,000.00
+> <small>(REFORMADO, B.O. 6 DE AGOSTO DE DE 2012)</small>
+
+c).- Expendio. $495,596.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 6 DE AGOSTO DE DE 2012)</small>
+
+d).- Cantina. $330.399.00
 
 e).- Restaurante. $50,000.00
 
@@ -3089,7 +3857,11 @@ h).- Tienda departamental. $175,000.00
 
 i).- Tienda de abarrotes. $200,000.00
 
-j).- Centro nocturno. $300,000.00
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 6 DE AGOSTO DE DE 2012)</small>
+
+j).- Centro nocturno. $495,596.00
 
 k).- Centro de eventos o salón de baile. $200,000.00
 
@@ -3101,6 +3873,30 @@ n).- Porteadora. $30,000.00
 
 ñ).- Autorizaciones con fines determinados. Por día. $1,500.00
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE DE 2012)</small>
+
+o).- Billar o boliche. $263,049.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE DE 2012)</small>
+
+p).- Centro nocturno con espectáculos de baile
+
+semidesnudos de hombres y/o mujeres, mayores
+
+de edad. $495,596.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE DE 2012)</small>
+
+q).- Establecimiento de prestación de servicios de
+
+juegos con apuestas. $552,781.00
+
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
 II.- Por la revalidación:
@@ -3109,23 +3905,39 @@ a).- Fábrica. $45,000.00
 
 b).- Fábrica de producto regional típico. $3,000.00
 
-c) Agencia distribuidora. $45,000.00
+c).- Agencia distribuidora. $45,000.00
 
-d).- Expendio. $35,000.00
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-e).- Cantina, billar o boliche. $15,000.00
+> <small>(REFORMADO, B.O. 6 DE AGOSTO DE DE 2012)</small>
+
+d).- Expendio. $43,814.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 6 DE AGOSTO DE DE 2012)</small>
+
+e).- Cantina. $21,907.00
 
 f).- Restaurante. $5,000.00
 
-f (sic)).- Restaurante con bar anexo. $8,000.00
+f (sic).- Restaurante con bar anexo. $8,000.00
 
-g).- Tienda de autoservicio. $20,000.00
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 6 DE AGOSTO DE DE 2012)</small>
+
+g).- Tienda de autoservicio. $27,123.00
 
 h).- Tienda departamental. $45,000.00
 
 i).- Tienda de abarrotes. $5,000.00
 
-j).- Centro nocturno. $45,000.00
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 6 DE AGOSTO DE DE 2012)</small>
+
+j). Centro nocturno. $56,333.00
 
 k).- Centro de eventos o salón de baile. $17,500.00
 
@@ -3135,6 +3947,30 @@ m).- Hotel o motel. $10,000.00
 
 n).- Porteadora. $3,750.00
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE DE 2012)</small>
+
+ñ).- Billar o boliche. $16,196.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE DE 2012)</small>
+
+o).- Centro nocturno con espectáculos de
+
+baile semidesnudos de hombres y/o mujeres,
+
+mayores de edad. $65,722.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE DE 2012)</small>
+
+p).- Establecimiento de prestación de
+
+servicios de juegos con apuestas. $68,069.00
+
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
 III.- Por expedición de guías para porteadores. $500.00
@@ -3142,6 +3978,12 @@ III.- Por expedición de guías para porteadores. $500.00
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
 IV.- Por cada certificación expedida por la Dirección General de Bebidas Alcohólicas. $320.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE DE 2012)</small>
+
+Las copias certificadas de las licencias a que se refiere la fracción I del presente artículo, tendrán validez dentro del ejercicio fiscal en el cual se expidan.
 
 > <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
@@ -3165,11 +4007,47 @@ Cuando en un solo trámite se realicen simultáneamente dos o más trámites, so
 
 VI.- Por los servicios que a continuación se indican se causarán los siguientes derechos:
 
-a).- Por ampliación provisional del horario, por hora, por día $500.00
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-b).- Por reposición de la licencia o permiso en los casos de robo, extravío o destrucción $1.000.00
+> <small>(REFORMADO, B.O. 6 DE AGOSTO DE DE 2012)</small>
 
-c).- Por cambio de nombre del establecimiento sin que implique cambio de propietario $1.000.00
+a).- Por ampliación provisional de horario,
+
+por hora, por día. $500.00
+
+Tratándose de los giros a que se refieren las
+
+fracciones IV y IX del artículo 10 de la
+
+Ley que Regula la Operación y
+
+Funcionamiento de los Establecimientos
+
+Destinados a la Fabricación, Envasamiento,
+
+Distribución, Almacenamiento, Transportación,
+
+Venta y Consumo de Bebidas con Contenido
+
+Alcohólico en el Estado de Sonora, la cuota
+
+aplicable por la ampliación provisional de
+
+horario, por hora, por día será de. $10,000.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 6 DE AGOSTO DE DE 2012)</small>
+
+b).- Por reposición de la licencia o permiso. $ 2,408.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 6 DE AGOSTO DE DE 2012)</small>
+
+c).- Por cambio de nombre del establecimiento
+
+sin que implique cambio de propietario. $ 2,408.00
 
 > <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
 
@@ -3184,6 +4062,60 @@ cambio de giro o cambio de nombre comercial. $5, 000.00
 VII.- Durante el período correspondiente a los trámites administrativos relacionados con la obtención de la licencia de funcionamiento para la venta y consumo de bebidas con contenido alcohólico, a petición del solicitante y previa evaluación de los motivos que la justifiquen, la Secretaría de Hacienda podrá expedir permisos provisionales, previo pago de los derechos correspondientes, hasta por tres meses, renovable por una sola ocasión por el plazo solicitado inicialmente, sin que su expedición implique la autorización de la licencia definitiva.
 
 La expedición de estos permisos provisionales causará derechos por cada mes o fracción, a razón de una doceava parte de la tarifa establecida en la fracción I del presente artículo, para el giro correspondiente a la licencia en trámite.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, B.O. 6 DE AGOSTO DE DE 2012)</small>
+
+VIII.- Por él canje de licencias, en el año fiscal que corresponda:
+
+a). Fábrica. $49,087.00
+
+b). Agencia distribuidora. $49,087.00
+
+c). Expendio. $44,314.00
+
+d). Cantina. $22,407.00
+
+e). Restaurante. $ 5,899.00
+
+f). Restaurante con bar anexo. $ 9,138.00
+
+g). Tienda de autoservicio. $27,623.00
+
+h). Tienda departamental. $49.087.00
+
+i). Tienda de abarrotes. $ 5,899.00
+
+j). Centro nocturno. $56,833.00
+
+k). Centro de evento o salón de baile. $19,395.00
+
+l). Centro deportivo o recreativo. $11,297.00
+
+m). Hotel o motel. $11,297.00
+
+n). Porteadora. $ 4,549.00
+
+ñ). Fábrica de producto regional típico. $ 3,740.00
+
+o). Billar o Boliche. $16,696.00
+
+p). Centro nocturno con espectáculos de
+
+baile semidesnudos de hombres y/o
+
+mujeres, mayores de edad. $66,222.00
+
+q). Establecimiento de prestación de
+
+servicios de juegos con apuestas. $68,569.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE DE 2012)</small>
+
+Cuando se realice el canje de la licencia correspondiente, no se cobrarán los derechos de revalidación contenida en la fracción II de este artículo.
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -3215,7 +4147,9 @@ Cuando se lleven a cabo traspasos, cambios de propietarios o de razón social y 
 
 > <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2010, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL B.O. DE 1 DE JULIO DE 2010.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 307.
 
@@ -3471,6 +4405,14 @@ e).- Revalidación trianual, que deberá solicitarse en los primeros cuatro mese
 
 f).- Reposición de la constancia de revalidación trianual a petición del solicitante. $ 244.00
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
+
+13.- Por constancia de no inhabilitación de
+
+servidor público. $176.00
+
 > <small>(REFORMADA SU DENOMINACION, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ### Capítulo Décimo Segundo. Inspección Sanitaria
@@ -3643,17 +4585,31 @@ XI.- Por la expedición de constancias del archivo administrativo de Servidores 
 
 ###### Artículo 312.
 
-Las placas tipo único para todos los vehículos, se clasifican en los siguientes grupos, aplicándose para su expedición, canje, revalidación o baja, las tarifas que siguen conforme a sus especificaciones:
+Las placas tipo único para todos los vehículos, se clasifican en los siguientes grupos, aplicándose para su expedición, canje, revalidación o baja, los siguientes derechos conforme a sus especificaciones:
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 1.- Transporte privado, que deberán ostentar los vehículos de propulsión mecánica para uso particular:
 
-a) Por expedición o canje. $ 600.00
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-b) Por revalidación anual. $ 434.00
+> <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
-c) Por baja $ 70.00
+a).- Por expedición o canje. $ 760.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
+
+b).- Por revalidación anual $ 570.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
+
+c).- Por baja. $ 100.00
 
 > <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
@@ -3669,11 +4625,21 @@ b) Por revalidación anual. $ 300.00
 
 c) Por baja $ 70.00
 
-3.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 1977)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 6 DE AGOSTO DE 2012)</small>
+
+3.- Por expedición de tarjeta de circulación,
+
+incluyendo vehículos o maquinaria, agrícolas. $ 1,000.00
 
 4.- PLACAS FRONTERIZAS: Ostentarán placas fronterizas los vehículos de propulsión mecánica, importados a las zonas o perímetros libres del Estado y causarán los derechos según la clase o uso a que se destine el vehículo, conforme a las especificaciones anteriores,
 
-5.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 1977)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 6 DE AGOSTO DE 2012)</small>
+
+5.- Por verificación de pedimento de importación. $ 300.00
 
 > <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
 
@@ -3701,9 +4667,11 @@ Tratándose de permisos para circular sin placas por el traslado de vehículos e
 
 El pago de los derechos por la expedición de placas se efectuará dentro de los 15 días siguientes al de la fecha de adquisición tratándose de vehículos nuevos; en los casos de cambio de propietario, de uso o de destino, se efectuará dentro de los 15 días siguientes a partir de que se realice la operación de que se trate y tratándose de vehículos importados a las zonas o perímetros libres del Estado o interior del País, a partir de los 15 días de efectuada la importación.
 
-> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-El pago de los derechos por revalidación anual de placas se efectuará durante los tres primeros meses del año de calendario que corresponda.
+> <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
+
+El pago de los derechos por revalidación anual de placas se efectuará durante los seis primeros meses del año de calendario que corresponda.
 
 > <small>(REFORMADO, B.O. 17 DE DICIEMBRE DE 2007)</small>
 
@@ -3747,7 +4715,9 @@ Tratándose de baja de placas por robo de vehículo previa la acreditación de l
 
 > <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2010, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL B.O. DE 1 DE JULIO DE 2010.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 316.
 
@@ -3757,33 +4727,49 @@ La expedición o renovación de licencias para conducir, así como los permisos 
 
 1.- Licencias:
 
-a).-De automovilista de acuerdo a su vigencia, como sigue:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Por dos años. $ 295.00
+> <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
-Por tres años. $ 395.00
+a).- De automovilista de acuerdo a su vigencia, como sigue:
 
-Por cuatro años. $ 495.00
+Por dos años. $ 342.00
+
+Por tres años. $ 458.00
+
+Por cuatro años. $ 574.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 b).- De chofer de acuerdo a su vigencia, como sigue:
 
-Por dos años. $ 350.00
+Por dos años. $ 406.00
 
-Por tres años. $ 450.00
+Por tres años. $ 522.00
 
-Por cuatro años. $ 550.00
+Por cuatro años. $ 637.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 c).- De operador de servicio público de transporte de acuerdo a su vigencia, como sigue:
 
-Por dos años. $ 350.00
+Por dos años. $ 406.00
 
-Por tres años. $ 450.00
+Por tres años. $ 522.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 d).- De motociclista como sigue:
 
-Por dos años. $190.00
+Por dos años. $ 221.00
 
-Por tres años. $220.00
+Por tres años. $ 255.00
 
 > <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
 
@@ -4127,9 +5113,15 @@ del avalúo. $ 303.00
 
 Se exceptúa del pago de este derecho cuando los títulos a que se refiere el párrafo anterior, se expidan con motivo de programas oficiales para satisfacer necesidades de vivienda.
 
-3.- En la adquisición de vivienda o de la hipoteca que se constituya, por cada operación. $ 778.00
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Tratándose de operaciones relativas a vivienda de interés social y popular cuyo valor al momento de la operación no exceda de la suma que resulte de multiplicar por 25 veces el salario mínimo general elevado al año, vigente en el área geográfica de que se trate, la cuota a que se refiere este punto se reducirá en un 50%.
+> <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
+
+3.- En la adquisición de vivienda o
+
+de la hipoteca que se constituya, por
+
+cada operación. $ 1,040.00
 
 4.- Por la inscripción de actos, contratos o convenios por los que se fraccionen, lotifiquen, relotifiquen, subdividan o fusionen predios rústicos o urbanos, o se constituya el régimen de condominio: $ 361.00
 
@@ -4281,9 +5273,11 @@ Independientemente de los derechos a que se refiere el párrafo anterior deberá
 
 23.- Por los servicios urgentes a petición del usuario se causará un derecho adicional equivalente al 50% sobre la cantidad fijada para el servicio que se solicite, los cuales se proporcionarán dentro de las 24 horas hábiles siguientes a su solicitud, de cuyos derechos se destinará el 70% como compensación al personal de la oficina y el restante 30% se aplicará para cubrir los gastos y erogaciones necesarios para la modernización de los servicios registrales.
 
-> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-La tasa expresada en 5 al millar, por los servicios a que se refiere este Capítulo, no excederá de la cantidad equivalente a 800 veces el salario mínimo general vigente correspondiente al área geográfica “A”.
+> <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
+
+La tasa expresada en 5 al millar, por los servicios a que se refiere este capítulo, no excederá de la cantidad equivalente a 1000 veces el salario mínimo general vigente correspondiente al área geográfica. A".
 
 ###### Artículo 322.
 
@@ -4359,9 +5353,17 @@ II.- Por la expedición de actas del Registro Civil en las oficialías:
 
 1.- Servicio Ordinario.
 
-1.1.- Impreso del libro (medio electrónico). $50.00
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-1.2.- Transcripción del libro (mecanografiada). $50.00
+> <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
+
+1.1.- Impreso del libro (medio electrónico). $ 70.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
+
+1.2.- Transcripción del libro (mecanografiada). $ 70.00
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -4765,11 +5767,11 @@ e).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2009)
 
 a).- Resolución de licencia de funcionamiento. $5, 737.00
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
-b).- Resolución de actualización de licencia:
+b).- Resolución de actualización de licencia ambiental integral.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -4817,11 +5819,11 @@ desarrollos turísticos, industriales o campestres,
 
 fuera del límite del centro de la población. $3,500.00
 
-> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-18.- Recepción y evaluación de solicitud de
+> <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
-licencia ambiental integral. $1, 589.00
+18.- Evaluación de solicitud de licencia ambiental integral.
 
 > <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
 
@@ -4915,13 +5917,15 @@ del Estado de Sonora, de manejo y disposición se pretenda
 
 final de residuos y su manejo integral. transferir
 
-> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 30.- Por la inscripción en el registro como
 
 empresa generadora de residuos de
 
-manejo especial. $ 100.00
+manejo especial. $ 1,000.00
 
 > <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
 
@@ -5221,9 +6225,13 @@ técnicos, universitarios y tecnológicos. $140.00
 
 16.- Expedición de cédula profesional. $ 500.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-17.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2009)
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 6 DE AGOSTO DE 2012)</small>
+
+17.- Expedición de cédula profesional de
+
+profesionista certificado. $ 255.00
 
 > <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
@@ -5236,6 +6244,12 @@ medio superior. $26.00
 19.- Gestión de registro de titulo, grado, especialidad
 
 y expedición ante la Federación. $ 227.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
+
+20.- Duplicado de cedula profesional. $ 255.00
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
@@ -5275,23 +6289,9 @@ elementos prospectos de seguridad privada. $ 65.00
 
 Los ingresos que se perciban por los derechos a que se refieren los puntos 3 y 4 anteriores, serán destinados exclusivamente para el fortalecimiento de los programas a cargo del Secretario Ejecutivo de Seguridad Pública y demás erogaciones necesarias para la adecuada y eficaz prestación del servicio.
 
-> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-5.- Por las evaluaciones que realice el Centro de Evaluación y Control de Confianza del Estado de Sonora a los integrantes de las instituciones de Seguridad Pública, en los procesos de selección de aspirantes, permanencia, desarrollo y promoción:
-
-a).- Aplicación del proceso de evaluación y
-
-control de confianza. $3, 500.00
-
-b).- Evaluación para portación de armas. $2, 500.00
-
-c ).- Evaluaciones especiales (que no apliquen
-
-pruebas de laboratorio). $2, 000.00
-
-Las cuotas serán generales para todas las instituciones públicas, gobierno estatal, gobiernos municipales, así como a sus organismos descentralizados y desconcentrados.
-
-Las cuotas a que se refiere este punto aplicarán a los prestadores de servicios de seguridad privada.
+5.- (DEROGADO, B.O. 6 DE AGOSTO DE 2012)
 
 > <small>(ADICIONADA, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
@@ -5513,21 +6513,37 @@ VIII.- Servicios prestados por la Comisión Estatal de Bienes y Concesiones.
 
 1.- Por el uso, goce, aprovechamiento o explotación de bienes del dominio público del Estado, se causarán las siguientes cuotas:
 
-a) Por el uso y explotación de un espacio público
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-para la instalación de máquinas expendedoras
+> <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
-de café, mensualmente. $ 400.00
+a) Por el uso y explotación de un espacio
 
-b) Por el uso y explotación de un espacio público
+público para la instalación de maquinas
 
-para la instalación de máquinas expendedoras de
+expendedoras de café, mensualmente. $ 400.00
 
-snack y sodas, mensualmente. $ 500.00
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-c) Por el uso y goce de inmuebles del dominio
+> <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
-público del Estado, mensualmente. $ 10.00 por m2
+b) Por el uso y explotación de un espacio
+
+público para la instalación de maquinas
+
+expendedoras de snack y sodas,
+
+mensualmente. $ 500.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
+
+c) Por el uso y goce de inmuebles de
+
+dominio público del estado,
+
+mensualmente. $ 10.00 por m2
 
 d) Por el uso o goce de inmuebles del dominio
 
@@ -5543,27 +6559,33 @@ tarifarios
 
 anuales
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
+
 2.- Por la explotación de bienes del dominio público del Estado (Auditorio Cívico del Estado).
 
 a) Escuelas públicas, instituciones de
 
-gobierno o instituciones de asistencia pública
+gobierno o instituciones de asistencia
 
-o beneficencia, por función. $ 7,000
+pública o beneficencia, por función. $ 7,000.00
 
-b) Empresarios foráneos, por función. $ 12,000
+b) Empresarios foráneos, por función. $12,000.00
 
-c) Empresarios locales, por función. $ 9,000
+c) Empresarios locales, por función. $ 9,000.00
 
 d) Empresarios locales por dos funciones
 
-en el mismo día. $ 12,000
+en el mismo día. $12,000.00
 
 e) Empresarios locales para obras infantiles,
 
-por función. $ 7,000
+por función. $ 7,000.00
 
-f) Instituciones privadas, por día. $ 15,000
+f) Instituciones privadas, por día. $15,000.00
+
+La realización de pagos por el uso, goce, aprovechamiento o explotación de bienes del dominio público del Estado a que se refieren los puntos 1 y 2 de esta fracción, no causarán el Impuesto para el Sostenimiento de la Universidad de Sonora y las contribuciones para el Consejo Estatal de Concertación para la Obra Pública, establecidos en la presente Ley.
 
 ## TITULO QUINTO. De los Productos y de los Aprovechamientos
 
@@ -6056,3 +7078,23 @@ B.O. 10 DE NOVIEMBRE DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir del día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 6 DE AGOSTO DE 2012.
+
+Artículo Primero.- Las disposiciones contenidas en los artículos primero (modificaciones a la Ley de Hacienda del Estado), tercero (reformas a la Ley de Hacienda Municipal) y cuarto del presente Decreto (modificaciones a la Ley que Regula la Operación y Funcionamiento de los Establecimientos Destinados a la Fabricación, Envasamiento, Distribución, Almacenamiento, Transportación, Venta y Consumo de Bebidas con Contenido Alcohólico en el Estado de Sonora), entrarán en vigor a partir del 1o de enero de 2013 y las disposiciones contenidas en el artículo segundo del presente Decreto (reformas al Código Fiscal del Estado), entrarán en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- A partir de la entrada en vigor de las reformas contenidas en el artículo primero del presente Decreto, los contribuyentes propietarios o tenedores de vehículos registrados conforme a la normatividad establecida en la Ley del Impuesto Sobre Tenencia o Uso de Vehículos, pasarán a formar parte del Registro Estatal Vehicular, respecto a los vehículos que se les haya expedido placas de circulación en el territorio del Estado, así como aquellos que a partir de la vigencia de la presente Ley se den de alta ante la Secretaría de Hacienda.
+
+El Registro Estatal Vehicular a que se refiere el primer párrafo de este artículo, se integrará con datos de los vehículos de los contribuyentes que porten placas de la circunscripción territorial de esta Entidad Federativa que serán aquellos que contempla la Ley del Registro Público Vehicular de carácter federal. El Registro Estatal Vehicular estará conectado a los medios o sistemas que para efectos de intercambio de información determine la Secretaría de Hacienda y Crédito Público mediante sus disposiciones de carácter general.
+
+Artículo Cuarto.- Para los efectos de las modificaciones a la Ley que Regula la Operación y Funcionamiento de los Establecimientos Destinados a la Fabricación, Envasamiento, Distribución, Almacenamiento, Transportación, Venta y Consumo de Bebidas con Contenido Alcohólico en el Estado de Sonora, previstas en el artículo anterior se estará a lo siguiente:
+
+I.- Los permisionarios que se ubiquen dentro del supuesto a que se refiere el artículo 10 Fracción XV de la Ley que Regula la Operación y Funcionamiento de los Establecimientos Destinados a la Fabricación, Envasamiento, Distribución, Almacenamiento, Transportación, Venta y Consumo de Bebidas con Contenido Alcohólico en el Estado de Sonora, deberán presentar la licencia con la cual se encuentren operando a fin de que les sea canjeada bajo el giro de establecimiento que preste servicios de sorteos y juegos con apuestas, debiendo pagar los derechos correspondientes bajo la denominación del nuevo giro.
+
+Transcurrido el plazo a que se refiere la fracción II de este artículo, la Secretaría de Hacienda procederá de oficio a la cancelación de las licencias cuyos titulares no hayan solicitado su regularización conforme a esta Ley.
+
+II.- Para los efectos de lo dispuesto en los artículos 45 Bis y 50 Bis de la Ley que Regula la Operación y Funcionamiento de los Establecimientos Destinados a la Fabricación, Envasamiento, Distribución, Almacenamiento, Transportación, Venta y Consumo de Bebidas con Contenido Alcohólico en el Estado de Sonora, el canje de las licencias se efectuará en el transcurso de los meses de enero a mayo del año de calendario que corresponda y tendrá una vigencia de tres años, contados a partir del canje del presente ejercicio de 2012, debiendo presentarse para tales efectos, los requisitos correspondientes.
+
+Transcurrido el plazo a que se refiere el párrafo anterior, la Secretaría de Hacienda procederá de oficio a la cancelación de las licencias cuyos titulares no hayan solicitado su regularización conforme a esta Ley.
