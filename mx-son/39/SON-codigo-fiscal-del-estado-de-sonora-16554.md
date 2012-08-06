@@ -4,7 +4,7 @@ identifier: "SON-codigo-fiscal-del-estado-de-sonora-16554"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-06-12"
-last_updated: "2010-12-30"
+last_updated: "2012-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # CODIGO FISCAL DEL ESTADO DE SONORA
 
-CODIGO FISCAL DEL ESTADO DE SONORA
+CÓDIGO FISCAL DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 6 DE AGOSTO DE 2012.
 
 Código publicado en la Segunda Sección del Boletín Oficial del Estado de Sonora, el lunes 12 de junio del 2000.
 
@@ -98,6 +98,10 @@ Son créditos fiscales los que tenga derecho a percibir el Estado que provengan 
 La recaudación, administración, determinación y cobranza provenientes de todos los ingresos que el Estado de Sonora tiene derecho a percibir, estarán a cargo del Ejecutivo del Estado quién ejercerá estas facultades por conducto de la Secretaría de Hacienda, a través de sus oficinas exactoras o autoridades fiscales coordinadas. También se podrán recaudar dichos ingresos en los cajeros automáticos de la Dependencia o en instituciones de crédito o tiendas comerciales, autorizadas para tal efecto.
 
 > <small>(DEROGADO TERCER PARRAFO, B.O. 14 DE AGOSTO DE 2007)</small>
+
+> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
+
+Las autoridades fiscales del Estado de Sonora ejercerán su competencia en el territorio del Estado de Sonora, conforme lo precisa este Código, demás leyes, el Reglamento Interior de la Secretaría de Hacienda que expida el Gobernador del Estado y demás disposiciones jurídicas aplicables.
 
 La Administración Pública Estatal, centralizada y paraestatal, en ningún caso contratarán adquisiciones, arrendamientos, servicios u obra pública, de conformidad con las disposiciones de este Código y las Leyes de Hacienda del Estado y Municipal. Igual obligación tendrán los Municipios del estado cuando realicen dichas contrataciones con cargo total o parcial a fondos estatales.
 
@@ -253,7 +257,7 @@ Tratándose de personas físicas y morales, residentes o establecidas fuera de l
 
 > <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
 
-Cuando los contribuyentes no hayan designado un domicilio fiscal estando obligado a ello, o hubieran designado como domicilio fiscal un lugar distinto al que les corresponda de acuerdo con lo dispuesto en este mismo precepto o cuando hayan manifestado un domicilio ficticio, las autoridades fiscales podrán practicar diligencias en cualquier lugar en el que se realicen sus actividades o en el lugar que conforme a este artículo se considere su domicilio fiscal, indistintamente. Lo establecido en este párrafo no es aplicable a las notificaciones que deban hacerse en el domicilio a que se refiere la fracción IV del artículo 22 de este Código.
+Cuando los contribuyentes no hayan designado un domicilio fiscal estando obligado a ello, o hubieran designado como domicilio fiscal un lugar distinto al que les corresponda de acuerdo con lo dispuesto en este mismo precepto o cuando hayan manifestado un domicilio ficticio, las autoridades fiscales podrán practicar diligencias en cualquier lugar en el que se realicen sus actividades o en el lugar que conforme a este articulo se considere su domicilio fiscal, indistintamente. Lo establecido en este párrafo no es aplicable a las notificaciones que deban hacerse en el domicilio a que se refiere la fracción IV del artículo 22 de este Código.
 
 ###### ARTÍCULO 16.
 
@@ -363,11 +367,9 @@ Quien promueva a nombre de otro deberá acreditar que la representación le fue 
 
 Se considera sujeto pasivo de un crédito fiscal a la persona física o moral, mexicana o extranjera que de conformidad con las disposiciones fiscales, se encuentra obligada al pago de una prestación determinada al Fisco Estatal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
-
-ARTÍCULO 24 BIS.- La Administración Pública Estatal, Centralizada y Paraestatal, en ningún caso contratarán adquisiciones, arrendamientos, servicios u obra pública, con las personas físicas o morales que no se encuentren al corriente en el cumplimiento de sus obligaciones fiscales, salvo que celebren convenio con las autoridades fiscales en los términos que este Código establece para cubrir a plazos, ya sea como pago diferido o en parcialidades, los adeudos fiscales que tengan a su cargo con los recursos que obtengan por enajenación, arrendamiento, servicios u obra pública que se pretendan contratar.
+ARTÍCULO 24 BIS.- Los Poderes del Estado, incluidas en el Poder Ejecutivo las entidades paraestatales, en ningún caso contratarán adquisiciones, arrendamientos, servicios u obra pública, con las personas físicas o morales que no se encuentren al corriente en el cumplimiento de sus obligaciones fiscales, salvo que celebren convenio con las autoridades fiscales en los términos que este Código establece para cubrir a plazos, ya sea como pago diferido o en parcialidades, los adeudos fiscales que tengan a su cargo con los recursos que obtengan por enajenación, arrendamiento, servicios u obra pública que se pretendan contratar.
 
 ###### ARTÍCULO 25.
 
@@ -1045,9 +1047,9 @@ Las opiniones o interpretaciones contenidas en los dictámenes, no obligan a las
 
 Los contribuyentes que se encuentren obligados legalmente a dictaminar sus estados financieros o que hubieren optado por hacerlo, de conformidad con lo dispuesto por las disposiciones fiscales federales, deberán cumplir con las siguientes obligaciones ante la Dirección General de Auditoria Fiscal de la Secretaría de Hacienda:
 
-> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, B.O. 6 DE AGOSTO DE 2012)</small>
 
-I.- Presentar copia del dictamen fiscal formulado ante el Servicio de Administración Tributaria, dentro de los seis días siguientes al haberse exhibido ante dicha autoridad federal; y
+I.- Presentar copia del dictamen fiscal enviado vía internet ante el Servicio de Administración Tributaria, dentro de los seis días siguientes al haberse exhibido ante dicha autoridad federal; y
 
 II.- Anexar a la copia del dictamen fiscal a que hace referencia la fracción anterior, los documentos mediante los cuales se determine la base y tasa de los impuestos Predial Estatal y Sobre Remuneración al Trabajo Personal, causados en el periodo que el citado dictamen comprende.
 
@@ -1055,7 +1057,7 @@ II.- Anexar a la copia del dictamen fiscal a que hace referencia la fracción an
 
 ###### ARTÍCULO 66.
 
-La copia del dictamen y los demás documentos a que hace referencia el articulo anterior, presentados fuera de los plazos previstos, no surtirán efecto alguno, salvo que la Dirección General de Auditoria Fiscal de la Secretaría de Hacienda considere que existen razones para admitir tales documentos caso en el cual deberá comunicar tal hecho al contribuyente con copia al contador público, dentro de los tres meses siguientes a la fecha de su presentación.
+La copia del dictamen y los demás documentos a que hace referencia el artículo anterior, presentados fuera de los plazos previstos, no surtirán efecto alguno, salvo que la Dirección General de Auditoria Fiscal de la Secretaría de Hacienda considere que existen razones para admitir tales documentos caso en el cual deberá comunicar tal hecho al contribuyente con copia al contador público, dentro de los tres meses siguientes a la fecha de su presentación.
 
 ###### ARTÍCULO 67.
 
@@ -1189,11 +1191,11 @@ III.- Señalen el nombre o domicilio de un tercero, real o ficticio, si se compr
 
 IV.- Se refieran a cobros o pagos efectuados por el contribuyente o por su cuenta, por persona interpósita o ficticia.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 76.
 
-Los hechos que se conozcan con motivo del ejercicio de las facultades de comprobación previstas en este Código o en las leyes fiscales, o bien que consten en los expedientes, documentos o bases de datos que lleven, tengan acceso o en su poder las autoridades fiscales, así como aquéllos proporcionados por otras autoridades, podrán servir para motivar las resoluciones de la Secretaria de Hacienda o de cualquier otra autoridad competente en materia de contribuciones federales.
+Los hechos que se conozcan con motivo del ejercicio de las facultades de comprobación previstas en este Código o en las leyes fiscales, o bien que consten en los expedientes, documentos o bases de datos que lleven, tengan acceso o en su poder las autoridades fiscales, así como aquellos proporcionados por otras autoridades, podrán servir para motivar las resoluciones de la Secretaría de Hacienda o de cualquier otra autoridad competente en materia de contribuciones.
 
 > <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -1298,6 +1300,10 @@ La imposición de las sanciones administrativas por infracción a las disposicio
 La aplicación de las multas, por infracciones a las disposiciones fiscales, se hará independientemente de que se exija el pago de las contribuciones respectivas y sus demás accesorios, así como de las penas que impongan las autoridades judiciales cuando se incurra en responsabilidad penal.
 
 Para efectuar el pago de las cantidades que resulten en los términos de este artículo, las mismas se ajustarán de conformidad con el artículo 18 de este Código.
+
+> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
+
+Cuando la multa aplicable a una misma conducta infraccionada, sea modificada posteriormente mediante reforma al precepto legal que la contenga, las autoridades fiscales aplicarán la multa que resulte menor entre la existente en el momento en que se cometió la infracción y la multa vigente en el momento de su imposición.
 
 ###### ARTÍCULO 82.
 
@@ -1443,6 +1449,20 @@ a).- De un 20% a un 30% del monto de las contribuciones omitidas o del beneficio
 
 Tratándose de la omisión de contribuciones por error aritmético en las declaraciones, se impondrá una multa del 20% al 25% de las contribuciones omitidas. En caso de que dichas contribuciones se paguen junto con sus accesorios, dentro de los 15 días hábiles siguientes a la fecha en que surta sus efectos la notificación de la diferencia respectiva, la multa se reducirá a la mitad, sin que para ello se requiera resolución administrativa.
 
+> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
+
+ARTÍCULO 89 BIS.- Tratándose de la omisión de los derechos vehiculares que a continuación se indican, se impondrán las multas siguientes:
+
+l.- Por no pagar total o parcialmente dentro de los plazos previstos en las leyes de la materia, los derechos de expedición o canje de placas, se impondrá una multa de 3.2685 a 6.0210 veces el salario mínimo general vigente si el pago correspondiente se efectúa dentro de los 1 a 90 días, posteriores al vencimiento de la obligación.
+
+II.- Por no pagar total o parcialmente dentro de los plazos previstos en las leyes de la materia, los derechos de expedición o canje de placas, se impondrá una multa de 6.5371 a 8.6014 veces el salario mínimo general vigente si el pago correspondiente se efectúa de los 91 días en adelante, posteriores al vencimiento de la obligación.
+
+III.- Por no pagar total o parcialmente los derechos de revalidación de placas dentro de los plazos fijados en las leyes de la materia, se impondrá una multa de 2.4428 a 4.3007 veces el salario mínimo general vigente si el pago correspondiente se efectúa durante el período de julio a septiembre del año que corresponda.
+
+IV.- Por no pagar total o parcialmente los derechos de revalidación de placas dentro de los plazos fijados en las leyes de la materia, se impondrá una multa de 4.9028 a 6.8811 veces el salario mínimo general vigente si el pago correspondiente se efectúa durante el período de octubre a diciembre del año que corresponda.
+
+En los supuestos a que se refiere este artículo no se aplicará la multa contenida en el artículo 90 fracción XVI, de este Código aplicable a los derechos.
+
 ###### ARTÍCULO 90.
 
 Son infracciones cuya responsabilidad recae sobre los sujetos pasivos:
@@ -1557,9 +1577,13 @@ e).- Exigir bajo el título de cooperación u otros semejantes cualquier prestac
 
 f).- Inscribir o registrar documentos, instrumentos o libros en los que no se hayan cumplido las disposiciones fiscales;
 
-g).- Extender actas, expedir certificados, legalizar firmas o autorizar libros o documentos sin exigir de los interesados el cumplimiento de las obligaciones fiscales; y,
+g).- Extender actas, expedir certificados, legalizar firmas o autorizar libros o documentos sin exigir de los interesados el cumplimiento de las obligaciones fiscales; y, (sic)
 
 XIV.- Negarse a proporcionar los elementos que se requieran para comprobar el cumplimiento de las obligaciones fiscales, ya sea por resistirse a las visitas domiciliarias, no suministrar los datos e informes que legalmente puedan exigir los visitadores, no mostrar los libros, documentos, registros, bodegas, depósitos, locales, o en cualquiera otra forma.
+
+> <small>(ADICIONADA, B.O. 6 DE AGOSTO DE 2012)</small>
+
+XV.- Oponerse o resistirse por cualquier medio a que se practique la visita en el domicilio fiscal o visitas de inspección. No suministrar los datos e informes que legalmente exijan las autoridades fiscales; ni proporcionar la contabilidad o parte de ella, el contenido de las cajas de valores, así como impedir el acceso a los almacenes, depósitos, bodegas a cualquiera otra dependencia y en general, los elementos que se requieran para comprobar el cumplimiento de obligaciones propias o de terceros.
 
 ###### ARTÍCULO 93.
 
@@ -1567,9 +1591,9 @@ Se impondrá multa por cada infracción de las previstas en los artículos 90, 9
 
 I.- De 8 a 20 veces el salario mínimo a las señaladas en el artículo 90 fracción XV y 91 fracción III;
 
-> <small>(REFORMADA, B.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, B.O. 6 DE AGOSTO DE 2012)</small>
 
-II.- La mayor que resulte entre 8 veces el salario mínimo o el 15% de las contribuciones no pagadas, sin que este porcentaje pueda exceder de 500 veces el salario mínimo, para las señaladas en los artículos 90, fracciones IV, XIV y XVII y 91, fracción II;
+II.- La mayor que resulte entre 8 veces el salario mínimo o el 15% de las contribuciones no pagadas, sin que este porcentaje pueda exceder de 500 veces el salario mínimo, para las señaladas en el artículo 90, fracciones IV y XVII.
 
 > <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -1591,11 +1615,17 @@ VIII.- De 2.5 A 63 veces el salario mínimo, a las señaladas en el artículo 90
 
 IX.- De 12.5 A 125 veces el salario mínimo, a las señaladas en los artículos 91 fracción VII y 92 fracciones I, II, III, VI y VII;
 
-X.- De 12.5 A 502 veces el salario mínimo, a las señaladas en los artículos 90 fracción XIII y 91 fracciones VI y VIII;
+> <small>(REFORMADA, B.O. 6 DE AGOSTO DE 2012)</small>
+
+X.- De 12.5 a 502 veces el salario mínimo, a las señaladas en los artículos 90 fracción XIII y 91 fracción VI.
 
 XI.- De 25 a 1,000 veces el salario mínimo, a las señaladas en los artículos 90 fracción XIX, 91 fracción IX y 92 fracción VIII; y,
 
 XII.- De 25 a 250 veces el salario mínimo, a las señaladas en los artículos 90 fracción XVIII y 92 fracciones IV, V, IX, X, XI, XII, XIII y XIV.
+
+> <small>(ADICIONADA, B.O. 6 DE AGOSTO DE 2012)</small>
+
+XIII.- De 150 a 300 veces el salario mínimo, a las señaladas en los artículos 90 fracción XIV, 91 fracciones II y VIII Y 92 fracción XV.
 
 ### CAPITULO II. De los Delitos Fiscales
 
@@ -1725,9 +1755,17 @@ Se impondrá sanción de dos meses a ocho años de prisión, al depositario o in
 
 Igual sanción, de acuerdo al valor de dichos bienes, se aplicará al depositario que los oculte o no los ponga a disposición de la autoridad competente.
 
+> <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
+
 ###### ARTÍCULO 107.
 
-Se impondrá sanción de tres meses a seis años de prisión, al que dolosamente altere o destruya los sellos o marcas oficiales colocados con fines fiscales o impida que se logre el propósito para el que fueron colocados.
+Se impondrá sanción de tres meses a seis años de prisión al que dolosamente:
+
+l.- Altere o destruya los aparatos de control, sellos o marcas oficiales colocados con fines fiscales o impida que se logre el propósito para el que fueron colocados.
+
+Il.- Altere o destruya las máquinas registradoras de comprobación fiscal.
+
+III.- Fabrique, falsifique, reproduzca, enajene gratuita u onerosamente, distribuya, comercialice, transfiera, transmita, obtenga, guarde, conserve, reciba en depósito, introduzca al territorio del Estado, sustraiga, use, oculte, destruya, modifique, altere, manipule o posea dispositivos de seguridad, sin haberlos adquirido legalmente.
 
 ###### ARTÍCULO 108.
 
@@ -1993,17 +2031,27 @@ Si las notificaciones se refieren a requerimientos para el cumplimiento de oblig
 
 Toda notificación personal, realizada con quien deba entenderse será legalmente válida aún cuando no se efectúe en el domicilio respectivo o en las oficinas de las autoridades fiscales.
 
+> <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
+
 ###### ARTÍCULO 128.
 
-Las notificaciones por edicto se realizarán haciendo publicaciones que contendrán un resumen de los actos o resoluciones por notificar. Dichas publicaciones deberán efectuarse por una sola vez en el Boletín Oficial del Estado y en uno de los periódicos de mayor circulación de la localidad, si lo hubiere, en caso contrario, se fijara copia del acuerdo o resolución en los tableros de la oficina recaudadora.
+Las notificaciones por edictos se harán mediante publicaciones en los siguientes medios:
 
-En este caso se tendrá como fecha de notificación la de la última publicación.
+I.- Por un día en el Boletín Oficial del Gobierno del Estado.
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
+II.- Por un día en un diario de mayor circulación de la localidad, si lo hubiere, caso contrario, se fijará copia del acuerdo o resolución en los tableros de la oficina recaudadora.
+
+III.- Durante quince días en la página electrónica que al efecto establezca la Secretaría de Hacienda.
+
+Las publicaciones a que se refiere este artículo contendrán un extracto de los actos que se notifican.
+
+Se tendrá como fecha de notificación la de la última publicación.
+
+> <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 129.
 
-Las notificaciones por estrados se harán fijando durante seis días el documento que se pretenda notificar en un sitio abierto al público de las oficinas de la autoridad que efectúe la notificación o publicando el documento citado, durante el mismo plazo, en la página electrónica que al efecto establezca la autoridad fiscal; dicho plazo se contará a partir de día siguiente a aquél en que el documento fue fijado o publicado según corresponda; la autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del séptimo día contado a partir del día siguiente a aquel en el que se hubiera fijado o publicado el documento.
+Las notificaciones por estrados se harán fijando durante quince días el documento que se pretenda notificar en un sitio abierto al público de las oficinas de la autoridad que efectúe la notificación o publicando el documento citado, durante el mismo plazo, en la página electrónica que al efecto establezca la Secretaría de Hacienda; dicho plazo se contará a partir del día siguiente a aquél en que el documento fue fijado o publicado según corresponda; la autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del décimo sexto día contado a partir del día siguiente a aquél en el que se hubiera fijado o publicado el documento.
 
 ###### ARTÍCULO 130.
 
@@ -2483,25 +2531,39 @@ VI.- Cuando del dictamen rendido por el perito del embargado o terceros acreedor
 
 VII.- En todos los casos a que se refieren las fracciones que anteceden, los peritos deberán rendir su dictamen en un plazo de 10 días si se trata de bienes muebles, 20 días si son inmuebles y 30 días cuando sean negociaciones, a partir de la fecha de su aceptación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
+ARTÍCULO 175 BIS.- Los avalúos que se practiquen para efectos fiscales, tendrán vigencia de doce meses, contados a partir de la fecha en que se emitan, mismos que podrán practicarse por las instituciones de crédito, corredor público, perito valuador registrado ante el Instituto Catastral y Registral del Estado de Sonora y por el Instituto de Administración y Avalúos de Bienes Nacionales.
+
+En aquellos casos en que después de realizado el avalúo se lleven a cabo construcciones, instalaciones o mejoras permanentes al bien de que se trate, los valores consignados en dicho avalúo quedarán sin efecto, aún cuando no haya transcurrido el plazo señalado en el párrafo que antecede.
+
+Cuando los avalúos sean referidos a una fecha anterior a aquella en que se practiquen, se procederá conforme a lo siguiente:
+
+I.- Se determinará el valor del bien a la fecha en que se practique el avalúo.
+
+II.- La cantidad obtenida conforme a la fracción anterior, se dividirá entre el factor que se obtenga de dividir el índice nacional de precios al consumidor del mes inmediato anterior a aquel en que se practique el avalúo, entre el índice del mes al cual es referido el mismo.
+
+III.- El resultado que se obtenga conforme a la fracción anterior, será el valor del bien a la fecha a la que el avalúo sea referido.
+
+El valuador podrá efectuar ajustes a este valor cuando existan razones que así lo justifiquen, las cuales deberán señalarse expresamente en el avalúo. Una vez presentado dicho avalúo no podrán efectuarse estos ajustes.
+
+> <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 176.
 
-El remate deberá ser convocado para una fecha fijada dentro de los treinta días siguientes a la determinación del precio que deberá servir de base. La publicación de la convocatoria se hará cuando menos diecisiete días antes del inicio del periodo señalado para el remate.
+El remate podrá ser convocado al día siguiente de haber quedado firme el avalúo, para que tenga verificativo dentro de los treinta días siguientes. La convocatoria se hará cuando menos diez días antes del inicio del período señalado para el remate debiendo mantenerse en los lugares o medios en que se haya fijado o dado a conocer hasta la conclusión del remate.
 
-La convocatoria se fijará en el sitio visible y usual de la autoridad ejecutora y en los lugares públicos que se juzgue conveniente; asimismo se dará a conocer en la página electrónica de la Secretaría de Hacienda.
+La convocatoria se fijará en el sitio visible y usual de la oficina ejecutora y en los lugares públicos que se juzgue conveniente. Además, la convocatoria se dará a conocer en la página electrónica de la Secretaría de Hacienda. En la convocatoria se darán a conocer los bienes objeto del remate, el valor que servirá de base para su enajenación, así como los requisitos que deberán cumplir los postores para concurrir al mismo.
 
-Cuando el valor de los bienes muebles e inmuebles exceda de $20,000.00, la convocatoria se publicará por una sola vez en el diario local de mayor circulación.
+Los bienes sujetos a remate se encontrarán a la visita (sic) del público interesado en los lugares y horarios que se indiquen en la página de internet de la Secretaría de Hacienda.
 
-En la convocatoria se darán a conocer los bienes objeto del remate, el valor que servirá de base para su enajenación, así como los requisitos que deberán cumplir los postores para concurrir al mismo.
+> <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+ARTÍCULO 176 BIS.- En la página electrónica de subastas de la Secretaría de Hacienda, se especificará el periodo correspondiente a cada remate, el registro de los postores y las posturas que se reciban, así como la fecha y hora de su recepción.
 
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
+Cada subasta tendrá una duración de 8 días que empezará a partir de las 12:00 horas del primer día y concluirá a las 12:00 horas del octavo día. En dicho periodo los postores presentarán sus posturas y podrán mejorar las propuestas.
 
-ARTÍCULO 176 BIS.- La subasta tendrá una duración de 15 días que empezará a partir de las 12:00 horas del primer día y concluirá a las 12:00 horas del decimoquinto día. En dicho periodo los postores presentarán sus posturas y podrán mejorar las propuestas.
+Si dentro de los veinte minutos previos al vencimiento del plazo de remate se recibe una postura que mejore los anteriores, el remate no se cerrará conforme al término mencionado en el párrafo precedente, en este caso y a partir de las 12:00 horas del día de que se trate, la Secretaría de Hacienda concederá plazos sucesivos de 5 minutos cada uno, hasta que la última postura no sea mejorada. Una vez trascurrido el último plazo sin que se reciba una mejor postura se tendrá por concluido el remate.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -2547,13 +2609,15 @@ Al escrito en que se haga la postura se acompañará necesariamente un certifica
 
 El importe de los depósitos que se constituyan de acuerdo con lo que establece el presente artículo, servirá de garantía para el cumplimiento de las obligaciones que contraigan los postores por las adjudicaciones que se les hagan de los bienes rematados. Inmediatamente después de fincado el remate previa orden de la oficina ejecutora, se devolverán los certificados de depósito a los postores, excepto el que corresponde al postor admitido, cuyo valor continuará como garantía del cumplimiento de su obligación y, en su caso, como parte del precio de enajenación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
+ARTÍCULO 181 BIS.- Cuando el remate de bienes sea cancelado o suspendido por la autoridad fiscal, dicha situación se hará del conocimiento de los postores participantes a través de su correo electrónico y el importe depositado como garantía se reintegrará dentro de los dos días hábiles siguientes a la notificación de la cancelación o suspensión.
+
+> <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 182.
 
-Cuando el postor en cuyo favor se hubiere fincado un remate no cumpla con las obligaciones que contraiga y las que este Código le señala, perderá el importe del depósito que hubiere constituido y la autoridad ejecutora lo aplicará de inmediato a favor del gobierno estatal.
+Cuando el postor en cuyo favor se hubiera fincado un remate no cumpla con las obligaciones contraídas y las que éste Código señala, perderá el importe del depósito que hubiere constituido y la autoridad ejecutora lo aplicará de inmediato a favor del fisco estatal. En este caso se iniciará nuevamente la almoneda en la forma y plazos que señalan los artículos respectivos.
 
 ###### ARTÍCULO 183.
 
@@ -2565,13 +2629,13 @@ II. Las cantidades que se ofrezcan; y,
 
 III.- Lo que se ofrezca de contado y los términos en que haya de pagarse la diferencia, la que causará intereses según la tasa a que se refiere el artículo 26 de este Código.
 
+> <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
+
 ###### ARTÍCULO 184.
 
-El día y hora señalados en la convocatoria, el jefe de la oficina ejecutora, después de pasar lista de las personas que hubieren presentado posturas, hará saber a las que estén presentes cuales posturas fueron calificadas como legales y les dará a conocer cual es la mejor postura, concediendo plazos sucesivos de cinco minutos cada uno, hasta que la última postura no sea mejorada.
+La Secretaría de Hacienda fincará el remate a favor de quien haya hecho la mejor postura. Cuando existan varios postores que hayan ofrecido una suma igual y dicha suma sea la postura más alta, se aceptará la primera postura que se haya recibido.
 
-El jefe de la oficina ejecutora fincará el remate en favor de quien hubiere hecho la mejor postura.
-
-Si en la última postura se ofrece igual suma de contado, por dos o más licitantes, se designará por suerte la que deba aceptarse, salvo lo dispuesto en la fracción III del artículo 192.
+Una vez fincado el remate se comunicará el resultado del mismo a través de medios electrónicos a los postores que hubieren participado en él, remitiendo el acta que al efecto se levante.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -2587,17 +2651,17 @@ Posteriormente, la autoridad deberá entregar al adquirente, conjuntamente con e
 
 Una vez adjudicados los bienes al adquirente, éste deberá retirarlos en el momento en que la autoridad los ponga a su disposición.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 186.
 
-Si los bienes rematados fueran inmuebles o muebles cuyo valor exceda de $ 50,000.00, la autoridad ejecutora dentro de un plazo de cinco días, enviará el expediente al Subsecretario de Ingresos, para que previa revisión y de considerarlo procedente, apruebe el remate si el procedimiento se apega a las normas que lo rigen. Si la resolución es negativa, el fincamiento que haya hecho la autoridad ejecutora quedará sin efecto y el postor solo tendrá derecho a que se le devuelva el depósito que hubiere constituido.
+Efectuando el pago total del importe ofrecido por un bien rematado, se comunicará al postor ganador quien deberá solicitar a la autoridad fiscal que ésta le indique, la fecha y hora en que se realizará la entrega del bien rematado, una vez que hayan sido cumplidas las formalidades a que se refieren los artículos 185 y 188 de este Código. El postor ganador podrá solicitar una nueva fecha de entrega en caso de que no le hubiese sido posible acudir a la que hubiere señalado la autoridad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 187.
 
-Los bienes inmuebles pasarán a ser propiedad del postor libre de todo gravamen y a fin de que se cancelen los que reportare, el jefe de la oficina ejecutora que finque el remate deberá comunicar al Registro Público de la Propiedad respectivo la transmisión de dominio de los inmuebles.
+Los bienes pasarán a ser propiedad del adquirente libre de gravámenes y a fin de que éstos se cancelen. Tratándose de bienes inmuebles, la autoridad ejecutora lo comunicará al Registro Público de la Propiedad que corresponda, en un plazo que no excederá de quince días.
 
 Los directores o encargados del Registro Público de la Propiedad deberán inscribir las transmisiones de dominio de bienes inmuebles que resulten de los remates celebrados por las oficinas ejecutoras locales y procederán a hacer las cancelaciones de gravámenes que sean procedentes como consecuencia de la transmisión o adjudicación.
 
@@ -3428,3 +3492,23 @@ B.O. 30 DE DICIEMBRE DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir del 1° de enero de 2011 previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 6 DE AGOSTO DE 2012.
+
+Artículo Primero.- Las disposiciones contenidas en los artículos primero (modificaciones a la Ley de Hacienda del Estado), tercero (reformas a la Ley de Hacienda Municipal) y cuarto del presente Decreto (modificaciones a la Ley que Regula la Operación y Funcionamiento de los Establecimientos Destinados a la Fabricación, Envasamiento, Distribución, Almacenamiento, Transportación, Venta y Consumo de Bebidas con Contenido Alcohólico en el Estado de Sonora), entrarán en vigor a partir del 1° de enero de 2013 y las disposiciones contenidas en el artículo segundo del presente Decreto (reformas al Código Fiscal del Estado), entrarán en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- A partir de la entrada en vigor de las reformas contenidas en el artículo primero del presente Decreto, los contribuyentes propietarios o tenedores de vehículos registrados conforme a la normatividad establecida en la Ley del Impuesto Sobre Tenencia o Uso de Vehículos, pasarán a formar parte del Registro Estatal Vehicular, respecto a los vehículos que se les haya expedido placas de circulación en el territorio del Estado, así como aquellos que a partir de la vigencia de la presente Ley se den de alta ante la Secretaría de Hacienda.
+
+El Registro Estatal Vehicular a que se refiere el primer párrafo de este artículo, se integrará con datos de los vehículos de los contribuyentes que porten placas de la circunscripción territorial de esta Entidad Federativa que serán aquellos que contempla la Ley del Registro Público Vehicular de carácter federal. El Registro Estatal Vehicular estará conectado a los medios o sistemas que para efectos de intercambio de información determine la Secretaría de Hacienda y Crédito Público mediante sus disposiciones de carácter general.
+
+Artículo Cuarto.- Para los efectos de las modificaciones a la Ley que Regula la Operación y Funcionamiento de los Establecimientos Destinados a la Fabricación, Envasamiento, Distribución, Almacenamiento, Transportación, Venta y Consumo de Bebidas con Contenido Alcohólico en el Estado de Sonora, previstas en el artículo anterior se estará a lo siguiente:
+
+I.- Los permisionarios que se ubiquen dentro del supuesto a que se refiere el artículo 10 Fracción XV de la Ley que Regula la Operación y Funcionamiento de los Establecimientos Destinados a la Fabricación, Envasamiento, Distribución, Almacenamiento, Transportación, Venta y Consumo de Bebidas con Contenido Alcohólico en el Estado de Sonora, deberán presentar la licencia con la cual se encuentren operando a fin de que les sea canjeada bajo el giro de establecimiento que preste servicios de sorteos y juegos con apuestas, debiendo pagar los derechos correspondientes bajo la denominación del nuevo giro.
+
+Transcurrido el plazo a que se refiere la fracción II de este artículo, la Secretaría de Hacienda procederá de oficio a la cancelación de las licencias cuyos titulares no hayan solicitado su regularización conforme a esta Ley.
+
+II.- Para los efectos de lo dispuesto en los artículos 45 Bis y 50 Bis de la Ley que Regula la Operación y Funcionamiento de los Establecimientos Destinados a la Fabricación, Envasamiento, Distribución, Almacenamiento, Transportación, Venta y Consumo de Bebidas con Contenido Alcohólico en el Estado de Sonora, el canje de las licencias se efectuará en el transcurso de los meses de enero a mayo del año de calendario que corresponda y tendrá una vigencia de tres años, contados a partir del canje del presente ejercicio de 2012, debiendo presentarse para tales efectos, los requisitos correspondientes.
+
+Transcurrido el plazo a que se refiere el párrafo anterior, la Secretaría de Hacienda procederá de oficio a la cancelación de las licencias cuyos titulares no hayan solicitado su regularización conforme a esta Ley.
