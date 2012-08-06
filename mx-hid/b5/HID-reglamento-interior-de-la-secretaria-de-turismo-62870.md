@@ -4,7 +4,7 @@ identifier: "HID-reglamento-interior-de-la-secretaria-de-turismo-62870"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-11"
-last_updated: "2008-08-11"
+last_updated: "2012-08-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62870&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE TURISMO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE TURISMO Y CULTURA, PUBLICADO EN EL P.O. DE 6 DE AGOSTO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 11 de agosto de 2008.
 
@@ -588,3 +590,17 @@ Dado en la Residencia Oficial del Poder Ejecutivo del Estado de Hidalgo, en la c
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
 LICENCIADO MIGUEL ÁNGEL OSORIO CHONG
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 6 DE AGOSTO DE 2012.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Turismo, Publicado en el Periódico Oficial del Estado de Hidalgo, el 11 de Agosto del año 2008 y se derogan todas las disposiciones legales que se opongan al presente Reglamento.
+
+TERCERO.- Cuando el presente Reglamento confiera funciones a unidades administrativas con funciones equivalentes, que se encuentran señaladas en otras disposiciones con distinta denominación, se entenderá que corresponden a las unidades previstas en este Reglamento.
+
+CUARTO.- Las menciones que en el presente Reglamento se hagan a las normas reglamentarias de la Secretaría de Contraloría y Transparencia Gubernamental, se entenderán referidas al Reglamento Interior de la Secretaría de Contraloría y Transparencia Gubernamental.
+
+QUINTO.- En tanto se expidan los manuales de organizaciones, de procedimientos y de servicios al público, el Secretario estará facultado para resolver lo que dichos manuales deben regular.
