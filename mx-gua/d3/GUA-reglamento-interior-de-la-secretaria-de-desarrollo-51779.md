@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-secretaria-de-desarrollo-51779"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-09-19"
-last_updated: "2006-09-19"
+last_updated: "2012-08-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51779&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO AGROPECUARIO
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO AGROPECUARIO
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2012.
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 19 de septiembre de 2006.
 
@@ -65,9 +65,13 @@ a) Dirección General de Agricultura:
 
 2. Dirección de Desarrollo Agrícola; y
 
-3. Dirección de Fomento a la Agricultura Protegida;
+3. (DEROGADO, P.O. 7 DE AGOSTO DE 2012)
 
 b) Dirección General de Ganadería;
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2012)</small>
+
+1. Dirección de Desarrollo Pecuario.
 
 c) Dirección General de Proyectos Emergentes y Mecanización;
 
@@ -203,7 +207,7 @@ I.- Dirección de Sanidad Vegetal;
 
 II.- Dirección de Desarrollo Agrícola; y
 
-III.- Dirección de Fomento a la Agricultura Protegida.
+III.- (DEROGADA, P.O. 7 DE AGOSTO DE 2012)
 
 ###### Artículo 12.
 
@@ -265,17 +269,7 @@ VII.- Las demás que señalen las disposiciones legales aplicables, así como aq
 
 ###### Artículo 15.
 
-La Dirección de Fomento a la Agricultura Protegida tendrá las siguientes facultades:
-
-I.- Desarrollar la planeación en torno a la agricultura protegida de conformidad con los lineamientos emitidos por el Secretario;
-
-II.- Planear y dirigir las actividades específicas del programa de invernaderos y agricultura protegida;
-
-III.- Coadyuvar en la supervisión de proyectos de generación, transferencia y adopción de tecnología de vanguardia en torno a la agricultura protegida y servicios profesionales de asistencia técnica;
-
-IV.- Fomentar la reducción de los costos de producción y el uso de agua agrícola, a través de la organización de los productores en el Estado;
-
-V.- Las demás que le confiera su Director General.
+(DEROGADO, P.O. 7 DE AGOSTO DE 2012)
 
 ### CAPÍTULO SEGUNDO. DE LA DIRECCIÓN GENERAL DE GANADERÍA
 
@@ -291,7 +285,33 @@ III.- Realizar, en coordinación con el Instituto Nacional de Investigaciones Fo
 
 IV.- Supervisar los trabajos del Comité de Fomento y Protección Pecuaria.
 
-#### SECCIÓN ÚNICA. DE LA DIRECCIÓN DE DESARROLLO DE PERSONAL
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE AGOSTO DE 2012)</small>
+
+#### SECCIÓN ÚNICA. DE LA DIRECCIÓN DE DESARROLLO PECUARIO
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2012)</small>
+
+###### Artículo 16 Bis.
+
+La Dirección de Desarrollo Pecuario tendrá las siguientes facultades:
+
+I. Coadyuvar con la Dirección General de Ganadería en la planeación pecuaria en el Estado;
+
+II. Colaborar en las actividades específicas de los programas relacionados con la ganadería estatal;
+
+III. Colaborar y participar en las campañas de sanidad animal, así como en los trabajos de investigación pecuaria en el Estado con el apoyo de las instancias u organismos públicos y privados con incidencia en la materia, de conformidad con los lineamientos emitidos por la Secretaría;
+
+IV. Supervisar las diversas actividades ganaderas de los grupos de trabajo o comités que tengan injerencia dentro de la Secretaría;
+
+V. Elaborar programas de difusión y validación de componentes tecnológicos pecuarios;
+
+VI. Supervisar y evaluar el avance de los programas pecuarios y facilitar los medios para su correcta aplicación;
+
+VII. Colaborar en los trabajos del Comité Estatal para el Fomento y Protección Pecuaria del Estado de Guanajuato, A.C.;
+
+VIII. Colaborar y participar con los productores organizados en los diferentes sistemas producto pecuarios o cadenas productivas; y
+
+IX. Las demás que señalen las disposiciones legales aplicables, así como aquellas que le confiera su Director General.
 
 ### CAPÍTULO TERCERO. DE LA DIRECCIÓN GENERAL DE PROYECTOS EMERGENTES Y MECANIZACIÓN
 
@@ -341,7 +361,7 @@ IX.- Controlar y vigilar los bienes muebles asignados a la Secretaría y a sus u
 
 X.- Formular, promover e instrumentar el Programa de Modernización Administrativa de la Secretaría, estableciendo controles internos para una mejor organización y funcionamiento administrativo de la dependencia.
 
-#### SECCIÓN ÚNICA. DE LA DIRECCIÓN DE APOYO A LA COMERCIALIZACIÓN
+#### SECCIÓN ÚNICA. DE LA DIRECCIÓN DE DESARROLLO DE PERSONAL
 
 ###### Artículo 20.
 
@@ -525,7 +545,7 @@ VI.- Apoyar la capitalización de las agroindustrias y empresas rurales, de sus 
 
 VII.- Participar, en coordinación con los diferentes organismos e instituciones del sector, en la búsqueda de mejores esquemas de financiamiento.
 
-#### SECCIÓN PRIMERA. DE LA DIRECCIÓN DE OPERACIÓN EN MICROCUENCAS
+#### SECCIÓN ÚNICA. DE LA DIRECCIÓN DE APOYO A LA COMERCIALIZACIÓN
 
 ###### Artículo 31.
 
@@ -573,7 +593,7 @@ V.- Propiciar la incubación y creación de agencias de desarrollo o similares, 
 
 VI.- Dar cumplimiento, con la participación de la Dirección de Recursos Forestales, a las facultades y actividades que le corresponden a la Secretaría conforme a lo estipulado en la Ley de Desarrollo Forestal Sustentable para el Estado y los Municipios de Guanajuato.
 
-#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE RECURSOS FORESTALES
+#### SECCIÓN PRIMERA. DE LA DIRECCIÓN DE OPERACIÓN EN MICROCUENCAS
 
 ###### Artículo 34.
 
@@ -594,6 +614,8 @@ VI.- Coadyuvar con la supervisión y seguimiento a las acciones sobre la rehabil
 VII.- Asesorar al personal técnico de los municipios en los procesos de elaboración de diagnósticos participativos y en la organización y promoción social para la realización de planes rectores de producción, proyectos de reconversión productiva y conservación por microcuenca; y
 
 VIII.- Las demás que le confiera su Director General.
+
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE RECURSOS FORESTALES
 
 ###### Artículo 35.
 
@@ -740,3 +762,9 @@ SAMUEL ALCOCER FLORES
 EL SECRETARIO DE DESARROLLO AGROPECUARIO
 
 EDUARDO NIETO ALMEIDA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE AGOSTO DE 2012.
+
+Artículo Único. El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
