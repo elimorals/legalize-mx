@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2012-06-26"
+last_updated: "2012-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2012.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -120,9 +120,9 @@ Queda prohibida toda discriminación motivada por origen étnico o nacional, el 
 
 Toda persona tiene derecho a la intimidad. Este derecho será garantizado en el marco de la sociedad democrática.
 
-> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE AGOSTO DE 2012)</small>
 
-Toda persona tiene derecho a la información pública. La garantía de acceso a la información pública, se definirá a partir de los principios siguientes:
+Toda persona tiene derecho a la información pública. La garantía de acceso a la información pública, es un derecho fundamental que comprende difundir, investigar y recabar información pública, y se definirá a partir de los principios siguientes:
 
 I. Su fundamento reside en el estado humanista, social y democrático de derecho que establece esta Constitución.
 
@@ -288,9 +288,9 @@ II. Inscribirse en el padrón de su respectivo Municipio, manifestando la propie
 
 III. Contribuir a los gastos públicos del Municipio, del Estado y de la Federación en la forma proporcional y equitativa que dispongan las leyes correspondientes.
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 1996)</small>
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2012)</small>
 
-IV. Adquirir la educación primaria y secundaria y hacer que la reciban los menores de edad que estén bajo su potestad o cuidado.
+IV. Adquirir la educación preescolar, primaria y secundaria, así como la educación media y hacer que la reciban los menores de edad que estén bajo su potestad o cuidado.
 
 V. Cooperar en cuanto les sea posible al engrandecimiento y prosperidad del Estado y a la defensa de la independencia del territorio, la honra, derechos o intereses de la República en general y particular del Estado.
 
@@ -646,11 +646,13 @@ El Congreso podrá reunirse en sesiones extraordinarias cada vez que fuere convo
 
 Las sesiones extraordinarias deberán cerrarse precisamente antes del día en que deban celebrarse las ordinarias, aún cuando no hayan sido despachados los asuntos que motivaron la convocatoria, los que se resolverán de preferencia en el período ordinario.
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 49.
 
-El Gobernador del Estado informará por escrito anualmente al Congreso dentro de los primeros diez días del mes de noviembre, sobre el estado general que guarda la administración pública estatal.
+El Gobernador del Estado asistirá el 30 de noviembre de cada año al Congreso, a informar sobre el estado general que guarda la administración pública estatal.
+
+Tratándose del último año de su gestión, el Gobernador podrá, de acuerdo con el Congreso, rendir el informe a que se refiere el párrafo anterior dentro de los primeros quince días del mes de noviembre del año que corresponda.
 
 ###### Artículo 50.
 
@@ -800,9 +802,9 @@ V. Si el Ejecutivo devolviere la ley o decreto con observaciones, volverá a la 
 
 VI. El nuevo dictamen se volverá a discutir y a esta segunda discusión podrá asistir y tomar parte en ella el Gobernador del Estado o el orador que nombre al efecto.
 
-> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2012)</small>
 
-VII. Si el proyecto devuelto con observaciones por el Ejecutivo, fuere confirmado por las dos terceras partes del número total de votos, se declarará ley o decreto y se enviará de nuevo al Ejecutivo, para su promulgación, publicación y observancia.
+VII. Si el proyecto devuelto con observaciones por el Ejecutivo, fuere confirmado por las dos terceras partes del número total de votos, se declarará ley o decreto y se enviará de nuevo al Ejecutivo, para (sic) en el término de 10 días naturales siguientes ordene su promulgación y publicación; en caso de no hacerlo, transcurrido dicho plazo, la ley o decreto será considerado promulgado, y el Presidente del Congreso o de la Diputación Permanente, dentro de los diez días naturales siguientes, ordenará su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza, sin que se requiera el refrendo previsto en el artículo 88 de esta Constitución.
 
 ###### Artículo 63.
 
@@ -1426,11 +1428,11 @@ XXVIII. A. Promover ante el Pleno del Tribunal Superior de Justicia, las controv
 
 XXIX. Las demás que expresamente le concedan las Leyes.
 
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 83.
 
-El Ejecutivo tiene derecho de hacer observaciones a las leyes o decretos aprobados por el Congreso. Si quisiera hacer uso de esta facultad, avisará al Congreso dentro de tres días de haber recibido la ley o decreto y en el término de diez días lo devolverá con sus observaciones, pasados estos términos sin dar aviso o remitir las observaciones, estará obligado a publicar la ley o decreto.
+El Ejecutivo tiene derecho de hacer observaciones a las leyes o decretos aprobados por el Congreso. Si quisiera hacer uso de esta facultad, en el término de treinta días naturales lo devolverá con sus observaciones, vencido este término sin realizar las observaciones, el Ejecutivo dispondrá de diez días naturales para promulgar y publicar la ley o decreto, transcurrido este segundo plazo, la ley o decreto será considerado promulgado, y el Presidente del Congreso o de la Diputación Permanente, dentro de los diez días naturales siguientes, ordenará su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza, sin que se requiera el refrendo previsto en el artículo 88 de esta Constitución.
 
 ###### Artículo 84.
 
@@ -1448,57 +1450,63 @@ III. Cuidar de la observancia de la Constitución Política de los Estados Unido
 
 Asimismo, será deber del Gobernador del Estado, publicar y hacer cumplir las leyes y decretos federales.
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2012)</small>
 
-IV. Informar por escrito anualmente al Congreso, dentro de los primeros diez días del mes de noviembre, sobre el estado general que guarda la administración pública estatal.
+IV. Asistir e informar al Congreso, el 30 de noviembre de cada año o bien, dentro de los primeros quince días del mes de noviembre del año que corresponda tratándose del último año de su gestión, sobre el estado general que guarda la administración pública estatal.
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2012)</small>
+
+V. Cuando salga del país en viajes oficiales, informar a su regreso, al Congreso o a la Diputación Permanente, sobre los resultados obtenidos en las gestiones realizadas, lo cual podrá hacer por escrito o por comparecencia.
 
 > <small>(REFORMADA, P.O. 4 DE FEBRERO DE 1977)</small>
 
-V. Rendir los informes que le solicite el Congreso del Estado en los términos de la fracción XL del artículo 67.
+VI. Rendir los informes que le solicite el Congreso del Estado en los términos de la fracción XL del artículo 67.
 
 > <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1998)</small>
 
-VI. Presentar al Congreso la cuenta pública, dentro del término que disponga la Ley.
+VII. Presentar al Congreso la cuenta pública, dentro del término que disponga la Ley.
 
 > <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 1992)</small>
 
-VII. Presentar al Congreso la Iniciativa de Ley de Ingresos y el Proyecto de Presupuesto de Egresos del Estado, correspondientes a cada ejercicio fiscal.
+VIII. Presentar al Congreso la Iniciativa de Ley de Ingresos y el Proyecto de Presupuesto de Egresos del Estado, correspondientes a cada ejercicio fiscal.
 
-VIII. Facilitar al Poder Judicial los auxilios que necesite para el ejercicio de sus funciones.
+IX. Facilitar al Poder Judicial los auxilios que necesite para el ejercicio de sus funciones.
 
-IX. Proteger la seguridad de las personas, bienes y derechos de los individuos, y al efecto, mantener el orden, paz y tranquilidad públicas en todo el Estado, haciendo respetar las garantías individuales.
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2012)</small>
 
-X. Impedir los abusos de la fuerza armada contra los ciudadanos y los pueblos, haciendo efectiva la responsabilidad en que ella incurriere.
+X. Proteger la seguridad de las personas, bienes y derechos de los individuos, y al efecto, mantener el orden, paz y tranquilidad pública en todo el Estado, haciendo respetar las garantías individuales.
 
-XI. Procurar la conservación de la salubridad e higiene públicas.
+XI. Impedir los abusos de la fuerza armada contra los ciudadanos y los pueblos, haciendo efectiva la responsabilidad en que ella incurriere.
 
-XII. Proveer el buen estado y seguridad de los caminos.
+XII. Procurar la conservación de la salubridad e higiene públicas.
+
+XIII. Proveer el buen estado y seguridad de los caminos.
 
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2011)</small>
 
-XIII. Exigir mensualmente a la Secretaría de Finanzas del Estado, la cuenta de ingresos y egresos, y remitirla al Congreso o a la Diputación Permanente.
+XIV. Exigir mensualmente a la Secretaría de Finanzas del Estado, la cuenta de ingresos y egresos, y remitirla al Congreso o a la Diputación Permanente.
 
-XIV. Cuidar de los fondos públicos que en todo caso estén bien asegurados y de que su recaudación y distribución se hagan con arreglo a las leyes.
+XV. Cuidar de los fondos públicos que en todo caso estén bien asegurados y de que su recaudación y distribución se hagan con arreglo a las leyes.
 
 > <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
-XV. Dictar las medidas necesarias para la seguridad de los fondos del Estado, en caso de suspensión de algunos de los servidores públicos que los manejen.
+XVI. Dictar las medidas necesarias para la seguridad de los fondos del Estado, en caso de suspensión de algunos de los servidores públicos que los manejen.
 
 > <small>(REFORMADA, P.O. 17 DE JUNIO DE 1988)</small>
 
-XVI. Visitar periódicamente los Municipios para atender sus necesidades y buscar soluciones en forma conjunta.
+XVII. Visitar periódicamente los Municipios para atender sus necesidades y buscar soluciones en forma conjunta.
 
 > <small>(REFORMADA, P.O. 17 DE JUNIO DE 1988)</small>
 
-XVII. Solicitar información de los órganos electorales, en relación a las elecciones que se verifiquen en el Estado.
+XVIII. Solicitar información de los órganos electorales, en relación a las elecciones que se verifiquen en el Estado.
 
 > <small>(ADICIONADA, P.O. 27 DE ENERO DE 1984)</small>
 
-XVIII. Promover y vigilar el culto a los símbolos patrios.
+XIX. Promover y vigilar el culto a los símbolos patrios.
 
 > <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
-XIX. Los demás deberes que le impongan la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y otros ordenamientos legales.
+XX. Los demás deberes que le impongan la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y otros ordenamientos legales.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -4435,3 +4443,13 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publi
 SEGUNDO.- El Congreso del Estado deberá realizar las adecuaciones a la legislación ordinaria para la implementación de las disposiciones previstas en este decreto.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 7 DE AGOSTO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones legales que se opongan al presente Decreto.
