@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-educacion-de-coahuila-de-zaragoza-12510"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-28"
-last_updated: "2012-04-03"
+last_updated: "2012-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COA"
 ---
 # LEY ESTATAL DE EDUCACION DE COAHUILA DE ZARAGOZA
 
-LEY ESTATAL DE EDUCACIÓN
+LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 28 de mayo de 1996.
 
@@ -61,7 +61,9 @@ El estado está obligado a prestar los servicios educativos para que toda la pob
 
 Las autoridades educativas buscarán extender los servicios de educación inicial a toda la población en edad de cursarla mediante los mecanismos que considere más adecuados.
 
-La educación es un servicio público. Todos los habitantes de Coahuila deberán cursar la primaria y la secundaria. Es obligación de los padres o tutores hacer que sus hijos o pupilos menores de edad reciban esta educación.
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2012)</small>
+
+La educación es un servicio público. Todos los habitantes de Coahuila deberán cursar la educación preescolar, la primaria, la secundaria y la educación media. Es obligación de los padres o tutores hacer que sus hijos o pupilos menores de edad reciban esta educación.
 
 ###### ARTICULO 4°.
 
@@ -323,15 +325,19 @@ XIV.- Promover una mayor participación de la sociedad en la educación, así co
 
 > <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2012)</small>
 
-XV. Asegurar la permanencia del docente en el centro de trabajo durante el ciclo escolar;
+XV.- Asegurar la permanencia del docente en el centro de trabajo durante el ciclo escolar;
 
 > <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2012)</small>
 
-XVI. Programar en la esfera de su competencia, actividades de apoyo a los grupos humanos que inmigran a la entidad, con el objeto de compensar las posibles desventajas de su situación;
+XVI.- Programar en la esfera de su competencia, actividades de apoyo a los grupos humanos que inmigran a la entidad, con el objeto de compensar las posibles desventajas de su situación;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 3 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2012)</small>
 
-XVII. Efectuar un programa destinado a la Prevención, Atención y Solución del Acoso Escolar de manera permanente, que estará dirigido a los padres de familia o a quienes tengan a su cargo la patria potestad, tutela o representación de los menores, quienes tendrán obligatoriamente que asistir a las sesiones que para ello se instrumenten, a fin de que conozcan la problemática que esta conducta representa y estén en posibilidad de entenderla, lo que por un lado les facilitará su detección en tiempo, o bien, para buscar la ayuda profesional para atenderla.
+XVII.- Definir los programas que permitan ampliar la calidad y la cobertura de los servicios educativos y alcanzar los propósitos a que se refiere este capítulo, y
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2012)</small>
+
+XVIII.- Efectuar un programa destinado a la Prevención, Atención y Solución del Acoso Escolar de manera permanente, que estará dirigido a los padres de familia o a quienes tengan a su cargo la patria potestad, tutela o representación de los menores, quienes tendrán obligatoriamente que asistir a las sesiones que para ello se instrumenten, a fin de que conozcan la problemática que esta conducta representa y estén en posibilidades de entenderla, lo que por un lado les facilitará su detección en tiempo, o bien, para buscar la ayuda profesional para atenderla.
 
 Dicho programa deberá incluir cursos, talleres, seminarios, impartidos por especialistas en la materia.
 
@@ -423,9 +429,11 @@ En el servicio educativo destinado a menores de edad se tomarán medidas que ase
 
 #### SECCIÓN PRIMERA. DE LA EDUCACIÓN PREESCOLAR
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 37.
 
-La educación preescolar tendrá como propósito fundamental favorecer el proceso de formación integral y de estructuración de la personalidad del niño, así como propiciar el desarrollo de sus dimensiones físicas, afectivas, intelectuales y sociales. Este nivel de educación no constituye requisito previo a la educación primaria.
+La educación preescolar tendrá como propósito fundamental favorecer el proceso de formación integral y de estructuración de la personalidad del niño, así como propiciar el desarrollo de sus dimensiones físicas, afectivas, intelectuales y sociales. Este nivel de educación constituye requisito previo a la educación primaria.
 
 ###### ARTICULO 38.
 
@@ -913,27 +921,23 @@ VII.- Formar parte de los consejos de participación social de acuerdo a los lin
 
 VIII.- Opinar en relación a las contraprestaciones que las instituciones fijen en el servicio educativo que ofrezcan a sus hijos, pupilos o representados, en el caso de las escuelas particulares.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 88.
 
 Son obligaciones de quienes ejercen la patria potestad, tutela o representación legal:
 
 I.- Hacer que sus hijos, pupilos, o representados menores de edad, concurran a las escuelas públicas o privadas para obtener educación básica en los términos previstos por las disposiciones aplicables;
 
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2012)</small>
+II.- Acudir ante las autoridades del plantel escolar o el maestro del grupo, cuantas veces sea necesario, para tomar conocimiento del avance en la educación de su hijo, pupilo o representado y de los problemas relacionados con su conducta o rendimiento en la escuela;
 
-II.- Coadyuvar con las autoridades escolares en la atención de los problemas de conducta o de aprendizaje de sus pupilos, hijos o representados; así como en la implementación de acciones que se determinen para brindar protección y salvaguarda a sus hijos, pupilos o representados menores de edad;
+III.- Informarse en todo momento del comportamiento de su hijo, pupilo o representado en la escuela y en todas las actividades relacionadas con su educación;
 
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2012)</small>
-
-III.- Participar en las actividades que se realicen para mejorar el nivel de vida de los integrantes de la comunidad escolar; y (sic)
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 3 DE ABRIL DE 2012)</small>
-
-IV.- Participar de manera activa y permanente en las actividades y tareas que se implementen por las autoridades educativas en el marco del Programa para la Prevención, Atención y Solución del Acoso Escolar.
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2012)</small>
+IV.- Coadyuvar con las autoridades escolares en la atención de los problemas de conducta o de aprendizaje de sus pupilos, hijos o representados; así como corresponsabilizarse en la instrumentación de las acciones que se determinen para brindar protección y salvaguarda a sus hijos, pupilos o representados menores de edad; y (sic)
 
 V.- Participar en las actividades que se realicen para mejorar el nivel de vida de los integrantes de la comunidad escolar.
+
+VI.- Participar de manera activa y permanente en las actividades y tareas que se implementan por las autoridades educativas en el marco del programa para la Prevención, Atención y Solución del Acoso Escolar.
 
 ### CAPITULO II. DE LAS ASOCIACIONES DE PADRES DE FAMILIA
 
@@ -1244,3 +1248,11 @@ P.O. 3 DE ABRIL DE 2012.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 7 DE AGOSTO DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Para dar cumplimiento al principio de obligatoriedad de la educación media, se estará a lo dispuesto por los artículos segundo y tercero transitorio de la reforma a la Constitución Política de los Estados Unidos Mexicanos Publicada en el Diario Oficial de la Federación el 9 de febrero de 2012.
+
+TERCERO.- Se derogan las disposiciones que se opongan a lo previsto en este decreto.
