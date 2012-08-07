@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-instituto-de-educacion-media-74674"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-10-19"
-last_updated: "2011-04-29"
+last_updated: "2012-08-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74674&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE EDUCACION MEDIA SUPERIOR Y SUPERIOR A DISTANCIA
 
-REGLAMENTO INTERIOR DEL INSTITUTO DE EDUCACION MEDIA SUPERIOR Y SUPERIOR A DISTANCIA DEL ESTADO DE MEXICO
+REGLAMENTO INTERIOR DEL INSTITUTO DE EDUCACIÓN MEDIA SUPERIOR Y SUPERIOR A DISTANCIA DEL ESTADO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 29 DE ABRIL DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA UNIVERSIDAD DIGITAL DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 7 DE AGOSTO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: ABROGADO.
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el viernes 19 de octubre de 2007.
 
@@ -145,7 +147,7 @@ V. Contraloría Interna.
 
 El Instituto contara con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en su Manual General de Organización; asimismo, se auxiliará de los servidores públicos y órganos técnicos y administrativos necesarios para el cumplimiento de sus atribuciones, de acuerdo con el presupuesto, estructura orgánica y normatividad aplicables.
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 29 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 29 DE ABRIL DE 2011)</small>
 
 ### CAPÍTULO III. DE LAS ATRIBUCIONES DE LOS SUBDIRECTORES Y JEFE DE UNIDAD
 
@@ -155,7 +157,7 @@ El Instituto contara con las demás unidades administrativas que le sean autoriz
 
 Al frente de cada Subdirección y de la Unidad habrá un Subdirector y un Jefe de Unidad, respectivamente, quienes se auxiliarán de los servidores públicos que las necesidades del servicio requieran.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE ABRIL DE 2011)</small>
 
 ###### Artículo 13.
 
@@ -193,11 +195,11 @@ XV. Vigilar y disponer lo necesario para el cumplimiento de las atribuciones, pr
 
 XVI. Las demás que les confieren otras disposiciones legales y aquellas que les encomiende el Director General.
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 29 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 29 DE ABRIL DE 2011)</small>
 
 ### CAPÍTULO IV. DE LAS ATRIBUCIONES DE LAS SUBDIRECCIONES, UNIDAD JURÍDICA Y CONTRALORÍA INTERNA
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE ABRIL DE 2011)</small>
 
 ###### Artículo 14.
 
@@ -311,7 +313,7 @@ VIII. Difundir entre el personal del Instituto los ordenamientos jurídicos que 
 
 IX. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Director General.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE ABRIL DE 2011)</small>
 
 ###### Artículo 17.
 
@@ -497,7 +499,7 @@ DIRECTOR GENERAL DEL INSTITUTO DE EDUCACIÓN MEDIA SUPERIOR Y SUPERIOR A DISTANC
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 G.G. 29 DE ABRIL DE 2011.
 
@@ -510,3 +512,11 @@ SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en
 TERCERO.- A partir de la entrada en vigor del presente Acuerdo, cuando en otros ordenamientos jurídicos, administrativos y demás documentos se haga referencia a las funciones, procesos y asuntos de las Subdirecciones de Educación Media Superior y Superior a Distancia y de Acreditación y Certificación Escolar, se entenderá que los mismos se encuentran conferidos a la Subdirección Académica; asimismo, cuando se haga referencia a los correspondientes del Departamento de Servicios Administrativos se entenderá a la Subdirección de Administración y Finanzas.
 
 CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
+
+G.G. 7 DE AGOSTO DE 2012.
+
+PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se abroga el Reglamento Interior del Instituto de Educación Media Superior y Superior a Distancia del Estado de México, publicado en el Periódico Oficial Gaceta del Gobierno el 19 de octubre de 2007.
