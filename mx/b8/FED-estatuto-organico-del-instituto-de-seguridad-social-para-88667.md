@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-de-seguridad-social-para-88667"
 country: "mx"
 rank: "estatuto"
 publication_date: "2012-07-30"
-last_updated: "2012-07-30"
+last_updated: "2012-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88667&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2012-07-23"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO DE SEGURIDAD SOCIAL PARA LAS FUERZAS ARMADAS MEXICANAS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE AGOSTO DE 2012 EN EL D.O.F., SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ESTATUTO ORGÁNICO DEL INSTITUTO DE SEGURIDAD SOCIAL PARA LAS FUERZAS ARMADAS MEXICANAS
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 7 DE AGOSTO DE 2012.</small>
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 30 de julio de 2012.
 
@@ -681,17 +681,17 @@ ART. 30.- Los Directores de las Unidades Administrativas serán suplidos en sus 
 
 ART. 31.- Las ausencias del Titular del Organo Interno de Control, así como las de los Titulares de las Areas de Auditoría y de Responsabilidades y Quejas, serán suplidas conforme a lo previsto en el Reglamento Interior de la Secretaría de la Función Pública.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE LOS TRANSITORIOS, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE AGOSTO DE 2012 EN EL D.O.F., SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ## TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
 
 El presente Estatuto entrará en vigor el 1o. de agosto de 2012.
 
+> <small>(F. DE E., D.O.F. 7 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO SEGUNDO.
 
-Queda abrogado el Estatuto Orgánico del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, expedido el 31 de julio de 2010, y cualquier otra disposición del propio Instituto que se oponga al presente Estatuto.
+Queda abrogado el Estatuto Orgánico del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, expedido el 21 de julio de 2010, y cualquier otra disposición del propio Instituto que se oponga al presente Estatuto.
 
 ###### ARTICULO TERCERO.
 
