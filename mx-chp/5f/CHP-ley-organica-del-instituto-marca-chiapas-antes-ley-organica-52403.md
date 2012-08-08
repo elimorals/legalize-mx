@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-del-instituto-marca-chiapas-antes-ley-organica-524
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-10-12"
-last_updated: "2011-05-11"
+last_updated: "2012-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # LEY ORGANICA DEL INSTITUTO MARCA CHIAPAS -ANTES LEY ORGANICA DEL INSTITUTO DE LAS ARTESANIAS Y PRODUCTOS DE CHIAPAS-
 
-LEY ORGANICA DEL INSTITUTO MARCA CHIAPAS
+LEY ORGÁNICA DEL INSTITUTO MARCA CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO, DE LA LEY ORGÁNICA DEL INSTITUTO CASA CHIAPAS, PUBLICADA EN EL P.O. DE 8 DE AGOSTO DE 2012, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el jueves 12 de octubre de 2006.
 
@@ -388,3 +390,13 @@ Los compromisos y procedimientos que a la entrada en vigor del presente Decreto,
 Artículo Cuarto.- Las Dependencias Normativas del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, deberán llevar a cabo de inmediato, las acciones que sean necesarias para el cumplimiento de lo ordenado en el presente instrumento.
 
 Artículo Quinto.- El Instituto Casa Chiapas, llevará a cabo lo conducente para la actualización de su marco jurídico.
+
+P.O. 8 DE AGOSTO DE 2012.
+
+Artículo Primero.- La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Queda abrogada, a partir de la entrada en vigor de la presente Ley, la Ley Orgánica del Instituto de las Artesanías expedida el 12 de octubre de 2006, mediante Decreto número 411, publicado en el Periódico Oficial número 388, de fecha 12 de octubre de 2006 y sus posteriores adiciones y reformas, así como todas las disposiciones que se opongan a la presente Ley.
+
+Artículo Tercero.- El actual Instituto Casa Chiapas, deberá emitir su Reglamento Interior de conformidad con los términos fijados en la presente ley, en un lapso de noventa días contado a partir de la fecha de publicación de ésta.
+
+Artículo Cuarto.- Los derechos sobre la Marca "México Chiapas Original" que hasta la entrada en vigor de la presente Ley, pertenecían a la titularidad del Instituto Marca Chiapas, serán trasferidos a la titularidad del Instituto Casa Chiapas, previa la realización de !os trámites legales correspondientes que éste deberá realizar ante la autoridad competente en la materia.
