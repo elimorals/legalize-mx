@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-del-tribunal-unitario-de-justicia-para-58709"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-12-19"
-last_updated: "2008-12-10"
+last_updated: "2012-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58709&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # LEY ORGANICA DEL TRIBUNAL UNITARIO DE JUSTICIA PARA ADOLESCENTES Y JUZGADOS ESPECIALIZADOS
 
-LEY ORGANICA DEL TRIBUNAL UNITARIO DE JUSTICIA PARA ADOLESCENTES Y JUZGADOS ESPECIALIZADOS
+LEY ORGÁNICA DEL TRIBUNAL UNITARIO DE JUSTICIA PARA ADOLESCENTES Y JUZGADOS ESPECIALIZADOS DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 19 de diciembre de 2007.
 
@@ -51,9 +51,11 @@ DISPOSICIONES GENERALES.
 
 La presente Ley es de orden público e interés social y tiene por objeto regular la organización, funcionamiento y atribuciones del Tribunal Unitario de Justicia para Adolescentes, así como de los Juzgados de Garantía y de Juicio Oral especializados en la materia en el Estado de Morelos.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 2.
 
-El Sistema Integral de Justicia para Adolescentes se integra por un Tribunal Unitario de Justicia para Adolescentes, por los Juzgados de Garantía y de Juicio Oral especializados en la materia, por las unidades especializadas del Ministerio Público, de la Defensoría Pública y por la Dirección de Ejecución de Medidas para Adolescentes.
+El sistema Integral de Justicia para Adolescentes se integra por un Tribunal Unitario de Justicia para Adolescentes, por los Juzgados de Garantía y de Juicio Oral especializados en la materia, por los Juzgados Especializados que determine la Ley de Justicia para Adolescentes del Estado de Morelos, por las unidades especializadas del Ministerio Público, de la Defensoría Pública y por la Dirección de Ejecución de Medidas para Adolescentes.
 
 ###### Artículo 3.
 
@@ -328,3 +330,13 @@ P.O. 10 DE DICIEMBRE DE 2008.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 8 DE AGOSTO DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano oficial de difusión del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDO. Los asuntos de carácter federal que a la entrada en vigor del presente Decreto ya se encuentren en trámite ante los jueces especializados que aplican el procedimiento acusatorio adversarial, seguirán su tramitación conforme a dicho sistema, hasta su conclusión en la etapa de ejecución.
+
+TERCERO. Ante las circunstancias particulares del caso, se faculta a la Magistrada Titular del Tribunal Unitario de Justicia para Adolescentes, para que, previa la evaluación correspondiente, nombre bajo su responsabilidad al Juez Especializado en Justicia Para Adolescentes que conocerá de los asuntos del orden penal federal, aplicando el procedimiento previsto en las leyes federales respectivas, en los términos que señala el presente Decreto.
+
+CUARTO. La Magistrada Titular del Tribunal Unitario de Justicia para Adolescentes deberá efectuar el nombramiento a que se refiere el Transitorio Tercero de este Decreto, en un plazo no mayor a diez días hábiles contados a partir de que el presente Decreto inicie su vigencia.
