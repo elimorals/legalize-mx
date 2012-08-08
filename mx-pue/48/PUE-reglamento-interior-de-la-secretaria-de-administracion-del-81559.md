@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-secretaria-de-administracion-del-8155
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-05-13"
-last_updated: "2011-05-13"
+last_updated: "2012-08-08"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81559&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE ADMINISTRACION, DEL ESTADO DE PUEBLA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE ADMINISTRACION DEL ESTADO DE PUEBLA
+REGLAMENTO INTERIOR DE LA SECRETARIA DE ADMINISTRACIÓN DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE ADMINISTRACIÓN, PUBLICADO EN EL P.O. DE 8 DE AGOSTO DE 2012, EL PRESENTE ORDENAMIENTO SE DEJA SIN EFECTOS.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: SIN EFECTOS.
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el viernes 13 de mayo de 2011.
 
@@ -1554,3 +1556,23 @@ TERCERO.- En tanto no se expidan los manuales de organización, de procedimiento
 Todo instrumento legal, jurídico o administrativo y norma en sentido formal o material, que a la entrada en vigor del presente Decreto, se refiera a unidades administrativas que se desaparecen o modifican su denominación, se entenderá atribuida a las unidades administrativas a que se refiere el presente ordenamiento y a las que atribuya la competencia especifica que en cada caso se relacione.
 
 Dado en la sede del Poder Ejecutivo del Estado, en la Heroica Puebla de Zaragoza, a los once días del mes de mayo de dos mil once.- El Gobernador Constitucional del Estado Libre y Soberano de Puebla.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- El Secretario de Administración.- C. JOSÉ CABALÁN MACARI ÁLVARO.- Rúbrica.- El Secretario General de Gobierno.- C. FERNANDO LUIS MANZANILLA PRIETO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 8 DE AGOSTO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deja sin efectos el Decreto por el que se expide el Reglamento de la Secretaría de Administración, publicado en el Periódico Oficial del Estado de 13 de mayo de 2011.
+
+###### ARTÍCULO TERCERO.
+
+Se dejan sin efectos las disposiciones que se opongan al presente Reglamento.
+
+###### ARTÍCULO CUARTO.
+
+Todo instrumento legal, jurídico o administrativo y norma en sentido formal o material, que a la entrada en vigor del presente Decreto, se refiera a unidades administrativas que se desaparecen o modifican su denominación, se entenderá atribuida a las unidades administrativas a que se refiere el presente ordenamiento y a las que atribuya la competencia especifica que en cada caso se relacione.
