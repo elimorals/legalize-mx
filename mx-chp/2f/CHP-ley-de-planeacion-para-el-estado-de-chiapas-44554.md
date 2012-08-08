@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-planeacion-para-el-estado-de-chiapas-44554"
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-17"
-last_updated: "2010-11-05"
+last_updated: "2012-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHP"
 ---
 # LEY DE PLANEACION PARA EL ESTADO DE CHIAPAS
 
-LEY DE PLANEACION PARA EL ESTADO DE CHIAPAS
+LEY DE PLANEACIÓN PARA EL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el jueves 17 de Marzo de 2005.
 
@@ -157,7 +157,9 @@ III.- COPLADEM, como el órgano colegiado de planeación municipal, en el que lo
 
 El Sistema tendrá por objeto:
 
-I. Efectuar la planeación del desarrollo del Estado y de los municipios; alineándose a los Objetivos de Desarrollo del Mileno en materia de Desarrollo Social.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2012)</small>
+
+I. Efectuar la Planeación del Desarrollo del Estado y de los Municipios a efecto de propiciar el desarrollo integral y sustentable del Estado, erradicar la pobreza extrema, elevar el índice de desarrollo humano y la calidad de vida de los habitantes del Estado y los municipios que lo integran y establecer las políticas públicas que permitan lograr los objetivos de desarrollo del milenio establecidas en el artículo 77 de la Constitución Política del Estado de Chiapas.
 
 II. Establecer la congruencia entre los planes, programas y proyectos nacionales, estatales y municipales, para el desarrollo.
 
@@ -195,15 +197,19 @@ VI. Sustentabilidad de los recursos naturales; y,
 
 VII. (DEROGADA, P.O. 5 DE NOVIEMBRE DE 2010)
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 11.
 
-En los planes y programas, deberán cumplirse los siguientes aspectos:
+En los Planes y Programas deberán cumplirse los siguientes aspectos:
 
-I. Aquellos enfocados al desarrollo social, deberán contribuir al cumplimiento de los objetivos y metas de los Objetivos de Desarrollo del Milenio.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2012)</small>
 
-II. Serán prioritarios, los programas sociales, productivos, y los de infraestructura.
+I. Los planes y programas enfocados al desarrollo social deberán contribuir al cumplimiento de los objetivos y metas de desarrollo del milenio del programa de las naciones unidas para el desarrollo y deberán priorizar el gasto social en educación, acceso a la salud y mejores ingresos para los habitantes de los municipios con menores índices de desarrollo humano determinados por dicho programa.
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2012)</small>
+
+II. Serán prioritarios los programas sociales productivos y los de infraestructura y se deberá considerar en la definición de sus objetivos, metas e indicadores la transversalidad de temas como la equidad de género y el medio ambiente.
 
 III. De los anteriores, tendrán prioridad los que beneficien a un mayor número de habitantes o los que por su naturaleza se consideren estratégicos y generen una mayor cantidad de empleos permanentes, así como los que atiendan a la población con mayores niveles de pobreza.
 
@@ -309,7 +315,9 @@ Los instrumentos de planeación, que como mínimo deberá observar y, en su caso
 
 I. El Plan Nacional y los programas que de él se deriven.
 
-II. El Plan Estatal y los programas que de él se deriven.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2012)</small>
+
+II. El Plan Estatal y los programas regionales y sectoriales que de él se deriven.
 
 III. La Ley de Ingreso del Estado de Chiapas.
 
@@ -325,9 +333,15 @@ VIII. Los Informes trimestrales sobre los avances físico-financieros.
 
 IX. El Informe de Gobierno del Estado.
 
-X. Las evaluaciones sectoriales.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2012)</small>
+
+X. La Evaluación del Plan Estatal de Desarrollo y de los Programas Regionales y Sectoriales que de él se deriven.
 
 XI. La Cuenta Pública Estatal.
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2012)</small>
+
+XII. La línea basal de los Objetivos de Desarrollo del Milenio.
 
 > <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
@@ -361,11 +375,13 @@ Los programas se clasifican sobre la base de su temporalidad, en programas de me
 
 Todas las acciones encaminadas a cumplir con los planes y programas deberán ser procesadas y consideradas, para efectos programáticos y presupuestales, en los Programas Operativos Anuales.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 19.
 
-Los Programas Sectoriales se considerarán de mediano plazo, retomarán las directrices, objetivos y estrategias del Plan Estatal y regirán el desempeño de las actividades del sector administrativo de que se trate, conforme a la agrupación que establezca el Ejecutivo del Estado, de dependencias, entidades públicas del Estado, paraestatales y fideicomisos públicos estatales que se organicen de manera análoga a los organismos descentralizados.
+Los programas sectoriales, son los que emanan del Plan Estatal, se considerarán de mediano plazo, retomarán las directrices, objetivos y estrategias del plan estatal y regirán el desempeño de las actividades del sector administrativo de que se trate conforme a la agrupación que establezca el ejecutivo del estado, a través de la secretaria, de dependencias, entidades públicas del estado, paraestatales y fideicomisos públicos estatales que se organicen de manera análoga a los organismos descentralizados y que incidan en la atención del mismo sector administrativo.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 Los Programas Sectoriales deberán presentarse al Ejecutivo, en un periodo no mayor a seis meses, a partir de la publicación del Plan Estatal, aprobarse por el Congreso del Estado y ser publicados en el Periódico Oficial.
 
@@ -383,11 +399,11 @@ Cuando se trate del inicio del período de administración, los Programas Instit
 
 Los Programas Especiales, se considerarán de mediano plazo, contendrán acciones interinstitucionales coordinadas en atención a las políticas transversales y prioridades establecidas en el Plan Estatal. Impulsarán en el ámbito territorial el desarrollo integral y sustentable y pugnarán por elevar el nivel socioeconómico de vida de población en condición de pobreza. Serán elaborados por las dependencias o entidades que designe el Ejecutivo, presentados al mismo y publicados en el Periódico Oficial durante el periodo constitucional de la gestión gubernamental que le corresponda.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 22.
 
-Los Programas Regionales deberán apegarse al Plan Estatal y a los Planes Municipales, serán multisectoriales, conllevarán la participación coordinada de los tres órdenes de gobierno, se referirán a las regiones económicas establecidas en la Ley Orgánica de la Administración Pública del Estado de Chiapas o zonas específicas que se consideren prioritarias y estratégicas en función de la interrelación de sus componentes políticos, sociales, económicos y ambientales, y podrán, ser considerados de corto o mediano plazo. Estos serán formulados de manera colegiada dentro de la estructura del COPLADE, en su nivel regional y deberán ser presentados durante el periodo constitucional de la gestión gubernamental que corresponda.
+Los programas regionales deberán apegarse al Plan Estatal y a los Planes Municipales, serán multisectoriales, conllevarán la participación coordinada de los tres órdenes de gobierno, precisarán los objetivos, estrategias y prioridades del desarrollo integral y sustentable de las 15 regiones socioeconómicas que conforman a la entidad establecidas en el artículo 46 de la Constitución Política del Estado de Chiapas o zonas específicas que se consideren prioritarias y estratégicas en función de la interrelación de sus componentes políticos, sociales, económicos y ambientales y podrán ser considerados de corto o mediano plazo, éstos serán formulados de manera colegiada dentro de la estructura del COPLADE, en su nivel regional y deberán ser presentados para su examen y aprobación al H. Congreso del Estado durante el período constitucional de la gestión gubernamental que corresponda.
 
 > <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
@@ -437,17 +453,23 @@ IX. El Informe de Gobierno Municipal.
 
 X. La Cuenta Pública Municipal.
 
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2012)</small>
+
+XI. La línea basal de los Objetivos de Desarrollo del Milenio para los municipios del Estado de Chiapas.
+
 > <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 28.
 
 Los Planes Municipales diagnosticarán la situación socioeconómica y ambiental en el ámbito municipal y sectorial, precisando las prioridades, políticas públicas, objetivos y estrategias para su desarrollo, aplicando durante su vigencia el contenido de los Programas Operativos Anuales correspondientes, procurando su concordancia con los Objetivos de Desarrollo del Milenio, el Plan Nacional y Plan Estatal.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 29.
 
-Los Planes Municipales serán elaborados, aprobados y publicados en la gaceta por los respectivos Ayuntamientos Municipales, en un plazo no mayor a cuatro meses a partir del inicio de la administración municipal correspondiente y su vigencia no excederá del período constitucional, a fin de incrementar el índice de Desarrollo Humano de su población, alineando las políticas en materia de Desarrollo Social del Municipio a los Objetivos de Desarrollo del Milenio.
+Los Planes Municipales serán elaborados por cada uno de los Ayuntamientos Municipales que conforman al Estado de Chiapas, quienes deberán remitirlos al H. Congreso del Estado para su examen y aprobación correspondiente, posteriormente serán publicados en la gaceta municipal por los respectivos ayuntamientos, en un plazo no mayor a cuatro meses a partir del inicio de la administración municipal y su vigencia no excederá del período constitucional.
+
+Los Ayuntamientos deberán en sus Planes Municipales, alinear las políticas públicas en materia de desarrollo social a los objetivos de desarrollo del milenio para incrementar el índice de desarrollo humano de su población.
 
 > <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
@@ -581,33 +603,35 @@ X. Definir la captación de recursos del Estado y las participaciones municipale
 
 XI. Supervisar que las operaciones en que se haga uso del crédito público, se cumpla con el Plan Estatal, los Planes Municipales y los Programas que de estos se deriven;
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2012)</small>
 
-XII. Evaluar el Plan Estatal; conforme lo demande el entorno político, social y económico del Estado, preferentemente al tercer y al último año de la administración gubernamental correspondiente. La evaluación podrá ser utilizada como insumo para la instrumentación del nuevo Plan Estatal;
+XII. Evaluar anualmente el Plan Estatal, así como los planes regionales y sectoriales para el desarrollo del Estado. Dicha evaluación deberá ser presentada al H. Congreso del Estado en el mes de mayo y deberá ser utilizada como insumo para la adecuación y perfeccionamiento de dichos planes y podrá ser utilizada como insumo para la formulación del nuevo Plan Estatal.
 
-XIII. Las que señala la Ley Orgánica de la Administración Pública del Estado de Chiapas y demás ordenamientos e instrumentos normativos en la materia; y,
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+XIII. Promover y vigilar el debido cumplimiento de la presente ley.
 
-XIV. Promover y vigilar el debido cumplimiento de la presente Ley;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2012)</small>
 
-> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+XIV. Vigilar que las actividades y funciones de las. dependencias y entidades de la Administración Pública Estatal, se apeguen y cumplan con los objetivos y estrategias establecidos en el Plan Estatal.
 
-XV. Vigilar que las actividades y funciones de las dependencias y Entidades de la Administración Pública Estatal, se apeguen y cumplan con los objetivos y estrategias establecidos en el Plan Estatal.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2012)</small>
 
-> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+XV. Modernizar la administración pública para garantizar el cumplimiento del Plan Estatal y un mejor ejercicio del proceso de planeación para el desarrollo; y,
 
-XVI. Modernizar la Administración Pública para garantizar el cumplimiento del Plan Estatal y un mejor ejercicio del proceso de planeación para el desarrollo.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2012)</small>
+
+XVI. Las que señale la Ley Orgánica de la Administración Pública del Estado de Chiapas y demás ordenamientos e instrumentos normativos en la materia.
 
 ###### Artículo 43.
 
 (DEROGADO, P.O. 5 DE NOVIEMBRE DE 2010)
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 44.
 
-A la Secretaría de la Función Pública le corresponde comprobar la observancia de las disposiciones emitidas en el proceso de planeación, en lo referente a presupuestación y ejercicio del gasto público.
+A la Secretaría de la Función Pública le corresponde comprobar la observancia de las disposiciones emitidas en el proceso de planeación, en lo referente a la formulación, ejecución, control y evaluación de los planes y programas, así como a la presupuestación y ejercicio del gasto público, en caso de incumplimiento por parte de los responsables del proceso de planeación, se estará a lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas.
 
 ###### Artículo 45.
 
@@ -723,6 +747,8 @@ VIII. El Sistema de Anteproyecto de Presupuesto de Egresos (SAPE).
 
 IX. Las demás que el Sistema considere necesarios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 53.
 
 Las funciones principales que deberán cumplir estas herramientas de apoyo son:
@@ -782,3 +808,9 @@ P.O. 5 DE NOVIEMBRE DE 2010.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que tengan igual o menor jerarquía al presente Decreto, y que se opongan al mismo.
+
+P.O. 8 DE AGOSTO DE 2012.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan las disposiciones que se opongan al presente decreto.
