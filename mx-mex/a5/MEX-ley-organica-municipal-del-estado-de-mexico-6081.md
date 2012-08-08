@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2012-08-01"
+last_updated: "2012-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE AGOSTO DE 2012.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -1323,13 +1323,21 @@ III. Organizaciones sociales representativas de las comunidades;
 
 IV. Las demás organizaciones que determinen las leyes y reglamentos o los acuerdos del ayuntamiento.
 
+> <small>(REFORMADO, G.G. 8 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 65.
 
-Los integrantes de las comisiones del ayuntamiento serán nombrados por éste, de entre sus miembros, a propuesta del presidente municipal.
+Los integrantes de las comisiones del ayuntamiento serán nombrados por éste, de entre sus miembros, a propuesta del presidente municipal, a más tardar en la tercera sesión ordinaria que celebren al inicio de su gestión.
+
+Las comisiones se conformarán de forma plural y proporcional, teniendo en cuenta el número de sus integrantes y la importancia de los ramos encomendados a las mismas; en su integración se deberá tomar en consideración el conocimiento, profesión, vocación y experiencia de los integrantes del ayuntamiento.
+
+> <small>(REFORMADO, G.G. 8 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 66.
 
-Las comisiones del ayuntamiento serán responsables de estudiar, examinar y proponer a éste los acuerdos, acciones o normas tendientes a mejorar la administración pública municipal, así como de vigilar y reportar al propio ayuntamiento sobre los asuntos a su cargo y sobre el cumplimiento de las disposiciones y acuerdos que dicte el cabildo.
+Las comisiones del ayuntamiento serán responsables de estudiar, examinar y proponer a éste los acuerdos, acciones o normas tendientes a mejorar la administración pública municipal, así como de vigilar e informar sobre los asuntos a su cargo y sobre el cumplimiento de las disposiciones y acuerdos que dicte el cabildo.
+
+Las comisiones, deberán entregar al ayuntamiento, en sesión ordinaria, un informe trimestral que permita conocer y transparentar el desarrollo de sus actividades, trabajo y gestiones realizadas.
 
 ###### Artículo 67.
 
@@ -1338,6 +1346,10 @@ Las comisiones, para el cumplimiento de sus fines y previa autorización del ayu
 ###### Artículo 68.
 
 Previa autorización del ayuntamiento, las comisiones podrán llamar a comparecer a los titulares de las dependencias administrativas municipales a efecto de que les informen, cuando así se requiera, sobre el estado que guardan los asuntos de su dependencia.
+
+> <small>(ADICIONADO, G.G. 8 DE AGOSTO DE 2012)</small>
+
+Las comisiones podrán solicitar a través del presidente de la comisión al Secretario del Ayuntamiento, la información necesaria con el propósito de que puedan atender los asuntos que les han sido encomendados, así como para llevar a cabo el cumplimiento de sus funciones. Para tal efecto, éste deberá entregarla de forma oportuna.
 
 ###### Artículo 69.
 
@@ -3416,3 +3428,9 @@ G.G. 1 DE AGOSTO DE 2012.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 8 DE AGOSTO DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
