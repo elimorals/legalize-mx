@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-justicia-para-adolescentes-del-estado-de-morelos-62577"
 country: "mx"
 rank: "ley"
 publication_date: "2008-08-18"
-last_updated: "2010-12-29"
+last_updated: "2012-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el lunes 18 de agosto de 2008.
 
@@ -1509,7 +1509,19 @@ II. La acción prescribirá transcurrido un término igual al medio aritmético 
 
 III. Cuando se trate de conductas antisociales graves, del orden federal, la medida sancionadora de privación de la libertad será hasta de tres años a los adolescentes a que se refiere la fracción II del artículo 6° y hasta de cinco años a los adolescentes a que se refiere la fracción III del artículo 6° de esta Ley;
 
-IV. Esta disposición tendrá vigencia en tanto no entre en vigor la Ley Federal del Sistema de Justicia para Adolescentes; en caso de celebrarse convenio con la Federación sobre esta materia, se estará a lo dispuesto por dicho convenio.
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2012)</small>
+
+IV. El Tribunal Unitario de Justicia para Adolescentes, contará con un Juez Especializado con competencia para conocer de aquellos asuntos relacionados con infracciones a las leyes penales federales cometidas por menores de dieciocho años, en términos de lo dispuesto por el artículo 500 del Código Federal de Procedimientos Penales;
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2012)</small>
+
+V. El Juzgado Especializado a que se refiere la fracción anterior, aplicará el procedimiento previsto en las leyes federales respectivas, en tanto no contravenga los principios contenidos en el artículo 18 de la Constitución Política de los Estados Unidos Mexicanos y observará lo dispuesto por el artículo 12 de la presente Ley;
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2012)</small>
+
+VI. Se reconoce plena validez a lo actuado ante los Jueces Especializados, conforme al procedimiento acusatorio adversarial, y
+
+VII. Esta disposición tendrá vigencia en tanto no entre en vigor la Ley Federal del Sistema de Justicia para Adolescentes; en caso de celebrarse convenio con la Federación sobre esta materia, se estará a lo dispuesto por dicho convenio.
 
 OCTAVO.- En un plazo de treinta días hábiles contados a partir de la fecha de entrada en vigor de la presente Ley, el Colegio Estatal de Seguridad Pública deberá instrumentar los cursos de capacitación a los elementos policiales del Estado en relación con los preceptos de este ordenamiento.
 
@@ -1566,3 +1578,13 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Los juicios y procedimientos relacionados con las reformas contenidas en este decreto, serán substanciados hasta su culminación, conforme a las normas bajo las cuales fueron iniciados.
+
+P.O. 8 DE AGOSTO DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano oficial de difusión del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDO. Los asuntos de carácter federal que a la entrada en vigor del presente Decreto ya se encuentren en trámite ante los jueces especializados que aplican el procedimiento acusatorio adversarial, seguirán su tramitación conforme a dicho sistema, hasta su conclusión en la etapa de ejecución.
+
+TERCERO. Ante las circunstancias particulares del caso, se faculta a la Magistrada Titular del Tribunal Unitario de Justicia para Adolescentes, para que, previa la evaluación correspondiente, nombre bajo su responsabilidad al Juez Especializado en Justicia Para Adolescentes que conocerá de los asuntos del orden penal federal, aplicando el procedimiento previsto en las leyes federales respectivas, en los términos que señala el presente Decreto.
+
+CUARTO. La Magistrada Titular del Tribunal Unitario de Justicia para Adolescentes deberá efectuar el nombramiento a que se refiere el Transitorio Tercero de este Decreto, en un plazo no mayor a diez días hábiles contados a partir de que el presente Decreto inicie su vigencia.
