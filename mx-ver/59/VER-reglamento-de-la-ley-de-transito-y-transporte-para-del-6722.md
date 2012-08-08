@@ -4,7 +4,7 @@ identifier: "VER-reglamento-de-la-ley-de-transito-y-transporte-para-del-6722"
 country: "mx"
 rank: "reglamento"
 publication_date: "1988-11-24"
-last_updated: "1996-04-04"
+last_updated: "2012-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6722&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "VER"
 ---
 # REGLAMENTO DE LA LEY DE TRANSITO Y TRANSPORTE PARA DEL ESTADO DE VERACRUZ
 
-REGLAMENTO DE LA LEY DE TRANSITO Y TRANSPORTE PARA EL ESTADO DE VERACRUZ
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE OCTUBRE DE 2012 EN LA G.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE ABRIL DE 1996.
+REGLAMENTO DE LA LEY DE TRÁNSITO Y TRANSPORTE PARA EL ESTADO DE VERACRUZ
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE AGOSTO DE 2012.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el jueves 24 de noviembre de 1988.
 
@@ -3630,6 +3632,10 @@ durante el viaje, con excepción
 
 de los servicios de segunda clase.
 
+> <small>(ADICIONADO, G.O. 8 DE AGOSTO DE 2012)</small>
+
+ART. 192 BIS. La explotación de nuevas rutas otorgadas mediante modificaciones o ampliaciones, autorizadas en términos del segundo párrafo del artículo 119 de la Ley, deberá iniciar dentro del plazo de veinte días hábiles contados a partir del día siguiente a aquél en que se hubiere otorgado. La falta de cumplimiento de este plazo dará lugar a la anulación de la autorización.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE MARZO DE 1991)</small>
 
 ART. 193. Los choferes A.- Falta de aseo y pulcritud en conductores de
@@ -4204,6 +4210,12 @@ V.- Se violen en más de tres ocasiones las condiciones establecidas en la conce
 
 VI.- Se niegue sin causa justificada, previo apercibimiento de la Dirección General, la prestación del servicio público a cualquier persona que lo solicite.
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE OCTUBRE DE 2012 EN LA G.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(ADICIONADO, G.O. 8 DE AGOSTO DE 2012)</small>
+
+ART. 228 BIS. Para efectos de lo dispuesto en el artículo 134, fracción IV, de la Ley, el plazo que tiene el concesionario para iniciar la prestación del servicio de transporte público, será de veinte días hábiles contados a partir del día siguiente a aquél en que sea entregado el título de concesión.
+
 > <small>(REFORMADO, G.O. 4 DE ABRIL DE 1996)</small>
 
 ART. 229. La suspensión o revocación de una concesión, procederá sin perjuicio de la aplicación de otras sanciones.
@@ -4335,3 +4347,9 @@ Se derogan todas las disposiciones que se opongan al presente Ordenamiento.
 G.O. 4 DE ABRIL DE 1996.
 
 UNICO. El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta Oficial" del Estado.
+
+G.O. 8 DE AGOSTO DE 2012.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. A partir de la entrada en vigor de este Decreto, las autorizaciones de ampliaciones de ruta, con una antigüedad mayor a veinte días hábiles, cuya explotación no se hubiera iniciado a la entrada en vigor del presente acto, quedan sin efecto legal alguno. Los concesionarios que presten sus servicios en rutas anuladas en términos de este instrumento, se harán acreedores a las demás sanciones en términos de Ley.
