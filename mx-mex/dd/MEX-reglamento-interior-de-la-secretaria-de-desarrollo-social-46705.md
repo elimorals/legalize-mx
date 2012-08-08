@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-secretaria-de-desarrollo-social-46705
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-09-16"
-last_updated: "2008-08-22"
+last_updated: "2012-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,15 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE AGOSTO DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL DEL ESTADO DE MÉXICO, PUBLICADO EN EL G.G. 8 DE AGOSTO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el viernes 16 de septiembre de 2005.
 
-LICENCIADO ENRIQUE PEÑA NIETO, GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MEXICO, EN EJERCICIO DE LA FACULTAD QUE ME CONFIERE EL ARTICULO 77 FRACCIONES II, IV, XXVIII, XXXVIII Y XLII DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO, Y CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTICULOS 2 y 8 DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO; Y
+LICENCIADO ENRIQUE PEÑA NIETO, GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MEXICO, EN EJERCICIO DE LA FACULTAD QUE ME CONFIERE EL ARTICULO 77 FRACCIONES II, IV, XXVIII, XXXVIII Y XLII DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO, Y CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTICULOS 2 Y 8 DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO; Y
 
 CONSIDERANDO.
 
@@ -524,3 +526,15 @@ PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del G
 SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.-Se derogan las disposiciones de igual o menor jerarquía que se opongan a las establecidas en el presente Acuerdo.
+
+G.G. 8 DE AGOSTO DE 2012.
+
+PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se abroga el Reglamento Interior de la Secretaría de Desarrollo Social, publicado en el Periódico Oficial "Gaceta del Gobierno" el 16 de septiembre de 2005.
+
+CUARTO.- A partir de la entrada en vigor del presente Reglamento, cuando en otros ordenamientos legales, reglamentarios y administrativos se haga referencia a la Dirección General de Inversión para el Desarrollo Social, se entenderá a la Dirección General de Promoción para el Desarrollo Social.
+
+QUINTO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que sean contrarias a las establecidas en el presente Reglamento.
