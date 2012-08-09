@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2012-05-15"
+last_updated: "2012-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO CIVIL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE AGOSTO DE 2012.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -927,7 +927,11 @@ Oficial con conocimiento de impedimentos para el matrimonio
 
 11.- El oficial del Registro Civil que tenga conocimiento de que los pretendientes tienen impedimento para contraer matrimonio, levantará acta, en la que hará constar los datos que le hagan suponer que existe el impedimento.
 
-El acta firmada por los que en ella intervinieren, será remitida al Juez de Primera Instancia que corresponda para que con audiencia de los pretendientes, del denunciante y del Ministerio Público, haga la calificación del impedimento.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, G.G. 9 DE AGOSTO DE 2012)</small>
+
+El acta firmada por los que en ella intervinieren, será remitida al Juez de Primera Instancia que corresponda para que con audiencia de los pretendientes y del denunciante, haga la calificación del impedimento.
 
 Denuncia de impedimentos de matrimonio
 
@@ -3923,9 +3927,13 @@ Obligación de disminuir el patrimonio familiar
 
 Presencia del Ministerio Público en la extinción o reducción
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, G.G. 9 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 4.
 
-394.- El Ministerio Público será oído en la extinción y en la reducción del patrimonio de familia.
+394.- En la extinción y en la reducción del patrimonio de familia, el Juez deberá velar por la protección del interés superior de los menores e incapaces.
 
 Efectos de la extinción del patrimonio familiar
 
@@ -7967,9 +7975,13 @@ Concepto de obligación
 
 Suspensión de la partición
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, G.G. 9 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 6.
 
-288.- Puede suspenderse la partición en virtud de convenio expreso de los interesados. Habiendo herederos incapaces, deberá oírse a su representante legal y al Ministerio Público; el auto en que se aprueba el convenio, determinará el tiempo que deba durar la indivisión.
+288.- Puede suspenderse la partición en virtud de convenio expreso de los interesados. Habiendo herederos incapaces, deberá oírse a su representante legal; el auto en que se aprueba el convenio, determinará el tiempo que deba durar la indivisión.
 
 Entrega de legado por disposición testamentaria
 
@@ -8007,7 +8019,11 @@ Libertad de los herederos para concluir la herencia
 
 294.- Cuando todos los herederos sean mayores de edad, podrán adoptar los acuerdos que estimen convenientes, aún el de separarse del juicio, para el arreglo o terminación de la testamentaria o intestado.
 
-Cuando haya incapaces se podrán celebrar los acuerdos, con aprobación judicial, si están debidamente representados, oyendo al Ministerio Público.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, G.G. 9 DE AGOSTO DE 2012)</small>
+
+Cuando haya incapaces se podrán celebrar los acuerdos, con aprobación judicial, si están debidamente representados.
 
 Formación de la partición y adjudicación
 
@@ -9163,11 +9179,31 @@ Elementos del daño moral, sujeto a prueba
 
 156.- En todo caso, quien demande la reparación del daño moral deberá acreditar plenamente la ilicitud de la conducta del demandado y el daño que se produjo como consecuencia inmediata y directa de tal conducta.
 
+> <small>(ADICIONADO, G.G. 9 DE AGOSTO DE 2012)</small>
+
+De conformidad a lo establecido por este ordenamiento, se consideran como hechos ilícitos las siguientes conductas:
+
+l. Comunicar a una o más personas, la imputación que se hace a otra de un hecho cierto o falso, determinado o indeterminado, que cause o pueda causarle deshonra, descrédito o perjuicio, o exponerla al desprecio de alguien.
+
+II. Ejecutar una acción o proferir una expresión que, por su naturaleza, ocasión o circunstancia, pueda perjudicar la reputación del agraviado, fuera de una contienda de obra o palabra y con ánimo de ofender.
+
+III. Imputar a otro falsamente un delito, ya sea porque el hecho es falso o inocente la persona a quien se imputa.
+
 Ejercicio del derecho de opinión, crítica, expresión o información
+
+> <small>(REFORMADO, G.G. 9 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 7.
 
-157.- Quien ejerza sus derechos de opinión, crítica, expresión o información, no estará obligada a la reparación del daño moral, siempre que se sujete a lo dispuesto por los artículos 6 y 7 de la Constitución Política de los Estados Unidos Mexicanos.
+157.- No podrá demandarse la reparación del daño a quien:
+
+l. Ejerza sus derechos de opinión, crítica, expresión o información, en términos de lo dispuesto por los artículos 6 y 7 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Cuando aquélla se haya hecho a un funcionario o persona que haya obrado con carácter público, si la imputación fuere relativa al ejercicio de sus funciones o cuando el demandado obre por motivo de interés público o privado, pero legitimo.
+
+II. En el contexto de un proceso contencioso, presente escrito o discurso, con las salvedades de las responsabilidades que de acuerdo con otras disposiciones legales puedan acreditarse.
+
+III. Goce de fuero constitucional.
 
 La acción de reparación no es transmisible
 
@@ -17358,3 +17394,25 @@ CUARTO.- Las adopciones simples decretadas seguirán surtiendo sus efectos legal
 QUINTO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan o contradigan a lo contenido en este Decreto.
 
 SEXTO.- EI Titular del Ejecutivo del Estado, expedirá las disposiciones reglamentarias que resulten necesarias, para hacerlas acordes al presente Decreto, dentro del plazo de sesenta días a partir de su entrada en vigor.
+
+G.G. 9 DE AGOSTO DE 2012.
+
+DECRETO NÚMERO 460.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 9 DE AGOSTO DE 2012.
+
+DECRETO NÚMERO 462.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor a los noventa días de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Los agentes del Ministerio Público continuarán su intervención en los asuntos que se encuentren en trámite a la fecha de entrada en vigor de este Decreto, en los casos en que los menores o incapaces carezcan de representante legal o cuando la autoridad judicial así lo determine, siempre que advierta que el representante es omiso o actúa en contra del interés superior de aquéllos.
+
+La intervención a que se refiere el párrafo anterior se realizará por conducto de las unidades administrativas de la Procuraduría General de Justicia del Estado de México, en los términos que determine el Procurador.
+
+CUARTO.- Los agentes del Ministerio Público que a la fecha de entrada en vigor de este Decreto se encuentren adscritos a órganos jurisdiccionales en materias civil y familiar, serán distribuidos en las unidades administrativas de la Procuraduría General de Justicia del Estado de México, conforme a las necesidades del servicio.
