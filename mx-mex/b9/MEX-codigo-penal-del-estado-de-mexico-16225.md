@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2012-05-03"
+last_updated: "2012-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE AGOSTO DE 2012.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -1564,6 +1564,14 @@ XII. Cuando el personal al cuidado o disposición de los registros de audiograba
 > <small>(REFORMADO, G.G. 2 DE ENERO DE 2006)</small>
 
 Al responsable de este delito se le impondrán de uno a cinco años de prisión y de treinta a ciento cincuenta días multa, la destitución del cargo será definitiva y la inhabilitación será de 2 a 8 años para desempeñar empleo, cargo o comisión públicos.
+
+> <small>(ADICIONADO, G.G. 9 DE AGOSTO DE 2012)</small>
+
+###### Artículo 136 Bis.
+
+De la misma forma comete el delito de Abuso de Autoridad, el Servidor Público que sin causa justificada, remita a algún corralón o depósito de vehículos para su resguardo, uno o más vehículos.
+
+Al responsable de este delito se le impondrán de uno a cinco años de prisión y de 30 a 150 días multa; así mismo la destitución del cargo e inhabilitación de 2 a 8 años para desempeñar empleo, cargo o comisión públicos.
 
 ###### Artículo 137.
 
@@ -3427,79 +3435,51 @@ DELITOS CONTRA LA REPUTACION DE LA PERSONA
 
 ###### Artículo 275.
 
-A quien fuera de una contienda de obra o palabra y con ánimo de ofender, ejecute una acción o profiera una expresión que, por su naturaleza, ocasión o circunstancia, pueda perjudicar la reputación del agraviado, se le impondrán de tres a seis meses de prisión o de treinta a sesenta días multa.
+(DEROGADO, G.G. 9 DE AGOSTO DE 2012)
 
 ###### Artículo 276.
 
-Al que públicamente y fuera de riña diere a otro un golpe que no cause lesión con intención de ofenderlo, se le impondrán de tres a seis meses de prisión o de treinta a sesenta días multa.
-
-> <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DE 2004)</small>
+(DEROGADO, G.G. 9 DE AGOSTO DE 2012)
 
 ###### Artículo 277.
 
-Cuando las injurias o los golpes que no causen lesiones, se infieran a un ascendiente o descendiente consanguíneo en línea recta, se le impondrán de tres meses a tres años de prisión, y multa de treinta a doscientos cincuenta días multa o trabajo a favor de la comunidad.
+(DEROGADO, G.G. 9 DE AGOSTO DE 2012)
 
 ###### Artículo 278.
 
-Al que comunique a una o más personas, la imputación que se hace a otra de un hecho cierto o falso, determinado o indeterminado, que cause o pueda causarle deshonra, descrédito o perjuicio, o exponerla al desprecio de alguien, se le impondrán de seis meses a tres años de prisión, de treinta a setenta y cinco días multa y de treinta a setecientos cincuenta días multa por concepto de reparación del daño.
+(DEROGADO, G.G. 9 DE AGOSTO DE 2012)
 
 ###### Artículo 279.
 
-Al inculpado de difamación no se le admitirá prueba alguna para acreditar la verdad de su imputación, sino en dos casos:
-
-I. Cuando aquélla se haya hecho a un funcionario o agente de la autoridad, o a cualquiera otra persona que haya obrado con carácter público, si la imputación fuere relativa al ejercicio de sus funciones; y
-
-II. Cuando el inculpado obre por motivo de interés público o por interés privado, pero legítimo y sin ánimo de dañar.
-
-En estos casos no se aplicará pena alguna al inculpado que probare su imputación.
+(DEROGADO, G.G. 9 DE AGOSTO DE 2012)
 
 ###### Artículo 280.
 
-No se impondrá sanción alguna al inculpado de difamación:
-
-I. Que manifieste técnicamente su parecer sobre alguna producción literaria, artística, científica o industrial;
-
-II. Que manifieste su juicio sobre la capacidad, instrucción, aptitud o conducta de otro, si probare que obró en cumplimiento de un deber o por interés público, o que, con la debida reserva, lo hizo por humanidad, por prestar un servicio a persona con quien tenga parentesco, o amistad, o dando informes que se le hubieren pedido, si no lo hiciere calumniosamente;
-
-III. Al autor de un escrito presentado o de un discurso pronunciado en los tribunales, pues si hiciese uso de alguna expresión difamatoria, los jueces, según la gravedad del caso, le impondrán alguna de las correcciones disciplinarias de las que permita la ley; y
-
-IV. Cuando fuere periodista en ejercicio de sus funciones y no faltare a la verdad, en los términos de los artículos 6º y 7º de la Constitución Política de los Estados Unidos Mexicanos.
+(DEROGADO, G.G. 9 DE AGOSTO DE 2012)
 
 ###### Artículo 281.
 
-Lo prevenido en la facción III del artículo anterior no comprende el caso en que la imputación sea calumniosa o se extienda a personas extrañas al litigio, o envuelva hechos que no se relacionen con el negocio de que se trata. Si así fuere, se impondrán las sanciones de la injuria, de la difamación o de la calumnia.
+(DEROGADO, G.G. 9 DE AGOSTO DE 2012)
 
 ###### Artículo 282.
 
-Al que impute a otro falsamente un delito, ya sea porque el hecho es falso o inocente la persona a quien se imputa, se le impondrán de uno a cuatro años de prisión, de treinta a cien días multa y de treinta a ochocientos días multa por concepto de reparación del daño.
-
-A la pena señalada se agregará la publicación de sentencia a título de reparación del daño. Asimismo, se publicará la sentencia a petición del interesado, cuando éste fuere absuelto, porque el hecho imputado no constituya delito o él no lo hubiere cometido.
-
-La publicación de sentencia se hará a costa del sentenciado por este delito.
+(DEROGADO, G.G. 9 DE AGOSTO DE 2012)
 
 ###### Artículo 283.
 
-No se admitirá prueba de la imputación al inculpado de calumnia, cuando exista sentencia ejecutoriada que haya absuelto al calumniado del mismo delito que aquél le impute.
+(DEROGADO, G.G. 9 DE AGOSTO DE 2012)
 
 ###### Artículo 284.
 
-No se podrá proceder contra el autor de una injuria, difamación o calumnia, sino por querella de la persona ofendida, excepto en los casos siguientes:
-
-I. Si el ofendido ha muerto y la injuria, la difamación o la calumnia fueren posteriores a su fallecimiento, sólo se podrá proceder en virtud de querella del cónyuge, de los ascendientes, de los descendientes o de los hermanos; y
-
-II. Cuando la injuria, la difamación o la calumnia sean anteriores al fallecimiento del ofendido, no se atenderá querella de las personas mencionadas, si aquél hubiere permitido la ofensa a sabiendas de que se le había inferido, no hubiere presentado en vida su querella, pudiendo hacerlo, ni prevenido que la hicieran sus herederos.
+(DEROGADO, G.G. 9 DE AGOSTO DE 2012)
 
 ###### Artículo 285.
 
-Los escritos, estampas, pinturas o cualquier otra cosa que hubiere servido de medio para la injuria, la difamación o la calumnia, se recogerán e inutilizarán a menos que se trate de algún documento público o de uno privado que importe obligación, liberación o transmisión del derecho.
-
-En tal caso se hará en el documento una anotación sumaria de la sentencia pronunciada contra el inculpado.
+(DEROGADO, G.G. 9 DE AGOSTO DE 2012)
 
 ###### Artículo 286.
 
-Serán responsables de los delitos cometidos por medio de la imprenta, fotografía, cine, radio, televisión u otro medio de publicidad, y se impondrá la pena que corresponda al delito o delitos cometidos en los términos de este subtítulo, a los autores de la difusión, escrito o estampa.
-
-Si éstos no fueren conocidos o no estuvieren domiciliados en el Estado, o estuvieren exentos de responsabilidad, serán responsables los directores de la publicación o productores que tampoco se hallen en ninguno de los casos mencionados. En defecto de éstos, responderán los editores conocidos, domiciliados en el Estado, y no exentos de responsabilidad, y en su defecto los impresores o empresarios.
+(DEROGADO, G.G. 9 DE AGOSTO DE 2012)
 
 ## TITULO CUARTO. DELITOS CONTRA EL PATRIMONIO
 
@@ -4684,6 +4664,22 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 G.G. 3 DE MAYO DE 2012.
 
 DECRETO NÚMERO 441, POR EL QUE SE REFORMA EL PRIMER PÁRRAFO Y SE ADICIONAN DOS ÚLTIMOS PÁRRAFOS AL ARTÍCULO 292 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 9 DE AGOSTO DE 2012.
+
+DECRETO NÚMERO 460 POR EL QUE SE DEROGAN LOS ARTÍCULOS 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285 Y 286 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 9 DE AGOSTO DE 2012.
+
+DECRETO NÚMERO 461 POR EL QUE SE ADICIONA UN ARTÍCULO 136 BIS AL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
