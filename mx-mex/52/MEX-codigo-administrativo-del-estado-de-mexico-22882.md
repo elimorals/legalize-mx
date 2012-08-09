@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2012-05-18"
+last_updated: "2012-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE DICIEMBRE DE 2011.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.G. EL 18 DE MAYO DE 2012 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE DICIEMBRE DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE AGOSTO DE 2012.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -2079,13 +2077,29 @@ V. Vigilar en su caso, el cumplimiento de las disposiciones jurídicas en materi
 
 VI. Promover la formación y capacitación de recursos humanos especializados para la prevención y atención de las adicciones;
 
-VII. Actualizar permanentemente el padrón de instituciones y organismos que realicen actividades de prevención, atención y reinserción social en materia de adicciones;
+> <small>(REFORMADA, G.G. 9 DE AGOSTO DE 2012)</small>
+
+VII. Crear y actualizar permanentemente el padrón de instituciones y organismos que realicen actividades de prevención, atención y reinserción social en materia de adicciones;
 
 VIII. Proporcionar asistencia técnica y apoyo a los establecimientos de rehabilitación y atención privados y sociales, con base en los lineamientos que fije el Ejecutivo del Estado;
 
-IX. Realizar actividades en materia de investigación científica respecto al uso, abuso y dependencia de sustancias psicoactivas. Para este fin podrá celebrar acuerdos de colaboración con los centros de estudios superiores, las universidades u organismos de investigación; y
+> <small>(REFORMADA, G.G. 9 DE AGOSTO DE 2012)</small>
+
+IX. Realizar actividades en materia de investigación científica respecto al uso, abuso y dependencia de sustancias psicoactivas. Para este fin podrá celebrar acuerdos de colaboración con los centros de estudios superiores, las universidades u organismos de investigación;
 
 X. Llevar a cabo, a través del Instituto Mexiquense contra las Adicciones, los programas o acciones encaminadas a la prevención, atención del uso, abuso y dependencia de sustancias psicoactivas, así como su seguimiento y evaluación.
+
+> <small>(ADICIONADA, G.G. 9 DE AGOSTO DE 2012)</small>
+
+XI. Atender los reportes de la autoridad ministerial para promover la correspondiente orientación médica o de prevención; o bien, brindar el tratamiento al farmacodependiente, en términos de lo establecido en los artículos 193 Bis y 478 de la Ley General de Salud;
+
+> <small>(ADICIONADA, G.G. 9 DE AGOSTO DE 2012)</small>
+
+XII. Crear centros especializados en tratamiento, atención y rehabilitación, con base en sistemas modernos de tratamiento y rehabilitación, fundamentados en el respeto a la integridad y a la libre decisión del farmacodependiente, de conformidad con el artículo 192 Quáter de la Ley General de Salud; y
+
+> <small>(ADICIONADA, G.G. 9 DE AGOSTO DE 2012)</small>
+
+XIII. Crear indicadores y bases de datos que permitan identificar zonas, sectores y grupos de alto riesgo en materia de farmacodependencia.
 
 > <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
 
@@ -12325,7 +12339,7 @@ En las materias reguladas en el presente Libro no procederá el recurso administ
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
-## TITULO TERCERO. De las Concesiones, Permisos y Dictamenes
+## TITULO TERCERO. De las Concesiones, Permisos y Dictámenes
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -14865,7 +14879,7 @@ G.G. 21 DE AGOSTO DE 2006.
 
 PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-SEGUNDO.- Este decreto entrará en vigor al día siguiente a aquél en que inicie la vigencia el Decreto que adiciona un quinto párrafo a la fracción XXX, reforma la fracción XLVII y adiciona la fracción XLVIII al articulo 61 de la Constitución Política del Estado Libre y Soberano de México.
+SEGUNDO.- Este decreto entrará en vigor al día siguiente a aquél en que inicie la vigencia el Decreto que adiciona un quinto párrafo a la fracción XXX, reforma la fracción XLVII y adiciona la fracción XLVIII al artículo 61 de la Constitución Política del Estado Libre y Soberano de México.
 
 TERCERO.- El Titular del Ejecutivo Estatal expedirá el Reglamento y los Lineamientos para la aplicación del Libro Décimo Sexto del Código Administrativo del Estado de México, en un término de ciento veinte días posteriores a la entrada en vigor del mismo.
 
@@ -14963,7 +14977,7 @@ Para los efectos de los artículos 47 A párrafo tercero, 47 B párrafos primero
 
 CUARTO.- Los decretos números 86 y 91 de fechas 7 y 13 de noviembre de 2007, de la Legislatura Local, por los cuales se aprueban las Tablas de Valores Unitarios de Suelo y de Construcciones, forman parte del Código Financiero del Estado de México y Municipios en los términos del artículo 186 del mismo ordenamiento.
 
-QUINTO.- La reforma al articulo 219, fracción I inciso C), así como la adición de su inciso H) y la reforma al artículo 224, entrarán en vigor a partir de la fecha en que inicie la vigencia de las reformas, adiciones y derogaciones de diversas disposiciones de la Ley de Coordinación Fiscal, Ley del Impuesto sobre Tenencia o Uso de Vehículos y de la Ley del Impuesto Especial Sobre Producción y Servicios, aprobadas en la Cámara de Senadores el 14 de septiembre del 2007.
+QUINTO.- La reforma al artículo 219, fracción I inciso C), así como la adición de su inciso H) y la reforma al artículo 224, entrarán en vigor a partir de la fecha en que inicie la vigencia de las reformas, adiciones y derogaciones de diversas disposiciones de la Ley de Coordinación Fiscal, Ley del Impuesto sobre Tenencia o Uso de Vehículos y de la Ley del Impuesto Especial Sobre Producción y Servicios, aprobadas en la Cámara de Senadores el 14 de septiembre del 2007.
 
 SEXTO.- En el caso de los municipios que no suscribieron convenio con el Gobierno del Estado en términos del artículo 225 Bis vigente en 2007, la Secretaría de Finanzas distribuirá las participaciones correspondientes a 2007 a las que hace referencia el artículo 219, fracción II, inciso D) en la forma y términos en que se ha realizado con aquellos que han firmado el referido convenio.
 
@@ -15105,7 +15119,7 @@ Hasta, el treinta de septiembre de dos mil diez en los Distritos Judiciales de N
 
 Hasta, el treinta y uno de marzo de dos mil once en los Distritos Judiciales de Tlalnepantla, Cuautitlán y Zumpango;
 
-Hasta, el treinta de septiembre de dos mil once en los Distritos judiciales de Ecatepec de Morelos, jilotepec y Valle de Chalco.
+Hasta, el treinta de septiembre de dos mil once en los Distritos judiciales de Ecatepec de Morelos, Jilotepec y Valle de Chalco.
 
 CUARTO.·Los artículos 2.134 al 2.140 del Código de Procedimientos Civiles del Estado de México, quedarán derogados en las fechas y términos señalados a continuación:
 
@@ -15125,7 +15139,7 @@ G.G. 12 DE MAYO DE 2010.
 
 PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
 
-SEGUNDO.- Este decreto entrará en vigor al día siguiente de que inicie su vigencia la adición de un último parrafo al artículo 5 de la Constitución Política del Estado Libre y Soberano de México.
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de que inicie su vigencia la adición de un último párrafo al artículo 5 de la Constitución Política del Estado Libre y Soberano de México.
 
 TERCERO.- El Poder Ejecutivo del Estado de México adoptará en la esfera de su competencia las disposiciones pertinentes para la ejecución de las reformas objeto de este Decreto.
 
@@ -15536,3 +15550,9 @@ Los recursos que, en su caso, se obtengan como resultado de la aplicación progr
 NOVENO.- Los municipios que se beneficien por la modificación o no ratificación de las reducciones en las retenciones contempladas originalmente en los artículos 230 E y 230 K del Código Financiero del Estado de México y Municipios de acuerdo con el calendario contenido en el artículo Tercero Transitorio del Decreto No. 123 de la H. "LVI" Legislatura publicado en el Periódico Oficial "Gaceta del Gobierno" del Estado de México de fecha 27 de marzo de 2008, deberán remitir al Órgano Superior de Fiscalización del Estado de México y a la Legislatura su Plan Económico-Financiero de saneamiento a mediano plazo.
 
 DÉCIMO.- Para los efectos del artículo 47 Bis primer párrafo del Código, el aviso de dictamen y el dictamen sobre la base, determinación y pago del Impuesto Predial correspondiente al ejercicio fiscal 2011, podrá presentarse a más tardar el 30 de octubre de 2012, por tratarse de una nueva obligación fiscal que requiere el adecuado conocimiento de los contribuyentes, así como para desarrollar con oportunidad el sistema electrónico que facilitará su cumplimiento vía Internet.
+
+G.G. 9 DE AGOSTO DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
