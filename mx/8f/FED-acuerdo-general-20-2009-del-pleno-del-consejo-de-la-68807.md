@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-20-2009-del-pleno-del-consejo-de-la-68807"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-06-12"
-last_updated: "2012-01-18"
+last_updated: "2012-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68807&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-05-27"
 
 ACUERDO GENERAL 20/2009, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO AUXILIAR DE LA PRIMERA REGIÓN, CON RESIDENCIA EN EL DISTRITO FEDERAL, ASÍ COMO LOS ÓRGANOS JURISDICCIONALES QUE LO INTEGRARÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE AGOSTO DE 2012.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 12 de junio de 2009.
 
@@ -55,9 +55,9 @@ En consecuencia, con fundamento en los artículos Constitucionales y legales inv
 
 ACUERDO
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 38/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 25/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE AGOSTO DE 2012)</small>
 
-PRIMERO. CONFORMACION, COMPETENCIA y DENOMINACION. Se crea el Centro Auxiliar de la Primera Región, conformado por nueve tribunales colegiados de Circuito auxiliares, cuatro con residencia en el Distrito Federal, tres con sede en Cuernavaca, Morelos, y dos con residencia en Naucalpan de Juárez, Estado de México, y siete juzgados de Distrito auxiliares, cinco con sede en el Distrito Federal y dos en Cuernavaca, Morelos.
+PRIMERO. CONFORMACION, COMPETENCIA Y DENOMINACION. Se crea el Centro Auxiliar de la Primera Región, conformado por nueve tribunales colegiados de Circuito Auxiliares, cuatro con residencia en el Distrito Federal, tres con sede en Cuernavaca, Morelos, y dos con residencia en Naucalpan de Juárez, Estado de México, y seis juzgados de Distrito auxiliares, cinco con sede en el Distrito Federal y uno en Cuernavaca, Morelos.
 
 Los órganos jurisdiccionales antes mencionados, tendrán jurisdicción en toda la República y competencia mixta para apoyar en el dictado de sentencias.
 
@@ -94,8 +94,6 @@ Juzgado Cuarto de Distrito del Centro Auxiliar de la Primera Región, con reside
 Juzgado Quinto de Distrito del Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal.
 
 Juzgado Sexto de Distrito del Centro Auxiliar de la Primera Región, con residencia en Cuernavaca, Morelos.
-
-Juzgado Séptimo de Distrito del Centro Auxiliar de la Primera Región, con residencia en Cuernavaca, Morelos.
 
 SEGUNDO. INICIO DE FUNCIONES Y DOMICILIO. El Pleno del Consejo de la Judicatura Federal determinará la fecha de inicio de funciones, así como la ubicación de los órganos jurisdiccionales que integrarán el Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal.
 
@@ -240,3 +238,11 @@ PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, a los Acuerdos Generales 10/2008, 18/2008, 27/2008, 52/2008, 53/2008, 54/2008, 20/2009, 51/2009, 54/2009, 32/2010 y 33/2011, relativos a la Creación de cada uno de los once Centros Auxiliares Regionales.
+
+D.O.F. 9 DE AGOSTO DE 2012.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 17/2012, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los circuitos en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito, así como al diverso Acuerdo General 20/2009, del Pleno del Consejo de la Judicatura Federal, que crea el Centro Auxiliar de la Primera Región, así como los Organos Jurisdiccionales que lo integrarán.
+
+TERCERO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
