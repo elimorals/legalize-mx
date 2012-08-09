@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2012-06-25"
+last_updated: "2012-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE AGOSTO DE 2012.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -38,13 +38,13 @@ CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, QUE REFORMA LA DE 5 DE FE
 
 ## TITULO PRIMERO.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 10 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 10 DE JUNIO DE 2011)</small>
 
 ### CAPITULO I.
 
 DE LOS DERECHOS HUMANOS Y SUS GARANTIAS.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE JUNIO DE 2011)</small>
 
 ###### Artículo 1.
 
@@ -250,7 +250,7 @@ IV. Toda la educación que el Estado imparta será gratuita;
 
 V. Además de impartir la educación preescolar, primaria, secundaria y media superior, señaladas en el primer párrafo, el Estado promoverá y atenderá todos los tipos y modalidades educativos -incluyendo la educación inicial y a la educación superior- necesarios para el desarrollo de la nación, apoyará la investigación científica y tecnológica, y alentará el fortalecimiento y difusión de nuestra cultura;
 
-> <small>(ADICIONADO [N. DE E. REFORMADO] PRIMER PARRAFO, D.O.F. 12 DE NOVIEMBRE DE 2002)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO] PRIMER PÁRRAFO, D.O.F. 12 DE NOVIEMBRE DE 2002)</small>
 
 VI. Los particulares podrán impartir educación en todos sus tipos y modalidades. En los términos que establezca la ley, el Estado otorgará y retirará el reconocimiento de validez oficial a los estudios que se realicen en planteles particulares. En el caso de la educación preescolar, primaria, secundaria y normal, los particulares deberán:
 
@@ -1120,21 +1120,61 @@ I.- Haber cumplido 18 años, y
 
 II.- Tener un modo honesto de vivir.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2012)</small>
+
 ###### Art. 35.
 
-Son prerrogativas del ciudadano:
+Son derechos del ciudadano:
 
 I.- Votar en las elecciones populares;
 
-II.- Poder ser votado para todos los cargos de elección popular, y nombrado para cualquier otro empleo o comisión, teniendo las calidades que establezca la ley;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2012)</small>
+
+II.- Poder ser votado para todos los cargos de elección popular, teniendo las calidades que establezca la ley. El derecho de solicitar el registro de candidatos ante la autoridad electoral corresponde a los partidos políticos así como a los ciudadanos que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine la legislación;
 
 > <small>(REFORMADA, D.O.F. 22 DE AGOSTO DE 1996)</small>
 
 III.- Asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos del país;
 
-IV.- Tomar las armas en el Ejército o Guardia Nacional, para la defensa de la República y de sus instituciones, en los términos que prescriben las leyes; y
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2012)</small>
+
+IV.- Tomar las armas en el Ejército o Guardia Nacional, para la defensa de la República y de sus instituciones, en los términos que prescriben las leyes;
 
 V.- Ejercer en toda clase de negocios el derecho de petición.
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2012)</small>
+
+VI.- Poder ser nombrado para cualquier empleo o comisión del servicio público, teniendo las calidades que establezca la ley;
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2012)</small>
+
+VII.- Iniciar leyes, en los términos y con los requisitos que señalen esta Constitución y la Ley del Congreso. El Instituto Federal Electoral tendrá las facultades que en esta materia le otorgue la ley, y
+
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2012)</small>
+
+VIII.- Votar en las consultas populares sobre temas de trascendencia nacional, las que se sujetarán a lo siguiente:
+
+1o. Serán convocadas por el Congreso de la Unión a petición de:
+
+a) El Presidente de la República;
+
+b) El equivalente al treinta y tres por ciento de los integrantes de cualquiera de las Cámaras del Congreso de la Unión; o
+
+c) Los ciudadanos, en un número equivalente, al menos, al dos por ciento de los inscritos en la lista nominal de electores, en los términos que determine la ley.
+
+Con excepción de la hipótesis prevista en el inciso c) anterior, la petición deberá ser aprobada por la mayoría de cada Cámara del Congreso de la Unión,
+
+2o. Cuando la participación total corresponda, al menos, al cuarenta por ciento de los ciudadanos inscritos en la lista nominal de electores, el resultado será vinculatorio para los poderes Ejecutivo y Legislativo federales y para las autoridades competentes;
+
+3o. No podrán ser objeto de consulta popular la restricción de los derechos humanos reconocidos por esta Constitución; los principios consagrados en el artículo 40 de la misma; la materia electoral; los ingresos y gastos del Estado; la seguridad nacional y la organización, funcionamiento y disciplina de la Fuerza Armada permanente. La Suprema Corte de Justicia de la Nación resolverá, previo a la convocatoria que realice el Congreso de la Unión, sobre la constitucionalidad de la materia de la consulta;
+
+4o. El Instituto Federal Electoral tendrá a su cargo, en forma directa, la verificación del requisito establecido en el inciso c) del apartado 1o. de la presente fracción, así como la organización, desarrollo, cómputo y declaración de resultados;
+
+5o. La consulta popular se realizará el mismo día de la jornada electoral federal;
+
+6o. Las resoluciones del Instituto Federal Electoral podrán ser impugnadas en los términos de lo dispuesto en la fracción VI del artículo 41, así como de la fracción III del artículo 99 de esta Constitución; y
+
+7o. Las leyes establecerán lo conducente para hacer efectivo lo dispuesto en la presente fracción.
 
 ###### Art. 36.
 
@@ -1148,9 +1188,9 @@ La organización y el funcionamiento permanente del Registro Nacional de Ciudada
 
 II.- Alistarse en la Guardia Nacional;
 
-> <small>(REFORMADA, D.O.F. 22 DE AGOSTO DE 1996)</small>
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2012)</small>
 
-III.- Votar en las elecciones populares en los términos que señale la ley;
+III.- Votar en las elecciones y en las consultas populares, en los términos que señale la ley;
 
 IV.- Desempeñar los cargos de elección popular de la Federación o de los Estados, que en ningún caso serán gratuitos; y
 
@@ -1722,15 +1762,31 @@ El derecho de iniciar leyes o decretos compete:
 
 I.- Al Presidente de la República;
 
-II.- A los Diputados y Senadores al Congreso de la Unión; y
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2012)</small>
 
-III.- A las Legislaturas de los Estados.
+II.- A los Diputados y Senadores al Congreso de la Unión;
 
-> <small>(REFORMADO, D.O.F. 17 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2012)</small>
 
-Las iniciativas presentadas por el Presidente de la República, por las legislaturas de los Estados o por las diputaciones de los mismos, pasarán desde luego a comisión. Las que presentaren los diputados o los senadores, se sujetarán a los trámites que designen la Ley del Congreso y sus reglamentos respectivos.
+III.- A las Legislaturas de los Estados; y
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE AGOSTO DE 2011)</small>
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2012)</small>
+
+IV.- A los ciudadanos en un número equivalente, por lo menos, al cero punto trece por ciento de la lista nominal de electores, en los términos que señalen las leyes.
+
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2012)</small>
+
+La Ley del Congreso determinará el trámite que deba darse a las iniciativas.
+
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2012)</small>
+
+El día de la apertura de cada periodo ordinario de sesiones el Presidente de la República podrá presentar hasta dos iniciativas para trámite preferente, o señalar con tal carácter hasta dos que hubiere presentado en periodos anteriores, cuando estén pendientes de dictamen. Cada iniciativa deberá ser discutida y votada por el Pleno de la Cámara de su origen en un plazo máximo de treinta días naturales. Si no fuere así, la iniciativa, en sus términos y sin mayor trámite, será el primer asunto que deberá ser discutido y votado en la siguiente sesión del Pleno. En caso de ser aprobado o modificado por la Cámara de su origen, el respectivo proyecto de ley o decreto pasará de inmediato a la Cámara revisora, la cual deberá discutirlo y votarlo en el mismo plazo y bajo las condiciones antes señaladas.
+
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2012)</small>
+
+No podrán tener carácter preferente las iniciativas de adición o reforma a esta Constitución.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE AGOSTO DE 2011)</small>
 
 ###### Art. 72.
 
@@ -1768,7 +1824,7 @@ Tampoco podrá hacerlas al Decreto de convocatoria a sesiones extraordinarias qu
 
 DE LAS FACULTADES DEL CONGRESO.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE FEBRERO DE 1944)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE FEBRERO DE 1944)</small>
 
 ###### Artículo 133.
 
@@ -1844,7 +1900,7 @@ XIV.- Para levantar y sostener a las instituciones armadas de la Unión, a saber
 
 XV.- Para dar reglamentos con objeto de organizar, armar y disciplinar la Guardia Nacional, reservándose a los ciudadanos que la forman, el nombramiento respectivo de jefes y oficiales, y a los Estados la facultad de instruirla conforme a la disciplina prescrita por dichos reglamentos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE ENERO DE 1934)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE ENERO DE 1934)</small>
 
 XVI.- Para dictar leyes sobre nacionalidad, condición jurídica de los extranjeros, ciudadanía, naturalización, colonización, emigración e inmigración y salubridad general de la República.
 
@@ -1870,7 +1926,7 @@ XIX.- Para fijar las reglas a que debe sujetarse la ocupación y enajenación de
 
 XX.- Para expedir las leyes de organización del Cuerpo Diplomático y del Cuerpo Consular mexicano.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE JULIO DE 2011)</small>
 
 XXI. Para establecer los delitos y las faltas contra la Federación y fijar los castigos que por ellos deban imponerse; expedir leyes generales en materias de secuestro, y trata de personas, que establezcan, como mínimo, los tipos penales y sus sanciones, la distribución de competencias y las formas de coordinación entre la Federación, el Distrito Federal, los Estados y los Municipios; así como legislar en materia de delincuencia organizada.
 
@@ -1896,11 +1952,11 @@ XXIV.- Para expedir la Ley que regule la organización de la entidad de fiscaliz
 
 XXV.- Para establecer, organizar y sostener en toda la República escuelas rurales, elementales, superiores, secundarias y profesionales; de investigación científica, de bellas artes y de enseñanza técnica, escuelas prácticas de agricultura y de minería, de artes y oficios, museos, bibliotecas, observatorios y demás institutos concernientes a la cultura general de los habitantes de la nación y legislar en todo lo que se refiere a dichas instituciones; para legislar sobre vestigios o restos fósiles y sobre monumentos arqueológicos, artísticos e históricos, cuya conservación sea de interés nacional; así como para dictar las leyes encaminadas a distribuir convenientemente entre la Federación, los Estados y los Municipios el ejercicio de la función educativa y las aportaciones económicas correspondientes a ese servicio público, buscando unificar y coordinar la educación en toda la República. Los Títulos que se expidan por los establecimientos de que se trata surtirán sus efectos en toda la República. Para legislar en materia de derechos de autor y otras figuras de la propiedad intelectual relacionadas con la misma.
 
-> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 1933)</small>
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2012)</small>
 
-XXVI.- Para conceder licencia al Presidente de la República y para constituirse en Colegio Electoral y designar al ciudadano que deba substituir al Presidente de la República, ya sea con el carácter de substituto, interino o provisional, en los términos de los artículos 84 y 85 de esta Constitución.
+XXVI.- Para conceder licencia al Presidente de la República y para constituirse en Colegio Electoral y designar al ciudadano que deba substituir al Presidente de la República, ya sea con el carácter de interino o substituto, en los términos de los artículos 84 y 85 de esta Constitución;
 
-(REUBICADA [N. DE E. ANTES FRACCION XXIX], D.O.F. 20 DE AGOSTO DE 1928)
+(REUBICADA [N. DE E. ANTES FRACCIÓN XXIX], D.O.F. 20 DE AGOSTO DE 1928)
 
 XXVII.- Para aceptar la renuncia del cargo de Presidente de la República.
 
@@ -2004,6 +2060,10 @@ XXIX-O.- Para legislar en materia de protección de datos personales en posesió
 
 XXIX-P.- Expedir leyes que establezcan la concurrencia de la Federación, los Estados, el Distrito Federal y los Municipios, en el ámbito de sus respectivas competencias, en materia de derechos de niñas, niños y adolescentes, velando en todo momento por el interés superior de los mismos y cumpliendo con los tratados internacionales de la materia, de los que México sea parte.
 
+> <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2012)</small>
+
+XXIX-Q.- Para legislar sobre iniciativa ciudadana y consultas populares.
+
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 24 DE OCTUBRE DE 1942)</small>
 
 XXX.- Para expedir todas las leyes que sean necesarias, a objeto de hacer efectivas las facultades anteriores, y todas las otras concedidas por esta Constitución a los Poderes de la Unión.
@@ -2062,7 +2122,9 @@ La revisión de la Cuenta Pública la realizará la Cámara de Diputados a trav�
 
 La Cuenta Pública del ejercicio fiscal correspondiente deberá ser presentada a la Cámara de Diputados a más tardar el 30 de abril del año siguiente. Sólo se podrá ampliar el plazo de presentación en los términos de la fracción IV, último párrafo, de este artículo; la prórroga no deberá exceder de 30 días naturales y, en tal supuesto, la entidad de fiscalización superior de la Federación contará con el mismo tiempo adicional para la presentación del informe del resultado de la revisión de la Cuenta Pública.
 
-La Cámara concluirá la revisión de la Cuenta Pública a más tardar el 30 de septiembre del año siguiente al de su presentación, con base en el análisis de su contenido y en las conclusiones técnicas del informe del resultado de la entidad de fiscalización superior de la Federación, a que se refiere el artículo 79 de esta Constitución, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por la entidad de fiscalización superior de la Federación, seguirá su curso en términos de lo dispuesto en dicho artículo.
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2012)</small>
+
+La Cámara concluirá la revisión de la Cuenta Pública a más tardar el 31 de octubre del año siguiente al de su presentación, con base en el análisis de su contenido y en las conclusiones técnicas del informe del resultado de la entidad de fiscalización superior de la Federación, a que se refiere el artículo 79 de esta Constitución, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por la entidad de fiscalización superior de la Federación, seguirá su curso en términos de lo dispuesto en dicho artículo.
 
 La Cámara de Diputados evaluará el desempeño de la entidad de fiscalización superior de la Federación y al efecto le podrá requerir que le informe sobre la evolución de sus trabajos de fiscalización.
 
@@ -2094,9 +2156,9 @@ I.- Analizar la política exterior desarrollada por el Ejecutivo Federal con bas
 
 Además, aprobar los tratados internacionales y convenciones diplomáticas que el Ejecutivo Federal suscriba, así como su decisión de terminar, denunciar, suspender, modificar, enmendar, retirar reservas y formular declaraciones interpretativas sobre los mismos.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2012)</small>
 
-II.- Ratificar los nombramientos que el mismo funcionario haga del Procurador General de la República, Ministros, agentes diplomáticos, cónsules generales, empleados superiores de Hacienda, coroneles y demás jefes superiores del Ejército, Armada y Fuerza Aérea Nacionales, en los términos que la ley disponga.
+II.- Ratificar los nombramientos que el mismo funcionario haga del Procurador General de la República, embajadores, cónsules generales, empleados superiores de Hacienda, integrantes de los órganos colegiados encargados de la regulación en materia de telecomunicaciones, energía y competencia económica, coroneles y demás jefes superiores del Ejército, Armada y Fuerza Aérea Nacionales, en los términos que la ley disponga;
 
 III.- Autorizarlo también para que pueda permitir la salida de tropas nacionales fuera de los límites del País, el paso de tropas extranjeras por el territorio nacional y la estación de escuadras de otra potencia, por más de un mes, en aguas mexicanas.
 
@@ -2174,13 +2236,19 @@ II. Recibir, en su caso, la protesta del Presidente de la República;
 
 III. Resolver los asuntos de su competencia; recibir durante el receso del Congreso de la Unión las iniciativas de ley, las observaciones a los proyectos de ley o decreto que envíe el Ejecutivo y proposiciones dirigidas a las Cámaras y turnarlas para dictamen a las comisiones de la Cámara a la que vayan dirigidas, a fin de que se despachen en el inmediato periodo de sesiones;
 
-IV. Acordar por sí o a propuesta del Ejecutivo, la convocatoria del Congreso o de una sola Cámara a sesiones extraordinarias, siendo necesario en ambos casos el voto de las dos terceras partes de los individuos presentes. La convocatoria señalará el objeto u objetos de las sesiones extraordinarias;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2012)</small>
+
+IV. Acordar por sí o a propuesta del Ejecutivo, la convocatoria del Congreso o de una sola Cámara a sesiones extraordinarias, siendo necesario en ambos casos el voto de las dos terceras partes de los individuos presentes. La convocatoria señalará el objeto u objetos de las sesiones extraordinarias. Cuando la convocatoria sea al Congreso General para que se erija en Colegio Electoral y designe presidente interino o substituto, la aprobación de la convocatoria se hará por mayoría;
 
 V. Otorgar o negar su ratificación a la designación del Procurador General de la República, que le someta el titular del Ejecutivo Federal;
 
-VI. Conceder licencia hasta por treinta días al Presidente de la República y nombrar el interino que supla esa falta;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2012)</small>
 
-VII. Ratificar los nombramientos que el Presidente haga de ministros, agentes diplomáticos, cónsules generales, empleados superiores de Hacienda, coroneles y demás jefes superiores del Ejército, Armada y Fuerza Aérea Nacionales, en los términos que la ley disponga, y
+VI. Conceder licencia hasta por sesenta días naturales al Presidente de la República;
+
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2012)</small>
+
+VII. Ratificar los nombramientos que el Presidente haga de embajadores, cónsules generales, empleados superiores de Hacienda, integrantes de los órganos colegiados encargados de la regulación en materia de telecomunicaciones, energía y competencia económica, coroneles y demás jefes superiores del Ejército, Armada y Fuerza Aérea Nacionales, en los términos que la ley disponga, y
 
 VIII. Conocer y resolver sobre las solicitudes de licencia que le sean presentadas por los legisladores.
 
@@ -4488,35 +4556,41 @@ VI.- No ser Secretario o subsecretario de Estado, Procurador General de la Repú
 
 VII.- No estar comprendido en alguna de las causas de incapacidad establecidas en el artículo 83.
 
-> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 1933)</small>
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2012)</small>
 
 ###### Art. 83.
 
-El Presidente entrará a ejercer su encargo el 1º de diciembre y durará en él seis años. El ciudadano que haya desempeñado el cargo de Presidente de la República, electo popularmente, o con el carácter de interino, provisional o substituto, en ningún caso y por ningún motivo podrá volver a desempeñar ese puesto.
+El Presidente entrará a ejercer su encargo el 1o. de diciembre y durará en él seis años. El ciudadano que haya desempeñado el cargo de Presidente de la República, electo popularmente, o con el carácter de interino o substituto, o asuma provisionalmente la titularidad del Ejecutivo Federal, en ningún caso y por ningún motivo podrá volver a desempeñar ese puesto.
 
-> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 1933)</small>
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2012)</small>
 
 ###### Art. 84.
 
-En caso de falta absoluta del Presidente de la República, ocurrida en los dos primeros años del período respectivo, si el Congreso estuviere en sesiones, se constituirá inmediatamente en Colegio Electoral, y concurriendo cuando menos las dos terceras partes del número total de sus miembros, nombrará en escrutinio secreto y por mayoría absoluta de votos, un presidente interino; el mismo Congreso expedirá, dentro de los diez días siguientes al de la designación de presidente interino, la convocatoria para la elección del presidente que deba concluir el período respectivo; debiendo mediar entre la fecha de la convocatoria y la que se señale para la verificación de las elecciones, un plazo no menor de catorce meses, ni mayor de dieciocho.
+En caso de falta absoluta del Presidente de la República, en tanto el Congreso nombra al presidente interino o substituto, lo que deberá ocurrir en un término no mayor a sesenta días, el Secretario de Gobernación asumirá provisionalmente la titularidad del Poder Ejecutivo. En este caso no será aplicable lo establecido en las fracciones II, III y VI del artículo 82 de esta Constitución.
 
-Si el Congreso no estuviere en sesiones, la Comisión Permanente nombrará desde luego un presidente provisional y convocará a sesiones extraordinarias al Congreso para que éste, a su vez, designe al presidente interino y expida la convocatoria a elecciones presidenciales en los términos del artículo (sic) anterior.
+Quien ocupe provisionalmente la Presidencia no podrá remover o designar a los Secretarios de Estado, ni al Procurador General de la República, sin autorización previa de la Cámara de Senadores. Asimismo, entregará al Congreso de la Unión un informe de labores en un plazo no mayor a diez días, contados a partir del momento en que termine su encargo.
 
-Cuando la falta de presidente ocurriese en los cuatro últimos años del período respectivo, si el Congreso de la Unión se encontrase en sesiones, designará al presidente substituto que deberá concluir el período; si el Congreso no estuviere reunido, la Comisión Permanente nombrará un presidente provisional y convocará al Congreso de la Unión a sesiones extraordinarias para que se erija en Colegio Electoral y haga la elección del presidente substituto.
+Cuando la falta absoluta del Presidente ocurriese en los dos primeros años del período respectivo, si el Congreso de la Unión se encontrase en sesiones y concurriendo, cuando menos, las dos terceras partes del número total de los miembros de cada Cámara, se constituirá inmediatamente en Colegio Electoral y nombrará en escrutinio secreto y por mayoría absoluta de votos, un presidente interino, en los términos que disponga la Ley del Congreso. El mismo Congreso expedirá, dentro de los diez días siguientes a dicho nombramiento, la convocatoria para la elección del Presidente que deba concluir el período respectivo, debiendo mediar entre la fecha de la convocatoria y la que se señale para la realización de la jornada electoral, un plazo no menor de siete meses ni mayor de nueve. El así electo iniciará su encargo y rendirá protesta ante el Congreso siete días después de concluido el proceso electoral.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE NOVIEMBRE DE 2007)</small>
+Si el Congreso no estuviere en sesiones, la Comisión Permanente lo convocará inmediatamente a sesiones extraordinarias para que se constituya en Colegio Electoral, nombre un presidente interino y expida la convocatoria a elecciones presidenciales en los términos del párrafo anterior.
+
+Cuando la falta absoluta del Presidente ocurriese en los cuatro últimos años del período respectivo, si el Congreso de la Unión se encontrase en sesiones, designará al presidente substituto que deberá concluir el período, siguiendo, en lo conducente, el mismo procedimiento que en el caso del presidente interino.
+
+Si el Congreso no estuviere reunido, la Comisión Permanente lo convocará inmediatamente a sesiones extraordinarias para que se constituya en Colegio Electoral y nombre un presidente substituto siguiendo, en lo conducente, el mismo procedimiento que en el caso del presidente interino.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2012)</small>
 
 ###### Art. 85.
 
-Si al comenzar un periodo constitucional no se presentase el presidente electo, o la elección no estuviere hecha o declarada válida el 1o. de diciembre, cesará, sin embargo, el Presidente cuyo periodo haya concluido y se encargará desde luego del Poder Ejecutivo, en calidad de Presidente interino, el que designe el Congreso de la Unión, o en su falta con el carácter de provisional, el que designe la Comisión Permanente, procediéndose conforme a lo dispuesto en el artículo anterior.
+Si antes de iniciar un periodo constitucional la elección no estuviese hecha o declarada válida, cesará el Presidente cuyo periodo haya concluido y será presidente interino el que haya designado el Congreso, en los términos del artículo anterior.
 
-> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 1933)</small>
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2012)</small>
 
-Cuando la falta del presidente fuese temporal, el Congreso de la Unión, si estuviese reunido, o en su defecto la Comisión Permanente, designará un presidente interino para que funcione durante el tiempo que dure dicha falta.
+Si al comenzar el periodo constitucional hubiese falta absoluta del Presidente de la República, asumirá provisionalmente el cargo el Presidente de la Cámara de Senadores, en tanto el Congreso designa al presidente interino, conforme al artículo anterior.
 
-> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 1933)</small>
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2012)</small>
 
-Cuando la falta del presidente sea por más de treinta días y el Congreso de la Unión no estuviere reunido, la Comisión Permanente convocará a sesiones extraordinarias del Congreso para que éste resuelva sobre la licencia y nombre, en su caso, al presidente interino.
+Cuando el Presidente solicite licencia para separarse del cargo hasta por sesenta días naturales, una vez autorizada por el Congreso, el Secretario de Gobernación asumirá provisionalmente la titularidad del Poder Ejecutivo.
 
 > <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 1933)</small>
 
@@ -4530,13 +4604,21 @@ El cargo de Presidente de la República sólo es renunciable por causa grave, qu
 
 El Presidente, al tomar posesión de su cargo, prestará ante el Congreso de la Unión o ante la Comisión Permanente, en los recesos de aquél, la siguiente protesta: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos y las leyes que de ella emanen, y desempeñar leal y patrióticamente el cargo de Presidente de la República que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Unión; y si así no lo hiciere que la Nación me lo demande."
 
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2012)</small>
+
+Si por cualquier circunstancia el Presidente no pudiere rendir la protesta en los términos del párrafo anterior, lo hará de inmediato ante las Mesas Directivas de las Cámaras del Congreso de la Unión.
+
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2012)</small>
+
+En caso de que el Presidente no pudiere rendir la protesta ante el Congreso de la Unión, ante la Comisión Permanente o ante las Mesas Directivas de las Cámaras del Congreso de la Unión lo hará de inmediato ante el Presidente de la Suprema Corte de Justicia de la Nación.
+
 > <small>(REFORMADO, D.O.F. 29 DE AGOSTO DE 2008)</small>
 
 ###### Art. 88.
 
 El Presidente de la República podrá ausentarse del territorio nacional hasta por siete días, informando previamente de los motivos de la ausencia a la Cámara de Senadores o a la Comisión Permanente en su caso, así como de los resultados de las gestiones realizadas. En ausencias mayores a siete días, se requerirá permiso de la Cámara de Senadores o de la Comisión Permanente.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE AGOSTO DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE AGOSTO DE 1987)</small>
 
 ###### Art. 89.
 
@@ -4544,15 +4626,17 @@ Las facultades y obligaciones del Presidente, son las siguientes:
 
 I.- Promulgar y ejecutar las leyes que expida el Congreso de la Unión, proveyendo en la esfera administrativa a su exacta observancia.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2012)</small>
 
-II.- Nombrar y remover libremente a los secretarios del despacho, remover a los agentes diplomáticos y empleados superiores de Hacienda, y nombrar y remover libremente a los demás empleados de la Unión, cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución o en las leyes.
+II.- Nombrar y remover libremente a los Secretarios de Estado, remover a los embajadores, cónsules generales y empleados superiores de Hacienda, y nombrar y remover libremente a los demás empleados de la Unión, cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución o en las leyes;
 
-III.- Nombrar los ministros, agentes diplomáticos y cónsules generales, con aprobación del Senado.
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2012)</small>
 
-> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 1944)</small>
+III.- Nombrar, con aprobación del Senado, a los embajadores, cónsules generales, empleados superiores de Hacienda y a los integrantes de los órganos colegiados encargados de la regulación en materia de telecomunicaciones, energía y competencia económica;
 
-IV.- Nombrar, con aprobación del Senado, los Coroneles y demás oficiales superiores del Ejército, Armada y Fuerza Aérea Nacionales, y los empleados superiores de Hacienda.
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2012)</small>
+
+IV.- Nombrar, con aprobación del Senado, los Coroneles y demás oficiales superiores del Ejército, Armada y Fuerza Aérea Nacionales;
 
 > <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 1944)</small>
 
@@ -5808,6 +5892,10 @@ Las legislaturas de los estados contarán con entidades estatales de fiscalizaci
 
 El titular de la entidad de fiscalización de las entidades federativas será electo por las dos terceras partes de los miembros presentes en las legislaturas locales, por periodos no menores a siete años y deberá contar con experiencia de cinco años en materia de control, auditoría financiera y de responsabilidades.
 
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2012)</small>
+
+Las Legislaturas de los Estados regularán los términos para que los ciudadanos puedan presentar iniciativas de ley ante el respectivo Congreso.
+
 III.- El Poder Judicial de los Estados se ejercerá por los tribunales que establezcan las Constituciones respectivas.
 
 La independencia de los magistrados y jueces en el ejercicio de sus funciones deberá estar garantizada por las Constituciones y las Leyes Orgánicas de los Estados, las cuales establecerán las condiciones para el ingreso, formación y permanencia de quienes sirvan a los Poderes Judiciales de los Estados.
@@ -5984,7 +6072,11 @@ I.- Los Diputados a la Asamblea Legislativa serán elegidos cada tres años por 
 
 II.- Los requisitos para ser diputado a la Asamblea no podrán ser menores a los que se exigen para ser diputado federal. Serán aplicables a la Asamblea Legislativa y a sus miembros en lo que sean compatibles, las disposiciones contenidas en los artículos 51, 59, 61, 62, 64 y 77, fracción IV de esta Constitución;
 
-III.- Al partido político que obtenga por sí mismo el mayor número de constancias de mayoría y por lo menos el treinta por ciento de la votación en el Distrito Federal, le será asignado el número de Diputados de representación proporcional suficiente para alcanzar la mayoría absoluta de la Asamblea;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2012)</small>
+
+III.- En la integración de la Asamblea Legislativa del Distrito Federal, invariablemente se observará el siguiente criterio:
+
+En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la Asamblea, que exceda en ocho puntos a su porcentaje de votación total emitida en el Distrito Federal. Esta base no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total de la Asamblea, superior a la suma del porcentaje de su votación total emitida más el ocho por ciento;
 
 IV.- Establecerá las fechas para la celebración de dos períodos de sesiones ordinarios al año y la integración y las atribuciones del órgano interno de gobierno que actuará durante los recesos. La convocatoria a sesiones extraordinarias será facultad de dicho órgano interno a petición de la mayoría de sus miembros o del Jefe de Gobierno del Distrito Federal;
 
@@ -5992,7 +6084,7 @@ V.- La Asamblea Legislativa, en los términos del Estatuto de Gobierno, tendrá 
 
 a).- Expedir su ley orgánica, la que será enviada al Jefe de Gobierno del Distrito Federal para el solo efecto de que ordene su publicación;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE AGOSTO DE 2009)</small>
 
 b) Examinar, discutir y aprobar anualmente el presupuesto de egresos y la ley de ingresos del Distrito Federal, aprobando primero las contribuciones necesarias para cubrir el presupuesto. Al señalar las remuneraciones de servidores públicos deberán sujetarse a las bases previstas en el artículo 127 de esta Constitución.
 
@@ -6008,7 +6100,7 @@ La Asamblea Legislativa formulará anualmente su proyecto de presupuesto y lo en
 
 Serán aplicables a la hacienda pública del Distrito Federal, en lo que no sea incompatible con su naturaleza y su régimen orgánico de gobierno, las disposiciones contenidas en el segundo párrafo del inciso c) de la fracción IV del artículo 115 de esta Constitución;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE MAYO DE 2008)</small>
 
 c).- Revisar la cuenta pública del año anterior, por conducto de la entidad de fiscalización del Distrito Federal de la Asamblea Legislativa, conforme a los criterios establecidos en la fracción VI del artículo 74, en lo que sean aplicables.
 
@@ -6044,9 +6136,13 @@ m).- Expedir la Ley Orgánica de los tribunales encargados de la función judici
 
 n).- Expedir la Ley Orgánica del Tribunal de lo Contencioso Administrativo para el Distrito Federal;
 
-ñ).- Presentar iniciativas de leyes o decretos en materias relativas al Distrito Federal, ante el Congreso de la Unión; y
+ñ).- Presentar iniciativas de leyes o decretos en materias relativas al Distrito Federal, ante el Congreso de la Unión; y (sic)
 
-o).- Las demás que se le confieran expresamente en esta Constitución.
+> <small>(ADICIONADO, D.O.F. 9 DE AGOSTO DE 2012)</small>
+
+o).- Para establecer en ley los términos y requisitos para que los ciudadanos del Distrito Federal ejerzan el derecho de iniciativa ante la propia Asamblea, y
+
+p).- Las demás que se le confieran expresamente en esta Constitución.
 
 BASE SEGUNDA.- Respecto al Jefe de Gobierno del Distrito Federal:
 
@@ -9732,13 +9828,23 @@ Segundo. El Congreso de la Unión deberá realizar las reformas a las leyes secu
 
 Tercero. Las autoridades federales podrán ejercer la facultad de atracción a que se refiere el presente Decreto, después de la entrada en vigor de las reformas a la ley secundaria, que al efecto expida el Honorable Congreso de la Unión.
 
-###### ARTICULO PRIMERO.
+D.O.F. 9 DE AGOSTO DE 2012.
 
-El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+###### ARTÍCULO PRIMERO.
 
-###### ARTICULO SEGUNDO.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
-Al entrar en vigor estas reformas, el Congreso de la Unión y las Legislaturas de las entidades federativas deberán realizar las adecuaciones a las leyes federales y constituciones locales que procedan y reglamenten lo aquí estipulado.
+###### ARTÍCULO SEGUNDO.
+
+El Congreso de la Unión deberá expedir la legislación para hacer cumplir lo dispuesto en el presente Decreto, a más tardar en un año contando a partir de la entrada en vigor del mismo.
+
+###### ARTÍCULO TERCERO.
+
+Los Congresos de los Estados y la Asamblea Legislativa del Distrito Federal deberán realizar las adecuaciones necesarias a su legislación secundaria, derivadas del presente Decreto en un plazo no mayor a un año, contado a partir de su entrada en vigor.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 601 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES MUEBLES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE; DEL CÓDIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, Y DE LOS CÓDIGOS HACENDARIOS PARA LOS MUNICIPIOS DE ALVARADO, BOCA DEL RÍO, COATEPEC, COATZACOALCOS, CÓRDOBA, COSOLEACAQUE, EMILIANO ZAPATA, MEDELLÍN DE BRAVO, ORIZABA, TIERRA BLANCA; VERACRUZ Y XALAPA, TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
