@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-contaduria-mayor-de-hacienda-de-69895
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-09-03"
-last_updated: "2009-09-03"
+last_updated: "2012-08-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69895&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2009-08-26"
 ---
 # REGLAMENTO INTERIOR DE LA CONTADURIA MAYOR DE HACIENDA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-REGLAMENTO INTERIOR DE LA CONTADURIA MAYOR DE HACIENDA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
+REGLAMENTO INTERIOR DE LA CONTADURÍA MAYOR DE HACIENDA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA CONTADURÍA MAYOR DE HACIENDA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 9 DE AGOSTO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 3 de septiembre de 2009.
 
@@ -777,3 +779,21 @@ Expedido por el Contador Mayor, Doctor David Manuel Vega Vera, con fundamento en
 _____________________________
 
 DR. DAVID MANUEL VEGA VERA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 9 DE AGOSTO DE 2012.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día hábil siguiente de su publicación.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal el 3 de septiembre de 2009, y se derogan todas las disposiciones que se opongan al presente Reglamento.
+
+TERCERO.- Los procedimientos que se hubieren iniciado durante la vigencia del Reglamento Interior abrogado, se continuarán de conformidad con las disposiciones de dicho Reglamento.
+
+CUARTO.- Toda la normatividad interna de la Contaduría, continuará vigente en todo aquello que no se oponga al contenido del presente Reglamento y deberá ser actualizada en un plazo no mayor a un año, contado a partir de la publicación del presente Reglamento, con excepción de los Manuales de Procedimientos que se actualizarán conforme al plazo establecido en el artículo QUINTO TRANSITORIO.
+
+QUINTO.- Los Manuales de Procedimientos que actualmente operan en la Contaduría, deberán ser actualizados en un periodo de ciento ochenta días hábiles, contados a partir de la publicación del presente Reglamento.
+
+SEXTO.- Los asuntos no previstos en el presente Reglamento, serán resueltos por el Contador Mayor mediante las circulares o acuerdos respectivos.
+
+SÉPTIMO.- Publíquese en la Gaceta Oficial del Distrito Federal.
