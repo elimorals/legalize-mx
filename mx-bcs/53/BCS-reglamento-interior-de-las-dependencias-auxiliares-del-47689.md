@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interior-de-las-dependencias-auxiliares-del-47689"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-30"
-last_updated: "2011-08-20"
+last_updated: "2012-08-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCS"
 ---
 # REGLAMENTO INTERIOR DE LAS DEPENDENCIAS AUXILIARES DEL GOBERNADOR DEL ESTADO
 
-REGLAMENTO INTERIOR DE LAS DEPENDENCIAS AUXILIARES DEL GOBERNADOR DEL ESTADO
+REGLAMENTO INTERIOR DE LAS DEPENDENCIAS AUXILIARES DEL GOBERNADOR DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 9 DE AGOSTO DE 2012.
 
 Reglamento publicado en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el viernes 30 de diciembre de 2005.
 
@@ -37,7 +37,7 @@ REGLAMENTO INTERIOR DE LAS DEPENDENCIAS AUXILIARES DEL GOBERNADOR DEL ESTADO
 
 El Titular del Poder Ejecutivo del Estado tiene a su cargo las atribuciones que expresamente le asigna la Constitución Política del Estado, así como la Ley Orgánica de la Administración Pública del Estado de Baja California Sur y demás disposiciones que de ellas emanen.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 2.
 
@@ -79,9 +79,9 @@ VIII. Unidad de Asesoría y de Apoyo Técnico;
 
 IX. Representación del Gobierno del Estado en la Ciudad de México;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 20 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, B.O. 9 DE AGOSTO DE 2012)</small>
 
-X. Representación del Gobierno del Estado en el Municipio de Los Cabos, Baja California Sur;
+X.- Representaciones del Gobierno del Estado en la (sic) ciudades de San José del Cabo y de Cabo San Lucas del Municipio de Los Cabos, Baja California Sur;
 
 > <small>(REFORMADA, B.O. 20 DE AGOSTO DE 2011)</small>
 
@@ -181,9 +181,9 @@ IV. Acordar directamente con el Gobernador del Estado para informarle y recibir 
 
 V. Recibir y despachar la correspondencia del Gobernador del Estado;
 
-> <small>(REFORMADA, B.O. 20 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, B.O. 9 DE AGOSTO DE 2012)</small>
 
-VI. Dar seguimiento a las actividades de la Representación del Gobierno del Estado en la Ciudad de México; Representación del Gobierno del Estado en el Municipio de Los Cabos, Oficina de enlace regional de la zona norte con el Gobierno del Estado de Baja California Sur; de la Unidad de Atención Ciudadana; de la Dirección de Comunicación Social; de la Dirección de Acción Cívica y Social; de la Dirección de Asuntos Internacionales, de la Unidad de Asesoría; así como con la Coordinación General de Administración.
+VI.- Dar seguimiento a las actividades de la Representación del Gobierno del Estado en la Ciudad de México; Representación del Gobierno del Estado en las Ciudades de San José del Cabo y de cabo San Lucas en el Municipio de Los Cabos, Oficina de Enlace Regional de la Zona Norte con el Gobierno del Estado de Baja California Sur; de la Unidad de Atención Ciudadana; de la Dirección de Comunicación Social; de la Dirección de Acción Cívica y Social; de la Dirección de Asuntos Internacionales, de la Unidad de Asesoría; así como con la Coordinación General de Administración.
 
 > <small>(REFORMADA, B.O. 6 DE JULIO DE 2011)</small>
 
@@ -371,21 +371,37 @@ V. Apoyar las gestiones de las dependencias del Gobierno del Estado en la zona N
 
 VI. Las demás que le asigne el Gobernador, de acuerdo a sus atribuciones.
 
-> <small>(ADICIONADO [N. DE E. REPUBLICADO], B.O. 20 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, B.O. 9 DE AGOSTO DE 2012)</small>
 
-###### ARTÍCULO 13-A.
+ARTÍCULO 13 A.- A la Representación del Gobierno del Estado en la Ciudad de San José del Cabo, del Municipio de Los Cabos, Baja California Sur, le corresponden las siguientes funciones:
 
-A la Representación del Gobierno del Estado en el Municipio de Los Cabos, Baja California Sur, le corresponden las siguientes funciones:
-
-I. Atender las actividades del Gobernador del Estado, cuando se encuentre en el Municipio de Los Cabos;
+I. Atender las actividades del Gobernador del Estado, cuando se encuentre en la Ciudad de San José del Cabo, Municipio de Los Cabos;
 
 II. En coordinación con la Secretaría de Despacho correspondiente, gestionar en el Municipio de Los Cabos, las audiencias del Gobernador del Estado;
 
-III. Representar al Gobernador del Estado, en los actos oficiales que se realicen en el Municipio de Los Cabos, de acuerdo con las indicaciones del Secretario Particular del Gobernador del Estado;
+III. Representar al Gobernador del Estado, en los actos oficiales que se realicen en la Ciudad de San José del Cabo, Municipio de Los Cabos, de acuerdo con las indicaciones del Secretario Particular del Gobernador del Estado;
 
-IV. Apoyar los actos cívicos, culturales y políticos del Gobierno del Estado, en el Municipio de Los Cabos;
+IV. Apoyar los actos cívicos, culturales y políticos del Gobierno del Estado, en la Ciudad de San José del Cabo, Municipio de Los Cabos;
 
-V. Apoyar las gestiones de las dependencias y entidades del Gobierno del Estado en el Municipio de Los Cabos; y
+V. Apoyar las gestiones de las dependencias y entidades del Gobierno del Estado en la Ciudad de San José del Cabo, Municipio de Los Cabos; y
+
+VI. Las demás que le asigne el Gobernador del Estado, de acuerdo a sus atribuciones.
+
+> <small>(ADICIONADO, B.O. 9 DE AGOSTO DE 2012)</small>
+
+###### ARTÍCULO 13-B.
+
+A la Representación del Gobierno del Estado en la Ciudad de Cabo San Lucas del Municipio de Los Cabos, Baja California Sur, le corresponden las siguientes funciones:
+
+I. Atender las actividades del Gobernador del Estado, cuando se encuentre en la Ciudad de Cabo San Lucas, Municipio de Los Cabos;
+
+II. En coordinación con la Secretaría de Despacho correspondiente, gestionar en el Municipio de Los Cabos, las audiencias del Gobernador del Estado;
+
+III. Representar al Gobernador del Estado, en los actos oficiales que se realicen en la Ciudad de Cabo San Lucas, Municipio de Los Cabos, de acuerdo con las indicaciones del Secretario Particular del Gobernador del Estado;
+
+IV. Apoyar los actos cívicos, culturales y políticos del Gobierno del Estado, en la Ciudad de Cabo San Lucas, Municipio de Los Cabos;
+
+V. Apoyar las gestiones de las dependencias y entidades del Gobierno del Estado en la Ciudad de Cabo San Lucas, Municipio de Los Cabos; y
 
 VI. Las demás que le asigne el Gobernador del Estado, de acuerdo a sus atribuciones.
 
@@ -554,5 +570,23 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 La Representación del Gobierno del Estado en el Municipio de Los Cabos, contará con los recursos humanos, materiales y financieros necesarios para su debido funcionamiento.
 
 ###### ARTÍCULO TERCERO.
+
+La Secretaría de Finanzas y la Oficialía Mayor de Gobierno realizarán las modificaciones presupuestales y administrativas a que haya lugar.
+
+B.O. 9 DE AGOSTO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los recursos humanos, materiales y financieros con los que venía operando la Representación del Gobierno del Estado en el Municipio de Los Cabos, pasarán a formar parte de las Representaciones del Gobierno del Estado en las Ciudades de San José del Cabo y Cabo San Lucas según corresponda y lo autorice la Coordinación General de Administración de las Dependencias Auxiliares del Gobernador previa anuencia de la Oficialía Mayor de Gobierno.
+
+###### ARTÍCULO TERCERO.
+
+Las Representaciones del Gobierno del Estado en las Ciudades de San José del Cabo y de Cabo San Lucas en el Municipio de Los Cabos contarán con los recursos humanos, materiales y financieros necesarios para su debido funcionamiento.
+
+###### ARTÍCULO CUARTO.
 
 La Secretaría de Finanzas y la Oficialía Mayor de Gobierno realizarán las modificaciones presupuestales y administrativas a que haya lugar.
