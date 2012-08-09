@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-17-2012-del-pleno-del-consejo-de-la-88363"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-06-15"
-last_updated: "2012-08-03"
+last_updated: "2012-08-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88363&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-06-07"
 
 ACUERDO GENERAL 17/2012, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE AGOSTO DE 2012.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 26 de junio de 2012.
 
@@ -267,7 +267,9 @@ XVIII. DECIMOCTAVO CIRCUITO:
 
 2. Un tribunal unitario con sede en Cuernavaca.
 
-3. Seis juzgados de Distrito en el Estado de Morelos, con residencia en Cuernavaca.
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 25/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE AGOSTO DE 2012)</small>
+
+3. Siete juzgados de Distrito en el Estado de Morelos, con residencia en Cuernavaca.
 
 XIX. DECIMONOVENO CIRCUITO:
 
@@ -693,7 +695,9 @@ XXXIII. Los Jueces de Distrito de Procesos Penales Federales del Primero y Segun
 
 QUINTO. Se contará con:
 
-1. El Centro Auxiliar de la Primera Región, se integrará por nueve tribunales colegiados de Circuito Auxiliares, cuatro con residencia en el Distrito Federal, tres con sede en Cuernavaca, Morelos, y dos con residencia en Naucalpan de Juárez, Estado de México, y siete juzgados de Distrito auxiliares, cinco con residencia en el Distrito Federal y dos en Cuernavaca, Morelos.
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 25/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE AGOSTO DE 2012)</small>
+
+1. El Centro Auxiliar de la Primera Región, se integrará por nueve tribunales colegiados de Circuito Auxiliares, cuatro con residencia en el Distrito Federal, tres con sede en Cuernavaca, Morelos, y dos con residencia en Naucalpan de Juárez, Estado de México, y seis juzgados de Distrito auxiliares, cinco con residencia en el Distrito Federal y uno en Cuernavaca, Morelos.
 
 2. El Centro El Centro (sic) Auxiliar de la Segunda Región, se integrará por cuatro tribunales colegiados de Circuito Auxiliares y seis juzgados de Distrito Auxiliares, con residencia en San Andrés Cholula, Puebla y dos juzgados de Distrito Auxiliar, con residencia en Puebla, Puebla.
 
@@ -760,3 +764,11 @@ SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así c
 TERCERO. Se abroga el Acuerdo General 7/2011, del Pleno del Consejo de la Judicatura Federal, relativo al inicio de funciones del Tribunal Unitario de Circuito del Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, con jurisdicción en toda la República.
 
 CUARTO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación deberá integrar de inmediato el texto de la reforma al Acuerdo General 17/2012, del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se Divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
+
+D.O.F. 9 DE AGOSTO DE 2012.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 17/2012, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los circuitos en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito, así como al diverso Acuerdo General 20/2009, del Pleno del Consejo de la Judicatura Federal, que crea el Centro Auxiliar de la Primera Región, así como los Organos Jurisdiccionales que lo integrarán.
+
+TERCERO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
