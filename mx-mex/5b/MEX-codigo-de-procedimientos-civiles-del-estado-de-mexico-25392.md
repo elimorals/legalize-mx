@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-civiles-del-estado-de-mexico-25392"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-01"
-last_updated: "2012-05-15"
+last_updated: "2012-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25392&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE AGOSTO DE 2012.
 
 Código publicado en el Gaceta del Gobierno del Estado de México, el lunes 1 de julio del 2002.
 
@@ -45,17 +45,17 @@ CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MEXICO
 
 ## TITULO PRIMERO. Jurisdicción
 
-Ejercicio de la jurisdicción
-
-###### Artículo 1.
-
-1.- Corresponde a los Tribunales del Poder Judicial, la facultad de interpretar y aplicar las leyes en los asuntos del orden civil y familiar del fuero común, lo mismo que del orden federal, en los casos en que expresamente lo ordene la ley.
-
 Inicio dispositivo e impulso procesal oficioso
 
 ###### Artículo 1.
 
 2.- La jurisdicción civil sólo se ejercerá mediante instancia de parte, pero mientras se mantenga en ejercicio, corresponde al Juez desarrollar el proceso de oficio, salvo los casos en que la ley exija la petición de parte.
+
+Ejercicio de la jurisdicción
+
+###### Artículo 1.
+
+1.- Corresponde a los Tribunales del Poder Judicial, la facultad de interpretar y aplicar las leyes en los asuntos del orden civil y familiar del fuero común, lo mismo que del orden federal, en los casos en que expresamente lo ordene la ley.
 
 Normas genéricas de la jurisdicción
 
@@ -917,7 +917,7 @@ Excepción a la nulidad de actuaciones
 
 99.- Cuando la ley prescriba una determinada forma para una actuación, sólo será nula, si se efectúa en una forma diversa.
 
-Escritura de cantidades y fechas
+Actuaciones en idioma español
 
 ## TITULO SEPTIMO. Actos Procesales en General
 
@@ -927,13 +927,13 @@ Forma de las actuaciones y promociones
 
 ###### Artículo 1.
 
-101.- Las fechas y cantidades se escribirán con letra y número.
+100.- Las actuaciones judiciales y promociones deben escribirse en idioma español. Los documentos que se presenten redactados en otro idioma o lengua, salvo los aforismos en latín que podrán ser traducidos, se acompañarán de la correspondiente traducción.
 
-Actuaciones en idioma español
+Escritura de cantidades y fechas
 
 ###### Artículo 1.
 
-100.- Las actuaciones judiciales y promociones deben escribirse en idioma español. Los documentos que se presenten redactados en otro idioma o lengua, salvo los aforismos en latín que podrán ser traducidos, se acompañarán de la correspondiente traducción.
+101.- Las fechas y cantidades se escribirán con letra y número.
 
 Prohibición de borrar y abreviar
 
@@ -1193,7 +1193,7 @@ Principio de exactitud
 
 ###### Artículo 1.
 
-139.- Cuando en un negocio judicial, se denuncien hechos presumiblemente delictuosos, el Juez de los autos, los pondrá de inmediato en conocimiento del Ministerio Público adscrito al Juzgado, para los efectos conducentes.
+139.- Cuando en un negocio judicial, se denuncien hechos presumiblemente delictuosos, el Juez de los autos, los pondrá de inmediato en conocimiento del Ministerio Público, para los efectos conducentes.
 
 Suspensión de citación para sentencia sólo por consignación de los hechos
 
@@ -1222,6 +1222,10 @@ Tiempo de acuerdo y diligenciación de exhortos
 ### CAPITULO VI. De la Denuncia de Hechos Delictuosos
 
 Intervención del Ministerio Público
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.G. 9 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 1.
 
@@ -2141,13 +2145,13 @@ Generalidad de la prueba
 
 ###### Artículo 1.
 
-268.- La confesión sólo produce efecto en lo que perjudica al que la hace.
+267.- La confesión es expresa y tácita o ficta. Es expresa la que se hace clara y terminantemente al formular o contestar la demanda, al absolver posiciones, o en cualquier otro acto del proceso. Es tácita o ficta cuando la ley lo señala.
 
-Clases de confesión
+Efectos de la confesión
 
 ###### Artículo 1.
 
-267.- La confesión es expresa y tácita o ficta. Es expresa la que se hace clara y terminantemente al formular o contestar la demanda, al absolver posiciones, o en cualquier otro acto del proceso. Es tácita o ficta cuando la ley lo señala.
+268.- La confesión sólo produce efecto en lo que perjudica al que la hace.
 
 Sólo las partes pueden absolver posiciones
 
@@ -2211,7 +2215,7 @@ Calificación de las posiciones
 
 ### CAPITULO II. De la Confesión
 
-Efectos de la confesión
+Clases de confesión
 
 ###### Artículo 1.
 
@@ -5095,6 +5099,10 @@ III. Copia certificada del acta de nacimiento de sus menores hijos.
 
 Audiencia de avenencia
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.G. 9 DE AGOSTO DE 2012)</small>
+
 ### CAPITULO II. Del Divorcio por Mutuo Consentimiento
 
 Requisitos para el divorcio por mutuo consentimiento
@@ -5102,8 +5110,6 @@ Requisitos para el divorcio por mutuo consentimiento
 ###### Artículo 2.
 
 276.- Presentada la solicitud, el juez citará a los cónyuges a una audiencia, dentro de los cinco días siguientes, en la que procurará avenirlos. En el propio auto, señalará los puntos del convenio que no se ajusten a derecho o que no considere de equidad; propondrá que lo corrijan o ajusten por escrito a más tardar en la audiencia respectiva.
-
-Al Ministerio Público se le citará cuando estén involucrados derechos de menores o incapaces. La inasistencia de éste no suspenderá la audiencia, lo que se hará del conocimiento de su superior jerárquico, sin perjuicio de la responsabilidad en que incurra.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -5505,23 +5511,15 @@ VII. El Sistema para el Desarrollo Integral de la Familia del Estado; y
 
 VIII. El Ministerio Público.
 
-Prueba de la minoría de edad
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.G. 9 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 2.
 
 328.- Si a la solicitud de declaración de minoría, se acompaña el acta de nacimiento del menor, se hará la declaración de plano; o se hará cuando se exhiba.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-De no existir acta de nacimiento, se citará a una audiencia dentro de los cinco días siguientes, a la que concurrirá el solicitante, el menor y el Ministerio Público; en la que con o sin asistencia de éste último, por la apariencia del menor se hará la declaración respectiva.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-El juez podrá citar a un perito médico adscrito a la Dirección de Peritos del Poder Judicial del Estado, para que en la audiencia examine al menor y emita su opinión.
+De no existir acta de nacimiento, se citará a una audiencia dentro de los cinco días siguientes, a la que concurrirá el solicitante, el menor y un perito médico adscrito a la Dirección de Peritos del Poder Judicial del Estado, para que en la audiencia examine al menor y emita su opinión. En la audiencia, el Juez hará la declaración respectiva.
 
 Nombramiento de tutor y curador
 
@@ -5735,11 +5733,13 @@ II. Controversia de violencia familiar.
 
 346.- Los procedimientos a los que se refiere este capítulo, se llevarán a cabo en forma sumarísima sin omitir allegarse todos los elementos de convicción necesarios para apoyar las propuestas de las partes.
 
-> <small>(ADICIONADO, G.G. 16 DE ENERO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.G. 9 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 2.
 
-347.- Tratándose de menores, incapaces y adultos mayores de sesenta años, deberá oírseles durante el procedimiento, tomando en consideración su edad, grado de madurez, capacidad para opinar y en todos los asuntos que les afecten con la intervención del Ministerio Público.
+347.- Tratándose de menores, incapaces y adultos mayores de sesenta años, deberá oírseles durante el procedimiento, tomando en consideración su edad, grado de madurez y capacidad, en los casos a que se refiere el artículo 5.30 de este Código.
 
 > <small>(ADICIONADA SU DENOMINACIÓN, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -6253,11 +6253,19 @@ Intervención del Ministerio Público
 
 I. La solicitud promovida afecte intereses públicos;
 
-II. Se refiera a la persona o bienes de incapacitados, salvo cuando se trate de menores bajo la patria potestad, tutela o custodia del Sistema Estatal para el Desarrollo Integral de la Familia;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.G. 9 DE AGOSTO DE 2012)</small>
+
+II. Se refiera a la persona o bienes de menores o incapacitados, cuando carezca de representante legal o el Juez advierta que es omiso o actúa en contra de los intereses de aquéllos;
 
 III. Tenga relación con los bienes y derechos de un ausente;
 
-IV. Lo considere necesario el Juez o lo pidan las partes;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.G. 9 DE AGOSTO DE 2012)</small>
+
+IV. Lo considere necesario el Juez, o
 
 V. Lo dispongan las leyes.
 
@@ -6327,7 +6335,11 @@ Substanciación de la solicitud de venta o gravamen
 
 El juez designará perito para que proceda a la valuación de los bienes propuestos para venta o gravamen; el dictamen será rendido en la audiencia antes referida.
 
-En la audiencia, el juez oirá al promovente, al tutor especial o al curador, en su caso, y al Ministerio Público adscrito; recibirá los medios de prueba propuestos, y dictará resolución.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.G. 9 DE AGOSTO DE 2012)</small>
+
+En la audiencia, el juez oirá al promovente, al tutor especial o al curador y, en su caso, al Ministerio Público; recibirá los medios de prueba propuestos, y dictará resolución.
 
 La resolución que se dicte será apelable con efecto suspensivo.
 
@@ -6413,13 +6425,17 @@ IV. Constancia del comisariado ejidal o comunal de que el inmueble no está suje
 
 Personas que deberán ser citadas
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.G. 9 DE AGOSTO DE 2012)</small>
+
 ### CAPITULO II. De las Funciones del Síndico
 
 Funciones del síndico
 
 ###### Artículo 3.
 
-21.- La información se recibirá con citación del Ministerio Público, de la autoridad municipal, de los colindantes y de la persona a cuyo nombre se expidan las boletas prediales.
+21.- La información se recibirá de la autoridad municipal, de los colindantes y de la persona a cuyo nombre se expidan las boletas prediales.
 
 Prueba testimonial
 
@@ -6793,9 +6809,13 @@ IV. Las acciones de los legatarios reclamando sus legados siempre que sean anter
 
 Intervención al Ministerio Público
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.G. 9 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 4.
 
-26.- En los juicios sucesorios, se dará intervención al Ministerio Público cuando haya herederos incapaces.
+26.- En los juicios sucesorios, se dará intervención al Ministerio Público cuando haya herederos incapaces, cuando éstos carezcan de representante legal o el juez advierta que es omiso o actúa en contra de los intereses de aquéllos.
 
 Aceptación del cargo de albacea y garantía
 
@@ -7465,6 +7485,12 @@ Interés superior del menor
 
 Al resolver una controversia, el juez podrá dictar las medidas que estime pertinentes para salvaguardar el interés superior del menor, entre otras, ordenar terapia médica, psicológica o social a sus progenitores o quienes integren el grupo familiar.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.G. 9 DE AGOSTO DE 2012)</small>
+
+En los asuntos en que estén involucrados menores o incapaces, el juez deberá suplir la deficiencia de la queja en beneficio de éstos.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
@@ -7607,17 +7633,19 @@ Protesta de decir verdad
 
 29.- Al inicio de las audiencias, el juez tomará la protesta de ley a quienes vayan a declarar.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, G.G. 9 DE AGOSTO DE 2012)</small>
 
-Ministerio Público adscrito
+Intervención del Ministerio Público
 
 ###### Artículo 5.
 
-30.- En los juzgados en donde se ventilen este tipo de controversias, habrá un Ministerio Público adscrito.
+30.- Cuando se involucren derechos relacionados con menores o incapaces se dará intervención al Ministerio Público desde el auto admisorio, cuando aquéllos carezcan de representante legal.
 
-Cuando se involucren derechos relacionados con menores o incapaces, se dará intervención al Ministerio Público adscrito desde el auto admisorio, con la finalidad de que intervenga y formule pedimentos tendentes a garantizar los derechos de aquellos.
+El juez, en cualquier etapa del procedimiento, cuando advierta que el representante legal es omiso o actúa en contra de los intereses de los menores o incapaces dará intervención al Ministerio Público.
+
+Tratándose de adultos mayores, el Juez dará intervención al Ministerio Público, cuando advierta que se requiere para la mejor representación de sus intereses.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -7697,9 +7725,13 @@ Si se admiten la confesional y declaración de parte, ésta se desahogará al co
 
 Opinión de menores
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.G. 9 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 5.
 
-35.- De existir menores, a petición de parte o de oficio, el juez tomará las providencias necesarias para que sin formalidad alguna, expresen de manera libre su opinión en los asuntos que les afecten, con citación del Ministerio Público adscrito.
+35.- De existir menores, a petición de parte o de oficio, el juez tomará las providencias necesarias para que sin formalidad alguna, expresen de manera libre su opinión en los asuntos que les afecten.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -8125,11 +8157,15 @@ Cuando se hayan solicitado informes de autoridades o particulares, se les requer
 
 65.- (DEROGADO, G.G. 3 DE MAYO DE 2012)
 
-Vista al Ministerio Público
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.G. 9 DE AGOSTO DE 2012)</small>
+
+Interés superior de menores e incapaces
 
 ###### Artículo 5.
 
-66.- (DEROGADO, G.G. 3 DE MAYO DE 2012)
+66.- El juez velará para que el convenio que se adjunte a la solicitud de divorcio por mutuo consentimiento, sea acorde con el interés superior de los menores e incapaces.
 
 Análisis del convenio
 
@@ -8458,3 +8494,15 @@ CUARTO.- Las adopciones simples decretadas seguirán surtiendo sus efectos legal
 QUINTO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan o contradigan a lo contenido en este Decreto.
 
 SEXTO.- El Titular del Ejecutivo del Estado, expedirá las disposiciones reglamentarias que resulten necesarias, para hacerlas acordes al presente Decreto, dentro del plazo de sesenta días a partir de su entrada en vigor.
+
+G.G. 9 DE AGOSTO DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor a los noventa días de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Los agentes del Ministerio Público continuarán su intervención en los asuntos que se encuentren en trámite a la fecha de entrada en vigor de este Decreto, en los casos en que los menores o incapaces carezcan de representante legal o cuando la autoridad judicial así lo determine, siempre que advierta que el representante es omiso o actúa en contra del interés superior de aquéllos.
+
+La intervención a que se refiere el párrafo anterior se realizará por conducto de las unidades administrativas de la Procuraduría General de Justicia del Estado de México, en los términos que determine el Procurador.
+
+CUARTO.- Los agentes del Ministerio Público que a la fecha de entrada en vigor de este Decreto se encuentren adscritos a órganos jurisdiccionales en materias civil y familiar, serán distribuidos en las unidades administrativas de la Procuraduría General de Justicia del Estado de México, conforme a las necesidades del servicio.
