@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2011-11-14"
+last_updated: "2012-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE AGOSTO DE 2012.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -225,11 +225,13 @@ Son obligaciones de los diputados:
 
 I. Rendir protesta para asumir el cargo;
 
-II. Asistir a las juntas, a las sesiones de la Legislatura y de la Diputación Permanente cuando formen parte de ésta;
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2012)</small>
 
-> <small>(REFORMADA, G.G. 11 DE NOVIEMBRE DE 2011)</small>
+II. Asistir con puntualidad y participar en las juntas, en las sesiones de la Legislatura y de la Diputación Permanente cuando formen parte de ésta;
 
-III. Participar en los trabajos de las comisiones y comités de que forme parte y difundir las leyes que emanen del Poder Legislativo, durante su gestión a los habitantes del Estado de México;
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2012)</small>
+
+III. Asistir con puntualidad y participar en las reuniones de trabajo de las comisiones y comités de que forme parte;
 
 IV. Observar y cumplir las normas de la ley y el reglamento;
 
@@ -749,7 +751,7 @@ IX.- Conocer y resolver sobre las responsabilidades administrativas en que incur
 
 > <small>(REFORMADA Y REUBICADA, G.G. 21 DE JULIO DE 2006)</small>
 
-X.- Conocer y resolver sobre las responsabilidades administrativas en que incurra cualquier servidor público del Poder Legislativo y los integrantes de los ayuntamientos de los municipios de la entidad, por el incumplimiento de las obligaciones que señala la ley de la materia, delegando la facultad a los diputados Presidente y Secretario de la Junta de Coordinación Política, para que suscriban en su nombre las resoluciones de los procedimientos administrativos, así como que representen a la Junta de Coordinación Política, previo conocimiento de la misma, en las impugnaciones o medios de defensa que se hagan valer contra tales resoluciones;
+X.- Conocer y resolver sobre las responsabilidades administrativas en que incurra cualquier servidor público del Poder Legislativo y los integrantes de los ayuntamientos de los municipios de la entidad, por el incumplimiento de las obligaciones que señala la ley de la materia, delegando la facultad a los diputados Presidente y Secretario de la Junta de Coordinación Política, para que suscriban en su nombre las resoluciones de los procedimientos administrativos, así como que representen a la Junta de Coordinación Política, previo conocimiento de la misma, en las impugnaciones o medios de defensa que se haga valer contra tales resoluciones;
 
 > <small>(REFORMADA Y REUBICADA, G.G. 21 DE JULIO DE 2006)</small>
 
@@ -769,9 +771,13 @@ XIV.- Recibir la solicitud del Gobernador del Estado y de las autoridades a quie
 
 XV.- Proponer a la Asamblea, a más tardar en el mes de noviembre, el Tabulador de Remuneraciones de los servidores públicos del Poder Legislativo que deberá regir durante el siguiente ejercicio fiscal, de conformidad con el Catálogo General de Puestos y apegado a los criterios establecidos por la Ley; y
 
+> <small>(ADICIONADA, G.G. 10 DE AGOSTO DE 2012)</small>
+
+XVI. Coordinar las tareas legislativas, políticas y administrativas de la Legislatura; y
+
 > <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 21 DE JULIO DE 2006)</small>
 
-XVI. Las demás que le confieran la ley, el reglamento o la Asamblea.
+XVII. Las demás que le confieran la ley, el reglamento o la Asamblea.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE ABRIL DE 2004)</small>
 
@@ -1298,6 +1304,10 @@ La Comisión o Comisiones a las que sean remitidas las iniciativas o asuntos pre
 > <small>(ADICIONADO, G.G. 8 DE MARZO DE 2011)</small>
 
 Las comisiones darán participación a las autoridades a quienes la Constitución otorga el derecho de iniciativa, o a los representantes que éstas designen para tal fin, en el análisis de las iniciativas que hubieren presentado o de las que estén relacionadas con su ámbito competencial, en los términos del reglamento.
+
+> <small>(ADICIONADO, G.G. 10 DE AGOSTO DE 2012)</small>
+
+Los dictámenes que las comisiones emitan sobre asuntos que no llegue a resolver el Pleno de una Legislatura y las iniciativas que por cualquier motivo no se dictaminen, quedarán a disposición de la siguiente Legislatura para que determine lo procedente.
 
 ###### Artículo 85.
 
@@ -1946,3 +1956,9 @@ G.G. 14 DE NOVIEMBRE DE 2011.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 10 DE AGOSTO DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
