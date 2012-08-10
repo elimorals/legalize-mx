@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-secretaria-de-administracion-del-8966
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-08-08"
-last_updated: "2012-08-08"
+last_updated: "2012-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89664&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE ADMINISTRACION DEL ESTADO DE PUEBLA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE AGOSTO DE 2012 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE ADMINISTRACIÓN DEL ESTADO DE PUEBLA
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 10 DE AGOSTO DE 2012.</small>
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el miércoles 8 de agosto de 2012.
 
@@ -1701,8 +1701,6 @@ Lo previsto en la fracción V de este artículo, se aplicará sin perjuicio de q
 
 En los casos de ausencias temporales mayores a quince días hábiles los Subsecretarios, Directores Generales y Directores, podrán autorizar por escrito a los servidores públicos subalternos para que realicen en su ausencia las funciones o atribuciones que les correspondan. Para el caso del Secretario se estará a lo establecido en la Ley Orgánica de la Administración Pública del Estado de Puebla.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTOS TRANSITORIOS, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE AGOSTO DE 2012 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ## TRANSITORIOS
 
 ###### ARTÍCULO PRIMERO.
@@ -1720,5 +1718,9 @@ Se dejan sin efectos las disposiciones que se opongan al presente Reglamento.
 ###### ARTÍCULO CUARTO.
 
 Todo instrumento legal, jurídico o administrativo y norma en sentido formal o material, que a la entrada en vigor del presente Decreto, se refiera a unidades administrativas que se desaparecen o modifican su denominación, se entenderá atribuida a las unidades administrativas a que se refiere el presente ordenamiento y a las que atribuya la competencia especifica que en cada caso se relacione.
+
+> <small>(F. DE E., P.O. 10 DE AGOSTO DE 2012)</small>
+
+Los nombramientos de los titulares de las unidades administrativas que cambian de denominación, pero no substancialmente de funciones, seguirán surtiendo sus efectos legales hasta la nueva emisión de los mismos, lo que no podrá exceder de 60 días.
 
 Dado en la sede del Poder Ejecutivo del Estado, en la Heroica Puebla de Zaragoza, a los 3 días del mes de agosto de 2012.- El Gobernador Constitucional del Estado.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- El Secretario General de Gobierno.- C. FERNANDO LUIS MANZANILLA PRIETO.- Rúbrica.- El Secretario de Administración.- C. JOSÉ CABALAN MACARI ÁLVARO.- Rúbrica.
