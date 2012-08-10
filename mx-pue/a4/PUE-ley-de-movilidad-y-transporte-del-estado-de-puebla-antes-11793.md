@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-movilidad-y-transporte-del-estado-de-puebla-antes-11793"
 country: "mx"
 rank: "ley"
 publication_date: "1998-03-18"
-last_updated: "2008-02-20"
+last_updated: "2012-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "PUE"
 
 LEY DEL TRANSPORTE PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2007.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 20 DE FEBRERO DE 2008 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2007.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2012.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el miércoles 18 de marzo de 1998.
 
@@ -221,11 +219,11 @@ LEY DEL TRANSPORTE PARA EL ESTADO DE PUEBLA
 
 La presente Ley es de interés social y de orden público, de observancia general en el Estado de Puebla y tiene por objeto regular todo lo relacionado con el Servicio Público de Transporte y el Servicio Mercantil y sus Servicios Auxiliares.
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 2.
 
-La autoridad competente para la interpretación y observación de la presente Ley y sus Reglamentos, es la Secretaría de Comunicaciones y Transportes del Estado de Puebla, la cual en todo caso, deberá aplicar como criterio fundamental, lo que sea más conveniente para el servicio público y sus usuarios, promoviendo la participación social en la planeación, operación y supervisión del transporte.
+La autoridad competente para la interpretación y observación de la presente Ley, sus Reglamentos, y demás disposiciones en la materia, es la Secretaría de Transportes del Estado de Puebla, la cual en todo caso, deberá aplicar como criterio fundamental, lo que sea más conveniente para el servicio público y sus usuarios, promoviendo la participación social en la planeación, operación y supervisión del transporte.
 
 ###### ARTICULO 3.
 
@@ -239,9 +237,23 @@ Son autoridades en materia del transporte:
 
 I.- El Gobernador del Estado;
 
-II.- El Secretario de Comunicaciones y Transportes del Estado, y
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
+
+II.- El Secretario de Transportes del Estado;
 
 III.- El Subsecretario de Transportes.
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2012)</small>
+
+IV.- El Director de Administración de Concesiones y Permisos;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2012)</small>
+
+V.- El Director de Operación del Transporte; y
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2012)</small>
+
+VI.- El Director de Licencias y Capacitación.
 
 ### CAPITULO III. LAS ATRIBUCIONES DE LAS AUTORIDADES DEL TRANSPORTE
 
@@ -259,9 +271,11 @@ IV.- Intervenir en el Servicio Público de Transporte cuando se interrumpa o afe
 
 V.- Las demás que le conceda la presente Ley y sus Reglamentos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 6.
 
-El Secretario de Comunicaciones y Transportes del Estado, tendrá las siguientes atribuciones:
+El Secretario de Transportes del Estado, tendrá las siguientes atribuciones:
 
 I.- Cumplir y hacer cumplir la presente Ley y sus Reglamentos;
 
@@ -269,7 +283,9 @@ II.- Establecer las bases para el mejoramiento, ampliación y ejecución de los 
 
 III.- Expedir, previo cumplimiento de los requisitos señalados en la presente Ley y sus Reglamentos, las concesiones y permisos para la prestación del Servicio Público de Transporte y del Servicio Mercantil;
 
-IV.- Fijar las tarifas máximas para la prestación del Servicio Público de Transporte y del Servicio Mercantil;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
+
+IV.- Previo estudio, fijar las tarifas máximas para la prestación del Servicio Público de Transporte y del Servicio Mercantil;
 
 V.- Autorizar previa consulta con los Ayuntamientos, los itinerarios, recorridos, horarios y frecuencias de paso, de las líneas que prestan el Servicio Público de Transporte.
 
@@ -277,15 +293,23 @@ VI.- Ordenar que se realicen periódicamente revistas a los vehículos destinado
 
 VII.- Dictar las medidas necesarias para poner a disposición de las autoridades competentes, a los conductores o a los vehículos del Servicio Público de Transporte y del Servicio Mercantil, cuando de los hechos inspeccionados se deduzca una probable responsabilidad;
 
-VIII.- Coordinarse con las diferentes áreas de la Secretaría y otras dependencias y entidades de las Administraciones Públicas Federal, Estatal y Municipales, así como de otras entidades federativas, a efecto de determinar las posibles necesidades y soluciones del Servicio de Transporte y sus Servicios Auxiliares en el Estado, y (sic)
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2005)</small>
+VIII.- Coordinarse con las diferentes áreas de la Secretaría y otras dependencias y entidades de las Administraciones Públicas Federal, Estatal y Municipales, así como de otras entidades federativas, a efecto de determinar las posibles necesidades y soluciones del Servicio de Transporte y sus Servicios Auxiliares en el Estado.
 
-IX.- Instrumentar en beneficio de los usuarios la utilización de elementos aportados por la ciencia y tecnología, para la implementación de nuevos sistemas en el manejo operativo, incluyendo sistemas de cobro en las distintas modalidades del transporte; y
+Para efectos de lo señalado en el párrafo anterior, la Secretaría podrá celebrar convenios de colaboración con los Municipios del Estado, con el objeto de mejorar y coadyuvar en la ejecución de las políticas y programas relativos a transportes en la Entidad.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
 
-X.- Las demás que le otorgue la presente Ley y sus Reglamentos.
+IX.- Instrumentar en beneficio de los usuarios la utilización de elementos aportados por la ciencia y tecnología, para la implementación de nuevos sistemas en el manejo operativo, incluyendo sistemas de cobro en las distintas modalidades del transporte; para la determinación de infracciones y aplicación de sanciones, así como para mejorar las condiciones de accesibilidad para las personas con discapacidad;
+
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
+
+X.- Autorizar el uso de los carriles confinados de los corredores del sistema de Transporte Público Masivo, así como diseñar y regular los mecanismos y elementos de confinamiento; y
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2012)</small>
+
+XI.- Las demás que le otorgue la presente Ley, sus Reglamentos y demás disposiciones administrativas.
 
 ###### ARTICULO 7.
 
@@ -307,15 +331,19 @@ V.- Las demás que le otorgue la presente Ley y sus Reglamentos.
 
 La Secretaría, contará con Supervisores para vigilar, controlar y ejecutar las disposiciones de la presente Ley y sus Reglamentos; así como, podrá convenir con otras dependencias y entidades de la Administración Pública Federal, Estatal o Municipal, la coparticipación en dichas funciones.
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 9.
 
-Para los efectos de esta Ley y sus Reglamentos, se entiende por Supervisores, a los servidores públicos adscritos a la Secretaría de Comunicaciones y Transportes del Estado de Puebla y a los designados en los términos de los convenios a que hace referencia el artículo anterior y que tengan a su cargo las atribuciones señaladas en el artículo 10 de esta Ley.
+Para los efectos de esta Ley y sus Reglamentos, se entiende por Supervisores, a los servidores públicos adscritos a la Secretaría de Transportes del Estado de Puebla y a los designados en los términos de los convenios a que hace referencia el artículo anterior y que tengan a su cargo las atribuciones señaladas en el artículo 10 de esta Ley.
+
+Los servidores públicos a que se refiere este artículo deberán ser rotados con la frecuencia y necesidades que la Secretaría requiera, y deberán aprobar cualquier prueba, estudio o examen de control y confianza que sea necesario para el adecuado ejercicio de sus atribuciones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 10.
 
-Los Supervisores de la Secretaría tendrán las siguientes atribuciones:
+Los supervisores de la Secretaría tendrán las siguientes atribuciones y obligaciones:
 
 I.- La vigilancia y revisión de los vehículos destinados al Servicio Público de Transporte y al Servicio Mercantil, que circulen en la infraestructura vial y sus Servicios Auxiliares;
 
@@ -337,13 +365,21 @@ VI.- Elaborar las boletas de infracciones a los conductores de los vehículos de
 
 VII.- Hacer del conocimiento de la autoridad competente hechos o conductas, que se presuman constitutivos de delito;
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
 
-VIII.- Vigilar y supervisar el cumplimiento de las disposiciones relativas a los itinerarios, bases y sitios autorizados; y
+VIII.- Vigilar y supervisar el cumplimiento de las disposiciones relativas a los itinerarios, bases y sitios autorizados;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
 
-IX.- Las demás que les confieran la presente Ley y sus Reglamentos.
+IX.- Someterse a las pruebas, estudios o exámenes de control y confianza que establezca la Secretaría; y
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2012)</small>
+
+X.- Las demás que les confieran la presente Ley y sus Reglamentos.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
+ARTICULO 10 BIS.- La Secretaría, de conformidad con la legislación aplicable en la materia y en coordinación con las autoridades que sean competentes, procurará la plena inclusión e integración de las personas con discapacidad con relación a la prestación del servicio de transporte en cualquiera de sus modalidades.
 
 ###### ARTICULO 11.
 
@@ -353,15 +389,23 @@ La Secretaría, para el ejercicio de sus atribuciones, podrá auxiliarse de las 
 
 ### CAPITULO UNICO. VEHICULOS
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 12.
 
-El Servicio de Transporte es aquél que presta el Estado a través de la Secretaría, pudiendo otorgarse a terceros por virtud de la concesión correspondiente; y que se le denomina Servicio Público de Transporte; así como el que prestan los particulares directamente a otros particulares, constituyendo una actividad comercial, o que llevan a cabo los propietarios de vehículos y que para su prestación necesitan del permiso de la Secretaría, al que se le denomina Servicio de Transporte Mercantil.
+EL Servicio de Transporte es aquel que presta el Estado a través de la Secretaria, pudiendo otorgarse a terceros por virtud de la concesión correspondiente; y que se le denomina Servicio Público de Transporte; así como el que prestan los particulares directamente a otros particulares, constituyendo una actividad comercial, o que llevan a cabo los propietarios de vehículos y que para su prestación necesitan del permiso o autorización de la Secretaría, al que se le denomina Servicio de Transporte Mercantil.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 13.
 
-Para efectos de esta Ley y sus Reglamentos, se entiende por vehículo para prestar el Servicio Público de Transporte y el Servicio Mercantil, todo medio impulsado por un motor destinado a la transportación de personas o bienes, utilizando la infraestructura vial del Estado.
+Para efectos de esta Ley y sus Reglamentos, se entiende por vehículo para prestar el Servicio Público de Transporte y el Servicio Mercantil, todo medio impulsado por un motor destinado a la transportación de personas o bienes, utilizando la infraestructura vial del Estado, y que cumpla con las condiciones de seguridad que señala la normatividad aplicable y demás características necesarias para la prestación del servicio que determine la Secretaría.
 
 Se considera como infraestructura vial, la vía de comunicación para la conducción del tránsito vehicular y que está integrada por calles, avenidas, pasos a desnivel o entronques, caminos, carreteras, autopistas, puentes y sus servicios auxiliares, dentro de las zonas de Jurisdicción del Estado de Puebla.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
+Se entenderá por corredor de transporte público de pasajeros aquél que forma parte integral del Sistema de Transporte Público Masivo, el cual funciona mediante operación regulada y controlada, sistema de pago centralizado, que opera de manera exclusiva en una vialidad con carriles reservados para el transporte público, total o parcialmente confinados, que cuenta con paradas predeterminadas, con infraestructura para el ascenso y descenso de pasajeros, estaciones ubicadas a lo largo del recorrido con terminales en su origen y destino.
 
 ###### ARTICULO 14.
 
@@ -371,9 +415,11 @@ Para los efectos de esta Ley, los vehículos se clasifican en función del servi
 
 Se consideran vehículos del Servicio Público de Transporte, aquéllos con los que se lleva a cabo de manera continua, uniforme, regular y permanente, el traslado de pasajeros en la infraestructura vial, para satisfacer necesidades de la comunidad y en el cual los usuarios, cubrirán como contraprestación la tarifa previamente autorizada por la Secretaría.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 16.
 
-Son vehículos del Servicio de Transporte Mercantil, aquéllos que sin prestar un servicio público, por el tipo de actividad comercial que desarrollan sus propietarios o poseedores, prestan un servicio a terceros o el que llevan a cabo los propietarios de los vehículos, como parte de sus actividades comerciales.
+Son vehículos que prestan el Servicio de Transporte Mercantil, de conformidad con lo señalado en la presente ley, aquellos que a diferencia de los del Servicio Público, por el tipo de actividad comercial que desarrollan sus propietarios, prestan un servicio a terceros o el que llevan a cabo los propietarios de los vehículos, como parte de sus actividades comerciales y que la Secretaría tiene facultad de regular y controlar, mediante el otorgamiento de una autorización.
 
 ###### ARTICULO 17.
 
@@ -385,9 +431,17 @@ a).- Urbano;
 
 b).- Suburbano;
 
-c).- Foráneo, y
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
-d).- Transporte Mixto de Pasajeros y Bienes.
+c) Foráneo;
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
+d) Transporte Mixto de Pasajeros y Bienes, y
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
+e) Sistema de Transporte Público Masivo.
 
 II.- Servicio de Transporte Mercantil de Personas:
 
@@ -397,9 +451,17 @@ b).- Transporte Escolar;
 
 c).- Transporte de Personal;
 
-d).- Transporte de Turismo, y
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
-e).- Transporte de Servicio Extraordinario.
+d) Transporte de Turismo;
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
+e) Transporte de Servicio Extraordinario; y
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
+f) Taxis locales.
 
 III.- Servicio de Transporte Mercantil de Carga:
 
@@ -411,9 +473,17 @@ c).- Mudanzas;
 
 d).- Mensajería y Paquetería;
 
-e).- Especial, y
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
-f ).- Giros restringidos.
+e) Carga especializada de materiales y desechos peligrosos;
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
+f) Todo tipo de mercancías que excedan de 500 kilogramos de carga útil; y
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
+g) Grúas de arrastre y salvamento.
 
 ###### ARTICULO 18.
 
@@ -437,6 +507,20 @@ El Servicio Público de Transporte Foráneo, es aquél que se presta para comuni
 
 El Servicio Público de Transporte Mixto de Pasajeros y de Bienes, es aquél que se autoriza para el traslado de personas y bienes en el mismo vehículo, cuyo interior se encuentra dividido en compartimientos para personas, sus equipajes y la carga.
 
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
+ARTICULO 22 BIS.- El Sistema de Transporte Público Masivo, es aquel que se presta a través de corredores de transporte público de pasajeros, el cual opera de manera exclusiva en una vialidad con carriles reservados para el transporte público, total o parcialmente confinados. El Sistema comprenderá la troncal correspondiente y las rutas alimentadoras al mismo.
+
+El Sistema de Transporte Público Masivo constituye un servicio público cuya prestación corresponde al Gobierno del Estado, quien puede prestarlo directamente o a través de concesiones, que se otorguen en términos de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
+ARTICULO 22 TER.- El recaudo y despacho comprenden unos de los componentes del Sistema de Transporte Público Masivo, por lo que su implementación y regulación quedará sujeta a las normas técnicas que fije el Secretario y demás disposiciones que resulten aplicables.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
+ARTICULO 22 QUÁTER.- Las concesiones que se otorguen para el Sistema de Transporte Público Masivo se otorgarán preferentemente de manera integral, pero cuando así resulte conveniente o necesario, podrán otorgarse o implementarse por separado o por etapas. Dichas concesiones podrán otorgarse en su caso, mediante un procedimiento de adjudicación conforme a la normatividad que resulte aplicable.
+
 ###### ARTICULO 23.
 
 El Servicio de Automóviles de Alquiler, es aquél que se presta en unidades con capacidad no mayor de cinco plazas, el cual no está sujeto a itinerarios, rutas, frecuencias de paso, ni horarios fijos; pero sí a tarifas determinadas por la Secretaría. Los vehículos que presten este tipo de servicio, podrán formar parte de un "sitio"; y en ningún caso podrán realizar el servicio colectivo.
@@ -449,13 +533,19 @@ El Servicio de Transporte Escolar, es aquél que se presta en unidades destinada
 
 El Servicio de Transporte de Personal es aquél que se presta a los trabajadores que viajan a sus centros de trabajo, o cuando su transportación se relaciona con fines laborales. Este transporte se prestará en vehículos cerrados, que satisfagan las condiciones de seguridad, comodidad y demás requisitos que señalen las leyes aplicables.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 26.
 
-El Servicio de Transporte de Turismo, es aquél que tiene por objeto el traslado de personas, hacia aquéllos lugares situados en el Estado que son considerados turísticos por revestir un interés histórico, arqueológico, cultural o recreativo; conforme a los ordenamientos relativos y que requiere de vehículos que reúnan las características de seguridad, comodidad e higiene.
+El Servicio de Transporte de Turismo, es aquel que tiene por objeto el traslado de personas, hacia aquellos lugares situados en el Estado, que no recorran de manera preponderante o crucen tramos federales, y que son considerados turísticos por revestir un interés histórico, arqueológico, cultural o recreativo; conforme a los ordenamientos relativos y que requiere de vehículos que reúnan las características de seguridad, comodidad e higiene.
 
 ###### ARTICULO 27.
 
 Transporte de Servicio Extraordinario, es aquél que se presta con los vehículos destinados al Servicio Público de Transporte y que requieren de un permiso para prestar un servicio diferente al concesionado, en las condiciones que para el efecto establezca la Secretaría.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
+ARTICULO 27 BIS.- El servicio de transporte mercantil denominado Taxi Local, es aquel que autoriza la Secretaría como un servicio complementario al sistema de transporte convencional, el cual únicamente se presta en la zona y hasta los límites de la localidad autorizada. Dicho servicio estará sujeto a las disposiciones administrativas de la presente Ley y las demás que emita la Secretaría.
 
 ###### ARTICULO 28.
 
@@ -464,6 +554,10 @@ Las personas físicas o morales a las que se les otorgó, por otras entidades fe
 ###### ARTICULO 29.
 
 El servicio de Carga de Materiales o Diversos, es el que se presta en vehículos adecuados destinados al transporte de materiales para construcción, así como los destinados a trasladar bienes, productos agropecuarios, materiales de construcción industrializados, animales en pie, objetos y cualquier otro bien material, dentro de los límites correspondientes al territorio del Estado. Este servicio no estará sujeto a itinerario, horario, ni tarifa.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
+Quedan exentos de esta clasificación los vehículos utilizados por campesinos, pequeños productores integrantes de pueblos y comunidades indígenas, que transporten insumos y/o productos agropecuarios, agrícolas y ganaderos para su autoconsumo, dentro de los límites de la comunidad agrícola a que correspondan.
 
 ###### ARTICULO 30.
 
@@ -477,27 +571,63 @@ El Servicio de Mudanzas, es aquél que se presta en vehículos cerrados o abiert
 
 El Servicio de Mensajería y Paquetería, es aquél que tiene por objeto trasladar dentro de la zona autorizada, toda clase de sobres, paquetes, bultos, cajas y cualquier otro tipo de contenedor con entrega a domicilio.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 33.
 
-El Servicio de Carga Especial, es aquél que requiere de vehículos con características especiales para el transporte de automóviles, materiales especiales para construcción, basura, desechos en general, agua, arrastre de vehículos mediante grúas, entre otros para lo cual, la Secretaría determinará las características de los vehículos referidos.
+El Servicio de Carga Especial, es aquel que requiere de vehículos con características especiales para el transporte de materiales para construcción, basura, desechos en general, agua, bebidas, alimentos y/o productos perecederos, arrastre de vehículos, remolques, entre otros, para lo cual, la Secretaría determinará las características de los vehículos referidos, los cuales deberán cumplir con las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 34.
 
-Giro Restringido, es aquél que se presta en vehículos que requieren tener condiciones y equipos adecuados para aislar, conservar y proteger los bienes objeto del traslado, así como para evitar cualquier riesgo a terceros, ya que por su propia naturaleza no pueden llevarse en vehículos convencionales, por lo que requiere de unidades dotadas de equipo de refrigeración, calderas, dispositivos herméticos y otros similares, para el traslado de animales en canal, vísceras, de sustancias químicas, corrosivas, gaseosas, radioactivas, líquidos flamables e inflamables, sustancias o desechos peligrosos o infectocontagiosos y en general de aquéllas que necesitan condiciones especiales por ser potencialmente peligrosas. Dependiendo de las clases de bienes que deban transportarse, puede requerirse adicionalmente una autorización especial otorgada por la autoridad competente en cada caso.
+Carga especializada de materiales y desechos peligrosos, es aquel servicio que se presta en vehículos que requieren tener condiciones y equipos adecuados para aislar, conservar y proteger los bienes objeto del traslado, así como para evitar cualquier riesgo a terceros.
+
+Los bienes objeto del traslado a que se refiere esta clase de servicio, por su propia naturaleza no podrán llevarse en vehículos convencionales, motivo por el que este servicio deberá prestarse en unidades dotadas de equipo de refrigeración, calderas, dispositivos herméticos y otros similares, para el traslado de animales en canal, vísceras, de sustancias químicas, corrosivas, gaseosas, radioactivas, líquidos flamables e inflamables, sustancias o desechos peligrosos o infectocontagiosos y en general de aquellas que necesitan condiciones especiales por ser potencialmente peligrosas.
+
+Dependiendo de las clases de bienes que deban transportarse, pueden requerirse adicionalmente las autorizaciones o requisitos que expidan o requieran en la materia, cualquier autoridad federal, estatal o municipal.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
+ARTICULO 34 BIS.- El servicio de transporte mercantil de arrastre y salvamento tipo grúa, es aquel que requiere de características o adecuaciones especiales como plataformas o grúas de arrastre destinados a realizar maniobras para trasladar vehículos accidentados o detenidos por la autoridad correspondiente, los cuales deberán contar con el número de autorización correspondiente, placas y colores autorizados por la Secretaría.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
+ARTICULO 34 TER.- Para el adecuado funcionamiento de los distintos servicios de transporte, la Secretaría en el ámbito de su competencia, determinará las características, colores y especificaciones que deberán portar los vehículos que comprenden el servicio de transporte en cualquiera de sus modalidades.
 
 ###### ARTICULO 35.
 
 Los vehículos destinados a la prestación del Servicio Público de Transporte y del Servicio Mercantil, además de cumplir con lo establecido en la presente Ley, cuando así lo requiera la autoridad competente, deberán acreditar la vigencia de la concesión o del permiso correspondiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
+ARTICULO 35 BIS.- Los vehículos del servicio público de transporte que cuenten con un permiso o concesión otorgados por la autoridad federal competente, deberán solicitar a la Secretaría, la autorización para transitar en la infraestructura vial de caminos de jurisdicción estatal, misma que limitará y regulará los ascensos y descensos de pasajeros. Para el caso del establecimiento de las bases y terminales, éstas deberán ser autorizadas por la citada autoridad, previo estudio técnico correspondiente.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 36.
 
-Para que un vehículo del Servicio Público del Transporte y del Servicio Mercantil pueda circular por la infraestructura vial del Estado, debe llevar en todo momento durante la prestación del servicio los siguientes documentos vigentes: tarjeta de circulación, calcomanías, póliza del seguro, tarjetón de concesión o permiso y placas de circulación autorizadas; asimismo el conductor debe portar la Licencia-Tarjetón, la cual debe ser colocada en el interior de la unidad en un lugar visible para el usuario; dichos documentos podrán ser en original y/o copia certificada, a excepción de la Licencia-Tarjetón, calcomanías respectivas y las placas de circulación, que deberán ser las originales. En caso de pérdida o robo de los documentos mencionados, el chofer deberá portar la constancia de hechos presentada ante la Procuraduría General de Justicia del Estado.
+Para que un vehículo del Servicio Público del Transporte y del Servicio de Transporte Mercantil, pueda circular por la infraestructura vial del Estado, deben llevar en todo momento durante la prestación del servicio los documentos vigentes siguientes:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+I.- Placas de circulación;
 
-Además, estará obligado a reunir los requisitos de funcionalidad, seguridad y comodidad que señala esta Ley y sus Reglamentos. Tratándose de las unidades del Servicio Público del Transporte y del Servicio de Transporte Mercantil, tendrá que llevar los colores reglamentarios además de cumplir con las especificaciones relativas a su identificación.
+II.- Tarjetón de concesión o permiso;
+
+III.- Tarjeta de circulación y calcomanías; y
+
+IV.- Póliza del seguro.
+
+Por su parte, el conductor de un vehículo del Servicio Público del Transporte y del Servicio de Transporte Mercantil, además deberá portar:
+
+a) Licencia de conducir acorde al tipo de servicio de transporte; y
+
+b) Gafete de identificación, el cual debe ser colocado en el interior de la unidad en un lugar visible para el usuario.
+
+Los documentos a que se refiere este artículo, podrán ser en original y/o copia certificada a excepción de la Licencia de Conducir, el Gafete de Identificación, calcomanías respectivas, tarjeta de circulación y las placas de circulación que deberán ser las originales.
+
+En caso de pérdida o robo de los documentos mencionados, el titular de la concesión o permiso o el conductor, para su reposición, deberán suscribir ante la Secretaría, el formato de responsiva por extravío o sustracción de documento, conforme a los lineamientos que para tal efecto determine la propia Secretaría.
+
+Además, estará obligado a reunir los requisitos de funcionalidad, seguridad y comodidad que señala esta Ley y su Reglamento. Tratándose de las unidades del Servicio Público del Transporte y del Servicio de Transporte Mercantil, portarán los colores reglamentarios además de cumplir con las especificaciones relativas a su identificación.
 
 ###### ARTICULO 37.
 
@@ -507,19 +637,23 @@ Todo vehículo que circule en la infraestructura vial del Estado, deberá contar
 
 Tratándose de los vehículos del servicio público de transporte urbano, deberán estar provistos además con un contador de pasajeros y un regulador de velocidad cuyas características y funcionamiento será conforme lo establezcan las autoridades competentes.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 38.
 
-Los vehículos del Servicio Público de Transporte y del Servicio Mercantil emplacados en el Estado, deberán de estar protegidos por un seguro que cubra los daños causados a sus ocupantes y a terceros.
+Los vehículos del Servicio Público de Transporte y del Servicio Mercantil emplacados en el Estado, deberán de estar protegidos por un seguro con vigencia anual que cubra daños a terceros y responsabilidad civil del pasajero. Los importes de las coberturas que cubran los citados seguros, serán los que señale el Reglamento de esta Ley.
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 39.
 
-La emisión de los formatos relacionados con el Servicio Público del Transporte y del Servicio Mercantil, corresponderá a la Secretaría, en coordinación con la Secretaría de Finanzas y Desarrollo Social del Estado.
+La emisión de las formas oficiales valoradas y los formatos relacionados con el Servicio Público del Transporte y del Servicio Mercantil, corresponderá a la Secretaría, en coordinación con la Secretaría de Finanzas.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 40.
 
-Las placas, tarjeta de circulación, calcomanías, tarjetón de concesión o permiso y demás documentos que requieran los vehículos del Servicio Público de Transporte y del Servicio Mercantil, registrados en el Estado, serán entregadas por la Secretaría.
+Las placas, tarjeta de circulación, calcomanía de identificación vehicular, tarjetón de concesión o permiso y demás documentos que requieran los vehículos del Servicio Público de Transporte y del Servicio de Transporte Mercantil, registrados en el Estado, serán expedidos mancomunadamente por la Secretaría de Transportes y la Secretaría de Finanzas.
 
 ## TITULO TERCERO. DE LAS LICENCIAS PARA CONDUCIR
 
@@ -529,11 +663,11 @@ Las placas, tarjeta de circulación, calcomanías, tarjetón de concesión o per
 
 Toda persona que conduzca un vehículo en la infraestructura vial del Estado, deberá obtener y llevar consigo la licencia de conducir que corresponda al tipo de vehículo y servicio de que se trate y que haya expedido la autoridad legalmente facultada para ello.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 42.
 
-Los conductores de los vehículos del Servicio Público de Transporte y el Servicio Mercantil, deberán portar al momento de prestar el servicio, la Licencia-Tarjetón, como requisito indispensable de identificación, previo cumplimiento de los requisitos que establezca el Reglamento de esta Ley.
+La Secretaría, en beneficio de los Ciudadanos Poblanos que radican en el extranjero, podrá establecer los procedimientos que considere necesarios, para la realización de trámites de licencias de conducir, de conformidad con los instrumentos legales suscritos para tales efectos.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
@@ -543,11 +677,19 @@ ARTICULO 42 BIS.- La Secretaría en beneficio de los usuarios del servicio podr�
 
 Es facultad de la Secretaría la expedición de licencias para conducir vehículos automotores, previo el pago de los derechos correspondientes, con apego a lo que establece esta Ley y sus Reglamentos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 44.
 
-Los tipos de licencia que expida la Secretaría son:
+Las licencias de conducir que expide la Secretaría se clasifican en:
 
-I.- LICENCIA PROVISIONAL PARA AUTOMOVILISTA Y MOTOCICLISTA.- Se otorga a personas de los dieciséis a los dieciocho años, previa presentación de la carta responsiva del padre o tutor legalmente ratificadas. Así como a quienes, siendo mayores de dieciocho años, estén aprendiendo a conducir, estas licencias tendrán vigencia de seis meses;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
+
+I.- LICENCIA PROVISIONAL.- la cual será:
+
+a) Para automovilista. Se otorga a personas de los dieciséis a los dieciocho años, previa presentación de la carta responsiva del padre o tutor legalmente ratificada. Así como a quienes, siendo mayores de dieciocho años, esten aprendiendo a conducir, esta licencia tendrá vigencia de seis meses; y
+
+b) Para motociclista. Se otorga a personas de los dieciséis a los dieciocho años, previa presentación de la carta responsiva del padre o tutor legalmente ratificada. Así como a quienes, siendo mayores de dieciocho años, estén aprendiendo a conducir, esta licencia tendrá vigencia de seis meses;
 
 > <small>(REFORMADA, P.O. 26 DE ENERO DE 2001)</small>
 
@@ -557,15 +699,21 @@ II.- LICENCIA DE AUTOMOVILISTA.- Se otorga a los conductores de automóviles o v
 
 III.- LICENCIA DE MOTOCICLISTA.- Se otorga a los conductores de vehículos de dos, tres o cuatro ruedas o, derivados de los mismos y que hayan cumplido dieciocho años de edad. Tendrán una vigencia de tres y cinco años;
 
-IV.- LICENCIA PARA CHOFER PARTICULAR.- La requieren los conductores de toda clase de vehículos particulares;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
+IV.- LICENCIA PARA CHOFER PARTICULAR.- La requieren los conductores de toda clase de vehículos particulares; excepto motocicletas;
 
-V.- LICENCIA-TARJETÓN DE CHOFER PARA EL SERVICIO PÚBLICO DE TRANSPORTE Y EL SERVICIO MERCANTIL.- La requieren los conductores de vehículos destinados al Servicio Público de Transporte y Servicio Mercantil, sin menoscabo de conducir toda clase de vehículos; y tendrá una vigencia de tres años;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
 
-VI.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2007)
+V.- LICENCIA DE CHOFER DEL SERVICIO DE TRANSPORTE PÚBLICO Y MERCANTIL.- Se expedirá a los conductores de vehículos destinados al Servicio Público de Transporte y Servicio de Transporte Mercantil, sin menoscabo de conducir vehículos de uso particular y demás autorizados, excepto motocicleta; y tendrá una vigencia de tres años;
 
-VII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2007)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE AGOSTO DE 2012)</small>
+
+VI.- LICENCIA DE CHOFER PARA EL SERVICIO DE TRANSPORTE MERCANTIL.- Se expedirá a los conductores de vehículos destinados al Servicio de Transporte Mercantil, sin menoscabo de conducir toda clase de vehículos, excepto los del Servicio Público de Transporte y del Servicio Mercantil de Taxi, así como motocicletas; y tendrá una vigencia de tres años; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE AGOSTO DE 2012)</small>
+
+VII.- LICENCIA TRANSITORIA DE CHOFER PARA EL SERVICIO DE TRANSPORTE PÚBLICO Y MERCANTIL DE TAXI.- Se expedirá a los conductores de vehículos destinados al Servicio de Transporte Público y Mercantil de Taxi, sin menoscabo de conducir toda clase de vehículos, excepto motocicletas y vehículos destinados al servicio mercantil de personal, escolar, de turismo, servicio extraordinario y de carga; y tendrá una vigencia de seis meses.
 
 VIII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2007)
 
@@ -573,9 +721,23 @@ VIII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2007)
 
 Las licencias a que hace referencia este artículo, son de uso personal e intransferible.
 
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
+ARTICULO 44 BIS.- Gafete de Identificación del Chofer del Servicio de Transporte Público y Mercantil de Taxi.
+
+Lo requieren los conductores del servicio de transporte público y mercantil de taxi, como un documento de identificación, el cual deberá estar a la vista del usuario, durante la prestación del mismo; y su vigencia será de acuerdo al tipo de licencia que tengan los conductores de los vehículos.
+
+El Gafete al que se hace referencia, en ningún momento podrá sustituir a la licencia de conducir.
+
 ###### ARTICULO 45.
 
 Las licencias para conducir vehículos se expedirán a solicitud del interesado; previo cumplimiento de los requisitos establecidos en los Reglamentos de esta Ley.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
+ARTICULO 45 BIS.- Los exámenes médicos y toxicológico, para la expedición, canje o reposición de Licencias para conducir vehículos del Servicio Público de Transporte y del Servicio de Transporte Mercantil, podrán ser practicados a los interesados por la Secretaría o por Instituciones de Salud Públicas o Privadas o terceros, que cuenten con la infraestructura necesaria y sean autorizadas oficialmente por la Secretaría.
+
+La Secretaría, mediante reglas de carácter general publicadas en el Periódico Oficial del Estado, dará a conocer las Instituciones Públicas o Privadas que realizarán los exámenes médicos y expedirán los documentos para este efecto.
 
 ## TITULO CUARTO. DE LAS CONCESIONES Y LOS PERMISOS PARA EL SERVICIO PUBLICO DE TRANSPORTE Y EL SERVICIO MERCANTIL
 
@@ -585,43 +747,57 @@ Las licencias para conducir vehículos se expedirán a solicitud del interesado;
 
 Corresponde al Gobierno del Estado a través de la Secretaría, la prestación del Servicio Público de Transporte, creando los medios que estime convenientes o mediante el otorgamiento de CONCESIONES, en los términos de esta Ley y sus Reglamentos.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 47.
 
-Corresponde al Gobierno del Estado a través de la Secretaría, otorgar los PERMISOS respecto de los servicios que por su naturaleza mercantil no esté obligado a prestar.
+Corresponde al Gobierno del Estado a través de la Secretaría, otorgar los permisos o autorizaciones para la prestación de los servicios a que se refiere esta Ley.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 48.
 
-Concesión del Servicio Público de Transporte, es el acto jurídico por el cual el Secretario de Comunicaciones y Transportes del Estado, autoriza a toda persona física o moral a la prestación del Servicio Público de Transporte y sus Servicios Auxiliares; estableciendo las condiciones y obligaciones a que deberán de sujetarse, tomando en cuenta las características del servicio.
+Concesión del Servicio Público de Transporte, es el acto jurídico por el cual el Secretario de Transportes del Estado, otorga alguna persona física o moral la autorización para la prestación del Servicio Público de Transporte y sus Servicios Auxiliares; estableciendo las condiciones y obligaciones a que deberán sujetarse, y condicionado su otorgamiento al cumplimiento de todos los requisitos establecidos en la presente Ley y sus Reglamentos, tomando en cuenta las características del servicio.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 49.
 
-Concesionario del Servicio Público de Transporte, es la persona física o moral a la que se le otorga concesión por parte de la Secretaría de Comunicaciones y Transportes del Estado de Puebla, para prestar el Servicio Público de Transporte y sus Servicios Auxiliares.
+Concesionario del Servicio Público de Transporte, es la persona física o moral a la que se le otorga concesión por parte de la Secretaría de Transportes del Estado de Puebla, para prestar el Servicio Público de Transporte y sus Servicios Auxiliares.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 50.
 
-Permiso, es el acto administrativo por el cual el Secretario de Comunicaciones y Transportes del Estado de Puebla faculta a una persona física o moral, a efectuar un Servicio de Transporte Mercantil y aquellos Servicios Auxiliares susceptibles de permiso. En todo caso se deberán cumplir todas las condiciones señaladas en esta Ley y sus Reglamentos.
+Permiso o autorización es el acto administrativo por el cual el Secretario de Transportes del Estado de Puebla faculta a una persona física o moral, a efectuar un Servicio de Transporte Mercantil y aquellos servicios auxiliares susceptibles de permiso o autorización. En todo caso se deberán cumplir todas las condiciones señaladas en esta Ley y sus Reglamentos.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 51.
 
-Permisionario, es la persona física o moral a la que se le otorga autorización por parte de la Secretaría de Comunicaciones y Transportes del Estado de Puebla, para prestar un Servicio de Transporte Mercantil, o algún servicio auxiliar susceptible de permiso conforme a lo que marca la presente Ley, y sus Reglamentos.
+Permisionario es la persona física o moral facultada o autorizada, a la que se le otorguen los documentos inherentes por parte de la Secretaría de Transportes del Estado de Puebla, para prestar un Servicio de Transporte Mercantil, o algún servicio auxiliar susceptible de permiso conforme a lo que marca la presente Ley y sus Reglamentos.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 52.
 
-Para que las personas físicas o morales puedan llevar a cabo la prestación de cualquier Servicio Público de Transporte o del Servicio Mercantil especificados en el Capítulo correspondiente, se requiere de una concesión o de un permiso.
+Para que las personas físicas o morales puedan llevar a cabo la prestación de cualquier Servicio Público de Transporte o del Servicio Mercantil especificados en el Capítulo correspondiente, se requiere de una concesión, un permiso o autorización.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+La Secretaría esta facultada para establecer nuevas modalidades o bien modificar las existentes en la prestación del Servicio de Transporte Público y Mercantil y sus Servicios Auxiliares, cuando se justifique su necesidad e interés colectivo, de conformidad con esta Ley y sus Reglamentos.
 
-La Secretaría está facultada para establecer nuevas modalidades en la prestación del Servicio de Transporte Público y Mercantil y sus servicios auxiliares, cuando se justifique su necesidad e interés colectivo, de conformidad con esta Ley y sus Reglamentos.
+Las nuevas modalidades y las modificaciones a las ya establecidas, deberán orientarse a modernizar y mejorar las condiciones en la prestación del servicio correspondiente.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 53.
 
-Para que las personas físicas o morales obtengan la concesión del Servicio Público o permiso del Servicio Mercantil que otorga la Secretaría, deberán sujetarse a los estudios técnicos, y al procedimiento que ésta realice; así como a los requisitos establecidos en esta Ley y sus Reglamentos.
+Para que las personas físicas o morales obtengan la Concesión del Servicio Público, permiso o autorización del Servicio Mercantil o algún servicio auxiliar que otorga la Secretaría, deberán sujetarse a los estudios técnicos, y al procedimiento que ésta realice; así como cubrir los requisitos establecidos en esta Ley, sus Reglamentos y los demás que determine la Secretaría en función de las necesidades del Servicio Público de Transporte.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 54.
 
-Las concesiones y permisos, así como los derechos en ellos conferidos a que hace referencia esta Ley y su reglamento, se consideran bienes fuera de comercio, no obstante lo cual, podrán ser otorgados en garantía para la obtención de financiamiento que sea destinado a la renovación del propio parque vehicular de los servicios público y mercantil de transporte, previa autorización de la Secretaría.
+Las concesiones, permisos o autorizaciones, así como los derechos en ellos conferidos a que hace referencia esta Ley y su Reglamento, se consideran bienes fuera de comercio, no obstante lo cual, podrán ser otorgados en garantía para la obtención de financiamiento que sea destinado a la renovación del propio parque vehicular de los Servicios Público y Mercantil de Transporte, previa autorización de la Secretaría.
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
@@ -659,6 +835,10 @@ Las personas morales cuyo objeto social sea la prestación del Servicio Público
 
 Los concesionarios y permisionarios establecidos como personas físicas, podrán constituirse como personas morales conforme a las leyes aplicables, para prestar en mejores condiciones el Servicio Público de Transporte o el Servicio Mercantil.
 
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
+Para la realización de cualquier trámite ante la Secretaría, el representante legal de la persona moral deberá estar debidamente acreditado, de conformidad con lo establecido en esta Ley y sus Reglamentos, presentando en su caso, y cuando así lo considere pertinente la Secretaría, el acta de asamblea o documento en el que conste el acuerdo tomado por el órgano que administre y dirija a la persona moral de que se trate.
+
 ### CAPITULO II. LAS CONCESIONES PARA EL SERVICIO PUBLICO DE TRANSPORTE
 
 ###### ARTICULO 58.
@@ -669,9 +849,17 @@ I.- El Transporte Urbano;
 
 II.- El Transporte Suburbano;
 
-III.- El Transporte Foráneo, y
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
 
-IV.- El Transporte Mixto de Personas y Bienes.
+III.- El Transporte Foráneo;
+
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
+
+IV.- El Transporte Mixto de Personas y Bienes; y
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2012)</small>
+
+V.- Sistema de Transporte Público Masivo.
 
 ###### ARTICULO 59.
 
@@ -693,29 +881,47 @@ Para los efectos de esta Ley y su Reglamento, se entenderá que el trámite corr
 
 Para la creación de nuevos Servicios Públicos de Transporte, se emitirá la opción técnica correspondiente.
 
-Tratándose de la modificación e incremento de los ya establecidos, podrá escucharse a los concesionarios, dentro del plazo de tres días hábiles contados a partir del día siguiente de la notificación respectiva, para efecto de que expongan por escrito lo que a su derecho convenga, quienes deberán acreditar su interés jurídico.
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
-Una vez fenecido el plazo que establece el párrafo que antecede, se dejará constancia en el expediente respectivo, y la Secretaría procederá a determinar conforme a la legislación aplicable.
+Tratándose de la modificación e incremento de los ya establecidos, se emitirá la opinión técnica correspondiente, con la que se deberá dar vista a los concesionarios de las rutas que coincidan en el origen o destino de la ruta beneficiada, o coincidan al menos en un cuarenta por ciento o más del total del recorrido o itinerario que tienen autorizado, que represente un traslapamiento entre una y otra u otras rutas.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
+Los interesados, dentro del plazo de tres días hábiles contados a partir del día siguiente de la notificación del estudio técnico, podrán exponer por escrito lo que a su derecho convenga, quienes deberán acreditar su interés jurídico.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
+Una vez vencido el plazo que establece el párrafo que antecede, se dejará constancia en el expediente respectivo, y la Secretaría procederá conforme a la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
+Para efectos del presente artículo, en las opiniones técnicas correspondientes relativas a las modificaciones e incrementos de los servicios de transporte ya establecidos, deberán tomarse en cuenta los recorridos de los corredores del Sistema de Transporte Público Masivo a fin de no verse afectados, y en su caso, se dará preferencia a las modificaciones e incrementos de los corredores de transporte público de pasajeros.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 61.
 
-Para ser concesionario de alguno de los servicios a que se refiere esta Ley, es necesario formular una solicitud por escrito, la cual se presentará por triplicado ante la Secretaría. Dicha solicitud deberá contener lo siguiente:
+Para ser concesionario de alguno de los servicios a que se refiere esta Ley, es necesario formular una solicitud por escrito, la cual se presentará por duplicado ante la Secretaría; dicha solicitud deberá contener lo siguiente:
 
-I.- La clase de servicio que se pretenda prestar y las características de los vehículos que destinará a la prestación del servicio;
+I.- Nombre completo, edad, nacionalidad y domicilio, si se trata de una persona física o, en su caso, denominación legal y domicilio social, si es una persona jurídica.
 
-II.- Nombre completo, edad, nacionalidad y domicilio, si se trata de una persona física o, en su caso, denominación legal y domicilio social, si es una persona moral;
+Cuando la solicitud sea realizada por dos o más personas, deberán designar un representante común que elegirán de entre ellas mismas.
 
-III.- Declaración bajo protesta de decir verdad, manifestando si es titular de una o más concesiones, así como el número de vehículos que amparan las mismas;
+En caso de no realizar la designación, la Secretaría mandará prevenirlas para que dentro del término de tres días, señalen tal representante; de persistir la omisión, la Secretaría designará con tal carácter a cualquiera de los interesados.
 
-IV.- Precisar los puntos correspondientes a la ruta, el Municipio o los municipios que comprenda. Tratándose del Servicio Público de Transporte Urbano, señalar las calles del recorrido, así como los lugares donde se pretenda ubicar la base, terminal o sitio;
+II.- Señalar domicilio para recibir notificaciones preferentemente en la Ciudad de Puebla, o bien a través de los medios de comunicación electrónicos o cualquier otro medio cuando así lo haya aceptado el promovente y siempre que pueda comprobarse fehacientemente la recepción de las notificaciones, en caso de no señalar domicilio, las notificaciones que le correspondan, se harán por estrados;
 
-> <small>(REFORMADA, P.O. 26 DE ENERO DE 2001)</small>
+III.- La clase de servicio que se pretenda prestar y las características de los vehículos que destinará a la prestación del servicio;
 
-V.- Garantía que se otorga a favor de la Secretaría de Finanzas y Desarrollo Social del Estado, para asegurar la continuidad de los trámites correspondientes;
+IV.- Declaración bajo protesta de decir verdad, manifestando si es titular de una o más concesiones;
 
-VI.- El seguro de viajero que se obliga a contratar, a fin de proteger a los usuarios y terceros sobre cualquier riesgo que puedan sufrir con motivo de la prestación del servicio, y
+V.- Precisar los puntos correspondientes a la ruta, el Municipio o los municipios que comprenda. Tratándose del Servicio Público de Transporte Urbano, señalar las calles del recorrido, así como los lugares donde se pretenda ubicar la base, terminal o sitio;
 
-VII.- Lugar y fecha en que se formula la solicitud, firmando el documento el peticionario o, en su caso, el representante legal de la persona moral solicitante.
+VI.- Garantía que se otorga a favor de la Secretaría de Finanzas del Estado, en los términos que señale la Ley de Ingresos del Estado vigente, para asegurar la continuidad de los trámites correspondientes;
+
+VII.- El seguro de viajero que se obliga a contratar, a fin de proteger a los usuarios y terceros sobre cualquier riesgo que puedan sufrir con motivo de la prestación del servicio; y
+
+VIII.- Lugar y fecha en que se formula la solicitud, firmando el documento el peticionario o, en su caso, el representante legal de la persona moral solicitante.
 
 ###### ARTICULO 62.
 
@@ -791,15 +997,35 @@ XIV.- Lugar y fecha de expedición y firma de la autoridad concedente.
 
 En caso del permiso que se otorga al Servicio de Transporte Mercantil de personas en su modalidad de alquiler o taxi, será aplicable lo previsto por este artículo.
 
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
+ARTICULO 65 BIS.- Los títulos de concesión que se otorguen para prestar el servicio del Sistema de Transporte Público Masivo, además de los requisitos establecidos en el artículo 65 de esta Ley, deberán considerar:
+
+I.- La prevención de que la Secretaría no otorgará concesiones a terceras personas o derechos a otros concesionarios para prestar el Servicio de Transporte Público Masivo en la ruta concesionada;
+
+II.- Que la actualización anual de la tarifa genérica que se aplicará al Servicio de Transporte Público Masivo y que será pagada por el usuario, se determinará y ajustará con base en el resultado del estudio técnico que al efecto realice la Secretaría, propiciando la autosuficiencia financiera del servicio y procurando satisfacer especialmente las necesidades del usuario;
+
+III.- Los términos y condiciones en los que proceda el reembolso al concesionario del monto de las inversiones que demuestre haber realizado, cuando por causas justificadas imputables a la autoridad, se vea afectada la operación del Sistema de Transporte Público Masivo; y
+
+IV.- Establecer en su caso, que se podrá convenir un procedimiento arbitral para resolver las controversias que deriven sobre el cumplimiento de las obligaciones del Título de Concesión.
+
 > <small>(REFORMADO, P.O. 26 DE ENERO DE 2001)</small>
 
 ###### ARTICULO 66.
 
 En igualdad de circunstancias respecto de otros solicitantes, se procurará dar preferencia a las personas físicas y/o morales que cuenten con las mejores condiciones técnicas, financieras y de operación necesarias para la prestación del mismo.
 
+REFORMADO, P.O. 10 DE AGOSTO DE 2012)
+
 ###### ARTICULO 67.
 
-Los trámites para obtener una concesión de cualquiera de los tipos del Servicio de Transporte Público; deberán llevarse a cabo personalmente por el interesado, tratándose de persona física, o por el representante legal debidamente autorizado de las sociedades u organismos transportistas. La entrega de la concesión y demás documentos, será un trámite personalísimo.
+Los trámites para obtener una concesión de cualquiera de los tipos del Servicio de Transporte Público; así como los trámites administrativos relacionados a las concesiones, deberán llevarse a cabo personalmente por el interesado, tratándose de persona física, o por el representante legal debidamente autorizado de las sociedades u organismos transportistas.
+
+La entrega de la concesión y demás documentos, será un trámite personalísimo; lo anterior de conformidad con la normatividad que para estos efectos emita la Secretaría, observando en su caso lo dispuesto por las disposiciones legales relativas al uso de medios electrónicos, a fin de agilizar, simplificar y hacer más accesibles los actos y trámites realizados ante la Dependencia.
+
+En caso de que la Secretaría determine que es procedente el otorgamiento de una concesión y lo notifique al interesado, éste deberá presentar el vehículo o vehículos con los que pretenda prestar el servicio, así como la documentación correspondiente, de conformidad con lo señalado en el Reglamento respectivo, en un término que no exceda de sesenta días naturales; si aquél no cumple, la Secretaría declarará el abandono del trámite, sin responsabilidad para ésta. El importe de la garantía otorgada se perderá a favor del Gobierno del Estado.
+
+Lo señalado en el párrafo anterior aplicará para cualquier trámite administrativo relacionado a las concesiones y que el interesado no dé continuidad o no realice promoción alguna ante la Secretaría en el término citado.
 
 ###### ARTICULO 68.
 
@@ -809,13 +1035,15 @@ Las personas físicas que aspiren a prestar el Servicio Público de Transporte, 
 
 Las personas morales debidamente constituidas, que aspiren a prestar el Servicio Público de Transporte, se les otorgarán el número de concesiones para satisfacer el servicio de que se trate, previo estudio técnico que al efecto realice la Secretaría.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 70.
 
-Las concesiones que se otorguen a las personas físicas o jurídicas para prestar el servicio público de transporte, tendrán una vigencia de diez años; sin embargo, la Autoridad o la comisión respectiva certificará cada tres años, la validez de las mismas. Lo anterior no libera al concesionario de la obligación de prestar el servicio con vehículos que no excedan de diez años de antigüedad en las rutas urbanas y doce años de antigüedad en las rutas suburbanas y doce de antigüedad en las rutas suburbanas y foráneas, ni de realizar el trámite anual que deberá efectuar en las oficinas recaudadoras de la Secretaría de Finanzas y Administración, en términos de la Ley de Ingresos del Estado.
+Las concesiones que se otorguen a las personas físicas o jurídicas para prestar el Servicio Público de Transporte, tendrán una vigencia de diez años; la autoridad o la comisión respectiva certificará cada tres años, la validez de las mismas.
 
-La Autoridad impondrá sanciones a los concesionarios que no cumplan con lo anterior.
+Lo previsto en el párrafo anterior, no libera al concesionario de la obligación de prestar el servicio con vehículos que no excedan de diez años de antigüedad en las rutas urbanas y transporte público masivo y doce años de antigüedad en las rutas suburbanas y foráneas, ni de realizar el trámite anual que deberá efectuar en las oficinas recaudadoras de la Secretaría de Finanzas, en términos de la Ley de Ingresos del Estado vigente.
+
+Las concesiones que se otorguen para prestar el Sistema de Transporte Público Masivo, tendrán una vigencia de hasta treinta años; quedarán sujetas a lo establecido en esta Ley y su Reglamento, así como a lo señalado en el Título de Concesión respectivo.
 
 ###### ARTICULO 71.
 
@@ -843,9 +1071,11 @@ Con el fin de hacer eficiente la prestación del Servicio Público de Transporte
 
 ### CAPITULO III. LOS PERMISOS PARA EL SERVICIO DE TRANSPORTE MERCANTIL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 75.
 
-Requieren del otorgamiento de un permiso los siguientes Servicios de Transporte Mercantil:
+Requieren del otorgamiento de un permiso o autorización los siguientes Servicios de Transporte Mercantil:
 
 I.- Los automóviles de Alquiler o Taxis;
 
@@ -857,7 +1087,9 @@ IV.- El transporte de Turismo;
 
 V.- El transporte de Servicio Extraordinario;
 
-VI.- El transporte de Materiales o Diversos;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
+
+VI.- Los Taxis Locales;
 
 VII.- El transporte de Carga Ligera;
 
@@ -865,31 +1097,53 @@ VIII.- El transporte de Mudanzas;
 
 IX.- Mensajería y Paquetería;
 
-X.- Giros Restringidos, y
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
 
-XI.- El transporte Especial.
+X.- Los de carga especializada de materiales y desechos peligrosos;
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2001)</small>
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
+
+XI.- Los que transporten todo tipo de mercancías que excedan de 500 kilogramos de carga útil; y
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2012)</small>
+
+XII.- Grúas de arrastre y salvamento.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 76.
 
-Los requisitos que deberán reunir los interesados para obtener los permisos, serán los que se establecen en los artículos 61 y 62 de esta Ley.
+Los requisitos que deberán reunir los interesados para obtener los permisos o autorizaciones, y cualquier otro de los servicios que establece esta Ley, serán en lo conducente los que se establecen en los artículos 61 y 62 de la misma, así como en las disposiciones administrativas que emita y publique para tal efecto la Secretaría.
 
 ###### ARTICULO 77.
 
 Los permisos para el Servicio de Transporte en Automóviles de Alquiler o Taxis concedidos a personas físicas, serán personales y amparan un solo vehículo.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 78.
 
-Las personas morales debidamente constituidas que aspiren a prestar el Servicio de Transporte con Automóviles de Alquiler, se les otorgará los permisos para satisfacer el servicio de que se trate, previo estudio que determine la Secretaría.
+A las personas morales debidamente constituidas que aspiren a prestar el Servicio de Transporte con Automóviles de Alquiler o Taxi y los denominados Taxis Locales, se les otorgará los permisos para satisfacer el servicio de que se trate, previo estudio que determine la Secretaría.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
+ARTICULO 78 BIS.- Los trámites para obtener un permiso o autorización de cualquiera de los tipos del Servicio de Transporte Mercantil; así como los trámites administrativos relacionados a los permisos o autorizaciones, deberán llevarse a cabo personalmente por el interesado, tratándose de persona física, o por el representante legal debidamente autorizado de las sociedades u organismos transportistas.
+
+La entrega del permiso o autorización y demás documentos, será un trámite personalísimo; lo anterior de conformidad con la normatividad que para estos efectos emita la Secretaría, observando en su caso lo dispuesto por las disposiciones legales relativas al uso de medios electrónicos, a fin de agilizar, simplificar y hacer más accesibles los actos y trámites realizados ante la Dependencia.
+
+En caso de que la Secretaría determine que es procedente el otorgamiento de un permiso y lo notifique al interesado, éste deberá presentar el vehículo o vehículos con los que pretenda prestar el servicio, así como la documentación correspondiente de conformidad con lo señalado en el Reglamento respectivo, en un término que no exceda de sesenta días naturales; si aquél no cumple, la Secretaría declarará el abandono del trámite, sin responsabilidad para ésta. El importe de la garantía otorgada se perderá a favor del Gobierno del Estado.
+
+Lo señalado en el párrafo anterior aplicará para cualquier trámite administrativo relacionado a los permisos y que el interesado no promueva ante la Secretaría en el término citado.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 79.
 
-Los permisos a que hace referencia la presente Ley tendrán una vigencia hasta de un año. Lo anterior no libera al permisionario de realizar el trámite correspondiente a través del pago anual que deberá efectuar en las oficinas recaudadoras de la Secretaría de Finanzas y Administración, según lo señalado por la Ley de Ingresos del Estado.
+Los permisos o autorizaciones a que hace referencia la presente Ley, tendrán una vigencia hasta de un año con excepción de los permisos del Servicio de Transporte Mercantil de personas en su modalidad de alquiler o taxi y de los taxis locales, los cuales tendrán una vigencia de diez años. Lo anterior no libera a su titular de realizar los trámites procedentes a través del pago anual que deberá efectuar en las oficinas recaudadoras de la Secretaría de Finanzas, según lo señalado por la Ley de Ingresos del Estado vigente.
 
-Para el caso de los permisos del Servicio de Transporte Mercantil de personas en su modalidad de alquiler o taxi, será aplicable en lo conducente lo dispuesto por el artículo 70 de esta Ley.
+Para el caso de los permisos del Servicio de Transporte Mercantil de personas en su modalidad de alquiler o taxi y taxis locales, deberán prestar el servicio con vehículos que no excedan de diez años de antigüedad.
+
+Los demás vehículos que prestan los servicios de transporte mercantil a que se refiere esta Ley, contarán con la antigüedad y condiciones que señale la normatividad aplicable.
 
 ###### ARTICULO 80.
 
@@ -911,17 +1165,19 @@ Satisfechos los requisitos exigidos a que se refiere esta Ley y las leyes fiscal
 
 La Secretaría llevará, además, un registro de las sociedades que presten algún Servicio Público de Transporte o Servicio Mercantil o, en su caso, de los servicios auxiliares a que se refiere esta Ley y sus Reglamentos.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 84.
 
-Cuando con posterioridad al registro del vehículo del Servicio Público de Transporte o del Servicio Mercantil, se pretenda realizar el cambio de unidad o, en su caso, modificar las características o los datos de la misma, deberá contarse previamente con la autorización de la Secretaría, así como con el pago correspondiente. En seguida, se incluirán los cambios procedentes en el registro computarizado.
+Cuando con posterioridad al registro del vehículo del Servicio Público de Transporte o del Servicio de Transporte Mercantil, se pretenda realizar el cambio de unidad, o en su caso, modificar las características o los datos de la misma, deberá contarse previamente con la autorización de la Secretaría, así como realizar el pago correspondiente ante la Secretaría de Finanzas. Enseguida, se incluirán los cambios procedentes en el registro computarizado a que se refiere esta Ley. Por ningún motivo se podrá sustituir el vehículo correspondiente de una capacidad mayor a una menor, en concordancia con lo que establece el artículo 52 de la presente Ley.
 
 ### CAPITULO V. LAS OBLIGACIONES DE LOS CONCESIONARIOS Y PERMISIONARIOS
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 85.
 
-Los concesionarios y los permisionarios tendrán, en todo tiempo, la obligación de capacitarse, así como la de proporcionar a sus conductores la capacitación y el adiestramiento necesarios para lograr que la prestación de los servicios a su cargo sean eficientes, seguros y con sujeción a las disposiciones de la presente Ley y sus Reglamentos.
+Los concesionarios y los permisionarios tendrán, en todo tiempo, la obligación de capacitarse, así como la de proporcionar a sus conductores la capacitación, adiestramiento o profesionalización necesarios para lograr que la prestación de los servicios a su cargo sean eficientes, seguros y con sujeción a las disposiciones de la presente Ley y su Reglamento.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
@@ -929,15 +1185,19 @@ ARTICULO 85 BIS.- Los concesionarios y los permisionarios, tendrán en todo tiem
 
 Los conductores o choferes a que se refiere el párrafo anterior, no podrán conducir los vehículos destinados al Servicio Público de Transporte o al Servicio Público Mercantil, hasta en tanto en cuanto no se informe a la Secretaría. La información respectiva deberá actualizarse cada tres meses a la Secretaría y en cada caso concreto, cuando las circunstancias lo requieran. La inobservancia de esta disposición tendrá como consecuencia la revocación de la concesión o la cancelación del permiso.
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 86.
 
-Los concesionarios y los permisionarios, se obligan a que los conductores de sus unidades, tengan vigente la licencia y los certificados de capacitación correspondientes, así como, los tarjetones de identificación; la inobservancia de esta disposición, tendrá como resultado la aplicación de la sanción a que haya lugar.
+Los concesionarios y los permisionarios, se obligan a que los conductores de sus unidades, tengan vigente la Licencia de Conducir que corresponda a la clase de servicio que se preste, y el gafete de identificación, así como los certificados de capacitación procedentes; la inobservancia de esta disposición, tendrá como resultado la aplicación de la sanción a que haya lugar.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 87.
 
-Los concesionarios y los permisionarios del Servicio Público de Transporte y del Servicio Mercantil, deberán cumplir, en todo tiempo, con la revista vehicular cuando así lo determine la Secretaría.
+Los concesionarios y los permisionarios del Servicio Público de Transporte y del Servicio de Transporte Mercantil, deberán cumplir, en todo tiempo, cuando lo determine la Secretaría, con la revista vehicular, a fin de evaluar el cumplimiento de las condiciones y características físico-mecánicas de los vehículos, señaladas en el Reglamento de esta Ley y de conformidad con las disposiciones administrativas emitidas por la Secretaría.
+
+La cuota que deberá cubrir el titular de la concesión o permiso por el análisis físico-mecánico de los vehículos, será la que señale la Ley de Ingresos del Estado para el ejercicio fiscal vigente.
 
 > <small>(REFORMADO, P.O. 26 DE ENERO DE 2001)</small>
 
@@ -953,11 +1213,11 @@ Los concesionarios y los permisionarios serán responsables solidarios respecto 
 
 Los concesionarios y los permisionarios serán responsables solidarios de sus conductores respecto de las infracciones en que incurran durante la prestación del Servicio Público de Transporte y del Servicio Mercantil.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 91.
 
-Los concesionarios y permisionarios deberán pagar anualmente los derechos que se causen por concepto del trámite correspondiente de la concesión y de los permisos del Servicio de Automóviles de Alquiler o Taxis, materiales para construcción o diversos, carga ligera y mudanzas.
-
-Para lo anterior, la Secretaría sellará el tarjetón de concesión o el permiso, precisando el año que se revisa; llevando el control en el registro computarizado.
+Los concesionarios y permisionarios deberán pagar anualmente los derechos que en su caso se causen por los servicios que preste la Secretaría, derivados de esta Ley.
 
 ###### ARTICULO 92.
 
@@ -971,9 +1231,9 @@ ARTICULO 92 BIS.- Los derechos y obligaciones derivados de una concesión para l
 
 La persona que haya cedido los derechos de la concesión de la cual fue titular, no podrá adquirir nuevas concesiones o permisos.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
-ARTICULO 92 TER.- Para que cualquier vehículo destinado al Servicio Público de Transporte o Servicio de Transporte Mercantil, se le coloque publicidad o propaganda impresa, electrónica o por cualquier otro medio, al interior o exterior del mismo, su titular deberá obtener de la Secretaría el Permiso respectivo, previo pago de derechos, de acuerdo a lo que establece el Reglamento respectivo.
+ARTICULO 92 TER.- Queda prohibido que se coloque publicidad o propaganda impresa y electrónica en los costados o frente de cualquier vehículo destinado al Servicio Público de Transporte, únicamente se podrá colocar publicidad en el interior del vehículo, así como en el medallón del mismo, previa autorización que otorgue la Secretaría, de conformidad con las disposiciones legales aplicables.
 
 ## TITULO QUINTO. DE LOS SERVICIOS AUXILIARES DEL TRANSPORTE ESTATAL
 
@@ -999,7 +1259,9 @@ V.- La base de servicio público;
 
 VI.- El arrastre, traslado y depósito de vehículos del Servicio Público de Transporte y el Servicio Mercantil, y
 
-VII.- Los centros de capacitación y adiestramiento.
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
+
+VII.- Los Centros de Capacitación, Adiestramiento o Profesionalización.
 
 ###### ARTICULO 95.
 
@@ -1027,17 +1289,23 @@ Base de servicio público es la ubicada en el punto de origen y destino de la ru
 
 Arrastre, traslado y depósitos de vehículos del Servicio Público de Transporte y del Servicio Mercantil es el servicio auxiliar que presta la Secretaría a fin de movilizar y resguardar los vehículos del Servicio Público de Transporte y del Servicio Mercantil.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 101.
 
-Centros de capacitación y adiestramiento, son las instalaciones destinadas para enseñar todo lo relacionado con la conducción, operación y prestación del servicio de los vehículos del Servicio Público de Transporte y del Servicio Mercantil, a fin de facultar a los prestadores de éstos para que lo realicen de manera eficiente y segura.
+Centros de Capacitación, Adiestramiento o Profesionalización son las Instituciones u Organismos Públicos o Privados, que cuenten con la autorización oficial que la Secretaría otorgue, destinadas a enseñar todo lo relacionado con la conducción, operación y prestación del servicio de los vehículos del Servicio Público de Transporte y del Servicio Mercantil, a fin de facultar a los prestadores de éstos para que lo realicen de manera eficiente y segura.
 
 ###### ARTICULO 102.
 
 Para el establecimiento de terminales de pasajeros de competencia federal en jurisdicción del Estado, la autoridad federal deberá previamente obtener la autorización correspondiente por parte de la Secretaría, cumpliendo con los requisitos que ésta última determine en función de las características que requiera dicha terminal, así como cumplir con los requisitos que establezcan las autoridades competentes.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 103.
 
-La Secretaría, por sí o a través de terceros mediante el otorgamiento de concesiones, autorizará el establecimiento de servicios auxiliares señalados en las fracciones I, II, III, VI y VII del artículo 94. Respecto a la fracción IV, la Secretaría otorgará las autorizaciones correspondientes a través de permisos y en la fracción V, éstas se establecerán en el itinerario correspondiente a las concesiones, ambas del artículo antes mencionado, lo anterior sin menoscabo de cumplir con los requisitos que establezcan las autoridades competentes.
+La Secretaría, por sí o a través de terceros autorizará el establecimiento de los servicios auxiliares señalados en las fracciones I, II, III, VI y VII del artículo 94. Respecto a la regulación de los sitios, la Secretaría otorgará las autorizaciones correspondientes a través de permisos y con relación a las bases del servicio público, éstas se establecerán en el itinerario correspondiente a las concesiones.
+
+En lo relativo a los Centros de Capacitación, Adiestramiento o Profesionalización la Secretaría expedirá la autorización correspondiente, tanto a las instituciones públicas o privadas, para el reconocimiento como Centro de Capacitación, Adiestramiento o Profesionalización, lo anterior sin menoscabo de cumplir con los requisitos que establezcan las autoridades competentes.
 
 ###### ARTICULO 104.
 
@@ -1071,29 +1339,61 @@ La Secretaría podrá cambiar en coordinación con las autoridades competentes, 
 
 ### CAPITULO III. ARRASTRE, TRASLADO Y DEPOSITO PARA VEHICULOS DEL SERVICIO PUBLICO DE TRANSPORTE Y DEL SERVICIO MERCANTIL
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 111.
 
-Las personas físicas o morales que cuenten con la concesión correspondiente y que dispongan de vehículos con grúa para el arrastre y traslado de vehículos hacia los depósitos que opere directamente la Secretaría o los concesionados a particulares, podrán realizar este servicio siempre que cumplan con los requisitos previamente establecidos por la misma.
+Las personas físicas o morales que cuenten con la autorización correspondiente y que dispongan de vehículos con grúa para el arrastre y traslado de vehículos hacia los depósitos que opere directamente la Secretaría o los concesionados a particulares, podrán realizar este servicio siempre que cumplan con los requisitos previamente establecidos por la misma.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
+ARTICULO 111 BIS.- El servicio de arrastre consiste en llevar a cabo las maniobras necesarias e indispensables para enganchar a la grúa o colocar en plataformas, vehículos que, estando sobre sus propias ruedas, deban ser trasladados por caminos y puentes de jurisdicción Estatal.
+
+El permiso o autorización que la Secretaría otorgue para este servicio, será válido para todos los caminos y puentes de jurisdicción Estatal y en ningún caso autorizará a su titular a cubrir el servicio de salvamento.
+
+En el servicio de arrastre en que sea indispensable utilizar caminos y puentes de cuota para la ejecución del servicio, los pagos serán a cargo del permisionario o autorizado; en lo que respecta a los demás costos o pagos de cualquier naturaleza relacionados con el vehículo o la grúa, serán a cargo del propietario del mismo. Los vehículos objeto del servicio, deberán circular sin personas a bordo.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
+ARTICULO 111 TER.- El servicio de arrastre y salvamento, consiste en llevar a cabo aquellas maniobras mecánicas y/o manuales necesarias para rescatar y colocar sobre la carpeta asfáltica del camino, en condiciones de poder realizar las maniobras propias de su arrastre, a los vehículos accidentados, sus partes o su carga.
+
+Para la operación del servicio de arrastre y salvamento se deberá contar con el tipo de vehículo que, para cada caso se señale en la normatividad aplicable, por lo que únicamente se otorgará la autorización correspondiente a las personas físicas o morales que acrediten contar con el equipo necesario que requiere este servicio.
+
+El usuario podrá elegir al prestador del servicio de arrastre y salvamento a fin de ejecutar las maniobras correspondientes. En caso de que el usuario no esté presente o se encuentre imposibilitado para elegir a un prestador del servicio, la autoridad competente, deberá llamar al servicio de arrastre y salvamento y depósito de vehículos más próximo al lugar del percance.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 112.
 
-Los depósitos serán destinados a la guarda de los vehículos del Servicio Público de Transporte y del Servicio Mercantil que fueren retirados de la infraestructura vial, por transgredir las disposiciones de la presente Ley y sus Reglamentos.
+El servicio de depósito de vehículos consiste en la guarda y custodia en lugares autorizados por la Secretaría, de vehículos del servicio público de transporte y del servicio mercantil, infraccionados, abandonados, retenidos, accidentados o descompuestos en caminos de jurisdicción Estatal y/o en su caso, remitidos por la autoridad competente.
+
+La Secretaría o el concesionario deberán llevar un registro y control que contenga los datos de los vehículos que ingresan al depósito, se elaborará un inventario de las condiciones en que ingresa un vehículo, el lugar de su detención, causa o motivo, la fecha y hora de entrada y salida de los mismos, así como la autoridad que los liberó en su caso.
 
 ###### ARTICULO 113.
 
 La Secretaría determinará los requisitos y condiciones para concesionar los depósitos de vehículos, conforme a lo establecido en la presente Ley y sus Reglamentos.
 
-### CAPITULO IV. CENTROS DE CAPACITACION Y ADIESTRAMIENTO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE AGOSTO DE 2012)</small>
+
+### CAPITULO IV. DE LOS CENTROS DE CAPACITACION, ADIESTRAMIENTO O PROFESIONALIZACION
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 114.
 
-La Secretaría promoverá la realización de los cursos de capacitación y adiestramiento, para todos aquellos conductores de vehículos destinados a la prestación del Servicio Público de Transporte y del Servicio Mercantil.
+La Secretaría, promoverá la realización de cursos de capacitación, adiestramiento o profesionalización en Instituciones u Organismos Públicos que se encuentren autorizados por la Secretaría, para todos aquellos conductores de vehículos destinados a la prestación del Servicio Público de Transporte y del Servicio de Transporte Mercantil.
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2001)</small>
+Los cursos de capacitación, adiestramiento o profesionalización a que se refiere el presente artículo, deberán incluir temas encaminados al trato de personas con discapacidad o de adultos mayores.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 115.
 
-Los interesados en operar un centro de capacitación y adiestramiento para los conductores de los vehículos del Servicio Público del Transporte y del Servicio Mercantil, deberán contar con la concesión otorgada por la Secretaría, en la cual se establecerán los requisitos inherentes; así como los planes y programas de capacitación y adiestramiento correspondientes de acuerdo a lo establecido en la fracción IX del artículo 4 del Decreto que crea el Instituto de Capacitación y Desarrollo de la Secretaría de Comunicaciones y Transportes del Estado.
+Los interesados en operar un Centro de Capacitación, Adiestramiento o Profesionalización, para los conductores de los vehículos del Servicio Público del Transporte y del Servicio de Transporte Mercantil, deberán contar con la autorización otorgada por la Secretaría; en la cual se establecerán los requisitos inherentes; así como los planes y programas correspondientes de la Secretaría de Transportes del Estado y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
+ARTICULO 115 BIS.- La Secretaría, otorgará la autorización, vigilará, aprobará y supervisará el funcionamiento y la impartición de los cursos de capacitación, adiestramiento o profesionalización, reservándose la facultad de retirar dicha autorización, cuando se incumpla con las disposiciones aplicables, de conformidad con los lineamientos o disposiciones administrativas que emita la Secretaría.
 
 ## TITULO SEXTO. DEL REGIMEN DE LAS TARIFAS, ITINERARIOS, FRECUENCIAS DE PASO Y HORARIOS EN EL SERVICIO PUBLICO DE TRANSPORTE Y EL SERVICIO MERCANTIL
 
@@ -1103,9 +1403,17 @@ Los interesados en operar un centro de capacitación y adiestramiento para los c
 
 Tarifa es la retribución económica autorizada, que el usuario del Servicio Público de Transporte o del Servicio Mercantil en su modalidad de automóviles de alquiler, paga al concesionario o permisionario, como contraprestación por el servicio recibido.
 
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
+El establecimiento de las tarifas y sus elementos de aplicación, corresponderá a la Secretaría, una vez que haya sido realizado el estudio correspondiente.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 117.
 
-Las tarifas máximas para la prestación del Servicio Público de Transporte y Automóviles de Alquiler serán fijados por el Secretario, con base en los estudios técnicos necesarios y en la clase de servicio que se preste, en estricto apego a la presente Ley y sus Reglamentos, facultándose al Secretario para establecer de acuerdo a sus atribuciones y a la normatividad en la materia, tarifas preferenciales.
+Las tarifas máximas para la prestación del Servicio Público de Transporte y Automóviles de Alquiler serán fijados por el Secretario, con base en los estudios técnicos integrales necesarios y en la clase de servicio que se preste, en los términos y condiciones que señale la presente Ley, su Reglamento y demás disposiciones administrativas que se emitan para tal efecto, facultándose al Secretario para establecer de acuerdo a sus atribuciones y a la normatividad aplicable en la materia, tarifas preferenciales, entre las cuales quedarán comprendidas las que se establezcan en beneficio de personas con discapacidad y adultos mayores.
+
+Las tarifas preferenciales a que se refiere el presente artículo, serán autorizadas con base en la modernidad, mejoramiento y comodidad de los vehículos con los que se preste el servicio.
 
 ###### ARTICULO 118.
 
@@ -1139,17 +1447,35 @@ La frecuencia de paso, es el lapso que deben respetar en su itinerario los vehí
 
 El horario, es el tiempo de inicio y término para la prestación del Servicio Público de Transporte y del Servicio Mercantil, previamente determinado por la Secretaría.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 125.
 
-La Secretaría reglamentará todo lo relativo a los itinerarios y a su ampliación, así como respecto al incremento en las frecuencias de paso y al aumento de las unidades asignadas a cada ruta y horarios.
+La Secretaría reglamentará todo lo relativo a los itinerarios y a su ampliación, así como respecto al incremento en las frecuencias de paso, los horarios de servicio de cada ruta y el aumento de las unidades asignadas a cada ruta mediante ampliación de parque vehicular a través de la incorporación de concesiones de rutas consideradas como no rentables.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
+ARTICULO 125 BIS.- Para efectos del artículo anterior, cuando se trate de incorporación de concesiones de rutas no rentables a rutas que requieran incrementar su parque vehicular, se regirá por las siguientes disposiciones:
+
+I.- Que la ruta que desincorpora mantenga registradas un número no mayor de diez concesiones vigentes o bien que la ruta que incorpora, proporcione el servicio con un número de unidades menor de diez concesiones;
+
+II.- Que la concesión se encuentre vigente y al corriente en el pago de sus contribuciones, en términos de las disposiciones fiscales;
+
+III.- Que las concesiones a incorporar pertenezcan al mismo Municipio de servicio que el de la ruta que lo requiera;
+
+IV.- Que se cuente con el consentimiento de todos los concesionarios de la ruta a incorporarse; y
+
+V.- Las demás que emita y dé a conocer con oportunidad la Secretaría y que se requieran para la debida prestación del servicio.
 
 ## TITULO SEPTIMO. DE LA EDUCACION Y SEGURIDAD VIAL
 
 ### CAPITULO UNICO. LAS CAMPAÑAS, PROGRAMAS, CURSOS DE EDUCACION Y PROTECCION ECOLOGICA
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 126.
 
-La Secretaría, en coordinación con las autoridades competentes, desarrollará campañas, programas y cursos de seguridad y educación vial, destinados a difundir en los diferentes sectores de la población los conocimientos básicos necesarios en la materia, con el objeto de reducir el índice de accidentes de tránsito, facilitar la circulación de los vehículos en los centros de población y en la infraestructura vial de la Entidad, racionalizar el comportamiento de los peatones, desarrollar y estimular el sentido de responsabilidad y profesionalismo de los conductores de los vehículos del Servicio Público de Transporte y, en general, crear las condiciones necesarias a fin de lograr el mayor bienestar de la población.
+La Secretaría, en coordinación con las autoridades competentes, desarrollará campañas, programas y cursos de seguridad, educación vial, sensibilización y atención a personas con discapacidad, destinados a difundir en los diferentes sectores de la población los conocimientos básicos necesarios en la materia, con el objeto de reducir el índice de accidentes, de tránsito, facilitar la circulación de los vehículos en los centros de población y en la infraestructura vial de la entidad, racionalizar el comportamiento de los peatones desarrollar y estimular el sentido de responsabilidad y profesionalismo de los conductores de los vehículos del servicio público de transporte y en general, crear las condiciones necesarias a fin de lograr el mayor bienestar de la población.
 
 ###### ARTICULO 127.
 
@@ -1211,11 +1537,11 @@ Para el caso de que un vehículo no autorizado, utilice colores, número económ
 
 Cuando un conductor del Servicio Público de Transporte y del Servicio Mercantil, acumule seis infracciones de cualquier naturaleza, en el período de un año, contado a partir de la primera, será considerado reincidente, y podrá ser privado temporal o definitivamente de la licencia de conducir y del tarjetón de identificación del conductor, en términos de lo dispuesto por la presente Ley y sus Reglamentos.
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 138.
 
-El pago de las multas impuestas por concepto de infracciones a los ordenamientos relativos al transporte público, se efectuará ante las oficinas recaudadoras o las que autorice para tal efecto la Secretaría de Finanzas y Desarrollo Social del Estado.
+El pago de las multas impuestas por concepto de infracciones a los ordenamientos relativos al transporte público, se efectuará ante las oficinas recaudadoras o las que autorice para tal efecto la Secretaría de Finanzas.
 
 ###### ARTICULO 139.
 
@@ -1234,6 +1560,10 @@ Para garantizar el pago de las multas impuestas a los infractores, la Secretarí
 ###### ARTICULO 142.
 
 Las notificaciones, citatorios, requerimientos, solicitudes de informes o documentos; así como los acuerdos y resoluciones, dictados en aplicación de esta Ley y sus Reglamentos, se harán y se darán a conocer de conformidad con el procedimiento establecido en el Reglamento aplicable.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
+La Secretaría, procurará implementar mecanismos de notificación a través de los medios de comunicación electrónicos o cualquier otro medio reconocido por el promovente, siempre que pueda comprobarse fehacientemente la recepción de las notificaciones.
 
 ### CAPITULO III. NOTIFICACIONES
 
@@ -1370,3 +1700,17 @@ Las Licencias de Chofer para el Servicio Público de Transporte, Licencias de Ch
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE AGOSTO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Secretaría podrá emitir la Licencia Transitoria de Chofer para el Servicio de Transporte Público y Mercantil de Taxi, a partir del inicio de operación de los centros de capacitación, adiestramiento o profesionalización y, posterior a la entrada en vigor de los estándares de competencia laboral en la materia, permitiendo con ello que los conductores del servicio de transporte público y mercantil lleven a cabo su proceso de certificación.
+
+TERCERO.- La Secretaría tendrá la facultad de implementar los mecanismos, documentos y procedimientos, que asegure que el total de los conductores del Servicio de Transporte Público y Mercantil, concluyan su proceso de certificación.
+
+CUARTO.- Los títulos, documentos y demás actos jurídicos relacionados con la implementación del Sistema de Transporte Público Masivo que se hubieren formalizado o emitido, tendrán plena validez y reconocimiento legal, de conformidad con el presente Decreto.
+
+QUINTO.- Los permisos que en materia de publicidad, se hubieren otorgado de conformidad con el artículo 92 Ter antes de la entrada en vigor del presente Decreto, estarán vigentes hasta su conclusión.
+
+SEXTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
