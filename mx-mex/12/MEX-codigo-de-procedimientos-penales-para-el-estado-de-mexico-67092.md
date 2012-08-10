@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-penales-para-el-estado-de-mexico-67092
 country: "mx"
 rank: "codigo"
 publication_date: "2009-02-09"
-last_updated: "2011-12-20"
+last_updated: "2012-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MÉXICO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NO. 4 PUBLICADO EN LA G.G. DE 30 DE SEPTIEMBRE DE 2009, EL SISTEMA PROCESAL PENAL ACUSATORIO ADVERSARIAL Y ORAL HA SIDO INCORPORADO EN EL PRESENTE ORDENAMIENTO, Y ENTRARÁ EN VIGOR EN LOS SIGUIENTES PLAZOS Y DISTRITOS: 1) EL PRIMERO DE OCTUBRE DE DOS MIL NUEVE, EN LOS DISTRITOS JUDICIALES DE TOLUCA, LERMA, TENANCINGO Y TENANGO DEL VALLE; 2) EL PRIMERO DE ABRIL DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE CHALCO, OTUMBA Y TEXCOCO; 3) EL PRIMERO DE OCTUBRE DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE NETZAHUALCÓYOTL, EL ORO, IXTLAHUACA, SULTEPEC Y TEMASCALTEPEC; 4) EL PRIMERO DE ABRIL DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE TLALNEPANTLA, CUAUTITLÁN Y ZUMPANGO; 5) EL PRIMERO DE OCTUBRE DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE ECATEPEC DE MORELOS, JILOTEPEC Y VALLE DE BRAVO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 20 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 10 DE AGOSTO DE 2012.
 
 Código publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el lunes 9 de febrero de 2009.
 
@@ -1385,11 +1385,15 @@ Las comunicaciones que el ministerio público y la policía deban dirigirse en r
 
 ### CAPÍTULO III. LA VICTIMA U OFENDIDO
 
-Ofendido
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 10 DE AGOSTO DE 2012)</small>
+
+Víctima
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 147.
 
-Para efectos de este código, se considera ofendido:
+Para efectos de este código, se considera víctima:
 
 I. Al directamente afectado por el delito;
 
@@ -1397,13 +1401,19 @@ II. A las agrupaciones, en los delitos que afecten intereses colectivos o difuso
 
 III. A las comunidades indígenas, en los hechos punibles que impliquen discriminación o genocidio respecto de los miembros de la etnia o generen regresión demográfica, depredación de su hábitat, contaminación ambiental, explotación económica o alienación cultural.
 
-Víctima
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 10 DE AGOSTO DE 2012)</small>
+
+Ofendido
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 148.
 
-Para los efectos del presente código, se entiende por víctima a la persona que individual o colectivamente, haya sufrido indirectamente un daño físico, psicológico, patrimonial o menoscabo sustancial de sus derechos fundamentales a consecuencia de conductas consideradas como delitos en la legislación vigente.
+Para los efectos del presente código, se entiende por ofendido a la persona que individual o colectivamente, haya sufrido indirectamente un daño físico, psicológico, patrimonial o menoscabo sustancial de sus derechos fundamentales a consecuencia de conductas consideradas como delitos en la legislación vigente.
 
-Cuando con motivo del delito muera el ofendido, se considerarán víctimas:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE AGOSTO DE 2012)</small>
+
+Cuando con motivo del delito muera la víctima, se considerarán ofendidos:
 
 I. Al cónyuge, concubina o concubinario;
 
@@ -4695,7 +4705,7 @@ Obligaciones
 
 ###### Artículo 464.
 
-Al ser concedida la prelibertad, en cualquiera de sus modalidades, el juez ejecutor de sentencias competente, deberá advertir al preliberado que tendrá que ocurrir a la Institución que le haya sido señalada para hacer sus presentaciones; de informar de sus cambios de domicilio; de la obligación de desempeñar actividades lícitas; de la prohibición que tenga de ir a los lugares que se haya determinado en la resolución respectiva, así como observar una conducta intachable para con los demás y consigo mismo y cumplir con las demás medidas terapéuticas que se le hayan señalado.
+Al ser concedida la prelibertad, en cualquiera de sus modalidades, el juez ejecutor de sentencias competente, deberá advertir al preliberado que tendrá que ocurrir a la Institución que le haya sido señalada para hacer sus presentaciones; de informar de sus cambios de domicilio; de la obligación de desempeñar actividades lícitas; de la prohibición que tenga de ir a los lugares que se haya determinado en la resolución respectiva, así como observar una conducta intachable para con los, demás y consigo mismo y cumplir con las demás medidas terapéuticas que se le hayan señalado.
 
 Beneficio de libertad condicionada
 
@@ -5098,3 +5108,9 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Las autoridades competentes tomarán las medidas necesarias en materia penitenciaria para atender los requerimientos que resulten de la adopción de las penas contempladas en el presente decreto.
+
+G.G. 10 DE AGOSTO DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
