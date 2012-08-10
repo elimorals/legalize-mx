@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-6367"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-29"
-last_updated: "2012-07-20"
+last_updated: "2012-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2012.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 29 de septiembre de 1995.
 
@@ -74,6 +74,10 @@ El Gobierno del Estado, los gobiernos municipales, sus organismos descentralizad
 El Gobierno del Estado y los gobiernos municipales destinarán presupuestos suficientes y complementarios de la concurrencia señalada en el artículo 25 de la Ley General de Educación, para el cumplimiento cabal del derecho de sus habitantes a la educación. Asimismo, podrán convenir con la Federación formas de financiamiento conjunto para la ampliación y mejoramiento de los servicios educativos que se prestan en el Estado.
 
 El Ejecutivo del Estado, de conformidad con las disposiciones aplicables proveerá lo conducente para que cada Ayuntamiento reciba recursos para el cumplimiento de las atribuciones consignadas en el Artículo 16.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
+El Ejecutivo del Estado vigilará que el presupuesto destinado al sector educativo para la construcción, mantenimiento, mejoramiento, rehabilitación o remodelación, interior o exterior de inmuebles educativos, no sea utilizado de forma tal que promueva partidos, ideologías, servidores públicos, que pudieran influir u orientar las preferencias electorales o simpatías políticas de los niños, niñas, adolescentes y jóvenes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2007)</small>
 
@@ -139,11 +143,15 @@ La educación que impartan los Gobiernos Estatal, Municipal, sus organismos desc
 
 El gobierno del Estado promoverá y atenderá todos los tipos y modalidades educativos, incluidas la educación superior, la investigación científica y tecnológica y alentará el fortalecimiento de la cultura universal, nacional y regional.
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
-###### ARTICULO 10.
+###### Artículo 10.
 
-La educación que se imparta en el Sistema Educativo Estatal será laica, por lo que se mantendrá ajena por completo a cualquier creencia o práctica religiosa, el criterio que orientará dicha educación se basará en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios, la formación de estereotipos, la discriminación y la violencia especialmente la que se ejerce contra las mujeres, niñas y niños, debiendo implementar políticas públicas de Estado orientadas a la transversalidad de criterios. Sustentará los ideales de fraternidad e igualdad de derechos de todos los seres humanos evitando los privilegios de razas, de religión, de grupos, de género o de individuos.
+La educación que se imparta en el Sistema Educativo Estatal será laica, por lo que se mantendrá ajena por completo a cualquier creencia o práctica religiosa o partidista, el criterio que orientará dicha educación se basará en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios, la formación de estereotipos y la discriminación. Sustentará los ideales de fraternidad e igualdad de derechos de todos los seres humanos evitando los privilegios o discriminaciones de razas, de religión, de grupos, de sexos o de individuos o de ideología política.
+
+Para tal efecto, la imagen institucional de los inmuebles destinados a la educación impartida por el Estado, no se podrán identificar con los colores, lemas, imágenes o logotipos de los partidos políticos o signos religiosos, con el fin de salvaguardar a los centros escolares de cualquier acción con estos fines.
+
+Para dar cumplimiento a los objetivos del presente artículo, en los inmuebles destinados a la educación básica impartida por el Estado, se utilizará el color blanco como color oficial.
 
 ###### ARTICULO 11.
 
@@ -1484,3 +1492,11 @@ DECRETO NÚMERO 234, POR EL QUE SE APRUEBA LA REFORMA AL ARTÍCULO 15 DE LA LEY 
 P.O. 20 DE JULIO DE 2012.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE AGOSTO DE 2012.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Una vez que entre en vigor la presente reforma, el Ejecutivo Estatal tendrá un plazo de 180 días naturales para modificar o expedir las medidas reglamentarias correspondientes.
+
+TERCERO.- El Ejecutivo Estatal destinará de forma gradual y de acuerdo a la disponibilidad presupuestaria los recursos financieros suficientes para que los inmuebles destinados a la educación básica impartida por el Estado, sean pintados de color blanco, en su carácter de color oficial.
