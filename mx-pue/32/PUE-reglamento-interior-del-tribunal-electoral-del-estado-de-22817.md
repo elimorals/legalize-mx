@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-tribunal-electoral-del-estado-de-22817"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-06-15"
-last_updated: "2002-10-09"
+last_updated: "2012-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 2002.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL ESTADO, PUBLICADO EN EL P.O. DE 10 DE AGOSTO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sexta Sección del Periódico Oficial del Estado de Puebla, el viernes 15 de junio de 2001.
 
@@ -1009,7 +1011,7 @@ XII. Coadyuvar con el área de recursos materiales, en la planeación, análisis
 
 XIII. Diseñar programas de mantenimiento preventivo y correctivo para la óptima operación de los bienes y servicios informáticos del Tribunal;
 
-XlV. Efectuar estudios técnicos para la adquisición de bienes y servicios informáticos que requiera el Tribunal;
+XIV. Efectuar estudios técnicos para la adquisición de bienes y servicios informáticos que requiera el Tribunal;
 
 XV. Asesorar a los servidores públicos del Tribunal en el aseguramiento del acervo informático en medios digitalizados y difundir las normas, disposiciones y mecanismos que salvaguarden el mismo, en caso de siniestro o de fuerza mayor;
 
@@ -1123,7 +1125,7 @@ XII. Administrar el funcionamiento del almacén, establecer la aplicación del s
 
 XIII. Proponer y tramitar los contratos de arrendamiento de inmuebles que satisfagan las necesidades de operación del Tribunal;
 
-XlV. Apoyar en el ámbito de sus funciones, la realización de eventos que organice o en los que participe el Tribunal; y
+XIV. Apoyar en el ámbito de sus funciones, la realización de eventos que organice o en los que participe el Tribunal; y
 
 XV. Las demás que se le encomienden.
 
@@ -1487,7 +1489,7 @@ VIII. Someterse a la evaluación que para acreditar los requisitos de conocimien
 
 IX. No estar inhabilitado para desempeñar cargos o funciones públicas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2002)</small>
 
 ###### ARTÍCULO 106.
 
@@ -1837,7 +1839,7 @@ l. Cometer cualquier acto u omisión que entorpezca o perjudique el debido cumpl
 
 II. Comprometer, por imprudencia o descuido inexcusable, la imagen y proyección del Tribunal o de cualquiera de sus integrantes;
 
-IIl. Sustraer documentos, mobiliario, equipo o útiles de trabajo del Tribunal, sin la autorización previa y expresa del funcionario responsable de su custodia;
+III. Sustraer documentos, mobiliario, equipo o útiles de trabajo del Tribunal, sin la autorización previa y expresa del funcionario responsable de su custodia;
 
 IV. Faltar a su lugar de adscripción, o al desempeño de sus actividades sin causa justificada o sin autorización expresa de su superior;
 
@@ -2315,7 +2317,7 @@ SEGUNDO.- Quedan derogadas todas las disposiciones generales y acuerdos que se o
 
 Dado en la Heroica Puebla de Zaragoza, a los doce días del mes de junio del año dos mil uno, por los Ciudadanos Magistrados que integran el Pleno del Tribunal Electoral del Estado de Puebla, en presencia del Ciudadano Secretario General de Acuerdos, quien autoriza y da fe.- Cuatro firmas ilegibles.- Rúbricas.
 
-N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.
+N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
 
 P.O. 9 DE OCTUBRE DE 2002.
 
@@ -2324,3 +2326,15 @@ SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMI
 SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente a aquél en que sea publicado en el Periódico Oficial del Estado.
 
 TERCERO.- Publíquese el presente Acuerdo en el Periódico Oficial del Estado.
+
+P.O. 10 DE AGOSTO DE 2012.
+
+PRIMERO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Estado de Puebla, previos los trámites administrativos correspondientes.
+
+TERCERO.- Se abroga el Reglamento Interior del Tribunal Electoral del Estado de Puebla, publicado en el Tomo CCCXIV, Número 7, Sexta Sección del Periódico Oficial del Estado de Puebla, el viernes 15 de junio de 2001.
+
+CUARTO.- Quedan derogadas todas las disposiciones generales y acuerdos que se opongan al presente Reglamento.
+
+QUINTO.- Para la aplicación de la notificación por correo electrónico, conforme a lo establecido en los artículos 166 y 168 del presente Reglamento, se deberán aprobar los lineamientos y contar con las herramientas tecnológicas que permitan su adecuada aplicación.
