@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2012-08-09"
+last_updated: "2012-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO CIVIL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE AGOSTO DE 2012.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -2691,11 +2691,15 @@ Guarda y custodia en la patria potestad
 
 I. Los que ejerzan la patria potestad convendrán quién de ellos se hará cargo de la guarda y custodia del menor;
 
-II. Si no llegan a ningún acuerdo:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE AGOSTO DE 2012)</small>
+
+II. Si no llegan a algún acuerdo, el juez atendiendo a los elementos de prueba que obren en el sumario y con base en el resultado de las pruebas periciales en materia de trabajo social y de psicología familiar que oficiosamente habrán de practicárseles, determinará:
 
 a).- Los menores de diez años quedarán al cuidado de la madre, salvo que sea perjudicial para el menor;
 
-b).- El Juez, después de oír a los interesados, decidirá quién se hará cargo de los mayores de diez años, pero menores de catorce;
+> <small>(REFORMADO, G.G. 10 DE AGOSTO DE 2012)</small>
+
+b) Después de oír a los interesados, quien se hará cargo de los mayores de diez años, pero menores de catorce;
 
 c).- Los mayores de catorce años elegirán cual de sus padres deberá hacerse cargo de ellos, si éstos no eligen el Juez decidirá.
 
@@ -17416,3 +17420,11 @@ TERCERO.- Los agentes del Ministerio Público continuarán su intervención en l
 La intervención a que se refiere el párrafo anterior se realizará por conducto de las unidades administrativas de la Procuraduría General de Justicia del Estado de México, en los términos que determine el Procurador.
 
 CUARTO.- Los agentes del Ministerio Público que a la fecha de entrada en vigor de este Decreto se encuentren adscritos a órganos jurisdiccionales en materias civil y familiar, serán distribuidos en las unidades administrativas de la Procuraduría General de Justicia del Estado de México, conforme a las necesidades del servicio.
+
+G.G. 10 DE AGOSTO DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Quedan sin efectos las normas jurídicas de igual o inferior jerarquía, en cuanto se opongan al presente Decreto.
