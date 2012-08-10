@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2012-08-09"
+last_updated: "2012-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE AGOSTO DE 2012.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -3105,9 +3105,17 @@ l. Dispare un arma de fuego sobre una persona o grupo de personas, o en un estab
 
 II. Ataque a alguien de tal manera que, en razón del arma empleada, de la fuerza o destreza del agresor o de cualquier otra circunstancia semejante, pueda producir como resultado lesiones o la muerte.
 
+> <small>(ADICIONADA, G.G. 10 DE AGOSTO DE 2012)</small>
+
+III. El que haga uso de armas de municiones, ballestas o cualquier objeto que dispare o proyecte objetos, con el propósito de causar daño o atacar a alguna persona.
+
 > <small>(REFORMADO, G.G. 6 DE ENERO DE 2012)</small>
 
 Al responsable se le impondrán de dos a cinco años de prisión y de sesenta a cien días multa.
+
+> <small>(ADICIONADO, G.G. 10 DE AGOSTO DE 2012)</small>
+
+La misma pena se aplicará al que amenace o intimide a una persona haciendo uso de armas falsas, de juguete, utilería o réplicas, aun cuando no sean aptas para causar un daño físico, y cause temor efectivo e inminente en la víctima u ofendido.
 
 Este artículo sólo se aplicará cuando no causare daño, o los hechos no constituyan tentativa de homicidio, en caso contrario, se impondrán las penas del delito consumado o en grado de tentativa que resultare.
 
@@ -3527,7 +3535,9 @@ Son circunstancias que agravan la penalidad en el delito de robo y se sancionar�
 
 I. Cuando se cometa con violencia, se impondrán de tres a diez años de prisión y de uno a tres veces el valor de lo robado sin que exceda de mil días multa.
 
-La violencia física consiste en la utilización de la fuerza material por el sujeto activo sobre el sujeto pasivo; y la violencia moral consiste en la utilización de amagos, amenazas o cualquier tipo de intimidación que el sujeto activo realice sobre el sujeto pasivo, para causarle en su persona o en sus bienes, males graves o se realice en desventaja numérica sobre el sujeto pasivo. Igualmente, se considera violencia la que utiliza el sujeto activo sobre persona o personas distintas del sujeto pasivo o sobre sus bienes, con el propósito de consumar el delito o la que se realice después de ejecutado éste, para propiciarse la fuga o quedarse con lo robado.
+> <small>(REFORMADO, G.G. 10 DE AGOSTO DE 2012)</small>
+
+La violencia física consiste en la utilización de la fuerza material por el sujeto activo sobre el sujeto pasivo; y la violencia moral consiste en la utilización de amagos, amenazas o cualquier tipo de intimidación que el sujeto activo realice sobre el sujeto pasivo, para causarle en su persona o en sus bienes, males graves o se realice en desventaja numérica sobre el sujeto pasivo o haciendo uso de armas de juguete utilería o réplicas, aun cuando no sean aptas para causar un daño físico. Igualmente, se considera violencia la que utiliza el sujeto activo sobre persona o personas distintas del sujeto pasivo o sobre sus bienes, con el propósito de consumar el delito o lo que se realice después de ejecutado éste, para propiciarse la fuga o quedarse con lo robado.
 
 > <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2007)</small>
 
@@ -4680,6 +4690,12 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 G.G. 9 DE AGOSTO DE 2012.
 
 DECRETO NÚMERO 461 POR EL QUE SE ADICIONA UN ARTÍCULO 136 BIS AL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 10 DE AGOSTO DE 2012.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
