@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2012-06-04"
+last_updated: "2012-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -931,7 +931,7 @@ III.- A quien elimine, borre o impida que cualquier archivo sea enviado y recibi
 
 ### CAPÍTULO 7. DE LA INTEGRACIÓN, ORGANIZACIÓN Y FUNCIONAMIENTO DE LAS MESAS DIRECTIVAS DE VECINOS DE BARRIOS, COLONIAS, FRACCIONAMIENTOS Y UNIDADES HABITACIONALES
 
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 108.
 
@@ -989,33 +989,61 @@ De conformidad con la realidad social, económica, política y tomando en consid
 
 ###### Artículo 112.
 
-Las disposiciones de este Capítulo tienen por objeto regular la integración, organización y funcionamiento de las Mesas Directivas de Vecinos de barrios, colonias, fraccionamientos y unidades habitacionales del Municipio, mismas que deberán constituirse conforme a los lineamientos establecidos en este Capítulo.
+Las disposiciones de este Capítulo tienen por objeto regular la integración, organización y funcionamiento de las Mesas Directivas de Vecinos de barrios, colonias, fraccionamientos y unidades habitacionales del Municipio, mismas que deberán constituirse conforme a los lineamientos establecidos en este Capítulo, con excepción de aquéllos que se constituyan bajo el régimen de propiedad en condominio, los que deberán organizarse conforme a lo establecido por la Ley que Regula el Régimen de Propiedad en Condominio para el Estado de Puebla, el Reglamento Municipal respectivo y demás legislación aplicable.
 
 ###### Artículo 113.
 
 Para los efectos de este Capítulo, se entenderá por:
 
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
-ASAMBLEA GENERAL.- Al máximo órgano de representación vecinal del barrio, colonia, fraccionamiento o unidad habitacional, constituida por la reunión de los vecinos correspondientes con el fin de que se traten, discutan y resuelvan asuntos de interés común.
+ASAMBLEA GENERAL.- Al máximo órgano de representación vecinal del barrio, colonia, fraccionamiento unidad habitacional, constituida por la reunión de los vecinos correspondientes con el fin de que se traten, discutan y resuelvan asuntos de interés común.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE AGOSTO DE 2012)</small>
+
+CARTERA.- Área o cargo ocupado por una vecina o vecino del barrio, colonia, fraccionamiento o unidad habitacional, para el desempeño de una función específica asignada por la Mesa Directiva de Vecinos, durante el tiempo que esta se encuentre vigente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE AGOSTO DE 2012)</small>
+
+COMISIÓN.- Vecino o grupo de vecinos que cumplen con un encargo de la Mesa Directiva teniendo como término de su función el haber cumplido con lo encomendado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE AGOSTO DE 2012)</small>
+
+COMISIÓN DE GOBERNACIÓN Y JUSTICIA.- La del Honorable Ayuntamiento de Puebla.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE AGOSTO DE 2012)</small>
+
+CONVOCATORIA TIPO.- Es el documento que establece las bases generales para la renovación de las mesas directivas de vecinos. Dicha convocatoria deberá ser aprobada por el H. Ayuntamiento. La publicación y especificaciones de cada una de ellas, tales como fecha, hora y lugar las llevará a cabo la Dirección.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
+DIRECCIÓN.- A la Dirección de Atención Vecinal y Comunitaria de la Secretaría de Gobernación Municipal o aquélla que desempeñe las facultades que este título otorga.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE AGOSTO DE 2012)</small>
+
+ESTATUTOS.- Son los lineamientos, aprobados por la Asamblea General, que regulan los actos de los miembros de esta última y de los integrantes de las Mesas Directivas de Vecinos de los barrios, colonias, fraccionamientos y unidades habitacionales, y que no contravengan al presente Capítulo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE AGOSTO DE 2012)</small>
+
+JORNADA DE ELECCIÓN.- Fecha que indica la convocatoria emitida por la Dirección para que los vecinos de los barrios, colonias, fraccionamientos y unidades habitacionales elijan a los miembros de la Mesa Directiva a través de la emisión del voto.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
+MESA DIRECTIVA DE VECINOS.- Al órgano operativo de representación vecinal del barrio, colonia, fraccionamiento o unidad habitacional de que se trate.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
 SECRETARÍA.- A la Secretaría de Gobernación Municipal del Honorable Ayuntamiento del Municipio de Puebla.
 
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
-DIRECCIÓN.- A la Dirección de Atención Vecinal y Comunitaria o la autoridad municipal que desempeñe las facultades que este Título otorga a la Secretaría de Gobernación Municipal.
+VECINO.- Al habitante que reside permanentemente en cualquier inmueble ubicado en el barrio, la colonia, fraccionamiento o unidad habitacional por seis meses o más.
 
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
-
-MESA DIRECTIVA DE VECINOS.- Al Órgano de Representación de la Asamblea General del barrio, colonia, fraccionamiento o unidad habitacional de que se trate.
-
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
-
-VECINO.- Al habitante que reside permanentemente en cualquier inmueble del territorio del barrio, la colonia, fraccionamiento o unidad habitacional, por seis meses o más, lo que en su caso acreditará con credencial para votar con fotografía vigente.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 114.
 
-La Secretaría a través de la Dirección será la encargada, en el ámbito jurídico, de la integración, organización y vigilancia del funcionamiento de las Mesas Directivas de Vecinos, teniendo el carácter de conciliador en los conflictos que no puedan ser resueltos en el seno de las mismas, velando siempre la aplicación y el cumplimiento de este Capítulo.
+La Secretaría en el ámbito de su competencia, a través de la Dirección, será la encargada de la integración, organización y vigilancia del funcionamiento de las Mesas Directivas de Vecinos, teniendo el carácter de conciliador en los conflictos que no puedan ser resueltos en el seno de las mismas, velando siempre por la aplicación y el cumplimiento de este Capítulo.
 
 La Dirección para cumplir cabalmente con las funciones que le son determinadas por el presente Capítulo, podrá delegar las facultades que se le confieren en los funcionarios que designe.
 
@@ -1025,15 +1053,19 @@ La Dirección para cumplir cabalmente con las funciones que le son determinadas 
 
 Para efectos de este Capítulo y para la delimitación territorial tanto del barrio, colonia, fraccionamiento o unidad habitacional, se estará a lo dispuesto por la Secretaría de Desarrollo Urbano y Obras Públicas o la autoridad municipal que desempeñe dicha función.
 
-DE SU INTEGRACIÓN Y ORGANIZACIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE AGOSTO DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
+DE LA INTEGRACIÓN Y ORGANIZACIÓN DE LA ASAMBLEA GENERAL
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 116.
 
-Para ser miembro de la Asamblea General además de tener el carácter de vecino, se deberá estar en pleno ejercicio de sus Derechos Políticos y Civiles.
+Los vecinos de un barrio, colonia, fraccionamiento y unidad habitacional, tomarán acuerdos generales mediante reuniones denominadas Asambleas.
 
-En la elección de la mesa directiva de vecinos la Dirección levantará un registro de los ciudadanos que participen, este servirá como base numérica para determinar el quórum de las Asambleas subsecuentes.
+Para ser miembro de la Asamblea General además de tener el carácter de vecino, se deberá estar en pleno ejercicio de sus derechos políticos y civiles.
+
+En la jornada de elección de la Mesa Directiva de Vecinos, la Dirección levantará un registro de los ciudadanos que participen y éste servirá como base numérica para determinar el quórum de las sesiones de la Asamblea General subsecuentes.
 
 > <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
 
@@ -1041,21 +1073,27 @@ En la elección de la mesa directiva de vecinos la Dirección levantará un regi
 
 Las resoluciones de la Asamblea General se tomarán por mayoría de votos. Cada vecino gozará de un voto. La votación será personal, libre, secreta y directa.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 118.
 
-La Asamblea General estará representada ante el Ayuntamiento por una Mesa Directiva de Vecinos, la cual deberá ser elegida de manera libre y democrática por los miembros de aquélla, en los términos de lo estipulado en el presente Capítulo.
+La Asamblea General estará representada ante la Administración Pública Municipal por una Mesa Directiva de Vecinos ya sea del barrio, colonia, fraccionamiento o unidad habitacional de que se trate, la cual deberá ser elegida de manera libre y democrática por los vecinos de la demarcación respectiva, en los términos de lo estipulado en el presente Capítulo.
 
 ###### Artículo 119.
 
 La Asamblea General sesionará en forma ordinaria o extraordinaria:
 
-> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
 
-I. La ordinaria se celebrará una vez al mes; y
+I. La ordinaria se celebrará trimestralmente; y
 
-> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
 
-II. La extraordinaria se realizará en cualquier tiempo previa convocatoria que realice la Mesa Directiva de Vecinos por conducto de su Presidente, o bien a petición de por lo menos el 10% del total de los vecinos del barrio, colonia, fraccionamiento o unidad habitacional de que se trate inscritos en el registro de miembros de la Asamblea; en este caso la Convocatoria la emitirá la Dirección.
+II. La extraordinaria se realizará en cualquier momento previa convocatoria que realice la Mesa Directiva de Vecinos por conducto de su Presidente, o bien a petición de por lo menos el 10% del total de los vecinos del barrio, colonia, fraccionamiento o unidad habitacional de que se trate, conforme a la base numérica establecida en el tercer párrafo del artículo 116. Para este último caso la convocatoria la emitirá la Dirección. Exceptuando lo establecido en el artículo 140.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
+Podrán participar en la Asamblea ordinaria o extraordinaria los vecinos que acrediten con credencial de elector vigente su residencia.
 
 > <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
 
@@ -1065,11 +1103,11 @@ La convocatoria a sesión ordinaria se hará por lo menos con cinco días natura
 
 Las convocatorias mencionadas en el párrafo anterior, deberán contener en ambos casos el orden del día, el lugar, la fecha y la hora donde se verificará la sesión de la Asamblea General y habrá de darse amplia difusión, debiendo remitir copia de las mismas a la Dirección.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 121.
 
-Las sesiones ordinarias se considerarán instaladas con la asistencia del 50% más uno de los vecinos registrados.
+La sesión ordinaria se considera instalada con la asistencia del cincuenta por ciento más uno de los vecinos, conforme a la base numérica establecida en el tercer párrafo del artículo 116.
 
 > <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
 
@@ -1077,17 +1115,23 @@ Cuando la sesión se realice en virtud de primera convocatoria y no se reúna el
 
 Los acuerdos tomados en primera y segunda convocatoria serán válidos para todos, incluso para ausentes y disidentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 122.
 
-Para llevar a cabo la celebración de las asambleas ordinarias y extraordinarias se deberá cumplir con los siguientes requisitos:
+En las sesiones ordinarias y extraordinarias de la Asamblea General, se deberá cumplir con los siguientes requisitos:
 
 a) Tomar lista de asistencia;
 
-b) Declarar si existe quórum o no, y en su caso se procederá conforme a lo establecido en el presente Capítulo;
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
+b) Declarar si existe o no el quórum legal, y en su caso, se procederá conforme a lo establecido en el artículo anterior del presente Capítulo;
 
 c) Leer el orden del día para su aprobación;
 
-d) Proceder a la exposición y análisis de las razones que motivan la asamblea; y
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
+d) Proceder a la exposición y análisis de las razones que motivan la sesión de la Asamblea; y
 
 e) Desahogados los puntos del orden del día se deberá de levantar el acta correspondiente, firmando para su validación, los integrantes de la Mesa Directiva de Vecinos, debiendo remitir copia de la misma a la Dirección.
 
@@ -1097,49 +1141,75 @@ DE LAS FACULTADES DE LA ASAMBLEA GENERAL
 
 Son facultades de la Asamblea General las siguientes:
 
-I. Nombrar de manera libre y democrática a los miembros de la Mesa Directiva de Vecinos;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
 
-II. Aprobar las carteras o comisiones permanentes o transitorias que para efectos de su funcionamiento, desarrollo y ejecución de los trabajos nombre la Mesa Directiva de Vecinos;
+I. Nombrar de manera libre y democrática a los miembros de la Mesa Directiva de Vecinos, a través de una jornada de elección cuyas bases se establecerán en la convocatoria que para tal efecto se expida;
 
-> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
 
-III. Conjuntamente con la Mesa Directiva de Vecinos discutir, aprobar y en su caso modificar sus estatutos, los que en todo caso para su validez deberán registrarse ante la Dirección, siempre y cuando no contravengan lo dispuesto por las leyes de orden público y lo establecido en el presente Capítulo. Los estatutos deberán contener al menos los siguientes aspectos:
+II. Aprobar a propuesta de la Mesa Directiva las carteras y/o comisiones, ya sean permanentes o transitorias, que se requieran para el mejor funcionamiento, desarrollo y ejecución de los trabajos.; (sic)
 
-a) La forma de emitir la convocatoria;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2012)</small>
+
+III. Discutir, modificar, o en su caso, aprobar los estatutos, mismos que deberán registrarse ante la Dirección para su validez, siempre y cuando no contravengan lo dispuesto por las leyes de orden público y lo establecido en el presente Capítulo. Los estatutos deberán contener al menos los siguientes aspectos:
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
+a) La forma de emitir la convocatoria para las Asambleas;
 
 b) Los tipos de votación;
 
-c) El quórum necesario para instalar la Asamblea;
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
+c) El quórum necesario para instalar la Asamblea, conforme a lo establecido en el artículo 121 del presente Capítulo;
 
 d) El desarrollo de la Asamblea;
 
-e) Las sanciones a los miembros de la Asamblea o miembros de las Mesas Directivas;
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
-f) El procedimiento de destitución de uno o todos los miembros de la Mesa Directiva de Vecinos del barrio, colonia, fraccionamiento y unidad habitacional de que se trate;
+e) Determinar las responsabilidades y posibles sanciones a los miembros de la Asamblea y Mesa Directiva por incumplimiento, en su caso, de lo establecido en el presente Capítulo y en los estatutos;
 
-g) La presentación de informes financieros y su periodicidad;
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
-h) Las fechas de presentación de sus informes de labores los cuales deberán ser al menos trimestrales; e
+f) La presentación de informes financieros y de labores de manera trimestral;
 
-i) La forma de crear comisiones de trabajo.
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
-IV. Determinar las responsabilidades de los miembros de la Mesa Directiva de Vecinos por incumplimiento de lo establecido en sus estatutos;
+g) La forma de crear carteras o comisiones de trabajo.
+
+h) (DEROGADO, P.O. 10 DE AGOSTO DE 2012)
+
+i) (DEROGADO, P.O. 10 DE AGOSTO DE 2012)
+
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
+
+IV. Determinar las responsabilidades y sanciones a los miembros de la Mesa Directiva de Vecinos por incumplimiento de lo establecido en el presente Capítulo y en los estatutos contando con el visto bueno de la Dirección.
 
 V. Establecer el monto y periodos de las aportaciones que estarán a cargo de los vecinos, en caso de que así se decida;
 
 VI. Determinar el destino que se dará a las aportaciones;
 
-VII. Establecer el sistema de administración, operación y mantenimiento del área vecinal de que se trate;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
 
-VIII. Adoptar las medidas conducentes sobre los asuntos de interés común que no se encuentren comprendidas dentro de los estatutos;
+VII. Establecer y aprobar el sistema de administración, operación y mantenimiento del área vecinal de que se trate;
+
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
+
+VIII. Adoptar las medidas conducentes sobre los asuntos de interés común que no se encuentren comprendidas dentro de los estatutos.
 
 IX. Aprobar la realización de programas para el cumplimiento de sus fines;
 
-X. Destituir o remover de su cargo a uno o a todos los miembros de la Mesa Directiva de Vecinos por causas previstas en este ordenamiento; y
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
 
-XI. Las demás facultades que le señalen las Leyes y sus estatutos.
+X. Destituir o remover de su cargo a uno o a varios de los miembros de la Mesa Directiva de Vecinos por causas previstas en este Capítulo;
 
-INTEGRACIÓN Y ORGANIZACIÓN
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
+
+XI. Las demás facultades que le señalen las leyes en la materia y los estatutos.
+
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
+
+INTEGRACIÓN Y ORGANIZACIÓN DE LA MESA DIRECTIVA DE VECINOS
 
 > <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
 
@@ -1147,61 +1217,77 @@ INTEGRACIÓN Y ORGANIZACIÓN
 
 La Mesa Directiva de Vecinos tiene por objeto salvaguardar los intereses de los vecinos, así como apoyar el cumplimiento de los Planes y Programas de Desarrollo Municipal o bien la realización de obras y acciones en beneficio de la colectividad, no pudiendo bajo ninguna circunstancia existir más de una Mesa Directiva de Vecinos por barrio, colonia, fraccionamiento o unidad habitacional.
 
-Las funciones de las Mesas Directivas de Vecinos, bajo ninguna circunstancia serán las mismas que las leyes aplicables confieren al Ayuntamiento o a la Administración Pública Municipal.
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
+Las funciones de la Mesa Directiva de Vecinos, bajo ninguna circunstancia serán las mismas que las leyes aplicables confieren al Ayuntamiento o a la Administración Pública Municipal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 125.
 
-Las Mesas Directivas de Vecinos se integran por un Presidente, un Secretario, un Tesorero y dos Vocales, los cuales serán electos a través de un proceso democrático de conformidad con lo establecido en la presente reglamentación.
+La Mesa Directiva de Vecinos se integra por un Presidente, un Secretario, un Tesorero, dos Vocales, quienes tendrán un suplente, los cuales serán electos a través de un proceso democrático, de conformidad con lo establecido en el artículo 130 del presente Capítulo.
 
 Sin perjuicio de lo anterior y para el efecto de funcionamiento interno, las Mesas Directivas de Vecinos podrán contar con otras carteras o comisiones permanentes o transitorias, previo acuerdo de la Asamblea General.
 
 En todos los casos desempeñarán su cargo en forma honorífica y con vocación de servicio.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 126.
 
-Por cada propietario sé elegirá un suplente, que entrará en función en caso de ausencia, remoción, destitución o renuncia definitiva del propietario del cargo que suple; debiendo notificar la Mesa Directiva de Vecinos el cambio a la Dirección, en un término no mayor de ocho días naturales contados a partir de la toma de posesión, para efectos de la acreditación correspondiente.
+El suplente entrará en funciones en caso de ausencia, remoción, destitución o renuncia definitiva del propietario del cargo que suple; debiendo notificar la Mesa Directiva de Vecinos el cambio a la Dirección, en un término no mayor de ocho días naturales contados a partir de que se tenga conocimiento de los supuestos antes señalados, para efectos de la acreditación correspondiente.
+
+... (sic)
 
 ###### Artículo 127.
 
 Los miembros de las Mesas Directivas de Vecinos durarán en su cargo un periodo de dos años, pudiendo ser reelectos únicamente por un término igual al de su ejercicio.
 
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 128.
 
-En caso de que sea elegida una nueva Mesa Directiva de Vecinos, la saliente deberá entregar a la entrante, en un término que no exceda de siete días naturales a partir del día de la elección, por escrito, con copia a la Dirección, los documentos, libro de actas de asambleas, valores, muebles e inmuebles que tuviera bajo su resguardo y responsabilidad, así como un informe completo de su administración. Esta misma disposición se aplicará en los casos de substitución de cualquier miembro de la Mesa Directiva de Vecinos.
+En caso de que sea elegida una nueva Mesa Directiva de Vecinos, la saliente deberá entregar a la entrante, en un término que no exceda de siete días naturales a partir de la jornada de elección, los documentos, libros de actas de sesiones, valores, muebles e inmuebles que tuviera bajo su resguardo y responsabilidad, así como un informe completo de su administración. Esta misma disposición se aplicará en los casos de sustitución de cualquier miembro de la Mesa Directiva de Vecinos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
+Para la entrega referida anteriormente deberá levantarse un acta donde conste la relación de lo arriba descrito; en la entrega-recepción estará como testigo un representante acreditado por la Dirección.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 129.
 
-Para ser miembro de la Mesa Directiva de Vecinos que representará a la Asamblea General del barrio, colonia, fraccionamiento o unidades habitacionales de que se trate, se deberán reunir los siguientes requisitos:
+Para ser miembro de la Mesa Directiva de Vecinos que representará a la Asamblea General del barrio, colonia, fraccionamiento o unidad habitacional de que se trate, se deberán reunir los siguientes requisitos:
 
 I. Estar en pleno ejercicio de sus derechos civiles y políticos de acuerdo a lo establecido en la Constitución Política del Estado Libre y Soberano de Puebla;
 
-II. Ser vecino residente por un periodo mínimo de 6 meses anteriores al día de la elección en la Colonia, Fraccionamiento o Unidad Habitacional a la cual pretende representar;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
 
-III. No tener antecedentes penales;
+II. Ser vecino residente por un periodo mínimo de seis meses anteriores al día de la elección en el barrio, colonia, fraccionamiento o unidad habitacional a la cual pretende representar, lo que deberá acreditar fehacientemente mediante Certificado de Vecindad que expide el Departamento de Registro Ciudadano y Extranjería de la Secretaría del Ayuntamiento;
 
-> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
 
-IV. Contar con credencial para votar con fotografía vigente.
+III. No tener antecedentes penales, lo que se acreditará por medio de la Carta de Antecedentes No Penales, expedida por la Procuraduría General de Justicia del Estado; y
 
-> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
 
-El acreditamiento del requisito exigido por la fracción III del presente artículo, se efectuará mediante la consulta que realice la Secretaría de Seguridad Pública y Tránsito Municipal en la base de datos del Sistema Nacional de Seguridad Pública, previa solicitud que por escrito le dirija la Secretaría, en atención a la petición que en la misma forma realice el interesado.
+IV. Contar con credencial de elector vigente.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 10 DE AGOSTO DE 2012)</small>
 
 DE LA ELECCIÓN DE LA MESA DIRECTIVA
 
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 130.
 
-La Mesa Directiva de Vecinos deberá ser nombrada a través de votación libre, directa y secreta que realicen los miembros de la Asamblea General, de acuerdo a las bases que se establezcan en la Convocatoria que expida la Dirección.
+La Mesa Directiva de Vecinos deberá ser nombrada a través de votación libre, directa y secreta que realicen los vecinos, de acuerdo a las bases que se establezcan en la Convocatoria tipo que analice, discuta y apruebe la Comisión de Gobernación y Justicia, quien la remitirá al H. Ayuntamiento para su aprobación en sesión de Cabildo; dicha convocatoria se aplicará para cada elección en particular por la Dirección.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 131.
 
-La convocatoria a que hace referencia el artículo anterior deberá ser expedida cuando menos con diez días naturales anteriores al de la elección y se dará a la misma amplia difusión.
+La convocatoria a que hace referencia el artículo anterior deberá ser expedida por la Dirección cuando menos con treinta días naturales anteriores a la jornada de elección y publicada en la página electrónica oficial del Honorable Ayuntamiento, difundiéndose ampliamente en el barrio, colonia, fraccionamiento o unidad habitacional de que se trate.
+
+De manera mensual la Dirección presentará a la Comisión de Gobernación y Justicia del H. Ayuntamiento, el calendario de procesos de renovación de Mesas Directivas.
 
 ###### Artículo 132.
 
@@ -1223,15 +1309,17 @@ VI. El día y la hora en que se llevará a cabo la entrega de la constancia de r
 
 VII. Las bases y términos en que deberá de llevarse a cabo la elección de la Mesa Directiva de Vecinos, a la cual se está convocando;
 
-VIII. El día, hora y lugar en que se llevará a cabo la elección; y
+VIII. El día, hora y lugar en que se llevará a cabo la elección; y (sic)
 
-IX. Los demás requisitos que se consideren necesarios.
+IX. (DEROGADA, P.O. 10 DE AGOSTO DE 2012)
 
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 133.
 
-Una vez cumplidas las bases de la Convocatoria y celebrada la elección, la Dirección dictará la resolución correspondiente dentro de los tres días naturales posteriores al de la elección, en la cual se acreditará formalmente a los integrantes de la Mesa Directiva de Vecinos que haya sido electa en cada barrio, colonia, fraccionamiento o unidad habitacional, entregándose la misma, a la Mesa Directiva de Vecinos correspondiente, debiendo quedar copia en poder de la Dirección.
+Una vez cumplidas las bases de la Convocatoria y celebrada la jornada de elección, la Dirección calificará la elección y hará la declaración de validez respectivas dentro de los tres días naturales posteriores al de la elección, en la cual se acreditará formalmente a los integrantes de la Mesa Directiva de Vecinos que haya sido electa en cada barrio, colonia, fraccionamiento y unidad habitacional, entregándose la misma, a la Mesa Directiva de Vecinos correspondiente, debiendo quedar copia en poder de la Dirección.
+
+La Dirección remitirá copia de los resolutivos a la Comisión de Gobernación y Justicia del H. Ayuntamiento, para su conocimiento, dentro de los cinco días posteriores a la emisión de la Declaración de Validez.
 
 DE LAS FACULTADES DE LA MESA DIRECTIVA DE VECINOS Y SUS INTEGRANTES
 
@@ -1239,15 +1327,17 @@ DE LAS FACULTADES DE LA MESA DIRECTIVA DE VECINOS Y SUS INTEGRANTES
 
 Son facultades de la Mesa Directiva de Vecinos las siguientes:
 
-I. Representar a la Asamblea General, ante el Ayuntamiento;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
+
+I. Representar a la Asamblea General ante la Administración Pública Municipal;
 
 > <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2011)</small>
 
 II. Identificar las demandas y necesidades del barrio, colonia, fraccionamiento o unidad habitacional que representan;
 
-> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
 
-III. Realizar las gestiones necesarias ante la Autoridad Municipal correspondiente para que de acuerdo a prioridades, se vayan satisfaciendo las necesidades del barrio, colonia, fraccionamiento o unidad habitacional en la medida de que disponga de recursos el Ayuntamiento;
+III. Realizar las gestiones necesarias ante la Autoridad Municipal correspondiente para que de acuerdo a prioridades, se vayan satisfaciendo las necesidades del barrio, colonia, fraccionamiento o unidad habitacional en la medida de que disponga de recursos la Administración Pública Municipal;
 
 > <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2011)</small>
 
@@ -1255,17 +1345,35 @@ IV. Organizar a los vecinos para participar en la realización de obras por coop
 
 V. Participar activamente con su trabajo comunitario en beneficio de sus representados;
 
-> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
 
-VI. Administrar transparentemente los recursos que obtenga por aportaciones de los vecinos del barrio, colonia, fraccionamiento o unidad habitacional que sean aprobadas en sus Asambleas Generales;
+VI. Someter a consideración de la Asamblea General el monto y periodos de las aportaciones que estarán a cargo de los vecinos en caso de que así se decida y administrar transparentemente el destino que se dará a dichos recursos;
 
 VII. Realizar obras y acciones de beneficio colectivo;
 
 VIII. Proponer a la Asamblea las carteras o comisiones permanentes o transitorias, que para efecto de su funcionamiento, desarrollo y ejecución que los trabajos internos requieran;
 
-IX. Observar estrictamente las disposiciones emitidas por la Autoridad Municipal; y
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
+
+IX. Proponer a la Asamblea General para su aprobación, adiciones y/o reformas, a los estatutos;
+
+> <small>[N. DE E. DE LA APLICACIÓN DEL ACUERDO DE REFORMAS PUBLICADO EL 10 DE AGOSTO DE 2012, SE ADVIERTE QUE EL CONTENIDO DE ESTA FRACCIÓN ES IDÉNTICO AL DE LA FRACCIÓN XI DEL PRESENTE ARTÍCULO]</small>
 
 X. Cumplir con lo establecido en sus estatutos, así como los acuerdos tomados por la Asamblea General.
+
+> <small>[N. DE E. DE LA APLICACIÓN DEL ACUERDO DE REFORMAS PUBLICADO EL 10 DE AGOSTO DE 2012, SE ADVIERTE QUE EL CONTENIDO DE ESTA FRACCIÓN ES IDÉNTICO AL DE LA FRACCIÓN X DEL PRESENTE ARTÍCULO]</small>
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2012)</small>
+
+XI. Cumplir con lo establecido en sus estatutos, así como los acuerdos tomados por la Asamblea General;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2012)</small>
+
+XII. Proponer a la Asamblea General para su aprobación el sistema de administración, operación y mantenimiento del área vecinal de que se trate; y
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2012)</small>
+
+XIII. Proponer a la Asamblea General para su aprobación la realización de programas para el cumplimiento de sus fines.
 
 ###### Artículo 135.
 
@@ -1275,15 +1383,21 @@ I. Representar a la Mesa Directiva de Vecinos, en todas las actividades y gestio
 
 II. Vigilar y organizar el funcionamiento de la Mesa Directiva de Vecinos;
 
-> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
 
-III. Convocar, conjuntamente con la Mesa Directiva de Vecinos, a Asamblea General Ordinaria cada treinta días, debiendo tratar cuestiones propias del barrio, colonia, fraccionamiento o unidad habitacional;
+III. Convocar, a Sesión Ordinaria, debiendo tratar cuestiones propias del barrio, colonia, fraccionamiento o unidad habitacional;
 
-IV. Cada seis meses, en sesión ordinaria, informar por escrito a la Asamblea General del resultado de las gestiones y actividades realizadas dentro de dicho periodo, así como el estado financiero en caso de manejar algún tipo de recurso, remitiendo copia del mismo a la Dirección;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
 
-V. Convocar, en cualquier momento, a Asamblea General Extraordinaria para tratar asuntos urgentes debiendo abordarse únicamente él o los asuntos que se establezcan en el orden del día;
+IV. Informar trimestralmente por escrito en sesión ordinaria a la Asamblea General, del resultado de las gestiones y actividades realizadas dentro de dicho periodo, así como el estado financiero en caso de manejar algún tipo de recurso, remitiendo copia del mismo a la Dirección;
 
-VI. Presidir las sesiones de la Asamblea General;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
+
+V. Convocar, en cualquier momento a Sesión Extraordinaria para tratar asuntos urgentes debiendo abordarse únicamente él o los asuntos que se establezcan en el orden del día;
+
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
+
+VI. Presidir las sesiones de la Asamblea General, previa declaración de quórum legal;
 
 VII. Solicitar la presencia de un representante de la Dirección en los casos previstos en este Título o en los que considere necesarios;
 
@@ -1297,7 +1411,9 @@ X. Las demás que establezcan este ordenamiento, sus estatutos y disposiciones l
 
 Son facultades y obligaciones del Secretario de la Mesa Directiva de Vecinos:
 
-I. Llevar un libro de actas de asamblea, debidamente autorizado por la Dirección;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
+
+I. Levantar y llevar un libro de actas de las sesiones que se celebren, debidamente autorizado por la Dirección;
 
 II. Informar en sesión ordinaria de las actividades y programas a desarrollar;
 
@@ -1339,15 +1455,19 @@ I. Cerciorarse de que el Presidente, Secretario y Tesorero cumplan con los acuer
 
 II. Dar cuenta a la Asamblea General de sus observaciones sobre la Administración de la Mesa Directiva de Vecinos;
 
-III. Levantar un padrón de los habitantes de la Colonia, Fraccionamiento o Unidad Habitacional que representan;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
+
+III. Levantar y elaborar un padrón de los habitantes del barrio, colonia, fraccionamiento o unidad habitacional que representan;
 
 IV. Firmar las actas de las sesiones correspondientes; y
 
-V. Las demás que establezcan este ordenamiento y disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
 
-DE LA DESTITUCIÓN O REMOCIÓN DE LOS INTEGRANTES DE LAS MESAS DIRECTIVAS DE
+V. Las demás que establezcan este ordenamiento, los estatutos y las disposiciones legales aplicables.
 
-VECINOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE AGOSTO DE 2012)</small>
+
+DE LA DESTITUCIÓN O REMOCIÓN DE LOS INTEGRANTES DE LA MESA DIRECTIVA DE VECINOS
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
 
@@ -1371,19 +1491,39 @@ IV. El abandono inexcusable del ejercicio de sus funciones;
 
 V. No dar cumplimiento a lo establecido en este Capítulo; y
 
-VI. Cualquier otra de naturaleza grave que así lo amerite a juicio de la propia Asamblea.
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
 
-> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2011)</small>
+VI. Cualquier otra de naturaleza grave que así lo amerite a juicio de la propia Asamblea General.
 
-B. Será compete la Dirección por la siguiente causa:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2012)</small>
+
+B. Será competente la Dirección únicamente por las siguientes causas:
 
 l. Cuando la Mesa Directiva de Vecinos realice actos reservados al Ayuntamiento o a la Administración Pública Municipal; dicha causal, deberá ser plenamente acreditada al existir resolución correspondiente emitida por autoridad judicial o administrativa competente.
 
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 140.
 
-Para efectos de la destitución de la Mesa Directiva de Vecinos por parte de la Asamblea, por lo menos el 10% de los miembros de la Asamblea General, deberán, por escrito, pedir ante la Dirección la destitución de uno o todos los miembros de la Mesa Directiva de Vecinos, procediéndose a calificar por parte de la Dirección dicha petición en cuanto a su procedencia, lo que deberá hacer dentro del término de diez días naturales contados a partir de la recepción del documento, convocándose en su caso, por la propia Dirección a sesión extraordinaria, la cual tendrá verificativo dentro de un término no mayor a diez días naturales contados a partir de que sea notificada la resolución correspondiente.
+Para efectos de la destitución de uno o varios de los integrantes de la Mesa Directiva de Vecinos, deberán solicitarlo por escrito a la Dirección, por lo menos el 20% de los miembros de la Asamblea General conforme a la base numérica a que se refiere el artículo 116 tercer párrafo, bajo los siguientes lineamientos:
+
+I. La Dirección recibirá la solicitud y verificará que los vecinos que la suscriben correspondan a la demarcación y reúnan el porcentaje requerido de firmas, para la procedencia de la misma.
+
+En caso de no cumplir con el porcentaje requerido de firmas la Dirección otorgará un plazo de tres días hábiles para que se subsanen.
+
+II. Se entenderá por no presentada la solicitud:
+
+a) En caso de que los solicitantes no correspondan con la demarcación: o
+
+b) En caso de no cumplir con el porcentaje requerido de firmas, transcurridos los tres días hábiles señaladas en la fracción anterior.
+
+III. Cumplido lo anterior, se citará a los vecinos señalados a destituir para que declaren lo que a su derecho convenga, presentando los medios probatorios que juzguen convenientes:
+
+IV. La Dirección elaborará un informe por escrito sobre las pruebas que presenten las partes para que la Asamblea acuerde lo conducente, y remitirá copia a la Comisión de Gobernación y Justicia del H. Ayuntamiento; y
+
+V. Satisfecho lo anterior, la Dirección convocará a la Asamblea respectiva, la que votará y resolverá sobre la probable destitución.
+
+Todo el proceso antes señalado, la Dirección deberá agotarlo en un plazo no mayor de diez días hábiles.
 
 ###### Artículo 141.
 
@@ -1395,41 +1535,63 @@ RESOLUCIÓN DE CONTROVERSIAS
 
 La Dirección tendrá competencia en las controversias que se susciten entre los vecinos o entre éstos y sus representantes, sólo en los casos en que las mismas no puedan ser resueltas entre dichas partes o cuando por causa justificada ante la Secretaría, se estime de evidente necesidad la intervención de la Dirección.
 
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
+Y solo para el caso de que estas controversias no sean resueltas en el momento por la Dirección, las mismas podrán ser resueltas a través de los medios legales establecidos en este Capítulo.
+
 ###### Artículo 143.
 
 Las controversias se resolverán:
 
-I. Por la vía de la conciliación ante la presentación de la reclamación de la parte afectada; y
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
 
-II. Por la vía del arbitraje cuando se agote la fase anterior.
+I. Por la vía de la conciliación o mediación ante la presentación de la reclamación de la parte afectada; y
+
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
+
+II. Por la vía del arbitraje cuando se agote la fase anterior, de conformidad con lo establecido en el Código de Procedimientos Civiles para el Estado Libre y Soberano de Puebla.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
+Para efectos de lo anterior, la Dirección no podrá ser nombrada como árbitro.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 144.
 
-Para iniciar el procedimiento Conciliatorio se requiere que el escrito que se presente para solicitar la resolución de una controversia, precise los actos que se impugnan y las razones que se tienen para hacerlo, así como los generales de la parte reclamante y de la parte requerida.
+Para iniciar el procedimiento de conciliación o mediación para la resolución de una controversia, se requiere:
 
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
+I. Presentar escrito dirigido a la Dirección en el cual deberá señalar nombre completo, domicilio y número telefónico de contacto.
 
-La Dirección notificará a la parte requerida con copia del escrito señalado en el párrafo anterior, dentro de los cinco días hábiles siguientes a la recepción del mismo, haciéndole saber que puede manifestar lo que a su derecho convenga por escrito, hasta antes de que inicie la reunión de conciliación.
+En la medida de lo posible, dicho escrito deberá contener además los datos señalados en el párrafo anterior, de la persona o personas con quién se pretende conciliar o mediar.
+
+II. Precisar los actos que son motivo de controversia con el o los vecinos o entre estos con sus representantes y las razones que se tienen para hacerlo.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 145.
 
-La Dirección podrá solicitar que la solicitud de resolución de controversia, sea aclarada cuando se presente de manera vaga o imprecisa, disponiendo el solicitante de cinco días hábiles para hacerlo contados a partir del momento que sea requerido. En caso de que el solicitante no dé cumplimiento en el tiempo al requerimiento, la solicitud se tendrá por no presentada.
-
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
+La Dirección señalará día y hora para la celebración de la reunión de conciliación o mediación, la que deberá realizarse dentro de los diez días hábiles siguientes a la recepción de la solicitud y notificará con al menos tres días hábiles de anticipación a las partes.
 
 ###### Artículo 146.
 
-La Dirección citará a las partes a una reunión de conciliación, que se realizará dentro de los cinco días hábiles contados a partir de la fecha de la notificación a la parte requerida.
+(DEROGADO, P.O. 10 DE AGOSTO DE 2012)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 147.
 
-El procedimiento Conciliatorio se tendrá por agotado:
+El procedimiento de conciliación o mediación se tendrá por agotado:
 
-I. Si la parte solicitante no concurre a la reunión de Conciliación;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
+
+I. Si alguna de las partes no concurre a la reunión de conciliación o mediación;
 
 II. Si las partes Concilian sus diferencias; o
 
-III. Si al concurrir las partes manifiestan haber conciliado sus intereses.
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
+
+III. Si al concurrir las partes no llegan a un acuerdo.
 
 ### CAPÍTULO 9. POLICÍA Y GOBIERNO
 
@@ -1439,61 +1601,37 @@ DISPOSICIONES GENERALES
 
 ###### Artículo 148.
 
-Para iniciar el procedimiento de Arbitraje se les hará saber a las partes que la Dirección fungirá como árbitro y tendrá la facultad de allegarse de todos los elementos de juicio que estime necesarios para resolver las cuestiones que se hayan planteado, así también tendrá la obligación de recibir pruebas y escuchar los alegatos que presenten las partes, salvo la aplicación de una norma de orden público.
+(DEROGADO, P.O. 10 DE AGOSTO DE 2012)
 
 ###### Artículo 149.
 
-Una vez realizado lo anterior, dentro de un plazo de quince días hábiles, la Dirección dictará resolución correspondiente a la controversia planteada.
+(DEROGADO, P.O. 10 DE AGOSTO DE 2012)
 
 ###### Artículo 150.
 
-En todo lo no previsto por las partes o por este Capítulo en lo que respecta al procedimiento Arbitral, será aplicable el Código de Procedimientos Civiles para el Estado de Puebla.
+(DEROGADO, P.O. 10 DE AGOSTO DE 2012)
 
 DE LAS SANCIONES
 
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
-
 ###### Artículo 151.
 
-Las violaciones a lo establecido en este Capítulo por parte de los miembros de la Mesa Directiva de Vecinos, serán sancionadas por la Dirección o la Asamblea en el ámbito de su competencia.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
+(DEROGADO, P.O. 10 DE AGOSTO DE 2012)
 
 ###### Artículo 152.
 
-Las sanciones a que hace referencia el artículo anterior, serán aplicadas en función de la gravedad de las faltas, y podrán ser:
-
-> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2011)</small>
-
-I. Amonestación verbal o por escrito, cuando la gravedad de la falta no implique afectaciones patrimoniales o económicas;
-
-> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2011)</small>
-
-II. Cancelación de la acreditación de la Mesa Directiva de Vecinos o de alguno de sus integrantes;
-
-III. La aplicación de las leyes y reglamentos de orden público al caso de que se trate.
-
-> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2011)</small>
+(DEROGADO, P.O. 10 DE AGOSTO DE 2012)
 
 ###### Artículo 152 Bis.
 
-Para la calificación de la gravedad, se tomará en cuenta:
-
-l. La reincidencia, si la hubiere;
-
-II. El carácter intencional o imprudencial de la acción u omisión constitutivos de la infracción;
-
-III. El beneficio directamente obtenido por el infractor en perjuicio de sus representados; y
-
-IV. Cuando se realicen actos reservados a las autoridades municipales.
+(DEROGADO, P.O. 10 DE AGOSTO DE 2012)
 
 ###### Artículo 153.
 
-En caso de que exista al momento de entrar en vigor el presente Código Reglamentario, una Mesa Directiva de Vecinos nombrada en asamblea, la misma será reconocida por la Dirección, previa solicitud y examen de los requisitos y procedimientos con que fue electa.
+(DEROGADO, P.O. 10 DE AGOSTO DE 2012)
 
 ###### Artículo 154.
 
-En las Colonias, Fraccionamientos o Unidades Habitacionales, en las que exista al momento de entrar en vigor el presente Código Reglamentario, dos o más Mesas Directivas de Vecinos o bien no exista tal, se procederá a realizar la Convocatoria correspondiente según lo establecido en el presente ordenamiento.
+(DEROGADO, P.O. 10 DE AGOSTO DE 2012)
 
 ### CAPÍTULO 10. SEGURIDAD VIAL Y TRÁNSITO MUNICIPAL
 
@@ -1587,9 +1725,13 @@ XVI.- Consejo Ciudadano de Desempeño Gubernamental;
 
 XVII.- Consejo Ciudadano de Derechos Humanos y Equidad entre Géneros.
 
-> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 23 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
 
-XVIII.- Los demás que determine el Ayuntamiento.
+XVIII.- Consejo Ciudadano para la Discapacidad; y
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2012)</small>
+
+XIX.- Los demás que determine el Ayuntamiento.
 
 El objetivo de los consejos señalados con anterioridad, será el de ocuparse de los asuntos que le encomiende el Ayuntamiento de Puebla, vinculados a su denominación.
 
@@ -6689,7 +6831,7 @@ IX. Anunciar o presentar un espectáculo distinto al autorizado;
 
 X. Impedir el acceso en razón a ser persona con discapacidad.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 DE LAS OBLIGACIONES DE LOS ESPECTADORES
 
@@ -6721,7 +6863,7 @@ X. Guardar el orden durante el espectáculo; y
 
 XI. Abstenerse de introducir armas y objetos punzocortantes.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 DE LAS VISITAS DE VERIFICACIÓN Y CLAUSURAS
 
@@ -10161,7 +10303,7 @@ DE LAS SANCIONES
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
-Artículo 639 Octodecies.- Las autoridades sanitarias municipales determinarán, calificarán e impondrán a quienes infrinjan las disposiciones establecidas en el Subtítulo "De la Comercialización de Productos Cárnicos y/o Subproductos y Aves Muertas", y los que resulten aplicables en la materia, indistintamente las sanciones señalas (sic) en el artículo 1671 de este ordenamiento.
+Artículo 639 Octodecies.- Las autoridades sanitarias municipales determinarán, calificarán e impondrán a quienes infrinjan las disposiciones establecidas en el Subtítulo “De la Comercialización de Productos Cárnicos y/o Subproductos y Aves Muertas”, y los que resulten aplicables en la materia, indistintamente las sanciones señalas (sic) en el artículo 1671 de este ordenamiento.
 
 Para la aplicación de dichas sanciones se considerará como infracciones administrativas las contempladas en el artículo 1671 Bis fracciones I, II, III, IV, V y VI del presente Código. La reincidencia será sancionada con multa por el doble de las cantidades señaladas.
 
@@ -31581,7 +31723,7 @@ III. Abandonar sus asientos durante el desarrollo de la función, lo que podrá 
 
 En caso de desacato a las fracciones anteriores, la Comisión, impondrá las sanciones correspondientes.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 17 DE FEBRERO DE 2006)</small>
 
 DE LOS DIRECTORES DE ENCUENTROS
 
@@ -33217,7 +33359,7 @@ VI. Las demás que dicta el Ayuntamiento y el Consejo.
 
 Corresponde a la Contraloría Municipal y a la Secretaría de Desarrollo Económico, Turismo y Competitividad, el seguimiento y consecución de las acciones y metas establecidas en los Programas de Mejora Regulatoria.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 17 DE FEBRERO DE 2006)</small>
 
 DE LA SUPERVISIÓN Y VIGILANCIA
 
@@ -33227,7 +33369,7 @@ DE LA SUPERVISIÓN Y VIGILANCIA
 
 La Contraloría Municipal tendrá la facultad de verificar el cumplimiento de las obligaciones de las dependencias y entidades en materia de mejora regulatoria, y en su caso, tendrá la facultad de emitir recomendaciones y aplicar las sanciones que correspondan por su incumplimiento.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 17 DE FEBRERO DE 2006)</small>
 
 DE LOS CONVENIOS DE COORDINACIÓN
 
@@ -34734,6 +34876,24 @@ P.O. 4 DE JUNIO DE 2012.
 PRIMERO.- Las presentes reformas, adiciones y derogaciones del Código Reglamentario para el Municipio de Puebla, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Puebla.
 
 SEGUNDO.- Los efectos de la reforma del artículo 670, entrarán en vigor hasta que concluya el periodo de los representantes que integren la Comisión de Asesoría y Admisión de Peritos Directores Responsables de Obra y Corresponsables al momento de la publicación de las presentes reformas, adiciones y derogaciones del Código Reglamentario para el Municipio de Puebla, en el Periódico Oficial del Estado de Puebla.
+
+P.O. 10 DE AGOSTO DE 2012.
+
+ACUERDO POR EL QUE SE REFORMA LA FRACCIÓN XVIII Y SE ADICIONA LA FRACCIÓN XIX AL ARTÍCULO 160 DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA.
+
+ÚNICO.- La presente reforma del Código Reglamentario para el Municipio de Puebla, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Puebla.
+
+P.O. 10 DE AGOSTO DE 2012.
+
+ACUERDO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CAPÍTULO 7 DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA.
+
+PRIMERO.- El presente Dictamen entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Una vez publicada la presente reforma en el Periódico Oficial del Estado, la Dirección requerirá de un periodo de sesenta días naturales a las Mesas Directivas de Vecinos para que presente sus Estatutos aprobados y sean registrados. Una vez notificada la Mesa Directiva de Vecinos tendrá un plazo máximo de sesenta días naturales para registrar los Estatutos ante la Dirección.
+
+TERCERO.- Se derogan las disposiciones que se opongan a lo establecido en las reformas, adiciones y derogaciones al presente Código.
+
+CUARTO.- Se podrá reiniciar el proceso de elección de las Mesas Directivas de Vecinos; la toma de decisiones y la ejecución de acciones de las Mesas Directivas de Vecinos que ya se encuentren en funciones y la realización de las sesiones ordinarias y extraordinarias de la Asamblea General de los barrios, colonias, fraccionamientos y unidades habitacionales en funciones, una vez que las presentes reformas se encuentren publicadas en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIOS DE LA “MODIFICACIÓN AL ESTATUTO ORGÁNICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA, PUBLICADO EL 5 DE DICIEMBRE DE 2019”.]
 
