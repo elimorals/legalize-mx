@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-ejecucion-de-medidas-judiciales-y-sanciones-penales-8089
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-15"
-last_updated: "2011-06-17"
+last_updated: "2012-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80895&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "GUA"
 ---
 # LEY DE EJECUCION DE MEDIDAS JUDICIALES Y SANCIONES PENALES DEL ESTADO DE GUANAJUATO
 
-LEY DE EJECUCION DE MEDIDAS JUDICIALES Y SANCIONES PENALES DEL ESTADO DE GUANAJUATO
+LEY DE EJECUCIÓN DE MEDIDAS JUDICIALES Y SANCIONES PENALES DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 17 DE JUNIO DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2012.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 15 de abril de 2011.
 
@@ -850,6 +848,14 @@ El internamiento durante la semana quedará sujeto a las siguientes reglas:
 I. Tendrá lugar desde las dieciocho horas del día domingo hasta las dieciocho horas del día viernes; y
 
 II. En su cumplimiento quedará sujeto a las disposiciones previstas en las fracciones II, III IV y V del artículo 69 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
+Excepción a los horarios de reclusión
+
+###### Artículo 70 Bis.
+
+Si por razón de la jornada laboral, el sentenciado no puede cumplir en los días establecidos por los artículos 69 y 70 de esta Ley, podrá recluirse en días diferentes, ajustándose al horario de reclusión de los artículos referidos.
 
 Internamiento nocturno
 
@@ -2122,3 +2128,9 @@ JUAN MANUEL OLIVA RAMÍREZ
 EL SECRETARIO DE GOBIERNO
 
 HÉCTOR GERMÁN RENÉ LÓPEZ SANTILLANA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE AGOSTO DE 2012.
+
+Único. El presente Decreto entrará en vigencia al cuarto día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado.
