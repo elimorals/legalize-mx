@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-interior-del-instituto-electoral-de-queretaro-29065"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-02-14"
-last_updated: "2011-03-18"
+last_updated: "2012-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29065&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2011 Y REPUBLICADA EL 18 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 14 de febrero de 2003.
 
@@ -309,9 +309,11 @@ Las comisiones unidas serán presididas por uno de los presidentes de éstas, qu
 
 La votación que se emita en comisiones unidas contará en lo individual, independientemente de que alguno de sus miembros pertenezca a más de una comisión.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 33.
 
-Los integrantes de las Comisiones durarán en su encargo un año, pudiendo ser reelectos hasta por dos períodos sucesivos.
+Los integrantes de las Comisiones durarán en su encargo un año, pudiendo ser reelectos.
 
 ###### Artículo 34.
 
@@ -1224,3 +1226,7 @@ SEGUNDO. El Titular de la Secretaria Ejecutiva deberá expedir los lineamientos 
 TERCERO. La Comisión de Editorial y Biblioteca deberá emitir los lineamientos en materia de publicaciones y ediciones en las que participe el Instituto en un plazo no mayor a 30 días naturales, contados a partir de la entrada en vigor de las reformas del presente reglamento.
 
 CUARTO. Los asuntos que se encuentren en trámite, a la entrada en vigor del presente reglamento, se resolverán conforme a las normas que regían al momento de su inicio.
+
+P.O. 10 DE AGOSTO DE 2012.
+
+> <small>N. DE E. EL ACUERDO DEL REGLAMENTO CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL PARA EL ESTADO DE QUERÉTARO.</small>
