@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2012-08-08"
+last_updated: "2012-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE AGOSTO DE 2012.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -1165,9 +1165,9 @@ VIII. Regularizar la propiedad de los bienes inmuebles municipales, para ello te
 
 IX. Inscribir los bienes inmuebles municipales en el Registro Público de la Propiedad, para iniciar los trámites correspondientes tendrán un plazo de ciento veinte días hábiles contados a partir de aquel en que concluyo el proceso de regularización;
 
-> <small>(REFORMADA, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2012)</small>
 
-X. Practicar, a falta del agente del Ministerio Público, las primeras Diligencias de averiguación previa o aquellas que sean de notoria urgencia remitiéndolas al agente del Ministerio Público del Distrito Judicial correspondiente, dentro del término de veinticuatro horas y vigilar que los Oficiales Calificadores, observen las disposiciones legales en cuanto a las garantías que asisten a los detenidos;
+X. Vigilar que los Oficiales Calificadores, observen las disposiciones legales en cuanto a las garantías que asisten a los detenidos;
 
 XI. Participar en los remates públicos en los que tenga interés el municipio, para que se finquen al mejor postor y se guarden los términos y disposiciones prevenidos en las leyes respectivas;
 
@@ -3434,3 +3434,9 @@ G.G. 8 DE AGOSTO DE 2012.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 10 DE AGOSTO DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
