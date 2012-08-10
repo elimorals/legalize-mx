@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-instituciones-politicas-y-procedimientos-64534"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-11-08"
-last_updated: "2012-04-28"
+last_updated: "2012-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 CÓDIGO DE INSTITUCIONES POLÍTICAS Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE INSTITUCIONES POLÍTICAS Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE OAXACA, PUBLICADO EN EL P.O. 10 DE AGOSTO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 8 de noviembre de 2008.
 
@@ -3952,3 +3954,23 @@ En tanto se publique la Ley de Justicia Alternativa del Estado de Oaxaca, seguir
 Artículo Décimo.
 
 Se DEROGA el libro Sexto relativo al Tribunal Estatal Electoral, que comprenden los artículos 260 al 273 del Código de Instituciones Políticas y Procedimientos Electorales del Estado de Oaxaca.
+
+P.O. 10 DE AGOSTO DE 2012.
+
+PRIMERO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO: Se deroga el Código de Instituciones Políticas y Procedimientos Electorales de Oaxaca, aprobado el mediante el Decreto Número 723, de fecha 31 de octubre del año 2008, publicado en el Periódico Oficial del Gobierno del Estado con fecha 8 de noviembre del año 2008.
+
+TERCERO: El artículo 18 de este Código entrará en vigor el 13 de noviembre de 2013. Los representantes del Poder Legislativo ante el Consejo General del Instituto Estatal Electoral y de Participación Ciudadana, seguirán en funciones hasta el día 13 de noviembre de 2013, con las atribuciones a que se refiere el Código de Instituciones Políticas y Procedimientos Electorales de 2008.
+
+CUARTO: Al terminarse el periodo por el cual fue designado el actual Presidente del Consejo General del Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca, el Congreso procederá a designar a un consejero electoral propietario y un suplente, conforme al artículo 114 de la Constitución Estatal y al procedimiento establecido en este Código. El actual Presidente del Consejo General tendrá a salvo sus derechos para participar en el procedimiento de designación.
+
+QUINTO: Los recursos humanos, materiales y financieros asignados a las direcciones ejecutivas de Capacitación Electoral; Prerrogativas y Partidos Políticos, y; Usos y Costumbres, se adscribirán respectivamente a la Dirección Ejecutiva de Capacitación Electoral, Educación Cívica y Servicio Profesional Electoral; Dirección Ejecutiva de Partidos Políticos y Participación Ciudadana, y; Dirección Ejecutiva de Sistemas Normativos Internos. Los titulares de las direcciones Ejecutivas de Capacitación Electoral; Prerrogativas y Partidos Políticos, y; Usos y Costumbres, a partir de la vigencia de este Código, se denominarán respectivamente: Director Ejecutivo de Capacitación Electoral, Educación Cívica y Servicio Profesional Electoral; Director Ejecutivo de Partidos Políticos y Participación Ciudadana, y; Director Ejecutivo dé Sistemas Normativos Internos.
+
+SEXTO: El Instituto Estatal Electoral y de Participación Ciudadana establecerá de manera gradual las bases para la implementación del Servicio Profesional Electoral, a partir de la renovación del Consejo General.
+
+SÉPTIMO: La disposición establecida en el artículo 108 párrafo 1 fracción I inciso b de este Código, entrará en vigor a partir del ejercicio fiscal del año 2014. En tanto, el Instituto Estatal Electoral y de Participación Ciudadana seguirá aplicando las disposiciones correspondientes establecidas en el Código de Instituciones Políticas y Procedimientos Electorales de Oaxaca, aprobado mediante el Decreto Número 723, de fecha 31 de octubre del año 2008, publicado en el Periódico Oficial del Gobierno del Estado con fecha 8 de noviembre del año 2008.
+
+OCTAVO: La solicitud de información a los municipios sobre sus sistemas normativos internos, a que se refiere el artículo 259 numeral 1 de este Código, entrará en vigor a partir de enero del año 2013.
+
+NOVENO: El Instituto Estatal Electoral y de Participación Ciudadana, tendrá un plazo de noventa días para elaborar, modificar y publicar su normatividad interna, conforme a este Código.
