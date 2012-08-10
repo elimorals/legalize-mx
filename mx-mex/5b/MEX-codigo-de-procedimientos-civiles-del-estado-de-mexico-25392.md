@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-civiles-del-estado-de-mexico-25392"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-01"
-last_updated: "2012-08-09"
+last_updated: "2012-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25392&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE AGOSTO DE 2012.
 
 Código publicado en el Gaceta del Gobierno del Estado de México, el lunes 1 de julio del 2002.
 
@@ -2019,6 +2019,10 @@ Facultades del Juez en materia de prueba
 
 Los gastos que se originen serán cubiertos por el actor o en su defecto por el demandado, sin perjuicio de lo que en su oportunidad se resuelva sobre condenación en costas.
 
+> <small>(ADICIONADO, G.G. 10 DE AGOSTO DE 2012)</small>
+
+En materia familiar, cuando haya que decidir sobre la guarda y custodia de los menores, en los casos en que las partes o el Ministerio Público no hayan solicitado la realización de pruebas periciales en materia de trabajo social y psicología familiar, para demostrar que persona es la más idónea para hacerse cargo de manera definitiva del menor, el Juez las mandará realizar oficiosamente.
+
 Carga de la prueba
 
 ###### Artículo 1.
@@ -2145,13 +2149,13 @@ Generalidad de la prueba
 
 ###### Artículo 1.
 
-267.- La confesión es expresa y tácita o ficta. Es expresa la que se hace clara y terminantemente al formular o contestar la demanda, al absolver posiciones, o en cualquier otro acto del proceso. Es tácita o ficta cuando la ley lo señala.
+268.- La confesión sólo produce efecto en lo que perjudica al que la hace.
 
-Efectos de la confesión
+Clases de confesión
 
 ###### Artículo 1.
 
-268.- La confesión sólo produce efecto en lo que perjudica al que la hace.
+267.- La confesión es expresa y tácita o ficta. Es expresa la que se hace clara y terminantemente al formular o contestar la demanda, al absolver posiciones, o en cualquier otro acto del proceso. Es tácita o ficta cuando la ley lo señala.
 
 Sólo las partes pueden absolver posiciones
 
@@ -2215,7 +2219,7 @@ Calificación de las posiciones
 
 ### CAPITULO II. De la Confesión
 
-Clases de confesión
+Efectos de la confesión
 
 ###### Artículo 1.
 
@@ -5511,6 +5515,8 @@ VII. El Sistema para el Desarrollo Integral de la Familia del Estado; y
 
 VIII. El Ministerio Público.
 
+Prueba de la minoría de edad
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.G. 9 DE AGOSTO DE 2012)</small>
@@ -8506,3 +8512,11 @@ TERCERO.- Los agentes del Ministerio Público continuarán su intervención en l
 La intervención a que se refiere el párrafo anterior se realizará por conducto de las unidades administrativas de la Procuraduría General de Justicia del Estado de México, en los términos que determine el Procurador.
 
 CUARTO.- Los agentes del Ministerio Público que a la fecha de entrada en vigor de este Decreto se encuentren adscritos a órganos jurisdiccionales en materias civil y familiar, serán distribuidos en las unidades administrativas de la Procuraduría General de Justicia del Estado de México, conforme a las necesidades del servicio.
+
+G.G. 10 DE AGOSTO DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Quedan sin efectos las normas jurídicas de igual o inferior jerarquía, en cuanto se opongan al presente Decreto.
