@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-procuraduria-general-de-justicia-del-67783"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-03-20"
-last_updated: "2011-10-26"
+last_updated: "2012-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67783&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE AGOSTO DE 2012.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 20 de marzo de 2009.
 
@@ -947,9 +947,25 @@ VIII. Realizar el seguimiento de los servicios gratuitos de asesoría jurídica,
 
 Previa valoración los servicios instituidos en beneficio de las víctimas podrán extenderse a los ofendidos del delito;
 
-IX. Trabajar de manera coordinada con la Comisión de Derechos Humanos del Estado de México, en el desarrollo de programas para la atención a las víctimas del delito, así como impulsar las acciones necesarias para promover y proteger sus derechos fundamentales entre las autoridades y la población del Estado de México; y
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2012)</small>
 
-X. Las demás establecidas en este ordenamiento, en el reglamento interior del Instituto y en otras disposiciones aplicables.
+IX. Trabajar de manera coordinada con la Comisión de Derechos Humanos del Estado de México, en el desarrollo de programas para la atención a las víctimas del delito, así como impulsar las acciones necesarias para promover y proteger sus derechos fundamentales entre las autoridades y la población del Estado de México;
+
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2012)</small>
+
+X. Dirigir y actualizar la base de datos con la información de los reportes de personas extraviadas o ausentes iniciados, coordinando esta información con la información de programas que en la materia emitan otras dependencias;
+
+> <small>(ADICIONADA, G.G. 10 DE AGOSTO DE 2012)</small>
+
+XI. Elaborar y ejecutar acciones encaminadas a la ejecución del Programa para la búsqueda y localización de personas extraviadas o ausentes, que permitan su pronta localización;
+
+> <small>(ADICIONADA, G.G. 10 DE AGOSTO DE 2012)</small>
+
+XII. Solicitar informes y enviar alertas a dependencias, entidades federales y entidades federativas, así como coadyuvar con éstas en la búsqueda y localización de personas extraviadas o ausentes cuando se requiera; y
+
+> <small>(ADICIONADA, G.G. 10 DE AGOSTO DE 2012)</small>
+
+XIII. Las demás establecidas en este ordenamiento, en el reglamento interior del Instituto y en otras disposiciones aplicables.
 
 ###### ARTÍCULO 52.
 
@@ -1138,3 +1154,9 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- La Secretaría de Salud del Estado implementará los centros especializados para el tratamiento, atención y rehabilitación de la farmacodependencia, en el término para tal efecto establecido por el párrafo tercero del Artículo Primero Transitorio, del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Salud, del Código Penal Federal y del Código Federal de Procedimientos Penales, publicado en el Diario Oficial de la Federación del 20 agosto de 2009.
 
 CUARTO.- El presente Decreto surtirá efectos para los sistemas procesales penales mixto y acusatorio, respectivamente, vigentes en el Estado de México.
+
+G.G. 10 DE AGOSTO DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
