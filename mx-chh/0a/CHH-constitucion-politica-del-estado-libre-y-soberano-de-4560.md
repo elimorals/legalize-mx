@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2012-07-18"
+last_updated: "2012-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2012.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -33,9 +33,11 @@ CONSTITUCION POLITICA del Estado Libre y Soberano de Chihuahua, que reforma la d
 
 DEL ESTADO Y SU TERRITORIO.
 
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2012)</small>
+
 ###### Art. 1o.
 
-El Estado de Chihuahua es parte integrante de los Estados Unidos Mexicanos.
+El Estado de Chihuahua es parte integrante de los Estados Unidos Mexicanos y posee una composición pluricultural, pluriétnica y multilingüística.
 
 ###### Art. 2o.
 
@@ -177,33 +179,69 @@ Las medidas sancionadoras impuestas por la realización de una conducta tipifica
 
 La autoridad ante quien se ejerza el derecho de petición en los términos del artículo 8o. de la Constitución Federal, comunicará su proveído al peticionario a más tardar dentro de los quince días hábiles siguientes a la presentación del escrito, salvo lo que disponga la ley para casos especiales.
 
-> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE AGOSTO DE 2012)</small>
 
 ### CAPITULO II.
 
-DE LOS PUEBLOS INDIGENAS.
+DE LOS DERECHOS INDIGENAS.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2012)</small>
 
 ###### Art. 8o.
 
-En todo juicio civil o penal si una de las partes es indígena las autoridades tomarán en cuenta sus usos, costumbres y prácticas jurídicas.
+Los pueblos indígenas, a través de sus comunidades, tienen derecho a ejercer su autonomía, entendida como la libre determinación para establecer sus formas de organización que les permitan vivir y desarrollarse libremente. La autonomía indígena no podrá ser restringida por autoridad o particular alguno, de conformidad con lo que establezca el marco jurídico del Estado.
 
-En la represión de los delitos cometidos en las comunidades indígenas entre miembros de un mismo pueblo, se respetarán los métodos e instituciones utilizados tradicionalmente por el pueblo de que se trate. La ley establecerá todo lo relativo a las competencias, jurisdicciones y demás que sea necesario para dar cumplimiento a este precepto.
+En el ejercicio de su autonomía, los pueblos indígenas tienen derecho a:
 
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+I. La autodefinición y a la autoadscripción;
+
+II. Establecer sus propias formas de organización territorial;
+
+III. Establecer sus mecanismos de toma de decisiones;
+
+IV. Operar sus sistemas normativos internos, sujetando sus actuaciones a los principios generales de esta Constitución, respetando los derechos humanos y, de manera relevante, la dignidad e integridad de las mujeres. Las leyes locales establecerán los casos y procedimientos de validación por los jueces o tribunales correspondientes;
+
+V. Elegir a sus autoridades y representantes, bajo los principios de equidad, garantizando la participación de las mujeres frente a los varones, en un marco que respete el pacto federal y la soberanía de los Estados;
+
+VI. Dar su consentimiento libre, previo e informado cada vez que se prevean medidas legislativas o administrativas susceptibles de afectarles directamente;
+
+VII. Desarrollar, preservar, utilizar y enriquecer su lengua, cultura y sistemas rituales;
+
+VIII. Conservar y mejorar de manera sustentable su biodiversidad, ecosistemas y paisaje;
+
+IX. Usar, aprovechar y disfrutar los recursos naturales de manera preferente en sus territorios, salvo aquellos que corresponden a las áreas consideradas como estratégicas por la autoridad administrativa, en términos de la Constitución Federal y la presente. Para estos efectos, las comunidades podrán asociarse en términos de ley, y
+
+X. Definir y protagonizar su desarrollo.
+
+Las tierras pertenecientes a los pueblos indígenas son inalienables e imprescriptibles, sujetas a las formas y modalidades de propiedad y tenencia de la tierra, establecidas en la Constitución Federal y en las leyes de la materia, así como a los derechos adquiridos por terceros o por integrantes de la comunidad. El uso o disfrute de las tierras o aguas que ocupen o habiten los pueblos indígenas se ajustarán a lo que disponga la ley, observando en principio y en todo momento los Sistemas Normativos Internos de los pueblos indígenas.
+
+Así mismo, tienen derecho al uso de su territorio entendido como el hábitat local, translocal y regional geográfico, tradicional, histórico y natural delimitado por ellos, en el cual reproducen sus formas de organización social, Sistemas Normativos Internos, lengua y cosmovisión.
+
+Se considera comunidad indígena el grupo de personas pertenecientes a un pueblo indígena que integran una unidad cultural con identidad propia, desarrollan sus formas de organización territorial y sus Sistemas Normativos Internos, y mediante la cual ejercen sus derechos. La comunidad indígena tiene la calidad de sujeto de derecho público con personalidad jurídica y patrimonio propios.
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2012)</small>
 
 ###### Art. 9o.
 
-Conforme a la ley, las tierras pertenecientes a los pueblos indígenas son inalienables e imprescriptibles. La enajenación o gravamen que tengan por objeto las tierras o aguas pertenecientes a los pueblos indígenas se ajustarán a lo que disponga la ley y, particularmente, acatando los usos, costumbres y practicas jurídicas de dichos pueblos, que deben recopilarse, reconocerse, garantizarse y regularse por las leyes que rigen en materia civil dentro del Estado de Chihuahua.
+Los pueblos indígenas y las personas que los componen, tienen derecho al acceso pleno a la Jurisdicción del Estado.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+Los pueblos indígenas, a través de sus comunidades, operan sus sistemas de justicia con base en sus Sistemas Normativos Internos, entendidos estos últimos como los principios, valores y normas utilizados para la convivencia, la toma de decisiones, la elección de sus autoridades, la atención de conflictos internos, el ejercicio de derechos y obligaciones, así como el nombramiento de sus representantes para interactuar con los sectores público, social o privado.
+
+En todos los juicios y procedimientos del orden jurisdiccional en los que sean parte los pueblos o las personas indígenas, se considerarán sus Sistemas Normativos Internos.
+
+Así mismo, el Estado debe asistirlos, en todo tiempo, con traductores, intérpretes y defensores con dominio de su lengua, conocimiento de su cultura y del Derecho Indígena.
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2012)</small>
 
 ###### Art. 10.
 
-La educación de los pueblos indígenas será objeto de atención especial por parte del Estado. La ley establecerá los mecanismos necesarios para propiciar que aquélla se proporcione por dichos pueblos y sea bilingüe cuando éstos así lo soliciten.
+Los pueblos indígenas, con base en sus Sistemas Normativos Internos, tienen derecho a determinar sus procesos de desarrollo y a la participación en materia política, económica, social, medioambiental y cultural.
 
-Los servicios de salud que el Estado proporcione a los pueblos indígenas se planearán en coordinación con éstos, teniendo en cuenta su idioma, usos y costumbres.
+Participarán en el diseño, ejecución, evaluación y seguimiento de la planeación del desarrollo estatal y municipal. El Estado deberá difundir previamente y en su lengua, a través de los mecanismos propios de los pueblos indígenas y sus comunidades, la información clara, oportuna, veraz y suficiente.
+
+Así mismo, tienen el derecho a la representación en la administración pública.
+
+La ley establecerá todo lo relativo a las competencias, jurisdicciones y demás que sean necesarias para dar cumplimiento al presente Capítulo.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -2533,6 +2571,10 @@ DE LA SALUD PUBLICA.
 
 Todo habitante del Estado en edad escolar, tiene derecho a recibir la educación preescolar, primaria, secundaria y media superior, las cuales tendrán el carácter de obligatorias y se impartirán gratuitamente en los planteles oficiales, de acuerdo con la ley de la materia.
 
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2012)</small>
+
+Los pueblos indígenas tienen derecho a recibir educación bilingüe. El Estado propiciará que ésta se imparta por las personas indígenas de su comunidad, de acuerdo con sus formas de organización social, económica, cultural y política.
+
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
 ###### Art. 144.
@@ -2541,13 +2583,21 @@ La educación que imparta el Estado tenderá a desarrollar armónicamente todas 
 
 I.- Garantizada por el artículo 24 de la Constitución Federal la libertad de creencias, dicha educación será laica y, por tanto, se mantendrá por completo ajena a cualquier doctrina religiosa.
 
-II.- El criterio que orientará a esa educación se basará en los resultados del progreso científico, en el respeto a las culturas de los diferentes pueblos indígenas y luchará contra la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios. Además:
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2012)</small>
+
+II. El criterio que orientará a esa educación se basará en los resultados del progreso científico, en el desarrollo de los diversos ámbitos y disciplinas del conocimiento, en el respeto y entendimiento de las diferentes culturas, y luchará contra la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios. Además:
 
 A.- Será democrático, considerando a la democracia no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo;
 
-B.- Será nacional, en cuanto sin hostilidades ni exclusivismos, atenderá a la comprensión de nuestros problemas, al aprovechamiento de nuestros recursos, a la defensa de nuestra independencia política, al aseguramiento de nuestra independencia económica, y a la continuidad y acrecentamiento de nuestra cultura plural, formada a partir de nuestra realidad pluriétnica, por lo que se promoverá la enseñanza bilingüe en todos los niveles, cuando así lo soliciten los pueblos indígenas que habitan en el Estado, y
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2012)</small>
+
+B) Será nacional, en cuanto sin hostilidades ni exclusivismos, atenderá a la comprensión de nuestros problemas, al aprovechamiento de nuestros recursos, a la defensa de nuestra independencia política, al aseguramiento de nuestra independencia económica, y a la continuidad y acrecentamiento de nuestra cultura, formada a partir de nuestra realidad pluricultural, pluriétnica y multilingüística;
 
 C. Contribuirá a la mejor convivencia humana, tanto por los elementos que aporte a fin de robustecer en el educando, junto con el aprecio para la dignidad de la persona, y la integridad de la familia, la convicción del interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todos los hombres, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2012)</small>
+
+D) Será intercultural a fin de propiciar el establecimiento de relaciones sociales horizontales, encaminadas al entendimiento y enriquecimiento de las diferentes culturas, tanto en lo personal como en lo colectivo.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -2610,6 +2660,14 @@ DE LA HACIENDA PUBLICA.
 ###### Art. 155.
 
 Todos los habitantes del Estado tienen derecho a la protección de la salud. La salud pública estatal estará a cargo del Ejecutivo, por conducto de la dependencia que determine su ley orgánica.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2012)</small>
+
+Los pueblos indígenas tienen derecho al uso y desarrollo de su sistema médico tradicional.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2012)</small>
+
+También tienen derecho al acceso, sin discriminación alguna, a todas las instituciones de salubridad y de servicios de salud y atención médica. Los servicios de salud que el Estado proporcione a los pueblos indígenas se planearán y desarrollarán en coordinación con éstos, en su lengua, de acuerdo a su sistema médico tradicional y formas de organización social, económica, cultural y política.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -3734,3 +3792,17 @@ Conforme lo dispone el artículo 202 de la Constitución Política del Estado, e
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE AGOSTO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de las Iniciativas, del Dictamen y de los Debates del H. Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución Política local. Realizado que sea, publíquese en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente Decreto, deberán realizarse las adecuaciones a la legislación reglamentaria, de conformidad al derecho a la autonomía y al consentimiento libre, previo e informado.
