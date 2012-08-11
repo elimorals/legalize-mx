@@ -4,7 +4,7 @@ identifier: "COL-ley-del-patrimonio-municipal-para-el-estado-de-colima-21367"
 country: "mx"
 rank: "ley"
 publication_date: "2001-05-12"
-last_updated: "2001-05-12"
+last_updated: "2012-08-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL PATRIMONIO MUNICIPAL PARA EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2012.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 12 de mayo de 2001.
 
@@ -361,11 +361,35 @@ El derecho que este artículo concede deberá ejercitarse dentro de los quince d
 
 La notificación del aviso a que hace referencia el artículo anterior, deberá realizarse personalmente cuando sea del conocimiento de la autoridad municipal en el domicilio del interesado y, además, deberá ser publicado por una sola ocasión en el Periódico Oficial y en uno de los de mayor circulación en el municipio, publicación que hará las veces de notificación cuando se ignore el domicilio del interesado.
 
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 38.
 
-El Ayuntamiento podrá donar a título gratuito mediante acuerdo, a las asociaciones o instituciones privadas cuyas actividades sean de interés social y no persigan fines de lucro, los bienes de dominio privado, siempre que se destinen a servicios, fines educativos o de asistencia social.
+El Ayuntamiento mediante acuerdo podrá donar a título gratuito, a:
 
-Si la asociación o institución no utilizare el bien en el fin señalado dentro del plazo previsto en el acuerdo respectivo, o si habiéndolo hecho dieran al inmueble uso distinto al convenido sin contar con autorización previa del Ayuntamiento, tanto el bien como sus mejoras revertirán en favor del mismo.
+I. Las asociaciones o instituciones privadas cuyas actividades sean de interés social y no persigan fines de lucro, los bienes de dominio privado, siempre que se destinen a servicios, fines educativos o de asistencia social, así como a la investigación científica; y
+
+II. Las entidades públicas federales, estatales o cualquier otro organismo público que requiera de un bien del dominio privado para la realización de programas sociales, de vivienda, educativos, la prestación de servicios públicos, o para promover acciones de interés general o de beneficio colectivo.
+
+Si la entidad u organismo público, o la asociación o institución privada señaladas en cualquiera de las fracciones anteriores, no utilizare el bien dentro del plazo y para el fin establecido en los términos del acuerdo respectivo, o si le diera un uso distinto al convenido sin contar expresamente con autorización previa del Ayuntamiento, o tratándose de la disolución o liquidación de la asociación o institución que haya recibido el bien, tanto éste como sus mejoras se revertirán a favor del Ayuntamiento respectivo.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2012)</small>
+
+ARTICULO 38 BIS.- Para ejercer la reversión, el Ayuntamiento se sujetará al siguiente procedimiento:
+
+I. Emitirá un acuerdo de inicio del procedimiento de reversión, en el que se señalen las causas que la motiven;
+
+II. Expedirá una orden de inspección fundada y motivada, de la cual se levantará un acta circunstanciada;
+
+III. Notificará el acuerdo al donatario, otorgándole un plazo de diez días hábiles, para que manifieste lo que a su interés convenga;
+
+IV. El Ayuntamiento emitirá la resolución correspondiente, ordenando su notificación al donatario. En caso de que se determine ejercer la reversión, dicha resolución deberá publicarse en el Periódico Oficial del Gobierno del Estado; y
+
+V. El Ayuntamiento ordenará la ejecución de la resolución.
+
+El procedimiento anterior será iniciado y tramitado por la Comisión de Patrimonio del Cabildo correspondiente o la dependencia municipal que el Ayuntamiento determine en el Reglamento o acuerdo correspondiente, la que emitirá un dictamen conforme al cual el Ayuntamiento resolverá lo conducente.
+
+El proyecto de resolución se deberá someter a estudio, discusión y votación de los integrantes del Cabildo, quienes en sesión pública podrán confirmarla, modificarla, revocarla o engrosarla por las razones que estimen fundadas, y una vez que el Cabildo por mayoría de sus integrantes emita la resolución correspondiente deberá notificarla personalmente al donatario y al Síndico del Ayuntamiento a más tardar dentro de los tres días hábiles a la emisión de la misma, la cual podrá impugnarse en términos del artículo 141 de la Ley del Procedimiento Administrativo del Estado y sus Municipios.
 
 ###### ARTICULO 39.
 
@@ -460,3 +484,9 @@ Por tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, a los 11 días del mes de mayo del año dos mil uno.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JORGE HUMBERTO SILVA OCHOA. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 11 DE AGOSTO DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
