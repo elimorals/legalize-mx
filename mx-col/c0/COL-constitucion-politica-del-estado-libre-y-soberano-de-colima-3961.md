@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2012-07-14"
+last_updated: "2012-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2012.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -35,11 +35,13 @@ CONSTITUCION POLITICA del Estado Libre y soberano de Colima
 
 ## TITULO I.
 
-### CAPITULO I.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE AGOSTO DE 2012)</small>
 
-De los Derechos del Hombre.
+### CAPÍTULO I.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
+De los Derechos Humanos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2012)</small>
 
 ### CAPITULO II.
 
@@ -531,7 +533,7 @@ Todas las iniciativas se sujetarán a los trámites establecidos por la Ley Org�
 
 ###### Artículo 39.
 
-Las resoluciones del Poder Legislativo tendrán el carácter de Decreto-Ley, Decreto y Acuerdo. Las Leyes y Decretos se comunicarán al Ejecutivo firmadas por el Presidente y los Secretarios y los Acuerdos solamente por los Secretarios.
+Las resoluciones del Poder Legislativo tendrán el carácter de Decreto-Ley, Decreto y Acuerdo. Las Leyes y Decretos se comunicarán al Ejecutivo firmados por el Presidente y los Secretarios y los Acuerdos solamente por los Secretarios.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2011)</small>
 
@@ -669,7 +671,7 @@ Llegado el caso previsto en la fracción V del artículo 76 de la Constitución 
 
 ###### Artículo 56.
 
-Cuando se haya nombrado Gobernador Interino, creyéndose que la falta del electo es temporal, y se tenga después conocimiento de que aquella es absoluta, el Congreso nombrará un Gobernador Sustituto, o bien confirmará el nombramiento de aquél, con el carácter de Substituto. Respecto del Gobernador así nombrado, se observará lo dispuesto en el artículo anterior.
+Cuando se haya nombrado Gobernador Interino, creyéndose que la falta del electo es temporal y se tenga después conocimiento de que aquélla es absoluta, el Congreso nombrará un Gobernador Sustituto, o bien confirmará el nombramiento de aquél, con el carácter de Substituto. Respecto del Gobernador así nombrado, se observará lo dispuesto en el artículo anterior.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2005)</small>
 
@@ -1471,7 +1473,7 @@ Los Ayuntamientos se integrarán de acuerdo con las normas que establezca la ley
 
 I.- En los municipios cuya población sea hasta de veinticinco mil habitantes, el Ayuntamiento se integrará por un presidente municipal, un síndico y cuatro regidores electos según el principio de mayoría relativa y por cuatro regidores de representación proporcional;
 
-II.- En los municipios cuya población sea de veinticinco mil uno o cincuenta mil habitantes, el Ayuntamiento se integrará por un presidente municipal, un síndico y cinco regidores electos según el principio de mayoría relativa y por cuatro regidores de representación proporcional;
+II.- En los municipios cuya población sea de veinticinco mil uno a cincuenta mil habitantes, el Ayuntamiento se integrará por un presidente municipal, un síndico y cinco regidores electos según el principio de mayoría relativa y por cuatro regidores de representación proporcional;
 
 III.- En los municipios cuya población sea de cincuenta mil uno a cien mil habitantes, el Ayuntamiento se integrará por un presidente municipal, un síndico y cinco regidores electos según el principio de mayoría relativa y por cinco regidores de representación proporcional;
 
@@ -1879,7 +1881,7 @@ IV.- Si no se obtuviere el voto de las dos terceras partes de los Diputados y la
 
 > <small>(ADICIONADO, P. O. 11 DE DICIEMBRE DE 1999)</small>
 
-Las reformas o adiciones aprobadas conforme al procedimiento anterior, serán sometidos a referéndum derogatorio, total o parcialmente, si dentro de los 45 días naturales siguientes a la fecha de su publicación así se solicita al Congreso del Estado por el 7% cuando menos, de los ciudadanos del Estado inscritos en el listado nominal de electores, debidamente identificados.
+Las reformas o adiciones aprobadas conforme al procedimiento anterior, serán sometidas a referéndum derogatorio, total o parcialmente, si dentro de los 45 días naturales siguientes a la fecha de su publicación así se solicita al Congreso del Estado por el 7% cuando menos, de los ciudadanos del Estado inscritos en el listado nominal de electores, debidamente identificados.
 
 > <small>(ADICIONADO, P. O. 11 DE DICIEMBRE DE 1999)</small>
 
@@ -2033,7 +2035,19 @@ El Congreso del Estado no podrá reconocer, bajo ningún concepto a los militare
 
 ###### Artículo 1°.
 
-El Estado de Colima reconoce, protege y garantiza a toda persona, el goce de sus derechos consignados en la Constitución General de la República y los establecidos en esta Constitución.
+El Estado de Colima reconoce, protege y garantiza a toda persona, el goce de sus derechos consignados en la Constitución General de la República, los tratados internacionales de los que el Estado México (sic) sea parte y los establecidos en esta Constitución." (sic)
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2012)</small>
+
+Las normas relativas a los derechos humanos se interpretarán de conformidad con esta Constitución y con los tratados internacionales de la materia, favoreciendo en todo tiempo a las personas la protección más amplia.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2012)</small>
+
+Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Estado deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la ley.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2012)</small>
+
+Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
 > <small>(ADICIONADO, P.O. 15 DE MAYO DE 2006)</small>
 
@@ -2055,9 +2069,15 @@ El niño hasta la edad de 18 años y los adultos mayores de 65 años, tendrán d
 
 Las personas con discapacidad que pertenezcan a población abierta, también gozarán del beneficio establecido en el párrafo anterior y, en el caso de que en su estudio socioeconómico resulte que tienen capacidad económica suficiente para pagar la contraprestación, solamente pagarán el nivel mínimo del tabulador vigente de cuotas de recuperación.
 
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
+
 Es deber de los padres preservar el derecho de los menores a la satisfacción de sus necesidades. Las autoridades estatales y municipales colaborarán con la familia en la adopción de medidas que propicien el desarrollo físico y mental de la población infantil; fomentarán la participación de la juventud en las actividades sociales y culturales; establecerán un sistema permanente de apoyo e integración social de los ancianos para permitirles una vida digna y decorosa; promoverán el tratamiento, rehabilitación e integración de los discapacitados con el objeto de facilitar su pleno desarrollo; y auspiciarán la difusión del deporte, la recreación y la cultura entre la población.
 
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 1994)</small>
+
 II.- La propiedad privada se respetará y garantizará en el Estado, con las modalidades que a su ejercicio, como función social, le impongan la Constitución Federal y las leyes respectivas.
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 1994)</small>
 
 III.- La educación será motivo de especial atención en el Estado, en los términos que establece la Constitución General de la República.
 
@@ -2065,11 +2085,15 @@ III.- La educación será motivo de especial atención en el Estado, en los tér
 
 La formación de los educandos, inclusive, será en el marco del fortalecimiento de los valores de la justicia, la tolerancia, la bondad, la rectitud, la honestidad y el diálogo, y en todo caso, fomentará en ellos, la cultura de la paz y la legalidad, como una forma de aprender a vivir en armonía utilizando como métodos los alternativos de solución de conflictos.
 
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 1994)</small>
+
 IV.- La población tiene derecho a estar informada de manera continua y eficiente sobre las actividades que lleven a cabo las autoridades estatales y municipales y en general, sobre los acontecimientos de su entorno local y regional.
 
 > <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 Es derecho de los colimenses, acceder a la sociedad de la información y el conocimiento, como una política de Estado, para lograr una comunidad integrada y totalmente intercomunicada, en la que cada uno de sus integrantes viva en un entorno de igualdad de oportunidades, con respeto a su diversidad, preservando su identidad cultural y orientada al desarrollo, que permita un claro impacto en todos los sectores de la sociedad.
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 1994)</small>
 
 V.- Toda persona tiene derecho al trabajo, a la salud y a disfrutar de vivienda digna y decorosa. El gobierno del Estado y los gobiernos municipales promoverán la construcción de vivienda popular e inducirán a los sectores privado y social hacia ese propósito, de conformidad con las disposiciones legales aplicables.
 
@@ -2077,23 +2101,39 @@ V.- Toda persona tiene derecho al trabajo, a la salud y a disfrutar de vivienda 
 
 Los pensionados y jubilados, así como los adultos mayores de 65 años, tendrán derecho a condiciones preferentes en el pago de los derechos estatales y municipales, en la forma y términos que determinen las leyes respectivas.
 
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 1994)</small>
+
 VI.- Las autoridades del Estado velarán por la defensa de los derechos humanos e instituirán los medios adecuados para su salvaguarda.
 
 > <small>(REFORMADA, P.O. 20 DE JUNIO DE 2009)</small>
 
 VII.- Toda persona tiene derecho a que se le administre justicia por los tribunales del Estado, los que estarán expeditos para impartirla en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, imparcial y gratuita.
 
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
+
 Asimismo tiene derecho, en la forma y términos que establezca la ley, a resolver sus controversias de carácter jurídico a través de la justicia alternativa, mediante procedimientos no jurisdiccionales.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
 
 Los menores que cometan una infracción a las leyes penales serán objeto de un sistema integral de procuración e impartición de justicia, a cargo de Instituciones, tribunales y autoridades especializados, en el que se garanticen los derechos fundamentales que les reconoce la Constitución Federal, así como aquellos derechos específicos que por su condición de personas en desarrollo les han sido reconocidos. Los menores de doce años que hayan realizado una conducta prevista como delito en la ley, sólo serán sujetos a rehabilitación y asistencia social.
 
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
+
 El proceso penal será acusatorio y oral. Se regirá por los principios de publicidad, contradicción, concentración, continuidad e inmediación. En todo proceso del orden penal, el inculpado, la víctima y el ofendido tendrán las garantías que les otorgan la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
 
 El sistema penitenciario se organizará sobre la base del trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medio para lograr la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir, observando los beneficios que para él prevé la ley. Las mujeres compurgarán sus penas en lugares separados de los destinados a los hombres para tal efecto.
 
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 1994)</small>
+
 VIII.- Por el carácter plural de la sociedad colimense, las autoridades están obligadas a fortalecerla, alentando la participación democrática de individuos, organizaciones y partidos políticos en el desarrollo del Estado.
 
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 1994)</small>
+
 IX.- Corresponde al Estado planear, participar, conducir, coordinar y orientar el desarrollo de la Entidad, para que mediante el fomento del crecimiento económico y el empleo y una justa distribución del ingreso, se permita el pleno ejercicio de la libertad y la dignidad de individuos y grupos sociales cuya seguridad y bienestar protege esta Constitución.
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 1994)</small>
 
 X.- Todas las autoridades, dentro de la esfera de sus atribuciones, estarán obligadas en su ejercicio a vigilar por la conservación, protección y fomento del medio ambiente y de los recursos naturales de la entidad.
 
@@ -2119,6 +2159,8 @@ El Estado y los municipios, para promover la igualdad de oportunidades de los in
 
 XIV.- Toda persona tiene derecho a un medio ambiente social que le permita vivir en paz y en armonía con todos los demás seres humanos. Cualquier forma de violencia atenta contra el desarrollo humano integral y la dignidad de la persona.
 
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
+
 El Estado implementará las políticas y acciones correspondientes a fin de garantizar las condiciones que permitan a sus habitantes, a través de la cultura de la paz, vivir sin violencia.
 
 > <small>(ADICIONADA, P.O. 14 DE MAYO DE 2011)</small>
@@ -2141,7 +2183,7 @@ IV. Se establecerán mecanismos de acceso a la información y procedimiento de r
 
 V. Los sujetos obligados deberán preservar sus documentos en archivos administrativos actualizados y publicarán a través de los medios electrónicos disponibles, la información completa y actualizada sobre sus indicadores de gestión y el ejercicio de los recursos públicos.
 
-VI. Las leyes determinarán la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas física o morales.
+VI. Las leyes determinarán la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o morales.
 
 VII. La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que dispongan las leyes.
 
@@ -2948,6 +2990,10 @@ P.O. 5 DE MAYO DE 2012.
 P.O. 14 DE JULIO DE 2012.
 
 PRIMERO (SIC).- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 11 DE AGOSTO DE 2012.
+
+PRIMERO (SIC).- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 ###### ARTÍCULO ÚNICO.
 
