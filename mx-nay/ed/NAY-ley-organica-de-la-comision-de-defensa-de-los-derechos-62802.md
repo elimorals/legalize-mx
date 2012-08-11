@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-de-la-comision-de-defensa-de-los-derechos-62802"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-08-16"
-last_updated: "2011-07-20"
+last_updated: "2012-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NAY"
 ---
 # LEY ORGANICA DE LA COMISION DE DEFENSA DE LOS DERECHOS HUMANOS PARA EL ESTADO DE NAYARIT
 
-LEY ORGANICA DE LA COMISION DE DEFENSA DE LOS DERECHOS HUMANOS PARA EL ESTADO DE NAYARIT
+LEY ORGÁNICA DE LA COMISIÓN DE DEFENSA DE LOS DERECHOS HUMANOS PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2012.
 
 Ley publicada en la Sección Décima Primera del Periódico Oficial del Estado de Nayarit, el sábado 16 de agosto de 2008.
 
@@ -203,7 +203,7 @@ I. Actos y resoluciones de Organismos y Autoridades electorales;
 
 II. Resoluciones de carácter jurisdiccional de fondo;
 
-III. Conflictos de carácter laboral;
+III. (DEROGADA, P.O. 11 DE AGOSTO DE 2012)
 
 IV. Cuando en un mismo hecho, estuvieren involucrados Autoridades o Servidores Públicos de la Federación y del Estado o sus Municipios, la competencia se surtirá en favor de la Comisión Nacional de Derechos Humanos, y
 
@@ -291,9 +291,17 @@ XXXI. Integrar los criterios generales para la resolución de los asuntos de su 
 
 XXXII. Dar seguimiento, por conducto de su Presidente, Visitador General, Visitadores Regionales, Visitadores adjuntos, a las actuaciones y diligencias que se practiquen en las averiguaciones previas, procedimientos penales y administrativos que se integren o se instruyan con motivo de su Intervención en términos de la presente Ley. Esta facultad tiene por objeto lograr su resolución definitiva, sin que, en ningún caso, se entienda que se pretenda intervenir como parte en dichas diligencias;
 
-XXXIII. Promover propuestas de orden legislativo ante el Congreso del Estado en materia de su competencia, y
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2012)</small>
 
-XXXIV. Las demás que le confiera esta ley u otras disposiciones aplicables.
+XXXIII. Promover propuestas de orden legislativo ante el Congreso del Estado en materia de su competencia;
+
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2012)</small>
+
+XXXIV. Solicitar al Pleno de la Cámara de Diputados, o en sus recesos, a la Diputación Permanente que citen a las autoridades o servidores públicos que hayan sido señalados como responsables en las recomendaciones para que comparezcan a efecto de que expliquen el motivo de su negativa, y
+
+> <small>(ADICIONADA, P.O. 11 DE AGOSTO DE 2012)</small>
+
+XXXV. Las demás que le confiera esta ley u otras disposiciones aplicables.
 
 ### CAPÍTULO SEGUNDO. LA ESTRUCTURA DE LA COMISIÓN
 
@@ -357,13 +365,39 @@ VII. No haber sido dirigente nacional, estatal o municipal de partido o asociaci
 
 VIII. No desempeñar, ni haber desempeñado cargo de elección popular en los últimos seis años.
 
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2012)</small>
+
 ###### ARTÍCULO 22.
 
-El Presidente de la Comisión será designado por el Congreso, por mayoría de los legisladores presentes. Durará en su cargo un período de cinco años y no podrá ser reelecto. Solo podrá ser removido de sus funciones en los términos del Título Octavo de la Constitución Política del Estado Libre y Soberano de Nayarit.
+El Presidente de la Comisión será designado por el voto de las dos terceras partes de los miembros presentes de la Cámara de Diputados o, en sus recesos, por la Diputación Permanente, con la misma votación. Durará en su cargo cinco años, pudiendo ser reelecto por única vez por un período igual. Solo podrá ser removido de sus funciones en los términos del Título Octavo de la Constitución Política del Estado Libre y Soberano de Nayarit.
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 23.
 
-El proceso para la designación del Presidente de la Comisión dará inicio en la segunda quincena del mes de octubre del año correspondiente, y observará el procedimiento previsto en la Ley Orgánica del Poder Legislativo.
+El proceso para la designación del Presidente de la Comisión dará inicio en la segunda quincena del mes de octubre del año correspondiente, y observará el siguiente procedimiento:
+
+I.- El Congreso del Estado, a través de la Comisión de Justicia y Derechos Humanos, emitirá convocatoria pública dirigida preferentemente a los gremios, instituciones y profesionales con residencia en el Estado, para que acudan a presentar sus propuestas en lo particular de aspirantes al cargo de Presidente de la Comisión;
+
+II.- La convocatoria deberá ser publicada en la página oficial de internet del Congreso y en por lo menos dos diarios de mayor circulación en la entidad, cuando menos en tres ocasiones;
+
+III.- El plazo para recibir las propuestas no podrá ser menor a 15 días hábiles;
+
+IV.- Las propuestas que se reciban deberán acompañarse de la documentación que acredite el cumplimiento de los requisitos de elegibilidad previstos en el artículo 21 de esta Ley, así como de sus datos curriculares;
+
+V.- Cerrado el plazo para la recepción de propuestas, los expedientes serán turnados a la Comisión de Justicia y Derechos Humanos, a efecto de proceder a la revisión y determinar que participantes cumplen los requisitos y condiciones de elegibilidad, dentro de los 5 días siguientes a que se haya cerrado la convocatoria;
+
+VI.- La Comisión de Justicia y Derechos Humanos podrá solicitar la documentación o referencias adicionales que acrediten los datos registrados relativos al cumplimiento de los requisitos o comprobación de sus datos curriculares;
+
+VII.- La Comisión de Justicia y Derechos Humanos convocará a los participantes que hayan cumplido los requisitos de ley, para practicarles una entrevista, bajo las condiciones y modalidades que dicte mediante acuerdo de trámite;
+
+VIII.- Un vez agotado lo anterior, la Comisión de Justicia y Derechos Humanos deberá emitir su dictamen, dentro de los diez días hábiles siguientes a la realización de la última entrevista, en el que formulará la propuesta de un candidato;
+
+IX.- En caso de no aprobarse el candidato sometido a consideración de la Cámara de Diputados o de la Diputación Permanente, la propuesta será desechada y se devolverá a la Comisión de Justicia y Derechos Humanos, para que atendiendo las razones expuestas, emita un nuevo dictamen dentro del término de cinco días con una nueva propuesta, y
+
+X.- Toda la información que se derive del proceso de designación, se hará pública a través de la página de internet oficial del Congreso.
+
+Para el supuesto del derecho de reelección que le asiste al Presidente de la Comisión, este se sujetará al proceso de evaluación previsto en la ley de la materia.
 
 ###### ARTÍCULO 24.
 
@@ -451,9 +485,17 @@ XXXIII. Elaborar el proyecto de presupuesto de egresos de la Comisión y remitir
 
 XXXIV. Promover y fortalecer las relaciones de la Comisión, con dependencias, organismos e instituciones públicas, sociales o privadas, de carácter local, regional, nacional e internacional;
 
-XXXV. Aprobar las directrices generales a que se sujetará la práctica de auditorías, y
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2012)</small>
 
-XXXVI. Las demás que le señalen la presente ley, el reglamento u otras disposiciones aplicables.
+XXXV. Aprobar las directrices generales a que se sujetará la práctica de auditorías;
+
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2012)</small>
+
+XXXVI. Ser el conducto para solicitar, al Pleno de la Cámara de Diputados, o en sus recesos, a la Diputación Permanente que citen a las autoridades o servidores públicos que hayan sido señalados como responsables en las recomendaciones para que comparezcan a efecto de que expliquen el motivo de su negativa, y
+
+> <small>(ADICIONADA, P.O. 11 DE AGOSTO DE 2012)</small>
+
+XXXVII. Las demás que le señalen la presente ley, el reglamento u otras disposiciones aplicables.
 
 ###### ARTÍCULO 26.
 
@@ -515,9 +557,11 @@ V. No desempeñar cargo o comisión como servidor público federal, estatal o mu
 
 VI. No haber sido condenado por delito doloso que amerite pena de prisión de más de un año; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime la buena fama en concepto público, que inhabilite para el cargo, cualquiera que haya sido la pena.
 
-###### ARTICULO 35.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2012)</small>
 
-El proceso para la designación de los integrantes del Consejo de la Comisión, propietarios y suplentes, dará inicio en la segunda quincena del mes de octubre del año correspondiente, y observará el procedimiento previsto en la Ley Orgánica del Poder Legislativo.
+###### ARTÍCULO 35.
+
+El proceso para la designación de los integrantes del Consejo de la Comisión, propietarios y suplentes, dará inicio en la segunda quincena del mes de octubre del año correspondiente, y observará el procedimiento previsto en el artículo 23 de la presente Ley.
 
 Los consejeros durarán en su cargo cinco años y no podrán ser ratificados. Primeramente se designarán a seis que tendrán el carácter de titulares. Con base en la misma propuesta, se designará a dos consejeros que tendrán el carácter de suplentes, para cubrir las ausencias definitivas de los consejeros titulares.
 
@@ -1133,9 +1177,21 @@ El proyecto de recomendación será presentado al Visitador General para que és
 
 En caso de que se compruebe que las autoridades y/o servidores públicos no hayan cometido las violaciones de Derechos Humanos que se les hubiesen señalado, el visitador formulará el proyecto del acuerdo de no responsabilidad, mismo que turnará al Presidente.
 
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2012)</small>
+
 ###### ARTÍCULO 107.
 
-Una vez notificada la recomendación, la autoridad o el servidor público de que se trate, informará dentro de los diez días hábiles siguientes a su notificación, si acepta dicha recomendación. En otros diez días hábiles adicionales, entregará en su caso, las pruebas correspondientes de que ha cumplido con los puntos señalados en ella. Dicho plazo podrá ser ampliado cuando la naturaleza de la recomendación así lo amerite.
+Una vez notificada la recomendación, la autoridad o el servidor público de que se trate, informará dentro de los diez días hábiles siguientes a su notificación, si acepta dicha recomendación. En otros diez días hábiles adicionales, entregará en su caso, las pruebas correspondientes de que ha cumplido con los puntos señalados en ella. Dicho plazo podrá ser ampliado por diez días hábiles más cuando la naturaleza de la recomendación así lo amerite. La Comisión determinará si se han satisfecho los extremos de la resolución no jurisdiccional por la autoridad.
+
+En el caso de que la autoridad o el servidor público informen que no aceptan la recomendación, o en su caso, no han dado cumplimiento cabal a esta, éstos deberán fundar, motivar y hacer pública su negativa.
+
+En caso de negativa o ausencia de respuesta de conformidad a lo previsto por la ley, a solicitud del organismo, el servidor público o autoridad podrá ser llamado a comparecer ante el Congreso del Estado en los siguientes términos:
+
+I. Una vez formulada por parte de la Comisión, la solicitud para que se cite a comparecer al servidor público o autoridad responsable, el asunto será turnado a la Comisión de Justicia y Derechos Humanos para que dictamine lo conducente;
+
+II. La Comisión de Justicia y Derechos Humanos emitirá dictamen para poner a la consideración de la Asamblea Legislativa o Diputación Permanente, ante qué órgano de gobierno interior del Congreso deberá comparecer el servidor público o autoridad responsable para que personalmente justifique, funde y motive las razones de su negativa, y
+
+III. La modalidad y condiciones de la comparecencia será establecida mediante el acuerdo que se dicte para tal efecto.
 
 ###### ARTÍCULO 108.
 
@@ -1425,8 +1481,12 @@ Dip. Rafael Vega Herrera, Presidente.- Rúbrica.- Dip. Bertha Armida Arcadia Gó
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los catorce días del mes de agosto del año dos mil ocho.- Lic. Ney González Sánchez.- Rúbrica.- La Secretaria General de Gobierno, Profa. Cora Cecilia Pinedo Alonso.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 20 DE JULIO DE 2011.
 
 Artículo Único.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 11 DE AGOSTO DE 2012.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
