@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-del-programa-de-afinacion-controlada-para-el-11866"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-09-09"
-last_updated: "2006-08-01"
+last_updated: "2012-08-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11866&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # REGLAMENTO DEL PROGRAMA DE AFINACION CONTROLADA PARA EL ESTADO DE JALISCO
 
-REGLAMENTO DEL PROGRAMA DE AFINACION CONTROLADA PARA EL ESTADO DE JALISCO
+REGLAMENTO DEL PROGRAMA DE AFINACIÓN CONTROLADA PARA EL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE EN MATERIA DE PREVENCIÓN Y CONTROL DE EMISIONES POR FUENTES MÓVILES, PUBLICADO EN EL P.O. DE 11 DE AGOSTO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 9 de septiembre de 1997.
 
@@ -617,8 +619,24 @@ EL C. SECRETARIO GENERAL DE GOBIERNO
 
 LIC. RAÚL OCTAVIO ESPINOZA MARTÍNEZ
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 1 DE AGOSTO DE 2006.
 
 ÚNICO. EI presente acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 11 DE AGOSTO DE 2012.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abroga el Reglamento del Programa de Afinación Controlada para el Estado de Jalisco y se derogan las disposiciones administrativas que se opongan al presente Reglamento.
+
+TERCERO. Los talleres que previamente hayan recibido una acreditación serán considerados como pre-acreditados para tramitar su refrendo de la acreditación como establecimiento de verificación vehicular, bastando para ello llevar a cabo la actualización de su información en forma digital, en términos de este Reglamento y del manual técnico, en un plazo no mayor de seis meses a partir de la entrada en vigor del presente Reglamento.
+
+CUARTO. Las líneas móviles en operación tendrán un plazo de seis meses a partir de la entrada en vigor del presente Reglamento para cumplir con todas las especificaciones establecidas tanto en este ordenamiento como en el manual técnico para su operación.
+
+QUINTO. Los proveedores vigentes al momento de la publicación de este Reglamento contarán con un plazo no mayor de seis meses a partir de la publicación de este ordenamiento para obtener su registro de prestadores de servicio y la validación de sus equipos, así como cumplir con las disposiciones del presente Reglamento.
+
+SEXTO. Los auditores vigentes al momento de la publicación de este Reglamento contarán con un plazo no mayor de seis meses a partir de la entrada en vigor de este ordenamiento para obtener un registro ante la Secretaría incluyendo su registro ante la EMA.
+
+SÉPTIMO. Los procedimientos jurídicos administrativos que por los actos de inspección y vigilancia haya instaurado la Procuraduría antes de la entrada en vigor del presente Reglamento se seguirán sustanciando con las disposiciones legales aplicables al momento de su inicio.
