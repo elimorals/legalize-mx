@@ -4,7 +4,7 @@ identifier: "COL-ley-de-prevencion-y-readaptacion-social-para-el-estado-de-12433
 country: "mx"
 rank: "ley"
 publication_date: "1997-08-02"
-last_updated: "2011-11-07"
+last_updated: "2012-08-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY DE PREVENCION Y READAPTACION SOCIAL PARA EL ESTADO DE COLIMA
 
-LEY DE PREVENCION Y READAPTACION SOCIAL PARA EL ESTADO DE COLIMA
+LEY DE PREVENCIÓN Y READAPTACIÓN SOCIAL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DE LA LEY DE EJECUCIÓN DE PENAS Y MEDIDAS DE SEGURIDAD PARA EL ESTADO DE COLIMA, PUBLICADA EN EL P.O. DE 11 DE AGOSTO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 2 de agosto de 1997.
 
@@ -705,25 +707,25 @@ El patronato brindará asistencia a los liberados de otras entidades federativas
 
 Para el mejor logro de los fines, el Consejo Técnico de cada reclusorio, entrará en contacto con el organismo postinstitucional a través de la dirección del establecimiento penal, desde que el interno quede en libertad.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR ARTICULO QUINTO TRANSITORIO DE LA LEY QUE REGULA LA ATENCION Y PROTECCION A LA VICTIMA DEL DELITO EN EL ESTADO DE COLIMA, P.O. 23 DE SEPTIEMBRE DE 2006)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY QUE REGULA LA ATENCIÓN Y PROTECCIÓN A LA VÍCTIMA DEL DELITO EN EL ESTADO DE COLIMA, P.O. 23 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO VIII. DE LA ASISTENCIA A LAS VICTIMAS
 
 ###### ARTICULO 94.
 
-(DEROGADO POR ARTICULO QUINTO TRANSITORIO DE LA LEY QUE REGULA LA ATENCION Y PROTECCION A LA VICTIMA DEL DELITO EN EL ESTADO DE COLIMA, P.O. 23 DE SEPTIEMBRE DE 2006)
+(DEROGADO POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY QUE REGULA LA ATENCIÓN Y PROTECCIÓN A LA VÍCTIMA DEL DELITO EN EL ESTADO DE COLIMA, P.O. 23 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 95.
 
-(DEROGADO POR ARTICULO QUINTO TRANSITORIO DE LA LEY QUE REGULA LA ATENCION Y PROTECCION A LA VICTIMA DEL DELITO EN EL ESTADO DE COLIMA, P.O. 23 DE SEPTIEMBRE DE 2006)
+(DEROGADO POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY QUE REGULA LA ATENCIÓN Y PROTECCIÓN A LA VÍCTIMA DEL DELITO EN EL ESTADO DE COLIMA, P.O. 23 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 96.
 
-(DEROGADO POR ARTICULO QUINTO TRANSITORIO DE LA LEY QUE REGULA LA ATENCION Y PROTECCION A LA VICTIMA DEL DELITO EN EL ESTADO DE COLIMA, P.O. 23 DE SEPTIEMBRE DE 2006)
+(DEROGADO POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY QUE REGULA LA ATENCIÓN Y PROTECCIÓN A LA VÍCTIMA DEL DELITO EN EL ESTADO DE COLIMA, P.O. 23 DE SEPTIEMBRE DE 2006)
 
 ###### ARTICULO 97.
 
-(DEROGADO POR ARTICULO QUINTO TRANSITORIO DE LA LEY QUE REGULA LA ATENCION Y PROTECCION A LA VICTIMA DEL DELITO EN EL ESTADO DE COLIMA, P.O. 23 DE SEPTIEMBRE DE 2006)
+(DEROGADO POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY QUE REGULA LA ATENCIÓN Y PROTECCIÓN A LA VÍCTIMA DEL DELITO EN EL ESTADO DE COLIMA, P.O. 23 DE SEPTIEMBRE DE 2006)
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE FEBRERO DE 2007)</small>
 
@@ -755,7 +757,7 @@ Dado en Palacio de Gobierno, a los veinticuatro días del mes de julio de mil no
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. CARLOS DE LA MADRID VIRGEN.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. RAMON PEREZ DIAZ.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 28 DE MARZO DE 1998.
 
@@ -814,3 +816,37 @@ TERCERO.- Los procedimientos penales que se estén substanciando a la entrada en
 CUARTO.- El Gobierno Federal deberá financiar las acciones derivadas del cumplimiento del Decreto número 211, aprobado por el Congreso de la Unión, por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Salud, del Código Penal Federal y del Código Federal de Procedimientos Penales, publicado en el Diario Oficial de la Federación el 20 de agosto de 2009, con los recursos que anualmente se prevean en el Presupuesto de Egresos de la Federación, en términos del Artículo Cuarto Transitorio del citado Decreto.
 
 QUINTO.- Los Poderes Ejecutivo y Legislativo Estatales deberán prever y realizar las acciones necesarias para asegurar los recursos en el Presupuesto de Egresos del Estado, a fin de que las autoridades del fuero común puedan dar cumplimiento a la competencia y atribuciones establecidas en el Decreto número 211, referido en el artículo anterior.
+
+P.O. 11 DE AGOSTO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Los procedimientos penales iniciados con anterioridad a la entrada en vigor de la presente Ley o que se estén substanciando, se tramitarán hasta su conclusión y en su caso, ejecución de sanciones, conforme a las disposiciones vigentes al momento de la comisión de los hechos, excepto en los casos en que la presente Ley les resulte más benéfica.
+
+TERCERO.- Se abroga la Ley de Prevención y Readaptación Social para el Estado, contenida en el Decreto número 309, publicada en el Periódico Oficial "El Estado de Colima", de fecha 02 de agosto de 1997.
+
+CUARTO.- Se derogan todas las disposiciones legales que se opongan a la presente Ley.
+
+QUINTO.- Constituidos los Consejos Técnicos Interdisciplinarios, de cada Centro Regional, dispondrán de ciento ochenta días naturales para la elaboración de su reglamento interno.
+
+SEXTO.- Se Cambia el nombre de la Dirección General de Prevención y Readaptación Social, de la Secretaría de Seguridad Pública, con las facultades y obligaciones que esta Ley otorga, funciones que desempeñará a partir del día de inicio de la vigencia de esta Ley, por la Dirección General de Prevención y Reinserción Social.
+
+SÉPTIMO.- El Ejecutivo del Estado expedirá las disposiciones reglamentarias conducentes para la debida aplicación de esta Ley, dentro de los seis meses siguientes a la entrada en vigor de la misma.
+
+OCTAVO.- A las personas a las que se les impute la comisión o hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, incluidas las procesadas o sentenciadas, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido, o la presente Ley si es que les beneficia.
+
+NOVENO.- Los beneficios de libertad que se encuentren aplicando en la fecha de entrada en vigor de esta ley, continuarán en sus términos.
+
+La Secretaría de Seguridad Pública del Gobierno del Estado, dentro del término de 30 treinta días hábiles a partir de la entrada en vigor de esta ley deberá informar al Poder Judicial una relación de las personas que se encuentren en estos supuestos, con los datos correspondientes a las fechas de inicio y conclusión del beneficio otorgado, así como lo concerniente al domicilio señalado por el liberado como lugar de residencia, o el lugar en el que deba residir conforme a las (sic) determinación correspondiente.
+
+DÉCIMO.- Para el caso de que al momento de iniciar vigencia la presente Ley, la legislación Adjetiva Procesal Penal en la entidad no contenga el Sistema Acusatorio Adversarial para la totalidad de procesos penales, en todos aquellos casos cuya tramitación aún esté reservada al sistema Inquisitivo Tradicional, todas las referencias al juez de la causa, juez de Control, Tribunal de juicio oral y cualquier otra denominación que se otorgue a los impartidores de justicia de primera instancia en el texto de esta Ley, se entenderán hechas a los jueces de primera instancia en materia penal del sistema tradicional.
+
+En este caso, todos los trámites, procedimientos y recursos que esta Ley prevé deberán efectuarse con observancia de la misma y en audiencia pública, cuando proceda al tenor de lo en ella preceptuado, con excepción del registro de la misma por cualquier medio tecnológico, observando los principios de debido proceso, dignidad e igualdad, trato humano, ejercicio de derechos, jurisdiccionalidad, celeridad y oportunidad, inmediación, confidencialidad, resocialización, gobernabilidad y seguridad institucional. Verificada la audiencia incidental, el juez de ejecución deberá resolver dentro de un lapso máximo de tres días, valorando las pruebas conforme al Código de Procedimientos Penales en vigor de corte tradicional, citando para tales efectos a audiencia pública donde leerá el fallo correspondiente.
+
+En materia de recursos, lo referente al trámite del recurso de apelación deberá interponerse dentro del plazo previsto en esta Ley, contra los casos señalados en la misma, pero con las formalidades previstas en el Código de Procedimientos Penales vigente en el Estado.
+
+DÉCIMO PRIMERO.- Todo lo que se refiera al Nuevo Sistema de Justicia Penal Acusatorio Adversarial, entrará en vigor a partir del 03 de Diciembre del 2012.
+
+En el caso de que no se dieran las condiciones necesarias para la implantación del Nuevo Sistema de Justicia Penal en el Estado, en la fecha señalada en el párrafo anterior, se hará una declaratoria de ampliación del término para la entrada en vigor del mismo.
+
+DÉCIMO SEGUNDO.- Las obligaciones presupuestarias que se consignan en la presente Ley, serán obligatorias a partir del Presupuesto de Egresos correspondiente al ejercicio fiscal 2013.
