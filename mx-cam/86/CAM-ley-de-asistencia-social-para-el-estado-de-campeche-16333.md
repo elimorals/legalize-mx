@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-asistencia-social-para-el-estado-de-campeche-16333"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-06"
-last_updated: "2001-11-26"
+last_updated: "2012-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16333&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2001.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2012.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el jueves 6 de abril de 2000.
 
@@ -327,7 +327,13 @@ Los servicios de representación jurídica que para los efectos de esta ley se r
 
 XIV.- Apoyar el ejercicio de la Tutela de los Incapaces Legales, que corresponda al Estado, en los términos de la ley respectiva;
 
-XV.- Ejercitar ante el Ministerio Público o Juzgados del Ramo de lo familiar, acciones que estén a su alcance para proteger a la familia y los menores de edad que se vean afectados por algún delito o en el ámbito familiar en las materias que establece el Código Civil del Estado;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2012)</small>
+
+XV.- Ejercitar ante el Ministerio Público o Juzgados del Ramo de lo familiar, las acciones que estén a su alcance para proteger a la familia y a los menores de edad que se vean afectados por algún delito o, en el ámbito familiar, en relación a las materias que establece el Código Civil del Estado.
+
+Las acciones a las que se refiere el párrafo anterior se ejercitarán a través de la Procuraduría de la Defensa del Menor, la Mujer y la Familia del Sistema para el Desarrollo Integral de la Familia en el Estado; dicha Procuraduría tendrá el carácter de parte en todos los procedimientos jurisdiccionales en materia de pérdida de la patria potestad y adopción;
 
 XVI.- Poner a disposición del Ministerio Público los elementos a su alcance en la protección de incapaces legales y en los procedimientos civiles y familiares que les afecten, de acuerdo con las disposiciones legales correspondientes;
 
@@ -1035,10 +1041,20 @@ En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII d
 
 Dado en el Palacio de Gobierno del Estado, en Campeche a los cuatro días del mes de abril del año dos mil.- El Gobernador Constitucional del Estado, L.A. José Antonio González Curi.- El Secretario de Gobierno, Lic. Carlos Felipe Ortega Rubio.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 26 DE NOVIEMBRE DE 2001.
 
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 13 DE AGOSTO DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor a los seis meses después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los procedimientos relativos a las materias de adopción y pérdida de la patria potestad, iniciados antes de la entrada en vigor del presente decreto, se substanciarán y continuarán conforme a las disposiciones vigentes en el momento de su inicio.
+
+TERCERO.- El Pleno del H. Tribunal Superior de Justicia del Estado de Campeche realizará todas las acciones necesarias para la implementación de lo dispuesto en el presente decreto.
+
+CUARTO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al contenido de este decreto.
