@@ -4,7 +4,7 @@ identifier: "CAM-codigo-civil-del-estado-de-campeche-3363"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-10-17"
-last_updated: "2011-11-10"
+last_updated: "2012-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CÓDIGO CIVIL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2012.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 17 de octubre de 1942.
 
@@ -1859,7 +1859,7 @@ El divorcio sólo puede ser demandado por el cónyuge que no haya dado causa a �
 
 > <small>(F. DE E., P.O. 10 DE DICIEMBRE DE 2010)</small>
 
-Al admitir la demanda de divorcio, el juez dictará de inmediato las medidas provisionales y ordenará, con apercibimiento de ley, la celebración de una junta de avenio, en la que se exhortará, a los cónyuges a la reconciliación y les hará saber los efectos legales de la disolución del matrimonio y las consecuencias sociales de la desintegración de la familia.
+Al admitir la demanda de divorcio, el juez dictará de inmediato las medidas provisionales y ordenará, con apercibimiento de ley, la celebración de una junta de avenio, en la que exhortará, a los cónyuges a la reconciliación y les hará saber los efectos legales de la disolución del matrimonio y las consecuencias sociales de la desintegración de la familia.
 
 De no presentarse alguna de las partes, se aplicarán los medios de apremio, hasta lograr su comparecencia; excepto cuando se desconozca el domicilio del cónyuge demandado o cuando se haya invocado como causal de divorcio las previstas en las fracciones X y XXI del artículo 287 del presente ordenamiento.
 
@@ -2557,9 +2557,11 @@ De la Adopción en General.
 
 La adopción es un acto jurídico que por medio de una decisión judicial produce entre el adoptante y adoptado un vínculo de filiación al mismo tiempo que desaparecen, salvo excepciones los vínculos jurídicos entre el adoptado y su familia anterior. La adopción puede ser plena o simple. La adopción simple podrá convertirse en plena cuando llene los requisitos de ley.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1975)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-El mayor de veinticinco años, libre de matrimonio, en pleno ejercicio de sus derechos, puede adoptar uno o más menores o a un incapacitado, aún cuando éste sea mayor de edad, siempre que el adoptante tenga diecisiete años más que el adoptado y que acredite además:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE AGOSTO DE 2012)</small>
+
+La persona mayor de veinticinco años de edad, soltera, en pleno ejercicio de sus derechos, puede adoptar menores o incapacitados, aun cuando éstos sean mayores de edad, siempre que el adoptante tenga diecisiete años más que el adoptado, salvo que la adopción sea de menores abandonados o expósitos, en la que el adoptante deberá tener diez años más que el adoptado. Sin embargo, para los demás casos, a juicio del juez y previa motivación, se puede dispensar el requisito de la diferencia de edad, que no será menor de diez años, para atender al interés superior de la persona adoptada. La solicitud de adopción debe ser personal y directa, y se acreditará, además:
 
 > <small>(REFORMADA, P.O. 21 DE JUNIO DE 1975)</small>
 
@@ -2569,9 +2571,11 @@ I.- Que tiene medios bastantes para proveer a la subsistencia y educación del m
 
 II.- Que la adopción es benéfica para la persona que trata de adoptarse;
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 1975)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III.- Que el adoptante es persona de buenas costumbres. Cuando circunstancias especiales lo aconsejen, el juez puede autorizar la adopción de dos o más incapacitados o de menores e incapacitados simultáneamente;
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2012)</small>
+
+III.- Que el adoptante es persona de buenas costumbres;
 
 > <small>(ADICIONADA, P.O. 28 DE ABRIL DE 1981)</small>
 
@@ -2587,7 +2591,9 @@ En los casos de las fracciones III y V será acreditado mediante un estudio espe
 
 > <small>(ADICIONADO, P.O. 22 DE MAYO DE 2000)</small>
 
-Art. 406 A.- En toda adopción se deberá asegurar:
+###### Art. 406-A.
+
+En toda adopción se deberá asegurar:
 
 I.- Que las personas e Instituciones, cuyo consentimiento se requiera para la adopción, han sido convenientemente asesoradas y debidamente informadas de las consecuencias legales que la adopción implica y del consentimiento otorgado y en particular con la ruptura de los vínculos jurídicos entre el infante y su familia de origen;
 
@@ -2595,19 +2601,39 @@ II.- Que el consentimiento ha sido otorgado libremente y por escrito, sin que ha
 
 III.- Que el adoptante o los adoptados según el caso, han recibido la debida asesoría y capacitación sobre los alcances psíquicos, afectivos y jurídicos que la adopción implica.
 
-> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2000)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Art. 406 B.- Cuando se trate de hermanos o de cualquier otra circunstancia que lo aconseje el Juez puede autorizar la adopción de dos o más menores o incapacitados.
+###### Art. 406-B.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1981)</small>
+(DEROGADO, P.O. 13 DE AGOSTO DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2012)</small>
 
 ###### Art. 407.
 
-El marido y la mujer podrán adoptar, cuando los dos estén conformes en considerar al adoptado como hijo y aunque sólo uno de los cónyuges cumpla el requisito de edad a que se refiere el artículo anterior, pero siempre y cuando la diferencia de edad entre cualquiera de los adoptantes y el adoptado sea de diecisiete años cuando menos y cumpliendo lo que establece la fracción IV del artículo invocado.
+Los cónyuges podrán adoptar cuando los dos estén conformes en considerar al adoptado como hijo, aun cuando sólo uno de ellos cumpla con los requisitos de edad del adoptante y de diferencia de edad entre adoptante y adoptado a que se refiere el artículo 406, y se cumpla lo que establece la fracción IV del artículo invocado.
+
+Los concubinos podrán adoptar en las mismas circunstancias previstas en el párrafo anterior, si prueban en jurisdicción voluntaria haber cumplido los términos previstos en el Código de Procedimientos Civiles del Estado.
+
+En caso de separación de los concubinos, los hijos menores quedarán en los mismos términos que los previstos para el divorcio.
+
+Se planteará por la vía judicial el régimen de visitas que garantice la adecuada convivencia del padre o de la madre que no tenga la custodia del hijo.
 
 ###### Art. 408.
 
 Nadie puede ser adoptado por más de una persona, salvo en el caso previsto en el artículo anterior.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2012)</small>
+
+###### Art. 408-B.
+
+Un cónyuge puede adoptar a los hijos del otro y ambos ejercerán la patria potestad, siempre que quien autoriza la adopción tenga el ejercicio exclusivo de dicha potestad.
+
+Cuando se trate de hermanos, o de cualquier otra circunstancia que lo aconseje, el Juez puede autorizar la adopción de dos o más menores o incapacitados o menores e incapacitados, simultáneamente, a la misma persona o pareja de adoptantes.
 
 ###### Art. 409.
 
@@ -2657,19 +2683,25 @@ Si el menor que va a adoptar tiene más de catorce años, también se necesita s
 
 > <small>(ADICIONADO, P.O. 22 DE MAYO DE 2000)</small>
 
-Art. 413 A.- La persona que haya tenido al menor bajo su custodia y protección por un período de un año o más tendrá un derecho preferente para adoptar.
+###### Art. 413-A.
 
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2000)</small>
+La persona que haya tenido al menor bajo su custodia y protección por un período de un año o más tendrá un derecho preferente para adoptar.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2012)</small>
 
 ###### Art. 414.
 
-Si el tutor o el Ministerio Público sin causa justificada, no consienten en la adopción, podrá suplir el consentimiento el Gobernador del Estado, cuando encontrare que la adopción es notoriamente conveniente para los intereses morales y materiales del menor.
+Si el tutor o el Ministerio Público, sin causa justificada, no consiente en la adopción, el consentimiento lo podrá otorgar el Sistema para el Desarrollo Integral de la Familia del Estado, a través de la Procuraduría de la Defensa del Menor, la Mujer y la Familia, cuando la adopción sea notoriamente benéfica para los intereses del menor o del incapacitado que se pretende adoptar. El juez determinará sobre lo injustificado de la negativa y sobre la efectividad de los beneficios que se aleguen para el menor.
 
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2000)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2012)</small>
 
 ###### Art. 415.
 
-El procedimiento para hacer la adopción será fijado en el Código de Procedimientos Civiles y será parte el Sistema Estatal para el Desarrollo Integral de la Familia y se oirá al Ministerio Público.
+El procedimiento para la adopción será establecido en el Código de Procedimientos Civiles; serán partes la Procuraduría de la Defensa del Menor, la Mujer y la Familia del Sistema Estatal para el Desarrollo Integral de la Familia del Estado, y el Ministerio Público.
 
 > <small>(REFORMADO, P.O. 22 DE MAYO DE 2000)</small>
 
@@ -2775,11 +2807,13 @@ La adopción plena crea entre los adoptantes y el adoptado, los mismo (sic) dere
 
 El adoptado en forma plena se desvincula totalmente de su familia consanguínea, por lo que no le serán exigibles las obligaciones derivadas de este tipo de parentesco, ni tendrá derecho alguno respecto de esos mismos parientes, excepto en lo relativo a los impedimentos de matrimonio y los de sucesión legítima en su beneficio.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 22 DE MAYO DE 2000)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2012)</small>
 
 ###### Art. 426-C.
 
-Sólo podrán adoptar plenamente los cónyuges que vivan juntos y que además de cumplir con los artículos 406 y 407 de este código tengan más de cinco años de casados.
+Sólo podrán adoptar plenamente: los cónyuges que vivan juntos y los concubinos que, además, cumplan con los requisitos previstos en los artículos 406 y 407 de este Código.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 22 DE MAYO DE 2000)</small>
 
@@ -2789,9 +2823,23 @@ Pueden ser adoptados en forma plena:
 
 I.- Los menores de edad cuando sus padres declaren ante el Juez su Voluntad de otorgar este tipo de adopción, después de ser informados de sus consecuencias;
 
-II.- Los menores huérfanos, abandonados por más de seis meses y expósitos cualquiera que sea su edad;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III.- Los menores cuyos padres hubieren perdido la patria potestad por maltrato o abuso, siempre que no existen ascendientes que la ejerzan, o cuando hubiesen confiado al menor a una institución de Asistencia Social Pública o Privada, desentendiéndose injustificadamente de su atención por seis meses; y (sic)
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2012)</small>
+
+II.- Los menores huérfanos, los abandonados a los que se refiere el artículo 458 fracción V, y los expósitos, cualquiera que sea su edad;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2012)</small>
+
+III.- Los menores cuyos padres hubieren perdido la patria potestad, siempre que no exista quien la ejerza legalmente; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2012)</small>
+
+IV.- Los menores confiados a una Institución de asistencia social pública o privada, cuando sus padres o quien tenga la autorización legal sobre el menor, se hayan desentendido injustificadamente de ellos por más de sesenta días naturales. Se entenderá que se han desentendido, cuando los padres o quien tenga la autorización legal sobre el menor, no se hayan comunicado, por cualquier medio, con las instituciones de asistencia del caso, para cumplir con las obligaciones que para la entrega del menor hayan sido establecidas por la institución, a cargo de los padres o quien tenga la autorización legal sobre el menor, como condición para ser aceptado.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 22 DE MAYO DE 2000)</small>
 
@@ -2799,17 +2847,21 @@ III.- Los menores cuyos padres hubieren perdido la patria potestad por maltrato 
 
 La adopción plena es irrevocable. No puede terminar por acuerdo entre las partes, pero puede demandarse la pérdida de la patria potestad por las mismas causales que en la filiación biológica, o pedirse su nulidad cuando los padres adoptivos hayan ocultado de mala fe que el menor no había sido abandonado, sino víctima de cualquier delito contra la libertad.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 22 DE MAYO DE 2000)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2012)</small>
 
 ###### Art. 426-F.
 
-Los casos en que procede la adopción plena, deben ser constatados judicialmente y aún en los casos de abandono o exposición de infante, tiene que seguirse previamente un juicio de pérdida de la Patria Potestad, antes de dar en adopción al menor.
+Los casos en que procede la adopción plena deberán ser resueltos judicialmente. Deberá seguirse previamente un juicio de pérdida de la Patria Potestad antes de dar en adopción al menor, con excepción de los expósitos.
 
-> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2000)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2012)</small>
 
 ###### Art. 426-G.
 
-Cuando el Juez tenga duda o no juzgue conveniente otorgar la adopción plena, concederá a los solicitantes la adopción simple y la posibilidad de convertirla en plena pasado el término de dos años, si durante ese plazo se han cumplido cabalmente los requisitos de protección, afecto y educación del adoptado, según informe del Sistema Estatal para el Desarrollo integral de la Familia, y no ha sido impugnado hasta entonces la adopción.
+Cuando el Juez tenga duda o no juzgue conveniente otorgar la adopción plena, concederá a los solicitantes la adopción simple y la posibilidad de convertirla en plena pasado el término de un año, si durante ese plazo se han cumplido cabalmente los requisitos de protección, afecto y educación del adoptado, según informe de la Procuraduría de la Defensa del Menor, la Mujer y la Familia del Sistema para el Desarrollo Integral de la Familia del Estado, y no haya sido impugnada la adopción.
 
 > <small>(ADICIONADO, P.O. 22 DE MAYO DE 2000)</small>
 
@@ -3093,19 +3145,21 @@ I.- Cuando el que la ejerza es condenado expresamente a la pérdida de ese derec
 
 II.- (DEROGADA, P.O. 1 DE DICIEMBRE DE 2010)
 
-III.- Cuando por las costumbres depravadas de los padres, malos tratamientos o abandono de sus deberes, pudiera comprometerse la salud, la seguridad o la moralidad de los hijos, aun cuando esos hechos no cayeren bajo la sanción de la ley penal;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2000)</small>
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2012)</small>
 
-Así mismo cuando tolere que otras personas atenten o pongan en riesgo la integridad física o moral de los menores;
+III.- Cuando por las costumbres depravadas de los padres, malos tratos, abandono de sus deberes, violencia intrafamiliar, pudiera comprometerse la salud, la seguridad o la moralidad de los hijos, aun cuando esos hechos no cayeren bajo la sanción de la ley penal;
 
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2000)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV.- Por la exposición que el padre, la madre o ambos hicieran de sus hijos, o porque los dejen abandonados por más de seis meses, sin causa justificada.
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2012)</small>
 
-> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2000)</small>
+IV.- Por la exposición que el padre, la madre o ambos hicieran de sus hijos, o porque los dejen abandonados por más de sesenta días naturales, sin causa justificada.
 
-En los casos de adopción, tomando en consideración el interés superior del menor, acreditada por cualquier medio de prueba su situación de abandono, el Juez de lo familiar resolverá previamente la Pérdida de la Patria Potestad;
+Se considera expósito el menor de edad que es colocado en una situación de desamparo por quienes conforme a la Ley estén obligados a su custodia, protección y cuidado, y su origen no pueda determinarse. Cuando la situación de desamparo se refiere a un menor de edad cuyo origen se conoce, se considerará abandonado.
+
+En los casos de adopción, el Ministerio Público o la Procuraduría de la Defensa del Menor, la Mujer y la Familia ejercitarán la acción de pérdida de la patria potestad y acreditarán por cualquier medio de prueba el abandono. El juez de lo familiar resolverá lo conducente, para lo cual tomará en consideración el interés superior del menor. Se exceptúan de la disposición anterior los casos de menores expósitos.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3609,7 +3663,7 @@ IV.- Los que acojan a un expósito, lo alimenten y eduquen convenientemente, a n
 
 ###### Art. 534.
 
-Los comprendidos en la fracción I del artículo anterior, sólo estarán obligados a dar garantía cuando con posterioridad a su nombramiento haya sobrevenido causa ignorada por el testador que, a juicio del juez y previa audiencia del curador, haga necesaria aquella.
+Los comprendidos en la fracción I del artículo anterior, sólo estarán obligados a dar garantía cuando con posterioridad a su nombramiento haya sobrevenido causa ignorada por el testador que, a juicio del juez y previa audiencia del curador, haga necesaria aquélla.
 
 ###### Art. 535.
 
@@ -7723,7 +7777,7 @@ En el caso del artículo anterior, la elección es del que debe pagar el legado,
 
 ###### Art. 1365.
 
-Si el testador concede expresamente la elección al legatario, éste podrá, si hubiere varias cosas del género determinado, escoger la mejor, pero si no las hay, sólo podrá exigir una de mediana calidad o el precio que le corresponda.
+Si el testador concede expresamente la elección al legatario, éste podrá, si hubiere varias cosas del género determinado, escoger la mejor, pero si no las hay sólo podrá exigir una de mediana calidad o el precio que le corresponda.
 
 ###### Art. 1366.
 
@@ -16104,6 +16158,16 @@ P.O. 10 DE NOVIEMBRE DE 2011.
 PRIMERO.- El presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 13 DE AGOSTO DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor a los seis meses después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los procedimientos relativos a las materias de adopción y pérdida de la patria potestad, iniciados antes de la entrada en vigor del presente decreto, se substanciarán y continuarán conforme a las disposiciones vigentes en el momento de su inicio.
+
+TERCERO.- El Pleno del H. Tribunal Superior de Justicia del Estado de Campeche realizará todas las acciones necesarias para la implementación de lo dispuesto en el presente decreto.
+
+CUARTO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al contenido de este decreto.
 
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 207 POR EL QUE "ARTICULO UNICO.- ART. 2902".]
 
