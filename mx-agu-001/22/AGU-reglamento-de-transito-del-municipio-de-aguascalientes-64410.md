@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-transito-del-municipio-de-aguascalientes-64410"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-11-10"
-last_updated: "2008-11-10"
+last_updated: "2012-08-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64410&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "AGU"
 ---
 # REGLAMENTO DE TRANSITO DEL MUNICIPIO DE AGUASCALIENTES, AGUASCALIENTES
 
-REGLAMENTO DE TRANSITO DEL MUNICIPIO DE AGUASCALIENTES
+REGLAMENTO DE TRÁNSITO DEL MUNICIPIO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2012.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de noviembre de 2008.
 
@@ -45,13 +45,17 @@ REGLAMENTO DE TRÁNSITO DEL MUNICIPIO DE AGUASCALIENTES
 
 ### CAPÍTULO PRIMERO. Disposiciones Generales
 
-###### Artículo 1°.
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2012)</small>
 
-El presente Reglamento tiene por objeto establecer las normas a que están sujetos el tránsito y la vialidad dentro de la circunscripción territorial del Municipio de Aguascalientes, así como establecer los derechos, obligaciones y restricciones de los peatones y conductores de vehículos en la vía pública, además de la aplicación de las sanciones que correspondan por infracciones al mismo.
+###### Articulo 1°.
+
+El presente Reglamento tiene por objeto establecer las normas a que están sujetos el tránsito peatonal y vehicular dentro de la circunscripción territorial del Municipio de Aguascalientes, así como establecer los derechos, obligaciones y restricciones de los peatones, y conductores de vehículos en la vía pública; además de la aplicación de las sanciones que correspondan por infracciones al mismo.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 2°.
 
-El Presidente Municipal de Aguascalientes es la autoridad con atribuciones para ordenar la aplicación de las medidas necesarias para el debido cumplimiento del presente Reglamento, delegando tales atribuciones en el Secretario de Seguridad Pública y Tránsito Municipal.
+El Presidente Municipal de Aguascalientes es la autoridad con atribuciones para ordenar la aplicación de las medidas necesarias para el debido cumplimiento del presente Reglamento, delegando tales atribuciones en el Secretario de Seguridad Pública.
 
 ###### Artículo 3°.
 
@@ -93,7 +97,9 @@ II. Acotamiento: Faja comprendida entre la orilla de la superficie de rodamiento
 
 III. Alcoholímetro: Dispositivo para medir la cantidad de alcohol presente en el aire espirado por una persona;
 
-IV. Agente de tránsito: Es el servidor público que, debidamente acreditado como tal, uniformado, con placa y gafete de identificación visibles, se encarga de vigilar el tránsito y aplicar el presente Reglamento;
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2012)</small>
+
+IV. Integrante operativo: Es el personal operativo adscrito a la Dirección de Tránsito y Movilidad, que debidamente acreditado como tal, uniformado, con placa y gafete de identificación visibles, se encarga de vigilar el tránsito de peatones, semovientes y vehicular, así como de aplicar el presente Reglamento;
 
 V. Bahía: Espacio delimitado para el ingreso y salida de vehículos del transporte urbano colectivo, para el servicio de ascenso y descenso de pasaje, así como para estacionamiento de vehículos particulares cuando esté permitido;
 
@@ -109,11 +115,17 @@ X. Cruce: Intersección de un camino o una calle con otro;
 
 XI. Día de salario mínimo general vigente: El salario diario autorizado para la región por la Comisión Nacional de Salarios Mínimos, abreviándose "d. s. m. g. v.";
 
-XII. Dirección: La Dirección de Tránsito de la Secretaría de Seguridad Pública y Tránsito Municipal del Municipio de Aguascalientes;
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2012)</small>
 
-XIII. Director: El Director de Tránsito de la Secretaría de Seguridad Pública y Tránsito Municipal del Municipio de Aguascalientes;
+XII. Dirección: La Dirección de Tránsito y Movilidad de la Secretaría de Seguridad Pública del Municipio de Aguascalientes;
 
-XIV. Dispositivos para el control del tránsito: Las señales, marcas, semáforos y cualquier otro mecanismo que se coloca en la vía pública para prevenir, regular y ordenar a los usuarios de la misma;
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2012)</small>
+
+XIII. Director: El Director de Tránsito y Movilidad de la Secretaría de Seguridad Pública del Municipio de Aguascalientes;
+
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2012)</small>
+
+XIV Dispositivos para el control del tránsito: Las señales, marcas, semáforos y cualquier otro mecanismo o instrumento electrónico, fotográfico o de video que se coloca en la vía pública para prevenir, regular y ordenar a los usuarios de la misma, así como para verificar el cumplimiento de las Leyes, el Código Municipal de Aguascalientes, el presente Reglamento y demás disposiciones legales aplicables, y en su caso, imponer las sanciones previstas en los mismos.
 
 XV. Estado de ebriedad: Condición física y mental ocasionada por la ingesta de alcohol etílico que se presenta en una persona cuando su organismo contiene una cantidad de alcohol en la sangre superior a 0.8 gramos por litro o en aire espirado superior a 0.4 miligramos por litro;
 
@@ -147,9 +159,13 @@ XXIX. Reglamento: Conjunto de disposiciones jurídicas contenidas en el presente
 
 XXX. Reincidente: Persona que ha incurrido en más de una vez en alguna conducta que implica la infracción o el incumplimiento a un precepto del presente Reglamento;
 
-XXXI. Secretaría: La Secretaría de Seguridad Pública y Tránsito Municipal;
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2012)</small>
 
-XXXII. Secretario: El titular de la Secretaría de Seguridad Pública y Tránsito Municipal;
+XXXI. Secretaría: La Secretaría de Seguridad Pública del Municipio de Aguascalientes;
+
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2012)</small>
+
+XXXII. Secretario: El titular de la Secretaría de Seguridad Pública del Municipio de Aguascalientes;
 
 XXXIII. Sonómetro: Aparato normalizado que comprende un micrófono, un amplificador, redes de ponderación y un indicador de nivel, que se utiliza para la medida de los niveles de ruido según especificaciones determinadas;
 
@@ -159,7 +175,9 @@ XXXV. Terminal: Local o zona autorizada para maniobras de ascenso y descenso de 
 
 XXXVI. Tránsito: Acción o efecto de trasladarse por la vía pública y que se encuentra sujeto a este Reglamento en cuanto a su prevención, control y sanción en los términos que procedan;
 
-XXXVII. Vehículo abandonado: Aquel vehículo estacionado en la vía pública y que no haya sido movido por más de siete días, contados a partir de que se le dé aviso a la autoridad competente o el agente de tránsito se percató del vehículo y además, que muestre señales inequívocas de falta de aseo o compostura;
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2012)</small>
+
+XXXVII. Vehículo abandonado: Aquel vehículo estacionado en la vía pública y que no haya sido movido por más de siete días, contados a partir de que se le dé aviso a la autoridad competente o que el integrante operativo se haya percatado del vehículo y, además, que muestre señales inequívocas de falta de aseo o compostura.
 
 XXXVIII. Vehículo automotor: Artefacto que está dotado de medios de propulsión mecánicos propios, que sirve para transportar personas o cosas. Se entenderá como sinónimo el término "unidad";
 
@@ -235,7 +253,9 @@ XV. Otorgar permisos provisionales de circulación a vehículos de uso oficial y
 
 XVI. Resolver los casos no previstos en el presente Reglamento conforme a los ordenamientos jurídicos aplicables.
 
-Para el ejercicio de las atribuciones señaladas en el presente artículo, el Secretario, se auxiliará, en su caso, del Director y los agentes de tránsito que tenga adscritos.
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2012)</small>
+
+Para el ejercicio de las atribuciones señaladas en el presente artículo, el Secretario se auxiliará, en su caso, del Director y los integrantes operativos que tenga adscritos.
 
 ###### Artículo 7°.
 
@@ -259,7 +279,9 @@ VIII. Autorizar la ruta y horario para circulación y maniobras de los vehículo
 
 IX. Las demás que establece el presente Reglamento y otras disposiciones en la materia.
 
-Para el ejercicio de las atribuciones señaladas en el presente artículo, el Director, se auxiliará, en su caso, con los agentes de tránsito que tenga adscritos.
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2012)</small>
+
+Para el ejercicio de las atribuciones señaladas en el presente artículo, el Director se auxiliará, en su caso, con los integrantes operativos que tenga adscritos.
 
 ### CAPÍTULO SEGUNDO. De la Educación Vial
 
@@ -341,15 +363,19 @@ b) Pesados: Son todos aquellos que tienen capacidad de carga para más de 3500 k
 
 Se entiende por peso bruto vehicular, el peso real del vehículo expresado en kilogramos, sumado al de su máxima capacidad de carga conforme a las especificaciones del fabricante y al del tanque de combustible a toda su capacidad.
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 12.
 
-Cualquier vehículo que ostente razón social o logotipos de seguridad privada deberá contar con autorización y registro de las autoridades correspondientes, siendo obligatorio presentarlos al agente de tránsito que lo solicite.
+Cualquier vehículo que ostente razón social o logotipos de seguridad privada deberá contar con autorización y registro de las autoridades correspondientes, siendo obligatorio presentarlos al integrante operativo que lo solicite.
 
 ###### Artículo 13.
 
 Los vehículos de emergencia, así como los destinados al mantenimiento de los servicios públicos urbanos y de limpieza en la vía pública, deberán estar provistos de una lámpara cuyo giro sea de 360 grados y que proyecte una luz roja visible a una distancia no menor de 150 metros bajo la luz solar, en el caso de los primeros, y luz color ámbar, en los demás casos. La lámpara deberá ir montada en la parte más alta del vehículo. En caso de no contar con las especificaciones descritas anteriormente, el vehículo no podrá circular.
 
-Los conductores de vehículos de seguridad privada deberán atender todas las normas aplicables contenidas en este Reglamento. Sólo podrán hacer uso de la torreta o dispositivo luminoso especial cuando la circunstancia lo amerite, a juicio del agente de tránsito. En ningún caso, podrá hacer uso de sirenas.
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2012)</small>
+
+Los conductores de vehículos de seguridad privada deberán atender todas las normas aplicables contenidas en este Reglamento. Sólo podrán hacer uso de la torreta o dispositivo luminoso especial cuando la circunstancia lo amerite, a juicio del integrante operativo. En ningún caso, podrá hacer uso de sirenas.
 
 ### CAPÍTULO CUARTO. Del Control y Registro Vehicular
 
@@ -375,9 +401,11 @@ Con el objeto de hacer efectivas las disposiciones del presente capítulo, a tra
 
 Todo conductor deberá portar licencia de conducir vigente dentro de los límites del Municipio y deberá corresponder al tipo y categoría respecto al vehículo que se conduce. Su expedición queda sujeta a los requisitos que marca la Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 19.
 
-Los permisos de conducir para menores sólo serán válidos dentro del Municipio, en un horario de las 05:00 a las 23:00 horas, y podrán ser retenidos por los agentes de tránsito, quienes los remitirán para la suspensión o cancelación del mismo ante la autoridad que lo haya expedido, cuando el conductor incurra en los siguientes casos:
+Los permisos de conducir para menores sólo serán válidos dentro del Municipio, en un horario de las 5:00 a las 23:00 horas, y podrán ser retenidos por los integrantes operativos, quienes los remitirán para la suspensión o cancelación del mismo ante la autoridad que lo haya expedido, cuando el conductor incurra en los siguientes casos:
 
 I. Cuando se le detecte manejando en estado de ebriedad o aliento alcohólico, bajo el influjo de cualquier estupefaciente o incumpla con alguna de las obligaciones del conductor previstas en el artículo 44 del presente Reglamento, poniendo en peligro la vida de terceros o la propia;
 
@@ -385,7 +413,9 @@ II. Cuando participe en un accidente de tránsito y resulte responsable; o
 
 III. Cuando se le detenga manejando fuera del horario establecido en el presente artículo.
 
-Cuando el permiso de un menor haya sido retenido por el agente de tránsito, para ser liberado éste se necesitará la comparecencia, ante la Dirección, de los padres o el tutor del menor.
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2012)</small>
+
+Cuando el permiso de un menor haya sido retenido por el integrante operativo, para ser liberado aquél, se necesitará la comparecencia, de los padres o el tutor del menor ante la Dirección.
 
 ###### Artículo 20.
 
@@ -435,9 +465,11 @@ No obstante, se debe limitar la velocidad a veinticinco kilómetros por hora en 
 
 Queda prohibido transitar a velocidad tan baja que entorpezca o dificulte el tránsito, excepto en aquellos casos en que lo exijan las condiciones de las vías, del tránsito o de la visibilidad.
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 26.
 
-Todo usuario de la vía pública está obligado a obedecer las disposiciones contenidas en este Reglamento, así como los dispositivos para el control de tránsito y las indicaciones de los agentes de tránsito.
+Todo usuario de la vía pública está obligado a obedecer las disposiciones contenidas en el presente Reglamento, así como los dispositivos para el control de tránsito y las indicaciones de los integrantes operativos.
 
 ###### Artículo 27.
 
@@ -653,7 +685,9 @@ Los conductores tendrán las siguientes obligaciones:
 
 I. Portar la licencia de manejo o el permiso correspondiente y la tarjeta de circulación del vehículo que conduce, ambos vigentes y en original;
 
-II. Permitir al agente de tránsito o personal designado de la autoridad municipal su licencia de manejo o el permiso correspondiente y/o la tarjeta de circulación del vehículo, cuando se los soliciten. En caso de accidente o infracción, los documentos podrán ser retenidos por el agente de tránsito;
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2012)</small>
+
+II. Permitir al integrante operativo o personal designado de la autoridad municipal su licencia de manejo o el permiso correspondiente y/o la tarjeta de circulación del vehículo, cuando se los soliciten. En caso de accidente o infracción, los documentos podrán ser retenidos por el integrante operativo;
 
 III. Asegurarse del buen funcionamiento del vehículo, de manera que permita una adecuada circulación, y que cuente con sistemas de alumbrado, frenos, aditamentos y demás características y condiciones de seguridad, que conforme a las especificaciones técnicas y legales corresponda a cada tipo de vehículo y servicio que en él se preste. De igual forma, está obligado a constatar que el vehículo no tenga los cristales polarizados u obscurecidos del parabrisas o cualquiera de los vidrios, salvo cuando éstos vengan instalados de fábrica, de acuerdo con las normas expedidas por la autoridad federal correspondiente;
 
@@ -679,9 +713,13 @@ XIII. Reducir la velocidad ante cualquier concentración de peatones o vehículo
 
 XIV. Conducir el vehículo con toda precaución, siendo cortés con otros automovilistas, ciclistas, motociclistas y peatones;
 
-XV. Hacer alto total cuando lo indique un semáforo, un agente de tránsito, cualquier señal o dispositivo colocado en la vía pública o como resultado de las obligaciones y reglas para conducir que se desprendan de este Reglamento;
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2012)</small>
 
-XVI. Obedecer y respetar las indicaciones de los agentes de tránsito con el objetivo de normar la vialidad. En los cruceros controlados por agentes de tránsito, prevalecerán las indicaciones de éstos sobre las de los semáforos y todos los demás dispositivos viales; y
+XV. Hacer alto total cuando lo indique un semáforo, un integrante operativo, cualquier señal o dispositivo colocado en la vía pública o como resultado de las obligaciones y reglas para conducir que se desprendan del presente Reglamento;
+
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2012)</small>
+
+XVI. Obedecer y respetar las indicaciones de los integrantes operativos con el objetivo de normar la vialidad. En los cruceros controlados por integrantes, operativos, prevalecerán las indicaciones de éstos sobre las de los semáforos y todos los demás dispositivos viales; y
 
 XVII. Las demás que se establezcan en el presente Reglamento y demás ordenamientos aplicables.
 
@@ -723,7 +761,9 @@ XVI. Pasar sobre las boyas que dividan carriles dentro de una vialidad;
 
 XVII. Exceder el volumen permitido en altoparlantes, estéreos y radios, de sesenta y ocho decibeles entre las 6:00 y las 22:00 horas y de sesenta y cinco decibeles entre las 22:00 y las 6:00 horas, de conformidad con la Norma Oficial Mexicana número NOM-081-ECOL-1994;
 
-XVIII. Intentar ofrecer alguna cantidad de dinero o cualquier tipo de favor a algún agente de tránsito a efecto de no ser infraccionado; y
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2012)</small>
+
+XVIII. Intentar ofrecer alguna cantidad de dinero o cualquier tipo de favor a algún integrante operativo a efecto de no ser infraccionado; y
 
 XIX. Las demás que se establezcan en el presente Reglamento.
 
@@ -807,9 +847,13 @@ Son obligaciones del peatón las siguientes:
 
 I. En las avenidas y calles, deberá cruzar por los puentes peatonales, a falta de éstos, por las esquinas o zonas marcadas para tal efecto;
 
-II. En intersecciones no controladas por semáforos, agentes de tránsito o zonas marcadas, deberá cruzar únicamente después de haberse cerciorado que puede hacerlo con toda seguridad;
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2012)</small>
 
-III. Obedecer las respectivas indicaciones para atravesar la vía pública controlada por semáforos o agentes de tránsito;
+II. En intersecciones no controladas por semáforos, integrantes operativos o zonas marcadas, deberá cruzar únicamente después de haberse cerciorado que puede hacerlo con toda seguridad;
+
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2012)</small>
+
+III. Obedecer las respectivas indicaciones para atravesar la vía pública controlada por semáforos o integrantes operativos;
 
 IV. Transitar por la acera, banqueta o acotamiento y, a falta de éstos, por la orilla de la vía, procurando hacerlo de frente al tránsito vehicular; y
 
@@ -877,7 +921,9 @@ VII. Distraer al conductor;
 
 VIII. Operar los dispositivos del control del vehículo;
 
-IX. Interferir en las funciones de los agentes de tránsito;
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2012)</small>
+
+IX. Interferir en las funciones de los integrantes operativos;
 
 X. Viajar en lugares destinados para carga o fuera del vehículo;
 
@@ -1011,7 +1057,9 @@ I. Sujetarse estrictamente a las rutas y los itinerarios de carga y descarga aut
 
 II. Abstenerse de realizar paradas que no estén señaladas en la operación del servicio.
 
-En caso de congestionamiento vehicular que interrumpa la circulación, el conductor deberá solicitar a los agentes de tránsito prioridad para continuar su marcha, mostrándoles la documentación que ampare el riesgo sobre el producto que transporta.
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2012)</small>
+
+En caso de congestionamiento vehicular que interrumpa la circulación, el conductor deberá solicitar a los integrantes operativos prioridad para continuar su marcha, mostrándoles la documentación que ampare el riesgo sobre el producto que transporta.
 
 ###### Artículo 66.
 
@@ -1033,9 +1081,11 @@ IV. Realizar maniobras de carga y descarga en lugares inseguros y no destinados 
 
 Cuando por alguna circunstancia de emergencia se requiera estacionar el vehículo que transporte sustancias tóxicas o peligrosas en la vía pública u otra fuente de riesgo, el conductor deberá asegurarse de que la carga esté debidamente protegida y señalizada, a fin de evitar que personas ajenas a la transportación manipulen el equipo o la carga. Cuando lo anterior suceda en horario nocturno, el conductor deberá colocar triángulos de seguridad o cualquier otro tipo de señal de advertencia, tanto en la parte delantera como trasera de la unidad, a una distancia de 100 metros, que permita a otros conductores tomar las precauciones necesarias.
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 69.
 
-Los equipos manuales de reparto de carga y los de venta ambulante de productos, provistos de ruedas, cuya tracción no requiera más de una persona, podrán circular sobre la superficie de rodamiento, haciéndolo lo más cerca posible a la banqueta y en el mismo sentido de la circulación. Estos equipos sólo podrán realizar carga y maniobras en las vías secundarias y siempre que no obstruyan la circulación, de lo contrario los agentes de tránsito podrán retirarlos de la circulación.
+Los equipos manuales de reparto de carga y los de venta ambulante de productos, provistos de ruedas, cuya tracción no requiera más de una persona, podrán circular sobre la superficie de rodamiento, haciéndolo lo más cerca posible a la banqueta y en el mismo sentido de la circulación. Estos equipos sólo podrán realizar carga y maniobras en las vías secundarias y siempre que no obstruyan la circulación, de lo contrario los integrantes operativos podrán retirarlos de la circulación.
 
 ### CAPÍTULO DÉCIMO CUARTO. De la Protección a Escolares
 
@@ -1043,7 +1093,9 @@ Los equipos manuales de reparto de carga y los de venta ambulante de productos, 
 
 El ascenso y descenso de escolares que se transporten en vehículos, se realizará a la orilla de las banquetas, en las inmediaciones de su plantel y en los lugares previamente autorizados.
 
-Los agentes de tránsito deberán proteger el tránsito de los escolares en las inmediaciones de su plantel, mediante los dispositivos e indicaciones establecidas, y en los horarios respectivos.
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2012)</small>
+
+Los integrantes operativos deberán proteger el tránsito de los escolares en las inmediaciones de su plantel, mediante los dispositivos e indicaciones establecidas, y en los horarios respectivos.
 
 ###### Artículo 71.
 
@@ -1053,9 +1105,11 @@ Los auxiliares voluntarios son maestros o padres de familia, debidamente reconoc
 
 Los auxiliares voluntarios podrán proteger el paso de escolares en las inmediaciones de un plantel educativo, haciendo los señalamientos adecuados a los conductores de los vehículos que transiten por el lugar.
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 73.
 
-Los conductores de vehículos que transiten en zona escolar, deberán disminuir la velocidad a un máximo de veinticinco kilómetros por hora y extremar precauciones, obedeciendo las señales de protección y las indicaciones de los agentes de tránsito o, en su caso, de los auxiliares voluntarios de tránsito, en los términos del artículo 25 del presente Reglamento.
+Los conductores de vehículos que transiten en zona escolar, deberán disminuir la velocidad a un máximo de veinticinco kilómetros por hora y extremar precauciones, obedeciendo las señales de protección y las indicaciones de los integrantes operativos o, en su caso, de los auxiliares voluntarios de tránsito, en los términos del artículo 25 del presente Reglamento.
 
 ###### Artículo 74.
 
@@ -1127,7 +1181,9 @@ Para los efectos del presente Reglamento, las señales y dispositivos para el co
 
 I. Señales Humanas:
 
-a) Las que hacen los agentes de tránsito, auxiliares voluntarios de tránsito, trabajadores de vías públicas y guardavías para dirigir y controlar la circulación, que serán las siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE AGOSTO DE 2012)</small>
+
+a) Las que hacen los integrantes operativos, auxiliares voluntarios de tránsito, trabajadores de vías públicas y guardavías para dirigir y controlar la circulación, que serán las siguientes:
 
 1. Siga: Cuando se encuentren dando cualquier perfil hacia la circulación y los conductores de vehículos pueden iniciar la marcha en el sentido que indiquen éllos;
 
@@ -1179,7 +1235,9 @@ b) Las torretas o faros utilizados por vehículos de emergencia, de servicio y d
 
 c) Las que se utilizan para avisar la proximidad o el paso de vehículos sobre rieles.
 
-IV. Señales sonoras: Son aquellas emitidas con silbato por los agentes de tránsito o los auxiliares voluntarios de tránsito. Los toques de silbato indican lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE AGOSTO DE 2012)</small>
+
+IV. Señales sonoras: Son aquellas emitidas con silbato por los integrantes operativos o los auxiliares voluntarios de tránsito. Los toques de silbato indican lo siguiente:
 
 a) Un toque corto: Alto;
 
@@ -1205,7 +1263,9 @@ c) Las banderolas, reflejantes u otros dispositivos que deben usar los conductor
 
 VI. Señales especiales para protección de obras: Son aquellos elementos diseñados para informar, advertir y proteger a conductores, peatones y obreros de las zonas donde se desarrollan obras de construcción, mantenimiento, reparación y cualquier otra actividad para los servicios públicos en las vías de circulación. Estas señales pueden ser: preventivas, restrictivas e informativas, de acuerdo a lo que considere necesario la dependencia correspondiente;
 
-VII. Dispositivos de verificación: Son aquellos dispositivos electrónicos para la verificación del cumplimiento de las normas del presente Reglamento y la aplicación de las sanciones por infracción al mismo.
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2012)</small>
+
+VII. Dispositivos de verificación: Son aquellos dispositivos electrónicos, fotográficos o de video, para la verificación del cumplimiento de las normas del presente Reglamento y la aplicación de las sanciones por infracción al mismo.
 
 ###### Artículo 88.
 
@@ -1305,15 +1365,19 @@ VI. Retirar el o los vehículos accidentados para despejar la vía, una vez que 
 
 La responsabilidad civil de los implicados será independiente a la responsabilidad penal en que pudieran incurrir.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 95.
 
-En caso de que en un accidente de tránsito sólo hubiere daños materiales a la propiedad privada y los involucrados estuvieren de acuerdo en la forma de reparación de los mismos, se asentará en el acta la manifestación expresa de las partes de que no existen personas lesionadas. Bajo estas condiciones, ningún agente de tránsito puede remitirlos ante las autoridades. Dicha circunstancia no operará si el conductor se encuentra bajo los efectos del alcohol o de estupefacientes o que se causen daños a la propiedad federal, estatal o municipal. El lapso máximo que el agente de tránsito puede poner a disposición de las personas involucradas para llegar al mencionado acuerdo, en todos los casos, será de treinta minutos, a partir de que el agente de tránsito haya invitado a los conductores a llegar a un acuerdo.
+En caso de que en un accidente de tránsito sólo hubiere daños materiales a la propiedad privada y los involucrados estuvieren de acuerdo en la forma de reparación de los mismos, se asentará en el acta la manifestación expresa de las partes de que no existen personas lesionadas. Bajo estas condiciones, ningún integrante operativo puede remitirlos ante las autoridades. Dicha circunstancia no operará si el conductor se encuentra bajo los efectos del alcohol o de estupefacientes o que se causen daños a la propiedad federal, estatal o municipal. El lapso máximo que el integrante operativo puede poner a disposición de las personas involucradas para llegar al mencionado acuerdo, en todos los casos, será de treinta minutos, a partir de que el integrante operativo haya invitado a los conductores a llegar a un acuerdo.
 
 No obstante, los vehículos serán retirados del lugar, a fin de no obstruir la circulación. El trámite referido se hará sin mayor demora, lo que no será impedimento para que se apliquen las infracciones correspondientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 96.
 
-La atención e investigación de los accidentes viales se hará, en primer lugar, por el personal designado por la Dirección, antes de cualquier otra autoridad. El agente de tránsito que atienda un incidente vial, deberá cumplir con lo siguiente:
+La atención e investigación de los accidentes viales se hará, en primer lugar, por el personal designado por la Dirección, antes de cualquier otra autoridad. El integrante operativo que atienda un incidente vial, deberá cumplir con lo siguiente:
 
 I. Tomar las medidas necesarias y solicitar apoyo de la dependencia correspondiente, a fin de evitar un nuevo incidente y agilizar la circulación;
 
@@ -1323,7 +1387,9 @@ III. En caso de que haya lesionados, solicitará o prestará auxilio inmediato s
 
 IV. Abordará al (os) conductor (es) haciendo lo siguiente:
 
-a) Se identificará proporcionando nombre y número de agente;
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2012)</small>
+
+a) Se identificará proporcionando nombre y número del integrante operativo;
 
 b) Solicitará información de los hechos ocurridos;
 
@@ -1365,15 +1431,21 @@ e) Las huellas o residuos dejados sobre el pavimento o la superficie de rodamien
 
 f) Los nombres y orientación de las calles, así como el nombre del fraccionamiento o colonia en donde se produce el accidente vial;
 
-g) Nombre y firma del agente de tránsito, así como de los conductores que intervinieron en el accidente vial, si se encuentran en posibilidad física y disponibilidad para hacerlo; y
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2012)</small>
+
+g) Nombre y firma del integrante operativo, así como de los conductores que intervinieron en el accidente vial, si se encuentran en posibilidad física y disponibilidad para hacerlo; y
 
 h) Una vez terminados el acta y el croquis, deberán ser revisados por sus superiores y remitidos o consignados según corresponda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 97.
 
-Solamente el agente de tránsito o sus superiores, asignados para la atención de un accidente vial, pueden disponer la movilización de los vehículos participantes en el mismo, excepto cuando el no hacerlo, por otra persona, pudiese provocar otro accidente.
+Solamente el integrante operativo o sus superiores, asignados para la atención de un accidente vial, pueden disponer la movilización de los vehículos participantes en el mismo, excepto cuando el no hacerlo, por otra persona, pudiese provocar otro accidente.
 
-Cuando resulten daños a bienes de la Nación, el Estado o el Municipio, el agente de tránsito dará aviso a la autoridad competente para que tenga conocimiento de ello y se comunique, a su vez, los hechos a las dependencias cuyos bienes hayan sido afectados, para los efectos procedentes.
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2012)</small>
+
+Cuando resulten daños a bienes de la Nación, el Estado o el Municipio, el integrante operativo dará aviso a la autoridad competente para que tenga conocimiento de ello y se comunique, a su vez, los hechos a las dependencias cuyos bienes hayan sido afectados, para los efectos procedentes.
 
 Cuando se ocasionen daños a bienes de propiedad municipal, el infractor deberá cubrir los gastos necesarios para resarcir el daño conforme al avalúo que emita la autoridad competente. Sin cubrir este requisito, el vehículo remitido a la pensión municipal no será liberado.
 
@@ -1405,7 +1477,9 @@ Una vez que el Juez Municipal tenga conocimiento de un hecho vial en el que exis
 
 Si alguna de las partes cuenta con seguro de responsabilidad civil, éstas se podrán hacer acompañar, en la audiencia, por el ajustador o responsable de hechos viales o accidentes de la compañía de seguros contratada, si así lo determinan.
 
-En la audiencia, las partes señalarán claramente los puntos esenciales de la controversia, de lo cual tomará nota el Juez Municipal, quien además expondrá a las partes, basándose en los testimonios recabados y el informe presentado por el agente de tránsito, las causas que, a su juicio, originaron el accidente vial de que se trata y los exhortará a llegar a un arreglo proponiendo una o varias opciones de solución.
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2012)</small>
+
+En la audiencia, las partes señalarán claramente los puntos esenciales de la controversia, de lo cual tomará nota el Juez Municipal, quien además expondrá a las partes, basándose en los testimonios recabados y el informe presentado por el integrante operativo, las causas que, a su juicio, originaron el accidente vial de que se trata y los exhortará a llegar a un arreglo proponiendo una o varias opciones de solución.
 
 ###### Artículo 101.
 
@@ -1427,21 +1501,31 @@ Los operadores de vehículos destinados al servicio de transporte de pasajeros, 
 
 A todos los conductores de vehículos a quienes se les encuentre cometiendo actos que violen las disposiciones del presente Reglamento y muestren síntomas de que conducen en estado de ebriedad, en estado de ineptitud para conducir o bajo el influjo de estupefacientes, se les solicitará que se practiquen las pruebas para la detección del grado de intoxicación por el médico autorizado por la Dirección de Justicia Municipal, ante el cual sean presentados, o por personal autorizado para tal efecto.
 
-Los agentes de tránsito pueden detener la marcha de un vehículo cuando la Secretaría establezca y lleve a cabo programas de prevención y control en la ingestión de alcohol o estupefacientes por conductores de vehículos. Estos programas se implementarán de forma aleatoria y sin previo aviso o necesidad de publicidad, teniendo la Secretaria o, en su caso, la Dirección la facultad de determinar, de manera discrecional, los puntos de revisión.
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2012)</small>
+
+Los integrantes operativos pueden detener la marcha de un vehículo cuando la Secretaría establezca y lleve a cabo programas de prevención y control en la ingestión de alcohol o estupefacientes por conductores de vehículos. Estos programas se implementarán de forma aleatoria y sin previo aviso o necesidad de publicidad, teniendo la Secretaria o, en su caso, la Dirección la facultad de determinar, de manera discrecional, los puntos de revisión.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 105.
 
-Cuando los agentes de tránsito cuenten con dispositivos oficiales de detección de alcohol o de estupefacientes, se procederá como sigue:
+Cuando los integrantes operativos cuenten con dispositivos oficiales de detección de alcohol o de estupefacientes, se procederá como sigue:
 
 I. Los conductores se someterán, de manera voluntaria, a las pruebas para la detección del grado de intoxicación que establezca la Secretaría y, en específico, a la prueba de alcohol en aire espirado. Cuando la prueba arroje un resultado que sobrepase el límite permitido por el artículo 103 del presente Reglamento, podrá realizarse una segunda prueba con quince minutos de separación entre una y otra;
 
-II. El agente entregará un ejemplar del comprobante de los resultados de la prueba al conductor, inmediatamente después de su realización;
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2012)</small>
+
+II. El integrante operativo entregará un ejemplar del comprobante de los resultados de la prueba, al conductor, inmediatamente después de su realización.
 
 III. En caso de así solicitarlo el conductor, se realizará una prueba de sangre para detectar la cantidad de alcohol en la misma y, en su caso, el uso de estupefacientes. Dicha prueba deberá efectuarse por el médico autorizado por la Dirección de Justicia Municipal y, como máximo, treinta minutos después de la última prueba de alcohol en aire espirado realizada;
 
-IV. En caso de que el conductor sobrepase el límite permitido por el artículo 103 del presente Reglamento, será remitido al Juez Municipal, el cual impondrá las sanciones que correspondan. El vehículo será asegurado y trasladado a la pensión municipal, salvo en los casos en que se encuentre presente alguna persona que demuestre una relación de afinidad con el conductor y declare su voluntad de llevarse el vehículo en carácter de depositario, haciéndose responsable de cualquier posible daño ocasionado al mismo. El agente de tránsito deberá constatar que el depositario cuente con licencia de conducir vigente y que, en ningún caso, sobrepase el límite de alcohol permitido o se encuentre bajo la influencia de alguna droga o estupefaciente. Asentando lo anterior, en el acta circunstanciada que para tal efecto se emita;
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2012)</small>
 
-V. El agente de tránsito entregará un ejemplar del comprobante de los resultados de la prueba al Juez Municipal ante el cual sea presentado, documento que constituirá prueba fehaciente de la cantidad de alcohol encontrado y servirá de base para el dictamen del médico que determine el tiempo probable de recuperación;
+IV. En caso de que el conductor sobrepase el límite permitido por el artículo 103 del presente Reglamento, será remitido al Juez Municipal, el cual impondrá las sanciones que correspondan. El vehículo será asegurado y trasladado a la pensión municipal, salvo en los casos en que se encuentre presente alguna persona que demuestre una relación de afinidad con el conductor y declare su voluntad de llevarse el vehículo en carácter de depositario, haciéndose responsable de cualquier posible daño ocasionado al mismo. El integrante operativo deberá constatar que el depositario cuente con licencia de conducir vigente y que, en ningún caso, sobrepase el límite de alcohol permitido o se encuentre bajo la influencia de alguna droga o estupefaciente. Asentando lo anterior, en el acta circunstanciada que para tal efecto se emita.
+
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2012)</small>
+
+V. El integrante operativo entregará un ejemplar del comprobante de los resultados de la prueba al Juez Municipal ante el cual sea presentado, documento que constituirá prueba fehaciente de la cantidad de alcohol encontrado y servirá de base para el dictamen del médico que determine el tiempo probable de recuperación.
 
 VI. Una vez remitido ante el Juez Municipal, éste decretará las medidas de seguridad pertinentes, de acuerdo al grado de ebriedad del infractor, ordenando el traslado del infractor a un lugar habilitado para la estancia y observación de éste, hasta que se encuentre en condiciones aptas para ejercer su garantía de audiencia. Dichas medidas tienen como objeto resguardar la integridad física de la población en general, así como la del infractor. Para lo anterior, se estará a lo dispuesto por el artículo 321 del Código Municipal de Aguascalientes;
 
@@ -1487,25 +1571,37 @@ Para la aplicación de las sanciones por la falta de cumplimiento a la fracción
 
 ### CAPÍTULO VIGÉSIMO PRIMERO. Del Procedimiento en Caso de Infracciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 110.
 
-La vigilancia del tránsito y la aplicación del presente Reglamento quedan a cargo de la autoridad municipal, que será el Presidente Municipal, a través de la Secretaría de Seguridad Pública y Tránsito Municipal.
+La vigilancia del tránsito y la aplicación del presente Reglamento quedan a cargo de la autoridad municipal, que será el Presidente Municipal, a través de la Secretaría.
 
-El Presidente Municipal, a través de la Secretaría, estará facultado para establecer, dirigir y vigilar diversos programas relativos a la implementación de agentes de tránsito encubiertos. Las bases y lineamientos bajo los que operarán este tipo de dispositivos, se emitirán mediante decreto que acuerde lo conducente, publicándose éste en el Periódico Oficial del Estado de Aguascalientes.
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2012)</small>
+
+El Presidente Municipal, a través de la Secretaría, estará facultado para establecer, dirigir y vigilar diversos programas relativos a la implementación de integrantes operativos encubiertos: Las bases y lineamientos bajo los que operarán este tipo de dispositivos, se emitirán mediante decreto que acuerde lo conducente, publicándose éste en el Periódico Oficial del Estado de Aguascalientes.
 
 En la aplicación y verificación del cumplimiento de las normas de este ordenamiento, deberá observarse el siguiente procedimiento:
 
-I. Cuando los agentes de tránsito detecten la comisión de una infracción, deberán cumplir con las siguientes formalidades:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE AGOSTO DE 2012)</small>
+
+I. Cuando los integrantes operativos detecten la comisión de una infracción, deberán cumplir con las siguientes formalidades:
 
 a) Utilizando el silbato, altoparlante, manual y/o verbalmente, se indicará al conductor que se detenga;
 
-b) Se le indicará que el vehículo sea estacionado en lugar seguro. En todo momento, el vehículo quedará estacionado por delante de la unidad en que se transporte el agente de tránsito, en relación al sentido de la vialidad;
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2012)</small>
+
+b) Se le indicará que el vehículo sea estacionado en lugar seguro. En todo momento, el vehículo quedará estacionado por delante de la unidad en que se transporte el integrante operativo, en relación al sentido de la vialidad;
 
 c) Se abordará al infractor de una manera cortés, dando su nombre y número de expediente;
 
-d) Se solicitará, la licencia de manejo del conductor y la tarjeta de circulación del vehículo, documentos que serán exhibidos al agente de tránsito para su revisión;
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2012)</small>
 
-e) Se levantará la boleta de infracción, con la descripción de los hechos, asentándolo así en la boleta, ya sea de forma manuscrita o mediante equipo electrónico. Para tal efecto, el agente de tránsito podrá contar con un dispositivo electrónico de lectura del código de barras colocado en las placas, con lo cual quedará el registro del historial de las infracciones cometidas en el sistema de datos con que cuente la Dirección. Posteriormente, le entregará físicamente una copia de la boleta al infractor, señalándole la falta cometida y señalando el (los) artículo (s) de la Ley y/o del Reglamento que la fundamenta. La boleta de infracción no se considerará un acto definitivo en materia administrativa;
+d) Se solicitará, la licencia de manejo del conductor y la tarjeta de circulación del vehículo, documentos que serán exhibidos al integrante operativo para su revisión;
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2012)</small>
+
+e) Se levantará la boleta de infracción, con la descripción de los hechos, asentándolo así en la boleta; ya sea de forma manuscrita o mediante equipo electrónico. Para tal efecto, el integrante operativo podrá contar con un dispositivo electrónico de lectura del código de barras colocado en las placas, con lo cual quedará el registro del historial de las infracciones cometidas en el sistema de datos con que cuente la Dirección. Posteriormente, le entregará físicamente una copia de la boleta al infractor, señalándole la falta cometida y asentando el(los) artículo(s) de la Ley y/o del Reglamento que la fundamenta. La boleta de infracción no se considerará un acto definitivo en materia administrativa;
 
 f) Se entregará la boleta de infracción al Juez Municipal para que éste, dentro de los cinco días hábiles siguientes, escuche al interesado, en caso de que éste se presente, y clasifique o reconsidere la falta, si es que procede. Si el infractor no se presenta ante el Juez Municipal, se tendrá por consentida la falta y se confirmará la misma; y
 
@@ -1525,77 +1621,117 @@ d) Estacionarse en bahías, rampas o espacios para uso exclusivo de personas dis
 
 e) Estacionarse en lugar cuya guarnición esté pintada de amarillo o rojo, existiendo o no señalamiento adicional que lo prohiba, así como en más de una fila; y
 
-f) Intentar ofrecer alguna cantidad de dinero o cualquier tipo de favor a algún agente de tránsito a efecto de no ser infraccionado.
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2012)</small>
+
+f) Intentar ofrecer alguna cantidad de dinero o cualquier tipo de favor a algún integrante operativo, a efecto de no ser infraccionado.
 
 El infractor podrá inconformarse dentro de los cinco días hábiles siguientes a la notificación de la multa, mediante recurso de revisión, ante la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, en los términos del capítulo vigésimo cuarto del presente Reglamento.
 
 En ese mismo término, el infractor, en su caso, deberá probar su calidad de jornalero, obrero o trabajador para que se proceda a la determinación de la multa de conformidad con el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, el artículo 127 del presente Reglamento y demás disposiciones aplicables.
 
-II. En caso de que se cometa una infracción y el propietario o conductor del vehículo no se encuentre presente al momento en que el agente de tránsito termine de llenar la boleta de infracción, la copia de la misma le será colocada en el parabrisas del vehículo, haciendo constar pormenorizadamente las circunstancias de tiempo, lugar y modo en que ocurre dicho suceso, sin perjuicio para el infractor. Asimismo, los agentes de tránsito tendrán la facultad de colocar candados inmovilizadores en las llantas del vehículo o engomados en la puerta del conductor, de tal forma que, en el momento de abrir la puerta, los sellos sean desprendidos y, en consecuencia, se tenga por notificado el infractor.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE AGOSTO DE 2012)</small>
 
-Lo previsto en el párrafo anterior, procederá en el caso de vehículos que tengan placas originarias de otro Estado o país. Asimismo, los agentes de tránsito tendrán la facultad de retirar las placas del vehículo.
+II. En caso de que se cometa una infracción y el propietario o conductor del vehículo no se encuentre presente al momento en que el integrante operativo termine de llenar la boleta de infracción, la copia de la misma le será colocada en el parabrisas del vehículo, haciendo constar pormenorizadamente las circunstancias de tiempo, lugar y modo en que ocurre dicho suceso, sin perjuicio para el infractor. Asimismo, los integrantes operativos tendrán la facultad de colocar candados inmovilizadores en las llantas del vehículo o engomados en la puerta del conductor, de tal forma que, en el momento de abrir la puerta, los sellos sean desprendidos y, en consecuencia, se tenga por notificado el infractor.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2012)</small>
+
+Lo previsto en el párrafo anterior, procederá en el caso de vehículos que tengan placas originarias de otro Estado o País. Asimismo, los integrantes operativos tendrán la facultad de retirar las placas del vehículo.
 
 En estos casos, se presume que el conductor del vehículo es el propietario del mismo, para todos los efectos a que haya lugar conforme al presente Reglamento.
 
-III. En caso de que el infractor no se detenga y se dé a la fuga, se procederá a la detención del vehículo y su posterior envío a la pensión municipal. En caso de no ser posible dicha detención, el agente de tránsito deberá notificar, de inmediato, a la Policía Preventiva para iniciar la persecución del vehículo. El darse a la fuga se considerará una agravante a la infracción o infracciones cometidas.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE AGOSTO DE 2012)</small>
+
+III. En caso de que el infractor no se detenga y se dé a la fuga, se procederá a la detención del vehículo y su posterior envío a la pensión municipal. En caso de no ser posible dicha detención, el integrante operativo deberá notificar, de inmediato, a la Policía Preventiva para iniciar la persecución del vehículo. El darse a la fuga se considerará una agravante a la infracción o infracciones cometidas.
 
 Una vez detenido el infractor y después de haber transcurrido el término de los cinco días hábiles para presentarse ante el Juez Municipal, la Secretaría de Finanzas Públicas Municipales deberá notificarle la multa al infractor en los términos de la fracción I del presente artículo, entregándole tanto la copia de la boleta de infracción como el recibo con la cantidad líquida a pagar por concepto de multa.
 
-IV. Se exime de toda responsabilidad, al agente de tránsito, en el caso de que el infractor se dé a la fuga y, en consecuencia, sufra o provoque algún accidente vial.
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2012)</small>
 
-V. Cualquier documento diferente a la notificación de la multa realizado por la Secretaría de Finanzas Públicas Municipales, conforme a lo dispuesto en la fracción I del presente artículo, incluyendo cualquier publicación por medios electrónicos o escritos sobre el monto de las multas, no surtirán efectos como notificación, ni generarán obligatoriedad o efectos vinculatorios al particular.
+IV. Se exime de toda responsabilidad, al integrante operativo, en el caso de que el infractor se dé a la fuga y, en consecuencia, sufra o provoque algún accidente vial.
+
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2012)</small>
+
+V. Cualquier documento diferente a la notificación de la multa realizado por la Secretaría de Finanzas Públicas Municipales, conforme a lo dispuesto en la fracción I del presente artículo, incluyendo cualquier publicación por medios electrónicos o escritos sobre el monto de las multas, no surtirán efectos como notificación, ni generarán obligatoriedad o efectos vinculatorios al particular, con excepción de lo previsto en la fracción VI del presente artículo.
+
+> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2012)</small>
+
+VI. Tratándose de infracciones derivadas del uso de dispositivos electrónicos, fotográficos o de video de verificación, éstas deberán cumplir con los requisitos establecidos en el artículo 120 del presente Reglamento. Su notificación podrá enviarse por correo certificado al domicilio del propietario del vehículo infractor o al domicilio de a quien aparezca registrado dicho vehículo en los Registros Vehiculares municipales y/o estatales, y podrá acusar de recibo cualquier persona que se encuentre en dicho domicilio.
+
+En este caso y en relación de este tipo de infracciones, se presumirá siempre que el conductor del vehículo es el propietario del mismo, sin embargo y sin contraposición a lo antes referido en caso de que en cualquier momento el propietario demuestre que no era el conductor del vehículo al momento de cometerse la infracción, de manera independiente éste será obligado solidario al pago de la infracción por su calidad de propietario, por tanto el crédito fiscal que se genere quedará firme a cargo de los propietarios de los vehículos.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 111.
 
-Los agentes de tránsito deberán prevenir los accidentes de tránsito con todos los medios disponibles a su alcance y evitarán que se cause o incremente un daño a personas o propiedades. En especial, cuidarán de la seguridad de los peatones y vigilarán que éstos cumplan con las obligaciones establecidas en el presente Reglamento.
+Los integrantes operativos deberán prevenir los accidentes de tránsito con todos los medios disponibles a su alcance y evitarán que se cause o incremente un daño a personas o propiedades. En especial, cuidarán de la seguridad de los peatones y vigilarán que éstos cumplan con las obligaciones establecidas en el presente Reglamento.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 112.
 
-Los peatones, pasajeros y ocupantes de vehículos que no cumplan con las obligaciones de este Reglamento, serán amonestados verbalmente por los agentes de tránsito y orientados a conducirse de conformidad con lo establecido por las disposiciones aplicables, bajo el apercibimiento de que, de hacer caso omiso a dichas recomendaciones, se harán acreedores a las sanciones que correspondan, según proceda.
+Los peatones, pasajeros y ocupantes de vehículos que no cumplan con las obligaciones de este Reglamento, serán amonestados verbalmente por los integrantes operativos y orientados a conducirse de conformidad con lo establecido por las disposiciones aplicables, bajo el apercibimiento de que, de hacer caso omiso a dichas recomendaciones, se harán acreedores a las sanciones que correspondan, según proceda.
 
-### CAPÍTULO VIGÉSIMO SEGUNDO. De la Función de los Agentes de Tránsito
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE AGOSTO DE 2012)</small>
+
+### CAPÍTULO VIGÉSIMO SEGUNDO. De la Función de los Integrantes Operativos
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 113.
 
-Los agentes de tránsito tienen la obligación de conocer el contenido del presente Reglamento, así como de su observancia y aplicación. Además, deberán acatar toda disposición emanada del Presidente Municipal o el Secretario, para cumplir en forma eficiente, segura y ética sus funciones.
+Los integrantes operativos tienen la obligación de conocer el contenido del presente Reglamento, así como de su observancia y aplicación. Además, deberán acatar toda disposición emanada del Presidente Municipal o el Secretario, para cumplir en forma eficiente, segura y ética sus funciones.
 
-En la aplicación del presente Reglamento, los agentes de tránsito deberán de actuar con toda imparcialidad, sin hacer ningún tipo de distinción en la aplicación de las normas que correspondan conforme al presente ordenamiento.
+En la aplicación del presente Reglamento, los integrantes operativos deberán de actuar con toda imparcialidad, sin hacer ningún tipo de distinción en la aplicación de las normas que correspondan conforme al presente ordenamiento.
 
-Los agentes de tránsito serán constantemente evaluados en base a los criterios que establezca la Dirección. Aquellos agentes que no actúen con plena honestidad y honradez serán automáticamente separados de su cargo y sancionados en los términos de la legislación vigente aplicable al caso concreto.
+Los integrantes operativos serán constantemente evaluados en base a los criterios que establezca la Dirección. Aquellos integrantes operativos que no actúen con plena honestidad y honradez serán automáticamente separados de su cargo y sancionados en los términos de la legislación vigente aplicable al caso concreto.
 
-El Presidente Municipal, a través de la Secretaría, estará facultado para establecer, dirigir y vigilar diversos programas relativos a la implementación de agentes de tránsito encubiertos. Las bases y lineamientos bajo los que operarán este tipo de dispositivos, se emitirán mediante decreto que acuerde lo conducente, publicándose éste en el Periódico Oficial del Estado de Aguascalientes.
+El Presidente Municipal, a través de la Secretaría, estará facultado para establecer, dirigir y vigilar diversos programas relativos a la implementación de integrantes operativos encubiertos. Las bases y lineamientos bajo los que operarán este tipo de dispositivos, se emitirán mediante decreto que acuerde lo conducente, publicándose éste en el Periódico Oficial del Estado de Aguascalientes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 114.
 
-Es obligación de los agentes de tránsito permanecer en la calle, avenida o crucero al cual fueron asignados para controlar el tránsito vehicular y tomar las medidas de protección conducentes.
+Es obligación de los integrantes operativos permanecer en la calle, avenida o crucero al cual fueron asignados para controlar el tránsito vehicular y tomar las medidas de protección conducentes.
 
-Durante sus labores, los agentes de tránsito deberán colocarse en lugares claramente visibles para que, con su presencia, prevengan accidentes o, en su caso, la comisión de infracciones al presente Reglamento.
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2012)</small>
+
+Durante sus labores, los integrantes operativos deberán colocarse en lugares claramente visibles para que, con su presencia, prevengan accidentes o, en su caso, la comisión de infracciones al presente Reglamento.
 
 Si tienen asignado un auto, patrulla o motocicleta, circularán en el sector o zona asignada, vigilando la fluidez de la circulación vehicular y la seguridad del tránsito de peatones y conductores.
 
 Queda prohibido que cualquier unidad que pertenezca al servicio de vialidad transporte familiares para realizar servicios personales.
 
-Queda prohibido que cualquier agente de tránsito acepte alguna cantidad de dinero o cualquier tipo de favor por parte de un particular a efecto de no ser infraccionado.
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2012)</small>
 
-Todos los agentes de tránsito deberán acatar las disposiciones establecidas en el presente Reglamento, así como las normas de actuación contenidas en el Código Municipal de Aguascalientes y las demás disposiciones aplicables.
+Queda prohibido que cualquier integrante operativo acepte alguna cantidad de dinero o cualquier tipo de favor por parte de un particular a efecto de no ser infraccionado.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2012)</small>
+
+Todos los integrantes operativos deberán acatar las disposiciones establecidas en el presente Reglamento, así como las normas de actuación contenidas en el Código Municipal de Aguascalientes y las demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 115.
 
-En el ejercicio de sus funciones, el agente de tránsito podrá hacer uso de cualquier dispositivo electrónico, tales como el alcoholímetro, el radar de velocidad y el sonómetro, entre otros.
+En el ejercicio de sus funciones, el integrante operativo podrá hacer uso de cualquier dispositivo electrónico, tales como el alcoholímetro, el radar de velocidad y el sonómetro, entre otros.
 
 ###### Artículo 116.
 
 Los autos patrulla de control vehicular, en toda actividad nocturna, deberán llevar encendida alguna luz en la torreta.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 117.
 
-Los agentes de tránsito deberán impedir la conducción de vehículos y remitirlos a la pensión municipal mediante el servicio de grúa, en los siguientes casos:
+Los integrantes operativos deberán impedir la conducción de vehículos y remitirlos a la pensión municipal mediante el servicio de grúa, en los siguientes casos:
 
 I. Cuando el conductor sobrepase la cantidad de alcohol permitida y/o muestre síntomas claros y evidentes de encontrarse en estado de ebriedad, estado de ineptitud para conducir o bajo el influjo de estupefacientes, en los términos de la Ley y el presente Reglamento;
 
 II. Cuando un conductor, al circular con un vehículo, se encuentre ingiriendo bebidas alcohólicas;
 
-III. Tratándose de menores de edad que hayan cometido alguna infracción en estado de ebriedad, en estado de ineptitud para conducir o bajo el influjo de estupefacientes, los agentes de tránsito deberán impedir la circulación del vehículo poniéndolo a disposición del Juez Municipal, debiendo éste observar las siguientes reglas:
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2012)</small>
+
+III. Tratándose de menores de edad que hayan cometido alguna infracción en estado de ebriedad, en estado de ineptitud para conducir o bajo el influjo de estupefacientes, los integrantes operativos deberán impedir la circulación del vehículo poniéndolo a disposición del Juez Municipal, debiendo éste observar las siguientes reglas:
 
 a) Dar aviso, de inmediato, a los padres o el tutor del menor; y
 
@@ -1641,9 +1777,11 @@ XXII. Cuando se portan placas sobrepuestas, sin perjuicio de dar conocimiento a 
 
 XXIII. En aquellos casos en que la autoridad municipal así lo requiera, a fin de prevenir accidentes viales o daños a terceras personas.
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 118.
 
-Los agentes de tránsito que hubieren ordenado o llevado a cabo la remisión del vehículo al depósito vehicular, informarán, de inmediato, al centro de control correspondiente, el tipo de vehículo y matrícula del mismo, así como el lugar del que fue retirado, a través de los medios electrónicos que dispongan.
+Los integrantes operativos que hubieren ordenado o llevado a cabo la remisión del vehículo al depósito vehicular, informarán, de inmediato, al centro de control correspondiente, el tipo de vehículo y matrícula del mismo, así como el lugar del que fue retirado, a través de los medios electrónicos que dispongan.
 
 ###### Artículo 119.
 
@@ -1665,7 +1803,9 @@ e) Número y tipo de licencia o permiso para conducir del infractor, salvo que n
 
 f) Las razones, motivos o circunstancias especiales que llevaron a la autoridad a concluir que el caso particular encuadra en el supuesto previsto por la norma legal invocada como fundamento.
 
-III. Nombre, número de placa, adscripción y firma del agente de tránsito que imponga la sanción. En su caso, el número económico de la patrulla y, en su caso, de la grúa utilizada para la remoción del vehículo.
+> <small>(REFORMADA P.O. 13 DE AGOSTO DE 2012)</small>
+
+III. Nombre, número de placa, adscripción y firma autógrafa o electrónica del integrante operativo que imponga la sanción. En su caso, el número económico de la patrulla y de la grúa utilizada para la remoción del vehículo.
 
 Los formatos preimpresos de las boletas de infracción serán válidos y surtirán plenamente sus efectos.
 
@@ -1686,6 +1826,10 @@ V. Motivación y fundamentación de la infracción;
 VI. Datos de identificación del dispositivo electrónico que detectó la infracción y el lugar de ubicación del mismo; y
 
 VII. Fotografía, grabación, registro o cualquier elemento con el que se demuestre la comisión de la infracción.
+
+> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2012)</small>
+
+VIII. Firma autógrafa o electrónica del funcionario o integrante operativo de la Secretaría facultado para imponer la infracción.
 
 Para los efectos de la imposición de infracciones de tránsito, la Dirección podrá hacer uso de cualquier fotografía, grabación, material audiovisual o medio electrónico generado por los dispositivos autorizados, el cual hará prueba plena de las infracciones cometidas.
 
@@ -1725,15 +1869,19 @@ En el caso de reincidencia, se sancionará con arresto administrativo inconmutab
 
 Tratándose de quien acredite fehacientemente ser jornalero, obrero o trabajador no asalariado, la multa no excederá del importe de su jornal o salario de un día, de conformidad con el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos. En caso de no pagar la multa correspondiente, deberá ser sancionado con el arresto hasta por treinta y seis horas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 128.
 
-Las sanciones pecuniarias o multas a que se refiere el presente capítulo, serán calculadas por la Secretaría de Finanzas Públicas Municipales, en moneda nacional y con base al salario diario mínimo general vigente en el Estado de Aguascalientes, a la fecha en que se cometió la infracción, atendiendo a todos los datos incluidos, por el agente de tránsito, en la boleta de infracción correspondiente y la resolución respectiva que emita el Juez Municipal.
+Las sanciones pecuniarias o multas a que se refiere el presente capítulo, serán calculadas por la Secretaría de Finanzas Públicas Municipales, en moneda nacional y con base al salario diario mínimo general vigente en el Estado de Aguascalientes, a la fecha en que se cometió la infracción, atendiendo a todos los datos incluidos, por el integrante operativo, en la boleta de infracción correspondiente y la resolución respectiva que emita el Juez Municipal.
 
 Las sanciones pecuniarias se aplicarán con fundamento en la facultad que se confiere al Municipio en los artículos 179 de la Ley Municipal para el Estado de Aguascalientes y 595, fracción III, del Código Urbano para el Estado de Aguascalientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 129.
 
-Los agentes de tránsito podrán imponer cualquiera de las siguientes medidas de seguridad:
+Los integrantes operativos podrán imponer cualquiera de las siguientes medidas de seguridad:
 
 I. Retención de la licencia de conducir: Se podrá retener la licencia de conducir hasta por seis meses, dando aviso a la autoridad facultada para la expedición de la misma. En caso de reincidencia dentro de los seis meses posteriores al cumplimiento de la sanción correspondiente, la retención podrá alcanzar hasta los doce meses. La retención procederá ante los siguientes casos:
 
@@ -1753,7 +1901,9 @@ g) Cuando el conductor de un vehículo de servicio público de pasajeros, en el 
 
 h) Cuando se compruebe que la licencia de manejo fue obtenida bajo falsedad de declaraciones; e
 
-i) Por agredir físicamente a un agente de tránsito, en el cumplimiento de sus funciones.
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2012)</small>
+
+i) Por agredir físicamente a un integrante operativo, en el cumplimiento de sus funciones.
 
 II. Detención de vehículos: Procederá en los casos previstos por el artículo 117 del presente Reglamento.
 
@@ -1769,7 +1919,9 @@ B) Un peatón cometerá una falta leve cuando:
 
 1. En las avenidas y calles, no cruce por los puentes peatonales o, a falta de éstos, por las esquinas o zonas marcadas para tal efecto;
 
-2. No obedezca las respectivas indicaciones para atravesar las vialidades controladas por semáforos o agentes;
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2012)</small>
+
+2. No obedezca las respectivas indicaciones para atravesar las vialidades controladas por semáforos o por los integrantes operativos
 
 3. No transite por la acera, banqueta o acotamiento y, a falta de éstos, por la orilla de la vía, en este último caso deberá hacerlo procurando transitar de frente al tránsito vehicular;
 
@@ -1839,7 +1991,9 @@ C) El pasajero de vehículos cometerá una falta media cuando:
 
 3. Arroje basura o cualquier tipo de objeto a la vía pública;
 
-4. Interfiera en las funciones de los agentes de tránsito; y
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2012)</small>
+
+4. Interfiera en las funciones de los integrantes operativos; y
 
 5. Viaje en lugares destinados para carga o fuera del vehículo.
 
@@ -2031,7 +2185,9 @@ C) El conductor de cualquier tipo de vehículo cometerá una falta grave cuando:
 
 23. No porte la licencia de manejo o el permiso correspondiente y la tarjeta de circulación del vehículo que conduce, ambos vigentes y en original;
 
-24. No permita al agente de tránsito o personal designado de la autoridad municipal su licencia de manejo o el permiso correspondiente y/o la tarjeta de circulación del vehículo, cuando se los soliciten;
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2012)</small>
+
+24. No permita al integrante operativo o personal designado de la autoridad municipal su licencia de manejo o el permiso correspondiente y/o la tarjeta de circulación del vehículo, cuando se los soliciten;
 
 25. Que no cuente con sistema de frenos, aditamentos y demás características y condiciones de seguridad, que conforme a las especificaciones técnicas y legales corresponda a cada tipo de vehículo y servicio que en él se preste;
 
@@ -2045,9 +2201,13 @@ C) El conductor de cualquier tipo de vehículo cometerá una falta grave cuando:
 
 30. No utilice el cinturón de seguridad o no exija que los pasajeros hagan lo mismo;
 
-31. No haga alto total cuando lo indique un semáforo, un agente de tránsito, cualquier señal o dispositivo colocado en la vía pública o como resultado de las obligaciones y reglas para conducir que se desprendan de este Reglamento;
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2012)</small>
 
-32. No obedezca las indicaciones de los agentes de tránsito;
+31. No haga alto total cuando lo indique un semáforo, un integrante operativo, cualquier señal o dispositivo colocado en la vía pública o como resultado de las obligaciones y reglas para conducir que se desprendan de este Reglamento;
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2012)</small>
+
+32. No obedezca las indicaciones de los integrantes operativos;
 
 33. Sostenga en brazos a menores de edad o mascotas, se maquille o utilice teléfonos celulares sin el aditamento de manos libres o de audífonos y que éstos se utilicen con un solo auricular cuando se conduce, o se distraiga por el uso o manipulación de equipos de audio o video, así como cualquier otra acción u objeto que reduzca su campo de visión, audición y libre movimiento;
 
@@ -2115,7 +2275,9 @@ A) El conductor de cualquier tipo de vehículo, cometerá una falta muy grave cu
 
 2. Se dé a la fuga después de provocar o intervenir en un accidente; y
 
-3. Intente ofrecer alguna cantidad de dinero o cualquier tipo de favor a algún agente de tránsito a efecto de no ser infraccionado.
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2012)</small>
+
+3. Intente ofrecer alguna cantidad de dinero o cualquier tipo de favor a algún integrante operativo a efecto de no ser infraccionado.
 
 B) El conductor de motocicleta o cualquier otro vehículo análogo, cometerá una falta grave cuando:
 
@@ -2199,13 +2361,19 @@ Si el infractor no se presenta ante el Juez Municipal, dentro del término seña
 
 Dentro de los cinco días hábiles siguientes a la notificación de la multa por parte de la Secretaría de Finanzas Públicas Municipales, si el infractor no está conforme con la sanción, éste deberá inconformarse mediante recurso de revisión, ante la Secretaría del H. Ayuntamiento y Dirección General de Gobierno.
 
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2012)</small>
+
+En este mismo término el infractor, o el propietario del vehículo quien en todo momento será obligado solidario al pago de la multa de referencia, en su caso, deberá acreditar su calidad de jornalero, obrero o trabajador para que se proceda a la determinación de la multa de conformidad con el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, y en el artículo 127 del presente Reglamento y otras disposiciones legales aplicables.
+
 De no recurrir la infracción, en los términos anteriormente señalados, se entenderá consentida la infracción y cualquier vicio procesal presentado, si es que lo hubiere.
 
 Dicho recurso será resuelto en un término de 10 días por la autoridad correspondiente. En lo no previsto por el presente Reglamento, serán aplicables las disposiciones referentes al recurso de revisión establecidas en el Código Municipal de Aguascalientes.
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 148.
 
-Los particulares, frente a una mala actuación de los agentes de tránsito, podrán acudir con su queja ante la Dirección de Asuntos Internos de Seguridad Pública y Tránsito adscrita a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno. Contra los actos definitivos, los particulares podrán recurrirlos ante el Tribunal de lo Contencioso Administrativo del Estado de Aguascalientes, en términos de la Ley del Procedimiento Contencioso Administrativo para el Estado de Aguascalientes, previo agotamiento del recurso de revisión previsto en el presente Reglamento.
+Los particulares, frente a una mala, actuación de los integrantes operativos, podrán acudir con su queja ante la Dirección de Asuntos Internos de Seguridad Pública y Tránsito adscrita a la Secretaria del H. Ayuntamiento y Dirección General de Gobierno. Contra los actos definitivos, los particulares podrán recurrirlos ante la Sala Administrativa y Electoral del Estado de Aguascalientes, en términos de la Ley aplicable, previo agotamiento del recurso de revisión previsto en el presente Reglamento.
 
 ## TRANSITORIOS
 
@@ -2238,3 +2406,19 @@ Ing. Francisco Gabriel Arellano Espinosa, Presidente Municipal de Aguascalientes
 Por lo que tiene el honor de comunicarlo, para su conocimiento y efectos legales conducentes. En tal ver, promulga y ordena se dé publicidad para su debido cumplimiento. 23 de octubre de 2008.- Ing. Francisco Gabriel Arellano Espinosa.- Rúbrica.
 
 El Subsecretario del H. Ayuntamiento y Subdirector General de Gobierno.- Lic. Alberto Gómez Velasco.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE AGOSTO DE 2012.
+
+PRIMERO.- Las presentes reformas entrarán en vigor el día hábil siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Se derogan todas las disposiciones reglamentarias que se opongan al presente ordenamiento.
+
+TERCERO.- El Municipio deberá realizar los programas anuales, tendientes a la prevención de las infracciones de tránsito a través de la educación, en coordinación con la Dirección de Prevención del Delito de la Secretaría de Seguridad Pública.
+
+CUARTO.- Todas las referencias que se hagan en el presente Reglamento relativas a Agente de Tránsito y/o Agente, se entenderán hechas a Integrantes Operativos.
+
+QUINTO.- Los particulares podrán recurrir los actos definitivos, ante el Tribunal de lo Contencioso Administrativo y éstos se entenderán hechos a la Sala Administrativa y Electoral, hasta en tanto no se realicen las adecuaciones normativas conducentes en relación al Decreto Número 205 expedido por la LXI Legislatura del Honorable Congreso del Estado de Aguascalientes y publicado en el Periódico Oficial del Estado en fecha veinticinco de junio de 2012.
+
+SEXTO.- Los Convenios para la adquisición e implementación de los dispositivos electrónicos, fotográficos y de videos de verificación que permitan una correcta detección de los vehículos que incurran en la conducción de exceso de velocidad, deberán someterse al análisis, discusión y en su caso aprobación por el H. Cabildo Constitucional del Municipio de Aguascalientes.
