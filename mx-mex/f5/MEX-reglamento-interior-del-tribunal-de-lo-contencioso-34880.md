@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-tribunal-de-lo-contencioso-34880"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-18"
-last_updated: "2009-07-17"
+last_updated: "2012-08-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34880&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE MEXICO
+REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE JULIO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE AGOSTO DE 2012.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el martes 18 de noviembre de 2003.
 
@@ -157,7 +157,7 @@ Los Magistrados de guardia serán auxiliados por el personal que designe el Pres
 
 ### CAPÍTULO TERCERO. DE LAS SECCIONES DE LA SALA SUPERIOR
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.G. 17 DE JULIO DE 2009)</small>
 
@@ -201,11 +201,13 @@ Las Secciones de la Sala Superior llevarán los libros de actas, recursos de rev
 
 El Presidente del Tribunal será designado en la primera sesión del Pleno de la Sala Superior a celebrarse durante el mes de enero del año que corresponda. La sesión será conducida por el Magistrado con mayor antigüedad efectiva en la propia Sala y en caso de que los Magistrados de la Sala tengan el mismo tiempo, por el que los Magistrados designen en ese momento.
 
-> <small>(REFORMADO, G.G. 21 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, G.G. 13 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 21.
 
-Para el despacho de los asuntos de su competencia, el Presidente del Tribunal será asistido por el Secretario General del Pleno, la Secretaría Particular de la Presidencia, el Director General del Instituto de Formación Profesional, de las Unidades de Apoyo Administrativo, de Documentación, Difusión e Información, de Estudios y Proyectos, de Asesoría Comisionada y de Informática y demás servidores públicos necesarios.
+Para el despacho de los asuntos de su competencia, el Presidente del Tribunal será asistido por el Secretario General del Pleno, la Secretaría Particular de la Presidencia, el Director General del Instituto de Formación Profesional, de las Unidades de Apoyo Administrativo, de Documentación, Difusión e Información, de Estudios y Proyectos, de Asesoría Comisionada y de Informática y demás servidores públicos necesarios; en quienes además podrá delegar sus facultades, de acuerdo a las funciones estrechamente vinculadas con sus encargos.
+
+Asimismo, el Presidente estará facultado para otorgar, sustituir y/o revocar poderes generales o especiales a favor de servidores públicos del Tribunal o de terceros, para que los ejerzan de manera individual o conjunta por cualquier vía y ante cualquier autoridad o tribunal.
 
 ###### Artículo 22.
 
@@ -225,7 +227,7 @@ El Presidente del Tribunal obtendrá semanalmente de las Secciones de la Sala Su
 
 ### CAPÍTULO QUINTO. DE LAS SALAS REGIONALES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.G. 17 DE JULIO DE 2009)</small>
 
@@ -233,7 +235,7 @@ El Presidente del Tribunal obtendrá semanalmente de las Secciones de la Sala Su
 
 La Primera y Séptima Salas Regionales residirán en el municipio de Toluca. Conocerán indistintamente de los juicios contencioso administrativos que se promuevan en contra de los actos y disposiciones generales de carácter administrativo o fiscal que dicten, ordenen, ejecuten o traten de ejecutar las autoridades del Poder Ejecutivo del Estado, de los municipios y de los organismos auxiliares de carácter estatal y municipal, cuando el domicilio del actor se ubique en los municipios de: Acambay, Aculco, Almoloya de Alquisiras, Almoloya de Juárez, Almoloya del Río, Amanalco, Amatepec, Atizapán, Atlacomulco, Calimaya, Capulhuac, Coatepec Harinas, Chapultepec, Donato Guerra, El Oro, lxtapan de la Sal, lxtapan del Oro, lxtlahuaca, Jiquipilco, Jocotitlán, Joquicingo, Lerma, Luvianos, Malinalco, Metepec, Mexicaltzingo, Morelos, Ocoyoacac, Ocuilan, Otzoloapan, Otzolotepec, Rayón, San Antonio La Isla, San Felipe del Progreso, San José del Rincón, San Mateo Atenco, San Simón de Guerrero, Santo Tomás, Sultepec, Tejupilco, Temascalcingo, Temascaltepec, Temoaya, Tenancingo, Tenango del Valle, Texcaltitlán, Texcalyacac, Tianguistenco, Timilpan, Tlatlaya, Toluca, Tonatico, Valle de Bravo, Villa de Allende, Villa Guerrero, Villa Victoria, Xalatlaco, Xonacatlán, Zacazonapan, Zacualpan, Zinacantepec y Zumpahuacán.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.G. 17 DE JULIO DE 2009)</small>
 
@@ -241,7 +243,7 @@ La Primera y Séptima Salas Regionales residirán en el municipio de Toluca. Con
 
 La Segunda Sala Regional residirá en el municipio de Naucalpan de Juárez. Conocerá de los juicios contencioso administrativos que se promuevan en contra de los actos y disposiciones generales de carácter administrativo o fiscal que dicten, ordenen, ejecuten o traten de ejecutar las autoridades del Poder Ejecutivo del Estado, de los municipios y de los organismos auxiliares de carácter estatal y municipal, cuando el domicilio del actor se ubique en los municipios de: Huixquilucan, Isidro Fabela, Jilotzingo y Naucalpan de Juárez.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.G. 17 DE JULIO DE 2009)</small>
 
@@ -249,7 +251,7 @@ La Segunda Sala Regional residirá en el municipio de Naucalpan de Juárez. Cono
 
 La Tercera Sala Regional residirá en el municipio de Tlalnepantla de Baz. Conocerá de los juicios contencioso administrativos que se promuevan en contra de los actos y disposiciones generales de carácter administrativo o fiscal que dicten, ordenen, ejecuten o traten de ejecutar las autoridades del Poder Ejecutivo del Estado, de los municipios y de los organismos auxiliares de carácter estatal y municipal, cuando el domicilio del actor se ubique en los municipios de: Apaxco, Coyotepec, Huehuetoca, Hueypoxtla, Jaltenco, Melchor Ocampo, Nextlalpan, Teoloyucan, Tequixquiac, Tlalnepantla de Baz, Tultepec, y Zumpango.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.G. 17 DE JULIO DE 2009)</small>
 
@@ -261,7 +263,7 @@ La Cuarta Sala Regional residirá en el municipio de Ecatepec de Morelos. Conoce
 
 La Quinta Sala Regional residirá en el municipio de Nezahualcóyotl. Conocerá de los juicios contencioso administrativos que se promuevan en contra de los actos y disposiciones generales de carácter administrativo o fiscal que dicten, ordenen, ejecuten o traten de ejecutar las autoridades del Poder Ejecutivo del Estado, de los municipios y de los organismos auxiliares de carácter estatal y municipal, cuando el domicilio del actor se ubique en los municipios de: Amecameca, Atlautla, Ayapango, Cocotitlán, Chalco, Chicoloapan, Chimalhuacán, Ecatzingo, Ixtapaluca, Juchitepec, La Paz, Nezahualcóyotl, Ozumba, Temamatla, Tenango del Aire, Tepetlixpa, Tlalmanalco y Valle de Chalco Solidaridad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.G. 17 DE JULIO DE 2009)</small>
 
@@ -939,7 +941,7 @@ El titular de la Unidad de Información, será el Jefe de la Unidad de Documenta
 
 Los servidores públicos habilitados, serán designados por el Presidente del Comité de Información y deberán apoyar a la Unidad de Información en lo que les solicite para el cumplimiento de sus atribuciones de acuerdo con la Ley y su Reglamento.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 21 DE ENERO DE 2005)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 21 DE ENERO DE 2005)</small>
 
 ###### Artículo 81.
 
@@ -971,7 +973,7 @@ I. Facilitar el acceso a la información pública generada por el Tribunal; y
 
 II. Resguardar la información reservada, confidencial y los datos personales que se encuentren en poder del Tribunal.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, G.G. 21 DE ENERO DE 2005)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.G. 21 DE ENERO DE 2005)</small>
 
 ###### Artículo 85.
 
@@ -1005,7 +1007,7 @@ XIII. La demás información con el carácter de pública que se genere y deba e
 
 El derecho de acceso a la información pública, solo será restringido cuando se trate de información clasificada como reservada o confidencial.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, G.G. 21 DE ENERO DE 2005)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.G. 21 DE ENERO DE 2005)</small>
 
 #### SECCIÓN QUINTA. DE LAS FORMAS Y EJERCICIO DEL DERECHO DE ACCESO A LA INFORMACIÓN
 
@@ -1021,7 +1023,7 @@ II. Los datos personales de los servidores públicos del Tribunal o de los parti
 
 III. La que por disposición de la Ley, se considere confidencial.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 21 DE ENERO DE 2005)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 21 DE ENERO DE 2005)</small>
 
 ###### Artículo 87.
 
@@ -1085,7 +1087,7 @@ El acceso a los datos personales, solo será permitido mediante el consentimient
 
 . Solo podrán tener acceso a la información reservada o confidencial, el Comité de Información y los servidores públicos que autorice el Pleno de la Sala Superior del Tribunal.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 21 DE ENERO DE 2005)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 21 DE ENERO DE 2005)</small>
 
 ### CAPÍTULO DÉCIMO CUARTO. DE LA TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA
 
@@ -1111,7 +1113,7 @@ IV. Cualquier otro dato que facilite su búsqueda y propicie su localización.
 
 No se dará curso a las solicitudes que carezcan de los requisitos, establecidos en este artículo.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, G.G. 21 DE ENERO DE 2005)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.G. 21 DE ENERO DE 2005)</small>
 
 ### CAPÍTULO DÉCIMO SEXTO (SIC). DEL CONSEJO DE LA JUSTICIA ADMINISTRATIVA
 
@@ -1125,7 +1127,7 @@ Admitido el recurso, el Consejo de Información resolverá dentro de los treinta
 
 En contra de las resoluciones del Consejo de Información no procede recurso alguno.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 19 DE MAYO DE 2005)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE MAYO DE 2005)</small>
 
 ###### Artículo 96.
 
@@ -1237,7 +1239,7 @@ Lic. Francisco Víctor Ortiz Millán
 
 (RUBRICA)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
 
 G.G. 21 DE ENERO DE 2005.
 
@@ -1278,3 +1280,9 @@ Los recursos de revisión e instancias se presentarán en la oficialía de parte
 ###### ARTÍCULO SEXTO.
 
 Los recursos de revisión e instancias que se encuentren en trámite en la Segunda y Tercera Secciones de la Sala Superior, se substanciarán y resolverán por la Sección de su conocimiento.
+
+G.G. 13 DE AGOSTO DE 2012.
+
+Primero.- Publíquese el presente acuerdo en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México "Gaceta del Gobierno", en el Organo de Difusión Interno del propio Tribunal y en los estrados de las Secciones de la Sala Superior, de las Salas Regionales y Magistraturas Supernumerarias.
+
+Segundo.- La adición al Reglamento Interior del Tribunal de lo Contencioso Administrativo del Estado de México entrará en vigor, el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
