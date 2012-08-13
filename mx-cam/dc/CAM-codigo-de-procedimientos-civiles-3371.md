@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-procedimientos-civiles-3371"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-12-24"
-last_updated: "2012-07-06"
+last_updated: "2012-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3371&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2012.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 24 de diciembre de 1942.
 
@@ -6829,55 +6829,41 @@ La solicitud de los padres o ascendientes se sustanciará en forma de incidente,
 
 Lo dispuesto en los artículos que preceden se aplicará a todos los actos y contratos que afecten a bienes de ausentes, menores e incapacitados, cuando se requiera la autorización del juez conforme al Código Civil.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE AGOSTO DE 2012)</small>
+
 ### CAPITULO V. De la adopción
 
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2000)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 1296.
 
-El que pretende adoptar a un menor o a un incapacitado aunque éste sea mayor de edad, deberá justificar los requisitos previstos en los artículos 406 y 407 en su caso del Código Civil del Estado, debiéndose observar lo siguiente:
+(DEROGADO, P.O. 13 DE AGOSTO DE 2012)
 
-I.- En la promoción inicial se deberá manifestar el tipo de adopción que se promueve el nombre, edad y domicilio del menor o incapacitado que se pretende adoptar, el nombre, edad y domicilio de quienes ejerzan sobre el patria potestad o tutela o de la persona o Institución de Asistencia Social Pública o Privada que lo haya acogido y acompañar certificado médico de buena salud, estudio socioeconómico y estudio psicológico realizados por Instituciones públicas autorizadas;
-
-II.- Cuando el menor hubiere sido acogido por una Institución de Asistencia Social Pública o Privada, el adoptante recabará constancia del tiempo de la exposición o abandono para los efectos del art. 458 fracc. IV del Código Civil.
-
-Si hubieren transcurrido menos de seis meses de la exposición o abandono, se decretará el depósito de quien se pretende adoptar con el presunto adoptante, entre tanto se consuma dicho plazo.
-
-Si el menor no tuviere padres conocidos o no hubiere sido acogido por Institución de Asistencia Social Pública o Privada, se decretará el depósito con el presunto adoptante, por el término de seis meses para los mismo (sic) efectos;
-
-III.- Tratándose de extranjeros con residencia en México, deberán acreditar su legal residencia en el país.
-
-Los extranjeros con residencia en otro país deberán presentar certificado de idoneidad expedido por la autoridad competente de su país de origen que acrediten que el solicitante es considerado apto para adoptar; constancia de que el menor que se pretende adoptar ha sido autorizado para entrar y recibir permanentemente en dicho Estado; autorización de la Secretaría de Gobernación para integrarse y permanecer en el País con la finalidad de realizar una adopción.
-
-La documentación que presente los solicitantes extranjeros en idioma distinto al español, deberá acompañarse de la traducción oficial.
-
-La documentación correspondiente deberá estar apostillada o legalizada por el Cónsul mexicano.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 1297.
 
-Rendida la justificación que se exige en el artículo anterior, y obtenido el consentimiento de las personas que deben darlo conforme a lo dispuesto en los artículos 413 y 414 del Código Civil, el tribunal resolverá dentro de tercero día.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 1298.
 
-Cuando el adoptante y el adoptado pidan que la adopción sea revocada, el juez los citará a una audiencia verbal para dentro de los tres días siguientes, en la que resolverá conforme a lo dispuesto en el artículo 423 del Código Civil.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2012)
 
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2000)</small>
-
-Si el adoptado fuere menor de edad, para resolver sobre la revocación, se oirá previamente a las personas que prestaron su consentimiento conforme al artículo 413 del Código Civil, cuando fuere conocido su domicilio o en su caso se oirá al representante del Ministerio Público.
-
-Para acreditar cualquier hecho relativo a la conveniencia de la revocación, pueden rendirse toda clase de pruebas.
-
-> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2000)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 1298
 
-bis.- Cuando el adoptante o adoptantes soliciten la conversión de la adopción simple a plena, y reunido (sic) los requisitos previstos en el artículo 419 Bis del Código Civil, el Juez los solicitará a una audiencia verbal dentro de los ocho días siguientes con la intervención del Ministerio Público, en la que resolverá lo conducente.
+bis.- (DEROGADO, P.O. 13 DE AGOSTO DE 2012)
 
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2000)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 1299.
 
-La impugnación de la adopción simple y su revocación, en los casos previstos por los artículos 410 y 421 fracción II se tramitarán en la vía sumaria.
+(DEROGADO, P.O. 13 DE AGOSTO DE 2012)
 
 ### CAPITULO VI. De las informaciones "ad perpetuam"
 
@@ -7289,15 +7275,15 @@ La tercera sección será destinada a la toma de razón de instrumentos privados
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO CON LOS CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE JULIO DE 2012)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE AGOSTO DE 2012)</small>
 
-## TÍTULO VIGÉSIMO SEGUNDO. De los Procedimientos Orales en materia de Alimentos
+## TÍTULO VIGÉSIMO SEGUNDO. De los Procedimientos Orales en materia de Alimentos, Pérdida de Patria Potestad y Adopción
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
-### CAPITULO I. Disposiciones Generales
+### CAPÍTULO I. Disposiciones Generales
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -7307,13 +7293,33 @@ La tercera sección será destinada a la toma de razón de instrumentos privados
 
 Se tramitarán a través del procedimiento oral los siguientes asuntos:
 
-I. La fijación y aseguramiento de alimentos cuando exista controversia entre las partes; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. Las solicitudes de alimentos cuando se requiera la intervención del juez sin que exista conflicto entre las partes.
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2012)</small>
+
+I. La fijación y aseguramiento de alimentos cuando exista controversia entre las partes;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2012)</small>
+
+II. Las solicitudes de alimentos cuando se requiera la intervención del juez sin que exista conflicto entre las partes;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2012)</small>
+
+III. Los asuntos de pérdida de la patria potestad que no devengan de casos de divorcios necesarios; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2012)</small>
+
+IV. Las solicitudes de adopción.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1377.
 
@@ -7337,9 +7343,15 @@ El interés superior de los menores, que consiste en el respeto a todos sus dere
 
 En todo momento del procedimiento tendrán intervención el ministerio público, la Procuraduría de la Defensa del Menor, la Mujer y la Familia y los organismos de asistencia pública o privada, cuando estos últimos estén legalmente facultados para ello.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2012)</small>
+
+El principio de publicidad estará restringido, con excepción de los casos de adopción de mayores de edad, en los cuales podrá permitirse cuando el juez lo considere pertinente o a petición del ministerio público o de la Procuraduría de la Defensa del Menor, la Mujer y la Familia.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1379.
 
@@ -7347,7 +7359,7 @@ Iniciado el proceso, el juez tomará de oficio las medidas tendientes a evitar s
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1380.
 
@@ -7355,7 +7367,7 @@ El juez deberá mantener la igualdad de oportunidades de las partes en el proces
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1381.
 
@@ -7363,7 +7375,7 @@ El juez y sus auxiliares tomarán los acuerdos pertinentes para lograr la mayor 
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1382.
 
@@ -7373,7 +7385,7 @@ En los procedimientos de alimentos cuando existe controversia, el juez deberá o
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1383.
 
@@ -7381,7 +7393,7 @@ El juez de lo familiar debe apreciar las pruebas, basado en las reglas de la ló
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1384.
 
@@ -7389,7 +7401,7 @@ Los escritos en que se solicite el desistimiento de la demanda, de la instancia 
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1385.
 
@@ -7409,31 +7421,37 @@ El auto de admisión de la demanda deberá ser dictado en el mismo acto.
 
 La sentencia en la que se nieguen los alimentos es apelable en ambos efectos y la que los concede en el efecto devolutivo.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2012)</small>
+
+La sentencia en la que se decrete o niegue la pérdida de la patria potestad será apelable en ambos efectos.
+
 La apelación se tramitará conforme a lo establecido en el Capítulo II del Título Decimocuarto de este Código.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE JULIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2012)</small>
 
-### CAPITULO II. Del Procedimiento de Alimentos cuando exista Controversia
+### CAPÍTULO II. Del Procedimiento de Alimentos cuando exista Controversia y de Pérdida de la Patria Potestad
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 6 DE JULIO DE 2012)</small>
 
-#### SECCION PRIMERA. Generalidades
+#### SECCIÓN PRIMERA. Generalidades
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2012)</small>
 
 ###### Art. 1387.
 
-El procedimiento de alimentos cuando exista controversia se desarrollará a través de audiencias orales sucesivas hasta su conclusión, las cuales serán denominadas audiencia inicial, audiencia principal y audiencia incidental, en su caso.
+El procedimiento de alimentos cuando exista controversia y de pérdida de la patria potestad se desarrollará a través de audiencias orales sucesivas hasta su conclusión, las cuales serán denominadas: audiencia inicial, audiencia principal y audiencia incidental, en su caso.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1388.
 
@@ -7453,9 +7471,15 @@ Admitida la demanda, el juez ordenará emplazar al demandado corriéndole trasla
 
 I. En el procedimiento de alimentos cuando exista controversia, fijará una pensión provisional en base a lo planteado por la parte actora y según su prudente arbitrio, contra la cual no se admitirá recurso alguno. Lo anterior se comunicará de inmediato a la persona física o moral de quien perciba sus ingresos el deudor alimentista, para que se haga entrega de la pensión provisional al que exige los alimentos. Lo mismo se observará respecto de cualquier emolumento u otro ingreso que exista a favor del deudor alimentista. Para fijar la pensión provisional, el juez podrá ordenar el desahogo de cualquier diligencia que considere necesaria. Fuera de los casos anteriores, se ordenará requerir al deudor alimentista sobre el pago inmediato de dicha pensión provisional, y embargar de manera precautoria, en su caso, bienes de su propiedad que garanticen su cumplimiento. Cuando no sea posible determinar las percepciones económicas del que debe darlos, se tendrá como base el tabulador de salarios mínimos generales y profesionales vigentes en el Estado, emitido por la Comisión Nacional de Salarios Mínimos.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2012)</small>
+
+II. En el procedimiento de pérdida de patria potestad, el juez asignará de manera provisional la guarda y custodia del menor a la persona o institución que, a su prudente arbitrio, considere que es la adecuada para tener al menor mientras se resuelve el procedimiento.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1390.
 
@@ -7465,7 +7489,7 @@ La excepción de incompetencia sólo podrá promoverse por declinatoria, dentro 
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1391.
 
@@ -7473,7 +7497,7 @@ La excepción de incompetencia sólo podrá promoverse por declinatoria, dentro 
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1392.
 
@@ -7481,7 +7505,7 @@ Una vez contestada la demanda y, en su caso, la reconvención, o transcurridos l
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1393.
 
@@ -7489,13 +7513,13 @@ En los procedimientos de alimentos cuando exista controversia y en cualquier eta
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 6 DE JULIO DE 2012) (REPUBLICADA, P.O. 13 DE AGOSTO DE 2012)
 
-#### SECCION SEGUNDA. De las Audiencias
+#### SECCIÓN SEGUNDA. De las Audiencias
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1394.
 
@@ -7503,7 +7527,7 @@ Las audiencias serán presididas por el juez, bajo pena de nulidad si no lo hici
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1395.
 
@@ -7511,7 +7535,7 @@ La citación a la audiencia inicial se realizará mediante notificación persona
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1396.
 
@@ -7519,7 +7543,7 @@ Las partes deberán asistir a las audiencias del procedimiento, por sí o a trav
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1397.
 
@@ -7527,7 +7551,7 @@ Las partes podrán, de común acuerdo, por una sola vez, solicitar la suspensió
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1398.
 
@@ -7539,7 +7563,7 @@ Si el juez estima que en el caso hay elementos que pueden ser constitutivos de d
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1399.
 
@@ -7549,7 +7573,7 @@ Son nulas las actuaciones judiciales cuando se verifiquen sin la concurrencia de
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1400.
 
@@ -7557,7 +7581,7 @@ La recusación del juez será admisible antes de la audiencia inicial. Si se dec
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1401.
 
@@ -7565,7 +7589,7 @@ Salvo lo dispuesto en este Título, las peticiones de las partes deberán formul
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1402.
 
@@ -7587,7 +7611,7 @@ Lo mismo se hará cuando no hayan transcurrido dichos plazos, siempre que deba s
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1403.
 
@@ -7599,7 +7623,7 @@ La notificación personal que ordene el juez contendrá un extracto sucinto del 
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1404.
 
@@ -7611,7 +7635,7 @@ Si una parte o los terceros llegan al recinto oficial después de iniciada la au
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1405.
 
@@ -7623,7 +7647,7 @@ Quienes asistan deberán permanecer en silencio mientras no estén autorizados p
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1406.
 
@@ -7631,7 +7655,7 @@ Queda prohibido utilizar equipos de telefonía, grabación y videograbación for
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1407.
 
@@ -7641,7 +7665,7 @@ Una vez que los testigos, peritos o partes concluyan su intervención, a petici�
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012)(REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1408.
 
@@ -7649,7 +7673,7 @@ Una vez que los testigos, peritos o partes concluyan su intervención, a petici�
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1409.
 
@@ -7657,7 +7681,7 @@ El juez decretará los recesos que estime pertinentes para el mejor desarrollo d
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1410.
 
@@ -7667,7 +7691,7 @@ El juez determinará el inicio y la conclusión de cada una de las etapas de las
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1411.
 
@@ -7679,7 +7703,7 @@ Las partes y los terceros que intervengan en el desarrollo de las audiencias deb
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1412.
 
@@ -7687,7 +7711,7 @@ De cada audiencia se levantará acta que contendrá la fecha, las horas de inici
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1413.
 
@@ -7695,7 +7719,7 @@ A los videos o audiograbaciones, y cualquier otro registro determinado por el ju
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1414.
 
@@ -7707,7 +7731,7 @@ En tratándose de copias simples de los documentos que obren en el expediente, e
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1415.
 
@@ -7715,7 +7739,7 @@ La conservación de las grabaciones, o de cualquier otro medio apto estimado por
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1416.
 
@@ -7723,13 +7747,13 @@ En el juzgado o tribunal estarán disponibles los instrumentos y el personal de 
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 6 DE JULIO DE 2012) (REPUBLICADA, P.O. 13 DE AGOSTO DE 2012)
 
-#### SECCION TERCERA. De la Audiencia Inicial
+#### SECCIÓN TERCERA. De la Audiencia Inicial
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1417.
 
@@ -7743,7 +7767,7 @@ III. La admisión y preparación de pruebas.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1418.
 
@@ -7751,7 +7775,7 @@ En caso de inasistencia de las partes, se citará a una nueva audiencia que debe
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1419.
 
@@ -7759,7 +7783,7 @@ Declarada abierta la audiencia inicial, el juez precisará sucintamente las pret
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1420.
 
@@ -7771,7 +7795,7 @@ Si las partes no logran llegar a un acuerdo, el proceso seguirá su desarrollo.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1421.
 
@@ -7779,7 +7803,7 @@ El juez procederá a recepcionar los medios de prueba permitidos por la ley y qu
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1422.
 
@@ -7793,7 +7817,7 @@ El juez podrá ordenar el desahogo y práctica de cualquier medio probatorio no 
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1423.
 
@@ -7803,7 +7827,7 @@ En el auto en que se admitan los medios de prueba, se dejará a disposición del
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1424.
 
@@ -7811,13 +7835,13 @@ El juez señalará día y hora para la celebración de la audiencia principal de
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 6 DE JULIO DE 2012) (REPUBLICADA, P.O. 13 DE AGOSTO DE 2012)
 
-#### SECCION CUARTA. De la Audiencia Principal
+#### SECCIÓN CUARTA. De la Audiencia Principal
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1425.
 
@@ -7835,7 +7859,7 @@ De la sentencia quedará constancia íntegra por escrito y se pondrá una copia 
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1426.
 
@@ -7843,7 +7867,7 @@ La audiencia principal sólo se suspenderá por caso fortuito, de fuerza mayor, 
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1427.
 
@@ -7853,7 +7877,7 @@ El incidente de nulidad no suspende la citación para sentencia, siempre que no 
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1428.
 
@@ -7861,7 +7885,7 @@ La sentencia deberá quedar asentada por escrito y estará apegada a lo establec
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1429.
 
@@ -7869,7 +7893,7 @@ La sentencia que decrete los alimentos fijará la pensión correspondiente, la c
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1430.
 
@@ -7883,13 +7907,13 @@ La pensión definitiva fijada en la sentencia sustituirá a la provisional.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 6 DE JULIO DE 2012) (REPUBLICADA, P.O. 13 DE AGOSTO DE 2012)
 
 #### SECCION QUINTA. De las Pruebas
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1431.
 
@@ -7897,7 +7921,7 @@ Desde la presentación de la demanda, o dentro del proceso, hasta antes de fijar
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1432.
 
@@ -7905,7 +7929,7 @@ Si la causa que dio lugar a la práctica de la prueba anticipada no existiera pa
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1433.
 
@@ -7913,7 +7937,7 @@ La prueba practicada anticipadamente podrá realizarse de nuevo si, en el moment
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1434.
 
@@ -7933,7 +7957,7 @@ VI. Cuando se traten de documentos que obren ante personas morales o físicas, o
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1435.
 
@@ -7941,7 +7965,7 @@ Se tendrán por ciertos los hechos que pretendan acreditar las partes al ofrecer
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1436.
 
@@ -7971,7 +7995,7 @@ XI. No contendrán repetición de posiciones.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1437.
 
@@ -7991,7 +8015,7 @@ VI. El juez valorará las circunstancias particulares, tendrá o no por justific
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1438.
 
@@ -8007,17 +8031,17 @@ Si el que deba declarar no asiste, pese a haber agotado el juez los medios de ap
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2012)</small>
 
 ###### Art. 1439.
 
 La declaración de parte podrá recibirse con independencia de la confesional.
 
-Si se admiten la confesional y la declaración de parte, éstas se desahogarán al concluir aquella.
+Si se admiten la confesional y la declaración de parte, éstas se desahogarán al concluir aquélla.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1440.
 
@@ -8025,7 +8049,7 @@ La testimonial se desahogará mediante interrogatorio o contrainterrogatorio ora
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1441.
 
@@ -8039,7 +8063,7 @@ El juez cuidará la indivisibilidad de la prueba.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1442.
 
@@ -8047,7 +8071,7 @@ Los testigos podrán ser tachados en la audiencia inicial y el juez resolverá d
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1443.
 
@@ -8055,7 +8079,7 @@ Cuando sobre uno o varios hechos controvertidos deban declarar dos o más testig
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1444.
 
@@ -8063,7 +8087,7 @@ Las preguntas del interrogatorio o contrainterrogatorio sólo se referirán a he
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1445.
 
@@ -8081,7 +8105,7 @@ V. Estén formuladas en términos técnicos o se refieran a opiniones o creencia
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1446.
 
@@ -8089,7 +8113,7 @@ La parte contraria podrá objetar su admisibilidad únicamente en el momento en 
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1447.
 
@@ -8097,7 +8121,7 @@ Una vez respondidas las preguntas formuladas por la parte oferente, la parte con
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1448.
 
@@ -8105,7 +8129,7 @@ En el caso de personas de más de setenta años y personas enfermas, podrá el j
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1449.
 
@@ -8113,7 +8137,7 @@ Cuando el testigo propuesto no resida en el lugar del juicio, la parte oferente 
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1450.
 
@@ -8121,7 +8145,7 @@ Los registros del procedimiento oral, cualquiera que sea el medio, serán instru
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2012)</small>
 
 ###### Art. 1451.
 
@@ -8129,19 +8153,19 @@ La objeción de documentos se realizará en la fase de admisión y preparación 
 
 Los documentos exhibidos en la audiencia principal se objetarán en la misma.
 
-El juez proveerá lo conducente para desahogar en la audiencia principal las pruebas admitidas.
+El juez proveerá lo conducente para desahogar en la audiencia principal las pruebas admitidas
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2012)</small>
 
 ###### Art. 1452.
 
-Si se ofrece la prueba pericial, cada parte nombrará un perito, a no ser que se pusieren de acuerdo en el nombramiento de uno solo; en el caso en que los peritos de cada parte ofrezcan dictámenes contradictorios entre sí, las partes, de comun acuerdo, nombrarán un perito tercero para el caso de discordia y, de no nombrar al tercero, el juez lo designará.
+Si se ofrece la prueba pericial, cada parte nombrará un perito, a no ser que se pusieren de acuerdo en el nombramiento de uno solo; en el caso en que los peritos de cada parte ofrezcan dictámenes contradictorios entre sí, las partes, de común acuerdo, nombrarán un perito tercero para el caso de discordia y, de no nombrar al tercero, el juez lo designará.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1453.
 
@@ -8149,7 +8173,7 @@ Las partes que hayan designado peritos quedan obligadas a que éstos acepten y p
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1454.
 
@@ -8159,7 +8183,7 @@ Se apercibirá a las partes de que, de negarse a los exámenes o ante su inasist
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1455.
 
@@ -8169,7 +8193,7 @@ El juez podrá formularle preguntas al perito sólo cuando, de manera fundada y 
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1456.
 
@@ -8177,7 +8201,7 @@ Cuando los peritos de cada parte, sin causa justificada, no acepten ni protesten
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1457.
 
@@ -8185,7 +8209,7 @@ El reconocimiento judicial se practicará en la forma estipulada en el Capítulo
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1458.
 
@@ -8201,13 +8225,13 @@ Las documentales supervenientes se ofrecerán y desahogarán a más tardar en la
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ### CAPITULO III. Del Procedimiento Voluntario de Solicitud de Alimentos
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1459.
 
@@ -8217,7 +8241,7 @@ Si no se reúnen los requisitos previstos en el párrafo anterior, el juez conce
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1460.
 
@@ -8229,11 +8253,109 @@ Al concluir el desahogo de pruebas, el juez procederá a dictar sentencia. Si no
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2012)</small>
+(ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 13 DE AGOSTO DE 2012)
 
 ###### Art. 1461.
 
 Si a la solicitud se opusiere el deudor alimentario, el asunto se convierte en contencioso y se tramitará conforme a lo dispuesto en los capítulos I y II del presente título.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE AGOSTO DE 2012)</small>
+
+### CAPITULO IV. De la Adopción
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2012)</small>
+
+###### Art. 1462.
+
+El procedimiento de adopción deberá justificar los requisitos previstos en los artículos 406, 407, 407 B y 408 B del Código Civil del Estado, y dará inicio con la solicitud escrita en la que se expresará:
+
+I. El tipo de adopción que se promueve;
+
+II. El nombre, edad y domicilio del menor o incapacitado que se pretende adoptar;
+
+III. El nombre, edad y domicilio de quienes ejerzan sobre él la patria potestad o tutela o, en su caso, de la persona o institución de asistencia social pública o privada que lo haya acogido; y
+
+IV. El certificado médico de buena salud y los estudios socioeconómico y psicológico realizados por instituciones públicas autorizadas.
+
+Cuando el menor hubiere sido acogido por una institución de asistencia social pública o privada, el adoptante recabará constancia del tiempo de la exposición o abandono para los efectos del artículo 458 fracción IV del Código Civil del Estado.
+
+Si hubieren transcurrido menos de seis meses de la exposición o abandono, se decretará el depósito de quien se pretende adoptar a favor del adoptante peticionario, entre tanto se consuma dicho plazo.
+
+Si el menor no tuviere padres conocidos o no hubiere sido acogido por institución de asistencia social pública o privada, se decretará el depósito a favor del adoptante peticionario por el término de seis meses para los mismos efectos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2012)</small>
+
+###### Art. 1463.
+
+Si la solicitud fuere oscura o irregular, el juez deberá prevenir al o a los solicitantes para que la aclaren, corrijan o completen de acuerdo con el artículo anterior, y señalará en concreto sus defectos. Cumplimentado lo anterior, le dará curso.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2012)</small>
+
+###### Art. 1464.
+
+A la solicitud de adopción deberán anexar los documentos idóneos que acrediten la veracidad de lo señalado en la misma.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2012)</small>
+
+###### Art. 1465.
+
+Presentada y admitida la solicitud de adopción, el juez señalará día y hora para la celebración de la audiencia dentro de un término que no podrá exceder de los cinco días hábiles siguientes a la fecha de la admisión.
+
+La audiencia se desarrollará de manera continua y el orden se hará de la siguiente manera:
+
+I. El juez calificará la procedencia judicial de los requisitos y constatará que se haya cumplido con todo lo previsto en los artículos 406 y 407 del Código Civil del Estado y en los artículos 1461, 1462 y 1463 del presente Código;
+
+II. Se desahogarán las pruebas acorde a las reglas establecidas en el presente Título;
+
+III. Se escucharán a las partes: a los solicitantes; a la Procuraduría de la Defensa del Menor, la Mujer y la Familia; al ministerio público; y, en su caso, a la institución pública o privada que haya participado en el proceso;
+
+IV. Terminado lo anterior, el juez procederá al dictado de sentencia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2012)</small>
+
+###### Art. 1466.
+
+El Sistema Estatal para el Desarrollo Integral de la Familia, a través de la Procuraduría de la Defensa del Menor, la Mujer y la Familia, podrá iniciar ante las instancias judiciales competentes los trámites de adopción simple; plena e internacional de menores de edad, en los términos establecidos en los tratados internacionales, leyes y reglamentos en la materia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2012)</small>
+
+###### Art. 1467.
+
+La adopción surte sus efectos cuando la sentencia cause ejecutoria.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2012)</small>
+
+###### Art. 1468.
+
+La resolución que niegue la adopción será apelable en ambos efectos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2012)</small>
+
+###### Art. 1469.
+
+El mismo procedimiento se realizará para:
+
+I. La revocación de la adopción; y
+
+II. Cuando el adoptante y el adoptado soliciten la conversión de la adopción simple en plena.
 
 DISPOSICIONES TRANSITORIAS
 
@@ -8390,3 +8512,13 @@ Los procedimientos relativos a las materias de alimentos iniciados antes de la e
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al contenido de este decreto.
 
 TERCERO.- El Pleno del H. Tribunal Superior de Justicia del Estado de Campeche realizará todas las acciones necesarias para la implementación de lo dispuesto en el presente decreto.
+
+P.O. 13 DE AGOSTO DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor a los seis meses después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los procedimientos relativos a las materias de adopción y pérdida de la patria potestad, iniciados antes de la entrada en vigor del presente decreto, se substanciarán y continuarán conforme a las disposiciones vigentes en el momento de su inicio.
+
+TERCERO.- El Pleno del H. Tribunal Superior de Justicia del Estado de Campeche realizará todas las acciones necesarias para la implementación de lo dispuesto en el presente decreto.
+
+CUARTO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al contenido de este decreto.
