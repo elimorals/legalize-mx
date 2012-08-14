@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-servicios-de-vialidad-transito-y-transporte-del-1202
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-07"
-last_updated: "2012-07-21"
+last_updated: "2012-08-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS SERVICIOS DE VIALIDAD, TRÁNSITO Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2012.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 1998.
 
@@ -341,7 +341,7 @@ XII. Otorgar concesiones para establecer y administrar servicios en las zonas qu
 
 XIII. Otorgar concesiones y permisos con la intervención de los ayuntamientos que dentro de su ámbito territorial corresponda la prestación del servicio público de transporte;
 
-XIV. Autorizar las tarifas para el servicio público de transporte de pasajeros, con base en los estudios y propuestas que formulen el Consejo Consultivo, el CEIT y el Organismo Coordinador;
+XIV. (DEROGADA, P.O. 14 DE AGOSTO DE 2012)
 
 XV. Autorizar las tarifas para el servicio público de transporte de carga que opere en las vías públicas de comunicación local;
 
@@ -2025,9 +2025,11 @@ IV. (DEROGADA, P.O. 24 DE FEBRERO DE 2005)
 
 La comisión de Tarifas es un órgano auxiliar del Poder Ejecutivo del Estado de Jalisco, que tendrá la facultad, a propuesta del Organismo Coordinador, de revisar, aprobar y modificar las tarifas, para el servicio público de transporte en sus distintas modalidades y se conformará por representantes gubernamentales, sociales, empresariales y prestadores del servicio, con la siguiente integración:
 
-I. El presidente que será el Gobernador del Estado, o la persona que éste designe;
+I. (DEROGADA, P.O. 14 DE AGOSTO DE 2012)
 
-II. El Secretario de Vialidad Tránsito y Transporte o su representante;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2012)</small>
+
+II. El Secretario de Vialidad Tránsito y Transporte o su representante, quien la presidirá;
 
 III. Los representantes de los municipios de Guadalajara, Zapopán, Tlaquepaque, Tonalá, Tlajomulco de Zúñiga, El Salto, Juanacatlán, Puerto Vallarta, Zapotlán el Grande y Tepatitlán de Morelos.
 
@@ -2061,11 +2063,25 @@ La Comisión de Tarifas, bajo ninguna circunstancia puede asumir atribuciones qu
 
 La Comisión de Tarifas sesionará previa convocatoria por parte del Organismo Coordinador, durante el tiempo necesario para resolver la situación que le sea planteada por el mismo.
 
-La resolución en que se determine la procedencia o no de una modificación a las tarifas, así como el monto de las mismas, deberán basarse en los estudios recibidos del Organismo Coordinador, y en caso de no adoptar su propuesta, deberá fundarse y motivarse la resolución adoptada.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2012)</small>
 
-La resolución emitida deberá ser razonada y aprobada de conformidad con los lineamientos establecidos por el artículo 141 de la presente ley, en sesión formal por la mayoría de votos de los participantes. Una vez aprobadas las tarifas deberán ser enviadas al Periódico Oficial "El Estado de Jalisco", para su publicación, entrando en vigor quince días después de la misma.
+La resolución en que se determine la procedencia o no de una modificación a las tarifas, así como el monto de las mismas, deberán basarse en los estudios recibidos del Organismo Coordinador, e invariablemente deberá fundarse y motivarse la resolución adoptada.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2012)</small>
+
+La resolución emitida deberá ser razonada y aprobada de conformidad con los lineamientos establecidos por el artículo 141 de la presente ley, en sesión formal con la mayoría de votos de los participantes. Una vez aprobadas las tarifas, se remitirá la resolución suscrita por quien preside la Comisión de Tarifas, al Secretario General de Gobierno para que ordene su publicación en el periódico oficial El Estado de Jalisco, entrando en vigor quince días después de la misma.
 
 Las tarifas a que se refiere el párrafo anterior, regirán para todos los prestadores del servicio público de transporte según la modalidad de que se trate.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2012)</small>
+
+###### Artículo 143 Quater.
+
+El Gobernador del Estado podrá modificar, en cualquier momento, las tarifas de transporte público cuando exista una causa de interés público, interés social o con motivo de calamidades públicas que afecten a grupos sociales, comunidades o regiones del Estado de Jalisco.
+
+Los acuerdos del Gobernador del Estado dictados en ejercicio de las atribuciones señaladas en el presente artículo deberán publicarse invariablemente en el periódico oficial El Estado de Jalisco. En el caso de que la modificación sea a la alza, dicho acuerdo entrará en vigor quince días después de su publicación.
+
+Las previsiones señaladas en el presente artículo serán aplicables igualmente en tratándose de las determinaciones de autorización y modificación de las tarifas de las diversas modalidades de transporte de pasajeros y objetos, y carga, señalados en el artículo 82 de esta ley.
 
 ###### Artículo 144.
 
@@ -3372,3 +3388,7 @@ P.O. 19 DE MAYO DE 2012.
 P.O. 21 DE JULIO DE 2012.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 14 DE AGOSTO DE 2012.
+
+ÚNICO. El presente decreto entrará en vigor el día de su publicación en el periódico oficial El Estado de Jalisco.
