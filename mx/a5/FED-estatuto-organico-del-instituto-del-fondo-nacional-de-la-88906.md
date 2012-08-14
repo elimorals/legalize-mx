@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-del-fondo-nacional-de-la-88906"
 country: "mx"
 rank: "estatuto"
 publication_date: "2011-03-25"
-last_updated: "2011-07-22"
+last_updated: "2012-08-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88906&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2010-12-03"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE JULIO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL ESTATUTO ORGÁNICO DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES, PUBLICADO EN EL D.O.F. DE 14 DE AGOSTO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 25 de marzo de 2011.
 
@@ -796,3 +798,17 @@ D.O.F. 22 DE JULIO DE 2011.
 ###### ARTICULO UNICO.
 
 Las presentes modificaciones y adiciones al Estatuto Orgánico del Instituto del Fondo Nacional de la Vivienda para los Trabajadores entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 14 DE AGOSTO DE 2012.
+
+###### ARTICULO PRIMERO.
+
+El presente Estatuto Orgánico abroga el aprobado mediante el Acuerdo 1507, tomado en la sesión ordinaria número 99 de la H. Asamblea General, celebrada el 3 de diciembre de 2010, y sus modificaciones aprobadas mediante Acuerdo 1525, tomado en la sesión ordinaria número 100 de la H. Asamblea General, celebrada el 8 de abril de 2011.
+
+###### ARTICULO SEGUNDO.
+
+Este Estatuto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO TERCERO.
+
+Conforme al Acuerdo 1577, tomado en la sesión ordinaria número 102 de la H. Asamblea General, celebrada el 27 de abril de 2012, las funciones contenidas en el artículo 54 del presente Estatuto, correspondientes a excelencia en el servicio, entrarán en vigor en los términos que determine el H. Consejo de Administración del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
