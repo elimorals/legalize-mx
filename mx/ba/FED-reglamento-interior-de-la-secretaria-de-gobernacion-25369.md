@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-gobernacion-25369"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-07-30"
-last_updated: "2010-07-01"
+last_updated: "2012-08-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25369&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2002-07-29"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBERNACION
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBERNACION
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBERNACIÓN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE JULIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE AGOSTO DE 2012.
 
 Reglamento publicado en la Quinta Sección del Diario Oficial de la Federación, el martes 30 de julio de 2002.
 
@@ -57,7 +57,7 @@ V. Subsecretario de Normatividad de Medios, y
 
 VI. Oficial Mayor.
 
-> <small>(REFORMADO, D.O.F. 1 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 15 DE AGOSTO DE 2012)</small>
 
 B. Las unidades administrativas siguientes:
 
@@ -69,47 +69,53 @@ III. Dirección General de Comunicación Social;
 
 IV. Unidad de Gobierno;
 
-V. Unidad de Enlace Federal;
+V. Unidad de Enlace Federal y Coordinación con Entidades Federativas;
 
 VI. Unidad para la Atención de las Organizaciones Sociales;
 
-VII. Dirección General de Coordinación con Entidades Federativas;
+VII. Unidad de Política Interior y Análisis de Información;
 
-VIII. Unidad de Enlace Legislativo;
+VIII. Dirección General de Análisis y Prospectiva para la Política Interior;
 
-IX. Dirección General de Estudios Legislativos;
+IX. Dirección General de Juegos y Sorteos;
 
-X. Dirección General de Información Legislativa;
+X. Unidad de Enlace Legislativo;
 
-XI. Dirección General de Cultura Democrática y Fomento Cívico;
+XI. Dirección General de Estudios Legislativos;
 
-XII. Unidad de Asuntos Jurídicos;
+XII. Dirección General de Información Legislativa;
 
-XIII. Unidad para la Promoción y Defensa de los Derechos Humanos;
+XIII. Dirección General de Cultura Democrática y Fomento Cívico;
 
-XIV. Dirección General de Compilación y Consulta del Orden Jurídico Nacional;
+XIV. Unidad de Asuntos Jurídicos;
 
-XV. Dirección General del Registro Nacional de Población e Identificación Personal;
+XV. Unidad para la Promoción y Defensa de los Derechos Humanos;
 
-XVI. Dirección General de Asociaciones Religiosas;
+XVI. Dirección General de Compilación y Consulta del Orden Jurídico Nacional;
 
-XVII. Dirección General de Radio, Televisión y Cinematografía;
+XVII. Unidad de Política Migratoria;
 
-XVIII. Dirección General de Medios Impresos;
+XVIII. Dirección General del Registro Nacional de Población e Identificación Personal;
 
-XIX. Dirección General de Normatividad de Comunicación;
+XIX. Dirección General de Asociaciones Religiosas;
 
-XX. Dirección General de Programación y Presupuesto;
+XX. Dirección General de Radio, Televisión y Cinematografía;
 
-XXI. Dirección General de Recursos Humanos;
+XXI. Dirección General de Medios Impresos;
 
-XXII. Dirección General de Recursos Materiales y Servicios Generales;
+XXII. Dirección General de Normatividad de Comunicación;
 
-XXIII. Dirección General de Tecnologías de la Información;
+XXIII. Dirección General de Programación y Presupuesto;
 
-XXIV. Dirección General de Protección Civil, y
+XXIV. Dirección General de Recursos Humanos;
 
-XXV. Dirección General para el Fondo de Desastres Naturales.
+XXV. Dirección General de Recursos Materiales y Servicios Generales;
+
+XXVI. Dirección General de Tecnologías de la Información;
+
+XXVII. Dirección General de Protección Civil, y
+
+XXVIII. Dirección General para el Fondo de Desastres Naturales.
 
 C. Los órganos administrativos desconcentrados a que se refiere el artículo 36 de este Reglamento y aquellos otros que le correspondan, por disposición legal, reglamentaria o determinación del Presidente de la República.
 
@@ -311,7 +317,7 @@ XXV. Las demás que le señalen otras disposiciones legales o reglamentarias o l
 
 El titular de la Coordinación General de Protección Civil, así como los de cada Unidad y Dirección General, podrán auxiliarse por los directores generales adjuntos, directores y subdirectores de área, jefes de departamento o sus similares y demás servidores públicos que se requieran para cubrir las necesidades del servicio y figuren en su estructura autorizada, conforme a las disposiciones normativas aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 9o.
 
@@ -461,93 +467,177 @@ IX. Expedir constancias de acreditación de medios de información extranjeros a
 
 X. Las demás que le atribuya el Secretario dentro de la esfera de sus facultades.
 
+> <small>(REFORMADO, D.O.F. 15 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 12.
 
 La Unidad de Gobierno tendrá las siguientes atribuciones:
 
-I. Dar trámite administrativo a las medidas que procuren el cumplimiento de los preceptos constitucionales por parte de las autoridades del país, especialmente las que se refieren a las garantías individuales y prerrogativas del ciudadano, salvo aquellas que resulten de la competencia de la Unidad para la Promoción y Defensa de los Derechos Humanos;
+I. Dar trámite administrativo a las medidas que procuren el cumplimiento de los preceptos constitucionales por parte de las autoridades del país, especialmente los que se refieren a los derechos humanos y a las garantías para su protección, salvo aquellas que resulten de la competencia de la Unidad para la Promoción y Defensa de Derechos Humanos;
 
-II. Apoyar al Secretario en las relaciones del Poder Ejecutivo Federal con los demás Poderes de la Unión y con los partidos y agrupaciones políticas nacionales, salvo las que se susciten con motivo de procedimientos legislativos, de modificación a la Constitución Política de los Estados Unidos Mexicanos y demás que se sigan en el Congreso de la Unión, en cualquiera de sus Cámaras o en la Comisión Permanente y cuya conducción en apoyo del titular del ramo corresponda a la Unidad de Enlace Legislativo; así como con los órganos constitucionales autónomos, salvo aquellas a que se refiere el artículo 21 de este Reglamento;
+II. Apoyar al Secretario en la conducción de las relaciones políticas del Poder Ejecutivo Federal con los demás Poderes de la Unión, los partidos y agrupaciones políticas nacionales, las organizaciones sociales y los organismos constitucionales autónomos, salvo aquellas que correspondan a otra unidad administrativa;
 
-III. En el ámbito de su competencia, participar en el auxilio al titular del ramo en sus relaciones con los ciudadanos y sus organizaciones y participar en la atención de los asuntos que se le planteen en las entidades federativas, así como coadyuvar, conforme a las leyes, en la solución de las problemáticas planteadas;
+III. Auxiliar al Secretario, en lo que corresponda al Poder Ejecutivo Federal, a dar sustento a la unidad nacional, así como a preservar la cohesión y el fortalecimiento de las instituciones de Gobierno, en sus relaciones con los ciudadanos y sus organizaciones;
 
-IV. Tramitar y registrar los nombramientos, remociones, renuncias y licencias de los secretarios de Estado y jefes de Departamento Administrativo del Ejecutivo Federal, del Procurador General de la República, del servidor público que tenga a su cargo la fuerza pública en el Distrito Federal, así como realizar los trámites que se requieran para la aprobación, por parte del Presidente de la República, del nombramiento y remoción del Procurador General de Justicia del Distrito Federal;
+IV. Otorgar atención sobre los asuntos de gobernabilidad que planteen los ciudadanos y sus organizaciones, colaborando conforme a las leyes, en la solución de los problemas planteados;
 
-V. Intervenir en los nombramientos, aprobaciones, designaciones, destituciones, renuncias y jubilaciones de los servidores públicos que no se atribuyan expresamente por la ley a otras dependencias del Ejecutivo;
+V. Tramitar y registrar los nombramientos, remociones, renuncias y licencias de los secretarios de Estado, del Procurador General de la República, del servidor público que tenga a su cargo la fuerza pública en el Distrito Federal, así como realizar los trámites que se requieran para la aprobación, por parte del Presidente de la República, del nombramiento y remoción del Procurador General de Justicia del Distrito Federal;
 
-VI. Atender el trámite relativo al ejercicio de las facultades que otorgan al Ejecutivo Federal los artículos 96, 98 y 100 de la Constitución Política de los Estados Unidos Mexicanos, sobre nombramientos, renuncias y licencias de los ministros de la Suprema Corte de Justicia y de los consejeros de la Judicatura Federal, así como de otros nombramientos en que las leyes determinen la intervención del Ejecutivo de la Unión a través de la Secretaría de Gobernación;
+VI. Intervenir en los nombramientos, aprobaciones, designaciones, destituciones, renuncias y jubilaciones de los servidores públicos que no se atribuyan expresamente por la ley a otras dependencias del Ejecutivo Federal o bien, en aquellos en que las leyes determinen la intervención del Ejecutivo Federal a través de la Secretaría;
 
-VII. Recopilar y mantener al corriente la información sobre los atributos personales, académicos y técnicos de los servidores públicos y presuntos servidores públicos a que se refiere la fracción anterior;
+VII. Atender el trámite relativo al ejercicio de las facultades que otorgan al Ejecutivo Federal los artículos 96, 98 y 100 de la Constitución Política de los Estados Unidos Mexicanos sobre nombramientos, renuncias y licencias de los ministros de la Suprema Corte de Justicia de la Nación y de los consejeros de la Judicatura Federal;
 
-VIII. Llevar el registro de autógrafos de los servidores públicos federales, estatales y del Distrito Federal a quienes las leyes o reglamentos faculten para hacer constar la legitimidad de documentos;
+VIII. Recopilar y mantener actualizada la información sobre los atributos personales, académicos y técnicos de los servidores públicos a que se refieren las dos fracciones anteriores;
 
-IX. Operar el procedimiento de legalización de firmas de los servidores públicos a que se refiere la fracción anterior;
+IX. Llevar el registro de autógrafos de los Gobernadores de los Estados y de los servidores públicos federales a quienes las leyes o reglamentos faculten para hacer constar la legitimidad de documentos o apostillar éstos. También podrá llevar el registro de los de autógrafos de los servidores públicos de las entidades federativas para los efectos señalados en esta fracción, previo convenio de coordinación que al efecto se suscriba;
 
-X. Administrar y proveer lo necesario para la exacta observancia de las leyes federales y tratados, en las islas de jurisdicción federal, salvo aquellas cuya administración corresponda, por ley, a otra dependencia o entidad de la Administración Pública Federal;
+X. Operar el procedimiento de legalización de firmas de los servidores públicos, así como el de apostilla de documentos a que se refiere la fracción anterior;
 
-XI. Tramitar lo relativo a la aplicación del artículo 33 de la Constitución Política de los Estados Unidos Mexicanos;
+XI. Administrar las islas de jurisdicción federal de conformidad con las leyes federales y tratados internacionales, salvo aquellas cuya administración corresponda, por disposición de la ley, a otra dependencia o entidad de la administración pública federal;
 
-XII. Vigilar, tramitar y autorizar los actos a que se refiere la Ley Federal de Juegos y Sorteos y demás normatividad aplicable;
+XII. Sustanciar y dar seguimiento al procedimiento de aplicación del artículo 114 de la Ley de Migración, en coordinación con las autoridades competentes;
 
-XIII. Opinar previamente sobre las autorizaciones que conceda la Dirección General de Radio, Televisión y Cinematografía en relación con los programas en que se otorguen premios, así como en los casos en los cuales intervenga directa o indirectamente el azar en los procedimientos para el otorgamiento de premios;
+XIII. Vigilar, tramitar y autorizar los actos a los que se refiere la Ley Federal de Juegos y Sorteos y demás normatividad aplicable;
 
-XIV. Coordinar la elaboración del Informe de Labores de la Secretaría e integrar la información correspondiente para la formulación del Informe Presidencial y del Informe de Ejecución del Plan Nacional de Desarrollo, así como apoyar al titular del ramo en la rendición de las informaciones oficiales del Ejecutivo Federal;
+XIV. Atender y despachar los asuntos en los que sea necesaria la coordinación y colaboración de la Secretaría con otras autoridades en materia de juegos con apuestas y sorteos;
 
-XV. Tramitar la publicación de los reglamentos y demás disposiciones jurídicas expedidas por el Presidente de la República en términos de lo dispuesto en la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, así como de las resoluciones y disposiciones que, por ley, deban publicarse en el Diario Oficial de la Federación;
+XV. Planear, establecer y coordinar las estrategias para el combate de las actividades prohibidas por la Ley Federal de Juegos y Sorteos y su Reglamento;
 
-XVI. Organizar y publicar el Diario Oficial de la Federación, y
+XVI. Coordinar la elaboración del Informe de Labores de la Secretaría e integrar la información correspondiente para la formulación del Informe Presidencial y del Informe de Ejecución del Plan Nacional de Desarrollo, así como apoyar al titular del ramo en la rendición de información oficial del Ejecutivo Federal;
 
-XVII. Las demás que determine el Secretario dentro de la esfera de sus facultades.
+XVII. Auxiliar al Secretario en el fortalecimiento y mantenimiento de la integridad, estabilidad y permanencia de las instituciones democráticas que establece el orden constitucional, y coadyuvar a favorecer las condiciones que permitan la construcción de acuerdos políticos y consensos sociales para que, en los términos de la Constitución y de las leyes, se mantengan las condiciones de gobernabilidad democrática;
 
-> <small>(ADICIONADO, D.O.F. 1 DE SEPTIEMBRE DE 2004)</small>
+XVIII. Participar en las acciones en materia de seguridad nacional tendientes a lograr el mantenimiento del orden constitucional y fortalecimiento de las instituciones democráticas de gobierno;
 
-Sin perjuicio de lo dispuesto por los artículos 8o. y 34 de este Reglamento, para el eficaz despacho de los asuntos a su cargo y para un mejor desempeño en el ejercicio de sus atribuciones, el Titular de la Unidad de Gobierno podrá auxiliarse, entre otros, por los directores generales adjuntos de Gobierno, de Juegos y Sorteos, y del Diario Oficial de la Federación.
+XIX. Emitir opinión previa sobre solicitudes de autorizaciones que se presenten ante la Dirección General de Radio, Televisión y Cinematografía para llevar a cabo programas comerciales de concursos, preguntas y respuestas y otros semejantes en que se ofrezcan premios, en los que en alguna etapa de su desarrollo intervenga directa o indirectamente el azar, que se transmitan o únicamente se promocionen por medios de comunicación masiva, tales como la radio, la televisión abierta o restringida;
+
+XX. Sistematizar y dar seguimiento a las comunicaciones en materia de información de asuntos de gobernabilidad democrática de la Secretaría;
+
+XXI. Coordinar la elaboración de la agenda de asuntos de gobernabilidad democrática de la Secretaría;
+
+XXII. Coordinar a las unidades administrativas y órganos administrativos desconcentrados de la Secretaría que generen información de asuntos de gobernabilidad democrática;
+
+XXIII. Tramitar la publicación de leyes y decretos del Congreso de la Unión, de alguna de las dos Cámaras o de la Comisión Permanente en términos de las disposiciones jurídicas, así como los reglamentos y demás normas jurídicas expedidas por el Presidente de la República en términos de lo dispuesto en la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, así como de las resoluciones y disposiciones que por ley deban publicarse en el Diario Oficial de la Federación;
+
+XXIV. Organizar y publicar el Diario Oficial de la Federación, y
+
+XXV. Las demás que le confiera el Secretario dentro de la esfera de sus facultades, y otras disposiciones jurídicas aplicables.
+
+Sin perjuicio de lo dispuesto por otras disposiciones de este Reglamento, para el eficaz despacho de los asuntos a su cargo y para un mejor desempeño en el ejercicio de sus atribuciones, el titular de la Unidad de Gobierno podrá auxiliarse, entre otros, por el Director General Adjunto del Diario Oficial de la Federación y por el Director de Coordinación Política con los Poderes de la Unión.
+
+> <small>(REFORMADO, D.O.F. 15 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 13.
 
-La Unidad de Enlace Federal tendrá las siguientes atribuciones:
+La Unidad de Enlace Federal y Coordinación con Entidades Federativas tendrá las siguientes atribuciones:
 
-I. Auxiliar al titular del ramo en las relaciones del Poder Ejecutivo Federal con los gobiernos de las entidades federativas y de los municipios, así como con las demás autoridades federales y locales;
+I. Auxiliar al Secretario en la conducción de las relaciones del Poder Ejecutivo Federal con los gobiernos de los estados y de los municipios, con los organismos electorales, partidos y agrupaciones políticas en las entidades federativas, así como con las demás autoridades federales y locales, salvo aquellas que correspondan a otra unidad administrativa;
 
-II. Atender los asuntos que se le planteen en los estados y en el Distrito Federal y, en su caso, canalizar tales asuntos a las autoridades competentes;
+II. Atender los asuntos que planteen las entidades federativas;
 
-III. Diseñar las medidas necesarias para la coordinación, organización y funcionamiento de las representaciones de la Subsecretaría de Gobierno en las entidades federativas, las que, además, atenderán atribuciones de otras áreas de la Secretaría cuando así lo determine el Secretario;
+III. Determinar e instrumentar las acciones necesarias para la coordinación, organización y funcionamiento de las representaciones de la Subsecretaría de Gobierno en las entidades federativas;
 
-IV. Establecer y fomentar vínculos institucionales, dentro del ámbito de competencia de la Secretaría, con las autoridades de las entidades federativas y de los municipios, y
+IV. Coordinar y dar seguimiento a las actividades que lleven a cabo las representaciones de la Subsecretaría de Gobierno en las entidades federativas;
 
-V. Las demás que le señale el titular del ramo, dentro de la esfera de sus facultades.
+V. Supervisar que las representaciones de la Subsecretaría de Gobierno en las entidades federativas brinden la debida atención y apoyo a las unidades administrativas u órganos administrativos desconcentrados de la Secretaría cuando así les sea requerido o bien, cuando así lo determine el Secretario para el debido ejercicio de sus atribuciones, fungiendo como ventanilla única de trámites en los casos en que así se disponga;
+
+VI. Estudiar y analizar, en el ámbito de competencia de la Secretaría, los fenómenos sociales, políticos y económicos de las entidades federativas, municipios o de regiones del país, a fin de coadyuvar en la detección, prevención, canalización, colaboración o solución de las problemáticas consecuencia de dichos fenómenos;
+
+VII. Participar y dar seguimiento a las acciones de coordinación entre la Federación y las entidades federativas;
+
+VIII. Coadyuvar, a través de las representaciones de la Subsecretaría de Gobierno, al fomento de vínculos institucionales y de coordinación con las delegaciones federales en las entidades federativas, y con las dependencias y entidades estatales y municipales, y
+
+IX. Las demás que le confiera el Secretario dentro de la esfera de sus facultades, y otras disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, D.O.F. 15 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 14.
 
 La Unidad para la Atención de las Organizaciones Sociales tendrá las siguientes atribuciones:
 
-I. Auxiliar al titular del ramo en sus relaciones con los ciudadanos y sus organizaciones;
+I. Representar al Secretario ante distintas instancias de diálogo y concertación social;
 
 II. Recibir, atender y, en su caso, remitir a las instancias competentes, de conformidad con las disposiciones legales aplicables, las peticiones que formulen las instituciones y organizaciones políticas, sociales y civiles;
 
-III. En el ámbito de competencia de la Secretaría, intervenir en la solución de problemáticas que se le planteen por parte de los ciudadanos y de las organizaciones e instituciones políticas, sociales y civiles, así como propiciar que las actividades de dichas organizaciones e instituciones se desarrollen en el marco de las disposiciones legales y de gobernabilidad democrática;
+III. Intervenir en el ámbito de competencia de la Secretaría, en la solución de problemáticas que se le planteen por parte de los ciudadanos y de las organizaciones e instituciones políticas, sociales y civiles, así como propiciar que las actividades de dichas organizaciones e instituciones se desarrollen en el marco de las disposiciones legales y de gobernabilidad democrática;
 
-IV. Auxiliar al Secretario en el diseño, instrumentación, ejecución y seguimiento de proyectos, planes, acciones y estrategias para la atención oportuna de la problemática planteada por los ciudadanos y sus organizaciones, así como para solución de los conflictos que pudieren derivar de tales asuntos, y
+IV. Auxiliar al Secretario en el diseño, instrumentación, ejecución y seguimiento de proyectos, planes y acciones para la atención oportuna de los problemas planteados por los ciudadanos y sus organizaciones, así como en la realización de acciones de concertación para la distensión y, en su caso, solución de conflictos;
 
-V. Las demás que le confieran otras disposiciones jurídicas o que determine el Secretario dentro de la esfera de sus facultades.
+V. Establecer y conducir las acciones de coordinación con las dependencias y entidades de la Administración Pública Federal y de las entidades federativas y municipales para la atención de la problemática y conflictos de los ciudadanos y sus organizaciones, y
+
+VI. Las demás que le confiera el Secretario dentro de la esfera de sus facultades, y otras disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, D.O.F. 15 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 15.
 
-La Dirección General de Coordinación con Entidades Federativas tendrá las siguientes atribuciones:
+La Unidad de Política Interior y Análisis de Información tendrá las siguientes atribuciones:
 
-I. Instrumentar y poner en ejecución las medidas necesarias para la organización y funcionamiento de las representaciones de la Subsecretaría de Gobierno en las entidades federativas, proponiendo su número y distribución en el país;
+I. Integrar la agenda de gobernabilidad democrática de la Secretaría;
 
-II. Coordinar y dar seguimiento a las actividades y acciones que lleven a cabo las representaciones de la Subsecretaría de Gobierno en las entidades federativas;
+II. Integrar y analizar la información en materia de gobernabilidad y política interior del país, proponiendo las acciones integrales y estratégicas que correspondan;
 
-III. Supervisar que las representaciones de la Subsecretaría de Gobierno en las entidades federativas, brinden debida atención a otras unidades administrativas u órganos administrativos desconcentrados de la Secretaría, cuando así lo determine el Secretario, para el debido ejercicio de sus atribuciones, fungiendo como ventanilla única de trámites, en los casos en que así se disponga;
+III. Participar en la ejecución y seguimiento de los compromisos en materia de gobernabilidad democrática y política interior del país;
 
-IV. Estudiar y analizar, en el ámbito de competencia de la Secretaría, los fenómenos sociales, políticos y económicos de las entidades federativas y municipios o de regiones del país, a fin de coadyuvar en la prevención o, en su caso, solución de las controversias que se le planteen a la Secretaría;
+IV. Desarrollar procesos de comunicación y coordinación interinstitucional para dar seguimiento a temas en materia de gobernabilidad y política interior;
 
-V. Coadyuvar en el establecimiento, a través de las representaciones de la Subsecretaría de Gobierno, de vínculos institucionales con las dependencias y entidades de los gobiernos de las entidades federativas y municipios;
+V. Establecer las directrices necesarias para contar con un flujo continuo de información en materia de gobernabilidad democrática y política interior de la Secretaría;
 
-VI. Dar seguimiento, en el ámbito de competencia de la Secretaría, a los convenios celebrados entre el Ejecutivo Federal y las entidades federativas y municipios, y
+VI. Recibir la información de inteligencia que genere el Centro de Investigación y Seguridad Nacional, proponer las acciones que se estimen necesarias en el ámbito de competencia de la Secretaría y, en su caso, difundir dicha información a las dependencias y entidades competentes de la Administración Pública Federal;
 
-VII. Las demás que determine el Secretario dentro de la esfera de sus facultades.
+VII. Apoyar a las unidades administrativas y órganos administrativos desconcentrados de la Secretaría que generan información, análisis y prospectiva en materia de riesgos a la gobernabilidad democrática, a construir un flujo continuo de información;
+
+VIII. Proponer criterios y directrices en materia de comunicación sobre política interior;
+
+IX. Informar periódicamente sobre los datos que generen las unidades administrativas y órganos administrativos desconcentrados de la Secretaría en materia de riesgos a la gobernabilidad democrática, y proponer al efecto estrategias y acciones para mejorar su calidad y oportunidad;
+
+X. Auxiliar al Secretario en el desarrollo de las funciones que deriven de su participación en el Consejo de Seguridad Nacional, el Consejo Nacional de Seguridad Pública, el Gabinete de Seguridad, y otras instancias deliberativas en la materia, así como dar seguimiento a la instrumentación de las acciones acordadas en su seno que correspondan a la Secretaría;
+
+XI. Apoyar a su superior jerárquico en el cumplimiento de sus atribuciones relacionadas con la conducción de la política interior competencia de la Secretaría, y
+
+XII. Las demás que le confiera el Secretario dentro de la esfera de sus facultades, y otras disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, D.O.F. 15 DE AGOSTO DE 2012)</small>
+
+###### Artículo 15 Bis.
+
+La Dirección General de Análisis y Prospectiva para la Política Interior tendrá las siguientes atribuciones:
+
+I. Integrar y analizar los productos de información en relación con los que generan las unidades en materia de riesgos de gobernabilidad democrática;
+
+II. Apoyar a sus superiores jerárquicos en el análisis para la toma de decisiones en materia de gobernabilidad y atención a conflictos sociales o políticos en el interior del país;
+
+III. Proponer esquemas y procedimientos eficientes de coordinación con el Centro de Investigación y Seguridad Nacional para la toma de decisiones en materia de gobernabilidad y atención a conflictos sociales o políticos en el interior del país;
+
+IV. Apoyar a sus superiores jerárquicos en la definición de la estructura, los formatos, la calidad y la oportunidad de los productos de información, análisis y prospectiva de la Secretaría, apoyándose al efecto en las demás unidades administrativas y en el Centro de Investigación y Seguridad Nacional;
+
+V. Apoyar en el desempeño de las funciones al Secretario o subsecretarios que correspondan, en su participación dentro de las distintas instancias de seguridad nacional y seguridad pública;
+
+VI. Auxiliar al titular de la Unidad de Gobierno, en el cumplimiento de sus atribuciones que no se encuentren conferidas a otras unidades administrativas, y
+
+VII. Las demás que le confiera el Secretario dentro de la esfera de sus facultades, y otras disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, D.O.F. 15 DE AGOSTO DE 2012)</small>
+
+###### Artículo 15 Ter.
+
+La Dirección General de Juegos y Sorteos tendrá las siguientes atribuciones:
+
+I. Supervisar y vigilar el cumplimiento de la Ley Federal de Juegos y Sorteos y de su Reglamento;
+
+II. Expedir los permisos a que se refiere la Ley Federal de Juegos y Sorteos y de su Reglamento, así como supervisar y vigilar el cumplimiento a los términos y condiciones que en ellos se consignen;
+
+III. Proponer y ejecutar las políticas y programas relativos a la realización, desarrollo y operación de los juegos con apuestas y sorteos;
+
+IV. Auxiliar al titular de la Unidad de Gobierno en la coordinación con las autoridades de los distintos órdenes de gobierno en materia de juegos con apuestas y sorteos, así como en el combate de actividades prohibidas por la Ley Federal de Juegos y Sorteos y su Reglamento;
+
+V. Imponer sanciones administrativas por infracciones a la Ley Federal de Juegos y Sorteos y su Reglamento;
+
+VI. Presentar denuncias ante la autoridad competente por la posible comisión de conductas constitutivas de delitos en materia de juegos con apuestas y sorteos, en coordinación con la Unidad de Asuntos Jurídicos;
+
+VII. Auxiliar al titular de la Unidad de Gobierno, en el ámbito de sus atribuciones, y
+
+VIII. Las demás que le confiera el Secretario dentro de la esfera de sus facultades, y otras disposiciones jurídicas aplicables.
 
 ###### Artículo 16.
 
@@ -695,6 +785,8 @@ XXVII. Las demás que determine el Secretario, dentro de la esfera de sus facult
 
 Sin perjuicio de lo dispuesto por los artículos 8o. y 34 de este Reglamento, para el eficaz despacho de los asuntos a su cargo y para un mejor desempeño en el ejercicio de sus atribuciones, el Titular de la Unidad de Asuntos Jurídicos podrá auxiliarse por los directores generales adjuntos de lo Contencioso, de Procedimientos Constitucionales, de Contratos y Convenios y de lo Consultivo, así como por el Director de Relaciones Jurídico Laborales.
 
+> <small>(REFORMADO, D.O.F. 15 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 21.
 
 La Unidad para la Promoción y Defensa de los Derechos Humanos tendrá las siguientes atribuciones:
@@ -709,15 +801,23 @@ IV. En el ámbito de competencia de la Secretaría de Gobernación, actuar como 
 
 V. Fungir como vínculo entre la Secretaría de Gobernación y las organizaciones civiles dedicadas a la promoción y defensa de los derechos humanos, así como atender y, en su caso, remitir a las instancias competentes, de conformidad con las disposiciones legales aplicables, las peticiones que éstas le formulen;
 
-VI. En el ámbito de competencia de la Secretaría de Gobernación, atender las recomendaciones dictadas por organismos internacionales en materia de derechos humanos cuya competencia, procedimientos y resoluciones sean reconocidos por el Estado Mexicano;
+VI. Someter a consideración del superior jerárquico la forma en que serán atendidas las recomendaciones dictadas por organismos internacionales en materia de derechos humanos cuya competencia, procedimientos y resoluciones sean reconocidos por el Estado Mexicano;
 
 VII. En el ámbito de competencia de la Secretaría de Gobernación, coadyuvar con los órganos e instancias dedicadas a la promoción y defensa de los derechos humanos;
 
 VIII. Dar trámite administrativo a las medidas que procuren el pleno respeto y cumplimiento, por parte de las autoridades de la Administración Pública Federal, de las disposiciones jurídicas que se refieren a las garantías individuales y a los derechos humanos, y coordinar la atención de las solicitudes de medidas precautorias o cautelares necesarias para prevenir la violación de derechos humanos, así como instrumentar dichas medidas, siempre que no sean de la competencia de alguna otra dependencia de la Administración Pública Federal;
 
-IX. Formar parte del Comité Jurídico Interno de la Secretaría, y
+IX. Formar parte del Comité Jurídico Interno de la Secretaría;
 
-X. Las demás que determine el Secretario, dentro de la esfera de sus facultades.
+X. Fungir como la Coordinación Ejecutiva Nacional a que se refiere la Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas, así como de instancias equivalentes en término (sic) de las leyes en materia de promoción y protección de derechos humanos;
+
+XI. Identificar y compilar en el ámbito de competencia de la Secretaría, los compromisos internacionales en materia de derechos humanos que asuma el Estado Mexicano, así como promover y coadyuvar con las dependencias y entidades de la Administración Pública Federal para dar cumplimiento a éstos;
+
+XII. Dictar, en el ámbito de competencia de la Secretaría y previo acuerdo con el Subsecretario, las medidas administrativas que sean necesarias para que las autoridades federales, en el ámbito de sus respectivas competencias, procuren el cumplimiento de los preceptos constitucionales, especialmente en lo que se refiere a derechos humanos y a las garantías para su protección;
+
+XIII. Establecer, dar seguimiento, implementar y coordinar en el ámbito de competencia de la Secretaría de Gobernación, el cumplimiento a las obligaciones que le impongan las leyes en materia de promoción y protección de derechos humanos, en especial de las personas defensoras de derechos humanos y periodistas, y
+
+XIV. Las demás que le confiera el Secretario dentro de la esfera de sus facultades, y otras disposiciones jurídicas aplicables.
 
 ###### Artículo 22.
 
@@ -758,6 +858,56 @@ XIII. Formar parte del Comité Jurídico Interno de la Secretaría, y
 > <small>(ADICIONADA, D.O.F. 1 DE SEPTIEMBRE DE 2004)</small>
 
 XIV. Las demás que determine el Secretario, dentro de la esfera de sus facultades.
+
+> <small>(ADICIONADO, D.O.F. 15 DE AGOSTO DE 2012)</small>
+
+###### Artículo 22 Bis.
+
+La Unidad de Política Migratoria tendrá las siguientes atribuciones:
+
+I. Proponer, al Secretario y Subsecretario de Población, Migración y Asuntos Religiosos en coordinación con las instancias competentes, la política migratoria del país tomando en consideración los principios establecidos por la Ley de Migración y en un marco de respeto a los derechos humanos, de contribución al desarrollo nacional, así como de preservación de la soberanía y de la seguridad nacional;
+
+II. Elaborar y proponer al Secretario y Subsecretario de Población, Migración y Asuntos Religiosos directrices y disposiciones administrativas de carácter general con el objeto de atender las necesidades migratorias del país;
+
+III. Determinar y coordinar los mecanismos conducentes para recoger las demandas y posicionamientos de los Poderes de la Unión, gobiernos de las entidades federativas, y de la sociedad civil organizada a considerar en la formulación de la política migratoria en términos de las disposiciones jurídicas aplicables;
+
+IV. Proponer y promover directrices, estrategias, programas y acciones públicas orientadas a la protección, asistencia e integración de migrantes al retorno a territorio nacional y la reinserción social de los emigrantes mexicanos y sus familias, así como en materia de regulación, control y verificación migratoria, previa consulta con las autoridades competentes;
+
+V. Proponer al Subsecretario de Población, Migración y Asuntos Religiosos las cuotas, requisitos y procedimientos para la emisión de visas y la autorización de condiciones de estancia en términos de la Ley de Migración y demás disposiciones jurídicas aplicables;
+
+VI. Elaborar y proponer, en el ámbito de competencia de la Secretaría, y en coordinación con la Secretaría de Relaciones Exteriores, las directrices a seguir con los organismos internacionales, mecanismos multilaterales y bilaterales, y autoridades de gobiernos extranjeros en materia migratoria, así como con organismos y asociaciones académicas y civiles, nacionales e internacionales en dicha materia;
+
+VII. Proponer y promover la celebración de convenios de colaboración y concertación, así como instrumentos internacionales en materia migratoria;
+
+VIII. Proponer, en coordinación con las autoridades competentes, soluciones a los problemas que enfrentan tanto los extranjeros en territorio nacional, como los migrantes mexicanos dentro y fuera del país;
+
+IX. Coordinar la planeación necesaria para configurar estrategias, proyectos y acciones de política migratoria;
+
+X. Coordinar la evaluación y monitoreo del cumplimiento de la política migratoria que establezca la Secretaría;
+
+XI. Participar en la definición de los contenidos de los estudios y publicaciones en materia migratoria elaboradas por las unidades administrativas y órganos administrativos desconcentrados de la Secretaría;
+
+XII. Participar en la elaboración e integración del programa operativo anual, anteproyecto de presupuesto anual, y manuales del Instituto Nacional de Migración;
+
+XIII. Someter al Secretario, previa opinión de las dependencias competentes en términos de la Ley de Migración y demás disposiciones jurídicas aplicables, los acuerdos para fijar, suprimir y cerrar temporalmente los lugares destinados al tránsito internacional de personas por tierra, mar y aire, así como para determinar los municipios o entidades federativas que conforman las regiones fronterizas o aquéllas que reciban trabajadores temporales;
+
+XIV. Realizar por sí o a través de terceros, estudios, investigaciones, encuestas, estadísticas, indicadores y publicaciones sobre movilidad y migración internacional en México, orientados a sustentar la política migratoria;
+
+XV. Resolver, en coordinación con las instancias competentes cuando así proceda, consultas relacionadas con la aplicación de la política migratoria;
+
+XVI. Solicitar a las unidades administrativas y órganos administrativos desconcentrados de la Secretaría, la información necesaria para la generación de estadísticas sobre la movilidad y migración internacional en México, así como participar en el diseño y mejora de los subsistemas de captura de información para dichos fines;
+
+XVII. Supervisar que los procedimientos de captura, recopilación y, en su caso, procesamiento de información migratoria con fines estadísticos que realizan las unidades administrativas y órganos administrativos desconcentrados de la Secretaría, se ajusten a los criterios y disposiciones en la materia;
+
+XVIII. Integrar, generar y publicar la estadística oficial sobre la movilidad y migración internacional en México, a partir de los registros administrativos migratorios, así como proponer al Secretario y Subsecretario de Población, Migración y Asuntos Religiosos los lineamientos para tal efecto;
+
+XIX. Proponer, coordinar, promover y participar en cursos, seminarios o eventos en materia de movilidad y migración internacional;
+
+XX. Sistematizar y difundir información relevante sobre el fenómeno migratorio, las políticas, programas y acciones públicas en la materia, y
+
+XXI. Las demás que le confiera el Secretario dentro de la esfera de sus facultades, y otras disposiciones jurídicas aplicables.
+
+Sin perjuicio de lo dispuesto por otras disposiciones de este Reglamento, para el eficaz despacho de los asuntos a su cargo y para un mejor desempeño en el ejercicio de sus atribuciones, el titular de la Unidad de Política Migratoria podrá auxiliarse por el Director General Adjunto de Política Migratoria y por el Director General Adjunto del Centro de Estudios Migratorios.
 
 ###### Artículo 23.
 
@@ -1079,6 +1229,8 @@ XVII. Coordinar el Programa Interno de Protección Civil de la Secretaría, incl
 
 XVIII. Las demás que le señale el Secretario, dentro de la esfera de sus facultades.
 
+> <small>(REFORMADO, D.O.F. 15 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 31.
 
 La Dirección General de Tecnologías de la Información tendrá las siguientes atribuciones:
@@ -1119,9 +1271,17 @@ XVII. Analizar en forma permanente las tecnologías de punta en materia de infor
 
 XVIII. Ser el enlace de la Secretaría con dependencias, entidades, instituciones y empresas tanto nacionales como internacionales relacionadas con la informática y las telecomunicaciones;
 
-XIX. Coordinar, apoyar y supervisar los servicios en materia de informática y telecomunicaciones, de las entidades del sector coordinado, cuando éstas así lo requieran al Oficial Mayor, y
+XIX. Coordinar, apoyar y supervisar los servicios en materia de informática y telecomunicaciones, de las entidades del sector coordinado, cuando éstas así lo requieran al Oficial Mayor;
 
-XX. Las demás que le confiera el titular de la dependencia, dentro de la esfera de sus facultades.
+XX. Participar en grupos de trabajo, comités o comisiones interinstitucionales, en materia de seguridad de la información;
+
+XXI. Desarrollar políticas y normas en materia de seguridad de la información de observancia general a todas las unidades administrativas y órganos administrativos de la Secretaría, en coordinación con las autoridades competentes y de conformidad con las disposiciones jurídicas aplicables;
+
+XXII. Desarrollar propuestas para modificar el marco legal en materia de delitos referentes a la revelación de secretos y acceso ilícito a sistemas y equipos de informática, en coordinación con otras autoridades competentes de la Secretaría u otras dependencias federales;
+
+XXIII. Ser el enlace de la Secretaría con dependencias, entidades, e instituciones tanto nacionales como internacionales, en materia de seguridad de la información, para lo cual podrá coordinarse con las autoridades competentes de la Secretaría, y
+
+XXIV. Las demás que le confiera el Secretario dentro de la esfera de sus facultades, y otras disposiciones jurídicas aplicables.
 
 ###### Artículo 32.
 
@@ -1205,7 +1365,7 @@ I. Centro de Investigación y Seguridad Nacional;
 
 II. Instituto Nacional para el Federalismo y el Desarrollo Municipal;
 
-III. Archivo General de la Nación;
+III. (DEROGADA, D.O.F. 15 DE AGOSTO DE 2012)
 
 IV. (DEROGADA, D.O.F. 1 DE JULIO DE 2010)
 
@@ -1343,53 +1503,49 @@ V. Las demás que le asigne el titular del Ejecutivo Federal o le confiera el Se
 
 El Instituto Nacional para el Federalismo y el Desarrollo Municipal, como órgano administrativo desconcentrado de la Secretaría de Gobernación, tiene por objeto formular, conducir y evaluar las políticas y acciones de la Administración Pública Federal en materia de federalismo, descentralización y desarrollo municipal.
 
+> <small>(REFORMADO, D.O.F. 15 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 44.
 
 El Instituto Nacional para el Federalismo y el Desarrollo Municipal tendrá las siguientes atribuciones:
 
-I. Proponer al Secretario de Gobernación aquellas políticas públicas para el impulso y fortalecimiento del federalismo, la descentralización y el desarrollo municipal;
+I. Promover el federalismo, la descentralización y el desarrollo municipal;
 
 II. Proponer al Secretario de Gobernación mecanismos que permitan la adecuada instrumentación del federalismo, la descentralización y el desarrollo municipal en las políticas, programas, proyectos y acciones que sean de la responsabilidad de las dependencias y entidades de la Administración Pública Federal;
 
-III. Proponer a las dependencias y entidades de la Administración Pública Federal, la realización y ejecución conjunta de un programa integral en materia de federalismo, descentralización y desarrollo municipal que, en el marco de los lineamientos que señale el Plan Nacional de Desarrollo y, en general, el sistema nacional de planeación democrática y participativa, tome en cuenta a los gobiernos de las entidades federativas y municipios o delegaciones, así como a los sectores social y privado;
+III. Proponer al Secretario la realización de un programa integral en materia de federalismo, descentralización y desarrollo municipal en el marco de los lineamientos que señale el Plan Nacional de Desarrollo y, en general, el Sistema Nacional de Planeación Democrática;
 
-IV. Con pleno respeto a la autonomía de las entidades federativas y municipal, colaborar con los gobiernos de los estados y con los ayuntamientos, con las asociaciones de municipios y con las organizaciones sociales y privadas, en la elaboración y promoción de programas indicativos de desarrollo y fortalecimiento municipales;
+IV. Colaborar con los gobiernos de las entidades federativas, los ayuntamientos, las asociaciones de municipios y las organizaciones sociales y privadas en la elaboración y promoción de programas indicativos de desarrollo y fortalecimiento municipales;
 
-V. Promover, entre los tres órdenes de gobierno, la realización de acciones conjuntas para el desarrollo y la colaboración regional, estatal, municipal y metropolitana que prevean una mayor participación de la comunidad, de las asociaciones de municipios, así como de las distintas organizaciones sociales y privadas en la materia;
+V. Promover la realización de acciones conjuntas entre las autoridades federales, de las entidades federativas y municipales, para el desarrollo y la colaboración regional, estatal, municipal y metropolitana que prevean una mayor participación de la comunidad, de las asociaciones de municipios, así como de las distintas organizaciones sociales y privadas en la materia;
 
-VI. Coordinarse con las dependencias y entidades de la Administración Pública Federal para establecer mecanismos conjuntos de planeación, programación, enlace, comunicación, participación y acuerdo que, con pleno respeto a la esfera de competencia de los demás Poderes de la Unión y de las entidades federativas y municipios o delegaciones, permitan la instrumentación adecuada del federalismo, la descentralización y el desarrollo municipal;
+VI. Establecer con las dependencias y entidades de la Administración Pública Federal mecanismos conjuntos de planeación, programación, enlace, comunicación, participación y acuerdo que, con pleno respeto al ámbito de competencia de los demás Poderes de la Unión y de las entidades federativas y municipios o demarcaciones territoriales del Distrito Federal, permitan la instrumentación adecuada del federalismo, la descentralización y el desarrollo municipal;
 
-VII. Coordinarse con las dependencias y entidades de la Administración Pública Federal para evaluar, de manera conjunta, los procesos en materia de federalismo, descentralización y desarrollo municipal, así como para dar seguimiento a los convenios que en la materia hayan celebrado con las entidades federativas y municipios;
+VII. Dar seguimiento a los convenios que se hayan celebrado en la materia;
 
-VIII. En materia de federalismo, descentralización y desarrollo municipal, impulsar la construcción de herramientas para la gobernabilidad democrática mediante el uso de tecnologías de información, a través de una red de comunicación en internet y de una intranet con los gobiernos de las entidades federativas y municipios o delegaciones;
+VIII. Impulsar herramientas para la gobernabilidad democrática;
 
-IX. Integrar un sistema nacional de informática sobre federalismo y municipio, que contenga un banco de datos sobre los distintos aspectos relativos a esas materias;
+IX. Integrar un Sistema Nacional de Información sobre Federalismo y Municipios;
 
-X. Promover, entre las dependencias y entidades de la Administración Pública Federal, las entidades federativas y municipios o delegaciones, así como los sectores social y privado, proyectos de investigación, estudio, análisis y prospectiva sobre relaciones intergubernamentales, descentralización, racionalización de las delegaciones federales y de las regionales de los gobiernos locales;
+X. Elaborar y difundir los proyectos de investigación sobre el desarrollo institucional de los gobiernos locales;
 
-XI. Promover y difundir, por sí o mediante convenio con las dependencias y entidades de la Administración Pública Federal, con los gobiernos de las entidades federativas y municipios o delegaciones, con instituciones académicas o de investigación del país o del extranjero, con asociaciones de municipios, así como con los sectores social y privado, los resultados de trabajos, estudios, investigaciones o eventos en aquellas materias que sean de la competencia del Instituto;
+XI. Administrar un centro de estudios y biblioteca en materia de federalismo;
 
-XII. Establecer y administrar un centro de estudios y una biblioteca en materia de federalismo, descentralización, municipios y delegaciones;
+XII. Coadyuvar con la Secretaría de Hacienda y Crédito Público en el diseño de mecanismos de control y fiscalización sobre las transferencias federales a los gobiernos locales;
 
-XIII. Diseñar e impulsar, coordinadamente con las instancias federales y locales correspondientes, mecanismos de rendición de cuentas que, sustentados en el Sistema Nacional de Indicadores, permitan una mayor transparencia y participación de la ciudadanía en la gestión pública nacional;
+XIII. Proponer a las autoridades locales competentes mecanismos que permitan mejorar el desarrollo de la capacidad de gestión pública y administrativa de los gobiernos locales, a fin de que las funciones que la Federación o las entidades federativas en su caso les transmitan, sean asimiladas con eficiencia y eficacia;
 
-XIV. Coadyuvar, con las instancias federales y locales que correspondan, en el diseño de mecanismos efectivos de control y fiscalización sobre las aportaciones federales a los gobiernos locales, así como convenir, en coordinación con las dependencias competentes, la elaboración de programas de capacitación y desarrollo administrativo para servidores públicos de las entidades federativas, municipios y delegaciones;
+XIV. Suscribir Convenios de Coordinación con autoridades de los gobiernos locales, a fin de implementar un sistema de capacitación, certificación y profesionalización de servidores públicos locales en la materia;
 
-XV. Impulsar el desarrollo de la capacidad de gestión pública y administrativa de las entidades federativas y municipios o delegaciones, a fin de que las funciones que la Federación o las entidades federativas, en su caso, les transmitan sean asimiladas con eficiencia y eficacia;
+XV. Proponer a las unidades competentes de la Secretaría, aquellas modificaciones jurídicas que permitan impulsar ordenadamente las acciones de fortalecimiento y desarrollo municipal;
 
-XVI. Establecer un sistema de profesionalización y capacitación y proponer al Secretario de Gobernación la suscripción de convenios y acuerdos de coordinación en la materia;
+XVI. Estudiar y diseñar mecanismos de participación ciudadana en el conjunto de políticas sujetas a los procesos de federalización, descentralización y desarrollo municipal;
 
-XVII. Proponer al Secretario de Gobernación aquellas modificaciones jurídicas que permitan impulsar ordenadamente las acciones de fortalecimiento y desarrollo municipal;
+XVII. Organizar y participar en reuniones nacionales e internacionales sobre federalismo y municipio, a efecto de analizar temas prioritarios, problemas comunes e identificar experiencias exitosas;
 
-XVIII. Estudiar y diseñar mecanismos de participación ciudadana en el conjunto de políticas sujetas a los procesos de federalización, descentralización y desarrollo municipal;
+XVIII. Promover la creación, operación y desarrollo de instancias estatales que promuevan el federalismo, la descentralización y el desarrollo municipal, y
 
-XIX. Organizar y participar en reuniones nacionales e internacionales sobre federalismo y municipio, a efecto de analizar temas prioritarios, problemas comunes e identificar experiencias exitosas;
-
-XX. Promover la creación, operación y desarrollo de instancias estatales que promuevan el federalismo, la descentralización y el desarrollo municipal;
-
-XXI. En los casos en que se le requiera, asesorar al Secretario de Gobernación en su relación con las entidades federativas y municipios, así como con las asociaciones de municipios, y
-
-XXII. Las demás que le confieran otras disposiciones o el Secretario de Gobernación, dentro de la esfera de sus facultades.
+XIX. Las demás que le confiera el Secretario dentro de la esfera de sus facultades, y otras disposiciones jurídicas aplicables.
 
 ###### Artículo 45.
 
@@ -1407,7 +1563,7 @@ III. Los demás ingresos o bienes que reciba por cualquier otro medio legal.
 
 El Instituto Nacional para el Federalismo y el Desarrollo Municipal estará a cargo de un Coordinador con nivel jerárquico de Jefe de Unidad, quien será nombrado y removido por el Secretario.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 47.
 
@@ -1429,67 +1585,27 @@ El Consejo Consultivo se reunirá ordinariamente una vez al año y celebrará se
 
 Los miembros del Consejo Consultivo del Instituto Nacional para el Federalismo y el Desarrollo Municipal ocuparán dicho cargo de manera honorífica.
 
-#### Sección III.. Del Archivo General de la Nación
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 15 DE AGOSTO DE 2012)</small>
+
+#### Sección III.
 
 ###### Artículo 48.
 
-El Archivo General de la Nación, como órgano desconcentrado de la Secretaría de Gobernación, fungirá como el ente rector de la archivística nacional y entidad central de consulta del Ejecutivo Federal en el manejo de los archivos administrativos e históricos de la Administración Pública Federal, y tendrá las siguientes atribuciones:
-
-I. Establecer normas y prestar asesoría técnica para la organización y la operación de los servicios en materia de administración de documentos y archivos dentro de las dependencias y entidades federales;
-
-II. Establecer los lineamientos para analizar, valorar y disponer del destino final de la documentación liberada por las dependencias y entidades de la Administración Pública Federal, incorporando a los acervos del órgano administrativo desconcentrado los que posean interés histórico y gestionar la recuperación de archivos históricos;
-
-III. Custodiar, organizar, conservar y describir los documentos y expedientes que conforman sus acervos, facilitando y promoviendo su consulta y aprovechamientos públicos. El acceso a la consulta de los documentos que hayan sido transferidos a este órgano administrativo desconcentrado, podrá darse en cualquier momento, cuando así lo disponga la dependencia generadora. En caso contrario, la consulta podrá realizarse en los plazos y términos que señalan la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y demás disposiciones aplicables;
-
-IV. Autorizar la expedición de copias certificadas de los títulos primordiales, mercedes, planos y demás documentos originales existentes en el órgano administrativo desconcentrado, así como determinar las políticas para proporcionar los servicios de consulta y reprografía al público usuario;
-
-V. Concertar convenios con las dependencias del Ejecutivo Federal, entidades federativas, municipios, delegaciones e instituciones públicas y privadas, a fin de desarrollar acciones orientadas a la modernización de los servicios archivísticos, así como para el rescate, organización, conservación y aprovechamiento del patrimonio documental de la nación, en el marco de las disposiciones normativas aplicables;
-
-VI. Determinar lineamientos para integrar, mantener y difundir registros, inventarios y catálogos de los documentos y fuentes relevantes para la historia de México, existentes en otros archivos y colecciones públicas y privadas, nacionales o del extranjero;
-
-VII. Conceder los permisos para la salida del país de documentos originales relacionados con la historia de México y de libros que por su naturaleza no sean fácilmente sustituibles. Asimismo, le compete emitir la declaración por medio de la cual un documento se considera dentro de estas categorías;
-
-VIII. Preparar, publicar y distribuir, en forma onerosa o gratuita, las obras y colecciones necesarias para apoyar el conocimiento de su acervo, la renovación y promoción de la cultura archivística, administrativa e histórica y la consulta y aprovechamiento del patrimonio documental del país;
-
-IX. Determinar lineamientos para concentrar en el Archivo General de la Nación, el Diario Oficial de la Federación y demás publicaciones de los Poderes de la Unión, de las entidades federativas y de los municipios o delegaciones, así como los ejemplares de las obras científicas, literarias o artísticas, cuyos derechos de propiedad sean reservados conforme a la ley;
-
-X. Establecer políticas para reunir, organizar y difundir el acervo documental gráfico, bibliográfico y hemerográfico necesario para apoyar el desarrollo archivístico y la investigación histórica nacional, y
-
-XI. Las demás que le confieran otras disposiciones jurídicas aplicables.
+(DEROGADO, D.O.F. 15 DE AGOSTO DE 2012)
 
 ###### Artículo 49.
 
-El Archivo General de la Nación tendrá un Consejo Técnico que estará integrado por los subsecretarios, el Oficial Mayor y el Contralor Interno en la Secretaría de Gobernación, quien asistirá con voz, pero sin derecho a voto. Asimismo, se podrá invitar a formar parte del Consejo a sendos representantes de las secretarías de Hacienda y Crédito Público y de Contraloría y Desarrollo Administrativo.
-
-El Consejo Técnico será presidido por el Secretario de Gobernación, cuyas ausencias serán suplidas por el servidor público que éste designe. Los miembros titulares del Consejo serán suplidos por un servidor público de la dependencia respectiva, con nivel mínimo de Director General.
-
-El Consejo se reunirá en sesión ordinaria cuando menos cuatro veces al año y en sesión extraordinaria cuantas veces sea convocado por su Presidente.
-
-Por conducto de su Presidente, el Consejo Técnico podrá invitar a sus sesiones, cuando se estudien proyectos que se relacionen con sus respectivas funciones, a titulares o representantes de otras dependencias y entidades de la Administración Pública Federal, de los otros poderes federales, así como de las entidades federativas y de los municipios o delegaciones.
+(DEROGADO, D.O.F. 15 DE AGOSTO DE 2012)
 
 ###### Artículo 50.
 
-El Consejo Técnico del Archivo General de la Nación tendrá las siguientes atribuciones:
-
-I. Aprobar los estudios y proyectos que realice el órgano administrativo desconcentrado;
-
-II. Aprobar el anteproyecto de programa presupuesto anual, así como sus modificaciones;
-
-III. Nombrar al Secretario Técnico del Consejo;
-
-IV. Aprobar los proyectos de manuales de organización, procedimientos y servicios al público, así como sus modificaciones;
-
-V. Evaluar y, en su caso, aprobar los informes periódicos de gestión, y
-
-> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2004)</small>
-
-VI. Las demás que le asignen el Ejecutivo Federal y el Secretario, a través del Comisionado para el Desarrollo Político, dentro de la esfera de sus facultades.
+(DEROGADO, D.O.F. 15 DE AGOSTO DE 2012)
 
 ###### Artículo 51.
 
-El Archivo General de la Nación estará a cargo de un Director General quien será designado por el Ejecutivo Federal, a través del Secretario de Gobernación.
+(DEROGADO, D.O.F. 15 DE AGOSTO DE 2012)
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 1 DE JULIO DE 2010)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 1 DE JULIO DE 2010)</small>
 
 #### Sección IV.. Del Instituto Nacional de Estudios Históricos de la Revolución Mexicana
 
@@ -1507,273 +1623,497 @@ El Archivo General de la Nación estará a cargo de un Director General quien se
 
 #### Sección V.. Instituto Nacional de Migración
 
+> <small>(REFORMADO, D.O.F. 15 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 55.
 
-El Instituto Nacional de Migración es un órgano técnico desconcentrado que tiene por objeto la planeación, ejecución, control, supervisión y evaluación de los servicios migratorios, así como el ejercicio de la coordinación con las diversas dependencias y entidades de la Administración Pública Federal, que concurren en la atención y solución de los asuntos relacionados con la materia.
+El Instituto Nacional de Migración para su operación contará con:
 
-Para el desarrollo de sus atribuciones, el Instituto contará con los servidores públicos que se requieran y el personal adscrito a la Unidad de Verificación y Vigilancia, de conformidad con las disposiciones normativas aplicables.
+I. Un Consejo Técnico que será un órgano de consulta y que se integrará por:
+
+a. El Secretario de Gobernación;
+
+b. El Subsecretario de Población, Migración y Asuntos Religiosos;
+
+c. El Oficial Mayor de la Secretaría;
+
+d. El Director General del Centro de Investigación y Seguridad Nacional, y
+
+e. Los titulares de las dependencias y entidades que el Secretario estime pertinente invitar y cuyo ámbito de competencia se relacione con la materia migratoria.
+
+II. Un Comisionado que se auxiliará de las siguientes unidades:
+
+a. Unidad de Operación;
+
+b. Dirección General de Regulación y Archivo Migratorio;
+
+c. Dirección General de Control y Verificación Migratoria;
+
+d. Dirección General de Protección al Migrante y Vinculación;
+
+e. Dirección General de Tecnologías de la Información y Comunicaciones;
+
+f. Dirección General Jurídica, de Derechos Humanos y Transparencia;
+
+g. Dirección General de Administración;
+
+h. Dirección General de Coordinación de Delegaciones;
+
+i. Dirección General de Asuntos Internos, y
+
+j. Centro de Evaluación y Control de Confianza.
+
+Además, el Instituto contará con delegaciones y subdelegaciones federales, delegaciones y subdelegaciones locales en las entidades federativas, las cuales ejercerán sus funciones en las circunscripciones territoriales que determine el Comisionado mediante acuerdo que deberá publicarse en el Diario Oficial de la Federación.
+
+> <small>(REFORMADO, D.O.F. 15 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 56.
 
-El Instituto Nacional de Migración ejercerá las facultades que, sobre asuntos migratorios, confieren a la Secretaría de Gobernación la Ley General de Población y su Reglamento y las que de manera expresa le estén atribuidas por otras leyes y reglamentos, así como los decretos, acuerdos y demás disposiciones del Ejecutivo Federal.
+El Comisionado del Instituto Nacional de Migración será nombrado y removido por el titular del Ejecutivo Federal por conducto del Secretario, y cuenta con las siguientes atribuciones:
 
-Lo anterior se entiende exceptuando aquellas facultades que de manera expresa reservan las disposiciones legales y reglamentarias de la materia al titular de la dependencia o al Subsecretario correspondiente y sin perjuicio del ejercicio directo de las facultades que competan a ambos servidores públicos.
+I. Ejercer y supervisar las facultades que correspondan a las unidades administrativas que le están adscritas, sin perjuicio de que sean desempeñadas por sus respectivos titulares;
+
+II. Nombrar a los titulares de sus unidades de apoyo, previo acuerdo del Subsecretario de Población, Migración y Asuntos Religiosos, con excepción del titular de la Dirección General de Asuntos Internos;
+
+III. Expedir, previa consulta con las autoridades competentes, los lineamientos y criterios normativos en materia de gestión y operación migratoria, con base en la política migratoria establecida por la Secretaría;
+
+IV. Ejecutar las acciones técnicas y operativas en materia migratoria con las autoridades de gobiernos extranjeros, organismos internacionales y los mecanismos multilaterales y bilaterales, en coordinación con la autoridad competente;
+
+V. Acordar mecanismos que faciliten la coordinación de acciones estratégicas entre las autoridades auxiliares en materia migratoria y las competentes de la Secretaría;
+
+VI. Analizar y proponer programas y acciones para la protección y respeto a los derechos humanos de los migrantes;
+
+VII. Coordinar con autoridades federales, de las entidades federativas y de los municipios, la atención de los temas operativos en materia migratoria;
+
+VIII. Dar seguimiento e informar ante el Consejo Técnico el avance y ejecución de los planes y programas estratégicos, institucionales, de mejora de la gestión así como presentar el informe anual sobre la situación administrativa y presupuestal que guarda el Instituto, incluidas en su caso, las propuestas de modernización integral e innovación;
+
+IX. Promover y coordinar las acciones operativas para que los mexicanos y extranjeros tengan un trato digno y respetuoso de sus derechos humanos durante su ingreso, tránsito y salida del territorio nacional;
+
+X. Emitir las disposiciones que regulen la integración y el funcionamiento de los grupos de protección a migrantes, así como coordinar su operación;
+
+XI. Opinar sobre el establecimiento, supresión o cierre temporal de los lugares destinados al tránsito internacional de personas;
+
+XII. Someter a consideración del Consejo Técnico, el programa operativo anual y el anteproyecto de presupuesto anual del Instituto;
+
+XIII. Proponer, en coordinación con otras áreas de la Secretaría, los convenios y acuerdos interinstitucionales en materia de operación y gestión, en términos de la política migratoria que emita la Secretaría;
+
+XIV. Imponer las sanciones previstas por la Ley de Migración y demás disposiciones jurídicas aplicables;
+
+XV. Coadyuvar con la Coordinación General de la Comisión Mexicana de Ayuda a Refugiados en los procedimientos de reconocimiento de la condición de refugiado, así como aplicar el procedimiento de deportación o devolución a los solicitantes, refugiados o extranjeros que reciban protección complementaria, en términos de la Ley sobre Refugiados y Protección Complementaria y su Reglamento;
+
+XVI. Ejecutar las expulsiones que resulten aplicables a los extranjeros emitidas por las autoridades competentes, de conformidad con las disposiciones jurídicas aplicables;
+
+XVII. Supervisar el envío de información y bases de datos para la generación de estadísticas migratorias que le sean requeridos al Instituto por parte de la Unidad de Política Migratoria;
+
+XVIII. Proponer y participar en foros, conferencias, seminarios y otros eventos en materia migratoria;
+
+XIX. Aprobar los manuales de organización, de procedimientos y de servicios al público correspondientes al Instituto y sus modificaciones, previa opinión de la Dirección General Jurídica, de Derechos Humanos y Transparencia del Instituto, y dictamen de la Dirección General de Recursos Humanos de la Secretaría, y
+
+XX. Las demás que le confiera el Secretario dentro de la esfera de sus facultades, y otras disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, D.O.F. 15 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 57.
 
-A fin de alcanzar sus objetivos, el Instituto tiene las siguientes atribuciones:
+El Consejo Técnico del Instituto tendrá las siguientes atribuciones:
 
-I. Coordinar y orientar, con base en las instrucciones y lineamientos que expida el Secretario de Gobernación, la instrumentación de las políticas en materia migratoria;
+I. Aprobar los lineamientos internos del Consejo Técnico, los cuales deberán regular su funcionamiento y definir las funciones del Secretario Técnico;
 
-II. Tramitar y resolver sobre la internación, legal estancia y salida del país de los extranjeros, así como la cancelación, cuando el caso lo amerite, de las calidades migratorias otorgadas;
+II. Conocer y evaluar los informes periódicos que rinda el Comisionado;
 
-III. Tramitar y resolver sobre el otorgamiento y cambio de las calidades y características de no inmigrantes y de inmigrantes, así como la declaratoria de inmigrado;
+III. Conocer el programa operativo anual y el anteproyecto de presupuesto anual del Instituto, así como sus modificaciones;
 
-IV. Tramitar y resolver lo relativo a los refrendos, revalidaciones, reposiciones, ampliaciones y prórrogas de la documentación migratoria de los extranjeros;
+IV. Conocer del cumplimiento de los indicadores y planes estratégicos, así como de los programas institucionales de mejora de la gestión del Instituto;
 
-V. Tramitar y resolver sobre la devolución de los depósitos que los extranjeros efectúen para garantizar las obligaciones que les señala la Ley General de Población y su Reglamento;
+V. Conocer el informe anual de actividades del Instituto, emitir sugerencias de mejora y darle seguimiento a través del Secretario Técnico;
 
-VI. Tramitar y resolver lo relativo a las solicitudes de matrimonio de extranjeros con mexicanos e intervenir en los demás actos del estado civil en los cuales participen extranjeros;
+VI. Proponer directrices para el eficaz funcionamiento del Instituto;
 
-VII. Expedir certificados de legal estancia en el país para los efectos de matrimonio, divorcio o nulidad de matrimonio referentes a los extranjeros;
+VII. Opinar sobre la creación de unidades de apoyo al Comisionado, y
 
-VIII. Tramitar, acordar y ejecutar la expulsión de extranjeros que lo ameriten y girar las circulares de impedimento de internación, a la Secretaría de Relaciones Exteriores y a las delegaciones regionales del Instituto;
+VIII. Opinar en materia migratoria respecto de los asuntos que se sometan a su consideración.
 
-IX. Imponer las sanciones previstas por la Ley General de Población y su Reglamento;
-
-X. Instruir lo necesario para el cumplimiento de arraigos judiciales ordenados respecto a nacionales o extranjeros;
-
-XI. Elaborar, aplicar y controlar los cuestionarios estadísticos de entrada y salida del país de nacionales y extranjeros residentes en el territorio nacional;
-
-XII. Llevar el control del movimiento migratorio de las delegaciones regionales del Instituto;
-
-XIII. Proponer las normas a que deban sujetarse los inmigrantes y determinar las políticas de inmigración que convengan al país;
-
-XIV. Proporcionar los informes que solicite la Secretaría de Relaciones Exteriores para expedir las cartas de naturalización y los certificados de nacionalidad mexicana;
-
-XV. Llevar el registro de las cartas de naturalización y de los certificados de nacionalidad mexicana que conceda la Secretaría de Relaciones Exteriores y expedir el documento de registro correspondiente;
-
-XVI. Llevar y mantener actualizado el Registro Nacional de Extranjeros;
-
-XVII. Llevar el registro de los cambios de estado civil, domicilio, actividad y demás características relacionadas con los extranjeros y hacer las anotaciones procedentes en los documentos migratorios;
-
-XVIII. Investigar si los extranjeros cumplen con las obligaciones migratorias establecidas, y en caso de violación a las disposiciones sobre la materia, presentarlos ante las autoridades competentes;
-
-XIX. Asegurar en las estaciones migratorias o en los lugares habilitados provisionalmente para tal fin, a los extranjeros que violen la Ley General de Población, cuando el caso lo amerite;
-
-XX. Intervenir en el trámite y ejecutar el acuerdo que dicte el titular del ramo, por el que se establezca o suprima un lugar destinado al tránsito internacional de personas;
-
-XXI. Operar y controlar los archivos de la documentación migratoria;
-
-XXII. Formular las denuncias y querellas que legalmente procedan y otorgar el perdón en aquellos delitos que se persiguen por querella;
-
-XXIII. Intervenir, rendir informes previos y justificados en materia de amparo; interponer recursos y contestar cualquier demanda, así como dar seguimiento y atender toda clase de procedimientos judiciales o contenciosos administrativos que competan al Instituto;
-
-XXIV. Asesorar en materia jurídica a las delegaciones regionales del Instituto, así como establecer y definir los criterios de interpretación y aplicación de las disposiciones jurídicas aplicables, conforme a los lineamientos que para tal fin determine la Unidad de Asuntos Jurídicos de la Secretaría;
-
-XXV. Elaborar y dictaminar convenios, acuerdos y bases de coordinación con dependencias y entidades gubernamentales y organismos no gubernamentales;
-
-XXVI. Elaborar, diseñar, instrumentar y evaluar el programa integral de capacitación y desarrollo de los servidores públicos del Instituto y del personal adscrito a la Unidad de Verificación y Vigilancia;
-
-XXVII. Diseñar y aplicar el procedimiento de reclutamiento y selección de personal, de conformidad con lo que señale la Dirección General de Recursos Humanos de la Secretaría;
-
-XXVIII. Diseñar, instrumentar, controlar y evaluar los programas en materia de informática, estadística y comunicaciones;
-
-XXIX. Realizar acciones orientadas a prevenir delitos previstos en la Ley General de Población;
-
-XXX. Actuar, en coordinación con la Secretaría de Relaciones Exteriores, en los casos previstos en las fracciones VIII, XIII y XXV del presente artículo cuando exista solicitud de asilo o de refugio o bien estén relacionados con compromisos internacionales suscritos por el Estado Mexicano, y
-
-XXXI. Las demás funciones que las disposiciones legales y normas aplicables, así como aquéllas que le confiera el titular del ramo, dentro de la esfera de sus facultades.
+> <small>(REFORMADO, D.O.F. 15 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 58.
 
-El Instituto Nacional de Migración estará bajo la dirección de un Consejo Directivo y un Consejo Técnico, ambos de carácter intersecretarial, y sus funciones operativas como órgano administrativo desconcentrado de la Secretaría de Gobernación estarán a cargo de un Comisionado, quien será nombrado y removido por el titular del Ejecutivo Federal, por conducto del Secretario de Gobernación.
+El Consejo Técnico será presidido por el Secretario y, en su ausencia, lo será por el Subsecretario de Población, Migración y Asuntos Religiosos. Los demás miembros titulares del Consejo Técnico serán suplidos por un servidor público de la dependencia respectiva, de nivel inmediato inferior al de su titular.
 
-Como unidades de apoyo al Comisionado, se establecen las coordinaciones de Regulación Migratoria; de Control y Verificación Migratoria; de Relaciones Internacionales e Interinstitucionales; de Delegaciones; Jurídica; de Planeación e Investigación, y de Administración, así como las delegaciones regionales.
+Todos los miembros del Consejo Técnico tendrán voz y voto en las sesiones que celebren. En caso de empate, el Presidente del Consejo Técnico tendrá voto de calidad.
+
+El titular de la Unidad de Asuntos Jurídicos y el titular del Órgano Interno de Control de la Secretaría, así como el Comisionado del Instituto asistirán con voz, pero sin voto. El Comisionado del Instituto fungirá como Secretario Técnico.
+
+El Consejo se reunirá en sesión ordinaria por lo menos cuatro veces al año, y en sesión extraordinaria cuantas veces sea convocado por el Secretario Técnico por instrucción del Presidente del Consejo.
+
+> <small>(REFORMADO, D.O.F. 15 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 59.
 
-El Consejo Directivo estará integrado por el Secretario de Gobernación; por el Subsecretario de Población, Migración y Asuntos Religiosos; por un subsecretario de la Secretaría de Hacienda y Crédito Público, un subsecretario de la Secretaría de Contraloría y Desarrollo Administrativo y por el Oficial Mayor de la Secretaría de Gobernación, con voz y voto en las sesiones. El Contralor Interno en la Secretaría de Gobernación y el Comisionado del Instituto Nacional de Migración asistirán con voz, pero sin voto. En caso de empate, el Presidente del Consejo Directivo tendrá voto de calidad.
+El Instituto contará con un Consejo Ciudadano con las siguientes funciones:
 
-El Consejo Directivo será presidido por el Secretario de Gobernación y, en su ausencia, será substituido por el Subsecretario de Población, Migración y Asuntos Religiosos. Los demás miembros titulares del Consejo Directivo serán suplidos por un servidor público de la dependencia respectiva de rango inmediato inferior al de aquéllos.
+I. Opinar sobre la ejecución de la política migratoria;
 
-El Consejo se reunirá en sesión ordinaria por lo menos dos veces al año, y en sesión extraordinaria cuantas veces sea convocado por su Presidente.
+II. Formular propuestas de acciones específicas para la promoción, protección y defensa de los derechos humanos de los migrantes;
+
+III. Proponer acciones de cooperación, concertación y seguimiento de la sociedad civil a las actividades del Instituto, y
+
+IV. Proponer la celebración de convenios de coordinación con las entidades federativas y de concertación con organizaciones de la sociedad civil, academia y otros actores relevantes, de conformidad con lo establecido en la Ley de Migración.
+
+Los miembros del Consejo Ciudadano serán convocados mediante invitación y, en caso de aceptar la misma, serán considerados como consejeros. Los consejeros ejercerán su cargo en forma honorífica, y no recibirán emolumento o contraprestación alguna por el mismo.
+
+El Consejo Ciudadano emitirá sus lineamientos internos, mismos que contendrán lo relativo a su organización, integración y otras funciones que se estimen pertinentes para su funcionamiento.
+
+El Consejo Ciudadano contará con un Presidente y un Secretario Técnico que serán nombrados de acuerdo a los lineamientos internos. El Secretario Técnico será responsable de realizar todas las acciones inherentes a la celebración y seguimiento de las sesiones del mismo.
+
+El Consejo Ciudadano sesionará ordinariamente cuatro veces al año y extraordinariamente cuando así lo disponga el Presidente de dicho Consejo.
+
+> <small>(REFORMADO, D.O.F. 15 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 60.
 
-El Consejo Directivo del Instituto tendrá las siguientes atribuciones:
+Son atribuciones de la Unidad de Operación:
 
-I. Aprobar el proyecto del programa presupuesto anual del Instituto, así como sus modificaciones;
+I. Establecer, planear, programar, organizar, coordinar, dirigir, controlar y evaluar el funcionamiento de las Direcciones Generales y del personal que tenga a su cargo conforme a las instrucciones del Comisionado;
 
-II. Nombrar al Secretario Técnico del Consejo;
+II. Someter a consideración del Comisionado y coordinar las relaciones del Instituto con las dependencias y entidades de los distintos órdenes de gobierno, así como con instancias internacionales, para atender temas operativos en materia migratoria;
 
-III. Aprobar los proyectos de manuales de organización, procedimientos y servicios correspondientes al Instituto, así como sus modificaciones;
+III. Proponer al Comisionado la expedición de circulares que fijen criterios y disposiciones en materia de gestión migratoria, con base en los lineamientos de política migratoria establecidos por la Secretaría;
 
-IV. Aprobar las políticas y lineamientos en materia de recursos humanos;
+IV. Procurar el cumplimiento de la política migratoria establecida por la Secretaría;
 
-V. Evaluar y, en su caso, aprobar los informes periódicos que rinda el Comisionado, sobre la gestión del órgano administrativo desconcentrado, y
+V. Coordinar, dirigir y validar los proyectos, trabajos e insumos que las Direcciones Generales de su adscripción generen en el ejercicio de sus atribuciones;
 
-VI. Las demás que le asigne el Ejecutivo Federal a través del Secretario de Gobernación.
+VI. Proponer al Comisionado la instrumentación de mecanismos de cooperación internacional en materia migratoria de conformidad con las disposiciones jurídicas aplicables;
+
+VII. Dar seguimiento y reportar al Comisionado sobre la atención y desahogo de los asuntos relevantes en materia migratoria;
+
+VIII. Integrar, dar seguimiento, evaluar e informar a las instancias correspondientes sobre los planes, programas, objetivos, metas, indicadores, proyectos institucionales y de mejora de la gestión, así como de sus procesos y procedimientos en materia migratoria;
+
+IX. Ser el enlace con las demás instancias de seguridad nacional, de conformidad con las disposiciones jurídicas aplicables;
+
+X. Elaborar y aplicar la metodología para el levantamiento de información estadística en materia migratoria;
+
+XI. Elaborar los formatos para el registro de información de los procedimientos administrativos migratorios que ejecuta el Instituto, en coordinación con sus áreas competentes y de la Secretaría, y
+
+XII. Las demás que le confiera el Secretario dentro de la esfera de sus facultades, el Comisionado, y otras disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, D.O.F. 15 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 61.
 
-El Consejo Técnico será órgano de consulta en la materia. Estará presidido por el Subsecretario de Población, Migración y Asuntos Religiosos y se integrará por representantes de las secretarías de Relaciones Exteriores; de la Defensa Nacional; de Marina; de Hacienda y Crédito Público; de Economía; de Comunicaciones y Transportes; de Contraloría y Desarrollo Administrativo; de Educación Pública; del Trabajo y Previsión Social, y de Turismo, así como de la Procuraduría General de la República.
+Son atribuciones de la Dirección General de Regulación y Archivo Migratorio:
 
-El Consejo Técnico sesionará en forma ordinaria por lo menos una vez al año y en forma extraordinaria las veces que sea necesario a juicio de su Presidente, para lo cual se instruirán las convocatorias correspondientes. Sus acuerdos deberán constar en un libro autorizado al efecto y se tomarán por mayoría de votos. En caso de empate, el Presidente tendrá voto de calidad.
+I. Atender y resolver las solicitudes de trámite migratorio relacionados con las condiciones de estancia establecidas en la Ley de Migración, así como conocer y, en su caso, resolver aquellos casos que se encuentren en la esfera de competencia de las delegaciones federales, cuando lo considere necesario;
 
-Los miembros titulares del Consejo deberán tener rango de subsecretario o su equivalente y sus suplentes el inmediato inferior.
+II. Tramitar y resolver sobre las solicitudes de regularización de la situación migratoria de los extranjeros en términos de la Ley de Migración y demás disposiciones jurídicas aplicables;
 
-El Presidente podrá invitar a titulares o representantes de otras dependencias o entidades de la Administración Pública Federal o de entidades federativas, municipios o delegaciones y organizaciones de los sectores social y privado a que participen en sesiones del Consejo cuando se traten asuntos relacionados con sus correspondientes funciones.
+III. Tramitar y resolver lo relativo a la solicitud de autorización de visas en los casos de preservación de la unidad familiar, oferta de empleo o razones humanitarias;
+
+IV. Tramitar y resolver lo relativo a la expedición, reposición, renovación y cancelación de la documentación migratoria de los extranjeros;
+
+V. Imponer sanciones administrativas en materia de regulación migratoria, previstas en la Ley de Migración y demás disposiciones jurídicas aplicables;
+
+VI. Integrar, organizar, dirigir y mantener actualizado el archivo migratorio, así como emitir las directrices para su clasificación, consulta y resguardo, de conformidad con las disposiciones jurídicas aplicables;
+
+VII. Integrar y mantener actualizado el Registro Nacional de Extranjeros, en términos de la Ley de Migración y demás disposiciones jurídicas aplicables;
+
+VIII. Proponer al Comisionado las medidas necesarias para el mejor funcionamiento de los trámites y procedimientos en materia de regulación migratoria;
+
+IX. Administrar, controlar e implementar elementos de seguridad en los procesos de expedición y control de documentación migratoria con la que se acredite una condición de estancia;
+
+X. Registrar y recopilar la información de trámites migratorios en los sistemas disponibles;
+
+XI. Supervisar los servicios, procedimientos y resoluciones del ámbito de su competencia, que realicen las delegaciones y subdelegaciones federales, delegaciones y subdelegaciones locales del Instituto, para efecto de dar cumplimiento a las disposiciones jurídicas aplicables, así como dictar las instrucciones que resulten necesarias;
+
+XII. Conocer y resolver sobre el procedimiento de determinaciones de apátrida, previsto en la Ley de Migración, reglamentos y demás disposiciones jurídicas aplicables, y
+
+XIII. Las demás que le confiera el Secretario dentro de la esfera de sus facultades, el Comisionado, y otras disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, D.O.F. 15 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 62.
 
-Son atribuciones del Comisionado del Instituto Nacional de Migración:
+Son atribuciones de la Dirección General de Control y Verificación Migratoria:
 
-I. Fungir como Secretario del Consejo Técnico del Instituto Nacional de Migración;
+I. Sustanciar el procedimiento administrativo migratorio dentro del ámbito de su competencia, y dictar la resolución que en derecho corresponda;
 
-II. Dirigir los servicios migratorios, las estaciones migratorias y la Unidad de Verificación y Vigilancia;
+II. Sustanciar y resolver los procedimientos administrativos migratorios de extranjeros presentados, así como de aquellos que opten por el beneficio del retorno asistido, de conformidad con la Ley de Migración y demás disposiciones jurídicas aplicables;
 
-III. Solicitar a las autoridades competentes, con apego a las disposiciones legales aplicables, información sobre la situación que guarda la evolución del fenómeno migratorio, en su ámbito de competencia;
+III. Registrar y recopilar en los sistemas disponibles, la información de los procedimientos administrativos migratorios que lleva a cabo el Instituto;
 
-IV. Establecer la coordinación con autoridades federales, estatales, del Distrito Federal y municipales o delegacionales que participen en la promoción y control de flujos migratorios;
+IV. Efectuar y coordinar las acciones de control, verificación y revisión migratoria, así como supervisar la internación de extranjeros, en términos de la Ley de Migración y demás disposiciones jurídicas aplicables;
 
-V. Mantener el enlace de carácter técnico con autoridades de gobiernos extranjeros y organismos internacionales, en la materia de su competencia;
+V. Determinar y ejecutar las deportaciones y demás sanciones que resulten aplicables a los extranjeros, derivado del incumplimiento a las disposiciones jurídicas en materia migratoria;
 
-VI. Informar periódicamente al Secretario de Gobernación y al Subsecretario de Población, Migración y Asuntos Religiosos, sobre el desempeño de las funciones del Instituto y de los resultados alcanzados en la aplicación de las políticas tendientes a alentar y controlar los flujos migratorios;
+VI. Coordinar, supervisar y evaluar la aplicación de la normatividad y disposiciones administrativas correspondientes a las estaciones migratorias;
 
-VII. Vigilar el cumplimiento de las disposiciones legales y administrativas en materia de protección de derechos humanos de los migrantes y difundir el respeto a los mismos;
+VII. Realizar las visitas de verificación, de conformidad con lo establecido en la Ley de Migración y demás disposiciones jurídicas aplicables;
 
-VIII. Ejercer los recursos que aporten los sectores público, social y privado derivados de convenios para la realización de proyectos o programas específicos en materia migratoria;
+VIII. Dictar el acuerdo de presentación de extranjeros en estaciones migratorias o estancias provisionales;
 
-IX. Proponer y promover la actualización permanente de las cuotas para el cobro de derechos por la prestación de servicios; intervenir, conforme a las leyes fiscales respectivas, en la recaudación y aplicación de los ingresos derivados de conceptos migratorios, así como definir estrategias y criterios para la diversificación del financiamiento del Instituto Nacional de Migración y proponer las cuotas, tarifas y derechos por servicios migratorios;
+IX. Alojar a los extranjeros en las estaciones migratorias o en las estancias provisionales, en términos de lo dispuesto por la Ley de Migración y demás disposiciones jurídicas aplicables;
 
-X. Proponer y ejecutar políticas, estrategias y medidas de tipo financiero, que permitan el desarrollo y la debida continuidad de los programas, proyectos y acciones institucionales, así como de infraestructura básica para la operación sustantiva del Instituto;
+X. Colaborar con las demás instancias de seguridad nacional de conformidad con las disposiciones jurídicas aplicables, en particular en la operación de tareas de inteligencia en la investigación, prevención y combate a las actividades ilegales;
 
-XI. Contratar y administrar los recursos humanos del Instituto, de acuerdo con las disposiciones normativas aplicables;
+XI. Supervisar los servicios, procedimientos y resoluciones del ámbito de su competencia, que realicen las delegaciones y subdelegaciones federales, delegaciones y subdelegaciones locales del Instituto, para efecto de dar cumplimiento a las disposiciones jurídicas aplicables, así como dictar las instrucciones que resulten necesarias;
 
-XII. Establecer normas, lineamientos y políticas en materia de información estadística migratoria;
+XII. Atender, resolver y coordinar las peticiones formuladas por autoridades internacionales o extranjeras en materia de control y verificación, así como de ingreso de extranjeros a territorio nacional, y
 
-XIII. Promover la realización de cursos, seminarios o eventos con instituciones educativas nacionales y extranjeras, y homólogas al Instituto;
+XIII. Las demás que le confiera el Secretario dentro de la esfera de sus facultades, el Comisionado, y otras disposiciones jurídicas aplicables.
 
-XIV. Proponer la celebración de convenios y demás actos jurídicos, y en general llevar a cabo todas aquellas actividades directamente relacionadas con la prestación de servicios, investigación, difusión y asesoría, en los términos que disponga el Secretario de Gobernación, y
-
-XV. Dictar lineamientos para la coordinación de las actividades de los delegados regionales del Instituto.
+> <small>(REFORMADO, D.O.F. 15 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 63.
 
-Son atribuciones de la Coordinación de Regulación Migratoria:
+Son atribuciones de la Dirección General de Protección al Migrante y Vinculación:
 
-I. Atender y resolver las solicitudes de trámite en la calidad migratoria de no inmigrantes en lo relativo a turistas, transmigrantes, visitantes, ministros de culto y asociados religiosos, asilados políticos, refugiados, estudiantes, visitantes distinguidos, locales y provisionales, y corresponsales;
+I. Diseñar, evaluar y ejecutar los procedimientos, programas y procesos que garanticen la defensa, y protección de derechos humanos de los migrantes durante su ingreso, tránsito, salida y retorno del territorio nacional;
 
-II. Atender y resolver las solicitudes de trámite en la calidad migratoria de inmigrantes en lo relativo a rentistas, inversionistas, profesionales, cargos de confianza, científicos, técnicos, familiares, artistas y deportistas, y asimilados;
+II. Coordinar la operación y funcionamiento de los grupos de protección a migrantes creados por la Secretaría;
 
-III. Resolver en relación a las solicitudes para adquirir la calidad de inmigrado;
+III. Coordinar y supervisar la ejecución de los lineamientos y estrategias necesarias para la prestación de los servicios que brindan los grupos y programas de protección a migrantes y evaluar su operación;
 
-IV. Dirigir, coordinar y vigilar que las resoluciones en materia de migración se ajusten a lo dispuesto en la Ley General de Población, su Reglamento y demás disposiciones jurídicas aplicables;
+IV. Proponer la suscripción de acuerdos necesarios para el retorno asistido de extranjeros y la repatriación segura y ordenada de mexicanos, de conformidad con la política migratoria definida por la Secretaría;
 
-V. Planear, organizar y dirigir la recepción y entrega de documentación a extranjeros, en las calidades de no inmigrantes, inmigrantes e inmigrados; controlar el archivo migratorio; evaluar y dar seguimiento a los programas del Instituto; e inscribir y registrar a los extranjeros para el control y expedición de documentos migratorios, y
+V. Coordinar con la Dirección General de Regulación y Archivo Migratorio y la Dirección General de Control y Verificación Migratoria, la información en materia migratoria a los extranjeros posibles víctimas de delitos;
 
-VI. Las demás que le encomiende el Comisionado del Instituto.
+VI. Coordinar y dar seguimiento a las relaciones con organizaciones de la sociedad civil, instituciones académicas, actores relevantes nacionales e internacionales, cuyo objeto esté vinculado a los temas migratorios, de conformidad con la política migratoria y lineamientos definidos por la Secretaría;
+
+VII. Supervisar los servicios, procedimientos y resoluciones del ámbito de su competencia, que realicen las delegaciones y subdelegaciones federales, delegaciones y subdelegaciones locales del Instituto, para efecto de dar cumplimiento a las disposiciones jurídicas aplicables, así como dictar las instrucciones que resulten necesarias;
+
+VIII. Registrar y recopilar la información en los sistemas disponibles, de los procedimientos administrativos migratorios, y
+
+IX. Las demás que le confiera el Secretario dentro de la esfera de sus facultades, el Comisionado, y otras disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, D.O.F. 15 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 64.
 
-Son atribuciones de la Coordinación de Control y Verificación Migratoria:
+Son atribuciones de la Dirección General de Tecnologías de la Información y Comunicaciones:
 
-I. Vigilar el cumplimiento de la legislación aplicable en materia de migración por parte de los extranjeros que se internen, salgan o permanezcan en el país; aplicar las sanciones, expulsiones y otras medidas que procedan a los extranjeros que incumplan las disposiciones, y asegurar en las estaciones migratorias a los extranjeros que lo ameriten;
+I. Diseñar, desarrollar e instrumentar las políticas, estándares y sistemas en materia de tecnologías de la información y comunicaciones aplicados a los sistemas de operación migratoria que permitan optimizar el funcionamiento del Instituto;
 
-II. Sustanciar el procedimiento administrativo migratorio y dictar la resolución que en derecho corresponda al caso concreto;
+II. Diseñar, instrumentar, controlar y evaluar los programas en materia de tecnologías de la información de las unidades administrativas del Instituto, promoviendo su innovación y modernización;
 
-III. Coordinar, supervisar y evaluar la aplicación de las normas para el funcionamiento de las estaciones migratorias, en lo relativo al ingreso, estancia y disciplina de los extranjeros asegurados;
+III. Establecer y administrar la implementación de elementos de seguridad informática e interoperabilidad en la transmisión de datos que realice el Instituto, con las áreas competentes de la Secretaría y otros entes públicos nacionales o internacionales;
 
-IV. Proponer y, en su caso, ejecutar los programas, métodos, sistemas de operación y procedimientos a los que los integrantes de la Unidad de Verificación y Vigilancia deberán sujetarse para el mejor desempeño de sus funciones, y
+IV. Administrar las bases de información migratoria y los registros que aporten las dependencias y entidades de la Administración Pública Federal, en términos de la Ley de Migración y demás disposiciones jurídicas aplicables;
 
-V. Las demás que le encomiende el Comisionado del Instituto.
+V. Proporcionar a la Unidad de Política Migratoria las bases de datos derivadas de los registros migratorios para la generación de información estadística;
+
+VI. Coordinar la operación de los servicios de telecomunicaciones del Instituto a nivel nacional;
+
+VII. Dar seguimiento y evaluar los proyectos institucionales, de mejora de la gestión, así como de los procesos y procedimientos del Instituto en materia de tecnologías de la información y comunicaciones;
+
+VIII. Definir los estándares de los sistemas informáticos migratorios, así como de los administrativos del Instituto; determinar la infraestructura tecnológica y de telecomunicaciones de dichos sistemas e instrumentarlos;
+
+IX. Promover la mejora continua de los procesos y de la calidad en la prestación de los servicios del Instituto, así como la integración y actualización de los manuales de procedimientos correspondientes;
+
+X. Supervisar los servicios, procedimientos y resoluciones del ámbito de su competencia, que realicen las delegaciones y subdelegaciones federales, delegaciones y subdelegaciones locales del Instituto, para efecto de dar cumplimiento a las disposiciones jurídicas aplicables, así como dictar las instrucciones que resulten necesarias, y
+
+XI. Las demás que le confiera el Secretario dentro de la esfera de sus facultades, el Comisionado, y otras disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, D.O.F. 15 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 65.
 
-Son atribuciones de la Coordinación de Relaciones Internacionales e Interinstitucionales:
+Son atribuciones de la Dirección General Jurídica, de Derechos Humanos y Transparencia:
 
-I. Proponer y estudiar disposiciones, convenios y tratados internacionales en materia migratoria y servir de enlace con los organismos homólogos al Instituto en otros países;
+I. Representar jurídicamente al Instituto ante toda clase de autoridades jurisdiccionales y administrativas, con excepción de las de carácter laboral;
 
-II. Coordinar las relaciones con las dependencias y entidades gubernamentales, así como con organismos y asociaciones académicos y civiles, y
+II. Proponer los proyectos de acuerdos delegatorios de los servidores públicos del Instituto, en términos de las disposiciones jurídicas aplicables;
 
-III. Las demás que le encomiende el Comisionado del Instituto.
+III. Intervenir en los asuntos de carácter legal en que tenga injerencia el Instituto, ante toda clase de autoridades administrativas y judiciales, cuando se trate de asuntos relacionados con el ejercicio de las atribuciones del Instituto, sin perjuicio del ejercicio directo de las atribuciones que correspondan a la Unidad de Asuntos Jurídicos cuando ésta lo determine oportuno;
+
+IV. Presentar en el ejercicio de la representación jurídica del Instituto, demandas, desistirse o formular su contestación, reconvenir a la contraparte, ejercer acciones y oponer excepciones; así como ofrecer, exhibir y desahogar pruebas, articular y desahogar posiciones, formular alegatos, interponer toda clase de recursos e incidentes y, en general, vigilar y atender la tramitación de los juicios y procedimientos de aquellos asuntos en que tenga injerencia el Instituto, sin perjuicio del ejercicio directo de las atribuciones que correspondan a la Unidad de Asuntos Jurídicos cuando ésta lo determine oportuno;
+
+V. Formular, presentar y, en su caso, ratificar denuncias y querellas por conductas probablemente constitutivas de delitos, en los asuntos en que tenga injerencia el Instituto, sin perjuicio del ejercicio directo de las atribuciones que correspondan a la Unidad de Asuntos Jurídicos cuando ésta lo determine oportuno;
+
+VI. Representar al Comisionado cuando sea señalado como autoridad responsable dentro de los juicios de amparo, sin perjuicio del ejercicio directo de las atribuciones que correspondan a la Unidad de Asuntos Jurídicos cuando ésta lo determine oportuno;
+
+VII. Opinar la procedencia jurídica de los manuales de organización, de procedimientos y de servicios al público y demás instrumentos jurídicos emitidos por el Instituto;
+
+VIII. Dictaminar la procedencia de convenios y contratos de obra pública, arrendamiento, adquisiciones o servicios, o cualquier otro acto jurídico de administración que celebre el Instituto, sin perjuicio del ejercicio directo de la atribución por parte de la Unidad de Asuntos Jurídicos cuando ésta lo determine oportuno;
+
+IX. Registrar y resguardar los instrumentos jurídicos a que se refieren las fracciones VII y VIII del presente artículo;
+
+X. Emitir opinión respecto a las consultas que en materia jurídica formulen los servidores públicos del propio Instituto;
+
+XI. Emitir opinión sobre las iniciativas de leyes o decretos que se presenten en materia migratoria;
+
+XII. Proponer al Comisionado del Instituto los anteproyectos de iniciativas de leyes, decretos, reglamentos, convenios, acuerdos, circulares y demás ordenamientos jurídicos, cuyas disposiciones sean competencia del Instituto;
+
+XIII. Sistematizar y difundir la normatividad y criterios de interpretación y aplicación de las disposiciones normativas que regulen la operación de los servicios migratorios;
+
+XIV. Emitir opinión ante la Secretaría de Relaciones Exteriores en los procedimientos de otorgamiento y pérdida de la nacionalidad mexicana por naturalización;
+
+XV. Ser el enlace del Instituto en materia de derechos humanos; atender los requerimientos que formulen los organismos protectores de Derechos Humanos; requerir la información correspondiente; conciliar y procurar el cumplimiento de sus recomendaciones en coordinación con las áreas involucradas del Instituto y autoridades competentes;
+
+XVI. Sustanciar, conforme a las disposiciones jurídicas aplicables, los recursos que interpongan los particulares contra actos y resoluciones del Instituto y, en su caso, emitir las resoluciones que correspondan;
+
+XVII. Sustanciar, conforme a las disposiciones jurídicas aplicables, las solicitudes de readmisión que presenten los extranjeros y emitir el acuerdo que corresponda;
+
+XVIII. Vigilar y coordinar que las disposiciones previstas en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, así como cualquier otro ordenamiento legal relacionado con la materia, se atiendan en los términos y plazos establecidos;
+
+XIX. Instrumentar las acciones de carácter preventivo y correctivo en materia de transparencia y acceso a la información; así como fungir de enlace institucional en materia de transparencia, rendición de cuentas y blindaje electoral;
+
+XX. Recibir, resguardar, custodiar y, en los casos procedentes, cancelar, hacer efectivas o en su caso determinar la prescripción de las garantías constituidas respecto al cumplimiento de obligaciones derivadas de la Ley de Migración y demás disposiciones jurídicas aplicables;
+
+XXI. Apoyar el funcionamiento de los cuerpos colegiados en los que participe el Instituto, así como en el seguimiento y cumplimiento de sus acuerdos e intervenir en sus reuniones como asesor jurídico;
+
+XXII. Opinar la procedencia de los instrumentos jurídicos que suscriba el Comisionado en el ámbito de sus atribuciones en materia de cooperación interinstitucional, de conformidad con las disposiciones jurídicas aplicables, así como integrar los expedientes correspondientes;
+
+XXIII. Supervisar los servicios, procedimientos y resoluciones del ámbito de su competencia, que realicen las delegaciones y subdelegaciones federales, delegaciones y subdelegaciones locales del Instituto, para efecto de dar cumplimiento a las disposiciones jurídicas aplicables, así como dictar las instrucciones que resulten necesarias, y
+
+XXIV. Las demás que le confiera el Secretario dentro de la esfera de sus facultades, el Comisionado, y otras disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, D.O.F. 15 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 66.
 
-Son atribuciones de la Coordinación de Delegaciones:
-
-I. Estudiar la problemática migratoria y administrativa de las delegaciones regionales del Instituto;
-
-II. Proponer y, en su caso, ejecutar las políticas que se acuerden en las áreas centrales sustantivas y administrativas de la Secretaría para ser aplicadas en las delegaciones regionales que se establezcan;
-
-III. Proponer y, en su caso, supervisar la operación de la estructura migratoria regional, así como los mecanismos de enlace y operación entre las delegaciones y las áreas centrales del Instituto, y entre las propias delegaciones, y
-
-IV. Las demás que le encomiende el Comisionado del Instituto.
-
-###### Artículo 67.
-
-Son atribuciones de la Coordinación Jurídica:
-
-I. Intervenir en los asuntos de carácter legal en que tenga injerencia el Instituto y emitir opinión respecto a las consultas que en materia jurídica formulen los servidores públicos del propio Instituto;
-
-II. Proponer los proyectos de leyes, decretos, reglamentos, convenios, acuerdos, circulares y demás disposiciones que sean de la competencia del Instituto, así como sistematizar y difundir la normatividad, criterios de interpretación y aplicación de las disposiciones jurídicas que normen los servicios migratorios, en los términos que le señalen la Unidad de Asuntos Jurídicos y la Dirección General de Compilación y Consulta del Orden Jurídico Nacional, ambas de la Secretaría;
-
-III. Formular las denuncias y querellas que legalmente procedan e intervenir en los juicios de amparo;
-
-IV. Emitir opinión ante la Secretaría de Relaciones Exteriores en los casos de naturalización y rendir los informes a la Comisión Nacional de los Derechos Humanos;
-
-V. Sustanciar, conforme a las disposiciones legales aplicables, los recursos que interpongan los particulares contra actos y resoluciones del Instituto y, en su caso, proponer las resoluciones que procedan, y
-
-VI. Las demás que le encomiende el Comisionado del Instituto.
-
-###### Artículo 68.
-
-Son atribuciones de la Coordinación de Planeación e Investigación:
-
-I. Proponer y, en su caso, coordinar la instrumentación, control y evaluación de los programas del Instituto Nacional de Migración, y proponer las medidas necesarias para impulsar la modernización integral e innovación del mismo;
-
-II. Investigar, analizar y realizar estudios de los fenómenos migratorios mundiales y nacionales, apoyándose en el centro de estudios migratorios; elaborar estadísticas e informes y proponer las políticas en la materia;
-
-III. Diseñar, desarrollar e instrumentar sistemas y estándares de informática y de comunicaciones que permitan optimizar la operación de las áreas del Instituto, así como captar información en materia migratoria a través de un sistema nacional de información migratoria, y
-
-IV. Las demás que le encomiende el Comisionado del Instituto.
-
-###### Artículo 69.
-
-Serán atribuciones de la Coordinación de Administración:
+Son atribuciones de la Dirección General de Administración:
 
 I. Proporcionar el apoyo administrativo a las áreas que integran el Instituto para la consecución de los objetivos y programas establecidos;
 
-II. Administrar y ejercer los recursos financieros asignados al Instituto, y aplicar directamente los autogenerados de acuerdo con las disposiciones en la materia, atendiendo a los requerimientos de operación del mismo y a los lineamientos que dicten las unidades administrativas competentes de la Secretaría;
+II. Elaborar el programa operativo anual y el anteproyecto de presupuesto anual del Instituto y, una vez aprobados por las instancias competentes, asegurar su debida ejecución y cumplimiento;
 
-III. Proponer al Consejo Directivo e instrumentar y aplicar, en su caso, políticas, lineamientos y normatividad en materia de reclutamiento, selección, inducción, nombramientos, contrataciones, prestaciones, remuneraciones, servicios, desarrollo y movimientos del personal del Instituto;
+III. Elaborar y en su caso actualizar los anteproyectos de manuales de organización, de procedimientos y servicios correspondientes al Instituto, así como sus modificaciones, para lo cual deberá recabar la opinión de la Dirección General Jurídica, de Derechos Humanos y Transparencia, y el dictamen de la Dirección General de Recursos Humanos de la Secretaría;
 
-IV. Elaborar, diseñar, instrumentar, administrar y evaluar el programa integral de capacitación y desarrollo de los servidores públicos del Instituto, apoyándose para ello en el centro de capacitación migratoria;
+IV. Administrar y ejercer los recursos financieros asignados al Instituto, y aplicar directamente los recursos autogenerados de acuerdo con las disposiciones jurídicas aplicables y a los requerimientos de operación del Instituto;
 
-V. Administrar los recursos materiales y proporcionar los servicios generales que se requieran para la realización de los programas y proyectos encomendados al Instituto, llevando a cabo para tal efecto las adquisiciones y contrataciones correspondientes;
+V. Proponer y establecer los mecanismos, herramientas e instrumentos jurídicos para realizar el cobro y control de los ingresos por servicios migratorios, así como los accesorios que se generen, de conformidad con las disposiciones jurídicas aplicables;
 
-VI. Llevar a cabo la planeación, diseño y realización de las obras, así como la conservación y mantenimiento de los bienes muebles e inmuebles al servicio del Instituto, de acuerdo con las disposiciones normativas aplicables a estas materias, y
+VI. Instrumentar los programas y procedimientos para la selección, ingreso, formación, capacitación, adiestramiento, desarrollo, actualización, permanencia y promoción de los servidores públicos del Instituto;
 
-VII. Las demás que le encomiende el Comisionado del Instituto.
+VII. Administrar el capital humano, expedir los nombramientos y acordar con el Comisionado los movimientos del personal del Instituto;
+
+VIII. Coordinar con otras unidades administrativas de la Secretaría, otras dependencias y entidades de la Administración Pública Federal la realización de funciones de formación y capacitación;
+
+IX. Elaborar, instrumentar y evaluar los programas de formación, capacitación, profesionalización, evaluación del desempeño, así como de clima y cultura organizacional de los servidores públicos del Instituto;
+
+X. Tramitar la recuperación de los ingresos que capte el Instituto por concepto de derechos, multas, recargos y actualizaciones, ante la Secretaría de Hacienda y Crédito Público, en términos que establezcan las disposiciones jurídicas aplicables;
+
+XI. Administrar los recursos materiales y proporcionar los servicios generales que se requieran para la ejecución de los programas y proyectos encomendados al Instituto, para lo cual podrá realizar las contrataciones públicas correspondientes;
+
+XII. Llevar a cabo la instrumentación, diseño y realización de las obras, así como la conservación y mantenimiento de los bienes muebles e inmuebles al servicio del Instituto, de acuerdo con las disposiciones jurídicas aplicables;
+
+XIII. Llevar a cabo evaluaciones de riesgo de las instalaciones, los sistemas y las personas del Instituto y, en su caso, proponer las medidas correctivas conducentes, en coordinación con las autoridades competentes;
+
+XIV. Supervisar los servicios, procedimientos y resoluciones del ámbito de su competencia, que realicen las delegaciones y subdelegaciones federales, delegaciones y subdelegaciones locales del Instituto, para efecto de dar cumplimiento a las disposiciones jurídicas aplicables, así como dictar las instrucciones que resulten necesarias;
+
+XV. Suscribir, previo dictamen de la Dirección General Jurídica, de Derechos Humanos y Transparencia, en su respectivo ámbito de competencia, los contratos de obra pública, arrendamiento, adquisiciones o servicios, o cualquier otro acto jurídico de administración que celebre el Instituto con excepción de los que vinculen a las delegaciones federales, y
+
+XVI. Las demás que le confiera el Secretario dentro de la esfera de sus facultades, el Comisionado, y otras disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, D.O.F. 15 DE AGOSTO DE 2012)</small>
+
+###### Artículo 67.
+
+Son atribuciones de la Dirección General de Coordinación de Delegaciones:
+
+I. Difundir, instruir y, en su caso, verificar entre las delegaciones y subdelegaciones federales, delegaciones y subdelegaciones locales sobre las directrices que establezca el Instituto en materia de regulación, control, verificación migratoria y procedimientos administrativos, a fin de asegurar su cumplimiento, así como identificar problemáticas y sus probables soluciones;
+
+II. Coordinar las actividades de las delegaciones y subdelegaciones federales y locales del Instituto;
+
+III. Identificar e informar la problemática migratoria y administrativa de las delegaciones y subdelegaciones federales y locales del Instituto, así como proponer sus posibles soluciones;
+
+IV. Coordinar, con cada una de las áreas del Instituto, la supervisión, los servicios, procedimientos, resoluciones, operación y funcionamiento de las delegaciones y subdelegaciones federales, delegaciones y subdelegaciones locales, para efecto de dar cumplimiento a las disposiciones jurídicas aplicables, así como dictar las instrucciones que resulten necesarias;
+
+V. Integrar, controlar y mantener el acervo documental de las bibliotecas de las estaciones migratorias, así como emitir directrices para la prestación de este servicio con la asesoría de la Unidad de Política Migratoria;
+
+VI. Establecer criterios complementarios para la organización y funcionamiento de las delegaciones y subdelegaciones federales, delegaciones y subdelegaciones locales, y
+
+VII. Las demás que le confiera el Secretario dentro de la esfera de sus facultades, el Comisionado, y otras disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, D.O.F. 15 DE AGOSTO DE 2012)</small>
+
+###### Artículo 68.
+
+El Director General de Asuntos Internos será nombrado por el Secretario, a propuesta del Subsecretario de Población, Migración y Asuntos Religiosos.
+
+Son atribuciones de la Dirección General de Asuntos Internos:
+
+I. Supervisar la aplicación de los procesos a cargo de las diversas áreas del Instituto, con la finalidad de detectar violaciones, incumplimientos, deficiencias, responsabilidades o irregularidades por parte de servidores públicos, así como realizar las denuncias y vistas a las autoridades competentes;
+
+II. Conocer las quejas y denuncias, incluso anónimas, presentadas en contra de actos realizados por servidores públicos del Instituto, garantizando la confidencialidad de la información, así como presentar la vista o denuncia correspondiente ante la autoridad que en cada caso resulte competente;
+
+III. Requerir y obtener información de las diversas áreas del Instituto, incluida la posibilidad de llevar a cabo programas de usuario simulado para documentar las investigaciones a su cargo;
+
+IV. Citar a los servidores públicos del Instituto que sean parte de alguna investigación o en su caso, a aquellos que puedan aportar datos para la misma;
+
+V. Rendir informes periódicamente al Secretario sobre el resultado de las investigaciones a su cargo y, en su caso, al Subsecretario de Población Migración y Asuntos Religiosos, y
+
+VI. Las demás que le confiera el Secretario dentro de la esfera de sus facultades, el Comisionado, y otras disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, D.O.F. 15 DE AGOSTO DE 2012)</small>
+
+###### Artículo 69.
+
+El Centro de Evaluación y Control de Confianza tendrá las siguientes funciones:
+
+I. Establecer los lineamientos y procedimientos para el proceso de certificación de control de confianza del personal del Instituto;
+
+II. Llevar a cabo las evaluaciones de ingreso a aspirantes, promoción y permanencia al personal del Instituto, a fin de comprobar el cumplimiento de los perfiles de personalidad, éticos, socioeconómicos y médicos, para el cumplimiento de sus funciones;
+
+III. Emitir y actualizar el certificado correspondiente al personal del Instituto que acredite las evaluaciones;
+
+IV. Establecer una base de datos que contenga los archivos de los procesos de certificación de las personas a quienes se les hayan practicado el control de confianza y las evaluaciones, e implementar las medidas de seguridad necesarias que garanticen su confidencialidad;
+
+V. Recomendar la capacitación y la implementación de las medidas que se deriven de los resultados de las evaluaciones practicadas, y
+
+VI. Las demás que le confiera el Secretario dentro de la esfera de sus facultades, el Comisionado, y otras disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, D.O.F. 15 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 70.
 
-Las delegaciones regionales ejercerán las atribuciones que expresamente se les delegue, ajustando su funcionamiento a las políticas, normas y lineamientos que dicte el Comisionado del Instituto a través de las áreas centrales.
+Son atribuciones de los delegados federales del Instituto Nacional de Migración:
+
+I. Sustanciar y resolver los procedimientos administrativos en su respectivo ámbito de competencia, de conformidad con lo establecido en la Ley de Migración y demás disposiciones jurídicas aplicables;
+
+II. Sustanciar y resolver los procedimientos administrativos migratorios de extranjeros presentados, así como de aquellos que opten por el beneficio del retorno asistido, de conformidad con la Ley de Migración y demás disposiciones jurídicas aplicables;
+
+III. Atender y resolver las solicitudes de trámite migratorio relacionadas con las condiciones de estancia establecidas en la Ley de Migración, en el ámbito territorial de su competencia;
+
+IV. Ejecutar los actos que en su ámbito de competencia confiere a la autoridad migratoria la Ley de Migración y demás disposiciones jurídicas aplicables;
+
+V. Imponer y ejecutar las sanciones administrativas previstas en la Ley de Migración;
+
+VI. Administrar las estaciones migratorias y estancias provisionales de su adscripción, de conformidad con lo previsto en la Ley de Migración y demás disposiciones jurídicas aplicables;
+
+VII. Suscribir, previo dictamen de la Dirección General Jurídica, de Derechos Humanos y Transparencia, en su respectivo ámbito de competencia, los contratos de obra pública, arrendamiento, adquisiciones o servicios, o cualquier otro acto jurídico de administración que celebre el Instituto y que vinculen a la Delegación Federal que corresponda;
+
+VIII. Formular, presentar y, en su caso, ratificar denuncias y querellas por conductas probablemente constitutivas de delitos, en los asuntos en que tenga injerencia el Instituto, por lo que deberá informar periódicamente a la Dirección General Jurídica, de Derechos Humanos y Transparencia respecto del número de denuncias y querellas presentadas, así como su estado procesal. Esta atribución se confiere sin perjuicio de su ejercicio directo por parte de la Dirección General Jurídica, de Derechos Humanos y Transparencia;
+
+IX. Recibir, resguardar, custodiar y en los casos procedentes, cancelar, hacer efectivas o determinar la prescripción de las garantías constituidas respecto al cumplimiento de obligaciones derivadas de la Ley de Migración, en su ámbito territorial de competencia. Esta atribución se confiere sin perjuicio de su ejercicio directo por parte de la Dirección General Jurídica, de Derechos Humanos y Transparencia;
+
+X. Sustanciar y resolver, conforme a las disposiciones jurídicas aplicables, los recursos administrativos que interpongan los particulares contra actos y resoluciones que emitan los servidores públicos de su adscripción;
+
+XI. Proporcionar el servicio de bibliotecas en las estaciones migratorias, de conformidad con las disposiciones jurídicas aplicables;
+
+XII. Coordinar las actividades del Instituto en el ámbito territorial de su competencia;
+
+XIII. Informar a las unidades centrales del Instituto, sobre asuntos de su competencia y, en su caso, remitir las actuaciones respectivas cuando así lo requieran, y
+
+XIV. Las demás que le confiera el Secretario dentro de la esfera de sus facultades, el Comisionado, y otras disposiciones jurídicas aplicables.
+
+Los subdelegados federales, delegados y subdelegados locales ejercerán las atribuciones que expresamente les delegue el Comisionado.
 
 ###### Artículo 71.
 
-Las estaciones migratorias son las instalaciones físicas a cargo del Instituto Nacional de Migración, para el aseguramiento de extranjeros que, en los términos de las disposiciones legales aplicables, se encuentren ilegalmente en el territorio nacional.
+(DEROGADO, D.O.F. 15 DE AGOSTO DE 2012)
 
 ###### Artículo 72.
 
 El régimen laboral al que deberán sujetarse los servidores públicos del Instituto es el que prevé el Apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(REFORMADO, D.O.F. 15 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 73.
 
 Al frente de la Unidad de Contraloría Interna, órgano interno de control del Instituto Nacional de Migración, habrá un Contralor Interno designado en los términos del artículo 37, fracción XII de la Ley Orgánica de la Administración Pública Federal, quien, en el ejercicio de sus facultades, se auxiliará por los titulares de las áreas de Auditoría, Quejas y Responsabilidades, designados en los mismos términos.
 
-Dichos servidores públicos ejercerán las atribuciones a que se refiere el artículo 98 de este Reglamento, en el ámbito de competencia del Instituto.
+Dichos servidores públicos ejercerán las atribuciones a que se refiere el artículo 100 de este Reglamento, en el ámbito de competencia del Instituto.
 
 El Instituto proporcionará al Contralor Interno los recursos humanos y materiales que requiera para la atención de los asuntos a su cargo. Asimismo, los servidores públicos del Instituto están obligados a proporcionarle el auxilio que requiera para el desempeño de sus facultades.
 
@@ -1831,41 +2171,39 @@ VI. Las demás que le asigne el Ejecutivo Federal a través del Secretario de Go
 
 #### Sección VII.. De la Coordinación General de la Comisión Mexicana de Ayuda a Refugiados
 
+> <small>(REFORMADO, D.O.F. 15 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 78.
 
-La Comisión Mexicana de Ayuda a Refugiados contará, para apoyar el desarrollo de sus funciones, con un órgano administrativo desconcentrado de la Secretaría de Gobernación denominado Coordinación General de la Comisión Mexicana de Ayuda a Refugiados, cuyo titular será designado y removido por el Secretario de Gobernación en su carácter de Presidente de la Comisión.
+La Comisión Mexicana de Ayuda a Refugiados contará, para apoyar el desarrollo de sus funciones con un órgano administrativo desconcentrado de la Secretaría de Gobernación denominado Coordinación General de la Comisión Mexicana de Ayuda a Refugiados, cuyo titular será designado y removido por el Secretario de Gobernación en su carácter de Presidente de la Comisión.
 
-La Coordinación General tendrá, como unidades de apoyo, las direcciones de Protección y Retorno, de Asistencia y Desarrollo, y de Administración y Finanzas, así como los delegados estatales que requiera para el ejercicio de sus atribuciones y que figuren en su estructura autorizada.
+> <small>(REFORMADO, D.O.F. 15 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 79.
 
 Serán atribuciones de la Coordinación General:
 
-I. Formular los estudios y programas propios de los objetivos y funciones de la Coordinación General;
+I. Elaborar, proponer y difundir la política en materia de refugiados y protección complementaria le (sic) otorguen en los términos del artículo 1, párrafo segundo de la Constitución Política de los Estados Unidos Mexicanos;
 
-II. Proponer las relaciones e intercambios con gobiernos extranjeros y organismos internacionales para la atención de los refugiados;
+II. Ejercer las atribuciones que la legislación en materia de refugiados y de protección complementaria le otorguen a la Secretaría;
 
-III. Contratar al personal técnico y administrativo necesario en los términos de las normas aplicables;
+III. Proponer y elaborar estadísticas, estudios, investigaciones y publicaciones en materia de refugiados y protección complementaria;
 
-IV. Coordinar los programas de asistencia que la Comisión presta, atendiendo las necesidades inmediatas de los refugiados, así como la búsqueda de soluciones idóneas;
+IV. Proponer y coordinar programas, criterios, acciones públicas y estrategias orientados a la protección, asistencia e integración de refugiados y extranjeros que reciban protección complementaria;
 
-V. Proponer y operar los mecanismos de cooperación idóneos con los organismos internacionales y los gobiernos de los países de origen de los refugiados, para facilitar su repatriación voluntaria;
+V. Implementar programas para la difusión y promoción de los derechos humanos de los solicitantes del reconocimiento de la condición de refugiado, refugiados y extranjeros a los que se les otorgue protección complementaria;
 
-VI. Establecer relaciones con otras dependencias y entidades a fin de lograr su cooperación en la realización de los objetivos de la Comisión;
+VI. Operar los mecanismos de coordinación y cooperación entre dependencias y entidades federales, estatales, municipales, del Distrito Federal y sus demarcaciones territoriales, así como con organismos nacionales e internacionales y organizaciones de la sociedad civil, que participen en la atención a refugiados;
 
-VII. Participar con las dependencias del Ejecutivo Federal competentes en la calificación de la calidad de refugiados y en el desarrollo e instrumentación de programas tendientes a regularizar la estancia en territorio nacional de presuntos refugiados;
+VII. Solicitar al Instituto Nacional de Migración valore, en su caso, la posibilidad de autorizar el traslado del solicitante del reconocimiento de la condición de refugiado a instituciones especializadas, hasta en tanto se resuelva su situación migratoria de conformidad con las disposiciones jurídicas aplicables;
 
-VIII. Coordinar la elaboración y operación de proyectos para la solución permanente de los problemas de refugiados, ya sea que se trate de repatriación, de integración, traslado a un tercer país u otras alternativas;
+VIII. Ejecutar todas aquellas tareas, respecto a sus atribuciones que le encomiende el Secretario y, en su caso, el Subsecretario de Población, Migración y Asuntos Religiosos;
 
-IX. Proponer la celebración de convenios y demás actos jurídicos, y representar a la Comisión de acuerdo con las disposiciones jurídicas aplicables;
+IX. Informar periódicamente al Secretario por medio del Subsecretario de Población, Migración y Asuntos Religiosos sobre el desempeño de sus funciones y los resultados alcanzados para ayudar a los refugiados, y
 
-X. Promover y difundir entre los sectores público, social y privado, a nivel nacional e internacional, los programas y acciones del Estado Mexicano en beneficio de los refugiados;
+X. Las demás que le confiera el Secretario dentro de la esfera de sus facultades, y otras disposiciones jurídicas aplicables.
 
-XI. Ejecutar todas aquellas tareas que le encomiende el titular de la Secretaría o, en su defecto, el Subsecretario de Población, Migración y Asuntos Religiosos, para el logro de los objetivos de la Comisión, y
-
-XII. Informar periódicamente al Secretario y al Subsecretario de Población, Migración y Asuntos Religiosos sobre el desempeño de la Coordinación General y los resultados alcanzados para ayudar a los refugiados.
-
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 1 DE SEPTIEMBRE DE 2004)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 1 DE SEPTIEMBRE DE 2004)</small>
 
 #### Sección VIII.. De la Secretaría Técnica de la Comisión para Asuntos de la Frontera Norte
 
@@ -2099,7 +2437,7 @@ La Secretaría y sus órganos administrativos desconcentrados proporcionarán al
 
 ### Capítulo VIII.. De la Suplencia de los Servidores Públicos de la Secretaría
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 101.
 
@@ -2139,7 +2477,7 @@ OCTAVO. Los derechos laborales de los trabajadores de la Secretaría y de sus ó
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintinueve días del mes de julio de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 9 DE SEPTIEMBRE DE 2003.
 
@@ -2180,3 +2518,23 @@ El registro de los recursos humanos, financieros y materiales, e inventarios ent
 TERCERO. En todo caso se respetarán los derechos laborales de los trabajadores del Instituto Nacional de Estudios Históricos de las Revoluciones de México.
 
 CUARTO. Las secretarías de Gobernación y de Educación Pública realizarán las acciones necesarias para que la operación del órgano administrativo desconcentrado denominado Instituto Nacional de Estudios Históricos de las Revoluciones de México se realice con los recursos aprobados a dichas dependencias, mediante movimientos compensados para el ejercicio fiscal que corresponda, por lo que no requerirán recursos adicionales para tales efectos y no incrementarán su presupuesto regularizable.
+
+D.O.F. 15 DE AGOSTO DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Las normas y demás disposiciones administrativas que se encuentren vigentes antes de la publicación del presente Decreto, continuarán aplicándose en lo que no se opongan a lo previsto en el mismo.
+
+TERCERO. Dentro del término de noventa días contados a partir de la entrada en vigor del presente Decreto, el Comisionado del Instituto Nacional de Migración deberá expedir los acuerdos delegatorios en favor de los servidores públicos del mismo, incluidos sus delegados y subdelegados federales y locales. En tanto no sean expedidos los acuerdos delegatorios aludidos, continuarán vigentes los que se hayan publicado en el Diario Oficial de la Federación con anterioridad a la entrada en vigor del presente Decreto.
+
+CUARTO. Las unidades administrativas que cambian de denominación en virtud del presente Decreto, se harán cargo de los asuntos de su competencia y continuarán su sustanciación hasta la emisión de las resoluciones respectivas. En particular, en las alusiones que las normas o disposiciones administrativas hagan de las unidades administrativas que a continuación se detallan, se entenderán hechas a las nuevas unidades administrativas, para quedar como sigue:
+
+A. Unidad de Enlace Federal o Dirección General de Coordinación con Entidades Federativas, por la Unidad de Enlace Federal y Coordinación con Entidades Federativas, y
+
+B. Dirección General Adjunta de Juegos y Sorteos, por la Dirección General de Juegos y Sorteos.
+
+QUINTO. Los asuntos que se encuentren pendientes, a la entrada en vigor de este Decreto, serán atendidos o resueltos por el área competente de conformidad con el presente Reglamento.
+
+SEXTO. La Oficialía Mayor de la Secretaría de Gobernación realizará las acciones necesarias para que los recursos humanos, financieros y materiales asignados a las unidades o áreas que se modifican o desaparecen, sean transferidos a las unidades que correspondan, en los términos del presente Decreto y de conformidad con las normas aplicables y disponibilidad presupuestaria.
+
+SÉPTIMO. La Secretaría de Gobernación realizará las acciones necesarias para que la implementación de su reglamento interior se realice con los recursos aprobados en su presupuesto, por lo que no requerirán recursos adicionales para tales efectos y no incrementarán su presupuesto regularizable, para el presente ejercicio fiscal y los subsecuentes.
