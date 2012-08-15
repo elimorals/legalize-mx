@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2012-05-30"
+last_updated: "2012-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2012.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -2084,7 +2084,7 @@ El retiro forzoso de los Magistrados se producirá al cumplir sesenta y cinco a�
 
 Asimismo, la Ley en la materia, preverá la forma y proporción en que se otorgará el haber por retiro y la existencia de un mecanismo para generar los recursos para el pago del mismo a partir del presupuesto que se destine anualmente al Poder Judicial, evitando que su pago repercuta como un gasto excesivo a cargo del Presupuesto de dicho Poder.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1995)</small>
 
 ###### Artículo 90.
 
@@ -2508,7 +2508,9 @@ De conformidad a lo dispuesto en el Artículo 115 de la Constitución Política 
 
 El Estado de Morelos, para su régimen interior, se divide en los siguientes municipios libres:
 
-Amacuzac, Atlatlahucan, Axochiapan, Ayala, Coatlán del Río, Cuautla, Cuernavaca, 'Emiliano Zapata, Huitzilac, Jantetelco, Jiutepec, Jojutla, Jonacatepec, Mazatepec, Miacatlán, Ocuituco, Puente de Ixtla, Temixco, Temoac, Tepalcingo, Tepoztlán, Tetecala, Tetela del Volcán, Tlalnepantla, Tlaltizapán de Zapata, Tlaquiltenango,·Tlayacapan, Totolapan, Xochitepec, Yautepec, Yecapixtla, Zacatepec y Zacualpan.
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2012)</small>
+
+Amacuzac, Atlatlahucan, Axochiapan, Ayala, Coatlán del Río, Cuautla, Cuernavaca, Emiliano Zapata, Huitzilac, Jantetelco, Jiutepec, Jojutla, Jonacatepec, Mazatepec, Miacatlán, Ocuituco, Puente de Ixtla, Temixco, Temoac, Tepalcingo, Tepoztlán, Tetecala, Tetela del Volcán, Tlalnepantla, Tlaltizapán de Zapata, Tlaquiltenango, Tlayacapan, Totolapan, Xochitepec, Yautepec, Yecapixtla, Zacatepec y Zacualpan de Amilpas.
 
 Los Municipios citados se agruparán en Distritos Judiciales para la mejor administración de justicia.
 
@@ -4008,7 +4010,7 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 29 DE ABRIL DE 2009.
 
-DECRETO NO. 1209, POR EL QUE REFORMA EL ARTICULO 120 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+DECRETO NO. 1209, POR EL QUE REFORMA EL ARTÍCULO 120 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -4207,3 +4209,11 @@ Aprobado el presente, remítase para su publicación en el Periódico Oficial Ti
 ###### ARTÍCULO CUARTO.
 
 La (sic) presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Morelos.
+
+P.O. 15 DE AGOSTO DE 2012.
+
+PRIMERO.- Aprobado que sea el presente remítase a los Municipios del Estado para los efectos del Constituyente Permanente.
+
+SEGUNDO.- Una vez aprobado remítase al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos a que se refiere el artículo 44 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+TERCERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
