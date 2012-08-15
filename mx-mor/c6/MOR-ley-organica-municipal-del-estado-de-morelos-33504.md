@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2012-05-16"
+last_updated: "2012-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -235,7 +235,9 @@ De conformidad con el Articulo 111 de la Constitución Estatal, el Estado de Mor
 
 32.- Zacatepec; y
 
-33.- Zacualpan.
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2012)</small>
+
+33.- Zacualpan de Amilpas.
 
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
 
@@ -413,7 +415,9 @@ IV. Siete regidores: Emiliano Zapata, Puente de Ixtla, Tlaltizapán y Zacatepec;
 
 V. Cinco regidores: Axochiapan, Miacatlán, Tepalcingo, Tepoztlán, Tlaquiltenango, Yecapixtla y Xochitepec; y
 
-VI. Tres regidores: Amacuzac, Atlatlahucan, Coatlán del Río, Huitzilac, Jantetelco, Jonacatepec, Mazatepec, Ocuituco, Temoac, Tetecala, Tetela del Volcán, Tlalnepantla, Tlayacapan, Totolapan y Zacualpan.
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2012)</small>
+
+VI. Tres regidores: Amacuzac, Atlatlahucan, Coatlán del Rio, Huitzilac, Jantetelco, Jonacatepec, Mazatepec, Ocuituco, Temoac, Tetecala, Tetela del Volcán, Tlalnepantla, Tlayacapan, Totolapan y Zacualpan de Amilpas.
 
 ###### Artículo 19.
 
@@ -429,35 +433,17 @@ En caso de declararse procedente la excusa, se llamará de inmediato al suplente
 
 Los miembros de los Ayuntamientos sólo podrán excusarse de asumir el cargo o solicitar licencias temporales, determinadas y definitivas por causas graves y justificadas que serán resueltas y calificadas por el Cabildo.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 21.
 
 Los Ayuntamientos se instalarán legalmente, bajo la siguiente solemnidad:
 
-El día uno de noviembre del año de su elección, el Ayuntamiento electo celebrará sesión pública y solemne de Cabildo, en la que previa comprobación de que existe quórum legal y con la presencia del Ayuntamiento saliente, el Presidente Municipal rendirá la protesta de Ley en los términos siguientes:
+El día uno de enero del año siguiente al de su elección, el Ayuntamiento electo celebrará sesión pública y solemne de Cabildo, en la que previa comprobación de que existe quórum legal y con la presencia del Ayuntamiento saliente, el Presidente Municipal rendirá la protesta de Ley en los términos siguientes: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las Leyes que de una y otra emanen y cumplir leal y patrióticamente con los deberes del cargo de Presidente Municipal que el Municipio…me ha conferido, y si no lo hiciere así, que la Nación, el Estado y el Municipio me lo demanden,"
 
-"Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las Leyes que de una y otra emanen y cumplir leal y patrióticamente con los deberes del cargo de Presidente Municipal que el Municipio de… me ha conferido, y si no lo hiciere así, que la Nación, el Estado y el Municipio me lo demanden."
+Concluida su protesta, el Presidente Municipal tomará la protesta a los demás miembros del Ayuntamiento, empleando la siguiente fórmula: "Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las Leyes que de una y otra emanen y cumplir leal y patrióticamente con los deberes del cargo que el Municipio os ha conferido".
 
-Concluida su protesta, el Presidente Municipal tomará la protesta a los demás miembros del Ayuntamiento, empleando la siguiente fórmula:
-
-"Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las Leyes que de una y otra emanen y cumplir leal y patrióticamente con los deberes del cargo que el Municipio os ha conferido".
-
-El Síndico y los Regidores, de pie y levantando la mano contestarán:
-
-"Sí, protesto".
-
-Acto continúo, el Presidente Municipal dirá:
-
-"Si no lo hiciereis así, que la Nación, el Estado y este Municipio os lo demanden."
-
-Enseguida el Presidente Municipal, ya en funciones, hará la siguiente declaratoria:
-
-"Queda legítimamente instalado el Ayuntamiento del Municipio de que deberá funcionar durante el período…"
-
-Hecha la declaratoria anterior, el Presidente Municipal hará uso de la palabra con el propósito de dar a conocer las líneas de trabajo que pretenda desarrollar el Ayuntamiento en el período de su gestión.
-
-A continuación hará uso de la palabra un Regidor por cada uno de los partidos políticos representados en el Ayuntamiento con el propósito de fijar su posición en un tiempo no mayor de diez minutos.
-
-En dicha sesión, actuará como Secretario el Síndico, en el caso de que esté ausente, actuará con tal carácter el Regidor que nombre el propio Ayuntamiento al inicio de la sesión de Cabildo.
+El Síndico y los Regidores, de pie y levantando la mano contestarán: "Sí, protesto". Acto continuo, el Presidente Municipal dirá: "Si no lo hiciereis así, que la Nación, el Estado y este Municipio os lo demanden." Enseguida el Presidente Municipal, ya en funciones, hará la siguiente declaratoria: "Queda legítimamente instalado el Ayuntamiento del Municipio de que deberá funcionar durante el periodo…" Hecha la declaratoria anterior, el Presidente Municipal hará uso de la palabra con el propósito de dar a conocer las líneas de trabajo que pretenda desarrollar el Ayuntamiento en el período de su gestión. A continuación hará uso de la palabra un Regidor por cada uno de los partidos políticos representados en el Ayuntamiento con el propósito de fijar su posición en un tiempo no mayor de diez minutos.
 
 ###### Artículo 22.
 
@@ -675,9 +661,11 @@ En el último año de la gestión administrativa del Ayuntamiento, el informe se
 
 Para lo no previsto en la presente Ley sobre el funcionamiento de los Ayuntamientos, se estará a lo que dispongan su Bando de Policía y Gobierno y sus Reglamentos Municipales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 38.
 
-Los Ayuntamientos tienen a su cargo el gobierno de sus respectivos Municipios, por lo cual están facultados para:
+Los Ayuntamientos tienen a su cargo el gobierno de sus respectivos municipios, por lo cual están facultados para:
 
 I. Ejercer el derecho de iniciar Leyes y decretos ante el Congreso, en los términos de la fracción IV del Artículo 42 de la Constitución Política local;
 
@@ -815,7 +803,9 @@ LI. Autorizar al Presidente Municipal, Síndico y Regidores para ausentarse del 
 
 LII. Analizar y en su caso aprobar la nomenclatura de las calles;
 
-LIII. Instrumentar y reglamentar programas que prevengan y combatan el alcoholismo, la prostitución, la adicción a las drogas y toda actividad que implique una conducta antisocial, así como auxiliar a las autoridades competentes en estos casos;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2012)</small>
+
+LIII.- Instrumentar y reglamentar programas que prevengan y combatan el alcoholismo, la prostitución, la adicción a las drogas, la deserción escolar en el nivel básico y toda actividad que implique una conducta antisocial, así como auxiliar a las autoridades competentes en estos casos;
 
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2005)</small>
 
@@ -889,6 +879,8 @@ No se consideran en la excepción anterior aquellos que tengan un empleo públic
 
 ### CAPÍTULO II. DE LOS PRESIDENTES MUNICIPALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 41.
 
 El Presidente Municipal es el representante político, jurídico y administrativo del Ayuntamiento; deberá residir en la cabecera municipal durante el lapso de su período constitucional y, como órgano ejecutor de las determinaciones del Ayuntamiento, tiene las siguientes facultades y obligaciones:
@@ -943,37 +935,47 @@ XVIII. Asumir el mando de la fuerza pública municipal, excepto en los casos en 
 
 XIX. Solicitar el auxilio de las fuerzas de seguridad pública, autoridades judiciales y ministeriales; así como prestar a éstas el auxilio y colaboración que soliciten para el ejercicio de sus funciones;
 
-XX. Dictar y ejecutar los acuerdos que sean pertinentes a la tranquilidad pública, así como a la seguridad de las personas y sus propiedades y derechos, ordenando, cuando proceda, clausurar centros, establecimientos y lugares donde se produzcan escándalos o que funcionen en forma clandestina;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2012)</small>
 
-XXI. Designar al titular de la presidencia del Sistema Municipal para el Desarrollo Integral de la Familia;
+XX. Dictar y ejecutar los acuerdos que sean pertinentes a la tranquilidad pública, así como a la seguridad de las personas y sus propiedades y derechos, ordenando, cuando proceda, clausurar centros, establecimientos y lugares donde se produzcan escándalos, empleen para su funcionamiento a menores de 14 años o que operen de forma clandestina;
 
-XXII. Conducir los trabajos para la formulación del Plan de Desarrollo del Municipio y los programas que del mismo deriven, de acuerdo con las Leyes respectivas y una vez elaborados, someterlos a la aprobación del Ayuntamiento;
+> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2012)</small>
 
-XXIII. Ordenar la ejecución del plan y programas a que se hace referencia en la fracción anterior;
+XXI. Garanticen que todas las niñas y los niños que habitan el municipio, acudan a la escuela a recibir al menos el nivel de educación básica.
 
-XXIV. Vigilar el mantenimiento y conservación de los bienes municipales;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2012)</small>
 
-XXV. Conceder audiencia pública y en general resolver sobre las peticiones, promociones o gestiones que realicen los gobernados, así como realizar foros de consulta ciudadana, las peticiones que no obtengan respuesta en un término máximo de treinta días, se entenderán resueltas en forma favorable para el peticionario;
+XXII. Designar al titular de la Presidencia del Sistema Municipal para el Desarrollo Integral de la Familia;
 
-XXVI. Otorgar a los organismos electorales el apoyo de la fuerza pública, así como todos los informes y certificaciones que aquéllos soliciten, para el mejor desarrollo de los procesos electorales;
+XXIII. Conducir los trabajos para la formulación del Plan de Desarrollo del Municipio y los programas que del mismo deriven, de acuerdo con las Leyes respectivas y una vez elaborados, someterlos a la aprobación del Ayuntamiento;
 
-XXVII. Vigilar que se integren y funcionen en forma legal las dependencias, unidades administrativas y organismos desconcentrados y fideicomisos que formen parte de la infraestructura administrativa;
+XXIV. Ordenar la ejecución del plan y programas a que se hace referencia en la fracción anterior;
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+XXV. Vigilar el mantenimiento y conservación de los bienes municipales:
 
-XXVIII. Presidir las Juntas de Gobierno de los Organismos Operadores Municipales e Intermunicipales, así como los comités, comisiones y consejos consultivos que se consideren necesarios, para el desarrollo de los asuntos competencia de la administración municipal, mismos que tendrán carácter honorífico;
+XXVI. Conceder audiencia pública y en general resolver sobre las peticiones, promociones o gestiones que realicen los gobernados, así como realizar foros de consulta ciudadana, las peticiones que no obtengan respuesta en un término máximo de treinta días, se entenderán resueltas en forma favorable para el peticionario;
 
-XXIX. Presidir las Juntas de Gobierno de los Organismos Operadores Municipales e Intermunicipales;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2012)</small>
 
-XXX. Proponer al Ayuntamiento la creación o supresión de organismos descentralizados, fideicomisos o empresas de participación municipal mayoritaria;
+XXVII. Otorgar a los organismos electorales el apoyo de la fuerza pública, así como todos los informes y certificaciones que aquellos soliciten, para el mejor desarrollo de los procesos electorales;
 
-XXXI. Delegar en sus subalternos, dependencias o áreas administrativas del Ayuntamiento las atribuciones que esta Ley y el Reglamento Interior determinen como delegables;
+XXVIII. Vigilar que se integren y funcionen en forma legal las dependencias, unidades administrativas y organismos desconcentrados y fideicomisos que formen parte de la infraestructura administrativa;
 
-XXXII. Enviar la terna para la designación del Juez de Paz al Consejo de la Judicatura del Estado, tal como lo dispone la Ley Orgánica del Poder Judicial;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2012)</small>
 
-XXXIII. Resolver y contestar oportunamente las observaciones que haga el órgano constitucional de fiscalización del Congreso del Estado;
+XXIX. Solicitar la autorización respectiva al Cabildo en caso de que se requiera la ampliación presupuestal según lo establece la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Morelos;
 
-XXXIV. Las demás que les concedan las leyes, reglamentos y otras disposiciones de observancia general, así como los acuerdos del propio Ayuntamiento.
+XXX. Presidir las Juntas de Gobierno de los Organismos Operadores Municipales e Intermunicipales;
+
+XXXI. Proponer al Ayuntamiento la creación o supresión de organismos descentralizados, fideicomisos o empresas de participación municipal mayoritaria;
+
+XXXII. Delegar en sus subalternos, dependencias o áreas administrativas del Ayuntamiento las atribuciones que esta Ley y el Reglamento Interior determinen como delegables;
+
+XXXIII. Enviar la terna para la designación del Juez de Paz al Consejo de la Judicatura del Estado, tal como lo dispone la Ley Orgánica del Poder Judicial;
+
+XXXIV. Resolver y contestar oportunamente las observaciones que haga el órgano constitucional de fiscalización del Congreso del Estado;
+
+XXXV. Las demás que les concedan las leyes, reglamentos y otras disposiciones de observancia general, así como los acuerdos del propio Ayuntamiento.
 
 ###### Artículo 42.
 
@@ -1268,6 +1270,18 @@ V.- Coadyuvar con las dependencias competentes en las acciones y programas de se
 VI.- Tramitar ante los Jueces competentes, las órdenes de protección de carácter urgente y temporal, que se requieran para la salvaguarda de los derechos de las personas receptoras de la violencia familiar.
 
 Además de lo señalado por la presente Ley, los Sistemas Municipales para el desarrollo integral de la familia, deberán observar en lo conducente, lo dispuesto por la Ley para prevenir, atender, sancionar y (sic) la violencia familiar en el Estado de Morelos.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2012)</small>
+
+###### Artículo 73 Ter.
+
+Los Sistemas Municipales para el Desarrollo Integral de la Familia llevarán en conjunto con los responsables municipales en materia educativa y los Ayudantes municipales, las siguientes acciones:
+
+I.- Elaborará una base de datos confiable al inicio de cada ciclo escolar en todos los centros de población del municipio a que se refiere el artículo 13 de esta Ley; tanto rurales como urbanas, a efecto de estar en posibilidades de localizar y cuantificar a las niñas y los niños menores de quince años que no estén cursando la educación básica.
+
+Una vez obtenida dicha base de datos los Ayuntamientos en conjunto con la autoridad educativa estatal, buscarán los mecanismos y acciones, que permitan a esas niñas y niños acceder sin demora a la educación básica.
+
+II.- Implementarán en conjunto con los registros civiles municipales, acciones y programas para registrar a aquellas niñas y niños que por falta de acta de nacimiento no han podido ingresar a la escuela.
 
 ### CAPÍTULO X. DEL CRONISTA MUNICIPAL
 
@@ -1727,6 +1741,8 @@ Para el caso de los ayudantes municipales, la partida a que se refiere el párra
 
 ### CAPÍTULO IX. DE LA ELECCIÓN Y DESIGNACIÓN DE LAS AUTORIDADES AUXILIARES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 102.
 
 Son atribuciones de las autoridades auxiliares municipales:
@@ -1747,7 +1763,13 @@ VII. Auxiliar a las autoridades federales, estatales y municipales en el desempe
 
 VIII. Reportar a los cuerpos de seguridad pública, Ministerio Público o Jueces Cívicos de las conductas que requieran su intervención; y
 
-IX. Todas aquellas que esta Ley, los bandos, reglamentos y el propio Ayuntamiento determinen.
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2012)</small>
+
+IX. Informar al Ayuntamiento, los casos de niñas y niños que no se encuentren estudiando el nivel de educación básica de entre los habitantes de su comunidad.
+
+> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2012)</small>
+
+X. Todas aquellas que esta Ley, los bandos, reglamentos y el propio Ayuntamiento determinen.
 
 ###### Artículo 103.
 
@@ -1757,7 +1779,7 @@ Las autoridades auxiliares podrán asesorarse en las dependencias y entidades co
 
 ###### Artículo 104.
 
-Los ayudantes municipales durarán en su cargo el mismo período que los Ayuntamientos, a partir del día 1 de febrero del año siguiente a la elección ordinaria del Ayuntamiento.
+Los ayudantes municipales durarán en su cargo el mismo período que los Ayuntamientos, a partir del día uno de abril del año siguiente a la elección ordinaria del Ayuntamiento.
 
 Los ayudantes municipales serán electos por votación popular directa, conforme al principio de mayoría relativa. En las comunidades indígenas de cada uno de los municipios que conforman al Estado, se procurará proteger y promover los usos, costumbres y formas específicas de organización social.
 
@@ -1773,7 +1795,9 @@ Las elecciones de los ayudantes municipales se sujetarán a las siguientes regla
 
 I. Solamente podrán participar en el proceso de elección los vecinos del Municipio cuyo domicilio pertenezca a la demarcación de la elección y que se encuentren inscritos en la lista nominal del Municipio;
 
-II. La elección se llevará a cabo dentro de la primera quincena del mes de Enero del año siguiente al de los comicios para elegir al Ayuntamiento;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2012)</small>
+
+II. La elección se llevará a cabo dentro de la segunda quincena del mes de marzo del año siguiente al de los comicios para elegir el Ayuntamiento;
 
 III. El Ayuntamiento emitirá una convocatoria con quince días de anticipación al día de la elección, en la que se establecerá:
 
@@ -1785,7 +1809,9 @@ c) Los términos y requisitos para el registro de candidatos, y,
 
 d) Las demás disposiciones y previsiones que sean necesarias.
 
-IV. La preparación, desarrollo y vigilancia del proceso electoral estará a cargo de una Junta Electoral Municipal permanente, integrada por el Presidente Municipal en funciones, quien la presidirá; un representante del Instituto Estatal Electoral del Estado, quien hará las funciones de Secretario y un representante designado por el Regidor o Regidores de la primera minoría;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE AGOSTO DE 2012)</small>
+
+IV. La preparación, desarrollo y vigilancia del proceso electoral estará a cargo de una Junta Electoral Municipal permanente, integrada por el Presidente Municipal en funciones, quien la presidirá; un representante del Instituto Estatal Electoral del Estado, quien hará las funciones de Secretario y un Regidor representante de la primera minoría;
 
 Los asuntos serán resueltos por mayoría de votos; en caso de empate, el Presidente tendrá voto de calidad; la Junta sesionará por citación del Presidente y podrán concurrir a las sesiones con voz pero sin voto, los candidatos registrados o un representante de éstos;
 
@@ -1845,7 +1871,7 @@ VII. Promover la participación y colaboración de los habitantes y vecinos en t
 
 VIII. Colaborar en el mejoramiento y supervisión de los servicios públicos municipales;
 
-IX. Establecer y desarrollar un programa permanente y periódico de información, tanto hacia el Ayuntamiento como hacia la comunidad, sobre el avance e impacto de programas, y la participación del consejo; y
+IX. Establecer y desarrollar un programa permanente y periódico de información, tanto hacia el Ayuntamiento como hacia la comunidad, sobre el avance de impacto e programas, y la participación del consejo; y
 
 X. Las demás que señalen los Reglamentos.
 
@@ -2013,11 +2039,9 @@ Las adquisiciones y arrendamientos de todo tipo de bienes, prestación de servic
 
 Cuando las licitaciones a que se hace referencia en el artículo anterior no sean idóneas para asegurar dichas condiciones, de conformidad con las Leyes aplicables, se seguirán los procedimientos que aseguren para el Municipio las mejores condiciones en cuanto a economía, eficiencia, imparcialidad y honradez.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2012)</small>
 
-> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2012)</small>
-
-Con el propósito de preservar las fuentes de empleo, el Ayuntamiento deberá disponer, de seis a un diez por ciento como máximo, del total del presupuesto anual destinado a las adquisiciones o prestaciones de servicios, contratando para ello a micro o pequeños empresarios de la misma localidad municipal. Los recursos en ningún caso podrán involucrar aportaciones o subsidios de origen federal o estatal.
+Con el propósito de preservar las fuentes deempleo, el Ayuntamiento podrá disponer, de se s aun diez por ciento como máximo, del total delpresupuesto anual destinado a las adquisiciones oprestaciones de servicios, contratando para ello amicro o pequeños empresarios de la misma Iocalidadmunicipal. Los recursos en ningún caso podráninvolucrar aportaciones o subsidios de origen federal oestatal. (sic)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2910,6 +2934,40 @@ Este decreto entrará en vigor el 01 de enero del 2013
 ###### ARTÍCULO SEGUNDO.
 
 Aprobado que sea el presente dictamen en términos del Artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos, remítase al Poder Ejecutivo para su promulgación y publicación en el Periódico Oficial "Tierra y Libertad", Órgano de Difusión del Gobierno del Estado de Morelos.
+
+P.O. 15 DE AGOSTO DE 2012.
+
+DECRETO No. 1986, POR EL QUE SE REFORMA EL NUMERAL 33 DEL ARTÍCULO 5 Y LA FRACCIÓN VI DEL ARTÍCULO 18 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS.
+
+PRIMERO.- Aprobado que sea el presente remítase a los Municipios del Estado para los efectos del Constituyente Permanente.
+
+SEGUNDO.- Una vez aprobado remítase al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos a que se refiere el artículo 44 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+TERCERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+P.O. 15 DE AGOSTO DE 2012.
+
+DECRETO No. 1988, POR EL QUE SE REFORMA LA FRACCIÓN LIII, DEL ARTÍCULO 38, SE REFORMA LA FRACCIÓN XX Y SE ADICIONA UNA FRACCIÓN XXI RECORRIENDO LAS DEMÁS FRACCIONES DE MANERA ASCENDENTE AL ARTÍCULO 41, SE ADICIONA EL ARTÍCULO 73 TER, SE REFORMA LA FRACCIÓN IX Y LA ACTUAL SE RECORRE PARA SER LA FRACCIÓN X DEL ARTÍCULO 102 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS.
+
+PRIMERO.- Aprobado que sea el presente decreto, túrnese al Poder Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 15 DE AGOSTO DE 2012.
+
+DECRETO No. 2060, POR EL QUE SE REFORMAN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 21; EL PRIMER PÁRRAFO DEL ARTÍCULO 104; LA FRACCIÓN II DEL ARTÍCULO 106.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Los y las Ayudantes Municipales que a la entrada en vigor de este Decreto estén ejerciendo el cargo, durarán por ésta única vez en el mismo, hasta el 31 de marzo del año 2013 en que concluye su mandato.
+
+P.O. 15 DE AGOSTO DE 2012.
+
+DECRETO No. 2151, POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 121 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO.
+
+PRIMERO.- El presente decreto entrará en vigor el 01 de enero del 2013.
+
+SEGUNDO.- Remítase al Poder Ejecutivo para su promulgación y publicación en el Periódico Oficial "Tierra y Libertad", Órgano de Difusión del Gobierno del Estado de Morelos.
 
 ###### ARTÍCULO CUARTO.
 
