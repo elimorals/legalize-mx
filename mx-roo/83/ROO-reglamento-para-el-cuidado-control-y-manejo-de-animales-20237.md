@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-para-el-cuidado-control-y-manejo-de-animales-20237"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-03-15"
-last_updated: "2001-03-15"
+last_updated: "2012-08-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20237&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 REGLAMENTO PARA EL CUIDADO, CONTROL Y MANEJO DE ANIMALES DOMÉSTICOS DEL MUNICIPIO SOLIDARIDAD, QUINTANA ROO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE PROTECCIÓN Y BIENESTAR ANIMAL DEL MUNICIPIO DE SOLIDARIDAD, ESTADO DE QUINTANA ROO, PUBLICADO EN EL P.O. DE 15 DE AGOSTO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el jueves 15 de marzo de 2001.
 
@@ -246,3 +248,15 @@ PRIMERO.- El presente reglamento iniciará su vigencia al día siguiente de su p
 SEGUNDO.- Se abrogan y quedan sin efectos todas las disposiciones que se opongan al presente ordenamiento, subsistiendo las que lo complementen.
 
 Así lo mandan, dictan y firman los Ciudadanos Miembros del Honorable Ayuntamiento de Solidaridad, Cúmplase.-
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE AGOSTO DE 2012.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+SEGUNDO.- El Ayuntamiento de Solidaridad, en un plazo de 60 días naturales deberá crear el Consejo Ciudadano Municipal para la Atención y Bienestar Animal en el Municipio de Solidaridad, establecido en este Reglamento.
+
+TERCERO.- El presente Reglamento abroga en todas y cada una de sus partes el Reglamento para el Cuidado, Control y Manejo de Animales Domésticos del Municipio Solidaridad, Quintana Roo.
+
+CUARTO.- Se abrogan y quedan sin efectos todas las disposiciones que se opongan al presente ordenamiento, subsistiendo las que lo complementen.
