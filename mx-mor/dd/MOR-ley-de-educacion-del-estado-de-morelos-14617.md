@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-educacion-del-estado-de-morelos-14617"
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-26"
-last_updated: "2012-05-02"
+last_updated: "2012-08-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el día 26 de agosto de 1996.
 
@@ -51,7 +51,7 @@ Que tal situación ha provocado y continuará provocando hasta en tanto no se co
 
 4.- Que como es de suponer una Ley de Educación como la presente acorde con la normatividad federal, la participación social y ciudadana, así como por las nuevas expectativas educativas, exigió la participación de todos los sectores institucionales y particulares que tienen un interés especial en el desarrollo educativo del Estado, por lo que en nuestra Entidad se efectuaron diversos foros de consulta, discusión y análisis sobre el servicio educativo y sus repercusiones sociales.
 
-En este proceso de consulta coordinado de manera conjunta por los representantes de las tres fracciones parlamentarias que integran esta Soberanía, por la Secretaría de Bienestar Social, la Sección XIX del Sindicato Nacional de Trabajadores de la Educación, y en cuya organización, desarrollo, compilación, análisis e interpretación de resultados participaron de manera muy activa y asumieron responsabilidades directas los representantes de diversas instituciones, dependencias, asociaciones y organismos públicos y privados, entre los cuales, y solo enunciativamente, es justo destacar a los siguientes: Universidad Autónoma del Estado de Morelos, Consejo Coordinador Empresarial del Estado de Morelos, Unión Estatal de Padres de Familia, Casa Ciudadana, Asociación Estatal de Padres de Familia, representación en Morelos del Consejo Nacional de Ciencia y Tecnología, Federación de Escuelas Particulares y Representación de la Secretaría de Educación Pública en el Estado de Morelos.
+En este proceso de consulta coordinado de manera conjunta por los representantes de las tres fracciones parlamentarias que integran esta Soberanía, por la Secretaría de Bienestar Social, la Sección XIX del Sindicato Nacional de Trabajadores de la Educación, y en cuya organización, desarrollo, compilación, análisis e interpretación de resultados participaron de manera muy activa y asumieron responsabilidades directas los representantes de diversas instituciones, dependencias, asociaciones y organismos públicos y privados, entre los cuales, y solo enunciativamente, es justo destacar a los siguientes: Universidad Autónoma del Estado de Morelos, Consejo Coordinador Empresarial del Estado de Morelos, Unión Estatal de Padres de Familia, Casa Ciudadana, Asociación Estatal de Padres de Familia, Representación en Morelos del Consejo Nacional de Ciencia y Tecnología, Federación de Escuelas Particulares y Representación de la Secretaría de Educación Pública en el Estado de Morelos.
 
 5.- Que al interior del Congreso del Estado se efectuó un profundo análisis y una exhaustiva revisión al valioso material recopilado durante esa consulta y a las propuestas individuales de los Diputados que participaron en cada una de las reuniones que se efectuaron por las Comisiones de Trabajo, en donde con verdadera disposición al diálogo y tolerancia por parte de los representantes de las tres fracciones parlamentarias de este Congreso, se pudo elaborar el presente documento en forma por demás consensada, que recoge y expresa real y efectivamente las exigencias y expectativas de la sociedad; precisa las atribuciones de cada nivel educativo, define los altos fines de la educación, preservando las características sustantivas del Artículo 3° Constitucional de garantizar una educación nacionalista, popular y progresista; consolida la formación del educando dentro de un esquema integral de valores; concibe el proyecto educativo inserto en un contexto social, nacional, en donde se destaca la soberanía, la prevalencia y superación de la escuela pública, el respeto irrestricto a los símbolos patrios y la preservación de la identidad nacional; una educación más comprometida de solidaridad con los más necesitados, que esté vinculada estrechamente con el desarrollo productivo de la Entidad y participe en la resolución de su problemática social; establece las bases para abrir espacios para la investigación educativa y la capacitación, formación y superación del magisterio, para hacer del maestro un verdadero profesional de la enseñanza; asegura la aplicación de recursos suficientes para el sostenimiento del servicio público educativo; reconoce los derechos de los particulares a impartir educación y; garantiza el pleno derecho de los padres de familia para intervenir en el proceso de formación de sus hijos y en el mejoramiento de las condiciones en que tal proceso se desarrolla, mediante el ejercicio de todas aquellas acciones y aportaciones que no implican intervención en los ámbitos pedagógico y laboral.
 
@@ -263,9 +263,11 @@ XXVIII.- Expedir los Reglamentos de la presente Ley y las disposiciones que de l
 
 XXIX.- Las que ésta u otra Ley le señalen.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 15.
 
-En materia de educación pública, el Ejecutivo del Estado podrá celebrar convenios de colaboración con los Municipios, cuyos Ayuntamientos tendrán para el efecto las siguientes atribuciones:
+En materia de educación pública, el Ejecutivo del Estado podrá celebrar convenios de colaboración con los Municipios, cuyos Ayuntamientos tendrán para tal efecto las siguientes atribuciones:
 
 I.- Podrán establecer planteles educativos de acuerdo con los tipos, lineamientos y modalidades establecidos en esta Ley, y sostenerlos económicamente, considerando que dichos planteles funcionarán bajo el control técnico y administrativo de la autoridad educativa correspondiente;
 
@@ -273,7 +275,11 @@ II.- Cuidar que no se establezcan o funcionen en su jurisdicción escuelas que n
 
 III.- Promover permanentemente la investigación que sirva como base de la innovación educativa, así como impulsar el desarrollo de la enseñanza tecnológica y de la investigación científica;
 
-IV.- Coadyuvar en la vigilancia de la asistencia de los educandos en edad escolar a las instituciones educativas;
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2012)</small>
+
+IV.- Coadyuvar en la vigilancia de la asistencia de los educandos en edad escolar a las instituciones educativas.
+
+Para tal efecto las autoridades educativas correspondientes deberán entregar a los Ayuntamientos, al inicio de cada ciclo escolar un informe del total de alumnos inscritos en el nivel de educación básica en cada municipio, y bimestralmente de los casos de deserción escolar o ausencia por un periodo mayor a 15 días.
 
 V.- Otorgar becas a los alumnos de escasos recursos que destaquen académicamente;
 
@@ -1256,3 +1262,9 @@ Primero.- Aprobado que sea el presente decreto túrnese al Titular del Poder Eje
 Segundo.- El Poder Ejecutivo, deberá establecer conforme a los mecanismos correspondientes la ampliación presupuestal procedente a fin de que al inicio del ciclo escolar 2012 - 2013, se asigne a los profesionales en el área de educación física a los centros de atención a personas con discapacidades en la educación especial.
 
 Tercero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
+
+P.O. 15 DE AGOSTO DE 2012.
+
+PRIMERO.- Aprobado que sea el presente decreto, túrnese al Poder Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
