@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-la-ley-de-vivienda-del-estado-libre-y-88916"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-08-08"
-last_updated: "2012-08-08"
+last_updated: "2012-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88916&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO DE LA LEY DE VIVIENDA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 15 DE AGOSTO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO DE LA LEY DE VIVIENDA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 15 DE AGOSTO DE 2011.</small>
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 8 de agosto de 2012.
 
@@ -245,8 +245,6 @@ VI. Promover la realización de convenios con Ayuntamientos, instituciones credi
 
 VII. Promover y diseñar nuevos esquemas que fomenten y alienten el ahorro entre los trabajadores con el propósito de adquirir o mejorar su vivienda.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE AGOSTO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 24.
 
 Las acciones que se deriven del Programase (sic) financiarán de acuerdo a las siguientes modalidades:
@@ -255,9 +253,13 @@ I. Inversión directa del Gobierno del Estado, cuya aplicación se hará a trav�
 
 II. Ahorro de los beneficiarios;
 
-V (sic). Subsidio estatal cuando lo hubiere; y
+> <small>(F. DE E., P.O. 15 DE AGOSTO DE 2012)</small>
 
-VI. Cualquier otro fondo destinado a la consecución del objeto de la Ley.
+III. Subsidio estatal cuando lo hubiere; y
+
+> <small>(F. DE E., P.O. 15 DE AGOSTO DE 2012)</small>
+
+IV. Cualquier otro fondo destinado a la consecución del objeto de la Ley.
 
 ###### Artículo 25.
 
@@ -393,9 +395,11 @@ DE LA PRODUCCIÓN SOCIAL DE VIVIENDA
 
 La producción social de vivienda se orientará prioritariamente a atender las necesidades habitacionales de la población de bajos ingresos e incluirá aquella que se realiza por procedimientos autogestivos y solidarios que dan prioridad al valor de uso de la vivienda por sobre la definición mercantil, mezclando recursos, procedimientos constructivos y tecnologías con base en sus propias necesidades y su capacidad de gestión y toma de decisiones.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATA PUBLICADA EL 15 DE AGOSTO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 15 DE AGOSTO DE 2012)</small>
 
-Artículo 41 (SIC).- El Gobierno del Estado apoyará y fortalecerá la producción social de vivienda desarrollando instrumentos jurídicos, administrativos, financieros, programáticos y de fomento que permitan:
+###### Artículo 40.
+
+El Gobierno del Estado apoyará y fortalecerá la producción social de vivienda desarrollando instrumentos jurídicos, administrativos, financieros, programáticos y de fomento que permitan:
 
 I. Ampliar la cobertura para atender la demanda de vivienda de la población, particularmente la de menores recursos y que no tiene acceso al financiamiento;
 
