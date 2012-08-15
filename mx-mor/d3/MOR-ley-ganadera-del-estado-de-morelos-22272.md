@@ -4,7 +4,7 @@ identifier: "MOR-ley-ganadera-del-estado-de-morelos-22272"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-10"
-last_updated: "1997-09-10"
+last_updated: "2012-08-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22272&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "MOR"
 
 LEY GANADERA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE FOMENTO Y PROTECCIÓN PECUARIA DEL ESTADO DE MORELOS, PUBLICADA EN EL P.O. 15 DE AGOSTO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-Ley publicada en el Periódico Oficial, el día 10 de septiembre de 1997.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
+
+Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 10 de septiembre de 1997.
 
 Al margen izquierdo un Escudo Nacional que dice: Estados Unidos Mexicanos.- Gobierno del Estado Libre y Soberano de Morelos.- Poder Ejecutivo.
 
@@ -1634,3 +1636,19 @@ SECRETARIO DE DESARROLLO AGROPECUARIO
 ING. LUIS ENRIQUE ALVAREZ GARCIA
 
 RUBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE AGOSTO DE 2012.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El Ejecutivo Estatal emitirá el Reglamento de la presente Ley, dentro de los noventa días siguientes a su entrada en vigor. Los Ayuntamientos efectuarán la homologación de sus políticas públicas y ajustes programáticos a que haya lugar.
+
+TERCERO.- Se abroga la Ley Ganadera del Estado de Morelos, publicada el 10 de septiembre de 1997 en el Periódico Oficial "Tierra y Libertad" número 3877.
+
+CUARTO.- Se derogan todas las disposiciones que resulten contrarias a lo dispuesto por la presente Ley.
+
+QUINTO.- Los recursos administrativos que se hubieren iniciado bajo la vigencia de la Ley abrogada, se seguirán substanciado por las disposiciones de la misma hasta su total conclusión.
+
+SEXTO.- Para el debido cumplimiento de lo dispuesto en el artículo 30 de este ordenamiento, los productores pecuarios dispondrán de once meses contados a partir del inicio de la vigencia de este Ley, para realizar los trámites correspondientes.
