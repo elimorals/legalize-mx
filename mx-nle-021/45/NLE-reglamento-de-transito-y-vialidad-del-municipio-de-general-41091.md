@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-del-municipio-de-general-4109
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-09-08"
-last_updated: "2011-07-04"
+last_updated: "2012-08-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41091&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE GENERAL ESCOBEDO, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 8 de septiembre de 2004.
 
@@ -2264,3 +2264,7 @@ Las presentes reformas al Reglamento de Tránsito y Vialidad del Municipio de Ge
 ###### ARTÍCULO SEGUNDO.
 
 Publíquese el presente acuerdo en el Periódico Oficial del Estado, hágase posteriormente su publicación a través de la gaceta municipal.
+
+P.O. 15 DE AGOSTO DE 2012.
+
+ÚNICO.- La presente reforma por adición, entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
