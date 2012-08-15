@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-fiscalizacion-superior-del-estado-de-morelos-63566"
 country: "mx"
 rank: "ley"
 publication_date: "2008-10-01"
-last_updated: "2008-12-17"
+last_updated: "2012-08-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63566&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE MORELOS
 
-LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE MORELOS
+LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE AGOSTO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 1 de octubre de 2008.
 
@@ -75,45 +75,49 @@ VI. Comité de Solventación: El Órgano colegiado y auxiliar de la Auditoría S
 
 VII. Congreso.- El Congreso del Estado de Morelos;
 
-VIII. Constitución del Estado.- A la Constitución Política del Estado Libre y Soberano de Morelos.
+> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2012)</small>
 
-IX. Entidades fiscalizadas.- Los órganos estatales, municipales, autónomos, y las personas físicas o morales del sector público o privado, así como los servidores públicos que por cualquier naturaleza o concepto reciban, administren y/o ejerzan recursos públicos;
+VIII. Consejo Ciudadano Consultivo: Órgano de consulta y vigilancia de las funciones a cargo de los servidores públicos de la Auditoría Superior.
 
-X. Evaluación.- Los actos realizados por la Auditoría Superior, relativos a las actividades de fiscalización en proceso sobre la cuenta pública por períodos trimestrales del ejercicio fiscal de que se trate;
+IX. Constitución del Estado.- A la Constitución Política del Estado Libre y Soberano de Morelos.
 
-XI. Fiscalización.- Proceso de control, evaluación, revisión y auditoría de la gestión financiera de las entidades fiscalizadas desde su inicio hasta su conclusión;
+X. Entidades fiscalizadas.- Los órganos estatales, municipales, autónomos, y las personas físicas o morales del sector público o privado, así como los servidores públicos que por cualquier naturaleza o concepto reciban, administren y/o ejerzan recursos públicos;
 
-XII. Gestión financiera.- La actividad de las entidades fiscalizadas respecto de la recepción, administración, custodia, manejo y aplicación de los ingresos, egresos, fondos y en general, de los recursos públicos que éstos utilicen;
+XI. Evaluación.- Los actos realizados por la Auditoría Superior, relativos a las actividades de fiscalización en proceso sobre la cuenta pública por períodos trimestrales del ejercicio fiscal de que se trate;
 
-XIII. Informe de resultados.- Documento que presenta el Auditor Superior a la Mesa Directiva del Congreso y que contiene los resultados de fiscalización;
+XII. Fiscalización.- Proceso de control, evaluación, revisión y auditoría de la gestión financiera de las entidades fiscalizadas desde su inicio hasta su conclusión;
 
-XIV. Informes especiales.- Aquellos que en cualquier momento solicite el Congreso, a través de la Comisión a la Auditoría Superior;
+XIII. Gestión financiera.- La actividad de las entidades fiscalizadas respecto de la recepción, administración, custodia, manejo y aplicación de los ingresos, egresos, fondos y en general, de los recursos públicos que éstos utilicen;
 
-XV. Ley.- Ley de Fiscalización Superior del Estado de Morelos;
+XIV. Informe de resultados.- Documento que presenta el Auditor Superior a la Mesa Directiva del Congreso y que contiene los resultados de fiscalización;
 
-XVI. Municipios.- Los municipios que integran el Estado de Morelos, cuyo gobierno es a cargo de sus respectivos ayuntamientos;
+XV. Informes especiales.- Aquellos que en cualquier momento solicite el Congreso, a través de la Comisión a la Auditoría Superior;
 
-XVII. Órganos estatales.- Las dependencias y entidades de los poderes del estado que integran la administración pública estatal;
+XVI. Ley.- Ley de Fiscalización Superior del Estado de Morelos;
 
-XVIII. Órganos municipales.- Las dependencias y entidades que integran la administración pública municipal;
+XVII. Municipios.- Los municipios que integran el Estado de Morelos, cuyo gobierno es a cargo de sus respectivos ayuntamientos;
 
-XIX. Órganos autónomos.- Todos aquellos que la Constitución del Estado reconoce como tales;
+XVIII. Órganos estatales.- Las dependencias y entidades de los poderes del estado que integran la administración pública estatal;
 
-XX. Poderes del estado.- Los Poderes Legislativo, Ejecutivo y Judicial;
+XIX. Órganos municipales.- Las dependencias y entidades que integran la administración pública municipal;
 
-XXI. Proceso concluido.- Aquel que las entidades fiscalizadas reportan como tal en el informe de avance de gestión financiera;
+XX. Órganos autónomos.- Todos aquellos que la Constitución del Estado reconoce como tales;
 
-XXII. Programas.- Los contenidos en los programas operativos anuales y que incluyen los presupuestos aprobados a los que se sujeta la gestión o actividad de las entidades fiscalizadas;
+XXI. Poderes del estado.- Los Poderes Legislativo, Ejecutivo y Judicial;
 
-XXIII. Reglamento Interior.- El Reglamento Interior de la Auditoría Superior de Fiscalización;
+XXII. Proceso concluido.- Aquel que las entidades fiscalizadas reportan como tal en el informe de avance de gestión financiera;
 
-XXIV. Resultado final: Resolución que pone fin al proceso de fiscalización de la cuenta pública, tanto para el Congreso, la Auditoría Superior y la entidad fiscalizada;
+XXIII. Programas.- Los contenidos en los programas operativos anuales y que incluyen los presupuestos aprobados a los que se sujeta la gestión o actividad de las entidades fiscalizadas;
 
-XXV. Sector privado.- Todas las personas físicas o morales de derecho privado;
+XXIV. Reglamento Interior.- El Reglamento Interior de la Auditoría Superior de Fiscalización;
 
-XXVI. Servidores públicos.- Los que se consideran como tales en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Morelos; la legislación laboral estatal y la Ley Estatal de Responsabilidades de los Servidores Públicos;
+XXV. Resultado final: Resolución que pone fin al proceso de fiscalización de la cuenta pública, tanto para el Congreso, la Auditoría Superior y la entidad fiscalizada;
 
-XXVII. Unidad de Evaluación y Control.- Órgano dependiente del Congreso del Estado, responsable de la vigilancia y control de la Auditoria Superior.
+XXVI. Sector privado.- Todas las personas físicas o morales de derecho privado;
+
+XXVII. Servidores públicos.- Los que se consideran como tales en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Morelos; la legislación laboral estatal y la Ley Estatal de Responsabilidades de los Servidores Públicos;
+
+XXVIII. Unidad de Evaluación y Control.- Órgano dependiente del Congreso del Estado, responsable de la vigilancia y control de la Auditoria Superior.
 
 ###### Artículo 3.
 
@@ -259,7 +263,7 @@ V. No ser ministro de culto religioso.
 
 El Auditor Superior será suplido en sus ausencias temporales conforme a lo dispuesto en el Reglamento Interior. En caso de falta definitiva la Junta Política y de Gobierno dará cuenta al Congreso para que designe, en términos de este capítulo, al Auditor Superior que concluirá el encargo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 16.
 
@@ -443,7 +447,7 @@ A solicitud de la Auditoría Superior, las entidades fiscalizadas le informarán
 
 La falta de cumplimiento en la exhibición de la información requerida sin que exista una justificación, dará lugar a las sanciones que establece la Ley Estatal de Responsabilidades de los Servidores Públicos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 32.
 
@@ -871,6 +875,82 @@ Cualquier gestión de cobro que haga la autoridad competente al responsable, o t
 
 Las responsabilidades de carácter civil y penal que resulten por actos u omisiones, prescribirán en la forma y tiempo que fijen las leyes aplicables.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE AGOSTO DE 2012)</small>
+
+## TÍTULO DÉCIMO PRIMERO. DEL CONSEJO CIUDADANO CONSULTIVO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE AGOSTO DE 2012)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2012)</small>
+
+###### Artículo 70.
+
+Se crea el Consejo Ciudadano Consultivo como órgano de consulta de la Auditoría Superior de Fiscalización del Congreso del Estado de Morelos, el cual estará formado por 8 miembros, los cuales tendrán el carácter de honorífico.
+
+a).- Un representante de las Organizaciones No Gubernamentales en Morelos;
+
+b).- Un representante de la Federación de Colegios y Asociaciones de Profesionales del Estado de Morelos;
+
+c).- Un representante de las Cámaras Empresariales del Estado de Morelos;
+
+d).- Un representante de los colegios o agrupaciones de Contadores Públicos;
+
+e).- Un representante de los colegios o agrupaciones de Licenciados en Derecho;
+
+f).- Un representante de los colegios o agrupaciones de Licenciados en Administración Pública;
+
+g).- Un representante de los colegios o agrupaciones de Licenciados en Economía; y
+
+h).- Un representante de los colegios o agrupaciones de Ingenieros Civiles.
+
+Cada uno de ellos tendrá un suplente que asistirá en su lugar cuando sea necesario.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2012)</small>
+
+###### Artículo 71.
+
+Para nombrar a los integrantes del Consejo Ciudadano Consultivo, los colegios o agrupaciones citadas en el artículo anterior, elegirán a un representante en los términos de la convocatoria emitida por la Comisión de Hacienda, Presupuesto y Cuenta Pública del Congreso del Estado y lo comunicarán por escrito a dicha Comisión, una vez que se hubiesen elegido.
+
+Los integrantes de Consejo durarán en su encargo tres años; al término de los cuáles las instituciones de referencia, elegirán un nuevo representante y lo comunicarán al Congreso del Estado conforme lo marca el párrafo anterior.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2012)</small>
+
+###### Artículo 72.
+
+La Comisión de Hacienda, Presupuesto y Cuenta Pública establecerá la fecha en la que el Pleno les tomará la protesta de ley a los integrantes del Consejo Ciudadano y a sus suplentes.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2012)</small>
+
+Artículo.73.- El Consejo Ciudadano Consultivo de Fiscalización, tendrá las siguientes atribuciones:
+
+I. Designar a su Presidente de manera anual;
+
+II. Conocer, opinar y aprobar el programa operativo anual de actividades, que presenta el Auditor Superior;
+
+III. Opinar ante la Junta Política y de Gobierno sobre la terna para designar al titular de la Unidad de Evaluación y Control de la Auditoria Superior;
+
+IV. Turnar a la Unidad de Evaluación y Control, para su atención, las quejas y denuncias que recibiera en contra del personal o del titular de la Auditoria Superior.
+
+V. Opinar ante la Comisión de Hacienda, Presupuesto y Cuenta Pública, respecto del desempeño del Auditor Superior de Fiscalización y el Titular de la Unidad de Evaluación y Control.
+
+VI. Vigilar el cumplimiento de las atribuciones de la Auditoría Superior.
+
+VII. Elaborar su reglamento interior.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2012)</small>
+
+###### Artículo 74.
+
+El Consejo Ciudadano Consultivo de Fiscalización, se reunirá por lo menos una vez cada dos meses y a sus reuniones deberá asistir el Auditor Superior, así como el titular de la Unidad de Evaluación cuando sea invitado por el Consejo Ciudadano Consultivo.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2012)</small>
+
+###### Artículo 75.
+
+Cualquier queja formulada ante el Consejo Ciudadano Consultivo sobre actos del personal de la Auditoría Superior de Fiscalización, incluyendo a su Titular, se turnará a la Unidad de Evaluación y Control para su atención en el ámbito de su competencia; y se deberá dar vista a la Comisión de Hacienda, Presupuesto y Cuenta Pública.
+
 ## TRANSITORIOS
 
 PRIMERO.- Se abroga la Ley de la Auditoría Superior Gubernamental del Estado de Morelos, publicada en el Periódico Oficial "Tierra y Libertad" número 4271, de fecha once de agosto del año dos mil tres y se derogan todas las disposiciones legales, reglamentarias o administrativas que se opongan a la presente Ley.
@@ -933,7 +1013,7 @@ LIC. SERGIO ALVAREZ MATA
 
 RÚBRICAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 17 DE DICIEMBRE DE 2008.
 
@@ -944,3 +1024,9 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Remítase a Ejecutivo del Estado para los efectos constitucionales correspondientes.
+
+P.O. 15 DE AGOSTO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDO.- La Comisión de Hacienda, Presupuesto y Cuenta Pública emitirá la convocatoria para elegir a los integrantes del Consejo Ciudadano Consultivo previsto en la presente ley.
