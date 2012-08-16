@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-de-la-procuraduria-general-de-justicia-del-8394"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-12-30"
-last_updated: "2012-08-02"
+last_updated: "2012-08-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 2 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE AGOSTO DE 2012.
 
 Ley publicada en la Sección Octava del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1991.
 
@@ -65,7 +65,7 @@ V.- Las demás que las leyes determinen.
 
 Las anteriores atribuciones serán ejercidas por el Procurador General de Justicia del Estado, por sí o por conducto de los Agentes del Ministerio Público que corresponda, según las prevenciones de esta Ley, de su Reglamento o de los acuerdos que en el ámbito de su competencia dicte el Procurador, y de otras disposiciones legales aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, B.O. 16 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 3o.
 
@@ -73,49 +73,59 @@ En la investigación y persecución de los delitos del orden común, al Minister
 
 I.- En la averiguación previa:
 
-a) Recibir denuncias, acusaciones o querellas sobre actos u omisiones que puedan constituir delito;
+a) Recibir denuncias o querellas sobre actos u omisiones que la ley señale como delito;
 
-> <small>(REFORMADO, B.O. 10 DE MAYO DE 2007)</small>
+b) Investigar los delitos del orden común, teniendo bajo su mando y conducción a la Policía Estatal Investigadora y los Servicios Periciales;
 
-b) Investigar los delitos del orden común, con el auxilio de la Policía Estatal Investigadora y de los Servicios Periciales;
+c) Practicar las diligencias necesarias y recabar todos los datos que establezcan que se ha cometido un hecho que la ley señale como delito y que existe la probabilidad de que el imputado lo cometió o participó en su comisión; para fundamentar, en su caso; el ejercicio de la acción penal;
 
-c) Practicar las diligencias necesarias y allegarse las pruebas que considere pertinentes, para comprobar el cuerpo del delito y hacer probable la responsabilidad de quienes en ellos hubieren intervenido, para fundamentar, en su caso, el ejercicio de la acción penal;
+d) Recabar los datos de prueba pertinentes respecto a los daños y perjuicios causados en la comisión del delito y a la fijación del monto de su reparación;
 
-d) Recabar las pruebas pertinentes respecto a los daños y perjuicios causados en la comisión del delito y a la fijación del monto de su reparación;
+e) Adoptar las providencias necesarias para: proporcionar seguridad y auxilio a las víctimas del delito; impedir que se pierdan, destruyan o alteren las huellas o vestigios del hecho que la ley señale como delito y los instrumentos o cosas objeto o efecto del mismo; saber qué personas fueron testigos del hecho; evitar que el delito se siga cometiendo y, en general, impedir que se dificulte la investigación, procediendo a la detención de las personas que se le impute el hecho que la ley señale como delito, en los casos de flagrante delito;
 
-e) Dictar las providencias necesarias para: proporcionar seguridad y auxilio a las víctimas del delito; impedir que se pierdan, destruyan o alteren las huellas o vestigios del hecho delictuoso y los instrumentos o cosas objeto o efecto del mismo; saber qué personas fueron testigos del hecho; evitar que el delito se siga cometiendo y, en general, impedir que se dificulte la averiguación, procediendo a la detención de los responsables, en los casos de flagrante delito;
+f) Instruir o asesorar, en su caso, a la policía, sobre la legalidad, pertinencia y suficiencia de los indicios recolectados o por recolectar, así como las demás actividades de investigación;
 
-f) Determinar el aseguramiento de los bienes que pudiesen ser instrumento, objeto o producto de los delitos, conforme legalmente corresponda;
+g) Requerir informes o documentación, a otras autoridades o a particulares, así como solicitar la práctica de peritajes y demás medios de investigación;
 
-g) Determinar el no ejercicio de la acción penal en los términos de las leyes relativas; y
+h) Vigilar y asegurar que durante todo el proceso se respeten los derechos humanos del imputado y de la víctima; así como, vigilar la correcta aplicación de la ley en todos los casos que conozca y, especialmente, en aquellos en que alguna de las partes sea miembro de una comunidad indígena;
 
-h) Las demás atribuciones que le señalen las leyes.
+i) Solicitar la intervención del órgano jurisdiccional, conforme a lo establecido en el Código de Procedimientos Penales para el Estado de Sonora;
+
+j) Procurar la solución del conflicto penal mediante los mecanismos alternativos de solución de controversias, asegurando la reparación del daño en los términos que la ley respectiva establece;
+
+k) Aplicar los criterios de oportunidad cuando resulten procedentes; y
+
+l) Las demás atribuciones que le señalen las leyes.
 
 II.- En el ejercicio de la acción penal y durante el proceso:
 
 a) Promover la incoación del procedimiento penal;
 
-b) Ejercitar la acción penal ante los tribunales competentes por los delitos del orden común, poniendo a su disposición los bienes asegurados y a las personas detenidas o, en su caso, solicitando las órdenes de aprehensión de las probables responsables, de reunirse los requisitos señalados en el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, o de comparecencia de ser procedente, y solicitar cuando así corresponda, el aseguramiento precautorio de bienes, para los efectos del pago de la reparación de daños y perjuicios;
+b) Ejercitar la acción penal ante los tribunales competentes por los delitos del orden común, poniendo a su disposición los bienes asegurados y a las personas detenidas o, en su caso, de reunirse los requisitos señalados en el Artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, solicitar las órdenes de aprehensión de los imputados o de comparecencia de ser procedente, y solicitar cuando así corresponda, el aseguramiento precautorio de bienes, para los efectos del pago de la reparación de daños y perjuicios;
 
-c) Solicitar, en los términos del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, las órdenes de cateo que sean necesarias;
+c) Solicitar, en los términos del Artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, las órdenes de cateo, medidas cautelares, providencias precautorias y técnicas de investigación que sean necesarias;
 
 d) Remitir al órgano jurisdiccional competente, a las personas detenidas en cumplimiento de órdenes de aprehensión dictadas por éste;
 
 e) Pedir el embargo precautorio de bienes, para los efectos de la reparación de los daños y perjuicios, salvo que éstos se garanticen satisfactoriamente;
 
-f) Aportar las pruebas pertinentes y promover en el proceso las diligencias conducentes al debido esclarecimiento de los hechos, a la comprobación del cuerpo del delito, de la responsabilidad de quienes hayan intervenido en éste, de la existencia de daños y perjuicios y a la fijación del monto de su reparación;
+f) Aportar las pruebas pertinentes y promover en el proceso las diligencias conducentes para el debido esclarecimiento de los hechos, que permitan establecer que se ha cometido el hecho que la ley señale como delito y que existe la probabilidad de que el imputado lo cometió o participó en su comisión, de la existencia de daños y perjuicios y a la fijación del monto de su reparación;
 
-g) Formular conclusiones en los términos señalados por la ley, solicitando la imposición de las penas y medidas de seguridad que correspondan y el pago de la reparación de daños y perjuicios o, en su caso, plantear las circunstancias excluyentes de responsabilidad o las causas que extinguen la acción penal;
+g) Formular en su caso, la acusación dentro del término legal, sometiendo a la autorización del Procurador la no acusación, para su confirmación, revocación o modificación, por ser contrarias a las constancias procesales;
 
-h) Interponer los recursos que la ley concede y expresar los agravios correspondientes; e
+h) Interponer los recursos que la Ley concede y expresar los agravios correspondientes;
 
-i) Las demás atribuciones que le señalen las leyes.
+i) Determinar el destino de los objetos, instrumentos o productos del delito puestos a su disposición;
 
-> <small>(ADICIONADO, B.O. 10 DE MAYO DE 2007)</small>
+j) Formular alegatos y conclusiones finales en los términos señalados por la Ley, solicitando la imposición de las penas y medidas de seguridad que correspondan y el pago de la reparación de daños y perjuicios o, en su caso, plantear las circunstancias excluyentes de responsabilidad o las causas que extinguen la acción penal;
 
-###### ARTICULO 3o.
+k) Intervenir en los procesos de ejecución de las penas vigilando que se respeten los derechos humanos de los sentenciados, las disposiciones de las sentencias y el cumplimiento del pago de la reparación del daño; y
 
-BIS.- Sin perjuicio de lo dispuesto en el artículo anterior, en lo que corresponda, en la investigación y persecución de las conductas tipificadas como delito atribuidas a los adolescentes, el Ministerio Público especializado ejercerá las atribuciones que le otorga la Ley que Establece el Sistema Integral de Justicia para Adolescentes.
+l) Las demás atribuciones que le señalen las leyes.
+
+> <small>(REFORMADO, B.O. 16 DE AGOSTO DE 2012)</small>
+
+ARTICULO 3o BIS.- Sin perjuicio de lo dispuesto en el artículo anterior, en lo que corresponda, en la investigación y persecución de hechos que la ley señale como delito atribuidos a los adolescentes, el Ministerio Público especializado ejercerá las atribuciones que le otorga la Ley que Establece el Sistema Integral de Justicia para Adolescentes.
 
 ###### ARTICULO 4o.
 
@@ -137,11 +147,11 @@ VI.- Poner en conocimiento de la autoridad a que corresponda resolver, las queja
 
 En la protección de los menores e incapaces, corresponde al Ministerio Público intervenir, conforme lo señalen las leyes, en los juicios civiles o familiares que se tramiten ante los tribunales respectivos, en los que aquéllos sean parte o de alguna manera puedan resultar afectados.
 
-> <small>(REFORMADO, B.O. 10 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, B.O. 16 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 6o.
 
-La intervención del Ministerio Público en la vigilancia de la correcta aplicación de las medidas de política criminal, incluye la práctica de visitas a los Centros de Prevención y Readaptación Social, cárceles municipales, centros de detención de las policías preventivas y reclusorios preventivos, para escuchar las quejas que reciban de los internos e iniciar las averiguaciones previas que correspondan, en caso de tratarse de alguna conducta o hecho posiblemente constitutivo de delito, sin perjuicio de hacer del conocimiento de las autoridades relativas los hechos de que se trate. Asimismo, incluye para los mismos fines visitas a los centros especializados para la atención, tratamiento y aplicación de medidas para adolescentes.
+La intervención del Ministerio Público en la vigilancia de la correcta aplicación de las medidas de política criminal, incluye la práctica de visitas a los Centros Reinserción (sic) Social, cárceles municipales, centros de detención de las policías preventivas y reclusorios preventivos, para escuchar las quejas que reciba de los internos e iniciar las investigaciones que correspondan, en caso de tratarse de algún hecho que la ley señale como delito, sin perjuicio de hacer del conocimiento de las autoridades relativas los hechos de que se trate. Asimismo, visitar los centros especializados para la atención, tratamiento y aplicación de medidas para adolescentes, para los mismos fines.
 
 ###### ARTICULO 7o.
 
@@ -167,23 +177,19 @@ La Procuraduría General de Justicia deberá contar con personal competente para
 
 Los subprocuradores auxiliarán al Procurador en el ejercicio de las funciones que esta ley le encomienda y, por delegación que éste les haga mediante acuerdo, que deberá publicarse en el Boletín Oficial del Gobierno del Estado, podrán resolver los asuntos que el Procurador determine.
 
+> <small>(REFORMADO, B.O. 16 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 10.
 
-Son auxiliares directos del Ministerio Público:
+El Ministerio Público tendrá bajo su mando y conducción a:
 
-> <small>(REFORMADA, B.O. 10 DE MAYO DE 2007)</small>
-
-I.- La Policía Estatal Investigadora; y
+l.- La Policía Estatal Investigadora; y
 
 II.- Los Servicios Periciales.
 
-> <small>(REFORMADO, B.O. 9 DE SEPTIEMBRE DE 2004)</small>
+Asimismo, la Policía Estatal de Segundad (sic) Pública y las policías preventivas de los Municipios del Estado, en su caso, deberán obedecer y ejecutar las órdenes que reciban del Ministerio Público, en el ejercicio de sus funciones.
 
-Asimismo, son auxiliares del Ministerio Público, la Policía Estatal de Seguridad Pública y las Policías Preventivas de los municipios del Estado, debiendo éstas obedecer y ejecutar las órdenes que reciban del Ministerio Público, en el ejercicio de sus funciones.
-
-> <small>(REFORMADO, B.O. 10 DE MAYO DE 2007)</small>
-
-Cuando la Policía Estatal de Seguridad Pública o las policías preventivas tengan conocimiento de que se ha cometido algún delito, o alguna conducta tipificada como delito atribuida a los adolescentes, deberán proceder inmediatamente a comunicarlo al Ministerio Público, para que los representantes de esta Institución tomen desde luego la intervención que les corresponda de acuerdo con sus facultades. Salvo la hipótesis de delito flagrante, en la que deberán proceder como lo prevengan las leyes, estas instituciones policiales se abstendrán de llevar a cabo acciones de investigación y persecución de los delitos, con excepción de aquellos casos en que reciban órdenes escritas expresas del Ministerio Público que invariablemente deberán limitarse a acciones específicas y períodos definidos para casos concretos.
+Cuando la Policía Estatal de Seguridad Pública o las policías preventivas tengan conocimiento de que se ha cometido algún hecho que la ley señale como delito, atribuida a los adolescentes, deberán proceder inmediatamente a comunicarlo al Ministerio Público, para que los representantes de esta Institución tomen desde luego la intervención que les corresponda de acuerdo con sus facultades. Salvo la hipótesis de delito flagrante, en la que deberán proceder como lo prevengan las leyes, estas instituciones policiales se abstendrán de llevar a cabo acciones de investigación y persecución de los delitos, con excepción de aquellos casos en que reciban órdenes escritas expresas del Ministerio Público que invariablemente deberán limitarse a acciones específicas y períodos definidos para casos concretos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE SEPTIEMBRE DE 2004)</small>
 
@@ -209,9 +215,13 @@ I.- Para ingresar al servicio:
 
 a).- Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 
-b).- Poseer por lo menos el grado académico de Licenciatura en Derecho y una antigüedad mínima de dos años en el ejercicio de dicha profesión, preferentemente en el ramo del Derecho Penal;
+> <small>(REFORMADO, B.O. 16 DE AGOSTO DE 2012)</small>
 
-c).- No hacer uso ilícito de estupefacientes o psicotrópicos, ni padecer algún grado de alcoholismo que pudiera entorpecer el desempeño de la función;
+b).- Poseer por lo menos el grado académico de licenciatura en derecho con la correspondiente cédula profesional y una antigüedad mínima de 2 años, en el ejercicio de dicha profesión, preferentemente en el derecho penal.
+
+> <small>(REFORMADO, B.O. 16 DE AGOSTO DE 2012)</small>
+
+c).- No hacer uso ilícito de estupefacientes o psicotrópicos ni padecer alcoholismo;
 
 d).- Gozar de buena salud y aprobar una evaluación que será practicada con base en exámenes clínicos, psicométricos, psicológicos y toxicológicos;
 
@@ -219,13 +229,21 @@ e).- Ser de reconocida buena conducta y no haber sido condenado por delito dolos
 
 f).- Tener por lo menos veinticinco años de edad el día de la solicitud;
 
-g).- Haber cumplido con el servicio militar nacional, en su caso;
+> <small>(REFORMADO, B.O. 16 DE AGOSTO DE 2012)</small>
+
+g).- Tener acreditado el servicio militar nacional, en su caso;
 
 h).- No estar suspendido ni haber sido destituido o inhabilitado por resolución firme como servidor público en los términos de la legislación relativa a las responsabilidades oficiales;
 
-i).- No haber sido removido de algún cargo público por uso indebido de estupefacientes o psicotrópicos o por ingestión inmoderada de bebidas alcohólicas; y
+i).- (DEROGADO, B.O. 16 DE AGOSTO DE 2012)
 
-j).- Cumplir los demás requisitos que señalen las leyes, reglamentos y otras disposiciones aplicables.
+> <small>(REFORMADO, B.O. 16 DE AGOSTO DE 2012)</small>
+
+j).- Presentar y aprobar las evaluaciones de Control y Confianza; y
+
+> <small>(ADICIONADO, B.O. 16 DE AGOSTO DE 2012)</small>
+
+k).- Cumplir los demás requisitos que señalen las leyes, reglamentos y otras disposiciones aplicables.
 
 Adicionalmente, para ingresar al servicio de la Procuraduría General de Justicia como agente del Ministerio Público, los interesados deberán presentar y aprobar los exámenes que se determinen en el Reglamento y, a juicio del Procurador, participar en los concursos de oposición o de méritos que para dicho efecto sean convocados.
 
@@ -235,15 +253,37 @@ II.- Para permanecer en el servicio:
 
 a).- Aprobar los diagnósticos y las evaluaciones que deberán practicarse periódicamente por la Procuraduría General de Justicia tanto para conocer la evolución patrimonial como para mejorar el desarrollo profesional y técnico de los agentes del Ministerio Público, incluidos exámenes toxicológicos, clínicos, psicométricos, psicológicos y de actualización profesional;
 
-b).- Participar en los programas de capacitación y aprobar los cursos especiales que sean definidos por la Procuraduría General de Justicia;
+> <small>(REFORMADO, B.O. 16 DE AGOSTO DE 2012)</small>
 
-c).- No ausentarse del servicio sin causa justificada por dos días o más dentro de un término de treinta días.
+b).- Participar en los programas de capacitación, actualización y profesionalización;
 
-d).- Mantener el cumplimiento de los requisitos de ingreso durante el servicio, con excepción del relacionado con buena salud que será considerado en los términos de la legislación relativa a seguridad social; y
+> <small>(REFORMADO, B.O. 16 DE AGOSTO DE 2012)</small>
 
-e).- Cumplir los demás requisitos que señalen las leyes, reglamentos y otras disposiciones aplicables.
+c).- No ausentarse del servicio sin causa justificada y sin que preceda autorización;
 
-Los agentes del Ministerio Público serán nombrados por el Gobernador del Estado a propuesta del Procurador General de Justicia, y removidos o sancionados, en su caso, en los términos de esta Ley y su Reglamento.
+> <small>(REFORMADO, B.O. 16 DE AGOSTO DE 2012)</small>
+
+d).- Mantener el cumplimiento de los requisitos de ingreso durante el servicio, con excepción del relacionado con buena salud que será considerado en los términos de la legislación relativa a seguridad social;
+
+> <small>(REFORMADO, B.O. 16 DE AGOSTO DE 2012)</small>
+
+e).- Presentar y aprobar las evaluaciones de control y confianza que establezcan las disposiciones legales aplicables;
+
+> <small>(ADICIONADO, B.O. 16 DE AGOSTO DE 2012)</small>
+
+f).- Contar con la certificación y registro actualizados de acuerdo a la legislación correspondiente;
+
+> <small>(ADICIONADO, B.O. 16 DE AGOSTO DE 2012)</small>
+
+g).- Cumplir las órdenes de comisión, rotación y cambio de adscripción; y
+
+> <small>(ADICIONADO, B.O. 16 DE AGOSTO DE 2012)</small>
+
+h).- Cumplir los demás requisitos que señalen las leyes, reglamentos y otras disposiciones aplicables.
+
+> <small>(REFORMADO, B.O. 16 DE AGOSTO DE 2012)</small>
+
+Los agentes del Ministerio Público serán nombrados por el Gobernador del Estado a propuesta del Procurador General de Justicia, y podrán ser sancionados y removidos del servicio, en su caso, en los términos de esta Ley y su Reglamento, si no cumplen con los requisitos que prevé la presente Ley y otras disposiciones legales aplicables vigentes que en el momento del acto señalen para permanecer en el servicio, o removidos por incurrir en responsabilidad en el desempeño de sus funciones. Si la autoridad jurisdiccional resolviere, que la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio fue injustificada, el Estado sólo estará obligado a pagar la indemnización y demás prestación a que tenga derecho, sin que en ningún caso proceda su incorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido.
 
 ###### ARTICULO 14.
 
@@ -255,95 +295,129 @@ I.- Las del Procurador General de Justicia, por los subprocuradores, en los tér
 
 II.- Las de los subprocuradores y de los directores generales, por quien determine el Procurador;
 
-III.- Las de los Agentes del Ministerio Público, por la persona que designe el Procurador o, en su defecto, por el Secretario de mayor antigüedad de la Agencia de que se trate y, a falta de éste, por el que le siga en tiempo y no habiendo ninguno, por el Agente del Ministerio Público del Distrito Judicial más próximo; y
+> <small>(REFORMADA, B.O. 16 DE AGOSTO DE 2012)</small>
 
-IV.- En los demás casos, en la forma que determine el reglamento de la presente ley.
+III.- Las de los Agentes del Ministerio Público, por la persona que designe el Procurador o, en su defecto, por el Ministerio Público Adjunto de mayor antigüedad de la Agencia de que se trate y, a falta de éste, por el que le siga en tiempo y no habiendo ninguno, por el Agente del Ministerio Público del Distrito Judicial más próximo; y
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE MAYO DE 2007)</small>
+> <small>(REFORMADA, B.O. 16 DE AGOSTO DE 2012)</small>
+
+IV.- En los demás casos, en la forma que establezca el reglamento de la presente ley, o en su defecto determine el procurador.
+
+> <small>(REFORMADO, B.O. 16 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 15.
 
-Para ser agente o jefe de grupo de la Policía Estatal Investigadora se requiere:
+Para ingresar y permanecer como miembro de la Policía Estatal Investigadora, se requiere:
 
-> <small>(REFORMADA, B.O. 9 DE SEPTIEMBRE DE 2004)</small>
+l.- Para ingresar al servicio:
 
-I. - Para ingresar al servicio:
+a).- Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos políticos y civiles, sin tener otra nacionalidad;
 
-a).- Ser ciudadano mexicano en pleno ejercicio de sus derechos;
+b).- Ser de notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso o culposo grave, ni estar sujeto a proceso penal;
 
-b).- Ser de reconocida buena conducta y no haber sido condenado por delito doloso o culposo grave, ni esta sujeto a proceso penal por delito de la misma naturaleza;
+c).- Tener acreditado, en su caso, el Servicio Militar Nacional;
 
-c).- Poseer grado de escolaridad media superior o su equivalente, cuando menos, y ser egresado del Instituto Superior de Seguridad Pública del Estado, o de alguna otra institución que la Junta de Honor, Selección y Promoción reconozca para tales efectos;
+d).- Acreditar que se han concluido al menos los estudios correspondientes a la enseñanza superior o su equivalente y ser egresado del Instituto Superior de Seguridad Pública del Estado, o de alguna otra Institución que la Junta de Honor, Selección y Promoción, reconozca para tales efectos;
 
-d).- Contar con el perfil físico, médico, ético y de personalidad necesario para realizar las actividades policiales, según los lineamientos correspondientes que sean establecidos y, en su caso, modificados o actualizados, por la Junta de Honor, Selección y Promoción mediante acuerdos generales publicados en el Boletín Oficial del Gobierno del Estado;
+e).- Aprobar el curso de ingreso y los cursos de formación;
 
-e).- Haber cumplido con el servicio militar nacional, en su caso;
+f).- Contar con los requisitos de edad y el perfil físico, médico y de personalidad que exijan las disposiciones aplicables;
 
-f).- No hacer uso ilícito de estupefacientes o psicotrópicos, ni padecer algún grado de alcoholismo que pudiera entorpecer el desempeño de la función;
+g).- Aprobar los procesos de evaluación de control de confianza;
 
-g).- Gozar de buena salud y aprobar una evaluación que será practicada con base en exámenes clínicos, psicométricos, psicológicos y toxicológicos;
+h).- Abstenerse de consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
 
-h).- No estar suspendido ni haber sido destituido o inhabilitado por resolución firme como servidor público en los términos de la legislación relativa a las responsabilidades oficiales; y
+i).- No padecer alcoholismo;
 
-i).- Cumplir los demás requisitos que señalen las leyes, reglamentos y otras disposiciones aplicables.
+j).- Someterse a exámenes para comprobar la ausencia de alcoholismo o el no uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
 
-> <small>(REFORMADO, B.O. 10 DE MAYO DE 2007)</small>
+k).- No estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público;
 
-Adicionalmente, para ingresar al servicio de la Policía Estatal Investigadora como agente de dicha corporación, o para obtener la promoción de jefe de grupo de la misma, los interesados deberán presentar y aprobar los exámenes que se determinen en el Reglamento y, a juicio de la Junta de Honor, Selección y Promoción, participar en los concursos de oposición o de méritos que para dicho efecto sean convocados.
-
-Será decisión de la Junta de Honor, Selección y Promoción la designación final que proceda para el ingreso al servicio.
-
-> <small>(REFORMADA, B.O. 9 DE SEPTIEMBRE DE 2004)</small>
+I).- Cumplir con los deberes que establecen la Ley General del Sistema Nacional de Seguridad Pública, Ley de Seguridad Pública para el Estado de Sonora, Ley Orgánica de la Procuraduría General de Justicia del Estado y su Reglamento, el Reglamento del Servicio Profesional de Carrera y demás disposiciones aplicables.
 
 II.- Para permanecer en el servicio:
 
-> <small>(REFORMADO, B.O. 10 DE MAYO DE 2007)</small>
+a).- Cumplir los requisitos señalados en la fracción l del presente artículo;
 
-a) Aprobar los diagnósticos y las evaluaciones periódicas que deberán definirse por la Junta de Honor, Selección y Promoción y practicarse por la Procuraduría General de Justicia para el desarrollo profesional y técnico de la Policía Estatal Investigadora, incluidos exámenes toxicológicos, clínicos, psicométricos, psicológicos y de actualización en técnicas policiales, así como con referencia a la situación y evaluación patrimonial de dichos servidores públicos;
+b).- Mantener actualizado el Certificado Único Policial;
 
-b).- Participar en los programas de capacitación y aprobar los cursos especiales que sean definidos por la Junta de Honor, Selección y Promoción;
+c) No superar la edad máxima de retiro que establezcan las disposiciones aplicables;
 
-c).- No ausentarse del servicio sin causa justificada por dos días o más dentro de un término de treinta días;
+d).- Aprobar los cursos de formación, capacitación y profesionalización;
 
-d).- Mantener el cumplimiento de los requisitos de ingreso durante el servicio, con excepción del relacionado con buena salud que será considerado en los términos de la legislación relativa a seguridad social; y
+e).- Aprobar los procesos de evaluación de control de confianza;
 
-e).- Cumplir los demás requisitos que señalen las leyes, reglamentos y otras disposiciones aplicables.
+f). - Aprobar las evaluaciones del desempeño;
 
-> <small>(REFORMADO, B.O. 10 DE MAYO DE 2007)</small>
+g).- Participar en los procesos de promoción o ascenso que se convoquen, conforme a las disposiciones legales aplicables;
 
-Los agentes y jefes de grupo de la Policía Estatal Investigadora serán nombrados por la Junta de Honor, Selección y Promoción, y removidos o sancionados, en su caso, en los términos de esta Ley y su Reglamento.
+h).- No ausentarse del servicio sin causa justificada y sin que preceda autorización;
 
-> <small>(REFORMADO, B.O. 10 DE MAYO DE 2007)</small>
+i).- Acreditar que ha concluido al menos, la enseñanza superior, equivalente u homologación por desempeño, a partir de bachillerato;
+
+j). Cumplir las órdenes de comisión, rotación y cambio de adscripción;
+
+k) No incurrir en actos u omisiones que causen la pérdida de confianza o afecten la prestación del servicio; y
+
+l).- Los demás requisitos que establezcan las disposiciones legales aplicables.
+
+Los miembros de la Policía Estatal Investigadora serán nombrados por el Gobernador del Estado a propuesta del Procurador General de Justicia y podrán ser separados, removidos y sancionados, en su caso, en los términos de la Ley Orgánica de la Procuraduría General de Justicia y su Reglamento.
+
+En caso de no cumplir con los requisitos previstos en la presente Ley y en las demás disposiciones legales aplicables vigentes para permanecer en el servicio, o incurran en responsabilidad en el desempeño de sus labores o incumplimiento de sus deberes serán suspendidos o removidos. Si la autoridad jurisdiccional resolviere, que la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio fue injustificada, el Estado solo estará obligado a pagar la indemnización y demás prestación a que tenga derecho, sin que en ningún caso proceda su incorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido.
+
+> <small>(REFORMADO, B.O. 16 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 16.
 
-La Procuraduría General de Justicia del Estado, en los términos que precise el reglamento de la presente Ley, integrará y mantendrá permanentemente actualizado el Registro de Antecedentes de Elementos Activos y Ex-elementos de la Policía Estatal Investigadora, en el que se identificarán los antecedentes de servicios de éstos y coadyuvará, en los términos de los convenios respectivos, a la integración del Registro Nacional de Servicios Policiales.
+La Procuraduría General de Justicia del Estado, en los términos que precise el reglamento de la presente Ley, integrará y mantendrá permanentemente actualizado el Registro del personal de la Policía Estatal Investigadora, en el que se identificarán los antecedentes de servicios de éstos y coadyuvará, en los términos de los convenios respectivos, a la integración del Registro Nacional de Personal de Seguridad Pública. En el caso de los elementos en activo, deberán contar con el certificado y registro a que se refiere el artículo 65 de la Ley General del Sistema Nacional de Seguridad Pública y 149 de la Ley de Seguridad Pública para el Estado de Sonora.
 
-> <small>(REFORMADO, B.O. 9 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO, B.O. 16 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 17.
 
 Para ser perito oficial de la Procuraduría General de Justicia, se requiere:
 
-I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos;
+I.- Para ingresar al servicio:
 
-II.- Ser de reconocida buena conducta y no haber sido condenado por delito doloso o culposo grave, ni estar sujeto a proceso penal por delito de la misma naturaleza;
+a).- Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos;
 
-III.- Poseer título profesional en la disciplina en la que se pretenda desempeñar como perito o, en caso de que ésta no exista en los planes de estudio de las instituciones educativas, contar con experiencia activa mínima de diez años en el arte u oficio de que se trate o tener expedido certificado de estudios técnicos en la materia;
+b).- Ser de reconocida buena conducta y no haber sido condenado por delito doloso o culposo grave, ni estar sujeto a proceso penal por delito de la misma naturaleza;
 
-IV.- No hacer uso ilícito de estupefacientes o psicotrópicos, ni padecer algún grado de alcoholismo que pudiera entorpecer el desempeño de la función;
+c).- Poseer título profesional en la disciplina en la que se pretenda desempeñar como perito o, en caso de que ésta no exista en los planes de estudio de las instituciones educativas, contar con experiencia activa mínima de diez años en el arte u oficio de que se trate o tener expedido certificado de estudios técnicos en la materia;
 
-V.- Gozar de buena salud y aprobar una evaluación que será practicada con base en exámenes clínicos, psicométricos, psicológicos y toxicológicos;
+d).- No hacer uso ilícito de estupefacientes o psicotrópicos, u otras que produzcan efectos similares, ni padecer alcoholismo;
 
-VI.- Haber cumplido con el servicio militar nacional, en su caso;
+c).- Gozar de buena salud y aprobar las evaluaciones que serán practicada (sic) con base en exámenes clínicos, psicométricos, psicológicos y toxicológicos;
 
-VII.- No estar suspendido ni haber sido destituido o inhabilitado por resolución firme como servidor público en los términos de la legislación relativa a las responsabilidades oficiales; y
+f).- Tener acreditado el servicio militar nacional, en su caso;
 
-VIII.- Cumplir los demás requisitos que señalen las leyes, reglamentos y otras disposiciones aplicables.
+g).- No estar suspendido ni haber sido destituido o inhabilitado por resolución firme como servidor público en los términos de la legislación relativa a las responsabilidades oficiales;
 
-Adicionalmente para ingresar al servicio de la Procuraduría General de Justicia como perito de dicha institución, los interesados deberán presentar y aprobar los exámenes que se determinen en el Reglamento y, a juicio del Procurador General de Justicia, participar en los concursos de oposición o de méritos que para dicho efecto sean convocados.
+h).- Aprobar el curso de ingreso, formación inicial o básica que establezcan las leyes de la materia;
 
-Los peritos oficiales serán nombrados y removidos por el Procurador General de Justicia y desempeñarán su servicio como trabajadores de confianza.
+i).- Presentar y aprobar las evaluaciones de control de confianza; y
+
+j).- Cumplir los demás requisitos que señalen las leyes, reglamentos y otras disposiciones aplicables.
+
+II.- Para permanecer en el servicio:
+
+a).- Cumplir los requisitos de ingreso durante el servicio;
+
+b).- Cumplir con los programas de profesionalización que establezcan las disposiciones aplicables;
+
+c).- Aprobar las evaluaciones que establezcan las disposiciones aplicables;
+
+d).- Contar con la certificación y registro actualizados a que se refiere esta Ley;
+
+e).- Cumplir las órdenes de comisión, rotación y cambio adscripción;
+
+f).- Cumplir con las obligaciones que les impongan las leyes respectivas; y
+
+g).- Cumplir los demás requisitos que señalen las leyes, reglamentos y otras disposiciones aplicables.
+
+Adicionalmente, para ingresar al servicio de la Procuraduría General de Justicia como perito de dicha institución, los interesados deberán presentar y aprobar los exámenes que se determinen en las disposiciones legales aplicables y, en su caso, participar en los concursos de oposición o de méritos que para dicho efecto sean convocados.
+
+Los peritos oficiales serán nombrados por el Gobernador del Estado a propuesta del Procurador General de Justicia y desempeñarán su servicio como trabajadores de confianza, y podrán ser sancionados y removidos del servicio, en su caso, en los términos de la Ley Orgánica de la Procuraduría General de Justicia y su Reglamento, si no cumplen con los requisitos previstos en el presente Reglamento y otras disposiciones legales aplicables vigentes que en el momento del acto señalen para permanecer en el servicio, o removidos por incurrir en responsabilidad en el desempeño de sus funciones. Si la autoridad jurisdiccional resolviere, que la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio fue injustificada, el Estado sólo estará obligado a pagar la indemnización y demás prestación a que tenga derecho, sin que en ningún caso proceda su incorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE MAYO DE 2007)</small>
 
@@ -353,7 +427,7 @@ Para ingresar o permanecer al servicio de la Procuraduría General de Justicia d
 
 Todos los servidores públicos de la Institución están obligados a participar y acreditar los cursos que se establezcan para su mejoramiento profesional.
 
-El Procurador podrá eximir de los requisitos a que se refiere este artículo, cuando se trate de personas de reconocida experiencia profesional.
+> <small>(DEROGADO TERCER PÁRRAFO, B.O. 16 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 19.
 
@@ -361,47 +435,37 @@ El Procurador General de Justicia del Estado expedirá los manuales administrati
 
 Los manuales de organización deberán publicarse en el Boletín Oficial del Gobierno del Estado y contendrán la información sobre la estructura orgánica de la Procuraduría y las funciones de sus unidades administrativas, así como sobre los sistemas de comunicación y coordinación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, B.O. 16 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 20.
 
-En los términos de esta Ley y su Reglamento, compete al Procurador General de Justicia remover a los agentes del Ministerio Público, así como a los agentes y jefes de grupo de la Policía Estatal Investigadora y los peritos oficiales y, en su caso, sancionar a dichos servidores públicos por las faltas a las normas de actuación y disciplina en que incurran.
+En los términos de esta Ley y su Reglamento, compete al Procurador General de Justicia remover a los agentes del Ministerio Público, así como a los miembros de la Policía Estatal Investigadora y los peritos oficiales y, en su caso, sancionar a dichos servidores públicos por las faltas a las normas de actuación y disciplina en que incurran.
 
-El Procurador General de Justicia podrá cambiar discrecionalmente de adscripción al personal de la Institución, cuando lo estime conveniente, no siendo necesario el trámite de un nuevo nombramiento.
+El Procurador General de Justicia podrá comisionar, rotar y cambiar de adscripción discrecionalmente, de acuerdo a las necesidades del servicio, al personal de la Institución cuando lo estime conveniente, no siendo necesario el trámite de un nuevo nombramiento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, B.O. 16 DE AGOSTO DE 2012)</small>
 
-###### ARTICULO 20 Bis.
+ARTICULO 20 BIS.- Los procedimientos de terminación del Servicio aplicables los (sic) agentes del Ministerio Público, a los miembros de la Policía Estatal Investigadora y a los Peritos Oficiales de la Procuraduría, podrá (sic) actualizarse de la siguiente manera:
 
-La remoción del servicio de los agentes del Ministerio Público, de los agentes y jefes de grupo de la Policía Estatal Investigadora y de los peritos oficiales de la Procuraduría será procedente en los siguientes casos:
+I.- Ordinaria, que comprende:
 
-I.- (DEROGADA, B.O. 10 DE MAYO DE 2007)
+a) Renuncia;
 
-II.- (DEROGADA, B.O. 10 DE MAYO DE 2007)
+b) Incapacidad Permanente en el desempeño del servicio;
 
-> <small>(ADICIONADA, B.O. 9 DE SEPTIEMBRE DE 2004)</small>
+c) Jubilación; y
 
-III.- Por incapacidad permanente para el desempeño de las funciones del cargo;
+d) Muerte.
 
-IV.- (DEROGADA, B.O. 10 DE MAYO DE 2007)
+II.- Extraordinaria, que comprende:
 
-> <small>(ADICIONADA, B.O. 9 DE SEPTIEMBRE DE 2004)</small>
+a).- La separación del servicio por el incumplimiento de los requisitos de permanencia o, en el caso de los miembros de la Policía Investigadora, cuando en los procesos de promoción concurran las circunstancias siguientes:
 
-V.- Por supresión de la plaza en el Presupuesto de Egresos o en la Ley respectiva;
+1.- Haya alcanzado la edad máxima correspondiente a su jerarquía, de acuerdo con lo establecido en las disposiciones aplicables;
 
-> <small>(ADICIONADA, B.O. 9 DE SEPTIEMBRE DE 2004)</small>
+2.- Deje de participar en tres procesos consecutivos de promoción a los que haya sido convocado o no obtenga el grado inmediato superior por causas que le sean imputables, después de participar en tres procesos de promoción para tal efecto.
 
-VI. - Por no mantener el cumplimiento de los requisitos de ingreso al cargo;
-
-> <small>(ADICIONADA, B.O. 9 DE SEPTIEMBRE DE 2004)</small>
-
-VII.- Por no cumplir los requisitos de permanencia en el cargo;
-
-> <small>(ADICIONADA, B.O. 9 DE SEPTIEMBRE DE 2004)</small>
-
-VIII.- Por inhabilitación; o
-
-IX.- (DEROGADA, B.O. 10 DE MAYO DE 2007)
+Remoción por incurrir en causas de responsabilidad con motivo de su encargo.
 
 ###### ARTICULO 21.
 
@@ -413,15 +477,13 @@ El citado acuerdo se emitirá discrecionalmente, tomando en cuenta las necesidad
 
 El Procurador ejercerá autoridad jerárquica sobre el personal de la Institución, sin perjuicio de la autonomía técnica que corresponda a los peritos en el estudio y emisión de los dictámenes respectivos.
 
-> <small>(REFORMADO, B.O. 10 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, B.O. 16 DE AGOSTO DE 2012)</small>
 
-###### ARTICULO 23.
+ARTlCULO 23.- La. Policía Estatal Investigadora actuará bajo la autoridad y el mando inmediato del Ministerio Público, en congruencia con lo establecido en el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, y de conformidad con lo previsto en el Artículo 95 de la Constitución Política Local, auxiliando a éste en la investigación de los delitos del orden común.
 
-La Policía Estatal Investigadora actuará bajo la autoridad y el mando inmediato del Ministerio Público, en congruencia con lo establecido en el Articulo 21 de la Constitución Política de los Estados Unidos Mexicanos, y de conformidad con lo previsto en el Artículo 95 de la Constitución Política Local, auxiliando a éste en la investigación de los delitos del orden común.
+La Policía Estatal Investigadora, conforme a las instrucciones que se le dicten, desarrollará las diligencias que deban practicarse durante la investigación y, exclusivamente para los fines de ésta, cumplirá las citaciones, notificaciones y presentaciones que se le ordenen; asimismo, ejecutará las órdenes de aprehensión, los cateos y otros mandamientos que emita la autoridad judicial.
 
-La Policía Estatal Investigadora, conforme a las instrucciones que se le dicten, desarrollará las diligencias que deban practicarse durante la averiguación previa y, exclusivamente para los fines de ésta, cumplirá las citaciones, notificaciones y presentaciones que se le ordenen; asimismo, ejecutará las órdenes de aprehensión, los cateos y otros mandamientos que emita la autoridad judicial.
-
-La investigación policial se sujetará, en todo momento, al principio de respeto a los derechos de los individuos y se ejercerá con estricto apego a la legalidad. El Ministerio Público, en cada caso concreto, instruirá a la Policía Estatal Investigadora sobre los elementos o indicios que deban ser investigados o recabados, para comprobar el cuerpo del delito y hacer probable la responsabilidad del inculpado.
+La investigación policial se sujetará, en todo momento, al principio de respeto a los derechos humanos y se ejercerá con estricto apego a la legalidad. El Ministerio Público, en cada caso concreto, instruirá a la Policía Estatal Investigadora sobre los datos que deban ser investigados o recabados, que permitan establecer que se ha cometido un hecho que la ley señale como delito y que existe la probabilidad de que el imputado lo cometió o participó en su comisión.
 
 ###### ARTICULO 24.
 
@@ -433,9 +495,11 @@ Los auxiliares del Ministerio Público deberán dar aviso inmediato a éste, en 
 
 ### CAPITULO III. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, B.O. 16 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 26.
 
-En el ejercicio de sus funciones, el personal de la Procuraduría observará las obligaciones inherentes a su calidad de servidores públicos, de acuerdo con sus atribuciones específicas, y actuará con la diligencia necesaria para una pronta y eficaz procuración e impartición de justicia.
+En el ejercicio de sus funciones, el personal de la Procuraduría observará las obligaciones inherentes a su calidad de servidores públicos, de acuerdo con sus atribuciones especificas, y actuará con la diligencia necesaria para una pronta y eficaz procuración e impartición de justicia; observando en todo momento los principios de Legalidad, Objetividad, Eficiencia, Profesionalismo, Honradez, Subsidiariedad, Transparencia y Respeto a los Derechos Humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### ARTICULO 27.
 
@@ -447,33 +511,37 @@ El Gobernador del Estado calificará las excusas del Procurador y éste las de l
 
 Ningún funcionario o empleado del Ministerio Público podrá desempeñar un puesto oficial ni ejercer la abogacía sino en causa propia, ni ser corredor, comisionista, apoderado judicial, tutor, curador, albacea, depositario judicial, síndico o interventor de concurso. Se exceptúan de esta disposición los puestos de carácter docente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 16 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 29.
 
-El Procurador, previo acuerdo del Gobernador del Estado, podrá conceder licencias a los funcionarios y empleados del Ministerio Público, en los siguientes términos:
+El Procurador, previo acuerdo del Gobernador del Estado, podrá conceder licencias a los servidores públicos de confianza de la institución, en los siguientes términos:
 
 I.- Hasta por un mes con goce de sueldo; y
 
 II.- Hasta por dos meses, sin goce de sueldo.
 
-> <small>(REFORMADO, B.O. 10 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, B.O. 16 DE AGOSTO DE 2012)</small>
 
-Independientemente de lo anterior y en los mismos términos señalados en el primer párrafo de este artículo, el Procurador General de Justicia podrá conceder licencias hasta por tres años, sin goce de sueldo, a los agentes de la Policía Estatal Investigadora, para desempeñar cargos en instituciones de seguridad pública en la Entidad.
+Independientemente de lo anterior y en los mismos términos señalados en el primer párrafo de este artículo, el Procurador General de Justicia podrá conceder licencias hasta por tres años, sin goce de sueldo, a los miembros de la Policía Estatal Investigadora, para desempeñar cargos en instituciones de seguridad pública en la Entidad, siempre y cuando las necesidades del servicio lo permitan.
 
 > <small>(ADICIONADO, B.O. 9 DE SEPTIEMBRE DE 2004)</small>
 
 El Procurador General de Justicia será representado ante las autoridades judiciales, administrativas y del trabajo por el Subprocurador, el Director General o el agente del Ministerio Público que se designe para cada caso concreto.
 
+> <small>(REFORMADO, B.O. 16 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 30.
 
-La desobediencia o resistencia a las órdenes legalmente fundadas del Ministerio Público, dará lugar al empleo de medidas de apremio o a la imposición de correcciones disciplinarias, según el caso, en los términos que previenen las disposiciones legales relativas. Cuando la desobediencia o resistencia constituya delito, se iniciará la averiguación previa, conforme a derecho.
+La desobediencia o resistencia a las órdenes legalmente fundadas del Ministerio Público, dará lugar al empleo de medidas de apremio o a la imposición de correcciones disciplinarias, según el caso, en los términos que previenen las disposiciones legales relativas. Cuando la desobediencia o resistencia constituya delito, se iniciará la investigación, conforme a derecho.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, B.O. 16 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 31.
 
-A los agentes del Ministerio Público, los agentes y jefes de grupo de la Policía Estatal Investigadora y los peritos oficiales de la Procuraduría les serán aplicables las normas, procedimientos, sanciones y correctivos disciplinarios previstos en esta Ley y su Reglamento, para los casos de incumplimiento de las normas de actuación y disciplina que deben observarse por dichos servidores públicos en el desempeño de sus cargos.
+Las relaciones jurídicas entre el Estado y los Agentes del Ministerio Público, miembros de la Policía Estatal Investigadora y Peritos oficiales se rigen por la fracción XIII, del apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, la presente ley, su reglamento y las demás disposiciones legales aplicables.
 
-> <small>(REFORMADO, B.O. 9 DE SEPTIEMBRE DE 2004)</small>
+A los agentes del Ministerio Público, miembros de la Policía Estatal Investigadora y los peritos oficiales de la Procuraduría les serán aplicables las normas, procedimientos, sanciones y correctivos disciplinarios previstos en esta Ley y su Reglamento, para los casos de incumplimiento de las normas de actuación, disciplina y ética que deben observarse por dichos servidores públicos en el desempeño de sus cargos.
 
 Las sanciones y correctivos disciplinarios que podrán imponerse en los términos del párrafo anterior según la gravedad de la falta de que se trate, consistirán en:
 
@@ -483,27 +551,21 @@ II.- Amonestación con apercibimiento;
 
 III.- Suspensión temporal de funciones hasta por treinta días; y
 
-> <small>(REFORMADA, B.O. 10 DE MAYO DE 2007)</small>
-
-IV.- Destitución, en los casos establecidos por las fracciones II, III, IV, V, XI, XII, XVI, XX y XXI del articulo 32, y V del artículo 33 de esta Ley.
-
-> <small>(REFORMADO, B.O. 10 DE MAYO DE 2007)</small>
+IV.- Remoción, en los casos establecidos por las fracciones II, III, IV, V, XI, XII, XVI, XX y XXI del artículo 32, y V del artículo 33 de esta Ley.
 
 Además de las anteriores, en el caso de la Policía Estatal Investigadora podrá imponerse también, como correctivos disciplinarios, el arresto hasta por treinta y seis horas, la retención en el servicio y la privación de permisos de salida hasta por quince días.
 
-> <small>(REFORMADO, B.O. 10 DE MAYO DE 2007)</small>
+Con excepción de la Remoción que será atribución exclusiva del Procurador General de Justicia, la aplicación de las demás sanciones y correctivos disciplinarios podrán aplicarse indistintamente por el Procurador o el Visitador General, en el caso de los agentes del Ministerio Público y los peritos oficiales, y, en el caso de los miembros de la Policía Estatal Investigadora por el titular de la Corporación.
 
-Con excepción de la destitución que será atribución exclusiva del Procurador General de Justicia, la aplicación de las demás sanciones y correctivos disciplinarios podrán aplicarse indistintamente por el Procurador o el Visitador General, en el caso de los agentes del Ministerio Público y los peritos oficiales, y, en el caso de los agentes de la Policía Estatal Investigadora, por el Director General o los jefes de grupo de dicha corporación.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 16 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 32.
 
-Los agentes del Ministerio Público, los agentes y jefes de grupo de la Policía Estatal Investigadora y los peritos de la Procuraduría se sujetarán a las normas de actuación aplicables en general a los servidores públicos y, especialmente, a las siguientes:
+Los agentes del Ministerio Público, los miembros de la Policía Estatal Investigadora y los peritos de la Procuraduría se sujetarán a las normas de actuación aplicables en general a los servidores públicos y, especialmente, a las siguientes:
 
-> <small>(ADICIONADA, B.O. 9 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADA, B.O. 16 DE AGOSTO DE 2012)</small>
 
-I.- Ajustar invariablemente su conducta a los principios de legalidad, lealtad, imparcialidad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos;
+I.- Ajustar invariablemente su conducta a los principios de Legalidad, Objetividad, Eficiencia, Profesionalismo, Honradez, Subsidiariedad, Transparencia y Respeto a los Derechos Humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos;
 
 > <small>(ADICIONADA, B.O. 9 DE SEPTIEMBRE DE 2004)</small>
 
@@ -521,9 +583,9 @@ IV.- Abstenerse de solicitar o recibir favores, dádivas o regalos de cualquier 
 
 V.- Rechazar cualquier instrucción u orden relacionada con el ejercicio del cargo cuando no provenga de sus superiores, así como cualquier recomendación, orden o presión, sea quien fuere de quien provenga, para realizar un acto ilegal, omitir un deber legal o proteger intereses u otorgar protección indebidos en el ejercicio de las atribuciones correspondientes;
 
-> <small>(ADICIONADA, B.O. 9 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADA, B.O. 16 DE AGOSTO DE 2012)</small>
 
-VI. - Respetar la dignidad de las personas involucradas en los procedimientos de averiguación de delitos procurando, para tal efecto, no ofenderlas ni degradarlas al practicar interrogatorios; desahogar las diligencias a la hora establecida en los citatorios correspondientes; abstenerse de amenazar o ejercer cualquier clase de violencia moral en contra de indiciados, acusados, testigos, peritos y demás intervinientes en procedimientos administrativos o judiciales, evitar que los recintos oficiales en los que se practiquen diligencias de averiguación previa sean utilizados para anunciar o vender efectos mercantiles, realizar sorteos, promover festejos de particulares o actividades semejantes y, en general, guardar y hacer guardar los mínimos del respeto inherente a la función del Ministerio Público cuando se practiquen actuaciones relacionadas con sus atribuciones;
+VI.- Respetar la dignidad de las personas involucradas en los procedimientos de investigación de delitos procurando, para tal efecto, no ofenderlas ni degradarlas al practicar las entrevistas; desahogar las diligencias a la hora establecida en los citatorios correspondientes; abstenerse de amenazar o ejercer cualquier clase de violencia moral en contra de imputados, testigos, peritos, y demás intervinientes en procedimientos administrativos o judiciales, evitar que los recintos oficiales en los que se practiquen diligencias de investigación sean utilizados para anunciar o vender efectos mercantiles, realizar sorteos, promover festejos de particulares o actividades semejantes y, en general, guardar y hacer guardar los mínimos del respeto inherente a la función del ministerio público cuando se practiquen actuaciones relacionadas con sus atribuciones;
 
 > <small>(ADICIONADA, B.O. 9 DE SEPTIEMBRE DE 2004)</small>
 
@@ -553,9 +615,9 @@ XII. - Abstenerse de consumir substancias psicotrópicas, drogas o estupefacient
 
 XIII.- Participar en los operativos de coordinación con otras corporaciones policiales que sean determinados mediante mandamiento legal, ajustando su actuación conforme a derecho proceda;
 
-> <small>(ADICIONADA, B.O. 9 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADA, B.O. 16 DE AGOSTO DE 2012)</small>
 
-XIV.- No usar, poseer, enajenar o adquirir vehículos de procedencia ilegal, ni los de origen extranjero que no tengan legal estancia en el país, o aquellos relacionados con una averiguación previa en proceso;
+XIV.- No usar, poseer, enajenar o adquirir vehículos de procedencia ilegal, ni los de origen extranjero que no tengan legal estancia en el país, o aquellos relacionados con una investigación en proceso;
 
 > <small>(REFORMADA, B.O. 10 DE MAYO DE 2007)</small>
 
@@ -639,17 +701,17 @@ XXXIII.- Abstenerse de cualquier acto u omisión que implique incumplimiento de 
 
 XXXIV.- Las demás que establezcan las disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 16 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 33.
 
-Además de las normas de actuación genéricamente aplicables a los servidores públicos, los agentes y jefes de grupo de la Policía Estatal Investigadora deberán cumplir con las siguientes normas de disciplina:
+Además de las normas de actuación genéricamente aplicables a los servidores públicos, los miembros de la Policía Estatal Investigadora deberán cumplir con las siguientes normas de disciplina:
 
 > <small>(ADICIONADA, B.O. 9 DE SEPTIEMBRE DE 2004)</small>
 
 I.- Actuar con decisión en el cumplimiento de sus funciones, cuidando que no se exceda el legítimo derecho de autodefensa y limitando el uso de la fuerza a los casos que lo requieran para el cumplimiento de su función. En todo caso tendrán la obligación de denunciar a sus superiores jerárquicos la inobservancia de esta disposición;
 
-> <small>(ADICIONADA, B.O. 9 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADA, B.O. 16 DE AGOSTO DE 2012)</small>
 
 II.- Llevar a cabo su actuación con disciplina, observando el orden jerárquico establecido y dando riguroso y exacto cumplimiento a las instrucciones que reciban de sus superiores;
 
@@ -673,11 +735,11 @@ VI. - Abstenerse de provocar de palabra o de hecho al personal de otras corporac
 
 VII.- Cumplir con las demás disposiciones aplicables y con aquellas que expidan el Procurador General de Justicia y la Junta de Honor, Selección y Promoción.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 16 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 34.
 
-Para la remoción en los supuestos previstos por las fracciones VI y VII del artículo 20 Bis, así como para la aplicación de las sanciones y correctivos disciplinarios a que se refiere el artículo 31 de esta Ley, se iniciará procedimiento de oficio o por denuncia, en ambos casos con apoyo en elementos probatorios suficientes para presumir la violación o el incumplimiento de que se trate. El procedimiento de referencia será conducido por la unidad administrativa que se determine en el Reglamento de esta Ley, pero tratándose de la destitución prevista por la fracción IV del artículo 31, invariablemente la resolución definitiva será emitida por el Procurador General de Justicia.
+Para la remoción en los supuestos de incumpliendo (sic) a los requisitos de ingreso y permanencia en el cargo a que se refiere la fracción II del artículo 20 Bis, así como para la aplicación de las sanciones y correctivos disciplinarios a que se refiere el artículo 31 de esta Ley, se iniciará procedimiento de oficio o por denuncia, en ambos casos con apoyo en elementos probatorios suficientes que hagan probable la violación o el incumplimiento de que se trate. El procedimiento de referencia será conducido por la unidad administrativa que se determine en el reglamento de esta Ley, pero tratándose de la remoción prevista por los artículos 20 Bis fracción II y la fracción IV del artículo 31, invariablemente la resolución definitiva será emitida por el Procurador General de Justicia.
 
 > <small>(ADICIONADO, B.O. 9 DE SEPTIEMBRE DE 2004)</small>
 
@@ -699,9 +761,9 @@ En los términos de las leyes de la materia, será causa de responsabilidad admi
 
 En cualquier momento y según las circunstancias de cada caso, la autoridad que conduzca el procedimiento podrá suspender provisionalmente al encausado hasta en tanto se resuelva en definitiva el asunto. Tratándose de los casos de destitución a que se refiere la fracción IV del artículo 31, la suspensión deberá ser decretada invariablemente.
 
-> <small>(ADICIONADO, B.O. 9 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO, B.O. 16 DE AGOSTO DE 2012)</small>
 
-Con las particularidades que se especifican en este artículo, se aplicarán las reglas del Código de Procedimientos Penales para el Estado en lo relativo a notificaciones y ofrecimiento, admisión, desahogo y valoración de pruebas.
+Con las particularidades que se especifican en este artículo, serán aplicables en materia de emplazamiento y notificaciones las reglas del Código de Procedimientos Civiles para el Estado de Sonora, y para el ofrecimiento, admisión, desahogo y valoración de pruebas, las reglas del Código de Procedimientos Penales para el Estado de Sonora, en lo que no contravengan lo que al respecto establece la presente Ley y su Reglamento.
 
 > <small>(ADICIONADO, B.O. 9 DE SEPTIEMBRE DE 2004)</small>
 
@@ -753,17 +815,17 @@ Fungirá como presidente de la Junta el Procurador General de Justicia y como se
 
 Se reunirá cuantas veces sea convocada y ejercerá las siguientes atribuciones:
 
-> <small>(REFORMADA, B.O. 10 DE MAYO DE 2007)</small>
+> <small>(REFORMADA, B.O. 16 DE AGOSTO DE 2012)</small>
 
-I.- Substanciar y resolver los procedimientos relativos a la selección e ingreso de los agentes y jefes de grupo de la Policía Estatal Investigadora;
+I.- Substanciar y resolver los procedimientos relativos a la selección e ingreso de los miembros de la Policía Estatal Investigadora;
 
-> <small>(REFORMADA, B.O. 10 DE MAYO DE 2007)</small>
+> <small>(REFORMADA, B.O. 16 DE AGOSTO DE 2012)</small>
 
-II.- Substanciar y resolver los procedimientos relativos al otorgamiento de ascensos por promoción de los agentes y jefes de grupo de la Policía Estatal Investigadora;
+II.- Substanciar y resolver los procedimientos relativos al otorgamiento de ascensos por promoción de los miembros de la Policía Estatal Investigadora;
 
-> <small>(REFORMADA, B.O. 10 DE MAYO DE 2007)</small>
+> <small>(REFORMADA, B.O. 16 DE AGOSTO DE 2012)</small>
 
-III.- Decidir sobre el otorgamiento de reconocimientos, premios y condecoraciones a los agentes y jefes de grupo de la Policía Estatal Investigadora; y
+III.- Decidir sobre el otorgamiento de reconocimientos, premios y condecoraciones a los miembros de la Policía Estatal Investigadora; y
 
 > <small>(REFORMADA, B.O. 10 DE MAYO DE 2007)</small>
 
@@ -864,3 +926,9 @@ B.O. 2 DE AGOSTO DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al trigésimo día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 16 DE AGOSTO DE 2012.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
