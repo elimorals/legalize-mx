@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "2011-06-08"
+last_updated: "2012-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2012.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -75,15 +75,15 @@ El territorio del Estado comprende los Municipios que a continuación se expresa
 
 La Bandera, el Himno y el Escudo Nacionales, así como el Himno y el Escudo propios del Estado, son los símbolos obligatorios del mismo. No habrá otras banderas, otros himnos ni escudos de carácter oficial, y el uso de los símbolos nacionales se sujetará a lo que dispongan los ordenamientos federales.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE AGOSTO DE 2012)</small>
 
-### CAPITULO III. De las Garantías
+### CAPITULO III. De Los Derechos Humanos y sus Garantías
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 6.
 
-Además de lo que la Constitución Política de los Estados Unidos Mexicanos prescribe sobre derechos garantizados para todo individuo que se encuentra en territorio nacional, los que estén en territorio campechano gozarán de los demás derechos humanos que la presente Constitución reconoce y garantiza en su ejercicio, así como los que surjan de los convenios internacionales suscritos por el Estado Mexicano y de las leyes que emita el Congreso de la Unión emanadas de la Carta Federal.
+Además de lo que la Constitución Política de los Estados Unidos Mexicanos prescribe sobre derechos garantizados para toda personas (sic) que se encuentra en territorio nacional, las que estén en territorio campechano gozarán de los demás derechos humanos que la presente Constitución reconoce y garantiza en su ejercicio, así como los que surjan de los convenios internacionales suscritos por el Estado Mexicano y de las leyes que emita el Congreso de la Unión emanadas de la Carta Federal.
 
 > <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
@@ -159,9 +159,13 @@ En los conflictos por límites agrarios, el Estado, dentro del ámbito de su com
 
 Son derechos de los habitantes del Estado:
 
-I.- Si son mexicanos, los que les conceden la Constitución General de la República y la presente;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2012)</small>
 
-II.- Si son extranjeros, gozar de las garantías, así como de los derechos establecidos en la Constitución General de la República, en la presente y en las disposiciones legales que de ellas emanen. En ningún caso, los extranjeros tendrán derechos políticos.
+I.- Si son mexicanos, los que les reconoce la Constitución General de la República y la presente;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2012)</small>
+
+II.- Si son extranjeros, gozar de los derechos humanos y sus garantías reconocidas en la Constitución General de la República, en la presente y en las disposiciones legales que de ellas emanen. En ningún caso, los extranjeros tendrán derechos políticos.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -831,13 +835,17 @@ XVII.- Expedir el Bando Solemne para dar a conocer en toda la Entidad la declara
 
 XVIII.- Constituírse en Colegio Electoral y elegir al ciudadano que deba sustituír al Gobernador del Estado con el carácter de substituto o de interino, de acuerdo con los Artículos 64, 65 y 67 de esta Constitución;
 
-> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2000)</small>
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2012)</small>
 
-XIX. Expedir la ley que regule la estructura y funcionamiento del organismo estatal de protección de los derechos humanos, el cual tendrá autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propios;
+XIX.- Expedir la ley que regule la estructura y funcionamiento del organismo estatal de protección de los derechos humanos, el cual tendrá autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propios. Dichos Organismos conocerán de quejas en contra de actos u omisiones de naturaleza administrativa, proveniente de cualquier autoridad o servidor público de orden estatal o municipal, con excepción de asuntos electorales y jurisdiccionales; formularán recomendaciones públicas, no vinculatorias, denuncias y quejas ante las autoridades respectivas; podrá ejercitar la acción de inconstitucionalidad que tengan por objeto plantear la posible contradicción entre una norma expedida por la legislatura local y los derechos humanos consagrados en la Constitución Política de los Estados Unidos Mexicanos y en los tratados internacionales en los que México sea parte.
 
 > <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 XIX Bis.- Expedir la ley que asegure el ejercicio y respeto del derecho de acceso a la información pública y garantice la transparencia en los actos y decisiones de las dependencias y entidades que conforman la Administración Pública Estatal, centralizada y paraestatal; los órganos de los Poderes Legislativo y Judicial; los organismos públicos autónomos y los Ayuntamientos y sus órganos administrativos auxiliares y paramunicipales; y que regule la integración de la estructura y el funcionamiento del organismo estatal encargado de promover y difundir el ejercicio de ese derecho, de resolver sobre la negativa a las solicitudes de información pública y de proteger los datos personales en poder de aquéllos; organismo estatal que estará investido de autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propios;
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2012)</small>
+
+XIX Ter.- Llamar a comparecer, en los términos de la ley respectiva, a las autoridades o servidores públicos responsables que no acepten o no cumplan la recomendación emitida por la Comisión de Derechos Humanos del Estado de Campeche, a efecto de que expliquen, fundada y motivadamente, la razón de su negativa.
 
 > <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2008)</small>
 
@@ -982,6 +990,10 @@ IX.- Nombrar con carácter provisional a los empleados de las dependencias del C
 X.- Otorgar o negar su aprobación a los nombramientos de los Magistrados del Tribunal Superior de Justicia, que le someta a su consideración el Gobernador del Estado, así como aceptar las renuncias de los propios funcionarios judiciales;
 
 XI.- Convocar a sesiones extraordinarias en el caso de delitos oficiales o del orden común, de que se acuse a los altos funcionarios públicos del Estado, en cuyo caso, no se tratará ningún negocio del Congreso ni se prolongarán las sesiones por más tiempo que el indispensable para resolver el asunto que se precisó en la Convocatoria;
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2012)</small>
+
+XI Bis.- Llamar a comparecer, en los términos de la ley respectiva, a las autoridades o servidores públicos responsables que no acepten o no cumplan la recomendación emitida por la Comisión de Derechos Humanos del Estado de Campeche, a efecto de que expliquen, fundada y motivadamente, la razón de su negativa.
 
 XII.- Las demás que le confiera esta Constitución.
 
@@ -1555,7 +1567,13 @@ Para los efectos de las responsabilidades a que alude este capítulo, se reputa 
 
 Los servidores públicos estatales y municipales tienen, en todo tiempo, la obligación de aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos.
 
-La propaganda que, bajo cualquier modalidad de comunicación social, difundan las dependencias, entidades y órganos de los Poderes Legislativo, Ejecutivo y Judicial del Estado, de los Ayuntamientos y Juntas Municipales, así como los órganos autónomos estatales, deberá tener el carácter de institucional y fines informativos, educativos, de orientación social o de seguridad pública. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público. Lo anterior deberá de regularse en la legislación electoral.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2012)</small>
+
+Todas las autoridades en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Estado deberá prevenir, investigar, sancionar y reparar las violaciones a derechos humanos, en los términos que establezca la ley.
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2012)</small>
+
+La propaganda que, bajo cualquier modalidad de la comunicación social, difundan las dependencias, entidades y órganos de los Poderes Legislativos, Ejecutivo y Judicial del Estado, de los Ayuntamientos y Juntas Municipales, así como los órganos autónomos estatales, deberá tener el carácter de institucional y fines informativos, educativos, de orientación social o de seguridad pública. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público. Lo anterior deberá de regularse en la legislación electoral.
 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 1983)</small>
 
@@ -2586,3 +2604,9 @@ P.O. 8 DE JUNIO DE 2011.
 Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a lo dispuesto en este decreto.
+
+P.O. 16 DE AGOSTO DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
