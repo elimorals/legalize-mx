@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-agricultura-87458"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-04-25"
-last_updated: "2012-04-25"
+last_updated: "2012-08-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87458&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2012-04-19"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE AGRICULTURA, GANADERIA, DESARROLLO RURAL, PESCA Y ALIMENTACION
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE AGOSTO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE AGRICULTURA, GANADERÍA, DESARROLLO RURAL, PESCA Y ALIMENTACIÓN
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 16 DE AGOSTO DE 2012.</small>
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el miércoles 25 de abril de 2012.
 
@@ -275,8 +275,6 @@ XXI. Atender las necesidades administrativas de las unidades que integran a la S
 
 ### CAPÍTULO CUARTO. DEL ABOGADO GENERAL
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE AGOSTO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 9.
 
 El Abogado General tendrá, además de las facultades previstas en el artículo 17 del presente Reglamento, las siguientes:
@@ -315,7 +313,9 @@ XVI. Representar al Secretario, a los Subsecretarios, al Oficial Mayor, Coordina
 
 XVII. Interponer, con la representación de la Secretaría, los recursos que procedan en contra de las resoluciones que emita el Tribunal Federal de Justicia Fiscal y Administrativa;
 
-XVIII. Elaborar y proponer los informes previos y justificados así como promociones donde se ofrezcan pruebas, se formulen alegatos y se promuevan los incidentes y recursos que en materia de amparo deban presentar los servidores públicos de la Secretaría que no están comprendidos en la fracción XV de este artículo y que sean señalados como autoridades responsables; así como elaborar los escritos de demanda o contestación según proceda en las controversias constitucionales o acciones de inconstitucionalidad; intervenir cuando la Secretaría tenga carácter de tercero perjudicado en los juicios de amparo y formular, en general, todas las promociones y actos procesales que a dichos juicios se refieran;
+> <small>(F. DE E., D.O.F. 16 DE AGOSTO DE 2012)</small>
+
+XVIII. Elaborar y proponer los informes previos y justificados así como promociones donde se ofrezcan pruebas, se formulen alegatos y se promuevan los incidentes y recursos que en materia de amparo deban presentar los servidores públicos de la Secretaría que no están comprendidos en la fracción XVI de este artículo y que sean señalados como autoridades responsables; así como elaborar los escritos de demanda o contestación según proceda en las controversias constitucionales o acciones de inconstitucionalidad; intervenir cuando la Secretaría tenga carácter de tercero perjudicado en los juicios de amparo y formular, en general, todas las promociones y actos procesales que a dichos juicios se refieran;
 
 XIX. Representar al Secretario ante el Tribunal Federal de Conciliación y Arbitraje, en los conflictos que se susciten con motivo de la aplicación de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional y de la Ley del Servicio Profesional de Carrera en la Administración Pública Federal; formular dictámenes, demandas de cese de sus empleados, contestación de demandas laborales, formulación y absolución de posiciones, desistimientos o allanamientos y, en general, todas aquellas promociones y actos procesales que se requieran en el curso del procedimiento;
 
@@ -1521,8 +1521,6 @@ II. Proporcionar información suficiente y oportuna al Consejo Técnico sobre lo
 
 III. Coordinar las actividades desarrolladas por las unidades administrativas del Servicio Nacional de Inspección y Certificación de Semillas.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTOS TRANSITORIOS, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE AGOSTO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ## TRANSITORIOS
 
 PRIMERO. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -1543,7 +1541,9 @@ OCTAVO. Las atribuciones previstas en los artículos 37 al 60 del Reglamento que
 
 NOVENO. Las erogaciones que se generen por la entrada en vigor del presente Reglamento Interior, deberán cubrirse con cargo al presupuesto aprobado a la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, en el ejercicio fiscal correspondiente, por lo que aquellas modificaciones que se lleven a cabo a su estructura orgánica, así como a las de los órganos administrativos desconcentrados, se deberán realizar mediante movimientos compensados que no impliquen aumento en el presupuesto regularizable de servicios personales aprobado para el presente ejercicio fiscal y subsecuentes.
 
-DÉCIMO. En tanto se emiten los reglamentos interiores de los órganos administrativos desconcentrados señalados en la fracción II del artículo 2 del presente Reglamento, el Secretario establecerá la estructura orgánica de apoyo administrativo, previamente aprobada por la Secretaría de la Función Pública, de los órganos administrativos desconcentrados, mediante acuerdos que serán publicados en el Diario Oficial de la Federación.
+> <small>(F. DE E., D.O.F. 16 DE AGOSTO DE 2012)</small>
+
+DÉCIMO. En tanto se emiten los reglamentos interiores de los órganos administrativos desconcentrados señalados en el inciso D del artículo 2 del presente Reglamento, el Secretario establecerá la estructura orgánica de apoyo administrativo, previamente aprobada por la Secretaría de la Función Pública, de los órganos administrativos desconcentrados, mediante acuerdos que serán publicados en el Diario Oficial de la Federación.
 
 DÉCIMO PRIMERO. En tanto se emite el Reglamento de la Ley General de Pesca y Acuacultura Sustentables y el Reglamento Interior de la Comisión Nacional de Acuacultura y Pesca, los Delegados de la Secretaría continuarán otorgando permisos y autorizaciones en materia de acuacultura y pesca con excepción de aquéllos cuya expedición competa exclusivamente a la Comisión Nacional de Acuacultura y Pesca, así como atendiendo a las instrucciones de carácter técnico administrativo, sistemas y procedimientos que establezca el titular de dicha Comisión.
 
