@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-37204"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-02-07"
-last_updated: "2012-06-09"
+last_updated: "2012-08-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2012.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 9 DE JUNIO DE 2012, NO APLICA A LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 5 DE JUNIO DE 2012, NÚMERO 7, SECCIÓN II, PÁGINAS 5 A 13.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2012.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 2004.
 
@@ -91,7 +89,9 @@ V. Órganos administrativos y técnicos.
 
 1. El ejercicio de las funciones de los diputados al Congreso del Estado durante tres años constituye el periodo constitucional de una Legislatura.
 
-2. El año legislativo se computa del 1 de febrero al 31 de enero del siguiente año.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2012)</small>
+
+2. El año legislativo se computa del 1.° de noviembre al 31 de octubre del año siguiente.
 
 > <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2006)</small>
 
@@ -105,7 +105,9 @@ V. Órganos administrativos y técnicos.
 
 ###### Artículo 7.
 
-1. En el año de renovación del Congreso del Estado, a las once horas del día veinticinco de enero, y precisamente en el Recinto Oficial del Congreso del Estado, deben reunirse todos los diputados propietarios electos, sin necesidad de previa cita, a efecto de celebrar la Junta Preparatoria.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2012)</small>
+
+1. En el año de renovación del Congreso del Estado, a las 11:00 horas del día 25 de octubre, y precisamente en el Recinto Oficial del Congreso del Estado, deben reunirse todos los diputados propietarios electos, sin necesidad de cita previa, a efecto de celebrar la junta preparatoria.
 
 2. La conducción de la Junta Preparatoria, recae en la Mesa Directiva saliente, quien funge como Comisión Instaladora.
 
@@ -145,11 +147,15 @@ VI. El Presidente de la Comisión Instaladora invita a los diputados electos par
 
 VII. El Presidente de la Comisión de Administración de la Legislatura saliente hace entrega virtual y por riguroso inventario de los muebles, enseres y demás bienes y derechos del Congreso del Estado, al diputado electo para presidir el primer periodo de ejercicio legislativo, de conformidad con el procedimiento que establece la presente ley; y
 
-VIII. El Presidente de la Mesa Directiva de la Legislatura entrante da por terminada la Junta Preparatoria y cita verbalmente a los diputados electos que estén presentes y, por escrito a los que no hayan asistido, a la sesión solemne que se debe verificar a las diez horas del día primero de febrero siguiente.
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2012)</small>
+
+VIII. El Presidente de la Mesa Directiva de la Legislatura entrante da por terminada la junta preparatoria y cita verbalmente a los diputados electos que estén presentes y por escrito a los que no hayan asistido, a la sesión solemne que se debe verificar a las 10:00 horas del día 1.° de noviembre siguiente.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 11.
 
-1. Si el día veintisiete de enero del año de la instalación, la Legislatura entrante no ha rendido protesta por cualquier causa, los diputados electos deben presentarse a las diez horas del mismo día en el Salón de Sesiones a efecto de celebrar la Junta Preparatoria bajo la dirección de la Mesa de Decanos que funge como comisión instaladora, de acuerdo al procedimiento que establece el artículo anterior.
+1. Si el día 27 de octubre del año de la instalación, la Legislatura entrante no ha rendido protesta por cualquier causa, los diputados electos deben presentarse a las 10:00 horas del mismo día en el Salón de Sesiones a efecto de celebrar la junta preparatoria bajo la dirección de la Mesa de Decanos que funge como comisión instaladora, de acuerdo con el procedimiento que establece el artículo anterior.
 
 ###### Artículo 12.
 
@@ -181,13 +187,17 @@ IV. La entrega del patrimonio del Congreso del Estado a la Legislatura entrante;
 
 V. El cotejo que éste realice del inventario del patrimonio del Congreso del Estado que se le entrega.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 15.
 
-1. Los titulares de los órganos técnicos y administrativos del Congreso del Estado, deben remitir a la Comisión de Administración, a más tardar el día quince de diciembre del último año de la Legislatura saliente, la información relativa a los bienes, derechos y obligaciones que les fueron otorgados para el ejercicio de sus funciones.
+1. Los titulares de los órganos técnicos y administrativos del Congreso del Estado deben remitir a la Comisión de Administración, a más tardar el día 15 de septiembre del último año de la Legislatura saliente, la información relativa a los bienes, derechos y obligaciones que les fueron otorgados para el ejercicio de sus funciones.
 
 ###### Artículo 16.
 
-1. A más tardar el día quince de enero del año en que concluye el ejercicio constitucional de la Legislatura, la Comisión de Administración debe entregar el inventario pormenorizado de los bienes, derechos y obligaciones que integran el patrimonio del Congreso del Estado, a la Asamblea, a efectos de que ésta proceda a su estudio, análisis y, en su caso, las modificaciones pertinentes para su aprobación.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2012)</small>
+
+1. A más tardar el día 15 de octubre del año en que concluye el ejercicio constitucional de la Legislatura, la Comisión de Administración debe entregar el inventario pormenorizado de los bienes, derechos y obligaciones que integran el patrimonio del Congreso del Estado a la Asamblea, a efectos de que ésta proceda a su estudio, análisis y, en su caso, las modificaciones pertinentes para su aprobación.
 
 2. El inventario aprobado es la base para el desarrollo del proceso de entrega-recepción del patrimonio del Congreso del Estado.
 
@@ -205,7 +215,9 @@ V. El cotejo que éste realice del inventario del patrimonio del Congreso del Es
 
 ###### Artículo 18.
 
-1. La sesión solemne para la instalación de la Legislatura se celebra a las diez horas del día primero de febrero del año posterior al de la elección, sujetándose al orden siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2012)</small>
+
+1. La sesión solemne para la instalación de la Legislatura se celebra a las 10:00 horas del día 1.° de noviembre del año de la elección, sujetándose al orden siguiente:
 
 I. Se toma lista de los diputados presentes. El Presidente del Congreso del Estado, si está presente la mayoría de los diputados electos, declara la existencia de quórum;
 
@@ -221,19 +233,21 @@ VI. Se da cuenta con las comunicaciones que se hubieren dirigido al Congreso del
 
 VII. Las Fracciones o Grupos Parlamentarios representados en el Congreso del Estado establecen su posición política, respecto del inicio del año legislativo, del estado que guarda la administración pública estatal o de la instalación de la Legislatura, con un orador por cada Fracción Parlamentaria. El orden en que las diferentes Fracciones o Grupos Parlamentarios expresan su posición es en orden ascendente según su representación en la Asamblea;
 
-VIII. Se da cuenta de la recepción o, en su caso, se procede a la presentación por parte del Gobernador del Estado, del informe anual del estado que guarda la administración pública;
+VIII. (DEROGADA, P.O. 16 DE AGOSTO DE 2012)
 
-IX. Una vez recibido el documento que contenga el informe anual del estado que guarda la administración pública, la Mesa Directiva con el apoyo de la Secretaría General, hará llegar una copia del documento íntegro a los diputados;
+IX. (DEROGADA, P.O. 16 DE AGOSTO DE 2012)
 
-X. En su caso, el Presidente del Congreso del Estado da lectura al documento en que se contenga, en lo general, la contestación al informe rendido por el ciudadano Gobernador; y
+X. (DEROGADA, P.O. 16 DE AGOSTO DE 2012)
 
 XI. La Presidencia levanta la sesión, citando para la siguiente sesión.
 
 ### CAPÍTULO IV. Informe de la Legislatura
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 19.
 
-1. El Congreso del Estado, a través de su Presidente debe rendir en sesión solemne el 31 de enero de cada año a la que se invite al Gobernador del Estado y al representante del Poder Judicial del Estado, un informe anual de actividades, el cual debe celebrarse de conformidad con lo que establezca el reglamento.
+1. El Congreso del Estado, a través de su Presidente, debe rendir el 31 de octubre de cada año en sesión solemne a la que se invite al Gobernador del Estado y al representante del Poder Judicial del Estado, un informe anual de actividades, el cual debe celebrarse de conformidad con lo que establezca el reglamento.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE ENERO DE 2007)</small>
 
@@ -339,15 +353,19 @@ I. La elaboración del Plan General del Poder Legislativo, su actualización o m
 
 II. La Agenda Legislativa deberá publicarse dentro de los primeros dos meses de iniciada la legislatura; y
 
-III. Los programas operativos anuales serán aprobados a más tardar el día primero de noviembre de cada año.
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2012)</small>
+
+III. Los programas operativos anuales serán aprobados a más tardar el día 1.° de enero de cada año.
 
 (REUBICADO [N. DE E. ANTES CAPÍTULO V], P.O. 4 DE ENERO DE 2007)
 
 ### CAPÍTULO VI. Clausura de la Legislatura
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 20.
 
-1. El 31 de enero del último año de ejercicio de la Legislatura, en sesión solemne, los diputados salientes declaran clausurada la Legislatura. El Presidente hace la declaración pronunciando (sic) las siguientes palabras: "El día de hoy, 31 de enero de (el año) se clausuran los trabajos de la (su número) Legislatura del Estado Libre y Soberano de Jalisco".
+1. El 31 de octubre del último año de ejercicio de la Legislatura, en sesión solemne, los diputados salientes declaran clausurada la Legislatura. El Presidente hace la declaración pronunciado (sic) las siguientes palabras: "El día de hoy, 31 de octubre de (el año) se clausuran los trabajos de la (su número) Legislatura del Estado Libre y Soberano de Jalisco".
 
 ## TÍTULO TERCERO. DIPUTADOS
 
@@ -525,7 +543,9 @@ I. Los grupos parlamentarios a través de sus coordinadores, deberán entregar a
 
 ###### Artículo 34.
 
-1. La Mesa Directiva es dirigida y coordinada por el Presidente y debe reunirse por lo menos una vez a la semana, durante los períodos comprendidos del 1 de febrero al 31 de marzo y del 15 de septiembre al 15 de diciembre, fuera de los cuales se reúnen cuando así lo convoca el Presidente, conforme lo requiera el calendario de sesiones.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2012)</small>
+
+1. La Mesa Directiva es dirigida y coordinada por el Presidente y debe reunirse por lo menos cuatro veces al mes durante los periodos comprendidos del 1.° de febrero al 31 de marzo y del 1.° de octubre al 31 de diciembre de cada año, fuera de los cuales se reúnen cuando así lo convoca el Presidente, conforme lo requiera el calendario de sesiones.
 
 2. A las reuniones de la Mesa Directiva debe concurrir cualquier funcionario del Congreso del Estado, cuando así se le requiera.
 
@@ -2393,7 +2413,9 @@ IV. Los planes, programas y convenios con otros Congresos y cuerpos parlamentari
 
 1. El Congreso del Estado debe celebrar sesiones cuantas veces sea necesario para el oportuno despacho de los asuntos de su competencia.
 
-2. El Congreso del Estado debe sesionar como mínimo, dos veces por semana durante los períodos comprendidos del primero de febrero al treinta y uno de marzo y del quince de septiembre al quince de diciembre de cada año, fuera de estos periodos debe sesionar cuando menos dos veces por mes.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2012)</small>
+
+2. El Congreso del Estado debe sesionar, como mínimo, cuatro veces al mes durante los periodos comprendidos del 1.° de febrero al 31 de marzo y del 1.° de octubre al 31 de diciembre de cada año, fuera de estos periodos debe sesionar cuando menos una vez al mes.
 
 ###### Artículo 126.
 
@@ -2470,6 +2492,10 @@ a) Nombramiento por la presidencia de comisiones que introduzcan al Recinto Ofic
 b) Las Fracciones o Grupos parlamentarios representados en el Congreso del Estado establecen su posición política, respecto del inicio del año legislativo, del estado que guarda la administración pública estatal o de la instalación de la legislatura, si es el caso, habiendo un orador por cada Fracción parlamentaria. El orden en que las diferentes Fracciones o Grupos parlamentarios expresen su posición será en orden ascendente conforme a su representación. Queda a elección del Gobernador del Estado asistir a esta parte de la sesión, la que en todo caso se llevará a cabo;
 
 c) Ya en el Recinto Oficial el ciudadano Gobernador del Estado, el Presidente del Congreso del Estado le concede la palabra para que rinda el informe a que se refiere la Constitución Política del Estado;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE AGOSTO DE 2012)</small>
+
+En caso de que el ciudadano Gobernador no concurra personalmente a la presentación del informe, el Presidente de la Mesa Directiva dará cuenta de la recepción del documento y, con apoyo de la Secretaría General, lo hará llegar de manera íntegra, en copia, a todos los diputados;
 
 d) El Presidente del Congreso del Estado da lectura al documento en que se contenga, en lo general, la contestación al informe rendido por el ciudadano Gobernador del Estado. El informe mencionado debe ser analizado y comentado por la Asamblea en las sesiones subsecuentes, de conformidad con la ley y las disposiciones reglamentarias;
 
@@ -4102,5 +4128,9 @@ DECRETO NÚMERO 23993/LIX/12, POR LO QUE SE REFORMAN LOS ARTÍCULOS 21 Y 35 DE L
 P.O. 19 DE MAYO DE 2012.
 
 DECRETO NÚMERO 23994/LIX/12, POR LO QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 145 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 16 DE AGOSTO DE 2012
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
