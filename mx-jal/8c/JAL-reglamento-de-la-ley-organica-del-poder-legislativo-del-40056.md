@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40056"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2011-10-08"
+last_updated: "2012-08-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40056&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # REGLAMENTO DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO -ANTES REGLAMENTO DE LEY ORGANICA DEL PODER LEGISLATIVO-
 
-REGLAMENTO DE LEY ORGANICA DEL PODER LEGISLATIVO
+REGLAMENTO DE LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2012.
 
 Reglamento publicado en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 19 de junio de 2004.
 
@@ -31,7 +31,9 @@ Al margen un sello que dice: Gobierno de Jalisco. Poder Legislativo. Secretaría
 
 NÚMERO.- 20544 EL CONGRESO DEL ESTADO DECRETA:
 
-Reglamento de Ley Orgánica del Poder Legislativo
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE AGOSTO DE 2012)</small>
+
+Reglamento de Ley Orgánica del Poder Legislativo del Estado de Jalisco
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -213,7 +215,9 @@ III. Asunto que motivo la convocatoria;
 
 ###### Artículo 19.
 
-1. El día 31 de enero de cada año se celebrará una sesión con carácter de solemne que deberá sujetarse a la siguiente orden del día:
+> <small>(REFORMADO PRIMER PÁRRAFO, 16 DE AGOSTO DE 2012)</small>
+
+1. El día 31 de octubre de cada año se celebrará una sesión con carácter de solemne que deberá sujetarse al siguiente orden del día:
 
 I. Se verifica el registra (sic) de asistencia de los diputados presentes y declara la existencia de quórum;
 
@@ -435,19 +439,19 @@ V. Procedimiento a seguir en caso de no realizarse la elección del Magistrado e
 
 ###### Artículo 48.
 
-(DEROGADO POR TRANSITORIO DECIMO QUINTO DEL CODIGO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE JALISCO, P.O. 5 DE AGOSTO DE 2008)
+(DEROGADO POR TRANSITORIO DÉCIMO QUINTO DEL CODIGO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO, P.O. 5 DE AGOSTO DE 2008)
 
 ###### Artículo 49.
 
-(DEROGADO POR TRANSITORIO DECIMO QUINTO DEL CODIGO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE JALISCO, P.O. 5 DE AGOSTO DE 2008)
+(DEROGADO POR TRANSITORIO DÉCIMO QUINTO DEL CODIGO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO, P.O. 5 DE AGOSTO DE 2008)
 
 ###### Artículo 50.
 
-(DEROGADO POR TRANSITORIO DECIMO QUINTO DEL CODIGO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE JALISCO, P.O. 5 DE AGOSTO DE 2008)
+(DEROGADO POR TRANSITORIO DÉCIMO QUINTO DEL CODIGO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO, P.O. 5 DE AGOSTO DE 2008)
 
 ###### Artículo 51.
 
-(DEROGADO POR TRANSITORIO DECIMO QUINTO DEL CODIGO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE JALISCO, P.O. 5 DE AGOSTO DE 2008)
+(DEROGADO POR TRANSITORIO DÉCIMO QUINTO DEL CODIGO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO, P.O. 5 DE AGOSTO DE 2008)
 
 ### CAPÍTULO IX. PROCEDIMIENTO PARA LA ELECCIÓN DE LOS INTEGRANTES DE LA COMISION ESTATAL DE DERECHOS HUMANOS
 
@@ -619,7 +623,7 @@ V. Las demás que la Ley establezca.
 
 ###### Artículo 73.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE FEBRERO DE 2006)</small>
 
 1. Por cada Comisión habrá un Secretario Técnico, con las siguientes atribuciones:
 
@@ -731,11 +735,11 @@ Artículo 94 C.
 
 Los foros de consulta pública se regirán bajo los principios de institucionalidad, profesionalismo, regionalización, racionalidad de recursos y metodología del manejo de información.
 
-> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2012)</small>
 
-Artículo 94 D.
+###### Artículo 94-D.
 
-Las comisiones que pretendan llevar a cabo foros de consulta pública deberán dar aviso a la Secretaría General, del acuerdo interno donde aprueben la celebración de los mismos, preferentemente durante el mes de febrero o hasta el 30 de abril en caso de ser el primer año de ejercicio de la legislatura.
+1. Las comisiones que pretendan llevar a cabo foros de consulta pública deberán dar aviso a la Secretaría General del acuerdo interno mediante el cual aprueben la celebración de los mismos, preferentemente durante el mes de noviembre o hasta el 30 de abril en caso de ser el primer año de ejercicio de la Legislatura.
 
 > <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2005)</small>
 
@@ -839,7 +843,7 @@ B) Los términos para la dictaminación a los que se refiere la ley, iniciaran a
 
 2. La Comisión de Puntos Constitucionales, Estudios Legislativos y Reglamentos, tendrá un plazo de cuatro días hábiles, para emitir su opinión si las tuviere, que será anexada al dictamen.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE OCTUBRE DE 2005)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE OCTUBRE DE 2005)</small>
 
 ### CAPÍTULO VI. DE LAS SANCIONES
 
@@ -921,7 +925,7 @@ V. Haber presentado a la Asamblea solicitud de separación del cargo de diputado
 
 1. Si fuere el caso, el legislador que faltare a reunión de comisión se podrá dirigir por escrito al presidente de la comisión de la que forma parte para que la posible justificación de su inasistencia se ponga a consideración de los miembros de la misma, la solicitud deberá quedar asentada en el acta.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE FEBRERO DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE FEBRERO DE 2006)</small>
 
 ### CAPÍTULO ÚNICO. FINALIDAD Y FUNCIONES COMUNES
 
@@ -985,11 +989,13 @@ IX. Las demás que les sean encomendadas a través de los procedimientos y facul
 
 1. La Secretaría General del Congreso tendrá a su cargo, las direcciones que señala la ley.
 
-2. Las Direcciones deberán presentar un proyecto de presupuesto al Secretario General a más tardar en el mes de agosto de cada año, así como un proyecto de actividades a más tardar en el mes de Marzo.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2012)</small>
+
+2. Las direcciones deberán presentar un proyecto de presupuesto al Secretario General a más tardar en el mes de agosto de cada año, asi como un proyecto de actividades a más tardar en el mes de diciembre.
 
 ###### Artículo 106.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ENERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ENERO DE 2006)</small>
 
 1. Además de las atribuciones que señala la Ley Orgánica del Poder Legislativo, el Secretario General del Congreso tendrá las siguientes obligaciones:
 
@@ -1437,7 +1443,9 @@ XII. Los demás que le instruya la Asamblea y la Comisión de Hacienda y Presupu
 
 ###### Artículo 121.
 
-1. Los requerimientos de las comisiones, grupos parlamentarios y diputados serán atendidos por el Órgano Técnico de Hacienda Pública dentro de los lineamientos del programa anual que al efecto sea aprobado por la Comisión de Hacienda. Dicho programa deberá ser aprobado anualmente a más tardar en el mes de febrero, salvo en el año de inicio de la legislatura, que tendrán un mes más para su aprobación.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2012)</small>
+
+1. Los requerimientos de las comisiones, grupos parlamentarios y diputados serán atendidos por el Órgano Técnico de Hacienda Pública dentro de los lineamientos del programa anual que al efecto sea aprobado por la Comisión de Hacienda. Dicho programa deberá ser aprobado anualmente a más tardar en el mes de enero.
 
 2. El Órgano Técnico de Hacienda Pública no podrá entregar, por sí mismo, información a entidades ajenas al Congreso.
 
@@ -1493,7 +1501,7 @@ b) Área de Apoyo Legislativo.
 
 ###### Artículo 131.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE FEBRERO DE 2006)</small>
 
 1. Son atribuciones del Instituto de Investigaciones y Estudios Legislativos, además de las establecidas en la Ley, las siguientes:
 
@@ -1677,11 +1685,11 @@ XII. Catálogos de formato.
 
 Las bases, criterios y procedimientos de las adquisiciones de bienes, contratación de arrendamientos, prestación de servicios, enajenaciones y obra pública, se hará de conformidad con el Título siguiente; y en su caso, con la legislación aplicable.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
 ## TÍTULO DÉCIMO TERCERO. DE ADQUISICIONES DE BIENES, SERVICIOS Y ENAJENACIONES DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
 ### CAPÍTULO SEGUNDO. DEL FUNCIONAMIENTO
 
@@ -1757,7 +1765,7 @@ II. Los representantes del Consejo Económico Social y la Competitividad por su 
 
 3. Los representantes del Consejo Económico Social y la Competitividad que hubieren concurrido al Comité integrado por la Legislatura inmediata anterior, se tendrán por miembros del Comité que integre la nueva Legislatura, en tanto aquel no revoque su nombramiento.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
 ### CAPÍTULO TERCERO. DE LAS FACULTADES DEL COMITÉ
 
@@ -1811,7 +1819,7 @@ VII. Cierre de la sesión.
 
 1. En la primera sesión del Comité, se darán a conocer los nombres de las personas que fungirán como integrantes de la misma.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
 ### CAPÍTULO CUARTO. DE LA ADQUISICIÓN DE LOS BIENES O SERVICIOS
 
@@ -1875,7 +1883,7 @@ III. Desarrollar en las sesiones los puntos establecidos en el artículo 10; y
 
 IV. Las demás que le sean asignadas por el Coordinador o por el propio Comité.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
 ### CAPÍTULO QUINTO. DEL PADRÓN DE PROVEEDORES
 
@@ -1993,7 +2001,7 @@ IV. Entidades públicas federales.
 
 1. En los pedidos y contratos se estipularan las condiciones de calidad, precio y en su caso financiamiento, anticipo, tiempo de entrega, enajenación de los trabajos, forma de pago y garantías y, cuando fuere necesario, la capacitación del personal que opere los bienes que se adquieran.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
 ### CAPÍTULO SEXTO. DE LOS PROCEDIMIENTOS DE ADQUISICIÓN
 
@@ -2071,7 +2079,7 @@ IV. No informe oportunamente los cambios en la información proporcionada al mom
 
 1. La inscripción en el Padrón no es obligatoria, ya que cualesquier proveedor podrá participar en las adquisiciones, siempre y cuando cumpla con los requisitos establecidos en el presente título.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
 ### CAPÍTULO SÉPTIMO. DE LAS SANCIONES
 
@@ -2129,7 +2137,7 @@ III. Adjudicación directa: cuyos montos serán aquellos que sean iguales o supe
 
 1. Los proveedores serán responsables por los defectos, vicios ocultos o falta de calidad en general, en los bienes o servicios o por cualquier otro incumplimiento en que hubieren incurrido en los términos del pedido, de conformidad a los términos establecidos en la fianza presentada.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
 ### CAPÍTULO OCTAVO. DE LA SUSPENSIÓN O CANCELACIÓN DE LAS ADJUDICACIONES
 
@@ -2143,7 +2151,7 @@ III. Adjudicación directa: cuyos montos serán aquellos que sean iguales o supe
 
 2. Toda adquisición que se haga en contravención de las normas establecidas en este título es nula de pleno derecho.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 182.
 
@@ -2239,7 +2247,7 @@ ENRIQUE GARCÍA HERNÁNDEZ
 
 (RÚBRICA)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 18 DE DICIEMBRE DE 2004.
 
@@ -2257,7 +2265,7 @@ SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicaci
 
 P.O. 11 DE OCTUBRE DE 2005.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE JALISCO.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE JALISCO.
 
 P.O. 20 DE OCTUBRE DE 2005.
 
@@ -2273,7 +2281,7 @@ P.O. 7 DE ENERO DE 2006.
 
 P.O. 18 DE FEBRERO DE 2006.
 
-DECRETO NUMERO 21215-LVII/06, POR EL QUE SE ADICIONA EL CAPITULO VI AL TITULO SEPTIMO DEL REGLAMENTO DE LEY ORGANICA DEL PODER LEGISLATIVO.
+DECRETO NÚMERO 21215-LVII/06, POR EL QUE SE ADICIONA EL CAPÍTULO VI AL TÍTULO SÉPTIMO DEL REGLAMENTO DE LEY ORGÉNICA DEL PODER LEGISLATIVO.
 
 PRIMERO. Se deja sin efectos el acuerdo legislativo 466/04 de 14 de septiembre del 2004, mediante el cual se establecen las reglas y lineamientos para la disposición, uso y rendición de cuentas de los recursos asignados a las comisiones y comités.
 
@@ -2281,25 +2289,25 @@ SEGUNDO. El presente decreto entrara en vigor al día siguiente de su publicaci�
 
 P.O. 18 DE FEBRERO DE 2006.
 
-DECRETO NUMERO 21216-LVII/06, POR EL QUE SE MODIFICA EL ARTICULO 21 DEL REGLAMENTO DE LEY ORGANICA DEL PODER LEGISLATIVO.
+DECRETO NÚMERO 21216-LVII/06, POR EL QUE SE MODIFICA EL ARTÍCULO 21 DEL REGLAMENTO DE LEY ORGÁNICA DEL PODER LEGISLATIVO.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 18 DE FEBRERO DE 2006.
 
-DECRETO NUMERO 21217-LVII/06, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 73, 106, 110, 111, 131, 132 Y 133 DEL REGLAMENTO DE LEY ORGANICA DEL PODER LEGISLATIVO.
+DECRETO NÚMERO 21217-LVII/06, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 73, 106, 110, 111, 131, 132 Y 133 DEL REGLAMENTO DE LEY ORGÁNICA DEL PODER LEGISLATIVO.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 13 DE JULIO DE 2006.
 
-DECRETO NUMERO 21375-LVII/06, POR EL QUE SE REFORMA EL ARTICULO 106 DEL REGLAMENTO DE LEY ORGANICA DEL PODER LEGISLATIVO.
+DECRETO NÚMERO 21375-LVII/06, POR EL QUE SE REFORMA EL ARTÍCULO 106 DEL REGLAMENTO DE LEY ORGÁNICA DEL PODER LEGISLATIVO.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 13 DE JULIO DE 2006.
 
-DECRETO NUMERO 21377-LVII/06, POR EL QUE SE ADICIONA EL ARTICULO 82 DEL REGLAMENTO DE LEY ORGANICA DEL PODER LEGISLATIVO.
+DECRETO NÚMERO 21377-LVII/06, POR EL QUE SE ADICIONA EL ARTÍCULO 82 DEL REGLAMENTO DE LEY ORGÁNICA DEL PODER LEGISLATIVO.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
@@ -2353,13 +2361,13 @@ P.O. 20 DE NOVIEMBRE DE 2010.
 
 P.O. 10 DE FEBRERO DE 2011.
 
-DECRETO NUMERO 23481/LIX/10, POR EL QUE SE SE ADICIONA EL CAPITULO V Y EL ARTICULO 134 BIS DEL REGLAMENTO DE LA LEY ORGANICA DEL PODER LEGISLATIVO.
+DECRETO NÚMERO 23481/LIX/10, POR EL QUE SE ADICIONA EL CAPÍTULO V Y EL ARTÍCULO 134 BIS DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 10 DE FEBRERO DE 2011.
 
-DECRETO NUMERO 23485/LIX/10, POR EL QUE SE SE REFORMA EL ARTICULO 12 DEL REGLAMENTO DE LA LEY ORGANICA DEL PODER LEGISLATIVO.
+DECRETO NÚMERO 23485/LIX/10, POR EL QUE SE REFORMA EL ARTÍCULO 12 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
@@ -2368,5 +2376,9 @@ P.O. 15 DE SEPTIEMBRE DE 2011.
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 8 DE OCTUBRE DE 2011.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 16 DE AGOSTO DE 2012.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
