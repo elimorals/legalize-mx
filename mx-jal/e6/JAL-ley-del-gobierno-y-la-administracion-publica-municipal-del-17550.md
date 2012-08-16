@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2012-03-31"
+last_updated: "2012-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2012.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -389,9 +389,11 @@ Nadie puede excusarse de ejercer el cargo para el que fue electo, sino por causa
 
 Todos los servidores públicos municipales, al tomar posesión de sus cargos, deben rendir la protesta de Ley correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 14.
 
-El Presidente Municipal saliente debe convocar a los integrantes electos del Ayuntamiento, para que se presenten el día 31 de diciembre del año de la elección a la hora que se señale en la convocatoria, y les debe tomar la protesta de ley.
+El Presidente Municipal saliente debe convocar a los integrantes electos del ayuntamiento, para que se presenten el día 30 de septiembre del año de la elección a la hora que se señale en la convocatoria, y les debe tomar protesta de ley.
 
 Si el Presidente Municipal saliente no cumple con esa obligación, el Presidente Municipal entrante debe rendir la protesta de ley ante el resto de los integrantes electos del Ayuntamiento y a continuación, el propio Presidente debe tomar dicha protesta a los demás miembros del Ayuntamiento.
 
@@ -429,13 +431,11 @@ La obligación contenida en el párrafo anterior debe cumplirse el día siguient
 
 Los documentos firmados por los nuevos titulares a manera de recibos, sólo acreditan la recepción material de los bienes entregados, sin que esto los exima de las responsabilidades que puedan proceder.
 
-(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 17.
 
-El Ayuntamiento entrante debe proceder, a través de sus dependencias y entidades, a realizar el inventario del patrimonio municipal existente, anexando al mismo una relación del estado en que se encuentren los bienes de dominio público con que cuenta el Municipio; a fin de cotejar el inventario de los bienes del Municipio con el de la administración anterior a más tardar el día treinta y uno de enero del año posterior al de la elección.
+El ayuntamiento entrante debe proceder, a través de sus dependencias y entidades, a realizar el inventario del patrimonio municipal existente, anexando al mismo una relación del estado en que se encuentren los bienes de dominio público con que cuenta el municipio; a fin de cotejar el inventario de los bienes del municipio con el de la administración anterior a más tardar el día 31 de octubre del año posterior al de la elección.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2008)</small>
 
@@ -1015,7 +1015,9 @@ VI. Cuidar el buen estado y mejoramiento de los bienes pertenecientes al Municip
 
 VII. VIGILAR QUE LAS DEPENDENCIAS Y ENTIDADES ENCARGADAS DE LOS DISTINTOS SERVICIOS MUNICIPALES CUMPLAN EFICAZMENTE CON SU COMETIDO;
 
-VIII. Rendir informe al Ayuntamiento del ejercicio de la administración dentro de los primeros quince días del mes de diciembre de cada año, en la fecha que se fije con la oportunidad necesaria, la que se hará saber a las autoridades estatales y a los ciudadanos en general;
+> <small>(REFORMADA P.O. 16 DE AGOSTO DE 2012)</small>
+
+VIII. Rendir informe al Ayuntamiento del ejercicio de la administración dentro de los primeros quince días del mes de septiembre de cada año, en la fecha que se fije con la oportunidad necesaria, la que se hará saber a las autoridades estatales y a los ciudadanos en general;
 
 IX. Comunicar al Ayuntamiento cuando pretenda ausentarse del Municipio por más de setenta y dos horas, y hasta por quince días consecutivos. Cuando la ausencia exceda de este término, debe solicitar la autorización correspondiente al Ayuntamiento;
 
@@ -1445,11 +1447,9 @@ En ningún caso, los ediles a los que se conceda licencia temporal o definitiva,
 
 (NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA DEROGACIÓN DE ESTE ARTÍCULO INDICADA CON MINÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-artículo 73. (derogado, p.o. 5 de enero de 2007)
-
 ###### Artículo 73.
 
-(DEROGADO, P.O. 5 DE ENERO DE 2007)
+(derogado, p.o. 5 de enero de 2007)
 
 ###### Artículo 74.
 
@@ -2890,3 +2890,7 @@ P.O. 14 DE FEBRERO DE 2012.
 P.O. 31 DE MARZO DE 2012.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 16 DE AGOSTO DE 2012.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
