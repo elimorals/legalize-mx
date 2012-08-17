@@ -4,7 +4,7 @@ identifier: "COA-ley-del-instituto-coahuilense-de-las-mujeres-20254"
 country: "mx"
 rank: "ley"
 publication_date: "2001-02-13"
-last_updated: "2009-05-12"
+last_updated: "2012-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 LEY DEL INSTITUTO COAHUILENSE DE LAS MUJERES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO COAHUILENSE DE LAS MUJERES DEL ESTADO DE COAHUILA, PUBLICADO EN EL P.O. 17 DE AGOSTO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 13 de febrero de 2001.
 
@@ -648,3 +650,41 @@ Subprocurador de Control de Procesos y Legalidad: Fiscal de Control de Procesos 
 Subprocurador Jurídico de Profesionalización y de Proyectos: Fiscal Jurídico, de Profesionalización y de Proyectos.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE AGOSTO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abrogan la Ley del Instituto Estatal de la Juventud publicada en el periódico Oficial del Estado el 12 de mayo de 2009, y la Ley del Instituto Coahuilense de las Mujeres, publicada en el Periódico Oficial del Gobierno del Estado de Coahuila, el 13 de febrero de 2001.
+
+###### ARTÍCULO TERCERO.
+
+En los casos en que otras leyes concedan atribuciones a dependencias con denominación distinta a las Secretarías que se crean o a los Institutos Coahuilense de la Juventud y Coahuilense de las Mujeres, se entenderán conferidas a las mismas en la forma y términos en que las propias leyes lo dispongan.
+
+###### ARTÍCULO CUARTO.
+
+Se ordena la disolución del Instituto Coahuilense de la Juventud y del Instituto Coahuilense de las Mujeres, con la intervención de la Secretaría de Finanzas y la Secretaría de Fiscalización y Rendición de Cuentas.
+
+###### ARTÍCULO QUINTO.
+
+Los recursos materiales, financieros y humanos de los Institutos referidos pasan a formar parte de las Secretarías que se crean.
+
+###### ARTÍCULO SEXTO.
+
+Los trabajadores que con motivo de la aplicación de la presente reforma deban quedar adscritos a una unidad administrativa distinta a su centro de trabajo, en ninguna forma resultarán afectados en sus derechos laborales.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los asuntos en trámite que con motivo de esta reforma deban pasar de una dependencia a otra, permanecerán en el estado que se encuentren hasta que las unidades administrativas que las deban recibir tomen conocimiento de ellos, a excepción, de los asuntos sujetos a plazos improrrogables.
+
+###### ARTÍCULO OCTAVO.
+
+El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías que se crean dentro de los 60 días posteriores a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO NOVENO.
+
+Se derogan las disposiciones legales que se opongan al presente Decreto.
