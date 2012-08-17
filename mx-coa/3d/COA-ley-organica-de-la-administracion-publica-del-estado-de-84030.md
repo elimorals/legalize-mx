@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-administracion-publica-del-estado-de-84030"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-11-30"
-last_updated: "2012-06-26"
+last_updated: "2012-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84030&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE SEPTIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2012.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Coahuila, el miércoles 30 de noviembre de 2011.
 
@@ -319,13 +321,13 @@ II. Tener pleno uso y goce de sus derechos políticos;
 
 III. Tener un modo honesto de vivir, gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión. Si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime la buena fama en concepto público, quedará inhabilitado para ocupar el cargo, cualquiera que haya sido la pena, y
 
-IV. En el caso de la Secretaría de Desarrollo Social, no haber ocupado un cargo de elección popular en los diez años anteriores a la fecha de su designación.
+IV. (DEROGADA, P.O. 17 DE AGOSTO DE 2012)
 
 Los requisitos legales y el procedimiento específico para la designación de quien ocupe la titularidad de la Procuraduría General de Justicia serán los establecidos en la Constitución Política del Estado y en la ley de la materia.
 
 Para ser titular de la Consejería Jurídica se deberán reunir los mismos requisitos que para ocupar la titularidad de la Procuraduría General de Justicia.
 
-Quien ocupe el despacho de la Secretaría de Desarrollo Social y desee competir por un cargo de elección popular, deberá retirarse de su encomienda dos años antes del día en que iniciaría el ejercicio del cargo al que aspire.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 17 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 17.
 
@@ -381,19 +383,41 @@ VIII. Secretaría de Gestión Urbana, Agua y Ordenamiento Territorial;
 
 IX. Secretaría de Infraestructura;
 
-X. Secretaría de Medio Ambiente;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2012)</small>
 
-XI. Secretaría de Salud;
+X. Secretaría de la Juventud;
 
-XII. Secretaría de Seguridad Pública;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2012)</small>
 
-XIII. Secretaría del Trabajo;
+XI. Secretaría de Medio Ambiente;
 
-XIV. Secretaría de Turismo;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2012)</small>
 
-XV. Secretaría de Fiscalización y Rendición de Cuentas, y
+XII. Secretaría de las Mujeres;
 
-XVI. Procuraduría General de Justicia del Estado.
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2012)</small>
+
+XIII. Secretaría de Salud;
+
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2012)</small>
+
+XIV. Secretaría de Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2012)</small>
+
+XV. Secretaría del Trabajo;
+
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2012)</small>
+
+XVI. Secretaría de Turismo;
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2012)</small>
+
+XVII. Secretaría de Fiscalización y Rendición de Cuentas, y
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2012)</small>
+
+XVIII. Procuraduría General de Justicia del Estado.
 
 Quienes sean titulares de las secretarías y de la Procuraduría General de Justicia, integrarán el gabinete legal.
 
@@ -651,7 +675,9 @@ XII. Asegurar la adecuada distribución y abastecimiento de los productos de con
 
 XIII. Formular y ejecutar políticas públicas que aseguren el tránsito hacia una sociedad más igualitaria;
 
-XIV. Diseñar, coordinar y ejecutar la política de atención a la juventud atendiendo a su desarrollo pleno;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2012)</small>
+
+XIV. Coordinar las acciones y actividades del Comité para el Desarrollo del Estado de Coahuila de Zaragoza.
 
 XV. Formular, ejecutar y evaluar planes y programas en beneficio de personas adultas mayores, con discapacidad, y demás población en situación de vulnerabilidad o de marginación;
 
@@ -869,6 +895,50 @@ VIII. Participar en los procesos de expropiación de inmuebles por causas de uti
 
 IX. Coadyuvar en la conservación del patrimonio histórico y cultural de la entidad.
 
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2012)</small>
+
+ARTÍCULO 31 BIS. A la Secretaría de la Juventud le corresponde el despacho de los siguientes asuntos:
+
+I. Formular y ejecutar políticas encaminadas al desarrollo integral de la juventud que impacten e incidan en los Planes Nacional y Estatal de Desarrollo;
+
+II. Diseñar y ejecutar acciones con perspectivas de equidad de género y de diversidad juvenil para incorporar de manera plena y efectiva a los jóvenes en el desarrollo del Estado;
+
+III. Diseñar y ejecutar coordinadamente el trabajo interinstitucional con dependencias y entidades de la Administración Pública Federal, Estatal, Municipal y la sociedad civil, acciones a favor de los jóvenes;
+
+IV. Promover la defensa de los derechos de la juventud;
+
+V. Realizar, promover, actualizar y difundir estudios e investigaciones, relacionados con el sector juvenil;
+
+VI. Realizar talleres de investigación social en localidades rurales y urbanas, que permitan conocer la problemática de los jóvenes y plantear alternativas de solución;
+
+VII. Promover una cultura emprendedora que permita generar el autoempleo y crear nuevas fuentes de trabajo;
+
+VIII. Promocionar la oferta educativa, y fomentar la superación académica;
+
+IX. Fomentar y reforzar los valores éticos que permitan mantener la integridad familiar y fortalezcan el tejido social;
+
+X. Promover acciones para hacer conciencia en los jóvenes de la importancia de su salud integral;
+
+XI. Generar y en su caso canalizar propuestas, necesidades e inquietudes de la juventud a los organismos públicos, privados y sociales que correspondan;
+
+XII. Promover el reconocimiento público de jóvenes destacados en diferentes ámbitos y actividades;
+
+XIII. Promover la creación de instancias municipales de la juventud;
+
+XIV. Promover espacios de participación, recreación, expresión y sano entretenimiento para los jóvenes;
+
+XV. Fomentar la creación de organizaciones juveniles con cultura de liderazgo social y apoyar las ya existentes para el desarrollo de proyectos que beneficien a la juventud;
+
+XVI. Fomentar en los medios de comunicación mayores espacios de interlocución entre los mismos jóvenes;
+
+XVII. Promover una cultura de activación física y práctica deportiva en toda la juventud de la entidad, así como promover el deporte de alto rendimiento;
+
+XVIII. Promover el acercamiento y disfrute de las expresiones culturales y artísticas, así como incentivar y apoyar la creación en estos campos;
+
+XIX. Promover la concientización juvenil acerca de los valores cívicos, la identidad histórica de la sociedad coahuilense y el respeto a la patria; así como el arraigo y práctica del altruismo, la solidaridad, los derechos humanos, medio ambiente y el desarrollo sustentable, y
+
+XX. Difundir y propiciar la oferta gubernamental y no gubernamental, las demandas y necesidades de los jóvenes, haciendo énfasis en las áreas de empleo, educación, salud integral, medio ambiente, cultura, recreación y uso adecuado del tiempo libre.
+
 ###### ARTÍCULO 32.
 
 A la Secretaría de Medio Ambiente le corresponde el despacho de los siguientes asuntos:
@@ -912,6 +982,74 @@ XVIII. Coadyuvar con las autoridades municipales en el diseño de programas que 
 XIX. Promover la determinación de criterios para el establecimiento de los estímulos fiscales y financieros para el aprovechamiento sustentable de los recursos naturales y el cuidado del medio ambiente, e
 
 XX. Integrar proyectos autofinanciables o susceptibles de concesión en materia de medio ambiente.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2012)</small>
+
+ARTÍCULO 32 BIS. A la Secretaría de las Mujeres le corresponde el despacho de los siguientes asuntos:
+
+l. Elaborar, coordinar y aplicar el Programa Estatal de las Mujeres que deberá contener los objetivos, estrategias y líneas de acción para lograr el avance en la equidad entre las mujeres y los hombres;
+
+II. Coordinar, dar seguimiento y evaluar las acciones que lleven a cabo las dependencias y entidades estatales, en el marco del Programa Estatal de las Mujeres;
+
+III. Vigilar que se observen las disposiciones establecidas en los tratados internacionales que en materia de los derechos humanos de las mujeres hayan sido ratificados por el Senado de la República;
+
+IV. Impulsar la ejecución de políticas y acciones de fomento económico, educativo, de salud, de asistencia y desarrollo social y, en general, de participación de las mujeres en los ámbitos de decisión colectiva e individual;
+
+V. Promover y participar con las instancias que correspondan en el seguimiento y operación de programas relativos a las mujeres que emanen del gobierno federal y del ámbito internacional en esta materia;
+
+VI. Impulsar en el Subcomité de la Mujer, en el seno del Comité de Planeación para el Desarrollo del Estado, la actualización y planeación de políticas públicas que incorporen la perspectiva de género. Así mismo impulsar ante el Congreso del Estado el establecimiento de presupuestos etiquetados a las diversas dependencias de gobierno con perspectiva de género;
+
+VII. Establecer y operar, en coordinación con el Comité de Planeación para el Desarrollo del Estado de Coahuila, un sistema de seguimiento de los programas federales, estatales y municipales en la materia, de conformidad a lo previsto en las disposiciones aplicables. Así mismo promover ante las tres instancias de gobierno, que toda información se genere por dichas dependencias, sea seleccionada de manera desagregada por sexo;
+
+VIII. Promover ante los ayuntamientos la participación de las mujeres en los Consejos de Planeación del Desarrollo Municipal, así como ante las instancias que correspondan la incorporación de las mujeres en los distintos órganos de participación comunitaria que las leyes establezcan;
+
+IX. Coadyuvar en la vigilancia del debido cumplimiento de las disposiciones legales que forman parte del orden jurídico sobre las mujeres;
+
+X. Proponer, en coordinación con las Comisiones de Equidad y Género de los poderes legislativos federal y local, las reformas al marco legal que permitan el avance en la igualdad entre mujeres y hombres y el desarrollo de acciones conjuntas en beneficio de las mujeres coahuilenses;
+
+XI. Asegurar la adecuada instrumentación de acciones en favor de las mujeres, a través del establecimiento de estrategias de difusión, investigación y análisis de información, relativas a su problemática, a fin de facilitar la reorientación del diseño de acciones en su beneficio y la evaluación de su impacto en la sociedad;
+
+XII. Promover y procurar que las mujeres disfruten de todos los derechos que les están reconocidos en los ordenamientos e instrumentos jurídicos internacionales, nacionales y/o locales, así como impulsar acciones para difundirlos, defenderlos y combatir las prácticas de violación a los mismos;
+
+XIII. Promover, en el ámbito de su competencia y ante las instancias que correspondan, el desarrollo de metodologías y estrategias para la capacitación y el adiestramiento en y para el trabajo;
+
+XIV. Promover e impulsar la creación de fuentes de empleo y el financiamiento de créditos productivos, sociales y de servicios, para las mujeres;
+
+XV. Impulsar ante las instancias que correspondan la prestación de servicios suficientes, eficientes y adecuados de apoyo a las madres y padres trabajadores;
+
+XVI. Promover ante las autoridades competentes que los materiales educativos y sus contenidos estén libres de estereotipos y prejuicios discriminatorios hacia las mujeres, sino que fomenten la igualdad de derechos y oportunidades para hombres y mujeres;
+
+XVII. Impulsar y promover ante las autoridades competentes que se garantice el acceso de las mujeres y se aliente su permanencia o, en su caso, el reingreso en todos los niveles y modalidades del sistema estatal educativo, favoreciendo, a través del proceso de enseñanza-aprendizaje; la igualdad de oportunidades para mujeres y hombres;
+
+XVIII. Propiciar el acceso de las mujeres adultas mayores y/o de aquellas con discapacidad, a los programas sociales y culturales que se establezcan en la entidad o que la propia Secretaría promueva;
+
+XIX. Promover ante las autoridades en materia de salud, así como ante instituciones de salud, privadas y/o sociales, el acceso de las mujeres a servicios integrales y eficientes de atención, considerando las características particulares de su ciclo de vida, condición social y ubicación geográfica;
+
+XX. Proponer ante las instancias competentes, las adecuaciones que correspondan sobre la salud y el respeto de los derechos sexuales, reproductivos de las mujeres;
+
+XXI. Promover en el ámbito de su competencia y ante las instancias que correspondan, con perspectiva de género, la ejecución de acciones de combate a la pobreza, marginación y exclusión de las mujeres, especialmente las del medio rural;
+
+XXII. Promover ante las instancias que correspondan, la actualización y el fortalecimiento de los mecanismos jurídicos que aseguren el ejercicio integro de los derechos de las mujeres. Así mismo, estimular la participación activa de las organizaciones que actúan en la promoción y defensa de los derechos de las mujeres;
+
+XXIII. Promover y coadyuvar con las instancias competentes, la realización de acciones tendientes a prevenir, atender y erradicar la violencia contra las mujeres y, específicamente, la violencia familiar;
+
+XXIV. Promover acciones que tengan por objeto el reconocimiento social a las aportaciones de las mujeres y a su participación en todos los ámbitos de la vida social en igualdad de condiciones con el hombre;
+
+XXV. Impulsar en los medios de comunicación una cultura de igualdad entre mujeres y hombres, la eliminación de imágenes estereotipadas de género y el respeto a la dignidad de las personas;
+
+XXVI. Gestionar el financiamiento para apoyar el desarrollo de programas y proyectos de instituciones, organizaciones sociales y no gubernamentales que beneficien a las mujeres;
+
+XXVII. Solicitar asesoría de organismos nacionales e internacionales que apoyen proyectos dirigidos a las mujeres;
+
+XXVIII. Asesorar y apoyar a los municipios de la entidad que lo soliciten, en la formulación de sus programas de las mujeres;
+
+XXIX. Promover y celebrar acuerdos de coordinación y convenios de concertación y colaboración con los y las representantes de los sectores público, privado y social, así como con instituciones educativas y de investigaciones públicas o privadas que se requieran para el cumplimiento de su objeto, de conformidad con las disposiciones aplicables;
+
+XXX. Promover el derecho a la tecnología de información, con el fin de reducir la brecha digital entre mujeres y hombres;
+
+XXXI. Crear un Consejo de Participación Ciudadana, integrado por representantes de los distintos sectores de la sociedad, y
+
+XXXII. Las demás que le confiera esta ley u otras disposiciones aplicables.
 
 ###### ARTÍCULO 33.
 
@@ -1077,6 +1215,8 @@ XIV. Impulsar las actividades, eventos y espectáculos que difundan los atractiv
 
 XV. Administrar y, en su caso, proponer la concesión de los servicios comerciales y de apoyo al turista, así como promover su mejora, ampliación y modernización.
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE SEPTIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 ###### ARTÍCULO 37.
 
 A la Secretaría de Fiscalización y Rendición de Cuentas, le corresponde el despacho de los siguientes asuntos:
@@ -1089,7 +1229,9 @@ III. Verificar el cumplimento por parte de las dependencias y entidades de las d
 
 IV. Establecer las normas generales para la realización de auditorías, inspecciones y evaluaciones a las dependencias y entidades, así como realizar estas acciones con el objeto de promover la eficiencia en las operaciones y verificar el cumplimiento de los objetivos contenidos en sus programas;
 
-V. Designar los comisarios y órganos de vigilancia de las entidades paraestatales, así como designar, coordinar y asesorar a quienes sean titulares de los órganos de control interno de las dependencias y de la Procuraduría General de Justicia;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2012)</small>
+
+V. Designar los comisarios y órganos de vigilancia de las entidades paraestatales, así como designar, coordinar y asesorar a quienes sean titulares de los órganos de control interno de las dependencias y de la Procuraduría General de Justicia, quienes dependerán jerárquicamente de la Secretaría.
 
 VI. Asignar la participación de auditores externos y consultores que coadyuven en el cumplimiento de las funciones de verificación y vigilancia que le competen, así como normar y controlar su desempeño;
 
@@ -1266,3 +1408,43 @@ SEXTO.- Los servicios que hasta antes de la entrada en vigor del presente decret
 SÉPTIMO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 
 OCTAVO.- El Organismo Público desconcentrado denominado Comisión Estatal de Vivienda, deberá emitir su reglamento en un término de 6 meses a partir de la entrada en vigor del presente decreto.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTOS TRANSITORIOS, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE SEPTIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+P.O. 17 DE AGOSTO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abrogan la Ley del Instituto Estatal de la Juventud publicada en el periódico Oficial del Estado el 12 de mayo de 2009, y la Ley del Instituto Coahuilense de las Mujeres, publicada en el Periódico Oficial del Gobierno del Estado de Coahuila, el 13 de febrero de 2001.
+
+###### ARTÍCULO TERCERO.
+
+En los casos en que otras leyes concedan atribuciones a dependencias con denominación distinta a las Secretarías que se crean o a los Institutos Coahuilense de la Juventud y Coahuilense de las Mujeres, se entenderán conferidas a las mismas en la forma y términos en que las propias leyes lo dispongan.
+
+###### ARTÍCULO CUARTO.
+
+Se ordena la disolución del Instituto Coahuilense de la Juventud y del Instituto Coahuilense de las Mujeres, con la intervención de la Secretaría de Finanzas y la Secretaría de Fiscalización y Rendición de Cuentas.
+
+###### ARTÍCULO QUINTO.
+
+Los recursos materiales, financieros y humanos de los Institutos referidos pasan a formar parte de las Secretarías que se crean.
+
+###### ARTÍCULO SEXTO.
+
+Los trabajadores que con motivo de la aplicación de la presente reforma deban quedar adscritos a una unidad administrativa distinta a su centro de trabajo, en ninguna forma resultarán afectados en sus derechos laborales.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los asuntos en trámite que con motivo de esta reforma deban pasar de una dependencia a otra, permanecerán en el estado que se encuentren hasta que las unidades administrativas que las deban recibir tomen conocimiento de ellos, a excepción, de los asuntos sujetos a plazos improrrogables.
+
+###### ARTÍCULO OCTAVO.
+
+El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías que se crean dentro de los 60 días posteriores a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO NOVENO.
+
+Se derogan las disposiciones legales que se opongan al presente Decreto.
