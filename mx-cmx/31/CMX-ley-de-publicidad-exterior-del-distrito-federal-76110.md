@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-publicidad-exterior-del-distrito-federal-76110"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-20"
-last_updated: "2010-08-20"
+last_updated: "2012-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76110&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2010-08-04"
 
 LEY DE PUBLICIDAD EXTERIOR DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE AGOSTO DE 2012.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 20 de agosto de 2010.
 
@@ -1152,6 +1152,10 @@ Tercero. Los anuncios que deberán retirarse de conformidad con lo dispuesto por
 
 Cuarto. La Secretaría de Desarrollo Urbano y Vivienda instalará una mesa de trabajo con las personas físicas y morales incorporadas al Programa de Reordenamiento de Anuncios y Recuperación de la Imagen Urbana del Distrito Federal, con el objeto de reubicar los anuncios que hayan cumplido con los requisitos establecidos por los ordenamientos jurídicos aplicables a dicho Programa, a efecto de instalarlos en los nodos, o en su caso, en los corredores publicitarios previstos en la presente Ley. Por esta única ocasión, el otorgamiento de Permisos Administrativos Temporales Revocables de espacios para anuncios en nodos publicitarios, se realizará conforme al registro de inventarios de anuncios realizado por los participantes del Programa respetando la proporcionalidad y la equidad en la distribución de espacios.
 
+> <small>(ADICIONADO, G.O. 17 DE AGOSTO DE 2012)</small>
+
+La asignación de espacios para anuncios en nodos y corredores publicitarios, se realizará primero con las personas que los hayan retirado y redimensionado en los plazos establecidos en los acuerdos del Consejo de Publicidad Exterior, publicados el 15 de agosto de 2011 en la Gaceta Oficial del Distrito Federal, en el orden de antigüedad y cantidad que les corresponda conforme al registro de retiro presentado ante la Comisión de Inventario del Consejo de Publicidad Exterior.
+
 Quinto. El Consejo de Publicidad Exterior deberá instalarse en un plazo no mayor a treinta días posteriores a la entrada en vigor de la presente Ley. Una vez instalado el Consejo, y en un plazo de treinta días posteriores a la instalación, la Secretaría de Desarrollo Urbano y Vivienda le presentará la propuesta de acuerdo para determinar la ubicación de los nodos publicitarios y de anuncios en corredores publicitarios.
 
 Sexto. En un plazo de noventa días posteriores a la aprobación del acuerdo del Consejo de Publicidad Exterior a que hace referencia el artículo anterior, la Secretaría de Desarrollo Urbano y Vivienda determinará los espacios para anuncios en nodos publicitarios.
@@ -1173,3 +1177,19 @@ Décimo Tercero. El Ejecutivo del Distrito Federal deberá expedir el Reglamento
 Recinto de la Asamblea Legislativa del Distrito Federal, a los treinta días del mes de junio del año dos mil diez.- POR LA MESA DIRECTIVA, DIP. AXEL VÁZQUEZ BURGETTE.- PRESIDENTA.- DIP. MA. NATIVIDAD PATRICIA RAZO VÁZQUEZ, SECRETARIA.- DIP. JOSÉ MANUEL RENDÓN OBERHAUSER, SECRETARIO.- FIRMAS.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los 4 días del mes de agosto del año dos mil diez.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, FELIPE LEAL FERNÁNDEZ.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARTHA DELGADO PERALTA.- FIRMA.- EL SECRETARIO DE TRANSPORTES Y VIALIDAD, RAÚL ARMANDO QUINTERO MARTÍNEZ.- FIRMA.- EL SECRETARIO DE PROTECCIÓN CIVIL, ELIAS MIGUEL MORENO BRIZUELA.- FIRMA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 17 DE AGOSTO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase al Jefe de Gobierno para su publicación en la Gaceta Oficial del Distrito Federal.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente decreto.
