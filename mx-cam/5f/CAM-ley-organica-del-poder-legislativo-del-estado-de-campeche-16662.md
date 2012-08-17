@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-del-poder-legislativo-del-estado-de-campeche-16662
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-03"
-last_updated: "2009-06-10"
+last_updated: "2012-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16662&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE CAMPECHE
 
-LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE CAMPECHE
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE SEPTIEMBRE DE 2012, EN EL P.O. DEL ESTADO DE CAMPECHE, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 2009.
+LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CAMPECHE
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2012.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el lunes 3 de julio de 2000.
 
@@ -188,6 +190,8 @@ II.- Sustituir, por su orden, al presidente en sus faltas;
 III.- Llamar al orden al presidente, ya por sí o a excitativa de alguno de los diputados; y
 
 IV.- Las demás que le señalen esta ley y otras disposiciones legales y reglamentarias.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTICULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE SEPTIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE CAMPECHE, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### Art. 20.
 
@@ -995,7 +999,7 @@ El presidente, los vicepresidentes y los secretarios de una directiva, antes de 
 
 En las sesiones el presidente de la directiva ocupará el lugar central del estrado, a su derecha se sentará el primer secretario y a su izquierda el segundo secretario, a la derecha del primer secretario se sentará el tercer secretario y a la izquierda del segundo secretario el cuarto secretario, conforme a la siguiente gráfica:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 Los vicepresidentes no ocuparán sitio alguno en el estrado pero, al igual que los presidentes de la Gran Comisión o Comisión de Gobierno y Administración y de la Comisión de Vigilancia, tendrán reservado un lugar especial en el recinto. Los demás diputados ocuparán las curules que se hayan asignado al Grupo Parlamentario al que se encuentren integrados. Bajo pena de expulsión del recinto, queda prohibido el que persona distinta a un diputado tome asiento en una curul; salvo que medie autorización expresa de la presidencia o esta ley así lo establezca.
 
@@ -1003,17 +1007,17 @@ Los vicepresidentes no ocuparán sitio alguno en el estrado pero, al igual que l
 
 En las sesiones a las que asistan oficialmente el Gobernador del Estado y el Magistrado Presidente del Tribunal Superior de Justicia del Estado, la colocación en el estrado será en la forma siguiente: al centro el presidente de la directiva, a su derecha el Gobernador, seguido del primer secretario y éste del tercer secretario, y a su izquierda el Magistrado Presidente, seguido del segundo secretario y éste del cuarto secretario, conforme a la siguiente gráfica:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 Si a la misma concurre el Presidente de los Estados Unidos Mexicanos o su representante personal, se le ubicará en el centro del estrado entre el presidente de la directiva y el Gobernador, no ocupando lugar en el estrado el cuarto secretario, conforme a la siguiente gráfica:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 ###### Art. 104.
 
 En la sesión solemne de prestación de protesta de Gobernador, la colocación del presidium o estrado se hará en la forma siguiente: al centro el presidente de la directiva, a su derecha el Gobernador entrante seguido del primer secretario y éste del tercer secretario; a la izquierda el Gobernador saliente seguido del Magistrado Presidente del Tribunal, y éste del segundo secretario, no ocupando lugar alguno en el estrado el cuarto secretario, conforme a la siguiente gráfica:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 Si a la sesión concurre el Presidente de los Estados Unidos Mexicanos, o su representante personal, ocupará el lugar central del presidium; a su derecha se ubicará al Gobernador entrante y a su izquierda el presidente de la directiva, no ocupando lugar alguno los secretarios tercero y cuarto, conforme a la siguiente gráfica:
 
@@ -2048,3 +2052,15 @@ Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que 
 P.O. 10 DE JUNIO DE 2009.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE AGOSTO DE 2012.
+
+Primero.- El presente decreto entrará en vigor el día 1 de octubre de 2012, salvo en lo que atañe a las disposiciones relativas a la Secretaría General del Congreso y al Instituto de Estudios Legislativos, mismas que cobrarán vigencia a partir del día 1° de septiembre de 2012, previa su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se abroga la Ley Orgánica del Poder Legislativo del Estado de Campeche expedida por la LVI Legislatura de este Congreso bajo Decreto Número 314, publicado en el Periódico Oficial del Estado número 2167 de fecha 3 de julio de 2000, y se derogan todas las demás disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+Tercero.- En su caso, entretanto se expide la Ley de Fiscalización Superior y Rendición de Cuentas del Estado de Campeche se seguirán aplicando las disposiciones del Capítulo Decimosexto de la Ley Orgánica del Poder Legislativo del Estado de Campeche que se abroga por este decreto. Los asuntos que se encuentren en trámite o en proceso de resolución iniciados con anterioridad a la vigencia del presente decreto, serán concluidos de conformidad con las disposiciones vigentes en la fecha en que fueron iniciados.
+
+Cuarto.- Los Manuales de Organización y de Procedimientos a que se refiere la Ley que se expide mediante este decreto, excepto los de la Auditoría Superior del Estado, así como las adecuaciones que deban hacerse a los reglamentos y acuerdos vigentes que rigen el gobierno y administración internos del Poder Legislativo del Estado de Campeche, deberán quedar aprobados en un lapso no mayor de ciento ochenta días naturales contados a partir de la fecha en que cobre vigencia el presente decreto.
+
+Quinto.- Los servidores públicos del Poder Legislativo del Estado, al cobrar vigencia el presente decreto, no sufrirán menoscabo alguno en sus derechos laborales y de seguridad social. Los actuales titulares de la Oficialía Mayor y de la Contraloría Interna del Congreso continuarán desempeñando sus respectivos cargos hasta que se extinga el período para el cual fueron nombrados; con la salvedad de que el primero de ellos se ostentará como Secretario General del Congreso.
