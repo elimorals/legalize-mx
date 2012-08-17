@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-del-distrito-federal-70074"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-17"
-last_updated: "2012-06-20"
+last_updated: "2012-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70074&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-08-26"
 
 LEY DE SALUD DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE AGOSTO DE 2012.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 17 de septiembre de 2009.
 
@@ -126,7 +126,9 @@ II. La educación para la salud, la promoción del saneamiento básico y el mejo
 
 III. La prevención y el control de las enfermedades transmisibles de atención prioritaria, de las no transmisibles más frecuentes y de los accidentes;
 
-IV. La atención médica, que comprende actividades preventivas, curativas, paliativas y de rehabilitación, incluyendo las dirigidas a las discapacidades, así como la atención de urgencias;
+> <small>(REFORMADA, G.O. 17 DE AGOSTO DE 2012)</small>
+
+IV. La atención médica, que comprende actividades preventivas, curativas, paliativas y de rehabilitación, incluyendo las dirigidas a las discapacidades, así como la atención prehospitalaria de las urgencias médicas;
 
 V. La atención materno-infantil;
 
@@ -170,7 +172,9 @@ IX. Servicios de salud: a todas aquellas acciones que se realizan en beneficio d
 
 los prestados por el Gobierno de la ciudad, a través de la Secretaría de Salud; los prestados por la Secretaría de Salud del Gobierno Federal, directamente o a través de sus órganos desconcentrados y organismos descentralizados, y los prestados por las Instituciones de Seguridad Social, regulados por las leyes que los rigen;
 
-X. Atención prehospitalaria de urgencias médicas: al conjunto de acciones médicas con el fin de lograr la limitación del daño y su estabilización orgánico-funcional desde el primer contacto hasta la llegada y entrega a un establecimiento para la atención médica con servicios de urgencia;
+> <small>(REFORMADA, G.O. 17 DE AGOSTO DE 2012)</small>
+
+X. Atención prehospitalaria de las urgencias médicas: al conjunto de acciones médicas otorgadas al paciente cuya condición clínica se considera que pone en peligro la vida, un órgano o su función con el fin de lograr la limitación del daño y su estabilización orgánico-funcional desde el primer contacto hasta la llegada y entrega a un establecimiento para la atención médica con servicios de urgencia;
 
 XI. Regulación y control sanitario: a los actos que lleve a cabo el Gobierno para ordenar o controlar el funcionamiento sanitario de los establecimientos, sitios, actividades y personas a que se refiere esta Ley y los reglamentos respectivos, a través del otorgamiento de autorizaciones, vigilancia, aplicación de medidas de seguridad e imposición de sanciones en los términos de esos ordenamientos;
 
@@ -628,7 +632,9 @@ Para garantizar la atención médica de la población del Distrito Federal, en l
 
 La Secretaría, en su calidad de autoridad sanitaria local y en los términos que las disposiciones reglamentarias lo determinen, coadyuvará a la vigilancia y control de los servicios de salud de carácter privado y social que presten personas físicas o morales en el territorio del Distrito Federal. Estos servicios estarán sujetos a los instrumentos jurídicos que sean aplicables.
 
-### Capítulo II. De las Urgencias Médicas y la Atención Prehospitalaria
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 17 DE AGOSTO DE 2012)</small>
+
+### Capítulo II. De la Atención de las Urgencias Médicas
 
 ###### Artículo 30.
 
@@ -638,37 +644,123 @@ La atención de urgencias médicas será prehospitalaria y hospitalaria.
 
 Los servicios de urgencias a usuarios serán gratuitos en todas las unidades médicas del Gobierno del Distrito Federal, hasta su estabilización y traslado.
 
+> <small>(ADICIONADO, G.O. 17 DE AGOSTO DE 2012)</small>
+
+La Secretaría diseñará, organizará, operará, coordinará y evaluará el Sistema de Urgencias Médicas, el cual garantizará la atención prehospitalaria y hospitalaria de la población, de manera permanente, oportuna y efectiva.
+
+> <small>(REFORMADO, G.O. 17 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 32.
 
-La Secretaría diseñará, organizará, operará, coordinará y evaluará el Sistema de Urgencias Médicas, que tendrá por objeto garantizar la atención prehospitalaria y hospitalaria de la población, de manera permanente, oportuna y efectiva.
+La Secretaría, dentro del Consejo de Salud al que se refiere la presente Ley, instalará un Comité de Atención Prehospitalaria de las Urgencias Médicas, el cual será un órgano de consulta, análisis y asesoría para el desarrollo de planes, programas y proyectos que en la materia aplique el Gobierno, así como las instituciones sociales y privadas.
+
+El Comité de Atención Prehospitalaria de las Urgencias Médicas estará integrado por las siguientes dependencias:
+
+I. Secretaría de Salud, quien lo Presidirá;
+
+II. Secretaría de Transportes y Vialidad;
+
+III. Secretaría de Seguridad Pública, y
+
+IV. Secretaría de Finanzas;
+
+La Secretaría invitará a formar parte del Comité a un representante de la (sic) Secretarías de Salud y de Comunicaciones y Transportes del Gobierno Federal, de la Comisión de Salud y Asistencia Social de la Asamblea Legislativa del Distrito Federal, de la Organización Panamericana de la Salud, de instituciones académicas, de instituciones de asistencia privada y de organizaciones de la sociedad civil que trabajen en el tema.
+
+El Comité presentará, ante el Consejo de Salud, un informe anual sobre las políticas públicas implementadas en materia de atención prehospitalaria de las urgencias médicas y, en su caso, recomendaciones para lograr su realización.
 
 ###### Artículo 33.
 
 El Sistema de Urgencias Médicas está constituido por las unidades médicas fijas y móviles de las instituciones públicas, sociales y privadas.
 
+> <small>(ADICIONADO, G.O. 17 DE AGOSTO DE 2012)</small>
+
+Será operado por la Secretaría a través del Centro Regulador de Urgencias, el cual coordinará las acciones de atención de urgencias que realicen los integrantes de dicho sistema.
+
+> <small>(REFORMADO, G.O. 17 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 34.
-
-La Secretaría operará el Sistema de Urgencias Médicas a través del Centro Regulador de Urgencias, el cual coordinará las acciones de atención de urgencias que realicen los integrantes de dicho sistema.
-
-###### Artículo 35.
 
 Las unidades médicas de las instituciones integrantes del Sistema de Urgencias Médicas informarán de manera permanente al Centro Regulador de Urgencias sobre los recursos disponibles y las acciones a realizar para la atención de urgencias.
 
+> <small>(REFORMADO, G.O. 17 DE AGOSTO DE 2012)</small>
+
+###### Artículo 35.
+
+Las unidades móviles para la atención prehospitalaria de las urgencias médicas, para su circulación y funcionamiento, deberán presentar aviso de funcionamiento ante la autoridad sanitaria de Servicios de Salud Pública del Distrito Federal y requerirán dictamen técnico de la Agencia, en los términos establecidos por las disposiciones jurídicas aplicables.
+
+El dictamen técnico que emita la Agencia será requisito indispensable para que la Secretaría de Transporte y Vialidad, a través de su oficina correspondiente, otorgue a solicitud escrita del interesado, las placas de circulación para ambulancias, de lo que deberá ser enterada la Secretaría.
+
+Los prestadores de servicio de ambulancias, además de las previsiones contenidas en la Ley General de Salud, en los Reglamentos y Normas Oficiales Mexicanas en la materia, deberán cumplir con lo siguiente respecto a esos vehículos:
+
+I. Ser utilizadas únicamente para el propósito que hayan sido autorizadas y queda prohibido transportar o almacenar cualquier material que ponga en peligro la vida o salud del paciente y del personal que preste el servicio;
+
+II. Cumplir con las disposiciones en la materia, para la utilización del equipo de seguridad y protección del paciente y personal que proporcione los servicios;
+
+III. Recibir mantenimiento periódico, el vehículo y el equipo, de acuerdo con los lineamientos establecidos por las autoridades competentes para garantizar condiciones adecuadas de funcionamiento y seguridad;
+
+IV. Apegarse a la reglamentación correspondiente sobre tránsito y control de emisión de contaminantes;
+
+V. Cumplir con las disposiciones en la materia, para el manejo de los residuos peligrosos biológico-infecciosos;
+
+VI. Participar, bajo la coordinación de las autoridades que corresponda, en las tareas de atención de incidentes con múltiples víctimas y en los casos de desastre;
+
+VII. Cumplir con los requisitos y lineamientos contenidos en la Norma Oficial Mexicana en la materia respecto al operador de la ambulancia, médico especialista, técnico en urgencias médicas y demás personal que preste los servicios de atención prehospitalaria;
+
+VIII. Limitar el uso de la sirena y las luces de emergencia estrictamente a la necesidad de solicitar paso preferente al acudir al llamado de una urgencia o durante el traslado de un paciente en estado grave o critico. Las luces de emergencia, podrán emplearse de manera independiente, con o sin el uso de la sirena siempre que exista un paciente a bordo de la ambulancia, dependiendo de su condición o estado de salud, y
+
+IX. No realizar base fija en la vía pública que obstaculice la circulación vehicular.
+
+> <small>(REFORMADO, G.O. 17 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 36.
 
-El Centro Regulador de Urgencias mantendrá permanentemente actualizado el registro de instituciones integrantes del Sistema de Urgencias Médicas.
+En la prestación de los servicios a los que se refiere el presente Capítulo, el personal de los ámbitos público, social o privado deberá actuar con un enfoque de derechos humanos y teniendo como objetivo principal la estabilización del paciente hasta el momento en que es recibido por alguna institución médica; además deberá:
+
+I. Contar con las certificaciones correspondientes expedidas por la autoridad facultada para ello que avalen la capacidad y conocimiento para el desempeño de dichas actividades;
+
+II. Recibir capacitación periódica, atendiendo a su denominación y nivel resolutivo, cuando preste servicios de salud a bordo de una ambulancia; para tal efecto, el Gobierno promoverá el acceso a cursos para el debido cumplimiento de esta disposición;
+
+III. Proporcionar información clara y precisa al paciente y, en su caso, al familiar o persona que lo acompañe, sobre el procedimiento a seguir en la prestación de los servicios de atención prehospitalaria de las urgencias médicas, así como los costos y trámites ante las instituciones que presten dichos servicios;
+
+IV. Trasladar al paciente a la institución pública, social o privada más cercana para lograr su estabilización, en caso de que la emergencia ponga en peligro la vida de la persona, y
+
+V. Asistir en todo el momento al paciente para que reciba los servicios de atención prehospitalaria de las urgencias médicas en alguna institución pública, social o privada.
+
+> <small>(REFORMADO, G.O. 17 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 37.
 
-Las instituciones que otorguen atención prehospitalaria, inscribirán al personal técnico adscrito a sus unidades en el registro de Técnicos en Urgencias Médicas de la Secretaría de Salud, para lo cual, deberán presentar la documentación que avale la capacitación de los candidatos.
+El Comité de Atención Prehospitalaria de las Urgencias Médicas convocará públicamente, por lo menos dos veces al año, a instituciones sociales y privadas que trabajen en materia de atención prehospitalaria para analizar y, en su caso, proponer mecanismos de coordinación para optimizar la prestación de dichos servicios.
+
+Las líneas de trabajo de las reuniones previstas en el presente artículo, de manera enunciativa, serán las siguientes:
+
+I. Desarrollo de estrategias de coordinación para proporcionar la atención hospitalaria de las urgencias médicas para evitar gasto innecesario de recursos y duplicidad de esfuerzos;
+
+II. Proponer la suscripción de convenios para ofrecer cobertura necesaria y suficiente a la población que requiera de los servicios de atención prehospitalaria;
+
+III. Diseñar mecanismos para disminuir e identificar las llamadas de emergencias falsas, así como la intervención de las frecuencias de radio por personas no autorizadas en los ordenamientos aplicables;
+
+IV. Proponer el establecimiento geográfico de zonas de atención prehospitalaria, con el objetivo de agilizar los traslados y eficientar la prestación servicios (sic) de atención prehospitalaria;
+
+V. Buscar medios para incentivar y capacitar a personal voluntario para que preste servicios de atención médica prehospitalaria en las instituciones públicas;
+
+VI. Desarrollo de mecanismos gratuitos de asesoría, orientación y reporte de emergencias para ofrecer mecanismos de atención telefónica o por medios electrónicos, y
+
+VII. Realizar campañas de difusión para orientar a la población sobre prestación de primeros auxilios, así como para informar sobre los servicios de atención prehospitalaria de las urgencias médicas que prestan las instituciones públicas, sociales y privadas.
+
+> <small>(REFORMADO, G.O. 17 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 38.
 
-Las unidades móviles para la atención prehospitalaria de urgencias médicas, para su circulación y funcionamiento, requerirán Dictamen Técnico de la Secretaría de Salud del Distrito Federal, la cual estará supeditada a los requisitos establecidos en los reglamentos y Normas Oficiales Mexicanas aplicables.
+El Centro Regulador de Urgencias mantendrá permanentemente actualizado el registro de instituciones integrantes del Sistema de Urgencias Médicas.
+
+La Secretaría realizará estudios necesarios para que el Centro Regulador de Urgencias cuente con el equipo de radio necesario para evitar que personas no autorizadas en los ordenamientos aplicables, interfieran la señal, el cual harán llegar al Comité de Atención Prehospitalaria de las Urgencias Médicas para que gestione ante el Gobierno la realización de acciones que mejoren su funcionamiento.
+
+> <small>(REFORMADO, G.O. 17 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 39.
 
-El dictamen técnico que emita la Secretaría del Distrito Federal será requisito indispensable para que la Secretaría de Transporte y Vialidad, a través de su oficina correspondiente, otorgue a solicitud escrita del interesado, las placas de circulación para ambulancias, de lo que deberá ser enterada la Secretaría del Distrito Federal.
+Las instituciones que otorguen atención prehospitalaria, inscribirán al personal técnico adscrito a sus unidades en el registro de Técnicos en Urgencias Médicas de la Secretaría de Salud, para lo cual, deberán presentar la documentación que avale la capacitación de los candidatos.
 
 ### Capítulo III. Medicina Preventiva
 
@@ -2733,3 +2825,13 @@ OCTAVO.- La Secretaría de Finanzas del Distrito Federal deberá realizar una am
 NOVENO.- Las autoridades del presente Decreto, conforme a la suficiencia presupuestal asignada por la Asamblea Legislativa, instrumentarán las acciones establecidas para dar cumplimiento a la misma.
 
 DÉCIMO.- Para la designación de las personas titulares de las unidades médicas especializadas en la atención del VIH, deberá observarse que estas cuenten con título universitario en medicina, con una expedición de al menos cinco años previos a la fecha de la designación y con experiencia clínica probada en el área de VIH e infectología.
+
+G.O. 17 DE AGOSTO DE 2012.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal. La Secretaría de Salud, conforme a la suficiencia presupuestal asignada por la Asamblea Legislativa, instrumentará las acciones establecidas en el presente Decreto.
+
+Segundo. El Comité de Atención Prehospitalaria de las Urgencias Médicas del Distrito Federal deberá quedar instalado a los 60 días de la entrada en vigor del presente Decreto.
+
+Tercero. El Comité de Atención Prehospitalaria de las Urgencias Médicas del Distrito Federal, en un plazo no mayor a 120 días hábiles después de la entrada en vigor del presente Decreto, propondrá al Gobierno para su publicación en la Gaceta Oficial del Distrito Federal, los Lineamientos para la Operación y Funcionamiento de instalaciones, unidades y personal que preste servicios de atención prehospitalaria de urgencias médicas.
+
+Previo a la publicación de los lineamientos a los que se refiere el presente artículo, el Comité de Atención Prehospitalaria de las Urgencias Médicas del Distrito Federal invitará a instituciones académicas, sociales y privadas que trabajen en el tema, así como a personas interesadas en la materia, para su revisión y consulta.
