@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-ley-de-planeacion-para-el-estado-de-22025"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-06-30"
-last_updated: "2011-04-08"
+last_updated: "2012-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22025&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 REGLAMENTO DE LA LEY DE PLANEACIÓN PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY DE PLANEACIÓN PARA EL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. 17 DE AGOSTO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Séptima Parte del Periódico Oficial del Estado de Guanajuato, el sábado 30 de junio de 2001.
 
@@ -1012,3 +1014,13 @@ P.O. 8 DE ABRIL DE 2011.
 Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el 11 de abril de 2011.
 
 Artículo Segundo. Por única ocasión el Gobernador del Estado designará a los integrantes del Consejo Técnico establecidos en las fracciones IV y VI del artículo 14 del presente Reglamento.
+
+P.O. 17 DE AGOSTO DE 2012.
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación del Reglamento
+
+Artículo Segundo. Se abroga el Reglamento de la Ley de Planeación para el Estado de Guanajuato, contenido en el Decreto Gubernativo número 85, publicado en el Periódico Oficial del Gobierno del Estado número 52-B Séptima Parte, de fecha 30 de junio de 2001.
