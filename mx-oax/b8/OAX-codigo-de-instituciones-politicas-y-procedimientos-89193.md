@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-instituciones-politicas-y-procedimientos-89193"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-08-10"
-last_updated: "2012-08-10"
+last_updated: "2012-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO DE INSTITUCIONES POLÍTICAS Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2012.
 
 Código publicado en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 10 de agosto de 2012.
 
@@ -777,7 +777,7 @@ IX.- Promover la realización de acciones académicas, a fin de elevar el nivel 
 
 X.- Cumplir con las atribuciones que en materia de acceso a la información pública, le confiere el Reglamento Interno del Instituto;
 
-XI.- Integrar los expedientes relativos a las infracciones administrativas en materia electoral, y en su caso, proponer las sanciones, en los términos que establece este Código;
+XI.- (DEROGADA, P.O. 17 DE AGOSTO DE 2012)
 
 XII.- Substanciar el procedimiento de pérdida de registro del partido político local, hasta dejarlo en estado de resolución, la cual será dictada por el Consejo General en los términos de este Código;
 
@@ -2419,7 +2419,9 @@ a).- Deberán presentarse por los partidos políticos para cada uno de los preca
 
 b).- Los informes deberán presentarse a más tardar dentro de los treinta días siguientes al de la conclusión de la precampaña; y
 
-e) (sic).- Los gastos de organización de los procesos internos y precampañas para la selección de candidatos a cargos de elección popular que realicen los partidos políticos, serán reportados en el informe anual que corresponda.
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2012)</small>
+
+c).- Los gastos de organización de los procesos internos y precampañas para la selección de candidatos a cargos de elección popular que realicen los partidos políticos serán reportados en el informe anual que corresponda.
 
 III.- Informes de campaña:
 
@@ -3221,21 +3223,35 @@ Artículo 174
 
 3. El Consejo General podrá ordenar la realización de una encuesta estatal basada en actas de escrutinio y cómputo de casilla y encuestas de salida y de conteo rápido, a fin de conocer las tendencias de los resultados de la elección para Gobernador, el día de la jornada electoral. El Consejo General precisará el método que empleará para seleccionar la muestra de casillas. Los resultados de dichos estudios serán difundidos por el Presidente, después de las veinte horas del día de la jornada electoral.
 
-### CAPÍTULO QUINTO. DEL PROCEDIMIENTO LA INTEGRACIÓN Y UBICACIÓN DE LAS MESAS DIRECTIVAS DE CASILLA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE AGOSTO DE 2012)</small>
+
+### CAPÍTULO QUINTO. DE PROCEDIMIENTO (SIC) PARA LA INTEGRACIÓN Y UBICACIÓN DE LAS MESAS DIRECTIVAS DE CASILLA
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2012)</small>
 
 Artículo 175
 
-1. Las personas físicas o morales, que pretendan llevar a cabo encuestas de salida o de conteo rápido, para dar a conocer públicamente quien de los candidatos o partidos políticos contendientes es el triunfador en las votaciones, deberán solicitar autorización para hacerlo, al Consejo General con una antelación de por lo menos ocho días a la jornada electoral, cumpliendo los requisitos que establezca el Consejo General. En caso contrario, las personas físicas o morales no podrán realizar la publicación ni difundir las encuestas referidas en este párrafo.
+1. Electoralmente, los municipios del Estado de Oaxaca se dividen en secciones electorales.
 
-2. Los resultados de las encuestas a que se refiere este artículo, no podrán ser publicados o difundidos sino hasta después del cierre oficial de las casillas, a la hora que el Consejo General establezca en los lineamientos que emita. En todos los casos, la divulgación de encuestas de salida y conteos rápidos habrá de señalar clara y textualmente lo siguiente: "Los resultados oficiales de las elecciones del Estado de Oaxaca, son exclusivamente aquellos que dé a conocer el Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca, y en su caso, el Tribunal Estatal Electoral de Oaxaca”.
+2. En toda sección electoral, por cada setecientos cincuenta electores o fracción se instalará una casilla básica para recibir la votación de los ciudadanos residentes en la misma.
 
-3. El Consejo General podrá ordenar la realización de una encuesta estatal basada en actas de escrutinio y cómputo de casilla y encuestas de salida y de conteo rápido, a fin de conocer las tendencias de los resultados de la elección para Gobernador, el día de la jornada electoral. El Consejo General precisará el método que empleará para seleccionar la muestra de casillas. Los resultados de dichos estudios serán difundidos por el Presidente, después de las veinte horas del día de la jornada electoral.
+3. Cuando el crecimiento demográfico de las secciones lo exija, se estará a lo siguiente:
+
+I. En caso de que el número de ciudadanos inscritos en la lista nominal de electores correspondiente a una sección sea superior a setecientos cincuenta electores, se instalará la casilla básica y además, se instalarán en el mismo sitio o local, tantas casillas contiguas como resulte de dividir alfabéticamente el número de ciudadanos inscritos en la lista entre setecientos cincuenta; y
+
+II. No existiendo un local que permita la instalación en un mismo sitio, de las casillas necesarias se ubicarán éstas en lugares diversos, atendiendo a la concentración y distribución de los electores en la sección, a una distancia no mayor de cien metros.
+
+4. Cuando las condiciones geográficas de infraestructura o socioculturales de una sección, hagan difícil el acceso de todos los electores residentes en ella a un mismo sitio, podrá acordarse la instalación de varias casillas extraordinarias en lugares que ofrezcan un fácil acceso a los electores, aun cuando el número de ciudadanos en dichos lugares sea inferior a setecientos cincuenta, pero no menor de cincuenta.
+
+5. También podrán instalarse en las secciones que acuerde el consejo distrital electoral correspondiente, las casillas especiales a que se refiere el artículo 177 de este Código.
+
+6. En cada casilla se instalarán mamparas donde los votantes puedan decidir el sentido de su voto. El diseño y ubicación de estas mamparas en las casillas se hará de manera que garanticen plenamente el secreto del voto.
 
 Artículo 176
 
 1. En la integración de las mesas directivas de casilla, el Consejo General podrá optar por cualquiera de los siguientes procedimientos:
 
-I.- Podrá retomar la estructura de funcionarios de casilla utilizada en el proceso electoral federal inmediato anterior para todo el Estado, realizando las designaciones correspondientes de aquellos funcionarios que por diversas circunstancias no puedan asumir el cargo. En este último caso, la (sic)designaciones se realizarán utilizando la estructura de la elección local inmediata anterior, mediante el procedimiento señalado en la fracción siguiente de éste artículo; y
+I.- Podrá retomar la estructura de funcionarios de casilla utilizada en el proceso electoral federal inmediato anterior para todo el Estado, realizando las designaciones correspondientes de aquellos funcionarios que por diversas circunstancias no puedan asumir el cargo. En este último caso, la (sic) designaciones se realizarán utilizando la estructura de la elección local inmediata anterior, mediante el procedimiento señalado en la fracción siguiente de éste artículo; y
 
 II.- Por insaculación en base al siguiente procedimiento:
 
@@ -3485,7 +3501,9 @@ VI.- Los consejos municipales llevarán a cabo las medidas establecidas en las f
 
 VII.- En su caso, previo acuerdo de los consejos municipales y por razones de seguridad y operatividad, los consejos distritales podrán encargarse del recuento, revisión, sellado y resguardo de las boletas correspondientes a la elección de concejales a los ayuntamientos; y
 
-VII (SIC).- Estas medidas se realizarán con la presencia de los representantes de los partidos políticos que decidan asistir.
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2012)</small>
+
+VIII.- Estas medidas se realizarán con la presencia de los representantes de los partidos políticos que decidan asistir.
 
 3. Los representantes de los partidos políticos, bajo su más estricta responsabilidad, si por mayoría lo acuerdan, podrán firmar o rubricar las boletas electorales a través de uno de los representantes acreditados ante el consejo distrital que corresponda, quien será designado por sorteo, el procedimiento de firma necesariamente se hará ante la presencia de los integrantes de los consejos distritales o municipales, al efecto se levantará acta en la que se hará constar la cantidad de boletas y los números de folios que se le dio a firmar, el número de las firmadas y en su caso el número de las boletas faltantes después de haber realizado el procedimiento de firma. En este último caso, de inmediato se hará del conocimiento a la autoridad competente.
 
@@ -3767,9 +3785,13 @@ Artículo 215
 
 2. Podrá cerrarse antes de la hora fijada en el párrafo anterior, sólo cuando el presidente y el secretario certifiquen que hubieren votado todos los electores incluidos en la lista nominal correspondiente.
 
-3. Sólo permanecerá abierta después de las dieciocho horas, aquella casilla en la que aún se encuentren electores formados para votar. En este caso, se cerrará una vez que quienes estuviesen formados hasta las diecisiete horas hayan votado.
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2012)</small>
 
-4. En todo caso, el apartado correspondiente al cierre de votación contendrá la causa por la que se cerró antes o después de las diecisiete horas.
+3. Sólo permanecerá abierta después de las dieciocho horas, aquella casilla en la que aún se encuentren electores formados para votar. En este caso, se cerrará una vez que quienes estuviesen formados hasta las dieciocho horas, hayan votado.
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2012)</small>
+
+4. En todo caso, el apartado correspondiente al cierre de votación contendrá la causa por la que se cerró antes o después de las dieciocho horas.
 
 ### CAPÍTULO TERCERO. DEL ESCRUTINIO Y CÓMPUTO EN LA CASILLA
 
@@ -3943,7 +3965,9 @@ Artículo 230
 
 1. Los notarios públicos en ejercicio mantendrán abiertas sus oficinas el día de la elección, y deberán atender las solicitudes que les hagan los funcionarios de casilla, los ciudadanos y los representantes de los partidos políticos, para dar fe de hechos o certificar documentos concernientes a la elección.
 
-2. Para esos efectos, los colegios de notarios o el Gobierno del Estado publicarán, cinco días antes del día de la elección, los nombres de los notarios y los domicilios de sus oficinas. Dicha publicación, también se hará a través de la Gaceta.
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2012)</small>
+
+2. Para esos efectos, los Colegios de Notarios o el Gobierno del Estado publicarán, cinco días antes del día de la elección, los nombres de los Notarios y los domicilios de sus oficinas. Dicha publicación, también se hará a través del Periódico Oficial.
 
 ## TÍTULO CUARTO. DE LOS ACTOS POSTERIORES A LA ELECCIÓN Y LOS RESULTADOS ELECTORALES
 
@@ -4793,11 +4817,15 @@ V.- Ofrecer y aportar las pruebas con que cuente; o en su caso, mencionar las qu
 
 VI.- Los partidos políticos deberán presentar las quejas o denuncias por escrito. En caso de que los representantes no acrediten su personería, la queja o denuncia se tendrá por no presentada.
 
-3. Salvo la hipótesis contenida en la última parte del párrafo siguiente, ante la omisión de cualquiera de los requisitos antes señalados, la Junta General Ejecutiva prevendrá al denunciante para que la subsane dentro del plazo improrrogable de tres días. De la misma forma lo prevendrá para que aclare su denuncia, cuando ésta sea imprecisa, vaga o genérica. En caso de no enmendar la omisión que se le requiera, se tendrá por no presentada la denuncia.
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2012)</small>
+
+3. Salvo la hipótesis contenida en la última parte del párrafo siguiente, ante la omisión de cualquiera de los requisitos antes señalados, la Comisión de Quejas y Denuncias prevendrá al denunciante para que la subsane dentro del plazo improrrogable de tres días. De la misma forma lo prevendrá para que aclare su denuncia, cuando esta sea imprecisa, vaga o genérica. En caso de no enmendar la omisión que se le requiera, se tendrá por no presentada la denuncia.
 
 4. La autoridad que tome conocimiento de la interposición de una queja o denuncia por escrito, deberá requerir la ratificación por parte del denunciante. En caso de no acudir a ratificar la denuncia o queja dentro del término de cuarenta y ocho horas contadas a partir de que se le notifique la citación, se tendrá por no formulada la denuncia.
 
-5. La queja o denuncia podrá ser presentada ante cualquier órgano del Instituto, debiendo ser remitida dentro del término de cuarenta y ocho horas a la Junta General Ejecutiva para su trámite.
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2012)</small>
+
+5. La queja o denuncia podrá ser presentada ante cualquier órgano del Instituto, debiendo ser remitida dentro del término de cuarenta y ocho horas a la Comisión de Quejas y Denuncias.
 
 6. Los órganos desconcentrados que reciban una queja o denuncia sobre cualquier materia, procederán a enviar el escrito a la Comisión de quejas y denuncias dentro del plazo señalado en el párrafo anterior, debiendo realizar las acciones necesarias para impedir el ocultamiento, menoscabo o destrucción de pruebas, así como para allegarse de elementos probatorios adicionales que estimen necesarios para la investigación, sin que dichas medidas impliquen el inicio anticipado de la misma.
 
@@ -5021,7 +5049,9 @@ Artículo 306
 
 1. El escrito por el que se presente la queja, deberá contener la narración de los hechos que la motivan y aportar los elementos de prueba o indicios con los que cuente el denunciante.
 
-2. Las quejas podrán ser presentadas dentro de los dos años siguientes a la fecha en que se haya publicado en la Gaceta el dictamen consolidado relativo a los informes del ejercicio durante el que presuntamente se hayan suscitado los hechos que se denuncian.
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2012)</small>
+
+2. Las quejas podrán ser presentadas dentro de los dos años siguientes a la fecha en que se haya publicado en el Periódico Oficial el dictamen consolidado relativo a los informes del ejercicio durante el que presuntamente se hayan suscitado los hechos de la denuncia.
 
 Artículo 307
 
@@ -5230,3 +5260,9 @@ Tlalixtac de Cabrera, Centro, Oax., a 10 de agosto del 2012.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 C.P.A. JESÚS EMILIO MARTÍNEZ ÁLVAREZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE AGOSTO DE 2012.
+
+UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
