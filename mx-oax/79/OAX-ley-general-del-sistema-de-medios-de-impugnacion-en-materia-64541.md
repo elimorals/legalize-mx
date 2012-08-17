@@ -4,7 +4,7 @@ identifier: "OAX-ley-general-del-sistema-de-medios-de-impugnacion-en-materia-645
 country: "mx"
 rank: "ley_general"
 publication_date: "2008-11-08"
-last_updated: "2008-11-08"
+last_updated: "2012-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64541&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL PARA EL ESTADO DE OAXACA
 
-LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACION EN MATERIA ELECTORAL PARA EL ESTADO DE OAXACA
+LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL PARA EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 17 DE AGOSTO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en la Segunda Sección del Periódico Oficial Estado de Oaxaca, el sábado 8 de noviembre de 2008.
 
@@ -1348,3 +1350,13 @@ EL SECRETARIO GENERAL DEL GOBIERNO
 ING. TEOFILO MANUEL GARCIA CORPUS.
 
 Al C..
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE AGOSTO DE 2012.
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga la Ley General del Sistema de Medios de Impugnación en Materia Electoral para el Estado de Oaxaca publicada en el Periódico Oficial del Estado, el ocho de noviembre de dos mil ocho.
+
+TERCERO. Los procesos y procedimientos iniciados con anterioridad a la entrada en vigor de la presente Ley del Sistema de Medios de Impugnación en Materia Electoral y de Participación Ciudadana para el Estado de Oaxaca, continuarán tramitándose hasta su conclusión conforme a las disposiciones con las que fueron iniciados.
