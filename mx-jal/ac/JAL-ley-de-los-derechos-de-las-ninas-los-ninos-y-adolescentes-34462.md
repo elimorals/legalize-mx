@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-derechos-de-las-ninas-los-ninos-y-adolescentes-34462
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-25"
-last_updated: "2009-10-24"
+last_updated: "2012-08-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34462&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, LOS NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2012.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 25 de octubre de 2003.
 
@@ -567,9 +567,21 @@ IV. Expedir las disposiciones reglamentarias que crean necesarias para la eficaz
 
 V. Coadyuvar con los padres o tutores en el cumplimiento de sus deberes;
 
-VI. Crear todos los mecanismos e instancias necesarias para el cumplimiento del contenido de esta ley; y
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
 
-VII. Apoyar, de conformidad con sus respectivos presupuestos, a las niñas, los niños y adolescentes que por carencias familiares o económicas se ponga en riesgo su formación, subsistencia y desarrollo.
+VI. Crear todos los mecanismos e instancias necesarias para el cumplimiento del contenido de esta ley;
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+VII. Apoyar, de conformidad con sus respectivos presupuestos, a las niñas, los niños y adolescentes que por carencias familiares o económicas se ponga en riesgo su formación, subsistencia y desarrollo;
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+VIII. Implementar en forma coordinada con la Federación, en el ámbito de sus respectivas atribuciones, conforme a la legislación aplicable: programas, mecanismos y protocolos de seguridad que tengan por objeto la búsqueda inmediata de menores de edad desaparecidos, para lo cual podrán solicitar la participación de la sociedad y de los medios masivos de comunicación para atender este tipo de casos y darles la difusión necesaria, a fin de facilitar su localización, y
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+IX. Vigilar el cumplimiento de la normatividad prevista e implementar los mecanismos necesarios para que los centros públicos, privados y sociales que atienden a niñas, niños y adolescentes cumplan los requerimientos de infraestructura, recursos y funcionamiento necesarios que garanticen su salud física y mental.
 
 ### CAPÍTULO II. De las personas jurídicas, privadas y sociales
 
@@ -842,3 +854,9 @@ SEGUNDO. En todos los procesos, procedimientos, juicios, sucesiones, legados, co
 TERCERA (SIC). En las demás disposiciones legales y reglamentarias en las que se haga referencia al Instituto Cabañas se entendería que se refiere al organismo público descentralizado denominado Hogar Juan Cruz Ruiz de Cabañas y Crespo, indistintamente conocido bajo el nombre de Hogar Cabañas.
 
 CUARTO. A partir de la entrada en vigor de este decreto, el Poder Ejecutivo deberá actualizar su clasificador por objeto del gasto antes de la presentación del proyecto de presupuesto de egresos para el ejercicio fiscal del 2010.
+
+P.O. 18 DE AGOSTO DE 2012.
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Para la implementación de los programas, mecanismos y protocolos de seguridad para la búsqueda inmediata de menores que se indican en la fracción VIII del artículo 40 de esta reforma, se observará en materia de secuestro a la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
