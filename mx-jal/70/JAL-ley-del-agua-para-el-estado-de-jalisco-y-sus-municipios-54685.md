@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-agua-para-el-estado-de-jalisco-y-sus-municipios-54685"
 country: "mx"
 rank: "ley"
 publication_date: "2007-02-24"
-last_updated: "2009-05-16"
+last_updated: "2012-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54685&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 30 DE AGOSTO Y 6 DE NOVIEMBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MAYO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2012.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el sábado 24 de febrero de 2007.
 
@@ -35,15 +37,27 @@ EL CONGRESO DEL ESTADO DECRETA:
 
 SE CREA LA LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de observancia general en todo el territorio del Estado de Jalisco; sus disposiciones son de orden público e interés social y regulan la explotación, uso, aprovechamiento, preservación y reúso del agua, la administración de las aguas de jurisdicción estatal, la distribución, control y valoración de los recursos hídricos y la conservación, protección y preservación de su cantidad y calidad, en términos del desarrollo sostenible de la entidad.
+La presente Ley es de observancia general en todo el territorio del Estado de Jalisco; sus disposiciones son de orden público e interés social y regulan la explotación, uso, aprovechamiento, preservación y reutilización del agua, la administración de las aguas de jurisdicción estatal, la distribución, control y valoración de los recursos hídricos y la conservación, protección y preservación de su cantidad y calidad, en términos del desarrollo sostenible de la entidad.
 
-Este instrumento establece los principios y regulaciones para la gestión integrada de los recursos hídricos en el Estado, y por lo tanto, también regula las actuaciones de las autoridades estatales y municipales en el ámbito de dicha gestión, así como los servicios públicos de agua potable, saneamiento y riego agrícola.
+El objeto de la presente Ley es:
+
+I. Establecer los principios y regulaciones para la gestión integrada de los recursos hídricos en el Estado, a efecto de promover y hacer efectivo el derecho al agua potable y el saneamiento como un derecho humano esencial para el pleno disfrute de la vida y de todos los derechos humanos;
+
+II. Establecer las bases generales para las actuaciones coordinadas de las autoridades estatales y municipales, quienes conforme a sus atribuciones constitucionales, concurren en el ámbito de dicha gestión;
+
+III. Regular en el ámbito de competencia estatal el aprovechamiento del agua en actividades agropecuarias; y
+
+IV. Establecer las bases generales para la prestación de los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición final de las aguas residuales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 2.
 
-Para los efectos de esta Ley se entiende por:
+Para los efectos de esta Ley y de las normas reglamentarias que se expidan para su aplicación, se entenderá por:
 
 I. Aguas de Jurisdicción Estatal. Las aguas que de conformidad con el párrafo quinto del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, no pueden ser consideradas propiedad de la Nación ni reglamentadas como aguas nacionales, y que siendo consideradas como parte integrante de la propiedad de los terrenos por los que corran o en los que se encuentren sus depósitos, se localizaren en dos o más predios y que la misma Constitución Federal considera sujetas a las disposiciones que dicten los Estados y las que sean asignadas por la autoridad competente, a favor de, cualquier entidad municipal o estatal en Jalisco incluyendo las concesionadas para uso público urbano.
 
@@ -55,7 +69,9 @@ III. Agua Residual. Aquella de composición variada proveniente de las descargas
 
 IV. Agua Tratada. Aguas residuales resultantes de los procesos de tratamiento o de adecuación de su calidad, para remover total o parcialmente sus cargas contaminantes, antes de ser descargada en algún cuerpo receptor final;
 
-V. Alcantarillado. Servicio que proporcionan los organismos operadores para recolectar y alejar las aguas residuales;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+V. Alcantarillado. Servicio que integra el conjunto acciones, equipos, instalaciones e infraestructura de redes de colecta y traslado de las aguas residuales para su tratamiento o disposición final;
 
 VI. Autoabasto. Acción de proporcionarse un servicio de agua para atender sus propias necesidades;
 
@@ -71,11 +87,23 @@ XI. Consejo Estatal del Agua. Organización conformada por los representantes de
 
 XII. Consejos Locales del Agua. Organizaciones locales de usuarios del agua conformadas por: los usuarios con derechos de agua en la cuenca o subcuenca correspondiente, la Comisión, las demás autoridades competentes y los representantes de la sociedad civil organizada, incluyendo el medio académico, que serán instancia de coordinación en términos de lo establecido en la Ley;
 
-XIII. Cuota. Contraprestación que deben pagar los usuarios de agua a los organismos prestadores de servicios por la utilización de los mencionados servicios;
+(NOTA: EL 17 DE JUNIO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 99/2012 DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-XIV. Cuotas Especiales. Derechos por aprovechamiento de la infraestructura que deberán cubrir quienes se beneficien directa o indirectamente cuando soliciten conexión al servicio, incremento de su demanda o cuando el municipio o su organismo operador realicen acciones en la infraestructura de operación o administración de los servicios de agua potable y saneamiento, ya sea en ampliaciones, rehabilitaciones, mejoras, sustituciones o adquisiciones;
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
 
-XV. Derivación. Conexión de cualquiera de los servicios a que se refiere la presente Ley, de un predio a otro colindante, o de una línea de conducción a otra, o de una corriente a otra;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+XIII. CONSEJOS TARIFARIOS. LOS ORGANISMOS O INSTANCIAS CON PARTICIPACIÓN SOCIAL QUE SE CONSTITUYAN PARA REALIZAR LOS ESTUDIOS Y FORMULAR Y EN SU CASO APROBAR EL PROYECTO DE LAS CUOTAS Y TARIFAS A QUE SE REFIERE LA FRACCIÓN XV DEL PRESENTE ARTÍCULO;
+
+XIV. (DEROGADA, P.O. 18 DE AGOSTO DE 2012)
+
+(NOTA: EL 17 DE JUNIO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 99/2012 DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+XV. CUOTA Y TARIFA: EL SISTEMA DE PRECIOS UNITARIOS QUE DEBEN PAGAR LOS USUARIOS COMO CONTRAPRESTACIÓN POR DETERMINADO USO DEL AGUA, RANGO DE CONSUMO O DESCARGA, EN FUNCIÓN DEL TIPO DE USUARIO, ZONA SOCIOECONÓMICA O CUALQUIER OTRO FACTOR QUE APRUEBE LA AUTORIDAD COMPETENTE;
 
 XVI. Descarga Fortuita. Derrama accidental de agua o cualquier otra sustancia al alcantarillado, a una corriente o a un cuerpo de agua;
 
@@ -91,7 +119,9 @@ XXI. Factores económicos. Condiciones determinar los que implican el menor prec
 
 XXII. Gasto Ecológico. Caudal. o volumen mínimo necesario en cuerpos receptores, incluyendo corrientes de diversa índole o embalses, o el caudal mínimo de descarga natural de un acuífero, que debe conservarse para proteger las condiciones ambientales y el equilibrio ecológico del sistema, de acuerdo a las especificaciones técnicas que fije la autoridad competente;
 
-XXIII. lnfraestructura Intradomiciliaria. Obras que requiere el usuario final de cada inmueble para recibir los servicios que establece la Ley;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+XXIII. Red o instalación domiciliaria o privada. Las obras que requiere el usuario final de cada predio para recibir los servicios de agua potable, alcantarillado y drenaje, en lotes o fincas individuales o condominios;
 
 XXIV. Ley. Ley del Agua para el Estado de Jalisco y sus Municipios;
 
@@ -99,19 +129,27 @@ XXV. Obras Hidráulicas. Conjunto de obras, equipamientos, instalaciones y mecan
 
 XXVI. Orden de Prelación. Antelación o preferencia con que un uso de agua debe ser atendido respecto de otro uso;
 
-XXVII. Organismo Operador. Entidad pública o privada, municipal o intermunicipal, descentralizada, o desconcentrada, que dentro de los límites de su circunscripción territorial, otorga los servicios hídricos previstos por la Ley;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+XXVII. Organismo Operador. Entidad pública o privada, municipal o intermunicipal o con participación del gobierno estatal, descentralizada o desconcentrada, que dentro de los límites de su circunscripción territorial, administra en forma parcial o total los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición final de sus aguas residuales;
 
 XXVIII. Programación Hídrica. Sistema de trabajo el que se contemplan las acciones a corto, mediano y largo plazo para la gestión del agua, que lleva a cabo la Comisión, que incluyen, entre otros, la línea base del conocimiento sobre la disponibilidad del agua superficial y subterránea, el uso del agua, los inventarios de agua y otros recursos relacionados, las condiciones de calidad del agua, la cartera de estudios y. los proyectos de inversión necesarios para la gestión integrada del agua en el estado de Jalisco, así como la proposición de políticas públicas, estrategias, programas específicos, que permitan inducir y regular, en su caso, la explotación, uso y aprovechamiento de las aguas en el Estado, así como el control y preservación sostenible de su cantidad y calidad, para contribuir al bienestar social y al crecimiento económico en un entorno de sustentabilidad;
 
 XXIX. Red Primaria. Conjunto de obras mayores que son necesarias para abastecer de agua a las zonas urbanas hasta los tanques de regulación del servicio y las líneas generales de distribución. A falta de tanques, se considerarán las obras primarias hasta la línea general de distribución del servicio;
 
-XXX. Red Secundaria. Conjunto de estructura integrada desde por la interconexión del tanque de regulación, o en su caso, de la línea general de distribución hasta el punto de interconexión con la infraestructura intradomiciliaria, del predio correspondiente al usuario final del servicio;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+XXX. Red Secundaria. Conjunto de infraestructura integrada desde la interconexión del tanque de regulación, o en su caso, de la línea general de distribución hasta el punto de interconexión con la red o instalación domiciliaria o privada del lote o predio correspondiente al usuario o usuarios finales del servicio;
 
 XXXI. Restricción del Servicio de Agua Potable. Reducir, conforme a los casos contemplados por la Ley, el suministro de agua potable, para riego, otros usos o la descarga de aguas residuales;
 
-XXXII. Reúso. Utilización de las aguas residuales, de acuerdo con las disposiciones emitidas para tal efecto.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
 
-XXXIII. Saneamiento. Conjunto de acciones, equipos, instalaciones e infraestructura para lograr la colecta, traslado, tratamiento, alejamiento y vertido de las aguas residuales y el manejo y disposición ecológica de los sólidos resultantes del tratamiento respectivo. Incluye el alcantarillado, emisores, plantas o procesos de tratamiento y sitios de vertido;
+XXXII. Reutilización: Utilización de las aguas residuales, de acuerdo con las disposiciones emitidas para tal efecto;
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+XXXIII. Saneamiento o tratamiento y disposición final de las aguas residuales. Servicio que integra el conjunto de acciones, equipos, instalaciones e infraestructura para lograr el tratamiento, alejamiento y vertido de las aguas residuales y el manejo y disposición ecológica de los sólidos resultantes del tratamiento respectivo. Incluye los emisores, plantas o procesos de tratamiento y sitios de vertido;
 
 XXXIV. Seguridad Hidráulica. Normas y acciones requeridas para el resguardo de las obras hidráulicas, incluyendo sus zonas de protección, sean obras estatales o municipales, para su preservación, conservación y mantenimiento. Asimismo, se denomina seguridad hidráulica al criterio para construir y operar obras hidráulicas para el control de avenidas y protección contra inundaciones;
 
@@ -121,13 +159,15 @@ XXXVI. Servicio público. Aquel cuyo titular es el estado y cuya finalidad consi
 
 XXXVII. Servicios Regionales. Servicios de suministro de agua en bloque alcantarillado y el de tratamiento de aguas residuales que pueda proporcionar el Gobierno del Estado, por medio de la Comisión, a uno o más municipios, cuando las obras las realice el propio Estado, o cuando se requiera el abastecimiento para servicios a más de un municipio;
 
-XXXVIII. Servicio de Suministró de Agua Potable. Distribución del agua apta para consumo humano;
+XXXVIII. Servicio de Suministro de Agua Potable. Distribución del agua apta para consumo humano;
 
 XXXIX. Servicio de Tratamiento de Aguas Residuales. Remoción o reducción de las cargas contaminantes de las aguas residuales;
 
 XL. Sistema de Agua Potable. Conjunto de instalaciones, equipos y obras de infraestructura necesarios para prestar el servicio de suministro y tratamiento de aguas;
 
-XLI. Sistema Estatal del Agua. Conjunto de programas, proyectos, obras, equipamientos, instalaciones, normas, metodologías, procesos, instrumentos y acciones que dan sustento al aprovechamiento y a la administración de las aguas de jurisdicción estatal en todos los usos, así como aquellos que permitan mejorar la prestación de servicios públicos de suministro de agua potable, alcantarillado y tratamiento de aguas residuales, incluyendo el reúso de las aguas residuales tratadas;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+XLI. Sistema Estatal del Agua. Conjunto de programas, proyectos, obras, equipamientos, instalaciones, normas, metodologías, procesos, instrumentos y acciones que dan sustento al aprovechamiento y a la administración de las aguas de jurisdicción estatal en todos los usos, así como aquellos que permitan mejorar la prestación de servicios públicos de suministro de agua potable, alcantarillado y tratamiento de aguas residuales, incluyendo la reutilización de las aguas residuales tratadas;
 
 XLII. Sistema Estatal de Información del Agua. Conjunto de bases de datos y demás información pública relacionada con la disponibilidad del agua superficial y subterránea, balances hídricos, inventarios de los cuerpos de agua, asignaciones y concesiones de agua, descargas, de la infraestructura hídrica, y de las inversiones realizadas en esta materia y la relacionada con el clima, hidrografía e hidrología de las cuencas del Estado de Jalisco, incluyendo la de los sistemas de agua potable y saneamiento, los registros de los títulos de concesión de agua y permisos correspondientes, la de su red de monitoreo en cantidad y calidad y padrón de usuarios del Registro Público de Derechos de Agua del Estado de Jalisco, así como los equipos, programas y personal encargados de los mismos;
 
@@ -135,13 +175,17 @@ XLIII. Sistema Estatal Financiero del Agua. Conjunto de políticas públicas, es
 
 XLIV. Solvencia. Condiciones determinadas que implican la capacidad de cumplir una obligación, un cargo, la satisfacción de deudas, entre otros y en especial, capacidad de cumplirlos cuidadosa y celosamente siempre que se considere la totalidad de los recursos financieros necesarios que aseguren la operación, mantenimiento y administración de las obras, equipos, instalaciones y personal correspondiente, en los términos de la Ley.
 
-XLV. Toma. Tramo de interconexión situado entre la infraestructura o red secundaria para el abastecimiento de los servicios públicos, y la infraestructura intradomiciliaria de cada predio, que incluye en su caso mecanismos de regulación y medición;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
 
-XLVI. Uso Habitacional. Utilización de agua en predios para uso habitacional, destinada al uso particular de las personas y del hogar, así como el riego de jardines y de árboles de ornato en estos; incluyendo el abrevadero de animales domésticos, siempre que estas últimas dos aplicaciones no constituyan actividades lucrativas;
+XLV. Toma. Tramo de conexión situado entre la infraestructura o red secundaria para el abastecimiento de los servicios públicos, y la red o instalación domiciliaria o privada de cada lote o predio, que incluye en su caso mecanismos de regulación y medición;
 
-XLVII. Uso Comercial. Utilización del agua en inmuebles de fábricas, empresas, negociaciones, establecimientos y oficinas dedicadas a la comercialización de bienes y servicios.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
 
-Los Organismos Operadores deberán contabilizar las cuotas separadas correspondientes el uso comercial del habitacional del agua, en aquellos inmuebles donde concurran ambas actividades, a través de tomas independientes;
+XLVI. Uso habitacional. Utilización de agua en predios con uso habitacional, para los fines particulares de las personas y del hogar, así como el riego de jardines y de árboles de ornato en estos; incluyendo el abrevadero de animales domésticos, siempre que estas últimas dos aplicaciones no constituyan actividades lucrativas;
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+XLVII. Uso Comercial. Utilización del agua en inmuebles de empresas, negociaciones, establecimientos y oficinas dedicadas a la comercialización de bienes y servicios, siempre y cuando no impliquen la transformación de materias primas;
 
 XLVIII. Uso Industrial. Utilización de agua en procesos de extracción, conservación o transformación de materias primas o minerales, el acabado de productos o la elaboración de satisfactores, así como la que se utiliza en calderas, en dispositivos para enfriamiento, lavado, baños y otros servicios dentro de la empresa, las salmueras que se utilizan para la extracción de cualquier tipo de sustancias y el agua aún en estado de vapor que es usada para la generación de energía eléctrica; lavanderías de ropa; lavado de automóviles y maquinaria; o para cualquier otro uso o aprovechamiento de transformación;
 
@@ -153,13 +197,19 @@ LI. Uso Mixto Comercial. Utilización de agua en predios de uso habitacional, cu
 
 LII. Uso Mixto Rural. Aplicación de agua en predios para uso habitacional, cuando se realicen en el mismo predio en pequeña escala, actividades propias del uso agropecuario con fines de supervivencia familiar;
 
-LIII. Uso Público Urbano. Utilización de agua para el abasto a centros de población o asentamientos humanos, a través de la red primaria a cargo del organismo prestador de los servicios; dentro de este uso quedan comprendidos el habitacional, el comercial, el de servicios de hotelería, el de instituciones públicas o que presten servicios públicos, los usos mixtos y el industrial;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
 
-LIV. Usuario. Personas físicas o jurídicas que hagan uso del agua o de los servicios a que se refiere la Ley. Se diferenciará entre usuarios del agua, aquellos con derechos vigentes de explotación o uso de aguas otorgadas por la autoridad competente, y los usuarios de los servicios públicos urbanos; y
+LIII. Uso Público Urbano. Utilización de agua para el abasto a centros de población, a través de la red primaria; dentro de éste uso genérico quedan comprendidos el habitacional, el comercial, el industrial, el de servicios de hotelería, el de instituciones públicas o que presten servicios públicos y los usos mixtos;
 
-LV. Zona de protección. La franja de terreno inmediata y contigua a los cauces y depósitos de los cuerpos y corrientes naturales o artificiales de propiedad estatal y municipal, incluyendo los terrenos inmediatos y contiguos de las presas y demás obras hídricas a cargo del Gobierno del Estado, en la extensión que en cada caso fije la Comisión y el organismo prestador de los servicios para su protección, operación, rehabilitación, mantenimiento y vigilancia.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
 
-Adicionalmente se reconocen las definiciones que la Ley de Aguas Nacionales incluye.
+LIV. Usuario. Las personas físicas, los condominios y otras personas jurídicas que hagan uso del agua o de los servicios a que se refiere la Ley. Se diferenciará entre usuarios del agua, aquellos con derechos vigentes de explotación o uso de aguas otorgadas por la autoridad competente, y los usuarios de los servicios públicos urbanos; y
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+LV. Zona o área de protección o restricción. La franja de terreno inmediata contigua a los cauces y depósitos de los cuerpos y corrientes naturales o artificiales de propiedad federal, estatal y municipal, incluyendo los terrenos inmediatos y contiguos de las presas y demás obras hídricas a cargo del Gobierno del Estado, para su protección, operación, rehabilitación, mantenimiento y vigilancia, en la extensión que en cada caso determinen las normas aplicables.
+
+(SE DEROGA ÚLTIMO PÁRRAFO, P.O. 18 DE AGOSTO DE 2012)
 
 ###### Artículo 3.
 
@@ -171,11 +221,17 @@ II. El restablecimiento del equilibrio de los ecosistemas vitales vinculados con
 
 III. La adquisición y el aprovechamiento de las obras hídricas de propiedad privada, cuando se requieran para la eficiente prestación del servicio de agua potable y alcantarillado, establecido o por establecerse;
 
-IV. La captación, regularización, potabilización, desalación, conducción, distribución, prevención y control de la contaminación de las aguas; así como el tratamiento de las aguas residuales que se localicen dentro de los Municipios del Estado y que no sean de jurisdicción federal; así como el reúso de las mismas;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
 
-El mejoramiento de la calidad de las aguas residuales, la prevención y control de su contaminación, la recirculación y el reúso de dichas aguas, así como la construcción y operación de obras de prevención, control y mitigación de la contaminación del agua, incluyendo plantas de tratamiento de aguas residuales;
+IV. La captación, regularización, potabilización, desalación, conducción, distribución, prevención y control de la contaminación de las aguas; así como el tratamiento de las aguas residuales que se localicen dentro de los Municipios del Estado y que no sean de jurisdicción federal; así como la reutilización de las mismas;
 
-VI. La adquisición de bienes inmuebles o muebles que sean necesarios para la ampliación, rehabilitación, construcción, mejoramiento, conservación, desarrollo y mantenimiento de los sistemas de agua potable y alcantarillado, así como los relativos al tratamiento y reúso de las aguas residuales; incluyendo las instalaciones conexas como son los caminos de acceso y las zonas de protección; y
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+V. El mejoramiento de la calidad de las aguas residuales, la prevención y control de su contaminación, la recirculación y la reutilización de dichas aguas, así como la construcción y operación de obras de prevención, control y mitigación de la contaminación del agua, incluyendo plantas de tratamiento de aguas residuales;
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+VI. La adquisición de bienes inmuebles o muebles que sean necesarios para la ampliación, rehabilitación, construcción, mejoramiento, conservación, desarrollo y mantenimiento de los sistemas de agua potable y alcantarillado, así como los relativos al tratamiento y reutilización de las aguas residuales; incluyendo las instalaciones conexas como son los caminos de acceso y las zonas de protección; y
 
 VII. La formación, modificación y manejo tanto de los padrones de usuarios, como de las tarifas conforme a las cuales serán causados los derechos por la prestación de los servicios públicos de agua potable, alcantarillado, tratamiento y disposición de aguas residuales.
 
@@ -191,19 +247,33 @@ Son usos del agua los establecidos en la Ley de Aguas Nacionales con las caracte
 
 Los usos específicos correspondientes a la prestación de los servicios de agua potable alcantarillado, tratamiento y disposición de aguas residuales a que se refiere esta Ley, se considerarán en su caso, dentro del uso público urbano y son los siguientes:
 
-l. Habitacional;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
 
-II. Mixto comercial;
+I. Habitacional;
 
-III. Mixto rural;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
 
-IV. Industrial;
+II. Comercial;
 
-V. Comercial;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
 
-VI. Servicios de hotelería; y
+III. Industrial;
 
-VII. En Instituciones Públicas o que presten servicios públicos.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+IV. Servicios de hotelería;
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+V. Uso en instituciones públicas o que presten servicios públicos;
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+VI. Mixto comercial; y
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+VII. Mixto rural.
 
 ### CAPÍTULO II (SIC). Del Sistema Estatal del Agua
 
@@ -235,7 +305,9 @@ IX. La proposición de políticas públicas, estrategias, lineamientos, programa
 
 X. La consolidación del conjunto de bases de datos y demás información pública que conformarán el Sistema Estatal de Información del Agua; y
 
-XI. El conjunto de programas, proyectos, obras, normas y acciones que dan sustento al aprovechamiento y a la administración de las aguas de jurisdicción estatal en todos los usos, así como aquellos que permitan mejorar la prestación de servicios públicos de suministro de agua potable, alcantarillado y tratamiento de aguas residuales, incluyendo el reúso de las aguas previamente servidas y tratadas, así como la recirculación.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+XI. El conjunto de programas, proyectos, obras, normas y acciones que dan sustento al aprovechamiento y a la administración de las aguas de jurisdicción estatal en todos los usos, así como aquellos que permitan mejorar la prestación de servicios públicos de suministro de agua potable, alcantarillado y tratamiento de aguas residuales, incluyendo la reutilización de las aguas previamente servidas y tratadas, así como la recirculación.
 
 Las dependencias del Gobierno de Estado y los Municipios, aplicarán, en el ámbito de sus facultades, las medidas necesarias para cumplir con los objetivos fijados.
 
@@ -281,9 +353,13 @@ II. Los servicios hidráulicos serán estructurados financieramente en forma que
 
 III. El financiamiento público o privado que se establezca para el sector, contará con el soporte de los análisis y estudios financieros que fijen el monto amortizable y el tiempo para su recuperación;
 
-IV. Los lineamientos que establezca la Comisión para la definición y actualización de cuotas y tarifas por servicios de agua dando el soporte para su autorización, reflejarán el costo real de los servicios;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
 
-V. La participación de la ciudadanía en el financiamiento de los servicios públicos de agua potable, saneamiento y reúso y reciclaje, incluirá los conceptos de pago por uso del recurso hídrico o por el pago por vertidos en cuerpos receptores y para su tratamiento respectivo;
+IV. La realización de estudios financieros y tarifarios y los lineamientos que establezca la Comisión para la definición y actualización de cuotas y tarifas por servicios de agua dando el soporte para su autorización, reflejarán el costo real de los servicios;
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+V. La participación de la ciudadanía en el financiamiento de los servicios públicos de agua potable, saneamiento y reutilización y reciclaje, incluirá los conceptos de pago por uso del recurso hídrico o por el pago por vertidos en cuerpos receptores y para su tratamiento respectivo;
 
 VI. Cualquier subsidio para pago de los servicios hídricos para la población marginada o falta de recursos, se otorgará en forma casuística y explícita, y en este caso deberán plantearse los procedimientos para delimitar su discrecionalidad en el Reglamento. Los subsidios no se otorgarán mediante cuotas o tarifas subsidiadas. Para fines financieros, tales subsidios serán considerados como un costo del servicio;
 
@@ -297,19 +373,33 @@ X. El estudio de las formas de amortización de los fondos destinados al financi
 
 XI. El estudio del repago de fondos destinados a egresos distintos de las inversiones, cuando sea recomendable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 13.
 
-Los usuarios de aguas de jurisdicción estatal, así como de los servicios públicos de suministro de agua potable, alcantarillado, tratamiento y reúso de aguas residuales, los correspondientes al riego agrícola, y la sociedad organizada en general, podrán participar en la planeación, programación, construcción, administración, operación, supervisión o vigilancia de los servicios y sistemas hidráulicos, así como el cuidado y uso eficiente del agua y la preservación de su calidad, a través de:
+Los usuarios de aguas de jurisdicción estatal, así como de los servicios públicos de suministro de agua potable, alcantarillado, tratamiento y reutilización de aguas residuales, los correspondientes al riego agrícola, y la sociedad organizada en general, podrán participar en la planeación, programación, construcción, administración, operación, supervisión o vigilancia de los servicios y sistemas hidráulicos, así como el cuidado y uso eficiente del agua y la preservación de su calidad, a través de:
 
 I. Los Ayuntamientos;
 
 II. La Comisión;
 
-III. Los Organismos Operadores de los servicios de agua y saneamiento, y
+III. Los Organismos Operadores de los servicios de agua y saneamiento, y (sic)
 
-IV. Los Distritos de Riego, Unidades de Riego y Asociaciones de Regantes en los términos de la presente ley y en el seno del Sistema Estatal del Agua.
+(NOTA: EL 17 DE JUNIO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 99/2012 DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-Los grupos académicos, colegios de profesionales, especialistas, asociaciones y cámaras debidamente acreditados ante la Comisión, podrán participar en la planeación del recurso hídrico y su programación en las mismas condiciones.
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+IV. LOS CONSEJOS TARIFARIOS; Y
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+V. Los Distritos de Riego, Unidades de Riego y Asociaciones de Regantes en los términos de la presente ley y en el seno del Sistema Estatal del Agua.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
+Los grupos académicos, colegios de profesionales, especialistas, asociaciones y cámaras debidamente acreditados ante la Comisión, los organismos operadores y los Consejos Tarifarios, podrán participar en la planeación del recurso hídrico y su programación en las mismas condiciones.
 
 ### CAPÍTULO III. De la programación hídrica
 
@@ -467,13 +557,17 @@ XXVI. Proyectar, construir y supervisar, en coordinación con las instituciones 
 
 XXVII. Promover la potabilización del agua, el tratamiento de aguas residuales y su disposición, así como el manejo de Iodos u otros sólidos resultantes del tratamiento o adecuación de las aguas servidas;
 
-XXVIII. Promover el reúso y recirculación de las aguas servidas y en general, el mejoramiento de la eficiencia en la explotación, uso o aprovechamiento del agua;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+XXVIII. Promover la reutilización y recirculación de las aguas servidas y en general, el mejoramiento de la eficiencia en la explotación, uso o aprovechamiento del agua;
 
 XXIX. Brindar el apoyo técnico, administrativo y jurídico que le soliciten los municipios o los Organismos Operadores;
 
 XXX. Celebrar, con el objeto de lograr una coordinación integral y de conformidad con las disposiciones legales aplicables, los acuerdos y convenios que se requieran, con autoridades de los tres órdenes de Gobierno, en materia de agua y para la construcción, ampliación, operación y rehabilitación de los sistemas de agua potable, alcantarillado y saneamiento;
 
-XXXI. Promover la participación social en la prestación de los servicios públicos de agua, en el tratamiento de aguas residuales y su reúso, así como en el tratamiento y disposición final de Iodos;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+XXXI. Promover la participación social en la prestación de los servicios públicos de agua, en el tratamiento de aguas residuales y su reutilización, así como en el tratamiento y disposición final de lodos;
 
 XXXII. Llevar la representación estatal en los Consejos de Cuenca cuyo ámbito territorial de actuación comprenda parcial o totalmente el territorio del Estado;
 
@@ -699,9 +793,11 @@ VII. Los demás bienes y derechos que adquiera por cualquier titulo legal.
 
 El patrimonio de la Comisión será inembargable y aquellos bienes afectados directamente a la prestación de los servicios públicos serán inembargables e imprescriptibles. Los bienes inmuebles de la Comisión destinados directamente a la prestación de los servicios públicos se consideran bienes del dominio público del Estado.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 39.
 
-La Comisión, podrá realizar con recursos propios, con aportaciones federales, estatales y municipales, con la participación de la iniciativa privada, o con recursos de procedencia mixta, obras para la prestación de servicios regionales de suministro de agua potable o para diferentes usos, alcantarillado, tratamiento de aguas residuales y su reúso, previa celebración de los convenios necesarios con las autoridades competentes. La Comisión podrá establecer tarifas por los servicios regionales que deberán considerar los costos de administración, operación y mantenimiento y los costos de inversión de las obras realizados con financiamiento recuperable, sin incluir aportaciones presupuestales realizadas a fondo perdido, sean federales, estatales o municipales.
+La Comisión, podrá realizar con recursos propios, con aportaciones federales, estatales y municipales, con la participación de la iniciativa privada, o con recursos de procedencia mixta, obras para la prestación de servicios regionales de suministro de agua potable o para diferentes usos, alcantarillado, tratamiento de aguas residuales y su reutilización, previa celebración de los convenios necesarios con las autoridades competentes. La Comisión podrá establecer tarifas por los servicios regionales que deberán considerar los costos de administración, operación y mantenimiento y los costos de inversión de las obras realizados con financiamiento recuperable, sin incluir aportaciones presupuestales realizadas a fondo perdido, sean federales, estatales o municipales.
 
 ###### Artículo 40.
 
@@ -769,9 +865,41 @@ Los Municipios, previo acuerdo entre sus Ayuntamientos, podrán coordinarse y as
 
 Los municipios podrán celebrar convenios con el Estado para que éste, a través de la Comisión se haga cargo en forma temporal de la prestación de los servicios que les corresponden y a que se refiere ésta ley o para que se presten coordinadamente por el Estado y el propio municipio, observando para tal efecto, las disposiciones contenidas en la Ley del Gobierno y Administración Pública Municipal del Estado de Jalisco.
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE NOVIEMBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 48.
 
-Para la prestación de los servicios de agua potable y saneamiento, los ayuntamientos pueden constituir los siguientes organismos operadores descentralizados municipales o intermunicipales.
+Para la prestación de los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición final de sus aguas residuales, los Municipios tendrán las siguientes atribuciones:
+
+(NOTA: EL 17 DE JUNIO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 99/2012 DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I, SEGUNDA PARTE DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
+
+I. Administrar en forma directa estos servicios, a través de la dependencia que determine su reglamento orgánico y LA CONSTITUCIÓN DE LOS CONSEJOS TARIFARIOS EN LOS TÉRMINOS Y PARA LOS FINES ESTABLECIDOS EN ESTA LEY;
+
+(NOTA: EL 17 DE JUNIO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 99/2012 DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II, SEGUNDA PARTE DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
+
+II. Constituir organismos operadores descentralizados municipales o intermunicipales y EN SU CASO, FIJAR LAS BASES PARA LA INTEGRACIÓN Y OPERACIÓN DEL CONSEJO TARIFARIO, DE CONFORMIDAD A LAS PREVISIONES QUE PARA TALES EFECTOS SE ESTABLEZCAN EN LOS INSTRUMENTOS DE SU CREACIÓN;
+
+III. Concesionar los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición final de sus aguas residuales, en los términos de lo dispuesto por la Constitución y la Ley de (sic) Gobierno y (sic) Administración Pública Municipal;
+
+IV. Celebrar convenios con el Estado en los términos previstos en el artículo 47 de la presente Ley; y
+
+V. Ser corresponsables con los organismos operadores de:
+
+a) La calidad del agua potable suministrada, para que cumpla con las normas oficiales establecidas;
+
+b) la vigilancia del tratamiento de sus aguas residuales,
+
+c) La reutilización y recirculación de las aguas servidas; y
+
+d) Las condiciones particulares de descarga.
+
+Para cumplir con lo anterior, contarán con el apoyo y asesoría de la Comisión, previa solicitud al respecto.
 
 ###### Artículo 49.
 
@@ -779,67 +907,137 @@ Los Organismos Operadores Descentralizados tendrán personalidad jurídica y pat
 
 Dichos organismos deberán constituirse por acuerdo de las dos terceras partes de los integrantes de los ayuntamientos respectivos de conformidad con lo que señale la Ley del Gobierno y Administración Pública Municipal del Estado de Jalisco.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 50.
 
-Los Organismos Descentralizados Intermunicipales serán creados mediante convenios entre dos o más Municipios a efecto de coordinarse en la prestación de los servicios de agua potable, alcantarillado, tratamiento y disposición de aguas residuales, pudiendo asumir las funciones del Organismo Operador Intermunicipal un organismo operador existente en alguno de los municipios o bien uno de nueva creación. Sus titulares serán nombrados en los términos que establezcan estos convenios. El presupuesto de egresos de los Organismos Operadores intermunicipales será aprobado por los Ayuntamientos que los integran.
+Los organismos descentralizados intermunicipales se integrarán de conformidad a las disposiciones generales siguientes:
+
+I. Serán creados mediante convenios entre dos o más Municipios en los términos establecidos en la Ley del Gobierno y la Administración Pública Municipal del Estado, a efecto de coordinarse en la prestación de los servicios de agua potable, alcantarillado, tratamiento y disposición de sus aguas residuales;
+
+II. Los Municipios o localidades podrán asociarse a un organismo operador municipal ya existente, para constituir un organismo intermunicipal, por acuerdo de los Ayuntamientos respectivos;
+
+III. El organismo operador intermunicipal, con respecto a los usuarios de los servicios, se subrogará en las responsabilidades y asumirá los derechos y obligaciones de los organismos operadores que se extingan; y
+
+IV. Sus titulares serán nombrados en los términos que establezcan dichos convenios; al igual que el presupuesto de los organismos.
+
+(NOTA: EL 17 DE JUNIO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 99/2012 DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 51.
 
-El Organismo Operador Intermunicipal, con respecto a los usuarios de los servicios, se subrogará en las responsabilidades y asumirá los derechos y obligaciones de los organismos operadores que se extingan.
+La realización de estudios financieros y la aprobación de cuotas y tarifas de los servicios se realizará mediante los Consejos Tarifarios que existirán en los municipios o en los organismos operadores, según corresponda.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 52.
 
-Los Organismos Operadores, ejercerán las facultades y cumplirán las obligaciones que el instrumento de su creación establezca, además de las siguientes:
+Los organismos operadores ejercerán las facultades y cumplirán las obligaciones que establezca el instrumento de su creación o concesión, además de las siguientes:
 
-I. Planear, estudiar, proyectar, construir, aprobar, conservar, mantener, ampliar, rehabilitar, administrar y operar las obras y sistemas de agua potable, alcantarillado, tratamiento y disposición de aguas residuales, así como su reúso y recirculación, en los términos de las Leyes Estatales y Federales de la materia;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
 
-II. Administrar las contribuciones y derechos que de conformidad con las leyes se deriven de la prestación de los servicios públicos a su cargo, quedando facultados para ejercer las funciones municipales que el instrumento de su creación establezca;
+I. Planear, estudiar, proyectar, construir, aprobar, conservar, mantener, ampliar, rehabilitar, administrar y ·operar las obras y sistemas de agua potable, alcantarillado, tratamiento y disposición de aguas residuales, así como su reutilización y recirculación, en los términos de las Leyes Estatales y Federales de la materia;
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+II. Percibir y administrar los ingresos que se deriven de la prestación de los servicios públicos a su cargo, quedando facultados para ejercer las funciones municipales que establezca el instrumento de su creación o concesión;
 
 III. Utilizar todos sus ingresos exclusivamente en los servicios públicos, destinándolos en forma prioritaria a su operación, mantenimiento, sustitución de la infraestructura obsoleta y administración, pago de derechos y posteriormente a ampliar la infraestructura hidráulica, ya que en ningún caso podrán ser destinados a otros fines;
 
-IV. Mejorar los sistemas de captación, conducción, tratamiento de aguas residuales, reúso y recirculación de las aguas servidas, prevención y control de la contaminación de las aguas que se localicen dentro del municipio; vigilar todas las partes del sistema de distribución, abastecimiento y descargas para detectar cualquier irregularidad, la cual deberá ser corregida; si sus medios son insuficientes para ello, podrá solicitar el apoyo de la Comisión, la cual deberá hacerlo teniendo siempre en cuenta su suficiencia presupuestaria;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+IV. Mejorar los sistemas de captación, conducción, tratamiento de aguas residuales, reutilización y recirculación de las aguas servidas, prevención y control de la contaminación de las aguas que se localicen dentro del municipio; vigilar todas las partes del sistema de distribución, abastecimiento y descargas para detectar cualquier irregularidad, la cual deberá ser corregida; si sus medios son insuficientes para ello, podrá solicitar el apoyo de la Comisión, la cual deberá hacerlo teniendo siempre en cuenta su suficiencia presupuestaria;
 
 V. Instalar los instrumentos de medición adecuados en cada fuente de abastecimiento a su cargo, en puntos donde técnicamente la medición sea representativa de la totalidad del suministro del agua a las localidades de que se trate.
 
-VI. Proporcionar los servicios de agua potable, alcantarillado, tratamiento y disposición de aguas residuales a los centros de población de su Municipio;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+VI. Proporcionar los servicios de agua potable, alcantarillado, tratamiento y disposición de sus aguas residuales a los usuarios de lotes, fincas o predios comprendidos en los centros de población, área, zona, asentamiento rural o turístico que integre su circunscripción territorial;
 
 VII. Formular y mantener actualizado el padrón de usuarios de los servicios a su cargo;
 
-VIII. Promover y vigilar ante la comunidad, el pago oportuno, el uso eficiente y racional del agua potable, alcantarillado y saneamiento, así cómo el aprovechamiento, descarga, reúso y tratamiento de Aguas Residuales Tratadas, y la disposición final de Iodos;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
 
-IX. Brindar al personal acreditado de la Comisión, todas las facilidades para desempeñar las actividades que tenga conferidas en la ley y su reglamento o le sean encomendadas por la autoridad competente;
+VIII. Brindar al personal acreditado de la Comisión, todas las facilidades para desempeñar las actividades que tenga conferidas en la Ley y su reglamento o le sean encomendadas por la autoridad competente;
 
-X. Prever las necesidades a futuro, tanto de la cabecera municipal como del resto de las localidades del municipio, agotando las posibilidades de exploración de nuevas fuentes de abastecimiento a distancias razonables, pudiendo contar con la asesoría y apoyo de la Comisión a solicitud del Ayuntamiento correspondiente;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
 
-XI. Realizar los estudios técnicos y financieros y las gestiones necesarias para la realización de inversiones públicas productivas del Organismo Operador, cuando se necesite el financiamiento, siguiendo los procedimientos establecidos en las leyes.
+IX. Prever las necesidades a futuro, tanto de la cabecera municipal como del resto de las localidades del Municipio, agotando las posibilidades de exploración de nuevas fuentes de abastecimiento a distancias razonables, pudiendo contar con la asesoría y apoyo de la Comisión a solicitud de su órgano de gobierno o del Ayuntamiento correspondiente;
 
-XII. Elaborar la propuesta de los estudios tarifarios con base en los costos de los servicios públicos de agua potable, alcantarillado y saneamiento en su municipio, considerando como mínimo las partidas presupuestales de gastos de administración, operación, rehabilitación y mantenimiento;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
 
-XIII. Aplicar las cuotas, tasas y tarifas de las contribuciones y productos, por la prestación de los servicios que corresponda;
+X. Realizar los estudios técnicos y financieros y las gestiones necesarias para la realización de inversiones públicas productivas del organismo operador, cuando se necesite el financiamiento, siguiendo los procedimientos establecidos en las leyes de la materia;
 
-XIV. Solicitar a las autoridades competentes la expropiación de bienes necesarios para la prestación de los servicios que les corresponden, en los términos de Ley;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
 
-XV. Rendir el informe de la cuenta mensual a la Hacienda Municipal correspondiente.
+XI. Solicitar a las autoridades competentes la expropiación de bienes necesarios para la prestación de los servicios que les corresponden, en los términos de Ley;
 
-XVI. Rendir anualmente al Ayuntamiento un informe de las labores realizadas durante el ejercicio anterior, así como del estado general del Organismo Operador. En el caso de organismos intermunicipales, se rendirá a cada Ayuntamiento;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
 
-XVII. Permitir y apoyar la fiscalización a los organismos de revisión correspondientes;
+XII. Promover la participación social de los usuarios y de la sociedad organizada en general, en la realización de estudios de costos, inversiones, cuotas y tarifas;
 
-XVIII. Examinar y aprobar su presupuesto anual, los estados financieros, los balances y los informes generales y especiales que procedan; y
+(NOTA: EL 17 DE JUNIO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 99/2012 DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-XIX. Realizar todas las actividades y actos jurídicos encaminados directa o indirectamente al cumplimiento de sus objetivos.
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
 
-XX. Las autoridades municipales serán corresponsables con los Organismos Operadores Descentralizados de:
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
 
-a) La calidad del agua potable suministrada para que cumpla con las normas oficiales establecidas;
+XIII. ELABORAR LA PROPUESTA PARA ESTABLECER O REVISAR LAS CUOTAS O TARIFAS PARA DETERMINAR LOS PAGOS EN CONTRAPRESTACIÓN A SUS SERVICIOS, EN LOS TÉRMINOS QUE ESTABLECE LA PRESENTE LEY, PARA SU PRESENTACIÓN OPORTUNA AL CONSEJO TARIFARIO;
 
-b) La vigilancia del tratamiento de las aguas residuales;
+(NOTA: EL 17 DE JUNIO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 99/2012 DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XIV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-c) El reúso y recirculación de las aguas servidas; y
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
 
-d) Las condiciones particulares de descarga.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
 
-Para cumplir con lo anterior, contarán con el apoyo y asesoría de la Comisión Estatal, previa solicitud al respecto.
+XIV. ENVIAR LA PROPUESTA DE CUOTAS Y TARIFAS AL CONSEJO TARIFARIO PARA SU ANÁLISIS;
+
+(NOTA: EL 17 DE JUNIO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 99/2012 DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN XV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+XV. Gestionar la publicación de las cuotas y tarifas correspondientes a los servicios que opere y administre, EN LOS SUPUESTOS PREVISTOS EN LA FRACCIÓN ANTERIOR, en el medio oficial de divulgación previsto en los ordenamientos municipales;
+
+(NOTA: EL 17 DE JUNIO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 99/2012 DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XVI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+XVI. DETERMINAR EL PAGO QUE DEBEN REALIZAR SUS USUARIOS, COMO CONTRAPRESTACIÓN POR LOS SERVICIOS QUE RECIBEN, GENERAN O DEMANDAN, CON BASE EN LAS CUOTAS Y TARIFAS AUTORIZADAS POR SU CONSEJO TARIFARIO;
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+XVII. Verificar e inspeccionar las tomas, mecanismos de regulación o medición, las redes o instalaciones domiciliarias o privadas en los predios o lotes, para administrar y controlar la dotación de los servicios de agua potable, drenaje, alcantarillado o disposición final de sus aguas residuales o autorizar las solicitudes de conexión, sujetando sus actuaciones a lo dispuesto en las normas que establecen las bases generales y regulan el procedimiento administrativo;
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+XVIII. Aplicar las cuotas y tarifas por la prestación de los servicios que corresponda;
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+XIX. Requerir a los usuarios y recibir el pago en contraprestación de los servicios que reciben, generan o demandan;
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+XX. Proponer al Ayuntamiento, adecuaciones o modificaciones para reformar el reglamento que se indica en el artículo 85 de esta Ley;
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+XXI. Expedir su reglamento orgánico;
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+XXII. Examinar y aprobar su presupuesto (sic) anuales de ingresos y egresos, los estados financieros, los balances y los informes generales y especiales que procedan; y
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+XXIII. Realizar todas las actividades y actos jurídicos encaminados directa o indirectamente al cumplimiento de sus objetivos.
 
 ###### Artículo 53.
 
@@ -871,9 +1069,11 @@ Para los efectos de lo dispuesto en los artículos 15 y 18 de la Ley, la Comisi�
 
 Para los efectos de los articulas 4°, 12, 13 y 16 de la Ley, la Comisión promoverá las acciones necesarias para que los usuarios del agua, la sociedad organizada y los particulares acreditados participen en forma activa en los términos del artículo 57.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 57.
 
-El sector social y los particulares podrán participar en forma organizada, bajo el control y vigilancia de las autoridades competentes, en el estudio, proyecto, financiamiento, construcción, ampliación, rehabilitación, mantenimiento, conservación, operación y administración de la infraestructura hidráulica del Estado, así como para administración de los sistemas y la prestación de los servicios públicos de suministro de agua potable, alcantarillado y tratamiento, incluyendo el reúso, recirculación y disposición de aguas residuales.
+El sector social y los particulares podrán participar en forma organizada, bajo el control y vigilancia de las autoridades competentes, en el estudio, proyecto, financiamiento, construcción, ampliación, rehabilitación, mantenimiento, conservación, operación y administración de la infraestructura hidráulica del Estado, así como para administración de los sistemas y la prestación de los servicios públicos de suministro de agua potable, alcantarillado y tratamiento, incluyendo la reutilización, recirculación y disposición de aguas residuales.
 
 ### CAPÍTULO II. De la organización de los usuarios del agua
 
@@ -909,21 +1109,75 @@ V. Promover y conseguir los consensos de los usuarios y de la sociedad en la exp
 
 VI. Participar en la administración de las aguas estatales en la forma que establezca el Reglamento de la Ley y el marco jurídico que rige al sector;
 
-VII. Promover el uso eficiente y sustentable del agua, y de manera particular, promover el reúso y recirculación de las aguas servidas; y
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+VII. Promover el uso eficiente y sustentable del agua, y de manera particular, promover el (sic) reutilización y recirculación de las aguas servidas; y
 
 VIII. Seleccionar a los representantes de los diferentes tipos de uso para participar en el Consejo Estatal del Agua.
 
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
+Los Consejos Locales se regirán por los lineamientos que se establezcan en el Reglamento de la Ley y por lo dispuesto en su propio reglamento de integración, estructura y funcionamiento. Para los efectos de su mejor operación, contarán con el apoyo de la Comisión y de los Municipios correspondientes.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 61.
 
-Los Consejos Locales se regirán por los lineamientos que se establezcan en el Reglamento de la Ley y por lo dispuesto en su propio reglamento de integración, estructura y funcionamiento. Para los efectos de su mejor operación, contarán con el apoyo de la. Comisión y de los municipios correspondientes.
+La Comisión promoverá la constitución del Consejo Estatal del Agua conformado por los representantes de cada uno de los Consejos Locales de Usuarios del Agua, la Comisión y las autoridades competentes relacionadas con el agua.
+
+El Consejo Estatal del Agua será la instancia de coordinación para elegir la representación de los usuarios del agua ante los Consejos de Cuenca correspondientes.
+
+El Representante de la Comisión fungirá como Secretario Técnico del Consejo Estatal del Agua. Este último se regirá por los lineamientos que se establezcan en el Reglamento de la Ley, su propio reglamento de integración, estructura y funcionamiento y contará con el apoyo de la Comisión y de las dependencias del Gobierno del Estado relacionadas con la materia.
+
+(NOTA: EL 17 DE JUNIO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 99/2012 DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 62.
 
-La Comisión promoverá la constitución del Consejo Estatal del Agua conformado por los representantes de cada uno de los Consejos Locales de Usuarios del Agua, la Comisión y las autoridades competentes relacionadas con el agua. El Consejo Estatal del Agua será la instancia de coordinación para elegir la representación de los usuarios del agua ante los Consejos de Cuenca correspondientes.
+Los Consejos Tarifarios que se constituyan para realizar los estudios y formular las propuestas y aprobación de cuotas y tarifas de los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición final de sus aguas residuales, se integrarán en forma permanente de conformidad con las siguientes disposiciones:
+
+I. Será presidido por el presidente municipal, en el caso que los servicios los preste directamente el municipio, o el titular del organismo operador quien tendrá derecho a voz y sólo en caso de empate, tendrá derecho a voto;
+
+II. En los casos de organismos intermunicipales, participarán como consejeros los representantes de los Municipios que constituyan el organismo operador, los cuales serán designados por los respectivos Ayuntamientos;
+
+III. Participarán con voz y voto, los consejeros o vocales que se especifique en el acuerdo, convenio, decreto o acto de creación que constituya el organismo operador, o el reglamento que para tal efecto se expida por su órgano de gobierno;
+
+IV. El número de consejeros o vocales representantes de asociaciones u organismos ciudadanos con voz y voto, deberá ser cuando menos de un integrante más que la representación de entidades públicas o del concesionario, entre las cuales siempre estará la Comisión; y
+
+V. En todos los casos, los consejeros en su calidad de integrantes del Consejo Tarifario, ejercerán su representación en forma honoraria, por lo cual no percibirán sueldo o pago alguno.
+
+(NOTA: EL 17 DE JUNIO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 99/2012 DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE NOVIEMBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 63.
 
-El Representante de la Comisión fungirá como Secretario Técnico del Consejo Estatal del Agua. Este último se regirá por los lineamientos que se establezcan en el Reglamento de la Ley, su propio reglamento de integración, estructura y funcionamiento y contará con el apoyo de la Comisión y de las dependencias del Gobierno del Estado relacionadas con la materia.
+Los Consejos Tarifarios tendrán las siguientes facultades:
+
+I. Diseñar o actualizar las cuotas y tarifas, observando en todo momento el impacto en la economía de los usuarios así como en el aumento de los precios de los bienes y servicios, de conformidad con las bases generales que establece el artículo 101 Bis de la presente Ley;
+
+II. Verificar que las cuotas y tarifas propuestas sean suficientes para cubrir los costos derivados de la operación, mantenimiento, sustitución, rehabilitación, mejoras y administración de los sistemas de agua potable, drenaje, alcantarillado, tratamiento y disposición final de sus aguas residuales;
+
+III. Solicitar a la Comisión Estatal del Agua, al Municipio o al Organismo Operador la información y asesoría que requieran, para realizar el análisis o revisión de la estructura tarifaria;
+
+IV. Aprobar las cuotas o tarifas, a más tardar el 30 de noviembre del año inmediato anterior a su vigencia;
+
+V. Proponer políticas públicas para la mejor aplicación de las tarifas a los usuarios, de acuerdo a los consumos, características y usos de los predios;
+
+VI. Proponer las políticas y lineamientos mediante las cuales será viable el subsidio de tarifas, cancelación de adeudos o de sus accesorios; como acciones a efecto de promover y hacer efectivo el derecho al agua potable y el saneamiento como un derecho humano esencial para el pleno disfrute de la vida y de todos los derechos humanos;
+
+VII. Hacer propuestas para la formulación, modificación y aprobación de los sistemas de cobranza y manejo de los fondos;
+
+X (SIC). Designar al consejero que desempeñará la función de secretario técnico; y
+
+X. Las demás que establezca la presente ley, su reglamento y los reglamentos municipales.
 
 ### CAPÍTULO III. De la participación de la sociedad
 
@@ -993,9 +1247,13 @@ l. La ejecución de obras de infraestructura hidráulica y proyectos relacionado
 
 II. El financiamiento de obras, instalaciones y equipamiento para la gestión de los recursos hídricos y para la prestación de servicios de aguas rurales y urbanos;
 
-III. La prestación de los servicios públicos de suministro de agua potable, alcantarillado, reúso y tratamiento de aguas residuales;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
 
-IV. La administración, operación y mantenimiento parcial de los sistemas destinados a la prestación de los servicios públicos de agua potable, alcantarillado y tratamiento de aguas residuales, así como el reúso de éstas; y
+III. La prestación de los servicios públicos de suministro de agua potable, alcantarillado, reutilización y tratamiento de aguas residuales;
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+IV. la administración, operación y mantenimiento parcial de los sistemas destinados a la prestación de los servicios públicos de agua potable, alcantarillado y tratamiento de aguas residuales, así como la reutilización de éstas; y
 
 V. Las demás actividades que se convengan con la Comisión, los ayuntamientos o sus Organismos Operadores, en el ámbito de sus respectivas competencias.
 
@@ -1003,9 +1261,15 @@ La participación del sector social y los particulares, en forma directa o media
 
 ### CAPÍTULO II. De la participación de la iniciativa privada en obras hidráulicas
 
-###### Artículo 77.
+(NOTA: EL 17 DE JUNIO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 99/2012 DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-En los contratos y concesiones celebrados con los particulares para la operación de los sistemas de agua potable, alcantarillado o saneamiento, los ayuntamientos o sus organismos operadores mantendrán la facultad de elaborar el proyectó de tarifas generales para que éstas sean fijadas en las leyes de ingresos respectivas.
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 2012)</small>
+
+###### ARTÍCULO 77.
+
+EN LOS CONTRATOS Y CONCESIONES CONCEDIDOS POR LA AUTORIDAD COMPETENTE A PARTICULARES PARA LA OPERACIÓN DE LOS SISTEMAS DE AGUA POTABLE, ALCANTARILLADO O SANEAMIENTO, SE APLICARÁN LAS DISPOSICIONES PARA LA ELABORACIÓN DE LOS PROYECTOS DE CUOTAS O TARIFAS Y SU APROBACIÓN, ESTABLECIDAS EN EL ARTÍCULO 51 DE ESTA LEY.
 
 Los organismos operadores sólo podrán licitar la realización de obras a que se refiere el artículo 76 de ésta Ley, mediante autorización expedida por acuerdo del ayuntamiento respectivo.
 
@@ -1035,13 +1299,17 @@ Previamente a la contratación o concesión de cualquiera de las actividades se�
 
 En caso de requerirlo, el ayuntamiento podrá solicitarle a la Comisión la asistencia necesaria a fin de definir las bases para otorgar las concesiones a que se refiere esta Ley, incluidos los criterios para la publicación de la convocatoria y el establecimiento de los requisitos, garantías y demás modalidades que considere necesarios.
 
-## TÍTULO SEXTO. De la prestación de los servicios públicos de agua potable, alcantarillado y saneamiento
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE AGOSTO DE 2012)</small>
+
+## TÍTULO SEXTO. De la Prestación de los Servicios Públicos de Agua Potable, Drenaje, Alcantarillado, Tratamiento y Disposición Final de las Aguas Residuales
 
 ### CAPÍTULO I. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 83.
 
-Los servicios públicos de agua potable, alcantarillado y saneamiento, prestados por los municipios en todo el ámbito de su territorio, comprenderán las actividades siguientes:
+Los servicios públicos municipales de agua potable, drenaje, alcantarillado, tratamiento y disposición final de las aguas residuales, comprenderán las actividades siguientes:
 
 I. La explotación de aguas asignadas o concesionadas, recepción de agua en bloque, potabilización, conducción y distribución de agua potable, así como la recolección de las aguas residuales;
 
@@ -1049,19 +1317,37 @@ II. El tratamiento de las aguas residuales, su disposición final y la de los Io
 
 III. Operación, control y mantenimiento del alcantarillado sanitario;
 
-IV. La operación, vigilancia y mantenimiento de las obras, equipamiento, plantas, instalaciones y redes correspondientes a los sistemas de agua potable, alcantarillado, saneamiento y reúso;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+IV. La operación, vigilancia y mantenimiento de las obras, equipamiento, plantas, instalaciones y redes correspondientes a los sistemas de agua potable, alcantarillado, saneamiento y reutilización;
 
 V. El servicio de alcantarillado pluvial bajo las características que se establezcan y se convengan en los límites urbanos con el Municipio y el Estado;
 
-VI. La determinación, emisión y recaudación de cuotas, tarifas y los créditos fiscales que se causen por la prestación de los servicios correspondientes;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
 
-VII. La imposición de sanciones por infracciones a las disposiciones de la Ley y demás ordenamientos jurídicos aplicables, en su ámbito de competencia, y
+VI. La instalación de medidores para la cuantificación de la extracción, consumo o descarga para el mejoramiento en la prestación del servicio.
 
-VIII. La instalación de medidores para la cuantificación de la extracción y consumo para todos los usuarios para el mejoramiento en la prestación del servicio.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+VII. La determinación, emisor, y cobro de cuotas, taritas y otras aportaciones que se causen en pago por la prestación de los servicios correspondientes; y
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+VIII. La imposición de sanciones por infracciones a las disposiciones de esta Ley y demás ordenamientos jurídicos aplicables, en su ámbito de competencia.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
+Los Municipios y organismos operadores de los servicios se encontrarán obligados a permitir a los habitantes en forma permanente, regular, continua y uniforme, el acceso al agua potable para satisfacer sus necesidades vitales y sanitarias para uso habitacional, aún en el caso de adeudos no cubiertos por servicios prestados asegurando el suministro de agua de 50 litros por habitante por día.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 84.
 
-Los municipios, organismos operadores y concesionarios de los servicios se encontrarán obligados a permitir a los habitantes en forma permanente, regular, continua y uniforme, el acceso al agua potable para satisfacer sus necesidades vitales y sanitarias, aún en el caso de adeudos no cubiertos por servicios prestados; para dicho efecto, el Gobernador del Estado, o éste a través de la Comisión Estatal, expedirá las normas oficiales estatales que señalen las condiciones y términos técnicos y operativos que deberán observarse.
+Serán principios rectores en materia servicios de agua potable, alcantarillado y saneamiento, garantizar a los usuarios el suministro de un servicio de calidad aceptable al costo más económico posible, a efecto de promover y hacer efectivo el derecho al agua potable y el saneamiento como un derecho humano esencial para el pleno disfrute de la vida y de todos los derechos humanos, mediante:
+
+I. La distribución justa y equitativa de los beneficios y costos que generan los servicios de agua potable y saneamiento; y
+
+II. El pago justo, proporcional y equitativo de las contraprestaciones de los servicios a cargo de los usuarios que aseguren su sustentabilidad técnica y financiera.
 
 ###### Artículo 85.
 
@@ -1076,6 +1362,38 @@ III. Asegurar la generación de información técnica y administrativa que garan
 IV. Dimensional y limitar la participación de los sectores, garantizando igualdad de condiciones para organismos operadores públicos y privados, estableciendo bases claras y orientando las resoluciones hacia soluciones de largo plazo que beneficien a los usuarios; y
 
 V. Para el riego de áreas verdes públicas.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
+###### Artículo 85 Bis.
+
+Los Ayuntamientos expedirán los reglamentos relativos a la prestación de los servicios de agua potable, alcantarillado, tratamiento y disposición final de sus aguas residuales, observando las disposiciones definidas por las leyes federales y las bases generales que se establecen en el presente Título, la Ley del Gobierno y la Administración Pública Municipal y la Ley de Hacienda del Estado de Jalisco. Los reglamentos municipales establecerán:
+
+I. Las disposiciones que regulen la prestación de los servicios conforme a las características específicas de los elementos técnicos, administrativos y demanda de servicios en sus áreas de operación;
+
+II. Su fundamento jurídico;
+
+III. El objeto y fines de los servicios públicos que regula;
+
+IV. Las atribuciones de las autoridades y dependencias municipales en relación con los servicios públicos del agua;
+
+V. En su caso, las normas orgánicas para la integración de sus organismos públicos operadores;
+
+(NOTA: EL 17 DE JUNIO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 99/2012 DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
+
+VI. LAS DISPOSICIONES QUE REGULEN LA INTEGRACIÓN Y FUNCIONAMIENTO DEL CONSEJO TARIFARIO;
+
+VII. Los derechos y obligaciones del prestador de servicios y de los usuarios, que formarán parte de los modelos de contratos entre ambas partes;
+
+VIII. Los mecanismos para la aplicación de las cuotas y tarifas que se cobren por concepto de la prestación de los servicios establecidos en la presente ley;
+
+IX. Los mecanismos para su cobro;
+
+X. Las faltas, infracciones y sanciones en que se pueda incurrir y que deban sancionarse, en la prestación de los servicios públicos que regula; y
+
+XI. Su vigencia.
 
 ###### Artículo 86.
 
@@ -1179,47 +1497,121 @@ En los términos de la Ley y su reglamento, las autoridades competentes y los or
 
 ### CAPÍTULO III. De las cuotas y tarifas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 95.
 
-El sistema de cuotas y tarifas por los servicios de agua potable, alcantarillado y saneamiento deberá propiciar:
+El sistema de cuotas y tarifas por los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición final de las aguas residuales deberá propiciar:
 
 l. La sostenibilidad de los servicios públicos;
 
 II. La adecuación de la demanda de los servicios a los requerimientos suficientes para satisfacer las necesidades vitales y sanitarias;
 
-III. El acceso de la población de bajos ingresos a los servicios públicos, considerando su capacidad de pago;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+III. El acceso de la población de bajos ingresos a los servicios públicos de agua potable y saneamiento como un derecho humano esencial para el pleno disfrute de la vida y de todos los derechos humanos, considerando su capacidad de pago;
 
 IV. Una mayor capacidad de los municipios para la prestación de los servicios públicos y el crecimiento de la oferta; y
 
 V. La orientación y planeación del desarrollo urbano e industrial.
 
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
+En el caso de desarrollos de vivienda, fraccionamientos, parques industriales, centros comerciales, centros educacionales o turísticos y quienes comercialicen desarrollos inmobiliarios, deberán financiar y construir la red o instalación domiciliaria o privada para la prestación de los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición final de sus aguas residuales, así como el costo marginal de la infraestructura general correspondiente.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
+Las inversiones de conservación, mejoramiento o crecimiento de la infraestructura y equipamiento hidráulicos serán recuperables a través de contribuciones de mejoras u otro mecanismo que establezca la Ley, con base en los beneficios específicos que generan a los titulares de los predios y fincas, al proveer o incrementar los servicios públicos necesarios para su utilización.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 96.
 
-Las tarifas autorizadas deberán ser suficientes para cubrir los costos derivados de la operación, mantenimiento, sustitución, rehabilitación, mejoras y administración de los sistemas de agua potable, alcantarillado y saneamiento, las cuotas por derechos federales y garantizar la continuidad de los servicios a los usuarios.
+El servicio de agua potable en el Estado será medido y los volúmenes de consumo, cuotas y cargos, se determinarán de conformidad las siguientes disposiciones:
 
-La introducción de servicios o ampliación de la infraestructura existente, la amortización de las inversiones, así como los gastos financieros de los pasivos correspondientes, se financiarán con recursos de los presupuestos públicos, así como con las contribuciones y productos que correspondan a los usuarios que resulten beneficiarios de la introducción o ampliación de servicios.
+I. Será obligatoria la instalación de aparatos medidores para la cuantificación del consumo para todos los usuarios, incluyendo los servicios a los bienes del dominio público, los cuales estarán regulados en los reglamentos municipales y en el Reglamento de esta Ley;
 
-En el caso de desarrollos de vivienda, fraccionamientos, parques industriales, centros comerciales, centros educativos o turísticos y quienes comercialicen desarrollos inmobiliarios, deberán financiar la infraestructura interna para la prestación de los servicios de agua potable, alcantarillado y saneamiento, así como el costo marginal de la infraestructura general correspondiente.
+II. Los condominios, de acuerdo con las características técnicas de sus redes o instalaciones, instalarán:
 
-En el diseño del esquema tarifario, se observará el impacto de las cuotas y tarifas en la economía de los usuarios así como en el aumento de los precios de los bienes y servicios.
+a) Aparatos de macromedición para la cuantificación del consumo total; en este caso para establecer la cuota correspondiente al rango de consumo, de (sic) dividirá el volumen total entre el número usuarios o áreas privativas; o
+
+b) Aparatos medidores para cuantificar el consumo por cada área común o privativa, los cuales deberán ser accesibles para realizar su verificación o lectura directa o remota del volumen de agua recibido y sus usos específicos; y
+
+c) De acuerdo al diseño de la red o instalación domiciliaria o privada se establecerá el uso específico para aplicar la cuota o tarifa correspondiente;
+
+III. En los lugares donde no haya medidores o mientras estos no se instalen, los pagos serán de conformidad con las cuotas y tarifas autorizadas, las cuales cumplirán con lo establecido en el artículo anterior; y
+
+IV. Cuando no sea posible efectuar la medición de consumo de agua por falta del medidor o por la destrucción total o parcial del mismo no imputables al Ayuntamiento o al organismo operador, los cargos se determinarán con base en los elementos objetivos de que se disponga con relación al volumen estimado presuntivamente, aplicando la cuota o tarifa que corresponda. En cualquier otro caso diverso de los señalados en esta fracción, no podrán imponerse cargos presuntivos al usuario y sólo podrá comenzarse a medir el consumo a partir del momento cuando se realice la instalación de un nuevo aparato de medición.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 97.
 
-El servicio de agua potable en el Estado será medido siendo obligatoria la instalación de aparatos medidores por la autoridad para la cuantificación del consumo para todos los usuarios, incluyendo los servicios a los bienes del dominio público, los cuales estarán regulados en los reglamentos municipales y en el Reglamento de esta Ley.
+Las cuotas y tarifas por la prestación de los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento v disposición final de las aguas residuales comprenderán:
 
-En los lugares donde no haya medidores o mientras estos no se instalen, los pagos serán de conformidad con las cuotas generales autorizadas en las leyes de ingresos respectivas, las cuales cumplirán con lo establecido en el artículo anterior.
+I. Expedición de certificados de factibilidad;
 
-Cuando no sea posible efectuar la medición de consumo de agua por falta del medidor o por la destrucción total o parcial del mismo no imputables al ayuntamiento, organismo operador o concesionario, los cargos se determinarán con base en los elementos objetivos de que se disponga con relación al volumen estimado presuntivamente, aplicando la tarifa, tasa o cuota que corresponda. En cualquier otro caso diverso de los señalados en éste párrafo, no podrán imponerse cargos presuntivos al usuario y sólo podrá comenzarse a medir el consumo a partir del momento en que le sea instalado un nuevo medidor.
+II. La incorporación al sistema;
+
+III. El incremento en la demanda de servicios;
+
+IV. La instalación de tomas domiciliarias;
+
+V. Instalación de toma o descarga provisional;
+
+VI. Ampliación de diámetro de tomas de agua potable o descargas de aguas residuales;
+
+VII. Reposición de tomas de agua potable o descargas de aguas residuales;
+
+VIII. Conexión del servicio de agua;
+
+IX. Conexión al alcantarillado y tratamiento de aguas residuales provenientes de uso habitacional;
+
+X. Conexión al alcantarillado, y tratamiento de aguas residuales provenientes de actividades productivas, cuando la descarga se realice por debajo de las concentraciones permisibles conforme a las normas oficiales mexicanas en materia ecológica y las condiciones particulares de descarga vigentes, en los términos de la legislación aplicable;
+
+XI. Conexión al alcantarillado, y tratamiento de aguas residuales provenientes de actividades productivas, cuando la descarga se realice por arriba de las concentraciones permisibles conforme a las normas oficiales mexicanas en la materia y las condiciones particulares de descarga vigentes, en su caso, en los términos de la legislación aplicable;
+
+XII. Suspensión o reconexión de cualquiera de los servicios;
+
+XIII. Instalación de medidor;
+
+XIV. Uso habitacional;
+
+XV. Uso comercial;
+
+XVI. Uso industrial;
+
+XVII. Uso de servicios en instituciones públicas;
+
+XVIII. Uso en servicios de hotelería;
+
+XIX. Servicios de alcantarillado de aguas pluviales;
+
+XX. Servicios de alcantarillado para uso habitacional;
+
+XXI. Servicios de tratamiento de aguas residuales provenientes de uso habitacional;
+
+XXII. Servicios alcantarillado para los usos no habitacionales;
+
+XXIII. Servicios de tratamiento de aguas residuales provenientes de usos no habitacionales;
+
+XXIV. Servicio de limpieza de fosas y extracción de sólidos o desechos químicos;
+
+XXV. Servicio de abastecimiento de aguas tratadas o crudas; y
+
+XXVI. Los demás que se establezcan en los reglamentos municipales, incluyendo usos específicos y con características propias en la región o municipio, las leyes de ingresos respectivas y en los convenios que se celebren entre los tres órdenes de gobierno.
+
+(NOTA: EL 17 DE JUNIO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 99/2012 DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 98.
 
-Los reglamentos municipales establecerán:
+El Consejo Tarifario determinará o actualizará las cuotas y tarifas de los servicios de agua potable, drenaje, alcantarillado, tratamiento y disposición final de las aguas.
 
-I. Los mecanismos para la aplicación de las cuotas y tarifas que se cobren por concepto de la prestación de los servicios establecidos en la presente ley,
-
-II. Los mecanismos para su cobro, y
-
-III. Los derechos y obligaciones del prestador de servicios y de los usuarios, que formarán parte de los modelos de contratos entre ambas partes.
+Una vez aprobadas las cuotas y tarifas por el Consejo Tarifario se llevará a cabo la publicación de las mismas en las gacetas municipales correspondientes o, en su caso, en el Periódico Oficial "El Estado de Jalisco" a costa del organismo operador, a más tardar el 31 de diciembre del año inmediato anterior a su vigencia.
 
 ###### Artículo 99.
 
@@ -1279,19 +1671,85 @@ III. Los mecanismos para la determinación del costo marginal de aprovechamiento
 
 IV. Los mecanismos para su actualización conforme a las variaciones de la inflación o del costo del dinero, conforme sea aplicable.
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2009)</small>
-
 ###### Artículo 101.
 
-Los gobiernos municipales, a través de sus estructuras organizacionales operadoras del agua, ya sean directas u organismos operadores descentralizados o desconcentrados, estrictamente municipales o intermunicipales, analizarán la propuesta de estructura tarifaria presentada por la Comisión Estatal del Agua y cuando lo consideren justificado, propondrán a sus gobiernos municipales que se integren a la Iniciativa de Ley de Ingresos, para que se someta a la aprobación del Ayuntamiento y sea enviada al Congreso del Estado para su aprobación en los términos de la ley de la materia. En caso de que las cuotas y tarifas no cumplan con lo establecido por el artículo anterior de esta Ley, se deberá garantizar la suficiencia de los presupuestos públicos necesarios para asegurar la sustentabilidad de los servicios en beneficio de la población.
+(DEROGADO, P.O. 18 DE AGOSTO DE 2012)
 
-> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 101 Bis.
 
-La información contenida en el artículo 100 de esta Ley, deberá de anexarse a la Iniciativa de Ley de Ingresos que los municipios presenten al Congreso del Estado, en el mismo tiempo y forma.
+Las cuotas y tarifas estarán integradas por los costos necesarios para garantizar la prestación del servicio, incluirán los costos de operación, administración, conservación, mantenimiento, así como los recursos necesarios para la constitución de un fondo que permita la rehabilitación y mejoramiento de los sistemas, la recuperación del valor actualizado de las inversiones del organismo operador o, en su caso, el servicio de su deuda. Dicho fondo se constituirá y operará de conformidad con las reglas técnicas que apruebe el Ayuntamiento u organismo operador, según sea el caso.
 
-Durante el proceso de análisis de la Iniciativa de Ley de Ingresos, el Congreso del Estado, a través de sus comisiones competentes, podrá convocar a las autoridades municipales respectivas para la revisión de la información a que se refiere el párrafo anterior.
+La recuperación del valor actualizado de las inversiones de infraestructura hidráulica realizadas por los organismos operadores, deberán tomarse en cuenta para incorporarse en la fijación de las tarifas o cuotas respectivas o para su cobro por separado a las directamente beneficiados por las mismas. Se podrán celebrar con los beneficiarios convenios que garanticen la recuperación de la inversión.
+
+Se exceptúa de lo dispuesto en el párrafo anterior, cuando la recuperación de la inversión se esté efectuando a través de contribuciones de mejoras por obras públicas hidráulicas en el Estado o municipio, o una legislación fiscal similar.
+
+(NOTA: EL 17 DE JUNIO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 99/2012 DECLARÓ LA INVALIDEZ DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
+
+SE TOMARÁN EN CUENTA LAS OBSERVACIONES Y SUGERENCIAS QUE REALICEN LOS USUARIOS QUE PARTICIPEN A TRAVÉS DE LOS CONSEJOS TARIFARIOS DE LOS ORGANISMOS OPERADORES A QUE SE REFIERE LA PRESENTE LEY.
+
+Para la actualización de las cuotas y tarifas se atenderá a los indicadores económicos; salarios, energía eléctrica, combustibles, lubricantes; elementos químicos y materiales en general, en la proporción en que forman parte del presupueste (sic) del organismo operador de acuerdo a la siguiente fórmula:
+
+Fa = Is X Ps + lee x Pee + ic x Pc + Ig x Pg
+
+En la que:
+
+Factor de actualización es = 1 + Fa
+
+Is = incremento en el periodo por actualizar en sueldos y salarios en porcentaje.
+
+Ps = porcentaje del presupuesto de operación que representen los sueldos y salarios.
+
+lee = incremento en el periodo por actualizar en energía eléctrica en porcentaje.
+
+Pee = porcentaje del presupuesto de operación que representan la energía eléctrica.
+
+Ic = incremento en el periodo por actualizar en combustibles y lubricantes en general.
+
+Pc = porcentaje del presupuesto de operación que representen los combustibles y lubricantes.
+
+Ig = incremento en el período por actualizar elementos químicos y materiales en general
+
+Pg = porcentaje del presupuesto de operación que representen los elementos químicos y materiales en general.
+
+En el caso de modificación de las tarifas, esta responderá al análisis detallado de costos y presupuesto.
+
+(NOTA: EL 17 DE JUNIO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 99/2012 DECLARÓ LA INVALIDEZ DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
+
+LOS MUNICIPIOS A TRAVÉS DE SUS AYUNTAMIENTOS PODRÁN DETERMINAR SUBSIDIOS PARA PAGO DE LOS SERVICIOS HÍDRICOS A FAVOR DE USUARIOS DEBIDAMENTE TIPIFICADOS POR SUS BAJOS INGRESOS, ESCASOS RECURSOS, O CONDICIONES VULNERABLES, TALES COMO:
+
+a) Pensionados;
+
+b) Jubilados;
+
+c) Discapacitados;
+
+d) Personas viudas; y
+
+e) Personas adultas mayores que cuenten con sesenta años o más de edad.
+
+Los subsidios a que se refiere la fracción anterior:
+
+a) Se otorgarán en forma casuística y explícita;
+
+b) No se otorgarán mediante cuotas o tarifas subsidiadas;
+
+c) Los reglamentos municipales deberán establecer los procedimientos para delimitar su discrecionalidad;
+
+d) Se determinarán en relación con el uso y consumo que se genere en el predio unifamiliar en donde resida el beneficiario.
+
+e) Para fines financieros, en su caso, tales subsidios serán considerados como un costo del servicio; y
+
+(NOTA: EL 17 DE JUNIO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 99/2012 DECLARÓ LA INVALIDEZ DEL INCISO F) DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
+
+F) ESTAS DISPOSICIONES SERÁN OBSERVADAS POR LOS CONSEJOS TARIFARIOS AL APROBAR LAS CUOTAS Y TARIFAS A QUE SE REFIERE LA FRACCIÓN XV DEL ARTÍCULO 2 DE ESTA LEY; (SIC)
 
 ## TÍTULO SÉPTIMO
 
@@ -1327,7 +1785,9 @@ XI. Obstruir la fiscalización a los organismos de revisión competentes, en té
 
 XII. En los casos de negligencia o falta de previsión que provoquen la escasez de agua, se aplicarán las sanciones que se establezcan en el propio titulo de concesión, sin perjuicio de aquellas que establezca la normatividad aplicable;
 
-XIII. Impedir la participación de los usuarios de aguas de jurisdicción estatal, así como de los usuarios de los servicios públicos de suministro de agua potable, alcantarillado, tratamiento y reúso de aguas residuales para los fines establecidos en el artículo 11 de esta Ley;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+XIII. Impedir la participación de los usuarios de aguas de jurisdicción estatal, así como de los usuarios de los servicios públicos de suministro de agua potable, alcantarillado, tratamiento y reutilización de aguas residuales para los fines establecidos en el artículo 11 de esta Ley;
 
 XIV. Negar la expedición de la acreditación a que se refiere el artículo 65 de la Ley injustificadamente;
 
@@ -1355,7 +1815,7 @@ II. Multa por el equivalente de entre cien hasta doscientos días de salario mí
 
 III. Multa por el equivalente de entre doscientos hasta quinientos días de salario mínimo vigente en el área geográfica del Estado donde se cometa la infracción, en tratándose de las infracciones señaladas en las fracciones III, IV, V, VII, XIV, XVI y XIII del artículo 102 de esta Ley;
 
-IV. Multa por el equivalente de entre quinientos hasta mil días de salario mínimo vigente en el área geográfica del Estado donde se cometa la infracción, en tratándose de las infracciones señaladas en las fracciones XV, XX y XXI del articulo 102de esta Ley; y
+IV. Multa por el equivalente de entre quinientos hasta mil días de salario mínimo vigente en el área geográfica del Estado donde se cometa la infracción, en tratándose de las infracciones señaladas en las fracciones XV, XX y XXI del articulo 102 de esta Ley; y
 
 V. Suspensión o cancelación del titulo de concesión, en tratándose de las infracciones previstas en las fracciones III, IV, V, XX y XXI del artículo 102 de esta Ley, además de la multa que corresponda.
 
@@ -1444,3 +1904,39 @@ P.O. 9 DE OCTUBRE DE 2007.
 P.O.16 DE MAYO DE 2009.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 18 DE AGOSTO DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. El Titular del Poder Ejecutivo, los Ayuntamientos y los organismos operadores, en el ámbito de sus respectivas competencias, deberán expedir o promover se emitan o modifiquen los reglamentos necesarios para la aplicación del presente Decreto en un término de noventa días naturales contados a partir del día siguiente a la entrada en vigor del presente Decreto.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE NOVIEMBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+TERCERO. Los Ayuntamientos procederán a emitir los reglamentos municipales para regular la prestación de los servicios de agua potable, alcantarillado, drenaje y tratamiento de sus aguas residuales, conforme a sus atribuciones constitucionales y las disposiciones que se establecen en el presente decreto y en la Ley del Gobierno y la Administración (sic) Municipal.
+
+CUARTO. Los Ayuntamientos y los organismos operadores deberán constituir, integrar y operar su respectivo consejo tarifario, en un término no mayor de treinta días naturales contados partir del día siguiente de la entrada en vigor del presente decreto.
+
+(NOTA: EL 17 DE JUNIO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 99/2012 DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO, DEL TRANSITORIO CUARTO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
+
+LOS CONSEJOS TARIFARIOS DEBERÁN ESTABLECER LA TARIFA PARA EL EJERCICIO FISCAL 2013 A MÁS TARDAR EL 30 DE SEPTIEMBRE DE 2012. En caso de que no se haya realizado en dicha fecha, se actualizarán las tarifas vigentes conforme al índice nacional de precios al consumidor al mes de noviembre de 2012, para su vigencia a partir del año 2013.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE NOVIEMBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+QUINTO. Los ayuntamientos y sus organismos operadores, para asumir la administración de los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales, con la atribución de autorizar sus cuotas o tarifas conforme las disposiciones de la presente ley, será necesario hayan cumplido con:
+
+(NOTA: EL 17 DE JUNIO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 99/2012 DECLARÓ LA INVALIDEZ DEL TRANSITORIO QUINTO FRACCIÓN I INDICADA CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
+
+I. CONSTITUIR EL CONSEJO TARIFARIO, DE CONFORMIDAD CON LAS DISPOSICIONES DEL PRESENTE DECRETO; Y
+
+II. Formular y aprobar los instrumentos administrativos necesarios para adecuarse a las presentes reformas.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE NOVIEMBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+SEXTO. A partir de la fecha cuando el Ayuntamiento y sus dependencias u organismos asuman la administración de los servicios públicos de agua potable y saneamiento en los términos de las reformas y adiciones que se autorizan, se derogarán todas las disposiciones que se opongan a lo establecido en el presente Decreto, en el ámbito de aplicación correspondiente a ese Municipio.
+
+A partir de la fecha cuando el Ayuntamiento y sus dependencias u organismos asuman la administración de los servicios públicos de agua potable y saneamiento en los términos de las reformas y adiciones que se autorizan, se derogarán todas las disposiciones que se opongan a lo establecido en el presente Decreto, en el ámbito de de (sic) aplicación correspondiente a ese Municipio. (sic)
