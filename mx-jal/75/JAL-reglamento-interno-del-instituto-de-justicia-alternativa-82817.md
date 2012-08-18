@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interno-del-instituto-de-justicia-alternativa-82817"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-09-08"
-last_updated: "2011-09-08"
+last_updated: "2012-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO INTERNO DEL INSTITUTO DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2012.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 8 de septiembre de 2011.
 
@@ -119,9 +119,21 @@ b) Comisiones
 
 II. Director General:
 
-a) Coordinador del Departamento de Organización, Proyectos y Evaluación
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2012)</small>
 
-b) Jefe del Área de Proyectos, Sistemas y Procedimientos
+a) Contralor
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
+b) Jefe del Departamento de Organización, Medios y Proyectos
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
+b. 1) Coordinador del Departamento de Proyectos, Sistemas y Procedimientos
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
+b. 2) Coordinador del Área de Relaciones Públicas y Medios de Comunicación
 
 III. Secretario Técnico:
 
@@ -155,7 +167,7 @@ a) Jefe del Departamento de Capacitación
 
 b) Jefe del Departamento de Difusión
 
-c) Coordinador del Área de Relaciones Públicas y Medios de Comunicación
+c) (DEROGADO, P.O. 18 DE AGOSTO DE 2012)
 
 VII. Director de Administración y Planeación
 
@@ -170,6 +182,10 @@ d) Coordinador del Área de Informática
 e) Coordinador del Área Técnica en Sistemas Computacionales
 
 VIII. Titulares de las Sedes Regionales
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
+Artículo 5 bis.- Cada Dirección de Área podrá integrar dentro de su estructura interna a Jefes de Departamento, Coordinadores de Departamento y Coordinadores de Área, de acuerdo a las necesidades del Área, de las cargas de trabajo y de la forma en que se requiera distribuir, siempre que el presupuesto lo permita.
 
 ###### Artículo 6.
 
@@ -237,9 +253,11 @@ Las resoluciones del Consejo, se tomarán por unanimidad o mayoría de votos de 
 
 La discusión de un asunto en el Pleno podrá diferirse, a propuesta de cualquier Consejero y votada por mayoría.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 19.
 
-Las votaciones serán a favor o en contra de la propuesta, ponencia o dictamen. El Secretario Técnico, computará la votación y la hará del conocimiento del Director General quien hará la declaratoria respectiva.
+Las votaciones serán a favor, en contra o de abstención de la propuesta, ponencia o dictamen, en caso de voto de abstención se deberá motivar el mismo. El Secretario Técnico, computará la votación y la hará del conocimiento del Director General quien hará la declaratoria respectiva.
 
 ###### Artículo 20.
 
@@ -263,9 +281,11 @@ Los Consejeros suplentes participaran en las sesiones del Consejo con las mismas
 
 #### Sección Segunda. De Las Comisiones Colegiadas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 22.
 
-El Consejo integrara Comisiones Permanentes o Transitorias que se conformarán por lo menos por tres miembros, integrando cuando menos a un Consejero, que coordinará la misma, el Director de Departamento del área correspondiente, en su caso un secretario, así mismo se invitaran como integrantes de la misma con derecho de voz y voto a representantes de Cámaras Empresariales, Universidades, Colegios de Profesionistas, Organismos paraestatales y Organizaciones Civiles.
+El Consejo integrará Comisiones Permanentes o Transitorias que se conformarán por lo menos por tres miembros, integrando cuando menos a un Consejero, quien la presidirá; el Director del área correspondiente, quien la coordinará; en su caso un secretario; así mismo se invitarán como integrantes de la misma con derecho de voz y voto a representantes de Cámaras Empresariales; Universidades; Colegios de Profesionistas; Organismos Paraestatales y Organizaciones Civiles.
 
 Las Comisiones en un término no mayor de quince días a su encomienda informarán al Consejo de su actividad, emitiendo en su caso un dictamen u opinión, la cual remitirán al Director General por conducto del Secretario Técnico, plazo que podrá ampliarse según la naturaleza del asunto, previa autorización del Consejo.
 
@@ -365,9 +385,29 @@ Estas facultades les otorgan representación expresa ante las autoridades Federa
 
 El Director General puede delegar todo o en parte las facultades Generales Judiciales, antes señaladas, a quien considere necesario y revocarlas.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 33.
 
-La Dirección General contará a su cargo con la Coordinación del Departamento de Organización, Sistemas y procesos, la cual desarrollará las siguientes funciones:
+La Dirección General contará a su cargo con la Contraloría, la cual desarrollara las siguientes funciones:
+
+I. Elaborar y ejecutar su programa anual de trabajo;
+
+II. Vigilar el cumplimiento por parte de los órganos administrativos, respecto de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, egresos, financiamiento, patrimonio y fondos;
+
+III. Vigilar que las erogaciones y adquisiciones del Instituto se ajusten a las partidas, montos autorizados y procedimientos establecidos en la reglamentación institucional;
+
+IV. Vigilar el cumplimiento por parte de los distintos órganos del Instituto de los lineamientos que en materia de control para el uso de insumos, resguardo de bienes, entrega y recepción de áreas, que determine la Dirección General;
+
+V. Recibir y remitir al Director General las denuncias y quejas presentadas en contra de los servidores públicos del Instituto;
+
+VI. Llevar el control, registro y verificación de la situación patrimonial de los servidores públicos;
+
+VII. Las demás que determine el Director General y establezcan los reglamentos institucionales.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
+Artículo 33 bis.- La Dirección General contará a su cargo con la Jefatura del Departamento de Organización, Medios y Proyectos, la cual desarrollará las siguientes funciones:
 
 I. Informar a la Dirección General sobre los requerimientos de profesionalización de los servidores públicos del Instituto;
 
@@ -379,23 +419,37 @@ IV. Diagnosticar periódicamente, la organización y funcionamiento de los órga
 
 V. Constituir un vínculo entre las distintas Direcciones que integran el Instituto;
 
-VI. Trabajar en un sistema virtual que simplifique el proceso de los métodos y eficiente el trabajo de los prestadores;
+VI. Trabajar en un proyecto para virtualizar el servicio, que simplifique el proceso de los métodos alternos, y eficiente el trabajo de los prestadores;
 
 VII. Trabajar en la estandarización de los procesos a fin de obtener la certificación de servicio del Instituto ante los organismos nacionales correspondiente (sic);
 
-VIII. Proponer las herramientas tecnológicas adecuadas para mantener a la vanguardia de servicio al Instituto y optimizar los recursos del mismo.
+VIII. Proponer proyectos para mantener a la vanguardia de servicio al Instituto y optimizar sus recursos;
 
-###### Artículo 34.
+IX. Gestionar y mantener lazos de comunicación con las diversas autoridades administrativas, judiciales y legislativas, así como con actores sociales y económicos del Estado y de otras entidades;
 
-La Dirección General tendrá a su cargo la la Jefatura de Área de Procesos, Sistemas y Procedimientos, la cual realizará las siguientes funciones:
+X. Gestionar y mantener un vínculo con los medios de comunicación local, nacional e internacional,
+
+XI. Proponer y trabajar en una imagen corporativa del Instituto, a efecto de crear una identidad y posicionarla en los medios y en la sociedad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 2012)</small>
+
+###### ARTÍCULO 34.
+
+La Jefatura del Departamento de Organización, Medios y Proyectos tendrá a su cargo la Coordinación del Departamento de Proyectos, Sistemas y Procedimientos, la cual realizará las siguientes funciones:
 
 I. Proponer al Director General, el establecimiento de vínculos institucionales para el intercambio de información con dependencias, organismos, entidades u otras instituciones nacionales e internacionales;
 
-II. Elaborar los convenios de colaboración con las distintas dependencias, organismos,entidades u otras instituciones nacionales e internacionales;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
 
-III. Dar segumiento a los programas que se generen para el cumplimiento de los convenios de colaboración;
+II. Elaborar los proyectos de Acuerdo de la Dirección General, para la operación interna del Instituto;
 
-IV. Coadyuvar en los procesos de los programas nacionales e internacionales que apoyen el desarrollo e implementación de los métodos alternos como solución pacífica de conflictos;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+III. Elaborar los proyectos de Iniciativas y propuestas que la Dirección General le instruya;
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+IV. Coadyuvar en la elaboración de los proyectos ejecutivos, programas y planes, del Instituto;
 
 V. Colaborar en los proyectos de expansión, capacitación y difusión que la Dirección General, le instruya;
 
@@ -403,9 +457,31 @@ VI. Identificar las áreas de oportunidad en los procesos internos, a fin de bri
 
 VII. Colaborar con las distintas Direcciones a fin de estructurar la normatividad del Instituto;
 
-VIII. Coadyuvar a solicitud de los diversos óganos del Instituto, en la elaboración de sus programas, manuales de operación y procedimientos;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
 
-IX. Brindar apoyo en la logística para la coordinación institucional de eventos.
+VIII. Coordinar y coadyuvar en la elaboración de los manuales de operación y procedimientos de las distintas Áreas del Instituto;
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+IX. Proponer los mecanismos de apoyo para que la Dirección General evalúe los avances en la implementación de los proyectos, programas y planes de las distintas Áreas.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
+Artículo 34 bis.- La Jefatura del Departamento de Organización, Medios y Proyectos, tendrá a su cargo la Coordinación del Área de Relaciones Públicas y Medios de Comunicación, la cual realizará las siguientes funciones:
+
+I. Mantener vínculos con organismos públicos y privados para socializar al Instituto;
+
+II. Monitoreo, convocatoria y agenda de medios de comunicación;
+
+III. Apoyar en la difusión de los programas implementados por el Instituto, que la Dirección General le instruya;
+
+IV. Gestionar espacios en expos, ferias, convenciones y congresos, con objeto de Participar a través de stands, presentaciones públicas, talleres y conferencias;
+
+V. Coadyuvar con las distintas áreas en la logística y protocolo de eventos institucionales;
+
+VI. Realizar avanzada protocolar en los eventos en los que participen los Directivos del Instituto;
+
+VII. Coadyuvar en preservar una imagen institucional.
 
 ### CAPITULO V. DEL SECRETARIO TÉCNICO
 
@@ -419,7 +495,9 @@ II. Auxiliar al Director General en la Dirección Técnica y Administrativa del 
 
 III. Dar fe de la suscripción de los convenios que firme el Director General con las Instituciones Públicas y Privadas;
 
-IV. Auxiliar al Director General en el ejercicio de sus funciones;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+IV. Emitir opinión jurídica respecto las actividades del Instituto, a fin de valorar sus implicaciones legales.
 
 V. Expedir las copias certificadas autorizadas por el Director General;
 
@@ -667,6 +745,12 @@ XIII. Justificar las necesidades de desarrollo organizacional de la Dirección y
 
 XIV. Recoger las experiencias del Centro para la realización de estudios y análisis de carácter prospectivo que realice el Instituto;
 
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+XV. Proponer y elaborar los proyectos de convenios de colaboración con organismos públicos y privados, previa autorización de la Dirección General;
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
 XVI. Las demás que la Ley, los Reglamentos Institucionales y el Consejo acuerden.
 
 ###### Artículo 53.
@@ -805,23 +889,7 @@ VIII (SIC). Las demás que determine la Dirección de Capacitación y Difusión 
 
 ###### Artículo 61.
 
-La Dirección tendrá a su cargo la Coordinación del Área de Relaciones Públicas y Medios de Comunicación, a la cual le corresponde realizar las funciones siguientes:
-
-I. Gestionar y mantener lazos de comunicación entre el Instituto y las diversas autoridades administrativas, judiciales y legislativas, así como los distintos actores sociales y económicos del Estado de Jalisco;
-
-II. Ser el conducto entre el Instituto y los medios de comunicación local, nacional e internacional;
-
-III. Elaborar y proponer una imagen corporativa institucional para difundirla en los medios de comunicación, bajo la aprobación de la Dirección General;
-
-IV. Convocar a los medios de comunicación a petición del Director General;
-
-V. Apoyar en los programas de difusión y capacitación que implemente el Instituto;
-
-VI. Solicitar y agendar ante los medios de comunicación, entrevistas, participaciones especiales en programas y conferencias, al Director General y Directores de cada una de las áreas, para la promoción de la cultura de la paz y la implementación de los métodos alternos como solución de conflictos;
-
-VII. Gestionar espacios en expos, congresos y convenciones nacionales e internacionales, para una participación activa del Instituto;
-
-VIII. Las demás que el Director General y el Director del Área le instruyan.
+(DEROGADO, P.O. 18 DE AGOSTO DE 2012)
 
 #### Sección Cuarta. De la Dirección de Administración y Planeación
 
@@ -843,7 +911,9 @@ VI. Llevar a cabo las gestiones administrativas ante toda clase de autoridades, 
 
 VII. Administrar los recursos humanos, financieros, materiales y técnicos del Instituto;
 
-VIII. Llevar a cabo las gestiones administrativas ante toda clase de autoridades, instituciones, entidades y personas públicas y privadas, en cumplimiento de la instricciones del Director General;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+VIII. Proveer capacitación interna al personal del Instituto para el desarrollo y formación de sus habilidades;
 
 IX. Las demás que la Ley, los Reglamentos Institucionales y el Consejo acuerden.
 
@@ -851,7 +921,9 @@ IX. Las demás que la Ley, los Reglamentos Institucionales y el Consejo acuerden
 
 Corresponde a la Jefatura del Departamento de Recursos Humanos, realizar las siguientes funciones:
 
-I. Integrar, resguardar y mantener los expedientes de todos los funcionarios y trabajadores del Instituto;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+I. Integrar, resguardar y mantener actualizados los expedientes de todos los funcionarios y trabajadores del Instituto;
 
 II. Resguardar el archivo de los expedientes de los trabajadores del Instituto.
 
@@ -859,11 +931,19 @@ III. Llevar a cabo el cálculo y control de prestaciones de los funcionarios y t
 
 IV. Llevar el registro y control de asistencias, licencias o permisos de los funcionarios y trabajadores del Instituto;
 
-V. Realizar el pago de nómina a los funcionarios y trabajadores del Instituto, previa autorización y firma correspondiente;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+V. Elaborar la nómina de los funcionarios y trabajadores del Instituto;
 
 VI. Coordinarse con las distintas autoridades, tales como IMSS, Pensiones del Estado, para realizar los trámites relativos a las necesidades de los trabajadores del Instituto.
 
-VII. Las demás que le determine la Dirección de Administración y Planeación.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+VII. Diagnosticar las necesidades en materia de capacitación interna, a efecto de proponer la impartición de cursos, talleres, diplomados y eventos académicos para fortalecer el conocimiento y habilidades de los funcionarios y trabajadores del Instituto;
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+VIII. Las demás que le determine la Dirección de Administración y Planeación.
 
 ###### Artículo 64.
 
@@ -893,7 +973,13 @@ IV. Dar el seguimiento para que con la oportunidad debida se remita el proyecto 
 
 V. Realizar los cálculos y determinaciones que en materia administrativa, contable, fiscal y financiera se encuentre sujeto el Instituto;
 
-VI. Las demás que le determine la Dirección de Administración y Planeación.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+VI. Realizar el pago de nómina a los funcionarios y trabajadores del Instituto, previa autorización y recabando constancia del mismo;
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+VII. Las demás que le determine la Dirección de Administración y Planeación.
 
 ###### Artículo 66.
 
@@ -989,9 +1075,11 @@ XIV. Rendir informe general anual sobre el funcionamiento, actividades y resulta
 
 XV. Las demás atribuciones y deberes establecidos en la Ley, Reglamentos Institucionales o los acordados por el Consejo.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 69.
 
-Las Sedes Regionales contarán con el número de mediadores y conciliadores que se requieran de conformidad con el presupuesto, quienes se encargarán de la conducción de los procedimientos de métodos alternativos de solución de conflictos previstos en la Ley.
+Las Sedes Regionales contarán con el número de mediadores, conciliadores, árbitros, notificadores, personal técnico y administrativo que se requiera y el presupuesto lo permita, quienes se encargarán de la conducción de los procedimientos de métodos alternativos de solución de conflictos previstos en Ley.
 
 ### CAPITULO VII. RÉGIMEN DE SUPLENCIAS
 
@@ -1107,6 +1195,164 @@ Por lo que hace al acervo general de información del Instituto, se custodiará,
 
 El Instituto automatizará sus procedimientos y dará seguimiento a los mismos, con el empleo de sistemas y tecnologías de la información actualizados.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE AGOSTO DE 2012)</small>
+
+### CAPÍTULO VIII. DE LA RESPONSABILIDAD ADMINISTRATIVA DE LOS SERVIDORES PUBLlCOS DEL INSTITUTO
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
+###### Artículo 89.
+
+Todo servidor público, para salvaguardar la legalidad, honradez, lealtad, imparcialidad, confidencialidad y eficiencia que debe observar en el desempeño de su empleo, cargo o comisión, y sin perjuicio de sus derechos y obligaciones laborales tiene las siguientes obligaciones:
+
+l. Cumplir con la máxima diligencia el servicio que le sea encomendado, y abstenerse de cualquier acto u omisión que cause la suspensión o deficiencias de dicho servicio o implique abuso o ejercicio indebido de su empleo, cargo o comisión;
+
+II. Preservar los principios que rigen el funcionamiento del Instituto, en el desempeño de sus labores;
+
+III. Formular y ejecutar legalmente, en su caso, los planes, programas y presupuestos correspondientes a su competencia, y cumplir las leyes y normas que determinen el manejo de los recursos económicos públicos;
+
+IV. Utilizar los recursos que tengan asignados y las facultades que le sean atribuidas, o la información reservada a la que tenga acceso por su función, exclusivamente para los fines a que estén afectos;
+
+V. Conservar y custodiar los bienes, valores, documentos e información que tenga bajo su cuidado, o a la que tuviere acceso impidiendo o evitando el uso, la sustracción, ocultamiento o utilización indebida de aquella;
+
+VI. Observar buena conducta, tratando con respeto, diligencia, imparcialidad y rectitud a las personas con que tenga relación, con motivo de sus funciones;
+
+VII. Observar en la dirección de sus inferiores jerárquicos las debidas reglas del trato, y abstenerse de incurrir en agravio, desviación o abuso de autoridad;
+
+VIII. Observar respeto y subordinación con sus superiores jerárquicos, cumpliendo las disposiciones que éstos dicten, en el ejercicio de sus atribuciones;
+
+IX. Excusarse de intervenir en cualquier forma en la atención, tramitación o resolución de asuntos en los que tenga interés personal, familiar o de negocios, incluyendo aquellos en los que pueda resultar algún beneficio para él, su cónyuge o parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que servidor o las personas antes referidas formen o hayan formado parte;
+
+X. Informar por escrito a su superior jerárquico inmediato sobre la atención, trámite o resolución de los asuntos a que hace referencia la fracción anterior y que sean de su conocimiento, debiendo observar las instrucciones que por escrito le sean giradas por su superior sobre su atención, tramitación o resolución;
+
+XI. Abstenerse de inmiscuirse indebidamente en cuestiones que competan a otros órganos del Instituto;
+
+XII. Abstenerse de ejercer funciones, después de concluido el periodo para el cual se le designo, o de haber cesado, por cualquier otra causa, en sus funciones;
+
+XIII. Abstenerse el superior jerárquico de disponer o autorizar a un servidor público a no asistir, a sus labores más de quince días continuos o treinta discontinuos, en un año, así como otorgar licencias, permisos o comisiones con goce parcial o total de sueldo y otras percepciones, sin causa justificada;
+
+XIV. Abstenerse de desempeñar otro empleo, cargo o comisión oficial o particular en horarios concurrentes o que la ley prohíba;
+
+XV. Abstenerse de autorizar la selección, contratación, nombramiento o designación, de quien se encuentre inhabilitado por resolución firme de autoridad competente, para ocupar empleo, cargo o comisión en el servicio público;
+
+XVI Abstenerse de intervenir en el nombramiento, contratación, o promoción, por sí o por conducto de otro servidor público, a personas que tengan parentesco consanguíneo o por afinidad hasta el cuarto grado, para ocupar algún cargo público en el Instituto de los señalados en la Ley para los Servidores Públicos, cuando al momento que el servidor público asumió el cargo o comisión de que se trate ya se encontrare en ejercicio de una función o responsabilidad pública, el familiar comprendido dentro de esta restricción, no existirá responsabilidad;
+
+XVII. Abstenerse de solicitar, aceptar, recibir u obtener por sí o por interpósita persona, dinero o cualquier otra dádiva o servicio, para sí o para un tercero u ofrecer una promesa para hacer o promover algo ilegal o dejar de hacer lo legal relacionado con sus funciones, esta prevención es aplicable hasta por un año después de que haya cumplido el ejercicio de sus funciones;
+
+XVIII. Atender los requerimientos y observaciones que reciba de la Contraloría del Instituto;
+
+XIX. Abstenerse de cualquier acto u omisión que implique incumplimiento de las disposiciones jurídicas relacionadas con el servicio público;
+
+XX. Abstenerse de realizar violaciones a los planes, programas, y presupuesto del Instituto y de los ordenamientos que determinen el manejo de los recursos económicos de éste;
+
+XXI. Respetar y hacer respetar el derecho a la formulación de quejas y denuncias por parte de los ciudadanos;
+
+XXII. Supervisar que los servidores públicos adscritos a su área, cumplan con las disposiciones del presente ordenamiento y denunciar por escrito sin demora y bajo su estricta responsabilidad, ante el Director General, los actos y omisiones que en el ejercicio de sus funciones llegue a advertir respecto de cualquier servidor público, que puedan ser causa de responsabilidad administrativa en los términos de este ordenamiento;
+
+XXIII. Entregar formalmente a quien le sustituya en el cargo, o a la persona que para tal efecto designe el superior jerárquico, los recursos patrimoniales que haya tenido a disposición, así como los documentos y una relación de los asuntos relacionados con sus funciones. Esta entrega deberá realizarse a más tardar a los cinco días hábiles contados a partir de la fecha en que renuncie o se le notifique su separación del cargo, debiendo elaborar un acta circunstanciada;
+
+XXIV. Recibir, al entrar en posesión del cargo, los recursos y documentos a que se refiere la fracción anterior, verificar que correspondan al contenido del acta circunstanciada, verificar los inventarios, informes y demás documentación anexa y solicitar las aclaraciones pertinentes dentro del término de cinco días hábiles contados a partir del acto de entrega y recepción, de no hacerse se supondrá que no existen aclaraciones que hacer;
+
+XXV. Abstenerse en el ejercicio de su cargo o funciones o con motivo de ellas, de celebrar o autorizar la celebración de pedidos o contratos relacionados con adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicio de cualquier naturaleza y la contratación de obra pública con quien desempeñe un empleo, cargo o comisión en el servicio público o bien con las sociedades con las que dichas personas formen parte sin la autorización previa y específica de quien de acuerdo al Reglamento de Adquisiciones y Enajenaciones del Instituto deba hacerlo;
+
+XXVI. Respetar el derecho de petición de los particulares en los términos del artículo 8 de la Constitución Política de los Estados Unidos Mexicanos;
+
+XXVII. Recibir las promociones, que les sean presentadas en forma escrita por los ciudadanos;
+
+XXVIII. Abstenerse de imponer condiciones, prestaciones u obligaciones que no estén previstas en la Ley o reglamentos del Instituto;
+
+XXIX. Presentar con oportunidad y veracidad la declaración de situación patrimonial, quienes estén obligados a ello en los términos que señala el presente ordenamiento;
+
+XXX. Las demás que determine la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, y le impongan las leyes y reglamentos que resulten aplicables.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
+###### Artículo 90.
+
+Cualquier persona mediante la presentación de elementos de prueba, podrá denunciar ante el Contralor del Instituto, los actos y omisiones que impliquen incumplimiento de las obligaciones de los servidores públicos. No se dará trámite alguno a denuncias o quejas anónimas.
+
+El Contralor deberá remitir dentro de los 5 días hábiles siguientes, la denuncia al Director General con el resultado de las investigaciones que se hubieren desprendido.
+
+El Director General una vez recibida la denuncia y la información que de ella se derive resolverá sobre la instauración del procedimiento disciplinario en los casos que corresponda.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
+###### Artículo 91.
+
+El procedimiento para la aplicación de sanciones, estará sujeto a las reglas que establece la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, correspondiéndole el desahogo del mismo al Coordinador Jurídico del Instituto.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
+###### Artículo 92.
+
+El Director General una vez recibidas las actuaciones relativas al desahogo del procedimiento resolverá dentro de los treinta días naturales siguientes sobre la existencia o inexistencia de responsabilidad, imponiendo al infractor la sanción administrativa correspondiente.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
+###### Artículo 93.
+
+La imposición de sanciones por parte del Director General se regulará conforme lo dispone la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE AGOSTO DE 2012)</small>
+
+### CAPÍTULO IX. DE LA SITUACION PATRIMONIAL
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
+###### Artículo 94.
+
+Tienen obligación de presentar la declaración de situación patrimonial el Director General, el Secretario Técnico, los Directores de Área, los Jefes de Departamento, Contralor y los Coordinadores de Departamento y Área.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
+###### Artículo 95.
+
+El control, registro y verificación de la situación patrimonial de los servidores públicos del Instituto obligados a declararla, estará a cargo de la Contraloría del Instituto.
+
+La Contraloría, tendrá facultades para revisar las declaraciones de situación patrimonial a fin de verificar la veracidad de los datos asentados, para lo cual se podrá citar a los servidores públicos que considere, a efecto de que aclaren o proporcionen la información que se requiera para solventar errores o dudas con relación a su conducta patrimonial.
+
+La Contraloría, deberá expedir constancias que acrediten la oportuna presentación de las declaraciones patrimoniales a que hubiere estado obligado el servidor público.
+
+Así mismo deberá mandar publicar en el periódico oficial "el Estado de Jalisco” la lista de aquellos servidores públicos obligados, que no la hubieren presentado en los términos y bajo las condiciones que se establece en el presente ordenamiento.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
+###### Artículo 96.
+
+La declaración de situación patrimonial deberá presentarse en los plazos:
+
+I. La inicial, dentro de los sesenta días naturales siguientes a la toma de posesión,
+
+II. La anual, durante los meses de enero a mayo de cada año, salvo que en ese mismo año hubiese ingresado a un cargo obligado a presentar la declaración señalada en la fracción anterior; y
+
+III. La final, dentro de los treinta días naturales siguientes a la conclusión del encargo.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
+###### Artículo 97.
+
+En caso de incumplimiento de las obligaciones consignadas en las fracciones I, II y III del artículo anterior, la Contraloría requerirá por oficio al servidor público omiso para que en el término de quince días hábiles, contados a partir del momento en que sea requerido cumpla con su obligación.
+
+Si transcurrido dicho término el servidor público no cumple con su obligación, se le instaurará el procedimiento de responsabilidad a que alude el artículo 90 del presente ordenamiento.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
+###### Artículo 98.
+
+Los formatos en los cuales se debe presentar la declaración patrimonial deberán ser proporcionados oportunamente a los servidores públicos por la Contraloría, en forma impresa o bien a través de la página de internet del Instituto.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
+###### Artículo 99.
+
+Las declaraciones de situación patrimonial deberán presentarse bajo protesta de decir verdad y debe contener cuando menos los datos establecidos en el artículo 85 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
+###### Artículo 100.
+
+Cuando del contenido de la declaración del servidor público se desprendan elementos que hagan evidente un enriquecimiento ilícito, se detecte falsedad en los datos proporcionados o no presentare su declaración dentro del término establecido, aún una vez requerido, lo cual presuma un incremento en el patrimonio de procedencia ilícita, se deberá presentar la denuncia respectiva ante las autoridades correspondientes.
+
 T R A N S I T O R I O S :
 
 PRIMERO.- El presente Reglamento entrará en vigor una vez aprobado por el Consejo del Instituto y Publicado en el "Boletín Judicial" y en el Periódico Oficial "El Estado de Jalisco".
@@ -1174,3 +1420,23 @@ SE EXPIDE LA PRESENTE CERTIFICACIÓN, EN LA CIUDAD DE GUADALAJARA, JALISCO A LOS
 LICENCIADO IGNACIO ALFONSO REJÓN CERVANTES
 
 SECRETARIO TECNICO DEL INSTITUTO DE JUSTICIA ALTERNATIVA DEL ESTADO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE AGOSTO DE 2012.
+
+PRIMERO.- Por lo que respecta a las reformas a los artículos 5 fracción II inciso a) y 33 de este Reglamento, relativas al cargo de Contralor, el Director General propondrá una terna de candidatos al Consejo para su elección.
+
+SEGUNDO.- Las presentes reformas a los artículos 5 fracciones II incisos a), b), b.1) y b.2) y VI inciso c); 5 bis; 19; 22; 33; 33 bis fracciones VI, VIII, IX, X y XI; 34 fracciones II, III, IV, VIII y IX; 34 bis; 35 fracción IV; 52 fracciones XV y XVI; 61; 62 fracción VIII; 63 fracciones I, V y VII; 65 fracciones VI y VII; 69; e inclusión de los Capítulos VIII y IX, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+Con base en las anteriores consideraciones, se proponen los siguientes puntos de:
+
+A C U E R D O:
+
+PRIMERO.- Se aprueba el texto de la propuesta de reforma de diversos artículos del Reglamento Interno del Instituto de Justicia Alternativa, de conformidad con el artículo 28 fracción IX de la Ley de Justicia Alternativa del Estado de Jalisco.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Periódico Oficial "El Estado de Jalisco" y notifíquese a las autoridades que corresponde.
+
+TERCERO.- Publíquese el presente acuerdo en el Portal de Internet del Instituto de Justicia Alternativa del Estado.
+
+CUARTO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
