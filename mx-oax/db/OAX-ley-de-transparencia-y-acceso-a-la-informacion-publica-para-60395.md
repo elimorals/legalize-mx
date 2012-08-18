@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transparencia-y-acceso-a-la-informacion-publica-para-603
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-15"
-last_updated: "2008-03-15"
+last_updated: "2012-08-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60395&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA PARA EL ESTADO DE OAXACA
 
-LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA PARA EL ESTADO DE OAXACA
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE SEPTIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-TEXTO ORIGINAL.
+LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE OAXACA
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2012.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 15 de marzo de 2008.
 
@@ -41,9 +43,11 @@ LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE OAXAC
 
 ### Capítulo I. Principios y Definiciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 2012)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden público. Tiene como finalidad garantizar el acceso de toda persona a la información en posesión de cualquier autoridad, entidad, órgano y organismo estatal y municipal, en los términos señalados por la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado.
+La presente Ley es de orden público y de observancia obligatoria para todos los servidores públicos del Estado Libre y Soberano de Oaxaca. Tiene como finalidad garantizar el acceso de toda persona a la información en posesión de cualquier autoridad, entidad, órgano y organismo estatal y municipal, en los términos señalados por la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado.
 
 Esta ley se aplicará en estricto apego al artículo segundo de la Constitución Federal, que reconoce y garantiza el derecho de los pueblos y comunidades indígenas a la libre determinación.
 
@@ -55,7 +59,9 @@ Toda la información gubernamental a que se refiere esta Ley es pública y los p
 
 Para los efectos de esta Ley se entenderá por:
 
-I. Comité de Información: La instancia que coadyuvará con el Instituto y los sujetos obligados para el mejor cumplimiento de esta Ley;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+I. Comité de Información: La instancia que coadyuvará con la Comisión y los sujetos obligados para el mejor cumplimiento de esta Ley;
 
 II. Datos personales: Toda la información numérica, alfabética, gráfica, fotográfica, acústica o de cualquier otro tipo concerniente a una persona física, identificada o identificable, entre otra, la relativa a su origen étnico o racial, o que esté referida a las características físicas, morales o emocionales, a su vida afectiva y familiar, domicilio, número telefónico, patrimonio, ideología y opiniones políticas, creencias o convicciones religiosas o filosóficas, los estados de salud físico o mental y las preferencias sexuales;
 
@@ -69,11 +75,15 @@ VI. Información reservada: La información que se encuentra temporalmente sujet
 
 VII. Información confidencial: La información en poder de los sujetos obligados cuya divulgación haya sido circunscrita únicamente a los servidores públicos que la deban conocer en razón de sus funciones, así como la información relativa a las personas, protegida por el derecho fundamental a la privacidad, conforme a lo establecido por esta Ley;
 
-VIII. Instituto: El Instituto Estatal de Acceso a la Información Pública;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+VIII. Comisión: La Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales;
 
 IX. Ley: La Ley de Transparencia y Acceso a la Información Pública para el Estado de Oaxaca;
 
-X. Órganos autónomos: El Instituto Estatal Electoral, la Comisión para la Defensa de los Derechos Humanos, la Universidad Autónoma “Benito Juárez” de Oaxaca, la Comisión Estatal de Arbitraje Médico, el Tribunal de lo Contencioso Administrativo y los demás que por disposición de la ley se les otorgue autonomía;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+X. Órganos autónomos: El Instituto Estatal Electoral y de Participación Ciudadana, la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, la Defensoría de los Derechos Humanos del Pueblo de Oaxaca, la Universidad Autónoma "Benito Juárez" de Oaxaca, la Comisión Estatal de Arbitraje Médico, el Instituto Metropolitano de Planeación para el Desarrollo Sustentable, y los demás que por disposición constitucional o legal se les otorgue autonomía;
 
 XI. Servidores públicos: Los señalados en la Constitución del Estado y en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca;
 
@@ -89,7 +99,9 @@ XV. Versión Pública: Documento en el que se testa o elimina la información cl
 
 Son objetivos de esta Ley:
 
-I. Proveer lo necesario para que toda persona pueda tener acceso a la información mediante procedimientos sencillos y expeditos;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+I. Proveer lo necesario para que toda persona pueda tener acceso a la información pública mediante procedimientos sencillos y expeditos;
 
 II. Transparentar la gestión pública mediante la difusión de información oportuna, verificable, inteligible y relevante que generan los sujetos obligados, a fin de impulsar la contraloría ciudadana y el combate a la corrupción;
 
@@ -99,13 +111,33 @@ IV. Garantizar una adecuada y oportuna rendición de cuentas de los sujetos obli
 
 V. Mejorar los niveles de participación ciudadana en la toma de decisiones públicas y en la evaluación de las políticas públicas;
 
-VI. Mejorar el manejo, organización, clasificación y archivo de los documentos; y uso de la información pública; y
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
 
-VII. Contribuir a la consolidación de la democracia y la plena vigencia del estado de derecho.
+VI. Garantizar el principio democrático de publicidad de los actos del Gobierno del Estado de Oaxaca, transparentando el ejercicio de la función pública, a través de un flujo de información oportuno, verificable, inteligible, relevante e integral;
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+VII. Contribuir con la transparencia de los sujetos obligados a través de la generación y publicación de información sobre sus indicadores de gestión y el ejercicio de los recursos públicos de manera completa, veraz, oportuna y comprensible;
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+VIII. Promover, socializar y difundir con la mayor amplitud posible la cultura de transparencia y acceso a la información pública en el Estado;
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+IX. Mejorar el manejo, organización, clasificación y archivo de los documentos; y uso de la información pública; y
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+X. Contribuir a la consolidación de la democracia y la plena vigencia del estado de derecho.
 
 ###### ARTÍCULO 5.
 
 La interpretación de esta Ley, se hará conforme a los postulados de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Oaxaca, los Tratados y Convenios Internacionales en la materia, suscritos y ratificados por el Estado Mexicano, prevaleciendo en todo momento el principio de máxima publicidad y disponibilidad de la información en posesión de los sujetos obligados. Se deberá favorecer la elaboración de versiones públicas para el caso de información que tenga datos personales o información reservada.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
+En los trámites y procedimientos contemplados en la presente Ley y a falta de disposición expresa, se aplicará supletoriamente en lo conducente las normas de la Ley de Justicia Administrativa, el Código Procesal Civil y la Legislación Común del Estado.
 
 ### Capítulo II. De los Sujetos Obligados
 
@@ -119,11 +151,19 @@ I (SIC). Las administraciones públicas estatal y municipales, incluyendo a los 
 
 III. El Poder Legislativo del Estado y sus Órganos de auditoría y fiscalización, cualquiera que sea su denominación;
 
-IV. El Poder Judicial del Estado y el Tribunal Estatal Electoral;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
 
-V. Los Órganos Autónomos del Estado, incluyendo al Tribunal de lo Contencioso Administrativo, las Universidades e Instituciones de Educación Superior Públicas; y
+IV. El Poder Judicial del Estado, el Consejo de la Judicatura y sus Tribunales Especializados;
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+V. Los órganos autónomos contemplados en la fracción X del artículo 3 de esta Ley;
 
 VI. Las Juntas en materia del trabajo.
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+VII. Los sindicatos estatales como entidades de interés público, organizaciones no gubernamentales o cualquier otra persona física o moral, pública o privada, nacional o internacional o análogas que por cualquier forma reciban dinero o cualquier tipo de apoyo en especie del erario público del Estado de Oaxaca de conformidad con el marco legal aplicable.
 
 Las personas físicas y morales que ejerzan recursos públicos o presten servicios públicos concesionados, estarán obligados a entregar la información relacionada con dichos recursos o servicios, a través del sujeto obligado que supervise estas actividades.
 
@@ -137,23 +177,61 @@ II. Constituir y mantener actualizados sus sistemas de archivo y gestión docume
 
 III. Tener disponible la información pública de oficio a que se refiere el artículo 9 y garantizar el acceso a la información siguiendo los principios y reglas establecidas en esta Ley;
 
-IV. Establecer los procedimientos necesarios para la clasificación de la información de acuerdo a las reglas de esta Ley y los criterios emitidos por el Instituto;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
 
-V. Asegurar la protección de los datos personales en su posesión con los niveles de protección adecuados a que se refiere el capítulo correspondiente;
+IV. Reglamentar la clasificación de la información de acuerdo a las disposiciones de esta Ley y los criterios emitidos por la Comisión;
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+V. Garantizar la protección de los datos personales en su posesión con los niveles de seguridad y control a que se refiere la normatividad correspondiente;
 
 VI. Permitir el acceso de los particulares a sus datos personales, y en su caso, realizar las acciones de corrección, cancelación o eliminación que correspondan;
 
-VII. Capacitar a los servidores públicos en materia de transparencia, acceso a la información y protección de datos personales;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
 
-VIII. Permitir que el Instituto pueda tener acceso a toda la información gubernamental y los archivos administrativos para verificar el cumplimiento de la Ley;
+VII. Capacitar y actualizar de forma permanente, en coordinación con la Comisión, a los servidores públicos que desempeñen funciones en materia de transparencia, acceso a la información y protección de datos personales;
 
-IX. Cumplir cabalmente las resoluciones del Instituto y apoyarlo en el desempeño de sus funciones; y
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
 
-X. Las demás que se deriven de esta Ley.
+VIII. Permitir que la Comisión pueda tener acceso a toda la información gubernamental y los archivos administrativos para verificar el cumplimiento de la Ley;
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+IX. Cumplir cabalmente las resoluciones de la Comisión y apoyarla en el desempeño de sus funciones de conformidad con la Ley;
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+X. Atender y ejecutar sin dilación los requerimientos, observaciones, recomendaciones y criterios que en materia de transparencia y acceso a la información pública realice la Comisión;
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+XI. Procurar condiciones de accesibilidad para que personas con discapacidad, ejerzan los derechos regulados en esta Ley;
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+XII. Promover y fomentar una cultura del acceso a la información a través de medios impresos;
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+XIII. Hacer uso de documentos y expedientes electrónicos, de acuerdo a la factibilidad presupuestal e infraestructura tecnológica para eficientar el acceso a la información pública y la transparencia;
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+XIV. Actualizar y publicitar a través de medios electrónicos la información a que se refiere la presente Ley;
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+XV. Ofrecer y hacer uso de sistemas de tecnología sistematizados para que los ciudadanos consulten de manera directa, sencilla, rápida y en formato electrónico toda la información pública a que se refiere esta Ley; y
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+XVI. Las demás que se deriven de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Oaxaca, esta Ley y la normatividad aplicable.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 8.
 
-El Poder Ejecutivo, el Poder Legislativo Estatal, el Poder Judicial del Estado de Oaxaca; los Municipios, los Órganos Constitucionales Autónomos y los Tribunales Administrativos, en el ámbito de sus respectivas competencias, podrán establecer reglamentos o acuerdos de carácter general, que coadyuven para proporcionar a los particulares un procedimiento más eficiente y expedito de acceso a la información, de conformidad con los principios establecidos en esta Ley y los lineamientos expedidos por el Instituto.
+El Poder Ejecutivo, el Poder Legislativo, el Poder Judicial, los Municipios y los Órganos Autónomos en el ámbito de sus respectivas competencias, podrán establecer reglamentos o acuerdos de carácter general, que coadyuven para proporcionar a los particulares un procedimiento más eficiente y expedito de acceso a la información, de conformidad con los principios establecidos en esta Ley y los lineamientos expedidos por la Comisión.
 
 ### Capítulo III. Información Pública de Oficio
 
@@ -341,13 +419,19 @@ IV. Los procedimientos de responsabilidad de los servidores públicos, en tanto 
 
 La información clasificada como reservada según los artículos 17 y 19, podrá permanecer con tal carácter hasta por un periodo de diez años. Esta información podrá ser desclasificada cuando se extingan las causas que dieron origen a su clasificación o cuando haya transcurrido el periodo de reserva.
 
-El Instituto establecerá los criterios para la clasificación y desclasificación de la información reservada.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2012)</small>
 
-Excepcionalmente, los sujetos obligados podrán solicitar al Instituto la ampliación del periodo de reserva por cinco años mas, siempre y cuando justifiquen que subsisten las causas que dieron origen a su clasificación.
+La Comisión establecerá por acuerdo del pleno, los criterios para la clasificación y desclasificación de la información reservada, atendiendo siempre el principio de máxima publicidad.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
+Excepcionalmente, los sujetos obligados podrán solicitar a la Comisión la ampliación del periodo de reserva por cinco años más, siempre y cuando justifiquen que subsisten las causas que dieron origen a su clasificación.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 21.
 
-Los sujetos obligados, a través de su titular o de su órgano de gobierno, serán responsables de clasificar la información de conformidad con los criterios establecidos en esta Ley y los lineamientos expedidos por el Instituto.
+Los sujetos obligados, a través de su respectivo comité de información, serán responsables de clasificar la información de conformidad con los criterios establecidos en esta Ley y los lineamientos expedidos por la Comisión.
 
 ###### ARTÍCULO 22.
 
@@ -415,73 +499,55 @@ Las áreas encargadas del archivo de los Poderes del Estado, Órganos Autónomos
 
 Los sujetos obligados deberán indicar en las series documentales si se trata de documentos reservados o confidenciales. Adicionalmente deberán generar y publicar en medios electrónicos de acceso remoto un índice público por serie documental, el cual deberá actualizarse trimestralmente. En su caso, deberá indicar la clasificación por serie documental.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
 ###### ARTÍCULO 33.
 
-Cuando un sujeto obligado inicie el procedimiento de baja documental de documentos o expedientes clasificados como reservados, deberá notificarlo al Instituto para que éste, dentro de un plazo de 30 días, opine si procede o no su baja.
+Cuando un sujeto obligado inicie el procedimiento de baja documental de documentos o expedientes clasificados como reservados, deberá notificarlo a la Comisión para que éste, dentro de un plazo de 30 días, opine si procede o no su baja.
 
 ###### ARTÍCULO 34.
 
 La autoridad en materia de archivos emitirá criterios para la administración de documentos electrónicos que aseguren su disponibilidad, integridad y autenticidad, de conformidad con los estándares internacionales.
 
+> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE AGOSTO DE 2012)</small>
+
 ## TÍTULO SEGUNDO. PROTECCIÓN DE DATOS PERSONALES
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE AGOSTO DE 2012)</small>
 
 ### Capítulo Único
 
-###### ARTÍCULO 35.
+###### ARTICULO 35.
 
-Los sujetos obligados al tratar los sistemas de datos deberán observar los principios de consentimiento, información previa, licitud, calidad de la información, confidencialidad y seguridad, así como garantizar el ejercicio de los derechos de acceso, rectificación, corrección y cancelación.
+(DEROGADO, P.O. 18 DE AGOSTO DE 2012)
 
 ###### ARTÍCULO 36.
 
-Los sujetos obligados serán responsables de la protección de los datos personales y, en relación con éstos, deberán:
+(DEROGADO, P.O. 18 DE AGOSTO DE 2012)
 
-I. Establecer mecanismos y procedimientos adecuados para recibir y responder las solicitudes de acceso y corrección de datos, así como capacitar a los servidores públicos y dar a conocer información sobre sus políticas en relación con la protección de tales datos, de conformidad con los lineamientos que al respecto establezca el Instituto;
+###### ARTICULO 37.
 
-II. Tratar datos personales sólo cuando éstos sean adecuados, pertinentes y no excesivos en relación con los propósitos para los cuales se hayan obtenido;
-
-III. Poner a disposición de los individuos, a partir del momento en el cual se recaben datos personales, el documento en el que se establezcan los propósitos para su tratamiento, en términos de los lineamientos que establezca el Instituto o la instancia competente;
-
-IV. Procurar que los datos personales sean exactos y actualizados;
-
-V. Sustituir, rectificar o completar, de oficio, los datos personales que fueren inexactos, ya sea total o parcialmente, o incompletos, en el momento en que tengan conocimiento de esta situación; y
-
-VI. Adoptar las medidas necesarias que garanticen la seguridad de los datos personales y eviten su alteración, pérdida, transmisión y acceso no autorizado.
-
-###### ARTÍCULO 37.
-
-Los sujetos obligados no podrán difundir, distribuir o comercializar los datos personales contenidos en los sistemas de información, desarrollados en el ejercicio de sus funciones, salvo que haya mediado el consentimiento expreso, por escrito o por un medio de autenticación similar de los individuos a que haga referencia la información.
+(DEROGADO, P.O. 18 DE AGOSTO DE 2012)
 
 ###### ARTÍCULO 38.
 
-No se requerirá el consentimiento del titular para proporcionar sus datos personales en los siguientes casos:
-
-I. Cuando se trate de razones estadísticas, científicas o de interés general previstas en la ley, siempre que no puedan asociarse los datos personales con el individuo a quien se refieran;
-
-II. Cuando se transmitan entre sujetos obligados, siempre y cuando los datos se utilicen para el ejercicio de sus facultades;
-
-III. Cuando exista una solicitud u orden de autoridad en materia de procuración o administración de justicia;
-
-IV. A terceros, cuando se contrate la prestación de un servicio que requiera el tratamiento de datos personales. Dichos terceros no podrán utilizar los datos personales para propósitos distintos a aquellos para los cuales se les hubieren transmitido; y
-
-V. En los demás casos que establezcan las leyes.
+(DEROGADO, P.O. 18 DE AGOSTO DE 2012)
 
 ###### ARTÍCULO 39.
 
-Los sujetos obligados que posean, por cualquier título, sistemas de datos personales, deberán hacerlo del conocimiento del Instituto o de las instancias competentes, quienes mantendrán un listado actualizado de los sistemas de datos personales.
+(DEROGADO, P.O. 18 DE AGOSTO DE 2012)
 
-###### ARTÍCULO 40.
+###### ARTICULO 40.
 
-Sólo los interesados o sus representantes, podrán solicitar y obtener gratuitamente, previa acreditación ante la Unidad de Enlace correspondiente, el acceso, rectificación o cancelación de la información de sus datos de carácter personal que obren en los sistemas de datos personales de los sujetos obligados.
+(DEROGADO, P.O. 18 DE AGOSTO DE 2012)
 
-La entrega, modificación o cancelación de dicha información, se realizará en un plazo no mayor a 15 días hábiles contados desde la presentación de la solicitud. Este plazo podrá ser ampliado por una sola vez por un periodo igual, siempre y cuando lo justifiquen las circunstancias del caso.
+###### ARTICULO 41.
 
-###### ARTÍCULO 41.
+(DEROGADO, P.O. 18 DE AGOSTO DE 2012)
 
-En el supuesto que los datos personales a que se refiere la solicitud obren en los sistemas de datos personales del sujeto obligado y éste considere improcedente la solicitud de acceso, rectificación o cancelación, se deberá emitir una resolución fundada y motivada al respecto. Contra la negativa de entregar o corregir datos personales, así como ante la omisión de respuesta a las solicitudes en los plazos establecidos, procederá la impugnación correspondiente.
+###### ARTICULO 42.
 
-###### ARTÍCULO 42.
-
-La entrega de los datos personales será gratuita, debiendo cubrir el individuo únicamente los gastos de envío de conformidad con las tarifas aplicables. No obstante, si la misma persona realiza una nueva solicitud, que implique la entrega de datos, respecto del mismo sistema de datos personales en un periodo menor de doce meses a partir de la última solicitud, los costos se determinarán de acuerdo a las tarifas aplicables para las solicitudes de acceso a la información pública.
+(DEROGADO, P.O. 18 DE AGOSTO DE 2012)
 
 ## TÍTULO TERCERO. DE LAS UNIDADES DE ENLACE, DE LOS COMITÉS DE INFORMACIÓN Y DEL INSTITUTO
 
@@ -511,19 +577,27 @@ VII. Proponer al Comité de Información los procedimientos internos que asegure
 
 VIII. Apoyar al Comité de Información en el desempeño de sus funciones;
 
-IX. Integrar y enviar todos los informes que requiera el Instituto al sujeto obligado en materia del ejercicio de acceso a la información;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
 
-X. Llevar un registro de las solicitudes de acceso a la información y actualizarlo mensualmente detallando sus resultados y costos, haciéndolo del conocimiento del titular del sujeto obligado y del Instituto;
+IX. Integrar y enviar todos los informes que requiera la Comisión al sujeto obligado en materia del ejercicio de acceso a la información;
 
-XI. Recibir los recursos de revisión presentados por los particulares y remitirlos al Instituto dentro de los tres días siguientes a su recepción; y
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+X. Llevar un registro de las solicitudes de acceso a la información y actualizarlo mensualmente detallando sus resultados y costos, haciéndolo del conocimiento del titular del sujeto obligado y la Comisión;
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+XI. Recibir los recursos de revisión presentados por los particulares y remitirlos a la Comisión dentro de los tres días siguientes a su recepción; y
 
 XII. Las demás necesarias para garantizar y agilizar el flujo de información entre la dependencia o entidad y los particulares.
 
 ### Capítulo II. Comités de Información
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
 ###### ARTÍCULO 45.
 
-Los Poderes Legislativo, Ejecutivo y Judicial, los Órganos Autónomos y los Municipios, contarán respectivamente con un Comité de Información, el cual se integrará conforme los acuerdos internos que para tal efecto emitan ellos mismos.
+Los Poderes Legislativo, Ejecutivo y Judicial, los órganos Autónomos y los Municipios, contarán respectivamente con un Comité de Información, el cual se integrará conforme a los acuerdos internos que emitan de conformidad con los lineamientos que para tal efecto expida la Comisión.
 
 ###### ARTÍCULO 46.
 
@@ -537,7 +611,9 @@ III. Instituir los procedimientos para asegurar la mayor eficiencia en la gesti�
 
 IV. Realizar las acciones necesarias para garantizar la protección de los datos personales;
 
-V. Establecer y supervisar la aplicación de los criterios específicos en materia de clasificación y conservación de los documentos administrativos, así como la organización de archivos, de conformidad con los lineamientos expedidos por el Instituto o por la instancia competente, según corresponda;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+V. Establecer y supervisar la aplicación de los criterios específicos en materia de clasificación y conservación de los documentos administrativos, así como la organización de archivos, de conformidad con los lineamientos expedidos por la Comisión o por la instancia competente, según corresponda;
 
 VI. Elaborar un programa para facilitar la obtención de información de cada una de las unidades administrativas que deberá ser actualizado periódicamente y que incluya las medidas necesarias para la organización de los archivos;
 
@@ -545,61 +621,135 @@ VII. Promover la capacitación y actualización de los servidores públicos y de
 
 VIII. Celebrar los convenios de colaboración pertinentes para el adecuado cumplimiento de las atribuciones de las Unidades de Enlace.
 
-### Capítulo III. Instituto Estatal de Acceso a la Información Pública
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE AGOSTO DE 2012)</small>
+
+### Capítulo III. De la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 47.
 
-El Instituto Estatal de Acceso a la Información Pública es un Organismo Público Autónomo en su funcionamiento e independiente en su operación y decisiones, de carácter permanente, con personalidad jurídica y patrimonio propios, encargado de promover, difundir y garantizar el ejercicio del derecho de acceso a la información; resolver sobre la negativa o defectos de las solicitudes de acceso a la Información y proteger los datos personales en poder de los sujetos obligados. Tendrá competencia en todo el Estado de Oaxaca.
+La Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales es un órgano Autónomo del Estado, en términos del primer párrafo del artículo 114 de la Constitución Política del Estado Libre y Soberano de Oaxaca, cuyo objeto es garantizar, promover y difundir el ejercicio del derecho de acceso a la información pública; resolver sobre la negativa o defectos de las solicitudes de acceso a la Información pública; proteger los datos personales en poder de los sujetos obligados; dirigir y vigilar el cumplimiento de la presente Ley y las normas que de ella deriven; así como velar porque los principios de certeza, legalidad, independencia, imparcialidad y objetividad imperen en todas sus decisiones.
+
+En el marco de sus atribuciones, la Comisión se regirá por los principios constitucionales de austeridad, planeación, eficiencia, eficacia, economía, transparencia y honradez en el ejercicio de su presupuesto.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 48.
 
-El Congreso del Estado a través del Presupuesto de Egresos otorgará al Instituto los recursos suficientes para el cumplimiento de sus funciones. Los recursos previstos para el Instituto no podrán ser inferiores en términos reales a los asignados en el ejercicio fiscal anterior, excepto cuando corresponda a una reducción generalizada del gasto para todas las dependencias y entidades públicas, o cuando el Instituto no presente los informes del ejercicio presupuestal que correspondan conforme a la legislación aplicable.
+El Congreso del Estado, a través del Presupuesto de Egresos del Estado, analizará y en su caso aprobará los recursos que la Comisión solicite para el cumplimiento de sus funciones. Los recursos previstos para la Comisión no podrán ser inferiores en términos reales a los asignados en el ejercicio fiscal anterior, excepto cuando corresponda a una reducción generalizada del gasto para todas las dependencias y entidades públicas, o cuando la Comisión no presente los informes del ejercicio presupuestal que correspondan o si habiéndolos presentado existieran insuficiencias en su ejecución.
 
-###### ARTÍCULO 49.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2012)</small>
 
-El Instituto se integrará con tres Comisionados, de los cuales uno será el Presidente.
+###### ARTICULO 49.
 
-El Gobernador del Estado propondrá por ternas a los Comisionados y el Congreso los elegirá con el voto de la mayoría de los diputados presentes. De la misma forma designará al Comisionado que deba presidir el Instituto.
+La Comisión se integrará con tres Consejeros, de los cuales uno será el Presidente, quien será electo por el Consejo General de entre sus miembros. Durarán en su encargo siete años, sin posibilidad de reelección, y serán sustituidos individualmente en forma escalonada.
 
-Durarán en su encargo seis años, sin posibilidad de reelección, y durante el mismo no podrán tener ningún otro empleo, cargo o comisión, salvo actividades docentes, científicas o de beneficencia.
+La Comisión contará con un Secretario Técnico que será designado por su Presidente y ratificado por el Consejo General, de acuerdo a las normas relativas a la organización y funcionamiento que estarán previstas en el reglamento que para tal efecto se expida.
+
+El Consejo General de la Comisión sesionará con la regularidad que la Ley y el reglamento establezcan al efecto. Se declarará instalado el quórum del consejo general cuando concurran por lo menos dos de sus integrantes, pudiéndose tomar los acuerdos por mayoría de votos de los asistentes. En caso de empate el Presidente tendrá voto de calidad.
+
+Las sesiones del Consejo General se celebrarán al menos una vez por semana y serán públicas, exceptuando las sesiones o las partes de una sesión que contengan temas de información confidencial o reservada, cuando esta situación se fundamente y motive de conformidad con esta Ley y la normatividad aplicable.
+
+Para el nombramiento de los Consejeros, el Congreso del Estado a través de la Junta de Coordinación Política y la Comisión Permanente Instructora, emitirán una convocatoria pública y de consulta abierta, para recibir propuestas de candidatos a integrar el órgano Autónomo correspondiendo a esta última la entrevista a los aspirantes, la conformación de las ternas y la elaboración del dictamen.
+
+Los Consejeros para su designación, deberán reunir los requisitos establecidos en el artículo 51 de esta Ley. El nombramiento de Consejero deberá recaer preferentemente en la persona que tenga experiencia relacionada con el tema institucional de la Comisión.
+
+Atendiendo a la idoneidad, experiencia y honorabilidad, así como los principios de pluralidad, equidad de género, apartidismo y no discriminación, la Comisión permanente Instructora hará la valoración de las candidaturas, y presentará al Pleno una terna por cada consejero entre los aspirantes acreditados para ocupar el cargo de Consejero y acompañará la documentación soporte que acredite el cumplimiento de los requisitos del artículo 51 de esta Ley para la aprobación del nombramiento final.
+
+Los Consejeros serán designados por el voto de las dos terceras partes de los integrantes del Congreso del Estado. Si realizadas al menos tres rondas de votación no se cubriera la totalidad de los votos para elegir al consejero, se declarará desechada la terna y se pedirá a la Comisión Permanente Instructora que presente una nueva terna de aspirantes registrados en el proceso de selección.
+
+Una vez electos, los Consejeros rendirán la protesta correspondiente ante el pleno del Congreso.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 50.
 
-Los comisionados sólo podrán ser removidos de sus funciones cuando transgredan en forma grave o reiterada las disposiciones de la Constitución Federal, de la Estatal y esta Ley, cuando por actos u omisiones se afecten las atribuciones del Instituto, o cuando hayan sido sentenciados por delito que merezca pena corporal.
+Los Consejeros, durante el ejercicio de su encargo no podrán ocupar otro empleo, cargo o comisión de la Federación, del Estado, de los municipios, partidos políticos o en organismos privados, o con el desempeño de su profesión con excepción de la docencia o la investigación académica, siempre que no medie remuneración alguna. Sólo podrán ser removidos del cargo de conformidad con lo dispuesto en la Constitución del Estado y las leyes en la materia.
+
+Los emolumentos de los Consejeros serán equivalentes al de Magistrado del Tribunal Superior de Justicia de Oaxaca.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 51.
 
-Para ser Comisionado se requiere:
+Para ser Consejero se requiere:
 
-I. Ser ciudadano mexicano y residente en el Estado;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+I. Ser ciudadano mexicano en pleno goce de sus derechos políticos y civiles y con residencia en el Estado de seis meses anteriores a la publicación de la convocatoria;
 
 II. Tener por lo menos, treinta años de edad al día de su elección;
 
-III. Contar con cédula profesional a nivel licenciatura como mínimo;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
 
-IV. Haberse desempeñado en actividades profesionales, de servicio público o académicas, relacionadas con la materia de esta Ley; y
+III. Contar con cédula profesional preferentemente de licenciado en derecho, expedida por autoridad competente cuando menos tres años anteriores a la fecha de publicación de la convocatoria.
 
-V. No haber sido condenado por la comisión de algún delito doloso;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+IV. Haberse desempeñado en actividades de servicio público o académicas, relacionadas con la materia de esta Ley, al menos durante seis meses;
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+V. No haber sido condenado por la comisión de algún delito, excepto culposo por tránsito de vehículo, salvo que se haya cometido bajo los influjos del alcohol, de alguna droga o enervantes;
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+VI. No haber desempeñado en los dos últimos años anteriores al día de su designación el cargo de legislador local o federal, servidor público de mando superior de la Federación, del Estado o de los Ayuntamientos, o haber ocupado algún cargo de un partido político.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 52.
 
-El Presidente del Instituto tendrá la representación legal del mismo y durará en su encargo de Comisionado Presidente un periodo de dos años, y podrá ser reelecto por el Congreso del Estado hasta por dos ocasiones.
+El Presidente de la Comisión será electo por el Consejo General de entre sus miembros, durará en su encargo un periodo de dos años y podrá ser reelecto por una ocasión y contará con las siguientes atribuciones:
 
-En caso de renuncia, separación o fallecimiento del Presidente, el Congreso del Estado designará de entre los restantes a quien deba presidir el organismo, mismo que cumplirá el periodo respectivo. Así mismo el Congreso del Estado elegirá al nuevo Comisionado, conforme al procedimiento establecido en el artículo 49 de esta Ley.
+l. Representar legalmente a la Comisión con facultades de apoderado para actos de administración, pleitos y cobranzas;
+
+II. Otorgar, sustituir y revocar poderes generales y especiales para actos de administración, pleitos y cobranzas, de conformidad con las disposiciones jurídicas aplicables y previa autorización del Consejo General;
+
+III. Vigilar el correcto desempeño de las actividades de la Comisión;
+
+IV. Convocar a sesiones al Consejo General y conducir las mismas, en los términos del reglamento respectivo;
+
+V. Convocar al Consejo Consultivo Ciudadano de la Comisión para tratar temas de su competencia;
+
+VI. Cumplir, hacer cumplir y exhortar al cumplimiento de los acuerdos adoptados por el Consejo General;
+
+VII. Rendir los informes ante las autoridades competentes, en representación del Consejo General;
+
+VIII. Ejercer, en caso de empate, el voto de calidad;
+
+IX. Presentar por escrito, al Congreso del Estado, el informe anual aprobado por el Consejo General, a más tardar el último día de febrero de cada año;
+
+X. Ejercer por sí o por medio de los órganos designados en el reglamento, el presupuesto de egresos de la Comisión, bajo la supervisión del Consejo General; y
+
+XI. Las demás que le confiera esta Ley y su reglamento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 53.
 
-El Instituto tendrá las siguientes atribuciones:
+La Comisión, a través de su Consejo General, tendrá las siguientes atribuciones:
 
-I. Interpretar en el orden administrativo esta Ley;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
 
-II. Conocer y resolver los recursos de revisión interpuestos por los solicitantes, así como vigilar el cumplimiento de sus resoluciones tomando las medidas necesarias;
+I. Interpretar y ejecutar esta Ley conforme a la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Oaxaca, los instrumentos internacionales suscritos y ratificados por el Estado Mexicano y la interpretación que de los mismos hayan realizado los órganos internacionales respectivos. En el caso de que cualquier disposición de la ley o de los tratados internacionales aplicables en la materia pudiera tener varias interpretaciones deberá prevalecer, a juicio de la Comisión, aquella que proteja con mejor eficacia el derecho de acceso a la información pública.
 
-III. Establecer y revisar los criterios de clasificación, desclasificación y custodia de la información reservada y confidencial;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
 
-IV. Coadyuvar con los sujetos obligados en la elaboración y aplicación de los criterios para la catalogación y conservación de los documentos, así como la organización de archivos de las dependencias y entidades;
+II. Conocer, investigar y resolver los recursos de revisión interpuestos por los solicitantes contra los actos y resoluciones dictados por los sujetos obligados con relación a las solicitudes de acceso a la información, así como vigilar el cumplimiento de sus resoluciones tomando las medidas necesarias;
 
-V. Emitir recomendaciones a los sujetos obligados para que dén cumplimiento a lo concerniente a la información pública de oficio;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+III. Establecer y revisar de oficio los criterios de clasificación, desclasificación y custodia de la información reservada y confidencial de los sujetos obligados;
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+IV. Coadyuvar, a petición de los sujetos obligados, en la elaboración y aplicación de los criterios para la catalogación y conservación de los documentos, así como la organización de archivos de las dependencias y entidades;
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+V. Emitir opiniones y recomendaciones a los sujetos obligados para que den cumplimiento a lo concerniente a la información pública de oficio;
 
 VI. Evaluar la actuación de los sujetos obligados, mediante la práctica de visitas de inspección periódicas o a través de los medios que considere adecuados. Al efecto requerirá, recibirá, analizará y sistematizará los informes que deberán enviarle los sujetos obligados, con el fin de conocer el estado del ejercicio del acceso a la información en el Estado;
 
@@ -611,7 +761,9 @@ IX. Establecer los lineamientos y políticas generales para el manejo, mantenimi
 
 X. Revisar, modificar o revocar las clasificaciones de información hechas por los sujetos obligados;
 
-XI. Hacer del conocimiento de los órganos internos de control de los sujetos obligados, los hechos que sean o pudieran ser constitutivos de infracciones a esta Ley y su Reglamento. Las resoluciones finales que al respecto expidan los órganos internos de control y que hayan causado estado deberán ser notificadas al Instituto, quien deberá hacerlas públicas a través de su informe anual;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+XI. Hacer del conocimiento de los órganos internos de control de los sujetos obligados, los hechos que sean o pudieran ser constitutivos de infracciones a esta Ley y su Reglamento. Las resoluciones finales que al respecto expidan los órganos internos de control y que hayan causado estado deberán ser notificadas a la Comisión, quien deberá hacerlas públicas a través de su informe anual;
 
 XII. Diseñar, promover, y en su caso, ejecutar la capacitación de los servidores públicos en materia de acceso a la información y protección de datos personales;
 
@@ -621,7 +773,9 @@ XIV. Elaborar y publicar estudios e investigaciones para difundir y ampliar el c
 
 XV. Implementar mecanismos de observación y contraloría ciudadana que permitan a la población emplear la transparencia para vigilar y evaluar el desempeño de los sujetos obligados;
 
-XVI. Instruir la elaboración de guías que expliquen los procedimientos y trámites que deban realizarse ante los sujetos obligados y ante el Instituto;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+XVI. Instruir la elaboración de guías que expliquen los procedimientos y trámites que deban realizarse ante los sujetos obligados y ante la Comisión;
 
 XVII. Celebrar convenios, acuerdos o programas, respecto de la materia de esta ley, con los sujetos obligados, con la Federación, las Entidades Federativas, los Municipios, y sus órganos de transparencia y acceso a la información, con organismos nacionales e internacionales y la sociedad civil;
 
@@ -633,27 +787,41 @@ XX. Expedir los lineamientos generales en materia de acceso a la información qu
 
 XXI. Designar a los servidores públicos a su cargo;
 
-XXII. Preparar su proyecto de presupuesto anual, el cual será enviado a la Secretaría de Finanzas para que lo integre al proyecto de Presupuesto de Egresos del Estado;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
 
-XXIII. Coadyuvar en el cumplimiento de las obligaciones que señala la ley en materia de información pública de oficio, para los Municipios que lo soliciten; y
+XXII. Preparar su proyecto de presupuesto anual, el cual será enviado al Congreso del Estado para su aprobación y al Poder Ejecutivo a través de la Secretaría de Finanzas para que lo integre al proyecto de Presupuesto de Egresos del Estado;
 
-XXIV. Las demás que le confieran esta Ley, su Reglamento Interior y cualquier otra disposición aplicable.
+XXIII. Coadyuvar en el cumplimiento de las obligaciones que señala la ley en materia de información pública de oficio, para los Municipios que lo soliciten; y (sic)
 
-###### ARTÍCULO 54.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
 
-El Instituto rendirá anualmente en el mes de febrero, un informe público al Congreso del Estado sobre el acceso a la información, con base en los datos que le rindan los sujetos obligados, en el cual se incluirá, al menos, el número de solicitudes de acceso a la información presentadas ante cada sujeto obligado así como su resultado, su tiempo de respuesta, el número y resultado de los asuntos atendidos por el Instituto, el estado que guardan las denuncias presentadas ante los órganos internos de control y las dificultades observadas en el cumplimiento de la ley. Para este efecto, el Instituto expedirá los lineamientos que considere necesarios.
+XXIV. Presentar ante las instancias correspondientes las controversias constitucionales y acciones de inconstitucionalidad así como presentar iniciativas de ley ante el Congreso del Estado, en las materias de su competencia, en los términos previstos por el artículo 114 de la Constitución Política Local; y
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+XXV. Las demás que le confieran esta ley, su Reglamento Interior y cualquier otra disposición aplicable.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
+###### ARTICULO 54.
+
+La Comisión rendirá anualmente en el mes de febrero, un informe público al Congreso del Estado sobre la transparencia, el acceso a la información y la protección de datos personales con base en los datos que le rindan los sujetos obligados, en el cual se incluirá, al menos, el número de solicitudes de acceso a la información presentadas ante cada sujeto obligado así como su resultado, su tiempo de respuesta, el número y resultado de los asuntos atendidos por la Comisión, el estado que guardan las denuncias presentadas ante los órganos internos de control y las dificultades observadas en el cumplimiento de la ley. Para este efecto, la Comisión expedirá los lineamientos que considere necesarios.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 55.
 
-Todos los servidores públicos que integren la planta del Instituto, son trabajadores de confianza, debido a la naturaleza de las funciones que desempeñan, sujetándose a las responsabilidades que señalan esta Ley y los ordenamientos jurídicos aplicables.
+Todos los servidores públicos que integren la planta de la Comisión, son trabajadores de confianza, debido a la naturaleza de las funciones que desempeñan, sujetándose a las responsabilidades que señalan esta Ley y los ordenamientos jurídicos aplicables.
 
-Las relaciones laborales generadas entre el Instituto Estatal de Acceso a la Información Pública y su personal, se regirán por lo dispuesto en la Ley Estatal que regula las relaciones laborales de los trabajadores al servicio del Estado.
+Las relaciones laborales generadas entre la Comisión y su personal, se regirán por lo dispuesto en la Ley Federal del Trabajo.
 
 Dicho personal quedará incorporado al régimen del Fondo de Pensiones del Estado.
 
-###### ARTÍCULO 56.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 2012)</small>
 
-Forman el patrimonio del Instituto:
+###### ARTICULO 56.
+
+Forman el patrimonio de la Comisión:
 
 I. Los ingresos que perciba conforme al Presupuesto de Egresos del Estado;
 
@@ -673,9 +841,11 @@ V. Todos los demás ingresos y bienes que le correspondan o adquiera por cualqui
 
 En ningún caso la entrega de información pública estará condicionada a que se motive o justifique su utilización, ni se requerirá demostrar interés alguno, salvo en el caso de la información confidencial y protección de datos personales, en términos de la presente Ley.
 
-###### ARTÍCULO 58.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 2012)</small>
 
-Cualquier persona, por si, o por medio de su representante podrá presentar, ante la Unidad de Enlace, una solicitud de acceso a la información verbalmente, mediante escrito libre o en los formatos que apruebe el Instituto ya sea vía electrónica o personalmente. La solicitud deberá contener:
+###### ARTICULO 58.
+
+Cualquier persona, por si, o por medio de su representante podrá presentar, ante la Unidad de Enlace, una solicitud de acceso a la información verbalmente, mediante escrito libre o en los formatos que apruebe la Comisión ya sea vía electrónica o personalmente. La solicitud deberá contener:
 
 I. El nombre y nacionalidad del solicitante así como domicilio o medio para recibir notificaciones;
 
@@ -735,11 +905,13 @@ Las Unidades de Enlace no estarán obligadas a dar trámite a solicitudes ofensi
 
 ### Capítulo II. Del Recurso de Revisión
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
 ###### ARTÍCULO 68.
 
 El recurso de revisión regulado en esta Ley es un medio de defensa jurídica que tiene por objeto garantizar que en los actos y resoluciones de los sujetos obligados se respeten las garantías de legalidad y seguridad jurídica.
 
-El solicitante a quien se le haya notificado la negativa de acceso a la información o la inexistencia de los documentos solicitados, podrá interponer por sí mismo o a través de su representante, el recurso de revisión ante el Instituto o ante la Unidad de Enlace que haya conocido del asunto, dentro de los quince días hábiles siguientes a la fecha de la notificación. La Unidad de Enlace deberá remitirlo al Instituto dentro de los tres días siguientes a su recepción.
+El solicitante a quien se le haya notificado la negativa de acceso a la información o la inexistencia de los documentos solicitados, podrá interponer por sí mismo o a través de su representante, el recurso de revisión ante la Comisión o ante la Unidad de Enlace que haya conocido del asunto, dentro de los quince días hábiles siguientes a la fecha de la notificación. La Unidad de Enlace deberá remitirlo a la Comisión dentro de los tres días siguientes a su recepción.
 
 ###### ARTÍCULO 69.
 
@@ -755,9 +927,11 @@ IV. El solicitante considere que la información entregada es incompleta o no co
 
 V. Habiendo operado la afirmativa ficta, haya transcurrido el término de diez días hábiles sin que le sea proporcionada la información solicitada al particular.
 
-###### ARTÍCULO 70.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2012)</small>
 
-El Instituto suplirá las deficiencias en los recursos interpuestos por los particulares.
+###### ARTICULO 70.
+
+La Comisión suplirá las deficiencias en los recursos interpuestos por los particulares.
 
 ###### ARTÍCULO 71.
 
@@ -775,11 +949,15 @@ V. Expresar los motivos de inconformidad causados por la resolución reclamada;
 
 VI. Contener la firma del interesado o en su caso, huella digital, y la expresión del lugar y fecha del escrito; y
 
-VII. Adicionalmente se podrán ofrecer las pruebas y demás elementos que se consideren procedentes hacer del conocimiento del Instituto.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+VII. Adicionalmente se podrán ofrecer las pruebas y demás elementos que se consideren procedentes hacer del conocimiento de la Comisión.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 72.
 
-El Instituto sustanciará el recurso de revisión conforme a los lineamientos siguientes:
+La Comisión sustanciará el recurso de revisión conforme a los lineamientos siguientes:
 
 I. Interpuesto el recurso, el Comisionado a quien toque conocer del asunto decidirá sobre su admisión dentro del plazo de tres días. En caso de encontrarlo procedente requerirá a la Unidad de Enlace respectiva, para que en un término de cinco días hábiles rinda un informe por escrito al que deberán acompañarse las constancias que apoyen el informe. Si no se requiriere desahogo de pruebas, el Comisionado presentará al Pleno un proyecto de resolución dentro de los diez días hábiles siguientes a la recepción del informe;
 
@@ -793,13 +971,19 @@ IV. El Pleno resolverá dentro de los quince días hábiles siguientes en que se
 
 V. Las resoluciones del Pleno serán públicas; y
 
-VI. El trámite de los asuntos corresponderá por turno a los Comisionados, en los términos que disponga el Reglamento Interior del Instituto.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
 
-La información reservada o confidencial que, en su caso, sea solicitada por el Instituto por resultar indispensable para resolver el asunto, deberá ser mantenida con ese carácter y no estará disponible en el expediente.
+VI. El trámite de los asuntos corresponderá por turno a los Comisionados, en los términos que disponga el Reglamento Interior de la Comisión.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
+La información reservada o confidencial que, en su caso, sea solicitada por la Comisión por resultar indispensable para resolver el asunto, deberá ser mantenida con ese carácter y no estará disponible en el expediente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 73.
 
-Las resoluciones del Instituto podrán:
+Las resoluciones de La Comisión podrán:
 
 I. Desechar el recurso por improcedente o bien, sobreseerlo;
 
@@ -811,7 +995,9 @@ En caso de afirmativa ficta, verificar que la información no se encuentre en lo
 
 Las resoluciones, que deberán ser por escrito, establecerán los plazos para su cumplimiento y los procedimientos para asegurar la ejecución.
 
-Cuando el Instituto determine durante la sustanciación del procedimiento que algún servidor público pudo haber incurrido en responsabilidad, deberá hacerlo del conocimiento del órgano interno de control del sujeto obligado responsable para que ésta inicie, en su caso, el procedimiento de responsabilidad que corresponda.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
+Cuando la Comisión determine durante la sustanciación del procedimiento que algún servidor público pudo haber incurrido en responsabilidad, deberá hacerlo del conocimiento del órgano interno de control del sujeto obligado responsable para que ésta inicie, en su caso, el procedimiento de responsabilidad que corresponda.
 
 ###### ARTÍCULO 74.
 
@@ -819,7 +1005,9 @@ El recurso será desechado por improcedente cuando:
 
 I. Sea presentado en forma extemporánea;
 
-II. El Instituto haya conocido anteriormente del recurso respectivo y resuelto en definitiva;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+II. La Comisión haya conocido anteriormente del recurso respectivo y resuelto en definitiva;
 
 III. Se recurra una resolución que no haya sido emitida por un sujeto obligado; o
 
@@ -835,11 +1023,15 @@ II. El recurrente fallezca o, tratándose de personas morales, se disuelva;
 
 III. Cuando admitido el recurso, aparezca alguna causal de improcedencia, o
 
-IV. El sujeto obligado modifique o revoque a satisfacción del recurrente el acto o resolución antes de decidirse en definitiva por el Instituto, de tal manera que el medio de impugnación quede sin efecto o materia.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+IV. El sujeto obligado modifique o revoque a satisfacción del recurrente el acto o resolución antes de decidirse en definitiva por la Comisión, de tal manera que el medio de impugnación quede sin efecto o materia.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 76.
 
-Las resoluciones del Instituto serán definitivas para los sujetos obligados. Los particulares podrán impugnarlas ante el Tribunal de lo Contencioso Administrativo del Estado de Oaxaca. El juicio ante el Tribunal de lo Contencioso Administrativo procederá una vez agotado el recurso de revisión que prevé esta Ley.
+Las resoluciones de la Comisión serán definitivas para los sujetos obligados y para quienes sean parte en los procedimientos.
 
 ## TÍTULO QUINTO. RESPONSABILIDADES Y SANCIONES
 
@@ -855,7 +1047,9 @@ II. Actuar con negligencia, dolo o mala fe en la sustanciación de las solicitud
 
 III. Denegar intencionalmente información no clasificada como reservada o no considerada confidencial conforme a esta Ley;
 
-IV. Clasificar como reservada con dolo, información que no cumple con las características señaladas en esta Ley. La sanción sólo procederá cuando exista una resolución previa respecto del criterio de clasificación de ese tipo de información de los Comités de información o del Instituto;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+IV. Clasificar como reservada con dolo, información que no cumple con las características señaladas en esta Ley. La sanción sólo procederá cuando exista una resolución previa respecto del criterio de clasificación de ese tipo de información de los Comités de información o la Comisión;
 
 V. Entregar información considerada como reservada o confidencial conforme a lo dispuesto por esta Ley;
 
@@ -863,7 +1057,9 @@ VI. Entregar intencionalmente de manera incompleta información requerida en una
 
 VII. No proporcionar la información cuya entrega haya sido ordenada mediante resolución del Instituto o Judicial; y
 
-VIII. No remitir al Instituto el recurso de revisión presentado ante la Unidad de Enlace del sujeto obligado.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+VIII. No remitir a la Comisión el recurso de revisión presentado ante la Unidad de Enlace del sujeto obligado.
 
 ###### ARTÍCULO 78.
 
@@ -874,6 +1070,94 @@ La infracción prevista en la fracción VII o la reincidencia en las conductas p
 ###### ARTÍCULO 79.
 
 Las responsabilidades administrativas que se generen por el incumplimiento de las obligaciones a que se refiere el artículo anterior, son independientes de las del orden civil o penal que procedan.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE AGOSTO DE 2012)</small>
+
+## TÍTULO SEXTO. DEL CONSEJO CONSULTIVO CIUDADANO DE LA COMISIÓN
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE AGOSTO DE 2012)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
+###### ARTÍCULO 80.
+
+La Comisión contará con un Consejo Consultivo Ciudadano como órgano de apoyo, que tendrá como objetivo la colaboración, participación, asesoría especializada, consulta y enlace ciudadano, para el ejercicio del derecho de acceso a la información, la transparencia y la protección de datos personales, en los términos y condiciones planteadas en la presente ley.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
+###### ARTÍCULO 81.
+
+El Consejo Consultivo Ciudadano estará integrado de forma honorífica por cinco personas en pleno ejercicio de sus derechos ciudadanos, que gocen de reconocido prestigio o experiencia académica en los temas de protección, observancia, promoción, estudio, y divulgación de los derechos de transparencia, acceso a la información y protección de datos personales.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
+###### ARTÍCULO 82.
+
+Los integrantes del Consejo Consultivo Ciudadano, serán nombrados siguiendo el mismo procedimiento establecido para los Consejeros de la Comisión.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
+###### ARTÍCULO 83.
+
+Para ser designado integrante del Consejo Consultivo Ciudadano, se deben cumplir con los requisitos previstos en las fracciones I y V del artículo 51 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
+###### ARTICULO 84.
+
+Los integrantes del Consejo Consultivo Ciudadano durarán cinco años en su cargo. Cada año deberá ser substituido el integrante del Consejo de mayor antigüedad.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
+###### ARTÍCULO 85.
+
+El Consejo Consultivo contará con un Presidente y un Secretario Técnico, que serán elegidos de entre sus propios integrantes.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
+###### ARTÍCULO 86.
+
+Son facultades del Consejo Consultivo Ciudadano:
+
+l. Expedir sus lineamientos de operación;
+
+II. Realizar investigaciones acerca de los problemas estatales, municipales o institucionales en materia de transparencia, acceso a la información pública y protección de datos personales;
+
+III. Integrar áreas especializadas de trabajo y análisis, en función de los asuntos de particular relevancia para la Comisión;
+
+IV. Emitir opiniones no vinculatorias en los asuntos, que le sean presentados a su consideración por el Presidente o el Consejo General de la Comisión;
+
+V. Solicitar al Presidente o al Consejo General de la Comisión, información adicional sobre los asuntos que se sometan a su consideración; y
+
+VI. Las demás que le confiera el Consejo General de la Comisión, para cumplir con el objeto de esta Ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
+###### ARTÍCULO 87.
+
+El Consejo Consultivo Ciudadano funcionará en sesiones ordinarias y extraordinarias y tomará sus decisiones por mayoría de votos de sus miembros. Las sesiones no se celebrarán necesariamente de forma presencial, por lo que se podrán recabar las opiniones por escrito, siempre y cuando estén firmadas por el miembro respectivo del Consejo Consultivo Ciudadano y, se la haga llegar al Secretario Técnico el día fijado para la sesión.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
+###### ARTICULO 88.
+
+Las sesiones ordinarias se verificarán cada tres meses. Al menos veinte días naturales antes de su celebración, el presidente del Consejo Consultivo Ciudadano deberá solicitar al Presidente del Consejo General una lista de temas de interés para la Comisión, quien deberá responder en un plazo máximo de diez días naturales.
+
+Las sesiones extraordinarias podrán convocarse por el Presidente de la Comisión o mediante solicitud que al Presidente del Consejo Consultivo Ciudadano formulen por lo menos tres miembros del Consejo Consultivo cuando se estime que hay razones de importancia para ello y se justifiquen en un escrito de petición.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
+###### ARTÍCULO 89.
+
+El Secretario Técnico del Consejo Consultivo Ciudadano elaborará la orden del día con al menos cinco días de antelación a la sesión para ser distribuida a los miembros del consejo consultivo. También deberá presentar en el mismo acto, el acta correspondiente a la última sesión del consejo, anexando, de ser el caso, las opiniones no presenciales de sus integrantes que por razón justificada no asistieron a la misma, de conformidad con lo establecido en el artículo 87 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
+###### ARTÍCULO 90.
+
+Es obligación del Presidente del Consejo Consultivo Ciudadano mantener comunicación con el Presidente y el Consejo General de la Comisión, así como con los Integrantes del Consejo Consultivo Ciudadano.
 
 T R A N S I T O R I O S:
 
@@ -940,3 +1224,27 @@ Oaxaca de Juárez, Oax., a 28 de febrero del 2008.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 ING. TEOFILO MANUEL GARCIA CORPUS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE AGOSTO DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Congreso del Estado, procederá en un plazo máximo de noventa días naturales a partir de la entrada en vigor del presente Decreto a elegir a los Consejeros que integrarán la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales. Por esta única ocasión, los Consejeros serán electos para cumplir un periodo de cinco, seis y siete años respectivamente a efecto de cumplir con la sustitución escalonada prevista en el artículo 114 de la Constitución Política del Estado libre y Soberano de Oaxaca.
+
+Los actuales Comisionados del Instituto Estatal de Acceso a la Información Pública, que en virtud del presente Decreto concluyen sus funciones, tendrán derecho en términos del párrafo segundo del artículo noveno transitorio del decreto 397 del 6 de abril del 2011, de la Sexagésima Primera Legislatura, a participar en el proceso de designación de los nuevos consejeros de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales.
+
+TERCERO. El Congreso del Estado procederá en un plazo máximo de noventa días naturales, a integrar el Consejo Consultivo Ciudadano de conformidad con el procedimiento que la Ley establece.
+
+Para cumplir con los fines del artículo 84 de esta Ley, por única vez se deberán designar a los integrantes del Consejo Consultivo Ciudadano, por periodos diferenciados de uno, dos, tres, cuatro y cinco años.
+
+Una vez integrado el Consejo Consultivo Ciudadano, deberá emitir sus lineamientos de operación interna en un plazo no mayor a sesenta días naturales.
+
+CUARTO. Los recursos humanos, materiales y financieros del Instituto Estatal de Acceso a la Información Pública, pasarán a formar parte de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales al momento de entrar en vigencia el presente decreto. Para todos los efectos administrativos conducentes la Comisión contará con noventa días naturales para hacerlas adecuaciones y actualizaciones necesarias.
+
+La Comisión preverá en su presupuesto, los gastos de operación indispensables para el cumplimiento de las funciones del Consejo Consultivo Ciudadano.
+
+QUINTO. El Reglamento Interior de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales será expedido por su Consejo General dentro de los dos meses siguientes a la instalación del propio Consejo, y deberá ser publicado en el Periódico Oficial del Estado.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente decreto.
