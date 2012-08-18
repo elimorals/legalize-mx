@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-servicios-de-vialidad-transito-y-transporte-del-1202
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-07"
-last_updated: "2012-08-14"
+last_updated: "2012-08-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS SERVICIOS DE VIALIDAD, TRÁNSITO Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2012.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 1998.
 
@@ -143,17 +143,17 @@ VI. Registro Estatal: Registro Estatal de los Servicios Públicos de Tránsito y
 
 VII. Organismo Coordinador: Organismo Coordinador de la Operación Integral del Servicio de Transporte Público;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+VIII. CEIT: Centro Estatal de Investigación de la Vialidad y Transporte;
 
-VIII. CEIT: Centro Estatal de Investigación de la Vialidad y Transporte, y
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+IX. Holograma de verificación vehicular: forma única autorizada y emitida por la Secretaría de Medio Ambiente para el Desarrollo Sustentable, con características de seguridad y colores determinados de acuerdo con el año, en cumplimiento del programa respectivo, y
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2012)</small>
 
-IX. Holograma de verificación vehicular: forma única autorizada y emitida por la Secretaría de Medio Ambiente para el Desarrollo Sustentable, con características de seguridad y colores determinados de acuerdo con el año, en cumplimiento del programa respectivo.
+X. Póliza de seguro: documento expedido por institución reconocida en los términos de la Ley General de Instituciones y Sociedades Mutualistas de Seguros y otras disposiciones aplicables, para que el conductor o propietario de un vehículo automotor responda por los daños y perjuicios ocasionados a terceros.
 
 ###### Artículo 6.
 
@@ -869,13 +869,11 @@ IV. De seguridad: Los adaptados para servicios de seguridad, protección civil y
 
 ### CAPITULO IV. Del registro y control de vehículos
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 45.
 
-Todo vehículo, para transitar y ocupar la vía pública, deberá reunir las condiciones requeridas de acuerdo con lo dispuesto en esta ley y su reglamento; para ello deberá estar inscrito en el Registro Estatal de los Servicios Públicos de Tránsito y Transporte y portar los elementos de identificación conforme a su tipo y características, tales como placas, calcomanías, hologramas, tarjetas de circulación, rótulos y colores, además de contar con el holograma o comprobante de verificación vehicular.
+Todo vehículo, para transitar u ocupar la vía pública, deberá contar con los requisitos y condiciones requeridas de acuerdo con lo dispuesto en esta ley y su reglamento; para ello deberá estar inscrito en el Registro Estatal de los Servicios Públicos de Tránsito y Transporte y portar los elementos de identificación conforme a su tipo y características, tales como placas, calcomanías, hologramas, tarjetas de circulación, rótulos y colores, además de contar con el holograma o comprobante de verificación vehicular.
 
 ###### Artículo 46.
 
@@ -885,9 +883,21 @@ La dependencia del Ejecutivo del Estado, competente en materia de vialidad, trá
 
 El registro de los vehículos se acreditará mediante:
 
-I. La tarjeta de circulación; y
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
 
-II. Las placas y la calcomanía u holograma correspondientes.
+I. La tarjeta de circulación vigente;
+
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+II. Las placas y la calcomanía u holograma correspondientes vigentes, y
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+III. La exhibición de la póliza de seguro vigente que garantice los daños y perjuicios contra terceros.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
+Los vehículos de transporte público deberán observar las disposiciones especiales que prevean la presente ley y su reglamento.
 
 ###### Artículo 48.
 
@@ -921,9 +931,9 @@ I. Exhibir el documento que acredite la propiedad o posesión legítima del veh�
 
 II. Acreditar el pago de los impuestos y derechos que establezcan las disposiciones fiscales aplicables;
 
-> <small>(REFORMADA, P.O. 13 DE MARZO DE 2003)</small>
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
 
-III. Tratándose de vehículos destinados para la prestación de un servicio público, en su caso, los datos de la concesión, permiso o subrogación, así como la póliza del seguro que al efecto señala el artículo 67 de esta Ley;
+III. Tratándose de vehículos destinados para la prestación de un servicio público, en su caso, los datos de la concesión, permiso o subrogación, así como la póliza del seguro vigente que al efecto señala el artículo 67 de esta ley;
 
 IV. Si existe un registro anterior, acreditar su cancelación y, en su caso, el cambio de propietario;
 
@@ -1085,7 +1095,9 @@ El menor de dieciocho años de edad, pero mayor de dieciséis, podrá obtener pe
 
 I. Que el padre o tutor asuma expresamente responsabilidad solidaria y mancomunada por las infracciones que se cometan a esta Ley y a su reglamento; y
 
-II. Garantizar, mediante fianza o seguro, el pago de los daños y perjuicios que se ocasionen a terceros durante la vigencia de la licencia provisional obtenida.
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+II. Garantizar, mediante la exhibición de la póliza de seguro, expedida a favor del propietario o menor, el pago de los daños y perjuicios que se ocasionen a terceros durante la vigencia de la licencia provisional obtenida.
 
 ###### Artículo 63.
 
@@ -1157,9 +1169,11 @@ IX. Cuando un operador, conductor o chofer de vehículos de servicio público ha
 
 ### CAPITULO VI. De la circulación
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 67.
 
-Para transitar en las vías públicas de comunicación local, los vehículos deberán contar con un seguro vigente para responder en forma efectiva de los posibles daños a terceros, en los términos que señale el reglamento de esta Ley.
+Para transitar en las vías públicas de comunicación local, los vehículos deberán contar con una póliza de seguro vigente para responder en forma efectiva de los posibles daños a terceros, en los términos que señale el reglamento de esta ley.
 
 ###### Artículo 68.
 
@@ -1527,7 +1541,9 @@ IV. Entregar al usuario en su caso contra el pago del precio, el boleto o compro
 
 V. Responder de los daños a terceros, a los viajeros que hayan pagado el importe de su pasaje y a sus pertenencias, por accidentes ocurridos con motivo de la prestación del servicio; para tal efecto estarán obligados a contar con un seguro de viajero que cubra el daño a las cosas, atención médica y hospitalaria a las personas;
 
-VI. Verificar que los conductores u operadores a su servicio, reúnan los requisitos establecidos en esta Ley y se desempeñen conforme a las fracciones II a V, de este artículo;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+VI. Responder de los daños a terceros, a los viajeros que hayan pagado el importe de su pasaje y a sus pertenencias, por accidentes ocurridos con motivo de la prestación del servicio o el hecho de circular en vía pública; para tal efecto estarán obligados a contar con un seguro de viajero que cubra el daño a las cosas, atención médica y hospitalaria a las personas, mediante la contratación de una póliza de seguro o contrato de mutualidad que así lo garantice, con los montos y condiciones que señalen esta ley y su reglamento;
 
 VII. Identificar a sus vehículos mediante los colores, emblemas y numeración que asigne la dependencia del Ejecutivo del Estado, competente en materia de vialidad, tránsito y transporte, correspondientes al servicio concesionado y a su adscripción por localidad; de acuerdo a la agrupación a que pertenezcan o al titular de la concesión;
 
@@ -1597,13 +1613,17 @@ I. Indicar la modalidad y clase del servicio;
 
 II. Identificar al concesionario o permisionario y al vehículo asignado;
 
-III. Informar al usuario con relación al seguro que lo protege contra los riesgos en su transportación;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+III. Informar al usuario con relación al seguro de responsabilidad civil que lo protege contra los riesgos en su transportación, así como los montos de cobertura y formas de hacer efectivo el pago, y
 
 IV. Señalar el precio o cuota pagado por el usuario; y (sic).
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 105.
 
-Los concesionarios y permisionarios del servicio público de transporte, deberán adquirir y conservar vigente un seguro, de acuerdo con la reglamentación que al respecto se expida, con el objeto de hacer efectivas las obligaciones que se establecen en la fracción V, del artículo 97, de esta Ley, en el que queden puntualizados los montos de las indemnizaciones.
+Los concesionarios, subrogatarios y permisionarios del servicio público de transporte, deberán adquirir y conservar vigente una póliza de seguro o contrato de mutualidad, de acuerdo con la reglamentación que al respecto se expida, con el objeto de hacer efectivas las obligaciones que se establecen en la fracción VI del artículo 97 de esta ley, en el que queden puntualizados los montos de las indemnizaciones.
 
 ###### Artículo 106.
 
@@ -1925,9 +1945,11 @@ IV. Las condiciones que deban observarse en la prestación del servicio.
 
 Cuando se compruebe que una persona tiene un número mayor de concesiones que las permitidas en esta Ley, o tiene en servicio un número mayor de vehículos a los autorizados, a nombre propio o de terceros, se le sancionará con la revocación de todas las concesiones de que sea titular.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 137.
 
-Las concesiones para la prestación de un servicio público de transporte, en cualesquiera de sus modalidades y características, podrán ser revocadas por alguna de las causas siguientes:
+Las concesiones, contratos de subrogación y permisos para la prestación de un servicio público de transporte, en cualquiera de sus modalidades y características, podrán ser revocados por alguna de las causas siguientes:
 
 I. Cuando se hubiere extendido a favor de una persona jurídica y ésta se extinga;
 
@@ -1953,13 +1975,21 @@ X. Por cualquiera otra irregularidad cometida en la prestación del servicio y s
 
 XI. Por trasmitir o ceder a título oneroso la concesión;
 
-XII. Por violaciones a esta Ley y a su reglamento que alteren substancialmente la prestación del servicio; y
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
 
-XIII. Por exigirlo así el interés público.
+XII. Por violaciones a esta ley y a su reglamento que alteren sustancialmente la prestación del servicio;
 
-> <small>(ADICIONADO P.O. 15 DE JUNIO DE 1999)</small>
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
 
-Las resoluciones administrativas que acuerden la revocación de las concesiones de transporte podrán ser impugnadas mediante la interposición de los medios de defensa que correspondan, en los términos previstos en el capítulo VIII de esta ley.
+XIII. Por exigirlo así el interés público, y
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+XIV. Por no acreditar el contar con la póliza de seguro vigente, para responder de los daños y perjuicios ocasionados a terceros.
+
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
+Las resoluciones administrativas que acuerden la revocación de las concesiones de transporte podrán ser impugnadas mediante la interposición de los medios de defensa que correspondan, en los términos previstos en el Capítulo VIII de esta ley.
 
 ###### Artículo 138.
 
@@ -2187,7 +2217,9 @@ III. Cobrar a los usuarios el precio que establezca la tarifa vigente, conforme 
 
 IV. Entregar al usuario contra el pago del precio, el boleto o comprobante correspondiente;
 
-V. Responder a los daños a terceros, a los viajeros que hayan pagado el importe de su pasaje por accidentes ocurridos con motivo de la prestación del servicio; para tal efecto, estarán obligados a contar con un seguro de viajero que cubra el daño a terceros, atención médica y hospitalaria a las personas;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
+
+V. Responder de los daños a terceros, a los viajeros que hayan pagado el importe de su pasaje, por accidentes ocurridos con motivo de la prestación del servicio; para tal efecto, estarán obligados a contar con una póliza de seguro de viajero vigente que cubra el daño a terceros, atención médica y hospitalaria a las personas;
 
 VI. Verificar que los conductores u operadores a su servicio, reúnan los requisitos establecidos en esta Ley y se desempeñen conforme a las fracciones II a IV, de este artículo;
 
@@ -3392,3 +3424,9 @@ P.O. 21 DE JULIO DE 2012.
 P.O. 14 DE AGOSTO DE 2012.
 
 ÚNICO. El presente decreto entrará en vigor el día de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 18 DE AGOSTO DE 2012.
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. El titular del Poder Ejecutivo hará las adecuaciones reglamentarias necesarias dentro de los sesenta días siguientes a la entrada en vigor del presente decreto.
