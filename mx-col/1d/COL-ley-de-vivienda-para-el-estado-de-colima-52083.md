@@ -4,7 +4,7 @@ identifier: "COL-ley-de-vivienda-para-el-estado-de-colima-52083"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-07"
-last_updated: "2006-10-07"
+last_updated: "2012-08-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52083&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COL"
 
 LEY DE VIVIENDA PARA EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE VIVIENDA PARA EL ESTADO DE COLIMA, PUBLICADA EN EL P.O. DE 18 DE AGOSTO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Suplemento No. 4 del Periódico Oficial del Estado de Colima, el sábado 7 de octubre de 2006.
 
@@ -313,7 +315,7 @@ I. Que el aprovechamiento de los inmuebles sea congruente con el Programa Estata
 
 II. La factibilidad y vocación de los bienes para ser utilizados en los programas de vivienda respectivos; y
 
-III. Que se cuente con un programa técnico y financiero en el que se justifique la necesidad de vivienda y la aplicación de los recursos, asÍ como las condiciones de participación del Ejecutivo y los solicitantes.
+III. Que se cuente con un programa técnico y financiero en el que se justifique la necesidad de vivienda y la aplicación de los recursos, así como las condiciones de participación del Ejecutivo y los solicitantes.
 
 El Instituto establecerá las disposiciones reglamentarias por medio de los (sic) cuales fijará los mecanismos de información, calificación y clasificación de los bienes de su dominio, con el objeto de normar técnica, financiera y socialmente su aprovechamiento.
 
@@ -435,7 +437,7 @@ De manera particular elaborará y difundirá material Informativo para la poblac
 
 ###### ARTÍCULO 36.
 
-Con el objeto de hacer más expeditos los trámites para el otorgamiento del crédito de Ia vivienda, se Instrumentará un procedimiento único que permita en una sola ventanilla canalizar todos éstos a fin de evitar la duplicidad de procedimientos.
+Con el objeto de hacer más expeditos los trámites para el otorgamiento del crédito de la vivienda, se Instrumentará un procedimiento único que permita en una sola ventanilla canalizar todos éstos a fin de evitar la duplicidad de procedimientos.
 
 ### CAPÍTULO VII. Do los Estímulos al Sector Privado
 
@@ -556,3 +558,23 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en el Palacio de Gobierno, a los 02 días del mes de octubre del año dos mil seis.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JUAN JOSÉ SEVILLA SOLÓRZANO. Rúbrica. EL SECRETARIO DE DESARROLLO URBANO, ING. EDUARDO GUTIÉRREZ NAVARRETE. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE AGOSTO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Se abroga la Ley de Vivienda para el Estado de Colima, contenida en el Decreto número 441, aprobado el 28 de septiembre de 2006; así como la Ley del Instituto de Vivienda del Estado de Colima, aprobada el 31 de marzo de 1992, mediante Decreto número 44.
+
+TERCERO.- Se derogan las disposiciones administrativas que se opongan al presente ordenamiento.
+
+CUARTO.- El Ejecutivo deberá expedir el Reglamento de esta Ley en un plazo de noventa días hábiles a partir de la publicación del presente Decreto.
+
+QUINTO.- En el caso de las obligaciones contraídas en contratos, convenios o acuerdos celebrados por el Instituto de Vivienda del Estado de Colima con dependencias del Gobierno del Estado, del Gobierno Federal, de los municipios o, con cualquier persona física o moral, se entenderán referidas al Instituto de Suelo, Urbanización y Vivienda del Estado de Colima, a partir de la entrada en vigor de la presente Ley.
+
+SEXTO.- El patrimonio del Instituto de Vivienda del Estado de Colima, con todos sus recursos materiales, los bienes muebles, inmuebles, activos, fijos y pasivos que actualmente forman parte de éste, serán trasladados al Instituto de Suelo, Urbanización y Vivienda del Estado de Colima, a partir de la entrada en vigor de la presente Ley.
+
+SÉPTIMO.- La planta de trabajadores que actualmente integran el personal laboral del Instituto de Vivienda del Estado de Colima, formarán parte del Instituto de Suelo, Urbanización y Vivienda del Estado de Colima y, les serán respetados todos sus derechos laborales y antigüedad, de conformidad a lo establecido por la Ley de los trabajadores al servicio del Gobierno, Ayuntamientos y Organismos Descentralizados del Estado de Colima.
+
+OCTAVO.- Los asuntos que se venían conociendo y tramitando por el Instituto de Vivienda del Estado de Colima, serán continuados hasta su conclusión con base a la normatividad vigente al momento en que se iniciaron, por el Instituto de Suelo, Urbanización y Vivienda del Estado de Colima; o con base en esta Ley, siempre que así lo manifieste de manera expresa el interesado.
