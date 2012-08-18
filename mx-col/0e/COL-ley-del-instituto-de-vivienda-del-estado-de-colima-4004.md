@@ -4,7 +4,7 @@ identifier: "COL-ley-del-instituto-de-vivienda-del-estado-de-colima-4004"
 country: "mx"
 rank: "ley"
 publication_date: "1992-04-11"
-last_updated: "1997-02-15"
+last_updated: "2012-08-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COL"
 
 LEY DEL INSTITUTO DE VIVIENDA DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 1997.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE VIVIENDA PARA EL ESTADO DE COLIMA, PUBLICADA EN EL P.O. 18 DE AGOSTO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 11 de abril de 1992.
 
@@ -393,8 +395,26 @@ Por lo tanto mando se imprima circule y observe.
 
 Dado en Palacio de Gobierno, a los nueve días del mes de abril de 1992.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. CARLOS DE LA MADRID VIRGEN.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. JOSE DELGADO MAGAÑA.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 15 DE FEBRERO DE 1997.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE AGOSTO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Se abroga la Ley de Vivienda para el Estado de Colima, contenida en el Decreto número 441, aprobado el 28 de septiembre de 2006; así como la Ley del Instituto de Vivienda del Estado de Colima, aprobada el 31 de marzo de 1992, mediante Decreto número 44.
+
+TERCERO.- Se derogan las disposiciones administrativas que se opongan al presente ordenamiento.
+
+CUARTO.- El Ejecutivo deberá expedir el Reglamento de esta Ley en un plazo de noventa días hábiles a partir de la publicación del presente Decreto.
+
+QUINTO.- En el caso de las obligaciones contraídas en contratos, convenios o acuerdos celebrados por el Instituto de Vivienda del Estado de Colima con dependencias del Gobierno del Estado, del Gobierno Federal, de los municipios o, con cualquier persona física o moral, se entenderán referidas al Instituto de Suelo, Urbanización y Vivienda del Estado de Colima, a partir de la entrada en vigor de la presente Ley.
+
+SEXTO.- El patrimonio del Instituto de Vivienda del Estado de Colima, con todos sus recursos materiales, los bienes muebles, inmuebles, activos, fijos y pasivos que actualmente forman parte de éste, serán trasladados al Instituto de Suelo, Urbanización y Vivienda del Estado de Colima, a partir de la entrada en vigor de la presente Ley.
+
+SÉPTIMO.- La planta de trabajadores que actualmente integran el personal laboral del Instituto de Vivienda del Estado de Colima, formarán parte del Instituto de Suelo, Urbanización y Vivienda del Estado de Colima y, les serán respetados todos sus derechos laborales y antigüedad, de conformidad a lo establecido por la Ley de los trabajadores al servicio del Gobierno, Ayuntamientos y Organismos Descentralizados del Estado de Colima.
+
+OCTAVO.- Los asuntos que se venían conociendo y tramitando por el Instituto de Vivienda del Estado de Colima, serán continuados hasta su conclusión con base a la normatividad vigente al momento en que se iniciaron, por el Instituto de Suelo, Urbanización y Vivienda del Estado de Colima; o con base en esta Ley, siempre que así lo manifieste de manera expresa el interesado.
