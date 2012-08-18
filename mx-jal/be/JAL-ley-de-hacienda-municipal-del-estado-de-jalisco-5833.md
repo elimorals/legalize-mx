@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "2012-04-21"
+last_updated: "2012-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 30 DE AGOSTO Y EL 6 DE NOVIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2011.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 21 DE ABRIL DE 2012 NO APLICA AL ARTICULADO DEL DECRETO 23640 PUBLICADO EN EL P.O. DE 15 DE DICIEMBRE DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2012.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -1793,29 +1793,27 @@ Los derechos por aseo público a que se refiere esta Ley, cuando no se presten e
 
 ### CAPITULO VI. Agua y Alcantarillado
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2012)</small>
+
 ###### Art. 157.
 
-Para la fijación de las tarifas a que deba sujetarse el servicio de agua, se tendrá como base el consumo, adoptándose preferentemente el uso de medidores cuando esto no fuere posible, éstas se determinarán de conformidad a lo establecido en las Leyes de Ingresos Municipales, o diversas disposiciones, cuando el servicio no lo proporcione el Municipio.
-
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1999)</small>
+La regulación de los derechos o cualquier otro ingreso que se establezcan por la prestación de los servicios públicos de agua potable, alcantarillado, tratamiento y disposición de aguas residuales y los procedimientos para su determinación, se sujetarán a lo previsto en la Ley del Agua para el Estado de Jalisco y sus Municipios.
 
 ###### Art. 158.
 
-Los pagos se harán mensual o por bimestres según lo determine la ley de ingresos de cada municipio, a más tardar, el día quince del mes o primer mes de cada bimestre. En caso de que se haya instalado medidor, los pagos se harán quince días después de notificado el consumo, previa lectura del mismo.
+(DEROGADO, P.O. 18 DE AGOSTO DE 2012)
 
 ###### Art. 159.
 
-Son responsables objetivos del pago de este Derecho los adquirentes de predios en que se haya instalado el servicio, en relación con los créditos insolutos a la fecha de la adquisición.
+(DEROGADO, P.O. 18 DE AGOSTO DE 2012)
 
 ###### Art. 160.
 
-Los propietarios de las fincas ubicadas en las calles donde haya red de distribución de servicio de Agua y Alcantarillado, pagarán el servicio, aún cuando no lo usen, de conformidad con las cuotas que establezcan las Leyes de Ingresos Municipales.
+(DEROGADO, P.O. 18 DE AGOSTO DE 2012)
 
 ###### Art. 161.
 
-Los lotes baldíos propiedad de Fraccionamientos legalmente constituidos tendrán una bonificación del 50 % de las cuotas que les corresponda, mientras no sea transmitida la posesión a otro detentador a cualquier título, momento a partir del cual cubrirán sus cuotas normalmente.
-
-Los fraccionamientos comenzarán a cubrir sus cuotas a partir de la fecha de conexión a la red del Sistema y tendrán la obligación de entregar bimestralmente, a la Tesorería Municipal, una relación de los nuevos posesionarios de lotes para la actualización de su padrón de usuarios. En caso de no cumplirse esta obligación, se suprimirá la bonificación aludida.
+(DEROGADO, P.O. 18 DE AGOSTO DE 2012)
 
 ### CAPITULO VII. Rastro
 
@@ -3570,3 +3568,27 @@ DECRETO NÚMERO 23955/LIX/11, POR EL QUE SE REFORMA EL ARTÍCULO 147 DE LA LEY D
 PRIMERO. Los artículos primero y segundo del presente decreto, relativos la (sic) Ley de Hacienda Municipal y el Código Urbano para el Estado de Jalisco, entrarán en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 SEGUNDO. El artículo tercero del presente decreto, relativo a la Ley de Ingresos del municipio de Guadalajara, Jalisco, para el ejercicio fiscal de 2012, entrará en vigor el día 1.° de enero de 2012, previa su publicación en el periódico oficial El Estado de Jalisco.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTOS TRANSITORIOS, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE NOVIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+P.O. 18 DE AGOSTO DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. El Titular del Poder Ejecutivo, los Ayuntamientos y los organismos operadores, en el ámbito de sus respectivas competencias, deberán expedir o promover se emitan o modifiquen los reglamentos necesarios para la aplicación del presente Decreto en un término de noventa días naturales contados a partir del día siguiente a la entrada en vigor del presente Decreto.
+
+TERCERO. Los Ayuntamientos procederán a emitir los reglamentos municipales para regular la prestación de los servicios de agua potable, alcantarillado, drenaje y tratamiento de sus aguas residuales, conforme a sus atribuciones constitucionales y las disposiciones que se establecen en el presente decreto y en la Ley del Gobierno y la Administración Municipal.
+
+CUARTO. Los Ayuntamientos y los organismos operadores deberán constituir, integrar y operar su respectivo consejo tarifario, en un término no mayor de treinta días naturales contados (sic) partir del día siguiente de la entrada en vigor del presente decreto.
+
+Los Consejos Tarifarios deberán establecer la tarifa para el ejercicio fiscal 2013 a más tardar el 30 de septiembre de 2012. En caso de que no se haya realizado en dicha fecha, se actualizaran las tarifas vigentes conforme al índice nacional de precios al consumidor al mes de noviembre de 2012, para su vigencia a partir del año 2013.
+
+QUINTO. Los Ayuntamientos y sus organismos operadores, para asumir la administración de los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales, con la atribución de autorizar sus cuotas o tarifas conforme las disposiciones de la presente Ley, será necesario hayan cumplido con:
+
+I. Constituir el Consejo Tarifario, de conformidad con las disposiciones de la presente Decreto; y
+
+II. Formular y aprobar los instrumentos administrativos necesarios para adecuarse a las presentes reformas.
+
+SEXTO. A partir de la fecha cuando el Ayuntamiento y sus dependencias u organismos asuman la administración de los servicios públicos de agua potable y saneamiento en los términos de las reformas y adiciones que se autorizan, se derogarán todas las disposiciones que se opongan a lo establecido en el presente Decreto, en el ámbito de aplicación correspondiente a ese Municipio.
+
+A partir de la fecha cuando el Ayuntamiento y sus dependencias u organismos asuman la administración de los servicios públicos de agua potable y saneamiento en los términos de las reformas y adiciones que se autorizan, se derogarán todas las disposiciones que se opongan a lo establecido en el presente Decreto, en el ámbito de de (sic) aplicación correspondiente a ese Municipio.
