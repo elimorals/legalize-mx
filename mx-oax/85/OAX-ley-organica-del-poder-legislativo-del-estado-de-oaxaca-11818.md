@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-legislativo-del-estado-de-oaxaca-11818"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-04"
-last_updated: "2011-09-23"
+last_updated: "2012-08-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "OAX"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE OAXACA
 
-LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE OAXACA
+LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 4 de noviembre de 1995.
 
@@ -325,11 +325,11 @@ VII.- Tendrá derecho a ser adscrito a cuando menos en dos Comisiones;
 
 Los titulares de las Oficinas Públicas facilitarán a los Diputados todos los informes que soliciten en relación con el ejercicio de sus funciones.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE NOVIEMBRE DE 2010)</small>
 
 ## TITULO QUINTO. DE LA JUNTA DE COORDINACION POLITICA, COMISIONES Y FRACCIONES PARLAMENTARIAS DEL CONGRESO
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE NOVIEMBRE DE 2010)</small>
 
 ### CAPITULO I. DE LA NATURALEZA, INTEGRACION Y FACULTADES DE LA JUNTA DE COORDINACION POLITICA
 
@@ -425,7 +425,7 @@ La Junta de Coordinación Política dispondrá y contará con el personal y los 
 
 Para la tramitación de los asuntos, se nombrarán comisiones permanentes y especiales que estudien y rindan el correspondiente dictamen, exponiendo en términos claros y concisos las razones que le sirvieron de fundamento a fin de facilitar al Congreso su resolución.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTICULO 43.
 
@@ -605,7 +605,7 @@ III.- No desempeñar cargo alguno de elección popular.
 
 El Reglamento Interior del Congreso determinará las atribuciones y obligaciones del Oficial Mayor, quien coordinará sus actividades en lo conducente con el Presidente de la Junta de Coordinación Política del Congreso.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE JULIO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE JULIO DE 2009)</small>
 
 ### CAPITULO II. DE LA AUDITORIA SUPERIOR DEL ESTADO
 
@@ -617,7 +617,7 @@ La Auditoria Superior del Estado es el órgano técnico del Congreso que tiene a
 
 ### CAPITULO III. DEL TESORERO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTICULO 62.
 
@@ -639,11 +639,25 @@ Para ser Titular de la Contraloría Interna se requiere contar con cédula profe
 
 ### CAPITULO V. DEL CENTRO DE ESTUDIOS ECONOMICOS Y DE FINANZAS PUBLICAS DEL H. CONGRESO DEL ESTADO DE OAXACA
 
-> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2012)</small>
 
-ARTICULO 62 TER.- El Congreso del Estado Contará con un Centro de Estudios Económicos y de Finanzas Públicas, como organismo de apoyo y consulta, que tendrá por objeto desarrollar investigación, análisis, opinión y evaluación en materia de economía, hacienda, presupuesto, finanzas y políticas públicas.
+ARTICULO 62 TER.- El Congreso del Estado contará con un Centro de Estudios Económicos y de Finanzas Públicas, como organismo de apoyo y consulta, que tendrá por objeto desarrollar investigación, análisis, opinión y evaluación en materia de economía, hacienda, presupuesto, finanzas y políticas públicas.
 
-Para ser titular del Centro de Estudios Económicos y de Finanzas Públicas, se requiere contar con grado de Doctor en cualquiera de las siguientes áreas: Administración Pública, Economía, Ciencias Políticas, o Finanzas. Experiencia profesional mínima de cinco años, además deberá cubrir los requisitos para el oficial mayor.
+El Centro de Estudios Económicos y de Finanzas Publicas estará integrado por:
+
+a) Dirección General.
+
+b) Coordinación de Estudios de Presupuesto y Gasto Público.
+
+c) Coordinación de Estudios Macroeconómicos.
+
+d) Coordinación de Estudios Hacendarios.
+
+e) Coordinación de Enlace y Difusión.
+
+Para ocupar los cargos del Centro de Estudios Económicos y de Finanzas Públicas, se requiere contar con grado de Licenciatura o Posgrados en cualquiera de las siguientes áreas: Administración Pública, Economía, Ciencias Políticas o Finanzas. Experiencia profesional mínima de cinco años, además deberá cubrir los requisitos para ser Oficial Mayor.
+
+La Comisión Permanente de Hacienda será la encargada de emitir la convocatoria pública en la cuál se establecerá el procedimiento y los requisitos que deberán cumplir los aspirantes a ocupar dichos cargos.
 
 ## TITULO SEPTIMO
 
@@ -815,7 +829,7 @@ EL SECRETARIO GENERAL DE GOBIERNO. LIC. JOSE ANTONIO ESTEFAN GARFIAS.
 
 AL C...
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 19 DE DICIEMBRE DE 1998.
 
@@ -898,3 +912,7 @@ PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su aprobac
 SEGUNDO.- El Centro de Estudios Económicos y de Finanzas Públicas del H. Congreso del Estado de Oaxaca, entrará en operaciones una vez que se le asigne el presupuesto para el desempeño de sus funciones.
 
 TERCERO.- Se faculta al Director del Centro de Estudios Económicos y Finanzas Públicas a realizar su reglamento interno que será autorizado por la Comisión Permanente de Hacienda.
+
+P.O. 18 DE AGOSTO DE 2012.
+
+ÚNICO.- El presente Decreto entrara en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
