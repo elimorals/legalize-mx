@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-procuraduria-general-de-justicia-del-2800"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-12-29"
-last_updated: "2009-02-09"
+last_updated: "2012-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2800&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "AGU"
 ---
 # LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE OCTUBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE OCTUBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO
+LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. 20 DE AGOSTO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Suplemento al No. 52 del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de diciembre de 1991.
 
@@ -634,3 +636,33 @@ P.O. 9 DE FEBRERO DE 2009.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigencia a los treinta días naturales posteriores a su publicación en el Periódico Oficial del Estado de Aguascalientes, a efecto de que se lleven a cabo las gestiones conducentes para que inicie sus funciones la Agencia Especializada en Hechos de Tránsito Terrestre.
+
+P.O. 20 DE AGOSTO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Orgánica de la Procuraduría General de Justicia publicada en el Periódico Oficial del Estado, Suplemento al Número 52, Tomo LIV, Primera Sección, de fecha 29 de diciembre de 1991.
+
+###### ARTÍCULO TERCERO.
+
+Todo el personal de la Procuraduría General de Justicia deberá ser evaluado dentro del plazo y bajo las condiciones señaladas en el Artículo tercero transitorio de la Ley General del Sistema Nacional de Seguridad Pública, y para los efectos del Artículo Cuarto Transitorio de la misma Ley.
+
+###### ARTÍCULO CUARTO.
+
+En tanto se expide el reglamento de esta Ley, se aplicará el reglamento publicado en el Periódico Oficial del Estado del día 23 de agosto de 2010, en todo aquello que no se oponga a las disposiciones de la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+En tanto se expiden las disposiciones reglamentarias del Servicio Profesional de Carrera Ministerial, Policial y Pericial, el Consejo de Profesionalización estará facultado para emitir normas generales relativas al desarrollo y operación de dicho servicio.
+
+###### ARTÍCULO SEXTO.
+
+Los agentes del Ministerio Público, los agentes de la Policía Ministerial y los peritos que a la entrada en vigor del presente ordenamiento se encuentren laborando en la Procuraduría General de Justicia se someterán a las disposiciones reglamentarias del Servicio Profesional de Carrera que se expidan para tal efecto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los procedimientos de responsabilidad administrativa que se encuentren en trámite continuarán hasta su conclusión de conformidad con las disposiciones vigentes al momento de su inicio.
