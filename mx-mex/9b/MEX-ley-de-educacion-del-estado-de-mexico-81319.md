@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-educacion-del-estado-de-mexico-81319"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-06"
-last_updated: "2011-05-06"
+last_updated: "2012-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # LEY DE EDUCACION DEL ESTADO DE MEXICO
 
-LEY DE EDUCACION DEL ESTADO DE MEXICO
+LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 20 DE AGOSTO DE 2012.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Estado de México, el viernes 6 de mayo de 2011.
 
@@ -120,6 +120,14 @@ XV. Comunidad educativa, al conjunto de personas integrado por los padres de fam
 ###### Artículo 6.
 
 En el Estado de México, todas las personas tienen derecho a recibir educación y, por lo tanto, las mismas oportunidades de acceso al Sistema Educativo con sólo satisfacer los requisitos que establezcan las disposiciones generales aplicables.
+
+> <small>(ADICIONADO, G.G. 20 DE AGOSTO DE 2012)</small>
+
+La Autoridad Educativa Estatal cuando el educando sea de nuevo ingreso, solicitará por única ocasión como requisito de inscripción para los niveles de educación básica, tanto en instituciones de educación públicas como privadas, el acta de nacimiento en los planteles educativos, y los que se determinen en las disposiciones que para tal efecto expida.
+
+> <small>(ADICIONADO, G.G. 20 DE AGOSTO DE 2012)</small>
+
+Las instituciones de salud del Gobierno del Estado de México, deberán expedir sin costo alguno los certificados médicos que sean solicitados para los educandos de educación básica.
 
 ###### Artículo 7.
 
@@ -1392,6 +1400,14 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. LUIS ENRIQUE MIRANDA NAVA
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 20 DE AGOSTO DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 #### SECCIÓN SEGUNDA. DE LA FORMACIÓN, ACTUALIZACIÓN, CAPACITACIÓN Y SUPERACIÓN PROFESIONAL DE LOS MAESTROS
 
