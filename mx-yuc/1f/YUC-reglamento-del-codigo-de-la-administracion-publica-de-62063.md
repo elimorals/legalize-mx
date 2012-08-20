@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-del-codigo-de-la-administracion-publica-de-62063"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-07"
-last_updated: "2011-12-30"
+last_updated: "2012-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # REGLAMENTO DEL CODIGO DE LA ADMINISTRACION PUBLICA DE YUCATAN
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE SEPTIEMBRE DE 2012 EN EL D.O. DEL ESTADO DE YUCATÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE AGOSTO DE 2012.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 7 de julio de 2008.
 
@@ -1545,13 +1547,15 @@ III. Las demás que establezcan este Reglamento y otras disposiciones legales ap
 
 ### CAPÍTULO ÚNICO. De la organización, facultades y obligaciones del personal de la Consejería Jurídica
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE SEPTIEMBRE DE 2012 EN EL D.O. DEL ESTADO DE YUCATÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(REFORMADO, D.O. 20 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 70.
 
 Para el ejercicio de las atribuciones que le confiere el Código y el despacho de los asuntos de su competencia, la Consejería Jurídica contará con la siguiente estructura:
 
 I. Despacho del Consejero Jurídico, al cual se adscribe la Secretaría Técnica;
-
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
 II. Subconsejería de Legislación y Normatividad;
 
@@ -1563,27 +1567,15 @@ III. Subconsejería de Servicios Legales y Vinculación Institucional;
 
 a) Dirección de Contratos, Licitaciones y Procedimientos;
 
-b) (DEROGADO, D.O. 30 DE DICIEMBRE DE 2011)
+b) Dirección de Servicios Legales;
 
 c) Dirección de Vinculación Institucional;
 
-d) (DEROGADO, D.O. 30 DE DICIEMBRE DE 2011)
+d) Dirección del Registro Civil;
 
-e) (DEROGADO, D.O. 30 DE DICIEMBRE DE 2011)
+e) Secretariado Ejecutivo de la Comisión para la Implementación de la Reforma Penal y de Justicia del Estado, y
 
-f) (DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DEL INSTITUTO DE DEFENSA PUBLICA DEL ESTADO DE YUCATAN, D.O. 7 DE FEBRERO DE 2011)
-
-g) (DEROGADO, D.O. 30 DE DICIEMBRE DE 2011)
-
-h) Dirección del Registro Civil.
-
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
-
-IV. Secretario Ejecutivo de la Comisión para la Implementación de la Reforma Penal y de Justicia del Estado, y
-
-> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
-
-V. Dirección de Administración y Finanzas.
+f) Dirección de Administración y Finanzas.
 
 > <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -1737,7 +1729,7 @@ II. Preparar la apostilla de documentos para la firma del Secretario General de 
 
 III. Elaborar los dictámenes que debe suscribir el Gobernador del Estado, en términos de lo dispuesto en la Ley Federal de Armas de Fuego y Explosivos, en la Ley Federal de Juegos y Sorteos y en sus respectivos reglamentos;
 
-IV. Formular los dictámenes conforme a los cuales el Gobernador del Estado otorgará las pensiones a que tengan derecho los familiares o dependientes económicos de los empleados pensionados y jubilados del Poder Ejecutivo;
+IV. (DEROGADA, D.O. 20 DE AGOSTO DE 2012)
 
 V. Llevar el registro y control de las plicas de los trabajadores jubilados y pensionados del Gobierno del Estado;
 
@@ -1777,9 +1769,39 @@ XXII. Disponer la notificación de los asuntos que se tramiten en la Consejería
 
 XXIII. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
 
+> <small>(ADICIONADO, D.O. 20 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 77.
 
-(DEROGADO, D.O. 30 DE DICIEMBRE DE 2011)
+Al Director de Servicios Legales le corresponde el despacho de los siguientes asuntos:
+
+I. Dirigir, coordinar y vigilar el cumplimiento de las obligaciones del titular del área jurídica del Registro Civil;
+
+II. Intervenir y brindar asesoría en los asuntos de carácter legal al Director del Registro Civil;
+
+III. Dar seguimiento a las instrucciones que gire el Consejero Jurídico o el Subconsejero de Servicios Legales y Vinculación Institucional al Director del Registro Civil;
+
+IV. Emitir opinión y resolver las consultas que en materia laboral sean planteadas por las dependencias y entidades de la Administración Pública;
+
+V. Establecer canales de coordinación permanente con las áreas jurídicas de las dependencias y entidades de la Administración Pública, a fin de homologar criterios para la atención de los juicios laborales, así como solicitar periódicamente de las mismas, información relativa a dichos asuntos;
+
+VI. Dar seguimiento a la tramitación de todos los juicios laborales en los que el Poder Ejecutivo sea parte, ofreciendo todas las pruebas o medios de convicción a su alcance y que sean procedentes; intervenir en las audiencias de conciliación, demanda y excepciones, pruebas y alegatos e interponer y hacer valer los incidentes, recursos legales y medios de impugnación que procedan y, en general, realizar toda clase de trámites y actuaciones que correspondan a la adecuada defensa de sus intereses;
+
+VII. Formular los proyectos de las promociones y recursos que deban interponerse en los juicios de amparo en materia laboral;
+
+VIII. Elaborar los proyectos de convenios para la conclusión de los juicios o conflictos laborales de las dependencias o entidades de la Administración Pública;
+
+IX. Cuantificar y proponer las liquidaciones que por concepto de pago de prestaciones deban cubrirse a los trabajadores del Poder Ejecutivo por terminación de la relación laboral, de conformidad con lo dispuesto en la normatividad aplicable;
+
+X. Representar legalmente al Poder Ejecutivo del Estado y a su titular, ante los tribunales estatales o federales en los procedimientos laborales, así como en los juicios de amparo en materia laboral, en los que sea parte o tenga interés jurídico;
+
+XI. Representar legalmente a la Consejería Jurídica y a su titular, ante los tribunales estatales o federales en los procedimientos laborales, así como en los juicios de amparo en materia laboral, en los que la dependencia sea parte o tenga interés jurídico;
+
+XII. Emitir opinión en relación a las solicitudes de pensión de los familiares o dependientes económicos de los empleados pensionados y jubilados del Poder Ejecutivo, así como coordinarse con el área competente del Instituto de Seguridad Social de los Trabajadores del Estado de Yucatán en relación a los trámites de otorgamiento y pago de pensión, y
+
+XIII. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
+
+> <small>(REFORMADO, D.O. 20 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 78.
 
@@ -1791,17 +1813,11 @@ II. Formular estudios, análisis y dictámenes de carácter jurídico que le sea
 
 III. Dar seguimiento a la aplicación de los criterios jurídicos que emita la Consejería Jurídica, con relación al funcionamiento de las dependencias y entidades de la Administración Pública e informar al Consejero Jurídico cuando exista contradicción en el uso de los mismos;
 
-IV. Emitir opinión y resolver las consultas que en materia laboral sean planteadas por las dependencias y entidades de la Administración Pública;
+IV. Revisar los oficios en los cuales se instruya a los Secretarios de Actas para que convoquen a sesiones de las juntas de gobierno o sus equivalentes, en los casos en que el Gobernador del Estado las presida;
 
-V. Elaborar los proyectos de convenios para terminar los juicios o conflictos laborales de las dependencias o entidades de la Administración Pública;
+V. Revisar, a solicitud de los Secretarios de Actas, los proyectos de actas de las sesiones de las juntas de gobierno o sus equivalentes, de conformidad con lo dispuesto en este Reglamento, y
 
-VI. Formular los proyectos de las promociones y recursos que deban interponerse en los juicios de amparo en materia laboral promovidos en contra del Gobernador del Estado, y de los titulares de las dependencias y entidades, siempre que lo soliciten;
-
-VII. Proseguir la tramitación de todos los juicios laborales en los que el Poder Ejecutivo sea parte, ofreciendo todas las pruebas o medios de convicción a su alcance y que sean procedentes; intervenir en las audiencias de conciliación, desahogo de pruebas y alegatos e interponer y hacer valer los recursos legales y, en general, realizar toda clase de trámites y actuaciones que correspondan a la adecuada defensa de sus intereses;
-
-VIII. Cuantificar y proponer las liquidaciones que por concepto de pago de prestaciones deban cubrirse a los trabajadores del Poder Ejecutivo por terminación de la relación laboral, de conformidad con lo dispuesto en la normatividad aplicable, y
-
-IX. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
+VI. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
 
 ###### Artículo 79.
 
@@ -9221,9 +9237,9 @@ b) Dirección de Inspección de Obra Pública.
 
 2. Jefatura de de (sic) Supervisión de Obra Pública, Zona Estatal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE AGOSTO DE 2012)</small>
 
-c) Dirección de Normatividad y Responsabilidades.
+c) Dirección de Normatividad, Quejas y Responsabilidades.
 
 1. Jefatura de Normatividad en Obras Públicas y Adquisiciones;
 
@@ -9243,7 +9259,9 @@ a) Director de Auditoría al Sector Centralizado.
 
 1. Órganos de Control Interno, en las dependencias, y
 
-2. Jefe de Auditoría de Sistemas al Sector Estatal.
+> <small>(REFORMADO, D.O. 20 DE AGOSTO DE 2012)</small>
+
+2. Coordinador de Auditoría de Sistemas al Sector Estatal.
 
 b) Director de Auditoría al Sector Paraestatal.
 
@@ -9251,9 +9269,13 @@ b) Director de Auditoría al Sector Paraestatal.
 
 2. Órganos de Control Interno, en las entidades;
 
-3. Jefe de Auditoría de Sistemas al Sector Paraestatal;
+> <small>(REFORMADO, D.O. 20 DE AGOSTO DE 2012)</small>
+
+3. Coordinador de Auditoría de Sistemas al Sector Paraestatal
 
 c) Unidad de Control y Auditoría de Gestión, de quien dependerán los Comisarios Titular y Suplente.
+
+1. a 4 ... (sic)
 
 d) Dirección de Asuntos Jurídicos de Auditoría y Situación Patrimonial del Sector Estatal y Paraestatal.
 
@@ -9261,7 +9283,9 @@ d) Dirección de Asuntos Jurídicos de Auditoría y Situación Patrimonial del S
 
 2. Jefe del Departamento de Asuntos Jurídicos de Auditoría en el Sector Centralizado, y
 
-3. Coordinación de Control y Registro de Situación Patrimonial.
+> <small>(REFORMADO, D.O. 20 DE AGOSTO DE 2012)</small>
+
+3. Jefe del Departamento de Control y Registro de Situación Patrimonial.
 
 III. Director de Administración.
 
@@ -9293,23 +9317,25 @@ VII. Establecer los lineamientos y políticas que orienten la colaboración que 
 
 VIII. Elaborar y someter a la consideración del Titular del Poder Ejecutivo el Programa Anual de Control y Auditoría de las dependencias y entidades;
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 2012)</small>
 
-IX. Resolver el recurso de revocación que se promueva en contra de las resoluciones definitivas derivadas de procedimientos de responsabilidades que emita la Dirección de Normatividad y Responsabilidades;
+IX. Resolver el recurso de revocación que se promueva en contra de las resoluciones definitivas derivadas de procedimientos de responsabilidades que emita la Dirección de Normatividad, Quejas y Responsabilidades;
 
 X. Autorizar el establecimiento de medios de comunicación electrónica para el ejercicio de las facultades que le otorgan a la Contraloría las leyes, reglamentos y demás disposiciones aplicables;
 
 XI. Vigilar que las unidades administrativas de la Contraloría cumplan con las normas de control, evaluación y fiscalización aplicables, de acuerdo a la normatividad correspondiente;
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 2012)</small>
 
-XII. Turnar a la unidad administrativa de auditoría competente para su investigación, las quejas y denuncias relativos a los actos, omisiones o conductas de los servidores públicos de las dependencias y entidades que pudieran constituir responsabilidades administrativas, instruyendo, en su caso, lo necesario para que se interpongan las denuncias correspondientes ante el Ministerio Público competente, por conducto de las unidades administrativas facultadas para tal efecto;
+XII. Turnar a la unidad administrativa competente para su investigación, los asuntos relativos a los actos, omisiones o conductas de los servidores públicos que pudieran constituir responsabilidades administrativas, para la aplicación de las sanciones que correspondan en los términos que señale la Ley, proveyendo lo necesario para interponer las denuncias correspondientes ante el Ministerio Público, por conducto de las unidades administrativas facultadas para tal efecto;
 
 XIII. Designar al personal que deberá participar en la suscripción de las actas de entrega recepción de los titulares y demás servidores públicos obligados de las dependencias y entidades;
 
 XIV. Aprobar la organización y funcionamiento de la Contraloría Interna de esta Secretaría, informando al Titular del Poder Ejecutivo de las acciones que lleve a cabo en el ejercicio de sus facultades;
 
-XV. Contratar, cuando sea necesario, Despachos Externos que dictaminen a dependencias y entidades de la Administración Pública Estatal, así como establecer los procedimientos que fueren necesarios para los informes, datos y demás cooperación técnica que deba prestar la Contraloría, en relación con las dependencias, entidades y fideicomisos; y éstas entre sí;
+> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 2012)</small>
+
+XV. Proponer y, en su caso, designar, por acuerdo del Titular del Poder Ejecutivo, en las dependencias y entidades, a las personas que realizarán las auditorías externas, conforme a las disposiciones legales aplicables. Asimismo, someter a la consideración del Titular del Poder Ejecutivo las estructuras orgánicas de las unidades de contraloría interna en las dependencias y entidades, y demás unidades administrativas, proponiendo para tal efecto los tabuladores de sueldos de los integrantes de dichas unidades;
 
 XVI. Designar al auditor que deberá participar en la suscripción de las actas de entrega recepción de los titulares y demás servidores públicos obligados de las dependencias y entidades;
 
@@ -9323,9 +9349,9 @@ XIX. Emplear los medios de apremio establecidos en la Ley de Responsabilidades d
 
 XX. Requerir en el ámbito de su competencia a las dependencias y entidades que hayan sido objeto de auditorías o acciones de auditoría y fiscalización acordadas con la Secretaría de la Función Pública, la Auditoría Superior de la Federación, o de manera directa, la información, documentación o acciones necesarias, para solventar las cédulas o pliegos de observaciones respectivos dentro de los términos otorgados;
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 2012)</small>
 
-XXI. Solicitar, por sí o por conducto de la Dirección de Normatividad y Responsabilidades, a los servidores públicos, licitantes, proveedores, prestadores de servicios y contratistas que tengan relación con los actos y contratos que realicen las dependencias y entidades, la información y documentación necesaria para el cumplimiento de las atribuciones otorgadas a la Contraloría;
+XXI. Solicitar, por sí o por conducto de la Dirección de Normatividad, Quejas y Responsabilidades, a los servidores públicos, licitantes, proveedores, prestadores de servicios y contratistas que tengan relación con los actos y contratos que realicen las dependencias y entidades, la información y documentación necesaria para el cumplimiento de las atribuciones otorgadas a la Contraloría;
 
 XXII. Convocar, designar y facultar a los servidores públicos que participen en los actos de los procedimientos de contratación, y en su caso, adjudicar;
 
@@ -9441,9 +9467,9 @@ XXIV. Proponer a su superior para su aprobación, los programas, guías e instru
 
 XXV. Dar seguimiento a las observaciones determinadas en las visitas realizadas por los órganos internos de control a las dependencias y entidades, y que se refieran a recursos federales, hasta su total solventación;
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 2012)</small>
 
-XXVI. Llevar el control de los asuntos turnados a la Dirección de Normatividad y Responsabilidades y darles seguimiento hasta su resolución definitiva;
+XXVI. Llevar el control de los asuntos turnados a la Dirección de Normatividad, Quejas y Responsabilidades y darles seguimiento hasta su resolución definitiva;
 
 XXVII. Dictaminar sobre las opiniones que corresponden emitir a esta Secretaría, cuando se lo soliciten las unidades administrativas competentes de la misma, y que deba rendir en su ámbito de competencia, en cuanto se refieran a las instrucciones sobre la forma y términos en que las entidades deban llevar sus registros contables, y en su caso, rendir sus informes y cuentas para fines de contabilización y consolidación. Así como la modificación o simplificación del funcionamiento del sistema y los procedimientos de contabilidad de cada Entidad a que se refiere el Artículo 36 de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Yucatán, en relación con programas federales, y (sic)
 
@@ -9581,9 +9607,9 @@ XVII. Coordinar, cuando se le solicite, la participación en los actos de los pr
 
 XVIII. Asesorar a las dependencias y entidades ejecutoras de la Administración Pública Estatal, en materia de inspección y seguimiento de obra pública, así como establecer estrecha coordinación del flujo de información y documentación;
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 2012)</small>
 
-XIX. Turnar al Director de Normatividad y Responsabilidades, los informes y documentación de los resultados de las observaciones provenientes de auditorías, fiscalizaciones, revisiones, supervisiones y actas circunstanciadas en materia de obra pública para efecto de que se revisen y emitan las presuntas sanciones jurídico-administrativas correspondientes;
+XIX. Turnar al Director de Normatividad, Quejas y Responsabilidades, los informes y documentación de los resultados de las observaciones provenientes de auditorías, fiscalizaciones, revisiones, supervisiones y actas circunstanciadas en materia de obra pública para efecto de que se revisen y emitan las presuntas sanciones jurídico-administrativas correspondientes;
 
 > <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -9663,15 +9689,15 @@ XI. Designar al personal supervisor que en su caso, lleve a cabo verificaciones 
 
 XII. Las demás que le establezcan este Reglamento y otras disposiciones legales aplicables; (sic)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 533.
 
-El Director de Normatividad y Responsabilidades, le corresponde el despacho de los siguientes asuntos:
+Al Director de Normatividad, Quejas y Responsabilidades, le corresponde el despacho de los siguientes asuntos:
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 2012)</small>
 
-l. Solicitar a las unidades administrativas competentes de la Contraloría y a las dependencias y entidades la práctica de investigaciones, para contar con elementos tendientes a dictaminar la procedencia de las quejas y denuncias y resolver los procedimientos disciplinarios que se instauren;
+I. Practicar investigaciones derivadas de quejas, denuncias, o de irregularidades detectadas durante las auditorías y acciones de fiscalización, y solicitar a las dependencias y entidades, cuando proceda, la práctica de investigaciones respecto a actos, omisiones o conductas de servidores públicos, para contar con elementos tendientes a dictaminar la procedencia de las quejas y denuncias y resolver los procedimientos disciplinarios que se instauren;
 
 > <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -9707,13 +9733,13 @@ X. Turnar a los órganos de control interno, respectivamente, las resoluciones a
 
 XI. Expedir las constancias que acrediten la no existencia del registro de inhabilitación, o en su caso, la situación en la que se encuentren en el registro de servidores públicos sancionados las personas que pretendan desempeñar un empleo, cargo o comisión en el servicio público, de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán y los convenios que se celebren con la Federación, Entidades Federativas y municipios;
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 2012)</small>
 
-XII. Emplear los medios de apremio establecidos en la Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán para el cumplimiento de sus atribuciones;
+XII. Diseñar los mecanismos, procedimientos y formatos para la recepción, control, seguimiento, análisis, investigación y resolución de las quejas y denuncias, así como los relativos al proceso de responsabilidades de los servidores públicos del Estado de Yucatán, que se realice en la Contraloría, y los que se lleven en los Órganos de Control Interno;
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 2012)</small>
 
-XIII. Dictaminar sobre la procedencia de no instaurar procedimientos disciplinarios que deriven de la remisión de auditorías, investigaciones, quejas y denuncias, respecto a la actuación de las personas que en el ejercicio de sus funciones como servidores públicos desempeñen o hayan desempeñado un empleo, cargo o comisión en las dependencias y entidades;
+XIII. Atender, dictaminar sobre la procedencia y resolver las quejas y denuncias, respecto a la actuación de las personas que desempeñen o hayan desempeñado un empleo, cargo o comisión en las dependencias y entidades de la Administración Pública del Estado;
 
 > <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -9773,37 +9799,43 @@ XXXIII. Contestar informes del orden jurídico, demandar, denunciar, querellarse
 
 XXXIV. Intervenir con el carácter de tercero perjudicado y de los recursos y demás medios de impugnación que procedan;
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 2012)</small>
 
-XXXV. Contestar demandas, realizar promociones de trámite, rendir pruebas y alegatos, promover recursos e incidentes dentro de los juicios contenciosos administrativos que se promuevan en contra de actos emitidos por esta Dirección y por las resoluciones de recursos de revocación que resuelva el Secretario promovidos en contra de los referidos actos o que tengan relación con la Subcontraloría de Programas Federales, y
+XXXV. Contestar demandas, realizar promociones de trámite, rendir pruebas y alegatos, promover recursos e incidentes dentro de los juicios contenciosos administrativos que se promuevan en contra de actos emitidos por esta Dirección y por las resoluciones de recursos de revocación que resuelva el Secretario promovidos en contra de los referidos actos o que tengan relación con la Subcontraloría de Programas Federales;
 
-XXXVI. Las demás que le confieran este Reglamento y otras disposiciones legales aplicables.
+> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 2012)</small>
+
+XXXVI. Emplear los medios de apremio establecidos en la Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán para el cumplimiento de sus atribuciones, y
+
+> <small>(ADICIONADA, D.O. 20 DE AGOSTO DE 2012)</small>
+
+XXXVII. Las demás que le confieran este Reglamento y otras disposiciones legales aplicables.
 
 ###### Artículo 534.
 
 Al Jefe de Normatividad en Obras Públicas y Adquisiciones le corresponde el despacho de los siguientes asuntos:
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 2012)</small>
 
-I. Proponer al Director de Normatividad y Responsabilidades, lineamientos, procedimientos y criterios que deban ser emitidos por la Contraloría en el ámbito de su competencia de conformidad a las disposiciones que le confieren la Ley de Proyectos Para la Prestación de Servicios, Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles; la Ley de Obra Pública y Servicios Conexos; el Presupuesto de Egresos del Gobierno del Estado, vigentes en el Estado y otras disposiciones legales aplicables;
+I. Proponer al Director de Normatividad, Quejas y Responsabilidades, lineamientos, procedimientos y criterios que deban ser emitidos por la Contraloría en el ámbito de su competencia de conformidad a las disposiciones que le confieren la Ley de Proyectos para la Prestación de Servicios, la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles, la Ley de Obra Pública y Servicios Conexos, el Presupuesto de Egresos del Gobierno del Estado, y otras disposiciones legales aplicables;
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 2012)</small>
 
-II. Proponer al Director de Normatividad y Responsabilidades, los criterios de interpretación que para efectos administrativos corresponda de las Leyes de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con bienes muebles, de Obra Pública y Servicios Conexos del Estado de Yucatán y de Proyectos Para la Prestación de Servicios; asesorar, capacitar y dar orientación a los servidores públicos de las dependencias y entidades y unidades administrativas de la Contraloría; así como recibir y compilar la información que dichas dependencias y entidades deban remitir a la Contraloría en esas materias, en los términos de las normas vigentes;
+II. Proponer al Director de Normatividad, Quejas y Responsabilidades, los criterios de interpretación que para efectos administrativos corresponda, de las Leyes de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con bienes muebles, de Obra Pública y Servicios Conexos del Estado de Yucatán y de Proyectos Para la Prestación de Servicios; asesorar, capacitar y dar orientación a los servidores públicos de las dependencias y entidades y unidades administrativas de la Contraloría; así como recibir y compilar la información que dichas dependencias y entidades deban remitir a la Contraloría en esas materias, en los términos de las normas vigentes;
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 2012)</small>
 
-III. Proponer al Director de Normatividad y Responsabilidades, la forma y términos en el que las dependencias y entidades de la Administración Pública Estatal, deban remitir la información relativa a los procedimientos de contratación de adquisiciones, arrendamientos y servicios, obra pública y de proyectos para la prestación de servicios, en los términos de las normas aplicables;
+III. Proponer al Director de Normatividad, Quejas y Responsabilidades, la forma y términos en los que las dependencias y entidades de la Administración Pública Estatal, deban remitir la información relativa a los procedimientos de contratación de adquisiciones, arrendamientos y servicios, obra pública y de proyectos para la prestación de servicios, en los términos de las normas aplicables;
 
 IV. Ejercer las atribuciones que la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, y la Ley de Obras Públicas y Servicios Relacionados con las Mismas, confieren a la Secretaría de la Función Pública, previa formalización que se haga del convenio respectivo, y que no le estén expresamente asignadas a otra unidad administrativa;
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 2012)</small>
 
-V. Someter a consideración del Director de Normatividad y Responsabilidades, en el ámbito de su competencia, la conveniencia de solicitar la práctica de investigaciones, visitas e inspecciones, respecto de la conducta de servidores públicos de la Contraloría y de las dependencias y entidades, que pudieran implicar inobservancia de las obligaciones previstas en las disposiciones legales aplicables en materia de adquisiciones y arrendamientos de bienes muebles, prestación de servicios; obra pública y servicios conexos y de proyectos para la prestación de servicios;
+V. Someter a consideración del Director de Normatividad, Quejas y Responsabilidades, en el ámbito de su competencia, la conveniencia de solicitar la práctica de investigaciones, visitas e inspecciones, respecto de la conducta de servidores públicos de la Contraloría y de las dependencias y entidades, que pudieran implicar inobservancia de las obligaciones previstas en las disposiciones legales aplicables en materia de adquisiciones y arrendamientos de bienes muebles, prestación de servicios; obra pública y servicios conexos y de proyectos para la prestación de servicios;
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 2012)</small>
 
-VI. Previo acuerdo con el Director de Normatividad y Responsabilidades, proponer la procedencia de solicitar a las unidades administrativas de la Contraloría que lleven a cabo auditorías e investigaciones, o en su caso, remitir a la Jefatura de Quejas y Responsabilidades, la documentación e información que conozca en el desempeño de sus funciones y que pudiere implicar una presunta responsabilidad de quienes desempeñen un empleo, cargo o comisión en la Administración Pública Estatal, en las materias de adquisiciones y arrendamientos de bienes muebles, prestación de servicios, obra pública y servicios conexos y de proyectos para la prestación de servicios;
+VI. Previo acuerdo con el Director de Normatividad, Quejas y Responsabilidades, proponer la procedencia de solicitar a las unidades administrativas de la Contraloría que lleven a cabo auditorías e investigaciones, o en su caso, remitir a la Jefatura de Quejas y Responsabilidades, la documentación e información que conozca en el desempeño de sus funciones y que pudiere implicar una presunta responsabilidad de quienes desempeñen un empleo, cargo o comisión en la Administración Pública Estatal, en las materias de adquisiciones y arrendamientos de bienes muebles, prestación de servicios, obra pública y servicios conexos y de proyectos para la prestación de servicios;
 
 > <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -9851,13 +9883,13 @@ III. Llevar a cabo el análisis y valoración de las observaciones y evidencias 
 
 IV. Solicitar información y documentación a las unidades administrativas de la Contraloría, a las dependencias y entidades relacionadas con las investigaciones, quejas, denuncias y auditorías respecto a la conducta de servidores públicos;
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 2012)</small>
 
-V. Proponer al Director de Normatividad y Responsabilidades el acuerdo de inicio y la resolución del procedimiento disciplinario a que se refiere la Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán;
+V. Proponer al Director de Normatividad, Quejas y Responsabilidades el acuerdo de inicio y la resolución del procedimiento disciplinario a que se refiere la Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán;
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 2012)</small>
 
-VI. Proponer al Director de Normatividad y Responsabilidades los dictámenes sobre la procedencia de no iniciar los procedimientos disciplinarios que deriven de las quejas, denuncias, investigaciones y auditorías;
+VI. Proponer al Director de Normatividad, Quejas y Responsabilidades los dictámenes sobre la procedencia de no iniciar los procedimientos disciplinarios que deriven de las quejas, denuncias, investigaciones y auditorías;
 
 VII. Levantar y suscribir las actas administrativas relativas al desahogo de las audiencias a que se refiere la Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán, así como las relativas a las comparecencias que hagan los presuntos responsables en el procedimiento disciplinario a que se refiere la citada ley;
 
@@ -9887,9 +9919,9 @@ XV. Establecer programas preventivos en materia de responsabilidades de los serv
 
 XVI. Solicitar, dentro del ámbito de su competencia, a las áreas competentes de auditoría de esta Secretaría, previo acuerdo de su superior jerárquico, informes, auditorías, dictámenes y demás documentación que requiera cuando sea necesario para la resolución de una queja o denuncia que conozca contra algún servidor público;
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 2012)</small>
 
-XVII. Proponer al Director de Normatividad y Responsabilidades la necesidad de solicitar información y documentación, o en su caso, las observaciones a las constancias documentales que obren en el expediente técnico a la unidad administrativa competente, cuando no se encuentren debidamente integradas las evidencias que acrediten las presuntas irregularidades detectadas en las auditorías, visitas e inspecciones a efecto de que sean subsanadas o se determine la improcedencia de iniciar el procedimiento disciplinario, y
+XVII. Proponer al Director de Normatividad, Quejas y Responsabilidades la necesidad de solicitar información y documentación, o en su caso, las observaciones a las constancias documentales que obren en el expediente técnico a la unidad administrativa competente, cuando no se encuentren debidamente integradas las evidencias que acrediten las presuntas irregularidades detectadas en las auditorías, visitas e inspecciones a efecto de que sean subsanadas o se determine la improcedencia de iniciar el procedimiento disciplinario, y
 
 XVIII. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
 
@@ -9933,33 +9965,33 @@ VI. Demandar la destitución en representación de la Contraloría y participar 
 
 VII. Llevar a cabo las acciones de coordinación con el personal de la Secretaría de la Función Pública y de la Auditoría Superior de la Federación, en términos del convenio que se celebre en lo concerniente a responsabilidades de servidores y ex servidores públicos que pudieran ser sujetos a sanciones penales;
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 2012)</small>
 
-VIII. Dar seguimiento de cualquier asunto contencioso que sea competencia de la Subcontraloría de Programas Federales y de la Dirección de Normatividad y Responsabilidades, en términos de las funciones y atribuciones que establece este Reglamento y las demás disposiciones jurídicas aplicables;
+VIII. Dar seguimiento de cualquier asunto contencioso que sea competencia de la Subcontraloría de Programas Federales y de la Dirección de Normatividad, Quejas y Responsabilidades, en términos de las funciones y atribuciones que establece este Reglamento y las demás disposiciones jurídicas aplicables;
 
 > <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
 IX. Asesorar a las áreas adscritas a la Subcontraloría de Programas Federales en relación a aspectos de tipo contencioso de su competencia;
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 2012)</small>
 
-X. Elaborar los proyectos de contestación, informes, las demandas, denuncias, querellas, y demás promociones y representar a la Contraloría para allanarse, desistirse, ofrecer y desahogar pruebas, manifestar alegatos, interponer recursos y otorgar perdón en los asuntos de orden contencioso que sean competencia de la Dirección de Normatividad y Responsabilidades;
+X. Elaborar los proyectos de contestación, informes, las demandas, denuncias, querellas, y demás promociones y representar a la Contraloría para allanarse, desistirse, ofrecer y desahogar pruebas, manifestar alegatos, interponer recursos y otorgar perdón en los asuntos de orden contencioso que sean competencia de la Dirección de Normatividad, Quejas y Responsabilidades;
 
 > <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
 XI. Elaborar y suscribir en representación de la Contraloría los informes previos y justificados que en los juicios de amparo que (sic) sean competencia de las unidades administrativas de la Subcontraloría de Programas Federales;
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 2012)</small>
 
-XII. Elaborar y suscribir en representación de la Dirección de Normatividad y Responsabilidades y del Secretario las alegaciones en las que la Contraloría deba intervenir con el carácter de tercero perjudicado en los juicios contenciosos y de amparo y de los recursos y demás medios de impugnación que procedan dentro del ámbito de competencia de los actos que emita la propia Dirección;
+XII. Elaborar y suscribir en representación de la Dirección de Normatividad, Quejas y Responsabilidades y del Secretario las alegaciones en las que la Contraloría deba intervenir con el carácter de tercero perjudicado en los juicios contenciosos y de amparo y de los recursos y demás medios de impugnación que procedan dentro del ámbito de competencia de los actos que emita la propia Dirección;
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 2012)</small>
 
-XIII. Proponer al Director de Normatividad y Responsabilidades los escritos de requerimientos de información que se lleven a cabo para atender asuntos contenciosos;
+XIII. Proponer al Director de Normatividad, Quejas y Responsabilidades los escritos de requerimientos de información que se lleven a cabo para atender asuntos contenciosos;
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 2012)</small>
 
-XIV. Instruir, los recursos de revocación que interpongan los servidores públicos de las dependencias, entidades y esta Contraloría, en contra de las resoluciones emitidas por la Dirección de Normatividad y Responsabilidades, así como proponer los proyectos de resolución a dichos recursos; y
+XIV. Instruir, los recursos de revocación que interpongan los servidores públicos de las dependencias, entidades y esta Contraloría, en contra de las resoluciones emitidas por la Dirección de Normatividad, Quejas y Responsabilidades, así como proponer los proyectos de resolución dichos recursos, y
 
 > <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -9983,13 +10015,19 @@ II. Solicitar a los licitantes o licitadores, proveedores, contratistas e invers
 
 III. Llevar a cabo las visitas e inspecciones que estime pertinente a contratistas por si o en coordinación con personal de la Contraloría para verificar el cumplimiento de las disposiciones de la Ley de Obras Públicas y Servicios Conexos del Estado de Yucatán y la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles y de la Ley de Proyectos para la Prestación de Servicios;
 
-IV. Analizar y proponer al Director de Normatividad y Responsabilidades la procedencia de solicitar a las autoridades competentes la suspensión o cancelación del registro de contratistas o padrón de proveedores de bienes y servicios, llevando a cabo la tramitación respectiva en representación de la Contraloría;
+> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 2012)</small>
+
+IV. Analizar y proponer al Director de Normatividad, Quejas y Responsabilidades la procedencia de solicitar a las autoridades competentes la suspensión o cancelación del registro de contratistas o padrón de proveedores de bienes y servicios, llevando a cabo la tramitación respectiva en representación de la Contraloría;
 
 V. Recibir las promociones, de las inconformidades que presenten los participantes en contra de los actos realizados en cualquier etapa o fase de los procedimientos de contratación en materia de adquisiciones y arrendamientos de bienes muebles y prestación de servicios, de obra pública y servicios conexos y de proyectos de prestación de servicios admitiendo los procedimientos y las pruebas que se ofrezcan y llevando a cabo las diligencias, requerimientos, citaciones y notificaciones a que haya lugar para su substanciación, emitiendo las directrices necesarias para reponer actuaciones irregulares cuando así procedan;
 
-VI. Proponer al Director de Normatividad y Responsabilidades la resolución de las inconformidades para su firma;
+> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 2012)</small>
 
-VII. Elaborar y proponer al Director de Normatividad y Responsabilidades las contestaciones de demanda de los juicios contenciosos y los informes y escritos de comparecencia para formular alegatos que deriven de los procedimientos de imposición de sanciones a licitantes, proveedores y contratistas, así como de las inconformidades que se promuevan al amparo de las disposiciones de la Ley de Obras Públicas y Servicios Conexos del Estado de Yucatán y la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles y la Ley de Proyectos para la Prestación de Servicios;
+VI. Proponer al Director de Normatividad, Quejas y Responsabilidades la resolución de las inconformidades para su firma;
+
+> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 2012)</small>
+
+VII. Elaborar y proponer al Director de Normatividad, Quejas y Responsabilidades las contestaciones de demanda de los juicios contenciosos y los informes y escritos de comparecencia para formular alegatos que deriven de los procedimientos de imposición de sanciones a licitantes, proveedores y contratistas, así como de las inconformidades que se promuevan al amparo de las disposiciones de la Ley de Obras Públicas y Servicios Conexos del Estado de Yucatán, la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles, y la Ley de Proyectos para la Prestación de Servicios;
 
 VIII. Substanciar los procedimientos de conciliación que promuevan los contratistas al amparo de la Ley de Obra Pública y Servicios Conexos del Estado de Yucatán y de la y (sic) actuar en representación de la Contraloría en las audiencias que se celebren, haciendo las citaciones y requiriendo la información y documentación necesaria;
 
@@ -10153,9 +10191,11 @@ XXVI. Dictaminar sobre las opiniones que corresponden emitir a la Contraloría, 
 
 XXVII. Las demás que le confieran este Reglamento y otras disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 541.
 
-A los Jefes de Auditorías de Sistemas, en su ámbito Paraestatal y Centralizado, les corresponde el despacho de los siguientes asuntos:
+A los Coordinadores de Auditoría de Sistemas, en su ámbito Paraestatal y Centralizado, les corresponde el despacho de los siguientes asuntos:
 
 I. Verificar aleatoriamente que las dependencias y entidades den cumplimiento a las disposiciones que rigen en la materia y a la normatividad emitida por la Oficialía Mayor en sistemas informáticos y gestión de calidad;
 
@@ -10243,7 +10283,9 @@ XVII. Coordinarse con la Procuraduría General de Justicia del Estado para la in
 
 XVIII. Llevar el registro de la situación patrimonial de los servidores públicos obligados, de conformidad con la ley en materia de Responsabilidades de Servidores Públicos y demás disposiciones legales aplicables y asesorar y capacitar a los servidores públicos sobre el cumplimiento de dicha obligación;
 
-XIX. Hacer constar el incumplimiento de la obligación de rendir la declaración de situación patrimonial de inicio y conclusión de encargo derivado del proceso constitucional remitiendo al área de responsabilidades para el fincamiento de las mismas;
+> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 2012)</small>
+
+XIX. Hacer constar el incumplimiento de la obligación de rendir la declaración de situación patrimonial de inicio, anual y de conclusión de encargo, remitiendo al área de responsabilidades para el fincamiento de las mismas;
 
 XX. Implementar nuevos sistemas y dar seguimiento e impulsar a los ya existentes, encaminados a optimizar y agilizar el servicio que se brinda a los servidores públicos respecto a sus declaraciones patrimoniales;
 
@@ -10273,13 +10315,23 @@ XXXII. Elaborar y remitir a su superior jerárquico informe de los resultados, l
 
 XXXIII. Fungir como unidad de enlace ante la Unidad de Acceso a la Información Pública respecto a las solicitudes de información pública que se haga a la Contraloría;
 
-XXXIV. Dar seguimiento a las observaciones y recomendaciones que se formulen como resultado de la práctica de intervenciones e investigaciones que se realicen en dependencias o entidades o de revisiones hasta que estén totalmente solventadas e informar al superior jerárquico, y
+> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 2012)</small>
 
-XXXV. Las demás que le confieran este Reglamento y otras disposiciones legales aplicables.
+XXXIV. Dar seguimiento a las observaciones y recomendaciones que se formulen como resultado de la práctica de intervenciones e investigaciones que se realicen en dependencias o entidades, o de revisiones hasta que estén totalmente solventadas e informar al superior jerárquico;
+
+> <small>(REFORMADA, D.O. 20 DE AGOSTO DE 2012)</small>
+
+XXXV. Participar en la realización de auditorías, revisiones e inspecciones que se practiquen en las dependencias y entidades, conforme a la normatividad establecida, y
+
+> <small>(ADICIONADA, D.O. 20 DE AGOSTO DE 2012)</small>
+
+XXXVI. Las demás que le confiera este Reglamento y otras disposiciones legales aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 543.
 
-Al Jefe de Asuntos Jurídicos y Auditorías del Sector Centralizado le corresponde el despacho de los siguientes asuntos:
+Al Jefe del Departamento de Asuntos Jurídicos de Auditoría en el Sector Centralizado le corresponde el despacho de los siguientes asuntos:
 
 I. Atender con diligencia las consultas jurídicas que reciba de Órganos de Control Interno o de las unidades administrativas de la Subcontraloría del Sector Estatal y Paraestatal;
 
@@ -10309,9 +10361,11 @@ XIII. Emitir opinión al Director de Asuntos Jurídicos, Auditoría y Situación
 
 XIV. Las demás que le confieran este Reglamento y otras disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 544.
 
-Al Jefe de de Asuntos Jurídicos de Auditorías del Sector Paraestatal le corresponde el despacho de los siguientes asuntos:
+Al Jefe del Departamento de Asuntos Jurídicos de Auditoría en el Sector Paraestatal le corresponde el despacho de los siguientes asuntos:
 
 I. Atender con diligencia las consultas jurídicas que reciba de Órganos de Control Interno o de las unidades administrativas de la Subcontraloría del Sector Estatal y Paraestatal;
 
@@ -10337,9 +10391,11 @@ XI. Emitir opinión al Director de Asuntos Jurídicos, Auditoría y Situación P
 
 XII. Las demás que le confieran este Reglamento y otras disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 545.
 
-Al Coordinador de Registro y Control de Situación Patrimonial le corresponde el despacho de los siguientes asuntos:
+Al Jefe del Departamento de Control y Registro de Situación Patrimonial le corresponde el despacho de los siguientes asuntos:
 
 I. Coordinar la captura y registro de las declaraciones patrimoniales que se reciban;
 
@@ -12598,3 +12654,7 @@ D.O. 30 DE DICIEMBRE DE 2011.
 PRIMERO. Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán, con excepción de las disposiciones relativas a la Secretaría de la Cultura y las Artes que entrarán en vigor el primero de enero del año dos mil doce y de la Consejería Jurídica del Poder Ejecutivo, que entrarán en vigor a partir del quince de enero del año dos mil doce.
 
 SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se contrapongan a lo establecido en este Decreto.
+
+D.O. 20 DE AGOSTO DE 2012.
+
+Único. Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
