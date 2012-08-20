@@ -4,7 +4,7 @@ identifier: "BCS-ley-del-organo-de-fiscalizacion-superior-del-estado-de-baja-600
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-10"
-last_updated: "2010-03-12"
+last_updated: "2012-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60094&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCS"
 ---
 # LEY DEL ORGANO DE FISCALIZACION SUPERIOR DEL ESTADO DE BAJA CALIFORNIA SUR
 
-LEY DEL ORGANO DE FISCALIZACION SUPERIOR DEL ESTADO DE BAJA CALIFORNIA SUR
+LEY DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 12 DE MARZO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE AGOSTO DE 2012.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de marzo de 2008.
 
@@ -233,17 +233,17 @@ VIII. Las responsabilidades a que haya lugar, y
 
 IX. La imposición de las sanciones resarcitorias correspondientes en los términos de esta Ley.
 
-> <small>(REFORMADO, B.O. 12 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, B.O. 20 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 13.
 
-La Cuenta Pública anual correspondiente deberá ser presentada al Congreso del Estado de Baja California Sur, dentro de los dos primeros meses, quien las turnará dentro de los cinco días hábiles posteriores a su recepción, al Órgano de Fiscalización Superior para su revisión y fiscalización superior.
+La cuenta Pública anual correspondiente deberá ser presentada al Congreso del Estado de Baja California Sur, dentro de los primeros quince días de iniciado el periodo ordinario de sesiones, quien las turnará dentro de los cinco días hábiles posteriores a su recepción, al Órgano de Fiscalización Superior para su revisión y fiscalización superior.
 
 ###### Artículo 14.
 
 Para la revisión y fiscalización superior de las cuentas públicas, el Órgano de Fiscalización Superior tendrá las atribuciones siguientes:
 
-l. Fijar los criterios para las auditorias, procedimientos, métodos y sistemas necesarios para la revisión y fiscalización de las cuentas públicas y los informes de avance de gestión financiera, verificando que ambos sean presentados en los términos de esta Ley y de conformidad con los principios de contabilidad gubernamental;
+I. Fijar los criterios para las auditorias, procedimientos, métodos y sistemas necesarios para la revisión y fiscalización de las cuentas públicas y los informes de avance de gestión financiera, verificando que ambos sean presentados en los términos de esta Ley y de conformidad con los principios de contabilidad gubernamental;
 
 II. Determinar las normas, procedimientos, métodos y sistemas de verificación de contabilidad y de archivo, de los libros y documentos justificativos y comprobatorios del ingreso y del gasto público, así como todos aquellos elementos que permitan la práctica idónea de las auditorias y revisiones, mismos que deberán darse a conocer o los entes públicos estatales y municipales;
 
@@ -255,7 +255,7 @@ V. Verificar que las entidades fiscalizadas que hubieren recibido, recaudado, ma
 
 VI. Verificar que las operaciones que realicen el Gobierno del Estado, los Gobiernos Municipales y los entes públicos estatales y municipales y demás entidades fiscalizables sean acordes con las Leyes de Ingresos y los Presupuestos de Egresos del Estado y Municipios, y se efectúen con apego a las disposiciones respectivas de la legislación fiscal; las Leyes de Deuda Pública, de Presupuesto, Contabilidad y Gasto Público, de Planeación, Orgánica del Poder Judicial, Orgánica del Congreso, Orgánica de la Administración Pública, todas del Estado de Baja California Sur y demás disposiciones legales y administrativas aplicables a estas materias;
 
-VIl. Enterarse, conocer y resolver sobre los recursos que se interponga en contra de las resoluciones y sanciones aplicadas;
+VII. Enterarse, conocer y resolver sobre los recursos que se interponga en contra de las resoluciones y sanciones aplicadas;
 
 VIII. Verificar obras, bienes adquiridos y servicios contratados, para comprobar si las inversiones y gastos autorizados se han aplicado legal y eficientemente al logro de los objetivos y metas de los programas aprobados;
 
@@ -1043,7 +1043,7 @@ EL C. SECRETARIO GENERAL DE GOBIERNO
 
 NABOR GARCÍA AGUIRRE
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 B.O. 12 MARZO DE 2010.
 
@@ -1054,3 +1054,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Los preceptos aplicables a la presentación de la Cuenta Pública, entrarán en vigor a partir de la Cuenta Pública correspondiente al ejercicio fiscal 2009.
+
+B.O. 20 DE AGOSTO DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
