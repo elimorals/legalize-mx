@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-publicidad-exterior-del-distrito-federal-76110"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-20"
-last_updated: "2012-08-17"
+last_updated: "2012-08-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76110&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2010-08-04"
 
 LEY DE PUBLICIDAD EXTERIOR DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 21 DE AGOSTO DE 2012.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 20 de agosto de 2010.
 
@@ -80,7 +80,9 @@ VI. La contaminación visual es la alteración del paisaje urbano provocada por 
 
 VII. Toda persona tiene derecho a percibir una ciudad libre de estímulos publicitarios, y en general, de todo agente contaminante;
 
-VIII. Toda persona tiene derecho a obtener información mediante las estructuras de publicidad exterior;
+> <small>(REFORMADA, G.O. 21 DE AGOSTO DE 2012)</small>
+
+VIII. Toda persona tiene derecho a obtener información mediante la publicidad exterior;
 
 IX. Las edificaciones hacen posible el desarrollo de las actividades humanas, por lo cual deben brindar seguridad estructural, iluminación y libre ventilación;
 
@@ -106,7 +108,9 @@ IV. Anuncio autosoportado: El sostenido por una o más columnas apoyadas a su ve
 
 V. Anuncio denominativo: El que contiene el nombre, denominación comercial o logotipo con el que se identifica una persona física o moral, o una edificación;
 
-VI. Anuncio de neón: El integrado con gas neón o argón;
+> <small>(REFORMADA, G.O. 21 DE AGOSTO DE 2012)</small>
+
+VI. Anuncio de neón: El integrado con tubería de vidrio cargado con gas neón o argón y activado mediante energía eléctrica;
 
 VII. Anuncio de patrocinio: El que contiene el nombre de la persona física o moral que pague el costo de un bien o servicio destinado a un fin social, o en su caso, el que contiene alguna de las marcas comerciales que identifican a dicha persona;
 
@@ -134,7 +138,9 @@ XVIII. Áreas de Conservación Patrimonial: Las zonas de la ciudad así determin
 
 XIX. Autorización temporal: El documento público en el que consta el acto administrativo por el cual la Secretaría, o en su caso las Delegaciones, permiten a una persona física o moral la instalación de anuncios de propaganda en tapiales, y en su caso, la instalación de información cívica o cultural, de conformidad con lo dispuesto por esta Ley;
 
-XX. Corredor publicitario: La vía primaria determinada de conformidad con lo dispuesto por esta Ley, en la que pueden instalarse anuncios autosoportados unipolares de propaganda comercial en inmuebles de propiedad privada;
+> <small>(REFORMADA, G.O. 21 DE AGOSTO DE 2012)</small>
+
+XX. Corredor publicitario: La vía primaria determinada de conformidad con lo dispuesto por esta Ley, en la que pueden instalarse anuncios autosoportados unipolares y adheridos a muros ciegos de propaganda comercial en inmuebles de propiedad privada;
 
 XXI. Espacio público: Todo bien inmueble del dominio del Distrito Federal;
 
@@ -146,7 +152,9 @@ XXIV. Instituto: Instituto de Verificación Administrativa del Distrito Federal;
 
 XXV. Instrumentos de planeación: Los programas y demás instrumentos destinados por disposición legal a ordenar el desarrollo urbano del Distrito Federal;
 
-XXVI. Licencia: El documento público en el que consta el acto administrativo por el cual la Secretaría, o en su caso las Delegaciones, permiten a una persona física o moral la instalación de anuncios denominativos o autosoportados unipolares en corredores publicitarios, de conformidad con lo dispuesto por esta Ley;
+> <small>(REFORMADA, G.O. 21 DE AGOSTO DE 2012)</small>
+
+XXVI. Licencia: El documento público en el que consta el acto administrativo por el cual la Secretaría, o en su caso las Delegaciones, permiten a una persona física o moral la instalación de anuncios denominativos o autosoportados unipolares o adheridos a muros ciegos en corredores publicitarios, de conformidad con lo dispuesto por esta Ley;
 
 XXVII. Mobiliario urbano: El conjunto de bienes muebles que se instalan en el espacio público con fines comerciales, de prestación de servicios, de ornato o de recreación;
 
@@ -176,9 +184,13 @@ XXXIX. Valla: Cartelera situada en lotes baldíos o estacionamientos públicos, 
 
 XL. Vías primarias: Espacios públicos destinados al tránsito vehicular o peatonal o ambos, determinados para efectos de esta Ley por acuerdo fundado y motivado del titular de la Secretaría, que deberá publicarse en la Gaceta Oficial del Distrito Federal;
 
-XLI. Vías secundarias: Espacios públicos destinados al tránsito vehicular o peatonal o ambos, ubicados en el interior de pueblos, barrios, colonias o zonas habitacionales urbanas y rurales, siempre que no estén consideradas como vías primarias, y
+XLI. Vías secundarias: Espacios públicos destinados al tránsito vehicular o peatonal o ambos, ubicados en el interior de pueblos, barrios, colonias o zonas habitacionales urbanas y rurales, siempre que no estén consideradas como vías primarias, y (sic)
 
 XLII. Suelo de conservación: La clasificación establecida en la fracción II del artículo 30 de la Ley de Desarrollo Urbano del Distrito Federal.
+
+> <small>(ADICIONADA, G.O. 21 DE AGOSTO DE 2012)</small>
+
+XLIII. Muros ciegos: Los muros de colindancia que carezcan de vanos.
 
 ###### Artículo 4.
 
@@ -206,7 +218,9 @@ V. Determinar la distribución de los espacios para anuncios en los nodos public
 
 VI. Otorgar, y en su caso revocar, los Permisos Administrativos Temporales Revocables de espacios para anuncios en los nodos publicitarios;
 
-VII. Otorgar, y en su caso revocar, las licencias para la instalación de anuncios denominativos en inmuebles ubicados en vías primarias, así como para anuncios autosoportados unipolares en corredores publicitarios;
+> <small>(REFORMADA, G.O. 21 DE AGOSTO DE 2012)</small>
+
+VII. Otorgar, y en su caso revocar, las licencias para la instalación de anuncios denominativos en inmuebles ubicados en vías primarias, así como para anuncios autosoportados unipolares o adheridos a muros ciegos en corredores publicitarios;
 
 VIII. Otorgar, y en su caso revocar, las autorizaciones temporales para la instalación de anuncios en tapiales en vías primarias y en nodos publicitarios, así como para la instalación de anuncios de información cívica y cultural;
 
@@ -264,9 +278,13 @@ VII. El titular de la Procuraduría Ambiental y del Ordenamiento Territorial;
 
 VIII. El Jefe Delegacional de la demarcación territorial a la que correspondan los asuntos a tratar; y (sic)
 
-IX. Un Contralor Ciudadano que será designado por la Contraloría General del Distrito Federal;
+> <small>(REFORMADA, G.O. 21 DE AGOSTO DE 2012)</small>
 
-X. Dos representantes de asociaciones u organizaciones o consejos dedicados a la publicidad exterior;
+IX. Dos contralores ciudadanos;
+
+> <small>(REFORMADA, G.O. 21 DE AGOSTO DE 2012)</small>
+
+X. Tres representantes de asociaciones u organizaciones o consejos dedicados a la publicidad exterior, mismos que durarán en este encargo dos años.
 
 XI. Un académico experto en la materia.
 
@@ -536,9 +554,11 @@ II. La calzada San Antonio Abad; la calzada de Tlalpan; la calzada Patriotismo; 
 
 III. Las demás vías primarias que determine el Consejo de Publicidad Exterior mediante acuerdo fundado y motivado que deberá publicarse en la Gaceta Oficial del Distrito Federal.
 
+> <small>(REFORMADO, G.O. 21 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 40.
 
-En los corredores publicitarios podrán instalarse anuncios ubicados en inmuebles de propiedad privada, siempre que sean autosoportados unipolares y cumplan con las demás disposiciones de esta Ley.
+En los corredores publicitarios podrán instalarse anuncios ubicados en inmuebles de propiedad privada, siempre que sean autosoportados unipolares o adheridos a muros ciegos y que cumplan con las demás disposiciones de esta Ley.
 
 ###### Artículo 41.
 
@@ -556,11 +576,17 @@ V. La columna podrá contener hasta dos carteleras, siempre que se encuentren a 
 
 VI. La columna de soporte deberá observar la forma y el material que determine el reglamento;
 
-VII. La distancia mínima entre un anuncio respecto de otro instalados en una misma acera, deberá ser de al menos quinientos metros delimitados por un diámetro de cien metros, distancias que serán computadas y determinadas por la Secretaria;
+> <small>(REFORMADA, G.O. 21 DE AGOSTO DE 2012)</small>
 
-VIII. Los anuncios deberán instalarse en ambas aceras de manera intercalados; y
+VII. La distancia mínima entre un anuncio autosoportado unipolar respecto de otro instalados en una misma acera, deberá ser de al menos doscientos cincuenta metros, delimitados por un diámetro de cien metros, distancias que serán computadas y determinadas por la Secretaría;
+
+VIII. Los anuncios deberán instalarse en ambas aceras de manera intercalados; y (sic)
 
 IX. En ningún caso los anuncios podrán instalarse en un nodo publicitario, ni en elementos del patrimonio cultural urbano, ni en Suelo de Conservación, ni a una distancia menor de doscientos metros medidos en proyección horizontal a partir de los límites de los elementos mencionados en esta fracción.
+
+> <small>(ADICIONADA, G.O. 21 DE AGOSTO DE 2012)</small>
+
+X. Los anuncios adheridos que se instalen en muros ciegos, no deberán rebasar el 65% del muro en el cual se instalen.
 
 ### CAPÍTULO CUARTO. DE LOS ANUNCIOS EN MUEBLES
 
@@ -710,6 +736,10 @@ IX. Las garantías que la Administración Pública del Distrito Federal requerir
 
 X. Las demás que el Consejo de Publicidad Exterior considere pertinentes.
 
+> <small>(ADICIONADO, G.O. 21 DE AGOSTO DE 2012)</small>
+
+No podrán participar en el sorteo aquellas personas físicas o morales que hayan sido sancionadas en tres ocasiones por la comisión de una infracción prevista en esta Ley ni aquellas a las que les haya sido revocada una Licencia o un Permiso Administrativo Temporal Revocable en los nueve meses anteriores a la celebración del sorteo.
+
 ###### Artículo 58.
 
 La Secretaría llevará a cabo el proceso de otorgamiento, regulación, supervisión y vigilancia de los Permisos Administrativos Temporales Revocables.
@@ -846,9 +876,11 @@ Las obras de construcción, modificación o ampliación de la infraestructura ur
 
 ### CAPÍTULO TERCERO. DE LAS LICENCIAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 69.
 
-La licencia de anuncios en corredores publicitarios que expida la Secretaría, permitirá a una persona física o moral la instalación de un anuncio autosoportado y unipolar en la parte del corredor publicitario expresamente determinada por la Secretaría, por un plazo de un año que podrá prorrogarse.
+La licencia de anuncios en corredores publicitarios que expida la Secretaría, permitirá a una persona física o moral la instalación de un anuncio autosoportado y unipolar o de un adherido a muro ciego en la parte del corredor publicitario expresamente determinada por la Secretaría, por un plazo de un año que podrá prorrogarse.
 
 La Secretaría expedirá la licencia, previo pago que el solicitante haga de los derechos correspondientes.
 
@@ -871,6 +903,10 @@ V. Recibo de pago de los derechos correspondientes previstos en el Código Fisca
 VI. Fecha y firma del solicitante;
 
 VII. Una declaración bajo protesta de decir verdad del responsable de la obra, donde señale que no se afectarán árboles con motivo de las obras que se puedan llevar a cabo ni en las instalaciones de los anuncios.
+
+> <small>(ADICIONADO, G.O. 21 DE AGOSTO DE 2012)</small>
+
+No podrán otorgarse licencias a aquellas personas físicas o morales que hayan sido sancionadas en tres ocasiones por la comisión de una infracción prevista en esta Ley ni aquellas a las que les haya sido revocada una Licencia o un Permiso Administrativo Temporal Revocable en los nueve meses anteriores a la presentación de la solicitud.
 
 ###### Artículo 71.
 
@@ -1193,3 +1229,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en la
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+G.O. 21 DE AGOSTO DE 2012.
+
+Primero. Remítase el presente Decreto al Jefe de Gobierno para efectos de su promulgación y debido cumplimiento.
+
+Segundo. El presente Decreto entrara en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Tercero. Para la expedición de la licencia para anuncios adheridos a muros ciegos, los publicistas interesados y los publicistas incorporados en el Programa de Reordenamiento de anuncios, deberán integrarse a las mesas de trabajo que integre la Secretaría, en un plazo de treinta días, a partir de la publicación de estas reformas.
+
+Cuarto. Para la reubicación de los anuncios a que hacen referencia los artículos tercero y cuarto transitorios de la Ley, se deberá respetar la proporcionalidad y equidad con base en las dimensiones de los anuncios registrados en los inventarios del Programa de Reordenamiento hasta el 19 de mayo de 2011.
+
+Quinto. Publíquese en la Gaceta Oficial del Distrito Federal.
