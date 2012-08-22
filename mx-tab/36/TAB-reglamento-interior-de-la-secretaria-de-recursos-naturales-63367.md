@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-secretaria-de-recursos-naturales-6336
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-09-03"
-last_updated: "2012-01-18"
+last_updated: "2012-08-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE RECURSOS NATURALES Y PROTECCIÓN AMBIENTAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2012.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 3 de septiembre de 2008.
 
@@ -435,7 +435,7 @@ X. Verificar la disponibilidad de los recursos y otorgar la suficiencia presupue
 
 XI. Analizar, y en su caso, proponer las modificaciones y afectaciones a proyectos, programas, mecanismos y gastos de la Secretaría;
 
-XII. Coordinar con las diferentes áreas la elaboración de los manuales de procedimientos y de organización;
+XII. (DEROGADA, P.O. 22 DE AGOSTO DE 2012)
 
 XIII. Fijar los criterios para estandarizar la aplicación de tecnologías y sistemas computarizados de la Secretaría, proponiendo la homogenización de las herramientas informáticas;
 
@@ -1398,6 +1398,12 @@ PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Acuerdo.
 
 P.O. 18 DE ENERO DE 2012.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+P.O. 22 DE AGOSTO DE 2012.
 
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
