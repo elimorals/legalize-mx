@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-educacion-del-estado-de-morelos-14617"
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-26"
-last_updated: "2012-08-15"
+last_updated: "2012-08-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el día 26 de agosto de 1996.
 
@@ -553,7 +553,27 @@ III.- Será bivalente el que atienda las dos finalidades señaladas en las dos f
 
 En la impartición de la educación media superior con preparación de conocimientos técnicos especializados y formación para el trabajo, las autoridades educativas locales podrán escuchar las opiniones del sector productivo para la elaboración de planes y programas de estudio que permitan a los educandos adquirir los conocimientos, habilidades y destrezas que faciliten su incorporación al desarrollo económico tanto estatal como nacional.
 
-### CAPITULO II. DE LAS ASOCIACIONES DE PADRES DE FAMILIA
+### CAPITULO II. DE LA ESCUELA DE PADRES Y TUTORES
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
+ARTICULO 89 BIS.- Las instituciones educativas públicas y privadas y las que cuenten con autorización o reconocimiento de validez oficial de estudios que impartan los tipos de educación básica, media y media superior; deberán contar con un programa de escuela de padres y tutores;
+
+I.- La escuela de padres y tutores tiene por objeto, el desarrollo personal de los hijos o pupilos ofreciéndole a los padres o tutores la información y conocimientos básicos sobre diferentes temas con el objetivo de proporcionarles capacitación profesional para ejercer correctamente su función.
+
+II.- La escuela de padres y tutores propiciará entre otros, facilitar recursos educativos y formativos a los padres o tutores, para promover en sus hijos o pupilos valores, actitudes, habilidades personales, hábitos y conductas sociales sanas que les permitan interactuar de mejor manera con su entorno y propiciar en ellos un mejor desarrollo educativo, comunitario y personal.
+
+III.- La duración de la escuela de padres y tutores en ningún caso, podrá ser menor a 10 sesiones por ciclo escolar, y cada sesión no podrá durar menos de 90 minutos efectivos en su desarrollo.
+
+IV.- Los temas a desarrollar en la escuela de padres y tutores deberán ser incluidos en un manual didáctico en el Reglamento que para tal efecto expida el Titular del Ejecutivo del Estado.
+
+Además de que sus contenidos deberán en todo momento respetar los derechos humanos de los individuos, su dignidad, origen étnico, condición social, condiciones de salud, preferencias sexuales, estado civil así como sus ideologías, creencias religiosas, costumbres, y deberán fomentar la tolerancia y el respeto en general a la dignidad humana como valores primordiales.
+
+V.- Los comités de padres de familia en conjunto con los educadores elaboraran al inicio de cada ciclo escolar el cronograma de actividades en el que se incluyan los siguientes aspectos:
+
+a) Temporalidad, y calendario de las sesiones de la escuela de padres y tutores.
+
+b) Temas a desarrollar y tipo de las sesiones.
 
 ###### ARTICULO 52.
 
@@ -661,7 +681,7 @@ VII.- Proporcionar servicios de asesoría e información científica a la comuni
 
 VIII.- Estimular el flujo de recursos financieros para la creación de empresas que propongan nuevos usos de la tecnología.
 
-### CAPITULO III. DE LOS CONSEJOS DE PARTICIPACION SOCIAL
+### CAPITULO III. DE LAS ASOCIACIONES DE PADRES DE FAMILIA
 
 ###### ARTICULO 67.
 
@@ -701,7 +721,7 @@ Se concertarán acciones y programas de educación para adultos que promueva la 
 
 Las escuelas que se establezcan en cumplimiento de la obligación prevista en la fracción XII del apartado "A" del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, quedarán bajo la dirección administrativa de la autoridad educativa estatal correspondiente y contarán con edificio propio, instalaciones y demás elementos necesarios para realizar su función, de conformidad con lo que señalen las disposiciones aplicables; el sostenimiento de estas instituciones educativas, comprende la obligación patronal de proporcionar los recursos económicos para la remuneración del personal y las prestaciones que dispongan las leyes y reglamentos, que no serán inferiores a las que otorguen las Autoridades Educativas Estatales en igualdad de circunstancias.
 
-### CAPITULO IV. DE LA EDUCACION QUE IMPARTAN LOS PARTICULARES
+### CAPITULO IV. DE LOS CONSEJOS DE PARTICIPACION SOCIAL
 
 ###### ARTICULO 74.
 
@@ -745,7 +765,7 @@ Para elevar el nivel social, cultural y educativo de la comunidad e impulsar la 
 
 ## TITULO TERCERO. DE LA PLANEACION Y EVALUACION EDUCATIVA PARA EL DESARROLLO DEL ESTADO
 
-### CAPITULO UNICO. DE LA VALIDEZ OFICIAL DE ESTUDIOS Y DE LA CERTIFICACION DE CONOCIMIENTOS
+### CAPITULO V. DE LA EDUCACION QUE IMPARTAN LOS PARTICULARES
 
 ###### ARTICULO 80.
 
@@ -783,7 +803,7 @@ El Proyecto Educativo del Estado, estará encaminado a elevar la calidad de la e
 
 La Autoridad Educativa en el Estado dará a conocer a los trabajadores de la educación, sus organismos sindicales, alumnos, padres de familia y a la sociedad en general, los resultados y alcances del Proyecto Educativo.
 
-### CAPITULO I. DE LAS INFRACCIONES
+### CAPITULO UNICO. DE LA VALIDEZ OFICIAL DE ESTUDIOS Y DE LA CERTIFICACION DE CONOCIMIENTOS
 
 ###### ARTICULO 85.
 
@@ -809,7 +829,9 @@ El Titular del Poder Ejecutivo promoverá con las autoridades encargadas de los 
 
 ## TITULO CUARTO. DE LA PARTICIPACION SOCIAL EN LA EDUCACION
 
-### CAPITULO II. DE LAS SANCIONES
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADA], P.O. 22 DE AGOSTO DE 2012)</small>
+
+### CAPITULO I. DE LAS INFRACCIONES
 
 ###### ARTICULO 88.
 
@@ -825,9 +847,13 @@ IV.- Formar parte de las asociaciones de padres de familia y de los consejos de 
 
 V.- Colaborar con las autoridades escolares para la superación de los educandos, así como coadyuvar en el mejoramiento de los planteles escolares;
 
-VI.- Notificar por escrito a las autoridades escolares y educativas, las irregularidades que observen en la prestación del servicio educativo, y
+VI.- Notificar por escrito a las autoridades escolares y educativas, las irregularidades que observen en la prestación del servicio educativo, y (sic)
 
 VII.- Opinar en relación con las contraprestaciones que las escuelas particulares fijen.
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2012)</small>
+
+VIII.- Quienes ejerzan la patria potestad o tutela, tienen derecho de asistir al Programa de Escuela de padres y tutores de las instituciones educativas en que estén inscritos sus hijos o pupilos.
 
 ###### ARTICULO 89.
 
@@ -839,9 +865,17 @@ I.- Hacer que sus hijos o pupilos, menores de edad, reciban la educación preesc
 
 II.- Apoyar el proceso educativo de sus hijos o pupilos;
 
-III.- Colaborar con las instituciones educativas en las que estén inscritos sus hijos o pupilos, en las actividades cívicas y sociales que las mismas realicen, y
+III.- Colaborar con las instituciones educativas en las que estén inscritos sus hijos o pupilos, en las actividades cívicas y sociales que las mismas realicen, y (sic)
 
 IV.- Coadyuvar en la medida de sus posibilidades con las autoridades educativas en la construcción, mantenimiento y mejoramiento de los planteles educativos.
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2012)</small>
+
+V.- Acudir al menos al 70 por ciento de las sesiones del Programa Escuela de padres y tutores de las instituciones educativas en que estén inscritos sus hijos o pupilos.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE AGOSTO DE 2012)</small>
+
+### CAPITULO II. DE LAS SANCIONES
 
 ### CAPITULO III. DEL RECURSO ADMINISTRATIVO
 
@@ -1268,3 +1302,13 @@ P.O. 15 DE AGOSTO DE 2012.
 PRIMERO.- Aprobado que sea el presente decreto, túrnese al Poder Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 22 DE AGOSTO DE 2012.
+
+PRIMERO.- Aprobado que sea el presente Decreto, túrnese al Poder Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO.- El Reglamento a que se refiere la fracción IV del artículo 89 Bis de la presente Ley, deberá ser expedido por el Titular del Ejecutivo del Estado en un término no mayor a 90 días a partir de la publicación del presente Decreto en el Periódico Oficial Tierra y Libertad.
+
+CUARTO.- Para los efectos del presente Decreto, las modificaciones propuestas, serán aplicables a partir del ciclo escolar 2012-2013.
