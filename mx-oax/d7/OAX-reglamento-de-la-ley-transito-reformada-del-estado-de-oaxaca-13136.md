@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-de-la-ley-transito-reformada-del-estado-de-oaxaca-13
 country: "mx"
 rank: "reglamento"
 publication_date: "1973-03-31"
-last_updated: "1998-06-13"
+last_updated: "2012-08-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13136&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 REGLAMENTO DE LA LEY DE TRÁNSITO REFORMADA DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 1998.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2012.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el sábado 31 de marzo de 1973.
 
@@ -65,7 +65,9 @@ V.- Como responsables de niños menores de siete años, acompañarlos o hacerlos
 
 Para que los automóviles en general puedan circular libremente en el Estado de Oaxaca, es obligatorio satisfacer los siguientes requisitos:
 
-I.- Que el vehículo esté registrado en la Dirección General de Tránsito o en cualquiera de sus Delegaciones.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2012)</small>
+
+I.- Que el vehículo este registrado en la Secretaría de Vialidad y Transporte.
 
 II.- Que el vehículo esté provisto de:
 
@@ -111,11 +113,17 @@ Para la circulación de los vehículos destinados al servicio público de pasaje
 
 I.- Que en lugar visible para el pasaje, con excepción del parabrisas y vidrios posteriores, se mantenga permanentemente la tarifa que haya sido autorizada.
 
-II.- Que los vehículos ostenten la pintura del color o colores distintivos que señale la Dirección General de Tránsito del Estado.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2012)</small>
 
-III.- Que los vehículos lleven impreso en el exterior, en forma fácilmente visible el número económico que se les haya asignado por la Dirección General de Tránsito del Estado.
+II.- Que los vehículos ostenten la pintura del color o colores distintivos que señale la Secretaría de Vialidad y Transporte;
 
-IV.- Que los vehículos lleven impreso al exterior, según las características que señale la Dirección General de Tránsito del Estado, el nombre de la empresa, sociedad u organismo en razón de los cuales operen.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2012)</small>
+
+III.- Que los vehículos lleven impreso en el exterior, en forma visible el número económico asignado por la Secretaría de Vialidad y Transporte;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2012)</small>
+
+IV.- Que los vehículos lleven impreso al exterior, según las características que señale la Secretaría de Vialidad y Transporte, el nombre de la empresa, sociedad u organismo en razón de los cuales operen;
 
 V.- Que los vehículos se conserven en permanente estado de limpieza, higiene, comodidad y seguridad.
 
@@ -193,7 +201,9 @@ I.- Que los vehículos lleven impresas al exterior indicaciones sobre la clase d
 
 Para que las motocicletas puedan circular libremente en el Estado de Oaxaca, es obligatorio satisfacer los siguientes requisitos:
 
-I.- Que la motocicleta esté registrada en la Dirección General de Tránsito del Estado o en cualquiera de sus Delegaciones.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2012)</small>
+
+I.- Que la motocicleta esté registrada en la Secretaría de Vialidad y Transporte;
 
 II.- Que la motocicleta esté provista de:
 
@@ -231,7 +241,9 @@ II.- Freno conexo al sistema de frenos del vehículo conductor.
 
 Para que las bicicletas puedan circular libremente en el Estado de Oaxaca, es obligatorio satisfacer los siguientes requisitos:
 
-I.- Que la bicicleta esté registrada en la Dirección General de Tránsito o en cualquiera de sus Delegaciones.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2012)</small>
+
+I.- Que la bicicleta esté registrada en la Secretaría de Vialidad y Transporte;
 
 II.- Que la bicicleta esté provista de:
 
@@ -291,9 +303,11 @@ El traslado de ganado en las ciudades deberá hacerse en vehículos apropiados p
 
 ### CAPITULO XIII. DEL REGISTRO DE VEHICULOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 14.
 
-Para el registro de un vehículo en la Dirección General de Tránsito del Estado o Delegación que corresponda, se deberán satisfacer los siguientes requisitos:
+Para el registro de un vehículo en la Secretaría de Vialidad y Transporte, se deberán satisfacer los siguientes requisitos:
 
 I.- Presentar la solicitud de registro, utilizando las formas que proporcionará la Oficina Recaudadora mediante el pago correspondiente.
 
@@ -307,7 +321,9 @@ La expedición de placas implica la de la tarjeta de circulación y calcomanía 
 
 Es obligación, para el propietario del vehículo registrado, comunicar a las autoridades de tránsito en un plazo de diez días, cualquier cambio de domicilio.
 
-En todo cambio del motor de un vehículo, el propietario estará obligado a dar aviso a la Dirección General de Tránsito del Estado o a sus De legaciones. La misma obligación tendrá, cuando se le haya autorizado, por las Autoridades correspondientes, el cambio del número de motor.
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
+En caso de cambio del motor de un vehículo, el propietario estará obligado a dar aviso a la Secretaría de Vialidad y Transporte. La misma obligación tendrá, cuando se le haya autorizado, por las Autoridades correspondientes, el cambio del número de motor.
 
 ###### ARTICULO 15.
 
@@ -315,9 +331,11 @@ Los propietarios de vehículos ya inscritos en otras Entidades Federativas, que 
 
 ### CAPITULO XIV. DE LAS PLACAS PARA LA CIRCULACION DE VEHICULOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 16.
 
-La Dirección General de Tránsito o sus Delegaciones expedirán, según la clase de vehículos y del servicio a que estén des tinados, placas para:
+La Secretaría de Vialidad y Transporte expedirá, según la clase de vehículos y del servicio a que estén destinados, placas para:
 
 I.- Vehículos de servicio particular.
 
@@ -357,13 +375,17 @@ Las placas para demostración se limitarán al número del los vehículos que pa
 
 Las placas para bicicletas, motocicletas, carros de tracción humana, carros de tracción animal y remolques, se expedirán sin limitación alguna.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 22.
 
-Los automóviles, camiones o camionetas, autobuses y automotores similares, deben contar con placa duplicada, y éstas se colocarán tanto en el frente como en la parte posterior del vehículo, en el lugar visible que señale la Dirección General de Tránsito.
+Los automóviles, camiones o camionetas, autobuses y automotores similares, deben contar con placa duplicada y éstas se colocarán, tanto en el frente, como en la parte posterior del vehículo, en el lugar visible que señale la Secretaría de Vialidad y Transporte.
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 23.
 
-Las bicicletas, las motocicletas los carros de tracción humana o de tracción animal, así como los remolques, cuya circulación se autoriza con una sola placa, la llevarán en el lugar visible que señale la propia Dirección.
+Las bicicletas, las motocicletas, los carros de tracción humana o de tracción animal, así como, los remolques, llevarán una sola placa en el lugar visible que señale la propia Secretaría.
 
 ###### ARTICULO 24.
 
@@ -377,9 +399,11 @@ Se prohibe colocar cualquier cosa sobre las placas o en lugares que impidan la v
 
 En caso de pérdida de placas o de inutilización de las mismas, se dará inmediato aviso a las autoridades de tránsito que corresponda, para su reposición, previa la comprobación de esas circunstancias.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 27.
 
-Las placas deberán canjearse en la fecha que determine la Dirección General de Tránsito del Estado.
+Las placas deberán canjearse en la fecha que determine la Secretaría de Vialidad y Transporte.
 
 El canje deberá sujetarse a los siguientes requisitos:
 
@@ -423,7 +447,9 @@ III.- Licencia para motocicistas (sic) que autoriza exclusivamente el manejo de 
 
 Las personas que deseen obtener licencia de automovilista, deben de satisfacer los siguientes requisitos:
 
-I.- Presentar solicitud ante la Dirección General de Tránsito o sus Delegaciones, mediante los modelos que proporcionarán las oficinas recaudadoras previo el pago de derechos.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2012)</small>
+
+I.- Presentar solicitud ante la Secretaría de Vialidad Transporte, previo el pago de derechos;
 
 II.- Comprobar, conforme al Derecho Civil, haber cumplido 16 años de edad.
 
@@ -477,9 +503,11 @@ Es obligatorio el resello anual de licencias, para cuyo efecto se presentarán �
 
 Las licencias tendrán vigencia por el término de cinco años, debiendo ser canjeadas al cumplirse el mismo, previo el pago de los derechos correspondientes.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 42.
 
-Para que proceda el resello y canje de las licencias, los interesados deberán de presentar certificado médico de que continúan en aptitud física y mental para el manejo de vehículos.
+Para el canje de las licencias de conducir, los interesados deberán cumplir con los requisitos que señale la Secretaría de Vialidad y Transporte.
 
 ### CAPITULO XVI. DE LAS SEÑALES PARA REGULAR EL TRANSITO
 
@@ -533,17 +561,21 @@ III.- PREVENTIVA: Para el frente donde se proyecta la luz ámbar combinada con e
 
 IV.- En los casos en que por necesidades de la circulación debe permitirse alguna otra maniobra en los lugares controlados por semáforos, ésta se indicará por medio de una flecha de color verde sobre de uno de sus reflectores y en el sentido de dirección necesaria.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 49.
 
-La Dirección de Tránsito hará fijar en las esquinas de las calles o lugares necesarios, a la altura de las placas de nomenclatura de la ciudad, y sobre los muros de las casas, flechas que indiquen el sentido de la dirección en que se permita circular a los vehículos.
+La Secretaría de Vialidad y Transporte hará fijar en las esquinas de las calles o lugares necesarios, a la altura de las placas de nomenclatura de las ciudades del Estado y sobre los muros de las casas, flechas que indiquen el sentido de la dirección en que se permita circular a los vehículos.
 
 Las flechas a que se refiere este artículo serán de color blanco sobre fondo negro.
 
 Cuando se trate de vías públicas con preferencia de circulación de vehículos sobre otras vías, las flechas indicadoras de dirección serán de color rojo sobre fondo blanco.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 50.
 
-La Dirección General de Tránsito hará fijar en los lugares necesarios, señales de material, forma y color usuales o reglamentarios, para indicar, con carácter obligatorio las condiciones en que deba realizarse la circulación de las personas, el manejo y el Tránsito de vehículos y semovientes y los servicios públicos de transporte de pasajeros y de carga.
+La Secretaría de Vialidad y Transporte hará fijar en los lugares necesarios, señales de material, forma y color usuales o reglamentarios, para indicar con carácter obligatorio las condiciones en que deba realizarse la circulación de las personas, el manejo y el tránsito de vehículos y semovientes, y los servicios públicos de transporte de pasajeros y de carga.
 
 ###### ARTICULO 51.
 
@@ -615,9 +647,11 @@ Todo conductor está obligado a disminuir la velocidad a 10 (diez) kilómetros p
 
 Para estacionar un vehículo, se deberá acercarlo a no menos de 30 centímetros de la banqueta, del lado izquierdo, haciendo las señales de alto. Cuando se trate de calles con doble sentido de circulación, el estacionamiento se efectuará del lado derecho del conductor.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 68.
 
-Ningún vehículo podrá estacionarse en los lugares que la Dirección General de Tránsito señale como prohibidos para ese efecto.
+Ningún vehículo podrá estacionarse en los lugares que la Secretaría de Vialidad y Transporte señale como prohibidos.
 
 ###### ARTICULO 69.
 
@@ -663,9 +697,11 @@ Los conductores de toda clase de vehículos, al obscurecer, deberán de encender
 
 Queda prohibido para toda clase de vehículos, salvo en el momento de rebasarse o en formaciones previamente autorizadas, circular en doble fila en las vías públicas.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 80.
 
-En las motocicletas y bicicletas únicamente podrán viajar las personas que ocupen asientos especialmente acondicionados para el objeto, a juicio de la Dirección General de Tránsito.
+En las motocicletas y bicicletas únicamente podrán viajar las personas que ocupen asientos especialmente acondicionados para tal objeto, a juicio de la Secretaría de Vialidad y Transporte.
 
 ###### ARTICULO 81.
 
@@ -715,7 +751,9 @@ III.- Ningún autobús deberá ponerse en movimiento sin haberse cerrado previam
 
 IV.- Los pasajeros serán admitidos únicamente en el interior de los vehículos, sin permitirse que alguna persona viaje en los estribos o en el exterior.
 
-V.- Las paradas se harán solamente en los lugares autorizados por la Dirección General de Tránsito, salvo el caso de fuerza mayor.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2012)</small>
+
+V.- Las paradas se harán solamente en los lugares autorizados por la Secretaría de Vialidad y Transporte, salvo casos de fuerza mayor.
 
 VI.- El tiempo de parada se limitará al necesario para el ascenso y descenso de pasajeros, salvo el caso de fuerza mayor.
 
@@ -751,9 +789,11 @@ Al lado de un vehículo estacionado en el camino, no podrá estacionarse otro qu
 
 ### CAPITULO XVIII. CONCESIONES Y PERMISOS PARA EL ESTABLECIMIENTO Y EXPLOTACION DE SERVICIOS PUBLICOS DE TRANSPORTE DE PASAJEROS O DE CARGA
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 93.
 
-Las personas físicas o morales que deseen obtener concesión para el establecimiento y explotación de servicios públicos de transporte de pasajeros o de carga, presentarán solicitud escrita y por quintuplicado ante el Ejecutivo del Estado. La solicitud se presentará por conducto de la Dirección General de Tránsito o de sus Delegaciones.
+Las personas físicas o morales que deseen obtener concesión para el establecimiento y explotación de servicios públicos de transporte de pasajeros o de carga, presentarán por duplicado solicitud escrita ante el Ejecutivo del Estado, por conducto de la Secretaría de Vialidad y Transporte en los plazos y términos establecidos para tal efecto.
 
 ###### ARTICULO 94.
 
@@ -795,9 +835,17 @@ En los lugares donde se implante o funcione el servicio, se dará preferencia, e
 
 Para que surta efecto la concesión, el concesionario otorgará en el plazo que el Ejecutivo señale, las garantías que se le fijen conforme a lo dispuesto en la Fracción VII del artículo 24 de la Ley de Tránsito Reformada en vigor; así como comprobar que se ha celebrado el contrato de seguro del viajero.
 
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
+ARTICULO 95 BIS.- El tiempo por el que se otorgue una concesión podrá ser prorrogado por la Secretaría de Vialidad y Transporte, mediante la renovación de la concesión por un término máximo de cinco años, cumpliendo con los requisitos establecidos para tal efecto. La Secretaría de Vialidad y Transporte, podrá autorizar las cesiones de derechos y las trasferencias de derechos por fallecimiento de los titulares de las concesiones otorgadas por el Gobernador del Estado, previo cumplimiento de las disposiciones legales, reglamentarias y del título de concesión, expidiendo los documentos oficiales necesarios para acreditar el acto.
+
+Los procedimientos enunciados en los párrafos anteriores, los llevará a cabo el Secretario de Vialidad y Transporte, previo acuerdo delegatorio del Titular del Ejecutivo.
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 96.
 
-Es obligación de los concesionarios, comprobar ante la Dirección General de Tránsito o sus Delegaciones, quince días antes de que fenezca el contrato de seguro del viajero, que éste ha sido renovado.
+Es obligación de los concesionarios, comprobar ante la Secretaría de Vialidad y Transporte, quince días antes de que fenezca el contrato de seguro del viajero, que éste ha sido renovado.
 
 ###### ARTICULO 97.
 
@@ -807,13 +855,17 @@ Es obligación para el concesionario que desee ampliar la ruta o modificarla, cu
 
 El concesionario que desee modificar el servicio en cuanto a horario, tarifas o números de vehículos señalados en la concesión, deberá de obtener autorización del Ejecutivo del Estado.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 99.
 
-Es obligación del concesionario, comunicar por escrito a la Dirección General de Tránsito, toda interrupción parcial o total del servicio, para su investigación y efectos de la Ley de Tránsito Reformada y de este Reglamento.
+Es obligación del concesionario, comunicar por escrito a la Secretaría de Vialidad y Transporte, la interrupción parcial o total del servicio, para los efectos correspondientes.
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 100.
 
-Los concesionarios de servicios públicos de autotransportes de pasajeros o de carga, tienen obligación de proporcionar a la Dirección General de Tránsito o a sus Delegaciones una relación de los choferes que tengan a su servicio y los domicilios de éstos. Asímismo, manifestarán dentro de las 24 horas siguientes a la que ocurran, las altas y bajas de ese personal o su cambio de domicilio.
+Los concesionarios de servicios públicos de autotransportes de pasajeros o de carga, tienen obligación de proporcionar a la Secretaría de Vialidad y Transporte una relación de los choferes que tengan a su servicio y los domicilios de éstos. Asimismo, manifestarán dentro de las 24 horas siguientes a la que ocurran, las altas y bajas de ese personal o su cambio de domicilio.
 
 ###### ARTICULO 101.
 
@@ -823,9 +875,11 @@ Para que las concesiones surtan efecto, se publicarán por una sola vez en el Pe
 
 El derecho a la tramitación de una solicitud de concesión se perderá por el simple hecho de que el solicitante abandone el procedimiento durante el plazo de sesenta días, sin que pueda volver a intentarlo sino hasta el término de un año.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 103.
 
-La Dirección General de Tránsito comunicará al Ejecutivo del Estado todos aquellos casos en que haya operado la caducidad o sea procedente la revocación, aportándole las pruebas conducentes. La misma obligación tienen las Delegaciones de Tránsito para con la Dirección General. La resolución del Ejecutivo se notificará al concesionario para sus efectos legales.
+La Secretaría de Vialidad y Transporte comunicará al Ejecutivo del Estado todos los casos en que haya operado la caducidad o sea procedente la revocación y deberá, en su caso, instruir los procedimientos para declarar la revocación de las concesiones o la caducidad, dejando el asunto en estado de resolución al Titular del Ejecutivo del Estado.
 
 ###### ARTICULO 104.
 
@@ -849,13 +903,17 @@ Al finalizar la intervención, la rendición de un informe del manejo de la empr
 
 ### CAPITULO XIX. DE LOS SITIOS
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 106.
 
-Para los efectos de este Reglamento, se entiende por sitio el lugar de la vía pública o el predio particular en donde, con autorización del Ejecutivo del Estado y previo el pago de los derechos correspondientes, se estacionan automóviles destinados al servicio público de pasajeros, no sujetos a itinerarios previamente establecidos y adonde el público puede acudir para la contratación de los servicios respectivos.
+Para los efectos de este Reglamento, se entiende por sitio el lugar de la vía pública o el predio particular en donde, con autorización del Secretario de Vialidad y Transporte y previo el pago de los derechos correspondientes, se estacionan automóviles destinados al servicio público de pasajeros, no sujetos a itinerarios previamente establecidos y donde el público pueda acudir para la contratación de los servicios.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 107.
 
-Las personas que deseen obtener autorización para establecer un sitio, deberán de presentar solicitud por quintuplicado ante la Dirección General de Tránsito del Estado, o por conducto de sus Delegaciones, en la que expresarán:
+Para la autorización del establecimiento de un sitio, se deberá presentar solicitud ante la Secretaría de Vialidad y Transporte, en la que se expresará:
 
 I.- Nombre y domicilio del solicitante.
 
@@ -873,21 +931,31 @@ I.- La documentación que justifique el consentimiento del propietario del predi
 
 II. - La documentación que justifique que el solicitante es concesionario de servicios públicos de autotransporte de pasajeros o de carga.
 
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2012)</small>
+
+III.- La anuencia de la autoridad municipal para el establecimiento del sitio.
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 109.
 
-Previo el estudio correspondiente del caso, el Ejecutivo del Estado resolverá sobre la procedencia o improcedencia del establecimiento del sitio.
+Previo el estudio correspondiente, el Secretario de Vialidad y Transporte resolverá sobre la procedencia o improcedencia del establecimiento del sitio.
 
 ###### ARTICULO 110.
 
 Ningún sitio podrá ocupar la zona de seis metros contigua a las esquinas de las calles.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 111.
 
-Los derechos que concede la autorización para el establecimiento de un sitio estarán sujetos, en todo tiempo, a las modificaciones, supresión o cambio del sitio, que previo estudio de las necesidades del Tránsito, acuerde el Ejecutivo del Estado.
+Los derechos que concede la autorización para el establecimiento de un sitio estarán sujetos, en todo tiempo, a las modificaciones, supresión o cambio del sitio, que previo estudio de las necesidades de vialidad, acuerde el Secretario de Vialidad y Transporte.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 112.
 
-Las personas a quienes se haya expedido permiso para establecer un sitio, tendrán las siguientes obligaciones:
+Las personas a quienes se haya autorizado el establecimiento de un sitio, tendrán las siguientes obligaciones:
 
 I.- Prestar servicio regular y continuo en el sitio.
 
@@ -895,9 +963,13 @@ II.- Fijar en lugar visible del sitio, sin obstáculo para el libre Tránsito de
 
 III.- No efectuar en el sitio reparaciones o lavado de vehículos.
 
-IV.- Presentar solicitud de renovación de permiso de sitio, con treinta días de anticipación al vencimiento del término para el que fue concedido.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2012)</small>
 
-V.- Dar aviso a la Dirección General de Tránsito o a sus Delegaciones cuando sea imposible el mantenimiento del sitio o decida no consible (sic) el mantenimiento del sitio o decidan no continuar haciendo uso del mismo, a efecto de que se cancele el permiso.
+IV.- Presentar solicitud de renovación de autorización de sitio, con treinta días de anticipación al vencimiento del plazo para el que fue concedido.
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2012)</small>
+
+V.- Dar aviso a la Secretaría de Vialidad y Transporte cuando sea imposible el mantenimiento del sitio o decidan no continuar haciendo uso del mismo, a efecto de que se cancele el permiso.
 
 ### CAPITULO XX. DEL TRANSPORTE COLECTIVO
 
@@ -905,7 +977,9 @@ V.- Dar aviso a la Dirección General de Tránsito o a sus Delegaciones cuando s
 
 Los automóviles de alquiler, no autobuses, solamente podrán realizar el servicio público de pasajeros con pago individual del transporte, comúnmente conocido como transporte colectivo, mediante autorización del Ejecutivo del Estado.
 
-Las solicitudes para obtener esa autorización, se presentarán ante la Dirección General de Tránsito o sus Delegaciones.
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
+Las solicitudes para obtener la autorización prevista en el párrafo anterior, se presentarán ante la Secretaría de Vialidad y Transporte.
 
 Las autorizaciones se concederán atendiendo a la necesidad que exista de esa forma de transporte de pasajeros.
 
@@ -915,7 +989,9 @@ Las tarifas serán únicas e iguales para todos los pasajeros, cualquiera que se
 
 El precio del pasajero por persona siempre será inferior al que se cobre en las transportaciones normales en las que una o varias personas ocupan todo el vehículo.
 
-Cuando el servicio de transporte colectivo se realice por ruta, ésta será determinada por la Dirección General de Tránsito. En lo demás se sujetará a las prevenciones de este artículo.
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
+Cuando el servicio de transporte colectivo se realice por ruta, ésta será determinada por la Secretaría de Vialidad y Transporte. En lo demás se sujetará a las prevenciones de este artículo.
 
 ### CAPITULO XXI. DEL ARRENDAMIENTO DE AUTOMOVILES
 
@@ -925,7 +1001,9 @@ Quienes se dediquen a alquilar automóviles sin chofer, deberán de contar con a
 
 Las placas de esos vehículos serán expedidas por las autoridades del Estado.
 
-El número de vehículos que se autorice y las tarifas, se determinarán por la Dirección General de Tránsito del Estado.
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
+El número de vehículos que se autorice y las tarifas, se determinarán por la Secretaría de Vialidad y Transporte.
 
 ### CAPITULO XXII. DE LAS ESTACIONES TERMINALES
 
@@ -937,9 +1015,11 @@ Se considera que son estaciones terminales, los lugares en donde las personas f�
 
 Las terminales podrán establecerse en locales adecuados para permitir el estacionamiento y las maniobras de los vehículos destinados al servicio de que se trate, debiendo contar con las oficinas necesarias que requiera el servicio, y, además, con gabinetes sanitarios para el personal de la empresa y los usuarios.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 117.
 
-Solamente podrán establecerse terminales en los lugares que señale el Ejecutivo del Estado, previo estudio de la Dirección General de Tránsito, atendiendo a la seguridad y desarrollo del servicio.
+Solamente podrán establecerse terminales en los lugares que previo estudio señale la Secretaría de Vialidad y Transporte, atendiendo a la seguridad y desarrollo del servicio.
 
 ###### ARTICULO 118.
 
@@ -955,17 +1035,23 @@ En las terminales, es obligatorio contar con sala de espera adecuada a la magnit
 
 ### CAPITULO XXIII. DE LA PLANIFICACION Y ORDENACION DEL TRANSITO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 121.
 
-Para hacer expeditos la circulación de las personas, el manejo y el tránsito de vehículos y semovientes y los servicios públicos de transporte de pasajeros y de carga en las vías públicas del Estado, la Dirección General de Tránsito definirá y creará zonas de intenso tránsito, de circulación restringida, de velocidades distintas a las reglamentarias, de estacionamientos y de circulación prohibida.
+Para hacer expeditos la circulación de las personas, el manejo y el tránsito de vehículos, semovientes y los servicios públicos de transporte de pasajeros y de carga en las vías públicas del Estado, la Secretaría de Vialidad y Transporte definirá e identificará zonas de intenso tránsito vehicular, de circulación restringida, de velocidades distintas a las reglamentarias, de estacionamientos y de circulación prohibida.
 
 La misma Dirección General de Tránsito determinará los horarios para las operaciones de carga y descarga; así como los lugares en que esas operaciones se permitan, se restrinjan o se prohiban.
 
 En la misma forma determinará las modificaciones al sentido de circulación y de vuelta a la izquierda o a la derecha de los vehículos, cuando estas disposiciones sean necesarias.
 
-Para el ejercicio de esas facultades, la Dirección General de Tránsito tomará en cuenta las necesidades de las zonas comerciales, las de oficinas, las de centros de reunión y de espectáculos, las de mercados, las industriales, las residenciales y todas aquellas que por su naturaleza determinen las medidas a que se refiere este artículo.
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
 
-En todos los casos mencionados, la Dirección General de Tránsito colocará en los lugares apropiados las señales correspondientes, a efecto de que sean de fácil conocimiento de todo el público. Además, hará saber esas disposiciones por los medios de publicidad que se consideren más efectivos.
+Para el ejercicio de las facultades que señala este artículo, la Secretaría de Vialidad y Transporte tomará en cuenta las necesidades de las zonas comerciales, las oficinas, de los centros de reunión y de espectáculos, las de los mercados, las industriales, las residenciales y todas aquellas que por su naturaleza determinen las medidas a que se refiere este artículo.
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
+La Secretaría de Vialidad y Transporte colocará en los lugares apropiados las señales correspondientes, a efecto de que sean de fácil conocimiento al público. Además, hará saber esas disposiciones por los medios de publicidad que se consideren más efectivos.
 
 ###### ARTICULO 122.
 
@@ -973,9 +1059,11 @@ Las señales que se establezcan conforme a lo ordenado en este Artículo, tendr�
 
 ### CAPITULO XXIV. DE LA VELOCIDAD
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 123.
 
-La velocidad reglamentaria en las poblaciones del Estado de Oaxaca es de treinta kilómetros por hora como máximo. La Dirección General de Tránsito podrá modificar esta velocidad en los casos que lo estime necesario, de conformidad con el señalamiento que haga en los tramos de vías públicas en que se autoricen velocidades distintas de las reglamentarias.
+La velocidad reglamentaria en las poblaciones del Estado de Oaxaca es de treinta kilómetros por hora como máximo La Secretaría de Vialidad y Transporte podrá modificar esta velocidad en los casos que le estime necesario, de conformidad con el señalamiento que haga en los tramos de vías públicas en que se autoricen velocidades distintas de las reglamentarias.
 
 ### CAPITULO XXV. DISPOSICIONES ESPECIALES SOBRE ESTACIONAMIENTO DE VEHICULOS
 
@@ -1544,3 +1632,9 @@ ARTICULO UNICO, Este decreto entrará en vigor a partir de su publicación en el
 P.O. 13 DE JUNIO DE 1998.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE AGOSTO DE 2012.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los trámites por renovación de concesiones, cesiones de derechos y transferencia por fallecimiento, que se encuentren pendientes de conclusión a la entrada en vigor del presente Decreto, serán atendidos por la Secretaría de Vialidad y Transporte, expidiendo al efecto la documentación correspondiente en términos del artículo 95 BIS de este ordenamiento.
