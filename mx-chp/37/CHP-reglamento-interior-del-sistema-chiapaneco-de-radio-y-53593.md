@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-del-sistema-chiapaneco-de-radio-y-53593"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-12-06"
-last_updated: "2006-12-06"
+last_updated: "2012-08-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # REGLAMENTO INTERIOR DEL SISTEMA CHIAPANECO DE RADIO Y TELEVISION
 
-REGLAMENTO INTERIOR DEL SISTEMA CHIAPANECO DE RADIO Y TELEVISION
+REGLAMENTO INTERIOR DEL SISTEMA CHIAPANECO DE RADIO Y TELEVISIÓN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL SISTEMA CHIAPANECO DE RADIO, TELEVISIÓN Y CINEMATOGRAFÍA, PUBLICADO EN EL P.O. DE 22 DE AGOSTO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 6 de diciembre de 2006.
 
@@ -510,3 +512,19 @@ El Ejecutivo del Estado dispondrá se publique, circule y se le dé el debido cu
 Dado en Palacio de Gobierno, Residencia Oficial del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los 16 días del mes de noviembre del año 2006.
 
 Pablo Salazar Mendiguchía, Gobernador del Estado.- Roger Grajales González, Secretario de Gobierno. Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE AGOSTO DE 2012.
+
+Artículo Primero.- El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se abroga el Reglamento Interior del Sistema publicado en el Periódico Oficial No. 399-2ª. Sección, Publicación No. 3035-A-2006, de fecha 06 de diciembre de 2006; así también se derogan todas las disposiciones que tengan similar o menor jerarquía que este Reglamento y se opongan al mismo.
+
+Artículo Tercero.- La Secretaría deberá establecer, controlar y evaluar el Programa Interno de Protección Civil para el personal, instalaciones, bienes e información, observando las normas necesarias para la operación, desarrollo y vigilancia del Programa que establezca la Unidad Estatal de Protección Civil.
+
+Artículo Cuarto.- Para las cuestiones no previstas en el presente Reglamento, y en los que se presente controversia en cuanto a su aplicación, observancia e interpretación, el Director General resolverá lo conducente previa aprobación de la Junta de Gobierno.
+
+Artículo Quinto.- Para las cuestiones no previstas en este Reglamento, respecto a las Áreas y demás funciones del personal, se estará a lo dispuesto por el Manual de Organización del Sistema.
+
+Artículo Sexto.- En cumplimiento a lo dispuesto por el Artículo 8, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Reglamento en el Periódico Oficial.
