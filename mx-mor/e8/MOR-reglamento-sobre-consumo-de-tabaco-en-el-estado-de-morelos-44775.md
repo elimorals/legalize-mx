@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-sobre-consumo-de-tabaco-en-el-estado-de-morelos-4477
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-05-04"
-last_updated: "2005-05-04"
+last_updated: "2012-08-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO SOBRE CONSUMO DE TABACO EN EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN FRENTE AL HUMO DEL TABACO DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 22 DE AGOSTO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 4 de mayo de 2005.
 
@@ -310,3 +312,15 @@ EL SECRETARIO DE SALUD
 DR. ANTONIO CAMPOS RENDÓN
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE AGOSTO DE 2012.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano oficial de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO. Se abroga el Reglamento sobre Consumo de Tabaco en el Estado de Morelos, publicado en el Periódico Oficial "Tierra y Libertad" número 4390 del 04 de mayo de 2005.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor rango que se opongan a lo previsto en el presente Reglamento.
+
+CUARTO. En tanto SSM realiza los procedimientos necesarios para poner en operación la línea telefónica a que se refiere el artículo 43 de la Ley, pone a disposición la línea 01 800 232 ADIC (2342).
