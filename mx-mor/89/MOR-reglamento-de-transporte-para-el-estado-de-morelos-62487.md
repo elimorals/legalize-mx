@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-transporte-para-el-estado-de-morelos-62487"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-13"
-last_updated: "2012-03-28"
+last_updated: "2012-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62487&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO DE TRANSPORTE PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2008.
 
@@ -1721,7 +1721,19 @@ d) Volteo, 25 años.
 
 IV. Del Transporte Público de Grúas, 20 años.
 
-En los casos en que los vehículos, por alguna circunstancia no imputable a los concesionarios o permisionarios, no cumplan con la antigüedad establecida, ya sea por razones de índole económica extraordinaria comprobable, o con motivo de un robo o siniestros, el Director General de Transportes podrá suscribir convenios para la sustitución de vehículos por un término no menor de 30 días naturales y no mayor a 12 meses. En caso de incumplimiento se aplicarán las disposiciones contenidas en la Ley y el presente Reglamento.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 22 DE AGOSTO DE 2012)</small>
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
+Las unidades a que se refieren las fracciones III y IV del presente artículo, podrán exceptuarse de cumplir el requisito de antigüedad establecido, siempre que aprueben la revista mecánica a que se refiere la Ley y lo soliciten por escrito ante el Director General de Transportes del Estado, quien resolverá atendiendo a razones de índole económica extraordinaria comprobable.
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
+Igualmente, en los casos de pérdida de los vehículos referidos en el párrafo anterior, con motivo de un robo o siniestro, el Director General de Transportes podrá suscribir a fin de exceptuar el requisito de antigüedad, convenios para la sustitución de los mismos por un término no menor de 30 días naturales y no mayor a 12 meses. En caso de incumplimiento se aplicarán las disposiciones contenidas en la Ley y el presente Reglamento.
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
+Fuera de los supuestos establecidos en los dos párrafos anteriores, no podrán, en ningún otro caso, sustituir las unidades dadas de alta por otras de modelos más atrasados que no cumplan con la antigüedad requerida.
 
 Del Transporte Privado, la revisión considerará estrictamente las condiciones físico mecánicas de los vehículos y sus sistemas de seguridad y no a su antigüedad, y sólo en los casos en que se ponga en riesgo la seguridad de los conductores, peatones, usuarios y público en general se negará el trámite de la revista mecánica y se retirarán de la circulación.
 
@@ -2572,3 +2584,9 @@ P.O. 28 DE MARZO DE 2012.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" Órgano de información oficial del Gobierno del Estado de Morelos.
 
 SEGUNDO. Se derogan todas las disposiciones de igual o menor rango que se opongan a lo establecido en el presente Decreto.
+
+P.O. 22 DE AGOSTO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- Se derogan todas las disposiciones administrativas de igual o menor jerarquía que contravengan el presente Decreto.
