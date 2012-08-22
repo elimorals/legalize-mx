@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-del-registro-publico-de-los-organismos-74382"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-05-24"
-last_updated: "2006-05-24"
+last_updated: "2012-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74382&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # REGLAMENTO DEL REGISTRO PUBLICO DE LOS ORGANISMOS DESCENTRALIZADOS DEL PODER EJECUTIVO DEL GOBIERNO DEL ESTADO DE MORELOS
 
-REGLAMENTO DEL REGISTRO PUBLICO DE LOS ORGANISMOS DESCENTRALIZADOS DEL PODER EJECUTIVO DEL GOBIERNO DEL ESTADO DE MORELOS
+REGLAMENTO DEL REGISTRO PÚBLICO DE LOS ORGANISMOS DESCENTRALIZADOS DEL PODER EJECUTIVO DEL GOBIERNO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 24 de mayo de 2006.
 
@@ -163,6 +163,14 @@ La inscripción o anotación de documentos, en el Registro deberá solicitarse p
 
 Para hacer la inscripción de documentos, el Director General del Organismo Descentralizado acompañará un resumen del contenido de los documentos a inscribir y presentará copias certificadas de los mismos para formar parte del apéndice del libro.
 
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
+En los casos de inscripción a que se refiere la fracción VI del artículo 15 de este Reglamento, el Director General para acreditar su calidad como tal, deberá acompañar la solicitud con copia certificada de su nombramiento, incluso en el caso de que la modificación obedezca al cambio de Titular del Poder Ejecutivo, en términos de lo establecido por el último párrafo del artículo 32 de la Ley.
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
+Si existiera ratificación del nombramiento como Director General, se deberá hacer del conocimiento dicha circunstancia a la Secretaría, a través de la Procuraduría Fiscal, quien tendrá la obligación de asentar la ratificación en el libro correspondiente.
+
 ###### Artículo 19.
 
 Inmediatamente que se presente algún documento para su inscripción, la Procuraduría Fiscal pondrá en el propio documento una nota o impresión en la que se haga constar la hora, el día, mes y año en que se haya recibido y devolverá al presentante su acuse de recibo correspondiente.
@@ -210,3 +218,9 @@ EL SECRETARIO DE FINANZAS Y PLANEACIÓN
 L.C. JOSÉ ALEJANDRO JESÚS VILLARREAL GASCA.
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE AGOSTO DE 2012.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial ''Tierra y Libertad", Órgano Informativo del Gobierno del Estado de Morelos.
