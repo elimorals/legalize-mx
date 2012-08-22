@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-prevenir-combatir-y-eliminar-actos-de-53772"
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-17"
-last_updated: "2011-08-12"
+last_updated: "2012-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53772&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # LEY PARA PREVENIR, COMBATIR Y ELIMINAR ACTOS DE DISCRIMINACION EN EL ESTADO DE MEXICO
 
-LEY PARA PREVENIR, COMBATIR Y ELIMINAR ACTOS DE DISCRIMINACION EN EL ESTADO DE MEXICO
+LEY PARA PREVENIR, COMBATIR Y ELIMINAR ACTOS DE DISCRIMINACIÓN EN EL ESTADO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE AGOSTO DE 2012.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el miércoles 17 de enero de 2007.
 
@@ -309,9 +309,31 @@ IV. La publicación íntegra de la recomendación por la Comisión a través de 
 
 V. La publicación o difusión de una síntesis de la Resolución por Disposición en los medios impresos o electrónicos de comunicación.
 
+> <small>(REFORMADO, G.G. 22 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 21.
 
-A las instituciones públicas que se distingan por llevar a cabo programas y medidas para prevenir la discriminación, la Comisión podrá otorgar un reconocimiento por sus prácticas. El reconocimiento será otorgado previa solicitud de parte interesada, en su caso, la Comisión llevará a cabo una verificación.
+A las instituciones públicas que se distingan por llevar a cabo programas y medidas para prevenir la discriminación, la Comisión otorgará un reconocimiento por sus prácticas. El reconocimiento será otorgado previa solicitud de parte interesada, en su caso, la Comisión llevará a cabo una verificación.
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2012)</small>
+
+###### Artículo 21 Bis.
+
+El Premio Estatal Contra la Discriminación es el reconocimiento otorgado a las instituciones públicas o privadas, así como a los particulares que se distingan por llevar a cabo programas y medidas para prevenir la discriminación.
+
+El Premio Estatal Contra la Discriminación se entregará en las siguientes categorías:
+
+l. Por fomentar la equidad de género;
+
+II. Por garantizar la igualdad de oportunidades para los adultos mayores;
+
+III. Por garantizar la igualdad de oportunidades para las personas con discapacidad;
+
+IV. Por garantizar la igualdad de oportunidades para la población indígena; y
+
+V. Por fomentar la igualdad y la no discriminación en el ámbito laboral;
+
+La convocatoria para el otorgamiento de este premio, podrá considerar la participación de sociedades mercantiles o cooperativas, pero en ese caso el premio no consistirá en numerario, sino únicamente se integrará por la medalla y el diploma que acredite que le fue concedido el reconocimiento a que se hicieron merecedoras.
 
 ### CAPÍTULO VIII. DE LAS SANCIONES
 
@@ -385,7 +407,7 @@ DR. VICTOR HUMBERTO BENITEZ TREVIÑO
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.G. 6 DE MARZO DE 2010.
 
@@ -434,3 +456,9 @@ G.G. 12 DE AGOSTO DE 2011.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 22 DE AGOSTO DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
