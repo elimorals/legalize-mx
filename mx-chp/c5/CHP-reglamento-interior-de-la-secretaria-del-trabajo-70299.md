@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-la-secretaria-del-trabajo-70299"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-08-19"
-last_updated: "2009-08-19"
+last_updated: "2012-08-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70299&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHP"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DEL TRABAJO
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DEL TRABAJO
+REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 19 de agosto de 2009.
 
@@ -95,41 +95,55 @@ Los Titulares de los Órganos Administrativos en el ámbito de su competencia, t
 
 ### Capítulo I. De la Estructura Orgánica de la Secretaría
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 7°.
 
 Para la realización de los estudios, conducción, planeación, ejecución y desempeño de las atribuciones, funciones y despacho de los asuntos de su competencia, la Secretaría tendrá los Órganos Administrativos siguientes:
 
-I. Oficina del C. Secretario
+l. Oficina del C. Secretario.
 
-Unidad de Apoyo Administrativo
+a) Unidad de Apoyo Administrativo.
 
-Fondo para el Fomento y Desarrollo de la Competitividad Laboral
+b) Fondo para el Fomento y Desarrollo de la Competitividad Laboral.
 
-Unidad de Informática
+c) Unidad de Informática.
 
-Unidad de Asuntos Jurídicos
+d) Unidad de Asuntos Jurídicos.
 
-Unidad de Planeación
+e) Unidad de Planeación.
 
-II. Subsecretaría del Servicio Estatal del Empleo
+II. Subsecretaría del Servicio Nacional de Empleo Chiapas.
 
-Dirección de Apoyo al Empleo
+a) Dirección de Apoyo al Empleo.
 
-Dirección de Vinculación y Fomento al Autoempleo
+b) Dirección de Vinculación y Fomento al Autoempleo.
 
-III. Subsecretaría de la Defensa del Trabajo
+III. Subsecretaría de la Defensa del Trabajo.
 
-Dirección de Conciliación
+a) Dirección de Conciliación.
 
-Dirección Jurídica Laboral
+b) Dirección Jurídica Laboral.
 
-Dirección de Política Laboral
+c) Dirección de Política Laboral.
 
-IV. Órganos Desconcentrados
+d) Dirección de Asuntos Sindicales.
 
-Delegaciones
+IV. Delegaciones.
 
-Junta Local de Conciliación y Arbitraje
+a) Delegación San Cristóbal.
+
+b) Delegación Comitán.
+
+c) Delegación Pichucalco.
+
+d) Delegación Palenque.
+
+e) Delegación Tapachula
+
+V. Órgano Desconcentrado.
+
+Junta Local de Conciliación y Arbitraje.
 
 ###### Artículo 8°.
 
@@ -393,7 +407,9 @@ XIII. Las demás que en el ámbito de su competencia le asigne el Secretario y d
 
 El Titular de la Unidad de Asuntos Jurídicos, tiene las atribuciones siguientes:
 
-I. Representar legalmente a la Secretaría, previo acuerdo con el Secretario, ante todo tipo de autoridades, con las facultades generales y especiales de un mandato para pleitos y cobranzas y actos de administración.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2012)</small>
+
+I. Representar legalmente a la Secretaría, ante todo tipo de autoridades, con las facultades generales y especiales de un mandato para pleitos y cobranzas y actos de administración.
 
 II. Fungir como consejero jurídico de la Secretaría, asesorando legalmente a los Órganos Administrativos y al público en general, cuando así lo requieran.
 
@@ -415,7 +431,13 @@ X. Integrar y validar las iniciativas de Leyes, Reglamentos, Decretos, Acuerdos,
 
 XI. Realizar los trámites para la publicación de los instrumentos que por su naturaleza así lo requieran.
 
-XII. Las demás que en el ámbito de su competencia le asigne el Secretario y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2012)</small>
+
+XII. Formular y suscribir los informes que soliciten los Organismos Públicos de Derechos Humanos, respecto al trámite de quejas, así como atender los pronunciamientos de dichos Organismos.
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2012)</small>
+
+XIII. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Secretario; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ###### Artículo 21.
 
@@ -487,17 +509,21 @@ XVIII. Proponer al Secretario, los proyectos que se consideren necesarios para e
 
 XIX. Las demás que en el ámbito de su competencia les confieran las disposiciones aplicables, así como las que les asigne el Secretario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 23.
 
-La Subsecretaría del Servicio Estatal del Empleo, está integrada por los Órganos Administrativos siguientes:
+La Subsecretaría del Servicio Nacional de Empleo Chiapas está integrada por los Órganos Administrativos siguientes:
 
 a) Dirección de Apoyo al Empleo.
 
 b) Dirección de Vinculación y Fomento al Autoempleo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 24.
 
-El Titular de la Subsecretaría del Servicio Estatal del Empleo, tiene las atribuciones siguientes:
+El Titular de la Subsecretaría del Servicio Nacional de Empleo Chiapas tiene las atribuciones siguientes:
 
 I. Proponer al Secretario, las políticas en materia de empleo, autoempleo y capacitación laboral, así como, dirigir los programas de actividades que se deriven de los Acuerdos y Convenios de Coordinación que se establezcan para tal efecto.
 
@@ -522,6 +548,10 @@ a) Dirección de Conciliación.
 b) Dirección Jurídica Laboral.
 
 c) Dirección de Política Laboral.
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
+d) Dirección de Asuntos Sindicales.
 
 ###### Artículo 26.
 
@@ -763,6 +793,24 @@ XIV. Recopilar y difundir a la Administración Pública Estatal, las modificacio
 
 XV. Las demás que en materia de su competencia le asigne el Secretario, el Subsecretario del Trabajo y demás normatividad jurídica y administrativa aplicable.
 
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
+###### Artículo 37 Bis.
+
+El Titular de la Dirección de Asuntos Sindicales tiene las atribuciones siguientes:
+
+I. Promover la participación de sindicatos obrero-patronales relacionados al cumplimiento de la política laboral en el Estado.
+
+II. Proponer al Subsecretario de la Defensa del Trabajo, acciones y estrategias que fortalezcan las relaciones del Ejecutivo del Estado, con organizaciones y sindicatos de trabajadores y patrones.
+
+III. Intervenir, previa petición de cualquiera de las partes en controversia, en los actos de mediación y conciliación en las relaciones laborales colectivas entre los trabajadores y patrones, intergremiales, Organismos Públicos Descentralizados Estatales y Municipales, o cuando la situación lo amerite a criterio del Ejecutivo del Estado.
+
+IV. Proporcionar asesoría a las organizaciones sindicales en peticiones y proyectos planteados, impulsando la gestoría social ante las diferentes instancias de Gobierno.
+
+V. Generar la actualización del directorio de organizaciones, sindicatos de trabajadores y de patrones.
+
+VI. Las demás atribuciones que en el ámbito de su competencia le sean encomendadas por el Subsecretario de la Defensa del Trabajo; así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+
 ### Capítulo IV. De los Órganos Desconcentrados y de las Atribuciones de sus Titulares
 
 ###### Artículo 38.
@@ -822,3 +870,15 @@ Artículo Quinto.- En cumplimiento a lo dispuesto en el artículo 8°, de la Ley
 Dado en el Palacio de Gobierno, Residencia Oficial del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los trece días del mes de mayo del año dos mil nueve.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Esther Almazán Torres, Secretaria del Trabajo.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE AGOSTO DE 2012.
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero. La Secretaría deberá establecer, controlar y evaluar el Programa Interno de Protección Civil para el personal, instalaciones, bienes e información, observando las normas necesarias para la operación, desarrollo y vigilancia del Programa que establezca la Unidad Estatal de Protección Civil.
+
+Artículo Cuarto. Conforme a lo dispuesto por el artículo 8 de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial.
