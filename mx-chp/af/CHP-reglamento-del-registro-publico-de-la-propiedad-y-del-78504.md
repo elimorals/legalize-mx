@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-del-registro-publico-de-la-propiedad-y-del-78504"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-11-17"
-last_updated: "2010-11-17"
+last_updated: "2012-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2012.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 17 de noviembre de 2010.
 
@@ -67,7 +67,9 @@ V. Registro Público.- Al Registro Público de la Propiedad y del Comercio del E
 
 VI. Director.- Al Director del Registro Público de la Propiedad y del Comercio del Estado de Chiapas.
 
-VII. Delegado.- Al Responsable de la Oficina del Registro Público de la Propiedad y del Comercio en el Estado quién realiza funciones de administración, calificación, registro e inscripción, así como las demás que le otorga la ley y el presente reglamento en una determinada circunscripción.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2012)</small>
+
+VII. Delegado y/o Jefe del Departamento de Registro, Gravamen y Certificaciones.- Al Responsable de la Oficina del Registro Público de la Propiedad y del Comercio en el Estado, quien realiza funciones de administración, calificación, registro e inscripción, así como las demás que le otorga la ley y el presente reglamento en una determinada circunscripción.
 
 VIII. Oficina Registral.- A la oficina del Registro Público de la Propiedad y del Comercio en la capital o en los municipios del Estado que atienden una determinada circunscripción.
 
@@ -83,7 +85,9 @@ XIII. Inscripción por asiento.- A la forma tradicional en que se ha realizado l
 
 XIV. Calificación registral.- A la apreciación o examen de la calidad de un documento para determinar si es sujeto de inscripción o no, acorde a los criterios señalados por la Ley, el presente reglamento, los principios registrales y ordenamientos públicos aplicables.
 
-XV. Funciones de Registrador.- A las atribuciones y actividades del Servidor público del Registro Público, auxiliar de la función registral, cuyo objeto es el examen y calificación bajo su responsabilidad de los documentos que se presenten en la oficina registral para su inscripción en la base de datos, mediante su firma electrónica, o en libros mediante su firma autógrafa. El cargo de Registrador, Jefe del Departamento Jurídico y Delegado son compatibles y complementarios.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2012)</small>
+
+XV. Funciones de Registrador.- A las atribuciones y actividades del Servidor público del Registro Público, auxiliar de la función registral, cuyo objeto es el examen y calificación bajo su responsabilidad de los documentos que se presenten en la oficina registral para su inscripción en la base de datos, mediante su firma electrónica, o en libros mediante su firma autógrafa. El cargo de Registrador, Jefe del Departamento Jurídico, Delegado y/o Jefe del Departamento de Registro, Gravamen y Certificaciones son compatibles y complementarios.
 
 XVI. Firma electrónica.- A la Información digital propiedad de un individuo que es utilizada para firmar un Mensaje de Datos y que permite establecer la autenticidad de quien emite el mensaje y certificar, en consecuencia, la legitimidad del acto inscrito, que produce efectos jurídicos como si fuera una firma autógrafa y que es admisible como prueba en juicio.
 
@@ -129,11 +133,15 @@ III. Un Delegado Administrativo.
 
 IV. Un Jefe del Departamento de Informática.
 
-V. Delegados.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2012)</small>
+
+V. Delegados y/o Jefe del Departamento de Registro, Gravamen y Certificaciones.
 
 VI. Personal auxiliar.
 
-Para agilizar los trámites que se requieran en los municipios del Estado, y conforme al contenido del artículo 16 de este reglamento, existirán 19 oficinas registrales del Registro Público cada una a cargo de un Delegado que será nombrado y removido por el Consejero Jurídico del Gobernador en acuerdo con el Director.
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
+Para agilizar los trámites que se requieran en los municipios del Estado, y conforme al contenido del artículo 16 de este reglamento, existirán 19 oficinas registrales del Registro Público cada una a cargo de un Delegado y/o Jefe del Departamento de Registro, Gravamen y Certificaciones, que será nombrado y removido por el Director, previa autorización del Consejero Jurídico del Gobernador.
 
 Las funciones y atribuciones del personal auxiliar se establecerán en los Manuales de Organización, de Procedimientos del Registro y de Operación del SIREC.
 
@@ -151,11 +159,13 @@ IV. Estar en pleno uso de sus derechos de goce y ejercicio al momento de su nomb
 
 V. Ser ciudadano chiapaneco con reconocida probidad.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 7°.
 
-Los cargos de Jefe del Departamento Jurídico y Delegados de las oficinas registrales, requieren los mismos requisitos señalados en las fracciones I a la V del artículo anterior con la excepción de la experiencia en la práctica de la profesión que deberá ser de un año como mínimo.
+Los cargos de Jefe del Departamento Jurídico, Delegados y/o Jefe del Departamento de Registro, Gravamen y Certificaciones de las oficinas registrales, requieren los mismos requisitos señalados en las fracciones I a la V del artículo anterior con la excepción de la experiencia en la práctica de la profesión que deberá ser de un año como mínimo.
 
-El Jefe del Departamento Jurídico suplirá las ausencias del Director, asimismo, contará con las atribuciones que le sean asignadas por la Ley y el presente Reglamento, pudiendo incluso trasladarse a cualquier oficina del Registro Público en el Estado por acuerdo del Director o del Consejero Jurídico del Gobernador.
+El Jefe del Departamento Jurídico suplirá las ausencias del Director y contará con las atribuciones que le sean asignadas por la Ley y el presente Reglamento, pudiendo incluso trasladarse a cualquier oficina del Registro Público en el Estado por acuerdo del Director o del Consejero Jurídico del Gobernador.
 
 ###### Artículo 8°.
 
@@ -201,21 +211,29 @@ V. Vigilar la correcta aplicación y cumplimiento de las disposiciones contenida
 
 VI. Efectuar visitas periódicas de inspección a las oficinas del Registro Público en el interior del Estado.
 
-VII. Tomar las provisiones necesarias para cubrir las ausencias de los Delegados.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2012)</small>
+
+VII. Tomar las provisiones necesarias para cubrir las ausencias de los Delegados y/o Jefe del Departamento de Registro, Gravamen y Certificaciones.
 
 VIII. Coordinar con el Jefe del Departamento de Informática, que se actualice la base de datos y se respalde diariamente, asegurándose que el respaldo sea confiable para su recuperación.
 
-IX. Llevar a cabo con los Delegados el control ordenado del Registro Público en el Estado, a fin de que se realicen las Inscripciones, certificaciones y búsquedas de las constancias de inscripción que consten en el acervo del Registro Público, a fin de que, previa petición de parte y pago de derechos, se expidan en tiempo y forma.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2012)</small>
+
+IX. Llevar a cabo con los Delegados y/o Jefe del Departamento de Registro, Gravamen y Certificaciones, el control ordenado del Registro Público en el Estado, a fin de que se realicen las Inscripciones, certificaciones y búsquedas de las constancias de inscripción que consten en el acervo del Registro Público, a fin de que, previa petición de parte y pago de derechos, se expidan en tiempo y forma.
 
 X. Rendir los informes que le requiera el Instituto sobre el estado que guarda la administración del Registro Público.
 
-XI. Instruir al Jefe del Departamento Jurídico y los Delegados, en la implementación de la infraestructura normativa para la realización de las actividades registrales.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2012)</small>
+
+XI. Instruir al Jefe del Departamento Jurídico, los Delegados y/o Jefe del Departamento de Registro, Gravamen y Certificaciones, en la implementación de la infraestructura normativa para la realización de las actividades registrales.
 
 XII. Ordenar y vigilar la capacitación y orientación del personal de las oficinas del Registro Público en lo concerniente a la función registral y demás normatividad relativa y aplicable.
 
 XIII. Proponer al titular del Instituto la redistribución de oficinas registrales en el Estado necesarias para el mejor servicio.
 
-XIV. Rendir los informes que le soliciten, con las formalidades de Ley, las autoridades federales, locales, municipales, de otras entidades, o cualesquiera otras autoridades judiciales o administrativas, llevando un control pormenorizado y consecutivo de dichos informes, auxiliándose con los departamentos a su cargo.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2012)</small>
+
+XIV. Rendir los informes que le soliciten, con las formalidades de Ley, las autoridades federales, locales, municipales, de otras entidades, o cualesquiera otras autoridades judiciales o administrativas, llevando un control pormenorizado y consecutivo de dichos informes, auxiliándose con los departamentos de informática y jurídico a su cargo.
 
 XV. Verificar y hacer cumplir en todo tiempo al personal del Registro Público, las disposiciones señaladas por la Ley adjetiva o sustantiva ya sea Federal o Estatal, en su aplicación a los procesos, procedimientos y operación del Registro Público; así mismo (sic), cumplir y hacer cumplir la Jurisprudencia y criterios de la Suprema Corte de Justicia de la Nación y principios registrales, así como disposiciones de orden público en los casos que procedan.
 
@@ -251,9 +269,17 @@ XXX. Llevar en forma permanente un análisis cuantitativo y cualitativo de los a
 
 XXXI. Contar con la fe pública registral en el Estado de Chiapas, autorizando con su firma autógrafa, digital o electrónica, los documentos que deban ser inscritos en el Registro Público, delegando dichas facultades a los Delegados en las 19 Delegaciones Registrales que conforman la institución registral en el Estado de Chiapas.
 
-XXXII. Suplir provisionalmente la ausencia de cualquiera de los 19 Delegados del Registro Público, autorizando bajo su responsabilidad, los documentos correspondientes, pudiendo delegar facultades de manera expresa a persona determinada, para suplir las ausencias de cualquiera de los Delegados del Registro Público, para la realización de las diversas funciones registrales establecidas en el Código Civil y en el presente reglamento.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2012)</small>
 
-XXXIII. Las demás que le designe el titular del Instituto o le confieran otras disposiciones legales.
+XXXII. Suplir provisionalmente la ausencia de cualquiera de los 19 Delegados y/o Jefe del Departamento de Registro, Gravamen y Certificaciones del Registro Público, autorizando bajo su responsabilidad, los documentos correspondientes, pudiendo delegar facultades de manera expresa a persona determinada, para suplir las ausencias de cualquiera de los Delegados del Registro Público, para la realización de las diversas funciones registrales establecidas en el Código Civil y en el presente reglamento.
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2012)</small>
+
+XXXIII. Nombrar a los funcionarios con facultades de Registradores o Delegados, que se requieran atendiendo a las necesidades, previa autorización del Consejero Jurídico del Gobernador.
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2012)</small>
+
+XXXIV. Las demás que le designe el titular del Instituto o le confieran otras disposiciones legales.
 
 ###### Artículo 12.
 
@@ -293,6 +319,8 @@ XVI. Las demás que le confiera el Director o el Consejero Jurídico del Goberna
 
 Para el cumplimiento de sus funciones, el Jefe del Departamento Jurídico podrá contar con auxiliares de la carrera de Licenciado en Derecho, mismos que deberán ser aprobados por el Director.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 13.
 
 Corresponde al Delegado Administrativo las siguientes atribuciones:
@@ -307,17 +335,21 @@ IV. Proponer al Director las adecuaciones que considere pertinentes al marco jur
 
 V. Integrar el archivo de los expedientes del personal que labora en las oficinas registrales.
 
-VI. Elaborar los requerimientos de insumos, materiales y bienes muebles necesarios, acordes al presupuesto, para el correcto desempeño del Registro Público.
+VI. Realizar la planeación y programación anual de los recursos necesarios para la satisfacción y cumplimiento de las funciones y actividades registrales en el Estado, planteándole a la Unidad de Apoyo Administrativo del Instituto.
 
-VII. Verificar el cumplimiento de las normas de seguridad e higiene en las oficinas del Registro Público.
+VII. Proveer las necesidades que tengan los funcionarios y empleados del Registro Público de la Propiedad para el cumplimiento de sus fines, procedimientos, funciones y actividades.
 
-VIII. Expedir las credenciales de identificación de los servidores públicos al servicio del Registro Público y demás constancias que acrediten la situación laboral de los trabajadores.
+VIII. Elaborar los requerimientos de insumos, materiales y bienes muebles necesarios, acordes al presupuesto, para el correcto desempeño del Registro Público.
 
-IX. Llevar a cabo la contabilidad interna y el control presupuestal del Registro Público y sus oficinas registrales en el Estado, rindiendo informes mensuales a la Dirección.
+IX. Verificar el cumplimiento de las normas de seguridad e higiene en las oficinas del Registro Público.
 
-X. Llevar el control administrativo de las instalaciones del Registro Público.
+X. Expedir las credenciales de identificación de los servidores públicos al servicio del Registro Público y demás constancias que acrediten la situación laboral de los trabajadores.
 
-XI. Las demás que le designe el Director o el Consejero Jurídico del Gobernador.
+XI. Llevar a cabo la contabilidad interna y el control presupuestal del Registro Público y sus oficinas registrales en el Estado, rindiendo informes mensuales a la Dirección.
+
+XII. Llevar el control administrativo de las instalaciones del Registro Público.
+
+XIII. Las demás que le designe el Director o el Consejero Jurídico del Gobernador.
 
 ###### Artículo 14.
 
@@ -347,9 +379,11 @@ XI.- Capacitar al personal del Registro Público en el uso de aplicaciones infor
 
 XII.- Las demás que le confiera el Consejero Jurídico del Gobernador o el Director o aquellas que le confieran otras disposiciones legales o los manuales de procedimientos y/u operativos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 15.
 
-Son obligaciones y responsabilidades de los Delegados:
+Son obligaciones y responsabilidades de los Delegados y/o Jefe del Departamento de Registro, Gravamen y Certificaciones:
 
 I. Cumplir con las obligaciones señaladas en este Reglamento y con aquellas que específicamente se señalan en la Ley.
 
@@ -361,11 +395,15 @@ IV. Vigilar el cumplimiento de la Ley, del Reglamento y de los manuales aplicabl
 
 V. Verificar que el personal a su cargo designado para tales efectos cumpla con las actividades de calificación y registro.
 
-VI. Sustituir la ausencia temporal del Delegado de la oficina registral de otra circunscripción, previo acuerdo del Director.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2012)</small>
 
-VII. Requerir la información periódica y actualizada de los Jefes de Sección de la oficina registral a su cargo.
+VI. Sustituir la ausencia temporal del Delegado y/o Jefe del Departamento de Registro, Gravamen y Certificaciones de la oficina registral de otra circunscripción, previo acuerdo del Director.
 
-VIII. Coadyuvar con las demás Delegaciones en el logro de los fines del Registro Público.
+VII. (DEROGADA, P.O. 22 DE AGOSTO DE 2012)
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2012)</small>
+
+VIII. Coadyuvar con las demás Delegaciones y/o Departamentos de Registro, Gravamen y Certificaciones en el logro de los fines del Registro Público.
 
 IX. Rendir los informes que le sean solicitados por los Jefes de Departamento de la Dirección y por el Director sobre las incidencias de la oficina registral a su cargo.
 
@@ -387,35 +425,39 @@ XVII. Las demás que le designe el Director o el Consejero Jurídico del Goberna
 
 ### CAPÍTULO III. DE LAS DELEGACIONES
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 16.
 
-La Dirección del Registro Público, para el mejor desempeño de sus atribuciones contará con las siguientes Delegaciones con competencia jurisdiccional en las localidades que se enlistan:
+La Dirección del Registro Público, para el mejor desempeño de sus atribuciones contará con las siguientes Delegaciones y/o Departamentos de Registro, Gravamen y Certificaciones con competencia jurisdiccional en las localidades que se enlistan:
 
 - Acapetahua: Acapetahua, Acacoyagua, Escuintla y Mapastepec.
 
-- Bochil: Simojovel, Huitiupán, Bochil, Sabanilla, San Andrés Duraznal, Pueblo Nuevo Solistahuacán, Jitotol, Amatán y El Bosque.
+- Bochil: Simojovel, Huitiupán, Bochil, Sabanilla, San Andrés Duraznal, Pueblo Nuevo Solistahuacán, Jitotol, Amatán y el Bosque.
 
 - Catazajá: Catazajá, Palenque y la Libertad.
 
-- Cintalapa: Cintalapa y Jiquipilas.
+- Cintalapa: Cintalapa, Jiquipilas y Belisario Domínguez.
 
-- Comitán: Comitán, Chicomuselo, las Margaritas, Maravilla Tenejapa, Villa las Rosas, Socoltenango, la Independencia, Tzimol y la Trinitaria.
+- Comitán: Comitán, Chicomuselo, Las Margaritas, Maravilla Tenejapa, Villa las Rosas, Socoltenango, La Independencia, Tzimol y La Trinitaria.
 
 - Chiapa de Corzo: Chiapa de Corzo, Chiapilla, Acala, Soyaló, Ixtapa, San Lucas y Osumacinta.
 
-- Copainalá: Copainalá, Ixhuatán, Tapilula, Rayón, Pantepec, Tapalapa, Ocotepec, Coapilla, Chicoasén, Francisco León y Tecpatán.
+- Copainalá: Copainalá, Ixhuatán, Tapilula, Rayón, Pantepec, Tapalapa, Ocotepec, Coapilla, Chicoasén, Francisco León, Tecpatán y Mezcalapa.
 
 - Huixtla: Huixtla, Tuzantán, Villa Comaltitlán y Huehuetán.
 
-- Motozintla: Motozintla, Frontera Comalapa, Amatenango de la Frontera, Mazapa de Madero, Siltepec, El Porvenir, Bejucal de Ocampo, la Grandeza y Bella Vista.
+- Motozintla: Motozintla, Frontera Comalapa, Amatenango de la Frontera, Mazapa de Madero, Siltepec, El Porvenir, Bejucal de Ocampo, La Grandeza y Bella Vista.
 
-- Ocosingo: Ocosingo, Oxchuc, San Juan Cancuc, Altamirano, Benemérito de la Américas y Marqués de Comillas.
+- Ocosingo: Ocosingo, Oxchuc, San Juan Cancuc, Altamirano, Benemérito de la Américas y
 
-- Pichucalco: Pichucalco, Ostuacán, Ixtacomitán, Solosuchiapa, Chapultenango, Juárez, Reforma, Sunuapa e lxtapangajoya.
+Marqués de Comillas.
+
+- Pichucalco: Pichucalco, Ostuacán, Ixtacomitán, Solosuchiapa, Chapultenango, Juárez, Reforma, Sunuapa e Ixtapangajoya.
 
 - Salto de Agua: Salto de Agua.
 
-- San Cristóbal de las Casas: San Cristóbal de Las Casas, Pantelhó, Chamula, Zinacantán, Chalchihuitán, Mitontic, Teopisca, Tenejapa, Larráinzar, Chanal, Amatenango del Valle, Chenalhó, Huixtán, Aldama y Santiago El Pinar.
+- San Cristóbal de Las Casas: San Cristóbal de Las Casas, Pantelhó, Chamula, Zinacantán, Chalchihuitán, Mitontic, Teopisca, Tenejapa, Larráinzar, Chanal, Amatenango del Valle, Chenalhó, Huixtán, Aldama y Santiago El Pinar.
 
 - Tapachula: Tapachula de Córdova y Ordóñez, Cacahoatán, Tuxtla Chico, Metapa, Frontera Hidalgo, Suchiate, Mazatán y Unión Juárez.
 
@@ -423,15 +465,15 @@ La Dirección del Registro Público, para el mejor desempeño de sus atribucione
 
 - Tuxtla Gutiérrez: Tuxtla Gutiérrez, Berriozábal, San Fernando, Ocozocoautla y Suchiapa.
 
-- Venustiano Carranza: Venustiano Carranza, Nicolás Ruiz y Totolapa.
+- Venustiano Carranza: Venustiano Carranza, Nicolás Ruiz, Totolapa y Emiliano Zapata.
 
-- Villaflores: Villaflores, Villa Corzo, Ángel Albino Corzo, La Concordia y Monte Cristo de Guerrero.
+- Villaflores: Villaflores, Villa Corzo, Ángel Albino Corzo, La Concordia, Montecristo de Guerrero y El Parral.
 
 - Yajalón: Yajalón, Chilón, Tila, Tumbalá y Sitalá.
 
-A cargo de cada oficina habrá un Delegado, con funciones de Registrador, mismos que estarán bajo la supervisión del Director. Dichos puestos serán nombrados o removidos por el Titular del Instituto en acuerdo con el Director.
+A cargo de cada oficina habrá un Delegado y/o Jefe de Departamento de Registro, Gravamen y Certificaciones, con funciones de Registrador, mismos que estarán bajo la supervisión del Director.
 
-El Instituto podrá sugerir la adición de localidades, readscripción geográfica o cierre de oficinas de acuerdo a las necesidades de operación del Registro. La creación de nuevas Oficinas Registrales, readscripción o cierre es competencia del Ejecutivo Estatal.
+El Instituto podrá sugerir la adición de localidades, readscripción geográfica o cierre de oficinas de acuerdo con las necesidades de operación del Registro. La creación de nuevas Oficinas Registrales, readscripción o cierre es competencia del Ejecutivo Estatal.
 
 ### CAPÍTULO IV. DEL PERSONAL DEL REGISTRO PÚBLICO
 
@@ -447,9 +489,11 @@ El personal del Registro Público, con base en la Ley del Servicio Civil para el
 
 Los trabajadores podrán hacerse acreedores, por el correcto y destacado desempeño de sus funciones de los reconocimientos que se señalan en el capítulo Sexto de la Ley del Servicio Civil para el Estado y los municipios de Chiapas.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 18.
 
-En el Registro Público se entiende como trabajadores de confianza al Director, Jefes de Departamento, Delegado Administrativo, Delegados y demás personal que realice labores de inspección, toma de decisiones, vigilancia y manejo de recursos económicos.
+En el Registro Público se entiende como trabajadores de confianza al Director, Jefe de Departamento, Delegado Administrativo, Delegados y/o Jefe de Departamento de Registro, Gravamen y Certificaciones y demás personal que realice labores de inspección, toma de decisiones, vigilancia y manejo de recursos económicos.
 
 Estos tendrán las obligaciones que se señalan en el cuerpo del presente reglamento y las que se señalen en los Manuales de Procedimientos del Registro Público, y de Usuario del SIREC.
 
@@ -478,6 +522,10 @@ Las ausencias del personal de confianza en las oficinas del Registro Público se
 El horario de atención del Registro Público lo fijará la Dirección y estará a la vista de todos los usuarios. El personal de base del Registro Público asistirá en el horario de servicio a prestar sus labores; los horarios de labores del personal de base se señalarán por medio de circular emitida por la Dirección.
 
 El personal de confianza tendrá el horario que se señala en el inciso a) del artículo 10 de este reglamento.
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
+Artículo 23 bis.- Los funcionarios adscritos al Registro Público de la Propiedad y del Comercio del Estado de Chiapas, deberán observar los Lineamientos que establecen los requisitos extrínsecos e intrínsecos y de fondo, para la recepción y calificación de los trámites presentados por los usuarios.
 
 ## TÍTULO TERCERO. DE LOS PROCESOS REGISTRALES
 
@@ -617,17 +665,19 @@ Todos los documentos susceptibles de inscripción deberán presentarse por dupli
 
 La inobservancia de lo señalado en este artículo será causal de denegación de la inscripción y rechazo del trámite.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 38.
 
-Una vez recibido el documento para su trámite, se turnará al analista que corresponda, quien examinará el documento, para determinar si es inscribible, debiendo además confrontarlo con los antecedentes registrarles que existan en el Registro Público, para verificar si el acto puede ser inscrito o si existe alguna causa de impedimento. Además de verificar, si el documento presentado cumple con los requisitos de forma y fondo, tanto intrínseco como extrínsecos requeridos conforme a los lineamientos de la ley y la normatividad, según su naturaleza jurídica de estos. Una vez examinados se clasificará a la sección relativa al acto que le corresponde. Turnándose al jefe de analistas para la confirmación de la calificación efectuada por el analista. Una vez confirmado el sentido de la calificación, será turnado al Delegado de la oficina registral correspondiente, para su inscripción, pudiendo realizar nuevamente la recalificación registral del instrumento. En aquellos lugares en que no se cuente con jefes de analistas, la función de recalificación será practicada por el Delegado de la oficina registral competente.
+Una vez recibido el documento para su trámite, se turnará a cualquiera de los analistas, quienes examinarán minuciosamente los antecedentes registrales que existan en el Registro Público, para determinar si es inscribible, para verificar si el acto puede ser inscrito o si existe alguna causa de impedimento. Además de verificar si el documento presentado cumple con los requisitos de forma y fondo, tanto intrínsecos como extrínsecos requeridos, conforme a los lineamientos de la Ley y la normatividad aplicable, según su naturaleza jurídica de estos. Una vez que del análisis efectuado determine su inscripción, será capturada por este la información necesaria en la carátula respectiva, e incorporándose al folio y clasificación que le corresponda, de manera preventiva turnándose al funcionario con facultades de Registrador, quien autorizará mediante su firma electrónica la inscripción electrónica correspondiente, previa recalificación registral si lo considera.
 
-Si al ser calificado el documento por el analista se determina su inscripción, será capturada por este la información necesaria en la carátula respectiva, digitalizándose la imagen del acto e incorporándose al folio y sección que le corresponda de manera preventiva, turnándose al funcionario con facultades de Registrador, quien autorizará mediante su firma electrónica la inscripción correspondiente, previa recalificación registral si lo considera.
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 39.
 
-El Registro Público, por medio de los funcionarios con facultad de Registrador, sus Delegados y el personal autorizado para ello por la Dirección, podrán denegar el registro e inscripción sin responsabilidad cuando:
+El Registro Público, por medio de los funcionarios con facultad de Registrador, sus Delegados y/o Jefe de Departamento de Registro, Gravamen y Certificaciones y el personal autorizado para ello por la Dirección, podrán denegar el registro e inscripción sin responsabilidad cuando:
 
-I. No estén cubiertos los derechos de inscripción, ni se haya invocado la ley, no exista acuerdo del ejecutivo a través del titular de la Secretaría de Hacienda del Estado, exentando el pago de los derechos o justificando la celebración del convenio de diferimiento de pago.
+I. No estén cubiertos los derechos de inscripción, ni se haya invocado la ley, no exista acuerdo del Ejecutivo a través del titular de la Secretaría de Hacienda del Estado, exentando el pago de los derechos o justificando la celebración del convenio de diferimiento de pago.
 
 II. No se acompañen los documentos necesarios para la inscripción.
 
@@ -639,23 +689,33 @@ V. Cuando de la revisión y examen de los documentos existan indicios de falseda
 
 VI. Cualesquiera otras circunstancias que justificadamente se estime que con su inscripción se causará un daño a terceros, de la sociedad o del Estado de Chiapas.
 
-VII. Cuando la petición sea de un servicio de los que otorga el registro, esta deberá ser clara, caso contrario, el Registrador deberá requerir al usuario para que en el plazo de tres días posteriores a la fecha en que se le notifique la fecha realice la aclaración correspondiente, con apercibimiento que de no hacerlo así será negado el servicio requerido, sin responsabilidad para el Registrador.
+VII. Cuando la petición sea de un servicio de los que otorga el registro, esta deberá ser clara, caso contrario, el Registrador deberá requerir al usuario para que en el plazo de tres días posteriores a la fecha en que se le notifique dicho oficio realice la aclaración correspondiente con apercibimiento que de no hacerlo así será negado el servicio requerido, sin responsabilidad para el Registrador.
+
+El interesado en el término de cinco días contados a partir del día hábil siguiente en que tuvo conocimiento de la negativa del servicio requerido, podrá nuevamente presentar la documentación, una vez que subsane las omisiones, vicios y deficiencias que originaron la devolución por primera vez del título presentado o bien, presentar ante la autoridad emisora del acto negatorio, el escrito de interposición del recurso de reconsideración; el cual se tramitará con los requisitos, la formalidad y sustanciación respectiva, prevista en el Reglamento del Registro Público de la Propiedad en el Estado de Chiapas.
+
+En el caso de negativa, el Registrador tiene obligación de realizar una anotación marginal preventiva de preferencia o prelación, cuyos efectos serán de cinco días hábiles, ampliándose en consecuencia, los efectos de la anotación marginal preventiva de preferencia o prelación, hasta en tanto se declare la ejecutoria del recurso de reconsideración o del recurso que proceda, según la ley en la materia respectiva, ello en términos y para los efectos de los artículos 2985 y 2986 y demás relativos y aplicables del Código Civil vigente del Estado de Chiapas.
 
 VIII. En caso de que la petición realizada por un usuario, sea respecto de cualquiera de los servicios que preste el Registro Público y éste no corresponda conforme a los antecedentes registrales que obran archivados, se denegará el servicio requerido sin responsabilidad alguna para el Registrador, comunicando tal situación al usuario, por no ser posible la expedición de la constancia requerida por ser inexistente el acto señalado.
 
-Para este efecto el funcionario que determine estas acciones fundará y motivará su proceder y lo hará del conocimiento del Delegado respectivo.
+Para este efecto, el funcionario que determine estas acciones fundará y motivará su proceder y lo hará del conocimiento del Delegado y/o Jefe de Departamento de Registro, Gravamen y Certificaciones respectivo.
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 40.
 
-Si fuere indispensable hacer alguna corrección o enmienda de una inscripción, por causas imputables al personal del Registro Público, se procederá a su corrección, previa autorización que otorgue el Jefe del Departamento Jurídico o el Delegado que corresponda, conservándose en la bitácora del sistema constancia de dicha corrección, efectuándose siempre ésta en presencia de alguno de los funcionarios mencionados, quien mediante acta administrativa dará fe y constancia de la corrección; un tanto del acta administrativa de rectificación en original, se remitirá al Director para su conocimiento y otro tanto se agregará al legajo formado de la inscripción respectiva bajo el número de registro o folio correspondiente, objeto de rectificación, así como del escrito petitorio que la motivó y las pruebas relacionadas.
+Si fuere indispensable hacer alguna corrección o enmienda de una inscripción, por causas imputables al personal del Registro Público, se procederá a su corrección, previa autorización que otorgue el Jefe del Departamento Jurídico o el Delegado y/o Jefe de Departamento de Registro, Gravamen y Certificaciones que corresponda, conservándose en la bitácora del sistema constancia de dicha corrección, efectuándose siempre ésta en presencia de alguno de los funcionarios mencionados, quien dará fe y constancia de la corrección.
 
-Las correcciones de asientos o inscripciones que soliciten los usuarios, solo procederán a petición expresa de parte interesada.
+Las correcciones de asientos o inscripciones que soliciten los usuarios, solo procederán a petición expresa de la parte interesada.
 
 Cualquiera de los interesados en una inscripción con número de registro o de folio que obre en la oficina registral que advirtiere en ella error material o de concepto, podrá pedir su rectificación al Registrador y si este no conviniere en ella, el interesado podrá acudir a los medios de impugnación propuestos en los artículos 186 al 191 del presente Reglamento. Si la resolución final no le fuere favorable, se dejarán a salvo sus derechos para que los ejercite en la vía que corresponda.
 
-Cuando el error resultare de la expresión vaga por inexactitud del concepto, en el título y de haberlo entendido el Registrador de un modo diferente de los interesados, no declarará la autoridad competente que conozca del asunto sobre dicho error, ni lo rectificará el Registrador; más quedará a salvo el derecho de las partes, bien que se declare judicialmente la inteligencia del contrato, bien para celebrar otro nuevo en que se exprese con mayor claridad el concepto dudoso.
+Cuando el error resultare de la expresión vaga por inexactitud del concepto, en el título y de haberlo entendido el Registrador de un modo diferente de los interesados, no declarará la autoridad competente que conozca del asunto sobre dicho error, ni lo rectificará el Registrador; mas quedará a salvo el derecho de las partes, bien que se declare judicialmente la inteligencia del contrato, bien para celebrar otro nuevo en que se exprese con mayor claridad el concepto dudoso.
 
 Verificada la rectificación de una inscripción, con número de registro o folio cancelación en el Registro Público, se verificarán también los demás asientos relativos que se hallen en la oficina registral y que tengan relación con dicha inscripción.
+
+Será responsabilidad del Delegado y/o Jefe de Departamento de Registro, Gravamen y Certificaciones y del personal adscrito el modificar y crear información que sirva de base para los asientos registrales que cumpla con la normatividad y disposiciones vigentes.
+
+Para este supuesto de irregularidades en lo precisado en el párrafo anterior, el Delegado y/o Jefe de Departamento de Registro, Gravamen y Certificaciones y personal adscrito deberán acompañar como soporte acta circunstanciada firmada por dos testigos, con copia al Jefe del Departamento Jurídico, este último deberá realizar un análisis jurídico del acta circunstanciada, que será sometida a su conocimiento y si de ella se desprende la probable comisión de responsabilidades administrativas o penales, lo hará en forma inmediata del conocimiento de la autoridad competente.
 
 ###### Artículo 41.
 
@@ -675,17 +735,21 @@ De proceder el supuesto de rechazo, los documentos quedarán a disposición de l
 
 El funcionario con facultades de Registrador no calificará la legalidad de una orden de autoridad judicial o administrativa competente que decrete una inscripción, una anotación o una cancelación, pero si ésta no reúne los requisitos exigidos por la Ley, por este Reglamento y demás disposiciones legales aplicables, que hagan dubitable la identificación del bien o derecho de que se trate y precise el alcance de dicha orden, no procederá al cumplimiento del mandato, debiendo comunicarlo el Registrador que conozca del asunto de inmediato a la autoridad emisora mediante oficio, si a pesar de ello, dicha autoridad insiste en el cumplimiento de su mandato, se procederá conforme a lo ordenado, dejando a salvo la responsabilidad del Registrador.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 45.
 
-Las resoluciones judiciales que causen ejecutoria que ordenen una inscripción, anotación o cancelación, dictadas en juicio donde el Registrador haya sido parte, se cumplirán en los plazos señalados por el mandamiento o resolución, haciéndose aplicables lo señalado por el segundo párrafo del artículo 23 del presente Reglamento.
+Las resoluciones judiciales que causen ejecutoria que ordenen una inscripción, anotación o cancelación, dictadas en juicio donde el Registrador haya sido parte, se cumplirán en los plazos señalados por el mandamiento o resolución, haciéndose aplicables lo señalado por el segundo párrafo del artículo 26 del presente Reglamento.
 
 ###### Artículo 46.
 
 Cuando se concluya el trámite normal, así como cuando se haya suspendido o denegado el servicio en los casos previstos en el presente Reglamento, los documentos puestos a disposición de los interesados en la Ventanilla, que no sean retirados dentro de los treinta días naturales siguientes a la de la respectiva notificación del aviso por medio de los estrados de la oficina registral, serán remitidos al archivo de los cuales se informará oportunamente a los interesados, a través del mismo estrado.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 47.
 
-El acuerdo que determine suspender o denegar los servicios requeridos, deberá estar fundado y motivado conforme lo establece el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, debiendo el Delegado o el funcionario con facultades de Registrador, según sea el caso, hacer del conocimiento del Jefe del Departamento Jurídico dicho acuerdo, si así se lo requirieren, remitiéndole copia del mismo de manera inmediata.
+El acuerdo que determine suspender o denegar los servicios requeridos, deberá estar fundado y motivado conforme lo establece el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, debiendo el Delegado y/o Jefe de Departamento de Registro, Gravamen y Certificaciones o el funcionario con facultades de Registrador, según sea el caso, hacer del conocimiento del Jefe del Departamento Jurídico dicho acuerdo, si así se lo requirieren, remitiéndole copia del mismo de manera inmediata.
 
 ### CAPÍTULO III. DE LOS FOLIOS ELECTRÓNICOS
 
@@ -699,9 +763,11 @@ II. Folio Electrónico de bienes Muebles.
 
 III. Folio Electrónico de Personas.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 49.
 
-Se identifica como Folio Real Electrónico de Inmuebles al archivo electrónico que contiene diversos actos pertenecientes a un mismo inmueble; este folio será único e irrepetible para cada finca y en él se contendrá, señalizados por sección, los actos que le sean relacionados. El folio de inmuebles se integrará por una carátula y tres secciones, regulándose en su aplicación por el contenido del presente reglamento.
+Se identifica como Folio Real de Inmuebles, al archivo electrónico que contiene diversos actos pertenecientes a un mismo inmueble; este folio será único e irrepetible para cada finca y en él se contendrá los actos que le sean relacionados. El folio de inmuebles se integrará por una carátula y tres apartados, regulándose en su aplicación por el contenido del presente reglamento.
 
 ###### Artículo 50.
 
@@ -711,9 +777,11 @@ El folio electrónico, en su carátula describirá la unidad básica y sus antec
 
 Las partes que integren el folio contendrán los apartados necesarios para que de manera ordenada, se anote el número de entrada, la fecha, clave de operación, inscripción y firma electrónica del Registrador.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 51.
 
-Al comenzar a utilizarse cada folio, se le dará el número progresivo que le corresponda. Dicho número servirá de guía para los efectos de su ordenación en archivos digitales y será el número registral del bien mueble, inmueble o persona moral o jurídica que corresponda.
+Al comenzar a utilizarse cada folio, se le dará el número progresivo que le corresponda. Dicho número servirá de guía para los efectos de su ordenación en archivos digitales y será el número registral del bien mueble; inmueble o personas que corresponda.
 
 A cada finca que se pretenda inscribir se le creará una carátula propia y un folio electrónico respectivo.
 
@@ -807,49 +875,61 @@ La firma electrónica es única e intransferible de la persona que la recibe, el
 
 ### CAPÍTULO V. DE LOS SELLOS ELECTRÓNICOS
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 62.
 
 Se entiende por sello electrónico a la superposición digital de una marca virtual que se realiza sobre la imagen digitalizada de los actos jurídicos que componen el acervo documental del Registro Público.
 
-Los sellos virtuales, acorde a su propia naturaleza afectan el estado jurídico de la inscripción y se considerarán válidos como medio de prueba cuando sean ratificados por el Registro Público, mediante certificación que realice el Director o el Delegado correspondiente.
+Los sellos virtuales, acorde a su propia naturaleza, afectan el estado jurídico de la inscripción y se considerarán válidos como medio de prueba cuando sean ratificados por el Registro Público, mediante certificación que realice el Director o el Delegado y/o Jefe de Departamento de Registro, Gravamen y Certificaciones correspondiente.
 
-## TÍTULO CUARTO. DE LAS SECCIONES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE AGOSTO DE 2012)</small>
 
-### CAPÍTULO I. DE LA CLASIFICACIÓN DE LAS SECCIONES
+## TÍTULO CUARTO. DE LOS ACTOS REGISTRALES
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE AGOSTO DE 2012)</small>
+
+### CAPÍTULO I. DE LA CLASIFICACIÓN DE LOS ACTOS REGISTRALES
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 63.
 
-El Registro Público se integrará atendiendo a la naturaleza y objeto de los actos jurídicos a clasificar, en las siguientes secciones:
+El Registro Público se integrará atendiendo a la naturaleza y objeto de los actos jurídicos a clasificar, en las siguientes:
 
-I. Sección Primera, denominada: Del registro de la propiedad o dominio de Inmuebles.
+I. Del registro de la propiedad o dominio de Inmuebles.
 
-II. Sección Segunda, denominada: Del registro de gravámenes y limitaciones.
+II. Del registro de gravámenes y limitaciones.
 
-III. Sección Tercera, denominada: Del registro de actos y contratos civiles.
+III. Del registro de actos y contratos civiles.
 
-IV. Sección Cuarta, denominada: Del registro de las Resoluciones Judiciales.
+IV. Del registro de las Resoluciones Judiciales.
 
-V. Sección Quinta, denominada: Del registro de los Actos de Comercio.
+V. Del registro de los Actos de Comercio.
 
-VI. Sección Sexta, denominada: De los planes de Desarrollo Urbano.
+VI. De los planes de Desarrollo Urbano.
 
-VII. Sección Séptima, denominada: Del registro y modificación de las Personas Morales.
+VII. Del registro y modificación de las Personas Morales.
 
-VIII. Sección Octava, denominada: Del registro de los Bienes Muebles.
+VIII. Del registro de los Bienes Muebles.
 
-IX. Sección Novena, denominada: Del registro de otros documentos inscribibles.
+IX. Del registro de otros documentos inscribibles.
 
-Para efectos del uso en el sistema informático SIREC, los actos jurídicos que se registren se referenciarán a la sección que les corresponda.
+Para efectos del uso en el sistema informático SIREC, los actos jurídicos que se registren se referenciarán al apartado que les corresponda.
 
-En el caso particular de la sección quinta, esta se efectuará de acuerdo a los lineamientos fijados por el Código de Comercio y este reglamento a través del Sistema Integral de Gestión Registral del Gobierno Federal.
+En el caso particular del registro de los actos de comercio, ésta se efectuará de acuerdo con los lineamientos fijados por el Código de Comercio y este reglamento, a través del Sistema Integral de Gestión Registral del Gobierno Federal.
 
-Lo referente a la sección de los créditos agrícolas, se estará a lo señalado en los convenios celebrados con el Registro Agrario Nacional o la Secretaría de la Reforma Agraria o en su defecto a la sección segunda, cuando contengan hipoteca sobre inmueble, y a la sección tercera cuando el bien entregado en garantía sea de prenda, excepto cuando sea de naturaleza mercantil, ya que, en ese caso, se inscribirá en la sección quinta.
+Lo referente al apartado de los créditos agrícolas, se estará a lo señalado en los convenios celebrados con el Registro Agrario Nacional o la Secretaría de la Reforma Agraria o, en su defecto, al apartado de gravámenes y limitaciones, cuando contengan hipoteca sobre inmueble, y al apartado de actos y contratos Civiles, cuando el bien entregado en garantía sea de prenda, excepto cuando sea de naturaleza mercantil, ya que, en ese caso, se inscribirá en el apartado de actos de comercio.
 
-### CAPÍTULO II. DE LA SECCIÓN PRIMERA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE AGOSTO DE 2012)</small>
+
+### CAPÍTULO II. DEL REGISTRO DE LA PROPIEDAD O DOMINIO DE INMUEBLES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 64.
 
-Corresponde por su clasificación a la Sección Primera, en apego al contenido del artículo 2983 del Código Civil los siguientes actos:
+Corresponde por su clasificación en apego al contenido del artículo 2983 del Código Civil, los siguientes actos:
 
 I. Los traslativos de dominio correspondientes a la venta, permuta, donación, cesión, dación en pago, subrogación o cualquier título mediante el cual se transmita, modifique, o extinga el dominio o la posesión sobre bienes inmuebles.
 
@@ -873,7 +953,9 @@ IX. Cualquier título que sea inscribible y que produzca los efectos mencionados
 
 X. En general, todos los títulos registrables sobre actos jurídicos de inmatriculación o que atribuyan o transfieran el dominio de un bien inmueble, siempre y cuando estos provengan de juicios, resoluciones judiciales o Administrativas.
 
-En todo acto traslativo de dominio en el que se encuentre involucrado un inmueble con una carga real perteneciente a la misma finca o inmueble, se referenciará ésta a la sección segunda y se incluirá en el mismo folio real electrónico que le corresponda.
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
+En todo acto traslativo de dominio en el que se encuentre involucrado un inmueble con una carga real perteneciente a la misma finca o inmueble, se inscribirá bajo el número progresivo que corresponda referenciándose al número de folio real del inmueble respectivo formando parte del historial del mismo.
 
 Por lo que hace a los fideicomisos traslativos de dominio, deberá presentarse en la oficina registral un primer testimonio y duplicado de la escritura respectiva, para los efectos de su inscripción, debiendo contener los requisitos intrínsecos y extrínsecos señalados en la Ley, en el presente Reglamento, en la Normatividad y los Principios Registrales.
 
@@ -925,9 +1007,11 @@ Si en el título no se relacionan los datos descritos en el párrafo anterior y 
 
 Cuando se divida o fraccione una finca señalada en el registro correspondiente, se inscribirá con número diferente de folio para la parte que se separa a favor del nuevo dueño, pero haciéndose breve mención de esta circunstancia en la carátula de marginales de la inscripción antigua y refiriéndose a la nueva.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 73.
 
-Cuando se fusionen dos fincas para formar una sola, se inscribirá esta con un nuevo número de folio haciéndose mención de ella en la carátula de marginales de cada una de las inscripciones anteriores, relativas al dominio de las fincas que se fusionen. En la nueva inscripción se hará también referencia de dichas inscripciones, así como de los gravámenes que las mismas fincas reunidas tuviesen con anterioridad. En tal caso se hará también referencia del nuevo número de folio en la sección segunda, de acuerdo al principio de tracto sucesivo.
+Cuando se fusionen dos fincas para formar una sola, se inscribirá esta con un nuevo número de folio haciéndose mención de ella en la carátula de marginales de cada una de las inscripciones anteriores, relativas al dominio de las fincas que se fusionen. En la nueva inscripción se hará también referencia de dichas inscripciones, así como de los gravámenes que las mismas fincas reunidas tuviesen con anterioridad. En tal caso se hará también referencia del nuevo número de folio en la inscripción del gravamen correspondiente, de acuerdo con el principio de tracto sucesivo.
 
 ###### Artículo 74.
 
@@ -975,9 +1059,11 @@ Inscrito en el Registro Público cualquier título de propiedad a favor de una p
 
 Respecto de las fincas no inscritas, puede inscribirse el título que se presente, siempre y cuando estos cumplan con lo estipulado por la ley.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 80.
 
-No se podrá inscribir ningún título de traslación de dominio de una finca, en que intervenga como parte un adjudicatario derivado de una sucesión, sin que estén previamente inscritos el testamento, el auto de radicación o el auto declaratorio de herederos y en el que se nombre albacea, ya sea éste provisional, ya definitivo. El incumplimiento a este supuesto afectará las inscripciones que correspondan a la sección cuarta.
+No se podrá inscribir ningún título de traslación de dominio de una finca, en que intervenga como parte un adjudicatario derivado de una sucesión, sin que estén previamente inscritos el testamento, la radicación ante notario público, el auto declaratorio de herederos que sea decretado por Juez competente y en el que se nombre albacea, ya sea éste provisional, ya definitivo. El incumplimiento a este supuesto afectará las inscripciones que correspondan Del registro de las Resoluciones Judiciales.
 
 ###### Artículo 81.
 
@@ -991,19 +1077,25 @@ Para asegurar tenga verificativo la inscripción de un acto jurídico, el notari
 
 La prohibición contenida en el artículo anterior, se entiende sin perjuicio de la facultad que, según la misma Ley, tengan los dueños de inmuebles o derechos reales para registrar los títulos que oportunamente no hubieren presentado; pero en las inscripciones de esta especie se hará mención de dicha circunstancia, antes de expresarse la conformidad de ellas con los documentos de su referencia.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 84.
 
-En la sección primera se coleccionarán con todo cuidado de forma digital, en orden riguroso de fechas, los contratos traslativos de dominio que se hayan celebrado, referenciándolos al folio que por su procedencia les corresponde, respetando en todo momento, lo señalado por el Código Civil.
+En lo referente al registro de la propiedad o dominio de inmuebles, se conservarán digitalmente y en orden riguroso de fechas, los contratos traslativos de dominio que se hayan celebrado, referenciándolos al folio que por su procedencia les corresponda en todo momento, respetando lo señalado por el Código Civil.
 
 ###### Artículo 85.
 
 Se elaborará a través del SIREC en la misma sección, un índice especial en que consten los nombres y apellidos de los contratantes, la ubicación y linderos del inmueble, valor de operación y fecha del acto y el día en que el instrumento traslativo de dominio hubiere sido presentado al Registrador.
 
-### CAPÍTULO III. DE LA SECCIÓN SEGUNDA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE AGOSTO DE 2012)</small>
+
+### CAPÍTULO III. DEL REGISTRO DE GRAVÁMENES Y LIMITACIONES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 86.
 
-Corresponden por su clasificación a la Sección Segunda:
+Corresponden por su clasificación:
 
 I. Las hipotecas de cualquier clase que sean constituidos legalmente, sea sobre bienes inmuebles o sobre derechos reales constituidos sobre ellos.
 
@@ -1049,7 +1141,9 @@ VII. La naturaleza del derecho real o de los predios hipotecarios, con la ubicac
 
 VIII. Tratándose de Hipotecas se seguirán las reglas establecidas por el Título Decimosexto del Código Civil.
 
-IX. Los antecedentes de inscripción o registro del bien inmueble del cual se pretende inscribir el gravamen.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2012)</small>
+
+IX. Los antecedentes de inscripción, folio real o registro del bien inmueble del cual se pretende inscribir el gravamen.
 
 ###### Artículo 89.
 
@@ -1059,13 +1153,17 @@ El acreedor que pretenda registrar su hipoteca, presentará en ventanilla el tí
 
 No podrá inscribirse en el Registro Público ninguna escritura o acto que carezca de alguno o algunos de los requisitos establecidos en este reglamento o aquellos señalados por la Ley, la Normatividad y los Principios Registrales. El funcionario con funciones de Registrador la devolverá expresando los fundamentos y el motivo por el que no se realiza.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 91.
 
-Todas las anotaciones del Registro Público en esta Sección, se capturarán en la carátula respectiva, numeradas en el orden correspondiente y de acuerdo a su prelación.
+Todas las anotaciones del Registro Público en este apartado, se capturarán en la carátula respectiva, numeradas en el orden correspondiente y de acuerdo con su prelación.
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 92.
 
-Siempre que se inscriba, en cualquier concepto que sea, algún derecho constituido anteriormente sobre un inmueble, se expresará la fecha de su constitución, el nombre del constituyente y los gravámenes especiales con que se hubiese constituido, si fuesen de naturaleza real, referenciándose en la sección que corresponda.
+Siempre que se inscriba, en cualquier concepto que sea, algún derecho constituido anteriormente sobre un inmueble, se expresará la fecha de su constitución, el nombre del constituyente y los gravámenes especiales con que se hubiese constituido, si fuesen de naturaleza real, referenciándose a la inscripción que corresponda.
 
 ###### Artículo 93.
 
@@ -1083,9 +1181,11 @@ Tratándose de cesiones sobre cualquier derecho inscrito, se deberá inscribir l
 
 Subrogado el cesionario en lugar del cedente, la inscripción de éste surtirá respecto al otro, todos sus efectos desde su fecha.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 97.
 
-Las inscripciones hipotecarias una vez capturadas y señaladas en la sección segunda, deberán hacer referencia hacia la carátula del inmueble ubicada en la sección primera, o de la propiedad, en la finca correspondiente y bajo su folio respectivo, con el número que le corresponda en la misma.
+Las inscripciones hipotecarias inscritas en el apartado de gravámenes y limitaciones, deberán hacer referencia hacia la carátula del inmueble ubicada en el apartado de la propiedad o dominio de Inmuebles, en la finca correspondiente y bajo su folio respectivo, con el número de registro que le corresponda.
 
 ###### Artículo 98.
 
@@ -1101,23 +1201,31 @@ Las inscripciones de embargo sólo se llevarán a efecto cuando el predio embarg
 
 Si a pesar de ello, la autoridad mencionada insiste en el registro, se hará éste, insertándose en la inscripción el oficio en que se ordene, archivándose el original en donde corresponda sin responsabilidad del Registrador.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 101.
 
-Las inscripciones de embargo se harán en la carátula de gravámenes de la sección, digitalizando el acta levantada por la autoridad ejecutante y haciendo la captura de la anotación marginal correspondiente al inmueble afectado referenciándolo a la sección que corresponda.
+Las inscripciones de embargo se harán en la carátula de gravámenes de la sección, digitalizando el acta levantada por la autoridad ejecutante y haciendo la captura de la anotación marginal correspondiente al inmueble afectado, referenciándolo al apartado que corresponda.
 
-### CAPÍTULO IV. DE LA SECCIÓN TERCERA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE AGOSTO DE 2012)</small>
+
+### CAPÍTULO IV. DEL REGISTRO DE ACTOS Y CONTRATOS CIVILES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 102.
 
-Corresponden por su clasificación a la Sección Tercera:
+Corresponden de acuerdo con esta clasificación:
 
 I. Los arrendamientos.
 
 II. Los Comodatos.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 103.
 
-Las inscripciones de arrendamiento no podrán ser efectuadas si la propiedad no se encuentra previamente inscrita en la sección primera o en la sección cuarta señalada en este reglamento y en su respectiva jurisdicción del Registro Público.
+Las inscripciones de arrendamiento no podrán ser efectuadas si la propiedad no se encuentra previamente inscrita en el apartado correspondiente del registro de la propiedad o dominio de Inmuebles o en el apartado del registro de las Resoluciones Judiciales, señaladas en este reglamento y en su respectiva jurisdicción del Registro Público.
 
 ###### Artículo 104.
 
@@ -1135,11 +1243,15 @@ En caso de novación de arrendamiento o prórroga, no se hará inscripción en f
 
 En caso de las inscripciones del comodato, se seguirán las mismas reglas que en el arrendamiento.
 
-### CAPÍTULO V. DE LA SECCIÓN CUARTA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE AGOSTO DE 2012)</small>
+
+### CAPÍTULO V. DEL REGISTRO DE LAS RESOLUCIONES JUDICIALES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 108.
 
-Corresponden, de acuerdo a su clasificación, en la Sección Cuarta las inscripciones relativas a:
+Corresponden, de acuerdo con su clasificación, las inscripciones relativas a:
 
 I. Testamentos que transfieran la propiedad de bienes inmuebles o derechos reales después de la muerte del autor de la herencia.
 
@@ -1171,17 +1283,23 @@ XIV. Los decretos o acuerdos expropiatorios publicados en los periódicos oficia
 
 Para el caso de la fracción XIV, se deberá acompañar el documento que contenga el decreto, así como el oficio girado por la autoridad correspondiente y se relacionará al folio que por su naturaleza le corresponda.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 109.
 
-Cuando se trate de la inscripción de cédulas hipotecarias provenientes de mandamiento judicial, deberán exigirse las copias certificadas de la providencia por duplicado; el auto que ordena la inscripción será guardado, la cédula digitalizada y la inscripción realizada en esta sección y ligada a la sección segunda, respetando el contenido del artículo 455 del Código de Procedimientos Civiles para el Estado de Chiapas.
+Cuando se trate de la inscripción de cédulas hipotecarias provenientes de mandamiento judicial, deberán exigirse las copias certificadas de la providencia por duplicado; el auto que ordena la inscripción será guardado, la cédula digitalizada y la inscripción realizada en este apartado y ligada al apartado del registro de gravámenes y limitaciones, respetando el contenido del artículo 455 del Código de Procedimientos Civiles para el Estado de Chiapas.
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 110.
 
-Las inscripciones a que se refiere el artículo anterior se harán en la carátula de "marginal" referenciada a la propiedad de la finca afectada, insertando íntegra la parte específica resolutiva de la sentencia y refiriéndose a las copias certificadas, con las que se hará lo que previene el artículo precedente.
+Las inscripciones preventivas a que se refiere el artículo anterior, se harán en la carátula de “marginal” referenciada a la propiedad de la finca afectada, insertando íntegra la parte específica resolutiva de la sentencia y refiriéndose a las copias certificadas, con las que se hará lo que previene el artículo precedente.
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 111.
 
-Cuando se ordene la inscripción de un secuestro o intervención de finca inscrita en la sección primera y/o la cuarta, a favor de persona distinta de la que se motiva el acto, la inscripción no se verificará; el funcionario con atribuciones de Registrador o el Delegado, devolverá las copias certificadas con el oficio explicativo, expresando esa circunstancia. La inscripción no se verificará sino hasta que la propiedad se inscriba a favor de la persona que la motiva y se anote al margen la inscripción anterior, o cuando el Juez insista en que aunque la finca esté a favor de otra persona, deban subsistir el secuestro o intervención decretada.
+Cuando se ordene la inscripción de un secuestro o intervención de finca inscrita en el apartado del registro de la propiedad o dominio de Inmuebles y/o en del registro de las Resoluciones Judiciales, a favor de persona distinta de la que se motiva el acto, la inscripción no se verificará; el funcionario con atribuciones de Registrador o el Delegado y/o Jefe de Departamento de Registro, Gravamen y Certificaciones, devolverá las copias certificadas con el oficio explicativo, expresando esa circunstancia. La inscripción no se verificará sino hasta que la propiedad se inscriba a favor de la persona que la motiva y se anote al margen la inscripción anterior, o cuando el Juez insista en que aunque la finca esté a favor de otra persona, deban subsistir el secuestro o intervención decretada.
 
 De verificarse este supuesto, el funcionario que conozca de estos hechos lo hará del conocimiento al Director y al Jefe del Departamento Jurídico, si así se lo requirieren, para su conocimiento remitiendo copia de su determinación.
 
@@ -1197,19 +1315,27 @@ Cuando en alguna sucesión testamentaria o concurso se adjudiquen bienes inmuebl
 
 Las cesiones de derechos hereditarios en abstracto y en concreto, así como la cesión de derechos litigiosos se inscribirán en la presente sección, haciéndose referencia de esta en la inscripción capturándose en la carátula de anotación marginal que les corresponda, referenciadas al auto declaratorio de herederos, del testamento o radicación en su caso.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 115.
 
-Las cesiones de derechos hereditarios en concreto, refiriéndose a determinada propiedad o derecho real, se capturarán mediante anotación en la carátula marginal correspondiente, referenciando al testamento en que se aplicó dicha propiedad o derecho real, sin perjuicio de la inscripción definitiva que se debe hacer en la sección que corresponda, en su caso, conforme a las reglas generales de traslación de dominio del inmueble o derecho.
+Las cesiones de derechos hereditarios en concreto, refiriéndose a determinada propiedad o derecho real, se capturarán mediante anotación en la carátula marginal correspondiente, ref ciando (sic) al testamento en que se aplicó dicha propiedad o derecho real, sin perjuicio de la inscripción definitiva que se debe hacer en el apartado que corresponda, en su caso, conforme a las reglas generales de traslación de dominio del inmueble o derecho.
 
-### CAPÍTULO VI. DE LA SECCIÓN QUINTA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE AGOSTO DE 2012)</small>
+
+### CAPÍTULO VI. DEL REGISTRO DE LOS ACTOS DE COMERCIO
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 116.
 
-Esta Sección se regirá por el contenido del Capítulo Segundo del Código de Comercio y de este Reglamento, así como por los convenios celebrados entre el Estado de Chiapas y la Federación.
+Los actos de comercio se regirán por el contenido del Capítulo Segundo del Código de Comercio y de este Reglamento, así como por los convenios celebrados entre el Estado de Chiapas y la Federación.
 
 Todos los actos de comercio susceptibles a inscripción se efectuarán bajo el Sistema Integral de Gestión Registral del Gobierno Federal.
 
-### CAPÍTULO VII. DE LA SECCIÓN SEXTA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE AGOSTO DE 2012)</small>
+
+### CAPÍTULO VII. DE LOS PLANES DE DESARROLLO URBANO
 
 ###### Artículo 117.
 
@@ -1219,29 +1345,37 @@ Se inscribirán en el Registro Público, todos aquellos documentos relacionados 
 
 Las inscripciones que deban efectuarse por disposición de las leyes, reglamentos y decretos que regulen el desarrollo urbano, se sujetarán a lo establecido en la Ley de Desarrollo Urbano y en lo que corresponda, a lo preceptuado en el presente reglamento y en las demás disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 119.
 
-Se practicarán en la sección relativa al registro de documentos relacionados con el desarrollo urbano, todas aquellas inscripciones de programas, autorizaciones y demás documentos que por virtud de leyes, reglamentos o decretos que regulen el desarrollo urbano deban ser objeto de publicidad registral.
+Se practicarán en el apartado relativo al registro de documentos relacionados con el desarrollo urbano, todas aquellas inscripciones de programas, autorizaciones y demás documentos que por virtud de leyes, reglamentos o decretos que regulen el desarrollo urbano deban ser objeto de publicidad registral.
 
 ###### Artículo 120.
 
 La inscripción deberá efectuarse a petición escrita de las autoridades estatales o municipales correspondientes, acompañadas del original y duplicado del documento respectivo y archivos digitales, en su caso, con los anexos gráficos y estadísticos correspondientes, el documento original será devuelto a la autoridad solicitante, debiendo quedar en el archivo de la oficina registral los demás documentos respaldando la inscripción efectuada.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 121.
 
-Siempre que los documentos inscritos en la sección relativa al registro de documentos relacionados con el desarrollo urbano, se relacionen con otras inscripciones de la misma o de diversas secciones, a las cuales haga referencia, el Registrador deberá cerciorarse de que se hagan en dichas inscripciones, las anotaciones marginales correspondientes.
+Siempre que los documentos inscritos en el apartado relativo al registro de documentos relacionados con el desarrollo urbano, se relacionen con otras inscripciones de la misma o de diversas secciones, a las cuales haga referencia, el Registrador deberá cerciorarse de que se hagan en dichas inscripciones las anotaciones marginales correspondientes.
 
-### CAPÍTULO VIII. DE LA SECCIÓN SÉPTIMA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE AGOSTO DE 2012)</small>
+
+### CAPÍTULO VIII. DEL REGISTRO Y MODIFICACIÓN DE PERSONAS MORALES
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 122.
 
-Se entenderá como Folio Electrónico de Personas Morales al archivo digital que contiene diversos actos pertenecientes a una misma persona colectiva de las señaladas en las fracciones III, V y VI del artículo 23 del Código Civil, exceptuando las que por su naturaleza mercantil correspondan a la Sección Quinta.
+Se entenderá como Folio Electrónico de Personas Morales, al archivo digital que contiene diversos actos pertenecientes a una misma persona moral de las señaladas en las fracciones III, V y VI del artículo 23 del Código Civil, exceptuando las que por su naturaleza mercantil correspondan al apartado de actos de comercio.
 
-Asimismo, se procederá en esta Sección con lo ordenado por los artículos 2709 a 2711 del Código Civil.
+Asimismo, se procederá en este apartado con lo ordenado por los artículos 2709 a 2711 del Código Civil.
 
-Este folio será único e irrepetible para cada persona y en él se contendrán, señalizados los actos que le sean relacionados.
+Este folio será único e irrepetible para cada persona y en él se contendrán señalizados los actos que le sean relacionados.
 
-El folio de Personas Morales se integrará por tres secciones, regulándose en su aplicación por el contenido del presente Reglamento.
+El folio de Personas Morales se integrará por tres apartados, regulándose en su aplicación por el contenido del presente Reglamento.
 
 ###### Artículo 123.
 
@@ -1253,9 +1387,11 @@ II. Los instrumentos que contengan la protocolización de los estatutos de las a
 
 III. Las fundaciones y asociaciones de beneficencia pública o privada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 124.
 
-El Folio de las Personas Morales se integrará de las siguientes Secciones:
+El Folio de las Personas Morales se integrará de los siguientes apartados:
 
 I. Una carátula que contendrá los datos generales de la persona moral.
 
@@ -1289,15 +1425,21 @@ IX. Normas para su disolución y liquidación.
 
 X. Los demás datos que deban contener, conforme a las disposiciones jurídicas que las rijan derivado del contenido del reglamento respectivo y demás ordenamientos aplicables.
 
-Los documentos que se inscriban en la sección relativa al registro de Personas Morales deberán contener los requisitos que se señalan en el presente artículo.
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
+Los documentos que se inscriban en el apartado relativo al registro de Personas Morales deberán contener los requisitos que se señalan en el presente artículo.
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 126.
 
-Las inscripciones de la sección relativa al registro de Personas Morales, sólo se practicarán cuando la Persona Moral de que se trate, tenga su domicilio fiscal en la demarcación territorial que corresponda a la oficina ante la cual se solicite la inscripción.
+Las inscripciones del apartado relativo al registro de Personas Morales, sólo se practicarán cuando la Persona Moral de que se trate tenga su domicilio fiscal en la demarcación territorial que corresponda a la oficina ante la cual se solicite la inscripción.
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 127.
 
-En los documentos relativos a la constitución de fundaciones o asociaciones de beneficencia privada o pública, presentados para su inscripción en la sección relativa al registro de Personas Morales, además de los datos consignados en el presente artículo, se hará mención del o de los documentos con los cuales se acredite el cumplimiento de las disposiciones de las leyes que rijan tales instituciones, para su legal funcionamiento.
+En los documentos relativos a la constitución de fundaciones o asociaciones de beneficencia privada o pública, presentados para su inscripción en el apartado relativo al registro de Personas Morales, además de los datos consignados en el presente artículo, se hará mención del o de los documentos con los cuales se acredite el cumplimiento de las disposiciones de las leyes que rijan tales instituciones, para su legal funcionamiento.
 
 ###### Artículo 128.
 
@@ -1311,31 +1453,43 @@ Para inscribir la protocolización de los estatutos y de sus reformas de alguna 
 
 Para los casos no previstos en este Capítulo, serán aplicables a los asientos a que el mismo se refiere, las demás disposiciones contempladas en este Reglamento, tomando como referencia lo ordenado por el Título Décimo Primero del Código Civil y demás disposiciones de orden público aplicables.
 
-### CAPÍTULO IX. DE LA SECCIÓN OCTAVA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE AGOSTO DE 2012)</small>
+
+### CAPÍTULO IX. DEL REGISTRO DE LOS BIENES MUEBLES
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 131.
 
-Los documentos que se inscriban en la sección relativa al registro mobiliario, deberán contener los datos que se indican en el capítulo II, artículos 741 a 752 del Código Civil y documentos con los que legalmente se acredita la propiedad.
+Los documentos que se inscriban en el apartado relativo al registro mobiliario, deberán contener los datos que se indican en el capítulo II, artículos 741 a 752 del Código Civil y documentos con los que legalmente se acredita la propiedad.
 
-Se exceptúa de esta inscripción lo referente a los Derechos de Autor por estar estos contemplados en una ley de carácter federal.
+Se exceptúa de esta inscripción lo referente a los Derechos de Autor por estar estos contemplados en una Ley de carácter federal.
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 132.
 
-Inscrita una operación en la sección relativa al registro mobiliario bajo el numero de folio que corresponda, al calce del documento respectivo, el Registrador emitirá constancia de los datos de la inscripción, indicando la operación efectuada con el bien a que la misma se refiere.
+Inscrita una operación en el apartado relativo al registro mobiliario bajo el número de folio que corresponda, al calce del documento respectivo, el Registrador emitirá constancia de los datos de la inscripción, indicando la operación efectuada con el bien a que la misma se refiere.
 
 En el caso de que la operación a registrar no comprenda la totalidad de los bienes que ampara la factura, se acompañarán tres copias fotostáticas certificadas, procediendo a realizarse la anotación a que se refiere el párrafo anterior. El original de la factura estará destinado al vendedor o acreedor, según sea el caso, y la copia, al comprador o garante y la última, se agregará al archivo bajo el número de folio que corresponda.
 
-### CAPÍTULO X. DE LA SECCIÓN NOVENA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE AGOSTO DE 2012)</small>
+
+### CAPÍTULO X. DEL REGISTRO DE LOS BIENES INSCRIBIBLES
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 133.
 
-Para efectos de economía registral, los funcionarios con facultades de Registrador podrán inscribir documentos de los permitidos por la Ley pero que no sean susceptibles de ser registrados en otras secciones. No podrán inscribirse en esta sección documentos de carácter privado, a excepción de aquellos documentos privados previamente ratificados en su firma y contenido ante fedatario público de los permitidos por la Ley y que de acuerdo a su naturaleza y ley específica en la materia, cuando así lo requiera.
+Para efectos de economía registral, los funcionarios con facultades de Registrador podrán inscribir documentos de los permitidos por la normatividad. No podrán inscribirse en este apartado documentos de carácter privado, a excepción de aquellos documentos privados previamente ratificados en su firma y contenido ante fedatario público de los permitidos por la normatividad y de acuerdo con su naturaleza jurídica, cuando así lo requiera.
 
-Los actos que se inscriban en esta sección, generarán folio cuando por su naturaleza así lo requieran; los actos que se inscriban en esta sección y que estén ligados a otros actos que contengan folio, se referenciarán a ellos para su correlación.
+Los actos que se inscriban en este apartado generarán folio cuando por su naturaleza así lo requieran; de igual forma aquellos actos inscribibles en este apartado y que estén relacionados a otros actos que contengan el mismo folio, se referenciarán a ellos para su correlación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 134.
 
-Son sujetos de inscripción en esta sección:
+Son sujetos de inscripción en este apartado:
 
 a) El depósito de los testamentos ológrafos, que para este efecto se efectuarán físicamente.
 
@@ -1429,7 +1583,9 @@ III. Los nombramientos judiciales de representantes ausentes y las sentencias qu
 
 IV. Las resoluciones en que se declare un concurso o se admita una cesión de bienes, si hay muebles o inmuebles inscritos en la institución registral.
 
-V. Las cédulas hipotecarias, los secuestros, embargos y sus reinscripciones.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2012)</small>
+
+V. Las cédulas hipotecarias, secuestros y embargos.
 
 VI. Toda hipoteca necesaria o que deba inscribirse, entretanto se perfecciona el título o los antecedentes de la misma.
 
@@ -1464,6 +1620,10 @@ VII. Las cesiones de derechos hereditarios en concreto y en abstracto.
 VIII. El escrito del usuario en el que obre razón de haber sido presentado ante la autoridad judicial, administrativa o del fuero local o federal, según proceda, los recursos procesales previstos en la ley de la materia, debido a la negativa de inscripción o de cancelación, solicitado a la autoridad registral a fin de prolongar los efectos de la anotación marginal preventiva de preferencia ordenada por el artículo 2986 del Código Civil.
 
 IX. El acuerdo en que se impugne alguna inscripción hecha en el Registro Público ordenada por la autoridad competente.
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2012)</small>
+
+X. Los refrendos de cédulas hipotecarias, los secuestros y embargos.
 
 ###### Artículo 151.
 
@@ -1511,9 +1671,11 @@ El asiento de una inscripción preventiva, deberá contener: la descripción del
 
 La anotación marginal de un secuestro, intervención de bienes muebles o inmuebles o sociedades inscritas, a favor de persona distinta de la que motivó el acto, no se verificará sino hasta que el bien mueble o inmueble inscrito, se inscriba a favor de la persona que la motive, o tratándose de sociedad, hasta en tanto esta corresponda con la que obre inscrita, devolviéndose entre tanto el oficio correspondiente, fundando y motivando la causa de dicho acto, y cuando la autoridad insista en que, aunque el bien mueble o inmueble o la sociedad no corresponda, debe subsistir la providencia decretada, esta se practicará por el Registrador, sin responsabilidad para éste, bajo la absoluta responsabilidad de quien lo ordenó.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 157.
 
-Siempre que ante un tribunal se promueva la nulidad o cancelación de una inscripción, inscripción preventiva o anotación marginal, el juez ante quien se haya solicitado lo participará al funcionario con atribuciones de Registrador, que recibirá el mandamiento para que se realice la captura en el sistema informático SIREC y sobre la carátula marginal que le corresponda de forma preventiva, precisando el reclamo de la nulidad o cancelación requerido en la carátula respectiva.
+Siempre que ante un tribunal se promueva la nulidad o cancelación de una inscripción preventiva o anotación marginal, el juez ante quien se haya solicitado lo participará al funcionario con atribuciones de Registrador, que recibirá el mandamiento para que se realice la captura en el sistema informático SIREC y sobre la carátula marginal que le corresponda de forma preventiva, precisando el reclamo de la nulidad o cancelación requerido en la carátula.
 
 ### CAPÍTULO II. DE LA EXTINCIÓN Y CANCELACIÓN DE ASIENTOS
 
@@ -1529,11 +1691,15 @@ Las inscripciones preventivas y las anotaciones marginales preventivas una vez a
 
 Las anotaciones marginales definitivas una vez asentadas, producen los mismos efectos que las inscripciones definitivas, formando parte integrante de estas.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 160.
 
-Las anotaciones e inscripciones preventivas se considerarán como válidas durante el tiempo que la ley concede para hacer la inscripción definitiva y, cuando no señale este término, durante 3 años. Si al cabo de este tiempo no se han llenado las formalidades o requisitos necesarios para hacer la inscripción definitiva, automáticamente se considerará ésta sin efecto, retrotrayéndose su anulación a la fecha misma en que se hubiere asentado, tal y como si no hubiere existido y dando por lo mismo, la preferencia a cualquier otro derecho, quedando exceptuados en este supuesto aquellas, referentes al otorgamiento o cancelación de créditos y gravámenes que deberán efectuarse por resolución judicial. El Registrador deberá cancelar estas inscripciones caducas por solicitud de cualquier interesado y sin necesidad de orden judicial.
+Las anotaciones e inscripciones preventivas se considerarán como válidas durante el tiempo que el Código Civil y el presente Reglamento conceden para hacer la inscripción definitiva y, cuando no señale este término, durante 3 años. Si al cabo de este tiempo no se han llenado las formalidades o requisitos necesarios para hacer la inscripción definitiva o no se ha refrendado la inscripción o anotación preventiva, automáticamente se considerará ésta sin efecto, retrotrayéndose su anulación a la fecha misma en que se hubiere asentado, tal y como si no hubiere existido y dando por lo mismo, la preferencia a cualquier otro derecho, a petición de parte interesada, podrá el Registrador cancelar dichas inscripciones preventivas o anotaciones marginales preventivas caducas.
 
-Si la inscripción definitiva se hiciere con oportunidad, sus efectos continuaran los de las inscripciones preventivas o anotaciones marginales, teniéndose el derecho por inscrito desde la fecha de la preventiva.
+Quedan exceptuadas de este supuesto, aquellas referentes a la inscripción de embargos, cédulas hipotecarias, y de créditos, así como las relativas a fianzas, hipotecas necesarias e intervenciones, las que deberán efectuarse por resolución judicial o por la institución correspondiente.
+
+Si la inscripción definitiva se hiciere con oportunidad, sus efectos continuarán vigentes a partir de que se haya realizado la inscripción preventiva o anotaciones marginales, teniéndose el derecho a partir de la fecha en que esta se realizó.
 
 ###### Artículo 161.
 
@@ -1613,17 +1779,21 @@ Las cancelaciones se harán en la forma que fije este reglamento; pero deberán 
 
 En los asientos de cancelación, se identificará plenamente la inscripción o anotación que se cancela y se precisarán las causas de la cancelación, el documento en virtud del cual se practique, la circunstancia de ser total o parcial y la fecha de la misma.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 173.
 
-Recibida la solicitud, o en su caso, orden de autoridad competente, acompañada de los documentos correspondientes, para que se lleve a cabo la cancelación de alguna inscripción o anotación, el Delegado resolverá lo conducente dentro del término de cinco días hábiles. Si se trata de orden de autoridad competente, el funcionario con atribuciones de Registrador, notificará la resolución mediante oficio girado a la autoridad ordenadora y en los demás casos, a través del tablero de avisos de la oficina.
+Recibida la solicitud, o en su caso, orden de autoridad competente, acompañada de los documentos correspondientes, para que se lleve a cabo la cancelación de alguna inscripción o anotación, el Delegado y/o Jefe del Departamento de Registro, Gravamen y Certificaciones resolverá lo conducente dentro del término de cinco días hábiles. Si se trata de orden de autoridad competente, el funcionario con atribuciones de Registrador notificará la resolución mediante oficio girado a la autoridad ordenadora y en los demás casos, a través del tablero de avisos de la oficina.
 
 ###### Artículo 174.
 
 De ser procedente la cancelación, de inmediato se efectuarán los asientos correspondientes a la misma, y se cancelarán de oficio las anotaciones que se hubieren realizado en virtud de la inscripción o anotación cancelada.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 175.
 
-Las inscripciones o anotaciones que se hubieren efectuado por mandato de autoridad, sólo se cancelarán en virtud de orden por escrito de autoridad competente.
+Las inscripciones o anotaciones a que se refiere la excepción establecida en el artículo 160 de este ordenamiento, y que se hubieren efectuado por mandato de autoridad, sólo se cancelarán en virtud de orden por escrito de autoridad competente.
 
 ###### Artículo 176.
 
@@ -1701,9 +1871,11 @@ Toda resolución que tenga como resultado el inicio de un proceso administrativo
 
 Toda queja deberá contener los datos necesarios para corroborarla, el Director y el Jefe del Departamento Jurídico, bajo su estricta responsabilidad salvaguardarán la identidad del quejoso.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 185.
 
-Las quejas que se presenten en contra del Director, las Jefaturas de Departamento, la Delegación Administrativa y los Delegados, serán presentadas ante el Instituto.
+Las quejas que se presenten en contra del Director, las Jefaturas de Departamento, la Delegación Administrativa y los Delegados y/o Jefe del Departamento de Registro, Gravamen y Certificaciones, serán presentadas ante el Instituto.
 
 ## TÍTULO SÉPTIMO. MEDIOS DE IMPUGNACIÓN
 
@@ -1753,9 +1925,11 @@ Se tendrá por no interpuesto el recurso de reconsideración cuando no se ofrezc
 
 Una vez recibido el escrito de reconsideración por parte del Director deberá emitir el acuerdo en el que se admita o se denegue el recurso, cuando exista alguna causal para ello, debiéndose fundar y motivar debidamente el mismo. Si el recurso fuese admitido, se ordenará turnar las actuaciones al Consejero Jurídico del Gobernador para resolver lo conducente.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 191.
 
-Contra las resoluciones que den por terminado el procedimiento registral o contra los actos que resuelvan el rechazo del trámite, el presunto afectado, sin necesidad de agotar el principio de definitividad, podrá proceder a la interposición de los recursos que se señalan en la Ley de Procedimientos Administrativos para el Estado de Chiapas o invocar el juicio de Amparo.
+Contra las resoluciones que den por terminado el procedimiento registral o contra los actos que resuelvan el rechazo del trámite, el afectado, sin necesidad deberá de agotar los recursos ordinarios que señala la Ley de Procedimientos Administrativos para el Estado de Chiapas.
 
 T R A N S I T O R I O S
 
@@ -1772,3 +1946,17 @@ Artículo Quinto.- En términos de lo dispuesto por el artículo 8°, de la Ley 
 Dado en Palacio de Gobierno, residencia oficial del Poder Ejecutivo del Estado; Tuxtla Gutiérrez, Chiapas; a los 27 días del mes de septiembre de 2010.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Carlos Octavio Castellanos Mijares, Consejero Jurídico del Gobernador.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE AGOSTO DE 2012.
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan las disposiciones de igual o menor jerarquía que el presente Decreto y se opongan al contenido del mismo.
+
+Artículo Tercero.- Lo no previsto en el presente Reglamento, se atenderá conforme a las disposiciones previstas en el Código Civil para el Estado de Chiapas, Ley del Notariado del Estado de Chiapas y las demás normas aplicables.
+
+Artículo Cuarto.- La Dirección del Registro Público de la Propiedad y del Comercio en un término de 45 días hábiles, someterá a consideración del Consejero Jurídico del Gobernador, para su expedición los Lineamientos que establecen los requisitos extrínsecos e intrínsecos y de fondo, para la recepción y calificación de los trámites presentados por los usuarios.
+
+Artículo Quinto.- En cumplimiento a lo dispuesto por el artículo 8 de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente reglamento en el Periódico Oficial.
