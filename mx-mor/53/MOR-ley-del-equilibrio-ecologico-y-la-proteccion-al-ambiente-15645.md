@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-15645"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-22"
-last_updated: "2007-12-05"
+last_updated: "2012-08-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # LEY DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE DEL ESTADO DE MORELOS
 
-LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE MORELOS.
+LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2012.
 
 Ley publicada en el Periódico Oficial Sección Segunda, el miércoles 22 de diciembre de 1999.
 
@@ -161,7 +161,9 @@ XIV. Control: Inspección, vigilancia y aplicación de las medidas necesarias pa
 
 XV. Criterios ecológicos: Los lineamientos contenidos en la presente Ley, para orientar las acciones de preservación y restauración del equilibrio ecológico, el aprovechamiento sustentable de los recursos naturales y la protección al ambiente, que tendrán el carácter de instrumentos de la política ambiental;
 
-XVI. Cultura ecológica: Conjunto de conocimientos hábitos y actitudes que mueven a una sociedad a actuar en armonía con la naturaleza, transmitidos a través de generaciones o adquiridos por medio de la educación ambiental;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2012)</small>
+
+XVI. Cultura ecológica: Conjunto de conocimientos hábitos y actitudes que mueven a una sociedad a actuar en armonía con la naturaleza, transmitidos a través de generaciones o adquiridos por medio de la educación ambiental impartida en las instituciones educativas del Estado;
 
 XVII. Desarrollo sustentable: El proceso evaluable mediante criterios e indicadores de carácter ambiental, económico y social que tiende a mejorar la calidad de vida y busca la justicia social, que se funda en medidas apropiadas de preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras.
 
@@ -171,7 +173,9 @@ XIX. Disposición final: Acción de depositar permanentemente los residuos sóli
 
 XX. Ecosistema: La unidad funcional básica de interacción de los organismos vivos entre sí y de estos con el medio físico en un espacio y tiempo determinado en función del equilibrio en el intercambio de materia y de energía;
 
-XXI. Educación ambiental: Proceso sistematizado de aprendizaje mediante el cual cualquier individuo adquiere conciencia de ser parte integrante de la naturaleza para actuar positivamente hacia ella;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2012)</small>
+
+XXI. Educación Ambiental: Proceso de formación dirigido a toda la sociedad, tanto en el ámbito escolar como en el ámbito extraescolar, para facilitar la percepción integrada del ambiente a fin de lograr conductas más racionales a favor del desarrollo social y del ambiente. La educación ambiental comprende la asimilación de conocimientos, la formación de valores, el desarrollo de competencias y conductas con el propósito de garantizar la preservación de la vida.
 
 XXII. Equilibrio ecológico: La relación de interdependencia entre los elementos que conforman el ambiente a nivel de intercambio de energía y de materia que hace posible la existencia y desarrollo de los seres vivos;
 
@@ -339,7 +343,9 @@ VI. La aplicación de las disposiciones jurídicas en materia de prevención y c
 
 VII. La prevención y control de la contaminación de las aguas federales que se tengan asignadas o concesionadas para la prestación de servicios públicos y de las que se descarguen en los sistemas de drenaje y alcantarillado de los centros de población, con la participación que conforme a la presente Ley corresponda al Estado de Morelos;
 
-VIII. La verificación del cumplimiento de las Normas Oficiales Mexicanas que se expidan para el vertimiento de aguas residuales en los sistemas de drenaje y alcantarillado;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2012)</small>
+
+VIII. La verificación del cumplimiento de las Normas Oficiales Mexicanas que se expidan para el vertimiento de aguas residuales en los sistemas de drenaje y alcantarillado de los centros de población y de las instituciones educativas del Estado;
 
 IX. El dictamen de las solicitudes de autorización para descargar aguas residuales en los sistemas de drenaje y alcantarillado que administren y establecer condiciones particulares de descarga a dichos sistemas, salvo que se trate de aguas residuales generadas en bienes y zonas de jurisdicción federal;
 
@@ -468,6 +474,10 @@ XVIII. El control y la prevención de la contaminación ambiental, el adecuado a
 XIX. Es interés del Estado de Morelos que las actividades que se llevan a cabo dentro de su territorio, no afecten el equilibrio ecológico de otros estados o zona de jurisdicción federal;
 
 XX. Las autoridades competentes en igualdad de circunstancias ante los demás estados, promoverán la preservación y restauración del equilibrio de los ecosistemas regionales.
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2012)</small>
+
+XXI.- La educación ambiental constituye un medio para valorar la vida a través de acciones que tengan como finalidad la prevención del deterioro ambiental, preservación, restauración y el aprovechamiento sostenible de los ecosistemas y con ello evitar los desequilibrios ecológicos y daños ambientales.
 
 ###### ARTÍCULO 13.
 
@@ -665,7 +675,9 @@ La Secretaría, con la participación de las autoridades en educación, promover
 
 Los fines de la educación ambiental son relacionar los problemas ambientales con las preocupaciones locales y regionales del desarrollo estatal, incorporar el enfoque interdisciplinario y de coordinación a fin de promover la conservación y el uso adecuado de los recursos naturales.
 
-Las autoridades educativas estatales y federales con la colaboración de la Secretaría y en consulta con diversos sectores de la comunidad, procederán a revisar y hacer propuestas en los planes de estudio de los niveles escolares de preescolar, primaria y secundaria a fin de incorporar, en la forma más amplia posible, los objetivos previstos en la fracción anterior.
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
+Las autoridades educativas estatales y federales con la colaboración de la Secretaría y en consulta con diversos sectores de la comunidad, procederán a revisar y hacer propuestas en los planes de estudio de los niveles escolares de preescolar, primaria y secundaria a fin de incorporar, en la forma más amplia posible, los objetivos previstos en el párrafo anterior, incluyendo aquellas actividades que en lo particular disponga la Ley de Residuos Sólidos para el Estado de Morelos.
 
 ###### ARTÍCULO 33.
 
@@ -673,9 +685,11 @@ El Gobierno Estatal y los Municipios fomentarán investigaciones científicas y 
 
 Además se apoyará la vinculación de estas instituciones y centros con los grupos organizados de los sectores social y privado a fin de que la investigación generada sea aplicada a necesidades concretas.
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
 ###### ARTÍCULO 34.
 
-Las medidas de protección del equilibrio ecológico y del ambiente que se instauren deben tener un componente de educación y de información a fin de que puedan ser utilizadas por la población.
+Las medidas de protección del equilibrio ecológico y del ambiente que se instauren deben tener un componente de educación y de información a fin de que puedan ser utilizadas y realizadas por la población y comunidad estudiantil.
 
 ###### ARTÍCULO 35.
 
@@ -899,9 +913,11 @@ En todo caso, deberán observarse las disposiciones legales relativas a la confi
 
 ### CAPÍTULO I. Promoción y organismos de participación social
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2012)</small>
+
 ###### ARTÍCULO 53.
 
-El Gobierno Estatal y los Municipios deberán promover la participación corresponsable de la sociedad en la planeación, ejecución, evaluación y vigilancia de la política ambiental, en los programas que tengan por objeto el aprovechamiento sustentable de los recursos naturales, la preservación del equilibrio ecológico y la protección al ambiente, así como en las acciones y medidas tendientes al desarrollo sustentable de la entidad.
+El Gobierno Estatal y los Municipios deberán promover la participación corresponsable de la sociedad y comunidad estudiantil en la planeación, ejecución, evaluación y vigilancia de la política ambiental, en los programas que tengan por objeto el aprovechamiento sustentable de los recursos naturales, la preservación del equilibrio ecológico y la protección al ambiente, así como en las acciones y medidas tendientes al desarrollo sustentable de la entidad.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
@@ -945,9 +961,11 @@ IV. El Presidente del Consejo Consultivo Estatal será electo por voto directo d
 
 V. El Consejo Consultivo Estatal regirá su funcionamiento de acuerdo a un reglamento interior que él mismo apruebe en un plazo no mayor a 90 días después de su formación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2012)</small>
+
 ###### ARTÍCULO 56.
 
-Para los efectos del artículo 53 de ésta Ley, la Secretaría en coordinación con los Gobiernos Municipales:
+Para los efectos del artículo 53 de ésta Ley, la Secretaría en Coordinación con los Gobiernos Municipales:
 
 I. Celebrará convenios de concertación con organizaciones obreras y grupos sociales para la protección del ambiente en los lugares de trabajo y unidades habitacionales; con pueblos indígenas, comunidades agrarias y demás organizaciones campesinas para el establecimiento, administración y manejo de áreas naturales protegidas, y para brindarles asesoría en materia ambiental en las actividades relacionadas con el aprovechamiento sustentable de los recursos naturales; con organizaciones empresariales, en los casos previstos en ésta Ley para la protección del ambiente; con instituciones educativas y académicas, para la realización de estudios e investigaciones en la materia; con organizaciones civiles e instituciones privadas no lucrativas, para emprender acciones ambientales conjuntas; así como con representaciones sociales y con particulares interesados en la preservación y restauración del equilibrio ecológico para la protección al ambiente;
 
@@ -955,7 +973,9 @@ II. Celebrará convenios con los medios de comunicación masiva para la difusió
 
 III. Promoverá el establecimiento de reconocimientos a los esfuerzos más destacados de la sociedad para preservar y restaurar el equilibrio ecológico y proteger el ambiente;
 
-IV. Impulsará el fortalecimiento de la conciencia ecológica y la educación ambiental, a través de la realización de acciones conjuntas con la comunidad para la preservación y mejoramiento del ambiente, el aprovechamiento racional de los recursos naturales y el correcto manejo de residuos. Para ello, la Secretaría podrá, en forma coordinada con los Municipios correspondientes, celebrar convenios de concertación con comunidades urbanas y rurales, así como con diversas organizaciones sociales; y
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2012)</small>
+
+IV. Impulsará el fortalecimiento de la conciencia ecológica y la educación ambiental, a través de la realización de acciones conjuntas con la comunidad para la preservación y mejoramiento del ambiente, el aprovechamiento racional de los recursos naturales y el correcto manejo y clasificación de residuos sólidos. Para ello, la Secretaría podrá, en forma coordinada con los Municipios correspondientes, celebrar convenios de concertación con comunidades urbanas y rurales, así como con diversas organizaciones sociales e instituciones educativas; y
 
 V. Concertará acciones e inversiones con los sectores social y privado y con instituciones académicas, grupos y organizaciones sociales, pueblos indígenas y demás personas físicas y morales interesadas para la preservación y restauración del equilibrio ecológico y la protección al ambiente.
 
@@ -1047,11 +1067,13 @@ VI. La regulación de las descargas de aguas residuales, de carácter municipal,
 
 VII. Las políticas y programas para la protección de especies acuáticas endémicas, amenazadas, en peligro de extinción o sujetas a protección especial; y (sic)
 
-VIII. El riego de áreas agrícolas y áreas verdes municipales e industriales;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2012)</small>
+
+VIII. El riego de áreas agrícolas y áreas verdes municipales, industriales y en instituciones educativas.
 
 > <small>(ADICIONADA, P.O. 24 DE MAYO DE 2006)</small>
 
-IX.- En proyectos y programas para el sector público, privado y social será obligatorio incorporar acciones que permitan la filtración del agua al subsuelo para la recarga de los mantos acuíferos; mediante los lineamientos y criterios que señala esta Ley y otros ordenamientos aplicables.
+IX. En proyectos y programas para el sector público, privado y social será obligatorio incorporar acciones que permitan la filtración del agua al subsuelo para la recarga de los mantos acuíferos; mediante los lineamientos y criterios que señala esta Ley y otros ordenamientos aplicables.
 
 ###### ARTÍCULO 65.
 
@@ -2602,3 +2624,9 @@ P.O. 5 DE DICIEMBRE DE 2007.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" Órgano de Difusión del Gobierno del Estado.
 
 SEGUNDO.- Los municipios deberán actualizar sus bandos de Policía y Gobierno y sus reglamentos, adecuándolos a la presente Ley en un plazo no mayor a 90 días contados a partir de la fecha en que entre en vigor esta Ley.
+
+P.O. 22 DE AGOSTO DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial ''Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+SEGUNDO.- Aprobado que sea el presente dictamen en términos del Artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos, remítase al Poder Ejecutivo para su promulgación y publicación en el Periódico Oficial "Tierra y Libertad", Órgano de Difusión del Gobierno del Estado de Morelos.
