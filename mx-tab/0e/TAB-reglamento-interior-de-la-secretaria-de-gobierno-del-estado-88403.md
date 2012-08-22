@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-secretaria-de-gobierno-del-estado-884
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-05-30"
-last_updated: "2012-05-30"
+last_updated: "2012-08-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2012.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 30 de mayo de 2012.
 
@@ -1197,6 +1197,8 @@ V. Representar al Coordinador Regional del Gobierno del Estado Zona Ríos y Jonu
 
 #### SECCIÓN PRIMERA. DE LA DIRECCIÓN DEL TRABAJO Y PREVISIÓN SOCIAL
 
+> <small>N. DE E. LAS REFORMAS APROBADAS EN EL PRESENTE ACUERDO, MODIFICO EN CUANTO A SU ESTRUCTURA PRACTICAMENTE AL ARTICULO, QUEDANDO INTEGRADO DE LA SIGUIENTE FORMA</small>
+
 ###### Artículo 47.
 
 Corresponde a la Dirección del Trabajo y Previsión Social, el ejercicio de las siguientes funciones:
@@ -1217,27 +1219,43 @@ VII. Proponer al superior jerárquico los nombramientos de los inspectores de la
 
 VIII. Participar con las autoridades federales, en la difusión y observancia de la Ley Federal del Trabajo y demás disposiciones legales en la materia; así como en la aplicación de las normas referentes al Programa Estatal de Empleo, a la capacitación y adiestramiento de los trabajadores y las relativas a seguridad e higiene en el trabajo;
 
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2012)</small>
+
 IX. Citar a las personas cuya presencia se requiera y hacer uso, en su caso, de las medidas de apremio siguientes:
 
-X. Multa conforme a las establecidas en casos análogos en la ley de la materia o en legislaciones de aplicación supletoria;
+a) Multa conforme a las establecidas en casos análogos en la ley de la materia o en legislaciones de aplicación supletoria;
 
-XI. Presentación de la persona con el auxilio de la fuerza pública; y (sic)
+b) Presentación de la persona con el auxilio de la fuerza pública; y
 
-XII. Arresto hasta por 36 horas;
+c) Arresto hasta por 36 horas.
 
-XIII. Supervisar, coordinar y apoyar las actividades de las unidades administrativas que integren la dirección;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2012)</small>
 
-XIV. Vigilar el funcionamiento del Servicio Estatal de Empleo, la Procuraduría de la Defensa del Trabajo y la Procuraduría de la Defensa de los Trabajadores al Servicio del Estado;
+X. Supervisar, coordinar y apoyar las actividades de las unidades administrativas que integren la dirección;
 
-XV. Coordinar la integración y vigilar el funcionamiento de la Junta Local de Conciliación y Arbitraje, Juntas Especiales y de las Juntas Locales de Conciliación;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2012)</small>
 
-XVI. Emitir opiniones sobre las consultas que en materia laboral, le formulen las diversas dependencias y organismos que integran la Administración Pública Estatal;
+XI. Vigilar el funcionamiento del Servicio Estatal de Empleo, la Procuraduría de la Defensa del Trabajo y la Procuraduría de la Defensa de los Trabajadores al Servicio del Estado;
 
-XVII. Colaborar con las Dependencias, Entidades y Sectores involucrados, en la integración y funcionamiento de la Comisión Consultiva Estatal de Seguridad e Higiene en el Trabajo y en cualquier otra que se requiera;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2012)</small>
 
-XVIII. Expedir, a petición de los interesados, copias de los documentos propios de la dirección y constancias de actos relativos a su función, que se relacionen con algún procedimiento administrativo; y
+XII. Coordinar la integración y vigilar el funcionamiento de la Junta Local de Conciliación y Arbitraje, Juntas Especiales y de las Juntas Locales de Conciliación;
 
-XIX. Participar en los congresos o reuniones que se celebren en relación con el ámbito laboral, a fin de mantenerse actualizado en la materia.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2012)</small>
+
+XIII. Emitir opiniones sobre las consultas que en materia laboral, le formulen las diversas dependencias y organismos que integran la Administración Pública Estatal;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2012)</small>
+
+XIV. Colaborar con las Dependencias, Entidades y Sectores involucrados, en la integración y funcionamiento de la Comisión Consultiva Estatal de Seguridad e Higiene en el Trabajo y en cualquier otra que se requiera;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2012)</small>
+
+XV. Expedir a petición de los interesados, copias de los documentos propios de la dirección y constancias de actos relativos a su función, que se relacionen con algún procedimiento administrativo; y
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2012)</small>
+
+XVI. Participar en los congresos o reuniones que se celebren en relación con el ámbito laboral, a fin de mantenerse actualizado en la materia; (sic)
 
 #### SECCIÓN SEGUNDA. DE LAS PROCURADURÍAS DE LA DEFENSA DEL TRABAJO Y DE LA DEFENSA DE LOS TRABAJADORES AL SERVICIO DEL ESTADO
 
@@ -1346,3 +1364,9 @@ SECRETARIO DE GOBIERNO
 LIC. GERARDO GUERRERO PÉREZ
 
 CONSEJERO JURÍDICO DEL PODER EJECUTIVO DEL ESTADO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE AGOSTO DE 2012.
+
+ÚNICO.- El presente acuerdo entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado.
