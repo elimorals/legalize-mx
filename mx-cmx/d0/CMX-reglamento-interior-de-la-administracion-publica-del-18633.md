@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2012-04-17"
+last_updated: "2012-08-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE AGOSTO DE 2012.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -124,17 +124,23 @@ A) La Subsecretaría de Gobierno, a la que quedan adscritas:
 
 B) La Subsecretaría de Sistema Penitenciario, a la que quedan adscritas:
 
-1. Dirección Ejecutiva de Prevención y Readaptación Social;
+> <small>(REFORMADO, G.O. 22 DE AGOSTO DE 2012)</small>
+
+1. Dirección Ejecutiva de Prevención y Reinserción Social;
 
 2. Dirección Ejecutiva de Trabajo Penitenciario;
 
 3. Dirección Ejecutiva de Seguridad Penitenciaria;
 
-4. Dirección Ejecutiva Jurídica y de Derechos Humanos, y
+4. Dirección Ejecutiva Jurídica y de Derechos Humanos, y (sic)
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 22 DE AGOSTO DE 2012)</small>
 
-5. Dirección General de Tratamiento para Adolescentes.
+5. Dirección General de Tratamiento para Adolescentes, y
+
+> <small>(ADICIONADO, G.O. 22 DE AGOSTO DE 2012)</small>
+
+6. Dirección Ejecutiva de Control y Seguimiento de Sentenciados en Libertad.
 
 C) La Subsecretaría de Coordinación Metropolitana y Enlace Gubernamental, a la que quedan adscritas:
 
@@ -152,7 +158,11 @@ C) La Subsecretaría de Coordinación Metropolitana y Enlace Gubernamental, a la
 
 D) La Subsecretaría de Programas Delegacionales y Reordenamiento de la Vía Pública.
 
-E) La Dirección Ejecutiva de Sanciones Penales.
+E) (DEROGADO, G.O. 22 DE AGOSTO DE 2012)
+
+> <small>(ADICIONADO, G.O. 22 DE AGOSTO DE 2012)</small>
+
+F) Instituto de Reinserción Social.
 
 Quedan adscritos a esta Secretaría los Órganos Político-Administrativos de cada demarcación territorial.
 
@@ -1258,13 +1268,21 @@ XVII. Coordinar y supervisar el cumplimiento de las funciones desconcentradas de
 
 Corresponde a la Subsecretaría de Sistema Penitenciario:
 
-I. Organizar la operación y administración de los reclusorios y centros de readaptación social para arrestados y procesados;
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
 
-II. Normar, coordinar, operar, administrar y supervisar el Sistema de Prevención y de Readaptación Social del Distrito Federal;
+I. Organizar la operación y administración de los Centros Penitenciarios de Reclusión Social para arrestados, procesados y sentenciados;
 
-III. Emitir y difundir la normatividad sobre readaptación social en los centros de reclusión del Distrito Federal;
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
 
-IV. Determinar y coordinar el funcionamiento de los sistemas de seguridad en los reclusorios y centros de readaptación social;
+II. Normar, coordinar, operar, administrar y supervisar el Sistema Penitenciario y de Reinserción Social del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
+
+III. Emitir, difundir, coordinar, operar y supervisar la normatividad sobre la reinserción social en los Centros Penitenciarios del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
+
+IV. Determinar y coordinar el funcionamiento de los sistemas de seguridad en los Centros Penitenciarios;
 
 V. Coordinarse con las áreas homologas de los gobiernos de las entidades federativas en materia de prevención de la delincuencia, de conformidad con las disposiciones jurídicas aplicables;
 
@@ -1272,45 +1290,105 @@ VI. Proponer convenios que deba celebrar el Distrito Federal con instituciones a
 
 VII. Promover y coordinar acciones con las instituciones que apoyen las tareas de prevención de conductas delictivas;
 
-VIII. Coordinar la orientación técnica y aprobar los proyectos para la construcción y remodelación de instalaciones de readaptación social;
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
+
+VIII. Coordinar la orientación técnica y aprobar los proyectos para la construcción y remodelación de instalaciones de reinserción social;
 
 IX. Vigilar que la producción y comercialización de artículos en las unidades industriales o de trabajo se destine a capacitar y a proporcionar a los internos estímulos y apoyos a su economía;
 
 X. Coordinar que en la prestación de servicios de atención médica y psicológica a los internos se cumplan las reglas de higiene general y personal;
 
-XI. Establecer los criterios de selección, formación, capacitación, evaluación y promoción del personal que preste sus servicios en las instituciones de readaptación social;
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
+
+XI. Establecer los criterios de selección, formación, capacitación, evaluación y promoción del personal que preste sus servicios en las instituciones de reinserción social;
 
 XII. Promover investigaciones científicas relacionadas con conductas delictivas para la determinación de zonas criminógenas, con el fin de proponer medidas de prevención social necesarias;
 
 XIII. Coordinar la emisión de antecedentes penales y constancias de los mismos, para el ejercicio de un derecho o el cumplimiento de un deber legalmente previsto;
 
-XIV. Emitir la normativa para que todo interno en los centros penitenciarios y de readaptación participe en las actividades laborales, educativas, y terapéuticas necesarias para restaurar su estabilidad psicológica, moral y anímica y, para que se practiquen con oportunidad estudios que determinen su esfuerzo, la evolución de su tratamiento y relaciones con familiares y seres queridos;
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
+
+XIV. Dar cumplimiento a la normativa para que todo interno en los Centros Penitenciarios participe en las actividades laborales, educativas, deportivas, culturales y terapéuticas necesarias para restaurar su estabilidad psicológica, moral y anímica y, para que se practiquen con oportunidad estudios que determinen su esfuerzo, la evolución de su tratamiento y relaciones con familiares y seres queridos, para lograr su reinserción social;
 
 XV. Emitir los dispositivos normativos para la remisión de información de los procesados a las autoridades respectivas que los requieran;
 
 XVI. Establecer la coordinación necesaria con las autoridades de los gobiernos, federal, estatales y municipales, para el mejor ejercicio de las atribuciones que le corresponden conforme a este Reglamento y a otras disposiciones legales;
 
-XVII. Emitir los procedimientos para vigilar que los traslados de procesados, nacionales o extranjeros, se sujete a lo estipulado en la legislación nacional y en los tratados o convenios internacionales;
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
 
-XVIII. Dictar las normas y procedimientos a fin de evitar fenómenos de corrupción al interior de los Centros de Readaptación Social;
+XVII. Emitir los procedimientos para vigilar que los traslados autorizados por el Juez de Ejecución de procesados y sentenciados, nacionales o extranjeros, se sujeten a lo establecido en la Legislación Nacional y en los Tratados o Convenios Internacionales;
+
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
+
+XVIII. Dictar las normas y procedimientos a fin de evitar fenómenos de corrupción al interior de los Centros Penitenciarios;
 
 XIX. Vigilar que los internos estén en condiciones psicológicas, materiales y de seguridad que les permitan contar con elementos mínimos para su defensa;
 
-XX. Establecer los lineamientos de seguridad personal de los procesados y vigilar su aplicación;
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
 
-XXI. Vigilar que se de cumplimiento a derechos humanos de los procesados y emitir los procedimientos para responder a las recomendaciones de los organismos especializados;
+XX. Establecer los lineamientos de seguridad personal de los procesados y sentenciados y vigilar su aplicación;
+
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
+
+XXI. Vigilar que se de cumplimiento a derechos (sic) humanos de los procesados y sentenciados y emitir los procedimientos para responder a las recomendaciones de los organismos especializados;
 
 XXII. Establecer los criterios para la profesionalización, capacitación, seguridad y eficiencia del personal técnico;
 
-XXIII. Desarrollar los indicadores y criterios estadísticos, así como desarrollar los estudios necesarios para evaluar en forma permanente el movimiento de población en reclusión y los factores criminológicos que inciden en el fenómeno delictivo de la Ciudad de México;
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
 
-XXIV. Supervisar y evaluar los controles y registros estadísticos que emiten los Centros de Reclusión, acerca de las actividades técnicas operativas, grupos vulnerables y acciones de diagnóstico, para definir las principales características de la población interna;
+XXIII. Crear, organizar y administrar el registro de información penitenciaria y proporcionar la información a las autoridades que corresponda de conformidad a la Ley General del Sistema Nacional de Seguridad Pública;
 
-XXV. Diseñar y supervisar las acciones que correspondan a la Administración Pública del Distrito Federal para cuidar que los menores a quienes se atribuya la comisión de infracciones reciban un trato justo y humano y, en consecuencia se erradiquen el maltrato, la incomunicación, la coacción psicológica, o cualquier otra acción que atente contra su dignidad o su integridad física o mental;
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
 
-XXVI. Participar en los procedimientos que tiendan a desarrollar o proponer medidas de orientación y protección para los menores infractores; y
+XXIV. Desarrollar los criterios e indicadores estadísticos necesarios para evaluar en forma permanente el movimiento de población en reclusión y los factores criminológicos que inciden en el fenómeno delictivo de la Ciudad de México;
 
-XXVII. Vigilar el cumplimiento de las disposiciones y procedimientos que correspondan al tratamiento de los menores y el respeto a sus derechos fundamentales.
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
+
+XXV. Supervisar y evaluar los controles y registros estadísticos que emiten los Centros de (sic) Penitenciarios, acerca de las actividades técnicas operativas, grupos vulnerables y acciones de diagnóstico, para definir las principales características de la población interna;
+
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
+
+XXVI. Diseñar y supervisar las acciones que correspondan a la Administración Pública del Distrito Federal para cuidar que los menores a quienes se atribuya la comisión de infracciones reciban un trato justo y humano y, en consecuencia se erradiquen el maltrato, la incomunicación, la coacción psicológica, o cualquier otra acción que atente contra su dignidad o su integridad física o mental;
+
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
+
+XXVII. Participar en los procedimientos que tiendan a desarrollar o proponer medidas de orientación y protección para los menores infractores;
+
+> <small>(ADICIONADA, G.O. 22 DE AGOSTO DE 2012)</small>
+
+XXVIII. Vigilar el cumplimiento de las disposiciones y procedimientos que correspondan al tratamiento de los menores y el respeto a sus derechos fundamentales.
+
+> <small>(ADICIONADA, G.O. 22 DE AGOSTO DE 2012)</small>
+
+XXIX. Proponer convenios que deba celebrar el Distrito Federal, y suscribir los mismos con Entidades Federativas, Instituciones Públicas y privadas; además de organizaciones de sociedad civil que coadyuven al cumplimiento de los ejes rectores de la reinserción social;
+
+> <small>(ADICIONADA, G.O. 22 DE AGOSTO DE 2012)</small>
+
+XXX. Coordinar la emisión de informes de ingresos anteriores a prisión, solicitados por las Autoridades Judiciales y Administrativas legalmente facultadas para ello;
+
+> <small>(ADICIONADA, G.O. 22 DE AGOSTO DE 2012)</small>
+
+XXXI. Coordinarse con el Juez de Ejecución para la remisión de información técnica jurídica de los internos sentenciados;
+
+> <small>(ADICIONADA, G.O. 22 DE AGOSTO DE 2012)</small>
+
+XXXII. Solicitar al Juez de Ejecución la autorización para el traslado de los sentenciados a los diferentes Centros Penitenciarios del Distrito Federal, excepto en los casos previstos en el párrafo segundo de la fracción XII del artículo 9º de la Ley de Ejecución de Sanciones Penales y Reinserción Social para el Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 22 DE AGOSTO DE 2012)</small>
+
+XXXIII. Solicitar a las Autoridades Administrativas Federales o Locales, previa autorización del Juez de Ejecución el traslado de sentenciados para cumplir su sentencia del fuero común en Centros de Reclusión de su jurisdicción, de conformidad al artículo 18 Constitucional, excepto por medidas de seguridad de los Centros Penitenciarios y del sentenciado;
+
+> <small>(ADICIONADA, G.O. 22 DE AGOSTO DE 2012)</small>
+
+XXXIV. Solicitar al Juez de la Causa las sentencias o copias certificadas para mantener debidamente actualizado el expediente jurídico del sentenciado;
+
+> <small>(ADICIONADA, G.O. 22 DE AGOSTO DE 2012)</small>
+
+XXXV. Dar seguimiento al sentenciado una vez que obtenga uno de los beneficios penitenciarios contemplados en la Ley de Ejecución de Sanciones Penales y Reinserción Social para el Distrito Federal, los sustitutivos penales, y el beneficio de la suspensión condicional de la ejecución de la pena; así como a los beneficiados con el programa de reclusión domiciliaria a través de monitoreo electrónico a distancia; y
+
+> <small>(ADICIONADA, G.O. 22 DE AGOSTO DE 2012)</small>
+
+XXXVI. Comunicar de manera oportuna al Juez de Ejecución el incumplimiento de las obligaciones contraídas con motivo de los beneficios penitenciarios, sustitutivos penales, beneficio de la suspensión condicional de la ejecución de la pena y reclusión domiciliaria.
 
 > <small>(REFORMADO, G.O. 11 DE ENERO DE 2008)</small>
 
@@ -2106,29 +2184,45 @@ VI. Auxiliar en las relaciones que le correspondan, con los órganos locales de 
 
 VII. Auxiliar en la conducción de las relaciones con partidos, agrupaciones y asociaciones políticas.
 
-> <small>(REFORMADO, G.O. 11 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 40.
 
-Corresponde a la Dirección Ejecutiva de Prevención y Readaptación Social:
+Corresponde a la Dirección Ejecutiva de Prevención y Reinserción Social:
 
-I. Vigilar que se cumplan las políticas y estrategias generales del proceso de evaluación y de diagnóstico en materia de readaptación social de la población penitenciaria procesada y sentenciada en el Distrito Federal;
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
 
-II. Supervisar las acciones de tratamiento, programas y técnicas tendientes a operar los procesos de readaptación social de la población interna;
+I. Vigilar que se cumplan las políticas y estrategias generales del proceso de evaluación y de diagnóstico en materia de reinserción social de la población penitenciaria procesada y sentenciada en el Distrito Federal;
+
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
+
+II. Supervisar las acciones de tratamiento, programas y técnicas tendientes a operar los ejes de la reinserción social de la población interna;
+
+> <small>(REFORMADA, G.O. 11 DE ENERO DE 2008)</small>
 
 III. Promover y supervisar las acciones de tratamiento básico en materia de alfabetización, educación elemental, intermedia y superior para la población interna;
 
-IV. Supervisar y promover las actividades de capacitación para el trabajo enfocadas al desarrollo de habilidades técnicas, sociales, y valores que permitan a los internos mayores posibilidades de éxito en el ámbito productivo, mediante acciones coordinadas con instituciones académicas, organizaciones externas y dependencias gubernamentales;
+IV. (DEROGADA, G.O. 22 DE AGOSTO DE 2012)
 
-V. Supervisar y coordinar las acciones de promoción, organización y otorgamiento de empleo remunerado para la población interna, a través de instrumentos jurídicos que la superioridad suscriba con instituciones y organizaciones empresariales;
+V. (DEROGADA, G.O. 22 DE AGOSTO DE 2012)
+
+> <small>(REFORMADA, G.O. 11 DE ENERO DE 2008)</small>
 
 VI. Evaluar y autorizar el apoyo de organizaciones no gubernamentales, asociaciones civiles y dependencias que colaboran con la población interna en procesos de asistencia social, educación para la salud, de autoayuda, para la orientación religiosa, de cultura y recreación;
 
-VII. Promover y supervisar la operación de actividades deportivas, culturales y recreativas en los diferentes Centros de Reclusión del Distrito Federal, considerando las necesidades e intereses de la población interna y en forma congruente con los propósitos de readaptación social;
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
 
-VIII. Registrar, difundir y evaluar los acuerdos de los Consejos Técnicos de los Centros Penitenciarios, de conformidad a las normas vigentes y recurrir ante las Direcciones de los Centros Penitenciarios, aquellos que incumplan el Reglamento de Centros de Reclusión para el Distrito Federal;
+VII. Promover y supervisar la operación de actividades deportivas, culturales y recreativas en los diferentes Centros Penitenciarios del Distrito Federal, considerando las necesidades e intereses de la población interna y en forma congruente con los propósitos de la reinserción social;
 
-IX. Supervisar el cumplimiento de los indicadores técnicos que están determinados por la Ley de Ejecución de Sanciones Penales para el Distrito Federal, en los procesos de análisis y presentación de casos para la obtención de posibles beneficios de libertad anticipada; y
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
+
+VIII. Registrar, difundir, evaluar y regular los acuerdos de los Consejos Técnicos de los Centros Penitenciarios, de conformidad a las normas jurídicas vigentes ante las Direcciones de los Centros Penitenciarios;
+
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
+
+IX. Supervisar el cumplimiento de los indicadores técnicos que están determinados por la Ley de Ejecución de Sanciones Penales y Reinserción Social para el Distrito Federal, en los procesos de análisis y presentación de casos para la obtención de posibles beneficios penitenciarios; y
+
+> <small>(REFORMADA, G.O. 11 DE ENERO DE 2008)</small>
 
 X. Determinar los elementos necesarios para la conformación del expediente técnico de cada interno durante las fases de diagnóstico, ubicación e intervención institucional para su operación en cada una de las Instituciones Penitenciarias del Distrito Federal.
 
@@ -2138,43 +2232,81 @@ X. Determinar los elementos necesarios para la conformación del expediente téc
 
 Corresponde a la Dirección Ejecutiva de Trabajo Penitenciario:
 
-I. Proponer la normativa para que las actividades encaminadas a la organización planeación, producción, desarrollo, supervisión, fomento, promoción y comercialización de los bienes a producirse en los talleres industriales o artesanales así como en las actividades de comercialización y prestación de servicios, se desarrollen de acuerdo a los objetivos y metas que establezca la Administración Pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
+
+I. Elaborar los lineamientos para que las actividades encaminadas a la organización, planeación, producción, desarrollo, supervisión, fomento, promoción y comercialización de los bienes y prestación de servicios en los talleres industriales o artesanales se desarrollen de acuerdo a los objetivos y metas que establezca la Administración Pública del Distrito Federal;
 
 II. Elaborar, suscribir, modificar y extinguir los convenios de colaboración, en los términos de la normatividad aplicable, con otras Instituciones Públicas y Privadas, Dependencias, Empresas, Asociaciones y Organismos, a fin de promover, incentivar y diversificar el impulso y crecimiento en la industria, área de servicios, talleres de autoconsumo y autogenerador del Sistema Penitenciario;
 
-III. Supervisar que se realice el pago oportuno por concepto de contraprestación que realicen los socios industriales a los trabajadores internos, así como por el uso de las instalaciones;
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
 
-IV. Llevar a cabo las acciones de enlace y coordinación con el área correspondiente, con objeto de que la aplicación del sistema de pago se realice oportunamente a los trabajadores internos;
+III. Supervisar que se realice la remuneración oportuna a los internos por su actividad productiva;
 
-V. Coordinar con cada uno de los Directores de los diferentes Centros de Reclusión, las acciones necesarias que permitan el establecimiento de actividades productivas por parte de socios industriales en los talleres industriales;
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
 
-VI. Coordinar la implementación de las medidas necesarias de seguridad e higiene en cada uno de los talleres industriales;
+IV. Dar seguimiento al pago de la contraprestación por el uso de las instalaciones por parte de los socios industriales en los Centros Penitenciarios;
 
-VII. Planear y coordinar la recuperación de las naves consideradas como talleres industriales;
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
 
-VIII. Establecer lineamientos de producción y comercialización de productos, bienes y servicios en los talleres industriales bajo el esquema de autogenerador;
+V. Coordinar con el área administrativa correspondiente que la remuneración de los internos se realice de conformidad a lo establecido en la Ley de Ejecución de Sanciones Penales y Reinserción Social para el Distrito Federal;
 
-IX. Vigilar que los productos, bienes y servicios elaborados en los talleres industriales bajo el esquema de autogenerados, cumplan con la producción y normas de calidad establecidas;
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
 
-X. Coordinar, administrar y supervisar la operación de los estacionamientos ubicados al exterior de los diferentes Centros, bajo la normatividad aplicable e Implementar las acciones necesarias que permitan la recuperación de los estacionamientos de los Centros Penitenciarios del Distrito Federal;
+VI. Coordinar las acciones necesarias que permitan el establecimiento de actividades productivas en los talleres industriales con cada uno de los Directores de los diferentes Centros Penitenciarios;
 
-XI. Establecer los lineamientos necesarios para el mantenimiento preventivo y correctivo de la maquinaria y equipo de los talleres industriales;
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
 
-XII. Vigilar el buen uso y conservación de la materia prima de los talleres de autoconsumo;
+VII. Regular y supervisar la implementación de las medidas necesarias de seguridad e higiene en cada uno de los talleres industriales;
 
-XIII. Vigilar la presentación de los informes mensuales de las órdenes de trabajo de producción de los talleres de autoconsumo al área correspondiente;
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
 
-XIV. Establecer los programas y lineamientos para la compra de materia prima, insumos, productos y materiales adecuados para dar cumplimiento a las especificaciones contenidas en las órdenes de trabajo de los talleres industriales o de autoconsumo;
+VIII. Coordinar las acciones necesarias para la adecuada utilización de los espacios destinados de las naves industriales con cada uno de los Directores de los diferentes Centros Penitenciarios;
+
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
+
+IX. Establecer lineamientos de producción y comercialización de productos, bienes y servicios en los talleres industriales bajo el esquema de autogenerados;
+
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
+
+X. Elaborar e Implementar los lineamientos necesarios para el mantenimiento preventivo y correctivo de la maquinaria de los talleres industriales;
+
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
+
+XI. Supervisar la adecuada utilización y conservación de la materia prima de los talleres de autoconsumo;
+
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
+
+XII. Supervisar que los productos, bienes y servicios elaborados en los talleres industriales bajo el esquema de autogenerados cumplan con controles de calidad;
+
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
+
+XIII. Solicitar al área administrativa la compra de materia prima, insumos, productos y materiales necesarios para las actividades de los talleres industriales o de autoconsumo solicitados mediante órdenes de trabajo;
+
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
+
+XIV. Fomentar el autoconsumo de los productos, bienes o servicios implementados mediante actividades de trabajo penitenciario;
 
 XV. Participar en el diseño del Programa Anual de Adquisiciones del ejercicio correspondiente;
 
-XVI. Coordinar con Instituciones Públicas, Privadas y Sociales vinculadas con la planeación, producción y comercialización, la integración de mecanismos y técnicas vigentes de productos, bienes y servicios, que permitan eficientar la producción, operación y comercialización de los talleres industriales;
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
 
-XVII. Coordinar el trabajo artesanal y promover a través del área de comercialización su participación, en eventos, ferias, exposiciones y muestras de los productos elaborados en los Centros de Reclusión;
+XVI. Coordinar y promover el trabajo artesanal elaborado por los internos de los Centros Penitenciarios en eventos, ferias, exposiciones y muestras;
 
-XVIII. Supervisar que la producción industrial, artesanal y de servicios, se lleve a cabo de conformidad a lo establecido por el Reglamento de los Centros de Reclusión del Distrito Federal y demás ordenamientos aplicables; y
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
 
-XIX. Participar en la elaboración de los informes sobre el desarrollo de los programas y gestión de la Industria Penitenciaria.
+XVII. Supervisar que la producción industrial, artesanal y de servicios, se lleve a cabo de conformidad a lo establecido por La Ley de Ejecución de Sanciones Penales y Reinserción Social para el Distrito Federal, el Reglamento de los Centros Penitenciarios del Distrito Federal y demás ordenamientos aplicables;
+
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
+
+XVIII. Elaborar, suscribir, modificar y extinguir los convenios o bases de colaboración en materia de capacitación para el trabajo penitenciario con instituciones gubernamentales y de la sociedad civil;
+
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
+
+XIX. Promover y supervisar las actividades de capacitación para el trabajo enfocadas al desarrollo de habilidades y destrezas de los internos en el ámbito productivo, y
+
+> <small>(ADICIONADA, G.O. 22 DE AGOSTO DE 2012)</small>
+
+XX. Coordinar la elaboración de programas e informes en materia de trabajo penitenciario
 
 > <small>(ADICIONADO, G.O. 11 DE ENERO DE 2008)</small>
 
@@ -2184,25 +2316,61 @@ Corresponde a la Dirección Ejecutiva de Seguridad Penitenciaria:
 
 I. Ejercer al mando directo del Cuerpo de Técnicos en Seguridad, con apego a las disposiciones legales vigentes;
 
-II. Privilegiar el trabajo de inteligencia, investigación y clasificación de la información respecto a la seguridad en cada Centro de Reclusión;
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
 
-III. Supervisar el funcionamiento de los elementos técnicos, electrónicos y humanos que intervienen en la captura, análisis y presentación de los diversos informes diarios sobre la seguridad institucional;
+II. Dirigir el trabajo de inteligencia, investigación y clasificación de la información, relacionada con la seguridad de cada Centro Penitenciario.
 
-IV. Transmitir permanentemente a la superioridad reportes confidenciales sobre hechos o eventos detectados en cada centro de reclusión;
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
 
-V. Aprobar la presentación y envío a la superioridad de los reportes y partes de novedades diariamente sobre el estado que guarda en materia de seguridad cada centro de reclusión;
+III. Evaluar el funcionamiento de los elementos técnicos, electrónicos y humanos que intervienen en la captura, análisis y presentación de informes diarios sobre la seguridad institucional.
 
-VI. Autorizar cualquier cambio de adscripción del personal técnico en seguridad y vigilar el cumplimiento de metas del programa de rotación periódica del personal de seguridad de un centro de reclusión a otro;
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
 
-VII. Aplicar las medidas legales a su alcance para mantener estándares positivos en el orden y disciplina en los centros de reclusión;
+IV. Informar oportunamente a las autoridades superiores, sobre asuntos relevantes que vulneren o pongan en riesgo a la seguridad de los Centros Penitenciarios.
 
-VIII. Impulsar permanentemente la jornada sobre el uso del gafete de Identificación de los Técnicos en Seguridad, aplicando las sanciones previstas por el incumplimiento de esta obligación;
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
 
-IX. Imponer u ordenar las sanciones que correspondan a los técnicos en seguridad, que se hagan acreedoras a ellas, así como girar instrucciones para presentar aquellos casos ante el órgano competente;
+V. Supervisar diariamente la presentación y envío a la superioridad de los reportes y partes de novedades del estado que guarda la seguridad en cada Centro Penitenciario;
 
-X. Solicitar mediante oficio a la superioridad el traslado de los internos con delitos federales o que pongan en riesgo la seguridad institucional; y
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
 
-XI. Establecer un sistema permanente de supervisión, para evitar que el personal incurra en conductas incorrectas en la visita familiar.
+VI. Autorizar cualquier cambio de adscripción y vigilar el cumplimiento del programa de rotación periódica, del personal de seguridad de las diferentes instalaciones que conforman la Subsecretaría de Sistema Penitenciario;
+
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
+
+VII. Aplicar medidas que permitan orden y disciplina, en los Centros Penitenciarios;
+
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
+
+VIII. Supervisar el cumplimiento del uso de gafete de Identificación por el personal de Seguridad, aplicando las medidas disciplinarias, previstas por el incumplimiento de esta obligación;
+
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
+
+IX. Imponer u ordenar la imposición de sanciones al personal de seguridad, que se hagan acreedores a ellas, así como girar instrucciones para presentar ante el Órgano o Autoridad competente, los casos que por su gravedad así lo requieran;
+
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
+
+X. Solicitar mediante oficio a la superioridad el traslado de internos que pongan en riesgo la seguridad institucional de los Centros Penitenciarios.
+
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
+
+XI. Establecer un sistema permanente de supervisión para que el personal se conduzca con respeto a los derechos humanos;
+
+> <small>(ADICIONADA, G.O. 22 DE AGOSTO DE 2012)</small>
+
+XII. Coordinar la instalación de dispositivos, mecanismos y operativos de seguridad que se implementen en los Centros Penitenciarios y evaluar sus resultados;
+
+> <small>(ADICIONADA, G.O. 22 DE AGOSTO DE 2012)</small>
+
+XIII. Establecer la coordinación interinstitucional con las dependencias del Distrito Federal y las Autoridades Federales para el diseño y ejecución de operativos conjuntos, así como para solicitar apoyo en casos de emergencia;
+
+> <small>(ADICIONADA, G.O. 22 DE AGOSTO DE 2012)</small>
+
+XIV. Compartir información con las autoridades competentes, para prevenir, combatir e investigar la comisión de delitos en el sistema penitenciario y,
+
+> <small>(ADICIONADA, G.O. 22 DE AGOSTO DE 2012)</small>
+
+XV. Participar en el diseño de los sistemas y procesos de evaluación, al que deba sujetarse el personal de seguridad, en coordinación con las autoridades competentes de conformidad a la normatividad vigente.
 
 > <small>(ADICIONADO, G.O. 11 DE ENERO DE 2008)</small>
 
@@ -2210,35 +2378,61 @@ XI. Establecer un sistema permanente de supervisión, para evitar que el persona
 
 Corresponde a la Dirección Ejecutiva Jurídica y de Derechos Humanos:
 
-I. Proponer los criterios generales y las normas que con apoyo en los ordenamientos que (sic) aplican sobre la materia en los centros de reclusión;
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
 
-II. Informar las alternativas de solución, sobre los convenios que sean susceptibles de celebrar, entre la Administración Pública del Distrito Federal y los gobiernos de los estados, en materia de prestación de servicios técnicos penitenciarios y transferencia de internos a otros establecimientos como lo estipulan los ordenamientos aplicables;
+I. Proponer los criterios generales y las normas que con apoyo en los ordenamientos que aplican sobre la materia en los Centros Penitenciarios;
 
-III. Presentar los programas de carácter jurídico, relativos a la prevención de la delincuencia o de infracciones, de quienes se encuentren internos en los centros de reclusión;
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
 
-IV. Representar jurídicamente a la Secretaría de Gobierno del Distrito Federal, así como coordinar la elaboración de denuncias, ante las autoridades que correspondan por hechos posiblemente constitutivos de delito, que se cometan dentro de los centros de reclusión que conforman el sistema penitenciario;
+II. Revisar, opinar y supervisar que los convenios que se celebren entre la Subsecretaría de Sistema Penitenciario y la Administración Pública del Distrito Federal, la Federación, los Gobiernos de los Estados o la sociedad civil cumplan con las disposiciones normativas vigentes en el Distrito Federal.
 
-V. Coordinar la integración de los expedientes jurídicos de los internos para conocer su situación jurídica, determinar la fecha probable de su libertad, o saber si se encuentra en tiempo de obtener los beneficios que otorga la normativa correspondiente;
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
+
+III. Elaborar programas para la prevención de la delincuencia o de infracciones, de quienes se encuentren internos en los Centros Penitenciarios;
+
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
+
+IV. Representar jurídicamente a la Secretaría de Gobierno, así como coordinar la elaboración de denuncias, ante las autoridades que correspondan por hechos posiblemente constitutivos de delito, que se cometan dentro de las instalaciones o Centros que conforman el Sistema Penitenciario;
+
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
+
+V. Coordinar con los Directores de los Centros Penitenciarios la integración de los expedientes jurídicos de los internos para conocer su situación jurídica, determinar la fecha probable de su libertad, o saber si se encuentra en tiempo de obtener los beneficios que otorga la normativa correspondiente;
 
 VI. Verificar la debida integración de los informes previos y justificados solicitados por la Autoridad Judicial que conoce de los juicios de amparo;
 
-VII. Verificar jurídicamente la procedencia de los traslados de los internos a los diferentes centros de reclusión que integran el sistema penitenciario del Distrito Federal, de los correspondientes a las entidades federativas o a centros de reclusión federal;
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
 
-VIII. Coordinar y supervisar el funcionamiento de los Módulos de Información Jurídica, del Sistema Integral de Información e Imágenes de Reclusorios (SIIIR);
+VII. Verificar jurídicamente la procedencia de los traslados de los internos a los diferentes Centros que integran el Sistema Penitenciario del Distrito Federal, de los correspondientes a las Entidades Federativas o a Centros Penitenciarios Federales;
 
-IX. Mantener coordinación permanente con las distintas áreas para obtener la información necesaria a fin de atender las quejas y denuncias interpuestas por familiares, visitantes o internos de los centros de reclusión, así como de las áreas que integran la propia Secretaría Técnica;
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
+
+VIII. Coordinar y supervisar el funcionamiento de los Módulos de Información Jurídica, del Sistema Integral de Información Penitenciaria (SIIP);
+
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
+
+IX. Mantener coordinación permanente con las distintas áreas que integran y colaboran con la Subsecretaría de Sistema Penitenciario para obtener la información necesaria a fin de atender las quejas, denuncias interpuestas por familiares, defensores visitantes o internos de los Centros Penitenciarios, así como las recomendaciones emitidas por los organismos protectores de los derechos humanos;
 
 X. Mantener comunicación con el área de capacitación, a efecto de observar el cumplimiento de la normatividad que emita sobre la materia;
 
-XI. Proponer al personal que labora en la Secretaría de Gobierno del Distrito Federal, para participar en los cursos de capacitación que al efecto establezca el área competente, promoviendo el estudio, enseñanza y divulgación de los Derechos Humanos;
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
 
-XII. Atender y gestionar ante la autoridad responsable sobre los requerimientos que realicen los organismos de derechos humanos, dando respuesta dentro de los términos correspondientes;
+XI. Establecer bases de colaboración con el Instituto de Capacitación Penitenciaria con el objeto de que el personal de la Subsecretaría de Sistema Penitenciario participe en los cursos de capacitación que permitan el estudio, enseñanza y divulgación del marco normativo en materia penal, penitenciaria y de los Derechos Humanos;
 
-XIII. Orientar e informar a los familiares de los internos y al público en general, para promover el acercamiento de éstos con la Institución;
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
 
-XIV. Mantener en constante vigilancia a los supervisores y coordinadores de derechos humanos que laboran en los centros penitenciarios, para evitar acciones que contravengan las disposiciones administrativas y legales, y
+XII. Atender y gestionar ante las instituciones competentes los requerimientos que realicen los organismos de derechos humanos, dando respuesta dentro de los términos correspondientes;
 
-XV. Coordinar con el órgano interno de control la denuncia de los servidores públicos que se presuma participen en acciones ilícitas.
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
+
+XIII. Proporcionar asesoría jurídica a internos y familiares que lo requieran;
+
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
+
+XIV. Dirigir y coordinar al personal adscrito a esta Dirección Ejecutiva que la (sic) labora en los Centros Penitenciarios, a fin de garantizar el estricto cumplimiento de las disposiciones administrativas y legales vigentes, y
+
+> <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
+
+XV. Coordinar ante el órgano interno de control la denuncia de los servidores públicos del Sistema Penitenciario de quienes se presuma la comisión de una probable responsabilidad administrativa.
 
 > <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2010)</small>
 
@@ -2268,51 +2462,79 @@ XI. Establecer, durante la estancia de los adolescentes en las comunidades para 
 
 XII. Las demás facultades previstas en este reglamento y en otros ordenamientos aplicables así como las que correspondan a las áreas que se le adscriban.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE ENERO DE 2008)</small>
+> <small>(ADICIONADO, G.O. 22 DE AGOSTO DE 2012)</small>
+
+Artículo 40 Sextus.- Corresponde a la Dirección Ejecutiva de Control y Seguimiento de Sentenciados en Libertad:
+
+I. Implementar mecanismos de vigilancia, control y seguimiento de los sentenciados en libertad respecto de las obligaciones impuestas por el Juez de Ejecución;
+
+II. Dar seguimiento a las medidas de tratamiento a inimputables impuestas por el Juez de Ejecución;
+
+III. Apoyar a la canalización a instituciones especiales de tratamiento, a la familia o a la autoridad sanitaria a inimputables;
+
+IV. Participar en la elaboración, seguimiento y cumplimiento de los convenios de coordinación que se celebren con los Gobiernos Extranjeros, Federal y de las Entidades Federativas en materia de supervisión y seguimiento de la suspensión condicional de la pena, los sustitutivos penales y de los beneficios penitenciarios;
+
+V. Establecer la coordinación necesaria con las autoridades de los Gobiernos Federal, Estatales y Municipales, para el mejor ejercicio de las atribuciones que le correspondan conforme a este Reglamento y a otras disposiciones legales.
+
+VI. Dar seguimiento a los beneficiados con el beneficio de reclusión domiciliaria a través de monitoreo electrónico a distancia;
+
+VII. Comunicar de manera oportuna al Juez de Ejecución el incumplimiento de las obligaciones contraídas con motivo de la suspensión condicional de la ejecución de la pena, los sustitutivos penales y los beneficios penitenciarios.
+
+VIII. Comunicar al Juez de Ejecución la reincidencia o muerte de los sentenciados en libertad a fin de que determine lo que conforme a derecho proceda;
+
+IX. Compartir y proporcionar información a las autoridades judiciales y administrativas del fuero federal y común de conformidad a sus atribuciones legales en el ámbito de suspensión condicional de la pena, sustitutivos penales y beneficios penitenciarios;
+
+X. Vigilar que en el cumplimiento de la pena impuesta a los sentenciados en libertad se cumpla con absoluto respeto a los derechos humanos;
+
+XI. Ejercer la defensa de la Subsecretaría de Sistema Penitenciario los juicios de amparo directo e indirecto relativos al seguimiento de las condiciones u obligaciones impuestas para dar cumplimiento a los beneficios penitenciarios, sustitutivos penales, beneficio de la suspensión condicional de la pena, o medidas de seguridad;
+
+XII. Supervisar, controlar y evaluar la operación y funcionamiento de la Institución Abierta Casa de Medio Camino, a fin de proporcionar a los sentenciados a quienes se les otorgue por el Juez de Ejecución el beneficio penitenciario de Tratamiento Preliberacional, atención en adicciones, educación, cultura, deporte y capacitación para el trabajo, para que al obtener su libertad tengan mayores elementos para su reinserción social;
+
+XIII. Vigilar y supervisar el diseño y aplicación del programa de tratamiento individualizado de los sentenciados beneficiados con el Tratamiento Preliberacional para que éste se organice e instrumento (sic) con pleno respeto a sus derechos humanos y que contemple la participación en las disciplinas de psicología, trabajo social, criminología, adicciones y deporte;
+
+XIV. Instrumentar el cumplimiento de las disposiciones del Juez de Ejecución que ordene que el sentenciado deba participar para su reinserción social en salidas grupales al exterior, en actividades culturales y recreativas que le permitan un acercamiento progresivo a la sociedad actual, impulsando para ello la participación de la sociedad civil e instituciones gubernamentales;
+
+XV. Crear un módulo en el Sistema de Información Penitenciaria que permita llevar el seguimiento y control de los sentenciados en libertad; y
+
+XVI. Conformar el Archivo de Expedientes de Sentenciados en Libertad de conformidad a lo establecido en las disposiciones legales de la materia y a la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal.
 
 ###### Artículo 41.
 
-Corresponde a la Dirección Ejecutiva de Sanciones Penales:
+(DEROGADO, G.O. 22 DE AGOSTO DE 2012)
 
-I. Vigilar la ejecución de las sentencias dictadas por delitos de competencia de los tribunales del fuero común en el Distrito Federal;
+> <small>(ADICIONADO, G.O. 22 DE AGOSTO DE 2012)</small>
 
-II. Aplicar la normatividad sobre ejecución de sentencias en los centros de reclusión del Distrito Federal;
+###### Artículo 41 Bis.
 
-III. Vigilar la ejecución de las medidas de tratamiento a inimputables impuestas por los tribunales competentes;
+Corresponde al Instituto de Reinserción Social.
 
-IV. Aplicar la normatividad sobre la ejecución de sentencias a los internos que se encuentran a su disposición en los centros de readaptación social;
+I. Brindar asistencia social y material a los liberados para continuar su proceso de reinserción social;
 
-V. Participar en la elaboración y cumplimiento de los convenios de coordinación que se celebren con los gobiernos de las entidades federativas en materia de supervisión de los sustitutivos y de los beneficios de la pena de prisión, para el traslado de reos del fuero común a establecimientos dependientes del Poder Ejecutivo Federal y para que los reos del fuero común cumplan su sentencia en establecimientos dependientes de los Gobiernos de los Estados, o de los municipios en los casos que sea conducente;
+II. Gestionar en favor del liberado ante el Gobierno del Distrito Federal o la Federación, los apoyos implementados para la población en general;
 
-VI. Señalar, de conformidad con lo que marcan las leyes y reglamentos respectivos, y previa valoración de los sentenciados, el lugar donde deben cumplir sus penas;
+III. Apoyar a los liberados en su proceso de reinserción a la sociedad mediante asistencia laboral, social, educativa, psicológica, económica, médica y jurídica;
 
-VII. Vigilar que todo interno participe en las actividades laborales, educativas y terapéuticas, así como se le practiquen con oportunidad, estudios que muestren su esfuerzo y la evolución de su tratamiento y mantenga siempre contacto y relaciones con familiares y seres queridos;
+IV. Gestionar a los liberados que así lo requieran atención médica especializada en las instituciones de salud que corresponda;
 
-VIII. Otorgar a los sentenciados a disposición del Gobierno del Distrito Federal los beneficios de libertad anticipada en los supuestos y con los requisitos fijados en las leyes aplicables al caso concreto, siempre y cuando de los estudios se presuma que el sentenciado está readaptado socialmente;
+V. Tramitar permanencia en albergues de aquellos liberados que así lo requieran;
 
-IX. Sujetar a los sentenciados en libertad a las medidas de orientación, supervisión, y vigilancia que se dicten al otorgar el beneficio de la libertad anticipada;
+VI. Coordinar acciones con instituciones afines con el propósito de atender a los liberados;
 
-X. Amonestar, revocar o suspender, según sea el caso, la modalidad de ejecución de la pena otorgada, por incumplimiento de las condiciones que se hubieran determinado;
+VII. Definir políticas y estrategias que orienten el proceso de reinserción a la sociedad;
 
-XI. Resolver lo procedente en los casos de conmutación de la pena;
+VIII. Celebrar convenios con instituciones públicas, privadas y de la sociedad civil, para cumplir sus funciones;
 
-XII. Ejecutar los sustitutivos de la pena de prisión y condena condicional, ejerciendo la orientación y vigilancia necesaria sobre las personas que cumplan su sentencia en esta modalidad, y notificando a la autoridad que los dictó ante incumplimiento de condiciones y conclusión de la pena impuesta;
+IX. Promover la participación de las referidas instituciones para obtener apoyos en beneficio de los liberados;
 
-XIII. Adecuar en los términos que previene la legislación penal, la sanción impuesta a los sentenciados que se encuentren a su disposición cuando por la entrada en vigor de una nueva ley, ésta les resulte más favorable;
+X. Difundir programas permanentes de capacitación;
 
-XIV. Extinguir la ejecución de la pena impuesta por sentencia ejecutoriada a un reo del fuero común, cuando se otorgue de forma indubitable el perdón del ofendido o del legitimado para ello, en los delitos y con las condiciones previstas por la ley;
+XI. Dar seguimiento a aquellos liberados que cuenten con actividad laboral y/o educativa para que cumplan con los mismos;
 
-XV. Proporcionar información sobre los sentenciados a las autoridades administrativas y electorales que en razón de sus funciones así lo requieran;
+XII. Llevar control y seguimiento de los liberados que obtuvieron un beneficio penitenciario y que sean canalizados para continuar su reinserción social;
 
-XVI. Establecer la coordinación necesaria con las autoridades de los gobiernos federal, estatales y municipales, para el mejor ejercicio de las atribuciones que le correspondan conforme a este Reglamento y a otras disposiciones legales;
+XIII. Realizar estudios e investigaciones criminológicas, tendentes a mejorar los programas de apoyo y asistenciales; y,
 
-XVII. Determinar, previa valoración médica psiquiátrica de los adultos inimputables, la institución para su tratamiento, la entrega de los mismos a su familia o a la autoridad sanitaria, cuando proceda, así como modificar o dar por concluida la medida de seguridad;
-
-XVIII. Ejecutar los traslados de sentenciados que se encuentren a disposición del Gobierno del Distrito Federal, de acuerdo con lo estipulado en los tratados o convenios correspondientes;
-
-XIX. Vigilar que el régimen de cumplimiento de ejecución de la pena impuesta a los internos sentenciados sea conforme a la ley, a la sentencia y al total y absoluto respeto a los derechos humanos; y
-
-XX. Determinar, previa valoración médica psiquiátrica de los adultos inimputables, la institución para su tratamiento, la entrega de los mismos a su familia o a ala (sic) autoridad sanitaria, cuando proceda, así como modificar o dar por concluida la medida de seguridad.
+XIV. Realizar acciones de coordinación con el Instituto para la Atención y Prevención de las Adicciones del Distrito Federal, así como a la Comisión Nacional para las Adicciones, para efecto de atender a liberados con problemas de farmacodependencia y alcoholismo.
 
 ###### Artículo 42.
 
@@ -14765,3 +14987,9 @@ G.O. 17 DE ABRIL DE 2012.
 PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 22 DE AGOSTO DE 2012.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
