@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-instituto-mexicano-del-seguro-social-51
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-09-18"
-last_updated: "2009-01-20"
+last_updated: "2012-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51651&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-09-11"
 
 REGLAMENTO INTERIOR DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE ENERO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE AGOSTO DE 2012.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 18 de septiembre de 2006.
 
@@ -2489,7 +2489,7 @@ e) Subdelegación y Oficina para Cobros del Instituto Mexicano del Seguro Social
 
 Jurisdicción: Los Municipios de Jaral del Progreso, Moroleón, Salamanca, Santa Cruz de Juventino Rosas, Uriangato, Valle de Santiago y Yuriria.
 
-> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], D.O.F. 5 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 5 DE OCTUBRE DE 2007)</small>
 
 XI. Delegación Estatal Guerrero.
 
@@ -2751,7 +2751,9 @@ Jurisdicción: Los Municipios de Cozumel, Solidaridad y Tulum.
 
 c) Subdelegación y Oficina para Cobros del Instituto Mexicano del Seguro Social: Chetumal.
 
-Jurisdicción: Los Municipios de Felipe Carrillo Puerto, José María Morelos y Othón P. Blanco.
+> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 2012)</small>
+
+Jurisdicción: Los Municipios de Bacalar, Felipe Carrillo Puerto, José María Morelos y Othón P. Blanco.
 
 XXIV. Delegación Estatal San Luis Potosí.
 
@@ -3065,7 +3067,7 @@ OCTAVO. Las modificaciones que en virtud del presente Reglamento se lleven a cab
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los once días del mes de septiembre de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Francisco Javier Salazar Sáenz.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 5 DE OCTUBRE DE 2007.
 
@@ -3076,3 +3078,9 @@ D.O.F. 20 DE ENERO DE 2009.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Los asuntos que se encuentren en trámite o pendientes de resolución ante las Subdelegaciones y Oficinas para Cobros del Instituto, cuya jurisdicción se modifica con el presente Decreto, se sustanciarán y resolverán conforme a las disposiciones vigentes al momento en el que se inició dicho trámite.
+
+D.O.F. 23 DE AGOSTO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los asuntos que se encuentren en trámite o pendientes de resolución ante la Subdelegación y Oficina para Cobros del Instituto Mexicano del Seguro Social, cuya jurisdicción se modifica con el presente Decreto, se sustanciarán y resolverán conforme a las disposiciones vigentes al momento en el que se inició dicho trámite.
