@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-la-ley-de-gobierno-del-poder-legislativo-del-8401
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-12-01"
-last_updated: "2011-12-01"
+last_updated: "2012-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2012.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el jueves 1 de diciembre de 2011.
 
@@ -275,13 +275,35 @@ Los diputados tomarán asiento sin preferencia de lugar y guardarán el decoro q
 
 #### Sección Primera. Generalidades
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 23.
 
-Las sesiones del Congreso tendrán el carácter de ordinarias, extraordinarias y solemnes; todas las sesiones serán públicas, y podrán ser privadas en los casos extraordinarios cuando los asuntos que hayan de tratarse exijan reserva a juicio del Presidente o de la mayoría de los diputados. Las personas distintas a las mencionadas en el párrafo que antecede, podrán hacer uso de la Tribuna y en situaciones especiales, a propuesta del Presidente del Congreso, con aprobación del Pleno.
+Las sesiones del Congreso tendrán el carácter de ordinarias, extraordinarias y solemnes; todas las sesiones serán públicas, y podrán ser privadas en los casos extraordinarios cuando los asuntos que hayan de tratarse exijan reserva a juicio del Presidente o de la mayoría de los diputados.
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 24.
 
-El uso de la tribuna del Congreso les corresponderá exclusivamente a los diputados. Sin embargo, también podrán hacer uso de la Tribuna, los servidores públicos, funcionarios y autoridades, así como los recipiendarios de algún reconocimiento o mención especial y quienes deban intervenir en el desahogo de la declaración de procedencia y juicio político, de conformidad con lo que establezcan las normas respectivas o con aprobación del Pleno.
+El uso de la tribuna del Congreso le corresponderá exclusivamente a los diputados. Sin embargo, también podrán hacer uso de la tribuna, los servidores públicos, funcionarios y autoridades, así como los recipiendarios de algún reconocimiento o mención especial y quienes deban intervenir en el desahogo de la declaración de procedencia y juicio político, de conformidad con lo que establezcan las normas respectivas o con aprobación del Pleno.
+
+Las personas distintas a las mencionadas en el párrafo que antecede, podrán hacer uso de la Tribuna y en situaciones especiales, a propuesta del Presidente del Congreso, con aprobación del Pleno.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2012)</small>
+
+###### Artículo 24 Bis.
+
+Los secretarios de la Mesa Directiva tendrán como facultades y obligaciones las siguientes:
+
+I.- Auxiliar al Presidente en el desempeño de sus funciones;
+
+II.- Pasar lista a los diputados para constatar la existencia del quórum legal necesario para abrir las sesiones del Congreso y para la validez de las resoluciones adoptadas en ella;
+
+III.- Cuidar que se redacten las síntesis de las actas de las sesiones con toda veracidad e imparcialidad y extender las de las sesiones secretas;
+
+IV.- Firmar y rubricar junto con el Presidente, las leyes, decretos y acuerdos aprobados por la Legislatura; así como toda la correspondencia oficial, y
+
+V.- Las demás que les señale la Ley o este Reglamento.
 
 #### Sección Segunda. De las Sesiones Ordinarias
 
@@ -321,9 +343,13 @@ Cuando asista a alguna sesión el ciudadano Presidente Constitucional de los Est
 
 En su caso el Gobernador del Estado o su Representante personal ocuparán el asiento de la derecha del Presidente del Congreso y el Representante del Tribunal Superior de Justicia si concurriere a la sesión, el de la izquierda.
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 30.
 
-Si se tratare de la Sesión Solemne, en que el Gobernador del Estado deba rendir el Compromiso Constitucional, para asumir su cargo, será recibido por los dos secretarios quienes también lo acompañarán a su salida, los demás diputados se pondrán de pie cuando el Gobernador electo llegue al salón; el Presidente se pondrá de pie cuando el Gobernador llegue al Presídium y se situará a quien hubiere desempeñado la Titularidad del Poder Ejecutivo hasta antes de rendir el Compromiso, en el lugar que al Gobernador corresponda conforme al artículo 29 de este Reglamento; pero una vez rendido el Compromiso por el Gobernador electo, aquél deberá ceder su lugar a éste y ocupar el que al efecto se le haya destinado en el Presídium. También se nombrará a una Comisión que acompañe al salón a los Magistrados del Tribunal Superior de Justicia, para hacer el Compromiso.
+Si se tratare de la Sesión Solemne, en la que el Gobernador Electo deba rendir el Compromiso Constitucional para asumir su cargo, será recibido por los dos secretarios quienes también lo acompañarán a su salida, los demás diputados se pondrán de pie cuando el Gobernador Electo llegue al salón; el Presidente se pondrá de pie cuando el Gobernador Electo llegue al Presídium y se situará a quien hubiere desempeñado la Titularidad del Poder Ejecutivo hasta antes de rendirse el Compromiso, en el lugar que al Gobernador corresponda conforme al artículo 29 de este Reglamento; pero una vez rendido el Compromiso Constitucional por el Gobernador Electo, aquél deberá ceder su lugar a éste y ocupar el que al efecto se le haya destinado en el Presídium.
+
+También se nombrará a una Comisión que acompañe al salón al Presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura del Poder Judicial del Estado.
 
 ###### Artículo 31.
 
@@ -333,13 +359,17 @@ En el momento de rendirse el Compromiso, el Gobernador electo del Estado, los Di
 
 Si al concluir el Compromiso, el Gobernador dirigiere la palabra al Congreso, el Presidente de la Mesa Directiva deberá dar contestación en términos generales.
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 33.
 
-Cuando se trate del Compromiso Constitucional, que deba rendir algún Diputado, Magistrado del Tribunal Superior de Justicia o el Presidente de la Comisión de Derechos Humanos del Estado ante el Congreso, el Presidente designará una Comisión que lo acompañe en su entrada y salida del Recinto.
+Cuando se trate del Compromiso Constitucional, que deban rendir los magistrados del Poder Judicial o el Presidente de la Comisión de Derechos Humanos del Estado ante el Congreso, el Presidente del Congreso designará una Comisión que los acompañe en su entrada y salida del Recinto.
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 34.
 
-Los Secretarios deberán dejar vacantes los lugares que les corresponden conforme a este Capítulo, cuando deban ser ocupados por otros funcionarios, e ir a ocupar sus curules junto a los demás Diputados.
+Los secretarios deberán dejar vacantes los lugares que les corresponden conforme a este Capítulo, cuando deban ser ocupados por otros funcionarios, e ir a ocupar sus asientos en los lugares dispuestos para que puedan continuar en el desahogo de la sesión.
 
 ###### Artículo 35.
 
@@ -377,9 +407,11 @@ La Diputación permanente estará compuesta por un Presidente, un Secretario y u
 
 Antes de Clausurar cada período de sesiones ordinarias el Congreso del Estado, elegirá a la Diputación Permanente a que se refiere el artículo anterior entre sus integrantes.
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 41.
 
-Para la apertura de las sesiones de los períodos ordinarios del segundo y demás períodos del trienio, se celebrará una junta preparatoria. La Mesa Directiva de estas juntas será la misma de la Diputación Permanente. Para la elección de los miembros de la Mesa Directiva se convocará a una junta preparatoria con cuando menos tres días de anticipación a la fecha de apertura.
+Para la apertura de las sesiones de los períodos ordinarios del segundo y demás períodos del trienio, se celebrará una junta preparatoria. La Mesa Directiva de estas juntas será la misma de la Diputación Permanente. Para la elección de los miembros de la Mesa Directiva se convocará a una junta preparatoria dentro de los diez días anteriores a la fecha de apertura.
 
 ###### Artículo 42.
 
@@ -471,6 +503,10 @@ Tendrán prioridad aquellos asuntos que impliquen un mayor interés público y l
 
 El Presidente del Congreso notificará vía electrónica a los diputados el Orden del día y pondrá a disposición en la página electrónica oficial del Poder Legislativo, a más tardar a las 22:00 horas del día anterior de cada Sesión.
 
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2012)</small>
+
+Cuando se requiera realizar una segunda o tercera sesión en el mismo día, no se requerirá de esta formalidad.
+
 ###### Artículo 55.
 
 Previo al desahogo del Orden del día, el Presidente de la Mesa Directiva cuidará que se cumplan los requisitos de registro de asistencia y declaración de quórum.
@@ -514,6 +550,10 @@ Se podrá modificar el trámite con el que se hubiere turnado un asunto para rec
 La rectificación del turno, será la corrección del trámite retirándolo de una comisión para enviarlo a otra, en atención a que de su análisis se desprenda que el asunto compete a otra comisión.
 
 La ampliación del turno será el envío a otras comisiones, en razón de la correspondencia por cuanto a la materia.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2012)</small>
+
+La declinación del turno será la rectificación por parte del Presidente de la Mesa Directiva, a petición de una Comisión en razón de considerar que la materia del asunto turnado no es competencia de ésta.
 
 ###### Artículo 62.
 
@@ -627,9 +667,17 @@ II.- Iniciativas de ley o de decreto;
 
 III.- Observaciones hechas por el Titular del Poder Ejecutivo del Estado a proyectos de ley o decreto;
 
-IV.- Cuenta Pública, y
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2012)</small>
 
-V.- Acuerdos.
+IV.- Cuenta Pública;
+
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2012)</small>
+
+V.- Acuerdos, y
+
+> <small>(ADICIONADA, P.O. 23 DE AGOSTO DE 2012)</small>
+
+VI.- Los demás que sean turnados para su resolución.
 
 Las comisiones podrán retirar el dictamen enviado a la Mesa Directiva, hasta antes de que se discuta por el Pleno. Para ello, la Comisión deberá acordarlo por mayoría.
 
@@ -757,7 +805,9 @@ No se admitirá a discusión ninguna proposición que no se presente por escrito
 
 Las discusiones sólo pueden producirse:
 
-I.- Por el acta;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2012)</small>
+
+I.- Por el acta o por la síntesis del acta, según sea el caso;
 
 II.- Por los trámites;
 
@@ -771,9 +821,11 @@ V.- Por los proyectos de leyes, decretos o acuerdos.
 
 En cada uno de los casos de las fracciones del artículo anterior, se observarán respectivamente las reglas siguientes:
 
-I.- Tratándose de la síntesis del acta, si un diputado la impugnare, uno de los Secretarios expondrá las razones por las que se haya redactado en esos términos en que estén concebidos. Enseguida podrá volver a hacer uso de la palabra el que hizo la impugnación y en el mismo sentido podrá hacerlo también por dos veces otro Diputado. A favor podrán hablar también, por dos veces, otros diputados y uno de los secretarios, pudiendo éstos hacer uso de la palabra las veces que crean necesarias para dar las explicaciones correspondientes.
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2012)</small>
 
-Acto continuo, se preguntará al Congreso si se modifica la síntesis del acta en el sentido en que se haya impugnado. Si fueren varios los puntos impugnados, la pregunta se hará respecto de cada uno de ellos. Si fueren varios y por distintas causas los impugnadores, se observará respecto de cada uno de ellos lo prevenido en este artículo, a cuyo efecto el Presidente les irá concediendo la palabra a medida que se vaya resolviendo sobre cada impugnación. Si esas resoluciones fueren afirmativas, se harán constar desde luego las reformas a que se refiere, el documento respectivo;
+I.- Tratándose del acta o síntesis del acta, según sea el caso, si un diputado la impugnare, uno de los secretarios expondrá las razones por las que se haya redactado en esos términos en que estén concebidos. Enseguida podrá volver a hacer uso de la palabra el que hizo la impugnación y en el mismo sentido podrá hacerlo también por dos veces otro Diputado. A favor podrán hablar también, por dos veces, otros diputados y uno de los secretarios, pudiendo éstos hacer uso de la palabra las veces que crean necesarias para dar las explicaciones correspondientes.
+
+Acto continuo, se preguntará al Congreso si se modifica el acta o síntesis del acta, según sea el caso, en el sentido en que se haya impugnado. Si fueren varios los puntos impugnados, la pregunta se hará respecto de cada uno de ellos. Si fueren varios y por distintas causas los impugnadores, se observará respecto de cada uno de ellos lo prevenido en este artículo, a cuyo efecto el Presidente les irá concediendo la palabra a medida que se vaya resolviendo sobre cada impugnación. Si esas resoluciones fueren afirmativas, se harán constar desde luego las reformas a que se refiere, el documento respectivo;
 
 II.- Respecto de los trámites, si dictado uno de ellos por el Presidente, lo reclamare algún Diputado, se pondrá desde luego a discusión. Podrán hablar dos Diputados en contra y dos a favor, hasta por dos veces cada uno, y el Presidente por las que crea necesarias para explicar los fundamentos que tuvo para dictarlo. En seguida se preguntará si subsiste el trámite. Si se resuelve por la negativa, el Presidente lo reformará en el sentido de la impugnación. Si el trámite es reclamado de nuevo, se seguirá observando nuevamente lo prevenido en esta fracción, siempre y cuando sea otro el argumento planteado. La reclamación de un trámite no podrá hacerse cuando después de dictado éste se haya verificado alguna votación, o se esté ocupando el Congreso de otro asunto distinto del que motivó aquél;
 
@@ -859,9 +911,19 @@ Las personas a que se refiere (sic) los tres artículos anteriores no podrán ha
 
 El voto es la manifestación de la voluntad de un legislador a favor, o en contra, respecto al sentido de una resolución de un determinado asunto. Habrá tres clases de votaciones: Nominales, Económicas y por Cédulas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 105.
 
-La votación nominal será del modo siguiente:
+La votación nominal se realizará mediante el sistema electrónico que se establezca para tal efecto y se llevará a cabo en un tiempo no mayor a cinco minutos, mismo que será indicado por el Presidente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE AGOSTO DE 2012)</small>
+
+Una vez terminado el tiempo límite, el sistema electrónico no registrará votos posteriores; el Secretario situado a la derecha del Presidente preguntará si falta algún diputado por emitir su voto y, en su caso, se registrará verbalmente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO], P.O. 23 DE AGOSTO DE 2012)</small>
+
+Ante una falla o falta de disponibilidad del sistema electrónico la votación nominal será del modo siguiente:
 
 I.- Cada miembro del Congreso, comenzando por el Secretario situado a la izquierda del Presidente, se pondrá de pie y dirá en voz alta, para distinguirlo de otro, su apellido y su nombre, añadiendo la expresión "sí" o "no";
 
@@ -1053,13 +1115,19 @@ I.- Nombre de la comisión o comité convocante;
 
 II.- Fecha, hora y lugar de la sesión;
 
-III.- Tipo de sesión ya sea ordinaria, extraordinaria o de comisiones unidas;
+III.- (DEROGADA, P.O. 23 DE AGOSTO DE 2012)
 
 IV.- Asuntos en cartera;
 
 V.- Fecha en que se emite, y
 
-VI.- Rúbrica del Presidente o del Secretario General en caso de que se lo instruya el Presidente de la Comisión.
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2012)</small>
+
+VI.- Rúbrica del Presidente o presidentes en caso de ser comisiones unidas.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2012)</small>
+
+El Secretario General del Poder Legislativo podrá expedir dichas convocatorias en caso de que se lo instruya el Presidente de la Comisión.
 
 ###### Artículo 135.
 
@@ -1087,7 +1155,9 @@ En caso de que transcurran quince minutos después de la hora convocada y no se 
 
 Los diputados concurrentes a las sesiones de comisión o comisiones firmarán la lista de asistencia.
 
-El Presidente establecerá el orden del día, mismo que podrá ser modificado a propuesta de sus integrantes y con la aprobación de la mayoría.
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2012)</small>
+
+El Presidente establecerá el orden del día, mismo que podrá ser modificado a propuesta de sus integrantes y con la aprobación de la mayoría simple.
 
 Las resoluciones o dictámenes deberán adoptarse por mayoría simple.
 
@@ -1113,7 +1183,9 @@ Para que haya dictamen de comisiones unidas, la propuesta deberá aprobarse por 
 
 La comisión que considere conveniente solicitar prórroga para la decisión del asunto turnado, deberá hacer la solicitud al Presidente del Congreso, por conducto del Presidente de la Comisión, dentro del término para dictaminar.
 
-El Pleno del Congreso deberá resolver las solicitudes de prórroga, considerando las circunstancias y argumentos de la petición. En caso de otorgarse, se señalará el plazo de dicha prórroga.
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2012)</small>
+
+El Pleno del Congreso deberá resolver las solicitudes de prórroga, considerando las circunstancias y argumentos de la petición.
 
 #### Sección Séptima. Del Presidente
 
@@ -1221,7 +1293,9 @@ Los diputados que falten injustificadamente en cuatro ocasiones consecutivas a l
 
 Se justificará la falta a trabajos de una comisión cuando algún diputado se encuentre en los siguientes supuestos:
 
-I. Estar en lo establecido en el artículo 34 de éste Reglamento;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2012)</small>
+
+I.- Los señalados en el artículo 47 de este Reglamento;
 
 II. Estar impedido por manifiesta imposibilidad, para arribar a la sesión, por causa ajena al diputado, y
 
@@ -1550,3 +1624,11 @@ T R A N S I T O R I O S:
 El presente Reglamento entrará en vigor a los 60 días siguientes a su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
 DADO EN LA SEDE DEL RECINTO DEL PODER LEGISLATIVO, EN LA CIUDAD DE MÉRIDA, YUCATÁN, ESTADOS UNIDOS MEXICANOS AL PRIMER DÍA DEL MES DE SEPTIEMBRE DEL AÑO DOS MIL ONCE.- PRESIDENTE: DIPUTADO CARLOS GERMÁN PAVÓN FLORES.- SECRETARIO PEDRO FRANCISCO COUOH SUASTE.- SECRETARIO.- DIPUTADO (SIC) LETICIA DOLORES MENDOZA ALCOCER.- RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE AGOSTO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
