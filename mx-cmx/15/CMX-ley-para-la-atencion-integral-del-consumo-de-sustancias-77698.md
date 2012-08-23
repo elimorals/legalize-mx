@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-la-atencion-integral-del-consumo-de-sustancias-77698"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-29"
-last_updated: "2011-05-31"
+last_updated: "2012-08-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77698&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2010-12-20"
 ---
 # LEY PARA LA ATENCION INTEGRAL DEL CONSUMO DE SUSTANCIAS PSICOACTIVAS DE LA CIUDAD DE MEXICO -- ANTES -- LEY PARA LA ATENCION INTEGRAL DEL CONSUMO DE SUSTANCIAS PSICOACTIVAS DEL DISTRITO FEDERAL
 
-LEY PARA LA ATENCION INTEGRAL DEL CONSUMO DE SUSTANCIAS PSICOACTIVAS DEL DISTRITO FEDERAL
+LEY PARA LA ATENCIÓN INTEGRAL DEL CONSUMO DE SUSTANCIAS PSICOACTIVAS DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE AGOSTO DE 2012.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 29 de diciembre de 2010.
 
@@ -100,7 +100,9 @@ III. Asamblea Legislativa: la H. Asamblea Legislativa del Distrito Federal;
 
 IV. Atención integral del consumo de sustancias psicoactivas: todas las acciones sociales y sanitarias necesarias de corto, mediano y largo plazo, que tengan por objeto contribuir en el mejoramiento de la calidad de vida y las condiciones para el ejercicio pleno de los derechos de las personas con consumo de sustancias psicoactivas, con el fin de superar las afectaciones en el área familiar, ocupacional, social, económica, legal o física que en cada caso sea causa de dicho consumo;
 
-V. Centros de Atención Integral del Consumo de Sustancias Psicoactivas: instituciones públicas dependientes y auxiliares del Instituto, en las cuales se prestan servicios de atención integral a personas con consumo de sustancias psicoactivas y a la población en general en materia de prevención;
+> <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2012)</small>
+
+V. Centros de Atención Integral del Consumo de Sustancias Psicoactivas: instituciones públicas dedicadas a la provisión de servicios de atención integral a personas con consumo de sustancias psicoactivas y a la población en general, que estarán coordinadas por la rectoría del Instituto;
 
 VI. Delegación: órganos político-administrativos en cada una de las demarcaciones territoriales en la que se divide el Distrito Federal;
 
@@ -256,6 +258,18 @@ La participación social activa e informada en los programas y servicios contemp
 
 Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades que integran la Administración Pública del Distrito Federal, así como los órganos de gobierno y autónomos, en el ámbito de sus respectivas competencias, desarrollarán acciones para dar cumplimiento al objeto de la presente Ley, utilizando incluso las nuevas tecnologías de información y comunicación.
 
+> <small>(ADICIONADO, G.O. 23 DE AGOSTO DE 2012)</small>
+
+Las Delegaciones, dentro de la demarcación correspondiente y conforme al ámbito de su competencia, desarrollarán e implementarán programas administrativos para prohibir la venta o suministro, mediante cualquier forma, a menores de edad, personas que no tienen capacidad para comprender el significado del hecho o personas que no tienen capacidad para resistirlo, de sustancias inhalables que se determinen conforme a esta Ley y las disposiciones reglamentarias emitidas por las autoridades federales.
+
+> <small>(ADICIONADO, G.O. 23 DE AGOSTO DE 2012)</small>
+
+Los programas a los que se refiere el párrafo anterior se dirigirán de manera particular a los establecimientos mercantiles que, de acuerdo a la ley en la materia, tengan por objeto el expendio de las sustancias inhalables.
+
+> <small>(ADICIONADO, G.O. 23 DE AGOSTO DE 2012)</small>
+
+Las autoridades delegacionales, en caso de tener conocimiento sobre la venta o suministro, mediante cualquier forma, a menores de edad, personas que no tienen capacidad para comprender el significado del hecho o personas que no tienen capacidad para resistirlo, de sustancias inhalables determinadas por la presente Ley y las disposiciones reglamentarias emitidas por las autoridades correspondientes, darán aviso al Ministerio Público sobre posibles conductas constitutivas de delito en términos de la legislación aplicable.
+
 ## TÍTULO SEGUNDO. DEL PROGRAMA GENERAL PARA LA ATENCIÓN INTEGRAL DEL CONSUMO DE SUSTANCIAS PSICOACTIVAS DEL DISTRITO FEDERAL
 
 ### Capítulo Único. Disposiciones generales
@@ -390,9 +404,23 @@ Las personas titulares asistirán a las reuniones del Consejo, los cuales podrá
 
 La Secretaría Técnica del Consejo, recaerá en la Secretaría de Salud, o bien, en el órgano que para tal efecto designe su titular.
 
-###### Artículo 20.
+> <small>(ADICIONADO, G.O. 23 DE AGOSTO DE 2012)</small>
 
 El Jefe de Gobierno emitirá los lineamientos de operación del Consejo Interdependencial.
+
+> <small>(REFORMADO, G.O. 23 DE AGOSTO DE 2012)</small>
+
+###### Artículo 20.
+
+El Programa General contemplará acciones para prevenir e inhibir el consumo de sustancias inhalables, así como de las medidas necesarias que deben desarrollar las instancias respectivas para la prohibición de la venta o suministro, mediante cualquier forma, a menores de edad, personas que no tienen capacidad para comprender el significado del hecho o personas que no tienen capacidad para resistirlo, de sustancias inhalables.
+
+Sin menoscabo de las disposiciones reglamentarias emitidas por las autoridades correspondientes, las sustancias inhalables que deben considerarse para la aplicación de las acciones referidas en la presente Ley, son las siguientes:
+
+I. Disolventes volátiles o solventes que son líquidos que se vaporizan a temperatura ambiente, entre los que se encuentran solventes industriales, domésticos, de efectos de oficina o arte;
+
+II. Aerosoles que contengan propulsores y disolventes, y
+
+III. Gases utilizados como productos caseros, comerciales o de utilización como anestésicos médicos.
 
 > <small>(REFORMADO, G.O. 31 DE MAYO DE 2011)</small>
 
@@ -492,9 +520,11 @@ La intervención breve implica la motivación de las personas, la potencializaci
 
 ### Capítulo Segundo. De la intervención, tratamiento y rehabilitación del consumo de sustancias psicoactivas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 36.
 
-El Instituto establecerá las bases, lineamientos, objetivos, modalidades, métodos y estrategias que llevarán acabo (sic) los establecimientos especializados en adicciones que presten sus servicios en las materias de tratamiento y rehabilitación del consumo de sustancias psicoactivas del Distrito Federal.
+El Instituto es la instancia normativa respecto a la intervención, tratamiento y rehabilitación del consumo de sustancias psicoactivas, para ello establecerá las bases, lineamientos, criterios técnicos, objetivos, modalidades, métodos y estrategias que cumplirán los establecimientos especializados en adicciones y los Centros de Atención Integral del Consumo de Sustancias Psicoactivas y, en general, en las materias de tratamiento y rehabilitación del consumo de sustancias psicoactivas en el Distrito Federal.
 
 La prestación de servicios de tratamiento y rehabilitación al consumo de sustancias psicoactivas se realizará atendiendo a lo dispuesto en los lineamientos que emitan organismos internacionales, la Ley General de Salud, la Ley de Salud del Distrito Federal, las Normas Oficiales Mexicanas en la materia, y demás instrumentos jurídicos aplicables.
 
@@ -1146,9 +1176,13 @@ La Asamblea Legislativa asignará recursos para el funcionamiento y operación d
 
 Las Delegaciones y Dependencias del Gobierno del Distrito Federal destinarán el diez por ciento de su presupuesto en comunicación social para implementar campañas orientadas a la prevención y detección oportuna del consumo de sustancias psicoactivas, las cuales serán diseñadas por el Instituto.
 
+> <small>(REFORMADO, G.O. 23 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 83.
 
-Las Delegaciones construirán dentro de su espacio geográfico, una unidad de atención, tratamiento y rehabilitación para el consumo de sustancias psicoactivas bajo los lineamientos que para tal efecto emita el Instituto.
+La política pública de atención integral del consumo de sustancias psicoactivas en la Ciudad de México requiere del establecimiento y adecuado funcionamiento de infraestructura e instalaciones necesarias para su ejecución.
+
+Para tal efecto, las Delegaciones asegurarán la construcción, dentro de su espacio geográfico, de por lo menos una unidad de atención, tratamiento y rehabilitación para el consumo de sustancias psicoactivas bajo los lineamientos que para tal efecto emita el Instituto.
 
 ###### Artículo 84.
 
@@ -1180,8 +1214,18 @@ Recinto de la Asamblea Legislativa del Distrito Federal, a los veinte días del 
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veintisiete días del mes de diciembre del año dos mil diez.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE SALUD, JOSÉ ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, MANUEL MONDRAGÓN Y KALB.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, MARTÍ BATRES GUADARRAMA.- FIRMA.- EL SECRETARIO DE FINANZAS, ARMANDO LÓPEZ CÁRDENAS.- FIRMA.- LA SECRETARIA DE CULTURA, ELENA CEPEDA DE LEÓN.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, MARIO M. DELGADO CARRILLO.- FIRMA.- EL SECRETARIO DE TRABAJO Y FOMENTO AL EMPLEO, BENITO MIRÓN LINCE.- FIRMA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.O. 31 DE MAYO DE 2011.
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 23 DE AGOSTO DE 2012.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo. Las Delegaciones contarán con 45 días hábiles para publicar en la Gaceta Oficial del Distrito Federal los programas administrativos correspondientes para dar cumplimiento a lo dispuesto en el artículo 10° del presente Decreto, a partir de la entrada en vigor del mismo.
+
+Tercero. Las Delegaciones que durante el ejercicio fiscal 2011 no hayan efectuado el proyecto ejecutivo debidamente aprobado, los trámites administrativos o la adquisición del terreno apropiado para la construcción del Centro a que se refiere el artículo 83 de la presente Ley, tendrán como plazo para dar cumplimiento a dicha disposición el segundo semestre de 2012, a fin de garantizar el inicio de las obras de construcción en el primer trimestre del año 2014, lo anterior conforme a la suficiencia presupuestal
+
+Cuarto. La Secretaría de Salud y el Instituto para la Atención y Prevención de las Adicciones de la Ciudad de México, conforme a la suficiencia presupuestal asignada por la Asamblea Legislativa, instrumentarán las acciones establecidas en el presente Decreto.
