@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "2012-08-18"
+last_updated: "2012-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2012.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -1545,11 +1545,17 @@ a) La Federación, el Estado y los municipios;
 
 b) Los contratos de construcción que celebren las empresas paraestatales y organismos descentralizados;
 
-c) Los contratos de construcción o financiamiento relativos a la edificación o adquisición de viviendas de interés social, clasificadas como tipo Cajón A.
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 2000)</small>
+c) Los contratos de construcción o financiamientos relativos a la edificación de viviendas de interés social, ubicadas en el cajón salarial menor a 2 veces el salario mínimo, y
 
-d) La realización de actos o contratos, cuando su objeto sea la construcción, reconstrucción y ampliación de inmuebles destinados a viviendas de interés social, unifamiliar y de tipo popular, según las definiciones previstas en la Ley de Ingresos del Municipio.
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2012)</small>
+
+d) La realización de actos o contratos, cuando su objeto sea la construcción, reconstrucción y ampliación de inmuebles destinados a viviendas de interés social, unifamiliar y de tipo popular, según las definiciones previstas en la Ley de Ingresos del municipio que corresponda; en caso de no tenerla, se sujetará a la siguiente definición:
+
+1. Se entiende por vivienda de interés social aquella cuyo valor catastral no exceda de quince salarios mínimos generales vigentes, elevados al año, en el área geográfica donde se localice el inmueble, y
+
+2. Se entiende por vivienda popular aquella cuyo valor catastral no exceda de veinticinco salarios mínimos generales vigentes, elevados al año, en el área geográfica donde se localice el inmueble, y
 
 > <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
@@ -3569,8 +3575,6 @@ PRIMERO. Los artículos primero y segundo del presente decreto, relativos la (si
 
 SEGUNDO. El artículo tercero del presente decreto, relativo a la Ley de Ingresos del municipio de Guadalajara, Jalisco, para el ejercicio fiscal de 2012, entrará en vigor el día 1.° de enero de 2012, previa su publicación en el periódico oficial El Estado de Jalisco.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTOS TRANSITORIOS, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE NOVIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 P.O. 18 DE AGOSTO DE 2012.
 
 PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
@@ -3592,3 +3596,7 @@ II. Formular y aprobar los instrumentos administrativos necesarios para adecuars
 SEXTO. A partir de la fecha cuando el Ayuntamiento y sus dependencias u organismos asuman la administración de los servicios públicos de agua potable y saneamiento en los términos de las reformas y adiciones que se autorizan, se derogarán todas las disposiciones que se opongan a lo establecido en el presente Decreto, en el ámbito de aplicación correspondiente a ese Municipio.
 
 A partir de la fecha cuando el Ayuntamiento y sus dependencias u organismos asuman la administración de los servicios públicos de agua potable y saneamiento en los términos de las reformas y adiciones que se autorizan, se derogarán todas las disposiciones que se opongan a lo establecido en el presente Decreto, en el ámbito de de (sic) aplicación correspondiente a ese Municipio.
+
+P.O. 23 DE AGOSTO DE 2012.
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.
