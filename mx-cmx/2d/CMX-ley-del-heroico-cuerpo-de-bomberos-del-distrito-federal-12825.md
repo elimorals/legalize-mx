@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-heroico-cuerpo-de-bomberos-del-distrito-federal-12825"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-24"
-last_updated: "2009-02-17"
+last_updated: "2012-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12825&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-11-06"
 
 LEY DEL HEROICO CUERPO DE BOMBEROS DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE FEBRERO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE AGOSTO DE 2012.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 24 de diciembre de 1998.
 
@@ -100,79 +100,75 @@ Los servicios a que se refiere el párrafo anterior se proporcionarán sin disti
 
 El Heroico Cuerpo de Bomberos del Distrito Federal, así como los sistemas o programas de apoyo al mismo, tienen la obligación de denunciar las falsas llamadas ante el Juez Cívico con el fin de exigir a sus autores las responsabilidades a que haya lugar.
 
-> <small>(REFORMADO, G.O. 10 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, G.O. 23 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 5o.
 
 Para los efectos de esta Ley se entenderá por:
 
-I. Bombero.- Servidor público miembro de un cuerpo de salvaguarda de la población y protección civil, altamente especializado, encargado de la prevención, atención y mitigación de las emergencias, riesgos y desastres;
+I. Bombero.- Servidor público miembro de un cuerpo de salvaguarda de la población y protección civil, altamente especializado, encargado de la prevención, atención y mitigación de las emergencias, riesgos y desastres.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+II. Bombero Forestal.- Servidor público miembro de un cuerpo de salvaguarda del medio ambiente, altamente especializado, encargado de la prevención, combate y extinción de incendios en suelo de conservación, áreas naturales protegidas y áreas de valor ambiental que se encuentran en el territorio del Distrito Federal.
 
-> <small>(ADICIONADA, G.O. 31 DE OCTUBRE DE 2008)</small>
+III. Consejo del Heroico Cuerpo de Bomberos.- Es el órgano asesor, de consulta y análisis que busca el constante mejoramiento y profesionalización del organismo con la facultad de emitir opiniones y recomendaciones a la Junta de Gobierno, así como de transmitirle ideas y propuestas que hagan llegar la población y los bomberos.
 
-I bis. Bombero Forestal.- Servidor público miembro de un cuerpo de salvaguarda del medio ambiente, altamente especializado, encargado de la prevención, combate y extinción de incendios en suelo de conservación, áreas naturales protegidas y áreas de valor ambiental que se encuentran en el territorio del Distrito Federal;
+IV. Delegaciones.- Los órganos políticos administrativos en cada una de las demarcaciones territoriales en que se divide el Distrito Federal.
 
-II. Consejo del Heroico Cuerpo de Bomberos del Distrito Federal.- Es el órgano asesor, de consulta y análisis que busca el constante mejoramiento y profesionalización del organismo con la facultad de emitir opiniones y recomendaciones a la Junta de Gobierno, así como de transmitirle ideas y propuestas que hagan llegar la población y los bomberos;
+V. Desastre.- Interrupción seria en el funcionamiento de una sociedad causando grandes pérdidas humanas, materiales o ambientales, suficientes para que la sociedad afectada no pueda salir adelante por sus propios medios.
 
-III. Desastre.- Interrupción seria en el funcionamiento de una sociedad causando grandes pérdidas humanas, materiales o ambientales, suficientes para que la sociedad afectada no pueda salir adelante por sus propios medios;
+VI. Director General.- Encargado de ejecutar las políticas, estrategias y lineamientos que la Junta de Gobierno determine, asimismo, será el representante jurídico de este organismo, de conformidad con lo establecido por el artículo 47 de la Ley Orgánica de la Administración Pública del Distrito Federal.
 
-IV. Director General.- Encargado de ejecutar las políticas, estrategias y lineamientos que la Junta de Gobierno determine, asimismo, será el representante jurídico de este organismo, de conformidad con lo establecido por el artículo 47 de la Ley Orgánica de la Administración Pública del Distrito Federal;
+VII. Emergencia Cotidiana.- Evento repentino e imprevisto, que hace tomar medidas de prevención, protección y control inmediatas por parte del Heroico Cuerpo de Bomberos del Distrito Federal, para minimizar sus consecuencias y acabarlas.
 
-V. Emergencia Cotidiana.- Evento repentino e imprevisto, que hace tomar medidas de prevención, protección y control inmediatas por parte del Heroico Cuerpo de Bomberos del Distrito Federal, para minimizar sus consecuencias y acabarlas;
+VIII. Emergencia Forestal.- Evento repentino e imprevisto ocurrido en suelo de conservación, áreas naturales protegidas y área de valor ambiental, que hace tomar medidas de protección y control inmediatas por parte de la Secretaría del Medio Ambiente y del Heroico Cuerpo de Bomberos del Distrito Federal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+IX. Equipo.- Son todos aquellos instrumentos de seguridad, protección, o extinción de incendios o conflagraciones, así como los medios de transporte y demás herramientas necesarias para el ataque y extinción de éstos.
 
-> <small>(ADICIONADA, G.O. 31 DE OCTUBRE DE 2008)</small>
+X. Establecimiento mercantil.- Inmueble en el que una persona física o moral, desarrolla actividades relativas a la intermediación, compraventa, alquiler o prestación de servicios en forma permanente.
 
-V bis. Emergencia Forestal.- Evento repentino e imprevisto ocurrido en suelo de conservación, áreas naturales protegidas y área de valor ambiental, que hace tomar medidas de protección y control inmediatas por parte de la Secretaría del Medio Ambiente y del Heroico Cuerpo de Bomberos del Distrito Federal;
+XI. Estación.- Instalación operativa ubicada en una Delegación, la cual, acorde con la superficie territorial bajo su responsabilidad, población, establecimientos mercantiles e industriales, contará con el equipo necesario para prestar los servicios inherentes al Heroico Cuerpo de Bomberos del Distrito Federal.
 
-VI. Equipo.- Son todos aquellos instrumentos de seguridad, protección, o extinción de incendios o conflagraciones, así como los medios de transporte y demás herramientas necesarias para el ataque y extinción de éstos;
+XII. Estación Central.- Sede de los Órganos de Administración del Heroico Cuerpo de Bomberos del Distrito Federal.
 
-VII. Establecimiento mercantil.- Inmueble en el que una persona física o moral, desarrolla actividades relativas a la intermediación, compraventa, alquiler o prestación de servicios en forma permanente;
+XIII. Extinción.- Terminación de la conflagración por parte de la corporación que implica la no existencia de riesgo o peligro alguno para la población.
 
-VIII. Estación.- Instalación operativa ubicada en una Demarcación Territorial, la cual, acorde con la superficie territorial bajo su responsabilidad, población, establecimientos mercantiles e industriales, contará con el equipo necesario para prestar los servicios inherentes al Heroico Cuerpo de Bomberos del Distrito Federal;
+XIV. Falsa Alarma.- Hecho repentino que pone a la población en una situación de peligro, pero que es controlada inmediatamente por la propia sociedad resultando innecesaria la intervención de la corporación.
 
-IX. Estación Central.- Sede de los Organos de Administración del Heroico Cuerpo de Bomberos del Distrito Federal;
+XV. Falsa llamada.- Llamada de auxilio que realiza la población sobre una contingencia falsa que causa la movilización del Heroico Cuerpo de Bomberos del Distrito Federal.
 
-X. Extinción.- Terminación de la conflagración por parte de la corporación que implica la no existencia de riesgo o peligro alguno para la población;
+XVI. Gobierno.- Al Gobierno del Distrito Federal.
 
-XI. Falsa Alarma.- Hecho repentino que pone a la población en una situación de peligro, pero que es controlada inmediatamente por la propia sociedad resultando innecesaria la intervención de la corporación;
+XVII. Industria.- Establecimiento en el que se desarrollan actividades económicas de producción de bienes mediante la transformación de materias primas.
 
-XII. Falsa llamada.- Llamada de auxilio que realiza la población sobre una contingencia falsa que causa la movilización del Heroico Cuerpo de Bomberos del Distrito Federal;
+XVIII. Jefe de Gobierno.- Jefe de Gobierno del Distrito Federal.
 
-XIII. Industria.- Establecimiento en el que se desarrollan actividades económicas de producción de bienes mediante la transformación de materias primas;
+XIX. Junta de Gobierno.- Es la máxima autoridad de este Organismo Descentralizado de la Administración Pública del Distrito Federal, instancia encargada de definir las políticas y estrategias del Organismo.
 
-XIV. Jefe de Gobierno.- Jefe de Gobierno del Distrito Federal;
+XX. Mitigación.- Las medidas tomadas con anticipación al siniestro y durante la emergencia, para reducir su impacto en la población, bienes y entorno.
 
-XV. Junta de Gobierno.- Es la máxima autoridad de este Organismo Descentralizado de la Administración Pública del Distrito Federal, instancia encargada de definir las políticas y estrategias del Organismo;
+XXI. Organismo.- El organismo descentralizado denominado Heroico Cuerpo de Bomberos del Distrito Federal.
 
-XVI. Mitigación.- Las medidas tomadas con anticipación al siniestro y durante la emergencia, para reducir su impacto en la población, bienes y entorno;
+XXII. Patronato.- El Patronato del Heroico Cuerpo de Bomberos del Distrito Federal.
 
-XVII. Organismo.- El organismo descentralizado denominado Heroico Cuerpo de Bomberos del Distrito Federal;
+XXIII. Prevención.- Acciones dirigidas a mitigar los peligros, evitando o disminuyendo el impacto destructivo de los fenómenos perturbadores sobre la vida y bienes de la población, los servicios vitales y estratégicos, la planta productiva y el medio ambiente, a través de acciones de mitigación y preparación.
 
-XVIII. Patronato.- El Patronato del Heroico Cuerpo de Bomberos del Distrito Federal;
+XXIV. Reglamento.- Reglamento de la Ley del Heroico Cuerpo de Bomberos del Distrito Federal.
 
-XIX. Prevención.- Acciones dirigidas a mitigar los peligros, evitando o disminuyendo el impacto destructivo de los fenómenos perturbadores sobre la vida y bienes de la población, los servicios vitales y estratégicos, la planta productiva y el medio ambiente, a través de acciones de mitigación y preparación;
+XXV. Riesgo.- Grado de probabilidad de pérdida de vidas, personas heridas, propiedades dañadas y actividad económica detenida durante un periodo de referencia en una región dada, para un peligro en particular producto de la amenaza y vulnerabilidad.
 
-XX. Reglamento.- Reglamento de la Ley del Heroico Cuerpo de Bomberos del Distrito Federal;
+XXVI. Siniestro.- Hecho funesto, daño grave, destrucción fortuita o pérdida importante que sufren los seres humanos en su persona o en sus bienes, causados por la presencia de un riesgo, emergencia o desastre.
 
-XXI. Riesgo.- Grado de probabilidad de pérdida de vidas, personas heridas, propiedades dañadas y actividad económica detenida durante un periodo de referencia en una región dada, para un peligro en particular producto de la amenaza y vulnerabilidad;
+XXVII. Subestación.- Instalación ubicada en zona conflictiva y de difícil acceso en las Delegaciones, que deberá contar al menos con el equipo más indispensable para hacer un primer frente a las emergencias.
 
-XXII. Siniestro.- Hecho funesto, daño grave, destrucción fortuita o pérdida importante que sufren los seres humanos en su persona o en sus bienes, causados por la presencia de un riesgo, emergencia o desastre;
+XXVIII. Transporte de substancias.- Compuestos o desechos y sus mezclas, que por sus características corrosivas, tóxicas, reactivas, explosivas inflamable o biológicas infecciosas, representen un riesgo para los habitantes del Distrito Federal y su medio ambiente, independiente del medio de transporte en que se conduzcan.
 
-XXIII. Subestación.- Instalación ubicada en zona conflictiva y de difícil acceso en las Demarcaciones Territoriales, que deberá contar al menos con el equipo más indispensable para hacer un primer frente a las emergencias;
-
-XXIV. Transporte de substancias.- Compuestos o desechos y sus mezclas, que por sus características corrosivas, tóxicas, reactivas, explosivas inflamable o biológicas infecciosas, representen un riesgo para los habitantes del Distrito Federal y su medio ambiente, independiente del medio de transporte en que se conduzcan.
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE ENERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 6o.
 
 Corresponde primordialmente al Organismo, el combate y extinción de incendios que se susciten en el Distrito Federal, así como la atención de las emergencias cotidianas a que se refiere la presente Ley y coadyuvar con los demás organismos públicos o privados encargados de la Protección Civil y la Seguridad Pública de la Ciudad.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE ENERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE ENERO DE 2005)</small>
 
 El Organismo tendrá las siguientes funciones:
 
@@ -180,7 +176,7 @@ I. Control y extinción de todo tipo de conflagraciones e incendios que por cual
 
 II. Desarrollar todo tipo de labores de prevención a través de dictámenes de aquéllos establecimientos contemplados en la presente Ley;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 31 DE OCTUBRE DE 2008)</small>
 
@@ -194,9 +190,9 @@ VI. Atención y control de derrames de substancias peligrosas;
 
 VII. Realizar labores de salvamento y rescate de personas atrapadas;
 
-> <small>(REFORMADA, G.O. 10 DE ENERO DE 2005)</small>
+> <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2012)</small>
 
-VIII. Delimitar áreas de riesgo en caso de cables caídos o cortos circuitos, así como operar su retiro o restablecimiento en coordinación con el personal de Luz y Fuerza del Centro o Comisión Federal de Electricidad, según corresponda;
+VIII. Delimitar áreas de riesgo en caso de cables caídos o cortos circuitos, así como operar su retiro o restablecimiento en coordinación con el personal de la Comisión Federal de Electricidad;
 
 > <small>(REFORMADA, G.O. 10 DE ENERO DE 2005)</small>
 
@@ -222,6 +218,10 @@ XVII. Suscribir convenios de cooperación con organismos públicos y privados a 
 
 XVII Bis. Suscribir convenios de ayuda recíproca con organismos de bomberos de la Zona Metropolitana de la Ciudad de México o de otros cuerpos de bomberos del país, en las áreas técnicas, preventivas u operativas, según sea el caso;
 
+> <small>(ADICIONADA, G.O. 23 DE AGOSTO DE 2012)</small>
+
+XVII Ter. Suscribir convenios de ayuda recíproca con organismos de bomberos del extranjero en las áreas técnicas, preventivas u operativas, sujetándose a lo establecido en la legislación federal en materia de tratados internacionales.
+
 XVIII. Cubrir los gastos de administración, operación y mantenimiento que genere funcionamiento, y
 
 XIX. Las demás que esta ley, el reglamento o convenios le confieran de manera expresa.
@@ -234,11 +234,11 @@ Por ningún motivo, se deberá interrumpir el servicio que presta a la població
 
 En el supuesto de cualquier acto u omisión que ponga en riesgo la continuidad del servicio, las instancias de Gobierno podrán instrumentar las acciones pertinentes para asegurar su prestación en los términos más convenientes para la población.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 10 DE ENERO DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 10 DE ENERO DE 2005)</small>
 
 ## TITULO II. DE LAS INSTANCIAS ADMINISTRATIVAS, OPERATIVAS, DE CONSULTA Y DE APOYO
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 10 DE ENERO DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 10 DE ENERO DE 2005)</small>
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -262,7 +262,7 @@ VI. DIRECCIÓN ADMINISTRATIVA. Es la responsable de apoyar el logro de los objet
 
 VII. JEFATURA DE ESTACIÓN Y SUBESTACIÓN. Es la encargada de atender, como primer ataque, los siniestros en su radio de acción correspondiente, de acuerdo con el equipo que cada una de ellas cuente para su funcionamiento. También deben garantizar el buen funcionamiento de su Estación o Subestación;
 
-VIII. CONSEJO DE LEALTAD Y DISCIPLINA. Es el órgano encargado de aplicar las sanciones administrativas al personal operativo, así como de solucionar las controversias que se generen por la aplicación del Reglamento de Lealtad y Disciplina;
+VIII. (DEROGADA, G.O. 23 DE AGOSTO DE 2012)
 
 IX. CONSEJO DEL HEROICO CUERPO DE BOMBEROS DEL DISTRITO FEDERAL. Es el órgano asesor, de consulta y análisis que busca el constante mejoramiento y profesionalización del Organismo, con la facultad de emitir opiniones y recomendaciones a la Junta de Gobierno; así como recoger las propuestas y aportaciones que la población y los miembros del Organismo tengan para el mejoramiento del servicio;
 
@@ -282,7 +282,9 @@ La Junta de Gobierno, en su carácter de máxima autoridad del Organismo, se int
 
 I. Dos funcionarios designados por el Secretario de Protección Civil del Distrito Federal, uno de los cuales será el presidente de la Junta;
 
-II. Dos personas de la sociedad civil con experiencia y conocimientos en Protección Civil y en labores de bomberos, nominados por la Asamblea Legislativa del Distrito Federal;
+> <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2012)</small>
+
+II. Dos personas de la sociedad civil con experiencia y conocimientos en Protección Civil y en labores de bomberos, designados por la Asamblea Legislativa del Distrito Federal.
 
 III. Dos miembros designados por el Consejo de Protección Civil del Distrito Federal;
 
@@ -324,9 +326,13 @@ VII. Revisar, supervisar y aprobar los informes financieros trimestrales que le 
 
 VIII. Aprobar las prestaciones y demás actas y documentos administrativos relacionados con los servidores públicos del Organismo; así como aprobar las especificaciones técnicas del equipo de protección y vestuario, por sus características especiales atendiendo a la naturaleza del Organismo;
 
-IX. Nombrar y remover a propuesta del Jefe de Gobierno del Distrito Federal, al Director General y a los Directores de Area del Organismo;
+> <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2012)</small>
 
-X. Nombrar y remover a propuesta del Director General, a los servidores públicos del Organismo que ocupen cargos en los dos niveles inferiores al de aquel, a excepción de la Contraloría Interna;
+IX. Nombrar y remover a propuesta del Jefe de Gobierno al Director General.
+
+> <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2012)</small>
+
+X. Nombrar y remover a propuesta del Director General, a los servidores públicos del Organismo que ocupen cargos en las dos jerarquías inferiores a la de aquél, y aprobar la fijación de sueldos, prestaciones y licencias, así como los demás que señalen los estatutos.
 
 XI. Ratificar a los Jefes de Estación y Subestación que proponga el Director General, de conformidad con los resultados de los exámenes de oposición que realice la Academia de Bomberos, a quienes sólo podrá negar su ratificación cuando la conducta de los elementos atente contra el Organismo;
 
@@ -336,17 +342,29 @@ XIII. Conocer y aprobar, a propuesta del Director General, los Manuales de Organ
 
 XIV. Fomentar la participación del Patronato;
 
-XV. Evaluar anualmente el desempeño del Director General y de los Directores de Area, para hacerlo del conocimiento del Jefe de Gobierno;
+> <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2012)</small>
+
+XV. Evaluar anualmente el desempeño del Director General para hacerlo del conocimiento del Jefe de Gobierno.
+
+> <small>(ADICIONADA, G.O. 23 DE AGOSTO DE 2012)</small>
+
+XV Bis. Establecer, a propuesta del Director General, los lineamientos sobre los que se basará la evaluación anual del personal del Organismo.
 
 XVI. Observar que exista una buena relación laboral en el marco de las leyes aplicables;
 
 XVII. Conocer, analizar y aprobar las propuestas, recomendaciones y opiniones del Consejo del Heroico Cuerpo de Bomberos del Distrito Federal;
 
-XVIII. Autorizar las altas, y reingreso del personal de acuerdo con las necesidades del Organismo;
+> <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2012)</small>
 
-XIX. Autorizar las bajas del personal, ya sea por solicitud del interesado o por determinación del Consejo de Lealtad y Disciplina cuando implique una violación al marco de actuación del Organismo, contenidos en la presente Ley y en el Reglamento de Lealtad y Disciplina;
+XVIII. Autorizar las altas del personal de acuerdo con las necesidades del Organismo y en base a los resultados de los exámenes a que sean sometidos los candidatos, con excepción de los nombramientos de facultad exclusiva del Director General.
 
-XX. Resolver los conflictos que se presenten entre los bomberos y sus superiores incluyendo al Director General y los Directores de Area; así como los que se susciten entre aquéllos y el Consejo de Lealtad y Disciplina. En contra de estas resoluciones que emita la Junta de Gobierno no procederá recurso alguno; y
+> <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2012)</small>
+
+XIX. Autorizar las bajas del personal, que por cualquier forma legal se soliciten, con excepción de los nombramientos de facultad exclusiva del Director General que deberán informarse en la siguiente sesión.
+
+> <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2012)</small>
+
+XX. Resolver los conflictos que se presenten entre los bomberos y sus superiores. En contra de las resoluciones que emita la Junta de Gobierno no procederá recurso alguno; y
 
 XXI. Las demás que sean necesarias para el ejercicio de las facultades anteriores.
 
@@ -390,7 +408,9 @@ III. Realizar los informes de actividades y balances financieros trimestralmente
 
 IV. Realizar anualmente un informe general de actividades en el que se desglose la información de todos los servicios que durante el año haya prestado el Organismo, con el propósito de proponer a la Junta de Gobierno las políticas tendientes a prevenir los siniestros y contingencias de mayor frecuencia;
 
-V. Informar al personal el resultado de los balances de actividades e informes financieros realizados;
+> <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2012)</small>
+
+V. Informar, en los términos establecidos por la legislación aplicable, sobre el resultado de los balances de actividades e informes financieros realizados.
 
 VI. Presentar a la Junta de Gobierno los reglamentos, manuales de organización y procedimientos, así como cualquiera otra disposición de aplicación interna u operativa;
 
@@ -412,15 +432,31 @@ XIII. Asegurar la continuidad y correcta prestación del servicio;
 
 XIV. Adoptar las medidas para el correcto desarrollo de las funciones de los elementos del Organismo;
 
-XV. Propiciar un marco de respecto (sic) e institucionalidad entre el personal operativo y administrativo del Organismo; y
+> <small>(ADICIONADA, G.O. 23 DE AGOSTO DE 2012)</small>
 
-XVI. Las demás que se señalan en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones aplicables.
+XIV Bis. Evaluar anualmente el desempeño de los Directores de Área, para hacerlo del conocimiento de la Junta de Gobierno;
 
-> <small>(REFORMADO, G.O. 10 DE ENERO DE 2005)</small>
+XV. Propiciar un marco de respecto (sic) e institucionalidad entre el personal operativo y administrativo del Organismo; y (sic)
+
+> <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2012)</small>
+
+XVI. Solicitar a la Junta de Gobierno la aprobación para la organización de campañas de donación, colectas, rifas, sorteos y otras actividades lícitas.
+
+> <small>(ADICIONADA, G.O. 23 DE AGOSTO DE 2012)</small>
+
+XVII. Tramitar y gestionar ante las autoridades federales y locales que las donaciones realizadas por particulares al Fideicomiso de Bomberos sean deducibles de impuestos, así como las que sean necesarias para el debido cumplimiento de su objeto.
+
+> <small>(ADICIONADA, G.O. 23 DE AGOSTO DE 2012)</small>
+
+XVIII. Las demás que se señalan en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 13.
 
-El Jefe de Gobierno del Distrito Federal podrá remover inmediatamente de su encargo al Director General, por conducto de la Junta de Gobierno, cuando haya incurrido en acciones, incumplimientos u omisiones graves que pongan en riesgo el servicio del Organismo o su continuidad.
+El Jefe de Gobierno podrá remover inmediatamente de su encargo al Director General, por conducto de la Junta de Gobierno, cuando haya incurrido en acciones, incumplimientos u omisiones graves que pongan en riesgo el servicio del Organismo o su continuidad.
+
+> <small>(REFORMADO, G.O. 10 DE ENERO DE 2005)</small>
 
 El Director General, cuando hubiere concluido su encargo o fuere removido, deberá hacer entrega formal y material de su cargo, para que las autoridades competentes dicten las medidas para garantizar la continuidad del servicio de acuerdo a lo establecido en la presente Ley.
 
@@ -448,7 +484,9 @@ III. Tener estudios superiores afines a las actividades del Organismo;
 
 IV. Tener comprobada vocación de servicio;
 
-V. Recibir el nombramiento del Jefe de Gobierno del Distrito Federal y ser ratificado por la Junta de Gobierno.
+> <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2012)</small>
+
+V. Recibir el nombramiento del Director General y ser ratificado por la Junta de Gobierno.
 
 > <small>(REFORMADO, G.O. 10 DE ENERO DE 2005)</small>
 
@@ -484,7 +522,9 @@ III. Tener estudios afines a las actividades del Organismo;
 
 IV. Tener comprobada vocación de servicio;
 
-V. Recibir el nombramiento del Jefe de Gobierno del Distrito Federal y ser ratificado por la Junta de Gobierno.
+> <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2012)</small>
+
+V. Recibir el nombramiento del Director General y ser ratificado por la Junta de Gobierno.
 
 > <small>(REFORMADO, G.O. 10 DE ENERO DE 2005)</small>
 
@@ -516,7 +556,9 @@ II. Contar con estudios de especialidad en un área afín a las materias a cargo
 
 III. Comprobar amplios conocimientos sobre las materias de trabajo del Organismo;
 
-IV. Recibir el nombramiento del Jefe de Gobierno del Distrito Federal y ser ratificado por la Junta de Gobierno;
+> <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2012)</small>
+
+IV. Recibir el nombramiento del Director General y ser ratificado por la Junta de Gobierno.
 
 V. Presentar examen de oposición.
 
@@ -554,7 +596,9 @@ III. Tener estudios superiores afines a su responsabilidad;
 
 IV. Tener comprobada vocación de servicio;
 
-V. Recibir el nombramiento del Jefe de Gobierno del Distrito Federal y ser ratificado por la Junta de Gobierno.
+> <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2012)</small>
+
+V. Recibir el nombramiento del Director General y ser ratificado por la Junta de Gobierno.
 
 > <small>(REFORMADO, G.O. 10 DE ENERO DE 2005)</small>
 
@@ -576,29 +620,13 @@ V. Firmar reportes e informes administrativos, presupuestales, financieros, cont
 
 ### CAPITULO V. DE LAS JEFATURAS DE ESTACION Y SUBESTACION
 
-> <small>(REFORMADO, G.O. 10 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, G.O. 23 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 22.
 
-En cada Demarcación Territorial del Distrito Federal se instalará cuando menos una Estación de Bomberos y sólo por razones de carácter presupuestal, se instalará una Subestación en su lugar.
+En cada Delegación se instalará cuando menos una Estación de Bomberos y sólo por razones de carácter presupuestal, se instalará una Subestación en su lugar.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 31 DE OCTUBRE DE 2008)</small>
-
-Se instalará en el Distrito Federal una estación exclusivamente para los Bomberos Forestales y en las demarcaciones territoriales que cuentan con suelo de conservación, áreas naturales protegidas y áreas de valor ambiental, se instalará cuando menos una subestación para los mismos.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 31 DE OCTUBRE DE 2008)</small>
-
-Los Jefes de Estación y Subestación, serán nombrados por el Director General y ratificados por la Junta de Gobierno.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 31 DE OCTUBRE DE 2008)</small>
-
-Los Jefes de Estación y Subestación deberán ser egresados de la Academia de Bomberos y contar cuando menos con el nivel de Primer Inspector.
+Se instalará en el Distrito Federal una estación exclusivamente para los Bomberos Forestales y en las Delegaciones que cuentan con suelo de conservación, áreas naturales protegidas y áreas de valor ambiental, se instalará cuando menos una subestación para los mismos.
 
 > <small>(REFORMADO, G.O. 10 DE ENERO DE 2005)</small>
 
@@ -692,17 +720,19 @@ El Consejo se reunirá a convocatoria que haga el presidente del mismo, cuando m
 
 ### CAPITULO I. DEL PATRIMONIO
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE ENERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 26.
 
 El patrimonio del Organismo se integrará por los siguientes recursos:
 
-> <small>(REFORMADA, G.O. 10 DE ENERO DE 2005)</small>
+> <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2012)</small>
 
-I. Por aquellos muebles e inmuebles que el Gobierno del Distrito Federal asigne a este Organismo;
+I. Por aquellos muebles e inmuebles que el Gobierno le asigne;
 
-II. Subsidios, donaciones y demás aportaciones que el propio Gobierno del Distrito Federal otorgue;
+> <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2012)</small>
+
+II. Subsidios, donaciones y demás aportaciones que el propio Gobierno otorgue;
 
 > <small>(REFORMADA, G.O. 10 DE ENERO DE 2005)</small>
 
@@ -714,9 +744,11 @@ IV. Los bienes que de conformidad con la Ley de Protección Civil del Distrito F
 
 V. Los derechos, rendimientos, recuperaciones, intereses y demás ingresos que sus inversiones, derechos y operaciones le generen;
 
-VI. Los derechos que en su caso y en los términos del Código Financiero del Distrito Federal se establezcan por la emisión de los dictámenes a que se refiere el artículo 60 de esta Ley;
+> <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2012)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+VI. Los derechos que en su caso y en términos del Código Fiscal del Distrito Federal se establezcan por la emisión de los dictámenes a que se refiere el artículo 60 de esta Ley;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, G.O. 17 DE FEBRERO DE 2009)</small>
 
@@ -754,19 +786,51 @@ Para el ejercicio de su presupuesto anual, el Organismo estará a lo dispuesto p
 
 Toda clase de aportaciones que reciba de los particulares el Organismo durante un año, se podrán aplicar trimestralmente en el ejercicio fiscal siguiente, de manera que se pueda programar el ejercicio de dichos ingresos sin que se paralice su administración y de manera que permita hacer frente a situaciones inesperadas.
 
-### CAPITULO I. DE LOS OBJETIVOS DE LA ACADEMIA
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 23 DE AGOSTO DE 2012)</small>
 
-> <small>(REFORMADO, G.O. 10 DE ENERO DE 2005)</small>
+### CAPÍTULO III. DEL FIDEICOMISO DE BOMBEROS
+
+> <small>(ADICIONADO, G.O. 23 DE AGOSTO DE 2012)</small>
+
+###### ARTICULO 30 Bis.
+
+El Fideicomiso de Bomberos es un instrumento del organismo que tiene por objeto adquirir bienes, servicios y tecnología de punta así como la construcción, mejora, conservación, adecuación y mantenimiento de inmuebles; siempre y cuando se utilice para la modernización y fortalecimiento del Organismo, que contribuyan a una mayor eficiencia en el desempeño del servicio.
+
+> <small>(ADICIONADO, G.O. 23 DE AGOSTO DE 2012)</small>
+
+###### ARTICULO 30 Ter.
+
+Los recursos del Fideicomiso de Bomberos se ejercerán a solicitud del Director General, previa justificación, ante las instancias competentes, de las necesidades a cubrir, así como del proyecto de presupuesto correspondiente.
+
+La planeación, programación, presupuestación, contratación, gasto, ejecución, conservación, mantenimiento y control de las adquisiciones, arrendamientos de bienes muebles y prestación de servicios de cualquier naturaleza a cargo del Fideicomiso de Bomberos, se apegará a lo dispuesto por la Ley de Adquisiciones para el Distrito Federal.
+
+La planeación, programación, presupuestación, gasto, ejecución, conservación, mantenimiento y control de la obra pública y de los servicios relacionados con ésta, que se realicen con recursos del Fideicomiso de Bomberos, se apegará a lo dispuesto por la Ley de Obras Públicas del Distrito Federal; (sic)
+
+> <small>(ADICIONADO, G.O. 23 DE AGOSTO DE 2012)</small>
+
+###### ARTICULO 30 Quater.
+
+Los recursos del Fideicomiso de Bomberos se integrarán por:
+
+I. Los recursos que se asignen anualmente del Presupuesto de Egresos del Distrito Federal, las que no podrán ser menores al dos por ciento del presupuesto anual para el Organismo.
+
+II. Donaciones y demás aportaciones voluntarias, herencias, legados, transferencias y demás liberalidades que las personas físicas, morales o cualquier organismo nacional o extranjero hagan al Organismo;
+
+III. Recursos provenientes de la organización de campañas de donación, colectas, rifas, sorteos y otras actividades lícitas, en términos del artículo 72 de esta Ley, que determine el Patronato, o en su defecto el Director General, previa aprobación de la Junta de Gobierno, así como por cualquier otra percepción respecto de la cual el organismo resulte beneficiado; y
+
+IV. Las demás que acuerde la Junta de Gobierno.
 
 ## TITULO IV. DE LA ACADEMIA DE BOMBEROS
 
-### CAPITULO II. DEL FUNCIONAMIENTO DE LA ACADEMIA
+### CAPITULO I. DE LOS OBJETIVOS DE LA ACADEMIA
 
-> <small>(REFORMADO, G.O. 10 DE ENERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 31.
 
-La Academia de Bomberos es la instancia de formación cuyo objetivo es la profesionalización y capacitación física, tecnológica y teórica del personal que forme parte del Heroico Cuerpo de Bomberos del Distrito Federal, en las diversas instalaciones del Organismo y en aquellas que sean compatibles con su objeto.
+La Academia de Bomberos es la instancia de formación cuyo objetivo es la profesionalización y capacitación física, tecnológica y teórica del personal que forme parte del Organismo, en las diversas instalaciones y en aquellas que sean compatibles con su objeto.
+
+> <small>(REFORMADO, G.O. 10 DE ENERO DE 2005)</small>
 
 La Academia será además la instancia que apruebe la admisión de los bomberos con base en los exámenes a que sean sometidos; asimismo será la encargada de impartir los cursos para los participantes en el programa de Bomberos Voluntarios y Niños Bomberos, en los términos establecidos en el Reglamento de la presente Ley.
 
@@ -782,7 +846,7 @@ La Academia será además la instancia que apruebe la admisión de los bomberos 
 
 (DEROGADO, G.O. 10 DE ENERO DE 2005)
 
-### CAPITULO UNICO. ASPECTOS GENERALES
+### CAPITULO II. DEL FUNCIONAMIENTO DE LA ACADEMIA
 
 > <small>(REFORMADO, G.O. 10 DE ENERO DE 2005)</small>
 
@@ -818,11 +882,11 @@ IV. Aquellos que permitan fortalecer conocimientos respecto de la condición fí
 
 La Academia de Bomberos de conformidad a la capacidad presupuestal y considerando la normatividad en materia de austeridad, podrá autorizar becas en el país y el extranjero que permitan a los miembros destacados del Organismo, sin preferencia de nivel, acceder a las técnicas y conocimientos más avanzados en su materia y con ello proporcionar más eficazmente los servicios previstos en la presente Ley.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 10 DE ENERO DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 10 DE ENERO DE 2005)</small>
 
 ## TITULO V. DE LA CONDICION DE BOMBERO Y DE LOS PRINCIPIOS DE ACTUACION DE LOS INTEGRANTES DEL ORGANISMO
 
-### CAPITULO I. DE LA DISCIPLINA Y LOS NIVELES
+### CAPITULO UNICO. ASPECTOS GENERALES
 
 > <small>(REFORMADO, G.O. 10 DE ENERO DE 2005)</small>
 
@@ -830,7 +894,7 @@ La Academia de Bomberos de conformidad a la capacidad presupuestal y considerand
 
 Bombero es el servidor público, miembro de un Organismo de apoyo para la salvaguarda de la población y de Protección Civil, encargado de la prevención, control, mitigación y extinción de incendios, emergencias y siniestros previstos por esta Ley, quien bajo ninguna circunstancia podrá ser utilizado como elemento con funciones de disuasión o de coerción contra la ciudadanía.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 31 DE OCTUBRE DE 2008)</small>
 
@@ -852,7 +916,7 @@ En caso de ausencia del Director General, la Junta de Gobierno deberá emitir el
 
 El servicio a la comunidad, y la disciplina, así como el respeto a los derechos humanos y la salvaguarda de la integridad física y del patrimonio de la población son principios normativos que los miembros del Organismo deben observar invariablemente en su actuación.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE ENERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 41.
 
@@ -874,9 +938,9 @@ III. Asistir a los cursos de especialización que sean impartidos para tal efect
 
 IV. Portar los distintivos que acrediten su nivel, así como portar el uniforme que les sea asignado, con pulcritud y elegancia;
 
-> <small>(REFORMADA, G.O. 10 DE ENERO DE 2005)</small>
+> <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2012)</small>
 
-V. Velar por el cumplimiento de las disposiciones de esta Ley, su Reglamento y el Reglamento de Lealtad y Disciplina;
+V. Dar cumplimiento a las disposiciones de esta Ley y demás normatividad que de ésta derive.
 
 > <small>(REFORMADA, G.O. 10 DE ENERO DE 2005)</small>
 
@@ -892,13 +956,15 @@ IX. Someterse a los exámenes médicos que les sean requeridos, a través de las
 
 X. Garantizar a los ciudadanos la prestación adecuada de los servicios que presta el Organismo;
 
-XI. No disponer de aparato o equipo alguno de seguridad, protección o extinción de incendios para uso personal en perjuicio del patrimonio del Gobierno del Distrito Federal;
+> <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2012)</small>
+
+XI. No disponer de aparato o equipo alguno de seguridad, protección o extinción de incendios para uso personal en perjuicio del patrimonio del Gobierno;
 
 XII. Entregar el equipo de trabajo al siguiente turno, debiendo informar por escrito, mediante acta, si lo entregase con algún deterioro; y
 
 XIII. Las demás que resulten del cumplimiento de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE ENERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 42.
 
@@ -956,7 +1022,7 @@ X. Los demás que se desprendan de lo establecido en la presente Ley.
 
 El régimen laboral aplicable a los bomberos, será el establecido por la legislación laboral correspondiente, debiéndose tomar en cuenta la dignificación de su profesión a través de un salario remunerador que compense los riesgos que implica y de un seguro de vida que proteja a su familia en caso de muerte en servicio o cuando sufra la pérdida de algún órgano por accidente de trabajo.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE ENERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 44.
 
@@ -982,27 +1048,23 @@ V. A la continuidad anual en el servicio.
 
 Todo miembro del Heroico Cuerpo de Bomberos del Distrito Federal, tendrá derecho a ascender al nivel inmediato superior. Los requisitos mínimos y la forma de solicitar los ascensos, se contemplarán en el Reglamento de esta Ley.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 10 DE ENERO DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 10 DE ENERO DE 2005)</small>
 
 ## TITULO VI. DE LA ORGANIZACION INTERNA
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 10 DE ENERO DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 10 DE ENERO DE 2005)</small>
 
-### CAPITULO II. DE LAS INSTRUCCIONES Y REPORTES
+### CAPITULO I. DE LA DISCIPLINA Y LOS NIVELES
 
-> <small>(REFORMADO, G.O. 10 DE ENERO DE 2005)</small>
+> <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 46.
 
-Las sanciones por el incumplimiento de esta Ley por parte de los miembros del Organismo, estarán determinadas, en su caso, por las disposiciones jurídicas aplicables, así como por el Reglamento de Lealtad y Disciplina.
-
-> <small>(ADICIONADO, G.O. 10 DE ENERO DE 2005)</small>
+Las sanciones por el incumplimiento de esta Ley por parte de los miembros del Organismo, estarán determinadas por las disposiciones jurídicas aplicables.
 
 ###### ARTICULO 46 Bis.
 
-Las sanciones para el personal operativo que se incluyan en el Reglamento de Lealtad y Disciplina, serán impuestas por el Consejo de Lealtad y Disciplina, previo dictamen técnico que éste emita para acreditar la infracción.
-
-En caso de inconformidad por la sanción impuesta, el interesado podrá recurrir ante la Junta de Gobierno, quien substanciará el procedimiento administrativo correspondiente dictando resolución definitiva sobre el caso.
+(DEROGADO, G.O. 23 DE AGOSTO DE 2012)
 
 > <small>(ADICIONADO, G.O. 10 DE ENERO DE 2005)</small>
 
@@ -1016,7 +1078,7 @@ Las faltas administrativas cometidas por el personal del Organismo, serán sanci
 
 Los salarios que perciba el personal del Organismo, serán de conformidad con lo establecido en los tabuladores que emita la Oficialía Mayor del Gobierno del Distrito Federal.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE ENERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 48.
 
@@ -1046,7 +1108,7 @@ XI. Bombero Tercero; y
 
 XII. Bombero.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE ENERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 49.
 
@@ -1062,9 +1124,9 @@ II. Jefe de Servicio por Turno, mismo que tendrá el nivel de Primer inspector; 
 
 III. Oficiales adscritos a la Estación.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 10 DE ENERO DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 10 DE ENERO DE 2005)</small>
 
-### CAPITULO III. DE LAS INSTALACIONES DEL ORGANISMO
+### CAPITULO II. DE LAS INSTRUCCIONES Y REPORTES
 
 > <small>(REFORMADO, G.O. 10 DE ENERO DE 2005)</small>
 
@@ -1078,21 +1140,21 @@ Se entiende por instrucción aquella indicación para ser cumplida que se emite 
 
 Toda instrucción para prestar algún servicio deberá expedirla el superior por escrito a su personal; en ella se contendrá la propuesta de tratamiento a la emergencia, y sólo cuando las circunstancias lo impidan, podrá expedirse verbalmente en presencia de dos testigos del propio Organismo.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 10 DE ENERO DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 10 DE ENERO DE 2005)</small>
 
-### CAPITULO UNICO. DISPOSICIONES GENERALES
+### CAPITULO III. DE LAS INSTALACIONES DEL ORGANISMO
 
-> <small>(REFORMADO, G.O. 10 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, G.O. 23 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 52.
 
-El Gobierno del Distrito Federal, podrá desincorporar a favor del Organismo, inmuebles en los que puedan ser instaladas Estaciones o Subestaciones o aquellos que sean necesarios para la capacitación, el desarrollo personal y el esparcimiento de los miembros de este Organismo.
+El Gobierno, podrá desincorporar a favor del Organismo, inmuebles en los que puedan ser instaladas Estaciones o Subestaciones o aquellos que sean necesarios para la capacitación, el desarrollo personal y el esparcimiento de los miembros de este Organismo.
 
-> <small>(REFORMADO, G.O. 10 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, G.O. 23 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 53.
 
-Los inmuebles del Organismo, deberán estar ubicados en lugares estratégicos que permitan acudir rápidamente a los siniestros. Cada Demarcación Territorial deberá contar con una Estación y con aquellas Subestaciones que sean necesarias para afrontar las emergencias en zonas de alto riesgo.
+Los inmuebles del Organismo, deberán estar ubicados en lugares estratégicos que permitan acudir rápidamente a los siniestros. Cada Delegación deberá contar con una Estación y con aquellas Subestaciones que sean necesarias para afrontar las emergencias en zonas de alto riesgo.
 
 > <small>(REFORMADO, G.O. 10 DE ENERO DE 2005)</small>
 
@@ -1108,7 +1170,7 @@ Las oficinas de los Organos Administrativos del Organismo, se distribuirán estr
 
 Las Estaciones deberán contar con el equipo suficiente para controlar una emergencia y prestar apoyos a las demás Estaciones.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 31 DE OCTUBRE DE 2008)</small>
 
@@ -1120,19 +1182,19 @@ Tratándose de la estación de Bomberos Forestales, estos deberán contar con el
 
 Las Subestaciones son las que cuentan con el equipo mínimo que permite hacer un primer frente a las emergencias en tanto llegan los servicios de las Estaciones ubicadas en los lugares cercanos a la emergencia o siniestro.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 31 DE OCTUBRE DE 2008)</small>
 
 Quedan exceptuadas las subestaciones de bomberos forestales, las cuales deberán contar con el equipo suficiente y especializado de protección y atención de incendios.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 10 DE ENERO DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 10 DE ENERO DE 2005)</small>
 
 ## TITULO VII
 
 DE LA SEGURIDAD DE LOS ESTABLECIMIENTOS MERCANTILES, INDUSTRIAS Y LAS EMPRESAS CLASIFICADAS DE RIESGO DE INCENDIO E INDUSTRIAS DE ALMACENAMIENTO O TRANSPORTE DE MATERIALES FLAMABLES O PELIGROSOS
 
-### CAPITULO I. DE SU FUNCIONAMIENTO
+### CAPITULO UNICO. DISPOSICIONES GENERALES
 
 > <small>(REFORMADO, G.O. 10 DE ENERO DE 2005)</small>
 
@@ -1172,7 +1234,9 @@ El inspector de bomberos procederá a realizar el dictamen correspondiente cuand
 
 ## TITULO VIII. DEL CUERPO DE BOMBEROS VOLUNTARIOS DEL DISTRITO FEDERAL
 
-### CAPITULO II. DE LA CAPACITACION PARA NIÑOS Y JOVENES BOMBEROS VOLUNTARIOS
+### CAPITULO I. DE SU FUNCIONAMIENTO
+
+> <small>(REFORMADO, G.O. 10 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 64.
 
@@ -1186,29 +1250,27 @@ Para obtener el nombramiento de bombero voluntario será necesario acreditar los
 
 El número de bomberos voluntarios estará determinado por las condiciones materiales de la Academia de Bomberos, para tal efecto, anualmente se dará a conocer el número de voluntarios a los que se les dará capacitación.
 
-### CAPITULO III. DEL CUERPO DE BOMBEROS FORESTALES
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, G.O. 31 DE OCTUBRE DE 2008)</small>
+### CAPITULO II. DE LA CAPACITACION PARA NIÑOS Y JOVENES BOMBEROS VOLUNTARIOS
 
 ###### ARTICULO 67.
 
 Con el propósito de implementar en la Ciudad de México una Cultura de la Protección Civil, la Academia de Bomberos instrumentará un programa permanente de capacitación para la prevención de incendios, fugas, derrames, dirigido a niños y jóvenes de la ciudad a quienes se les darán cursos básicos para que prevean situaciones de peligro y aprendan a denunciarlas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 31 DE OCTUBRE DE 2008)</small>
 
-### CAPITULO UNICO. OBLIGACIONES DE LOS PARTICULARES
+### CAPITULO III. DEL CUERPO DE BOMBEROS FORESTALES
 
-> <small>(REFORMADO, G.O. 10 DE ENERO DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 31 DE OCTUBRE DE 2008)</small>
 
 ###### ARTICULO 67 Bis.
 
 Se denominará bombero forestal al servidor público, miembro de un Organismo de apoyo para la salvaguarda del suelo de conservación, áreas naturales protegidas y áreas de valor ambiental, encargado de la prevención, control, mitigación y extinción de incendios, ocurridos en estas superficies, quien bajo ninguna circunstancia podrá ser utilizado como elemento con funciones de disuasión o de coerción contra la ciudadanía.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 31 DE OCTUBRE DE 2008)</small>
 
@@ -1216,7 +1278,7 @@ Se denominará bombero forestal al servidor público, miembro de un Organismo de
 
 Podrán coadyuvar en labores de los bomberos forestales los bomberos voluntarios del Distrito Federal, en la forma y términos que está ley para tales efectos establece.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 31 DE OCTUBRE DE 2008)</small>
 
@@ -1224,13 +1286,13 @@ Podrán coadyuvar en labores de los bomberos forestales los bomberos voluntarios
 
 Para obtener el nombramiento de bombero forestal, será necesario acreditar los cursos de la Academia y recibir del Director de está (sic) última, la constancia respectiva.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 31 DE OCTUBRE DE 2008)</small>
 
 ARTICULO 67 Quintus.- El número de bomberos forestales estará determinado por las condiciones materiales de la Academia de Bomberos, para tales efectos, anualmente se dará a conocer el número de bomberos forestales a los que se les dará capacitación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 31 DE OCTUBRE DE 2008)</small>
 
@@ -1240,9 +1302,9 @@ ARTICULO 67 Sextus.- Los bomberos forestales trabajarán de manera conjunta con 
 
 DE LA COOPERACION QUE DEBEN LOS PARTICULARES AL HEROICO CUERPO DE BOMBEROS DEL DISTRITO FEDERAL Y LAS RESPONSABILIDADES POR DAÑOS A TERCEROS EN EL ATAQUE Y EXTINCION DE SINIESTROS, EMERGENCIAS Y DEMAS SERVICIOS QUE PRESTA EL ORGANISMO
 
-### CAPITULO I. DE LA MISION DEL PATRONATO
+### CAPITULO UNICO. OBLIGACIONES DE LOS PARTICULARES
 
-> <small>(ADICIONADO, G.O. 10 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, G.O. 10 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 68.
 
@@ -1254,13 +1316,13 @@ Las intervenciones de los servicios que presta el Organismo, se entenderán just
 
 Los particulares están obligados a prestar ayuda sin restricciones a los miembros del Organismo cuando se encuentren prestando servicio, aún en los casos en los que por las situaciones de emergencia específicas tengan que causarse daños al patrimonio de terceros, quienes podrán reclamar la reparación de los daños a quien haya resultado causante del origen de la emergencia.
 
-> <small>(ADICIONADO CON LOS CAPITULOS QUE LO INTEGRAN, G.O. 10 DE ENERO DE 2005)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS QUE LO INTEGRAN, G.O. 10 DE ENERO DE 2005)</small>
 
 ## TITULO X. DEL PATRONATO DEL HEROICO CUERPO DE BOMBEROS DEL DISTRITO FEDERAL
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 10 DE ENERO DE 2005)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 10 DE ENERO DE 2005)</small>
 
-### CAPITULO II. DEL FUNCIONAMIENTO DEL PATRONATO
+### CAPITULO I. DE LA MISION DEL PATRONATO
 
 > <small>(ADICIONADO, G.O. 10 DE ENERO DE 2005)</small>
 
@@ -1282,7 +1344,11 @@ A través del Patronato se propiciará la adquisición de equipo especializado y
 
 El Patronato organizará campañas de donación, colectas, rifas, sorteos y otras actividades lícitas con el propósito de obtener recursos en apoyo de proyectos específicos para el cumplimiento de las funciones del Organismo.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 10 DE ENERO DE 2005)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 10 DE ENERO DE 2005)</small>
+
+### CAPITULO II. DEL FUNCIONAMIENTO DEL PATRONATO
+
+> <small>(ADICIONADO, G.O. 10 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 73.
 
@@ -1378,7 +1444,7 @@ Salón de sesiones de la Asamblea Legislativa del Distrito Federal, I Legislatur
 
 En cumplimiento de lo dispuesto en el artículo 22, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los seis días del mes de noviembre de mil novecientos noventa y ocho.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, CUAUHTÉMOC CÁRDENAS SOLÓRZANO.- RÚBRICA.- LA SECRETARIA DE GOBIERNO, ROSARIO ROBLES BERLANGA.- RUBRICA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 10 DE ENERO DE 2005.
 
@@ -1402,7 +1468,7 @@ SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor al día siguient
 
 G.O. 31 DE OCTUBRE DE 2008.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
 
@@ -1421,3 +1487,9 @@ PRIMERO. Publíquese en la Gaceta del Distrito Federal y en el Diario Oficial de
 SEGUNDO. El presente decreto entrará en vigor a los 30 días siguientes de su publicación.
 
 TERCERO. El Reglamento de la Ley del Heroico Cuerpo de Bomberos del Distrito Federal, deberá actualizarse dentro de los 30 días siguientes a la publicación de las modificaciones a esta Ley.
+
+G.O. 23 DE AGOSTO DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
