@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-del-distrito-federal-70074"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-17"
-last_updated: "2012-08-17"
+last_updated: "2012-08-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70074&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-08-26"
 
 LEY DE SALUD DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE AGOSTO DE 2012.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 17 de septiembre de 2009.
 
@@ -144,7 +144,9 @@ X. La promoción del mejoramiento de la nutrición, especialmente en materia del
 
 XI. La asistencia médica a los grupos más vulnerables, de manera especial, los pertenecientes a las comunidades indígenas, los adultos mayores y las personas discapacitadas;
 
-XII. La prevención y atención de las adicciones, particularmente el tabaquismo, el alcoholismo y la fármacodependencia, y
+> <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2012)</small>
+
+XII. La atención integral del consumo de sustancias psicoactivas, particularmente al tabaquismo, el alcoholismo y la fármacodependencia,
 
 XIII. La protección contra los riesgos sanitarios.
 
@@ -526,7 +528,9 @@ VIII. El Titular de la Subsecretaría de Coordinación Delegacional y Metropolit
 
 IX. El Presidente de la Comisión de Salud y Asistencia Social de la Asamblea Legislativa del Distrito Federal, y
 
-X. Serán invitados permanentes, un representante de cada una de las siguientes instituciones: Academia Nacional de Medicina, Secretaría Federal, Instituto Mexicano del Seguro Social, Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, Universidad Nacional Autónoma de México e Instituto Politécnico Nacional, así como un representante de los Servicios Médicos Privados y un representante de la Industria Químico Farmacéutica.
+> <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2012)</small>
+
+X. Serán invitados permanentes, un representante de cada una de las siguientes instituciones: Academia Nacional de Medicina, Secretaría Federal, Instituto Mexicano del Seguro Social, Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, Instituto para la Atención y Prevención de las Adicciones en la Ciudad de México, Universidad Nacional Autónoma de México e Instituto Politécnico Nacional, así como un representante de los Servicios Médicos Privados y un representante de la Industria Químico Farmacéutica.
 
 ### Capítulo V. De la Secretaría de Salud del Distrito Federal
 
@@ -1224,47 +1228,65 @@ VIII. Las demás, establecidas en las disposiciones aplicables, que sean necesar
 
 Queda facultada la Secretaría para utilizar como elementos auxiliares en la lucha contra las epidemias, todos los recursos médicos y de asistencia social de los sectores público, social y privado existentes en las zonas, colonias y comunidades afectadas y en las colindantes, de acuerdo con las disposiciones aplicables que emita el Jefe de Gobierno y las autoridades sanitarias competentes.
 
-### Capítulo XX. Adicciones
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 23 DE AGOSTO DE 2012)</small>
+
+### Capítulo XX. Uso, Abuso y Dependencia de Sustancias Psicoactivas
+
+> <small>(REFORMADO, G.O. 23 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 82.
 
-La prevención, atención, control y combate contra las adicciones, particularmente del tabaquismo, alcoholismo y fármacodependencia, tiene carácter prioritario. El Gobierno garantizará, a través de la Secretaría, servicios integrales de salud para la atención de las adicciones.
+La atención integral del consumo de sustancias psicoactivas, particularmente al tabaquismo, al alcoholismo y a la farmacodependencia, tiene carácter prioritario. El Gobierno garantizará, a través de los órganos e instituciones públicas afines y creadas para el tema, la prestación de servicios de salud para el cumplimiento de dicho fin.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 83.
 
-El Gobierno, en el ámbito de sus competencias, realizará, entre otras, las siguientes acciones para la ejecución de sus obligaciones en materia de adicciones, especialmente tabaquismo, alcoholismo y fármacodependencia:
+El Gobierno, en el ámbito de sus competencias, realizará, entre otras, las siguientes acciones para la ejecución de sus obligaciones en materia de atención integral del consumo de sustancias psicoactivas, especialmente tabaquismo, alcoholismo y fármacodependencia:
 
-I. Establecer unidades permanentes de atención o servicios para la atención médica y de rehabilitación para las personas con alguna adicción;
+> <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2012)</small>
 
-> <small>(REFORMADA, G.O. 16 DE JUNIO DE 2011)</small>
+I. Establecer unidades permanentes para la prestación de servicios de prevención, atención, canalización, tratamiento, rehabilitación e integración comunitaria del consumo de sustancias psicoactivas, de acuerdo a lo establecido por la ley en la materia;
 
-II. Impulsar medidas intensivas en materia de educación e información de carácter preventivo de las adicciones y de los daños a la salud provocados por el consumo de estupefacientes y psicotrópicos, dirigidas particularmente a niños, jóvenes y mujeres;
+> <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2012)</small>
 
-III. Fomentar las actividades cívicas, deportivas y culturales que coadyuven en la lucha contra las adicciones;
+II. Impulsar medidas intensivas en materia de educación e información de carácter preventivo sobre los daños a la salud provocados por el consumo de sustancias psicoactivas a toda la población del Distrito Federal, dirigidas preferentemente a menores de edad, jóvenes, mujeres y personas con discapacidad;
+
+> <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2012)</small>
+
+III. Fomentar actividades cívicas, deportivas y culturales que coadyuven en la política pública contra el consumo de sustancias psicoactivas, preferentemente a menores de edad, jóvenes, mujeres y personas con discapacidad;
 
 IV. En materia de tabaquismo, dictar medidas de protección a la salud de los no fumadores, de conformidad a las disposiciones aplicables, como la Ley de Protección a la Salud de los No Fumadores;
 
-V. Promover la investigación y la difusión de sus resultados y recomendaciones en materia del combate contra las adicciones;
+> <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2012)</small>
 
-VI. Proponer, a las autoridades federales correspondientes, medidas preventivas y de control de las adicciones en materia de publicidad;
+V. Proponer, a las autoridades federales correspondientes, medidas preventivas y de control sobre el consumo de sustancias psicoactivas en materia de publicidad;
 
-> <small>(REFORMADA, G.O. 16 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2012)</small>
 
-VII. Coordinarse con la Secretaría Federal, en el marco del Sistema Nacional de Salud, para el desarrollo de acciones contra las adicciones y de ejecución del Programa Nacional de Prevención y Tratamiento de la Fármacodependencia, de conformidad a los convenios respectivos y en los términos establecidos en la Ley General de Salud;
+VI. Coordinarse con la Secretaría Federal, en el marco del Sistema Nacional de Salud, para la atención integral del consumo de sustancias psicoactivas y de ejecución del Programa Nacional de Prevención y Tratamiento de la Fármacodependencia, de conformidad a los convenios respectivos y en los términos establecidos en la Ley General de Salud;
+
+> <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2012)</small>
+
+VII. Promover la colaboración de las instituciones de los sectores público, social y privado, así como de los profesionales, técnicos y auxiliares para la salud y de la población en general, en materia de exposición y consumo de sustancias psicoactivas, así como para la atención médica de las personas afectadas por éstas y para la planeación, programación, ejecución y evaluación de los programas y acciones del proceso de superación del consumo de sustancias psicoactivas;
 
 > <small>(REFORMADA, G.O. 16 DE JUNIO DE 2011)</small>
 
 VIII. Promover la colaboración de las instituciones de los sectores público, social y privado, así como de los profesionales, técnicos y auxiliares para la salud y de la población en general, en materia de adicciones, así como para la atención médica de las personas afectadas por éstas y para la planeación, programación, ejecución y evaluación de los programas y acciones del proceso de superación de la fármacodependencia;
 
-> <small>(REFORMADA, G.O. 16 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2012)</small>
 
-IX. Coadyuvar con las autoridades federales competentes en la vigilancia y supervisión de los establecimientos especializados en adicciones;
+IX. Celebrar convenios con la Subsecretaría de Sistema Penitenciario adscrita a la Secretaría de Gobierno, para la capacitación de su personal, con la finalidad de que cuenten con los conocimientos necesarios para impartir pláticas informativas relativas a la prevención y atención del consumo de sustancias psicoactivas, a las personas que cometan infracciones por conductas relacionadas con el consumo de cualquier tipo de sustancia psicoactiva sea lícita o ilícita, sancionadas por la Ley de Cultura Cívica del Distrito Federal o por el Reglamento de Tránsito Metropolitano, durante el tiempo en que dure el arresto impuesto;
 
-> <small>(ADICIONADA, G.O. 16 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2012)</small>
 
-X. Celebrar convenios con la Subsecretaría de Sistema Penitenciario de la Secretaría de Gobierno para la capacitación de personal, con la finalidad de que cuenten con los conocimientos necesarios para impartir pláticas informativas relativas a la prevención y atención de las adicciones a las personas que cometan infracciones por conductas relacionadas con el consumo de alcohol, drogas o enervantes, sancionadas por la Ley de Cultura Cívica del Distrito Federal o por el Reglamento de Tránsito Metropolitano, durante el tiempo en que dure el arresto impuesto, y
+X. Realizar actividades de información, difusión, orientación y capacitación respecto a las consecuencias del uso, abuso o dependencia a las sustancias psicoactivas, a toda la población del Distrito Federal, en coadyuvancia con instituciones académicas, así como con representantes de los sectores público, social y privado, y
 
 XI. Las demás que le establezcan las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, G.O. 23 DE AGOSTO DE 2012)</small>
+
+Para el cumplimiento de las acciones establecidas en el presente artículo, el Gobierno, a través del Sistema de Salud del Distrito Federal y las Delegaciones, a través de los Centros para la Atención Integral del Consumo de Sustancias Psicoactivas, proporcionarán la atención médica primaria y el tratamiento oportuno a las personas con uso, abuso y dependencia a las sustancias psicoactivas en el Distrito Federal, cumpliendo con las políticas generales que emita el Instituto para la Atención y Prevención de las Adicciones en la Ciudad de México, de acuerdo a la Ley en la materia.
 
 ### Capítulo XXI. Prevención y Atención Médica de Accidentes
 
@@ -2835,3 +2857,13 @@ Segundo. El Comité de Atención Prehospitalaria de las Urgencias Médicas del D
 Tercero. El Comité de Atención Prehospitalaria de las Urgencias Médicas del Distrito Federal, en un plazo no mayor a 120 días hábiles después de la entrada en vigor del presente Decreto, propondrá al Gobierno para su publicación en la Gaceta Oficial del Distrito Federal, los Lineamientos para la Operación y Funcionamiento de instalaciones, unidades y personal que preste servicios de atención prehospitalaria de urgencias médicas.
 
 Previo a la publicación de los lineamientos a los que se refiere el presente artículo, el Comité de Atención Prehospitalaria de las Urgencias Médicas del Distrito Federal invitará a instituciones académicas, sociales y privadas que trabajen en el tema, así como a personas interesadas en la materia, para su revisión y consulta.
+
+G.O. 23 DE AGOSTO DE 2012.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo. Las Delegaciones contarán con 45 días hábiles para publicar en la Gaceta Oficial del Distrito Federal los programas administrativos correspondientes para dar cumplimiento a lo dispuesto en el artículo 10° del presente Decreto, a partir de la entrada en vigor del mismo.
+
+Tercero. Las Delegaciones que durante el ejercicio fiscal 2011 no hayan efectuado el proyecto ejecutivo debidamente aprobado, los trámites administrativos o la adquisición del terreno apropiado para la construcción del Centro a que se refiere el artículo 83 de la presente Ley, tendrán como plazo para dar cumplimiento a dicha disposición el segundo semestre de 2012, a fin de garantizar el inicio de las obras de construcción en el primer trimestre del año 2014, lo anterior conforme a la suficiencia presupuestal
+
+Cuarto. La Secretaría de Salud y el Instituto para la Atención y Prevención de las Adicciones de la Ciudad de México, conforme a la suficiencia presupuestal asignada por la Asamblea Legislativa, instrumentarán las acciones establecidas en el presente Decreto.
