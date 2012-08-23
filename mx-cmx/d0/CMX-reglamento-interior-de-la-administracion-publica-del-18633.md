@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2012-08-22"
+last_updated: "2012-08-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE AGOSTO DE 2012.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -1330,7 +1330,7 @@ XX. Establecer los lineamientos de seguridad personal de los procesados y senten
 
 > <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
 
-XXI. Vigilar que se de cumplimiento a derechos (sic) humanos de los procesados y sentenciados y emitir los procedimientos para responder a las recomendaciones de los organismos especializados;
+XXI. Vigilar que se de cumplimiento a derechos humanos de los procesados y sentenciados y emitir los procedimientos para responder a las recomendaciones de los organismos especializados;
 
 XXII. Establecer los criterios para la profesionalización, capacitación, seguridad y eficiencia del personal técnico;
 
@@ -1344,7 +1344,7 @@ XXIV. Desarrollar los criterios e indicadores estadísticos necesarios para eval
 
 > <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
 
-XXV. Supervisar y evaluar los controles y registros estadísticos que emiten los Centros de (sic) Penitenciarios, acerca de las actividades técnicas operativas, grupos vulnerables y acciones de diagnóstico, para definir las principales características de la población interna;
+XXV. Supervisar y evaluar los controles y registros estadísticos que emiten los Centros de Penitenciarios, acerca de las actividades técnicas operativas, grupos vulnerables y acciones de diagnóstico, para definir las principales características de la población interna;
 
 > <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
 
@@ -2428,7 +2428,7 @@ XIII. Proporcionar asesoría jurídica a internos y familiares que lo requieran;
 
 > <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
 
-XIV. Dirigir y coordinar al personal adscrito a esta Dirección Ejecutiva que la (sic) labora en los Centros Penitenciarios, a fin de garantizar el estricto cumplimiento de las disposiciones administrativas y legales vigentes, y
+XIV. Dirigir y coordinar al personal adscrito a esta Dirección Ejecutiva que la labora en los Centros Penitenciarios, a fin de garantizar el estricto cumplimiento de las disposiciones administrativas y legales vigentes, y
 
 > <small>(REFORMADA, G.O. 22 DE AGOSTO DE 2012)</small>
 
@@ -2490,7 +2490,7 @@ XI. Ejercer la defensa de la Subsecretaría de Sistema Penitenciario los juicios
 
 XII. Supervisar, controlar y evaluar la operación y funcionamiento de la Institución Abierta Casa de Medio Camino, a fin de proporcionar a los sentenciados a quienes se les otorgue por el Juez de Ejecución el beneficio penitenciario de Tratamiento Preliberacional, atención en adicciones, educación, cultura, deporte y capacitación para el trabajo, para que al obtener su libertad tengan mayores elementos para su reinserción social;
 
-XIII. Vigilar y supervisar el diseño y aplicación del programa de tratamiento individualizado de los sentenciados beneficiados con el Tratamiento Preliberacional para que éste se organice e instrumento (sic) con pleno respeto a sus derechos humanos y que contemple la participación en las disciplinas de psicología, trabajo social, criminología, adicciones y deporte;
+XIII. Vigilar y supervisar el diseño y aplicación del programa de tratamiento individualizado de los sentenciados beneficiados con el Tratamiento Preliberacional para que éste se organice e instrumento con pleno respeto a sus derechos humanos y que contemple la participación en las disciplinas de psicología, trabajo social, criminología, adicciones y deporte;
 
 XIV. Instrumentar el cumplimiento de las disposiciones del Juez de Ejecución que ordene que el sentenciado deba participar para su reinserción social en salidas grupales al exterior, en actividades culturales y recreativas que le permitan un acercamiento progresivo a la sociedad actual, impulsando para ello la participación de la sociedad civil e instituciones gubernamentales;
 
@@ -10398,9 +10398,9 @@ De las atribuciones básicas de las Direcciones Generales de carácter común de
 
 Son atribuciones básicas de la Dirección General Jurídica y de Gobierno:
 
-> <small>(REFORMADA, G.O. 31 DE ENERO DE 2001)</small>
+> <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2012)</small>
 
-I. Otorgar permisos para el uso de la vía pública, sin que se afecte la naturaleza y destino de la misma;
+I. Otorgar permisos para el uso de la vía pública sin que se afecte la naturaleza y destino de la misma, siempre que con su otorgamiento no se impida el libre ingreso, tránsito o evacuación, sea peatonal o vehicular, a las instituciones de salud de carácter público o privado; se considera que impide el libre ingreso, tránsito o evacuación, el uso de la vía pública ubicada en cualquier sitio del perímetro de dichas instituciones;
 
 II. Autorizar los horarios para el acceso a las diversiones y espectáculos públicos, vigilar su desarrollo, y en general el cumplimiento de las disposiciones jurídicas y administrativas aplicables;
 
@@ -12362,7 +12362,9 @@ II. Impulsar las políticas para el logro de objetivos definidos en los programa
 
 III. Ejercer las atribuciones correspondientes al Órgano Político Administrativo de acuerdo a la normativa aplicable, en relación con la administración, funcionamiento y trámites de los mercados públicos asentados en la demarcación territorial del órgano político-administrativo, y en relación con la supervisión, atención y reordenamiento del comercio en la vía pública que se encuentra dentro del territorio de su competencia;
 
-IV. Otorgar permisos para el uso de la vía pública, sin que se afecte la naturaleza y destino de la misma, en los términos de las disposiciones jurídicas y administrativas aplicables;
+> <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2012)</small>
+
+IV. Otorgar permisos para el uso de la vía pública sin que se afecte la naturaleza y destino de la misma, siempre que con su otorgamiento no se impida el libre ingreso, tránsito o evacuación, sea peatonal o vehicular, a las instituciones de salud de carácter público o privado; se considera que impide el libre ingreso, tránsito o evacuación, el uso de la vía pública ubicada en cualquier sitio del perímetro de dichas instituciones;
 
 V. Instalar mesas de diálogo que se propongan para identificar la problemática y las alternativas de solución a los problemas relacionados con el comercio en la vía pública;
 
@@ -14993,3 +14995,9 @@ G.O. 22 DE AGOSTO DE 2012.
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 23 DE AGOSTO DE 2012.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
