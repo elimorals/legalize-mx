@@ -4,7 +4,7 @@ identifier: "SON-codigo-electoral-para-el-estado-de-sonora-45286"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-06-29"
-last_updated: "2011-07-01"
+last_updated: "2012-08-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45286&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # CODIGO ELECTORAL PARA EL ESTADO DE SONORA
 
-CODIGO ELECTORAL PARA EL ESTADO DE SONORA
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE JUNIO DE 2013 EN EL B.O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 1 DE JULIO DE 2011.
+CÓDIGO ELECTORAL PARA EL ESTADO DE SONORA
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 23 DE AGOSTO DE 2012.
 
 Código publicado en la Edición Especial No. 2 del Boletín Oficial del Estado de Sonora, el miércoles 29 de junio de 2005.
 
@@ -87,7 +89,7 @@ XI.- Distrito: Distrito electoral uninominal;
 
 XII.- Lista nominal: la lista nominal de electores;
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, B.O. 23 DE AGOSTO DE 2012)</small>
 
 XIII.- Magistrado: Magistrado del Tribunal Estatal Electoral;
 
@@ -113,7 +115,7 @@ XXI.- Representante general: el representante general de partido, alianza o coal
 
 XXII.- Sección: la sección electoral;
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, B.O. 23 DE AGOSTO DE 2012)</small>
 
 XXIII.- Tribunal: el Tribunal Estatal Electoral.
 
@@ -287,7 +289,7 @@ b) Que se comprobó la identidad y domicilio de los delegados de la asamblea est
 
 c) Que fueron aprobados su declaración de principios, programa de acción y estatutos.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 9 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 17.
 
@@ -361,7 +363,7 @@ V.- Comunicar al Consejo Estatal su domicilio y cualquier cambio al mismo;
 
 VI.- Comunicar al Consejo Estatal cualquier modificación a su declaración de principios, programa de acción o estatutos, dentro de los diez días siguientes a la fecha en que se tome el acuerdo correspondiente;
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, B.O. 23 DE AGOSTO DE 2012)</small>
 
 VII.- Comunicar al Consejo Estatal los nombramientos y cambios de los integrantes de sus órganos directivos, acreditando los mismos con la documentación que estatutariamente corresponda;
 
@@ -377,15 +379,15 @@ X.- Llevar el registro contable de los bienes muebles e inmuebles que hayan sido
 
 XI.- Constituirse sólo por ciudadanos sin intervención de organizaciones gremiales, o con objeto social diferente y sin que haya afiliación corporativa;
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, B.O. 23 DE AGOSTO DE 2012)</small>
 
 XII.- En la propaganda política o electoral que difunda, abstenerse de expresiones que denigren a las instituciones y a los propios partidos o que calumnien a las personas;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, B.O. 23 DE AGOSTO DE 2012)</small>
 
-XIII.- Llevar a cabo cursos de capacitación sobre el cargo a contender para sus aspirantes a puestos de elección popular, incluidos los cargos de representación proporcional, previo a su correspondiente registro; y
+XIII.- Llevar a cabo cursos de capacitación sobre el cargo a contender pata sus aspirantes a puestos de elección popular, incluidos los cargos de representación proporcional, previo a su correspondiente registro; y
 
-> <small>(ADICIONADA [N. DE E. REPUBLICADA], B.O. 1 DE JULIO DE 2011)</small>
+> <small>(ADICIONADA, B.O. 23 DE AGOSTO DE 2012)</small>
 
 XIV.- Las demás que establezca este ordenamiento.
 
@@ -417,7 +419,7 @@ Todas las controversias relacionadas con los asuntos internos de los partidos po
 
 ### CAPÍTULO V. DEL ACCESO A LOS MEDIOS MASIVOS DE COMUNICACIÓN
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 9 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 25.
 
@@ -425,7 +427,7 @@ Es derecho de los partidos, alianzas o coaliciones, acceder a los medios masivos
 
 I.- Su posicionamiento, divulgación de principios, estatutos, ideología y plataformas políticas electorales.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 9 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE JUNIO DE 2008)</small>
 
 Los gastos realizados por estos conceptos, en medios diferentes a la radio y televisión, en la etapa de campaña y precampaña se computarán dentro de los gastos de campaña o precampaña, según corresponda, conforme a las siguientes reglas:
 
@@ -457,7 +459,7 @@ El Consejo Estatal podrá celebrar convenios con la autoridad electoral federal 
 
 Los partidos en alianza, en coalición o en candidaturas comunes gozarán de la prerrogativa que se establece en este artículo a partir de la procedencia de su registro correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 9 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 27.
 
@@ -471,13 +473,13 @@ b) Llevar el monitoreo durante el proceso electoral de todos los medios masivos 
 
 Adicionalmente, la Comisión realizará un monitoreo de las transmisiones sobre las precampañas y campañas electorales en los programas de radio y televisión que difundan noticias o con contenido político y de las publicaciones impresas o en medios electrónicos que sobre las mismas se realicen con fines informativos.
 
-> <small>(REFORMADO, B.O. 9 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, B.O. 23 DE AGOSTO DE 2012)</small>
 
-c) Hacer del conocimiento público las estadísticas de monitoreo a que se refiere el inciso anterior, dentro de los cinco primeros días de cada mes, durante el proceso electoral.
+c) Hacer del conocimiento público las estadísticas de monitoreo a que se refiere el inciso anterior, dentro de los cinco primeros días de cada mes, durante el proceso electoral; adicionalmente, se entregará a la Comisión de Fiscalización dicho informe para los efectos de lo establecido en el inciso d) de este artículo.
 
-> <small>(REFORMADO, B.O. 9 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, B.O. 23 DE AGOSTO DE 2012)</small>
 
-d) Coadyuvar con la Comisión de Fiscalización en la determinación de gastos en medios de comunicación distintos a radio y televisión, y en la fiscalización de los tiempos asignados en radio y televisión.
+d) Coadyuvar con la Comisión de Fiscalización en la determinación de gastos en medios de comunicación distintos a radio y televisión, y en la fiscalización de los tiempos asignados en radio y televisión; para lo cual deberá de determinar en base al costo unitario del medio de comunicación de que se trate, previa verificación con las empresas prestadoras de estos servicios; el costo unitario y total por precandidato, candidato y partido, alianza o coalición ejercido durante la precampaña o campaña electoral política de Gobernador, diputados y ayuntamientos, con la finalidad de que la Comisión de Fiscalización pueda determinar si lo reportado en los informes financieros de los partidos políticos coincide con el informe de Monitoreo y estar en condiciones de determinar si se respetaron los topes de precampaña y campaña correspondiente.
 
 > <small>(REFORMADO, B.O. 9 DE JUNIO DE 2008)</small>
 
@@ -547,15 +549,17 @@ a) El treinta por ciento se entregará en forma igualitaria a los partidos que r
 
 b) El setenta por ciento restante se distribuirá según el porcentaje de la votación estatal emitida que hubiese obtenido cada partido político que hubiera registrado candidatos para la elección extraordinaria correspondiente en la elección de diputados del anterior proceso electoral.
 
-> <small>(REFORMADO, B.O. 9 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, B.O. 23 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 30.
 
-El Consejo Estatal, con base a los lineamientos que emita para el efecto, reintegrará en abril de cada año, los gastos que erogaron el año anterior los partidos por concepto de las actividades específicas relativas a la educación, capacitación, investigación socioeconómica y política, así como a las tareas editoriales, hasta por una cantidad equivalente al 5% del financiamiento público ordinario que le correspondió a cada partido en el año en que incurrieron los gastos.
+El Consejo Estatal, otorgará en enero de cada año en una sola exhibición a los partidos políticos adicionalmente a lo que le corresponde como financiamiento público por una cantidad equivalente al 5% del financiamiento público ordinario para aplicarlo en actividades especificas relativas a la educación, capacitación, investigación socioeconómica y política, así como a las tareas editoriales.
+
+La aplicación de dicho recurso, se hará en base a los lineamientos que emita para tal efecto el Consejo Estatal.
 
 ### CAPÍTULO VII. DEL FINANCIAMIENTO PRIVADO
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 9 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 31.
 
@@ -603,7 +607,7 @@ Las personas morales civiles mexicanas podrán realizar aportaciones si cuentan 
 
 ### CAPÍTULO VIII. DE LA FISCALIZACIÓN DEL FINANCIAMIENTO PÚBLICO Y PRIVADO
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 23 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 33.
 
@@ -641,11 +645,11 @@ IV.- La Comisión de Fiscalización podrá ordenar la práctica de auditorías y
 
 Si la Comisión de Fiscalización advirtiera alguna irregularidad en el manejo financiero de los partidos, alianzas o coaliciones, notificará al infractor lo conducente para que, dentro de un plazo de quince días contados a partir de dicha notificación, presente las aclaraciones o rectificaciones que estime pertinentes. Con base en lo anterior, la Comisión de Fiscalización procederá a elaborar el dictamen con los requisitos y para los efectos señalados en la fracción III del artículo 37 de este Código, y, según sea el caso, podrá proponer al pleno, solicitar al Instituto Federal Electoral, realice la auditoría y fiscalización del partido, candidatos, precandidatos y personal encargado de las finanzas de campañas, que presumiblemente, ha incurrido en dichas irregularidades, para los efectos que establece el penúltimo párrafo de la fracción V del artículo 41 de la Constitución Federal.
 
-> <small>(REFORMADO, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, B.O. 23 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 36.
 
-Los partidos, alianzas o coaliciones deberán presentar, dentro de los cuarenta y cinco días naturales siguientes al de cierre de campañas electorales, los informes de gastos de cada una de las campañas en las elecciones respectivas, que contendrán, al menos, origen, monto y destino de los recursos que se hayan utilizado para financiar los gastos correspondientes; debiendo de realizar un informe preliminar al cierre de la campaña. Reglamentándose los mismos para la forma y efectos en los lineamientos generales que establezca el Consejo Estatal.
+Los partidos, alianzas o coaliciones deberán presentar, dentro de los cuarenta y cinco días naturales siguientes al de cierre de campañas electorales, los informes de gastos de cada una de las campañas en las elecciones respectivas, que contendrán, al menos, origen, monto y destino de los recursos que se hayan utilizado para financiar los gastos correspondientes; debiendo de realizar dos informes preliminares uno al último día del mes de mayo y otro al cierre de la campaña, debiendo de presentar los informes dentro de los cinco días siguientes a dichas fechas. Debiéndose reglamentar los mismos para la forma y efectos en los lineamientos generales que establezca el Consejo Estatal.
 
 ###### ARTÍCULO 37.
 
@@ -657,9 +661,9 @@ I.- La Comisión de Fiscalización contará hasta con treinta días para revisar
 
 Dentro del proceso de revisión de los informes, la Comisión de Fiscalización tomará en consideración los informes que le presente la Comisión de Monitoreo de Medios de Comunicación sobre la utilización que los partidos, alianzas o coaliciones hicieran de tales medios.
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, B.O. 23 DE AGOSTO DE 2012)</small>
 
-II.- Si de la revisión de los informes la Comisión advierte la existencia de irregularidades, omisiones o errores se aclararán y resolverán informalmente las que así procedan dentro de los treinta días del proceso de revisión.
+II.- Si de la revisión de los informes la Comisión advierte la existencia de irregularidades, omisiones o errores se aclararán y resolverán informalmente las que así procedan dentro de los treinta días del proceso de revisión para lo cual la Comisión de Fiscalización citará a los partidos políticos a fin de realizar una sesión de confronta.
 
 Terminado el periodo de revisión se notificará al partido, alianza o coalición que hubiere incurrido en irregularidades, omisiones o errores para que, dentro de un plazo de diez días contados a partir de dicha notificación, presente las aclaraciones o rectificaciones que estime pertinentes.
 
@@ -977,7 +981,7 @@ III.- Los Consejos Municipales; y
 
 IV.- Las mesas directivas de casilla.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 9 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 76.
 
@@ -1001,7 +1005,7 @@ La acreditación de comisionados deberá ser firmada por el dirigente estatal de
 
 Para ser comisionado ante un Consejo Electoral, se deberán reunir los requisitos que se establecen en las fracciones I, IV, V, VI, X, XI, XII, XIII y XIV del artículo 92 y las demás que se señalan en este Código.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 9 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 78.
 
@@ -1085,7 +1089,7 @@ Las actividades del Consejo Estatal se regirán por los principios de certeza, l
 
 El Consejo Estatal tendrá su sede en la capital del Estado y ejercerá sus funciones en todo el territorio de la Entidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 9 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 86.
 
@@ -1095,9 +1099,11 @@ En la integración del Consejo Estatal habrá paridad de género y en su conform
 
 El Consejo Estatal funcionará en pleno y en comisiones en los términos del presente Código.
 
+> <small>(REFORMADO, B.O. 23 DE AGOSTO DE 2012)</small>
+
 ###### ARTÍCULO 87.
 
-El patrimonio del Consejo Estatal se integra con los bienes muebles e inmuebles, inversiones, rendimientos financieros y otros ingresos que se destinen al cumplimiento de su objeto y fines, así como con el presupuesto que para dicho organismo autorice anualmente el Congreso del Estado.
+El patrimonio del Consejo Estatal se integra con los bienes muebles e inmuebles, inversiones, rendimientos financieros y otros ingresos que se destinen al cumplimiento de su objeto y fines, así como con el presupuesto que para dicho organismo autorice anualmente el Congreso del Estado; la administración del presupuesto y del patrimonio del Consejo será responsabilidad de la Comisión de Administración quien ejecutará sus acuerdos y determinaciones a través de la Dirección Ejecutiva de Administración. El presupuesto anual, así como las reasignaciones presupuestales y la cuenta pública deberá ser aprobado por el Consejo Estatal; los informes trimestrales deberán ser aprobados por la Comisión de Administración.
 
 ###### ARTÍCULO 88.
 
@@ -1125,7 +1131,9 @@ Si no se obtiene la votación requerida para la designación, se regresará el d
 
 V.- El procedimiento por el cual el Congreso nombrará a los consejeros del Consejo Estatal Electoral, deberá llevarse a cabo antes de que concluya el mes de junio del año en que inicie el proceso electoral correspondiente.
 
-Los consejeros del Consejo Estatal Electos designados conforme al presente artículo deberán rendir la protesta de Ley;
+> <small>(REFORMADO, B.O. 23 DE AGOSTO DE 2012)</small>
+
+Los consejeros del Consejo Estatal designados conforme al presente artículo deberán rendir la protesta de Ley; y una vez rendido dicha protesta deberán ser llamados dentro de los tres días siguientes por el Secretario del Consejo Estatal con la finalidad de que integren el Pleno y designen al Presidente del Consejo Estatal.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 9 DE JUNIO DE 2008)</small>
 
@@ -1203,37 +1211,57 @@ XIV.- No ser notario público.
 
 Para ser secretario del Consejo Estatal, además de cumplir con los requisitos señalados en el artículo anterior, el interesado deberá poseer, al día de la designación, título universitario a nivel de licenciatura y tener conocimientos en materia electoral.
 
+> <small>(REFORMADO, B.O. 23 DE AGOSTO DE 2012)</small>
+
 ###### ARTÍCULO 94.
 
 El Consejo Estatal contará con las siguientes comisiones ordinarias:
 
-I.- Comisión de Fiscalización;
+I.- Comisión de Fiscalización tendrá por objeto llevar a cabo el procedimiento de revisión y fiscalización de los informes semestrales, anuales, de precampaña y campaña así como de las auditorías a los partidos políticos relativas al financiamiento público y financiamiento privado que reciban para sus actividades ordinarias permanentes y de las tendientes a la obtención del voto; así mismo le corresponde sustanciar los procedimientos sobre denuncias que se presenten en contra de los partidos políticos por irregularidades sobre el origen, aplicación y destino de los recursos utilizados.
 
-> <small>(REFORMADA, B.O. 9 DE JUNIO DE 2008)</small>
+II.- Comisión de Monitoreo de Medios de Comunicación tendrá por objeto vigilar el cumplimiento de las disposiciones legales en materia de acceso y uso de los medios masivos de comunicación públicos y privados, así como de levantar y mantener actualizado el padrón de dichos medios manteniendo vigente la información relativa al área de cobertura y cotización de costo unitarios y de servicios.
 
-II.- Comisión de Monitoreo de Medios de Comunicación;
+Además deberá de llevar el monitoreo durante el proceso electoral de todos los medios masivos de comunicación con influencia en el estado, así como el monitoreo de sitios de Internet, pantallas electrónicas y análogas, de igual forma el monitoreo de propaganda de vallas publicitarias, espectaculares y cualquier medio análogo; debiendo coadyuvar con la Comisión de Fiscalización en los términos que establezca este Código.
 
-III.- Comisión de Organización y Capacitación Electoral, y
+Adicionalmente tendrá como facultad la comunicación social e imagen institucional del Consejo Estatal, debiendo coadyuvar con la Comisión de Organización y Capacitación Electoral en las campañas sobre la promoción de la cultura democrática que para efecto (sic) determine dicha Comisión;
 
-IV.- Comisión de Administración.
+III.- Comisión de Organización y Capacitación Electoral, tendrá por objeto como funciones principales la conformación, organización, funcionamiento y vigilancia de los Consejos Distritales y Municipales, así como las mesas directivas de casilla con el propósito de garantizar el desarrollo ·del proceso electoral previa capacitación de los funcionarios electorales y del fomento de la participación y difusión de la cultura democrática; y
 
-> <small>(REFORMADO, B.O. 9 DE JUNIO DE 2008)</small>
+IV.- Comisión de Administración, tendrá por objeto la planeación de los recursos humanos, técnicos y financieros del Consejo Estatal propiciando la correcta administración y ejercicio del presupuesto de egresos.
 
-Las comisiones ordinarias tendrán las atribuciones que correspondan conforme a su denominación, en los términos que defina el presente Código y el reglamento correspondiente que expida el Consejo Estatal.
+Las Comisiones ordinarias tendrán las atribuciones a que se refiere el presente artículo y las demás que defina el presente Código y el Reglamento correspondiente que expida el Consejo Estatal.
 
-Cada comisión ordinaria estará integrada por tres consejeros del Consejo Estatal designados por el pleno. Cada comisión ordinaria elegirá de entre sus miembros al presidente de la misma. Los presidentes de las comisiones ordinarias durarán en su encargo dos años, sin que puedan ser reelectos. Ningún consejero podrá presidir más de una comisión ordinaria, ni ser a la vez presidente del Consejo Estatal y de una comisión ordinaria.
+Cada comisión ordinaria estará integrada por tres consejeros del Consejo Estatal designados por el pleno, en cuya (sic) sesiones podrán participar los comisionados de los partidos político (sic) con derecho a voz. Cada comisión ordinaria elegirá de entre sus miembros al presidente de la misma. Los presidentes de las comisiones ordinarias durarán en su encargo dos años, sin que puedan ser reelectos. Ningún consejero podrá presidir más de una comisión ordinaria, ni ser a la vez presidente del Consejo Estatal y de una comisión ordinaria.
 
 El Consejo Estatal podrá integrar, además de las comisiones ordinarias a que se refiere este artículo, aquellas comisiones especiales que considere pertinentes, fijándoles en todo caso su finalidad u objetivo y su duración.
 
+> <small>(REFORMADO, B.O. 23 DE AGOSTO DE 2012)</small>
+
 ###### ARTÍCULO 95.
 
-Para el eficaz desarrollo de los trabajos y cumplimiento de sus objetivos, el Consejo Estatal podrá contar con las direcciones ejecutivas que se determinen en el reglamento correspondiente, cuya asignación al pleno o a las comisiones ordinarias será determinada en el propio reglamento.
+Para el eficaz desarrollo de los trabajos y cumplimiento de sus objetivos, el Consejo Estatal deberá contar con las siguientes direcciones ejecutivas:
 
-> <small>(REFORMADO, B.O. 1 DE JULIO DE 2011)</small>
+I.- Dirección Ejecutiva de Asuntos Jurídicos, la cual estará adscrita de (sic) la Secretaría del Consejo y cuyo titular, subdirectores, jefes de departamentos y coordinadores serán nombrados por el Consejo Estatal a propuesta del Presidente;
+
+II.- Dirección Ejecutiva de Comunicación Social y Monitoreo de Medios de (sic) Masivos de Comunicación, la cual estará adscrita a la Comisión de Monitoreo de Medios Masivos de Comunicación;
+
+III.- Dirección Ejecutiva de Administración, la cual estará adscrita a la Comisión de Administración;
+
+IV.- Dirección Ejecutiva de Organización, Logística, Capacitación y Educación Cívica, la cual estará adscrita a la Comisión de Organización y Capacitación Electoral;
+
+V.- Dirección Ejecutiva de Fiscalización, la cual estará adscrita a la Comisión de Fiscalización; y
+
+VI.- Además el Consejo Estatal contará con un titular del órgano de control interno que estará adscrito al Pleno del Consejo, por conducto del Presidente de dicho organismo y cuyo nombramiento será aprobado por el Consejo a propuesta de su Presidente, debiendo reunir los mismos requisitos establecidos en el artículo 92 del presente Código.
+
+Los titulares de las direcciones ejecutivas, así como subdirectores, jefes de departamentos y coordinadores serán nombrados por el Pleno del Consejo Estatal a propuesta del Presidente de la comisión a la que estén adscritos, debiendo expedir el nombramiento el Presidente del Consejo Estatal En el caso de los titulares de las direcciones ejecutivas, estos deberán reunir los mismos requisitos establecidos en el artículo 92 del presente Código para ocupar tal cargo.
+
+Asimismo, el Pleno del Consejo Estatal conocerá y resolverá, según sea el caso, sobre la renuncia o destitución de los funcionarios señalados en el párrafo anterior.
+
+> <small>(REFORMADO, B.O. 23 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 96.
 
-El Consejo Estatal se reunirá dentro de los primeros diez días del mes de octubre del año anterior al de las elecciones ordinarias, a efecto de emitir la declaratoria formal del inicio del proceso electoral ordinario correspondiente.
+El Consejo Estatal se reunirá dentro de los primeros diez día del mes de octubre del año anterior al de las elecciones ordinarias, a efecto de emitir la declaratoria formal del inicio del proceso electoral ordinario correspondiente.
 
 A partir de esta declaratoria y hasta la culminación del proceso, el Consejo Estatal sesionará en forma ordinaria por lo menos, una vez al mes dentro de los primeros diez días, para lo cual se deberá convocar cuando menos cuarenta y ocho horas de anticipación a la celebración de la sesión.
 
@@ -1243,17 +1271,17 @@ Concluido el proceso el Consejo Estatal sesionará en forma ordinaria cada dos m
 
 De igual forma, podrá celebrar sesiones con carácter extraordinario cuando así se establezca en el presente Código o bien el presidente del Consejo Estatal o a petición de dos o más Consejeros; debiéndose convocar cuando menos con veinticuatro horas de anticipación a la celebración de la sesión.
 
-En toda convocatoria para sesión se deberá de acompañar los proyectos de acuerdos, resoluciones o demás documentos que tengan relación con los puntos a tratar dentro del orden del día; salvo lo previsto por el reglamento.
+En toda convocatoria para sesión se deberá de acompañar los proyectos de acuerdos, resoluciones o demás documentos que tengan relación con los puntos a tratar dentro del orden del día.
 
 Para la celebración de las sesiones es requisito indispensable de que se haya convocado a los comisionados con las formalidades que exija este Código y el reglamento.
 
-> <small>(REFORMADO, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, B.O. 23 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 97.
 
-Para que el Consejo Estatal pueda sesionar es necesaria la presencia de la mayoría de los consejeros propietarios, debiendo ser el presidente uno de ellos, y en caso de que no se encuentre presente este último, podrán sesionar la mayoría de los Consejeros, nombrando de entre ellos al Consejero que fungirá como presidente.
+Para que el Consejo Estatal pueda sesionar es necesaria la presencia de la mayoría de los consejeros propietarios, debiendo ser el presidente uno de ellos, a menos de que se encuentren presentes cuatro consejeros, en cuyo caso podrá llevarse a cabo la sesión sin el presidente; para lo cual deberá asumir el cargo de Presidente el consejero de mayor edad.
 
-Las resoluciones se tomarán por mayoría de votos y, en caso de empate, el presidente definirá el sentido de la votación con su voto. Los consejeros podrán votar a favor o en contra del proyecto de acuerdo o resolución pudiendo emitir votos concurrentes o votos particulares.
+Las resoluciones se tomarán por mayoría de votos y, en caso de empate, el presidente definirá el sentido de la votación con su voto. Los consejeros podrán votar a favor o en contra del proyecto de acuerdo o resolución pudiendo emitir votos concurrentes o votos particulares, pero en ningún caso podrán abstenerse, y en caso de que no exista pronunciamiento se contará como un voto en contra.
 
 ###### ARTÍCULO 98.
 
@@ -1281,9 +1309,9 @@ VII.- Llevar a cabo el procedimiento para integrar las mesas directivas, de acue
 
 VIII.- Vigilar el desarrollo de los trabajos de integración, actualización, depuración y revisión de las listas nominales;
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, B.O. 23 DE AGOSTO DE 2012)</small>
 
-IX.- Proporcionar la información que requieran los partidos, alianzas o coaliciones, dentro de los quince días siguientes a partir de que se reciba la solicitud;
+IX.- Proporcionar la información que requieran los partidos, alianzas o coaliciones, dentro de los cinco días siguientes a partir de que se reciba la solicitud;
 
 X.- Promover ante el Registro Electoral o ante el organismo federal electoral que corresponda la práctica de los trabajos técnicos necesarios para la preparación del proceso;
 
@@ -1291,7 +1319,7 @@ XI.- Proveer que lo relativo a los derechos y prerrogativas de los partidos se d
 
 XII.- Dictar, en los términos del Titulo Segundo del Libro Tercero de este Código, los lineamientos a que se sujetará la depuración y actualización del Catálogo General de Electores y del Padrón Electoral;
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 9 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE JUNIO DE 2008)</small>
 
 XIII.- Convenir con el Instituto Federal Electoral para que se haga cargo de la organización de los procesos electorales locales y del monitoreo de los medios de comunicación con influencia en el Estado, y para convenir con el Registro Federal de Electores para que en los procesos estatales se utilice la credencial con fotografía para votar y la documentación respectiva, conforme a lo siguiente:
 
@@ -1319,9 +1347,9 @@ XIX.- Registrar la plataforma electoral mínima que los candidatos sostendrán e
 
 XX.- Llevar a cabo los trabajos técnicos y el procedimiento establecido en los artículos 180 y 181 de este Código, relativo a la designación, en tiempo y forma, del regidor étnico propietario y suplente para efecto de que se integren a la planilla de Ayuntamiento que haya resultado electa en el Municipio correspondiente;
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, B.O. 23 DE AGOSTO DE 2012)</small>
 
-XXI.- Designar al secretario del Consejo Estatal por el voto de las dos terceras partes de sus miembros, conforme a la propuesta en terna que presente su presidente, quien solo podrá ser removido también por el voto de las dos terceras partes;
+XXI.- Designar al secretario del Consejo Estatal por el voto de las dos terceras partes de sus miembros, conforme a la propuesta en terna que presente su presidente, quien solo podrá ser removido también por el voto de las dos terceras partes previo procedimiento de destitución por las causales que señala este Código. El Secretario del Consejo durará en su encargo tres años a partir de su nombramiento pudiendo ser ratificado para otro periodo más;
 
 XXII.- Integrar las comisiones ordinarias según se determinan en este Código, así como las comisiones especiales que considere pertinente, por el voto de las dos terceras partes de sus miembros;
 
@@ -1389,15 +1417,15 @@ XLIV.- Expedir y actualizar sus reglamentos, que deberán publicarse en el Bolet
 
 XLV.- Proveer en la esfera de su competencia las disposiciones necesarias para hacer efectivas las disposiciones del presente Código;
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, B.O. 23 DE AGOSTO DE 2012)</small>
 
 XLVI.- Proveer lo necesario para la elaboración de estadísticas electorales, debiendo ser acordadas por el Consejo Estatal;
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, B.O. 23 DE AGOSTO DE 2012)</small>
 
 XLVII.- Celebrar los convenios que resulten pertinentes para el eficaz cumplimiento de sus funciones, previa aprobación del Pleno del Consejo Estatal de sus contenidos y alcances;
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, B.O. 23 DE AGOSTO DE 2012)</small>
 
 XLVIII.- Fomentar la cultura democrática electoral, debiendo de aprobarse el programa operativo anual mediante acuerdo del Pleno del Consejo Estatal en donde se establezcan objetivos y metas;
 
@@ -1423,37 +1451,37 @@ LIII.- Acordar, en sesión pública, sobre el proyecto de presupuesto anual de e
 
 LIV.- Durante el mes de enero del año de la elección, establecer y publicar los lineamientos para la comprobación de los gastos de campañas y precampañas, incluyendo los gastos en medios de comunicación, para la fiscalización de los recursos de los partidos y los formatos para la presentación de informes de dichos gastos;
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, B.O. 23 DE AGOSTO DE 2012)</small>
 
 LV.- Recibir y tramitar las denuncias que reciba por irregularidades sobre el origen, aplicación y destino de los recursos utilizados en precampañas electorales;
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, B.O. 23 DE AGOSTO DE 2012)</small>
 
 LVI.- Aprobar el reglamento que contenga el régimen de responsabilidad de los funcionarios del Consejo Estatal así como los procedimientos y sanciones de responsabilidad administrativa;
 
-> <small>(ADICIONADA, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(ADICIONADA, B.O. 23 DE AGOSTO DE 2012)</small>
 
-LVII.- Dar curso a las solicitudes de participación ciudadana atendiendo lo establecido por el artículo 64 fracción XXXV Bis de la Constitución Política del Estado de Sonora y su ley reglamentaria, sustanciando los procedimientos de las figuras de participación tales como el referéndum, plebiscito, iniciativa popular, consulta vecinal y demás que estime conveniente la ley correspondiente; para lo cual deberá conformar· la Comisión Ordinaria de fomento y participación ciudadana y su correspondiente dirección ejecutiva;
+LVII.- Dar curso a las solicitudes de participación ciudadana atendiendo lo establecido por el artículo 64 fracción XXXV Bis de la Constitución Política del Estado de Sonora y su ley reglamentaria, sustanciando los procedimientos de las figuras de participación tales como el referéndum, plebiscito, iniciativa popular, consulta vecinal y demás que estime conveniente la ley correspondiente; para lo cual deberá conformar la Comisión Ordinaria de fomento y participación ciudadana y su correspondiente dirección ejecutiva;
 
-> <small>(ADICIONADA, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(ADICIONADA, B.O. 23 DE AGOSTO DE 2012)</small>
 
 LVIII.- Emitir los Acuerdos que garanticen a los ciudadanos con discapacidad el ejercicio del sufragio, comprendiendo procedimientos de aspectos de accesibilidad, comunicación, capacitación y difusión; y
 
-> <small>(ADICIONADA [N. DE E. REPUBLICADA], B.O. 1 DE JULIO DE 2011)</small>
+> <small>(ADICIONADA, B.O. 23 DE AGOSTO DE 2012)</small>
 
 LIX.- Las demás que le confiere este Código y disposiciones relativas.
 
-> <small>(REFORMADO, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, B.O. 23 DE AGOSTO DE 2012)</small>
 
-###### ARTÍCULO 99.
+###### ARTICULO 99.
 
 El Consejo Estatal designará a los consejeros que integrarán los Consejos Distritales y Municipales.
 
-Para tal efecto emitirá una convocatoria que deberá publicar en los medios de mayor circulación con cobertura en el Estado, así como en la página oficial de Internet del propio Consejo Estatal y en el Boletín Oficial del Gobierno del Estado; dicha convocatoria deberá emitirse a más tardar e! día quince de octubre del año previo al de la elección. Los consejeros que deberán de integrar los consejos distritales y municipales deberán ser electos a más tardar el día último de enero del año de la elección a fin de que se constituyan e instalen los respectivos consejos a más tardar el día quince de febrero del año de la elección.
+Para tal efecto emitirá una convocatoria que deberá publicar en los medios de mayor circulación con cobertura en el Estado, así como en la página oficial de Internet del propio Consejo Estatal y en el Boletín Oficial del Gobierno del Estado; dicha convocatoria deberá emitirse a más tardar el día quince de octubre del año previo al de la elección. Los consejeros que deberán de integrar los consejos distritales y municipales deberán ser electos a más tardar el día último de enero del año de la elección a fin de que se constituyan e instalen los respectivos consejos a más tardar el día quince de febrero del año de la elección.
 
 Las propuestas de designación de los consejeros, deberán darse a conocer con diez días de anticipación previo a la designación dentro de los cuales los comisionados podrán formular las objeciones que estimen pertinentes.
 
-Resueltas las objeciones se citará a sesión extraordinaria para la aprobación de los consejeros designados; debiéndose de publicar en los medios de mayor circulación con cobertura en el Estado, así como en la página oficial de Internet del propio Consejo Estatal y en el Boletín Oficial del Gobierno del Estado.
+Resueltas las objeciones se citará a sesión extraordinaria para la aprobación de los consejeros designados; debiéndose de publicar en los medios de mayor circulación con cobertura en el Estado, así como en la página oficial de Internet del propio Consejo Estatal y en Boletín Oficial del Gobierno del Estado.
 
 ###### ARTÍCULO 100.
 
@@ -1467,13 +1495,13 @@ III.- Remitir para su consideración al titular del Poder Ejecutivo el proyecto 
 
 IV.- Ejecutar y vigilar el cumplimiento de los acuerdos del Consejo Estatal, salvo los casos en que la Ley o el pleno del Consejo Estatal dispongan lo contrario;
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, B.O. 23 DE AGOSTO DE 2012)</small>
 
-V.- Proponer a quien deba ocupar el cargo de titular del órgano de control interno al Consejo Estatal;
+V.- Proponer la terna al Consejo Estatal para la designación del titular del órgano de control interno;
 
 VI.- Establecer los vínculos entre los organismos electorales y las autoridades federales, estatales y municipales, en sus respectivos ámbitos de competencia, cuando esto sea necesario para el cumplimiento de los fines del propio Consejo Estatal;
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, B.O. 23 DE AGOSTO DE 2012)</small>
 
 VII.- Turnar a las comisiones los asuntos que les correspondan; así mismo recibir del titular del órgano de control interno los informes de las revisiones y auditorias que se realicen para verificar la correcta y legal aplicación de los recursos y bienes del organismo, a fin de que sean aprobados por el Consejo Estatal y, en su caso, la aplicación de las sanciones que correspondan.
 
@@ -1501,7 +1529,9 @@ IV.- Proveer lo necesario a fin de que se hagan, oportunamente, las publicacione
 
 V.- Informar a los Consejos Distritales o Municipales correspondientes sobre la recepción y resolución de las solicitudes de registro de candidatos presentadas ante el Consejo Estatal;
 
-VI.- Expedir los documentos que acrediten la personalidad de los consejeros y los nombramientos que apruebe el presidente del personal técnico del propio Consejo;
+> <small>(REFORMADA, B.O. 23 DE AGOSTO DE 2012)</small>
+
+VI.- Expedir los documentos que acrediten la personalidad de los consejeros y los nombramientos que apruebe el Pleno del Consejo Estatal respecto a los directores ejecutivos, subdirectores, jefes de departamento y coordinadores de las direcciones ejecutivas, así como del resto del personal que sea nombrado en términos del reglamento interior de trabajo.
 
 VII.- Llevar el archivo y los libros de registro de los asuntos del Consejo Estatal;
 
@@ -1525,7 +1555,7 @@ XII.- Vigilar que se reciban los paquetes electorales y los expedientes de la el
 
 XIII.- Lo demás que le sea encomendado por el Consejo Estatal.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 9 DE JUNIO DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 9 DE JUNIO DE 2008)</small>
 
 ### CAPÍTULO II BIS. DE LOS CONSEJOS DISTRITALES ELECTORALES
 
@@ -1573,9 +1603,9 @@ ARTÍCULO 101 BIS 5.- Los consejeros de los Consejos Distritales deberán reunir
 
 ARTÍCULO 101 BIS 6.- Los Consejos Distritales se reunirán, a más tardar durante los primeros quince días del mes de febrero del año de la elección ordinaria, con el objeto de preparar los procesos correspondientes. A partir de esa fecha y hasta la culminación del proceso, sesionarán por lo menos una vez al mes.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 23 DE AGOSTO DE 2012)</small>
 
-ARTÍCULO 101 BIS 7.- Para que los Consejos Distritales puedan sesionar es necesario que esté presente la mayoría de los consejeros propietarios, previamente convocados por escrito y, entre ellos, deberá estar el Presidente. Si no concurre el Presidente, el Consejo Distrital podrá sesionar con la presencia de cuatro consejeros, eligiéndose entre ellos quien deberá fungir cono (sic) Presidente.
+ARTÍCULO 101 BIS 7.- Para que los Consejos Distritales puedan sesionar es necesario que esté presente la mayoría de los consejeros propietarios, previamente convocados por escrito y, entre ellos, deberá estar el Presidente. Si no concurre el Presidente, el Consejo Distrital podrá sesionar con la presencia de cuatro consejeros, para lo cual deberá asumir el cargo de Presidente el consejero de mayor edad.
 
 > <small>(ADICIONADO, B.O. 9 DE JUNIO DE 2008)</small>
 
@@ -1731,17 +1761,17 @@ Los consejeros de los Consejos Municipales deberán reunir los requisitos que es
 
 Los Consejos Municipales se reunirán, a más tardar durante los primeros quince días del mes de febrero del año de la elección ordinaria, con el objeto de preparar los procesos correspondientes. A partir de esa fecha y hasta la culminación del proceso, sesionarán por lo menos una vez al mes.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 23 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 109.
 
-Para que los Consejos Municipales puedan sesionar es necesario que esté presente la mayoría de los consejeros propietarios, previamente convocados por escrito y, entre ellos, deberá estar el presidente. Si no concurre el presidente, el Consejo Municipal podrá sesionar con la presencia de cuatro consejeros, eligiéndose entre ellos quien deberá fungir cono (sic) Presidente.
+Para que los Consejos Municipales puedan sesionar es necesario que esté presente la mayoría de los consejeros propietarios, previamente convocados por escrito y, entre ellos, deberá estar el Presidente. Si no concurre el presidente, el Consejo Municipal podrá sesionar con la presencia de cuatro consejeros, para lo cual deberá asumir el cargo de Presidente el consejero de mayor edad.
 
 Las resoluciones se tomarán por mayoría de votos y, en caso de empate, el presidente definirá el sentido de la votación con su voto.
 
 Para su operación y funcionamiento, los Consejos Locales se sujetarán a las disposiciones del reglamento interior que expida el Consejo Estatal.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 9 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 110.
 
@@ -1803,7 +1833,7 @@ XXI.- Las demás que le confiera este Código.
 
 (DEROGADO, B.O. 9 DE JUNIO DE 2008)
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 9 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 112.
 
@@ -1887,19 +1917,19 @@ El Consejo Estatal tomará las medidas necesarias para que los ciudadanos design
 
 El procedimiento para integrar las mesas directivas será el siguiente:
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, B.O. 23 DE AGOSTO DE 2012)</small>
 
-I.- En el mes de marzo del año en que deban celebrarse las elecciones, el Consejo Estatal procederá a insacular, de las listas nominales formuladas con corte al último día de febrero del mismo año, a un 15% de ciudadanos de cada sección, sin que en ningún caso el número de ciudadanos insaculados sea menor a 50; para lo cual podrá apoyarse en los centros de cómputo del Registro Estatal. En este último supuesto podrán estar presentes en el procedimiento de insaculación los miembros del Consejo Estatal y los comisionados, según la programación que previamente se determine;
+I.- En el mes de marzo del riño en que deban celebrarse las elecciones, el Consejo Estatal procederá a insacular, de las listas nominales formuladas con corte al último día de febrero del mismo año, a un 15% de ciudadanos de cada sección, sin que en ningún caso el número de ciudadanos insaculados sea menor a 50; para lo cual podrá apoyarse en los centros de cómputo del Registro Estatal. En este último supuesto podrán estar presentes en el procedimiento de insaculación los miembros del Consejo Estatal y los comisionados, según la programación que previamente se determine;
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, B.O. 23 DE AGOSTO DE 2012)</small>
 
 II.- El Consejo Estatal durante la primer quincena del mes de abril hará una evaluación y selección objetiva para separar de entre dichos ciudadanos a los que puedan ser elegibles para el cargo;
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, B.O. 23 DE AGOSTO DE 2012)</small>
 
 III.- A los ciudadanos seleccionados se les aplicará una evaluación de aptitudes durante la segunda quincena del mes de abril;
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, B.O. 23 DE AGOSTO DE 2012)</small>
 
 IV.- A los ciudadanos seleccionados se les impartirá un curso de capacitación durante el mes de mayo del año de la elección;
 
@@ -1957,7 +1987,7 @@ f) Retirar de la casilla a cualquiera de los representantes que incurran en alte
 
 En los supuestos establecidos en esta fracción y tratándose de representantes de casilla y representantes generales, los presidentes deberán de observar lo dispuesto por el artículo 260 de este Código y respetar en todo tiempo las garantías que este mismo Código les otorga.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 9 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE JUNIO DE 2008)</small>
 
 g) Concluidas las labores de la casilla, turnar oportunamente al Consejo Municipal, los paquetes electorales y las copias de la documentación, en los términos del artículo 274 de este Código;
 
@@ -1969,9 +1999,9 @@ a) Levantar durante la jornada electoral, las actas previstas en este Código y 
 
 b) Comprobar que el nombre y fotografía del elector figure en la lista nominal correspondiente;
 
-> <small>(REFORMADO, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, B.O. 23 DE AGOSTO DE 2012)</small>
 
-c) Antes de iniciar la votación, contar y registrar el número de talonarios foliados con sus correspondientes boletas electorales que se les hayan entregado previamente, anotando los resultados del conteo en el acta de la jornada electoral;
+c) Antes de iniciar la votación, contar y registrar el número de talonarios foliados en sus correspondientes boletas electorales que se les hayan entregado previamente, anotando los resultados del conteo en el acta de la jornada electoral;
 
 d) Verificar la identidad de los representantes;
 
@@ -2467,7 +2497,7 @@ La etapa denominada de la jornada electoral comprende los actos, resoluciones, t
 
 La etapa posterior a la elección comprende:
 
-> <small>(REFORMADO PARRAFO PRIMERO, B.O. 9 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE JUNIO DE 2008)</small>
 
 I.- En los Consejos Municipales:
 
@@ -2489,7 +2519,7 @@ g) La remisión de la documentación de la elección municipal al Consejo Estata
 
 h) La remisión de la documentación y paquetes electorales de las elecciones de diputados de mayoría y de Gobernador al Consejo Distrital correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 9 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE JUNIO DE 2008)</small>
 
 II.- En los Consejos Distritales:
 
@@ -2641,9 +2671,13 @@ Con base en la información anterior, dentro de los siete días siguientes a la 
 
 Los gastos que efectúen durante la precampaña electoral los precandidatos de un mismo partido y para un mismo cargo serán contabilizados como parte de los gastos de campaña para la elección correspondiente.
 
+> <small>(REFORMADO, B.O. 23 DE AGOSTO DE 2012)</small>
+
 ###### ARTÍCULO 171.
 
-El Consejo Estatal emitirá un dictamen sobre el informe financiero de las precampañas electorales, a más tardar en veinticinco días a partir de su recepción.
+El Consejo Estatal, a propuesta de la Comisión de Fiscalización, emitirá un dictamen sobre el informe financiero de las precampañas electorales, a más tardar en veinticinco días a partir de su recepción, el cual tendrá por objeto determinar si los precandidatos respetaron los topes internos establecidos por los partidos políticos y si estos respetaron el tope que establece el Consejo Estatal en base a las disposiciones de este Código.
+
+Si de los informes y del proyecto de dictamen de la Comisión de Fiscalización se advierten omisiones, irregularidades, errores o violaciones a las disposiciones de este Código, sea por los precandidatos, partido, alianza o coalición se pondrá en conocimiento del Presidente del Consejo Estatal para que por separado inicie el procedimiento administrativo sancionador que corresponda.
 
 ###### ARTÍCULO 172.
 
@@ -2681,9 +2715,9 @@ b) Si después de haber efectuado la asignación referida en el inciso anterior 
 
 c) Si después de haber efectuado las asignaciones referidas en los incisos anteriores aún quedaren diputaciones de representación proporcional por asignar, éstas serán distribuidas mediante el sistema de cociente mayor.
 
-> <small>(REFORMADO, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, B.O. 23 DE AGOSTO DE 2012)</small>
 
-Las asignaciones a que se refieren los incisos a) y c) se realizarán mediante un sistema de listas de tres fórmulas a diputados por el principio de representación proporcional que registrarán los partidos, alianzas entre partidos o coaliciones ante el Consejo Estatal. En las listas los partidos, alianzas entre partidos o coaliciones definirán el orden de preferencia y deberán respetar los principios de paridad y alternancia de género. En cada fórmula que integre la lista que se registre, el candidato suplente deberá ser del mismo género que el candidato propietario.
+Las asignaciones a que se refieren los incisos a) y c) se realizarán mediante un sistema de listas de tres fórmulas a diputados por el principio de representación proporcional que registrarán los partidos, alianzas entre partidos o coaliciones ante el Consejo Estatal. En las listas los partidos, alianzas entre partidos o coaliciones definirán el orden de preferencia y deberán respetar los principios de paridad y alternancia de género en propietarios y suplentes.
 
 En el caso de que se agote la lista y estuvieren pendientes por asignarse diputados de representación proporcional al partido, alianza de partidos o coalición correspondiente, éstos se le asignarán de entre sus candidatos a diputados por el principio de mayoría relativa que no hubieren obtenido el triunfo en sus respectivos distritos, que no se les hubiere asignado una diputación por minoría y que hubieren obtenido la mayor votación de entre los perdedores en la totalidad de distritos en la elección de diputados por el principio de mayoría.
 
@@ -3733,7 +3767,7 @@ El Gobernador del Estado tomará posesión de su cargo el día 13 de septiembre 
 
 ### CAPÍTULO III. DE LA ELECCIÓN DE LOS AYUNTAMIENTOS DE LOS MUNICIPIOS DEL ESTADO
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 1 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 180.
 
@@ -3741,7 +3775,7 @@ El municipio libre es la base de la división territorial y de la organización 
 
 La Ley de Gobierno y Administración Municipal determinará el número de regidores de mayoría relativa y de representación proporcional que corresponda a cada Ayuntamiento.
 
-(REFORMADO, B.O. 9 DE JUNIO DE 2008) (REFORMADO [N. DE E., REPUBLICADO PRIMER PARRAFO], B.O. 1 DE JULIO DE 2011)
+(REFORMADO, B.O. 9 DE JUNIO DE 2008) (REFORMADO [N. DE E., REPUBLICADO PRIMER PÁRRAFO], B.O. 1 DE JULIO DE 2011)
 
 ###### ARTÍCULO 181.
 
@@ -3929,7 +3963,7 @@ V.- Cargo para el que se postule;
 
 VI.- Denominación del Partido, partidos, alianza o coalición que lo postulen.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, B.O. 9 DE JUNIO DE 2008)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, B.O. 9 DE JUNIO DE 2008)</small>
 
 VII.- Escrito firmado bajo protesta de decir verdad, sobre su nacionalidad; y (sic)
 
@@ -3945,7 +3979,9 @@ IX.- La firma del presidente estatal del partido, la o las firmas de las persona
 
 A la solicitud de registro de candidatos deberá acompañarse:
 
-I.- Los documentos que acrediten los requisitos establecidos en las fracciones I, II y III del artículo anterior. El cumplimiento de estos requisitos podrá acreditarse con el acta de nacimiento o copia certificada de la credencial con fotografía para votar;
+> <small>(REFORMADA, B.O. 23 DE AGOSTO DE 2012)</small>
+
+I.- Los documentos que acrediten los requisitos establecidos en las fracciones I, II y III del artículo anterior. El cumplimiento de estos requisitos podrá acreditarse con el acta de nacimiento y copia certificada de la credencial con fotografía para votar;
 
 II.- La constancia de residencia o documentos que la comprueben plenamente;
 
@@ -3973,7 +4009,9 @@ Vencidos los términos señalados en el artículo 196, el organismo electoral re
 
 Los partidos, alianzas o coaliciones, en su caso, que se encuentren en el supuesto del párrafo anterior tendrán un plazo de tres días, contado a partir de la notificación, para que subsanen las irregularidades correspondientes.
 
-Vencido el plazo a que se refiere el párrafo anterior, los partidos, alianzas o coaliciones que no hubieren subsanado tales irregularidades, perderán el derecho al registro del o los candidatos correspondientes.
+> <small>(REFORMADO, B.O. 23 DE AGOSTO DE 2012)</small>
+
+Vencido el plazo a que se refiere el párrafo anterior, los partidos, alianzas o coaliciones que no hubieren subsanado tales irregularidades, perderán el derecho al registro del o los candidatos correspondientes; pudiendo los partidos, alianzas o coaliciones, sustituir al o los candidatos dentro de los cinco días siguientes a la emisión del acuerdo correspondiente.
 
 > <small>(REFORMADO, B.O. 9 DE JUNIO DE 2008)</small>
 
@@ -3991,7 +4029,7 @@ Dentro del plazo establecido para el registro de candidatos, los partidos, alian
 
 Las renuncias que se presenten vencido el plazo de registro de candidatos, no afectarán los derechos adquiridos por los partidos, alianzas o coaliciones en lo que toca a la asignación de diputados de representación proporcional.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 9 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 208.
 
@@ -4105,17 +4143,21 @@ IV.- Para ayuntamientos en municipios cuya población sea menor a cien mil habit
 
 En todo caso, las campañas deberán concluir tres días antes de la jornada electoral.
 
+> <small>(REFORMADO, B.O. 23 DE AGOSTO DE 2012)</small>
+
 ###### ARTÍCULO 216.
 
-El día de la jornada electoral y durante los tres anterio­res no se podrán celebrar reuniones o actos de campaña, de propaganda o de proselitismo electorales. El incumplimiento de esta obligación dará lugar a la cancelación del registro del candidato o candidatos infractores.
+El día de la jornada electoral y durante los tres anteriores no se podrán celebrar reuniones o actos de campaña, de propaganda o de proselitismo electorales.
 
 ###### ARTÍCULO 217.
 
 Quien solicite u ordene la publicación de cualquier encuesta o sondeo de opinión sobre asuntos electorales que se realicen durante las campañas, deberá entregar copia del estudio completo al Consejo Estatal.
 
+> <small>(REFORMADO, B.O. 23 DE AGOSTO DE 2012)</small>
+
 ###### ARTÍCULO 218.
 
-No podrán difundirse los resultados de encuestas de opinión sobre asuntos electorales desde tres días antes de la jornada electoral y el día de la jornada electoral, sin previa autorización del Consejo Estatal.
+Los resultados de encuestas de opinión sobre asuntos electorales solo podrán publicarse según lo establecido en el artículo anterior y cuya publicación se realice hasta antes de tres días previos al día de la jornada electoral.
 
 > <small>(REFORMADO, B.O. 9 DE JUNIO DE 2008)</small>
 
@@ -4157,17 +4199,17 @@ En cada centro de votación se deberá garantizar el ejercicio del voto secreto,
 
 El procedimiento para determinar la ubicación de los centros de votación donde se instalarán las casillas, será el siguiente:
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, B.O. 23 DE AGOSTO DE 2012)</small>
 
-I.- Durante el mes de marzo del año de la elección, los presidentes de los Consejos Municipales, acompañados del secretario y de los comisionados que así lo manifiesten, recorrerán las secciones correspondientes al municipio, con el propósito de localizar lugares que cumplan-con los requisitos fijados en el artículo anterior;
+I.- Durante el mes de marzo del año de la elección, los presidentes de los Consejos Municipales, acompañados del secretario y de los comisionados que así lo manifiesten, recorrerán las secciones correspondientes al municipio, con el propósito de localizar lugares que cumplan con los requisitos fijados en el artículo anterior;
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, B.O. 23 DE AGOSTO DE 2012)</small>
 
 II.- Durante los primeros diez días del mes de abril, los Consejos Municipales recibirán de su respectivo presidente una lista proponiendo los lugares en que habrán de ubicarse los centros de votación;
 
 III.- Recibidas las listas, los Consejos Municipales respectivos examinarán que los lugares propuestos cumplan con los requisitos fijados por el artículo anterior y el artículo 225 y, en caso contrario, harán los cambios necesarios;
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, B.O. 23 DE AGOSTO DE 2012)</small>
 
 IV.- Los Consejos Municipales, en sesión que celebren a más tardar dentro de los primeros diez días del mes de mayo, decidirán sobre la lista de ubicación de los centros de votación; y
 
@@ -4195,7 +4237,7 @@ El secretario del Consejo Municipal respectivo entregará una copia de ambas pub
 
 Los lugares para la ubicación de los centros de votación deberán reunir los siguientes requisitos:
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, B.O. 23 DE AGOSTO DE 2012)</small>
 
 I.- Fácil y libre acceso para los electores; asimismo, se deberá garantizar que cada centro de votación cuente con accesos adecuados para los ciudadanos con discapacidad;
 
@@ -4305,9 +4347,17 @@ II.- Tratándose de representantes generales, ejercer su cargo exclusivamente en
 
 III.- Actuar individualmente;
 
-IV.- Abstenerse de asumir las funciones de los integrantes de las mesas directivas; y
+> <small>(REFORMADA, B.O. 23 DE AGOSTO DE 2012)</small>
 
-V.- Abstenerse de hacer propaganda durante la jornada electoral y de realizar cualquier acto que tienda a impedir la libre emisión del sufragio o alterar el orden público.
+IV.- Abstenerse de asumir las funciones de los integrantes de las mesas directivas;
+
+> <small>(REFORMADA, B.O. 23 DE AGOSTO DE 2012)</small>
+
+V.- Abstenerse de hacer propaganda durante la jornada electoral y de realizar cualquier acto que tienda a impedir la libre emisión del sufragio o alterar el orden público; y
+
+> <small>(ADICIONADA, B.O. 23 DE AGOSTO DE 2012)</small>
+
+VI.- Abstenerse de tener a la vista copia del listado nominal de la sección en que se actúa.
 
 > <small>(REFORMADO, B.O. 9 DE JUNIO DE 2008)</small>
 
@@ -4331,7 +4381,7 @@ b) Cargo para el que se postula al candidato o candidatos;
 
 c) Color o colores y emblema del partido, coalición o alianza;
 
-> <small>(REFORMADO, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, B.O. 23 DE AGOSTO DE 2012)</small>
 
 d) Identificación del candidato, con inclusión de nombres y apellidos, según lo proponga el partido, alianza o coalición;
 
@@ -4359,7 +4409,7 @@ En el caso de cancelación del registro, o sustitución de uno o más candidatos
 
 Las boletas y el material electoral deberán obrar en poder de los Consejos Municipales quince días antes de la elección.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 9 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 237.
 
@@ -4381,7 +4431,7 @@ VII.- La documentación, formas aprobadas, material de escritorio y demás eleme
 
 VIII.- Los instructivos que indiquen las atribuciones y responsabilidades de los funcionarios de la casilla.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 9 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 238.
 
@@ -4401,7 +4451,7 @@ La urna única en que los electores depositen las boletas deberá construirse de
 
 El Consejo Estatal designará en el mes de mayo del año de la elección a un número suficiente de auxiliares electorales, de entre los ciudadanos que hubieren atendido la convocatoria pública expedida al efecto y cumplan los requisitos a que se refiere el párrafo tercero de este artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 9 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE JUNIO DE 2008)</small>
 
 Los auxiliares electorales apoyarán a los Consejos Municipales en los trabajos de:
 
@@ -4483,7 +4533,7 @@ IV.- La información de los hechos que puedan motivar la incapaci­dad de los ca
 
 Las agencias del ministerio público, los juzgados de primera instancia y los juzgados locales permanecerán abiertos durante el día de la elección.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 9 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 248.
 
@@ -4491,7 +4541,7 @@ Los notarios públicos en ejercicio mantendrán abiertas sus oficinas el día de
 
 Para los efectos de los artículos anteriores, la Dirección General de Notarías del Gobierno del Estado publicará cinco días anteriores al día de la jornada electoral los nombres de los notarios públicos y domicilios de sus oficinas.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 23 DE AGOSTO DE 2012)</small>
 
 ### CAPÍTULO III. DE LA INSTALACIÓN, APERTURA Y CIERRE DE CASILLAS
 
@@ -4505,11 +4555,11 @@ En ningún caso podrá iniciarse la votación antes de las 8:00 horas.
 
 Los miembros de las mesas directivas no podrán retirarse sino hasta que éstas sean clausuradas.
 
-> <small>(ADICIONADO, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(ADICIONADO, B.O. 23 DE AGOSTO DE 2012)</small>
 
 A solicitud de cualesquiera de los representantes que realice al respectivo presidente de mesa directiva, las boletas deberán ser contadas y firmadas por uno de los representantes, el cual será designado por sorteo realizado entre los mismos representantes que se encuentren presentes. En el supuesto de que el representante que resultó facultado por sorteo se negare a contar y firmar las boletas, el representante que en un principio lo haya solicitado tendrá ese derecho. El resultado obtenido del conteo y firmado de las boletas se asentará en la respectiva acta de la jornada electoral.
 
-> <small>(REFORMADO, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, B.O. 23 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 250.
 
@@ -4615,7 +4665,7 @@ El escrito de referencia deberá ser firmado por dos testigos, que lo serán, pr
 
 Recibida la comunicación que antecede, el Consejo Municipal decidirá si reanuda la votación, para lo cual tomará las medidas que estime necesarias.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 23 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 259.
 
@@ -4627,7 +4677,7 @@ El presidente de la mesa directiva recogerá las credenciales con fotografía pa
 
 El secretario de la mesa directiva anotará el incidente en el acta respectiva, con mención expresa del nombre del ciudadano o ciudadanos presuntamente responsables.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 9 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 260.
 
@@ -4691,9 +4741,11 @@ II.- El secretario de la mesa directiva procederá a asentar en el acta de elect
 
 Cumplidos los requisitos para acreditar la calidad de elector y anotados los datos en el acta correspondiente, el presidente de la casilla le entregará las boletas a que tuviere derecho.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 23 DE AGOSTO DE 2012)</small>
+
 ###### ARTÍCULO 265.
 
-Cuando a juicio del presidente de la mesa directiva, algún representante de casilla o representante general deba ser retirado de la casilla por haber obstaculizado el desarrollo de la votación o infringido las disposiciones de este Código, el secretario de la casilla hará constar en un escrito de incidentes las circunstancias que motivaron el retiro.
+Cuando a juicio del presidente de la mesa directiva, algún representante de casilla o representante general deba ser retirado de la casilla por haber obstaculizado el desarrollo de la votación, por negarse a entregar al presidente copia del listado nominal que traiga consigo o por infringir las disposiciones de este Código. El secretario de la casilla hará constar en un escrito de incidentes las circunstancias que motivaron el retiro.
 
 El escrito deberá firmarse por los funcionarios de la casilla y los representantes de casilla que quisieren hacerlo.
 
@@ -4735,7 +4787,7 @@ III.- El de la elección de ayuntamiento.
 
 El escrutinio y cómputo de cada elección se realizará conforme a las reglas siguientes:
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, B.O. 23 DE AGOSTO DE 2012)</small>
 
 I.- El secretario contará las boletas sobrantes y las inutilizará por medio de dos rayas diagonales con tinta, incluyendo los talonarios correspondientes, las guardará en un sobre especial, el cual quedará cerrado y anotará en el exterior del mismo el número de boletas y talonarios foliados correspondientes que contiene;
 
@@ -4763,11 +4815,11 @@ I.- Se contará un solo voto válido cuando el vértice o señal, impreso por el
 
 II.- Se contará como nulo cualquier voto emitido en forma distinta que impida conocer claramente el sentido de la votación.
 
-> <small>(REFORMADO, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, B.O. 23 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 272.
 
-En el acta de la jornada, se deberán incluir, si los hubiere, los incidentes de la siguiente manera:
+En el acta de la jornada, se deberán incluir, sí los hubiere, los incidentes de la siguiente manera:
 
 I.- Una relación de los incidentes suscitada durante la instalación;
 
@@ -4781,7 +4833,7 @@ Concluido el escrutinio y cómputo de todas las votaciones se levantarán las ac
 
 Los representantes de casilla y los representantes generales, en ausencia de aquéllos, tendrán derecho a firmar el acta bajo protesta especificando los motivos de la misma.
 
-> <small>(REFORMADO, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, B.O. 23 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 274.
 
@@ -4905,7 +4957,7 @@ V.- La suma de los resultados obtenidos, después de realizar las operaciones in
 
 VI.- El recuento de votos de las casillas del distrito correspondiente, se realizará conforme a las siguientes reglas:
 
-> <small>(REFORMADO, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, B.O. 23 DE AGOSTO DE 2012)</small>
 
 a) Si al término del cómputo resulta que la diferencia entre el candidato con el mayor número de votos computados en el distrito y cualquier otro candidato, es igual o menor a un punto porcentual, de la votación total emitida en el distrito; y de existir la petición expresa del comisionado correspondiente antes de declarado el cierre de la sesión del cómputo, el Consejo Distrital deberá realizar el recuento de votos en la totalidad de las casillas.
 
@@ -4935,7 +4987,7 @@ Se enviará al Tribunal, copia certificada de la documentación relativa al cóm
 
 Una vez firmada el acta de cómputo distrital correspondiente, tratándose de la elección de diputados por el principio de mayoría relativa, el Consejo Distrital hará la declaración de validez de la elección y expedirá la constancia de mayoría a los candidatos que hayan resultado electos.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 9 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 287.
 
@@ -4991,7 +5043,7 @@ V.- La suma de los resultados obtenidos, después de realizar las operaciones in
 
 VI.- El recuento de votos de las casillas del distrito correspondiente, se realizará conforme a las siguientes reglas:
 
-> <small>(REFORMADO, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, B.O. 23 DE AGOSTO DE 2012)</small>
 
 a) Si al término del cómputo resulta que la diferencia entre la planilla de ayuntamiento con mayor número de votos computados del municipio y cualquier otra es igual o menor a un punto porcentual de la votación total emitida en el municipio; y de existir la petición expresa del comisionado correspondiente antes de declarado el cierre de la sesión del cómputo, el Consejo Municipal deberá realizar el recuento de votos en la totalidad de las casillas.
 
@@ -5029,7 +5081,7 @@ Se enviará al Tribunal, copia certificada de la documentación relativa al cóm
 
 Una vez firmada el acta de cómputo municipal correspondiente, el Consejo Municipal declarará la validez de la elección y expedirá la constancia de mayoría a los miembros de la planilla que haya resultado electa.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 9 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 293.
 
@@ -5105,7 +5157,7 @@ Conforme a lo dispuesto en el artículo 174, fracción II, inciso a), se asignar
 
 En caso de que el número de partidos, alianza entre partidos o coaliciones con derecho a participar en la asignación de diputados a que se refiere el presente artículo sea mayor que el número de diputaciones a asignar, ésta se hará en orden descendente, correspondiendo la primera asignación al partido que haya alcanzado mayor número de votación total en la elección de diputados por el principio de mayoría relativa y así sucesivamente hasta agotarlas.
 
-> <small>(REFORMADO, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, B.O. 23 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 300.
 
@@ -5115,13 +5167,17 @@ La asignación de diputaciones de representación proporcional por los sistemas 
 
 Conforme a lo dispuesto en el artículo 174, fracción II, inciso b), para la asignación de hasta cinco diputados de minoría, se aplicará el siguiente procedimiento:
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, B.O. 23 DE AGOSTO DE 2012)</small>
 
-I.- El Consejo Estatal, con las actas de cómputo de las elecciones de diputados por el principio de mayoría relativa de cada uno de los distritos, hará una relación de los partidos, alianzas entre partidos o coaliciones que contendieron y determinará el porcentaje de la votación total válida emitida favor de cada uno de ellos en cada distrito electoral.
+I.- El Consejo Estatal, con las actas de cómputo de las elecciones de diputados por el principio de mayoría relativa de cada uno de los distritos, hará una relación de los partidos, alianzas entre partidos o coaliciones que contendieron y determinará el porcentaje de la votación total válida emitida favor (sic) de cada uno de ellos en cada distrito electoral.
 
 > <small>(REFORMADA, B.O. 9 DE JUNIO DE 2008)</small>
 
 II.- Determinados los partidos, alianzas o coaliciones con derecho a participar en la asignación de los diputados de minoría, se asignarán dichas diputaciones a las fórmulas de aquellos partidos, alianzas o coaliciones que, sin haber obtenido el triunfo en sus respectivos distritos, tengan el mayor porcentaje de votos respecto de la votación válida emitida en sus distritos.
+
+> <small>(ADICIONADA, B.O. 23 DE AGOSTO DE 2012)</small>
+
+III.- La asignación de estas diputaciones serán por rondas atendiendo al orden decreciente de mayor porcentaje obtenido respecto de la votación total válida recibida en su distrito.
 
 ###### ARTÍCULO 302.
 
@@ -5171,7 +5227,7 @@ II.- Factor de distribución secundaria; y
 
 III.- Resto mayor.
 
-> <small>(REFORMADO, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, B.O. 23 DE AGOSTO DE 2012)</small>
 
 Se entiende por porcentaje mínimo de asignación el 1.5% de la votación total válida emitida en la elección de ayuntamientos correspondiente.
 
@@ -5211,7 +5267,7 @@ La asignación de regidores por el principio de representación proporcional se 
 
 Si el partido, alianza o coalición no formula la propuesta correspondiente, la asignación se hará de oficio siguiendo el orden que tengan los candidatos a regidores propietarios en la planilla respectiva, debiendo encabezarla el candidato a presidente municipal.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 23 DE AGOSTO DE 2012)</small>
 
 # LIBRO QUINTO. DEL TRIBUNAL ESTATAL ELECTORAL
 
@@ -5257,11 +5313,11 @@ De no haber obtenido ningún aspirante el número de votos requerido para su nom
 
 Los actos que el Congreso realice en ejercicio de la función prevista en este artículo son inatacables.
 
-> <small>(REFORMADO, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, B.O. 23 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 312.
 
-El presidente del Tribunal será el que designen los magistrados por mayoría de votos a más tardar el día quince de agosto del año de la elección y durará en su encargo tres años, debiéndose respetar el principio de alternancia de género.
+El presidente del Tribunal será el que designen los magistrados por mayoría de votos a más tardar el día quince de agosto del año de la elección y durará en su encargo tres años.
 
 La presidencia del Tribunal será rotativa y no habrá reelección.
 
@@ -5317,7 +5373,7 @@ Son facultades del presidente del Tribunal:
 
 I.- Convocar a sesión de pleno a los demás magistrados del Tribunal;
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, B.O. 23 DE AGOSTO DE 2012)</small>
 
 II.- Representar legalmente al Tribunal;
 
@@ -5327,9 +5383,17 @@ IV.- Despachar la correspondencia del Tribunal;
 
 V.- Notificar a los organismos electorales las resolu­ciones que se pronuncien sobre la expedición de constancias de mayoría;
 
-VI.- Notificar a los organismos electorales y al Director Ejecutivo del Registro Electoral, las resoluciones que se dicten sobre los recursos de que conozca el Tribunal; y
+> <small>(REFORMADA, B.O. 23 DE AGOSTO DE 2012)</small>
 
-VII.- Las demás que le atribuya este Código.
+VI.- Notificar a los organismos electorales y al Director Ejecutivo del Registro Electoral, las resoluciones que se dicten sobre los recursos de que conozca el Tribunal;
+
+> <small>(REFORMADA, B.O. 23 DE AGOSTO DE 2012)</small>
+
+VII.- La administración del Tribunal, para lo cual podrá nombrar un Director Administrativo; y
+
+> <small>(ADICIONADA, B.O. 23 DE AGOSTO DE 2012)</small>
+
+VIII.- Las demás que le atribuya este Código.
 
 ###### ARTÍCULO 318.
 
@@ -5417,7 +5481,7 @@ XI.- Cuando se compruebe que sin causa justificada se impidió sufragar a electo
 
 XII.- Cuando las mesas directivas se integren con algún representante de partido, alianza o coalición.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 9 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 324.
 
@@ -5447,13 +5511,21 @@ VI.- Cuando los dos integrantes de la fórmula de candidatos a diputados por el 
 
 VII.- Cuando la mayoría de los integrantes, propietarios y suplentes, de la planilla del Ayuntamiento que hubieran resultado ganadores en la elección, sean inelegibles;
 
-> <small>(ADICIONADA, B.O. 9 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, B.O. 23 DE AGOSTO DE 2012)</small>
 
-VIII.- Cuando un candidato o partido, acepte y utilice en campaña recursos desviados de la hacienda pública estatal, federal o municipal, y resulte determinante para definir al candidato ganador; y
+VIII.- Cuando un candidato o partido, acepte y utilice en campaña recursos desviados de la hacienda pública estatal, federal o municipal, y resulte determinante para definir al candidato ganador;
 
-> <small>(ADICIONADA, B.O. 9 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, B.O. 23 DE AGOSTO DE 2012)</small>
 
-IX.- Cuando un candidato o partido, fuera de las pautas autorizadas para radio y televisión, utilice estos medios ya sea para promover o descalificar a cualquier candidato, partido o a las instituciones públicas y resulte determinante para definir al candidato ganador.
+IX.- Cuando un candidato o partido, fuera de las pautas autorizadas para radio y televisión, utilice estos medios ya sea para promover o descalificar a cualquier candidato; partido o a las instituciones públicas y resulte determinante para definir· al candidato ganador;
+
+> <small>(ADICIONADA, B.O. 23 DE AGOSTO DE 2012)</small>
+
+X.- Utilizar recursos provenientes de actividades ilícitas y que sean determinantes para el resultado de la elección; y
+
+> <small>(ADICIONADA, B.O. 23 DE AGOSTO DE 2012)</small>
+
+XI.- Cuando servidores públicos provoquen en forma generalizada el temor a los electores o afecten la voluntad para la emisión del sufragio; ya sea mediante la compra de votos, el otorgamiento de bienes o servidos públicos e incluso el otorgamiento de vales por concepto de posibles beneficios de programas públicos sociales.
 
 > <small>(REFORMADO, B.O. 9 DE JUNIO DE 2008)</small>
 
@@ -5465,7 +5537,7 @@ Los partidos, alianzas o coaliciones, no podrán invocar en su favor, en ningún
 
 ### CAPÍTULO I. DE LOS MEDIOS DE IMPUGNACIÓN
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 9 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 326.
 
@@ -5477,13 +5549,17 @@ II.- El recurso de apelación, y
 
 III.- El recurso de queja.
 
+> <small>(REFORMADO, B.O. 23 DE AGOSTO DE 2012)</small>
+
 ###### ARTÍCULO 327.
 
-El recurso de revisión podrá ser interpuesto en contra de los actos, acuerdos o resoluciones de los Consejos Electorales, salvo la excepción prevista para el recurso de queja.
+El recurso de revisión podrá ser interpuesto en contra de los actos, omisiones, acuerdos o resoluciones de los Consejos Distritales y Municipales Electorales, salvo la excepción prevista para el recurso de queja.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 23 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 328.
 
-El recurso de apelación se podrá interponer para impugnar las resoluciones recaídas a los recursos de revisión, o por los ciudadanos para impugnar actos del Registro Electoral después de agotar la instancia administrativa a que se refiere el artículo 142 de este Código.
+El recurso de apelación se podrá interponer para impugnar las resoluciones recaídas a los recursos de revisión, o por los ciudadanos para impugnar actos del Registro Electoral después de agotar la instancia administrativa a que se refiere el artículo 142 de este Código; así como para impugnar los actos, omisiones, acuerdos y resoluciones del Consejo Estatal.
 
 Las organizaciones o agrupaciones políticas podrán interponer el recurso de apelación a través de sus representantes legítimos exclusivamente en lo relativo a su registro como partido estatal.
 
@@ -5511,6 +5587,10 @@ El cómputo de los plazos se hará a partir del día siguiente de aquél en que 
 
 Si los términos están señalados por días, éstos se considerarán de 24 horas y se contarán a partir de las cero horas del día siguiente de aquél en que se hubiere notificado el acto o la resolución correspondiente.
 
+> <small>(ADICIONADO, B.O. 23 DE AGOSTO DE 2012)</small>
+
+Fuera de proceso los plazos se computarán por días hábiles y se considerará horario hábil de las ocho a quince horas.
+
 ###### ARTÍCULO 331.
 
 En ningún caso la interposición de los recursos suspenderá los efectos de los actos o resoluciones impugnadas.
@@ -5535,7 +5615,7 @@ II.- La autoridad responsable; y
 
 III.- El tercero interesado.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 9 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 334.
 
@@ -5553,7 +5633,7 @@ V.- Los escritos deberán estar firmados autógrafamente.
 
 ### CAPÍTULO IV. DE LA LEGITIMACIÓN Y DE LA PERSONALIDAD
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 9 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 335.
 
@@ -5563,7 +5643,7 @@ Las organizaciones o agrupaciones políticas podrán interponer el recurso de ap
 
 La personalidad de los representantes se tendrá por acreditada cuando estén registrados formalmente, en los términos de este Código, para lo cual se acompañará copia del documento en que conste el registro.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 9 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE JUNIO DE 2008)</small>
 
 Son representantes legítimos de los partidos, alianzas o coaliciones:
 
@@ -5593,15 +5673,15 @@ Los representantes a que se refiere este artículo podrán autorizar a una o var
 
 Para la interposición de los recursos, se cumplirá con los requisitos siguientes:
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, B.O. 23 DE AGOSTO DE 2012)</small>
 
-I.- Deberán presentarse por escrito ante el órgano electoral que realizó el acto, omisión o dictó el acuerdo o resolución, o directamente ante el Tribunal a elección del recurrente;
+I.- Deberá presentarse por escrito ante el órgano electoral que realizó el acto, omisión o dictó el acuerdo o resolución, o directamente ante el Tribunal a elección del recurrente;
 
 II.- En el escrito relativo deberá incluirse el nombre del recurrente, así como el domicilio que se señale para recibir notificaciones que deberá ubicarse en el lugar de residencia de la autoridad resolutora y, en su caso, a quien en su nombre se pueda notificar. Si se omite señalar domicilio para recibir notificaciones, las personales se harán por estrados;
 
 III.- Con el escrito se acompañarán los documentos con los que el recurrente acredite su personalidad, o bien, señalará el organismo electoral ante el que se encuentre registrada su personalidad;
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, B.O. 23 DE AGOSTO DE 2012)</small>
 
 IV.- Se señalará con precisión el acto, omisión, acuerdo o resolución que se impugna y el organismo electoral responsable;
 
@@ -5639,7 +5719,7 @@ Cuando el recurrente omita señalar en su escrito los preceptos legales presunta
 
 Cuando exista deficiencia en la argumentación de los agravios, pero éstos puedan ser deducidos claramente de los hechos expuestos en el recurso, el Tribunal no lo desechará y resolverá con base en tales hechos y los elementos que obren en el expediente.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 9 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 339.
 
@@ -5699,9 +5779,9 @@ En los casos de recursos de queja contra la asignación de diputados de represen
 
 Recibido un recurso de revisión por el Consejo Estatal, el presidente lo turnará al secretario para que, en su caso, certifique que se cumplió con lo establecido en los artículos 336 y 346 de este Código. En todo caso, se procederá conforme a lo establecido en la fracción IV del artículo 337 de este Código.
 
-> <small>(REFORMADO, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, B.O. 23 DE AGOSTO DE 2012)</small>
 
-Si el recurso debe desecharse por notoriamente improcedente o, en su caso, si se ha cumplido con todos los requisitos, el secreta­rio procederá a formular el proyecto de resolución que correspon­da, mismo que será discutido en sesión del organismo electoral respectivo en un plazo no mayor a quince días después de su recepción. En dicha sesión deberá dictarse la resolución correspondiente, misma que será engrosada por el secreta­rio en los términos que determine el propio organismo electoral.
+Si el recurso debe desecharse por notoriamente improcedente o, en su caso, si se ha cumplido con todos los requisitos, el secretario procederá a formular el proyecto de resolución que corresponda, mismo que será discutido en sesión del organismo electoral respectivo en un plazo no mayor a quince días después de su recepción. En dicha sesión deberá dictarse la resolución correspondiente, misma que será engrosada por el secretario en los términos que determine el propio organismo electoral.
 
 Si el organismo electoral remitente omitió algún requisito, el secretario lo hará de inmediato del conocimiento de su presidente para que éste, si lo considera necesario, requiera la complementación del o los requisitos omitidos, procurando que se resuelva en el término del párrafo anterior. En todo caso, el recurso deberá resolverse con los elementos con que se cuente.
 
@@ -5791,7 +5871,7 @@ VI.- Cuando la autoridad responsable modifique o revoque el acto o la resolució
 
 ### CAPÍTULO VIII. DE LA ACUMULACIÓN
 
-> <small>(REFORMADO, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, B.O. 23 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 349.
 
@@ -5799,7 +5879,7 @@ Podrán acumularse los expedientes de aquellos recursos de revisión, apelación
 
 ### CAPÍTULO IX. DE LAS NOTIFICACIONES
 
-> <small>(REFORMADO, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, B.O. 23 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 350.
 
@@ -5807,27 +5887,27 @@ Las notificaciones según lo establezca el presente Código, se harán de la sig
 
 I.- Personales;
 
-Il.- Por estrados;
+II.- Por estrados;
 
 III.- Por oficio o correo certificado; y
 
 IV.- Mediante publicación en el Boletín Oficial del Gobierno del Estado o periódicos de circulación estatal o regional según sea acordado.
 
-El tipo de notificación lo establecerá el presente Código, según el acto, acuerdo o resolución de (sic) se trate.
+El tipo de notificación lo establecerá el presente Código, según el acto, acuerdo resolución de (sic) se trate.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 23 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 351.
 
 Las notificaciones personales se harán al interesado a más tardar dentro de las cuarenta y ocho horas siguientes de que se dio el acto o se dictó el acuerdo o resolución.
 
-> <small>(REFORMADO, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, B.O. 23 DE AGOSTO DE 2012)</small>
 
 Se entenderán personales todas aquellas notificaciones que tengan por iniciado un procedimiento administrativo sancionador o un medio de impugnación, así como las resoluciones que recaigan en ambos casos.
 
 Las cédulas de notificación personal deberán contener:
 
-> <small>(REFORMADA, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, B.O. 23 DE AGOSTO DE 2012)</small>
 
 I.- Nombre de la persona a quien se dirige la notificación;
 
@@ -5841,15 +5921,15 @@ Si no estuviere presente el interesado en su domicilio se le dejará citatorio p
 
 Si el domicilio se encuentra cerrado, o la persona con la que se entiende la diligencia se niega a recibir la cédula, el notificador la fijará en un lugar visible del domicilio, cerciorado de que sea el correcto y asentando razón en autos de la forma en que se cercioró de dicha circunstancia.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 9 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 23 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 353.
 
-El partido, alianza o coalición, cuyo comisionado haya estado presente en la sesión o actuación del organismo electoral que actuó o resolvió, y ante el cual esté acreditado, quedará automáticamente notificado del acto o resolución correspondiente, para todos los efectos legales, con independencia de que se retire de la sesión antes de que concluya.
+El partido, alianza o coalición, cuyo comisionado haya estado presente en la sesión del organismo electoral ante el cual esté acreditado, quedará automáticamente notificado del acto o acuerdo correspondiente, para todos los efectos legales, con independencia de que se retire de la sesión antes de que concluya, con excepción de las resoluciones que pongan fin a un procedimiento administrativo sancionador o bien resuelvan un medio de impugnación.
 
 En caso de inasistencia de los comisionados a la sesión en que se dictó el acto, acuerdo o resolución, se le notificará personalmente en el domicilio que hubiere señalado, o en su defecto por estrados.
 
-> <small>(REFORMADO, B.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, B.O. 23 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 354.
 
@@ -5949,7 +6029,9 @@ IV.- Declarar la nulidad de la elección correspondiente.
 
 Cuando por efecto de la acumulación de las resoluciones de los distintos recursos se actualicen los supuestos de nulidad previstos en los artículos 323 y 324 de este Código, el pleno del Tribunal decretará lo conducente, aún y cuando no se haya solicitado en ninguno de los recursos resueltos individualmente.
 
-## TÍTULO TERCERO. DE LAS SANCIONES
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 23 DE AGOSTO DE 2012)</small>
+
+## TÍTULO TERCERO. DE LAS INFRACCIONES, SANCIONES Y DEL PROCEDIMIENTO ADMINISTRATIVO SANCIONADOR
 
 ### CAPÍTULO I. DE LA REMOCIÓN DE CONSEJEROS, MAGISTRADOS DEL TRIBUNAL ESTATAL Y FUNCIONARIOS ELECTORALES
 
@@ -5973,7 +6055,7 @@ II.- Para conocer de la petición de remoción de un magistrado o consejero esta
 
 El Consejo Estatal conocerá de las peticiones para la remoción de Consejeros Locales.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 9 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE JUNIO DE 2008)</small>
 
 III.- Toda petición de remoción de un magistrado o consejero electoral será mediante objeción fundada y deberá ser presentada ante el Congreso del Estado o el Consejo Estatal según corresponda, por persona autorizada por el partido, alianza o coalición respectiva y deberá formularse mediante:
 
@@ -6227,9 +6309,17 @@ III.- Respecto de los aspirantes, precandidatos o candidatos a cargos de elecci�
 
 a) Con amonestación pública;
 
-b) Con multa de hasta cinco mil días de salario mínimo general vigente para la capital del Estado de Sonora; y
+> <small>(REFORMADO, B.O. 23 DE AGOSTO DE 2012)</small>
 
-c) Con la pérdida del derecho del precandidato infractor a ser registrado como candidato, o en su caso, si ya está hecho el registro, con la cancelación del mismo, cuando éste incumpla reiteradamente las disposiciones que reglamentan las precampañas o se exceda en los topes de gastos de las mismas. Cuando las infracciones cometidas por aspirantes o precandidatos a cargos de elección popular, cuando sean imputables exclusivamente a aquéllos, no procederá sanción alguna en contra del partido político de que se trate. Cuando el precandidato resulte electo en el proceso interno, el partido político no podrá registrarlo como candidato.
+b) Con multa de hasta cinco mil días de salario mínimo general vigente para la capital del Estado de Sonora;
+
+> <small>(REFORMADO, B.O. 23 DE AGOSTO DE 2012)</small>
+
+c) Con la pérdida del derecho del precandidato infractor a ser registrado como candidato, o en su caso, si ya está hecho el registro, con la cancelación del mismo, cuando éste incumpla reiteradamente las disposiciones que reglamentan las precampañas o se exceda en los topes de gastos de las mismas. Cuando las infracciones cometidas por aspirantes o precandidatos a cargos de elección popular, cuando sean imputables exclusivamente a aquéllos, no procederá sanción alguna en contra del partido político de que se trate. Cuando el precandidato resulte electo en el proceso interno, el partido político no podrá registrarlo como candidato; y
+
+> <small>(ADICIONADO, B.O. 23 DE AGOSTO DE 2012)</small>
+
+d) Con la cancelación del registro como candidato a quien infrinja la disposición contenida en el artículo 216 del presente Código.
 
 IV.- Respecto de los ciudadanos, de los dirigentes y afiliados a los partidos políticos, o de cualquier persona física o moral:
 
@@ -6270,6 +6360,12 @@ VIII.- Respecto de las organizaciones sindicales, laborales o patronales, o de c
 a) Con amonestación pública; y
 
 b) Con multa de hasta cinco mil días de salario mínimo general vigente para el Estado de Sonora, según la gravedad de la falta.
+
+> <small>(ADICIONADA, B.O. 23 DE AGOSTO DE 2012)</small>
+
+IX.- Respecto de los servidores públicos según sea el caso, de cualquiera de los Poderes Federales, Estatales; órganos de gobierno municipales; órganos constitucional y legalmente autónomos y cualquier otro ente público, cuando la autoridad electoral reciba la denuncia correspondiente conocerá del procedimiento administrativo sancionador hasta ponerlo en estado de resolución y si advierte la existencia de infracciones a la normatividad electoral, lo pondrá en conocimiento de su superior jerárquico para que lo turne en términos de la Ley de Responsabilidades de los Servidores Públicos o su similar dependiendo de la entidad u órgano autónomo que se trate, para que conozca de dichas infracciones y en términos de la ley aplicable les impongan las sanciones que corresponda.
+
+Si la autoridad infractora no tuviera superior jerárquico el requerimiento será turnado a la Auditoría Superior de la Federación si el servidor público es federal y al Instituto Superior de Auditoría y Fiscalización del Congreso del Estado, a fin de que proceda en los términos de las leyes aplicables.
 
 > <small>(ADICIONADO, B.O. 9 DE JUNIO DE 2008)</small>
 
@@ -6357,6 +6453,152 @@ IV.- Cese.
 
 Para la imposición de las correcciones disciplinarias se estará a lo que dispongan los respectivos Reglamentos Interiores del Consejo Estatal y del Tribunal.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 23 DE AGOSTO DE 2012)</small>
+
+### CAPÍTULO III. DEL PROCEDIMIENTO ADMINISTRATIVO SANCIONADOR ORDINARIO
+
+> <small>(ADICIONADO, B.O. 23 DE AGOSTO DE 2012)</small>
+
+###### ARTÍCULO 389.
+
+El procedimiento para el conocimiento de las faltas y aplicación de sanciones administrativas podrá iniciar a instancia de parte o de oficio cuando cualquier órgano del Consejo Estatal tenga conocimiento de la comisión de conductas infractoras.
+
+Cualquier persona podrá presentar denuncias por presuntas violaciones a la normatividad electoral ante los Órganos Electorales; las personas morales lo harán por medio de sus legítimos representantes, en términos de la legislación aplicable, y las personas físicas lo harán por su propio derecho; de igual forma los representantes legítimos de los partidos políticos, así como sus dirigentes municipales y estatales.
+
+La denuncia podrá ser presentada por escrito y deberá cumplir con los siguientes requisitos:
+
+I.- Nombre del denunciante, con firma autógrafa o huella digital;
+
+II.- Domicilio para oír y recibir notificaciones;
+
+III.- Los documentos que sean necesarios para acreditar la personería;
+
+IV.- Narración expresa y clara de los hechos en que se basa la denuncia y, de ser posible, los preceptos presuntamente violados;
+
+V.- Ofrecer y aportar las pruebas con que cuente; o en su caso, mencionar las que habrán de requerirse, cuando el promovente acredite que oportunamente las solicitó por escrito al órgano competente, y no le hubieren sido entregadas. El denunciante deberá relacionar las pruebas con cada uno de los hechos; y
+
+VI.- En el caso de que los partidos políticos no acrediten su personería, la denuncia se tendrá por no presentada.
+
+Salvo la hipótesis contenida en la última parte del párrafo siguiente, ante la omisión de cualquiera de los requisitos antes señalados, el Secretario del respectivo organismo electoral prevendrá al denunciante para que la subsane dentro del plato improrrogable de tres días. De la misma forma lo prevendrá para que aclare su denuncia, cuando ésta sea imprecisa, vaga o genérica. En caso de no enmendar la omisión que se le requiera, se tendrá por no presentada la denuncia.
+
+La denuncia formulada ante los Consejos Distritales o Municipales Electorales, deberá ser remitida dentro del término de cuarenta y ocho horas al Consejo Estatal para su trámite.
+
+El Secretario del Consejo Estatal contará con un plazo de cinco días para emitir el acuerdo de admisión o propuesta de desechamiento, contado a partir del día en que reciba la denuncia. En caso de que se hubiese prevenido al denunciante, a partir de la recepción del desahogo de la prevención o de la fecha en la que termine el plazo sin que se hubiese desahogado la misma.
+
+> <small>(ADICIONADO, B.O. 23 DE AGOSTO DE 2012)</small>
+
+###### ARTÍCULO 390.
+
+La denuncia será improcedente cuando:
+
+I.- Por actos o hechos imputados a la misma persona que hayan sido materia de otra denuncia que cuente con resolución del Consejo Estatal respecto al fondo y ésta no se haya impugnado ante el Tribunal, o habiendo sido impugnada haya sido confirmada por el mismo Tribunal; y
+
+II.- Se denuncien actos de los que el Consejo Estatal resulte incompetente para conocer; o cuando los actos, hechos u omisiones denunciados no constituyan violaciones al presente Código.
+
+> <small>(ADICIONADO, B.O. 23 DE AGOSTO DE 2012)</small>
+
+###### ARTÍCULO 391.
+
+Procederá el sobreseimiento de la denuncia, cuando:
+
+I.- Habiendo sido admitida la denuncia, sobrevenga alguna de las causales de improcedencia;
+
+II.- El denunciado sea un partido que, con posterioridad a la admisión de la denuncia, haya perdido su registro; y
+
+III.- El denunciante presente escrito de desistimiento, siempre y cuando dicho lo exhiba antes de la aprobación del proyecto de resolución o por el avance de la investigación, no se trate de la imputación de hechos graves, ni se vulneren los principios rectores de la función electoral.
+
+> <small>(ADICIONADO, B.O. 23 DE AGOSTO DE 2012)</small>
+
+###### ARTÍCULO 392.
+
+El estudio de las causas de improcedencia o sobreseimiento de la denuncia se realizará de oficio. En caso de advertir que se actualiza una de ellas, el Consejo Estatal elaborará un proyecto de resolución por el que se proponga el desechamiento o sobreseimiento, según corresponda.
+
+> <small>(ADICIONADO, B.O. 23 DE AGOSTO DE 2012)</small>
+
+###### ARTÍCULO 393.
+
+Cuando durante la sustanciación de una investigación el Secretario del Consejo Estatal advierta hechos distintos al objeto de ese procedimiento que puedan constituir distintas violaciones electorales, o la responsabilidad de actores diversos a los denunciados, podrá ordenar el inicio, de oficio, de un nuevo procedimiento de investigación.
+
+El Secretario del Consejo Estatal llevará un registro de las denuncias desechadas e informará de ello al Consejo.
+
+> <small>(ADICIONADO, B.O. 23 DE AGOSTO DE 2012)</small>
+
+###### ARTÍCULO 394.
+
+La investigación para el conocimiento cierto de los hechos se realizará por el Consejo Estatal de forma seria, congruente, idónea, eficaz, expedita, completa y exhaustiva.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 23 DE AGOSTO DE 2012)</small>
+
+### CAPÍTULO IV. DEL PROCEDIMIENTO ADMINISTRATIVO SANCIONADOR ESPECIAL
+
+> <small>(ADICIONADO, B.O. 23 DE AGOSTO DE 2012)</small>
+
+###### ARTÍCULO 395.
+
+Dentro del proceso, el Consejo Estatal instruirá el procedimiento especial establecido por el presente capítulo, cuando se denuncie, o de oficio cuando cualquier órgano del Consejo Estatal tenga conocimiento de la comisión de conductas infractoras que:
+
+I.- Violen lo establecido en la Base III del artículo 41, o en el séptimo párrafo del artículo 134 ambos de la Constitución Federal;
+
+II.- Contravengan las normas sobre propaganda política o electoral establecidas para los partidos en este Código; o
+
+III.- Constituyan actos anticipados de precampaña o campaña.
+
+> <small>(ADICIONADO, B.O. 23 DE AGOSTO DE 2012)</small>
+
+###### ARTÍCULO 396.
+
+Cuando la conducta infractora esté relacionada con propaganda política o electoral en radio y televisión durante la realización del proceso, el Consejo Estatal presentará la denuncia ante el Instituto Federal Electoral.
+
+Los procedimientos relacionados con la difusión de propaganda que denigre o calumnie sólo podrán iniciar a instancia de parte afectada.
+
+La denuncia deberá reunir los siguientes requisitos:
+
+I.- Nombre del denunciante, con firma autógrafa o huella digital;
+
+II.- Domicilio para oír y recibir notificaciones;
+
+III.- Los documentos que sean necesarios para acreditar la personería;
+
+IV.- Narración expresa y clara de los hechos en que se basa la denuncia;
+
+V.- Ofrecer y exhibir las pruebas con que cuente; o en su caso, mencionar las que habrán de requerirse, por no tener posibilidad de recabarlas; y
+
+VI.- En su caso, las medidas cautelares que se soliciten.
+
+La denuncia será desechada de plano, sin prevención alguna, cuando:
+
+I.- No reúna los requisitos indicados en el párrafo tercero del presente artículo;
+
+II.- Los hechos denunciados no constituyan, de manera evidente, una violación en materia de propaganda político-electoral dentro de un proceso electivo;
+
+III.- El denunciante no aporte ni ofrezca prueba alguna de sus dichos; y
+
+IV.- La materia de la denuncia resulte irreparable.
+
+Si el Consejo Estatal considera necesaria la adopción de medidas cautelares se darán en el termino de cuarenta y ocho horas.
+
+> <small>(ADICIONADO, B.O. 23 DE AGOSTO DE 2012)</small>
+
+###### ARTÍCULO 397.
+
+Cuando las denuncias a que se refiere este capítulo tengan como motivo la comisión de conductas referidas a la ubicación física o al contenido de propaganda política o electoral impresa, de aquella pintada en bardas, o de cualquier otra diferente a la transmitida por radio o televisión, así como cuando se refieran a actos anticipados de precampaña o campaña en que la conducta infractora esté relacionada con ese tipo de propaganda, se estará a lo siguiente:
+
+I.- La denuncia será presentada ante el Consejo Distrital o Municipal que corresponda a la demarcación territorial en donde haya ocurrido la conducta denunciada; y
+
+II.- El Consejo Distrital o Municipal respectivo, deberá de remitir la denuncia y sus anexos al Consejo Estatal, en un término no mayor de 24 horas, para su admisión, substanciación y resolución que corresponda.
+
+Cuando se admita la denuncia, se emplazará al denunciante y al denunciado para que comparezcan a una audiencia de pruebas y alegatos, que tendrá lugar dentro del plazo de cuarenta y ocho horas posteriores a la admisión. En el escrito respectivo se le informará al denunciado de la infracción que se le imputa y se le correrá traslado de la denuncia con sus anexos.
+
+La audiencia de pruebas y alegatos se llevará a cabo de manera ininterrumpida, en forma oral y será conducida por la Secretaría debiéndose levantar constancia de su desarrollo.
+
+En el procedimiento especial no serán admitidas más pruebas que la documental y la técnica, esta última será desahogada siempre y cuando el oferente aporte los medios para tal efecto en el curso de la audiencia.
+
+La falta de asistencia de las partes no impedirá la celebración de la audiencia en el día y hora señalados.
+
+Celebrada la audiencia, la Secretaría deberá formular un proyecto de resolución dentro de las veinticuatro horas siguientes y lo presentará ante el consejero presidente, para que éste convoque a los miembros del Pleno del Consejo Estatal Electoral a una sesión que deberá celebrarse, a más tardar, dentro de las veinticuatro horas posteriores a la entrega del citado proyecto.
+
+En la sesión respectiva el Pleno del Consejo Estatal Electoral conocerá y resolverá sobre el proyecto de resolución. En caso de comprobarse la infracción denunciada, el Consejo ordenará la cancelación inmediata de la transmisión de la propaganda política o electoral en radio y televisión motivo de la denuncia; el retiro físico, o la inmediata suspensión de la distribución o difusión de propaganda violatoria de este Código, cualquiera que sea su forma, o medio de difusión, e impondrá las sanciones correspondientes.
+
 T R A N S I T O R I O S
 
 ###### ARTÍCULO PRIMERO.
@@ -6381,7 +6623,7 @@ Los partidos políticos que actualmente tienen reconocido su registro en el Esta
 
 POR TANTO, MANDO SE PUBLIQUE EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO Y SE LE DÉ EL DEBIDO CUMPLIMIENTO. DADO EN LA RESIDENCIA DEL PODER EJECUTIVO, EN LA CIUDAD DE HERMOSILLO, SONORA, A LOS VEINTIOCHO DÍAS DEL MES DE JUNIO DEL AÑO DOSMIL (SIC) CINCO. SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- EDUARDO BOURS CASTELO.- RUBRICA.- EL SECRETARIO DEL GOBIERNO. ROBERTO RUBIAL ASTIAZARÁN.- RÚBRICA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 B.O. 9 DE JUNIO DE 2008.
 
@@ -6422,6 +6664,16 @@ Dentro de los treinta días hábiles siguientes a la entrada en vigor del presen
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 
 B.O. 1 DE JULIO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 23 DE AGOSTO DE 2012.
 
 ###### ARTÍCULO PRIMERO.
 
