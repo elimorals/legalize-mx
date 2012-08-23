@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-37204"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-02-07"
-last_updated: "2012-08-16"
+last_updated: "2012-08-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2012.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 2004.
 
@@ -381,7 +381,9 @@ I. Rendir la protesta de ley y tomar posesión de su cargo;
 
 II. Asistir a todas las sesiones que celebre el Congreso del Estado, en caso de falta injustificada se le reduce de su dieta, en lo equivalente a un día de trabajo;
 
-III. Asistir a todas las reuniones de comisión y comité, de los que sean integrantes;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2012)</small>
+
+III. Asistir a todas las reuniones de comisión y comité, de los que sean integrantes y presentar los proyectos de dictamen de las iniciativas que les sean turnadas en los términos de la presente ley;
 
 IV. Acatar las disposiciones y encomiendas de la Asamblea y de la Presidencia de la Mesa Directiva del Congreso del Estado que estén conformes con la presente Ley;
 
@@ -4132,5 +4134,9 @@ DECRETO NÚMERO 23994/LIX/12, POR LO QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ART�
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 16 DE AGOSTO DE 2012
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 23 DE AGOSTO DE 2012.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
