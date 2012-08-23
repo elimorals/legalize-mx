@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-gobierno-del-poder-legislativo-del-estado-de-yucatan-768
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-04"
-last_updated: "2010-10-04"
+last_updated: "2012-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76877&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "YUC"
 
 LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE AGOSTO DE 2012.
 
-Ley Publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el lunes 4 de octubre de 2010.
+Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el lunes 4 de octubre de 2010.
 
 PODER LEGISLATIVO
 
@@ -49,7 +49,7 @@ LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPÍTULO ÚNICO. Del objeto de la ley
+### CAPÍTULO ÚNICO. Del objeto de la Ley
 
 ###### Artículo 1.
 
@@ -105,7 +105,7 @@ IX.- Decreto: resolución del Pleno, que crea situaciones jurídicas colectivas 
 
 X.- Diario de los Debates: libro oficial de la Legislatura, mediante el cual se difunde y registran todos los asuntos desahogados en las sesiones, con sus deliberaciones y resoluciones;
 
-XI.- Diputación Permanente: órgano del Poder Legislativo que funcionará durante los recesos entre los períodos ordinarios de sesiones del Pleno, para atender los asuntos que sean dirigidos al Congreso;
+XI.- Diputación Permanente: órgano del Poder Legislativo que funcionará durante los recesos entre los periodos ordinarios de sesiones del Pleno, para atender los asuntos que sean dirigidos al Congreso;
 
 XII.- Dirección de Evaluación del Presupuesto: unidad técnica dependiente del Congreso que evaluará los resultados de la ejecución de los programas y del ejercicio de los recursos públicos;
 
@@ -129,7 +129,7 @@ XXI.- Reglamento: resolución que el Congreso emite, para regular disposiciones 
 
 XXII.- Representación Legislativa: Diputado electo por medio de un partido político, coalición o candidatura común, excluyendo a los diputados que se separen de una Fracción Legislativa;
 
-XXIII.- Secretaria General del Poder Legislativo: órgano técnico responsable de coordinar y ejecutar las funciones especializadas relativas al desempeño legislativo del Congreso, y
+XXIII.- Secretaría General del Poder Legislativo: órgano técnico responsable de coordinar y ejecutar las funciones especializadas relativas al desempeño legislativo del Congreso, y
 
 XXIV.- Secretarios Técnicos: profesionistas que fungen como auxiliares de las Comisiones Permanentes y Especiales del Congreso, que tienen a su cargo asesorar y coadyuvar en las tareas legislativas de éstas.
 
@@ -145,7 +145,7 @@ Con la finalidad de salvaguardar la inviolabilidad del Recinto del Poder Legisla
 
 ###### Artículo 8.
 
-El periodo de tres años que corresponda a los diputados del Congreso para el ejercicio de sus funciones, constituye una Legislatura que se identificará con el número ordinal siguiente al otorgado a la anterior.
+El período de tres años que corresponda a los diputados del Congreso para el ejercicio de sus funciones, constituye una Legislatura que se identificará con el número ordinal siguiente al otorgado a la anterior.
 
 ###### Artículo 9.
 
@@ -187,7 +187,7 @@ VI.- Las demás que se consideren necesarias para la Entrega-Recepción del Pode
 
 Para el cumplimiento de los fines dispuestos en los artículos anteriores, la Comisión Instaladora y de Entrega-Recepción, en la primera sesión de la Legislatura entrante, procederá conforme a lo siguiente:
 
-I.- La Secretaria General del Poder Legislativo, le dará cuenta del ejercicio de las funciones contenidas en este Capítulo, reservando la entrega de los documentos electorales a que se refiere la fracción IV del artículo 12, a la Mesa Directiva que habrá de elegirse;
+I.- La Secretaría General del Poder Legislativo, le dará cuenta del ejercicio de las funciones contenidas en este Capítulo, reservando la entrega de los documentos electorales a que se refiere la fracción IV del artículo 12, a la Mesa Directiva que habrá de elegirse;
 
 II.- Se pasará lista de asistencia a los diputados integrantes de la nueva Legislatura, para hacer la declaración respectiva;
 
@@ -236,6 +236,8 @@ Las resoluciones del Congreso tendrán el carácter de leyes y decretos.
 El Congreso podrá emitir acuerdos para dar cumplimiento a las atribuciones y funciones del Poder Legislativo, y que por su naturaleza no requieren de sanción y promulgación.
 
 ### CAPÍTULO VI. De la Diputación Permanente
+
+> <small>(REFORMADO, D.O. 23 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 19.
 
@@ -323,9 +325,11 @@ La Mesa Directiva, es el órgano de dirección de los trabajos legislativos, que
 
 Sus decisiones se tomarán por el voto de la mayoría de los integrantes del Congreso; en caso de empate, el Presidente tendrá voto de calidad.
 
+> <small>(REFORMADO, D.O. 23 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 27.
 
-La Mesa Directiva, se elegirá por mayoría de votos y se integrará por un presidente, un vicepresidente, dos secretarios y los respectivos suplentes de los secretarios, mismos que serán electos por el Pleno en los últimos diez días de la Diputación Permanente.
+La Mesa Directiva, se elegirá por mayoría de votos y se integrará por un presidente, un vicepresidente, dos secretarios y los respectivos suplentes de los secretarios, mismos que serán electos en Junta Preparatoria dentro de los diez días anteriores al inicio del Período Ordinario de sesiones que corresponda.
 
 ###### Artículo 28.
 
@@ -357,11 +361,11 @@ XII.- Redactar las minutas de Ley, Decreto o Acuerdo aprobados por el Pleno, pud
 
 XIII.- Las demás que le atribuyan esta Ley, los ordenamientos aplicables y los acuerdos del Pleno o de la Diputación Permanente.
 
+> <small>(REFORMADO, D.O. 23 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 29.
 
 Para la elección de la Mesa Directiva, cada Fracción o Representación Legislativa, podrá postular a quienes a su juicio deban integrarla.
-
-La Mesa Directiva electa fungirá en los períodos ordinarios o en los períodos extraordinarios que se lleven a cabo.
 
 ###### Artículo 30.
 
@@ -369,7 +373,7 @@ En las ausencias temporales del Presidente de la Mesa Directiva, lo suplirá el 
 
 ###### Artículo 31.
 
-La Junta Preparatoria para los períodos extraordinarios se realizará el día y hora que fije la convocatoria, la cual deberá contener los asuntos a tratar, y deberá ser emitida con tres días de anticipación a la celebración de la misma.
+(DEROGADO, D.O. 23 DE AGOSTO DE 2012)
 
 ###### Artículo 32.
 
@@ -439,7 +443,11 @@ El vicepresidente auxiliará al Presidente en las distintas tareas correspondien
 
 ###### Artículo 36.
 
-Durante los recesos del Congreso, funcionará una Diputación Permanente, esta se integrará de conformidad con lo dispuesto en el artículo 42 de la Constitución Política del Estado de Yucatán.
+Durante los recesos del Congreso, funcionará una Diputación Permanente; ésta se integrará por un Presidente y dos secretarios, con sus respectivos suplentes.
+
+La Diputación Permanente fungirá como Mesa Directiva en los períodos extraordinarios que se lleven a cabo.
+
+Para la celebración de los períodos extraordinarios, la Diputación Permanente deberá convocar cuando menos tres días antes de la celebración.
 
 ###### Artículo 37.
 
@@ -709,9 +717,39 @@ IV.- Las demás que le correspondan en los términos de esta Ley y otras disposi
 
 ###### Artículo 51.
 
-Las Comisiones contarán con Secretarios Técnicos, quienes serán propuestos y nombrados por éstas; y dependerán directamente de la Secretaria General del Poder Legislativo, en el cumplimiento de sus funciones.
+Las Comisiones contarán con Secretarios Técnicos, quienes serán propuestos y nombrados por éstas; y dependerán directamente de la Secretaría General del Poder Legislativo, en el cumplimiento de sus funciones.
 
-Los Secretarios Técnicos de las Comisiones deberán tener conocimientos de las temáticas tratadas o de alguno de los asuntos que se analicen en el seno de las mismas.
+> <small>(REFORMADO, D.O. 23 DE AGOSTO DE 2012)</small>
+
+Los Secretarios Técnicos, tendrán las siguientes facultades y obligaciones:
+
+I.- Auxiliar a las Comisiones Permanentes y Especiales del Congreso;
+
+II.- Llevar el seguimiento y control de los asuntos de las Comisiones, integrar los expedientes y mantener actualizado el archivo de éstas;
+
+III.- Coadyuvar en la elaboración de proyectos de dictamen y demás disposiciones que se les solicite por las Comisiones;
+
+IV.- Asesorar técnica y jurídicamente en materia legislativa a los presidentes e integrantes de las Comisiones;
+
+V.- Coadyuvar oportunamente en la elaboración de acuerdos e iniciativas de las Comisiones, y
+
+VI.- Las demás que les soliciten las Comisiones y el Secretario General del Poder Legislativo.
+
+> <small>(ADICIONADO, D.O. 23 DE AGOSTO DE 2012)</small>
+
+###### Artículo 51 Bis.
+
+Los requisitos para ser Secretario Técnico son los siguientes:
+
+I.- Ser mexicano por nacimiento y yucateco en ejercicio de sus derechos;
+
+II.- Contar con título y cédula profesional, con cuando menos 5 años de antigüedad;
+
+III.- Acreditar experiencia en materia legislativa;
+
+IV.- Acreditar experiencia y conocimientos en materia de la competencia de la Comisión;
+
+V.- Contar con estudios de Maestría, preferentemente.
 
 ###### Artículo 52.
 
@@ -763,7 +801,7 @@ La sesión de instalación de la Junta, será convocada por el Coordinador de la
 
 ###### Artículo 59.
 
-Presidirá la Junta durante el periodo de la Legislatura, el Coordinador de aquella Fracción Legislativa que por sí misma cuente con la mayoría absoluta en el Congreso.
+Presidirá la Junta durante el período de la Legislatura, el Coordinador de aquella Fracción Legislativa que por sí misma cuente con la mayoría absoluta en el Congreso.
 
 El Secretario de la Junta, será el coordinador de la Fracción Legislativa que cuente con la segunda mayoría.
 
@@ -789,7 +827,7 @@ II.- Conducir las relaciones políticas con los otros poderes del Estado, los ay
 
 III.- Ejercer el gobierno interior del Poder Legislativo;
 
-IV.- Establecer la Agenda Legislativa para cada uno de los periodos de sesiones;
+IV.- Establecer la Agenda Legislativa para cada uno de los períodos de sesiones;
 
 V.- Presentar a la Mesa Directiva y al Pleno, las propuestas de Acuerdo, pronunciamientos y declaraciones, que manifiesten la posición política del Congreso;
 
@@ -841,7 +879,7 @@ V.- Informar anualmente al Pleno, de las actividades de la Junta;
 
 VI.- Proveer a la Junta de los asuntos, estudios, análisis y proyectos legislativos elaborados por el Instituto de Investigaciones Legislativas, y
 
-VII.- Las demás que deriven de esta ley, reglamento o que le fueren conferidas por la propia Junta.
+VII.- Las demás que deriven de esta Ley, reglamento o que le fueren conferidas por la propia Junta.
 
 ### CAPÍTULO PRIMERO. De la sustanciación del trámite para suspender ayuntamientos, declarar su desaparición, o suspender o revocar el mandato de alguno de sus miembros
 
@@ -849,7 +887,7 @@ VII.- Las demás que deriven de esta ley, reglamento o que le fueren conferidas 
 
 El Poder Legislativo, para el cumplimiento de sus atribuciones, contará con el apoyo de los siguientes órganos técnicos y administrativos:
 
-I.- Secretaria General del Poder Legislativo;
+I.- Secretaría General del Poder Legislativo;
 
 II.- Auditoría Superior del Estado;
 
@@ -859,11 +897,11 @@ IV.- Dirección de Evaluación del Presupuesto.
 
 Estos órganos contarán con las unidades administrativas necesarias para el cumplimiento de sus funciones, de conformidad con el Presupuesto de Egresos del Poder Legislativo, de esta Ley y su reglamento, y demás disposiciones normativas aplicables.
 
-#### Sección Primera. De la Secretaria General del Poder Legislativo
+#### Sección Primera. De la Secretaría General del Poder Legislativo
 
 ###### Artículo 66.
 
-La Secretaria General del Poder Legislativo es el órgano técnico y administrativo responsable de coordinar, ejecutar y supervisar las funciones especializadas y relativas al trabajo legislativo, conforme al ámbito de competencias establecido en la Constitución Política del Estado, en esta Ley y en las disposiciones reglamentarias correspondientes.
+La Secretaría General del Poder Legislativo es el órgano técnico y administrativo responsable de coordinar, ejecutar y supervisar las funciones especializadas y relativas al trabajo legislativo, conforme al ámbito de competencias establecido en la Constitución Política del Estado, en esta Ley y en las disposiciones reglamentarias correspondientes.
 
 ###### Artículo 67.
 
@@ -1031,7 +1069,7 @@ IX.- Elaborar el informe del ejercicio presupuestal anual, que deberá rendir el
 
 X.- Recibir de la Secretaría de Hacienda, las asignaciones presupuestales correspondientes al Presupuesto de Egresos del Poder Legislativo, conforme al calendario de ministración aprobado, y aplicarlos de conformidad al Presupuesto de Egresos y acuerdos convenidos por la Junta;
 
-XI.- Entregar la información y documentación que le sea requerida por la Junta o por la Secretaria General del Poder Legislativo, previo Acuerdo;
+XI.- Entregar la información y documentación que le sea requerida por la Junta o por la Secretaría General del Poder Legislativo, previo Acuerdo;
 
 XII.- Proveer lo necesario para el buen funcionamiento de los órganos técnicos y administrativos del Poder Legislativo;
 
@@ -1051,7 +1089,7 @@ El Poder Legislativo informará de los asuntos resueltos por sus órganos, con e
 
 ###### Artículo 79.
 
-El Congreso, podrá celebrar convenios de colaboración con medios de comunicación, oficiales o privados, para la producción de programas de radio y televisión, así como para la elaboración de materiales que contengan los aspectos y actividades más sobresalientes de cada uno de los asuntos resueltos, durante los distintos periodos de sesiones. En la difusión de dichas actividades se procurará realizar traducciones al idioma maya.
+El Congreso, podrá celebrar convenios de colaboración con medios de comunicación, oficiales o privados, para la producción de programas de radio y televisión, así como para la elaboración de materiales que contengan los aspectos y actividades más sobresalientes de cada uno de los asuntos resueltos, durante los distintos períodos de sesiones. En la difusión de dichas actividades se procurará realizar traducciones al idioma maya.
 
 ###### Artículo 80.
 
@@ -1077,7 +1115,7 @@ El reglamento que establezca los criterios para el Servicio Profesional Legislat
 
 El Reglamento del Servicio Profesional Legislativo, deberá contener por lo menos:
 
-l.- El sistema para la selección, promoción, evaluación y ascenso de los servidores públicos del Poder Legislativo;
+I.- El sistema para la selección, promoción, evaluación y ascenso de los servidores públicos del Poder Legislativo;
 
 II.- Los principios de estabilidad y permanencia en el trabajo;
 
@@ -1185,7 +1223,7 @@ Las comisiones especiales creadas en la LIX Legislatura, durarán todo el ejerci
 
 ###### ARTÍCULO OCTAVO.
 
-La Mesa Directiva en funciones que se encuentre al momento de entrar en vigor esta Ley, continuará hasta concluir el periodo ordinario o Diputación Permanente correspondiente.
+La Mesa Directiva en funciones que se encuentre al momento de entrar en vigor esta Ley, continuará hasta concluir el período ordinario o Diputación Permanente correspondiente.
 
 El Presidente de la Mesa Directiva por única ocasión, realizará el turno de las iniciativas y asuntos legislativos pendientes a las Comisiones Permanentes creadas por esta Ley, de manera directa, por escrito y en base a las atribuciones de cada Comisión.
 
@@ -1210,3 +1248,11 @@ El Director de Evaluación del Presupuesto será nombrado en el plazo que establ
 En tanto se expida Ley reglamentaria de la fracción XL, del artículo 30 y la Ley reglamentaria del Título Décimo a que se refiere el artículo 98 de la Constitución Política del Estado de Yucatán, permanecerán vigentes los Títulos Octavo y Noveno de la Ley Orgánica del Poder Legislativo del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado en fecha 24 de febrero de 1988, mediante Decreto Número 6, misma que se abroga mediante esta Ley.
 
 DADO EN LA SEDE DEL RECINTO DEL PODER LEGISLATIVO, EN LA CIUDAD DE MÉRIDA, YUCATÁN, ESTADOS UNIDOS MEXICANOS, A LOS TREINTA Y UN DÍAS DEL MES DE AGOSTO DEL AÑO DOS MIL DIEZ. PRESIDENTE DIPUTADO VÍCTOR EDMUNDO CABALLERO DURÁN, SECRETARIO DIPUTADO RENÁN ALBERTO BARRERA CONCHA, Y SECRETARIA DIPUTADA MARTHA LETICIA GÓNGORA SÁNCHEZ. RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 23 DE AGOSTO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
