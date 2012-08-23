@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ingresos-del-estado-de-jalisco-para-el-ejercicio-85226"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2011-12-22"
-last_updated: "2011-12-22"
+last_updated: "2012-08-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85226&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL DEL AÑO 2012
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2012.
 
 Ley publicada en la Sección XXXIII del Periódico Oficial del Estado de Jalisco, el jueves 22 de diciembre de 2011.
 
@@ -1399,15 +1399,17 @@ de los módulos operados por la Dirección General
 
 del Registro Civil: $62.00
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2012)</small>
+
 h) Cotejo de actas del estado civil expedidas por los
 
 municipios del estado con los libros duplicados del
 
-Archivo General del Registro Civil. $62.00
+Archivo General del Registro Civil, salvo que sea
 
-i) Búsqueda de actas del estado civil por año y por
+solicitado por autoridades. $62.00
 
-oficialía: $26.00
+i) (DEROGADO, P.O. 23 DE AGOSTO DE 2012)
 
 j) Expedición de copias certificadas de apéndice
 
@@ -1439,7 +1441,9 @@ kioscos automatizados: $62.00
 
 m) Envío de actas de nacimiento o extractos certificados de actas del estado civil, hasta 10:
 
-1. Zona Metropolitana de Guadalajara: $41.00
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2012)</small>
+
+1. Zona Metropolitana de Guadalajara: $58.00
 
 2. Interior del Estado: $82.00
 
@@ -2426,3 +2430,9 @@ El Secretario General de Gobierno
 VÍCTOR MANUEL GONZÁLEZ ROMERO
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE AGOSTO DE 2012.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
