@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2012-08-10"
+last_updated: "2012-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO CIVIL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE AGOSTO DE 2012.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -3597,11 +3597,15 @@ Plazo para publicar otros edictos
 
 Plazo para pedir la declaración de ausencia
 
+> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 4.
 
-349.- Pasados dos años desde el día en que haya sido nombrado el representante, habrá acción para pedir la declaración de ausencia.
+349.- Pasado un año desde el día en que haya sido nombrado el representante, habrá acción para pedir la declaración de ausencia.
 
 Plazo para pedir la declaración de ausencia cuando hay apoderado general
+
+> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
 
 ### CAPITULO III. De los efectos de la Declaración de Ausencia
 
@@ -3609,7 +3613,7 @@ Presentación del testamento del declarado ausente
 
 ###### Artículo 4.
 
-350.- Existiendo apoderado general, no podrá pedirse declaración de ausencia del poderdante, sino pasados tres años contados a partir de su alejamiento.
+350.- Existiendo apoderado general, no podrá pedirse la declaración de ausencia sino pasado un año y medio, que se contará desde la desaparición del ausente, si en este período no se tuvieren ningunas noticias suyas, o desde la fecha en que se hayan tenido las últimas.
 
 Apoderado por más de tres años del ausente
 
@@ -3618,6 +3622,8 @@ Apoderado por más de tres años del ausente
 351.- Lo dispuesto en el artículo anterior se observará aún cuando el poder se haya conferido por más de tres años.
 
 Obligación del apoderado del ausente a otorgar garantía
+
+> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
 
 ## TITULO DECIMO PRIMERO. Del Patrimonio de Familia
 
@@ -3629,7 +3635,7 @@ Efectos de la ausencia en relación a la sociedad conyugal
 
 ###### Artículo 4.
 
-352.- Pasados dos años las personas legitimadas para solicitar la declaración de ausencia, pueden pedir que el apoderado otorgue garantía, en los términos en que debe hacerlo el representante. Si no lo hiciere se nombrará representante.
+352.- Pasados un año y medio, las personas legitimadas para solicitar la declaración de ausencia, pueden pedir que el apoderado otorgue garantía, en los términos en que debe hacerlo el representante. Si no lo hiciere se nombrará representante.
 
 Legitimación para pedir declaración de ausencia
 
@@ -3682,6 +3688,8 @@ Nombramiento de interventor por los presuntos herederos
 ### CAPITULO V. De la presunción de muerte del ausente
 
 Declaración judicial de presunción de muerte
+
+> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 4.
 
@@ -3763,9 +3771,9 @@ Entrega de sus bienes al cónyuge del ausente
 
 ###### Artículo 4.
 
-373.- Cuando hayan transcurrido tres años desde la declaración de ausencia, el Juez a instancia de parte, declarará la presunción de muerte.
+373.- Cuando haya transcurrido un año y medio desde la declaración de ausencia, el Juez, a instancia de parte, declarará la presunción de muerte.
 
-Respecto de las personas que hayan desaparecido por causa de guerra, de un siniestro, desastre o secuestro, bastará que hayan transcurrido seis meses, contados desde su desaparición, para que pueda hacerse la declaración de presunción de muerte, sin que en esos casos sea necesario que previamente se declare su ausencia; pero sí se tomarán las medidas provisionales relacionadas con sus bienes.
+Respecto de las personas que hayan desaparecido por causa de guerra, de un siniestro, desastre o secuestro, bastará que hayan transcurrido tres meses, contados desde su desaparición, para que pueda hacerse la declaración de presunción de muerte, sin que en esos casos sea necesario que previamente se declare su ausencia; pero sí se tomarán las medidas provisionales relacionadas con sus bienes.
 
 Efectos de la declaración de presunción de muerte
 
@@ -17428,3 +17436,9 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Quedan sin efectos las normas jurídicas de igual o inferior jerarquía, en cuanto se opongan al presente Decreto.
+
+G.G. 24 DE AGOSTO DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
