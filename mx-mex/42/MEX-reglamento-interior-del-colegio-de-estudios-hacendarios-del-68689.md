@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-colegio-de-estudios-hacendarios-del-686
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-21"
-last_updated: "2011-04-06"
+last_updated: "2012-08-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DEL COLEGIO DE ESTUDIOS HACENDARIOS DEL ESTADO DE MEXICO
 
-REGLAMENTO INTERIOR DEL COLEGIO DE ESTUDIOS HACENDARIOS DEL ESTADO DE MEXICO
+REGLAMENTO INTERIOR DEL COLEGIO DE ESTUDIOS HACENDARIOS DEL ESTADO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE ABRIL DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERNO DEL COLEGIO DE ESTUDIOS HACENDARIOS DEL ESTADO DE MÉXICO, PUBLICADO EN EL P.O. DE 24 DE AGOSTO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: ABROGADO.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 21 de mayo de 2009.
 
@@ -2272,7 +2274,7 @@ LIC. FERNANDO R. PORTILLA SÁNCHEZ
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 G.G. 6 DE ABRIL DE 2011.
 
@@ -2281,3 +2283,17 @@ Primero.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del G
 Segundo.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 Tercero.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
+
+G.G. 24 DE AGOSTO DE 2012.
+
+PRIMERO.- El presente reglamento, entrará en vigor, al día siguiente de su publicación en la "Gaceta del Gobierno" del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interior del Colegio de Estudios Hacendarios, publicado el 21 de mayo del 2009 en la "Gaceta de Gobierno" del Estado.
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Reglamento.
+
+CUARTO.- Los asuntos que se encuentren en trámite al entrar en vigor el presente reglamento se resolverán conforme a las disposiciones legales del mismo.
+
+QUINTO.- El presente reglamento aplicará para los alumnos de generaciones anteriores del Colegio para los efectos a que haya lugar.
+
+SEXTO.- Todo lo no previsto en el presente reglamento se someterá a consideración del Consejo Académico para su acuerdo correspondiente.
