@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2012-08-10"
+last_updated: "2012-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE AGOSTO DE 2012.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -741,6 +741,10 @@ XXV. Coadyuvar con la Secretaría del Medio Ambiente a la creación y desarrollo
 
 XXV Bis. Participar en la prevención y atención a las adicciones, en términos de lo dispuesto en la Sección Cuarta del Capítulo Quinto del Título Tercero del Libro Segundo del Código Administrativo del Estado de México.
 
+> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
+Con el objeto de combatir el alcoholismo, los Ayuntamientos y las autoridades estatales, en el ámbito de sus respectivas competencias, no autorizarán la instalación de establecimientos dedicados a la venta de bebidas alcohólicas en envase cerrado o por copeo, que se ubique en un radio no menor de 300 metros de centros escolares, instalaciones deportivas o centros de salud; para lo cual, las autoridades realizarán las inscripciones correspondientes en los planes municipales de desarrollo urbano.
+
 > <small>(ADICIONADA, G.G. 23 DE AGOSTO DE 2005)</small>
 
 XXVI. Trasladar, por medio de los mecanismos fiscales con los que cuenta, el costo de la degradación municipal a los agentes públicos y privados contaminantes finales;
@@ -957,11 +961,7 @@ Para desempeñarse como encargado de despacho, es necesario reunir los mismos re
 
 Ninguna dependencia o entidad municipal podrá tener un encargado de despacho por un plazo que exceda de sesenta días naturales.
 
-### CAPITULO SEXTO. De la Suspensión y Desaparición de Ayuntamientos de
-
-la Suspensión o Revocación del Mandato de
-
-alguno de sus Miembros
+### CAPITULO SEXTO. De la Suspensión y Desaparición de Ayuntamientos de la Suspensión o Revocación del Mandato de alguno de sus Miembros
 
 ###### Artículo 42.
 
@@ -1987,7 +1987,11 @@ XV. Participar en la elaboración y actualización del inventario general de los
 
 XVI. Verificar que los servidores públicos municipales cumplan con la obligación de presentar oportunamente la manifestación de bienes, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios;
 
-XVII. Las demás que le señalen las disposiciones relativas.
+> <small>(ADICIONADA, G.G. 24 DE AGOSTO DE 2012)</small>
+
+XVII. Hacer del conocimiento del Órgano Superior de Fiscalización del Estado de México, de las responsabilidades administrativas resarcitorias de los servidores públicos municipales, dentro de los tres días hábiles siguientes a la interposición de las mismas; y remitir los procedimientos resarcitorios, cuando así sea solicitado por el Órgano Superior, en los plazos y términos que le sean indicados por éste;
+
+XVIII. Las demás que le señalen las disposiciones relativas.
 
 ###### Artículo 113.
 
@@ -2487,15 +2491,47 @@ VII. Las que el ayuntamiento le asigne.
 
 > <small>(REFORMADO POR EL ARTÍCULO QUINTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)</small>
 
-### CAPITULO PRIMERO. Del Bando y los Reglamentos
+### CAPITULO SEGUNDO BIS. De la Acción Popular
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
+Artículo 154 A.- La acción popular es una acción pública que será procedente para proteger los derechos e intereses colectivos contenidos en el artículo 284 A del Código de Procedimientos Administrativos del Estado de México y los contenidos en el artículo 125 en sus fracciones I, II, III, VII, VIII, IX y X de la presente Ley.
+
+La protección de los derechos e intereses colectivos a que se refiere el párrafo anterior, comprenderán la prevención y restauración del agravio contingente, en el marco de respeto y aplicación irrestricta de los derechos fundamentales de las personas.
+
+> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
+Artículo 154 B.- La iniciativa popular se sustanciará y resolverá con arreglo a las disposiciones de los títulos primero y tercero del Código de Procedimientos Administrativos del Estado de México y del presente capítulo.
+
+> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
+Artículo 154 C.- En el escrito inicial de demanda se describirán los siguientes requisitos:
+
+a). Identificación del derecho o interés colectivo agraviado o que se pretende proteger;
+
+b). Los hechos, actos u omisiones que la motivan;
+
+c). Enunciación de las pretensiones;
+
+d). Señalamiento de la autoridad responsable;
+
+e). Descripción de las pruebas que justifican la acción;
+
+f). Domicilio para recibir notificaciones;
+
+g). Listado de nombres de los accionantes el cual no deberá ser menor a diez personas por cada derecho o interés colectivo que se argumente.
+
+> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
+Artículo 154 D.- En la acción popular procede el recurso de revisión ante la Sala Superior, en los términos y contra los actos previstos en los artículos 285, 286, 287 y 288 del Código de Procedimientos Administrativos del Estado de México.
 
 ## TITULO V. De la Función Mediadora-Conciliadora y de la Calificadora de los Ayuntamientos
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO SEGUNDO. De las Sanciones
+### CAPITULO PRIMERO. Del Bando y los Reglamentos
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 148.
 
@@ -2519,9 +2555,17 @@ b) No haber sido condenado por delito intencional;
 
 c) Ser de reconocida buena conducta y solvencia moral;
 
-d) Tener cuando menos treinta años al día de su designación; y
+> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
 
-e) Ser licenciado en Derecho, en Psicología, en Sociología, en Antropología, en Trabajo Social, o en Comunicación y tener acreditados estudios en materia de Mediación;
+d) Tener cuando menos treinta años al día de su designación;
+
+> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
+e) Ser licenciado en derecho, en psicología, en sociología, en antropología, en trabajo social, o en comunicaciones y tener acreditados los estudios en materia de mediación; y
+
+> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
+f) Estar certificado por el Centro de Mediación, Conciliación y de Justicia Restaurativa del Poder Judicial del Estado de México.
 
 II. Para ser Oficial Calificador, se requiere:
 
@@ -2553,7 +2597,9 @@ d) Llevar por lo menos un libro de registro de expedientes de mediación o conci
 
 e) Redactar, revisar y en su caso aprobar, los acuerdos o convenios a que lleguen los participantes a través de la mediación o de la conciliación, los cuales deberán ser firmados por ellos y autorizados por el Oficial mediador-conciliador;
 
-f) Negar el servicio en las materias que son competencia del Poder Judicial del Estado de México o en donde se pueda perjudicar a la hacienda pública, a las autoridades municipales o a terceros;
+> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
+f) Negar el servicio cuando se pueda perjudicar a la hacienda pública, a las autoridades municipales o a terceros;
 
 g) Dar por concluido el procedimiento de mediación o conciliación en caso de advertir alguna simulación en su trámite;
 
@@ -2565,91 +2611,13 @@ h) Asistir a los cursos anuales de actualización y aprobar los exámenes anuale
 
 i) Recibir asesoría del Centro de Mediación y Conciliación del Poder Judicial del Estado de México; y
 
-> <small>(ADICIONADO, G.G. 1 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
 
-j) Conocer, mediar, conciliar y ser árbitro en los accidentes ocasionados con motivo del tránsito vehicular, cuando exista conflicto de intereses, siempre que se trate de daños materiales a propiedad privada y en su caso lesiones a las que se refiere la fracción I del artículo 237 del Código Penal del Estado de México; lo que se hará bajo los siguientes lineamientos:
-
-1.- Facultad para ordenar el retiro de vehículos:
-
-En caso de que los conductores de los vehículos involucrados en los hechos de que se trate no lleguen a un arreglo en el mismo en (sic) lugar en que éstos hayan ocurrido, se presentarán ante el Oficial Mediador-Conciliador.
-
-El traslado se realizará por los mismos conductores, en caso de que éstos se encuentren en condiciones de circular, o bien, mediante el uso del servicio de grúas de su elección.
-
-Tratándose de vehículos con carga, se permitirá la realización de las maniobras necesarias para descargar el vehículo de que se trate.
-
-2.- Etapa conciliatoria:
-
-Una vez que el Oficial Mediador-Conciliador tenga conocimiento de los hechos, deberá instar a los involucrados a que concilien. En cualquier caso, el resultado de la audiencia de conciliación se hará constar en el acta respectiva de manera circunstanciada.
-
-El acuerdo conciliatorio tendrá el carácter de cosa juzgada y constituirá título ejecutivo, el cual podrá hacerse efectivo en la vía civil que corresponda.
-
-La etapa de conciliación no podrá exceder del plazo de tres horas. Una vez vencido el plazo sin que las partes lleguen a un arreglo, el Oficial Mediador-Conciliador levantará el acta respectiva y procederá conforme al punto siguiente.
-
-3.- Reglas para el arbitraje:
-
-Cuando los involucrados no concilien, el Oficial Mediador-Conciliador se constituirá en árbitro e iniciará el procedimiento respectivo actuando de la forma siguiente:
-
-a. Tomará la declaración de los interesados, del oficial de tránsito o policía preventivo que conozca de los hechos y, en su caso, de los testigos y ajustadores.
-
-b. Procederá a dar fe de los vehículos involucrados, y de inmediato dará intervención a los peritos que el caso requiera en materia de:
-
-Identificación vehicular;
-
-Valuación de daños automotrices;
-
-Tránsito terrestre;
-
-Medicina legal, y
-
-Fotografía.
-
-Los peritos de los que se haya solicitado su intervención deberán rendir su dictamen a la brevedad posible, mismo que podrán emitir bajo cualquier medio.
-
-El Oficial Mediador-Conciliador deberá realizar todas las diligencias necesarias y velar para que los peritos estén en condiciones de rendir sus dictámenes. Para estos efectos, podrá requerir la intervención de perito del Instituto de Servicio (sic) Periciales de la Procuraduría General de Justicia o del Tribunal Superior de Justicia del Estado de México.
-
-c. El Oficial Mediador-Conciliador, a través del medio que resulte más eficaz, realizará consulta a la Procuraduría General de Justicia del Estado de México, para saber si el o los vehículos involucrados cuentan o no con reporte de robo, y para tal efecto proporcionará los números de serie, motor y placas de circulación, asentando constancia de dicha consulta y agregando en su caso la documentación comprobatoria del resultado.
-
-Si de la identificación vehicular se desprenden alteraciones o de la consulta a la base de datos existe reporte de robo de los vehículos afectados, se procederá al aseguramiento y puesta a disposición ante el Ministerio Público.
-
-d. Procedimiento para la mediación en el arbitraje.
-
-Una vez rendidos los dictámenes periciales, el Oficial Mediador-Conciliador los hará del conocimiento de los involucrados y requerirá al probable responsable garantice o cubra la reparación del daño, la cual podrá realizarse por alguno de los medios legales establecidos.
-
-En esta etapa, nuevamente el Oficial Mediador-Conciliador, instará a los interesados a que concilien.
-
-El Oficial Mediador-Conciliador podrá ordenar el aseguramiento del vehículo señalado como causante del accidente, mismo que quedará en garantía del afectado en el depósito municipal respectivo.
-
-El vehículo que sirva de garantía sólo podrá ser retirado del depósito municipal cuando se acredite la reparación de los daños y el pago de los derechos correspondientes.
-
-4.- Emisión del Laudo:
-
-Agotadas las diligencias, el Oficial Mediador-Conciliador, en su carácter de árbitro, emitirá el laudo respectivo, mismo que deberá contener:
-
-Lugar, fecha y autoridad arbitral que lo emite;
-
-Nombres y domicilios de las partes;
-
-Un extracto de los hechos y los dictámenes emitidos;
-
-El responsable del accidente de tránsito;
-
-El monto de la reparación del daño, y
-
-La determinación de que el vehículo queda depositado en garantía del afectado, en los términos a que se refiere el inciso anterior, o bien, la garantía que se haya otorgado.
-
-El laudo deberá ser emitido en el plazo de setenta y dos horas siguientes a que el Oficial Mediador-Conciliador haya tenido conocimiento de los hechos.
-
-Los peritos y oficiales mediadores-conciliadores que incumplan lo dispuesto en este inciso, serán responsables en los términos de las disposiciones aplicables.
-
-5.- Ejecución del Laudo:
-
-El laudo arbitral tendrá el carácter de cosa juzgada y constituirá título ejecutivo, el cual podrá hacerse efectivo en la vía civil que corresponda.
-
-El Oficial Mediador-Conciliador notificará el laudo arbitral al juzgado de lo civil correspondiente del Distrito Judicial competente.
+j) Atender a los vecinos de su adscripción en los conflictos que no sean constitutivos de delito, ni de la competencia de los órganos judiciales o de otras autoridades.
 
 II. De los Oficiales Calificadores:
 
-a) Atender a los vecinos de su adscripción en los conflictos que no sean constitutivos de delito, ni de la competencia de los órganos judiciales o de otras autoridades;
+a) (DEROGADO, G.G. 24 DE AGOSTO DE 2012)
 
 b) Conocer, calificar e imponer las sanciones administrativas municipales que procedan por faltas o infracciones al bando municipal, reglamentos y demás disposiciones de carácter general contenidas en los ordenamientos expedidos por los ayuntamientos, excepto las de carácter fiscal;
 
@@ -2663,7 +2631,95 @@ f) Expedir a petición de parte, certificaciones de hechos de las actuaciones qu
 
 g) Dar cuenta al presidente municipal de las personas detenidas por infracciones a ordenamientos municipales que hayan cumplido con la sanción impuesta por dicho servidor público o por quien hubiese recibido de este la delegación de tales atribuciones, expidiendo oportunamente la boleta de libertad;
 
-h) Las demás que les atribuyan los ordenamientos municipales aplicables.
+> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
+h) Conocer, mediar, conciliar y ser arbitro en los accidentes ocasionados con motivo del tránsito vehicular, cuando exista conflicto de intereses, siempre que se trate de daños materiales a propiedad privada y en su caso lesiones a las que se refiere la fracción I del artículo 237 del Código Penal del Estado de México; lo que se hará bajo los siguientes lineamientos:
+
+1. Facultad para ordenar el retiro de vehículos:
+
+En caso de que los conductores de los vehículos involucrados en los hechos de que se trate no lleguen a un arreglo en el mismo en lugar en que éstos hayan ocurrido, se presentarán ante el Oficial Calificador.
+
+El traslado se realizará por los mismos conductores, en caso de que éstos se encuentren en condiciones de circular, o bien, mediante el uso del servicio de grúas de su elección.
+
+Tratándose de vehículos con carga, se permitirá la realización de las maniobras necesarias para descargar el vehículo de que se trate.
+
+2. Etapa conciliatoria:
+
+Una vez que el Oficial Calificador tenga conocimiento de los hechos, hará saber a los conductores las formalidades del procedimiento desde su inicio hasta la vía de apremio e instarlos a que concilien proponiendo alternativas equitativas de solución. En cualquier caso, el resultado de la etapa de conciliación se hará constar en el acta respectiva de manera circunstanciada.
+
+El acuerdo conciliatorio tendrá carácter de cosa juzgada y podrá hacerse efectivo en la vía de apremio prevista en el Código de Procedimientos Civiles del Estado.
+
+La etapa de conciliación no podrá exceder del plazo de tres horas. Una vez vencido el plazo sin que las partes lleguen a un acuerdo, el Oficial Calificador levantará el acta respectiva y procederá conforme al punto siguiente.
+
+3. Reglas en el procedimiento arbitral:
+
+Cuando los involucrados no logren un acuerdo conciliatorio, el Oficial Calificador se constituirá en árbitro e iniciará el procedimiento respectivo actuando de la forma siguiente:
+
+a) Tomará la declaración de los interesados, del oficial de tránsito o policía que conozca de los hechos y, en su caso, de los testigos y ajustadores.
+
+b) Procederá a dar fe de los vehículos involucrados y de los daños que presenten, detallando en lo posible éstos, además, les tomará fotografías que muestren los daños sufridos, para constancia.
+
+c) Asegurará de oficio los vehículos involucrados y solamente se levantará el aseguramiento si los propietarios o conductores otorgan garantía bastante a juicio del Oficial Calificador, para garantizar el pago de la reparación de los daños.
+
+En este caso, los vehículos se devolverán a los propietarios o conductores en depósito provisional, quienes deberán resguardarlos en el lugar que expresamente señalen y tendrán la obligación de permitir el acceso para su revisión a los peritos y al personal que señale el Oficial Calificador, y estará prohibido repararlos, modificarlos, alterarlos o venderlos, teniendo las obligaciones de un depositario civil.
+
+De no presentarse los interesados ante el Oficial Calificador, o de no recibir en depósito los vehículos, estos se remitirán al depósito respectivo.
+
+d) Dará intervención de inmediato a los peritos que el caso requiera en materia de:
+
+- Identificación vehicular;
+
+- Valuación de daños automotrices;
+
+- Tránsito terrestre;
+
+- Medicina legal; y
+
+- Fotografía.
+
+Los peritos de los que se haya solicitado su intervención deberán rendir su dictamen a la brevedad posible, mismo que podrán emitir bajo cualquier medio.
+
+El Oficial Calificador deberá realizar todas las diligencias necesarias y velar para que los peritos estén en condiciones de rendir sus dictámenes. Para estos efectos, podrá requerir la intervención de peritos del Instituto de Servicios Periciales de la Procuraduría General de Justicia o del personal académico o de investigación científica o tecnológica de las instituciones de educación superior del Estado, que designen éstas, que puedan desempeñar el cargo de perito.
+
+e) El Oficial Calificador a través del medio que resulte más eficaz, realizará consulta a la Procuraduría General de Justicia del Estado, para saber si el o los vehículos involucrados cuentan o no con reporte de robo y para tal efecto proporcionará los números de serie, motor y placas de circulación, asentando constancia de dicha consulta y agregando en su caso la documentación comprobatoria del resultado.
+
+Si de la identificación vehicular se desprenden alteraciones o de la consulta a la base de datos existe reporte de robo de los vehículos afectados, se procederá al aseguramiento y puesta a disposición ante el Ministerio Público.
+
+f) Conciliación en el procedimiento arbitral:
+
+Una vez rendidos los dictámenes periciales, el Oficial Calificador los hará del conocimiento de los involucrados y requerirá al probable responsable garantice o cubra la reparación del daño, la cual podrá realizarse por alguno de los medios legales establecidos.
+
+En esta etapa, nuevamente el Oficial Calificador, instará a los interesados a que concilien y volverá a proponerles alternativas equitativas de solución.
+
+4. Emisión del Laudo:
+
+Agotadas las diligencias, si los interesados no logran un acuerdo conciliatorio, el Oficial Calificador con carácter de árbitro, en el plazo de las setenta y dos horas siguientes emitirá el laudo respectivo debidamente fundado y motivado, mismo que además deberá contener:
+
+a) Lugar, fecha y autoridad arbitral que lo emite;
+
+b) Nombres y domicilios de las partes;
+
+c) Un extracto de los hechos y los dictámenes emitidos;
+
+d) El responsable del accidente de tránsito;
+
+e) El monto de la reparación del daño;
+
+f) La determinación de que el vehículo, en su caso, queda depositado en garantía del afectado, en los términos señalados en este artículo.
+
+5. Ejecución del Laudo:
+
+El laudo arbitral tendrá carácter de cosa juzgada y podrá hacerse efectivo en la vía de apremio prevista en el Código de Procedimientos Civiles del Estado.
+
+El responsable de los daños tendrá un plazo de ocho días para realizar el pago respectivo.
+
+De no realizarse el pago, el interesado tendrá expedito su derecho para promover en la vía de apremio, ante las autoridades judiciales competentes.
+
+6. El Oficial Calificador entregará a los interesados copia certificada del laudo respectivo.
+
+> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
+i) Las demás que les atribuyan los ordenamientos municipales aplicables, previo el pago de los derechos correspondientes.
 
 ###### Artículo 151.
 
@@ -2681,15 +2737,21 @@ IV. Ordenar la detención que sea competencia de otras autoridades.
 
 Para el debido cumplimiento de las atribuciones que en este capítulo se previenen, cada ayuntamiento determinará la forma de organización y funcionamiento de las oficialías conciliadoras y calificadoras de su municipio.
 
+> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 153.
 
-Las faltas temporales de los oficiales conciliadores y calificadores serán cubiertas por el secretario de la propia oficialía o por el servidor público que el ayuntamiento designe, quienes estarán habilitados para actuar en nombre del titular, siempre y cuando cumplan los requisitos de ley.
+Las faltas temporales de los oficiales calificadores serán cubiertas por el secretario de la propia oficialía o por el servidor público que el Presidente Municipal designe, quienes estarán habilitados para actuar en nombre del titular, siempre y cuando cumplan los requisitos de Ley.
 
-### CAPITULO UNICO. De las Responsabilidades de los Servidores Públicos Municipales
+### CAPITULO SEGUNDO. De las Sanciones
 
 ###### Artículo 154.
 
 Contra los actos y resoluciones administrativos que dicten o ejecuten las autoridades competentes, en aplicación del presente ordenamiento, los particulares afectados tendrán la opción de interponer el recurso administrativo de inconformidad ante la propia autoridad o el juicio ante el Tribunal de lo Contencioso Administrativo, conforme a las disposiciones del Código de Procedimientos Administrativos del Estado de México.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
+
+### CAPITULO UNICO. De las Responsabilidades de los Servidores Públicos Municipales
 
 ###### Artículo 155.
 
@@ -3307,6 +3369,10 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 
 SEGUNDO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "Gaceta del Gobierno", y se aplicará a los Ayuntamientos que inicien su ejercicio constitucional el 1 de enero del año 2013.
 
+> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
+TERCERO.- Para efectos del presente Decreto, los Delegados y Subdelegados municipales, así como los Consejos de Participación Ciudadana electos para el periodo 2009-2012, concluirán su mandato el día 15 de abril del año 2013.
+
 G.G. 19 DE AGOSTO DE 2011.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
@@ -3436,6 +3502,66 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 G.G. 10 DE AGOSTO DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 24 DE AGOSTO DE 2012.
+
+DECRETO NÚMERO 490 POR EL QUE SE REFORMAN LOS INCISOS F) Y J) DE LA FRACCIÓN I, EL INCISO H) DE LA FRACCIÓN II DEL ARTÍCULO 150; Y, EL ARTÍCULO 153; SE ADICIONA EL INCISO F) A LA FRACCIÓN I DEL ARTÍCULO 149 Y, EL INCISO I) A LA FRACCIÓN II DEL ARTÍCULO 150; Y SE DEROGA EL INCISO A) DE LA FRACCIÓN II DEL ARTÍCULO 150 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Las gestiones, procedimientos y demás actos que se encuentren en trámite en los depósitos vehiculares al momento de la entrada en vigor del presente Decreto, se concluirán de conformidad con las disposiciones jurídicas vigentes hasta ese momento.
+
+CUARTO.- En un plazo de treinta días hábiles siguientes a la entrada en vigor del presente Decreto, el Titular del Ejecutivo del Estado proveerá en la esfera administrativa el cumplimiento del mismo, expidiendo y en su caso, reformando las disposiciones reglamentarias respectivas.
+
+QUINTO.- Noventa días naturales a partir de la entrada en vigor de la presente reforma, todos los vehículos que los concesionarios tengan bajo su resguardo, por más de dos años, serán susceptibles de ser incluidos en el procedimiento de declaración de abandono para los efectos de enajenación previsto, por lo que deberán informar a la Secretaría del Transporte de tal situación, con excepción de los vehículos que tengan reporte de robo, números remarcados o alterados, porten placas de procedencia extranjera, los cuales deberán hacer del conocimiento al Ministerio Público para que determine lo procedente.
+
+SEXTO.- Los Oficiales Mediadores Conciliadores contarán con un plazo improrrogable de dos años siguientes a la entrada en vigor del presente Decreto, para certificarse por el Centro de Mediación, Conciliación y de Justicia Restaurativa del Poder Judicial del Estado de México.
+
+SÉPTIMO.- La Procuraduría General de Justicia del Estado de México en un plazo máximo de dos meses posteriores a la entrada en vigor del presente Decreto, depurará todos los vehículos que se encuentren a su disposición en los depósitos vehiculares y que por algún motivo sus propietarios, durante un año no los han reclamado, no se ha acreditado su propiedad, se encuentren remarcados; adicionalmente, revisarán las averiguaciones previas que se encuentren en reserva con la finalidad de determinar si ha operado la prescripción de la acción penal y en aquellas que se haya decretado el no ejercicio de la acción penal, con la finalidad de emitir la Declaratoria de abandono en favor del Estado en términos de la presente reforma.
+
+OCTAVO.- En un plazo no mayor a seis meses, la Procuraduría General de Justicia del Estado de México, establecerá un depósito vehicular en la Zona Oriente del Estado de México.
+
+NOVENO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en las presentes reformas.
+
+G.G. 24 DE AGOSTO DE 2012.
+
+DECRETO NÚMERO 493 POR EL QUE SE ADICIONA AL TÍTULO QUINTO EL CAPÍTULO SEGUNDO BIS DENOMINADO "DE LA ACCIÓN POPULAR", AL CUAL SE ADICIONAN LOS ARTÍCULOS 154 A, 154 B, 154 C Y 154 D DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 24 DE AGOSTO DE 2012.
+
+DECRETO NÚMERO 494 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN XXV BIS DEL ARTÍCULO 31 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- El Ejecutivo Estatal y los Ayuntamientos expedirán las disposiciones reglamentarias del presente Decreto en un plazo no mayor a tres meses, contados a partir de su publicación. Los establecimientos que estén funcionando de manera regular, pero que se encuentren en los supuestos contemplados en este Decreto, tendrán como límite para situarse en lugar permitido hasta un año a partir de la fecha de entrada en vigor de éste.
+
+CUARTO.- La autoridad municipal notificará a los poseedores, propietarios o titulares de las licencias de funcionamiento de los establecimientos, del plazo concedido en el artículo transitorio anterior.
+
+G.G. 24 DE AGOSTO DE 2012.
+
+DECRETO NÚMERO 495 POR EL QUE SE ADICIONA LA FRACCIÓN XVII RECORRIÉNDOSE LA ACTUAL XVII PARA SER XVIII AL ARTÍCULO 112 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan los ordenamientos jurídicos de igual o menor jerarquía, que se opongan a lo dispuesto por el presente Decreto.
+
+G.G. 24 DE AGOSTO DE 2012.
+
+DECRETO NÚMERO 502 POR EL QUE SE ADICIONA EL ARTÍCULO TERCERO TRANSITORIO AL DECRETO NÚMERO 324, PUBLICADO EN LA GACETA DEL GOBIERNO DEL ESTADO DE MÉXICO, CON FECHA DEL 16 DE AGOSTO DE 2011.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
