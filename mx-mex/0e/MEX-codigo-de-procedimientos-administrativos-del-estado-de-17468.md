@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-administrativos-del-estado-de-17468"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-07"
-last_updated: "2011-08-30"
+last_updated: "2012-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17468&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MEXICO
 
-CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MEXICO
+CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE AGOSTO DE 2012.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 7 de febrero de 1997.
 
@@ -589,7 +589,9 @@ Cuando la autoridad administrativa o el Tribunal lo consideren indispensable par
 
 En los supuestos en que proceda de oficio, la autoridad administrativa o el Tribunal nombrarán a los peritos, preferentemente de entre los adscritos a las dependencias públicas.
 
-Los honorarios de los peritos designados por las partes serán pagados por éstas.
+> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
+Los honorarios de los peritos designados por las partes serán pagados por éstas. En caso de que existan diferencias en los dictámenes presentados por los peritos, en alguno o algunos de los puntos esenciales sobre los que verse la prueba pericial, el Tribunal nombrará un perito tercero en discordia, mismo que será designado dentro de los que existan en el Tribunal Superior de Justicia o de los miembros de Servicios Periciales del Gobierno del Estado de México, entregándole copia de los dictámenes discordantes y previniéndole para que rinda su dictamen en un plazo mínimo de 15 días, sin posibilidad de prórroga. Cuando haya lugar a designar perito tercero valuador, el nombramiento deberá recaer en una institución de crédito, debiendo cubrirse sus honorarios por las partes. En los demás casos los cubrirá el Tribunal.
 
 En caso de que existan diferencias en los dictámenes presentados por los peritos, en alguno o algunos de los puntos esenciales sobre los que verse la prueba pericial, dichas diferencias se razonarán, en forma cuidadosa, al resolver el asunto, sin necesidad de nombrar perito tercero en discordia.
 
@@ -1309,9 +1311,11 @@ V. La expresión en los puntos resolutivos de la reposición del procedimiento q
 
 El proceso administrativo ante el Tribunal se substanciará y resolverá con arreglo a las disposiciones de los títulos primero y tercero de este Código.
 
+> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 200.
 
-El proceso administrativo comprende al juicio contencioso administrativo ante las salas regionales del Tribunal y al recurso de revisión y otros trámites ante la sala superior del mismo.
+El proceso administrativo comprende al juicio contencioso administrativo y la acción popular ante las salas regionales del Tribunal y, al recurso de revisión y otros trámites ante la sala superior del mismo.
 
 ### CAPITULO SEGUNDO. Del Tribunal de lo Contencioso Administrativo
 
@@ -1383,7 +1387,7 @@ Las licencias a los magistrados serán concedidas por la Sala Superior hasta por
 
 El Tribunal tendrá un Presidente, quien durará en su encargo tres años, pudiendo ser reelecto por otro período igual.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 21 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 211.
 
@@ -1431,7 +1435,7 @@ El pleno estará integrado por los magistrados de las secciones de Sala Superior
 
 Las resoluciones del pleno se tomarán por unanimidad o por mayoría de votos de sus integrantes presentes, quienes no podrán abstenerse de votar sino cuando tengan impedimento legal. En caso de empate el Presidente del Tribunal tendrá voto de calidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 21 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 218.
 
@@ -1575,7 +1579,9 @@ Las salas regionales tendrán la jurisdicción y la residencia que señale el re
 
 Son atribuciones de los magistrados de las salas regionales:
 
-I. Tramitar y resolver los juicios contencioso (sic) administrativos de la competencia de la sala;
+> <small>(REFORMADA, G.G. 24 DE AGOSTO DE 2012)</small>
+
+I. Tramitar y resolver los juicios contencioso administrativos de la competencia de la sala, tramitar y resolver las acciones populares;
 
 II. Conocer del cumplimiento de las resoluciones, en los juicios en que hayan intervenido;
 
@@ -1605,7 +1611,7 @@ La competencia de las salas regionales por razón de territorio se determina por
 
 #### SECCION SEGUNDA. De la Demanda
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 25 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE NOVIEMBRE DE 2004)</small>
 
 ###### Artículo 229.
 
@@ -1823,7 +1829,7 @@ En los juicios en que no exista tercero interesado, las autoridades u organismos
 
 #### SECCION QUINTA. De las Cuestiones Previas
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 25 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE NOVIEMBRE DE 2004)</small>
 
 ###### Artículo 254.
 
@@ -2053,9 +2059,43 @@ No podrá archivarse ningún juicio contencioso administrativo sin que se haya c
 
 Las disposiciones anteriores se aplicarán en lo conducente cuando no se de cumplimiento, se viole o exista exceso o defecto en la ejecución del acuerdo de suspensión que se hubiere decretado respecto del acto impugnado.
 
-### CAPITULO CUARTO. Del Recurso de Revisión
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
-### CAPITULO QUINTO. De la Jurisprudencia
+### CAPITULO TERCERO BIS. De la Acción Popular
+
+> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
+Artículo 284 A.- La acción popular es una acción pública que será procedente para proteger los derechos e intereses colectivos contenidos en las materias que señala el artículo 1.1 en sus fracciones I, II, V, VII, VIII, IX, X y XI del Código Administrativo del Estado de México.
+
+La protección de los derechos e intereses colectivos a que se refiere el párrafo anterior, comprenderán la prevención y restauración del agravio contingente, en el marco de respeto y aplicación irrestricta de los derechos fundamentales de las personas.
+
+> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
+Artículo 284 B.- La iniciativa popular se sustanciará y resolverá con arreglo a las disposiciones de los títulos primero y tercero de este Código.
+
+> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
+Artículo 284 C.- En el escrito inicial de demanda se describirán los siguientes requisitos:
+
+a). Identificación del derecho o interés colectivo agraviado o que se pretende proteger;
+
+b). Los hechos, actos u omisiones que la motivan;
+
+c). Enunciación de las pretensiones;
+
+d). Señalamiento de la autoridad responsable;
+
+e). Descripción de las pruebas que justifican la acción;
+
+f. Domicilio para recibir notificaciones;
+
+g). Listado de nombres de los accionantes el cual no deberá ser menor a diez personas por cada derecho o interés colectivo que se argumente.
+
+> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
+Artículo 284 D.- En la acción popular procede el recurso de revisión ante la Sala Superior, en los términos y contra los actos previstos en los artículos 285, 286, 287 y 288 de este Código.
+
+### CAPITULO CUARTO. Del Recurso de Revisión
 
 ###### Artículo 285.
 
@@ -2099,11 +2139,9 @@ IV. Sólo se tomarán en consideración las pruebas que se hubiesen aportado en 
 
 V. Se suplirá la deficiencia de los agravios del particular demandante, cuando el caso lo requiera, pero sin cambiar los hechos planteados.
 
+### CAPITULO QUINTO. De la Jurisprudencia
+
 ### CAPITULO PRIMERO. Del Consejo de la Justicia Administrativa
-
-> <small>(ADICIONADO, G.G. 25 DE NOVIEMBRE DE 2004)</small>
-
-### CAPITULO SEGUNDO. Del Fondo Auxiliar para la Justicia Administrativa
 
 > <small>(ADICIONADO, G.G. 25 DE NOVIEMBRE DE 2004)</small>
 
@@ -2131,13 +2169,13 @@ Las jurisprudencias que sustente la sala superior, se publicarán en la «Gaceta
 
 Cuando las partes invoquen la jurisprudencia del Tribunal, lo harán por escrito, expresando el número, el texto y las tesis que la integran.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.G. 25 DE NOVIEMBRE DE 2004)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 25 DE NOVIEMBRE DE 2004)</small>
 
 ## TITULO CUARTO. De los Organismos Administrativos del Tribunal
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 25 DE NOVIEMBRE DE 2004)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 25 DE NOVIEMBRE DE 2004)</small>
 
-### CAPITULO TERCERO. Del Instituto de Formación Profesional
+### CAPITULO SEGUNDO. Del Fondo Auxiliar para la Justicia Administrativa
 
 > <small>(ADICIONADO, G.G. 25 DE NOVIEMBRE DE 2004)</small>
 
@@ -2159,7 +2197,11 @@ El Secretario General del Pleno lo será también del Consejo.
 
 Las funciones y atribuciones de los integrantes del Consejo de la Justicia Administrativa, se establecerán en el Reglamento Interior del Tribunal.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 25 DE NOVIEMBRE DE 2004)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 25 DE NOVIEMBRE DE 2004)</small>
+
+### CAPITULO TERCERO. Del Instituto de Formación Profesional
+
+> <small>(ADICIONADO, G.G. 25 DE NOVIEMBRE DE 2004)</small>
 
 ###### Artículo 297.
 
@@ -2203,7 +2245,7 @@ Las sumas o valores que se reciban en el reglón (sic) de fondo ajeno, serán re
 
 El Consejo de la Justicia Administrativa, atenderá la administración y manejo del Fondo, mediante un coordinador administrativo que en todo tiempo informará al Consejo y cumplirá las instrucciones del Presidente.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 25 DE NOVIEMBRE DE 2004)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 25 DE NOVIEMBRE DE 2004)</small>
 
 ###### Artículo 301.
 
@@ -2251,7 +2293,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. HECTOR XIMENEZ GONZALEZ (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 G.G. 21 DE DICIEMBRE DE 2001.
 
@@ -2416,3 +2458,19 @@ El presente Decreto entrará en vigor a los 30 días naturales siguientes al de 
 ###### ARTÍCULO TERCERO.
 
 Las peticiones que se encuentran en trámite al entrar en vigor este Decreto, se decidirán conforme a las disposiciones legales anteriores al mismo.
+
+G.G. 24 DE AGOSTO DE 2012.
+
+DECRETO NÚMERO 492, POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 85 DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 24 DE AGOSTO DE 2012.
+
+DECRETO NÚMERO 493, POR EL QUE SE REFORMAN LOS ARTÍCULOS 200 Y 227 EN SU FRACCIÓN I Y SE ADICIONA AL TÍTULO TERCERO EL CAPÍTULO TERCERO BIS DENOMINADO "DE LA ACCIÓN POPULAR" AL CUAL SE ADICIONAN LOS ARTÍCULOS 284 A, 284 B, 284 C Y 284 D DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
