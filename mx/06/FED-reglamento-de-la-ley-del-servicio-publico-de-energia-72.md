@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-del-servicio-publico-de-energia-72"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-05-31"
-last_updated: "2001-05-24"
+last_updated: "2012-08-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "1993-05-26"
 ---
 # REGLAMENTO DE LA LEY DEL SERVICIO PUBLICO DE ENERGIA ELECTRICA
 
-REGLAMENTO DE LA LEY DEL SERVICIO PUBLICO DE ENERGIA ELECTRICA
+REGLAMENTO DE LA LEY DEL SERVICIO PÚBLICO DE ENERGÍA ELÉCTRICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE MAYO DE 2001.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE AGOSTO DE 2012.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación el lunes 31 de mayo de 1993.
 
@@ -37,61 +37,51 @@ REGLAMENTO DE LA LEY DEL SERVICIO PUBLICO DE ENERGIA ELECTRICA
 
 El presente ordenamiento tiene por objeto reglamentar la Ley del Servicio Público de Energía Eléctrica en lo que se refiere a la prestación de dicho servicio y a las actividades previstas en la propia Ley que no constituyen servicio público.
 
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 2o.
 
-Para efectos de este Reglamento, se entenderá por:
+Para los efectos de este Reglamento, se entenderá por:
 
-I. Comisión:
+I. Comisión: La Comisión Federal de Electricidad;
 
-La Comisión Federal de Electricidad;
+II. Contrato de suministro: El acuerdo de voluntades por el cual el suministrador, en una relación de coordinación, se obliga a proporcionar energía eléctrica al usuario, a cambio del pago de la tarifa correspondiente;
 
-II. Distribución:
+III. Distribución: La conducción de energía eléctrica desde los puntos de entrega de la transmisión hasta los puntos de suministro a los usuarios;
 
-La conducción de energía eléctrica desde los puntos de entrega de la transmisión hasta los puntos de suministro a los usuarios;
+IV. Especificaciones técnicas del suministrador: Las normas técnicas, procedimientos, características y requisitos que deben cumplir los equipos, los materiales y las instalaciones que se incorporen al sistema eléctrico nacional, elaboradas por el suministrador y aprobadas por la Secretaría;
 
-III. Generación:
+V. Facturación: Cálculo, en moneda nacional, del consumo de energía eléctrica que el suministrador debe incluir en el aviso-recibo que, para tal efecto, elabore con base en la información contenida en el dispositivo electrónico que presente el usuario en los lugares autorizados por el suministrador, la que se conocerá como facturación en punto de venta, o con base en la información que recabe el suministrador y que remita al usuario a su domicilio o a través de los medios que convengan;
 
-La producción de energía eléctrica a partir de fuentes primarias de energía, utilizando los sistemas y equipos correspondientes;
+VI. Generación: La producción de energía eléctrica a partir de fuentes primarias de energía, utilizando los sistemas y equipos correspondientes;
 
-IV. Ley:
+VII. Ley: La Ley del Servicio Público de Energía Eléctrica;
 
-La Ley del Servicio Público de Energía Eléctrica;
+VIII. Mantenimiento: El conjunto de actividades para conservar las obras e instalaciones en adecuado estado de funcionamiento para la prestación del servicio;
 
-V. Mantenimiento:
+IX. Operación: El conjunto de actividades a cargo del suministrador para generar, transmitir, transformar, distribuir y vender energía eléctrica, así como las de controlar y proteger el sistema eléctrico nacional;
 
-El conjunto de actividades para conservar las obras e instalaciones en adecuado estado de funcionamiento para la prestación del servicio público;
+X. Pago de energía eléctrica: Es la entrega de la cantidad en moneda nacional que hace el usuario al suministrador, por la prestación del servicio y que corresponde a la energía eléctrica suministrada y demás conceptos que integran la tarifa en un periodo determinado;
 
-VI. Operación:
+XI. Prepago de energía eléctrica: Es la entrega de una cantidad, en moneda nacional, que hace el usuario al suministrador por la prestación del servicio y corresponde al equivalente a la energía eléctrica que consumirá, indicada en la facturación respectiva conforme a la tarifa vigente al momento del prepago;
 
-El conjunto de actividades a cargo del suministrador para generar, transmitir, transformar y distribuir energía eléctrica, así como las de controlar y proteger el sistema eléctrico nacional;
+XII. Secretaría: La Secretaría de Energía;
 
-VII. Secretaría:
+XIII. Servicio: El servicio público de energía eléctrica;
 
-La Secretaría de Energía, Minas e Industria Paraestatal;
+XIV. Sistema eléctrico nacional: El conjunto de instalaciones destinadas a la generación, transmisión, transformación, subtransmisión, distribución y venta de energía eléctrica de servicio en toda la República Mexicana, estén o no interconectadas;
 
-VIII. Sistema eléctrico nacional:
+XV. Solicitante: La persona física o moral que presenta una petición al suministrador, por los medios que este último indique;
 
-El conjunto de instalaciones destinadas a la generación, transmisión, transformación, subtransmisión, distribución y venta de energía eléctrica de servicio público en toda la República, estén o no interconectadas;
+XVI. Suministrador: La Comisión Federal de Electricidad;
 
-IX. Suministrador:
+XVII. Suministro: El conjunto de actos y trabajos necesarios para proporcionar energía eléctrica;
 
-La Comisión Federal de Electricidad, y en lo conducente las entidades mencionadas en el artículo cuarto transitorio de la Ley;
+XVIII. Transformación: La modificación de las características de la tensión y de la corriente eléctrica, para adecuarlas a las necesidades de transmisión y distribución de la energía eléctrica;
 
-X. Suministro:
+XIX. Transmisión: La conducción de energía eléctrica desde las plantas de generación hasta los puntos de entrega para su distribución, y
 
-El conjunto de actos y trabajos necesarios para proporcionar energía eléctrica a cada usuario;
-
-XI. Transformación:
-
-La modificación de las características de la tensión y de la corriente eléctrica, para adecuarlas a las necesidades de transmisión y distribución de la energía eléctrica;
-
-XII. Transmisión:
-
-La conducción de energía eléctrica desde las plantas de generación hasta los puntos de entrega para su distribución, y
-
-XIII. Usuario:
-
-Persona física o moral que hace uso de la energía eléctrica proporcionada por el suministrador, previo contrato celebrado por las partes.
+XX. Usuario: Persona física o moral a la que el suministrador le proporciona el servicio, previo contrato celebrado por las partes.
 
 ###### Artículo 3o.
 
@@ -105,21 +95,31 @@ Salvo disposición en contrario, los plazos y términos fijados en este Reglamen
 
 El suministrador y todas las personas mencionadas en este Reglamento proporcionarán a la Secretaría y a las dependencias competentes de la administración pública federal la información prevista en la Ley y este Reglamento.
 
+> <small>(ADICIONADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
+###### Artículo 5o. Bis.
+
+Para los efectos de lo dispuesto por el artículo 6o. de la Ley, los programas para la realización de obras para la prestación del servicio que someta el suministrador a consideración de la Secretaría, en relación con los actos previstos en el artículo 4o. de la Ley, deberán promover la seguridad, eficiencia, calidad, estabilidad y continuidad del servicio, y observar las directrices económicas y sociales que disponga la Secretaría para el sector eléctrico. Lo anterior sin perjuicio de los aspectos técnicos relacionados con la generación, transmisión y distribución de energía eléctrica que son responsabilidad exclusiva del suministrador.
+
 ### CAPITULO II. De las Obligaciones y Facultades del Suministrador
+
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 6o.
 
-Sólo con autorización de la Secretaría, podrá el suministrador llevar a cabo las obras para la prestación del servicio público. Cualquier modificación a los programas relativos será sometida a la autorización de la misma.
+Sólo con autorización de la Secretaría podrá el suministrador llevar a cabo las obras para la prestación del servicio y cualquier modificación a los programas relativos será sometida a la autorización de la misma.
 
-En el caso de las obras consistentes en la construcción de nuevas instalaciones de generación, dicha autorización deberá otorgarse de conformidad con lo dispuesto en el artículo 125, fracción III.
+En el caso de las obras consistentes en la construcción de nuevas instalaciones de generación, la autorización a que se refiere el párrafo anterior deberá otorgarse de conformidad con lo dispuesto en el artículo 125, fracción III de este Reglamento.
 
-No requerirán autorización previa de la Secretaría, las obras específicas de ampliación y modificación solicitadas por los usuarios, mencionadas en la fracción VII del artículo 13 de la Ley.
+No requerirán autorización previa de la Secretaría, las obras específicas, de ampliación y modificación solicitadas por los usuarios o solicitantes, mencionadas en la fracción VII del artículo 13 de la Ley.
 
-Las obras de electrificación para comunidades rurales y áreas suburbanas que se realicen con la colaboración de los gobiernos de las entidades federativas, se sujetarán a las disposiciones que consignen los acuerdos de coordinación que celebren aquéllos con el Ejecutivo Federal.
+Las obras de electrificación para comunidades rurales y áreas suburbanas que se realicen con la colaboración de los gobiernos de los Estados y del Distrito Federal se sujetarán a las disposiciones que consignen los acuerdos de coordinación que celebren aquéllos con el Ejecutivo Federal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 7o.
 
-El suministrador gestionará las autorizaciones que se requieran por parte de las dependencias competentes, para importar, exportar o intercambiar energía eléctrica, dentro de las actividades relativas al servicio público.
+El suministrador gestionará las autorizaciones que se requieran por parte de las dependencias competentes para importar, exportar o intercambiar energía eléctrica, dentro de las actividades relativas al servicio.
 
 La Secretaría autorizará dichas gestiones en los siguientes supuestos:
 
@@ -141,27 +141,55 @@ III. Intercambio de energía eléctrica con prestadores del servicio de energía
 
 El suministrador informará mensualmente a la Secretaría sobre la cantidad de energía eléctrica generada, importada, exportada, comprada y vendida.
 
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 9o.
 
-Las especificaciones de obras e instalaciones que el suministrador emita para su observancia por los particulares, deberán propiciar que los requerimientos técnicos de que se trate puedan satisfacerse de manera económicamente eficiente, introduciendo los adelantos tecnológicos que sean apropiados. La elaboración de dichas especificaciones, lo mismo que el proceso para su aprobación por la Secretaría, en su caso, se sujetarán a lo dispuesto por la Ley Federal sobre Metrología y Normalización.
+Las especificaciones técnicas del suministrador deberán propiciar que los requerimientos de que se trate puedan satisfacerse de manera económicamente eficiente, introduciendo los adelantos tecnológicos que sean apropiados. La elaboración de dichas especificaciones, lo mismo que el proceso para su aprobación por la Secretaría, en su caso, se sujetará a lo dispuesto por la Ley Federal sobre Metrología y Normalización.
 
 ###### Artículo 10.
 
 El suministrador formulará anualmente sus programas de necesidades de equipos y materiales para los cinco años siguientes, como mínimo, y adoptará las medidas conducentes a fin de adquirir los insumos que requiera en las mejores condiciones de calidad, cantidad, oportunidad y precio.
 
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 11.
 
-El suministrador podrá celebrar convenios y contratos con los gobiernos de las entidades federativas, los municipios, las entidades paraestatales o con particulares, para realizar actos relacionados con la prestación del servicio público y actividades conexas, con el fin de mejorar el aprovechamiento de sus recursos, así como simplificar y facilitar las labores administrativas relativas al servicio público.
+El suministrador podrá celebrar convenios y contratos con los gobiernos de los Estados y del Distrito Federal, los municipios, las entidades paraestatales o con particulares, para realizar actos relacionados con la prestación del servicio y actividades conexas, con el fin de mejorar el aprovechamiento de sus recursos, así como simplificar y facilitar las labores administrativas relativas al servicio.
+
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 12.
 
-Los términos y condiciones en que los solicitantes del suministro deberán efectuar las aportaciones previstas en el artículo 13 de la Ley, serán establecidos en el reglamento respectivo.
+Los términos y condiciones en que los solicitantes del suministro deberán efectuar las aportaciones previstas en el artículo 13 de la Ley, serán establecidos en el Reglamento de la Ley del Servicio Público de Energía Eléctrica, en Materia de Aportaciones.
 
 ### CAPITULO III. De las Obras Eléctricas para el Servicio Público
 
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 13.
 
-Las obras eléctricas necesarias para la prestación del servicio público se sujetarán a las normas oficiales mexicanas y, en su caso, a las especificaciones del suministrador aprobadas por la Secretaría.
+Las obras eléctricas necesarias para la prestación del servicio se sujetarán a las normas oficiales mexicanas y, en su caso, a las especificaciones técnicas del suministrador.
+
+> <small>(ADICIONADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
+###### Artículo 13 Bis.
+
+Para la revisión y aprobación de las especificaciones técnicas del suministrador, se estará a lo siguiente:
+
+I. El suministrador entregará a la Secretaría la propuesta de las especificaciones técnicas del suministrador;
+
+II. La Secretaría, dentro de un plazo de tres días contados a partir de la recepción de la propuesta a que se refiere la fracción anterior, la pondrá a disposición del público por medio de un vínculo en la página principal de su sitio de Internet, para comentarios u opiniones;
+
+III. La recepción de los comentarios u opiniones a que se refiere la fracción anterior, se realizará dentro de los quince días siguientes a la fecha en la cual la propuesta de las especificaciones técnicas del suministrador se haya puesto a disposición del público;
+
+IV. La Secretaría, dentro de los cuarenta y cinco días posteriores al término del plazo señalado en la fracción anterior, tomando en consideración las opiniones pertinentes del público, aprobará las especificaciones técnicas del suministrador o, en su caso, notificará al suministrador las observaciones o modificaciones a que hubiere lugar;
+
+V. De existir observaciones o modificaciones por parte de la Secretaría, el suministrador deberá entregar dentro de los cuarenta y cinco días siguientes a la fecha de la notificación a que se refiere la fracción anterior, la propuesta de especificaciones técnicas del suministrador que atienda dichas observaciones o modificaciones. Cuando el suministrador no acepte alguna observación o modificación, pondrá a disposición de la Secretaría los argumentos por los cuales las considera improcedentes, y
+
+VI. Una vez que el suministrador haya atendido las observaciones o modificaciones que se hayan derivado del análisis de los argumentos a que se refiere la fracción anterior, la Secretaría, de considerarlo procedente, aprobará las especificaciones técnicas del suministrador.
+
+Las especificaciones técnicas del suministrador deberán ser publicadas por medio de un vínculo en las páginas principales de los sitios de Internet de la Secretaría, de la Comisión Reguladora de Energía y del suministrador, dentro de los cinco días siguientes a su aprobación.
 
 ###### Artículo 14.
 
@@ -169,9 +197,11 @@ Cuando un proyecto de obras se realice por personal ajeno al suministrador, aqu�
 
 Cuando el suministrador lo considere conveniente, podrá solicitar de las autoridades correspondientes que se le preste la ayuda necesaria para la realización de sus obras.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 15.
 
-El suministrador podrá ejecutar en las calles, jardines, plazas y demás lugares públicos, los trabajos necesarios para la instalación, mantenimiento, retiro de líneas aéreas o subterráneas o equipo destinado al servicio público, sin que por este motivo contraiga obligación de pago alguno con las autoridades correspondientes.
+El suministrador podrá ejecutar en las calles, jardines, plazas y demás lugares públicos, los trabajos necesarios para la instalación, mantenimiento o retiro de líneas aéreas o subterráneas o equipo destinado al servicio, sin que por este motivo contraiga obligación de pago alguno con las autoridades correspondientes.
 
 Para la ejecución de los trabajos en la vía pública en que se llegara a impedir en forma transitoria el uso de ésta, el suministrador solicitará la autorización de la autoridad correspondiente, excepto en los casos de emergencia, indicando el plazo en que ejecutará los trabajos. Al término de éstos, el suministrador hará las reparaciones correspondientes, utilizando materiales similares a los originales y de acuerdo con los términos de la autorización concedida.
 
@@ -179,9 +209,11 @@ Todos los trabajos deberán ejecutarse adoptando las medidas de seguridad apropi
 
 ### CAPITULO IV. De las Obras para Alumbrado Público y Urbanización de Fraccionamientos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 16.
 
-La construcción, operación, mantenimiento y reparación de las obras e instalaciones requeridas para la prestación del servicio municipal de alumbrado público, así como la ejecución de los proyectos correspondientes y de cualquier trabajo relacionado con dicho servicio, estarán a cargo de la dependencia o entidad competente.
+La construcción, operación, mantenimiento y reparación de las obras e instalaciones requeridas para la prestación del servicio municipal de alumbrado público, así como la ejecución de los proyectos correspondientes y de cualquier trabajo relacionado con dicho servicio, no estarán a cargo de la Comisión.
 
 Las obras e instalaciones del servicio municipal de alumbrado público en ningún caso formarán parte integrante del sistema eléctrico del suministrador y, para los efectos del presente Reglamento, se equipararán a las destinadas al uso de la energía eléctrica en lo concerniente a las relaciones entre el prestador del servicio de alumbrado público y el suministrador.
 
@@ -189,23 +221,11 @@ Para fijar los límites de la responsabilidad del suministrador, en los contrato
 
 Los proyectos y la construcción de sistemas de alumbrado público se sujetarán, en lo conducente, a las normas oficiales mexicanas.
 
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 17.
 
-La construcción de las obras e instalaciones que formen parte de la urbanización correspondiente, necesaria para el suministro de energía eléctrica a los adquirentes o usuarios, se sujetará a lo siguiente:
-
-I. Los urbanizadores tendrán a su cargo la realización de las obras;
-
-II. Previamente acreditarán ante el suministrador haber obtenido, de las autoridades competentes, la correspondiente aprobación del fraccionamiento, anexando los planos de la lotificación respectiva;
-
-III. Deberán cumplir con las normas oficiales mexicanas y las especificaciones del suministrador y utilizar únicamente los materiales y equipos que cumplan con ellas;
-
-IV. El proyecto y el proceso de instalación deberán estar aprobados por el suministrador. Para esto responderá dentro de los treinta días siguientes a la presentación de los documentos respectivos por el interesado, entendiéndose el silencio del suministrador, transcurrido ese plazo, como una aprobación tácita;
-
-V. Las obras e instalaciones deberán ejecutarse bajo supervisión del suministrador;
-
-VI. El urbanizador deberá convenir con el suministrador, previamente a la ejecución de las obras e instalaciones, que una vez terminadas éstas serán transferidas en propiedad y entregadas con las formalidades del caso al suministrador, el cual tendrá a su cargo la operación y mantenimiento respectivos a partir de la recepción, y
-
-VII. Las obras e instalaciones requeridas para el servicio del alumbrado público, que en su caso deba efectuar el urbanizador de conformidad con la autorización que la dependencia o entidad competente le hubiere otorgado, deberán independizarse de las mencionadas en las fracciones precedentes y se entregarán por el urbanizador a la propia dependencia o entidad para su operación y mantenimiento.
+Las obras e instalaciones requeridas para el servicio del alumbrado público que, en su caso, deba efectuar el urbanizador de conformidad con la autorización que la dependencia o entidad competente le hubiere otorgado, deberán cumplir con las normas oficiales mexicanas y, en su caso, con las especificaciones técnicas del suministrador, así como ser independientes de las obras e instalaciones necesarias para el suministro a los usuarios, y ser entregadas por el urbanizador a la propia dependencia o entidad responsable de su operación y mantenimiento.
 
 ### CAPITULO V. Del Suministro y la Venta de Energía Eléctrica
 
@@ -217,17 +237,23 @@ I. Que la frecuencia sea de 60 Hertz, con una tolerancia de 0.8 por ciento en m�
 
 II. Que las tolerancias en el voltaje de alta, media o baja tensión no excedan de diez por ciento en más o en menos y tiendan a reducirse progresivamente.
 
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 19.
 
-En los casos en que el suministrador tenga disponibilidad en dos o más tensiones para dar el suministro, se atenderá a lo dispuesto en el artículo 12.
+En los casos en que el suministrador tenga disponibilidad en dos o más tensiones para dar el suministro, se atenderá a lo dispuesto en el artículo 13 del Reglamento de la Ley del Servicio Público de Energía Eléctrica, en Materia de Aportaciones.
+
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 20.
 
-El suministrador dará el suministro a todo el que lo solicite, previo cumplimiento de las disposiciones aplicables, sin preferencia alguna dentro de cada clasificación tarifaria, salvo que exista impedimento técnico o razones económicas que lo impidan. El suministro deberá proporcionarse en la tarifa que resulte aplicable, con base en la información que proporcione el usuario, al cual, en su caso, se le brindará la orientación necesaria por el suministrador.
+El suministrador dará el suministro a todo el que lo solicite, previo cumplimiento de las disposiciones aplicables, sin preferencia alguna dentro de cada clasificación tarifaria, salvo que exista impedimento técnico o razones económicas que lo impidan. El suministro deberá proporcionarse en la tarifa que resulte aplicable, con base en la información que proporcione el solicitante, al cual, en su caso, se le brindará la orientación necesaria por el suministrador.
 
-Se considera que existe impedimento técnico, cuando se requiera el suministro en condiciones que se aparten de las indicadas en el artículo 18 y el suministrador no pueda satisfacerlas, así como en los casos en que éste pueda abastecer de energía eléctrica únicamente en forma limitada o con restricciones, o que el plazo para iniciar el suministro exceda al requerido por el usuario.
+El solicitante del servicio podrá elegir entre las diversas opciones de facturación que preste el suministrador.
 
-Se considera que existen razones económicas que impiden el suministro, cuando el suministrador tenga que construir obras específicas adicionales a las existentes, en los términos del reglamento a que se refiere el artículo 12 y el solicitante no esté conforme en cubrir al suministrador dicho concepto.
+Se considera que existe impedimento técnico, cuando se requiera el suministro en condiciones que se aparten de las indicadas en el artículo 18 de este Reglamento y el suministrador no pueda satisfacerlas, así como en los casos en que éste pueda abastecer de energía eléctrica únicamente en forma limitada o con restricciones, o que el plazo para iniciar el suministro exceda al requerido por el usuario.
+
+Se considera que existen razones económicas que impiden el suministro cuando el suministrador tenga que construir obras específicas adicionales a las existentes, en los términos del Reglamento de la Ley del Servicio Público de Energía Eléctrica, en Materia de Aportaciones y el solicitante no esté conforme en cubrir al suministrador dicho concepto.
 
 ###### Artículo 21.
 
@@ -239,7 +265,9 @@ I. La obligación del suministrador de pagar una indemnización al usuario en pr
 
 El importe de dicha indemnización será del cincuenta por ciento del costo del nuevo equipo, si el existente tuviere cinco años o menos de utilización, y del treinta y tres por ciento, si el equipo existente tuviere entre cinco y diez años de utilización. El suministrador quedará exento de la obligación de indemnizar, si los equipos del usuario tuvieren más de diez años de utilización. Las partes determinarán de mutuo acuerdo el costo del nuevo equipo y la indemnización se pagará mediante compensaciones del suministrador del cincuenta por ciento o del treinta y tres por ciento, según los caso, en las facturaciones correspondientes por consumo eléctrico, hasta cubrir la indemnización.
 
-La capacidad de transformación máxima a indemnizar no podrá exceder el valor de la carga contratada en los términos del artículo 44, tomando como base las capacidades de transformación comercial, excluyéndose los equipos de reserva y capacidad excedente.
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
+La capacidad de transformación máxima a indemnizar no podrá exceder el valor de la carga contratada en los términos del artículo 44 de este Reglamento, tomando como base las capacidades de transformación comercial, excluyéndose los equipos de reserva y capacidad excedente.
 
 Para definir los años de utilización del equipo de una subestación, se tomará como base la fecha en que se conectó el suministro para ese equipo;
 
@@ -267,9 +295,13 @@ II. Diez días, en poblaciones con cinco mil a diez mil usuarios, y
 
 III. Quince días, en poblaciones con menos de cinco mil usuarios.
 
-Regirán los plazos anteriores, siempre y cuando el usuario cuente con la preparación para recibir el suministro, de acuerdo con lo dispuesto en las normas oficiales mexicanas correspondientes.
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
 
-Si el suministrador tuviere que construir obras específicas, ya sea para un nuevo suministro o por cambio de tensión del mismo a solicitud del usuario, proporcionará el suministro dentro del plazo señalado por el suministrador al formularse la solicitud.
+Los plazos anteriores regirán siempre y cuando el solicitante cuente con la preparación para recibir el suministro, de acuerdo con lo dispuesto en las normas oficiales mexicanas correspondientes.
+
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
+Si el suministrador tuviere que construir obras específicas, ya sea para un nuevo suministro o por cambio de tensión del mismo a solicitud del usuario o solicitante, proporcionará el suministro dentro del plazo señalado por el suministrador al formularse la solicitud.
 
 ###### Artículo 24.
 
@@ -289,65 +321,99 @@ La responsabilidad del suministrador cesa precisamente en el punto de conexión 
 
 El suministrador instalará las acometidas, los equipos y aparatos de medición que se requieran de acuerdo con las características del suministro; el usuario podrá instalar los equipos que juzgue necesarios para comprobar las mediciones que efectúe el suministrador, siempre que no interfieran en el funcionamiento de los aparatos y equipos de medición instalados por éste, siendo la lectura de estos últimos la que sirva de base para la facturación.
 
-El suministrador instalará la acometida y los equipos de medición en baja o media tensión, en el límite del inmueble del usuario; y en alta tensión, a nivel de transmisión y subtransmisión, a una distancia máxima de cinco metros dentro de dicho inmueble. Cuando se solicite una longitud mayor y el suministrador no tenga inconveniente, el usuario pagará el costo adicional.
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
+El suministrador instalará la acometida y los equipos de medición en baja o media tensión, en el límite del inmueble en el que se dará el suministro; y en alta tensión, a nivel de transmisión y subtransmisión, a una distancia máxima de cinco metros dentro de dicho inmueble. Cuando se solicite una longitud mayor y el suministrador no tenga inconveniente, el usuario pagará el costo adicional.
+
+> <small>(ADICIONADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
+###### Artículo 27 Bis.
+
+En baja o media tensión, el suministrador podrá instalar los equipos de medición al inicio o al final de la acometida.
+
+Cuando el suministrador instale el equipo de medición fuera del límite del inmueble en el que se dará el suministro, deberá entregar al usuario, sin costo alguno, un equipo propiedad del suministrador, que proporcione al usuario información sobre el consumo de energía eléctrica.
+
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 28.
 
 Cuando el suministro se dé en media o alta tensión, se procederá como sigue:
 
-I. El suministrador hará las obras que resulten necesarias para la conexión del suministro hasta el límite del inmueble del usuario. Para la construcción de dichas obras se estará a lo que establezca el reglamento a que se refiere el artículo 12;
+I. El suministrador hará las obras que resulten necesarias para la conexión del suministro hasta el límite del inmueble en el que se dará el suministro. Para la construcción de dichas obras se estará a lo que establezca el Reglamento de la Ley del Servicio Público de Energía Eléctrica, en Materia de Aportaciones;
 
-II. El usuario instalará la subestación requerida con la capacidad adecuada para satisfacer sus necesidades;
+II. El solicitante instalará la subestación requerida con la capacidad adecuada para satisfacer sus necesidades;
 
-III. El usuario construirá las obras necesarias dentro de su inmueble para recibir la acometida y para que el suministrador instale los equipos de medición correspondientes. En subestaciones compactas el usuario instalará un gabinete adicional. Si las condiciones de la subestación del usuario impiden la instalación del gabinete adicional, el usuario construirá una estructura con sus accesorios para recibir y sujetar la acometida y los equipos de protección y medición del suministrador, de acuerdo con las especificaciones de éste;
+III. El solicitante construirá las obras necesarias dentro del inmueble en el que se dará el suministro para recibir la acometida y para que el suministrador instale los equipos de medición correspondientes. En subestaciones compactas el solicitante instalará un gabinete adicional. Si las condiciones de la subestación del solicitante impiden la instalación del gabinete adicional, el solicitante construirá una estructura con sus accesorios para recibir y sujetar la acometida y los equipos de protección y medición del suministrador, de acuerdo con las especificaciones técnicas del suministrador;
 
-IV. Antes de proporcionar el suministro, el suministrador verificará que el medio de desconexión principal del usuario cumpla con las especificaciones para evitar riesgos en los equipos y las líneas del sistema eléctrico. La verificación por el suministrador no releva al usuario de su responsabilidad por defectos en su instalación;
+IV. Antes de proporcionar el suministro, el suministrador verificará que el medio de desconexión principal del solicitante cumpla con las especificaciones técnicas del suministrador para evitar riesgos en los equipos y las líneas del sistema eléctrico nacional. La verificación por el suministrador no releva al solicitante de su responsabilidad por defectos en su instalación;
 
-V. El suministrador instalará el equipo de medición en el lado de alta o de baja tensión de la subestación del usuario. Si el equipo de medición se tuviera que instalar en el lado de baja tensión, el usuario construirá las obras necesarias para alojar los conductores que vayan del lado de baja tensión de la subestación al equipo de medición cuando éste no se localice en la propia subestación, y
+V. El suministrador instalará el equipo de medición en el lado de alta o de baja tensión de la subestación del solicitante. Si el equipo de medición se tuviera que instalar en el lado de baja tensión, el solicitante construirá las obras necesarias para alojar los conductores que vayan del lado de baja tensión de la subestación al equipo de medición cuando éste no se localice en la propia subestación, y
 
-VI. Si la medición se efectúa en el lado de baja tensión de la subestación del usuario y éste solicita que se efectúe en el lado de alta tensión, el suministrador atenderá la solicitud del usuario si éste cubre la diferencia de costos de los respectivos equipos, así como de los trabajos necesarios para modificar la instalación.
+VI. Si la medición se efectúa en el lado de baja tensión de la subestación del solicitante y éste pide que se efectúe en el lado de alta tensión, el suministrador atenderá dicha solicitud si el solicitante cubre la diferencia de costos de los respectivos equipos, así como de los trabajos necesarios para modificar la instalación.
+
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 29.
 
-Cuando el suministro se proporcione en baja tensión se procederá como sigue:
+Cuando el suministro se proporcione en baja tensión se procederá como sigue, de conformidad con las especificaciones técnicas del suministrador:
 
-I. El usuario construirá la estructura necesaria para recibir la acometida si es aérea o las obras necesarias dentro de sus inmuebles si es subterránea, quedando a su cargo la instalación de la canalización de la estructura hasta la base o tablero con su respectivo conductor, y
+I. El solicitante construirá la estructura necesaria para recibir la acometida si es aérea o las obras necesarias dentro del inmueble en el que se dará el suministro si es subterránea, quedando a su cargo la instalación de la canalización de la estructura hasta la base o tablero con su respectivo conductor, y
 
-II. El usuario instalará una base o tablero sobre el cual se colocará el equipo de medición, de acuerdo con las especificaciones del suministrador.
+II. El solicitante instalará una base o tablero sobre el cual se colocará el equipo de medición, o destinará un espacio dentro del inmueble en el que se dará el suministro para colocar el equipo que le proporcione información sobre el consumo de energía eléctrica.
+
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 30.
 
-El suministrador colocará sellos en sus equipos, gabinetes e instrumentos de medición para evitar que se altere su funcionamiento y podrá removerlos, previo aviso al usuario, para efectuar los ajustes, reparaciones o inspecciones que se requieran en dichos equipos, excepto para la medición de demanda máxima durante el proceso de toma de lecturas, en que no se requerirá el aviso.
+El suministrador colocará sellos en sus equipos, gabinetes e instrumentos de medición para evitar que se altere su funcionamiento y podrá removerlos, previo aviso al usuario, para efectuar los ajustes, reparaciones o inspecciones que se requieran en dichos equipos, gabinetes e instrumentos excepto para la medición de demandas máximas durante el proceso de toma de lecturas, en que no se requerirá el aviso.
+
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 31.
 
-El suministrador verificará periódicamente, previo aviso al usuario, que los equipos de medición se ajusten a la exactitud establecida en la norma oficial mexicana del equipo y retirará los que no permitan su ajuste, sustituyéndolos por los adecuados.
+El suministrador deberá verificar periódicamente, previo aviso al usuario, que los equipos de medición se ajusten a la exactitud establecida en la norma oficial mexicana aplicable; cuando no exista ésta, a las establecidas en las especificaciones internacionales, las del país de origen o, a falta de éstas, las del fabricante y retirará los que no permitan su ajuste, sustituyéndolos por los adecuados.
 
-Cuando el equipo de medición instalado por el suministrador presente errores en el registro de consumo, fuera de la tolerancia permisible y siempre que no exista alteración o impedimento de la función normal de dicho equipo, se procederá como sigue:
+Si de la verificación a que se refiere el párrafo anterior el suministrador encuentra en el equipo de medición instalado errores en el registro de consumo, fuera de la tolerancia permisible y siempre que no exista alteración o impedimento de la función normal de dicho equipo, se procederá como sigue:
 
-I. De la verificación de los equipos de medición de energía, de demanda máxima o de determinación de factor de potencia, se obtendrán las relaciones entre los valores erróneos y los correctos, mismas que servirán para determinar los nuevos valores de energía consumida, de demanda máxima o de determinación de factor de potencia. Con los nuevos valores se calculará el importe de la compensación o del pago aplicando las cuotas de la tarifa que estuvieron vigentes en el periodo afectado;
+I. De la verificación de los equipos de medición de energía, de demandas máximas o de determinación de factor de potencia, se obtendrán las relaciones entre los valores erróneos y los correctos, mismas que servirán para determinar los nuevos valores de energía consumida, de demandas máximas y determinación del factor de potencia, según sea el caso;
 
-II. Si durante la verificación se encuentra que el equipo de medición no registra la energía activa y/o reactiva consumida, ésta se determinará tomando como base los registros anteriores a la descompostura o los posteriores a la corrección.
+II. Si durante la verificación se encuentra que el equipo de medición no registra la energía consumida activa, la energía consumida reactiva o ambas, éstas se determinarán tomando como base los registros anteriores a la descompostura o los posteriores a la corrección.
 
-En el caso de aplicación de una constante de medición diferente a la real o de la aplicación errónea de una tarifa, la energía consumida y no pagada se determinará aplicando la constante de medición real a las diferencias de mediciones o aplicando la tarifa correspondiente;
+En el caso de aplicación de una constante de medición diferente a la real o de la aplicación errónea de una tarifa, el consumo de energía eléctrica se determinará aplicando la constante de medición real a las diferencias de mediciones o aplicando la tarifa correspondiente;
 
-III. Los ajustes mencionados se aplicarán a un periodo no mayor de dos años;
+III. Los ajustes mencionados en las fracciones anteriores se aplicarán a un período no mayor de dos años;
 
-IV. El importe del ajuste se calculará aplicando las cuotas de las tarifas correspondientes vigentes en el lapso que se haya determinado. La cantidad resultante se comparará con el importe total de los recibos liquidados por el usuario de conformidad con los registros del suministrador, y la diferencia será la base para el pago;
+IV. El importe del ajuste respectivo incluirá los impuestos y derechos aplicables y se calculará aplicando las cuotas de las tarifas correspondientes vigentes, en el lapso que se haya determinado, a los valores correctos de energía consumida, demandas y factor de potencia, según sea el caso. La cantidad resultante se comparará con el importe total de los avisos-recibos liquidados por el usuario o de sus prepagos de energía eléctrica, cuando el usuario haya seleccionado esta modalidad, de conformidad con los registros del suministrador, y la diferencia será la base para el pago de energía eléctrica o la devolución, en términos del presente artículo;
 
-V. Si el importe del ajuste a la facturación es inferior a lo pagado por el usuario, el suministrador le compensará el importe de la energía pagada y no consumida. Si el importe del ajuste de la facturación es superior a lo pagado por el usuario, el suministrador le cobrará mediante la factura correspondiente el importe de la energía consumida y no pagada.
+V. Si el importe del ajuste a la facturación es inferior a lo pagado por el usuario, el suministrador le realizará la devolución de la diferencia entre ambas cantidades en efectivo o mediante acreditamiento, en moneda nacional, en la cuenta del usuario, a elección de éste. Si el importe del ajuste de la facturación es superior a lo pagado por el usuario, el suministrador le cobrará mediante la factura correspondiente la diferencia entre ambas cantidades;
 
-En ambos casos, el suministrador y el usuario convendrán la forma de efectuar la compensación o el pago;
+VI. El plazo para efectuar la devolución en efectivo o el acreditamiento en la cuenta del usuario a que se refiere este artículo, se fijará por mutuo acuerdo entre usuario y suministrador, pero no será mayor al plazo que abarque el ajuste, y
 
-VI. El plazo para efectuar la compensación o pago a que se refiere este artículo, se fijará por mutuo acuerdo entre usuario y suministrador, pero no será mayor al plazo que abarque el ajuste, y
+VII. En caso de desacuerdo en la devolución, en el acreditamiento, o en el plazo, el usuario podrá presentar su inconformidad, en términos de lo establecido en el artículo 42 de este Reglamento.
 
-VII. En caso de desacuerdo en la compensación, el pago o el plazo, el usuario podrá solicitar la intervención de la Secretaría.
+Cuando derivado de la verificación al equipo de medición se realice la sustitución de éste y se ajuste la facturación, el suministrador deberá elaborar una constancia de verificación en la que describa el desarrollo de la visita de verificación respectiva y la forma en que llevó a cabo la misma, indicando el estado del equipo de medición con respecto a la norma oficial mexicana aplicable; cuando no exista ésta, con las especificaciones internacionales, las del país de origen o, a falta de éstas, las del fabricante y, en su caso, asentar los motivos que dieron origen al ajuste a la facturación. Dicha constancia en copia autógrafa se entregará al usuario.
+
+Si el suministrador no observa el procedimiento descrito en este artículo, el usuario no tendrá obligación de realizar el pago del importe del ajuste, sino hasta en tanto el suministrador lleve a cabo el procedimiento en términos de este precepto.
+
+> <small>(ADICIONADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
+###### Artículo 31 Bis.
+
+Cuando el suministrador efectúe una verificación y encuentre que el sujeto verificado incurre en alguna de las infracciones previstas en las fracciones I, II y III del artículo 40 de la Ley, deberá elaborar una constancia de verificación en la que describa el desarrollo de la visita de verificación respectiva y la forma en que llevó a cabo la misma. Para el cálculo del ajuste correspondiente se procederá como sigue:
+
+I. El suministrador podrá determinar los valores de energía consumida y de demandas máximas o de determinación del factor de potencia, con base a la información que recopile en el momento de la verificación;
+
+II. De la verificación de los equipos de medición de energía, de demandas máximas o de determinación del factor de potencia, según sea el caso, se obtendrán las relaciones entre los valores registrados por los medidores intervenidos y los correctos, mismas que servirán para determinar los nuevos valores de energía consumida y de demandas máximas o de determinación del factor de potencia, según sea el caso, y
+
+III. Con los valores determinados se calculará el importe de la energía eléctrica consumida y no pagada, así como de los demás conceptos que integran la tarifa, aplicando las cuotas de la tarifa correspondiente que estuvieron vigentes a partir de la fecha en que se cometió la infracción, más los impuestos y derechos mencionados en la fracción IV del artículo anterior. Para los efectos del cálculo, el período comprendido entre la fecha en que se cometió la infracción y la fecha de verificación no podrá ser mayor a diez años.
+
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 32.
 
-Cuando el usuario considere que en el equipo de medición instalado por el suministrador existen errores de medición superiores a la tolerancia, por fallas en la conexión del servicio, por la aplicación de una constante de medición diferente de la real o por la aplicación errónea de una tarifa, podrá dirigirse al suministrador para que efectúe las verificaciones que procedan en presencia del usuario; en caso de comprobarse diferencias, se atenderá a lo dispuesto en el artículo 31.
+Cuando el usuario considere que el equipo de medición que le instaló el suministrador no mide adecuadamente, podrá solicitar al suministrador que efectúe las verificaciones que procedan en presencia del usuario o de la persona que para tal efecto éste designe. En caso de comprobarse errores en los registros de consumo se estará a lo dispuesto en el artículo 31 de este Reglamento.
 
-Si como resultado de la verificación se determina que el equipo de medición opera dentro de la tolerancia establecida en la norma oficial mexicana respectiva, los gastos de verificación serán por cuenta del usuario; en caso contrario serán a cargo del suministrador.
+Si el equipo de medición instalado por el suministrador se ajusta a la exactitud establecida en la norma oficial mexicana aplicable; cuando no exista ésta, con las especificaciones internacionales, las del país de origen o, a falta de éstas, las del fabricante, el usuario deberá cubrir al suministrador el costo de la verificación realizada en términos del párrafo anterior. De lo contrario, dicho costo estará a cargo de este último.
 
 ###### Artículo 33.
 
@@ -363,47 +429,71 @@ I. De los daños que, por defecto en sus instalaciones, cause al suministrador o
 
 II. Por los daños físicos directos a las obras o equipos del suministrador, que se encuentren dentro del inmueble del usuario, salvo caso fortuito o fuerza mayor.
 
+> <small>(ADICIONADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
+###### Artículo 34 Bis.
+
+El usuario no será responsable por los registros de consumos anormales que se presenten en caso de falla de la acometida cuando el equipo de medición sea instalado al inicio de la misma.
+
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 35.
 
-El suministrador suspenderá el suministro, sin que se requiera para el efecto intervención de la autoridad, cuando:
+El suministrador suspenderá el servicio sin que se requiera para el efecto intervención de la autoridad judicial o administrativa cuando:
 
 I. Exista falta de pago de la facturación durante un período normal de la misma;
 
 II. Se acredite el uso de energía eléctrica a través de instalaciones que alteren o impidan el funcionamiento normal de los equipos de control y medición del suministrador;
 
-III. Las instalaciones del usuario no cumplan con las normas oficiales mexicanas;
+III. Las instalaciones del usuario no cumplan con las normas oficiales mexicanas, y
 
-IV. Se compruebe el uso de energía eléctrica en condiciones que violen lo establecido en el contrato respectivo;
+IV. Se compruebe el uso de energía eléctrica en condiciones que violen lo establecido en el contrato respectivo.
 
-V. Se esté consumiendo energía eléctrica sin haber celebrado el contrato respectivo, y
+Tratándose del supuesto previsto en la fracción II de este artículo, el verificador asentará en la constancia de verificación las consideraciones por las que se procede a la suspensión del servicio. La suspensión se realizará de manera inmediata y sin aviso previo.
 
-VI. Se haya conectado un servicio sin la autorización del suministrador.
+Para los supuestos previstos en las fracciones I, III y IV de este precepto, el suministrador deberá dar aviso previo al usuario al menos con tres días de anticipación a la fecha fijada para el corte, en el cual incluirá las consideraciones por las cuales se procederá a la suspensión del servicio.
 
-En los supuestos a que se refieren las fracciones I, III y IV, el suministrador deberá dar aviso al usuario con tres días de anticipación a la fecha fijada para el corte, plazo dentro del cual se podrá regularizar la situación o liquidar el adeudo correspondiente.
+> <small>(ADICIONADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
+###### Artículo 35 Bis.
+
+El suministrador procederá al corte inmediato del servicio en los siguientes casos:
+
+I. Cuando se esté consumiendo energía eléctrica sin haber celebrado el contrato respectivo, y
+
+II. Cuando se haya conectado a las líneas del suministrador sin la autorización de éste.
+
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 36.
 
-Para que se reanude el suministro se procederá como sigue:
+Para que se reanude el suministro suspendido se procederá como sigue:
 
-I. Para los casos previstos en el artículo anterior, se requerirá que el usuario pague la cuota de reconexión autorizada y además que:
+I. Para los casos previstos en el artículo 35 del presente ordenamiento, se requerirá que el usuario pague la cuota de reconexión respectiva, autorizada por la Secretaría de Hacienda y Crédito Público y publicada en el sitio de Internet del suministrador, y además que:
 
-a) Para la fracción I, el usuario liquide su adeudo y solicite la reanudación del suministro;
+a) Tratándose del supuesto previsto en la fracción I del artículo 35 del presente Reglamento, liquide el adeudo correspondiente;
 
-b) Para la fracción II, el usuario haya corregido las instalaciones que alteraban o impedían el funcionamiento normal de los equipos de control y medición del suministrador y pague el importe de la energía consumida ilícitamente y la correspondiente indemnización al suministrador, en los términos establecidos en el artículo 42 de la Ley;
+b) Tratándose del supuesto previsto en la fracción II del artículo 35 del presente Reglamento, haya corregido las instalaciones que alteraban o impedían el funcionamiento normal de los equipos de control o medición del suministrador y pague el importe del consumo indebido de energía eléctrica y demás conceptos que integran la tarifa, y la correspondiente indemnización al suministrador, en los términos establecidos en el artículo 42 de la Ley;
 
-c) Para la fracción III, el usuario acredite haber adoptado las medidas correctivas necesarias y solicite la reanudación del suministro con la tarifa correspondiente al uso que vaya a dar al suministro;
+c) Tratándose del supuesto previsto en la fracción III del artículo 35 del presente Reglamento, acredite que la instalación eléctrica cumple con las normas oficiales mexicanas aplicables, y
 
-d) Para la fracción IV, el usuario solicite la reanudación del suministro con la tarifa correspondiente al uso que vaya a dar el suministro y celebre nuevo contrato;
+d) Tratándose del supuesto previsto en la fracción IV del artículo 35 del presente Reglamento, el usuario solicite la reanudación del suministro con la tarifa correspondiente al uso que se vaya a dar a éste y celebre nuevo contrato.
 
-e) Para la fracción V, se celebre el contrato respectivo; se pague la energía consumida ilícitamente y la correspondiente indemnización al suministrador, en los términos establecidos en el artículo 42 de la Ley, y
+En los casos de prepago de energía eléctrica o facturación en punto de venta, no será aplicable la obligación de pagar la cuota de reconexión autorizada, por lo que para la reanudación del suministro bastará con que el usuario adquiera energía eléctrica o pague su adeudo por la energía eléctrica que le fue suministrada.
 
-f) Para la fracción VI, se solicite la reanudación del suministro, con la tarifa correspondiente y, en su caso, se celebre nuevo contrato de suministro.
+II. Para los casos previstos en el artículo 35 Bis del presente Reglamento, se requerirá que el usuario:
 
-II. La reanudación del suministro se hará dentro de los plazos mencionados en el artículo 23.
+a) Tratándose del supuesto previsto en la fracción I, celebre el contrato respectivo, pague el consumo indebido de energía eléctrica, demás conceptos que integran la tarifa y la correspondiente indemnización al suministrador, en los términos establecidos en el artículo 42 de la Ley, y
+
+b) Para el supuesto previsto en la fracción II, solicite la reanudación del suministro, con la tarifa correspondiente y, en su caso, se celebre nuevo contrato de suministro.
+
+III. La reanudación del suministro se hará dentro de los plazos mencionados en el artículo 23 de este Reglamento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 37.
 
-El suministrador no incurre en responsabilidad por interrupciones del servicio público en los siguientes casos:
+El suministrador no incurre en responsabilidad por interrupciones del servicio en los siguientes casos:
 
 I. Si es originada en su sistema por caso fortuito o fuerza mayor, sin importar la duración de la interrupción, ni la frecuencia de ésta;
 
@@ -411,13 +501,17 @@ II. Si es originada por fallas en la instalación del usuario o por mala operaci
 
 III. Si es originada por los trabajos necesarios para el mantenimiento preventivo, ampliación o modificación de sus obras e instalaciones.
 
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 38.
 
-Cuando la interrupción se origine por las causas previstas en la fracción III del artículo anterior, el suministrador deberá informar a los usuarios, a través de medios masivos de comunicación en la localidad respectiva, y de notificación individual tratándose de usuarios industriales con servicios en alta o media tensión con más de 1000 kw contratados; de prestadores de servicios públicos que requieran de la energía eléctrica como insumo indispensable para proporcionarlos, y de hospitales. En cualquier caso dicho aviso se dará con no menos de cuarenta y ocho horas de anticipación al inicio de los trabajos respectivos, indicándose el día, hora y duración de la interrupción del servicio público y la hora en que se reanudará, debiéndose indicar con claridad los límites de la zona afectada. La falta de aviso dará lugar a que el suministrador incurra en responsabilidad.
+Cuando la interrupción se origine por las causas previstas en la fracción III del artículo anterior, el suministrador deberá informar a los usuarios a través de medios masivos de comunicación en la localidad respectiva, y de notificación individual tratándose de usuarios industriales con servicios en alta y media tensión con más de 1000 KW contratados; de prestadores de servicios públicos que requieran de la energía eléctrica como insumo indispensable para proporcionarlos, y de hospitales. En cualquier caso dicho aviso se dará con no menos de cuarenta y ocho horas de anticipación al inicio de los trabajos respectivos, indicándose el día, hora y duración de la interrupción del servicio y la hora en que éste se reanudará, debiéndose indicar con claridad los límites de la zona afectada. La falta de aviso dará lugar a que el suministrador incurra en responsabilidad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 39.
 
-El suministrador procurará que los trabajos a que se refiere el artículo anterior se hagan en las horas y días en que disminuye el consumo de energía eléctrica, para afectar lo menos posible a los usuarios, y que la duración de la interrupción en la misma zona no sea mayor de ocho horas en un día ni más de dos veces en un mes. Si el suministrador efectúa la interrupción sin el previo aviso a los usuarios, será responsable por los daños físicos directos que les cause, salvo en los casos de emergencia en que por la premura de los trabajos no sea posible dar aviso anticipado. El suministrador informará posteriormente a los usuarios las causas que motivaron la interrupción.
+El suministrador procurará que los trabajos previstos en la fracción III del artículo 37 del presente Reglamento, se hagan en las horas y días en que disminuye el consumo de energía eléctrica, para afectar lo menos posible a los usuarios, y que la duración de la interrupción en la misma zona no sea mayor de ocho horas en un día ni más de dos veces en un mes. Si el suministrador efectúa la interrupción sin el previo aviso a los usuarios, será responsable por los daños físicos directos que les cause, salvo en los casos de emergencia en que por la premura de los trabajos no sea posible dar aviso anticipado. El suministrador informará posteriormente a los usuarios las causas que motivaron la interrupción.
 
 El importe de los daños y su forma de pago se establecerán en un convenio que celebren suministrador y usuario. De no llegarse a un acuerdo, el usuario podrá solicitar la intervención de la Secretaría.
 
@@ -431,57 +525,87 @@ En cualquiera de los supuestos a que se refiere este artículo, la responsabilid
 
 En caso de no llegarse a un acuerdo entre el suministrador y el usuario, éste podrá solicitar la intervención de la Secretaría.
 
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 41.
 
-Cuando por caso fortuito o fuerza mayor el suministrador carezca de capacidad o de energía eléctrica suficiente y por ese motivo se vea en la necesidad de interrumpir, restringir o modificar las características del servicio público, lo hará del conocimiento de los usuarios por los medios de comunicación con mayor difusión en las localidades, indicando la cuantía y duración de la interrupción o restricción, los días y horas en que ocurrirán y las zonas afectadas.
+Cuando por caso fortuito o fuerza mayor el suministrador carezca de capacidad o de energía eléctrica suficiente y por ese motivo se vea en la necesidad de interrumpir, restringir o modificar las características del servicio, lo hará del conocimiento de los usuarios por los medios de comunicación con mayor difusión en las localidades, indicando la cuantía y duración de la interrupción o restricción, los días y horas en que ocurrirán y las zonas afectadas.
 
-En caso de que la interrupción, restricción o modificación de las características del servicio público haya de prolongarse por más de diez días, el suministrador deberá presentar para su aprobación ante la Secretaría el programa que se aplicará para enfrentar la situación. Dicho programa deberá buscar que la alteración del suministro provoque las menores inconveniencias posibles para los usuarios y establecerá los criterios aplicables para la asignación de la energía disponible entre los diferentes destinos y tipos de usuarios.
+En caso de que la interrupción, restricción o modificación de las características del servicio haya de prolongarse por más de diez días, el suministrador deberá presentar para su aprobación ante la Secretaría el programa que se aplicará para enfrentar la situación. Dicho programa deberá buscar que la alteración del suministro provoque las menores inconveniencias posibles para los usuarios y establecerá los criterios aplicables para la asignación de la energía disponible entre los diferentes destinos y tipos de usuarios.
+
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 42.
 
-El suministrador deberá atender o responder las quejas y reclamaciones de los usuarios en el término de diez días hábiles. En caso de que la queja o reclamación no sea resuelta dentro del término, el usuario podrá presentar su reclamación ante la Secretaría o la autoridad a que competa el asunto. En su caso, la Secretaría invitará a las partes para que acudan ante ella a una instancia de conciliación. De no lograrse ésta, les propondrá el arbitraje de acuerdo con lo dispuesto por la Ley Federal de Protección al Consumidor, sin perjuicio de que se ejerciten los derechos correspondientes ante las instancias competentes.
+El suministrador deberá atender y responder las inconformidades de los usuarios o solicitantes en un término de diez días hábiles contados a partir del día siguiente a la fecha en que la inconformidad fue presentada.
 
-La Secretaría adoptará las medidas necesarias para establecer un control de la recepción y seguimiento de las quejas y reclamaciones que presenten los usuarios y publicará un informe semestral sobre la atención a las mismas. El suministrador deberá considerar dicho informe al elaborar sus indicadores de calidad en el servicio.
+Las inconformidades deberán presentarse por escrito, por teléfono, por correo electrónico o por otros medios que establezca el suministrador.
+
+Si transcurrido el plazo señalado en el primer párrafo de este artículo la inconformidad no es atendida o si el usuario o solicitante del servicio no está de acuerdo con la respuesta del suministrador, podrá presentar su inconformidad ante la Procuraduría Federal del Consumidor.
+
+El suministrador elaborará un informe respecto al número de inconformidades recibidas en materia comercial, medición y distribución, procedentes e improcedentes, el cual será considerado en la definición de sus indicadores de calidad en el servicio.
+
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 43.
 
-El suministrador es el único facultado para vender energía eléctrica destinada al servicio público, previa celebración del contrato de suministro correspondiente y de acuerdo con las tarifas aprobadas; las disposiciones correspondientes a la facturación, aparatos de medición, contenido del aviso-recibo, periodos de consumo y demás conceptos relacionados con la venta de energía eléctrica, serán publicados en el manual correspondiente que para tal efecto elaborará el suministrador y aprobará la Secretaría. Dicho manual se publicará en el Diario Oficial de la Federación.
+El suministrador es el único facultado para vender energía eléctrica destinada al servicio, previa celebración del contrato de suministro correspondiente y de acuerdo con las tarifas aprobadas por la Secretaría de Hacienda y Crédito Público.
+
+Las disposiciones correspondientes a la contratación, facturación, prepago de energía eléctrica, medición, contenido del aviso-recibo, períodos de consumo y demás conceptos relacionados con la venta de energía eléctrica, estarán contemplados en el Manual de disposiciones relativas al suministro y venta de energía eléctrica destinada al servicio público, que elaborará el suministrador y aprobará la Secretaría. Dicho manual se publicará en el Diario Oficial de la Federación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 44.
 
-EL suministro se contratará en una, dos o tres fases, de acuerdo con la disponibilidad del suministrador y con los requerimientos del usuario.
+El suministro se contratará en una, dos o tres fases, de acuerdo con la disponibilidad del suministrador y con los requerimientos del solicitante.
 
 La carga por contratar y la demanda, en su caso, las fijará el solicitante del suministro con base en sus necesidades de potencia. Al celebrarse el contrato, los datos anteriores se anotarán como carga contratada y demanda, en su caso.
 
-Para los efectos de este Reglamento, se entenderá por carga contratada la suma de las potencias en watts, de los equipos, aparatos y dispositivos que el usuario conectará a sus instalaciones, expresándose el valor total en kilowatts; y por demanda contratada su necesidad máxima de potencia, expresada en kilowatts.
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
+Para los efectos de este Reglamento, se entenderá por carga contratada la suma de las potencias en watts, de los equipos, aparatos y dispositivos que el solicitante conectará a sus instalaciones, expresándose el valor total en kilowatts; y por demanda contratada su necesidad máxima de potencia, expresada en kilowatts.
 
 A fin de que el suministrador pueda realizar los estudios conducentes a determinar el dimensionamiento de los suministros e instalaciones respectivas y prever el desarrollo de su infraestructura en determinada zona, en función de los incrementos de la demanda, el solicitante deberá manifestar la carga por contratar y la demanda, en su caso, en el momento de solicitar el suministro.
 
-El suministrador será responsable del suministro en las condiciones que se hubieren pactado, por el límite de la carga contratada. Las variaciones en dicha carga, originadas por la ampliación de los requerimientos de energía eléctrica del usuario, deberán sujetarse a lo dispuesto en el artículo 55. El usuario comunicará por escrito al suministrador la nueva carga y demanda, en su caso, dentro de los quince días siguientes a la fecha en que hubieren variado la carga y demanda contratadas, debiéndose ajustar el importe de la garantía a las nuevas condiciones del suministro.
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
 
-Será causa de suspensión del suministro, en los términos de la fracción IV del artículo 26 de la Ley, la omisión del usuario para notificar oportunamente los incrementos, en su caso, en la carga y demanda contratadas, si a juicio del suministrador dichos incrementos originan o pudieran originar trastornos al servicio público, a la calidad o continuidad del mismo en la zona de que se trate o al suministro del citado usuario.
+El suministrador será responsable del suministro en las condiciones que se hubieren pactado, por el límite de la carga contratada. Las variaciones en dicha carga, originadas por la ampliación de los requerimientos de energía eléctrica del usuario, deberán sujetarse a lo dispuesto en el artículo 55 de este Reglamento. El usuario comunicará por escrito al suministrador la nueva carga y demanda, en su caso, dentro de los quince días siguientes a la fecha en que hubieren variado la carga y demanda contratadas, debiéndose ajustar el importe de la garantía a las nuevas condiciones del suministro.
+
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
+Será causa de suspensión del suministro, en los términos de la fracción IV del artículo 26 de la Ley, la omisión del usuario para notificar oportunamente los incrementos, en su caso, en la carga y demanda contratadas, si a juicio del suministrador dichos incrementos originan o pudieran originar trastornos al servicio, a la calidad o continuidad del mismo en la zona de que se trate o al suministro del citado usuario.
+
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 45.
 
-Los modelos de los contratos para el suministro, se ajustarán a las disposiciones legales aplicables y serán publicados en el Diario Oficial de la Federación.
+Los modelos de los contratos para el suministro se ajustarán a las disposiciones legales aplicables y serán aprobados por la Secretaría y publicados por el suministrador en el Diario Oficial de la Federación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 46.
 
-El usuario garantizará al suministrador las obligaciones derivadas del contrato, con un depósito cuyo importe se fijará en las disposiciones tarifarias respectivas. Los depósitos deberán constituirse ante el suministrador.
+El usuario garantizará al suministrador las obligaciones derivadas del contrato, con un depósito cuyo importe se fijará en las disposiciones tarifarias que autorice la Secretaría de Hacienda y Crédito Público. Los depósitos deberán constituirse ante el suministrador. Cuando se contrate en prepago de energía eléctrica, no se requerirá depósito.
 
 Al contratarse nuevos suministros, en los casos de notoria solvencia acreditada del interesado y previa solicitud del mismo, el suministrador podrá aceptar garantías distintas de los depósitos, incluyéndose, en forma enunciativa, fianza expedida por institución mexicana legalmente autorizada; garantía real en primer lugar en favor del suministrador y afectación en fideicomiso de inmuebles.
 
 Previa comprobación de que no existe ningún adeudo, la garantía se cancelará a la terminación del contrato y, en caso de depósito, éste se devolverá al usuario. De no existir adeudo, se hará la aplicación de la garantía hasta la suma que corresponda. El saldo que resulte a cargo del usuario, en su caso, podrá transferirlo el suministrador a cualquier otro suministro que tuviera contratado el interesado o solicite posteriormente.
 
-Si se suscitara alguna controversia entre suministrador y usuario respecto a las cantidades que este último adeude, la garantía se mantendrá vigente en tanto las partes lleguen a un acuerdo en los términos del artículo 42 o quede firme la resolución de la autoridad competente.
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
 
-Estarán exentas de otorgar garantías en relación con los contratos de suministro las autoridades federales y las entidades de la administración pública federal. El suministrador podrá convenir con las autoridades estatales o municipales o sus entidades, los términos y condiciones de las garantías, en su caso.
+Si se suscitara alguna controversia entre suministrador y usuario respecto de las cantidades que este último adeude, la garantía se mantendrá vigente en tanto las partes lleguen a un acuerdo o quede firme la resolución de la autoridad competente.
+
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
+Estarán exentas de otorgar garantías en relación con los contratos de suministro las autoridades federales y las entidades de la administración pública federal. El suministrador podrá convenir con las autoridades estatales o del Distrito Federal o municipales o sus entidades, los términos y condiciones de las garantías, en su caso.
 
 ### CAPITULO VI. De las Disposiciones Tarifarias
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 47.
 
-La Secretaría de Hacienda y Crédito Público, a propuesta del suministrador, con la participación de la Secretaría y de la de Comercio y Fomento Industrial, fijará las tarifas para venta de energía eléctrica, su ajuste, modificación o reestructuración, con las modalidades que dicten el interés público y los requerimientos del servicio público.
+La Secretaría de Hacienda y Crédito Público, a propuesta del suministrador y con la participación de la Secretaría y de la Secretaría de Economía, fijará las tarifas para venta de energía eléctrica, su ajuste, modificación o reestructuración, con las modalidades que dicten el interés público y los requerimientos del servicio.
 
 El ajuste corresponderá a los casos en que solamente deban cambiarse las cuotas establecidas para los elementos de las tarifas.
 
@@ -489,9 +613,11 @@ La modificación corresponderá a los casos en que se varíe alguno de los eleme
 
 La reestructuración corresponderá a los casos en que sea necesario la adición o supresión de alguna o varias tarifas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 48.
 
-La fijación de las tarifas tenderá a cubrir las necesidades financieras y las de ampliación del servicio público, propiciando a la vez el consumo racional de energía, para lo cual:
+La fijación de las tarifas para venta de energía eléctrica tenderá a cubrir las necesidades financieras y las de ampliación del servicio, propiciando a la vez el consumo racional de energía, para lo cual:
 
 I. Reflejarán el costo económico de los rubros de generación, transmisión y distribución de la energía eléctrica suministrada, incluyendo en tal concepto tanto la que genera el propio suministrador como la que obtenga éste de los productores externos, y considerarán los requerimientos de ampliación de infraestructura eléctrica, y
 
@@ -557,7 +683,9 @@ Cuando el suministrador, con la aprobación de la Secretaría, modifique la tens
 
 Cuando un suministro reúna las características de aplicación de dos o más tarifas, el usuario podrá contratar los servicios en la tarifa de uso general que mejor convenga a sus intereses. Si el usuario contratara un suministro de una tarifa de uso específico, no podrá destinar la energía eléctrica a otro uso, en cuyo caso las instalaciones deberán separarse para contratar individualmente los respectivos suministros.
 
-El usuario quedará obligado a llevar a cabo la separación y convendrá con el suministrador el tiempo necesario para efectuarla. Una vez realizada, se contratarán los servicios para aplicar la tarifa correspondiente a cada uno de ellos. En caso de que el usuario no celebre el convenio o no efectúe la separación en el plazo estipulado, el suministrador suspenderá dicho servicio, ajustándose a lo previsto en el artículo 35.
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
+El usuario quedará obligado a llevar a cabo la separación y convendrá con el suministrador el tiempo necesario para efectuarla. Una vez realizada, se contratarán los servicios para aplicar la tarifa correspondiente a cada uno de ellos. En caso de que el usuario no celebre el convenio o no efectúe la separación en el plazo estipulado, el suministrador suspenderá dicho servicio, ajustándose a lo previsto en el artículo 35, último párrafo de este Reglamento.
 
 ### CAPITULO VII. De las Instalaciones Destinadas al Uso de Energía Eléctrica
 
@@ -565,21 +693,31 @@ El usuario quedará obligado a llevar a cabo la separación y convendrá con el 
 
 Corresponde al solicitante del suministro realizar a su costa y bajo su responsabilidad las obras e instalaciones destinadas al uso de energía eléctrica, mismas que deberán satisfacer los requisitos técnicos y de seguridad que fijen las normas oficiales mexicanas.
 
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 55.
 
-Para la elaboración del proyecto de una instalación nueva o de ampliación de la existente, el interesado podrá consultar con el suministrador si éste puede proporcionarle el suministro y sobre las especificaciones para la tensión, la acometida, la capacidad interruptiva del medio de desconexión principal, el lugar y el espacio para la instalación del equipo de medición.
+Para la elaboración del proyecto de una instalación nueva o de ampliación de la existente, el interesado podrá consultar con el suministrador si éste puede proporcionarle el suministro y sobre las especificaciones técnicas del suministrador para la tensión, la acometida, la capacidad interruptiva del medio de desconexión principal, el lugar y el espacio para la instalación del equipo de medición.
+
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 56.
 
-Cuando se trate de instalaciones eléctricas para servicio en alta tensión y de suministro en lugares de concentración pública, se requerirá que una unidad de verificación aprobada por la Secretaría verifique en los formatos que para tal efecto expida, que la instalación en cuestión y el proyecto respectivo cumplan con las normas oficiales mexicanas aplicables.
+Todas las instalaciones eléctricas destinadas al uso de energía eléctrica deberán cumplir con las normas oficiales mexicanas aplicables. La Secretaría podrá efectuar inspecciones para verificar el cumplimiento.
+
+Cuando se trate de instalaciones eléctricas en alta tensión y en lugares de concentración pública, se requerirá que una unidad de verificación aprobada por la Secretaría verifique en los formatos que para tal efecto expida, que la instalación en cuestión y el proyecto respectivo cumplan con las normas oficiales mexicanas aplicables.
+
+Para efectos del artículo 28 de la Ley, se consideran lugares de concentración pública para la verificación de las instalaciones eléctricas los destinados a actividades de esparcimiento, deportivas, educativas, de trabajo, comerciales, de salud, además de cualquier otra área abierta en donde se reúna público.
 
 ###### Artículo 57.
 
 Si al efectuarse la verificación de las instalaciones a que se refiere el artículo anterior se encontraran defectos que pudieran poner en peligro la vida o los bienes de las personas, se notificará al usuario de los defectos que deban corregirse, indicándole el plazo en que debe efectuar las correcciones atendiendo a la complejidad de los trabajos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 58.
 
-En los casos a que se refieren los dos artículos anteriores, el suministrador sólo suministrará energía eléctrica previa comprobación de que las instalaciones han sido verificadas por la unidad de verificación a que se refiere el artículo 56.
+En los casos a que se refieren los dos artículos anteriores, el suministrador sólo suministrará energía eléctrica previa comprobación de que las instalaciones han sido verificadas por la unidad de verificación que apruebe la Secretaría.
 
 En todos los demás casos, el suministrador deberá proporcionar el suministro a solicitud del interesado, salvo que, de acuerdo con la Ley u otra disposición vigente, sea improcedente o deba satisfacerse algún requisito.
 
@@ -591,13 +729,17 @@ El usuario de la instalación a cuyo nombre se celebre el contrato de suministro
 
 La Secretaría estará facultada para realizar las inspecciones previstas en el capítulo X.
 
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 61.
 
-En los casos de suministro en media o alta tensión, el usuario deberá instalar por su cuenta la subestación de capacidad adecuada para recibirlo, quedando a su cargo el mantenimiento y operación de la misma y sujetándose a las especificaciones del suministrador por cuanto se refiere a la acometida, el lugar para instalar el equipo de medición y a la capacidad interruptiva del medio de desconexión principal. Estos aspectos deberán verificarse por el suministrador antes de dar el suministro.
+En los casos de suministro en media o alta tensión, el solicitante deberá instalar, por su cuenta, una subestación de capacidad adecuada para recibirlo, quedando a su cargo el mantenimiento y operación de la misma y sujetándose a las especificaciones técnicas del suministrador por cuanto se refiere a la acometida, el lugar para instalar el equipo de medición y a la capacidad interruptiva del medio de desconexión principal. Estos aspectos deberán ser verificados por el suministrador antes de dar el suministro.
+
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 62.
 
-En los casos de suministro en baja tensión, el usuario deberá preparar, de acuerdo con las especificaciones del suministrador, lo relacionado con el cableado, la conexión de la acometida y los dispositivos para que el suministrador coloque el equipo de medición, conforme a lo previsto en el artículo 29.
+En los casos de suministro en baja tensión, el solicitante deberá preparar, de acuerdo con las especificaciones técnicas del suministrador, lo relacionado con el cableado, la conexión de la acometida y los dispositivos para que el suministrador coloque el equipo de medición o el equipo que le proporcionará información sobre el consumo de energía eléctrica, conforme a lo previsto en el artículo 29 de este Reglamento.
 
 ###### Artículo 63.
 
@@ -605,9 +747,17 @@ Para servicios en media o alta tensión, cuando las necesidades del usuario lo a
 
 El usuario cubrirá al suministrador el cargo correspondiente aprobado por la Secretaría por el servicio de libranza.
 
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 64.
 
-Para los suministros en que intervenga el factor de potencia, el usuario conservará éste en la operación de su instalación entre noventa centésimos atrasado y uno, de acuerdo con las disposiciones que expida la Secretaría. El usuario no podrá regresar energía activa o reactiva las líneas del suministrador, excepto cuando celebre convenio al respecto con el mismo. La contravención a estas disposiciones hará procedente la aplicación de las penalizaciones que prevean las disposiciones tarifarias, sin perjuicio de las sanciones que correspondan en los términos de la Ley y de este Reglamento por variar las condiciones del suministro.
+Para los suministros en que intervenga el factor de potencia, el usuario conservará éste en la operación de su instalación entre noventa centésimos atrasados y uno, de acuerdo con las Disposiciones complementarias a las tarifas para suministro y venta de energía eléctrica.
+
+Cuando el factor de potencia tenga un valor igual o superior a noventa centésimos atrasados, el suministrador tendrá obligación de bonificar al usuario la cantidad que resulte de aplicar a la factura el porcentaje de bonificación.
+
+Cuando el factor de potencia durante cualquier período tenga un promedio menor de noventa centésimos atrasados el suministrador tendrá derecho a cobrar al usuario la cantidad que resulte de aplicar al monto de la facturación el porcentaje de recargo que se determine.
+
+El usuario no podrá regresar energía activa o reactiva a las líneas del suministrador, excepto cuando celebre con éste convenio al respecto. La contravención de esta disposición hará procedente la aplicación de sanciones en los términos de la Ley y de este Reglamento.
 
 ###### Artículo 65.
 
@@ -621,9 +771,13 @@ La Comisión deberá elaborar y remitir a la Secretaría para su aprobación, co
 
 I. Un Documento de Prospectiva sobre las tendencias del sector eléctrico del país; y
 
-II. Los programas para la realización de obras que el suministrador pretenda ejecutar para la prestación del servicio público.
+> <small>(REFORMADA, D.O.F. 24 DE AGOSTO DE 2012)</small>
 
-El documento y los programas mencionados deberán elaborarse con rigor metodológico y a partir de la información más actualizada y confiable de que disponga la Comisión, incluyendo la proveniente de los particulares y que le sea remitida por la Secretaría en la memoria a que se refiere el artículo 69.
+II. Los programas para la realización de obras que el suministrador pretenda ejecutar para la prestación del servicio.
+
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
+El documento y los programas mencionados deberán elaborarse con rigor metodológico y a partir de la información más actualizada y confiable de que disponga la Comisión, incluyendo la proveniente de los particulares y que le sea remitida por la Secretaría en la memoria a que se refiere el artículo 69 del presente Reglamento.
 
 ###### Artículo 67.
 
@@ -639,7 +793,9 @@ I. Una parte correspondiente a la evolución futura de la demanda de energía el
 
 II. Una parte relativa a la capacidad de generación y transmisión existentes;
 
-III. Una parte concerniente a la expansión, adición, rehabilitación, modernización, sustitución o interconexión de la capacidad de generación y transmisión que se consideren necesarias para que el país tenga satisfecha, de manera oportuna y cabal, la demanda de energía eléctrica prevista. Hasta donde sea posible, y con base en las determinaciones realizadas en años anteriores por la Secretaría conforme a lo dispuesto en el artículo 125, fracciones III y IV, se señalarán, sin carácter vinculatorio para la Comisión o para la Secretaría, las previsiones respecto a las adiciones o sustituciones de capacidad de generación que serán realizadas directamente por la Comisión y aquellas otras que probablemente efectuarán los particulares, conforme a lo dispuesto en la Ley y en este Reglamento, para la satisfacción de sus propias necesidades o para ponerlas a disposición de la Comisión para que ésta las destine al servicio público;
+> <small>(REFORMADA, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
+III. Una parte concerniente a la expansión, adición, rehabilitación, modernización, sustitución o interconexión de la capacidad de generación y transmisión que se consideren necesarias para que el país tenga satisfecha, de manera oportuna y cabal, la demanda de energía eléctrica prevista. Hasta donde sea posible, y con base en las determinaciones realizadas en años anteriores por la Secretaría conforme a lo dispuesto en el artículo 125, fracciones III y IV de este Reglamento, se señalarán, sin carácter vinculatorio para la Comisión o para la Secretaría, las previsiones respecto a las adiciones o sustituciones de capacidad de generación que serán realizadas directamente por la Comisión y aquellas otras que probablemente efectuarán los particulares, conforme a lo dispuesto en la Ley y en este Reglamento, para la satisfacción de sus propias necesidades o para ponerlas a disposición de la Comisión para que ésta las destine al servicio;
 
 IV. Una parte en la que se comparen y comenten las opciones para emprender las diferentes acciones consideradas en la fracción anterior, y
 
@@ -653,11 +809,15 @@ La Secretaría revisará el Documento de Prospectiva y podrá requerir a la Comi
 
 Recibidas éstas, la Secretaría publicará un extracto de los aspectos más relevantes de dicho documento, a fin de recibir en un periodo de cinco meses los comentarios de todos los posibles interesados en participar en las adiciones o sustituciones de capacidad de generación a que se refiere la fracción III del artículo anterior. Los comentarios podrán incluir acciones alternativas de ahorro de energía.
 
-La Secretaría elaborará una memoria de la información más relevante recibida de los particulares y la remitirá a la Comisión para que, con base en la mejor información disponible, esta entidad haga las previsiones que resulten pertinentes en el Documento de Prospectiva a elaborarse en el siguiente año, según lo dispuesto en el artículo 66.
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
+La Secretaría elaborará una memoria de la información más relevante recibida de los particulares y la remitirá a la Comisión para que, con base en la mejor información disponible, esta entidad haga las previsiones que resulten pertinentes en el Documento de Prospectiva a elaborarse en el siguiente año, según lo dispuesto en el artículo 66, fracción I del presente Reglamento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 70.
 
-Los programas para la realización de obras que la Comisión elabore y remita a la Secretaría de acuerdo con el artículo 66, contendrán:
+Los programas para la realización de obras que la Comisión elabore y remita a la Secretaría de acuerdo con el artículo 66 del presente Reglamento, contendrán:
 
 I. Para cada obra por emprender que lo amerite:
 
@@ -665,7 +825,9 @@ a) Sus características más importantes, su presupuesto y el programa de invers
 
 b) Un estudio económico de los costos de generación y transmisión de la energía eléctrica, considerando razonadamente las inversiones, su financiamiento y los gastos de operación previsibles a lo largo de la vida útil del proyecto respectivo.
 
-Esta información servirá de base a la Secretaría para autorizar las obras que serán ejecutadas por el suministrador, de acuerdo con lo previsto en el artículo 125, fracciones II y III, y
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
+Esta información servirá de base a la Secretaría para autorizar las obras que serán ejecutadas por el suministrador, de acuerdo con lo previsto en el artículo 125, fracciones II y III de este ordenamiento, y
 
 c) Un estudio sobre programas alternativos de ahorro de energía del que se desprenda la conveniencia o necesidad de ejecutar la obra en cuestión;
 
@@ -841,7 +1003,9 @@ III. Las que acrediten la propiedad, posesión o autorización para el aprovecha
 
 La Secretaría examinará la solicitud en el término de diez días hábiles. De admitirla a trámite, solicitará la opinión de la Comisión, la que deberá fundarse en elementos objetivos sobre la disponibilidad y firmeza de los excedentes de capacidad y energía del proyecto, los requerimientos de capacidad y energía de respaldo y los servicios de transmisión previstos en la solicitud de permiso.
 
-La Comisión dará respuesta dentro de los treinta días hábiles siguientes. El plazo se reducirá a diez días hábiles en los casos a que se refiere el artículo 111. Dicha opinión no será obligatoria para la Secretaría.
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
+La Comisión dará respuesta dentro de los treinta días hábiles siguientes. El plazo se reducirá a diez días hábiles en los casos a que se refiere el artículo 111 de este ordenamiento. Dicha opinión no será obligatoria para la Secretaría.
 
 ###### Artículo 85.
 
@@ -849,9 +1013,11 @@ Cuando las opiniones a que se refiere el artículo anterior pudieren implicar mo
 
 De formularse observaciones, la Secretaría escuchará al peticionario y decidirá acerca de las adecuaciones o ajustes que, en su caso, deban efectuarse en la solicitud.
 
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 86.
 
-Desahogados los trámites anteriores, la Secretaría, en su caso, con conocimiento del peticionario, solicitará las aclaraciones y elementos adicionales que estime pertinentes, requiriendo de aquél, para la integración del expediente, la presentación de la memoria técnico-descriptiva y justificativa del proyecto a desarrollar, la que deberá incluir en detalle los elementos a que se refiere la fracción II del artículo 83.
+Desahogados los trámites anteriores, la Secretaría, en su caso, con conocimiento del peticionario, solicitará las aclaraciones y elementos adicionales que estime pertinentes, requiriendo de aquél, para la integración del expediente, la presentación de la memoria técnico-descriptiva y justificativa del proyecto a desarrollar, la que deberá incluir en detalle los elementos a que se refiere la fracción II del artículo 83 de este ordenamiento.
 
 ###### Artículo 87.
 
@@ -901,9 +1067,11 @@ VI. Una vez que se inicie la operación de las instalaciones, y exclusivamente p
 
 #### Sección quinta.- De la renovación, transferencia y extinción de los permisos
 
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 91.
 
-Los titulares de los permisos de producción independiente podrán solicitar a la Secretaría, con antelación al vencimiento de la vigencia de sus permisos, la renovación de los mismos, para lo cual la Secretaría escuchará la opinión de la Comisión como lo dispone el artículo 84.
+Los titulares de los permisos de producción independiente podrán solicitar a la Secretaría, con antelación al vencimiento de la vigencia de sus permisos, la renovación de los mismos, para lo cual la Secretaría escuchará la opinión de la Comisión como lo dispone el artículo 84 de este ordenamiento.
 
 ###### Artículo 92.
 
@@ -1025,9 +1193,11 @@ b) Sean copropietarios de las instalaciones o socios de la sociedad de que se tr
 
 II. El permisionario se obligue a poner sus excedentes de energía eléctrica a disposición de la Comisión, de acuerdo con lo previsto en la sección cuarta de este capítulo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 105.
 
-Con las solicitudes de permisos de cogeneración, deberá acompañarse, además de los documentos a que se refiere el artículo 83, un estudio de la instalación, incluyendo como mínimo:
+Con las solicitudes de permisos de cogeneración, deberá acompañarse, además de los documentos a que se refiere el artículo 83 de este ordenamiento, un estudio de la instalación, incluyendo como mínimo:
 
 I. La descripción general del proceso;
 
@@ -1063,9 +1233,13 @@ En el caso de la energía destinada exclusivamente a la Comisión, el proyecto r
 
 Se entenderá que el proyecto está incluido en la planeación y en el programa correspondiente de la Comisión, o que es equivalente, en cualquiera de los casos siguientes:
 
-I. Cuando la magnitud de su capacidad de generación sea congruente con lo previsto en el Documento de Prospectiva a que se refiere el artículo 66, y
+> <small>(REFORMADA, D.O.F. 24 DE AGOSTO DE 2012)</small>
 
-II. Cuando el proyecto permita satisfacer necesidades de energía eléctrica de manera comparable a alguna de las soluciones técnicas recomendadas por la Comisión conforme a lo dispuesto en el artículo 125 fracción II.
+I. Cuando la magnitud de su capacidad de generación sea congruente con lo previsto en el Documento de Prospectiva a que se refiere el artículo 66, fracción I de este ordenamiento, y
+
+> <small>(REFORMADA, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
+II. Cuando el proyecto permita satisfacer necesidades de energía eléctrica de manera comparable a alguna de las soluciones técnicas recomendadas por la Comisión conforme a lo dispuesto en el artículo 125, fracción II de este ordenamiento.
 
 #### Sección novena.- De la pequeña producción
 
@@ -1145,7 +1319,7 @@ La energía eléctrica que se importe conforme a lo previsto en los artículos 3
 
 Para los efectos de la presente sección, los solicitantes, salvo que se interconecten a la red nacional de energía eléctrica, deberán obligarse a operar sus respectivas instalaciones en el país con medios propios y personal contratado a su servicio y cumplir con las disposiciones legales y reglamentarias aplicables, así como las normas oficiales mexicanas.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 19 DE MAYO DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 19 DE MAYO DE 1994)</small>
 
 #### Sección duodécima.- De los procedimientos para la adición o sustitución de la capacidad de generación
 
@@ -1199,15 +1373,23 @@ En casos especiales, la Secretaría podrá autorizar a la Comisión ofrecer en l
 
 e) Dichas convocatorios y bases de licitación podrán incluir, además, criterios cuantificables que modifiquen en el tiempo los términos del a relación entre los productores externos de energía y la Comisión, en función de la evolución del mercado de energía en el país, y
 
-> <small>(ADICIONADA, D.O.F. 25 DE JULIO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE AGOSTO DE 2012)</small>
 
-V.- En casos de emergencia, que pudieran poner en riesgo el suministro de energía eléctrica en todo el territorio o en una región del país, previa opinión favorable de la Comisión Intersecretarial Gasto Financiamiento, y de conformidad con los requisitos que establece la Ley de Adquisiciones y Obras Públicas para situaciones de emergencia, la Secretaría podrá autorizar que la Comisión obtenga la energía requerida por medio de:
+V. En casos que pudieran poner en riesgo el suministro de energía eléctrica en todo el territorio o en una región del país, previa opinión favorable de la Comisión Intersecretarial de Gasto Público, Financiamiento y Desincorporación, y de conformidad con la normativa aplicable, la Secretaría podrá autorizar que la Comisión obtenga la energía requerida por medio de:
+
+> <small>(ADICIONADO, D.O.F. 25 DE JULIO DE 1997)</small>
 
 a) Adquisiciones en el mercado nacional, sin que se aplique el límite a que se refiere el artículo 126 de este Reglamento;
 
+> <small>(ADICIONADO, D.O.F. 25 DE JULIO DE 1997)</small>
+
 b) Importaciones extraordinarias a largo plazo de energía eléctrica, que rebasen los límites de sus programas, y
 
+> <small>(ADICIONADO, D.O.F. 25 DE JULIO DE 1997)</small>
+
 c) Proyectos de generación en los que, en su caso, precise la tecnología, el combustible, el diseño, la ingeniería, la construcción y la ubicación de las instalaciones.
+
+> <small>(ADICIONADO, D.O.F. 25 DE JULIO DE 1997)</small>
 
 La Secretaría evaluará la mejor combinación de las opciones citadas que podrán incluir la transmisión y la transformación, con objeto de enfrentar la emergencia al menor costo posible.
 
@@ -1215,9 +1397,9 @@ La Secretaría evaluará la mejor combinación de las opciones citadas que podr�
 
 A la convocatoria podrán responder los particulares en las modalidades de pequeña producción, producción independiente, cogeneración o autoabastecimiento. Cada particular podrá poner a disposición de la Comisión, según la modalidad de que se trate, toda su capacidad de generación o su capacidad excedente para satisfacer la totalidad de la capacidad de generación requerida o parte de ésta.
 
-> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
 
-Los permisionarios que tengan excedentes de capacidad podrán poner a disposición de la Comisión la capacidad fuera de convocatoria, en los términos de la fracción II del artículo 135 y atendiendo lo previsto en el artículo 124.
+Los permisionarios que tengan excedentes de capacidad podrán poner a disposición de la Comisión la capacidad fuera de convocatoria, en los términos de la fracción II del artículo 135 de este ordenamiento y atendiendo lo previsto en el artículo 124 del presente Reglamento.
 
 > <small>(ADICIONADO, D.O.F. 24 DE MAYO DE 2001)</small>
 
@@ -1367,9 +1549,9 @@ En el cumplimiento de dichos convenios la Comisión no gozará de privilegios o 
 
 La Comisión sólo podrá negarse a convenir con los permisionarios a que se refieren las fracciones II y III cuando las condiciones o términos que éstos ofrezcan no satisfagan los requisitos de los artículos 36 bis de la Ley y 124 de este reglamento, o cuando la prestación del servicio público de energía eléctrica no requiera de dichos excedentes.
 
-> <small>(ADICIONADO, D.O.F. 24 DE MAYO DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
 
-Los convenios a que se refieren las fracciones II y III de este artículo que celebre la Comisión con permisionarios que sean entidades de la Administración Pública Federal, o bien, personas morales de las que formen parte dichas entidades, se sujetarán a lo previsto por la Ley y este reglamento, en particular lo señalado por el artículo 126.
+Los convenios a que se refieren las fracciones II y III de este artículo que celebre la Comisión con permisionarios que sean entidades de la Administración Pública Federal, o bien, personas morales de las que formen parte dichas entidades, se sujetarán a lo previsto por la Ley y este reglamento, en particular lo señalado por el artículo 124 y fracción II de este precepto del presente ordenamiento.
 
 > <small>(ADICIONADO, D.O.F. 24 DE MAYO DE 2001)</small>
 
@@ -1415,7 +1597,9 @@ VI. Las penas convencionales y sanciones aplicables por incumplimiento de lo pre
 
 VII. La jurisdicción a que se sometan las partes conforme al artículo 45 de la Ley y, en su caso, las reglas de arbitraje para cuestiones de carácter técnico.
 
-Los convenios con los permisionarios a que se refieren las fracciones II y III del artículo 135 consignarán en lo conducente cuando menos los datos indicados en las fracciones IV a VII de este artículo.
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
+Los convenios con los permisionarios a que se refieren las fracciones II y III del artículo 135 del presente ordenamiento, consignarán en lo conducente cuando menos los datos indicados en las fracciones IV a VII de este artículo.
 
 ###### Artículo 139.
 
@@ -1449,9 +1633,11 @@ Tanto el permisionario como la Comisión serán responsables de instalar y ajust
 
 Sección decimocuarta.- De las remuneraciones
 
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 143.
 
-Las remuneraciones a los permisionarios a quienes se les hubiera adjudicado el contrato por el que se ponga la capacidad de generación a disposición de la Comisión para las compras de energía eléctrica mediante el procedimiento de convocatorias previsto en este capítulo, se fijarán en función de un pago por capacidad, ajustado por un factor de disponibilidad, y un pago por la energía entregada en el punto de interconexión, de acuerdo con lo dispuesto en los artículos 144 a 146.
+Las remuneraciones a los permisionarios a quienes se les hubiere adjudicado el contrato por el que se ponga la capacidad de generación a disposición de la Comisión para las compras de energía eléctrica mediante el procedimiento de convocatorias previsto en este capítulo, se fijarán en función de un pago por capacidad, ajustado por un factor de disponibilidad, y un pago por la energía entregada en el punto de interconexión, de acuerdo con lo dispuesto en los artículos 144 a 146 del presente ordenamiento.
 
 ###### Artículo 144.
 
@@ -1471,13 +1657,17 @@ III. Menor que la unidad, cuando el factor de disponibilidad sea menor al valor 
 
 IV. Igual a cero, cuando el factor de disponibilidad sea inferior al mínimo previsto.
 
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 146.
 
-En los convenios mencionados en los artículos anteriores podrán incluirse, por acuerdo de las partes, fórmulas de actualización para los pagos que realice la Comisión. Tales fórmulas tendrán como propósito actualizar el importe de los pagos, entre otras cosas, en lo tocante a los precios de los combustibles.
+En los convenios mencionados en los artículos 143 a 145 de este ordenamiento, podrán incluirse, por acuerdo de las partes, fórmulas de actualización para los pagos que realice la Comisión. Tales fórmulas tendrán como propósito actualizar el importe de los pagos, entre otras cosas, en lo tocante a los precios de los combustibles.
+
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 147.
 
-Las remuneraciones por la capacidad puesta a disposición de la Comisión en los convenios a que se refiere la fracción II del artículo 135, se determinarán conforme a la metodología que elabore la Comisión y que sea aprobada por la Secretaría. Las remuneraciones por la energía entregada a la Comisión, en los convenios relativos a las fracciones II y III del artículo 135, se determinarán al final de cada mes aplicando a la energía medida en el punto de interconexión, el precio que de acuerdo con lo dispuesto por el artículo 152, fracción II, hubiere propuesto el permisionario en cuestión.
+Las remuneraciones por la capacidad puesta a disposición de la Comisión en los convenios a que se refiere la fracción II del artículo 135 de este ordenamiento, se determinarán conforme a la metodología que elabore la Comisión y que sea aprobada por la Secretaría. Las remuneraciones por la energía entregada a la Comisión, en los convenios relativos a las fracciones II y III del artículo 135 de este ordenamiento, se determinarán al final de cada mes aplicando a la energía medida en el punto de interconexión, el precio que de acuerdo con lo dispuesto por el artículo 152, fracción II de este ordenamiento, hubiere propuesto el permisionario en cuestión.
 
 Sección decimoquinta.- Del despacho
 
@@ -1505,9 +1695,13 @@ La Comisión notificará por los medios idóneos, al comienzo de cada mes, a cad
 
 Cada uno de los productores externos con los que la Comisión tenga convenio, dará a conocer a dicha entidad cinco días antes del comienzo de cada periodo:
 
-I. El costo total de corto plazo de su energía eléctrica para despacho en dicho periodo, calculado de acuerdo a las fórmulas convenidas tratándose de los permisionarios a que se refiere la fracción I, del artículo 135, y
+> <small>(REFORMADA, D.O.F. 24 DE AGOSTO DE 2012)</small>
 
-II. El precio al que ofrezcan entregar energía y la cantidad máxima de ésta, para las horas base, intermedio y pico del periodo mencionado, tratándose de permisionarios a que se refieren las fracciones II y III del artículo 135.
+I. El costo total de corto plazo de su energía eléctrica para despacho en dicho período, calculado de acuerdo a las fórmulas convenidas tratándose de los permisionarios a que se refiere la fracción I del artículo 135 de este Reglamento, y
+
+> <small>(REFORMADA, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
+II. El precio al que ofrezcan entregar energía y la cantidad máxima de ésta, para las horas base, intermedio y pico del período mencionado, tratándose de permisionarios a que se refieren las fracciones II y III del artículo 135 de este Reglamento.
 
 La duración del período al que se refiere este artículo la determinará la Comisión y, previa autorización de la Secretaría, la comunicará a todos los permisionarios con los que tenga celebrado convenio.
 
@@ -1515,7 +1709,9 @@ La duración del período al que se refiere este artículo la determinará la Co
 
 La Comisión proporcionará, a cada uno de los productores externos con los que tenga celebrado convenio, por los medios idóneos, a más tardar a las quince horas de cada día el programa de despacho, hora por hora para el día siguiente, detallado para dicho productor.
 
-Tal programa se elaborará con apego al artículo 149, tomando en consideración la estimación de la demanda, el área geográfica del productor y las restricciones de la red; la disponibilidad hidráulica; la disponibilidad de todas las unidades generadoras; las cargas interrumpibles; y los costos totales de corto plazo de la energía eléctrica o precios ofertados por todos los productores.
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
+Tal programa se elaborará con apego al artículo 149 de este Reglamento, tomando en consideración la estimación de la demanda, el área geográfica del productor y las restricciones de la red; la disponibilidad hidráulica; la disponibilidad de todas las unidades generadoras; las cargas interrumpibles; y los costos totales de corto plazo de la energía eléctrica o precios ofertados por todos los productores.
 
 Sección decimosexta.- De los servicios de transmisión de energía eléctrica
 
@@ -1555,9 +1751,11 @@ Los cargos por otros servicios que de manera conexa a la transmisión deban paga
 
 Los derechos y obligaciones emanados de un convenio relativo a servicios de transmisión u otros servicios conexos, podrán transferirse entre los particulares, previa autorización de la Secretaría.
 
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 160.
 
-El cargo que se establezca en el convenio respectivo por el servicio de transmisión, así como por los que de manera conexa brinde la Comisión, será aprobado por las autoridades competentes y podrá ser revisado de acuerdo con los índices aplicables que se establezcan en la metodología prevista en el artículo 158.
+El cargo que se establezca en el convenio respectivo por el servicio de transmisión, así como por los que de manera conexa brinde la Comisión, será aprobado por las autoridades competentes y podrá ser revisado de acuerdo con los índices aplicables que se establezcan en la metodología prevista en el artículo 158 de este Reglamento.
 
 Sección decimoséptima.- De la venta de energía eléctrica por la Comisión a los permisionarios
 
@@ -1589,13 +1787,17 @@ Si para llevar a cabo la inspección se necesitara la colaboración de personal 
 
 El suministrador deberá notificar con anticipación el retiro o sustitución de su personal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 164.
 
-La Secretaría efectuará las siguientes inspecciones:
+La Secretaría podrá efectuar las siguientes inspecciones:
 
 I. Al suministrador:
 
-a) Durante la construcción de sus obras e instalaciones, para vigilar que se cumpla con las especificaciones, con el proyecto y con el programa y presupuesto aprobados;
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
+a) Durante la construcción de sus obras e instalaciones, para vigilar que se cumpla con las especificaciones técnicas del suministrador, con el proyecto y con el programa y presupuesto aprobados;
 
 b) Durante la operación de sus obras e instalaciones, para vigilar su eficiente funcionamiento económico y su correcta operación, y
 
@@ -1611,7 +1813,9 @@ a) El cumplimiento de lo dispuesto en el capítulo VII de este Reglamento;
 
 b) Que no conecten sus líneas particulares con las líneas de otro usuario o del suministrador, salvo en los casos excepcionales en que se hubiere otorgado aprobación previa de la Secretaría y celebrado convenio con el suministrador;
 
-c) Que no consuman energía eléctrica a través de sus instalaciones que altere o impida el funcionamiento de los equipos de control y medición del suministrador, y
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
+c) Que no consuman energía eléctrica a través de instalaciones que alteren o impidan el funcionamiento de los equipos de control y medición del suministrador, y
 
 d) Que no usen la energía eléctrica en forma distinta de la fijada en el contrato de suministro.
 
@@ -1625,19 +1829,27 @@ II. Se levantará un acta circunstanciada en presencia de dos testigos propuesto
 
 III. Se dejará copia del acta a la persona con la que se entendió la diligencia, quien deberá firmarla. El acta será válida aun cuando se niegue a firmarla;
 
-IV. Si se impide la realización de la inspección, se hará constar tal circunstancia en el acta, con la advertencia de que se aplicarán los medios de apremio y las sanciones correspondientes. Si se impide la realización de la inspección solicitada por el suministrador y la visita tiene por objeto verificar la existencia de alguna de las infracciones previstas en las fracciones II a VI del artículo 35, se tendrá por presuntamente cierta su existencia y procederá la aplicación al usuario de las sanciones previstas en los artículos 40, 41 y 42 de la Ley;
+> <small>(REFORMADA, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
+IV. Si se impide la realización de la inspección, se hará constar tal circunstancia en el acta, con la advertencia de que se aplicarán los medios de apremio y las sanciones correspondientes. Si se impide la realización de la inspección solicitada por el suministrador y la visita tiene por objeto verificar la existencia de alguna de las infracciones previstas en las fracciones II a VI del artículo 35 de este Reglamento, se tendrá por presuntamente cierta su existencia y procederá la aplicación al usuario de las sanciones previstas en los artículos 40, 41 y 42 de la Ley, y
 
 V. El usuario dispondrá de los diez días hábiles siguientes a la fecha en que se haya levantado el acta de inspección, para aportar por escrito las pruebas que considere pertinentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 166.
 
-Tratándose de inspecciones a obras e instalaciones para servicios de alta tensión, a fin de comprobar que cumplen con los requisitos de las normas oficiales mexicanas, se aplicará el procedimiento señalado en el artículo anterior y además:
+Tratándose de inspecciones a obras e instalaciones eléctricas, independientemente de la tensión en que sean suministradas y a fin de comprobar que cumplen con los requisitos de las normas oficiales mexicanas, se aplicará el procedimiento señalado en el artículo anterior y además:
 
-I. Se comunicará al usuario el día y la hora en que se llevará a cabo la inspección a su instalación, con no menos de veinticuatro horas de anticipación;
+> <small>(REFORMADA, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
+I. Para los suministros en alta tensión se comunicará al usuario el día y la hora en que se llevará a cabo la inspección a su instalación, con no menos de veinticuatro horas de anticipación. No se requerirá esta formalidad en las demás tensiones;
 
 II. Si la instalación no cumple con las normas oficiales mexicanas en aspectos que no pongan en peligro la vida o bienes de las personas, se notificarán al usuario las fallas encontradas, las correcciones que deberán hacerse y el plazo para realizarlas, previniéndolo que en caso de incumplimiento se le impondrán sanciones;
 
-III. Si la instalación tiene partes que pudieran poner en peligro la vida o bienes de las personas, se notificarán estas fallas al usuario, refiriéndolas a las normas oficiales mexicanas correspondientes, precisando las correcciones que deberán hacerse y el plazo para llevarlas a cabo, mismo que se estimará según la complejidad de los trabajos, apercibiéndolo de que si no se cumple con lo requerido se ordenará la suspensión del suministro en los términos de la fracción III del artículo 35, sin perjuicio de la facultad del suministrador de efectuar el corte del servicio. Transcurrido el plazo se efectuará una segunda inspección y si no se han corregido las fallas, se ordenará al suministrador la suspensión del suministro, haciendo llegar al usuario una copia de dicha orden;
+> <small>(REFORMADA, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
+III. Si la instalación tiene partes que pudieran poner en peligro la vida o bienes de las personas, se notificarán estas fallas al usuario, refiriéndolas a las normas oficiales mexicanas correspondientes, precisando las correcciones que deberán hacerse y el plazo para llevarlas a cabo, mismo que se estimará según la complejidad de los trabajos, apercibiéndolo de que si no se cumple con lo requerido se ordenará la suspensión del suministro en los términos de la fracción III del artículo 35 de este ordenamiento, sin perjuicio de la facultad del suministrador de efectuar el corte del servicio. Transcurrido el plazo se efectuará una segunda inspección y si no se han corregido las fallas, se ordenará al suministrador la suspensión del suministro, haciendo llegar al usuario una copia de dicha orden;
 
 IV. Si la instalación no cumple con las normas oficiales mexicanas y representa riesgos inminentes para la vida o bienes de las personas, se ordenará al suministrador la suspensión del suministro y se comunicarán al usuario las deficiencias encontradas para que las corrija o se ordenará el retiro parcial o total de la instalación, si el caso lo amerita.
 
@@ -1665,9 +1877,11 @@ Al infractor que incurriere en contumacia se le aplicará una sanción equivalen
 
 La aplicación de las sanciones no libera al infractor de la obligación de pagar al suministrador la energía eléctrica consumida indebidamente, más un cargo por concepto de indemnización, calculado a una tasa equivalente al importe mensual que, para recargos, se establezca en las disposiciones fiscales aplicables, por cada mes o fracción de antigüedad del adeudo en favor del suministrador, quien formulará la liquidación correspondiente y la hará del conocimiento del usuario, para efectos de pago.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 170.
 
-El cálculo de la energía consumida y no pagada se determinará de acuerdo con lo indicado en el artículo 31. Además se tomará en cuenta:
+El cálculo de la energía eléctrica consumida y no pagada se determinará de acuerdo con lo indicado en el artículo 31 Bis de este Reglamento. Además se tomará en cuenta:
 
 I. La fecha de arrendamiento u ocupación del inmueble donde se haya consumido la energía eléctrica;
 
@@ -1677,9 +1891,13 @@ III. En su caso, la medición hecha por un equipo de medición testigo patrón, 
 
 IV. En general, cualquier otro dato o información relativa que ayude a determinar con la mayor precisión el consumo no pagado.
 
-Para el cálculo de la indemnización, en el supuesto de la fracción II del artículo 40 de la Ley, se promediarán los consumos registrados por el equipo de medición considerados como normales en relación a la historia del suministro de dos años retroactivos de la fecha del acta de inspección.
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
 
-Se estimará como periodo máximo de consumo indebido un lapso de tres meses para los servicios temporales en aquellas obras en construcción destinadas a casas habitación; en el resto de instalaciones el mencionado periodo en ningún caso excederá de veinticuatro meses.
+Para el cálculo de la indemnización, en el supuesto de la fracción II del artículo 40 de la Ley, se promediarán los consumos registrados por el equipo de medición considerados como normales con base en la historia del suministro de hasta diez años anteriores a la fecha de la constancia de verificación.
+
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
+Se estimará como período máximo de consumo indebido un lapso de tres meses para los servicios temporales en aquellas obras en construcción destinadas a casas habitación; en el resto de las obras en construcción o instalaciones cualesquiera que sea su uso, el mencionado período en ningún caso excederá de diez años.
 
 ###### Artículo 171.
 
@@ -1687,7 +1905,9 @@ Para tender a lo dispuesto en el último párrafo del artículo 40 de la Ley, la
 
 I. Que los infractores se encuentren ubicados en asentamientos irregulares en trámite de regularización;
 
-II. Que no hayan solicitado la electrificación del asentamiento, o habiéndolo hecho no hayan podido pagar la aportación que les corresponda, en los términos del artículo 12;
+> <small>(REFORMADA, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
+II. Que no hayan solicitado la electrificación del asentamiento, o habiéndolo hecho no hayan podido pagar la aportación que les corresponda, en los términos previstos en el Reglamento de la Ley del Servicio Público de Energía Eléctrica, en Materia de Aportaciones;
 
 III. Que si a juicio del suministrador se dan los supuestos de la Ley, solicite a la Secretaría su anuencia para no cortar el servicio;
 
@@ -1699,15 +1919,33 @@ VI. Para la celebración de cada convenio, en forma individual, será condición
 
 ### CAPITULO XII. Del Recurso Administrativo
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 172.
 
-Para los efectos del artículo 43 de la Ley, el recurso se sujetará a lo siguiente:
+La interposición de la inconformidad prevista en el artículo 43 de la Ley, se sujetará a lo siguiente:
 
 I. El escrito mediante el cual se interponga será presentado ante la Secretaría, directamente o por otros medios que dejen certeza de la fecha en que se interpone;
 
 II. Se correrá traslado al suministrador o a cualquier tercero que pudiera resultar afectado por la resolución que se dicte, para que, en un plazo de quince días hábiles, alegue lo que a su derecho convenga y ofrezca las pruebas que estime pertinentes, y
 
 III. Se tendrá por no interpuesto cuando sea presentado fuera de tiempo y cuando no se acredite el interés jurídico o la personalidad de quien lo promueva.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
+### CAPITULO XIII. Del Aprovechamiento
+
+> <small>(ADICIONADO, D.O.F. 24 DE AGOSTO DE 2012)</small>
+
+###### Artículo 173.
+
+Para los efectos del artículo 46 de la Ley, se entenderá como activo fijo neto en operación, el activo fijo en operación disminuido de:
+
+I. La depreciación acumulada;
+
+II. La deuda pendiente de amortizar directamente relacionada con tales activos, y
+
+III. Las aportaciones de los solicitantes.
 
 ## TRANSITORIOS
 
@@ -1769,7 +2007,7 @@ SEPTIMO. En las convocatorias que se publiquen para adiciones de capacidad dentr
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes de mayo de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Pedro Aspe Armella.- Rúbrica.- El Secretario de Comercio y Fomento Industrial, Jaime Serra Puche.- Rúbrica.- El Secretario de Energía, Minas e Industria Paraestatal, Emilio Lozoya Thalmann.- Rúbrica.
 
-N. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+N. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
 
 D.O.F. 19 DE MAYO DE 1994.
 
@@ -1786,3 +2024,27 @@ D.O.F. 24 DE MAYO DE 2001.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE AGOSTO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La publicación de las especificaciones técnicas del suministrador a que se refiere el artículo 13 Bis del presente Decreto seguirá el siguiente procedimiento:
+
+I. El suministrador deberá realizar, previo a la entrega de la propuesta correspondiente a la Secretaría, la revisión de las especificaciones técnicas del suministrador vigentes;
+
+II. El suministrador deberá proporcionar a la Secretaría dentro de los noventa días siguientes a la entrada en vigor del presente Decreto un programa de trabajo para realizar la revisión señalada en la fracción anterior, el cual no deberá exceder de dieciocho meses;
+
+III. La Secretaría revisará el contenido de la propuesta de especificaciones técnicas del suministrador que se entregue conforme al programa de trabajo a que se refiere la fracción anterior, dentro de los dieciocho meses siguientes a la fecha de su entrega y comunicará al suministrador, en su caso, las observaciones o modificaciones a que hubiere lugar;
+
+IV. El suministrador deberá entregar a la Secretaría la nueva propuesta de especificaciones técnicas que atienda las observaciones o modificaciones a que se refiere la fracción que antecede dentro de los cuarenta y cinco días siguientes a la fecha en la cual las haya recibido, o los argumentos por los cuales las considera improcedentes;
+
+V. Una vez que el suministrador haya atendido las observaciones o modificaciones que se hayan derivado del análisis de los argumentos a que se refiere la fracción anterior, la Secretaría, de considerarlo procedente, aprobará las especificaciones técnicas del suministrador, y
+
+VI. Una vez aprobadas las especificaciones técnicas del suministrador, la Secretaría procederá a la publicación de sus títulos en el Diario Oficial de la Federación.
+
+En tanto la Secretaría apruebe las especificaciones técnicas del suministrador, seguirán aplicándose las que se encuentren vigentes a la entrada en vigor del presente Decreto.
+
+TERCERO.- Los procedimientos de conciliación que se encuentren en trámite o pendientes de resolución ante la Secretaría a la fecha de entrada en vigor del presente Decreto, deberán sustanciarse y concluirse de conformidad con las disposiciones vigentes al momento de haberse iniciado tales procedimientos.
+
+CUARTO.- La Secretaría, en un plazo máximo de 180 días naturales a partir de la entrada en vigor del presente Decreto, deberá emitir el Manual de Disposiciones relativas al suministro y venta de energía eléctrica destinada al servicio público, a que refiere el artículo 43 de este Decreto.
