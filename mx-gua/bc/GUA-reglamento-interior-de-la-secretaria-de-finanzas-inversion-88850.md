@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-secretaria-de-finanzas-inversion-8885
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-07-27"
-last_updated: "2012-07-27"
+last_updated: "2012-08-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88850&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS, INVERSION Y ADMINISTRACION -ANTES REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS Y ADMINISTRACION DEL ESTADO DE GUANAJUATO-
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE AGOSTO DE 2012 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN DEL ESTADO DE GUANAJUATO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 24 DE AGOSTO DE 2012.</small>
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 27 de julio de 2012.
 
@@ -2063,8 +2063,6 @@ VII. Las demás que las disposiciones legales y reglamentarias le atribuyan, as�
 
 #### Sección Tercera. Dirección de Análisis y Seguimiento del Gasto Público
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE AGOSTO DE 2012 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 Facultades de la Dirección de Análisis y Seguimiento del Gasto Público
 
 ###### Artículo 67.
@@ -2107,7 +2105,9 @@ IV. Realizar análisis histórico y proyecciones del gasto público a corto y me
 
 V. Integrar la información del gasto público que sea solicitada por las diferentes instancias cuando así proceda de conformidad con las disposiciones legales aplicables; así como elaborar periódicamente los informes del ejercicio presupuestal del gasto público;
 
-VI. Diseñar, en coordinación con la Secretaría de la Gestión Pública, la Unidad de Planeación e Inversión Estratégica, así como de la Dirección General de Contabilidad Gubernamental, los lineamientos y mecanismos para que las dependencias y entidades proporcionen información sobre avance de metas, para su análisis, evaluación e integración a la cuenta pública;
+> <small>(F. DE E., P.O. 24 DE AGOSTO DE 2012)</small>
+
+VI. Diseñar, en coordinación con la Secretaría de la Gestión Pública, la Coordinación General de Programación y Gestión de la Inversión Pública, así como de la Dirección General de Contabilidad Gubernamental, los lineamientos y mecanismos para que las dependencias y entidades proporcionen información sobre avance de metas, para su análisis, evaluación e integración a la cuenta pública;
 
 VII. Elaborar la proyección del cierre anual del ejercicio del gasto público, a fin de proporcionar elementos para la toma de decisiones de las autoridades de la Secretaría; y
 
