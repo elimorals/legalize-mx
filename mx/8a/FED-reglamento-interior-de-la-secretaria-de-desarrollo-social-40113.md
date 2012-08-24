@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-desarrollo-social-40113
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-07-19"
-last_updated: "2009-07-31"
+last_updated: "2012-08-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40113&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2004-07-14"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE JULIO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL, PUBLICADO EN EL D.O.F. DE 24 DE AGOSTO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Reglamento publicado en la Sección Primera del Diario Oficial de la Federación, el lunes 19 de julio de 2004.
 
@@ -1462,3 +1464,19 @@ D.O.F. 8 DE JUNIO DE 2009.
 D.O.F. 31 DE JULIO DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE AGOSTO DE 2012.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Desarrollo Social, publicado en el Diario Oficial de la Federación el diecinueve de julio de dos mil cuatro y sus reformas.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente ordenamiento.
+
+CUARTO.- Los asuntos pendientes a la entrada en vigor de este Reglamento, que conforme al mismo deban pasar de una unidad administrativa a otra u otras, continuarán su trámite y serán resueltos por aquella o aquellas unidades a las que se les haya atribuido la competencia en este ordenamiento, mismas que pueden seguir utilizando la papelería en la que conste su anterior denominación hasta agotar su existencia, sin que ello afecte la validez de sus actos.
+
+QUINTO.- Las modificaciones a la estructura orgánica de la Secretaría de Desarrollo Social que deriven de la entrada en vigor del presente Decreto serán realizadas mediante movimientos compensados, por lo que no aumentarán el presupuesto regularizable de la Secretaría.
+
+La Secretaría en los casos de creación y/o supresión de puestos deberá, con sujeción a las disposiciones jurídicas aplicables, determinar lo conducente, sin perjuicio de los derechos de los trabajadores.
+
+SEXTO.- Los recursos financieros y materiales que estuvieren asignados a las unidades administrativas que desaparecen o modifican su competencia en virtud de lo dispuesto en el presente ordenamiento, serán reasignados a las unidades que asumen las correspondientes atribuciones con la intervención de la Oficialía Mayor y de conformidad a las instrucciones que al efecto imparta el Secretario.
