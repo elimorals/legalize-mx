@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-derechos-y-cultura-indigena-del-estado-de-mexico-26754"
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-10"
-last_updated: "2011-09-01"
+last_updated: "2012-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26754&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE DERECHOS Y CULTURA INDÍGENA DEL ESTADO DE MÉXICO
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 337, PUBLICADO EN LA G.G. DE 1 DE SEPTIEMBRE DE 2011, CUANDO EN OTROS ORDENAMIENTOS LEGALES, SE HAGA REFERENCIA AL TÉRMINO PERSONAS CON CAPACIDADES DIFERENTES, SE ENTENDERÁ QUE CORRESPONDE AL TÉRMINO PERSONAS CON DISCAPACIDAD.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE AGOSTO DE 2012.
 
 Ley publicada en la Sección Cuarta de la Gaceta de Gobierno del Estado de México, el martes 10 de septiembre del 2002.
 
@@ -345,6 +345,14 @@ Los miembros de los pueblos y de las comunidades indígenas en el Estado de Méx
 
 La Secretaría de Salud, en el ámbito de su competencia, garantizará el acceso efectivo de los pueblos y comunidades indígenas a los servicios de salud pública que otorga el Estado, aprovechando debidamente la medicina tradicional y convenir en lo conducente con cualquier otro sector que promueva acciones en esta materia.
 
+> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
+Para efectos del párrafo anterior la Secretaria promoverá, en el ámbito de su competencia y en coordinación con las autoridades correspondientes, programas para la construcción y mejoramiento de clínicas de salud regionales, así como para el funcionamiento de unidades móviles de salud en las comunidades indígenas más apartadas.
+
+> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
+Asimismo, dispondrá de las medidas necesarias para que el personal que preste sus servicios en los pueblos y comunidades indígenas, cuente con los conocimientos básicos sobre la cultura, costumbres y lenguas propias de estas comunidades; apoyándose, en su caso, de traductores e intérpretes en lenguas indígenas, mediante la celebración de convenios de colaboración con las instituciones que puedan coadyuvar a la obtención de este fin.
+
 ### CAPITULO II. Cultura y Educación Para el Desarrollo de los
 
 Pueblos y las Comunidades Indígenas
@@ -642,3 +650,9 @@ SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 TERCERO.- Cuando en otros ordenamientos legales, se haga referencia al término personas con capacidades diferentes, se entenderá que corresponde al término personas con discapacidad.
 
 CUARTO.- El Ejecutivo del Estado hará las modificaciones a los reglamentos, decretos administrativos, acuerdos y demás disposiciones de su competencia, para incorporar a estos el término de discapacitados en sustitución de personas con capacidades diferentes, de acuerdo con el presente Decreto.
+
+G.G. 24 DE AGOSTO DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
