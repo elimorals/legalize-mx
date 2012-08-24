@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-penales-para-el-estado-de-mexico-67092
 country: "mx"
 rank: "codigo"
 publication_date: "2009-02-09"
-last_updated: "2012-08-10"
+last_updated: "2012-08-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MÉXICO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NO. 4 PUBLICADO EN LA G.G. DE 30 DE SEPTIEMBRE DE 2009, EL SISTEMA PROCESAL PENAL ACUSATORIO ADVERSARIAL Y ORAL HA SIDO INCORPORADO EN EL PRESENTE ORDENAMIENTO, Y ENTRARÁ EN VIGOR EN LOS SIGUIENTES PLAZOS Y DISTRITOS: 1) EL PRIMERO DE OCTUBRE DE DOS MIL NUEVE, EN LOS DISTRITOS JUDICIALES DE TOLUCA, LERMA, TENANCINGO Y TENANGO DEL VALLE; 2) EL PRIMERO DE ABRIL DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE CHALCO, OTUMBA Y TEXCOCO; 3) EL PRIMERO DE OCTUBRE DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE NETZAHUALCÓYOTL, EL ORO, IXTLAHUACA, SULTEPEC Y TEMASCALTEPEC; 4) EL PRIMERO DE ABRIL DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE TLALNEPANTLA, CUAUTITLÁN Y ZUMPANGO; 5) EL PRIMERO DE OCTUBRE DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE ECATEPEC DE MORELOS, JILOTEPEC Y VALLE DE BRAVO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 10 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 24 DE AGOSTO DE 2012.
 
 Código publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el lunes 9 de febrero de 2009.
 
@@ -1117,7 +1117,9 @@ En los casos en que el, auto de vinculación a proceso se haya dictado por un de
 
 I. Que el imputado no haya sido condenado por delito doloso;
 
-II. Que no tenga o haya tenido otro proceso suspendido a prueba;
+> <small>(REFORMADA, G.G. 24 DE AGOSTO DE 2012)</small>
+
+II. Que no tenga o haya tenido otro proceso suspendido a prueba dentro de los cinco años anteriores al día de la audiencia que resuelva sobre la solicitud;
 
 III. Pague la reparación del daño, la garantice a satisfacción de la víctima u ofendido o se apruebe el plan de reparación; y
 
@@ -4317,6 +4319,8 @@ Tratándose de sentencias, la reposición se deberá limitar a las actuaciones d
 
 ### CAPÍTULO ÚNICO. PROCEDIMIENTO
 
+> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
 Legitimación
 
 ###### Artículo 424.
@@ -4395,39 +4399,33 @@ Oportunidad para la ejecución
 
 ###### Artículo 431.
 
-La acción penal privada podrá ser ejercida por la víctima u ofendido, ante el juez de control competente.
+La acción penal privada podrá ser ejercida por la víctima u ofendido, o por su apoderado general para pleitos y cobranzas, en este último caso el querellante deberá presentarse a ratificar la demanda, ante el juez de control competente.
+
+El querellante deberá estar asistido por licenciado en derecho quien protestará desempeñar el cargo conferido y podrá intervenir como si lo hiciere directamente la víctima u ofendido, salvo los casos previstos en este capítulo.
+
+> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
 
 Procedencia
 
 ###### Artículo 432.
 
-La acción penal privada procederá tratándose de los siguientes delitos:
+La acción penal privada procederá tratándose de los delitos perseguibles por querella. La víctima u ofendido podrán optar entre ejercer esta acción ante el juez de control competente o acudir ante el Ministerio Público a presentar su querella para que éste realice la investigación, en cuyo caso, la acción penal será ejercida únicamente por el Ministerio Público, precluyendo el derecho de la víctima u ofendido de ejercer la acción penal privada.
 
-I. Injurias;
+> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
 
-II. Difamación;
-
-III. Calumnia;
-
-IV. Culposos previstos en el artículo 62 del Código Penal del Estado de México;
-
-> <small>(REFORMADA, G.G. 15 DE MARZO DE 2011)</small>
-
-V. Lesiones y requerimiento ilícito, perseguibles por querella; y
-
-VI. Robo simple, abuso de confianza, fraude y daño en los bienes, cuando el monto del daño patrimonial no exceda de mil días de salario mínimo del área geográfica respectiva.
-
-Inicio del procedimiento
+Inicio del procedimiento.
 
 ###### Artículo 433.
 
-El procedimiento inicia con la presentación por escrito de la querella ante el juez de control; se acompañarán copias para el imputado y el ministerio público.
+El procedimiento inicia con la presentación de la demanda de acción penal privada ante el juez de control competente; se acompañarán copias para el imputado y el ministerio público.
 
 Requisitos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 434.
 
-El escrito por el que se ejercita la acción privada deberá contener:
+La demanda por la que se ejercita la acción privada deberá contener:
 
 I. Nombre y domicilio del querellante;
 
@@ -4449,9 +4447,11 @@ VI. Firma del querellante o dactilograma.
 
 Admisión de la acción privada
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 435.
 
-Recibido el escrito de querella, el juez de control constatará que se cumpla con los requisitos señalados en el artículo anterior y que se trata de un hecho delictuoso materia de acción privada.
+Recibida la demanda, el juez de control constatará que se cumpla con los requisitos señalados en el artículo anterior y que se trata de un hecho delictuoso materia de acción privada.
 
 De no cumplir con los requisitos, el juez prevendrá para su cumplimiento por el término de tres días. De no subsanarse éstos, o de ser improcedente esta vía se inadmitirá a trámite.
 
@@ -4461,7 +4461,9 @@ Admisión a trámite
 
 Cumplidos los requisitos señalados, se admitirá a trámite y se fijará fecha para la celebración de audiencia dentro de tres días a efecto de que el ministerio público manifieste lo que a su representación social competa.
 
-En la misma audiencia, el juez proveerá lo necesario para el desahogo de las diligencias propuestas por el querellante, las que una vez practicadas, el juez, si procediere, citará a las partes a la audiencia de formulación de la imputación que deberá celebrarse después de diez y antes de quince días siguientes a la citación.
+> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
+En la misma audiencia, el juez proveerá lo necesario para el desahogo de las diligencias propuestas por la parte querellante, las que una vez practicadas, el jez (sic), si procediere, citará a las partes a la audiencia de formulación de la imputación que deberá celebrarse después de diez y antes de quince días siguientes a la citación.
 
 A esta audiencia se citará al imputado, a quien se le indicará que deberá comparecer acompañado de su defensor, bajo el apercibimiento de que, en caso de no comparecer, se ordenará su aprehensión o comparecencia según corresponda.
 
@@ -4479,29 +4481,37 @@ Rendida la declaración del imputado o manifestado su deseo de no hacerlo, el ju
 
 En la misma audiencia, el juez podrá resolver sobre la vinculación a proceso, de no hacerlo, señalará nueva fecha para tal efecto dentro del plazo constitucional.
 
+> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
+La prisión preventiva como medida cautelar sólo podrá ser solicitada por el Ministerio Público siempre que se den los supuestos establecidos en la Constitución Política de los Estados Unidos Mexicanos y este Código. La parte querellante podrá solicitar al juez la imposición de otras medidas cautelares que este Código autoriza.
+
+> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
 Desistimiento
 
 ###### Artículo 438.
 
-El desistimiento de la acción penal privada produce el sobreseimiento.
-
-Después de la vinculación a proceso, no habrá lugar al desistimiento de la acción privada, si el imputado se opusiere a él.
+El querellante podrá retirar su demanda antes de que sea admitida a trámite sin efecto alguno en su contra. Una vez admitida a trámite el desistimiento de la acción penal privada producirá el sobreseimiento con efectos de sentencia absolutoria.
 
 Abandono de la acción
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 439.
 
-La inasistencia injustificada del querellante a la audiencia de juicio, así corno su inactividad en el procedimiento por más de treinta días, entendiendo por tal la falta de realización de diligencias útiles para dar curso al proceso que fueren a su cargo, producirán el abandono de la acción privada. En tal caso el tribunal deberá, de oficio o a petición de parte, decretar el sobreseimiento de la causa.
+La inasistencia injustificada del querellante a la audiencia de juicio, así como su inactividad en el procedimiento por más de treinta días, entendiendo por tal la falta de realización de diligencias útiles para dar curso al proceso que fueren a su cargo, producirán el abandono de la acción privada. En tal caso el tribunal deberá, de oficio o a petición de parte, decretar el sobreseimiento de la causa con efectos de sentencia absolutoria.
 
 Lo mismo se observará si, habiendo muerto o caído en incapacidad el querellante, sus herederos o representante legal, no concurrieren a sostener la acción dentro del término de sesenta días.
+
+> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
 
 Comparecencia a la audiencia
 
 ###### Artículo 440.
 
-El querellante podrá comparecer a la audiencia en forma personal o por mandatario con facultades suficientes para transigir.
+El querellante podrá comparecer a la audiencia en forma personal, por medio de su apoderado general o por el profesional del derecho que le asiste en términos de este capítulo.
 
-Sin perjuicio de ello, deberá concurrir en forma personal, cuando el órgano jurisdiccional así lo ordene.
+Sin perjuicio de ello, deberá concurrir en forma personal, cuando el órgano jurisdiccional así lo ordene y siempre que el imputado haya aportado su testimonio como prueba.
 
 Norma supletoria
 
@@ -5114,3 +5124,19 @@ G.G. 10 DE AGOSTO DE 2012.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 24 DE AGOSTO DE 2012.
+
+DECRETO NÚMERO 496, POR EL QUE SE REFORMAN LOS ARTÍCULOS 431, 432, 433, 434 EN SU PRIMER PÁRRAFO, 435 EN SU PRIMER PÁRRAFO, 436 EN SU SEGUNDO PÁRRAFO, 438, 439 EN SU PRIMER PÁRRAFO Y 440. SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 437 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 24 DE AGOSTO DE 2012.
+
+DECRETO NÚMERO 501, POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 121 DEL CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
