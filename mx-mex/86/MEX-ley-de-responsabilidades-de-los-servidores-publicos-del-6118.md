@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-responsabilidades-de-los-servidores-publicos-del-6118"
 country: "mx"
 rank: "ley"
 publication_date: "1990-09-11"
-last_updated: "2012-05-04"
+last_updated: "2012-08-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE AGOSTO DE 2012.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 11 de septiembre de 1990.
 
@@ -43,7 +43,7 @@ LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS
 
 ### CAPITULO UNICO. Disposiciones Generales
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE MARZO DE 1997)</small>
 
 ###### Artículo 1.
 
@@ -67,7 +67,7 @@ Son sujetos de esta Ley, toda persona que desempeñe un empleo, cargo o comisió
 
 También quedan sujetos a esta Ley, aquellas personas que manejen o administren recursos económicos estatales, municipales, concertados o convenidos por el Estado con la Federación o con sus Municipios; y aquellas que en los términos del artículo 73 de esta Ley, se beneficien con adquisiciones, enajenaciones, arrendamientos, mantenimientos y construcción de obras públicas, así como prestación de servicios relacionados, que deriven de actos o contratos que se realicen con cargo a dichos recursos.
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 1994)</small>
 
 ###### Artículo 3.
 
@@ -75,7 +75,7 @@ Las autoridades competentes para aplicar la presente ley, serán:
 
 I.- La Legislatura del Estado.
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
 II. El Consejo de la Judicatura del Estado.
 
@@ -83,7 +83,9 @@ III.- La Secretaría de la Contraloría.
 
 IV.- Las demás dependencias del Ejecutivo Estatal en el ámbito de atribuciones que les otorga este ordenamiento.
 
-V.- Los Ayuntamientos y los Presidentes Municipales.
+> <small>(REFORMADA, G.G. 24 DE AGOSTO DE 2012)</small>
+
+V.- Los Ayuntamientos y los Presidentes Municipales, salvo las responsabilidades resarcitorias determinadas por el Órgano Superior de Fiscalización del Estado de México.
 
 VI.- Los demás órganos que determinen las leyes.
 
@@ -91,13 +93,11 @@ VI.- Los demás órganos que determinen las leyes.
 
 Los procedimientos para la aplicación de las sanciones a que se refiere esta Ley y las responsabilidades penales o de carácter civil que dispongan otros ordenamientos, se desarrollarán autónomamente según su naturaleza y por la vía procesal que corresponda, debiendo las autoridades que por sus funciones conozcan o reciban denuncias, turnar éstas a quien deba conocer de ellas; no podrán imponerse dos veces por una sola conducta, sanciones de la misma naturaleza.
 
-## TITULO SEGUNDO. Procedimientos ante la Legislatura del Estado en materia
-
-de Juicio Político y Declaración de Procedencia
+## TITULO SEGUNDO. Procedimientos ante la Legislatura del Estado en materia de Juicio Político y Declaración de Procedencia
 
 ### CAPITULO I. Sujetos, Causas del Juicio Político y Sanciones
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G 3 DE MARZO DE 1997)</small>
 
 ###### Artículo 5.
 
@@ -117,7 +117,7 @@ I. El ataque de las instituciones democráticas;
 
 II. El ataque a la forma de gobierno republicano, representativo y popular del Estado, así como a la organización política y administrativa de los Municipios;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, G.G 21 DE DICIEMBRE DE 1998)</small>
 
 III. Las violaciones graves a las garantías individuales o sociales;
 
@@ -129,7 +129,7 @@ VI. Cualquier infracción a la Constitución Local o a las leyes estatales cuand
 
 VII. Las omisiones de carácter grave, en los términos de la fracción anterior; y
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
 VIII. Las violaciones graves a los planes, programas y presupuestos de administración pública estatal y municipal y a las leyes que determinen el manejo de los recursos económicos.
 
@@ -233,7 +233,7 @@ En caso contrario, la resolución decretará la destitución del cargo y el peri
 
 ### CAPITULO III. De la Declaración de Procedencia por Responsabilidad Penal
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G 3 DE MARZO DE 1997)</small>
 
 ###### Artículo 22.
 
@@ -257,15 +257,13 @@ Si la Legislatura declara que ha lugar a proceder contra el inculpado, éste que
 
 Para proceder penalmente contra el Gobernador, Diputados y Magistrados del Tribunal Superior de Justicia del Estado, en los términos del artículo 111 de la Constitución General de la República, la Legislatura al recibir de la Cámara de Diputados del Congreso de la Unión la declaración correspondiente, procederá conforme a sus atribuciones y en los términos de la Constitución del Estado a declarar si procede la homologación de la Declaratoria del Congreso de la Unión y consecuentemente el retiro de la protección o fuero que la propia Constitución del Estado otorga a tales servidores públicos a fin de ser enjuiciados como legalmente hubiere lugar.
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 1997)</small>
+> <small>(REFORMADO, G.G. 3 DE MARZO DE 1997)</small>
 
 ###### Artículo 26.
 
 Cuando se siga el proceso penal a un servidor público de los mencionados en el artículo 131 de la Constitución Política del Estado Libre y Soberano de México, sin haberse satisfecho el procedimiento al que se refieren los artículos anteriores, el Diputado Secretario de la Legislatura o de la Diputación Permanente, librará oficio al Juez del Tribunal que conozca de la causa, a fin de que se suspenda el procedimiento en tanto se plantea y resuelve si ha lugar a proceder.
 
-### CAPITULO IV. Disposiciones Comunes para los Capítulos
-
-II y III del Título Segundo de esta Ley
+### CAPITULO IV. Disposiciones Comunes para los Capítulos II y III del Título Segundo de esta Ley
 
 ###### Artículo 27.
 
@@ -321,7 +319,7 @@ En todo caso, las votaciones deberán ser nominales, para formular, aprobar o re
 
 En el juicio político a que se refiere esta Ley, los acuerdos y determinaciones de la Legislatura se tomarán en sesión pública, excepto en la que se presente acusación o cuando las buenas costumbres o el interés general exijan que la audiencia sea secreta.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE MARZO DE 1997)</small>
 
 ###### Artículo 37.
 
@@ -347,17 +345,17 @@ En todo lo relativo al procedimiento no previsto en esta Ley así como en el ofr
 
 ### CAPITULO I. De los Sujetos
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 41.
 
 Son sujetos de responsabilidad administrativa disciplinaria, los servidores públicos y todas aquellas personas a que se refiere el artículo 2 de esta ley.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
-### CAPÍTULO II. De la Responsabilidad Administrativa Disciplinaria
+### CAPITULO II. De la Responsabilidad Administrativa Disciplinaria
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 42.
 
@@ -399,15 +397,15 @@ XVII. Desempeñar su empleo, cargo o comisión sin obtener beneficios adicionale
 
 XVIII. Abstenerse de intervenir o participar en la selección, nombramiento, designación, contratación, promoción, suspensión, remoción, cese o sanción, de cualquier servidor público, cuando tenga interés personal, familiar o de negocios en el caso, o pueda derivar de alguna ventaja o beneficio para él o para las personas a las que se refiere la fracción XIII;
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 1994)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 1994)</small>
 
 XIX. Presentar con oportunidad y veracidad la Manifestación de Bienes en los términos que señala la Ley.
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
 XX. Atender con diligencia las instrucciones, requerimientos y resoluciones que reciba de la Secretaría de la Contraloría o del órgano de control interno conforme a su competencia;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ENERO DE 1994)</small>
 
 XXI. Supervisar que los servidores públicos sujetos a su dirección, cumplan con las disposiciones de este artículo e informar por escrito ante el superior jerárquico u órgano de control interno los actos u omisiones que en ejercicio de sus funciones llegare a advertir respecto de cualquier servidor público, que puedan ser causa de responsabilidad administrativa en los términos de esta Ley, y de las normas que al efecto se expidan.
 
@@ -445,7 +443,7 @@ e) Cumplir en sus términos las recomendaciones de la Comisión de Derechos Huma
 
 f) Observar las disposiciones relacionadas con el procedimiento de designación de los Defensores Municipales de Derechos Humanos.
 
-> <small>(ADICIONADA, P.O. 5 DE ENERO DE 1994)</small>
+> <small>(ADICIONADA, G.G. 5 DE ENERO DE 1994)</small>
 
 XXV. Abstenerse, en ejercicio de sus funciones o con motivo de ellas, de celebrar o autorizar pedidos o contratos relacionados con adquisiciones, enajenaciones, arrendamientos y mantenimiento de bienes muebles e inmuebles y la contratación de servicios y de obra pública, con quien desempeñe un empleo, cargo o comisión en el servicio público, o bien con las sociedades de las que dichas personas formen parte, sin la autorización previa y específica de la Secretaría, conforme a las disposiciones legales aplicables al Titular de la Dependencia, Organismo Descentralizado, Empresa de Participación de que se trate o Fideicomiso Público.
 
@@ -455,19 +453,19 @@ Por ningún motivo podrá celebrarse pedido o contrato alguno con quien se encue
 
 XXVI. Cumplir con la entrega de índole administrativo del despacho y de toda aquella documentación inherente a su cargo, en los términos que establezcan las disposiciones legales o administrativas que al efecto se señalen;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
 XXVII. Proporcionar, en su caso, en tiempo y forma ante las dependencias competentes, la documentación comprobatoria de la aplicación de recursos económicos federales, estatales o municipales, asignados a través de los programas respectivos;
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(ADICIONADA, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
 XXVIII. Proporcionar el apoyo, asistencia y atención que requiera el órgano de control interno de la dependencia, organismo auxiliar, fideicomiso o ayuntamiento, a efecto de que pueda cumplir con las atribuciones que le señalen las leyes, reglamentos y demás disposiciones aplicables;
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(ADICIONADA, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
 XXIX. Abstenerse de contratar como servidor público a quien se encuentre inhabilitado para desempeñar algún empleo, cargo o comisión en el servicio público o a quien se encuentre sujeto a un procedimiento administrativo;
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(ADICIONADA, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
 XXX. Abstenerse de tramitar o intervenir como abogado, representante, apoderado o en cualquier otra forma semejante en la atención de asuntos de los que haya tenido conocimiento, tramitado o que se encuentren en el área en la cual se desempeño como servidor público. Esta prevención es aplicable hasta un año después de que el servidor público se haya retirado del empleo, cargo o comisión y (sic);
 
@@ -475,11 +473,15 @@ XXX. Abstenerse de tramitar o intervenir como abogado, representante, apoderado 
 
 XXXI. Otorgar o percibir únicamente la remuneración que haya sido aprobada en términos de ley, incluyendo bonos, gratificaciones y cualquier otra remuneración que se agregue al salario;
 
-(REUBICADA Y REFORMADA, G.G. 21 DE JULIO DE 2006)
+> <small>(REFORMADA, G.G. 24 DE AGOSTO DE 2012)</small>
 
-XXXII. Las demás que le impongan las leyes, reglamentos o disposiciones administrativas aplicables.
+XXXII. Abstenerse de remitir vehículos a cualquier depósito de vehículos concesionado o de carácter estatal, con motivo distinto a los permitidos por las disposiciones legales aplicables;
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(ADICIONADA, G.G. 24 DE AGOSTO DE 2012)</small>
+
+XXXIII. Las demás que le impongan las leyes, reglamentos o disposiciones administrativas aplicables.
+
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 43.
 
@@ -489,13 +491,13 @@ Se incurre en responsabilidad administrativa disciplinaria, por el incumplimient
 
 La responsabilidad administrativa disciplinaria, tiene por objeto disciplinar y sancionar las conductas de los servidores públicos que infrinjan alguna de las disposiciones administrativas contenidas en el artículo anterior, con independencia de otra responsabilidad de cualquier naturaleza; inclusive de la responsabilidad administrativa resarcitoria o de índole penal.
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 1994)</small>
 
 ###### Artículo 44.
 
 Para los efectos de esta Ley, se entenderá por Secretaría, a la Secretaría de la Contraloría.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
 Para los mismos efectos, en el Poder Ejecutivo se entenderá por superior jerárquico al titular de la dependencia correspondiente y en los organismos auxiliares y fideicomisos públicos al coordinador del sector, quienes aplicarán las sanciones disciplinarias cuya imposición se deriva de esta ley.
 
@@ -503,13 +505,11 @@ Para los mismos efectos, en el Poder Ejecutivo se entenderá por superior jerár
 
 En los poderes Legislativo y Judicial, serán superiores jerárquicos para efectos de esta Ley, el Presidente de la Junta de Coordinación Política y el Presidente del Consejo de la Judicatura del Estado, respectivamente, quienes aplicarán las sanciones disciplinarias que establece la misma, salvo lo que dispongan sus respectivas leyes orgánicas.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
 En el gobierno municipal se entenderá por superior jerárquico al presidente municipal, quien aplicará las sanciones disciplinarias derivadas de esta ley.
 
-### CAPITULO III. Sanciones Disciplinarias y Procedimiento
-
-Administrativo para aplicarlas
+### CAPITULO III. Sanciones Disciplinarias y Procedimiento Administrativo para aplicarlas
 
 ###### Artículo 45.
 
@@ -523,7 +523,7 @@ Lo propio harán, en la esfera de su competencia los Poderes Legislativo y Judic
 
 La Secretaría, el superior jerárquico y todos los servidores públicos, tienen la obligación de respetarla y hacer respetar el derecho a la formulación de quejas y denuncias a que se refiere el artículo anterior, y evitar que con motivo de las mismas se causen molestias indebidas a los quejosos o denunciantes.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 47.
 
@@ -537,29 +537,29 @@ Los ayuntamientos establecerán los órganos y sistemas respectivos en los térm
 
 Los servidores públicos de la Secretaría, que incurran en responsabilidad administrativa, serán sancionados conforme al presente Capítulo, por el órgano que disponga su reglamento interior.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 49.
 
 Las sanciones por responsabilidad administrativa disciplinaria consistirán en:
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 1994)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 1994)</small>
 
 I.- Amonestación;
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 1994)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 1994)</small>
 
 II.- Suspensión del empleo, cargo o comisión;
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 1994)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 1994)</small>
 
 III.- Destitución del empleo, cargo o comisión;
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 1994)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 1994)</small>
 
 IV.- Sanción económica;
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 1994)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 1994)</small>
 
 V.- Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público.
 
@@ -569,15 +569,15 @@ Para que una persona que hubiere sido inhabilitada en los términos de Ley, pued
 
 La contravención a lo dispuesto por el párrafo que antecede será causa de responsabilidad administrativa para el Titular de la Dependencia, Organismo Descentralizado, Empresa de Participación o Fideicomiso Público en los términos de esta Ley, quedando sin efecto el nombramiento o contrato que en su caso se haya realizado.
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 1994)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 1994)</small>
 
 VI.- Arresto hasta por 36 horas en los términos de la Ley de Seguridad Pública del Estado.
 
 ###### Artículo 50.
 
-(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, P.O. 7 DE FEBRERO DE 1997)
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 51.
 
@@ -591,7 +591,7 @@ II. El cociente se multiplicará por el salario mínimo mensual vigente en la ca
 
 Para los efectos de esta Ley se entenderá por salario mínimo mensual, el equivalente a treinta veces al salario mínimo diario vigente en la capital del Estado.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 52.
 
@@ -599,7 +599,7 @@ La Secretaría y los órganos de control interno de las dependencias, de los org
 
 Tratándose de presidentes municipales, regidores y síndicos, la imposición de las sanciones a que se refiere este artículo, corresponde a la Legislatura, y respecto a los demás servidores públicos municipales, su aplicación corresponde al presidente municipal en términos del tercer párrafo del artículo 47 de esta ley.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 53.
 
@@ -617,9 +617,9 @@ La Secretaría aplicará las sanciones correspondientes a los titulares y a los 
 
 ###### Artículo 55.
 
-(DEROGADO, P.O. 21 DE DICIEMBRE DE 1998)
+(DEROGADO, G.G. 21 DE DICIEMBRE DE 1998)
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 56.
 
@@ -637,37 +637,37 @@ La Secretaría y el superior jerárquico informando previamente a ésta, en los 
 
 Lo anterior, es aplicable a los Poderes Judicial y Legislativo, como también a los Ayuntamientos a través de sus órganos competentes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 59.
 
 Las sanciones administrativas disciplinarias se impondrán mediante el siguiente procedimiento:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
 I. El procedimiento administrativo disciplinario se inicia cuando se notifica al presunto responsable el oficio por el que se le da a conocer el lugar, día y hora en que se realizará la audiencia, la responsabilidad o responsabilidades que se le imputen y su derecho a ofrecer pruebas y alegar en la misma, por si o por medio de defensor. A la audiencia, podrá asistir el representante de la dependencia de adscripción que para tal efecto se designe.
 
 Entre la fecha de la citación y la de la audiencia, deberá mediar un plazo no menor de cinco ni mayor de quince días hábiles;
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
 En el desahogo de la garantía de audiencia, se podrá interrogar al servidor público sobre todos los hechos y circunstancias que hayan motivado el procedimiento administrativo y sean conducentes para el conocimiento de los hechos;
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 1994)</small>
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 1994)</small>
 
 II.- Al concluir la audiencia o dentro de los treinta días hábiles siguientes, se resolverá sobre la inexistencia de responsabilidad o se impondrán al infractor las sanciones administrativas correspondientes, notificándose la resolución dentro de las cuarenta y ocho horas siguientes al interesado, a su jefe inmediato, al representante designado por la Dependencia y al superior jerárquico.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
 De existir responsabilidad administrativa de uno a varios servidores públicos, podrá determinarse la responsabilidad de los particulares, cuando hayan participado con los servidores públicos en las irregularidades que determinaron la responsabilidad resarcitoria por daños, perjuicios o beneficios obtenidos indebidamente en detrimento del erario estatal o municipal, quienes tendrán el derecho de comparecer durante el procedimiento e interponer los recursos previstos en la ley.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
 III. Si de la audiencia se desprende que no existen elementos suficientes para resolver, se actuará en consecuencia, si se advierten elementos que impliquen la configuración de otras causales de responsabilidad administrativa con cargo al presunto responsable, otros servidores públicos o personas, se podrá disponer la práctica de investigaciones y citar para otra u otras audiencias, notificando en ese momento al presunto responsable las nuevas infracciones administrativas que se le atribuyan y en su caso, a los otros presuntos responsables, para continuar con el procedimiento.
 
 Iniciado el procedimiento administrativo y de existir elementos suficientes que determinen un daño o beneficio indebido en detrimento del erario estatal o municipal, la autoridad ejecutora del posible crédito fiscal a solicitud de la Secretaría o del órgano de control interno podrá trabar embargo precautorio para asegurar la reparación del daño o perjuicio causado, pero en todos los casos el depositario será el presunto responsable.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
 IV. En cualquier momento, previo o posterior al citatorio a que se refiere la fracción I, se podrá determinar, tratándose de servidores públicos, la suspensión temporal de los presuntos responsables de su cargo, empleos o comisiones, cuando causen perjuicio a la administración pública, si así conviene para la conducción o continuación de las investigaciones. Dicha suspensión no podrá exceder de 30 días.
 
@@ -675,11 +675,11 @@ La suspensión temporal a que se refiere el párrafo anterior, interrumpe los ef
 
 La suspensión cesará, cuando así lo resuelva la autoridad instructora, independientemente de la iniciación, continuación o conclusión del procedimiento a que se refiere este artículo.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
 Si los servidores públicos suspendidos temporalmente, no resultaren responsables de la falta que se les atribuye, serán restituidos en el goce de sus derechos y se les cubrirán íntegramente las percepciones que debieron recibir durante el tiempo de la suspensión dictada por el órgano competente, por el superior jerárquico.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
 Se requerirá autorización del Gobernador del Estado o del H. Ayuntamiento para dicha suspensión, cuando el nombramiento del servidor público de que se trate hubiese sido realizado por éstos, igualmente se requerirá autorización de la Legislatura, o en su caso de la Diputación Permanente, si dicho nombramiento requirió ratificación de estás, en los términos de la Constitución Política del Estado.
 
@@ -705,7 +705,7 @@ Las resoluciones y acuerdos que emitan los órganos disciplinarios durante el pr
 
 Las resoluciones imponiendo sanciones se inscribirán en un registro que llevará la Secretaría, particularmente las de inhabilitación.
 
-> <small>(REFORMADO, P.O. 11 DE ENERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 11 DE ENERO DE 1995)</small>
 
 ###### Artículo 64.
 
@@ -713,11 +713,11 @@ Los Poderes Ejecutivo, Legislativo y Judicial, los ayuntamientos, organismos aux
 
 La contravención a lo dispuesto en el párrafo anterior, será causa de responsabilidad administrativa, y el nombramiento o contrato que se haya realizado quedará sin efectos.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
 La Secretaría, con base en el registro de sanciones podrá informar sobre la existencia de estas, diversas a la inhabilitación.
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2002)</small>
+> <small>(REFORMADO, G.G. 28 DE JUNIO DE 2002)</small>
 
 ###### Artículo 65.
 
@@ -727,13 +727,13 @@ El Juicio Contencioso Administrativo no procederá en contra de los actos y reso
 
 ###### Artículo 66.
 
-(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, P.O. 7 DE FEBRERO DE 1997)
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)
 
 ###### Artículo 67.
 
-(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, P.O. 7 DE FEBRERO DE 1997)
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 68.
 
@@ -741,7 +741,7 @@ Las sanciones administrativas de amonestación, la económica y las responsabili
 
 Las sanciones económicas que se impongan, constituirán créditos fiscales del Erario Estatal o Municipal en su caso, se harán efectivas mediante el procedimiento económico coactivo de ejecución, tendrán la prelación prevista para dichos créditos y se sujetarán en todo a las disposiciones fiscales aplicables en la materia.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
 El superior jerárquico será competente para ejecutar las resoluciones administrativas por las que se impongan las sanciones de amonestación, suspensión y destitución.
 
@@ -749,11 +749,11 @@ El superior jerárquico será competente para ejecutar las resoluciones administ
 
 La sanción de inhabilitación se ejecutará por la Secretaría, el Consejo de la Judicatura, el Presidente de la Junta de Coordinación Política o los presidentes municipales.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
 Las sanciones impuestas que no se ejecuten por el superior jerárquico, en el ámbito del Poder Ejecutivo, la Secretaría llevará a cabo su ejecución; la falta de cumplimiento a la resolución, será causa de responsabilidad y se iniciará procedimiento administrativo en contra del superior jerárquico o del servidor público que le correspondiere llevar a cabo su ejecución.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
 Cuando por resolución firme, un servidor público resultare absuelto y haya lugar a la restitución de derechos o indemnización, la Secretaría supervisará que el superior jerárquico del servidor cumpla con la resolución.
 
@@ -775,11 +775,11 @@ Si existe resistencia al mandamiento legítimo de autoridad, se estará a lo que
 
 Las facultades del superior jerárquico y de la Secretaría para imponer las sanciones que esta Ley prevé, se sujetará a lo siguiente:
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
 I. Prescribirán en un año, si la sanción administrativa disciplinaria a imponer es de amonestación, suspensión del empleo, cargo o comisión, la destitución y la inhabilitación, cuando no se impongan con una sanción económica o se finque una responsabilidad resarcitoria;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
 II. Prescribirán en tres años:
 
@@ -797,11 +797,9 @@ La prescripción se interrumpirá por cada trámite que las autoridades realicen
 
 En todo momento la Secretaría o el superior jerárquico podrán hacer valer la prescripción de oficio.
 
-### CAPITULO IV. Del Fincamiento de Responsabilidades
+### CAPITULO IV. Del Fincamiento de Responsabilidades Administrativas Resarcitorias
 
-Administrativas Resarcitorias
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 72.
 
@@ -811,7 +809,7 @@ Estas responsabilidades se harán efectivas mediante el procedimiento administra
 
 Tratándose de servidores públicos, además de lo dispuesto por este artículo procederá en su caso, la aplicación de sanciones administrativas disciplinarias en los términos del Capítulo Tercero de este Título.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 73.
 
@@ -821,7 +819,7 @@ La Secretaría se sujetará a lo dispuesto por el artículo 41 de esta Ley.
 
 La Secretaría es competente para fincar responsabilidades administrativas resarcitorias a presidentes, tesoreros y demás servidores públicos municipales, en los términos del párrafo anterior cuando se trate de fondos, valores y recursos económicos del Estado o de los concertados o convenidos con la federación y los municipios.
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 74.
 
@@ -835,7 +833,7 @@ III. A los proveedores, contratistas o particulares que por virtud de los actos 
 
 Los presuntos responsables garantizarán con el embargo precautorio en forma individual el importe de los pliegos preventivos, a reserva de la calificación o constitución definitiva de la responsabilidad.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 75.
 
@@ -857,21 +855,19 @@ Las facultades de la autoridad para constituir responsabilidades en los término
 
 ## TITULO CUARTO
 
-### CAPITULO UNICO. Del Registro Patrimonial de
+### CAPITULO UNICO. Del Registro Patrimonial de los Servidores Públicos
 
-los Servidores Públicos
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 78.
 
 La Legislatura del Estado, el Consejo de la Judicatura del Estado llevarán el registro de la manifestación de bienes de sus servidores públicos y la Secretaría el de los servidores públicos del Poder Ejecutivo de conformidad con esta ley y disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 1994)</small>
 
 Para los efectos del registro, cada Poder determinará de conformidad a su legislación, los órganos encargados de ejercer dichas atribuciones, así como los sistemas que se requieran para tal propósito.
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 1994)</small>
 
 ###### Artículo 79.
 
@@ -879,7 +875,7 @@ Tienen la obligación de presentar Manifestación de Bienes ante los órganos co
 
 I.- En la Legislatura del Estado: Los Diputados, el Oficial Mayor, todo el personal de la Contaduría General de Glosa y Jefes de Departamentos hasta Directores;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
 II. En el Poder Ejecutivo: los servidores públicos de la administración pública central y del sector auxiliar, desde jefes de departamento hasta los titulares de las dependencias, incluyendo al Gobernador del Estado; Notarios Públicos, Defensores de Oficio y aquellos que manejen, recauden o administren fondos y recursos estatales, municipales o federales y en la propia Secretaría todos sus servidores públicos.
 
@@ -943,7 +939,7 @@ En las Manifestaciones anuales se señalarán sólo las modificaciones al patrim
 
 Tratándose de bienes muebles, la Secretaría decidirá, mediante acuerdo general, las características que deba tener la manifestación.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
 La Secretaría podrá realizar análisis contable-financieros de las manifestaciones de bienes presentadas por los servidores públicos, a efecto de determinar la veracidad de su contenido y existencia de un probable incremento en su patrimonio. Si del análisis realizado resultaren irregularidades, iniciará el procedimiento administrativo conforme al artículo 59 de este ordenamiento.
 
@@ -975,13 +971,13 @@ Para los efectos de la persecución penal por enriquecimiento ilícito, la Secre
 
 Los Poderes Judicial y Legislativo, y los Ayuntamientos, actuarán en lo conducente respecto a sus servidores conforme a las disposiciones que se establecen en el presente capítulo.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 5 DE ENERO DE 1994)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 5 DE ENERO DE 1994)</small>
 
 ###### Artículo 89.
 
 Para los efectos de esta Ley, se considera obsequio todo bien que reciban con motivo de sus funciones los servidores públicos, su cónyuge o parientes consanguíneos hasta el cuarto grado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ENERO DE 1994)</small>
 
 ###### Artículo 90.
 
@@ -993,23 +989,21 @@ Si el servidor público incumple con lo dispuesto en el párrafo anterior, su co
 
 Los obsequios que se hagan a los servidores públicos que no se encuentren en las hipótesis de este dispositivo, deberán ser declarados por éstos en la manifestación anual de bienes cuando el valor unitario de cada obsequio exceda a treinta días de salario mínimo vigente en la capital del Estado.
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2002)</small>
+> <small>(REFORMADO, G.G. 28 DE JUNIO DE 2002)</small>
 
 ###### Artículo 91.
 
 En todo lo relacionado al procedimiento administrativo que se regula en los Títulos Tercero y Cuarto de esta ley, son aplicables, en lo conducente, supletoriamente, las disposiciones relativas del Código de Procedimientos Administrativos del Estado de México.
 
-## TITULO QUINTO. De la remoción de los Magistrados del Tribunal Superior de Justicia
+## TITULO QUINTO. De la remoción de los Magistrados del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Administrativo por mala conducta
 
-y del Tribunal de lo Contencioso Administrativo por mala conducta
-
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 1997)</small>
+> <small>(REFORMADO, G.G. 3 DE MARZO DE 1997)</small>
 
 ###### Artículo 92.
 
 El Gobernador y el Consejo de la Judicatura están facultados, de conformidad con los artículos 77 fracción XV y 133 de la Constitución Política del Estado Libre y Soberano de México, para solicitar ante la Legislatura, o en su caso, ante la Diputación Permanente, la destitución de los Magistrados del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Administrativo, cuando hayan incurrido en mala conducta.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 93.
 
@@ -1027,39 +1021,37 @@ Al rendir su informe, el Magistrado de que se trate, podrá exponer sus defensas
 
 La falta de informe por parte del Magistrado, será presunción suficiente para que se declare fundada la petición de destitución, siempre que exista constancia de que se solicito el informe y que la falta del mismo no esté apoyada en razones que la justifiquen.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 97.
 
 Recibido el informe o habiendo transcurrido el término señalado sin haberlo recibido, la Legislatura, sin más trámite declarará por mayoría absoluta del número total de sus integrantes si es o no fundada la petición del Gobernador del Estado o del Consejo de la Judicatura, tomando en consideración las pruebas y argumentos, tanto de estos, como del magistrado acusado, resolviendo lo procedente. La resolución deberá dictarse dentro del término de treinta días naturales a partir de la fecha en que la Legislatura recibió la comunicación del Gobernador del Estado o del Consejo de la Judicatura.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 98.
 
 Si la resolución de la Legislatura, declara infundada la petición del Gobernador del Estado o del Consejo de la Judicatura, así se los comunicará a estos y al magistrado acusado, al día siguiente de haber sido emitida y ordenará el archivo del expediente como asunto concluido.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 99.
 
 Si la resolución de la Legislatura, declara procedente la petición del Gobernador del Estado o del Consejo de la Judicatura, así lo comunicará a éstos y al Presidente del Tribunal de lo Contencioso Administrativo, en su caso, y se hará saber al magistrado acusado al día siguiente del fallo, que queda privado del cargo y se procederá a designar al magistrado que lo sustituya.
 
-## TITULO SEXTO. De la Indemnización o Reparación de Daños
-
-de los Servidores Públicos
+## TITULO SEXTO. De la Indemnización o Reparación de Daños de los Servidores Públicos
 
 ###### Artículo 100.
 
-(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, P.O. 7 DE FEBRERO DE 1997)
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)
 
 ###### Artículo 101.
 
-(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, P.O. 7 DE FEBRERO DE 1997)
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)
 
 ###### Artículo 102.
 
-(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, P.O. 7 DE FEBRERO DE 1997)
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)
 
 T R A N S I T O R I O S
 
@@ -1113,9 +1105,9 @@ LIC. JORGE LOPEZ OCHOA
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-P.O. 5 DE ENERO DE 1994
+G.G. 5 DE ENERO DE 1994.
 
 PRIMERO.- Publíquese el presente Decreto en la "Gaceta del Gobierno".
 
@@ -1127,7 +1119,7 @@ CUARTO.- La Secretaría de la Contraloría del Estado, entregará a las autorida
 
 QUINTO.- Los asuntos y procesos iniciados con anterioridad a la vigencia de este Decreto, se sujetarán, hasta su conclusión, a las disposiciones que por el mismo se reforman o derogan.
 
-P.O. 11 DE ENERO DE 1995
+G.G. 11 DE ENERO DE 1995.
 
 ###### ARTICULO PRIMERO.
 
@@ -1137,7 +1129,7 @@ Publíquese el presente decreto en la Gaceta del Gobierno.
 
 El presente decreto entrará en vigor el día de su publicación en la Gaceta del Gobierno.
 
-P.O. 7 DE FEBRERO DE 1997
+G.G. 7 DE FEBRERO DE 1997.
 
 CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS
 
@@ -1155,7 +1147,7 @@ Se derogan los siguientes artículos:. 50, 66, 67, y del 100 al 102 de la Ley de
 
 Se reforman los artículos... 65 de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
 
-P.O. 3 DE MARZO DE 1997
+G.G. 3 DE MARZO DE 1997.
 
 ###### ARTICULO PRIMERO.
 
@@ -1165,13 +1157,13 @@ Publíquese el presente decreto en la "Gaceta del Gobierno".
 
 Este decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
 
-P.O. 21 DE DICIEMBRE DE 1998.
+G.G. 21 DE DICIEMBRE DE 1998.
 
 PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno"
 
 SEGUNDO.- Este decreto entrará en vigor el día siguiente de su publicación en la "Gaceta del Gobierno".
 
-P.O. 28 DE JUNIO DE 2002
+G.G. 28 DE JUNIO DE 2002.
 
 ###### ARTICULO PRIMERO.
 
@@ -1240,3 +1232,35 @@ G.G. 4 DE MAYO DE 2012.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 24 DE AGOSTO DE 2012.
+
+DECRETO NÚMERO 490 POR EL QUE SE REFORMA LA FRACCIÓN XXXII Y SE ADICIONA LA FRACCIÓN XXXIII AL ARTÍCULO 42 DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE MÉXICO Y MUNICIPIOS.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Las gestiones, procedimientos y demás actos que se encuentren en trámite en los depósitos vehiculares al momento de la entrada en vigor del presente Decreto, se concluirán de conformidad con las disposiciones jurídicas vigentes hasta ese momento.
+
+CUARTO.- En un plazo de treinta días hábiles siguientes a la entrada en vigor del presente Decreto, el Titular del Ejecutivo del Estado proveerá en la esfera administrativa el cumplimiento del mismo, expidiendo y en su caso, reformando las disposiciones reglamentarias respectivas.
+
+QUINTO.- Noventa días naturales a partir de la entrada en vigor de la presente reforma, todos los vehículos que los concesionarios tengan bajo su resguardo, por más de dos años, serán susceptibles de ser incluidos en el procedimiento de declaración de abandono para los efectos de enajenación previsto, por lo que deberán informar a la Secretaría del Transporte de tal situación, con excepción de los vehículos que tengan reporte de robo, números remarcados o alterados, porten placas de procedencia extranjera, los cuales deberán hacer del conocimiento al Ministerio Público para que determine lo procedente.
+
+SEXTO.- Los Oficiales Mediadores Conciliadores contarán con un plazo improrrogable de dos años siguientes a la entrada en vigor del presente Decreto, para certificarse por el Centro de Mediación, Conciliación y de Justicia Restaurativa del Poder Judicial del Estado de México.
+
+SÉPTIMO.- La Procuraduría General de Justicia del Estado de México en un plazo máximo de dos meses posteriores a la entrada en vigor del presente Decreto, depurará todos los vehículos que se encuentren a su disposición en los depósitos vehiculares y que por algún motivo sus propietarios, durante un año no los han reclamado, no se ha acreditado su propiedad, se encuentren remarcados; adicionalmente, revisarán las averiguaciones previas que se encuentren en reserva con la finalidad de determinar si ha operado la prescripción de la acción penal y en aquellas que se haya decretado el no ejercicio de la acción penal, con la finalidad de emitir la Declaratoria de abandono en favor del Estado en términos de la presente reforma.
+
+OCTAVO.- En un plazo no mayor a seis meses, la Procuraduría General de Justicia del Estado de México, establecerá un depósito vehicular en la Zona Oriente del Estado de México.
+
+NOVENO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en las presentes reformas.
+
+G.G. 24 DE AGOSTO DE 2012.
+
+DECRETO NÚMERO 495 POR EL QUE SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 3 DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE MÉXICO Y MUNICIPIOS.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan los ordenamientos jurídicos de igual o menor jerarquía, que se opongan a lo dispuesto por el presente Decreto.
