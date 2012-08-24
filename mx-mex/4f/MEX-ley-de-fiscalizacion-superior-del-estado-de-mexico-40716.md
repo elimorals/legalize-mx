@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-fiscalizacion-superior-del-estado-de-mexico-40716"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-26"
-last_updated: "2012-04-24"
+last_updated: "2012-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40716&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE AGOSTO DE 2012.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno, el jueves 26 de agosto de 2004.
 
@@ -181,7 +181,9 @@ XIX. Requerir a las entidades fiscalizables la información, documentación o ap
 
 XX. Investigar los actos u omisiones que puedan implicar alguna conducta irregular respecto de la administración, ejercicio, custodia o aplicación de los recursos públicos, durante el periodo que comprenda las cuentas públicas que esté fiscalizando;
 
-XXI. Fincar las responsabilidades resarcitorias que le correspondan en términos de esta Ley; y, en su caso, turnar a las autoridades competentes, los pliegos que hubiese formulado para que éstas procedan al fincamiento de las responsabilidades resarcitorias procedentes;
+> <small>(REFORMADA, G.G. 24 DE AGOSTO DE 2012)</small>
+
+XXI. Fincar las responsabilidades resarcitorias que le correspondan en términos de esta Ley; y, en su caso, turnar a las autoridades competentes, los pliegos que hubiese formulado para que éstas procedan al fincamiento de las responsabilidades procedentes;
 
 XXII. Promover ante las instancias competentes el fincamiento e imposición de las demás responsabilidades a que se refiere el Título Séptimo de la Constitución Política del Estado Libre y Soberano de México;
 
@@ -751,7 +753,9 @@ IV. Si el Organo Superior concluye que las observaciones no fueron debidamente s
 
 Para los efectos de esta Ley incurren en responsabilidad resarcitoria:
 
-I. Los servidores públicos o quienes hayan dejado de serlo o las personas físicas o jurídicas colectivas que reciban, administren o manejen recursos del erario, cuyos actos u omisiones causen daño y/o perjuicio a las haciendas públicas, o al patrimonio de las demás entidades fiscalizables, los cuales serán fijados en cantidad líquida;
+> <small>(REFORMADA, G.G. 24 DE AGOSTO DE 2012)</small>
+
+l. Los servidores públicos o quienes hayan dejado de serlo o las personas físicas o jurídicas colectivas que reciban, administren o manejen recursos del erario, y quienes no manejen recursos cuyos actos u omisiones causen daño y/o perjuicio a las haciendas públicas, o al patrimonio de las demás entidades fiscalizables, los cuales serán fijados en cantidad líquida;
 
 II. Los servidores públicos de las entidades fiscalizables, o quienes hayan dejado de serlo, que omitan rendir sus informes acerca de la solventación de los pliegos preventivos formulados y remitidos por el Organo Superior, que no sean solventados dentro de los plazos correspondientes, o bien, la documentación y argumentos presentados no sean suficientes o procedentes para justificarlos, conforme a una valoración debidamente fundada y motivada que lleve a cabo el Organo Superior;
 
@@ -805,13 +809,17 @@ El fincamiento de las responsabilidades resarcitorias a que haya lugar con motiv
 
 Serán competentes para conocer y resolver los procedimientos resarcitorios originados con motivo de la aplicación de esta Ley, así como para fincar las responsabilidades resarcitorias correspondientes:
 
-I. La Legislatura, por conducto del Organo Superior, cuando el presunto responsable sea servidor público de elección popular o se trate de titulares de organismos autónomos;
+> <small>(REFORMADA, G.G. 24 DE AGOSTO DE 2012)</small>
+
+l. La Legislatura, por conducto del Órgano Superior, cuando el presunto responsable sea servidor público por nombramiento o de elección popular, o se trate de titulares de organismos autónomos;
+
+El Órgano Superior podrá atraer para su conocimiento y resolución los procedimientos de responsabilidades administrativas resarcitorias tratándose de los servidores públicos municipales.
 
 II. La Secretaría de la Contraloría, cuando el presunto responsable sea servidor público estatal; o siendo servidor público municipal, el daño se haya causado al erario del Estado o al patrimonio de algún organismo auxiliar estatal;
 
 III. Los órganos de control interno de los poderes Legislativo, Judicial y de los organismos autónomos, según corresponda, cuando el presunto responsable sea servidor público de su adscripción; y
 
-IV. Los presidentes municipales, con el auxilio de sus contralorías municipales, cuando el presunto responsable sea servidor público municipal, siempre y cuando no se trate de uno de elección popular.
+IV. (DEROGADA, G.G. 24 DE AGOSTO DE 2012)
 
 ###### Artículo 63.
 
@@ -1064,3 +1072,11 @@ Publíquese el presente Decreto en el Periódico Oficial "Gaceta de (sic) Gobier
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 24 DE AGOSTO DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan los ordenamientos jurídicos de igual o menor jerarquía, que se opongan a lo dispuesto por el presente Decreto.
