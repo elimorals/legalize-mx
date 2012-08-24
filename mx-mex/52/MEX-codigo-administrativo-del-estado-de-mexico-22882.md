@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2012-08-09"
+last_updated: "2012-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE AGOSTO DE 2012.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -1251,13 +1251,13 @@ V. Que exista un alto requerimiento para hacer más transparente el proceso.
 
 ## TITULO DECIMO PRIMERO. De la acción popular
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 1.42], G.G. 6 DE SEPTIEMBRE DE 2010) (F. DE E., G.G. 15 DE OCTUBRE DE 2010)
+> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 1.
 
-74.- Toda persona tiene derecho a presentar denuncia ante las autoridades, de hechos, actos u omisiones que constituyan infracciones a las disposiciones del presente Código y su reglamentación.
+74.- Toda persona tiene derecho a presentar demanda de acción popular ante las autoridades, de hechos, actos u omisiones que constituyan infracciones a las disposiciones del presente Código y su reglamentación.
 
-Para dar curso a la acción popular, basta el señalamiento de los hechos que constituyan la causa de la denuncia. Si las autoridades no dan trámite a las denuncias en un plazo de treinta días naturales se configura en favor del denunciante una resolución negativa ficta.
+Para dar curso a la acción popular se seguirá el procedimiento establecido en el Capítulo Tercero Bis del Título Tercero del Código de Procedimientos Administrativos del Estado de México.
 
 (REUBICADO [N. DE E. ANTES TÍTULO DÉCIMO PRIMERO], G.G. 6 DE SEPTIEMBRE DE 2010)
 
@@ -1687,9 +1687,9 @@ I. Proporcionar servicios de salud a toda la población del Estado y mejorar la 
 
 II. Contribuir al adecuado desarrollo demográfico;
 
-> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.G. 24 DE AGOSTO DE 2012)</small>
 
-III. Colaborar al bienestar social de la población mediante la prestación de servicios de salud, principalmente a menores en estado de abandono, ancianos desamparados y personas con discapacidad, para fomentar y propiciar su incorporación a una vida activa en lo económico y social;
+III. Colaborar al bienestar social de la población mediante la prestación de servicios de salud, principalmente a menores en estado de abandono, ancianos desamparados, indígenas y personas con discapacidad, para fomentar y propiciar su incorporación a una vida activa en lo económico y social;
 
 IV. Dar impulso al desarrollo de la familia y de la comunidad, así como a la integración social y al crecimiento físico y mental de la niñez;
 
@@ -1747,9 +1747,11 @@ XV. Coordinar la elaboración de programas de prevención, atención y erradicac
 
 XVI. Promover y fomentar investigaciones con perspectiva de género en materia de salud, así como para prevenir, atender y erradicar la violencia contra las mujeres estableciendo mecanismos para la atención de las víctimas;
 
-> <small>(ADICIONADA, G.G. 6 DE MARZO DE 2010)</small>
+> <small>(ADICIONADA, G.G. 24 DE AGOSTO DE 2012)</small>
 
-XVII. Las demás que se requieran para el cumplimiento de los objetivos del sistema estatal de salud.
+XVII. Implementar los mecanismos e instrumentos necesarios que permitan a la población indígena el acceso efectivo a los servicios de salud que establece el presente Libro;
+
+XVIII. Las demás que se requieran para el cumplimiento de los objetivos del sistema estatal de salud.
 
 ### CAPITULO TERCERO. Del Centro Estatal de Trasplantes
 
@@ -2336,6 +2338,10 @@ V. Informar a sus clientes sobre los efectos nocivos del abuso en el consumo de 
 > <small>(ADICIONADA, G.G. 8 DE MARZO DE 2011)</small>
 
 VI. Contar con instrumentos que permitan a los clientes que así lo soliciten cuantificar la concentración de alcohol en la sangre a través del aliento espirado, con el objeto principalmente de contribuir al consumo moderado y la prevención de accidentes.
+
+> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
+Con el objeto de combatir el alcoholismo, los Ayuntamientos y las autoridades estatales, en el ámbito de sus respectivas competencias, no autorizarán la instalación de establecimientos dedicados a la venta de bebidas alcohólicas en envase cerrado o por copeo, que se ubiquen en un radio no menor de 300 metros de centros educativos, instalaciones deportivas o centros de salud.
 
 ###### Artículo 2.
 
@@ -4997,7 +5003,9 @@ b) En casos de flagrancia, las autoridades estatales y municipales podrán instr
 
 X. Ninguna licencia de construcción permite y/o acredita operación o funcionamiento de comercios o servicios que deban regirse por otro ordenamiento, como es el caso de comercios dedicados a la venta de productos con contenido erótico, así como restaurantes-bares, bares, discotecas y centros de espectáculos en los que se vendan bebidas alcohólicas, ya sea en envases abiertos o para consumo por copeo, deberán:
 
-a) Ubicarse exclusivamente en las zonas con el uso de suelo comercial aprobados por los Cabildos. En ningún caso, se podrán ubicar en un radio menor de 200 metros de alguna estancia infantil, centro escolar o centro de salud;
+> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
+a) Ubicarse exclusivamente en las zonas con el uso de suelo comercial aprobados por los Cabildos. En ningún caso, se podrán ubicar en un radio no menor de 300 metros de algún centro escolar, instalación deportiva o centro de salud;
 
 b) Contar con las medidas de seguridad necesarias y cumplir con la normatividad vigente;
 
@@ -5431,7 +5439,9 @@ Para su obtención, los interesados deberán incluir en la solicitud respectiva,
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-#### SECCION PRIMERA. De las facultades de la Secretaría de Desarrollo Agropecuario
+#### SECCION PRIMERA. Del otorgamiento de las concesiones y permisos
+
+> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 5.
 
@@ -5475,7 +5485,9 @@ Cuando se trate de cambios a usos de suelo de impacto regional, los municipios d
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-#### SECCION SEGUNDA. Del Instituto de Investigación y Capacitación Agropecuaria, Acuícola y Forestal del Estado de México
+#### SECCION SEGUNDA. De las obligaciones de los concesionarios y permisionarios
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 5.
 
@@ -5483,7 +5495,9 @@ Cuando se trate de cambios a usos de suelo de impacto regional, los municipios d
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-#### SECCION PRIMERA. Del Consejo Consultivo Económico Estatal
+#### SECCION TERCERA. De los derechos de los concesionarios y permisionarios
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 5.
 
@@ -5517,7 +5531,9 @@ La organización, funcionamiento y consulta del Sistema Estatal se determinará 
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-#### SECCION SEGUNDA. De los consejos consultivos económicos regionales y municipales
+#### SECCION PRIMERA. De los equipos de salvamento y arrastre
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 5.
 
@@ -5527,9 +5543,9 @@ Las medidas de seguridad tendrán por objeto evitar la consolidación de accione
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-#### SECCION PRIMERA. Disposiciones generales
+#### SECCION SEGUNDA. De la prestación del servicio
 
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 5.
 
@@ -6275,9 +6291,9 @@ En la normatividad reglamentaria respectiva podrán establecerse otras modalidad
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO PRIMERO. De las medidas de seguridad
+### CAPITULO PRIMERO. Disposiciones Generales
 
-> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 7.
 
@@ -6343,9 +6359,9 @@ IV. Otorgar un servicio eficiente y un trato amable a los usuarios.
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO SEGUNDO. De las infracciones y sanciones
+### CAPITULO SEGUNDO. De la Autoridad y sus Atribuciones
 
-> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 7.
 
@@ -6389,7 +6405,9 @@ III. Utilizar vehículos que reúnan las condiciones de peso, dimensión, capaci
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO PRIMERO. Del objeto y finalidad
+### CAPITULO TERCERO. De las Concesiones
+
+> <small>(REFORMADA [N. DE E. ADICIONADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 7.
 
@@ -6523,7 +6541,9 @@ Las tarifas deberán establecer los descuentos que en su caso existan para perso
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+### CAPITULO CUARTO. Del servicio público auxiliar de salvamento y arrastre vehicular
+
+> <small>(REFORMADA [N. DE E. ADICIONADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 7.
 
@@ -6565,7 +6585,9 @@ La intervención durará estrictamente el tiempo por el que subsista la causa qu
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO QUINTO. Del servicio público auxiliar de depósito y guarda vehicular
+
+> <small>(REFORMADA [N. DE E. ADICIONADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 7.
 
@@ -6641,7 +6663,9 @@ XV. El titular de una concesión o permiso que hubiere sido revocado estará imp
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO SEGUNDO. De los vehículos
+### CAPITULO SEXTO. De los vehículos abandonados
+
+> <small>(REFORMADA [N. DE E. ADICIONADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 7.
 
@@ -6663,49 +6687,647 @@ VII. Las demás que señale el reglamento correspondiente.
 
 El Registro Estatal de Transporte será público, tendrá efectos declarativos y surtirá efectos contra terceros.
 
-> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 7.
 
-37.- Las autoridades podrán imponer como medida de seguridad, la retención del vehículo cuando se violen flagrantemente las disposiciones de este Libro y las disposiciones que de él emanen, o bien, cuando los vehículos no se encuentren en condiciones para la prestación del servicio público de transporte o pongan en peligro la seguridad de los usuarios del servicio o de terceros.
+37.- Las disposiciones contenidas en el presente Título, son adicionales a las contenidas en el presente Libro y tienen por objeto regular los servicios auxiliares de arrastre, salvamento, guarda, custodia y depósito de vehículos y para los efectos del mismo, se entenderá por:
 
-La retención del vehículo podrá determinarse hasta que las faltas que dieron origen a la retención sean corregidas.
+I. Abanderamiento: Señalización preventiva que debe instalarse por el prestador del servicio de arrastre y salvamento, para advertir a los usuarios del camino, respecto de la presencia de vehículos accidentados, varados u otros obstáculos o de la ejecución de maniobras, ya sea sobre la carpeta asfáltica o del derecho de vía;
 
-> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+II. Almacenamiento: Acto mediante el cual, se confía en depósito, un vehículo para su guarda y custodia, dentro de los espacios autorizados para tal efecto, para que éste, quede en garantía a disposición de la autoridad competente;
 
-## TITULO QUINTO. De las medidas de seguridad, infracciones y sanciones
+III. Arrastre: El conjunto de operaciones necesarias para trasladar de un lugar a otro un vehículo, que está impedido física, mecánica o administrativamente para su auto-desplazamiento, utilizando para ello, una grúa;
 
-> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+IV. Concesionario: Persona física jurídico colectiva que proporciona legalmente la prestación del servicio de transporte público de arrastre y de almacenamiento de un vehículo mediante concesión;
+
+V. Fiscalía Regional; Unidad administrativa de la Procuraduría General de Justicia del Estado de México, encargada de la operación de los depósitos vehiculares cuyo funcionamiento se vincule con la recuperación de vehículos relacionados con la comisión de delitos;
+
+VI. Grúa: Unidad de tracción utilizada para el arrastre de vehículos, que cumple con el equipo mecánico establecido por el presente Libro;
+
+VII. Inventario: Documento que describe la condición física de la unidad objeto del servicio, así como las condiciones de la carga u objetos que contenga, al inicio del arrastre y salvamento;
+
+VIII. Permisionario: Persona física o jurídica colectiva autorizada por la Secretaría de Transporte para prestar servicio auxiliar de arrastre y traslado;
+
+IX. Usuario: Persona física y jurídica colectiva, a cuyo cargo se contrata, por la autoridad competente el servicio de arrastre, salvamento, guarda, custodia y depósito de vehículos;
+
+X. Vehículo: Medio de transporte dedicado a realizar los desplazamientos de las personas y sus equipajes.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 24 DE AGOSTO DE 2012)</small>
+
+## TITULO QUINTO. De los Servicios Auxiliares
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 7.
 
-38.- La autoridad podrá ordenar la clausura de depósitos de vehículos, terminales de pasajeros o paradores o bien, el retiro de anuncios publicitarios, cuando se ponga en riesgo la seguridad de los usuarios o de terceros.
+38.- Para los efectos de este Título, la Secretaría de Transporte, tendrá las atribuciones siguientes:
 
-> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+I. Otorgar las concesiones y permisos de los servicios auxiliares en términos de las disposiciones jurídicas aplicables;
 
-## TITULO PRIMERO. Disposiciones generales
+II. Resolver la terminación de las concesiones y permisos de los servicios auxiliares;
 
-### CAPITULO TERCERO. De los conductores
+III. Iniciar el procedimiento para la intervención de un servicio público hasta ponerlo en estado de resolución;
+
+IV. Determinar las tarifas por el servicio de arrastre y almacenamiento de vehículos;
+
+V. Verificar que los procedimientos administrativos que establece el presente Título, se realicen en términos de las disposiciones aplicables;
+
+VI. Dividir previo estudio técnico, la geografía del Estado en zonas, las cuales, serán asignadas de manera equitativa entre los concesionarios del servicio público de arrastre y salvamento de vehículos, dicha zonificación será revisada y validada de manera anual, durante los primeros quince días del mes de enero de cada año;
+
+VII. Ordenar mediante procedimiento administrativo al concesionario, la devolución de cobros excesivos, previa petición;
+
+VIII. Las demás señaladas por otros ordenamientos jurídicos aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO] CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
+
+## TITULO SEXTO. De las medidas de seguridad, infracciones y sanciones
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
+
+### CAPITULO PRIMERO. De las medidas de seguridad
+
+> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 7.
 
-39.- Independientemente de las medidas de seguridad impuestas, la autoridad podrá aplicar las sanciones que correspondan en términos del presente Libro.
+39.- Se otorgarán las concesiones para la prestación del servicio público auxiliar del depósito y guarda vehicular y permisos para salvamento y arrastre, únicamente a quienes cumplan los siguientes requisitos:
 
-> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+I. No haber sido titular de concesiones o permisos a los que se refiere este artículo, que hubiesen sido objeto de revocación, suspensión o cancelación;
+
+II. Acreditar su inscripción en el Registro Federal de Contribuyentes;
+
+III. Tratándose de personas físicas, acreditar ser mexicanas y mayores de edad;
+
+IV. En el caso de personas jurídicas colectivas, estar constituidas conforme a las leyes mexicanas y tener previsto, como parte de su objeto social, la prestación del servicio que pretende desempeñar;
+
+V. Acreditar que se dispone de los recursos materiales, técnicos, económicos, tecnológicos y de organización, suficientes y adecuados para brindar el servicio;
+
+VI. Presentar la solicitud por escrito;
+
+VII. Cubrir las contribuciones que, en su caso, establezcan las disposiciones fiscales aplicables;
+
+VIII. Las establecidas por otras disposiciones generales administrativas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+
+### CAPÍTULO SEGUNDO. De las infracciones y sanciones
+
+> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
+###### Artículo 7.
+
+40.- Como elementos particulares, deberán acreditarse los siguientes:
+
+I. Tratándose del servicio público auxiliar de depósito y guarda de vehículos, además deberá acreditar:
+
+a) La propiedad del inmueble donde vayan a depositarse los vehículos, cuya superficie no podrá ser menor de una hectárea;
+
+b) Contar con permiso o autorización de uso de suelo, expedido por autoridad competente.
+
+II. En el caso del servicio público auxiliar de salvamento y arrastre, adicionalmente, deberá acreditar:
+
+a) La propiedad de los vehículos con los que prestará el servicio.
+
+b) El cumplimiento de las especificaciones técnicas que determine la Secretaría de Transporte;
+
+c) Contar como mínimo, con una grúa de alguno de los tipos descritos en el artículo 7.58 del presente Título.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
 
 ### CAPITULO PRIMERO. Del objeto y finalidad
 
-> <small>(REFORMADO, G.G. 3 DE MAYO DE 2006)</small>
+#### SECCION PRIMERA. Condiciones del servicio
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 7.
 
-40.- La aplicación de las sanciones por infracciones a las disposiciones de este Libro y su reglamentación, se hará independientemente de que se exija el pago de contribuciones y sus demás accesorios, así como las responsabilidades de orden administrativo, civil o penal previstas en los ordenamientos legales respectivos.
+41.- Previo al otorgamiento de una concesión, la Secretaría de Transporte deberá realizar, por sí o con el apoyo de otras autoridades, los estudios técnicos y operativos que determinen la conveniencia de establecer nuevas concesiones de depósito o la integración de nuevos permisos del servicio de salvamento y arrastre.
 
-> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+Tratándose de concesiones para el servicio de depósito y guarda de vehículos, además de las fracciones contenidas en el artículo siguiente, con excepción de la fracción X, deberá contener:
+
+I. El domicilio del establecimiento donde deba prestarse el servicio;
+
+II. La capacidad máxima de almacenamiento de vehículos que ampare la concesión;
+
+III. Las especificaciones físicas del establecimiento donde vaya a prestarse el servicio, así como las medidas de control y vigilancia, y demás obligaciones complementarias que deberá observar el concesionario.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+
+###### Artículo 7.
+
+42.- Los permisos para los servicios públicos auxiliares de salvamento y arrastre, constarán por escrito y contendrán:
+
+I. El nombre y domicilio de la persona física o jurídica colectiva a cuyo favor se expida;
+
+II. El Registro Federal de Contribuyentes del permisionario;
+
+III. En caso de personas jurídicas colectivas, los datos generales relativos a su constitución;
+
+IV. El tipo de servicio para el cual se otorga;
+
+V. La circunscripción territorial en la que se prestará el servicio;
+
+VI. El lugar y fecha de expedición;
+
+VII. Los derechos y obligaciones del permisionario;
+
+VIII. La firma autógrafa del servidor público que la expida;
+
+IX. La firma de aceptación del permisionario;
+
+X. Los datos generales y características de los vehículos que ampara, y las características y condiciones generales de operación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+
+###### Artículo 7.
+
+43.- Las concesiones y permisos para los servicios públicos auxiliares de depósito y guarda, así como de salvamento y arrastre, tendrán la vigencia establecida por el artículo 7.20 de este Libro, pero deberán prorrogarse anualmente en los plazos que para tal efecto determine la Secretaría de Transporte, los que deberán publicarse en el Periódico Oficial "Gaceta del Gobierno", en el mes de abril del año que corresponda.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+
+###### Artículo 7.
+
+44.- La prórroga es la revalidación que otorga la Secretaría de Transporte, para que se continúe prestando el servicio concesionado o permisionado.
+
+Para su procedencia, la autoridad competente verificará que se mantienen los medios y las condiciones adecuadas para la prestación del servicio concesionado, conforme a las disposiciones legales aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+
+###### Artículo 7.
+
+45.- Además de lo previsto en el artículo anterior, para el otorgamiento de la prórroga, es necesario cumplir con los requisitos siguientes:
+
+I. Presentar el título de concesión o permiso vigente;
+
+II. No tener adeudos con la Hacienda Pública del Estado, derivados de la concesión o permiso a prorrogar;
+
+III. Presentar original y copia de la póliza anual de seguro vigente;
+
+IV. Presentar original de identificación oficial del concesionario o representante legal;
+
+V. Realizar el pago de la prórroga;
+
+VI. Acreditar el pago del impuesto predial correspondiente, en el caso del servicio de depósito y guarda de vehículos;
+
+VII. Presentar constancia original de revisión vehicular, expedida por la Secretaría de Transporte, tratándose del servicio público auxiliar de salvamento y arrastre;
+
+VIII. Presentar constancia original de verificación vehicular de emisión de contaminantes, tratándose de permiso de salvamento y arrastre.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+
+###### Artículo 7.
+
+46.- Los permisos y concesiones referidos en este ordenamiento son personalísimos, intransferibles, inalienables e inembargables y no generan derechos reales de ninguna clase a favor de su titular.
+
+Cualquier acto mediante el cual se pretenda cederse, gravarse o enajenarse las concesiones, los títulos o documentos que las amparen, anularán la concesión o permiso otorgado y no producirán efecto legal alguno.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+
+###### Artículo 7.
+
+47.- Nadie podrá, al amparo de una misma concesión, prestar el servicio público auxiliar de depósito y guarda vehicular en más de un inmueble.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+
+###### Artículo 7.
+
+48.- El permiso para prestar los servicios de salvamento y arrastre, se deberá ejercer con los vehículos que fueron autorizados para ese fin, por lo que el permisionario no podrá prestar dicho servicio con vehículos diversos a los autorizados.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+
+###### Artículo 7.
+
+49.- Las concesiones y permisos que se otorguen en contravención a las disposiciones de este título, serán nulas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+
+###### Artículo 7.
+
+50.- Las concesiones y permisos se terminan de acuerdo a lo previsto por el artículo 7.34 de este Libro, además por:
+
+I. Falta de prórroga;
+
+II. Acuerdo expreso y fundado en el interés público, que dicte el Titular de la Secretaría de Transporte.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+
+###### Artículo 7.
+
+51.- Las concesiones y permisos se revocarán en términos de lo previsto por el artículo 7.35 de este Libro y además por las causas siguientes:
+
+I. Trasladar, arrastrar, recibir, custodiar, guardar vehículos robados o con reporte de robo, salvo la excepción prevista por el artículo 7.63 párrafo segundo de este Título;
+
+II. Perder, por cualquier causa, en perjuicio del concesionario, la propiedad o posesión del inmueble destinado al servicio, salvo que se hubiere obtenido previamente la autorización de la Secretaría de Transporte para reubicar el sitio del depósito, en cuyo caso, se deberá expedir una nueva concesión con los datos del nuevo domicilio, tratándose de los prestadores del servicio de depósito y guarda de vehículos;
+
+III. Cambiar el objeto social del concesionario, haciéndose incompatible con la prestación del servicio, tratándose de personas jurídicas colectivas.
+
+La revocación de la concesión tiene por efecto, la pérdida definitiva de los derechos de explotación de la concesión.
+
+En el caso del servicio público auxiliar de depósito y guarda vehicular, una vez emitido y publicado el Acuerdo de revocación, la Secretaría de Transporte, aún mediante el uso de la fuerza pública, tomará posesión de los vehículos depositados y de los archivos, bitácoras, registros y documentación que los ampare, trasladándolos a costa del concesionario, a otro establecimiento concesionado o proveyendo las medidas urgentes que resulten necesarias para garantizar la debida conservación y cuidado de los bienes depositados.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
+
+###### Artículo 7.
+
+52.- Son obligaciones de los concesionarios del servicio público auxiliar de depósito y guarda vehicular:
+
+I. Recibir en depósito los vehículos en cualquier día y hora, salvo los casos de excepción que establezcan las disposiciones legales;
+
+II. Observar las condiciones y restricciones complementarias que se establezcan en la concesión;
+
+III. Conservar y devolver el vehículo depositado, en las mismas condiciones en que lo reciba, salvo el deterioro natural que presente por el simple transcurso del tiempo, la intemperie o las condiciones climatológicas, con las excepciones previstas en este Libro;
+
+IV. Devolver el vehículo que tiene bajo su custodia, en los términos que ordene la autoridad competente y que previa cumplimentación de los requisitos, no podrá exceder de una hora;
+
+V. Entregar a quien presente el vehículo respectivo, el documento que acredite fehacientemente la recepción del mismo, el que contendrá una descripción pormenorizada del vehículo, así como el inventario de los efectos personales, valores u objetos que se encuentren en su interior;
+
+VI. Llevar un registro físico y electrónico de control debidamente pormenorizado, que contenga los datos de los vehículos que ingresen y egresen del depósito, indicando la causa o motivo de la puesta a disposición, la fecha y hora de la misma, la autoridad que los entregó y liberó, y el nombre de la persona a quien se hubieren devuelto;
+
+VII. Respetar las tarifas establecidas para la prestación del servicio, que deberán encontrarse en un cartel de cuando menos un metro cuadrado, visible en las oficinas de atención al público, del establecimiento donde se depositen los vehículos;
+
+VIII. Cumplir y mantener las especificaciones físicas para los sitios de deposito que este Libro prevé, así como las que fije la Secretaría de Transporte al momento de otorgar la concesión o al realizarse la prórroga anual correspondiente;
+
+IX. Permitir al personal competente de la Secretaría de Transporte, el acceso al inmueble, estacionamiento, sitio o local donde se realice el depósito de los vehículos, a efecto de vigilar el cumplimiento de este Libro;
+
+X. Contratar y mantener vigente una póliza de seguro de responsabilidad civil a través de alguna empresa legalmente constituida, por los posibles daños que se ocasionen a los vehículos depositados, la que deberá hacerse en un término no mayor a veinte días hábiles, contados a partir del otorgamiento de la concesión, debiendo acreditarlo ante la autoridad competente;
+
+XI. Establecer un número telefónico gratuito que funcione las veinticuatro horas del día los trescientos sesenta y cinco días del año al servicio de la ciudadanía, así como, una página web enlazada a la Secretaría de Transporte, en la que se publicarán de manera inmediata los datos del vehículo que se encuentre bajo su resguardo y un par de fotografías que acredite el estado en que lo recibieron;
+
+XII. Acatar y dar cumplimiento a las resoluciones que emita la Secretaría de Transporte en el procedimiento a que hace referencia el artículo 7.71;
+
+XIII. Las demás que se establezcan en otras disposiciones legales y administrativas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+
+###### Artículo 7.
+
+53.- Los concesionarios del servicio público auxiliar de depósito y guarda de vehículos, deberán prohibir el acceso al inmueble donde se practique el depósito, a toda persona que no se encuentre bajo su dirección, responsabilidad o subordinación, con excepción de las autoridades, previa identificación personal, acrediten facultad para ingresar al establecimiento para la práctica de alguna diligencia de carácter legal o de personal autorizado de la Secretaría de Transporte para efectuar inspecciones de libros, registros, instalaciones, grúas, personal y vehículos.
+
+Asimismo, podrá permitirse a los particulares que acrediten interés jurídico o legítimo, extraer del vehículo, documentación y objetos personales, siempre en presencia del personal autorizado del establecimiento y levantando constancia circunstanciada de dicha disposición.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+
+#### SECCION SEGUNDA. De los lugares de depósito
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+
+###### Artículo 7.
+
+54.- Quienes presten el servicio público auxiliar de depósito y guarda vehicular, no podrán ejercer en el mismo inmueble, ningún otro tipo de actividad, salvo el servicio público auxiliar de salvamento y arrastre vehicular.
+
+Queda prohibido, tener talleres mecánicos o vender refacciones automotrices en el interior del inmueble sujeto a la concesión.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+
+###### Artículo 7.
+
+55.- Son obligaciones de los permisionarios del servicio público auxiliar de salvamento y arrastre vehicular:
+
+I. Observar las condiciones y restricciones complementarias que se establezcan en el permiso respectivo;
+
+II. Abstenerse de realizar servicios de salvamento y arrastre, a vehículos entregados por autoridades que no se identifiquen plenamente o sin mediar la documentación que acredite la entrega material y jurídica del bien correspondiente;
+
+III. Entregar, a quien solicite el salvamento y arrastre del vehículo respectivo, la documentación que acredite fehacientemente la recepción del mismo, describa las condiciones en que se encuentre, y señale, mediante inventario pormenorizado, los efectos personales, valores u objetos que se encuentren en el interior del vehículo;
+
+IV. Llevar un registro físico y electrónico de control, debidamente pormenorizado, que contenga los datos de los vehículos a los que se les realice un servicio de salvamento y arrastre, indicando la causa o motivo de la solicitud, la fecha y hora de la misma, la autoridad que lo solicitó y el lugar de depósito o destino final, según lo indicado por la autoridad;
+
+V. Respetar las tarifas establecidas para la prestación del servicio, que deberán encontrarse en un cartel de cuando menos un metro cuadrado, visible en las oficinas de atención al público, del establecimiento donde se depositen los vehículos;
+
+VI. Cumplir y mantener las especificaciones técnicas para los vehículos destinados a realizar las maniobras de salvamento y arrastre que este Libro prevé, así como las que fije la Secretaría del Transporte al momento de otorgar el permiso o al realizarse la prórroga de este último;
+
+VII. Permitir al personal competente de la Secretaría de Transporte, el acceso a sus oficinas, sitio o local donde se realicen las actividades de coordinación, operación y mantenimiento de los vehículos destinados a prestar el servicio de salvamento y arrastre, a efecto de vigilar el cumplimiento de este Libro;
+
+VIII. Contratar y mantener vigente una póliza de seguro de responsabilidad civil que ampare los vehículos sujetos a traslado, a través de alguna empresa legalmente constituida y autorizada por la Comisión Nacional de Seguros y Fianzas;
+
+IX. Las demás que establezcan otras disposiciones legales y administrativas.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
+
+###### Artículo 7.
+
+56.- Son derechos de los concesionarios del servicio público auxiliar de depósito y guarda vehicular los siguientes:
+
+I. Cobrar la tarifa autorizada por la prestación del servicio, a quienes acrediten interés jurídico o legítimo del vehículo;
+
+II. Proponer a la Secretaría de Transporte, la instrumentación de programas y acciones para el mejoramiento de las condiciones de operación, supervisión y cobro del servicio;
+
+III. Los demás que le otorguen otras disposiciones jurídicas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+
+###### Artículo 7.
+
+57.- Son derechos de los permisionarios del servicio público auxiliar de salvamento y arrastre vehicular los siguientes:
+
+I. Cobrar la tarifa autorizada por la prestación del servicio, a quienes acrediten interés jurídico o legítimo del vehículo;
+
+II. Proponer a la Secretaría de Transporte, la instrumentación de programas y acciones para el mejoramiento de las condiciones de operación, supervisión y cobro del servicio;
+
+III. Los demás que le otorguen otras disposiciones jurídicas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO] CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
+
+#### SECCION TERCERA. De la recepción de los vehículos
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+
+###### Artículo 7.
+
+58.- Para las operaciones de salvamento y arrastre de vehículos, se consideran tres tipos de grúas, de acuerdo a su capacidad de remolque, siendo las siguientes:
+
+I. Equipos hidráulicos de plataformas abatibles para subir y transportar vehículos sin rodar y con equipo posterior para remolcar vehículos;
+
+II. Equipos con plumas;
+
+III. Vehículos con equipos hidráulicos sujetadores de llantas, eje o chasis.
+
+Las especificaciones para los equipos de salvamento y arrastre quedarán establecidas en la Norma Técnica respectiva y demás disposiciones generales administrativas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+
+###### Artículo 7.
+
+59.- Únicamente podrán prestar los servicios con grúas con capacidad de 3,500 kilogramos como mínimo de carga o doble rodada, queda prohibido el uso de equipos de (sic) levante como garruchas, poleas o polipastos.
+
+La capacidad máxima de arrastre o traslado por tipo de grúa estará en función del peso bruto vehicular especificado por el fabricante, así como el peso vehicular incluyendo la grúa o plataforma y el peso del vehículo por arrastrar o trasladar.
+
+Las unidades deben contar con una placa legible e indeleble de 0.15 m por 0.20 m en el exterior del vehículo en un lugar visible al usuario, en la que se indique su tipo, peso bruto vehicular máximo de carga de la grúa o plataforma.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+
+#### SECCION CUARTA. De la custodia, conservación y devolución de los vehículos
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+
+###### Artículo 7.
+
+60.- Los vehículos destinados para prestar el servicio de grúa, deberán contar con una antigüedad no mayor a diez años, a partir del año de su fabricación y deberán contar con los elementos que se establezcan en la disposición administrativa correspondiente.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
+
+###### Artículo 7.
+
+61.- Durante la realización de las maniobras necesarias para realizar el salvamento y arrastre de vehículos que deban de ser trasladados, el permisionario deberá establecer la señalización preventiva necesaria mediante abanderamiento, ya sea manual o a través de cualquier artefacto luminoso, que permita advertir a los usuarios de las calles, caminos y puentes, sobre la presencia de vehículos averiados.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+
+###### Artículo 7.
+
+62.- Al efectuar el salvamento y arrastre vehicular, el permisionario estará obligado a elaborar un reporte de servicio, que proporcionará en copia al propietario del vehículo y que contendrá como mínimo lo siguiente:
+
+I. Fecha y hora de servicio al vehículo;
+
+II. Número de serie y placas de circulación de la grúa que realice el traslado del vehículo;
+
+III Las características generales del vehículo, indicando cuando menos:
+
+a) Marca y tipo.
+
+b) Año del modelo.
+
+c) Color.
+
+d) Número de motor.
+
+e) Número de serie.
+
+f) Número de placas de circulación o del permiso provisional para circular, si los portara.
+
+g) Descripción del estado físico interior y exterior del vehículo, que de ser posible firme el conductor o si estuviese ausente dos testigos o fotografías.
+
+IV. Ubicación donde se presta el servicio;
+
+V. En su caso, el nombre y cargo del servidor público que pone el vehículo a disposición y motivo de retención;
+
+VI. Desglose, por conceptos del cobro de servicios;
+
+VII. Número de folio del reporte;
+
+VIII. El permisionario del servicio de salvamento y arrastre de vehículos solo podrá realizar las maniobras de traslado, únicamente cuando los vehículos por las condiciones y naturaleza del hecho no puedan ser trasladados por sus conductores o propietarios, así como cuando se nieguen a trasladarlos y la autoridad lo ordene.
+
+La Secretaría de Transporte elaborará y comunicará a los permisionarios, los formatos específicos para el reporte a que se refiere este artículo, cuyo uso, en este caso, será obligatorio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO] CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
+
+###### Artículo 7.
+
+63.- Los vehículos recuperados por robo, deberán ser trasladados a los depósitos vehiculares estatales, cada Fiscalía Regional contará al menos con una unidad de arrastre con la finalidad de que el usuario recupere su vehículo sin tener que realizar erogaciones por concepto de arrastre, salvamento, guarda, custodia y depósito de vehículos.
+
+Únicamente con motivo de las dimensiones del vehículo robado, que exceda de la capacidad de arrastre de las grúas con que cuente la Fiscalía Regional correspondiente, se solicitará el servicio de grúas permisionado, quienes cobrarán el servicio prestado con cargo al propietario del vehículo o medio de transporte recuperado conforme a las tarifas vigentes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
 
 ### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
-> <small>(REFORMADO, G.G. 3 DE MAYO DE 2006)</small>
+#### SECCION PRIMERA. Consideraciones Generales
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+
+###### Artículo 7.
+
+64.- En los lugares en que se encuentren dos o más concesionarios autorizados para prestar el servicio de depósito y guarda de vehículos, se dará prioridad al establecimiento que esté más cerca de la ubicación del vehículo a depositar.
+
+En los lugares, en los que no se cuente con establecimientos autorizados para prestar el servicio de depósito y guarda de vehículos, el vehículo en cuestión, se depositará en el más próximo, donde haya un concesionario autorizado.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA] CON EL ARTÍCULO QUE LA INTEGRA, G.G. 24 DE AGOSTO DE 2012)</small>
+
+###### Artículo 7.
+
+65.- Las especificaciones mínimas de infraestructura y de servicio que deberán cubrirse en los establecimientos donde se preste el servicio público auxiliar de depósito vehicular, son:
+
+I. Protección perimetral del inmueble, mediante bardeado y rematados con protecciones de malla o alambre de púas y portón de acceso;
+
+II. Debe contar con espacio para la atención a usuarios y actividades de las personas encargadas, sanitarios al público y sistemas de comunicación;
+
+III. Contar con vigilancia las veinticuatro horas del día;
+
+IV. El depósito deberá distinguirse al público en lugares visibles, por medio de rótulos que muestren la razón social, requisitos para la liberación de vehículos y tarifa vigente. De igual forma, dentro de sus instalaciones deben contar con salidas de emergencia y rutas de evacuación debidamente señaladas. Las especificaciones de dichos rótulos, salidas y señalamientos se precisarán en la Norma Técnica respectiva y demás disposiciones generales administrativas;
+
+V. Debe contar con los seguros de daños y/o fondos de garantía que aseguren el pago de daños que pudieran sufrir los vehículos arrastrados y/o depositados imputables al prestador del servicio, así como los terceros que resultaren perjudicados en sus bienes o personas, debido a las actividades que desarrollan las grúas, los depósitos, el seguro a grúas y depósito de vehículos estará en función del tamaño del depósito y el número de vehículos en resguardo, en términos de la Norma Técnica respectiva y demás disposiciones generales administrativas;
+
+VI. Los horarios de servicio, el manejo de los sellos, la instalación de buzones de quejas y sugerencias y el procedimiento serán especificados en las demás disposiciones generales administrativas;
+
+VII. Las demás previstas en la Norma Técnica respectiva y demás disposiciones generales administrativas.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
+
+###### Artículo 7.
+
+66.- Los concesionarios podrán promover y suscribir entre sí y con las corporaciones de policía estatales y municipales, convenios de coordinación para optimizar la adecuada cobertura y condiciones de prestación del servicio, así como garantizar la efectiva protección y custodia de los vehículos y proporcionar a las autoridades en materia de seguridad, información para el debido cumplimiento de sus fines.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+
+#### SECCIÓN SEGUNDA. De la declaración de abandono y el procedimiento de enajenación
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+
+###### Articulo 7.
+
+67.- Los concesionarios deberán abstenerse de recibir:
+
+I. Vehículos remitidos por autoridades que no se identifiquen plenamente o sin mediar la documentación que acredite la entrega material y jurídica del vehículo correspondiente; tener en depósito, o recibir vehículos robados o con reporte de robo, aún los remitidos por alguna autoridad de cualquier naturaleza;
+
+II. Junto con el vehículo, alimentos perecederos, medicamentos a granel, drogas, armas, animales, productos químicos, materiales o residuos corrosivos, reactivos, explosivos, tóxicos, inflamables, mutagénicos o biológico infecciosos y demás productos o mercancías que se encuentren a simple vista, cuya conservación represente un riesgo para la salud o para el ambiente, por su concentración, propiedades químicas o resultados de la descomposición;
+
+Si tales objetos, productos o mercancías estuvieren en el vehículo al momento de solicitarse el depósito, la autoridad a cuya disposición se encuentre el vehículo, deberá proveer lo necesario, respecto de la guarda de dichos bienes;
+
+III. Vehículos detenidos por autoridades de un municipio, si se pretende ponerlos bajo resguardo de un establecimiento ubicado en un municipio distinto, excepto cuando se trate del supuesto del artículo 7.63 de este Libro;
+
+IV. Vehículos que sean trasladados por personas físicas o jurídicas colectivas que no cuenten con el permiso para prestar el servicio público auxiliar de salvamento y arrastre, en los términos que establece este Libro.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+
+###### Artículo 7.
+
+68.- Al momento de recibir un vehículo en depósito, el concesionario realizará un inventario del bien depositado y entregará una copia al propietario del vehículo y otra al servidor público responsable de la puesta a disposición o del operador de la grúa responsable del traslado, que describa:
+
+I. El nombre del servidor público o la persona que realiza la entrega material del vehículo;
+
+II. Número de serie y placas de circulación de la grúa que realice el traslado del vehículo depositado y nombre de la compañía permisionaria del servicio de salvamento y arrastre o de la corporación que hubiese hecho el traslado;
+
+III. La fecha y hora de recepción del vehículo;
+
+IV. Las características generales del vehículo, indicando cuando menos:
+
+a) Marca y tipo.
+
+b) Año del modelo.
+
+c) Color.
+
+d) Número de motor.
+
+e) Número de serie.
+
+f) Número de placas de circulación o del permiso provisional para circular, si los portara.
+
+V. Nombre y dirección del concesionario responsable de la prestación del servicio de depósito vehicular;
+
+VI. Nombre y firma autógrafa de la persona que reciba materialmente el vehículo;
+
+VII. Descripción del estado físico interior y exterior del vehículo;
+
+VIII. Relación y descripción pormenorizada de los objetos que se encuentren en el interior o exterior del vehículo y que permanecerán en depósito junto con la unidad;
+
+IX. Número de folio que permita individualizar e identificar el recibo.
+
+La Secretaría de Transporte elaborará y comunicará a los concesionarios, formatos específicos para el recibo a que se refiere este artículo, cuyo uso en este caso, será obligatorio.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
+
+### CAPITULO PRIMERO. Disposiciones generales
+
+#### SECCION PRIMERA. De las facultades de la Secretaría de Desarrollo Agropecuario
+
+###### Artículo 7.
+
+69.- Los concesionarios deberán devolver el vehículo que tengan bajo su guarda y custodia, en las condiciones que consten en el inventario del mismo, haciéndose responsables de cualquier parte o accesorio faltante, así como de los daños causados a los vehículos durante el tiempo que permanezcan bajo su custodia y, en cualquier caso, deberá restituirlos o repararlos a satisfacción del propietario del vehículo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+
+###### Artículo 7.
+
+70.- Para obtener la devolución del vehículo depositado, el interesado deberá exhibir la orden de liberación que al efecto expida la autoridad ante la cual se hubiese puesto a disposición, debiendo cubrir el monto de las tarifas correspondientes; comprobando que pagó los servicios al permisionario de salvamento y arrastre, firmando la documentación que acredite la entrega del vehículo.
+
+La liberación de vehículos ordenada por autoridad judicial o administrativa, no exenta al interesado de la obligación de pago por los servicios de salvamento y arrastre, los de depósito, ni priva a los concesionarios o permisionarios de su derecho a cobrarlos, aun cuando el hecho o acto generadores de la necesidad del depósito, sea revocado o declarado nulo.
+
+Una vez cubiertos los requisitos antes referidos el concesionario entregará el vehículo conforme a lo dispuesto en el artículo 7.52 fracción IV, de este Libro.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+
+#### SECCION SEGUNDA. Del Instituto de Investigación y Capacitación Agropecuaria, Acuícola y Forestal del Estado de México
+
+###### Artículo 7.
+
+71.- Si al momento de la devolución del vehículo, el interesado detectare faltantes o averías que no consten en el inventario, podrá presentar una queja ante la Secretaría de Transporte, dentro de los quince días hábiles siguientes al momento en que le fue entregado.
+
+Recibida la queja, la Secretaría de Transporte citará al agraviado y al concesionario a una audiencia, que se llevará a cabo dentro de los diez días hábiles siguientes a la recepción de la queja, en la que se procurará una conciliación.
+
+De no lograrse la conciliación, la Secretaría de Transporte emitirá la resolución correspondiente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO] CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
+
+#### SECCION PRIMERA. Del Consejo Consultivo Económico Estatal
+
+###### Artículo 7.
+
+72.- Se consideran de utilidad pública, aquellas acciones que tiendan a evitar el hacinamiento o saturación de vehículos en los establecimientos de depósito vehicular, a fin de evitar riesgos a la seguridad o a la salud pública.
+
+Las autoridades estatales competentes en materia de salubridad y preservación del equilibrio ecológico y protección al ambiente, podrán, conforme a las disposiciones que las rijan, realizar visitas de inspección a los establecimientos concesionados y formular recomendaciones u ordenar medidas de seguridad que tiendan a evitar, minimizar o mitigar posibles daños al ecosistema o a la salud pública.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+
+###### Artículo 7.
+
+73.- Para los efectos de este Libro, se consideran vehículos abandonados aquellos que hayan sido puestos a disposición de autoridad competente y depositados en alguno de los establecimientos concesionados que regula este Libro, siempre que no sean recuperados por persona alguna y que encuadren en cualquiera de los supuestos previstos por este ordenamiento.
+
+Los vehículos a que se refiere este Capítulo, no serán considerados como bienes mostrencos, de acuerdo a lo dispuesto por el Código Civil del Estado de México, por lo que su regulación se someterá exclusivamente a lo dispuesto en este Libro.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
+
+###### Artículo 7.
+
+74.- Los vehículos asegurados y que fueron remitidos a los depósitos vehiculares que causen abandono por más de un año, aplican a favor del Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+
+#### SECCION SEGUNDA. De los consejos consultivos económicos regionales y municipales
+
+###### Artículo 7.
+
+75.- Se iniciará el procedimiento de declaración de abandono de los vehículos depositados, para su destrucción, cuando se presente alguno de los supuestos siguientes:
+
+I. Que haya transcurrido más de un año, de la fecha en que se hubiere depositado el vehículo, a excepción de aquellos que se encuentren en proceso judicial o administrativo pendiente de resolver, o que dictada la resolución o sentencia, ésta, no haya quedado firme, en cuyo caso el plazo referido, se computará a partir del momento en que cause ejecutoria dicha resolución;
+
+II. Que la autoridad competente haya ordenado la liberación y entrega del vehículo, por parte de la autoridad competente y haya transcurrido más de un año.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+
+###### Artículo 7.
+
+76.- Al cumplirse el plazo señalado en los supuestos que establece el artículo anterior, el concesionario deberá:
+
+I. Informar a la Secretaría de Transporte, cuando se actualice alguna de las causales a que hace referencia el artículo que antecede;
+
+II. Remitir a la Secretaría de Transporte, las placas y la tarjeta de circulación del vehículo, si las portara y conservara en la unidad; en caso de no ser así, comunicará bajo protesta de decir verdad, dicha circunstancia;
+
+III. Cuando la Secretaría de Transporte reciba el listado por parte de los concesionarios, respecto de los vehículos susceptibles de ser declarados en abandono y por ende enajenados, mediante edicto publicado en el Periódico Oficial "Gaceta del Gobierno" y en un diario de mayor circulación del Estado de México dará a conocer los vehículos sujetos al procedimiento de abandono;
+
+IV. En un plazo de siete días hábiles posteriores a la publicación del edicto referido en la fracción que antecede, el Titular de la Secretaría de Transporte, emitirá la Declaratoria de Abandono de los bienes en favor del Estado, que por medio de edicto deberá publicarse en el Periódico Oficial "Gaceta del Gobierno" y en un diario de mayor circulación del Estado de México;
+
+V. La enajenación se exceptúa de la subasta púbica;
+
+VI. El producto de la venta del vehículo enajenado se aplicará para la reparación del daño cuando lo hubiere, mismo que deberá ser reclamado dentro del plazo de un mes siguiente a la publicación del edicto respectivo, previa acreditación del interés jurídico; el remanente, en su caso, pasará a favor del Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+
+###### Artículo 7.
+
+77.- El destino final de los vehículos rematados será invariablemente el de su destrucción total y su venta como desecho ferroso.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+
+### CAPITULO SEGUNDO. De los vehículos
+
+#### SECCION PRIMERA. Disposiciones generales
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 7.
+
+78.- Los vehículos no motorizados, como bicicletas y similares; y los aparatos, ornamentos que acompañaren al vehículo al momento de su depósito, podrán ser sujetos del procedimiento establecido por el presente Capítulo, o bien, donados a instituciones de asistencia privada o planteles educativos del Estado de México.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
+
+###### Artículo 7.
+
+79.- Las autoridades podrán imponer como medida de seguridad, la retención del vehículo cuando se violen flagrantemente las disposiciones de este Libro y las disposiciones que de él emanen, o bien, cuando los vehículos no se encuentren en condiciones para la prestación del servicio público de transporte o pongan en peligro la seguridad de los usuarios del servicio o de terceros.
+
+La retención del vehículo podrá determinarse hasta que las faltas que dieron origen a la retención sean corregidas.
+
+> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
 
 #### SECCION SEGUNDA. De la licitación pública
 
@@ -6713,7 +7335,25 @@ La retención del vehículo podrá determinarse hasta que las faltas que dieron 
 
 ###### Artículo 7.
 
-41.- Las infracciones a las disposiciones de este Libro y las que de él emanen, en materia de transporte, serán sancionadas con:
+80.- La autoridad podrá ordenar la clausura de depósitos de vehículos, terminales de pasajeros o paradores o bien, el retiro de anuncios publicitarios, cuando se ponga en riesgo la seguridad de los usuarios o de terceros.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
+
+###### Artículo 7.
+
+81.- Independientemente de las medidas de seguridad impuestas, la autoridad podrá aplicar las sanciones que correspondan en términos del presente Libro.
+
+> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
+###### Artículo 7.
+
+82.- La aplicación de las sanciones por infracciones a las disposiciones de este Libro y su reglamentación, se hará independientemente de que se exija el pago de contribuciones y sus demás accesorios, así como las responsabilidades de orden administrativo, civil o penal previstas en los ordenamientos legales respectivos.
+
+> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
+###### Artículo 7.
+
+83.- Las infracciones a las disposiciones de este Libro y las que de él emanen, en materia de transporte, serán sancionadas con:
 
 I. Amonestación;
 
@@ -6727,23 +7367,21 @@ V. Clausura temporal o definitiva, parcial o total, tratándose de depósitos de
 
 VI. Retiro de anuncios publicitarios en los medios de transporte cuando no se haya autorizado su colocación o puedan poner en riesgo la seguridad de los usuarios o terceros;
 
-> <small>(REFORMADA, G.G. 19 DE AGOSTO DE 2011)</small>
-
 VII. Cancelación de la licencia para conducir vehículos de transporte público y del tarjetón de identificación;
 
-VIII. Cancelación de las placas de matriculación; y
+VIII. Cancelación de las placas de matriculación;
 
 IX. Clausura definitiva de terminales de pasajeros y paraderos, cuando estos pongan en riesgo la seguridad de los usuarios o terceros.
 
 Las sanciones anteriores se impondrán cuando para la infracción cometida no exista una aplicable al caso en concreto.
 
-> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 7.
 
-42.- La multa prevista en el artículo anterior, se impondrá por los montos e infracciones siguientes:
+84.- La multa prevista en el artículo anterior, se impondrá por los montos e infracciones siguientes:
 
-l. Multa de quinientas a dos mil veces el salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, a quien preste el servicio público de transporte sin la concesión o permiso correspondiente;
+I. Multa de quinientas a dos mil veces el salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, a quien preste el servicio público de transporte sin la concesión o permiso correspondiente;
 
 II. Multa de cien a quinientas veces el salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, a quien modifique o altere las tarifas, itinerarios, horarios y no contar con un seguro de viajero o cualquier otra transgresión a las condiciones de prestación del servicio, siendo responsables solidarios los concesionarios o permisionarios por los actos de sus empleados o trabajadores;
 
@@ -6761,239 +7399,79 @@ a) Conduzca la unidad bajo los influjos de bebidas alcohólicas, enervantes o cu
 
 b) Se niegue a la práctica de exámenes médicos, psicológicos, farmacológicos y otros que determine la Secretaría de Transporte en términos del Reglamento correspondiente;
 
-> <small>(REFORMADO, G.G. 19 DE AGOSTO DE 2011)</small>
-
 c) No acredite haber cumplido con la capacitación requerida para conducir vehículos sujetos a concesión o permiso y/o en su caso, no cuente o porte el tarjetón de identificación expedido por la Secretaría de Transporte.
 
-VIII. Multa de cuarenta a cien veces el salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, a quien cometa cualquier otra violación al presente Libro, las disposiciones que de él emanen y a las condiciones establecidas en el título de concesión o permiso, cuya sanción no esté expresamente prevista, con la responsabilidad solidaria de los titulares de la concesión o permiso.
+VIII. Multa de cuarenta a cien veces el salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, a quien cometa cualquier otra violación al presente Libro, las disposiciones que de él emanen y a las condiciones establecidas en el título de concesión o permiso, cuya sanción no esté expresamente prevista, con la responsabilidad solidaria de los titulares de la concesión o permiso;
 
-Los titulares de la concesión o permiso serán responsables solidarios para el cumplimiento de la sanción.
+IX. Multa de cien a quinientas veces el salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, a quien:
 
-> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+a) Reciba en depósito vehículos para los cuales existe impedimento de conformidad con el Título Quinto del presente Libro;
 
-###### Artículo 7.
+b) Omita o utilice inadecuadamente los formatos que la Secretaría de Transporte establezca para prestar los servicios que regula este Libro o utilizar formatos distintos a los autorizados;
 
-43.- Los conductores de los servicios sujetos a concesión o permiso se harán acreedores a la cancelación de su licencia para conducir cuando reincidan en las infracciones señaladas en la fracción VII del artículo anterior.
+c) Omitir implementar o ejecutar las medidas de control y vigilancia que este Libro ordena o que se consignen en el título de concesión o permiso correspondiente;
 
-> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+d) Omitir informar de inmediato, a la autoridad ante la cual se encuentren a disposición los vehículos depositados el robo o daño que llegaren a sufrir mientras se encuentren bajo su cuidado;
 
-###### Artículo 7.
+e) Omitir tener a la vista del público el catalogo de tarifas vigentes.
 
-44.- La autoridad correspondiente podrá cancelar la licencia o permiso para conducir o bien, retirar las placas de matriculación, cuando se hayan obtenido con base en información falsa, o por mandamiento de autoridad judicial competente.
+X. Multa de quinientas a mil veces de salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, al concesionario que por si o mediante sus administradores, empleados u operarios, incurra en:
 
-> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+a) Alterar las tarifas autorizadas;
 
-###### Artículo 7.
+b) Devolver el vehículo a persona distinta de la señalada por la autoridad que ordene la liberación del vehículo;
 
-45.- Sólo después de haber cubierto el importe de las multas, traslados o depósitos, si los hubiere, se procederá a la entrega de los vehículos, en términos de lo dispuesto en este Libro y sus disposiciones reglamentarias.
+c) Provocar o tolerar actos que produzcan el deterioro, pérdida, destrucción o disposición indebida de los vehículos depositados o que sean objeto de arrastre;
 
-> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+d) Omitir consignar en la constancia de recibo del vehículo, los datos que refiere el artículo 7.68 fracción IV de este Libro o que se establezcan datos falsos;
 
-###### Artículo 7.
+e) Omitir llevar o llevar incompleto el registro de control de ingreso y egreso de vehículos depositados, a que se refiere este Libro;
 
-46.- Tratándose de la infracción consistente en prestar el servicio público sin autorización, en caso de que el vehículo retenido porte colores de empresa o ruta de servicio público autorizado, deberá ser despintado por el interesado, previo a la liberación.
+f) Omitir cumplir con las debidas especificaciones físicas del establecimiento para la prestación del servicio;
 
-> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+g) Negarse sin causa justificada, a recibir o a devolver los vehículos, cuando lo requieran las autoridades competentes;
 
-###### Artículo 7.
+h) Rebasar la capacidad instalada de almacenamiento de vehículos para depósito;
 
-47.- El importe de la multa que se imponga a los concesionarios o permisionarios, por infracciones en la prestación del servicio público, será garantizado con el vehículo, debiendo quedar en los depósitos de guarda y custodia que designe la autoridad.
+i) Realizar los servicios que regula este Libro, sin la concesión o permiso correspondientes.
 
-> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
 
-###### Artículo 7.
+## TITULO PRIMERO. Disposiciones generales
 
-48.- Cuando el infractor en uno o varios hechos viole diversas disposiciones de este Libro o de las disposiciones que de él emanen, le serán acumuladas y aplicadas las sanciones correspondientes a cada una de ellas.
-
-> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
+### CAPITULO TERCERO. De los conductores
 
 ###### Artículo 7.
 
-49.- Cuando se incurra dos o más veces en infracciones que sean sancionadas con multa, en un periodo de seis meses, contado a partir de la primera, se considerará reincidencia, aplicándose el doble del monto inicial de la multa, sin perjuicio de que le sea aplicable la revocación de la concesión o permiso.
+85.- Procede la suspensión temporal de los derechos derivados de la concesión o permiso, a que hace referencia el Título Quinto, por un periodo de treinta hasta noventa días, cuando:
+
+I. Se incurra en más de dos ocasiones dentro de un período de 365 días naturales, en alguna de las conductas a que se refiere el artículo anterior;
+
+II. Omitir que se implementen o ejecuten, dentro del plazo que señale la Secretaría de Transporte, las medidas de control y vigilancia a que el concesionario o permisionario esté obligado;
+
+III. Se impida, obstruya o dificulte indebidamente, al personal de la Secretaría de Transporte o a las autoridades competentes, la práctica de actividades de inspección para vigilar el cumplimiento de este Libro y demás ordenamientos legales aplicables;
+
+IV. Omitir entregar a los interesados la factura o el recibo fiscal de pago por la prestación del servicio;
+
+V. Omitir tener contratada y vigente la póliza de seguro de responsabilidad civil a que se refiere el Título Quinto del presente Libro.
+
+> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 7.
 
-50.- La aplicación de las sanciones por infracciones a las disposiciones de este Libro y su reglamentación, se hará independientemente de que se exija el pago de contribuciones y sus demás accesorios, así como las responsabilidades de orden administrativo, civil o penal previstas en los ordenamientos legales respectivos.
+86.- La suspensión tiene por efecto, el impedimento para que, durante el tiempo que dure la sanción, el concesionario pueda prestar el servicio. En el caso del servicio público auxiliar de depósito y guarda de vehículos, subsistirán el resto de sus obligaciones derivadas de la concesión, incluida la de proveer del servicio al público para la devolución de vehículos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2002)</small>
+### CAPITULO PRIMERO. Del objeto y finalidad
 
-###### Artículo 7.
-
-51.- Las infracciones a las disposiciones de este Libro y las que de él emanen, en materia de comunicaciones de jurisdicción local, serán sancionadas con:
-
-I. Amonestación;
-
-II. Multa hasta de un siete por ciento del monto total de la inversión de la obra o instalaciones;
-
-III. Demolición de la obra o retiro de las instalaciones a costa del infractor, en caso de que se ponga en riesgo la seguridad de los usuarios o se interrumpa la prestación del servicio;
-
-IV. Suspensión temporal o definitiva, parcial o total, de la obra o instalaciones.
-
-> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2002)</small>
-
-V. Revocación de la concesión, permiso o autorización;
-
-> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2002)</small>
-
-VI. Retiro de anuncios publicitarios.
-
-###### Artículo 7.
-
-52.- Las infracciones a las disposiciones de este Libro y las que de él emanen en materia de transporte, serán sancionadas con:
-
-I. Amonestación;
-
-II. Multa;
-
-III. Retención del vehículo;
-
-IV. Revocación de la concesión, permiso o autorización;
-
-V. Clausura temporal o definitiva, parcial o total, tratándose de depósitos de vehículos o de servicios conexos;
-
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-VI. Retiro de anuncios publicitarios en los medios de transporte cuando no se haya autorizado su colocación o puedan poner en riesgo la seguridad de los usuarios o terceros;
-
-VII. Cancelación de la licencia de conducir;
-
-VIII. Cancelación de las placas de matriculación;
-
-> <small>(ADICIONADA. G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-IX. Clausura definitiva de terminales de pasajeros y paraderos, cuando estos pongan en riesgo la seguridad de los usuarios o terceros.
-
-> <small>(ADICIONADO, G.G. 11 DE DICIEMBRE DE 2008)</small>
-
-Las sanciones anteriores se impondrán cuando para la infracción cometida no exista una aplicable al caso en concreto.
-
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 11 DE DICIEMBRE DE 2008)</small>
-
-###### Artículo 7.
-
-53.- La multa prevista en el artículo anterior, se impondrá por los montos e infracciones siguientes:
-
-I. Multa de quinientas a dos mil veces el salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, a quien preste el servicio público de transporte sin la concesión o permiso correspondiente;
-
-II. Multa de cien a quinientas veces el salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, a quien modifique o altere las tarifas, itinerarios y horarios o cualquier otra transgresión a las condiciones de prestación del servicio, siendo responsables solidarios los concesionarios o permisionarios por los actos de sus empleados o trabajadores;
-
-III. Multa de cincuenta a cien veces el salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, a los titulares de la concesión o permiso cuando se niegue a prestar el servicio, sin causa justificada, así como por actos de maltrato al usuario;
-
-IV. Multa de hasta mil veces el salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, independientemente de que se proceda a la retención del vehículo hasta que cumpla con las normas establecidas, a quien transporte materiales, sustancias o residuos tóxicos o peligrosos sin contar con el permiso correspondiente, o sin cumplir con las normas oficiales;
-
-V. Multa de ochenta a doscientas veces el salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, a quien transporte carga en vehículos de cualquier tipo sin contar con la concesión o permiso respectivo;
-
-VI. Multa de cincuenta a doscientas veces el salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, a quien permita que las unidades en las que se preste el servicio sean conducidas por personas menores de edad o que carezcan de licencia o permiso;
-
-VII. Multa de doscientas cincuenta a trescientas veces el salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, a quien:
-
-a) Conduzca la unidad bajo los influjos de bebidas alcohólicas, enervantes o cualquier otra sustancia tóxica. Esta sanción se aplicará sin perjuicio de la retención del vehículo y la responsabilidad en que se pudiera incurrir, siendo igualmente solidario el concesionario o permisionario por los actos del personal a su servicio;
-
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
-
-b) Se niegue a la práctica de exámenes médicos, psicológicos, farmacológicos y otros que determine la Secretaría de Transporte en términos del Reglamento correspondiente;
-
-c) No acreditar haber cumplido con la capacitación requerida para conducir vehículos sujetos a concesión o permiso.
-
-VIII. (DEROGADA, G.G. 26 DE DICIEMBRE DE 2007)
-
-IX. (DEROGADA, G.G. 26 DE DICIEMBRE DE 2007)
-
-X. Multa de cuarenta a cien veces el salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, a quien cometa cualquier otra violación al presente Libro, las disposiciones que de él emanen y a las condiciones establecidas en el título de concesión o permiso, cuya sanción no esté expresamente prevista, con la responsabilidad solidaria de los titulares de la concesión o permiso.
-
-> <small>(ADICIONADO, G.G. 11 DE DICIEMBRE DE 2008)</small>
-
-Los titulares de la concesión o permiso serán responsables solidarios para el cumplimiento de la sanción.
-
-#### SECCION TERCERA. De las excepciones a la licitación pública
-
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
-
-###### Artículo 7.
-
-54.- Los conductores de los servicios sujetos a concesión o permiso se harán acreedores a la cancelación de su licencia para conducir cuando reincidan en las infracciones señaladas en la fracción VII del artículo anterior.
-
-###### Artículo 7.
-
-55.- La autoridad correspondiente podrá cancelar la licencia o permiso para conducir o bien, retirar las placas de matriculación, cuando se hayan obtenido con base en información falsa, o por mandamiento de autoridad judicial competente.
-
-###### Artículo 7.
-
-56.- Sólo después de haber cubierto el importe de las multas, traslados o depósitos, si los hubiere, se procederá a la entrega de los vehículos, en términos de lo dispuesto en este Libro y sus disposiciones reglamentarias.
-
-###### Artículo 7.
-
-57.- Tratándose de la infracción consistente en prestar el servicio público sin autorización, en caso de que el vehículo retenido porte colores de empresa o ruta de servicio público autorizado, deberá ser despintado por el interesado, previo a la liberación.
-
-#### SECCION CUARTA. De la invitación restringida
-
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
-
-###### Artículo 7.
-
-58.- El importe de la multa que se imponga a los concesionarios o permisionarios, por infracciones en la prestación del servicio público, será garantizado con el vehículo, debiendo quedar en los depósitos de guarda y custodia que designe la autoridad.
-
-###### Artículo 7.
-
-59.- Cuando el infractor en uno o varios hechos viole diversas disposiciones de este Libro o de las disposiciones que de él emanen, le serán acumuladas y aplicadas las sanciones correspondientes a cada una de ellas.
-
-#### SECCION QUINTA. De la adjudicación directa
-
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
-
-###### Artículo 7.
-
-60.- Cuando se incurra dos o más veces en infracciones que sean sancionadas con multa, en un periodo de seis meses, contado a partir de la primera, se considerará reincidencia, aplicándose el doble del monto inicial de la multa, sin perjuicio de que le sea aplicable la revocación de la concesión o permiso.
-
-### CAPITULO TERCERO. De las organizaciones de productores
-
-#### SECCION PRIMERA. Disposiciones generales
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
-
-#### SECCION SEGUNDA. De la licitación pública
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
-
-### CAPITULO PRIMERO. De la producción y transformación
-
-#### SECCION TERCERA. De las excepciones a la licitación pública
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
-
-#### SECCION CUARTA. De la invitación restringida
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
-
-#### SECCION QUINTA. De la adjudicación directa
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
-
-#### SECCIÓN SEXTA. De la Subasta Inversa Electrónica
-
-> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
-
-### CAPITULO SEGUNDO. De la comercialización
-
-#### SECCION PRIMERA. De la subasta pública
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
-
-#### SECCION PRIMERA. Del comité consultivo estatal de normalización técnica de la construcción
-
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
-
-## TITULO SEGUNDO. Del tránsito
-
-### CAPITULO TERCERO. De la investigación, transferencia de tecnología y capacitación
-
-### CAPITULO CUARTO. De la Protectora de Bosques del Estado de México
+> <small>(REFORMADO, G.G. 3 DE MAYO DE 2006)</small>
 
 # LIBRO OCTAVO. Del tránsito y estacionamientos de servicio al público
 
-## TITULO TERCERO. De los estacionamientos de servicio al público
+## TITULO SEGUNDO. Del tránsito
 
-### CAPITULO QUINTO. De los apoyos y estímulos
+### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+
+> <small>(REFORMADO, G.G. 3 DE MAYO DE 2006)</small>
 
 ###### Artículo 8.
 
@@ -7003,7 +7481,7 @@ Los titulares de la concesión o permiso serán responsables solidarios para el 
 
 2.- Las disposiciones de este Libro tienen como finalidad garantizar la seguridad de los peatones, conductores y pasajeros que utilizan la infraestructura vial.
 
-### CAPITULO PRIMERO. Del objeto y finalidad
+### CAPITULO TERCERO. De las organizaciones de productores
 
 ###### Artículo 8.
 
@@ -7013,9 +7491,9 @@ Los titulares de la concesión o permiso serán responsables solidarios para el 
 
 Corresponde a la Secretaría General de Gobierno por conducto de la Agencia de Seguridad Estatal, ejercer las atribuciones relativas al tránsito en la infraestructura vial primaria y a los municipios en la infraestructura vial local. Asimismo, compete a los municipios el ejercicio de las atribuciones en materia de estacionamientos de servicio al público.
 
-## TITULO CUARTO. De las infracciones y sanciones
+## TITULO TERCERO. De los estacionamientos de servicio al público
 
-### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+### CAPITULO PRIMERO. De la producción y transformación
 
 ###### Artículo 8.
 
@@ -7069,9 +7547,7 @@ II. Coordinar y ejecutar las acciones y medidas de auxilio que se adopten en rel
 
 III. Ordenar medidas de seguridad para prevenir daños con motivo de la circulación de vehículos.
 
-### CAPITULO TERCERO. De los consejos consultivos económicos
-
-> <small>(DEROGADA CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
+### CAPITULO SEGUNDO. De la comercialización
 
 ###### Artículo 8.
 
@@ -7183,7 +7659,7 @@ k) Efectuar carreras o arrancones en la vía pública;
 
 l) Obstruir los accesos y espacios destinados a las personas con discapacidad.
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO TERCERO. De la investigación, transferencia de tecnología y capacitación
 
 ###### Artículo 8.
 
@@ -7203,9 +7679,9 @@ II. En materia de estacionamientos, la multa se calculará multiplicando el núm
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
-## TITULO PRIMERO. Disposiciones generales
+## TITULO CUARTO. De las infracciones y sanciones
 
-### CAPITULO SEGUNDO. Del Instituto de Investigación y Fomento de las Artesanías del Estado de México
+### CAPITULO CUARTO. De la Protectora de Bosques del Estado de México
 
 ###### Artículo 8.
 
@@ -7213,13 +7689,25 @@ II. En materia de estacionamientos, la multa se calculará multiplicando el núm
 
 I. Ordenar el retiro de la vía pública de vehículos, objetos, personas o animales que obstaculicen o pongan en peligro el tránsito, remitiéndolos a los depósitos correspondientes y presentando a las personas ante las autoridades competentes en caso de delito o falta grave;
 
-II. Obtener la tarjeta de circulación del vehículo con el que se cometa una infracción para garantizar el pago de la sanción. A falta de este documento, se podrá retener la licencia del conductor y, a falta de ambos, la placa de matriculación del vehículo;
+II. (DEROGADA, G.G. 24 DE AGOSTO DE 2012)
 
-III. Detener la marcha de cualquier vehículo cuando el conductor esté cometiendo alguna infracción a las disposiciones en materia de tránsito, procediendo a levantar la boleta de infracción.
+> <small>(REFORMADA, G.G. 24 DE AGOSTO DE 2012)</small>
+
+III. Detener la marcha de cualquier vehículo cuando el conductor esté cometiendo alguna infracción a las disposiciones en materia de tránsito, procediendo a entregar el documento que emita el Sistema a que se refieren los reglamentos respectivos.
 
 Los agentes de tránsito del Estado y los municipios están facultados para ejercer las atribuciones a que se refiere este artículo.
 
-### CAPITULO TERCERO. Del Instituto de Fomento Minero y Estudios Geológicos del Estado de México
+> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
+### CAPITULO QUINTO. De los apoyos y estímulos
+
+###### Artículo 8.
+
+19 Bis.- Las autoridades de tránsito contarán con agentes de:
+
+a) Tránsito: serán aquellos facultados para imponer las sanciones a que se refiere este Libro y los reglamentos respectivos.
+
+b) Vialidad: serán aquellos responsables de vigilar que los conductores de vehículos automotores cumplan con las obligaciones establecidas en este Libro y en los reglamentos respectivos.
 
 ###### Artículo 8.
 
@@ -7231,7 +7719,7 @@ II. Cuando al vehículo le falten ambas placas de matriculación o el documento 
 
 III. Cuando las placas de matriculación del vehículo no coincidan en números y letras con la calcomanía o la tarjeta de circulación;
 
-IV. Cuando estando obligado a ello, el vehículo carezca de la constancia que acredite emisión de contaminantes dentro de los límites permitidos o cuando circule en días no permitidos;
+IV. (DEROGADA, G.G. 24 DE AGOSTO DE 2012)
 
 V. Por encontrarse el conductor en estado de ebriedad o bajo el influjo de drogas enervantes o psicotrópicos;
 
@@ -7241,7 +7729,9 @@ VII. Por interferir, obstaculizar o impedir deliberadamente la circulación de v
 
 VIII. Cuando lo establezcan otras disposiciones legales.
 
-En los casos a que se refiere este artículo, salvo tratándose de la fracción VI, el conductor tiene el derecho de conducir su vehículo hasta el depósito más cercano que la autoridad le indique y sólo en caso de negativa o de abandono de la unidad, el traslado podrá efectuarse por medio del servicio autorizado de arrastre.
+> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
+En los casos a que se refiere este artículo, salvo tratándose de la fracciones V y VI, el conductor tiene el derecho de conducir su vehículo hasta el depósito más cercano que la autoridad le indique y sólo en caso de negativa o de abandono de la unidad, el traslado podrá efectuarse por medio del servicio autorizado de arrastre.
 
 ###### Artículo 8.
 
@@ -7249,9 +7739,13 @@ En los casos a que se refiere este artículo, salvo tratándose de la fracción 
 
 I. La autoridad competente sólo podrá retirar al vehículo de que se trate para remitirlo al depósito correspondiente, cuando no esté presente el conductor, o bien éste no quiera o no pueda mover el vehículo;
 
+> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
+En caso de proceder la remisión del vehículo al depósito, los agentes deberán sellar las puertas del mismo, para garantizar la conservación y guarda de los objetos que en él se encuentren, y de manera inmediata deberán informar a las autoridades respectivas, para finalmente hacer entrega de la unidad en el depósito referido.
+
 II. En caso de que esté presente el conductor y mueva su vehículo del lugar prohibido, sólo se levantará la infracción que proceda;
 
-III. Una vez remitido el vehículo al depósito correspondiente, los agentes deberán informar de inmediato a las autoridades, procediendo a sellar el vehículo para garantizar su conservación y la guarda de los objetos que en él se encuentren.
+III. (DEROGADA, G.G. 24 DE AGOSTO DE 2012)
 
 > <small>(REFORMADO, G.G. 14 DE ABRIL DE 2011)</small>
 
@@ -7261,15 +7755,13 @@ III. Una vez remitido el vehículo al depósito correspondiente, los agentes deb
 
 > <small>(REFORMADA SU DENOMINACION, G.G. 3 DE MAYO DE 2006)</small>
 
-## TITULO SEGUNDO. Del fomento y desarrollo de las actividades agropecuarias y acuícolas
+## TITULO PRIMERO. Disposiciones generales
 
 # LIBRO NOVENO. Del fomento y desarrollo agropecuario y acuícola
 
-## TITULO TERCERO. Del Sistema Estatal de Información de Desarrollo Agropecuario y Acuícola
+## TITULO SEGUNDO. Del fomento y desarrollo de las actividades agropecuarias y acuícolas
 
-> <small>(REFORMADO, G.G. 3 DE MAYO DE 2006)</small>
-
-### CAPITULO CUARTO. Del turismo
+### CAPITULO PRIMERO. Del objeto y finalidad
 
 ###### Artículo 9.
 
@@ -7281,9 +7773,7 @@ III. Una vez remitido el vehículo al depósito correspondiente, los agentes deb
 
 2.- Las disposiciones de este Libro tienen como finalidad lograr en la Entidad un incremento sostenido de las actividades agropecuarias y acuícolas para contribuir al desarrollo rural del Estado.
 
-### CAPITULO PRIMERO. Del objeto y finalidad
-
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
 ###### Artículo 9.
 
@@ -7293,9 +7783,9 @@ III. Una vez remitido el vehículo al depósito correspondiente, los agentes deb
 
 4.- Los municipios podrán participar en las acciones reguladas en este Libro.
 
-### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+### CAPITULO TERCERO. De los consejos consultivos económicos
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 9.
 
@@ -7305,9 +7795,11 @@ Se entiende por productor rural la persona física que directa o indirectamente 
 
 > <small>(REFORMADA SU DENOMINACION, G.G. 3 DE MAYO DE 2006)</small>
 
-## TITULO CUARTO. De las infracciones y sanciones
+## TITULO TERCERO. Del Sistema Estatal de Información de Desarrollo Agropecuario y Acuícola
 
-### CAPITULO TERCERO. Del Sistema para el Desarrollo Integral de la Familia del Estado de México
+> <small>(REFORMADO, G.G. 3 DE MAYO DE 2006)</small>
+
+### CAPITULO PRIMERO. Disposiciones generales
 
 ###### Artículo 9.
 
@@ -7345,9 +7837,7 @@ III. Que los programas para la tecnificación del riego que realicen los diferen
 
 IV. La erradicación del sistema de rosa, tumba y quema y de incendios inducidos para fines de explotación agropecuarias.
 
-### CAPITULO CUARTO. Del Consejo Estatal para la Protección de las Personas con Discapacidad y su Integración al Desarrollo Social
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+### CAPITULO SEGUNDO. Del Instituto de Investigación y Fomento de las Artesanías del Estado de México
 
 ###### Artículo 9.
 
@@ -7367,13 +7857,11 @@ VI. La formación y capacitación de árbitros, así como la constitución de un
 
 VII. La integración de cadenas productivas, y mecanismos que permitan la obtención de financiamientos con tasas preferenciales, en materia de comercialización.
 
-### CAPÍTULO PRIMERO. Disposiciones generales
+### CAPITULO TERCERO. Del Instituto de Fomento Minero y Estudios Geológicos del Estado de México
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+#### SECCION TERCERA. De las excepciones a la licitación pública
 
-#### SECCION SEGUNDA. De la expedición de las normas técnicas
-
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 9.
 
@@ -7392,6 +7880,10 @@ V. La educación, capacitación, asistencia técnica y difusión de tecnología,
 VI. La actualización y modernización de los programas educativos en la materia;
 
 VII. La integración de un directorio de profesionistas individuales o asociados para facilitar a los productores la contratación de los servicios técnicos y de asesoría que requieran.
+
+#### SECCION CUARTA. De la invitación restringida
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 9.
 
@@ -7453,7 +7945,7 @@ VI. Las utilidades, intereses, dividendos, rendimientos de bienes, derechos y de
 
 Los ingresos del Instituto, así como los productos e instrumentos financieros autorizados, serán destinados y aplicados a las actividades señaladas en los programas aprobados por el consejo directivo.
 
-### CAPITULO SEGUNDO. De la atención médica
+### CAPITULO CUARTO. Del turismo
 
 ###### Artículo 9.
 
@@ -7467,7 +7959,9 @@ Los ingresos del Instituto, así como los productos e instrumentos financieros a
 
 15.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
-### CAPITULO TERCERO. De la educación regular y especial
+### CAPITULO PRIMERO. Del objeto y finalidad
+
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 9.
 
@@ -7493,19 +7987,19 @@ VII. Considerar a quienes no puedan por sí mismos llevar a cabo las inversiones
 
 > <small>(REFORMADA SU DENOMINACION, G.G. 3 DE MAYO DE 2006)</small>
 
-## TITULO PRIMERO. Disposiciones generales
-
-> <small>(DEROGADO CON LOS ARTÍCULOS, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
+## TITULO CUARTO. De las infracciones y sanciones
 
 ###### Artículo 9.
 
 18.- La Secretaría de Desarrollo Agropecuario organizará y coordinará el sistema estatal de información de desarrollo agropecuario y acuícola, con el objeto de obtener, generar y procesar la información necesaria para planear el fomento y evaluar el desarrollo de las actividades a que se refiere este Libro, así como para proveer de información oportuna a quienes participan en dichas actividades y al público en general.
 
-## TITULO SEGUNDO. Del fomento empresarial
+## TITULO PRIMERO. Disposiciones generales
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPITULO CUARTO. De la orientación y rehabilitación para el trabajo
+### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 9.
 
@@ -7527,17 +8021,17 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON LOS TITULOS, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPITULO QUINTO. Del tránsito y transporte
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+### CAPITULO TERCERO. Del Sistema para el Desarrollo Integral de la Familia del Estado de México
 
 # LIBRO DECIMO. Del fomento económico
 
 > <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-## TITULO TERCERO. Del Sistema Estatal de Información de Desarrollo Económico y Registro Estatal de Desarrollo Económico
+## TITULO SEGUNDO. Del fomento empresarial
 
-### CAPITULO SEXTO. De las facilidades urbanísticas y arquitectónicas
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
+
+### CAPITULO CUARTO. Del Consejo Estatal para la Protección de las Personas con Discapacidad y su Integración al Desarrollo Social
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -7551,9 +8045,9 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPITULO SEPTIMO. De las actividades deportivas, recreativas y culturales
+### CAPÍTULO PRIMERO. Disposiciones generales
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 10.
 
@@ -7569,9 +8063,11 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPITULO OCTAVO. De la atención integral a las personas con discapacidad
+### CAPITULO SEGUNDO. De la atención médica
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+#### SECCION QUINTA. De la adjudicación directa
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 10.
 
@@ -7587,17 +8083,19 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
+#### SECCION PRIMERA. Disposiciones generales
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+
 ###### Artículo 10.
 
 9.- (DEROGADO, G.G. 7 DE SEPTIEMBRE DE 2010)
 
 > <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-## TITULO CUARTO. Del otorgamiento de apoyos
+## TITULO TERCERO. Del Sistema Estatal de Información de Desarrollo Económico y Registro Estatal de Desarrollo Económico
 
-### CAPITULO NOVENO. De la atención y orientación a familiares de las personas con discapacidad o terceros
-
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+### CAPITULO TERCERO. De la educación regular y especial
 
 ###### Artículo 10.
 
@@ -7613,9 +8111,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPITULO PRIMERO. Disposiciones generales
-
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+### CAPITULO CUARTO. De la orientación y rehabilitación para el trabajo
 
 ###### Artículo 10.
 
@@ -7631,9 +8127,9 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPITULO SEGUNDO. De la planeación, programación y presupuestación
+### CAPITULO QUINTO. Del tránsito y transporte
 
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 10.
 
@@ -7649,9 +8145,9 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPITULO TERCERO. De los procedimientos de adjudicación
+### CAPITULO SEXTO. De las facilidades urbanísticas y arquitectónicas
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 10.
 
@@ -7663,7 +8159,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-## TITULO QUINTO. Del Premio Estatal a la Excelencia Empresarial Mexiquense
+## TITULO CUARTO. Del otorgamiento de apoyos
 
 ###### Artículo 10.
 
@@ -7683,7 +8179,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-## TITULO PRIMERO. Disposiciones generales
+## TITULO QUINTO. Del Premio Estatal a la Excelencia Empresarial Mexiquense
 
 ###### Artículo 10.
 
@@ -7695,7 +8191,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-## TITULO SEGUNDO. De la prestación de los servicios a personas con discapacidad
+## TITULO PRIMERO. Disposiciones generales
 
 ###### Artículo 10.
 
@@ -7705,13 +8201,11 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 # LIBRO DECIMO PRIMERO. De la protección e integración al desarrollo de las personas con discapacidad
 
-## TITULO TERCERO. De los derechos y obligaciones de los usuarios y participación de la comunidad
+## TITULO SEGUNDO. De la prestación de los servicios a personas con discapacidad
+
+### CAPITULO SEPTIMO. De las actividades deportivas, recreativas y culturales
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-### CAPITULO CUARTO. De la contratación
-
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 11.
 
@@ -7731,9 +8225,9 @@ Para los efectos de este Libro, las personas con discapacidad son aquellas que p
 
 3.- Los servicios que presten las instituciones para la rehabilitación de personas con discapacidad, aún cuando se denominen, ostenten o constituyan bajo otra modalidad, se sujetarán a las disposiciones previstas en la Ley General de Salud y este Libro.
 
-### CAPITULO QUINTO. De la ejecución
+### CAPITULO OCTAVO. De la atención integral a las personas con discapacidad
 
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 11.
 
@@ -7755,9 +8249,9 @@ Para los efectos de este Libro, las personas con discapacidad son aquellas que p
 
 7.- Las disposiciones de este Libro se aplicarán sin perjuicio de lo previsto en las Leyes Generales de Salud y de Educación, los Libros Segundo, Tercero, Quinto y Séptimo, así como la legislación en materia de asistencia social y privada.
 
-### CAPITULO SEXTO. De la administración directa
+### CAPITULO NOVENO. De la atención y orientación a familiares de las personas con discapacidad o terceros
 
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 11.
 
@@ -7811,7 +8305,7 @@ XIII. Proporcionar orientación y asistencia jurídica en juicios de interdicci�
 
 > <small>(REFORMADA SU DENOMINACION, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO SEPTIMO. De la información, verificación y control
+### CAPITULO PRIMERO. Disposiciones generales
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
@@ -7845,11 +8339,11 @@ Los ayuntamientos determinarán la estructura y funcionamiento de sus respectivo
 
 > <small>(REFORMADA SU DENOMINACION, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-## TITULO CUARTO. De los profesionales, técnicos y auxiliares para los servicios de salud y la educación
+## TITULO TERCERO. De los derechos y obligaciones de los usuarios y participación de la comunidad
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO OCTAVO. De los medios de defensa
+### CAPITULO SEGUNDO. De la planeación, programación y presupuestación
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
@@ -7891,9 +8385,9 @@ De acuerdo con el resultado del diagnóstico que hayan emitido la o las comision
 
 La calificación realizada por las comisiones de valoración responderá a criterios técnicos unificados y tendrá validez ante cualquier dependencia, organismo público o privado del Estado.
 
-### CAPITULO PRIMERO. Parte general
+### CAPITULO TERCERO. De los procedimientos de adjudicación
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 11.
 
@@ -7953,9 +8447,9 @@ I. Procurar la extensión cuantitativa y cualitativa de los servicios de atenci�
 
 II. Establecer y llevar a cabo conjuntamente programas interinstitucionales que aseguren la atención integral de la población con discapacidad.
 
-### CAPITULO SEGUNDO. De la planeación, programación y sistematización
+### CAPITULO CUARTO. De la contratación
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 11.
 
@@ -8005,9 +8499,9 @@ IV. Lograr la incorporación de la persona con discapacidad a la vida social y a
 
 25.- Los hijos de trabajadores con discapacidad gozarán de servicio gratuito de guardería, para ello, las instituciones educativas y sanitarias estatales promoverán la prestación del servicio hasta satisfacer la demanda.
 
-### CAPITULO TERCERO. De la sistematización
+### CAPITULO QUINTO. De la ejecución
 
-> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 11.
 
@@ -8055,9 +8549,9 @@ I. Establecer programas de promoción del empleo de las personas con discapacida
 
 II. Gestionar el apoyo de los sectores público e industrial para colocar a las personas con discapacidad en puestos vacantes, así como para que las autoridades competentes otorguen a los solicitantes con discapacidad permisos y licencias de funcionamiento comercial en la infraestructura vial y en locales de mercados públicos.
 
-### CAPITULO CUARTO. De las operaciones consolidadas
+### CAPITULO SEXTO. De la administración directa
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 11.
 
@@ -8111,9 +8605,9 @@ II. Podrán ser utilizados por cualquier usuario, en tanto no sean requeridos po
 
 Adicionalmente, deberán equipar el cinco por ciento de sus unidades con mecanismos que faciliten el acceso a personas con discapacidad y equipo de apoyo.
 
-### CAPITULO QUINTO. De los catálogos
+### CAPITULO SEPTIMO. De la información, verificación y control
 
-> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 11.
 
@@ -8141,9 +8635,9 @@ Las barreras arquitectónicas que en la infraestructura vial deben ser eliminada
 
 La Agencia de Seguridad Estatal verificará la existencia de barreras arquitectónicas en la infraestructura vial primaria y propondrá ante las autoridades competentes su eliminación o readecuación, conforme a lo dispuesto en el párrafo anterior.
 
-### CAPITULO SEXTO. De la integración y funciones de los Comités
+### CAPITULO OCTAVO. De los medios de defensa
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 11.
 
@@ -8153,9 +8647,9 @@ El Gobierno del Estado, a través de la Secretaría de Educación, Cultura y Bie
 
 > <small>(REFORMADA SU DENOMINACION, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO SEPTIMO. De los procedimientos de adquisición
+### CAPITULO PRIMERO. Parte general
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 11.
 
@@ -8179,7 +8673,7 @@ III. La prestación de los servicios procurará la permanencia de las personas c
 
 > <small>(REFORMADA SU DENOMINACION, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO OCTAVO. De las enajenaciones
+### CAPITULO SEGUNDO. De la planeación, programación y sistematización
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -8187,7 +8681,9 @@ III. La prestación de los servicios procurará la permanencia de las personas c
 
 39.- El Sistema para el Desarrollo Integral de la Familia del Estado de México coordinará un programa estatal para informar, capacitar y adiestrar a las familias y a los terceros, para aumentar su capacidad de estimular y atender el desarrollo de las personas con discapacidad, así como propiciar un entorno familiar adecuado a sus necesidades de rehabilitación con las instituciones del sector salud.
 
-## TITULO QUINTO. De las sanciones
+## TITULO CUARTO. De los profesionales, técnicos y auxiliares para los servicios de salud y la educación
+
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 11.
 
@@ -8199,15 +8695,13 @@ III. La prestación de los servicios procurará la permanencia de las personas c
 
 41.- Las autoridades sanitarias del Estado y las propias instituciones de salud, establecerán procedimientos de orientación y asesoría para las personas con discapacidad respecto al uso de los servicios que requieran, así como de las prestaciones a su alcance y las condiciones de acceso a las mismas.
 
-## TITULO PRIMERO. De la información e investigación geográfica, estadística y catastral
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
+## TITULO QUINTO. De las sanciones
 
 ###### Artículo 11.
 
 42.- El Gobierno del Estado, a través de las Secretarías de Salud y de Educación, Cultura y Bienestar Social, del Sistema Estatal para el Desarrollo Integral de la Familia del Estado de México y de la Universidad Autónoma del Estado de México, impulsará y fomentará la formación, capacitación y actualización de los recursos humanos responsables de la atención de personas con discapacidad, de conformidad con los objetivos y prioridades del Sistema Estatal de Salud y los programas educativos.
 
-## TITULO SEGUNDO. Del Instituto
+## TITULO PRIMERO. De la información e investigación geográfica, estadística y catastral
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -8239,7 +8733,7 @@ En caso de reincidencia, se podrá duplicar el monto de la multa y proceder a la
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO NOVENO. De los contratos
+### CAPITULO TERCERO. De la sistematización
 
 > <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
@@ -8405,7 +8899,7 @@ La invalidez podrá ser declarada de oficio en sede administrativa por la depend
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO DECIMO. De las garantías
+### CAPITULO CUARTO. De las operaciones consolidadas
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -8537,7 +9031,11 @@ IV. Las demás que establezca el Reglamento respectivo.
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO DECIMO PRIMERO. De los contratos abiertos
+### CAPITULO QUINTO. De los catálogos
+
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+#### SECCION SEGUNDA. De la licitación pública
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -8556,6 +9054,10 @@ II. Adjudicación directa.
 22.- En el procedimiento de licitación pública deberán establecerse los mismos requisitos y condiciones para todos los participantes, debiendo las dependencias, entidades y ayuntamientos, proporcionarles igual acceso a la información relacionada con dicho procedimiento, a fin de evitar favorecer a algún participante.
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+#### SECCION TERCERA. De las excepciones a la licitación pública
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 12.
 
@@ -8675,6 +9177,10 @@ El procedimiento de invitación restringida se desarrollará en los términos de
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
+#### SECCION CUARTA. De la invitación restringida
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+
 ###### Artículo 12.
 
 34.- Las dependencias, entidades y ayuntamientos podrán contratar obra pública o servicios relacionados con la misma, mediante el procedimiento de invitación restringida, cuando:
@@ -8684,6 +9190,10 @@ I. Se hubiere declarado desierto un procedimiento de licitación; o
 II. Las obras o servicios a contratar, no rebasen los montos establecidos por el Presupuesto de Egresos del Gobierno del Estado del ejercicio correspondiente.
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+
+#### SECCION QUINTA. De la adjudicación directa
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 12.
 
@@ -8727,6 +9237,10 @@ XI. Las obras o servicios a contratar, no rebasen los montos establecidos por el
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
+#### SECCIÓN SEXTA. De la Subasta Inversa Electrónica
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 12.
 
 38.- La adjudicación de la obra o servicios relacionados con la misma obligará a la dependencia, entidad o ayuntamiento y a la persona en que hubiere recaído, a suscribir el contrato respectivo dentro de los diez días hábiles siguientes al de la notificación del fallo.
@@ -8735,7 +9249,7 @@ Si la dependencia, entidad o ayuntamiento no firmare el contrato dentro del plaz
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO DECIMO SEGUNDO. De la información y verificación
+### CAPITULO SEXTO. De la integración y funciones de los Comités
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -8879,9 +9393,9 @@ En el supuesto de la fracción II, el contratista afectado podrá demandar la re
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO DECIMO TERCERO. De las infracciones y sanciones
+### CAPITULO SEPTIMO. De los procedimientos de adquisición
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 12.
 
@@ -9003,7 +9517,7 @@ V. Utilizar servicios de fletes y acarreos complementarios.
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO DECIMO CUARTO. De la instancia de inconformidad
+### CAPITULO OCTAVO. De las enajenaciones
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -9025,9 +9539,9 @@ V. Utilizar servicios de fletes y acarreos complementarios.
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO PRIMERO. De las disposiciones generales
+### CAPITULO NOVENO. De los contratos
 
-> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 12.
 
@@ -9059,9 +9573,9 @@ Tratándose de obras que se ejecuten o se pretendan ejecutar con recursos munici
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO SEGUNDO. Del Sistema Estatal de Información e Investigación
+### CAPITULO DECIMO. De las garantías
 
-> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 12.
 
@@ -9117,21 +9631,21 @@ En contra de la resolución que se dicte en la inconformidad administrativa, as�
 
 > <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO TERCERO. Del servicio
+### CAPITULO DECIMO PRIMERO. De los contratos abiertos
 
-> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO CUARTO. De la coordinación
+### CAPITULO DECIMO SEGUNDO. De la información y verificación
 
-> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 # LIBRO DECIMO TERCERO. De las adquisiciones, enajenaciones, arrendamientos y servicios
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO PRIMERO. Del IGECEM
+### CAPITULO DECIMO TERCERO. De las infracciones y sanciones
 
-> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 13.
 
@@ -9277,9 +9791,9 @@ Las políticas y normas administrativas a que se refiere el párrafo anterior, s
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO UNICO
+### CAPITULO DECIMO CUARTO. De la instancia de inconformidad
 
-> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 13.
 
@@ -9363,9 +9877,9 @@ En el supuesto de que existan trabajos, estudios o proyectos que satisfagan los 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO PRIMERO. De las disposiciones generales
 
-> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 13.
 
@@ -9393,9 +9907,9 @@ III. Lograr mayor eficiencia y transparencia.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO II. De la dirección del periódico oficial
+### CAPITULO SEGUNDO. Del Sistema Estatal de Información e Investigación
 
-> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 13.
 
@@ -9411,9 +9925,9 @@ La reglamentación de este Libro establecerá los bienes y servicios sujetos a o
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO III. Del funcionamiento del periódico oficial
+### CAPITULO TERCERO. Del servicio
 
-> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 13.
 
@@ -9437,9 +9951,9 @@ La falta de inscripción en dicho catálogo no limitará la libre concurrencia d
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO IV. Del procedimiento de publicación y circulación
+### CAPITULO CUARTO. De la coordinación
 
-> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 13.
 
@@ -9499,9 +10013,13 @@ V. Las demás que establezca la reglamentación de este Libro.
 
 > <small>(ADICIONADO CON LAS SECCIONES Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO V. De la fe de erratas
+### CAPITULO PRIMERO. Del IGECEM
 
-> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+#### SECCION PRIMERA. De la subasta pública
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 13.
 
@@ -9518,6 +10036,10 @@ I. Invitación restringida;
 II. Adjudicación directa.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+
+#### SECCION PRIMERA. Del comité consultivo estatal de normalización técnica de la construcción
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 13.
 
@@ -9687,6 +10209,10 @@ En estos casos, la cancelación no implicará ninguna responsabilidad de caráct
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
+#### SECCION SEGUNDA. De la expedición de las normas técnicas
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 13.
 
 40.- Las dependencias, entidades, tribunales administrativos y ayuntamientos, bajo su responsabilidad, podrán llevar a cabo procedimientos de adquisición de bienes o servicios a través de las modalidades de invitación restringida y adjudicación directa.
@@ -9799,9 +10325,9 @@ Mediante la presentación de estas ofertas subsecuentes de descuentos, se realiz
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO VI. De las responsabilidades de los servidores públicos
+### CAPITULO UNICO
 
-> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 13.
 
@@ -9947,9 +10473,9 @@ En estos casos, la cancelación no implicará ninguna responsabilidad de caráct
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO UNICO
+### CAPITULO I. Disposiciones generales
 
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
 ###### Artículo 13.
 
@@ -10063,9 +10589,9 @@ Es aplicable a las enajenaciones lo dispuesto en las fracciones I, III, IV, V, V
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO PRIMERO. Características que deberán reunir los Proyectos
+### CAPITULO II. De la dirección del periódico oficial
 
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
 ###### Artículo 13.
 
@@ -10105,9 +10631,9 @@ Las diferencias que resulten a favor de las contratantes tendrán el carácter d
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO SEGUNDO. Planeación, Programación y Presupuestación
+### CAPITULO III. Del funcionamiento del periódico oficial
 
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
 ###### Artículo 13.
 
@@ -10131,9 +10657,9 @@ V. El proveedor suministrará los bienes y servicios en las cantidades y fechas 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO TERCERO. Autorización del Proyecto
+### CAPITULO IV. Del procedimiento de publicación y circulación
 
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
 ###### Artículo 13.
 
@@ -10171,9 +10697,9 @@ Asimismo, podrán realizar las visitas e inspecciones que estimen pertinentes a 
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO CUARTO. Análisis Costo-Beneficio
+### CAPITULO V. De la fe de erratas
 
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
 ###### Artículo 13.
 
@@ -10185,9 +10711,9 @@ Lo anterior sin perjuicio de las penas convencionales pactadas en los contratos.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO QUINTO. De los bienes del Estado y los municipios que podrán usarse en los Proyectos
+### CAPITULO VI. De las responsabilidades de los servidores públicos
 
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
 ###### Artículo 13.
 
@@ -10261,11 +10787,11 @@ En contra de la resolución que se dicte en la inconformidad administrativa, as�
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS, Y ARTÍCULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
-## TITULO TERCERO. De las infracciones y sanciones de las infracciones y sanciones
+## TITULO SEGUNDO. Del Instituto
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
-### CAPITULO SEXTO. Administración del Proyecto
+### CAPITULO UNICO
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -10505,7 +11031,7 @@ V. Las personas cuya colaboración se requiera.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
-### CAPITULO PRIMERO. Características Generales
+### CAPITULO PRIMERO. Características que deberán reunir los Proyectos
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -10751,7 +11277,7 @@ Las dependencias, entidades y unidades administrativas de los poderes Legislativ
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
-### CAPITULO SEGUNDO. Características y elementos del modelo de Contrato
+### CAPITULO SEGUNDO. Planeación, Programación y Presupuestación
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -10785,7 +11311,7 @@ Las dependencias, entidades y unidades administrativas de los poderes Legislativ
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
-### CAPITULO TERCERO. Autorización del Modelo de Contrato
+### CAPITULO TERCERO. Autorización del Proyecto
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -10823,11 +11349,11 @@ V. Apoyar al IGECEM en la promoción y divulgación de los procesos que integran
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS, Y ARTÍCULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
-## TITULO PRIMERO. Disposiciones generales
+## TITULO TERCERO. De las infracciones y sanciones de las infracciones y sanciones
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
-### CAPITULO PRIMERO. De la integración y funciones del Comité de Proyectos
+### CAPITULO CUARTO. Análisis Costo-Beneficio
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -11017,11 +11543,11 @@ El Secretario Técnico, tiene las facultades y obligaciones que se establecen en
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS, Y ARTÍCULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
-## TITULO SEGUNDO. De los Proyectos
+## TITULO PRIMERO. Disposiciones generales
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO SEGUNDO. Disposiciones Generales
+### CAPITULO QUINTO. De los bienes del Estado y los municipios que podrán usarse en los Proyectos
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -11053,7 +11579,7 @@ Las infracciones previstas en las fracciones I, III, V, VI y VII o la reincidenc
 
 ###### Artículo 14.
 
-58.- Son infracciones a cargo de los informantes:
+58.- Son infracciones a cargo de los informante:
 
 I. Negar u omitir la entrega de datos, informes o documentos, dentro del plazo que les fuere fijado por este Libro o su Reglamento;
 
@@ -11095,7 +11621,7 @@ II. Interceptar, interferir, reproducir, sustraer, comercializar, divulgar, alte
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 5 DE ENERO DE 2006)</small>
 
-### CAPITULO TERCERO. Del procedimiento de licitación pública
+### CAPITULO SEXTO. Administración del Proyecto
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -11165,7 +11691,7 @@ Las publicaciones en el Periódico Oficial “Gaceta del Gobierno”, se realiza
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 5 DE ENERO DE 2006)</small>
 
-### CAPITULO CUARTO. De las excepciones a la licitación pública
+### CAPITULO PRIMERO. Características Generales
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -11223,7 +11749,7 @@ IV. Donaciones a instituciones privadas.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 5 DE ENERO DE 2006)</small>
 
-### CAPITULO PRIMERO. Generalidades
+### CAPITULO SEGUNDO. Características y elementos del modelo de Contrato
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -11281,7 +11807,7 @@ Por motivos técnicos, en la publicación del documento se podrá omitir la impr
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 5 DE ENERO DE 2006)</small>
 
-### CAPITULO SEGUNDO. Incumplimiento, rescisión y terminación
+### CAPITULO TERCERO. Autorización del Modelo de Contrato
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -11325,7 +11851,7 @@ Para los efectos del presente artículo, se entiende que el periódico oficial s
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 5 DE ENERO DE 2006)</small>
 
-### CAPITULO UNICO
+### CAPITULO PRIMERO. De la integración y funciones del Comité de Proyectos
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -11357,7 +11883,7 @@ II.- Por errores en el texto de los documentos originales que contengan la mater
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 5 DE ENERO DE 2006)</small>
 
-### CAPITULO UNICO
+### CAPITULO SEGUNDO. Disposiciones Generales
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -11375,11 +11901,11 @@ II. Por actos u omisiones que entorpezcan los procedimientos de edición, public
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-## TÍTULO TERCERO. Del modelo de Contrato
+## TITULO SEGUNDO. De los Proyectos
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO UNICO
+### CAPITULO TERCERO. Del procedimiento de licitación pública
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -11469,13 +11995,13 @@ Las disposiciones administrativas que se emitan de conformidad a la facultad pre
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-## TITULO CUARTO. De los procedimientos de adjudicación
+## TÍTULO TERCERO. Del modelo de Contrato
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO PRIMERO. Del objeto y finalidad
+### CAPITULO CUARTO. De las excepciones a la licitación pública
 
-> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 16.
 
@@ -11509,9 +12035,9 @@ En las autorizaciones, la Secretaría podrá requerir que la Unidad Contratante 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+### CAPITULO PRIMERO. Generalidades
 
-> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 16.
 
@@ -11587,9 +12113,9 @@ De aprobarse por la Legislatura el incremento en el presupuesto a que se refiere
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO SEGUNDO. Incumplimiento, rescisión y terminación
 
-> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 16.
 
@@ -11631,9 +12157,9 @@ En caso de que la Unidad Contratante omitiera presentar la información prevista
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO SEGUNDO. Del derecho de vía
+### CAPITULO UNICO
 
-> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 16.
 
@@ -11647,9 +12173,9 @@ En caso de que la Unidad Contratante omitiera presentar la información prevista
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO TERCERO. De la publicidad exterior en la Infraestructura Vial Primaria
+### CAPITULO UNICO
 
-> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 16.
 
@@ -11669,9 +12195,9 @@ En caso de que la Unidad Contratante omitiera presentar la información prevista
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO UNICO
 
-> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 16.
 
@@ -11701,11 +12227,11 @@ VIII. Desarrollar, administrar, supervisar, evaluar y rendir los informes necesa
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-## TITULO QUINTO. De la adjudicación, celebración y aplicación de los contratos
+## TITULO CUARTO. De los procedimientos de adjudicación
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO SEGUNDO. Del plazo
+### CAPITULO PRIMERO. Del objeto y finalidad
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -11721,7 +12247,7 @@ VIII. Desarrollar, administrar, supervisar, evaluar y rendir los informes necesa
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO TERCERO. De las obligaciones de los concesionarios y permisionarios
+### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -11819,7 +12345,7 @@ En ningún caso el Contrato tendrá por objeto principal la adquisición forzosa
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO CUARTO. De la terminación y revocación
+### CAPITULO PRIMERO. Disposiciones generales
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -11843,11 +12369,11 @@ Cualquier modificación que pudiere surgir como resultado de las juntas de aclar
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-## TITULO SEXTO. De la información
+## TITULO QUINTO. De la adjudicación, celebración y aplicación de los contratos
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO QUINTO. De los dictámenes
+### CAPITULO SEGUNDO. Del derecho de vía
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -11877,7 +12403,7 @@ IV. Las demás que establezca el reglamento de este Libro.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO PRIMERO. De la Junta de Caminos del Estado de México
+### CAPITULO TERCERO. De la publicidad exterior en la Infraestructura Vial Primaria
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -11917,7 +12443,7 @@ Con el objeto de brindar difusión y publicidad a los procesos de contratación 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO SEGUNDO. Del Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México
+### CAPITULO PRIMERO. Disposiciones generales
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -12043,7 +12569,7 @@ La Unidad Contratante podrá cancelar una licitación por caso fortuito o fuerza
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO TERCERO. Del Sistema de Transporte Masivo del Estado de México
+### CAPITULO SEGUNDO. Del plazo
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -12125,11 +12651,11 @@ XI. Las demás que por cualquier causa se encuentren impedidas para ello por dis
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-## TITULO SEPTIMO. De las infracciones y sanciones
+## TITULO SEXTO. De la información
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO CUARTO. Del registro estatal de comunicaciones
+### CAPITULO TERCERO. De las obligaciones de los concesionarios y permisionarios
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -12175,9 +12701,9 @@ La Unidad Contratante tendrá derecho de compensar cantidades que le adeude el P
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO PRIMERO. Del objeto y finalidad
+### CAPITULO CUARTO. De la terminación y revocación
 
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 16.
 
@@ -12199,13 +12725,13 @@ En caso de incumplimiento de la Unidad Contratante y siempre que ésta dependa d
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-## TITULO OCTAVO. De la Instancia de Inconformidad
+## TITULO SEPTIMO. De las infracciones y sanciones
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO SEGUNDO. De las autoridades
+### CAPITULO QUINTO. De los dictámenes
 
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 16.
 
@@ -12229,13 +12755,13 @@ Los órganos de control interno y el Órgano Superior de Fiscalización del Esta
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-## TITULO PRIMERO. Disposiciones Generales
+## TITULO OCTAVO. De la Instancia de Inconformidad
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO TERCERO. De las normas técnicas
+### CAPITULO PRIMERO. De la Junta de Caminos del Estado de México
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 16.
 
@@ -12273,13 +12799,13 @@ IV. La situación específica del infractor.
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-## TITULO SEGUNDO. De la Infraestructura Vial
+## TITULO PRIMERO. Disposiciones Generales
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO CUARTO. De los peritos responsables de obra
+### CAPITULO SEGUNDO. Del Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México
 
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 16.
 
@@ -12339,13 +12865,13 @@ En las materias reguladas en el presente Libro no procederá el recurso administ
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
-## TITULO TERCERO. De las Concesiones, Permisos y Dictámenes
+## TITULO SEGUNDO. De la Infraestructura Vial
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO PRIMERO. De las licencias de construcción
+### CAPITULO TERCERO. Del Sistema de Transporte Masivo del Estado de México
 
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 17.
 
@@ -12407,9 +12933,9 @@ IX. Zona de Seguridad.- Al predio lindante con el derecho de vía de anchura var
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO SEGUNDO. De los permisos de obra
+### CAPITULO CUARTO. Del registro estatal de comunicaciones
 
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 17.
 
@@ -12463,11 +12989,11 @@ Para los efectos de este artículo la Secretaría contará con un registro de v�
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
-## TITULO CUARTO. De los Organismos Descentralizados y el Registro Estatal de Comunicaciones
+## TITULO TERCERO. De las Concesiones, Permisos y Dictámenes
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO TERCERO. De las constancias
+### CAPITULO PRIMERO. Del objeto y finalidad
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -12499,7 +13025,7 @@ IV. Cubrir los daños que ocasionen a la infraestructura vial y su derecho de v�
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO PRIMERO. De los lineamientos de diseño
+### CAPITULO SEGUNDO. De las autoridades
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -12585,9 +13111,9 @@ Si dentro de este lazo no fuere reclamado dicho material, la autoridad queda fac
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO SEGUNDO. De los lineamientos del proyecto
+### CAPITULO TERCERO. De las normas técnicas
 
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 17.
 
@@ -12805,11 +13331,11 @@ Declarada desierta una licitación pública, se podrá adjudicar la concesión a
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
-## TITULO QUINTO. De las Medidas de Seguridad, Infracciones y Sanciones
+## TITULO CUARTO. De los Organismos Descentralizados y el Registro Estatal de Comunicaciones
 
-> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO TERCERO. De los lineamientos de diseño para personas con discapacidad
+### CAPITULO CUARTO. De los peritos responsables de obra
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -12859,7 +13385,7 @@ III. Las demás proyecciones financieras y operativas que considere la rentabili
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO PRIMERO. De las licencias de construcción
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -12933,7 +13459,7 @@ b) Al término de la concesión o sus modificaciones, los bienes objeto de la co
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO SEGUNDO. De los criterios de diseño estructural
+### CAPITULO SEGUNDO. De los permisos de obra
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -13079,7 +13605,7 @@ XIII. Las demás previstas en este Libro y la concesión o permiso respectivo.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO TERCERO. De las prevenciones estructurales
+### CAPITULO TERCERO. De las constancias
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -13101,7 +13627,7 @@ XIII. Las demás previstas en este Libro y la concesión o permiso respectivo.
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO CUARTO. De las demoliciones y excavaciones
+### CAPITULO PRIMERO. De los lineamientos de diseño
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -13165,11 +13691,11 @@ La organización y funcionamiento de la Junta se rige por el reglamento interno 
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
-## TITULO PRIMERO. De las disposiciones generales
+## TITULO QUINTO. De las Medidas de Seguridad, Infracciones y Sanciones
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO UNICO. De los procedimientos constructivos, de los materiales y de la supervisión de las obras
+### CAPITULO SEGUNDO. De los lineamientos del proyecto
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -13259,7 +13785,7 @@ La organización y funcionamiento del Sistema se rige por el reglamento interno 
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO PRIMERO. De las visitas de verificación
+### CAPITULO TERCERO. De los lineamientos de diseño para personas con discapacidad
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -13349,7 +13875,7 @@ La organización y funcionamiento del Sistema se rige por el Reglamento Interno 
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO SEGUNDO. De las medidas de seguridad
+### CAPITULO PRIMERO. Disposiciones generales
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -13411,7 +13937,7 @@ El Registro Estatal de Comunicaciones será público y tendrá efectos declarati
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO TERCERO. De las infracciones y sanciones
+### CAPITULO SEGUNDO. De los criterios de diseño estructural
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -13441,7 +13967,7 @@ VII. Las sanciones que se contengan en los respectivos títulos de concesión.
 
 > <small>(ADICIONADO CON LOS TÍTULOS, CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
-## TITULO SEGUNDO. De las licencias, permisos y constancias
+## TITULO PRIMERO. De las disposiciones generales
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -13449,11 +13975,11 @@ VII. Las sanciones que se contengan en los respectivos títulos de concesión.
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
-## TITULO TERCERO. De los lineamientos para los proyectos arquitectónicos
+## TITULO SEGUNDO. De las licencias, permisos y constancias
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
-### CAPITULO CUARTO. Del recurso de inconformidad
+### CAPITULO TERCERO. De las prevenciones estructurales
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -13513,6 +14039,10 @@ XIII. Procurarán la utilización de tecnologías a efecto de lograr un aprovech
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
+### CAPITULO CUARTO. De las demoliciones y excavaciones
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 18.
 
 4.- Son autoridades para la aplicación del presente Libro, la Secretaría y los Municipios.
@@ -13570,6 +14100,10 @@ XI. Las demás que le confieran otras disposiciones legales.
 7.- Para la emisión de las licencias, permisos y constancias de que trata este Libro, los Municipios deberán contar con servidores públicos especializados en la materia.
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+### CAPITULO UNICO. De los procedimientos constructivos, de los materiales y de la supervisión de las obras
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 18.
 
@@ -13674,6 +14208,10 @@ En ningún caso se podrá expedir una Norma Técnica que contravenga otras dispo
 Sin perjuicio de lo anterior, dentro del año siguiente a la entrada en vigor de las Normas Técnicas, el Comité podrá solicitar comentarios a los municipios respecto de la aplicación, efectos y observancia de dichas normas, a fin de sugerir las acciones de mejora que procedan, las que se difundirán en el portal oficial de la Secretaría.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+### CAPITULO PRIMERO. De las visitas de verificación
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 18.
 
@@ -13923,9 +14461,13 @@ XII. Obras urgentes para prevenir accidentes o en ejecución de medidas de segur
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
-## TITULO CUARTO. De la seguridad estructural de las construcciones
+## TITULO TERCERO. De los lineamientos para los proyectos arquitectónicos
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+### CAPITULO SEGUNDO. De las medidas de seguridad
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 18.
 
@@ -14027,6 +14569,10 @@ La autoridad municipal competente autorizará diferencias de obra ejecutada con 
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
+### CAPITULO TERCERO. De las infracciones y sanciones
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
 ###### Artículo 18.
 
 34.- A solicitud expresa del titular y durante el periodo de vigencia de la licencia o permiso de construcción o su prórroga, los Municipios podrán otorgar la suspensión del plazo concedido, por una sola vez y por un tiempo máximo de un año. Al término del periodo de suspensión, continuará transcurriendo el plazo concedido para la ejecución de la obra sin necesidad de aviso alguno.
@@ -14052,6 +14598,10 @@ La constancia se podrá otorgar para ambos o para uno u otro servicio, de acuerd
 ###### Artículo 18.
 
 37.- Las edificaciones e instalaciones deberán respetar el alineamiento que les señalen los Municipios, así como integrarse al contexto arquitectónico en que se ubiquen. Las que se proyecten en áreas sujetas a reglamentos de imagen urbana deberán ajustarse a sus lineamientos y las que se proyecten en zonas del patrimonio histórico, artístico y arqueológico y sus áreas de influencia, deben sujetarse a las restricciones que señalen el Instituto Nacional de Antropología e Historia o el Instituto Nacional de Bellas Artes y Literatura, según sea el caso.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+### CAPITULO CUARTO. Del recurso de inconformidad
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -14093,7 +14643,7 @@ Los locales destinados a cines, auditorios, teatros, salas de concierto, reunió
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
-## TITULO QUINTO. De la ejecución de las construcciones
+## TITULO CUARTO. De la seguridad estructural de las construcciones
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -14249,9 +14799,9 @@ II. Viento, cuyo objeto consiste en garantizar la seguridad de estructuras para 
 
 III. Nieve y granizo, con el propósito de prever la seguridad en el diseño de estructuras sometidas a la acción de nieve y granizo, cuyos efectos sean significativos.
 
-## TITULO SEXTO. De las visitas de verificación, medidas de seguridad y sanciones
+## TITULO QUINTO. De la ejecución de las construcciones
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 18.
 
@@ -14416,6 +14966,10 @@ En las obras deberán proporcionarse a los trabajadores servicios provisionales 
 67.- Los propietarios de construcciones tienen obligación de conservarlas en buenas condiciones de estabilidad, servicio, aspecto e higiene; de evitar que se conviertan en molestia o peligro para las personas o los bienes; así como de reparar y corregir los desperfectos y fugas que presenten.
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+## TITULO SEXTO. De las visitas de verificación, medidas de seguridad y sanciones
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 18.
 
@@ -15556,3 +16110,67 @@ G.G. 9 DE AGOSTO DE 2012.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 24 DE AGOSTO DE 2012.
+
+DECRETO NÚMERO 490 POR LO QUE SE REFORMA EL TÍTULO QUINTO Y SE ADICIONA EL TÍTULO SEXTO AL LIBRO SÉPTIMO DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Las gestiones, procedimientos y demás actos que se encuentren en trámite en, los depósitos vehiculares al momento de la entrada en vigor del presente Decreto, se concluirán de conformidad con las disposiciones jurídicas vigentes hasta ese momento.
+
+CUARTO.- En un plazo de treinta días hábiles siguientes a la entrada en vigor del presente Decreto, el Titular del Ejecutivo del Estado proveerá en la esfera administrativa el cumplimiento del mismo, expidiendo y en su caso, reformando las disposiciones reglamentarias respectivas.
+
+QUINTO.- Noventa días naturales a partir de la entrada en vigor de la presente reforma, todos los vehículos que los concesionarios tengan bajo su resguardo, por más de dos años, serán susceptibles de ser incluidos en el procedimiento de declaración de abandono para los efectos de enajenación previsto, por lo que deberán informar a la Secretaría del Transporte de tal situación, con excepción de los vehículos que tengan reporte de robo, números remarcados o alterados, porten placas de procedencia extranjera, los cuales deberán hacer del conocimiento al Ministerio Público para que determine lo procedente.
+
+SEXTO.- Los Oficiales Mediadores Conciliadores contarán con un plazo improrrogable de dos años siguientes a la entrada en vigor del presente Decreto, para certificarse por el Centro de Mediación, Conciliación y de Justicia Restaurativa del Poder Judicial del Estado de México.
+
+SÉPTIMO.- La Procuraduría General de Justicia del Estado de México en un plazo máximo de dos meses posteriores a la entrada en vigor del presente Decreto, depurará todos los vehículos que se encuentren a su disposición en los depósitos vehiculares y que por algún motivo sus propietarios, durante un año no los han reclamado, no se ha acreditado su propiedad, se encuentren remarcados; adicionalmente, revisarán las averiguaciones previas que se encuentren en reserva con la finalidad de determinar si ha operado la prescripción de la acción penal y en aquellas que se haya decretado el no ejercicio de la acción penal, con la finalidad de emitir la Declaratoria de abandono en favor del Estado en términos de la presente reforma.
+
+OCTAVO.- En un plazo no mayor a seis meses, la Procuraduría General de Justicia del Estado de México, establecerá un depósito vehicular en la Zona Oriente del Estado de México.
+
+NOVENO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en las presentes reformas.
+
+G.G. 24 DE AGOSTO DE 2012.
+
+DECRETO NÚMERO 491 POR LO QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 2.21 Y ADICIONA UNA FRACCIÓN XVII RECORRIÉNDOSE LA ACTUAL XVII PARA SER XVIII AL ARTÍCULO 2.22 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 24 DE AGOSTO DE 2012.
+
+DECRETO NÚMERO 493 POR LO QUE SE REFORMA EL ARTÍCULO 1.74 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 24 DE AGOSTO DE 2012.
+
+DECRETO NÚMERO 494 POR LO QUE SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 2.48 Y SE REFORMA EL INCISO A) DE LA FRACCIÓN X DEL ARTÍCULO 5.26 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- El Ejecutivo Estatal y los Ayuntamientos expedirán las disposiciones reglamentarias del presente Decreto en un plazo no mayor a tres meses, contados a partir de su publicación. Los establecimientos que estén funcionando de manera regular, pero que se encuentren en los supuestos contemplados en este Decreto, tendrán como límite para situarse en lugar permitido hasta un año a partir de la fecha de entrada en vigor de éste.
+
+CUARTO.- La autoridad municipal notificará a los poseedores, propietarios o titulares de las licencias de funcionamiento de los establecimientos, del plazo concedido en el artículo transitorio anterior.
+
+G.G. 24 DE AGOSTO DE 2012.
+
+DECRETO NÚMERO 500 POR LO QUE SE DEROGA LA FRACCIÓN II Y SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 8.19; SE ADICIONA EL ARTÍCULO 8.19 BIS; SE DEROGA LA FRACCIÓN IV Y SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 8.20; SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN I Y SE DEROGA LA FRACCIÓN III DEL ARTÍCULO 8.21 DEL LIBRO OCTAVO DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones contrarias al presente Decreto.
+
+CUARTO.- El Ejecutivo del Estado y los Ayuntamientos realizarán las reformas necesarias en las disposiciones reglamentarias correspondientes en un plazo de 30 días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+QUINTO.- En tanto se expiden los Reglamentos se aplicarán las disposiciones reglamentarias que se encuentren vigentes.
