@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-educacion-del-estado-de-mexico-81319"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-06"
-last_updated: "2012-08-20"
+last_updated: "2012-08-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 20 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 24 DE AGOSTO DE 2012.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Estado de México, el viernes 6 de mayo de 2011.
 
@@ -606,6 +606,10 @@ La Autoridad Educativa Estatal integrará un sistema de información con los dat
 ###### Artículo 43.
 
 Las autoridades educativas estatal y municipales, deberán planear y conducir sus actividades con sujeción a los objetivos y metas señaladas en el Programa Sectorial de Educación, de conformidad con los fines y criterio señalados en esta Ley.
+
+> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
+Adicionalmente, se incorporarán en los planes de estudios, según corresponda, contenidos formativos que prevengan el alcoholismo y el uso de drogas, así como la asimilación de valores cívicos y éticos para una mejor convivencia social, con el apoyo de las dependencias del Estado, sus organismos descentralizados y los municipios.
 
 ###### Artículo 44.
 
@@ -1408,6 +1412,16 @@ G.G. 20 DE AGOSTO DE 2012.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 24 DE AGOSTO DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- El Ejecutivo Estatal y los Ayuntamientos expedirán las disposiciones reglamentarias del presente Decreto en un plazo no mayor a tres meses, contados a partir de su publicación. Los establecimientos que estén funcionando de manera regular, pero que se encuentren en los supuestos contemplados en este Decreto, tendrán como límite para situarse en lugar permitido hasta un año a partir de la fecha de entrada en vigor de éste.
+
+CUARTO.- La autoridad municipal notificará a los poseedores, propietarios o titulares de las licencias de funcionamiento de los establecimientos, del plazo concedido en el artículo transitorio anterior.
 
 #### SECCIÓN SEGUNDA. DE LA FORMACIÓN, ACTUALIZACIÓN, CAPACITACIÓN Y SUPERACIÓN PROFESIONAL DE LOS MAESTROS
 
