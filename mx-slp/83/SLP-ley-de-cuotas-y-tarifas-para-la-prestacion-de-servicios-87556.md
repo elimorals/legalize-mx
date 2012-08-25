@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-cuotas-y-tarifas-para-la-prestacion-de-servicios-87556"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-31"
-last_updated: "2011-12-31"
+last_updated: "2012-08-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87556&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE CUOTAS Y TARIFAS PARA LA PRESTACIÓN DE SERVICIOS PÚBLICOS DEL ORGANISMO PARAMUNICIPAL QUE MANEJARÁ LA OPERACIÓN Y ADMINISTRACIÓN DEL SERVICIO PÚBLICO MUNICIPAL DE AGUA POTABLE Y ALCANTARILLADO DEL EJIDO EL REFUGIO, CIUDAD FERNÁNDEZ, S.L.P.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2012.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 31 de diciembre de 2011.
 
@@ -49,19 +49,7 @@ DE LA CONTRATACIÓN DEL SERVICIO PARA EFECTUAR CONEXIONES A LAS REDES PUBLICAS D
 
 Los derechos por conexión a las líneas de agua potable y alcantarillado en áreas que ya cuentan con el servicio será de:
 
-Clasificación del Servicio Agua Potable($) Alcantarillado($)
-
-Servicio Doméstico 2,152.50 1,888.25
-
-Servicios Públicos 1,882.12 1,717.10
-
-Servicio Comercial 2,285.75 2,022.61
-
-Servicio Industrial 2,419.50 2,157.52
-
-###### ARTICULO 2°.
-
-La contratación de la instalación del servicio de Agua Potable y Alcantarillado entre el Organismo Operador y los Usuarios, será de acuerdo a las siguientes tarifas y clasificación:
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
 
 Clasificación del Servicio Agua Potable($) Alcantarillado($)
 
@@ -72,6 +60,22 @@ Usos Públicos 907.61 183.97
 Servicio Comercial 1,533.12 183.97
 
 Servicio Industrial 1,533.12 183.97
+
+###### ARTICULO 2°.
+
+La contratación de la instalación del servicio de Agua Potable y Alcantarillado entre el Organismo Operador y los Usuarios, será de acuerdo a las siguientes tarifas y clasificación:
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
+
+Clasificación del Servicio Agua Potable($) Alcantarillado($)
+
+Servicio Doméstico 2,152.50 1,888.25
+
+Servicios Públicos 1,882.12 1,717.10
+
+Servicio Comercial 2,285.75 2,022.61
+
+Servicio Industrial 2,419.50 2,157.62
 
 ###### ARTICULO 3°.
 
@@ -135,21 +139,23 @@ $54.07 $54.07 $73.03 $93.60
 
 II).- Quienes excedan del consumo de los diez metros cúbicos pagarán además de la cuota fija, por cada metro cúbico adicional, la cuota que se presenta en la siguiente tabla:
 
-Desde -Hasta DOMESTICO ( $ ) COMERCIAL ( $ ) INDUSTRIAL ( $ )
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
 
-(mts cúbicos)
+Desde -Hasta DOMESTICO COMERCIAL INDUSTRIAL
 
-10.01 - 20.00 5.35 7.30
+(mts cúbicos) ( $ ) ( $ ) ( $ )
 
-20.01 - 30.00 5.51 7.41
+10.01 - 20.00 5.35 7.30 9.37
 
-30.01 - 40.00 5.63 7.52
+20.01 - 30.00 5.51 7.41 9.48
 
-40.01 - 50.00 5.74 7.63
+30.01 - 40.00 5.63 7.52 9.59
 
-50.01 - 60.00 5.83 7.74
+40.01 - 50.00 5.74 7.63 9.70
 
-60.01 - 100.00 5.96 7.86
+50.01 - 60.00 5.83 7.74 9.81
+
+60.01 - 100.00 5.96 7.86 9.92
 
 III).- La toma de agua potable para uso comercial, que consuma más de 100 metros cúbicos mensuales, se pagará siempre conforme a la tarifa industrial independientemente del giro de que se trate.
 
@@ -350,3 +356,11 @@ El Secretario General de Gobierno
 Lic. Cándido Ochoa Rojas
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO</small>
+
+P.O. 25 DE AGOSTO DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
