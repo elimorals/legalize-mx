@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2012-07-31"
+last_updated: "2012-08-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2012.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -1537,9 +1537,17 @@ El Congreso contará con los siguientes comités:
 
 l. De Administración;
 
-II. Del Instituto de Investigaciones Legislativas, y
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
 
-III. De Orientación, Gestoría y Quejas.
+II. Del Instituto de Investigaciones Legislativas;
+
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+III. De Orientación, Gestoría y Quejas, y
+
+> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+IV. De Reforma para la Competitividad y Desarrollo Sustentable del Estado.
 
 ###### ARTICULO 120.
 
@@ -1561,9 +1569,11 @@ II. Previo estudio socioeconómico, apoyar en la medida de las posibilidades pre
 
 III. Las demás que les señale la presente Ley y el Reglamento.
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 122.
 
-Cada Comité estará integrado pluralmente por un mínimo de tres y un máximo de cinco diputados. Estos comités tienen el carácter de permanentes; cada uno se compondrá de un Presidente, un Secretario y vocales, electos por el Pleno.
+Cada Comité estará integrado pluralmente por un mínimo de cinco y un máximo de siete diputados. Estos comités tienen el carácter de permanentes; cada uno se compondrá de un Presidente, un Secretario, y vocales, electos por el Pleno.
 
 ###### ARTICULO 123.
 
@@ -1572,6 +1582,42 @@ El Pleno podrá crear por acuerdo, cuando las necesidades así lo requieran, y c
 ###### ARTICULO 124.
 
 El Congreso del Estado deberá contar con un Comité de Adquisiciones, Arrendamientos y Servicios conforme a la ley de la materia, para valorar y autorizar la compra y contratación de los bienes y servicios que requiera el Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2012)</small>
+
+ARTICULO 124 BIS. El Comité de Reforma para la Competitividad y Desarrollo Sustentable del Estado, se integrará dentro del primer trimestre de inicio de cada Legislatura, de acuerdo a lo establecido en el artículo 122 de esta ley; los diputados que conformen este Comité deberán ser, a su vez, integrantes de las comisiones de, Desarrollo Económico y Social; Comunicaciones y Transportes; Hacienda del Estado; Trabajo y Previsión Social; Ecología y Medio Ambiente; Salud y Asistencia Social; Gobernación; y Educación, Cultura, Ciencia y Tecnología, y deberán reunirse cuando menos dos veces al año con el objeto de promover una agenda legislativa para fomentar la competitividad.
+
+El Comité de Reforma para la Competitividad y Desarrollo Sustentable del Estado, a través de sus recomendaciones y opiniones, tendrá las siguientes atribuciones:
+
+I. Coadyuvar con las comisiones relacionadas a la materia, para proponer una agenda legislativa que fomente la competitividad del Estado y sus municipios, y coadyuvar en el logro de los acuerdos necesarios para la aprobación de los temas de dicha agenda;
+
+II. Promover el diálogo y la concertación entre los diferentes agentes públicos y privados de la Entidad;
+
+III. Analizar las condiciones sociales, económicas y competitivas del Estado a partir de indicadores;
+
+IV. Elaborar estudios de prospectiva que promuevan el desarrollo sustentable;
+
+V. Promover acciones encaminadas a fortalecer las ventajas competitivas del Estado;
+
+VI. Recomendar proyectos estratégicos sustentables de alto impacto para el desarrollo económico y social, y la competitividad;
+
+VII. Concertar los criterios de una política industrial de desarrollo estatal y regional, así como de articulación de las cadenas productivas;
+
+VIII. Impulsar la formación de capital humano, físico y social, como base generadora de riqueza;
+
+IX. Promover medidas que favorezcan la equidad y la sustentabilidad económica y social;
+
+X. Participar en la elaboración, actualización, y monitoreo del Plan Estatal de Desarrollo, y de los programas correspondientes en el ámbito económico y social, de conformidad con la ley de la materia y su reglamento interior, así como respecto de los municipios, a solicitud de ellos;
+
+XI. Vincular sus actividades con los distintos sectores y actores de la sociedad potosina, así como con otros organismos similares que existan a nivel nacional e internacional;
+
+XII. Formular recomendaciones para la elaboración de proyectos de leyes y decretos que se relacionen con el desarrollo social, económico y la competitividad del Estado, así como con la integración y funcionamiento del Comité de Reforma para la Competitividad y Desarrollo Sustentable del Estado;
+
+XIII. Publicar periódicamente informes sobre las actividades realizadas, y
+
+XIV. Las demás que sean necesarias para el cumplimiento de los objetivos anteriores y que dicte su Mesa Directiva.
+
+El Comité de Reforma para la Competitividad y Desarrollo Sustentable del Estado se regirá bajo los lineamientos que establezca su Reglamento.
 
 ### Capítulo II. De los Órganos de Soporte Técnico, de Apoyo y de Control del Congreso del Estado
 
@@ -1986,3 +2032,11 @@ P.O. 31 DE JULIO DE 2012.
 PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 25 DE AGOSTO DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+TERCERO. El Reglamento del Comité de Reforma para la Competitividad y Desarrollo Sustentable del Estado, deberá expedirse en un término de ciento ochenta días hábiles, contados a partir de la constitución del nuevo Comité en la LX Legislatura.
