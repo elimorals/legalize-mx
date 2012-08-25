@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-68766"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2012-07-12"
+last_updated: "2012-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2012.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de abril de 2009.
 
@@ -419,7 +419,9 @@ V. Servicios especiales: es aquél que se presta mediante tarifa autorizada y pr
 
 a) Turismo: se brinda a pasajeros cuya finalidad exclusiva o fundamental sea el esparcimiento o el conocimiento de lugares de interés cultural, artístico y deportivo que existan en el Estado, sin rutas o itinerarios fijos, pero que incluyan el retorno al lugar de origen en vehículos que previamente autorice la Secretaría, con capacidad de cinco y hasta cuarenta y cinco pasajeros, respetando en todos los casos la capacidad de pasaje de acuerdo al número de asientos.
 
-b) Transporte escolar: se presta a estudiantes y maestros, consistiendo en el traslado de su domicilio a los centros educativos, y su retorno al lugar de origen; realizándose en vehículos de ocho y hasta cuarenta y dos asientos, para un número igual de pasajeros; con ventanas protegidas y con puertas de ascenso y descenso; quedando prohibido admitir mayor número de pasajeros que los correspondientes al número de asientos con que cuenta la unidad.
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
+
+b) Transporte escolar: se presta a estudiantes de preescolar y primaria, así como a maestros; consistente en el traslado de su domicilio a los centros educativos, y su retorno al lugar de origen, en horarios de clase; realizándose en vehículos que cumplan con las características establecidas por, la Secretaría en su reglamento respectivo, y las normas oficiales mexicanas correspondientes.
 
 c) Transporte de trabajadores: se presta a empleados de una empresa o institución, consistiendo en el traslado de lugares predeterminados al centro de trabajo, y su retorno al lugar de origen; efectuando el recorrido en rutas y paradas previamente autorizadas por la Secretaría; realizándose en vehículos de ocho y hasta cuarenta y cinco pasajeros, quedando prohibido admitir mayor número de pasajeros que los correspondientes al número de asientos con que cuenta la unidad.
 
@@ -695,7 +697,9 @@ En la concesión o permiso se indicará el nombre del titular, la clase de servi
 
 Los vehículos que se utilicen para los sistemas de transporte de pasajeros a que se refieren las fracciones I, II y III del artículo 21 de esta Ley, serán de carrocería, chasis y motor de modelo con antigüedad máxima de diez años; de fabricación nacional, o que hayan sido ingresados legalmente al país.
 
-Los vehículos destinados para el transporte de pasajeros y de carga a que se refieren los artículos 21 fracciones IV y V, y 22 de la presente Ley, serán de carrocería, chasis y motor de fabricación nacional, o que hayan sido ingresados legalmente al país.
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
+
+Los vehículos destinados para el transporte de pasajeros y de carga a que se refieren los artículos, 21 fracciones IV y V, y 22, de la presente Ley, serán de carrocería, chasis y de fabricación nacional, o que hayan sido ingresados legalmente al país. Además, los destinados al transporte escolar no podrán exceder de una antigüedad máxima de diez años.
 
 En todos los casos, deberán cumplir con los requisitos y estándares de calidad que establecen las normas ecológicas y de tránsito aplicables. Asimismo, deberán acreditar satisfactoriamente la revista vehicular anual en los términos de los artículos 48 y 81 fracción XVII de esta Ley y su Reglamento.
 
@@ -2020,3 +2024,13 @@ P.O. 12 DE JULIO DE 2012.
 PRIMERO. Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 25 DE AGOSTO DE 2012.
+
+PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La Secretaría de Comunicaciones y Transportes tendrá sesenta días para insertar en su reglamento, las especificaciones que deben cumplir las unidades del transporte escolar.
+
+TERCERO. Los prestadores del servicio de transporte escolar tendrán un año a partir de la entrada vigor (sic) del presente Decreto, para llevar a cabo el cambio de unidades.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a este Decreto.
