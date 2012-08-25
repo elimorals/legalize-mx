@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-del-laboratorio-de-salud-publica-del-89871"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-08-22"
-last_updated: "2012-08-22"
+last_updated: "2012-08-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89871&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAB"
 ---
 # REGLAMENTO INTERIOR DEL LABORATORIO DE SALUD PUBLICA DEL ESTADO DE TABASCO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE AGOSTO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DEL LABORATORIO DE SALUD PÚBLICA DEL ESTADO DE TABASCO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 25 DE AGOSTO DE 2012.</small>
 
 Reglamento publicado en el Suplemento F del Periódico Oficial del Estado de Tabasco, el miércoles 22 de agosto de 2012.
 
@@ -45,8 +45,6 @@ REGLAMENTO INTERIOR DEL LABORATORIO DE SALUD PÚBLICA
 
 Las disposiciones de este Reglamento tienen por objeto normar las bases para la organización y funcionamiento de las áreas técnicas y administrativas que conforman la estructura del Laboratorio de Salud Pública.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE AGOSTO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 2.
 
 Para los efectos de este Reglamento se entenderá por:
@@ -55,9 +53,13 @@ I. La Secretaría: A la Secretaría de Salud.
 
 II. El Laboratorio: Al Laboratorio de Salud Pública
 
-III. Director: Al Director General del Laboratorio de Salud Pública
+> <small>(F. DE E., P.O. 25 DE AGOSTO DE 2012)</small>
 
-IV. Unidades Staff: A las Unidades que dependen directamente del Director General
+III. Director: Al Director del Laboratorio de Salud Pública;
+
+> <small>(F. DE E., P.O. 25 DE AGOSTO DE 2012)</small>
+
+IV. Unidades Staff: A las Unidades que dependen directamente del Director;
 
 V. Unidades: Áreas Técnicas y Administrativas que conforman la estructura
 
@@ -77,17 +79,17 @@ XII. DiPLA: Dirección de Planeación de la secretaría de Salud
 
 XIII. DOMA: Departamento de Organización y Modernización Administrativa
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE AGOSTO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 25 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 3.
 
-El Laboratorio, es un Órgano Administrativo Desconcentrado, que goza de autonomía técnica y operativa, para el desarrollo de sus actividades, dependiente de la Secretaria de Salud y su representación corresponde al Director General; quien tiene a su cargo el despacho de los asuntos que le encomienda la Ley Orgánica del Poder Ejecutivo del Estado, la Ley de Salud del Estado, la Ley General de Salud, el Reglamento Interior de la Secretaria de Salud, las Normas Oficiales Mexicanas, decretos, acuerdos e Instrucciones del Secretario de Salud y el Subsecretario de Salud Pública; además de los reglamentos y normas que la autoridad estatal y federal expida para tales efectos.
+El Laboratorio, es un órgano Administrativo Desconcentrado, que goza de autonomía técnica y operativa, para el desarrollo de sus actividades, dependiente de la Secretaría de Salud, y su representación corresponde al Director; quien tiene a su cargo el despacho de los asuntos que le encomienda la Ley Orgánica del Poder Ejecutivo del Estado, la Ley de Salud del Estado, la Ley General de Salud, el Reglamento Interior de la Secretaría de Salud, las Normas Oficiales Mexicanas, decretos, acuerdos e instrucciones del Secretario de Salud y el Subsecretario de Salud Pública; además de los reglamentos y normas que la autoridad estatal y federal expida para tales efectos.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE AGOSTO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 25 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 4.
 
-Para ser Director General del Laboratorio de Salud se requiere:
+Para ser Director del Laboratorio de Salud Pública se requiere:
 
 I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 
@@ -117,13 +119,13 @@ V. No haber sido condenado por delito doloso que merezca la pena corporal.
 
 ### CAPÍTULO ÚNICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE AGOSTO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 6.
 
 Para el ejercicio de las atribuciones y despacho de los asuntos de su competencia, el Laboratorio, contará con la siguiente estructura orgánica:
 
-1.0 Director General
+> <small>(F. DE E., P.O. 25 DE AGOSTO DE 2012)</small>
+
+1.0 Director
 
 1.0.1 Unidad de Apoyo Técnico
 
@@ -171,17 +173,17 @@ Para el ejercicio de las atribuciones y despacho de los asuntos de su competenci
 
 El Laboratorio, a través de sus Áreas Técnicas y Administrativas, conducirá sus actividades en forma programada para el cumplimiento de sus objetivos, con base a los lineamientos que fijen y establezcan los ejecutivos estatal y federal.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE AGOSTO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 25 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 8.
 
-Corresponde al Director General programar, organizar controlar y evaluar el desempeño y funcionamiento de las áreas de su adscripción; así como los programas, lineamientos técnicos y operativos del servicio, y las políticas que indique el Secretario de Salud o el Subsecretario de Salud Pública.
+Corresponde al Director programar, organizar, controlar y evaluar el desempeño y funcionamiento de las áreas de su adscripción; así como los programas, lineamientos técnicos y operativos del servicio, y las políticas que indique el Secretario de Salud o el Subsecretario de Salud Pública.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE AGOSTO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 25 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 9.
 
-Corresponde al Director General el ejercicio de las siguientes atribuciones:
+Corresponde al Director el ejercicio de las siguientes atribuciones:
 
 I. Establecer los lineamientos para que la Unidad funja como Laboratorio de Referencia y Diagnóstico Estatal;
 
@@ -227,8 +229,6 @@ XX. Desarrollar todas aquellas funciones inherentes al área de su competencia y
 
 ### CAPÍTULO PRIMERO. DE LA UNIDAD DE APOYO TÉCNICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE AGOSTO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 10.
 
 Corresponde a la Unidad de Apoyo Técnico el ejercicio de las siguientes atribuciones:
@@ -251,11 +251,11 @@ VIII. Aprobar los requerimientos en materia de tecnologías e infraestructura de
 
 IX. Establecer normas en materia de seguridad informática, coadyuvando en la implementación de las políticas que se generen dentro del Laboratorio de Salud Pública; y
 
-X. Las demás que determinen las disposiciones legales aplicables y el Director General.
+> <small>(F. DE E., P.O. 25 DE AGOSTO DE 2012)</small>
+
+X. Las demás que determinen las disposiciones legales aplicables y el Director.
 
 ### CAPÍTULO SEGUNDO. DE LA UNIDAD DE ASUNTOS JURÍDICOS
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE AGOSTO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### ARTÍCULO 11.
 
@@ -265,9 +265,13 @@ I. Establecer en coordinación con la Unidad Jurídica de la Secretaria de Salud
 
 II. Solicitar los resultados de los análisis que se elaboran en el laboratorio y demás informes que realicen las áreas técnicas del Laboratorio, para cumplir con las solicitudes de apoyo y colaboración de los jueces e instituciones encargadas de la impartición de justicia;
 
-III. Asesorar Jurídicamente al Director General y demás Unidades Técnicas y Administrativas del Laboratorio, para el adecuado cumplimiento de la normatividad aplicable;
+> <small>(F. DE E., P.O. 25 DE AGOSTO DE 2012)</small>
 
-IV. Revisar o elaborar, según sea el caso, los anteproyectos de reglamentos, acuerdos, contratos y convenios, relativos a los .asuntos de competencia del Laboratorio, y una vez refrendados por el Director General, solicitar su validación a la Unidad Jurídica de la Secretaria de Salud, para el trámite administrativo correspondiente;
+III. Asesorar jurídicamente al Director y demás Unidades Técnicas y Administrativas del Laboratorio, para el adecuado cumplimiento de la normatividad aplicable;
+
+> <small>(F. DE E., P.O. 25 DE AGOSTO DE 2012)</small>
+
+IV. Revisar o elaborar, según sea el caso, los anteproyectos de reglamentos, acuerdos, contratos, convenios, relativos a los asuntos de competencia del Laboratorio, y una vez refrendados por el Director, solicitar su validación a la Unidad Jurídica de la Secretaría de Salud, para el trámite administrativo correspondiente;
 
 V. Compilar, estudiar y difundir las leyes, reglamentos, decretos estatales y federales, acuerdos, puntos de acuerdos, órdenes, fe de erratas, normas oficiales mexicanas, entre otros;
 
@@ -275,11 +279,11 @@ VI. En base a los artículos 33 y 35 del reglamento de la Secretaria a (sic) de 
 
 VII. Difundir y revisar los lineamientos y requisitos legales a que se deben sujetar los contratos, convenios, acuerdos que se celebren con las instituciones estatales y federales; y
 
-VIII. Las demás que determinen las disposiciones legales aplicables y el Director General
+> <small>(F. DE E., P.O. 25 DE AGOSTO DE 2012)</small>
+
+VIII. Las demás que determinen las disposiciones legales aplicables y el Director.
 
 ### CAPÍTULO TERCERO. DE LA UNIDAD DE PLANEACIÓN
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE AGOSTO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### ARTÍCULO 12.
 
@@ -295,11 +299,11 @@ IV. Integrar y evaluar la información financiera del gasto e inversión, ejerci
 
 V. Integrar la información generada en las Áreas Técnicas, para reportar los resultados a la Dirección de Planeación de la Secretaría de Salud, (DiPLA); y
 
-VI. Las demás que determinen las disposiciones legales aplicables y el Director General.
+> <small>(F. DE E., P.O. 25 DE AGOSTO DE 2012)</small>
+
+VI. Las demás que determinen las disposiciones legales aplicables y el Director.
 
 ### CAPÍTULO CUARTO. DE LA UNIDAD DE GESTIÓN DE LA CALIDAD
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE AGOSTO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### ARTÍCULO 13.
 
@@ -311,11 +315,11 @@ II. Vigilar que los Procedimientos Normalizados de Operación registrados en el 
 
 III. Coordinar la aplicación de auditorías de manera integral al Sistema de Gestión de la Calidad implantado en el Laboratorio de Salud Pública, para evaluar la funcionalidad y operatividad y a su vez implementar acciones preventivas y correctivas dependiendo de los tipos de hallazgos detectados; y
 
-IV. Las demás que determinen las disposiciones legales aplicables y el Director General.
+> <small>(F. DE E., P.O. 25 DE AGOSTO DE 2012)</small>
+
+IV. Las demás que determinen las disposiciones legales aplicables y el Director.
 
 ### CAPÍTULO QUINTO. DE LA UNIDAD DE INVESTIGACIÓN Y ENSEÑANZA
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE AGOSTO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### ARTÍCULO 14.
 
@@ -329,7 +333,9 @@ III. Promover Protocolos de Investigación en el Laboratorio de Salud Pública, 
 
 IV. Brindar apoyo al personal que presta un Servicio Social en el Laboratorio de Salud Pública, para fortalecer sus conocimientos a través de la práctica; y
 
-V. Las demás que determinen las disposiciones legales aplicables y el Director General.
+> <small>(F. DE E., P.O. 25 DE AGOSTO DE 2012)</small>
+
+V. Las demás que determinen las disposiciones legales aplicables y el Director.
 
 ### CAPÍTULO SEXTO. DEL ENLACE DE LA UNIDAD DE ACCESO A LA INFORMACIÓN
 
@@ -338,8 +344,6 @@ V. Las demás que determinen las disposiciones legales aplicables y el Director 
 Corresponde a la Unidad de Acceso a la Información, el ejercicio de las atribuciones que establece el artículo 39 de la Ley de Transparencia y acceso a la información Pública del Estado de Tabasco.
 
 ### CAPÍTULO SÉPTIMO. DEL DEPARTAMENTO DE RECEPCIÓN DE MUESTRAS Y CONTROL DE RESULTADOS
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE AGOSTO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### ARTÍCULO 16.
 
@@ -357,11 +361,11 @@ V. Verificar la emisión oportuna de los resultados para fortalecer la vigilanci
 
 VI. Verificar la aplicación de las Normas Mexicanas Internacionales de Calidad a las muestras recibidas para la vigilancia epidemiológica y sanitaria; y
 
-VII. Las demás que determinen las disposiciones legales aplicables y el Director General.
+> <small>(F. DE E., P.O. 25 DE AGOSTO DE 2012)</small>
+
+VII. Las demás que determinen las disposiciones legales aplicables y el Director.
 
 ### CAPÍTULO OCTAVO. DEL DEPARTAMENTO DE VIGILANCIA SANITARIA
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE AGOSTO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### ARTÍCULO 17.
 
@@ -385,11 +389,11 @@ VIII. Participar en la elaboración y actualización de los manuales técnicos r
 
 IX. Supervisar y Cumplir con lo establecido en la Norma NMX-EC-17025-IMNC-2006, Requisitos generales para la competencia de los laboratorios de ensayo y de calibración para garantizar la confiabilidad de los resultados obtenidos; y
 
-X. Las demás que determinen las disposiciones legales aplicables y el Director General.
+> <small>(F. DE E., P.O. 25 DE AGOSTO DE 2012)</small>
+
+X. Las demás que determinen las disposiciones legales aplicables y el Director.
 
 ### CAPÍTULO NOVENO. DEL DEPARTAMENTO DE VIGILANCIA EPIDEMIOLÓGICA
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE AGOSTO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### ARTÍCULO 18.
 
@@ -409,17 +413,19 @@ VI. Participar en la elaboración y actualización de los manuales técnicos ref
 
 VII. Elaborar y llevar a cabo los programas operativos y de control de calidad en los laboratorios locales, en materia de vigilancia epidemiológica; y
 
-VIII. Las demás que determinen las disposiciones legales aplicables y el Director General.
+> <small>(F. DE E., P.O. 25 DE AGOSTO DE 2012)</small>
+
+VIII. Las demás que determinen las disposiciones legales aplicables y el Director.
 
 ### CAPÍTULO DÉCIMO. DEL DEPARTAMENTO DE ADMINISTRACIÓN
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE AGOSTO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### ARTÍCULO 19.
 
 Corresponde al Departamento Administrativo, el ejercicio de las siguientes atribuciones:
 
-I. Coordinar y organizar la administración de los recursos humanos; materiales y financieros asignados a el Laboratorio, así como proporcionar los servicios generales conforme a las políticas, formas, sistemas y procedimientos establecidos (sic) el Director General y las disposiciones legales aplicables;
+> <small>(F. DE E., P.O. 25 DE AGOSTO DE 2012)</small>
+
+I. Coordinar y organizar la administración de los recursos humanos, materiales y financieros asignados al Laboratorio, así como proporcionar los servicios generales conforme a las políticas, formas, sistemas y procedimientos establecidos (sic) el Director y las disposiciones legales aplicables;
 
 II. Ejecutar y difundir los criterios y procedimientos en materia de Reclutamiento, Selección e Inducción de Personal, de conformidad a los lineamientos emitidos por la Secretaría de Salud y vigilar su cumplimiento;
 
@@ -437,7 +443,9 @@ VIII. Difundir las normas, políticas y procedimientos para regular los sistemas
 
 IX. Presidir el Subcomité de Compras, el cual funcionará de conformidad con lo dispuesto por Ley de Adquisiciones, Arrendamientos y Prestación de Servicios del Estado de Tabasco y de su similar a nivel federal, así como dar cumplimiento al Programa Anual de Adquisiciones de las diversas fuentes de financiamiento autorizadas;
 
-X. Someter a la aprobación del Director General los programas, estudios y proyectos elaborados en el área de su responsabilidad;
+> <small>(F. DE E., P.O. 25 DE AGOSTO DE 2012)</small>
+
+X. Someter a la aprobación del Director los programas, estudios y proyectos elaborados en el área de su responsabilidad;
 
 XI. Coadyuvar en la integración de los proyectos de los programas de presupuesto anual con la Unidad de Planeación para su presentación y aprobación ante la Dirección de Planeación, (DiPLA), y verificar su correcta y oportuna ejecución;
 
@@ -451,27 +459,31 @@ XV. Verificar que en los programas de su competencia, se dé cumplimiento a las 
 
 XVI. Instrumentar, ejecutar y vigilar que los procedimientos de adquisición de bienes y servidos (sic) se lleven a cabo observando lo dispuesto por la legislación estatal o federal según sea el caso;
 
-XVII. Proponer al Director General la designación o remoción en su caso, de los representantes del Laboratorio ante las comisiones o comités mixtos en materia laboral;
+> <small>(F. DE E., P.O. 25 DE AGOSTO DE 2012)</small>
 
-XVIII. Las demás que determinen las disposiciones legales aplicables y el Director General.
+XVII. Proponer al Director la designación o remoción en su caso, de los representantes del Laboratorio ante las comisiones o comités mixtos en materia laboral;
+
+> <small>(F. DE E., P.O. 25 DE AGOSTO DE 2012)</small>
+
+XVIII. Las demás que determinen las disposiciones legales aplicables y el Director.
 
 ## TÍTULO V. DE LOS SERVIDORES PÚBLICOS
 
 ### CAPÍTULO PRIMERO. DE LAS AUSENCIAS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE AGOSTO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 25 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 20.
 
-Durante las ausencias del Director General, que no excedan de 15 días, el despacho y resolución de los asuntos de competencia del Laboratorio, quedarán a cargo de algunas de las Unidades Staff o Departamentos que Integran el Cuerpo de Gobierno del Laboratorio de Salud Pública, según disponga el Director General y cuando aquellas sean superiores a 15 días, por el servidor público que designe el Subsecretario de Salud Pública, en acuerdo con del (sic) Secretario.
+Durante las ausencias del Director, que no excedan de 15 días, el despacho y resolución de los asuntos de competencia del Laboratorio, quedarán a cargo de alguna de las Unidades Staff o Departamentos que integran el Cuerpo de Gobierno del Laboratorio de Salud Pública, según disponga el Director General y cuando aquellas sean superiores a 15 días, por el servidor público que designe el Subsecretario de Salud Pública, en acuerdo con el Secretario.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE AGOSTO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 25 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 21.
 
-En las ausencias temporales de los Jefes de los Departamentos y Unidades, serán suplidos para el despacho de los asuntos de su competencia, por los Jefes bajo su responsabilidad, que se designe, previo acuerdo con el Director General.
+En las ausencias temporales de los Jefes de los Departamentos y Unidades, serán suplidos para el despacho de los asuntos de su competencia, por los jefes bajo su responsabilidad, que se designe, previo acuerdo con el Director.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE AGOSTO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 25 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 22.
 
@@ -479,13 +491,13 @@ Las ausencias de los Titulares de las Jefaturas, serán suplidas por los servido
 
 ### CAPÍTULO SEGUNDO. DE LAS RELACIONES LABORALES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE AGOSTO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 23.
 
 Las relaciones de trabajo entre el Laboratorio y sus trabajadores, se regularán por la Ley de los Trabajadores al Servicio del Estado de Tabasco y la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B), del Artículo 123 Constitucional, según sea el caso.
 
-Se consideran categorías de confianza las de Director General, Jefes de Departamentos y Unidades, y en general, las que tienen como propósito realizar funciones de dirección, supervisión, fiscalización, vigilancia y trabajos exclusivos de los titulares.
+> <small>(F. DE E., P.O. 25 DE AGOSTO DE 2012)</small>
+
+Se consideran categorías de confianza las de Director, Jefes de Departamento y Unidades, y en general, las que tienen como propósito realizar funciones de dirección, supervisión, fiscalización, vigilancia y trabajos exclusivos de los titulares.
 
 ## TRANSITORIOS
 
