@@ -4,7 +4,7 @@ identifier: "COL-ley-de-catastro-del-estado-de-colima-3944"
 country: "mx"
 rank: "ley"
 publication_date: "1992-09-19"
-last_updated: "2011-06-18"
+last_updated: "2012-08-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3944&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "COL"
 
 LEY DE CATASTRO DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, PUBLICADA EN EL P.O. DE 25 DE AGOSTO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 18 DE JUNIO DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: DEROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 19 de septiembre de 1992.
 
@@ -53,7 +53,7 @@ LEY DE CATASTRO DEL ESTADO DE COLIMA
 
 Las disposiciones de la presente Ley son de orden público e interés general.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 2o.
 
@@ -483,7 +483,7 @@ La inscripción de un predio en el padrón catastral no genera ningún derecho d
 
 El padrón catastral estará bajo el control y administración de la Dirección y podrá ser consultado física o electrónicamente por otras dependencias y organismos auxiliares del Ejecutivo Estatal y por los Ayuntamientos, previa autorización de la propia dependencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 33.
 
@@ -597,7 +597,7 @@ IV.- Cuando se haya clasificado erróneamente el tipo de terreno o de construcci
 
 V.- En los demás casos en que exista error o diferencia entre los datos asentados en el padrón catastral y las características del predio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
 
 ###### ARTICULO 47.
 
@@ -687,7 +687,7 @@ Por tanto mando se imprima, publique, circule y observe.
 
 Dado en Palacio de Gobierno a los catorce días del mes de septiembre de mil novecientos noventa y dos. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. CARLOS DE LA MADRID VIRGEN.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. JOSE DELGADO MAGAÑA.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 29 DE SEPTIEMBRE DE 2001.
 
@@ -714,3 +714,23 @@ P.O. 25 DE JULIO DE 2009.
 P.O. 21 DE MAYO DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 25 DE AGOSTO DE 2012.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Se deroga el Título Segundo, de la Tercera Parte, del Libro Cuarto, del Código Civil para el Estado de Colima; la Ley de Catastro del Estado de Colima, publicada en el Decreto 87, el 19 de septiembre de 1992, en el Periódico Oficial "El Estado de Colima". Así como todas las disposiciones legales y administrativas que se opongan al presente Decreto.
+
+TERCERO.- El Consejo Directivo se integrará y sesionará por primera vez dentro de los cuarenta y cinco días naturales siguientes a la entrada en vigor del presente ordenamiento.
+
+CUARTO.- En un término no mayor a ciento ochenta días naturales, contados a partir de la entrada en vigor de la presente Ley, deberá expedirse el Reglamento de la presente Ley.
+
+Entre tanto, el Consejo Directivo aprobará en una sesión extraordinaria que celebre de inmediato, las normas reglamentarias provisionales que regularán el ejercicio de las atribuciones del Instituto.
+
+QUINTO.- Se faculta a la Secretaría de Finanzas y Administración, para la creación de una partida específica en el Presupuesto de Egresos del Gobierno del Estado para el ejercicio fiscal del año 2012, destinada a cubrir los requerimientos administrativos del Instituto, en los términos de la presente Ley.
+
+Los recursos humanos, materiales y financieros con los que venía operando la Dirección General del Registro Público de la Propiedad y del Comercio, dependiente de la Secretaría General de Gobierno, y la Dirección de Catastro, así como el equipo de trabajo que viene realizando actividades geodésicas para el Registro del Territorio, dependientes de la Secretaría de Finanzas y Administración, se transferirán al Instituto en los términos que establezcan en sus respectivos ámbitos de competencia.
+
+SEXTO.- Cuando en el procedimiento de captura de los asientos que obren en las oficinas del Instituto para cubrir el procedimiento de automatización o en cualquier otro caso se detecte la ausencia de asientos registrales o documentos de duplicados, el Instituto podrá proceder a su reposición a petición de parte interesada.
+
+SÉPTIMO.- Las normas que en su contenido se refieran al Registro Público de la Propiedad y del Comercio, se entenderá que son aplicables para el INSTITUTO PARA El REGISTRO DEL TERRITORIO, en tanto se realice la armonización correspondiente.
