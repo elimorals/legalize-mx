@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-civiles-para-el-estado-de-san-luis-790
 country: "mx"
 rank: "codigo"
 publication_date: "1947-06-19"
-last_updated: "2012-04-12"
+last_updated: "2012-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2012.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 19 de junio de 1947.
 
@@ -83,7 +83,9 @@ ART. 15.- Para deducir las acciones mancomunadas, sean reales o personales, se c
 
 El comunero puede deducir las acciones relativas a la cosa común, en calidad del dueño, salvo pacto en contrario o ley especial. No podrá, sin embargo, transigir ni comprometer en árbitros el negocio, sin consentimiento unánime de los demás condueños.
 
-ART. 16.- Al perturbado en la posesión jurídica o derivada de un bien inmueble, compete el interdicto de retener la posesión contra el perturbador, el que mandó tal perturbación o contra el que, a sabiendas y directamente, se aproveche de ella y contra el sucesor del despojante. El objeto de esta acción es poner término a la perturbación, indemnizar al poseedor, y que el demandado afiance no volver a perturbar y sea conminado con multa, o arresto para el caso de reincidencia.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2012)</small>
+
+ART. 16.- Al perturbado en la posesión jurídica o derivada de un bien inmueble, compete el interdicto de retener la posesión contra el perturbador; el que mandó tal perturbación; el que (sic) sabiendas y directamente se aproveche de ella; así como contra el sucesor del perturbador. El objeto de esta acción es poner término a la perturbación; indemnizar al poseedor; y que el demandado afiance no volver a perturbar y sea conminado con multa, o arresto para el caso de reincidencia.
 
 La procedencia de esta acción requiere: que la perturbación consista en actos preparatorios tendientes directamente a la usurpación violenta, o a impedir el ejercicio del derecho; que se reclame dentro de un año y el poseedor no haya obtenido la posesión de su contrario por fuerza, clandestinamente o a título precario.
 
@@ -5090,6 +5092,12 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a éste.
 
 P.O. 12 DE ABRIL DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE AGOSTO DE 2012.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
