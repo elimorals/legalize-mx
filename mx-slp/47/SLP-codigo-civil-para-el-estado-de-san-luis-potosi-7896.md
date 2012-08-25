@@ -4,7 +4,7 @@ identifier: "SLP-codigo-civil-para-el-estado-de-san-luis-potosi-7896"
 country: "mx"
 rank: "codigo"
 publication_date: "1946-04-18"
-last_updated: "2012-02-16"
+last_updated: "2012-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2012.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 18 de abril de 1946.
 
@@ -5861,7 +5861,9 @@ ART. 1489.- Pueden aceptar o repudiar la herencia todos los que tienen la libre 
 
 ART. 1490.- La herencia dejada a los menores y demás incapacitados, será aceptada por sus representantes legítimos, quienes podrán repudiarla con autorización judicial, previa audiencia del Ministerio Público.
 
-ART. 1491.- La mujer casada no necesita la autorización del marido para aceptar o repudiar la herencia que le corresponda. La herencia común será aceptada o repudiada por los dos cónyuges, y en caso de discrepancia, resolverá el juez.
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
+
+ART. 1491.- Los cónyuges no necesitan la autorización uno del otro para aceptar o repudiar la herencia que le corresponda. La herencia común será aceptada o repudiada por los dos cónyuges y, en caso de discrepancia, resolverá el juez.
 
 ART. 1492.- La aceptación puede ser expresa o tácita. Es expresa la aceptación si el heredero acepta con palabras terminantes, y tácita, si ejecuta algunos hechos de que se deduzca necesariamente la intención de aceptar, o aquellos que no podría ejecutar sino con su calidad de heredero.
 
@@ -5915,9 +5917,11 @@ ART. 1514.- La aceptación en ningún caso produce confusión de los bienes del 
 
 ### CAPITULO IV. De los Albaceas
 
-ART. 1515.- No podrá ser albacea el que no tenga la libre disposición de sus bienes.
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
 
-La mujer casada, mayor de edad, podrá serlo sin la autorización de su esposo.
+ART. 1515.- No podrá ser albacea quien no tenga la libre disposición de sus bienes.
+
+Los cónyuges no requerirán la autorización uno del otro para la aceptación del cargo de albacea.
 
 ART. 1516.- No pueden ser albaceas, excepto en el caso de ser herederos únicos:
 
@@ -8087,7 +8091,9 @@ III.- A servirse de la cosa solamente para el uso convenido o conforme a la natu
 
 ART. 2255.- El arrendatario no está obligado a pagar la renta sino desde el día en que reciba la cosa arrendada, salvo pacto en contrario.
 
-ART. 2256.- La renta será pagada en el lugar convenido, y a falta de convenio, en la casa habitación o despacho del arrendatario. Si el propietario se rehusare a recibir el pago de la renta, el arrendatario podrá dentro de los cinco días siguientes promover el ofrecimiento de pago y la consignación de la renta, siendo esta circunstancia suficiente para extinguir la obligación.
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
+
+ART. 2256.- La renta será pagada en el lugar convenido; y a falta de convenio, en la casa habitación o despacho del arrendatario. Si el arrendador se rehusare a recibir el pago de la renta, el arrendatario podrá dentro de los diez días hábiles siguientes, promover el ofrecimiento de pago y la consignación de la renta, siendo esta circunstancia suficiente para extinguir la obligación.
 
 ART. 2257.- Lo dispuesto en el artículo 2251 respecto del arrendador, regirá en su caso respecto del arrendatario.
 
@@ -10394,3 +10400,19 @@ P.O. 16 DE FEBRERO DE 2012.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a éste.
+
+P.O. 25 DE AGOSTO DE 2012.
+
+DECRETO 1121 POR LO QUE SE REFORMA EL ARTÍCULO 2256, DEL CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 25 DE AGOSTO DE 2012.
+
+DECRETO 1122 POR LO QUE SE REFORMA LOS ARTÍCULOS, 1491 Y 1515, DEL CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
