@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fomento-al-desarrollo-rural-sustentable-del-estado-52356
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-19"
-last_updated: "2009-08-27"
+last_updated: "2012-08-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE FOMENTO AL DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de San Luis Potosí, el martes 19 de septiembre de 2006.
 
@@ -455,9 +455,27 @@ XVII. Promover la creación y el desarrollo de agroindustrias que fortalezcan el
 
 XVIII. Conservar, reproducir, mejorar, desarrollar y proteger la biodiversidad genérica de las especies agrícolas, ganaderas, flora y faunas silvestres y pesqueras, con el fin de lograr su aprovechamiento sustentable;
 
-XIX. Promover convenios con los ingresos azucareros presentes en el Estado, para que se formalice la venta de la melaza a los productores de toda la Entidad, antes de comprometer su distribución para otros usos, y
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
 
-XX. Las demás que señalen las leyes y reglamentos aplicables al sector rural.
+XIX. Promover convenios con los ingresos azucareros presentes en el Estado, para que se formalice la venta de la melaza a los productores de toda la Entidad, antes de comprometer su distribución para otros usos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE AGOSTO DE 2012)</small>
+
+XX. Establecer que los subsidios no podrán tener vigencia por más de un año desde el momento de su emisión, y serán personales e intransferibles; si no se hubieren aplicado, la Secretaría será responsable de disponer su revalidación, si ésta es justificable;
+
+> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+XXI. Aprobar el programa de subsidios que se otorgaran a través de distintos lineamientos jurídicos; y elaborar una relación de beneficiarios la cual dará a conocer en el Periódico Oficial del Estado, así como en los periódicos en los periódicos (sic) de mayor circulación de la localidad de que se trate, y en los estrados de los ayuntamientos;
+
+> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+XXII. Impulsar que los subsidios se concedan directamente a los productores agrícolas, los que estarán sujetos a revisión cada año y dependerá del Presupuesto de Egresos del Estado;
+
+> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+XXIII. Verificar que los subsidios sean orientados a elevar la productividad, la conservación de los recursos y el nivel de conocimientos de los productores y sus familias, la que podrá ser a través de la capacitación e investigación, la adopción de nuevas tecnologías, y la elaboración de proyectos en materia agrícola, y
+
+XXIV. Las demás que señalen las leyes y reglamentos aplicables al sector rural.
 
 ###### ARTICULO 10.
 
@@ -585,9 +603,21 @@ LVIII. Llevar un registro base de productores que se encuentran realizando activ
 
 LIX. Llevar el registro de los laboratorios públicos y privados, que realicen análisis de productos agropecuarios orgánicos e insumos para su producción, previa acreditación conforme las regulaciones establecidas por ésta;
 
-LX. Determinar y aplicar las sanciones que se deriven del incumplimiento de esta Ley y su Reglamento, y
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
 
-LXI. Las demás que señalen las leyes y reglamentos aplicables al sector agropecuario.
+LX. Elaborar, validar, actualizar, resguardar y publicar el padrón de productores beneficiarios de subsidios;
+
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+LXI. Proponer al Ejecutivo, para su aprobación, el programa anual de subsidios por regiones y por actividad productiva;
+
+> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+LXII. Determinar y aplicar las sanciones que se deriven del incumplimiento de esta Ley y su Reglamento, y
+
+> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+LXIII. Las demás que señalen las leyes y reglamentos aplicables al sector agropecuario.
 
 ###### ARTICULO 12.
 
@@ -1755,13 +1785,17 @@ La protección de la fauna, se ejercerá de acuerdo con los preceptos de este ca
 
 ### CAPITULO XI. Del Estiaje
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 154.
 
-La SEDARH, coordinará las acciones necesarias con los diferentes niveles de gobierno, así como los organismos y dependencias involucradas, para dar atención rápida y oportuna a la problemática que se presenta año con año, por el problema del estiaje.
+La SEDARH, coordinará las acciones necesarias con los diferentes niveles de gobierno, así como los organismos y dependencias involucradas, para dar atención rápida y oportuna a la problemática que se presenta año con año, estiaje.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 155.
 
-La SEDARH, programará recursos financieros, materiales y humanos cada año, para estar en posibilidades de atender a la población y al ganado que se ven afectados con el problema del estiaje.
+La SEDARH, programará recursos financieros, materiales y humanos cada año, en base a los padrones para estar en posibilidades de atender a la población y al ganado que se vean afectados con el problema del estiaje.
 
 ###### ARTICULO 156.
 
@@ -1809,13 +1843,17 @@ XII. Establecer fideicomisos, cuyo objeto sea, el de promover el consumo de prod
 
 XIII. Las demás que se deriven de su naturaleza, de sus estatutos y las que les señalen otros ordenamientos legales.
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 160.
 
-Las Autoridades Municipales serán los (sic) responsables de integrar el padrón o censo de productores agropecuarios a nivel municipal. La SEDARH, integrará a partir de los padrones municipales, el padrón estatal de productores pecuarios.
+Las autoridades municipales estarán obligadas a integrar el padrón o censo de productores agropecuarios a nivel municipal. La SEDARH, integrara a partir de los padrones municipales, el padrón estatal de productores pecuarios, el cual deberá actualizarse de manera semestral.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 161.
 
-Las Organizaciones de ganaderos y demás productores pecuarios, serán responsables de mantener actualizado el padrón o censo de sus agremiados, debiendo hacer del conocimiento de las autoridades competentes, las actualizaciones realizadas de manera periódica.
+Las Organizaciones de ganaderos y demás productores pecuarios, serán responsables de mantener actualizado el padrón o censo de sus agremiados, debiendo hacer del conocimiento de las autoridades competentes, de manera semestral las actualizaciones.
 
 ### CAPITULO XIII. Derechos y Obligaciones de los Ganaderos
 
@@ -3974,3 +4012,9 @@ P.O. 27 DE AGOSTO DE 2009.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 25 DE AGOSTO DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
