@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-proteccion-contra-la-exposicion-al-humo-de-tabaco-83382"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-05"
-last_updated: "2011-10-05"
+last_updated: "2012-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83382&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ZAC"
 ---
 # LEY DE PROTECCION CONTRA LA EXPOSICION AL HUMO DE TABACO DEL ESTADO DE ZACATECAS -ANTES LEY DE PROTECCION DE LA SALUD DE LOS NO FUMADORES DEL ESTADO DE ZACATECAS-
 
-LEY DE PROTECCIÓN DE LA SALUD DE LOS NO FUMADORES DEL ESTADO DE ZACATECAS
+LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2012.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 5 de octubre del 2011.
 
@@ -41,7 +41,9 @@ Por lo anteriormente expuesto y fundado, y con apoyo además en lo dispuesto por
 
 DECRETA
 
-LEY DE PROTECCIÓN DE LA SALUD DE LOS NO FUMADORES DEL ESTADO DE ZACATECAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE AGOSTO DE 2012)</small>
+
+LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO DEL ESTADO DE ZACATECAS
 
 ### CAPÍTULO PRIMERO. Del Objeto y Sujetos
 
@@ -49,21 +51,33 @@ LEY DE PROTECCIÓN DE LA SALUD DE LOS NO FUMADORES DEL ESTADO DE ZACATECAS
 
 La presente Ley es de orden público, interés social y de observancia general en todo el Estado de Zacatecas y tiene por objeto:
 
-I. La protección de la salud de los no fumadores de los efectos nocivos del tabaco;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
 
-II. Instituir mecanismos de control, acciones y políticas públicas tendientes a prevenir y disminuir las consecuencias del consumo del tabaco;
+I. La protección de la salud de la población de los efectos nocivos del tabaco;
 
-III. Definir y establecer las políticas y acciones necesarias para reducir el consumo de tabaco y prevenir la morbilidad y mortalidad relacionadas con el tabaco, y
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+II. Instituir mecanismos de control, acciones y políticas públicas tendientes a prevenir y disminuir las consecuencias del consumo del tabaco y de la exposición al humo del mismo;
+
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+III. Definir y establecer las políticas y acciones necesarias para reducir el consumo de tabaco, la exposición al humo del mismo y prevenir la morbilidad y mortalidad relacionadas con los mismos, y
 
 IV. Establecer medidas preventivas de manera general, y sanciones para quienes incumplan con lo previsto en esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 2.
 
-La protección de la salud de los no fumadores comprende:
+La protección de la salud de la población contra la exposición al humo de tabaco, comprende:
 
-I. El derecho de los no fumadores a no exponerse de manera involuntaria a los efectos de la inhalación del humo de tabaco en, locales, establecimientos, edificios y vehículos a que se refiere la presente Ley;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
 
-II. La restricción para fumar en los lugares que señala esta Ley y el desarrollo de una conciencia social, sobre el derecho de los no fumadores para respirar un aire libre de humo de tabaco;
+I. El derecho de los no fumadores a no exponerse a los efectos de la inhalación del humo de tabaco en locales, establecimientos, edificios y vehículos a que se refiere la presente Ley;
+
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+II. La restricción para fumar en los lugares que señala esta Ley y el desarrollo de una conciencia social, sobre el derecho de la población para respirar un aire libre de humo de tabaco;
 
 III. La información a la población sobre las patologías vinculadas con el consumo de tabaco, la exposición a su humo, consecuencias, los beneficios de dejar de fumar y la promoción de su abandono y a la realización de campañas de educación y orientación, especialmente dirigidas a las nuevas generaciones y a las mujeres en periodo de embarazo y lactancia, sobre las consecuencias del consumo de tabaco en estas etapas de la vida;
 
@@ -91,31 +105,61 @@ Para los efectos de la presente Ley se entenderá por:
 
 I. Servicios de Salud: a los Servicios de Salud de Zacatecas;
 
-II. Ley: a la Ley de Protección de la Salud de los No Fumadores del Estado de Zacatecas;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+II. Ley: a la Ley de Protección Contra la Exposición al Humo de Tabaco del Estado de Zacatecas;
 
 III. Ley de Salud: a la Ley de Salud del Estado de Zacatecas;
 
 IV. Fumar: a la inhalación y exhalación de humo derivado de la combustión del tabaco o cualquier producto natural o artificial;
 
-V. Fumador Pasivo: a quien de manera involuntaria inhala el humo exhalado por el fumador;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
 
-VI. No fumadores: las personas que no tienen el hábito de fumar;
+V. Fumador Pasivo: a quien inhala el humo exhalado por el fumador;
 
-VII. Espacio cerrado de acceso al público: toda área física, en la que no circula el aire de manera natural;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+VI. No fumadores: las personas que no fuman;
+
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+VII. Área física cerrada con acceso al público: a todo espacio cubierto por un techo o que tenga más de una pared o muro, independientemente del material utilizado para su construcción y de que la estructura sea permanente o temporal;
 
 VIII. Denuncia Ciudadana: a la notificación hecha a la autoridad competente de hechos de incumplimiento de las disposiciones contenidas en el presente ordenamiento legal y sus reglamentos;
 
 IX. Humo de Tabaco: a las emisiones de los productos de tabaco, originadas por encender o consumir cualquier producto de tabaco;
 
-X. Espacio 100% libre de humo de tabaco: área física cerrada con acceso al público todo lugar de trabajo o de transporte público, en los que queda prohibido fumar;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+X. Espacio 100% libre de humo de tabaco: a aquella área física cerrada con acceso al público o todo lugar de trabajo o de transpone público o sitio de concurrencia colectiva, en los que por razones de orden público e interés social queda prohibido fumar, consumir o tener encendido cualquier producto de tabaco;
 
 XI. Personal laboralmente expuesto: a aquel que en el ejercicio y con motivo de su ocupación está expuesto al humo de tabaco;
 
 XII. Promoción de la salud: a las acciones tendientes a desarrollar actitudes y conductas que favorezcan estilos de vida saludables en la familia y la comunidad;
 
-XIII. Publicidad del tabaco: a toda forma de comunicación, recomendación o acción comercial con el fin o el efecto de promover directa o indirectamente un producto de tabaco o el uso o consumo del mismo, y
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
 
-XIV. Consejo Estatal: al Consejo Estatal contra las Adicciones.
+XIII. Publicidad del tabaco: a toda forma de comunicación, recomendación o acción comercial con el fin o el efecto de promover directa o indirectamente un producto de tabaco o el uso o consumo del mismo;
+
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+XIV. Consejo Estatal: al Consejo Estatal contra las Adicciones;
+
+> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+XV. Espacio al aire libre para fumar: al que no tienen techo ni está limitado entre más de una pared o muro, independientemente del material utilizado para su construcción y de que la estructura sea permanente o temporal. Para efectos de esta definición, no se considerará como techo a las sombrillas, las que deberán observar las características descritas en la presente Ley;
+
+> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+XVI. Lugar interior de trabajo: a todo aquel espacio utilizado por las personas durante su empleo o trabajo, ya sea remunerado o voluntario, temporal o permanente. Incluye no sólo el sitio donde se realiza el trabajo, sino también todos los lugares conexos y anexos que los trabajadores suelen utilizar en el desempeño de su empleo, entre ellos, con carácter enunciativo pero no limitativo, pasillos, ascensores, cubos de escalera, vestíbulos, estacionamiento, instalaciones conjuntas, baños, lavabos, salones, comedores, cafeterías y edificaciones anexas tales como cobertizos, así como los vehículos que se utilizan para la trasportación. Los vehículos de trabajo se consideran lugares de trabajo y deben identificarse de forma específica como tales;
+
+> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+XVII. Sitio de concurrencia colectiva: al que independientemente si es abierto o cerrado, interior o exterior, concentre o reúna a personas para llevar a cabo acciones de esparcimiento, de libre asociación, prácticas o espectáculos, deportivos y similares, tales como patios escolares, balnearios, parques de diversiones y acuáticos, lagunas y reservas ecológicas, centros de espectáculos, canchas, estadios, plazas y demás, y
+
+> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+XVIII. Vehículos de transporte público: a aquel individual o colectivo utilizado para transportar personas, generalmente con fines comerciales, laborales, escolares u otros, sea remunerado o no, incluye terminales, estaciones, paradas y otras instalaciones de mobiliario urbano conexo.
 
 ### CAPÍTULO SEGUNDO. De las Atribuciones
 
@@ -125,15 +169,23 @@ El Gobierno del Estado, a través de los Servicios de Salud de Zacatecas, será 
 
 I. Llevar a cabo, en coordinación con la Secretaría de Salud del Gobierno Federal, la operación del Programa contra el Tabaquismo, mismo que se ajustará a lo dispuesto en el programa contra el tabaquismo del Gobierno Federal;
 
-II. La promoción de la Salud y la orientación a la población sobre los riesgos a la salud por el consumo de tabaco y de los beneficios de dejar de fumar;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
 
-III. Llevar a cabo campañas para la detección temprana y atención oportuna del tabaquismo y sobre sus efectos, dirigidas especialmente a la familia, niños y adolescentes;
+II. La promoción de la salud y la orientación a la población sobre los riesgos a la salud por el consumo de tabaco y exposición al humo del mismo, así como de los beneficios de dejar de fumar;
 
-IV. Promover con las autoridades educativas del Estado, la inclusión de contenidos a cerca del tabaquismo en programas de todos los niveles que induzcan a reducir el uso y consumo de tabaco;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+III. Llevar a cabo campañas para la detección temprana y atención oportuna del tabaquismo y sobre sus efectos, dirigidas especialmente a la familia, niños y adolescentes, con la recomendación de no fumar en ámbitos privados, como el hogar o vehículos particulares;
+
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+IV. Promover con las autoridades educativas del Estado, la inclusión de contenidos acerca del tabaquismo en programas de todos los niveles que induzcan a reducir el uso y consumo de tabaco;
 
 V. Impulsar la colocación de señalamientos preventivos, informativos o restrictivos, con iconografía relativa a los riesgos y consecuencias del tabaquismo, para prevenir el consumo de tabaco y establecer las prohibiciones;
 
-VI. Realizar, en coordinación con la iniciativa privada, campañas permanentes de información, concientización y difusión para prevenir el uso y consumo de tabaco y la exposición a su humo;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+VI. Realizar, en coordinación con la iniciativa privada y la sociedad civil organizada, campañas permanentes de información, concientización y difusión para prevenir el uso y consumo de tabaco y la exposición a su humo;
 
 VII. Promover e impulsar la participación de la comunidad en la prevención y atención del tabaquismo;
 
@@ -185,57 +237,69 @@ Dentro del Programa contra el Tabaquismo, se deberán desarrollar acciones para 
 
 ### CAPÍTULO CUARTO. De los Espacios 100% Libres de Humo
 
-###### Articulo 7.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2012)</small>
 
-Para la protección de la salud de los no fumadores de los efectos nocivos generados por la inhalación de humos producidos por la combustión de tabaco, en cualquiera de sus formas, se crean los espacios 100% libres de humo de tabaco, por lo que se prohíbe fumar:
+###### Artículo 7.
 
-I. En las salas de cine, bibliotecas, teatros, salones y pistas de baile, salas de conferencias y auditorios cerrados y cubiertos a los que tenga acceso el público en general;
+Para la protección de la salud de la población de los efectos nocivos generados por la inhalación de humos producidos por la combustión de tabaco, en cualquiera de sus formas, se prohíbe fumar, consumir o tener encendido cualquier producto de tabaco en los espacios 100% libres de humo de tabaco definidos en este ordenamiento.
 
-II. En toda Unidad Médica;
+I. (DEROGADA, P.O. 25 DE AGOSTO DE 2012)
 
-III. En los vehículos de servicio público de transporte de pasajeros que circulen en el Estado, incluyendo vehículos de transporte escolar y de personal;
+II. (DEROGADA, P.O. 25 DE AGOSTO DE 2012)
 
-IV. En áreas de atención al público de tiendas de autoservicio, oficinas bancarias, financieras, industriales, comerciales y de bienes y servicios, elevadores, edificios y sanitarios públicos;
+III. (DEROGADA, P.O. 25 DE AGOSTO DE 2012)
 
-V. En centros comerciales, excepto en las áreas ventiladas que sean destinadas para fumadores, mismas que deberán contar con la señalización respectiva;
+IV. (DEROGADA, P.O. 25 DE AGOSTO DE 2012)
 
-VI. En los salones de clases de las escuelas de educación especial, preescolar, primarias, secundaria, media superior y superior;
+V. (DEROGADA, P.O. 25 DE AGOSTO DE 2012)
 
-VII. En las unidades destinadas al cuidado y atención de niños y adolescentes, personas de la tercera edad y personas con capacidades diferentes;
+VI. (DEROGADA, P.O. 25 DE AGOSTO DE 2012)
 
-VIII. Gimnasios e instalaciones deportivas en espacios cerrados;
+VII. (DEROGADA, P.O. 25 DE AGOSTO DE 2012)
 
-IX. En las oficinas de los tres Poderes del Estado, las unidades administrativas dependientes del Gobierno del Estado y Municipios;
+VIII. (DEROGADA, P.O. 25 DE AGOSTO DE 2012)
 
-X. En áreas de atención al público, salas de espera, sanitarios de aeropuertos, y centrales de autobuses del Estado, excepto en aquellas áreas ventiladas y con la señalización respectiva;
+IX. (DEROGADA, P.O. 25 DE AGOSTO DE 2012)
 
-XI. En los establecimientos mercantiles dedicados al hospedaje y en aquellos lugares cerrados donde se expendan al público alimentos y bebidas para su consumo en el lugar, y
+X. (DEROGADA, P.O. 25 DE AGOSTO DE 2012)
 
-XII. En cualquier otro lugar que de forma expresa, determinen los Servicios de Salud.
+XI. (DEROGADA, P.O. 25 DE AGOSTO DE 2012)
 
-Los propietarios, poseedores o responsables de los establecimientos o vehículos a que se refiere el presente ordenamiento deberán fijar en el interior y exterior de los mismos, letreros o emblemas visibles que indiquen expresamente la prohibición de fumar, e identifiquen los espacios 100% libres de humo de tabaco.
+XII. (DEROGADA, P.O. 25 DE AGOSTO DE 2012)
 
-En los locales cerrados y establecimientos en los que se expendan al público alimentos o bebidas para su consumo, los propietarios, poseedores o responsables de la negociación de que se trate, podrán delimitar secciones reservadas para fumadores durante su estancia en los mismos, estos lugares deberán identificarse con señalamientos visibles al público y contar con extractores de aire y ventilación adecuadas, de conformidad a los (sic) dispuesto en la presente Ley, su Reglamento y demás disposiciones aplicables.
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
+
+Los propietarios, poseedores o responsables de los espacios 100% libres de humo de tabaco a que se refiere el presente ordenamiento deberán fijar en el interior y exterior de los mismos, letreros o emblemas visibles que indiquen expresamente la prohibición de fumar y los identifiquen como tales. Las características de dichas señalizaciones serán descritas en el Reglamento de la Ley.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
+
+En los locales cerrados y establecimientos en los que se expendan al público alimentos o bebidas para su consumo, se podrá contar con un espacio para fumar, el cual deberá ser en todo momento ubicado al aire libre, debiendo cumplir con las características descritas para el mismo en el artículo 4, fracción XV de la Ley y las señaladas en el Reglamento de la misma. Estos lugares deberán identificarse con señalamientos visibles al público de conformidad a lo dispuesto en la presente Ley, su reglamento y demás disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 8.
 
-El propietario, administrador o responsable de un establecimiento estará obligado a hacer respetar los espacios 100% libres de humo de tabaco, exhortando a los infractores a dejar de fumar o a cambiarse a la sección indicada. En caso de negativa podrán negarse a prestar los servicios al cliente infractor, si el infractor persiste en su conducta deberá darse aviso a la fuerza pública y serán responsables en forma subsidiaria con el infractor, si existiera una persona fumando fuera de las áreas destinadas para ello y no lleva a cabo las acciones correspondientes.
+El propietario, administrador o responsable de un espacio 100% libre de humo de tabaco estará obligado a hacerlos respetar, exhortando a los infractores a dejar de fumar o a cambiarse a la sección indicada. En caso de mostrar resistencia, podrán negarse a prestar los servicios al cliente infractor, si éste persiste en su conducta deberá darse aviso a la fuerza pública para que lo ponga a disposición de la autoridad correspondiente, según lo establecido en las disposiciones reglamentarias derivadas de la Ley, siendo responsables en forma subsidiaria con el infractor, si existiera una persona fumando fuera de las áreas destinadas para ello y no lleva a cabo las acciones correspondientes.
 
 Cualquier persona podrá presentar ante la autoridad correspondiente una denuncia en caso de que observe el incumplimiento de cualquiera de las obligaciones establecidas en esta Ley, sus reglamentos y demás disposiciones aplicables. La autoridad responsable salvaguardará la identidad e integridad del ciudadano denunciante.
 
 Los Servicios de Salud pondrán en operación una línea telefónica de acceso gratuito para que los ciudadanos puedan efectuar denuncias, quejas y sugerencias sobre los espacios 100% libres de humo de tabaco así como el incumplimiento de esta Ley, su Reglamento y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 9.
 
-En todos los espacios 100% libres de humo de tabaco y en las zonas exclusivamente para fumar, se colocarán en un lugar visible letreros que indiquen claramente su naturaleza, debiéndose incluir un número telefónico para la denuncia ciudadana por incumplimiento a la presente Ley, su Reglamento y demás disposiciones aplicables.
+En todos los espacios 100% libres de humo de tabaco y en los espacios al aire libre donde se permita fumar, se colocarán en un lugar visible letreros que indiquen claramente su naturaleza, debiéndose incluir un número telefónico para la denuncia ciudadana por incumplimiento a la presente Ley, su reglamento y demás disposiciones aplicables.
 
-Los titulares de las dependencias y entidades de la Administración Pública Estatal y Municipal vigilarán que en las oficinas de sus unidades administrativas, órganos y entidades paraestatales se coloquen los señalamientos con la prohibición de fumar.
+Los titulares de las dependencias y entidades de la Administración Pública Estatal y Municipal vigilarán que en las oficinas de sus unidades administrativas, órganos y entidades paraestatales se coloquen los señalamientos con la prohibición de fumar, según lo establecido en el Reglamento de la Ley.
 
 ### CAPÍTULO QUINTO. De la Divulgación, Concientización, Promoción y Participación Ciudadana
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 10.
 
-El Poder Ejecutivo promoverá la realización de Programas de Prevención para desalentar el consumo del tabaco, utilizando todos los medios de comunicación que estén a su alcance y realizando programas de concientización y divulgación.
+El Poder Ejecutivo promoverá la realización de acciones preventivas, desarrolladas dentro del marco del Programa contra el Tabaquismo, para desalentar el consumo del tabaco, utilizando todos los medios de comunicación que estén a su alcance y realizando programas de concientización y divulgación.
 
 ###### Artículo 11.
 
@@ -283,15 +347,19 @@ VI. Emplear a menores de edad en actividades de comercio, producción, distribuc
 
 ### CAPÍTULO SÉPTIMO. De la Vigilancia
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 14.
 
-El Poder Ejecutivo a través de los Servicios de Salud y los Ayuntamientos, ejercerán las funciones de vigilancia e inspección que correspondan y aplicarán las sanciones que en este ordenamiento se establecen, sin perjuicio de las facultades que les confieren otros ordenamientos locales y federales aplicables en la materia.
+El Poder Ejecutivo a través de los Servicios de Salud y los Ayuntamientos, ejercerán las funciones de vigilancia sanitaria que correspondan y aplicarán las sanciones que en este ordenamiento se establecen, sin perjuicio de las facultades que les confieren otros ordenamientos locales y federales aplicables en la materia.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 15.
 
-Los verificadores serán designados y capacitados por la autoridad sanitaria estatal, de acuerdo a la Ley de Salud del Estado y demás disposiciones aplicables y tendrán las facultades y obligaciones que les asigne el reglamento y estarán sujetos a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Zacatecas.
+Los verificadores serán designados y capacitados por la autoridad sanitaria estatal, de acuerdo a la Ley de Salud del Estado y demás disposiciones aplicables y tendrán las facultades y obligaciones que les asigne esta Ley y su reglamento, y estarán sujetos a la Ley de Responsabilidades de los Servidores Públicos del Estado y > Municipios de Zacatecas.
 
-Los propietarios, responsables, encargados u ocupantes de establecimientos objeto de verificación, estarán obligados a permitir el acceso y dar facilidades e informes a los inspectores para el desarrollo de su labor.
+Los propietarios, responsables, encargados u ocupantes de establecimientos objeto de verificación, estarán obligados a permitir el acceso y dar facilidades e informes a los verificadores para el desarrollo de su labor.
 
 ### CAPÍTULO OCTAVO. De las Sanciones
 
@@ -347,9 +415,11 @@ Además de las sanciones económicas, procede el arresto hasta por 36 horas por 
 
 En caso de reincidencia se duplicará el monto de la multa que corresponda. Para los efectos de este capítulo se entiende por reincidencia, que el infractor incumpla la misma disposición de esta Ley o su Reglamento, dos o más veces dentro del periodo de un año, contado a partir de la fecha en que se le hubiera notificado la sanción inmediata anterior.
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 22.
 
-A juicio de la autoridad, las sanciones a que se refiere este capítulo podrán conmutarse total o parcialmente, por la asistencia a clínicas de tabaquismo o similares que determine la autoridad competente.
+A juicio de la autoridad, las sanciones a que se refiere este capítulo podrán conmutarse total o parcialmente, por la asistencia a clínicas contra el tabaquismo o similares que determine la autoridad competente.
 
 ###### Artículo 23.
 
@@ -414,3 +484,17 @@ ESAÚ HERNÁNDEZ HERRERA.
 DIRECTOR DE LOS SERVICIOS DE SALUD
 
 MÉDICO RAÚL ESTRADA DAY
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE AGOSTO DE 2012.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Zacatecas.
+
+Artículo Segundo.- Se establece un plazo de 60 días naturales contados a partir de la entrada en vigor del presente Decreto para que el Ejecutivo Estatal realice las modificaciones respectivas al Reglamento de la Ley, derivadas de las reformas, adiciones y derogaciones contenidas en el presente Decreto.
+
+Artículo Tercero.- Se establece un plazo de 90 días naturales contados a partir de la entrada en vigor del presente Decreto para que los municipios del Estado expidan, modifiquen o adicionen las disposiciones reglamentarias en la materia, a fin de dar cumplimiento a lo dispuesto en la presente Ley.
+
+Artículo Cuarto.- Los dueños de los espacios 100% libres de humo de tabaco, dispondrán de un plazo hasta de 60 días hábiles para llevar a cabo los requerimientos y especificaciones que esta Ley establece.
+
+Artículo Quinto.- Se deroga cualquier disposición contraria al presente Decreto.
