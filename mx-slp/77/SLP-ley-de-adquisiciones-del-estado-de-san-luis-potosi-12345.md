@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-adquisiciones-del-estado-de-san-luis-potosi-12345"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-29"
-last_updated: "2012-07-12"
+last_updated: "2012-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12345&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ADQUISICIONES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2012.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el miércoles 29 de enero de 1997.
 
@@ -423,9 +423,11 @@ Será facultad del comité emitir el dictamen sobre la adjudicación de las adqu
 
 Invariablemente, el dictamen o fallo beneficiará al licitante que haya cumplido con los requisitos de la convocante; presente las mejores condiciones en cuanto a precio, calidad, tiempo de entrega y además, garantice a satisfacción, el cumplimiento de las obligaciones respectivas.
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 36.
 
-En los casos en que resultare que dos o más proposiciones cumplen en igualdad de circunstancias, con todos los requisitos, el pedido o contrato se ofrecerá adjudicar a los licitantes en partes proporcionales, de no aceptarlo éstos, el comité lo podrá adjudicar a quien determine.
+En los casos en que resultare que dos o más proposiciones cumplen en igualdad de circunstancias con todos los requisitos, el pedido o contrato se ofrecerá adjudicar de manera preferente a aquél licitante que tuviera su domicilio fiscal en el Estado de San Luis Potosí. Si todos tuvieren su domicilio en el Estado o, si ninguno lo tuviera, el pedido o contrato se ofrecerá adjudicar a los licitantes en partes proporcionales; de no aceptarlo éstos, el Comité lo podrá adjudicar a quien éste determine.
 
 ###### ARTICULO 37.
 
@@ -722,3 +724,9 @@ P.O. 12 DE JULIO DE 2012.
 PRIMERO. Estas reformas y adiciones entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se abrogan y derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 25 DE AGOSTO DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
