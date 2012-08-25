@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2012-06-02"
+last_updated: "2012-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 NUEVO CÓDIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2012.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de septiembre de 1954.
 
@@ -10343,593 +10343,207 @@ ART. 2886.- Pagados los créditos enumerados en los capítulos que preceden, se 
 
 ART. 2887.- Con los bienes restantes serán pagados todos los demás créditos que no estén comprendidos en las disposiciones anteriores. El pago se hará a prorrata y sin atender a las fechas ni al origen de los créditos.
 
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)</small>
+
 ### CAPITULO I. De su organización
 
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
+ART. 2888.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-ART. 2888.- La Dirección General del Registro Público se establecerá en el Municipio de Colima y estará ubicado en el lugar que determine el Ejecutivo del Estado.
+ART. 2889.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
+ART. 2889 BIS.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-ART. 2889.- El Registro Público funcionará conforme al sistema y métodos que determine el Reglamento.
+ART. 2890.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+ART. 2891.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-ART. 2889 BIS.- En materia registral, podrán emplearse medios electrónicos, ópticos, magnéticos o cualquier otra tecnología. Las solicitudes de inscripción, de expedición de constancias, certificados, copias, así como las anotaciones o inscripciones, cancelaciones, rectificación o modificación de asientos y cualquier otro acto registral podrán hacerse constar mediante mensajes de datos con firma electrónica certificada.
+ART. 2892.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+ART. 2893.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-ART. 2890.- El Registro será Público. Los encargados del mismo tienen la obligación de permitir a las personas que lo soliciten, ya sea de forma física o vía electrónica, que se enteren de los asientos que obren en los folios físicos o electrónicos del Registro Público y de los documentos relacionados con las inscripciones que estén archivados física o electrónicamente. También tienen la obligación de expedir copias certificadas, con la firma autógrafa o con la firma electrónica certificada, de las inscripciones o constancias que figuren en los folios físicos o electrónicos del Registro Público, así como certificaciones de existir o no asientos relativos a los bienes que se señalen.
-
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
-
-ART. 2891.- El Reglamento establecerá los requisitos necesarios para desempeñar los cargos que requiera el funcionamiento del Registro Público.
-
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
-
-ART. 2892.- El encargado y los empleados del Registro Público, además de las penas que les sean aplicables por los delitos en que puedan incurrir, responderán civilmente de los daños y perjuicios a que dieren lugar cuando:
-
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
-
-I.- Rehúsen admitir el título, o si no practican el asiento de presentación por el orden de entrada del documento o del aviso, en cualquiera de sus formas, ya sea física o electrónicamente, a que se refiere el artículo 2905;
-
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
-
-II.- Practiquen algún asiento indebidamente o rehúsen practicarlo en su forma física y electrónica sin motivo fundado;
-
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
-
-III.- Retarden, sin causa justificada, la práctica del asiento, física y electrónicamente, a que dé lugar el documento inscribible;
-
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
-
-IV.- Cometan errores, inexactitudes u omisiones en los asientos que practiquen o en los documentos o informes que expidan vía física o electrónica; y
-
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
-
-V.- No expidan los certificados físicos o electrónicos en el término reglamentario.
-
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
-
-ART. 2893.- Las sentencias firmes que resulten en aplicación del artículo anterior, incluirán la inhabilitación para el desempeño del cargo o empleo hasta que sea pagada la indemnización de daños y perjuicios que en su caso corresponda.
-
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)</small>
 
 ### CAPITULO II. Disposiciones Comunes de los Documentos Registrables
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+ART. 2894.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-ART. 2894.- Solo se registrarán física y electrónicamente:
+ART. 2895.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
-
-I.- Los testimonios de escrituras o actas notariales u otros documentos auténticos, físicos o electrónicos firmados en forma autógrafa o con la firma electrónica certificada;
-
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
-
-II.- Las resoluciones y providencias judiciales que consten de manera auténtica;
-
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
-
-III.- Los documentos privados físicos o electrónicos que en esta forma fueren validos con arreglo a la ley, siempre que al calce de los mismos haya la constancia de que el notario, el director del Registro Público, la autoridad municipal o el Juez de Paz se cercioró de la autenticidad de las firmas autógrafas o electrónicas certificadas y de la voluntad de las partes. Dicha constancia deberá estar firmadas por los mencionados funcionarios y llevar el sello de la oficina respectiva.
-
-> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
-
-En los documentos en que se utilice la firma electrónica certificada, se incluirá en sus algoritmos el contenido del sello, y cuando sea posible en los formatos predeterminados, y al imprimirse se estamparán en el documento, de acuerdo con los parámetros señalados al efecto; de no ser posible esto último, el documento quedará validado con la sola firma electrónica certificada.
-
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
-
-ART. 2895.- Los actos ejecutados o los contratos otorgados en otra entidad federativa o en el extranjero, sólo se inscribirán si dichos actos o contratos tienen el carácter de inscribibles conforme a las disposiciones de este Código y del Reglamento del Registro Público.
-
-Si los documentos respectivos apareciesen redactados en idioma extranjero y se encuentran debidamente legalizados, deberán ser previamente traducidos por perito oficial y protocolizados ante notario.
-
-Las sentencias dictadas en el extranjero sólo se registrarán si no están en desacuerdo con Leyes Mexicanas y si ordena su ejecución la autoridad judicial competente.
-
-> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
-
-Cuando se trate de documentos físicos firmados con firma electrónica certificada o de documentos electrónicos firmados de la misma manera, solo se inscribirán si tienen el carácter de inscribibles y además cumplen con las disposiciones señaladas en la Ley Sobre el Uso de Medios Electrónicos y Firma Electrónica para el Estado de Colima y su reglamento respectivo, por lo que ve a la firma electrónica certificada.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)</small>
 
 De los efectos del Registro
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+ART. 2896.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-ART. 2896.- Los documentos físicos o electrónicos que conforme a este Código sean registrables y no se registren, no producirán efectos en perjuicio de tercero.
+ART. 2897.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+ART. 2898.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-ART. 2897.- La inscripción que se haga en cualquiera de sus formas, física y electrónica, de los actos o contratos en el Registro Publico tienen efectos declarativos.
+ART. 2899.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-ART. 2898.- No obstante lo dispuesto en el artículo anterior, los actos o contratos que se otorguen o celebren por personas que en el Registro aparezcan con derecho a ello, no se invalidarán, en cuanto a tercero de buena fe, una vez inscritos, aunque después se anule o resuelva el derecho del otorgante en virtud de título anterior no inscrito o de causas que no resulten claramente del mismo registro.
+ART. 2900.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-El tercero tendrá a su favor la presunción de buena fe. Lo dispuesto en este artículo no se aplicará a los contratos gratuitos.
+ART. 2901.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
-
-ART. 2899.- El derecho registrado se presume que existe y que pertenece a su titular en la forma expresada por el asiento respectivo. Se presume también que el titular de una inscripción de dominio o de posesión tiene la posesión del inmueble inscrito.
-
-No podrá ejercitarse acción contradictoria del dominio de inmuebles, de derechos reales sobre los mismos o de otros derechos inscritos o anotados a favor de persona o entidad determinada, sin que previamente ó a la vez, se entable demanda de nulidad o cancelación de la inscripción en que conste dicho dominio o derecho.
-
-En caso de embargo precautorio, juicio ejecutivo o procedimiento de apremio contra bienes o derechos reales, se sobreseerá el procedimiento respectivo de los mismos o de sus frutos, inmediatamente que conste en los autos por manifestación auténtica del Registro Público, que dichos bienes o derechos están inscritos a favor de persona distinta de aquella contra la cual se decretó el embargo o se siguió el procedimiento, a no ser que se hubiere dirigido contra ella la acción como causahabiente del que aparece dueño en el Registro Público.
-
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
-
-ART. 2900.- Los derechos reales y en general cualquier gravamen o limitación de los mismos o del dominio, para que surtan efectos contra tercero, deberán constar física y electrónicamente en el registro de la finca sobre que recaigan, separada y especialmente, en la forma que determine el reglamento. Lo dispuesto en este artículo se aplicará a los inmuebles que en su caso comprenda la hipoteca industrial prevista por la Ley General de Instituciones de Crédito y Organizaciones Auxiliares, a la hipoteca sobre los sistemas de las empresas a que se refiere la Ley de Vías Generales de Comunicación, y a casos similares previstos en las leyes especiales.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
-
-ART. 2901.- Tratándose de inmuebles, derechos reales sobre los mismos u otros derechos inscribibles o anotables física y electrónicamente, la sociedad conyugal no surtirá efectos contra tercero si no consta inscrita en el registro relativo a dichos inmuebles y derechos.
-
-Cualesquiera de los cónyuges u otros interesados tienen derecho a pedir la rectificación del asiento respectivo, cuando alguno de esos bienes pertenezcan a la sociedad conyugal y aparezca inscrito a nombre de uno solo de aquéllos.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)</small>
 
 De la prelación
 
-ART. 2902.- La preferencia entre derechos reales sobre una misma finca o derechos, se determinará por la prioridad de su inscripción en el Registro, cualquiera que sea la fecha de su constitución.
+ART. 2902.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-El derecho real adquirido con anterioridad a la fecha de una anotación preventiva será preferente aun cuando su inscripción sea posterior siempre que se dé el aviso que previene el artículo 2905.
+ART. 2903.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-Si la anotación preventiva se hiciere con posterioridad a la presentación del aviso preventivo, el derecho real motivo de éste, será preferente aun cuando tal aviso se hubiese dado extemporáneamente.
+ART. 2904.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+ART. 2905.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-ART. 2903.- Los asientos del Registro Publico físicos y electrónicos, en cuanto se refieran a derechos inscribibles o anotables, producen todos sus efectos, salvo resolución Judicial.
+ART. 2906.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
-
-ART. 2904.- La prelación entre los diversos documentos físicos o electrónicos ingresados al Registro Publico se determinará por la prioridad en cuanto a la fecha y número ordinal que les corresponda al presentarlos para su inscripción, salvo lo dispuesto en el artículo siguiente.
-
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
-
-ART. 2905.- A más tardar dentro de los dos días hábiles siguientes a aquél en que se firme una escritura en que se cree, declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión originaria de bienes raíces, o cualquier derecho real sobre los mismos o que sin serlo sea inscribible, el notario ante quien se otorgue dará al Registro un aviso en forma escrita o electrónica en el que conste la finca de que se trata, el negocio jurídico otorgado, los nombres de los interesados en él, el número y la fecha de la escritura y la de su firma autógrafa o electrónica e indicación de los números y demás datos bajo los cuales aparezca inscrita la propiedad o el derecho en su caso. El encargado del Registro, con el aviso del notario y sin cobro de derecho alguno, hará inmediatamente el asiento de presentación, de forma física y electrónica. Si dentro de los sesenta días naturales siguientes a la fecha en que se hubiere firmado la escritura se presentare en forma física o electrónica el testimonio respectivo, su inscripción surtirá efectos contra tercero desde la fecha del asiento de presentación hecho en virtud del aviso del notario. Si el testimonio se presentare después, su registro solo surtirá efectos desde la fecha de su presentación.
-
-Si el documento físico o electrónico en que conste alguna de las operaciones que se mencionan en el párrafo anterior fuere privado, deberán dar el aviso a que se refiere este artículo, las autoridades de que habla la fracción III del artículo 2894 y el mencionado aviso producirá los mismos efectos que el dado por el notario.
-
-ART. 2906.- La inscripción definitiva de un derecho que haya sido anotado preventivamente, surtirá sus efectos desde la fecha en que la anotación los estaba produciendo.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE AGOSTO DE 1980)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)</small>
 
 De quienes pueden solicitar el registro y de la calificación registral
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+ART. 2907.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-ART. 2907.- La inscripción o anotación física y electrónica de los títulos en el Registro puede pedirse por todo el que tenga interés legitime en el derecho que se va a inscribir o a anotar, o por el notario que haya autorizado la escritura de que se trate.
+ART. 2908.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-Hecho el registro, serán devueltos los documentos al que los presentó, con nota de quedar registrados en tal fecha y bajo tal número. Igual acto se efectuará cuando se realice en forma electrónica, utilizando la misma vía para su regreso.
+ART. 2909.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+ART. 2910.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-ART. 2908.- Para inscribir o anotar cualquier título, deberá constar previamente inscrito o anotado física y electrónicamente el derecho de la persona que otorgó aquel o de la que vaya a resultar perjudicada por la inscripción, a no ser que se trate de una inscripción de inmatriculación.
+ART. 2911.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
-
-ART. 2909.- Inscrito o anotado un título de forma física y electrónica, no podrá inscribirse o anotarse otro de igual o anterior fecha que refiriéndose al mismo inmueble o derecho real, se le oponga o sea incompatible.
-
-Si sólo se hubiere extendido el asiento de presentación, tampoco podrá inscribirse o anotarse otro título de la clase antes expresada mientras el asiento esté vigente.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
-
-ART. 2910.- Los registradores calificarán bajo su responsabilidad los documentos físicos o electrónicos que se presenten para la práctica de alguna inscripción o anotación; la que suspenderán o denegarán en los casos siguientes:
-
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
-
-I. Cuando el título físico o electrónico presentado no sea de los que deben inscribirse o anotarse;
-
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
-
-II. Cuando el documento físico o electrónico no revista las formas extrínsecas que establezca la ley;
-
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
-
-III. Cuando los funcionarios ante quienes se haya otorgado o ratificado el documento físico o electrónico, no hayan hecho constar la capacidad de los otorgantes o cuando sea notoria la incapacidad de estos;
-
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
-
-IV. Cuando el contenido del documento físico o electrónico sea contrario a las Leyes prohibitivas o de interés público;
-
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
-
-V. Cuando haya incompatibilidad entre el texto del documento y los asientos del Registro, en cualquiera de sus formas ya sean físicas electrónicas;
-
-> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 1980)</small>
-
-VI. Cuando no se individualicen los bienes del deudor sobre los que se constituya un derecho real, o cuando no se fije la cantidad máxima que garantice un gravamen en el caso de obligaciones de monto indeterminado, salvo los casos previstos en la última parte del artículo 2900;
-
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
-
-VII. Cuando falte algún otro requisito que deba llevar el documento físico o electrónico de acuerdo con este Código u otras Leyes aplicables.
-
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
-
-ART. 2911.- La calificación hecha por el registrador podrá recurrirse ante el Director del Registro Público. Si éste confirma la calificación el perjudicado por ella podrá reclamarla en juicio.
-
-Si la Autoridad Judicial ordena que se registre el título rechazado, la inscripción surtirá sus efectos desde que por primera vez se presentó el título, si se hubiere hecho la anotación preventiva a que se refiere la fracción V del artículo 2932.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)</small>
 
 De la rectificación de asientos
 
-ART. 2912.- La rectificación de los asientos por causa de error material o de concepto, sólo procede cuando exista discrepancia entre el título y la inscripción.
+ART. 2912.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-ART. 2913.- Se entenderá que se comete error material cuando sin intención conocida se escriban unas palabras por otras, se omita la expresión de alguna circunstancia o se equivoquen los nombres propios o las cantidades al copiarlas del título, sin cambiar por eso el sentido general de la inscripción ni el de ninguno de sus conceptos.
+ART. 2913.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
-
-Lo anterior se entenderá de la misma forma, tratándose de las inscripciones practicadas electrónicamente.
+ART. 2914.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
 > <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
 
-ART. 2914.- Se entenderá que se comete error de concepto cuando al expresar en la inscripción alguno de los contenidos en el título se altere o varíe su sentido porque el registrador se hubiere formado un juicio equivocado del mismo, por una errónea calificación del contrato o acto en él consignado o por cualquiera otra circunstancia.
+ART. 2915.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+ART. 2916.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-Lo anterior se entenderá de la misma forma, tratándose de las inscripciones practicadas electrónicamente.
-
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
-
-ART. 2915.- Cuando se trate de errores de concepto los asientos practicados en los folios del Registro Público sólo podrán rectificarse con el consentimiento de todos los interesados en el asiento.
-
-A falta del consentimiento unánime de los interesados, la rectificación sólo podrá efectuarse por resolución judicial.
-
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
-
-En caso de que el registrador se oponga a la rectificación física o electrónica, se observará lo dispuesto en el artículo 2911.
-
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
-
-En el caso previsto por el artículo 2901 el que solicite la rectificación física o electrónica deberá acompañar a la solicitud que presente al registro, los documentos con los que pruebe el régimen matrimonial.
-
-En ningún caso la rectificación perjudicará los derechos adquiridos por tercero a título oneroso y de buena fé durante la vigencia del asiento que se declare inexacto.
-
-> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
-
-Lo anterior se aplicará de la misma forma, tratándose de las inscripciones efectuadas electrónicamente.
-
-ART. 2916.- El concepto rectificado surtirá efectos desde la fecha de la rectificación.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)</small>
 
 De la extinción de asientos
 
-ART. 2917.- Las inscripciones no se extinguen en cuanto a tercero sino por su cancelación o por el registro de la transmisión del dominio o derecho real inscrito a otra persona.
+ART. 2917.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-ART. 2918.- Las anotaciones preventivas se extinguen por cancelación, por caducidad o por su conversión en inscripción.
+ART. 2918.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-ART. 2919.- Las inscripciones y anotaciones pueden cancelarse por consentimiento de las personas a cuyo favor estén hechas o por orden judicial. Podrán no obstante ser canceladas a petición de parte sin dichos requisitos cuando el derecho inscrito o anotado quede extinguido por disposición de la ley o por causas que resulten del título en cuya virtud se practicó la inscripción o anotación debido a hecho que no requiera la intervención de la voluntad.
+ART. 2919.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-ART. 2920.- Para que el asiento pueda cancelarse por consentimiento, éste deberá constar en escritura pública si el monto del derecho cuyo registro se cancela es superior a tres mil pesos.
+ART. 2920.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-ART. 2921.- La cancelación de las inscripciones y anotaciones preventivas podrá ser total o parcial.
+ART. 2921.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-ART. 2922.- Podrá pedirse y deberá ordenarse, en su caso, la cancelación total:
+ART. 2922.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-I.- Cuando se extinga por completo el inmueble objeto de la inscripción;
+ART. 2923.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-II.- Cuando se extinga también por completo el derecho inscrito o anotado;
+ART. 2924.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-III.- Cuando se declare la nulidad del título en cuya virtud se haya hecho la inscripción o anotación;
+ART. 2925.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-IV.- Cuando se declare la nulidad del asiento;
+ART. 2926.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-V.- Cuando sea vendido judicialmente el inmueble que reporta el gravamen en el caso previsto en el artículo 2215;
+ART. 2927.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-VI.- Cuando tratándose de cédula hipotecaria o de embargo, hayan transcurrido dos años desde la fecha del asiento, sin que el interesado haya promovido en el juicio correspondiente.
+ART. 2928.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-ART. 2923.- Podrá pedirse y deberá decretarse, en su caso, la cancelación parcial:
+ART. 2929.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-I.- Cuando se reduzca el inmueble objeto de la inscripción o anotación preventiva;
+ART. 2930.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-II.- Cuando se reduzca el derecho inscrito o anotado.
-
-ART. 2924.- Las anotaciones preventivas, cualesquiera que sea su origen, caducarán a los tres años de su fecha, salvo aquéllas a las que se les fije un plazo de caducidad más breve. No obstante, a petición de parte o por mandato de las autoridades que las decretaron, podrán prorrogarse una o más veces por dos años cada vez, siempre que la prórroga sea anotada antes de que caduque el asiento.
-
-La caducidad produce la extinción del asiento respectivo por el simple transcurso del tiempo; pero cualquier interesado podrá solicitar en este caso que se registre la cancelación de dicho asiento.
-
-ART. 2925.- Cancelado un asiento, se presume extinguido el derecho a que dicho asiento se refiere.
-
-ART. 2926.- Los padres como administradores de los bienes de sus hijos, los tutores de menores incapacitados y cualesquiera otros administradores, aunque habilitados para recibir pagos y dar recibos, sólo pueden consentir la cancelación del registro hecho en favor de sus representados, en el caso de pago o por sentencia judicial.
-
-ART. 2927.- La cancelación de las inscripciones de hipotecas constituidas en garantía de títulos transmisibles por endoso, puede hacerse:
-
-I.- Presentándose la escritura otorgada por los que hayan cobrado los créditos, en la cual debe constar haberse inutilizado en el acto de su otorgamiento los títulos endosables;
-
-II.- Por ofrecimiento de pago y consignación del importe de los títulos, tramitados y resueltos de acuerdo con las disposiciones legales relativas.
-
-ART. 2928.- Las inscripciones de hipotecas constituidas con el objeto de garantizar títulos al portador, se cancelarán totalmente si se hiciere constar por acta notarial estar recogida y en el poder del deudor la emisión de títulos debidamente inutilizados.
-
-Procederá también la cancelación total si se presentasen, por lo menos, las tres cuartas partes de los títulos al portador emitidos y se asegurase el pago de los restantes, consignándose su importe y el de los intereses que procedan. La cancelación, en este caso, deberá acordarse por sentencia, previos los trámites fijados en el Código de Procedimientos Civiles.
-
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
-
-ART. 2929.- Podrán cancelarse parcialmente las inscripciones hipotecarias de que se trata, presentando acta notarial física o electrónica que acredite estar recogidos y en poder del deudor, debidamente inutilizados, títulos por un valor equivalente al importe de la hipoteca parcial que se trate de extinguir, siempre que dichos títulos asciendan, por lo menos, a la decima parte del total de la emisión.
-
-ART. 2930.- Podrá también cancelarse total o parcialmente la hipoteca que garantice tanto títulos nominativos como al portador, por consentimiento del representante común de los tenedores de los títulos, siempre que esté autorizado para ello y declare bajo su responsabilidad que ha recibido el importe por el que cancela.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE AGOSTO DE 1980)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)</small>
 
 ## TITULO SEGUNDO. Del Registro Público
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE AGOSTO DE 1980)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)</small>
 
 ### CAPITULO III. Del registro de la propiedad inmueble y de los títulos inscribibles y anotables
 
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
+ART. 2931.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-ART. 2931.- En el Registro Público de la Propiedad inmueble se inscribirán:
+ART. 2932.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-I.- Los títulos por los cuales se cree, declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga el dominio, posesión originaria y los demás derechos reales sobre inmuebles;
-
-II.- La constitución del patrimonio familiar;
-
-III.- Los contratos de arrendamiento de bienes inmuebles, por un período mayor de seis años y aquellos en que haya anticipos de renta por más de tres años; y
-
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
-
-IV.- Los demás títulos que la ley ordene expresamente que sean registrados, ya sea en forma física o electrónica.
-
-ART. 2932.- Se anotarán preventivamente en el Registro:
-
-I.- Las demandas relativas a la propiedad de bienes inmuebles o a la constitución, declaración, modificación o extinción de cualquier derecho real sobre aquéllos;
-
-II.- El mandamiento y el acta de embargo que se haya hecho efectivo en bienes inmuebles del deudor;
-
-III.- Las demandas promovidas para exigir el cumplimiento de contratos preparatorios o para dar forma legal al acto o contrato concertado cuando tenga por objeto inmuebles o derechos reales sobre los mismos;
-
-IV.- Las providencias judiciales que ordenen el secuestro o prohiban la enajenación de bienes inmuebles o derechos reales;
-
-V.- Los títulos presentados al Registro y cuya inscripción haya sido denegada o suspendida por el registrador;
-
-VI.- Las fianzas legales o judiciales de acuerdo con lo establecido por el artículo 2,741 de este Código;
-
-VII.- Las declaraciones de expropiación, de limitación de dominio o de ocupación temporal de bienes inmuebles;
-
-VIII.- Las resoluciones judiciales en materia de amparo que ordenen la suspensión provisional o definitiva, en relación con bienes inscritos en el Registro;
-
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
-
-IX.- Cualquier otro título físico o electrónico que sea anotable de acuerdo con este Código u otras leyes.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)</small>
 
 De los efectos de las anotaciones
 
-ART. 2933.- La anotación preventiva, perjudicará a cualquier adquirente de la finca o derecho real a que se refiere la anotación, cuya adquisición sea posterior a la fecha de aquélla, y en su caso, dará preferencia para el cobro del crédito sobre cualquier otro de fecha posterior a la anotación.
+ART. 2933.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-En los casos de las fracciones IV y VII del artículo anterior, podrá producirse el cierre del registro en los términos de la resolución correspondiente.
+ART. 2934.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-En el caso de la fracción VI, la anotación no producirá otro efecto que el fijado por el artículo 2,743.
-
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
-
-En el caso de la fracción VII la anotación servirá únicamente para que conste la afectación en el registro del inmueble sobre el que hubiere recaído la declaración. Pero bastará la publicación del decreto relativo en el Periódico Oficial del Estado y en la página de internet del Gobierno del Estado para que queden sujetos a las resultas del mismo tanto el propietario o poseedor, como los terceros que intervengan en cualquier acto o contrato posterior a dicha publicación, respecto del inmueble afectado, debiendo hacerse la inscripción definitiva que proceda, hasta que se otorgue la escritura respectiva, salvo el caso expresamente previsto por alguna ley en que se establezca que no es necesario este requisito.
-
-ART. 2934.- Salvo los casos en que la anotación cierre el registro, los bienes inmuebles o derechos reales anotados podrán enajenarse y gravarse, pero sin perjuicio del derecho de la persona a cuyo favor se haya hecho la anotación.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)</small>
 
 De la inmatriculación
 
-ART. 2935.- La inmatriculación se practicará:
+ART. 2935.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-I.- Mediante información de dominio;
+ART. 2936.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-II.- Mediante información posesoria;
+ART. 2937.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-III.- Mediante resolución judicial que la ordene y que se haya dictado como consecuencia de la presentación de titulación fehaciente que abarque sin interrupción un período por lo menos de cinco años;
+ART. 2938.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
+ART. 2939.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-IV.- Mediante la inscripción física y electrónica del decreto publicado en el Periódico Oficial del Estado y en la página de internet del Gobierno del Estado que convierta en bien de dominio privado un inmueble que no tenga tal carácter, o del título o títulos que se expidan con fundamento en aquel decreto.
+ART. 2940.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+ART. 2941.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-ART. 2936.- El que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para prescribirlos y no tenga título de propiedad o teniéndolo no sea inscribible por defectuoso, si no está en el caso de deducir la acción que le concede el artículo 1152, por no estar inscrita en forma física y electrónica en el Registro de la propiedad de los bienes en favor de persona alguna, podrá demostrar ante el juez competente que ha tenido esa posesión, rindiendo la información respectiva en los términos que establezca el Código de Procedimientos Civiles. A su solicitud acompañará precisamente certificado firmado en forma autógrafa o con la firma electrónica certificada, del Registro Publico que demuestre que los bienes no están inscritos y otro relativo al estado actual de la finca en el Catastro y en los Padrones de la Tesorería General del Estado.
-
-La información se recibirá con citación del Ministerio Público, de la autoridad municipal, del respectivo registrador de la propiedad, de los colindantes y de la persona que tenga catastrada la finca a su favor o a cuyo nombre se expidan las boletas del impuesto predial.
-
-Los testigos deben ser por lo menos tres de notorio arraigo en el lugar de la ubicación de los bienes a que la información se refiere.
-
-No se recibirá la información sin que previamente se publique la solicitud del promovente, por tres veces, de tres en tres días, en los Estrados del Juzgado y en un periódico de los de mayor circulación en el Estado. Además se fijará un ejemplar del aviso en el predio objeto de la información.
-
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
-
-Comprobada debidamente la posesión, el juez declarará que el poseedor se ha convertido en propietario, en virtud de la prescripción, y tal declaración se tendrá como título de propiedad y será inscrita física y electrónicamente en el Registro Público.
-
-ART. 2937.- El que tenga una posesión apta para prescribir, de bienes inmuebles no inscritos en el Registro en favor de persona alguna, aun antes de que transcurra el tiempo necesario para prescribir, puede registrar su posesión mediante resolución judicial que dicte el juez competente, ante quien la acredita del modo que fije el Código de Procedimientos Civiles.
-
-A la solicitud acompañará los documentos que se mencionan en la parte final del párrafo primero del artículo anterior.
-
-La información que se rinda para demostrar la posesión se sujetará a lo dispuesto en los párrafos segundo, tercero y cuarto del artículo que precede.
-
-Las declaraciones de los testigos versarán sobre el hecho de la posesión, sobre los requisitos que debe tener para servir de base a la prescripción adquisitiva y sobre el origen de la posesión.
-
-El efecto de la inscripción será tener la posesión inscrita como apta para producir la prescripción al concluir el plazo de cinco años contados desde la misma inscripción.
-
-Las inscripciones de posesión expresarán las circunstancias exigidas para las inscripciones en general y además las siguientes: los nombres de los testigos que hayan declarado; el resultado de las declaraciones y la resolución judicial que ordene la inscripción.
-
-ART. 2938.- Cualquiera que se crea con derecho a los bienes cuya inscripción se solicita mediante información de dominio o de posesión, podrá alegarlo ante la autoridad judicial competente.
-
-La presentación del escrito de oposición, en la forma que establece el Código de Procedimientos Civiles, suspenderá el curso del expediente de información; si éste estuviere ya concluido y aprobado, deberá el juez poner la demanda en conocimiento del registrador para que suspenda la inscripción y si ya estuviese hecha, para que anote dicha demanda.
-
-Si el opositor deja transcurrir seis meses sin promover en el procedimiento de oposición, quedará éste sin efecto, haciéndose en su caso la cancelación que proceda.
-
-ART. 2939.- Transcurridos cinco años desde que se practicó la inscripción, sin que en el Registro aparezca algún asiento que contradiga la posesión inscrita, tiene derecho el poseedor, comprobando este hecho mediante la presentación del certificado respectivo, a que el juez competente declare que se ha convertido en propietario en virtud de la prescripción y ordene se haga en el Registro la inscripción de dominio correspondiente.
-
-ART. 2940.- No podrán inscribirse mediante información posesoria, las servidumbres continuas no aparentes, ni las discontinuas, sean o no aparentes, ni tampoco el derecho hipotecario.
-
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
-
-ART. 2941.- El que tenga títulos fehacientes que abarquen cuando menos un período ininterrumpido de cinco años inmediatamente anteriores a su promoción, podrá inmatricular su predio mediante resolución judicial, siempre y cuando se satisfagan los siguientes requisitos:
-
-I.- Que acompañe a su promoción, además de la titulación:
-
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
-
-a).- Certificado del Registro Público, firmado en forma autógrafa o con la firma electrónica certificada, que acredite que el bien de que se trata no está inscrito;
-
-b).- Las boletas que comprenden que el predio está al corriente en el pago del impuesto predial;
-
-c).- Un informe del estado actual de la finca en el Catastro, rendido por esa oficina;
-
-II.- Que en tal promoción manifieste bajo protesta de decir verdad si está poseyendo el predio o el nombre del poseedor en su caso;
-
-III.- Que se publique la solicitud de inscripción en los estrados del Juzgado y en uno de los periódicos de mayor circulación del lugar que corresponda, por tres veces en cada uno de ellos con intervalos de diez días;
-
-IV.- Que se cite a la Autoridad Municipal correspondiente, a los colindantes, a las personas que figuren en los padrones de la Tesorería General del Estado y del Catastro; así como el poseedor cuando sea el caso;
-
-V.- Que transcurra un plazo de treinta días a partir de la última publicación sin que haya oposición.
-
-Si hubiere oposición se suspenderá el procedimiento; ésta se substanciará conforme al Código de Procedimientos Civiles.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE AGOSTO DE 1980)</small>
 
 Del sistema registral
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+ART. 2942.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-ART. 2942.- El reglamento establecerá el sistema tanto físico como electrónico conforme al cual deban llevarse los folios del Registro Público y practicarse los asientos.
+ART. 2943.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
+ART. 2944.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-La primera inscripción de cada finca será de dominio o de posesión.
+ART. 2945.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
+ART. 2946.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-ART. 2943.- Los asientos de presentación expresarán:
+ART. 2947.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-I.- La fecha y número de entrada; y
+ART. 2948.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-II.- La naturaleza del documento.
+ART. 2949.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-ART. 2944.- Los asientos de inscripción deberán expresar las circunstancias siguientes:
+ART. 2950.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-> <small>(F. DE E., P.O. 2 DE ABRIL DE 1955)</small>
+ART. 2951.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-I.- La naturaleza, situación y linderos de los inmuebles objeto de la inscripción o a los cuales afecte el derecho que deba inscribirse; su medida superficial, nombre y número si constare en el título; así como las referencias al registro anterior y las catastrales que prevenga el Reglamento;
-
-II.- La naturaleza, extensión y condiciones del derecho de que se trate;
-
-III.- El valor de los bienes o derechos a que se refieren las fracciones anteriores, cuando conforme a la ley deba expresarse en el título;
-
-IV.- Tratándose de hipotecas, la obligación garantizada; la época en que podrá exigirse su cumplimiento; el importe de ella o la cantidad máxima asegurada cuando se trate de obligaciones de monto indeterminado; los réditos si se causaren y la fecha desde que deban correr;
-
-V.- Los nombres de las personas físicas o morales a cuyo favor se haga la inscripción y de aquellas de quienes procedan inmediatamente los bienes. Cuando el título exprese nacionalidad, lugar de origen, edad, estado civil, ocupación y domicilio de los interesados, se hará mención de esos datos en la inscripción;
-
-VI.- La naturaleza del hecho o negocio jurídico;
-
-VII.- La fecha del título, número si lo tuviere y el funcionario que lo haya autorizado.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
-
-ART. 2945.- Las anotaciones preventivas contendrán las circunstancias que expresa el artículo anterior en cuanto resulten de los documentos físicos o electrónicos presentados y, por lo menos, la finca o derecho anotado, la persona a quien favorezca la anotación y la fecha de ésta.
-
-Las que deban su origen a embargo o secuestro, expresarán la causa que haya dado lugar a aquéllos y el importe de la obligación que los hubiere originado.
-
-Las que provengan de una declaración de expropiación, limitación de dominio u ocupación de bienes inmuebles, mencionarán la fecha del decreto respectivo, la de su publicación en el "Periódico Oficial" y el fin de utilidad pública que sirva de causa a la declaración.
-
-ART. 2946.- Los asientos de cancelación de una inscripción o anotación preventiva, expresarán:
-
-I.- La clase, número si lo tuviere y fecha del documento en cuya virtud se cancela y el nombre del funcionario que lo autorice;
-
-II.- La causa por la que se hace la cancelación;
-
-III.- El nombre y apellido de la persona, a cuya instancia o con cuyo consentimiento se verifique la cancelación;
-
-IV.- La expresión de quedar cancelado total o parcialmente el asiento de que se trata;
-
-V.- Cuando se trate de cancelación parcial, la parte que se segregue o que haya desaparecido del inmueble, o la que reduzca del derecho y la que subsista.
-
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
-
-ART. 2947.- Las notas marginales deberán contener las indicaciones necesarias para relacionar entre sí las fincas o asientos a que se refieren y, en su caso, el hecho de que se trate de acreditar, y el documento físico o electrónico en cuya virtud se entiendan.
-
-ART. 2948.- Los requisitos que según los artículos anteriores deban contener los asientos, podrán omitirse cuando ya consten en otros del registro de la finca, haciéndose sólo referencia al asiento que los contenga.
-
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
-
-ART. 2949.- Todos los asientos físicos o electrónicos, de la clase que fueren, deberán ir firmados en forma autógrafa o con la firma electrónica certificada por el registrador y expresar la fecha en que se practiquen, así como el día y la hora del asiento de presentación.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
-
-ART. 2950.- Los asientos físicos o electrónicos del Registro no surtirán efecto mientras no estén firmados por el registrador o funcionario que lo substituya; pero la firma de aquellos puede exigirse por quien tenga el título con la certificación de haber sido registrado.
-
-Los asientos podrán anularse por resolución judicial con audiencia de los interesados, cuando sustancialmente se hubieren alterado dichos asientos, así como en el caso en que hayan cambiado los datos esenciales relativos a la finca de que se trate, o a los derechos inscritos o al titular de éstos, sin perjuicio de los establecidos respecto a la rectificación de errores.
-
-ART. 2951.- La nulidad de los asientos de que se trata en el artículo anterior no perjudicará el derecho anteriormente adquirido por un tercero protegido con arreglo al artículo 2,898.
-
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)</small>
 
 ### CAPITULO IV. Del registro de operaciones sobre bienes muebles
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+ART. 2952.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-ART. 2952.- Se inscribirán en los folios físicos o electrónicos de operaciones sobre bienes muebles:
+ART. 2953.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 1980)</small>
-
-I.- Los contratos de compra-venta de bienes muebles sujetos a condición resolutoria a que se refiere la fracción II del artículo 2,201;
-
-> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 1980)</small>
-
-II.- Los contratos de compra-venta de bienes muebles por los cuales el vendedor se reserva la propiedad de los mismos, a que se refiere el artículo 2,203;
-
-> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 1980)</small>
-
-III.- Los contratos de prenda que menciona el artículo 2748.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
-
-ART. 2953.- Toda inscripción que se haga en los folios físicos y electrónicos de bienes muebles deberá expresar los datos siguientes:
-
-> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 1980)</small>
-
-I.- Los nombres de los contratantes;
-
-> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 1980)</small>
-
-II.- La naturaleza del mueble con la característica o señales que sirvan para identificarlo de manera indubitable;
-
-> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 1980)</small>
-
-III.- El precio y forma de pago estipulados en el contrato, y, en su caso, el importe del crédito garantizado con la prenda;
-
-> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 1980)</small>
-
-IV.- La fecha en que se practique y la firma del registrador.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)</small>
 
 ### CAPITULO V. Del registro de personas morales
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+ART. 2954.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-ART. 2954.- En los folios físicos y electrónicos de las personas morales se inscribirán:
+ART. 2955.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 1980)</small>
+ART. 2956.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
-I.- Los instrumentos por lo que se constituyan, reformen o disuelvan las sociedades y asociaciones civiles y sus estatutos;
-
-> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 1980)</small>
-
-II.- Los instrumentos que contengan la protocolización de los estatutos de asociaciones y sociedades extranjeras de carácter civil y de sus reformas, cuando haya comprobado el registrador que existe la autorización a que se refiere el artículo 2737 del Código Civil para el Distrito y Territorio Federal;
-
-> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 1980)</small>
-
-III.- Las fundaciones y asociaciones de beneficencia privada.
-
-ART. 2955.- Las inscripciones referentes a la constitución de personas morales, deberán contener las circunstancias siguientes:
-
-I.- El nombre de los otorgantes;
-
-II.- La razón social o denominación;
-
-III.- El objeto, duración y domicilio;
-
-IV.- El capital social, si lo hubiere, y la aportación con que cada socio debe contribuir;
-
-V.- La manera de distribuirse las utilidades y pérdidas, en su caso;
-
-VI.- El nombre de los administradores y las facultades que se les otorguen;
-
-VII.- El carácter de los socios y su responsabilidad ilimitada cuando la tuvieren;
-
-VIII.- La fecha y la firma del registrador.
-
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
-
-ART. 2956.- Las demás inscripciones que se practiquen en los folios de las personas morales, expresarán los datos esenciales del acto o contrato según resulten del título respectivo.
-
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
-
-ART. 2957.- Las inscripciones que se practiquen en los folios relativos a bienes muebles y personas morales no producirán más efectos que los señalados en los Artículos 2201 fracción II, 2203, 2563, 2584 y 2748 de este Código, y le serán aplicables a los registros las disposiciones relativas a los bienes inmuebles, en cuanto sean compatibles con la naturaleza de los actos o contratos materia del presente capítulo y con los efectos que las inscripciones producen.
+ART. 2957.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
 
 ## ARTICULOS TRANSITORIOS
 
@@ -11180,3 +10794,23 @@ P.O. 19 DE MAYO DE 2012.
 P.O. 2 DE JUNIO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 25 DE AGOSTO DE 2012.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Se deroga el Título Segundo, de la Tercera Parte, del Libro Cuarto, del Código Civil para el Estado de Colima; la Ley de Catastro del Estado de Colima, publicada en el Decreto 87, el 19 de septiembre de 1992, en el Periódico Oficial "El Estado de Colima". Así como todas las disposiciones legales y administrativas que se opongan al presente Decreto.
+
+TERCERO.- El Consejo Directivo se integrará y sesionará por primera vez dentro de los cuarenta y cinco días naturales siguientes a la entrada en vigor del presente ordenamiento.
+
+CUARTO.- En un término no mayor a ciento ochenta días naturales, contados a partir de la entrada en vigor de la presente Ley, deberá expedirse el Reglamento de la presente Ley.
+
+Entre tanto, el Consejo Directivo aprobará en una sesión extraordinaria que celebre de inmediato, las normas reglamentarias provisionales que regularán el ejercicio de las atribuciones del Instituto.
+
+QUINTO.- Se faculta a la Secretaría de Finanzas y Administración, para la creación de una partida específica en el Presupuesto de Egresos del Gobierno del Estado para el ejercicio fiscal del año 2012, destinada a cubrir los requerimientos administrativos del Instituto, en los términos de la presente Ley.
+
+Los recursos humanos, materiales y financieros con los que venía operando la Dirección General del Registro Público de la Propiedad y del Comercio, dependiente de la Secretaría General de Gobierno, y la Dirección de Catastro, así como el equipo de trabajo que viene realizando actividades geodésicas para el Registro del Territorio, dependientes de la Secretaría de Finanzas y Administración, se transferirán al Instituto en los términos que establezcan en sus respectivos ámbitos de competencia.
+
+SEXTO.- Cuando en el procedimiento de captura de los asientos que obren en las oficinas del Instituto para cubrir el procedimiento de automatización o en cualquier otro caso se detecte la ausencia de asientos registrales o documentos de duplicados, el Instituto podrá proceder a su reposición a petición de parte interesada.
+
+SÉPTIMO.- Las normas que en su contenido se refieran al Registro Público de la Propiedad y del Comercio, se entenderá que son aplicables para el INSTITUTO PARA EL REGISTRO DEL TERRITORIO, en tanto se realice la armonización correspondiente.
