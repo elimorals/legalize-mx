@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2012-07-31"
+last_updated: "2012-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2012.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -37,9 +37,11 @@ LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSI
 
 ### CAPITULO UNICO
 
-###### ARTICULO 1º.
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
 
-La presente Ley regula el ejercicio del derecho a la protección de la salud, en los términos del artículo 4º. de la Constitución Política de los Estados Unidos Mexicanos, y de la Ley General de Salud, la cual establece las bases y modalidades para el acceso a los servicios de salud proporcionados por el estado, así como la concurrencia de éste y sus municipios en materia de salubridad local. Sus disposiciones son de orden público e interés social, y de observancia obligatoria en el Estado de San Luis Potosí.
+###### ARTICULO 1°.
+
+La presente Ley regula el ejercicio del derecho a la salud que se fundamenta en los principios de, igualdad entre mujeres y hombres; no discriminación, y respeto a la dignidad y libertad de las personas. Lo anterior, en los términos del artículo 4°. de la Constitución Política de los Estados Unidos Mexicanos; y de la Ley General de Salud, la cual establece las bases y modalidades para el acceso a los servicios de salud proporcionados por el estado; así como la concurrencia de éste y sus municipios en materia de salubridad local. Sus disposiciones son de orden público e interés social, y de observancia obligatoria en el Estado de San Luis Potosí.
 
 ###### ARTICULO 2º.
 
@@ -91,7 +93,9 @@ III. Cuidados básicos: la higiene, alimentación e hidratación y, en su caso, 
 
 IV. Cuidados paliativos: son los cuidados activos y totales relacionados con el control del dolor y de otros síntomas, proporcionados a las personas en fase terminal que no respondan a tratamientos curativos. Así como la atención de aspectos psicológicos, sociales y espirituales;
 
-V. Derecho a la protección social en salud: el mecanismo por el cual el estado garantiza el acceso efectivo, oportuno, de calidad, sin desembolso al momento de su utilización, y sin discriminación, a los servicios médico quirúrgicos, farmacéuticos y hospitalarios, que satisfagan de manera integral las necesidades en salud;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+V. Derecho a la protección social en salud: el mecanismo por el cual el estado garantiza el acceso efectivo, oportuno, de calidad, con perspectiva y equidad de género, sin desembolso al momento de su utilización y sin discriminación de ningún tipo a los servicios medicoquirúrgicos, farmacéutico y hospitalario, que satisfagan de manera integral las necesidades en salud;
 
 VI. Estado de fase terminal: todo padecimiento reconocido, irreversible, progresivo e incurable que se encuentra en estado avanzado, y cuyo pronóstico de vida para la persona sea menor a seis meses;
 
@@ -129,43 +133,73 @@ En los términos de la Ley General de Salud, y de la presente Ley, corresponde a
 
 A. En materia de salubridad general:
 
-I. La atención médica, preferentemente en beneficio de grupos vulnerables;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
 
-II. La atención materno-infantil;
+I. La atención médica, expedita y de calidad, preferentemente en beneficio de grupos vulnerables, de las niñas y niños maltratados, personas con discapacidad, adultas mayores, así como de las mujeres víctimas de violencia de género y de las víctimas de trata de personas;
 
-III. La prestación de servicios de planificación familiar, y la salud reproductiva;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
 
-IV. La salud mental;
+II. La atención médica ginecológica a todas las mujeres, en especial a las que solicitan servicios de prevención de embarazos, a las embarazadas, a las parturientas, a las mujeres con embarazos de riesgo, así como atención prenatal a las y los recién nacidos, y cuidados intensivos a prematuros o por enfermedades congénitas;
 
-V. Donación y trasplantes;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
 
-VI. La organización, coordinación y vigilancia del ejercicio de las actividades profesionales, técnicas y auxiliares para la salud;
+III. La atención e información sobre el ejercicio responsable de la sexualidad y reproducción humanas, métodos anticonceptivos, planificación familiar desde sexto año de primaria, y en las clínicas y hospitales de todos los niveles;
 
-VII. La promoción de la formación de recursos humanos para la salud;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+IV. Los servicios integrales de salud mental;
+
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+V. La institucionalización de campañas de donación y trasplantes de órganos, y controlar los servicios de atención médica en este rubro;
+
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+VI. La organización, coordinación y vigilancia del ejercicio de las actividades profesionales, técnicas y auxiliares para la salud. El Estado garantizará que estos servicios sean proporcionados con pleno respeto a los derechos humanos y a los principios de igualdad entre mujeres y hombres;
+
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+VII. La promoción de la formación de recursos humanos para la salud con especial énfasis en su preparación para atender a las personas usuarias con perspectiva de género, respeto a su dignidad y derechos humanos, así como la detección del maltrato infantil y la violencia de género;
 
 VIII. La coordinación de la investigación para la salud, y el control de ésta en los seres humanos;
 
 IX. La información relativa a las condiciones, recursos y servicios de salud;
 
-X. La educación para la salud;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
 
-XI. La orientación y vigilancia en materia de nutrición;
+X. La educación para la salud incluyendo salud sexual y reproductiva; así como medidas para la prevención del maltrato infantil y de la violencia de género;
 
-XII. La prevención y el control de los efectos nocivos de los factores ambientales en la salud del hombre;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
 
-XIII. La prevención y el control de las enfermedades transmisibles;
+XI. La orientación y vigilancia a madres y padres, tutoras o tutores, profesoras y profesores o personas que se encarguen del cuidado de las niñas y los niños en materia de nutrición;
+
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+XII. La prevención y el control de los efectos nocivos de los factores ambientales en la salud de mujeres y hombres, fomentando el cuidado y la preservación de los recursos naturales y el ambiente sano libre de contaminación;
+
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+XIII. La prevención y el control de las enfermedades transmisibles, para lo cual se deberá proporcionar información científica y recursos, especialmente a las y los jóvenes que inician su vida sexual, para el cuidado de su cuerpo;
 
 XIV. La prevención y el control de las enfermedades no transmisibles y accidentes;
 
 XV. La prevención y el control de las enfermedades bucodentales;
 
-XVI. La prevención de la invalidez y la rehabilitación de la discapacidad;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+XVI. La prevención, asistencia y rehabilitación de personas que sufren invalidez, discapacidad, así como la violencia familiar, violencia de género o son víctimas de trata; prostitución forzada o pornografía infantil;
+
+> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+XVI BIS. La expedición de normas legales, así como tomar las medidas presupuestales y administrativas correspondientes, para garantizar la coordinación con las demás dependencias públicas del Estado, en la prevención de la violencia de género;
 
 XVII. La asistencia social;
 
 XVIII. Participar con las autoridades federales, estatales, municipales y sectores sociales del Estado, en el desarrollo de los programas contra el alcoholismo, el tabaquismo y la fármaco dependencia, de conformidad con el acuerdo de coordinación específico que al efecto se celebre;
 
-XIX. La protección social en salud;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+XIX. La protección social en salud con perspectiva de género;
 
 XX. La salud ocupacional y el saneamiento básico;
 
@@ -237,11 +271,15 @@ El Sistema Estatal de Salud, con la intervención que corresponda al Comité de 
 
 El Sistema Estatal de Salud tiene los siguientes objetivos:
 
-I. Proporcionar servicios de salud a la población del Estado, con oportunidad y calidad, otorgando prioridad a los problemas sanitarios y a los factores que condicionen y causen daños a la salud, con especial énfasis en las acciones preventivas;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+I. Proporcionar, con perspectiva de género, servicios de salud a la población del Estado, con oportunidad y calidad, otorgando prioridad a los problemas sanitarios y a los factores que condicionen y causen daños a la salud, con especial énfasis en las acciones preventivas como la detección temprana;
 
 II. Contribuir al desarrollo demográfico armónico del Estado;
 
-III. Colaborar al bienestar de la población del Estado mediante servicios de asistencia social, principalmente a menores en estado de abandono, ancianos, desamparados y discapacitados, para fomentar su bienestar y propiciar su incorporación a una vida equilibrada en lo económico y social;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+III. Colaborar al bienestar de la población del Estado, mediante servicios de asistencia social, que permitan detectar a personas menores de edad en estado de abandono, personas adultas mayores víctimas de maltrato, personas con discapacidad, así como a víctimas de violencia de género, para fomentar su acceso a la alimentación y bienestar, y propiciar su incorporación a una vida equilibrada en lo económico y social, fomentando un entorno familiar sano;
 
 IV. Dar impulso al desarrollo de la familia y de la comunidad, así como a la integración social y al crecimiento físico y mental de la niñez;
 
@@ -249,7 +287,9 @@ V. Apoyar el mejoramiento de las condiciones sanitarias del medio ambiente para 
 
 VI. Impulsar en el ámbito estatal, un sistema racional de administración y desarrollo de los recursos humanos para mejorar la salud;
 
-VII. Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud, y con el uso de los servicios que presten para su protección, y
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+VII. Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud, la equidad de género, la no discriminación, y el uso de los servicios que se presten para su protección, y
 
 VIII. Promover un sistema de fomento sanitario que coadyuve al desarrollo de productos y servicios, que no sean nocivos para la salud.
 
@@ -277,7 +317,9 @@ IX. Impulsar en el ámbito estatal, las actividades científicas y tecnológicas
 
 X. Colaborar con las dependencias federales competentes, a la regulación y control de la transferencia de tecnología en el área de salud;
 
-XI. Apoyar la coordinación entre las instituciones de salud, públicas, sociales y privadas, las educativas, estatales y federales, para formar y capacitar a los recursos humanos para la salud;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+XI. Apoyar la coordinación entre las instituciones de salud, públicas, sociales y privadas, las educativas, estatales y federales, para formar y capacitar con perspectiva de género, a los recursos humanos para la salud;
 
 XII. Contribuir a que la formación y distribución de los recursos humanos para la salud, sea congruente con las prioridades del Sistema Estatal de Salud;
 
@@ -287,9 +329,11 @@ XIV. Impulsar la permanente actualización de las disposiciones legales en mater
 
 XV. Las demás atribuciones afines a las anteriores que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
 
-###### ARTICULO 9º.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2012)</small>
 
-La Secretaría de Salud del Estado promoverá la participación en el Sistema Estatal de Salud, de los prestadores de servicios de salud de los sectores público, social y privado, así como de sus trabajadores y de los usuarios de los mismos, en los términos de las disposiciones que al efecto se expidan.
+###### ARTICULO 9°.
+
+La Secretaría de Salud del Estado promoverá la participación en el Sistema Estatal de Salud, de las y los prestadores de servicios de salud de los sectores público, social y privado, así como de sus trabajadoras y trabajadores y de las personas usuarias de los mismos, en los términos de las disposiciones que al efecto se expidan.
 
 Asimismo, fomentará la coordinación con los proveedores de insumos para la salud, a fin de racionalizar y procurar la disponibilidad de éstos últimos.
 
@@ -371,21 +415,33 @@ La Secretaría de Salud del Estado podrá celebrar convenios con los gobiernos d
 
 Corresponde a los Servicios de Salud de San Luis Potosí, en materia de salubridad general:
 
-I. La atención médica, preferentemente en beneficio de grupos vulnerables;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
 
-II. La atención materno-infantil;
+I. La atención médica, expedita y de calidad, preferentemente en beneficio de grupos vulnerables, de niñas y niños maltratados, personas con discapacidad, personas adultas mayores, así como víctimas de violencia de género y de trata de personas;
 
-III. La prestación de servicios de planificación familiar y la salud reproductiva;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
 
-IV. La prevención y el control de los efectos nocivos de los factores ambientales en la salud del hombre;
+II. La atención médica ginecológica a todas las mujeres, en especial a las que solicitan servicios de prevención de embarazos, a las embarazadas, a las parturientas, a las mujeres con embarazos de riesgo, así como atención prenatal, al recién nacido y su cuidado intensivo a prematuros o de enfermedades congénitas;
 
-V. La prevención y el control de las enfermedades transmisibles;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+III. La información sobre el ejercicio responsable de la sexualidad y la salud reproductiva, métodos anticonceptivos, planificación familiar desde sexto año de primaria, y en las clínicas y hospitales de todos los niveles;
+
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+IV. La prevención y el control de los efectos nocivos de los factores ambientales en la salud de mujeres y hombres, fomentando el cuidado y la preservación de los recursos naturales y el ambiente sano libre de contaminación;
+
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+V. La prevención y el control de las enfermedades transmisibles para lo cual se deberá proporcionar información científica y recursos, especialmente a las y los jóvenes que inician su vida sexual, para el cuidado de su cuerpo;
 
 VI. La prevención y el control de las enfermedades no transmisibles y accidentes;
 
 VII. La prevención y el control de las enfermedades bucodentales;
 
-VIII. La prevención de la invalidez y la rehabilitación de la discapacidad;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+VIII. La prevención, asistencia y rehabilitación de personas con discapacidad o víctimas de violencia;
 
 IX. La asistencia social;
 
@@ -411,9 +467,15 @@ II. Verifiquen la calidad del agua para uso y consumo humano, de conformidad con
 
 III. Formulen y desarrollen programas municipales de salud, en el marco del Sistema Nacional y Estatal de Salud;
 
-IV. Vigilen y hagan cumplir en la esfera de su competencia los ordenamientos legales correspondientes en materia de salud, y
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
 
-V. Las demás que esta Ley y sus reglamentos les confieran.
+IV. Vigilen y hagan cumplir en la esfera de su competencia, los ordenamientos legales correspondientes en materia de salud;
+
+> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+V. Establezcan programas tendientes a erradicar la violencia y discriminación de género en los ámbitos, familiares, públicos, sociales y privados, y
+
+VI. Las demás que esta Ley y sus reglamentos les confieran.
 
 ###### ARTICULO 16.
 
@@ -451,13 +513,15 @@ Los ayuntamientos del Estado, en el ámbito de su competencia, podrán celebrar 
 
 ### CAPITULO I. Disposiciones Comunes
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
+
 ## TITULO TERCERO. PRESTACION DE LOS SERVICIOS DE SALUD
 
 ### CAPITULO II. Atención Médica
 
 ###### ARTICULO 21.
 
-Se entenderán por servicios de salud, todas aquellas acciones que se realicen con el fin de proteger, promover y restaurar la salud de los individuos y de la colectividad.
+Se entenderán por servicios de salud, todas aquellas acciones que se realicen con el fin de prevenir, proteger, promover y restaurar la salud de las personas y de la colectividad.
 
 ###### ARTICULO 22.
 
@@ -469,9 +533,35 @@ II. De salud pública, y
 
 III. De asistencia social.
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 23.
 
-Conforme a las prioridades del Sistema Estatal de Salud, se implementará la extensión cuantitativa y cualitativa de los servicios de salud, preferentemente a los grupos vulnerables. Se entiende como grupos vulnerables los establecidos por el artículo 6º. de la Ley de Asistencia Social para el Estado y Municipios de San Luis Potosí.
+Conforme a las prioridades establecidas del Sistema Estatal de Salud, se implementará la extensión cuantitativa y cualitativa de los servicios de salud, preferentemente a los grupos vulnerables.
+
+Se entiende por grupos vulnerables los integrados por las siguientes personas:
+
+I. Personas menores de edad en estado de abandono, desamparo, desnutrición, o sujetas a maltrato;
+
+II. Niñas y niños en conflicto con la ley penal, en cuanto a su readaptación e incorporación a la sociedad y sin menoscabo de lo que establezca la legislación penal o los reglamentos aplicables;
+
+III. Mujeres en periodo de gestación o lactancia;
+
+IV. Personas adultas mayores de sesenta años de edad en desamparo, discapacidad, marginación o sujetos a maltrato;
+
+V. Personas con discapacidad;
+
+VI. Personas en estado de indigencia;
+
+VII. Personas víctimas de la comisión de delitos en estado de abandono;
+
+VIII. Familiares que dependen económicamente de quienes se encuentren detenidos por causas penales y que queden en estado de abandono;
+
+IX. Personas en condiciones de pobreza y marginación;
+
+X. Personas afectadas por desastres naturales, y
+
+XI. Mujeres víctimas de violencia de género.
 
 ###### ARTICULO 24.
 
@@ -491,7 +581,9 @@ III. La atención médica, que comprende actividades preventivas, curativas, cui
 
 IV. La atención materno-infantil;
 
-V. La planificación familiar y la salud reproductiva;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+V. La planificación familiar, la salud sexual y reproductiva, así como la promoción del mejoramiento y desarrollo sano de las familias;
 
 > <small>(REFORMADA, P.O. 30 DE JULIO DE 2009)</small>
 
@@ -505,7 +597,9 @@ IX. La promoción del mejoramiento de la nutrición;
 
 X. La asistencia social a los grupos más vulnerables;
 
-XI. La atención de las víctimas de violencia familiar y de abandono, y
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+XI. La atención y asistencia a personas victimas de violencia, y
 
 XII. Los demás que establezca esta Ley o disposiciones legales aplicables.
 
@@ -519,7 +613,9 @@ Asimismo, convendrán con el gobierno Federal, los términos en que las dependen
 
 La Secretaría de Salud del Estado coadyuvará con las autoridades federales competentes para:
 
-I. Que se garantice a la población del Estado la disponibilidad de medicamentos básicos, y
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+I. Que se garantice a la población del Estado la atención y asistencia de la salud con perspectiva de género, no discriminación, y la disponibilidad de medicamentos básicos, y
 
 II. Que los establecimientos de los sectores públicos, social y privado dedicados al expendio de medicamentos y a la provisión de insumos para su elaboración, se ajusten a los preceptos legales aplicables.
 
@@ -547,7 +643,9 @@ Los profesionales a que se refiere el presente artículo deberán contar con cé
 
 Las actividades de atención médica son:
 
-I. Preventivas, que incluyen las de promoción general y las de protección específica;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+I. Preventivas, que incluyen las de educación, promoción general y las de protección específica;
 
 > <small>(REFORMADA, P.O. 7 DE JULIO DE 2009)</small>
 
@@ -560,6 +658,8 @@ III. Cuidados paliativos, y
 IV. De rehabilitación, que incluyen acciones tendientes a corregir las minusvalías físicas y mentales.
 
 ### CAPITULO IV. Usuarios de los Servicios de Salud y Participación de la Comunidad
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
 
 ### CAPITULO V. Atención Materno-Infantil
 
@@ -577,9 +677,11 @@ III. Servicios sociales y privados, sea cual fuere la forma en que se contraten,
 
 IV. Otros que se presten de conformidad con lo que establezca el Ejecutivo del Estado.
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 30.
 
-Son servicios a la población en general, los que se prestan en establecimientos públicos de salud a las personas que así lo requieran, regidos por criterios de universalidad y de equidad, fundada en las condiciones socioeconómicas de los usuarios.
+Son servicios a la población en general, los que se prestan en establecimientos públicos de salud a las personas que así lo requieran, regidos por criterios de perspectiva de género, no discriminación, universalidad y de equidad, fundada en las condiciones socioeconómicas de las personas usuarias.
 
 ###### ARTICULO 31.
 
@@ -605,9 +707,11 @@ Los trabajadores de los establecimientos estatales de salud podrán participar e
 
 La Secretaría de Salud del Estado y los ayuntamientos, podrán convenir con las instituciones federales de seguridad social, la prestación de servicios de salud para sus trabajadores.
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 36.
 
-La Secretaría de Salud del Estado en el ámbito de su respectiva competencia, y en coordinación con las autoridades educativas, vigilarán el ejercicio de los profesionales, técnicos y auxiliares de la salud, en la prestación de los servicios.
+La Secretaría de Salud del Estado, en el ámbito de su respectiva competencia, y en coordinación con las autoridades educativas, capacitarán y vigilarán el ejercicio de profesionales, técnicos y auxiliares de la salud, para que la prestación de los servicios se proporcione con perspectiva de género, no discriminación y de acuerdo a la NOM-046-SSA2- 2005, Violencia familiar, sexual y contra las mujeres. Criterios para la prevención y atención; y de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia cuando se trate de atención y tratamiento a víctimas de violencia de género.
 
 ###### ARTICULO 37.
 
@@ -615,13 +719,17 @@ Los Servicios de Salud en el Estado coadyuvarán con las autoridades educativas 
 
 ### CAPITULO VI. Servicios de Salud Reproductiva
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 38.
 
-Para los efectos de esta Ley se considera usuario de servicios de salud, a toda persona que requiera y obtenga los servicios que presten los sectores público, social y privado, en las condiciones y conforme a las bases que para cada modalidad se establezcan en esta Ley y demás disposiciones aplicables.
+Para los efectos de esta Ley se considera usuaria o usuario de servicios de salud, toda persona que requiera y obtenga los servicios que presten los sectores, público, social y privado, en las condiciones y conforme a las bases que para cada modalidad se establezcan en este Ordenamiento y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 39.
 
-Los usuarios tendrán derecho a obtener prestaciones de salud oportunas, de calidad, y a recibir atención profesional éticamente responsable, así como trato respetuoso y digno de los profesionales, técnicos y auxiliares.
+Las personas usuarias tendrán derecho a obtener prestaciones de salud oportunas, con perspectiva de género, sin discriminación, de calidad, ya recibir atención profesional éticamente responsable, así como trato respetuoso y digno de los profesionales, técnicos y auxiliares.
 
 ###### ARTICULO 40.
 
@@ -635,11 +743,13 @@ La Secretaría de Salud del Estado establecerá los procedimientos, para regular
 
 La Secretaría de Salud del Estado y las propias instituciones de salud, establecerán sistemas de orientación y asesoría a los usuarios sobre el buen uso de los servicios de salud que requieran.
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 43.
 
-Las personas o instituciones públicas o privadas que tengan conocimiento de accidentes, o de alguna persona que requiera de la prestación urgente de servicios de salud, cuidarán por los medios a su alcance, que las mismas sean trasladadas a los establecimientos de salud más cercanos.
+Las personas o instituciones públicas o privadas que tengan conocimiento de accidentes, violencia de género, o de alguna persona que requiera de la prestación urgente de servicios de salud, cuidarán por los medios a su alcance, que las mismas sean trasladadas a los establecimientos de salud más cercanos.
 
-Los establecimientos de salud señalados en el párrafo anterior, están obligados a proporcionar los servicios de urgencias a las personas que requieran emergentemente de sus servicios, sin perjuicio de que una vez estabilizados sean transferidos al servicio médico que les corresponda, o al que solicite el propio enfermo o sus familiares.
+Los establecimientos de salud señalados en el párrafo anterior, están obligados a proporcionar los servicios de urgencias a las personas que requieran emergentemente de éstos, sin perjuicio de que una vez estabilizadas sean transferidas al servicio médico que les corresponda, o al que solicite la persona enferma o sus familiares.
 
 ###### ARTICULO 44.
 
@@ -655,13 +765,17 @@ La Secretaría de Salud del Estado dictará los lineamientos respectivos, para l
 
 Asimismo, los Servicios de Salud promoverán la participación de la sociedad en favor de la salud, a través de las siguientes acciones:
 
-I. La promoción de hábitos de conductas que contribuyan a proteger y solucionar problemas de salud, en su intervención en programas de promoción y mejoramiento de salud, y de prevención de enfermedades y accidentes;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+I. La promoción de hábitos de conductas que contribuyan a proteger y solucionar problemas de salud en su intervención en programas de promoción y mejoramiento de salud, de prevención de enfermedades y accidentes que también fomenten la eliminación de estereotipos socioculturales misóginos, de violencia en contra de las mujeres, violencia en la comunidad, y de discriminación de género;
 
 II. Colaboración en la prevención o tratamiento de problemas ambientales vinculados a la salud;
 
 III. Incorporación como auxiliares voluntarios, en la realización de tareas simples de atención médica y asistencia social, y participación en determinadas actividades de operación de los servicios de salud, bajo la dirección y control de las autoridades correspondientes;
 
-IV. Notificación de la existencia de personas que requieran de servicios de salud, cuando se encuentren impedidas de solicitar auxilio por sí mismas;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+IV. Notificación de la existencia de personas que sufran violencia de género o que requieran de servicios de salud, cuando se encuentren impedidas de solicitar auxilio por sí mismas;
 
 V. Formulación de sugerencias para mejorar los servicios de salud;
 
@@ -669,9 +783,11 @@ VI. Información a las autoridades competentes de las irregularidades o deficien
 
 VII. Otras actividades que coadyuven a la protección de la salud.
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 47.
 
-Los Servicios de Salud promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente, en los programas de promoción y mejoramiento de la salud individual o colectiva, así como en los de prevención de enfermedades, accidentes, invalidez, maltrato infantil o violencia familiar y de rehabilitación de discapacitados.
+Los Servicios de Salud promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente, en los programas de promoción y mejoramiento de la salud individual o colectiva, así como en los de prevención de enfermedades, accidentes, discapacidad y su rehabilitación, maltrato infantil y violencia.
 
 ###### ARTICULO 48.
 
@@ -681,15 +797,19 @@ Para los efectos del artículo anterior, en las cabeceras municipales se podrán
 
 Los ayuntamientos con sujeción en las disposiciones legales aplicables, en coordinación con los Servicios de Salud y las autoridades educativas competentes, tendrán la responsabilidad de organizar los Comités de Salud a que se refiere el artículo anterior, y de que cumplan los fines para los que sean creados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 50.
 
-La Secretaría de Salud del Estado promoverá el ejercicio de la acción popular para que se presenten las quejas, reclamaciones y sugerencias respecto a la prestación de los servicios de salud, y con relación a la falta de probidad, en su caso, de los servidores públicos.
+La Secretaría de Salud del Estado promoverá el ejercicio de la acción popular para que se presenten las quejas, reclamaciones y sugerencias respecto a la prestación de los servicios de salud, violencia institucional, discriminación, y con relación a la falta de probidad, en su caso, de las y los servidores públicos.
 
 Todas las personas podrán denunciar ante las autoridades sanitarias del Estado todo hecho, acto u omisión, que represente un riesgo o provoque un daño a la salud de la población.
 
 Para que tal denuncia pueda tener curso legal, bastará el señalamiento de los datos que permitan localizar la causa del riesgo.
 
 ### CAPITULO VII. Salud Mental
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 51.
 
@@ -743,19 +863,31 @@ IV. Acciones para implementar programas de estimulación temprana en el primer n
 
 Las autoridades sanitarias estatales, educativas y laborales, en sus respectivos ámbitos de competencia, apoyarán y fomentarán:
 
-I. Los programas para padres, destinados a promover la atención materno-infantil;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+I. Los programas para madres y padres, destinados a promover la atención materno-infantil;
 
 II. Las actividades recreativas de esparcimiento y culturales destinadas a fortalecer el núcleo familiar, así como promover la salud física y mental de sus integrantes;
 
-III. La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de los menores y de las mujeres embarazadas;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
 
-IV. Acciones relacionadas con educación básica, alfabetización de adultos, accesos al agua potable y medios sanitarios de eliminación de excreta, y
+III. La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de las personas menores de edad, y de las mujeres embarazadas;
 
-V. Las demás que coadyuven a la salud materno-infantil.
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+IV. Acciones relacionadas con educación básica, alfabetización de adultos, accesos al agua potable y medios sanitarios de eliminación de excreta;
+
+> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+V. Programas y acciones tendientes a incorporar la perspectiva de género dentro de la sociedad, así como a combatir la violencia en contra de las personas, y
+
+VI. Las demás que coadyuven a la salud materno-infantil.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 56.
 
-En materia de higiene escolar corresponde a la Secretaría de Salud del Estado, establecer las normas técnicas, reglamentos, lineamientos y demás disposiciones legales para proteger la salud del educando y de la comunidad escolar de los centros educativos dependientes del Estado. Las autoridades educativas y sanitarias estatales se coordinarán para la aplicación de las mismas.
+En materia de higiene escolar corresponde a la Secretaría de Salud del Estado, establecer las normas técnicas, reglamentos, lineamientos y demás disposiciones legales para proteger la salud de las y los educandos, y de la comunidad escolar de los centros educativos dependientes del Estado; las disposiciones aludidas deben incluir información sobre el ejercicio responsable de la sexualidad, salud reproductivos, así como medidas para la prevención del maltrato infantil y de la violencia de género contra las mujeres. Las autoridades educativas y sanitarias estatales se coordinarán para la aplicación de las mismas.
 
 La prestación de servicios de salud a los escolares se efectuará de conformidad con las bases de coordinación, que se establezcan entre las autoridades sanitarias estatales y educativas competentes.
 
@@ -763,11 +895,11 @@ La prestación de servicios de salud a los escolares se efectuará de conformida
 
 ###### ARTICULO 57.
 
-La planificación familiar tiene carácter prioritario; en sus actividades se debe incluir la orientación educativa para los adolescentes, los jóvenes y los adultos, mediante una correcta información oportuna, eficaz y completa.
+La planificación familiar tiene carácter prioritario; en sus actividades se debe incluir la orientación educativa para las personas adolescentes, jóvenes y adultas, mediante una correcta información oportuna, eficaz y completa.
 
-Los servicios que se prestan en la materia constituyen un medio para el ejercicio del derecho al que tienen hombres y mujeres, de decidir de manera libre, responsable e informada sobre el número y espaciamiento de los hijos, con pleno respeto a su dignidad.
+Los servicios que se prestan en la materia constituyen un medio para el ejercicio del derecho al que tienen hombres y mujeres por igual, de decidir de manera libre, responsable e informada sobre el número y espaciamiento de las hijas e hijos, con pleno respeto a su libertad y dignidad.
 
-Quienes practiquen esterilización sin la voluntad del paciente o ejerzan presión para que éste la admita, serán sancionados conforme a las disposiciones de esta Ley, independientemente de la responsabilidad penal en que incurran.
+Quienes practiquen esterilización sin la voluntad de la o el paciente, o ejerzan presión para que la admitan, serán sancionados conforme a las disposiciones de esta Ley, independientemente de la responsabilidad penal en que incurran.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -843,13 +975,11 @@ ARTICULO 67 TER. La Secretaría de Salud, y los municipios del Estado, garantiza
 
 La Secretaría de Salud del Estado establecerá un programa de conocimiento, investigación y registro de plantas medicinales que se utilicen en la medicina tradicional, a fin de contar con elementos que permitan evaluar su viabilidad o inocuidad y, en su caso, proscribir el uso de aquéllas que se compruebe de manera científica, que deterioran la salud de los usuarios.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+ARTICULO 67 QUATER. La Secretaría de Salud del Estado establecerá los programas que permitan que las personas integrantes de los pueblos y comunidades indígenas de la Entidad, accedan de forma efectiva a los servicios de salud, que serán otorgados con perspectiva de género, respeto, libertad y dignidad hacia las personas usuarias según lo establece y garantiza la presente Ley; asimismo, implementará mecanismos para que pueda aprovecharse la medicina tradicional, apoyando las propuestas que en esta materia promuevan las comunidades indígenas, a través de sus representantes y autoridades propias.
 
-ARTICULO 67 QUATER. La Secretaría de Salud del Estado establecerá los programas que permitan que las personas integrantes de los pueblos y comunidades indígenas de la Entidad, accedan de forma efectiva a los servicios de salud que establece la presente Ley; asimismo, implementará mecanismos para que pueda aprovecharse la medicina tradicional, apoyando las propuestas que en esta materia promuevan las comunidades indígenas, a través de sus representantes y autoridades propias.
-
-En los hospitales generales y regionales del Estado que traten población indígena, deberá haber dentro del área de trabajo social, cuando menos un traductor de las lenguas náhuatl, tenek y xi'oi, conforme a la población indígena que se atienda, a fin de que los indígenas, que no hablen suficientemente el español, puedan recibir la atención que requieren de manera óptima.
+En los hospitales generales y regionales del Estado que traten población indígena, deberá haber dentro del área de trabajo social, cuando menos una persona traductora de las lenguas náhuatl, tenek y xi' oi, conforme a la población indígena que se atienda, a fin de que las personas indígenas que no hablen suficientemente el español, puedan recibir de manera óptima la atención que requieren.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -857,7 +987,9 @@ En los hospitales generales y regionales del Estado que traten población indíg
 
 ARTICULO 67 QUINQUE (SIC). El Estado promoverá acciones conjuntas con las comunidades indígenas, para el desarrollo de los conocimientos tradicionales de medicina y herbolaria. Asimismo, fortalecerá los procesos organizativos para preservar y difundir las prácticas de la medicina tradicional indígena, y propiciar una interrelación entre ésta y la medicina alópata
 
-Las autoridades comunitarias participarán como coadyuvantes en las campañas de salud, vacunación y aquéllas referidas a la atención preventiva de la salud y, en su caso, en las acciones normativas frente a la aparición de epidemias o pandemias.
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
+
+Las autoridades comunitarias participarán como coadyuvantes en las campañas de salud, y de vacunación; así como las tendientes a erradicar la violencia en contra de las mujeres; y aquéllas referidas a la atención preventiva de la salud y, en su caso, en las acciones normativas frente a la aparición de epidemias o pandemias.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -871,7 +1003,7 @@ El sector salud promoverá asimismo, cursos, talleres y diplomados con valor cur
 
 ###### ARTICULO 61.
 
-La prevención de las enfermedades mentales tiene carácter prioritario. Se basará en el conocimiento de los factores que afectan la salud mental, las causas de las alteraciones de la conducta, los métodos de prevención y control de las enfermedades mentales, así como otros aspectos relacionados con la salud mental; con énfasis se prestará principal atención a la prevención de la violencia familiar.
+La prevención de las enfermedades mentales tiene carácter prioritario. Se basará en el conocimiento de los factores que afectan la salud mental, las causas de las alteraciones de la conducta, los métodos de prevención, atención y control integral de las enfermedades mentales, así como otros aspectos relacionados con la salud mental; con énfasis se prestará principal atención a la prevención de la violencia.
 
 ###### ARTICULO 62.
 
@@ -891,31 +1023,33 @@ IV. La realización de programas de detección temprana de padecimientos mentale
 
 V. Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población.
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 63.
 
-La atención de las enfermedades mentales comprende:
+La atención de las enfermedades mentales comprende la rehabilitación de:
 
-> <small>(REFORMADA, P.O. 30 DE JULIO DE 2009)</small>
+I. Personas enfermas mentales crónicas;
 
-I. La atención de personas con padecimientos mentales, la rehabilitación psiquiátrica de enfermos mentales crónicos, deficientes mentales, alcohólicos, y personas que usen habitualmente estupefacientes o substancias psicotrópicas;
+II. Persona con deficiencias mentales;
 
-> <small>(REFORMADA, P.O. 30 DE JULIO DE 2009)</small>
+III. Personas alcohólicas, o que utilicen habitualmente estupefacientes o substancias psicotrópicas, y
 
-II. La organización, operación y supervisión de instituciones dedicadas al estudio, tratamiento y rehabilitación de enfermos mentales, y
+IV. La organización, operación y supervisión de instituciones dedicadas al estudio, tratamiento y rehabilitación de personas enfermas mentales.
 
-> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2009)</small>
-
-III. El fortalecimiento de la atención permanente y la urgencia en crisis.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 64.
 
-Los padres, tutores o quienes ejerzan la patria potestad de menores, los responsables de su guarda, las autoridades educativas y cualquier persona que esté en contacto con los mismos, procurarán la atención inmediata de los menores que presenten alteraciones de conducta que permitan suponer la existencia de enfermedades mentales.
+Las madres, padres, tutores y autoridades educativas y cualquier persona que esté en contacto con personas menores de edad, procurarán la atención inmediata de éstas, cuando presenten alteraciones de conducta que permitan suponer la existencia de enfermedades mentales. A tal efecto, podrán obtener orientación y asesoramiento en las instituciones públicas dedicadas a la atención de enfermedades mentales.
 
 A tal efecto, podrán obtener orientación y asesoramiento en las instituciones públicas dedicadas a la atención de enfermos mentales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 65.
 
-Los Servicios de Salud en el Estado, conforme a la normatividad que establezca la Secretaría de Salud del Estado, prestarán atención a los enfermos mentales que se encuentren en reclusorios del Estado o en otras instituciones estatales no especializadas en salud mental.
+Los Servicios de Salud en el Estado, conforme a la normatividad que establezca la Secretaría de Salud del Estado, prestarán con perspectiva de género atención a las personas enfermas mentales que se encuentren en reclusorios del Estado o en otras instituciones estatales no especializadas en salud mental.
 
 Para tal efecto, se establecerá la coordinación necesaria entre las autoridades sanitarias, judiciales, administrativas y otras, según corresponda.
 
@@ -942,6 +1076,8 @@ El Centro Estatal de Trasplantes trabajará coordinadamente con el Consejo Nacio
 ## TITULO QUINTO. INVESTIGACION PARA LA SALUD
 
 ### CAPITULO UNICO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 68.
 
@@ -985,6 +1121,8 @@ ARTICULO 71 TER. Para efectos de esta Ley entiéndase por inducir, consejo o ins
 
 ### CAPITULO I. Disposiciones Comunes
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 72.
 
 Todos los pasantes de las profesiones para la salud y sus ramas, deberán prestar el servicio social en los términos de las disposiciones legales aplicables en materia educativa y de esta Ley.
@@ -1005,9 +1143,11 @@ La prestación del servicio social de los pasantes de las profesiones para la sa
 
 Para los efectos del párrafo anterior el Ejecutivo del Estado, por conducto de la Secretaría de Salud del Estado, en coordinación con las instituciones educativas y de salud, definirán los mecanismos para que los pasantes participen en la organización y operación de los comités de salud a que alude el artículo 49 de esta Ley.
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 76.
 
-La Secretaría de Salud del Estado y las instituciones de educación superior, elaborarán programas de carácter social para los profesionales de la salud, en beneficio de la colectividad, de conformidad con las disposiciones legales aplicables al ejercicio profesional.
+La Secretaría de Salud del Estado, y las instituciones de educación superior, elaborarán programas de carácter social que incorporen la perspectiva de género para las personas profesionales de la salud, en beneficio de la colectividad, de conformidad con las disposiciones legales aplicables al ejercicio profesional.
 
 ### CAPITULO II. Educación para la Salud
 
@@ -1023,13 +1163,23 @@ La Secretaría de Salud del Estado, sin perjuicio de la competencia que sobre la
 
 Corresponde a la Secretaría de Salud del Estado, sin perjuicio de las atribuciones de las autoridades educativas en la materia, y en coordinación con éstas:
 
-I. Promover actividades tendientes a la formación, capacitación y actualización de los recursos humanos que se requieran, para la satisfacción de las necesidades del Estado en materia de salud;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+I. Promover actividades tendientes a la formación, capacitación y actualización con perspectiva de género de los recursos humanos que se requieran, para la satisfacción de las necesidades del Estado en materia de salud;
 
 II. Apoyar la creación de centros de capacitación y actualización de los recursos humanos para la salud;
 
-III. Otorgar facilidades para la enseñanza y adiestramiento en servicio dentro de los establecimientos de salud, a las instituciones que tengan por objeto la formación, capacitación o actualización de profesionales, técnicos y auxiliares de la salud, de conformidad con las normas que rijan el funcionamiento de los primeros, y
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
 
-IV. Promover la participación de profesionales, técnicos y auxiliares de la salud en actividades docentes o técnicas.
+III. Otorgar facilidades para la enseñanza y adiestramiento en servicio dentro de los establecimientos de salud, a las instituciones que tengan por objeto la formación, capacitación o actualización de profesionales, técnicos y auxiliares de la salud, de conformidad con las normas que rijan el funcionamiento de los primeros;
+
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+IV. Promover la participación de profesionales, técnicos y auxiliares de la salud en actividades de personas docentes o técnicas, y
+
+> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+V. Incluir cursos y adiestramientos sobre la formación con perspectiva de género, derechos humanos de las mujeres y los hombres, y la no discriminación.
 
 ###### ARTICULO 79.
 
@@ -1039,9 +1189,11 @@ I. Los requisitos para la apertura y funcionamiento de instituciones dedicadas a
 
 II. El perfil de los profesionales para la salud en sus etapas de formación.
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 80.
 
-La Secretaría de Salud del Estado, en coordinación con las autoridades federales, estatales y municipales competentes, impulsarán y fomentarán la formación, capacitación y actualización de los recursos humanos para los servicios de salud, de conformidad con los objetivos y prioridades de los sistemas Nacional y Estatal de Salud, de los programas educativos y de las necesidades de salud del Estado.
+La Secretaría de Salud del Estado, en coordinación con las autoridades federales, estatales y municipales competentes, impulsarán y fomentarán la formación con perspectiva de género, capacitación y actualización de los recursos humanos para los servicios de salud, de conformidad con los objetivos y prioridades de los sistemas Nacional y Estatal de Salud, de los programas educativos y de las necesidades de salud del Estado.
 
 ###### ARTICULO 81.
 
@@ -1053,15 +1205,19 @@ La operación de los programas correspondientes en los establecimientos de salud
 
 ### CAPITULO III. Nutrición
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 82.
 
-La investigación para la salud comprende el desarrollo de acciones que contribuyan:
+La investigación para la salud comprende el desarrollo con perspectiva de género de acciones que contribuyan:
 
 I. Al conocimiento de los procesos biológicos y psicológicos en los seres humanos;
 
 II. Al conocimiento de los vínculos entre las causas de enfermedad, la práctica médica y la estructura social;
 
-III. A la prevención y control de los problemas de salud que se consideren prioritarios para la población;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+III. A la prevención y control de los problemas de salud como la violencia de género, y los demás que se consideren prioritarios para la población;
 
 IV. Al conocimiento y control de los efectos nocivos del ambiente en la salud;
 
@@ -1073,23 +1229,35 @@ VI. A la producción nacional de insumos para la salud.
 
 La Secretaría de Salud del Estado apoyará y estimulará la promoción, constitución y el funcionamiento de establecimientos destinados a la investigación para la salud.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 84.
 
-La investigación en seres humanos se desarrollará conforme a las siguientes bases:
+La investigación en seres humanos se desarrollará con perspectiva de género y conforme a las siguientes bases:
 
 I. Deberá adaptarse a los principios científicos y éticos que justifican la investigación médica, especialmente en lo referente a su posible contribución a la solución de problemas de salud, y al desarrollo de nuevos campos de la ciencia médica;
 
 II. Podrá realizarse sólo cuando el conocimiento que se pretenda obtener no pueda lograrse por otro método idóneo;
 
-III. Podrá efectuarse sólo cuando exista una razonable seguridad de que no expone a riesgos, ni daños innecesarios al sujeto en experimentación;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
 
-IV. Se deberá contar con la aprobación de la Secretaría de Salud del Estado, con el consentimiento por escrito y la intervención de dos testigos consanguíneos del sujeto en quien se realizará la investigación, o de su representante legal en caso de incapacidad de aquél, una vez enterado de los objetivos de la experimentación y de las posibles consecuencias positivas o negativas para su salud;
+III. Podrá efectuarse sólo cuando exista una razonable seguridad de que no expone a riesgos, ni daños innecesarios a la persona en experimentación;
+
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+IV. Se deberá contar con la aprobación de la Secretaría de Salud del Estado, con el consentimiento por escrito y la intervención de dos testigos consanguíneos de la persona en quien se realizará la investigación, o de su representante legal en caso de incapacidad de aquélla, una vez enterado de los objetivos de la experimentación y de las posibles consecuencias positivas o negativas para su salud;
 
 V. Sólo podrá realizarse por profesionales de salud en instituciones médicas que cuenten con los medios técnicos para ello, y que actúen bajo la vigilancia de las autoridades sanitarias competentes;
 
-VI. El profesional responsable suspenderá la investigación en cualquier momento si sobreviene el riesgo de lesiones graves, invalidez o muerte del sujeto en quien se realice la investigación, y
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
 
-VII. Las demás que establezca esta Ley y la correspondiente reglamentación.
+VI. El o la profesional responsable suspenderá la investigación en cualquier momento si sobreviene el riesgo de lesiones graves, invalidez o muerte de la persona en quien se realice la investigación;
+
+> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+VII. No se podrá bajo ningún motivo, vulnerar la libertad, dignidad o derechos humanos de las personas en quienes se realizan las investigaciones, y
+
+VIII. Las demás que establezca esta Ley y la correspondiente reglamentación.
 
 ###### ARTICULO 85.
 
@@ -1113,7 +1281,9 @@ La Secretaría de Salud del Estado y de conformidad con la Ley de Información, 
 
 La información se referirá fundamentalmente a los siguientes aspectos:
 
-I. Estadísticas de natalidad, mortalidad, morbilidad y discapacidad;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+I. Estadísticas de natalidad, violencia, mortalidad, morbilidad y discapacidad;
 
 II. Factores demográficos, económicos, sociales y ambientales vinculados a la salud, y
 
@@ -1129,7 +1299,7 @@ Los establecimientos que presten servicios de salud, los profesionales, técnico
 
 ###### ARTICULO 90.
 
-La promoción de la salud tiene por objeto crear, conservar y mejorar las condiciones deseables de salud para toda la población, y propiciar en el individuo las actitudes, valores y conductas adecuadas, para motivar su participación en beneficio de la salud individual y colectiva.
+La promoción de la salud tiene por objeto crear, conservar y mejorar las condiciones deseables de salud para toda la población en equidad de género, y propiciar en las personas, actitudes, valores y conductas adecuadas, no discriminatorias para motivar su participación en beneficio de la salud individual y colectiva que les permita el acceso a una vida sana y libre de violencia.
 
 ###### ARTICULO 91.
 
@@ -1137,9 +1307,17 @@ La promoción de la salud comprende:
 
 I. Desarrollo de los programas de Nutrición de conformidad con los lineamientos que en la materia dicte la Secretaría de Salud del Estado;
 
-II. Control de los efectos nocivos del ambiente en la salud, y
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
 
-III. Fomento sanitario.
+II. Control de los efectos nocivos del ambiente en la salud;
+
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+III. Fomento sanitario, y
+
+> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+IV. Programas tendientes a erradicar la discriminación y la violencia de género.
 
 ### CAPITULO II. Enfermedades Transmisibles
 
@@ -1149,11 +1327,15 @@ La educación para la salud tiene por objeto:
 
 I. Promover hábitos de conducta que contribuyan a proteger la salud o a solucionar problemas de salud, e intervenir en programas de promoción y mejoramiento de la salud y de prevención de enfermedades y accidentes, así como acciones de respeto a la dignidad de la persona;
 
-II. Fomentar en la población el desarrollo de actitudes y conductas que le permitan participar en la prevención de enfermedades individuales, colectivas y accidentes, y protegerla de los riesgos que pongan en peligro su salud~ (sic)
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+II. Fomentar en la población el desarrollo de actitudes conductas que le permitan participar en la erradicación y prevención de enfermedades individuales, colectivas y accidentes; y protegerla de los riesgos que pongan en peligro su salud y la de las demás personas;
 
 III. Proporcionar a la población los conocimientos sobre las causas de las enfermedades, y de los daños provocados por los efectos nocivos del ambiente en la salud, y
 
-IV. Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar y salud reproductiva, riesgo de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención, cuidados paliativos y rehabilitación, y detección oportuna de enfermedades.
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+IV. Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar y salud reproductiva, riesgo de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención y rehabilitación, violencia de género, discriminación y detección oportuna de enfermedades.
 
 > <small>(REFORMADO, P.O. 29 DE MARZO DE 2008)</small>
 
@@ -1161,23 +1343,27 @@ IV. Orientar y capacitar a la población preferentemente en materia de nutrició
 
 La Secretaría de Salud, en coordinación con las autoridades federales, estatales y municipales competentes, formulará, propondrá, desarrollará y evaluará los programas de educación para la salud, procurando optimizar los recursos y alcanzar una cobertura total de la población.
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
 
-La Secretaría de Salud formulará un programa destinado a la población escolar de los distintos niveles de educación básica obligatoria, para combatir la obesidad y sobrepeso; el cual incluirá entre otras acciones, la medición de masa corporal, el fomento del consumo de alimentos y bebidas de bajo contenido calórico; además, una guía de calistenia como activación física diaria. Para efecto de su ejecución la Secretaría se coordinará con las autoridades federales, estatales y municipales competentes.
+La Secretaría de Salud formulará un programa para la salud destinado a la población escolar de los distintos niveles de educación básica obligatoria, a efecto de combatir, la violencia de género, la discriminación, la obesidad y el sobrepeso; el cual incluirá, entre otras acciones, información veraz por medio de películas, libros, folletos y demás materiales de distribución que concienticen sobre los estragos causados por la violencia, así como la medición de masa corporal, el fomento del consumo de alimentos y bebidas saludables, y el fortalecimiento de una actividad física. Para efecto de su ejecución, la Secretaría de Salud se coordinará con las autoridades federales, estatales y municipales que resulten competentes.
 
 ### CAPITULO III. Enfermedades no Transmisibles
 
 ###### ARTICULO 94.
 
-El Ejecutivo del Estado a través de las autoridades sanitarias formulará y desarrollará programas estatales de nutrición, promoviendo la participación en los mismos de las unidades estatales del sector salud, organismos estatales, nacionales e internacionales, cuyas actividades se relacionen con la nutrición y la disponibilidad de alimentos, así como de los sectores sociales y privado.
+El Ejecutivo del Estado, a través de las autoridades sanitarias formulará y desarrollará programas estatales de, nutrición; y los que combatan la violencia de género y discriminación promoviendo la participación en los mismos, de las unidades estatales del sector salud, organismos estatales, nacionales e internacionales, cuyas actividades se relacionen con los temas precisados en los sectores sociales y privado.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 95.
 
-En los programas a que se refiere el artículo anterior, se incorporarán acciones que promuevan el consumo de alimentos de producción regional, y se procurará la participación de las organizaciones campesinas, indígenas, ganaderas, cooperativas y otras organizaciones sociales, cuyas actividades se relacionen con la producción de alimentos.
+En los programas a que se refiere el artículo anterior, se incorporarán acciones particulares para cada uno de los temas, que promuevan una vida libre de violencia, y el consumo de alimentos de producción regional, procurando la participación de las organizaciones campesinas, indígenas, ganaderas, cooperativas y otras organizaciones sociales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 96.
 
-La Secretaría de Salud del Estado, dentro del ámbito de su competencia, tendrá a su cargo:
+La Secretaría de Salud del Estado, dentro del ámbito de su competencia, y en lo que compete a nutrición, tendrá a su cargo:
 
 I. Establecer un sistema permanente de vigilancia de la nutrición;
 
@@ -1195,6 +1381,32 @@ IV. Promover investigaciones químicas, biológicas, sociales y económicas, enc
 
 V. Recomendar las dietas y los procedimientos que conduzcan al consumo efectivo de los mínimos de nutrimientos (sic) por la población en general.
 
+> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+ARTICULO 96 BIS. La Secretaría de Salud del Estado, dentro del ámbito de su competencia, y en lo que compete a violencia de género tendrá a su cargo:
+
+I. Diseñar políticas públicas de salud mental con perspectiva de género, tendientes a prevenir, atender y erradicar la violencia de género; el maltrato infantil y a personas con discapacidad y adultas mayores; la prostitución forzada, y la trata de personas;
+
+II. Crear programas de capacitación para el personal del sector salud, respecto a la violencia contra las mujeres, garantizando· la atención a las víctimas y la aplicación de la NOM-046-SSA2-2005;
+
+III. Establecer programas y servicios profesionales eficaces, con horario de veinticuatro horas en las dependencias públicas relacionadas con la atención de la violencia de género;
+
+IV. Difundir en las instituciones del sector salud, material referente a la prevención y atención de la violencia contra las mujeres;
+
+V. Canalizar a las víctimas de violencia a las instituciones que prestan atención y protección;
+
+VI. Participar activamente en el diseño y ejecución de nuevos modelos de prevención, atención y erradicación de la violencia contra las mujeres, en colaboración con las demás autoridades encargadas de la aplicación de la presente Ley;
+
+VII. Asegurar que en la prestación de los servicios del sector salud sea respetada la dignidad, libertad y los derechos humanos de las personas;
+
+VIII. Capacitar al personal del sector salud, con la finalidad de que detecten la violencia contra las mujeres;
+
+IX. Apoyar a las autoridades encargadas de efectuar investigaciones en materia de violencia contra las mujeres;
+
+X. Elaborar un expediente de la víctima que contenga datos desagregados por edad y sexo, tipo de violencia que sufre y todos aquéllos que lleven a atender debidamente a los grupos vulnerables y a llevar un registro, y
+
+XI. Las demás previstas para el cumplimiento de la presente Ley.
+
 ### CAPITULO IV. La Prevención y el Control de las Enfermedades Bucodentales
 
 ###### ARTICULO 97.
@@ -1207,9 +1419,15 @@ Corresponde a los Servicios de Salud promover, autorizar y vigilar el cumplimien
 
 I. La investigación permanente y sistemática de los riesgos y daños que para la salud de la población origine la contaminación del ambiente;
 
-II. La certificación de la calidad del agua para uso y consumo humano, y
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
 
-III. En general, de las actividades similares a las anteriores situaciones, que causen riesgos o daños a la salud de las personas.
+II. La certificación de la calidad del agua para uso y consumo humano;
+
+> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+III. La violencia de género y los programas de atención, prevención y erradicación que para la causa se designen, y
+
+IV. En general, de las actividades similares a las anteriores situaciones, que causen riesgos o daños a la salud de las personas.
 
 ###### ARTICULO 99.
 
@@ -1231,11 +1449,15 @@ La Secretaría de Salud del Estado, en coordinación con las autoridades federal
 
 La Secretaría de Salud del Estado, en coordinación con las autoridades e instituciones federales y estatales competentes, realizará las siguientes acciones:
 
-I. Vigilar la aplicación de las normas oficiales mexicanas para la prevención y el control de enfermedades y accidentes, que dicte la autoridad federal de la materia;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+I. Vigilar la aplicación de las normas oficiales mexicanas que se establezcan para la prevención, atención y erradicación en el control de enfermedades, violencia de género y accidentes, que dicte la autoridad federal de la materia;
 
 II. Apoyar en el Estado el Sistema Nacional de Vigilancia Epidemiológica, de conformidad con la Ley General de Salud, de esta Ley y de las demás disposiciones que al efecto se expidan, y
 
-III. Coordinar los programas y actividades que establezca la autoridad federal de la materia, para la prevención y control de enfermedades y accidentes.
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+III. Coordinar los programas y actividades que establezca la autoridad federal de la materia, para la prevención, atención, control y erradicación de enfermedades, violencia de género y accidentes.
 
 ### CAPITULO VI. Accidentes
 
@@ -1273,9 +1495,11 @@ XIII. Síndrome de inmunodeficiencia adquirida (SIDA), y
 
 XIV. Las demás que determinen el Consejo de Salubridad General, y otros tratados y convenciones internacionales en los que los Estados Unidos Mexicanos sean parte.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 104.
 
-Es obligatoria para los médicos tratantes la notificación a la autoridad sanitaria más cercana, de las siguientes enfermedades y en los términos que a continuación se especifican:
+Es obligatoria para las y los médicos tratantes la notificación a la autoridad sanitaria más cercana, de las siguientes enfermedades y atención de violencia de género que se atienda, en los términos que a continuación se especifican:
 
 I. Inmediatamente, en los casos individuales de enfermedades objeto del Reglamento Sanitario Internacional: fiebre amarilla, peste y cólera;
 
@@ -1283,9 +1507,17 @@ II. De manera inmediata, en los casos de cualquier enfermedad que se presente en
 
 III. En un plazo no mayor de veinticuatro horas, en los casos individuales de enfermedades objeto de vigilancia internacional: poliomielitis, meningitis, tifo epidémico, fiebre recurrente transmitida por piojo, influenza viral, paludismo, sarampión, tos-ferina, rabia, así como los de difteria y los casos humanos de encefalitis equina;
 
-IV. En un plazo no mayor de veinticuatro horas, de los primeros casos individuales de las demás enfermedades transmisibles que se presenten en un área no infectada, y
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
 
-V. Notificación obligatoria inmediata a la autoridad de salud más cercana de los casos en que se detecte la presencia del virus de la inmunodeficiencia humana (VIH), o de anticuerpos de dichos virus en alguna persona.
+IV. En un plazo no mayor de veinticuatro horas, de los primeros casos individuales de las demás enfermedades transmisibles que se presenten en un área no infectada;
+
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+V. Notificación obligatoria inmediata a la autoridad de salud más cercana de los casos en que se detecte la presencia del virus de la inmunodeficiencia humana (VIH), o de anticuerpos de dichos virus en alguna persona, y
+
+> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+VI. De manera inmediata, dar parte al Ministerio Público sobre los casos de violencia de género que se atiendan.
 
 ###### ARTICULO 105.
 
@@ -1295,15 +1527,21 @@ Las personas que ejerzan la medicina o que realicen actividades afines, están o
 
 Los laboratorios que manejen agentes patógenos estarán sujetos a control por parte de las autoridades de salud competentes, de conformidad con las normas técnicas que expida la autoridad federal de la materia, en lo relativo a las precauciones higiénicas que deban observar, para evitar la propagación de las enfermedades transmisibles al hombre. Cuando esto represente peligro para la salud animal, se oirá la opinión de las autoridades competentes.
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 107.
 
-Están obligados a dar aviso, en los términos de los artículos anteriores de este Capítulo, los jefes o encargados de laboratorios, los directores de unidades médicas, escuelas, fábricas, talleres, asilos, los jefes de oficinas, establecimientos comerciales o de cualquier otra índole, y en general, toda persona que por circunstancias ordinarias o accidentales tenga conocimiento de alguno de los casos de enfermedades a que se refiere esta Ley.
+Están obligados a dar aviso, en los términos de los artículos anteriores de este Capítulo, las personas titulares de laboratorios, de unidades médicas, escuelas, fábricas, talleres, asilos, de oficinas, establecimientos comerciales o de cualquier otra índole y, en general, toda persona que por circunstancias ordinarias o accidentales tenga conocimiento de algún caso de violencia de género, o enfermedades a que se refiere esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 108.
 
-Las medidas que se requieran para la prevención y el control de las enfermedades que enumera el artículo 104 de esta Ley, deberán ser observadas por los particulares. El ejercicio de esta acción comprenderá una o más de las siguientes medidas, según el caso de que se trate:
+Las medidas que se requieran para la prevención y el control de las enfermedades que enumera el artículo 104 de esta Ley, deberán ser observadas por las y los particulares. El ejercicio de esta acción comprenderá en todo caso la perspectiva de género y una o más de las siguientes medidas, según el caso de que se trate:
 
-I. La confirmación de la enfermedad por los medios clínicos disponibles;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+I. La confirmación de la enfermedad, o de que la persona usuaria es víctima de la violencia de género, por los medios clínicos disponibles;
 
 II. El aislamiento por el tiempo estrictamente necesario de los enfermos, de los sospechosos de padecer la enfermedad y de los portadores de gérmenes de la misma, así como la limitación de sus actividades, cuando así se amerite por razones epidemiológicas;
 
@@ -1315,9 +1553,15 @@ V. La descontaminación microbiana o parasitaria, desinfección y desinfectació
 
 VI. La destrucción o control de vectores y reservorios y fuentes de infección naturales o artificiales, cuando presenten peligro para la salud;
 
-VII. La inspección de pasajeros que puedan ser portadores de gérmenes, así como la de equipajes, medios de transporte, mercancías y otros objetos que puedan ser fuentes o vehículos de agentes patógenos, y
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
 
-VIII. Las demás que determine esta Ley, sus reglamentos y la Secretaría de Salud del Estado.
+VII. La inspección de personas pasajeras que puedan ser portadoras de gérmenes, así como de equipajes, medios de transporte, mercancías y otros objetos que puedan ser fuentes o vehículos de agentes patógenos;
+
+> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+VIII. En caso de confirmar la violencia de género, proporcionar la atención conforme a las normas establecidas y dar parte a las autoridades correspondientes, y
+
+IX. Las demás que determine esta Ley, sus reglamentos y la Secretaría de Salud del Estado.
 
 ###### ARTICULO 109.
 
@@ -1449,25 +1693,45 @@ Este Consejo se integrará y funcionará en los términos y disposiciones que pa
 
 ### CAPITULO I. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 128.
 
 Corresponde a la Secretaría de Salud del Estado, en el área de su competencia, vigilar el cumplimiento de la normatividad vigente en materia de asistencia social, y en lo relativo a la prevención, atención médica y rehabilitación de las personas con discapacidad.
 
-Los servicios asistenciales en salud que presten tanto las instituciones públicas como las privadas, se regirán conforme lo dispuesto en esta Ley, en la Ley de Asistencia Social para el Estado y Municipios de San Luis Potosí, y demás disposiciones legales aplicables.
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
+
+Los servicios asistenciales en salud que presten tanto las instituciones públicas como las privadas, se proporcionarán con perspectiva de género y se regirán conforme lo dispuesto en esta Ley; en la Ley de Asistencia Social para el Estado y Municipios de San Luis Potosí; y demás disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 129.
 
-Los integrantes del Sistema Estatal de Salud deberán dar atención preferente e inmediata a menores, ancianos, personas con discapacidad y mujeres, sometidos a cualquier forma de maltrato que ponga en peligro su salud física o mental. Asimismo, darán esa atención a quienes hayan sido sujetos pasivos en la comisión de delitos que atenten contra la integridad física o mental, o el normal desarrollo psico-somático de los individuos.
+Los integrantes del Sistema Estatal de Salud deberán dar atención preferente e inmediata a personas:
 
-En estos casos, las instituciones de salud del Estado, deberán tomar las medidas inmediatas que sean necesarias para la protección de la salud de los menores, ancianos, personas con discapacidad y mujeres, sin perjuicio de dar intervención a las autoridades competentes.
+I. Menores de edad;
+
+II. Adultas mayores;
+
+III. Víctimas de violencia;
+
+IV. Con discapacidad, y
+
+V. Sometidas a cualquier forma de maltrato que ponga en peligro su salud física o mental.
+
+Asimismo, darán esa atención a quienes hayan sido sujetos pasivos en la comisión de delitos que atenten contra la integridad física o mental, o el normal desarrollo psicosomático de las personas.
+
+En estos casos, las instituciones de salud del Estado, deberán tomar las medidas inmediatas que sean necesarias para la protección de la salud de menores de edad, personas adultas mayores, víctimas de violencia, personas con discapacidad, debiendo en este caso dar parte a las autoridades competentes.
 
 ###### ARTICULO 130.
 
 Los menores en estado de desprotección social tienen derecho a recibir los servicios asistenciales que necesiten, en cualquier establecimiento público dependiente del Estado o privado, al que sean remitidos para su atención, misma que proporcionarán en los términos de la ley aplicable y de las normas oficiales mexicanas que al efecto se emitan.
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 131.
 
-El Ejecutivo del Estado y los ayuntamientos fomentarán la creación de establecimientos en los que se dé atención a menores, a personas con padecimientos mentales, a niños desprotegidos, ancianos desamparados, personas con discapacidad y a las víctimas de violencia familiar; asimismo, apoyarán de acuerdo a su disponibilidad presupuestal, a los conformados por instituciones privadas y sociales con fines asistenciales, sujetándose en su funcionamiento a las disposiciones legales aplicables, y a las normas oficiales mexicanas que al efecto se emitan.
+El Ejecutivo del Estado y los ayuntamientos fomentarán la creación de establecimientos en los que se dé atención a menores de edad, a personas con padecimientos mentales, a niñas y niños desprotegidos, personas adultas mayores desamparados, personas con discapacidad y a las víctimas de violencia familiar; asimismo, apoyarán de acuerdo a su disponibilidad presupuestal, a los conformados por instituciones privadas y sociales con fines asistenciales, sujetándose en su funcionamiento a las disposiciones legales aplicables, y a las normas oficiales mexicanas que al efecto se emitan.
 
 ###### ARTICULO 132.
 
@@ -1489,9 +1753,11 @@ La Secretaría de Salud del Estado, en coordinación con otras instituciones pú
 
 Para los efectos de esta Ley se entiende por discapacidad la limitación en la capacidad de una persona, para realizar por sí misma las actividades necesarias para el desempeño físico, mental, social, ocupacional y económico como consecuencia de una insuficiencia somática psicológica o social.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 137.
 
-La atención en materia de prevención de la discapacidad y rehabilitación de los discapacitados comprende:
+La atención en materia de prevención de la discapacidad su rehabilitación se dará con perspectiva de género y comprende:
 
 I. La investigación de las causas de la discapacidad y de los factores que la condicionan;
 
@@ -1687,7 +1953,7 @@ Los establecimientos que expendan inhalantes y substancias tóxicas, deberán te
 
 ###### ARTICULO 151.
 
-Todos los habitantes del Estado tienen derecho a ser incorporados al Sistema de Protección Social en Salud, de conformidad con el artículo 4º. de la Constitución Política de los Estados Unidos Mexicanos, sin importar su condición social.
+Las personas habitantes del Estado tienen derecho a ser incorporados al Sistema de Protección Social en Salud, con perspectiva de género, no discriminación y de conformidad con el artículo 4°. de la Constitución Política de los Estados Unidos Mexicanos, sin importar su condición social.
 
 La Protección Social en Salud es un mecanismo por el cual el estado garantizará el acceso efectivo, oportuno, de calidad, sin desembolso al momento de su utilización, y sin discriminación a los servicios médico-quirúrgicos, farmacéuticos y hospitalarios, que satisfagan de manera integral las necesidades de salud, mediante la combinación de intervenciones de promoción de la salud, prevención, diagnóstico, tratamiento y de rehabilitación, seleccionadas en forma prioritaria según criterios de seguridad, eficacia, costo, efectividad, adherencia a normas éticas profesionales y aceptabilidad social.
 
@@ -1727,7 +1993,9 @@ El núcleo familiar será representado para los efectos de este Título por cual
 
 Corresponde al Ejecutivo del Estado, por conducto de los Servicios de Salud, en la materia de protección social en salud lo siguiente:
 
-I. Proveer los servicios de salud en los términos de este Título, disponiendo de la capacidad de insumos y el suministro de medicamentos necesarios para su oferta oportuna y de calidad;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+I. Proveer los servicios de salud con perspectiva de género y en los términos de este Titulo, disponiendo de la capacidad de insumos y el suministro de medicamentos necesarios para su oferta oportuna y de calidad;
 
 II. Identificar e incorporar beneficiarios al régimen estatal de protección social en salud, para lo cual ejercerá actividades de difusión y promoción, así como las correspondientes al proceso de incorporación, incluyendo la integración, administración y actualización del padrón de beneficiarios en el Estado, conforme a los lineamientos vigentes;
 
@@ -1771,7 +2039,9 @@ VI. Cumplir con las obligaciones establecidas en dicha ley.
 
 Para incrementar la calidad de los servicios la Secretaría de Salud del Estado, vigilará los requerimientos mínimos que servirán de base para la atención de los beneficiarios del Sistema de Protección Social en Salud.
 
-La Secretaría de Salud del Estado promoverá las acciones necesarias para que las unidades médicas del Sistema Estatal de Salud, que se incorporen al Sistema de Protección Social en Salud, provean como mínimo los servicios de consulta externa y hospitalización para las especialidades básicas de medicina interna, cirugía general, ginecoobstetricia, pediatría y geriatría, de acuerdo al nivel de atención, y acrediten previamente su calidad.
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
+
+La Secretaría de Salud del Estado promoverá las acciones necesarias para que las unidades médicas del Sistema Estatal de Salud, que se incorporen al Sistema de Protección Social en Salud, provean como mínimo los servicios de consulta externa y hospitalización para las especialidades básicas de medicina interna, cirugía general, ginecoobstetricia, pediatría, geriatría, y la atención a la violencia de género, de acuerdo al nivel de atención, y acrediten previamente su calidad.
 
 La acreditación de la calidad de los servicios prestados deberá considerar, al menos, los aspectos siguientes:
 
@@ -1879,15 +2149,21 @@ Las responsabilidades administrativas, civiles y penales que deriven de la desvi
 
 Los beneficiarios del Sistema de Protección Social en Salud tienen derecho a recibir, sin ningún tipo de discriminación, los servicios de salud, los medicamentos y los insumos esenciales requeridos para el diagnóstico y tratamiento de los padecimientos, en las unidades médicas de la administración pública de su elección, acreditados en el Régimen Estatal de Protección Social en Salud.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 174.
 
-Los beneficiarios del Sistema de Protección Social en Salud tendrán, además de los derechos establecidos en el artículo anterior, los siguientes:
+Las personas beneficiarias del Sistema de Protección Social en Salud tendrán, además de los derechos establecidos en el artículo anterior, los siguientes:
 
 I. Recibir servicios integrales de salud;
 
-II. Acceso igualitario a la atención;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
 
-III. Trato digno, respetuoso y atención de calidad;
+II. Acceso igualitario y sin discriminación en la atención;
+
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+III. Trato digno, respetuoso de sus derechos humanos y atención de calidad;
 
 IV. Recibir los medicamentos que sean necesarios y que correspondan a los servicios de salud;
 
@@ -1911,7 +2187,9 @@ XIII. Recibir información sobre los procedimientos que rigen el funcionamiento 
 
 XIV. No cubrir cuotas de recuperación específicas por cada servicio que reciban, previa aprobación de estudio socioeconómico, por la institución médica prestadora del servicio;
 
-XV. Presentar quejas ante las autoridades sanitarias por la falta o inadecuada prestación de servicios establecidos en este Título; así como recibir información acerca de los procedimientos, plazos y formas en que se atenderán las quejas y consultas, y
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+XV. Presentar quejas ante las autoridades sanitarias, por violencia institucional, por faltas o inadecuada prestación de servicios establecidos en este Título; así como recibir información acerca de los procedimientos, plazos y formas en que se atenderán las quejas y consultas, y
 
 XVI. Ser atendido cuando se inconforme por la atención médica recibida.
 
@@ -2565,9 +2843,11 @@ Para todos los efectos legales se entiende por prostitución, la práctica de la
 
 La autoridad municipal en coordinación con las autoridades sanitarias, podrá determinar lugares en donde se permita el ejercicio de la prostitución, de conformidad con las normas oficiales mexicanas correspondientes.
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 277.
 
-Compete a la autoridad sanitaria, en materia de salud, el control y vigilancia del ejercicio de la prostitución, proporcionando asistencia médica gratuita a todas las personas afectadas por enfermedades de transmisión sexual y que carezcan de recursos.
+Compete a la autoridad sanitaria, en materia de salud, el control y vigilancia del ejercicio de la prostitución, proporcionando asistencia médica gratuita, sin discriminación, con respeto a su libertad, dignidad y derechos humanos de todas las personas afectadas por enfermedades de transmisión sexual y que carezcan de recursos.
 
 ###### ARTICULO 278.
 
@@ -2863,9 +3143,11 @@ Los establecimientos objeto de este Capítulo deben contar con las instalaciones
 
 ###### ARTICULO 329.
 
-La autorización sanitaria es el acto administrativo mediante el cual la autoridad competente, permite a una institución pública o privada, y a las personas físicas o morales, realizar actividades reguladas por esta Ley, en los casos y con los requisitos y modalidades que determine la misma y otras disposiciones generales aplicables
+La autorización sanitaria es el acto administrativo mediante el cual la autoridad competente, permite a una institución pública o privada, y a las personas físicas o morales, realizar actividades reguladas por esta Ley, en los casos y con los requisitos y modalidades que determine la misma y otras disposiciones generales aplicables.
 
-Las autorizaciones sanitarias tienen el carácter de licencias, permisos o tarjetas de control sanitario.
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
+
+Las autorizaciones sanitarias tienen el carácter de licencias, permisos o tarjetas de control sanitario mismas que se otorgarán sin discriminación de ningún tipo si cumplen con los requisitos especificados en la ley.
 
 ###### ARTICULO 330.
 
@@ -2905,11 +3187,15 @@ VIII. Cuando los establecimientos o personas dejen de reunir las condiciones o r
 
 IX. Cuando lo solicite el interesado;
 
-> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
 
-X. Cuando profesionales, técnicos o auxiliares en materia de salud, incurran en la práctica contemplada en el artículo 71 BIS de esta Ley, y
+X. Cuando profesionales, técnicos o auxiliares en materia de salud, incurran en la práctica contemplada en el artículo 71 BIS de esta Ley;
 
-XI. En los demás casos que determine la autoridad sanitaria competente.
+> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2012)</small>
+
+XI. Cuando las personas usuarias del servicio autorizado, sufran violencia, discriminación o maltrato por parte del personal que labora, de los solicitantes de las licencias o de los dueños de los establecimientos, y
+
+XII. En los demás casos que determine la autoridad sanitaria competente.
 
 ###### ARTICULO 334.
 
@@ -3548,3 +3834,9 @@ DECRETO NÚMERO 1116, POR EL QUE SE REFORMA LOS ARTÍCULOS, 51, 53, Y 54, DE LA 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 25 DE AGOSTO DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
