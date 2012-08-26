@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-seguridad-publica-para-el-estado-de-durango-45761"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-24"
-last_updated: "2011-07-11"
+last_updated: "2012-08-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45761&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "DUR"
 ---
 # LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE DURANGO
 
-LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE DURANGO
+LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 24 de julio de 2005.
 
@@ -35,17 +35,17 @@ LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE DURANGO
 
 ## TÍTULO PRIMERO. DE LA SEGURIDAD PÚBLICA
 
-> <small>(REFORMADA SU NUMERACION, P.O. 19 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 19 DE FEBRERO DE 2009)</small>
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 1.
 
 La presente ley tiene su fundamento en los artículos 21 de la Constitución Política de los Estados Unidos Mexicanos, y 9 de la Constitución Política del Estado Libre y Soberano de Durango y de la Ley General del Sistema Nacional de Seguridad Pública.
 
-> <small>(ADICIONADO PRIMER PARRAFO, P.O. 19 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 19 DE FEBRERO DE 2009)</small>
 
 Sus disposiciones son de orden público e interés social, de observancia general en el Estado de Durango y tiene por objeto:
 
@@ -137,7 +137,7 @@ XVIII. Consejo Ciudadano.- Al Consejo Ciudadano de Seguridad Pública Estatal; y
 
 XIX. Unidad.- A la Unidad de Enlace Informático.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 4.
 
@@ -147,7 +147,7 @@ Para los efectos de esta Ley, la seguridad pública es una función de carácter
 
 La función de la seguridad pública tendrá por objeto además, coadyuvar con la procuración, administración y ejecución de la justicia penal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 5.
 
@@ -173,7 +173,7 @@ La recopilación, integración y sistematización de la información por medio d
 
 En coordinación la Federación, el Estado y los Municipios, mediante la aplicación de sus propios recursos, procurarán alcanzar los fines de la seguridad pública, combatiendo las causas que generan las infracciones, conductas antisociales y delitos, mediante la formulación, desarrollo e instrumentación de programas y acciones para fomentar en la sociedad valores culturales y cívicos, que induzcan el respeto a la legalidad, en un marco de prevención y corresponsabilidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 8.
 
@@ -193,7 +193,7 @@ El Gobernador del Estado y los Municipios podrán celebrar entre sí, con el Gob
 
 El Estado y los Municipios se coordinarán entre sí y con la Federación para la observancia general de los fines de esta Ley y demás ordenamientos aplicables, integrándose a los Sistemas Nacional y Estatal, a través de las instancias, programas, instrumentos, políticas, servicios y acciones que correspondan.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 11.
 
@@ -257,7 +257,7 @@ El Estado y los Municipios coadyuvarán en el procesamiento de la información q
 
 Las autoridades administrativas competentes establecerán mecanismos eficaces para que la sociedad participe en la planeación y supervisión de la seguridad pública, en los términos que establezcan la Ley General y la presente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 15.
 
@@ -379,7 +379,7 @@ V. Los Subsecretarios de Seguridad Pública;
 
 VI. Los Vicefiscales de la Fiscalía General;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 11 DE JULIO DE 2011)</small>
 
@@ -441,7 +441,7 @@ El Gobernador del Estado tendrá el mando de los cuerpos estatales de seguridad 
 
 Asimismo, estará al mando de la policía municipal del lugar donde residan los poderes del Estado y de manera transitoria en el lugar en que se encuentre o cuando mediante convenio con los municipios se haga cargo de funciones de seguridad pública y policía.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 31.
 
@@ -649,7 +649,7 @@ Gobernador del Estado que le turne el Secretario de Seguridad Pública; y
 
 VIII. Las demás que le señalen las disposiciones jurídicas y reglamentarias aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 38.
 
@@ -779,7 +779,7 @@ El Consejo Consultivo contará con un secretario técnico que será designado po
 
 El Consejo Consultivo no emitirá resoluciones obligatorias al Secretario de Seguridad Pública, sino únicamente propuestas que quedarán asentadas en las minutas respectivas, y se reunirá por lo menos una vez cada tres meses.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE JUNIO DE 2011)</small>
 
 #### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE ASUNTOS INTERNOS
 
@@ -793,7 +793,7 @@ Las Direcciones de Asuntos Internos de las diversas corporaciones de seguridad p
 
 Las funciones y atribuciones de las Direcciones de Asuntos Internos, se establecerán en el reglamento interior de la corporación policial correspondiente.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE JUNIO DE 2008)</small>
 
 ### CAPITULO II. DE LAS CORPORACIONES DE SEGURIDAD PÚBLICA
 
@@ -833,7 +833,7 @@ El Cuerpo de Policía asignado para el efecto, deberá apoyar la labor de la aut
 
 Las fuerzas de seguridad pública del Estado, se conformarán por la corporación de carácter operativo, dependiente de la Secretaria de Seguridad, conforme a la estructura de organización correspondiente, con la función de asegurar el orden y la paz pública en el Estado, mediante la coordinación técnica y operativa con el Poder Judicial del Estado y los municipios, atendiendo de manera directa y específica los asuntos de seguridad en el aspecto operativo de las diligencias judiciales y las medidas de seguridad que se dicten y en el caso de los segundos superen la capacidad de los municipios o que involucren a dos o más municipios, atendiendo siempre las formas de actuación que dispongan las leyes y reglamentos, así como las disposiciones del Gobernador del Estado, a fin de respetar la autonomía municipal.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE JUNIO DE 2008)</small>
 
 ### CAPITULO III. DE LA POLICÍA ESTATAL
 
@@ -895,7 +895,7 @@ En caso de que la policía se haga cargo de manera directa del mando de alguna p
 
 La investigación de los delitos corresponde al Ministerio Público y a la policía encargada de la investigación de los delitos, la cual actuará bajo la conducción y mando de aquél en el ejercicio de esta función.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ARTÍCULO 47 BIS.- (DEROGADO, P.O. 11 DE JULIO DE 2011)
 
@@ -973,7 +973,7 @@ XVIII. El tratamiento técnico de los asuntos delictivos, frente a la investigac
 
 XIX. Las demás que le señalen las disposiciones jurídicas y reglamentos aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 ARTÍCULO 49 BIS.- Los integrantes de las instituciones policiales deberán llenar un informe policial homologado que contendrá los datos de la Ley General y el Consejo siguientes:
 
@@ -1079,7 +1079,7 @@ XV. Cumplir sus funciones debidamente uniformados, en su caso, y portar siempre 
 
 XVI. Las demás acciones u omisiones que establezca el reglamento de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 51.
 
@@ -1125,7 +1125,7 @@ Cualquier incumplimiento a los deberes o cuando incurran en las faltas previstas
 
 ### CAPITULO IV. DISPOSICIONES COMUNES PARA LAS CORPORACIONES DE SEGURIDAD PÚBLICA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 53.
 
@@ -1189,19 +1189,19 @@ VII.- Abstenerse de proporcionar información a los medios de comunicación soci
 
 VIII.- Cumplir dentro del marco de la ley, las órdenes del Ministerio Público que libre con ocasión de la investigación y persecución de los delitos y las que, durante la tramitación del proceso, les dirijan los jueces, sin perjuicio de la autoridad administrativa a la que estén sometidos la autoridad administrativa no podrá revocar, alterar o retardar una orden emitida por el Ministerio Público o por los jueces.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 53 Bis 1.
 
 (DEROGADO, P.O. 11 DE JULIO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 53 Bis 2.
 
 (DEROGADO, P.O. 11 DE JULIO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 53 Bis 3.
 
@@ -1233,7 +1233,7 @@ VIII. Someter, periódicamente, a sus integrantes, a exámenes de laboratorio, p
 
 IX. Las demás que les señalen las disposiciones jurídicas y reglamentarias aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 55.
 
@@ -1257,7 +1257,7 @@ IV. Horas de patrulla en el territorio; y
 
 V. Estadística de comisión y de disminución real de delitos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 56.
 
@@ -1271,7 +1271,7 @@ II. Ser de notoria buena conducta y no haber sido condenado mediante sentencia i
 
 III. Haber cumplido con el servicio militar los varones y contar con credencial de elector;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 IV. Acreditar que ha concluido, al menos, lo estudios siguientes:
 
@@ -1363,7 +1363,7 @@ Al concluir el servicio el integrante deberá entregar al funcionario designado 
 
 COMO AUXILIARES DE LA SEGURIDAD PÚBLICA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 58.
 
@@ -1447,13 +1447,19 @@ ARTÍCULO 66 BIS.- En los casos no previstos en la presente Ley en materia de se
 
 ### CAPITULO I. DEL INSTITUTO SUPERIOR DE SEGURIDAD PÚBLICA DEL ESTADO DE DURANGO
 
-> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 67.
 
-El Instituto es un organismo público desconcentrado por función, jerárquicamente subordinado a la Secretaría de Seguridad Pública, con autonomía operativa, técnica y funcional, encargado de diseñar y ejecutar los planes y programas para la formación: actualización y certificación de los aspirantes e integrantes de las corporaciones policiales del Estado, los cuales se fundamentarán en los principios de legalidad, objetividad, eficiencia, transparencia, profesionalismo, honradez y respeto a los derechos humanos que rigen la presente Ley.
+Se crea el Instituto Superior de Seguridad Pública del Estado de Durango, como un organismo público descentralizado de la Administración Pública Estatal, dotado de personalidad jurídica y patrimonio propio, carácter técnico y autonomía de gestión, el cual estará sectorizado a la Secretaría de Seguridad Pública del Estado de Durango, teniendo como objeto diseñar y ejecutar los planes y programas para la formación, profesionalización, actualización y certificación de los aspirantes e integrantes de las corporaciones policiales del Estado.
 
-Para cumplir con las funciones asignadas, al Instituto se le dotará de suficiencia presupuestaria, dichas funciones serán las siguientes:
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2012)</small>
+
+El Instituto tendrá su domicilio en la ciudad Victoria de Durango, y podrá establecer unidades representativas en cualquier lugar del Estado de Durango.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2012)</small>
+
+Para el cumplimiento de su objeto, el Instituto tendrá las siguientes funciones:
 
 I.- Aplicar los procedimientos homologados del Sistema;
 
@@ -1489,39 +1495,75 @@ XVI.- Supervisar que los aspirantes e integrantes de las Instituciones Policiale
 
 XVII.- Las demás que establezcan las disposiciones legales aplicables.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2012)</small>
 
-La organización y funcionamiento del Instituto, se regirá por las disposiciones de la presente Ley y su reglamento.
+La organización y funcionamiento del Instituto, se regirá por las disposiciones de la presente Ley, de su Reglamento y de la Ley de Entidades Paraestatales del Estado de Durango.
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 68.
 
-A fin de lograr los objetivos de los programas de formación básica, actualización, especialización y profesionalización que imparta el Instituto, se promoverá la suscripción de convenios con los Ayuntamientos de la Entidad, para implementar programas de aplicación regional con el propósito de que el personal de las corporaciones de seguridad pública municipales se beneficien con dichos programas.
+Para el ejercicio de las atribuciones que le confiere esta ley, el Instituto contará con los Órganos de Gobierno siguientes:
 
-> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2009)</small>
+I. El Consejo Directivo, y
 
-ARTÍCULO 68 BIS.- En materia de planes y programas de Profesionalización para las Instituciones Policiales, la Secretaría de Seguridad tendrá la facultad de proponer a las instancias de coordinación:
+II. La Dirección General.
 
-I.- Los contenidos básicos de los programas para la formación, capacitación y profesionalización de los mandos de las Instituciones policiales;
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2012)</small>
 
-II.- Los aspectos que contendrá el Programa de Profesionalización;
+ARTÍCULO 68 BIS.- El Consejo Directivo será la máxima autoridad del Instituto y está integrada por:
 
-III.- Que los integrantes de las Instituciones Policiales se sujeten a los programas correspondientes a las Academias y de estudios superiores policiales;
+I. Un Presidente que será el Titular del Poder Ejecutivo.
 
-IV.- El diseño y actualización de políticas y normas para el reclutamiento y selección de candidatos a las Instituciones Policiales y vigilar su aplicación;
+II. Un Vicepresidente que será el Secretario de Seguridad Pública.
 
-V.- Estrategias y políticas de desarrollo de formación de los integrantes de las Instituciones Policiales;
+III. Como Vocales:
 
-VI.- Los programas de investigación académica en materia policial;
+a) El Secretario General de Gobierno.
 
-VII.- El diseño y actualización de políticas y normas para el reclutamiento y selección de candidatos a las Instituciones Policiales;
+b) El Secretario de Finanzas y de Administración.
 
-VIII.- La revalidación de equivalencias de estudios de la Profesionalización en el ámbito de su competencia, y
+c) Tres miembros distinguidos de la sociedad civil, preferentemente integrantes del Consejo Estatal de Seguridad Pública, quienes serán designados por el Presidente.
 
-IX.- Las demás que establezcan otras disposiciones legales.
+IV. Un Comisario Público, designado por la Secretaría de Contraloría y Modernización Administrativa, con derecho a voz pero sin voto.
+
+El cargo de miembro del Consejo Directivo será honorario, por lo que no recibirá retribución alguna. Los vocales a los que se refiere la fracción III, inciso c), de este artículo, durarán en su encargo tres años; sin embargo a su renuncia anticipada, serán sustituidos conforme al referido inciso.
+
+El Director General del Instituto, será designado conforme a la fracción V del artículo 31 de esta ley y fungirá como Secretario Técnico en las reuniones del Consejo Directivo, participando en ellas con voz pero sin derecho a voto.
+
+Los Servidores públicos que fungen como miembros del Consejo Directivo, contarán con un suplente, cuya personalidad será acreditada y registrada para efectos de dotar de validez a los acuerdos del Órgano de Gobierno en los que participe.
+
+El Consejo Directivo celebrará sesiones ordinarias al menos, cuatro veces al año y, en forma extraordinaria, por la urgencia o trascendencia de los asuntos a tratar, ambas deberán ser convocadas por su Presidente. Para que las sesiones sean válidas se requiere la asistencia de cuando menos la mitad más uno de sus miembros y los acuerdos se tomarán por mayoría de votos, en caso de empate el Presidente tendrá voto de calidad.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 69.
 
-(DEROGADO, P.O. 3 DE OCTUBRE DE 2010)
+El Consejo Directivo tendrá las facultades y obligaciones indelegables siguientes:
+
+I. Establecer las políticas y lineamientos generales para el desarrollo, el funcionamiento, operación de recursos y de las actividades del Instituto.
+
+II. Aprobar y expedir, el reglamento interior, los manuales de organización y funciones, acuerdos y demás disposiciones generales que normen el funcionamiento del Instituto, propuestos por el Director General.
+
+III. Examinar y aprobar en su caso, los estudios y proyectos en lo particular, sobre actividades que correspondan a la ejecución de los fines de la Institución y aprobar en su caso, los convenios que se suscriban;
+
+IV. Conocer en forma periódica, los informes de labores que rinda el Director General.
+
+V. Fijar políticas generales, para el funcionamiento, operación de recursos y organización del Instituto.
+
+VI. Aprobar los estados financieros del Instituto, previo informe emitido por parte del Comisario Público y remitirlos a la Entidad de Auditoria Superior del Estado para los efectos de su revisión.
+
+VII. Aprobar la estructura básica de la organización del Instituto y las modificaciones que procedan a la misma, en base a la propuesta que presente el Director General y a la normatividad aplicable.
+
+VIII. Vigilar la preservación y conservación del patrimonio del Instituto, así como conocer y resolver sobre los actos que dispongan de sus bienes.
+
+IX. Autorizar, la aplicación de los ingresos propios que genere el Instituto, de conformidad con las disposiciones legales aplicables.
+
+X. Certificar que los cursos y estudios que se impartan, cumplan los estándares de calidad, conforme a los convenios que se suscriban a nivel federal, conforme a las leyes vigentes; y
+
+XI. Las demás que le señale la Ley de Entidades paraestatales del Estado de Durango y otras disposiciones jurídicas y reglamentarias aplicables.
+
+Para el cumplimiento de las facultades conferidas, el Consejo Directivo contará con el apoyo de un Consejo Técnico Consultivo, con funciones de opinión y asesoría. La organización y funcionamiento del Consejo Técnico se establecerá en las normas reglamentarias que al efecto emita el Consejo Directivo.
 
 ###### ARTÍCULO 70.
 
@@ -1539,53 +1581,75 @@ V. No desempeñar otro cargo público por el cual reciba remuneración; y
 
 VI. Los demás que establezcan el reglamento de esta Ley y otras disposiciones aplicables.
 
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2012)</small>
+
 ###### ARTÍCULO 71.
 
-(DEROGADO, P.O. 3 DE OCTUBRE DE 2010)
+El Director General del Instituto tendrá las atribuciones siguientes
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
+I. Presentar al Consejo Directivo del Instituto:
 
-###### ARTÍCULO 72.
-
-El Director General del Instituto tendrá las atribuciones siguientes:
-
-I. Presentar al Secretario de Seguridad:
-
-a) Las propuestas de planes y programas para la formación de los aspirantes e integrantes de las corporaciones policiales del Estado y los Municipios, así como del personal docente y administrativo a su cargo;
+a) Las propuestas de planes y programas específicos y los contenidos en los convenios que se suscriban para la formación de los aspirantes e integrantes de las corporaciones policiales del Estado y los Municipios, así como del personal docente y administrativo a su cargo;
 
 b) Los estudios y proyectos sobre actividades que correspondan a la ejecución de los fines de la Institución;
 
 c) El proyecto de reglamento interno del Instituto; y
 
-d) Las políticas generales para el funcionamiento, operación de recursos y organización del Instituto;
+d) Las políticas generales para el funcionamiento, operación de recursos y organización del Instituto.
 
-II. Certificar los cursos y estudios que imparta, a través de sistemas de estándares de calidad;
+II. Certificar los cursos y estudios que imparta, a través de sistema de estándares de calidad;
 
-III. Participar como vocal en el Consejo de Honor y Justicia de la Secretaría de Seguridad, vigilando el exacto cumplimiento de los acuerdos y resoluciones que dichos órganos emitan;
+III. Participar como vocal en el Consejo de Honor y Justicia de la Secretaría de Seguridad Pública, vigilando el exacto cumplimiento de los acuerdos y resoluciones que dichos órganos emitan y como Secretario Técnico en las reuniones del Consejo Directivo;
 
-IV. Informar periódicamente al Secretario de Seguridad de los informes de labores, así cumplimiento (sic) de los acuerdos y resoluciones emitidos por el Consejo de Honor y Justicia;
+IV. Informar periódicamente al Consejo Directivo y al Consejo Técnico Consultivo, el cumplimiento de los acuerdos y resoluciones emitidos en sus sesiones ordinarias o extraordinarias;
 
 V. Representar al Instituto como apoderado general para pleitos y cobranzas y actos de administración, de acuerdo con el reglamento interior del mismo;
 
-VI. Elaborar los proyectos y programas, estados financieros y los demás que se le soliciten;
+VI. Elaborar los proyectos y programas; estados financieros y los demás que se le soliciten;
 
-VII. Previa aprobación del Secretario, celebrar convenios con los Municipios, personas físicas o morales, públicas o privadas, para el desarrollo y aplicación de los programas de capacitación, actualización, especialización y profesionalización;
+VII. Previa aprobación del Consejo Directivo, celebrar convenios con los Municipios, personas físicas o morales, públicas o privadas, para el desarrollo y aplicación de los programas de capacitación, actualización, especialización y profesionalización;
 
 VIII. Cumplir con los programas y lineamientos establecidos por la Secretaría de Seguridad;
 
-IX. Ejercer el presupuesto del Instituto, bajo la supervisión y aprobación del Secretario;
+IX. Ejercer el presupuesto del Instituto, bajo la supervisión y aprobación del Consejo Directivo del Instituto;
 
 X. Aprobar y hacer cumplir el calendario de actividades del Instituto;
 
-XI. Proponer, para su aprobación, al personal docente y administrativo de este organismo;
+XI. Desarrollar, previo acuerdo con el Presidente del Consejo, a los Funcionarios y demás personal del Instituto;
 
 XII. Aplicar sanciones y medidas disciplinarias al personal y alumnado que infrinja las disposiciones reglamentarias respectivas;
 
-XIII. Promover la impartición permanente de cursos básicos, medio y superior de especialización, de actualización y de promoción, para el mejoramiento profesional de los integrantes de las corporaciones de seguridad pública del Estado; y
+XIII. Promover la impartición permanente de cursos básicos, medio y superior de especialización, de actualización y de promoción, para el mejoramiento profesional de los integrantes de las corporaciones de seguridad pública del Estado;
+
+XIV. Someter a la consideración del Consejo Directivo, el informe financiero del año fiscal correspondiente, para los efectos de su revisión y aprobación, remitiéndolo a la Entidad de Auditoría Superior del Estado, para su revisión, la que será aprobada por el Congreso del Estado, conforme a la ley; y
 
 XIV. Las demás que le señalen las disposiciones jurídicas y reglamentarias aplicables.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2012)</small>
+
+###### ARTÍCULO 72.
+
+El patrimonio del Instituto estará constituido por:
+
+I. Las aportaciones, participaciones, subsidios y apoyo que le otorguen los Gobiernos Federal, Estatal y Municipal y los organismos del sector social que coadyuven a su financiamiento;
+
+II. Los ingresos que obtenga por los servicios que preste en el cumplimiento de su objeto;
+
+III. Los legados y donaciones otorgados en su favor y demás liberalidades que reciba de las personas de los sectores social y privado;
+
+IV. Los derechos, bienes muebles e inmuebles que adquiera por cualquier título jurídico para el cumplimiento de su objeto, y
+
+V. Las utilidades, intereses, dividendos, rendimientos de sus bienes, derechos y demás ingresos que adquiera por cualquier título legal.
+
+Los bienes inmuebles que formen parte del patrimonio del Instituto serán inalienables e imprescriptibles, y en todo caso, se estará conforme a la ley respecto de las contribuciones estatales. Tampoco estarán gravados los actos y contratos en los que intervenga, si las contribuciones, conforme a las leyes respectivas, tuvieran carácter estatal.
+
+Los ingresos propios que el Instituto obtenga por los servicios que presta o las donaciones que reciba, serán integrados a su patrimonio y no podrán ser contabilizados como aportaciones del Gobierno Federal o del Gobierno Estatal, sin que ello implique excepción alguna respecto de las obligaciones de rendición de cuentas o de la sujeción a la fiscalización superior a cargo del Congreso del Estado. Los ingresos propios del Instituto se ejercerán conforme al programa previamente autorizado por el Consejo Directivo.
+
+El Instituto contará con un Órgano de Control Interno que estará a cargo del Comisario Público al que se refiere el artículo 68 bis, así como de un Contralor y su respectivo suplente. El Contralor Interno y su suplente serán designados por el titular de la Secretaría de Contraloría y Modernización Administrativa, conforme a la Ley Orgánica de la Administración Pública del Estado de Durango.
+
+El personal del Instituto en su relación laboral, por la naturaleza de sus funciones será de base, confianza o por honorarios. La determinación de la relación laboral se establecerá conforme al artículo 123 Constitucional, a la Ley Federal de Trabajo y en cuanto aplique, en las disposiciones contenidas en la Ley de los Trabajadores al Servicio de los Tres Poderes del Estado de Durango.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE JUNIO DE 2011)</small>
 
 ### CAPITULO II. DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL
 
@@ -1595,7 +1659,7 @@ XIV. Las demás que le señalen las disposiciones jurídicas y reglamentarias ap
 
 El Estado y los municipios, con base en sus posibilidades presupuestales, establecerán el Servicio Profesional de Carrera Policial, con carácter obligatorio y permanente, para asegurar la profesionalización de sus elementos. La estructura, funciones y procedimientos del Servicio Profesional de Carrera Policial, se sujetarán a la Ley General, la presente Ley y los reglamentos que se expidan para el efecto.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 74.
 
@@ -1693,7 +1757,7 @@ Por cada uno de estos cargos se elegirá un suplente. La organización y funcion
 
 Con respecto a los demás cuerpos de Seguridad Pública Estatal, se integrará un Consejo de Honor y Justicia en los términos de la Ley que rige su funcionamiento. Así mismo en cada Municipio, el Ayuntamiento nombrará un Consejo de Honor y Justicia que tendrá la integración y funciones que señale el reglamento respectivo, atendiendo a las bases señaladas en esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 83.
 
@@ -1777,7 +1841,7 @@ IX. Acciones necesarias para incrementar la eficacia y eficiencia de las medidas
 
 ### CAPÍTULO III. DE LAS INSTANCIAS DE COORDINACIÓN
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE FEBRERO DE 2009)</small>
 
 #### SECCIÓN PRIMERA. DEL CONSEJO ESTATAL DE SEGURIDAD PÚBLICA
 
@@ -1967,9 +2031,11 @@ III.- Convocar al Consejo a fin de adoptar las medidas procedentes y resolver ba
 
 IV.- las demás que le asignen expresamente las disposiciones jurídicas aplicables y las que le confiera el propio Consejo, de acuerdo a la ley.
 
-(REUBICADA [N. DE E. ANTES SECCION SEGUNDA], P.O. 19 DE FEBRERO DE 2009)
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2009)</small>
 
-#### SECCIÓN TERCERA. DE LOS CONSEJOS MUNICIPALES DE SEGURIDAD PÚBLICA
+#### SECCIÓN SEGUNDA. DEL SECRETARIADO EJECUTIVO
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 97.
 
@@ -2047,7 +2113,7 @@ b) Fiscalía General;
 
 c) Secretaría de Finanzas y de Administración;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 11 DE JULIO DE 2011)</small>
 
@@ -2067,11 +2133,9 @@ La Junta Directiva sesionará con la periodicidad que se señale en su reglament
 
 La Junta Directiva podrá invitar, por la naturaleza de los asuntos a tratar, a las personas, instituciones y representantes de la sociedad civil que puedan exponer conocimientos y experiencias para el cumplimiento de los objetivos de la seguridad pública. Dicha participación será con carácter honorífico.
 
-(REUBICADA [N. DE E. ANTES SECCION TERCERA], P.O. 19 DE FEBRERO DE 2009)
+(REUBICADA [N. DE E. ANTES SECCIÓN SEGUNDA], P.O. 19 DE FEBRERO DE 2009)
 
-#### SECCIÓN SEGUNDA. DEL SECRETARIADO EJECUTIVO
-
-> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2009)</small>
+#### SECCIÓN TERCERA. DE LOS CONSEJOS MUNICIPALES DE SEGURIDAD PÚBLICA
 
 ###### ARTÍCULO 101.
 
@@ -2105,7 +2169,7 @@ VII. Un Secretario Ejecutivo, que será nombrado por el Presidente Municipal y r
 
 Para el cumplimiento de los objetivos y operatividad del sistema, los Consejos Municipales, conforme lo establece esta Ley, y demás ordenamientos jurídicos aplicables, se coordinarán con las demás instancias involucradas, en materia de la seguridad pública.
 
-> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2009)</small>
+(REUBICADA [N. DE E. ANTES SECCIÓN TERCERA], P.O. 19 DE FEBRERO DE 2009)
 
 #### SECCIÓN CUARTA. DE LAS ATRIBUCIONES DE LOS CONSEJOS MUNICIPALES DE SEGURIDAD PÚBLICA
 
@@ -2129,7 +2193,7 @@ VII. Las demás que le confiera esta Ley y otras disposiciones aplicables.
 
 ### CAPITULO IV. DE LA INFORMACIÓN ESTATAL SOBRE SEGURIDAD PÚBLICA
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE JUNIO DE 2011)</small>
 
 #### SECCIÓN PRIMERA.. DE LA UNIDAD DE ENLACE INFORMÁTICO
 
@@ -2327,7 +2391,7 @@ El incumplimiento a las disposiciones en este artículo serán sancionadas confo
 
 Las autoridades estatales y municipales de seguridad pública están obligadas a proporcionar a la Unidad de Enlace Informático, la información sobre seguridad pública que permita analizar la incidencia en la comisión de los delitos, por lugar geográfico y tipo de delito.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE FEBRERO DE 2009)</small>
 
 #### SECCIÓN SEXTA. DEL REGISTRO DE IMPUTADOS, VINCULADOS A PROCESO Y SENTENCIADOS
 
@@ -2383,7 +2447,7 @@ El Registro de Vehículos Robados y Recuperados se integrará con los datos que 
 
 La consulta al Registro de Vehículos Robados y Recuperados, será de carácter público, para lo cual la Unidad de Enlace Informático brindara las facilidades requeridas por la comunidad.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 19 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 19 DE FEBRERO DE 2009)</small>
 
 #### SECCIÓN OCTAVA BIS. DEL REGISTRO ADMINISTRATIVO DE DETENCIONES
 
@@ -2421,7 +2485,7 @@ Al servidor público que quebrante la reserva del Registro o proporcione informa
 
 ARTÍCULO 128 BIS 3.- Las Instituciones de Seguridad Pública Estatal serán responsables de la administración, guarda y custodia de los datos que integran este registro; su violación se sancionará de acuerdo con las disposiciones previstas en la legislación penal aplicable.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 3 DE OCTUBRE DE 2010)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 #### SECCIÓN OCTAVA TER. DEL REGISTRO DE INTELIGENCIA EN MATERIA CRIMINAL
 
@@ -2433,7 +2497,7 @@ A este registro únicamente podrán acceder los servidores públicos que tengan 
 
 La Unidad será la encargada de garantizar la interconexión con la Fiscalía General para que ésta cumpla con sus responsabilidades constitucionales, así como de establecer los protocolos de acceso y seguridad a fin de que quede registro de las personas que ingresan al sistema. Asimismo, deberá realizar el análisis y sistematización de esta información a fin de que sirva a los fines de la seguridad pública y la justicia penal en la forma más ágil y expedita.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRA, P.O. 17 DE MARZO DE 2011)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRA, P.O. 17 DE MARZO DE 2011)</small>
 
 #### SECCIÓN OCTAVA QUATER. DEL REGISTRO ESTATAL DE VEHICULOS
 
@@ -2445,7 +2509,7 @@ Los datos con que cuenten otras dependencias y entidades del Gobierno del Estado
 
 > <small>(ADICIONADO, P.O. 17 DE MARZO DE 2011)</small>
 
-ARTÍCULO 128 QUATER1.- Los vehículos a motor que circulen de manera permanente o habitual en el territorio del Estado a que se refiere el artículo anterior que no sean registrados, conforme a las disposiciones de esta Ley y las disposiciones reglamentarias correspondientes, serán retirados de la circulación por la Secretaría de Seguridad Pública del Estado.
+ARTÍCULO 128 QUATER 1.- Los vehículos a motor que circulen de manera permanente o habitual en el territorio del Estado a que se refiere el artículo anterior que no sean registrados, conforme a las disposiciones de esta Ley y las disposiciones reglamentarias correspondientes, serán retirados de la circulación por la Secretaría de Seguridad Pública del Estado.
 
 El registro a que se refiere la presente Sección tendrá el carácter estatal y no será constitutivo de derechos ni sustituto de obligaciones, ni acredita la legal estancia del vehículo en el país.
 
@@ -2453,7 +2517,7 @@ Los vehículos que sean detenidos de acuerdo a lo establecido en el presente art
 
 > <small>(ADICIONADO, P.O. 17 DE MARZO DE 2011)</small>
 
-ARTÍCULO 128 QUATER2.- El registro de los vehículos se efectuará en relación con las personas que tengan su domicilio dentro del territorial estatal, de acuerdo al procedimiento, requisitos y plazos que al efecto establezcan las disposiciones reglamentarias correspondientes.
+ARTÍCULO 128 QUATER 2.- El registro de los vehículos se efectuará en relación con las personas que tengan su domicilio dentro del territorial estatal, de acuerdo al procedimiento, requisitos y plazos que al efecto establezcan las disposiciones reglamentarias correspondientes.
 
 La Secretaría de Seguridad Pública, en coordinación con las dependencias estatales correspondientes, establecerá los mecanismos y la forma para identificar el registro de los vehículos a que se refiere la presente Sección, independientemente de lo dispuesto por el artículo 34 de la Ley de Tránsito para los Municipios del Estado de Durango.
 
@@ -2521,11 +2585,11 @@ El Consejo impulsará acciones para que el Estado y los Municipios instrumenten 
 
 ARTÍCULO 138 BIS.- El servicio de llamadas de emergencia y el servicio de denuncia anónima operarán con un número único de atención a la ciudadanía. El Secretario de Seguridad adoptará las medidas necesarias para la homologación de los servicios.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE JUNIO DE 2011)</small>
 
 ## TÍTULO SEXTO. DE LA PARTICIPACIÓN CIUDADANA Y PREVENCIÓN SOCIAL DEL DELITO
 
-> <small>(REFORMADA SU NUMERACION Y DENOMINACION, P.O. 9 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA SU NUMERACIÓN Y DENOMINACIÓN, P.O. 9 DE JUNIO DE 2011)</small>
 
 ### CAPÍTULO PRIMERO. DE LOS CONSEJOS, COMITÉS Y OBSERVATORIOS CIUDADANOS
 
@@ -2547,7 +2611,7 @@ II. Instituciones cuyo objeto sea el fomento a las actividades educativas, cultu
 
 III. Ciudadanos que realicen actividades relacionadas con la seguridad pública, conforme a los usos y costumbres del lugar, que se interesen en coadyuvar con los propósitos y fines de los programas de seguridad pública.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 141.
 
@@ -2597,7 +2661,7 @@ ARTÍCULO 143 BIS.- El Consejo Ciudadano tendrá las siguientes facultades:
 
 I.- Participar en el Consejo Consultivo de la Secretaría de Seguridad Pública;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 II.- (DEROGADA, P.O. 11 DE JULIO DE 2011)
 
@@ -2623,7 +2687,7 @@ III. El impacto de las políticas públicas en prevención social del delito.
 
 Las anteriores disposiciones sobre la regulación de los Consejos y Comités Ciudadanos podrán ser complementadas por otras que dicte el Consejo, y se velará porque cuente con la información oportuna y sistematizada que permita evaluar a los cuerpos de seguridad pública y la Fiscalía General.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE JUNIO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE JUNIO DE 2011)</small>
 
 ### CAPÍTULO SEGUNDO. DE LA PREVENCIÓN SOCIAL DEL DELITO
 
@@ -2635,17 +2699,17 @@ ARTÍCULO 144 bis.- La Secretaría, a través de la Subsecretaría del ramo corr
 
 ARTÍCULO 144 bis 1.- Las acciones encaminadas a la prevención social del delito, promovidas por los municipios e instancias competentes, públicas o privadas, deberán ser presentadas ante la Secretaría para que a través de la Subsecretaría del ramo, realice el análisis y evaluación, y en su caso, determinar las medidas necesarias de carácter jurídico, político, administrativo, social y cultural para el desarrollo e implementación de las mismas y su homologación con las políticas establecidas por los tres órdenes de gobierno.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ## TÍTULO SÉPTIMO. DE LA DIRECCIÓN GENERAL DE EJECUCIÓN DE PENAS Y MEDIDAS DE SEGURIDAD
 
 ### CAPÍTULO ÚNICO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 145.
 
@@ -2779,7 +2843,7 @@ IX. Recibir oportuna atención médica, sin costo alguno para el elemento polici
 
 X. Ser recluidos en áreas especiales para policías en los casos en que sean sujetos a prisión preventiva.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE JUNIO DE 2008)</small>
 
 ### CAPITULO III. DE LOS CORRECTIVOS DISCIPLINARIOS Y SANCIONES
 
@@ -2793,7 +2857,7 @@ Los correctivos disciplinarios y sanciones a que se hagan acreedores los miembro
 
 Los correctivos disciplinarios son las acciones a que se hace acreedor el elemento que comete alguna falta a los principios de actuación previsto en esta Ley o a las normas disciplinarias que cada uno de los cuerpos de seguridad pública establezcan y que no amerite la destitución del infractor.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 157.
 
@@ -2859,7 +2923,7 @@ La suspensión temporal de carácter preventivo procederá contra el elemento qu
 
 La suspensión temporal de carácter correctivo procederá contra el elemento que en forma reiterada o particularmente indisciplinada ha incurrido en faltas cuya naturaleza no amerita la destitución. La suspensión a que se refiere este párrafo no podrá exceder de treinta días naturales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 164.
 
@@ -2905,11 +2969,11 @@ El cambio de los mandos no constituirá una causa para destituir a un elemento d
 
 El reglamento de esta Ley, establecerá el procedimiento, recursos y garantías procesales que regulen la relación entre los miembros de los cuerpos de seguridad y las autoridades que contempla esta Ley.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 19 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE FEBRERO DE 2009)</small>
 
 ## TÍTULO NOVENO
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 19 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE FEBRERO DE 2009)</small>
 
 ### CAPÍTULO ÚNICO. DEL CENTRO ESTATAL DE ACREDITACIÓN Y CONTROL DE CONFIANZA
 
@@ -3009,7 +3073,7 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. RICARDO FIDEL PACHECO RODRÍGUEZ.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 5 DE OCTUBRE DE 2006.
 
@@ -3033,61 +3097,61 @@ CUARTO. El Ejecutivo emitirá el Acuerdo Administrativo mediante el cual se esta
 
 P.O. 19 DE FEBRERO DE 2009.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 Artículo Primero.- Las reformas contenidas en el presente decreto relacionadas con el sistema procesal penal acusatorio, entrarán en vigor en las fechas y ámbitos espacial y temporal de validez que determinen la (sic) declaratorias que emita el Congreso del Estado o la Comisión Permanente a solicitud expresa del Tribunal Superior de Justicia del Estado, respecto de la vigencia del Código Procesal Penal del Estado de Durango, aprobado mediante Decreto No. 232, y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, No. 11 de fecha 5 de diciembre de 2008.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 Artículo Segundo.- Con la iniciación de la vigencia prevista en el artículo transitorio anterior, quedarán derogadas todas las disposiciones que se opongan a las contenidas en el presente decreto.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 Artículo Tercero.- Las disposiciones que en materia de seguridad pública y seguridad privada, se encuentren vigentes al momento de la publicación del presente decreto en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, continuarán en vigor hasta en tanto sean promulgadas, publicadas e inicien su vigencia los ordenamientos aludidos en los articulas sexto, séptimo y octavo transitorios del presente decreto.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 Artículo Cuarto.- El Centro Estatal de Acreditación y Control de Confianza, a que se refiere el Título Noveno, Capítulo Único de la presente Ley deberá practicar las evaluaciones respectivas a sus integrantes conforme a lo establecido en el Artículo Transitorio Tercero de la Ley General del Sistema Nacional de Seguridad Pública.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 Artículo Quinto.- Todos los integrantes de las Instituciones de Seguridad Pública deberán contar con certificado a que se refiere el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos y la presente ley en los términos y plazos previstos en el artículo transitorio anterior. Quienes no obtengan el certificado serán separados del servicio, observando lo dispuesto en el artículo 123, Apartado B, Fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 Artículo Sexto.- Los servicios de carrera vigentes en la Secretaría de Seguridad Pública, a la fecha de entrada en vigor de este Decreto, deberá ajustarse a los requisitos, criterios y procedimientos que establece la presente ley en la rama correspondiente en un plazo no mayor al establecido en el Artículo Quinto Transitorio de la Ley General del Sistema Nacional de Seguridad Pública.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 Artículo Séptimo.- El Ejecutivo Estatal expedirá los reglamentos respectivos en un plazo no mayor de noventa días a partir de la entrada en vigor del presente Decreto.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 Artículo Octavo.- La Secretaría de Seguridad, emitirá los manuales de operación de las áreas correspondientes, a partir de la aprobación de los reglamentos a que se refiere el artículo anterior.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
 Artículo Noveno.- En lo que respecta a la elaboración de los planes y programas, así como proyectos de presupuesto se atenderá a lo dispuesto en el Artículo Octavo Transitorio del Código Procesal Penal del Estado de Durango, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, número 11 de fecha 5 diciembre de 2008.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -3250,3 +3314,13 @@ SEXTO. Cualquier mención establecida en ordenamientos legales a la Fiscalía Ge
 SÉPTIMO. Lo no previsto en los artículos transitorios del presente Decreto, se estará a lo dispuesto en el Decreto Constitucional relacionado con la materia de este mismo.
 
 OCTAVO. Se derogan las disposiciones que se opongan al contenido del presente decreto.
+
+P.O. 26 DE AGOSTO DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. A partir de la entrada en vigor del presente decreto, se conformará el Consejo Directivo, al que se refiere el artículo 68 del presente decreto, en un lapso no mayor de 20 días hábiles.
+
+TERCERO. Una vez instaurado el Consejo Directivo, este tendrá 30 días para la elaboración del reglamento interno del mismo.
+
+CUARTO. Se derogan las disposiciones que se opongan al presente decreto.
