@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-responsabilidades-de-los-servidores-publicos-del-22753"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-12"
-last_updated: "2010-11-15"
+last_updated: "2012-08-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE AGUASCALIENTES
 
-LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE AGUASCALIENTES
+LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2012.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2001.
 
@@ -323,7 +323,7 @@ Si durante la tramitación de alguno de los procedimientos en que interviene el 
 
 ### CAPITULO III. Procedimiento Para la Declaratoria de Procedencia
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 37.
 
@@ -385,7 +385,7 @@ En la sesión a que se refiere el artículo anterior, el Presidente de la Mesa D
 
 Retiradas las partes, el Gran Jurado declarará por consenso de las dos terceras partes del total de los Diputados si ha lugar a proceder en contra del denunciado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 48.
 
@@ -869,9 +869,11 @@ II.- Se levante el acta que contenga el pliego preventivo de responsabilidad.
 
 ### CAPITULO IV. Del Recurso de Revocación
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 101.
 
-Las resoluciones que impongan sanciones administrativas, podrán ser impugnadas por el servidor público ante la propia autoridad que las emita, mediante recurso de revocación, que se interpondrá dentro de los diez días hábiles siguientes a la fecha de la notificación de la resolución recurrida, a excepción de la resolución que imponga una sanción que implique la determinación de un crédito fiscal, la cual podrá ser combatida de manera optativa ante la propia autoridad que la emite o mediante juicio ante el Tribunal de lo Contencioso Administrativo del Estado conforme a las disposiciones de la Ley del Procedimiento Contencioso Administrativo para el Estado de Aguascalientes.
+Las resoluciones que impongan sanciones administrativas, podrán ser impugnadas por el servidor público ante la propia autoridad que las emita, mediante recurso de revocación, que se interpondrá dentro de los diez días hábiles siguientes a la fecha de la notificación de la resolución recurrida, a excepción de la resolución que imponga una sanción que implique la determinación de un crédito fiscal, la cual podrá ser combatida de manera optativa ante la propia autoridad que la emite o mediante juicio ante la Sala Administrativa y Electoral del Poder Judicial del Estado conforme a las disposiciones de la Ley del Procedimiento Contencioso Administrativo para el Estado de Aguascalientes.
 
 ###### ARTICULO 102.
 
@@ -943,7 +945,7 @@ En estos casos, el nuevo plazo comenzará a contarse a partir de la fecha en que
 
 ### CAPITULO UNICO. De la Declaración de Situación Patrimonial
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR EL PRESENTE ARTICULO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR EL PRESENTE ARTÍCULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
 
@@ -1109,7 +1111,7 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 25 DE AGOSTO DE 2003.
 
@@ -1164,3 +1166,17 @@ En un plazo de 60 días naturales contados a partir de la entrada en vigencia de
 ###### ARTÍCULO TERCERO.
 
 En un plazo de 60 días naturales contados a partir de la entrada en vigencia del presente Decreto, la Contraloría General del Estado, remitirá a las respectivas contralorías, los expedientes que obren en su poder, relativos a los procedimientos de responsabilidad que se encuentren en trámite en contra de los servidores públicos adscritos a los Poderes Legislativo y Judicial; para efectos de que se continúe con el procedimiento y se resuelva lo procedente en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
+
+P.O. 27 DE AGOSTO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los sesenta días siguientes al inicio de sus funciones, la Sala Administrativa y Electoral deberá expedir el Reglamento que rija su actuación; debiendo quedar abrogado el Reglamento del Tribunal de lo Contencioso Administrativo del Estado de Aguascalientes y el Reglamento Interior del Tribunal Local Electoral.
+
+###### ARTÍCULO TERCERO.
+
+El proceso para la elección de dos Magistrados de la Sala Administrativa y Electoral, del Poder Judicial del Estado de Aguascalientes, que dio inicio con la Convocatoria emitida por el Consejo de la Judicatura Estatal, publicada en el Periódico Oficial del Estado el 23 de julio de 2012, se regirá hasta su conclusión por las normas vigentes hasta antes del presente Decreto.
