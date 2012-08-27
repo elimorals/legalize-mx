@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-ministerio-publico-del-estado-de-89069"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-08-20"
-last_updated: "2012-08-20"
+last_updated: "2012-08-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "AGU"
 ---
 # LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE AGUASCALIENTES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE AGOSTO DE 2012 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE AGUASCALIENTES
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 27 DE AGOSTO DE 2012.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 20 de agosto de 2012.
 
@@ -413,11 +413,11 @@ También podrán usarse como material probatorio el video o las imágenes captad
 
 Cuando se trate de los supuestos previstos por la Ley de Video Vigilancia del Estado de Aguascalientes, el Ministerio Público podrá solicitar la grabación correspondiente al Comité de Video Vigilancia del Estado de Aguascalientes, el cual atenderá el requerimiento en forma inmediata.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE AGOSTO DE 2012 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 28.
 
-Ningún inculpado podrá ser retenido por el Ministerio Público por más de cuarenta y ocho horas, plazo en que deberá ordenarse su libertad o ponérsele a disposición de la autoridad judicial. Este plazo podrá duplicarse en los casos previstos por el Artículo 481 de la Legislación Penal del Estado de Aguascalientes.
+Ningún inculpado podrá ser retenido por el Ministerio Público por más de cuarenta y ocho horas, plazo en que deberá ordenarse su libertad o ponérsele a disposición de la autoridad judicial; este plazo podrá duplicarse en aquellos casos que la Ley prevea como delincuencia organizada.
 
 Desde el momento en que tenga a su disposición al inculpado, el Ministerio Público le hará saber los motivos de su detención, así como su derecho a guardar silencio y demás prerrogativas que en su favor consagra el Artículo 20 de la Constitución Política de los Estados Unidos Mexicanos.
 
