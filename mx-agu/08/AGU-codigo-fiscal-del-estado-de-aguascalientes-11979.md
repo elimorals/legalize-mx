@@ -4,7 +4,7 @@ identifier: "AGU-codigo-fiscal-del-estado-de-aguascalientes-11979"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "2009-06-01"
+last_updated: "2012-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11979&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # CODIGO FISCAL DEL ESTADO DE AGUASCALIENTES
 
-CODIGO FISCAL DEL ESTADO DE AGUASCALIENTES
+CÓDIGO FISCAL DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2012.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Aguascalientes, el jueves 31 de diciembre de 1981.
 
@@ -399,7 +399,7 @@ IV.- Condonación.
 
 V.- Aplicación del producto del remate.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 43.
 
@@ -411,7 +411,7 @@ Los giros postales, telegráficos o bancarios, los cheques certificados y los pe
 
 La falta de pago inmediato de un cheque expedido para cubrir un crédito fiscal, por parte de la institución a cuyo cargo se hubiere librado, dará derecho a la Secretaría de Finanzas para exigir del librador el pago del importe del mismo y una indemnización del 20% del valor del cheque. Esta indemnización y el cobro del cheque se notificará y se hará efectivo mediante los procedimientos establecidos en este Código, para los demás créditos fiscales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 44.
 
@@ -551,7 +551,7 @@ II.- Cuando por caso fortuito, la situación económica del contribuyente sufra 
 
 Las multas administrativas que se impongan por las autoridades, por infracciones a este Código y a las demás leyes fiscales, deberán ser condonadas totalmente por el Secretario de Finanzas, cuando, por pruebas distintas a las presentadas ante las autoridades administrativas, se demuestre que no se cometió la infracción o que el sancionado no es el responsable.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 57.
 
@@ -1027,7 +1027,7 @@ Para los efectos de la caducidad, las resoluciones que emitan las autoridades fi
 
 Las autoridades fiscales solicitarán de las demás autoridades estatales y municipales, la colaboración que consideren necesaria para el eficaz desempeño de sus funciones; esta colaboración la deberán procurar de inmediato.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 98.
 
@@ -1341,7 +1341,7 @@ Las opiniones o interpretaciones contenidas en los dictámenes no obligan a las 
 
 Las diferencias de impuestos a cargo de contribuyentes determinados por el contador público, serán recibidas por la Secretaría de Finanzas como manifestaciones espontáneas, y por lo tanto, no se aplicarán sanciones, salvo los recargos correspondientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 135.
 
@@ -1375,7 +1375,7 @@ Para los efectos del párrafo anterior, los sujetos pasivos informarán a las au
 
 Las autoridades fiscales del Estado rectificarán en cualquier momento de oficio o a instancia del interesado, los errores materiales o de hecho y los aritméticos, siempre que no hubieren transcurrido cinco años desde que se practicó la determinación o liquidación, según sea el caso cuya rectificación se pretenda.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 141.
 
@@ -1445,7 +1445,7 @@ La vigencia de los convenios estará limitada a la del año natural en que se ce
 
 No satisfecho un crédito fiscal dentro del plazo que para el efecto señalen las disposiciones fiscales del Estado, se exigirá su pago mediante el procedimiento administrativo de ejecución.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 148.
 
@@ -2035,11 +2035,11 @@ La resolución que resuelva el recurso, deberá notificarse al recurrente y a la
 
 ### CAPITULO I. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 225.
 
-El conocimiento, trámite y resolución del procedimiento contencioso, corresponde al Tribunal de lo Contencioso Administrativo del Estado, en los términos establecidos en la Ley Orgánica del propio Tribunal, así como en la Ley del Procedimiento Contencioso Administrativo del Estado.
+El conocimiento, trámite y resolución del procedimiento contencioso, corresponde a la Sala Administrativa y Electoral del Poder Judicial del Estado, en los términos establecidos en la Ley Orgánica del Poder Judicial del Estado, así como en la Ley del Procedimiento Contencioso Administrativo para el Estado de Aguascalientes.
 
 ###### ARTICULO 226.
 
@@ -2299,7 +2299,7 @@ EL TESORERO GENERAL DEL ESTADO,
 
 C.P. Alfredo de Alba Olavarrieta.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 19 DE SEPTIEMBRE DE 1999.
 
@@ -2330,3 +2330,17 @@ P.O. 1 DE JUNIO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE AGOSTO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los sesenta días siguientes al inicio de sus funciones, la Sala Administrativa y Electoral deberá expedir el Reglamento que rija su actuación; debiendo quedar abrogado el Reglamento del Tribunal de lo Contencioso Administrativo del Estado de Aguascalientes y el Reglamento Interior del Tribunal Local Electoral.
+
+###### ARTÍCULO TERCERO.
+
+El proceso para la elección de dos Magistrados de la Sala Administrativa y Electoral, del Poder Judicial del Estado de Aguascalientes, que dio inicio con la Convocatoria emitida por el Consejo de la Judicatura Estatal, publicada en el Periódico Oficial del Estado el 23 de julio de 2012, se regirá hasta su conclusión por las normas vigentes hasta antes del presente Decreto.
