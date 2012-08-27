@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-expropiacion-para-el-estado-de-aguascalientes-55084"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-16"
-last_updated: "2011-10-17"
+last_updated: "2012-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55084&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # LEY DE EXPROPIACION PARA EL ESTADO DE AGUASCALIENTES
 
-LEY DE EXPROPIACION PARA EL ESTADO DE AGUASCALIENTES
+LEY DE EXPROPIACIÓN PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2012.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 16 de abril de 2007.
 
@@ -191,7 +191,7 @@ Cuando deban hacerse en el territorio del Estado las llevarán a cabo el persona
 
 Las notificaciones se realizarán personalmente, por cédula o por edictos, de conformidad con lo que se establece en los siguientes artículos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 16.
 
@@ -237,7 +237,11 @@ En el propio acuerdo se ordenará realizar la anotación preventiva en el folio 
 
 La división y traslación de los bienes afectables no producirán efectos cuando se inscriban en el Registro Público de la Propiedad y del Comercio, con posterioridad a la anotación preventiva mencionada en el Artículo anterior.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 22.
+
+Los titulares de derechos reales sobre un bien objeto de expropiación, ocupación o limitación, deberán ser oídos en el procedimiento respectivo, para tal efecto deben ser notificados del inicio del procedimiento y de sus consecuencias; contarán con la oportunidad de ofrecer y desahogar pruebas en que se finque su defensa; con la oportunidad de alegar e igualmente tendrán derecho a que se emita una resolución que dirima las cuestiones debatidas.
 
 Las acciones personales que se deduzcan o hayan deducido con relación a los bienes afectados, no impedirán el curso del procedimiento de expropiación.
 
@@ -367,43 +371,61 @@ El titular del Poder Ejecutivo determinará tomando en cuenta los avalúos, en s
 
 Se tendrá por conforme con el avalúo del perito contrario a cualquiera que no haga designación de valuador, al que no cumpla con los requisitos del Artículo 37, o al que no exhiba el testimonio con el avaló (sic) en el término señalado.
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 40.
 
-El valor comercial determinado por el Poder Ejecutivo en los términos del Artículo 38 de esta Ley, podrá controvertirse ante el Tribunal de lo Contencioso Administrativo.
+El valor comercial determinado por el Poder Ejecutivo en los términos del Artículo 38 de esta Ley, podrá controvertirse ante la Sala Administrativa y Electoral del Poder Judicial del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2012)</small>
+
+ARTICULO 40 A.- La demanda deberá de promoverse ante la Sala Administrativa y Electoral del Poder Judicial del Estado, en el plazo de cinco días hábiles contados a partir de que se notifique la declaratoria de expropiación en los términos del Artículo 29 de esta Ley.
 
 > <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2011)</small>
-
-ARTICULO 40 A.- La demanda deberá de promoverse ante el Tribunal de lo Contencioso Administrativo del Estado de Aguascalientes, en el plazo de cinco días hábiles contados a partir de que se notifique la declaratoria de expropiación en los términos del Artículo 29 de esta Ley.
 
 La demanda deberá de reunir los requisitos establecidos en las Fracciones I, II, III, IV, V y VII del Artículo 29 de la Ley del Procedimiento Contencioso Administrativo para el Estado de Aguascalientes.
 
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2011)</small>
+
 En la demanda debe designar el actor, si no lo hubiere hecho en la audiencia del procedimiento de expropiación, el nombre del corredor público que valuará el bien mueble o inmueble de su intención, quien deberá de aceptar y protestar el cargo conferido y comprometerse, en el propio escrito de demanda a rendir su avalúo en el término de cinco días hábiles.
 
-En el caso de que la demanda no cumpla con estos requisitos el Tribunal no podrá admitirla.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
-Una vez admitida la demanda, el Tribunal dará vista a la autoridad demandada para que se imponga del procedimiento instaurado en su contra, para que alegue lo que a su derecho convenga.
+En el caso de que la demanda no cumpla con estos requisitos la Sala Administrativa y Electoral no podrá admitirla.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
+Una vez admitida la demanda, la Sala Administrativa y Electoral del Poder Judicial del Estado, dará vista a la autoridad demandada para que se imponga del procedimiento instaurado en su contra, para que alegue lo que a su derecho convenga.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2011)</small>
 
 En caso de que el avalúo comercial de la parte actora no se presente en el término fijado se sobreseerá el procedimiento quedando firme el monto de la indemnización impugnada.
 
-> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2012)</small>
 
-ARTICULO 40 B.- Presentado el avalúo comercial de la parte actora resolverá el Tribunal prudencialmente y en definitiva si se designa un corredor público tercero en discordia, o bien si se decreta como monto de la indemnización el que represente una mayor indemnización cuantitativamente, lo que deberá de hacer fundando y motivando cuidadosamente su fallo.
+ARTICULO 40 B.- Presentado el avalúo comercial de la parte actora resolverá la Sala Administrativa y Electoral prudencialmente y en definitiva si se designa un corredor público tercero en discordia, o bien si se decreta como monto de la indemnización el que represente una mayor indemnización cuantitativamente, lo que deberá de hacer fundando y motivando cuidadosamente su fallo.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2011)</small>
 
 En el caso de que se designe un tercer corredor público para que dirima la discordia deberá de emitir su dictamen en un término de cinco días hábiles, con el apercibimiento que de no hacerlo se decretará una medida de apremio en su contra.
 
-Emitido el tercer avalúo decretará el Tribunal el valor definitivo de la indemnización.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
+Emitido el tercer avalúo decretará la Sala Administrativa y Electoral el valor definitivo de la indemnización.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2011)</small>
 
 Cada parte retribuirá a su corredor y el pago del corredor tercero en discordia quedará a cargo de la autoridad que solicitó la expropiación.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
+ARTICULO 40 C.- Contra las resoluciones de la Sala Administrativa y Electoral en este procedimiento no procederá recurso alguno.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2012)</small>
+
+ARTICULO 40 D.- El procedimiento tramitado ante la Sala Administrativa y Electoral para impugnar el monto de la indemnización, no suspenderá los efectos del decreto de expropiación.
+
 > <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2011)</small>
-
-ARTICULO 40 C.- Contra las resoluciones del Tribunal de lo Contencioso Administrativo en este procedimiento no procederá recurso alguno.
-
-> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2011)</small>
-
-ARTICULO 40 D.- El procedimiento tramitado ante el Tribunal de lo Contencioso Administrativo para impugnar el monto de la indemnización, no suspenderá los efectos del decreto de expropiación.
 
 El titular de los derechos reales afectados por el procedimiento de expropiación tendrá el derecho de recibir el monto de la indemnización determinada por el Ejecutivo, aún y cuando decida ejercitar la acción de impugnación de dicho monto, teniendo el derecho de recibir la diferencia en caso de que el fallo le resulte favorable.
 
@@ -439,13 +461,17 @@ II. Los hechos en que se sustente; y
 
 III. Las pruebas que se ofrezcan para acreditar el incumplimiento del decreto expropiatorio, con excepción de la confesional de posiciones de los titulares de las dependencias públicas.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 45.
 
-La reversión deberá promoverse ante la autoridad expropiante y la resolución que la niegue podrá impugnarse ante el Tribunal de lo Contencioso Administrativo.
+La reversión deberá promoverse ante la autoridad expropiante y la resolución que la niegue podrá impugnarse ante la Sala Administrativa y Electoral del Poder Judicial del Estado de Aguascalientes.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 46.
 
-Si la resolución del Tribunal de lo Contencioso Administrativo es favorable al propietario, éste deberá restituir a quien corresponda, el importe de la indemnización que se le hubiere pagado y se cancelará la inscripción del decreto expropiatorio en el Registro Público de la Propiedad, tratándose de inmuebles.
+Si la resolución de la Sala Administrativa y Electoral del Poder Judicial es favorable al propietario, éste deberá restituir a quien corresponda, el importe de la indemnización que se le hubiere pagado y se cancelará la inscripción del decreto expropiatorio en el Registro Público de la Propiedad, tratándose de inmuebles.
 
 ###### ARTICULO 47.
 
@@ -507,7 +533,7 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Jorge Mauricio Martínez Estebanez.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 17 DE OCTUBRE DE 2011.
 
@@ -518,3 +544,17 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Se derogan las disposiciones legales que se opongan a la presente reforma.
+
+P.O. 27 DE AGOSTO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los sesenta días siguientes al inicio de sus funciones, la Sala Administrativa y Electoral deberá expedir el Reglamento que rija su actuación; debiendo quedar abrogado el Reglamento del Tribunal de lo Contencioso Administrativo del Estado de Aguascalientes y el Reglamento Interior del Tribunal Local Electoral.
+
+###### ARTÍCULO TERCERO.
+
+El proceso para la elección de dos Magistrados de la Sala Administrativa y Electoral, del Poder Judicial del Estado de Aguascalientes, que dio inicio con la Convocatoria emitida por el Consejo de la Judicatura Estatal, publicada en el Periódico Oficial del Estado el 23 de julio de 2012, se regirá hasta su conclusión por las normas vigentes hasta antes del presente Decreto.
