@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-judicial-del-estado-de-aguascalientes-14
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-08-15"
-last_updated: "2011-06-17"
+last_updated: "2012-08-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES
 
-LEY ORGANICA DEL PODER JUDICIAL
+LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2012.
 
 Ley publicada en el Suplemento al No. 33 del Periódico Oficial del Estado de Aguascalientes, el domingo 15 de agosto de 1993.
 
@@ -43,17 +43,17 @@ LEY ORGANICA DEL PODER JUDICIAL
 
 ### CAPITULO I. De los Tribunales del Estado
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 1o.
 
-El Poder Judicial del Estado se integra por el Supremo Tribunal de Justicia, el Tribunal Electoral, el Tribunal de lo Contencioso Administrativo, Juzgados de Primera Instancia Civiles, Penales, de Ejecución, de Justicia para Adolescentes, Mixtos de Primera Instancia, Familiares y Mixtos Menores, el Consejo de la Judicatura Estatal, el Instituto de Capacitación y la Contraloría Interna.
+El Poder Judicial del Estado se integra por el Supremo Tribunal de Justicia, la Sala Administrativa y Electoral, los Juzgados de Primera Instancia Civiles, Penales, de Ejecución, de Justicia para Adolescentes, Mixtos de Primera Instancia, Familiares y Mixtos Menores, el Consejo de la Judicatura Estatal, el Instituto de Capacitación y la Contraloría Interna.
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 2o.
 
-El Supremo Tribunal de Justicia, el Tribunal Electoral, el Tribunal de lo Contencioso Administrativo y los Jueces, ejercerán su jurisdicción respectiva en el lugar, grado y términos que les asigna esta Ley, los Códigos Procesales, la Ley Electoral del Estado, la Ley del Procedimiento Administrativo, la Ley del Sistema de Justicia para Adolescentes y demás leyes vigentes.
+El Supremo Tribunal de Justicia, la Sala Administrativa y Electoral y los Jueces, ejercerán su jurisdicción respectiva en el lugar, grado y términos que les asigna esta Ley, los Códigos Procesales, el Código Electoral del Estado, la Ley del Procedimiento Contencioso Administrativo, la Ley del Sistema de Justicia para Adolescentes y demás leyes vigentes.
 
 ###### ARTICULO 3o.
 
@@ -79,9 +79,11 @@ IX.- Los demás que designe la Ley.
 
 ### CAPITULO II. Del Supremo Tribunal de Justicia
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 4o.
 
-El Supremo Tribunal de Justicia se compondrá de siete Magistrados Propietarios como mínimo y siete Supernumerarios y funcionará en Pleno o en Salas Mixtas.
+El Supremo Tribunal de Justicia se compondrá de siete Magistrados Propietarios y funcionará en Pleno o en sus dos distintas salas: la civil y la penal, integradas por tres magistrados cada una.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
 
@@ -103,9 +105,11 @@ VI.- No haber tenido cargo de Secretario o su equivalente en el Poder Ejecutivo 
 
 ### CAPITULO III. Del Pleno del Tribunal
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 6o.
 
-El Pleno se compondrá de los Magistrados Propietarios que integran el Supremo Tribunal de Justicia, pero bastará la presencia de la mayoría de sus miembros y del Secretario, para que pueda funcionar. En los acuerdos reservados desempeñará las funciones de Secretario el último Magistrado en el orden de su designación.
+El Pleno se compondrá de los Magistrados que integran el Supremo Tribunal de Justicia, pero bastará la presencia de la mayoría de sus miembros y del Secretario, para que pueda funcionar. En los acuerdos reservados desempeñará las funciones de Secretario el último Magistrado en el orden de su designación.
 
 ###### ARTICULO 7o.
 
@@ -117,7 +121,7 @@ Las sesiones del Pleno se celebrarán en los días y horas que fije el Reglament
 
 De toda sesión del Tribunal se levantará acta que firmarán los Magistrados y el Secretario de Acuerdos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ABRIL DE 1995)</small>
 
 ###### ARTICULO 9o.
 
@@ -125,9 +129,9 @@ Son atribuciones del Supremo Tribunal de Justicia del Estado en pleno:
 
 I.- Presentar Iniciativas de Ley ante la Legislatura del Estado, en asuntos que tengan por objeto mejorar la impartición de justicia;
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1997)</small>
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
-II.- Expedir su Reglamento Interior, el del Tribunal Electoral y los de los Juzgados del Estado;
+II.- Expedir su Reglamento Interior, así como los acuerdos, lineamientos y reglamentos que rijan la organización y funcionamiento de sus dependencias y órganos auxiliares;
 
 III.- Conocer de las competencias que se susciten en materia civil o penal entre los Jueces del Estado y entre éstos y las autoridades administrativas del Estado;
 
@@ -143,23 +147,25 @@ VII.- Nombrar y remover a los servidores públicos del Supremo Tribunal de Justi
 
 VIII.- Determinar las adscripciones de los Magistrados a las Salas;
 
-IX.- Designar a Magistrados de una Sala para que transitoriamente integren otra cuando sea necesario para su funcionamiento; y adscribir los Magistrados supernumerarios a las salas, para que suplan a los propietarios en sus faltas temporales;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+IX.- Designar a Magistrados de una Sala para que transitoriamente integren otra cuando sea necesario para su funcionamiento;
 
 > <small>(REFORMADA, P.O. 2 DE ABRIL DE 1995)</small>
 
 X.- Conocer los informes del Consejo de la Judicatura Estatal por lo que respecta a las licencias otorgadas a los Jueces y emitir opiniones de los mismos;
 
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
-XI.- Conocer y resolver las solicitudes de indemnización en términos de lo establecido por el Título Octavo del Libro Segundo de la Legislación Penal del Estado de Aguascalientes;
+XI.- Conocer y resolver las solicitudes de indemnización en términos de lo establecido por el Código de Procedimientos Penales para el Estado (sic) Aguascalientes;
 
 XII.- Excitar a los Jueces para que administren pronta y cumplida justicia, de oficio o a moción de las partes interesadas;
 
 XIII.- Dictar acuerdos en bien de la pronta y eficaz administración de justicia;
 
-XIV.- Informar al Ejecutivo en los casos de indulto necesario, de rehabilitación en los demás que las leyes determinen, conforme a los requisitos establecidos por las mismas;
+XIV.- (DEROGADA, P.O. 27 DE AGOSTO DE 2012)
 
-XV.- Declarar que quedan en libertad absoluta los reos que hayan gozado de libertad preparatoria, cuando sea ello procedente de acuerdo con las Leyes relativas;
+XV.- (DEROGADA, P.O. 27 DE AGOSTO DE 2012)
 
 XVI.- Aplicar a los servidores públicos subalternos del Supremo Tribunal de Justicia las correcciones disciplinarias a que se hagan acreedores;
 
@@ -175,27 +181,35 @@ XXI.- Resolver las recusaciones y excusas del Presidente del Supremo Tribunal de
 
 XXII.- Conocer y resolver las controversias que se susciten entre los miembros de las Salas y las que surjan entre éstas;
 
-XXIII.- Ejercitar las demás facultades que le confieren las Leyes; y (sic)
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+XXIII.- Ejercitar las demás facultades que le confieren las Leyes;
 
 XXIV.- Aprobar el presupuesto anual de egresos del Poder Judicial.
 
-> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 1997)</small>
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
-XXV.- Resolver las recusaciones y excusas que por impedimento legal tengan los Magistrados del Tribunal Electoral; y
+XXV.- Resolver las recusaciones y excusas que por impedimento legal tengan los Magistrados de la Sala Administrativa y Electoral; y
 
-> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 1997)</small>
+XXVI.- (DEROGADA, P.O. 27 DE AGOSTO DE 2012)
 
-XXVI.- Adscribir a los Magistrados Supernumerarios al Tribunal Electoral, para que suplan a los propietarios en sus faltas temporales.
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 10.
 
-Los Magistrados serán nombrados en la forma que establece el Artículo 54 de la Constitución Política del Estado, tendrá calidad de Presidente el que el Pleno del Supremo Tribunal de Justicia del Estado elija, durará dos años en su encargo y podrá ser designado para un segundo período.
+Para nombrar a los Magistrados del Supremo Tribunal de Justicia y a los Magistrados de la Sala Administrativa y Electoral, el Consejo de la Judicatura Estatal emitirá la convocatoria correspondiente para que los aspirantes que cumplan con los requisitos establecidos en el artículo 53 de la Constitución Política del Estado, sean sometidos a exámenes de carácter psicométrico y aptitud, así como de conocimientos; ponderándose su experiencia laboral y formación académica. Elementos todos que agregados a los resultados que se obtengan de las evaluaciones respectivas, permitirán se formen las quintetas por cada magistratura vacante para realizar el trámite que establece el artículo 54 de la Constitución Política del Estado.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
+ARTICULO 10 A.- Los Magistrados que integren el Pleno del Supremo Tribunal de Justicia del Estado, durarán en su encargo quince años; y los Magistrados de la Sala Administrativa y Electoral durarán en su encargo diez años; sólo podrán ser sustituidos cuando sobrevenga defunción, incapacidad física o mental permanente, o removidos por mala conducta debidamente comprobada, calificada por el Consejo de la Judicatura Estatal o previo juicio de responsabilidad ante el Congreso del Estado, en cuyo caso serán destituidos.
+
+Los Magistrados del Supremo Tribunal de Justicia del Estado y de la Sala Administrativa y Electoral, podrán ser reelectos, y si lo fueren, sólo podrán ser sustituidos en los términos señalados en el párrafo anterior.
+
+Todo Magistrado que pretenda reelegirse, será sometido al procedimiento establecido en el artículo 10 de esta Ley, el cual iniciará, por lo menos, noventa días antes de que concluya su encargo.
 
 ### CAPITULO IV. De la Presidencia del Supremo Tribunal de Justicia
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ABRIL DE 1995)</small>
 
 ###### ARTICULO 11.
 
@@ -233,9 +247,9 @@ X.- Remitir al Juez competente los exhortos y despachos de acuerdo con el turno 
 
 XI.- Informar al Pleno del Supremo Tribunal de Justicia del Estado el nombramiento de los jueces y servidores públicos que nombre el Consejo de la Judicatura Estatal;
 
-> <small>(REFORMADA, P.O. 2 DE ABRIL DE 1995)</small>
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
-XII.- Proponer al Pleno del Supremo Tribunal de Justicia del Estado el nombramiento del Oficial Mayor;
+XII.- Nombrar al Oficial Mayor ya los directores de los órganos auxiliares, así como determinar la adscripción de los jueces civiles, penales, mixtos de primera instancia, mixtos menores, de ejecución .y especializados en la impartición de justicia para adolescentes, secretarios y notificadores a las jurisdicciones que les correspondan;
 
 > <small>(REFORMADA, P.O. 2 DE ABRIL DE 1995)</small>
 
@@ -247,9 +261,11 @@ XV.- Tramitar las quejas de los litigantes sobre las faltas que ocurran en el de
 
 Si las faltas fueren leves, dictará las providencias oportunas para su corrección o remedio Inmediato; si fueren graves dará cuenta al Pleno para que tome el acuerdo correspondiente;
 
-XVI. Administrar los bienes, recursos y valores que se adquieran por el Poder Judicial;
+XVI.- Administrar los bienes, recursos y valores que se adquieran por el Poder Judicial;
 
-XVII.- Crear las unidades administrativas auxiliares de la presidencia que estime convenientes para el adecuado desarrollo de sus funciones y proponer a los respectivos servidores;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+XVII.- Crear las unidades administrativas auxiliares de la Presidencia que estime convenientes para el adecuado desarrollo de sus funciones y nombrar a los respectivos servidores;
 
 XVIII.- Celebrar convenios con las instituciones de enseñanza superior u organismos e instituciones de investigación jurídica para lograr el mejoramiento profesional de los administradores de justicia; y
 
@@ -257,9 +273,11 @@ XIX.- Las demás que le confieran las Leyes.
 
 ### CAPITULO V. De las Salas
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 12.
 
-El Supremo Tribunal de Justicia funcionará en tantas Salas como fueren necesarias y serán mixtas, y se enumerarán progresivamente conforme lo determine el Pleno del Tribunal.
+El Supremo Tribunal de Justicia funcionará en dos Salas: la civil y la penal.
 
 ###### ARTICULO 13.
 
@@ -267,9 +285,11 @@ Cada una de las Salas se integrará con tres Magistrados, quienes en la primera 
 
 El presidente de cada Sala durará en su cargo un año y podrá ser reelecto para el período inmediato siguiente.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 14.
 
-Las Salas estarán siempre integradas por los Magistrados propietarios. En caso de falta temporal o absoluta, excusa o recusación, se integrarán con los Magistrados de otra Sala.
+Las salas estarán siempre integradas por los magistrados. En caso de falta temporal o absoluta, excusa o recusación, se integrarán con los Magistrados de otra Sala.
 
 ###### ARTICULO 15.
 
@@ -281,15 +301,17 @@ Los Presidentes de las Salas turnarán en forma progresiva los asuntos en estado
 
 Las resoluciones que competan a las Salas se tomarán por unanimidad o mayoría de votos de los Magistrados; en caso de empate, el asunto se suspenderá hasta que haya la asistencia de los tres integrantes de la Sala.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 17.
 
 Las Salas conocerán:
 
-I.- De la Segunda Instancia en los términos que establecen las Leyes y de los demás asuntos que les encomienden las Leyes, teniendo facultades para aplicar las correcciones disciplinarias a que se hagan acreedores los litigantes en los asuntos de su competencia.
+I.- La Sala Civil de la Segunda Instancia en materia civil, mercantil y familiar y de los demás asuntos que les encomienden las leyes, teniendo facultades para aplicar las correcciones disciplinarias a que se hagan acreedores los litigantes en los asuntos de su competencia.
 
-> <small>(ADICIONADA, P.O 17 DE JUNIO DE 2011)</small>
+II.- La Sala Penal de la Segunda Instancia en materia de su competencia y de los demás asuntos y diligencias que les encomienden las leyes, teniendo facultades para aplicar las correcciones disciplinarias a que se hagan acreedores los litigantes en los asuntos de su competencia.
 
-II.- El Magistrado que para el efecto designe el Pleno mediante acuerdo, conocerá y asumirá el carácter de Magistrado Especializado en Ejecución de Penas y Medidas de Seguridad, a fin de resolver el recurso de apelación previsto en la Ley de Ejecución de Sanciones Penales del Estado de Aguascalientes, en contra de las resoluciones del Juez de Ejecución.
+III.- El Magistrado de la Sala Penal que para el efecto designe la propia Sala, conocerá y asumirá en carácter de Magistrado Especializado en Ejecución de. Penas y Medidas de Seguridad, a fin de resolver el recurso de apelación previsto en la Ley de Ejecución de Sanciones Penales del Estado de Aguascalientes en contra de las resoluciones del Juez de Ejecución.
 
 ###### ARTICULO 18.
 
@@ -299,9 +321,9 @@ Las Salas sesionarán en pleno, los días y en horario que establezca el Reglame
 
 Las Salas calificarán las excusas e impedimentos de los Magistrados que las integran.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 20.
 
@@ -313,37 +335,37 @@ II.- Distribuir por riguroso turno los negocios entre él y los demás miembros 
 
 III.- Presidir el Pleno de la Sala;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
 
 IV.- Convocar a sesiones;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
 
 V.- Vigilar que se preserve el orden durante las sesiones;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 13 DE JULIO DE 2009)</small>
 
 VI.- Dirigir la discusión de los asuntos sometidos a consideración de la Sala, previa exposición del proyecto a cargo del Magistrado ponente;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 13 DE JULIO DE 2009)</small>
 
 VII.- Poner a votación los asuntos al concluir el debate;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 13 DE JULIO DE 2009)</small>
 
 VIII.- Firmar las actas de las sesiones de manera conjunta con los demás integrantes de la Sala, ante la fe del Secretario de Acuerdos; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 13 DE JULIO DE 2009)</small>
 
@@ -403,11 +425,13 @@ B).- Llevar la contabilidad;
 
 C).- Realizar el pago de los sueldos que consten en nómina;
 
-D).- Liquidar los egresos autorizados por la presidencia del Tribunal; y
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
+D).- Liquidar los egresos autorizados por la Presidencia del Tribunal;
 
-E).- Vigilar el desempeño de los trabajadores administrativos y de intendencia en el desarrollo de las actividades del Poder Judicial;
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
+E).- Vigilar el desempeño de los trabajadores administrativos y de intendencia en el desarrollo de las actividades del Poder Judicial; y
 
 > <small>(ADICIONADO, P.O. 2 DE ABRIL DE 1995)</small>
 
@@ -483,17 +507,25 @@ Los servidores a quienes esta Ley no fije determinados requisitos, deberán llen
 
 ### CAPITULO VII. Organos Auxiliares
 
-> <small>(REFORMADO, P.O. 17 DE MAYO DE 2004)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 31.
 
 El Poder Judicial contará con los siguientes órganos auxiliares, dependientes de la Presidencia del Supremo Tribunal de Justicia:
 
-I.- La Oficialía de Partes; y
+I.- La Oficialía de Partes;
 
-II.- La Dirección de Informática; y
+II.- La Dirección de Informática;
 
-III.- El Centro de Mediación.
+III.- La Dirección de Notificadores Civiles y Mensajería;
+
+IV.- La Dirección de Notificadores Penales y Mensajería;
+
+V.- La Dirección de Ejecutores;
+
+VI.- La Dirección del Archivo Judicial; y
+
+VII.- El Centro de Mediación.
 
 > <small>(REFORMADO, P.O. 17 DE MAYO DE 2004)</small>
 
@@ -513,185 +545,215 @@ II.- Turnar por riguroso orden numérico los documentos de que trata la fracció
 
 En el Supremo Tribunal de Justicia el turno lo llevarán los presidentes de Salas.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 22 DE JUNIO DE 1997)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE JUNIO DE 1997)</small>
 
 ## TITULO PRIMERO BIS
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 22 DE JUNIO DE 1997)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y NUMERACIÓN, P.O. 27 DE AGOSTO DE 2012)</small>
 
-### CAPITULO VIII (SIC). Del Tribunal Electoral
+### CAPITULO I. De la Sala Administrativa y Electoral
 
-(NOTA: EL 12 DE NOVIEMBRE DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 52/2009 Y SU ACUMULADA 53/2009, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 13 DE NOVIEMBRE DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
-> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1997)</small>
+#### SECCIÓN PRIMERA. Disposiciones Generales
 
-ARTICULO 33 A.- En términos de lo que establecen los Artículos 17 y 51 de la Constitución Política del Estado, el Tribunal Electoral es la máxima autoridad jurisdiccional en materia electoral y órgano TEMPORAL especializado; es autónomo e independiente en sus decisiones y sus resoluciones y actos se sujetarán de manera invariable a los principios de legalidad y definitividad.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
-> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1997)</small>
+ARTICULO 33 A.- En términos de lo que establecen los Artículos 17 y 51 de la Constitución Política del Estado, la Sala Administrativa y Electoral es la máxima autoridad jurisdiccional en las materias electoral y contencioso administrativa, y órgano permanente especializado, autónomo e independiente en sus decisiones y resoluciones, las cuales se sujetarán de manera invariable a los principios de legalidad y definitividad; rigiéndose por lo dispuesto en la propia Constitución, esta Ley, el Código Electoral, la Ley del Procedimiento Contencioso Administrativo, el Reglamento Interior que en uso de sus facultades expida y otros ordenamientos aplicables.
 
-ARTICULO 33 B.- El Tribunal Electoral funcionará como una Sala integrada por tres Magistrados Propietarios y dos suplentes. Los Magistrados Propietarios del Tribunal Electoral elegirán a su Presidente de entre sus miembros. Las sesiones de resolución jurisdiccional del Tribunal Electoral serán públicas y resolverá en pleno por unanimidad o por mayoría de votos.
+La Sala Administrativa y Electoral tiene a su cargo dirimir las controversias de carácter administrativo y fiscal, que se susciten entre las autoridades del Estado, de los Municipios, sus Organismos Descentralizados y otras personas, en funciones de autoridad, con los particulares. Se reputarán como otras personas, a los prestadores de servicios públicos considerados como áreas estratégicas, que sean concesionados.
 
-> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1997)</small>
+Contará con la organización y atribuciones que esta Ley establece, y estará dotada de plena jurisdicción y del imperio suficiente para hacer cumplir sus determinaciones.
 
-ARTICULO 33 C.- El Pleno del Tribunal Electoral, en los términos que señalen la Constitución Política del Estado y las leyes aplicables, es competente para la substanciación y resolución de los recursos siguientes:
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
-I.- De Apelación que procederá contra actos o resoluciones del Consejo Estatal Electoral;
+#### SECCIÓN SEGUNDA. De la Integración de la Sala Administrativa y Electoral
 
-II.- De Inconformidad, contra los resultados consignados en las actas de cómputo municipal o distrital;
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
-III.- De Nulidad, para anular la votación recibida en una casilla o declarar la nulidad de una elección; y
+ARTICULO 33 B.- La Sala Administrativa y Electoral estará conformada por tres Magistrados, que no integrarán el Pleno del Supremo Tribunal de Justicia. Los Magistrados de la Sala Administrativa y Electoral elegirán a su Presidente de entre sus miembros, quien ostentará el cargo por dos años, pudiendo ser reelecto por un periodo igual. Las sesiones de resolución jurisdiccional de la Sala Administrativa y Electoral serán públicas y resolverá en Pleno por unanimidad o por mayoría de votos.
 
-IV.- Las demás facultades y atribuciones que la Ley Electoral del Estado le confieran.
+Contará con un Secretario General de Acuerdos y secretarios de estudio, proyectistas, actuarios, auxiliares y servidores administrativos que sean necesarios para el buen despacho de los asuntos de su competencia.
 
-Las resoluciones del Pleno del Tribunal Electoral sólo podrán revisarse o modificarse por el Colegio Electoral en la elección de Gobernador.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
-(NOTA: EL 12 DE NOVIEMBRE DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 52/2009 Y SU ACUMULADA 53/2009, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 13 DE NOVIEMBRE DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+ARTICULO 33 C.- Para el procedimiento de elección y la duración en el cargo de los Magistrados de la Sala Administrativa y Electoral se estará a lo dispuesto en los artículos 54 y 56 de la Constitución Política del Estado y en el artículo 10 de esta Ley.
 
-> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1997)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
-ARTICULO 33 D.- Los Magistrados del Tribunal Electoral se nombrarán en la forma que establece el Artículo 54 de la Constitución Política del Estado. LOS MIEMBROS DE DICHO TRIBUNAL SÓLO DURARÁN EN SU ENCARGO EL TIEMPO QUE DURE EL PROCESO ELECTORAL CORRESPONDIENTE, EN TÉRMINOS DE ESTA LEY.
-
-> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1997)</small>
-
-ARTICULO 33 E.- Para ser integrante del Tribunal Electoral se deberán reunir los requisitos que establece el Artículo 5o. de esta Ley, así como los siguientes:
+ARTICULO 33 D.- Para ser Magistrado de la Sala Administrativa y Electoral se deberán reunir los requisitos que establece el Artículo 5° de esta Ley, así como los siguientes:
 
 I.- Estar inscrito en el padrón electoral y contar con credencial para votar con fotografía;
 
-II.- No desempeñar ni haber desempeñado cargo en el Comité Ejecutivo Estatal o equivalente, en un partido político o cualquier otro tipo de organización social en los siete años anteriores a la fecha de designación; y
+II.- No desempeñar ni haber desempeñado cargo en el Comité Estatal o equivalente, en un partido o asociación política en los siete años anteriores a la fecha de designación; y
 
 III.- No tener ni haber tenido cargo alguno de elección popular, en los cinco años anteriores a la fecha de designación.
 
-> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1997)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
-ARTICULO 33 F.- Las atribuciones del Presidente del Tribunal Electoral serán:
+ARTICULO 33 E.- Los secretarios y actuarios de la Sala Administrativa y Electoral serán designados por el Consejo de la Judicatura, previo examen de oposición, y para ello se requiere:
 
-I.- Representar al Tribunal ante toda clase de autoridades;
+I.- Ser mexicano, domiciliado legalmente en el Estado cuando menos dos años antes del día de su designación;
 
-II.- Convocar y presidir las sesiones y dirigir los debates;
+II.- Tener título y cédula de Licenciado en Derecho debidamente registrados;
 
-III.- Nombrar al Secretario General y a los Secretarios Instructores en número suficiente para desahogar el trabajo;
+III.- Acreditar parlo menos tres años de práctica en materia administrativa o electoral; y
 
-IV.- Vigilar que se cumpla con las determinaciones del Tribunal;
+IV.- Estar en pleno goce de sus derechos civiles y políticos.
 
-V.- Rendir un informe al término del Proceso Electoral; y
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
-VI.- Notificar al Consejo Estatal EIectoral y al Colegio Electoral, en su caso, las resoluciones que dicte.
+#### SECCIÓN TERCERA. De las atribuciones de la Sala Administrativa y Electoral
 
-> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 1997)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
-ARTICULO 33 G.- Son obligaciones de los Magistrados Electorales las siguientes:
+ARTICULO 33 F.- La Sala Administrativa y Electoral, conocerá en materia administrativa de los juicios que se inicien contra:
 
-I.- Concurrir, participar y votar, cuando corresponda, en las sesiones públicas y reuniones internas a las que sean convocados por el Presidente del Tribunal, absteniéndose de votar únicamente cuando tengan impedimento legal;
+I.- Las resoluciones definitivas emanadas de las autoridades dependientes del Poder Ejecutivo Estatal, de los Municipios, de los Organismos Descentralizados y otras personas, cuando éstos actúen como autoridades, que causen agravio a los particulares;
 
-II.- Formular los proyectos de sentencias que recaigan a los expedientes que les sean turnados para tal efecto;
+II.- Las resoluciones definitivas dictadas por cualquiera de las autoridades fiscales del Estado o Municipios, y de sus organismos fiscales autónomos, en las que se determine la existencia de una obligación fiscal, se fije ésta en cantidad líquida o se den las bases para su liquidación; nieguen la devolución de un ingreso indebidamente percibido, o cualquier otra que cause agravio en materia fiscal;
+
+III.- De las resoluciones favorables a un particular, cuando las autoridades estatales y municipales promuevan el juicio para que sean anuladas;
+
+IV.- Del procedimiento administrativo de ejecución cuando el afectado afirme:
+
+a).- Que el crédito que se le exige se ha extinguido legalmente;
+
+b).- Que el monto del crédito es inferior al exigible;
+
+c).- Que es poseedor, a título de propietario de los bienes embargados en el procedimiento económico coactivo seguido a otras personas, o acreedor preferente al físico; y
+
+d).- Que el procedimiento coactivo no se ajustó a la Ley. En este último caso, la oposición no podrá hacerse valer, sino contra la resolución que apruebe el remate, salvo que se trate de imposible reparación;
+
+V.- La negativa de una autoridad para ordenar la devolución de cantidades pagadas indebidamente;
+
+VI.- Las resoluciones definitivas que constituyan créditos fiscales, por responsabilidades de los servidores públicos del Estado, de los ayuntamientos y sus organismos descentralizados; y
+
+VII.- Las resoluciones dictadas conforme a las leyes, que le otorgue competencia a la Sala Administrativa y Electoral.
+
+Para los efectos de las dos primeras fracciones de este articulo, las resoluciones se considerarán definitivas cuando no admitan recurso administrativo o cuando previéndolo, el afectado opte por no agotarlo y acuda directamente a la Sala Administrativa y Electoral.
+
+La Sala Administrativa y Electoral conocerá de igual forma, de los procedimientos de responsabilidad patrimonial del Estado en términos de la ley respectiva y de los recursos que concedan las leyes en contra de los acuerdos que se dicten en la tramitación de los juicios.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
+ARTICULO 33 G.- La Sala Administrativa y Electoral, en los términos que señalen la Constitución Política del Estado y las leyes aplicables, es competente en materia electoral para conocer de los siguientes asuntos:
+
+I.- Calificar la elección de Gobernador del Estado;
+
+II.- De apelación que procederá contra actos o resoluciones del Consejo General del Instituto Estatal Electoral;
+
+III.- De inconformidad, contra los resultados consignados en las actas de cómputo municipal o distrital;
+
+IV.- De nulidad, para anular la votación recibida en una casilla o declarar la nulidad de una elección, y
+
+V.- Las demás facultades y atribuciones que el Código Electoral del Estado le confieran.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
+ARTICULO 33 H.- Las atribuciones del Presidente de la Sala Administrativa y Electoral serán:
+
+I.- Representar a la Sala ante toda clase de autoridades;
+
+II.- Dictar las medidas necesarias para el turno, el despacho pronto y expedito de los asuntos competencia da la Sala;
+
+III.- Convocar y presidir las sesiones y dirigir los debates;
+
+IV.- Vigilar que se cumpla con las determinaciones de la Sala;
+
+V.- Rendir un informe al término del proceso electoral, y
+
+VI.- Notificar al Consejo General del Instituto Estatal Electoral, en su caso, las resoluciones que dicte.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
+ARTICULO 33 I.- Son obligaciones de los Magistrados de la Sala Administrativa y Electoral, las siguientes:
+
+I.- Concurrir, participar y votar, cuando corresponda, en las sesiones públicas y reuniones internas a las que sean convocados por el Presidente de la Sala, absteniéndose de votar únicamente cuando tengan impedimento legal;
+
+II.- Formular los proyectos de sentencias que recaigan a los expedientes que les sean turnados por el presidente de la Sala para tal efecto;
 
 III.- Discutir y votar los proyectos de sentencia que sean sometidos a su consideración en las sesiones públicas;
 
-IV.- Admitir los medios de impugnación y los escritos de terceros interesados o coadyuvantes, en los términos que señala la Ley Electoral;
+IV.- Resolver los recursos e instancias que contemplan las leyes en contra de los acuerdos y determinaciones que se tomen dentro de los procedimientos seguidos ante la Sala;
 
-V.- Someter a consideración del Pleno, cuando proceda, la acumulación de las impugnaciones, así como la procedencia de la conexidad, en términos de la Ley Electoral;
+V.- Admitir los medios de impugnación y los escritos de terceros interesados o coadyuvantes, en los términos que señala el Código Electoral del Estado de Aguascalientes;
 
-VI.- Formular los requerimientos ordinarios necesarios para la integración de los expedientes en los términos de la legislación aplicable; requerir cualquier informe o documento que, obrando en poder de los órganos del Consejo Estatal Electoral, de las autoridades estatales o municipales, de los partidos políticos o de los particulares, pueda servir para la substanciación de los expedientes, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos, de conformidad con lo señalado en la Ley Electoral;
+VI.- Someter a consideración del Pleno de la Sala, cuando proceda, la acumulación de las impugnaciones, así como la procedencia de la conexidad, en términos del Código Electoral del Estado de Aguascalientes;
 
-VII.- Las demás atribuciones que les señalen las leyes aplicables necesarias para el correcto funcionamiento del Tribunal.
+VII.- Formular los requerimientos ordinarios necesarios para la integración de los expedientes en los términos de la legislación aplicable; requerir cualquier informe o documento que, obrando en poder de los órganos del Consejo General del Instituto Estatal Electoral, de las autoridades estatales o municipales, de los partidos políticos o de los particulares, pueda servir para la substanciación de los expedientes, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos, de conformidad con lo señalado en el Código Electoral del Estado de Aguascalientes;
 
-> <small>(ADICIONADO CON EL CAPITULO, SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 26 DE DICIEMBRE DE 2005)</small>
+VIII.- Expedir su Reglamento Interior, y
+
+IX.- Las demás atribuciones que les señalen las leyes.
+
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+#### SECCIÓN CUARTA. De los Secretarios y Actuarios de la Sala Administrativa y Electoral
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
+ARTICULO 33 J.- Corresponde al Secretario General de Acuerdos de la Sala Administrativa y Electoral:
+
+I.- Acordar con el Magistrado Presidente de la Sala lo relativo a su debido funcionamiento;
+
+II.- Intervenir en los actos de los que deba dejarse constancia en autos, autorizándolos con su firma, excepción hecha de las encomendadas a otros servidores;
+
+III.- Expedir certificaciones de las constancias que obren en los expedientes de la Secretaría General;
+
+IV.- Llevar los libros de gobierno de registro de documentos y de personas que puedan ser peritos ante la Sala, así como el registro de la cédula profesional de los abogados litigantes, y
+
+V.- Las demás que señalen las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
+ARTICULO 33 K.- Corresponde a los Secretarios de Estudio de la Sala Administrativa y Electoral:
+
+I.- Proyectar los acuerdos de trámite;
+
+II.- Efectuar las diligencias que se le encomienden, cuando éstas deban practicarse fuera del local de la Sala;
+
+III.- Redactar las actas de las audiencias y las resoluciones que recaigan en los expedientes;
+
+IV.- Expedir certificados de las constancias que obren en los expedientes, y
+
+V.- Las demás que señalen las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
+ARTICULO 33 L.- Corresponde a los Actuarios de la Sala Administrativa y Electoral:
+
+I.- Notificar, en el tiempo y forma prescrito por la Ley, las resoluciones recaídas en los expedientes que, para tal efecto, les sean turnados;
+
+II.- Practicar las diligencias que se les encomienden, y
+
+III.- Las demás que señalen las disposiciones legales aplicables.
+
+> <small>(DEROGADO CON EL CAPÍTULO Y SECCIONES QUE LO INTEGRAN, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ## TITULO PRIMERO TER
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 26 DE DICIEMBRE DE 2005)</small>
+> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ### CAPITULO UNICO. Del Tribunal de lo Contencioso Administrativo
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LA INTEGRA, P.O. 26 DE DICIEMBRE DE 2005)</small>
+> <small>(DEROGADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
 Sección 1ª
 
 Disposiciones Generales
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2009)</small>
-
-ARTICULO 33 H.- El Tribunal de lo Contencioso Administrativo del Estado de Aguascalientes, está dotado de plena autonomía para dictar sus fallos y es independiente de cualquier autoridad. Tiene a su cargo dirimir las controversias de carácter administrativo y fiscal que se susciten entre las autoridades del Estado, de los Municipios, sus Organismos Descentralizados y otras personas, en funciones de autoridad, con los particulares. Contará para ello con la organización y atribuciones que esta Ley establece, y estará dotado de plena jurisdicción y del imperio suficiente para hacer cumplir sus determinaciones.
-
-Se reputarán como otras personas, a los prestadores de servicios públicos municipales considerados como áreas estratégicas, que sean concesionados.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 26 DE DICIEMBRE DE 2005)</small>
+> <small>(DEROGADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
 Sección 2ª
 
 De la Integración del Tribunal
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2005)</small>
-
-ARTICULO 33 I.- El Tribunal contará con un Magistrado, un Secretario General de Acuerdos y los Secretarios de Estudio, Actuarios, auxiliares y servidores administrativos que sean necesarios para el buen despacho de los asuntos de su competencia.
-
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2005)</small>
-
-###### ARTICULO 33.
-
-J.- El Magistrado del Tribunal deberá reunir los requisitos que establece el artículo 5º de esta Ley; se nombrará en la forma y términos previstos por el Artículo 54 de la Constitución Política del Estado; y durarán en su encargo 15 años.
-
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2005)</small>
-
-ARTICULO 33 K.- Los Secretarios del Tribunal y actuario serán designados por el Pleno del Consejo de la Judicatura, previo examen de oposición, y para ello se requiere:
-
-I.- Ser mexicano, domiciliado legalmente en el Estado cuando menos dos años antes del día de su designación;
-
-II.- Tener título de Licenciado en Derecho debidamente registrado;
-
-III.- Acreditar por lo menos tres años de práctica en materia administrativa; y
-
-IV.- Estar en pleno goce de sus derechos civiles y políticos.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 26 DE DICIEMBRE DE 2005)</small>
+> <small>(DEROGADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
 Sección 3ª
 
 De las atribuciones
-
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2005)</small>
-
-ARTICULO 33 L.- El Tribunal conocerá de los juicios que se inicien contra:
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2009)</small>
-
-I.- Las resoluciones definitivas emanadas de las autoridades dependientes del Poder Ejecutivo Estatal, de los Municipios, de los Organismos Descentralizados y otras personas, cuando éstos actúen como autoridades, que causen agravio a los particulares;
-
-II.- Las resoluciones definitivas dictadas por cualquiera de las autoridades fiscales del Estado o Municipios, y de sus organismos fiscales autónomos, en las que se determine la existencia de una obligación fiscal, se fije ésta en cantidad líquida o se den las bases para su liquidación; nieguen la devolución de un ingreso indebidamente percibido, o cualquiera otra que cause agravio en materia fiscal;
-
-III.- De las resoluciones favorables a un particular, cuando las autoridades estatales y municipales promuevan el juicio para que sean anuladas;
-
-IV.- Del procedimiento administrativo de ejecución cuando el afectado firme:
-
-a).- Que el crédito que se le exige se ha extinguido legalmente;
-
-b) Que el monto del crédito es inferior al exigible;
-
-c).- Que es poseedor, a título de propietario de los bienes embargados en el procedimiento económico coactivo seguido a otras personas, o acreedor preferente al físico; y
-
-d).- Que el procedimiento coactivo no se ajustó a la Ley. En este último caso, la oposición no podrá hacerse valer, sino contra la resolución que apruebe el remate; salvo que se trate de imposible reparación;
-
-V.- La negativa de una autoridad para ordenar la devolución de cantidades pagadas indebidamente;
-
-VI.- Las resoluciones definitivas que constituyan créditos fiscales, por responsabilidades de los servidores públicos del Estado, de los Ayuntamientos y sus Organismos Descentralizados;
-
-VII.- Las resoluciones dictadas conforme a una ley especial, que le otorgue competencia al Tribunal de lo Contencioso Administrativo del Estado;
-
-VIII.- Resolver los recursos que concedan las leyes en contra de los acuerdos que se dicten en la tramitación de los juicios; y
-
-IX.- Establecer la jurisprudencia del Tribunal;
-
-Para los efectos de las dos primeras fracciones de este artículo, las resoluciones se considerarán definitivas, cuando no admitan recurso administrativo o cuando, previéndolo el afectado opte por no agotarlo y acuda directamente al Tribunal.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2010)</small>
-
-El Tribunal conocerá de igual forma, de los procedimientos de responsabilidad patrimonial del Estado en términos de la ley respectiva.
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2005)</small>
 
@@ -711,53 +773,23 @@ VI.- Autorizar, en unión del Secretario General de Acuerdos, las correspondient
 
 VII.- Rendir los informes previstos y justificados en los juicios de amparo promovidos en contra del Tribunal.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 26 DE DICIEMBRE DE 2005)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 27 DE AGOSTO DE 2012)</small>
 
 Sección 4ª
 
 De los Secretarios y Actuarios del Tribunal
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2005)</small>
+ARTICULO 33 M.- (DEROGADO, P.O. 27 DE AGOSTO DE 2012)
 
-ARTICULO 33 M.- Corresponde al Secretario General de Acuerdos:
+ARTICULO 33 N.- (DEROGADO, P.O. 27 DE AGOSTO DE 2012)
 
-I.- Acordar con el Magistrado lo relativo al Tribunal;
+ARTICULO 33 Ñ.- (DEROGADO, P.O. 27 DE AGOSTO DE 2012)
 
-II.- Intervenir en los actos de los que deba dejarse constancia en autos, autorizándolos con su firma, excepción hecha de las encomendadas a otros servidores;
-
-III.- Expedir certificaciones de las constancias que obren en los expedientes de la Secretaría General; y
-
-IV.- Llevar los libros de gobierno de registro de documentos y de personas que puedan ser peritos ante el Tribunal, así como el registro de la cédula profesional de los abogados litigantes.
-
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2005)</small>
-
-ARTICULO 33 N.- Corresponde a los Secretarios de Estudio:
-
-I.- Proyectar los acuerdos de trámite;
-
-II.- Efectuar las diligencias que le encomiende el Magistrado, cuando éstas deban practicarse fuera del local del Tribunal;
-
-III.- Redactar y autorizar las actas de las audiencias, en las que corresponda dar cuenta, y autorizar las resoluciones que recaigan en los expedientes;
-
-IV.- Expedir certificados de las constancias que obren en los expedientes; y
-
-V.- Las demás que señalen las disposiciones legales aplicables.
-
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2005)</small>
-
-ARTÍCULO 33 Ñ.- Corresponde a los Actuarios:
-
-I.- Notificar, en el tiempo y forma prescrito por la Ley, las resoluciones recaídas en los expedientes que, para tal efecto, les sean turnados;
-
-II.- Practicar las diligencias que les encomiende el Magistrado; y
-
-III.- Las demás que señalen las disposiciones legales aplicables.
-
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
 ## TITULO PRIMERO QUATER
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO UNICO
 
@@ -789,21 +821,25 @@ VII. Vigilar que la estructura física, equipamiento y funcionamiento del Centro
 
 VIII. Las demás que establece la Ley del Sistema de Justicia para Adolescentes.
 
-(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2006) (F. DE E., P.O. 25 DE SEPTIEMBRE DE 2006)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2012)</small>
 
-ARTICULO 33 R.- Los Juzgados de Justicia para Adolescentes, contarán con el personal que determine el Consejo de la Judicatura, entre éstos se nombrará a los Secretarios que además, de las atribuciones a que se refiere el Artículo 46 de esta Ley en lo que sea aplicable, tendrá las siguientes:
+ARTICULO 33 R.- Los juzgados de justicia para adolescentes, contarán con el personal que determine el Consejo de la Judicatura, entre éstos se nombrará a los Secretarios que además, de las atribuciones a que se refiere el Artículo 46 de esta Ley en lo que sea aplicable, tendrán las siguientes:
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
 I. Asentar en los procesos las certificaciones de los trámites judiciales y las demás razones que la Ley establezca;
 
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+
 II. Hacer las notificaciones, practicar los aseguramientos o cualquier otra diligencia que deba llevarse a cabo con arreglo a la Ley, o por determinación judicial; y
 
-> <small>(F. DE E., P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2006) (F. DE E., P.O. 25 DE SEPTIEMBRE DE 2006)
 
 III. Las demás que les ordenen los Jueces de Justicia para Adolescentes, necesarias para la función jurisdiccional que establece la Ley del Sistema de Justicia para Adolescentes.
 
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
-ARTICULO 33 S.- El Magistrado para Adolescentes, será designado de entre los Magistrados que integran el Supremo Tribunal de Justicia y será nombrado por el Pleno del Supremo Tribunal de Justicia, para que se especialice en la materia y conozca de los asuntos previstos por la Ley del Sistema de Justicia para Adolescentes, independientemente, de sus facultades y funciones como miembro del Pleno y salas.
+ARTICULO 33 S.- El Magistrado para Adolescentes será designado por la Sala Penal, para que se especialice en la materia y conozca de los asuntos previstos por la Ley del Sistema de Justicia para Adolescentes del Estado de Aguascalientes, independientemente de sus facultades y funciones como miembro del Pleno y la Sala Penal.
 
 > <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
@@ -817,11 +853,11 @@ II. Las demás que establece la Ley del Sistema de Justicia para Adolescentes.
 
 ### CAPITULO I. De los Juzgados de Primera Instancia
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 34.
 
-Habrá en el Estado los Juzgados de Primera Instancia, Civiles, Familiares, Mixtos de Justicia para Adolescentes, Penales y de Ejecución, que se distinguirán por los números ordinales que les correspondan, que sean necesarios para la pronta administración de justicia. El Consejo de la Judicatura acordará la creación de nuevos juzgados.
+Habrá en el Estado los juzgados de primera instancia, civiles, familiares, mixtos, de justicia para adolescentes, penales y de ejecución, que se distinguirán por los números ordinales que les correspondan, que sean necesarios para la pronta administración de justicia. El Consejo de la Judicatura acordará la creación de nuevos juzgados.
 
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 2007)</small>
 
@@ -973,7 +1009,7 @@ En los Juzgados de Ejecución habrá un Juez, un Secretario de Acuerdos, un Noti
 
 Son atribuciones de los Jueces de Primera Instancia, corregir fundada y disciplinariamente las faltas de sus subalternos en los términos que prevengan las Leyes, dando cuenta al Supremo Tribunal de Justicia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JULIO DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JULIO DE 1995)</small>
 
 ###### ARTICULO 45.
 
@@ -1113,9 +1149,11 @@ Las visitas de que trate el artículo anterior serán presididas por el Magistra
 
 Con el escrito de queja se formará inmediatamente el expediente respectivo, anotándose el día y hora en que se reciba, a efecto de que concluya por sentencia dentro de un plazo no mayor de treinta días.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 60.
 
-Las quejas por faltas oficiales deberán formularse por escrito, con expresión del nombre y domicilio del quejoso y la relación clara y suscinta (sic) del hecho materia de la queja con fundamentación legal.
+Las quejas por faltas administrativas deberán formularse por escrito, con expresión del nombre y domicilio del quejoso y la relación clara y sucinta del hecho materia de la queja.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
 
@@ -1137,15 +1175,15 @@ II.- El Ministerio Público en los negocios de su intervención.
 
 La sentencia será dictada por el pleno del Supremo Tribunal de Justicia.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE ABRIL DE 1995)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE ABRIL DE 1995)</small>
 
 ### CAPITULO VI. De las Renuncias, Licencias y Manera de Suplir las Faltas
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 64.
 
-Las renuncias de los Magistrados propietarios serán sometidas ante el Consejo de la Judicatura Estatal, en los términos del Artículo 56 de la Constitución Política del Estado; las de los Jueces y demás servidores públicos del Poder Judicial las conocerá el Supremo Tribunal de Justicia, quien de inmediato las hará del conocimiento del Consejo de la Judicatura Estatal.
+Las renuncias de los Magistrados serán sometidas ante el Consejo de la Judicatura Estatal, en los términos del Artículo 56 de la Constitución Política del Estado; las de los Jueces y demás servidores públicos del Poder Judicial las conocerá el Supremo Tribunal de Justicia, quien de inmediato las hará del conocimiento del Consejo de la Judicatura Estatal.
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 1997)</small>
 
@@ -1159,31 +1197,29 @@ Al concederse una licencia o aceptarse alguna renuncia, se dictarán las medidas
 
 ###### ARTICULO 67.
 
-Los Magistrados Supernumerarios serán llamados en el orden de sus nombramientos para suplir a los Magistrados Propietarios en sus faltas temporales.
+(DEROGADO, P.O. 27 DE AGOSTO DE 2012)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 68.
 
-Las faltas absolutas de los jueces civiles, penales, familiares, de justicia para adolescentes y mixtos, se cubrirán con nuevos nombramientos de jueces interinos que durarán en su cargo un año, previa aprobación del concurso de oposición quienes podrán ser ratificados, pero para adquirir la titularidad se requiere el nombramiento definitivo del Consejo de la Judicatura Estatal en los términos del Artículo 36 de esta Ley.
+Las faltas absolutas de los jueces civiles, penales, familiares, de justicia para adolescentes, de ejecución y mixtos, serán cubiertas por el primer secretario, quién será habilitado por el Consejo de la Judicatura Estatal para desempeñar las funciones de juez por un plazo no mayora tres meses, tiempo en el cual se realizará concurso de oposición para cubrir la plaza de juez.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
+El concursante que obtenga el promedio más alto será designado como juez interino, quien durará en su cargo un año, y podrá ser ratificado para adquirir la titularidad con el nombramiento definitivo del Consejo de la Judicatura Estatal, en los términos del artículo 36 de esta Ley.
 
-Las faltas temporales que no excedan de quince días se suplirán por el primer secretario de estudio y proyectos, con la sola limitación de que no podrá dictar sentencias definitivas e interlocutorias en materia civil y familiar y en materia penal sólo definitivas.
+El secretario que sea designado de manera temporal para desempeñar las funciones de juez, no tendrá limitación alguna por tal designación para concursar la plaza de juez.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
-
-En los casos de impedimentos, recusación o excusa, conocerá del negocio de que se trate el juez que le siga en número y el último por el primero y en caso necesario, por los jueces de distinto ramo en el orden indicado.
+Las faltas temporales que no excedan de treinta días se suplirán por el primer secretario, con la sola limitación de que no podrá dictar sentencias definitivas e interlocutorias en materia civil y familiar y en materia penal sólo definitivas. Las faltas temporales que excedan de treinta días se suplirán por el primer secretario, quien, entre sus demás facultades, podrá dictar sentencias que tengan el carácter de urgentes, esto por el tiempo estrictamente necesario para que se lleve a cabo el concurso de oposición y el Consejo de la Judicatura Estatal esté en posibilidades de designar un juez interino mediante concurso de oposición.
 
 ###### ARTICULO 69.
 
 Las faltas absolutas y temporales de los Jueces Menores Mixtos se suplirán: las primeras por nuevo nombramiento y las segundas por los Secretarios, que actuarán con testigos de asistencia, dictándose únicamente acuerdos de trámite. En los casos de impedimento o excusa, conocerá del negocio el Juez Menor más cercano.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 70.
 
-Las faltas absolutas de los secretarios de estudio y proyectos se suplirán por nuevos nombramientos y las temporales o accidentales por los secretarios de acuerdo (sic) que designe el juez; las faltas absolutas de los secretarios de acuerdos se suplirán por nuevos nombramientos, las temporales o accidentales con testigos de asistencia designados por el juez respectivo; las funciones de dichos testigos se limitarán a la autorización de las resoluciones, trámites y demás diligencias judiciales, quedando a cargo del juez las demás funciones que la ley señale a los secretarios.
+Las faltas absolutas de los secretarios de estudio y proyectos se suplirán por nuevos nombramientos y las temporales o accidentales por los secretarios de acuerdos que designe el juez; las faltas absolutas de los secretarios de acuerdos se suplirán por nuevos nombramientos, las temporales o accidentales con testigos de asistencia designados por el juez respectivo; las funciones de dichos testigos se limitarán a la autorización de las resoluciones, trámites y demás diligencias judiciales, quedando a cargo del juez las demás funciones que la ley señale a los secretarios.
 
 ###### ARTICULO 71.
 
@@ -1195,15 +1231,23 @@ Las faltas de los demás servidores públicos de la administración de justicia,
 
 ## TITULO TERCERO
 
-### CAPITULO I. Del Archivo Judicial
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE AGOSTO DE 2012)</small>
+
+### CAPITULO I. De la Dirección del Archivo Judicial
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 73.
 
-El Archivo Judicial del Estado estará a cargo y cuidado del Secretario del Supremo Tribunal de Justicia. Este y los Secretarios de los Juzgados de Primera Instancia y Menores Mixtos respectivamente, tendrán a su cargo y cuidado los expedientes, libros y demás muebles que se encuentren en su oficina.
+La Dirección del Archivo Judicial tendrá a su cargo la guarda y custodia de los expedientes, documentos y medios magnéticos o digitales provenientes de los archivos de trámite, una vez cumplido el plazo previsto para su conservación en los mismos.
+
+El Secretario General de Acuerdos del Supremo Tribunal de Justicia, de la Sala Administrativa y Electoral, así como los Secretarios de los Juzgados de Primera Instancia y Mixtos Menores, tendrán a su cargo y cuidado los expedientes, libros y demás muebles que se encuentren en su oficina.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 74.
 
-En el Archivo Judicial se depositarán:
+En la Dirección del Archivo Judicial se depositarán:
 
 > <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
@@ -1211,27 +1255,31 @@ I.- Los tocas o actuaciones de segunda instancia, relativos a los negocios civil
 
 II.- Los procesos concluidos en apelación o primera instancia;
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1997)</small>
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
-III.- Los expedientes concluidos que se hubieren iniciado ante el Supremo Tribunal o ante el Tribunal Electoral;
+III.- Los expedientes concluidos que se hubieren iniciado ante el Supremo Tribunal o ante la Sala Administrativa y Electoral;
 
 IV.- Los duplicados de los libros de entradas, archivos y demás que los jueces deben remitir; y
 
-V.- Los oficios, comunicaciones y documentos de cualquier clase que el Supremo Tribunal reciba.
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+V.- Los oficios, comunicaciones y documentos de cualquier clase que el Supremo Tribunal, la Sala Administrativa y Electoral, los juzgados de primera instancia, mixtos menores, y las áreas administrativas remitan.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 75.
 
-En los archivos de los Juzgados de Primera Instancia, de Justicia para Adolescentes y Menores Mixtos, se depositarán únicamente las actuaciones relativas a los negocios en trámite; los libros principales que deben llevarse; los oficios, circulares, leyes, decretos, comunicaciones y documentos que no deben agregarse a los expedientes en actual tramitación y sean de archivarse.
+En los archivos de los juzgados de primera instancia, de justicia para adolescentes, de ejecución y mixtos menores, se depositarán únicamente las actuaciones relativas a los negocios en trámite; los libros principales que deben llevarse; los oficios, circulares, leyes, decretos, comunicaciones y documentos que no deben agregarse a los expedientes en actual tramitación y sean de archivarse.
 
 ###### ARTICULO 76.
 
 El que retenga en su poder indebidamente documentos que conforme a la ley pertenezcan al archivo judicial, los entregarán sin demora a donde corresponde, bajo la pena que establece el Código Penal.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 77.
 
-Toda autoridad que solicite la entrega de documentos pertenecientes al archivo judicial, los pedirá por oficio en que se inserte el acuerdo o resolución que motive la apelación y el oficial archivista no los entregará si no previo recibo que otorgue el interesado y que se agregará al legajo de donde se tomen, cuando el Juez a quien se pidiere un documento creyere infundada la solicitud lo manifestará así a la autoridad requiriente y en caso de que ésta insistiere en tal solicitud ocurrirán ambos ante el Supremo Tribunal para que éste resuelva lo que estime pertinente.
+Toda autoridad que solicite la entrega de documentos pertenecientes al archivo judicial, los pedirá por oficio en que se inserte el acuerdo o resolución que motive la petición y el oficial archivista no los entregará si no (sic) previo recibo que otorgue el interesado y que se agregará al legajo de donde se tomen, cuando el Juez a quien se pidiere un documento creyere infundada la solicitud lo manifestará así a la autoridad requirente y en caso de que ésta insistiere en tal solicitud ocurrirán ambos ante el Supremo Tribunal para que éste resuelva lo que estime pertinente.
 
 ###### ARTICULO 78.
 
@@ -1241,11 +1289,11 @@ Las copias certificadas y testimonios de documentos archivados sólo podrán exp
 
 Los documentos que obren en expedientes o actuaciones archivadas sólo podrán desglosarse para su entrega a quien tenga derecho a recibirlo.
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 80.
 
-Los reglamentos del Supremo Tribunal de Justicia, del Tribunal Electoral y de los Juzgados de Primera Instancia, de Justicia para Adolescentes y Menores Mixtos, respectivamente, determinarán la forma en que deba establecerse la oficina de (sic) archivo judicial y detallarán los deberes del personal que tenga a su cargo dicha oficina.
+Los reglamentos del Supremo Tribunal de Justicia, de la Sala Administrativa y Electoral y de los Juzgados de Primera Instancia, de Justicia para Adolescentes, de Ejecución y Mixtos Menores, respectivamente, determinarán la forma en que deba establecerse la oficina del archivo judicial y detallarán los deberes del personal que tenga a su cargo dicha oficina.
 
 ### CAPITULO II. De las Excitativas de Justicia
 
@@ -1287,9 +1335,9 @@ a).- El otorgamiento de estímulos y recompensas económicas a la planta de serv
 
 b).- La participación de Magistrados y Jueces en congresos de Derecho;
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1997)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
-c).- La adquisición de equipo, mobiliario y libros de consulta que se necesiten en las salas del Supremo Tribunal de Justicia, en el Tribunal Electoral y en los juzgados del fuero común del Estado, que no estén autorizados en su presupuesto;
+c).- La adquisición de equipo, mobiliario y libros de consulta que se necesiten en las salas del Supremo Tribunal de Justicia, en la Sala Administrativa y Electoral y en los juzgados del fuero común del Estado, que no estén autorizados en su presupuesto;
 
 d).- La capacitación, mejoramiento y especialización profesional del personal del Poder Judicial del Estado.
 
@@ -1297,29 +1345,31 @@ d).- La capacitación, mejoramiento y especialización profesional del personal 
 
 La Secretaría de Finanzas informará mensualmente al Presidente del Supremo Tribunal de Justicia el estado contable del fondo, que se integra con los depósitos en dinero o en valores que se efectúen ante los tribunales judiciales del fuero común.
 
-### CAPITULO IV. Del Departamento de Computación e Informática
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE AGOSTO DE 2012)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 1997)</small>
+### CAPITULO IV. De la Dirección de Informática
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 85.
 
-El Departamento de Computación e Informática del Poder Judicial dependerá de la Presidencia del Supremo Tribunal de Justicia, y tendrá como funciones las siguientes:
+La Dirección de Informática del Poder Judicial dependerá de la Presidencia del Supremo Tribunal de Justicia, y tendrá como funciones las siguientes:
 
-a).- La computarización de las acciones del Supremo Tribunal de Justicia en áreas de administración, contabilidad, recursos humanos, materiales y otros que se requieran;
+I.- La computarización de las acciones del Supremo Tribunal de Justicia en áreas de administración, contabilidad, recursos humanos, materiales y otros que se requieran;
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1997)</small>
+II.- La captura de datos procedentes de los juzgados, de la Sala Administrativa y Electoral y de las salas del Supremo Tribunal de Justicia, relativos a los diversos juicios, procedimientos y procesos que ante ellos se tramiten, con el fin de efectuar un seguimiento de los mismos, por medio del sistema de computación;
 
-II (sic).- La captura de datos procedentes de los juzgados de primera instancia, del Tribunal Electoral y de las salas del Supremo Tribunal de Justicia, relativos a los diversos juicios, procedimientos y procesos que ante ellos se tramiten, con el fin de efectuar un seguimiento de los mismos, por medio del sistema de computación;
+III.- Con base en los registros computarizados que se obtengan, proporcionar a las partes interesadas o autorizadas información actualizada del estado procesal de los asuntos en que intervengan;
 
-c).- Con base en los registros computarizados que se obtengan, proporcionar a las partes interesadas o autorizadas información actualizada del estado procesal de los asuntos en que intervengan;
+IV.- Mantener y conservar actualizados registros estadísticos de juicios y procedimientos por materia, por juzgados, por salas o bien por naturaleza especifica;
 
-d).- Mantener y conservar actualizados registros estadísticos de juicios y procedimientos por materia, por juzgados, por salas o bien por naturaleza específica;
+V.- El registro computarizado y la informática de todas aquellas actividades de apoyo al servicio de la administración de justicia, que se determine con la Presidencia del Supremo Tribunal de Justicia.
 
-e).- El registro computarizado y la informática de todas aquellas actividades de apoyo al servicio de la administración de justicia, que se determine con la Presidencia del Supremo Tribunal de Justicia.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 86.
 
-Para una mejor eficiencia del servicio de computación e informática, el Presidente del Supremo Tribunal de Justicia, autorizará el establecimiento de las oficinas que fueren necesarias, dependientes del departamento de computación e informática, tanto en la capital del Estado como en los Partidos Judiciales que se requieran, de acuerdo con las posibilidades presupuestales, determinando en su caso, los lugares en donde técnicamente sea conveniente establecerlos según las necesidades del servicio y el volumen de trabajo.
+Para una mejor eficiencia del servicio de computación e informática, el Presidente del Supremo Tribunal de Justicia, autorizará el establecimiento de las oficinas que fueren necesarias, dependientes de la Dirección de Informática, tanto en la capital del Estado como en los Partidos Judiciales que se requieran, de acuerdo con las posibilidades presupuestales, determinando en su caso, los lugares en donde técnicamente sea conveniente establecerlos según las necesidades del servicio y el volumen de trabajo.
 
 ### CAPITULO V. Disposiciones Generales
 
@@ -1347,13 +1397,13 @@ Tampoco podrán los mismos servidores públicos del Poder Judicial tener ocupaci
 
 ###### ARTICULO 92.
 
-Ningún nombramiento en la administración de justicia podrá recaer en ciegos, sordos, mudos u otras personas afectadas por defectos físicos o enfermedades que impidan o dificulten el desempeño de sus funciones respectivas.
+(DEROGADO, P.O. 27 DE AGOSTO DE 2012)
 
 ###### ARTICULO 93.
 
 Cuando el exceso de labores lo requiera, el Tribunal para evitar demoras en la administración de justicia, podrá nombrar jueces, secretarios, proyectistas, actuarios y en si el personal que fuere necesario para que con el carácter de auxiliares ayuden en sus labores al personal ordinario. Los empleados auxiliares podrán desempeñar varias funciones, que le serán determinadas expresamente, con la misma validez que aquellas que la Ley concede respecto del personal de planta.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE ABRIL DE 1995)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE ABRIL DE 1995)</small>
 
 ### CAPITULO VI. Del Consejo de la Judicatura Estatal
 
@@ -1363,7 +1413,9 @@ Cuando el exceso de labores lo requiera, el Tribunal para evitar demoras en la a
 
 El Consejo de la Judicatura Estatal se integrará según lo dispone el Artículo 55 de la Constitución Política del Estado.
 
-Los Magistrados suplentes no podrán formar parte del Consejo, ni los jueces que tengan menos de dos años en el ejercicio de su encargo. Bastará la presencia de cuatro de sus miembros para que el Consejo pueda funcionar, pero siempre deberá contarse con la asistencia del presidente.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
+No podrán formar parte del Consejo los jueces que tengan menos de dos años en el ejercicio de su encargo. Bastará la presencia de cuatro de sus miembros para que el Consejo pueda funcionar, pero siempre deberá contarse con la asistencia del Presidente.
 
 Las sesiones ordinarias del Consejo se efectuarán una vez al mes, el día que fije el reglamento respectivo.
 
@@ -1379,9 +1431,9 @@ El Consejo tendrá además un Secretario que será el Oficial Mayor del Supremo 
 
 Corresponde al Consejo de la Judicatura Estatal:
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1997)</small>
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
-I.- Nombrar a los Jueces y servidores públicos del Poder Judicial, con excepción de los del Supremo Tribunal de Justicia y los del Tribunal Electoral;
+I.- Nombrar a los Jueces y servidores públicos de carrera judicial, con excepción de los del Supremo Tribunal de Justicia y los de la Sala Administrativa y Electoral;
 
 II.- Informar al Supremo Tribunal de Justicia de las renuncias y licencias que hayan tramitado los Jueces para separarse de su cargo;
 
@@ -1399,7 +1451,7 @@ VIII.- Conocer las denuncias que formulen los miembros del Consejo de la Judicat
 
 IX.- Las demás facultades que le confiera la Constitución Política del Estado, esta Ley y su reglamento.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE ABRIL DE 1995)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE ABRIL DE 1995)</small>
 
 ### CAPITULO VII. Del Instituto de Capacitación del Poder Judicial del Estado
 
@@ -1419,9 +1471,23 @@ El Poder Judicial contará con un organismo que se denominará Instituto de Capa
 
 El Instituto de Capacitación del Poder Judicial del Estado contará:
 
-I.- Con un director que será propuesto por el Consejo de la Judicatura Estatal y nombrado por el Presidente del Supremo Tribunal de Justicia. Dicho director deberá reunir los requisitos para ser Magistrado;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
-II.- Con dos coordinadores, uno del área jurídica y otro en el área pedagógica; y
+I.- Con un director que será propuesto por el Consejo de la Judicatura Estatal y nombrado por el Presidente del Supremo Tribunal de Justicia. Dicho director deberá reunir los requisitos siguientes:
+
+a) Contar con 30 años de edad;
+
+b) Ser licenciado en derecho y tener título y cédula profesional;
+
+c) Experiencia profesional por más de tres años;
+
+d) No ser ministro de culto, y
+
+e) No tener antecedentes penales.
+
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+II.- Con tres coordinadores: del área jurídica, del área pedagógica, así como del área editorial; y
 
 III.- Con el personal administrativo que le asigne el Consejo de la Judicatura Estatal.
 
@@ -1437,7 +1503,7 @@ II.- La capacitación de los aspirantes a ingresar al Poder Judicial del Estado;
 
 III.- Las demás que le confieran las Leyes y Reglamentos.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE ABRIL DE 1995)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE ABRIL DE 1995)</small>
 
 ###### ARTICULO 99.
 
@@ -1449,7 +1515,9 @@ El Poder Judicial del Estado contará con una Contraloría Interna, misma que se
 
 Son facultades de la Contraloría Interna del Poder Judicial del Estado:
 
-I.- Fijar las normas de control, evaluación, fiscalización, contabilidad y auditoría que deben observar las distintas áres (sic) del Poder Judicial, así como vigilar su cumplimiento y en su caso, presentarles el apoyo y asesoramiento que éstas les soliciten;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+I.- Fijar las normas de control, evaluación, fiscalización, contabilidad y auditoría que deben observar las distintas áreas del Poder Judicial, así como vigilar su cumplimiento y en su caso, prestarles el apoyo y asesoramiento que éstas les soliciten;
 
 II.- Comprobar el cumplimiento por parte de las diferentes áreas del Poder Judicial, de las obligaciones derivadas de las disposiciones estatales, en materia de planeación, presupuestación, ingresos, egresos, financiamiento, inversión, adquisiciones, patrimonio, fondos y valores de propiedad;
 
@@ -1459,7 +1527,9 @@ IV.- Practicar auditorías administrativas, de contabilidad y eficiencia a las d
 
 V.- Controlar el debido ejercicio del gasto público del Poder Judicial Estatal y su congruencia con el presupuesto de egresos, practicando las auditorías que para cada caso sean necesarias;
 
-VI.- Establecer el sistema de recepción de las declaraciones patrimoniales de los servidores públicos del Poder Judicial, mismas que posteriormente serán turnadas a la Contraloría General del Estado para su análisis y registro;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+VI.- Establecer el sistema de recepción de las declaraciones patrimoniales de los servidores públicos del Poder Judicial;
 
 VII.- Coordinar la recepción y atención de las quejas y denuncias que presenten los particulares, organizados o a título personal, que se deriven de las acciones de los servidores públicos adscritos al Poder Judicial, así como su atención y solventación; y en su caso determinar responsabilidades y aplicar sanciones;
 
@@ -1507,7 +1577,7 @@ EL SUBSECRETARIO GENERAL DE GOBIERNO EN FUNCIONES DE SECRETARIO GENERAL DE GOBIE
 
 Lic. Rogelio Ramírez Soto.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 2 DE ABRIL DE 1995.
 
@@ -1738,3 +1808,17 @@ El Poder Ejecutivo del Estado deberá realizar las adecuaciones reglamentarias c
 ###### ARTÍCULO NOVENO.
 
 Se derogan todas las disposiciones que se opongan a la (sic) presente Decreto.
+
+P.O. 27 DE AGOSTO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los sesenta días siguientes al inicio de sus funciones, la Sala Administrativa y Electoral deberá expedir el Reglamento que rija su actuación; debiendo quedar abrogado el Reglamento del Tribunal de lo Contencioso Administrativo del Estado de Aguascalientes y el Reglamento Interior del Tribunal Local Electoral.
+
+###### ARTÍCULO TERCERO.
+
+El proceso para la elección de dos Magistrados de la Sala Administrativa y Electoral, del Poder Judicial del Estado de Aguascalientes, que dio inicio con la Convocatoria emitida por el Consejo de la Judicatura Estatal, publicada en el Periódico Oficial del Estado el 23 de julio de 2012, se regirá hasta su conclusión por las normas vigentes hasta antes del presente Decreto.
