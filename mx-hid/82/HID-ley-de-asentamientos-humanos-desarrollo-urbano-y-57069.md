@@ -4,7 +4,7 @@ identifier: "HID-ley-de-asentamientos-humanos-desarrollo-urbano-y-57069"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-17"
-last_updated: "2010-12-13"
+last_updated: "2012-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2012.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 17 de septiembre de 2007.
 
@@ -87,23 +87,31 @@ Para los efectos de esta Ley, se entiende por:
 
 I.- Acción urbana: El proceso de aprovechamiento, acondicionamiento y utilización del territorio para el asentamiento humano, mediante la introducción o mejoramiento de infraestructura, equipamiento y servicios, así como por el fraccionamiento, urbanización, fusión, subdivisión, lotificación, relotificación, edificación, cambio de régimen a propiedad en condominio u otros tendientes a la transformación, uso o aprovechamiento del suelo;
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
-II.- Asentamiento humano: El establecimiento de un conglomerado demográfico con el conjunto de sus sistemas de convivencia, en un área físicamente localizada, considerando dentro de la misma los elementos naturales y las obras materiales que lo integran, respetando lo establecido por el Ordenamiento Ecológico Territorial;
+II.- Asentamiento humano: El establecimiento de un conglomerado demográfico con el conjunto de sus sistemas de convivencia, en un área físicamente localizada, considerando dentro de la misma los elementos naturales y las obras materiales que lo integran;
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
-III.- Asentamiento humano irregular: Es el conglomerado demográfico, con el conjunto de sus sistemas de convivencia, establecido sin autorización en términos urbanístico - ambientales de las Autoridades Municipales, en una determinada zona de los centros de población por lo general en zonas periféricas o suburbanas, cualquiera que sea su régimen jurídico de tenencia de la tierra, aunque este fenómeno se presenta con mayor frecuencia en tierras ejidales o comunales en contravención con lo dispuesto por el Ordenamiento Ecológico Territorial local o municipal;
+III.- Asentamiento humano irregular: El establecimiento de un conglomerado demográfico con el conjunto de sus sistemas de convivencia, establecido sin autorización en términos urbanísticos-ambientales de las Autoridades Municipales, en una determinada zona de los centros de población por lo general en zonas periféricas o suburbanas, cualquiera que sea su régimen jurídico de tenencia de la tierra, aunque este fenómeno se presenta con mayor frecuencia en tierras ejidales o comunales;
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
-IV.- Centro de población: las áreas constituidas por las zonas urbanizadas las que se reserven a su expansión y las que se consideren no urbanizables por causas de preservación ecológica, prevención de riesgos y mantenimiento de actividades productivas dentro de los límites de dichos centros; así como las que por resolución de la Autoridad competente se provean para la fundación de los mismos respetando lo previsto por el Ordenamiento Ecológico Territorial local o municipal;
+IV.- Centro de población: Las áreas constituidas por las zonas urbanizadas, las que se reserven a su expansión y las que se consideren no urbanizables por causas de preservación ecológica, prevención de riesgos y mantenimiento de actividades productivas dentro de los límites de dichos centros; así como las que por resolución de la autoridad competente se provean para la fundación de los mismos;
+
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+IV.- Bis.- Constancia de Viabilidad: Al acto administrativo expedido por la Secretaría, por el que se hace constar la aptitud de un determinado predio para el desarrollo de un conjunto urbano, fraccionamiento, subdivisión o régimen en condominio;
 
 V.- Conservación: La acción tendiente a mantener el equilibrio ecológico y preservar el buen estado de la infraestructura, equipamiento, vivienda y servicios urbanos de los asentamientos humanos, incluyendo sus valores históricos, naturales y culturales;
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
-VI.- Constancia de uso de suelo: El documento expedido por la Autoridad en el cual se establecen los usos y destinos de un predio en base a lo previsto por el Ordenamiento Ecológico Territorial local, su uso actual o al uso que en su caso establezcan los planes o programas de desarrollo urbano, la cual no autoriza su modificación, construcción o alteración;
+VI.- Constancia de uso de suelo: El documento expedido por la Secretaría en el cual se establecen los usos y destinos de un predio en base a lo previsto por el Sistema Estatal de Desarrollo Urbano y Ordenamiento Territorial, lo cual no autoriza su modificación, construcción o alteración;
+
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+VI.- Bis.- Conjunto urbano: A la modalidad que se adopta en la ejecución del desarrollo urbano que tiene por objeto estructurar o reordenar, como una unidad espacial integral, el trazo de la infraestructura vial, la división del suelo, las normas de usos, aprovechamientos y destinos del suelo, las obras de infraestructura, urbanización y equipamiento urbano, la ubicación dé edificios y la imagen urbana de un predio ubicado en áreas urbanas o urbanizables;
 
 VII.- Crecimiento: La acción tendiente a expandir físicamente un asentamiento humano existente;
 
@@ -111,49 +119,63 @@ VIII.- Conurbación: La continuidad física y demográfica que formen o tiendan 
 
 IX.- Destinos: Los fines públicos a que se prevé dedicar determinadas zonas o predios de un asentamiento humano;
 
-X.- Dictamen del estudio de impacto urbano: El documento técnico expedido por la Autoridad, mediante el cual se establecen las acciones compensatorias y mitigatorias del impacto de una acción urbana, en su caso;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+X.- Dictamen de estudio de impacto urbano y vial: El documento técnico expedido por la Secretaría, mediante el cual se establecen las acciones compensatorias y mitigatorias del impacto de una acción urbana;
 
 XI.- Director Responsable: La persona física con autorización de la Autoridad competente que responde ante las Instancias Estatal y Municipal, así como a los particulares promoventes, del cumplimiento de esta Ley y las disposiciones reglamentarias aplicables en la materia;
+
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+XI BIS.- División familiar: la partición de un terreno en dos o más fracciones que no requiera el trazo de una o más vías públicas;
 
 XII.- El Ejecutivo: El Titular del Poder Ejecutivo del Estado de Hidalgo;
 
 XIII.- Equipamiento urbano: El conjunto de inmuebles, instalaciones, construcciones y mobiliario urbano, de propiedad pública o privada, utilizados para prestar a la población los servicios urbanos y desarrollar las actividades económicas;
 
-XIV.- Estudio de impacto urbano: El documento que los propietarios o promoventes de una acción urbana deben presentar al Municipio y en su caso a la Secretaría, el cual contendrá los posibles efectos de aquellas acciones urbanas que por su magnitud y características ameritan su identificación, prevención y mitigación;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
-XV.- Fraccionamiento: La división de un terreno en dos o mas manzanas y éstas en lotes, que requiera del trazo de una o más vías públicas, así como la ejecución de obras de urbanización que le permitan la dotación de infraestructura, equipamiento y servicios urbanos;
+XIV.- Estudio de impacto urbano y vial: El documento que los propietarios o promoventes de una acción urbana, deben de presentar a la Secretaría, el cual contendrá los posibles efectos de aquellas acciones urbanas que por su magnitud y características ameritan su identificación, prevención y mitigación;
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
-XVI.- Fundación: La acción de establecer un nuevo asentamiento humano fuera de los límites del centro de población respetando lo previsto por el Ordenamiento Ecológico Territorial Local o Municipal;
+XIV BIS.- Estación de Servicio: Establecimiento de almacenamiento, comercialización, distribución y trasvaso de gasolina, diesel y gas carburante;
+
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+XV.- Fraccionamiento: La división de un terreno en dos o más lotes o manzanas que requieran del trazo de una o más vías públicas, así como la ejecución de obras de urbanización que le permitan la dotación de infraestructura, equipamiento y servicios urbanos;
+
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+XVI.- Fundación: La acción de establecer un nuevo asentamiento humano;
 
 XVII.- Fusión de áreas o predios: La unión de dos o más terrenos colindantes para formar uno solo;
 
-XVIII.- Infraestructura: Las vías generales de comunicación, toda clase de redes de transportación y distribución de servicios públicos;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+XVIII.- Infraestructura: los sistemas y redes de organización y distribución de personas, bienes, energía y servicios en, y entre, los centros de población.
 
-XIX.- Licencia de uso de suelo: El documento expedido por el Ayuntamiento, en el cual se autoriza el uso o destino de un predio o inmueble, estableciendo sus condiciones de aprovechamiento de conformidad con los programas, reglamentos y normatividad aplicable en materia de desarrollo urbano y ordenamiento ecológico territorial;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+XIX.- Licencia de uso de suelo: El documento expedido por la autoridad, en el cual se autoriza el uso o destino de un predio o inmueble, estableciendo sus condiciones de aprovechamiento de conformidad con los programas, reglamentos y normatividad aplicable en materia de desarrollo urbano y ordenamiento territorial;
 
 XX.- Mejoramiento: Acción tendiente a reordenar, renovar o regularizar las zonas de un asentamiento humano de incipiente desarrollo o deterioradas física o funcionalmente y dotar a los pobladores de satisfactores y servicios básicos;
 
 XXI.- Municipalización del fraccionamiento: El acto formal mediante el cual se realiza la entrega-recepción por parte del fraccionador al Municipio respectivo, de los bienes inmuebles, equipo e instalaciones destinados a los servicios públicos y de las obras de urbanización de un fraccionamiento, que cumpliendo con lo dispuesto en esta Ley y demás disposiciones jurídicas aplicables, se encuentran en posibilidad de operar suficiente y adecuadamente, permitiendo al Municipio prestar los servicios públicos necesarios para el bienestar de los colonos ahí asentados;
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
-XXII.- Ordenamiento territorial: El proceso de distribución equilibrada de la población y de las actividades económicas en un espacio determinado, atendiendo a lo previsto por el Ordenamiento Ecológico del Territorio local o municipal, la vulnerabilidad de los asentamientos humanos y la infraestructura al cambio climático, así como la localización del equipamiento e infraestructura económica y social, en relación a las necesidades de equilibrio general de la población y del medio ambiente;
+XXII.- Ordenamiento territorial: El proceso de distribución equilibrada de la población y de las actividades económicas en un espacio determinado, atendiendo a la localización del equipamiento e infraestructura económica y social, en relación a las necesidades de equilibrio general de la población y del medio ambiente;
 
 XXIII.- Polígonos de actuación: El área delimitada y físicamente determinada de un territorio, en que se aplicará alguna de las modalidades del Sistema a fin de estructurar, ordenar o reordenar una unidad espacial integral;
 
-> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
-
-XXIII BIS.- Procuraduría: La Procuraduría Estatal de Protección al Ambiente y del Ordenamiento Territorial.
+XXIII BIS.- (DEROGADA, P.O. 27 DE AGOSTO DE 2012)
 
 XXIV.- Programa Estatal de Desarrollo Urbano; El conjunto de Reglamentos, planos, normas técnicas o disposiciones relativas para ordenar y regular las provisiones, usos, reservas y destinos del Territorio de la Entidad, para la fundación, mejoramiento, conservación y crecimiento de los centros de población y el desarrollo urbano en general;
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
-XXV.- Provisiones: Las áreas que serán utilizadas para la fundación de un asentamiento humano respetando lo previsto en el Ordenamiento Ecológico del Territorio local o Municipal;
+XXV.- Provisiones: Las áreas que serán utilizadas para la fundación de un asentamiento humano;
 
 XXVI.- Reagrupamiento inmobiliario: La asociación de los propietarios de los predios necesarios para la ejecución de un proyecto de interés público o privado;
 
@@ -161,9 +183,9 @@ XXVII.- Relotificación: El acto mediante el cual dos o más lotes contiguos de 
 
 XXVIII.- Reservas: Las áreas de un asentamiento humano que serán utilizadas para su crecimiento;
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
-XXIX.-Secretaría: la Secretaría de Medio Ambiente y Ordenamiento Territorial;
+XXIX.- Secretaría: La Secretaría de Obras Públicas y Ordenamiento Territorial;
 
 XXX.- Servicios urbanos: Las actividades operativas públicas prestadas directamente por la Autoridad competente o concesionadas para satisfacer necesidades colectivas en los centros de población;
 
@@ -179,15 +201,15 @@ XXXV.- Sistema de actuación privado: El reagrupamiento inmobiliario en un polí
 
 XXXVI.- Subdivisión: La partición de un terreno en dos o más fracciones que no requieran el trazo de una o más vías públicas;
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
-XXXVlI.- Suelo no urbanizable: Las zonas, áreas y predios ubicados o no dentro de un asentamiento humano en donde, de conformidad con los programas que integran el Sistema y/o el Ordenamiento Ecológico del Territorio local o municipal, el uso del suelo deberá permanecer inalterable;
+XXXVlI.- Suelo no urbanizable: Las zonas, áreas y predios que por su ubicación y características y de conformidad con los programas que integran el Sistema, su uso del suelo deberá permanecer inalterable;
 
 XXXVIII.- Suelo urbanizado: Las zonas, áreas o predios de un centro de población que cuenten con la infraestructura, equipamiento y servicios urbanos y que están edificados en al menos dos terceras partes de su superficie, que pueden ser objeto de reordenamiento o reestructuración;
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
-XXXIX.- Suelo urbanizable: Las áreas o predios que se reserven para la expansión o el crecimiento de los asentamientos humanos, conforme a los programas que integran el Sistema y/o el Ordenamiento Ecológico del Territorio;
+XXXIX.- Suelo urbanizable: Las zonas, áreas o predios que se reserven para la expansión o el crecimiento de los asentamientos humanos, conforme a los programas que integran el Sistema;
 
 XL.- Usos: Los fines particulares a que podrán dedicarse determinadas zonas o predios en el Territorio del Estado;
 
@@ -241,9 +263,7 @@ XIV.- Coadyuvar con las Dependencias y Entidades Federales en el cumplimiento de
 
 XV.- Expedir las declaratorias sobre provisiones, predios; usos, reservas y destinos de áreas y predios;
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
-
-XVI.-. Determinar la vulnerabilidad de los asentamientos humanos y el desarrollo urbano en general, a los efectos del cambio climático, así como las medidas de adaptación y/mitigación al cambio climático que se deben implementar en los asentamientos humanos, centros de población; y,
+XVI.- (DEROGADA, P.O. 27 DE AGOSTO DE 2012)
 
 > <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
@@ -253,9 +273,9 @@ XVlI.- Las de más (sic) que atribuyan las Leyes y disposiciones legales aplicab
 
 Para el cumplimiento de las atribuciones que esta Ley le otorga al Ejecutivo, se auxiliará por la Secretaría, que es la Dependencia encargada de formular y conducir la política general en materia de desarrollo urbano y ordenamiento territorial de los asentamientos humanos en la Entidad, a través del Sistema y los demás instrumentos aplicables al presente ordenamiento.
 
-> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 27 DE AGOSTO DE 2012)</small>
 
-Así como, por la Procuraduría encargada de supervisar, verificar, vigilar el cumplimento de lo previsto en la presente Ley y en su caso, sancionar su incumplimiento de conformidad con lo previsto en la normatividad aplicable.
+Así como de supervisar, verificar y vigilar el cumplimiento de lo no previsto en la presente Ley y en su caso sancionar su incumplimiento de conformidad con lo previsto en la normatividad aplicable.
 
 ###### ARTICULO 8.
 
@@ -299,33 +319,59 @@ XVIII.- Coordinar la ejecución de acciones de vivienda y urbanización conforme
 
 XIX.- Participar en la constitución y administración de las reservas territoriales, con Autoridades Federales o Municipales, así como la concertación con el sector privado;
 
-XX.- Participar en la regularización de la tenencia de la tierra urbana, en los casos y con las condiciones establecidas por las disposiciones legales aplicables, con Autoridades Federales o Municipales, así como mediante la concertación con el sector privado;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+XX.- Coordinar la regulación de la tenencia de la tierra urbana, en los casos y con las condiciones establecidas por las disposiciones legales aplicables, con la participación de los municipios y en su caso mediante la concertación con el sector privado;
 
 XXI.- Participar con las Autoridades Municipales en la emisión de dictámenes y opiniones en los términos de la Ley Agraria, para la incorporación de suelo ejidal o comunal al desarrollo urbano, asegurando la congruencia de dichas incorporaciones con lo dispuesto en los programas que integran el Sistema;
 
-XXII.- Dictaminar los estudios de impacto urbano, así como las demás autorizaciones de su competencia, de acuerdo con esta Ley, los programas que integran el Sistema y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+XXII.- Dictaminar los estudios de impacto urbano y vial;
+
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+XXII BIS.- Coadyuvar con los municipios en el otorgamiento de licencias, permisos y autorizaciones de conjuntos urbanos, fraccionamiento, fusión, subdivisión, relotificación, reagrupamiento inmobiliario y cambio a régimen en propiedad en condominio;
+
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+XXII TER.- Expedir las constancias de viabilidad, de conjuntos urbanos y de acciones urbanas;
+
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+XXII QUATER.- En coordinación con los municipios, expedir la autorización de venta y escrituración de lotes y vivienda en el estado;
 
 XXIII.- Participar en la conformación de acciones en materia de dotación de infraestructura, equipamiento y servicios urbanos;
 
 XXIV.- Participar conforme a las leyes aplicables en el diseño de programas y acciones en materia del patrimonio cultural, natural y la imagen urbana;
 
-XXV.- (DEROGADA, P.O. 13 DE DICIEMBRE DE 2010)
+XXV.- (DEROGADA, P.O. 13 DE DICIEMBRE DE 2010) (DEROGADA, P.O. 27 DE AGOSTO DE 2012)
 
 XXVI.- Conocer y resolver los recursos administrativos, en el ámbito de su competencia, de conformidad con la Ley Estatal del Procedimiento Administrativo para el Estado de Hidalgo; y
 
 XXVII.- Las demás que le atribuyan otros ordenamientos legales.
 
-> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
-ARTÍCULO 8 BIS.- Corresponde a la Procuraduría:
+XXVIII.- Revocar las constancias de viabilidad, permisos, autorizaciones, subdivisiones, relotificaciones, fraccionamientos y conjuntos urbanos;
 
-I.- Investigar, supervisar, verificar y vigilar el cumplimiento de esta Ley y sus disposiciones reglamentarias, así como imponer las sanciones y medidas de seguridad de conformidad con lo previsto en la normatividad aplicable;
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
-II.- Coordinarse con los municipios para vigilar el cumplimiento de la presente Ley;
+XXIX.- Autorizar la apertura, prolongación, ampliación o modificación de vías públicas de competencia municipal, no previstas en los programas de desarrollo urbano;
 
-III.- Conocer y resolver los recursos administrativos, en el ámbito de su competencia, de conformidad con lo previsto en la Ley para la Protección al Ambiente del Estado de Hidalgo; y
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
-IV.- Las demás que le atribuyan otros ordenamientos legales.
+XXX.- Aprobar el plano de lotificación para la localización, deslinde y fraccionamiento de las zonas de urbanización ejidal o comunal y su reserva de crecimiento;
+
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+XXXI.- Ejercer el derecho de preferencia del Estado, para adquirir en igualdad de condiciones, predios comprendidos en las áreas urbanizables señaladas en los programas de desarrollo urbano aplicable, cuando esos vayan a ser objeto de enajenación; y
+
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+XXXII.- Investigar, supervisar y vigilar el cumplimiento de esta Ley y sus disposiciones reglamentarias, así como imponer las sanciones y medidas de seguridad de su competencia actuando con fe pública en el ejercicio de estas atribuciones.
+
+ARTICULO 8 BIS.- (DEROGADO, P.O. 27 DE AGOSTO DE 2012)
 
 ###### ARTICULO 9.
 
@@ -375,9 +421,31 @@ XXI.- Proporcionar la información de su competencia para la integración del Si
 
 XXII.- Vigilar el cumplimiento de esta Ley, calificar las infracciones y aplicar las sanciones y las medidas de seguridad de su competencia, en los términos de la presente Ley, así como solicitar el apoyo del Estado, en su caso, para tal efecto;
 
-XXIII.- Conocer y resolver los recursos, en el ámbito de su competencia, de conformidad con la Ley Estatal del Procedimiento Administrativo para el Estado de Hidalgo; y
+XXIII.- Conocer y resolver los recursos, en el ámbito de su competencia, de conformidad con la Ley Estatal del Procedimiento Administrativo para el Estado de Hidalgo; y (sic)
 
 XXIV.- Las demás que le otorgue esta Ley y otras disposiciones legales y reglamentarias aplicables.
+
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+XXV.- Revocar permisos, autorizaciones, constancias y licencias de usos de suelo, de fusiones, subdivisiones, lotificaciones, relotificaciones y fraccionamiento, previo acuerdo con la Secretaria;
+
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+XXVI.- Expedir las constancias y licencias de usos de suelo de acuerdo a los programas de desarrollo urbano de su competencia;
+
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+XXVII.- Aprobar los proyectos ejecutivos para la constitución de subdivisiones, relotificaciones, fraccionamiento y cambio de régimen de propiedad en condominio, conforme a lo que establezcan las constancias de viabilidad y dictámenes de impacto urbano y vial;
+
+Así como la supervisión de la ejecución de las obras de urbanización e infraestructura y equipamiento urbano, que establezcan los acuerdos de autorización correspondientes.
+
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+XXVIII.- Recibir, conservar y operar las áreas de donación establecidas a favor del municipio, así como las obras de urbanización, infraestructura y equipamiento urbano de los conjuntos urbanos, subdivisiones y condominios conforme a esta ley y su Reglamento; y
+
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+XXIX.- Ejercer indistintamente con el Estado, el derecho de preferencia para adquirir predios en las áreas urbanizables señalados en los programas de desarrollo urbano aplicables, cuando estos vayan a ser objeto de enajenación a título oneroso.
 
 ## TITULO SEGUNDO. DE LA PLANEACION URBANA
 
@@ -401,15 +469,17 @@ VI.- Los Programas de Desarrollo Urbano de los Centros de Población; y
 
 VII.- Los Programas Parciales y Sectoriales de Desarrollo Urbano, derivados de los programas a que se refieren las fracciones II a VI de este Artículo.
 
-El Estado y los Municipios podrán convenir mecanismos de planeación regional para coordinar acciones e inversiones que propicien el ordenamiento territorial de los asentamientos humanos ubicados en dos o más Entidades, ya sea que se trate de zonas metropolitanas o sistemas de centros de población cuya relación requiera la participación de los Municipios. La aprobación de estos programas se efectuará con base a lo establecido en el Artículo 15 de esta Ley.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+En el caso de las fracciones V, VI Y VII, La Secretaría podrá aprobar un esquema simplificado para la elaboración de dichos programas, atendiendo a las características y dimensiones de éstos; debiendo contener como mínimo las normas de zonificación primaria, usos y destinos del suelo.
 
-###### ARTÍCULO 11.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
-Los programas que integran el Sistema, deberán guardar congruencia entre sí, sujetarse a los lineamientos del Programa Estatal de Desarrollo Urbano y no contravenir las disposiciones de los Ordenamientos Ecológicos Territoriales locales o municipales y los programas de niveles superiores del Sistema.
+###### ARTICULO 11.
 
-La Secretaría, analizará y verificará que los proyectos de programas de desarrollo urbano propuestos, como requisito previo a su publicación en el Periódico Oficial del Estado y su inscripción en el Registro Público de la Propiedad y del Comercio, guarden congruencia entre los distintos niveles de planeación. En caso de detectar incongruencias, formulará las recomendaciones que considere procedentes para que el proyecto de programa de que se trate sea revisado y modificado.
+Los programas que integran el Sistema deberán guardar congruencia entre sí, sujetarse a los lineamientos del Programa Estatal de Desarrollo Urbano y Ordenamiento Territorial y no contravenir las disposiciones de los programas de niveles superiores en el Sistema.
+
+La Secretaría, analizará y verificará que los proyectos de programas de desarrollo urbano propuestos, como requisito previo a su publicación en el Periódico Oficial del Estado y su inscripción en el Registro Público de la Propiedad y del Comercio, guarden congruencia entre los distintos niveles de planeación, así como de la normatividad aplicable en la materia. En caso de detectar incongruencias, formulará las recomendaciones que considere procedentes para que el proyecto de programa de que se trate sea revisado y modificado.
 
 ###### ARTICULO 12.
 
@@ -439,9 +509,11 @@ III.- Definición de programas y proyectos estratégicos contemplando los instru
 
 IV.- Los plazos para la formulación de pronósticos, así como la determinación de estrategias y propuestas en los programas que integran el Sistema, deberán contemplar los escenarios temporales de corto, mediano y largo plazo, considerados como tales, un año, cinco años y veinticinco años, respectivamente; y,
 
-> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+V.- (DEROGADA, P.O. 27 DE AGOSTO DE 2012)
 
-V.- La vulnerabilidad de los asentamientos humanos e infraestructura a los efectos del cambio climático de conformidad con los escenarios previstos para cada municipio, así como las medidas de adaptación y mitigación que se deberán implementar en los centros de población para enfrentar este fenómeno.
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+VI.- La evaluación del plan que abroga o modifica, en su caso.
 
 ### CAPITULO TERCERO. DE LA COORDINACION DE AUTORIDADES EN LOS FENOMENOS DE CONURBACION Y METROPOLIZACION
 
@@ -587,9 +659,13 @@ Estos programas serán de observancia obligatoria para los particulares y las au
 
 Todo trámite derivado de una acción urbana, deberá sujetarse a lo establecido en esta Ley y en los Programas de Desarrollo Urbano correspondientes, en caso contrario, estarán afectados de nulidad absoluta.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 33.
 
-A partir de la fecha de la inscripción de un programa de desarrollo urbano y ordenamiento territorial, las Autoridades Municipales podrán expedir licencias o autorizaciones de urbanización, licencias de régimen de propiedad en condominio, fraccionamiento, subdivisión, construcción, reconstrucción, ampliación o cualquier otra acción urbana considerada en su ámbito jurisdiccional.
+A partir de la fecha de la inscripción en el Registro Público de la Propiedad y del Comercio, de un programa de desarrollo urbano y ordenamiento territorial, la autoridad municipal podrá expedir licencias o autorizaciones de urbanización, licencias de régimen de propiedad en condominio, fraccionamiento, subdivisión, construcción, reconstrucción, ampliación o cualquier otra acción urbana considerada en su ámbito, competencial de conformidad a la constancia de viabilidad emitida y dictamen de impacto urbano y vial expedido, ambos por la Secretaría.
+
+> <small>N. DE E. LA REFORMA APROBADA EN EL DECRETO 281, EN SU ARTÍCULO ÚNICO SEÑALA QUE SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 34, DESPUÉS MENCIONA QUE SE DEROGA EL MISMO PÁRRAFO POR LO TANTO SE DEJA EL TEXTO PUBLICADO EN EL P.O. 27 DE AGOSTO DE 2012.</small>
 
 ###### ARTICULO 34.
 
@@ -597,7 +673,9 @@ No podrá celebrarse ni inscribirse ningún acto, convenio, contrato o afectaci�
 
 Para tal efecto deberán insertar el certificado del Registro Público de la Propiedad y del Comercio sobre la existencia o inexistencia de los programas que contempla esta Ley, y sobre las prescripciones que éstos contengan.
 
-El registrador de la propiedad deberá incluir en los certificados de libertad de gravamen la mención que se establece en el párrafo anterior.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
+El Registrador de la Propiedad deberá incluir en los Certificados de Libertad de Gravamen o de Gravámenes, o cualquier otro certificado o constancias que expida, la mención de que existen o no los programas que contempla esta Ley, o bien si tiene o no Inscrita Declaratoria alguna que establezca Prohibiciones, Usos, Reservas o Destinos, conforme a esta Ley, de no hacerlo se entenderá en sentido negativo.
 
 ###### ARTICULO 35.
 
@@ -613,13 +691,13 @@ Las Autoridades Administrativas y Judiciales, en los procesos cuyas resoluciones
 
 El Estado por conducto de la Secretaría y los Municipios, promoverán acciones concertadas entre los sectores público, social y privado, que propicien la participación de la ciudadanía en la fundación, conservación, mejoramiento y crecimiento de asentamientos humanos bajo criterios de sustentabilidad.
 
-El Consejo Estatal de Participación Ciudadana Ambiental y de Cambio Climático, será la instancia de la Secretaría encargada de promover y dar seguimiento a la participación social en la materia.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 27 DE AGOSTO DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
-###### ARTÍCULO 38.
+###### ARTICULO 38.
 
-La Secretaría, a través del Consejo de Participación Ciudadana Ambiental y Cambio Climático, y los Municipios, en el ámbito de sus respectivas competencias conforme a la Legislación aplicable, promoverán la constitución de agrupaciones comunitarias y la participación de organizaciones sociales, colegios de profesionistas, instituciones académicas y de investigación, cuyos fines estén relacionados con el desarrollo urbano de los asentamientos humanos.
+El Estado y los Municipios, en el ámbito de sus respectivas competencias conforme a la Legislación aplicable, promoverán la constitución de agrupaciones comunitarias y la participación de organizaciones sociales, colegios de profesionistas, instituciones académicas y de investigación, cuyos fines estén relacionados con el desarrollo urbano de los asentamientos humanos.
 
 ###### ARTICULO 39.
 
@@ -725,17 +803,21 @@ La planeación del desarrollo urbano no confiere a los propietarios o poseedores
 
 Los propietarios o poseedores de áreas o predios, incluyendo las Dependencias y Entidades Federales, Estatales y Municipales que pretendan realizar una acción urbana en el Territorio del Estado, deberán obtener las autorizaciones que para su uso sean necesarias.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 50.
 
-Todos los actos, convenios y contratos relativos a la propiedad, posesión o cualquier otro derecho real, deberán contener las cláusulas relativas a los usos, destinos o reservas de áreas y predios asignados conforme a los programas de desarrollo urbano y ordenamiento territorial correspondientes.
+Todos los Actos, Convenios y Contratos relativos a la transmisión de propiedad, deberán contener las Cláusulas relativas a los Usos, Destinos o Reservas de Áreas o Predios asignados conforme a los Programas de Desarrollo Urbano y Ordenamiento Territorial correspondientes.
 
 ###### ARTICULO 51.
 
 La contravención a las disposiciones de la Ley General de Asentamientos Humanos, esta Ley y los programas contenidos en el Sistema, así como los actos jurídicos de traslación de dominio que se realicen sin respetar el derecho de preferencia, no podrán ser autorizados por los Notarios Públicos.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 52.
 
-Los Notarios Públicos deberán cerciorarse de la existencia de las constancias, autorizaciones, permisos o licencias que las Autoridades competentes expidan en relación a la utilización o disposición de áreas o predios, mismas que deberán ser insertadas en los instrumentos públicos respectivos, bajo pena de nulidad de los mismos.
+Los Notarios Públicos, que intervengan en actos de transmisión de propiedad, deberán cerciorarse de la existencia de las constancias, autorizaciones, permisos o licencias que las autoridades competentes expidan en relación a la utilización o disposición de áreas o predios. Asimismo, los Registradores Públicos verificarán que los citados documentos estén insertados o relacionados en los instrumentos públicos respectivos.
 
 ###### ARTICULO 53.
 
@@ -825,9 +907,7 @@ VI.- Los plazos de iniciación, revisión y terminación de las obras; y
 
 VII.- Las previsiones y medidas de seguridad para reducir el impacto negativo de la acción urbana en la población.
 
-> <small>(REFORMADO [ADICIONADO], P.O. 13 DE DICIEMBRE DE 2010)</small>
-
-Cuando así lo requiera la autoridad competente deberá acompañarse además de las previsiones y medidas de adaptación y, en su caso, mitigación al cambio climático.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 63.
 
@@ -895,13 +975,31 @@ Los programas que establece esta Ley deberán adecuarse a los requerimientos que
 
 Las actividades e inversiones que en materia de protección ecológica, conservación, mejoramiento, así como las acciones urbanas que realicen la Federación, el Estado, los Municipios y los particulares, deberán atender al análisis de la prevención y reducción de los efectos destructivos de un desastre o emergencia.
 
-#### SECCION PRIMERA. DE LAS ACCIONES Y POLITICAS DE FUNDACION, CRECIMIENTO, MEJORAMIENTO Y CONSERVACION DE LOS ASENTAMIENTOS HUMANOS
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 27 DE AGOSTO DE 2012)</small>
+
+#### SECCION SEXTA. DE LAS ESTACIONES DE SERVICIO DE GASOLINA, DIESEL Y GAS CARBURANTE
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
+ARTICULO 70 BIS.- Los predios para el establecimiento de estaciones de servicio de gasolina, diesel y gas carburante deberán estar ubicados en zonas compatibles de conformidad con los usos del suelo determinados en los Planes y Programas vigentes que integran el Sistema Estatal de Desarrollo Urbano y Ordenamiento Territorial.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
+ARTICULO 70 TER.- Para instalar Estaciones de Servicio, se deberán ajustar a los siguientes lineamientos, independientemente de sujetarse a las normas y especificaciones generales para proyectos y de construcción expedidas por PEMEX:
+
+Se instalarán entre una y otra, con una distancia mínima lineal de mil metros en el mismo sentido de circulación en áreas urbanas y de diez mil metros en áreas rurales y carreteras, excepto cuando en la misma exista una división entre las circulaciones.
+
+El predio debe ubicarse a una distancia mínima de resguardo de 100 metros radiales de centros de concentración masiva, tales como escuelas, hospitales, mercados, cines, teatros, estadios, auditorios y templos. Esta distancia se medirá de los muros de los edificios indicados a los dispensarios o tanques de almacenamiento de combustible.
+
+El predio deberá estar a una distancia mínima de resguardo de 100 metros radiales con respecto a una planta de almacenamiento de gas LP y centros de despacho a sistemas de carburación automotor.
+
+Los tanques de almacenamiento deben ubicarse a una distancia mínima de resguardo de 30 metros con respecto a líneas de alta tensión, vías férreas y ductos que transporten productos derivados del petróleo.
+
+En áreas habitacionales la distancia mínima de separación a las viviendas será de 15 metros a los tanques de almacenamiento, debiendo construir una barda como resguardo a doble altura.
 
 ### CAPITULO PRIMERO. DE LA CONGRUENCIA CON LOS PROGRAMAS
 
-#### SECCION SEGUNDA. DE LOS EFECTOS COMPENSATORIOS E INSTRUMENTOS
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+#### SECCION PRIMERA. DE LAS ACCIONES Y POLITICAS DE FUNDACION, CRECIMIENTO, MEJORAMIENTO Y CONSERVACION DE LOS ASENTAMIENTOS HUMANOS
 
 ###### ARTICULO 71.
 
@@ -911,11 +1009,11 @@ Los programas que estipula esta Ley señalarán las políticas y acciones espec�
 
 La fundación de un asentamiento humano deberá Publicarse en el Periódico Oficial del Estado, en los términos previstos por el Reglamento de esta Ley.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
-###### ARTÍCULO 73.
+###### ARTICULO 73.
 
-La fundación de asentamientos humanos deberá realizarse en tierras susceptibles para el aprovechamiento urbano de conformidad con lo previsto por el Ordenamiento Ecológico Territorial local o municipal, evaluando la vulnerabilidad a los efectos del cambio climático y las medidas de adaptación necesarias, el impacto ambiental y respetando primordialmente las áreas naturales protegidas, el patrón de asentamiento humano rural y las comunidades indígenas.
+La fundación de asentamientos humanos deberá realizarse en tierras susceptibles para el aprovechamiento urbano, evaluando su impacto ambiental y respetando primordialmente las áreas naturales protegidas, el patrón de asentamiento humano rural y las comunidades indígenas, para cuyos efectos se establecerán en el Reglamento de esta Ley los requisitos correspondientes.
 
 ###### ARTICULO 74.
 
@@ -929,11 +1027,21 @@ III.- La celebración de Convenios y Acuerdos de Coordinación en su caso, con l
 
 IV.- La adquisición, asignación o destino de inmuebles para el sector público;
 
-V.- La construcción de vivienda, infraestructura y equipamiento de los asentamientos humanos;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+V.- La determinación de las condiciones de ubicación y construcción de vivienda, infraestructura y equipamiento de los centros de población;
 
 VI.- La regularización de la tenencia de la tierra urbana y de las construcciones; y
 
 VII.- Las demás que se consideren necesarias para el mejor efecto de las acciones de conservación, mejoramiento y crecimiento.
+
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+VIII.- El fortalecimiento de la movilidad peatonal, no motorizada y del transporte público; y
+
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+IX.- Las demás que se consideren necesarias para el mejor efecto de las acciones de acciones (sic) de conservación mejoramiento y crecimiento.
 
 ###### ARTICULO 75.
 
@@ -957,6 +1065,10 @@ VII.- La acción integrada del sector público que articule la regularización d
 
 VIII.- Las demás que se consideren necesarias para el mejor efecto de las acciones de conservación y mejoramiento.
 
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+IX.- La construcción y adecuación de la infraestructura, el equipamiento y los servicios urbanos para garantizar la seguridad, libre tránsito y accesibilidad requeridas por las personas con capacidades diferentes.
+
 ###### ARTICULO 76.
 
 Además de lo dispuesto en el Artículo anterior, las autorizaciones de acciones urbanas se efectuarán mediante:
@@ -965,9 +1077,9 @@ I.- La determinación de las áreas de reserva para expansión de dichos asentam
 
 II.- Los mecanismos para la intervención directa de la Federación, Estado y Municipios, tendientes a la adquisición o aportación por parte de los sectores público, social y privado de áreas o predios ubicados en las zonas de suelo urbano programado, a efecto de disponer de reserva territorial en tiempo y condición para el crecimiento de los asentamientos humanos.
 
-#### SECCION TERCERA. DE LOS MECANISMOS DE FINANCIAMIENTO DEL DESARROLLO URBANO
+#### SECCION SEGUNDA. DE LOS EFECTOS COMPENSATORIOS E INSTRUMENTOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 77.
 
@@ -1043,7 +1155,9 @@ XX.- Venta de derechos de desarrollo, consistente en la cesión onerosa de inten
 
 La aplicación de los instrumentos a que se refiere este Artículo se sujetará a las disposiciones de esta Ley, así como a las condiciones y lineamientos que establezca su Reglamento.
 
-#### SECCION CUARTA. DE LAS RESERVAS TERRITORIALES
+#### SECCION TERCERA. DE LOS MECANISMOS DE FINANCIAMIENTO DEL DESARROLLO URBANO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 82.
 
@@ -1053,7 +1167,7 @@ Los derechos especiales para obras por cooperación se aplicarán en los términ
 
 Se entiende contribución por plusvalía, el incremento de valor de los inmuebles como efecto directo o indirecto de la modificación de la normatividad urbana aplicable a los mismos, la realización de obras públicas, cambio de uso del suelo o cualquier otro acto atribuible a terceros, el cual será objeto de gravamen mediante esta contribución, conforme se establece en la Ley de Hacienda Municipal y demás disposiciones fiscales del Estado.
 
-#### SECCION QUINTA. DE LA REGULARIZACION DE LA TENENCIA DE LA TIERRA
+#### SECCION CUARTA. DE LAS RESERVAS TERRITORIALES
 
 ###### ARTICULO 83.
 
@@ -1071,9 +1185,9 @@ III.- Reducir y abatir los procesos de ocupación irregular de áreas y predios,
 
 IV.- Intervenir en el mercado de terrenos y garantizar la disponibilidad en tiempo y condición del suelo ubicado en las zonas de suelo urbanizable programado; y
 
-> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
-V.- La programación de adquisiciones y la oferta de tierra para el desarrollo urbano y la vivienda previendo escenarios de cambio climático que requieran de movilización de poblaciones o asentamientos humanos.
+V.- La programación de adquisiciones y la oferta de tierra para el desarrollo urbano y la vivienda, previendo escenarios que requieran de movilización de poblaciones o asentamientos humanos.
 
 ###### ARTICULO 84.
 
@@ -1125,29 +1239,29 @@ La Federación, Estado o Municipios que enajenen lotes o vivienda económica deb
 
 El Estado y los Municipios, a través de las Dependencias o Entidades que corresponda, instrumentarán programas para que los titulares de derechos ejidales o comunales, cuyas tierras sean incorporadas al desarrollo urbano y la vivienda, se ajusten a las disposiciones de planeación urbana vigentes.
 
-#### SECCION SEXTA. DEL DERECHO DE PREFERENCIA
+#### SECCION QUINTA. DE LA REGULARIZACION DE LA TENENCIA DE LA TIERRA
 
 ###### ARTICULO 91.
 
 Quienes propicien la ocupación irregular de áreas y predios en los centros de población, se harán acreedores a las sanciones establecidas en las disposiciones jurídicas aplicables.
 
-> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
-La Procuraduría en coordinación con las autoridades municipales competentes, deberán prevenir la ocupación irregular de áreas y predios en centros de población.
+La Secretaría en coordinación con las autoridades municipales competentes, deberán prevenir la ocupación irregular de áreas y predios en centros de población.
 
 ###### ARTICULO 92.
 
 La regularización de la tenencia de la tierra en el Territorio del Estado, se sujetará, además de lo establecido en otras disposiciones en la materia, a lo señalado en la presente Ley, sus disposiciones reglamentarias, así como a lo establecido en los programas del Sistema.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
-###### ARTÍCULO 93.
+###### ARTICULO 93.
 
-La existencia de asentamientos humanos irregulares o la gestación de estos, podrá ser denunciada por cualquier persona ante la Procuraduría o la autoridad municipal competente, a efecto de que se suspenda cualquier obra, división de predios o venta de lotes, sin perjuicio donde se presenten las denuncias penales correspondientes.
+La existencia de asentamientos humanos irregulares o la gestación de estos podrán ser denunciadas por cualquier persona ante la autoridad Estatal o Municipal competente, a efecto de que se suspenda cualquier obra, división de predios o venta de lotes.
 
-La procuraduría y los municipios podrán actuar de oficio para supervisar, verificar y en su caso, sancionar cualquier obra, división de predios o venta de lotes, de conformidad con lo previsto en la presente Ley y sin perjuicio de las denuncias penales correspondientes.
+La Secretaría y los municipios podrán actuar de oficio para supervisar, verificar y en su caso, sancionar cualquier obra, división de predios o venta de lotes, de conformidad con lo previsto en la presente Ley y sin perjuicio de que se presenten las denuncias penales correspondientes.
 
-En casos de flagrancia en la gestación y radicación de asentamientos humanos irregulares, la Procuraduría o las autoridades municipales de desarrollo urbano podrán instrumentar y ejecutar operativos de desalojo inmediato, como medida de seguridad para evitar su consolidación, para lo cual pueden solicitar apoyo de la fuerza pública.
+En casos de flagrancia de cualquier acción urbana irregular, la Secretaría o las autoridades Municipales de desarrollo urbano podrán instrumentar y ejecutar operativos de desalojo inmediato, como medida de seguridad para evitar su consolidación, para lo cual se harán acompañar de la fuerza pública.
 
 ###### ARTICULO 94.
 
@@ -1161,15 +1275,19 @@ Los Ayuntamientos en sus respectivas jurisdicciones intervendrán para la regula
 
 Todo predio de cualquier tipo de tenencia en el cual existan asentamientos irregulares, será delimitado para evitar su crecimiento y determinado su padrón de ocupación, sin menoscabo de aplicar las disposiciones de Ley correspondientes.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 97.
 
-La regularización de la tenencia de la tierra como una acción de mejoramiento urbano, deberá considerar la ejecución por cooperación y solidaridad de las obras de infraestructura, equipamiento o servicios urbanos que requiera el asentamiento humano correspondiente previa formalización del derecho de propiedad.
+La regularización de la tenencia de la tierra como una acción de mejoramiento urbano, deberá considerar la ejecución por cooperación y solidaridad de las obras de infraestructura, equipamiento o servicios urbanos que requiera el asentamiento humano correspondiente previa formalización del derecho de propiedad, que se gestione por conducto de la Secretaría de Gobierno.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+El Colegio de Notarios coadyuvara con el ejercicio en acciones que regularicen la tenencia de la tierra, celebrando los convenios necesarios.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 98.
 
-El Ejecutivo creará la Comisión Estatal para la atención de los asentamientos humanos irregulares, la cual se integrará y funcionará en coordinación con la Procuraduría, conforme a lo dispuesto por el Reglamento de esta Ley y tendrá por objeto:
+El Ejecutivo creará la Comisión Estatal para la Atención de los Asentamientos Humanos irregulares, la cual se integrará y funcionará en coordinación con la Secretaría conforme a lo dispuesto por el Reglamento de esta Ley y tendrá por objeto:
 
 > <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
@@ -1189,39 +1307,53 @@ VI.- Interponer las denuncias o querellas, respecto de los hechos delictivos rel
 
 VII.- Gestionar ante los Ayuntamientos de los Municipios del Estado, la dotación por parte de éstos, de los servicios públicos que requieran los asentamientos humanos en proceso de regularización;
 
-VIII.- Dar seguimiento, ejecutar y cumplir con los compromisos y acuerdos tomados entre sus integrantes en el ámbito de sus respectivas competencias; y
+VIII.- Dar seguimiento, ejecutar y cumplir con los compromisos y acuerdos tomados entre sus integrantes en el ámbito de sus respectivas competencias; y (sic)
 
-IX.- Las demás que le confieran las disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+IX.- La regulación de la tenencia de la tierra, no se podrá llevar a cabo en zonas que se determinen de riesgo, no aptas o sobre derechos de vía; y
+
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+X.- Las demás que le confieran las disposiciones legales aplicables.
 
 > <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 La Comisión Estatal, no podrá promover acciones contrarias a lo previsto en la presente Ley y demás ordenamientos jurídicos aplicables.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 99.
 
-La regularización de la tenencia de la tierra, no se podrá llevar a cabo en zonas que se determinen de riesgo, no aptas o sobre derechos de vía.
+La Secretaría coadyuvará con la Comisión para regularizar la tenencia de la tierra, incorporándola al desarrollo urbano conforme a lo dispuesto a esta Ley y su Reglamento., (sic) con independencia de la materia ejidal o comunal.
 
-#### SECCION SEPTIMA. DEL REAGRUPAMIENTO INMOBILIARIO
+#### SECCION SEXTA. DEL DERECHO DE PREFERENCIA
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 100.
 
-El Estado y el Municipio tendrán derecho de preferencia en igualdad de condiciones, para adquirir los predios comprendidos en suelo urbanizable, señalados en los programas de desarrollo urbano, cuando dichos predios sean puestos a la venta o cuando a través de cualquier acto jurídico, vayan a ser objeto de una transmisión de propiedad. Igual derecho de preferencia tendrán para adquirir los predios comprendidos en las áreas urbanizables, en caso de remate judicial o administrativo. Al efecto, los propietarios de los mismos que deseen enajenarlos, los Notarios Públicos, los Jueces y las Autoridades Administrativas, deberán notificarlo a la Secretaría y al Ayuntamiento correspondiente, dando a conocer el monto de la operación, a fin de que éstos, en un plazo no mayor de treinta días naturales ejerzan el derecho de preferencia si lo consideran conveniente, garantizando el pago respectivo.
+El Estado y los Municipios tendrán Derecho de Preferencia en igualdad de condiciones, para adquirir los predios comprendidos en las zonas de reservas o en suelo urbanizable, señalados en los Planes o Programas de Desarrollo Urbano y Ordenamiento Territorial, cuando dichos predios vayan a ser objeto de enajenación a título oneroso, o se transmita su propiedad mediante una contraprestación. Quedan excluidos de este Derecho Preferencial, aquellos cuya enajenación se derive de un mandato judicial o administrativo, o en caso de remate judicial o administrativo.
 
-En caso de que tanto el Estado como el Municipio quieran ejercer el derecho a que se refiere el párrafo anterior, tendrá preferencia el Municipio.
+Para tal efecto, los propietarios de los predios que deseen enajenarlos, así como los Notarios, los Jueces y las Autoridades administrativas, deberán notificarlo a la Secretaría y al Ayuntamiento correspondiente, dando a conocer el monto de la operación, a fin de que estos, en un plazo no mayor de 30 Días naturales, ejerzan el Derecho de Preferencia, si lo consideran conveniente, garantizando el pago respectivo.
 
-Cuando el Estado o los Municipios ejerzan el derecho a preferencia, el precio y condiciones de la operación serán los mismos que el de la operación que se pretendía realizar.
+En caso de que tanto el Estado como el Municipio quieran ejercer el Derecho a que se refiere el párrafo anterior, tendrá preferencia el Municipio.
+
+Cuando el Estado o los Municipios ejerzan el Derecho de preferencia, el precio y condiciones de la operación serán los mismos que el de la Operación que se pretendía realizar.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 101.
 
-Para el ejercicio del derecho de preferencia a que se refiere este capítulo, en aquellos casos en que por la naturaleza del acto traslativo de dominio, no se haya determinado el valor del inmueble, éste se fijará atendiendo al avalúo que practique al efecto cualquier perito valuador o institución de crédito autorizados.
-
-En caso de que exista controversia sobre el valor, se estará al dictamen definitivo que al efecto emita un perito oficial designado por las partes. En caso de negativa a designarlo, dicha designación recaerá en la Secretaría.
+Para el ejercicio del Derecho de Preferencia a que se refiere este capítulo, en aquellos casos de predios que sean objeto de enajenación a título oneroso, que no se haya determinado el valor del inmueble, este se fijara atendiendo al avaluó que practique al efecto un perito valuador o institución de crédito autorizados.
 
 ###### ARTICULO 102.
 
 Los actos, convenios o contratos que se realicen sin respetar el derecho de preferencia a que se refiere este capítulo, podrán ser declarados nulos mediante procedimiento administrativo o judicial, tramitado por el Estado o el Municipio que su derecho haya sido conculcado.
 
-Por su parte, los Fedatarios públicos y registradores que den fe o inscriban actos o negocios jurídicos contrariando dicho precepto, se harán acreedores a las sanciones y responsabilidades civiles y administrativas que menciona este ordenamiento y otras que procedan.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
+Los propietarios, poseedores, fedatarios públicos, registradores públicos y autoridades que den fe o realicen acciones, trámites administrativos de transmisión de propiedad o que inscriban actos o negocios jurídicos contrariando esta Ley o bien lo preceptuado en el párrafo anterior, se harán acreedores a las sanciones y responsabilidades penales, civiles y administrativas que menciona este ordenamiento y otras que sean aplicables.
 
 ###### ARTICULO 103.
 
@@ -1231,7 +1363,7 @@ La Autoridad podrá ocupar parcial o totalmente y en forma temporal los predios 
 
 Los propietarios y promotores de desarrollo urbano, estarán obligados a donar a las Autoridades, las superficies de terreno en los porcentajes que se determinen en las disposiciones aplicables. Dichos inmuebles serán administrados por las Autoridades Estatales o Municipales, según sea el caso y podrán destinarse para el cumplimiento de los fines de los instrumentos que esta Ley contempla, siendo sus objetivos fundamentales la creación de destinos del suelo para beneficio público y la constitución de reservas territoriales patrimoniales que se destinarán a proyectos, obras y acciones de interés público.
 
-#### SECCION OCTAVA. DE LOS POLIGONOS DE ACTUACION
+#### SECCION SEPTIMA. DEL REAGRUPAMIENTO INMOBILIARIO
 
 ###### ARTICULO 105.
 
@@ -1263,7 +1395,7 @@ V.- Sólo podrán enajenarse los predios resultantes una vez que hayan sido cons
 
 VI.- La distribución de cargas y beneficios entre los participantes se realizará con base en un estudio de factibilidad financiera, de conformidad con las disposiciones legales y reglamentarias en la materia.
 
-#### SECCION NOVENA. DE LA VIVIENDA
+#### SECCION OCTAVA. DE LOS POLIGONOS DE ACTUACION
 
 ###### ARTICULO 109.
 
@@ -1349,7 +1481,7 @@ En el caso de la fracción III la asociación o fideicomiso privado que reciba l
 
 La reglamentación de esta Ley precisará los requisitos, procedimientos y condiciones específicas conforme a las cuales se autorizarán y operarán los polígonos y sistemas de actuación.
 
-#### SECCION DECIMA. DE LAS AGENCIAS DESARROLLADORAS
+#### SECCION NOVENA. DE LA VIVIENDA
 
 ###### ARTICULO 121.
 
@@ -1367,13 +1499,9 @@ III.- Incentivar la reducción de costos de la vivienda;
 
 IV.- Promover el desarrollo de las diversas modalidades de vivienda aprovechando las reservas territoriales disponibles, tomando las medidas que eviten la especulación o que desvirtúen la finalidad social de los proyectos, sujetándose a la política sectorial en la materia; y
 
-> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+V.- (DEROGADA, P.O. 27 DE AGOSTO DE 2012)
 
-V.- Promover la construcción de vivienda que prevea medidas de adaptación y mitigación al cambio climático, así como el uso de ecotecnias.
-
-#### SECCION DECIMA PRIMERA. DE LAS ACCIONES DE FOMENTO
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+#### SECCION DECIMA. DE LAS AGENCIAS DESARROLLADORAS
 
 ###### ARTICULO 122.
 
@@ -1405,7 +1533,9 @@ Las agencias desarrolladoras podrán recibir y destinar al cumplimiento de su ob
 
 La constitución y operación de las agencias desarrolladoras se sujetará a las disposiciones reglamentarias de esta Ley. En todo caso las agencias desarrolladoras contarán con un órgano de vigilancia ciudadano que verificará y auditará su desempeño y emitirá las recomendaciones correspondientes, conforme a las disposiciones reglamentarias de esta Ley.
 
-#### SECCION PRIMERA. DEL SISTEMA ADMINISTRATIVO DE CONTROL DEL DESARROLLO URBANO
+#### SECCION DECIMA PRIMERA. DE LAS ACCIONES DE FOMENTO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 129.
 
@@ -1491,11 +1621,13 @@ La reglamentación de esta Ley precisará los procedimientos, requisitos y tiemp
 
 ### CAPITULO PRIMERO. DEL SISTEMA DE INFORMACION Y EVALUACION DEL DESARROLLO URBANO, ORDENAMIENTO TERRITORIAL Y DE LOS OBSERVATORIOS URBANOS
 
-#### SECCION SEGUNDA. DEL IMPACTO URBANO
+#### SECCION PRIMERA. DEL SISTEMA ADMINISTRATIVO DE CONTROL DEL DESARROLLO URBANO
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 132.
 
-Las constancias, autorizaciones, permisos o licencias que emitan las autoridades de desarrollo urbano, se ajustarán a lo establecido por esta Ley, su reglamentación correspondiente y los programas que integran el Sistema, las que se expidan en contravención a esta disposición, serán nulas y no producirán efecto jurídico alguno.
+Las constancias, autorizaciones, permisos o licencias que emitan las autoridades de desarrollo urbano, se ajustarán a lo establecido por esta Ley y los programas que integran el Sistema, las que se expidan en contravención a esta disposición, serán nulas y no producirán efecto jurídico alguno, para lo cual se ajustaran al procedimiento que se establece en el Reglamento de esta Ley.
 
 ###### ARTICULO 133.
 
@@ -1505,17 +1637,27 @@ I.- Tramitar y obtener una constancia de uso del suelo;
 
 II.- Tramitar y obtener una licencia de uso del suelo;
 
-III.- Formular el estudio de impacto urbano que identifique las posibles afectaciones causadas al entorno inmediato y determine las acciones urbanas a ejecutar; y
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+III.- Formular y presentar el estudio de impacto urbano y vial.
 
 IV.- Observar lo dispuesto en los programas del Sistema.
 
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+V.- Tramitar y obtener la constancia de vialidad.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 134.
 
-Para llevar a cabo la acción urbana, la Autoridad expedirá las constancias, autorizaciones, permisos o licencias correspondientes. Asimismo, emitirá en su caso el dictamen del estudio de impacto urbano, con las condicionantes para la autorización de la acción urbana y la Secretaría opinará sobre éste, asegurando el cumplimiento de las disposiciones de esta Ley.
+Para llevar a cabo la acción urbana, la Secretaría expedirá constancia de viabilidad, asegurando el cumplimiento de las disposiciones de esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 135.
 
-La obtención del dictamen del estudio de impacto urbano será previo a la licencia de construcción, autorización de fusión, subdivisión, lotificación, relotificación, fraccionamiento o cambio a régimen de propiedad en condominio, urbanización o reagrupamiento inmobiliario, licencia de operación y funcionamiento de giros industriales, comerciales o mercantiles y en aquellas otras autorizaciones administrativas que signifiquen transformación, uso o aprovechamiento de inmuebles en el Territorio del Estado.
+La obtención del dictamen del estudio de impacto urbano y vial expedido por la Secretaria, será previo a la licencia de construcción, autorización de fusión, subdivisión, lotificación, relotificación, fraccionamiento o cambio a régimen de propiedad en condominio, urbanización o reagrupamiento inmobiliario, licencia de operación y funcionamiento de giros industriales, comerciales o mercantiles y en aquellas otras autorizaciones administrativas que signifiquen transformación, uso o aprovechamiento de inmuebles, en el territorio del estado.
 
 La obligación a que se refiere el Artículo anterior deberá cumplirse, sin perjuicio de lo que dispongan otros ordenamientos legales y normas reglamentarias aplicables.
 
@@ -1523,11 +1665,21 @@ La obligación a que se refiere el Artículo anterior deberá cumplirse, sin per
 
 Los Municipios expedirán las constancias de uso del suelo, previa solicitud de los interesados, las cuales tendrán una vigencia de seis meses, a partir de la fecha de su expedición.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 137.
 
-Los Municipios, otorgarán la licencia de uso del suelo, a los propietarios de inmuebles, en la cual se podrá fijar el trazo, ejes, niveles, alineamientos y demás obras complementarias que se requieran para su operación, conforme a lo dispuesto en los programas que señala esta Ley, normas técnicas y demás disposiciones reglamentarias.
+Los municipios conforme a los artículos precedentes otorgarán las licencias de uso del suelo los propietarios de inmuebles, en la cual podrán fijar el trazo, niveles, alineamiento, densidad e intensidad de uso y requerimientos de cajones de estacionamiento y demás obras complementarias que se requieran para el buen funcionamiento de la acción urbana.
 
 Las licencias de uso del suelo tendrán una vigencia de un año, a partir de la fecha de su expedición.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
+ARTICULO 137 BIS.- Previa a la aprobación de los programas municipales de desarrollo urbano, los municipios deberán obtener de la Secretaria el Dictamen de congruencia, mismo que se emitirá considerando los principios aplicables en esta Ley, así como las políticas y estrategias del Programa Estatal de Desarrollo Urbano y Ordenamiento Territorial y en su caso, las del Programa Regional o Programa Parcial de Desarrollo Urbano aplicable.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
+ARTICULO 137 TER.- Los programas municipales de desarrollo urbano, de los centros de población, así como los programas parciales y sectoriales que de ellos deriven, mismos que carezcan del Dictamen de Congruencia, serán nulos y no surtirán efecto legal alguno.
 
 ###### ARTICULO 138.
 
@@ -1535,17 +1687,29 @@ Los usos y destinos condicionados son aquellos establecidos por los programas pr
 
 Las condiciones o requisitos que establezcan las licencias de uso del suelo podrán ser económicos, ambientales o funcionales y referirse indistintamente entre otros a los aspectos de vialidad, transportes, infraestructura, uso, funcionamiento y servicios, debiendo darles cumplimiento previo al otorgamiento de la licencia de construcción o funcionamiento.
 
-#### SECCION TERCERA. FUSION Y SUBDIVISION DE TERRENOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE AGOSTO DE 2012)</small>
+
+#### SECCION SEGUNDA. DE LA CONSTANCIA DE VIABILIDAD
+
+DEL IMPACTO URBANO Y VIAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 139.
 
-El estudio de impacto urbano deberá ser formulado y presentado al Ayuntamiento correspondiente, por los propietarios o poseedores, ya sean públicos o privados, de predios que pretendan realizar acciones urbanas, en los siguientes casos:
+La solicitud de la constancia de viabilidad y el estudio de impacto urbano y vial, deberá ser formulado y presentado a la Secretaria, por los propietarios o poseedores, ya sean públicos o privados, de predios que pretendan realizar acciones urbanas, en los siguientes casos:
 
 I.- Proyectos habitacionales de más de 50 viviendas;
 
 II.- Proyectos de cualquier uso o destino que impliquen la construcción de más de tres mil metros cuadrados;
 
-III.- Proyectos de cualquier uso o destino que impliquen el aprovechamiento, fraccionamiento, fusión, subdivisión, relotificación o polígono de actuación concertada, de más de diez mil metros cuadrados de superficie;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+III.- Proyectos de cualquier uso o destino que impliquen el aprovechamiento, fraccionamiento, fusión, subdivisión, relotificación o polígono de actuación concertada, de más de diez mil metros cuadrados de superficie, así como en lo establecido en el Artículo 66 de la Ley Agraria.
+
+Para solicitar la constancia de viabilidad, es necesario presentar, el ante proyecto (sic) de la acción urbana que contenga memoria descriptiva y croquis de localización.
+
+La Secretaria, según sea el caso, emitirá la resolución positiva o negativa.
 
 IV.- Ampliación de vialidades o introducción de infraestructura no contempladas en los programas de desarrollo urbano, así como aquellas que se realicen en más de un Municipio;
 
@@ -1567,11 +1731,13 @@ XII.- Obras que modifiquen la estructura urbana en la red vial y en los usos de 
 
 XIII.- Las demás que se señalen en la tabla de compatibilidad del uso de suelo en las disposiciones reglamentarias de esta Ley.
 
-El dictamen del estudio de impacto urbano, en los casos a que se refieren las fracciones anteriores, deberá ser emitido por el comité que al efecto se constituya entre la Secretaría, el Municipio y los Organismos relacionados con la materia.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 27 DE AGOSTO DE 2012)</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 140.
 
-El estudio de impacto urbano establecerá los costos que la acción urbana pueda generar sobre las redes de infraestructura, equipamiento o servicios públicos y que serán sufragados por el propietario o poseedor promovente, atendiendo conforme a los términos de referencia a:
+El estudio de impacto urbano y vial establecerá los costos que la acción urbana pueda generar sobre las redes de infraestructura, equipamiento o servicios públicos y que serán sufragados por el propietario o poseedor promovente, atendiendo conforme a los términos de referencia que emita la Secretaria, lo siguiente:
 
 I.- La información contenida en el propio estudio, complementos y anexos presentados, la ingresada por el solicitante y la resultante de la visita de verificación;
 
@@ -1585,17 +1751,21 @@ Dichas condiciones o requisitos podrán ser económicos, ambientales o funcional
 
 El promovente deberá garantizar las obligaciones a su cargo, como resultado del dictamen del estudio de impacto urbano que se expida, conforme a lo dispuesto por esta Ley.
 
+> <small>N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. 27 DE AGOSTO DE 2012, PÁGINA 53.</small>
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 141.
 
-Como parte del proceso de evaluación y cuando el tipo de obra o actividad lo requiera, la Secretaría y el Municipio podrán solicitar la opinión técnica de alguna Dependencia, Órgano Desconcentrado, Entidad o unidad administrativa, sin que ello sea impedimento para que emitan el dictamen.
+Como parte del proceso de evaluación y cuando el tipo de obra o actividad lo requiera, la Secretaría y municipio podrán solicitar la opinión técnica de alguna Dependencia, Órgano Desconcentrado, Entidad o unidad administrativa, sin que ello sea impedimento para que emitan el dictamen.
 
-El tiempo de respuesta para que las instancias públicas correspondientes puedan emitir su opinión, se ajustará a lo dispuesto por la Ley Estatal del Procedimiento Administrativo vigente.
+El estudio de impacto urbano y vial deberá ser elaborado por un especialista en materia de desarrollo urbano, debidamente acreditado y registrado ante la Secretaría.
 
-El estudio de impacto urbano deberá ser elaborado por un especialista en materia de desarrollo urbano, debidamente acreditado y registrado ante la Secretaría.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 142.
 
-Para la evaluación del estudio de impacto urbano, la Autoridad deberá considerar:
+Para la evaluación del estudio de impacto urbano y vial, la Secretaria deberá considerar:
 
 I.- Los derechos y obligaciones adquiridos;
 
@@ -1617,9 +1787,11 @@ IX.- Preservar los recursos naturales y la calidad del medio ambiente, en los t�
 
 X.- Impedir riesgos y contingencias urbanas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 143.
 
-La Autoridad determinará en la emisión del dictamen del estudio de impacto urbano:
+La Secretaria, determinará en la emisión del dictamen del estudio de impacto urbano y vial:
 
 I.- La procedencia de la inserción de una obra o proyecto en el entorno urbano, para lo cual podrá imponer las medidas de mitigación o compensación necesarias para evitar o minimizar los efectos negativos que pudiera generar, pudiéndose, en su caso, determinar el pago de aprovechamientos de la estructura urbana; y
 
@@ -1633,29 +1805,33 @@ c) La información presentada por los solicitantes o desarrolladores no sea sufi
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-d).- Se alteren de forma significativa los usos de suelo, la estructura urbana, medio ambiente, los servicios ambientales o la prestación de servicios públicos.
+d). Se alteren de forma significativa los usos de suelo, la estructura urbana, medio ambiente, los servicios ambientales o la prestación de servicios públicos.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 144.
 
-Emitido el dictamen del estudio de impacto urbano, cualquier modificación que el interesado pretenda realizar, deberá someterla a la Autoridad para su revisión, para que dentro de un plazo de treinta días hábiles determine la viabilidad del mismo, que en caso de ser positivo, continuará con el trámite correspondiente y en el supuesto de resultar negativo, deberá subsanar las observaciones en un plazo no mayor a 15 días; el Municipio resolverá de manera definitiva dentro del plazo de 30 días hábiles.
+Emitido el dictamen del estudio de impacto urbano y vial, cualquier modificación que el interesado pretenda realizar, deberá someterla a la Secretaría para su revisión, para que dentro de un plazo de treinta días hábiles determine la viabilidad del mismo, que en caso de ser positivo, continuará con el trámite correspondiente y en el supuesto de resultar negativo, deberá subsanar las observaciones en un plazo no mayor a 15 días.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 145.
 
-En caso de que el dictamen de impacto urbano sea positivo, tendrá una vigencia de seis meses. Si no hubiera cambiado la situación del entorno de la acción urbana en la zona en donde se pretenda ubicar, podrá ser prorrogado el tiempo de ejecución de la misma, en atención a la naturaleza del proyecto de que trate. En caso contrario, el estudio de impacto urbano deberá ser nuevamente evaluado por la Autoridad.
+En caso de que el dictamen de impacto urbano y vial sea positivo, tendrá una vigencia de doce meses. Si no hubiera cambiado la situación del entorno de la acción urbana en la zona en donde se pretenda ubicar, podrá ser prorrogado el tiempo de ejecución de la misma, en atención a la naturaleza del proyecto de que trate. En caso contrario, el estudio de impacto urbano deberá ser nuevamente evaluado por la Secretaría.
 
 ###### ARTICULO 146.
 
 Las constancias y licencias de uso del suelo, el dictamen del estudio de impacto urbano y los programas parciales que se expidan, no constituirán constancias de apeo y deslinde respecto de los inmuebles, ni acreditarán la propiedad o posesión de los mismos.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
-###### ARTÍCULO 147.
+###### ARTICULO 147.
 
-Los Municipios verificarán el cumplimiento de las constancias, autorizaciones, permisos o licencias de uso que expidan, así como el cumplimiento de los programas parciales que se aprueben y los dictámenes de impacto urbano; por su parte, la Procuraduría vigilará el cumplimiento de estos últimos.
+La Secretaría y los municipios verificarán el cumplimiento de las constancias, autorizaciones, permisos o licencias de uso que expidan, así como el cumplimiento de los programas parciales que se aprueben y los dictámenes de impacto urbano y vial.
 
-Para efectos del párrafo anterior, la Procuraduría así como las Autoridades Municipales competentes estarán facultadas para realizar las visitas de verificación necesarias, así como para ordenar la aplicación de las medidas de seguridad y sanciones que establece esta Ley.
+Para efectos del párrafo anterior, las Autoridades, competentes estarán facultadas para realizar las visitas de verificación necesarias, así como para ordenar la aplicación de las medidas de seguridad y sanciones que establece esta Ley.
 
-#### SECCION CUARTA. DEL FRACCIONAMIENTO DE TERRENOS
+#### SECCION TERCERA. FUSION Y SUBDIVISION DE TERRENOS
 
 ###### ARTICULO 148.
 
@@ -1669,9 +1845,11 @@ I.- Asegurar que los actos, contratos y convenios en materia inmobiliaria, cumpl
 
 II.- Garantizar la prestación y dotación de la infraestructura, equipamiento y servicios en las diversas colonias, áreas y zonas de los asentamientos humanos.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 150.
 
-Las autorizaciones a que se refiere este capítulo serán nulas de pleno derecho, si se otorgan sin cumplir con lo establecido en esta Ley, los programas que integran el Sistema y demás disposiciones reglamentarias.
+Las autorizaciones a que se refiere este capítulo serán nulas de pleno derecho, si se otorgan sin cumplir con lo establecido en esta Ley, los programas que integran el Sistema y demás disposiciones reglamentarias, para cuyos efectos se iniciara el proceso administrativo señalado en el reglamento de esta ley.
 
 ###### ARTICULO 151.
 
@@ -1695,19 +1873,37 @@ IV.- Cuando el lote sujeto a subdivisión o relotificación se encuentre dentro 
 
 V.- Cuando derivado de una subdivisión previamente autorizada, se realice otra subdivisión de los predios resultantes, se efectuarán a costa del promovente las adecuaciones en las infraestructuras o redes de servicios públicos necesarios.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 152.
 
-Se entenderá por subdivisión familiar, la partición de un terreno que se realice por causa de legado o herencia entre parientes, en línea recta o colateral hasta el cuarto grado, siempre y cuando las fracciones resultantes de esta subdivisión no sean superiores al número de los herederos o legatarios.
+Se entiende por división familiar, la partición de un terreno que se realice entre otros: por Donación, Legado o Herencia, entre cónyuges y parientes en forma ascendente o descendente en línea recta, y colateral hasta el cuarto grado, siempre y cuando las porciones resultantes no sean superiores al número de donatarios, herederos o legatarios, y que no requiera la división, el trazo de una o más vías públicas, sin que se requiera Permiso de Autoridad, incluyendo en estos supuestos la Fusión de Predios.
 
-La superficie de las porciones resultantes deberá sujetarse a lo previsto en los Programas de Desarrollo Urbano y Ordenamiento Territorial y en el Reglamento de esta Ley.
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
+ARTICULO 152 BIS.- Cuando los copropietarios de un bien inmueble dividan la cosa común y al hacerlo se establezcan vías públicas que requieran de infraestructura urbana, se les dará el tratamiento correspondiente a fraccionamiento.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 153.
 
 La solicitud para fusionar, subdividir, lotificar, relotificar o fraccionar terrenos, deberá ser formulada por la persona física o moral que tenga la propiedad del predio o predios respectivos.
 
-Las autorizaciones de las solicitudes a que se refiere esta sección, se otorgarán previo el pago de los derechos y contribuciones correspondientes, debiendo el Municipio notificar dichas autorizaciones al área de Desarrollo Urbano y Catastro del Estado y a su similar en el Municipio e inscribirla en el Registro Público de la Propiedad y del Comercio, en los términos de las disposiciones en la materia.
+Las autorizaciones de las solicitudes a que se refiere esta sección, se otorgarán previo a la constancia de viabilidad y al dictamen del estudio de impacto urbano y vial, y al pago de los derechos y contribuciones correspondientes, debiendo el Municipio notificar dichas autorizaciones al área de Desarrollo Urbano y Catastro del Estado y a su similar en el Municipio e inscribirla en el Registro Público de la Propiedad y del Comercio, en los términos de las disposiciones en la materia.
 
-#### SECCION QUINTA. DEL REGIMEN DE PROPIEDAD EN CONDOMINIO
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
+(SIC) 153.-BIS.- La autoridad podrá revocar las autorizaciones para fusionar, subdividir, lotificar, relotificar por las siguientes causas:
+
+I.- No cumplir con lo dispuesto en esta Ley, sus disposiciones reglamentarias y los programas que integran el Sistema;
+
+II.- No integrar todos y cada uno de los requisitos propios para el trámite solicitado, dentro del plazo fijado;
+
+III.- No dar cumplimiento a las restricciones, condicionantes, obligaciones y demás establecidas en las resoluciones respectivas de la autorización; y
+
+IV.- Las demás que establezca la reglamentación respectiva.
+
+#### SECCION CUARTA. DEL FRACCIONAMIENTO DE TERRENOS
 
 ###### ARTICULO 154.
 
@@ -1729,7 +1925,9 @@ III.- Las garantías para asegurar el adecuado funcionamiento, operación o mant
 
 Los fraccionadores, promotores y propietarios tendrán las siguientes obligaciones:
 
-I.- Cumplir con lo dispuesto en esta Ley, sus disposiciones reglamentarias, los programas que integran el Sistema y con la obtención de las constancias, autorizaciones, permisos o licencias correspondientes que emita la autoridad competente en esta materia;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+I.- Cumplir con lo dispuesto en esta Ley, sus disposiciones reglamentarias, los programas que integran el Sistema y con la obtención de las constancias de viabilidad, dictámenes, autorizaciones, permisos o licencias correspondientes que emita la autoridad competente en esta materia.
 
 II.- Construir por su cuenta, en tiempo y especificaciones, las obras de infraestructura y urbanización conforme a los proyectos, especificaciones y plazos autorizados por las Autoridades competentes;
 
@@ -1749,13 +1947,21 @@ IX.- Construir las redes de infraestructura necesarias para el acercamiento de l
 
 X.- Las demás que establezca la reglamentación respectiva.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 157.
 
-Las disposiciones reglamentarias en la materia, establecerán las norman (sic) básicas que se aplicarán en materia de fraccionamientos.
+El fraccionador, promotores y propietarios, deberán obtener de la Secretaría la autorización de venta y escrituración de lotes e inscribirlos en el Registro Público de la Propiedad y del Comercio correspondiente, de acuerdo a las disposiciones de ésta Ley y su Reglamento.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 158.
 
-La ejecución de las obras de urbanización en forma inmediata o por etapas, se sujetará a los términos establecidos por el Reglamento de esta Ley.
+La vigencia de las autorizaciones para fusionar, subdividir, lotificar, relotificar o fraccionar terrenos, la determinará la autoridad en base a la propuesta presentada por el solicitante, teniendo como límite hasta tres años.
+
+En caso de no haber concluido los trabajos de urbanización se podrá otorgar una prórroga por un periodo igual.
+
+En el caso de no haber dado inicio a las obras en el periodo de tres años la autorización se sujetara a las modificaciones que tengan los programas que integran el Sistema.
 
 ###### ARTICULO 159.
 
@@ -1773,21 +1979,49 @@ La publicidad aquí referida deberá procurar utilizar medios que no afecten la 
 
 Todo propietario o poseedor de predios, sin importar el régimen de propiedad al que esté sujeto, que fusione, subdivida, lotifique, relotifique o fraccione violando las disposiciones de esta Ley, sus disposiciones reglamentarias, los programas que integran el Sistema o las autorizaciones concedidas, se harán acreedores a las sanciones a que se refiere este ordenamiento, sin perjuicio de lo que dispongan otras Leyes o Reglamentos.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 162.
 
-Al fraccionador que haya ejecutado obras, construcciones, instalaciones o servicios en contravención a lo dispuesto por esta Ley, sus disposiciones reglamentarias, programas de desarrollo urbano y ordenamiento territorial o en la autorización respectiva, el Municipio ordenará la corrección de dichas obras, o bien, demolerlas total o parcialmente, sin ninguna obligación de pagar indemnización al fraccionador o promovente, quien deberá cubrir el costo de los trabajos efectuados, cuando éste no cumpla con el requerimiento de la Autoridad competente.
+Al fraccionador que haya ejecutado obras, construcciones, instalaciones o servicios en contravención a lo dispuesto por esta Ley, sus disposiciones reglamentarias, programas de desarrollo urbano y ordenamiento territorial o en la autorización respectiva, la Secretaría y/o el Municipio ordenará la corrección de dichas obras, o bien, demolerlas total o parcialmente, sin ninguna obligación de pagar indemnización al fraccionador o promovente, quien deberá cubrir el costo de los trabajos efectuados, cuando éste no cumpla con el requerimiento de la Autoridad competente.
 
-#### SECCION SEXTA. DE LAS LICENCIAS DE CONSTRUCCION
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
+ARTICULO 162 BIS.- La Autoridad podrá Revocar las licencias a los fraccionadores, por cualquiera de las siguientes circunstancias:
+
+I.- No cumplir con lo dispuesto en esta Ley, sus disposiciones reglamentarias y los programas que integran el Sistema;
+
+II.- No integrar todos y cada uno de los requisitos propios para el trámite solicitado, dentro del plazo fijado;
+
+III.- No dar cumplimiento a las obligaciones, restricciones y condicionantes establecidas en la autorización;
+
+IV.- No construir en tiempo y forma, las obras urbanización (sic) y el equipamiento urbano necesario señalado en la autorización;
+
+V.- No transmitir la propiedad de las superficies de terreno para vías públicas, áreas verdes y áreas de donación en los términos de la presente Ley y su Reglamento;
+
+VI.- El incumplimiento de las medidas de mitigación establecidas en el dictamen del estudio de impacto urbano y vial emitido por la autoridad;
+
+VII.- Realizar actos de dominio sin haber concluido las obras de urbanización;
+
+VIII.- No inscribir en el Registro Público de la Propiedad y del Comercio la autorización respectiva y sus planos correspondientes;
+
+IX.- No ejercer la autorización del fraccionamiento en el plazo establecido cuando se hayan modificado los programas que integran el Sistema y cambien las condiciones del uso de suelo; y
+
+X.- Las demás que establezca la reglamentación respectiva.
+
+#### SECCION QUINTA. DEL REGIMEN DE PROPIEDAD EN CONDOMINIO
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 163.
 
-El régimen de propiedad en condominio se sujetará a las normas básicas de los fraccionamientos, así como a la normatividad aplicable en la materia.
+El régimen de propiedad en condominio se sujetará a las constancias de viabilidad, al dictamen del estudio de impacto urbano y vial y a las normas básicas de los fraccionamientos, así como a la normatividad aplicable en la materia.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 164.
 
-Para la construcción de condominios se deberá obtener del Municipio correspondiente, además de lo que establezcan otras disposiciones en la materia, la autorización de la distribución de los predios en áreas privativas y comunes, la cual se insertará en la escritura pública de constitución del respectivo condominio.
-
-Las especificaciones de construcción se sujetarán a lo establecido en el Reglamento de esta Ley.
+Para la constitución del régimen de condominios, se deberá obtener de la Secretaría, además de lo que establezcan otras disposiciones en la materia, la autorización de la distribución de los predios en áreas privativas y comunes, la cual se insertará en la escritura pública de constitución del respectivo condominio.
 
 ###### ARTICULO 165.
 
@@ -1801,9 +2035,13 @@ I.- Transferidas al Municipio las áreas de donación;
 
 II.- Terminadas y recibidas las obras de urbanización exteriores del condominio;
 
-III.- Ejecutadas las instalaciones y construcciones de las áreas comunes, y en su caso, construido el equipamiento urbano respectivo; y
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
-IV.- Efectuados los pagos correspondientes al Municipio.
+III.- Ejecutadas las instalaciones y construcciones de las áreas privativas y comunes, y en su caso, construido el equipamiento urbano respectivo; y
+
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+IV.- La Secretaría otorgará la autorización cuando se cumplan dichos requisitos o se garantice la ejecución de las obras referidas en los términos que se establezcan en el Reglamento de la presente Ley.
 
 El Municipio otorgará la autorización cuando se cumplan dichos requisitos o se garantice la ejecución de las obras referidas en los términos que se establezcan en el Reglamento de la presente Ley.
 
@@ -1813,7 +2051,7 @@ En la promoción y publicidad de los condominios se señalarán los datos de la 
 
 Las disposiciones reglamentarias de construcción, operación y mantenimiento de condominios deberán sujetarse a lo establecido en la Ley de Régimen de Propiedad en Condominio vigente para el Estado de Hidalgo.
 
-#### SECCION SEPTIMA. DE LA SUSPENSION DE LICENCIAS
+#### SECCION SEXTA. DE LAS LICENCIAS DE CONSTRUCCION
 
 ###### ARTICULO 168.
 
@@ -1857,7 +2095,7 @@ Al término de las obras de construcción, sus propietarios deberán presentar a
 
 En las obras de construcción, instalación, ampliación, remodelación, demolición, anuncio, funcionamiento y demás que se lleven a cabo sin licencia o en contravención a lo dispuesto en los programas que contempla esta Ley, se aplicarán las sanciones correspondientes establecidas en esta Ley y las demás disposiciones aplicables.
 
-#### SECCION OCTAVA. DE LA REGULACION A LOS ESPECIALISTAS EN LA MATERIA
+#### SECCION SEPTIMA. DE LA SUSPENSION DE LICENCIAS
 
 ###### ARTICULO 176.
 
@@ -1875,6 +2113,8 @@ La suspensión de licencias deberá ser general para el área o zona de que se t
 
 Dicha suspensión se hará mediante Decreto que expida el Gobernador del Estado, el cual deberá Publicarse en el Periódico Oficial, así como en un periódico de mayor circulación en el Estado y se inscribirá en el Registro Público de la Propiedad y del Comercio.
 
+#### SECCION OCTAVA. DE LA REGULACION A LOS ESPECIALISTAS EN LA MATERIA
+
 ###### ARTICULO 179.
 
 Para tramitar y obtener las licencias, constancias y demás autorizaciones a que se refiere este ordenamiento, será necesario el aval de un especialista en la materia responsable de la acción urbana de que se trate y que cuente con el registro correspondiente.
@@ -1891,7 +2131,7 @@ Para obtener el registro señalado en el Artículo anterior, se deberán satisfa
 
 ### CAPITULO TERCERO. DE LA INSPECCION Y VIGILANCIA
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 181.
 
@@ -1935,33 +2175,59 @@ El Estado y los Municipios promoverán la creación y funcionamiento de observat
 
 Cuando se estén llevando a cabo construcciones, fraccionamientos, condominios, cambios de uso de suelo u otros aprovechamientos de inmuebles que contravengan esta Ley y demás disposiciones reglamentarias o los programas que contempla el Sistema, por particulares o la propia Autoridad, todas las personas tendrán derecho a interponer la denuncia correspondiente.
 
-Toda persona tiene el derecho de hacer del conocimiento de la Procuraduría Autoridad Municipal correspondiente o, en su caso, de la Secretaría de la Contraloría, cualquier acto u omisión que derive en incumplimiento a lo dispuesto en la presente Ley, sus disposiciones reglamentarias y demás disposiciones aplicables.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
-Para los efectos de la denuncia se deberá observar lo previsto en la Ley de Protección al Ambiente del Estado de Hidalgo.
+Toda persona tiene el derecho de hacer del conocimiento de la Secretaría, autoridad municipal correspondiente o, en su caso, de la Secretaría de Contraloría y Trasparencia Gubernamental, cualquier acto u omisión que derive en incumplimiento a lo dispuesto en la presente Ley, sus disposiciones reglamentarias y demás disposiciones aplicables.
+
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ### CAPITULO QUINTO. DE LOS MEDIOS DE DEFENSA DE LOS PARTICULARES
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
-###### ARTÍCULO 187.
+###### ARTICULO 187.
 
-La Procuraduría los Municipios, dentro de sus respectivas competencias, podrán practicar visitas de verificación para comprobar el cumplimiento, y congruencia de los programas que integran el Sistema y demás disposiciones vigentes en materia de asentamientos humanos, desarrollo urbano y ordenamiento territorial, y en su caso, aplicar las medidas de seguridad y sanciones que correspondan, conforme a lo dispuesto en esta Ley y Ley de Protección al Ambiente del Estado de Hidalgo.
+La Secretaría y los municipios podrán practicar visitas de verificación para comprobar el cumplimiento de las disposiciones vigentes en materia de asentamientos humanos, desarrollo urbano y ordenamiento territorial y en su caso, aplicar las medidas de seguridad y sanciones que correspondan, así como presentar las denuncias conforme a lo dispuesto en esta ley y en la Ley Estatal del Procedimiento Administrativo para el Estado de Hidalgo.
 
-Además, podrán emitir las recomendaciones que juzguen necesarias y presentarán las denuncias correspondientes en los términos de la presente Ley, su reglamento y demás ordenamientos aplicables.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 188.
 
-. Los inspectores tendrán la facultad de supervisar mediante inspección técnica la ejecución de las obras, para vigilar el debido cumplimiento de las normas de construcción y de las especificaciones del proyecto autorizado y elaborar el acta circunstanciada correspondiente.
+En términos del Artículo 8 fracción XXXII los inspectores tendrán la facultad de supervisar mediante vista de verificación en cumplimiento de las normas de construcción, las especificaciones del proyecto autorizado así como las relativas a las disposiciones vigentes en materia de desarrollo urbano, asentamientos humanos y ordenamiento territorial, para cuyos efectos deberá elaborar el acta circunstanciada correspondiente.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
-###### ARTÍCULO 189.
+###### ARTICULO 189.
 
-La Procuraduría o los ayuntamientos, en el ámbito de sus competencias, para dar trámite a las denuncias ciudadanas o a las iniciadas de oficio y para comprobar el cumplimiento de las disposiciones y condicionantes contenidas en la presente Ley, Reglamentos, Decretos, Acuerdos, licencias y autorizaciones, deberán seguir lo previsto respecto de los procedimientos de verificación o supervisión previstos en la Ley de Protección al Ambiente del Estado de Hidalgo.
+En las actas circunstanciadas se estará conforme a lo establecido en la Ley Estatal del Procedimiento Administrativo, y además se hará constar:
+
+I.- Nombre, denominación o razón social del visitado;
+
+II.- Hora, día, mes y año en que se inicie y concluya la diligencia;
+
+III.- Calle, número, población o colonia y código postal en que se encuentre ubicado el lugar en que se practique la visita;
+
+IV.- Número y fecha del oficio de comisión que la motivó;
+
+V.- Nombre y cargo de la persona con quien se entendió la diligencia;
+
+VI.- Nombre y domicilio de las personas que fungieron como testigos;
+
+VII.- Datos relativos a la actuación;
+
+VIII.- Declaración del visitado, si quisiera hacerla; y
+
+IX.- Nombre y firma de quienes intervinieron en la diligencia.
 
 ###### ARTÍCULO 190.
 
 (DEROGADO, P.O. 13 DE DICIEMBRE DE 2010)
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
+ARTICULO 190 BIS.- La Secretaría o los municipios, para dar trámite a las denuncias ciudadanas o a las iniciadas de oficio y para comprobar el cumplimiento de las disposiciones y condicionantes contenidas en la presente Ley, Reglamentos, Decretos, acuerdos, licencias y autorizaciones, deberán seguir lo previsto en referencia a la verificación o supervisión de conformidad a lo establecido en la Ley Estatal del Procedimiento Administrativo del estado de Hidalgo.
+
+Los visitados a quienes se haya practicado el acto de inspección, podrán formular observaciones a lo que su derecho convenga o reservarse el mismo en el apartado del acta circunstanciada o de verificación.
 
 ###### ARTICULO 191.
 
@@ -1979,7 +2245,9 @@ V.- El retiro de instalaciones; y
 
 VI.- La prohibición de actos de utilización.
 
-Las medidas de seguridad serán ordenadas por las Autoridades competentes, en caso de riesgo, serán de inmediata ejecución, tendrán carácter preventivo y se aplicarán sin perjuicio de las sanciones que en su caso correspondan, por las infracciones cometidas.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
+Las medidas de seguridad serán ordenadas por las Autoridades competentes sin que exista orden de prelación alguno, siendo potestativas para la autoridad su imposición y ejecución.
 
 ###### ARTICULO 192.
 
@@ -2029,9 +2297,9 @@ XVI.- Obstaculizar de hecho la realización del proceso urbano en cualquiera de 
 
 Son responsables los funcionarios, empleados y particulares por las infracciones a esta Ley, sus Reglamentos y demás Leyes o disposiciones sobre la materia, sin perjuicio de otras responsabilidades en que incurran.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
-La Procuraduría y las Autoridades Municipales competentes de acuerdo con esta Ley, su Reglamento u otras disposiciones aplicables, impondrán sanciones a las personas físicas y morales, funcionarios públicos, así como a los responsables solidarios que resulten infractores, independientemente de las responsabilidades civiles, penales o administrativas que resulten.
+La Secretaría y las autoridades municipales competentes de acuerdo con esta Ley, su Reglamento u otras disposiciones aplicables, impondrán sanciones a las personas físicas y morales, funcionarios públicos, así como a los responsables solidarios que resulten infractores, independientemente de las responsabilidades civiles, penales o administrativas que resulten.
 
 ###### ARTICULO 195.
 
@@ -2051,9 +2319,13 @@ II.- La suspensión, clausura temporal o definitiva, demolición o modificación
 
 III.- La revocación de las licencias, autorizaciones y permisos otorgados, cuando se incurra en el supuesto contemplado en la fracción VI, y en su caso, multa de 1000 a 2000 veces el salario mínimo vigente;
 
-IV.- Suspensión, clausura temporal o definitiva y multa de 250 a 2000 veces el salario mínimo vigente, en caso de incurrir en el supuesto que establecen las fracciones VII, VIII y IX;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
-V.- Suspensión, clausura temporal o definitiva, desocupación o desalojo de inmuebles, retiro de instalaciones, prohibición de actos de utilización o la realización de trabajos de emergencia para evitar daños, multa de 500 a 2000 veces el salario mínimo vigente alternativamente o todas a la vez, en caso de incurrir en los supuestos que establecen las fracciones X, XI, XII y XIII, las cuales podrán imponerse individual o conjuntamente;
+IV.- Suspensión, clausura temporal o definitiva, demolición o modificación de construcciones e instalaciones y multa de 250 a 2000 veces el salario mínimo vigente, en caso de incurrir en el supuesto que establecen las fracciones VII, VIII y IX;
+
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+V.- Suspensión, clausura temporal o definitiva, o demolición o modificación de construcciones e instalaciones, o desocupación o desalojo de inmuebles, retiro de instalaciones, prohibición de actos de utilización o la realización de trabajos de emergencia para evitar daños, multa de 500 a 2000 veces el salario mínimo vigente alternativamente o todas a la vez, en caso de incurrir en los supuestos que establecen las fracciones X, XI, XII y XII (sic), las cuales podrán imponerse individual o conjuntamente;
 
 VI.- Multa de 500 veces a 1000 veces de salario mínimo vigente, cuando se ejecuten obras o instalaciones sin licencia, permiso o autorización o con una licencia violatoria de los programas que forman parte del Sistema. En este caso se aplicará la sanción al promotor de la obra y al responsable de la acción urbana de que se trate;
 
@@ -2071,9 +2343,9 @@ IX.- A quien después de notificado por la Autoridad competente, persista en la 
 
 X.- Tratándose de infracciones cometidas por servidores públicos, suspensión de su cargo e inicio del procedimiento correspondiente, de conformidad con la Ley aplicable, sin perjuicio de la nulidad del acto correspondiente.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
-Corresponde a la Procuraduría o a las Autoridades Municipales, según sea el caso, decretar e imponer las sanciones previstas en este Artículo.
+Corresponde a la Secretaría o a las autoridades municipales, según sea el caso, decretar e imponer las sanciones previstas en este Artículo.
 
 Son sujetos responsables de la comisión de las infracciones y consecuentemente, sujetos a la aplicación de sanciones, los propietarios o poseedores del inmueble, los servidores públicos y el responsable de la acción urbana que se lleve a cabo en el mismo, contra quienes la Autoridad podrá emitir el mandamiento en forma conjunta o solidaria.
 
@@ -2143,9 +2415,11 @@ VII.- Cuando los propietarios o poseedores de inmuebles se rehúsen, incumplan o
 
 El costo de la ejecución forzosa se considerará crédito fiscal, en los términos de las disposiciones fiscales vigentes en el Estado.
 
-###### ARTÍCULO 206.
+###### ARTICULO 206.
 
-Contra las resoluciones dictadas en términos de esta ley, procede el recurso de revisión en términos de lo previsto en la Ley para la Protección al Ambiente del Estado de Hidalgo y de manera supletoria, lo dispuesto en la Ley Estatal del Procedimiento Administrativo. Es potestativo para el recurrente interponer el recurso a que hace referencia el presente Artículo.
+Contra las resoluciones de las autoridades administrativas, procede el recurso de reconsideración ante la autoridad responsable en los términos previstos en el Reglamento de esta Ley.
+
+Es potestativo para el recurrente interponer el recurso de reconsideración o los contenidos en la Ley del procedimiento administrativo para el estado de Hidalgo.
 
 T R A N S I T O R I O S
 
@@ -2210,3 +2484,17 @@ Artículo Quinto.- Los cambios de adscripción de personal, en ninguna forma afe
 Artículo Sexto.- Los asuntos en trámite que deban pasar de una dependencia u órgano de la Administración Pública del Estado, a otra, según lo que dispone esta ley, permanecerán en el Estado en que se encuentren hasta que la unidad que los venga desahogando se incorpore a su nueva adscripción, salvo que fueren de especial urgencia o de término improrrogable. En ambos casos se notificara a los Interesados el cambio de radicación.
 
 Artículo Séptimo.- Por lo que hace a las reformas a la Ley de Salud para el Estado de Hidalgo, el reglamento a que hace referencia, el último párrafo del Artículo Tercero, deberá publicarse noventa días naturales posteriores a la entrada en vigor del presente Decreto.
+
+P.O. 27 DE AGOSTO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes Reformas entraran en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Cuando las atribuciones que el presente Decreto confiere a las dependencias del Poder Ejecutivo del Estado, se encuentren señaladas en las demás leyes locales a otras dependencias y órganos con denominación diversa, se entenderá que corresponden a las dependencias que este ordenamiento prevé, en los términos dispuestos por el mismo.
