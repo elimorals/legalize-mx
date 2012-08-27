@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-responsabilidad-patrimonial-del-estado-de-74857"
 country: "mx"
 rank: "ley"
 publication_date: "2010-05-10"
-last_updated: "2010-05-10"
+last_updated: "2012-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74857&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 10 de mayo de 2010.
 
@@ -65,9 +65,11 @@ III. Entes públicos: salvo mención expresa en contrario, los poderes judicial,
 
 IV. Salario: Al salario mínimo general vigente en el Estado de Aguascalientes.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 3º.
 
-La interpretación de las disposiciones de este ordenamiento para efectos administrativos, corresponderá a cada entidad o dependencia y, para efectos jurisdiccionales, al Tribunal de lo Contencioso Administrativo del Estado.
+La interpretación de las disposiciones de este ordenamiento para efectos administrativos, corresponderá a cada entidad o dependencia y, para efectos jurisdiccionales, a la Sala Administrativa y Electoral del Poder Judicial del Estado de Aguascalientes.
 
 ###### Artículo 4º.
 
@@ -131,9 +133,11 @@ La cuantificación de la indemnización se calculará de acuerdo a la fecha en q
 
 Las indemnizaciones deberán cubrirse en su totalidad de conformidad con los términos y condiciones dispuestos por esta Ley y a las que ella remita. En los casos de haberse celebrado contrato de seguro contra la responsabilidad patrimonial, ante la eventual producción de daños y perjuicios que sean consecuencia de la actividad administrativa del Estado, la suma asegurada se destinará a cubrir el monto equivalente a la reparación integral o equitativa, según el caso. De ser ésta insuficiente, el Estado continuará obligado a resarcir la diferencia respectiva. El pago de cantidades líquidas por concepto de impuestos relativos al pago de las indemnizaciones preceptuadas en los seguros, corresponde a los entes y no podrá disminuirse de la indemnización.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 15.
 
-Las indemnizaciones fijadas por el Tribunal de lo Contencioso Administrativo que excedan del monto máximo presupuestado en un ejercicio fiscal determinado, serán cubiertas en el siguiente ejercicio fiscal, según el orden de registro a que se refiere el artículo 17 de la presente Ley, sin perjuicio del pago de intereses por demora que como compensación financiera se calculen en los términos de esta Ley, el Código Fiscal del Estado o, en su caso, el ordenamiento fiscal municipal que corresponda.
+Las indemnizaciones fijadas por la Sala Administrativa y Electoral que excedan del monto máximo presupuestado en un ejercicio fiscal determinado, serán cubiertas en el siguiente ejercicio fiscal, según el orden de registro a que se refiere el artículo 17 de la presente Ley, sin perjuicio del pago de intereses por demora que como compensación financiera se calculen en los términos de esta Ley, el Código Fiscal del Estado o, en su caso, el ordenamiento fiscal municipal que corresponda.
 
 ###### Artículo 16.
 
@@ -149,9 +153,11 @@ Las resoluciones o sentencias firmes dictadas en términos de la presente Ley, d
 
 Los procedimientos de responsabilidad patrimonial del Estado se iniciarán por reclamación de la parte interesada.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 19.
 
-La parte interesada deberá presentar indistintamente su reclamación ante el ente público estatal presuntamente responsable o bien ante el Tribunal de lo Contencioso Administrativo, conforme a la Ley del Procedimiento Contencioso Administrativo.
+La parte interesada deberá presentar indistintamente su reclamación ante el ente público estatal presuntamente responsable o bien ante la Sala Administrativa y Electoral, conforme a la Ley del Procedimiento Contencioso Administrativo.
 
 ###### Artículo 20.
 
@@ -185,9 +191,11 @@ Concluido el periodo probatorio, el titular estará obligado en un plazo que no 
 
 Las resoluciones administrativas que se dicten con motivo de los reclamos que prevé la presente Ley, deberán contener todos los elementos que se exigen en los procesos contencioso administrativos y los relativos a la existencia o no de la relación de causalidad entre el funcionamiento del servicio público o actividad administrativa y la lesión producida. Deberán contener también, en su caso, la valoración del daño causado así como el monto en dinero o en especie de la indemnización, explicando de manera detallada los criterios utilizados para la cuantificación.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 24.
 
-Las resoluciones de la autoridad administrativa que nieguen la indemnización o que no satisfagan al interesado, podrán impugnarse ante el Tribunal de lo Contencioso Administrativo conforme a las leyes de la materia.
+Las resoluciones de la autoridad administrativa que nieguen la indemnización o que no satisfagan al interesado, podrán impugnarse ante la Sala Administrativa y Electoral, conforme a las leyes de la materia.
 
 ### CAPÍTULO V. Del Procedimiento Contencioso Administrativo
 
@@ -199,9 +207,11 @@ El procedimiento de responsabilidad patrimonial del Estado por la vía contencio
 
 Los actos administrativos afectados de nulidad por sí mismos no presuponen indemnización.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 27.
 
-Las resoluciones dictadas por el Tribunal de lo Contencioso Administrativo no admiten recurso alguno y causarán estado y serán ejecutables siguiendo las reglas que se establecen en la Ley de lo Contencioso Administrativo vigente.
+Las resoluciones dictadas por la Sala Administrativa y Electoral no admiten recurso alguno y causarán estado y serán ejecutables siguiendo las reglas que se establecen en la Ley del Procedimiento Contencioso Administrativo vigente.
 
 ### CAPÍTULO VI. De la Concurrencia
 
@@ -237,9 +247,11 @@ En el supuesto de que las reclamaciones deriven de hechos o actos dañosos produ
 
 En caso contrario, cuando la lesión reclamada haya sido ocasionada por la actividad del concesionario y no se derive de una determinación impuesta por el concesionante, la reparación correrá a cargo del concesionario.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 32.
 
-En los casos de concurrencia de dos o más dependencias o entidades en la producción de las lesiones patrimoniales reclamadas o cuando se suponga concurrencia de agentes causantes de la lesión patrimonial y éstas no lleguen a un acuerdo o convenio, deberá de someterse el problema a la determinación del Tribunal de lo Contencioso Administrativo del Estado.
+En los casos de concurrencia de dos o más dependencias o entidades en la producción de las lesiones patrimoniales reclamadas o cuando se suponga concurrencia de agentes causantes de la lesión patrimonial y éstas no lleguen a un acuerdo o convenio, deberá de someterse el problema a la determinación de la Sala Administrativa y Electoral del Poder Judicial del Estado.
 
 ### CAPÍTULO VII. De la Prescripción
 
@@ -257,9 +269,11 @@ En el caso de que el particular hubiese obtenido la anulación de actos administ
 
 Los entes públicos podrán repetir de los servidores públicos el pago de la indemnización cubierta a los particulares en los términos de la presente Ley cuando, previa substanciación de los procedimientos de responsabilidad administrativa disciplinaria o resarcitoria, previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes. El monto que se le exija al servidor público por este concepto formará parte de la sanción económica que se le aplique.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 35.
 
-Los servidores públicos podrán impugnar las resoluciones administrativas por las cuales se les imponga la obligación de resarcir los daños y perjuicios que hayan pagado los entes públicos estatales con motivo de las reclamaciones de indemnización respectivas, por medio del recurso previsto en la Ley de Responsabilidades de los Servidores Públicos o ante el Tribunal de lo Contencioso Administrativo.
+Los servidores públicos podrán impugnar las resoluciones administrativas por las cuales se les imponga la obligación de resarcir los daños y perjuicios que hayan pagado los entes públicos estatales con motivo de las reclamaciones de indemnización respectivas, por medio del recurso previsto en la Ley de Responsabilidades de los Servidores Públicos o ante la Sala Administrativa y Electoral.
 
 ###### Artículo 36.
 
@@ -320,3 +334,19 @@ Luis Armando Reynoso Femat.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 Lic. Juan Ángel José Pérez Talamantes.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE AGOSTO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los sesenta días siguientes al inicio de sus funciones, la Sala Administrativa y Electoral deberá expedir el Reglamento que rija su actuación; debiendo quedar abrogado el Reglamento del Tribunal de lo Contencioso Administrativo del Estado de Aguascalientes y el Reglamento Interior del Tribunal Local Electoral.
+
+###### ARTÍCULO TERCERO.
+
+El proceso para la elección de dos Magistrados de la Sala Administrativa y Electoral, del Poder Judicial del Estado de Aguascalientes, que dio inicio con la Convocatoria emitida por el Consejo de la Judicatura Estatal, publicada en el Periódico Oficial del Estado el 23 de julio de 2012, se regirá hasta su conclusión por las normas vigentes hasta antes del presente Decreto.
