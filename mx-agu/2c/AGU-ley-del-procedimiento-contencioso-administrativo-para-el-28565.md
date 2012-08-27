@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-procedimiento-contencioso-administrativo-para-el-28565"
 country: "mx"
 rank: "ley"
 publication_date: "1999-09-19"
-last_updated: "2011-10-17"
+last_updated: "2012-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28565&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2012.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 19 de septiembre de 1999.
 
@@ -41,9 +41,11 @@ LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE AGUASCALIENTE
 
 ### CAPITULO I. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 1º.
 
-El conocimiento y resolución del procedimiento contencioso administrativo corresponderá al Tribunal de lo Contencioso Administrativo del Estado de Aguascalientes.
+El conocimiento y resolución del procedimiento contencioso administrativo corresponderá a la Sala Administrativa y Electoral del Poder Judicial del Estado de Aguascalientes.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -51,13 +53,19 @@ El conocimiento y resolución del procedimiento contencioso administrativo corre
 
 Para los efectos de esta Ley se entenderá por:
 
-I. Acuse de Recibo Electrónico: Constancia que acredita que un documento vía digital, fue recibido por el Tribunal y estará sujeto a la misma regulación aplicable al uso de una firma electrónica avanzada. En este caso, el acuse de recibo electrónico identificará al Tribunal que recibió el documento y se presumirá, salvo prueba en contrario, que el documento digital fue recibido en la fecha y hora que se consignen en dicha constancia. El Tribunal establecerá los medios para que las partes y los autorizados para recibir notificaciones puedan verificar la autenticidad de los acuses de recibo electrónico.
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+I. Acuse de Recibo Electrónico: Constancia que acredita que un documento vía digital, fue recibido por la Sala y estará sujeto a la misma regulación aplicable al uso de una firma electrónica avanzada. En este caso, el acuse de recibo electrónico identificará a la Sala que recibió el documento y se presumirá, salvo prueba en contrario, que el documento digital fue recibido en la fecha y hora que se consignen en dicha constancia. La Sala establecerá los medios para que las partes y los autorizados para recibir notificaciones puedan verificar la autenticidad de los acuses de recibo electrónico.
 
 II. Archivo Electrónico: Información contenida en texto, imagen, audio o video generada, enviada, recibida o archivada por medios electrónicos, ópticos o de cualquier otra tecnología que forma parte del Expediente Electrónico.
 
-III. Clave de acceso: Conjunto único de caracteres alfanuméricos asignados por el Sistema de Justicia en Línea del Tribunal a las partes, como medio de identificación de las personas facultadas en el juicio en que promuevan para utilizar dicho Sistema, y asignarles los privilegios de consulta del expediente respectivo o envío vía electrónica de promociones relativas a las actuaciones procesales con el uso de la Firma Electrónica Avanzada en un Procedimiento.
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
-IV. Contraseña: Conjunto único de caracteres alfanuméricos, asignados de manera confidencial por el Sistema de Justicia en Línea del Tribunal a los usuarios, la cual permite validar la identificación de la persona a la que se le asignó una Clave de Acceso.
+III. Clave de acceso: Conjunto único de caracteres alfanuméricos asignados por el Sistema de Justicia en Línea de la Sala a las partes, como medio de identificación de las personas facultadas en el juicio en que promuevan para utilizar dicho Sistema, y asignarles los privilegios de consulta del expediente respectivo o envío vía electrónica de promociones relativas a las actuaciones procesales con el uso de la Firma Electrónica Avanzada en un Procedimiento.
+
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+IV. Contraseña: Conjunto único de caracteres alfanuméricos, asignados de manera confidencial por el Sistema de Justicia en Línea de la Sala a los usuarios, la cual permite validar la identificación de la persona a la que se le asignó una Clave de Acceso.
 
 V. Dirección de Correo Electrónico: Sistema de comunicación a través de redes informáticas, señalado por las partes en el Procedimiento.
 
@@ -75,13 +83,19 @@ XI. Juicio en Línea: Forma opcional de substanciación y resolución del Proced
 
 XII. Procedimiento: Procedimiento Contencioso Administrativo.
 
-XIII. Sistema de Justicia en Línea: Sistema informático establecido por el Tribunal a efecto de registrar, controlar, procesar, almacenar, difundir, transmitir, gestionar, administrar y notificar el Procedimiento que se sustancie ante el Tribunal, con la finalidad de resolver controversias que se susciten.
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
-XIV. Tribunal: Tribunal de lo Contencioso Administrativo.
+XIII. Sistema de Justicia en Línea: Sistema informático establecido por la Sala a efecto de registrar, controlar, procesar, almacenar, difundir, transmitir, gestionar, administrar y notificar el Procedimiento que se sustancie ante la Sala, con la finalidad de resolver controversias que se susciten.
+
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+XIV. Sala: Sala Administrativa y Electoral del Poder Judicial del Estado de Aguascalientes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 2º.
 
-El Tribunal conocerá de los siguientes asuntos:
+La Sala conocerá de los siguientes asuntos:
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE EL TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -111,7 +125,9 @@ V.- De los juicios en los que se impugne la negativa de una autoridad para orden
 
 VI.- De los juicios en contra de las resoluciones definitivas por responsabilidades de los servidores públicos del Estado, de los Ayuntamientos y sus Organismos Descentralizados;
 
-VII.- De los juicios en contra de las resoluciones dictadas conforme a una ley especial, que le otorgue competencia al Tribunal de lo Contencioso Administrativo del Estado;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+VII.- De los juicios en contra de las resoluciones dictadas conforme a una ley especial, que le otorgue competencia a la Sala;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -131,17 +147,17 @@ IX.- De los recursos que concedan las leyes en contra de los acuerdos que se dic
 
 X.- De los procedimientos de responsabilidad patrimonial del Estado en términos de la ley respectiva.
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
-Para los efectos de las dos primeras Fracciones de este Artículo, las resoluciones se considerarán definitivas cuando no admitan recurso administrativo o cuando, previéndolo, el afectado opte por no agotarlo y acuda directamente al Tribunal.
+Para los efectos de las dos primeras Fracciones de este Artículo, las resoluciones se considerarán definitivas cuando no admitan recurso administrativo o cuando, previéndolo, el afectado opte por no agotarlo y acuda directamente a la Sala.
 
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
 
 El Procedimiento Contencioso Administrativo, no procederá en el caso de controversias que se susciten en materia electoral y laboral, así como las derivadas de universidades o instituciones educativas constituidas como organismos descentralizados, que gocen de personalidad jurídica y patrimonio propios y que no hubieren actuado como autoridades.
 
-> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
-En materia expropiatoria el Tribunal Contencioso Administrativo, solo podrá conocer del procedimiento establecido en la Ley de Expropiación para el Estado de Aguascalientes.
+En materia expropiatoria la Sala, solo podrá conocer del procedimiento establecido en la Ley de Expropiación para el Estado de Aguascalientes.
 
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
 
@@ -171,19 +187,19 @@ III.- El tercero quien, dentro del procedimiento administrativo, aparezca como t
 
 Sólo podrán intervenir en el juicio, las personas que tengan un interés directo y legítimo que funde su pretensión.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 6º.
 
-Toda promoción deberá contener firma autógrafa o firma electrónica avanzada de quien la formule y sin este requisito se tendrá por no presentada. Si el promotor en un Juicio en la vía tradicional no sabe o no puede firmar, imprimirá sus huellas digitales y firmará otra persona a su ruego ante dos testigos o ante el Secretario General de Acuerdos del Tribunal.
+Toda promoción deberá contener firma autógrafa o firma electrónica avanzada de quien la formule y sin este requisito se tendrá por no presentada. Si el promotor en un Juicio en la vía tradicional no sabe o no puede firmar, imprimirá sus huellas digitales y firmará otra persona a su ruego ante dos testigos o ante el Secretario General de Acuerdos de la Sala.
 
 ###### ARTICULO 7º.
 
 La gestión de negocios no procederá en el Procedimiento de lo Contencioso Administrativo.
 
-La representación legal de los particulares se otorgará en escritura pública o carta poder, firmada ante dos testigos y ratificada la firma del otorgante ante notario público, o ante el Secretario General de Acuerdos del Tribunal.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
+La representación legal de los particulares se otorgará en escritura pública o carta poder, firmada ante dos testigos y ratificada la firma del otorgante ante notario público, o ante el Secretario General de Acuerdos de la Sala.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
 
@@ -193,19 +209,19 @@ Los particulares o sus representantes, podrán autorizar por escrito a un licenc
 
 La persona así autorizada podrá ser promociones de trámite, rendir pruebas, alegar en las audiencias e interponer recursos. Las autoridades podrán nombrar delegados para los mismos fines.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 9º.
 
-Para las diligencias que deben practicarse fuera del local del Tribunal, podrá comisionarse a los Secretarios o Actuarios del Tribunal.
+Para las diligencias que deben practicarse fuera del local de la Sala, podrá comisionarse a los Secretarios o Actuarios de la Sala.
 
-Las que deben desahogarse fuera de la residencia del Tribunal, deberán encomendarse, mediante la requisitoria respectiva, a la autoridad judicial correspondiente.
+Las que deben desahogarse fuera de la residencia de la Sala, deberán encomendarse, mediante la requisitoria respectiva, a la autoridad judicial correspondiente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 10.
 
-Cuando las leyes o reglamentos de las distintas dependencias administrativas estatales, municipales, de sus órganos descentralizados o de otras personas, establezcan algún recurso o medio de defensa, será optativo para el particular agotarlo, o bien, intentar desde luego el juicio ante el Tribunal.
+Cuando las leyes o reglamentos de las distintas dependencias administrativas estatales, municipales, de sus órganos descentralizados o de otras personas, establezcan algún recurso o medio de defensa, será optativo para el particular agotarlo, o bien, intentar desde luego el juicio ante la Sala.
 
 > <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
 
@@ -215,25 +231,37 @@ Cuando la resolución recaída a un recurso administrativo, no satisfaga el inte
 
 Asimismo, cuando la resolución a un recurso administrativo declare por no interpuesto o lo deseche por improcedente, siempre que el Tribunal competente determine la procedencia del mismo, el juicio contencioso administrativo procederá en contra de la resolución objeto del recurso, pudiendo en todo caso hacer valer conceptos de nulidad no planteados en el recurso.
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 11.
 
-El Tribunal para hacer cumplir sus determinaciones, con independencia de las previstas para el cumplimiento de las sentencias y de la suspensión del acto impugnado, podrá hacer uso de los siguientes medios de apremio y medidas disciplinarias:
+La Sala para hacer cumplir sus determinaciones, con independencia de las previstas para el cumplimiento de las sentencias y de la suspensión del acto impugnado, podrá hacer uso de los siguientes medios de apremio y medidas disciplinarias:
+
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
 
 I. Amonestación;
 
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
+
 II. Multa que podrá ser de uno hasta treinta días de salario mínimo general vigente en el Estado de Aguascalientes;
+
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
 
 III. Arresto hasta por treinta y seis horas; o
 
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
+
 IV. El auxilio de la fuerza pública.
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
 
 Para la imposición de los medios de apremio y medidas disciplinarias anteriores no será necesario sujetarse al orden antes establecido.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 12.
 
-En los juicios que se tramiten ante el Tribunal, no habrá lugar a condenación en costas, cada parte será responsable de sus propios gastos y de los que originen las diligencias que promueva.
+En los juicios que se tramiten ante la Sala, no habrá lugar a condenación en costas, cada parte será responsable de sus propios gastos y de los que originen las diligencias que promueva.
 
 ### CAPITULO II. De las Notificaciones y de los Términos
 
@@ -265,7 +293,9 @@ Las notificaciones surtirán sus efectos:
 
 I.- Desde el mismo día en que se hayan practicado, tratándose de las que deben hacerse personalmente; y
 
-II.- Las demás, desde el día siguiente al de la fijación de la lista en el Tribunal.
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+II.- Las demás, desde el día siguiente al de la fijación de la lista en la Sala.
 
 ###### ARTICULO 18.
 
@@ -277,9 +307,9 @@ El cómputo de los plazos se sujetará a las reglas siguientes:
 
 I.- Comenzarán a correr, a partir del día siguiente a aquél en que surta efectos la notificación;
 
-> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
-II.- Si están fijados en días, se computarán sólo los hábiles, entendiéndose por estos aquellos en que se encuentren abiertas al público las oficinas del Tribunal;
+II.- Si están fijados en días, se computarán sólo los hábiles, entendiéndose por estos aquellos en que se encuentren abiertas al público las oficinas de de (sic) la Sala;
 
 III.- Si están señalados en período, o tienen una fecha determinada para su extinción, se comprenderán los días inhábiles; no obstante, si el último día de plazo o la fecha determinada fuere inhábil, el término se prorrogará hasta el día siguiente hábil; y
 
@@ -291,39 +321,51 @@ IV.- Para fijar la duración de los términos, los meses se regularán por el n�
 
 ### CAPITULO III. De los Impedimentos, Excusas y Recusaciones
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 21.
 
-El Magistrado estará impedido para conocer en los siguientes casos:
+Los Magistrados estarán impedidos para conocer en los siguientes casos:
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2006)</small>
 
 I.- Si tienen parentesco por consanguinidad, afinidad o civil con alguna de las partes, en línea recta, sin limitación de grado; dentro del cuarto grado en la colateral, por consanguinidad, o del segundo en la colateral por afinidad; o de sus patronos o representantes;
 
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2006)</small>
+
 II.- Si tienen interés personal en el asunto que haya motivado el juicio;
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2006)</small>
 
 III.- Si han sido abogados o apoderados de alguna de las partes, en el mismo asunto;
 
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2006)</small>
+
 IV.- Si tienen amistad estrecha o enemistad manifiesta con alguna de las partes, sus abogados o representantes;
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2006)</small>
 
 V.- Si han emitido el acto impugnado o han intervenido, con cualquier carácter, en la fase oficiosa del procedimiento o en la ejecución; y
 
-VI.- Si son parte en un juicio similar, pendiente de resolución por el Tribunal.
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
+VI.- Si son parte en un juicio similar, pendiente de resolución por la Sala.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 22.
 
-El Magistrado tiene el deber de excusarse del conocimiento de los juicios en el que se presente alguno de los impedimentos señalados en el artículo anterior, y expresar de manera concreta en qué consiste el impedimento.
+Los Magistrados tienen el deber de excusarse del conocimiento de los juicios en el que se presente alguno de los impedimentos señalados en el artículo anterior, y expresar de manera concreta en qué consiste el impedimento.
 
-Cuando el Magistrado se excuse de algún asunto sin causa legitima, cualquiera de las partes podrá interponer el recurso de reclamación.
+Cuando un Magistrado se excuse de algún asunto sin causa legítima, cualquiera de las partes podrá interponer el recurso de reclamación.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 23.
 
-Las partes podrán recusar al Magistrado o a los Secretarios cuando estén en alguno de los casos de impedimento y podrán hacerlo hasta el momento de empezar la audiencia final.
+Las partes podrán recusar a los Magistrados o a los Secretarios cuando estén en alguno de los casos de impedimento y podrán hacerlo hasta el momento de empezar la audiencia final.
 
-El Magistrado resolverá de plano la procedencia de la recusación; en contra de esta resolución no procede recurso alguno.
+La Sala resolverá de plano la admisión de la recusación; en contra de esta resolución no procede recurso alguno.
 
 > <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
 
@@ -339,19 +381,29 @@ Si se declara improcedente o no probada la causa de recusación, se impondrá al
 
 ### CAPITULO IV. De la Improcedencia y de Sobreseimiento
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 26.
 
-Es improcedente el juicio ante el Tribunal, contra los actos:
+Es improcedente el juicio ante la Sala, contra los actos:
 
 I.- Que no afecten los intereses legítimos del demandante;
 
-II.- Cuya impugnación no corresponda conocer a dicho Tribunal;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
-III.- Que hayan sido materia de sentencia de fondo sentenciada por el Tribunal siempre que hubiera identidad de partes y se trate del mismo acto impugnado, aunque las violaciones alegadas sean diversas;
+II.- Cuya impugnación no corresponda conocer a dicha Sala;
 
-IV.- Respecto de los cuales hubiera consentimiento expreso o tácito, entendiéndose que hay consentimiento tácito, cuando no se promovió algún medio de defensa en los términos de las leyes respectivas, o juicio ante el Tribunal lo Contencioso Administrativo, en los plazos que señala esta ley,
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
-V.- Que sean materia de un recurso o juicio que se encuentre pendiente de resolución, ante autoridad administrativa estatal, municipal, sus organismos descentralizados, o ante el propio Tribunal.
+III.- Que hayan sido materia de sentencia de fondo emitida por la Sala siempre que hubiera identidad de partes y se trate del mismo acto impugnado, aunque las violaciones alegadas sean diversas;
+
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+IV.- Respecto de los cuales hubiera consentimiento expreso o tácito, entendiéndose que hay consentimiento tácito, cuando no se promovió algún medio de defensa en los términos de las leyes respectivas, o juicio ante la Sala, en los plazos que señala esta ley;
+
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+V.- Que sean materia de un recurso o juicio que se encuentre pendiente de resolución, ante autoridad administrativa estatal, municipal, sus organismos descentralizados, o ante la propia Sala.
 
 VI.- De cuyas constancias de autos apareciera, de manera clara, que no existe la resolución o el acto impugnado;
 
@@ -383,7 +435,9 @@ El sobreseimiento se podrá decretar en cualquiera de los casos antes señalados
 
 La demanda se podrá presentar:
 
-I. Directamente ante el Tribunal, caso en que se sustanciará Juicio en la vía tradicional;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+I. Directamente ante la Sala, caso en que se sustanciará Juicio en la vía tradicional;
 
 II. Por correo certificado, si el actor tiene su domicilio legal fuera de la ciudad de Aguascalientes, en cuyo caso se tendrá como fecha de recepción del escrito respectivo, la de su depósito en la oficina postal y se sustanciará Juicio en la vía tradicional; o
 
@@ -463,7 +517,9 @@ I.- Si el actor afirma conocer el acto administrativo, la impugnación contra la
 
 II.- Si el actor manifiesta que no conoce el acto administrativo, así lo expresará en la demanda, señalando la autoridad a quien atribuye el acto, la notificación de éste o su ejecución. En este caso al contestar la demanda la autoridad acompañará constancia del acto administrativo y de su notificación, mismos que el actor podrá combatir en ampliación de demanda dentro de los quince días siguientes a aquél en que los conozca; y
 
-III.- El Tribunal estudiará los conceptos de nulidad expresados contra la notificación, previamente al examen de la impugnación del acto administrativo.
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+III.- La Sala estudiará los conceptos de nulidad expresados contra la notificación, previamente al examen de la impugnación del acto administrativo.
 
 ###### ARTICULO 32.
 
@@ -517,9 +573,9 @@ En el caso de resolución negativa ficta, la autoridad expresará los hechos y e
 
 El demandado deberá adjuntar a su contestación:
 
-> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
-I.- Copias de la misma y de los documentos que acompañe, para cada una de las partes cuando éstos no excedan de 25 hojas. Su omisión dará lugar a que el Magistrado lo requiera para que los exhiba, dentro de un término de cinco días, apercibiéndolo de que se tendrá por no contestada la demanda, en caso de incumplimiento;
+I.- Copias de la misma y de los documentos que acompañe, para cada una de las partes cuando éstos no excedan de 25 hojas. Su omisión dará lugar a que la Sala lo requiera para que los exhiba, dentro de un término de cinco días, apercibiéndolo de que se tendrá por no contestada la demanda, en caso de incumplimiento;
 
 II.- El documento en que acredite su personalidad, cuando el demandado sea un particular y no gestione en nombre propio;
 
@@ -535,11 +591,11 @@ Dentro del término de tres días, se acordará sobre la contestación de la dem
 
 ### CAPITULO VII. De las Pruebas
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 40.
 
-En los juicios que se tramiten ante el Tribunal, serán admisibles toda clase de pruebas, excepto la confesional mediante absolución de posiciones y la petición de informes, salvo que los informes se limiten a hechos que consten en documentos que obren en poder de las autoridades, así como las que no tengan relación inmediata con los hechos controvertidos y las contrarias a la moral y al derecho.
+En los juicios que se tramiten ante la Sala, serán admisibles toda clase de pruebas, excepto la confesional mediante absolución de posiciones y la petición de informes, salvo que los informes se limiten a hechos que consten en documentos que obren en poder de las autoridades, así como las que no tengan relación inmediata con los hechos controvertidos y las contrarias a la moral y al derecho.
 
 Las pruebas supervenientes podrán presentarse, siempre que no se haya dictado sentencia.
 
@@ -553,23 +609,23 @@ En este caso, se ordenará dar vista a la contraparte, para que, en el plazo de 
 
 Podrá ordenarse de oficio, la práctica de cualquier diligencia que tenga relación con los puntos controvertidos o para acordar la exhibición de cualquier documento, notificando oportunamente a las partes, a fin de que puedan intervenir, si así conviene a sus intereses.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 42.
 
-Podrá convocarse a los peritos, para que comparezcan y respondan a las preguntas que el Magistrado y las partes les formulen, siempre que tengan relación directa con los puntos sobre los que verse el dictamen.
+Podrá convocarse a los peritos, para que comparezcan y respondan a las preguntas que la Sala y las partes les formulen, siempre que tengan relación directa con los puntos sobre los que verse el dictamen.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 43.
 
-Cuando los peritos de las partes no coincidan en los resultados y conclusiones en sus dictámenes, el Magistrado designará perito tercero, de entre los que estén registrados en la Secretaría General del Tribunal.
+Cuando los peritos de las partes no coincidan en los resultados y conclusiones en sus dictámenes, la Sala designará perito tercero, de entre los que estén registrados en la Secretaría General de Acuerdos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 44.
 
-El perito tercero en discordia designado por el Magistrado no será recusable, pero deberá excusarse, cuando se encuentre en alguno de los casos siguientes:
+El perito tercero en discordia designado por la Sala no será recusable, pero deberá excusarse, cuando se encuentre en alguno de los casos siguientes:
 
 I.- Consanguinidad, dentro del cuarto grado, con alguna de las partes o parentesco por afinidad;
 
@@ -583,27 +639,31 @@ III.- Ser acreedor, deudor, inquilino, arrendador, tener amistad estrecha o enem
 
 Los testigos serán citados a declarar sólo cuando la parte que ofrezca su testimonio manifieste, desde el momento de ofrecer la prueba, no poder por sí misma hacer que se presenten.
 
-En la audiencia en la que se habrá de desahogar la prueba testimonial, se levantará acta pormenorizada de las declaraciones de los testigos, sin que se pueda formular por las partes ninguna otra pregunta que no obre en los interrogatorios exhibidos. El Magistrado podrá formular preguntas a dichos testigos, no obstante que no se encuentren incluidas en los expresados interrogatorios.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
-Al Gobernador del Estado, Diputados, Magistrados, Jueces, Generales en servicio activo y Presidentes Municipales, se les pedirá su declaración por oficio y en esa forma la rendirán. En casos urgentes podrán declarar personalmente, para lo cual el Magistrado se trasladará al lugar en que se encuentren.
+En la audiencia en la que se habrá de desahogar la prueba testimonial, se levantará acta pormenorizada de las declaraciones de los testigos, sin que se pueda formular por las partes ninguna otra pregunta que no obre en los interrogatorios exhibidos. La Sala podrá formular preguntas a dichos testigos, no obstante que no se encuentren incluidas en los expresados interrogatorios.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
+Al Gobernador del Estado, Diputados, Magistrados, Jueces, Generales en servicio activo y Presidentes Municipales, se les pedirá su declaración por oficio y en esa forma la rendirán. En casos urgentes podrán declarar personalmente, para lo cual el personal de la Sala se trasladará al lugar en que se encuentren.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 46.
 
-A fin de que las partes puedan rendir sus pruebas, las autoridades tienen la obligación de expedir, con toda la oportunidad, las copias de los documentos que les soliciten; si dichas autoridades no cumplieran con esta obligación, la parte interesada solicitará al Magistrado que requiera a las mismas. Se aplazará la audiencia, por un término que exceda de diez días, pero si no obstante dicho requerimiento no se expidiere, se hará uso de los medios de apremio que establece esta ley. Si aún así no se cumpliere se pondrá en conocimiento del Ministerio Público.
+A fin de que las partes puedan rendir sus pruebas, las autoridades tienen la obligación de expedir, con toda la oportunidad, las copias de los documentos que les soliciten; si dichas autoridades no cumplieran con esta obligación, la parte interesada solicitará a la Sala que requiera a las mismas. Se aplazará la audiencia, por un término que exceda de diez días, pero si no obstante dicho requerimiento no se expidiere, se hará uso de los medios de apremio que establece esta ley. Si aún así no se cumpliere se pondrá en conocimiento del Ministerio Público.
 
-En los casos en que la autoridad requerida no sea pare, el Magistrado procederá en los mismos términos del párrafo anterior.
+En los casos en que la autoridad requerida no sea parte, la Sala procederá en los mismos términos del párrafo anterior.
 
-Al interesado que de manera maliciosa, o con el solo propósito de obtener la prórroga de la audiencia, ocurra quejándose de la falta de expedición de las copias de los documentos solicitados a que se refiere el primer párrafo de este artículo, o informe al Magistrado que se le ha negado la expedición, se le impondrá multa de hasta el equivalente de un mes de salario mínimo general vigente en el Estado de Aguascalientes.
+Al interesado que de manera maliciosa, o con el solo propósito de obtener la prórroga de la audiencia, ocurra quejándose de la falta de expedición de las copias de los documentos solicitados a que se refiere el primer párrafo de este artículo, o informe a la Sala que se le ha negado la expedición, se le impondrá multa de hasta el equivalente de un mes de salario mínimo general vigente en el Estado de Aguascalientes.
 
 ###### ARTICULO 47.
 
 La valoración de las pruebas se hará de acuerdo con las disposiciones relativas del Código de Procedimientos Civiles del Estado.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
-Cuando por el enlace de las pruebas rendidas y de las presunciones resultantes, el Magistrado adquiera convicción distinta acerca de los hechos materia del litigio, podrá valorar las pruebas sin sujetarse a lo dispuesto en el párrafo anterior, debiendo fundar razonadamente esta parte de su sentencia.
+Cuando por el enlace de las pruebas rendidas y de las presunciones resultantes, la Sala adquiera convicción distinta acerca de los hechos materia del litigio, podrá valorar las pruebas sin sujetarse a lo dispuesto en el párrafo anterior, debiendo fundar razonadamente esta parte de su sentencia.
 
 ### CAPITULO VIII. De los Incidentes
 
@@ -611,9 +671,17 @@ Cuando por el enlace de las pruebas rendidas y de las presunciones resultantes, 
 
 En el Procedimiento Contencioso Administrativo, sólo se tramitarán como de previo y especial pronunciamiento, los siguientes incidentes:
 
-I.- El de acumulación de autos; y
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
-II.- El de nulidad de notificaciones.
+I.- El de acumulación de autos;
+
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+II.- El de nulidad de notificaciones; y
+
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+III.- El de falta de personalidad.
 
 > <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
 
@@ -635,11 +703,9 @@ Las partes podrán hacer valer el incidente a que se refiere el Artículo anteri
 
 La acumulación se tramitará de oficio o a petición de parte y se sustanciará citando a las partes a una audiencia que se celebrará dentro de un plazo de cinco días, en la que se hará la relación de los autos, se presentarán alegatos y se emitirá la resolución que proceda.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE NOVIEMBRE DE 2010)</small>
-
-Para el caso en que proceda la acumulación y los juicios respectivos se estén sustanciando por la vía tradicional y por Juicio en Línea, el Magistrado requerirá a las partes del Juicio en la vía tradicional para que en el plazo de tres días manifiesten si optan por sustanciar el juicio en línea, y en caso de que no lo acepten expresamente, los Procedimientos acumulados se tramitará en la vía tradicional.
+Para el caso en que proceda la acumulación y los juicios respectivos se estén sustanciando por la vía tradicional y por Juicio en Línea, la Sala requerirá a las partes del Juicio en la vía tradicional para que en el plazo de tres días manifiesten si optan por sustanciar el juicio en línea, y en caso de que no lo acepten expresamente, los procedimientos acumulados se tramitarán en la vía tradicional.
 
 > <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
 
@@ -653,9 +719,13 @@ Una vez decretada la acumulación, el juicio más reciente se acumulará al más
 
 Las notificaciones que no fueren hechas conforme a lo dispuesto en esta Ley o, en su caso, de acuerdo con las disposiciones supletorias, serán nulas. El perjudicado podrá pedir que se declare la nulidad, dentro de los tres días siguientes a aquel en que conoció el hecho, ofreciendo las pruebas pertinentes, en el mismo escrito en el que se promueva la nulidad.
 
-Si se admite el incidente, se dará vista a las demás partes, por el término de tres días, para que expongan lo que a su derecho convenga y ofrezcan pruebas; transcurrido dicho plazo, el Magistrado dictará la interlocutoria respectiva.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
-Si se declara la nulidad, el Magistrado ordenará reponer el procedimiento, desde la fecha de la notificación anulada.
+Si se admite el incidente, se dará vista a las demás partes, por el término de tres días, para que expongan lo que a su derecho convenga y ofrezcan pruebas; transcurrido dicho plazo, la Sala dictará la interlocutoria respectiva.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
+Si se declara la nulidad, la Sala ordenará reponer el procedimiento, desde la fecha de la notificación anulada.
 
 > <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
 
@@ -665,7 +735,9 @@ Cuando alguna de las pares sostenga la falsedad de un documento, incluidas las p
 
 Las pruebas se desahogarán en la misma audiencia del principal.
 
-El Magistrado resolverá sobre la autenticidad del documento en la sentencia definitiva, exclusivamente para efectos del juicio de que se trate.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
+La Sala resolverá sobre la autenticidad del documento en la sentencia definitiva, exclusivamente para efectos del juicio de que se trate.
 
 ### CAPITULO IX. De la Suspensión
 
@@ -673,9 +745,9 @@ El Magistrado resolverá sobre la autenticidad del documento en la sentencia def
 
 El actor podrá solicitar la suspensión de la resolución o del acto administrativo, que tendrá por efecto mantener las cosas en el estado en que se encuentren, en tanto se pronuncia sentencia. La podrá solicitar el actor en su demanda o en cualquier momento del juicio antes de la sentencia.
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
-Cuando la suspensión se pida en la demanda, si procede, deberá concederse por el Magistrado en el mismo auto en que la admita, haciéndolo saber de inmediato a la autoridad demandada para su cumplimiento sin demora, quien deberá informar dentro del término de 24 horas el cumplimiento dado a la suspensión.
+Cuando la suspensión se pida en la demanda, si procede, deberá concederse por la Sala en el mismo auto en que la admita, haciéndolo saber de inmediato a la autoridad demandada para su cumplimiento sin demora, quien deberá informar dentro del término de 24 horas el cumplimiento dado a la suspensión.
 
 > <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
 
@@ -725,7 +797,9 @@ III.- Se estudiarán, aún de oficio, los sobreseimientos que procedan, respecto
 
 IV.- En su caso, se desahogarán las pruebas que hayan sido ofrecidas, con relación a la validez o nulidad de la resolución o acto impugnado.
 
-El Magistrado en la audiencia podrá formular a las partes, a sus representantes, a los testigos y peritos, toda clase de preguntas respecto a las cuestiones debatidas;
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
+La Sala en la audiencia podrá formular a las partes, a sus representantes, a los testigos y peritos, toda clase de preguntas respecto a las cuestiones debatidas;
 
 V.- Se oirán los alegatos del actor, de la parte demandada, del tercero interesado y del coadyuvante, los que se pronunciarán en ese orden.
 
@@ -745,9 +819,11 @@ La sentencia deberá ser dictada dentro de los 10 días siguientes a aquel en qu
 
 Para dictar resolución en los casos de sobreseimiento previstos en el Artículo 26 de esta Ley, no será necesario que se celebre la audiencia en el juicio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 60.
 
-Las sentencias que dicte el Tribunal no necesitará formulismo alguno, pero deberán contener:
+Las sentencias que dicte la Sala no necesitarán formulismo alguno, pero deberán contener:
 
 I.- La fijación clara y precisa de los puntos controvertidos, así como el examen y valoración de las pruebas que se hayan rendido;
 
@@ -755,9 +831,9 @@ II.- Los fundamentos legales en que se apoyen para producir la resolución y la 
 
 III.- Los puntos resolutivos en que se expresen, con claridad, las resoluciones o actos administrativos cuya nulidad o validez se declare.
 
-> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
-Tratándose de las sentencias que resuelvan sobre la legalidad de la resolución dictada en un recurso administrativo, si se cuenta con elementos suficientes para ello, el Tribunal se pronunciará sobre la legalidad de la resolución recurrida, en la parte que no satisfizo el interés jurídico del demandante. No se podrán anular o modificar los actos de las autoridades administrativas no impugnados de manera expresa en la demanda.
+Tratándose de las sentencias que resuelvan sobre la legalidad de la resolución dictada en un recurso administrativo, si se cuenta con elementos suficientes para ello, la Sala se pronunciará sobre la legalidad de la resolución recurrida, en la parte que no satisfizo el interés jurídico del demandante. No se podrán anular o modificar los actos de las autoridades administrativas no impugnados de manera expresa en la demanda.
 
 ###### ARTICULO 61.
 
@@ -785,9 +861,13 @@ III.- Decretar la nulidad de la resolución o acto, para determinarlo efecto, de
 
 En el caso de ser fundada la demanda y que la sentencia declare la nulidad de la resolución o acto, las autoridades demandadas quedarán obligadas a otorgar o restituir al actor en el goce de los derechos que le hubieran sido desconocidos o afectados de manera indebida.
 
-El Tribunal no podrá variar ni modificar su sentencia después de notificada, sin perjuicio del recurso de aclaración de sentencia.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
-Las sentencias del Tribunal, no recurridas en tiempo y forma, tendrán fuerza de cosa juzgada.
+La Sala no podrá variar ni modificar su sentencia después de notificada, sin perjuicio del recurso de aclaración de sentencia.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
+Las sentencias de la Sala, no recurridas en tiempo y forma, tendrán fuerza de cosa juzgada.
 
 ### CAPITULO XII. Del Cumplimiento de las Sentencias
 
@@ -809,27 +889,29 @@ III. Cuando hayan sido consentidas expresamente por las partes que hubieren actu
 
 La declaración de que una sentencia ha causado ejecutoria se hará de oficio y no admite recurso alguno.
 
+REFORMADO, P.O. 27 DE AGOSTO DE 2012)
+
 ###### ARTICULO 66.
 
-Cuando haya causado ejecutoria una sentencia favorable al actor, el Tribunal la notificará a las autoridades y organismos demandados para su cumplimiento. En el mismo oficio en que se haga la notificación, se les prevendrá para que informen sobre el cumplimiento que se dé a la sentencia correspondiente, en el término de diez días prorrogables por una vez.
+Cuando haya causado ejecutoria una sentencia favorable al actor, la Sala la notificará a las autoridades y organismos demandados para su cumplimiento. En el mismo oficio en que se haga la notificación, se les prevendrá para que informen sobre el cumplimiento que se dé a la sentencia correspondiente, en el término de diez días prorrogables por una vez.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 67.
 
-El Tribunal se cerciorará si las autoridades u organismos correspondientes han cumplido con los términos de la sentencia y en el plazo señalado para ello, y de no ser así, de oficio o a petición de parte, los requerirá para que la cumplan, previniéndolas de que, en caso de desacato, se les impondrá una multa de hasta por el equivalente a doscientos cincuenta días de salario mínimo vigente en el Estado.
+La Sala se cerciorará si las autoridades u organismos correspondientes han cumplido con los términos de la sentencia y en el plazo señalado para ello, y de no ser así, de oficio o a petición de parte, los requerirá para que la cumplan, previniéndolas de que, en caso de desacato, se les impondrá una multa de hasta por el equivalente a doscientos cincuenta días de salario mínimo vigente en el Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 68.
 
-Cuando la autoridad demandada persista en su actitud, el Tribunal deberá solicitar del titular de la dependencia estatal, municipal u organismo a quien se encuentre subordinada, que conmine al servidor público responsable para que dé cumplimiento a la resolución del Tribunal, sin perjuicio de que se apliquen los medios de apremio por una vez más a la autoridad demandada y en su caso, al superior de ésta conforme a lo previsto en el numeral anterior.
+Cuando la autoridad demandada persista en su actitud, la Sala deberá solicitar del titular de la dependencia estatal, municipal u organismo a quien se encuentre subordinada, que conmine al servidor público responsable para que dé cumplimiento a la resolución de la Sala, sin perjuicio de que se apliquen los medios de apremio por una vez más a la autoridad demandada y en su caso, al superior de ésta conforme a lo previsto en el numeral anterior.
 
-Si no se da cumplimiento a la resolución, no obstante los requerimientos anteriores, el Tribunal podrá decretar la destitución del servidor público responsable, excepto que goce de fuero constitucional.
+Si no se da cumplimiento a la resolución, no obstante los requerimientos anteriores, la Sala podrá decretar la destitución del servidor público responsable, excepto que goce de fuero constitucional.
 
-Cuando la autoridad demandada goce de fuero constitucional, el Tribunal formulará la excitativa de declaración de procedencia, de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado, ante la Legislatura Local.
+Cuando la autoridad demandada goce de fuero constitucional, la Sala formulará la excitativa de declaración de procedencia, de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado, ante la Legislatura Local.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
-
-Si la ejecución consiste en la realización de un acto material, el Magistrado podrá realizarlo, en rebeldía de la demandada.
+Si la ejecución consiste en la realización de un acto material, la Sala podrá realizarlo, en rebeldía de la demandada.
 
 ###### ARTICULO 69.
 
@@ -843,15 +925,17 @@ Las sanciones mencionadas en este capítulo, también serán procedentes cuando 
 
 El recurso de aclaración de sentencia tendrá por objeto esclarecer algún concepto o suplir cualquier omisión que contenga la sentencia sobre puntos discutidos en el litigio.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
-Estas aclaraciones podrán hacerse de oficio, dentro del día hábil siguiente al de la publicación de la sentencia, o a instancia de parte, que deberá solicitarse al día siguiente al de la notificación. En este último caso, el Magistrado resolverá lo que estime procedente dentro de los cinco días siguientes al de la presentación del escrito en el que se solicite la aclaración.
+Estas aclaraciones podrán hacerse de oficio, dentro del día hábil siguiente al de la publicación de la sentencia, o a instancia de parte, que deberá solicitarse al día siguiente al de la notificación. En este último caso, la Sala resolverá lo que estime procedente dentro de los cinco días siguientes al de la presentación del escrito en el que se solicite la aclaración.
 
 #### SECCION SEGUNDA. De la Reclamación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 71.
 
-El recurso de reclamación procederá, en contra de las siguientes resoluciones dictadas por el Tribunal:
+El recurso de reclamación procederá, en contra de las siguientes resoluciones dictadas por la Sala:
 
 I.- Las que admitan o desechen la demanda, la contestación o las pruebas;
 
@@ -863,9 +947,9 @@ III.- Las que admitan o rechacen la intervención del coadyuvante o del tercero;
 
 IV.- Las que concedan o nieguen la suspensión solicitada;
 
-> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
-V.- La excusa del Magistrado para conocer de algún asunto, si se considera que no existe causa legal para ello; y
+V.- La excusa de un Magistrado para conocer de algún asunto, si se considera que no existe causa legal para ello; y
 
 VI.- Los acuerdos de mero trámite.
 
@@ -881,19 +965,19 @@ La reclamación se interpondrá dentro de los tres días siguientes a aquel en q
 
 #### SECCION TERCERA. De la Excitativa de Justicia
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 74.
 
-Las partes podrán formular excitativa de justicia ante el Consejo de la Judicatura Estatal, cuando el Magistrado no emita la resolución definitiva dentro del plazo señalado en esta Ley.
+Las partes podrán formular excitativa de justicia ante el Consejo de la Judicatura Estatal, cuando la Sala no emita la resolución definitiva dentro del plazo señalado en esta Ley.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 75.
 
-Recibida la excitativa de justicia, el Presidente del Consejo solicitará un informe al Magistrado que deberá rendirse en el plazo de 24 horas.
+Recibida la excitativa de justicia, el Presidente del Consejo solicitará un informe al Presidente de la Sala que deberá rendirse en el plazo de 24 horas.
 
-Si se encuentra fundada la excitativa, se otorgará un plazo de cinco días para que el Magistrado emita la resolución de que se trate.
+Si se encuentra fundada la excitativa, se otorgará un plazo de cinco días para que la Sala emita la resolución de que se trate.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -901,23 +985,19 @@ Si se encuentra fundada la excitativa, se otorgará un plazo de cinco días para
 
 ### CAPITULO XIV. Del Juicio en Línea
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 76.
 
-El Procedimiento se promoverá, sustanciará y resolverá en línea a través del Sistema de Justicia en Línea que deberá establecer y desarrollar el Tribunal en términos de lo dispuesto por el presente Capítulo y las demás disposiciones específicas que resulten aplicables de esta Ley.
+El Procedimiento se promoverá, sustanciará y resolverá en línea a través del Sistema de Justicia en Línea que deberá establecer y desarrollar la Sala en términos de lo dispuesto por el presente Capítulo y las demás disposiciones específicas que resulten aplicables de esta Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 77.
 
-Cuando el actor ejerza su derecho a presentar demanda a través del Sistema de Justicia en Línea, las autoridades demandadas deberán comparecer y tramitar el juicio en la misma vía a través de la dirección de correo que para tal fin se encuentre registrada en el Tribunal.
+Cuando el actor ejerza su derecho a presentar demanda a través del Sistema de Justicia en Línea, las autoridades demandadas deberán comparecer y tramitar el juicio en la misma vía a través de la dirección de correo que para tal fin se encuentre registrada en la Sala.
 
-Si el actor no señala expresamente su Dirección de Correo Electrónico, se tramitará el Juicio en la vía tradicional y el acuerdo correspondiente se notificará por Boletín Procesal del Tribunal.
+Si el actor no señala expresamente su Dirección de Correo Electrónico, se tramitará el Juicio en la vía tradicional y el acuerdo correspondiente se notificará por Boletín Procesal de la Sala.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -931,15 +1011,13 @@ A fin de emplazar al particular demandado, el Secretario de Acuerdos que corresp
 
 Si el particular rechaza tramitar el Juicio en línea éste se sujetará a la vía tradicional.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 79.
 
-En el Sistema de Justicia en Línea, se integrará el Expediente Electrónico, mismo que incluirá todas las promociones, pruebas, oficios, acuerdos, resoluciones interlocutorias o definitivas, así como otros anexos y demás actuaciones que deriven de la sustanciación del juicio en línea, garantizando su seguridad, inalterabilidad, autenticidad, y durabilidad, conforme a los lineamientos que expida el Tribunal.
+En el Sistema de Justicia en Línea, se integrará el Expediente Electrónico, mismo que incluirá todas las promociones, pruebas, oficios, acuerdos, resoluciones interlocutorias o definitivas, así como otros anexos y demás actuaciones que deriven de la sustanciación del juicio en línea, garantizando su seguridad, inalterabilidad, autenticidad, y durabilidad, conforme a los lineamientos que expida la Sala.
 
-En los Juicios en Línea, las pruebas que por su naturaleza sea necesario que el Tribunal reciba declaración directa de personas, se dejará constancia en cualquier clase de Archivo Electrónico para que se integre en el Expediente Electrónico. A elección del Tribunal, las declaraciones se desahogarán por videoconferencia o bajo las reglas aplicables a un Juicio en vía tradicional.
+En los Juicios en Línea, las pruebas que por su naturaleza sea necesario que la Sala reciba declaración directa de personas, se dejará constancia en cualquier clase de Archivo Electrónico para que se integre en el Expediente Electrónico. A elección de la Sala, las declaraciones se desahogarán por videoconferencia o bajo las reglas aplicables a un Juicio en vía tradicional.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -951,7 +1029,9 @@ La Firma Electrónica Avanzada, Clave de Acceso y Contraseña se proporcionarán
 
 El registro de la Firma Electrónica Avanzada, Clave de Acceso y Contraseña, implica el consentimiento expreso de que dicho Sistema registrará la fecha y hora en la que se abran los Archivos Electrónicos que contengan las constancias que integran el Expediente Electrónico, para los efectos legales establecidos en este ordenamiento.
 
-Para hacer uso del Sistema de Justicia en Línea deberán observarse los lineamientos que para tal efecto expida el Tribunal.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
+Para hacer uso del Sistema de Justicia en Línea deberán observarse los lineamientos que para tal efecto expida la Sala.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -985,13 +1065,11 @@ Los titulares de una Firma Electrónica Avanzada, Clave de Acceso y Contraseña 
 
 Una vez recibida por vía electrónica cualquier promoción de las partes, el Sistema de Justicia en Línea emitirá el Acuse de Recibo Electrónico correspondiente en el que se señalará fecha y hora en que se recibió.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 85.
 
-Cualquier actuación en el Juicio en Línea se efectuará a través del Sistema de Justicia en Línea en términos del presente Capítulo. Dichas actuaciones serán validadas con la Firma Electrónica Avanzada o Firma Digital del Magistrado y Secretarios de Acuerdos que den fe según corresponda.
+Cualquier actuación en el Juicio en Línea se efectuará a través del Sistema de Justicia en Línea en términos del presente Capítulo. Dichas actuaciones serán validadas con la Firma Electrónica Avanzada o Firma Digital de los Magistrados y Secretarios de Acuerdos que den fe según corresponda.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -1001,29 +1079,27 @@ Cualquier actuación en el Juicio en Línea se efectuará a través del Sistema 
 
 Los documentos que las partes ofrezcan como prueba, deberán exhibirlos de forma legible a través del Sistema de Justicia en Línea en Archivo Electrónico especificando si fue tomado de copia simple, certificada o del documento original, en este último caso, indicar si tiene o no firma autógrafa. Los particulares deberán hacer esta manifestación bajo protesta de decir verdad, de lo contrario se presumirá, en perjuicio del promotor, que el Archivo Electrónico corresponde a una copia simple.
 
-Las pruebas documentales que ofrezcan y exhiban las partes tendrán el mismo valor probatorio que su constancia física, siempre y cuando se observen las disposiciones de la presente Ley y de los acuerdos normativos que emita el Tribunal para asegurar la autenticidad de la información, así como de su transmisión, recepción, validación y notificación.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+Las pruebas documentales que ofrezcan y exhiban las partes tendrán el mismo valor probatorio que su constancia física, siempre y cuando se observen las disposiciones de la presente Ley y de los acuerdos normativos que emita la Sala para asegurar la autenticidad de la información, así como de su transmisión, recepción, validación y notificación.
 
-> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 87.
 
-Para el caso de pruebas diversas a las documentales, los instrumentos en los que se hagan constar se integrarán al Expediente Electrónico. Para tal efecto, el Secretario de Acuerdos a cuya mesa corresponda el asunto, deberá digitalizar la imagen de los originales físicos, procediendo a su cotejo y certificación, luego de lo cual podrá autorizarse su devolución, pero mientras esto no ocurra permanecerán bajo resguardo del Tribunal. Los originales físicos deberán entregarse al Tribunal la misma fecha en que se registre en el Sistema de Justicia en Línea la promoción por la que se ofrece la prueba registrándose su recepción en el Expediente Electrónico.
+Para el caso de pruebas diversas a las documentales, los instrumentos en los que se hagan constar se integrarán al Expediente Electrónico. Para tal efecto, el Secretario de Acuerdos a cuya mesa corresponda el asunto, deberá digitalizar la imagen de los originales físicos, procediendo a su cotejo y certificación, luego de lo cual podrá autorizarse su devolución, pero mientras esto no ocurra permanecerán bajo resguardo de la Sala. Los originales físicos deberán entregarse a la Sala la misma fecha en que se registre en el Sistema de Justicia en Línea la promoción por la que se ofrece la prueba registrándose su recepción en el Expediente Electrónico.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 88.
 
-En los Juicios en Línea sólo será necesario exhibir copias de traslado para terceros interesados las cuales deberán entregarse al Tribunal en la misma fecha en que se registre en el Sistema de Justicia en Línea la promoción correspondiente.
+En los Juicios en Línea sólo será necesario exhibir copias de traslado para terceros interesados las cuales deberán entregarse a la Sala en la misma fecha en que se registre en el Sistema de Justicia en Línea la promoción correspondiente.
 
 Al correr traslado al tercero interesado se le informará que puede manifestar su oposición a los mecanismos del Juicio en Línea.
 
-El Tribunal dispondrá lo conducente para que se digitalicen los documentos que los terceros interesados presenten a fin de que se agreguen al Expediente Electrónico.
+La Sala dispondrá lo conducente para que se digitalicen los documentos que los terceros interesados presenten a fin de que se agreguen al Expediente Electrónico.
 
-En el escrito a través del cual el tercero interesado se apersone tendrá que indicar si acepta los mecanismos del Juicio en Línea, en cuyo caso deberá señalar su Dirección de Correo Electrónico. Si manifiesta su oposición, se imprimirá y certificará el Expediente Electrónico para que lo pueda consultar en el local del Tribunal, debiéndosele recibir las promociones que presente como si se tratara de un juicio en vía tradicional, mismas que deberán digitalizarse para agregarse al Expediente Electrónico.
+En el escrito a través del cual el tercero interesado se apersone tendrá que indicar si acepta los mecanismos del Juicio en Línea, en cuyo caso deberá señalar su Dirección de Correo Electrónico. Si manifiesta su oposición, se imprimirá y certificará el Expediente Electrónico para que lo pueda consultar en el local de la Sala, debiéndosele recibir las promociones que presente como si se tratara de un juicio en vía tradicional, mismas que deberán digitalizarse para agregarse al Expediente Electrónico.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -1047,21 +1123,21 @@ VII. A los terceros interesados que se hayan opuesto a los mecanismos del Juicio
 
 En todo caso deberá asentarse razón en el Expediente Electrónico la realización de una notificación o del aviso dado en la Dirección de Correo Electrónico señalada por alguna de las partes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 90.
 
-Para los efectos del Juicio en Línea son hábiles las 24 horas de los días en que se encuentren abiertas al público las oficinas del Tribunal. Las promociones se considerarán, salvo prueba en contrario, presentadas el día y hora que conste en el Acuse de Recibo Electrónico que emita el Sistema de Justicia en Línea, en el lugar en donde el promotor tenga su domicilio. Tratándose de un día inhábil se tendrán por presentadas el día hábil siguiente.
+Para los efectos del Juicio en Línea son hábiles las 24 horas de los días en que se encuentren abiertas al público las oficinas de la Sala. Las promociones se considerarán, salvo prueba en contrario, presentadas el día y hora que conste en el Acuse de Recibo Electrónico que emita el Sistema de Justicia en Línea, en el lugar en donde el promotor tenga su domicilio. Tratándose de un día inhábil se tendrán por presentadas el día hábil siguiente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 91.
 
-Las autoridades cuyos actos sean susceptibles de impugnarse en términos de esta Ley, deberán registrar su Dirección de Correo Electrónico Institucional ante el Tribunal así como el domicilio oficial de las unidades administrativas a las que corresponda su representación en los juicios contencioso administrativos, para el efecto de emplazarlas electrónicamente en los juicios en los que tengan el carácter de autoridad demandada.
+Las autoridades cuyos actos sean susceptibles de impugnarse en términos de esta Ley, deberán registrar su Dirección de Correo Electrónico Institucional ante la Sala así como el domicilio oficial de las unidades administrativas a las que corresponda su representación en los juicios contencioso administrativos, para el efecto de emplazarlas electrónicamente en los juicios en los que tengan el carácter de autoridad demandada.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
 
 Mientras que las autoridades no verifiquen el registro referido en párrafo anterior, se les emplazará como si se tratara de un Juicio en la vía tradicional.
 
@@ -1073,29 +1149,37 @@ Mientras que las autoridades no verifiquen el registro referido en párrafo ante
 
 Para la presentación y curso que se dé a demandas de amparo contra las actuaciones y resoluciones derivadas del Juicio en Línea, no será aplicable lo dispuesto en el presente Capítulo.
 
-El Secretario de Acuerdos del Tribunal, deberá imprimir el archivo del Expediente Electrónico y certificar las constancias del juicio que deban ser remitidos a los Tribunales Federales.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
+El Secretario de Acuerdos de la Sala, deberá imprimir el archivo del Expediente Electrónico y certificar las constancias del juicio que deban ser remitidos a los Tribunales Federales.
 
 Sin perjuicio de lo anterior, en aquellos casos en que así lo soliciten los Tribunales Federales se podrá remitir la información a través de medios electrónicos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 93.
 
-En caso que el Tribunal advierta que alguna persona modificó, alteró, destruyó o provocó la pérdida de información contenida en el Sistema de Justicia en Línea, se tomarán las medidas de protección necesarias, para evitar dicha conducta hasta que concluya el juicio, el cual se continuará tramitando a través del Juicio en la vía tradicional. Si el responsable es usuario del Sistema, se cancelará su Firma Electrónica Avanzada, Clave y Contraseña para ingresar al Sistema de Justicia en Línea y no tendrá posibilidad de volver a promover Juicios en Línea.
+En caso que la Sala advierta que alguna persona modificó, alteró, destruyó o provocó la pérdida de información contenida en el Sistema de Justicia en Línea, se tomarán las medidas de protección necesarias, para evitar dicha conducta hasta que concluya el juicio, el cual se continuará tramitando a través del Juicio en la vía tradicional. Si el responsable es usuario del Sistema, se cancelará su Firma Electrónica Avanzada, Clave y Contraseña para ingresar al Sistema de Justicia en Línea y no tendrá posibilidad de volver a promover Juicios en Línea.
 
-Sin perjuicio de lo anterior, y de las responsabilidades penales respectivas, se impondrá al responsable una multa de trescientas a quinientas veces el salario mínimo general vigente en el Estado al momento de cometer la infracción.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
 
+Sin perjuicio de lo anterior, y de las responsabilidades penales respectivas, se impondrá al responsable una multa de trescientas a quinientas veces el salario mínimo general vigente en el Estado al momento de cometer la infracción.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 94.
 
-Cuando por caso fortuito, fuerza mayor o por fallas técnicas se interrumpa el funcionamiento del Sistema de Justicia en Línea, haciendo imposible el cumplimiento de los plazos establecidos en la ley, las partes deberán dar aviso al Tribunal en la misma promoción sujeta a término, quien pedirá un reporte al titular de la unidad administrativa del Tribunal responsable de la administración del Sistema sobre la existencia de la interrupción del servicio.
+Cuando por caso fortuito, fuerza mayor o por fallas técnicas se interrumpa el funcionamiento del Sistema de Justicia en Línea, haciendo imposible el cumplimiento de los plazos establecidos en la ley, las partes deberán dar aviso a la Sala en la misma promoción sujeta a término, quien pedirá un reporte al titular de la unidad responsable de la administración del Sistema sobre la existencia de la interrupción del servicio.
 
-El reporte que determine que existió interrupción en el Sistema deberá señalar la causa y el tiempo de dicha interrupción, indicando la fecha y hora de inicio y término de la misma. Los plazos se suspenderán únicamente el tiempo que dure la interrupción del Sistema. Para tal efecto, el Tribunal hará constar esta situación mediante acuerdo en el expediente electrónico y, considerando el tiempo de la interrupción, realizará el cómputo correspondiente para determinar si hubo o no incumplimiento de los plazos legales.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
+El reporte que determine que existió interrupción en el Sistema deberá señalar la causa y el tiempo de dicha interrupción, indicando la fecha y hora de inicio y término de la misma. Los plazos se suspenderán únicamente el tiempo que dure la interrupción del Sistema. Para tal efecto, la Sala hará constar esta situación mediante acuerdo en el expediente electrónico y, considerando el tiempo de la interrupción, realizará el cómputo correspondiente para determinar si hubo o no incumplimiento de los plazos legales.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
 
 No obstante lo anterior, las partes podrán presentar sus promociones como si se tratara de un Juicio en vía tradicional, mismas que se deberán digitalizar y agregarse al Expediente Electrónico.
 
@@ -1113,21 +1197,29 @@ En las notificaciones, el actuario deberá asentar razón del envío por correo 
 
 ### CAPITULO XV. Del Boletín Procesal
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 96.
 
-El Boletín Procesal o lista, es el medio de comunicación oficial, a través del cual el Tribunal da a conocer las actuaciones o resoluciones en los juicios contenciosos administrativos que se tramitan ante el mismo.
+El Boletín Procesal o lista, es el medio de comunicación oficial, a través del cual la Sala da a conocer las actuaciones o resoluciones en los juicios contenciosos administrativos que se tramitan ante el mismo.
 
-Es obligación del Tribunal, llevar actualizado el Boletín Procesal.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
+Es obligación de la Sala, llevar actualizado el Boletín Procesal.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
 
 El mismo se difundirá por medio de dos formas:
 
 I. Impreso que estará accesible para consulta; o
 
 II. Electrónico que estará al alcance en la página de Internet de Poder Judicial del Estado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
 
 El Boletín Procesal se sujetará a lo dispuesto por el Código de Procedimientos Civiles en relación a la publicación de listas de acuerdos.
 
@@ -1278,3 +1370,17 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones legales que se opongan a la presente reforma.
+
+P.O. 27 DE AGOSTO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los sesenta días siguientes al inicio de sus funciones, la Sala Administrativa y Electoral deberá expedir el Reglamento que rija su actuación; debiendo quedar abrogado el Reglamento del Tribunal de lo Contencioso Administrativo del Estado de Aguascalientes y el Reglamento Interior del Tribunal Local Electoral.
+
+###### ARTÍCULO TERCERO.
+
+El proceso para la elección de dos Magistrados de la Sala Administrativa y Electoral, del Poder Judicial del Estado de Aguascalientes, que dio inicio con la Convocatoria emitida por el Consejo de la Judicatura Estatal, publicada en el Periódico Oficial del Estado el 23 de julio de 2012, se regirá hasta su conclusión por las normas vigentes hasta antes del presente Decreto.
