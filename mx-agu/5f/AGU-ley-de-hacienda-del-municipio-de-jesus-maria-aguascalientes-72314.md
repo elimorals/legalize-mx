@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-jesus-maria-aguascalientes-723
 country: "mx"
 rank: "ley"
 publication_date: "2010-01-25"
-last_updated: "2010-08-23"
+last_updated: "2012-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "AGU"
 ---
 # LEY DE HACIENDA DEL MUNICIPIO DE JESUS MARIA, AGUASCALIENTES
 
-LEY DE HACIENDA DEL MUNICIPIO DE JESUS MARIA, AGUASCALIENTES
+LEY DE HACIENDA DEL MUNICIPIO DE JESÚS MARÍA, AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2012.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de enero de 2010.
 
@@ -655,7 +655,9 @@ El personal oficial que intervenga en las investigaciones, estudios técnicos, o
 
 #### SECCIÓN ÚNICA
 
-ARTÍCULO·47.- La obligación fiscal municipal nace cuando se realizan los supuestos jurídicos o de hecho previstos en las leyes Fiscales Municipales.
+###### ARTÍCULO 47.
+
+La obligación fiscal municipal nace cuando se realizan los supuestos jurídicos o de hecho previstos en las leyes Fiscales Municipales.
 
 ###### ARTÍCULO 48.
 
@@ -775,7 +777,9 @@ La (sic) plazo para que opere la prescripción inicia a partir de la fecha en qu
 
 Si la autoridad municipal determina el crédito o realiza el cobro, a pesar de haber operado la prescripción, sólo podrá interponerse el recurso establecido en esta Ley.
 
-ÁRTÍCULO 65.- La prescripción se interrumpe con cada gestión de cobro del Municipio notificada o hecha saber al deudor o por el reconocimiento de éste, expreso o tácito, respecto de la existencia de la obligación de que se trate. De los requisitos señalados en este Artículo deberá existir constancia por escrito.
+###### ARTÍCULO 65.
+
+La prescripción se interrumpe con cada gestión de cobro del Municipio notificada o hecha saber al deudor o por el reconocimiento de éste, expreso o tácito, respecto de la existencia de la obligación de que se trate. De los requisitos señalados en este Artículo deberá existir constancia por escrito.
 
 ###### ARTÍCULO 66.
 
@@ -1373,9 +1377,11 @@ En caso de conflicto, el remanente se depositará en institución de crédito au
 
 #### SECCIÓN QUINTA. Suspensión del Procedimiento Administrativo de Ejecución
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
 ###### ARTÍCULO 140.
 
-Se suspenderá el procedimiento administrativo de ejecución durante la tramitación de los recursos administrativos o del juicio ante el Tribunal de lo Contencioso Administrativo, cuando lo solicite el interesado y garantice el crédito fiscal municipal de que se trate y los posibles accesorios de los doce meses siguientes. Si al presentar el medio de defensa no se impugna la totalidad de los créditos que derivan del acto administrativo cuya ejecución fue suspendida, deberá pagarse la parte del crédito consentido con los recargos correspondientes.
+Se suspenderá el procedimiento administrativo de ejecución durante la tramitación de los recursos administrativos o del juicio ante la Sala Administrativa y Electoral del Poder Judicial del Estado, cuando lo solicite el interesado y garantice el crédito fiscal municipal de que se trate y los posibles accesorios de los doce meses siguientes. Si al presentar el medio de defensa no se impugna la totalidad de los créditos que derivan del acto administrativo cuya ejecución fue suspendida, deberá pagarse la parte del crédito consentido con los recargos correspondientes.
 
 ###### ARTÍCULO 141.
 
@@ -1959,7 +1965,7 @@ El Ayuntamiento deberá someter de igual forma a la aprobación anual del Congre
 
 La determinación del crédito fiscal individual de cada contribuyente, se calculará aplicando las siguientes fórmulas:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 CTS= Costo Total del Servicio
 
@@ -2347,10 +2353,24 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Juan Angel José Pérez Talamantes.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 23 DE AGOSTO DE 2010.
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE AGOSTO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los sesenta días siguientes al inicio de sus funciones, la Sala Administrativa y Electoral deberá expedir el Reglamento que rija su actuación; debiendo quedar abrogado el Reglamento del Tribunal de lo Contencioso Administrativo del Estado de Aguascalientes y el Reglamento Interior del Tribunal Local Electoral.
+
+###### ARTÍCULO TERCERO.
+
+El proceso para la elección de dos Magistrados de la Sala Administrativa y Electoral, del Poder Judicial del Estado de Aguascalientes, que dio inicio con la Convocatoria emitida por el Consejo de la Judicatura Estatal, publicada en el Periódico Oficial del Estado el 23 de julio de 2012, se regirá hasta su conclusión por las normas vigentes hasta antes del presente Decreto.
