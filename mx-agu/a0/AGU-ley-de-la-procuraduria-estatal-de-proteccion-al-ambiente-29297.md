@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-procuraduria-estatal-de-proteccion-al-ambiente-29297"
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-10"
-last_updated: "2011-03-22"
+last_updated: "2012-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29297&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # LEY DE LA PROCURADURIA ESTATAL DE PROTECCION AL AMBIENTE, DEL ESTADO DE AGUASCALIENTES
 
-LEY DE LA PROCURADURIA ESTATAL DE PROTECCION AL AMBIENTE
+LEY DE LA PROCURADURÍA ESTATAL DE PROTECCIÓN AL AMBIENTE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2012.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de marzo de 2003.
 
@@ -429,13 +429,17 @@ La autoridad o servidor público que haya aceptado la recomendación o sugerenci
 
 En contra de las resoluciones dictadas por la Procuraduría en la aplicación de la presente Ley, procede el recurso de revisión de conformidad con lo previsto en la Ley del Procedimiento Administrativo del Estado de Aguascalientes.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 36.
 
-Es optativo para el particular agotar el recurso de revisión o promover el juicio respectivo ante el Tribunal de lo Contencioso Administrativo, de conformidad con lo que establece la Ley del Procedimiento Contencioso Administrativo del Estado de Aguascalientes.
+Es optativo para el particular agotar el recurso de revisión o promover el juicio respectivo ante la Sala Administrativa y Electoral del Poder Judicial, de conformidad con lo que establece la Ley del Procedimiento Contencioso Administrativo del Estado de Aguascalientes.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 37.
 
-En contra de la resolución que resuelva el recurso de revisión interpuesto, procede el juicio ante el Tribunal de lo Contencioso Administrativo del Estado.
+En contra de la resolución que resuelva el recurso de revisión interpuesto, procede el juicio ante la Sala Administrativa y Electoral del Poder Judicial.
 
 ## TRANSITORIOS
 
@@ -495,7 +499,7 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 25 DE AGOSTO DE 2003.
 
@@ -526,3 +530,17 @@ P.O. 22 DE MARZO DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 27 DE AGOSTO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los sesenta días siguientes al inicio de sus funciones, la Sala Administrativa y Electoral deberá expedir el Reglamento que rija su actuación; debiendo quedar abrogado el Reglamento del Tribunal de lo Contencioso Administrativo del Estado de Aguascalientes y el Reglamento Interior del Tribunal Local Electoral.
+
+###### ARTÍCULO TERCERO.
+
+El proceso para la elección de dos Magistrados de la Sala Administrativa y Electoral, del Poder Judicial del Estado de Aguascalientes, que dio inicio con la Convocatoria emitida por el Consejo de la Judicatura Estatal, publicada en el Periódico Oficial del Estado el 23 de julio de 2012, se regirá hasta su conclusión por las normas vigentes hasta antes del presente Decreto.
