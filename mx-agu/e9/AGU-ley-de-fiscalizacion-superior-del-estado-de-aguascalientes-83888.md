@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-fiscalizacion-superior-del-estado-de-aguascalientes-8388
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-21"
-last_updated: "2012-01-02"
+last_updated: "2012-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83888&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE AGUASCALIENTES
 
-LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE AGUASCALlENTES
+LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2012.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de noviembre de 2011.
 
@@ -39,7 +39,7 @@ Decreto Número 126
 
 Se aprueba la Ley de Fiscalización Superior del Estado de Aguascalientes, quedando en los siguientes términos:
 
-LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE AGUASCALlENTES
+LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE AGUASCALIENTES
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -919,6 +919,8 @@ El registro al que se hace referencia en el párrafo anterior será actualizado 
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO. P.O. 27 DE AGOSTO DE 2012)</small>
+
 ###### ARTÍCULO 77.
 
 Las facultades del Órgano Superior de Fiscalización caducarán en un plazo de tres años contados a partir del día siguiente de aquel en que se hubiere incurrido en responsabilidad o del momento en que hubiere cesado, si fuere de carácter continuo.
@@ -941,7 +943,7 @@ Las facultades del Congreso del Estado para la revisión del Informe de Resultad
 
 ###### ARTÍCULO 80.
 
-Las sanciones y demás resoluciones definitivas que emita el Órgano Superior de Fiscalización conforme a esta Ley, podrán ser impugnadas por las Entidades Fiscalizadas y, en su caso, por el servidor público afectado adscrito a las mismas o por los particulares, personas físicas o morales, ante el propio Órgano Superior de Fiscalización, mediante el recurso de revocación o bien, mediante juicio de nulidad ante el Tribunal de lo Contencioso Administrativo del Estado de Aguascalientes. El recurso de revocación se interpondrá dentro de los quince días hábiles siguientes a la fecha en que surta efectos la notificación de la sanción o resolución recurrida o de ambos.
+Las sanciones y demás resoluciones definitivas que emita el Órgano Superior de Fiscalización conforme a esta Ley, podrán ser impugnadas por las Entidades Fiscalizadas y, en su caso, por el servidor público afectado adscrito a las mismas o por los particulares, personas físicas o morales, ante el propio Órgano Superior de Fiscalización, mediante el recurso de revocación o bien, mediante juicio de nulidad ante la Sala Administrativa y Electoral del Poder Judicial del Estado. El recurso de revocación se interpondrá dentro de los quince días hábiles siguientes a la fecha en que surta efectos la notificación de la sanción o resolución recurrida o de ambos.
 
 No procederá el recurso de revocación o el juicio de nulidad en contra de actos dictados dentro del procedimiento de fiscalización, en tanto no se dicte resolución definitiva.
 
@@ -1508,3 +1510,17 @@ P.O. 2 DE ENERO DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE AGOSTO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los sesenta días siguientes al inicio de sus funciones, la Sala Administrativa y Electoral deberá expedir el Reglamento que rija su actuación; debiendo quedar abrogado el Reglamento del Tribunal de lo Contencioso Administrativo del Estado de Aguascalientes y el Reglamento Interior del Tribunal Local Electoral.
+
+###### ARTÍCULO TERCERO.
+
+El proceso para la elección de dos Magistrados de la Sala Administrativa y Electoral, del Poder Judicial del Estado de Aguascalientes, que dio inicio con la Convocatoria emitida por el Consejo de la Judicatura Estatal, publicada en el Periódico Oficial del Estado el 23 de julio de 2012, se regirá hasta su conclusión por las normas vigentes hasta antes del presente Decreto.
