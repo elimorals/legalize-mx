@@ -4,7 +4,7 @@ identifier: "DUR-ley-electoral-para-el-estado-de-durango-64686"
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-16"
-last_updated: "2009-09-15"
+last_updated: "2012-08-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64686&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ELECTORAL PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 16 de noviembre de 2008.
 
@@ -579,6 +579,10 @@ ARTÍCULO 44
 
 1. La coalición se formará con dos o más partidos políticos y postulará sus propios candidatos en las elecciones del estado. En la elección de integrantes de los ayuntamientos, la coalición comprenderá las candidaturas a presidente y síndico, así como las regidurías de representación proporcional.
 
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
+2. Los partidos políticos de reciente registro o inscripción ante el Consejo Estatal, no podrán formar coalición para el primer proceso electoral en el que participen
+
 ARTÍCULO 45
 
 1. El convenio de coalición se registrará ante el Consejo Estatal con veintidós días de anticipación al día de la apertura del período de registro de candidatos.
@@ -919,11 +923,13 @@ ARTÍCULO 76
 
 ### CAPÍTULO II. DE LAS AGRUPACIONES POLÍTICAS ESTATALES
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
 ARTÍCULO 77
 
-1. Las agrupaciones políticas estatales son formas de asociación ciudadana que coadyuvan al desarrollo de la vida democrática y de la cultura política, así como a la creación de una opinión pública mejor Informada.
+1. Las Agrupaciones Políticas Estatales son formas de asociación ciudadana que coadyuvan al desarrollo de la vida democrática y al fortalecimiento de la cultura política, así como a la creación de una opinión pública mejor informada.
 
-2. Las agrupaciones políticas estatales no podrán utilizar bajo ninguna circunstancia las denominaciones de "partido" o "partido político".
+2. Las agrupaciones políticas estatales no podrán utilizar bajo ninguna circunstancia las denominaciones de "partido" o "partido político", so pena de cancelación del registro y sus prerrogativas.
 
 ARTÍCULO 78
 
@@ -1018,6 +1024,10 @@ III. Financiamiento de simpatizantes;
 IV. Auto financiamiento; y
 
 V. Financiamiento por rendimientos financieros, fondos y fideicomisos.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
+2. Serán principios fundamentales en materia de financiamiento público y privado a las campañas políticas el de igualdad de oportunidades, de transparencia, máxima publicidad y rendición de cuentas en la financiación de las precampañas y campañas electorales.
 
 ARTÍCULO 85
 
@@ -1315,9 +1325,13 @@ ARTÍCULO 104
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPÍTULO ÚNICO. ARTÍCULO 105
+### CAPÍTULO ÚNICO
 
-1. El Instituto es responsable del ejercicio de la función estatal de organizar las elecciones y los procesos de referéndum y plebiscito. Estos últimos se realizarán, en los términos de la ley de la materia.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
+ARTÍCULO 105
+
+1. El Instituto es responsable del ejercicio de la función estatal de organizar las elecciones y los procesos de referéndum, plebiscito y en su caso consulta popular. Estos últimos se realizarán, en los términos de la ley de la materia.
 
 ARTÍCULO 106
 
@@ -1337,7 +1351,9 @@ VI. Velar por la autenticidad y efectividad del sufragio;
 
 VII. Llevar a cabo la promoción del voto y coadyuvar a la difusión de la educación cívica y la cultura política; y
 
-VIII. Organizar y vigilar los procesos de referéndum y plebiscito.
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+VIII. Organizar y vigilar los procesos de referéndum, plebiscito y en su caso consulta popular.
 
 2. Todas las actividades del Instituto se regirán por los principios de certeza, legalidad, imparcialidad, objetividad, equidad e independencia.
 
@@ -1345,7 +1361,9 @@ VIII. Organizar y vigilar los procesos de referéndum y plebiscito.
 
 ARTÍCULO 107
 
-1. El Instituto es un organismo público, autónomo, de carácter permanente, profesional en su desempeño, independiente en sus decisiones y funcionamiento, dotado de personalidad jurídica y patrimonio propio, que tiene a su cargo la coordinación, preparación, desarrollo y vigilancia en toda la Entidad de los procesos electorales estatales, distritales y municipales ordinarios y extraordinarios, así como organizar y vigilar los procesos de referéndum y plebiscito.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
+1. El Instituto es un organismo público, autónomo, de carácter permanente, profesional en su desempeño, independiente en sus decisiones y funcionamiento, dotado de personalidad jurídica y patrimonio propio, que tiene a su cargo la coordinación, preparación, desarrollo y vigilancia en toda la Entidad de los procesos de referéndum, plebiscito y consulta popular en caso.
 
 2. El patrimonio del Instituto se integra con los bienes muebles e inmuebles que se destinen al cumplimiento de su objeto y las partidas que anualmente se le señalen en el presupuesto de egresos del Gobierno del Estado, así como con los ingresos que reciba por cualquier concepto, derivados de la aplicación de las disposiciones de esta ley.
 
@@ -1354,6 +1372,14 @@ ARTÍCULO 107
 4. El Instituto se regirá para su organización, funcionamiento y control, por las disposiciones constitucionales relativas y las de esta ley.
 
 5. Los ciudadanos y los partidos políticos son corresponsables de la función estatal electoral.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
+6. Los funcionarios del Instituto recibirán una remuneración adecuada por el desempeño de su función, empleo o comisión, que deberá ser proporcional a sus responsabilidades. Se considera remuneración toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
+7. La remuneración que perciban los consejeros electorales y demás funcionarios del Instituto se hará de conformidad con el presupuesto de egresos aprobado por el Congreso del Estado.
 
 ARTÍCULO 108
 
@@ -1369,9 +1395,17 @@ I. El Consejo Estatal;
 
 II. La Presidencia del Consejo Estatal;
 
-III. El Secretariado Técnico; y
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
-IV. La Secretaría Ejecutiva.
+III. El Secretariado Técnico;
+
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+IV. La Secretaría Ejecutiva; y
+
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+V. La Contraloría General.
 
 ### CAPÍTULO I. DEL CONSEJO ESTATAL Y DE SU PRESIDENCIA
 
@@ -1383,15 +1417,21 @@ ARTÍCULO 111
 
 1. El Consejo Estatal, residirá en la capital del Estado y se integrará de la siguiente forma:
 
-l. Siete Consejeros Electorales, de entre los cuales se elegirá al Consejero Presidente y siete suplentes respectivos, su designación será de forma escalonada;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+I. Cinco Consejeros Electorales, de entre los cuales se elegirá al Consejero Presidente y cinco suplentes respectivos, su designación será de forma escalonada.
 
 II. Un representante por cada uno de los grupos parlamentarios integrados en el Congreso;
 
 III. Un representante por cada uno de los partidos políticos; y
 
-IV. El Secretario Ejecutivo, quien será designado por el voto de las dos terceras partes de los Consejeros Electorales de la terna que proponga el Presidente del Consejo Estatal.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2012)</small>
 
-a). El Presidente del Consejo, será designado libremente por las dos terceras partes de los Consejeros Electorales que integran el Consejo Estatal, con una duración de tres años pudiendo ser reelecto;
+IV. El Secretario Ejecutivo, quien será designado por el voto de la mayoría de los Consejeros Electorales de la terna que proponga el Presidente del Consejo Estatal.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
+a). El Presidente del Consejo, será designado libremente por mayoría de los Consejeros Electorales que integran el Consejo Estatal, con una duración de tres años pudiendo ser reelecto;
 
 b). Los Consejeros del Poder Legislativo, serán designados por cada uno de los grupos parlamentarios representados en el Congreso. Los Consejeros del Poder Legislativo, concurrirán a las Sesiones del Consejo Estatal, con derecho a voz exclusivamente. Por cada Consejero propietario del Poder Legislativo, se designará al respectivo suplente;
 
@@ -1415,7 +1455,9 @@ IV. Si en una primera votación no se obtuviera esta mayoría calificada, se pro
 
 V. En caso de falta definitiva del Consejero propietario y su suplente, se designará un consejero propietario y su respectivo suplente, para concluir el periodo del faltante;
 
-VI. Los Consejeros Electorales propietarios y suplentes durarán en su cargo nueve años y no podrán ser reelectos;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+VI. Los Consejeros Electorales propietarios y suplentes durarán en su cargo seis años y no podrán ser reelectos;
 
 VII. Las reglas y procedimientos para verificar el cumplimiento de los requisitos, así como para la elección o, en su caso, insaculación de los Consejeros Electorales, serán las que disponga el Congreso;
 
@@ -1427,7 +1469,9 @@ IX. Los partidos políticos y, en su caso, las coaliciones, podrán en todo mome
 
 4. Por cada Consejero o representante propietario se designará un suplente.
 
-5. Procederá la remoción del cargo de Consejero Presidente del Consejo Estatal, para lo cual se requerirá el voto de las dos terceras partes del Consejo Estatal en los siguientes casos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2012)</small>
+
+5. Procederá la remoción del cargo de Consejero Presidente del Consejo Estatal, para lo cual se requerirá el voto de la mayoría del Consejo Estatal en los siguientes casos:
 
 l. Por causas graves a juicio del Consejo Estatal que atenten contra los principios rectores de la función electoral; y
 
@@ -1444,6 +1488,10 @@ II. Por dejar de cumplir con los requisitos para ser Consejero Electoral previst
 8. En caso de renuncia del Consejero Presidente, el Consejo Estatal procederá a elegir a un nuevo presidente, quien lo será hasta la conclusión del periodo para el que fue electo el substituido. Este nuevo titular de la presidencia, de ser el caso, podrá ser reelecto.
 
 9. Las ausencias del Consejero Presidente serán suplidas, si no exceden de un mes, por el Consejero Electoral de mayor antigüedad o, en su caso, de mayor edad. Si la ausencia excediere dicho plazo pero fuere menor a seis meses, se designará a un presidente interino, y si fuere mayor a ese término, se nombrará a un Presidente sustituto para que ocupe el cargo hasta el final del período.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
+10. El Presidente del Consejo convocará a sesiones cuando lo estime necesario o lo solicite la mayoría de los representantes de los partidos políticos. Las convocatorias se harán por escrito.
 
 ARTÍCULO 112
 
@@ -1469,7 +1517,9 @@ VIII. No ser Secretario, subsecretario o Director en la administración pública
 
 ARTÍCULO 113
 
-1. El Consejero Presidente y los Consejeros Electorales del Consejo Estatal y el Secretario Ejecutivo del Instituto, durante el periodo de su encargo, no podrán desempeñar ningún cargo o comisión en la administración pública, con excepción de los que desempeñe en docencia e investigación.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
+1. El Consejero Presidente y los Consejeros Electorales del Consejo Estatal y el Secretario Ejecutivo del Instituto, durante el periodo de su encargo, serán de tiempo completo y no podrán desempeñar ningún empleo, cargo o comisión en la administración pública y privada, con excepción de los que desempeñe en docencia e investigación.
 
 2. El Consejero Presidente, los Consejeros Electorales, el Secretario Ejecutivo y los demás servidores públicos del Instituto, desempeñarán su función con autonomía y probidad. No podrán utilizar la información reservada o confidencial de que dispongan en razón de su cargo, salvo para el estricto ejercicio de sus funciones, ni divulgarla por cualquier medio.
 
@@ -1553,7 +1603,9 @@ XXI. Recabar y distribuir las listas nominales de electores entre los Consejos M
 
 XXII. Efectuar el cómputo de la elección de Gobernador y entregar la constancia de mayoría respectiva;
 
-XXIII. Designar al Secretario Ejecutivo del Instituto con el voto de las dos terceras partes de los Consejeros Electorales;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+XXIII. Designar al Secretario Ejecutivo del Instituto con el voto de la mayoría de los Consejeros Electorales;
 
 XXIV. Investigar por los medios legales pertinentes, los hechos relacionados con el proceso electoral y los que denuncien los partidos y agrupaciones políticas por actos violatorios por parte de las autoridades o de otros partidos y agrupaciones políticas, en contra de su propaganda, candidatos o miembros;
 
@@ -1565,7 +1617,9 @@ XXVII. Realizar el cómputo estatal y la declaración de validez de la elección
 
 XXVIII. Registrar la plataforma electoral mínima que los candidatos de los partidos sostendrán en la campaña electoral;
 
-XXIX. Expedir su reglamento interior y el de los demás organismos electorales;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+XXIX. Expedir sus reglamentos internos y el de los demás organismos electorales;
 
 XXX. Dictar los acuerdos y autorizar los convenios destinados a hacer efectivas las disposiciones de la presente ley;
 
@@ -1587,15 +1641,29 @@ XXXIV. Aprobar en su caso la realización de los estudios o procedimientos perti
 
 XXXV. Organizar los debates que los partidos políticos por consenso general, acuerden y soliciten, en los términos propuestos por estos mismos, entre los candidatos a puestos de elección popular;
 
-XXXVI. Para los efectos de lo establecido en el artículo 41, base V, último párrafo, de la Constitución Política de los Estados Unidos Mexicanos, aprobar con la votación de las dos terceras partes del Consejo Estatal la celebración del convenio con el Consejo General del Instituto Federal Electoral para que éste asuma la organización de los procesos electorales de esta entidad, así como el convenio correspondiente. En caso de que no exista la debida aprobación de ambos actos, el Instituto Electoral deberá organizar los procesos electorales en la entidad;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+XXXVI. Para los efectos de lo establecido en el artículo 41, base V, último párrafo, de la Constitución Política de los Estados Unidos Mexicanos, aprobar con la votación de la mayoría del Consejo Estatal la celebración del convenio con el Consejo General del Instituto Federal Electoral para que éste asuma la organización de los procesos electorales de esta entidad, así como el convenio correspondiente. En caso de que no exista la debida aprobación de ambos actos, el Instituto Electoral deberá organizar los procesos electorales en la entidad.
 
 XXXVII. Coordinarse por conducto del Secretario Ejecutivo del Instituto Electoral con el Instituto Federal Electoral, en lo relativo al acceso a la radio y televisión de los partidos políticos y del instituto;
 
 XXXVIII. Aprobar el estatuto del servicio profesional de carrera electoral;
 
-XXXIX. Dictar los acuerdos necesarios para hacer efectivas las anteriores atribuciones; y
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
-XL. Las demás que le confieren esta ley y las otras disposiciones relativas.
+XXXIX. Dictar los acuerdos necesarios para hacer efectivas las anteriores atribuciones;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 27 DE AGOSTO DE 2012)</small>
+
+XL. Aprobar la estructura de las direcciones y demás órganos del Instituto conforme a las necesidades del servicio y los recursos presupuestales autorizados nombrando y removiendo a sus titulares por mayoría de votos;
+
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+XLI. Elaborar sus programas anuales de trabajo; y
+
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+XLII. Las demás que le confieren esta ley y las otras disposiciones relativas.
 
 2. El Consejo Estatal, en ocasión de la celebración de los procesos electorales, podrá invitar y acordar las bases y criterios en que habrá de atenderse e informar a los visitantes que acudan a conocer las modalidades de su desarrollo en cualesquiera de sus etapas.
 
@@ -1737,7 +1805,9 @@ VII. Proveer lo necesario para que se publiquen los acuerdos y resoluciones que 
 
 VIII. Integrar los expedientes con las actas del cómputo municipal o distrital y presentarlos oportunamente al Consejo Estatal;
 
-IX. Aprobar la estructura de las direcciones y demás órganos del Instituto conforme a las necesidades del servicio y los recursos presupuestales autorizados, nombrando y removiendo a sus titulares y demás personal del Instituto Electoral;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+IX. Realizar las contrataciones de personal de acuerdo a la estructura aprobada por el Consejo Estatal;
 
 X. Proponer al Consejo Estatal a los Presidentes y Secretarios de los Consejos Municipales, de conformidad con las disposiciones aplicables;
 
@@ -1785,7 +1855,9 @@ II. Poseer el día de la designación, título profesional de licenciado en dere
 
 3. En caso de ausencia definitiva se nombrará un secretario que concluirá el periodo del faltante, pudiendo ser designado nuevamente.
 
-4. Procederá la remoción del cargo de Secretario Ejecutivo, para lo cual se requerirá el voto de las dos terceras partes del Consejo Estatal en los siguientes casos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2012)</small>
+
+4. Procederá la remoción del cargo de Secretario Ejecutivo, para lo cual se requerirá el voto de la mayoría del Consejo Estatal en los siguientes casos:
 
 I. Por causas graves a juicio del Consejo Estatal que atenten contra los principios rectores de la función electoral; y
 
@@ -1795,9 +1867,13 @@ II Por dejar de cumplir con los requisitos para ser Secretario Ejecutivo previst
 
 ARTÍCULO 125
 
-1. En cada una de las Direcciones del Instituto, habrá un Director designado por el Secretario Ejecutivo del Instituto Electoral.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
-2. Los Directores deberán satisfacer los siguientes requisitos:
+1. Al frente de cada una de las Direcciones del Instituto, habrá un Director nombrado por el Consejo Estatal, de las ternas que presente el Consejero Presidente para cada una de ellas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2012)</small>
+
+2. Los Directores y el Contralor General deberán satisfacer los siguientes requisitos:
 
 I. Ser mexicanos por nacimiento;
 
@@ -1805,7 +1881,9 @@ II. Estar en pleno ejercicio de sus derechos políticos;
 
 III. Tener como mínimo veintiocho años de edad;
 
-IV. Poseer el día de la designación, con antigüedad mínima de cinco años, título profesional de nivel licenciatura, en áreas o disciplinas vinculadas a la función que habrá de desempeñar;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+IV. Tener título profesional en áreas o disciplinas vinculadas a la función que habrá de desempeñar, con una antigüedad mínima de cinco años anteriores a su designación;
 
 V Contar con experiencia en el área correspondiente;
 
@@ -1997,6 +2075,60 @@ XIII. Asistir a las sesiones del Consejo Estatal; y
 
 XIV. Las demás que le confiera esta ley y el Secretario Ejecutivo del Instituto.
 
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
+ARTÍCULO 131 BIS
+
+1. El Instituto contará con una Contraloría General, la cual es el órgano de control interno del mismo, que tendrá a su cargo la fiscalización de los ingresos y egresos del Instituto; cuyo titular será designado por el Congreso del Estado, el cual durará en su encargo seis años, sin que pueda ser ratificado. La Contraloría General basara su actuación bajo los principios de imparcialidad, legalidad, objetividad, certeza, honestidad, exhaustividad y transparencia, tendrá autonomía técnica y de gestión para decidir su funcionamiento y funciones.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
+ARTÍCULO 131 BIS 1
+
+1. La Contraloría General del Instituto tendrá las facultades y obligaciones siguientes:
+
+I. Fijar los criterios para la realización de las auditorías, procedimientos, métodos y sistemas necesarios para la revisión y fiscalización de los recursos a cargo de las áreas y órganos del Instituto;
+
+II. Establecer las normas, procedimientos, métodos y sistemas de contabilidad y de archivo, de los libros y documentos justificativos y comprobatorios del ingreso y del gasto, así como aquellos elementos que permitan la práctica idónea de las auditorías y revisiones, que realice en el cumplimiento de sus funciones;
+
+III. Evaluar los informes de avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos;
+
+IV. Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el presupuesto de egresos del Instituto;
+
+V. Verificar que las diversas áreas administrativas del Instituto que hubieren recibido, manejado, administrado o ejercido recursos, lo hagan conforme a la normatividad aplicable, los programas aprobados y montos autorizados, así como, en el caso de los egresos, con cargo a las partidas correspondientes y con apego a las disposiciones legales, reglamentarias y administrativas conducentes;
+
+VI. Revisar que las operaciones presupuestales que realice el Instituto se hagan con apego a las disposiciones legales y administrativas aplicables a estas materias;
+
+VII. Verificar las obras, bienes adquiridos o arrendados y servicios contratados, para comprobar que las inversiones y gastos autorizados se han aplicado, legal y eficientemente, al logro de los objetivos y metas de los programas aprobados;
+
+VIII. Requerir a terceros que hubieran contratado bienes o servicios con el Instituto la información relacionada con la documentación justificativa y comprobatoria respectiva, a efecto de realizar las compulsas que correspondan;
+
+IX. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del Instituto;
+
+X. Establecer los mecanismos de orientación y cursos de capacitación que resulten necesarios para que los servidores públicos del Instituto cumplan adecuadamente con sus responsabilidades administrativas;
+
+XI. Formular pliegos de observaciones en materia administrativa;
+
+XII. Imponer las sanciones en términos de los lineamientos respectivos;
+
+XIII. Presentar a la aprobación del Consejo General sus programas anuales de trabajo;
+
+XIV. Presentar al Consejo General los informes previo y anual de resultados de su gestión, y acudir ante el mismo Consejo cuando así lo requiera el consejero presidente;
+
+XV. Participar, a través de su titular, con voz pero sin voto, en las reuniones del Consejo General cuando por motivo del ejercicio de sus facultades así lo considere necesario el consejero presidente;
+
+XVI. Intervenir en los procesos de entrega-recepción por inicio o conclusión de encargo de los servidores públicos que corresponda;
+
+XVII. Establecer y operar un sistema de atención de quejas, denuncias y sugerencias de la ciudadanía y partidos políticos;
+
+XVIII. Las demás funciones que le señale el Consejo Estatal, y las leyes y reglamentos relativos.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
+ARTÍCULO 131 BIS 2
+
+1. El titular de la Contraloría será designado por el Congreso del Estado, con el voto de la mayoría de sus integrantes, a propuesta de instituciones públicas de educación superior y de los Colegios de Profesionistas, mediante los procedimientos y en los plazos que fije la Ley respectiva.
+
 ## TÍTULO TERCERO. DE LOS CONSEJOS MUNICIPALES
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
@@ -2039,7 +2171,9 @@ VIII. Ser de reconocida probidad y poseer los estudios y conocimientos suficient
 
 IX. No haber sido condenado por delito alguno, salvo que hubiese sido de carácter no intencional o imprudencial.
 
-2. Los Consejeros Electorales serán designados para ocupar el cargo por nueve años, y no podrán ser reelectos.
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
+2. Los Consejeros Electorales serán designados para ocupar el cargo por seis años, y no podrán ser reelectos.
 
 3. Dentro de los quince días naturales siguientes a la designación de los Consejeros Electorales de los Consejos Municipales, los representantes de los partidos políticos podrán presentar objeciones sobre dichos nombramientos.
 
@@ -2905,7 +3039,7 @@ IV. Precandidato: es el ciudadano que pretende ser postulado por un partido pol�
 
 ### CAPÍTULO I. DE LAS PRECAMPAÑAS
 
-> <small>N. DE E. EN EL P.O. DE 16 DE NOVIEMBRE DE 2008 ESTE ARTÍCULO SE PUBLICO EN LAS PÁGINAS 143 Y SU CONTINUACIÓN EN LA 142.</small>
+> <small>N. DE E. EN EL P.O. DE 16 DE NOVIEMBRE DE 2008 ESTE ARTÍCULO SE PUBLICÓ EN LAS PÁGINAS 143 Y SU CONTINUACIÓN EN LA 142.</small>
 
 ARTICULO 196
 
@@ -2931,9 +3065,13 @@ ARTICULO 198
 
 1. Al menos treinta días antes del inicio formal de los procesos a que se refiere el párrafo inmediato anterior, cada partido determinará, conforme a sus Estatutos, el procedimiento aplicable para la selección de sus candidatos a cargos de elección popular, según la elección de que se trate. La determinación deberá ser comunicada al Consejo Estatal dentro de las setenta y dos horas siguientes a su aprobación, señalando la fecha de inicio del proceso interno; el método o métodos que serán utilizados; la fecha para la' expedición de la convocatoria correspondiente; los plazos que comprenderá cada fase del proceso interno; los órganos de dirección responsables de su conducción y vigilancia; la fecha de celebración de la asamblea electoral estatal, municipal y distrital o, en su caso, de realización de la jornada comicial interna, conforme a lo siguiente:
 
-I. Durante el proceso electoral en que se renueven los Poderes Ejecutivo y Legislativo, así como de los miembros de los Ayuntamientos, las precampañas podrán dar inicio a partir de la segunda semana de diciembre del año previo al de la elección debiendo concluir a más tardar veinte días antes del inicio de registro de candidatos. No podrán durar más de sesenta días;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
-II. Durante el proceso electoral, para la renovación del Congreso y de los miembros de los Ayuntamientos, las precampañas podrán dar inicio a partir de la tercera semana de enero del año de la elección debiendo concluir a más tardar veinte días antes del inicio de registro de candidatos. No podrán durar más de cuarenta días; y
+I. Las precampañas para la elección de Gobernador podrán dar inicio a partir de la segunda semana de diciembre del año previo al de la elección debiendo concluir a más tardar veinte días antes del inicio de registro de candidatos. No podrán durar más de las dos terceras partes de las respectivas campañas;
+
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+II. Las precampañas para la renovación del Congreso y de los miembros de los Ayuntamientos, podrán dar inicio a partir de la tercera semana de enero del año de la elección debiendo concluir a más tardar veinte días antes del inicio de registro de candidatos. No podrán durar más de las dos terceras partes de las respectivas campañas; y
 
 III. Tratándose de precampañas, darán inicio al día siguiente de que se apruebe el registro interno de los precandidatos. Las precampañas de todos los partidos deberán celebrarse dentro de los mismos plazos. Cuando un partido tenga prevista la celebración de una jornada de consulta directa, ésta se realizará el mismo día para todas las candidaturas.
 
@@ -3021,17 +3159,19 @@ ARTÍCULO 206
 
 1. Los plazos y órganos competentes para el registro de las candidaturas en el año de la elección son los siguientes:
 
-I. En el año de la elección en que se renueven el titular del Poder Ejecutivo, el Poder Legislativo y los integrantes de los ayuntamientos, todos los candidatos serán registrados entre el quince y el veintidós de marzo, por los siguientes órganos:
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
-a) Los candidatos a diputados de mayoría relativa, por los Consejos Municipales de la cabecera de distrito que corresponda;
+I. Para la elección del titular del Poder Ejecutivo, todos los candidatos serán registrados entre el quince y veintidós de marzo, por el Consejo Estatal.
 
-b), Los candidatos a diputados electos por el principio de representación proporcional, por el Consejo Estatal;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
-c) Los candidatos a integrantes de los ayuntamientos, por los Consejos Municipales correspondientes; y
+II. Para la elección de los integrantes del Poder Legislativo y los Ayuntamientos, todos los candidatos serán registrados entre el veintidós y el veintinueve de abril, por los siguientes órganos:
 
-d) Los candidatos a Gobernador del Estado, por el Consejo Estatal.
+a) Los candidatos a Diputados de Mayoría Relativa por los Consejos Municipales de la Cabecera de Distrito que corresponda;
 
-II. En el año de la elección en que solamente se renueve el Poder Legislativo y los integrantes de los ayuntamientos, todos los candidatos serán registrados entre el veintidós y el veintinueve de abril, por los órganos señalados en los incisos a), b) y c) de la fracción anterior.
+b) Los candidatos a Diputados electos por el principio de Representación Proporcional, por el Consejo Estatal, y
+
+c) Los candidatos a integrantes de los Ayuntamientos, por los consejos Municipales correspondientes.
 
 2. El Consejo Estatal podrá realizar ajustes a los plazos establecidos en este artículo a fin de garantizar los plazos de registro y que la duración de las campañas electorales se ciña a lo establecido en el artículo 220 de esta ley.
 
@@ -3159,7 +3299,9 @@ ARTÍCULO 217
 
 1. En la colocación de la propaganda electoral los partidos y candidatos observarán las reglas siguientes:
 
-I. Podrá colgarse en elementos del equipamiento urbano, bastidores y mamparas siempre que no se dañe el equipamiento, se impida la visibilidad de conductores de vehículos, se impida la circulación de peatones, ni obstaculice en forma alguna la visibilidad de los señalamientos que permiten a las personas transitar y orientarse dentro de los centros de población;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
+I. No podrá colgarse en elementos del equipamiento urbano, bastidores y mamparas, ni en lugares que impidan la visibilidad de conductores de vehículos o la circulación de peatones, u obstaculizar de alguna forma la visibilidad de los señalamientos viales que permiten a las personas transitar y orientarse dentro de los centros de población;
 
 II. Podrá colgarse, fijarse o pintarse en inmuebles de propiedad privada siempre que medie acuerdo o convenio escrito entre el propietario y el partido político o candidato, mismo que se registrará ante el órgano electoral correspondiente;
 
@@ -3187,21 +3329,25 @@ ARTÍCULO 219
 
 1. La propaganda que los partidos políticos y los candidatos realicen en la vía pública a través de grabaciones y, en general, por cualquier otro medio, se sujetará a lo previsto por el artículo anterior, así como a las disposiciones legales y administrativas expedidas en materia de protección del medio ambiente y de prevención de la contaminación por ruido.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+
 ARTÍCULO 220
 
-1. Las campañas electorales para Gobernador del Estado, Diputados locales e integrantes de los Ayuntamientos, en el año que corresponda, tendrán una duración de ochenta días.
+1. Las campañas electorales para Gobernador del Estado, tendrán una duración de sesenta días.
 
-2. Las campañas electorales para Diputados locales e integrantes de los Ayuntamientos, en el año en que sólo se renueven éstos, tendrán una duración de cincuenta días.
+2. Las campañas electorales para Diputados locales, tendrán una duración de cincuenta días.
 
-3. Las campañas electorales de los partidos políticos se iniciarán oficialmente a partir de la fecha en que se haya otorgado el registro y concluirán tres días antes de la elección. El órgano electoral correspondiente, notificará por escrito a cada partido, la procedencia legal del registro de sus candidaturas para la elección respectiva.
+3. Las campañas electorales para integrantes de los Ayuntamientos de los Municipios de Durango, Gómez Palacio y Lerdo, tendrán una duración de cincuenta días; para los Municipios de Canatlán, Cuencamé, Guadalupe Victoria, Mapimí, Mezquital, Nombre de Dios, Nuevo Ideal, Poanas, Pueblo Nuevo, San Dimas, Santiago Papasquiaro, El Oro, Tamazula, Tlahualilo y Vicente Guerrero tendrán una duración de cuarenta días; y en el resto de los Municipios tendrán una duración de treinta días.
 
-4. El día de la jornada electoral y durante los tres días anteriores, no se permitirán la celebración de reuniones o actos de campaña, de propaganda o de proselitismo electorales. El incumplimiento de esta obligación podrá dar lugar a la cancelación del registro del candidato o candidatos infractores.
+4. Las campañas electorales de los partidos políticos se iniciarán oficialmente a partir de la fecha en que se haya otorgado el registro y concluirán tres días antes de la elección. El órgano electoral correspondiente, notificará por escrito a cada partido, la procedencia legal del registro de sus candidaturas para la elección respectiva.
 
-5. Quien solicite u ordene la publicación de cualquier encuesta o sondeo de opinión sobre asuntos electorales, que se realice desde el inicio de las campañas hasta el día siguiente del de la elección, deberá entregar copia del estudio completo al Secretario Ejecutivo, si la encuesta o sondeo se difunde por cualquier medio. En todo caso, la difusión de los resultados de cualquier encuesta o sondeo de opinión estará sujeta a lo dispuesto en el párrafo siguiente.
+5. El día de la jornada electoral y durante los tres días anteriores, no se permitirán la celebración de reuniones o actos de campaña, de propaganda o de proselitismo electorales. El incumplimiento de esta obligación podrá dar lugar a la cancelación del registro del candidato o candidatos infractores.
 
-6. Durante los ocho días previos al de la jornada electoral y hasta que el Consejo Estatal haya dado a conocer los resultados preliminares, queda prohibido publicar o difundir por cualquier medio, los resultados de encuestas o sondeos de opinión que tenga por objeto dar a conocer las preferencias electorales de los ciudadanos, quedando sujetos quienes lo hicieren, a las penas aplicables a aquellos que incurran en algunos de los tipos previstos y sancionados en el Código Penal para el Estado de Durango.
+6. Quien solicite u ordene la publicación de cualquier encuesta o sondeo de opinión sobre asuntos electorales, que se realice desde el inicio de las campañas hasta el día siguiente del de la elección, deberá entregar copia del estudio completo al Secretario Ejecutivo, si la encuesta o sondeo se difunde por cualquier medio. En todo caso, la difusión de los resultados de cualquier encuesta o sondeo de opinión estará sujeta a lo dispuesto en el párrafo siguiente.
 
-7. Las personas físicas o morales que pretendan llevar a cabo encuestas por muestreo para dar a conocer las preferencias electorales de los ciudadanos o las tendencias de las votaciones, adoptarán criterios generales de carácter científico, que para tal efecto determine el Consejo Estatal.
+7. Durante los ocho días previos al de la jornada electoral y hasta que el Consejo Estatal haya dado a conocer los resultados preliminares, queda prohibido publicar o difundir por cualquier medio, los resultados de encuestas o sondeos de opinión que tenga por objeto dar a conocer las preferencias electorales de los ciudadanos, quedando sujetos quienes lo hicieren, a las penas aplicables a aquellos que incurran en algunos de los tipos previstos y sancionados en el Código Penal para el Estado de Durango.
+
+8. Las personas físicas o morales que pretendan llevar a cabo encuestas por muestreo para dar a conocer las preferencias electorales de los ciudadanos o las tendencias de las votaciones, adoptarán criterios generales de carácter científico, que para tal efecto determine el Consejo Estatal.
 
 ARTÍCULO 221
 
@@ -5112,3 +5258,31 @@ P.O. 15 DE SEPTIEMBRE DE 2009.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a las contenidas en el presente decreto.
+
+P.O. 27 DE AGOSTO DE 2012.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de la publicación de la reforma a los artículos 17, 25, 31, 37, 39, 45, 50, 55 y 106 de la Constitución Política del Estado Libre y Soberano de Durango, que realice el H. Congreso del Estado.
+
+Publíquese el presente decreto en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Por única ocasión, el Congreso del Estado, dictará las medidas necesarias para que los Consejeros Electorales del Consejo Estatal del Instituto Electoral y de Participación Ciudadana del Estado de Durango, sean electos a más tardar el día 31 de agosto de 2012, conforme al procedimiento establecido en el artículo 111 de la Ley Electoral del Estado de Durango.
+
+Para efectos del escalonamiento respectivo de los Consejeros Electorales que integran el Consejo Estatal, por única ocasión se estará a lo siguiente:
+
+I. El Pleno del Congreso del Estado elegirá a 1 (un) Consejero Electoral Propietario por un período de 6 (años), 2 (dos) Consejeros Electorales por un periodo de 5 (cinco) años y 2 (dos) Consejeros Electorales Propietarios por 3 (tres) años y sus respectivos suplentes;
+
+II. La Comisión Legislativa correspondiente encargada de llevar a cabo el proceso de designación, deberá establecer en el Acuerdo de Dictamen correspondiente, con toda precisión el periodo que le corresponda a cada uno de los consejeros respetando lo establecido en la fracción anterior.
+
+Así mismo por única ocasión, el Congreso del Estado, dictará las medidas necesarias para la designación del Contralor General conforme a los requisitos y procedimiento establecido en el presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+Este Congreso del Estado deberá señalar las bases para la elección de Contralor General a que se refiere el presente decreto dentro de la Ley Orgánica del Congreso del Estado de Durango a más tardar en el siguiente periodo ordinario de sesiones.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
