@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2011-02-03"
+last_updated: "2012-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-CONSTITUCION POLITICA DEL ESTADO DE JALISCO
+CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE FEBRERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2012.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -75,19 +75,31 @@ El territorio del Estado es el que por derecho le corresponde.
 
 Los municipios del estado son aquellos señalados en la ley que establece las bases generales de la administración pública municipal.
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE AGOSTO DE 2012)</small>
 
-### CAPITULO III. De los derechos y obligaciones fundamentales
+### CAPÍTULO III. De los Derechos Humanos y sus Garantías
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2009)</small>
 
 ###### Art. 4º.
 
 Toda persona, por el sólo hecho de encontrarse en el territorio del estado de Jalisco, gozará de los derechos que establece esta Constitución, siendo obligación fundamental de las autoridades salvaguardar su cumplimiento. Asimismo, el Estado de Jalisco reconoce, protege y garantiza el derecho a la vida de todo ser humano, al sustentar expresamente que desde el momento de la fecundación entra bajo la protección de la ley y se le reputa como nacido para todos los efectos legales correspondientes, hasta su muerte natural.
 
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2012)</small>
 
-Se reconocen como derechos de los individuos que se encuentren en el territorio del estado de Jalisco, los que se enuncian en la Constitución Política de los Estados Unidos Mexicanos, así como los contenidos en la Declaración Universal de los Derechos Humanos, proclamada por la Asamblea General de la (sic) Naciones Unidas, en la Convención Americana sobre Derechos Humanos y en los tratados, convenciones o acuerdos internacionales que el Gobierno Federal haya firmado o los que celebre o de que forme parte.
+Se reconocen como derechos humanos de las personas que se encuentren en el territorio del estado de Jalisco, los que se enuncian en la Constitución Política de los Estados Unidos Mexicanos, así como los contenidos en la Declaración Universal de los Derechos Humanos, proclamada por la Asamblea General de las Naciones Unidas en la Convención Americana sobre Derechos Humanos, y en los tratados, convenciones o acuerdos internacionales que el Gobierno federal haya firmado o los que celebre o de que forme parte.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE AGOSTO DE 2012)</small>
+
+Las normas relativas a los derechos humanos se interpretarán de conformidad con esta Constitución, la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de la materia, favoreciendo en todo tiempo a las personas la protección más amplia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE AGOSTO DE 2012)</small>
+
+Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Estado deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE AGOSTO DE 2012)</small>
+
+Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias de todo tipo, incluyendo las sexuales, el estado civil o cualquiera otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
 > <small>(ADICIONADO, P.O. 26 DE MARZO DE 2005)</small>
 
@@ -251,15 +263,31 @@ Para la preservación de los derechos a que alude el artículo 4º de esta Const
 
 I. En la realización y cumplimiento de sus funciones, tendrá la integración, atribuciones, organización y competencia que le confiera su Ley, sin más restricciones que las señaladas en el artículo 102, apartado B, de la Constitución Política de los Estados Unidos Mexicanos y las leyes respectivas;
 
-II. En cumplimiento de sus funciones, formulará recomendaciones públicas, autónomas, no vinculatorias, así como denuncias y quejas ante las autoridades respectivas;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2012)</small>
 
-III. Sólo podrá admitir o conocer de quejas contra actos u omisiones de autoridades locales judiciales, laborales y electorales, cuando éstos tengan carácter de trámite administrativo. La Comisión por ningún motivo podrá examinar cuestiones jurisdiccionales de fondo en dichas materias, ni podrá dar consultas a autoridades y particulares sobre interpretación de leyes;
+II. En cumplimiento de sus funciones, formulará recomendaciones públicas, autónomas, no vinculatorias, así como denuncias y quejas ante las autoridades respectivas.
+
+Todo servidor público está obligado a responder las recomendaciones que les presente la Comisión Estatal de Derechos Humanos. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa. El Congreso del Estado podrá, a solicitud de la Comisión Estatal de Derechos Humanos, citar a comparecer ante la Asamblea a las autoridades o servidores públicos responsables para que expliquen el motivo de su negativa;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2012)</small>
+
+III. Sólo podrá admitir o conocer de quejas contra actos u omisiones de autoridades locales judiciales y electorales, cuando éstos tengan carácter de trámite administrativo. La Comisión Estatal de Derechos Humanos por ningún motivo podrá examinar cuestiones jurisdiccionales de fondo de dichas materias, ni podrá dar consultas a autoridades y particulares sobre interpretación de leyes;
 
 IV. Iniciará de oficio o a petición de parte, el procedimiento para la investigación de las violaciones de los derechos humanos de que tenga conocimiento. Igualmente, podrá promover ante las autoridades competentes, cambios y modificaciones al sistema jurídico estatal o municipal o de práctica administrativa, que redunden en una mejor protección y defensa de los derechos humanos;
 
-V. Estará integrado por un presidente, un consejo compuesto por titulares y suplentes respectivamente y los demás órganos que determine su Ley Reglamentaria; y
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2012)</small>
 
-VI. Para la designación de su presidente y de los consejeros ciudadanos, deberán satisfacerse los requisitos y observarse el procedimiento que determine la ley.
+V. Estará integrado por un Presidente, un consejo compuesto por titulares y suplentes respectivamente y los demás órganos que determine su ley reglamentaria;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2012)</small>
+
+VI. Para la designación de su Presidente y de los consejeros ciudadanos, deberán satisfacerse los requisitos y observarse el procedimiento que determine la ley, basado en un proceso de consulta pública, que deberá ser transparente, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE AGOSTO DE 2012)</small>
+
+VII. La Comisión Estatal de los Derechos Humanos tendrá facultad para ejercitar acción de inconstitucionalidad en contra de leyes expedidas por el Congreso del Estado, en los términos de la legislación federal correspondiente.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 28 DE AGOSTO DE 2012)</small>
 
 Toda autoridad estatal o municipal que, en el ámbito de su competencia, tenga conocimiento de actos violatorios de derechos humanos, inmediatamente y bajo su estricta responsabilidad, procederá a dar cuenta del hecho a la Comisión Estatal de Derechos Humanos.
 
@@ -333,7 +361,7 @@ Los consejeros electorales del Instituto Electoral que representen al Poder Legi
 
 La ley de la materia establecerá los requisitos que deberán reunir los consejeros electorales y el Secretario Ejecutivo del Instituto Electoral;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MAYO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2005)</small>
 
 VIII. El Instituto Electoral del Estado tendrá a su cargo en forma integral y directa, además de las que determine la ley, las actividades relativas a la capacitación y educación cívica, geografía electoral, los derechos y prerrogativas de los partidos políticos nacionales y estatales, al padrón y lista de electores, impresión de materiales electorales, preparación de la jornada electoral, los cómputos en los términos que señala la ley, declaración de validez y otorgamiento de constancias en las elecciones de diputados, cómputo de la elección de Gobernador en cada uno de los distritos electorales uninominales y las elecciones municipales, así como la regulación de la observación electoral y de las encuestas o sondeos de opinión con fines electorales.
 
@@ -379,7 +407,7 @@ XV. La ley fijará las causales de nulidad de las elecciones de gobernador, dipu
 
 XVI. Las elecciones deberán realizarse el primer domingo de julio del año que corresponda.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE ABRIL DE 1997)</small>
 
 ### CAPITULO III. De los partidos y agrupaciones políticas
 
@@ -397,7 +425,7 @@ Para el ejercicio de sus derechos político-electorales, sólo los ciudadanos ja
 
 Sólo los partidos políticos tienen el derecho para solicitar el registro de candidatos a cargos de elección popular, con excepción de lo dispuesto en el artículo 2.°, apartado A, fracciones III y VII, de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2008)</small>
 
 La ley determinará, en el ámbito estatal, el procedimiento para la constitución y reconocimiento de los partidos políticos, la forma de acreditación de los partidos políticos nacionales, el registro de los partidos políticos estatales, los supuestos de pérdida de registro y acreditación, así como sus derechos, obligaciones, prerrogativas y las formas específicas de su intervención en los procesos electorales, los procedimientos para liquidar sus obligaciones, destino y adjudicación de bienes y remanentes a favor del Estado o Instituto Electoral en los casos de pérdida de registro o acreditación, conforme a las siguientes bases:
 
@@ -539,7 +567,7 @@ El Poder Legislativo se deposita en una asamblea que se denomina Congreso del Es
 
 El Congreso del Estado se integrará con representantes populares electos y se renovará cada tres años, conforme al procedimiento que establezca la Ley Electoral.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2008)</small>
 
 ###### Art. 18.
 
@@ -647,7 +675,7 @@ Los diputados son inviolables por la manifestación de sus ideas en el ejercicio
 
 El Congreso del Estado se instalará cada tres años, el día primero de noviembre del año de la elección, conforme al procedimiento que se determine en su Ley Orgánica.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2008)</small>
 
 ###### Art. 25.
 
@@ -955,15 +983,15 @@ XXXII. Expedir el bando solemne para dar a conocer la declaración de Gobernador
 
 XXXIII. Elegir al Presidente y a los consejeros del Instituto de Transparencia e información Pública de Jalisco, con la aprobación de las dos terceras partes de los diputados integrantes de la Legislatura, o por insaculación, en los términos que establezca la ley de la materia.
 
-El Presidente y los consejeros durarán en su encargo cuatro años y sólo podrán ser removidos de sus funciones en los términos del Título Octavo de esta Constitución; podrán ser reelectos por una sola ocasión conforme al procedimiento para su nombramiento de conformidad con la ley; y
+El Presidente y los consejeros durarán en su encargo cuatro años y sólo podrán ser removidos de sus funciones en los términos del Título Octavo de esta Constitución; podrán ser reelectos por una sola ocasión conforme al procedimiento para su nombramiento de conformidad con la ley; y (sic)
 
 > <small>(ADICIONADA, P.O. 28 DE ABRIL DE 1997)</small>
 
 XXXIV. Presidir la junta preparatoria para instalar la nueva legislatura.
 
-> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2012)</small>
 
-XXXV. Delimitar, y hacer la declaratoria de las áreas metropolitanas localizadas en el territorio del estado; y
+XXXV. Solicitar a la Comisión Nacional de los Derechos Humanos que investigue hechos que constituyan violaciones graves de derechos humanos.
 
 > <small>(ADICIONADA, P.O. 1 DE MAYO DE 2008)</small>
 
@@ -1291,13 +1319,17 @@ XXII. Delegar facultades específicas en el ámbito administrativo, cuando no ex
 
 XXIII. Divulgar la legislación local en el Estado; y
 
-> <small>(REFORMADA, P.O. 1 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2012)</small>
 
-XXIV. Hacer la propuesta de delimitación de las regiones metropolitanas que se encuentren ubicadas dentro del territorio del estado, a partir de la declaratoria de áreas metropolitanas que haga el Congreso del Estado de Jalisco; y
+XXIV. Hacer la propuesta de delimitación de las regiones metropolitanas que se encuentren ubicadas dentro del territorio del estado, a partir de la declaratoria de áreas metropolitanas que haga el Congreso del Estado de Jalisco;
 
-> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2012)</small>
 
-XXV. Las demás que le otorgan la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que de éstas se deriven.
+XXV. Solicitar a la Comisión Nacional de los Derechos Humanos que investigue hechos que constituyan violaciones graves de derechos humanos, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE AGOSTO DE 2012)</small>
+
+XXVI. Las demás que le otorgan la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que de éstas se deriven.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1347,7 +1379,7 @@ En tratándose de personas de escasos recursos, dependientes económicos, jornal
 
 ### CAPITULO II. De Poder Judicial
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2010)</small>
 
 ###### Art. 56.
 
@@ -1393,7 +1425,7 @@ La ley fijará los términos en que sea obligatoria la jurisprudencia que establ
 
 El personal de los tribunales, juzgados y demás órganos del Poder Judicial, regirá sus relaciones de trabajo conforme a las disposiciones generales y a las reglas especiales que para cada caso señalen esta Constitución y las leyes aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2008)</small>
 
 ###### Art. 58.
 
@@ -1427,7 +1459,7 @@ V. No haber sido Gobernador, titular de alguna de las secretarías de despacho d
 
 VI. No haber sido Secretario de Estado o jefe de departamento administrativo de la Federación, Procurador General de la República, Senador o Diputado federal, a menos que se separe de su cargo un año antes al día en que tenga verificativo la elección.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2007)</small>
 
 ###### Art. 60.
 
@@ -1445,7 +1477,7 @@ En caso de que el Congreso rechace la totalidad de los candidatos propuestos, el
 
 En igualdad de circunstancias, los nombramientos de magistrados serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ENERO DE 2008)</small>
 
 ###### Art. 61.
 
@@ -1509,7 +1541,7 @@ X. Elegir, de entre sus miembros, al Presidente del Supremo Tribunal de Justicia
 
 XI. Las demás que determinen esta Constitución y las leyes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2007)</small>
 
 ###### Art. 63.
 
@@ -1519,7 +1551,7 @@ Los jueces de primera instancia, menores y de paz, serán elegidos por el Consej
 
 En los casos de promoción, la inamovilidad en el nuevo empleo se adquirirá al transcurrir el plazo correspondiente a su ejercicio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2007)</small>
 
 ###### Art. 64.
 
@@ -1565,7 +1597,7 @@ Las decisiones del Consejo General serán definitivas e inatacables.
 
 ### CAPITULO III. Del Tribunal de Arbitraje y Escalafón
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MAYO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2005)</small>
 
 ###### Art. 65.
 
@@ -1599,7 +1631,7 @@ El Tribunal Electoral tendrá a su cargo la resolución de toda controversia que
 
 En materia electoral la interposición de los recursos no producirá en ningún caso efectos suspensivos del acto o resolución impugnado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JULIO DE 2001)</small>
 
 ###### Art. 69.
 
@@ -1673,7 +1705,7 @@ Para el ejercicio de sus atribuciones el Tribunal Electoral se integrará por ci
 
 Una vez decretada la conclusión de algún proceso electoral, el Tribunal Electoral se constituirá en sala permanente, la que se integrará por tres de sus magistrados. Los dos magistrados restantes se incorporarán a la Dirección del Instituto de Investigaciones y Capacitación Electoral, de acuerdo a las disposiciones de las leyes aplicables.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 ### CAPITULO II. De las facultades y obligaciones de los ayuntamientos
 
@@ -1717,7 +1749,7 @@ IV. Los presidentes, regidores y el síndico de los ayuntamientos, electos popul
 
 V. Todos los servidores públicos mencionados en la fracción anterior, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes; pero los que tengan el carácter de suplentes sí podrán ser electos para el período inmediato como propietarios, a menos que hayan estado en ejercicio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2000)</small>
 
 ###### Art. 74.
 
@@ -1815,7 +1847,7 @@ IV. El procedimiento y condiciones para que el gobierno estatal asuma una funci�
 
 V. Las normas que establezcan los procedimientos mediante los cuales se resolverán los conflictos que se presenten entre los municipios y el gobierno del estado, o entre aquéllos, con motivo de los actos derivados de los incisos III y IV anteriores.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MAYO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2005)</small>
 
 ###### Art. 78.
 
@@ -1845,7 +1877,7 @@ El Instituto Electoral del Estado efectuará el cómputo de los votos y remitir�
 
 Una vez que la resolución del Instituto Electoral quede firme, si es derogatoria, será notificada al ayuntamiento respectivo, para que en un plazo no mayor de treinta días, emita el acuerdo correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2000)</small>
 
 ###### Art. 79.
 
@@ -1965,7 +1997,7 @@ Para la prestación de los servicios de seguridad social en beneficio de los ser
 
 Los ayuntamientos podrán otorgar concesiones a los particulares, para que participen en la ejecución de obras y prestación de servicios públicos que les correspondan, cuando así lo requieran su conservación, mejoramiento y eficaz administración.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MAYO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2005)</small>
 
 ###### Art. 84.
 
@@ -2045,7 +2077,7 @@ III. Los ingresos derivados de la prestación de servicios públicos a su cargo.
 
 El patrimonio municipal se compondrá con los bienes de dominio público y los bienes de dominio privado, de conformidad con lo que establezca la ley de la materia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2008)</small>
 
 ###### Art. 89.
 
@@ -2155,7 +2187,7 @@ IX. El Congreso, erigido en Jurado de Sentencia, con audiencia del inculpado, de
 
 Contra las resoluciones de juicio político no procede juicio o recurso alguno.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 ### CAPITULO V. De la Responsabilidad Patrimonial del Estado y los Municipios
 
@@ -2231,7 +2263,7 @@ No se requerirá declaración de procedencia del Congreso, cuando alguno de los 
 
 Contra las declaraciones de procedencia penal no procede juicio o recurso alguno.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 ### CAPITULO I. Prevenciones generales
 
@@ -2297,7 +2329,7 @@ Los cargos de elección popular directa son preferentes a los de nombramiento, s
 
 Los demás cargos serán aceptables voluntariamente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MAYO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2005)</small>
 
 ###### Art. 111.
 
@@ -2311,7 +2343,7 @@ Queda estrictamente prohibido para las autoridades competentes, establecer en lo
 
 La infracción de este artículo constituye causal de responsabilidad, misma que se sancionará en la forma y términos que establezca la ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2008)</small>
 
 ###### Art. 112.
 
@@ -2407,11 +2439,11 @@ Dado en el Salón de sesiones del Congreso del Estado, a ocho de julio de mil no
 
 Firmados: Presidente, M. Bouquet Jr., Diputado por el Primer Distrito.- Vice-Presidente, Carlos Galindo, Diputado por el 5o. Distrito.- V.L. Velarde, Diputado por el 4o. Distrito.- Ramón Delgado, Diputado por el 6o. Distrito.- J.W. Torres, Diputado por el 7o. Distrito.- Tomás Morán, Diputado por el 9o.- Distrito. Jesús Camarena, Diputado por el 10o. Distrito.- Ambrosio Ulloa, Diputado por el 11o. Distrito.- Marcos Guzmán, Diputado por el 12o. Distrito.- Fausto Ulloa, Diputado por el 13o. Distrito.- Pedro Alarcón, Diputado por el 15o. Distrito.- Sebastián Allende, Diputado por el 16o. Distrito.- Secretario, J. Guadalupe Rubalcava, Diputado por el 3er. Distrito.- Secretario, Julián Villaseñor Mejía, Diputado por el 14o. Distrito.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCIÓN.</small>
 
 P.O. 16 DE SEPTIEMBRE DE 1922.
 
-EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 19 DE LA CONSTITUCION POLITICA DEL ESTADO DE JALISCO.
+EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 19 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO.
 
 P.O. 26 DE SEPTIEMBRE DE 1924.
 
@@ -2421,19 +2453,19 @@ Esta ley empezará a regir en la elección de la próxima XXIX Legislatura y los
 
 P.O. 19 DE FEBRERO DE 1927.
 
-EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 19 DE LA CONSTITUCION POLITICA DEL ESTADO DE JALISCO.
+EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 19 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO.
 
 P.O. 27 DE SEPTIEMBRE DE 1928.
 
-EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 19 DE LA CONSTITUCION POLITICA DEL ESTADO DE JALISCO.
+EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 19 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO.
 
 P.O. 27 DE JUNIO DE 1931.
 
-EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 19 DE LA CONSTITUCION POLITICA DEL ESTADO DE JALISCO.
+EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 19 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO.
 
 P.O. 27 DE OCTUBRE DE 1932.
 
-EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 19 DE LA CONSTITUCION POLITICA DEL ESTADO DE JALISCO.
+EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 19 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO.
 
 P.O. 21 DE MARZO DE 1935.
 
@@ -2463,15 +2495,15 @@ SEGUNDO.- Por esta sola vez los próximos períodos para Diputados y Munícipes 
 
 P.O. 25 DE SEPTIEMBRE DE 1948.
 
-DECRETO NUMERO 5373.
+DECRETO NÚMERO 5373.
 
 UNICO.- Esta reforma empezará a surtir sus efectos el día en que se declare que es parte de la Constitución Política del Estado.
 
 P.O. 25 DE SEPTIEMBRE DE 1948.
 
-> <small>N. DE E. POR LA IMPORTANCIA DEL CONTENIDO DEL ARTICULO UNICO DEL DECRETO, SE TRANSCRIBE INTEGRAMENTE EL MISMO.</small>
+> <small>N. DE E. POR LA IMPORTANCIA DEL CONTENIDO DEL ARTÍCULO ÚNICO DEL DECRETO, SE TRANSCRIBE ÍNTEGRAMENTE EL MISMO.</small>
 
-DECRETO NUMERO 5375.
+DECRETO NÚMERO 5375.
 
 ###### ARTICULO UNICO.
 
@@ -2483,7 +2515,7 @@ UNICO.- Esta reforma entrará en vigor a partir del día en que se declare que e
 
 P.O. 6 DE NOVIEMBRE DE 1954.
 
-EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 19 DE LA CONSTITUCION POLITICA DEL ESTADO DE JALISCO.
+EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 19 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO.
 
 P.O. 18 DE ABRIL DE 1961.
 
@@ -2511,7 +2543,7 @@ UNICO.- Las presentes reformas y adiciones, entrarán en vigor al día siguiente
 
 P.O. 7 DE NOVIEMBRE DE 1972.
 
-> <small>N. DE E. POR LA IMPORTANCIA DEL CONTENIDO DEL ARTICULO UNICO DEL DECRETO, SE TRANSCRIBE INTEGRAMENTE EL MISMO.</small>
+> <small>N. DE E. POR LA IMPORTANCIA DEL CONTENIDO DEL ARTÍCULO ÚNICO DEL DECRETO, SE TRANSCRIBE ÍNTEGRAMENTE EL MISMO.</small>
 
 DECRETO NUMERO 8890.
 
@@ -2595,7 +2627,7 @@ Unico. El presente Decreto entrará en vigor al día siguiente de su publicació
 
 P.O. 10 DE OCTUBRE DE 1989.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA CONSTITUCION.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA CONSTITUCIÓN.
 
 Primero.- Este Decreto deroga las disposiciones que se opongan al mismo.
 
@@ -2777,7 +2809,7 @@ SEGUNDO.- El presente Decreto entrará en vigor 60 días después de su publicac
 
 P.O. 19 DE DICIEMBRE DE 2000.
 
-DECRETO NUMERO 18344.
+DECRETO NÚMERO 18344.
 
 PRIMERO.- La presente reforma entrará en vigor 90 días después de su publicación en el periódico oficial "El Estado de Jalisco".
 
@@ -2785,9 +2817,9 @@ SEGUNDO.- Los ayuntamientos deberán adecuar sus reglamentos y disposiciones de 
 
 P.O. 19 DE DICIEMBRE DE 2000.
 
-DECRETO NUMERO 18502.
+DECRETO NÚMERO 18502.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA CONSTITUCION.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA CONSTITUCIÓN.
 
 ...
 
@@ -3008,3 +3040,7 @@ P.O. 3 DE FEBRERO DE 2011.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 SEGUNDO. Notifíquese y envíese el presente decreto a los ayuntamientos del estado de Jalisco, para que manifiesten su aprobación en los términos señalados por el artículo 117 de la Constitución Política del Estado de Jalisco.
+
+P.O. 28 DE AGOSTO DE 2012.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
