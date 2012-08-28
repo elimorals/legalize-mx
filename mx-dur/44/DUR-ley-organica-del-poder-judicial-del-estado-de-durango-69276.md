@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-poder-judicial-del-estado-de-durango-69276"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-07-02"
-last_updated: "2012-06-15"
+last_updated: "2012-08-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 2 de julio de 2009.
 
@@ -2465,9 +2465,11 @@ XIV. Las demás que le señalen las leyes.
 
 ### CAPÍTULO II. DEL PRESIDENTE DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2012)</small>
+
 ###### ARTÍCULO 218.
 
-Los integrantes de la Sala del Tribunal Electoral del Poder Judicial del Estado, elegirán de entre ellos a su presidente, quien ejercerá dicha representación durante todo el periodo para el que fue designado, salvo renuncia al cargo de presidente, en cuyo caso la Sala designará nuevo Presidente.
+Los integrantes de la Sala del Tribunal Electoral del Poder Judicial del Estado, elegirán de entre ellos a su presidente, quien ejercerá dicha representación durante un periodo de tres años, salvo renuncia al cargo de presidente, en cuyo caso la Sala designará nuevo Presidente.
 
 Las ausencias del Presidente serán suplidas, si no exceden de un mes, por el Magistrado Electoral de mayor antigüedad o, en su caso, de mayor edad.
 
@@ -3388,3 +3390,11 @@ SEGUNDO.- El Juez de Ejecución tendrá facultades para aplicar el trámite prev
 Las autoridades jurisdiccionales que en cumplimiento del presente Decreto, determinen la cancelación de los antecedentes penales, deberán notificarlo al director del Archivo del Poder Judicial del Estado, para los efectos a que alude el último párrafo del artículo 112 bis de la Ley Orgánica del Poder Judicial del Estado de Durango.
 
 TERCERO.- Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
+
+P.O. 28 DE AGOSTO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.- El actual Presidente del Tribunal Electoral del Poder Judicial del Estado de Durango, concluirá su periodo el 30 de agosto del 2012. A más tardar el 31 de agosto de 2012, el Pleno del Tribunal Electoral deberá elegir al nuevo Presidente.
+
+TERCERO.-Se (sic) derogan todas las disposiciones que se opongan al presente decreto.
