@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-la-proteccion-del-ambiente-natural-y-el-desarrollo-262
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-18"
-last_updated: "2012-02-27"
+last_updated: "2012-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26219&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA LA PROTECCIÓN DEL AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2012.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el miércoles 18 de septiembre de 2002.
 
@@ -145,9 +145,11 @@ II.- La restauración y regeneración del suelo contaminado o dañado, de manera
 
 III.- La instrumentación de los mecanismos necesarios para la prevención y control de la contaminación en la atmósfera, agua y suelo dentro del Estado.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2012)</small>
+
 ###### ARTÍCULO 3.
 
-En todo lo no previsto en esta Ley, serán aplicables supletoriamente la Ley General del Equilibrio Ecológico y Protección al Ambiente, la Ley Orgánica de la Administración Pública del Estado, el Código de Defensa Social, el Código Civil y el Código de Procedimientos Civiles para el Estado Libre y Soberano de Puebla.
+En todo lo no previsto en esta Ley serán aplicables supletoriamente la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley Orgánica de la Administración Pública del Estado, el Código de Defensa Social para el Estado Libre y Soberano de Puebla, el Código Civil para el Estado Libre y Soberano de Puebla y el Código de Procedimientos Civiles para el Estado Libre y Soberano de Puebla.
 
 ###### ARTÍCULO 4.
 
@@ -167,7 +169,7 @@ V.- BIODEGRADABLE.- Es el compuesto químico que se degrada por una acción biol
 
 > <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
-VI.- BIODlVERSIDAD.- La variabilidad de organismos vivos de cualquier fuente, incluidos entre otros, los ecosistemas terrestres, marítimos y acuáticos y los complejos ecológicos de los que forman parte; asimismo la diversidad entre las especies y los ecosistemas;
+VI.- BIODIVERSIDAD.- La variabilidad de organismos vivos de cualquier fuente, incluidos entre otros, los ecosistemas terrestres, marítimos y acuáticos y los complejos ecológicos de los que forman parte; asimismo la diversidad entre las especies y los ecosistemas;
 
 > <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
@@ -285,9 +287,9 @@ XXXIV.- ESTIMACIÓN DE COSTOS AMBIENTALES.- Es el procedimiento a través del cu
 
 XXXV.- LEY GENERAL.- La Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 29 DE AGOSTO DE 2012)</small>
 
-XXXVI.- LEY.- La Ley para la Protección al Ambiente Natural y el Desarrollo Sustentable del Estado de Puebla;
+XXXVI.- LEY.- La Ley para la Protección del Ambiente Natural y el Desarrollo Sustentable del Estado de Puebla;
 
 > <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
@@ -349,9 +351,9 @@ XLVIII.- REUSO.- Es la acción de aprovechar un residuo sin un proceso previo de
 
 XLIX.- RIESGO AMBIENTAL.- Es la contingencia en el proceso de los fenómenos naturales o artificiales que pueden ser alterados por las condiciones que constituyan un peligro para el medio ambiente;
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2012)</small>
 
-L.- SECRETARÍA.- Secretaría de Sustentabilidad Ambiental y Ordenamiento Territorial;
+L.- SECRETARÍA.- La Secretaría de Sustentabilidad Ambiental y Ordenamiento Territorial del Estado de Puebla;
 
 > <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
@@ -509,23 +511,41 @@ El Consejo Estatal de Ecología se integrará por:
 
 I.- Un Presidente, que será el titular del Poder Ejecutivo del Estado;
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2012)</small>
 
-II.- Un Secretario Técnico, que será el Titular de la Secretaría de Sustentabilidad Ambiental y Ordenamiento Territorial;
+II.- Un Secretario Técnico, que será el Titular de la Secretaría de Sustentabilidad Ambiental y Ordenamiento Territorial del Estado de Puebla;
 
 III.- Un Secretario Ejecutivo, que deberá ser un Ciudadano destacado en el área ambiental que no sea funcionario público, mismo que será nombrado por la Asamblea del Consejo;
 
-IV.- El titular o representante debidamente acreditado de las Secretarías de: Gobernación, Finanzas y Desarrollo Social, Educación Pública, Desarrollo Económico, Salud y Desarrollo Rural, así como los representantes de la Comisión Estatal de Agua y Saneamiento y del Sistema Estatal de Protección Civil;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2012)</small>
+
+IV.- El Titular de las Secretarías: General de Gobierno, de Finanzas, de Educación Pública, de Competitividad, Trabajo y Desarrollo Económico, de Salud y de Desarrollo Rural, así como representantes de la Comisión Estatal de Agua y Saneamiento y del Sistema Estatal de Protección Civil;
 
 V.- El Diputado Presidente de la Comisión de Desarrollo Urbano y Medio Ambiente o representante debidamente acreditado del Honorable Congreso del Estado;
 
-> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2012)</small>
 
-VI.- Los Titulares de las Delegaciones de: la Secretaría del Medio Ambiente y Recursos Naturales, la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, la Procuraduría Federal de Protección al Ambiente, la Comisión Nacional del Agua, la Comisión Nacional Forestal y el Comandante del la XXV Zona Militar, o sus representantes debidamente acreditados;
+VI.- Los Titulares de las Delegaciones de: La Secretaría de Medio Ambiente y Recursos Naturales; la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, la Secretaría de Desarrollo Social, la Procuraduría Federal de Protección al Ambiente, la Comisión Nacional del Agua, la Comisión Nacional Forestal y el Comandante de la XXV Zona Militar;
 
-VII.- El titular o representante debidamente acreditado de los Organismos y Movimientos Ecologistas legalmente constituidos y que desarrollen sus actividades en el Estado; y
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2012)</small>
 
-VIII.- El titular o representante debidamente acreditado de las Universidades, Institutos Tecnológicos y de Investigación dentro de la Entidad.
+VII.- Tres Consejeros Ciudadanos, los cuales deberán ser representantes debidamente acreditados de las organizaciones ecologistas legalmente constituidas y que desarrollen sus actividades en el Estado de Puebla; y
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2012)</small>
+
+VIII.- Tres Consejeros Ciudadanos, los cuales deberán ser representantes debidamente acreditados de las universidades, institutos tecnológicos y de investigación dentro de la Entidad.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2012)</small>
+
+Los Consejeros Ciudadanos que se mencionan en las fracciones VII y VIII del presente artículo serán designados por la Asamblea del Consejo a propuesta del Secretario Técnico.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2012)</small>
+
+A las sesiones del Consejo podrán asistir como invitados, con voz pero sin voto, representantes de organizaciones ecologistas reconocidas a nivel nacional e internacional, previo acuerdo de la Asamblea.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2012)</small>
+
+ARTÍCULO 8 BIS.- Los miembros titulares del Consejo Estatal de Ecología podrán nombrar a sus respectivos suplentes, los que tendrán las mismas facultades que a éstos les correspondan y deberán tener cuando menos nivel de Director de Área o su equivalente. El Presidente será suplido en su ausencia por el Secretario de Sustentabilidad Ambiental y Ordenamiento Territorial, en cuyo caso entrará en funciones el suplente del Secretario Técnico.
 
 ###### ARTÍCULO 9.
 
@@ -1211,6 +1231,8 @@ Los Ayuntamientos podrán imponer las medidas de protección, administración y 
 
 #### SECCIÓN SEGUNDA. DE LOS PROGRAMAS DE MANEJO Y SU FINANCIAMIENTO
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2012)</small>
+
 ###### ARTÍCULO 70.
 
 Las áreas naturales protegidas de jurisdicción estatal se establecerán mediante declaratoria que expida el Ejecutivo Estatal para Parques y Reservas Estatales y por los Ayuntamientos para las Zonas de Preservación Ecológica en los Centros de Población, conforme a esta Ley, su Reglamento y demás Leyes aplicables. En ningún caso se podrán emplear aquellas denominaciones que se aplican a las categorías de las áreas naturales protegidas reservadas a la Federación.
@@ -1257,7 +1279,7 @@ Una vez establecida el área natural protegida, sólo podrá modificarse su exte
 
 ###### ARTÍCULO 76.
 
-La Secretaría formulará, dentro del plazo de seis meses, contados a partir de la publicación de la declaratoria respectiva en el Periódico Oficial del Estado, el Programa de Manejo del Área Natural Protegida de que se trate, dando participación a los habitantes, propietarios y detentadores de los predios en ella incluidos, a las demás dependencias competentes, Gobiernos Municipales, así como organizaciones sociales, públicas o privadas, y demás personas interesadas.
+La Secretaría formulará, dentro del plazo de un año, contado a partir de la publicación de la declaratoria respectiva en el Periódico Oficial del Estado, el Programa de Manejo del Área Natural Protegida de que se trate, dando participación a los habitantes, propietarios y detentadores de los predios en ella incluidos, a las demás dependencias competentes, Gobiernos Municipales, así como organizaciones sociales, públicas o privadas, y demás personas interesadas.
 
 ###### ARTÍCULO 77.
 
@@ -1547,7 +1569,7 @@ Las fuentes fijas y móviles, directas e indirectas de contaminantes de cualquie
 
 La medición de las emisiones contaminantes se realizará conforme los procedimientos de muestreo y cuantificación establecidos en las Normas Oficiales Mexicanas y demás disposiciones aplicables.
 
-> <small>(ADICIONADO CON LOS ARÍICULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
 
 ### CAPÍTULO I BIS. DEL REGISTRO ESTATAL DE EMISIONES Y TRANSFERENCIA DE CONTAMINANTES
 
@@ -1565,27 +1587,19 @@ Los responsables de establecimientos industriales, comerciales y de servicios, d
 
 > <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
 
-###### ARTÍCULO 111 Quater.
-
-El Registro Estatal, tendrá como objetivo integrar un Sistema de Información de las Fuentes de Contaminación Ambiental en el Estado, el cual se conformará con datos desagregados por sustancia y por fuente, anexando nombre y dirección de los establecimientos sujetos a registro, mismo que servirá para motivar e instrumentar las políticas públicas adecuadas en la prevención y protección del medio ambiente y los recursos naturales.
+ARTÍCULO 111 QUATER.- El Registro Estatal, tendrá como objetivo integrar un Sistema de Información de las Fuentes de Contaminación Ambiental en el Estado, el cual se conformará con datos desagregados por sustancia y por fuente, anexando nombre y dirección de los establecimientos sujetos a registro, mismo que servirá para motivar e instrumentar las políticas públicas adecuadas en la prevención y protección del medio ambiente y los recursos naturales.
 
 > <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
 
-###### ARTÍCULO 111 Quinquies.
-
-La Secretaría colaborará con los Municipios que así lo soliciten, para integrar su Registro Municipal, previa celebración del convenio correspondiente.
+ARTÍCULO 111 QUINQUIES.- La Secretaría colaborará con los Municipios que así lo soliciten, para integrar su Registro Municipal, previa celebración del convenio correspondiente.
 
 > <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
 
-###### ARTÍCULO 111 Sexies.
-
-Los Municipios, presentarán de forma anual ante la Secretaría, los datos e informes relativos a su Registro Municipal, previo acuerdo que formalicen las partes y de conformidad con la normatividad aplicable.
+ARTÍCULO 111 SEXIES.- Los Municipios, presentarán de forma anual ante la Secretaría, los datos e informes relativos a su Registro Municipal, previo acuerdo que formalicen las partes y de conformidad con la normatividad aplicable.
 
 > <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
 
-###### ARTÍCULO 111 Septies.
-
-La Secretaría recabará e integrará la información de los Registros Municipales de Emisiones y Transferencia de Contaminantes al Registro Estatal, la que pasará a formar parte del Subsistema Estatal de Información Ambiental.
+ARTÍCULO 111 SEPTIES.- La Secretaría recabará e integrará la información de los Registros Municipales de Emisiones y Transferencia de Contaminantes al Registro Estatal, la que pasará a formar parte del Subsistema Estatal de Información Ambiental.
 
 La información contenida en el Subsistema Estatal de Información Ambiental, será presentada por la Secretaría a la Dependencia o Entidad de la Administración Pública Federal que corresponda, previa formalización del convenio respectivo, a fin de que se incorpore al Registro Nacional de Emisiones y Transferencia de Contaminantes y al Sistema Nacional de Información Ambiental y Recursos Naturales.
 
@@ -1593,15 +1607,11 @@ La información que conforme el Registro Estatal será pública, de conformidad 
 
 > <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
 
-###### ARTÍCULO 111 Octies.
-
-Las Dependencias y Entidades de la Administración Pública Estatal, que realicen actividades que incidan en la regulación de contaminantes del aire, agua y suelo, materiales o residuos, deberán presentar de forma anual ante la Secretaría, los informes, datos y registros de cada una de las industrias que emitan contaminación en las áreas de su competencia.
+ARTÍCULO 111 OCTIES.- Las Dependencias y Entidades de la Administración Pública Estatal, que realicen actividades que incidan en la regulación de contaminantes del aire, agua y suelo, materiales o residuos, deberán presentar de forma anual ante la Secretaría, los informes, datos y registros de cada una de las industrias que emitan contaminación en las áreas de su competencia.
 
 > <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
 
-###### ARTÍCULO 111 Nonies.
-
-La Secretaría podrá celebrar convenios de colaboración, coordinación o concertación con Dependencias o Entidades de la Administración Pública Federal, cuyas actividades incidan en la regulación de contaminantes al aire, agua y suelo, materiales o residuos de su competencia, a efecto de compartir la información contenida en el Registro Estatal, homologar la integración de sus bases de datos y todo lo relativo a la operación del Registro.
+ARTÍCULO 111 NONIES.- La Secretaría podrá celebrar convenios de colaboración, coordinación o concertación con Dependencias o Entidades de la Administración Pública Federal, cuyas actividades incidan en la regulación de contaminantes al aire, agua y suelo, materiales o residuos de su competencia, a efecto de compartir la información contenida en el Registro Estatal, homologar la integración de sus bases de datos y todo lo relativo a la operación del Registro.
 
 ### CAPÍTULO II. DE LA PROTECCIÓN A LA ATMÓSFERA
 
@@ -2187,9 +2197,9 @@ En caso de reincidencia, el monto de la multa podrá ser hasta por dos veces al 
 
 Se considera que existe reincidencia cuando, se incurre en la misma infracción en el periodo de un mismo año.
 
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE AGOSTO DE 2012)</small>
 
-Las multas que se impongan, se constituirán en crédito fiscal a favor del erario estatal, y se harán efectivas por la Secretaría de Finanzas y Administración, mediante el procedimiento administrativo de ejecución que establece el Código Fiscal del Estado.
+Las multas que se impongan se constituirán en crédito fiscal a favor del erario estatal, y se harán efectivas por la Secretaría de Finanzas, mediante el procedimiento administrativo de ejecución que establece el Código Fiscal del Estado.
 
 ###### ARTÍCULO 180.
 
@@ -2279,7 +2289,9 @@ II.- No se siga perjuicio al interés social o se contravengan disposiciones de 
 
 III.- Tratándose de multas, que el recurrente garantice el crédito fiscal en cualquiera de las formas prevista en el Código Fiscal del Estado; y
 
-IV.- En los casos en que resulte procedente la suspensión del acto que se reclama, pero con ella se puedan ocasionar daños o perjuicios a terceros, la misma surtirá sus efectos, si el recurrente otorga fianza bastante a favor del Gobierno del Estado, a través de la Secretaría de Finanzas y Desarrollo Social para reparar el daño e indemnizar los perjuicios que con ella se causaren, si no obtiene resolución favorable, contando la Secretaría con facultad discrecional para fijar el monto de esa garantía a otorgar.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2012)</small>
+
+IV.- En los casos en que resulte procedente la suspensión del acto que se reclama, pero con ella se puedan ocasionar daños o perjuicios a terceros, la misma surtirá sus efectos, si el recurrente otorga fianza bastante a favor del Gobierno del Estado, a través de la Secretaría de Finanzas para reparar el daño a indemnizar los perjuicios que con ella se causaren, si no obtiene resolución favorable, contando la Secretaría con facultad discrecional para fijar el monto de esa garantía a otorgar.
 
 La Autoridad deberá acordar, en su caso, la suspensión o la denegación de la suspensión dentro de los cinco días hábiles siguientes a su interposición, en cuyo defecto se entenderá otorgada la suspensión.
 
@@ -2448,3 +2460,9 @@ PRIMERO.- El Presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- La Secretaría de Sustentabilidad Ambiental y Ordenamiento Territorial, en ejercicio de sus facultades y de existir alguna otra disposición legal en algún otro marco normativo que mencione a la Secretaría de Medio Ambiente y Recursos Naturales, podrá formular el proyecto de reforma de leyes, reglamentos, decretos, convenios, acuerdos, mismos que deberá remitir a la Secretaría de Servicios Legales y Defensoría Pública, para su estudio y análisis, en términos de la legislación aplicable en la materia.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE AGOSTO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
