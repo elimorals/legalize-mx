@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "2012-02-08"
+last_updated: "2012-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2012.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el martes 2 de octubre de 1917.
 
@@ -265,7 +265,9 @@ Los casos de exención de sanciones, en favor de quienes ignoren las leyes, se e
 
 Las mujeres y los hombres son iguales ante la Ley. En el Estado de Puebla se reconoce el valor de la igualdad radicado en el respeto a las diferencias y a la libertad.
 
-Queda prohibida toda acción tendiente al menoscabo de los derechos humanos, en razón de discriminación por raza, origen étnico o nacional, género, edad, discapacidad, condición social o económica, condiciones de salud, preferencias, filiación, instrucción y nivel cultural, apariencia física, estado civil, creencia religiosa, ideología política, opiniones expresadas o cualquier otra que atente contra la dignidad, la libertad o la igualdad.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2012)</small>
+
+Queda prohibida toda acción tendiente al menoscabo de los derechos humanos, en razón de discriminación por raza, origen étnico o nacional, genero, edad, discapacidad, condición social o económica, condiciones de salud, preferencias sexuales, filiación, instrucción y nivel cultural, apariencia física, estado civil, creencia religiosa, ideología política, opiniones expresadas, o cualquier otra que atente contra la dignidad, la libertad o la igualdad.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -397,7 +399,9 @@ El Estado ejercitará, en beneficio de los habitantes del territorio poblano, la
 
 Además de las obligaciones que las leyes les impongan, los habitantes del Estado, sin distinción alguna, deben:
 
-I.- Recibir la educación básica en la forma prevista por las leyes y conforme a los reglamentos y programas que expida el Gobernador;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2012)</small>
+
+I.- Recibir la educación básica y media superior en la forma prevista por las leyes y conforme a los reglamentos y programas que expida el Gobernador;
 
 II.- Contribuir para todos los gastos públicos de la manera proporcional y equitativa que dispongan las leyes;
 
@@ -1965,11 +1969,13 @@ Para la conservación de la tranquilidad y orden públicos en el Estado, se orga
 
 ### CAPITULO IV. DE LA EDUCACION PUBLICA
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 118.
 
-Es obligación del Estado impartir y fomentar la educación pública en todos sus grados, de acuerdo a las circunstancias del erario y de conformidad con las necesidades de los habitantes. La educación preescolar, primaria y secundaria son obligatorias.
+Es obligación del Estado impartir y fomentar la educación pública en todos sus tipos y modalidades educativos, de acuerdo a las circunstancias del erario y de conformidad con las necesidades de los habitantes. La educación preescolar, primaria, secundaria y media superior son obligatorias.
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2007)</small>
 
 La educación que se imparta en el Estado de Puebla, formará a los alumnos para que su vida se oriente por los principios y valores fundamentales del ser humano, fomentando en ellos, una cultura cívica y de la paz; esta será gratuita y se sujetará estrictamente a lo dispuesto por el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos y sus Leyes Reglamentarias.
 
@@ -2898,6 +2904,26 @@ SÉPTIMO.- El Consejero Presidente y los Consejeros Electorales que sean designa
 OCTAVO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 8 DE FEBRERO DE 2012.
+
+PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas han sido aprobadas en términos de las disposiciones constitucionales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+SEGUNDO.- El Presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE AGOSTO DE 2012.
+
+DECLARATORIA DEL DECRETO POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 11 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+
+PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que esta reforma ha sido aprobada en términos de las disposiciones constitucionales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+SEGUNDO.- El Presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE AGOSTO DE 2012.
+
+DECLARATORIA DEL DECRETO QUE REFORMA LA FRACCIÓN I DEL ARTÍCULO 17 Y EL PRIMER PÁRRAFO DEL 118 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
 PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas han sido aprobadas en términos de las disposiciones constitucionales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
 
