@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-educacion-media-y-superior-del-estado-libre-y-12016"
 country: "mx"
 rank: "ley"
 publication_date: "1974-09-17"
-last_updated: "1977-04-15"
+last_updated: "2012-08-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12016&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY DE EDUCACION MEDIA Y SUPERIOR DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-LEY DE EDUCACION MEDIA Y SUPERIOR DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
+LEY DE EDUCACIÓN MEDIA Y SUPERIOR DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ABRIL DE 1977.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE EDUCACIÓN SUPERIOR DEL ESTADO DE PUEBLA, PUBLICADA EN EL P.O. DE 29 DE AGOSTO DE 2012, SE DEROGA LA PARTE CORRESPONDIENTE A EDUCACIÓN SUPERIOR DE LA LEY DE EDUCACIÓN MEDIA Y SUPERIOR DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2012.
 
 Ley Publicada en el Suplemento Número 1 del Periódico Oficial del Estado de Puebla, el martes 17 de septiembre de 1974.
 
@@ -191,8 +193,20 @@ EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Pala
 
 Por tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo en la Heroica Puebla de Zaragoza, a los diecisiete días del mes de Septiembre de mil novecientos setenta y cuatro.- El Gobernador del Estado, Guillermo Morales Blúmenkron.- Rúbrica.- El Secretario General de Gobierno, Lic. Eduardo Langle Martínez.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 15 DE ABRIL DE 1977.
 
 UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE AGOSTO DE 2012.
+
+PRIMERO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se deroga la parte correspondiente a Educación Superior de la Ley de Educación Media y Superior del Estado Libre y Soberano de Puebla, publicada en el Periódico Oficial del Estado el diecisiete de septiembre de mil novecientos setenta y cuatro.
+
+TERCERO.- Se derogan las demás disposiciones que se opongan a la presente Ley.
+
+CUARTO.- La Autoridad Educativa, en un plazo no mayor de treinta días contados a partir de la entrada en vigor de la presente Ley, deberá expedir el Reglamento de Funcionamiento de la COEPES.
+
+QUINTO.- Los trámites pendientes de resolución, a la entrada en vigor de esta Ley, se resolverán conforme a las disposiciones aplicables al momento de inicio del trámite ante la Autoridad Educativa.
