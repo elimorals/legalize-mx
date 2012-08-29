@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-desarrollo-economico-sustentable-del-estado-libre-y-6140
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-04"
-last_updated: "2008-06-04"
+last_updated: "2012-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61408&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE DESARROLLO ECONOMICO SUSTENTABLE DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 4 de junio de 2008.
 
@@ -301,9 +301,13 @@ VI. Que sean empresas pertenecientes a los sectores económicos que la Secretar�
 
 VII. Que la inversión se destine a proyectos productivos en las regiones, municipios y comunidades menos desarrollados del Estado;
 
-VIII. Que sean empresas que realicen reinversiones en el Estado de Morelos; y
+VIII. Que sean empresas que realicen reinversiones en el Estado de Morelos; y (sic)
 
-IX Que el desarrollo y/u operación del proyecto esté a cargo de comunidades indígenas o mujeres de escasos recursos.
+IX. Que el desarrollo y/u operación del proyecto esté a cargo de comunidades indígenas o mujeres de escasos recursos.
+
+> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2012)</small>
+
+X. Que el desarrollo y/u operación del proyecto esté a cargo de jóvenes emprendedores.
 
 ### CAPÍTULO SEGUNDO. DE LOS INCENTIVOS FISCALES Y TRIBUTARIOS
 
@@ -333,7 +337,7 @@ Para la aplicación de una tasa preferencial, se deberá acreditar una relación
 
 Lo anterior, tendrá aplicación en cuanto a los derechos de inscripción en el Registro Público de la Propiedad y el Comercio del Estado de Morelos, de actas constitutivas y de contratos destinados estrictamente a la actividad productiva, entre otros de naturaleza similar.
 
-La persona titular del Poder Ejecutivo del Estado, a propuesta de la CREDE, establecerá la tasa preferencial, la cual deberá ser publicada en el Periódico Oficial “Tierra y Libertad” órgano de difusión del Gobierno del Estado, para su entrada en vigor.
+La persona titular del Poder Ejecutivo del Estado, a propuesta de la CREDE, establecerá la tasa preferencial, la cual deberá ser publicada en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado, para su entrada en vigor.
 
 ###### Artículo 23.
 
@@ -375,7 +379,9 @@ VI. Programas de promoción a las exportaciones;
 
 VII. Programas de fomento a MIPYMES; y
 
-VIII. Programas de fomento al Emprendedor.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2012)</small>
+
+VIII. Programas de Fomento al Emprendedor y al Joven emprendedor.
 
 ###### Artículo 26.
 
@@ -584,3 +590,15 @@ SECRETARIO DE GOBIERNO
 LIC. SERGIO ALVAREZ MATA
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE AGOSTO DE 2012.
+
+PRIMERO.- La presente Ley entrará en vigor a partir del día siguiente de su publicación en el periódico Oficial del Estado. En la misma fecha entrará en vigor la reforma a la Ley de Desarrollo Económico del Estado de Morelos.
+
+SEGUNDO.- El ejecutivo del Estado, en ejercicio de la facultad contenida en el artículo 9 del Presupuesto de Egresos del Gobierno del Estado de Morelos, para el ejercicio fiscal del año 2012, podrá realizar las transferencias necesarias para el cumplimiento de los objetivos de la presente Ley, en un plazo de 60 días, contados a partir de la entrada en vigor de este ordenamiento.
+
+TERCERO.- El Ejecutivo del Estado deberá contemplar en el presupuesto correspondiente al ejercicio fiscal 2013, una partida especial para dar cumplimiento a los objetivos de esta Ley.
+
+CUARTO.- El Ejecutivo del Estado deberá publicar el Reglamento de esta Ley, en el que establezca las directrices para la aplicación del Fondo de Promoción e Impulso al Joven Emprendedor, en 30 días, contados a partir de la publicación de la presente Ley.
