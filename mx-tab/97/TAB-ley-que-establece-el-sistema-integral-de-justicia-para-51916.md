@@ -4,7 +4,7 @@ identifier: "TAB-ley-que-establece-el-sistema-integral-de-justicia-para-51916"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-12"
-last_updated: "2006-09-12"
+last_updated: "2012-08-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51916&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 LEY QUE ESTABLECE EL SISTEMA INTEGRAL DE JUSTICIA PARA ADOLESCENTES EN EL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE TABASCO, PUBLICADA EN EL P.O. DE 29 DE AGOSTO DE 2012, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2012 (ABROGADA).
 
 Ley publicada en el Extraordinario número 18 del Periódico Oficial del Estado de Tabasco, el martes 12 de septiembre de 2006.
 
@@ -2766,3 +2768,35 @@ GOBERNADOR DEL ESTADO DE TABASCO.
 LIC. JUAN CARLOS CASTILLEJOS CASTILLEJOS
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE AGOSTO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día 28 de septiembre de 2012.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley que establece el Sistema Integral de Justicia para Adolescentes en el Estado de Tabasco publicada en el Periódico Oficial extraordinario 18 de fecha 12 de septiembre de 2006.
+
+###### ARTÍCULO TERCERO.
+
+Los procesos que se encuentren radicados ante los órganos jurisdiccionales y de procuración de justicia, se sujetarán, hasta su conclusión definitiva, a las disposiciones de la Ley que establece el Sistema Integral de Justicia para Adolescentes en el Estado de Tabasco publicada en el Periódico Oficial extraordinario 18 de fecha 12 de septiembre de 2006.
+
+###### ARTÍCULO CUARTO.
+
+No procederá la acumulación de procedimientos sobre hechos delictuosos, cuando alguno de ellos esté sometido a la presente Ley de Justicia para Adolescentes del Estado de Tabasco y otro a la Ley que establece el Sistema Integral de Justicia para Adolescentes en el Estado de Tabasco vigente hasta antes de la entrada en vigor del presente Decreto, debiendo juzgarse cada uno de ellos conforme a la norma vigente en la fecha de comisión del hecho.
+
+###### ARTÍCULO QUINTO.
+
+Los Juzgados y Tribunales Especializados del Estado, serán competentes de manera concurrente en los casos de conductas típicas federales, en tanto se aprueba la legislación federal correspondiente.
+
+###### ARTÍCULO SEXTO.
+
+El Poder Ejecutivo del Estado contará con un plazo de 100 días hábiles contados a partir de la entrada en vigor del presente Decreto para elaborar el Programa estatal preventivo de delincuencia juvenil previsto en el Capítulo X de esta Ley.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los Municipios contarán con un plazo de 150 días hábiles contados a partir de la entrada en vigor del presente Decreto para elaborar los Programas municipales preventivos de delincuencia juvenil, previstos en el Capítulo X de esta Ley.
