@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2012-08-24"
+last_updated: "2012-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE AGOSTO DE 2012.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -3217,6 +3217,8 @@ III. Cuando exista orden judicial escrita, salvo las excepciones que contemplen 
 
 ### CAPITULO PRIMERO. Disposiciones generales
 
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 3.
 
 38.- Los profesionistas de una misma rama podrán constituir en el Estado de México colegios, entendiéndose por éstos a las asociaciones de profesionistas que obtengan su registro ante la Secretaría de Educación, Cultura y Bienestar Social.
@@ -3272,6 +3274,8 @@ XIII. Cumplir con lo establecido en el presente Título y la reglamentación que
 43.- Los colegios de profesionistas serán ajenos a toda actividad de carácter político partidista y religioso.
 
 ### CAPITULO SEGUNDO. De la Presea "Estado de México"
+
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 3.
 
@@ -3593,9 +3597,9 @@ Los ingresos del Instituto, así como los productos e instrumentos financieros a
 
 ###### Artículo 3.
 
-61.- Son reconocimientos públicos que otorga el Estado:
+61.- Son reconocimientos públicos que otorga el Estado a favor de los mexiquenses:
 
-I. Presea "Estado de México", que se crea en favor de los mexiquenses, en las modalidades y denominaciones siguientes:
+I. Presea "Estado de México", en las modalidades y denominaciones siguientes:
 
 a) De ciencias "José Antonio Alzate";
 
@@ -3623,17 +3627,15 @@ l) Al impulso económico "Filiberto Gómez";
 
 m) Al mérito en la preservación del ambiente "José Mariano Mociño Suárez Lozada";
 
-n) "José María Luis Mora", que se entregará a quienes, sin ser mexiquenses, reúnan los requisitos previstos en el reglamento.
+n) A quienes sin ser mexiquenses tengan méritos o hayan prestado servicios eminentes "José María Luis Mora";
 
-> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2003)</small>
+ñ) A residentes en el extranjero "José María Heredia y Heredia";
 
-ñ) A residentes en el extranjero "José María Heredia y Heredia".
+o) A la defensa de los derechos humanos "José María Morelos y Pavón";
 
-II. Los especiales "León Guzmán" que, a propuesta de personas físicas o morales, o a juicio del Gobernador del Estado, se podrán conceder, en cualquier tiempo, a las personas con un mérito civil relevante. Estos reconocimientos podrán otorgarse post-mortem;
+p) Al fortalecimiento de las instituciones públicas "León Guzmán".
 
-> <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
-
-III. La inhumación en la Rotonda de las Personas Ilustres del Estado de México.
+II. Inhumación en la Rotonda de las Personas Ilustres del Estado de México.
 
 ###### Artículo 3.
 
@@ -3641,7 +3643,7 @@ III. La inhumación en la Rotonda de las Personas Ilustres del Estado de México
 
 ###### Artículo 3.
 
-63.- La Presea "Estado de México" también podrá concederse post-mortem a quienes, teniendo merecimientos para ello, hayan fallecido en el año inmediato anterior al de la premiación.
+63.- La Presea "Estado de México" también podrá concederse post mortem.
 
 ### CAPITULO PRIMERO. Del objeto y finalidad
 
@@ -11579,7 +11581,7 @@ Las infracciones previstas en las fracciones I, III, V, VI y VII o la reincidenc
 
 ###### Artículo 14.
 
-58.- Son infracciones a cargo de los informante:
+58.- Son infracciones a cargo de los informantes:
 
 I. Negar u omitir la entrega de datos, informes o documentos, dentro del plazo que les fuere fijado por este Libro o su Reglamento;
 
@@ -16174,3 +16176,9 @@ TERCERO.- Se derogan las disposiciones contrarias al presente Decreto.
 CUARTO.- El Ejecutivo del Estado y los Ayuntamientos realizarán las reformas necesarias en las disposiciones reglamentarias correspondientes en un plazo de 30 días hábiles contados a partir de la entrada en vigor del presente Decreto.
 
 QUINTO.- En tanto se expiden los Reglamentos se aplicarán las disposiciones reglamentarias que se encuentren vigentes.
+
+G.G. 29 DE AGOSTO DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
