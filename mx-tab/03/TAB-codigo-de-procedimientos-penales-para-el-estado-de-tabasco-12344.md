@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-procedimientos-penales-para-el-estado-de-tabasco-1234
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-22"
-last_updated: "2011-09-28"
+last_updated: "2012-08-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12344&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO, SEGUNDO, TERCERO Y CUARTO TRANSITORIO DEL DECRETO NÚMERO 206, PUBLICADO EN EL SUPLEMENTO 7302 C DEL P.O. DE 29 DE AGOSTO DE 2012, EL PRESENTE CÓDIGO SE SEGUIRÁ APLICANDO EN LOS MUNICIPIOS DEL ESTADO EN LOS QUE NO HAYA ENTRADO EN VIGOR EL CÓDIGO PROCESAL PENAL ACUSATORIO PARA EL ESTADO DE TABASCO CONFORME A LOS TIEMPOS QUE SE SEÑALAN EN EL ARTÍCULO SEGUNDO TRANSITORIO Y EN LOS MUNICIPIOS DEL ESTADO, EN LOS QUE HABIENDO ENTRADO EN VIGOR EL CÓDIGO PROCESAL PENAL ACUSATORIO PARA EL ESTADO DE TABASCO, SE TRATE DE HECHOS DELICTIVOS Y PROCEDIMIENTOS PENALES, COMETIDOS O INICIADOS CON ANTERIORIDAD A ESE MOMENTO. LA INCORPORACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO EN EL ESTADO DE TABASCO SERÁ GRADUAL Y POR REGIONES.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Tabasco, el 22 de febrero de 1997.
 
@@ -2246,3 +2248,37 @@ P.O. 28 DE SEPTIEMBRE DE 2011.
 PRIMERO.- El presente decreto entrará en vigor a los 30 días naturales contados a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Los delitos que se hubieren cometido con anterioridad con la entrada en vigor del presente Decreto, se sancionarán conforme a las disposiciones normativas vigentes al momento de su comisión.
+
+P.O. 29 DE AGOSTO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Código Procesal Penal Acusatorio para el Estado de Tabasco entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, en la forma y fechas dispuestas en los artículos siguientes.
+
+###### ARTÍCULO SEGUNDO.
+
+La incorporación del sistema Procesal Penal Acusatorio en el Estado de Tabasco será gradual y por regiones; en consecuencia, la vigencia y aplicación será de la forma siguiente:
+
+En la Región 1. El municipio de Macuspana el 28 de septiembre del 2012. Región 2. El municipio de Cunduacan el 9 de diciembre del 2013 Región 3. Los municipios de Jalapa, Tacotalpa y Teapa 11 de agosto del 2014. Región 4. Los municipios de Tenosique, Balancan, Emiliano Zapata y Jonuta 8 de diciembre del 2014. Región 5. Los municipios de Paraíso y Centla el 24 de agosto de 2015. Región 6. Los municipios de Nacajuca, Jalpa de Méndez y Comalcalco el 24 de agosto del 2015. Región 7. Los municipios de Huimanguillo y Cárdenas el 7 de diciembre del 2015. Región 8. El municipio de Centro el 7 de marzo del 2016.
+
+###### ARTÍCULO TERCERO.
+
+Las disposiciones de este Código aplicarán para los hechos que ocurran a partir de las cero horas en las fechas y regiones señaladas, en donde de manera gradual entrará en vigor el sistema, de acuerdo a lo dispuesto en el Artículo Segundo Transitorio del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+El Código de Procedimientos Penales para el Estado de Tabasco publicado en el Periódico Oficial del Estado número 5683 de fecha 22 de febrero de 1997 se seguirá aplicando:
+
+I. En los Municipios del Estado en los que no haya entrado en vigor el presente Código conforme a los tiempos que se señalan en el Articulo Segundo Transitorio;
+
+II. En los Municipios del Estado, en los que habiendo entrado en vigor el presente Código, se trate de hechos delictivos y procedimientos penales, cometidos o iniciados con anterioridad a ese momento.
+
+###### ARTÍCULO QUINTO.
+
+No procederá la acumulación de procesos sobre hechos delictuosos, cuando alguno de ellos esté sometido al presente Código Procesal Penal Acusatorio y otro al Código de Procedimientos Penales Para el Estado de Tabasco vigente hasta antes de la entrada en vigor del presente Decreto, debiendo tramitarse cada uno de ellos conforme a la norma procesal vigente en la fecha de comisión del hecho.
+
+###### ARTÍCULO SEXTO.
+
+En el Presupuesto General de Egresos 2013 se crearan las partidas presupuestales para proveer lo conducente y necesario en la asignación de recursos presupuestales en favor de las instancias que deben operar el nuevo Sistema de Justicia Penal, a fin de que cuenten con los recursos humanos, materiales y financieros necesarios para dar cumplimiento a este Decreto, así como para la infraestructura, capacitación y difusión.
+
+De igual manera, los Presupuestos Generales de Egresos de los años subsiguientes, deberán establecer las partidas presupuestales necesarias según los requerimientos de este ordenamiento.
