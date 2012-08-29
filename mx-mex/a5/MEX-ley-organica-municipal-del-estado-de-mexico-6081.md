@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2012-08-24"
+last_updated: "2012-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE AGOSTO DE 2012.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -481,17 +481,21 @@ Dentro de los primeros tres días hábiles del mes de diciembre de cada año, el
 
 Dicho informe se publicará en la Gaceta Municipal y en los estrados de la Secretaría del Ayuntamiento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 18.
 
-El día 31 de diciembre del último año de la gestión del ayuntamiento, en reunión solemne, deberán presentarse los ciudadanos que, en términos de ley, resultaron electos para ocupar los cargos de presidente municipal, síndico o síndicos y regidores.
+Una vez rendidos los informes de los ayuntamientos en funciones, previa convocatoria a sesión solemne, deberán presentarse los ciudadanos que en términos de ley resultaron electos para rendir protesta y ocupar los cargos de presidente municipal, síndico o síndicos y regidores, sin que dicho plazo exceda el mes de diciembre del último año de la gestión del ayuntamiento saliente.
 
 La reunión tendrá por objeto:
 
 I. Que los miembros del ayuntamiento entrante, rindan la protesta en términos de lo dispuesto por el artículo 144 de la Constitución Política del Estado Libre y Soberano de México. El presidente municipal electo para el período siguiente lo hará ante el representante designado por el Ejecutivo del Estado y a su vez, hará de inmediato lo propio con los demás miembros del ayuntamiento electo;
 
 II. Que los habitantes del municipio conozcan los lineamientos generales del plan y programas de trabajo del ayuntamiento entrante, que será presentado por el presidente municipal.
+
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2012)</small>
+
+El Ayuntamiento brindará las facilidades necesarias a fin de que se lleve a cabo la toma de protesta.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE AGOSTO DE 2011)</small>
 
@@ -691,7 +695,7 @@ XX. Autorizar la contratación de empréstitos, en términos de la Ley de Deuda 
 
 XXI. Formular, aprobar y ejecutar los planes de desarrollo municipal y los Programas correspondientes;
 
-(ADICIONADA, G.G. 3 DE SEPTIEMBRE DE 2010) (F. DE E., G.G. 1 DE OCTUBRE DE 2010)
+(ADICIONADA, G.G. 3 DE SEPTIEMBRE DE 2010) (F. DE E.,G.G. 1 DE OCTUBRE DE 2010)
 
 XXI Bis. Promover políticas públicas apoyadas en sistemas de financiamiento, cooperación y coordinación, que procuren el acceso a las tecnologías de la información y comunicación, específicamente servicios de acceso a internet, como un servicio gratuito, considerando para ello las características socioeconómicas de la población.
 
@@ -3566,3 +3570,11 @@ DECRETO NÚMERO 502 POR EL QUE SE ADICIONA EL ARTÍCULO TERCERO TRANSITORIO AL D
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 29 DE AGOSTO DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía, que se opongan a lo dispuesto por el presente Decreto.
