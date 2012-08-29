@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2012-07-28"
+last_updated: "2012-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2012.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -639,9 +639,9 @@ VI.- Copia certificada de la dispensa de impedimento si lo hubo; y
 
 VII.- Constancia expedida por institución médica oficial o privada en que se acredite haber recibido orientación sobre planificación familiar;
 
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2012)</small>
 
-VIII.- Constancia expedida por la Oficina del Registro Civil, en la que se acredita el haber recibido orientación, respecto de los derechos y obligaciones que nacen del matrimonio, así como de las sanciones a que se hacen acreedores los cónyuges en los casos de la comisión de delitos contra la Familia, haciendo especial énfasis en proporcionar información y orientación para prevenir la violencia familiar.
+VIII.- Constancia expedida por la Oficina del Registro Civil, en la que se acredita el haber recibido orientación, respecto de los derechos y obligaciones que nacen del matrimonio, y sobre los temas de equidad de género, educación en valores, responsabilidad social, cultura de la legalidad y convivencia familiar; así como de las sanciones a que se hacen acreedores los cónyuges en los casos de la comisión de delitos contra la Familia, haciendo especial énfasis en proporcionar información y orientación para prevenir la violencia familiar.
 
 > <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2007)</small>
 
@@ -12818,3 +12818,9 @@ El Supremo Tribunal de Justicia del Estado, realizará las adecuaciones necesari
 ###### ARTÍCULO TERCERO.
 
 El Ejecutivo del Estado, realizará las acciones necesarias, dentro del ámbito de su competencia, para garantizar el registro de los menores de acuerdo a su identidad.
+
+P.O. 29 DE AGOSTO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
