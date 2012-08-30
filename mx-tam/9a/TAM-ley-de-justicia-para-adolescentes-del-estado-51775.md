@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-justicia-para-adolescentes-del-estado-51775"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-12"
-last_updated: "2011-05-31"
+last_updated: "2012-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 12 de septiembre de 2006.
 
@@ -393,7 +393,9 @@ II.- Cerciorarse que no se haya coaccionado ni inducido por medios desleales a l
 
 ###### Artículo 48.
 
-1. El Agente del Ministerio Público o el Juez convocarán a una audiencia y deberán solicitar el asesoramiento y el auxilio de la Institución Estatal de Mediación para procurar acuerdos reparatorios entre las partes en conflicto o, cuando los interesados así lo dispongan, harán la designación de un facilitador certificado.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+1. El Agente del Ministerio Público o el Juez convocarán a una audiencia y deberán solicitar el asesoramiento y el auxilio de los Centros de Mediación de la Procuraduría General de Justicia del Estado para procurar acuerdos reparatorios entre las partes en conflicto o, cuando los interesados así lo dispongan, harán la designación de un facilitador certificado.
 
 2. Los facilitadores deberán guardar secreto sobre lo que conozcan en las deliberaciones y discusiones de las partes. La información que se genere en los procedimientos respectivos no podrá ser utilizada en perjuicio de las partes.
 
@@ -1573,7 +1575,7 @@ IV. Las demás que le confieran las leyes y reglamentos.
 
 1. Cada Centro de Reintegración Social y Familiar para Adolescentes estará a cargo de un Subdirector, designado por el Secretario de Seguridad Pública, previo acuerdo del Ejecutivo del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2011)</small>
 
 2. El Subdirector del Centro es el responsable de ordenar y coordinar a su personal y tiene las atribuciones siguientes:
 
@@ -1921,7 +1923,7 @@ Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estad
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNANDEZ FLORES.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTINEZ TORRES.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 27 DE DICIEMBRE DE 2007.
 
@@ -1938,3 +1940,31 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Los asuntos iniciados con las disposiciones que mediante el presente Decreto, fueron reformados o adicionados, deberán concluirse por la autoridad administrativa, con el procedimiento mediante el cual fueron iniciados, salvo las cuestiones que, a petición de parte, antes resolvía el juez de la causa, que ahora corresponderá conocer al Juez de Ejecución de Medidas.
+
+P.O. 30 DE AGOSTO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las Secretarías General de Gobierno, de Finanzas, de Administración y del Trabajo y Asuntos Jurídicos, así como la Contraloría Gubernamental, coordinarán las acciones necesarias para el cumplimiento del presente Decreto, gozando al efecto de las atribuciones necesarias para su estricta aplicación.
+
+###### ARTÍCULO TERCERO.
+
+Los recursos financieros y materiales, así como los bienes inmuebles adscritos al servicio del Instituto de Mediación del Estado de Tamaulipas, que con motivo de la expedición del presente Decreto se extingue, se transferirán a la Secretaría del Trabajo y Asuntos Jurídicos.
+
+###### ARTÍCULO CUARTO.
+
+El personal de nivel jerárquico menor a Jefe de Departamento asignado al Instituto de Mediación del Estado de Tamaulipas, será asignado a la Secretaría del Trabajo y Asuntos Jurídicos, conforme a la naturaleza de las funciones que venían realizando, según lo acuerde el titular de esta dependencia con la intervención de la Secretaría de Administración y de la Contraloría Gubernamental.
+
+Las acciones relativas al cambio de adscripción o reasignación del personal señalado en el párrafo anterior, se ejecutarán sin afectar sus derechos y prestaciones derivadas de la relación de trabajo que tuvieran anteriormente.
+
+###### ARTÍCULO QUINTO.
+
+El personal de nivel jerárquico de Jefe de Departamento y superiores, será dado de baja a partir de la entrada en vigor del presente Decreto, respetando sus derechos laborales y deberán ser indemnizados conforme a la ley de la materia.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan todas aquellas disposiciones que se opongan el (sic) presente Decreto.
