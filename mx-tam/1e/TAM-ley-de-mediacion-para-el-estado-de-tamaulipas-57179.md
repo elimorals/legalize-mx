@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-mediacion-para-el-estado-de-tamaulipas-57179"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-21"
-last_updated: "2010-03-18"
+last_updated: "2012-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57179&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY DE MEDIACION PARA EL ESTADO DE TAMAULIPAS
 
-LEY DE MEDIACION PARA EL ESTADO DE TAMAULIPAS
+LEY DE MEDIACIÓN PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MARZO DE 2010.
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO No. LXI-496, PUBLICADO EN EL P.O. 30 DE AGOSTO DE 2012, LOS RECURSOS FINANCIEROS Y MATERIALES, ASÍ COMO LOS BIENES INMUEBLES ADSCRITOS AL SERVICIO DEL INSTITUTO DE MEDIACIÓN DEL ESTADO DE TAMAULIPAS, QUE CON MOTIVO DE LA EXPEDICIÓN DEL PRESENTE DECRETO SE EXTINGUE, SE TRANSFERIRÁN A LA SECRETARÍA DEL TRABAJO Y ASUNTOS JURÍDICOS.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 21 de agosto de 2007.
 
@@ -49,7 +51,9 @@ Se expide la Ley de Mediación para el Estado de Tamaulipas, conforme al texto s
 
 1. La presente ley es de orden público, interés social y de observancia general en el Estado.
 
-2. Su objeto es regular la aplicación de la mediación y la conciliación como procedimientos alternativos al juicio para solucionar conflictos interpersonales de manera pronta y con base en la autocomposición de las partes.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+2. Su objeto es regular la aplicación de la mediación y la conciliación como procedimientos alternativos para solucionar conflictos interpersonales de manera pronta y con base en la autocomposición de las partes.
 
 ###### ARTÍCULO 2.
 
@@ -59,19 +63,29 @@ El Ejecutivo promoverá la mediación en todos los ámbitos de la vida social, m
 
 Para los efectos de la presente ley, se entenderá por:
 
-I.- Centro de Mediación Judicial: El órgano auxiliar del Poder Judicial del Estado a cargo de la función conciliadora;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+I.- Centro de Mediación Judicial: El órgano auxiliar del Poder Judicial del Estado a cargo de realizar procedimientos de mediación y conciliación;
 
 II.- Centro de Mediación Privado: La persona física o moral integrada por personas ajenas al servicio público, que presten servicios de mediación gratuita o mediante el pago de honorarios con el reconocimiento de la autoridad estatal competente;
 
-III.- Centro de Mediación Público: La institución pública estatal o municipal que presta servicios de mediación, debidamente registrado ante la autoridad estatal competente;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+III.- Centro de Mediación Público: La institución pública estatal o municipal que presta servicios de mediación o conciliación, debidamente registrado ante la autoridad estatal competente;
 
 IV.- Conflicto: La situación que se genera cuando dos o más personas manifiestan posiciones objetiva o subjetivamente incompatibles, respecto de la esfera de los derechos que ampara el orden jurídico estatal, susceptible de someterse a los procedimientos de mediación o de conciliación;
 
-V.- Convenio: El resultado del proceso de mediación que se formaliza por escrito;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
-VI.- Etapa conciliatoria: El procedimiento voluntario, confidencial y flexible de mediación, a cargo de una autoridad de procuración o de impartición de justicia, destinado a que dos o más personas físicas o morales acuerden la solución de sus diferencias y reclamaciones en conocimiento de dicha autoridad, previo al ejercicio de las atribuciones de determinación o de resolución que le competan. Cuando en esta ley se haga referencia a la conciliación, se entenderá por ello a la etapa conciliatoria;
+V.- Convenio: El resultado del proceso de mediación o conciliación que se formaliza por escrito;
 
-VII.- Instituto: El Instituto de Mediación del Estado de Tamaulipas;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+VI.- Dirección: La Dirección de Mediación dependiente de la Secretaría del Trabajo y Asuntos Jurídicos;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+VII.- Director: El Director a cargo de la Dirección de Mediación;
 
 VIII.- Mediador: La persona preparada para conducir adecuadamente una mediación;
 
@@ -79,15 +93,19 @@ Cuando intervenga más de un mediador, se les denominará co-mediadores;
 
 IX.- Mediado: La persona que por sí misma o a través de su representante, según sea el caso, decida someter el conflicto existente con otra persona al procedimiento de mediación, para tratar de resolverlo de común acuerdo;
 
-X.- Proceso de autocomposición asistida: Los procedimientos voluntarios, confidenciales y flexibles, para ayudar a que dos o más personas físicas o morales encuentren la solución a un conflicto en forma no adversarial, a cargo de un facilitador nombrado libremente por quienes son parte del propio conflicto, con el propósito de que acuerden voluntariamente una solución parcial o total del mismo. Cuando en esta ley se haga referencia a la mediación, se entenderá por ello los procedimientos de autocomposición asistida; y
+X.- (DEROGADA, P.O. 30 DE AGOSTO DE 2012)
 
 XI.- Tercero auxiliar de la mediación: La persona que, a sugerencia del mediador o a petición de ambas partes, brinde apoyo en la materia objeto de la mediación. Su elección y honorarios serán cubiertos por los mediados en partes iguales, salvo acuerdo en contrario; o bien, a falta de ello, y acorde a las posibilidades presupuestales del Centro de Mediación Público, a cargo de éste.
 
 ###### ARTÍCULO 4.
 
-1. La conciliación es propia de las autoridades de procuración o de impartición de justicia que conozcan del conflicto.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
-2. La mediación es propia de los centros de carácter público o privado que funcionen en términos de esta ley.
+1. La mediación y conciliación es propia de las autoridades de procuración o de impartición de justicia que conozcan del conflicto.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+2. La mediación, en otras materias, es propia de los centros de carácter público o privado que funcionen en términos de esta ley.
 
 3. La mediación o la conciliación son procedentes en las siguientes hipótesis:
 
@@ -153,15 +171,21 @@ Los mediadores deberán abstenerse de intervenir en un proceso de mediación, cu
 
 Los mediadores podrán solicitar asesoría profesional en los casos o situaciones en que se requieran conocimientos especializados, según las posibilidades presupuestales del Centro de Mediación Público o de las partes.
 
-### CAPÍTULO II. DEL INSTITUTO DE MEDIACIÓN DEL ESTADO DE TAMAULIPAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE AGOSTO DE 2012)</small>
+
+### CAPÍTULO II. DE LA DIRECCIÓN DE MEDIACIÓN DEL ESTADO DE TAMAULIPAS
 
 ###### ARTÍCULO 14.
 
-1. El Instituto de Mediación del Estado de Tamaulipas será el organismo público descentralizado de la administración pública estatal a cargo de la aplicación de este ordenamiento en el Estado, conforme a las disposiciones de esta ley.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
-2. El Instituto tendrá personalidad jurídica y patrimonio propio. Su domicilio estará en Ciudad Victoria y corresponde a la Secretaría General de Gobierno su coordinación administrativa para efectos de la Ley Orgánica de la Administración Pública del Estado.
+1.- La Dirección de Mediación del Estado de Tamaulipas, será la unidad administrativa dependiente de la Secretaría del Trabajo y Asuntos Jurídicos, a cargo de la aplicación de este ordenamiento.
 
-3. El Instituto tendrá los objetos siguientes:
+2.- (DEROGADO SEGUNDO PÁRRAFO, P.O. 30 DE AGOSTO DE 2012)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+3.- La Dirección tendrá los objetivos siguientes:
 
 a) Fomentar y promover la mediación en el Estado, en los ámbitos público y privado;
 
@@ -177,9 +201,7 @@ e) Supervisar que los mediadores independientes y los Centros de Mediación Púb
 
 f) Atender las quejas y sugerencias que presenten los mediados, en relación con los servicios que prestan los mediadores registrados en los Centros de Mediación Públicos y Privados;
 
-> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2010)</small>
-
-g) Prestar el servicio de mediación; y
+g) (DEROGADO, P.O. 30 DE AGOSTO DE 2012)
 
 > <small>(REFORMADO, P.O. 18 DE MARZO DE 2010)</small>
 
@@ -187,7 +209,9 @@ h) Las demás que se deriven de esta ley y otros ordenamientos legales que resul
 
 ###### ARTÍCULO 15.
 
-Para el cumplimiento de sus objetos, el Instituto tendrá las atribuciones siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+Para el cumplimiento de sus objetos, la Dirección tendrá las atribuciones siguientes:
 
 a) Fomentar y promover la cultura de la mediación y la conciliación;
 
@@ -203,63 +227,35 @@ f) Vigilar que los procedimientos de mediación se desarrollen conforme a las di
 
 g) Atender las sugerencias y desahogar las quejas que se presenten con relación al funcionamiento del Instituto y el desarrollo de sus funciones;
 
-h) Celebrar convenios con instituciones y organismos de los sectores social, privado y público para impulsar el cumplimiento de sus funciones;
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+h).- Proponer a la superioridad la celebración de convenios con instituciones y organismos de los sectores social, privado y público para impulsar el cumplimiento de sus funciones;
 
 > <small>(REFORMADO, P.O. 18 DE MARZO DE 2010)</small>
 
 i) Establecer mecanismos de difusión que permitan el conocimiento de la sociedad sobre la mediación y la conciliación;
 
-> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2010)</small>
-
-j) Crear y operar Centros de Mediación, de acuerdo a sus previsiones presupuestales; y
+j) (DEROGADO, P.O. 30 DE AGOSTO DE 2012)
 
 k) Las demás que se deriven de otros ordenamientos legales.
 
 ###### ARTÍCULO 16.
 
-El Instituto estará integrado por:
-
-a) Un órgano de gobierno, denominado Junta Directiva;
-
-b) Un órgano de dirección, denominado Director General; y
-
-c) Un órgano de vigilancia, denominado Comisario.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2012)
 
 ###### ARTÍCULO 17.
 
-1. La Junta Directiva del Instituto se integrará por:
-
-a) El Secretario General de Gobierno, quien la presidirá;
-
-b) El Secretario de Finanzas;
-
-c) El Secretario de Seguridad Pública;
-
-d) El Procurador General de Justicia; y
-
-e) El Consejero Jurídico del Ejecutivo del Estado.
-
-2. La Junta Directiva sesionará por lo menos cada tres meses en forma ordinaria y, en forma extraordinaria cuando la convoque su presidente o lo soliciten tres de sus miembros para tratar algún asunto que lo requiera.
-
-3. Los miembros titulares de la Junta Directiva podrán designar a sus respectivos suplentes, siempre que esa responsabilidad recaiga en un servidor público de jerarquía administrativa inmediata inferior en la dependencia de que se trate.
-
-4. Las sesiones de la Junta Directiva requieren de la asistencia de por lo menos tres de sus integrantes, entre quienes deberá estar su presidente;
-
-5. En caso de ausencia justificada del presidente a las sesiones de la Junta Directiva, la sesión será presidida por el miembro titular que se encuentre presente en el orden de precedencia señalado en el párrafo 1 de este artículo.
-
-6. Las determinaciones de la Junta Directiva se adoptarán por mayoría de votos de los miembros presentes y, en caso de empate, el presidente o quien asuma transitoriamente esa función tendrá el voto de desempate.
-
-7. A las sesiones de la Junta Directiva podrán ser invitados representantes de instituciones de los sectores social, privado o público, cuando lo ameriten los asuntos a tratar.
-
-8. El Director General del Instituto tiene la obligación de asistir a las sesiones de la Junta Directiva; preparar y difundir con prudente anticipación, de acuerdo con las instrucciones de su presidente, el orden del día a tratarse y los documentos o material necesario para abordarlo; y llevar la Secretaría Técnica del propio órgano de gobierno, levantando el acta respectiva, en la cual figurarán los acuerdos adoptados.
-
-9. En las sesiones de la Junta Directiva el Director General solo tendrá voz.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2012)
 
 ###### ARTÍCULO 18.
 
-1. El Director General del Instituto será nombrado y removido libremente por el Gobernador del Estado.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
-2. El Director General del Instituto deberá reunir los siguientes requisitos:
+1. El Director será nombrado y removido libremente por el Gobernador del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+2. El Director deberá reunir los siguientes requisitos:
 
 a) Ser originario del Estado o con residencia mínima efectiva anterior al nombramiento no menor de tres años;
 
@@ -267,85 +263,57 @@ b) Tener treinta años cumplidos;
 
 c) Contar con título profesional de Licenciatura en Derecho o ciencias afines;
 
-d) Tener experiencia en áreas relacionadas con los objetivos del Instituto; y
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+d) Tener experiencia en áreas relacionadas con los objetivos de la Dirección; y
 
 e) No haber sido sentenciado por delito doloso sancionado con pena privativa de libertad por más de un año, ni haber sido inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
 ###### ARTÍCULO 19.
 
-1. Al Director General del Instituto le compete el despacho de los asuntos que corresponden a dicho organismo conforme a las atribuciones del mismo.
+Al Director le corresponden las siguientes atribuciones:
 
-2. A su vez, corresponden al Director General las siguientes atribuciones:
+a).- Validar la certificación de los mediadores y su inscripción en el registro correspondiente;
 
-a) Elaborar el programa anual de trabajo del Instituto, considerando lo dispuesto en el inciso a) del artículo 4 de esta Ley;
+b).- Prestar el servicio de mediación o conciliación en aquellos casos que le encomiende el Secretario del Trabajo y Asuntos Jurídicos;
 
-b) Preparar el anteproyecto de presupuesto de ingresos y egresos del Instituto para cada ejercicio fiscal, a fin de presentarlo oportunamente a la Junta Directiva y que ésta resuelva sobre su presentación al Ejecutivo del Estado;
+c).- Ordenar la supervisión y vigilancia de los Centros de Mediación;
 
-c) Presentar a la Junta Directiva, en la última sesión del año de calendario o en la primera del año siguiente si así lo conviene dicho órgano de gobierno, el informe de los trabajos desarrollados durante el periodo que corresponda;
+d).- Aplicar las sanciones por irregularidades en el funcionamiento de los Centros de Mediación;
 
-d) Elaborar y presentar a la Junta Directiva la Cuenta Pública que compete presentar al organismo conforme a la periodicidad que señalen las leyes aplicables y, en todo caso, remitirla oportunamente al Congreso del Estado por conducto de la Secretaría de Finanzas;
+e).- Resolver consultas relacionadas con la mediación;
 
-e) Celebrar convenios de colaboración, previo acuerdo de la Junta Directiva, con organismos públicos o privados, nacionales o extranjeros, a fin de promover y alcanzar el objeto del Instituto y el mejor cumplimiento de sus funciones;
+f).- Informar permanentemente al área superior inmediata de las actividades programadas, en proceso y concluidas, con la finalidad de unificar criterios para el cumplimiento de los objetivos;
 
-f) Representar al Instituto para la celebración de todos aquellos actos jurídicos que conforme a las leyes requieran de mandato para pleitos y cobranzas y para administración, informando de su ejercicio a la Junta Directiva;
+g).- Realizar las demás funciones que, en el ámbito de su competencia, le delegue el Secretario del Trabajo y Asuntos Jurídicos; y
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2010)</small>
+h).- Los demás que le asignen otros ordenamientos legales o le asigne el Secretario del Trabajo y Asuntos Jurídicos
 
-g) Realizar los nombramientos que, conforme a esta ley, no correspondan al Ejecutivo del Estado en el Instituto;
-
-> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2010)</small>
-
-h) Imponer sanciones a los Centros de Mediación y a los Mediadores cuando lo amerite, así como resolver los recursos interpuestos en contra de las resoluciones emitidas por el Instituto; e
-
-i) Las demás que se prevean en la presente ley, le encomiende la Junta Directiva o el Ejecutivo del Estado.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 20.
 
-1. El Instituto contará también con un Secretario Ejecutivo, quien deberá reunir los requisitos señalados en los incisos a), c) y d) del párrafo 2 del artículo 18 de esta Ley. Será designado por el Ejecutivo del Estado a propuesta del Director General, pudiendo aquél removerlo libremente.
+1. La Dirección tendrá el personal técnico, administrativo u operativo que sea necesario y el presupuesto permita.
 
-2. El Secretario Ejecutivo auxiliará al Director General en el cumplimiento de sus atribuciones y funciones.
-
-3. El Instituto tendrá el personal que para el desarrollo de sus funciones permita su presupuesto de egresos, sin demérito del que mediante convenio le asignen las dependencias e instituciones públicas vinculadas con su funcionamiento o interesadas en el desarrollo de las tareas a su cargo.
+2. Los servidores públicos de la Dirección con jerarquía superior a la de Jefe de Departamento, serán nombrados y removidos libremente por el Gobernador del Estado, los servidores públicos con jerarquía de Jefe de Departamento por el Secretario del Trabajo y Asuntos Jurídicos, previo acuerdo del Gobernador del Estado.
 
 ###### ARTÍCULO 21.
 
-1. El Comisario del Instituto será el titular del órgano de control adscrito a la Secretaría General de Gobierno.
-
-2. El Comisario será invitado a las sesiones de la Junta Directiva, en las cuales tendrá voz. En caso de no poder asistir a la sesión, designará para suplirlo a un servidor público de su área con jerarquía administrativa inmediatamente inferior.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2012)
 
 ###### ARTÍCULO 22.
 
-El Director General del Instituto y su personal se regirán por el calendario de labores que para la administración centralizada establezca la Secretaría de Administración, así como por las demás disposiciones que ésta genere para la conducción de las relaciones de trabajo.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2012)
 
 ###### ARTÍCULO 23.
 
-1. El Director General y el Secretario Ejecutivo del Instituto son cargos de confianza en términos de la Ley del Trabajo de los Servidores Públicos del Estado.
-
-2. El personal del Instituto se regirá por dicho ordenamiento y conforme a las funciones de su nombramiento se establecerá la naturaleza de su relación laboral.
-
-3. El personal que mediante convenio de colaboración preste transitoriamente sus servicios en el Instituto mantendrá sus derechos laborales en los términos que rijan para la dependencia, entidad o institución que haya suscrito dicho convenio con el Instituto. Esta colaboración no implicará merma alguna en sus derechos y prestaciones derivadas de la relación de trabajo vigente con dicha dependencia, entidad o institución.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2012)
 
 ###### ARTÍCULO 24.
 
-> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2010)</small>
-
-1. El Instituto contará con Centros de Mediación cuya finalidad será la de prestar el servicio de mediación de forma gratuita, voluntaria, confidencial, flexible e imparcial donde un tercero neutral denominado mediador facilitará el diálogo y el entendimiento para que las partes envueltas en una controversia lleguen a un acuerdo mutuo y satisfactorio basado siempre en el principio de legalidad.
-
-> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2010)</small>
-
-2. Los Centros de Mediación del Instituto estarán integrados por:
-
-a) Un Jefe del Centro;
-
-b) Mediadores suficientes para atender las necesidades de los usuarios;
-
-c) Un Invitador; y
-
-d) El personal administrativo necesario que el presupuesto del Instituto permita.
-
-3. El Instituto se extinguirá cuando a juicio del Ejecutivo del Estado hubiere cumplido su objeto, mediante un acto jurídico de igual naturaleza al que lo creó.
-
-4. Al liquidarse su patrimonio, el mismo podrá asignarse a otra entidad estatal con vocación análoga o, en su defecto, integrarse al patrimonio público estatal por conducto de la Secretaría de Administración.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2012)
 
 ### CAPÍTULO III. DE LA MEDIACIÓN EN EL PODER JUDICIAL
 
@@ -365,13 +333,19 @@ En el ámbito del Poder Judicial del Estado la aplicación de esta ley y, en par
 
 1. El procedimiento de mediación en sede privada estará a cargo de mediadores particulares o de organismos privados constituidos para proporcionar tales servicios.
 
-2. Los Centros de Mediación Privados sólo podrán instalarse con autorización del Instituto para ejercer sus actividades en los lugares y circunscripciones que señale la autorización correspondiente.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
-3. Los mediadores particulares que realicen sus funciones individualmente o adscritos a los Centros de Mediación Privados, deberán contar con su respectiva certificación otorgada por el Instituto. Tanto la autorización como la certificación serán expedidas con base en lo dispuesto por esta ley, y el Estatuto Orgánico del Instituto.
+2. Los Centros de Mediación Privados sólo podrán instalarse con autorización de la Secretaría del Trabajo y Asuntos Jurídicos, por conducto de la Dirección y ejercerán sus actividades en los lugares y circunscripciones que señale la autorización correspondiente.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+3. Los mediadores particulares que realicen sus funciones individualmente o adscritos a los Centros de Mediación Privados, deberán contar con su respectiva certificación otorgada por la Secretaría del Trabajo y Asuntos Jurídicos. Tanto la autorización como la certificación serán expedidas con base en lo dispuesto por esta ley.
 
 ###### ARTÍCULO 28.
 
-1. Para establecer un Centro de Mediación Privado se requiere formular la solicitud al Instituto, acompañándose los siguientes documentos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+1. Para establecer un Centro de Mediación Privado se requiere formular la solicitud a la Secretaría del Trabajo y Asuntos Jurídicos, por conducto de la Dirección, acompañándose los siguientes documentos:
 
 a) Proyecto de creación del Centro, el cual deberá contener la expresión de su justificación, objetivo general y objetivos específicos;
 
@@ -381,31 +355,45 @@ c) Proyecto de reglamento interno del Centro, con el señalamiento de someter su
 
 d) Copia certificada ante Notario Público de los documentos que acrediten la capacitación de los mediadores que prestarán sus servicios en el Centro.
 
-2. El Instituto resolverá sobre la solicitud en un término de quince días hábiles, previa visita que se realice a las instalaciones donde se pretende establecerlo, a fin de verificar que cuente con las instalaciones y equipamiento adecuados para el cumplimiento de las funciones de mediación. El lugar de su ubicación deberá ser de fácil acceso al público.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
-3. De ser procedente la solicitud, el Director del Instituto extenderá la autorización respectiva; en caso contrario, expedirá un oficio en el que indicará los motivos por los que no fue aprobada.
+2. La Secretaría resolverá sobre la solicitud en un término de quince días hábiles, previa visita que el personal de la Dirección realice a las instalaciones donde se pretende establecerlo, a fin de verificar que cuente con las instalaciones y equipamiento adecuados para el cumplimiento de las funciones de mediación. El lugar de su ubicación deberá ser de fácil acceso al público.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+3. De ser procedente la solicitud, la Secretaría extenderá la autorización respectiva; en caso contrario, expedirá un oficio en el que indicará los motivos por los que no fue aprobada.
 
 ###### ARTÍCULO 29.
 
 En todo caso, el funcionamiento de los Centros de Mediación Privados requerirá de:
 
-a) Haber acreditado su constitución y su registro ante el Instituto;
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
-b) Contar con un registro de mediadores certificados por el Instituto, a efecto de verificar que los mediadores que presten sus servicios dentro del Centro cumplan con los requisitos que establece esta ley;
+a) Haber acreditado su constitución y su registro ante la Secretaría del Trabajo y Asuntos Jurídicos;
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+b) Contar con un registro de mediadores certificados por la Secretaría del Trabajo y Asuntos Jurídicos, a efecto de verificar que los mediadores que presten sus servicios dentro del Centro cumplan con los requisitos que establece esta ley;
 
 c) Contar con espacios, instalaciones y equipamiento adecuados para el desarrollo de los procedimientos de mediación; y
 
-d) Notificar al Instituto su cambio de domicilio y que aquél verifique el cumplimiento de lo señalado en el inciso anterior.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+d) Notificar a la Secretaría del Trabajo y Asuntos Jurídicos; por conducto de la Dirección su cambio de domicilio y que aquél verifique el cumplimiento de lo señalado en el inciso anterior.
 
 ### CAPÍTULO V. DEL MEDIADOR
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
 ###### ARTÍCULO 30.
 
-En el Estado, la mediación podrá desarrollarse por mediadores públicos o privados debidamente registrados ante el Instituto.
+En el Estado, la mediación podrá desarrollarse por mediadores públicos o privados debidamente certificados y registrados ante la Secretaría del Trabajo y Asuntos Jurídicos.
 
 ###### ARTÍCULO 31.
 
-1. Para el registro de los mediadores públicos o privados en el Instituto, los interesados deberán cumplir con los requisitos siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+1. Para el registro de los mediadores públicos o privados en la Secretaría del Trabajo y Asuntos Jurídicos, los interesados deberán cumplir con los requisitos siguientes:
 
 a) Ser mayor de 21 años, en pleno ejercicio de sus derechos civiles y políticos;
 
@@ -415,7 +403,9 @@ b) Gozar de buena reputación y no haber sido condenado por delito intencional q
 
 c) Acreditar, mediante documento idóneo expedido por institución autorizada, que está capacitado en las técnicas de la mediación con mínimo de ciento veinte horas de carácter teórico y práctico; y
 
-d) Aprobar examen psicológico y de conocimientos teórico-prácticos, relativo al procedimiento de mediación, que aplicará el Instituto.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+d) Aprobar examen psicológico y de conocimientos teórico-prácticos, relativo al procedimiento de mediación, que aplicará la Dirección.
 
 > <small>(ADICIONADO, P.O. 18 DE MARZO DE 2010)</small>
 
@@ -517,7 +507,11 @@ En los asuntos de orden familiar, interrumpe la caducidad de la instancia; y
 
 c) En materia penal se procederá conforme a las siguientes disposiciones:
 
-I. Durante la averiguación previa estará a cargo de la Procuraduría General de Justicia el procedimiento de la conciliación. El convenio celebrado en esta etapa del procedimiento penal estará sujeta a que en caso de existir obligaciones a plazo, el Ministerio Público se cerciore de que se encuentran totalmente cumplidas y sólo en este supuesto con el previo otorgamiento del perdón del ofendido, decretará el no ejercicio de la acción penal; y
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+I. Durante la averiguación previa estará a cargo de la Procuraduría General de Justicia el procedimiento de mediación y conciliación. El convenio celebrado en esta etapa del procedimiento penal estará sujeta a que en caso de existir obligaciones a plazo, el Ministerio Público se cerciore de que se encuentran totalmente cumplidas y sólo en este supuesto con el previo otorgamiento del perdón del ofendido, decretará el no ejercicio de la acción penal; y
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 II. Durante la preinstrucción, la instrucción y el juicio, podrá procederse en términos de lo dispuesto por la fracción anterior si la autoridad judicial que conoce del procedimiento considera que el asunto es susceptible de ser solucionado a través de mediación, con excepción del supuesto en que el inculpado se encuentre privado de la libertad, caso en el cual no será procedente la mediación.
 
@@ -645,11 +639,11 @@ h) Contener una cláusula de remediación para los casos de incumplimiento o int
 
 2. Si el conflicto fue planteado directamente por los interesados, el convenio certificado por el Director del Centro de Mediación tendrá el carácter de documental pública.
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 50.
 
-Es obligatorio para las partes el cumplimiento del convenio celebrado ante el Centro de Mediación, ya sea público o privado. Dicho convenio podrá ratificarse y certificarse ante los siguientes funcionarios: Director General del Instituto, Director o Jefes regionales del Centro de Mediación del Instituto, la autoridad competente de la Procuraduría General de Justicia en el Estado o ante Notario Público con ejercicio en el Estado.
+Es obligatorio para las partes el cumplimiento del convenio celebrado ante el Centro de Mediación, ya sea público o privado. Dicho convenio podrá ratificarse y certificarse ante los siguientes funcionarios: el Director a cargo de la Dirección de Mediación, la autoridad competente de la Procuraduría General de Justicia en el Estado o un Notario Público con ejercicio en el Estado.
 
 ###### ARTICULO 51.
 
@@ -703,33 +697,39 @@ La intervención del Centro de Mediación o de un mediador particular suspender�
 
 ###### ARTÍCULO 57.
 
-1. Corresponde al Instituto la vigilancia de los servicios de mediación que se presten en el Estado. Para este efecto, realizará las verificaciones correspondientes con el personal profesional y técnico a su cargo.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+1. Corresponde a la Secretaría del Trabajo y Asuntos Jurídicos la vigilancia de los servicios de mediación que se presten en el Estado. Para este efecto, la Dirección realizará las verificaciones correspondientes con el personal profesional y técnico a su cargo.
 
 2. Las personas que realicen la verificación harán constar las irregularidades que observen en el acta que al efecto se formule. Una vez concluida la diligencia deberán entregar copia del acta correspondiente a la persona con quien se entendió la misma.
 
 3. Si en la verificación se detectan infracciones a esta ley, se notificará a la persona física o moral sujeta a vigilancia, para que en un plazo de tres días hábiles comparezca y manifieste lo que a su derecho convenga en relación con la irregularidad detectada.
 
-4. Transcurrido el plazo señalado en el párrafo anterior, el Instituto emitirá, por conducto de su Director, una resolución donde señale detenidamente las irregularidades que se hubieren detectado y, además, sancione las mismas conforme a lo dispuesto en este capítulo.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+4. Transcurrido el plazo señalado en el párrafo anterior, la Secretaría del Trabajo y Asuntos Jurídicos emitirá, por conducto de la Dirección, una resolución donde señale detenidamente las irregularidades que se hubieren detectado y, además, sancione las mismas conforme a lo dispuesto en este capítulo.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 58.
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2010)</small>
+1.- La resolución derivada de la verificación admitirá el recurso de reconsideración ante el titular de la Secretaría del Trabajo y Asuntos Jurídicos, mediante escrito que se presente dentro de los tres días siguientes a aquél en que se haya notificado dicha resolución, cuyo procedimiento se reducirá a una sola audiencia en donde se determinará su procedencia.
 
-1. La resolución derivada de la verificación admitirá el recurso de reconsideración ante el Director General del Instituto de Mediación, mediante escrito que se presente dentro de los tres días siguientes a aquél en que se haya notificado dicha resolución, cuyo procedimiento se reducirá a una sola audiencia en donde se determinará su procedencia.
+2. El Secretario pronunciará resolución fundada y motivada dentro del término de tres días siguientes a la audiencia, a menos que a su juicio se requiera mayor tiempo para resolver la controversia, el cual no excederá de diez días hábiles.
 
-> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2010)</small>
-
-2. El Director General pronunciará resolución fundada y motivada dentro del término de tres días siguientes a la audiencia, a menos que a su juicio se requiera mayor tiempo para resolver la controversia, el cual no excederá de diez días hábiles.
-
-3. Los Centros de Mediación o los mediadores particulares que, de conformidad con la resolución emitida por el Director del Instituto, cometan infracciones a esta ley incurrirán en responsabilidad y se sujetarán a las sanciones establecidas en este ordenamiento, sin perjuicio de los actos probablemente constitutivos de delito, en cuyo caso el Director del Instituto dará vista al Ministerio Público para los efectos legales procedentes.
+3. Los Centros de Mediación o los mediadores particulares que, de conformidad con la resolución emitida por el Secretario, cometan infracciones a esta ley, incurrirán en responsabilidad y se sujetarán a las sanciones establecidas en este ordenamiento, sin perjuicio de los actos probablemente constitutivos de delito, en cuyo caso el propio titular de la Secretaría del Trabajo y Asuntos Jurídicos dará vista al Ministerio Público para los efectos legales procedentes.
 
 ###### ARTÍCULO 59.
 
-El Instituto, mediante resolución del Director, sancionará al mediador o mediadores que incurran en violaciones a esta ley, conforme a lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+La Dirección, mediante resolución del Director, sancionará al mediador o mediadores que incurran en violaciones a esta ley, conforme a lo siguiente:
 
 a) Amonestación y multa de cincuenta a setenta y cinco días de salario mínimo diario vigente en la Capital del Estado al momento de decretarse la sanción, a quien incurra en una acción u omisión que signifique realizar la mediación en contravención a los principios que la rigen;
 
-b) Suspensión del registro ante el Instituto, hasta por un plazo de seis meses, a quien:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+b) Suspensión del registro ante la Dirección, hasta por un plazo de seis meses, a quien:
 
 I. Conozca de la mediación en la cual tenga impedimento legal, sin que los mediados tuvieren conocimiento de ello y lo hayan aceptado;
 
@@ -741,19 +741,21 @@ IV. Preste servicios diversos al de mediación respecto del conflicto que origin
 
 c) Revocación del registro en caso de reincidir en alguna de las acciones u omisiones establecidas en el inciso anterior.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
 ###### ARTÍCULO 60.
 
-El Instituto, por conducto del Director, sancionará al Centro de Mediación o al mediador particular que incurra en infracción a esta ley, en los siguientes casos:
+La Dirección, por conducto del Director, sancionará al Centro de Mediación o al mediador particular que incurra en infracción a esta ley, en los siguientes casos:
 
-a) Multa de cincuenta días de salario mínimo diario vigente en la Capital del Estado, en el momento de decretarse la sanción, a quien incumpla notificar su cambio de domicilio al Instituto;
+a).- Multa de cincuenta días de salario mínimo diario vigente en la Capital del Estado, en el momento de decretarse la sanción, a quien incumpla notificar su cambio de domicilio a la Dirección;
 
-b) Apercibimiento y multa de cien días de salario mínimo diario vigente en la Capital del Estado al momento de decretarse la sanción, a quien no cuente con espacios, instalaciones y equipamientos adecuados para las sesiones de mediación; en caso de reincidencia se le suspenderá el registro ante el Instituto hasta que dé cumplimiento a los requerimientos de acondicionar y equipar los espacios físicos necesarios;
+b).- Apercibimiento y multa de cien días de salario mínimo diario vigente en la Capital del Estado al momento de decretarse la sanción, a quien no cuente con espacios, instalaciones y equipamientos adecuados para las sesiones de mediación; en caso de reincidencia se le suspenderá el registro ante la Dirección, hasta que dé cumplimiento a los requerimientos de acondicionar y equipar los espacios físicos necesarios;
 
-c) Suspensión del registro ante el Instituto hasta por un plazo de seis meses a quien omita vigilar y acreditar que los mediadores que presten sus servicios dentro de su organización, cumplan con los requisitos y obligaciones que establece esta ley;
+c).- Suspensión del registro ante la Dirección hasta por un plazo de seis meses a quien omita vigilar y acreditar que los mediadores que presten sus servicios dentro de su organización, cumplan con los requisitos y obligaciones que establece esta ley;
 
-d) Revocación del registro ante el Instituto, en caso de reincidencia en el incumplimiento a lo establecido en los incisos a) y c) de este artículo; o
+d).- Revocación del registro ante la Secretaría del Trabajo y Asuntos Jurídicos, en caso de reincidencia en el incumplimiento a lo establecido en los incisos a) y c) de este artículo; o
 
-e) Clausura del establecimiento donde se realice el procedimiento de mediación, cuando carezca de registro ante el Instituto para realizar las actividades propias del mismo.
+e).- Clausura del establecimiento donde se realice el procedimiento de mediación, cuando carezca de registro ante la Dirección para realizar las actividades propias del mismo.
 
 ###### ARTÍCULO 61.
 
@@ -781,10 +783,38 @@ Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estad
 
 ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN".- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNÁNDEZ FLORES.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTÍNEZ TORRES.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 18 DE MARZO DE 2010.
 
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE AGOSTO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las Secretarías General de Gobierno, de Finanzas, de Administración y del Trabajo y Asuntos Jurídicos, así como la Contraloría Gubernamental, coordinarán las acciones necesarias para el cumplimiento del presente Decreto, gozando al efecto de las atribuciones necesarias para su estricta aplicación.
+
+###### ARTÍCULO TERCERO.
+
+Los recursos financieros y materiales, así como los bienes inmuebles adscritos al servicio del Instituto de Mediación del Estado de Tamaulipas, que con motivo de la expedición del presente Decreto se extingue, se transferirán a la Secretaría del Trabajo y Asuntos Jurídicos.
+
+###### ARTÍCULO CUARTO.
+
+El personal de nivel jerárquico menor a Jefe de Departamento asignado al Instituto de Mediación del Estado de Tamaulipas, será asignado a la Secretaría del Trabajo y Asuntos Jurídicos, conforme a la naturaleza de las funciones que venían realizando, según lo acuerde el titular de esta dependencia con la intervención de la Secretaría de Administración y de la Contraloría Gubernamental.
+
+Las acciones relativas al cambio de adscripción o reasignación del personal señalado en el párrafo anterior, se ejecutarán sin afectar sus derechos y prestaciones derivadas de la relación de trabajo que tuvieran anteriormente.
+
+###### ARTÍCULO QUINTO.
+
+El personal de nivel jerárquico de Jefe de Departamento y superiores, será dado de baja a partir de la entrada en vigor del presente Decreto, respetando sus derechos laborales y deberán ser indemnizados conforme a la ley de la materia.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan todas aquellas disposiciones que se opongan el presente Decreto.
