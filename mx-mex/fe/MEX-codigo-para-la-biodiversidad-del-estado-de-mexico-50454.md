@@ -4,7 +4,7 @@ identifier: "MEX-codigo-para-la-biodiversidad-del-estado-de-mexico-50454"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-05-03"
-last_updated: "2011-09-01"
+last_updated: "2012-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # CODIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MEXICO
 
-CODIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MEXICO
+CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO TERCERO TRANSITORIO DEL DECRETO NUMERO 337, PUBLICADO EN LA G.G. DE 1 DE SEPTIEMBRE DE 2011, CUANDO EN OTROS ORDENAMIENTOS LEGALES, SE HAGA REFERENCIA AL TERMINO PERSONAS CON CAPACIDADES DIFERENTES, SE ENTENDERA QUE CORRESPONDE AL TERMINO PERSONAS CON DISCAPACIDAD.</small>
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 337, PUBLICADO EN LA G.G. DE 1 DE SEPTIEMBRE DE 2011, CUANDO EN OTROS ORDENAMIENTOS LEGALES, SE HAGA REFERENCIA AL TÉRMINO PERSONAS CON CAPACIDADES DIFERENTES, SE ENTENDERÁ QUE CORRESPONDE AL TÉRMINO PERSONAS CON DISCAPACIDAD.</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE AGOSTO DE 2012.
 
 Código publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 3 de mayo de 2006.
 
@@ -295,113 +295,117 @@ VI. Auditoria ambiental: Proceso mediante el cual se verifica, analiza y evalúa
 
 VII. Biodiversidad: Es una característica biofísica de la vida que contiene a todos los organismos vivos en cualquier medio o ambiente incluyendo a la especie humana, los elementos bióticos como comunidades biológicas y abióticos o materias inertes como el agua, las rocas, los minerales o el suelo que también forman parte de esta variabilidad, los ecosistemas terrestres, marinos, aéreos, acuáticos u otros complejos ecológicos y de los que forman parte. Comprende la diversidad biológica dentro de cada especie, entre las especies y su hábitat, englobando todo lo relacionado con el conjunto de circunstancias y actividades del ser humano, sociales, económicas, productivas y culturales que conforman al medio ambiente y las relaciones de todos los componentes mencionados que interactúan es lo que permite que exista la vida;
 
-VIII. Consejo: El Consejo Consultivo de Protección a la Biodiversidad y Desarrollo Sostenible del Estado de México;
+> <small>(ADICIONADA, G.G. 30 DE AGOSTO DE 2012)</small>
 
-IX. Conservación: La protección y mantenimiento continuo de los recursos bióticos y abióticos a efecto de asegurar su existencia;
+VIII. Cambio climático: Cambio de clima atribuido directa o indirectamente a la actividad humana que altera la composición de la atmósfera mundial y que se suma a la variabilidad natural del clima observada durante períodos comparables;
 
-X. Contaminación: La presencia en el medio ambiente de uno o más elementos y cualquier combinación de ellos que cause alteración o modificación al ambiente o al equilibrio ecológico;
+IX. Consejo: El Consejo Consultivo de Protección a la Biodiversidad y Desarrollo Sostenible del Estado de México;
 
-XI. Contaminación visual: La alteración de las cualidades de la imagen de un paisaje natural o urbano causada por cualquier elemento funcional o simbólico que tenga carácter comercial, propagandístico o de servicio. La contaminación lumínica es la causada por anuncios espectaculares, unipolares o electrónicos;
+X. Conservación: La protección y mantenimiento continuo de los recursos bióticos y abióticos a efecto de asegurar su existencia;
 
-XII. Contaminante: Toda materia o energía en cualesquiera de sus estados físicos y formas que al incorporarse o actuar en la atmósfera, agua, suelo, flora, fauna o cualquier otro elemento de la naturaleza donde se altere o modifique su composición y condición natural;
+XI. Contaminación: La presencia en el medio ambiente de uno o más elementos y cualquier combinación de ellos que cause alteración o modificación al ambiente o al equilibrio ecológico;
 
-XIII. Contingencia ambiental: Las medidas preventivas y correctivas ante situaciones de riesgo, derivadas de actividades humanas o fenómenos naturales que puedan poner en peligro la integridad de uno o varios ecosistemas;
+XII. Contaminación visual: La alteración de las cualidades de la imagen de un paisaje natural o urbano causada por cualquier elemento funcional o simbólico que tenga carácter comercial, propagandístico o de servicio. La contaminación lumínica es la causada por anuncios espectaculares, unipolares o electrónicos;
 
-XIV. Criterios ecológicos: Los lineamientos de carácter obligatorio establecidos en el presente Libro para orientar las acciones de conservación, preservación y restauración del equilibrio ecológico, el aprovechamiento sostenible de los elementos y recursos naturales y la protección al medio ambiente que tendrán carácter de instrumentos de política ambiental;
+XIII. Contaminante: Toda materia o energía en cualesquiera de sus estados físicos y formas que al incorporarse o actuar en la atmósfera, agua, suelo, flora, fauna o cualquier otro elemento de la naturaleza donde se altere o modifique su composición y condición natural;
 
-XV. Daño: La pérdida o menoscabo sufrido en la integridad o en el patrimonio de una persona determinada o entidad pública como consecuencia de los actos u omisiones en la realización de las actividades con incidencia ambiental. Por lo que deberá entenderse como daño a la salud de la persona la incapacidad, enfermedad, deterioro, menoscabo, muerte o cualquier otro efecto negativo que se le ocasione directa o indirectamente por la exposición a materiales o residuos, o bien daño al ambiente, por la liberación, descarga, desecho, infiltración o incorporación de uno o más de dichos materiales o residuos en el agua, el suelo, el subsuelo, en los mantos freáticos o en cualquier otro elemento natural o medio;
+XIV. Contingencia ambiental: Las medidas preventivas y correctivas ante situaciones de riesgo, derivadas de actividades humanas o fenómenos naturales que puedan poner en peligro la integridad de uno o varios ecosistemas;
 
-XVI. Desarrollo Sostenible: El proceso evaluable mediante criterios e indicadores de las condiciones ambientales, económicas, sociales y culturales que tiende a mejorar la calidad de vida y la productividad de las personas fundándose en medidas apropiadas para la preservación de la integridad de los ecosistemas, la protección al ambiente, el aprovechamiento y el uso de los elementos y recursos naturales de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras;
+XV. Criterios ecológicos: Los lineamientos de carácter obligatorio establecidos en el presente Libro para orientar las acciones de conservación, preservación y restauración del equilibrio ecológico, el aprovechamiento sostenible de los elementos y recursos naturales y la protección al medio ambiente que tendrán carácter de instrumentos de política ambiental;
 
-XVII. Desequilibrio ecológico: La alteración o pérdida de las relaciones de interdependencia entre los elementos naturales que conforman al ambiente y que afectan negativamente la existencia, transformación y desarrollo del ser humano y demás seres vivos;
+XVI. Daño: La pérdida o menoscabo sufrido en la integridad o en el patrimonio de una persona determinada o entidad pública como consecuencia de los actos u omisiones en la realización de las actividades con incidencia ambiental. Por lo que deberá entenderse como daño a la salud de la persona la incapacidad, enfermedad, deterioro, menoscabo, muerte o cualquier otro efecto negativo que se le ocasione directa o indirectamente por la exposición a materiales o residuos, o bien daño al ambiente, por la liberación, descarga, desecho, infiltración o incorporación de uno o más de dichos materiales o residuos en el agua, el suelo, el subsuelo, en los mantos freáticos o en cualquier otro elemento natural o medio;
 
-XVIII. Deterioro ambiental: La afectación ambiental causada como consecuencia de los actos u omisiones en la realización de las actividades con incidencia ambiental;
+XVII. Desarrollo Sostenible: El proceso evaluable mediante criterios e indicadores de las condiciones ambientales, económicas, sociales y culturales que tiende a mejorar la calidad de vida y la productividad de las personas fundándose en medidas apropiadas para la preservación de la integridad de los ecosistemas, la protección al ambiente, el aprovechamiento y el uso de los elementos y recursos naturales de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras;
 
-XIX. Ecocidio: El daño o destrucción que atenta contra la biodiversidad y sus asociados, llevada a cabo por las acciones del ser humano;
+XVIII. Desequilibrio ecológico: La alteración o pérdida de las relaciones de interdependencia entre los elementos naturales que conforman al ambiente y que afectan negativamente la existencia, transformación y desarrollo del ser humano y demás seres vivos;
 
-XX. Ecosistema: La unidad natural funcional básica de interacción dinámica de componentes de los organismos vivos, no vivos y su medio que interactúan formando un sistema estable que se desarrolla en función de los factores físicos de un mismo ambiente;
+XIX. Deterioro ambiental: La afectación ambiental causada como consecuencia de los actos u omisiones en la realización de las actividades con incidencia ambiental;
 
-XXI. Ejecutivo Estatal: El Gobernador del Estado de México y las dependencias de la administración pública estatal en materia ambiental;
+XX. Ecocidio: El daño o destrucción que atenta contra la biodiversidad y sus asociados, llevada a cabo por las acciones del ser humano;
 
-XXII. Elementos naturales: Los elementos físicos, químicos y biológicos que se presentan en un tiempo y espacio determinados sin la inducción del ser humano. Se consideran recursos naturales los elementos naturales susceptibles de ser aprovechados en beneficio del ser humano y se denominan bienes ambientales al beneficio tangible como madera, plantas, agua y otros similares de su transformación de insumos mediante un proceso determinado se les denomina bienes ambientales;
+XXI. Ecosistema: La unidad natural funcional básica de interacción dinámica de componentes de los organismos vivos, no vivos y su medio que interactúan formando un sistema estable que se desarrolla en función de los factores físicos de un mismo ambiente;
 
-XXIII. Emergencia ecológica: Situación derivada de actividades humanas o fenómenos naturales que al afectar severamente a sus componentes pone en peligro a uno o varios ecosistemas;
+XXII. Ejecutivo Estatal: El Gobernador del Estado de México y las dependencias de la administración pública estatal en materia ambiental;
 
-XXIV. Equilibrio ecológico: La relación de interdependencia entre los elementos que conforman al ambiente que hace posible la existencia, transformación y desarrollo del ser humano y demás organismos vivos;
+XXIII. Elementos naturales: Los elementos físicos, químicos y biológicos que se presentan en un tiempo y espacio determinados sin la inducción del ser humano. Se consideran recursos naturales los elementos naturales susceptibles de ser aprovechados en beneficio del ser humano y se denominan bienes ambientales al beneficio tangible como madera, plantas, agua y otros similares de su transformación de insumos mediante un proceso determinado se les denomina bienes ambientales;
 
-XXV. Estado: El Estado Libre y Soberano de México;
+XXIV. Emergencia ecológica: Situación derivada de actividades humanas o fenómenos naturales que al afectar severamente a sus componentes pone en peligro a uno o varios ecosistemas;
 
-XXVI. Evaluación de impacto ambiental: El procedimiento científico y técnico a través del cual las autoridades estatales y los organismos calificados identifican y predicen cuáles efectos ejercerán sobre el medio ambiente una acción o proyecto específico y autorizan la procedencia ambiental de dichos proyectos y las condiciones a las que se sujetarán los mismos para la realización de las obras, actividades o aprovechamientos con el fin de evitar o reducir al mínimo sus efectos negativos en el equilibrio ecológico o en el medio ambiente o a la biodiversidad;
+XXV. Equilibrio ecológico: La relación de interdependencia entre los elementos que conforman al ambiente que hace posible la existencia, transformación y desarrollo del ser humano y demás organismos vivos;
 
-XXVII. Explotación: Uso de los recursos y elementos naturales renovables y no renovables que tiene como consecuencia un cambio significativo en el equilibrio de los ecosistemas;
+XXVI. Estado: El Estado Libre y Soberano de México;
 
-XXVIII. Fauna silvestre: Las especies animales que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo sus poblaciones menores que se encuentran bajo el control del ser humano y los animales domésticos que por abandono se tornen ferales y por ello puedan ser susceptibles de captura o apropiación;
+XXVII. Evaluación de impacto ambiental: El procedimiento científico y técnico a través del cual las autoridades estatales y los organismos calificados identifican y predicen cuáles efectos ejercerán sobre el medio ambiente una acción o proyecto específico y autorizan la procedencia ambiental de dichos proyectos y las condiciones a las que se sujetarán los mismos para la realización de las obras, actividades o aprovechamientos con el fin de evitar o reducir al mínimo sus efectos negativos en el equilibrio ecológico o en el medio ambiente o a la biodiversidad;
 
-XXIX. Flora silvestre: Las especies vegetales y del reino fungi que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo las poblaciones o especimenes que se encuentran bajo control del ser humano;
+XXVIII. Explotación: Uso de los recursos y elementos naturales renovables y no renovables que tiene como consecuencia un cambio significativo en el equilibrio de los ecosistemas;
 
-XXX. Gaceta del Gobierno: El periódico oficial del Gobierno del Estado de México;
+XXIX. Fauna silvestre: Las especies animales que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo sus poblaciones menores que se encuentran bajo el control del ser humano y los animales domésticos que por abandono se tornen ferales y por ello puedan ser susceptibles de captura o apropiación;
 
-XXXI. Hábitat: Lugar de condiciones geofísicas en que se desarrolla la vida de un organismo, una especie o una comunidad humana, animal o vegetal;
+XXX. Flora silvestre: Las especies vegetales y del reino fungi que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo las poblaciones o especimenes que se encuentran bajo control del ser humano;
 
-XXXII. Impacto ambiental: Modificación favorable o desfavorable del medio ambiente ocasionada por la acción del ser humano o de la naturaleza;
+XXXI. Gaceta del Gobierno: El periódico oficial del Gobierno del Estado de México;
 
-XXXIII. Interés difuso: El derecho que se configura como una dimensión social que solidariamente abraza intereses ajenos aunque similares para reclamar la reparación de daños a la salud y menoscabo al medio ambiente. Este derecho le asiste a un individuo o a un grupo que están amenazados por igual con la violación del derecho a la dignidad de la vida, la salud y el peligro de los daños que afectan simultáneamente a muchos miembros de la sociedad;
+XXXII. Hábitat: Lugar de condiciones geofísicas en que se desarrolla la vida de un organismo, una especie o una comunidad humana, animal o vegetal;
 
-XXXIV. Internalización de costos: Obligación de la industria en su actividad productiva de encargarse de la depuración o eliminación de sus propios contaminantes que afectan a la biodiversidad. Al repercutir el costo de la depuración directamente sobre el precio de los productos se consigue satisfacer lo que provocan las interferencias de las externalidades, que se refieren a los costos o beneficios involuntarios generados por las actividades de una industria que no se reflejan en el precio de los productos, incluyen los costos de la contaminación por afectar a la biodiversidad y el medio ambiente, los de descontaminación y de las secuelas de la sobreexplotación de materias primas. Acciones de un agente económico que producen beneficios y costos para otros y por las cuales no se les compensa o paga;
+XXXIII. Impacto ambiental: Modificación favorable o desfavorable del medio ambiente ocasionada por la acción del ser humano o de la naturaleza;
 
-XXXV. Libro: El Libro Segundo del Código para la Biodiversidad del Estado de México;
+XXXIV. Interés difuso: El derecho que se configura como una dimensión social que solidariamente abraza intereses ajenos aunque similares para reclamar la reparación de daños a la salud y menoscabo al medio ambiente. Este derecho le asiste a un individuo o a un grupo que están amenazados por igual con la violación del derecho a la dignidad de la vida, la salud y el peligro de los daños que afectan simultáneamente a muchos miembros de la sociedad;
 
-XXXVI. Ley General: La Ley General del Equilibrio Ecológico y la Protección al Ambiente;
+XXXV. Internalización de costos: Obligación de la industria en su actividad productiva de encargarse de la depuración o eliminación de sus propios contaminantes que afectan a la biodiversidad. Al repercutir el costo de la depuración directamente sobre el precio de los productos se consigue satisfacer lo que provocan las interferencias de las externalidades, que se refieren a los costos o beneficios involuntarios generados por las actividades de una industria que no se reflejan en el precio de los productos, incluyen los costos de la contaminación por afectar a la biodiversidad y el medio ambiente, los de descontaminación y de las secuelas de la sobreexplotación de materias primas. Acciones de un agente económico que producen beneficios y costos para otros y por las cuales no se les compensa o paga;
 
-XXXVII. Manifestación de Impacto Ambiental: El documento mediante el cual se da a conocer con base en estudios el impacto ambiental significativo y potencial que generaría la realización de una obra o actividad, y la forma de evitarlo o reducirlo en caso de que sea negativo;
+XXXVI. Libro: El Libro Segundo del Código para la Biodiversidad del Estado de México;
 
-XXXVIII. Material peligroso: Todo elemento, sustancia, compuesto, residuo o mezcla de ellos que independientemente de su estado físico, sólido, líquido o gaseoso represente un riesgo para el ambiente, la salud o los elementos y recursos naturales por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas;
+XXXVII. Ley General: La Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
-XXXIX. Monitoreo ambiental: Determinación sistemática, continua o periódica de la calidad del aire, del suelo, del agua y demás elementos y recursos naturales renovables o no renovables;
+XXXVIII. Manifestación de Impacto Ambiental: El documento mediante el cual se da a conocer con base en estudios el impacto ambiental significativo y potencial que generaría la realización de una obra o actividad, y la forma de evitarlo o reducirlo en caso de que sea negativo;
 
-XL. Norma oficial mexicana: La regulación técnica de observancia obligatoria que debe aplicar el Gobierno del Estado expedidas por las dependencias competentes conforme a las finalidades establecidas en el artículo 40 de la Ley Federal sobre Metrología y Normalización que establecen reglas, especificaciones, atributos, directrices, características o prescripciones aplicables a un producto, proceso, instalación, sistema, actividad, servicio o método de producción u operación, condiciones, procedimientos, parámetros y límites permisibles que deberán observarse en el desarrollo de las actividades o uso y destino de recursos que causen o puedan causar desequilibro ecológico o daño al medio ambiente y que además permitan uniformar los principios, criterios y políticas en la materia, así como aquellas relativas a la terminología, simbología, embalaje, marcado o etiquetado y las que se refieran a su cumplimiento o aplicación;
+XXXIX. Material peligroso: Todo elemento, sustancia, compuesto, residuo o mezcla de ellos que independientemente de su estado físico, sólido, líquido o gaseoso represente un riesgo para el ambiente, la salud o los elementos y recursos naturales por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas;
 
-XLI. Normas técnicas estatales: El conjunto de reglas, parámetros científicos o tecnológicos emitidos por la Secretaría del Medio Ambiente o cualquier otra dependencia del Estado que establezcan los requisitos, especificaciones, condiciones, procedimientos, parámetros y límites permisibles que deberán observarse en el desarrollo de las actividades o uso y destino de recursos que causen o puedan causar desequilibro ecológico o daño al medio ambiente, y que además permitan uniformar los principios, criterios, políticas y estrategias en la materia;
+XL. Monitoreo ambiental: Determinación sistemática, continua o periódica de la calidad del aire, del suelo, del agua y demás elementos y recursos naturales renovables o no renovables;
 
-XLII. Ordenamiento ecológico: El instrumento de política ambiental cuyo objetivo es regular o inducir el buen uso del suelo y las actividades productivas en el territorio del Estado con el fin de lograr la protección, el uso, la conservación, la preservación de la biodiversidad y el aprovechamiento sostenible de los elementos y recursos naturales a partir del análisis de las tendencias de deterioro y las potencialidades de aprovechamiento de los mismos;
+XLI. Norma oficial mexicana: La regulación técnica de observancia obligatoria que debe aplicar el Gobierno del Estado expedidas por las dependencias competentes conforme a las finalidades establecidas en el artículo 40 de la Ley Federal sobre Metrología y Normalización que establecen reglas, especificaciones, atributos, directrices, características o prescripciones aplicables a un producto, proceso, instalación, sistema, actividad, servicio o método de producción u operación, condiciones, procedimientos, parámetros y límites permisibles que deberán observarse en el desarrollo de las actividades o uso y destino de recursos que causen o puedan causar desequilibro ecológico o daño al medio ambiente y que además permitan uniformar los principios, criterios y políticas en la materia, así como aquellas relativas a la terminología, simbología, embalaje, marcado o etiquetado y las que se refieran a su cumplimiento o aplicación;
 
-XLIII. Planeación ambiental: La formulación, instrumentación, control y evaluación de acciones gubernamentales y no gubernamentales que se dirijan para lograr el ordenamiento ecológico correcto;
+XLII. Normas técnicas estatales: El conjunto de reglas, parámetros científicos o tecnológicos emitidos por la Secretaría del Medio Ambiente o cualquier otra dependencia del Estado que establezcan los requisitos, especificaciones, condiciones, procedimientos, parámetros y límites permisibles que deberán observarse en el desarrollo de las actividades o uso y destino de recursos que causen o puedan causar desequilibro ecológico o daño al medio ambiente, y que además permitan uniformar los principios, criterios, políticas y estrategias en la materia;
 
-XLIV. Política ambiental: El conjunto de principios y conceptos que dirijan y orienten las acciones públicas hacia los diferentes sectores de la sociedad para alcanzar los fines de protección al ambiente y aprovechamiento sostenible de los elementos y recursos naturales, conciliando los intereses públicos y sociales en una relación de autoridad y obediencia que el Estado impone en nombre de las exigencias del conjunto de conceptos y principios;
+XLIII. Ordenamiento ecológico: El instrumento de política ambiental cuyo objetivo es regular o inducir el buen uso del suelo y las actividades productivas en el territorio del Estado con el fin de lograr la protección, el uso, la conservación, la preservación de la biodiversidad y el aprovechamiento sostenible de los elementos y recursos naturales a partir del análisis de las tendencias de deterioro y las potencialidades de aprovechamiento de los mismos;
 
-XLV. Preservación: El conjunto de políticas, medidas y acciones para salvaguardar, proteger y resguardar las condiciones que propicien la evolución y continuidad de los ecosistemas y hábitats naturales;
+XLIV. Planeación ambiental: La formulación, instrumentación, control y evaluación de acciones gubernamentales y no gubernamentales que se dirijan para lograr el ordenamiento ecológico correcto;
 
-XLVI. Programa de manejo: El componente orientado hacia la ejecución de un plan de acciones que identifica necesidades, establece prioridades y organiza acciones a corto, mediano y largo plazo a efecto de preservar y conservar la biodiversidad y controlar el uso y aprovechamiento sostenible de los elementos y recursos naturales de una área determinada;
+XLV. Política ambiental: El conjunto de principios y conceptos que dirijan y orienten las acciones públicas hacia los diferentes sectores de la sociedad para alcanzar los fines de protección al ambiente y aprovechamiento sostenible de los elementos y recursos naturales, conciliando los intereses públicos y sociales en una relación de autoridad y obediencia que el Estado impone en nombre de las exigencias del conjunto de conceptos y principios;
 
-XLVII. Protección al ambiente, al medio ambiente o a la biodiversidad: El conjunto de políticas y medidas para preservar, recuperar, restaurar, remediar, rehabilitar, ordenar, conservar la biodiversidad previniendo y controlando su deterioro;
+XLVI. Preservación: El conjunto de políticas, medidas y acciones para salvaguardar, proteger y resguardar las condiciones que propicien la evolución y continuidad de los ecosistemas y hábitats naturales;
 
-XLVIII. Rehabilitación: El conjunto de acciones tendientes en hacer apto y retornar un lugar a las condiciones funcionales ambientales originales;
+XLVII. Programa de manejo: El componente orientado hacia la ejecución de un plan de acciones que identifica necesidades, establece prioridades y organiza acciones a corto, mediano y largo plazo a efecto de preservar y conservar la biodiversidad y controlar el uso y aprovechamiento sostenible de los elementos y recursos naturales de una área determinada;
 
-XLIX. Remediación: El conjunto de medidas a las que se someten los sitios contaminados para corregir, eliminar o reducir los contaminantes hasta un nivel seguro para la salud, el medio ambiente y la biodiversidad y prevenir su dispersión sin modificarlos. Asimismo se entiende como la reparación del daño causado al medio ambiente;
+XLVIII. Protección al ambiente, al medio ambiente o a la biodiversidad: El conjunto de políticas y medidas para preservar, recuperar, restaurar, remediar, rehabilitar, ordenar, conservar la biodiversidad previniendo y controlando su deterioro;
 
-L. Reparación en especie: La restitución de las condiciones químicas, físicas o biológicas de la flora y fauna silvestres, el paisaje, el suelo, el subsuelo, el agua, el aire y de la estructura o funcionamiento de un ecosistema presente al estado anterior al daño o deterioro ambiental producido;
+XLIX. Rehabilitación: El conjunto de acciones tendientes en hacer apto y retornar un lugar a las condiciones funcionales ambientales originales;
 
-LI. Residuo: El material o producto generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento cuya calidad no permita usarlo nuevamente en el proceso que lo generó y cuyo propietario o poseedor desecha.
+L. Remediación: El conjunto de medidas a las que se someten los sitios contaminados para corregir, eliminar o reducir los contaminantes hasta un nivel seguro para la salud, el medio ambiente y la biodiversidad y prevenir su dispersión sin modificarlos. Asimismo se entiende como la reparación del daño causado al medio ambiente;
+
+LI. Reparación en especie: La restitución de las condiciones químicas, físicas o biológicas de la flora y fauna silvestres, el paisaje, el suelo, el subsuelo, el agua, el aire y de la estructura o funcionamiento de un ecosistema presente al estado anterior al daño o deterioro ambiental producido;
+
+LII. Residuo: El material o producto generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento cuya calidad no permita usarlo nuevamente en el proceso que lo generó y cuyo propietario o poseedor desecha.
 
 Se encuentra en estado sólido, semisólido, líquido o gaseoso contenido en recipientes o depósitos y que puede ser susceptible de ser valorizado y requiriendo sujetarse a tratamiento o disposición final conforme a lo dispuesto en este Libro y demás ordenamientos que de éste deriven;
 
-LII. Residuos peligrosos: Todos aquellos que en cualquier estado físico que se encuentren por sus características corrosivas, tóxicas, reactivas, explosivas, inflamables o biológico-infecciosas representen un peligro para la biodiversidad el equilibrio ecológico o el ambiente;
+LIII. Residuos peligrosos: Todos aquellos que en cualquier estado físico que se encuentren por sus características corrosivas, tóxicas, reactivas, explosivas, inflamables o biológico-infecciosas representen un peligro para la biodiversidad el equilibrio ecológico o el ambiente;
 
-LIII. Residuos sólidos: Los que posean suficiente consistencia para no fluir por sí mismos, así como todos los deshidratados y polvos generados en los sistemas de tratamiento y beneficio, en operación de desazolve y en procesos industriales o perforaciones;
+LIV. Residuos sólidos: Los que posean suficiente consistencia para no fluir por sí mismos, así como todos los deshidratados y polvos generados en los sistemas de tratamiento y beneficio, en operación de desazolve y en procesos industriales o perforaciones;
 
-LIV. Residuos sólidos urbanos o de manejo especial: Los generados en las casas habitación que resultan de la eliminación de los materiales que se utilizan en actividades domésticas, los productos que se consumen, envases, embalajes y empaques, además los que provienen de cualquiera otra actividad dentro de establecimientos o en la vía pública con características domiciliarias y los resultantes de la limpieza de las vías y lugares públicos siempre que no sean considerados por otros ordenamientos jurídicos como residuos de otra índole;
+LV. Residuos sólidos urbanos o de manejo especial: Los generados en las casas habitación que resultan de la eliminación de los materiales que se utilizan en actividades domésticas, los productos que se consumen, envases, embalajes y empaques, además los que provienen de cualquiera otra actividad dentro de establecimientos o en la vía pública con características domiciliarias y los resultantes de la limpieza de las vías y lugares públicos siempre que no sean considerados por otros ordenamientos jurídicos como residuos de otra índole;
 
-LV. Restauración: El conjunto de actividades tendientes a la recuperación, reestablecimiento y reposición de las condiciones que propician la evolución y continuidad de los procesos naturales;
+LVI. Restauración: El conjunto de actividades tendientes a la recuperación, reestablecimiento y reposición de las condiciones que propician la evolución y continuidad de los procesos naturales;
 
-LVI. Riesgo: La probabilidad de que al liberar al medio ambiente o exponerse a un material o residuo se ocasionen efectos adversos a la salud humana, en los demás organismos vivos, en el agua, en el aire, en el suelo, en los ecosistemas o en los bienes y propiedades pertenecientes a los particulares;
+LVII. Riesgo: La probabilidad de que al liberar al medio ambiente o exponerse a un material o residuo se ocasionen efectos adversos a la salud humana, en los demás organismos vivos, en el agua, en el aire, en el suelo, en los ecosistemas o en los bienes y propiedades pertenecientes a los particulares;
 
-LVII. Riesgo ambiental: El daño potencial a la población, sus bienes y al medio ambiente derivado de actividades humanas o fenómenos naturales en caso de presentarse un accidente o un evento extraordinario;
+LVIII. Riesgo ambiental: El daño potencial a la población, sus bienes y al medio ambiente derivado de actividades humanas o fenómenos naturales en caso de presentarse un accidente o un evento extraordinario;
 
-LVIII. Secretaría: La Secretaría del Medio Ambiente del Estado de México;
+LIX. Secretaría: La Secretaría del Medio Ambiente del Estado de México;
 
-LIX. Sistema: El Sistema de Información y Vigilancia de los Ecosistemas y su Equilibrio en el Estado; y
+LX. Sistema: El Sistema de Información y Vigilancia de los Ecosistemas y su Equilibrio en el Estado; y
 
-LX. Sitio contaminado: El lugar, espacio, suelo, cuerpo de agua, instalación o cualquier combinación de éstos que ha sido contaminado con materiales o residuos que por sus cantidades y características puede representar un riesgo a la salud humana, a los organismos vivos y al aprovechamiento de los bienes o propiedades de las personas.
+LXI. Sitio contaminado: El lugar, espacio, suelo, cuerpo de agua, instalación o cualquier combinación de éstos que ha sido contaminado con materiales o residuos que por sus cantidades y características puede representar un riesgo a la salud humana, a los organismos vivos y al aprovechamiento de los bienes o propiedades de las personas.
 
 ### CAPITULO II. DE LAS AUTORIDADES Y SUS ATRIBUCIONES
 
@@ -463,7 +467,11 @@ VII. Promover la concertación de acciones con los sectores social y privado en 
 
 VIII. Imponer en el ámbito de su competencia a través de las dependencias y entidades que correspondan las sanciones administrativas que contempla este Libro; y
 
-IX. Las demás acciones que le confieran otras disposiciones aplicables.
+> <small>(ADICIONADA, G.G. 30 DE AGOSTO DE 2012)</small>
+
+IX. Diseñar e implementar políticas públicas que coadyuven a disminuir los efectos del cambio climático; y
+
+X. Las demás acciones que le confieran otras disposiciones aplicables.
 
 ### CAPITULO III. DE LAS FACULTADES DEL EJECUTIVO ESTATAL A TRAVES DE LA SECRETARIA DEL MEDIO AMBIENTE
 
@@ -505,7 +513,9 @@ XVI. Coordinarse con las dependencias y entidades estatales o municipales para p
 
 XVII. Regular los sistemas de recolección, transporte, almacenamiento, manejo, tratamiento y disposición final de los residuos sólidos urbanos o de manejo especial que no estén considerados como peligrosos estableciendo las normas técnicas estatales y criterios a que se deben sujetar, en el diseño, construcción y operación de las instalaciones destinadas a la disposición final de los residuos;
 
-XVIII. Expedir los criterios y normas técnicas estatales para la preservación, conservación, remediación y restauración de la calidad ambiental, observando los estándares establecidos por la autoridad federal para asegurar la calidad del ambiente;
+> <small>(REFORMADA, G.G. 30 DE AGOSTO DE 2012)</small>
+
+XVIII. Expedir los criterios y normas técnicas estatales para la preservación, conservación, remediación y restauración de la calidad ambiental, incluyendo lo relativo a los efectos del cambio climático, observando los estándares establecidos por la autoridad federal para asegurar la calidad del ambiente;
 
 XIX. La emisión de recomendaciones a las autoridades competentes en materia ambiental con el propósito de promover y exigir el cumplimiento del presente Código;
 
@@ -543,7 +553,9 @@ XXXV. Promover el establecimiento de estímulos e incentivos a la población que
 
 XXXVI. Organizar el Sistema Estatal de Atención a la Denuncia Ciudadana Ambiental;
 
-XXXVII. Fomentar la incorporación en los distintos niveles educativos programas de contenido ecológico y de educación ambiental, de investigación científica y tecnológica pudiendo crear institutos de estudios ambientales y organismos necesarios para su cumplimiento;
+> <small>(REFORMADA, G.G. 30 DE AGOSTO DE 2012)</small>
+
+XXXVII. Fomentar la incorporación, en los distintos niveles educativos, de programas de contenido ecológico y de educación ambiental, de investigación científica y tecnológica, que incluyan el tema del cambio climático para la prevención y difusión de sus efectos, pudiendo crear institutos de estudios ambientales y organismos necesarios para su cumplimiento;
 
 XXXVIII. Imponer las sanciones correspondientes por infracciones a este Libro en el ámbito de su competencia;
 
@@ -681,7 +693,9 @@ XXXV. Las demás que establezcan otras disposiciones aplicables.
 
 18. El Ejecutivo Estatal en el ámbito de su competencia y a través de las autoridades facultadas para ello incorporará en los diversos niveles, tipos y modalidades educativas contenidos ecológicos y ambientales teórico-prácticos en los programas de los ciclos educativos desde el elemental hasta el superior, así como en la formación cultural de la niñez y la juventud dentro de las facultades que le correspondan y promoverá:
 
-I. La concientización de la sociedad para la corresponsabilidad en la protección y mejoramiento de la biodiversidad y del medio ambiente en su dimensión humana, privilegiando la formación de valores y actitudes dentro de un proceso permanente de aprendizaje mediante el cual el individuo interactúe relacionándose (sic) armonía con la naturaleza;
+> <small>(REFORMADA, G.G. 30 DE AGOSTO DE 2012)</small>
+
+I. La concientización de la sociedad para la corresponsabilidad en la protección y mejoramiento de la biodiversidad y del medio ambiente, así como para la prevención y difusión de los efectos del cambio climático, privilegiando la formación de valores y actitudes dentro de un proceso permanente de aprendizaje mediante el cual el individuo interactúe relacionándose en armonía con la naturaleza;
 
 II. En el ámbito de su competencia y a través de las autoridades facultadas para ello, impulsará la inclusión de contenidos ambientales teórico-prácticos en los programas de educación ambiental de los diversos niveles, tipos y modalidades educativas destacando lo relativo a la preservación y protección al ambiente y a la biodiversidad, incorporando criterios y metas para el aprovechamiento sostenible de los elementos y recursos naturales en los ciclos educativos hasta el medio superior;
 
@@ -909,9 +923,9 @@ II. Los lineamientos y estrategias ambientales para la preservación, conservaci
 
 I. La Secretaría publicará por una vez, el aviso del inicio del proceso de elaboración del proyecto de programas o de sus modificaciones en la Gaceta del Gobierno y en un diario de mayor circulación en el Estado de México;
 
-II La Secretaría elaborará los proyectos de programas o sus modificaciones y en coordinación con las dependencias involucradas, definirán los elementos de articulación de dichos programas;
+II. La Secretaría elaborará los proyectos de programas o sus modificaciones y en coordinación con las dependencias involucradas, definirán los elementos de articulación de dichos programas;
 
-III Una vez que haya sido integrado el proyecto, la Secretaría publicará, por una vez, el aviso de que se inicia la consulta pública, en la Gaceta del Gobierno y en un diario de circulación estatal de acuerdo con las siguientes bases:
+III. Una vez que haya sido integrado el proyecto, la Secretaría publicará, por una vez, el aviso de que se inicia la consulta pública, en la Gaceta del Gobierno y en un diario de circulación estatal de acuerdo con las siguientes bases:
 
 a). En las publicaciones se indicará los plazos y mecanismos para garantizar la participación ciudadana, así como los lugares y las fechas de las audiencias públicas que se llevarán a cabo en ese periodo;
 
@@ -1947,7 +1961,7 @@ II. Las descargas de origen municipal y su mezcla incontrolada con otras descarg
 
 III. El vertimiento de residuos sólidos en cuerpos y corrientes de agua y en los sistemas de drenaje y alcantarillado; y
 
-IV. La disposición final de los lodos generados en los sistemas de tratamiento de aguas.
+IV. La disposición final de los Iodos generados en los sistemas de tratamiento de aguas.
 
 ###### Artículo 2.
 
@@ -7243,7 +7257,7 @@ Sin perjuicio de lo anterior los interesados podrán presentar su denuncia direc
 
 ###### Artículo 6.
 
-86. La denuncia deberá presentarse por escrito y contener todos los requisitos que para éste concepto se regulan en el Libro Segundo de éste Código.
+86. La denuncia deberá presentarse por escrito y contener todos los requisitos que para este concepto se regulan en el Libro Segundo de éste Código.
 
 ###### Artículo 6.
 
@@ -7365,7 +7379,7 @@ OCTAVO. El segundo párrafo del artículo 2.307 se contemplará en el Presupuest
 
 NOVENO. El Estado en coordinación con las autoridades municipales según corresponda aplicarán lo dispuesto en este Código en aquellas materias cuya competencia no correspondía a dichos órdenes de gobierno antes de la entrada en vigor del presente Código hasta en tanto sean expedidos o modificados los ordenamientos señalados en el artículo quinto transitorio.
 
-DECIMO. Las licencias, permisos y autorizaciones otorgadas con anterioridad a la fecha de entrada en vigor de este Código seguirán vigentes, su prorroga e inspección se sujetarán a las disposiciones del presente Código.
+DECIMO. Las licencias, permisos y autorizaciones otorgadas con anterioridad a la fecha de entrada en vigor de este Código seguirán vigentes, su prórroga e inspección se sujetarán a las disposiciones del presente Código.
 
 DECIMO PRIMERO. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan al presente Código.
 
@@ -7405,7 +7419,7 @@ VICTOR HUMBERTO BENITEZ TREVIÑO
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 G.G. 31 DE DICIEMBRE DE 2007.
 
@@ -7474,3 +7488,9 @@ SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 TERCERO.- Cuando en otros ordenamientos legales, se haga referencia al término personas con capacidades diferentes, se entenderá que corresponde al término personas con discapacidad.
 
 CUARTO.- El Ejecutivo del Estado hará las modificaciones a los reglamentos, decretos administrativos, acuerdos y demás disposiciones de su competencia, para incorporar a estos el término de discapacitados en sustitución de personas con capacidades diferentes, de acuerdo con el presente Decreto.
+
+G.G. 30 DE AGOSTO DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
