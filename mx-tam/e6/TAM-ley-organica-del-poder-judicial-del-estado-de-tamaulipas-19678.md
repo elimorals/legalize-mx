@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-poder-judicial-del-estado-de-tamaulipas-19678"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-19"
-last_updated: "2012-04-19"
+last_updated: "2012-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 19 de diciembre de 2000.
 
@@ -175,11 +175,29 @@ Son horas hábiles las comprendidas entre las 8:00 y las 19:00 horas.
 
 Durante los días inhábiles deberán dejarse guardias que atiendan los términos constitucionales en materia penal y de justicia para adolescentes y la concesión de la libertad provisional bajo caución, cuando proceda, sin perjuicio de las actividades propias de la función.
 
+###### ARTICULO 9°.
+
+El Supremo Tribunal de Justicia residirá oficialmente en la capital del Estado. Las Salas Regionales residirán en Reynosa, Victoria y Altamira. La de Reynosa, ejercerá jurisdicción en los siguientes Distritos: Tercero, Cuarto, Quinto, Sexto, Décimo Primer, Décimo Tercer y Décimo Cuarto; la de Victoria en los Distritos Primero, Noveno, Décimo y Décimo Segundo; y, la de Altamira, en los Distritos Segundo, Séptimo, Octavo y Décimo Quinto. Los Jueces de Primera Instancia tendrán su residencia oficial en las cabeceras de sus respectivos distritos judiciales, los Jueces Menores y los de Paz residirán en las cabeceras municipales respectivas.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2011)</small>
+
+La residencia de los Juzgados Especializados en Justicia para Adolescentes, de Ejecución de Sanciones y de Ejecución de Medidas para Adolescentes se fijará en los términos que establece la ley.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+El Tribunal Electoral del Poder Judicial del Estado residirá oficialmente en Victoria.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2011)</small>
+
+Existirá, cuando menos, un Juzgado de Primera Instancia en cada Distrito Judicial.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2012)</small>
+
 ## TITULO SEGUNDO. DE LA RESIDENCIA Y ORGANIZACION TERRITORIAL
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 6º.
 
@@ -233,7 +251,7 @@ Existirá, cuando menos, un Juzgado de Primera Instancia en cada Distrito Judici
 
 ###### ARTICULO 10.
 
-El territorio del Estado de Tamaulipas, con excepción de la justicia para adolescentes, la electoral, y la penal en materia de narcomenudeo, se divide en quince Distritos, los cuales son:
+El territorio del Estado de Tamaulipas, con excepción de la justicia para adolescentes y la electoral, se divide en quince Distritos, los cuales son:
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -295,11 +313,9 @@ DECIMO CUARTO DISTRITO JUDICIAL: Cabecera en Valle Hermoso, y comprende el Munic
 
 DECIMO QUINTO DISTRITO JUDICIAL: Cabecera en González, y comprende los Municipios de González y Aldama.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2012)</small>
 
-###### ARTICULO 10 Bis.
-
-El territorio del Estado de Tamaulipas, en tratándose de Justicia para Adolescentes y en materia penal en delitos contra la salud en la modalidad de narcomenudeo, se divide en seis Distritos Judiciales, que tendrán su residencia en las siguientes cabeceras municipales:
+ARTICULO 10 BIS.- El territorio del Estado de Tamaulipas, en tratándose de Justicia para Adolescentes, se divide en seis Distritos Judiciales, que tendrán su residencia en las siguientes cabeceras municipales:
 
 > <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
@@ -327,9 +343,7 @@ Sexto Distrito Judicial: Cabecera en El Mante, y comprende los Distritos Judicia
 
 > <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2011)</small>
 
-###### ARTICULO 10 Ter.
-
-La distribución en los Distritos Judiciales de los Juzgados en materia de Ejecución de Sanciones y de Ejecución de Medidas para Adolescentes, se determinará por el Consejo de la Judicatura del Poder Judicial de Tamaulipas.
+ARTICULO 10 TER.- La distribución en los Distritos Judiciales de los Juzgados en materia de Ejecución de Sanciones y de Ejecución de Medidas para Adolescentes, se determinará por el Consejo de la Judicatura del Poder Judicial de Tamaulipas.
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
@@ -821,9 +835,9 @@ II.- Los Jueces de lo Familiar;
 
 III.- Los Jueces de lo Penal;
 
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
-IV.- Los Jueces Especializados en Justicia para Adolescentes y en delitos contra la salud en la modalidad de narcomenudeo;
+IV.- Los Jueces Especializados en Justicia para Adolescentes;
 
 > <small>(REFORMADA, P.O. 1 DE JUNIO DE 2011)</small>
 
@@ -927,15 +941,21 @@ II.- Cumplimentar los exhortos que les dirijan los Jueces de Primera Instancia e
 
 III.- Practicar las diligencias que les encomiende el Supremo Tribunal de Justicia;
 
-IV.- Visitar mensualmente los establecimientos donde se encuentren recluidos los procesados a su disposición para los efectos del Título Sexto de esta ley; y,
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
-V.- Desempeñar las demás funciones que les encomienden las leyes federales y las del Estado.
+IV.- Visitar mensualmente los establecimientos donde se encuentren recluidos los procesados a su disposición para los efectos del Título Sexto de esta ley;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+V.- Conocer de los delitos contra la salud en la modalidad de narcomenudeo previstos por el artículo 474 de la Ley General de Salud, aplicando en todo lo conducente, las disposiciones del Código de Procedimientos Penales para el Estado, y de manera supletoria el Código Federal de Procedimientos Penales; y
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+VI.- Desempeñar las demás funciones que les encomienden las leyes federales y las del Estado.
 
 > <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
-###### ARTICULO 39 Bis.
-
-Corresponde a los Jueces Especializados en Justicia para Adolescentes, en los términos de la ley de la materia:
+ARTICULO 39 BIS.- Corresponde a los Jueces Especializados en Justicia para Adolescentes, en los términos de la ley de la materia:
 
 I.- Conocer de las conductas tipificadas como delito en las leyes penales del Estado atribuidas a adolescentes conforme a la competencia en los términos de la ley de la materia;
 
@@ -961,9 +981,7 @@ XI.- Desempeñar las demás funciones que les encomienden las leyes federales y 
 
 > <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2011)</small>
 
-###### ARTICULO 39 Ter.
-
-Corresponde a los Jueces de Ejecución de Sanciones las atribuciones siguientes:
+ARTICULO 39 TER.- Corresponde a los Jueces de Ejecución de Sanciones las atribuciones siguientes:
 
 l.- Dar por compurgadas las penas y medidas de seguridad impuestas por sentencia definitiva, en los términos que la impuso el Juez de la causa, ordenar la libertad de los sentenciados que las hubieran cumplido, restituyéndolo en el goce de sus derechos suspendidos;
 
@@ -993,9 +1011,7 @@ IX.- Las demás atribuciones que esta ley y otros ordenamientos le asignen.
 
 > <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2011)</small>
 
-###### ARTÍCULO 39 Quáter.
-
-Corresponde a los Jueces de Ejecución de Medidas para Adolescentes las atribuciones siguientes:
+ARTÍCULO 39 QUÁTER.- Corresponde a los Jueces de Ejecución de Medidas para Adolescentes las atribuciones siguientes:
 
 I.- Dar por cumplida la medida impuesta al adolescente por sentencia definitiva, en los términos que la impuso el Juez de la causa, ordenando el externamiento de quienes las hubieran cumplido, restituyéndolo en el goce de sus derechos suspendidos;
 
@@ -1029,21 +1045,7 @@ IX.- Las demás atribuciones que ésta ley y otros ordenamientos le asignen.
 
 En los Distritos Judiciales en que el volumen de los negocios no amerite que los Juzgados se especialicen por materia, funcionarán Juzgados Mixtos, incluida la materia Familiar.
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
-
-###### ARTICULO 40 Bis.
-
-. Corresponde a los Jueces Especializados en delitos contra la salud en su modalidad de narcomenudeo:
-
-I.- Conocer de los delitos Contra la Salud en la modalidad de narcomenudeo previstos por el artículo 474 de la Ley General de Salud, aplicando en todo lo conducente, las disposiciones del Código de Procedimientos Penales Vigente en el Estado, y de manera supletoria el Código Federal de Procedimientos Penales;
-
-II.- Sustanciar los medios de comunicación procesal que les encomienden los jueces del estado u otros tribunales del país, relacionados con su función;
-
-III.- Realizar las diligencias que le encomiende el Supremo Tribunal de Justicia del Estado;
-
-IV.- Visitar mensualmente los establecimientos donde se encuentren recluidos los procesados a su disposición para los efectos del título Sexto de ésta Ley; y
-
-V.- Desempeñar las demás funciones que les encomienden las leyes del estado y las federales.
+ARTICULO 40 BIS.- (DEROGADO, P.O. 30 DE AGOSTO DE 2012)
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2003)</small>
 
@@ -1823,15 +1825,15 @@ Las faltas temporales de los servidores públicos no comprendidos en los artícu
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
-ARTICULO 108 bis.- De conformidad con los párrafos tercero de la fracción I y séptimo de la fracción II, del artículo 106 de la Constitución Política del Estado, los magistrados del Supremo Tribunal de Justicia y los consejeros de la Judicatura, tendrán derecho a un haber de retiro de conformidad con las bases establecidas en esta Ley, y en el Reglamento del Haber para el Retiro que al efecto expida el Pleno del Consejo de la Judicatura y el Pleno del Supremo Tribunal de Justicia del Estado.
+ARTICULO 108 BIS.- De conformidad con los párrafos tercero de la fracción I y séptimo de la fracción II, del artículo 106 de la Constitución Política del Estado, los magistrados del Supremo Tribunal de Justicia y los consejeros de la Judicatura, tendrán derecho a un haber de retiro de conformidad con las bases establecidas en esta Ley, y en el Reglamento del Haber para el Retiro que al efecto expida el Pleno del Consejo de la Judicatura y el Pleno del Supremo Tribunal de Justicia del Estado.
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
-ARTICULO 108 ter.- Para los efectos del presente capítulo, se entenderá por haber para el retiro, aquélla remuneración económica que se otorga a los magistrados del Supremo Tribunal de Justicia y a los consejeros de la Judicatura, que se encuentren en situación de retiro, ya sea por la conclusión de su período, o por cualesquiera de las causas de retiro forzoso establecidas en la Constitución Política del Estado.
+ARTICULO 108 TER.- Para los efectos del presente capítulo, se entenderá por haber para el retiro, aquélla remuneración económica que se otorga a los magistrados del Supremo Tribunal de Justicia y a los consejeros de la Judicatura, que se encuentren en situación de retiro, ya sea por la conclusión de su período, o por cualesquiera de las causas de retiro forzoso establecidas en la Constitución Política del Estado.
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
-ARTICULO 108 quater.- El haber de retiro se integrará de la siguiente manera:
+ARTICULO 108 QUATER.- El haber de retiro se integrará de la siguiente manera:
 
 I.- Quienes cumplan el cien por ciento del término legal de ejercicio señalado en la Constitución local, tendrán derecho, independientemente de sus prestaciones laborales tales como vacaciones, prima de vacaciones y de antigüedad, bonos y demás que prevea el Presupuesto de Egresos, al equivalente a tres meses de la percepción que el cargo de Magistrado o Consejero tenga asignada conforme al Presupuesto de Egresos del Poder Judicial del año que corresponda al pago de esta prestación, asimismo, al equivalente del sueldo mensual del rubro 01 contenido en el Presupuesto de Egresos del Poder Judicial, por cada mes que se encuentre impedido para actuar como patrono, abogado o representante en cualquier proceso ante los órganos del Poder Judicial del Estado, así como el aguinaldo y el seguro de gastos médicos y de vida contratados por el Supremo Tribunal de Justicia.
 
@@ -1839,7 +1841,7 @@ II.- A los magistrados o consejeros que no hubieran cumplido el término legal d
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
-ARTICULO 108 quinquies.- En caso de fallecimiento del magistrado o consejero en funciones, únicamente se entregará la prestación económica determinada en la fracción I del artículo anterior a su cónyuge supérstite y a sus hijos menores o incapaces, independientemente de los seguros y demás prestaciones a que tenga derecho conforme a las condiciones generales de trabajo y de seguridad social en beneficio de los trabajadores al servicio del Estado.
+ARTICULO 108 QUINQUIES.- En caso de fallecimiento del magistrado o consejero en funciones, únicamente se entregará la prestación económica determinada en la fracción I del artículo anterior a su cónyuge supérstite y a sus hijos menores o incapaces, independientemente de los seguros y demás prestaciones a que tenga derecho conforme a las condiciones generales de trabajo y de seguridad social en beneficio de los trabajadores al servicio del Estado.
 
 ## TITULO QUINTO. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
 
@@ -1997,9 +1999,13 @@ II.- Proponer al Pleno del Supremo Tribunal de Justicia el nombramiento, ratific
 
 III.- Designar a quien deba suplir a los funcionarios del Poder Judicial, excepto a los Magistrados del Supremo Tribunal de Justicia, en los casos de ausencias temporales, de acuerdo a lo dispuesto en esta ley;
 
-IV.- Definir el Distrito Judicial, número, materia y domicilio de cada Juzgado;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
-V.- Señalar a cada Juez su distrito judicial, su número y la materia en que debe ejercer sus funciones;
+IV.- Definir el Distrito Judicial, número, materia, domicilio y especialización, en su caso, de cada Juzgado;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+V.- Señalar a cada Juez su distrito judicial, su número, la materia y especialización, en su caso, en que debe ejercer sus funciones;
 
 VI.- Crear nuevos juzgados y distritos judiciales, previa la sustentación presupuestal para ello;
 
@@ -2787,9 +2793,7 @@ VII.- Las demás que le asigne el Consejo de la Judicatura.
 
 > <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
-###### ARTICULO 179 Bis.
-
-El Poder Judicial contará con una Coordinación de Planeación, Desarrollo Administrativo y Estadística, que estará a cargo de un Coordinador y el personal de apoyo que determine el Consejo de la Judicatura y permita el presupuesto.
+ARTICULO 179 BIS.- El Poder Judicial contará con una Coordinación de Planeación, Desarrollo Administrativo y Estadística, que estará a cargo de un Coordinador y el personal de apoyo que determine el Consejo de la Judicatura y permita el presupuesto.
 
 Las funciones de la Coordinación de Planeación, Desarrollo Administrativo y Estadística serán:
 
@@ -3241,7 +3245,7 @@ ATENTAMENTE
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRINGTON RUVALCABA.- EL SECRETARIO GENERAL DE GOBIERNO.- HOMERO DIAZ RODRIGUEZ.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 25 DE DICIEMBRE DE 2001.
 
@@ -3402,3 +3406,9 @@ El artículo décimo tercero del presente Decreto surtirá efectos jurídicos a 
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE AGOSTO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
