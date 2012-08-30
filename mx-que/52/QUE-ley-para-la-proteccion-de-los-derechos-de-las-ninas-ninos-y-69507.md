@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-la-proteccion-de-los-derechos-de-las-ninas-ninos-y-695
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-31"
-last_updated: "2009-07-31"
+last_updated: "2012-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 31 de julio de 2009.
 
@@ -428,6 +428,14 @@ Para efectos del artículo anterior, se entenderán como condiciones de marginac
 ###### Artículo 46.
 
 Las (sic) administración pública estatal y municipal, en el ámbito de sus respectivas competencias, establecerán programas interinstitucionales para proteger a las niñas, niños y adolescentes que se encuentren en condiciones de marginación, vulnerabilidad o desventaja social.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+Artículo 46 bis. Las autoridades del Estado implementarán, en forma coordinada con la Federación y los municipios, en el ámbito de sus respectivas atribuciones, programas, mecanismos y protocolos de seguridad que tengan por objeto la búsqueda inmediata de menores de edad desaparecidos, para lo cual podrán solicitar la participación de la sociedad y de los medios masivos de comunicación, para atender este tipo de casos y darles la difusión necesaria, a fin de facilitar su localización.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+Artículo 46 ter. Las autoridades estatales, en el ámbito de su competencia, vigilarán la aplicación de la normatividad prevista e implementarán los mecanismos necesarios, para que los centros públicos, privados y sociales que atienden a niñas, niños y adolescentes, cumplan los requerimientos de infraestructura, recursos y funcionamiento necesarios que garanticen su salud física y mental.
 
 ### Capítulo Segundo. De las niñas, niños y adolescentes discapacitados
 
@@ -996,3 +1004,13 @@ Lic. José Alfredo Botello Montes
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE AGOSTO DE 2012.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Tercero. Remítase la presente Ley al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
