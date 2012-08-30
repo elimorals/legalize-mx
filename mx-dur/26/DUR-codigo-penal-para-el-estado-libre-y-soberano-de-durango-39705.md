@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-39705"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-04-29"
-last_updated: "2009-12-10"
+last_updated: "2012-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
 > <small>N. DE E. DE CONFORMIDAD CON LOS ARTICULOS PRIMERO, SEGUNDO Y OCTAVO TRANSITORIOS DEL CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO, PUBLICADO EN EL P.O. DE 14 DE JUNIO DE 2009, EL PRESENTE ORDENAMIENTO ABROGADO EN LO QUE SE OPONGA AL CONTENIDO DEL NUEVO CODIGO, HASTA EN TANTO SE PUBLIQUE EN EL P.O. DEL ESTADO LA DECLARATORIA QUE EMITA EL CONGRESO DEL ESTADO O LA COMISION PERMANENTE A SOLICITUD EXPRESA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO, RESPECTO DE LA VIGENCIA DEL REFERIDO INSTRUMENTO, POR LO QUE LAS DISPOSICIONES DEL PRESENTE CODIGO SE APLICARAN PARA INVESTIGAR Y JUZGAR LOS DELITOS COMETIDOS DURANTE LA VIGENCIA DEL MISMO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE AGOSTO DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el jueves 29 de abril de 2004.
 
@@ -176,6 +176,10 @@ Para todos los efectos legales se califican como delitos graves consignados en e
 I. Los previstos en los capítulos siguientes: CASOS DE CULPA, PRETERINTENCIONALIDAD Y ERROR en su artículo 86 incisos a) y b); REBELIÓN en sus artículos 141, 142, 143, 144 y 145; TERRORISMO en su artículo 149; SABOTAJE en su artículo 150; PECULADO en el último párrafo del artículo 172; DELITOS EN EL ÁMBITO DE LA PROCURACIÓN DE JUSTICIA en su artículo 196; TORTURA en sus artículos 197, 198 y 200; DELITOS COMETIDOS EN EL ÁMBITO DE LA ADMINISTRACIÓN DE JUSTICIA en sus artículos 205 y 206; FALSIFICACIÓN DE TÍTULOS AL PORTADOR Y DOCUMENTOS DE CRÉDITO PÚBLICO en su artículo 235; ASOCIACIÓN DELICTUOSA, PANDILLERISMO Y DELINCUENCIA ORGANIZADA en sus artículos 244 y 245; ATAQUES A LAS VÍAS DE COMUNICACIÓN Y MEDIOS DE TRANSPORTE en su artículo 267; CORRUPCIÓN DE MENORES E INCAPACES en sus artículos 290, 292 y 293; PORNOGRAFÍA INFANTIL en sus artículos 294 y 295; HOMICIDIO en sus artículos 327, 330, 331 y 332; LESIONES en sus artículos 337 y 339; REGLAS COMUNES PARA LOS DELITOS DE HOMICIDIO Y LESIONES en su artículo 344; INFANTICIDIO en sus artículos 347, 348 y 349; PRIVACIÓN DE LA LIBERTAD PERSONAL en los dos últimos párrafos de su artículo 360; SECUESTRO en sus artículos 362, 362 bis, 362 ter y 363; DESAPARICIÓN FORZADA DE PERSONAS en su artículo 364; RETENCIÓN Y SUSTRACCIÓN DE MENORES O INCAPACES Y CON FINES DE CORRUPCIÓN O TRAFICO DE ÓRGANOS en sus artículos 367, 368 y 369; ASALTO en su artículo 378; VIOLACIÓN en sus artículos 392, 393, 394, 395, 396, 397 y 398; ROBO en sus artículos 409, 411 fracciones IV y V, 412 con las excepciones hechas en el artículo 413, 414 y 415; ABIGEATO en sus artículos 420 y 421; EXACCIÓN FRAUDULENTA en su artículo 428, DESPOJO previsto por el último párrafo del artículo 430.
 
 II.- Los delitos considerados como graves en leyes especiales del Estado.
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+III. Los delitos contra la salud a que se refieren los artículos 475 y 476 de la ley General de Salud.
 
 ### CAPÍTULO CUARTO. TENTATIVA DEL DELITO
 
@@ -4158,6 +4162,12 @@ Artículo Quinto.- El Sistema Procesal Penal Acusatorio se adopta el Sistema Int
 2.- Código Penal para el Estado Libre y Soberano de Durango aprobado mediante el Decreto 284 del 11 de junio de 2009, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, Nº 48 de fecha 14 de Junio de 2009 y sus reformas posteriores; y
 
 3.- Código Procesal Penal aprobado mediante el Decreto N° 232 del 4 de diciembre de 2008, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 11 de fecha 5 de diciembre de 2009 y sus reformas posteriores.
+
+P.O. 30 DE AGOSTO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales en lo que se opongan al presente Decreto.
 
 ###### ARTÍCULO PRIMERO.
 
