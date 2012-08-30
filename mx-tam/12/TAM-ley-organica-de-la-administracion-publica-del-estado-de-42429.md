@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-42429"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-12-21"
-last_updated: "2012-07-04"
+last_updated: "2012-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42429&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2012.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 21 de diciembre de 2004.
 
@@ -125,11 +125,15 @@ Al frente de cada dependencia habrá un titular, quien ejercerá las funciones d
 
 Los titulares de las dependencias y entidades a que se refiere esta ley dictarán las resoluciones que les competen, pudiendo delegar en sus subordinados cualesquiera de sus facultades, salvo aquéllas que no lo permitan la Constitución, leyes o reglamentos vigentes.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 15.
 
-1. Los titulares de las dependencias formularán los anteproyectos de leyes, reglamentos, decretos y acuerdos, cuyas materias correspondan al ramo a su cargo y los remitirán al Ejecutivo para su consideración, a través de la Secretaría General de Gobierno.
+1. Los titulares de las dependencias formularán los anteproyectos de leyes, reglamentos, decretos y acuerdos, cuyas materias correspondan al ramo a su cargo y los remitirán al Ejecutivo para su consideración, a través de la Secretaría del Trabajo y Asuntos Jurídicos.
 
-2. Las leyes, decretos, acuerdos y demás resoluciones que el Congreso del Estado envíe al Ejecutivo, serán turnados por éste al Secretario General de Gobierno, para su publicación en el Periódico Oficial del Estado.
+2. Las leyes, decretos, acuerdos y demás resoluciones que el Congreso del Estado envíe al Ejecutivo serán turnados por éste a la Secretaría General de Gobierno, quien los remitirá a la Secretaría del Trabajo y Asuntos Jurídicos, para su análisis y opinión sobre la facultad del Ejecutivo de emitir las observaciones conducentes.
+
+3. Una vez realizado el estudio correspondiente de las leyes, decretos, acuerdos y demás resoluciones que el Congreso del Estado envíe al Ejecutivo, y en caso de no haber observaciones al respecto, serán turnadas a la Secretaría General de Gobierno para su publicación en el Periódico Oficial Estado.
 
 ###### ARTICULO 16.
 
@@ -195,9 +199,9 @@ III. Secretaría de Administración;
 
 IV. Secretaría de Desarrollo Económico y Turismo;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
-V. Secretaría del Trabajo;
+V. Secretaría del Trabajo y Asuntos Jurídicos;
 
 VI. Secretaría de Desarrollo Rural;
 
@@ -243,23 +247,21 @@ II. Coordinar las relaciones del Poder Ejecutivo con los Poderes Legislativo y J
 
 III. Conducir las relaciones del Poder Ejecutivo con los Poderes de la Unión, los órganos constitucionales federales autónomos y los gobiernos de otras entidades federativas, siempre que no se atribuya a otra dependencia por disposición legal;
 
-IV. Proporcionar asesoría jurídica a las dependencias y entidades, así como a los Ayuntamientos, cuando éstos lo soliciten;
+IV. (DEROGADA, P.O. 30 DE AGOSTO DE 2012)
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
-V. Participar en la elaboración de los proyectos de iniciativa de ley o de Decreto del Gobernador ante el Congreso del Estado y ser el conducto para su envío a éste con motivo del procedimiento legislativo correspondiente; preparar y dar trámite a la presentación de observaciones del Ejecutivo con relación a las leyes o decretos que apruebe el Congreso del Estado, y elaborar los decretos de promulgación de las leyes, decretos o acuerdo (sic) que apruebe el Poder Legislativo y efectuar su publicación en el Periódico Oficial del Estado;
+V. Ser el conducto para enviar al Congreso del Estado, las iniciativas de ley o de decreto del Gobernador; así como, elaborar los decretos de promulgación y efectuar su publicación en el Periódico Oficial del Estado;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+VI. (DEROGADA, P.O. 30 DE AGOSTO DE 2012)
 
-VI. Coordinar y, en su caso, ejercer la representación del Ejecutivo del Estado en los asuntos de su competencia en materia de litigios previstos en los artículos 103 y 107 y en el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, así como atender la promoción y defensa de los asuntos del Ejecutivo del Estado en los tribunales competentes;
+VII. (DEROGADA, P.O. 30 DE AGOSTO DE 2012)
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
-VII. Establecer la coordinación necesaria con las dependencias y entidades de la Administración Pública Estatal para alentar la congruencia de los criterios jurídicos del Gobierno del Estado y promover el funcionamiento de la Comisión de Estudios Jurídicos del Gobierno del Estado;
+VIII. Suscribir los reglamentos, decretos, acuerdos, circulares y cualquier otra disposición jurídica cuya emisión competa al Gobernador del Estado;
 
-VIII. Intervenir en la elaboración de reglamentos, decretos, acuerdos, circulares y cualquier otra disposición jurídica cuya emisión competa al Gobernador del Estado;
-
-IX. Llevar el registro de autógrafos de los servidores públicos estatales y municipales, así como de los demás servidores a quienes esté encomendada la fe pública, y legalizar las firmas de los mismos;
+IX.- (DEROGADA, P.O. 30 DE AGOSTO DE 2012)
 
 X. Alentar el cumplimiento de los preceptos constitucionales por parte de las autoridades del Estado, particularmente en lo relativo a los derechos y libertades fundamentales de las personas y dictar medidas administrativas para tal efecto;
 
@@ -269,11 +271,15 @@ XII. Impulsar el desarrollo político democrático, la promoción de la particip
 
 XIII. Prestar a los órganos administrativos y jurisdiccionales del Estado con competencia en materia electoral, la colaboración que requieran del Poder Ejecutivo para el cumplimiento de sus funciones;
 
-XIV. Coordinar los programas estatales de población y de desarrollo municipal;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+XIV.- Coordinar los programas estatales de desarrollo municipal;
 
 XV. Dar trámite a las atribuciones del Gobernador del Estado en términos de la ley reglamentaria de las disposiciones de la Constitución Política de los Estados Unidos Mexicanos en materia de agrupaciones religiosas e iglesias, asociaciones religiosas y culto público;
 
-XVI. Ejercer las atribuciones que al Ejecutivo del Estado se asignen en disposiciones generales del Poder Legislativo Federal en materia de detonantes y pirotecnia, portación de armas, juegos y sorteos, y migración;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+XVI. Ejercer las atribuciones que al Ejecutivo del Estado se asignen en disposiciones generales del Poder Legislativo Federal en materia de migración, así como coordinar la política de atención a los migrantes;
 
 XVII. Dar cauce a la atribución del Gobernador de auxiliar a los tribunales y juzgados del Estado para que la justicia se administre pronta y cumplidamente, y se ejecuten las sentencias que dicten, prestándoles el apoyo que requieran para el mejor ejercicio de sus funciones;
 
@@ -281,27 +287,33 @@ XVIII. Tramitar el ejercicio de las atribuciones del Gobernador en materia de de
 
 XIX. Dar trámite a los nombramientos, licencias, remociones y renuncias de los titulares de las dependencias y, en su caso, participar en lo conducente a esas acciones en las entidades, conjuntamente con la dependencia a la que corresponda coordinar el sector administrativo específico;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
-XX. Coordinar las relaciones del Poder Ejecutivo con las autoridades agrarias, el Tribunal Fiscal y los tribunales de lo contencioso-administrativo del Estado;
+XX.- Coordinar las relaciones del Poder Ejecutivo con las autoridades agrarias;
 
 XXI. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2010)
 
 XXII. Ejecutar los actos de expropiación, de ocupación temporal y de limitación de dominio por causa de utilidad pública, de conformidad con la legislación aplicable;
 
-XXIII. Organizar y vigilar el funcionamiento de la defensoría de oficio;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
-XXIV. Coordinar la prestación de los servicios del Registro Civil, conforme a las leyes que lo rigen;
+XXIII. Organizar y vigilar el funcionamiento de la defensoría pública;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
-XXV. Coordinar administrativamente las actividades del Instituto Registral y Catastral del Estado de Tamaulipas;
+XXIV. Organizar, dirigir y administrar el servicio para la atención a las víctimas del delito y celebrar acuerdos de colaboración con instituciones federales, de otras Entidades Federativas o municipales del Estado, así como con el sector privado;
 
-XXVI. Tramitar los nombramientos que expida el Gobernador para el ejercicio de la función notarial y disponer la práctica periódica de visitas de inspección a quienes la realicen;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
-XXVII. Organizar, administrar y vigilar el Archivo General de Notarías y autorizar los libros que deben utilizar los notarios en el desempeño de sus funciones;
+XXV. Velar por el respeto y la exacta observancia de los derechos humanos;
 
-XXVIII. Fomentar los valores cívicos, divulgar el calendario cívico del Estado y promover y organizar actos cívicos;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+XXVI. Expedir los nombramientos que otorgue el Gobernador para el ejercicio de la función notarial;
+
+XXVII. (DEROGADA, P.O. 30 DE AGOSTO DE 2012)
+
+XXVIII. (DEROGADA, P.O. 30 DE AGOSTO DE 2012)
 
 XXIX. Organizar, editar y publicar el Periódico Oficial del Estado, y mantener un archivo actualizado del mismo en el Archivo General del Estado;
 
@@ -311,7 +323,9 @@ XXX. Participar, en coordinación con la Secretaría de Desarrollo Urbano y Medi
 
 XXXI. (DEROGADA, P.O. 28 DE MARZO DE 2012)
 
-XXXII. Tramitar, por Acuerdo del Gobernador, las solicitudes de extradición, amnistía e indultos.
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+XXXII.- Tramitar, por Acuerdo del Gobernador, las solicitudes de amnistía e indultos;
 
 XXXIII. Establecer y operar un sistema de información, en coordinación con la Secretaría de Seguridad Pública, que contribuya a preservar el orden y la tranquilidad social así como la estabilidad y permanencia de las instituciones constitucionales del Estado;
 
@@ -597,21 +611,37 @@ XLIV. Participar, en el ámbito de su competencia, con la Secretaría de Desarro
 
 XLV. Formular, promover y conducir las estrategias, objetivos y normas en materia de turismo de naturaleza y turismo cinegético, en coordinación con la Secretaría de Desarrollo Urbano y Medio Ambiente, con objeto de lograr el uso óptimo de los recursos, manteniéndose los procesos ambientales esenciales e impulsándose la conservación de los recursos naturales y la diversidad biológica; y (sic)
 
-XLVI. (DEROGADA, P.O. 1 DE SEPTIEMBRE DE 2011)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE AGOSTO DE 2012)</small>
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+XLVI. Coordinar el Servicio Estatal del Empleo y establecer, conjuntamente con otras dependencias, instancias u organismos federales y con la Secretaría de Educación en el ámbito estatal, los programas de adiestramiento y capacitación industrial que se requieran;
 
-XLVII. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2010)</small>
+XLVII. Establecer y promover estrategias que eleven la competitividad y productividad de la mano de obra en el Estado, así como las que vinculen el sector productivo con el educativo, en coordinación con la Secretaría de Educación, y establecer mecanismos que faciliten el contacto entre la oferta y la demanda de trabajo;
 
-#### Sección V. De la Secretaría del Trabajo
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+XLVIII. Impulsar la igualdad de oportunidades laborales de los grupos sociales vulnerables y en desventaja;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+XLIX. Diseñar, proponer y ejecutar, en coordinación con la Secretaría de Desarrollo Social, programas para la generación de oportunidades de empleo para la juventud; y
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+L. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE AGOSTO DE 2012)</small>
+
+#### Sección V. De la Secretaría del Trabajo y Asuntos Jurídicos
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 28.
 
-A la Secretaría del Trabajo, además de las atribuciones que le confieren las leyes aplicables, le corresponde el despacho de los siguientes asuntos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+A la Secretaría del Trabajo y Asuntos Jurídicos, además de las atribuciones que le confieren las leyes aplicables, le corresponde el despacho de los siguientes asuntos:
 
 I. Ejercer las funciones que en materia de trabajo y previsión social correspondan al Ejecutivo del Estado y llevar la estadística general del ramo;
 
@@ -621,21 +651,81 @@ III. Participar en la integración y funcionamiento de la Comisión Consultiva E
 
 IV. Intervenir, a petición de parte, en la revisión de los contratos colectivos de trabajo, así como en los conflictos que surjan por violación a las leyes o a los citados contratos;
 
-V. Proporcionar el apoyo administrativo que para su funcionamiento requieran las Juntas Locales de Conciliación y Arbitraje y el Tribunal Local de Conciliación y Arbitraje del Estado;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+V. Proporcionar el apoyo administrativo que para su funcionamiento requieran las Juntas Locales de Conciliación y Arbitraje y del Tribunal de Arbitraje para los Trabajadores al Servicio del Estado;
 
 VI. Coordinar el funcionamiento de las Juntas Locales de Conciliación y Arbitraje y de las comisiones que se formen para regular las relaciones obrero-patronales, así como vigilar el funcionamiento de las mismas;
 
 VII. Coordinar y vigilar el debido funcionamiento de la Procuraduría de la Defensa del Trabajo para el Estado de Tamaulipas;
 
-VIII. Coordinar el Servicio Estatal del Empleo y establecer, conjuntamente con otras dependencias, instancias u organismos federales y con la Secretaría de Educación en el ámbito estatal, los programas de adiestramiento y capacitación industrial que se requieran;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
-IX. Establecer y promover estrategias que eleven la competitividad y productividad de la mano de obra en el Estado, así como las que vinculen el sector productivo con el educativo, en coordinación con la Secretaría de Educación, y establecer mecanismos que faciliten el contacto entre la oferta y la demanda de trabajo;
+VIII. Ser Consejero Jurídico del Gobernador del Estado y representante legal en los términos que establece la ley;
 
-X. Impulsar la igualdad de oportunidades laborales de los grupos sociales vulnerables y en desventaja;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
-XI. Diseñar, proponer y ejecutar, en coordinación con la Secretaría de Desarrollo Social, programas para la generación de oportunidades de empleo para la juventud; y
+IX. Coordinar y, en su caso, ejercer la representación del Ejecutivo del Estado en los asuntos de su competencia en materia de litigios previstos en los artículos 103 y 107 y en el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, así como atender la promoción y defensa de los asuntos del Ejecutivo del Estado en los tribunales competentes;
 
-XII. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+X. Informar al Gobernador del Estado sobre las leyes y reglamentos que sean contrarios a la Constitución Política de los Estados Unidos Mexicanos o a la Constitución Política del Estado, y proponer las enmiendas necesarias;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+XI. Participar en la elaboración de los proyectos de iniciativa de ley o de decreto del Gobernador ante el Congreso del Estado;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+XII. Preparar y dar trámite a la presentación de observaciones del Ejecutivo con relación a las leyes o decretos que apruebe el Congreso del Estado;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+XIII. Intervenir en la elaboración de reglamentos, decretos, acuerdos, circulares y cualquier otra disposición jurídica cuya emisión competa al Gobernador del Estado;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+XIV. Establecer la coordinación necesaria con las dependencias y entidades de la Administración Pública Estatal para alentar la congruencia de los criterios jurídicos del Gobierno del Estado y promover el funcionamiento de la Comisión de Estudios Jurídicos del Gobierno del Estado;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+XV. Procurar el cumplimiento a las normas jurídicas por parte de las dependencias y entidades y, en su caso, proponer al titular del Ejecutivo las medidas pertinentes para tal fin;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+XVI. Proporcionar asesoría jurídica a las dependencias y entidades, así como a los Ayuntamientos, cuando éstos lo soliciten;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+XVII. Ejercer las atribuciones que al Ejecutivo del Estado se asignen en disposiciones generales del Poder Legislativo Federal en materia de detonantes y pirotecnia, portación de armas y juegos y sorteos;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+XVIII. Coordinar las relaciones del Poder Ejecutivo con las del Tribunal Fiscal y los tribunales de lo contencioso administrativo del Estado;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+XIX. Llevar el registro de autógrafos de los servidores públicos estatales y municipales, así como de los demás servidores a quienes esté encomendada la fe pública, y legalizar las firmas de los mismos;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+XX. Llevar el registro de mediadores públicos y privados que ejerzan la mediación en el Estado, así como su capacitación, certificación y supervisión conforme a la ley de la materia;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+XXI. Coordinar la prestación de los servicios del Registro Civil, conforme a las leyes que lo rigen;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+XXII. Coordinar administrativamente las actividades del Instituto Registral y Catastral del Estado de Tamaulipas;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+XXIII. Tramitar los nombramientos que expida el Gobernador para el ejercicio de la función notarial; organizar, administrar y vigilar el Archivo General de Notarías, autorizar los libros que deben utilizar los notarios en el desempeño de sus funciones, así como disponer la practica periódica de visitas de inspección; y
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+XXIV. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
 
 #### Sección VI. De la Secretaría de Desarrollo Rural
 
@@ -771,15 +861,21 @@ XVI. Elaborar y presentar al Ejecutivo del Estado el proyecto del Programa Estat
 
 XVII. Diseñar, proponer y ejecutar la política estatal de atención a la juventud, promoviéndose la adopción de políticas en materia de educación sexual, prevención de enfermedades, oportunidades de empleo, expresión cultural y artística y lucha contra las adicciones y la delincuencia;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
-XVIII. Organizar, coordinar y vigilar el funcionamiento del Instituto de la Mujer Tamaulipeca y del Instituto Tamaulipeco de la Juventud;
+XVIII. Organizar, coordinar y vigilar el funcionamiento del Instituto de la Mujer Tamaulipeca, del Instituto Tamaulipeco de la Juventud y del Instituto Tamaulipeco de Vivienda y Urbanismo;
 
-XIX. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2010)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE AGOSTO DE 2012)</small>
 
-XX. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2010)
+XIX. Expedir y suscribir, por acuerdo del Ejecutivo y por conducto del Instituto Tamaulipeco de Vivienda y Urbanismo, las escrituras y títulos de propiedad que deba otorgar en cumplimiento de sus atribuciones;
 
-XXI. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2010)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE AGOSTO DE 2012)</small>
+
+XX. Formular, coordinar, promover y ejecutar, por conducto del Instituto Tamaulipeco de Vivienda y Urbanismo, y en coordinación con las dependencias correspondientes, los programas de vivienda, particularmente de las de bajo costo, edificios multifamiliares y zonas habitacionales para trabajadores de escasos recursos, y procurar la regeneración de zonas marginadas y viviendas insalubres e inadecuadas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE AGOSTO DE 2012)</small>
+
+XXI. Fomentar, por conducto del Instituto Tamaulipeco de Vivienda y Urbanismo, y en coordinación con las dependencias correspondientes, la organización de sociedades cooperativas de vivienda y materiales para construcción;
 
 XXII. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2010)
 
@@ -989,11 +1085,11 @@ XXXIX. Recibir, investigar y atender o, en su caso, canalizar a las autoridades 
 
 XL. Coordinar la política estatal sobre cambio climático y sobre la protección de la capa de ozono, de acuerdo con las competencias de las autoridades federales;
 
-XLI. Expedir y suscribir, por acuerdo del Ejecutivo y por conducto del Instituto Tamaulipeco de Vivienda y Urbanismo, las escrituras y títulos de propiedad que deba otorgar en cumplimiento de sus atribuciones;
+XLI. (DEROGADA, P.O. 30 DE AGOSTO DE 2012)
 
-XLII. Formular, coordinar, promover y ejecutar, por conducto del Instituto Tamaulipeco de Vivienda y Urbanismo, y en coordinación con las dependencias correspondientes, los programas de vivienda, particularmente de las de bajo costo, edificios multifamiliares y zonas habitacionales para trabajadores de escasos recursos, y procurar la regeneración de zonas marginadas y viviendas insalubres e inadecuadas;
+XLII. (DEROGADA, P.O. 30 DE AGOSTO DE 2012)
 
-XLIII. Fomentar, por conducto del Instituto Tamaulipeco de Vivienda y Urbanismo, y en coordinación con las dependencias correspondientes, la organización de sociedades cooperativas de vivienda y materiales para construcción;
+XLIII. (DEROGADA, P.O. 30 DE AGOSTO DE 2012)
 
 XLIV. Establecer los lineamientos urbanísticos a que deben ajustarse los proyectos de obra pública y desarrollo urbano que realicen las dependencias y entidades oficiales o particulares;
 
@@ -1017,9 +1113,9 @@ LIII. Vigilar y opinar previamente a la modificación o demolición de inmuebles
 
 LIV. Elaborar y mantener actualizado el inventario del patrimonio histórico-cultural, y promover la conservación del entorno urbano original de las poblaciones del Estado;
 
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
-LV. Coordinar administrativamente las actividades de las entidades estatales denominadas: Comisión Estatal de Áreas Naturales Protegidas; Comisión Estatal para la Conservación y Aprovechamiento Económico de la Vida Silvestre; Instituto Tamaulipeco de Vivienda y Urbanismo; Comisión Estatal de Agua de Tamaulipas; Comisiones Municipales de Agua Potable y Alcantarillado; y de las otras entidades que determine el Ejecutivo del Estado, de acuerdo a la materia de su competencia; y
+LV. Coordinar administrativamente las actividades de la Comisión Estatal de Áreas Naturales Protegidas; la Comisión Estatal para la Conservación y Aprovechamiento Económico de la Vida Silvestre; la Comisión Estatal de Agua de Tamaulipas; Comisiones Municipales de Agua Potable y Alcantarillado que se encuentren a cargo del Estado en tanto organismos descentralizados, así como de las otras entidades que determine el Ejecutivo del Estado, de acuerdo a la materia de su competencia; y
 
 LVI. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
 
@@ -1155,17 +1251,23 @@ XXXI. Las demás que le señalen las leyes, reglamentos y otras disposiciones ju
 
 A la Procuraduría General de Justicia, además de las atribuciones que le confieren la Constitución Política del Estado, la Ley Orgánica del Ministerio Público del Estado de Tamaulipas y demás disposiciones vigentes, le corresponde el despacho de los siguientes asuntos:
 
-I. Ser Consejero Jurídico del Gobernador del Estado y representante legal en los términos que establece la ley;
+I. (DEROGADA, P.O. 30 DE AGOSTO DE 2012)
 
-II. Promover la exacta observancia y respeto de las libertades y derechos fundamentales de los individuos;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
-III. Procurar el cumplimiento a las normas jurídicas por parte de las dependencias y entidades y, en su caso, proponer al titular del Ejecutivo las medidas pertinentes para tal fin;
+II. Velar por el respeto y la exacta observancia de los derechos humanos en la esfera de su competencia;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+III. Opinar y participar en los proyectos de iniciativas de ley o de reformas legislativas para la exacta observancia de la Constitución Política de los Estados Unidos Mexicanos y que estén vinculadas con las materias de su competencia;
 
 IV. Contribuir al cumplimiento y aplicación de la Ley de Responsabilidades de los Servidores Públicos del Estado, en coordinación con la Contraloría Gubernamental;
 
 V. Prestar al Poder Judicial el auxilio necesario para el debido ejercicio de sus funciones;
 
-VI. Informar al Gobernador del Estado sobre las leyes y reglamentos que sean contrarios a la Constitución Política de los Estados Unidos Mexicanos o a la Constitución Política del Estado, y proponer las enmiendas necesarias;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+VI. Informar al Gobernador del Estado sobre las leyes y reglamentos que sean contrarios a la Constitución Política de los Estados Unidos Mexicanos o a la Constitución Política del Estado, que estén vinculadas con las materias de su competencia y proponer las enmiendas necesarias;
 
 VII. Suministrar los informes que le solicite la Comisión de Derechos Humanos del Estado, y resolver sobre las recomendaciones que emitan dicha Comisión y la Comisión Nacional de los Derechos Humanos;
 
@@ -1181,7 +1283,9 @@ XII. Llevar, en coordinación con la Secretaría de Seguridad Pública, la estad
 
 XIII. Asesorar a los Municipios en el ejercicio de acciones patrimoniales y de todo orden, cuando así lo soliciten;
 
-XIV. Organizar, dirigir y administrar un servicio para la atención a las víctimas del delito y celebrar acuerdos de colaboración con instituciones federales, de otras Entidades Federativas o municipales del Estado, así como con el sector privado;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+XIV. Tramitar, por Acuerdo del Gobernador, las solicitudes de extradición;
 
 XV. Formular y desarrollar programas de capacitación para el personal de la dependencia;
 
@@ -1345,7 +1449,9 @@ La liquidación o extinción de una entidad se realizará mediante el mismo proc
 
 ###### ARTICULO 45.
 
-1. Para resolver los conflictos que se presenten en las relaciones laborales entre el Estado y sus trabajadores, entre los patrones y sus trabajadores, o las controversias que se susciten entre las autoridades del Estado y los particulares, existirán un Tribunal de Arbitraje, una Junta Local de Conciliación y Arbitraje y un Tribunal Fiscal.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+1. Para resolver los conflictos que se presenten en las relaciones laborales entre el Estado y sus trabajadores, entre los patrones y sus trabajadores, o las controversias que se susciten entre las autoridades del Estado y los particulares, existirán un Tribunal de Arbitraje para los Trabajadores al Servicio del Estado, las Juntas Locales de Conciliación y Arbitraje, y un Tribunal Fiscal del Estado.
 
 2. Los tribunales administrativos gozarán de plena autonomía jurisdiccional para emitir sus laudos y resoluciones.
 
@@ -1357,7 +1463,9 @@ La liquidación o extinción de una entidad se realizará mediante el mismo proc
 
 1. Para el ejercicio de sus funciones, los tribunales administrativos contarán con el apoyo del Poder Ejecutivo.
 
-2. La Secretaría del Trabajo apoyará la operación del Tribunal de Arbitraje y de las Juntas de Conciliación y Arbitraje.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+2. La Secretaría del Trabajo y Asuntos Jurídicos apoyará la operación del Tribunal de Arbitraje para los Trabajadores al Servicio del Estado y de las Juntas Locales de Conciliación y Arbitraje.
 
 3. La Secretaría de Finanzas prestará el apoyo que requiera el tribunal competente para dirimir controversias contencioso-administrativas.
 
@@ -1536,3 +1644,41 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Las Secretarías de Finanzas, de Administración y la Contraloría Gubernamental, coordinarán las acciones necesarias para el cumplimiento del presente Decreto en todos sus términos, gozando al efecto de las atribuciones necesarias para su estricta aplicación.
+
+P.O. 30 DE AGOSTO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Con motivo de la reforma al artículo 28 de la Ley Orgánica de la Administración Pública del Estado, relativo a la Secretaría del Trabajo y Asuntos Jurídicos, la Secretaría General de Gobierno transferirá a la misma los recursos humanos, los activos patrimoniales constituidos por los bienes inmuebles, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, el equipo utilizado, respectivamente, para la atención de las funciones asignadas a aquella dependencia.
+
+Con relación a las funciones transferidas a la Secretaría General de Gobierno y a la Secretaría de Desarrollo Económico y Turismo, respectivamente, por la Procuraduría General de Justicia del Estado y la Secretaría del Trabajo y Asuntos Jurídicos, aquellas tendrán a su cargo los activos patrimoniales enunciados en el párrafo que antecede, y que se refieran a esas funciones, de conformidad con su anterior asignación administrativa.
+
+Lo dispuesto en el presente Decreto no afectará los derechos adquiridos por los trabajadores de las dependencias antes mencionadas.
+
+###### ARTÍCULO TERCERO.
+
+La reubicación de funciones que con motivo de la expedición de este Decreto deban realizarse de una dependencia a otra, incluirán los recursos presupuestales asignados a los asuntos de las nuevas competencias que se establecen, así como los programas y calendarios financieros.
+
+###### ARTÍCULO CUARTO.
+
+Cuando con motivo del presente Decreto se confiera una denominación nueva o distinta a alguna dependencia cuyas funciones sean referidas por otros ordenamientos legales, dichas atribuciones se entenderán concedidas a la dependencia que conforme a este Decreto cuente con la atribución correspondiente.
+
+###### ARTÍCULO QUINTO.
+
+Sin demérito de lo establecido en sus Decretos de creación, las Juntas de Gobierno del Instituto Tamaulipeco de Vivienda y Urbanismo y del Instituto Registral y Catastral del Estado de Tamaulipas, deberán ser presididas por los Titulares de la Secretaría de Desarrollo Social y de la Secretaría del Trabajo y Asuntos Jurídicos, respectivamente.
+
+###### ARTÍCULO SEXTO.
+
+En cumplimiento del presente Decreto se faculta al Ejecutivo para reorganizar las estructuras de las dependencias y, mediante el procedimiento aplicable, de las entidades; así como para crear las áreas y unidades necesarias, y modificar y redistribuir las partidas del Presupuesto de Egresos de Estado para el ejercicio fiscal de 2012, sin excederse del monto total autorizado del gasto público para el propio ejercicio.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los asuntos que con motivo del presente Decreto pasen del conocimiento de una dependencia a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramitan se incorporen a la dependencia que deba atenderlos, salvo los trámites urgentes o sujetos a plazos improrrogables.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan todas aquellas disposiciones que se opongan el presente (sic) Decreto.
