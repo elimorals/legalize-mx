@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-fomento-economico-para-el-estado-de-mexico-76536"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-07"
-last_updated: "2010-09-07"
+last_updated: "2012-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # LEY DE FOMENTO ECONOMICO PARA EL ESTADO DE MEXICO
 
-LEY DE FOMENTO ECONOMICO PARA EL ESTADO DE MEXICO
+LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2012.
 
 Ley publicada en la Sección Tercera de la Gaceta de Gobierno del Estado de México, el martes 7 de septiembre de 2010.
 
@@ -47,9 +47,11 @@ LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO
 
 ### Capítulo Primero. De la naturaleza, objeto y aplicación de la Ley
 
+> <small>(REFORMADO, G.G. 30 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 1.
 
-Las disposiciones de esta Ley son de orden público e interés social, y tienen por objeto establecer los lineamientos que propicien las condiciones económicas y la instalación de la infraestructura necesaria en la Entidad para atraer inversión productiva, nacional y extranjera; y generar empleos que provean al bienestar de los habitantes del territorio mexiquense. Lo anterior, mediante el fortalecimiento de sus ventajas comparativas para incidir en la mejora constante de sus indicadores de competitividad.
+Las disposiciones de esta Ley son de orden público e interés social, y tienen por objeto promover y fomentar el desarrollo económico y la competitividad del Estado de México, mediante la atracción de inversión productiva, nacional y extranjera, que permita generar empleos que provean al bienestar de los habitantes del territorio mexiquense.
 
 ###### Artículo 2.
 
@@ -89,59 +91,63 @@ XIII. Expediente técnico: Al conjunto de documentos requeridos a los particular
 
 XIV. Fomento económico: Al conjunto de acciones que promueven las autoridades, básicamente mediante incentivos fiscales o económicos, para que los inversionistas, empresarios y ciudadanos en general, puedan realizar, en mejores condiciones, las actividades económicas que incidan en el desarrollo económico de la Entidad;
 
-XV. Gestión empresarial: Al conjunto de acciones que debe realizar el particular, con base en la legislación aplicable, a efecto de cumplir con las obligaciones a su cargo para obtener las autorizaciones, permisos, licencias, dictámenes, cédulas, constancias y otras resoluciones que emitan las dependencias, para la instalación, apertura, operación y ampliación de empresas en el Estado;
+> <small>(ADICIONADA, G.G. 30 DE AGOSTO DE 2012)</small>
 
-XVI. Gobierno: Al Gobierno del Estado de México;
+XV. Competitividad: A la capacidad que tiene el Estado de México para desarrollar sistemáticamente las ventajas comparativas en cada una de sus regiones; que le permiten alcanzar, sostener y mejorar una determinada posición en sus entornos socioeconómicos sustentables;
 
-XVII. Gobernador del Estado: Al Gobernador del Estado de México;
+XVI. Gestión empresarial: Al conjunto de acciones que debe realizar el particular, con base en la legislación aplicable, a efecto de cumplir con las obligaciones a su cargo para obtener las autorizaciones, permisos, licencias, dictámenes, cédulas, constancias y otras resoluciones que emitan las dependencias, para la instalación, apertura, operación y ampliación de empresas en el Estado;
 
-XVIII. IIFAEM: Al Instituto de Investigación y Fomento de las Artesanías del Estado de México;
+XVII. Gobierno: Al Gobierno del Estado de México;
 
-XIX. IFOMEGEM: Al Instituto de Fomento Minero y Estudios Geológicos del Estado de México;
+XVIII. Gobernador del Estado: Al Gobernador del Estado de México;
 
-XX. EL IME: El Instituto Mexiquense del Emprendedor;
+XIX. IIFAEM: Al Instituto de Investigación y Fomento de las Artesanías del Estado de México;
 
-XXI. Incentivo: Al estímulo de carácter fiscal, económico, material o de cualquier otra naturaleza, que, de acuerdo con la Ley, otorga el Gobierno a los particulares para promover la inversión y fomentar el desarrollo económico;
+XX. IFOMEGEM: Al Instituto de Fomento Minero y Estudios Geológicos del Estado de México;
 
-XXII. Inversión: Al flujo de dinero que se destina a la adquisición, mantenimiento o ampliación de bienes de capital tendentes a la realización de actividades económicas lucrativas, mediante la creación de empleos y la generación de riqueza;
+XXI. EL IME: El Instituto Mexiquense del Emprendedor;
 
-XXIII. Inversionista: A la persona o grupo de personas que realiza inversiones directas en la Entidad;
+XXII. Incentivo: Al estímulo de carácter fiscal, económico, material o de cualquier otra naturaleza, que, de acuerdo con la Ley, otorga el Gobierno a los particulares para promover la inversión y fomentar el desarrollo económico;
 
-XXIV. Ley: A la Ley de Fomento Económico para el Estado de México;
+XXIII. Inversión: Al flujo de dinero que se destina a la adquisición, mantenimiento o ampliación de bienes de capital tendentes a la realización de actividades económicas lucrativas, mediante la creación de empleos y la generación de riqueza;
 
-XXV. Microparque: Al parque industrial dividido en lotes de no más de mil metros cuadrados, para el establecimiento de MIPYMES;
+XXIV. Inversionista: A la persona o grupo de personas que realiza inversiones directas en la Entidad;
 
-XXVI. MIPYMES: A la Micro, Pequeñas y Medianas Empresas de conformidad con lo establecido por el artículo 3 de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa;
+XXV. Ley: A la Ley de Fomento Económico para el Estado de México;
 
-XXVII. Organismos: A los organismos auxiliares de la administración pública estatal y/o municipal, según corresponda;
+XXVI. Microparque: Al parque industrial dividido en lotes de no más de mil metros cuadrados, para el establecimiento de MIPYMES;
 
-XXVIII. Parque industrial: Al espacio territorial dotado de los servicios básicos para el adecuado funcionamiento de establecimientos industriales;
+XXVII. MIPYMES: A la Micro, Pequeñas y Medianas Empresas de conformidad con lo establecido por el artículo 3 de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa;
 
-XXIX. Pueblos Indígenas: A las personas que con este carácter determine la Ley vigente en la materia;
+XXVIII. Organismos: A los organismos auxiliares de la administración pública estatal y/o municipal, según corresponda;
 
-XXX. Registro: Al Registro Estatal de Desarrollo Económico;
+XXIX. Parque industrial: Al espacio territorial dotado de los servicios básicos para el adecuado funcionamiento de establecimientos industriales;
 
-XXXI. Reglamento: Al Reglamento de esta Ley expedido por el Gobernador del Estado;
+XXX. Pueblos Indígenas: A las personas que con este carácter determine la Ley vigente en la materia;
 
-XXXII. SAREMEX: Al Sistema de Apertura Rápida de Empresas del Estado de México, instrumento con base en el cual se atiende la gestión empresarial relativa a actividades económicas de bajo riesgo que no requieren del dictamen de impacto regional;
+XXXI. Registro: Al Registro Estatal de Desarrollo Económico;
 
-XXXIII. Secretaría: A la Secretaría de Desarrollo Económico del Estado de México;
+XXXII. Reglamento: Al Reglamento de esta Ley expedido por el Gobernador del Estado;
 
-XXXIV. Sector estratégico: A aquéllos en los que se realicen inversiones tendentes a promover la innovación y elevar la competitividad económica del Estado; o bien que estén definidos como tales en el Plan Estatal de Desarrollo vigente, así como los que determine el Consejo;
+XXXIII. SAREMEX: Al Sistema de Apertura Rápida de Empresas del Estado de México, instrumento con base en el cual se atiende la gestión empresarial relativa a actividades económicas de bajo riesgo que no requieren del dictamen de impacto regional;
 
-XXXV. Servicio: A la actividad que realizan las dependencias en acatamiento de algún ordenamiento jurídico, tendente a satisfacer las necesidades de los ciudadanos, una vez cumplidos los requisitos que el ordenamiento respectivo establece;
+XXXIV. Secretaría: A la Secretaría de Desarrollo Económico del Estado de México;
 
-XXXVI. Sistema Estatal: Al Sistema Estatal para el Desarrollo Económico;
+XXXV. Sector estratégico: A aquéllos en los que se realicen inversiones tendentes a promover la innovación y elevar la competitividad económica del Estado; o bien que estén definidos como tales en el Plan Estatal de Desarrollo vigente, así como los que determine el Consejo;
 
-XXXVII SMG: Al salario mínimo general;
+XXXVI. Servicio: A la actividad que realizan las dependencias en acatamiento de algún ordenamiento jurídico, tendente a satisfacer las necesidades de los ciudadanos, una vez cumplidos los requisitos que el ordenamiento respectivo establece;
 
-XXXVIII. SUGE: Al Sistema Único de Gestión Empresarial;
+XXXVII. Sistema Estatal: Al Sistema Estatal para el Desarrollo Económico;
 
-XXXIX. Sustentabilidad: A la posibilidad de promover el desarrollo económico sin comprometer la explotación racional de los recursos naturales de la Entidad ni la viabilidad de las generaciones futuras;
+XXXVIII. SMG: Al salario mínimo general;
 
-XL. Trámite: A la solicitud o gestión que realizan las personas físicas o jurídicas colectivas, con base en un ordenamiento jurídico, ya sea para cumplir una obligación que tienen a su cargo, o bien para obtener información, un beneficio, un servicio o una resolución, y que la autoridad a que se refiere el propio ordenamiento está obligada a resolver en los términos del mismo; y
+XXXIX. SUGE: Al Sistema Único de Gestión Empresarial;
 
-XLI. Visita colegiada: A la inspección física que los integrantes de la Comisión realizan al inmueble donde se pretende desarrollar el proyecto, producto de una gestión empresarial.
+XL. Sustentabilidad: A la posibilidad de promover el desarrollo económico sin comprometer la explotación racional de los recursos naturales de la Entidad ni la viabilidad de las generaciones futuras;
+
+XLI. Trámite: A la solicitud o gestión que realizan las personas físicas o jurídicas colectivas, con base en un ordenamiento jurídico, ya sea para cumplir una obligación que tienen a su cargo, o bien para obtener información, un beneficio, un servicio o una resolución, y que la autoridad a que se refiere el propio ordenamiento está obligada a resolver en los términos del mismo; y
+
+XLII. Visita colegiada: A la inspección física que los integrantes de la Comisión realizan al inmueble donde se pretende desarrollar el proyecto, producto de una gestión empresarial.
 
 ### Capítulo Segundo. De las Autoridades de Fomento Económico
 
@@ -151,13 +157,19 @@ Son autoridades para los efectos de la Ley, el Ejecutivo del Estado, a través d
 
 Los municipios realizarán acciones de fomento económico que sean congruentes con las previstas en la Ley, el Plan de Desarrollo del Estado de México y los Planes Municipales de Desarrollo aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 5.
 
-Las autoridades promoverán las acciones necesarias para:
+Las autoridades promoverán las acciones que sean necesarias para:
 
-I. Diseñar y promover políticas públicas que estimulen la inversión y generen empleos bien remunerados, mediante el fortalecimiento de la alianza estratégica entre el Gobierno y los sectores social, académico y empresarial;
+> <small>(REFORMADA, G.G. 30 DE AGOSTO DE 2012)</small>
 
-II. Impulsar políticas públicas que logren atraer inversiones productivas al Estado, para lo cual promoverán el diseño y aprobación de incentivos que tengan un respaldo institucional claro y transparente;
+I. Diseñar e implementar políticas públicas que estimulen la inversión y generen empleos bien remunerados, mediante el fortalecimiento de la alianza estratégica entre el Gobierno y los sectores social, académico y empresarial;
+
+> <small>(REFORMADA, G.G. 30 DE AGOSTO DE 2012)</small>
+
+II. Generar políticas públicas que logren atraer inversiones productivas al Estado, para lo cual promoverán el diseño y aprobación de incentivos que tengan un respaldo institucional claro y transparente;
 
 III. Diseñar, promover, identificar y/o establecer mecanismos e instrumentos financieros para el fomento de la inversión productiva en el Estado;
 
@@ -165,9 +177,13 @@ IV. Diseñar estrategias de fomento de los sectores económicos estratégicos de
 
 V. Identificar, con la participación municipal correspondiente, la vocación productiva de los municipios y regiones del Estado, a fin de diseñar las estrategias y líneas de acción necesarias para lograr su crecimiento económico, como uno de los fundamentos del desarrollo económico del Estado;
 
-VI. Diseñar y establecer programas y mecanismos tendentes a la coordinación de acciones que sirvan al objetivo de vincular las necesidades del sector productivo con el conocimiento científico y tecnológico desarrollado en la Entidad para impulsar y consolidar el desarrollo económico basado en el conocimiento;
+> <small>(REFORMADA, G.G. 30 DE AGOSTO DE 2012)</small>
 
-VII. Promover el desarrollo científico y tecnológico, así como la transferencia del conocimiento, como pilares del desarrollo económico del Estado;
+VI. Diseñar y establecer programas y mecanismos tendentes a la coordinación de acciones que sirvan al objetivo de vincular las necesidades del sector productivo con el conocimiento científico y tecnológico desarrollado en la Entidad para impulsar y consolidar el desarrollo económico y la competitividad basado en el conocimiento;
+
+> <small>(REFORMADA, G.G. 30 DE AGOSTO DE 2012)</small>
+
+VII. Promover el desarrollo científico y tecnológico, así como la transferencia del conocimiento, como pilares del desarrollo económico y la competitividad del Estado;
 
 VIII. Fomentar el desarrollo industrial de manera ordenada, mediante el establecimiento de parques y zonas industriales en las distintas regiones del Estado;
 
@@ -269,9 +285,11 @@ El Sistema tendrá como finalidad contribuir al cumplimiento de los objetivos de
 
 ### Capítulo Segundo. Del Consejo Estatal de Fomento Económico y Competitividad
 
+> <small>(REFORMADO, G.G. 30 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 9.
 
-El Consejo es un órgano de gobierno, cuyo objeto es el diseño de políticas, estrategias, programas y acciones tendentes al fomento de la inversión productiva y de las actividades económicas en el Estado, con el fin de impulsar el desarrollo económico.
+El Consejo es un órgano de gobierno, cuyo objeto es el diseño de políticas, estrategias, programas y acciones tendentes al fomento de la inversión productiva y de las actividades económicas en el Estado, con el fin de impulsar el desarrollo económico y la competitividad.
 
 ###### Artículo 10.
 
@@ -339,7 +357,9 @@ El Consejo contará con los comités, comisiones y grupos de trabajo necesarios 
 
 Son atribuciones del Consejo:
 
-I. Analizar la problemática del Estado en materia de desarrollo económico en general, y de los sectores estratégicos y sectores empresariales específicos en particular, y elaborar el diagnóstico respectivo para su presentación al Consejo durante su Segunda Sesión Anual;
+> <small>(REFORMADA, G.G. 30 DE AGOSTO DE 2012)</small>
+
+I. Analizar la problemática del Estado en materia de desarrollo económico y competitividad en general, y de los sectores estratégicos y sectores empresariales específicos en particular, y elaborar el diagnóstico respectivo para su presentación al Consejo durante su Segunda Sesión Anual;
 
 II. Analizar y proponer los mecanismos e instrumentos necesarios para resolver dicha problemática, tomando el parecer, planteamientos y compromisos de sus integrantes;
 
@@ -443,9 +463,11 @@ La Secretaría diseñará estrategias y mecanismos que tiendan al fortalecimient
 
 #### Sección Primera. De las Micro, Pequeñas y Medianas Empresas Mexiquenses
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 19.
 
-En sus procedimientos de licitación para adquisiciones y contrataciones, las dependencias darán preferencia a las MIPYMES y/o agrupaciones de MIPYMES, en igualdad de condiciones frente a empresas grandes, a efecto de contribuir a su consolidación, diversificación y fortalecimiento, y al desarrollo económico del Estado.
+En sus procedimientos de licitación para adquisiciones y contrataciones, las dependencias darán preferencia a las MIPYMES y/o agrupaciones de MIPYMES, en igualdad de condiciones frente a empresas grandes, a efecto de contribuir a su consolidación, diversificación y fortalecimiento, y al desarrollo económico y competitividad del Estado.
 
 Tratándose de la adquisición de bienes y servicios que no excedan de ocho mil SMG de la zona económica de que se trate, se procurará que en ellas participen preferentemente las MIPYMES mexiquenses.
 
@@ -1280,3 +1302,11 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. LUIS ENRIQUE MIRANDA NAVA
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 30 DE AGOSTO DE 2012.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Quedan sin efecto las disposiciones que a la entrada en vigor del presente, contravengan las disposiciones del mismo.
