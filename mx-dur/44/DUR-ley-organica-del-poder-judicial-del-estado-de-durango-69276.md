@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-poder-judicial-del-estado-de-durango-69276"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-07-02"
-last_updated: "2012-08-28"
+last_updated: "2012-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 2 de julio de 2009.
 
@@ -491,7 +491,9 @@ Corresponde conocer a las salas colegiadas del Tribunal
 
 Superior de Justicia:
 
-I. De las apelaciones de las sentencias definitivas dictadas en materia civil, mercantil y familiar. En materia penal, de los recursos de casación y de revisión que se interpongan contra resoluciones pronunciadas por los tribunales de Juicio Oral. Estos recursos podrán ser resueltos incluso por magistrados que hubieren conocido en el mismo asunto en apelación;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+I. De las apelaciones de las sentencias definitivas dictadas en materia civil, mercantil y familiar. En materia penal, de los recursos de casación y de revisión que se interpongan contra resoluciones pronunciadas por los tribunales de Juicio Oral; estos recursos podrán ser resueltos incluso por magistrados que hubieren conocido en el mismo asunto en apelación. Así como de las apelaciones, revisiones forzosas y extraordinarias que le sean remitidas por los juzgados mixtos y especializados de primera instancia.
 
 II. De las recusaciones y excusas de los magistrados de las salas unitarias, así como de las de sus propios integrantes, las que se calificarán por los dos restantes; y
 
@@ -513,7 +515,9 @@ III. Las demás que les confieran las disposiciones legales aplicables.
 
 Las salas unitarias conocerán:
 
-I. De las apelaciones de autos y sentencias interlocutorias dictadas en materia civil y familiar. En materia penal, de los recursos de apelación contra las resoluciones del Juez de Control y de Ejecución de Sentencia. En materia mercantil, sólo de aquéllos que sean de tramitación inmediata;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+I. De las apelaciones de autos y sentencias interlocutorias dictadas en materia civil y familiar. En materia penal, de los recursos de apelación contra las resoluciones del Juez de Control y de Ejecución de Sentencia. Así como de las apelaciones que le sean remitidas por los juzgados mixtos y especializados de primera instancia. En materia mercantil, sólo de aquéllos que sean de tramitación inmediata;
 
 II. De las recusaciones y excusas con oposición de parte de los jueces, así como de los secretarios y actuarios de segunda instancia;
 
@@ -795,9 +799,17 @@ Los juzgados de Control se integrarán por un Juez, y los tribunales de Juicio O
 
 Los juzgados y tribunales penales tendrán la competencia, facultades y obligaciones que les confieren las leyes respectivas, y en especial:
 
-I. Conocerán de los delitos del orden común cuando éstos no estén reservados a otra autoridad judicial, así como de los incidentes de responsabilidad civil que de tales delitos se deriven; y
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
-II. Darán oportuno aviso al Tribunal Superior de Justicia del inicio de los procesos respectivo.
+I. Conocerán de los delitos del orden común cuando éstos no estén reservados a otra autoridad judicial, así como de los incidentes de responsabilidad civil que de tales delitos se deriven;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+II. Darán oportuno aviso al Tribunal Superior de Justicia del inicio de los procesos respectivos, y
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+III. De los delitos contra la salud a que se refieren los artículos 475 y 476 de la Ley General de Salud.
 
 ###### ARTÍCULO 48.
 
@@ -879,9 +891,11 @@ Los juzgados auxiliares podrán ser especializados por materia o mixtos. En mate
 
 #### SECCIÓN SEXTA. DE LOS JUZGADOS DE PRIMERA INSTANCIA CON JURISDICCIÓN MIXTA O DE LOS NO ESPECIALIZADOS POR MATERIA
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
 ###### ARTÍCULO 53.
 
-En los distritos judiciales diversos al de la Capital, habrá juzgados de Primera Instancia con competencia para conocer de las materias civil, mercantil y familiar, con excepción de aquéllos en que existan especializados por materia.
+En los distritos judiciales diversos al de la Capital, habrá juzgados de Primera Instancia con competencia para conocer de las materias civil, penal, mercantil y familiar, con excepción de aquéllos en que existan especializados por materia.
 
 ###### ARTÍCULO 54.
 
@@ -891,11 +905,21 @@ Los juzgados de Primera Instancia a que se refiere el artículo anterior, tendr�
 
 Corresponde a los juzgados de Primera Instancia mixtos o no especializados por materia:
 
-I. Conocer de los asuntos que esta ley señala a los juzgados de lo civil, de lo familiar y de lo mercantil, teniendo la jurisdicción que la ley les fija;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
-II. Conocer y resolver las controversias que se suscitan entre los juzgados municipales de sus respectivos distritos; y
+I. Conocer de los asuntos que esta ley señala a los juzgados de lo civil, penal, de lo familiar y de lo mercantil, teniendo la jurisdicción que la ley les fija;
 
-III. Librar excitativas de justicia a los juzgados municipales de su Distrito.
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+II. Conocer y resolver las controversias que se suscitan entre los juzgados municipales de sus respectivos distritos;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+III. Librar excitativas de justicia a los juzgados municipales de su Distrito, y
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+IV. De los delitos contra la salud a que se refieren los artículos 475 y 476 de la Ley General de Salud.
 
 #### SECCIÓN SÉPTIMA. DE LOS JUZGADOS MUNICIPALES
 
@@ -1955,7 +1979,7 @@ El Consejo de la Judicatura estará facultado para sancionar a los servidores p�
 
 ###### ARTÍCULO 152.
 
-Si la falta se cometiere porque alguna de las salas del Tribunal Superior de Justicia no dicte resoluciones dentro del término legal, sólo será responsable el Magistrado ponente, cuando no presentare oportunamente el proyecto respectivo a la consideración de los demás magistrados; y los tres serán responsables, si habiéndose presentado la ponencia correspondiente no concurrieran a la discusión del negocio o no emitan su voto dentro del mismo plazo legal, sin causa justificada.
+Si la falta se cometiere porque alguna de las salas del Tribunal Superior de Justicia no dicte resoluciones dentro del término legal, sólo será responsable el Magistrado ponente, cuando no presentare oportunamente el proyecto respectivo a la consideración de los demás magistrados y los tres serán responsables, si habiéndose presentado la ponencia correspondiente no concurrieran a la discusión del negocio o no emitan su voto dentro del mismo plazo legal, sin causa justificada.
 
 ###### ARTÍCULO 153.
 
@@ -3398,3 +3422,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El actual Presidente del Tribunal Electoral del Poder Judicial del Estado de Durango, concluirá su periodo el 30 de agosto del 2012. A más tardar el 31 de agosto de 2012, el Pleno del Tribunal Electoral deberá elegir al nuevo Presidente.
 
 TERCERO.-Se (sic) derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 30 DE AGOSTO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales en lo que se opongan al presente Decreto.
