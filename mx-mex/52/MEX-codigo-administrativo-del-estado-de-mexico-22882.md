@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2012-08-29"
+last_updated: "2012-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE AGOSTO DE 2012.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -5014,6 +5014,14 @@ b) Contar con las medidas de seguridad necesarias y cumplir con la normatividad 
 c) No podrán colindar con casa habitación;
 
 d) Ser inscritos en los registros municipales sobre establecimientos comerciales, detallando la licencia con el giro específico e impacto que produce su actividad, así como las demás características que el Ayuntamiento determine.
+
+> <small>(ADICIONADA, G.G. 30 DE AGOSTO DE 2012)</small>
+
+XI. Prohibir el establecimiento de una gasolinera o estación de servicio con respecto a otra similar, en una distancia menor en forma radial de 1,000 metros en áreas urbanas y menor de 10,000 metros lineales en áreas rurales y carreteras, como una acción preventiva ante un riesgo, observando invariablemente las disposiciones federales, estatales y municipales en materia de protección civil, ambientales, de seguridad, desarrollo urbano y demás aplicables; así como los lineamientos que señala el Plan de Desarrollo Urbano Municipal.
+
+Tratándose de municipios colindantes en el Estado, que integren una zona conurbada o metropolitana, para el cumplimiento de lo dispuesto en esta fracción, deberán establecer los mecanismos de coordinación necesarios para el cumplimiento de esta disposición.
+
+Los ayuntamientos informarán a la autoridad federal competente sobre las autorizaciones que otorguen para el funcionamiento de gasolineras o estaciones de servicio.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -16182,3 +16190,9 @@ G.G. 29 DE AGOSTO DE 2012.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 30 DE AGOSTO DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
