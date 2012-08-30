@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-notariado-para-el-estado-de-tamaulipas-59685"
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-15"
-last_updated: "2012-04-19"
+last_updated: "2012-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59685&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2012.
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO No. LXI-496, PUBLICADO EN EL P.O. 30 DE AGOSTO DE 2012, LOS RECURSOS FINANCIEROS Y MATERIALES, ASÍ COMO LOS BIENES INMUEBLES ADSCRITOS AL SERVICIO DEL INSTITUTO DE MEDIACIÓN DEL ESTADO DE TAMAULIPAS, QUE CON MOTIVO DE LA EXPEDICIÓN DEL PRESENTE DECRETO SE EXTINGUE, SE TRANSFERIRÁN A LA SECRETARÍA DEL TRABAJO Y ASUNTOS JURÍDICOS.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2012.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 15 de enero de 2008.
 
@@ -1005,11 +1007,15 @@ Cuando se realice el cotejo de una copia de partida parroquial con su original, 
 
 1. Los Notarios podrán desempeñar funciones de árbitro o de mediador y conocerán de los asuntos que le soliciten a los interesados conforme a los planteamientos o compromisos respectivos, observando para su trámite las formas, procedimientos y restricciones que establece el Código de Procedimientos Civiles para el Estado de Tamaulipas, el Código de Comercio, la Ley de Mediación para el Estado de Tamaulipas y demás leyes aplicables.
 
-2. Para desempeñarse como mediadores, los Notarios deberán contar con la certificación respectiva, expedida por el Instituto de Mediación del Estado de Tamaulipas.
+> <small>(REFORMADO. P.O. 30 DE AGOSTO DE 2012)</small>
+
+2. Para desempeñarse como mediadores, los Notarios deberán contar con la certificación respectiva, expedida por la Secretaría del Trabajo y Asuntos Jurídicos, a través de la Dirección.
+
+> <small>(REFORMADO. P.O. 30 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 116.
 
-El Colegio de Notarios del Estado de Tamaulipas coordinará a los Notarios que desempeñen la función de árbitro o mediador, sin perjuicio de las facultades de control que corresponda ejercer al Instituto de Mediación del Estado de Tamaulipas, en tratándose de su materia.
+El Colegio de Notarios del Estado de Tamaulipas coordinará a los Notarios que desempeñen la función de árbitro o mediador, sin perjuicio de las facultades de control que corresponda ejercer a la Secretaría del Trabajo y Asuntos Jurídicos, a través de la Dirección.
 
 ###### ARTICULO 117.
 
@@ -1021,7 +1027,9 @@ II. Proponer a los Notarios que pueden fungir como árbitros o mediadores en los
 
 III. Recabar la información relativa a los asuntos en los que intervengan los Notarios como árbitros o mediadores;
 
-IV. Brindar apoyo y orientación a los Notarios que se desempeñen como árbitros o mediadores, en coordinación con el Instituto de Mediación del Estado de Tamaulipas; y
+> <small>(REFORMADA. P.O. 30 DE AGOSTO DE 2012)</small>
+
+IV. Brindar apoyo y orientación a los Notarios que se desempeñen como árbitros o mediadores, en coordinación con la Dirección; y
 
 V. Divulgar los servicios de arbitraje y mediación como parte del ejercicio de la función notarial.
 
@@ -1041,9 +1049,11 @@ Las actuaciones de los Notarios en materia del arbitraje y mediación se asentar
 
 Los honorarios de los Notarios que se desempeñen como árbitros o mediadores, se fijarán por convenio con quienes soliciten sus servicios; a falta de convenio se aplicará el arancel.
 
+> <small>(REFORMADO. P.O. 30 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 122.
 
-El Instituto de Mediación del Estado de Tamaulipas y el Colegio de Notarios del Estado periódicamente proporcionarán información actualizada a la Dirección de Asuntos Notariales, sobre la certificación y registro de los Notarios que se desempeñen como árbitros o mediadores.
+Cada trimestre, la Dirección y el Colegio de Notarios del Estado proporcionarán información actualizada a la Dirección de Asuntos Notariales, sobre la certificación y registro de los Notarios que se desempeñen como árbitros o mediadores.
 
 ### CAPITULO XVI. TESTIMONIOS
 
@@ -1808,3 +1818,31 @@ El artículo décimo tercero del presente Decreto surtirá efectos jurídicos a 
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE AGOSTO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las Secretarías General de Gobierno, de Finanzas, de Administración y del Trabajo y Asuntos Jurídicos, así como la Contraloría Gubernamental, coordinarán las acciones necesarias para el cumplimiento del presente Decreto, gozando al efecto de las atribuciones necesarias para su estricta aplicación.
+
+###### ARTÍCULO TERCERO.
+
+Los recursos financieros y materiales, así como los bienes inmuebles adscritos al servicio del Instituto de Mediación del Estado de Tamaulipas, que con motivo de la expedición del presente Decreto se extingue, se transferirán a la Secretaría del Trabajo y Asuntos Jurídicos.
+
+###### ARTÍCULO CUARTO.
+
+El personal de nivel jerárquico menor a Jefe de Departamento asignado al Instituto de Mediación del Estado de Tamaulipas, será asignado a la Secretaría del Trabajo y Asuntos Jurídicos, conforme a la naturaleza de las funciones que venían realizando, según lo acuerde el titular de esta dependencia con la intervención de la Secretaría de Administración y de la Contraloría Gubernamental.
+
+Las acciones relativas al cambio de adscripción o reasignación del personal señalado en el párrafo anterior, se ejecutarán sin afectar sus derechos y prestaciones derivadas de la relación de trabajo que tuvieran anteriormente.
+
+###### ARTÍCULO QUINTO.
+
+El personal de nivel jerárquico de Jefe de Departamento y superiores, será dado de baja a partir de la entrada en vigor del presente Decreto, respetando sus derechos laborales y deberán ser indemnizados conforme a la ley de la materia.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan todas aquellas disposiciones que se opongan el presente Decreto.
