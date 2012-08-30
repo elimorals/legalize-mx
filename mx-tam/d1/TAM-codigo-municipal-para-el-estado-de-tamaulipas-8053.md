@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2011-12-20"
+last_updated: "2012-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -505,9 +505,9 @@ VII.- Contratar o concesionar obras y servicios públicos municipales en los té
 
 VIII.- Solicitar al Ejecutivo, por causa de utilidad pública, la expropiación de bienes, la ocupación temporal o la limitación de dominio.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
-IX.- Nombrar y remover, a propuesta del Presidente Municipal, al Secretario del Ayuntamiento, a los titulares de la Tesorería Municipal, de la Contraloría Municipal, de la Secretaria o Dirección de Desarrollo Urbano, de Servicios Públicos y de Seguridad Pública, así como de aquéllos titulares de oficina que expresamente determine este Código. Tratándose de los nombramientos o designaciones de los titulares de las áreas de seguridad pública, previamente deberán cumplir con las disposiciones de la Ley de Coordinación del Sistema de Seguridad Pública del Estado de Tamaulipas y demás disposiciones legales que correspondan.
+IX.- Nombrar y remover, a propuesta del Presidente Municipal, al Secretario del Ayuntamiento, a los titulares, sin importar la denominación que se le asigne al cargo, de las dependencias municipales encargadas de las funciones relativas a: Tesorería Municipal, Contraloría Municipal, Desarrollo Urbano y Ecología, Obras Públicas, Seguridad Pública, Servicios Públicos y Protección Civil, así como de aquéllos titulares de oficina que expresamente determine este Código. Tratándose de los nombramientos o designaciones de los titulares de las áreas de seguridad pública, previamente deberán cumplir con las disposiciones de la Ley de Coordinación del Sistema de Seguridad Pública del Estado de Tamaulipas y demás disposiciones legales que correspondan;
 
 > <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
 
@@ -713,9 +713,9 @@ V.- Dar publicidad a las leyes, reglamentos y demás disposiciones de observanci
 
 VI.- Celebrar a nombre del Ayuntamiento todos los actos y contratos necesarios para el despacho de los negocios administrativos y la atención de los servicios públicos municipales. Asimismo, los Síndicos comparecerán en el otorgamiento de contratos o de cualquier otra obligación patrimonial.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
-VII.- Proponer al Ayuntamiento los nombramientos del Secretario del Ayuntamiento, de los titulares de la Tesorería Municipal, de la Contraloría Municipal, de la Secretaría o Dirección de Desarrollo Urbano, de los Servicios Públicos y de Seguridad Pública, así como de aquéllos que expresamente determine este Código. Tratándose de propuestas para ejercer cualquier tipo de cargo o encomienda en materia de seguridad pública, previamente deberán cumplirse las previsiones de fa Ley de Coordinación del Sistema de Seguridad Pública del Estado de Tamaulipas, así como las demás disposiciones legales que correspondan.
+VII.- Proponer al Ayuntamiento los nombramientos del Secretario del Ayuntamiento, a los titulares, sin importar la denominación que se le asigne al cargo, de las dependencias municipales encargadas de las funciones relativas a: Tesorería Municipal, Contraloría Municipal, Desarrollo Urbano y Ecología, Obras Públicas, Seguridad Pública, Servicios Públicos y Protección Civil, así como de aquéllos titulares de oficina que expresamente determine este Código. Tratándose de los nombramientos o designaciones de los titulares de las áreas de seguridad pública, previamente deberán cumplir con las disposiciones de la Ley de Coordinación del Sistema de Seguridad Pública del Estado de Tamaulipas y demás disposiciones legales que correspondan;
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -1039,7 +1039,7 @@ IX.- Informar al Ayuntamiento de sus programas de trabajo anuales, y trimestralm
 
 X.- Las demás que con relación al ramo le encomiende el Ayuntamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTICULO 73.
 
@@ -1135,7 +1135,7 @@ Cuando se presente la hipótesis referida en la fracción II de este artículo, 
 
 En las comunidades con población superior a los mil habitantes, también podrán nombrarse conjuntamente Subdelegados, conforme a las disposiciones de este artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 78.
 
@@ -1201,7 +1201,7 @@ Los nombramientos expedidos conforme a las disposiciones de este Capítulo expir
 
 ### CAPITULO XIV. DE LAS RESPONSABILIDADES DE SERVIDORES PUBLICOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTICULO 81.
 
@@ -1703,7 +1703,7 @@ X.- Enajenación a través de fideicomisos.
 
 XI.- La división de la copropiedad y la disolución de la sociedad conyugal por la parte que se adquiera en demasía del porciento que le correspondía al copropietario o cónyuge. En las permutas se considerará que se efectúan dos adquisiciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ENERO DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ENERO DE 1995)</small>
 
 ###### ARTICULO 127.
 
@@ -1727,7 +1727,7 @@ Las Autoridades Fiscales estarán facultadas para practicar, ordenar o tomar en 
 
 Cuando no se pacte precio, el impuesto se calculará con base en el avalúo pericial mencionado en el primer párrafo de este artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MAYO DE 1991)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 1991)</small>
 
 ###### ARTICULO 128.
 
@@ -1991,7 +1991,7 @@ Los Ayuntamientos sólo podrán concertar créditos destinados a inversiones pú
 
 ### CAPITULO I. DE LOS SERVICIOS PUBLICOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MARZO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MARZO DE 2001)</small>
 
 ###### ARTICULO 156.
 
@@ -2203,7 +2203,7 @@ IX.- Las que determine el Congreso en cada caso.
 
 Tratándose de contratos de prestación de servicios de cualquier naturaleza, previstos en el artículo 172 de este Código, los mismos podrán tener la duración a que se refiere la fracción I del primer párrafo de este artículo, sujetándose a las previsiones que se establezcan para su celebración, ejecución y terminación en el Decreto correspondiente del Congreso del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ENERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ENERO DE 2010)</small>
 
 ###### ARTICULO 175.
 
@@ -2223,7 +2223,7 @@ IV.- Expropiación de la empresa.
 
 (DEROGADO, P.O. 7 DE ENERO DE 2010)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ENERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ENERO DE 2010)</small>
 
 ###### ARTICULO 177.
 
@@ -2413,7 +2413,7 @@ Las remuneraciones a los integrantes del Comité quedarán a cargo de las depend
 
 ## TITULO SEXTO. DEL ARCHIVO GENERAL DEL MUNICIPIO
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE ABRIL DE 2004)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE ABRIL DE 2004)</small>
 
 ## TITULO SEPTIMO. DE LAS SANCIONES Y RECURSOS ADMINISTRATIVOS
 
@@ -3153,7 +3153,7 @@ El Tribunal de Conciliación y Arbitraje tiene la obligación de proveer a la ef
 
 Cuando se pida la ejecución de una resolución, el Tribunal despachará auto de ejecución y comisionará un actuario para que, asociado de la parte correspondiente, se constituya en el domicilio de la demandada y la requiera para que cumpla con dicha resolución, apercibiéndola que, de no hacerlo, se procederá conforme a lo dispuesto en los artículos procedentes.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 20 DE ABRIL DE 2004)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE ABRIL DE 2004)</small>
 
 ### CAPITULO V. DEL SERVICIO AL PUBLICO
 
@@ -3185,7 +3185,7 @@ VI.- Auxiliar en la investigación de temas y asuntos de interés general.
 
 VII.- Los demás que se desprendan de los ordenamientos legales aplicables.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE ABRIL DE 2004)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE ABRIL DE 2004)</small>
 
 ### CAPITULO I. DE LAS SANCIONES ADMINISTRATIVAS
 
@@ -3245,7 +3245,7 @@ VII.- Los demás actos que a juicio del Ayuntamiento deban ser registrados o con
 
 La clasificación y catalogación de los acervos documentales con valor histórico se hará tomando en cuenta los criterios técnicos más idóneos para alcanzar los fines definidos en este Código.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE ABRIL DE 2004)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE ABRIL DE 2004)</small>
 
 ### CAPITULO II. DE LOS RECURSOS ADMINISTRATIVOS
 
@@ -3335,7 +3335,7 @@ El Archivo General del Municipio contará, conforme a la disponibilidad presupue
 
 El Archivo General del Municipio podrá formar parte del sistema estatal o nacional de archivos, en los términos de los convenios celebrados por el Ayuntamiento, con base en la legislación aplicable en la materia y lo dispuesto en los Reglamentos Municipales.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE ABRIL DE 2004)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 312.
 
@@ -3355,7 +3355,7 @@ Las declaratorias deducidas del Capítulo II de este Título serán emitidas por
 
 El Archivo General del Municipio atenderá al público en los días y horarios que se determine de acuerdo con las necesidades del servicio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 315.
 
@@ -3381,7 +3381,7 @@ La solicitud deberá formularse y presentarse ante la Unidad de Información Pú
 
 En la prestación de los servicios al público del Archivo General del Municipio, se estará a lo establecido en este Código, en la Ley de Transparencia y Acceso a la Información Pública de Tamaulipas y demás disposiciones legales y reglamentarias aplicables.
 
-> <small>(REFORMADA SU NUMERACION, P.O. 20 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 20 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 318.
 
@@ -3491,7 +3491,7 @@ El aspecto sustantivo y de procedimiento a que se refiere la Ley de Ingresos de 
 
 ###### ARTICULO SEPTIMO.
 
-En un plazo de seis meses a partir de la iniciación de la vigencia de este Código, el Gobierno del Estado y los Municipios deberán celebrar los convenios y acuerdos de coordinación, relativos a la prestación de los servicios que se realizarán con el concurso de ambas entidades.
+En un plazo de seis meses a partir de la iniciación de la vigencia de este Código, el Gobierno del Estado y los Municipios deberán celebrar los convenios y acuerdos de coordinación, relativos a la prestación de los servicios que se realizarán co el concurso de ambas entidades.
 
 ###### ARTICULO OCTAVO.
 
@@ -3517,7 +3517,7 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 
 Dado en el Palacio del Poder Ejecutivo, en Ciudad Victoria, capital del Estado de Tamaulipas, a los tres días del mes de febrero de mil novecientos ochenta y cuatro.- DR. EMILIO MARTINEZ MANAUTOU.- El Secretario General de Gobierno, LIC. JOSE BRUNO DEL RIO CRUZ.- Rúbricas-
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 P.O. 16 DE DICIEMBRE DE 1987.
 
@@ -3867,7 +3867,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 11 DE JUNIO DE 2008.
 
-DECRETO No. LX-29, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 49, 55 Y 171 DEL CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS.
+DECRETO No. LX-29, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 49, 55 Y 171 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS.
 
 ###### ARTICULO UNICO.
 
@@ -3875,7 +3875,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 11 DE JUNIO DE 2008.
 
-DECRETO No. LX-32, POR EL QUE SE REFORMAN LOS ARTICULOS 49, 72, 135, 167, 187, 298, 299, 308, 315 AL 317 DEL CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS.
+DECRETO No. LX-32, POR EL QUE SE REFORMAN LOS ARTÍCULOS 49, 72, 135, 167, 187, 298, 299, 308, 315 AL 317 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS.
 
 ###### ARTICULO UNICO.
 
@@ -3899,7 +3899,7 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 7 DE JULIO DE 2009.
 
-DECRETO No. LX-647, POR EL QUE SE ADICIONA UN PARRAFO SEGUNDO AL ARTICULO 95 DEL CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS.
+DECRETO No. LX-647, POR EL QUE SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 95 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS.
 
 ###### ARTICULO UNICO.
 
@@ -3907,7 +3907,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 7 DE JULIO DE 2009.
 
-DECRETO No. LX-650, POR EL QUE SE REFORMAN LAS FRACCIONES I, II, III Y IV DEL ARTICULO 11 DEL CODIGO MUNICIPAL PARA EL ESTADO.
+DECRETO No. LX-650, POR EL QUE SE REFORMAN LAS FRACCIONES I, II, III Y IV DEL ARTÍCULO 11 DEL CÓDIGO MUNICIPAL PARA EL ESTADO.
 
 ###### ARTICULO UNICO.
 
@@ -3943,7 +3943,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 P.O. 16 DE DICIEMBRE DE 2010.
 
-DECRETO No. LX-1493, SE REFORMAN LOS ARTICULOS 49, FRACCION IX; 55, FRACCION VII; Y 65; Y SE ADICIONAN LOS ARTICULOS 49, FRACCION XXXV, SEGUNDO PARRAFO; Y 76 TER, DEL CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS.
+DECRETO No. LX-1493, SE REFORMAN LOS ARTÍCULOS 49, FRACCIÓN IX; 55, FRACCIÓN VII; Y 65; Y SE ADICIONAN LOS ARTÍCULOS 49, FRACCIÓN XXXV, SEGUNDO PÁRRAFO; Y 76 TER, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS.
 
 ###### ARTICULO PRIMERO.
 
@@ -3963,7 +3963,7 @@ Las personas morales y las públicas, así como las empresas o instituciones deb
 
 P.O. 16 DE DICIEMBRE DE 2010.
 
-DECRETO No. LX-1495, SE REFORMAN LOS ARTICULOS 49, FRACCION IX; 55, FRACCIONES VII Y VIII; 74; 75, PARRAFOS SEGUNDO Y TERCERO; 76; 203, FRACCION XXIII; 206; 318, FRACCION V; Y SE ADICIONAN LOS ARTICULOS 88, PARRAFO TERCERO; 199, PARRAFO TERCERO; Y 318, FRACCION VIII, DEL CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS.
+DECRETO No. LX-1495, SE REFORMAN LOS ARTÍCULOS 49, FRACCIÓN IX; 55, FRACCIONES VII Y VIII; 74; 75, PÁRRAFOS SEGUNDO Y TERCERO; 76; 203, FRACCIÓN XXIII; 206; 318, FRACCIÓN V; Y SE ADICIONAN LOS ARTÍCULOS 88, PÁRRAFO TERCERO; 199, PÁRRAFO TERCERO; Y 318, FRACCIÓN VIII, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS.
 
 ###### ARTICULO PRIMERO.
 
@@ -3994,3 +3994,9 @@ El presente Decreto se publicará en el Periódico Oficial del Estado y entrará
 ###### ARTÍCULO SEGUNDO.
 
 Los asuntos y procedimientos que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán su trámite conforme a las disposiciones aplicables al momento de su inicio.
+
+P.O. 30 DE AGOSTO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
