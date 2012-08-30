@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-educacion-para-el-estado-de-tamaulipas-16101"
 country: "mx"
 rank: "ley"
 publication_date: "1999-10-23"
-last_updated: "2010-12-21"
+last_updated: "2012-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 23 de octubre de 1999.
 
@@ -61,15 +61,19 @@ III.- Estado, el Gobierno del Estado de Tamaulipas;
 
 IV.- Secretaría, a la Secretaría de Educación;
 
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DEL 2002)</small>
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
-V.- Subsecretarías, la Subsecretaría de Educación Básica y Normal y la Subsecretaría de Educación Media Superior y Superior;
+V.- Subsecretarías, la Subsecretaría de Educación Básica, la Subsecretaría de Educación Media Superior y Superior; la Subsecretaría de Planeación y la Subsecretaría de Administración;
 
 VI.- SEP, la Secretaría de Educación Pública; y
 
 VII.- Ley General, la Ley General de Educación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2006)</small>
+
+###### ARTICULO 4º.
+
+El Estado está obligado a prestar servicios educativos para que toda la población pueda cursar la educación preescolar, la primaria, la secundaria y la media superior, los habitantes tienen derecho a recibirlos. Estos servicios se prestarán en el marco del federalismo y la concurrencia previstos en la Constitución Política de los Estados Unidos Mexicanos y conforme a la distribución de la función social educativa establecida en la Ley General; así como en lo dispuesto por la Constitución Política del Estado de Tamaulipas y la presente Ley.
 
 ###### ARTICULO 3°.
 
@@ -80,6 +84,8 @@ La educación es medio fundamental para adquirir, transmitir y acrecentar la cul
 Todo individuo en un amplio sentido de igualdad y sin distinción de sexo tiene derecho a recibir educación pública gratuita y de calidad y, por tanto, todos los habitantes de la entidad tienen las mismas oportunidades de acceso al sistema educativo estatal, con sólo satisfacer los requisitos que establezcan las disposiciones aplicables.
 
 En el proceso educativo deberá asegurarse la participación activa de todos los actores en el proceso de enseñanza-aprendizaje, estimulando su iniciativa y su sentido de responsabilidad social, para alcanzar los fines de la educación en Tamaulipas.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 4°.
 
@@ -95,13 +101,13 @@ La educación que impartan el Estado, los Municipios, los organismos descentrali
 
 La educación que impartan el Estado y los Municipios será laica, gratuita y constituye un servicio público, quedando, en consecuencia, prohibidas las cuotas escolares obligatorias y el condicionamiento de los servicios educativos al pago de dinero, aportaciones, o cualquier otra contraprestación que atente o pudiera atentar contra la gratuidad de la educación.
 
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DEL 2002)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 7º.
 
-Todos los habitantes de la Entidad deben cursar la educación preescolar, primaria y secundaria. El Estado creará las condiciones necesarias para el cumplimiento de esta obligación.
+Todos los habitantes de la Entidad deben cursar la educación preescolar, primaria, secundaria y media superior. El Estado creará las condiciones necesarias para el cumplimiento de esta obligación.
 
-La educación preescolar, primaria y secundaria conforman la educación básica obligatoria.
+La educación preescolar, primaria y secundaria conforman la educación básica, que será obligatoria al igual que la media superior.
 
 ### CAPITULO II. FINES Y CRITERIOS DE LA EDUCACION
 
@@ -123,7 +129,9 @@ V.- Promover el conocimiento y la preservación del idioma oficial –el españo
 
 VI.- Infundir el conocimiento y la práctica de la democracia como forma de convivencia que permite a todos participar en la toma de decisiones para el mejoramiento de la sociedad;
 
-VII.- Promover los valores de justicia, libertad, igualdad, de observancia de la Ley y el conocimiento y respeto de los derechos humanos; asimismo, difundir en las escuelas el contenido de la Constitución Política de los Estados Unidos Mexicanos y de la Constitución Política del Estado de Tamaulipas;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+VII.- Promover los valores de respeto a la vida, la dignidad de las personas, la justicia, la libertad, la igualdad, la observancia de la Ley y el conocimiento y respeto de los derechos humanos; asimismo, difundir en las escuelas el contenido de la Constitución Política de los Estados Unidos Mexicanos y de la Constitución Política del Estado de Tamaulipas;
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -163,9 +171,9 @@ XX.- Fortalecer todos los aspectos de la formación en los que se alcance el con
 
 XXI.- Alentar la participación reflexiva del educando y propiciar oportunidades para el compromiso con el desarrollo de actitudes y acciones éticas;
 
-> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
-XXII.- Impulsar, en coordinación con la Secretaría de Turismo, la realización de viajes de carácter recreativo que permitan la identificación del individuo con los aspectos fundamentales de nuestra cultura en el Estado y la importancia que reviste la naturaleza, para fomentar el cuidado de las áreas naturales protegidas, la pertenencia y el respeto.
+XXII.- Impulsar, en coordinación con la Secretaría de Desarrollo Económico y Turismo y el Instituto Tamaulipeco para la Cultura y las Artes, la realización de viajes de carácter recreativo que permitan la identificación del individuo con los aspectos fundamentales de nuestra cultura en el Estado y la importancia que reviste la naturaleza, para fomentar el cuidado de las áreas naturales protegidas, la pertenencia y el respeto;
 
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -183,9 +191,9 @@ I.- Será democrático, considerando a la democracia como una estructura jurídi
 
 II.- Será nacional, en cuanto atenderá a la comprensión de nuestros problemas, al aprovechamiento de nuestros recursos, a la defensa de nuestra independencia política, al aseguramiento de nuestra independencia económica, y a la continuidad y acrecentamiento de nuestra cultura; y
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
-III.- Contribuirá a la mejor convivencia humana, tanto por los elementos que aporte a fin de robustecer en el educando, junto con el aprecio para la dignidad de la persona y la integridad de la familia, la convicción del interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todos los hombres, evitando los privilegios y la discriminación de razas, de religión, de grupos, de sexos o de individuos. Asimismo, se promoverá una cultura de paz, libre de cualquier forma de maltrato dentro y fuera de las aulas.
+III.- Contribuirá a la mejor convivencia humana, a fin de fortalecer el aprecio y respeto por la diversidad cultural, la dignidad de la persona, la integridad de la familia, la convicción del interés general de la sociedad, los ideales de fraternidad e igualdad de derechos de todos, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos. Asimismo se promoverá una cultura de paz, libre de cualquier forma de maltrato dentro y fuera de las aulas.
 
 ###### ARTICULO 10.
 
@@ -207,7 +215,9 @@ IV.- Aprender a ser, para que la personalidad se fortalezca y se esté en condic
 
 Corresponden al Ejecutivo del Estado, además de las que le otorgan otras disposiciones, las siguientes atribuciones en materia educativa:
 
-I.- Prestar en toda la Entidad el servicio público de la educación inicial, especial, básica, normal y demás para la formación de maestros, sin perjuicio de la concurrencia de los Municipios conforme a las necesidades educativas y a los convenios que al efecto suscriba;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+I.- Prestar en toda la Entidad el servicio público de la educación inicial, especial, básica, media superior, normal y demás para la formación de maestros, sin perjuicio de la concurrencia de los Municipios conforme a las necesidades educativas y a los convenios que al efecto suscriba;
 
 II.- Promover y prestar de manera concurrente con la SEP, servicios educativos distintos de los previstos en las fracciones I y IV del Artículo 13 de la Ley General de acuerdo con las necesidades nacionales, regionales y estatales;
 
@@ -283,7 +293,9 @@ X.- Editar libros, complementarios educativos, y producir otros materiales didá
 
 XI.- Ajustar, en su caso, el calendario escolar para cada ciclo lectivo de educación preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica, con respeto al calendario fijado por la SEP;
 
-XII.- Vigilar en los planteles educativos de la Entidad, el cumplimiento de la Ley sobre el Uso del Escudo, la Bandera y el Himno Nacionales, así como de la Ley sobre el Escudo de Armas e Himno a Tamaulipas;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+XII.- Vigilar en los planteles educativos de la Entidad, el cumplimiento de la Ley sobre el Escudo, la Bandera y el Himno Nacionales, así como de la Ley sobre el Escudo y el Himno de Tamaulipas;
 
 XIII.- Prestar servicios de información y consulta a través de bibliotecas públicas a fin de apoyar al Sistema Educativo Estatal, a la innovación educativa y a la investigación científica, tecnológica y humanística;
 
@@ -363,7 +375,9 @@ XVII.- Auxiliar al Ejecutivo del Estado, a la Secretaría y a las Subsecretaría
 
 Son derechos de quienes, conforme a las leyes, ejercen la patria potestad o tutela:
 
-I.- Obtener inscripción en escuelas públicas, para que sus hijos o pupilos menores de edad que satisfagan los requisitos aplicables reciban la educación preescolar, la primaria y la secundaria;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+I.- Obtener inscripción en escuelas públicas, para que sus hijos o pupilos menores de edad que satisfagan los requisitos aplicables reciban la educación preescolar, la primaria, la secundaria y media superior;
 
 II.- Comunicar a las autoridades de la escuela en la que estén inscritos sus hijos o pupilos, cualquier problema relacionado con la educación de éstos, a fin de que aquellas se aboquen a su solución;
 
@@ -377,9 +391,9 @@ V.- Opinar en los casos de la educación que impartan los particulares en relaci
 
 Son obligaciones de quienes, conforme a las leyes, ejercen la patria potestad o tutela:
 
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DEL 2002)</small>
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
-I.- Hacer que sus hijos o pupilos menores de edad, reciban la educación preescolar, primaria y secundaria;
+I.- Hacer que sus hijos o pupilos menores de edad, reciban la educación preescolar, primaria, secundaria y media superior;
 
 II.- Participar en el programa escuela para padres, para dar mayor atención a sus hijos;
 
@@ -585,11 +599,15 @@ V.- Las demás que señalen las leyes aplicables.
 
 ARTICULO 37 TER.- La educación ambiental se desarrollará como una práctica educativa integrada, continua y permanente en todos los niveles y modalidades de enseñanza escolar, incorporándose en los cursos de formación contenidos que traten la ética ambiental. Asimismo, la dimensión ambiental deberá ser incluida en los programas de formación de profesores, en todos los niveles escolares.
 
-> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2012)</small>
 
-ARTICULO 37 QUATER.- La Secretaría, en coordinación con la Agencia Ambiental para el Desarrollo Sustentable del Estado de Tamaulipas, en el ámbito de sus respectivas competencias, impulsarán la educación ambiental de forma extraescolar, con el propósito de:
+ARTICULO 37 QUATER.- La Secretaría, en coordinación con la Secretaría de Desarrollo Urbano y Medio Ambiente, en el ámbito de sus respectivas competencias, impulsarán la educación ambiental de forma extraescolar, con el propósito de:
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2010)</small>
 
 I.- Ampliar la participación de educadores y organizaciones no gubernamentales en la formación y ejecución de programas y actividades vinculadas a la educación ambiental; y
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2010)</small>
 
 II.- Fomentar con las empresas privadas el desarrollo de programas de educación ambiental para sus trabajadores.
 
@@ -899,7 +917,9 @@ II.- Desarrollarán programas de apoyo a los maestros que realicen actividad doc
 
 III.- Promoverán centros de desarrollo infantil, centros de integración social, internados, albergues escolares e infantiles y demás planteles que apoyen en forma continua y estable el aprendizaje y el aprovechamiento de los alumnos;
 
-IV.- Prestarán servicios educativos para atender a quienes abandonaron el sistema regular, que les faciliten la terminación de la primaria y la secundaria;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+IV.- Prestarán servicios educativos para atender a quienes abandonaron el sistema regular, que les faciliten la terminación de la primaria, la secundaria y la educación media superior;
 
 V.- Otorgarán apoyos pedagógicos a grupos con requerimientos educativos específicos, tales como programas encaminados a recuperar retrasos en el aprovechamiento escolar de los alumnos;
 
@@ -987,11 +1007,13 @@ La organización y el funcionamiento de las asociaciones de padres de familia, e
 
 Las autoridades educativas promoverán, de conformidad con los lineamientos generales que establezca la autoridad educativa federal, la participación de la sociedad en actividades que tengan por objeto fortalecer y elevar la calidad de la educación pública, así como ampliar la cobertura de los servicios educativos.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 83.
 
-Será responsabilidad de las autoridades de cada escuela pública de educación básica vincular a ésta, activa y constantemente, con la comunidad. El ayuntamiento y el Ejecutivo del Estado darán toda su colaboración para tales efectos.
+Será responsabilidad de las autoridades de cada escuela pública de educación básica y media superior vincularlas, activa y constantemente, con la comunidad. El ayuntamiento y el Ejecutivo del Estado darán toda su colaboración para tales efectos.
 
-La autoridad escolar hará lo necesario para que en cada escuela pública de educación básica opere un Consejo Escolar de Participación Social, integrado con padres de familia y representantes de sus asociaciones, maestros y representantes- de su organización sindical, directivos de la escuela, exalumnos, así como los demás miembros de la comunidad interesados en el desarrollo de la propia escuela.
+La autoridad escolar hará lo necesario para que en cada escuela pública de educación básica y media superior operen un Consejo Escolar de Participación Social, integrado con padres de familia y representantes de sus asociaciones, maestros y representantes de su organización sindical, directivos de la escuela, ex alumnos, así como los demás miembros de la comunidad interesados en el desarrollo de la propia escuela.
 
 ###### ARTICULO 84.
 
@@ -1021,7 +1043,9 @@ XI.- Respaldará las labores cotidianas de la escuela; y
 
 XII.- En general, podrá realizar actividades en beneficio de la propia escuela.
 
-Consejos análogos podrán operar en las escuelas particulares de educación básica.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+Consejos análogos podrán operar en las escuelas particulares de educación básica y media superior.
 
 ###### ARTICULO 85.
 
@@ -1428,3 +1452,9 @@ P.O. 21 DE DICIEMBRE DE 2010.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE AGOSTO DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Para efectos de la obligatoriedad del Estado de garantizar la educación media superior, se estará a lo dispuesto por los artículos segundo y tercero transitorios del Decreto No LXI-466 publicado en el Periódico Oficial del Estado No. 62 de fecha 23 de mayo del presente año.
