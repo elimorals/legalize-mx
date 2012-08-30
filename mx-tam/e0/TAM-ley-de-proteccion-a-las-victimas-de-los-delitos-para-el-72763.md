@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-proteccion-a-las-victimas-de-los-delitos-para-el-72763"
 country: "mx"
 rank: "ley"
 publication_date: "2009-05-05"
-last_updated: "2009-05-05"
+last_updated: "2012-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # LEY DE PROTECCION A LAS VICTIMAS DE LOS DELITOS PARA EL ESTADO DE TAMAULIPAS
 
-LEY DE PROTECCION A LAS VICTIMAS DE LOS DELITOS PARA EL ESTADO DE TAMAULIPAS
+LEY DE PROTECCIÓN A LAS VÍCTIMAS DE LOS DELITOS PARA EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 5 de mayo de 2009.
 
@@ -55,7 +55,9 @@ MEDIANTE EL CUAL SE EXPIDE LA LEY DE PROTECCION A LAS VICTIMAS DE LOS DELITOS PA
 
 1. La protección de los derechos de los ofendidos y de las víctimas de los delitos se prestará de manera gratuita bajo los principios de calidad, profesionalismo, obligatoriedad, legalidad, honradez, probidad, lealtad y eficiencia en los términos de esta ley.
 
-2. La protección de los derechos de los ofendidos y las víctimas de los delitos se estructurará y prestará por el Instituto de Atención a las Víctimas de los Delitos, órgano desconcentrado de la Procuraduría General de Justicia.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+2. La protección de los derechos de los ofendidos y las víctimas de los delitos se estructurará y prestará por el Instituto de Atención a las Víctimas de los Delitos, órgano desconcentrado de la Secretaría General de Gobierno.
 
 3. En el desempeño de sus funciones, el Instituto gozará de autonomía técnica y operativa.
 
@@ -209,6 +211,42 @@ III No tengan el carácter de beneficiarios de algún seguro de responsabilidad 
 
 3. El Instituto establecerá las relaciones de coordinación y enlace necesarias con las dependencias y entidades estatales que, dentro de sus atribuciones, cuenten con facultades para contribuir al cumplimiento de esta ley.
 
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+ARTICULO 12 BIS.
+
+El Director General del Instituto de Atención a Víctimas del Delito tendrá las siguientes atribuciones:
+
+I.- Formular y proponer a la Secretaría General de Gobierno los proyectos de programas anuales de actividades del Instituto;
+
+II.- Planear, programar, organizar, dirigir, coordinar y evaluar las funciones del Instituto;
+
+III.- Dirigir, coordinar y evaluar a las unidades administrativas del Instituto y disponer lo necesario para el cumplimiento de sus funciones;
+
+IV.- Establecer, previo acuerdo de la Secretaría General de Gobierno, albergues temporales para la protección de las víctimas del delito, así como supervisar su funcionamiento;
+
+V.- Proponer a la Secretaría General de Gobierno el establecimiento de Unidades de Atención a Víctimas del Delito;
+
+VI.- Establecer mecanismos de coordinación y colaboración con instituciones públicas, sociales y privadas, a fin de atender oportunamente las necesidades inmediatas de las víctimas del delito;
+
+VII.- Promover la cultura de protección y atención a las víctimas del delito y difundir los servicios del Instituto;
+
+VIII.- Someter a la consideración de la Secretaría General de Gobierno las modificaciones jurídicas y administrativas que tiendan a mejorar el funcionamiento del Instituto y vigilar su cumplimiento;
+
+IX.- Validar la estructura de organización y los manuales administrativos del Instituto y, previo acuerdo con el titular de la Secretaría General de Gobierno, someterlos a la aprobación de la autoridad competente;
+
+X.- Emitir los dictámenes, opiniones, estudios e informes que le sean solicitados por el titular de la Secretaría General de Gobierno y los que le correspondan en razón de sus atribuciones;
+
+XI.- Proponer al titular de la Secretaría General de Gobierno el nombramiento de los titulares de las unidades administrativas del Instituto y resolver lo conducente, en el ámbito de su competencia, respecto a los demás servidores públicos de este órgano;
+
+XII.- Suscribir los documentos relativos al ejercicio de sus atribuciones y aquellos que le corresponda por delegación o suplencia;
+
+XIII.- Desempeñar las comisiones y funciones que le encomiende el titular de la Secretaría General de Gobierno, manteniéndolo informado del cumplimiento de las mismas;
+
+XIV.- Coordinar las actividades de las unidades administrativas a su cargo; y
+
+XV.- Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el titular de la Secretaría General de Gobierno.
+
 ###### ARTICULO 13.
 
 1. El personal profesional del Instituto de Atención a las Víctimas de los Delitos deberá reunir los siguientes requisitos:
@@ -249,15 +287,29 @@ IV. Recibir por sí o por interpósita persona, dinero, obsequios o cualquier ot
 
 3. Sin demérito de las atribuciones del Instituto de Atención a las Víctimas de los Delitos, en el ámbito del Ejecutivo del Estado concurrirán al cumplimiento de las disposiciones de esta ley, conforme a sus competencias:
 
-I. La Procuraduría General de Justicia;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
-II. La Secretaría de Seguridad Pública;
+I.- La Secretaría General de Gobierno;
 
-III. La Secretaría de Salud;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
-IV. La Secretaría de Desarrollo Económico y del Empleo; y
+II.- La Procuraduría General de Justicia;
 
-V. El Sistema para el Desarrollo Integral de la Familia del Estado.
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+III.- La Secretaría de Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+IV. La Secretaría de Salud;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+V.- La Secretaría de Desarrollo Económico y Turismo; y
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+VI.- El Sistema para el Desarrollo Integral de la Familia del Estado.
 
 4. A su vez, la aplicación y ejecución del ordenamiento compete al Poder Judicial del Estado en el ámbito de sus competencias.
 
@@ -316,3 +368,43 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los dieciséis días del mes de abril del año dos mil nueve.
 
 ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCION".- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNANDEZ FLORES.- Rúbrica.- SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTINEZ TORRES.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE AGOSTO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Con motivo de la reforma al artículo 28 de la Ley Orgánica de la Administración Pública del Estado, relativo a la Secretaría del Trabajo y Asuntos Jurídicos, la Secretaría General de Gobierno transferirá a la misma los recursos humanos, los activos patrimoniales constituidos por los bienes inmuebles, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, el equipo utilizado, respectivamente, para la atención de las funciones asignadas a aquella dependencia.
+
+Con relación a las funciones transferidas a la Secretaría General de Gobierno y a la Secretaría de Desarrollo Económico y Turismo, respectivamente, por la Procuraduría General de Justicia del Estado y la Secretaría del Trabajo y Asuntos Jurídicos, aquellas tendrán a su cargo los activos patrimoniales enunciados en el párrafo que antecede, y que se refieran a esas funciones, de conformidad con su anterior asignación administrativa.
+
+Lo dispuesto en el presente Decreto no afectará los derechos adquiridos por los trabajadores de las dependencias antes mencionadas.
+
+###### ARTÍCULO TERCERO.
+
+La reubicación de funciones que con motivo de la expedición de este Decreto deban realizarse de una dependencia a otra, incluirán los recursos presupuestales asignados a los asuntos de las nuevas competencias que se establecen, así como los programas y calendarios financieros.
+
+###### ARTÍCULO CUARTO.
+
+Cuando con motivo del presente Decreto se confiera una denominación nueva o distinta a alguna dependencia cuyas funciones sean referidas por otros ordenamientos legales, dichas atribuciones se entenderán concedidas a la dependencia que conforme a este Decreto cuente con la atribución correspondiente.
+
+###### ARTÍCULO QUINTO.
+
+Sin demérito de lo establecido en sus Decretos de creación, las Juntas de Gobierno del Instituto Tamaulipeco de Vivienda y Urbanismo y del Instituto Registral y Catastral del Estado de Tamaulipas, deberán ser presididas por los Titulares de la Secretaría de Desarrollo Social y de la Secretaría del Trabajo y Asuntos Jurídicos, respectivamente.
+
+###### ARTÍCULO SEXTO.
+
+En cumplimiento del presente Decreto se faculta al Ejecutivo para reorganizar las estructuras de las dependencias y, mediante el procedimiento aplicable, de las entidades; así como para crear las áreas y unidades necesarias, y modificar y redistribuir las partidas del Presupuesto de Egresos de Estado (sic) para el ejercicio fiscal de 2012, sin excederse del monto total autorizado del gasto público para el propio ejercicio.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los asuntos que con motivo del presente Decreto pasen del conocimiento de una dependencia a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramitan se incorporen a la dependencia que deba atenderlos, salvo los trámites urgentes o sujetos a plazos improrrogables.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan todas aquellas disposiciones que se opongan el presente Decreto.
