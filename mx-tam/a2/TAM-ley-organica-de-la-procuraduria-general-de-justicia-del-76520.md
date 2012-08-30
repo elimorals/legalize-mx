@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-procuraduria-general-de-justicia-del-76520"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-09-02"
-last_updated: "2012-04-19"
+last_updated: "2012-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 2 de septiembre de 2010.
 
@@ -411,7 +411,7 @@ X.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 2010)
 
 XI. Convocar al Consejo de Consulta y Participación de la Comunidad;
 
-XII. Participar en la Junta Directiva del Instituto de Mediación del Estado;
+XII. (DEROGADA, P.O. 30 DE AGOSTO DE 2012)
 
 XIII. Expedir los acuerdos, protocolos, circulares, instructivos, bases, lineamientos y demás disposiciones normativas para el ejercicio de las funciones y el despacho de los asuntos que competen a la Procuraduría;
 
@@ -545,9 +545,7 @@ II. Director Técnico del Servicio Profesional de Carrera;
 
 III. Director de Atención y Servicios a la Comunidad;
 
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-IV. Director General del Órgano desconcentrado denominado Instituto de Atención a Víctimas del Delito;
+IV. (DEROGADA, P.O. 30 DE AGOSTO DE 2012)
 
 V. Director del Instituto de Capacitación Técnica y Profesional;
 
@@ -1021,71 +1019,9 @@ II. Auxiliar al Procurador en lo que respecta a la integración, funcionamiento 
 
 III. Las demás que otras disposiciones legales, el Procurador o el Segundo Subprocurador le confieran.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
 ###### ARTICULO 27 Ter.
 
-El Director General del Instituto de Atención a Víctimas del Delito tendrá las siguientes atribuciones:
-
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
-
-I. Formular y proponer al Procurador los proyectos de programas anuales de actividades del Instituto;
-
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
-
-II. Planear, programar, organizar, dirigir, coordinar y evaluar las funciones del Instituto;
-
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
-
-III. Dirigir, coordinar y evaluar a las unidades administrativas del Instituto y disponer lo necesario para el cumplimiento de sus funciones;
-
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
-
-IV. Establecer, previo acuerdo del Procurador, albergues temporales para la protección de las víctimas del delito, así como supervisar su funcionamiento;
-
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
-
-V. Proponer al Procurador el establecimiento de Unidades de Atención a Víctimas del Delito y módulos para la búsqueda y localización de personas abandonadas, extraviadas o ausentes;
-
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
-
-VI. Establecer mecanismos de coordinación y colaboración con instituciones públicas, sociales y privadas, a fin de atender oportunamente las necesidades inmediatas de las víctimas del delito;
-
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
-
-VII. Promover la cultura de protección y atención a las víctimas del delito y difundir los servicios del Instituto;
-
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
-
-VIII. Someter a la consideración del Procurador las modificaciones jurídicas y administrativas que tiendan a mejorar el funcionamiento del Instituto y vigilar su cumplimiento;
-
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
-
-IX. Validar la estructura de organización y los manuales administrativos del Instituto y, previo acuerdo con el Procurador, someterlos a la aprobación de la autoridad competente;
-
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
-
-X. Emitir los dictámenes, opiniones, estudios e informes que le sean solicitados por el Procurador y los que le correspondan en razón de sus atribuciones;
-
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
-
-XI. Proponer al Procurador el nombramiento de los titulares de las unidades administrativas del Instituto y resolver lo conducente, en el ámbito de su competencia, respecto a los demás servidores públicos de este órgano;
-
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
-
-XII. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquellos que le corresponda por delegación o suplencia;
-
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
-
-XIII. Desempeñar las comisiones y funciones que le encomiende el Procurador, manteniéndolo informado del cumplimiento de las mismas;
-
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
-
-XIV. Coordinar las actividades de las unidades administrativas a su cargo; y
-
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
-
-XV. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Procurador.
+(DEROGADO, P.O. 30 DE AGOSTO DE 2012)
 
 > <small>(ADICIONADO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -2494,3 +2430,73 @@ El artículo décimo tercero del presente Decreto surtirá efectos jurídicos a 
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE AGOSTO DE 2012.
+
+DECRETO No. LXI-495, POR EL QUE SE DEROGAN LA FRACCIÓN IV APARTADO C) DEL ARTÍCULO 12 Y EL ARTÍCULO 27 TER DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Con motivo de la reforma al artículo 28 de la Ley Orgánica de la Administración Pública del Estado, relativo a la Secretaría del Trabajo y Asuntos Jurídicos, la Secretaría General de Gobierno transferirá a la misma los recursos humanos, los activos patrimoniales constituidos por los bienes inmuebles, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, el equipo utilizado, respectivamente, para la atención de las funciones asignadas a aquella dependencia.
+
+Con relación a las funciones transferidas a la Secretaría General de Gobierno y a la Secretaría de Desarrollo Económico y Turismo, respectivamente, por la Procuraduría General de Justicia del Estado y la Secretaría del Trabajo y Asuntos Jurídicos, aquellas tendrán a su cargo los activos patrimoniales enunciados en el párrafo que antecede, y que se refieran a esas funciones, de conformidad con su anterior asignación administrativa.
+
+Lo dispuesto en el presente Decreto no afectará los derechos adquiridos por los trabajadores de las dependencias antes mencionadas.
+
+###### ARTÍCULO TERCERO.
+
+La reubicación de funciones que con motivo de la expedición de este Decreto deban realizarse de una dependencia a otra, incluirán los recursos presupuestales asignados a los asuntos de las nuevas competencias que se establecen, así como los programas y calendarios financieros.
+
+###### ARTÍCULO CUARTO.
+
+Cuando con motivo del presente Decreto se confiera una denominación nueva o distinta a alguna dependencia cuyas funciones sean referidas por otros ordenamientos legales, dichas atribuciones se entenderán concedidas a la dependencia que conforme a este Decreto cuente con la atribución correspondiente.
+
+###### ARTÍCULO QUINTO.
+
+Sin demérito de lo establecido en sus Decretos de creación, las Juntas de Gobierno del Instituto Tamaulipeco de Vivienda y Urbanismo y del Instituto Registral y Catastral del Estado de Tamaulipas, deberán ser presididas por los Titulares de la Secretaría de Desarrollo Social y de la Secretaría del Trabajo y Asuntos Jurídicos, respectivamente.
+
+###### ARTÍCULO SEXTO.
+
+En cumplimiento del presente Decreto se faculta al Ejecutivo para reorganizar las estructuras de las dependencias y, mediante el procedimiento aplicable, de las entidades; así como para crear las áreas y unidades necesarias, y modificar y redistribuir las partidas del Presupuesto de Egresos de Estado (sic) para el ejercicio fiscal de 2012, sin excederse del monto total autorizado del gasto público para el propio ejercicio.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los asuntos que con motivo del presente Decreto pasen del conocimiento de una dependencia a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramitan se incorporen a la dependencia que deba atenderlos, salvo los trámites urgentes o sujetos a plazos improrrogables.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan todas aquellas disposiciones que se opongan el presente Decreto.
+
+P.O. 30 DE AGOSTO DE 2012.
+
+DECRETO No. LXI-496, POR EL QUE SE DEROGA LA FRACCIÓN XII DEL ARTÍCULO 9° DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las Secretarías General de Gobierno, de Finanzas, de Administración y del Trabajo y Asuntos Jurídicos, así como la Contraloría Gubernamental, coordinarán las acciones necesarias para el cumplimiento del presente Decreto, gozando al efecto de las atribuciones necesarias para su estricta aplicación.
+
+###### ARTÍCULO TERCERO.
+
+Los recursos financieros y materiales, así como los bienes inmuebles adscritos al servicio del Instituto de Mediación del Estado de Tamaulipas, que con motivo de la expedición del presente Decreto se extingue, se transferirán a la Secretaría del Trabajo y Asuntos Jurídicos.
+
+###### ARTÍCULO CUARTO.
+
+El personal de nivel jerárquico menor a Jefe de Departamento asignado al Instituto de Mediación del Estado de Tamaulipas, será asignado a la Secretaría del Trabajo y Asuntos Jurídicos, conforme a la naturaleza de las funciones que venían realizando, según lo acuerde el titular de esta dependencia con la intervención de la Secretaría de Administración y de la Contraloría Gubernamental.
+
+Las acciones relativas al cambio de adscripción o reasignación del personal señalado en el párrafo anterior, se ejecutarán sin afectar sus derechos y prestaciones derivadas de la relación de trabajo que tuvieran anteriormente.
+
+###### ARTÍCULO QUINTO.
+
+El personal de nivel jerárquico de Jefe de Departamento y superiores, será dado de baja a partir de la entrada en vigor del presente Decreto, respetando sus derechos laborales y deberán ser indemnizados conforme a la ley de la materia.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan todas aquellas disposiciones que se opongan el presente Decreto.
