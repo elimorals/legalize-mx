@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-salud-del-estado-de-durango-25631"
 country: "mx"
 rank: "ley"
 publication_date: "2002-07-11"
-last_updated: "2012-07-12"
+last_updated: "2012-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY DE SALUD DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 310, PUBLICADO EN EL P.O. DE 30 DE AGOSTO DE 2012, LA PRESENTE REFORMA ENTRARÁ EN VIGOR EL 1 DE FEBRERO DE 2013.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 11 de julio de 2002.
 
@@ -1945,17 +1947,33 @@ ARTÍCULO 173 BIS 16.- El Centro Estatal de Trasplantes hará constar el mérito
 
 La Secretaría y el Organismo, realizarán acciones coordinadas con la Secretaría de Salud del Gobierno Federal en la ejecución, en el territorio del Estado, del programa nacional contra la fármaco dependencia, en los términos del acuerdo de coordinación que al efecto celebren ambos órdenes de Gobierno.
 
-###### ARTÍCULO 164.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-El Gobierno del Estado y los Municipios, para evitar y prevenir el consumo de sustancias inhalantes que produzcan efectos psicotrópicos en las personas, se ajustarán a lo siguiente:
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
-I. Determinarán y ejercerán medidas de control en el expendio de sustancias inhalantes, para prevenir su consumo por parte de menores de edad e incapaces; instrumentando sistemas de vigilancia en los establecimientos destinados al expendio y uso de estas sustancias para evitar el empleo indebido de las mismas;
+###### Artículo 164.
 
-II. Apoyarán la atención médica de las personas que consuman o hayan consumido drogas y enervantes;
+El Gobierno del Estado en coordinación con la Secretaría de Salud del Gobierno Federal, para evitar y prevenir el consumo de sustancias que produzcan efectos psicotrópicos en las personas, se ajustarán a lo siguiente:
 
-III. Promoverán y llevarán a cabo campañas permanentes de información y orientación al público para la prevención de daños a la salud provocados por el consumo de sustancias inhalantes; y
+I. Participar en la elaboración del Programa Nacional de Salud para la Prevención y Tratamiento de la farmacodependencia;
 
-IV. Promoverán el aviso ciudadano a las autoridades municipales o estatales de la existencia, circulación, distribución o venta de drogas o enervantes. Las autoridades deberán de inmediato informar de los hechos a la Procuraduría General de la República.
+II. Promover y llevar a cabo campañas permanentes de información y orientación al público, para la prevención de daños a la salud provocados por el consumo de estupefacientes y psicotrópicos;
+
+III. Coordinar y promover con los sectores público, privado y social las acciones para prevenir la farmacodependencia;
+
+IV. Crear indicadores y bases de datos que permitan identificar zonas, sectores y grupos de alto riesgo en materia de farmacodependencia;
+
+V. Diseñar políticas públicas adecuadas para cumplir con las campañas permanentes de información y orientación al público sobre la prevención de daños a la salud provocados por el consumo de estupefacientes y psicotrópicos, proporcionar información y brindar atención médica y tratamientos a quienes consuman estas sustancias, campañas de educación para la prevención de adicciones y coordinarse con los sectores público social y privado;
+
+VI. Crear y mantener un padrón de instituciones y organismos públicos y privados que realicen actividades de prevención, tratamiento, atención y reinserción social de farmacodependencia;
+
+VII. Celebrará convenios de colaboración con instituciones nacionales e internacionales en materia de farmacodependencia;
+
+VIII. Crear centros especializados en tratamiento, atención y rehabilitación, con base en sistemas modernos de tratamiento y rehabilitación, fundamentados en el respeto a la integridad y a la libre decisión del farmacodependiente, de conformidad con el artículo 192 Quáter de la Ley General de Salud; y
+
+IX. Supervisar a las instituciones y organismos públicos y privados para que realicen actividades de prevención, tratamiento, atención y reinserción social en materia de farmacodependencia, apegándose al respeto de la integridad y libre decisión del farmacodependiente.
+
+En coordinación con los gobiernos municipales, el Gobierno del Estado determinará y ejercerá medidas de control en el expendio de sustancias inhalantes.
 
 ###### ARTÍCULO 165.
 
@@ -3333,25 +3351,19 @@ P.O. 12 DE JULIO DE 2012.
 
 ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
+P.O. 30 DE AGOSTO DE 2012.
+
 ###### ARTICULO PRIMERO.
 
-La presente Ley entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora, con excepción del segundo párrafo del artículo 113, el cual entrará en vigor el día 22 de octubre de 1991; en consecuencia, los magistrados actualmente designados, culminarán sus períodos el día 24 de octubre de 1991.
+Publíquese el presente decreto en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
 ###### ARTICULO SEGUNDO.
 
-Se derogan todas las disposiciones que se opongan a la aplicación de esta Ley.
-
-B.O. 23 DE AGOSTO DE 1990.
-
-UNICO.- En tanto se instale la Segunda Sala Civil, el Supremo Tribunal de Justicia seguirá funcionando como hasta la fecha lo viene haciendo.
-
-B.O. 30 DE AGOSTO DE 1990.
+El presente decreto entrará en vigor el día 1 de febrero del año 2013, a efecto de que se hayan efectuado las disposiciones presupuestales necesarias para el cumplimiento de las obligaciones que sobre la materia de farmacodependencia prevé el presente.
 
 ###### ARTICULO TERCERO.
 
-El período ordinario del Congreso del Estado, correspondiente a los meses de noviembre a diciembre del año de 1993 y los períodos ordinarios correspondientes al año de 1994, se celebrarán de acuerdo con las fechas que han venido rigiendo en los términos de la Ley 109, publicada en el Boletín Oficial número 23, sección I, de 17 de septiembre de 1987.
-
-A partir del 16 de septiembre de 1995 los períodos de sesiones ordinarios se celebrarán de acuerdo con las fechas establecidas en la presente Ley.
+Se derogan todas las disposiciones que se opongan al presente decreto.
 
 ###### ARTICULO PRIMERO.
 
