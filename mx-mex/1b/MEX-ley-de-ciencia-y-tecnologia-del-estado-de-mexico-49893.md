@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-ciencia-y-tecnologia-del-estado-de-mexico-49893"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-31"
-last_updated: "2011-09-01"
+last_updated: "2012-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "MEX"
 ---
 # LEY DE CIENCIA Y TECNOLOGIA DEL ESTADO DE MEXICO
 
-LEY DE CIENCIA Y TECNOLOGIA DEL ESTADO DE MEXICO
+LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE MÉXICO
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO TERCERO TRANSITORIO DEL DECRETO NUMERO 337, PUBLICADO EN LA G.G. DE 1 DE SEPTIEMBRE DE 2011, CUANDO EN OTROS ORDENAMIENTOS LEGALES, SE HAGA REFERENCIA AL TERMINO PERSONAS CON CAPACIDADES DIFERENTES, SE ENTENDERA QUE CORRESPONDE AL TERMINO PERSONAS CON DISCAPACIDAD.</small>
-
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE AGOSTO DE 2012.
 
 Ley publicada en la Tercera Sección Bis de la Gaceta del Gobierno del Estado de México, el viernes 31 de diciembre de 2004.
 
@@ -309,7 +307,9 @@ El Consejo Consultivo establecerá sus propias normas de funcionamiento. El COME
 
 Con la concurrencia y la responsabilidad de los sectores público, social y privado, el Ejecutivo Estatal deberá promover que el monto de los recursos que se destinen a investigación, ciencia y tecnología en el Estado de México, en el mediano plazo, represente el 2% de producto interno bruto estatal.
 
-Para la realización de actividades relacionadas con el fomento de la investigación, ciencia y tecnología, con la formación de recursos humanos de alta calidad y con la ejecución de proyectos de investigación científica y desarrollo tecnológico, el presupuesto anual del estado deberá prever recursos que no podrán ser inferiores a los asignados en el ejercicio fiscal inmediato anterior, los cuales deberán incrementar anualmente, hasta alcanzar el 1 % del presupuesto estatal.
+> <small>(REFORMADO, G.G. 30 DE AGOSTO DE 2012)</small>
+
+Para la realización de actividades relacionadas con el fomento de la investigación, ciencia y tecnología, con la formación de recursos humanos de alta calidad y con la ejecución de proyectos de investigación científica y desarrollo tecnológico, el presupuesto anual del estado deberá prever recursos que no podrán ser inferiores a los asignados en el ejercicio fiscal inmediato anterior, los cuales deberán incrementar en términos reales anualmente, hasta alcanzar el 2 % del presupuesto estatal.
 
 Por lo menos el 28% de los recursos antes mencionados deberán ser asignados al COMECYT.
 
@@ -611,7 +611,7 @@ MANUEL CADENA MORALES
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 G.G. 1 DE SEPTIEMBRE DE 2011.
 
@@ -622,3 +622,13 @@ SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 TERCERO.- Cuando en otros ordenamientos legales, se haga referencia al término personas con capacidades diferentes, se entenderá que corresponde al término personas con discapacidad.
 
 CUARTO.- El Ejecutivo del Estado hará las modificaciones a los reglamentos, decretos administrativos, acuerdos y demás disposiciones de su competencia, para incorporar a estos el término de discapacitados en sustitución de personas con capacidades diferentes, de acuerdo con el presente Decreto.
+
+G.G. 30 DE AGOSTO DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- En el 2018, los recursos que se asignen a investigación, ciencia y tecnología deberán representar como mínimo el 1% del presupuesto estatal.
+
+CUARTO.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
