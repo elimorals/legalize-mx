@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-fiscalia-general-del-estado-de-durango-68339
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-02-26"
-last_updated: "2011-07-11"
+last_updated: "2012-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "DUR"
 ---
 # LEY ORGANICA DE LA FISCALIA GENERAL DEL ESTADO DE DURANGO ANTES -LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE DURANGO-
 
-LEY ORGANICA DE LA FISCALIA GENERAL DEL ESTADO DE DURANGO
+LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 26 de febrero de 2009.
 
@@ -41,7 +41,7 @@ DECRETO No. 256
 
 LA HONORABLE SEXAGÉSIMA CUARTA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE DURANGO, CON LAS FACULTADES QUE LE CONFIERE EL ARTÍCULO 55 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO, A NOMBRE DEL PUEBLO DECRETA:
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE DURANGO.
 
@@ -49,9 +49,9 @@ LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE DURANGO.
 
 ### CAPÍTULO I. DISPOSICIONES PRELIMINARES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 1.
 
@@ -61,13 +61,13 @@ La presente Ley es de orden público, interés social y tiene por objeto estable
 
 El Ministerio Público se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez, respeto a los derechos humanos, oficiosidad, lealtad, unidad de actuación y justicia pronta.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2011)</small>
 
 ###### Artículo 2.
 
 La Fiscalía General del Estado de Durango, es la dependencia del Ejecutivo del Estado, representada por el Fiscal General del Estado, mediante la cual la Institución del Ministerio Público y sus órganos auxiliares directos ejercen sus funciones de acuerdo con las disposiciones constitucionales y legales de la materia.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO PRIMER PARRAFO], P.O. 11 DE JULIO DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO PRIMER PÁRRAFO], P.O. 11 DE JULIO DE 2011)</small>
 
 El Fiscal General, es el titular de la institución del Ministerio Público del Estado y tiene las siguientes atribuciones:
 
@@ -75,13 +75,13 @@ El Fiscal General, es el titular de la institución del Ministerio Público del 
 
 I. Establecer los lineamientos generales del Ministerio Público, así como las estrategias que deben orientar la investigación de hechos que se estimen delictivos y los criterios para el ejercicio de la acción penal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 II. Emitir circulares, acuerdos, y demás disposiciones técnicas y administrativas necesarias para el debido funcionamiento de la Fiscalía General;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
@@ -109,7 +109,7 @@ VIII. Pronunciarse sobre las inconformidades que se formulen en contra de actuac
 
 IX. Designar Agentes del Ministerio Público especiales para que intervengan en asuntos en los que a su juicio sea útil esa intervención;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
@@ -141,9 +141,9 @@ XVI. Representar legalmente a la Fiscalía General del Estado en los juicios don
 
 XVII. Las demás que le confieran las disposiciones legales aplicables.
 
-> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTICULO SEGUNDO DEL DECRETO NUMERO 3, PUBLICADO EN EL P.O. DE 3 DE OCTUBRE DE 2010, SE MODIFICO DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTICULO.</small>
+> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 3, PUBLICADO EN EL P.O. DE 3 DE OCTUBRE DE 2010, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTÍCULO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 3.
 
@@ -151,25 +151,25 @@ La Fiscalía General tiene como finalidad esencial:
 
 I. Organizar, controlar y supervisar la institución del Ministerio Público;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 II. Participar en forma coordinada con las dependencias del Ejecutivo en la elaboración y ejecución de programas relacionados con la seguridad pública, la justicia penal o la reinserción social de delincuentes;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 III. Aplicar mecanismos alternativos de solución de controversias en los términos de las disposiciones legales, reglamentarias y los acuerdos que para tal efecto emita el Fiscal General, velando por la reparación del daño; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 IV. Instrumentar los mecanismos de coordinación y colaboración con las dependencias federales y estatales relacionadas con la Seguridad Pública del Estado que permitan el establecimiento de las acciones y estrategias para el cabal cumplimiento de sus respectivas atribuciones.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
@@ -179,49 +179,49 @@ En la investigación de hechos delictuosos, serán auxiliares del Ministerio Pú
 
 ### CAPÍTULO II. ESTRUCTURA ORGÁNICA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2011)</small>
 
 ###### Artículo 5.
 
 La Fiscalía General es la dependencia del Ejecutivo del Estado, dotada de autonomía técnica de gestión, en el que se deposita la Institución del Ministerio Público, y se integra por:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 I. Fiscal General;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 II. Vicefiscal General;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 III. Vicefiscal de Procedimientos Penales;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 IV. Vicefiscal de Control Interno, Análisis y Evaluación;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 V. Vicefiscal de protección a los derechos humanos y Atención a las Víctimas del Delito;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 VI. Vicefiscal de la Zona I, con sede en ciudad Lerdo, Durango;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
@@ -265,6 +265,10 @@ Cada unidad administrativa y órganos desconcentrados de la Fiscalía, contarán
 
 El titular de cada área, con la aprobación del Fiscal, se auxiliará en sus funciones por el personal de confianza, técnico y administrativo que se determine conforme a la presente Ley. Las atribuciones de ese personal auxiliar se establecerán en el Reglamento Interno de la Fiscalía.
 
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+Podrá contar con las unidades especializadas para la investigación de los delitos en materia de narcomenudeo que prevé la Ley General de Salud.
+
 ### CAPÍTULO III. DE LA INSTITUCIÓN DEL MINISTERIO PÚBLICO
 
 ###### Artículo 7.
@@ -285,7 +289,7 @@ A la Institución del Ministerio Público en ejercicio de sus funciones le corre
 
 Los procedimientos seguidos en la persecución e investigación de delitos llevados a cabo por la institución del ministerio público, tendrán por objeto el esclarecimiento de los hechos, procurar que el culpable sea sancionado y que los daños causados por el delito se reparen.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
@@ -301,79 +305,79 @@ A toda persona imputada se le informará, tanto en el momento de su detención p
 
 Toda víctima u ofendido del delito podrá coadyuvar con el Ministerio Público y exigir se le reciban todos los datos o elementos de prueba con los que cuente, tanto en la investigación como en el proceso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2011)</small>
 
 ###### Artículo 14.
 
 En las funciones de investigación y persecución de los delitos los agentes de la Dirección Estatal de Investigación además de las atribuciones que señalen otros ordenamientos tendrán las siguientes:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 I. Recibir las denuncias sobre hechos que puedan ser constitutivos de delitos, e informar inmediatamente de ello al Ministerio Público, realizando las diligencias urgentes e indispensables dependiendo del caso, y actuar bajo la conducción y mando de aquél;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 II. Deberán verificar la información de las denuncias que le sean presentadas cuando éstas no sean lo suficientemente claras o la fuente no esté identificada, e informará al Ministerio Público para que, en su caso, le dé trámite legal o la deseche de plano;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 III. Practicar las diligencias necesarias que permitan el esclarecimiento de los delitos y la identidad de los probables responsables, en cumplimiento de los mandatos del Ministerio Público;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 IV. Efectuar las detenciones en los casos del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 V. Participar en la investigación de los delitos, en la detención de personas y en el aseguramiento de bienes que se encuentren relacionados con los hechos delictivos, siempre y cuando haya mandato de autoridad competente para tal efecto;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 VI. Registrar de inmediato la detención en términos de las disposiciones aplicables, así como remitir sin demora y por cualquier medio la información al Ministerio Público;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 VII. Poner a disposición de las autoridades competentes, sin demora alguna, a las personas detenidas y los bienes que se encuentren bajo su custodia, observando en todo momento el cumplimiento de los plazos constitucionales y legales establecidos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 VIII. Preservar el lugar de los hechos y la integridad de los indicios, huellas o vestigios del hecho delictuoso, así como los instrumentos, objetos o productos del delito.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 IX. Proponer al Ministerio Público que requiera a las autoridades competentes, informes y documentos para fines de la investigación, cuando se trate de aquellos que sólo pueda solicitar por conducto de éste;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 X. Dejar constancia de cada una de sus actuaciones, así como llevar un control y seguimiento de éstas. Durante el curso de la investigación deberán elaborar informes y actas necesarias sobre el desarrollo de la misma, y rendirlos al Ministerio Público, sin perjuicio de los informes o actas que éste le requiera;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 XI. Emitir los informes, partes policiales y demás documentos que se generen, con los requisitos de fondo y forma que establezcan las disposiciones aplicables, para tal efecto se podrán apoyar en los conocimientos que resulten necesarios;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
@@ -389,19 +393,19 @@ d) Preservar los indicios y elementos de prueba que la víctima y ofendido aport
 
 e) Asegurar que puedan llevar a cabo la identificación del imputado sin riesgo para ellos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 XIII. Dar cumplimiento a las órdenes de aprehensión y demás mandatos ministeriales y jurisdiccionales de que tenga conocimiento con motivo de sus funciones;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 XIV. Cumplir con todas las formalidades a las que se refieren los (sic)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
@@ -409,13 +413,13 @@ XV. Las demás que le confieran las disposiciones aplicables.
 
 Artículo 14 BIS.- (DEROGADO, P.O. 11 DE JULIO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 ### CAPÍTULO IV. DE LOS VICEFISCALES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
@@ -431,9 +435,9 @@ II. Coordinar a las Vicefiscalias, con el fin de garantizar el eficaz cumplimien
 
 III. Las demás que le asigne el Fiscal General y otras disposiciones aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 16.
 
@@ -445,45 +449,45 @@ I. Proponer e instrumentar las políticas institucionales para la observancia, c
 
 II. Proponer al Comisario General de la Policía Estatal de la Secretaría de Seguridad Pública y al Director Estatal de Investigación, los protocolos necesarios a fin de que los agentes policiales respeten los derechos fundamentales reconocidos por la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales, la Constitución Política del Estado Libre y Soberano de Durango y las leyes que de ellas emanen;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 III. Atender las denuncias, querellas o quejas en contra de los servidores públicos de la Fiscalía General a los que se les atribuyan presuntos actos de violación a los derechos humanos y, en su caso, promover las medidas conducentes para la aplicación de las sanciones correspondientes. En caso de denuncias por tortura, aplicar con auxilio de los peritos competentes, el Protocolo de Estambul;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 IV. Instrumentar las relaciones de la Fiscalía General con los organismos públicos de Derechos Humanos y las organizaciones no gubernamentales;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 V. Realizar un dictamen técnico en donde se proponga al Fiscal General aceptar o, en su caso, rechazar las recomendaciones de las Comisiones Nacional y Estatal de Derechos Humanos. En caso de su aceptación, dar seguimiento a las mismas hasta que sean cumplidas cabalmente;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 VI. Proporcionar orientación y asesoría jurídica a las víctimas u ofendidos por delitos para que se garantice la reparación del daño, de conformidad con las disposiciones legales aplicables;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 VII. Canalizar a las víctimas u ofendidos por delitos a las dependencias y entidades que proporcionen servicios de carácter tutelar, asistencial, preventivo, médico, psicológico y educacional, vigilando su debida atención; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 VIII. Las demás que le confieran el Fiscal General y otros ordenamientos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 17.
 
@@ -491,13 +495,13 @@ El Vicefiscal de Control Interno, Análisis y Evaluación tiene las siguientes a
 
 I. Ejercer un sistema de control para el manejo eficiente y eficaz de los recursos humanos y materiales del Ministerio Público;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 II. Aplicar de manera continua el proceso de evaluación, calificación y control del desempeño de las funciones de los servidores públicos de la Fiscalía General;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
@@ -505,27 +509,27 @@ III. Investigar los delitos y las faltas administrativas del personal de la Fisc
 
 IV. Formular los pliegos de responsabilidades, actas, recomendaciones e instrucciones que procedan y turnarlas a la autoridad correspondiente, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 V. Imponer al personal de la Fiscalía las sanciones consistentes en Amonestación pública o privada o Suspensión temporal que corresponda; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE OCTUBRE DE 2010)</small>
 
 VI. Las que le confiera el Fiscal General y las demás disposiciones aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 Para el ejercicio de sus funciones la Vicefiscalía contará con una Coordinación de Control Interno y una Coordinación de Análisis y Evaluación y con el personal técnico y administrativo necesario para el desempeño de sus funciones.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 18.
 
@@ -537,33 +541,33 @@ II. Mantener un estricto control y seguimiento de los asuntos que se encuentren 
 
 III. Dictaminar los asuntos que sean sometidos a su consideración;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 IV. Preparar los informes, pedimentos y recursos de la Fiscalía General ante los tribunales federales;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 V. Coordinar y dirigir el desempeño de la Coordinación General de los Agentes del Ministerio Púbico y a los Agentes del Ministerio Público que tenga adscritos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 VI. Las que le confiera el Fiscal General y las demás disposiciones aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 Para el ejercicio de sus funciones la vicefiscalía contará con Dirección de Planeación y Desarrollo de los Sistemas Inquisitivo Mixto y Acusatorio y con el personal técnico y administrativo necesario para el desempeño de sus funciones.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 19.
 
@@ -571,13 +575,13 @@ Los Vicefiscales de zona tienen las siguientes atribuciones:
 
 I. Coordinar las acciones de los agentes del Ministerio Público, con motivo de la investigación de los delitos, ejercicio de la acción penal, comparecencia ante los jueces y tribunales competentes y vigilar que las actuaciones de los mismos se apeguen a los ordenamientos legales vigentes, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE La PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 II. Ejercer las funciones que les sean encomendadas por el Fiscal General o, en su caso, por el Vicefiscal General y las establecidas en el reglamento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
@@ -587,9 +591,9 @@ Los Vicefiscales dependerán directamente del Fiscal General y se auxiliarán, p
 
 ### CAPÍTULO V. DEL COORDINADOR GENERAL DE MINISTERIOS PÚBLICOS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 21.
 
@@ -603,7 +607,7 @@ III. Supervisar el correcto funcionamiento de las unidades investigadoras a su c
 
 IV. Realizar visitas de inspección a las agencias del Ministerio Público para constatar el cabal cumplimiento de las funciones a su cargo, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
@@ -633,9 +637,15 @@ VIII. Solicitar la aplicación de los criterios de oportunidad, el sobreseimient
 
 IX. Vigilar la correcta aplicación de la ley en los casos de delitos cometidos por miembros de pueblos o comunidades indígenas;
 
-X. Intervenir en los asuntos relativos a los menores de edad, personas con discapacidad y adultos mayores, en los casos previstos en las leyes civiles y procesales que correspondan, y
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
-XI. Las demás que les otorguen las leyes correspondientes.
+X. Intervenir en los asuntos relativos a los menores de edad, personas con discapacidad y adultos mayores, en los casos previstos en las leyes civiles y procesales que correspondan;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+XI. Conocer de la investigación de los delitos a que se refieren el CAPÍTULO VII del TITULO DECIMO OCTAVO, denominado de los "Delitos Contra la Salud en su modalidad de Narcomenudeo" de la ley General de Salud.
+
+XII. Las demás que les otorguen las leyes correspondientes
 
 ###### Artículo 23.
 
@@ -803,9 +813,9 @@ Los servicios periciales actuarán bajo la autoridad y mando inmediato del Minis
 
 Cuando no se cuente con peritos en la disciplina, ciencia o arte de que se trate o, en casos urgentes, el Ministerio Público podrá habilitar a cualquier persona que tenga los conocimientos prácticos requeridos, en los términos del Código Procesal Penal del Estado de Durango.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 ### CAPÍTULO II. DE LOS SERVICIOS PERICIALES
 
@@ -819,15 +829,15 @@ II. Las Sub-Direcciones que determine el reglamento, y
 
 III. Departamentos, Peritos y demás personal de apoyo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 La Fiscalía General velará porque los servicios periciales cuenten con la tecnología necesaria para el desempeño de sus funciones, debiendo celebrar los convenios con otras instituciones públicas o privadas para el caso de que se requiera su apoyo en la emisión de dictámenes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 35.
 
@@ -835,19 +845,19 @@ La Dirección de Servicios Periciales tiene a su cargo la rendición de dictáme
 
 Los dictámenes y certificados se emitirán en las diversas especialidades pertinentes a petición de las autoridades judiciales del fuero común y del Ministerio Público.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 Los peritos de la Fiscalía General podrán elaborar dictámenes a petición de otras autoridades, siempre y cuando lo autorice el Fiscal General y se tengan los recursos necesarios.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 Para el esclarecimiento de los hechos y con acuerdo del Fiscal General se podrá habilitar a peritos en cualquier área, siempre y cuando lo permitan las disposiciones legales aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
@@ -857,9 +867,9 @@ El Fiscal General podrá adscribir a los peritos en las agencias del Ministerio 
 
 ### CAPÍTULO III. DEL INGRESO Y PERMANENCIA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 37.
 
@@ -899,7 +909,7 @@ f) Los demás requisitos que establezcan las disposiciones aplicables.
 
 ### CAPÍTULO I. DEL SERVICIO CIVIL Y PROFESIONAL DE CARRERA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
@@ -907,7 +917,7 @@ f) Los demás requisitos que establezcan las disposiciones aplicables.
 
 El servicio civil y profesional de carrera en la Fiscalía General, garantizará la igualdad de oportunidades laborales, así como la estabilidad, permanencia, remuneración adecuada, capacitación y garantías de seguridad social para el servidor público, en los términos que el reglamento en la materia establezca.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
@@ -915,7 +925,7 @@ El servicio civil y profesional de carrera en la Fiscalía General, garantizará
 
 Los procedimientos o sistemas para la selección, ingreso, formación, capacitación, actualización, especialización, promoción, ascenso, reingreso, estímulos, reconocimientos y retiro del personal de la Fiscalía General, serán regulados por el reglamento que establezca las bases para la organización, funcionamiento y desarrollo del servicio civil y profesional de carrera en la Institución, mismo que deberá garantizar la debida transparencia y objetividad en la evaluación de los méritos e idoneidad de los postulantes, candidatos o funcionarios.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
@@ -925,7 +935,7 @@ Los servidores públicos de la Fiscalía General serán evaluados periódicament
 
 ### CAPÍTULO II. DE LA JUSTICIA RESTAURATIVA E INMEDIATA ATENCIÓN
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
@@ -955,15 +965,15 @@ Los funcionarios y personal de confianza de la Fiscalía General del Estado, ser
 
 En la designación de los Agentes del Ministerio Público, de los agentes de la Dirección Estatal de Investigación y de los peritos de la Fiscalía, se atenderá a las disposiciones de esta Ley, sin perjuicio de las normas complementarias.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 45.
 
 En la designación del personal auxiliar de la Fiscalía General se atenderá a las siguientes disposiciones:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2009)</small>
 
 Para ser auxiliar del Ministerio Público se requiere:
 
@@ -979,7 +989,7 @@ V. Aprobar los mecanismos de selección correspondientes.
 
 Para ser Agente Investigador de la Policía bajo la autoridad y mando del Ministerio Público, se deben reunir los requisitos previstos en las fracciones II, II y V y certificado por el Instituto de Ciencias Penales y Formación Policial.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
@@ -991,7 +1001,7 @@ Para ser perito en la Fiscalía General, es preciso reunir los requisitos de las
 
 Las ausencias temporales del Fiscal General hasta por seis meses serán cubiertas por el Vicefiscal General. En caso de falta de este último será suplido por los servidores públicos en el orden de prelación que establece el artículo 5 de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
@@ -1011,43 +1021,43 @@ V. En los lugares donde sólo haya un Agente del Ministerio Público, su ausenci
 
 ### CAPÍTULO IV. INCOMPATIBILIDADES, IMPEDIMENTOS Y EXCUSAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2011)</small>
 
 ###### Artículo 48.
 
 El Fiscal General, Vicefiscales, Directores, Subdirectores, Jefes de Departamento, Titulares de área, Agentes del Ministerio Público, los elementos de la Dirección Estatal de Investigación, personal de la Secretaría Técnica y Peritos, no podrán:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 I. Desempeñar otro empleo, cargo o comisión de cualquier naturaleza en dependencias o entidades públicas federales, del Distrito Federal, estatales o municipales, ni trabajos o servicios en instituciones privadas, salvo los de carácter docente y aquellos que autorice la Institución, siempre y cuando no sean incompatibles con sus funciones en la misma;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 II. Ejercer la abogacía por sí o por interpósita persona, salvo en causa propia, de su cónyuge, concubina o concubinario, de sus ascendientes o descendientes, de sus hermanos o de su adoptante o adoptado;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 III. Ejercer las funciones de tutor, curador o albacea judicial, a no ser que tenga el carácter de heredero o legatario, o se trate de sus ascendientes, descendientes, hermanos, adoptante o adoptado;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 IV. Ejercer ni desempeñar las funciones de depositario o apoderado judicial, síndico, administrador, interventor en quiebra o concurso, notario, corredor, comisionista, árbitro o arbitrador;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 V. Desempeñar funciones electorales federales, estatales o municipales, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
@@ -1059,7 +1069,7 @@ VI. En caso de incumplir con estas prohibiciones se aplicarán las sanciones que
 
 El Fiscal General, los Vicefiscales, Directores, Subdirectores, elementos de la Dirección Estatal de Investigación y los Peritos, no son recusables, pero deben excusarse en los negocios en que intervengan cuando exista alguna causal de las previstas para el caso de los Magistrados o Jueces del orden común, dentro del término de veinticuatro horas de que tengan conocimiento del impedimento; de no hacerlo, serán sancionados en los términos de la legislación vigente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2011)</small>
 
 ###### Artículo 50.
 
@@ -1077,7 +1087,7 @@ I. Incumplir, retrasar o perjudicar por negligencia la debida actuación de los 
 
 II. Realizar conductas que atenten contra los fines, objetivos y atribuciones del Ministerio Público o contra la función de procuración de justicia;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
@@ -1089,7 +1099,7 @@ V. Omitir solicitar los dictámenes periciales correspondientes;
 
 VI. Abstenerse de llevar a cabo aseguramiento de bienes, objetos, instrumentos o productos del delito y en su caso, omitir solicitar el decomiso cuando así proceda en términos que establezcan las leyes;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
@@ -1143,7 +1153,7 @@ Para la imposición de las sanciones a que se refiere el presente artículo, se 
 
 Se constituye el patrimonio social denominado Fondo Auxiliar para la Procuración de Justicia, el cual será administrado y vigilado por un Comité Administrador integrado de la siguiente forma:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
@@ -1155,7 +1165,7 @@ II. El Vicefiscal de Procedimientos Penales;
 
 III. El Coordinador de Agentes del Ministerio Público;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
@@ -1169,9 +1179,9 @@ V. El contralor Interno, y
 
 VI. Un representante de la Secretaría de Finanzas y de Administración.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 El Comité Administrador del Fondo Auxiliar para la Procuración de Justicia, tendrá a su cargo por conducto del encargado de la administración de la Fiscalía General, la vigilancia, administración, manejo y disposición de los bienes del citado fondo, de conformidad con las atribuciones que se establezcan en el reglamento de la presente ley; siendo responsable de aplicar para su operatividad las siguientes bases:
 
@@ -1179,13 +1189,13 @@ El Comité Administrador del Fondo Auxiliar para la Procuración de Justicia, te
 
 Primera.- Invertirá las cantidades que integran el fondo en la adquisición de títulos de renta fija o a plazo fijo, en representación de la Fiscalía, quien será titular de los certificados y documentos que expidan las instituciones financieras con motivo de las inversiones con mayor rendimiento, constituyendo con las instituciones fiduciarias, los fideicomisos de administración de estos recursos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 Segunda.- En el informe que rinda el Fiscal General comunicará el resultado de los ingresos y rendimientos de las inversiones, así como de las erogaciones efectuadas, y,
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
@@ -1219,7 +1229,7 @@ Para efectos de este artículo se consideran intereses difusos aquellos que ata�
 
 Los intereses colectivos implican la conjunción de intereses idénticos, a título de coparticipación, referidos a componentes de un colectivo determinado o a un mismo grupo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
@@ -1231,7 +1241,7 @@ La administración, producto y venta de los bienes a que se refieren la fracció
 
 Los productos y rendimientos del Fondo Auxiliar para la Procuración de Justicia, podrán en su caso aplicarse a los siguientes conceptos:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
@@ -1239,7 +1249,7 @@ I. Capacitación y especialización profesional de los servidores públicos de l
 
 II. Programas de atención y rehabilitación a víctimas del delito, con un porcentaje de hasta un quince por ciento del fondo propio;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
@@ -1247,7 +1257,7 @@ III. Pago de estímulos para mandos medios e inferiores de la Fiscalía General 
 
 IV. Las demás que determine el Comité de Administración y se requieran para mejorar la procuración de justicia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
@@ -1301,7 +1311,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. OLIVERIO REZA CUELLAR
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 21 DE JUNIO DE 2009.
 
@@ -1374,3 +1384,15 @@ SEXTO. Cualquier mención establecida en ordenamientos legales a la Fiscalía Ge
 SÉPTIMO. Lo no previsto en los artículos transitorios del presente Decreto, se estará a lo dispuesto en el Decreto Constitucional relacionado con la materia de este mismo.
 
 OCTAVO. Se derogan las disposiciones que se opongan al contenido del presente decreto.
+
+P.O. 30 DE AGOSTO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+Para la creación de las Unidades Especializadas a que se refiere el segundo párrafo del artículo 6 de este Decreto, se estará a lo establezca la presupuestación de la Ley de Egresos correspondiente.
+
+ARTÍCULO PRIMERO (SIC).- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente decreto.
