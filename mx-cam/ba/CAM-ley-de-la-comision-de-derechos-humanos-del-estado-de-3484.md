@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-la-comision-de-derechos-humanos-del-estado-de-3484"
 country: "mx"
 rank: "ley"
 publication_date: "1993-01-01"
-last_updated: "2011-07-08"
+last_updated: "2012-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3484&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CAM"
 ---
 # LEY DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE CAMPECHE
 
-LEY DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE CAMPECHE
+LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2012.
 
 Ley Publicada en el Periódico Oficial del Estado de Campeche, el viernes 1º. de enero de 1993.
 
@@ -43,35 +43,51 @@ LEY DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE CAMPECHE
 
 ### CAPITULO UNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 1.
 
-Esta ley es de orden público y de aplicación en todo el territorio del Estado en materia de Derechos Humanos, respecto de los mexicanos y extranjeros que se encuentren en esta entidad federativa, en los términos establecidos en la Constitución Política de los Estados Unidos Mexicanos.
+Esta Ley es de orden público e interés social, de aplicación en todo el territorio del estado. Tiene por objeto:
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2000)</small>
+I.- Determinar la integración, organización, atribuciones y mandato de la Comisión Estatal de Derechos Humanos del Estado de Campeche, en cumplimiento a lo dispuesto en el artículo 102 apartado B de la Constitución Política de los Estados Unidos Mexicanos y su referente en la Constitución Política del Estado Libre y Soberano de Campeche;
+
+II.- Determinar el funcionamiento de la Comisión como el organismo estatal especializado en la protección, observancia, promoción, estudio, enseñanza, capacitación, promoción, difusión y divulgación en materia de Derechos Humanos; y
+
+III.- Establecer los procedimientos que se sigan ante la Comisión de Derechos Humanos del Estado.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 2.
 
-La Comisión de Derechos Humanos del Estado de Campeche es un organismo con autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propios, que tiene por objeto esencial la protección, observancia, promoción, estudio y divulgación de los derechos humanos previstos por el orden jurídico mexicano.
+La Comisión de Derechos Humanos del Estado de Campeche es un organismo constitucional, con autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propios.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 3.
 
-La Comisión Estatal tendrá competencia, en todo el territorio del Estado, para conocer de quejas relacionadas con presuntas violaciones a los derechos humanos cuando éstas fueren imputadas a autoridades y servidores públicos de carácter estatal y municipal, con excepción de los del Poder Judicial del Estado.
+La Comisión Estatal tendrá competencia, en todo el territorio del Estado, para conocer de quejas relacionadas con presuntas violaciones a los derechos humanos, cuando éstas fueren imputadas a autoridades y servidores públicos de carácter estatal y municipal.
 
-Cuando en un mismo hecho estuvieren involucrados tanto autoridades o servidores públicos de la Federación, como del Estado o de sus Municipios, la competencia se surtirá en favor de la Comisión Nacional de Derechos Humanos.
+Cuando en un mismo hecho estuvieren involucrados tanto autoridades o servidores públicos de la Federación, como del Estado o de sus Municipios, la competencia se surtirá en favor de la Comisión Nacional de los Derechos Humanos.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 4.
 
-Los procedimientos que se sigan ante la Comisión deberán ser breves y sencillos, y estarán sujetos sólo a las formalidades esenciales que requiera la documentación de los expedientes respectivos. Se seguirán además, de acuerdo con los principios de inmediatez, concentración y rapidez, y se procurará en la medida de lo posible, el contacto directo con quejosos, denunciantes y autoridades, para evitar la dilación de las comunicaciones escritas.
+Para la protección, observancia, promoción, estudio y divulgación de los derechos humanos se observarán los principios de universalidad, interdependencia, indivisibilidad y progresividad. Los procedimientos que se sigan ante la Comisión deberán ser breves y sencillos, y estarán sujetos sólo a las formalidades esenciales que requiera la documentación de los expedientes respectivos. Se seguirán además, de acuerdo con los principios de inmediatez, concentración y rapidez, y se procurará en la medida de lo posible, el contacto directo con quejosos, denunciantes y autoridades, para evitar la dilación de las comunicaciones escritas.
 
-El personal de la Comisión Estatal deberá manejar de manera confidencial la información o documentación relativa a los asuntos de su competencia.
+El personal de la Comisión deberá dar trato confidencial a la información o documentación relativa a los asuntos de su competencia, mientras se efectúan las investigaciones relativas a las quejas o denuncias de que conozca.
+
+No obstante lo anterior, las resoluciones, conclusiones o recomendaciones serán públicas, en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado, debiendo requerir a los denunciantes y quejosos su consentimiento por escrito, en el primer acuerdo o resolución que se emita, únicamente para publicar sus datos personales, en el entendido de que la omisión a desahogar dicho requerimiento constituirá su negativa.
 
 ## TITULO II. INTEGRACION DE LA COMISION ESTATAL
 
 ### CAPITULO I. DE LA INTEGRACION Y FACULTADES DE LA COMISION ESTATAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 5.
 
-La Comisión Estatal se integrará con un Presidente, una Secretaría Ejecutiva, hasta tres Visitadores Generales, así como el número de visitadores adjuntos y personal profesional, técnico y administrativo, necesario para la realización de sus funciones, que permita el presupuesto de egresos de la institución.
+La Comisión Estatal estará integrada por la Presidencia, hasta por tres Visitadurías Generales, una Secretaría Ejecutiva, un Órgano Académico, un Órgano Interno de Control, así como el número de visitadores adjuntos y personal profesional, técnico y administrativo, necesarios para la realización de sus funciones y que permita el presupuesto de egresos de la institución.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 2000)</small>
 
@@ -81,7 +97,9 @@ La Comisión Estatal para el mejor desempeño de sus responsabilidades contará 
 
 La Comisión Estatal tendrá las siguientes atribuciones:
 
-I.- Recibir quejas de presuntas violaciones a derechos humanos;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+I.- Recibir, admitir o rechazar las quejas, denuncias y peticiones, así como recibir las inconformidades presentadas ante la Comisión;
 
 II.- Conocer e investigar a petición de parte, o de oficio, presuntas violaciones de derechos humanos en los siguientes casos:
 
@@ -89,7 +107,9 @@ a) Por actos u omisiones de autoridades administrativas de carácter estatal y m
 
 b) Cuando los particulares o algún otro agente social cometan ilícitos con tolerancia o anuencia de algún servidor público o autoridad, o bien cuando estos últimos se nieguen infundadamente a ejercer las atribuciones que legalmente les correspondan en relación con dichos ilícitos, particularmente tratándose de conductas que afecten la integridad física de las personas;
 
-III.- Formular recomendaciones públicas autónomas, no vinculatorias, y denuncias y quejas ante las autoridades respectivas, en los términos establecidos por el artículo 102, apartado B, de la Constitución Política de los Estados Unidos Mexicanos;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+III.- Formular recomendaciones públicas autónomas, no vinculatorias, solicitar al Congreso de Estado, o en sus recesos a la Diputación Permanente, llame a comparecer a las autoridades o servidores públicos responsables, para explicar, de manera fundada y motivada la razón de su negativa a aceptar o cumplir las recomendaciones que se les emitan, denunciar y quejarse ante las autoridades respectivas, en los términos establecidos en el artículo 102, Apartado B, de la Constitución Política de los Estados Unidos Mexicanos y demás normativa aplicable;
 
 IV.- Procurar la conciliación entre los quejosos y las autoridades señaladas como responsables, así como la inmediata solución de un conflicto planteado, cuando la naturaleza del caso lo permita;
 
@@ -97,15 +117,35 @@ V.- Impulsar la observancia de los derechos humanos en el Estado;
 
 VI.- Proponer a las diversas autoridades del Estado que, en el exclusivo ámbito de su competencia, promuevan los cambios y modificaciones de disposiciones legislativas y reglamentarias, así como de prácticas administrativas, que redunden en una mejor protección de los derechos humanos;
 
-VII.- Promover el estudio, la enseñanza y divulgación de los derechos humanos en el ámbito estatal;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+VII.- Promover, capacitar y difundir los derechos humanos;
 
 VIII.- Expedir su Reglamento Interno;
 
-IX.- Elaborar y ejecutar programas preventivos en materia de derechos humanos;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
-X.- Supervisar el respeto a los derechos humanos en el sistema penitenciario y de readaptación social del Estado; y
+IX.-·Elaborar y ejecutar programas preventivos en materia de derechos humanos; impartir estudios de posgrado, diplomados y seminarios, asi como ofrecer espacios de consulta bibliográfica especializada en derechos humanos;
 
-XI.- Las demás que le otorguen la presente ley y otros ordenamientos legales;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+X.- Supervisar el respeto a los derechos humanos en el Sistema Penitenciario, el de Reinserción Social, el Sistema Integral de Justicia para Adolescentes y cualquier otro que la autoridad destine para la detención, internamiento o reclusión de personas en el Estado, la Comisión en el ejercicio de sus funciones, tendrá acceso irrestricto a dichos centros;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+XI.- Aplicar las atribuciones que le otorga la Ley para Prevenir, Combatir y Sancionar toda Forma de Discriminación en el Estado de Campeche;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+XII.- Promover las acciones de inconstitucionalidad, que tengan por objeto plantear la posible contradicción entre una norma expedida por la legislatura local y los derechos humanos consagrados en la Constitución Política de los Estados Unidos Mexicanos y en los tratados internacionales en los que México sea parte;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+XIII.- La observancia en el seguimiento, evaluación y monitoreo de la política estatal en materia de igualdad entre mujeres y hombres; y
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+XIV.- Las demás que le otorguen la presente Ley y otros ordenamientos legales.
 
 ###### ARTICULO 7.
 
@@ -115,7 +155,7 @@ I.- Actos y resoluciones de organismos y autoridades electorales;
 
 II.- Resoluciones de carácter jurisdiccional;
 
-III.- Conflictos de carácter laboral; y
+III.- (DEROGADA, P.O. 30 DE AGOSTO DE 2012)
 
 IV.- Consultas formuladas por autoridades, particulares u otras entidades, sobre la interpretación de las disposiciones constitucionales y legales.
 
@@ -133,13 +173,19 @@ II.- No tener menos de treinta y cinco años de edad el día de su nombramiento;
 
 III.- Gozar de buena reputación, no ser militante de algún partido político, ni haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena.
 
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+IV.- Tener preferentemente título de licenciado en derecho, así como estudios o experiencia en la promoción y defensa de los derechos humanos.
+
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 9.
 
 El Presidente de la Comisión será electo por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, dentro de los que figuren en la terna que al efecto presentará ante el Pleno la comisión especial o en su caso, la Comisión de Procuración e Impartición de Justicia, Seguridad Pública, Protección Civil y Derechos Humanos que quede habilitada.
 
-Los candidatos surgirán de una auscultación entre las organizaciones sociales representativas de los diversos sectores de la sociedad, así como de entre los organismos públicos y privados promotores o defensores de los derechos humanos en la Entidad. En la auscultación sólo participarán las organizaciones y organismos legítimamente constituidos.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+Los candidatos surgirán de una auscultación entre las organizaciones sociales representativas de los diversos sectores de la sociedad, así como de entre los organismos públicos y privados promotores o defensores de los derechos humanos en la Entidad. En la auscultación solo participarán las organizaciones y organismos que acrediten estar legítimamente constituidos, de conformidad con el Código Civil, en su caso la Ley de Instituciones de Asistencia Privada del Estado de Campeche, así como el Reglamento Interior de la Secretaría de Relaciones Exteriores.
 
 Para conformar la terna, la Comisión correspondiente, realizará un proceso de selección basado en la comparecencia de los candidatos. Quien resulte electo rendirá la protesta de ley que corresponde y entre tanto esto acontezca, el presidente saliente continuará ejerciendo el cargo.
 
@@ -149,9 +195,13 @@ Para conformar la terna, la Comisión correspondiente, realizará un proceso de 
 
 El Presidente de la Comisión durará en sus funciones cinco años, y podrá ser reelecto por una sola vez. Si, durante el curso del período para el que fue electo, llegare a faltar definitivamente, se procederá a la elección de un presidente sustituto, en la forma prevista en el artículo anterior, quien terminará dicho período y, en su caso, podrá ser reelecto también por una sola vez.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 11.
 
-Las funciones del Presidente de la Comisión Estatal, de los Visitadores Generales y de la Secretaría Ejecutiva, son incompatibles con el desempeño de cualquier otro cargo, empleo o comisión de la Federación, los Estados y Municipios o en organismos privados, o con el desempeño libre de su profesión, exceptuando las actividades académicas.
+Las funciones de los servidores públicos de la Comisión son incompatibles con el desempeño de cualquier otro cargo, empleo o comisión de la Federación, los Estados, Municipios o de organismos privados, o con el desempeño libre de su profesión que no sean compatibles, exceptuando las actividades académicas.
+
+Para efectos de la compatibilidad, se atenderá a lo dispuesto en Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado de Campeche.
 
 ###### ARTICULO 12.
 
@@ -165,9 +215,9 @@ El Presidente de la Comisión podrá ser destituido y, en su caso, sujeto a resp
 
 El Presidente de la Comisión tendrá las siguientes facultades:
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2000)</small>
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
-I.- Ejercer la representación legal de la Comisión, con plenas facultades para suscribir, en nombre de la misma, toda clase de convenios, contratos y demás actos jurídicos, salvo los de dominio para los cuales necesitará autorización expresa del Consejo Consultivo;
+I.- Ejercer la representación legal de la Comisión, con plenas facultades para suscribir, en nombre de la misma, toda clase de convenios, contratos y demás actos jurídicos, así como los de dominio sobre el patrimonio, salvo en los bienes inmuebles, para los cuales necesitará autorización expresa del Consejo Consultivo;
 
 II.- Formular los lineamientos generales a los que se sujetarán las actividades administrativas de la Comisión, así como nombrar, dirigir y coordinar a los funcionarios y al personal bajo su autoridad;
 
@@ -189,15 +239,33 @@ VIII.- Formular las propuestas generales conducentes a una mejor protección de 
 
 IX.- Elaborar el proyecto de presupuesto de egresos de la Comisión y el respectivo informe sobre su ejercicio, y someterlo a la consideración del Consejo Consultivo de la misma, para su aprobación;
 
-X.- Recepcionar y enviar a la Comisión Nacional de Derechos Humanos los recursos de impugnación que fueren interpuestos ante la Comisión Estatal, en los términos establecidos por el artículo 63 de la Ley de la Comisión Nacional de Derechos Humanos; y
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
-XI.- Las demás que le señalen la presente ley y otros ordenamientos.
+X.- Recepcionar y enviar a la Comisión Nacional de los Derechos Humanos los recursos de impugnación que fueren interpuestos ante la Comisión Estatal, en los términos establecidos por el artículo 63 de la Ley de la Comisión Nacional de los Derechos Humanos;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+XI.- Aprobar los proyectos de iniciativas de leyes y reglamentos que la Comisión haya de entregar al Congreso del Estado, así como los estudios que lo sustenten;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+XII.- Mantener y custodiar a través del área correspondiente el acervo documental de la Comisión;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+XIII.- Solicitar, en los términos del artículo 45 bis de esta Ley, al Congreso del Estado, o en sus recesos a la Diputación Permanente, se llame a comparecer a las autoridades o servidores públicos responsables, para explicar el motivo de su negativa a aceptar o cumplir las recomendaciones emitidas por la Comisión de Derechos Humanos del Estado de Campeche, siendo este quien determinará si la fundamentación y motivación que le fueron presentadas al Congreso son suficientes;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+XIV.- Las demás que le señalen la presente Ley y otros ordenamientos.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 15.
 
-Tanto el Presidente de la Comisión, como los Visitadores Generales y los visitadores adjuntos, en sus actuaciones tendrán fe pública para certificar la veracidad de los hechos en relación con las quejas o denuncias presentadas ante la Comisión Estatal.
+Las personas titulares de la Presidencia de la Comisión, las Visitadurías Generales, la Secretaría Técnica, los Visitadores Adjuntos y demás personal que realice actuaciones relativas a la tramitación y seguimiento de las quejas e inconformidades, contaran con fe pública para certificar la veracidad de los hechos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE ABRIL DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE ABRIL DE 2000)</small>
 
 ### CAPITULO III. DE LA INTEGRACION Y FACULTADES DEL CONSEJO CONSULTIVO
 
@@ -221,15 +289,37 @@ VI.- Los electos serán citados ante el pleno del Congreso para rendir la protes
 
 Los consejeros en funciones continuarán desempeñando su encargo hasta en tanto no se dé cumplimiento a lo dispuesto en la fracción V. Ante la falta definitiva de un consejero se procederá a la elección de un sustituto, en la forma prevista por este artículo, quien terminará el período para el que fue electo el faltante y podrá ser reelecto por una sola vez más.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 2000)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 17.
 
-El Presidente de la Comisión lo será también del Consejo. Los cargos de los demás miembros del Consejo serán honorarios.
+El Presidente de la Comisión lo será también del Consejo. Los cargos de los demás miembros serán honorarios. Dicho Órgano contará con un Secretario Técnico, designado por el propio Consejo a propuesta del Presidente de la Comisión, cuyas funciones serán:
 
-El Consejo contará con un Secretario Técnico, designado por el propio Consejo a propuesta del Presidente de la Comisión, cuyas funciones serán elaborar las actas de las sesiones del Consejo y las que le atribuya el Reglamento Interno.
+I.- Proponer el proyecto de acta de las sesiones ordinarias y extraordinarias que el Consejo Consultivo celebre;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 2000)</small>
+II.- Remitir oportunamente a los consejeros citatorios, órdenes del día y demás material indispensable para realizar las sesiones ordinarias y extraordinarias;
+
+III.- Brindar a los Consejeros el apoyo necesario para el mejor cumplimiento de sus responsabilidades;
+
+IV.- Ejecutar y dar seguimiento a los acuerdos que dicte el Presidente de la Comisión, así como los que emanen del Consejo;
+
+V.- Dar seguimiento a las recomendaciones y propuestas de conciliación;
+
+VI.- Determinar las calificaciones respecto a la aceptación y cumplimiento de las recomendaciones emitidas por el Organismo; y
+
+VII.- Las demás que le sean conferidas en otras disposiciones legales y reglamentarias.
+
+Para ser Secretario Técnico, se deberá de reunir los siguientes requisitos:
+
+I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos;
+
+II.- Gozar de buena reputación;
+
+III.- Ser mayor de veinticinco años de edad el día de su designación; y
+
+IV.- Tener título profesional legalmente expedido.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2000)</small>
 
 ###### ARTICULO 18.
 
@@ -251,6 +341,10 @@ V.- Solicitar al Presidente de la Comisión información adicional sobre los asu
 
 VI.- Conocer y aprobar el informe del Presidente de la Comisión respecto al ejercicio presupuestal y situación patrimonial del organismo.
 
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+VII.- Realizar las observaciones pertinentes con relación al proyecto del presupuesto de egresos.
+
 ###### ARTICULO 19.
 
 El Consejo funcionará en sesiones ordinarias y extraordinarias y tomará sus decisiones por mayoría de votos de sus miembros presentes.
@@ -269,57 +363,137 @@ I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 
 II.- Gozar de buena reputación;
 
-III.- Ser mayor de veinticinco años de edad el día de su designación; y
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
-IV.- Tener título de Licenciado en Derecho legalmente expedido.
+III.- Ser mayor de veintiocho años de edad el día de su designación;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+IV.- Tener título profesional legalmente expedido; y
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+V.- No haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 21.
 
 La Secretaría Ejecutiva tendrá las siguientes facultades y obligaciones:
 
-I.- Proponer al Consejo y al Presidente de la Comisión Estatal, las políticas generales que en materia de Derechos Humanos habrá de seguir la Comisión ante los organismos gubernamentales y no gubernamentales, nacionales y estatales;
+I.- Proponer y fortalecer las relaciones de la Comisión Estatal, con instituciones y entidades públicas, estatales, nacionales o internacionales, en materia de Derechos Humanos;
 
-II.- Proponer y fortalecer las relaciones de la Comisión Estatal, con organismos públicos, sociales o privados, nacionales y estatales, en materia de Derechos Humanos;
+Il.- Ejecutar y dar seguimiento a los acuerdos que dicte el titular de la Comisión;
 
-III.- Ejecutar y dar seguimiento a los acuerdos que dicte el Presidente de la Comisión, así como los que emanen del Consejo;
+III.- Colaborar con la Presidencia de la Comisión en la elaboración de los informes anuales;
 
-IV.- Realizar estudios e investigaciones en materia de Derechos Humanos;
+IV.- Proponer a la Presidencia las Políticas Generales de Funcionamiento de la Comisión;
 
-V.- Preparar los anteproyectos de iniciativas de leyes y reglamentos que la Comisión Estatal haya de entregar a los órganos competentes, así como los estudios que los sustenten;
+V.- Administrar el patrimonio de la Comisión, aplicando las políticas, normas, criterios, sistemas y procedimientos para la gestión de los recursos humanos, financieros y materiales del Organismo y la prestación de servicios generales de apoyo;
 
-VI.- Colaborar con la Presidencia de la Comisión en la elaboración de los informes anuales, así como de los especiales;
+VI.- Coordinar la elaboración del proyecto de presupuesto de la Comisión Estatal, administrar su ejercicio y cumplimiento;
 
-VII.- Enriquecer, mantener y custodiar el acervo documental de la Comisión; y
+VII.- Suscribir constancias laborales y demás documentación relativa a los recursos humanos de la Comisión; y
 
-VIII.- Las demás que le sean conferidas en otras disposiciones legales y reglamentarias.
+VIII.- Las demás que le sean conferidas en otras disposiciones legales.
 
 ### CAPITULO V. DEL NOMBRAMIENTO Y FACULTADES DE LOS VISITADORES
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 22.
 
-Los Visitadores Generales de la Comisión deberán reunir, para su designación, los requisitos precisados en el artículo 20 de esta ley; con excepción del de la edad, cuyo mínimo será de 23 años ya cumplidos.
+Para ser designado Visitador General se deberá acreditar los requisitos siguientes:
+
+l. Ser mexicano en pleno ejercicio de sus derechos ciudadanos;
+
+II Tener, cuando menos, veintiocho años de edad cumplidos al día de su nombramiento;
+
+III. Contar con título de licenciado en Derecho expedido legalmente y acreditar un mínimo de cinco años de ejercicio profesional; y
+
+IV. Gozar de buena reputación, no ser militante de algún partido político, ni haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime la buena fama en concepto público, inhabilitará para el cargo cualquiera que haya sido la pena.
 
 ###### ARTICULO 23.
 
 Los Visitadores Generales tendrán las siguientes facultades y obligaciones:
 
-I.- Recibir, admitir o rechazar las quejas presentadas por los afectados, sus representantes o los denunciantes ante la Comisión;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+I.- Recibir, admitir o rechazar las quejas y denuncias presentadas por las personas quejosas, peticionarias y denunciantes, calificando y determinando si existen presuntas, violaciones de derechos humanos, con la finalidad de iniciar expediente de queja o legajo de gestión;
 
 II.- Iniciar, a petición de parte, la investigación de las quejas que les sean presentadas, o de oficio, discrecionalmente aquellas sobre denuncias de violación a los derechos humanos que aparezcan en los medios de comunicación;
 
 III.- Realizar las actividades necesarias para lograr, por medio de la conciliación, la solución inmediata de las violaciones de derechos humanos que, por su propia naturaleza así lo permita;
 
-IV.- Realizar las investigaciones y estudios necesarios para formular los proyectos de recomendación o acuerdo, que se someterán al Presidente de la Comisión para su consideración; y
+IV.- Realizar las investigaciones y estudios necesarios para formular los proyectos de recomendación o acuerdo, que se someterán al Presidente de la Comisión para su consideración; y (sic)
 
-V.- Las demás que le señale la presente ley y el Presidente de la Comisión, necesarias para el mejor cumplimiento de sus funciones.
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
-Los visitadores adjuntos auxiliarán en sus funciones a los Visitadores Generales en los términos que fije el Reglamento y para tal efecto deberán reunir los requisitos que establezca el mismo para su designación.
+V.- Emitir las medidas cautelares en los casos y términos previstos en el artículo 39 de la presente ley;
 
-### CAPITULO I. DISPOSICIONES GENERALES
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+VI.- Canalizar aquellas quejas, peticiones y solicitudes que no constituyan una violación a los derechos humanos a las autoridades competentes;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+VII.- Sustituir al Presidente en sus ausencias temporales, así como en el caso de ausencia definitiva, hasta en tanto se designe por el Congreso al nuevo titular en los términos previstos por el artículo 13 de esta ley;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+VIII.- Realizar las acciones que le sean encomendadas, a efecto de supervisar el respeto a los Derechos Humanos en el sistema penitenciario, de reinserción social y de justicia para adolescentes, así como en los centros de detención, internamiento y cualquier otro que la autoridad destine para la reclusión de personas en el Estado; y
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+IX.- Las demás que le señale la presente Ley y el Presidente de la Comisión, necesarias para el mejor cumplimiento de sus funciones.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+Los visitadores adjuntos auxiliarán en sus funciones a los Visitadores Generales y estarán bajo la dirección de estos en los términos que fije el Reglamento y para tal efecto deberán reunir los requisitos que establezca el mismo para su designación.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS CON LO INTEGRAN, P.O. 30 DE AGOSTO DE 2012)</small>
+
+### CAPITULO VI. DEL NOMBRAMIENTO Y FACULTADES DEL ÓRGANO INTERNO DE CONTROL
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+ARTICULO 23 BIS.- El titular del Órgano Interno de Control deberá reunir los siguientes requisitos:
+
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
+
+II. Gozar de buena reputación;
+
+III. Ser mayor de veinticinco años de edad el día de su designación; y
+
+IV. Tener título de Licenciado legalmente expedido en las áreas contable, jurídica, administrativa o económica.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+ARTICULO 23 TER.- El Órgano Interno de Control tendrá las siguientes facultades y obligaciones:
+
+I.- Diseñar, desarrollar, implementar, actualizar y vigilar el cumplimiento del Manual de Organización General y los demás manuales e instructivos de organización, procedimientos y servicios;
+
+II.- Inspeccionar el ejercicio del gasto y administración del patrimonio de la Comisión Estatal;
+
+III.- Implantar y vigilar el cumplimiento de las normas complementarias en materia de control, así cómo realizar las auditorias o revisiones que se requieran a los órganos y unidades administrativas de la Comisión Estatal, para lo cual emitirá las observaciones y recomendaciones correspondientes;
+
+IV.- Realizar auditorías de desempeño a los órganos y unidades administrativas de la Comisión Estatal de conformidad con las metas y actividades establecidas en el Programa Anual de Trabajo;
+
+V.- Establecer las políticas que regirán las contrataciones de auditores externos y dar seguimiento al cumplimiento de las observaciones y recomendaciones que formulen dichos auditores y las que emita la Auditoria Superior del Estado;
+
+VI.- Establecer los mecanismos para difundir la obligación de presentar la declaración de situación patrimonial; por parte de los servidores públicos de la Comisión Estatal;
+
+VII.- Recibir, registrar y custodiar las declaraciones de situación patrimonial que presenten los servidores públicos de la Comisión Estatal en términos de las disposiciones legales aplicables e intervenir en los actos de entrega y recepción del cargo de estos servidores públicos;
+
+VIII.- Recibir, investigar y resolver las quejas y denuncias que se presenten en contra de los servidores públicos de este Organismo, en los términos de la normatividad aplicable;
+
+IX.- Acordar con el Presidente de la Comisión los asuntos de su competencia; y
+
+X.- Las demás que le confiera la presente ley, su reglamento y otras disposiciones legales aplicables, así como aquellas que le asigne el Presidente de la Comisión Estatal.
 
 ## TITULO III. DEL PROCEDIMIENTO ANTE LA COMISION DE DERECHOS HUMANOS
 
-### CAPITULO II. DE LOS ACUERDOS Y RECOMENDACIONES AUTONOMOS
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 24.
 
@@ -328,6 +502,10 @@ Cualquier persona podrá denunciar presuntas violaciones a los derechos humanos 
 Cuando los interesados estén privados de su libertad o se desconozca su paradero, los hechos se podrán denunciar por los partientes (sic) o vecinos de los afectados, inclusive por menores de edad.
 
 Las organizaciones no gubernamentales, legalmente constituidas, podrán acudir ante la Comisión para denunciar las violaciones de derechos humanos respecto de personas que, por sus condiciones físicas, mentales, económicas y culturales, no tengan la capacidad efectiva de presentar quejas de manera directa.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+ARTICULO 24 BIS.- La Comisión registrará las quejas o denuncias que se presenten, los expedientes que inicie serán de quejas por presuntas violaciones a derechos humanos y legajos de gestión institucional.
 
 ###### ARTICULO 25.
 
@@ -351,9 +529,11 @@ La Comisión deberá poner a disposición de los reclamantes formularios que fac
 
 En todos los casos que se requiera, la Comisión levantará acta circunstanciada de sus actuaciones.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 30.
 
-En el supuesto de que los quejosos o denunciantes no puedan identificar a las autoridades o servidores públicos, cuyos actos u omisiones consideren haber afectado sus derechos fundamentales, la instancia será admitida, si procede, bajo la condición de que se logre dicha identificación en la investigación posterior de los hechos.
+Si al momento de presentar la queja los denunciantes o quejosos no pueden identificar en cuanto a su persona a las autoridades o servidores públicos, cuyos actos u omisiones consideren haber afectado sus derechos fundamentales, la instancia será admitida, si procede, en la medida de lo posible en la investigación se procurará la identificación de los infractores, de no lograrse así y de comprobarse la responsabilidad, la respectiva resolución será emitida de manera institucional.
 
 ###### ARTICULO 31.
 
@@ -375,11 +555,13 @@ La Comisión, por conducto de su Presidente y previa consulta con el Consejo, pu
 
 Desde el momento en que se admita la queja, el Presidente o los Visitadores Generales o adjuntos y, en su caso, el personal técnico y profesional, se pondrán en contacto inmediato con la autoridad señalada como responsable de la presunta violación de derechos humanos para intentar lograr una conciliación entre los intereses de las partes involucradas, siempre dentro del respeto de los derechos humanos que se consideren afectados, a fin de lograr una solución inmediata del conflicto.
 
-De lograrse una solución satisfactoria o el allanamiento del o de los responsables, la Comisión lo hará constar así y ordenará el archivo del expediente, el cual podrá reabrirse cuando los quejosos o denunciantes expresen a la Comisión que no se ha cumplido con el compromiso en un plazo de 90 días. Para estos efectos, la Comisión en el término de setenta y dos horas dictará el acuerdo correspondiente y, en su caso, proveerá las acciones y determinaciones conducentes.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+De lograrse una solución satisfactoria o el allanamiento del o de los responsables, la Comisión lo hará constar así y ordenará el archivo del expediente, el cual podrá reabrirse cuando los quejosos o denunciantes expresen a la Comisión que no se ha cumplido con el compromiso en un plazo de 90 días. Para estos efectos, la Comisión en el término de tres días hábiles dictará el acuerdo correspondiente y, en su caso, proveerá las acciones y determinaciones conducentes.
 
 ###### ARTICULO 36.
 
-Si de la presentación de la queja no se deducen los elementos que permitan la intervención de la Comisión, ésta requerirá por escrito al quejoso para que la aclare. Si después de dos requerimientos el quejoso no constesta, se enviará la queja al archivo por falta de interés del propio quejoso.
+Si de la presentación de la queja no se deducen los elementos que permitan la intervención de la Comisión, ésta requerirá por escrito al quejoso para que la aclare. Si después de dos requerimientos el quejoso no contesta, se enviará la queja al archivo por falta de interés del propio quejoso.
 
 ###### ARTICULO 37.
 
@@ -415,11 +597,13 @@ Las pruebas que se presenten, tanto por los interesados como por las autoridades
 
 Las conclusiones del expediente, que serán la base de las recomendaciones, estarán fundamentadas exclusivamente en la documentación y pruebas que obren en el propio expediente.
 
-### CAPITULO III. DE LAS NOTIFICACIONES Y LOS INFORMES
+### CAPITULO II. DE LOS ACUERDOS Y RECOMENDACIONES AUTONOMOS
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 42.
 
-La Comisión de Derechos Humanos podrá dictar acuerdos de trámite, que serán obligatorios para las autoridades y servidores públicos para que comparezcan o aporten información o documentación. Su incumplimiento acarreará las sanciones y responsabilidades señaladas en el Título IV, Capítulo II, de la presente ley.
+La Comisión de Derechos Humanos podrá dictar acuerdos de trámite, que serán obligatorios para las autoridades y servidores públicos para que comparezcan o aporten información o documentación. Su incumplimiento acarreará las sanciones y responsabilidades señaladas en el Título IV, Capítulo II, de la presente Ley y en el Titulo III Capitulo I de la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado de Campeche.
 
 ###### ARTICULO 43.
 
@@ -437,7 +621,23 @@ En caso de que no se comprueben las violaciones de derechos humanos imputadas, l
 
 La recomendación será pública y autónoma, no tendrá carácter imperativo para la autoridad o servidor público a los cuales se dirigirá y, en consecuencia, no podrá por sí misma anular, modificar o dejar sin efecto las resoluciones o actos contra los cuales se hubiese presentado la queja o denuncia.
 
-En todo caso, una vez recibida, la autoridad o servidor público de que se trate, informará, dentro de los quince días hábiles siguientes a su notificación, si acepta dicha recomendación. Entregará, en su caso, en otros quince días adicionales, las pruebas correspondientes de que ha cumplido con la recomendación. Dicho plazo podrá ser ampliado cuando la naturaleza de la recomendación así lo amerite.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+En todo caso, una vez recibida, la autoridad o servidor público de que se trate, informará, dentro de los cinco días hábiles siguientes a su notificación, si acepta dicha recomendación. Entregará, en otros veinticinco días adicionales, las pruebas correspondientes de que ha cumplido con la recomendación. Dicho plazo podrá ser ampliado cuando la naturaleza de la recomendación así lo amerite.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+ARTICULO 45 BIS.- Cuando las recomendaciones emitidas no sean aceptadas o cumplidas, se procederá conforme a lo siguiente:
+
+I.- La autoridad o servidor público a la que se le hubiese dirigido la resolución, deberá fundar, motivar y hacer pública su negativa en el Periódico Oficial del Estado y en su sitio web;
+
+II.- La Comisión de Derechos Humanos del Estado de Campeche, solicitará al Congreso del Estado, o en sus recesos a la Diputación Permanente, llame a comparecer a las autoridades o servidores públicos responsables, para explicar el motivo de su negativa a aceptar o cumplir las recomendaciones que se les emitió;
+
+III.- Una vez celebrada la audiencia señalada en el inciso anterior, la Comisión de Derechos Humanos del Estado, determinará, previa consulta con los órganos legislativos referidos, si la fundamentación y motivación presentadas por la autoridad o servidor público que se hubiera negado a aceptar o a cumplir las recomendaciones formuladas, son suficientes, y hará saber dicha circunstancia por escrito a la propia autoridad o servidor público y, en su caso, a sus superiores jerárquicos;
+
+IV.- Las autoridades o servidores públicos, a quienes se les comunicó la insuficiencia de la fundamentación y motivación de la negativa, informarán dentro de los 15 días hábiles siguientes a dicha notificación, si persisten o no en la posición de no aceptar o no cumplir la recomendación;
+
+V.- Ante el supuesto de que continúe la negativa, la Comisión de Derechos Humanos del Estado, podrá denunciar a las autoridades o servidores públicos, por las vías que corresponda.
 
 ###### ARTICULO 46.
 
@@ -447,7 +647,7 @@ La Comisión no estará obligada a entregar ninguna de sus pruebas a la autorida
 
 Las recomendaciones y los acuerdos de no responsabilidad se referirán a casos concretos; las autoridades no podrán aplicarlos a otros casos por analogía o mayoría de razón.
 
-### CAPITULO IV. DE LOS RECURSOS
+### CAPITULO III. DE LAS NOTIFICACIONES Y LOS INFORMES
 
 ###### ARTICULO 48.
 
@@ -473,7 +673,7 @@ Asimismo, el informe podrá contener proposiciones dirigidas a las autoridades y
 
 Ninguna autoridad o servidor público dará instrucciones a la Comisión de Derechos Humanos, con motivo de los informes a que se refiere el artículo 50 de esta Ley.
 
-### CAPITULO I. OBLIGACIONES Y COLABORACION
+### CAPITULO IV. DE LOS RECURSOS
 
 ###### ARTICULO 53.
 
@@ -481,11 +681,13 @@ Las inconformidades de los quejosos o denunciantes por omisión o inactividad de
 
 Contra las resoluciones definitivas y acuerdos de la Comisión de Derechos Humanos o de la insuficiencia en el cumplimiento de una recomendación, cabrá el recurso de impugnación.
 
-Ambos recursos se interpondrán y sustanciarán ante la Comisión Nacional de Derechos Humanos en la forma y términos previstos por el artículo 102, apartado B, de la Constitución Política de los Estados Unidos Mexicanos y la Ley de la Comisión Nacional de Derechos Humanos, en el Capítulo IV de su Título III.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+Ambos recursos se interpondrán y sustanciarán ante la Comisión Nacional de los Derechos Humanos en la forma y términos previstos por el Artículo 102, apartado B, de la Constitución Política de los Estados Unidos Mexicanos y la Ley de la Comisión Nacional de los Derechos Humanos, en el Capítulo IV de su Título III.
 
 ## TITULO IV. DE LAS AUTORIDADES Y LOS SERVIDORES PUBLICOS
 
-### CAPITULO II. DE LAS RESPONSABILIDADES DE LAS AUTORIDADES Y SERVIDORES PUBLICOS
+### CAPITULO I. OBLIGACIONES Y COLABORACION
 
 ###### ARTICULO 54.
 
@@ -501,11 +703,15 @@ En los términos previstos en la presente ley, las autoridades y servidores púb
 
 Sin perjuicio de las atribuciones legales que le correspondan a la Comisión de Derechos Humanos del Estado, ésta podrá celebrar convenios o acuerdos con la Comisión Nacional de Derechos Humanos para que pueda actuar como receptora de quejas y denuncias de competencia federal, las que remitirá a la Comisión Nacional por los medios más expeditos.
 
-### CAPITULO UNICO
+### CAPITULO II. DE LAS RESPONSABILIDADES DE LAS AUTORIDADES Y SERVIDORES PUBLICOS
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 57.
 
-Las autoridades y los servidores públicos serán responsables penal y administrativamente por los actos u omisiones en que incurran durante y con motivo de la tramitación de quejas o denuncias ante la Comisión de Derechos Humanos, de acuerdo con las disposiciones constitucionales y legales aplicables.
+Las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Estado deberá prevenir, investigar, sancionar y reparar las violaciones a derechos humanos, en los términos que establezca la ley.
+
+Las autoridades y los servidores públicos serán responsables penal y administrativamente por los actos u omisiones en que incurran durante y con motivo de la tramitación de quejas o denuncias y seguimiento de recomendaciones de la Comisión de Derechos Humanos, de acuerdo con las disposiciones constitucionales y legales aplicables.
 
 ###### ARTICULO 58.
 
@@ -514,6 +720,10 @@ La Comisión podrá rendir un informe especial cuando persistan actitudes u omis
 La Comisión denunciará ante los órganos competentes los delitos o faltas que, independientemente de dichas conductas y actitudes, hubiesen cometido las autoridades o servidores públicos de que se trate.
 
 Respecto a los particulares que durante los procedimientos de la Comisión incurran en faltas o en delitos, la misma lo hará del conocimiento de las autoridades competentes para que sean sancionados de acuerdo con las leyes de la materia.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+ARTICULO 58 BIS.- La Comisión de Derechos Humanos del Estado de Campeche podrá interponer las denuncias y quejas, por la vía que corresponda, ante la reiteración de las conductas cometidas por una misma autoridad o servidor público, que haya sido materia de una recomendación previa que no hubiese sido aceptada o cumplida.
 
 ###### ARTICULO 59.
 
@@ -529,25 +739,67 @@ Además de las denuncias sobre los delitos y faltas administrativas en que pueda
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 61.
 
-El personal que preste sus servicios en la Comisión de Derechos Humanos se regirá por las disposiciones de la Ley de los Trabajadores al Servicio de los Poderes, Municipios e Instituciones Descentralizadas del Estado de Campeche.
+El personal que preste sus servicios en la Comisión de Derechos Humanos se regirá por las disposiciones de la Ley de los Trabajadores al Servicio del Gobierno del Estado de Campeche y de manera supletoria a lo establecido en el artículo 123 apartado A de la Constitución Política de los Estado Unidos Mexicanos y su ley reglamentaria.
 
 Dicho personal quedará incorporado al régimen del Instituto de Seguridad y Servicios Sociales para los Trabajadores del Estado de Campeche.
 
 Todos los servidores públicos que integran la planta de la Comisión, son trabajadores de confianza debido a la naturaleza de las funciones que ésta desempeña.
 
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+ARTICULO 61 BIS.- Se establecerá un sistema de servicio civil de carrera, a efecto de garantizar el ingreso, desarrollo y permanencia en el servicio público de la Comisión, en igualdad de oportunidades y con base en el mérito, a fin de impulsar la eficiencia y eficacia de la gestión pública para beneficio de la sociedad.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+ARTICULO 61 TER.- Los servidores públicos del Organismo, en el desempeño de sus funciones deben observar los principios éticos que al respecto apruebe el Consejo Consultivo.
+
 ## TITULO VI. DEL PATRIMONIO Y DEL PRESUPUESTO DE LA COMISION
+
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 62.
 
-La Comisión de Derechos Humanos contará con patrimonio propio. El Gobierno Estatal deberá proporcionarle los recursos materiales y financieros que requiera para su debido funcionamiento.
+La Comisión de Derechos Humanos contará con patrimonio propio y este se constituye con:
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2000)</small>
+I.- Los bienes muebles e inmuebles que actualmente posee y los que se destinen al cumplimiento de su objeto;
+
+II El Presupuesto que se establezca en la Ley de Presupuesto de Egresos del Estado para cada ejercicio fiscal;
+
+III.- Los subsidios, donaciones y aportaciones, tanto en bienes como en valores, que le otorguen los gobiernos federal, estatal y municipales;
+
+IV.- Las donaciones, legados y demás aportaciones que reciba de instituciones u organismos nacionales o internacionales, públicos o privados;
+
+V.- Los ingresos propios que perciba por concepto de la impartición de servicios educativos;
+
+VI.- Los rendimientos, recuperaciones y demás ingresos que obtenga de la inversión de los recursos referidos anteriormente; y
+
+VII.- Todos los ingresos que reciba por cualquier concepto, bienes, derechos y obligaciones que entrañen utilidad económica o cultural, que sean susceptibles de estimación pecuniaria y que obtenga por cualquier medio legal.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 63.
 
-La Comisión de Derechos Humanos tendrá la facultad de elaborar su proyecto de presupuesto anual de egresos, el cual remitirá directamente al Congreso del Estado, durante la segunda quincena del mes de noviembre, para el trámite correspondiente.
+La Comisión tendrá la facultad de elaborar su proyecto de Presupuesto anual de Egresos, el cual remitirá al Congreso del Estado y a la Secretaría del ramo del Gobierno del Estado, para que se integre con todo el presupuesto Estatal, con el único efecto de incorporarlo al proyecto de ley respectivo que debe enviarse al Congreso local.
+
+Dicho presupuesto deberá ser suficiente para el cumplimiento de sus fines y acciones, formando parte del patrimonio propio de la Comisión. Dicha Secretaría en ningún caso podrá reducirlo durante el transcurso de su ejercicio, ni reembolsadas las economías que pudieran generarse en cada ejercicio presupuestal, las cuales pasarán a ser parte de su patrimonio, con el destino y uso que autorice el Consejo Consultivo.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+###### ARTICULO 64.
+
+La Comisión contará con un presupuesto operativo básico, el cual cubrirá las asignaciones de recursos para: la operación de sus programas fundamentales considerados en su plan anual de trabajo, el rubro de servicios personales y el gasto operativo, sin incluir los recursos adicionales que se destinen a gasto de inversión.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+###### ARTICULO 65.
+
+El proyecto de presupuesto de egresos de la Comisión, que se apruebe para cualquier ejercicio fiscal, no puede ser menor al porcentaje que represente del Presupuesto de Egresos Total del Estado, correspondiente al año inmediato anterior, y deberá ser razonablemente mayor que el aprobado en ese ejercicio fiscal.
 
 ## TRANSITORIOS
 
@@ -571,7 +823,7 @@ En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII d
 
 Dado en el Palacio de Gobierno del Estado, en Campeche, a los treinta y un días del mes de diciembre de mil novecientos noventa y dos.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, ING. JORGE SALOMON AZAR GARCIA.- EL SECRETARIO DE GOBIERNO, LIC. CRUZ MANUEL ALFARO ISAAC.- RUBRICAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 28 DE ABRIL DE 2000.
 
@@ -598,3 +850,7 @@ P.O. 8 DE JULIO DE 2011.
 PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 30 DE AGOSTO DE 2012.
+
+ÚNICO.- El presente decreto entrará en vigor a los tres días siguientes de su publicación en el Periódico Oficial del Estado.
