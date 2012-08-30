@@ -4,7 +4,7 @@ identifier: "DUR-codigo-procesal-penal-del-estado-de-durango-64852"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-05"
-last_updated: "2011-07-12"
+last_updated: "2012-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64852&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO PROCESAL PENAL DEL ESTADO DE DURANGO
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO ÚNICO DE LA DECLARATORIA PUBLICADA EN EL P.O. DE 12 DE JULIO DE 2011, ENTRARÁ EN VIGOR EN EL ÁMBITO ESPACIAL Y TEMPORAL DE VALIDEZ EN LOS DISTRITOS JUDICIALES DEL SEGUNDO AL DÉCIMO TERCERO DEL ESTADO DE DURANGO, EL TÍTULO DÉCIMO PRIMERO DEL CÓDIGO PROCESAL PENAL CONTENIDO EN EL DECRETO NÚMERO 232.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2012.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Durango, el viernes 5 de diciembre de 2008.
 
@@ -1954,6 +1954,10 @@ III. Secuestro;
 IV. Cometidos con medios violentos como armas y explosivos; y
 
 V. Contra el libre desarrollo de la personalidad.
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+VI. Delitos contra la salud a que se refieren los artículos 475 y 476 de la Ley General de Salud.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2011)</small>
 
@@ -5079,9 +5083,9 @@ El Ministerio Público, solicitará se inicie el trámite de procedimiento abrev
 
 El Ministerio Público podrá solicitar la aplicación de una pena inferior hasta en un tercio de la mínima señalada para el delito por el cual acusa.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
-Tratándose de los delitos de homicidio simple y calificado, secuestro, robo con violencia, desaparición forzada de personas, tortura, violación, trata de personas, abusos sexuales con penalidad agravada cometidos en perjuicio de menores y de personas con discapacidad, la reducción será hasta una tercera parte de las penas que le imponga el Juez.
+Tratándose de los delitos de homicidio simple y calificado, secuestro, robo con violencia, desaparición forzada de personas, tortura, violación, trata de personas, Delitos contra la salud a que se refieren los artículos 475 y 476 de la Ley General de Salud, abusos sexuales con penalidad agravada cometidos en perjuicio de menores y de personas con discapacidad, la reducción será hasta una tercera parte de las penas que le imponga el Juez.
 
 ###### Artículo 420.
 
@@ -6314,3 +6318,9 @@ DEBIDO A SU IMPORTANCIA, SE TRANSCRIBE EL ARTÍCULO ÚNICO DE LA DECLARATORIA DE
 ###### ARTÍCULO ÚNICO.
 
 Con fundamento en lo dispuesto por los artículos 18, 21 y Quinto Transitorio del Decreto por el que se reformó la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 18 (dieciocho) de junio de 2008 (dos mil ocho); 6, párrafo tercero, de la Constitución Política del Estado Libre y Soberano de Durango; primero transitorio fracción II del Decreto No. 232 de la LXIV Legislatura, por el que se expidió el Código Procesal Penal del Estado de Durango, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango No. 11 de fecha 5 de diciembre de 2008, segundo transitorio del Decreto No. 416 de la LXIV Legislatura, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, No. 47, de fecha 10 de diciembre de 2009, por el cual se expidió la Ley de Ejecución de Penas y Medidas de Seguridad del Estado de Durango, y 9, fracción XLI, de la Ley Orgánica del Poder Judicial del Estado de Durango, y 3, fracción I, y 7, fracción III de la Ley para la Reforma Penal del Estado de Durango, por lo que esta LXV Legislatura del H. Congreso del Estado de Durango, declara la entrada en vigor del Título Décimo Primero del Código Procesal Penal contenido en el decreto número 232, así como del decreto No. 416, que contiene la Ley de Ejecución de Penas y Medidas de Seguridad del Estado de Durango, ambos de la LXIV Legislatura, publicados en las fechas antes citadas en el ámbito espacial y temporal de validez de los distritos judiciales, Segundo, Tercero, Cuarto, Quinto, Sexto, Séptimo, Octavo, Noveno, Décimo, Décimo Primero, Décimo Segundo, y Décimo Tercero del Estado de Durango.
+
+P.O. 30 DE AGOSTO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales en lo que se opongan al presente Decreto.
