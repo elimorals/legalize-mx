@@ -4,7 +4,7 @@ identifier: "MEX-ley-reglamentaria-del-articulo-88-bis-de-la-constitucion-40969"
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-09"
-last_updated: "2011-03-30"
+last_updated: "2012-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40969&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # LEY REGLAMENTARIA DEL ARTICULO 88 BIS DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-LEY REGLAMENTARIA DEL ARTICULO 88 BIS DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
+LEY REGLAMENTARIA DEL ARTÍCULO 88 BIS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE AGOSTO DE 2012.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 9 de septiembre de 2004.
 
@@ -93,9 +93,13 @@ Cuando por razón del asunto se impongan multas, se hará sirviendo como base pa
 
 Las audiencias se celebrarán con o sin la presencia de las partes.
 
+> <small>(REFORMADO, G.G. 30 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 11.
 
-Para los efectos de esta Ley, todo lo que no esté previsto expresamente en ella, se remitirá a lo que establece el Código de Procedimientos Administrativos para el Estado de México.
+Para efectos de esta Ley, tratándose de controversias constitucionales y acciones de inconstitucionalidad, todo lo no previsto expresamente, se estará a lo que establece el Código de Procedimientos Administrativos del Estado.
+
+Respecto de los recursos ordinarios en contra de resoluciones judiciales definitivas en donde se apliquen normas de ejercicio de control difuso de constitucionalidad y convencionalidad, se observarán las disposiciones de la legislación procesal de la materia, para su trámite y resolución. En estos casos la Sala Constitucional resolverá también el fondo del asunto planteado.
 
 ## TITULO SEGUNDO. DE LAS CONTROVERSIAS CONSTITUCIONALES
 
@@ -528,3 +532,9 @@ TERCERO.- El Comisionado de los Derechos Humanos, ahora denominado Presidente de
 CUARTO.- Toda disposición y ordenamiento legal, reglamentaria o administrativa que haga referencia al Comisionado de los Derechos Humanos del Estado de México, se entenderá que es al Presidente de la Comisión de Derechos Humanos del Estado de México.
 
 QUINTO.- El Consejo Consultivo de la Comisión de Derechos Humanos del Estado de México, deberá realizar las modificaciones correspondientes a la normatividad del Organismo, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor de este Decreto.
+
+G.G. 30 DE AGOSTO DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
