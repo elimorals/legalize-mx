@@ -4,7 +4,7 @@ identifier: "CAM-ley-del-equilibrio-ecologico-y-proteccion-al-ambiente-del-3524"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-22"
-last_updated: "2012-07-20"
+last_updated: "2012-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3524&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE CAMPECHE
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 235, POR EL CUAL SE EXPIDE EL CÓDIGO PENAL DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 20 DE JULIO DE 2012, SE DEROGAN LOS TIPOS PENALES CONTENIDOS EN LA LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE CAMPECHE.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el miércoles 22 de junio de 1994.
 
@@ -1605,9 +1605,13 @@ En las zonas que presenten graves alteraciones ecológicas, el Gobierno del Esta
 
 El Ejecutivo del Estado y los Ayuntamientos promoverán la participación de los grupos sociales en la formulación de la política ecológica, así como en la aplicación de sus instrumentos, en la elaboración de sus programas que tengan por objeto la preservación y restauración del equilibrio ecológico y la protección al ambiente; mediante acciones de información y vigilancia, y en general, en las de tipo ecológico que se emprendan.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 155.
 
-Para los efectos del Artículo anterior, el Gobierno Estatal, en coordinación con los Ayuntamientos:
+Para los efectos del artículo anterior, el Gobierno del Estado a través de la Secretaría Estatal, en coordinación con los Ayuntamientos:
 
 I.- Convocará a los representantes de las organizaciones obreras y empresariales, de campesinos y productores agropecuarios, de las comunidades, de instituciones educativas y de investigación, de instituciones privadas no lucrativas y de otros representantes de la sociedad, así como a los particulares en general para la realización de acciones en la materia de esta Ley;
 
@@ -1617,9 +1621,23 @@ III.- Promoverá la celebración de convenios con los diversos medios de comunic
 
 IV.- Promoverá el reconocimiento a los esfuerzos más destacados de la sociedad para preservar y restaurar el equilibrio ecológico y proteger el ambiente;
 
-V.- Impulsará el fortalecimiento de la conciencia ecológica, a través de la realización de acciones conjuntas con la comunidad, para la preservación y mejoramiento del ambiente, el aprovechamiento racional de los recursos naturales y el correcto manejo de residuos. Para ello, la Secretaría Estatal, en forma coordinada con los Ayuntamientos, podrá celebrar convenios de concertación con comunidades urbanas y rurales, así como con diversas organizaciones sociales; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-VI.- Propondrá a las Comisiones Estatal y Municipal de Ecología, la participación de representantes de los sectores de la sociedad, así como de organismos, instituciones y particulares con quienes hubiera celebrado convenios de concertación en los términos de esta Ley.
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+V.- Impulsará el fortalecimiento de la conciencia ecológica, a través de la realización de acciones conjuntas con la comunidad, para la preservación y mejoramiento del ambiente, el aprovechamiento racional de los recursos naturales y el correcto manejo de residuos. Para ello, la Secretaría Estatal, en forma coordinada con los Ayuntamientos, podrá celebrar convenios de concertación con comunidades urbanas y rurales, así como con los sectores social y privado; y (sic)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+VI.- Coordinará los convenios de participación con el sector social y privado, a efecto, de que en las instituciones educativas, centros comerciales, oficinas de gobierno, plazas y todos aquellos lugares de concurrencia pública, se cuente de manera permanente con depósitos de reciclaje para baterías y pilas (no automotrices) usadas, caducas, retiradas del comercio o desechadas, de diversos equipos como teléfonos celulares, juguetes, aparatos de música, relojes, computadoras y otros; mismos que deberán transportarse a los centros de almacenamiento que deberán establecerse por la Secretaría Estatal para su respectiva disposición y/o transporte a su destino final para que el Ente debidamente calificado pueda disponer de estos residuos de la mejor manera posible; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
+
+VII.- Propondrá, a las Comisiones Estatal y Municipal de Ecología, la participación de representantes de los sectores de la sociedad, así como de organismos, instituciones y particulares con quienes hubiera celebrado convenios de concertación en los términos de esta Ley.
 
 ### CAPITULO II. De los Consejos Ecológicos de Participación Ciudadana
 
@@ -2000,3 +2018,11 @@ Quinto.- La modificación o reubicación de cualquier tipo penal a que se refier
 Sexto.- Forma parte de este decreto un Anexo Único denominado Tabla de Delitos.
 
 > <small>N. DE E. VÉASE TABLA EN EL P.O. DE 20 DE JULIO DE 2012, PÁGINA 77.</small>
+
+P.O. 30 DE AGOSTO DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor a los quince días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan a este decreto.
+
+TERCERO.- La Secretaría Estatal contará con 90 días hábiles para la realización y/o actualización de los convenios a que haya lugar.
