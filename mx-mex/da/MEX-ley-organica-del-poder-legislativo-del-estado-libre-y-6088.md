@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2012-08-10"
+last_updated: "2012-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 24 Y 27 DE SEPTIEMBRE DE 2012 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHAS FECHAS, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE AGOSTO DE 2012.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -751,7 +753,7 @@ IX.- Conocer y resolver sobre las responsabilidades administrativas en que incur
 
 > <small>(REFORMADA Y REUBICADA, G.G. 21 DE JULIO DE 2006)</small>
 
-X.- Conocer y resolver sobre las responsabilidades administrativas en que incurra cualquier servidor público del Poder Legislativo y los integrantes de los ayuntamientos de los municipios de la entidad, por el incumplimiento de las obligaciones que señala la ley de la materia, delegando la facultad a los diputados Presidente y Secretario de la Junta de Coordinación Política, para que suscriban en su nombre las resoluciones de los procedimientos administrativos, así como que representen a la Junta de Coordinación Política, previo conocimiento de la misma, en las impugnaciones o medios de defensa que se haga valer contra tales resoluciones;
+X.- Conocer y resolver sobre las responsabilidades administrativas en que incurra cualquier servidor público del Poder Legislativo y los integrantes de los ayuntamientos de los municipios de la entidad, por el incumplimiento de las obligaciones que señala la ley de la materia, delegando la facultad a los diputados Presidente y Secretario de la Junta de Coordinación Política, para que suscriban en su nombre las resoluciones de los procedimientos administrativos, así como que representen a la Junta de Coordinación Política, previo conocimiento de la misma, en las impugnaciones o medios de defensa que se hagan valer contra tales resoluciones;
 
 > <small>(REFORMADA Y REUBICADA, G.G. 21 DE JULIO DE 2006)</small>
 
@@ -949,7 +951,7 @@ II. Las que les encomiende la Junta de Coordinación Política o su Presidente.
 
 ### CAPITULO VII. DEL PROCESO LEGISLATIVO
 
-### CAPITULO UNICO. DE LAS BASES PARA SU ORGANIZACIÓN Y FUNCIONAMIENTO
+### CAPÍTULO I. DE LAS DEPENDENCIAS Y ORGANOS TECNICOS
 
 > <small>(REFORMADO, P.O. 9 DE MARZO DE 1999)</small>
 
@@ -1219,7 +1221,7 @@ V. Las demás que se establezcan en otros ordenamientos.
 
 Artículo 76 D.- Son atribuciones del Comité de Vigilancia de la Contraloría:
 
-I. Vigilar y evaluar los actos y procedimientos que en cumplimiento de sus atribuciones dicte o ejecute la Contraloría;
+l. Vigilar y evaluar los actos y procedimientos que en cumplimiento de sus atribuciones dicte o ejecute la Contraloría;
 
 II. Conocer y evaluar el programa anual de actividades de la Contraloría;
 
@@ -1241,7 +1243,27 @@ Los integrantes de las comisiones o comités sólo podrán ser sustituidos por c
 
 > <small>(REFORMADO, P.O. 19 DE AGOSTO DEL 2003)</small>
 
-### CAPITULO I. DEL GRAN JURADO DE SENTENCIA
+### CAPÍTULO II. DE LA MESA TECNICA DE LA LEGISLATURA
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE SEPTIEMBRE DE 2012 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(ADICIONADO, G.G. 30 DE AGOSTO DE 2012)</small>
+
+Artículo 96 TER (SIC).- La Junta de Coordinación Política podrá constituir la Mesa Técnica, como un órgano de asesoría y opinión, para facilitar los trabajos de estudio de las iniciativas y de los asuntos turnados a las Comisiones o Comités, que le sean encomendados por la Junta de Coordinación Política.
+
+Funcionará de manera colegiada y en su integración, se observará la representación de la pluralidad de la Legislatura y serán miembros de la Mesa Técnica:
+
+I. Permanentes: La Secretaría de Asuntos Parlamentarios; el Secretario Técnico de la Junta de Coordinación Política; el Coordinador de Enlace Parlamentario o su equivalente que será designado por la Junta de Coordinación Política; los Coordinadores de Asesores de los diferentes grupos parlamentarios o sus equivalentes;
+
+II. Temporales: Los titulares de las dependencias que integran la Legislatura y los Secretarios Técnicos de las Comisiones o Comités Legislativos, cuando se requiera un informe o apoyo técnico; e
+
+III. Invitados: Los servidores públicos de los tres ámbitos de gobierno, representantes de instituciones académicas, asociaciones de profesionistas y organizaciones sociales, previa invitación del Presidente de la Junta de Coordinación Política, cuando se necesite una opinión especializada para el análisis legislativo.
+
+La Mesa Técnica será presidida por el titular de la Coordinación de Enlace Parlamentario o su equivalente, quien convocará a reuniones de trabajo, cuantas veces sea necesario, por lo menos con veinticuatro horas de anticipación, anexando la propuesta de orden del día correspondiente.
+
+Los acuerdos serán rubricados por sus miembros, y tomados bajo los principios de institucionalidad, profesionalismo, orden, respeto, objetividad y tolerancia, y serán supervisados por la Secretaría de Asuntos Parlamentarios y servirán, en su caso, de apoyo para el cumplimiento de las atribuciones legislativas.
+
+El Presidente de la Junta de Coordinación Política, procurará que los miembros de la Mesa Técnica Jurídica, accedan permanentemente a programas de actualización y especialización técnica legislativa.
 
 ###### Artículo 78.
 
@@ -1361,9 +1383,13 @@ La Legislatura o la Diputación Permanente hará el cómputo de los votos de los
 
 La falta de respuesta de los ayuntamientos en el término indicado, será considerada como voto aprobatorio de la adición o reforma.
 
-## TITULO TERCERO. DE LAS DEPENDENCIAS DEL PODER LEGISLATIVO
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 30 DE AGOSTO DE 2012)</small>
 
-### CAPITULO II. DEL JURADO DE PROCEDENCIA
+## TITULO TERCERO. DE LA ORGANIZACION INTERNA DEL PODER LEGISLATIVO
+
+> <small>(REFORMADA SU DENOMINACIÓN Y NUMERACIÓN, G.G. 30 DE AGOSTO DE 2012)</small>
+
+### CAPITULO I. DEL GRAN JURADO DE SENTENCIA
 
 ###### Artículo 94.
 
@@ -1435,9 +1461,13 @@ La Secretaría de Asuntos Parlamentarios, contará dentro de su estructura con l
 
 La Secretaría de Asuntos Parlamentarios, contará dentro de su estructura con el Cronista Legislativo.
 
-### CAPITULO UNICO. DE LA COMISION DE INSTRUCCIÓN Y DICTAMEN
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 30 DE AGOSTO DE 2012)</small>
+
+### CAPITULO II. DEL JURADO DE PROCEDENCIA
 
 ## TITULO CUARTO. DEL JUICIO POLITICO Y DECLARACION DE PROCEDENCIA
+
+### CAPITULO UNICO. DE LA COMISION DE INSTRUCCION Y DICTAMEN
 
 ###### Artículo 97.
 
@@ -1479,7 +1509,7 @@ Para los casos de suspensión de ayuntamientos, declarar que éstos han desapare
 
 ###### Artículo 104.
 
-La Comisión de Instrucción y Dictamen se integrará por seis diputados que serán dos de la Junta de Coordinación Política, los Presidentes de las comisiones de Gobernación y Puntos Constitucionales, y de Procuración y Administración de Justicia, un diputado de la primera minoría y uno de la segunda a propuesta de los grupos parlamentarios respectivos.
+La Comisión de Instrucción y Dictamen se integrará por seis diputados que serán dos de la Junta de Coordinación Política, los Presidentes de las comisiones de Gobernación y Puntos Constitucionales; y de Procuración y Administración de Justicia, un diputado de la primera minoría y uno de la segunda a propuesta de los grupos parlamentarios respectivos.
 
 ###### Artículo 105.
 
@@ -1962,3 +1992,11 @@ G.G. 10 DE AGOSTO DE 2012.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 30 DE AGOSTO DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- La Secretaría de Finanzas, por acuerdo de la Junta de Coordinación Política, expedirán las disposiciones administrativas y realizarán las prevenciones presupuestales respectivamente, para el cumplimiento del presente Decreto.
