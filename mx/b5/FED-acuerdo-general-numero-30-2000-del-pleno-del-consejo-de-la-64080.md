@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-30-2000-del-pleno-del-consejo-de-la-6408
 country: "mx"
 rank: "acuerdo"
 publication_date: "2000-05-17"
-last_updated: "2000-05-17"
+last_updated: "2012-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64080&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2000-05-17"
 ---
 # ACUERDO GENERAL NUMERO 30/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [RELATIVO A LAS MEDIDAS DE SEGURIDAD Y VIGILANCIA EN LOS INMUEBLES DEL PODER JUDICIAL DE LA FEDERACION]
 
-ACUERDO GENERAL NUMERO 30/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE MEDIDAS DE SEGURIDAD Y VIGILANCIA EN LOS INMUEBLES DEL PODER JUDICIAL DE LA FEDERACION, CON EXCEPCION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION Y DEL TRIBUNAL ELECTORAL
+ACUERDO GENERAL NÚMERO 30/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE MEDIDAS DE SEGURIDAD Y VIGILANCIA EN LOS INMUEBLES DEL PODER JUDICIAL DE LA FEDERACIÓN, CON EXCEPCIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN Y DEL TRIBUNAL ELECTORAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE AGOSTO DE 2012.
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo XI, Mayo de 2000, página 1021.
 
@@ -77,7 +77,7 @@ En la aplicación y cumplimiento del presente acuerdo, Recursos Materiales se au
 
 Recursos Materiales instrumentará los programas, sistemas y mecanismos, tendientes a preservar la seguridad e integridad física de los Servidores Públicos que laboran en los Inmuebles, así como de las instalaciones, equipo y demás bienes que forman el patrimonio del Poder Judicial de la Federación. Entre otros aspectos regulará:
 
-I. El control de acceso peatonal y vehicular de los Servidores Públicos y Visitantes que acuden a los Inmuebles;
+I. (DEROGADA POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL 23/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE AGOSTO DE 2012)
 
 II. El uso de aparatos eléctricos para evitar cortos circuitos provocados por la sobrecarga en las instalaciones;
 
@@ -95,7 +95,9 @@ Recursos Materiales designará y distribuirá al personal de seguridad para efec
 
 La Administración del Inmueble atenderá los requerimientos que en materia de seguridad y protección civil soliciten los órganos jurisdiccionales y administrativos del Consejo y, en su caso, acudirá en forma oportuna a las llamadas urgentes que se reciban en esta materia.
 
-### Capítulo II. De la entrada y salida de Servidores Públicos y Visitantes
+> <small>(DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL 23/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE AGOSTO DE 2012)</small>
+
+### Capítulo II
 
 ###### Artículo 7o.
 
@@ -139,9 +141,7 @@ VII. Cuando se considere necesario, se confirmará con el servidor público corr
 
 ###### Artículo 12.
 
-No se permitirá la entrada a vendedores ambulantes, voceadores, boleros y cualquier otra persona que pretenda ofrecer servicios similares, sin la previa autorización de la Administración del Inmueble.
-
-A la persona que sea sorprendida realizando actos de comercio dentro del inmueble sin previa autorización, se le solicitará que se retire de las instalaciones y, en su caso, algún elemento de vigilancia la acompañará hasta que las abandone.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL 28/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE AGOSTO DE 2012)
 
 ###### Artículo 13.
 
@@ -163,7 +163,9 @@ En horas y días inhábiles, el personal de seguridad y vigilancia deberá regis
 
 Al finalizar las labores diarias, los Servidores Públicos que sean los últimos en salir tendrán la obligación de cerrar con llave el acceso principal del área de trabajo. En caso de no contar con la llave correspondiente, deberán solicitar el apoyo del personal de seguridad, con el fin de que se coloquen sellos que impidan el acceso o permitan detectar el ingreso de personas no autorizadas en horas inhábiles. De igual forma, deberán notificar al personal de seguridad, sobre el retiro de los sellos referidos.
 
-### Capítulo III. De la entrada y salida de personal de empresas contratadas por el Consejo para la realización de obras o la prestación de servicios
+> <small>(DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL 23/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE AGOSTO DE 2012)</small>
+
+### Capítulo III
 
 ###### Artículo 18.
 
@@ -185,7 +187,9 @@ Queda prohibido que el personal de las empresas prestadoras de servicios deambul
 
 La unidad administrativa contratante del servicio deberá establecer dispositivos de supervisión, con la finalidad de verificar que los prestadores de servicios se abstengan de realizar actividades no autorizadas o en detrimento de las funciones que se desarrollan en los órganos jurisdiccionales o administrativos del Consejo.
 
-### Capítulo IV. De la entrada y salida de vehículos a los estacionamientos
+> <small>(DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL 23/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE AGOSTO DE 2012)</small>
+
+### Capítulo IV
 
 ###### Artículo 21.
 
@@ -261,7 +265,7 @@ La Administración del Inmueble tendrá las siguientes obligaciones:
 
 I. Vigilar que las instalaciones eléctricas, hidrosanitarias y de comunicación de los Inmuebles cumplan con los requisitos de eficiencia y seguridad;
 
-II. Supervisar periódicamente el buen funcionamiento del sistema de detección de incendios y, en su caso, del arco detector de metales y de la banda de rayos "X" con que cuentan algunos Inmuebles;
+II. (DEROGADA POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL 23/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE AGOSTO DE 2012)
 
 III. Verificar el nivel de carga de todos los extintores con que cuentan los Inmuebles, a fin de recargar o sustituir en un tiempo no mayor de veinticuatro horas aquellos que se hayan utilizado o se despresuricen por término de vigencia o por accidente;
 
@@ -283,9 +287,9 @@ Asimismo, elaborará un programa interno de protección civil, el cual considera
 
 Para efectos de la debida observancia de las disposiciones del presente acuerdo, los Servidores Públicos deberán:
 
-I. Portar durante la jornada laboral, la identificación expedida por la Dirección General de Recursos Humanos;
+I. (DEROGADA POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL 23/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE AGOSTO DE 2012)
 
-II. Permitir al personal de vigilancia, la revisión de portafolios, bolsas o bultos al entrar y salir del inmueble cuando así se les requiera;
+II. (DEROGADA POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL 23/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE AGOSTO DE 2012)
 
 III. Revisar diariamente al término de sus labores que se encuentre apagado el equipo eléctrico y cerciorarse de no dejar documentos importantes o pertenencias personales sobre su escritorio y, en su caso, resguardarlos bajo llave;
 
@@ -311,11 +315,13 @@ III. Apagar los aparatos eléctricos cuando no se estén utilizando;
 
 IV. Reportar a vigilancia cualquier anomalía que llegara a presentarse; y,
 
-V. Notificar al personal de vigilancia la presencia de vendedores o personas ajenas al área de trabajo.
+V. (DEROGADA POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL 23/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE AGOSTO DE 2012)
 
 ###### Artículo 42.
 
-Cuando por motivos laborales el personal deba presentarse en días y horas inhábiles, deberá registrar en el formato de control de acceso correspondiente, sus datos generales y el área de adscripción.
+(DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL 23/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE AGOSTO DE 2012)
+
+> <small>(DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL 23/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE AGOSTO DE 2012)</small>
 
 ### Capítulo VIII. De las obligaciones específicas del personal de seguridad y vigilancia
 
@@ -392,3 +398,33 @@ LICENCIADO GUILLERMO ANTONIO MUÑOZ JIMÉNEZ, SECRETARIO EJECUTIVO DEL PLENO DEL
 CERTIFICA:
 
 Que este Acuerdo General Número 30/2000, del Pleno del Consejo de la Judicatura Federal, que establece medidas de seguridad y vigilancia en los inmuebles del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral, fue aprobado por el propio Pleno, en sesión de diecisiete de mayo de dos mil, por unanimidad de votos de los señores consejeros: presidente Ministro Genaro David Góngora Pimentel, Adolfo O. Aragón Mendía, Manuel Barquín Álvarez, Jaime Manuel Marroquín Zaleta, Enrique Sánchez Bringas y José Guadalupe Torres Morales.-México, Distrito Federal, a dieciocho de mayo de dos mil.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 31 DE AGOSTO DE 2012.
+
+ACUERDO 23/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta y en el portal de Internet del Consejo.
+
+TERCERO. Se derogan el artículo 4, fracción I, los capítulos II, III, IV y V, los artículos 37, fracción II, 39, fracciones I y II, 41, fracción V, 42 y el capítulo VIII, del Acuerdo General 30/2000, del Pleno del Consejo de la Judicatura Federal, que establece medidas de seguridad y vigilancia en los inmuebles del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral.
+
+Respecto de los artículos del Acuerdo General 30/2000 que quedan vigentes y que están relacionados con la materia de protección civil, se instruye a las Direcciones Generales de Protección Civil y Salud en el Trabajo y de Asuntos Jurídicos para que en un plazo que no deberá exceder de treinta días, a partir de la entrada en vigor del presente Acuerdo, realicen la actualización de dicho ordenamiento jurídico, con el objeto de que en su oportunidad éste sea abrogado.
+
+CUARTO. Se derogan todas las disposiciones emitidas por el Consejo de la Judicatura Federal que se opongan al presente acuerdo.
+
+QUINTO. La Oficialía Mayor instrumentará todas las acciones necesarias para que se contraten, instalen, operen, cuenten con mantenimiento los Centros de Control y Monitoreo y demás instrumentos tecnológicos de seguridad en las instalaciones del Consejo, para lo cual, efectuará las proyecciones de los recursos financieros para la adquisición de equipo e infraestructura necesarios, las adecuaciones de espacios físicos y en su caso, contratación de personal especializado para la operación de dichos centros.
+
+Los Centros de Control y Monitoreo deberán situarse y ponerse en operación en todas las instalaciones que así lo requieran, de acuerdo a los análisis de riesgo desarrollados por la Coordinación de Seguridad, y a partir de la aprobación del programa correspondiente, mismo que deberá presentar la Coordinación de Seguridad con el visto bueno del Secretario General para el conocimiento y en su caso aprobación del Pleno.
+
+D.O.F. 31 DE AGOSTO DE 2012.
+
+ACUERDO 28/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+Primero.- Este acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, ordenándose también su publicación en el Semanario Judicial de la Federación y su Gaceta y el portal electrónico del Consejo de la Judicatura Federal.
+
+Segundo.- Se deroga el artículo 12 del Acuerdo General 30/2000 del Pleno del Consejo de la Judicatura Federal, que establece medidas de seguridad y vigilancia en los inmuebles del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral.
+
+Tercero.- Quedan sin efecto todas las disposiciones dictadas con anterioridad, en lo que se opongan a este acuerdo.
