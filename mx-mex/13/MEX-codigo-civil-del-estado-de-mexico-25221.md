@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2012-08-24"
+last_updated: "2012-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO CIVIL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE AGOSTO DE 2012.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -6909,15 +6909,23 @@ Identificación del testador
 
 125.- En caso de urgencia, si el testador no pudiera identificarse, se hará constar esta circunstancia por el Notario, agregando las señales que le caractericen, debiendo identificarse en un plazo de tres días para que sea válido el testamento.
 
+> <small>(ADICIONADO, G.G. 31 DE AGOSTO DE 2012)</small>
+
+Del Registro Testamentario
+
+###### Artículo 6.
+
+125 Bis.- Otorgado ante el Notario el testamento o dado ante la autoridad que lo reciba, dentro de los diez días hábiles siguientes, deberá formular aviso al Archivo General de Notarías para su registro, quien a su vez remitirá el informe respectivo al Registro Nacional de Avisos de Testamento.
+
+### CAPITULO l. Disposiciones Generales
+
+Casos en que se abre la sucesión legítima
+
 ###### Artículo 6.
 
 126.- Testamento público abierto es el que se otorga ante Notario, conforme a las disposiciones de este Capítulo.
 
 Requisitos del testamento público abierto
-
-### CAPITULO l. Disposiciones Generales
-
-Casos en que se abre la sucesión legítima
 
 ###### Artículo 6.
 
@@ -6971,15 +6979,15 @@ Formalidades del testamento en un solo acto
 
 135.- Las formalidades del testamento se practicarán en un sólo acto que comenzará con su lectura, y el Notario dará fe de haberse llenado aquéllas.
 
+### CAPITULO II. De la Sucesión de los Descendientes
+
+División de la herencia sólo entre hijos
+
 ###### Artículo 6.
 
 136.- Testamento público simplificado es aquél que se otorga ante notario en la escritura en que se consigna la adquisición de una vivienda y su solar o parcela, de un inmueble destinado a vivienda o en la que se consigne su regularización por parte de las autoridades o entidades del Estado o de cualquier dependencia o entidad de la Administración Pública Federal, siempre que tenga el mismo fin o en acto posterior.
 
 Monto de los bienes, objeto del testamento público simplificado
-
-### CAPITULO II. De la Sucesión de los Descendientes
-
-División de la herencia sólo entre hijos
 
 ###### Artículo 6.
 
@@ -7003,13 +7011,19 @@ Sustanciación de la sucesión por testamento público simplificado
 
 140.- La sucesión derivada del testamento público simplificado, se sustanciará en los términos del Código de Procedimientos Civiles.
 
+### CAPITULO III. De la Sucesión del Cónyuge
+
+Cónyuge que concurre con hijos
+
 ###### Artículo 6.
 
 141.- En el Estado se reconoce existencia válida a los testamentos militar, marítimo y al hecho en país extranjero si se ajustan al Código Civil de aplicación federal y disposiciones relativas.
 
-### CAPITULO III. De la Sucesión del Cónyuge
+## TITULO QUINTO. Disposiciones comunes a las Sucesiones Testamentarias y Legítimas
 
-Cónyuge que concurre con hijos
+### CAPITULO IV. De la Sucesión de los Ascendientes
+
+Padres, herederos únicos
 
 ###### Artículo 6.
 
@@ -7024,12 +7038,6 @@ III. No se cumpla la condición impuesta al heredero;
 IV. El heredero muera antes que el testador, repudie la herencia o sea incapaz de heredar, si no se ha nombrado substituto.
 
 Testamento válido sin subsistencia de la institución de heredero
-
-## TITULO QUINTO. Disposiciones comunes a las Sucesiones Testamentarias y Legítimas
-
-### CAPITULO IV. De la Sucesión de los Ascendientes
-
-Padres, herederos únicos
 
 ###### Artículo 6.
 
@@ -7063,15 +7071,15 @@ Parientes en el mismo grado
 
 147.- Los parientes que se hallaren en el mismo grado, heredarán por partes iguales.
 
+### CAPITULO V. De la Sucesión de los Colaterales
+
+Hermanos por ambas líneas
+
 ###### Artículo 6.
 
 148.- Si a la muerte de los padres quedaren sólo hijos, la herencia se dividirá entre todos por partes iguales.
 
 Cónyuge y descendientes que concurren a la herencia
-
-### CAPITULO V. De la Sucesión de los Colaterales
-
-Hermanos por ambas líneas
 
 ###### Artículo 6.
 
@@ -7103,17 +7111,17 @@ Hijos que concurren con ascendientes a la herencia
 
 154.- (DEROGADO, G.G. 15 DE MAYO DE 2012)
 
-###### Artículo 6.
-
-155.- El cónyuge que sobrevive concurriendo con hijos, tendrá el derecho de uno de ellos.
-
-Cónyuge que concurre con ascendientes
-
 ### CAPITULO VI. De la Sucesión de los Concubinos
 
 Requisitos para heredar entre concubinarios
 
 > <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
+
+###### Artículo 6.
+
+155.- El cónyuge que sobrevive concurriendo con hijos, tendrá el derecho de uno de ellos.
+
+Cónyuge que concurre con ascendientes
 
 ###### Artículo 6.
 
@@ -7125,15 +7133,15 @@ Cónyuge heredero único
 
 157.- A falta de descendientes, sólo el cónyuge hereda.
 
+### CAPITULO VII. De la sucesión de la beneficencia pública
+
+Falta de cónyuge y parientes con derecho a heredar
+
 ###### Artículo 6.
 
 158.- A falta de descendientes, de cónyuge, concubina o concubinario, sucederán los progenitores por partes iguales.
 
 Padre o madre, heredero único
-
-### CAPITULO VII. De la sucesión de la beneficencia pública
-
-Falta de cónyuge y parientes con derecho a heredar
 
 ###### Artículo 6.
 
@@ -7167,15 +7175,15 @@ Concurrencia de los adoptantes y concubina o concubinario
 
 164. Si concurre la concubina o concubinario del adoptado y los adoptantes, les corresponde a cada parte el cincuenta por ciento.
 
+### CAPITULO l. De las precauciones que deben adoptarse cuando la viuda queda encinta
+
+Derecho de la viuda o concubina embarazadas
+
 ###### Artículo 6.
 
 165.- Si sólo hay hermanos por ambas líneas, sucederán por partes iguales.
 
 Hermanos que concurren con medios hermanos
-
-### CAPITULO l. De las precauciones que deben adoptarse cuando la viuda queda encinta
-
-Derecho de la viuda o concubina embarazadas
 
 ###### Artículo 6.
 
@@ -7199,13 +7207,13 @@ División de la herencia entre parientes hasta el cuarto grado
 
 169.- A falta de los llamados en los artículos anteriores, sucederán los parientes más próximos hasta el cuarto grado, sin distinción de línea, ni consideración al doble vínculo, y heredarán por partes iguales.
 
-###### Artículo 6.
-
-170.- Tiene derecho a heredar la concubina o el concubinario del autor de la herencia.
-
 ### CAPITULO II. De la apertura de la Sucesión y de la transmisión de la Herencia
 
 Momento de apertura de la sucesión y transmisión de la herencia
+
+###### Artículo 6.
+
+170.- Tiene derecho a heredar la concubina o el concubinario del autor de la herencia.
 
 ###### Artículo 6.
 
@@ -7241,19 +7249,13 @@ Concubino que concurre con parientes colaterales
 
 176.- Si concurre con parientes colaterales hasta el cuarto grado del autor de la sucesión, tendrá derecho a dos terceras partes.
 
-###### Artículo 6.
-
-177.- A falta de todos los herederos señalados en los capítulos anteriores sucederá el Sistema para el Desarrollo Integral de la Familia del Estado de México.
-
 ### CAPITULO III. De la aceptación y de la repudiación de la Herencia
 
 Legitimación para aceptar o repudiar la herencia
 
 ###### Artículo 6.
 
-178.- La viuda o concubina que quedara encinta, tiene derecho a recibir alimentos y al pago de los gastos médicos derivados del embarazo, con cargo a la sucesión.
-
-Suspensión de la partición
+177.- A falta de todos los herederos señalados en los capítulos anteriores sucederá el Sistema para el Desarrollo Integral de la Familia del Estado de México.
 
 ## TITULO PRIMERO. Fuente de las Obligaciones
 
@@ -7263,17 +7265,23 @@ Legitimación para ser albacea
 
 ###### Artículo 6.
 
+178.- La viuda o concubina que quedara encinta, tiene derecho a recibir alimentos y al pago de los gastos médicos derivados del embarazo, con cargo a la sucesión.
+
+Suspensión de la partición
+
+###### Artículo 6.
+
 179.- La partición de la herencia se suspenderá hasta que se verifique el parto o se demuestre que la viuda o concubina no está embarazada, pero los acreedores podrán ser pagados por mandato judicial.
+
+### CAPITULO V. Del inventario, avalúo y liquidación de la sucesión
+
+Formación de inventario y avalúo por el albacea
 
 ###### Artículo 6.
 
 180.- La sucesión se abre y la herencia se transmite en el momento en que muere su autor o cuando se declare la presunción de muerte.
 
 Derecho del heredero mientras se nombra albacea
-
-### CAPITULO V. Del inventario, avalúo y liquidación de la sucesión
-
-Formación de inventario y avalúo por el albacea
 
 ###### Artículo 6.
 
@@ -7291,15 +7299,15 @@ Transmisión y prescripción de la acción de petición de herencia
 
 183.- La acción de petición de herencia es transmisible a los herederos y prescribe en cinco años, a partir de la declaración o reconocimiento de herederos.
 
+### CAPITULO VI. De la Partición
+
+Partición de la herencia
+
 ###### Artículo 6.
 
 184.- Pueden aceptar o repudiar la herencia todos los que tienen la libre disposición de sus bienes.
 
 Aceptación o repudiación por los incapacitados
-
-### CAPITULO VI. De la Partición
-
-Partición de la herencia
 
 ###### Artículo 6.
 
@@ -7407,15 +7415,15 @@ La aceptación de la herencia es a beneficio de inventario
 
 202.- La aceptación en ningún caso produce confusión de los bienes del autor de la herencia y de los herederos, porque toda herencia se entiende aceptada a beneficio de inventario aunque no se exprese.
 
+### CAPITULO VII. De los efectos de la partición
+
+Asignación de porción hereditaria
+
 ###### Artículo 6.
 
 203.- Pueden ser albaceas las personas que tengan capacidad de ejercicio, a excepción de los que se mencionan en este capítulo.
 
 Incapacidad para ser albacea
-
-### CAPITULO VII. De los efectos de la partición
-
-Asignación de porción hereditaria
 
 ###### Artículo 6.
 
@@ -7879,15 +7887,15 @@ IV. Revocación;
 
 V. Liquidación del patrimonio sucesorio.
 
+### CAPITULO VIII. De la rescisión y nulidad de las particiones
+
+Causas de rescisión o anulación de la partición
+
 ###### Artículo 6.
 
 271.- El albacea definitivo deberá iniciar, hacer y presentar el inventario y avalúo, en la forma y términos que fije el Código de Procedimientos Civiles.
 
 Omisión del albacea de formar inventario y avalúo
-
-### CAPITULO VIII. De la rescisión y nulidad de las particiones
-
-Causas de rescisión o anulación de la partición
 
 ###### Artículo 6.
 
@@ -7971,15 +7979,15 @@ Aplicación del precio de bienes vendidos
 
 285.- La mayoría de los interesados, o la autorización judicial en su caso, determinará la aplicación que haya de darse al precio de los bienes vendidos.
 
+### CAPITULO I. Disposiciones Generales
+
+Concepto de obligación
+
 ###### Artículo 6.
 
 286.- Aprobados el inventario, avalúo y la cuenta de administración, el albacea debe hacer la partición de la herencia.
 
 Derecho a la división de los bienes
-
-### CAPITULO I. Disposiciones Generales
-
-Concepto de obligación
 
 ###### Artículo 6.
 
@@ -8049,15 +8057,15 @@ Gastos de partición
 
 296.- Los gastos de la partición son a cargo de la sucesión; los que se hagan por interés de algunos de los herederos o legatarios serán por su cuenta.
 
+### CAPITULO II. Fuentes de las obligaciones
+
+Hechos y actos que originan la obligación
+
 ###### Artículo 6.
 
 297.- Aprobada la partición, queda determinada la porción de bienes hereditarios que corresponde a cada uno de los herederos.
 
 Privación a un heredero de todo o parte de su porción
-
-### CAPITULO II. Fuentes de las obligaciones
-
-Hechos y actos que originan la obligación
 
 ###### Artículo 6.
 
@@ -8099,15 +8107,15 @@ Caución de los herederos por embargo o sentencia contra la sucesión
 
 303.- Cuando por obligaciones de la sucesión, fueren embargados bienes, o se pronunciare sentencia condenatoria, el heredero tiene derecho de pedir que sus coherederos caucionen la responsabilidad que pueda resultarles y, en caso contrario, que se les prohíba enajenar los bienes que recibieron.
 
+### CAPITULO III. De los Hechos Jurídicos
+
+Concepto de hecho jurídico
+
 ###### Artículo 6.
 
 304.- Las particiones pueden rescindirse o anularse por las mismas causas que las obligaciones.
 
 Derecho del heredero preterido
-
-### CAPITULO III. De los Hechos Jurídicos
-
-Concepto de hecho jurídico
 
 ###### Artículo 6.
 
@@ -17442,3 +17450,11 @@ G.G. 24 DE AGOSTO DE 2012.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 31 DE AGOSTO DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno"
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan los ordenamientos jurídicos de igual o menor jerarquía, que se opongan a lo dispuesto por el presente Decreto.
