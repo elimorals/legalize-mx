@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2012-08-30"
+last_updated: "2012-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE SEPTIEMBRE DE 2012 EN EL G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE AGOSTO DE 2012.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -5601,11 +5603,17 @@ Las autoridades estatales y municipales en materia de desarrollo urbano podrán 
 
 ### CAPITULO PRIMERO. Del objeto y finalidad
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### Artículo 5.
 
 64.- Las sanciones se impondrán sin perjuicio de la responsabilidad civil o penal que pudieran resultar por los hechos o actos constitutivos de la infracción.
 
 La demolición parcial o total que ordene la autoridad competente será ejecutada por el afectado o infractor a su costa y dentro del plazo que fije la resolución respectiva. En caso contrario, la autoridad la mandará ejecutar por cuenta y cargo del afectado o infractor y su monto constituirá un crédito fiscal.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE LIBRO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON LOS TÍTULOS, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
 ## TÍTULO QUINTO. De las Medidas de Seguridad, Infracciones y Sanciones
 
@@ -5613,7 +5621,7 @@ La demolición parcial o total que ordene la autoridad competente será ejecutad
 
 ### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
-> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 5.
 
@@ -5717,7 +5725,13 @@ Cuando así proceda, las licencias de uso del suelo y de construcción se podrá
 
 ## TITULO PRIMERO. Disposiciones generales
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
+
 ### CAPITULO PRIMERO. Disposiciones generales
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 5.
 
@@ -5740,6 +5754,8 @@ V. Se dejará libre de explotación una franja no menor de veinte metros de anch
 VI. Se rehabilitará el terreno laboreado para su aprovechamiento posterior sin riesgo de derrumbes o daños a terceros.
 
 ### CAPITULO SEGUNDO. Del Sistema Estatal de Protección Civil
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 5.
 
@@ -5771,257 +5787,163 @@ La reglamentación de este Libro regulará la integración, organización y func
 
 # LIBRO SEXTO. De la protección civil
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
+
 ## TITULO SEGUNDO. De los sistemas de protección civil
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
 ### CAPITULO TERCERO. Del Consejo Estatal de Protección Civil
 
-###### Artículo 6.
-
-1.- Este Libro tiene por objeto regular las acciones de protección civil en el Estado de México.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 6.
 
-2.- Las disposiciones de este Libro tienen como finalidad la prevención, auxilio y recuperación de la población en caso de riesgo o desastre.
+1.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 6.
 
-3.- Son aplicables a este Libro los conceptos, principios y lineamientos establecidos en la Ley General de Protección Civil.
+2.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+###### Artículo 6.
+
+3.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
 ### CAPITULO CUARTO. De los sistemas y consejos municipales de protección civil
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### Artículo 6.
 
-4.- Son autoridades en materia de protección civil, la Secretaría General de Gobierno, que ejercerá sus atribuciones a través de la Agencia de Seguridad Estatal, la Dirección General de Protección Civil y los Ayuntamientos con las atribuciones que les otorga este Libro.
+4.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
 ## TITULO TERCERO. Del Instituto de Protección Civil del Estado de México
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ### CAPITULO QUINTO. De los grupos voluntarios
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 6.
 
-5.- Los sistemas de protección civil se constituyen por el conjunto de órganos, instrumentos, métodos y procedimientos que establecen las dependencias, organismos y entidades del sector público estatal o municipal, según corresponda, con la participación de los sectores social y privado, para la ejecución coordinada de acciones de protección civil.
+5.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
 ### CAPITULO SEXTO. De las unidades internas
 
-###### Artículo 6.
-
-6.- El sistema estatal de protección civil, se integra por:
-
-I. El Gobernador del Estado;
-
-II. El Consejo Estatal de Protección Civil;
-
-III. Los sistemas y consejos municipales de protección civil;
-
-IV. Las unidades internas;
-
-V. Los grupos voluntarios.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 6.
 
-7.- La coordinación ejecutiva del sistema estatal de protección civil estará a cargo de la Secretaría General de Gobierno, quien la ejercerá a través de la Agencia de Seguridad Estatal, la cual tendrá las atribuciones siguientes:
+6.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
 
-I. Vincular el sistema estatal de protección civil con el sistema nacional de protección civil;
-
-II. Proponer políticas y estrategias para el desarrollo de programas en la materia;
-
-III. Establecer las instancias, mecanismos, instrumentos y procedimientos de carácter técnico, operativo, de servicios y logística para prevenir y atender un desastre;
-
-IV. Establecer la metodología para la elaboración de programas internos y específicos de protección civil, grupos voluntarios y grupos de ayuda mutua;
-
-V. Solicitar al Gobernador del Estado la expedición de las declaratorias de emergencia;
-
-VI. Promover la creación de fondos para las acciones de protección civil;
-
-VII. Solicitar el apoyo del Gobierno Federal para el auxilio y recuperación en los casos de emergencia o desastre cuando la capacidad operativa y financiera del Estado sea superada;
-
-> <small>(REFORMADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
-
-VIII. Aplicar los recursos estatales y federales a las acciones de prevención, auxilio y de recuperación;
-
-> <small>(ADICIONADA, G.G. 4 DE NOVIEMBRE DE 2010)</small>
-
-XIII BIS. Coordinar las acciones con las dependencias del Estado y de los municipios, para atender las emergencias y contingencias provocadas por fenómenos perturbadores de origen natural y apoyar el restablecimiento de servicios públicos, mediante el fondo estatal de atención a los desastres y siniestros ambientales.
-
-IX. Informar al sistema nacional de protección civil de la ocurrencia de riesgos y desastres en el territorio del Estado para la concertación y coordinación de acciones;
-
-X. Apoyar la creación, desarrollo y consolidación de los consejos municipales de protección civil, grupos voluntarios y grupos de ayuda mutua;
-
-> <small>(REFORMADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
-
-XI. Promover la creación, desarrollo y actualización permanente, de los atlas municipales de riesgos;
-
-XII. Proponer la adquisición de equipo especializado de transporte, comunicación, prevención y atención de desastres con cargo a los fondos disponibles;
-
-XIII. Ejecutar las acciones de protección civil en coordinación con los municipios, grupos voluntarios y unidades internas;
-
-XIV. Investigar, estudiar y evaluar riesgos y daños provenientes de elementos, agentes naturales o humanos generadores de riesgo o desastres;
-
-XV. Promover, desarrollar, vigilar y evaluar los programas de capacitación a la población en la materia;
-
-XVI. Asesorar y apoyar a las dependencias, organismos auxiliares y fideicomisos públicos estatales, a los municipios y a las instituciones, personas, grupos y asociaciones de carácter civil y privado en materia de protección civil;
-
-XVII. Establecer, operar o enlazarse con redes de detección, monitoreo, pronóstico y medición de riesgos, en coordinación con otras autoridades;
-
-XVIII. Desarrollar, actualizar y difundir el Atlas de Riesgos del Estado de México;
-
-> <small>(REFORMADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
-
-XIX. Expedir, actualizar y vigilar la aplicación de normas técnicas estatales y demás disposiciones en materia de protección civil.
-
-Las normas técnicas se deberán expedir de conformidad con las disposiciones aplicables de las leyes federales, estatales y municipales correspondientes, así como con los convenios internacionales.
-
-Su actualización deberá ser cada cinco años.
-
-Su aplicación y vigilancia, corresponderá a las autoridades estatales y municipales, de acuerdo a su competencia;
-
-XX. Recibir, evaluar y aprobar los programas de las unidades internas de protección civil;
-
-> <small>(REFORMADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
-
-XXI. El Sistema Estatal promoverá la cultura de la autoprotección, que convoque y sume el interés de la población en general, así como su participación individual y colectiva.
-
-Es menester el impulsar la cultura de la autoprotección, para lo cual las dependencias del sector público, con la participación del sector social, privado y académico, promoverán:
-
-a) El desarrollo y ejecución de acciones en el ámbito Estatal y Municipal, que permita se brinden los conocimientos básicos de la cultura de la autoprotección.
-
-b) La ejecución de simulacros en lugares de concentración masiva de personas.
-
-c) La formulación y promoción de campañas masivas de difusión, que contengan temas en materia de Protección Civil.
-
-d) Actividades de concertación con los diversos medios de difusión masiva, para la realización de campañas de divulgación sobre temas de protección civil y cultura de la autoprotección.
-
-e) La integración de acervos de información técnica y científica sobre fenómenos perturbadores, que afecten o puedan afectar a la población, que permita la instrumentación de acciones a seguir durante, la inminente presencia de un agente perturbador.
-
-f) El fortalecimiento y desarrollo de programas educativos y de difusión en materia de protección civil, dirigidos a la población en general, que permita conocer las acciones a seguir, durante el eminente embate o presencia de un agente perturbador, en las fases sustantivas de protección civil: prevención, auxilio y recuperación.
-
-XXII. Las demás que le confieren este Libro y las demás disposiciones legales aplicables.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 6.
 
-8.- El Consejo Estatal de Protección Civil es un órgano de consulta y de coordinación del Gobierno del Estado para convocar, concertar, inducir e integrar las actividades de los participantes e interesados en la materia, a fin de garantizar el cumplimiento del objeto del sistema estatal de protección civil.
+7.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 6.
 
-9.- El Consejo Estatal de Protección Civil tendrá las atribuciones siguientes:
+8.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
 
-> <small>(REFORMADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-I. Participar en la elaboración y evaluación del Programa Estatal de Protección Civil, y coadyuvar en su aplicación, para mejorar la cultura de la prevención en la materia y su amplia difusión en la entidad;
+###### Artículo 6.
 
-II. Fomentar la participación de los sectores de la sociedad en la formulación y ejecución de los programas de protección civil;
+9.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
 
-III. Convocar, coordinar y armonizar la participación de los grupos sociales y los municipios, con pleno respeto a la libertad municipal, en la definición y ejecución de las acciones en la materia;
-
-IV. Promover el estudio, investigación y capacitación en materia de protección civil, identificando sus problemas y tendencias, y proponiendo normas y procedimientos que permitan su solución;
-
-V. Promover la generación, desarrollo y consolidación de la cultura de protección civil;
-
-VI. Coordinar campañas permanentes en materia de protección civil;
-
-VII. Promover ante las autoridades educativas la adopción de programas en materia de protección civil en las instituciones de educación en todos sus niveles y grados;
-
-VIII. Constituirse en sesión permanente en los casos de riesgo o desastre para formular opiniones y recomendaciones sobre las acciones que deban tomarse;
-
-IX. Coadyuvar en la vigilancia de la aplicación de los recursos que se destinen a los programas y acciones de protección civil;
-
-> <small>(REFORMADA, G.G. 4 DE NOVIEMBRE DE 2010)</small>
-
-X. Convocar, coordinar y convenir con los Ayuntamientos del Estado y la Secretaría del Medio Ambiente la integración de un Programa para atender las emergencias y contingencias provocadas por desastres y fenómenos perturbadores de origen natural, cuyo objetivo principal es la protección de la vida y la salud de la población afectada, apoyando el restablecimiento de los servicios públicos;
-
-> <small>(ADICIONADA, G.G. 4 DE NOVIEMBRE DE 2010)</small>
-
-XI. Las demás que se prevean en la reglamentación de este Libro.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ### CAPITULO PRIMERO. Disposiciones generales
 
-> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 6.
 
-10.- El Consejo Estatal de Protección Civil se integra por un presidente, que será el Gobernador del Estado; un secretario ejecutivo, que será el Secretario General de Gobierno quien la ejercerá, a través del Comisionado de la Agencia de Seguridad Estatal; un secretario técnico que será el Director General de Protección Civil y los demás miembros que designe o invite el Gobernador del Estado.
+10.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
 
-El cargo de miembro del Consejo Estatal de Protección Civil será honorífico.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-El consejo contará con los comités, comisiones y grupos de trabajo necesarios para el cumplimiento de su objeto, y operará en los términos de su reglamento interno.
-
-###### Artículo 6.
-
-11.- Los municipios establecerán sistemas de protección civil, que se integran por:
-
-I. El Presidente Municipal;
-
-II. El Consejo Municipal de Protección Civil;
-
-III. Las unidades internas;
-
-IV. Los grupos voluntarios.
-
-Los sistemas municipales deberán vincularse y coordinarse con el sistema estatal de protección civil.
-
-> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 6.
 
-12.- Los consejos municipales son órganos de consulta y de coordinación de los gobiernos municipales para convocar, concertar, inducir e integrar las acciones de los sistemas municipales de protección civil, fundamentalmente enfocadas a prevenir en la materia, sin descuidar aquellas referidas al auxilio y recuperación. Asimismo tendrán las atribuciones que determinen los ayuntamientos de conformidad con las disposiciones legales aplicables.
+11.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+###### Artículo 6.
+
+12.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ### CAPITULO SEGUNDO. De las medidas de seguridad
 
-> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 6.
 
-13.- Los ayuntamientos determinarán la estructura y funcionamiento de sus respectivos sistemas y consejos municipales.
+13.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 6.
 
-14.- Son grupos voluntarios las instituciones, organizaciones y asociaciones que cuenten con registro de la Secretaría General de Gobierno.
+14.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
 
-Los grupos voluntarios estarán integrados por personas físicas o morales con conocimiento y experiencia en materia de protección civil, que cuenten con recursos y equipo para prestar sus servicios a la población de manera altruista y comprometida.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 6.
 
-15.- Son derechos y obligaciones de los grupos voluntarios:
+15.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
 
-I. Portar en un lugar visible de sus vehículos y vestimenta el distintivo oficial que acredite su registro;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. Vincular sus programas de capacitación y adiestramiento con los programas estatales de la materia;
-
-III. Contar con un directorio actualizado de sus miembros;
-
-IV. Refrendar anualmente su registro y el de sus miembros;
-
-V. Coordinarse bajo el mando de las autoridades de protección civil en los casos de riesgo o desastre;
-
-VI. Abstenerse de solicitar o recibir contraprestación alguna de las personas a quienes presten ayuda;
-
-VII. Utilizar para el servicio que presten, los bienes y equipo previamente registrados ante la Secretaría General de Gobierno;
-
-VIII. Comunicar a las autoridades de protección civil la presencia de una situación de riesgo o desastre;
-
-IX. Participar en las acciones de protección civil para las que estén aptos;
-
-X. Coadyuvar en la difusión de programas de protección civil;
-
-XI. Promover y difundir la cultura de protección civil en el Estado.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
 ### CAPITULO TERCERO. De las infracciones y sanciones
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 6.
 
-16.- Los poderes Legislativo y Judicial, las dependencias, organismos auxiliares y fideicomisos públicos estatales y municipales, así como las personas de los sectores social y privado en los casos previstos en la reglamentación de este Libro, deberán establecer y operar unidades internas de protección civil, con el objeto de procurar la seguridad tanto de las personas que estén en sus instalaciones como de sus bienes, a través de acciones de prevención, auxilio y recuperación en caso de riesgo o desastre.
+16.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
 
-> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 6.
 
-17.- Las unidades internas deberán elaborar programas de protección civil que fomenten la educación de la prevención y los conocimientos básicos que permitan el aprendizaje de medidas de autoprotección y de auxilio, se presentarán para su registro ante la Secretaría General de Gobierno.
+17.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ### CAPITULO PRIMERO. Del objeto y finalidad
 
@@ -6029,17 +5951,23 @@ XI. Promover y difundir la cultura de protección civil en el Estado.
 
 ###### Artículo 6.
 
-18.- Las personas de los sectores social y privado podrán establecer grupos de ayuda mutua o comités vecinales que realizarán las acciones de prevención, auxilio y recuperación en caso de riesgo o desastre.
+18.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-###### Artículo 6.
-
-19.- (DEROGADO, G.G. 31 DE DICIEMBRE DE 2007)
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 6.
 
-20.- (DEROGADO, G.G. 31 DE DICIEMBRE DE 2007)
+19.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO [N. DE E. REPUBLICADO], G.G. 31 DE AGOSTO DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+###### Artículo 6.
+
+20.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO [N. DE E. REPUBLICADO], G.G. 31 DE AGOSTO DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
@@ -6047,23 +5975,25 @@ XI. Promover y difundir la cultura de protección civil en el Estado.
 
 ###### Artículo 6.
 
-21.- (DEROGADO, G.G. 31 DE DICIEMBRE DE 2007)
+21.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO [N. DE E. REPUBLICADO], G.G. 31 DE AGOSTO DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 6.
 
-22.- En los edificios públicos, escuelas, fábricas, industrias, comercios, oficinas, unidades habitacionales, centros de espectáculos o diversiones, en todos los establecimientos abiertos al público y en vehículos de transporte escolar y de personal, deberán practicarse simulacros de protección civil, por lo menos una vez al año, en coordinación con las autoridades competentes.
+22.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
 
-Asimismo, deberán colocarse, en lugares visibles, material e instructivos adecuados para casos de emergencia, en los que se establezcan las reglas que deberán observarse antes, durante y después del desastre, así como las zonas de seguridad y salidas de emergencia.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Lo dispuesto en este artículo se hará en términos de la reglamentación de este Libro y de las normas técnicas que al efecto emita la Secretaría General de Gobierno.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 6.
 
-23.- La Secretaría General de Gobierno por conducto de la Agencia de Seguridad Estatal emitirá dictamen de protección civil, en los usos de suelo que produzcan un impacto regional sobre la infraestructura y equipamiento urbanos y los servicios públicos, en los términos previstos por el artículo 5.61 de este Código, y conforme a las disposiciones reglamentarias de carácter técnico en materia de protección civil que sean aplicables al tipo de construcción y uso que se le dé a la edificación.
+23.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
 
-Una vez concluidas las construcciones derivadas del uso de suelo a que se refiere el párrafo anterior, para el inicio de las operaciones se requerirá la autorización de la Secretaría General de Gobierno por conducto de la Agencia de Seguridad Estatal.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ### CAPITULO PRIMERO. Clasificación
 
@@ -6071,125 +6001,101 @@ Una vez concluidas las construcciones derivadas del uso de suelo a que se refier
 
 ###### Artículo 6.
 
-24.- Requieren autorización de la Secretaria General de Gobierno, las actividades que pudieran generar fenómenos perturbadores, quien la emitirá a través de la Agencia de Seguridad Estatal.
+24.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
 
-La reglamentación de este Libro establecerá las actividades que requieren autorización.
-
-###### Artículo 6.
-
-25.- Deberán inscribirse en el Registro Estatal de Protección Civil:
-
-I. Los programas de protección civil;
-
-II. Los grupos voluntarios y de ayuda mutua;
-
-III. Los análisis de vulnerabilidad y riesgo;
-
-IV. Las personas que se dediquen a prestar servicios de consultoría o capacitación en materia de protección civil.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 6.
 
-26.- El Gobernador del Estado expedirá una declaratoria de emergencia ante la inminencia o alta probabilidad de que ocurra un desastre que ponga en riesgo la vida humana, y solicitará al gobierno federal la expedición de una declaratoria de desastre, cuando uno o varios fenómenos perturbadores hayan causado daños severos a la población y la capacidad de respuesta del Estado se vea superada.
+25.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 6.
 
-27.- Las declaratorias de emergencia y de desastre deberán identificar el riesgo o desastre y la zona afectada, así como prever, según corresponda, las acciones de prevención, auxilio y recuperación a aplicarse.
+26.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 6.
 
-28.- Las declaratorias previstas en este Título deberán ser publicadas en la Gaceta del Gobierno, sin perjuicio de que se difundan a través de los medios de comunicación masiva. Las declaratorias podrán publicarse en la Gaceta del Gobierno con posterioridad a las acciones de protección civil.
+27.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 6.
 
-29.- La Secretaría General de Gobierno, a través de la Agencia de Seguridad Estatal, organizará y desarrollará el sistema estatal de información de protección civil, con el objeto de obtener, generar y procesar la información necesaria para la planeación y evaluación de las actividades en materia de protección civil, a fin de integrar el Registro Estatal de Protección Civil.
+28.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
 
-Las dependencias y organismos de la administración pública estatal y municipal, así como los grupos voluntarios, deberán proporcionar a la Secretaría General de Gobierno, por conducto de la Agencia de Seguridad Estatal, los informes a que se refiere el párrafo anterior.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
+
+###### Artículo 6.
+
+29.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ## TITULO CUARTO. De los simulacros y señalizaciones
 
-###### Artículo 6.
-
-30.- La Secretaría General de Gobierno a través de la Agencia de Seguridad Estatal, establecerá el Registro Estatal de Protección Civil, quien verificará y vigilará su correcto funcionamiento, en el que se inscribirá de manera sistematizada la información que refiere el artículo anterior.
-
-El Registro será público, no tendrá efectos constitutivos, ni surtirá efectos contra terceros.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 6.
 
-31.- Corresponde a la Secretaría General de Gobierno, a través de la Agencia de Seguridad Estatal, el ejercicio de las atribuciones de vigilancia y aplicación de medidas de seguridad y sanciones, tratándose de generadores de mediano y alto riesgo, quien lo ejecutará por conducto de la Dirección General de Protección Civil. A los municipios competerán los de bajo riesgo.
+30.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 6.
 
-32.- En caso de riesgo inminente, sin perjuicio de la declaratoria de emergencia, la Secretaría General de Gobierno, a través de la Agencia de Seguridad Estatal, la Dirección General de Protección Civil; y los municipios, dictarán de inmediato las medidas de seguridad conducentes a efecto de proteger la vida de la población y sus bienes, la planta productiva y el ambiente, así como para garantizar el funcionamiento de los servicios esenciales de la comunidad. El Comisionado deberá informar al Secretario General de Gobierno las medidas de seguridad que fueron aplicadas.
+31.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
+
+###### Artículo 6.
+
+32.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ## TITULO QUINTO. De las autorizaciones, registros y dictámenes
 
-> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 6.
 
-33.- Son medidas de seguridad:
+33.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
 
-I. La evacuación;
-
-II. La suspensión de actividades;
-
-III. La clausura temporal, parcial o total;
-
-IV. La desocupación de predios, casas, edificios o establecimientos;
-
-V. El aseguramiento y destrucción de objetos, productos o sustancias;
-
-VI. El aislamiento de áreas afectadas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ## TITULO SEXTO. De las declaratorias de emergencia y desastre
 
-###### Artículo 6.
-
-34.- Cuando se aplique alguna o algunas de las medidas de seguridad, se indicará su temporalidad y, en su caso, las acciones que se deben llevar a cabo para ordenar el retiro de las mismas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 6.
 
-35.- Las infracciones a las disposiciones de este libro y su reglamentación serán sancionadas por la Secretaría General de Gobierno, a través de la Agencia de Seguridad Estatal, por conducto de la Dirección General de Protección Civil y los municipios, en su caso, con:
+34.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
 
-I. Amonestación con apercibimiento;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. Multa;
-
-III. Clausura temporal o definitiva, parcial o total;
-
-IV. Revocación de los registros a que se refiere este Libro;
-
-V. Demolición de una obra o instalación.
-
-Se podrá imponer una o más sanciones de las previstas en este artículo por una misma infracción, atendiendo a la gravedad de la misma.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 6.
 
-36.- Serán sancionadas con multa las infracciones siguientes:
+35.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
 
-> <small>(REFORMADA PRIMER PÁRRAFO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-I. De mil a tres mil días de salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, a quien:
+###### Artículo 6.
 
-a) No cuente con registro de la Secretaría General de Gobierno, estando obligado a obtenerlo;
-
-b) No cumpla con la calendarización de acciones establecidas en su programa específico de protección civil.
-
-> <small>(REFORMADA PRIMER PÁRRAFO, G.G. 31 DE DICIEMBRE DE 2007)</small>
-
-II. De tres mil uno a cuatro mil días de salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, a quien:
-
-a) No cuente con dictamen de viabilidad;
-
-b) Haya iniciado operaciones sin la autorización correspondiente;
-
-c) No permita el acceso al personal designado para realizar verificaciones en inmuebles, instalaciones y equipos.
-
-> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
-
-III. De cuatro mil uno a cinco mil días de salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, a quien de manera dolosa o culposa ponga en riesgo a las personas o a la población en general.
+36.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
 
 > <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 278, PUBLICADO EN LA G.G. DE 31 DE MARZO DE 2011, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE LIBRO.</small>
 
@@ -6197,9 +6103,13 @@ III. De cuatro mil uno a cinco mil días de salario mínimo general vigente del 
 
 ## TITULO SEPTIMO. Del sistema estatal de información de protección civil y registro estatal de protección civil
 
-> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ## TITULO OCTAVO. De la vigilancia
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
 ## TITULO PRIMERO. Disposiciones generales
 
@@ -7131,6 +7041,8 @@ La Secretaría de Transporte elaborará y comunicará a los permisionarios, los 
 
 ### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
+> <small>(REFORMADO, G.G. 31 DE AGOSTO DE 2012)</small>
+
 #### SECCION PRIMERA. Consideraciones Generales
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
@@ -7495,11 +7407,9 @@ V. Omitir tener contratada y vigente la póliza de seguro de responsabilidad civ
 
 ###### Artículo 8.
 
-3.- Son autoridades para la aplicación de este Libro la Secretaría General de Gobierno y los municipios.
+3.- Son autoridades para la aplicación de este Libro la Secretaría de Seguridad Ciudadana y los municipios.
 
-> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
-
-Corresponde a la Secretaría General de Gobierno por conducto de la Agencia de Seguridad Estatal, ejercer las atribuciones relativas al tránsito en la infraestructura vial primaria y a los municipios en la infraestructura vial local. Asimismo, compete a los municipios el ejercicio de las atribuciones en materia de estacionamientos de servicio al público.
+Corresponde a la Secretaría de Seguridad Ciudadana, ejercer las atribuciones relativas al tránsito en la infraestructura vial primaria y a los municipios en la infraestructura vial local. Asimismo, compete a los municipios el ejercicio de las atribuciones en materia de estacionamientos de servicio al público.
 
 ## TITULO TERCERO. De los estacionamientos de servicio al público
 
@@ -7545,11 +7455,11 @@ IV. Las tarifas autorizadas por la autoridad competente, que por concepto de tra
 
 9.- Los lugares para el estacionamiento de vehículos en las vías locales serán fijados por las autoridades de tránsito municipal, cuidando en todo momento que no se interrumpa el flujo vehicular.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 31 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 8.
 
-10.- Son facultades de la Secretaría General de Gobierno a través de la Agencia de Seguridad Estatal y los municipios:
+10.- Son facultades de la Secretaría de Seguridad Ciudadana y de los municipios:
 
 I. Promover la aplicación de programas de educación vial para peatones, conductores y pasajeros;
 
@@ -7699,15 +7609,33 @@ II. En materia de estacionamientos, la multa se calculará multiplicando el núm
 
 I. Ordenar el retiro de la vía pública de vehículos, objetos, personas o animales que obstaculicen o pongan en peligro el tránsito, remitiéndolos a los depósitos correspondientes y presentando a las personas ante las autoridades competentes en caso de delito o falta grave;
 
-II. (DEROGADA, G.G. 24 DE AGOSTO DE 2012)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 31 DE AGOSTO DE 2012)</small>
+
+II. Retener la tarjeta de circulación, la licencia del conductor o la placa delantera de matriculación del vehículo, únicamente en los siguientes supuestos:
+
+a) De los vehículos matriculados fuera del Estado de México, cuando no sea posible realizar el pago inmediato.
+
+b) Por infracciones cometidas en contravención con las disposiciones en materia de equilibrio ecológico, protección al ambiente y para la prevención y control de la contaminación, exigida en la verificación obligatoria, en términos de la legislación aplicable.
+
+c) Los vehículos que transporten carga perecedera.
+
+d) Cuando lo establezcan las disposiciones reglamentarias, por lo que respecta al servicio de transporte público.
 
 > <small>(REFORMADA, G.G. 24 DE AGOSTO DE 2012)</small>
 
 III. Detener la marcha de cualquier vehículo cuando el conductor esté cometiendo alguna infracción a las disposiciones en materia de tránsito, procediendo a entregar el documento que emita el Sistema a que se refieren los reglamentos respectivos.
 
+> <small>(ADICIONADA, G.G. 31 DE AGOSTO DE 2012)</small>
+
+IV. Imponer la infracción correspondiente, que deberá registrarse en la base de datos única, a cargo de la Secretaría de Seguridad Ciudadana.
+
+> <small>(ADICIONADO, G.G. 31 DE AGOSTO DE 2012)</small>
+
+Para garantizar el pago de las sanciones con motivo de las infracciones, las autoridades o concesionarios facultados con los trámites administrativos relacionados con el vehículo, tales como la verificación, licencia, cambio de propietario, emplacamiento, proveerán lo necesario para negar la realización del trámite de que se trate, en tanto no se cubra el pago de dicha sanción o sanciones.
+
 Los agentes de tránsito del Estado y los municipios están facultados para ejercer las atribuciones a que se refiere este artículo.
 
-> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO, G.G. 31 DE AGOSTO DE 2012)</small>
 
 ### CAPITULO QUINTO. De los apoyos y estímulos
 
@@ -7715,33 +7643,43 @@ Los agentes de tránsito del Estado y los municipios están facultados para ejer
 
 19 Bis.- Las autoridades de tránsito contarán con agentes de:
 
-a) Tránsito: serán aquellos facultados para imponer las sanciones a que se refiere este Libro y los reglamentos respectivos.
+I. Tránsito: serán mujeres facultadas para imponer las sanciones a que se refiere este Libro y las disposiciones reglamentarias respectivas, quienes también se someterán a las disposiciones de control de confianza, en términos de las disposiciones aplicables; contarán con la terminal electrónica y se distinguirán por los uniformes y vehículos color negro y vivos naranja;
 
-b) Vialidad: serán aquellos responsables de vigilar que los conductores de vehículos automotores cumplan con las obligaciones establecidas en este Libro y en los reglamentos respectivos.
+II. Vialidad: serán aquellos responsables de vigilar que en el tránsito de vehículos automotores, los conductores cumplan con las obligaciones establecidas en este Libro y en los reglamentos respectivos.
 
 ###### Artículo 8.
 
 20.- Sólo procederá la retención de vehículos y su remisión inmediata al depósito más cercano, en los casos siguientes:
 
-I. Cuando al cometer una infracción, su conductor carezca de licencia o permiso para manejar, y el vehículo no tenga tarjeta de circulación o el documento que justifique la falta de los documentos;
+I. (DEROGADA, G.G. 31 DE AGOSTO DE 2012)
 
 II. Cuando al vehículo le falten ambas placas de matriculación o el documento que justifique la falta de placas;
 
 III. Cuando las placas de matriculación del vehículo no coincidan en números y letras con la calcomanía o la tarjeta de circulación;
 
-IV. (DEROGADA, G.G. 24 DE AGOSTO DE 2012)
+IV. (DEROGADA [N. DE E. REPUBLICADA], G.G. 31 DE AGOSTO DE 2012)
 
 V. Por encontrarse el conductor en estado de ebriedad o bajo el influjo de drogas enervantes o psicotrópicos;
 
 VI. Por participar en un accidente de tránsito en el que se produzcan hechos que pudiesen configurar delito;
 
-VII. Por interferir, obstaculizar o impedir deliberadamente la circulación de vehículos en la infraestructura vial;
+VII. (DEROGADA, G.G. 31 DE AGOSTO DE 2012)
 
-VIII. Cuando lo establezcan otras disposiciones legales.
+> <small>(REFORMADA, G.G. 31 DE AGOSTO DE 2012)</small>
 
-> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
+VIII. Cuando lo establezcan las disposiciones reglamentarias, tratándose del servicio público de transporte;
 
-En los casos a que se refiere este artículo, salvo tratándose de la fracciones V y VI, el conductor tiene el derecho de conducir su vehículo hasta el depósito más cercano que la autoridad le indique y sólo en caso de negativa o de abandono de la unidad, el traslado podrá efectuarse por medio del servicio autorizado de arrastre.
+> <small>(ADICIONADA, G.G. 31 DE AGOSTO DE 2012)</small>
+
+IX. Cuando lo establezcan otras disposiciones legales.
+
+> <small>(REFORMADO, G.G. 31 DE AGOSTO DE 2012)</small>
+
+En los casos a que se refiere este artículo, con excepción de las fracciones V y VI, el conductor tiene el derecho de conducir su vehículo hasta el depósito más cercano que la autoridad le indique y sólo en caso de negativa o de abandono de la unidad, el traslado podrá efectuarse por medio del servicio autorizado de arrastre.
+
+> <small>(ADICIONADO, G.G. 31 DE AGOSTO DE 2012)</small>
+
+Cuando estando obligado a ello, el vehículo carezca de la constancia que acredite emisión de contaminantes dentro de los límites permitidos o cuando circule en días no permitidos se le retirará la placa delantera y suscribirá una carta compromiso en la que se obliga a guardar el vehículo de manera inmediata y en su caso a verificarlo.
 
 ###### Artículo 8.
 
@@ -7971,7 +7909,7 @@ Los ingresos del Instituto, así como los productos e instrumentos financieros a
 
 ### CAPITULO PRIMERO. Del objeto y finalidad
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 9.
 
@@ -8009,7 +7947,7 @@ VII. Considerar a quienes no puedan por sí mismos llevar a cabo las inversiones
 
 ### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 9.
 
@@ -8033,6 +7971,8 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 ### CAPITULO TERCERO. Del Sistema para el Desarrollo Integral de la Familia del Estado de México
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 # LIBRO DECIMO. Del fomento económico
 
 > <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
@@ -8043,7 +7983,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 ### CAPITULO CUARTO. Del Consejo Estatal para la Protección de las Personas con Discapacidad y su Integración al Desarrollo Social
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 10.
 
@@ -8057,7 +7997,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 ### CAPÍTULO PRIMERO. Disposiciones generales
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 10.
 
@@ -8074,6 +8014,8 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 > <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
 ### CAPITULO SEGUNDO. De la atención médica
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 #### SECCION QUINTA. De la adjudicación directa
 
@@ -8107,6 +8049,8 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 ### CAPITULO TERCERO. De la educación regular y especial
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### Artículo 10.
 
 10.- (DEROGADO, G.G. 7 DE SEPTIEMBRE DE 2010)
@@ -8122,6 +8066,8 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
 ### CAPITULO CUARTO. De la orientación y rehabilitación para el trabajo
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 10.
 
@@ -8139,7 +8085,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 ### CAPITULO QUINTO. Del tránsito y transporte
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 10.
 
@@ -8157,7 +8103,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 ### CAPITULO SEXTO. De las facilidades urbanísticas y arquitectónicas
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 10.
 
@@ -8203,117 +8149,95 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 ## TITULO PRIMERO. Disposiciones generales
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 10.
 
 27.- (DEROGADO, G.G. 7 DE SEPTIEMBRE DE 2010)
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE LIBRO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON LOS TÍTULOS, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
 # LIBRO DECIMO PRIMERO. De la protección e integración al desarrollo de las personas con discapacidad
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
+
 ## TITULO SEGUNDO. De la prestación de los servicios a personas con discapacidad
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
 ### CAPITULO SEPTIMO. De las actividades deportivas, recreativas y culturales
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 11.
 
-1.- Este Libro tiene por objeto regular los servicios y las acciones a cargo del Estado en favor de las personas con discapacidad.
+1.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
 
-Para los efectos de este Libro, las personas con discapacidad son aquellas que presentan una deficiencia física, mental o sensorial, ya sea de naturaleza permanente o temporal, que limita la capacidad de ejercer una o más actividades esenciales de la vida diaria, que puede ser causada o agravada por el entorno económico y social.
-
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 11.
 
-2.- Las disposiciones de este Libro tienen como finalidad procurar el desarrollo personal y la integración plena a la sociedad de las personas con discapacidad.
+2.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 11.
 
-3.- Los servicios que presten las instituciones para la rehabilitación de personas con discapacidad, aún cuando se denominen, ostenten o constituyan bajo otra modalidad, se sujetarán a las disposiciones previstas en la Ley General de Salud y este Libro.
+3.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
 ### CAPITULO OCTAVO. De la atención integral a las personas con discapacidad
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 11.
 
-4.- Las Secretarías General de Gobierno, a través de la Agencia de Seguridad Estatal, de Salud, del Trabajo, de Educación, de Desarrollo Urbano, del Agua y Obra Pública, de Comunicaciones y de Transporte, el Instituto de Salud del Estado de México, así como las autoridades de Tránsito y Desarrollo Urbano Municipales, en el ámbito de su respectiva competencia, tendrán atribuciones para lograr la integración a la sociedad de las personas con discapacidad, de conformidad con lo establecido en este Libro.
+4.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-###### Artículo 11.
-
-5.- Corresponde al Sistema para el Desarrollo Integral de la Familia del Estado de México normar y coordinar las actividades relativas a la prevención de la discapacidad y la rehabilitación e integración social de las personas con discapacidad.
-
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 11.
 
-6.- El Gobierno del Estado de México procurará que se elimine toda barrera física, social, cultural y económica que implique discriminación en contra de las personas con discapacidad, con el objeto de garantizar su derecho a la igualdad de oportunidades.
+5.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 11.
 
-7.- Las disposiciones de este Libro se aplicarán sin perjuicio de lo previsto en las Leyes Generales de Salud y de Educación, los Libros Segundo, Tercero, Quinto y Séptimo, así como la legislación en materia de asistencia social y privada.
+6.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+###### Artículo 11.
+
+7.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
 ### CAPITULO NOVENO. De la atención y orientación a familiares de las personas con discapacidad o terceros
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 11.
 
-8.- El Sistema para el Desarrollo Integral de la Familia del Estado de México tendrá las atribuciones siguientes:
+8.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
 
-> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-I. Elaborar y mantener actualizado el registro de las personas con discapacidad que soliciten los servicios de rehabilitación e integración social;
-
-> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-II. Detectar los principales problemas que afectan a las personas con discapacidad, así como elaborar y aplicar propuestas de atención, induciendo la participación de los organismos públicos y privados de salud de la entidad;
-
-> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-III. Establecer políticas e impulsar las acciones necesarias para dar cumplimiento a los programas estatales y municipales que tengan como objetivo la incorporación plena a la sociedad de las personas con discapacidad;
-
-> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-IV. Realizar programas que fomenten la autonomía y la integración social de las personas con discapacidad;
-
-> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-V. Proporcionar atención médica especializada en materia de rehabilitación y canalizar a las personas con discapacidad, cuando así lo requieran, a los institutos nacionales donde puedan recibir atención de alto nivel;
-
-> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-VI. Llevar a cabo acciones en materia de prevención de discapacidades y de rehabilitación de personas con discapacidad, en centros no hospitalarios;
-
-VII. Formar, capacitar y actualizar recursos humanos para el trato adecuado de los diferentes tipos de discapacidad que aquejan a la población;
-
-> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-VIII. Intervenir ante las instituciones gubernamentales o de asistencia privada, con el objeto de conseguir financiamiento para la adquisición de aparatos o equipos que requieran las personas con discapacidad;
-
-> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-IX. Promover, entre las instituciones de educación superior y de investigación científica y tecnológica, la inclusión en sus líneas de investigación, el desarrollo de dispositivos, prótesis, herramientas, accesorios y equipos que propicien la autosuficiencia de las personas con discapacidad;
-
-X. Informar, a través de los medios de comunicación masiva, sobre las características de la discapacidad, la identificación temprana y la atención oportuna de los factores que la causan;
-
-> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-XI. Proporcionar apoyo y orientación a los familiares de las personas con discapacidad para que les ofrezcan mayor cuidado y atención, así como organizar a terceras personas que apoyen su incorporación a la sociedad;
-
-> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-XII. Promover los derechos de las personas con discapacidad, así como las disposiciones legales que les protegen;
-
-XIII. Proporcionar orientación y asistencia jurídica en juicios de interdicción y en acciones legales, con particular atención de las personas con discapacidad mental.
-
-> <small>(REFORMADA SU DENOMINACION, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
 ### CAPITULO PRIMERO. Disposiciones generales
 
@@ -8321,37 +8245,27 @@ XIII. Proporcionar orientación y asistencia jurídica en juicios de interdicci�
 
 ###### Artículo 11.
 
-9.- El Consejo Estatal para la Protección de las Personas con Discapacidad y su Integración al Desarrollo Social tendrá a su cargo las funciones de gestión, coordinación y promoción de programas que faciliten la incorporación a la sociedad de las personas con discapacidad en condiciones de igualdad.
+9.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
 
-El Gobernador del Estado presidirá el Consejo, su integración se hará a propuesta del Ejecutivo, y su funcionamiento se regirá por su reglamento interno.
-
-###### Artículo 11.
-
-10.- Corresponde al Consejo:
-
-> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-I. Organizar y evaluar la prestación de los servicios de atención a personas con discapacidad;
-
-II. Promover acciones de prevención de la discapacidad en la población en general a través de las dependencias y organismos auxiliares de la administración pública estatal;
-
-> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-III. Promover la integración educativa, laboral, recreativa, cultural y deportiva de las personas con discapacidad.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 11.
 
-11.- En cada municipio se creará un consejo para la protección de las personas con discapacidad y su integración al desarrollo social, que se coordinará con el Consejo Estatal para la Protección de las Personas con Discapacidad y su Integración al Desarrollo Social.
+10.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
 
-Los ayuntamientos determinarán la estructura y funcionamiento de sus respectivos consejos municipales.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+###### Artículo 11.
+
+11.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
 ## TITULO TERCERO. De los derechos y obligaciones de los usuarios y participación de la comunidad
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ### CAPITULO SEGUNDO. De la planeación, programación y presupuestación
 
@@ -8359,41 +8273,17 @@ Los ayuntamientos determinarán la estructura y funcionamiento de sus respectivo
 
 ###### Artículo 11.
 
-12.- La prestación de servicios a las personas con discapacidad comprenderá:
+12.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
 
-I. Atención médica;
-
-II. Educación regular y especial;
-
-III. Orientación y rehabilitación para el trabajo;
-
-IV. Acciones en materia de transporte y tránsito;
-
-V. Facilidades urbanísticas y arquitectónicas;
-
-VI. Actividades deportivas, recreativas y culturales;
-
-> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-VII. Atención integral a personas con discapacidad;
-
-> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-VIII. Atención y orientación a la familia o a terceros que tengan a su cargo personas con discapacidad.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 11.
 
-13.- A efecto de valorar la discapacidad, el Sistema para el Desarrollo Integral de la Familia del Estado de México, establecerá una o varias comisiones de valoración, integradas por profesionales de las ramas de medicina, psicología, trabajo social y educación, procurando incluir a personas con discapacidad que reúnan, en igualdad de circunstancias, los requisitos para el ejercicio de las profesiones señaladas.
+13.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
 
-Será función de las comisiones de valoración, la calificación de la presunta discapacidad, determinando el tipo y grado de los beneficios y servicios que requieran los solicitantes, sin perjuicio del apoyo que corresponda efectuar a otros organismos públicos similares.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-De acuerdo con el resultado del diagnóstico que hayan emitido la o las comisiones de valoración, la persona con discapacidad recibirá los servicios a que se refiere el presente Libro que le permitan integrarse al trabajo, la educación, la cultura y el deporte.
-
-La calificación realizada por las comisiones de valoración responderá a criterios técnicos unificados y tendrá validez ante cualquier dependencia, organismo público o privado del Estado.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
 ### CAPITULO TERCERO. De los procedimientos de adjudicación
 
@@ -8401,61 +8291,35 @@ La calificación realizada por las comisiones de valoración responderá a crite
 
 ###### Artículo 11.
 
-14.- Los servicios de atención médica deberán prestarse inmediatamente después de la detección o diagnóstico de cualquier anomalía o deficiencia.
+14.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-###### Artículo 11.
-
-15.- Las acciones de rehabilitación de las personas con discapacidad comprenderán:
-
-I. Rehabilitación médico-funcional;
-
-II. Orientación y tratamiento psicológico;
-
-> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-III. Atención integral de las personas con discapacidad, incluyendo la adaptación de prótesis, órtesis y ayudas funcionales que requieran;
-
-IV. Rehabilitación socio-económica y laboral;
-
-V. Apoyo para obtener financiamiento en la adquisición de dispositivos, prótesis, herramientas, accesorios y equipos para su autosuficiencia;
-
-> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-VI. Facilitar la adquisición de dispositivos, prótesis, herramientas, accesorios y equipos para personas con discapacidad, concediendo descuentos, previo estudio socioeconómico, a aquellos que lo necesiten.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 11.
 
-16.- Para fomentar el desarrollo de programas públicos de atención médica a personas con discapacidad, el Sistema Estatal de Desarrollo Integral de la Familia del Estado de México, en coordinación con el Consejo Estatal para la Protección de las Personas con Discapacidad y su Integración al Desarrollo Social, y las dependencias y organismos auxiliares estatales del sector salud, promoverá la canalización de recursos y apoyo técnico para investigación, prevención, curación y rehabilitación de personas con discapacidad.
+15.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-El Ejecutivo del Estado podrá aprobar programas de becas para la atención de personas con discapacidad, en especial para niños mexiquenses, con el objeto de que tengan acceso a recursos que se destinen a cubrir los gastos para su rehabilitación e incorporación a la sociedad.
-
-> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2002)</small>
-
-Para la ejecución de los programas, el Ejecutivo del Estado designará las dependencias u organismos auxiliares de la administración pública estatal que deban coordinarse con los sectores público, social y privado.
-
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 11.
 
-17.- La Secretaría de Salud emitirá el cuadro básico que agrupará, caracterizará y codificará los insumos para la atención de las personas con discapacidad, al que deberán ajustarse las dependencias e instituciones que presten servicios de salud a estas personas.
+16.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 11.
 
-18.- Los integrantes del sistema estatal de salud contribuirán al logro de los objetivos siguientes:
+17.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
 
-> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-I. Procurar la extensión cuantitativa y cualitativa de los servicios de atención a personas con discapacidad, preferentemente en las regiones menos desarrolladas y entre los grupos más vulnerables;
+###### Artículo 11.
 
-> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+18.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
 
-II. Establecer y llevar a cabo conjuntamente programas interinstitucionales que aseguren la atención integral de la población con discapacidad.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
 ### CAPITULO CUARTO. De la contratación
 
@@ -8463,51 +8327,47 @@ II. Establecer y llevar a cabo conjuntamente programas interinstitucionales que 
 
 ###### Artículo 11.
 
-19.- Las guarderías, jardines de niños y escuelas de educación básica regular, promoverán actividades de detección de discapacidad y los casos que detecten los harán del conocimiento de los padres o tutores para su atención.
+19.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-###### Artículo 11.
-
-20.- La educación especial para los alumnos con discapacidad con posibilidades de integración, se impartirá mediante programas de apoyo en las instituciones públicas o privadas del sistema educativo estatal y de acuerdo con las condiciones que afecten a cada alumno, debiéndose iniciar tan pronto como lo requiera cada caso. Asimismo, se establecerán programas para el otorgamiento de becas económicas en los que se consideren, primordialmente, factores socioeconómicos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 11.
 
-21.- La educación especial tendrá los objetivos siguientes:
+20.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
 
-I. Superar las deficiencias y sus consecuencias o secuelas en los individuos;
-
-> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-II. Desarrollar habilidades, aptitudes y conocimientos que permitan a la persona con discapacidad la mayor autonomía posible;
-
-> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-III. Fomentar las potencialidades de la persona con discapacidad que favorezcan el desarrollo armónico de su personalidad;
-
-> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-IV. Lograr la incorporación de la persona con discapacidad a la vida social y a un sistema de trabajo que le permita autorealizarse, servirse a sí misma y a la sociedad.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 11.
 
-22.- Cuando la severidad de la discapacidad lo haga imprescindible, la educación se llevará a cabo en centros especiales de educación que funcionarán en coordinación con los centros ordinarios.
+21.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 11.
 
-23.- Las guarderías, jardines de niños, escuelas, institutos y, en general, aquellos establecimientos, cualquiera que sea su denominación o régimen jurídico, en que se lleven a cabo actividades de educación especial y rehabilitación de discapacidades somáticas o psicológicas, se sujetarán a las normas técnicas estatales que para tal efecto establezca la Secretaría de Educación, Cultura y Bienestar Social.
+22.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-###### Artículo 11.
-
-24.- Las instituciones educativas públicas o privadas de todos los niveles, deben ofrecer facilidades administrativas para el libre ingreso de personas con discapacidad.
-
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 11.
 
-25.- Los hijos de trabajadores con discapacidad gozarán de servicio gratuito de guardería, para ello, las instituciones educativas y sanitarias estatales promoverán la prestación del servicio hasta satisfacer la demanda.
+23.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+###### Artículo 11.
+
+24.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+###### Artículo 11.
+
+25.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
 ### CAPITULO QUINTO. De la ejecución
 
@@ -8515,49 +8375,29 @@ IV. Lograr la incorporación de la persona con discapacidad a la vida social y a
 
 ###### Artículo 11.
 
-26.- La orientación y rehabilitación para el trabajo comprenderá, entre otras, las prestaciones siguientes:
+26.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
 
-I. Los tratamientos de rehabilitación médico-funcional específicos para el desempeño de la función laboral;
-
-II. La orientación laboral;
-
-III. La formación, readaptación y reeducación laboral;
-
-IV. La colocación de acuerdo a la aptitud y actitud ante el trabajo;
-
-> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-V. El seguimiento y evaluación del proceso de recuperación, desde el punto de vista físico, psicológico y laboral de la persona con discapacidad;
-
-> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-VI. Gestionar prerrogativas fiscales para las personas con discapacidad y beneficios de esta índole, para los patrones que los empleen y eliminen barreras arquitectónicas que dificulten la movilidad de los trabajadores con discapacidad en los centros de trabajo.
-
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 11.
 
-27.- En la orientación laboral se tomarán en cuenta las potencialidades de la persona con discapacidad, educación escolar, capacitación laboral o profesional adquirida, las perspectivas de empleo existentes para cada caso y se atenderán sus motivaciones y preferencias vocacionales.
+27.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-###### Artículo 11.
-
-28.- Se promoverá la integración de los trabajadores con discapacidad al sistema ordinario de trabajo y, en su caso, se les incorporará al sistema productivo donde puedan desempeñar trabajos acordes a sus capacidades, asesorando a quienes deseen establecerse como trabajadores autónomos en microempresas.
-
-La integración al empleo de los trabajadores con discapacidad requerirá de acciones previas de capacitación y rehabilitación profesional.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 11.
 
-29.- Para efectos de este Capítulo, la Secretaría del Trabajo y de la Previsión Social tendrá las atribuciones siguientes:
+28.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
 
-> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-I. Establecer programas de promoción del empleo de las personas con discapacidad, creando una bolsa de trabajo en la que se concentren listas de aspirantes con sus aptitudes y capacidades;
+###### Artículo 11.
 
-> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+29.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
 
-II. Gestionar el apoyo de los sectores público e industrial para colocar a las personas con discapacidad en puestos vacantes, así como para que las autoridades competentes otorguen a los solicitantes con discapacidad permisos y licencias de funcionamiento comercial en la infraestructura vial y en locales de mercados públicos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
 ### CAPITULO SEXTO. De la administración directa
 
@@ -8565,55 +8405,29 @@ II. Gestionar el apoyo de los sectores público e industrial para colocar a las 
 
 ###### Artículo 11.
 
-30.- Las personas con discapacidad tendrán las prerrogativas siguientes:
+30.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
 
-> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-I. Las terminales y rutas de transporte público deberán contar con zonas reservadas en la infraestructura vial, debidamente señalizadas, para el ascenso y descenso exclusivo de personas con discapacidad;
-
-II. El uso de asientos exclusivos en los diversos medios de transporte público que determine la autoridad competente;
-
-> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-III. Estacionarse en zonas de estacionamiento restringido y ocupar los espacios de uso exclusivo en los estacionamientos de servicio al público que sean destinados para personas con discapacidad, los que deberán estar diseñados y señalizados de acuerdo a requerimientos específicos.
-
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-Los concesionarios del servicio de transporte de pasajeros están obligados a prestar el servicio a las personas con discapacidad sin discriminación alguna.
-
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 11.
 
-31.- Para el cumplimiento de la fracción III del artículo anterior, la Secretaría General de Gobierno, a través de la Agencia de Seguridad Estatal, otorgará gratuitamente calcomanías distintivas que deberán fijarse en el parabrisas y medallón de los vehículos en que viajen personas con discapacidad; y llevará un registro y control de las que otorgue.
+31.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 11.
 
-32.- Las autoridades de tránsito estatales y municipales tendrán las obligaciones siguientes:
+32.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
 
-> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-I. Permitir el estacionamiento de vehículos particulares en los que viajen personas con discapacidad y que cuenten con la calcomanía correspondiente en zonas de estacionamiento restringido, siempre y cuando no se afecte de manera sustancial el tránsito y sea por el menor tiempo posible;
-
-> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-II. Diseñar e instrumentar programas y campañas permanentes de educación vial y cortesía urbana, encaminados a inculcar respeto y amabilidad hacia las personas con discapacidad durante su tránsito por la vía, edificios y sitios públicos.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 11.
 
-33.- Los prestadores de servicio público de transporte deberán reservar, para ser utilizados por personas con discapacidad, dos asientos en vehículos de más de cuatro plazas y un asiento en vehículos menores, conforme a las normas siguientes:
+33.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
 
-I. Deberán estar situados cerca de la puerta o puertas de acceso de los vehículos y contarán con un emblema o leyenda que los identifique;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-II. Podrán ser utilizados por cualquier usuario, en tanto no sean requeridos por alguna persona con discapacidad.
-
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-Adicionalmente, deberán equipar el cinco por ciento de sus unidades con mecanismos que faciliten el acceso a personas con discapacidad y equipo de apoyo.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
 ### CAPITULO SEPTIMO. De la información, verificación y control
 
@@ -8621,29 +8435,17 @@ Adicionalmente, deberán equipar el cinco por ciento de sus unidades con mecanis
 
 ###### Artículo 11.
 
-34.- Las personas con discapacidad tendrán los derechos siguientes:
+34.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
 
-I. Libre acceso y facilidad de desplazamiento en los espacios laborales, comerciales, oficiales y recreativos, mediante construcciones que cuenten con las especificaciones arquitectónicas apropiadas;
-
-II. Disfrute de los servicios públicos en igualdad de circunstancias.
-
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-Para el cumplimiento de lo dispuesto en este artículo, las autoridades competentes incluirán en sus planes de desarrollo urbano o de centros de población, la prestación de facilidades urbanísticas y arquitectónicas para las personas con discapacidad y harán recomendaciones a organismos públicos y empresas privadas.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 11.
 
-35.- Se consideran barreras arquitectónicas todos aquellos obstáculos que dificultan, entorpecen o impiden el libre desplazamiento de las personas con discapacidad en los espacios públicos exteriores o interiores del sector público, social o privado.
+35.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Las barreras arquitectónicas que en la infraestructura vial deben ser eliminadas o readecuadas para brindar facilidad de desplazamiento a las personas con discapacidad son: banquetas, coladeras, estacionamientos, escaleras, rampas, teléfonos públicos y tensores para postes.
-
-> <small>(ADICIONADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
-
-La Agencia de Seguridad Estatal verificará la existencia de barreras arquitectónicas en la infraestructura vial primaria y propondrá ante las autoridades competentes su eliminación o readecuación, conforme a lo dispuesto en el párrafo anterior.
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
 ### CAPITULO OCTAVO. De los medios de defensa
 
@@ -8651,11 +8453,11 @@ La Agencia de Seguridad Estatal verificará la existencia de barreras arquitect�
 
 ###### Artículo 11.
 
-36.- Las personas con discapacidad tendrán libre acceso a las instalaciones públicas deportivas, culturales y recreativas de la entidad. Cuando la gravedad de la discapacidad de sectores significativos de la población lo justifique, el Gobierno del Estado proporcionará instalaciones especiales para la práctica del deporte y otras actividades culturales y recreativas.
+36.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
 
-El Gobierno del Estado, a través de la Secretaría de Educación, Cultura y Bienestar Social, y demás dependencias y organismos auxiliares competentes, apoyarán programas de promoción deportiva y desarrollo socio-cultural que permitan la integración de las personas con discapacidad.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
 ### CAPITULO PRIMERO. Parte general
 
@@ -8663,25 +8465,17 @@ El Gobierno del Estado, a través de la Secretaría de Educación, Cultura y Bie
 
 ###### Artículo 11.
 
-37.- La atención en materia de servicios para las personas con discapacidad se regirá por los criterios siguientes:
+37.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
 
-> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-I. Todas las personas con discapacidad tienen derecho a los servicios establecidos en el presente Libro;
-
-II. Los servicios podrán ser prestados tanto por las instituciones públicas como por instituciones o asociaciones privadas sin fines de lucro;
-
-> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-III. La prestación de los servicios procurará la permanencia de las personas con discapacidad en su entorno familiar.
-
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 11.
 
-38.- Además de las medidas específicas previstas en este Libro, el Sistema Estatal para el Desarrollo Integral de la Familia del Estado de México otorgará, previo estudio, servicios y prestaciones económicas a las personas con discapacidad que se encuentren en situación de necesidad extrema y carezcan de los recursos indispensables para hacer frente a contingencias resultantes de sus limitaciones físicas. La prestación económica cesará al momento de superarse la contingencia que le dio lugar.
+38.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
 ### CAPITULO SEGUNDO. De la planeación, programación y sistematización
 
@@ -8689,27 +8483,41 @@ III. La prestación de los servicios procurará la permanencia de las personas c
 
 ###### Artículo 11.
 
-39.- El Sistema para el Desarrollo Integral de la Familia del Estado de México coordinará un programa estatal para informar, capacitar y adiestrar a las familias y a los terceros, para aumentar su capacidad de estimular y atender el desarrollo de las personas con discapacidad, así como propiciar un entorno familiar adecuado a sus necesidades de rehabilitación con las instituciones del sector salud.
+39.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
 ## TITULO CUARTO. De los profesionales, técnicos y auxiliares para los servicios de salud y la educación
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 11.
 
-40.- El Sistema Estatal para el Desarrollo Integral de la Familia del Estado de México promoverá la participación de los medios de comunicación, las organizaciones sociales y privadas, y de atención a personas con discapacidad, así como de la comunidad en general en los programas de difusión para fomentar los hábitos de seguridad, higiene y educación para mejorar la calidad de vida de las personas con discapacidad.
+40.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 11.
 
-41.- Las autoridades sanitarias del Estado y las propias instituciones de salud, establecerán procedimientos de orientación y asesoría para las personas con discapacidad respecto al uso de los servicios que requieran, así como de las prestaciones a su alcance y las condiciones de acceso a las mismas.
+41.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
 ## TITULO QUINTO. De las sanciones
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### Artículo 11.
 
-42.- El Gobierno del Estado, a través de las Secretarías de Salud y de Educación, Cultura y Bienestar Social, del Sistema Estatal para el Desarrollo Integral de la Familia del Estado de México y de la Universidad Autónoma del Estado de México, impulsará y fomentará la formación, capacitación y actualización de los recursos humanos responsables de la atención de personas con discapacidad, de conformidad con los objetivos y prioridades del Sistema Estatal de Salud y los programas educativos.
+42.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
 ## TITULO PRIMERO. De la información e investigación geográfica, estadística y catastral
 
@@ -8717,25 +8525,7 @@ III. La prestación de los servicios procurará la permanencia de las personas c
 
 ###### Artículo 11.
 
-43.- Para los efectos del presente Libro, la autoridad competente aplicará, a petición de parte o de oficio, independientemente de lo preceptuado por otras disposiciones legales, las sanciones siguientes:
-
-> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-I. Multa equivalente de treinta veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, a quienes ocupen indebidamente los espacios: de estacionamiento preferencial, o bien obstruyan las rampas o accesos para personas con discapacidad y otros con el mismo fin;
-
-II. Multa equivalente de cincuenta a cien veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, a los prestadores del servicio público de transporte que nieguen u obstaculicen el uso del servicio, de acuerdo a lo dispuesto por el presente Libro;
-
-III. Multa equivalente de quinientas veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción a:
-
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-a) Los empresarios, administradores y organizadores de espectáculos públicos que omitan o ubiquen discriminatoriamente los espacios reservados, así como las facilidades de acceso para personas con discapacidad;
-
-b) Las empresas o constructoras de conjuntos urbanos que no brinden las facilidades arquitectónicas previstas por el presente Libro;
-
-c) Los propietarios de restaurantes y centros comerciales que no brinden las facilidades arquitectónicas previstas en este Libro.
-
-En caso de reincidencia, se podrá duplicar el monto de la multa y proceder a la clausura temporal o definitiva de acuerdo con la gravedad que determine la autoridad. En el caso del inciso a) de la fracción III, la clausura procederá en caso de incurrir el infractor en tres ocasiones en la misma falta.
+43.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
 
 > <small>(ADICIONADO CON LOS CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
@@ -16196,3 +15986,85 @@ G.G. 30 DE AGOSTO DE 2012.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 31 DE AGOSTO DE 2012.
+
+DECRETO NÚMERO 520 POR EL QUE SE REFORMAN LOS ARTÍCULOS 8.3, 8.10 EN SU PRIMER PÁRRAFO, LA FRACCIÓN II DEL ARTÍCULO 8. I 9, LA FRACCIÓN VIII Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 8.20. SE ADICIONAN LA FRACCIÓN IV Y UN SEGUNDO PÁRRAFO, RECORRIÉNDOSE EL ACTUAL PÁRRAFO SEGUNDO PARA SER TERCERO AL ARTÍCULO 8.19, EL ARTÍCULO 8.19 BIS, LA FRACCIÓN IX Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 8.20. SE DEROGAN LAS FRACCIONES I, IV Y VII DEL ARTÍCULO 8.20 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Dentro del plazo de sesenta días hábiles, contados a partir de la entrada en vigor del presente Decreto, las autoridades en materia de tránsito, dispondrán lo necesario para que los agentes de tránsito sean mujeres.
+
+CUARTO.- El Titular del Ejecutivo del Estado y los Ayuntamientos, proveerán en su esfera administrativa el cumplimiento del presente Decreto.
+
+QUINTO.- Dentro del plazo de sesenta días hábiles, contados a partir de la entrada en vigor del presente Decreto, las autoridades en materia de tránsito, deberán contar con las terminales electrónicas establecidas en el presente Decreto.
+
+SEXTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 31 DE AGOSTO DE 2012.
+
+DECRETO NÚMERO 523 POR EL QUE SE EXPIDE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, Y EN SU TRANSITORIO TERCERO SE DEROGA EL LIBRO DÉCIMO PRIMERO DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO Y TODAS AQUELLAS DISPOSICIONES QUE SE OPONGAN AL PRESENTE DECRETO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor a partir del primero de enero del año 2015.
+
+TERCERO.- Se deroga el Libro Décimo Primero del Código Administrativo del Estado de México y todas aquellas disposiciones que se opongan al presente Decreto.
+
+CUARTO.- El Titular del Ejecutivo Estatal, a través de la Secretaría de Finanzas, dispondrá los recursos financieros, materiales y humanos para el cumplimiento de esta Ley, así como para la instauración del Instituto.
+
+QUINTO.- El Gobernador del Estado deberá expedir la convocatoria para la integración del Consejo Consultivo en un plazo no mayor de sesenta días hábiles de la entrada en vigor de este ordenamiento.
+
+SEXTO.- La Junta de Gobierno deberá quedar constituida en un plazo no mayor a sesenta días hábiles a partir de la entrada en vigor de la Ley.
+
+SÉPTIMO.- El Reglamento Interno del Instituto, deberá formularse y aprobarse por la Junta de Gobierno en un plazo no mayor de noventa días.
+
+OCTAVO.- El Ejecutivo del Estado proveerá lo necesario para transcribir la presente Ley en escritura braille, remitiendo por lo menos un ejemplar de ésta a las organizaciones civiles de invidentes y a las bibliotecas públicas o a quien lo solicite.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTOS TRANSITORIOS, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE SEPTIEMBRE DE 2012 EN EL G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+G.G. 31 DE AGOSTO DE 2012.
+
+DECRETO NÚMERO 524 POR EL QUE SE EXPIDE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, Y EN SU TRANSITORIO TERCERO SE DEROGA EL LIBRO SEXTO DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese la presente Ley en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+La presente Ley entrará en vigor a los 30 días naturales siguientes al de la publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO TERCERO.
+
+Se deroga el Libro Sexto del Código Administrativo del Estado de México, expedido mediante Decreto número 41, publicado en el Periódico Oficial "Gaceta del Gobierno" en fecha 13 de Diciembre del 2001.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan las disposiciones legales y reglamentarias que se opongan a la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+El Ejecutivo del Estado, expedirá dentro de los 90 días hábiles siguientes a la entrada en vigor de la presente Ley, el Reglamento correspondiente para su aplicación e interpretación. En tanto eso sucede, se aplicará la disposición reglamentaria en vigor, que no sea contraria a lo previsto en esta Ley.
+
+###### ARTÍCULO SEXTO.
+
+Los Reglamentos, planes y programas a que se refiere la presente Ley, se realizarán y aprobarán en un plazo de seis meses contados (sic) partir de su entrada en vigor.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Consejo Estatal de Protección Civil y los Consejos Municipales correspondientes, serán restructurados conforme a las disposiciones legales aplicables, en un plazo de tres meses contados a partir de la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO OCTAVO.
+
+El Gobernador del Estado, deberá adecuar y emitir las reglas a que se refiere el artículo 75 del presente ordenamiento de acuerdo a la partida presupuestaria disponible.
+
+###### ARTÍCULO NOVENO.
+
+Los asuntos en la materia y la substanciación de los recursos pendientes, al inicio de la vigencia de la presente Ley, se sujetarán a las formas y procedimientos de los ordenamientos que les dio origen.
+
+###### ARTÍCULO DÉCIMO.
+
+Los permisos, autorizaciones o licencias concedidas hasta antes de la entrada en vigor de la presente Ley, continuarán vigentes en tanto no se opongan a las disposiciones de la misma, o a los convenios y acuerdos de coordinación institucional que celebre el Estado con la Federación y los Municipios.
