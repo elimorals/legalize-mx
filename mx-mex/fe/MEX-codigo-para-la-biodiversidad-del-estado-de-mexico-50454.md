@@ -4,7 +4,7 @@ identifier: "MEX-codigo-para-la-biodiversidad-del-estado-de-mexico-50454"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-05-03"
-last_updated: "2012-08-30"
+last_updated: "2012-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 337, PUBLICADO EN LA G.G. DE 1 DE SEPTIEMBRE DE 2011, CUANDO EN OTROS ORDENAMIENTOS LEGALES, SE HAGA REFERENCIA AL TÉRMINO PERSONAS CON CAPACIDADES DIFERENTES, SE ENTENDERÁ QUE CORRESPONDE AL TÉRMINO PERSONAS CON DISCAPACIDAD.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE AGOSTO DE 2012.
 
 Código publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 3 de mayo de 2006.
 
@@ -2631,7 +2631,9 @@ Lo dispuesto en el párrafo anterior, será aplicable en caso de infracciones qu
 
 VI. La reparación del daño y deterioro ambiental; y
 
-VII. El Impedir la circulación de vehículos remitiéndolos a los depósitos correspondientes.
+> <small>(REFORMADA, G.G. 31 DE AGOSTO DE 2012)</small>
+
+VII. El impedir la circulación de vehículos y el retiro de la placa delantera.
 
 ###### Articulo 2.
 
@@ -2735,7 +2737,9 @@ En ningún caso los responsables de la infracción que hubiera dado lugar a la i
 
 261. Para la imposición de las sanciones a que se refiere la Sección anterior se observarán las reglas siguientes:
 
-I. El apercibimiento, amonestación, remisión de vehículos a depósitos y el arresto administrativo serán aplicados por la Secretaría o la autoridad municipal pero nunca por ambos a la vez;
+> <small>(REFORMADA, G.G. 31 DE AGOSTO DE 2012)</small>
+
+l. El apercibimiento, amonestación y arresto administrativo, serán aplicados por la Secretaría o autoridad Municipal, pero nunca ambos a la vez;
 
 II. El apercibimiento, la amonestación constarán por escrito y se aplicarán preferentemente antes de cualquier tipo de sanción según la gravedad de la infracción cometida;
 
@@ -3019,9 +3023,9 @@ I. Clausura total y definitiva de la obra o actividad cuando ésta requiera auto
 
 II. Clausura temporal, total o parcial de la obra o actividad en caso de incumplimiento de los requisitos y condiciones establecidos en la autorización en materia de impacto ambiental hasta que los mismos se cumplan;
 
-> <small>(REFORMADA, G.G. 29 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, G.G. 31 DE AGOSTO DE 2012)</small>
 
-III. Retiro de la circulación y remisión de los vehículos respectivos a los depósitos autorizados durante veinticuatro horas en caso de incumplimiento a las limitaciones establecidas por las autoridades competentes para la circulación de vehículos automotores;
+III. Retiro de la circulación y retiro de la placa delantera;
 
 IV. Revocación de las autorizaciones otorgadas por la Secretaría competente de conformidad con el presente Código en caso de:
 
@@ -3089,9 +3093,11 @@ VII. Prescinda de la instalación de plataformas o puertos de muestreo en fuente
 
 VIII. Omita la instalación de sistemas o plantas de tratamiento de aguas residuales cuando se rebasen los límites permitidos de contaminantes.
 
+> <small>(REFORMADO, G.G. 31 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 2.
 
-287. Procede la retención o remisión a depósitos de vehículos automotores, a quienes no acaten lo establecido en los programas, mecanismos o disposiciones para disminuir la emisión de contaminantes, para lo cual se tendrán que coordinar con la autoridad estatal o municipal competente que realizan las funciones de vialidad y tránsito.
+287.- Procede el retiro de la placa delantera a quienes no acaten lo establecido en los programas, mecanismos o disposiciones para disminuir la emisión de contaminantes, para lo cual se tendrán que coordinar con la autoridad Estatal o Municipal competente que realizan las funciones de vialidad y tránsito.
 
 ###### Artículo 2.
 
@@ -7379,7 +7385,7 @@ OCTAVO. El segundo párrafo del artículo 2.307 se contemplará en el Presupuest
 
 NOVENO. El Estado en coordinación con las autoridades municipales según corresponda aplicarán lo dispuesto en este Código en aquellas materias cuya competencia no correspondía a dichos órdenes de gobierno antes de la entrada en vigor del presente Código hasta en tanto sean expedidos o modificados los ordenamientos señalados en el artículo quinto transitorio.
 
-DECIMO. Las licencias, permisos y autorizaciones otorgadas con anterioridad a la fecha de entrada en vigor de este Código seguirán vigentes, su prórroga e inspección se sujetarán a las disposiciones del presente Código.
+DECIMO. Las licencias, permisos y autorizaciones otorgadas con anterioridad a la fecha de entrada en vigor de este Código seguirán vigentes, su prorroga e inspección se sujetarán a las disposiciones del presente Código.
 
 DECIMO PRIMERO. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan al presente Código.
 
@@ -7494,3 +7500,17 @@ G.G. 30 DE AGOSTO DE 2012.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 31 DE AGOSTO DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Dentro del plazo de sesenta días hábiles, contados a partir de la entrada en vigor del presente Decreto, las autoridades en materia de tránsito, dispondrán lo necesario para que los agentes de tránsito sean mujeres.
+
+CUARTO.- El Titular del Ejecutivo del Estado y los Ayuntamientos, proveerán en su esfera administrativa el cumplimiento del presente Decreto.
+
+QUINTO.- Dentro del plazo de sesenta días hábiles, contados a partir de la entrada en vigor del presente Decreto, las autoridades en materia de tránsito, deberán contar con las terminales electrónicas establecidas en el presente Decreto.
+
+SEXTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
