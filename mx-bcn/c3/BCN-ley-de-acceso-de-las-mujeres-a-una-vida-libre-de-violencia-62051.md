@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6205
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-25"
-last_updated: "2008-06-25"
+last_updated: "2012-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el miércoles 25 de junio de 2008.
 
@@ -193,9 +193,21 @@ Ante fenómenos de violencia feminicida, el Gobierno del Estado y los Municipios
 
 Es compromiso del Estado velar por la erradicación de la violencia contra las mujeres, por lo que, si se recibiera una declaración de alerta de violencia de género, el Sistema Estatal sesionará inmediatamente para coordinar las acciones encaminadas a abatirla, y en su caso reparar el daño, considerando los lineamientos de la Ley General.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE AGOSTO DE 2012)</small>
+
+Conforme a lo dispuesto por la Ley General, las acciones encaminadas a reparar el daño consistirán en:
+
+I. La aplicación de justicia pronta, expedita e imparcial;
+
+II. Otorgar a las víctimas de violencia, servicios médicos, jurídicos y psicológicos;
+
+III. Implementar medidas tendientes a determinar la responsabilidad del Estado, y la posible comisión u omisión por parte de autoridades locales, que constituyan violaciones a los derechos humanos, así como el diseño, adecuación e instrumentación de políticas y acciones públicas, orientadas a solventar las acciones que dieron causa o contribuyeron a la problemática de violencia contra las mujeres.
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 20.
 
-La Alerta de Violencia de Género, a la que se refiere la Ley General, podrá solicitarse por los organismos de derechos humanos locales, los de la sociedad civil o los internacionales.
+La Alerta de Violencia de Género, a la que se refiere la Ley General, podrá solicitarse por los organismos de derechos humanos locales, nacional o internacionales, así como por los organismos de la sociedad civil, ya sea en forma directa a la Secretaría Ejecutiva del Sistema Nacional, o a través de la Secretaría Técnica del Sistema Estatal.
 
 ### CAPÍTULO IV. REFUGIOS PARA VICTIMAS
 
@@ -481,9 +493,13 @@ XII. Establecer los indicadores para la evaluación de la Administración Públi
 
 XIII. Promover una imagen de las mujeres, libre de prejuicios y estereotipos, así como la eliminación del lenguaje sexista y/o misógino;
 
-XIV. Impulsar la creación de refugios para víctimas directas e indirectas de cualquier modalidad de violencia, en especial la familiar, con los tipos que ésta implique, y
+XIV. Impulsar la creación de refugios para víctimas directas e indirectas de cualquier modalidad de violencia, en especial la familiar, con los tipos que ésta implique, y (sic)
 
 XV. Celebrar convenios de cooperación, coordinación y concertación con empresas, organizaciones patronales y sindicatos, para promover los derechos de las mujeres en los ámbitos público y privado.
+
+> <small>(ADICIONADA P.O. 31 DE AGOSTO DE 2012)</small>
+
+XVI.- Conforme a lo previsto por la Ley General, recibir y en su caso, dar seguimiento a las solicitudes de alerta de violencia de género.
 
 ###### Artículo 44.
 
@@ -598,3 +614,9 @@ JOSE FRANCISCO BLAKE MORA.
 SECRETARIO DE DESARROLLO SOCIAL
 
 CARLOS ARMANDO REYNOSO NUÑO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE AGOSTO DE 2012.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
