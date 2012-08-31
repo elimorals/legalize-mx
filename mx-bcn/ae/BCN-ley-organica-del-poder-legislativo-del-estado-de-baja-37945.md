@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-37945"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-25"
-last_updated: "2012-06-01"
+last_updated: "2012-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2012.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 25 de junio de 2002.
 
@@ -827,9 +827,13 @@ Las Comisiones de dictamen legislativo son:
 
 12. Reforma del Estado, Primera;
 
-13. Salud; y
+13. Salud; y (sic)
 
-14. Seguridad Publica.
+14. Seguridad Publica;
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2012)</small>
+
+15. Equidad y Género.
 
 Las comisiones de dictamen legislativo tienen las atribuciones siguientes:
 
@@ -918,6 +922,10 @@ g) Comisión de Medio Ambiente, Recursos Naturales y Desarrollo Sustentable anal
 h) Comisión de Salud el dictamen de las iniciativas y proposiciones, la actualización de las leyes estatales en materia de salud y seguridad social; así como impulsar el fortalecimiento del bienestar de los bajacalifornianos, en correspondencia con los principios establecidos en la Constitución Política del Estado y demás preceptos legales en materia de salud y seguridad social.
 
 i) Comisión de Seguridad Pública el análisis y dictamen de las proposiciones e iniciativas formuladas por los legisladores, así como el impulso de leyes que recuperen la confianza en las instituciones de seguridad y el combate a la delincuencia bajo condiciones reguladas, de control y pleno respeto a las garantías individuales y los derechos humanos.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2012)</small>
+
+j) Comisión de Equidad y Género; el análisis y dictamen de las iniciativas de ley y proposiciones en materia de género, así como el establecimiento de acuerdos, la evaluación de las políticas públicas en la materia; y revisar, actualizar y armonizar permanentemente la legislación vigente para construir una sociedad en donde las mujeres y los hombres tengan el mismo valor e igualdad de derechos y oportunidades.
 
 A todas estas comisiones les corresponderá, además de las facultades y atribuciones que se señalan, el desahogo de los demás asuntos que le sean remitidos por la Mesa Directiva.
 
@@ -1213,7 +1221,9 @@ La Dirección General de Gestión y Vinculación estará encargada de la Vincula
 
 El Secretario de Servicios Administrativos designará y removerá directamente el personal a su cargo, conforme a las previsiones presupuestales.
 
-El Reglamento Interior fijará los requisitos que deberá reunir el titular de la Secretaría de Servicios Administrativos, así como las facultades y obligaciones que correspondan al personal que dependa del mismo.
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2012)</small>
+
+Asimismo la Secretaría de Servicios Administrativos, por conducto de la Dirección General de Administración, emitirá e implementará programas de capacitación para el personal de nuevo ingreso del Congreso del Estado, así como programas de capacitación permanente para todos sus servidores públicos, según la naturaleza de las funciones que desempeñen.
 
 El desempeño de las atribuciones y obligaciones de la Secretaría de Servicios Administrativos, estará bajo la vigilancia y control de la Comisión de Administración y Finanzas del Congreso del Estado.
 
@@ -1351,7 +1361,7 @@ ARTICULO 81 BIS.- (DEROGADO, P.O. 19 DE NOVIEMBRE DE 2004)
 
 ARTICULO 81 TER.- (DEROGADO, P.O. 19 DE NOVIEMBRE DE 2004)
 
-ARTICULO 81 QUARTER (SIC).- (DEROGADO, P.O. 19 DE NOVIEMBRE DE 2004)
+ARTICULO 81 QUARTER (SIC) (DEROGADO, P.O. 19 DE NOVIEMBRE DE 2004)
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
 
@@ -2464,3 +2474,19 @@ P.O. 1 DE JUNIO DE 2012.
 PRIMERO.- La presente reforma entrará en vigor al momento de su aprobación por el Pleno del Congreso del Estado de Baja California.
 
 SEGUNDO.- Publíquese en el Periódico Oficial del Estado y en la Gaceta Parlamentaria del Congreso del Estado de Baja California.
+
+P.O. 31 DE AGOSTO DE 2012.
+
+DECRETO No. 251, POR EL QUE SE APRUEBA LA REFORMA AL ARTÍCULO 77 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA.
+
+PRIMERO.- La presente reforma entrará en vigor al momento de su aprobación por el Pleno del Congreso del Estado.
+
+SEGUNDO.- Publíquese en la Gaceta del Poder Legislativo, Órgano Oficial de difusión del Congreso del Estado de Baja California.
+
+TERCERO.- Remítase al Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE AGOSTO DE 2012.
+
+DECRETO No. 259, POR EL QUE SE APRUEBA LA INICIATIVA QUE ADICIONA UN NUMERAL 15 AL ARTÍCULO 56 Y UN INCISO J) AL ARTÍCULO 60 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA, A FIN DE QUE LA COMISIÓN DE EQUIDAD Y GÉNERO SEA COMISIÓN DE DICTAMEN LEGISLATIVO.
+
+ÚNICO.- La presente reforma entrará en vigor al momento de su aprobación por el Pleno del Congreso del Estado, se publicarán en la Gaceta del Poder Legislativo, enviándose al Poder Ejecutivo para su publicación en el Periódico Oficial del Estado de Baja California.
