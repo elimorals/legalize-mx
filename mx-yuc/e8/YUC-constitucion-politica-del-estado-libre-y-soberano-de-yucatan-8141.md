@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2012-01-05"
+last_updated: "2012-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 5 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE AGOSTO DE 2012.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -733,6 +733,10 @@ V.- dar, interpretar y derogar Leyes y Decretos;
 
 VI.- Aprobar la Ley de Ingresos y el Presupuesto de Egresos del Gobierno del Estado y las leyes de ingresos de los municipios, a más tardar, el día 15 de diciembre de cada año. Asimismo, deberá incluir en el Presupuesto de Egresos mencionado, las erogaciones plurianuales, aprobadas conforme a la Ley de la materia.
 
+> <small>(ADICIONADO, D.O. 31 DE AGOSTO DE 2012)</small>
+
+Cuando inicie una administración gubernamental estatal en la fecha prevista en el artículo 48 de esta Constitución, el Congreso del Estado aprobará la Ley de Ingresos y el Presupuesto de Egresos del Estado a más tardar el 30 de diciembre del año en que se verifique dicho suceso.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(ADICIONADO, D.O. 19 DE MARZO DE 2010)</small>
@@ -1412,6 +1416,10 @@ XIII.- expedir la convocatoria para las elecciones ordinarias;
 > <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
 
 XIV.- presentar ante el Congreso del Estado, a más tardar el día 25 de noviembre de cada año, las iniciativas relativas a la Ley de Ingresos y Presupuesto de Egresos del Gobierno del Estado, que hubieren de regir durante el año inmediato siguiente;
+
+> <small>(ADICIONADO, D.O. 31 DE AGOSTO DE 2012)</small>
+
+Cuando inicie una administración gubernamental estatal en la fecha prevista en el artículo 48 de esta Constitución, el Gobernador del Estado, por única ocasión, hará llegar al Congreso del Estado las iniciativas antes mencionadas a más tardar el día 20 del mes de diciembre del año en el que inicie el período constitucional para el cual fue electo.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 6 DE DICIEMBRE DE 2010)</small>
 
@@ -3942,3 +3950,9 @@ Este Decreto entrará en vigor el 1 de enero del año 2012, previa su publicaci�
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+D.O. 31 DE AGOSTO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
