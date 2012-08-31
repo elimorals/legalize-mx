@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2012-08-24"
+last_updated: "2012-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE AGOSTO DE 2012.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -1562,6 +1562,14 @@ c) Expidan certificaciones de inscripciones que obren en el registro.
 > <small>(ADICIONADA, G.G. 2 DE ENERO DE 2006)</small>
 
 XII. Cuando el personal al cuidado o disposición de los registros de audiograbación y videograbación de los juicios orales, haga uso indebido de los mismos, los sustraiga, entregue, copie reproduzca, altere, modifique, venda o facilite información contenida en aquellos o parte de la misma o de cualquier otra forma los utilice para fines distintos a lo previsto por la Ley.
+
+> <small>(ADICIONADA, G.G. 31 DE AGOSTO DE 2012)</small>
+
+XIII. Cuando sin tener facultades de tránsito pretenda sancionar o imponer una medida de seguridad con motivo de la aplicación de la normatividad de tránsito del Estado;
+
+> <small>(ADICIONADA, G.G. 31 DE AGOSTO DE 2012)</small>
+
+XIV. La autoridad que fomente, tolere, autorice, o intervenga en la imposición indebida de sanciones o de medidas de seguridad con motivo de la aplicación de la normatividad de tránsito del Estado.
 
 > <small>(REFORMADO, G.G. 2 DE ENERO DE 2006)</small>
 
@@ -4760,6 +4768,20 @@ DECRETO No. 499, POR EL QUE SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO IV Y EL AR
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 31 DE AGOSTO DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Dentro del plazo de sesenta días hábiles, contados a partir de la entrada en vigor del presente Decreto, las autoridades en materia de tránsito, dispondrán lo necesario para que los agentes de tránsito sean mujeres.
+
+CUARTO.- El Titular del Ejecutivo del Estado y los Ayuntamientos, proveerán en su esfera administrativa el cumplimiento del presente Decreto.
+
+QUINTO.- Dentro del plazo de sesenta días hábiles, contados a partir de la entrada en vigor del presente Decreto, las autoridades en materia de tránsito, deberán contar con las terminales electrónicas establecidas en el presente Decreto.
+
+SEXTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
 
 ###### ARTÍCULO PRIMERO.
 
