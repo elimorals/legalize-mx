@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-ingresos-del-estado-de-nuevo-leon-para-el-ano-2012-84431
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2011-12-27"
-last_updated: "2011-12-27"
+last_updated: "2012-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84431&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE INGRESOS DEL ESTADO DE NUEVO LEÓN, PARA EL AÑO 2012
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el martes 27 de diciembre de 2011.
 
@@ -259,7 +259,17 @@ TOTAL: $ 59,674,740,759
 
 Artículo Segundo.- Se autoriza al Ejecutivo del Estado a contratar el financiamiento adicional que se requiera hasta por el monto que corresponda a los conceptos previstos en este párrafo, para la reconstrucción o sustitución de infraestructura pública dañada o destruida con motivo de desastres naturales y otras contingencias similares, así como a reestructurar y renegociar las condiciones de crédito u obligaciones de pago, tanto del Estado como de sus entidades paraestatales y a reducir el servicio de la deuda, para lo cual podrán pactarse periodos de gracia en el pago de capital e intereses y garantizar los créditos u obligaciones de pago con ingresos propios o con ingresos por concepto de participaciones o aportaciones federales.
 
-Adicionalmente a lo señalado en el párrafo que antecede, se autoriza al Ejecutivo del Estado a contratar el financiamiento adicional que se requiera para sufragar los conceptos señalados en el presupuesto de egresos del Estado, para cubrir las obligaciones de pago directas o contingentes a cargo del erario y para afrontar los desequilibrios presupuestales que se presenten por contingencias que impliquen una disminución en los ingresos estimados, hasta por el monto que corresponda a estos conceptos, condicionado a que el endeudamiento neto adicional del ejercicio 2012, contraído conforme a lo dispuesto en este párrafo, garantizado con ingresos propios o con ingresos por concepto de participaciones o aportaciones federales, no exceda del 4% del presupuesto total de ingresos contenido en esta Ley.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2012)</small>
+
+Adicionalmente a lo señalado en el párrafo que antecede, se autoriza al Ejecutivo del Estado a contratar el financiamiento adicional que se requiera para sufragar los conceptos señalados en el presupuesto de egresos del Estado, para cubrir las obligaciones de pago directas o contingentes a cargo del erario y para afrontar los desequilibrios presupuestales que se presenten por contingencias que impliquen una disminución en los ingresos estimados, hasta por el monto que corresponda a estos conceptos, para lo cual podrán darse en garantía o fuente de pago, ingresos o activos financieros del Estado, condicionado a que el endeudamiento que se contraiga en el ejercicio, garantizado con ingresos consistentes en contribuciones estatales o participaciones federales, contraído conforme a este párrafo, menos las amortizaciones de créditos a cargo del Estado, garantizados con contribuciones estatales o participaciones federales, no exceda del 4% del presupuesto total de ingresos contenido en esta Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2012)</small>
+
+De manera adicional a lo establecido en el párrafo que antecede, se autoriza al Ejecutivo del Estado a contratar el financiamiento adicional que se requiera para sufragar los conceptos señalados en el párrafo que antecede, dando en garantía o fuente de pago ingresos consistentes en aportaciones federales, condicionado a que el endeudamiento que se contraiga en el ejercicio, garantizado con ingresos consistentes en aportaciones federales, contraído conforme a este párrafo, menos las amortizaciones de créditos a cargo del Estado, garantizados con aportaciones federales, no exceda del 5% del presupuesto total de ingresos contenido en esta Ley.
 
 Los financiamientos previstos en este artículo, que representen un endeudamiento neto adicional, deberán destinarse a inversiones públicas productivas.
 
@@ -316,3 +326,9 @@ EL C. SECRETARIO DE FINANZAS Y
 TESORERO GENERAL DEL ESTADO
 
 OTHÓN RUIZ MONTEMAYOR
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE AGOSTO DE 2012.
+
+Único.- El presente Decreto, surtirá sus efectos a partir del 1° de enero de 2012.
