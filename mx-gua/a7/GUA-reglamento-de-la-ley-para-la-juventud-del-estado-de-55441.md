@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-ley-para-la-juventud-del-estado-de-55441"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-03-27"
-last_updated: "2007-03-27"
+last_updated: "2012-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55441&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 REGLAMENTO DE LA LEY PARA LA JUVENTUD DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY PARA LA JUVENTUD DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 31 DE AGOSTO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Quinta Parte del Periódico Oficial del Estado de Guanajuato, el martes 27 de marzo de 2007.
 
@@ -262,3 +264,15 @@ JOSÉ GERARDO MOSQUEDA MARTÍNEZ
 EL SECRETARIO DE EDUCACIÓN
 
 ALBERTO DEL L. S. DIOSDADO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE AGOSTO DE 2012.
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación del Reglamento vigente
+
+Artículo Segundo. Se abroga el Reglamento de la Ley para la Juventud del Estado de Guanajuato, contenido en el Decreto Gubernativo número 21, publicado en el Periódico Oficial del Gobierno del Estado número 50, Quinta Parte, de fecha 27 de marzo de 2007.
