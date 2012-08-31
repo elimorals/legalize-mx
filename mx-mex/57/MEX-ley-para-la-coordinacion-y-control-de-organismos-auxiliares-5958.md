@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-coordinacion-y-control-de-organismos-auxiliares-595
 country: "mx"
 rank: "ley"
 publication_date: "1983-08-24"
-last_updated: "2011-03-31"
+last_updated: "2012-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # LEY PARA LA COORDINACION Y CONTROL DE ORGANISMOS AUXILIARES DEL ESTADO DE MEXICO -ANTES LEY PARA LA COORDINACION Y CONTROL DE ORGANISMOS AUXILIARES Y FIDEICOMISOS DEL ESTADO DE MEXICO-
 
-LEY PARA LA COORDINACION Y CONTROL DE ORGANISMOS AUXILIARES DEL ESTADO DE MEXICO
+LEY PARA LA COORDINACIÓN Y CONTROL DE ORGANISMOS AUXILIARES DEL ESTADO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE AGOSTO DE 2012.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el miércoles 24 de agosto de 1983.
 
@@ -35,7 +35,7 @@ LA H. XLVIII LEGISLATURA DEL ESTADO DE MEXICO,
 
 D E C R E T A :
 
-> <small>(REFORMADA LA DENOMINACION, G.G. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA LA DENOMINACIÓN, G.G. 4 DE JUNIO DE 2004)</small>
 
 LEY PARA LA COORDINACION Y CONTROL DE ORGANISMOS AUXILIARES DEL ESTADO DE MEXICO
 
@@ -51,7 +51,7 @@ Esta Ley tiene por objeto fijar las bases conforme a las cuales el Ejecutivo del
 
 Para efectos de esta Ley se entiende por Organismos Auxiliares, las entidades a que se refiere el artículo 45 de la Ley Orgánica de la Administración Pública del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE JUNIO DE 2004)</small>
 
 ###### Artículo 3.
 
@@ -59,7 +59,7 @@ Quedan sujetos al control y vigilancia del Ejecutivo del Estado, en los término
 
 La Universidad Autónoma del Estado de México, y las demás instituciones docentes y culturales que gocen de autonomía conforme al ordenamiento o acto de su creación, quedan exceptuadas de lo dispuesto por esta Ley.
 
-> <small>(REFORMADA LA DENOMINACION, G.G. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA LA DENOMINACIÓN, G.G. 4 DE JUNIO DE 2004)</small>
 
 ### CAPITULO II. De la Creación, Modificación y Extinción de los
 
@@ -93,6 +93,38 @@ I. Que el Gobierno del Estado sea su administrador y haya suscrito una proporci�
 
 II. Que el Gobierno del Estado sea su administrador y en la constitución de su capital figuren acciones de serie especial que sólo puedan ser suscritas por éste.
 
+> <small>(ADICIONADO, G.G. 31 DE AGOSTO DE 2012)</small>
+
+El Gobernador del Estado, por conducto de la dependencia coordinadora de sector, determinará los servidores públicos que deban ejercer las facultades que impliquen la titularidad de las acciones o partes sociales que integren el capital social de las empresas de participación estatal mayoritaria.
+
+> <small>(ADICIONADO, G.G. 31 DE AGOSTO DE 2012)</small>
+
+###### Artículo 6-A.
+
+Los órganos de gobierno de las entidades de participación estatal mayoritaria, se integrarán de acuerdo a sus estatutos, en lo que no se oponga a esta Ley.
+
+Los integrantes de dicho órgano de gobierno que representen la participación de la Administración Pública Estatal, serán designados por el Titular del Ejecutivo Estatal, directamente o a través de la dependencia coordinadora de sector. Deberán constituir en todo tiempo, más de la mitad de los miembros del órgano de gobierno, y serán servidores públicos de la Administración Pública Estatal o personas de reconocida calidad moral o prestigio, con experiencia respecto a las actividades propias de la empresa de que se trate.
+
+> <small>(ADICIONADO, G.G. 31 DE AGOSTO DE 2012)</small>
+
+###### Artículo 6-B.
+
+El órgano de gobierno será presidido por el Titular de la dependencia coordinadora de sector o por la persona a quien éste designe, sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros y siempre que la mayoría de los asistentes, sean representantes de la participación del Gobierno Estatal. Las resoluciones se tomarán por mayoría de los miembros presentes, teniendo el Presidente voto de calidad para el caso de empate.
+
+> <small>(ADICIONADO, G.G. 31 DE AGOSTO DE 2012)</small>
+
+###### Artículo 6-C.
+
+Los órganos de gobierno de las empresas de participación estatal mayoritaria, tendrán las facultades que les otorguen los estatutos o legislación de la materia, en lo que no se oponga a la presente Ley.
+
+> <small>(ADICIONADO, G.G. 31 DE AGOSTO DE 2012)</small>
+
+###### Artículo 6-D.
+
+La fusión o disolución de las empresas de participación estatal mayoritaria se efectuará conforme a las disposiciones contenidas por la presente Ley y en los lineamientos o disposiciones establecidos en los estatutos de la empresa.
+
+La dependencia coordinadora de sector, en lo que no se oponga a su regulación específica y de conformidad a las normas establecidas al respecto por la Secretaría de Finanzas, intervendrá a fin de señalar la forma y términos en que deba efectuarse la fusión o la disolución, debiendo cuidar en todo tiempo la adecuada protección de los intereses del público, de los accionistas o titulares de las acciones o partes sociales, y los derechos laborales de los servidores públicos de la empresa.
+
 > <small>(REFORMADO, G.G. 4 DE JUNIO DE 2004)</small>
 
 ###### Artículo 7.
@@ -107,7 +139,7 @@ Los fondos son asignaciones presupuestales realizadas por el Ejecutivo del Estad
 
 Para efectos de esta Ley, los fondos a que se refiere el presente artículo, se asimilan a los fideicomisos.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE JUNIO DE 2004)</small>
 
 ###### Artículo 9.
 
@@ -131,7 +163,7 @@ El Gobernador del Estado podrá decretar o solicitar a la Legislatura, en su cas
 
 ### CAPITULO III. Del Control y Vigilancia por parte del Ejecutivo del Estado
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE JUNIO DE 2004)</small>
 
 ###### Artículo 12.
 
@@ -147,7 +179,7 @@ Las atribuciones señaladas se entienden sin perjuicio de las que otorga al Pode
 
 Las Secretarías de Finanzas, Planeación y Administración y de la Contraloría, se consideran como dependencias de coordinación global y serán responsables de dictar las disposiciones administrativas y de controlar y evaluar su cumplimiento en los organismos auxiliares, respecto de las atribuciones que en relación con los mismos les determine la Ley Orgánica de la Administración Pública y demás leyes aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE JUNIO DE 2004)</small>
 
 ###### Artículo 14.
 
@@ -215,7 +247,7 @@ I. Requerir al fiduciario del fideicomiso la información financiera de acuerdo 
 
 II. Requerir la información estadística necesaria para sus funciones de planeación.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE JUNIO DE 2004)</small>
 
 ###### Artículo 15.
 
@@ -251,7 +283,7 @@ VI. Las demás que le determine el Gobernador del Estado conforme a la legislaci
 
 La Secretaría de Finanzas tendrá respecto de los fideicomisos que se constituyan al amparo del artículo 265 B Bis del Código Financiero del Estado de México y Municipios la atribución para expedir políticas y lineamientos que permitan la revisión de sus sistemas, métodos y procedimientos de trabajo, incluyendo el cumplimiento de los objetivos para los cuales se hayan creado.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE JUNIO DE 2004)</small>
 
 ###### Artículo 16.
 
@@ -303,7 +335,7 @@ La Legislatura del Estado a solicitud de cuando menos la tercera parte de sus mi
 
 Del Control y Vigilancia por parte de los Órganos de Gobierno.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE JUNIO DE 2004)</small>
 
 ###### Artículo 20.
 
@@ -325,7 +357,7 @@ Las facultades otorgadas en el artículo anterior a los órganos de gobierno, se
 
 (DEROGADO, G.G. 29 DE AGOSTO DE 1995)
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE JUNIO DE 2004)</small>
 
 ###### Artículo 23.
 
@@ -377,7 +409,7 @@ Los organismos auxiliares deberán publicar sus balances consolidados anuales en
 
 Los órganos de gobierno de los fideicomisos que tengan el carácter de organismos auxiliares, se integrarán de la manera prevista para los demás organismos auxiliares de acuerdo con los criterios a que se refiere el artículo 23 de la presente Ley, en tanto no contravengan las Leyes en la materia.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE JUNIO DE 2004)</small>
 
 ###### Artículo 29.
 
@@ -405,7 +437,7 @@ Por cada uno de los integrantes, los órganos de gobierno aprobarán un suplente
 
 (DEROGADO, G.G. 29 DE AGOSTO DE 1995)
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE AGOSTO DE 1995)</small>
 
 ###### Artículo 32.
 
@@ -499,7 +531,7 @@ Dr. Carlos Almada López.
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.G. 29 DE AGOSTO DE 1995
 
@@ -600,3 +632,11 @@ DÉCIMO CUARTO.- Se derogan las disposiciones de igual o menor jerarquía juríd
 DÉCIMO QUINTO.- El Programa Estatal de Publicidad Exterior deberá ser expedido por la Secretaría de Comunicaciones en un plazo máximo de cuatro meses contados a partir de la publicación del presente Decreto.
 
 DÉCIMO SEXTO.- Los permisos y autorizaciones en materia de publicidad exterior, vigentes al entrar en vigor las reformas serán respetados en sus términos hasta la conclusión del plazo por el que fueron otorgados. El Programa Estatal de Publicidad Exterior fijará los lineamientos para el otorgamiento de plazos adicionales de vigencia, cuando ello sea procedente.
+
+G.G. 31 DE AGOSTO DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
