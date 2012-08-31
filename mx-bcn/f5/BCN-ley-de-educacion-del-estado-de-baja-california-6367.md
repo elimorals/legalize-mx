@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-6367"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-29"
-last_updated: "2012-08-10"
+last_updated: "2012-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2012.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 29 de septiembre de 1995.
 
@@ -179,7 +179,9 @@ II.- Favorecer la adquisición tanto de conocimientos científicos y culturales 
 
 III.- Fortalecer la conciencia de la nacionalidad y de la soberanía, el conocimiento y aprecio por la historia, el amor y respeto a los símbolos patrios y las instituciones nacionales, así como la valoración de las tradiciones y particularidades culturales de las diversas regiones del País.
 
-IV.- Enseñar el Español como lengua nacional común de los mexicanos, sin menoscabo del rescate y la enseñanza de las lenguas de los grupos indígenas que existen en el Estado, así como promover en educación básica el estudio del idioma Inglés.
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2012)</small>
+
+IV.- Enseñar el español como lengua nacional común de los mexicanos, sin menoscabo del rescate y la enseñanza de las lenguas de los grupos indígenas que existan en el Estado, así como garantizar la impartición en la educación básica del idioma inglés.
 
 V.- Infundir el conocimiento y práctica de la democracia como forma de gobierno y como sistema de vida que permita la participación de todos en el desarrollo político, económico y social del Estado, y en general, en la toma de decisiones al mejoramiento de la sociedad.
 
@@ -467,11 +469,15 @@ IV.- El tipo superior comprende la educación normal, la tecnológica y la unive
 
 La educación inicial tendrá la finalidad de familiarizar al niño a partir de los 45 días de nacido o antes de los 4 años de edad, con su correcto desenvolvimiento social en núcleos distintos al familiar, así como favorecer el desarrollo de las capacidades físicas, cognoscitivas, afectivas y sociales del educando. Incluye orientación a padres de familia o tutores para la educación de sus hijos o pupilos.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 24.
 
-La educación preescolar tendrá como propósito fundamental la sociabilización de la persona a partir de los tres años de edad, atendiendo, mediante personal especializado con TITULO académico del nivel o acreditación como licenciado en educación preescolar; aspectos psicológicos, pedagógicos, cognoscitivos, afectivos y psicomotrices que le permitan crecer en un ambiente de libertad, cooperación y progreso, procurando que adquieran los conocimientos básicos sobre la naturaleza, la vida y la sociedad y se oriente su desarrollo hacia la creatividad, además de la orientación a los padres de familia o tutores.
+La educación preescolar tendrá como propósito fundamental la sociabilización del menor a partir de los tres años de edad, atendiendo, mediante personal especializado con título académico del nivel o acreditación como licenciado en educación preescolar; aspectos psicológicos, pedagógicos, cognoscitivos, afectivos y psicomotrices que le permitan crecer en un ambiente de libertad, cooperación y progreso, procurando que adquieran los conocimientos básicos sobre la naturaleza, la vida y la sociedad y se oriente su desarrollo hacia la creatividad, además de la orientación a los padres de familia o tutores.
+
+La educación preescolar se orientará a la promoción del conocimiento del idioma inglés.
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 25.
 
@@ -479,11 +485,17 @@ La educación primaria persigue esencialmente el desarrollo y adaptación de los
 
 La Educación primaria se sujetará a los planes y programas que determine la Secretaría de Educación Pública y será atendida con personal que cuente con título académico del nivel o de licenciado en educación primaria.
 
+La educación primaria se enfocará además al conocimiento y desarrollo del idioma inglés.
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2012)</small>
+
 ###### ARTICULO 26.
 
 La educación secundaria tiene como propósito alentar el proceso de madurez de la personalidad del adolescente, orientar sus opciones vocacionales y favorecer su integración comunitaria mediante un impulso pedagógico que le permita su propia superación académica.
 
 La educación secundaria se sujetará a los planes y programas que determine la Secretaría de Educación Pública y será atendida por personal que acredite previamente el título académico del nivel o la licenciatura en Normal Superior para las asignaturas de tipo académico; para las materias técnicas, deberán satisfacer los requisitos que en su caso, señalen las autoridades competentes.
+
+La educación secundaria se enfocará además al dominio del idioma inglés
 
 ###### ARTICULO 27.
 
@@ -1500,3 +1512,9 @@ PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Una vez que entre en vigor la presente reforma, el Ejecutivo Estatal tendrá un plazo de 180 días naturales para modificar o expedir las medidas reglamentarias correspondientes.
 
 TERCERO.- El Ejecutivo Estatal destinará de forma gradual y de acuerdo a la disponibilidad presupuestaria los recursos financieros suficientes para que los inmuebles destinados a la educación básica impartida por el Estado, sean pintados de color blanco, en su carácter de color oficial.
+
+P.O. 31 DE AGOSTO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Para dar cumplimiento a lo establecido en los artículos 24, 25 y 26 del presente Decreto, se deberán hacer las adecuaciones necesarias en los respectivos presupuestos, de tal manera que para el ciclo escolar 2013-2014 se iniciara al 100 por ciento con los alumnos de 3° de preescolar y 100 por ciento para los alumnos de 1°, 2° y 3° grado de primaria. A partir del ciclo escolar 2014-2015, se cubrirá al 100 por ciento a los alumnos de 4°, 5° y 6° grado de primaria. Para el ciclo escolar 2016-2017 se aplicará en su totalidad en el nivel básico del Sistema Educativo Estatal.
