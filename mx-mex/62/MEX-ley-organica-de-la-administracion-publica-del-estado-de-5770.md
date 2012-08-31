@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2012-05-18"
+last_updated: "2012-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE DICIEMBRE DE 2011.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO EL 18 DE MAYO DE 2012.</small>
-
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO DEL DECRETO NÚMERO 394, PUBLICADO EN LA G.G. DE 16 DE DICIEMBRE DE 2011, SE RATIFICAN EN SUS TÉRMINOS LOS ARTÍCULOS QUINTO, SEXTO, SÉPTIMO, OCTAVO, NOVENO Y DÉCIMO DEL DECRETO DE REFORMA NÚMERO 25, PUBLICADO EN LA G.G. DE 10 DE DICIEMBRE DE 2009, PARA EL EJERCICIO FISCAL DE 2012, LOS CUALES NO AFECTAN EL ARTICULADO DE ÉSTA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE AGOSTO DE 2012.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -1565,6 +1561,10 @@ El Estado podrá participar en la integración del capital social de aquellas em
 
 En la integración del capital social de estas empresas, podrán participar los particulares y los grupos sociales interesados. Los funcionarios del Gobierno del Estado y de los organismos descentralizados, en ningún caso podrán participar en la integración del capital social de estas empresas.
 
+> <small>(ADICIONADO, G.G. 31 DE AGOSTO DE 2012)</small>
+
+Se asimilan a las empresas de participación estatal mayoritaria, las sociedades civiles así como las asociaciones civiles en las que la mayoría de los asociados sean dependencias o entidades de la administración pública estatal, o servidores públicos estatales que participen en razón de sus cargos o alguna o varias de ellas, se obliguen a realizar o realicen las aportaciones económicas preponderantes.
+
 > <small>(REFORMADO, G.G. 4 DE JUNIO DE 2004)</small>
 
 ###### Artículo 49.
@@ -1627,7 +1627,7 @@ G.G. 14 DE SEPTIEMBRE DE 1987.
 
 El presente decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial "Gaceta del Gobierno " del Estado.
 
-G.G 11 DE OCTUBRE DE 1989.
+G.G. 11 DE OCTUBRE DE 1989.
 
 ###### ARTICULO PRIMERO.
 
@@ -1685,7 +1685,7 @@ Los asuntos que al entrar en vigor este Decreto se encuentren en trámite, se co
 
 El Ejecutivo del Estado expedirá dentro del término de 90 días a partir de la vigencia de este Decreto, los reglamentos interiores a que se refiere el Artículo 15.
 
-G.G. 19 DE OCTUBRE DE 1992.
+G.G. 19 DE OCTUBRE DE 1992
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
 
@@ -1713,7 +1713,7 @@ CUARTO.- Se derogan las disposiciones que se opongan a las contenidas en el pres
 
 QUINTO.- Las Secretarías de Finanzas y Planeación, de Administración y de la Contraloría proveerán lo conducente para el funcionamiento de la Secretaría de Salud.
 
-G.G. 13 DE DICIEMBRE DE 2001.
+G.G. 13 DE DICIEMBRE DE 2001
 
 PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
@@ -1775,7 +1775,7 @@ SEXTO.- Cuando otros ordenamientos legales, reglamentarios y disposiciones de ob
 
 SEPTIMO.- Los asuntos y procedimientos que se hayan iniciado antes del primero de enero del año dos mil tres en la Secretaría de Desarrollo Urbano y Obras Públicas, se tramitarán y resolverán, según corresponda, por la Secretaría de Desarrollo Urbano y Vivienda o por la Secretaría de Agua, Obra Pública e Infraestructura para el Desarrollo.
 
-G.G. 6 DE AGOSTO DE 2003
+G.G. 6 DE AGOSTO DE 2003.
 
 PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
@@ -2160,6 +2160,14 @@ DEBIDO A SU IMPORTANCIA, A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS DEL DECRE
 Se ratifican en sus términos los artículos Quinto, Sexto, Séptimo, Octavo, Noveno y Décimo del Decreto Número 25, publicado en el Periódico Oficial "Gaceta del Gobierno" el día 10 de diciembre de 2009, para el ejercicio fiscal 2012.
 
 TRANSITORIO SEGUNDO.- El presente Decreto entrará en vigor el día 1° de enero de 2012.
+
+G.G. 31 DE AGOSTO DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 158 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LA LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA Y LA LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA”.]
 
