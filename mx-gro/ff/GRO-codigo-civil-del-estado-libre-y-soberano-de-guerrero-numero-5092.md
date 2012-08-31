@@ -4,7 +4,7 @@ identifier: "GRO-codigo-civil-del-estado-libre-y-soberano-de-guerrero-numero-509
 country: "mx"
 rank: "codigo"
 publication_date: "1993-03-02"
-last_updated: "2011-09-02"
+last_updated: "2012-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GRO"
 ---
 # CODIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NUMERO 358
 
-CODIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, NUMERO 358
+CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 358
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el martes 2 de marzo de 1993.
 
@@ -2099,6 +2099,22 @@ Los alimentos habrán de ser proporcionados a las posibilidades del que deba dar
 
 Para fijar la pensión alimenticia, se tomará en cuenta la capacidad económica del deudor alimentario, y las necesidades de las o los acreedores alimentarios y nunca podrá ser inferior al 40% del salario mínimo vigente, o del salario percibido y de las prestaciones a que tenga derecho; fijada por convenio o sentencia, la pensión alimenticia se incrementará proporcionalmente al aumento salarial, en todo caso el Juez considerará al momento de resolver lo que beneficie a los acreedores alimentarios.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2012)</small>
+
+###### Artículo 397 Bis.
+
+Cuando no se deduzca de autos el salario o los ingresos reales del deudor alimentario, el juez resolverá con base en la capacidad económica y nivel de vida que el deudor y sus acreedores alimentarios hayan llevado en los dos últimos años.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2012)</small>
+
+###### Artículo 397 Bis 1.
+
+Los acreedores alimentarios tendrán derecho preferente sobre los ingresos y bienes de quien tenga dicha obligación, respecto de otra calidad de acreedores.
+
 ###### Artículo 398.
 
 Si fueren varios los que deban dar los alimentos y todos tuvieren posibilidad para hacerlo, el juez repartirá el importe entre ellos, en proporción a sus haberes.
@@ -2172,6 +2188,26 @@ Lo dispuesto en este artículo es aplicable a la obligación alimentaria entre c
 ###### Artículo 410.
 
 El cónyuge que se haya separado del otro, seguirá obligado a cumplir con los gastos a que se refiere el artículo 425. En tal virtud, el que no hubiere dado lugar a ese hecho, podrá pedir al juez de su residencia, que obligue al otro a que le ministre los gastos por el tiempo que dure la separación en la misma proporción en que lo venía haciendo antes de aquélla, así como también satisfaga los adeudos contraídos en los términos del artículo anterior. Si dicha proporción no se pudiera determinar, el juez, según las circunstancias del caso, fijará la suma mensual correspondiente y dictará las medidas necesarias para asegurar su entrega y de lo que hubiere dejado de cubrirse desde la separación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2012)</small>
+
+###### Artículo 410 Bis.
+
+Toda persona a quien, por su cargo o funciones, corresponda proporcionar informes sobre la capacidad económica de los deudores alimentarios, está obligada a suministrar los datos exactos y en los plazos que le solicite el juez, de no hacerlo, será sancionada en los términos establecidos en el Código de procedimientos Civiles del estado y responderá legalmente con los obligados directos de los daños y perjuicios que cauce al acreedor alimentista por sus omisiones, dilaciones o informes falsos.
+
+Las personas que no realicen de inmediato el descuento ordenado por concepto de pensión alimenticia provisional o definitiva, o auxilien al deudor a ocultar o disimular sus bienes, o eludir el cumplimiento de sus obligaciones alimentarias serán responsables en los términos del párrafo anterior.
+
+Independientemente de estas sanciones, el juez, de oficio a petición de parte, dará vista de inmediato al Ministerio Público del Fuero Común para el inicio de la averiguación previa por el delito que corresponda.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2012)</small>
+
+###### Artículo 410 Bis 1.
+
+El deudor alimentario deberá de informar de inmediato al juez y éste a su vez al acreedor alimentista cualquier cambio de empleo, la denominación o razón social de su nueva fuente de trabajo, la ubicación de ésta y el puesto o cargo que desempeñará, así como los ingresos económicos por cambio de situación, a efecto de que continúe cumpliendo con la pensión alimenticia decretada y no incurrir en alguna responsabilidad.
 
 ## TITULO SEGUNDO. Del matrimonio
 
@@ -15602,6 +15638,16 @@ El presente Decreto entrará en vigor a los dos meses siguientes del día de su 
 Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Guerrero, para los efectos legales conducentes.
 
 P.O. 2 DE SEPTIEMBRE DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los dos meses siguientes del día de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Guerrero, para los efectos legales conducentes.
+
+P.O. 31 DE AGOSTO DE 2012.
 
 ###### ARTÍCULO PRIMERO.
 
