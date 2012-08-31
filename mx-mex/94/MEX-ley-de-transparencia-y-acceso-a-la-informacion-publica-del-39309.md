@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-3930
 country: "mx"
 rank: "ley"
 publication_date: "2004-04-30"
-last_updated: "2011-08-02"
+last_updated: "2012-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39309&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE MEXICO Y MUNICIPIOS -ANTES LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE MEXICO-
 
-LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE MEXICO Y MUNICIPIOS
+LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 2 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 31 DE AGOSTO DE 2012.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 30 de abril de 2004.
 
@@ -41,7 +41,7 @@ DECRETA:
 
 Se expide la Ley de Transparencia y Acceso a la Información Pública del Estado de México, conforme al tenor siguiente:
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 24 DE JULIO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 24 DE JULIO DE 2008)</small>
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
@@ -49,31 +49,49 @@ LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y
 
 ### Capítulo I. Objeto de la Ley
 
-> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 31 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 1.
 
-La presente Ley es reglamentaria de los párrafos décimo y décimo primero y décimo segundo del artículo 5 de la Constitución Política del Estado Libre y Soberano de México, y tiene por objeto, transparentar el ejercicio de la función pública, tutelar y garantizar a toda persona, el ejercicio del derecho de acceso a la información pública, a sus datos personales, así como a la corrección y supresión de éstos y proteger los datos personales que se encuentren en posesión de los sujetos obligados, y tiene como objetivos:
+La presente Ley es reglamentaria de los párrafos décimo quinto, décimo sexto y décimo séptimo del artículo 5 de la Constitución Política del Estado Libre y Soberano de México, y tiene por objeto, transparentar el ejercicio de la función pública, tutelar y garantizar a toda persona, el ejercicio del derecho de acceso a la información pública, que se encuentren en posesión de los sujetos obligados, y tiene como objetivos:
+
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
 
 I. Promover la transparencia de la gestión pública y la rendición de cuentas de los sujetos obligados hacia la sociedad, bajo el principio de máxima publicidad;
 
-II. Facilitar el acceso de los particulares a la información pública, a sus datos personales, a la corrección o supresión de éstos, mediante procedimientos sencillos y expeditos, de manera oportuna y gratuita;
+> <small>(REFORMADA, G.G. 31 DE AGOSTO DE 2012)</small>
+
+II. Facilitar el acceso de los particulares a la información pública, mediante procedimientos sencillos y expeditos, de manera oportuna y gratuita;
+
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
 
 III. Contribuir a la mejora de la gestión pública y a la toma de decisiones en las políticas gubernamentales, mediante mecanismos que alienten la participación ciudadana en el acceso a la información;
 
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
+
 IV. Promover una cultura de transparencia y acceso a la información; y
+
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
 
 V. Garantizar a través de un órgano autónomo:
 
+> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
+
 A) El acceso a la información pública;
 
-B) La protección de datos personales;
+B) (DEROGADO, G.G. 31 DE AGOSTO DE 2012)
 
-C) El acceso, corrección y supresión de datos personales en posesión de los sujetos obligados; y
+C) (DEROGADO, G.G. 31 DE AGOSTO DE 2012)
 
-D) El derecho a la intimidad y privacidad de los particulares, en relación con sus datos personales.
+D) (DEROGADO, G.G. 31 DE AGOSTO DE 2012)
+
+> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
 
 Dicho órgano será responsable de promover y difundir estas garantías y resolver los procedimientos relacionados con éstas.
+
+> <small>(ADICIONADO, G.G. 31 DE AGOSTO DE 2012)</small>
+
+Los particulares tendrán acceso preferente a la información personal que de ellos posea cualquier sujeto obligado, en los términos y condiciones establecidas en la Ley de Protección de Datos Personales del Estado de México.
 
 ### Capítulo II. De las Definiciones
 
@@ -145,7 +163,7 @@ XVI. Derecho de Acceso a la Información: Es la facultad que tiene toda persona 
 
 La información pública generada, administrada o en posesión de los Sujetos Obligados en ejercicio de sus atribuciones, será accesible de manera permanente a cualquier persona, privilegiando el principio de máxima publicidad de la información. Los Sujetos Obligados deben poner en práctica, políticas y programas de acceso a la información que se apeguen a criterios de publicidad, veracidad, oportunidad, precisión y suficiencia en beneficio de los solicitantes.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 24 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE JULIO DE 2008)</small>
 
 ###### Artículo 4.
 
@@ -153,9 +171,11 @@ Toda persona tiene el derecho de acceso a la información pública, sin necesida
 
 En materia política, solo podrán ejercer este derecho los mexicanos.
 
+> <small>(REFORMADO, G.G. 31 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 5.
 
-Toda persona que acredite la titularidad de sus datos personales, en posesión de los Sujetos Obligados, tiene derecho a saber si se está procesando información y a solicitar las rectificaciones o supresiones que correspondan cuando los registros sean ilícitos, injustificados o inexactos y a conocer los destinatarios cuando esta información sea transmitida.
+En el caso de los derechos, los principios, los procedimientos, las medidas de seguridad en el tratamiento, y demás disposiciones en materia de datos personales se deberá estar a lo que dispone la Ley de Protección de Datos Personales del Estado de México.
 
 ###### Artículo 6.
 
@@ -217,7 +237,7 @@ Los Sujetos Obligados sólo proporcionarán la información que generen en el ej
 
 ### Capítulo I. De la información Pública de Oficio
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 12.
 
@@ -373,7 +393,7 @@ VI. Pueda causar daño o alterar el proceso de investigación en averiguaciones 
 
 VII. El daño que pueda producirse con la publicación de la información sea mayor que el interés público de conocer la información de referencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 21.
 
@@ -401,7 +421,7 @@ Los Sujetos Obligados podrán solicitar autorización al Instituto para ampliar 
 
 Tratándose de información, en posesión de los Sujetos Obligados, que se relacione con el secreto comercial, industrial, fiscal, bancario, fiduciario u otro considerado como tal por alguna disposición legal, se estará a lo que la legislación de la materia establezca.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 24 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE JULIO DE 2008)</small>
 
 ###### Artículo 25.
 
@@ -421,33 +441,17 @@ III. Se entregue a los Sujetos Obligados bajo promesa de secresía.
 
 No se considerará confidencial la información que se encuentre en los registros públicos o en fuentes de acceso público, ni tampoco la que sea considerada por la presente Ley como información pública.
 
-> <small>(ADICIONADO, G.G. 24 DE JULIO DE 2008)</small>
-
 ###### Artículo 25 Bis.
 
-Los sujetos obligados son responsables de los datos personales y, en relación con éstos, deben:
-
-I. Adoptar las medidas necesarias que garanticen la seguridad de los datos personales y evite su alteración, pérdida, transmisión y acceso no autorizado; y
-
-II. Capacitar a los servidores públicos en relación a la protección de los datos personales.
-
-> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
+(DEROGADO, G.G. 31 DE AGOSTO DE 2012)
 
 ###### Artículo 26.
 
-Los sujetos obligados deben sistematizar la información que contenga datos personales en archivos seguros y confiables bajo su resguardo y responsabilidad. Solamente podrá obligarse a los sujetos obligados a proporcionar información personal para proteger la seguridad pública o la vida de las personas; dicha información será la estrictamente necesaria y no contendrá datos que puedan originar discriminación, sobre su origen racial o étnico, preferencia sexual, opiniones políticas, convicciones religiosas, filosóficas o de otro tipo, su participación en alguna asociación o la afiliación a una agrupación gremial.
-
-En lo no previsto, los sujetos obligados estarán a lo dispuesto en la Ley especial.
+(DEROGADO, G.G. 31 DE AGOSTO DE 2012)
 
 ###### Artículo 27.
 
-Los archivos con datos personales deberán ser actualizados de manera permanente y ser utilizados exclusivamente para los fines para los que fueron creados. La finalidad de un archivo y su utilización en función de ésta, deberá especificarse y justificarse. Su creación deberá ser objeto de una medida de publicidad o que permita el conocimiento de la persona interesada, a fin de que ésta ulteriormente pueda asegurarse de que:
-
-I. Los datos personales reunidos y registrados son pertinentes a la finalidad;
-
-II. Ninguno de esos datos personales es utilizado o revelado sin su consentimiento, con un propósito incompatible con el que se haya especificado; y
-
-III. El período de conservación de los datos personales no excede del necesario para alcanzar la finalidad con que se han registrado.
+(DEROGADO, G.G. 31 DE AGOSTO DE 2012)
 
 ###### Artículo 28.
 
@@ -457,7 +461,7 @@ El acuerdo que clasifique la información como confidencial deberá contener un 
 
 ### Capítulo I. De los Comités de Información
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 24 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE JULIO DE 2008)</small>
 
 ###### Artículo 29.
 
@@ -517,7 +521,9 @@ Los Sujetos Obligados contarán con un área responsable para la atención de la
 
 Los Sujetos Obligados designarán a un responsable para atender la Unidad de Información, quien fungirá como enlace entre éstos y los solicitantes. Dicha Unidad será la encargada de tramitar internamente la solicitud de información y tendrá la responsabilidad de verificar en cada caso que la misma no sea confidencial o reservada.
 
-Las Unidades de Información no podrán proporcionar a particulares los nombres de los solicitantes y el contenido de la información que se genera como resultado del procedimiento para el acceso a la información pública y corrección de datos personales.
+> <small>(REFORMADO, G.G. 31 DE AGOSTO DE 2012)</small>
+
+Las solicitudes de acceso a la información y las respuestas que se les dé, incluyendo, en su caso, la información entregada, así como las resoluciones a los recursos que en su caso se promuevan serán públicas, y de ser el caso que contenga datos personales que deban ser protegidos se podrá dar su acceso en su versión pública, siempre y cuando la resolución de referencia se someta a un proceso de disociación, es decir, no haga identificable al titular de tales datos personales.
 
 ###### Artículo 34.
 
@@ -555,7 +561,7 @@ X. Las demás que disponga esta Ley y las disposiciones reglamentarias.
 
 Cada Unidad de Información deberá elaborar un catálogo de información o de expedientes clasificados que será del conocimiento público.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 24 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE JULIO DE 2008)</small>
 
 ###### Artículo 38.
 
@@ -655,7 +661,7 @@ La Unidad de Información deberá entregar la información solicitada dentro de 
 
 En el caso de que no se cuente con la información solicitada o que ésta sea clasificada, la Unidad de Información deberá notificarlo al solicitante por escrito, en un plazo que no exceda a quince días hábiles contados a partir del día siguiente a la presentación de la solicitud. Este plazo podrá ampliarse hasta por otros siete días hábiles, siempre que existan razones para ello, debiendo notificarse por escrito al solicitante.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 48.
 
@@ -677,73 +683,29 @@ Cuando un mismo medio, impreso o electrónico, contenga información pública y 
 
 ### Capítulo V. Del Procedimiento para el Acceso y Corrección de Datos Personales
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 24 DE JULIO DE 2008)</small>
-
 ###### Artículo 50.
 
-Las Unidades de Información deberán recibir y dar curso a las solicitudes de acceso, corrección, sustitución, rectificación, o supresión total o parcial de sus datos personales. Estas solicitudes podrán hacerse por vía electrónica.
-
-Se exceptúan de esta disposición las modificaciones que estén reguladas por otros ordenamientos.
-
-> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
-
-Las respuestas negativas a las solicitudes realizadas en el ejercicio del procedimiento de corrección de datos personales, deberán ser notificadas de oficio al Instituto, para que éste proceda y requiera al omiso, respecto del fundamento y motivación legal en que se sustente su negativa. En caso de que el Instituto desestime las razones expresadas, conminará al omiso a realizar el acto solicitado.
-
-> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
+(DEROGADO, G.G. 31 DE AGOSTO DE 2012)
 
 ###### Artículo 51.
 
-Para que proceda la solicitud de modificación o supresión de sus datos personales, el interesado deberá precisarlas y aportar la documentación original o certificada que acredite su petición. Cuando a la solicitud no se adjunten los documentos respectivos, la Unidad de Información requerirá al solicitante, dentro de los cinco días hábiles siguientes a la recepción de la misma, para que los presente en un plazo no mayor de cinco días hábiles, apercibiéndolo de que en caso de no hacerlo se tendrá por no presentada, dejando a salvo su derecho para realizarla nuevamente.
-
-El Sujeto Obligado tendrá un plazo de treinta días hábiles contados a partir del día siguiente de la presentación de la solicitud para realizar las modificaciones o expresar las razones fundadas y motivadas por las que no procedieron las mismas. En ambos casos, de procedencia o improcedencia, la Unidad de Información deberá notificarlo al interesado en un plazo no mayor de quince días hábiles contados a partir del día siguiente de la presentación de la solicitud.
+(DEROGADO, G.G. 31 DE AGOSTO DE 2012)
 
 ###### Artículo 52.
 
-No será necesario el consentimiento de las personas para difundir o entregar datos personales, cuando se presenten los siguientes supuestos:
-
-I. Que la información sea necesaria para diagnóstico médico, prestación de servicios médicos o la gestión de servicios de salud, y no pueda recabarse autorización de la persona por impedimentos de salud;
-
-II. Que la información sea para fines estadísticos y científicos, siempre que ésta sea agregada, no pueda relacionarse con las personas a las que se refiere y se solicite con el fundamento jurídico correspondiente;
-
-III. Que la información sea requerida por orden judicial;
-
-IV. Que la información sea requerida para la prestación de un servicio contratado a particulares por los Sujetos Obligados. En este caso la entrega de la información se hará una vez que se haya cubierto una fianza para garantizar la secrecía, el buen manejo de la información y que sólo se utilizará para los propósitos estrictamente señalados en el contrato. Dicha fianza no exime al contratista de las responsabilidades en que pudiera incurrir por el uso indebido de la información. Una vez terminado el contrato, el particular devolverá los datos personales que para uso exclusivo y temporal le fueron otorgados;
-
-> <small>(ADICIONADA, G.G. 24 DE JULIO DE 2008)</small>
-
-V. Que los datos figuren en fuentes accesibles al público y su uso sea necesario, siempre que no se vulneren los derechos y libertades fundamentales del interesado;
-
-> <small>(ADICIONADA, G.G. 24 DE JULIO DE 2008)</small>
-
-VI. Para el ejercicio de las atribuciones propias de los sujetos obligados;
-
-> <small>(ADICIONADA, G.G. 24 DE JULIO DE 2008)</small>
-
-VII. Cuando se transmitan entre sujetos obligados o entre dependencias y entidades, siempre y cuando los datos se utilicen para el ejercicio de facultades propias de los mismos; y
-
-VIII. Los demás casos que expresamente señalen otras leyes y los reglamentos respectivos.
-
-> <small>(ADICIONADO, G.G. 24 DE JULIO DE 2008)</small>
-
-En ningún caso los datos personales podrán ser utilizados para fines electorales o de proselitismo por partido político alguno, y sólo se emplearán para los fines previstos en esta Ley o en la especial en la materia.
-
-> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
+(DEROGADO, G.G. 31 DE AGOSTO DE 2012)
 
 ###### Artículo 53.
 
-Las personas o sus representantes legales, podrán solicitar información, corrección o supresión de sus datos personales. La Unidad de Información tendrá un plazo de quince días hábiles contados a partir del día siguiente de la presentación de la solicitud para atenderla.
-
-> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
+(DEROGADO, G.G. 31 DE AGOSTO DE 2012)
 
 ###### Artículo 54.
 
-Los trámites que se realicen para el procedimiento previsto en este capítulo, así como la entrega de la información que contenga datos personales será gratuita; el particular solamente deberá cubrir los gastos de envío. No obstante, si la misma persona realiza una nueva solicitud respecto de la misma fuente de datos personales en un periodo menor a seis meses a partir de la última solicitud, deberá cubrir los costos de reproducción de acuerdo con la tarifa establecida.
-
-> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
+(DEROGADO, G.G. 31 DE AGOSTO DE 2012)
 
 ###### Artículo 55.
 
-Las Unidades de Información deberán hacer del conocimiento del Instituto el listado de las bases de datos personales que posean los Sujetos Obligados e informarle sobre su actualización.
+(DEROGADO, G.G. 31 DE AGOSTO DE 2012)
 
 ## TITULO QUINTO. DEL INSTITUTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION
 
@@ -785,13 +747,11 @@ I. Interpretar en el orden administrativo la presente Ley;
 
 II. Vigilar en el ámbito de su competencia el cumplimiento de la presente Ley;
 
-> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, G.G. 31 DE AGOSTO DE 2012)</small>
 
-III. Establecer lineamientos y criterios de carácter obligatorio en materia de acceso a la información pública, a datos personales, corrección o supresión de éstos para todos los Sujetos Obligados de la Ley, y vigilar su cumplimiento;
+III. Establecer lineamientos y criterios en materia de acceso a la información pública para todos los sujetos obligados de la Ley, y vigilar su cumplimiento;
 
-> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
-
-IV. Establecer lineamientos para el manejo, mantenimiento y seguridad de los datos personales que estén en posesión de los sujetos obligados, y vigilar su cumplimiento;
+IV. (DEROGADA, G.G. 31 DE AGOSTO DE 2012)
 
 > <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
 
@@ -807,9 +767,9 @@ VIII. Solicitar a los Sujetos Obligados los datos para la integración de su inf
 
 IX. Proporcionar asesoría y apoyo técnico a los Sujetos Obligados para la elaboración y ejecución de programas de información;
 
-> <small>(ADICIONADA, G.G. 2 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, G.G. 31 DE AGOSTO DE 2012)</small>
 
-X. Proporcionar a los sujetos obligados un sitio web tipo dentro de sus ordenadores o servidores, el cual deberá contener cuando menos la información pública de oficio, así como cualquier otra información que considere conveniente difundir en materia de transparencia, acceso a la información y protección de datos personales;
+X. Proporcionar a los sujetos obligados un sitio web tipo dentro de sus ordenadores o servidores, el cual deberá contener cuando menos la información pública de oficio, el sistema de datos personales así como cualquier otra información que considere conveniente difundir en materia de transparencia y acceso a la información;
 
 XI. Apoyar a los Sujetos Obligados en el cumplimiento de las obligaciones que les impone la presente Ley;
 
@@ -891,7 +851,7 @@ Las decisiones de los Comisionados se harán constar en actas en las que sólo s
 
 (DEROGADO, G.G. 24 DE JULIO DE 2008)
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 24 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE JULIO DE 2008)</small>
 
 ###### Artículo 63.
 
@@ -899,7 +859,7 @@ Los Comisionados y el Comisionado Presidente desempeñarán su cargo por un peri
 
 En todo caso, deberá observarse el mismo procedimiento que se siguió para la primera designación.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 24 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE JULIO DE 2008)</small>
 
 ###### Artículo 64.
 
@@ -909,7 +869,7 @@ I. Cuando en ejercicio de sus funciones transgredan en forma grave o reiterada l
 
 II. Cuando hayan sido condenados por un delito que merezca pena corporal, mediante sentencia ejecutoria.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 24 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE JULIO DE 2008)</small>
 
 ###### Artículo 65.
 
@@ -935,7 +895,7 @@ V. La resolución de la Legislatura que determine la destitución de alguno o al
 
 En el supuesto de que la Legislatura resuelva que no es el caso de proceder a la destitución, se dará por terminado el procedimiento respectivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 24 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE JULIO DE 2008)</small>
 
 ###### Artículo 66.
 
@@ -987,7 +947,7 @@ A fin de poder cumplir con sus atribuciones y objetivos, el Instituto contará c
 
 En las respuestas desfavorables a las solicitudes de acceso a la información pública o de corrección de datos personales, las unidades de información deberán informar a los interesados el derecho y plazo que tienen para promover recurso de revisión.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 24 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE JULIO DE 2008)</small>
 
 ###### Artículo 71.
 
@@ -997,9 +957,7 @@ I. Se les niegue la información solicitada;
 
 II. Se les entregue la información incompleta o no corresponda a la solicitada;
 
-> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
-
-III. Se les niegue el acceso, modificar, corregir o resguardar la confidencialidad de sus datos personales; y
+III. (DEROGADA, G.G. 31 DE AGOSTO DE 2012)
 
 > <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -1209,7 +1167,7 @@ MANUEL CADENA MORALES
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 G.G. 28 DE DICIEMBRE DE 2004.
 
@@ -1270,3 +1228,21 @@ G.G. 2 DE AGOSTO DE 2011.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 31 DE AGOSTO DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Las solicitudes y recursos de revisión en trámite a la entrada en vigor de la Ley que se crea por este Decreto se resolverán conforme a la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios.
+
+CUARTO.- Los sujetos obligados deberán conformar el registro a que se refiere el artículo 52 de esta Ley, a más tardar en un plazo de doce meses después de la entrada en vigor de la misma.
+
+QUINTO.- La Secretaría de Finanzas realizará el estudio correspondiente a fin de proponer el esquema de ampliación presupuestal para la implementación de las medidas de seguridad previstas en el Título Sexto de la presente Ley, en un plazo de ciento ochenta días posterior al inicio de su vigencia.
+
+SEXTO.- Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+SÉPTIMO.- El Presupuesto de Egresos del Estado, para el Ejercicio Fiscal de 2013, deberá considerar partidas suficientes para el adecuado funcionamiento en las materias de esta Ley, del Instituto (sic) Transparencia, Acceso a la Información y Protección de Datos Personales.
+
+Sin perjuicio de lo anterior, la Secretaría de Finanzas, en un plazo máximo de treinta días naturales, contado a partir de la entrada en vigor de la presente Ley, proveerá con sujeción a las previsiones que para tal efecto estén contenidas en el Presupuesto de Egresos del Estado, los recursos adicionales necesarios al Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales de (sic) Estado de México y Municipios, para dar inicio a la implementación de las nuevas atribuciones contenidas en esta Ley.
