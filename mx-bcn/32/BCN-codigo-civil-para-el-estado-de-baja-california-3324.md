@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2012-02-24"
+last_updated: "2012-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2012.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -1763,9 +1763,9 @@ XV.- Los hábitos de juego o de embriaguez o el uso indebido y persistente de dr
 
 XVI.- Cometer un cónyuge contra la persona o los bienes del otro, un acto que sería punible si se tratara de persona extraña, siempre que tal acto tenga señalada en la Ley una pena que pase de un año de prisión;
 
-> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2012)</small>
 
-XVII.- La separación de los cónyuges por más de dos años, independientemente de la causa que haya originado la separación, la cual podrá ser invocada por cualesquiera de ellos;
+XVII.- La separación de los cónyuges por más de un año, independientemente de la causa que haya originado la separación, la cual podrá ser invocada por cualquiera de ellos;
 
 > <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2007)</small>
 
@@ -16044,3 +16044,7 @@ P.O. 24 DE FEBRERO DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Las disposiciones contenidas en la presente reforma, serán aplicables también, a los asuntos que estén en trámite o pendientes por resolverse, en instancias jurisdiccionales. Lo anterior, fundado en el artículo 14 de la Constitución Federal, relativo a los principios de retroactividad de la ley.
+
+P.O. 31 DE AGOSTO DE 2012.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el periódico Oficial del Estado de Baja California.
