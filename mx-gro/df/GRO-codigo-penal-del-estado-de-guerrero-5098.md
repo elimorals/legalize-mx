@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-del-estado-de-guerrero-5098"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-14"
-last_updated: "2012-07-20"
+last_updated: "2012-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CÓDIGO PENAL DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 14 de noviembre de 1986.
 
@@ -1083,7 +1083,7 @@ III.- Cuando a juicio de dos médicos exista razón suficiente para suponer que 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE JULIO DE 2012)</small>
 
-### CAPÍTULO VI. DELITOS CONTRA LA SALUD EN SU MODALIDAD DE NARCOMENUDEO
+### CAPITULO VI. DELITOS CONTRA LA SALUD EN SU MODALIDAD DE NARCOMENUDEO
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1911,7 +1911,11 @@ Al que en las circunstancias arriba expresadas adquiera, reciba u oculte ganado 
 
 ### CAPITULO I. INCUMPLIMIENTO DE LAS OBLIGACIONES DE ASISTENCIA FAMILIAR
 
-188.- Al que no proporcione los recursos indispensables de subsistencia de las personas con las que tenga ese deber legal, se le impondrá prisión de tres meses a cinco años y suspensión o privación de los derechos de familia, en relación con el ofendido. Los concubinos quedan comprendidos en las disposiciones de este párrafo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2012)</small>
+
+188.- Al que no proporcione los recursos indispensables de subsistencia de las personas con las que tenga ese deber legal, se le impondrá prisión de tres meses a cinco años y suspensión o privación de los derechos de familia, en relación con el ofendido y pago como reparación de daño de las cantidades no suministradas oportunamente.
 
 Este delito se perseguirá por querella del ofendido o de su legítimo representante y a falta de éstos, el Ministerio Público procederá de oficio a reserva de que se promueva la designación de un tutor especial.
 
@@ -1925,15 +1929,27 @@ El agraviado o el representante podrá optar por demandar previamente ante las a
 
 Si el obligado paga todas las cantidades debidas o se somete al régimen de pago que el Juez le señale, garantizando el pago de las cantidades que en el futuro le corresponda satisfacer, se decretará el sobreseimiento en la causa, atendiendo a las reglas establecidas en el Código de Procedimientos Penales.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-###### ARTÍCULO 188 Bis.
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2012)</small>
 
-Las mismas sanciones se impondrán a quienes con el propósito de eludir o suspender el cumplimiento de sus obligaciones alimentarias decretadas por autoridad judicial, renuncie, abandone su trabajo, u obtenga licencia sin causa justificada.
+La acción penal se ejercerá independientemente de que se haya iniciado o no, algún procedimiento civil.
 
-Se impondrá prisión de seis meses a dos años y multa de cincuenta a cien salarios mínimos, a aquellas personas que obligadas a informar acerca de los ingresos de quienes deban cumplir con las obligaciones señaladas, incumplan con la orden judicial de hacerlo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-189.- Al que dolosamente se coloque en estado de insolvencia, con el objeto de eludir el cumplimiento de las obligaciones alimentarias que la ley determina, se le impondrá prisión de tres meses a tres años. El juez resolverá sobre la aplicación del producto del trabajo que realice el agente, a la satisfacción de las obligaciones alimentarias de éste.
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2012)</small>
+
+188 Bis.- Las sanciones anteriores se incrementarán hasta en una mitad más, cuando el deudor alimentario:
+
+I. Dolosamente se coloque en estado de insolvencia con el objeto de eludir el cumplimiento de las obligaciones alimentarias que la ley determina.
+
+II. Con el propósito de eludir o suspender el cumplimiento de sus obligaciones alimentarias decretadas en forma provisional o definitiva por autoridad judicial, renuncie, abandone su trabajo u obtenga licencia sin causa justificada o varíe de nombre y/o domicilio.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2012)</small>
+
+189.- Se impondrá prisión de seis meses a dos años y multa de cincuenta a cien salarios mínimos, aquellas personas que obligadas a informar acerca de los ingresos de quienes deban cumplir con las obligaciones señaladas, incumplan con la obligación de hacerlo o haciéndolo no lo hagan dentro del término ordenado por el juez o no lo rindan verazmente, u omitan realizar de inmediato el descuento ordenado por concepto de pensión alimentaria provisional o definitiva.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ABRIL DE 1999)</small>
 
@@ -3578,3 +3594,13 @@ PRIMERO.- El presente Decreto entrará en vigor a los sesenta días siguientes d
 SEGUNDO.- En tanto se emita la nueva Ley Orgánica de la Procuraduría General de Justicia en el Estado, la Procuraduría designara el área que se encargara de seguir y conocer los delitos contra la salud en su modalidad de narcomenudeo.
 
 TERCERO.- Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Guerrero, para los efectos legales conducentes.
+
+P.O. 31 DE AGOSTO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los dos meses siguientes del día de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Guerrero, para los efectos legales conducentes.
