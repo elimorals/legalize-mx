@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-proyectos-para-la-prestacion-de-servicios-del-estado-800
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-11"
-last_updated: "2011-12-12"
+last_updated: "2012-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80002&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE PROYECTOS PARA PRESTACIÓN DE SERVICIOS DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2012.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Puebla, el viernes 11 de febrero de 2011.
 
@@ -250,6 +250,14 @@ La contratación de los trabajos y servicios antes mencionados se sujetará a lo
 De conformidad con lo establecido en el artículo 11 de esta Ley y en la legislación en la materia, se requerirá la autorización del Congreso cuando se pretendan afectar las participaciones que en ingresos federales le correspondan al Estado o a los Municipios, para los Proyectos para Prestación de Servicios contraídos por la Entidad Pública o Dependencia de que se trate.
 
 Asimismo, el Congreso podrá decretar la desafectación de participaciones, cuando sea procedente.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2012)</small>
+
+El Ejecutivo Estatal, a través de la Secretaría de Finanzas estará facultado para afectar de forma irrevocable los ingresos del Estado derivados de contribuciones, impuestos, derechos, productos, aprovechamientos, accesorios u otros conceptos como fuente de pago, garantía o ambas, de todo tipo de obligaciones que contraiga el Estado, a través de las Dependencias o aquéllas contraídas por Entidades Púbicas o terceros prestadores de bienes o servicios, con motivo de Proyectos para Prestación de Servicios que contrate o celebre alguna de las Dependencias o Entidades Públicas antes mencionadas. Para dichos efectos el Ejecutivo Estatal, a través de la Secretaría de Finanzas podrá constituir fideicomisos, mismos que se sujetarán para su operación a lo previsto en el propio contrato de fideicomiso y en las disposiciones mercantiles correspondientes y no formarán parte de la Administración Pública Paraestatal. Los ingresos derivados de contribuciones, impuestos, derechos, productos, aprovechamientos, accesorios u otros conceptos afectos a los fideicomisos señalados en el presente párrafo se considerarán desincorporados temporalmente del patrimonio del Estado.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2012)</small>
+
+El Ejecutivo Estatal, a través de la Secretaría de Finanzas deberá crear y mantener un registro en donde se inscriban las afectaciones realizadas.
 
 ###### ARTÍCULO 19.
 
@@ -1016,3 +1024,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- En los procedimientos que se encuentren en trámite, se observará la aplicación del presente Decreto.
+
+P.O. 31 DE AGOSTO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+ARTÍCULOS (SIC) SEGUNDO.- En los procedimientos que se encuentren en trámite, se observará lo dispuesto en el presente Decreto.
