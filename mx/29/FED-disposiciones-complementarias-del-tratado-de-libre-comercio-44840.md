@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-448
 country: "mx"
 rank: "otro"
 publication_date: "1998-06-30"
-last_updated: "2012-06-29"
+last_updated: "2012-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44840&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,6 +20,8 @@ issue_date: "1998-06-25"
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO (REPUBLICA DE NICARAGUA,1997)
 
 ACUERDO POR EL QUE SE DA A CONOCER LA TASA APLICABLE A PARTIR DEL 1 DE JULIO DE 2012 DEL IMPUESTO GENERAL DE IMPORTACIÓN PARA LAS MERCANCÍAS ORIGINARIAS DE LA REPÚBLICA DE NICARAGUA
+
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL ACUERDO POR EL QUE SE DA A CONOCER LA TASA APLICABLE DEL IMPUESTO GENERAL DE IMPORTACIÓN PARA LAS MERCANCÍAS ORIGINARIAS DE COSTA RICA, EL SALVADOR, GUATEMALA, HONDURAS Y NICARAGUA, PUBLICADO EN EL D.O.F. DE 31 DE AGOSTO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
 Acuerdo publicado en la Novena Sección del Diario Oficial de la Federación, el viernes 29 de julio de 2012.
 
@@ -136,3 +138,15 @@ Quinto.- Lo dispuesto en el presente Acuerdo no libera del cumplimiento de medid
 UNICO.- El presente Acuerdo entrará en vigor el 1 de julio de 2012.
 
 México, D.F., a 15 de junio de 2012.- El Secretario de Economía, Bruno Ferrari García de Alba.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 31 DE AGOSTO DE 2012.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el 1 de septiembre de 2012.
+
+SEGUNDO.- Los puntos 1 al 10, 18 al 33, 35 y 37 y Apéndices 1, 3 y 4 del presente Acuerdo, en lo que corresponde a Costa Rica, Guatemala y Honduras, entrarán en vigor a partir de la fecha en que entre en vigor entre México y cada uno de los países mencionados, el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de Costa Rica, El Salvador, Guatemala, Honduras y Nicaragua. Para tal efecto, la Secretaría de Economía publicará en el Diario Oficial de la Federación un aviso en el que se indique que dicha situación se ha cumplido.
+
+TERCERO.- Se derogan los puntos 1, 3, 4, 5, 6, 7, 13, 14, 15, 17 y 18 y el Apéndice en lo aplicable a El Salvador del Acuerdo por el que se da a conocer la tasa aplicable a partir del 1 de julio de 2012 del Impuesto General de Importación para las mercancías originarias de El Salvador, Guatemala y Honduras, publicado en el Diario Oficial de la Federación el 29 de junio de 2012.
+
+CUARTO.- Se abroga el Acuerdo por el que se da a conocer la tasa aplicable a partir del 1 de julio de 2012 del Impuesto General de Importación para las mercancías originarias de la República de Nicaragua, publicado en el Diario Oficial de la Federación el 29 de junio de 2012.
