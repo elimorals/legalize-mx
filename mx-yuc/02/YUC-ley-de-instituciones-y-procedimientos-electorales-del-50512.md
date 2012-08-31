@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-instituciones-y-procedimientos-electorales-del-50512"
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-24"
-last_updated: "2010-10-04"
+last_updated: "2012-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "YUC"
 ---
 # LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATAN
 
-LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATAN
+LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATÁN
 
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO TERCERO TRANSITORIO DEL DECRETO MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTICULOS DE LA CONSTITUCION POLITICA DEL ESTADO DE YUCATAN, PUBLICADO EN EL D.O. 4 DE OCTUBRE DE 2010, CUALQUIER REFERENCIA QUE EN OTRAS DISPOSICIONES JURIDICAS Y ADMINISTRATIVAS SE REALICEN DE LAS DENOMINACIONES DE GRAN COMISION, COMISION PERMANENTE DE HACIENDA PUBLICA, INSPECCION DE LA CONTADURIA MAYOR DE HACIENDA Y PATRIMONIO ESTATAL Y MUNICIPAL EN RELACION A CUENTA PUBLICA, OFICIALIA MAYOR DEL CONGRESO Y TESORERIA DEL CONGRESO, SE ENTENDERAN POR JUNTA DE GOBIERNO Y COORDINACION POLITICA, VIGILANCIA DE LA CUENTA PUBLICA Y TRANSPARENCIA, SECRETARIA GENERAL DEL PODER LEGISLATIVO Y DIRECCION GENERAL DE ADMINISTRACION Y FINANZAS, RESPECTIVAMENTE.</small>
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, PUBLICADO EN EL D.O. 4 DE OCTUBRE DE 2010, CUALQUIER REFERENCIA QUE EN OTRAS DISPOSICIONES JURÍDICAS Y ADMINISTRATIVAS SE REALICEN DE LAS DENOMINACIONES DE GRAN COMISIÓN, COMISIÓN PERMANENTE DE HACIENDA PÚBLICA, INSPECCIÓN DE LA CONTADURÍA MAYOR DE HACIENDA Y PATRIMONIO ESTATAL Y MUNICIPAL EN RELACIÓN A CUENTA PÚBLICA, OFICIALÍA MAYOR DEL CONGRESO Y TESORERÍA DEL CONGRESO, SE ENTENDERÁN POR JUNTA DE GOBIERNO Y COORDINACIÓN POLÍTICA, VIGILANCIA DE LA CUENTA PÚBLICA Y TRANSPARENCIA, SECRETARÍA GENERAL DEL PODER LEGISLATIVO Y DIRECCIÓN GENERAL DE ADMINISTRACIÓN Y FINANZAS, RESPECTIVAMENTE.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 4 DE OCTUBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE AGOSTO DE 2012.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el miércoles 24 de mayo de 2006.
 
@@ -92,6 +92,14 @@ Para el desempeño de sus funciones, los organismos electorales tendrán el apoy
 La aplicación de las normas de esta Ley corresponde, en sus respectivos ámbitos de competencia: al Instituto, al Tribunal y al Congreso.
 
 La interpretación de esta Ley se hará conforme a los criterios gramatical, sistemático y funcional. A falta de disposición expresa, se aplicarán los principios generales del derecho con base en lo dispuesto en el último párrafo del artículo 14 de la Constitución General de la República.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 31 DE AGOSTO DE 2012)</small>
+
+###### Artículo 4 Bis.
+
+Para garantizar el goce de los derechos políticos previstos para los ciudadanos yucatecos, en la aplicación de la Ley deberán observarse los principios de igualdad, no discriminación y de equidad.
 
 ## TÍTULO SEGUNDO
 
@@ -226,6 +234,14 @@ VIII.- Las demás que señale la presente Ley.
 Es derecho de los ciudadanos yucatecos afiliarse a los partidos políticos en forma libre e individual.
 
 Es obligación de los ciudadanos yucatecos integrar las mesas directivas de casilla, en los términos de esta Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 31 DE AGOSTO DE 2012)</small>
+
+###### Artículo 17 Bis.
+
+Los ciudadanos yucatecos podrán ejercer su derecho a ser votado para todos los cargos de elección popular y nombrado para cualquier otro empleo o comisión, de conformidad con lo dispuesto en la Constitución y esta Ley.
 
 ### CAPÍTULO II. DE LOS OBSERVADORES
 
@@ -437,7 +453,11 @@ Los documentos a los que se refiere la fracción I del artículo anterior se aju
 
 I.- La declaración de principios contendrá, necesariamente:
 
-a) La obligación de observar la Constitución General de la República, la Constitución del Estado y de respetar las leyes e instituciones que de ambas emanen;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 31 DE AGOSTO DE 2012)</small>
+
+a) La obligación de observar la Constitución Política de los Estados Unidos Mexicanos, la Constitución del Estado y de respetar las leyes e instituciones que de ambas emanen, así como los principios de igualdad y no discriminación en los términos de esta Ley, sus estatutos y demás normatividad aplicable;
 
 b) Las bases ideológicas de carácter político, económico y social que postule;
 
@@ -461,11 +481,23 @@ III.- Los estatutos establecerán:
 
 a) La denominación del propio partido político estatal, el emblema y el color o colores que lo caractericen y diferencien de otros partidos políticos. La denominación y el emblema estarán exentos de alusiones religiosas o raciales;
 
-b) Los procedimientos para la afiliación individual, libre y pacífica de sus miembros, así como sus derechos y obligaciones. Dentro de los derechos se incluirán el de participar personalmente o por medio de delegados en asambleas y convenciones, y el de poder ser integrante de los órganos directivos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-c) Los procedimientos democráticos para la integración y renovación de sus órganos directivos así como las funciones, facultades y obligaciones de los mismos. Entre sus órganos deberá contar, cuando menos, con una asamblea estatal o equivalente; un comité estatal o equivalente, que sea el representante estatal del partido; Comités o equivalentes en los municipios o distritos electorales uninominales; y un órgano responsable de la administración de su patrimonio y recursos financieros y de la presentación de los informes de ingresos y egresos anuales y de campaña a que se refiere esta Ley;
+> <small>(REFORMADO, D.O. 31 DE AGOSTO DE 2012)</small>
 
-d) Las normas para la postulación democrática de sus candidatos;
+b) Los procedimientos para la afiliación individual, libre y pacífica de sus miembros, así como sus derechos y obligaciones. Dentro de los derechos se incluirán el de participar personalmente o por medio de delegados en asambleas y convenciones, y el de poder ser integrante de los órganos directivos, en condiciones de equidad de género, garantizándose en toda circunstancia la igualdad de oportunidades entre mujeres y hombres para ser integrantes de dichos órganos de dirección;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 31 DE AGOSTO DE 2012)</small>
+
+c) Los procedimientos democráticos para la integración y renovación de sus órganos directivos, donde se incluyan medidas que garanticen la participación paritaria entre hombres y mujeres, así como las funciones, facultades y obligaciones de los mismos. Entre sus órganos deberá contar, cuando menos, con una asamblea estatal o equivalente; un comité estatal o equivalente, que sea el representante estatal del partido; comités o equivalentes en los municipios o distritos electorales uninominales; y un órgano responsable de la administración de su patrimonio y recursos financieros y de la presentación de los informes de ingresos y egresos anuales y de campaña a que se refiere esta Ley;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 31 DE AGOSTO DE 2012)</small>
+
+d) Las normas para la postulación democrática de sus candidatos, mismas que deberán prever condiciones de equidad de género.
 
 e) La obligación de presentar una plataforma electoral, para cada elección en que participe, sustentada en su declaración de principios y programa de acción;
 
@@ -693,7 +725,11 @@ XVI.- Destinar los bienes de que dispongan al cumplimiento de sus fines y utiliz
 
 XVII.- Informar al Instituto sobre el origen monto y aplicación de sus recursos financieros, permitir la práctica de auditorías y otras acciones de fiscalización que ordene el Consejo General, así como entregar la documentación que le solicite respecto a sus ingresos y egresos la Comisión Permanente de Fiscalización;
 
-XVIII.- Promover que el acceso al ejercicio del poder público se dé en condiciones de equidad de género y participación política, de jóvenes menores de 30 años en igualdad de oportunidades, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 31 DE AGOSTO DE 2012)</small>
+
+XVIII.- Garantizar y promover que el acceso al ejercicio del poder público se dé en condiciones de equidad de género y con la participación política de jóvenes menores de 30 años en igualdad de oportunidades, y
 
 XIX.- Las demás que establezca esta Ley.
 
@@ -705,7 +741,17 @@ Los partidos políticos estatales, una vez iniciado el proceso electoral, en nin
 
 El incumplimiento de las obligaciones establecidas en este capítulo, se sancionará en los términos que establece esta Ley y el Código Penal del Estado de Yucatán.
 
-Las sanciones administrativas se aplicarán por las autoridades electorales, con independencia de la responsabilidad civil o penal que en su caso pudiera exigirse en los términos de la ley a los partidos y agrupaciones políticas, dirigentes y candidatos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 31 DE AGOSTO DE 2012)</small>
+
+El Instituto y el Tribunal, serán las autoridades responsables de fiscalizar el cumplimiento de las obligaciones de los partidos políticos establecidas en el presente Capítulo en el ámbito de sus respectivas competencias.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 31 DE AGOSTO DE 2012)</small>
+
+Las sanciones administrativas se aplicarán por las autoridades electorales, con independencia de la responsabilidad civil o penal que en su caso pudiera exigirse en los términos de la Ley a los partidos y agrupaciones políticas, dirigentes y candidatos.
 
 ###### Artículo 49.
 
@@ -955,9 +1001,17 @@ III.- Para actividades específicas como entidades de interés público:
 
 a) La educación, capacitación y profesionalización política, investigación socioeconómica y política, así como las tareas editoriales de los partidos políticos, serán apoyadas mediante financiamiento público por un monto total anual equivalente al 5% del que corresponda en el mismo año para las actividades ordinarias a que se refiere la fracción I de este artículo; el monto total será distribuido en los términos establecidos en el inciso c) de la fracción antes citada.
 
-En este mismo rubro y para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres, cada partido político deberá destinar anualmente el 2% del financiamiento para actividades específicas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-b) El Consejo General a través de la Unidad Técnica de Fiscalización, vigilará que los partidos políticos destinen el financiamiento a que se refiere la presente fracción, exclusivamente a las actividades señaladas, y
+> <small>(REFORMADO, D.O. 31 DE AGOSTO DE 2012)</small>
+
+En este mismo rubro y para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres, con base en un programa anual, cada partido político deberá garantizar anualmente al menos el 2% del financiamiento para actividades específicas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 31 DE AGOSTO DE 2012)</small>
+
+b) El Consejo General a través de la Unidad Técnica de Fiscalización, vigilará que los partidos políticos destinen el financiamiento a que se refiere la presente fracción, exclusivamente a las actividades señaladas, y que cumplan con las actividades del respectivo programa anual para promover el avance de los derechos políticos de las mujeres, y
 
 c) Las cantidades que en su caso se determinen para cada partido político, serán entregadas en ministraciones mensuales conforme al calendario presupuestal que se apruebe anualmente.
 
@@ -1075,7 +1129,11 @@ d) Los motivos y fundamento de derecho en que se sustente, y
 
 e) El señalamiento expreso del medio de impugnación que procede en contra del dictamen y el plazo de interposición del mismo.
 
-VI.- En el Consejo General se presentará el dictamen y proyecto de resolución que haya formulado la Unidad Técnica de Fiscalización, y se procederá a imponer, en su caso, las sanciones correspondientes;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 31 DE AGOSTO DE 2012)</small>
+
+VI.- En el Consejo General se presentará el dictamen y proyecto de resolución que haya formulado la Unidad Técnica de Fiscalización, y se procederá a imponer, en su caso, las sanciones correspondientes, conforme el artículo 391 de esta Ley, y
 
 VII.- Los partidos políticos podrán impugnar ante el Tribunal Electoral del Estado la resolución que en su caso emita el Consejo General, en la forma y términos previstos en la ley de la materia.
 
@@ -1559,7 +1617,11 @@ c) Tener domicilio legal en el Estado, y
 
 d) Tener como objeto o fin la realización de actividades de carácter académico, cultural, profesional o social.
 
-III.- Las organizaciones ciudadanas, dentro del plazo de 10 días hábiles, posteriores a dicha publicación, presentarán ante la Oficialía Mayor del Congreso, la propuesta que contendrá:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE AGOSTO DE 2012)</small>
+
+III.- Las organizaciones ciudadanas, dentro del plazo de 10 días hábiles, posteriores a dicha publicación, presentarán ante la Secretaría General del Poder Legislativo, la propuesta que contendrá:
 
 a) La aceptación por escrito del candidato;
 
@@ -1597,15 +1659,21 @@ i) No ser titular de alguna dependencia del Poder Legislativo, de la Administrac
 
 j) No ser ni haber sido dirigente en los órganos nacionales, estatales o municipales, de algún partido o agrupación política, durante los 3 años previos al de la elección.
 
-V.- Recibidas las propuestas, la Oficialía Mayor las turnará inmediatamente, con sus respectivos anexos, a la Comisión Permanente de Legislación, Puntos Constitucionales, Gobernación y Asuntos Electorales, que elaborará una lista de aspirantes, misma que será publicada en los periódicos de mayor circulación en el Estado, en los 5 días naturales posteriores a la conclusión del plazo previsto en la fracción anterior;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 31 DE AGOSTO DE 2012)</small>
+
+V.- Recibidas las propuestas, la Secretaría General del Poder Legislativo, las turnará inmediatamente, con sus respectivos anexos, a la Comisión Permanente de Puntos Constitucionales y Gobernación, que elaborará una lista de aspirantes, misma que será publicada en los periódicos de mayor circulación en el Estado, en los 5 días naturales posteriores a la conclusión del plazo previsto en la fracción anterior;
 
 > <small>(F. DE E., D.O. 28 DE SEPTIEMBRE DE 2006)</small>
 
 VI.- De manera simultánea la misma Comisión, verificará que los propuestos y los proponentes satisfagan los requisitos de Ley, notificándose a estos últimos por estrados sobre las omisiones detectadas, para que en un plazo de 3 días hábiles siguientes las subsanen, con el apercibimiento que de no cumplir en tiempo y forma, se tendrá por no presentada la propuesta;
 
-> <small>(F. DE E., D.O. 28 DE SEPTIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VII.- Vencido el plazo para subsanar las omisiones, y dentro de los 5 días hábiles siguientes, la Comisión Permanente de Legislación, Puntos Constitucionales, Gobernación y Asuntos Electorales, revisará y calificará las propuestas que cumplieron los requisitos de ley, elaborará la lista de candidatos y efectuará una nueva publicación en los periódicos de mayor circulación en el Estado. El nombramiento de los consejeros electorales, propietarios y suplentes, se deberá hacer dentro de los 10 días hábiles siguientes a tal publicación;
+> <small>(REFORMADA, D.O. 31 DE AGOSTO DE 2012)</small>
+
+VII.- Vencido el plazo para subsanar las omisiones, y dentro de los 5 días hábiles siguientes, la Comisión Permanente de Puntos Constitucionales y Gobernación, revisará y calificará las propuestas que cumplieron los requisitos de ley, elaborará la lista de candidatos y efectuará una nueva publicación en los periódicos de mayor circulación en el Estado. El nombramiento de los consejeros electorales, propietarios y suplentes, se deberá hacer dentro de los 10 días hábiles siguientes a tal publicación;
 
 > <small>(F. DE E., D.O. 28 DE SEPTIEMBRE DE 2006)</small>
 
@@ -2131,11 +2199,19 @@ En caso de no ser reelecto el titular de la Contraloría, se deberá iniciar el 
 
 El procedimiento de elección será el siguiente:
 
-I.- La Comisión Permanente de Puntos Constitucionales, Gobernación y Asuntos Electorales, expedirá una convocatoria pública dirigida a las instituciones de educación superior, organizaciones y agrupaciones profesionales y organismos empresariales debidamente registrados, con la finalidad de allegarse propuestas de candidatos al cargo de Contralor General del Instituto.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE AGOSTO DE 2012)</small>
+
+I.- La Comisión Permanente de Puntos Constitucionales y Gobernación, expedirá una convocatoria pública dirigida a las instituciones de educación superior, organizaciones y agrupaciones profesionales y organismos empresariales debidamente registrados, con la finalidad de allegarse propuestas de candidatos al cargo de Contralor General del Instituto.
 
 La convocatoria deberá publicarse a más tardar treinta días antes de la fecha en que deba realizarse la designación.
 
-II.- Las instituciones de educación superior, organizaciones y agrupaciones profesionales y organismos empresariales presentarán ante la Oficialía Mayor del Congreso del Estado hasta dos propuestas;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 31 DE AGOSTO DE 2012)</small>
+
+II.- Las instituciones de educación superior, organizaciones y agrupaciones profesionales y organismos empresariales presentarán ante la Secretaría General del Poder Legislativo hasta dos propuestas;
 
 III.- Las propuestas deberán presentarse en sobre cerrado, dentro de los quince días naturales siguientes al de la publicación de la convocatoria, anexando la siguiente documentación:
 
@@ -2155,13 +2231,25 @@ c) Currículum Vitae, y
 
 d) Carta del proponente en la que se expresen las razones por las cuales se considera idónea la propuesta presentada.
 
-IV.- La Oficialía Mayor enviará los sobres conteniendo las propuestas a la Comisión Permanente de Puntos Constitucionales, Gobernación y Asuntos Electorales para su validación;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-V.- La Comisión Permanente de Puntos Constitucionales, Gobernación y Asuntos Electorales revisará y validará que las propuestas cumplan con los requisitos establecidos en esta misma ley;
+> <small>(REFORMADA, D.O. 31 DE AGOSTO DE 2012)</small>
+
+IV.- La Secretaría General del Poder Legislativo enviará los sobres conteniendo las propuestas a la Comisión Permanente de Puntos Constitucionales y Gobernación para su validación;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE AGOSTO DE 2012)</small>
+
+V.- La Comisión Permanente de Puntos Constitucionales y Gobernación revisará y validará que las propuestas cumplan con los requisitos establecidos en esta misma ley;
 
 La Comisión revisará cada una de las propuestas, validando la documentación presentada. Si de la revisión se advierte que se omitió la entrega de algún documento o los presentados no son idóneos para acreditar el cumplimiento de los requisitos, se notificará al promovente respectivo para que dentro de las cuarenta y ocho horas siguientes a la de la notificación, presente la documentación procedente.
 
-VI.- La Comisión Permanente de Puntos Constitucionales, Gobernación y Asuntos Electorales elaborará un Dictamen de Acuerdo de los candidatos que hubieren cumplido con los requisitos de ley, y lo turnará al Pleno del Congreso para su aprobación, e inmediatamente realice la elección correspondiente;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 31 DE AGOSTO DE 2012)</small>
+
+VI.- La Comisión Permanente de Puntos Constitucionales y Gobernación elaborará un Dictamen de Acuerdo de los candidatos que hubieren cumplido con los requisitos de ley, y lo turnará al Pleno del Congreso para su aprobación, e inmediatamente realice la elección correspondiente;
 
 VII.- En la sesión del Congreso el día de la elección, a cada Diputado se le entregará un listado conteniendo los nombres de las propuestas, de entre los cuales votará por sólo una de ellas;
 
@@ -2173,7 +2261,11 @@ X.- Participarán en el proceso de insaculación, las propuestas que hayan alcan
 
 XI.- El Presidente y los Secretarios de la Mesa Directiva serán los responsables del procedimiento de insaculación en la misma sesión, y de declarar quien ha sido electo Contralor General del Instituto.
 
-Para efectos de una posible reelección, el Contralor General del Instituto deberá rendir anualmente informe escrito de sus actividades, el que dirigirá a todos los integrantes de la Legislatura a través del Presidente de la Comisión Permanente de Puntos Constitucionales, Gobernación y Asuntos Electorales.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 31 DE AGOSTO DE 2012)</small>
+
+Para efectos de una posible reelección, el Contralor General del Instituto deberá rendir anualmente informe escrito de sus actividades, el que dirigirá a todos los integrantes de la Legislatura a través del Presidente de la Comisión Permanente de Puntos Constitucionales y Gobernación.
 
 El electo o designado, rendirá protesta en sesión del Congreso o de la Diputación Permanente, según sea el caso.
 
@@ -2195,7 +2287,11 @@ V.- Incumplir alguna de las obligaciones establecidas en la Ley de Responsabilid
 
 El Consejo General podrá interponer la solicitud de sanción o remoción del Contralor, acreditando los elementos suficientes.
 
-El Congreso del Estado resolverá sobre la aplicación de las sanciones al contralor, incluida entre éstas la remoción, por causas graves de responsabilidad administrativa, debiendo garantizar el derecho de audiencia al afectado, previa instrucción que realice la Comisión Permanente de Puntos Constitucionales, Gobernación y Asuntos Electorales. La remoción requerirá del voto de las dos terceras partes de los Diputados del Congreso.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 31 DE AGOSTO DE 2012)</small>
+
+El Congreso del Estado resolverá sobre la aplicación de las sanciones al contralor, incluida entre éstas la remoción, por causas graves de responsabilidad administrativa, debiendo garantizar el derecho de audiencia al afectado, previa instrucción que realice la Comisión Permanente de Puntos Constitucionales y Gobernación. La remoción requerirá del voto de las dos terceras partes de los Diputados del Congreso.
 
 > <small>(ADICIONADO, D.O. 3 DE JULIO DE 2009)</small>
 
@@ -3153,15 +3249,27 @@ c) Las candidaturas a regidores de ayuntamientos, se registrarán por planillas 
 
 d) Ninguna persona podrá ser registrada como candidato a distintos cargos de elección popular o postulado simultáneamente como candidato de mayoría y representación proporcional, en el mismo proceso electoral.
 
-II.- Con el objeto de que la representación popular en el Poder Legislativo del Estado, se dé en condiciones de equidad de género, y garantizar la igualdad de oportunidades entre mujeres y hombres para ser postulados como candidatos a diputados por los partidos políticos y coaliciones; las solicitudes se ajustarán a lo siguiente:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-a) De la totalidad de solicitudes de registro de candidaturas a diputados que presenten los partidos políticos o las coaliciones, en ningún caso incluirán más del 70% de candidatos propietarios de un mismo género, y
+> <small>(REFORMADA, D.O. 31 DE AGOSTO DE 2012)</small>
 
-b) En las listas de candidatos a diputados por el principio de representación proporcional dentro de las 3 primeras candidaturas habrá una candidatura de género distinto.
+II.- Con objeto de que la representación popular en el Poder Legislativo del Estado y en los ayuntamientos, se dé en condiciones de equidad de género y garantizar la igualdad de oportunidades entre mujeres y hombres para ser postulados como candidatos a diputados y regidores por los partidos políticos y coaliciones; las solicitudes se ajustarán a lo siguiente:
+
+a) De la totalidad de solicitudes de registro de candidaturas a diputados por el principio de mayoría relativa que presenten los partidos políticos o las coaliciones, en ningún caso incluirán más del 70% de candidatos propietarios de un mismo género, exceptuándose aquellas candidaturas que sean resultado de un proceso de elección interna democrático, conforme a los estatutos de cada partido;
+
+b) En las listas de candidatos a diputados por el principio de representación proporcional deberá haber dos candidaturas del mismo género, dentro de los tres primeros lugares de la lista;
+
+c) En las listas de candidatos a regidores de los ayuntamientos, no podrá incluirse más del 70% de candidatos propietarios de un mismo género, y
+
+d) Tratándose de fórmulas en que el candidato propietario sea el del género femenino, los suplentes deberán ser del mismo género.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 190.
 
-Para tener derecho a registrar candidatos a todo cargo de elección popular, el partido político postulante deberá presentar y obtener el registro de la plataforma electoral que sus candidatos sostendrán en las campañas políticas.
+Para tener derecho a registrar candidatos a todo cargo de elección popular, el partido político o coalición postulante deberá cumplir con los requisitos establecidos en el artículo anterior, así como presentar y obtener el registro de la plataforma electoral que sus candidatos sostendrán en las campañas políticas.
 
 La plataforma electoral deberá presentarse para su registro ante el Consejo General dentro de los primeros 15 días del mes de marzo del año de la elección. Cuando así lo solicite el partido interesado se le expedirá la constancia del registro respectivo.
 
@@ -4391,9 +4499,11 @@ II.- Remitir al Consejo General, el expediente del cómputo distrital de la elec
 
 III.- Remitir al Consejo General, el expediente del cómputo distrital de la elección de diputados de mayoría relativa con las actas originales de las casillas, el original del acta de cómputo distrital y cualquier otra documentación relativa a dicha elección;
 
-> <small>(F. DE E., D.O. 28 DE SEPTIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV.- Remitir, una vez cumplido el plazo para la interposición del recurso de inconformidad, a la Oficialía Mayor del Congreso del Estado, copia certificada de la constancia de mayoría y validez de la fórmula de candidatos a diputados de mayoría relativa que la hubiese obtenido, y
+> <small>(REFORMADA, D.O. 31 DE AGOSTO DE 2012)</small>
+
+IV.- Remitir, una vez cumplido el plazo para la interposición del recurso de inconformidad, a la Secretaría General del Poder Legislativo, copia certificada de la constancia de mayoría y validez de la fórmula de candidatos a diputados de mayoría relativa que la hubiese obtenido, y
 
 V.- Remitir al Consejo General, copia de los recursos de inconformidad que se hubiesen interpuesto en contra de los resultados de los cómputos distritales de las elecciones de diputados.
 
@@ -4503,7 +4613,15 @@ El Presidente del Consejo General, una vez integrados los expedientes procederá
 
 I.- Remitir al Tribunal, cuando se hubiere interpuesto el recurso de inconformidad, junto con éste, copia certificada del expediente de cómputo estatal de la elección cuyos resultados hayan sido impugnados y el informe respectivo, y
 
-II.- Remitir, una vez cumplido el plazo para la interposición del recurso de inconformidad, a la Oficialía Mayor del Congreso del Estado, copias certificadas de las constancias de asignación extendidas a los diputados electos por el sistema de representación proporcional y copia de toda la documentación relativa a la elección por este sistema.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 31 DE AGOSTO DE 2012)</small>
+
+II.- Remitir, una vez cumplido el plazo para la interposición del recurso de inconformidad, a la Secretaría General del Poder Legislativo, copias certificadas de las constancias de asignación extendidas a los diputados electos por el sistema de representación proporcional y copia de toda la documentación relativa a la elección por este sistema.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 31 DE AGOSTO DE 2012)</small>
 
 El Presidente del Consejo General conservará en su poder una copia certificada de las actas de cómputo distrital de la elección de Gobernador y originales de toda la documentación de cada uno de los expedientes de los cómputos estatales.
 
@@ -4765,7 +4883,11 @@ c) Tener domicilio legal en el Estado, y
 
 d) Tener como objeto o fin la realización de actividades de carácter académico, cultural, profesional o social.
 
-III.- Las organizaciones ciudadanas, dentro del plazo de 10 días hábiles, posteriores a dicha publicación, presentarán ante la Oficialía Mayor del Congreso, la propuesta que contendrá:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE AGOSTO DE 2012)</small>
+
+III.- Las organizaciones ciudadanas, dentro del plazo de 10 días hábiles, posteriores a dicha publicación, presentarán ante la Secretaría General del Poder Legislativo, la propuesta que contendrá:
 
 a) La aceptación por escrito del candidato;
 
@@ -4781,11 +4903,19 @@ f) Domicilio en el Estado de Yucatán, y
 
 g) Las demás constancias que acrediten la idoneidad para el ejercicio del cargo.
 
-IV.- Recibidas las propuestas, la Oficialía Mayor las turnará inmediatamente, con sus respectivos anexos, a la Comisión Permanente de Legislación, Puntos Constitucionales, Gobernación y Asuntos Electorales, que elaborará una lista de aspirantes, misma que será publicada en los periódicos de mayor circulación en el Estado, en los 5 días naturales posteriores a la conclusión del plazo previsto en la fracción anterior;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 31 DE AGOSTO DE 2012)</small>
+
+IV.- Recibidas las propuestas, la Secretaría General del Poder Legislativo las turnará inmediatamente, con sus respectivos anexos, a la Comisión Permanente de Puntos Constitucionales y Gobernación, que elaborará una lista de aspirantes, misma que será publicada en los periódicos de mayor circulación en el Estado, en los 5 días naturales posteriores a la conclusión del plazo previsto en la fracción anterior;
 
 V.- De manera simultánea la misma Comisión, verificará que los propuestos y los proponentes satisfagan los requisitos de Ley, notificándose a estos últimos por estrados sobre las omisiones detectadas, para que en un plazo de 3 días hábiles siguientes las subsanen, con el apercibimiento que de no cumplir en tiempo y forma, se tendrá por no presentada la propuesta;
 
-VI.- Vencido el plazo para subsanar las omisiones, y dentro de los 5 días hábiles siguientes, la Comisión Permanente de Legislación, Puntos Constitucionales, Gobernación y Asuntos Electorales, revisará y calificará las propuestas que cumplieron los requisitos de ley, elaborará la lista de candidatos y efectuará una nueva publicación en los periódicos de mayor circulación en el Estado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE AGOSTO DE 2012)</small>
+
+VI.- Vencido el plazo para subsanar las omisiones, y dentro de los 5 días hábiles siguientes, la Comisión Permanente de Puntos Constitucionales y Gobernación, revisará y calificará las propuestas que cumplieron los requisitos de ley, elaborará la lista de candidatos y efectuará una nueva publicación en los periódicos de mayor circulación en el Estado.
 
 > <small>(F. DE E., D.O. 28 DE SEPTIEMBRE DE 2006)</small>
 
@@ -5973,7 +6103,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 ABOG. PEDRO FRANCISCO RIVAS GUTIÉRREZ
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
 
 D.O. 22 DE ENERO DE 2007.
 
@@ -6128,3 +6258,9 @@ El Director de Evaluación del Presupuesto será nombrado en el plazo que establ
 ###### ARTÍCULO DÉCIMO SEGUNDO.
 
 En tanto se expida Ley reglamentaria de la fracción XL, del artículo 30 y la Ley reglamentaria del Título Décimo a que se refiere el artículo 98 de la Constitución Política del Estado de Yucatán, permanecerán vigentes los Títulos Octavo y Noveno de la Ley Orgánica del Poder Legislativo del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado en fecha 24 de febrero de 1988, mediante Decreto Número 6, misma que se abroga mediante esta Ley.
+
+D.O. 31 DE AGOSTO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+Este Decreto entrará en vigor a los 180 días posteriores a su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
