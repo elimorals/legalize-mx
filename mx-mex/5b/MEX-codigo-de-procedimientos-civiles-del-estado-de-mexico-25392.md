@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-civiles-del-estado-de-mexico-25392"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-01"
-last_updated: "2012-08-10"
+last_updated: "2012-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25392&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE AGOSTO DE 2012.
 
 Código publicado en el Gaceta del Gobierno del Estado de México, el lunes 1 de julio del 2002.
 
@@ -45,17 +45,17 @@ CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MEXICO
 
 ## TITULO PRIMERO. Jurisdicción
 
-Inicio dispositivo e impulso procesal oficioso
-
-###### Artículo 1.
-
-2.- La jurisdicción civil sólo se ejercerá mediante instancia de parte, pero mientras se mantenga en ejercicio, corresponde al Juez desarrollar el proceso de oficio, salvo los casos en que la ley exija la petición de parte.
-
 Ejercicio de la jurisdicción
 
 ###### Artículo 1.
 
 1.- Corresponde a los Tribunales del Poder Judicial, la facultad de interpretar y aplicar las leyes en los asuntos del orden civil y familiar del fuero común, lo mismo que del orden federal, en los casos en que expresamente lo ordene la ley.
+
+Inicio dispositivo e impulso procesal oficioso
+
+###### Artículo 1.
+
+2.- La jurisdicción civil sólo se ejercerá mediante instancia de parte, pero mientras se mantenga en ejercicio, corresponde al Juez desarrollar el proceso de oficio, salvo los casos en que la ley exija la petición de parte.
 
 Normas genéricas de la jurisdicción
 
@@ -2149,13 +2149,13 @@ Generalidad de la prueba
 
 ###### Artículo 1.
 
-268.- La confesión sólo produce efecto en lo que perjudica al que la hace.
+267.- La confesión es expresa y tácita o ficta. Es expresa la que se hace clara y terminantemente al formular o contestar la demanda, al absolver posiciones, o en cualquier otro acto del proceso. Es tácita o ficta cuando la ley lo señala.
 
-Clases de confesión
+Efectos de la confesión
 
 ###### Artículo 1.
 
-267.- La confesión es expresa y tácita o ficta. Es expresa la que se hace clara y terminantemente al formular o contestar la demanda, al absolver posiciones, o en cualquier otro acto del proceso. Es tácita o ficta cuando la ley lo señala.
+268.- La confesión sólo produce efecto en lo que perjudica al que la hace.
 
 Sólo las partes pueden absolver posiciones
 
@@ -2219,7 +2219,7 @@ Calificación de las posiciones
 
 ### CAPITULO II. De la Confesión
 
-Efectos de la confesión
+Clases de confesión
 
 ###### Artículo 1.
 
@@ -6971,9 +6971,11 @@ Denuncia por terceros
 
 Citación a los presuntos herederos
 
+> <small>(REFORMADO, G.G. 31 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 4.
 
-44.- El Juez al radicar la sucesión ordenará notificarla a las personas señaladas como presuntos herederos legítimos para que, dentro de los treinta días siguientes, justifiquen sus derechos a la herencia; pedirá informes al Archivo General de Notarías y al Registro Público de la Propiedad sobre la existencia de testamento.
+44.- El Juez al radicar la sucesión ordenará notificar a las personas señaladas como presuntos herederos legítimos para que, dentro de los treinta días siguientes, justifiquen sus derechos a la herencia; pedirá informes al Archivo General de Notarías que será acompañado por el reporte de búsqueda expedido por el Registro Nacional de Avisos de Testamento y al Registro Público de la Propiedad sobre la existencia de testamento.
 
 Declaración de herederos
 
@@ -8520,3 +8522,11 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Quedan sin efectos las normas jurídicas de igual o inferior jerarquía, en cuanto se opongan al presente Decreto.
+
+G.G. 31 DE AGOSTO DE 2012
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan los ordenamientos jurídicos de igual o menor jerarquía, que se opongan a lo dispuesto por el presente Decreto.
