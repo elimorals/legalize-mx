@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-mecanismo-de-seguimiento-y-evaluacion-del-83846"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-11-23"
-last_updated: "2011-11-23"
+last_updated: "2012-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83846&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2011-09-30"
 ---
 # REGLAMENTO DEL MECANISMO DE SEGUIMIENTO Y EVALUACION DEL PROGRAMA DE DERECHOS HUMANOS DEL DISTRITO FEDERAL
 
-REGLAMENTO DEL MECANISMO DE SEGUIMIENTO Y EVALUACION DEL PROGRAMA DE DERECHOS HUMANOS DEL DISTRITO FEDERAL
+REGLAMENTO DEL MECANISMO DE SEGUIMIENTO Y EVALUACIÓN DEL PROGRAMA DE DERECHOS HUMANOS DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE AGOSTO DE 2012.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el miércoles 23 de noviembre de 2011.
 
@@ -82,9 +82,11 @@ Los actos y la organización del Mecanismo de Seguimiento y Evaluación del Prog
 
 ### Capítulo II. Del Comité de Seguimiento y Evaluación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 5.
 
-Para el cumplimiento de sus atribucionesel (sic) Comité tendrá las siguientes funciones:
+Para el cumplimiento de sus atribuciones el Comité tendrá las siguientes funciones:
 
 I. Elaborar y aprobar los lineamientos, el perfil y los términos de la convocatoria correspondientes para la selección del o la Titular de la Secretaria Ejecutiva. El Comité adoptará las medidas necesarias para garantizar un adecuado proceso de selección, incluyendo la etapa de designacióndefinitiva (sic) del cargo convocado;
 
@@ -120,13 +122,17 @@ XVI. Retroalimentar a los Espacios de participacióncon (sic) la información ne
 
 XVII. Coadyuvar al cumplimiento de los acuerdos tomados en losEspacios (sic) de participación;
 
-XVIII. Celebrar acuerdos, convenios de colaboración o contratos con entidades federativas, instancias e instituciones que tengan experiencia en materia de derechos humanos;
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2012)</small>
+
+XVIII. Celebrar acuerdos, convenios de colaboración o contratos con entidades federativas, instancias e instituciones que tengan experiencia en materia de derechos humanos, para lo cual podrá delegara (sic) la persona Titular de la Secretaría Ejecutiva, previo acuerdo alcanzado en Asamblea del CSyE;
 
 XIX. Aprobar el proyecto de presupuesto del Mecanismo;
 
 XX. Aprobar los mecanismos y procedimientos diseñados por la Secretaría Ejecutiva, para que las instancias ejecutoras proporcionen la información requerida para los fines de la orientación, seguimiento y evaluación del Programa;
 
-XXI. Llevar a cabo los actos jurídicos que se requieran para los fines de la Ley;
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2012)</small>
+
+XXI. Llevar a cabo los actos jurídicos que se requieran para los fines de la Ley, a través de la persona Titular de la Secretaría Ejecutiva;
 
 XXII. Establecer lineamientos para evitar el conflicto de intereses de los entes implementadores al momento de la toma de decisiones del Comité, así como para delimitar las funciones de la Secretaría Ejecutiva respecto de aquellas propias de las y los integrantes del Comité;
 
@@ -310,9 +316,13 @@ XIV. Asistir técnicamente al Comité en la gestión de fondos;
 
 XV. Apoyar al Comité en las tareas de coordinación técnica de conformidad con elartículo (sic) 30 del presente Reglamento.
 
-Para tales efectos designará a una o un responsable; y
+Para tales efectos designará a una o un responsable; y (sic)
 
 XVI. Las demás que establezca el presente Reglamento y los acuerdos y lineamientos adoptados por el Comité.
+
+> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2012)</small>
+
+XVII. Revisar, otorgar, celebrar y suscribir los contratos, convenios y demás actos jurídicos de carácter administrativo o de cualquier otra índole dentro del ámbito de su respectiva competencia, necesarios para el ejercicio de sus funciones, así como realizar, sustanciar, promover o acordar lo necesario para que dichos instrumentos se cumplan en sus términos, de los cuales deberá rendir un informe al Comité.
 
 ###### Artículo 22.
 
@@ -703,3 +713,9 @@ Lic. Alfredo Elizondo Rosales
 Por Propuesta Cívica, A.C.
 
 Lic. Abraham Rojas Martínez
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 31 DE AGOSTO DE 2012.
+
+EL ACUERDO DEL COMITÉ DE SEGUIMIENTO Y EVALUACIÓN DEL PROGRAMA DE DERECHOS HUMANOS DEL DISTRITO FEDERAL CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL VIGENTE.
