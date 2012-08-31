@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-notariado-del-estado-de-mexico-23258"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-03"
-last_updated: "2002-01-03"
+last_updated: "2012-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23258&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # LEY DEL NOTARIADO DEL ESTADO DE MEXICO
 
-LEY DEL NOTARIADO DEL ESTADO DE MEXICO
+LEY DEL NOTARIADO DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 31 DE AGOSTO DE 2012.
 
 Ley publicada en la Gaceta del Gobierno, el 3 de enero de 2002.
 
@@ -775,11 +775,17 @@ El notario ante quien se revoque o renuncie un poder que haya sido otorgado ante
 
 Se prohibe a los notarios revocar o modificar el contenido de una escritura mediante razón complementaria. En estos casos, salvo prohibición expresa de la Ley, deberá extenderse nueva escritura y hacerla constar en nota complementaria en la escritura anterior.
 
+> <small>(REFORMADO, G.G. 31 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 95.
 
-El notario ante quien se otorgue un testamento público abierto, cerrado o simplificado dará aviso al Archivo dentro de los quince días hábiles siguientes al de su otorgamiento, expresando la fecha del testamento, nombre y generales del testador; si el testamento fuera cerrado, indicará además el lugar o persona en cuyo poder se depositó; cuando el testador exprese el nombre de sus padres, se incluirá este dato en el aviso. Los notarios serán responsables de los daños y perjuicios que ocasione la dilación u omisión de dicho informe.
+El notario ante quien se otorgue un testamento público abierto o simplificado dará aviso al Archivo dentro de los diez días hábiles siguientes al de su otorgamiento, expresando la fecha del testamento, nombre y generales del testador; cuando el testador exprese el nombre de sus padres, se incluirá este dato en el aviso. Los notarios serán responsables de los daños y perjuicios que ocasione la dilación u omisión de dicho informe.
 
-Los jueces o los notarios ante quienes se tramite una sucesión, recabarán del Archivo, del Registro Público de la Propiedad y del Archivo Judicial, la información de si en ellos se encuentra registrado testamento otorgado por la persona de cuya sucesión se trata. La omisión de este requisito los hará responsables de los daños y perjuicios que ocasionen.
+Los jueces o los notarios ante quienes se tramite una sucesión, recabarán del Archivo, del Registro Público de la Propiedad, del Archivo Judicial y del Registro Nacional de Avisos de Testamento, la información de si en ellos se encuentra registrado testamento otorgado por la persona de cuya sucesión se trata. La omisión de este requisito los hará responsables de los daños y perjuicios que ocasionen.
+
+El formato de aviso de otorgamiento de testamento se llevará a cabo en términos de las disposiciones aplicables que para tal efecto se expidan.
+
+El Archivo, al recibir un aviso de testamento deberá darlo de alta por medios electrónicos en el sistema local y en el Registro Nacional de Avisos de Testamento a más tardar dentro de los diez días hábiles siguientes a la fecha de su recepción, el resultado de la búsqueda en el sistema local y en la base nacional, se deberá anexar al informe que se rinda sobre la existencia o inexistencia de testamentos.
 
 ###### Artículo 96.
 
@@ -1418,3 +1424,13 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MANUEL CADENA MORALES
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 31 DE AGOSTO DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan los ordenamientos jurídicos de igual o menor jerarquía, que se opongan a lo dispuesto por el presente Decreto.
