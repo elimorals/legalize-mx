@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-884
 country: "mx"
 rank: "otro"
 publication_date: "2012-06-29"
-last_updated: "2012-06-29"
+last_updated: "2012-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88448&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "2012-06-15"
 
 ACUERDO POR EL QUE SE DA A CONOCER LA TASA APLICABLE A PARTIR DEL 1 DE JULIO DE 2012 DEL IMPUESTO GENERAL DE IMPORTACIÓN PARA LAS MERCANCÍAS ORIGINARIAS DE EL SALVADOR, GUATEMALA Y HONDURAS
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ÚNICO DEL "ACUERDO POR EL QUE SE ABROGA EL DIVERSO POR EL QUE SE DA A CONOCER LA TASA APLICABLE A PARTIR DEL 1 DE JULIO DE 2012 DEL IMPUESTO GENERAL DE IMPORTACIÓN PARA LAS MERCANCÍAS ORIGINARIAS DE EL SALVADOR, GUATEMALA Y HONDURAS, PUBLICADO EL 29 DE JUNIO DE 2012", PUBLICADO EN EL D.O.F. DE 27 DE AGOSTO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE AGOSTO DE 2012.
 
 Acuerdo publicado en la Novena Sección del Diario Oficial de la Federación, el viernes 29 de junio de 2012.
 
@@ -49,7 +47,7 @@ Que en razón de lo anterior, y siendo necesario dar a conocer a los operadores 
 
 Acuerdo
 
-1.- Conforme a lo dispuesto en el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras, la importación de las mercancías originarias de la región conformada por México, El Salvador, Guatemala y Honduras, independientemente de su clasificación en la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, estará exenta del pago de arancel, salvo aquellas mercancías en que se indique lo contrario en el presente Acuerdo y su Apéndice.
+1.- (DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO POR EL QUE SE DA A CONOCER LA TASA APLICABLE DEL IMPUESTO GENERAL DE IMPORTACIÓN PARA LAS MERCANCÍAS ORIGINARIAS DE COSTA RICA, EL SALVADOR, GUATEMALA, HONDURAS Y NICARAGUA, D.O.F. 31 DE AGOSTO DE 2012)
 
 2.- Para los efectos del presente Acuerdo se entiende por:
 
@@ -61,27 +59,15 @@ III. mercancías originarias de la región: las mercancías originarias de la re
 
 IV. Tratado: el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de El Salvador, Guatemala y Honduras.
 
-3.- La tasa arancelaria aplicable a la importación de las mercancías originarias de la región, se rige por lo previsto en el presente Acuerdo y su Apéndice, salvo que el Artículo 1o. de la LIGIE, establezca una tasa arancelaria menor, en cuyo caso, se aplicará esta última.
+3.- (DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO POR EL QUE SE DA A CONOCER LA TASA APLICABLE DEL IMPUESTO GENERAL DE IMPORTACIÓN PARA LAS MERCANCÍAS ORIGINARIAS DE COSTA RICA, EL SALVADOR, GUATEMALA, HONDURAS Y NICARAGUA, D.O.F. 31 DE AGOSTO DE 2012)
 
-Las tasas arancelarias preferenciales se expresan en términos ad-valorem, salvo que en la columna relativa a la tasa se establezca un arancel específico, el cual se expresa en términos de dólares o centavos de dólar de los Estados Unidos de América, o un arancel mixto.
+4.- (DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO POR EL QUE SE DA A CONOCER LA TASA APLICABLE DEL IMPUESTO GENERAL DE IMPORTACIÓN PARA LAS MERCANCÍAS ORIGINARIAS DE COSTA RICA, EL SALVADOR, GUATEMALA, HONDURAS Y NICARAGUA, D.O.F. 31 DE AGOSTO DE 2012)
 
-4.- Para determinar la tasa arancelaria preferencial que deberá aplicarse a la importación de las mercancías originarias de la región, se procederá de la siguiente manera:
+5.- (DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO POR EL QUE SE DA A CONOCER LA TASA APLICABLE DEL IMPUESTO GENERAL DE IMPORTACIÓN PARA LAS MERCANCÍAS ORIGINARIAS DE COSTA RICA, EL SALVADOR, GUATEMALA, HONDURAS Y NICARAGUA, D.O.F. 31 DE AGOSTO DE 2012)
 
-Cuando las tasas aplicables a El Salvador, Guatemala y Honduras, sean iguales para una misma fracción arancelaria, conforme a las columnas del Apéndice, la tasa se aplicará por igual a las mercancías originarias de esta región. En caso de ser distintas, se estará a lo previsto en el Anexo 3-04(5) “Programa de Desgravación Arancelaria” del Tratado:
+6.- (DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO POR EL QUE SE DA A CONOCER LA TASA APLICABLE DEL IMPUESTO GENERAL DE IMPORTACIÓN PARA LAS MERCANCÍAS ORIGINARIAS DE COSTA RICA, EL SALVADOR, GUATEMALA, HONDURAS Y NICARAGUA, D.O.F. 31 DE AGOSTO DE 2012)
 
-(a) la tasa correspondiente a “El Salvador”, se aplicará a las mercancías para las que la determinación de origen sea de conformidad con el párrafo 10(a) del Anexo 3-04(5) del Tratado;
-
-(b) la tasa correspondiente a “Guatemala”, se aplicará a las mercancías para las que la determinación de origen sea de conformidad con el párrafo 11(a) del Anexo 3-04(5) del Tratado, y
-
-(c) la tasa correspondiente a “Honduras”, se aplicará a las mercancías para las que la determinación de origen sea de conformidad con el párrafo 12(a) del Anexo 3-04(5) del Tratado.
-
-5.- De conformidad con lo establecido en el Anexo 3-19 “Niveles de Flexibilidad Temporal entre México y El Salvador y Guatemala”, modificado mediante la Decisión No. 11 de la Comisión Administradora del Tratado, la tasa arancelaria correspondiente a las mercancías originarias de la región se aplicará a las mercancías no originarias procedentes de Honduras, que se clasifiquen en las partidas 55.12, 55.13, 55.14, 55.15, 55.16, 60.01, 60.02, 60.03, 60.04, 60.05 y 60.06, siempre que el importador adjunte al pedimento de importación un certificado de elegibilidad expedido por la Secretaría de Economía.
-
-6.- El arancel aplicable a la importación de las mercancías originarias de la región, comprendidas en las fracciones arancelarias que se señalan en el Apéndice de este Acuerdo, será el previsto en el Artículo 1o. de la LIGIE, sin reducción alguna.
-
-La importación de las mercancías clasificadas en las fracciones arancelarias marcadas con (*) se rige por lo previsto en el punto 1 del presente Acuerdo. La importación de las mercancías clasificadas en las fracciones arancelarias que se identifican con el código “S” bajo el rubro nota se rige por lo previsto en los puntos 9 u 11 del presente Acuerdo, según corresponda.
-
-7.- El arancel aplicable a la importación de las mercancías originarias de la región, comprendidas en las fracciones arancelarias identificadas con el código “EXCL.” en el Apéndice y en los puntos 10, 12 y 14 de este Acuerdo, será el previsto en el Artículo 1o. de la LIGIE, sin reducción alguna.
+7.- (DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO POR EL QUE SE DA A CONOCER LA TASA APLICABLE DEL IMPUESTO GENERAL DE IMPORTACIÓN PARA LAS MERCANCÍAS ORIGINARIAS DE COSTA RICA, EL SALVADOR, GUATEMALA, HONDURAS Y NICARAGUA, D.O.F. 31 DE AGOSTO DE 2012)
 
 8.- El arancel aplicable a la importación de las mercancías originarias de la región comprendidas en las fracciones arancelarias que se señalan en este punto, que correspondan a “Guatemala” conforme al punto 4, inciso (b) de este Acuerdo, únicamente cuando se trate de la modalidad de la mercancía que se indica, será el siguiente:
 
@@ -295,87 +281,19 @@ inferior al 0.6%, en peso.
 
 1/ Arancel aplicable a partir del 1 de julio de 2012.
 
-13.- El arancel aplicable a la importación de las mercancías originarias de la región comprendidas en las fracciones arancelarias que se señalan en este punto que correspondan a “El Salvador” conforme al punto 4, inciso (a) de este Acuerdo, únicamente cuando se trate de la modalidad de la mercancía que se indica, será el siguiente:
+13.- (DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO POR EL QUE SE DA A CONOCER LA TASA APLICABLE DEL IMPUESTO GENERAL DE IMPORTACIÓN PARA LAS MERCANCÍAS ORIGINARIAS DE COSTA RICA, EL SALVADOR, GUATEMALA, HONDURAS Y NICARAGUA, D.O.F. 31 DE AGOSTO DE 2012)
 
-Fracción Arancel a partir de 2012 1/ Modalidad de la mercancía
+14.- (DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO POR EL QUE SE DA A CONOCER LA TASA APLICABLE DEL IMPUESTO GENERAL DE IMPORTACIÓN PARA LAS MERCANCÍAS ORIGINARIAS DE COSTA RICA, EL SALVADOR, GUATEMALA, HONDURAS Y NICARAGUA, D.O.F. 31 DE AGOSTO DE 2012)
 
-7214.20.01 2.5 Varilla corrugada o barras para
-
-armaduras, para cemento
-
-u hormigón.
-
-7216.21.01 2.5 De espesor superior o igual a 1.8
-
-mm pero inferior o igual a 6.4 mm
-
-y altura superior a 12 mm.
-
-1/ Arancel aplicable a partir del 1 de julio de 2012.
-
-Lo dispuesto en este punto sólo será aplicable a las mercancías que cuenten con un certificado de cupo expedido por la Secretaría de Economía.
-
-14.- El arancel aplicable a la importación de las mercancías originarias de la región comprendidas en las fracciones arancelarias que se señalan en este punto que correspondan a “El Salvador” conforme al punto 4, inciso (a) de este Acuerdo, únicamente cuando se trate de la modalidad de la mercancía que se indica, será el siguiente:
-
-Fracción Arancel a partir de 2012 1/ Modalidad de la mercancía
-
-0210.11.01 Ex. Jamones salados, secos
-
-(especialmente por deshidratación
-
-o por liofilización) o ahumados.
-
-0402.91.99 Ex. Leche condensada sin azúcar.
-
-0402.99.99 Ex. Leche evaporada con azúcar.
-
-0704.90.99 EXCL. Repollo.
-
-1604.19.01 EXCL. Productos que contengan atún.
-
-1604.19.02 EXCL. Productos que contengan atún.
-
-1604.19.99 EXCL. Productos que contengan atún.
-
-1604.20.99 EXCL. Productos que contengan atún.
-
-1904.90.99 EXCL. Arroz precocido.
-
-2103.90.99 EXCL. Mayonesa.
-
-7214.99.99 Ex. De sección transversal cuadrada
-
-cuya mayor dimensión sea superior
-
-a 13 mm, con un contenido de
-
-carbono superior o igual al 0.6% en
-
-peso.
-
-7217.10.99 Ex. Con un contenido de carbono
-
-superior o igual al 0.25% pero
-
-inferior al 0.6%, en peso.
-
-1/ Arancel aplicable a partir del 1 de julio de 2012.
-
-15.- La importación de las mercancías originarias de la región comprendidas en las fracciones arancelarias que se señalan en este punto que correspondan a “El Salvador” conforme al punto 4, inciso (a) de este Acuerdo, estará sujeta a 40% de preferencia entre la menor tasa del arancel de nación más favorecida (NMF) vigente al momento de la importación o el arancel correspondiente a la tasa base del Tratado, incluyendo la prevista en la Decisión No. 9 de la Comisión Administradora del Tratado, que se indica en este punto, ya sea para la totalidad de las mercancías incluidas en cada fracción o si así se establece, únicamente para la modalidad de la mercancía indicada:
-
-> <small>N. DE E. VÉASE TABLAS EN LA NOVENA SECCIÓN DEL D.O.F. DE 29 DE JUNIO DE 2012, PÁGINAS DE LA 58 A LA 60.</small>
+15.- (DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO POR EL QUE SE DA A CONOCER LA TASA APLICABLE DEL IMPUESTO GENERAL DE IMPORTACIÓN PARA LAS MERCANCÍAS ORIGINARIAS DE COSTA RICA, EL SALVADOR, GUATEMALA, HONDURAS Y NICARAGUA, D.O.F. 31 DE AGOSTO DE 2012)
 
 16.- La importación de las mercancías originarias de la región comprendidas en las fracciones arancelarias que se señalan en este punto que correspondan a “Guatemala” y “Honduras” conforme al punto 4, incisos (b) y (c), respectivamente, de este Acuerdo, estará sujeta a 40% de preferencia entre la menor tasa del arancel de nación más favorecida (NMF) vigente al momento de la importación o el arancel correspondiente a la tasa base del Tratado que se indica en este punto, ya sea para la totalidad de las mercancías incluidas en cada fracción o si así se establece, únicamente para la modalidad de la mercancía indicada:
 
 > <small>N. DE E. VÉASE TABLAS EN LA NOVENA SECCIÓN DEL D.O.F. DE 29 DE JUNIO DE 2012, PÁGINAS DE LA 61 A LA 62.</small>
 
-17.- La importación de las mercancías originarias de la región comprendidas en la fracción arancelaria que se señala en este punto que correspondan a “El Salvador”, “Guatemala” y “Honduras” conforme al punto 4 incisos (a), (b) y (c), respectivamente, de este Acuerdo, estará sujeta a 35% de reducción arancelaria aplicable sobre la menor de las tasas entre la tasa del arancel de nación más favorecida (NMF) vigente al momento de la importación o la tasa arancelaria del 20% establecida en el Tratado.
+17.- (DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO POR EL QUE SE DA A CONOCER LA TASA APLICABLE DEL IMPUESTO GENERAL DE IMPORTACIÓN PARA LAS MERCANCÍAS ORIGINARIAS DE COSTA RICA, EL SALVADOR, GUATEMALA, HONDURAS Y NICARAGUA, D.O.F. 31 DE AGOSTO DE 2012)
 
-Fracción Descripción
-
-2203.00.01 Cerveza de Malta.
-
-18.- La importación de mercancías procedentes de “El Salvador”, “Guatemala” y “Honduras” que se clasifiquen en el capítulo 62 de la LIGIE y que cumplan con lo establecido en el Anexo 3-20 “Trato arancelario preferencial para los bienes clasificados en el Capítulo 62 del Sistema Armonizado que incorporen materiales de los Estados Unidos de América” del Tratado estarán exentas del pago de arancel, siempre que el importador adjunte al pedimento de importación un certificado de elegibilidad expedido por la Secretaría de Economía.
+18.- (DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO POR EL QUE SE DA A CONOCER LA TASA APLICABLE DEL IMPUESTO GENERAL DE IMPORTACIÓN PARA LAS MERCANCÍAS ORIGINARIAS DE COSTA RICA, EL SALVADOR, GUATEMALA, HONDURAS Y NICARAGUA, D.O.F. 31 DE AGOSTO DE 2012)
 
 19.- Lo dispuesto en el presente Acuerdo no libera del cumplimiento de medidas de regulación y restricción no arancelarias en términos de lo dispuesto en los tratados de libre comercio celebrados por México, la Ley de Comercio Exterior, la Ley Aduanera y las demás disposiciones aplicables.
 
@@ -391,14 +309,16 @@ APENDICE DEL ACUERDO POR EL QUE SE DA A CONOCER LA TASA APLICABLE A PARTIR DEL 1
 
 > <small>N. DE E. VÉASE TABLAS EN LA NOVENA SECCIÓN DEL D.O.F. DE 29 DE JUNIO DE 2012, PÁGINAS DE LA 63 A LA 69.</small>
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>(DEROGADO EL APÉNDICE EN LO APLICABLE A EL SALVADOR POR EL TRANSITORIO TERCERO DEL ACUERDO POR EL QUE SE DA A CONOCER LA TASA APLICABLE DEL IMPUESTO GENERAL DE IMPORTACIÓN PARA LAS MERCANCÍAS ORIGINARIAS DE COSTA RICA, EL SALVADOR, GUATEMALA, HONDURAS Y NICARAGUA, D.O.F. 31 DE AGOSTO DE 2012)</small>
 
-D.O.F. 27 DE AGOSTO DE 2013.
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-> <small>N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL ORDENAMIENTO.</small>
+D.O.F. 31 DE AGOSTO DE 2012.
 
-ÚNICO.- Se abroga el Acuerdo por el que se da a conocer la tasa aplicable a partir del 1 de julio de 2012 del Impuesto General de Importación para las mercancías originarias de El Salvador, Guatemala y Honduras, publicado en el Diario Oficial de la Federación el 29 de junio de 2012.
+PRIMERO.- El presente Acuerdo entrará en vigor el 1 de septiembre de 2012.
 
-## TRANSITORIO
+SEGUNDO.- Los puntos 1 al 10, 18 al 33, 35 y 37 y Apéndices 1, 3 y 4 del presente Acuerdo, en lo que corresponde a Costa Rica, Guatemala y Honduras, entrarán en vigor a partir de la fecha en que entre en vigor entre México y cada uno de los países mencionados, el Tratado de Libre Comercio entre los Estados Unidos Mexicanos y las Repúblicas de Costa Rica, El Salvador, Guatemala, Honduras y Nicaragua. Para tal efecto, la Secretaría de Economía publicará en el Diario Oficial de la Federación un aviso en el que se indique que dicha situación se ha cumplido.
 
-ÚNICO.- El presente Acuerdo entrará en vigor el 1 de septiembre de 2013.
+TERCERO.- Se derogan los puntos 1, 3, 4, 5, 6, 7, 13, 14, 15, 17 y 18 y el Apéndice en lo aplicable a El Salvador del Acuerdo por el que se da a conocer la tasa aplicable a partir del 1 de julio de 2012 del Impuesto General de Importación para las mercancías originarias de El Salvador, Guatemala y Honduras, publicado en el Diario Oficial de la Federación el 29 de junio de 2012.
+
+CUARTO.- Se abroga el Acuerdo por el que se da a conocer la tasa aplicable a partir del 1 de julio de 2012 del Impuesto General de Importación para las mercancías originarias de la República de Nicaragua, publicado en el Diario Oficial de la Federación el 29 de junio de 2012.
