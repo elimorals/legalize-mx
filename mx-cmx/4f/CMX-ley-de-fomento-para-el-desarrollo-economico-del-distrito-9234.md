@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-fomento-para-el-desarrollo-economico-del-distrito-9234"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-26"
-last_updated: "2010-04-26"
+last_updated: "2012-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9234&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "1996-12-18"
 ---
 # LEY DE FOMENTO PARA EL DESARROLLO ECONOMICO DEL DISTRITO FEDERAL
 
-LEY DE FOMENTO PARA EL DESARROLLO ECONOMICO DEL DISTRITO FEDERAL
+LEY DE FOMENTO PARA EL DESARROLLO ECONÓMICO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE ABRIL DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE AGOSTO DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 26 de diciembre de 1996.
 
@@ -42,11 +42,11 @@ LEY DE FOMENTO PARA EL DESARROLLO ECONOMICO DEL DISTRITO FEDERAL
 
 ### CAPITULO UNICO. Del objeto y ámbito de aplicación de la Ley
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 1o.
 
-Las disposiciones de esta Ley son de orden público e interés general y tienen por objeto promover y fomentar las actividades económicas, así como conservar y aumentar el empleo, en el marco de un desarrollo sostenido y equilibrado del Distrito Federal; así como la aplicación de la Ciencia y la Tecnología en estas materias.
+Las disposiciones de esta Ley son de orden público e interés general y tienen por objeto promover y fomentar el desarrollo económico, así como conservar y aumentar el empleo, en el marco de un desarrollo sostenido y equilibrado del Distrito Federal; así como la aplicación de la Ciencia y la Tecnología en estas materias.
 
 Las actividades de fomento y el desarrollo económico del Distrito Federal se sujetarán y deberán ser congruentes con lo establecido por el artículo 26 constitucional, con la Ley de Planeación, el Plan Nacional de Desarrollo y el Programa General de Desarrollo del Distrito Federal.
 
@@ -56,7 +56,9 @@ La presente Ley tiene los siguientes objetivos:
 
 I. Impulsar en forma sostenida nuevas fuentes de empleo y conservar las ya existentes;
 
-II. Fomentar la inversión productiva y la competitividad de las empresas generando un entorno favorable para las actividades económicas;
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2012)</small>
+
+II. Fomentar la inversión productiva y la competitividad de las empresas generando un entorno favorable para las actividades económicas, el comportamiento ético y promoviendo la igualdad de oportunidades entre las empresas;
 
 III. Contribuir al desarrollo económico en congruencia con los ordenamientos de ecología, protección al ambiente, de desarrollo urbano y protección civil;
 
@@ -68,19 +70,25 @@ VI. Promover la acción conjunta de los sectores público, privado y social en e
 
 VII. Alentar la competitividad, modernización y eficiencia de las empresas por medio de un desarrollo tecnológico propio, adecuado a las circunstancias del Distrito Federal y vinculado a los centros de producción tecnológica, y (sic)
 
-> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2012)</small>
 
-VIII. Alentar la competitividad y los servicios sociales que se requieran para lograr que los trabajadores sean altamente productivos y competitivos, para lo cual se deberá: generar empleos estables, bien remunerados, en igualdad de condiciones para hombres y mujeres, orientados hacia los sectores más vulnerables y proporcionándoles seguridad social; y
+VIII. Alentar la competitividad y los servicios sociales que se requieran para lograr que los trabajadores sean altamente productivos y competitivos, para lo cual se deberá: generar empleos estables, bien remunerados, en igualdad de condiciones para hombres y mujeres, orientados hacia los sectores más vulnerables y proporcionándoles seguridad social;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 4 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2012)</small>
 
-IX. Fomentar e impulsar la utilización de los productos y servicios derivados de los programas de Ciencia y Tecnología que tenga a su cargo el Instituto de Ciencia y Tecnología del Distrito Federal, en materia de desarrollo económico.
+IX. Fomentar e impulsar la utilización de los productos y servicios derivados de los programas de Ciencia y Tecnología que tenga a su cargo el Instituto de Ciencia y Tecnología del Distrito Federal, en materia de desarrollo económico;
+
+> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2012)</small>
+
+X. Fortalecer las políticas públicas para incrementar e impulsar la infraestructura industrial, comercial y de servicios en el Distrito Federal.
 
 ###### Artículo 3o.
 
 Para los efectos de la presente Ley, se entenderá por:
 
-I. Actividades sujetas a fomento: las que cumplen con la normatividad técnica y jurídica aplicable, particularmente en materia de desarrollo urbano, agropecuario, medio ambiente y protección civil, así como los programas, acuerdos y convenios que precisarán las características correspondientes y que cumplan con alguno de los siguientes requisitos: que se ubiquen en zonas de fomento económico a que se refiere esta Ley; que generen los empleos que se determinen; que sustituyan importaciones; que cuenten con potencial exportador; o que apliquen en sus procesos productivos tecnología nacional o importada que permita el uso eficiente de agua y energéticos;
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2012)</small>
+
+I. Actividades sujetas a fomento: las que cumplen con la normatividad técnica y jurídica aplicable, particularmente en materia de desarrollo urbano, agropecuario, medio ambiente y protección civil, así como los programas, acuerdos y convenios que precisarán las características correspondientes y que cumplan con alguno de los siguientes requisitos: que se ubiquen en zonas de fomento económico a que se refiere esta Ley; que generen los empleos de manera formal; que fomenten el cooperativismo, que sustituyan importaciones; que cuenten con potencial exportador; que inviertan en la creación de nuevas tecnologías, o que apliquen en sus procesos productivos tecnología nacional o importada que permita el uso eficiente de agua y energéticos;
 
 II. Administración Pública: las dependencias y entidades que integran la Administración Pública centralizada y paraestatal del Distrito Federal, en los términos de la Ley Orgánica de la Administración Pública del Distrito Federal;
 
@@ -94,9 +102,13 @@ VI. Empresa: unidad económica constituida conforme a la legislación vigente, d
 
 VII. Estímulos: las medidas jurídicas, administrativas, fiscales y financieras que aplicarán las dependencias y entidades de la administración pública local, competentes para promover y facilitar el desarrollo de las actividades económicas sujetas a fomento;
 
-VIII. Fomento: el conjunto de políticas públicas y concertación de acciones con los sectores privado y social para incidir en los factores que promueven el desarrollo económico;
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2012)</small>
 
-IX. Infraestructura productiva: el conjunto de instalaciones materiales que inciden en la competitividad para la producción y distribución de bienes y servicios;
+VIII. Fomento: Acciones económicas, jurídicas, sociales, comerciales, de coordinación, de capacitación o tecnológicas, que contribuyen al desarrollo económico;
+
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2012)</small>
+
+IX. Infraestructura productiva: el conjunto de instalaciones materiales y capital humano que inciden en la competitividad para la producción y distribución de bienes y servicios;
 
 X. Jefe de Gobierno: el Jefe de Gobierno del Distrito Federal;
 
@@ -112,11 +124,11 @@ XIV. Programa: el Programa de Fomento Económico del Distrito Federal;
 
 XV. Secretaría: la Secretaría de Desarrollo Económico;
 
-> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2012)</small>
 
-XVI. Zona de fomento económico: los espacios territoriales comprendidos en las áreas de actuación susceptibles de desarrollo económico, en los términos de las disposiciones legales de aplicación en el Distrito Federal, y
+XVI. Zona de fomento económico: los espacios territoriales comprendidos en las áreas de actuación susceptibles de desarrollo económico, en los términos de las disposiciones legales de aplicación en el Distrito Federal;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 4 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2012)</small>
 
 XVII. Instituto. Al Instituto de Ciencia y Tecnología del Distrito Federal.
 
@@ -178,6 +190,26 @@ V. Propiciar la creación de instrumentos de financiamiento y otros mecanismos d
 
 VI. Establecer, en congruencia con las disposiciones aplicables en materia de desarrollo urbano, ciencia y tecnología, protección al ambiente y protección civil, la vinculación entre las áreas de actuación y la vocación productiva del Distrito Federal, proponiendo en su caso los cambios conducentes.
 
+> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2012)</small>
+
+VII. Establecer una estrategia desde un enfoque territorial, en el que se desarrollen políticas puntuales que atiendan las necesidades locales, promoviendo medidas espaciales que incidan en la productividad de las empresas;
+
+> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2012)</small>
+
+VIII. Promover la mejora regulatoria, para crear un entorno favorable y competitivo para impulsar las actividades económicas;
+
+> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2012)</small>
+
+IX. Promover la cultura emprendedora con potencial en el Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2012)</small>
+
+X. Promover el uso de tecnologías de información y de comunicación para incrementar las oportunidades de negocio de las micro y pequeñas empresas;
+
+> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2012)</small>
+
+XI. Las demás acciones que sean necesarias para el cumplimiento del objeto y fines propuestos en la Ley
+
 > <small>(ADICIONADO, G.O. 6 DE FEBRERO DE 2007)</small>
 
 En la elaboración, conducción y ejecución de programas, políticas, instrumentos y medidas relacionados con el fomento al empleo, la Secretaría ejercerá sus facultades en forma coordinada con la Secretaría de Trabajo y Fomento al Empleo.
@@ -198,23 +230,37 @@ II. Ejecutar las acciones de desregulación y simplificación administrativa, de
 
 III. Impulsar los proyectos de fomento económico que propicien la creación y conservación del empleo, de acuerdo con los lineamientos establecidos en la presente Ley;
 
-> <small>(REFORMADA, G.O. 19 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2012)</small>
 
-IV. Organizar una reunión cada tres meses, de los Comités de Fomento Económico Delegacionales, y
+IV. Organizar una reunión cada tres meses, de los Comités de Fomento Económico Delegacionales, en donde se presenten los informes acerca del funcionamiento de los programas delegacionales;
 
-V. Promover la concertación con los sectores privado y social para impulsar el desarrollo económico en su demarcación territorial.
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2012)</small>
+
+V. Promover la concertación con los sectores privado y social para impulsar el desarrollo económico en su demarcación territorial;
+
+> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2012)</small>
+
+VI. Celebrar convenios de acuerdo a las disposiciones de esta Ley, para que sin perjuicio de las atribuciones que en la materia les otorguen otros ordenamientos jurídicos, se fomente la actividad económica, de inversión y desarrollo en cada demarcación; y
+
+> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2012)</small>
+
+VII. Las demás acciones coordinadas con la Secretaría, que sean necesarias para el cumplimiento del objeto y fines propuestos en la Ley.
 
 ## TITULO III. DE LOS PROGRAMAS
 
 ### CAPITULO UNICO. De los Programas de Fomento Económico
 
+> <small>(REFORMADO, G.O. 31 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 9o.
 
-El Programa es el medio por el cual la administración pública propiciará la acción deliberada y comprometida de los sectores productivos e instancias de gobierno, para que participen en el fomento de las actividades económicas viables para el desarrollo de la economía de la ciudad, incrementando el empleo y preservando el medio ambiente.
+El Programa es el medio por el cual la administración pública propiciará la acción deliberada y comprometida de los sectores productivos, preferentemente sectores estratégicos y sectores vulnerables o en desventaja e instancias de gobierno, para que participen en el fomento de las actividades económicas viables para el desarrollo de la economía de la ciudad, incrementando el empleo y preservando el medio ambiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 10.
 
-El Programa atenderá los lineamientos establecidos en los artículos primero y segundo de la presente Ley y deberá ser compatible con los programas que se establezcan en materia de desarrollo industrial, comercial y de servicios; de desarrollo urbano, medio ambiente, protección civil y otros necesarios al desarrollo integral del Distrito Federal.
+El Programa atenderá los lineamientos establecidos en los artículos primero y segundo de la presente Ley y deberá ser compatible con los programas que se establezcan en materia de desarrollo industrial, tecnológico, cooperativo, comercial y de servicios; de desarrollo urbano, medio ambiente, protección civil y otros necesarios al desarrollo integral del Distrito Federal.
 
 Los programas sectoriales, especiales o delegacionales y anuales, y de las zonas sujetas a fomento, deberán ser congruentes con el Programa.
 
@@ -234,13 +280,17 @@ El Programa deberá incluir el diseño de la política de fomento económico que
 
 I. Análisis y diagnóstico de la situación económica del Distrito Federal;
 
-II. Objetivos y prioridades;
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2012)</small>
+
+II. Objetivos a corto, mediano y largo plazo, así como las prioridades;
 
 III. Metas y políticas;
 
 IV. Instrumentos y programas;
 
-V. Tareas y acciones;
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2012)</small>
+
+V. Tareas, acciones y estrategias
 
 VI. Las actividades prioritarias que deberán corresponder con la vocación del Distrito Federal y el potencial de sus actividades económicas;
 
@@ -416,15 +466,19 @@ II. Promover esquemas que permitan una mayor participación de los sectores prod
 
 III. Adoptar acciones orientadas a agilizar la apertura de nuevas empresas, a efecto de que las actividades productivas que no impliquen impacto de índole urbano, ambiental, social o sanitario, merezcan una respuesta expedita de sus planteamientos de autorización;
 
-IV. Asegurar que las actividades productivas de impacto urbano, ambiental, social o sanitario, tengan una respuesta en los procedimientos administrativos y autorización de funcionamiento en plazos y condiciones que no mermen sus ventajas con respecto a sus competidores, y
+IV. Asegurar que las actividades productivas de impacto urbano, ambiental, social o sanitario, tengan una respuesta en los procedimientos administrativos y autorización de funcionamiento en plazos y condiciones que no mermen sus ventajas con respecto a sus competidores, y (sic)
 
 V. Agilizar y reducir trámites para el establecimiento y operación de las empresas.
+
+> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2012)</small>
+
+VI. Adoptar acciones orientadas a promover la notificación y causa del cierre de establecimientos mercantiles.
 
 ###### Artículo 28.
 
 La administración pública, en el ámbito de su competencia, promoverá un marco regulatorio de apertura y funcionamiento de las empresas simplificado y transparente, con el propósito de que operen en condiciones competitivas.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 26 DE ABRIL DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 26 DE ABRIL DE 2010)</small>
 
 ### CAPITULO II. De las micro, pequeña, mediana empresa y sociedades cooperativas
 
@@ -476,7 +530,7 @@ La Secretaría de Trabajo y Fomento al Empleo, en coordinación con los sectores
 
 La promoción de la capacitación productiva tendrá por objeto crear las condiciones que favorezcan la participación eficiente de los recursos humanos en las actividades económicas, con el fin de mejorar su competitividad y elevar el nivel de empleo.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 6 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 34.
 
@@ -488,7 +542,7 @@ II. La orientación de grupos específicos de la población, que por sus caracte
 
 III. La promoción de acciones para la especialización de los recursos humanos en actividades económicas.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 6 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 35.
 
@@ -530,9 +584,13 @@ III. Promover la difusión de la información relativa a los insumos y maquinari
 
 IV. Propiciar proyectos de investigación locales y regionales que promuevan la cooperación entre empresas, universidades, colegios de profesionistas y organismos públicos, para fortalecer la base científica y tecnológica del Distrito Federal;
 
-V. Promover una estrecha vinculación entre la investigación y los centros de normalización ubicados en el Distrito Federal, con el fin de fortalecer la posición competitiva de las empresas e impulsar su oferta exportable, y
+V. Promover una estrecha vinculación entre la investigación y los centros de normalización ubicados en el Distrito Federal, con el fin de fortalecer la posición competitiva de las empresas e impulsar su oferta exportable, y (sic)
 
 VI. Estimular la innovación tecnológica para incrementar la capacidad de las empresas para invertir, tanto en equipos como en conocimientos tecnológicos y formación profesional.
+
+> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2012)</small>
+
+VII. Proporcionar herramientas informáticas que faciliten la gestión administrativa, contable y financiera.
 
 ###### Artículo 39.
 
@@ -564,9 +622,13 @@ II. Promover la participación del sector privado y social en la construcción, 
 
 III. Propiciar que en la construcción, mantenimiento y rehabilitación de la infraestructura productiva se utilicen, en igualdad de condiciones, los insumos y la mano de obra del Distrito Federal, a fin de impulsar la generación de empleo;
 
-IV. Apoyar el fortalecimiento de la infraestructura productiva en las zonas de producción rural, y
+IV. Apoyar el fortalecimiento de la infraestructura productiva en las zonas de producción rural, y (sic)
 
 V. Promover la incorporación permanente de innovaciones tecnológicas y la creación de bancos de datos especializados, así como el fortalecimiento de centros de prueba, en apoyo a los sectores productivos.
+
+> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2012)</small>
+
+VI. Propiciar que en la construcción y rehabilitación de la infraestructura productiva se utilicen sistemas de energías renovables.
 
 ### CAPITULO VI. De la integración de actividades productivas
 
@@ -592,7 +654,9 @@ I. El establecimiento, en zonas de fomento económico, de empresas que propicien
 
 II. El desarrollo de la industria maquiladora, para fomentar la creación de empleos productivos, el uso de insumos locales y procesos que propicien la utilización intensiva de mano de obra;
 
-III. La asociación de las diversas formas de organización para la producción y distribución de bienes y servicios;
+> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2012)</small>
+
+III. La asociación de las diversas formas de organización para la adquisición, producción y distribución de bienes y servicios;
 
 IV. La vinculación de las actividades del sector agropecuario a otras actividades económicas, propiciando su mejoramiento en cadenas productivas y distributivas;
 
@@ -606,9 +670,11 @@ VII. La organización de centros de acopio para mejorar el abasto y distribució
 
 ### CAPITULO I. Definición de los instrumentos
 
+> <small>(REFORMADO, G.O. 31 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 46.
 
-Los instrumentos son los medios por los cuales se otorgarán los estímulos que contribuyan al crecimiento económico y a la generación de empleo.
+Los instrumentos son los medios por los cuales se otorgarán los estímulos que contribuyan al crecimiento económico, fomento cooperativo y a la generación de empleo.
 
 ###### Artículo 47.
 
@@ -616,9 +682,13 @@ La administración pública es la encargada de determinar y aplicar los instrume
 
 La Secretaría es la dependencia coordinadora en materia de instrumentos de fomento económico, de acuerdo con sus atribuciones.
 
+> <small>(REFORMADO, G.O. 31 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 48.
 
-Los instrumentos podrán ser de desregulación y simplificación administrativa, financieros, fiscales, de promoción económica, de infraestructura productiva, de investigación y desarrollo tecnológico y de capacitación.
+Los instrumentos podrán ser de desregulación y simplificación administrativa, financieros, fiscales, de promoción económica, de infraestructura productiva, de investigación y desarrollo tecnológico, de capacitación y de coordinación entre empresas.
+
+Los instrumentos de coordinación tienen por objeto mejorar las condiciones de acceso de las empresas al mercado mediante la cooperación y coadyuvación entre las mismas, para la adquisición, producción, comercialización y distribución de bienes y servicios, así como para la inversión en la creación de nuevas tecnologías.
 
 ###### Artículo 49.
 
@@ -626,9 +696,11 @@ Los instrumentos de desregulación y simplificación administrativa tienen por o
 
 Lo anterior se expresará en los acuerdos, reglamentos y programas especiales que al efecto se expidan.
 
+> <small>(REFORMADO, G.O. 31 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 50.
 
-Los instrumentos financieros tienen por objeto impulsar las actividades productivas y de servicios y los proyectos que se determinen como prioritarios, con apoyos crediticios provenientes del organismo con el que para estos fines cuente el Departamento del Distrito Federal. La Secretaría promoverá además otros apoyos mediante la coordinación y concertación con instituciones financieras nacionales y extranjeras.
+Los instrumentos financieros tienen por objeto impulsar las actividades productivas y de servicios, el fomento cooperativo y los proyectos que se determinen como prioritarios, con apoyos crediticios provenientes del organismo con el que para estos fines cuente el Departamento del Distrito Federal. La Secretaría promoverá además otros apoyos mediante la coordinación y concertación con instituciones financieras nacionales y extranjeras.
 
 ###### Artículo 51.
 
@@ -738,7 +810,7 @@ RECINTO DE LA ASAMBLEA DE REPRESENTANTES DEL DISTRITO FEDERAL, I LEGISLATURA, a 
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veinte días del mes de diciembre de mil novecientos noventa y seis.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Oscar Espinosa Villarreal.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.O. 6 DE FEBRERO DE 2007.
 
@@ -774,7 +846,7 @@ Artículo Tercero.- El Jefe de Gobierno sesionará de manera conjunta con sus Ga
 
 G.O. 23 DE ABRIL DE 2009.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 Artículo Primero. Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor conocimiento en el Diario Oficial de la Federación.
 
@@ -789,3 +861,9 @@ Primero.- Túrnese el presente Decreto al Jefe de Gobierno del Distrito Federal,
 Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 Tercero.- Publíquese en la Gaceta Oficial del Distrito Federal para su debida observancia y publicación y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+G.O. 31 DE AGOSTO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal, para su publicación en la Gaceta Oficial del Distrito Federal.
