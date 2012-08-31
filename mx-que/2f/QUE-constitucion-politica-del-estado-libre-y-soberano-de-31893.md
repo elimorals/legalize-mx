@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "2011-10-21"
+last_updated: "2012-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2012.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -247,7 +247,9 @@ II. Aprobar las leyes en todas las materias, con excepción de las expresamente 
 
 III. Elegir, con el voto de las dos terceras partes de sus integrantes, al ciudadano que deba asumir el cargo de Gobernador con el carácter de provisional, interino o sustituto, en los casos y términos que esta Constitución prescribe;
 
-IV. Elegir, con el voto de las dos terceras partes de los integrantes de la Legislatura, a los Magistrados del Tribunal Superior de Justicia, al Magistrado del Tribunal de lo Contencioso Administrativo, al Presidente de la Comisión Estatal de Derechos Humanos y Acceso a la Información Pública, a los Consejeros Electorales del Instituto Electoral de Querétaro, al titular de la Entidad Superior de Fiscalización y a los demás que determine la ley;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2012)</small>
+
+IV. Elegir, con el voto de las dos terceras partes de los integrantes de la Legislatura, a los Magistrados del Tribunal Superior de Justicia, al Magistrado del Tribunal de lo Contencioso Administrativo, al Presidente de la Comisión Estatal de Derechos Humanos, a los Comisionados de la Comisión Estatal de información Gubernamental, a los Consejeros Electorales del Instituto Electoral de Querétaro, al titular de la Entidad Superior de Fiscalización y a los demás que determine la ley; procurando mantener un equilibrio entre mujeres y hombres cuando se trate de órganos colegiados;
 
 V. Conceder licencia a los diputados, al gobernador; así como conceder las licencias y admitir las renuncias a los Magistrados del Tribunal Superior de Justicia y de los demás funcionarios cuya designación competa a la propia Legislatura;
 
@@ -383,9 +385,9 @@ II. Reglamentar las leyes, proveyendo en la esfera administrativa a su exacta ob
 
 III. Preservar el orden, la tranquilidad y la seguridad social en el Estado;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2012)</small>
 
-IV. Nombrar y remover libremente a los servidores públicos del Poder Ejecutivo cuyo nombramiento o remoción no estén determinados en esta Constitución o en las Leyes;
+IV. Nombrar y remover libremente a los servidores públicos del Poder Ejecutivo, cuyo nombramiento o remoción no estén determinados en esta Constitución o en las Leyes; procurando mantener un equilibrio entre mujeres y hombres cuando se trate de órganos colegiados;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -513,11 +515,11 @@ X. Las demás que establezca esta Constitución y las demás leyes.
 
 Se exceptúan de la competencia del Pleno previstas en las fracciones II, III y IV del presente artículo, las leyes en materia hacendaria, fiscal y presupuestal.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2012)</small>
 
 ###### ARTÍCULO 30.
 
-Los jueces de la entidad serán designados por el Tribunal Superior de Justicia a propuesta del Consejo de la Judicatura; durarán en su encargo seis años, pudiendo ser ratificados en los plazos y condiciones que establezca la ley. Deberán ser ciudadanos mexicanos en pleno ejercicio de sus derechos políticos y civiles, así como contar con los requisitos que establezca la ley.
+Los jueces de la entidad serán designados por el Tribunal Superior de Justicia a propuesta del Consejo de la Judicatura, procurando mantener un equilibrio entre mujeres y hombres en dichos cargos; durarán en su encargo seis años, pudiendo ser ratificados en los plazos y condiciones que establezca la ley. Deberán ser ciudadanos mexicanos en pleno ejercicio de sus derechos políticos y civiles, así como contar con los requisitos que establezca la ley.
 
 > <small>(ADICIONADO, P. O. 31 DE MARZO DE 2008)</small>
 
@@ -1310,3 +1312,11 @@ Artículo Primero. Aprobada que sea la presente ley en los términos de lo dispu
 Artículo Segundo. Aprobada que sea la presente Ley, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Tercero. Se derogan todos los ordenamientos que se opongan a lo dispuesto por la presente ley.
+
+P.O. 31 DE AGOSTO DE 2012.
+
+Artículo Primero. Aprobada que sea la presente Ley, en los términos de los (sic) dispuesto por el artículo 39 de la Constitución Política del Estado de Querétaro, procédase a la aprobación del Constituyente Permanente, consistente en las dos terceras partes del número total de integrantes de la Legislatura y las dos terceras partes del Ayuntamiento.
+
+Artículo Segundo. Aprobada que sea la presente Ley, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Tercero. Se derogan todos los ordenamientos que se opongan a lo dispuesto en esta Ley.
