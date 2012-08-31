@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-presupuesto-y-contabilidad-gubernamental-del-estado-777
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2011-12-22"
+last_updated: "2012-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DEL PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE AGOSTO DE 2012.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 31 de diciembre de 2010.
 
@@ -835,13 +835,23 @@ La Secretaría, a petición expresa de los Poderes Legislativo y Judicial o de l
 
 El Titular del Poder Ejecutivo presentará al Congreso el Presupuesto de Egresos y la Ley de Ingresos del Gobierno del Estado, a más tardar el 25 de noviembre del año anterior al que entre en vigor.
 
-Una vez recibido, el Congreso turnará a la Comisión competente los proyectos de Presupuesto de Egresos y de Ley de Ingresos del Estado, así como las iniciativas de Ley de Ingresos de los Municipios, para su tramitación en términos de la ley aplicable.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 31 DE AGOSTO DE 2012)</small>
+
+Cuando inicie una administración gubernamental estatal en la fecha prevista en el artículo 48 de la Constitución Política del Estado, el Titular del Poder Ejecutivo, por única ocasión, hará llegar al Congreso del Estado las iniciativas antes mencionadas a más tardar el día 20 del mes de diciembre del año en el que inicie el período constitucional para el cual fue electo.
+
+> <small>(REFORMADO, D.O. 31 DE AGOSTO DE 2012)</small>
+
+Una vez recibidas las iniciativas, el Congreso del Estado turnará a la Comisión competente los proyectos de Presupuesto de Egresos y de Ley de Ingresos del Estado, así como las iniciativas de Ley de Ingresos de los municipios, para su tramitación en términos de la ley aplicable.
+
+> <small>(REFORMADO, D.O. 31 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 58.
 
-El Presupuesto de Egresos del Estado debe ser aprobado por el Congreso a más tardar el 15 de diciembre de cada año.
+El Presupuesto de Egresos y la Ley de Ingresos del Gobierno del Estado deberán ser aprobados por el Congreso del Estado a más tardar el 15 de diciembre de cada año.
 
-En el caso de que al concluir el año correspondiente no fuere aprobado, continuará en vigor el del año inmediato anterior autorizado. En este último supuesto, el Presupuesto de Egresos se ejercerá mensualmente en una doceava parte del total de la disponibilidad de los recursos fiscales, con las actualizaciones que sean pertinentes, en tanto se aprueba el presupuesto del ejercicio fiscal del año correspondiente.
+Cuando inicie una administración gubernamental estatal en la fecha prevista en el artículo 48 de la Constitución Política del Estado, el Congreso del Estado aprobará el Presupuesto de Egresos y la Ley de Ingresos del Gobierno del Estado a más tardar el 30 de diciembre del año en que se verifique dicho suceso.
+
+En el caso de que al concluir el año correspondiente no fueren aprobados, continuarán en vigor los del año inmediato anterior autorizados. En este último supuesto, el Presupuesto de Egresos se ejercerá mensualmente en una doceava parte del total de la disponibilidad de los recursos fiscales, con las actualizaciones que sean pertinentes, en tanto se aprueba el presupuesto del ejercicio fiscal del año correspondiente.
 
 ###### Artículo 59.
 
@@ -2298,3 +2308,9 @@ Este Decreto entrará en vigor el día siguiente al de su publicación en el Dia
 ###### ARTÍCULO SEGUNDO.
 
 Los plazos para la presentación de las cuentas públicas, previstas en la Ley de Fiscalización de la Cuenta Pública y la Ley de Presupuesto y Contabilidad Gubernamental, ambas del Estado de Yucatán, se aplicarán a partir de la presentación de la cuenta pública del ejercicio fiscal correspondiente al año 2011.
+
+D.O. 31 DE AGOSTO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
