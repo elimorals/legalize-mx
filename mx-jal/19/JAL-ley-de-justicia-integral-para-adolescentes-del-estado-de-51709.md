@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-justicia-integral-para-adolescentes-del-estado-de-51709"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-12"
-last_updated: "2009-10-24"
+last_updated: "2012-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51709&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE JUSTICIA INTEGRAL PARA ADOLESCENTES DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 12 de septiembre de 2006.
 
@@ -49,7 +49,7 @@ Esta Ley es de orden público e interés general. Tiene como objeto la creación
 
 Son sujetos de esta Ley:
 
-I. Las personas de entre 12 años cumplidos y menores 18 años de edad, denominados adolescentes, a quienes se atribuya o compruebe la realización de una conducta tipificada como delito en las leyes estatales;
+I. Las personas de entre 12 años cumplidos y menores de 18 años de edad, denominados adolescentes, a quienes se atribuya o compruebe la realización de una conducta tipificada como delito en las leyes estatales;
 
 II. Las personas de entre 18 años cumplidos y menores de 25 de edad a quienes se atribuya o compruebe la realización de una conducta tipificada como delito en las leyes estatales, cometida cuando eran adolescentes, a quienes se les aplicará el Sistema Estatal Integral de Justicia para Adolescentes en todo aquello que proceda; y
 
@@ -109,15 +109,15 @@ IV. Establecer los procedimientos y mecanismos para determinar la responsabilida
 
 V. Regular la ejecución de las medidas aplicables a los adolescentes que resulten responsables por la realización de una conducta tipificada como delito.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ENERO DE 2007)</small>
 
 ###### Artículo 5.
 
 Son principios rectores del sistema:
 
-l. Celeridad procesal: Garantiza que los procesos en que están involucrados los adolescentes, se realicen sin dilación y con la menor duración posible;
+I. Celeridad procesal: Garantiza que los procesos en que están involucrados los adolescentes, se realicen sin dilación y con la menor duración posible;
 
-Certeza jurídica: Que restringe la discrecionalidad de las decisiones de todas las autoridades del sistema, remitiéndolas al marco estricto de la ley;
+II. Certeza jurídica: Que restringe la discrecionalidad de las decisiones de todas las autoridades del sistema, remitiéndolas al marco estricto de la ley;
 
 III. Contradicción: El desahogo de las pruebas se efectúa en condiciones que permitan a las partes el adecuado ejercicio de los derechos que el ordenamiento procesal les confiere, a fin de debatir los elementos de convicción dentro del juicio;
 
@@ -135,7 +135,7 @@ IX. Proporcionalidad: Las medidas deben ser racionales, justificadas y proporcio
 
 X. Protección Integral de los Derechos del Adolescente: Que requiere en todo momento que las autoridades del sistema respeten y garanticen la protección de los derechos de los adolescentes sujetos al mismo;
 
-XI. Reincorporación social, familiar y cultural del adolescente: Que orienta los fines del Sistema hacia la adecuada convivencia de; adolescente que ha sido sujeto de alguna medida;
+XI. Reincorporación social, familiar y cultural del adolescente: Que orienta los fines del Sistema hacia la adecuada convivencia del adolescente que ha sido sujeto de alguna medida;
 
 XII. Subsidiariedad: Por el que se reduce la acción del Estado a lo que la sociedad civil no puede alcanzar por sí misma;
 
@@ -159,7 +159,7 @@ Para todos los efectos de esta Ley, la edad a considerar será la que tenía la 
 
 Los derechos y garantías reconocidos a los sujetos de esta Ley son irrenunciables, tienen un carácter enunciativo y no limitativo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ENERO DE 2007)</small>
 
 ###### Artículo 9.
 
@@ -233,7 +233,7 @@ XVII. Permanecer separado, cuando esté sujeto a internamiento preventivo, de aq
 
 XVIII. Efectuar un trabajo siempre que no implique menoscabo en su salud física, psicológica, en su dignidad como persona humana y atendiendo a las restricciones y fundamentos de la Ley Federal del Trabajo;
 
-XIX. Recibir y conservar cualquier tipo di: material cultural, de capacitación, formación académica y técnica, de entretenimiento y recreo que sea compatible con la medida que esté cumpliendo y que coadyuve a su desarrollo integral;
+XIX. Recibir y conservar cualquier tipo de material cultural, de capacitación, formación académica y técnica, de entretenimiento y recreo que sea compatible con la medida que esté cumpliendo y que coadyuve a su desarrollo integral;
 
 XX. Ser preparado psicológicamente para salir del centro de internamiento cuando esté próximo a terminar el cumplimiento de la medida; y
 
@@ -391,7 +391,7 @@ IV. Implementar las acciones que permitan la participación del núcleo familiar
 
 V. Ubicar en la sección que corresponda a los adolescentes en etapa de observación, evaluación, clasificación y diagnóstico atendiendo a sus condiciones de edad, personalidad, cualidades, habilidades, aptitudes, actitudes y sexo;
 
-VI. Garantizar durante la estancia del adolescente, su derecho al descanso, la recreación, el esparcimiento, ya las actividades deportivas propias de su edad y a participar libremente en la vida cultural y artística;
+VI. Garantizar durante la estancia del adolescente, su derecho al descanso, la recreación, el esparcimiento, y a las actividades deportivas propias de su edad y a participar libremente en la vida cultural y artística;
 
 VII. No utilizar la fuerza física o instrumentos de coerción, excepto cuando se hayan agotado todos los medios no coercitivos para la imposición de la disciplina, e informar al Juez sobre la aplicación de estas medidas disciplinarias, en lo posible, antes de recurrir a ellas; y
 
@@ -413,7 +413,7 @@ V. Procurar la plena reincorporación familiar, social y cultural de los adolesc
 
 VI. Cumplir de inmediato con las resoluciones y requerimientos de la Sala;
 
-VII. Informar por escrito a la Sala, inicialmente dentro de los primeros seis meses, Y posteriormente cada tres meses, sobre la forma en que está siendo cumplida la medida, cualquier obstáculo que se presente país el cumplimiento de la misma, el comportamiento y estado general de los adolescentes;
+VII. Informar por escrito a la Sala, inicialmente dentro de los primeros seis meses, y posteriormente cada tres meses, sobre la forma en que está siendo cumplida la medida, cualquier obstáculo que se presente para el cumplimiento de la misma, el comportamiento y estado general de los adolescentes;
 
 VIII. Estar en contacto permanente con los padres, familiares, tutores, o con quienes ejerzan la patria potestad o la custodia de adolescentes sujetos a alguna de las medidas a que se refiere el título cuarto de esta ley, a fin de mantenerlos informados sobre el cumplimento de ésta y sobre su estado físico y mental;
 
@@ -455,7 +455,9 @@ Se entiende que se encuentra acreditada la existencia de la conducta tipificada 
 
 La retención provisional e internamiento de adolescentes deberán aplicarse como medida excepcional, por los periodos más breves posibles, y únicamente procederán respecto de las siguientes conductas tipificadas como delitos graves:
 
-I. Pornografía Infantil, tipificado en el artículo 136 bis, fracciones I y III del Código Penal del Estado de Jalisco;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+I. (DEROGADA, P.O. 1 DE SEPTIEMBRE DE 2012)
 
 II. Falsificación de medios electrónicos o magnéticos, tipificado en el artículo 170 del Código Penal del Estado de Jalisco;
 
@@ -467,7 +469,11 @@ IV. Extorsión, tipificado en el artículo 189, párrafo segundo y cuarto del C�
 
 V. Infanticidio, tipificado en el artículo 226 del Código Penal del Estado de Jalisco;
 
-VI. Secuestro y conductas tipificadas en el artículo 194 del Código Penal del Estado de Jalisco;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2012)</small>
+
+VI. Delitos en materia de secuestro contemplados en la Ley General para Prevenir y Sancionar los delitos en materia de Secuestro, reglamentaria de la fracción XXI del artículo 73 de la Constitución política de los Estados Unidos Mexicanos;
 
 > <small>(REFORMADA, P.O. 25 DE ENERO DE 2007)</small>
 
@@ -481,9 +487,11 @@ IX. Robo, en los casos tipificados en los artículos 234, Fracciones III, IV, V,
 
 X. Abigeato y robo de animales, tipificado en los artículos 240 y 242 del Código Penal del Estado de Jalisco.
 
-> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XI. Corrupción de menores, tipificado en el artículo 136 del Código Penal del Estado de Jalisco en sus dos últimos párrafos;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2012)</small>
+
+XI. Corrupción de Menores tipificado en el artículo 142-A en sus dos últimos párrafos del Código Penal para el Estado de Jalisco;
 
 > <small>(ADICIONADA, P.O. 25 DE ENERO DE 2007)</small>
 
@@ -491,11 +499,19 @@ XII. Robo de infante, previsto en el artículo 179 párrafo cuarto del Código P
 
 > <small>(ADICIONADA, P.O. 25 DE ENERO DE 2007)</small>
 
-XIII. Tráfico de menores, tipificado en el artículo 179 bis párrafos primero y quinto del Código Penal en el Estado de Jalisco; y
+XIII. Tráfico de menores, tipificado en el artículo 179 bis párrafos primero y quinto del Código Penal en el Estado de Jalisco; y (sic)
 
 > <small>(ADICIONADA, P.O. 25 DE ENERO DE 2007)</small>
 
 XIV. Aborto, tipificado en el artículo 228 párrafo penúltimo del Código Penal del Estado de Jalisco.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2012)</small>
+
+XV. De los delitos en materia de trata de personas, tipificados en el artículo 10 de la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y Para la Protección y Asistencia a las Víctimas de estos Delitos.
+
+De igual manera procederá la retención de las conductas tipificadas como delito a que aluden las fracciones anteriores, cometidas en grado de tentativa punible de conformidad con el código penal para el Estado Libre y Soberano de Jalisco.
 
 ###### Artículo 27.
 
@@ -653,7 +669,7 @@ Para imponer cualquier tipo de medida precautoria se deberá acreditar la existe
 
 Las medidas precautorias podrán dictarse y revocarse en cualquier momento hasta antes de dictarse sentencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 45.
 
@@ -671,17 +687,13 @@ IV. Exista peligro de fuga, de obstaculización del procedimiento o de destrucci
 
 La reclusión preventiva no podrá combinarse con otras medidas precautorias, y debe ser cumplida en instalaciones diferentes a las destinadas al cumplimiento de la medida de tratamiento en internamiento definitivo.
 
-Capítulo (sic) IV
-
-Procedimiento Inicial, Juicio y Ejecución
-
-### CAPÍTULO IV (SIC). De la Conciliación
+### Capítulo IV. Procedimiento Inicial, Juicio y Ejecución
 
 ###### Artículo 46.
 
 Son parte dentro del procedimiento:
 
-l. Adolescente, el cual deberá ser asistido por representante o defensor;
+I. Adolescente, el cual deberá ser asistido por representante o defensor;
 
 II. Ministerio Público; y
 
@@ -697,7 +709,7 @@ II. Juicio, que iniciará una vez determinada la vinculación a procedimiento; y
 
 III. Ejecución, una vez que cause estado la sentencia, iniciará el procedimiento de ejecución.
 
-#### Sección l. Procedimiento Inicial
+#### Sección I. Procedimiento Inicial
 
 > <small>(REFORMADO, P.O. 25 DE ENERO DE 2007)</small>
 
@@ -723,7 +735,7 @@ Cuando la remisión se efectúe con retenido, el Juez deberá examinar la legali
 
 El adolescente podrá solicitar la suspensión de la audiencia por un plazo de hasta 72 horas para aportar elementos de convicción antes de que se resuelva su situación jurídica o se pronuncie sobre la medida precautoria. La prolongación de la retención en su perjuicio será sancionada por la ley penal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ENERO DE 2007)</small>
 
 ###### Artículo 51.
 
@@ -753,9 +765,9 @@ Una vez deshogadas (sic) todas las pruebas, el Juez, de oficio o a petición de 
 
 El escrito de atribución de hechos precisará, el enlace lógico-jurídico de los hechos constitutivos de la conducta reprochable estableciendo circunstancias de lugar, tiempo y modo, con las pruebas al efecto diligenciadas, que demuestren la existencia plena de la conducta tipificada como delito y la responsabilidad del adolescente en su comisión.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE FEBRERO DE 2009)</small>
 
-###### Articulo 55.
+###### Artículo 55.
 
 Concluido el término de atribución de hechos y conclusión de la defensa, el Juez dictará un acuerdo en que se señale fecha y hora para la celebración de la audiencia de vista y lectura de la resolución definitiva y. en dicha audiencia se dictará la resolución correspondiente en la que se les hará saber a las partes el derecho de recurrirla y el término que les asiste. Quedando debidamente notificadas con esa fecha. La resolución definitiva deberá sujetarse a las siguientes disposiciones:
 
@@ -833,7 +845,7 @@ La Subdirección General hará constar, en acta circunstanciada, la fecha, hora 
 
 La Subdirección General deberá recabar la información necesaria para notificar a la Sala, inicialmente dentro de los primeros seis meses, y posteriormente cada tres meses, salvo los casos en que se establezca un término diverso, sobre el desarrollo del Programa Personalizado de Ejecución, haciendo énfasis en los progresos u obstáculos que se hayan presentado. Es obligación de la Subdirección General notificar a los familiares, a los representantes legales y al propio adolescente, el contenido del informe al que hace referencia este artículo.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO IV (SIC). De la Conciliación
 
 ###### Artículo 65.
 
@@ -899,7 +911,7 @@ No se podrá invocar, dar lectura, ni incorporar como medio de prueba ningún an
 
 ## TÍTULO CUARTO. DE LAS MEDIDAS
 
-### CAPÍTULO II. Medidas de Orientación y Protección
+### CAPÍTULO I. Disposiciones Generales
 
 ###### Artículo 73.
 
@@ -919,7 +931,7 @@ III. Bajo rendimiento en el desempeño de la prestación del servicio.
 
 Lo anterior, con independencia de la modificación de la medida que realice la Sala, ameritará que se haga efectiva por parte del Juzgado, la garantía económica que se hubiere otorgado.
 
-### CAPÍTULO III. Medidas de Internamiento
+### CAPÍTULO II. Medidas de Orientación y Protección
 
 ###### Artículo 75.
 
@@ -929,7 +941,7 @@ Las medidas de orientación y protección consisten en apercibimientos, mandamie
 
 Las medidas de orientación y protección se aplicarán bajo el seguimiento de los servidores públicos que la Subdirección General designe, excepto la de apercibimiento, y en lo posible con la colaboración de la familia y su comunidad. Para lo cual la Subdirección General establecerá Programas que propicien el acompañamiento de las familias del adolescente en el caso de que haya señalado un tratamiento, con orientación, talleres y apoyo psicológico para que colaboren a la reintegración social de estos jóvenes y obtengan un mayor conocimiento de sus características y necesidades.
 
-#### Sección l. Apercibimiento
+#### Sección I. Apercibimiento
 
 ###### Artículo 76.
 
@@ -971,7 +983,7 @@ La naturaleza del servicio prestado por el adolescente deberá estar vinculada, 
 
 La duración de esta medida debe tener relación directa con los daños causados, así como la existencia de voluntad de ocasionarlos, que en ningún caso podrá ser inferior a tres meses ni mayor de cuatro años.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ENERO DE 2007)</small>
 
 ###### Artículo 80.
 
@@ -1041,7 +1053,9 @@ Cuando al adolescente haya realizado la conducta sancionada conduciendo un vehí
 
 La medida implica la inhabilitación para obtener permiso o licencia de conducir, o la suspensión del mismo si ya hubiere sido obtenida, por lo que la Subdirección General hará del conocimiento de las autoridades competentes esta prohibición, para que nieguen, o suspendan el permiso del adolescente para conducir vehículos motorizados.
 
-Dicha prohibición, cancelación o suspensión podrán imponerse a los Adolescentes hasta en tanto no cumplan la mayoría de edad; y en el caso de Adultos Jóvenes, en ningún caso podrá ser inferior a seis meses ni mayor de cuatro años la finalidad de esta medida es que el adolescente aprenda el valor de la confianza en el otorgamiento de una prerrogativa y las consecuencias de faltar a ella.
+Dicha prohibición, cancelación o suspensión podrán imponerse a los Adolescentes hasta en tanto no cumplan la mayoría de edad; y en el caso de Adultos Jóvenes, en ningún caso podrá ser inferior a seis meses ni mayor de cuatro años.
+
+La finalidad de esta medida es que el adolescente aprenda el valor de la confianza en el otorgamiento de una prerrogativa y las consecuencias de faltar a ella.
 
 Si la autoridad encargada de expedir los permisos o licencias para conducir vehículos automotores tiene conocimiento de que el adolescente ha incumplido con la medida impuesta, debe comunicarlo de inmediato a la Sala, quien procederá en los términos de lo establecido en esta Ley.
 
@@ -1117,7 +1131,7 @@ La medida de abstenerse de ingerir bebidas alcohólicas, drogas, estupefacientes
 
 > <small>(REFORMADO, P.O. 25 DE ENERO DE 2007)</small>
 
-La finalidad de esta medida es obstaculizar el acceso del adolescente al alcohol y todo tipo de sustancias prohibidas, contribuyendo con ello al tratamiento médico y psicológico de posibles adicciones. Sin perjuicio de que el programa personalizado de ejecución contemple los mecanismos necesarios para conminar al adolescente para que, voluntariamente, admita la intervención que a su problemática corresponda y para que continúe con ella hasta ser dado de alta.
+La finalidad de esta medida es obstaculizar el acceso del adolescente al alcohol y todo tipo de sustancias prohibidas, contribuyendo con ello al tratamiento médico y psicológico de posibles adicciones. Sin perjuicio de que el programa personalizado de ejecución contemple los mecanismos necesarios para conminar al adolescente para que, voluntariamente, admita la intervención que a su problemática corresponda y para que se continúe con ella hasta ser dado de alta.
 
 ###### Artículo 101.
 
@@ -1133,7 +1147,7 @@ III. Aplicar revisiones médicas y análisis clínicos, directamente o a través
 
 La contravención que de esta prohibición haga el adolescente, se considerará como incumplimiento de la medida de colaboración, la contravención.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO III. Medidas de Internamiento
 
 ###### Artículo 102.
 
@@ -1155,7 +1169,7 @@ Bajo ninguna circunstancia se autorizará la permanencia del adolescente en el C
 
 En cualquier momento en el que el personal de la Subdirección General o el Centro de Atención se percaten de que el adolescente presenta alguna discapacidad mental, informará de su estado a la Sala, para que sea ésta quien ordene lo conducente.
 
-#### Sección l. Internamiento Domiciliario
+#### Sección I. Internamiento Domiciliario
 
 ###### Artículo 105.
 
@@ -1213,13 +1227,13 @@ La aplicación de la medida prevista en esta sección, es de competencia exclusi
 
 ## TÍTULO QUINTO. EJECUCIÓN DE LAS MEDIDAS
 
-### CAPÍTULO II. Adecuación y Control de las Medidas
+### CAPÍTULO I. Disposiciones Generales
 
 ###### Artículo 113.
 
 La etapa de aplicación de las medidas comprende todas las acciones destinadas a asegurar su cumplimiento y lograr el fin que con su aplicación se persigue, así como todo lo relativo al trámite y resolución de las cuestiones que se presenten durante esta fase.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ENERO DE 2007)</small>
 
 ###### Artículo 114.
 
@@ -1257,7 +1271,7 @@ IV. Programas de atención médica; y
 
 V. Cualquier otra acción que permita a los padres, familiares, responsables, tutores, quienes ejerzan la patria potestad, o custodia contribuir a asegurar el desarrollo integral de los adolescentes.
 
-### CAPÍTULO I. Reglas Generales
+### CAPÍTULO II. Adecuación y Control de las Medidas
 
 #### Sección I. Adecuación y Cumplimiento Anticipado de la Medida
 
@@ -1283,7 +1297,7 @@ La adecuación de la medida, sólo será posible si el adolescente manifiesta su
 
 ###### Artículo 122.
 
-El Ministerio Público podrá solicitar, en cualquier momento, a la Sala la adecuación de la medida puesta por el Juez o la que hubiese sido adecuada durante la fase de ejecución, cuando considere que el adolescente ha incumplido de tal gravedad que ponga en riesgo o impida la finalidad de la medida impuesta.
+El Ministerio Público podrá solicitar, en cualquier momento, a la Sala la adecuación de la medida impuesta por el Juez o la que hubiese sido adecuada durante la fase de ejecución, cuando considere que el adolescente ha incumplido de tal gravedad que ponga en riesgo o impida la finalidad de la medida impuesta.
 
 ###### Artículo 123.
 
@@ -1349,9 +1363,9 @@ Cuando las disposiciones a que se refiere el párrafo anterior, impliquen la pro
 
 Cuando dichas disposiciones impliquen correcciones y adecuaciones en los servicios e instalaciones del Centro de Atención, la Sala señalará un plazo prudente para que mediante su cumplimiento y ejecución se garanticen condiciones de vida digna en el interior del centro.
 
-## TÍTULO VI (SIC). RECURSOS
+## TÍTULO VI. RECURSOS
 
-### CAPÍTULO II. Recurso de Revocación
+### CAPÍTULO I. Reglas Generales
 
 ###### Artículo 130.
 
@@ -1399,7 +1413,7 @@ Cuando la resolución sólo fue impugnada por el adolescente o su defensor, no p
 
 Los errores de derecho en la fundamentación de la sentencia o resolución impugnadas, que no hayan influido en la parte resolutiva, no la anularán; pero serán corregidos apenas advertidos o señalados por alguna de las partes, así como los errores de forma en la designación o el cómputo de las medidas.
 
-### CAPÍTULO III. Recurso de Apelación
+### CAPÍTULO II. Recurso de Revocación
 
 ###### Artículo 138.
 
@@ -1409,6 +1423,8 @@ El recurso de revocación podrá ser interpuesto por el Ministerio Público, el 
 
 Este recurso se interpondrá por escrito, dentro de los tres días siguientes a la notificación de la resolución recurrida. Debiéndose correr traslado en los tres días siguientes a las otras partes para que en el plazo de tres días manifiesten lo que a su derecho corresponda; hecho lo anterior el Juez resolverá lo conducente en el mismo plazo.
 
+### CAPÍTULO III. Recurso de Apelación
+
 ###### Artículo 140.
 
 El recurso de apelación podrá ser interpuesto por el Ministerio Público, el Adolescente, su representante o defensor, y procederá contra las resoluciones dictadas por el Juez que causen un agravio irreparable y pongan fin a la acción o imposibiliten que ésta continúe.
@@ -1417,19 +1433,17 @@ El recurso de apelación podrá ser interpuesto por el Ministerio Público, el A
 
 El recurso de apelación se interpondrá por escrito ante el mismo Juez que dictó la resolución y, dentro del plazo de cinco días de haberse efectuado la notificación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE FEBRERO DE 2009)</small>
 
-###### Articulo 142.
+###### Artículo 142.
 
 Presentado el recurso, el Juez deberá correr traslado a las partes para que en el plazo de tres días lo contesten, y transcurrido el lapso anterior, deberá de remitir a la sala, dentro de los cinco días siguientes, el original del expediente, a efecto de que ésta pueda apreciar si se ha violado o no el procedimiento, y si existe el agravio que la parte recurrente esgrime.
 
-> <small>(REFORMADO [N. DE E. DEROGADO SEGUNDO PARRAFO], P.O. 7 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO [N. DE E. DEROGADO SEGUNDO PÁRRAFO], P.O. 7 DE FEBRERO DE 2009)</small>
 
 Sólo se remitirá copia de las actuaciones pertinentes o se formará un legajo especial, para no demorar el trámite del proceso.
 
-Excepcionalmente, la Sala podrá solicitar otras copias o las actuaciones originales.
-
-Ello no implicará la paralización ni suspensión del procedimiento.
+Excepcionalmente, la Sala podrá solicitar otras copias o las actuaciones originales. Ello no implicará la paralización ni suspensión del procedimiento.
 
 ###### Artículo 143.
 
@@ -1437,9 +1451,7 @@ Recibidas las actuaciones, la Sala, decidirá si admite el recurso y, en su caso
 
 Las partes podrán ofrecer prueba para resolver el fondo del reclamo sólo cuando tenga el carácter de superveniente.
 
-Capítulo (sic) IV
-
-Recurso de Queja
+### Capítulo IV. Recurso de Queja
 
 ###### Artículo 144.
 
@@ -1519,7 +1531,7 @@ MTRO. GERARDO OCTAVIO SOLÍS GÓMEZ
 
 (RÚBRICA)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS</small>
 
 DECRETOS DE REFORMAS A LA PRESENTE LEY.
 
@@ -1552,3 +1564,19 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan las disposiciones que se opongan al presente.
 
 TERCERO. Los delegados institucionales privados que estén debidamente acreditados, seguirán en funciones y se regularán observando las normas contenidas en la Ley vigente al momento de su acreditación.
+
+P.O. 1 DE SEPTIEMBRE DE 2012.
+
+PRIMERO. El presente decreto entrará en vigor a los noventa días siguientes a su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. El Ejecutivo del Estado deberá elaborar y publicar el reglamento correspondiente.
+
+TERCERO. Se autoriza al Titular del Poder Ejecutivo en el Estado, a través de la Secretaría de Finanzas y Administración, a realizar todas las modificaciones y adecuaciones presupuestales así como administrativas necesarias para el debido cumplimiento de la ley.
+
+CUARTO. Treinta días posteriores a la entrada en vigor del presente decreto, la Procuraduría General de Justicia del Estado de Jalisco, deberá realizar las acciones necesarias para la creación de la Fiscalía Especializada a que se refiere la Ley General para Prevenir Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, de conformidad con el presupuesto que para tal efecto le sea asignado; atentos a lo dispuesto en el artículo transitorio anterior.
+
+QUINTO. Todos los asuntos que se encuentren en etapa de averiguación previa, proceso, hayan sido sentenciados o se encuentren en la ejecución de sentencia por delitos relacionados con el presente decreto, seguirán rigiéndose por las normas vigentes anteriores a la entrada en vigor del presente decreto.
+
+SEXTO. La constitución de la Comisión Interinstitucional deberá realizarse en un plazo máximo de 90 días naturales a partir de la entrada en vigor de la ley; así como la designación del Secretario Técnico de ésta.
+
+La Comisión Interinstitucional deberá aprobar en un plazo máximo de sesenta días naturales a partir de su constitución el Programa Estatal para Prevenir, Combatir y Erradicar la Trata de personas y remitir a la Secretaria General de Gobierno para su publicación.
