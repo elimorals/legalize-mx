@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-124
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-08-13"
-last_updated: "2011-12-06"
+last_updated: "2012-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2012.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 13 de agosto de 1998.
 
@@ -267,9 +267,17 @@ XXIV. Intervenir en los procedimientos de donación de órganos y tejidos en los
 
 XXV. Nombrar a los servidores públicos de la Procuraduría de acuerdo a los requisitos establecidos en la legislación aplicable y en lo (sic) términos de las disposiciones administrativas correspondientes;
 
-XXVI. En general, todo lo que contemple la legislación penal y de procedimientos vigentes en lo que le competa; y
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2012)</small>
 
-XXVII. Las demás que con ese carácter le confieran disposiciones legales aplicables y las que le otorgue el C. Gobernador.
+XXVI. Resolver los procedimientos de responsabilidad administrativa y de separación referidos en la Ley del Sistema de Seguridad Pública para el Estado de Jalisco respecto de los Actuarios, Secretarios y Agentes del Ministerio Público;
+
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2012)</small>
+
+XXVII. En general, todo lo que contemple la legislación penal y de procedimientos vigentes en lo que le competa; y
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2012)</small>
+
+XXVIII. Las demás que así se establezcan en otras disposiciones legales y reglamentarias, y aquellas que el C. Gobernador del Estado le confiera.
 
 ###### Artículo 8.
 
@@ -355,11 +363,17 @@ XXV. Las demás que les señalen las disposiciones aplicables, las que les confi
 
 La Procuraduría contará con una Contraloría Interna que se sujetará a las normas aplicables en cuanto a su organización y funcionamiento y al frente de la misma habrá un Titular, quien será designado en los términos que las leyes establezcan y que tendrá las siguientes atribuciones:
 
-I. Establecer, controlar, evaluar y dar trámite a los procedimientos de recepción, atención y seguimiento de las quejas y denuncias que se presenten en contra de los servidores públicos de la Procuraduría e iniciar la investigación correspondiente, de conformidad con los lineamientos que señale el Procurador;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2012)</small>
 
-II. Sustanciar y resolver los procedimientos de responsabilidad administrativa en los términos del Régimen aplicable de Responsabilidades de los Servidores Públicos e imponer, por acuerdo del Procurador, las sanciones administrativas que correspondan;
+I. Establecer, controlar, evaluar y dar trámite a los procedimientos de recepción, atención y seguimiento de las quejas y denuncias que se presenten en contra de los servidores públicos, elementos operativos o de los miembros del servicio profesional de carrera, de la Procuraduría General de Justicia del Estado de Jalisco;
 
-III. Formular los pliegos de responsabilidad de los servidores públicos de la Procuraduría que sean procedentes, por irregularidades descubiertas en el ejercicio de sus funciones y, en su caso, remitirlos a la autoridad competente;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2012)</small>
+
+II. Iniciar y substanciar los procedimientos de responsabilidad administrativa y laboral en los términos del régimen aplicable de Responsabilidades de los Servidores Públicos y de la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, y remitirlos al Procurador General de Justicia del Estado para que dicte la resolución correspondiente;
+
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2012)</small>
+
+III. Iniciar y substanciar los procedimientos de responsabilidad administrativa y de separación en los términos de la Ley del Sistema de Seguridad Pública para el Estado de Jalisco y remitirlos a las instancias correspondientes para su resolución;
 
 IV. Desarrollar y mantener actualizado el sistema de registro sobre sanciones administrativas impuestas a los servidores públicos de la Procuraduría, en los términos del Régimen aplicable de Responsabilidades de los Servidores Públicos;
 
@@ -649,17 +663,17 @@ XXIII. Acordar con los servidores públicos de las unidades administrativas a su
 
 XXIV. Dirimir los conflictos de competencia que se presenten entre las unidades administrativas que le estén adscritas;
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2012)</small>
 
-XXV. Fungir como Unidad de Transparencia de la Procuraduría, tramitar y resolver los procedimientos administrativos en materia de información pública que sean competencia de la Procuraduría, de conformidad con la legislación aplicable;
+XXV. Recibir, evaluar y dar trámite a las quejas y denuncias, así como iniciar y substanciar los procedimientos de responsabilidad administrativa y laboral que establecen tanto la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, como la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, en contra de los servidores públicos de la Procuraduría que se encuentren sujetos a dicho régimen, los cuales deberá remitir al Procurador General de Justicia del Estado para que dicte la resolución correspondiente;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 2005)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 1 DE SEPTIEMBRE DE 2012)</small>
 
-XXVI. Participar como miembro del Comité de Clasificación de Información Pública de la Procuraduría, y
+XXVI. Recibir las quejas y denuncias, iniciar y substanciar los procedimientos de responsabilidad administrativa y de separación referidos en la Ley del Sistema de Seguridad Pública para el Estado de Jalisco respecto a los elementos operativos o de los miembros del servicio profesional de carrera de la Procuraduría y remitirlos a las instancias correspondientes para su resolución; y
 
-> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 1 DE SEPTIEMBRE DE 2012)</small>
 
-XXVII. Las demás que les señalen las disposiciones aplicables, las que les confiera el Procurador y las que correspondan a las unidades administrativas que se les adscriban.
+XXVII. Las demás que le señalen las disposiciones aplicables, las que le confiera el Procurador y las que correspondan a las unidades administrativas que se le adscriban.
 
 ### CAPITULO XI. De la Visitaduría
 
@@ -691,7 +705,7 @@ XI. Las demás que le señalen las disposiciones aplicables y las que le confier
 
 ### CAPITULO XII. De las Divisiones de Investigación
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE MARZO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2008)</small>
 
 ###### Artículo 18.
 
@@ -1219,13 +1233,13 @@ VI. Las demás que le confieran las disposiciones aplicables y el Procurador.. (
 
 ### CAPITULO XXIX. De la Policía Investigadora
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2003)</small>
 
 ###### Artículo 38.
 
 La Policía Investigadora, que se encuentra bajo el mando directo e inmediato del Ministerio Público se encontrará adscrita a las unidades administrativas que correspondan, conforme a los acuerdos del Procurador, y serán organizados por un Coordinador General.
 
-> <small>(ADICIONADO PRIMER PARRAFO, P.O. 5 DE ABRIL DE 2003)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2003)</small>
 
 Los agentes de la Policía Investigadora, tendrán las siguientes atribuciones:
 
@@ -1335,7 +1349,7 @@ EL C. PROCURADOR GENERAL DE JUSTICIA
 
 LIC. FÉLIX JAVIER LEDESMA MARTÍNEZ NEGRETE
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 5 DE ABRIL DE 2003.
 
@@ -1370,3 +1384,9 @@ P.O. 14 DE NOVIEMBRE DE 2009.
 P.O. 6 DE DICIEMBRE DE 2011.
 
 ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 1 DE SEPTIEMBRE DE 2012.
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Los procedimientos de responsabilidad administrativa y laboral iniciados con anterioridad a la entrada en vigor del presente acuerdo se desahogarán y concluirán conforme a las normas vigentes al momento de su incoación.
