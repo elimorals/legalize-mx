@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-adquisiciones-y-enajenaciones-del-sistema-63371"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-09-23"
-last_updated: "2008-09-23"
+last_updated: "2012-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63371&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "JAL"
 ---
 # REGLAMENTO DE ADQUISICIONES Y ENAJENACIONES DEL SISTEMA INTERMUNICIPAL PARA LOS SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO, S.I.A.P.A
 
-REGLAMENTO DE ADQUISICIONES Y ENAJENACIONES DEL S.I.A.P.A
+REGLAMENTO DE ADQUISICIONES Y ENAJENACIONES DEL S.I.A.P.A DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL MANUAL DE POLÍTICAS, BASES Y LINEAMIENTOS EN MATERIA DE ADQUISICIONES Y ENAJENACIONES DEL S.I.A.P.A. DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. 1 DE SEPTIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el martes 23 de septiembre de 2008.
 
@@ -1587,3 +1589,11 @@ SEGUNDO.- Se instruye a la Dirección General para que a partir del día siguien
 C.P. RODOLFO GUADALUPE OCAMPO VELÁZQUEZ
 
 DIRECTOR GENERAL DEL SISTEMA INTERMUNICIPAL PARA LOS SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE SEPTIEMBRE DE 2012.
+
+PRIMERO. Se abroga el Reglamento Reglamento (sic) de Adquisiciones y Enajenaciones del SIAPA, publicado en el Periódico Oficial del Estado, el 23 de septiembre de 2008, Sección III.
+
+SEGUNDO.- Se instruya a la Dirección General para que a partir del día siguiente de su aprobación por este Consejo de Administración, realice las gestiones necesarias para la publicación del presente ordenamiento, el cual entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, los estrados de las oficinas del Organismo y en las Gacetas Municipales de los Municipios que lo conforman.
