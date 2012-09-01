@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2012-08-11"
+last_updated: "2012-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2012.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -769,7 +769,9 @@ I.- En las faltas absolutas o temporales del Propietario.
 
 II.- Cuando los Diputados Propietarios después de llamados para la instalación del Congreso, no se presenten dentro de ocho días contados desde que se les notifique el llamamiento.
 
-III.- Cuando los Diputados Propietarios hubieren dejado de concurrir sin licencia o sin causa justificada a juicio de la Cámara, a diez sesiones consecutivas de las que deban efectuarse en un período de ellas; debiendo entonces los Suplentes funcionar tan sólo por este período y el receso respectivo.
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2012)</small>
+
+III.- Cuando los diputados propietarios hubieren dejado de concurrir sin licencia o sin causa justificada a juicio del Congreso del Estado, a diez sesiones consecutivas de las que deban efectuarse en un período de ellas; debiendo entonces los suplentes funcionar tan sólo por este período y el receso respectivo.
 
 IV.- Cuando en cualquier tiempo en que deba funcionar el Congreso, no se encuentren en la Capital suficientes Diputados Propietarios para formar quórum.
 
@@ -2115,7 +2117,7 @@ DEL MUNICIPIO LIBRE.
 
 El territorio del Estado se divide en sesenta y siete municipios que son:
 
-1. Ahumada, 2. Aldama, 3. Allende, 4. Aquiles Serdán, 5. Ascensión, 6. Bachíniva, 7. Balleza, 8. Batopilas, 9. Bocoyna, 10. Buenaventura, 11. Camargo, 12. Carichí, 13. Casas Grandes, 14. Coronado, 15. Coyame del Sotol, 16. Cuauhtémoc, 17. Cusihuiriachi, 18. Chihuahua, 19. Chínipas, 20. Delicias, 21. Dr.Belisario Domínguez, 22. El Tule, 23. Galeana, 24. Gómez Farías, 25. Gran Morelos, 26. Guadalupe, 27. Guadalupe y Calvo, 28. Guachochi, 29. Guazapares, 30. Guerrero, 31. Hidalgo del Parral, 32. Huejotitán, 33. Ignacio Zaragoza, 34. Janos, 35. Jiménez, 36. Juárez, 37. Julimes, 38. La Cruz, 39. López, 40. Madera, 41. Maguarichi, 42. Manuel Benavides, 43. Matachí, 44. Matamoros, 45. Meoqui, 46. Morelos, 47. Moris, 48. Namiquipa, 49. Nonoava, 50. Nuevo Casas Grandes, 51. Ocampo, 52. Ojinaga, 53. Praxedis G. Guerrero, 54. Riva Palacio, 55. Rosales, 56. Rosario, 57. San Francisco de Borja, 58. San Francisco de Conchos, 59. San Francisco del Oro, 60. Santa Bárbara, 61. Santa Isabel, 62. Satevó, 63. Saucillo, 64. Temósachic, 65. Urique, 66. Uruachi, 67. Valle de Zaragoza.
+1. Ahumada, 2. Aldama, 3. Allende, 4. Aquiles Serdán, 5. Ascensión, 6. Bachíniva, 7. Balleza, 8. Batopilas, 9. Bocoyna, 10. Buenaventura, 11. Camargo, 12. Carichí, 13. Casas Grandes, 14. Coronado, 15. Coyame del Sotol, 16. Cuauhtémoc, 17. Cusihuiriachi, 18. Chihuahua, 19. Chínipas, 20. Delicias, 21. Dr. Belisario Domínguez, 22. El Tule, 23. Galeana, 24. Gómez Farías, 25. Gran Morelos, 26. Guadalupe, 27. Guadalupe y Calvo, 28. Guachochi, 29. Guazapares, 30. Guerrero, 31. Hidalgo del Parral, 32. Huejotitán, 33. Ignacio Zaragoza, 34. Janos, 35. Jiménez, 36. Juárez, 37. Julimes, 38. La Cruz, 39. López, 40. Madera, 41. Maguarichi, 42. Manuel Benavides, 43. Matachí, 44. Matamoros, 45. Meoqui, 46. Morelos, 47. Moris, 48. Namiquipa, 49. Nonoava, 50. Nuevo Casas Grandes, 51. Ocampo, 52. Ojinaga, 53. Praxedis G. Guerrero, 54. Riva Palacio, 55. Rosales, 56. Rosario, 57. San Francisco de Borja, 58. San Francisco de Conchos, 59. San Francisco del Oro, 60. Santa Bárbara, 61. Santa Isabel, 62. Satevó, 63. Saucillo, 64. Temósachic, 65. Urique, 66. Uruachi, 67. Valle de Zaragoza.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2001)</small>
 
@@ -2933,13 +2935,13 @@ El procedimiento de juicio político sólo podrá iniciarse durante el período 
 
 Para proceder penalmente en contra de los servidores públicos que menciona el artículo 179 por la comisión de delitos comunes durante el tiempo de su cargo, el Congreso del Estado declarará por el voto de más de la mitad de los presentes, si ha o no lugar a ejercitar la acción persecutoria correspondiente.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2012)</small>
 
-Si la resolución de la Cámara fuese negativa, se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito común continúe su curso cuando el inculpado haya concluido el ejercicio de su cargo, pues la misma no prejuzga los fundamentos de la imputación.
+Si la resolución del Congreso del Estado fuese negativa, se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito común continúe su curso cuando el inculpado haya concluido el ejercicio de su cargo, pues la misma no prejuzga los fundamentos de la imputación.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2012)</small>
 
-Si la Cámara declara que ha lugar a proceder, el funcionario quedará separado de su cargo y a disposición de las autoridades competentes para que actúen con arreglo a la ley. Si de acuerdo con ésta se dictase sentencia absolutoria, el inculpado podrá reasumir su cargo. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de sus funciones, no se concederá al reo la gracia del indulto. Las sanciones penales se aplicarán de acuerdo con lo dispuesto en la legislación penal y tratándose de delitos por cuya comisión el autor obtenga un beneficio económico y cause daños y perjuicios patrimoniales, deberán graduarse de acuerdo con el logro obtenido y con la necesidad de satisfacer los daños y perjuicios causados por su conducta ilícita. Las sanciones económicas no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
+Si el Congreso del Estado declara que ha lugar a proceder, el funcionario quedará separado de su cargo y a disposición de las autoridades competentes para que actúen con arreglo a la ley. Si de acuerdo con ésta se dictase sentencia absolutoria, el inculpado podrá reasumir su cargo. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de sus funciones, no se concederá al reo la gracia del indulto. Las sanciones penales se aplicarán de acuerdo a lo dispuesto en la legislación penal y tratándose de delitos por cuya comisión el autor obtenga un beneficio económico y cause daños y perjuicios patrimoniales, deberán graduarse de acuerdo con el logro obtenido y con la necesidad de satisfacer los daños y perjuicios causados por su conducta ilícita. Las sanciones económicas no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -3793,7 +3795,21 @@ Conforme lo dispone el artículo 202 de la Constitución Política del Estado, e
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
+P.O. 1 DE SEPTIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+En cumplimiento a lo establecido por el artículo 202 de la Constitución Política del Estado, remítase copia de la Iniciativa, del Dictamen y de los Debates del Honorable Congreso del Estado, a los Ayuntamientos de los sesenta y siete Municipios de la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución Política local. Realizado que sea, publíquese en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
 P.O. 11 DE AGOSTO DE 2012.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente Decreto, deberán realizarse las adecuaciones a la legislación reglamentaria, de conformidad al derecho a la autonomía y al consentimiento libre, previo e informado.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3802,7 +3818,3 @@ Conforme lo dispone el artículo 202 de la Constitución Política del Estado, e
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-###### ARTÍCULO TERCERO.
-
-A partir de la entrada en vigor del presente Decreto, deberán realizarse las adecuaciones a la legislación reglamentaria, de conformidad al derecho a la autonomía y al consentimiento libre, previo e informado.
