@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-procuraduria-general-de-justicia-del-12026"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-02-05"
-last_updated: "2011-12-27"
+last_updated: "2012-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12026&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de febrero de 1998.
 
@@ -47,7 +47,7 @@ Esta ley tiene por objeto la organización de la Procuraduría General de Justic
 
 El Ministerio Público en el Estado, estará a cargo del Procurador General de Justicia del Estado, al cual le corresponde las siguientes atribuciones, que podrá delegar o ejercer por sí mismo, de conformidad con lo que establezca el presente ordenamiento y su reglamento:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
@@ -121,37 +121,37 @@ d) De las diligencias practicadas se desprenda plenamente la existencia de una e
 
 e) Resulte imposible la prueba de la existencia de los hechos constitutivos de delito, por obstáculo material insuperable;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
 f) Cuando se eleve a la categoría de sentencia ejecutoriada el acuerdo final del método alternativo de solución de conflictos en los delitos no excluidos por la Ley de Justicia Alternativa del Estado de Jalisco, salvo que se declare la nulidad del convenio final señalado;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
 g) El farmacodependiente o consumidor posea alguno de los narcóticos señalados en la tabla contenida en el artículo 479 de la Ley General de Salud en igual o inferior cantidad a la prevista en la misma, para su estricto consumo personal y fuera de los lugares señalados en la fracción II del artículo 475 de la citada ley, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
 h) En los demás casos que determinen las normas aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
 Para los efectos de esta fracción, el Procurador resolverá en definitiva los casos en que el Agente del Ministerio Público proponga el no ejercicio de la acción penal; esta resolución deberá ser notificada al ofendido para los efectos que establece el párrafo cuarto del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
 La resolución que se emita en los términos del inciso f) de esta fracción, no requerirá aprobación del Procurador General de Justicia, para surtir efectos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
@@ -335,7 +335,7 @@ El reglamento establecerá el número de unidades administrativas de la Procurad
 
 El Procurador podrá adscribir orgánicamente las unidades administrativas establecidas en el reglamento mediante acuerdos que se publicarán en el periódico oficial "El Estado de Jalisco".
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 15.
 
@@ -563,7 +563,7 @@ Se procurará que los secretarios, mediante las evaluaciones correspondientes, s
 
 Las normas reglamentarias y las demás disposiciones aplicables establecerán sistemas de estímulos económicos derivados del desempeño, formación profesional grados académicos y antigüedad de los agentes del Ministerio Público y agentes de la Policía Investigadora de la Procuraduría.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 42.
 
@@ -589,7 +589,7 @@ En el ejercicio de sus funciones, el personal de la Procuraduría observará las
 
 Los agentes del Ministerio Público y sus auxiliares no son recusables, pero deben excusarse del conocimiento de los asuntos en que intervengan cuando exista alguna de las causas de impedimento que la ley señala en los casos de los magistrados y jueces del orden común.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2006)</small>
 
 ###### Artículo 46.
 
@@ -655,7 +655,7 @@ La unidad especializada, debe contar con un cuerpo técnico de control, que en l
 
 Los servidores públicos de esta unidad especializada, son responsables por la guarda y reserva en el manejo de la información relacionada con las averiguaciones a su cargo. En el curso de las averiguaciones la información relacionada con éstas se considera reservada y confidencial y solo podrá ser consultada por las personas implicadas en forma directa en la averiguación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
@@ -682,6 +682,14 @@ Para la atención de los delitos cuya investigación y persecución requiera de 
 Le corresponde a la Unidad Especializada en Extinción de Dominio o al Ministerio Público designado por el Procurador General de Justicia, en los términos de la ley de la materia, el ejercicio de la acción de extinción de dominio de bienes, en los casos previstos en la Ley de Extinción de Dominio del Estado de Jalisco.
 
 La Unidad Especializada o el Ministerio Público tendrá las facultades que esta Ley le otorga para recabar las pruebas necesarias para la preparación del ejercicio de la acción de extinción de dominio.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 56.
+
+Le corresponde a la Fiscalía Especializada en delitos de Trata de Personas o al Agente del Ministerio Público designado por el Procurador General de Justicia, en los términos de la presente Ley, el ejercicio de la acción penal.
+
+Dicha Fiscalía Especializada o el Agente del Ministerio Público tendrán las facultades que esta ley y la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos le otorgan.
 
 ## TRANSITORIOS
 
@@ -725,7 +733,7 @@ El Secretario General de Gobierno
 
 Lic. Raúl Octavio Espinoza Martínez
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 9 DE DICIEMBRE DE 1999.
 
@@ -796,3 +804,19 @@ SEGUNDO. Se autoriza al titular del Poder Ejecutivo del Estado para que, por con
 P.O. 27 DE DICIEMBRE DE 2011.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 1 DE SEPTIEMBRE DE 2012.
+
+PRIMERO. El presente decreto entrará en vigor a los noventa días siguientes a su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. El Ejecutivo del Estado deberá elaborar y publicar el reglamento correspondiente.
+
+TERCERO. Se autoriza al Titular del Poder Ejecutivo en el Estado, a través de la Secretaría de Finanzas y Administración, a realizar todas las modificaciones y adecuaciones presupuestales así como administrativas necesarias para el debido cumplimiento de la ley.
+
+CUARTO. Treinta días posteriores a la entrada en vigor del presente decreto, la Procuraduría General de Justicia del Estado de Jalisco, deberá realizar las acciones necesarias para la creación de la Fiscalía Especializada a que se refiere la Ley General para Prevenir Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, de conformidad con el presupuesto que para tal efecto le sea asignado; atentos a lo dispuesto en el artículo transitorio anterior.
+
+QUINTO. Todos los asuntos que se encuentren en etapa de averiguación previa, proceso, hayan sido sentenciados o se encuentren en la ejecución de sentencia por delitos relacionados con el presente decreto, seguirán rigiéndose por las normas vigentes anteriores a la entrada en vigor del presente decreto.
+
+SEXTO. La constitución de la Comisión Interinstitucional deberá realizarse en un plazo máximo de 90 días naturales a partir de la entrada en vigor de la ley; así como la designación del Secretario Técnico de ésta.
+
+La Comisión Interinstitucional deberá aprobar en un plazo máximo de sesenta días naturales a partir de su constitución el Programa Estatal para Prevenir, Combatir y Erradicar la Trata de personas y remitir a la Secretaria General de Gobierno para su publicación.
