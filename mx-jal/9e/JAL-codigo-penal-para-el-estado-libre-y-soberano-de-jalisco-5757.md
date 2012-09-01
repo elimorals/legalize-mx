@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2012-08-23"
+last_updated: "2012-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -1413,21 +1413,7 @@ Se aplicará de seis meses a un año de prisión al que viole o infrinja una ord
 
 ### CAPITULO II. Pornografía Infantil
 
-> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2007)</small>
-
-Art.142 D. Se impondrá una pena de tres a quince años de prisión y multa de quinientos a diez mil días de salario mínimo, a la persona que incurra en las siguientes conductas:
-
-I Induzca, obligue o entregue a una persona menor de dieciocho años de edad o que no tenga capacidad para comprender el significado del hecho, con o sin su consentimiento, para que realice o simule actos de exhibicionismo corporal, de naturaleza sexual o lasciva, con el fin de producir imágenes o sonidos de dichos actos a través de fotografías; filmes, videos, revistas o cualquier otro medio impreso, electrónico o tecnológico, con o sin ánimo de lucro;
-
-II. Realice materialmente la toma de fotografías, filmación, grabación de imágenes o sonidos, o cualquier otra actividad relativa con la producción o reproducción de las imágenes o sonidos a que se refiere la fracción anterior;
-
-III. A quien emplee, dirija, administre o supervise a título de dueño, propietario, director, empresario o cualquier otro que implique la autoría intelectual de los actos señalados en las fracciones I y II; ó
-
-IV. Reproduzca, venda, compre, rente, exponga, publicite, difunda o envíe por cualquier medio con o sin ánimo de lucro, las imágenes o sonidos señalados en la fracción I de este artículo.
-
-Se impondrá una multa de cien a quinientos días de salario mínimo a quien posea una o más fotografías, filmes, grabaciones o cualquier otro material impreso o electrónico, que contenga las imágenes o sonidos señaladas en este artículo, cuando sea de su conocimiento el hecho de la posesión y de la minoría de edad de las personas que aparecen en las imágenes.
-
-Si las conductas señaladas en este artículo son cometidas por servidores públicos valiéndose de la función que desempeña, por quien tenga parentesco consanguíneo o por afinidad hasta el cuarto grado o por quienes laboran en organismos públicos o privados dedicadas al cuidado y atención de personas menores de dieciocho años de edad o que no tengan capacidad para comprender el significado del hecho, la pena se aumentará en una tercera parte de la que corresponda y procederá en su caso la destitución del puesto, comisión o cargo público.
+Art.142 D. (DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2012)
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE ENERO DE 2007)</small>
 
@@ -1483,9 +1469,7 @@ II. De cuatro a siete años de prisión, y multa por el equivalente de dosciento
 
 Art. 142 G. Se impondrán de siete a catorce años de prisión y multa por el equivalente de quinientos días de salario mínimo, a quien administre, regentee, induzca, promueva, ofrezca, facilite o lleve a cabo actos tendientes a la utilización con persona menor de dieciocho años de edad o con quien no tengan capacidad para comprender el significado del hecho en prácticas de prostitución o pornografía.
 
-> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2007)</small>
-
-Art. 142 H. Comete el delito de promoción de la prostitución infantil quien promueva, publicite, invite, facilite o gestione por cualquier medio a persona o personas a que viajen con la finalidad de que sostengan practicas sexuales con menores de dieciocho años de edad o con quienes no tengan capacidad para comprender el significado del hecho; o para que éste o éstos viajen con esa finalidad, o financie cualquiera de las actividades antes descritas, se le impondrá una pena de seis a diez años de prisión y de mil a tres mil días multa.
+Art. 142 H. (DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2012)
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE ENERO DE 2007)</small>
 
@@ -1519,7 +1503,7 @@ Para los efectos de este artículo, la seducción implica fascinación y el enga
 
 Este delito se perseguirá por querella de la parte ofendida o de su legítimo representante.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE ENERO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Art. 135.
 
@@ -1545,21 +1529,13 @@ Cuando el delito se cometa valiéndose de alguna relación de parentesco o autor
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE JUNIO DE 2003)</small>
 
-### CAPITULO VI. Trata de Personas
+### CAPITULO VI. De la Gestión de la Adopción Ilegal
 
-> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2007)</small>
+Art. 142 J. (DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2012)
 
-Art. 142 J. Al que ofrezca, promueva, facilite, entregue o consiga a una persona menor de dieciocho años de edad o a una persona que no tenga capacidad para comprender el significado del hecho, para cualquier forma de explotación, se le impondrán de seis a doce años de prisión y de quinientos a mil quinientos días multa, sin perjuicio de las penas que correspondan por la comisión de otros delitos.
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2012)</small>
 
-Las penas que resulten aplicables por los delitos previstos en este artículo se incrementarán:
-
-I. Hasta una tercera parte, si el delito es cometido en contra de un menor de catorce años de edad o es cometido por un servidor público. En esta último caso, se impondrá además la destitución del empleo, cargo o comisión públicos e inhabilitación para desempeñar otro hasta por un tiempo igual a de la pena de prisión impuesta;
-
-II. Hasta una mitad, si el delito es cometido en contra de un menor de doce años de edad o se emplee violencia física o moral o cuando el sujeto activo del delito tenga parentesco por consanguinidad, afinidad o civil o habite en el mismo domicilio con la víctima, aunque no existiera parentesco alguno, o sea tutor o curador de la víctima.
-
-> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2007)</small>
-
-Art. 142 K. Al que gestione para que una persona que ejerza la patria potestad o la tutela sobre un menor de dieciocho años de edad o persona que no tenga capacidad para comprender el significado del hecho, preste su consentimiento para la adopción del menor o de quien no tenga la capacidad para comprender el significado del hecho, sin que se cumplan las disposiciones legales o los tratados internacionales de los que México sea parte, se le impondrán de dos a seis años de prisión y de mil a mil quinientos días multa; la misma pena se aplicará a quien consienta dar en adopción y a quien acepte la adopción hecha en los términos antes indicados.
+Art. 142 K. Al que gestione para que una persona que ejerza la patria potestad o la tutela sobre un menor de dieciocho años de edad o persona que no tenga capacidad para comprender el significado del hecho, preste su consentimiento para la adopción del menor o de quien no tenga la capacidad para comprender el significado del hecho, sin que se cumplan las disposiciones legales o los tratados internacionales de los que México sea parte, se le impondrán de dos a seis años de prisión y de mil a mil quinientos días multa; (sic)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE DICIEMBRE DE 2004)</small>
 
@@ -2485,7 +2461,9 @@ Si la persona ofendida fuere menor de diez años, la sanción será de doce a di
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO. (REFORMADA SU DENOMINACIÓN, P.O. 27 DE MAYO DE 2008)</small>
 
-### CAPITULO VI. Privación ilegal de la libertad y de otros derechos
+### CAPITULO VI. Privación Ilegal de la libertad
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Art. 176 Ter.
 
@@ -2510,8 +2488,6 @@ Estos delitos sólo serán perseguidos por querella del ofendido o de su legíti
 > <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
 ### CAPITULO VII. Secuestro
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2003)</small>
 
 ### CAPITULO OCTAVO. Rapto
 
@@ -2751,19 +2727,13 @@ Se impondrán de uno a ocho años de prisión y multa por el importe de cinco a 
 
 Las sanciones a que se refiere este artículo se impondrán independientemente de las penas que procedan por los demás delitos que resulten.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE SEPTIEMBRE DE 2012)</small>
+
 ### CAPITULO IV. Violación de depósito
 
 ###### Art. 193.
 
-Se impondrán de seis meses a cuatro años de prisión:
-
-I. Al particular que ilegítimamente prive a otro de su libertad personal; y
-
-II. Al que obligue a otro a prestar trabajos o servicios personales, ya sea empleando violencia física o moral.
-
-> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2007)</small>
-
-Cuando al sujeto pasivo se le obligue a realizar prácticas sexuales, la pena será de tres a diez años de prisión.
+Se impondrán de seis meses a cuatro años de prisión al particular que ilegítimamente prive a otro de su libertad personal.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE ENERO DE 1999)</small>
 
@@ -2771,153 +2741,11 @@ Cuando al sujeto pasivo se le obligue a realizar prácticas sexuales, la pena se
 
 ###### Art. 194.
 
-Comete el delito de secuestro quien prive ilegalmente de la libertad a otro con la finalidad de obtener rescate o de causar daño o perjuicio. Por rescate se entiende todo aquello que entrañe un provecho indebido y a cuya realización se condiciona la libertad del plagiado. Al responsable de este delito se le impondrá una pena de dieciocho a treinta y cinco años de prisión y multa por el importe de mil a dos mil días de salario mínimo:
-
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 1999)</small>
-
-Son disposiciones aplicables al secuestro, las siguientes:
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2003)</small>
-
-I. Al responsable de secuestro se le sancionará con una pena de veinticinco a cuarenta años de prisión y multa por el importe de mil a tres mil días de salario mínimo, y en su caso destitución, e inhabilitación del servidor público para desempeñar otro empleo, comisión o cargo público, cuando:
-
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 1999)</small>
-
-a) Se cometa por servidores públicos que desempeñen funciones de prevención, investigación o persecución de delitos o por elementos de seguridad, activos en corporaciones privadas;
-
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 1999)</small>
-
-b) El o los responsables, se ostenten con el carácter señalado en el inciso anterior, sin serlo;
-
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 1999)</small>
-
-c) Se cometa por personas que con anterioridad a la comisión del secuestro, hayan desempeñado funciones de prevención, investigación o persecución de delitos, o hubieren fungido como elementos de seguridad en corporaciones públicas o privadas;
-
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 1999)</small>
-
-d) El secuestrado sea menor de dieciocho o mayor de sesenta años, se trate de mujer embarazada o de persona que por su condición de salud física o estado mental se encuentre en mayor desventaja frente al secuestrador;
-
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 1999)</small>
-
-e) Entre el activo y el pasivo, exista vínculo de parentesco en cualquier línea hasta el cuarto grado, amistad, gratitud, trabajo, o cualquier otro que produzca confianza;
-
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 1999)</small>
-
-f) Se torture, veje, maltrate o mutile al secuestrado;
-
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 1999)</small>
-
-g) Se cometa con la finalidad de extraer al pasivo cualquier parte de su cuerpo para transplante;
-
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 1999)</small>
-
-h) Durante el hecho se haga uso de narcóticos o cualquier sustancia o elemento susceptibles de anular o disminuir la resistencia de la víctima;
-
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 1999)</small>
-
-i) El secuestro se desarrolle en diferentes entidades federativas;
-
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 1999)</small>
-
-j) El activo utilice instalaciones o bienes gubernamentales, frecuencias, claves o códigos oficiales;
-
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
-
-k) Para lograr sus propósitos, se valga de redes o sistemas informáticos internacionales o de otros medios de alta tecnología, que impliquen marcada ventaja en el logro de su fin;
-
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 1999)</small>
-
-l) El secuestro se cometa en casa habitación, sitio de trabajo, cualquiera de las rutas o lugares comúnmente frecuentados por el pasivo, inmediaciones de los mismos, en despoblado o área desprotegida;
-
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 1999)</small>
-
-m) El secuestro se cometa contra más de una persona, sin perjuicio de las reglas aplicables de los artículos 54 y 55 de este Código;
-
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 1999)</small>
-
-n) El secuestro se prolongue por más de cinco días;
-
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 1999)</small>
-
-ñ) El activo acepte, persuada u obligue a la víctima a que realice directa o indirectamente, operaciones o transacciones bancarias, mercantiles, civiles, o cualquier otra que produzca liberación o transmisión de obligaciones, obtenga o no el beneficio;
-
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 1999)</small>
-
-o) Se cometa por dos o más activos;
-
-p) El secuestrador obligue bajo amenazas, engaños o violencia a un tercero a participar en cualquier etapa del delito; y
-
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 1999)</small>
-
-q) Para la obtención de los fines del delito, se amenace con dañar o perjudicar a la comunidad o particulares, mediante la utilización de explosivos, sustancias tóxicas, incendios, inundaciones, o cualquier otro que ponga en peligro a las personas y cosas.
-
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
-
-La misma pena de esta fracción se impondrá al responsable de secuestro, si algún pariente del ofendido hasta el cuarto grado, sin haber sido víctima directa del ilícito, muere por alteraciones de salud que devinieren como efecto del delito, si el deceso se produce durante el secuestro o dentro de los siguientes sesenta días;
-
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2004)</small>
-
-II. Si el ofendido es privado de la vida o muere durante la comisión del delito, o concluido éste, muere por causas directamente relacionadas con el mismo dentro de los trescientos días siguientes a aquél en que cesó la privación de su libertad, se le impondrá al secuestrador la pena de cuarenta a cincuenta años de prisión y multa por el importe de tres mil quinientos a cinco mil días de salario mínimo;
-
-> <small>(REFORMADA, P.O. 14 DE ENERO DE 1999)</small>
-
-III. El activo que comunique a la autoridad antes que sus copartícipes, la información veraz con pormenores que hagan posible evitar o impedir el secuestro, o producido este, identifique a todos o algunos de los coautores o partícipes de la comisión del delito, o se logre localizar a la víctima sin mayor menoscabo de su salud, será sujeto a los siguientes beneficios:
-
-a) Si la información se produce antes de la comisión del ilícito, y la conducta conformare tentativa, se estará a lo dispuesto por el artículo 10 de este Código;
-
-b) Si la información se proporcionara una vez consumado el delito, ante el Ministerio Público en la averiguación previa, la pena será de seis meses a dos años de prisión; y
-
-c) Si la información aconteciere durante el proceso, el beneficio será de una tercera parte de la pena hasta lo dispuesto en el inciso anterior, acorde a la información proporcionada y a los resultados obtenidos con esta.
-
-Cuando la comunicación a que se refiere el primer párrafo de esta fracción provenga de persona vinculada a uno de los secuestradores por lazos de parentesco o amistad, al activo ligado con el informante se le impondrá una pena de tres a seis años de prisión y multa por el importe de doscientos a quinientos días de salario. Esta circunstancia no aprovecha a los demás coautores o partícipes.
-
-El Ministerio Público o el Juez, según corresponda, proporcionarán protección y vigilancia al activo que se encuentre en los supuestos de los incisos señalados en esta fracción o al informante a que se refiere el párrafo que antecede.
-
-La autoridad que reciba informes relacionados con un secuestro tendrá la obligación de transmitirlos sin demora al Ministerio Público en los términos del artículo 88 del Código de Procedimientos Penales; si la autoridad recibe dichos informes de uno o de los partícipes o autores del delito o de persona vinculada a alguno de ellos por lazos de parentesco o amistad, y los datos proporcionados arrojan los pormenores señalados en el primer párrafo de esta fracción, se aplicará a favor del activo del delito, lo dispuesto en los incisos que anteceden, o bien, la regla señalada en el párrafo segundo del mismo, según sea el caso. La información a que se refiere el párrafo primero de esta fracción podrá hacerse llegar a las autoridades personalmente, por escrito o a través de un representante.
-
-El mismo beneficio a que se contrae el inciso "b" de esta fracción, aprovechará al primero de los activos que de manera espontánea o negociada, ponga en libertad al ofendido sin mayor menoscabo de su salud, dentro de los cinco días siguientes al secuestro, sin haber obtenido provecho, o en su caso lo hubiere restituido, sin que esta circunstancia beneficie al resto de los coautores;
-
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2003)</small>
-
-Las atenuantes aquí señaladas, serán de aplicación única y exclusiva para el delito por el cual se colabore con la autoridad, sin que dichas atenuantes se apliquen a conductas anteriores atribuibles a quien se acoja a estos beneficios.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2003)</small>
-
-IV. Se impondrá de tres a diez años de prisión, y multa de trescientos a seiscientos días de salario, a quien con motivo de un secuestro, sin ser partícipe del mismo y fuera de las causas de exclusión del delito previstas por este Código:
-
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 1999)</small>
-
-a) Actúe como intermediario en las negociaciones de rescate, no obstante inconformidad y advertencia de la familia de la víctima de no hacerlo; y
-
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 1999)</small>
-
-b) A sabiendas del secuestro y con fines de lucro indebido efectúe el cambio de moneda nacional por divisas, o de éstas por moneda nacional destinadas al pago del rescate; y
-
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2003)</small>
-
-A quien simule o argumente falsamente la realización de un secuestro, se impondrá una pena de dos a nueve años de prisión y multa por el importe de cincuenta a quinientos días de salario mínimo.
-
-> <small>(REFORMADA, P.O. 14 DE ENERO DE 1999)</small>
-
-V. Se impondrá la sanción correspondiente al delito de fraude prevista en la fracción III, del artículo 251 de este código, a quien simule o argumente falsamente la realización de un secuestro.
-
-> <small>(ADICIONADO, P.O. 5 DE MARZO DE 1998)</small>
+(DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2012)
 
 ###### Art. 194 Bis.
 
-Se impondrá de uno a ocho años de prisión y de doscientos a mil días de multa, al que en relación con las conductas sancionadas por el artículo anterior y fuera de las causas de exclusión del delito previstas por la ley:
-
-I. Actúe como intermediario en las negociaciones del rescate, sin el acuerdo de quienes representen o gestionen a favor de la víctima;
-
-II. Colabore en la difusión pública de las pretensiones o mensajes de los secuestradores, fuera del estricto derecho a la información;
-
-III. Actúe como asesor de quienes representen o gestionen a favor de la víctima, y evite informar o colaborar con la autoridad competente en el conocimiento de la comisión del secuestro;
-
-IV. Aconseje el no presentar la denuncia del secuestro cometido, o bien el no colaborar o el obstruir la actuación de las autoridades;
-
-V. Efectúe el cambio de moneda nacional por divisas, sabiendo que es con el propósito directo de pagar el rescate a que se refiere la fracción primera del artículo anterior; y
-
-VI. Intimide a la víctima, a sus familiares hasta el segundo grado o a sus representantes o gestores durante o después del secuestro, para que no colaboren con las autoridades competentes.
+(DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2012)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -4978,3 +4806,19 @@ DECRETO No. 23934/LIX/11, POR EL QUE SE REFORMAN LOS PÁRRAFOS PRIMERO Y CUARTO 
 P.O. 23 DE AGOSTO DE 2012.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 1 DE SEPTIEMBRE DE 2012.
+
+PRIMERO. El presente decreto entrará en vigor a los noventa días siguientes a su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. El Ejecutivo del Estado deberá elaborar y publicar el reglamento correspondiente.
+
+TERCERO. Se autoriza al Titular del Poder Ejecutivo en el Estado, a través de la Secretaría de Finanzas y Administración, a realizar todas las modificaciones y adecuaciones presupuestales así como administrativas necesarias para el debido cumplimiento de la ley.
+
+CUARTO. Treinta días posteriores a la entrada en vigor del presente decreto, la Procuraduría General de Justicia del Estado de Jalisco, deberá realizar las acciones necesarias para la creación de la Fiscalía Especializada a que se refiere la Ley General para Prevenir Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, de conformidad con el presupuesto que para tal efecto le sea asignado; atentos a lo dispuesto en el artículo transitorio anterior.
+
+QUINTO. Todos los asuntos que se encuentren en etapa de averiguación previa, proceso, hayan sido sentenciados o se encuentren en la ejecución de sentencia por delitos relacionados con el presente decreto, seguirán rigiéndose por las normas vigentes anteriores a la entrada en vigor del presente decreto.
+
+SEXTO. La constitución de la Comisión Interinstitucional deberá realizarse en un plazo máximo de 90 días naturales a partir de la entrada en vigor de la ley; así como la designación del Secretario Técnico de ésta.
+
+La Comisión Interinstitucional deberá aprobar en un plazo máximo de sesenta días naturales a partir de su constitución el Programa Estatal para Prevenir, Combatir y Erradicar la Trata de personas y remitir a la Secretaria General de Gobierno para su publicación.
