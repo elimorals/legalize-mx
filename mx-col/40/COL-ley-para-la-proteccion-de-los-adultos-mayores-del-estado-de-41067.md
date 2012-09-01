@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-proteccion-de-los-adultos-mayores-del-estado-de-410
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-11"
-last_updated: "2004-09-11"
+last_updated: "2012-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41067&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # LEY PARA LA PROTECCION DE LOS ADULTOS MAYORES DEL ESTADO DE COLIMA -- ANTES LEY PARA LA PROTECCION DE LOS ADULTOS EN PLENITUD DEL ESTADO DE COLIMA --
 
-LEY PARA LA PROTECCION DE LOS ADULTOS EN PLENITUD DEL ESTADO DE COLIMA
+LEY PARA LA PROTECCIÓN DE LOS ADULTOS EN PLENITUD DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 11 de septiembre de 2004.
 
@@ -659,13 +659,27 @@ Las solicitudes de pensión, trámites, verificación de requisitos y demás pro
 
 El Instituto deberá considerar en su proyecto de presupuesto anual el monto que servirá para el pago de esta prestación.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE SEPTIEMBRE DE 2012)</small>
+
+### CAPÍTULO IX. De la Atención Preferencial
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 67 Bis.
+
+Será obligación de las dependencias y entidades de la administración pública estatal centralizada y paraestatal, así como las dependencias y entidades de las administraciones públicas municipales centralizadas y paramunicipales, en el ámbito de sus respectivas competencias y jurisdicción, vigilar y garantizar la defensa de los derechos de las personas adultas mayores otorgándoles una atención preferencial que agilice los trámites y procedimientos administrativos a realizar en esas dependencias.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2012)</small>
+
 ### CAPÍTULO I. De la Orientación Ocupacional
 
-### CAPÍTULO II. De la Integración a la Vida Productiva
+###### Artículo 67 Bis 1.
+
+El Gobierno del Estado por conducto de las dependencias correspondientes fomentará que la atención preferencial para las personas adultas mayores sea prestada también en las tiendas de autoservicio y otras empresas mercantiles.
 
 ## TÍTULO CUARTO. DE LA VALORACIÓN DE CAPACIDADES Y APTITUDES
 
-### CAPÍTULO I. De las Reglas para la Imposición de Sanciones
+### CAPÍTULO II. De la Integración a la Vida Productiva
 
 ###### Artículo 68.
 
@@ -679,7 +693,7 @@ II.- La ubicación de acuerdo con la aptitud y actitud ante el trabajo.
 
 La orientación ocupacional tendrá en cuenta las potencialidades reales de los adultos en plenitud, tomando como base la educación escolar recibida, la capacitación laboral o profesional y las perspectivas de empleo existentes en cada caso; asimismo, la atención a sus motivaciones, aptitudes y preferencias vocacionales.
 
-### CAPÍTULO II. De las Responsabilidades y Sanciones
+### CAPÍTULO I. De las Reglas para la Imposición de Sanciones
 
 ###### Artículo 70.
 
@@ -690,6 +704,8 @@ Las empresas, industrias, comercios y establecimientos en general cuyo capital s
 La asignación y el desempeño de la actividad laboral en los términos del artículo anterior, deberán ser autorizados y supervisados por el Instituto con el apoyo de la Secretaría de Desarrollo Social del Estado.
 
 ## TÍTULO QUINTO. DE LAS SANCIONES
+
+### CAPÍTULO II. De las Responsabilidades y Sanciones
 
 ###### Artículo 72.
 
@@ -832,3 +848,9 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, al día 26 del mes de agosto del año dos mil cuatro.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, PROFR. GUSTAVO ALBERTO VÁZQUEZ MONTES. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, C. ARNOLDO OCHOA GONZÁLEZ. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE SEPTIEMBRE DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
