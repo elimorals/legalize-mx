@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-5864"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-02-28"
-last_updated: "2012-07-21"
+last_updated: "2012-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 28 de febrero de 1989.
 
@@ -217,13 +217,17 @@ XXI. El fomento y promoción de la participación ciudadana, así como el incent
 
 XXII. La prevención y disminución de la contaminación ambiental y el establecimiento de políticas, estrategias y programas para el aprovechamiento y uso sustentable de los recursos naturales;
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2012)</small>
 
-XXIII. Ejercer en coordinación con la Federación y los municipios en el ámbito de su competencia, sus atribuciones en materia de prevención, detección, atención, sanción y erradicación de la violencia contra las mujeres, y
+XXIII. Ejercer, en coordinación con la Federación y los municipios, en el ámbito de su competencia, sus atribuciones en materia de prevención, detección, atención, sanción y erradicación de la violencia contra las mujeres;
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2012)</small>
+
+XXIV. Generar programas sociales integrales que apoyen de manera directa a los diferentes pueblos y comunidades indígenas del estado en temas de salud, trabajo artesanal, previsión social entre otros, respetando en todo momento su autonomía y organización interna, y
 
 > <small>(ADICIONADA, P.O. 27 DE MAYO DE 2008)</small>
 
-XXIV. Las demás atribuciones generales que le confieran las leyes, reglamentos y decretos vigentes.
+XXV. Las demás atribuciones generales que le confieran las leyes, reglamentos y decretos vigentes.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2112,3 +2116,7 @@ DÉCIMO PRIMERO. Los elementos operativos de las áreas de prevención, reacció
 DÉCIMO SEGUNDO. Se abrogan la Ley de Seguridad Pública para el Estado de Jalisco y sus respectivas reformas.
 
 DÉCIMO TERCERO. Se derogan las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+P.O. 1 DE SEPTIEMBRE DE 2012.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
