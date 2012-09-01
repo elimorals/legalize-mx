@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-penales-para-el-estado-libre-y-5764"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-12-07"
-last_updated: "2011-10-18"
+last_updated: "2012-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "JAL"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
+CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 2011.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 18 DE OCTUBRE DE 2011 NO APLICA AL ARTICULADO DEL DECRETO 23577 PUBLICADO EN EL P.O. DE 13 DE OCTUBRE DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el martes 7 de diciembre de 1982.
 
@@ -2791,9 +2789,9 @@ Tratándose de delitos que afecten la vida o la integridad corporal, el monto de
 
 Se califican como delitos graves y en su caso el inculpado no tendrá derecho al beneficio de la libertad provisional bajo caución, los previstos en los ordenamientos siguientes:
 
-(REFORMADA, P.O. 7 DE OCTUBRE DE 2010) (F. DE E., P.O. 26 DE OCTUBRE DE 2010)
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2012)</small>
 
-I. En el Código Penal: Homicidio culposo grave o lesiones culposas graves, artículo 48 penúltimo párrafo, evasión de presos, artículo 113, excepto cuando el activo sea un particular o no haya violencia en las cosas y en las personas; lenocinio, artículo 139; corrupción de menores, artículo 142-A, en sus dos últimos párrafos; pornografía infantil, 142-D, fracciones I y III; prostitución infantil artículos 142-F fracción I y 142-G; promoción de la prostitución infantil artículo 142-H; trata de personas, artículo 142-J; cohecho, artículo 147, cuarto párrafo; peculado, artículo 148, párrafo tercero y artículo 149; delitos cometidos en la custodia o guarda de documentos, artículo 151, último párrafo; enriquecimiento ilícito, artículo 153, fracción II; usurpación artículo 170, último párrafo; falsificación de medios electrónicos o magnéticos artículo 170 bis, en todas sus fracciones; violación, artículo 175; violación equiparada, artículo 176; robo de infante, artículo 179, párrafo cuarto; tráfico de menores, artículo 179 bis, párrafos primero y quinto; extorsión, artículo 189 párrafos segundo y cuarto; extorsión agravada, artículo 189 bis; asalto, artículo 192; privación ilegal de la libertad y de otros derechos, artículo 193 último párrafo; secuestro y delitos relacionados previstos en el artículo 194; homicidio, artículos 213, 217 y 219; parricidio, artículo 223; instigación y ayuda al suicidio si la víctima fallece, artículo 224; infanticidio, artículo 226; aborto, artículo 228, penúltimo y último párrafo; robo equiparado, artículo 234, fracciones III, IV, V, VI y VII; robo cometido en los siguientes casos, artículo 235, fracción III; robo agravado, artículo 236 bis, apartado a), fracciones II y III, apartado b), en su totalidad; y, apartados c) y d), en su totalidad y 236 Ter, fracciones II y III; y abigeato y robo de animales, artículos 240 y 242, cuando el producto del delito exceda del importe de 350 salarios mínimos o se trate de reincidentes de cualquier delito contra el patrimonio y abigeato calificado, artículo 242-B; fraude previsto en el artículo 252, fracción XIX; administración fraudulenta, artículo 254 ter, fracción II; despojo de inmuebles, fracción IV del artículo 262; pillaje, artículo 262 ter, fracción III, y delitos electorales, artículo 270 fracción III, 276 y 278; los ilícitos penales mencionados en este párrafo, en grado de tentativa punible previsto en el artículo 52 y el continuado grave establecido en el artículo 55 bis;
+I. En el Código Penal: homicidio culposo grave o lesiones culposas graves, artículo 48 penúltimo párrafo, evasión de presos, artículo 113, excepto cuando el activo sea un particular o no haya violencia en las cosas y en las personas; lenocinio, artículo 139; corrupción de menores, artículo 142-A, en sus dos últimos párrafos; prostitución infantil artículos 142-F fracción I y 142- G; cohecho, artículo 147, cuarto párrafo; peculado, artículo 148, párrafo tercero y artículo 149; delitos cometidos en la custodia o guarda de documentos, artículo 151, último párrafo; enriquecimiento ilícito, artículo 153, fracción II; usurpación artículo 170, último párrafo; falsificación de medios electrónicos o magnéticos 170 Bis, en todas sus fracciones; violación, artículo 175; violación equiparada, artículo 176; robo de infante, artículo 179, párrafo cuarto; tráfico de menores, artículo 179 Bis, párrafos primero y quinto; extorsión, articulo 189 párrafos segundo y cuarto; extorsión agravada, artículo 189 Bis; asalto, artículo 192; homicidio, artículos 213, 217 y 219; parricidio, artículo 223; instigación y ayuda al suicidio si la víctima fallece, artículo 224; infanticidio, artículo 226; aborto, artículo 228, penúltimo y último párrafo; robo equiparado, artículo 234, fracciones III, IV, V, VI y VII; robo cometido en los siguientes casos, artículo 235, fracción III; robo agravado, artículo 236 Bis, apartado a), fracciones II y III, apartado b), en su totalidad y apartados c) y d), en su totalidad; artículo 236 Ter, fracciones II y III, y abigeato y robo de animales, artículos 240 y 242, cuando el producto de los delitos exceda del importe de 350 salarios mínimos o se trate de reincidencias de cualquier delito contra el patrimonio y abigeato calificado, articulo 242-B; fraude previsto en el artículo 252 fracción XIX; administración fraudulenta, artículo 254 Ter, fracción II; despojo de inmuebles, fracción IV del artículo 262; pillaje, artículo 262 Ter, fracción III, y delitos electorales, artículo 270 fracción III, 276 y 278; los ilícitos penales mencionados en este párrafo, en grado de tentativa punible previsto en el artículo 52 y el continuado grave establecido en el artículo 55 Bis;
 
 II. En la Ley Estatal para Prevenir y Sancionar la Tortura: Tortura, artículo 3º; y
 
@@ -4064,3 +4062,19 @@ QUINTO. Se autoriza al Ejecutivo del Estado para que realice los ajustes presupu
 P.O. 13 DE OCTUBRE DE 2011.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 1 DE SEPTIEMBRE DE 2012.
+
+PRIMERO. El presente decreto entrará en vigor a los noventa días siguientes a su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. El Ejecutivo del Estado deberá elaborar y publicar el reglamento correspondiente.
+
+TERCERO. Se autoriza al Titular del Poder Ejecutivo en el Estado, a través de la Secretaría de Finanzas y Administración, a realizar todas las modificaciones y adecuaciones presupuestales así como administrativas necesarias para el debido cumplimiento de la ley.
+
+CUARTO. Treinta días posteriores a la entrada en vigor del presente decreto, la Procuraduría General de Justicia del Estado de Jalisco, deberá realizar las acciones necesarias para la creación de la Fiscalía Especializada a que se refiere la Ley General para Prevenir Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, de conformidad con el presupuesto que para tal efecto le sea asignado; atentos a lo dispuesto en el artículo transitorio anterior.
+
+QUINTO. Todos los asuntos que se encuentren en etapa de averiguación previa, proceso, hayan sido sentenciados o se encuentren en la ejecución de sentencia por delitos relacionados con el presente decreto, seguirán rigiéndose por las normas vigentes anteriores a la entrada en vigor del presente decreto.
+
+SEXTO. La constitución de la Comisión Interinstitucional deberá realizarse en un plazo máximo de 90 días naturales a partir de la entrada en vigor de la ley; así como la designación del Secretario Técnico de ésta.
+
+La Comisión Interinstitucional deberá aprobar en un plazo máximo de sesenta días naturales a partir de su constitución el Programa Estatal para Prevenir, Combatir y Erradicar la Trata de personas y remitir a la Secretaria General de Gobierno para su publicación.
