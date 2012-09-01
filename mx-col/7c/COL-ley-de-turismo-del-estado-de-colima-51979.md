@@ -4,7 +4,7 @@ identifier: "COL-ley-de-turismo-del-estado-de-colima-51979"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-23"
-last_updated: "2012-06-30"
+last_updated: "2012-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51979&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE TURISMO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Suplemento No. 8 al Periódico Oficial del Estado de Colima, el sábado 23 de septiembre de 2006.
 
@@ -354,6 +354,14 @@ Con la participación del Sector en los términos de las leyes aplicables, la Se
 ###### Artículo 28.
 
 La Promoción Turística se realizará con bases técnicas que permitan incrementar la captación del Turismo nacional y extranjero.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2012)</small>
+
+Con el objeto de incrementar la afluencia de turismo local, nacional e internacional al Estado, la Secretaría deberá crear rutas turísticas para fomentar y difundir los atractivos y servicios turísticos que ofrece cada zona de nuestro Estado, en las que difundan y proporcionen información a los turistas nacionales y extranjeros que visiten los destinos turísticos del territorio estatal.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2012)</small>
+
+Para ello, se podrá hacer uso de señalamientos y anuncios distintivos en puntos específicos, en los que se indiquen los lugares que se pueden visitar, los atractivos de la zona, distancias aproximadas y vías de acceso, con independencia de los que realice cada municipio de sus atractivos turísticos.
 
 ###### Artículo 29.
 
@@ -760,3 +768,7 @@ P.O. 26 DE SEPTIEMBRE DE 2009.
 P.O. 30 DE JUNIO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 1 DE SEPTIEMBRE DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
