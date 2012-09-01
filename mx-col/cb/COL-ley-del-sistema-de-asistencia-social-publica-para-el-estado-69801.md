@@ -4,7 +4,7 @@ identifier: "COL-ley-del-sistema-de-asistencia-social-publica-para-el-estado-698
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-01"
-last_updated: "2009-08-01"
+last_updated: "2012-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69801&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COL"
 
 LEY DEL SISTEMA DE ASISTENCIA SOCIAL PÚBLICA PARA EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA DE ASISTENCIA SOCIAL PARA EL ESTADO DE COLIMA, PUBLICADA EN EL P.O. DE 1 DE SEPTIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 1 de agosto de 2009.
 
@@ -1920,3 +1922,23 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, al día veintinueve del mes de julio del año dos mil nueve.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. LA SECRETARIA GENERAL DE GOBIERNO, LICDA. YOLANDA VERDUZCO GUZMÁN. Rúbrica. EL DIRECTOR GENERAL DEL SISTEMA ESTATAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA, C. JULIO IGNACIO MARTÍNEZ DE LA ROSA. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE SEPTIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor el día siguiente de su publicación, en el Periódico Oficial, "El Estado de Colima".
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley del Sistema Estatal de Asistencia Social para Estado de Colima (sic), publicada en el periódico Oficial el 01 de Agosto de 2009, así como todas sus reformas.
+
+###### ARTÍCULO TERCERO.
+
+El Consejo del Sistema de Asistencia Social para el Estado de Colima, deberá elaborar el Reglamento de la presente Ley dentro de los ciento ochenta días siguientes a partir de la entrada en vigor de la misma.
+
+###### ARTÍCULO CUARTO.
+
+La persona titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de Colima, DIF Estatal, deberá elaborar el Reglamento Interior y Manuales de Organización dentro de los ciento ochenta días.
