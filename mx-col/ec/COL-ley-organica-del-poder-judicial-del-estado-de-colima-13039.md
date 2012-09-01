@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-judicial-del-estado-de-colima-13039"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1988-10-08"
-last_updated: "2012-04-09"
+last_updated: "2012-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 8 de octubre de 1988.
 
@@ -111,25 +111,19 @@ El Ejecutivo del Estado facilitará el ejercicio de las funciones a que se refie
 
 ## TITULO SEGUNDO. DIVISION TERRITORIAL
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1991)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTICULO 5.
 
-El Estado de Colima, se divide para los efectos de esta Ley, en los siguientes partidos judiciales:
+El territorio del Estado de Colima, se divide para los efectos de esta Ley, en los siguientes partidos judiciales:
 
-I.- El Primero, con residencia en la Ciudad de Colima, comprende los Municipios de Colima, Cuauhtémoc y Coquimatlán;
+I.- El Primero, con residencia indistinta en las ciudades de Colima y Villa de Álvarez, comprende los Municipios de Colima, Villa de Álvarez, Comala, Cuauhtémoc, Coquimatlán y Minatitlán;
 
-II.- El Segundo, con residencia en la Ciudad de Tecomán, comprende los Municipios de Tecomán, Armería e Ixtlahuacán;
+II.- El Segundo, con residencia en la Ciudad de Tecomán, comprende los Municipios de Tecomán, Armería e Ixtlahuacán; y
 
-III.- El Tercero, con residencia en la Ciudad de Manzanillo, comprende el Municipio de Manzanillo; y
+III.- El Tercero, con residencia en la Ciudad de Manzanillo, comprende el Municipio de Manzanillo.
 
-IV.- El Cuarto, con residencia en la Población de Villa de Alvarez, comprende los Municipios de Villa de Alvarez, Comala, y Minatitlán.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2009)</small>
-
-No será necesario librar exhortos, requisitorias o despachos para que los tribunales establecidos en el primero y cuarto partido judicial realicen emplazamientos, requerimientos, embargos, notificaciones y citaciones a terceros, ejecución de sentencias, así como cualquier diligencia encaminadas al cumplimiento de mandatos judiciales en ambos partidos judiciales. Las partes están obligadas a señalar domicilio procesal en el lugar del juicio.
+Las partes están obligadas a señalar domicilio procesal en el lugar del juicio; salvo que el mismo se tramite dentro del Primer Partido Judicial, caso en el que podrán señalarlo en forma indistinta, en las ciudades de Colima ó Villa de Álvarez.
 
 ## TITULO TERCERO. ORGANIZACION DE LOS TRIBUNALES
 
@@ -1996,3 +1990,11 @@ CUARTO.- El Poder Legislativo deberá prever y asegurar en lo subsecuente, en la
 P.O. 9 DE ABRIL DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 1 DE SEPTIEMBRE DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- El Supremo Tribunal de Justicia, contará con 60 días naturales a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones en la denominación y redistribución de competencias por materia de los juzgados que actualmente tienen su sede en las ciudades de Colima y Villa de Álvarez.
+
+TERCERO.- Hasta en tanto se realicen las adecuaciones que resulten necesarias a los ordenamientos procesales, se estará a lo dispuesto por este Decreto para efecto de fijar la competencia por razón del territorio de los juzgados pertenecientes al Primer Partido Judicial, entendiéndose como "lugar del juicio" o cualquier otra frase alusiva a la ubicación de la sede del juzgado en donde deba presentarse la demanda, jurisdicción voluntaria o causa penal correspondiente, indistintamente a las ciudades de Colima y Villa de Álvarez.
