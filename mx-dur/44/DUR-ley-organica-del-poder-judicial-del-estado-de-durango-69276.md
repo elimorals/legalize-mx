@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-poder-judicial-del-estado-de-durango-69276"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-07-02"
-last_updated: "2012-08-30"
+last_updated: "2012-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 2 de julio de 2009.
 
@@ -227,7 +227,11 @@ Además de las facultades y obligaciones que expresamente le confiere el artícu
 
 I. Vigilar que la impartición de justicia se realice de manera pronta, completa, imparcial y gratuita, emitiendo los acuerdos y circulares que para tal efecto se requieran;
 
-II. Elegir a su Presidente en términos del artículo 95 de la Constitución Política del Estado Libre y Soberano de Durango y del artículo 10 de esta ley, quien también presidirá el Consejo de la Judicatura. La elección tendrá verificativo en la primera sesión plenaria que habrá de celebrarse el mismo día en que rindan la protesta de ley los magistrados numerarios y dentro de los cinco días hábiles siguientes a la conclusión del periodo ordinario del mandato, respectivamente. En la propia sesión se designará un vicepresidente;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2012)</small>
+
+II. Elegir a su Presidente en términos del artículo 95 de la Constitución Política del Estado Libre y Soberano de Durango y del artículo 10 de esta Ley, quien también presidirá el Consejo de la Judicatura. La elección tendrá verificativo el quince de septiembre del año respectivo. En la propia sesión se designará un vicepresidente;
 
 III. Señalar la adscripción de los magistrados para la integración de cada una de las salas unitarias y colegiadas, asignándoles la numeración ordinal que habrá de corresponderles en el ejercicio de su responsabilidad y la especialidad de las mismas, a propuesta del Presidente. Esta integración se verificará en sesión extraordinaria que habrá de realizarse inmediatamente después de que se rinda protesta de ley en el caso de nueva designación de magistrados; o en otro tiempo cuando las necesidades del servicio lo requieran;
 
@@ -311,9 +315,13 @@ XLI. Las demás que le confiera esta ley, las leyes especiales u otras disposici
 
 ### CAPÍTULO III. DEL PRESIDENTE
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 10.
 
-El Tribunal Superior de Justicia tendrá un Presidente, que será electo cada tres años por unanimidad o por mayoría de votos de sus miembros, en votación secreta y podrá ser reelecto. En su elección sólo se tomará en cuenta los méritos que en la administración de justicia o en el ejercicio de la actividad jurídica posean sus integrantes.
+El Tribunal Superior de Justicia tendrá un Presidente, que será electo cada seis años por unanimidad o por mayoría de votos de sus miembros, en votación secreta y podrá ser reelecto.En (sic) su elección sólo se tomará en cuenta los méritos que en la administración de justicia o en el ejercicio de la actividad jurídica posean sus integrantes.
 
 El Magistrado Presidente no integrará sala y sus actividades se dirigirán a vigilar el estricto cumplimiento de los acuerdos y las determinaciones del Pleno del Tribunal Superior de Justicia, a representar al Poder Judicial del Estado, a presidir el Consejo de la Judicatura y a cuidar de la administración de justicia, conforme a las facultades y obligaciones que le fijen las leyes.
 
@@ -3428,3 +3436,9 @@ P.O. 30 DE AGOSTO DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones legales en lo que se opongan al presente Decreto.
+
+P.O. 3 DE SEPTIEMBRE DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de la declaratoria de reforma al artículo 95 de la Constitución Política del Estado Libre y Soberano de Durango, que realice el H. Congreso del Estado.
+
+SEGUNDO.-Se (sic) derogan todas las disposiciones que se opongan al presente decreto.
