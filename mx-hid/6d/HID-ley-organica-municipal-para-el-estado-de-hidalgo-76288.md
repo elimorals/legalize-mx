@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2011-04-25"
+last_updated: "2012-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "HID"
 ---
 # LEY ORGANICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-LEY ORGANICA MUNICIPAL PARA EL ESTADO DE HIDALGO
+LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ABRIL DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -305,7 +305,7 @@ Los Ayuntamientos expedirán las normas reglamentarias que establezcan las forma
 
 El Gobierno Municipal, se encomendará a un Ayuntamiento integrado por un Presidente, los Síndicos y los Regidores que establezca la Ley Electoral del Estado del (sic) Hidalgo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIOS PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIOS PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2011)</small>
 
@@ -637,7 +637,7 @@ a).- Convenir con el Estado, Instituciones de Educación Superior, otros municip
 
 b).- Promover la integración de los miembros de los Consejos de Colaboración Municipal;
 
-c).- Adquirir bienes, en cualquiera de las formas previstas por la Ley dentro de su jurisdicción. Si los Ayuntamientos se encontraren en posesión de bienes vacantes, operará en su favor la prescripción positiva en los términos que señala el Código Civil vigente en el Estado;
+c).- Adquirir bienes, en cualquiera de las formas previstas por la Ley dentro de su jurisdicción. Si los Ayuntamientos se .encontraren en posesión de bienes vacantes, operará en su favor la prescripción positiva en los términos que señala el Código Civil vigente en el Estado;
 
 d).- Acrecentar los bienes patrimoniales y promover el desenvolvimiento material, cívico, social, económico, cultural, artístico, deportivo, científico, tecnológico y educativo en general, en la municipalidad, defender y preservar el medio ambiente a través de programas concretos;
 
@@ -662,6 +662,12 @@ m).- Reglamentar, conforme a su competencia, las actividades mercantiles en la v
 n).- Vigilar que las obras públicas, acciones o servicios, se ejecuten de acuerdo a la Ley y el programa establecido; y
 
 o).- Aprobar o desechar las propuestas realizadas por el Presidente Municipal, respecto a la designación de comisiones de gobierno y administración.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2012)</small>
+
+p) Nombrar al Cronista Municipal, quien tendrá a su cargo la investigación histórica y cultural que preserve y fomente la identidad de los pobladores con su Municipio y con el Estado, así como la integración, conservación y enriquecimiento del archivo histórico del Municipio.
+
+El nombramiento del Cronista Municipal, será a propuesta de la Comisión de Educación y Cultura de cada Ayuntamiento, debiendo recaer en la persona que se distinga por sus amplios conocimientos en la historia y cultura del Municipio, así como que sea destacado por sus méritos y aportaciones a la cultura Municipal. Para su designación, deberán escucharse a las asociaciones e instituciones educativas, culturales y sociales del Municipio, durando en su encargo cuatro años, pudiendo ser ratificado por acuerdo del Ayuntamiento entrante, su nombramiento será de manera honorifica.
 
 III.- Las demás que le concedan la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y las leyes que de ellas emanen. A tal efecto y en el ámbito de su competencia, la Legislatura del Estado, tomará en cuenta las condiciones territoriales y socioeconómicas del Municipio y su capacidad técnica, administrativa y financiera.
 
@@ -717,9 +723,17 @@ XXII.- Fomento agropecuario;
 
 XXIII.- Turismo;
 
-XXIV.- Deporte; y
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2012)</small>
 
-XXV.- Vivienda.
+XXIV. Deporte;
+
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2012)</small>
+
+XXV. Vivienda; y
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2012)</small>
+
+XXVI. Pesca y Acuacultura
 
 La concurrencia comprende la elaboración, ejecución y operación de programas, obras, servicios y acciones, de acuerdo con sus capacidades técnicas, administrativas y financieras, conforme a los Convenios de Coordinación que, para tal efecto, se celebren y en los términos que disponga la legislación correspondiente.
 
@@ -756,6 +770,10 @@ f).- Autorizar a la Tesorería Municipal, las órdenes de pago, conforme al Pres
 g).- Constituir el Comité de Planeación del Desarrollo Municipal, con la participación de representantes de los sectores público, social y privado, y de profesionistas y técnicos que residan dentro de su territorio; así como el Comité de Desarrollo Urbano Municipal, en los términos del Reglamento respectivo;
 
 h).- Cumplir con el Plan Estatal de Desarrollo, el del Municipio y los programas sectoriales, regionales y especiales aprobados, respecto a lo que se refiere a su Municipio. A más tardar, noventa días después de tomar posesión de su cargo, el Presidente Municipal deberá presentar un Plan Municipal de Desarrollo Urbano, congruente con el Plan Estatal;
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2012)</small>
+
+Asimismo, contará con el mismo plazo, para presentar el Atlas de Riesgos correspondiente, actualizado a su gestión.
 
 i).- Coadyuvar con las Autoridades Federales en la aplicación y cumplimiento de las disposiciones previstas en los Artículos 27 y 30 de la Constitución Política de los Estados Unidos Mexicanos, de acuerdo a su normatividad interna;
 
@@ -2513,7 +2531,7 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ANGEL OSORIO CHONG.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 25 DE ABRIL DE 2011.
 
@@ -2524,3 +2542,9 @@ Segundo.- Las presentes Reformas se aplicarán a partir del inicio del proceso e
 Tercero.- En tanto no se apliquen las presentes Reformas, queda vigente el transitorio noveno del Decreto Número 209, de fecha primero de octubre del 2009, Publicado el 6 de octubre del mismo año en el Periódico Oficial del Estado.
 
 Cuarto.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE SEPTIEMBRE DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
