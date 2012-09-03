@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-instituciones-y-procesos-electorales-del-estado-17614
 country: "mx"
 rank: "codigo"
 publication_date: "2000-10-02"
-last_updated: "2012-06-28"
+last_updated: "2012-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17614&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CÓDIGO DE INSTITUCIONES Y PROCESOS ELECTORALES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2012.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Puebla, el lunes 2 de octubre de 2000.
 
@@ -521,11 +521,11 @@ Los partidos políticos nacionales y estatales que cuenten con el registro respe
 
 ### CAPÍTULO II. DE LOS PARTIDOS POLÍTICOS NACIONALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 31.
 
-Los partidos políticos nacionales, deberán acreditar ante el Consejo General, durante el mes de octubre del año de inicio del proceso electoral:
+Los partidos políticos nacionales, deberán acreditar ante el Consejo General, durante el mes de enero del año del proceso electoral:
 
 I.- La vigencia de su registro como partido político nacional, acompañando para tal efecto, copia certificada del documento que los acredite como tales ante el Instituto Federal Electoral;
 
@@ -541,11 +541,11 @@ La resolución que emita el Consejo General surtirá sus efectos en forma inmedi
 
 ### CAPÍTULO III. DE LOS PARTIDOS POLÍTICOS ESTATALES
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 32.
 
-El Consejo General convocará, durante el mes de noviembre del año anterior a aquél en que inicie el Proceso Electoral Estatal Ordinario, a los grupos de ciudadanos que pretendan participar en los procesos electorales, a fin de que puedan obtener el registro como partido político estatal.
+El Consejo General convocará, durante el mes de febrero del año anterior a aquél en el que inicie el Proceso Electoral Estatal Ordinario, a los grupos de ciudadanos que pretendan participar en los procesos electorales, a fin de que puedan obtener el registro como partido político estatal.
 
 ###### ARTÍCULO 33.
 
@@ -1289,9 +1289,9 @@ II.- La Junta Ejecutiva.
 
 El Consejo General será el órgano superior de dirección del Instituto y el responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, así como de vigilar que los principios rectores de legalidad, imparcialidad, objetividad, certeza e independencia guíen todas las actividades del Instituto.
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2012)</small>
 
-El Consejo General se reunirá en la segunda semana de noviembre del año anterior a la etapa de la jornada electoral para declarar el inicio del proceso electoral.
+El Consejo General se reunirá en la primera semana de febrero del año de la jornada electoral para declarar el inicio del proceso electoral.
 
 ###### ARTÍCULO 80.
 
@@ -2503,11 +2503,11 @@ I.- El Consejo General, a través del Consejero Presidente, será el responsable
 
 II.- De la lista que el Consejero Presidente presente al Consejo General, éste designará a los Consejeros Electorales y Secretarios propietarios y suplentes por mayoría de votos de los integrantes del Consejo General con derecho a ello.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 114.
 
-El Consejo General designará a los integrantes de los Consejos Distritales, a más tardar en el mes de enero del año de la elección.
+El Consejo General designará a los integrantes de los Consejos Distritales, a más tardar en el mes de febrero del año de la elección.
 
 Los Consejeros Electorales y los Secretarios propietarios y suplentes de los Consejos Distritales, durarán en sus cargos el tiempo del proceso electoral para el que fueron designados.
 
@@ -2519,11 +2519,11 @@ Los Consejeros Electorales y Secretarios de los Consejos Distritales, tendrán d
 
 Dentro de los cinco días siguientes a su designación los Consejeros Electorales elegirán, de entre ellos mismos, al Consejero Presidente. En caso de que transcurrido dicho término no hubiere sido nombrado, el Consejo General procederá a su designación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 117.
 
-Los Consejos Distritales sesionarán para dar inicio a sus actividades, a más tardar en el mes de enero del año de la elección.
+Los Consejos Distritales, una vez integrados en términos del artículo anterior, sesionarán para dar inicio a sus actividades.
 
 A partir de su instalación y hasta la conclusión del proceso electoral, los Consejos Distritales sesionarán por lo menos una vez al mes.
 
@@ -3579,11 +3579,11 @@ Los conflictos de carácter laboral entre el Instituto y su personal, serán res
 
 El proceso electoral deberá entenderse como el conjunto de actos ordenados por la Constitución Federal, la Constitución Local y este Código, realizados por las autoridades electorales, los ciudadanos y los partidos políticos de manera corresponsable, en ejercicio de la función estatal de organizar las elecciones para hacer posible la renovación periódica y pacífica de los integrantes de los Poderes Legislativo, Ejecutivo y miembros de los Ayuntamientos.
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 186.
 
-El proceso electoral ordinario iniciará con la primera sesión del Consejo General, que debe celebrar durante la segunda semana del mes de noviembre del año anterior a la etapa de la jornada electoral y concluye con los cómputos y declaraciones de validez que realicen los Consejos del Instituto o bien con las resoluciones que, en su caso, pronuncie en última instancia el Tribunal.
+El proceso electoral ordinario iniciará con la primera sesión del Consejo General, que debe celebrar durante la primera semana del mes de febrero del año de la jornada electoral y concluye con los cómputos y declaraciones de validez que realicen los Consejos del Instituto o bien con las resoluciones que, en su caso, pronuncie en última instancia el Tribunal.
 
 ###### ARTÍCULO 187.
 
@@ -3599,11 +3599,11 @@ III.- Resultados y declaraciones de validez de las elecciones de Diputados, Gobe
 
 La etapa de preparación de las elecciones comprenderá todos los actos desarrollados por el Consejo General y los Consejos Distritales y Municipales, en ejercicio de las atribuciones que este Código les confiere, encaminados a la celebración de la jornada electoral.
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 189.
 
-La etapa de preparación de las elecciones iniciará con la primera sesión que el Consejo General del Instituto celebre, durante la segunda semana del mes de noviembre del año anterior a que deban realizarse las elecciones ordinarias y concluye al inicio de la jornada electoral.
+La etapa de preparación de las elecciones iniciará con la primera sesión que el Consejo General del Instituto celebre, durante la primera semana del mes de febrero del año en que deban realizarse las elecciones ordinarias y concluye al inicio de la jornada electoral.
 
 ###### ARTÍCULO 190.
 
@@ -3729,9 +3729,9 @@ Ningún ciudadano podrá ser registrado como candidato a distintos cargos en el 
 
 Para el registro de candidatos a cargos de elección popular, el partido político postulante deberá registrar la plataforma electoral que sus candidatos sostendrán durante la campaña.
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2012)</small>
 
-El partido político deberá presentar y obtener el registro de la plataforma electoral ante el Consejo General, en el mes de enero del año de la elección. Del registro se expedirá constancia.
+El partido político deberá presentar y obtener el registro de la plataforma electoral ante el Consejo General, en el mes de marzo del año de la elección. Del registro se expedirá constancia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE FEBRERO DE 2012)</small>
 
@@ -6150,3 +6150,9 @@ Comprendiendo los municipios siguientes: Huauchinango, Ahuazotepec, Chiconcuautl
 DISTRITO 26 Cabecera: Xicotepec.
 
 Comprendiendo los municipios siguientes: Xicotepec, Francisco Z. Mena, Jalpan, Pantepec, Tlacuilotepec, Tlaxco, Venustiano Carranza y Zihuateutla.
+
+P.O. 3 DE SEPTIEMBRE DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
