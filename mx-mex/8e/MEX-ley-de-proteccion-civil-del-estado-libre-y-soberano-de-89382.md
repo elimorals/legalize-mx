@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-proteccion-civil-del-estado-libre-y-soberano-de-89382"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-31"
-last_updated: "2012-08-31"
+last_updated: "2012-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89382&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # LEY DE PROTECCION CIVIL DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE SEPTIEMBRE DE 2012 EN LA G.G., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DE 3 DE SEPTIEMBRE DE 2012.</small>
 
 Ley publicada en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el viernes 31 de agosto de 2012.
 
@@ -1175,17 +1175,17 @@ Las notificaciones se harán en días y horas hábiles; en términos de lo seña
 
 Contra las resoluciones emitidas por las autoridades competentes que impongan una sanción, procederá el recurso de inconformidad, de acuerdo a lo previsto en el Código de Procedimientos Administrativos del Estado de México.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTOS TRANSITORIOS, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE SEPTIEMBRE DE 2012 EN LA G.G., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ## TRANSITORIOS
 
 ###### ARTÍCULO PRIMERO.
 
 Publíquese la presente Ley en el Periódico Oficial "Gaceta del Gobierno".
 
+> <small>(F. DE E., G.G. 3 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO SEGUNDO.
 
-La presente Ley entrará en vigor a los 30 días naturales siguientes al de la publicación en el Periódico Oficial "Gaceta del Gobierno".
+La presente Ley entrará en vigor a los 90 días naturales siguientes al de la publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 ###### ARTÍCULO TERCERO.
 
