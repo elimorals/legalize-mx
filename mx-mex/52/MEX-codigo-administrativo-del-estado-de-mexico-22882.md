@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2012-08-31"
+last_updated: "2012-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE SEPTIEMBRE DE 2012 EN EL G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE AGOSTO DE 2012.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 3 DE SEPTIEMBRE DE 2012.</small>
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -11117,7 +11117,7 @@ Las dependencias, entidades y unidades administrativas de los poderes Legislativ
 
 ###### Artículo 14.
 
-39.- Las autoridades estatales en materia de información e investigación geográfica, estadística y catastral, se coordinarán con los titulares de las dependencias y entidades de la administración pública federal; instruirán a los de la administración pública estatal; y convendrán con los de las unidades administrativas de los ayuntamientos, el desarrollo de actividades que en términos de este Libro deban realizarse, a fin de aplicar normas técnicas y principios homogéneos, determinados por la Ley de Información Estadística y Geográfica;
+39.- Las autoridades estatales en materia de información e investigación, geográfica, estadística y catastral, se coordinarán con los titulares de las dependencias y entidades de la administración pública federal; instruirán a los de la administración pública estatal; y convendrán con los de las unidades administrativas de los ayuntamientos, el desarrollo de actividades que en términos de este Libro deban realizarse, a fin de aplicar normas técnicas y principios homogéneos, determinados por la Ley de Información Estadística y Geográfica;
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -16023,8 +16023,6 @@ SÉPTIMO.- El Reglamento Interno del Instituto, deberá formularse y aprobarse p
 
 OCTAVO.- El Ejecutivo del Estado proveerá lo necesario para transcribir la presente Ley en escritura braille, remitiendo por lo menos un ejemplar de ésta a las organizaciones civiles de invidentes y a las bibliotecas públicas o a quien lo solicite.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTOS TRANSITORIOS, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE SEPTIEMBRE DE 2012 EN EL G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 G.G. 31 DE AGOSTO DE 2012.
 
 DECRETO NÚMERO 524 POR EL QUE SE EXPIDE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, Y EN SU TRANSITORIO TERCERO SE DEROGA EL LIBRO SEXTO DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO.
@@ -16033,9 +16031,11 @@ DECRETO NÚMERO 524 POR EL QUE SE EXPIDE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO 
 
 Publíquese la presente Ley en el Periódico Oficial "Gaceta del Gobierno".
 
+> <small>(F. DE E., G.G. 3 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO SEGUNDO.
 
-La presente Ley entrará en vigor a los 30 días naturales siguientes al de la publicación en el Periódico Oficial "Gaceta del Gobierno".
+La presente Ley entrará en vigor a los 90 días naturales siguientes al de la publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 ###### ARTÍCULO TERCERO.
 
