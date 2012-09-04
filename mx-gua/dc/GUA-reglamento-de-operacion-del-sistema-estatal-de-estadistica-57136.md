@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-operacion-del-sistema-estatal-de-estadistica-5713
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-09-18"
-last_updated: "2007-09-18"
+last_updated: "2012-09-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57136&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO DE OPERACION DEL SISTEMA ESTATAL DE ESTADISTICA CRIMINOLOGICA
 
-REGLAMENTO DE OPERACION DEL SISTEMA ESTATAL DE ESTADISTICA CRIMINOLOGICA
+REGLAMENTO DE OPERACIÓN DEL SISTEMA ESTATAL DE ESTADÍSTICA CRIMINOLÓGICA DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL SISTEMA DE INFORMACIÓN Y ESTADÍSTICA, PUBLICADO EN EL P.O. DE 4 DE SEPTIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 18 de septiembre de 2007.
 
@@ -260,3 +262,19 @@ JOSÉ GERARDO MOSQUEDA MARTINEZ
 EL SECRETARIO DE SEGURIDAD PÚBLICA
 
 BALTAZAR VILCHIES HINOJOSA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 4 DE SEPTIEMBRE DE 2012.
+
+Inicio de vigencia
+
+Artículo Primero. El presente Reglamento entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación de Reglamento.
+
+Artículo Segundo. Se abroga el Reglamento de Operación del Sistema Estatal de Estadística Criminológica, contenido en el Decreto Gubernativo número 44, publicado en el Periódico Oficial de Gobierno del Estado, número 150, Segunda Parte, de fecha 18 de septiembre de 2007.
+
+Emisión de los Lineamientos de Operación
+
+Artículo Tercero. El Consejo Estatal de Seguridad Pública deberá aprobar los Lineamientos de Operación del Sistema de Información y Estadística.
