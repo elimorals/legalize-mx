@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-de-seguridad-y-servicios-64771"
 country: "mx"
 rank: "estatuto"
 publication_date: "2008-12-31"
-last_updated: "2012-06-13"
+last_updated: "2012-09-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "2008-06-26"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE MAYO DE 2012.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL D.O.F. EL 13 DE JUNIO DE 2012 NO APLICA AL ARTICULADO DEL ACUERDO DE REFORMAS PUBLICADO EN EL D.O.F. DE 9 DE MAYO DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE SEPTIEMBRE DE 2012.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 31 de diciembre de 2008.
 
@@ -1021,7 +1019,7 @@ e) Control, registro, mantenimiento y actualización del inventario de activo fi
 
 f) (DEROGADO, D.O.F. 9 DE MAYO DE 2012)
 
-g) Administración de riesgos y control de aseguramiento integral.
+g) (DEROGADO, D.O.F. 4 DE SEPTIEMBRE DE 2012)
 
 > <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2012)</small>
 
@@ -1091,7 +1089,7 @@ XVI. Determinar las condiciones financieras indispensables en la compensación o
 
 XVII. Elaborar y celebrar acuerdos de gestión con las Unidades Administrativas Centrales y Desconcentradas del Instituto, mediante los cuales se definan, promuevan y evalúen las metas específicas a cumplir en el otorgamiento de los seguros, prestaciones y servicios del Instituto;
 
-XVIII. Integrar, consolidar, coordinar, operar y administrar el programa integral de fianzas y aseguramiento institucional de personas, activos, cartera crediticia, recursos financieros y cualquier otro bien o patrimonio del Instituto y de sus Unidades Administrativas Centrales y Desconcentradas, así como de los servidores públicos del mismo y, en su caso, de sus derechohabientes;
+XVIII. (DEROGADA, D.O.F. 4 DE SEPTIEMBRE DE 2012)
 
 XIX. Administrar el pago de los montos constitutivos de los seguros de riesgos del trabajo y de invalidez y vida, estableciendo en los términos de la Ley mecanismos de coordinación y pago con las entidades aseguradoras, así como procedimientos que favorezcan que el derechohabiente pensionado elija a la aseguradora que le ofrezca las mejores condiciones, previa determinación, en coordinación con la Dirección de Prestaciones Económicas, Sociales y Culturales, de los cálculos actuariales correspondientes;
 
@@ -1173,9 +1171,9 @@ XXII. Verificar que el ejercicio y registro del presupuesto de egresos, autoriza
 
 XXIII. Integrar en el ámbito de su competencia y en coordinación con la Dirección de Finanzas, la información que presente el Instituto a la Secretaría de Hacienda y Crédito Público para elaborar la Cuenta de la Hacienda Pública Federal;
 
-> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 4 DE SEPTIEMBRE DE 2012)</small>
 
-XXIV. Representar al Instituto y a sus órganos desconcentrados ante las Secretarías de Hacienda y Crédito Público y de la Función Pública en asuntos de planeación, programación, presupuestación, y evaluación financiera y presupuestal del gasto;
+XXIV. Representar al Instituto en el ámbito de su competencia;
 
 > <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2012)</small>
 
@@ -1187,11 +1185,15 @@ XXVI. Proponer al Director General acciones de mejora y simplificación administ
 
 > <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2012)</small>
 
-XXVII. Coordinar el manejo, guarda, custodia y conservación de los archivos del Instituto; y
+XXVII. Coordinar el manejo, guarda, custodia y conservación de los archivos del Instituto; y (sic)
 
-> <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 4 DE SEPTIEMBRE DE 2012)</small>
 
-XXVIII. Las demás que le confieran el presente Estatuto y la normatividad aplicable, así como las que le asigne el Director General.
+XXVIII. Coordinar, integrar, operar y administrar el programa de aseguramiento de los bienes patrimoniales del Instituto, así como el programa integral de seguros y fianzas de sus servidores públicos y, en su caso, de sus derechohabientes, y
+
+> <small>(ADICIONADA, D.O.F. 4 DE SEPTIEMBRE DE 2012)</small>
+
+XXIX. Las demás que le confieran el presente Estatuto y la normativa aplicable, así como las que le asigne el Director General.
 
 #### SECCION SEXTA. De la Dirección Jurídica
 
@@ -1884,3 +1886,11 @@ PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publ
 SEGUNDO.- Para efectos de cumplir con lo previsto en los artículos 58 y 59 del Estatuto Orgánico del ISSSTE, en un plazo que no excederá de noventa días naturales a partir de la vigencia de este ordenamiento, se transferirá a la Dirección de Administración, los correspondientes recursos humanos, materiales y financieros de la Subdirección de Programación y Presupuesto de la Dirección de Finanzas, con sus respectivas Jefaturas de Servicio y de Departamento.
 
 TERCERO.- Las referencias efectuadas a la Dirección de Finanzas en materia de programación, presupuestación y evaluación presupuestal que se contengan en el Estatuto Orgánico o en la normatividad que de él se desprenda, se deberán entender aplicadas a la Dirección de Administración.
+
+D.O.F. 4 DE SEPTIEMBRE DE 2012.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Para efectos de cumplir con lo previsto en los artículos 58 y 59 del Estatuto Orgánico del ISSSTE, en un plazo que no excederá de noventa días naturales a partir de la vigencia de este ordenamiento, se transferirá a la Dirección de Administración, los correspondientes recursos humanos, materiales y financieros de la Subdirección de Administración de Riesgos Institucionales y Fianzas, con sus respectivas Jefaturas de Servicio y de Departamento.
+
+TERCERO.- Las referencias efectuadas a la Dirección de Finanzas en relación con el programa de aseguramiento de los bienes patrimoniales del Instituto, así como el programa integral de seguros y fianzas de sus servidores públicos y, en su caso, de sus derechohabientes contenidas en el Estatuto Orgánico o en la normativa que de él se desprenda, se deberán entender aplicadas a la Dirección de Administración.
