@@ -4,7 +4,7 @@ identifier: "FED-reglamento-organico-del-fondo-de-la-vivienda-del-instituto-8146
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-05-27"
-last_updated: "2011-05-27"
+last_updated: "2012-09-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81469&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2011-04-14"
 ---
 # REGLAMENTO ORGANICO DEL FONDO DE LA VIVIENDA DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-REGLAMENTO ORGANICO DEL FONDO DE LA VIVIENDA DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
+REGLAMENTO ORGÁNICO DEL FONDO DE LA VIVIENDA DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE SEPTIEMBRE DE 2012.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 27 de mayo de 2011.
 
@@ -283,9 +283,21 @@ XVII. Establecer criterios y capacitar a las gerencias regionales en materia ope
 
 XVIII. Proponer al Comité de Crédito los asuntos que en el ámbito de su competencia deban ser analizados y ejecutar las resoluciones adoptadas;
 
-XIX. Certificar los documentos y expedir las constancias que se requieran en las materias del ámbito de su competencia, y
+> <small>(REFORMADA, D.O.F. 4 DE SEPTIEMBRE DE 2012)</small>
 
-XX. Realizar las demás funciones inherentes al cargo que le señale su superior jerárquico o sean determinadas por la normatividad aplicable.
+XIX. Elaborar, en el ámbito de su competencia, las políticas, normas o procedimientos a que se sujetará la atención que brinden las gerencias regionales a los derechohabientes, acreditados y ciudadanía en general;
+
+> <small>(REFORMADA, D.O.F. 4 DE SEPTIEMBRE DE 2012)</small>
+
+XX. Resolver, en el ámbito de su competencia, las solicitudes de los derechohabientes, acreditados y ciudadanía en general;
+
+> <small>(ADICIONADA, D.O.F. 4 DE SEPTIEMBRE DE 2012)</small>
+
+XXI. Certificar los documentos y expedir las constancias que se requieran en las materias del ámbito de su competencia, y
+
+> <small>(ADICIONADA, D.O.F. 4 DE SEPTIEMBRE DE 2012)</small>
+
+XXII. Las demás que sean inherentes al cargo, que le señale su superior jerárquico o que sean determinadas por la normativa aplicable.
 
 ###### Artículo 19.
 
@@ -625,11 +637,25 @@ XV. Formular, elaborar y dirigir las políticas de suspensión del descuento y f
 
 XVI. Proponer a los Comités de Inversiones y Crédito los asuntos que en el ámbito de su competencia deban ser analizados y ejecutar las resoluciones adoptadas;
 
-XVII. Certificar los documentos y expedir las constancias que se requieran en las materias del ámbito de su competencia;
+> <small>(REFORMADA, D.O.F. 4 DE SEPTIEMBRE DE 2012)</small>
 
-XVIII. Coordinar y atender en los tiempos establecidos los informes, reportes, formatos y demás documentación requerida por las Unidades Administrativas Centrales en el ámbito de su competencia, así como por los Organos de Fiscalización, y
+XVII. Elaborar, en el ámbito de su competencia, las políticas, normas o procedimientos a que se sujetará la atención que brinden las gerencias regionales a los derechohabientes, acreditados y ciudadanía en general;
 
-XIX. Realizar las demás funciones inherentes al cargo que le señale su superior jerárquico o sean determinadas por la normatividad aplicable.
+> <small>(REFORMADA, D.O.F. 4 DE SEPTIEMBRE DE 2012)</small>
+
+XVIII. Resolver, en el ámbito de su competencia, las solicitudes de los derechohabientes, acreditados y ciudadanía en general;
+
+> <small>(REFORMADA, D.O.F. 4 DE SEPTIEMBRE DE 2012)</small>
+
+XIX. Certificar los documentos y expedir las constancias que se requieran en las materias del ámbito de su competencia;
+
+> <small>(ADICIONADA, D.O.F. 4 DE SEPTIEMBRE DE 2012)</small>
+
+XX. Coordinar y atender en los tiempos establecidos los informes, reportes, formatos y demás documentación requerida por las Unidades Administrativas Centrales y por los Organos de Fiscalización, en el ámbito de sus competencias, y
+
+> <small>(ADICIONADA, D.O.F. 4 DE SEPTIEMBRE DE 2012)</small>
+
+XXI. Las demás que sean inherentes al cargo, que le señale su superior jerárquico o que sean determinadas por la normativa aplicable.
 
 ###### Artículo 34.
 
@@ -1153,9 +1179,21 @@ XIII. Coordinar y supervisar la ventanilla única, en la recepción, turno de as
 
 XIV. Rendir informes y reportes a Organos Fiscalizadores e instancias superiores, cuando así se le requiera;
 
-XV. Certificar los documentos y expedir las constancias que se requieran en las materias del ámbito de su competencia, y
+> <small>(REFORMADA, D.O.F. 4 DE SEPTIEMBRE DE 2012)</small>
 
-XVI. Realizar las demás funciones inherentes al cargo que le señale su superior jerárquico o sean determinadas por la normatividad aplicable.
+XV. Elaborar, en el ámbito de su competencia, las políticas, normas o procedimientos a que se sujetará la atención que brinden las gerencias regionales a los derechohabientes, acreditados y ciudadanía en general;
+
+> <small>(REFORMADA, D.O.F. 4 DE SEPTIEMBRE DE 2012)</small>
+
+XVI. Resolver, en el ámbito de su competencia, las solicitudes de los derechohabientes, acreditados y ciudadanía en general;
+
+> <small>(ADICIONADA, D.O.F. 4 DE SEPTIEMBRE DE 2012)</small>
+
+XVII. Certificar los documentos y expedir las constancias que se requieran en las materias del ámbito de su competencia, y
+
+> <small>(ADICIONADA, D.O.F. 4 DE SEPTIEMBRE DE 2012)</small>
+
+XVIII. Las demás que sean inherentes al cargo, que le señale su superior jerárquico o que sean determinadas por la normativa aplicable.
 
 ###### Artículo 55.
 
@@ -1487,9 +1525,21 @@ XIV. Conducir el establecimiento de procedimientos relativos a la guarda, custod
 
 XV. Conducir la actualización de los manuales de políticas, procedimientos de servicio y seguridad informáticos;
 
-XVI. Certificar los documentos y expedir las constancias que se requieran en las materias del ámbito de su competencia, y
+> <small>(REFORMADA, D.O.F. 4 DE SEPTIEMBRE DE 2012)</small>
 
-XVII. Realizar las demás funciones inherentes al cargo que le señale su superior jerárquico o sean determinadas por la normatividad aplicable.
+XVI. Elaborar, en el ámbito de su competencia, las políticas, normas o procedimientos a que se sujetará la atención que brinden las gerencias regionales a los derechohabientes, acreditados y ciudadanía en general;
+
+> <small>(REFORMADA, D.O.F. 4 DE SEPTIEMBRE DE 2012)</small>
+
+XVII. Resolver, en el ámbito de su competencia, las solicitudes de los derechohabientes, acreditados y ciudadanía en general;
+
+> <small>(ADICIONADA, D.O.F. 4 DE SEPTIEMBRE DE 2012)</small>
+
+XVIII. Certificar los documentos y expedir las constancias que se requieran en las materias del ámbito de su competencia, y
+
+> <small>(ADICIONADA, D.O.F. 4 DE SEPTIEMBRE DE 2012)</small>
+
+XIX. Las demás que sean inherentes al cargo, que le señale su superior jerárquico o que sean determinadas por la normativa aplicable.
 
 ###### Artículo 68.
 
@@ -1743,47 +1793,53 @@ XII. Realizar las demás funciones inherentes al cargo que le señale su superio
 
 ### CAPITULO DECIMO PRIMERO. DE LA SUBDIRECCION DE ATENCION A ACREDITADOS Y ENLACE CON GERENCIAS REGIONALES
 
+> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 78.
 
 El titular de la Subdirección de Atención a Acreditados y Enlace con Gerencias Regionales tendrá las funciones siguientes:
 
-I. Verificar el cumplimiento y debida aplicación de las normas, políticas, procedimientos y lineamientos a los que se sujetarán los programas de atención y de apoyo a acreditados, y sus directrices y mecanismos para su ejecución, así como los de la Comisión Nacional de Vivienda y los que establezca en la materia el Vocal Ejecutivo;
+I. Coordinar las acciones para atender las solicitudes de información o de cualquier otro tipo, trámites y gestiones que requieran los derechohabientes, acreditados, ciudadanía en general y subdirecciones del FOVISSSTE en las gerencias regionales, conforme a los lineamientos y requerimientos que establezcan los órganos de gobierno y la Vocalía Ejecutiva;
 
-II. Realizar las acciones de seguimiento continuo a los conjuntos habitacionales con problemas identificados;
+II. Proponer al Vocal Ejecutivo, para su aprobación, los programas, lineamientos y procedimientos a los que se sujetará la atención al derechohabiente, acreditados y ciudadanía en general en materia de:
 
-III. Integrar propuestas para la atención de la problemática presentada en los diversos conjuntos habitacionales, brindando la atención a acreditados;
+a) Asesoría.
 
-IV. Someter a consideración del Vocal Ejecutivo, los planes y programas de atención a acreditados, en problemas de rezago de los conjuntos habitacionales a nivel nacional;
+b) Formalización del crédito.
 
-V. Proponer a la consideración del Grupo de Trabajo de Atención a Acreditados las solicitudes de los créditos que se presenten por eventualidades, contingencias o circunstancias ajenas a la programación normal del FOVISSSTE o al cumplimiento de políticas públicas específicas;
+c) Atención de acreditados.
 
-VI. Conducir la ejecución y cumplimiento de los acuerdos de la Comisión Ejecutiva, para brindar una eficaz respuesta a las solicitudes de los acreditados;
+d) Administración de cartera, recaudación y cobranza.
 
-VII. Coordinar el establecimiento de estándares e indicadores de servicio, que permitan conocer el grado de satisfacción de los acreditados, a fin de establecer mejoras en el servicio;
+e) Vinculación institucional e intercambio de información con los niveles de las Entidades Federativas.
 
-VIII. Establecer y coordinar los programas de atención al derechohabiente, acreditados y público en general, así como la atención de peticiones, quejas y sugerencias, acerca de los servicios que proporciona el FOVISSSTE;
+f) Las demás que le instruya el Vocal Ejecutivo.
 
-IX. Conducir el seguimiento a las solicitudes de información turnadas por la Unidad de Enlace del Instituto en cumplimiento a la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
+III. Evaluar, verificar y supervisar el cumplimiento y la debida aplicación de las normas, políticas, procedimientos y lineamientos a los que se sujetarán los programas de atención a los derechohabientes, acreditados y ciudadanía en general, así como sus directrices, mecanismos de ejecución y plazos de atención;
 
-X. Coordinar el cumplimiento de los requisitos del Modelo de Equidad de Género;
+IV. Definir, establecer y vigilar el cumplimiento de estándares de servicio a los derechohabientes, acreditados y ciudadanía en general, con la participación de las subdirecciones del FOVISSSTE;
 
-XI. Dar seguimiento a los acuerdos de la Junta y de la Comisión Ejecutiva, que tengan por objetivo atender la problemática de los créditos en sus diferentes modalidades;
+V. Dirigir el proceso de monitoreo que determinará el grado de satisfacción de los derechohabientes, acreditados y ciudadanía en general, a fin de proponer el establecimiento de mejoras en el servicio;
 
-XII. Dirigir las acciones encauzadas a atender la problemática de vivienda en coordinación con las áreas del FOVISSSTE, delegaciones regionales y estatales del Instituto, gerencias regionales y organismos públicos involucrados;
+VI. Establecer un sistema de atención de peticiones, quejas y denuncias, bajo los lineamientos que para el caso dicte la Vocalía Ejecutiva;
 
-XIII. Establecer vínculos institucionales e intercambio de información sobre la vivienda, con los niveles de gobierno estatal y municipal, para retroalimentar los programas institucionales que se implementarán en las Gerencias Regionales;
+VII. Proponer, en las definiciones presupuestales, la asignación de recursos para el funcionamiento de las gerencias regionales;
 
-XIV. Coordinar y supervisar la operación de las gerencias regionales;
+VIII. Dar cumplimiento, en el ámbito de su competencia, a los acuerdos de la Junta y de la Comisión Ejecutiva;
 
-XV. Coordinar y dirigir el Grupo de Trabajo de Atención a Acreditados;
+IX. Coordinar y dirigir el Grupo de Trabajo de Atención a Acreditados;
 
-XVI. Establecer vínculos institucionales e intercambio de información sobre la vivienda, a nivel estatal y municipal para retroalimentar los programas asignados a la Subdirección;
+X. Proponer al Grupo de Trabajo de Atención a Acreditados las solicitudes de los créditos que se presenten por eventualidades, contingencias o circunstancias ajenas a la programación normal del FOVISSSTE o al cumplimiento de políticas públicas específicas;
 
-XVII. Certificar los documentos y expedir las constancias que se requieran en las materias del ámbito de su competencia;
+XI. Fungir como enlace, en los términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, con la Unidad de Enlace del Instituto;
 
-XVIII. Coordinar los informes y reportes a Organos Fiscalizadores e instancias superiores, cuando así se le requiera, y
+XII. Dirigir los programas en materia de equidad de género, de conformidad con la normativa aplicable;
 
-XIX. Realizar las demás funciones inherentes al cargo que le señale su superior jerárquico o sean determinadas por la normatividad aplicable.
+XIII. Certificar los documentos y expedir las constancias que se requieran en las materias del ámbito de su competencia;
+
+XIV. Rendir los informes y atender a Organos Fiscalizadores e instancias superiores, cuando así se le requiera, y
+
+XV. Las demás que sean inherentes al cargo, que le señale su superior jerárquico o que sean determinadas por la normativa aplicable.
 
 ###### Artículo 79.
 
@@ -1793,65 +1849,75 @@ A. Jefatura de Servicios de Enlace Institucional y Atención Ciudadana, y
 
 B. Jefatura de Servicios de Gerencias Regionales.
 
+> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 80.
 
 El titular de la Jefatura de Servicios de Enlace Institucional y Atención Ciudadana tendrá las funciones siguientes:
 
-I. Contribuir a la atención oportuna y dentro de los plazos establecidos por la Unidad de Enlace del Instituto a los requerimientos de la ciudadanía, dando cumplimiento a la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
+I. Coordinar la elaboración de los programas, lineamientos y procedimientos a los que se sujetará la atención al derechohabiente y a la ciudadanía en general en materia de:
 
-II. Analizar y evaluar los procesos de atención a usuarios con base en la aplicación de encuestas al derechohabiente y público en general que tramita o recibe un servicio;
+a) Asesoría.
 
-III. Analizar y evaluar los procesos en materia de equidad de género;
+b) Formalización del crédito.
 
-IV. Generar informes de las encuestas sobre la atención y la calidad de los servicios que se proporcionan al derechohabiente, en los Espacios de Contacto Ciudadano de Oficinas Centrales y gerencias regionales;
+c) Atención de acreditados.
 
-V. Coordinar la vinculación del Fondo de la Vivienda con las autoridades del Gobierno Federal, para incrementar la calidad en materia de equidad de género en beneficio de las trabajadoras y trabajadores de base y confianza;
+d) Administración de cartera, recaudación y cobranza.
 
-VI. Coordinar la vinculación del Fondo de la Vivienda con las autoridades del Gobierno Federal, para incrementar la calidad en materia de equidad de género en beneficio de las trabajadoras y trabajadores de base y confianza esta fracción es materia de equidad de género;
+e) Vinculación con instancias estatales y municipales.
 
-VII. Coadyuvar dentro de la planeación a instrumentar mecanismos y programas de atención ciudadana, que permitan atender las peticiones de información, quejas y sugerencias en materia de vivienda;
+f) Aquellas otras que le instruya el Subdirector.
 
-VIII. Coordinar la operación de los programas institucionales de atención ciudadana y de apoyo a acreditados, para incrementar la calidad de los servicios;
+II. Coadyuvar en la evaluación, verificación y supervisión del cumplimiento y de la debida aplicación de las normas, políticas, procedimientos y lineamientos a los que se sujetarán los programas de atención a los derechohabientes, acreditados y ciudadanía en general, así como sus directrices y mecanismos de ejecución y los que establezca en la materia el Vocal Ejecutivo;
 
-IX. Coordinar la implementación de programas de atención integral a través de la instrumentación de espacios de contacto ciudadano, para que el derechohabiente pueda obtener orientación e información, canalizar sus quejas o sugerencias y obtener resultados y respuestas a sus peticiones de manera ágil;
+III. Coordinar los mecanismos para la definición, establecimiento y vigilancia del cumplimiento de estándares de servicio a los derechohabientes, acreditados y ciudadanía en general;
 
-X. Participar en las reuniones de trabajo en materia de transparencia, participación y atención ciudadana que celebre el FOVISSSTE, para una adecuada coordinación de las acciones;
+IV. Supervisar el proceso de monitoreo que determinará el grado de satisfacción de los derechohabientes, acreditados y ciudadanía en general, a fin de proponer el establecimiento de mejoras en el servicio;
 
-XI. Coordinar la atención y canalización de solicitudes de atención al derechohabiente, que ingresan por medios electrónicos y de contacto;
+V. Coordinar la operación de un sistema de atención de peticiones, quejas y denuncias, bajo los lineamientos que para el caso dicte la Vocalía Ejecutiva;
 
-XII. Atender las solicitudes de los créditos que se presenten por eventualidades, contingencias o circunstancias ajenas a la programación normal del FOVISSSTE o al cumplimiento de políticas públicas específicas;
+VI. Coordinar el cumplimiento, en el ámbito de su competencia, de los acuerdos de la Junta y de la Comisión Ejecutiva;
 
-XIII. Revisar el proceso de certificación y expedición de copias de los documentos que obren en poder del Instituto, relativos al ámbito de su competencia para ser exhibidos ante autoridades administrativas y jurisdiccionales;
+VII. Coordinar la elaboración de los documentos que contengan las solicitudes de los créditos que se presenten por eventualidades, contingencias o circunstancias ajenas a la programación normal del FOVISSSTE o al cumplimiento de políticas públicas específicas, a someterse a Grupo de Trabajo de Atención a Acreditados;
 
-XIV. Coordinar la realización de informes y reportes a Organos Fiscalizadores e instancias superiores, cuando así se le requiera, y
+VIII. Fungir como enlace con la Unidad de Enlace del Instituto, en los términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
 
-XV. Realizar las demás funciones inherentes al cargo que le señale su superior jerárquico o sean determinadas por la normatividad aplicable.
+IX. Coordinar los programas en materia de equidad de género, de conformidad con la normativa aplicable;
+
+X. Revisar el proceso de certificación y expedición de copias de los documentos que obren en poder del Instituto, relativos al ámbito de su competencia, para ser exhibidos ante autoridades administrativas y jurisdiccionales;
+
+XI. Coordinar la realización de informes y reportes para Organos Fiscalizadores e instancias superiores, cuando así se le requiera, y
+
+XII. Las demás que sean inherentes al cargo, que le señale su superior jerárquico o que sean determinadas por la normativa aplicable.
+
+> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 81.
 
 El titular de la Jefatura de Servicios de Gerencias Regionales tendrá las funciones siguientes:
 
-I. Vigilar que la implementación y difusión de los programas Institucionales que efectúan las gerencias regionales, se apeguen a las normas y lineamientos del FOVISSSTE;
+I. Supervisar la coordinación de las acciones para atender las solicitudes de información o de cualquier otro tipo, trámites y gestiones que requieran los derechohabientes, acreditados, ciudadanía en general y subdirecciones del FOVISSSTE en las gerencias regionales, conforme a los lineamientos y requerimientos que establezcan los órganos de gobierno y la Vocalía Ejecutiva;
 
-II. Proponer acciones para mejorar la atención al derechohabiente con base en la información generada en las gerencias regionales;
+II. Validar las propuestas de asignación de recursos para el funcionamiento de las gerencias regionales;
 
-III. Proponer mecanismos para el seguimiento y control de los trámites del derechohabiente;
+III. Vigilar que la implementación y difusión de los programas institucionales que efectúan las gerencias regionales se apeguen a las normas y lineamientos del FOVISSSTE;
 
-IV. Vigilar que las gerencias regionales cumplan los acuerdos de la Comisión Ejecutiva y de la Junta en su ámbito de competencia;
+IV. Proponer acciones para mejorar la atención a los derechohabientes, acreditados y ciudadanía en general, con base en la información generada en las gerencias regionales;
 
-V. Proponer al Grupo de Trabajo de Atención a Acreditados las solicitudes de acreditados remitidas por las gerencias regionales en coordinación con las subdirecciones competentes;
+V. Proponer mecanismos para el seguimiento y control de los trámites de los derechohabientes, acreditados y ciudadanía en general;
 
-VI. Integrar los informes periódicos de los programas atendidos por el área, así como de las propuestas de mejora que se consideren pertinentes;
+VI. Vigilar que las gerencias regionales cumplan los acuerdos de la Comisión Ejecutiva y de la Junta, en el ámbito de su competencia;
 
-VII. Vigilar los procesos operativos de las gerencias regionales conforme a los lineamientos establecidos por las subdirecciones;
+VII. Proponer al Grupo de Trabajo de Atención a Acreditados las solicitudes de acreditados remitidas por las gerencias regionales en coordinación con las subdirecciones competentes;
 
-VIII. Supervisar las acciones para la atención de la problemática de vivienda, en coordinación con las subdirecciones y gerencias regionales;
+VIII. Integrar los informes periódicos de los programas atendidos por el área, así como de las propuestas de mejora que se consideren necesarias;
 
-IX. Revisar el proceso de certificación y expedición de copias de los documentos que obren en poder del Instituto, relativos al ámbito de su competencia para ser exhibidos ante autoridades administrativas y jurisdiccionales;
+IX. Revisar el proceso de certificación y expedición de copias de los documentos que obren en poder del Instituto, relativos al ámbito de su competencia, para ser exhibidos ante autoridades administrativas y jurisdiccionales;
 
-X. Coordinar la realización de informes y reportes a Organos Fiscalizadores e instancias superiores, cuando así se le requiera, y
+X. Coordinar la realización de informes y reportes para Organos Fiscalizadores e instancias superiores, cuando así se le requiera, y
 
-XI. Realizar las demás funciones inherentes al cargo que le señale su superior jerárquico o sean determinadas por la normatividad aplicable.
+XI. Las demás que sean inherentes al cargo, que le señale su superior jerárquico o que sean determinadas por la normativa aplicable.
 
 ###### Artículo 82.
 
@@ -1885,29 +1951,35 @@ IX. Elaborar en los tiempos establecidos los informes, reportes, formatos y dem�
 
 X. Realizar las demás funciones inherentes al cargo que le señale su superior jerárquico o sean determinadas por la normatividad aplicable.
 
+> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 84.
 
 El titular de la Jefatura de Departamento de Atención Ciudadana tendrá las funciones siguientes:
 
-I. Coordinar directrices y mecanismos para ejecutar los programas de apoyo a acreditados, con base en las políticas del Plan Nacional de Desarrollo y del Programa Sectorial de Vivienda;
+I. Integrar los proyectos de programas, lineamientos y procedimientos a los que se sujetará la atención a los derechohabientes, acreditados y ciudadanía en general;
 
-II. Atender las diferentes solicitudes y planteamientos que realizan los ciudadanos, proporcionándoles orientación e información acerca del proceso de su asunto y/o si fue canalizado al área correspondiente del FOVISSSTE;
+II. Coordinar los mecanismos para la definición, establecimiento y vigilancia del cumplimiento de estándares de servicio a los derechohabientes, acreditados y ciudadanía en general;
 
-III. Supervisar el cumplimiento de los tiempos de respuesta a las peticiones de los derechohabientes y acreditados;
+III. Participar en la evaluación, verificación y supervisión del cumplimiento y de la debida aplicación de las normas, políticas, procedimientos y lineamientos a los que se sujetarán los programas de atención a los derechohabientes, acreditados y ciudadanía en general, así como sus directrices y mecanismos de ejecución y los que establezca en la materia el Vocal Ejecutivo;
 
-IV. Verificar la adecuada aplicación de los mecanismos y programas de atención ciudadana, las peticiones de información, quejas y sugerencias en materia de vivienda en oficinas centrales del FOVISSSTE;
+IV. Elaborar las propuestas que se someterán a consideración del Grupo de Trabajo de Atención a Acreditados, respecto de las solicitudes de los créditos que se presenten por eventualidades, contingencias o circunstancias ajenas a la programación normal del FOVISSSTE o al cumplimiento de políticas públicas específicas;
 
-V. Supervisar el debido cumplimiento de los lineamientos que regulan la atención de peticiones que turna la Red Federal de Servicio a la Ciudadanía de la Presidencia de la República, en las subdirecciones del FOVISSSTE;
+V. Monitorear el grado de satisfacción de los derechohabientes, acreditados y ciudadanía en general, a fin de proponer el establecimiento de mejoras en el servicio;
 
-VI. Remitir a la Red Federal de Servicio a la Ciudadanía de la Presidencia de la República, los informes inherentes a la atención brindada a las peticiones que son turnadas al FOVISSSTE;
+VI. Operar el sistema de atención de peticiones, quejas y denuncias, bajo los lineamientos que para el caso determine la Vocalía Ejecutiva;
 
-VII. Participar en las reuniones de trabajo que, en materia de atención ciudadana, se llevan a cabo en las oficinas de la Red Federal de Servicio a la Ciudadanía de la Oficina de la Presidencia de la República;
+VII. Supervisar en las subdirecciones del FOVISSSTE el debido cumplimiento de los lineamientos que regulan la atención de peticiones que turna la Red Federal de Servicio a la Ciudadanía de la Presidencia de la República;
 
-VIII. Realizar las acciones para la certificación y expedición de copias de los documentos que obren en poder del Instituto, relativos al ámbito de su competencia para ser exhibidos ante autoridades administrativas y jurisdiccionales;
+VIII. Remitir a la Red Federal de Servicio a la Ciudadanía de la Presidencia de la República, los informes inherentes a la atención brindada a las peticiones que son turnadas al FOVISSSTE;
 
-IX. Elaborar en los tiempos establecidos los informes, reportes, formatos y demás documentación requerida por las Unidades Administrativas Centrales en el ámbito de su competencia, así como por los Organos Fiscalizadores, y
+IX. Participar en las reuniones de trabajo que, en materia de atención ciudadana, se llevan a cabo en las oficinas de la Red Federal de Servicio a la Ciudadanía de la Presidencia de la República;
 
-X. Realizar las demás funciones inherentes al cargo que le señale su superior jerárquico o sean determinadas por la normatividad aplicable.
+X. Realizar las acciones para la certificación y expedición de copias de los documentos que obren en poder del Instituto, relativos al ámbito de su competencia, para ser exhibidos ante autoridades administrativas y jurisdiccionales;
+
+XI. Elaborar en los tiempos establecidos los informes, reportes, formatos y demás documentación requerida por las Unidades Administrativas Centrales y por los Organos de Fiscalización, en el ámbito de sus competencias, y
+
+XII. Las demás que sean inherentes al cargo, que le señale su superior jerárquico o que sean determinadas por la normativa aplicable.
 
 ###### Artículo 85.
 
@@ -1919,83 +1991,89 @@ B. Departamento de Supervisión Zona Centro, y
 
 C. Departamento de Supervisión Zona Sur
 
+> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 86.
 
 El titular de la Jefatura de Departamento de Supervisión Zona Norte tendrá las funciones siguientes:
 
-I. Verificar que la implementación y difusión de los programas Institucionales que efectúan las gerencias regionales se apeguen a las normas, políticas y lineamientos;
+I. Verificar que la implementación y difusión de los programas institucionales que efectúan las gerencias regionales se apeguen a las normas, políticas y lineamientos;
 
-II. Constatar las acciones para mejorar la atención al derechohabiente con base en la información generada en las gerencias regionales;
+II. Constatar las acciones para mejorar la atención a los derechohabientes, acreditados y ciudadanía en general, con base en la información generada en las gerencias regionales;
 
-III. Supervisar el uso de los mecanismos para el seguimiento y control de los trámites del derechohabiente;
+III. Supervisar el uso de los mecanismos para el seguimiento y control de los trámites de los derechohabientes, acreditados y ciudadanía en general;
 
-IV. Analizar las solicitudes de acreditados remitidas por las gerencias regionales previo a la integración de asuntos que se propongan al Grupo de Trabajo de Atención a Acreditados;
+IV. Elaborar propuestas de asignación de recursos para el funcionamiento de las gerencias regionales;
 
-V. Revisar que las gerencias regionales cumplan los acuerdos de la Comisión Ejecutiva y de la Junta en su ámbito de competencia;
+V. Revisar que las gerencias regionales cumplan los acuerdos de la Comisión Ejecutiva y de la Junta, en el ámbito de su competencia;
 
-VI. Elaborar informes de los programas atendidos por el área, así como las propuestas de mejora que se consideren pertinentes;
+VI. Elaborar informes de los programas atendidos por el área, así como las propuestas de mejora que se consideren necesarias;
 
-VII. Supervisar los procesos operativos de las gerencias regionales conforme a los lineamientos establecidos por las subdirecciones;
+VII. Supervisar los procesos operativos de las gerencias regionales, conforme a los lineamientos establecidos por las subdirecciones;
 
-VIII. Verificar las acciones para la atención de la problemática de vivienda, en las gerencias regionales;
+VIII. Verificar las acciones para la atención de la problemática de vivienda en las gerencias regionales;
 
-IX. Realizar las acciones para la certificación y expedición de copias de los documentos que obren en poder del Instituto, relativos al ámbito de su competencia para ser exhibidos ante autoridades administrativas y jurisdiccionales;
+IX. Realizar las acciones para la certificación y expedición de copias de los documentos que obren en poder del Instituto, relativos al ámbito de su competencia, para ser exhibidos ante autoridades administrativas y jurisdiccionales;
 
-X. Elaborar en los tiempos establecidos los informes, reportes, formatos y demás documentación requerida por las Unidades Administrativas Centrales en el ámbito de su competencia, así como por los Organos Fiscalizadores, y
+X. Elaborar en los tiempos establecidos los informes, reportes, formatos y demás documentación requerida por las Unidades Administrativas Centrales y por los Organos de Fiscalización, en el ámbito de sus competencias, y
 
-XI. Realizar las demás funciones inherentes al cargo que le señale su superior jerárquico o sean determinadas por la normatividad aplicable.
+XI. Las demás que sean inherentes al cargo, que le señale su superior jerárquico o que sean determinadas por la normativa aplicable.
+
+> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 87.
 
 El titular de la Jefatura de Departamento de Supervisión Zona Centro tendrá las funciones siguientes:
 
-I. Verificar que la implementación y difusión de los programas Institucionales que efectúan las gerencias regionales se apeguen a las normas, políticas y lineamientos;
+I. Verificar que la implementación y difusión de los programas institucionales que efectúan las gerencias regionales se apeguen a las normas, políticas y lineamientos;
 
-II. Constatar las acciones para mejorar la atención al derechohabiente con base en la información generada en las gerencias regionales;
+II. Constatar las acciones para mejorar la atención a los derechohabientes, acreditados y ciudadanía en general, con base en la información generada en las gerencias regionales;
 
-III. Supervisar el uso de los mecanismos para el seguimiento y control de los trámites del derechohabiente;
+III. Supervisar el uso de los mecanismos para el seguimiento y control de los trámites de los derechohabientes, acreditados y ciudadanía en general;
 
-IV. Analizar las solicitudes de acreditados remitidas por las gerencias regionales previo a la integración de asuntos que se propongan al Grupo de Trabajo de Atención a Acreditados;
+IV. Elaborar propuestas de asignación de recursos para el funcionamiento de las gerencias regionales;
 
-V. Revisar que las gerencias regionales cumplan los acuerdos de la Comisión Ejecutiva y de la Junta en su ámbito de competencia;
+V. Revisar que las gerencias regionales cumplan los acuerdos de la Comisión Ejecutiva y de la Junta, en el ámbito de su competencia;
 
-VI. Elaborar informes de los programas atendidos por el área, así como las propuestas de mejora que se consideren pertinentes;
+VI. Elaborar informes de los programas atendidos por el área, así como las propuestas de mejora que se consideren necesarias;
 
-VII. Supervisar los procesos operativos de las gerencias regionales conforme a los lineamientos establecidos por las subdirecciones;
+VII. Supervisar los procesos operativos de las gerencias regionales, conforme a los lineamientos establecidos por las subdirecciones;
 
-VIII. Verificar las acciones para la atención de la problemática de vivienda, en las gerencias regionales;
+VIII. Verificar las acciones para la atención de la problemática de vivienda en las gerencias regionales;
 
-IX. Realizar las acciones para la certificación y expedición de copias de los documentos que obren en poder del Instituto, relativos al ámbito de su competencia para ser exhibidos ante autoridades administrativas y jurisdiccionales;
+IX. Realizar las acciones para la certificación y expedición de copias de los documentos que obren en poder del Instituto, relativos al ámbito de su competencia, para ser exhibidos ante autoridades administrativas y jurisdiccionales;
 
-X. Elaborar en los tiempos establecidos los informes, reportes, formatos y demás documentación requerida por las Unidades Administrativas Centrales en el ámbito de su competencia, así como por los Organos Fiscalizadores, y
+X. Elaborar en los tiempos establecidos los informes, reportes, formatos y demás documentación requerida por las Unidades Administrativas Centrales y por los Organos de Fiscalización, en el ámbito de sus competencias, y
 
-XI. Realizar las demás funciones inherentes al cargo que le señale su superior jerárquico o sean determinadas por la normatividad aplicable.
+XI. Las demás que sean inherentes al cargo, que le señale su superior jerárquico o que sean determinadas por la normativa aplicable.
+
+> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 88.
 
 El titular de la Jefatura de Departamento de Supervisión Zona Sur tendrá las funciones siguientes:
 
-I. Verificar que la implementación y difusión de los programas Institucionales que efectúan las gerencias regionales se apeguen a las normas, políticas y lineamientos;
+I. Verificar que la implementación y difusión de los programas institucionales que efectúan las gerencias regionales se apeguen a las normas, políticas y lineamientos;
 
-II. Constatar las acciones para mejorar la atención al derechohabiente con base en la información generada en las gerencias regionales;
+II. Constatar las acciones para mejorar la atención a los derechohabientes, acreditados y ciudadanía en general, con base en la información generada en las gerencias regionales;
 
-III. Supervisar el uso de los mecanismos para el seguimiento y control de los trámites del derechohabiente;
+III. Supervisar el uso de los mecanismos para el seguimiento y control de los trámites de los derechohabientes, acreditados y ciudadanía en general;
 
-IV. Analizar las solicitudes de acreditados remitidas por las gerencias regionales previo a la integración de asuntos que se propongan al Grupo de Trabajo de Atención a Acreditados;
+IV. Elaborar propuestas de asignación de recursos para el funcionamiento de las gerencias regionales;
 
-V. Revisar que las gerencias regionales cumplan los acuerdos de la Comisión Ejecutiva y de la Junta en su ámbito de competencia;
+V. Revisar que las gerencias regionales cumplan los acuerdos de la Comisión Ejecutiva y de la Junta, en el ámbito de su competencia;
 
-VI. Elaborar informes de los programas atendidos por el área, así como las propuestas de mejora que se consideren pertinentes;
+VI. Elaborar informes de los programas atendidos por el área, así como las propuestas de mejora que se consideren necesarias;
 
-VII. Supervisar los procesos operativos de las gerencias regionales conforme a los lineamientos establecidos por las subdirecciones;
+VII. Supervisar los procesos operativos de las gerencias regionales, conforme a los lineamientos establecidos por las subdirecciones;
 
-VIII. Verificar las acciones para la atención de la problemática de vivienda, en las gerencias regionales;
+VIII. Verificar las acciones para la atención de la problemática de vivienda en las gerencias regionales;
 
-IX. Realizar las acciones para la certificación y expedición de copias de los documentos que obren en poder del Instituto, relativos al ámbito de su competencia para ser exhibidos ante autoridades administrativas y jurisdiccionales;
+IX. Realizar las acciones para la certificación y expedición de copias de los documentos que obren en poder del Instituto, relativos al ámbito de su competencia, para ser exhibidos ante autoridades administrativas y jurisdiccionales;
 
-X. Elaborar en los tiempos establecidos los informes, reportes, formatos y demás documentación requerida por las Unidades Administrativas Centrales en el ámbito de su competencia, así como por los Organos Fiscalizadores, y
+X. Elaborar en los tiempos establecidos los informes, reportes, formatos y demás documentación requerida por las Unidades Administrativas Centrales y por los Organos de Fiscalización, en el ámbito de sus competencias, y
 
-XI. Realizar las demás funciones inherentes al cargo que le señale su superior jerárquico o sean determinadas por la normatividad aplicable.
+XI. Las demás que sean inherentes al cargo, que le señale su superior jerárquico o que sean determinadas por la normativa aplicable.
 
 ### CAPITULO DECIMO SEGUNDO. DE LA SUBDIRECCION DE ASUNTOS JURIDICOS
 
@@ -2027,9 +2105,21 @@ XI. Proponer la política de contratación de despachos externos que en represen
 
 XII. Dirigir el otorgamiento y revocación de los poderes que requieran los titulares de las áreas administrativas y llevar el control de los testimonios respectivos;
 
-XIII. Certificar los documentos y expedir las constancias que se requieran en las materias del ámbito de su competencia, y
+> <small>(REFORMADA, D.O.F. 4 DE SEPTIEMBRE DE 2012)</small>
 
-XIV. Realizar las demás funciones inherentes al cargo que le señale su superior jerárquico o sean determinadas por la normatividad aplicable.
+XIII. Elaborar, en el ámbito de su competencia, las políticas, normas o procedimientos a que se sujetará la atención que brinden las gerencias regionales a los derechohabientes, acreditados y ciudadanía en general;
+
+> <small>(REFORMADA, D.O.F. 4 DE SEPTIEMBRE DE 2012)</small>
+
+XIV. Resolver, en el ámbito de su competencia, las solicitudes de los derechohabientes, acreditados y ciudadanía en general;
+
+> <small>(ADICIONADA, D.O.F. 4 DE SEPTIEMBRE DE 2012)</small>
+
+XV. Certificar los documentos y expedir las constancias que se requieran en las materias del ámbito de su competencia, y
+
+> <small>(ADICIONADA, D.O.F. 4 DE SEPTIEMBRE DE 2012)</small>
+
+XVI. Las demás que sean inherentes al cargo, que le señale su superior jerárquico o que sean determinadas por la normativa aplicable.
 
 ###### Artículo 90.
 
@@ -2225,9 +2315,27 @@ X. Autorizar el Programa de Capacitación Anual;
 
 XI. Participar con las organizaciones sindicales en el análisis de los asuntos relacionados con empleados sindicalizados;
 
-XII. Coordinar la formulación y ejercicio del programa de presupuesto anual de egresos, de los Capítulos que le apliquen, y
+XII. Coordinar la formulación y ejercicio del programa de presupuesto anual de egresos, de los Capítulos que le apliquen, y (sic)
 
-XIII. Realizar las demás funciones inherentes al cargo que le señale su superior jerárquico o sean determinadas por la normatividad aplicable.
+> <small>(REFORMADA, D.O.F. 4 DE SEPTIEMBRE DE 2012)</small>
+
+XIII. Elaborar, en el ámbito de su competencia, las políticas, normas o procedimientos a que se sujetará la atención que brinden las gerencias regionales a los derechohabientes, acreditados y ciudadanía en general;
+
+> <small>(ADICIONADA, D.O.F. 4 DE SEPTIEMBRE DE 2012)</small>
+
+XIV. Resolver, en el ámbito de su competencia, las solicitudes de los derechohabientes, acreditados y ciudadanía en general;
+
+> <small>(ADICIONADA, D.O.F. 4 DE SEPTIEMBRE DE 2012)</small>
+
+XV. Certificar los documentos y expedir las constancias que se requieran en las materias del ámbito de su competencia;
+
+> <small>(ADICIONADA, D.O.F. 4 DE SEPTIEMBRE DE 2012)</small>
+
+XVI. Rendir los informes y atender a Organos Fiscalizadores e instancias superiores, cuando así se le requiera, y
+
+> <small>(ADICIONADA, D.O.F. 4 DE SEPTIEMBRE DE 2012)</small>
+
+XVII. Las demás que sean inherentes al cargo, que le señale su superior jerárquico o que sean determinadas por la normativa aplicable.
 
 ###### Artículo 100.
 
@@ -2421,35 +2529,67 @@ XI. Elaborar en los tiempos establecidos los informes, reportes, formatos y dem�
 
 XII. Realizar las demás funciones inherentes al cargo que le señale su superior jerárquico o sean determinadas por la normatividad aplicable.
 
+> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2012)</small>
+
+Artículo 108 bis. Las Gerencias Regionales, en las áreas geográficas que les corresponda, realizarán las funciones, actividades y programas del FOVISSSTE que se les atribuyan en el Reglamento y que le asignen la Junta, la Comisión Ejecutiva y el Vocal Ejecutivo.
+
+Las Gerencias Regionales tendrán la demarcación territorial que apruebe la Comisión Ejecutiva, a propuesta del Vocal Ejecutivo, y sus recursos serán definidos y asignados conforme al presupuesto asignado por la Comisión Ejecutiva y la Junta.
+
+> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2012)</small>
+
+Artículo 108 ter. El Vocal Ejecutivo designará a los Gerentes Regionales, quienes tendrán la representación del FOVISSSTE.
+
+Los Gerentes Regionales dirigirán, coordinarán y supervisarán las funciones que el Reglamento asigna a las Gerencias Regionales, y aquellas que le asignen la Junta, la Comisión Ejecutiva y el Vocal Ejecutivo.
+
+En caso que alguna Gerencia Regional no cuente, temporalmente, con un titular, el Vocal Ejecutivo podrá nombrar un encargado de despacho, a quien se le otorgará un poder especial para la realización de los actos que se requieran, en tanto es aprobada la designación del Gerente Regional.
+
 ### CAPITULO DECIMO CUARTO. DE LAS GERENCIAS REGIONALES
+
+> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 109.
 
-Las Gerencias Regionales tendrán las siguientes funciones:
+Las Gerencias Regionales desempeñarán las funciones siguientes:
 
-I. Operar y difundir los programas de promoción de crédito y oferta de vivienda;
+I. En materia de información:
 
-II. Coordinar y vigilar que se lleven a cabo los trámites y gestiones previos a la formalización de los créditos conforme a las reglas de otorgamiento de crédito;
+a) Proporcionar a los derechohabientes la información y orientación que les permita obtener un crédito con garantía hipotecaria, para tener acceso a una vivienda digna.
 
-III. Coordinar los mecanismos de supervisión y avance de obra, en los créditos otorgados para la construcción, ampliación, reparación o mejoramiento de vivienda;
+b) Proporcionar, a los participantes de la actividad crediticia y a la ciudadanía en general, la información respecto de los programas y actividades del FOVISSSTE.
 
-IV. Integrar y custodiar el archivo de escrituras y testimonios notariales en los que consten los créditos otorgados y los expedientes de las solicitudes para su otorgamiento, y su posterior envío a la Subdirección de Crédito del FOVISSSTE para su archivo definitivo;
+II. En materia de formalización del crédito:
 
-V. Gestionar las ministraciones de recursos por concepto de créditos hipotecarios de construcción, ampliación o mejoramiento conforme a las reglas de operación de otorgamiento de crédito;
+a) Brindar la asesoría a los solicitantes de crédito para la realización de trámites y gestiones relativos a la formalización de su crédito.
 
-VI. Informar a los acreditados sobre los lineamientos para la tramitación de solicitudes de devolución de los depósitos del 5%;
+b) Orientar a los solicitantes respecto de los trámites ante autoridades, entidades de financiamiento, notarios, valuadores y en general ante cualquier otro participante en el proceso de formalización del crédito.
 
-VII. Gestionar e instrumentar las acciones necesarias para apoyar la oportuna recuperación de los créditos otorgados;
+III. En materia de atención a derechohabientes, acreditados y ciudadanía en general:
 
-VIII. Atender las solicitudes para el pago de descuentos aplicados indebidamente a los acreditados y remitir a oficinas centrales las solicitudes procedentes;
+a) Recibir las solicitudes previstas en las fracciones I y II de este artículo, las aclaraciones, modificaciones y en general cualquier promoción de los acreditados, para gestionar su atención en términos de los lineamientos y requerimientos que al efecto sean establecidos.
 
-IX. Coadyuvar con las Delegaciones Estatales y Regionales del Instituto, en las gestiones ante los gobiernos de las entidades federativas y municipales, los apoyos administrativos, subsidios, liberación de trámites y requisitos, el aminoramiento de costos para la regularización y municipalización de las viviendas financiadas con cargo a los recursos del FOVISSSTE, así como en las gestiones ante los colegios de notarios públicos locales, para disminuir los gastos relativos a la escrituración de las viviendas;
+b) Operar un sistema de atención de quejas y denuncias, de conformidad con la normativa aplicable.
 
-X. Informar sobre su operación y atender los requerimientos de la Subdirección de Atención a Acreditados y Enlace con Gerencias Regionales del FOVISSSTE;
+IV. En materia de vinculación institucional:
 
-XI. Elaborar en los tiempos establecidos los informes, reportes, formatos y demás documentación requerida por las áreas administrativas del FOVISSSTE, en el ámbito de su competencia, así como por los Organos Fiscalizadores, y
+a) Gestionar con instancias de autoridades locales los apoyos administrativos, subsidios, liberación de trámites y requisitos, así como descuentos en los costos para la regularización y municipalización de las viviendas financiadas con cargo a los recursos del FOVISSSTE.
 
-XII. Realizar las demás funciones inherentes al cargo que le señale su superior jerárquico o sean determinadas por la normatividad aplicable.
+b) Realizar gestiones ante los colegios de notarios públicos locales, para disminuir los gastos relativos a la escrituración de las viviendas, así como con prestadores de servicios que intervengan en el proceso de formalización del crédito.
+
+V. En materia de administración de cartera, recaudación y cobranza:
+
+a) Gestionar las escrituras de cancelación de hipoteca y, en su caso, de transmisión de propiedad respecto de la vivienda financiada.
+
+b) Integrar expedientes de crédito cuando así se les instruya y remitirlos al archivo central del FOVISSSTE para su custodia en los términos que al efecto señale la Vocalía Ejecutiva.
+
+c) Realizar las actividades que le sean encomendadas por las subdirecciones del FOVISSSTE en materia de recaudación de aportaciones, cobranza, recuperación de los préstamos hipotecarios, devolución de aportaciones, validación de pagos y emisión de constancias relacionadas con créditos, de conformidad con las políticas y procedimientos que al efecto se establezcan.
+
+VI. En materia de enlace con las subdirecciones del FOVISSSTE:
+
+a) Rendir cuentas sobre su operación con base en los lineamientos que les sean notificados por la Subdirección de Atención a Acreditados y Enlace con Gerencias Regionales, así como brindar las facilidades que en sus respectivas materias resulten necesarias a las subdirecciones del FOVISSSTE para supervisar.
+
+b) Elaborar en los tiempos que se determinen los informes regulares o especiales y obtener y presentar la documentación que les sea requerida por las subdirecciones del FOVISSSTE y por los Organos Fiscalizadores, en el ámbito de sus competencias.
+
+VII. Realizar las demás funciones inherentes al cargo que les señale el Vocal Ejecutivo o sean determinadas por la normativa aplicable.
 
 ### CAPITULO DECIMO QUINTO. DE LOS ORGANOS COLEGIADOS Y DEL GRUPO DE TRABAJO DE ATENCION A ACREDITADOS
 
@@ -2508,3 +2648,11 @@ Lo que me permito hacer de su conocimiento para los efectos legales procedentes.
 Atentamente
 
 México, D.F., a 14 de abril de 2011.- El Secretario General y Secretario de la Junta Directiva, Luis Felipe Castro Sánchez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 4 DE SEPTIEMBRE DE 2012.
+
+PRIMERO. Las presentes modificaciones al Reglamento entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Las funciones y atribuciones de las Gerencias Regionales, previstas en el Capítulo Décimo Cuarto del presente Reglamento, serán desempeñadas por los Departamentos de Vivienda de las Delegaciones Estatales y Regionales del Instituto, sin menoscabo de las funciones que se establecen en el Reglamento Orgánico de las Delegaciones Estatales y Regionales del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, hasta en tanto le sea aprobada al FOVISSSTE la estructura orgánica y presupuestal de sus gerencias regionales por parte de las Secretarías de Hacienda y Crédito Público y de la Función Pública.
