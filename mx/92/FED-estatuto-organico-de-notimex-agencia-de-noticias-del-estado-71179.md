@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-notimex-agencia-de-noticias-del-estado-711
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-12-21"
-last_updated: "2011-07-29"
+last_updated: "2012-09-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71179&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2009-12-03"
 ---
 # ESTATUTO ORGANICO DE NOTIMEX, AGENCIA DE NOTICIAS DEL ESTADO MEXICANO
 
-ESTATUTO ORGANICO DE NOTIMEX, AGENCIA DE NOTICIAS DEL ESTADO MEXICANO
+ESTATUTO ORGÁNICO DE NOTIMEX, AGENCIA DE NOTICIAS DEL ESTADO MEXICANO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE SEPTIEMBRE DE 2012.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 21 de diciembre de 2009.
 
@@ -115,7 +115,7 @@ c) De Producción
 
 d) De Comercialización
 
-e) De Tecnologías de la Información
+e) (DEROGADO, D.O.F. 4 DE SEPTIEMBRE DE 2012)
 
 f) De Administración y Finanzas
 
@@ -137,11 +137,11 @@ b) Otros Comités:
 
 - De Cobranza
 
-- De Informática
+- (DEROGADO, D.O.F. 4 DE SEPTIEMBRE DE 2012)
 
 - De Información
 
-- De Control y Auditoría
+- (DEROGADO, D.O.F. 4 DE SEPTIEMBRE DE 2012)
 
 V.- ORGANO INTERNO DE CONTROL
 
@@ -511,19 +511,27 @@ Para el cumplimiento de su objeto y desempeño de las atribuciones que le compet
 
 ### CAPITULO III. DE LA DIRECCION DE PRODUCCION
 
+> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTICULO 33.
 
-La Dirección de Producción tiene como propósito consolidar y ampliar la oferta informativa de la Agencia, mediante la generación, producción y transmisión de productos y servicios en las diferentes plataformas tecnológicas.
+La Dirección de Producción tiene como propósito consolidar y ampliar la oferta informativa de la Agencia, mediante la generación, producción y transmisión de productos y servicios en materia de noticias en las diferentes plataformas tecnológicas con que cuente la Agencia.
 
 ###### ARTICULO 34.
 
 Son atribuciones y obligaciones de la Dirección de Producción, además de las señaladas en el artículo 25 de este ordenamiento, las siguientes:
 
-I. Proponer a la Dirección General los criterios y lineamientos para la asignación de prioridades, en lo referente a la realización de productos y servicios audiovisuales y alternativos;
+> <small>(REFORMADA, D.O.F. 4 DE SEPTIEMBRE DE 2012)</small>
 
-II. Determinar y supervisar la aplicación de los criterios de estándares de calidad técnica y creativa visual, gráfica y sonora que permitan la realización de los diferentes productos y servicios audiovisuales y alternativos, atendiendo a las políticas editoriales de la Agencia;
+I. Proponer a la Dirección General los criterios y lineamientos para la asignación de prioridades, en lo referente a la realización de productos y servicios audiovisuales y alternativos en materia de noticias;
 
-III. Diseñar y coordinar los procesos de producción audiovisual y alternativos para la realización de los productos que genere la Agencia;
+> <small>(REFORMADA, D.O.F. 4 DE SEPTIEMBRE DE 2012)</small>
+
+II. Determinar y supervisar la aplicación de los criterios de estándares de calidad técnica y creativa visual, gráfica y sonora que permitan la realización de los diferentes productos y servicios audiovisuales y alternativos en materia de noticias, atendiendo a las políticas editoriales de la Agencia;
+
+> <small>(REFORMADA, D.O.F. 4 DE SEPTIEMBRE DE 2012)</small>
+
+III. Diseñar y coordinar los procesos de producción audiovisual y alternativos para la realización de los productos que genere la Agencia en materia de noticias;
 
 IV. Supervisar que el diseño editorial, multimedia, elaboración de infografías y el relativo a la página de Internet de la Agencia, se adecue a los lineamientos gráficos y editoriales establecidos por las instancias correspondientes;
 
@@ -571,37 +579,29 @@ VII. Las que le sean encomendadas por la Ley, la Dirección General, éste u otr
 
 Para el cumplimiento de su objeto y desempeño de las atribuciones que le competen, la Dirección de Comercialización estará integrada por las Subdirecciones de Area: de Ventas, y de Mercadotecnia y Desarrollo de Nuevos Negocios.
 
-### CAPITULO V. DE LA DIRECCION DE TECNOLOGIAS DE LA INFORMACION
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 4 DE SEPTIEMBRE DE 2012)</small>
+
+### CAPITULO V
 
 ###### ARTICULO 39.
 
-La Dirección de Tecnologías de la Información tiene como propósito proporcionar los servicios y sistemas informáticos y de telecomunicaciones necesarios para la Agencia en materia de operación, administración, distribución y venta de los productos y servicios.
+(DEROGADO, D.O.F. 4 DE SEPTIEMBRE DE 2012)
 
 ###### ARTICULO 40.
 
-Son atribuciones y obligaciones de la Dirección de Tecnologías de la Información, además de las señaladas en el artículo 25 de este ordenamiento, las siguientes:
-
-I. Planear, diseñar, proponer y, en su caso, instrumentar las políticas de instalación, uso y mantenimiento de servicios y sistemas tecnológicos en materia de informática y telecomunicaciones acordes a los objetivos institucionales;
-
-II. Analizar la eficacia y vigencia de las acciones a que se refiere la fracción anterior;
-
-III. Desarrollar estudios técnicos de viabilidad y emitir, en su caso, dictámenes para la adquisición de recursos informáticos y de telecomunicaciones;
-
-IV. Vigilar tanto el cumplimiento de las garantías otorgadas por los proveedores de bienes informáticos, así como el uso lícito de las licencias de los sistemas y programas propiedad de la Agencia;
-
-V. Mantener la operación tecnológica dentro de los márgenes de seguridad pertinentes, acorde a los estándares de las Tecnologías de la Información y a la inversión ejercida, y
-
-VI. Las que le sean encomendadas por la Ley, la Dirección General, éste u otros ordenamientos legales y administrativos.
+(DEROGADO, D.O.F. 4 DE SEPTIEMBRE DE 2012)
 
 ###### ARTICULO 41.
 
-Para el cumplimiento de su objeto y desempeño de las atribuciones que le competen, la Dirección de Tecnologías de la Información estará integrada por las Subdirecciones de Area: de Soporte Técnico y de Tecnología.
+(DEROGADO, D.O.F. 4 DE SEPTIEMBRE DE 2012)
 
 ### CAPITULO VI. DE LA DIRECCION DE ADMINISTRACION Y FINANZAS
 
+> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTICULO 42.
 
-La Dirección de Administración y Finanzas tiene como propósito administrar oportuna y efectivamente los recursos humanos, materiales y financieros de la Agencia para el cabal cumplimiento de los objetivos y metas institucionales.
+La Dirección de Administración y Finanzas tiene como propósito administrar oportuna y efectivamente los recursos humanos, materiales y financieros y de tecnologías de la información y comunicaciones de la Agencia para el cabal cumplimiento de los objetivos y metas institucionales.
 
 ###### ARTICULO 43.
 
@@ -649,13 +649,37 @@ XX. Establecer las directrices metodológicas y de contenido para la elaboració
 
 XXI. Supervisar las acciones de transparencia y rendición de cuentas implementadas por las instancias globalizadoras, para dar cumplimiento a los planes y programas señalados en el Plan Nacional de Desarrollo;
 
-XXII. Conducir, con el apoyo de la Dirección de Asuntos Jurídicos, las relaciones laborales de la Agencia, conforme a los procedimientos que al efecto se establezcan, y
+XXII. Conducir, con el apoyo de la Dirección de Asuntos Jurídicos, las relaciones laborales de la Agencia, conforme a los procedimientos que al efecto se establezcan, y (sic)
 
-XXIII. Las que le sean encomendadas por la Ley, la Dirección General, éste u otros ordenamientos legales y administrativos.
+> <small>(REFORMADA, D.O.F. 4 DE SEPTIEMBRE DE 2012)</small>
+
+XXIII. Planear, diseñar, proponer y, en su caso, instrumentar las políticas de instalación, uso y mantenimiento de servicios y sistemas tecnológicos en materia de informática y telecomunicaciones acordes a los objetivos institucionales;
+
+> <small>(ADICIONADA, D.O.F. 4 DE SEPTIEMBRE DE 2012)</small>
+
+XXIV. Analizar la eficacia y vigencia de las acciones a que se refiere la fracción anterior;
+
+> <small>(ADICIONADA, D.O.F. 4 DE SEPTIEMBRE DE 2012)</small>
+
+XXV. Desarrollar estudios técnicos de viabilidad y emitir, en su caso, dictámenes para la adquisición de recursos informáticos y de telecomunicaciones;
+
+> <small>(ADICIONADA, D.O.F. 4 DE SEPTIEMBRE DE 2012)</small>
+
+XXVI. Vigilar tanto el cumplimiento de las garantías otorgadas por los proveedores de bienes informáticos, así como el uso lícito de las licencias de los sistemas y programas propiedad de la Agencia;
+
+> <small>(ADICIONADA, D.O.F. 4 DE SEPTIEMBRE DE 2012)</small>
+
+XXVII. Mantener la operación tecnológica dentro de los márgenes de seguridad pertinentes, acorde a los estándares de las Tecnologías de la Información y a la inversión ejercida, y
+
+> <small>(ADICIONADA, D.O.F. 4 DE SEPTIEMBRE DE 2012)</small>
+
+XXVIII. Las que le sean encomendadas por la Ley, la Dirección General, éste u otros ordenamientos legales y administrativos.
+
+> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTICULO 44.
 
-Para el cumplimiento de su objeto y desempeño de las atribuciones que le competen, la Dirección de Administración y Finanzas estará integrada por las Subdirecciones de Area: de Recursos Materiales y Servicios Generales, de Recursos Financieros, de Recursos Humanos y de Organización y Evaluación.
+Para el cumplimiento de su objeto y desempeño de las atribuciones que le competen, la Dirección de Administración y Finanzas estará integrada por las Subdirecciones de Area: de Recursos Financieros, de Administración, de Organización y Evaluación, de Soporte Técnico y de Tecnología.
 
 ### CAPITULO VII. DE LA DIRECCION DE ASUNTOS JURIDICOS
 
@@ -719,9 +743,11 @@ Los Comités Técnicos informarán mensualmente al Director General acerca de la
 
 ### CAPITULO II. DE OTROS COMITES
 
+> <small>(ADICIONADO, D.O.F. 4 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTICULO 49.
 
-La Agencia contará con los Comités a que está obligado por disposición de otros ordenamientos jurídicos, entre los que se encuentran los de Adquisiciones, Arrendamientos y Servicios, de Obras Públicas, de Información, de Bienes Muebles, de Informática y de Control y Auditoría, los cuales se regularán por la legislación de la materia aplicable; estando obligados a informar, de manera permanente al Director General de todas y cada una de sus actividades, recomendaciones y acuerdos.
+La Agencia contará con los Comités a que está obligado por disposición de otros ordenamientos jurídicos, entre los que se encuentran los de Adquisiciones, Arrendamientos y Servicios, de Obras Públicas, de Información, de Bienes Muebles, los cuales se regularán por la legislación de la materia aplicable; estando obligados a informar, de manera permanente al Director General de todas y cada una de sus actividades, recomendaciones y acuerdos.
 
 ## TITULO SEXTO. DE LOS ORGANOS DE VIGILANCIA Y CONTROL
 
@@ -737,9 +763,9 @@ Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de
 
 Las ausencias del Titular del Organo Interno de Control, así como de los titulares de las áreas de auditoría, quejas y responsabilidades serán suplidas de conformidad con lo previsto en el artículo 88, del Reglamento Interior de la Secretaría de la Función Pública.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 29 DE JULIO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 4 DE SEPTIEMBRE DE 2012)</small>
 
-## TITULO SEPTIMO. DE LA SUPLENCIA, NOMBRAMIENTO Y REMOCION DE LOS SERVIDORES PUBLICOS
+## TITULO SEPTIMO. DE LA SUPLENCIA DE LOS SERVIDORES PUBLICOS
 
 ###### ARTICULO 52.
 
@@ -1023,7 +1049,7 @@ Artículo Sexto.- La interpretación para efectos administrativos, del presente 
 
 Artículo Séptimo.- Las disposiciones contenidas en el presente Mecanismo de Nombramiento deberán revisarse, cuando menos una vez al año, por la Dirección de Asuntos Jurídicos, que en caso de que lo considere necesario a través de la Dirección General propondrá su actualización a la Junta de Gobierno.
 
-> <small>N. DE E. VEASE ANEXOS EN LA PRIMERA SECCION DEL D.O.F. DE 29 DE JULIO DE 2011, PAGINAS DE LA 102 A LA 103.</small>
+> <small>N. DE E. VÉASE ANEXOS EN LA PRIMERA SECCIÓN DEL D.O.F. DE 29 DE JULIO DE 2011, PÁGINAS DE LA 102 A LA 103.</small>
 
 > <small>(ADICIONADO, D.O.F. 29 DE JULIO DE 2011)</small>
 
@@ -1287,12 +1313,16 @@ Artículo Tercero.- La interpretación para efectos administrativos, del present
 
 Artículo Cuarto.- Las disposiciones contenidas en el presente Mecanismo de Remoción deberán revisarse, cuando menos una vez al año, por la Dirección de Asuntos Jurídicos, que en caso de que lo considere necesario, a través de la Dirección General propondrá su actualización a la Junta de Gobierno.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
 
 D.O.F. 9 DE ABRIL DE 2010.
 
-EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL FEDERAL VIGENTE.
+EL ACUERDO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL FEDERAL VIGENTE.
 
 D.O.F. 29 DE JULIO DE 2011.
 
 UNICO.- Las presentes modificaciones y adiciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 4 DE SEPTIEMBRE DE 2012.
+
+Transitorio único del Decreto de Reforma.- Las modificaciones y adiciones realizadas en el presente Estatuto entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
