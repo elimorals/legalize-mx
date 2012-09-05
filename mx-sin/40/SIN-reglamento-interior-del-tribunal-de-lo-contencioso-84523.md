@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-del-tribunal-de-lo-contencioso-84523"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-12-21"
-last_updated: "2012-02-24"
+last_updated: "2012-09-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE SINALOA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE SINALOA, PUBLICADO EN EL P.O. DE 27 DE SEPTIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el miércoles 21 de diciembre de 2011.
 
@@ -135,9 +137,15 @@ Secretario de Presidencia
 
 Secretaría Técnica de Justicia en Línea y Mejora Jurisdiccional.
 
-IV. UNIDADES DE APOYO ADMINISTRATIVO
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2012)</small>
+
+IV. UNIDADES DE APOYO ADMINISTRATIVO Y CONTRALORIA INTERNA
 
 Jefe de la Unidad de Apoyo Administrativo
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2012)</small>
+
+Jefe de la Contraloría Interna
 
 Auxiliares Administrativos
 
@@ -431,7 +439,9 @@ IV. Engrosar los expedientes con las copias o minutas selladas y autorizadas de 
 
 V. Las demás que le sean encomendadas por el Magistrado de su adscripción, el Secretario de Acuerdos, así como las que confiera La Ley.
 
-### CAPITULO X. DE LA UNIDAD DE APOYO ADMINISTRATIVO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE SEPTIEMBRE DE 2012)</small>
+
+### CAPITULO X. DE LA UNIDAD DE APOYO ADMINISTRATIVO Y DE LA CONTRALORÍA INTERNA
 
 ###### ARTICULO 36.
 
@@ -456,6 +466,56 @@ VIII. Controlar los bienes del Tribunal, mantener actualizado su inventario y vi
 IX. Coordinar la prestación de los demás servicios administrativos necesarios para el buen funcionamiento del Tribunal; y,
 
 X. Las demás que acuerde la Sala Superior, las que encomiende la presidencia del Tribunal, La Ley y el presente Reglamento.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2012)</small>
+
+###### ARTICULO 36 Bis.
+
+La Contraloría Interna, tendrá las siguientes funciones:
+
+I. Conocer de las quejas y denuncias que sean formuladas por la presunta actuación indebida en el ejercicio de funciones de los servidores públicos del Tribunal de lo Contencioso Administrativo, así como por las irregularidades detectadas en las visitas a salas regionales por supuesta violación a lo dispuesto en la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Sinaloa y demás ordenamientos legales.
+
+II. Llevar el registro, control y seguimiento de los servidores públicos del Tribunal de lo Contencioso Administrativo sancionados e inhabilitados en materia de responsabilidad administrativa.
+
+III. Formular las contestaciones a las demandas derivadas de los procedimientos sustanciados y resueltos por sala superior.
+
+IV. Remitir a la autoridad competente, las quejas y/o denuncias y demás constancias que recibiere, cuando su conocimiento no corresponda a la unidad en los términos de la ley y demás disposiciones jurídicas aplicables.
+
+V. Determinar, de acuerdo a la ley de la materia, las líneas de acción para las investigaciones relativas a la situación patrimonial de los servidores públicos del tribunal.
+
+VI. Iniciar, tramitar y resolver el procedimiento administrativo de responsabilidades en contra de los servidores públicos remitiéndolo al Presidente del tribunal para su presentación y calificación en sala superior, quien impondrá las sanciones administrativas y medidas de apremio previstas por la ley cuando corresponda.
+
+VII. Establecer acciones preventivas en materia de responsabilidades de los servidores públicos del tribunal.
+
+VIII. Intervenir en la entrega recepción que lleve a cabo cualquier servidor público obligado por la ley de la materia.
+
+IX. Realizar las investigaciones que correspondan sobre el incumplimiento por parte de los servidores públicos de las prevenciones a que se refiere la ley, para lo cual podrá determinar y solicitar la práctica de visitas de inspección y auditoria en los términos de la misma.
+
+X. Recepcionar las declaraciones de situación patrimonial presentadas por los servidores públicos del tribunal de conformidad con la ley.
+
+XI. Llevar el control, registro y seguimiento de las altas, bajas y cambio de adscripción de aquellos servidores públicos con obligación a presentar declaración de situación patrimonial en términos de la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Sinaloa.
+
+XII. Están obligados a presentar la declaración de la situación patrimonial en tiempo y forma de acuerdo a los lineamientos establecidos por la ley, los Magistrados, Secretario General de Acuerdos, Secretarios de Acuerdos, Actuarios y Jefes de Unidad.
+
+XIII. Enterar a la Presidencia de sala superior de las conductas que pudieren constituir un delito independientemente de la sanción administrativa que corresponda.
+
+XIV. Coadyuvar con las autoridades correspondientes en las investigaciones complementarias que se inicien en los procedimientos penales respectivos.
+
+XV. Expedir constancia de no inhabilitación al servidor púbico que lo solicite, siempre y cuando no se hubiese hecho acreedor a algún tipo de sanción prevista en la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Sinaloa.
+
+XVI. Designar a los servidores públicos que fungirán como delegados jurídicos en los procedimientos que se ventilen ante las autoridades administrativas, judiciales o del trabajo, de los cuales corresponde conocer.
+
+XVII. Realizar todo tipo de diligencias y actuaciones necesarias para la preparación de los expedientes de las investigaciones administrativas, así como para el inicio, instrucción y resoluciones de los procedimientos administrativos de responsabilidades que resulten procedentes con apego a las leyes y reglamentos aplicables.
+
+XVIII. Requerir en los términos que establece la ley, al servidor público que no presente la declaración de situación patrimonial en los plazos establecidos por la misma.
+
+XIX. Requerir los expedientes, informes, datos, documentos y, en general, la información que resulte necesaria o que le sea solicitada por las autoridades competentes, a efecto de instaurar procedimientos administrativos o averiguaciones previas en contra de servidores públicos que sean presuntos responsables; y,
+
+XX. Expedir las copias certificadas que se requieran de la documentación a la que tenga acceso con motivo de los procedimientos administrativos radicados en la contraloría interna.
+
+XXI. Llevar un registro de los expedientes que se integren con motivo de los procedimientos administrativos que surjan en el tribunal.
+
+XXII. Las demás que le confieran las leyes, decretos, reglamentos, circulares y acuerdos de sala superior.
 
 ### CAPITULO XI. DE LA SECRETARÍA DE CAPACITACIÓN JURÍDICA, NORMATIVIDAD Y ESTADÍSTICA
 
@@ -617,19 +677,21 @@ El Tribunal de lo Contencioso Administrativo tendrá cada año, dos períodos de
 
 Se suspenderán las labores del Tribunal, los días que señale el calendario oficial para los trabajadores al servicio del estado, o cuando lo acuerde la Sala Superior.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE SEPTIEMBRE DE 2012)</small>
+
 ### CAPITULO III. DE LAS RESPONSABILIDADES DEL PERSONAL
 
 ###### ARTICULO 49.
 
-Por el incumplimiento de la Ley de Justicia Administrativa para el Estado y del presente Reglamento, los servidores públicos del Tribunal incurrirán en responsabilidad, en los términos de la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Sinaloa y demás ordenamientos legales aplicables.
+(DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2012)
 
 ###### ARTICULO 50.
 
-El Presidente del Tribunal tramitará el procedimiento para investigar la responsabilidad administrativa del Servidor Público de la Institución, con motivo de las denuncias o quejas que presenten los particulares o servidores públicos, o de la revisión de documentos o instrumentos relacionados con los asuntos de su competencia, conforme a los preceptos de las leyes correspondientes, independientemente de la denuncia correspondiente si existiere responsabilidad penal.
+(DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2012)
 
 ###### ARTICULO 51.
 
-Concluido el procedimiento, el Presidente del Tribunal dará vista a la Sala Superior, para que aplique en su caso, las sanciones correspondientes a los Servidores Públicos del propio Órgano Jurisdiccional, que incurran en Responsabilidad Administrativa, en términos de la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado y demás ordenamientos legales.
+(DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2012)
 
 ### CAPITULO IV
 
@@ -694,3 +756,9 @@ P.O. 24 DE FEBRERO DE 2012.
 ###### ARTICULO UNICO.
 
 La presente adición al Reglamento entrará en vigor el día siguiente de su publicación, en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 5 DE SEPTIEMBRE DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+La presente adición y derogación al Reglamento entrará en vigor al día siguiente de su publicación, en el Periódico Oficial "El Estado de Sinaloa".
