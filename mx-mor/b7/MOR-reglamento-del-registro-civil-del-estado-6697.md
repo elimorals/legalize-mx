@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-del-registro-civil-del-estado-6697"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-04-13"
-last_updated: "1994-04-13"
+last_updated: "2012-09-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6697&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO DEL REGISTRO CIVIL DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DEL REGISTRO CIVIL DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 5 DE SEPTIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 13 de abril de 1994.
 
@@ -268,3 +270,11 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. ALFREDO DE LA TORRE Y MARTINEZ
 
 R ú b r i c a s
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE SEPTIEMBRE DE 2012.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga el Reglamento del Registro Civil del Estado publicado en el Periódico Oficial "Tierra y Libertad" número 3687, de fecha 13 de abril de 1994, así como se derogan todas las disposiciones administrativas que se opongan al presente ordenamiento.
