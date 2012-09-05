@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-educacion-del-estado-de-morelos-14617"
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-26"
-last_updated: "2012-08-22"
+last_updated: "2012-09-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el día 26 de agosto de 1996.
 
@@ -721,7 +721,47 @@ Se concertarán acciones y programas de educación para adultos que promueva la 
 
 Las escuelas que se establezcan en cumplimiento de la obligación prevista en la fracción XII del apartado "A" del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, quedarán bajo la dirección administrativa de la autoridad educativa estatal correspondiente y contarán con edificio propio, instalaciones y demás elementos necesarios para realizar su función, de conformidad con lo que señalen las disposiciones aplicables; el sostenimiento de estas instituciones educativas, comprende la obligación patronal de proporcionar los recursos económicos para la remuneración del personal y las prestaciones que dispongan las leyes y reglamentos, que no serán inferiores a las que otorguen las Autoridades Educativas Estatales en igualdad de circunstancias.
 
-### CAPITULO IV. DE LOS CONSEJOS DE PARTICIPACION SOCIAL
+### CAPITULO II (SIC) BIS. DE LA ASOCIACION ESTATAL DE PADRES DE FAMILIA
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2012)</small>
+
+ARTICULO 93 BIS.- En el estado habrá al menos una Asociación Estatal de Padres de Familia.
+
+I.- Los padres de familia o quienes ejerzan la patria potestad o tutela, tendrán derecho a votar y ser votados para formar parte de la Asociación Estatal de Padres de Familia.
+
+II.- La Asociación Estatal:
+
+a).- Representará a las Asociaciones de padres de familia, de las escuelas del Estado de Morelos.
+
+b).- Desarrollará su programa de trabajo, estatutos y tratará los asuntos de las Asociaciones de Padres de Familia de las escuelas del Estado de Morelos, y los propios, con las autoridades educativas del Estado.
+
+En el Estado se integrará un Consejo de 33 miembros propietarios y 33 suplentes, elegidos de entre los presidentes de la Asociación de Padres de Familia de las escuelas del Estado de Morelos, uno por cada municipio que integra el Estado, durando en su encargo dos años.
+
+III.- La Mesa Directiva de la Asociación Estatal de Padres de Familia estará conformada por un Presidente, un Vicepresidente, un Secretario General, un Tesorero y 10 Vocales, dos por la educación preescolar, dos por la educación primaria, dos por la educación secundaria, dos por el bachillerato o equivalente y dos por la educación superior y los representantes de los Consejos de Participación Social.
+
+IV.- La Mesa Directiva de la Asociación Estatal de Padres de Familia se elegirá cada dos años por el Consejo a que se refiere el inciso b) de la fracción II del presente artículo.
+
+El Consejo que para la elección de la Mesa Directiva de la Asociación Estatal de Padres de Familia se integre, estará conformado por los 33 miembros propietarios y suplentes a que se refiere el inciso b) de la fracción II de este artículo y se conformará sólo para la elección de la Mesa Directiva de la Asociación Estatal de Padres de Familia.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2012)</small>
+
+ARTICULO 93 TER.- Son derechos de los miembros de la Asociación Estatal de Padres de Familia:
+
+I.- Tratar ante las autoridades educativas los intereses que en materia educativa sean comunes a los asociados;
+
+II.- Colaborar con las Asociaciones de Padres de Familia de las escuelas del Estado, para una mejor integración de la comunidad escolar y el mejoramiento de los planteles educativos;
+
+III.- Proponer las medidas que estimen pertinentes para alcanzar los objetivos señalados en las fracciones anteriores; (sic)
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2012)</small>
+
+ARTICULO 93 QUATER.- Son obligaciones de los miembros de la Asociación Estatal de Padres de Familia:
+
+I.- Informar a las autoridades educativas y escolares sobre cualquier irregularidad de que sean objeto las Asociaciones de Padres de Familia de las Escuelas del Estado.
+
+II.- Elaborar los estatutos internos que regirán la vida de la Asociación Estatal de Padres de Familia.
+
+La Asociación Estatal de Padres de Familia se abstendrá de intervenir en los aspectos administrativos, técnico-pedagógicos y laborales de los establecimientos educativos.
 
 ###### ARTICULO 74.
 
@@ -765,7 +805,7 @@ Para elevar el nivel social, cultural y educativo de la comunidad e impulsar la 
 
 ## TITULO TERCERO. DE LA PLANEACION Y EVALUACION EDUCATIVA PARA EL DESARROLLO DEL ESTADO
 
-### CAPITULO V. DE LA EDUCACION QUE IMPARTAN LOS PARTICULARES
+### CAPITULO IV. DE LOS CONSEJOS DE PARTICIPACION SOCIAL
 
 ###### ARTICULO 80.
 
@@ -803,7 +843,7 @@ El Proyecto Educativo del Estado, estará encaminado a elevar la calidad de la e
 
 La Autoridad Educativa en el Estado dará a conocer a los trabajadores de la educación, sus organismos sindicales, alumnos, padres de familia y a la sociedad en general, los resultados y alcances del Proyecto Educativo.
 
-### CAPITULO UNICO. DE LA VALIDEZ OFICIAL DE ESTUDIOS Y DE LA CERTIFICACION DE CONOCIMIENTOS
+### CAPITULO V. DE LA EDUCACION QUE IMPARTAN LOS PARTICULARES
 
 ###### ARTICULO 85.
 
@@ -831,7 +871,7 @@ El Titular del Poder Ejecutivo promoverá con las autoridades encargadas de los 
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADA], P.O. 22 DE AGOSTO DE 2012)</small>
 
-### CAPITULO I. DE LAS INFRACCIONES
+### CAPITULO UNICO. DE LA VALIDEZ OFICIAL DE ESTUDIOS Y DE LA CERTIFICACION DE CONOCIMIENTOS
 
 ###### ARTICULO 88.
 
@@ -843,7 +883,9 @@ II.- Obtener la inscripción en escuelas públicas o particulares para que sus h
 
 III.- Participar a las autoridades de la escuela en la que estén inscritos sus hijos o pupilos, cualquier problema relacionado con la educación de éstos, a fin de que aquéllas se aboquen a su solución;
 
-IV.- Formar parte de las asociaciones de padres de familia y de los consejos de participación social;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2012)</small>
+
+IV.- Votar y ser votado para formar parte de la Asociación de Padres de Familia de los establecimientos educativos en los que se encuentren inscritos sus hijos, o aquellos sobre quienes ejerzan la patria potestad o tutela, de la Asociación Estatal de Padres de Familia y Consejos de Participación Social.
 
 V.- Colaborar con las autoridades escolares para la superación de los educandos, así como coadyuvar en el mejoramiento de los planteles escolares;
 
@@ -875,11 +917,9 @@ V.- Acudir al menos al 70 por ciento de las sesiones del Programa Escuela de pad
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE AGOSTO DE 2012)</small>
 
+### CAPITULO I. DE LAS INFRACCIONES
+
 ### CAPITULO II. DE LAS SANCIONES
-
-### CAPITULO III. DEL RECURSO ADMINISTRATIVO
-
-> <small>(REFORMADO, 23 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 90.
 
@@ -922,6 +962,12 @@ V.- Informar por escrito a las autoridades educativas y escolares sobre cualquie
 ###### ARTICULO 93.
 
 Las asociaciones de Padres de Familia se abstendrán de intervenir en los aspectos administrativos, técnico-pedagógicos y laborales de los establecimientos educativos.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE SEPTIEMBRE DE 2012)</small>
+
+### CAPITULO III. DEL RECURSO ADMINISTRATIVO
+
+> <small>(REFORMADO, 23 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 94.
 
@@ -1312,3 +1358,11 @@ SEGUNDO.- El presente Decreto, entrará en vigor al día siguiente de su publica
 TERCERO.- El Reglamento a que se refiere la fracción IV del artículo 89 Bis de la presente Ley, deberá ser expedido por el Titular del Ejecutivo del Estado en un término no mayor a 90 días a partir de la publicación del presente Decreto en el Periódico Oficial Tierra y Libertad.
 
 CUARTO.- Para los efectos del presente Decreto, las modificaciones propuestas, serán aplicables a partir del ciclo escolar 2012-2013.
+
+P.O. 5 DE SEPTIEMBRE DE 2012.
+
+PRIMERO.- Aprobado que sea el presente decreto en términos del artículo 147 de la Constitución Política del Estado Libre y Soberano del Estado de Morelos, remítase al Poder Ejecutivo del Estado para su promulgación y publicación en el Periódico Oficial Tierra y Libertad.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de Difusión del Gobierno del Estado de Morelos.
+
+TERCERO.- La autoridad educativa vigilará lo dispuesto en la fracción IV del artículo 93 bis a efecto de que se efectúe el cambio de la Mesa Directiva de la Asociación Estatal de Padres de Familia y la creación del Consejo a que se refiere el segundo párrafo inciso b) de la fracción II del mismo artículo 93 bis, en un término no mayor a 60 días naturales.
