@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-del-instituto-de-la-consejeria-juridica-699
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-02-25"
-last_updated: "2009-02-25"
+last_updated: "2012-09-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE LA CONSEJERÍA JURÍDICA Y DE ASISTENCIA LEGAL DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE LA CONSEJERÍA JURÍDICA Y DE ASISTENCIA LEGAL, PUBLICADO EN EL P.O. DE 5 DE SEPTIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 25 de febrero de 2009.
 
@@ -812,3 +814,23 @@ Artículo Sexto.- En cumplimiento a lo dispuesto por el artículo 8°, de la Ley
 Dado en el Palacio de Gobierno, Residencia Oficial del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los veinticinco días del mes de febrero del año dos mil nueve.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Carlos Octavio Castellanos Mijares, Consejero Jurídico del Gobernador.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE SEPTIEMBRE DE 2012.
+
+Artículo Primero.- El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se abroga el Reglamento Interior del Instituto de la Consejería Jurídica y de Asistencia legal, publicado en el Periódico Oficial, No. 147, Segunda Sección, Tomo III, de fecha veinticinco de febrero del año dos mil nueve, así como la normatividad que de el emane, y se derogan las disposiciones que se opongan al contenido del presente ordenamiento jurídico.
+
+Artículo Tercero.- En los casos no previstos en el presente Reglamento Interior, y en los que se presente controversia en cuanto a su interpretación, aplicación y observancia, el Consejero Jurídico resolverá lo conducente.
+
+Artículo Cuarto.- Para las cuestiones no previstas en este Reglamento Interior, respecto de las funciones de los diversos Órganos Administrativos y demás actividades del personal se estará a lo dispuesto por los Manuales de Organización y Procedimientos de este Instituto.
+
+Artículo Quinto.- El Manual de Organización del Instituto, deberá expedirse en un plazo no mayor a noventa días hábiles, después de la publicación del presente Reglamento Interior.
+
+Artículo Sexto.- En tanto se expide el Manual respectivo, el Consejero Jurídico resolverá las incidencias de procedimiento y operación, que se originen por la aplicación de este ordenamiento legal.
+
+Artículo Séptimo.- El Instituto deberá establecer, controlar y evaluar el Programa Interno de Protección Civil para el personal, instalaciones, bienes e información, observando las normas necesarias para la operación, desarrollo y vigilancia del Programa que establezca la Unidad Estatal de Protección Civil.
+
+Artículo Octavo.- En cumplimiento a lo dispuesto por el artículo 8°, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Reglamento Interior en el Periódico Oficial.
