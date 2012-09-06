@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-seguridad-publica-del-estado-de-san-luis-875
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-28"
-last_updated: "2012-03-28"
+last_updated: "2012-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el miércoles 28 de marzo de 2012.
 
@@ -177,17 +177,23 @@ VIII. Las demás que le confieren esta Ley y los ordenamientos legales aplicable
 
 El Secretario de Seguridad Pública será designado por el Gobernador del Estado; y debe cumplir los siguientes requisitos:
 
-I. Ser mexicano por nacimiento y ciudadano potosino en pleno ejercicio de sus derechos políticos y civiles;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
+
+I. Ser mexicano por nacimiento en pleno ejercicio de sus derechos políticos y civiles;
 
 II. Tener cuando menos treinta y cinco años de edad al día de su nombramiento;
 
 III. Contar con título profesional de nivel licenciatura debidamente registrado, o formación equivalente acorde a la función;
 
-IV. Acreditar especialmente capacidad, probidad, y experiencia en las áreas afines a su función;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
 
-V. Gozar de buena reputación y no haber sido condenado por delito alguno, y
+IV. Acreditar especialmente, capacidad, probidad, y experiencia en las áreas afines a su función, y
 
-VI. Con residencia efectiva dentro del territorio del Estado, que no sea menor de seis años inmediatamente anteriores al día de su designación.
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
+
+V. Gozar de buena reputación, y no haber sido condenado por delito alguno.
+
+VI. (DEROGADA, P.O. 6 DE SEPTIEMBRE DE 2012)
 
 ###### ARTICULO 14.
 
@@ -1828,3 +1834,11 @@ El Secretario General de Gobierno
 Lic. Cándido Ochoa Rojas
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 6 DE SEPTIEMBRE DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
