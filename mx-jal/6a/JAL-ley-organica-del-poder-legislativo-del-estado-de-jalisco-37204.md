@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-37204"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-02-07"
-last_updated: "2012-08-23"
+last_updated: "2012-09-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 2004.
 
@@ -3199,27 +3199,33 @@ II. La Asamblea, la Mesa Directiva y la comisión o comisiones responsables est�
 
 1. Cuando el Congreso del Estado reciba alguna denuncia o queja contra Ayuntamientos o Concejos Municipales o miembros de estos cuerpos colegiados por alguna o algunas de las causas graves tipificadas por la ley que establece las bases generales de la administración pública municipal, procede con arreglo a lo contenido en el presente capítulo.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 226.
 
-1. Una vez ratificada la queja o denuncia, se presenta a la Asamblea del Congreso del Estado para que se turne a la Comisión de Gobernación y Fortalecimiento Municipal, la cual califica si la causa atribuida corresponde a las previstas por la Ley, y dictamina en un plazo de cinco días hábiles si la denuncia merece atenderse.
+1. Una vez ratificada la queja o denuncia, se presenta a la Asamblea del Congreso del Estado para que se turne a las comisiones de Gobernación y Desarrollo Municipal, las cuales califican si la causa atribuida corresponde a las previstas por la ley, y dictaminan en un plazo de cinco días hábiles si la denuncia merece atenderse.
 
-2. Si la Comisión de Gobernación y Fortalecimiento Municipal resuelve que la queja o denuncia no debe atenderse, debe proponer dictamen de acuerdo legislativo en tal sentido para que sea la Asamblea la que resuelva lo conducente.
+2. Si las comisiones de Gobernación y de Desarrollo Municipal resuelven que la queja o denuncia no debe atenderse, deben proponer dictamen de acuerdo legislativo en tal sentido para que sea la Asamblea la que resuelva lo conducente.
 
-3. En caso de que la Asamblea apruebe la substanciación del trámite, el Presidente de la Comisión de Gobernación y Fortalecimiento Municipal notifica inmediatamente al denunciante y a los denunciados.
+3. En caso de que la Asamblea apruebe la sustanciación del trámite, los presidentes de las comisiones de Gobernación y de Desarrollo Municipal notificarán inmediatamente al denunciante y a los denunciados.
 
 ###### Artículo 227.
 
 1. Los Ayuntamientos, Concejos Municipales o sus miembros denunciados, pueden manifestar lo que a su derecho convenga y presentar pruebas en el término de quince días hábiles a partir del día siguiente al en que fueron notificados.
 
+REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2012)
+
 ###### Artículo 228.
 
-1. La Comisión de Gobernación y Fortalecimiento Municipal actúa como instancia instructora del Congreso del Estado, la cual sustancia la causa, se allega y recibe información, argumentos, declaraciones, reconocimientos y en general todas las pruebas necesarias y desahoga las mismas para el esclarecimiento de la verdad.
+1. Las comisiones de Gobernación y de Desarrollo Municipal actúan como instancias instructoras del Congreso del Estado, las cuales sustancian la causa, se allegan y reciben información, argumentos, declaraciones, reconocimientos y en general todas las pruebas necesarias y desahogan las mismas para el esclarecimiento de la verdad.
+
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 229.
 
-1. Dentro de los quince días naturales siguientes, se señala día y hora para que ante la comisión instructora se celebre una audiencia, misma que se debe efectuar dentro de los quince días naturales siguientes.
+1. Dentro de los quince días naturales siguientes, se señala día y hora para que ante las comisiones instructoras se celebre una audiencia, misma que se debe efectuar dentro de los quince días naturales siguientes.
 
-2. En dicha audiencia se desahogan las pruebas ofrecidas y se expresan los alegatos, citándose al denunciante y al representante del Ayuntamiento, Concejo Municipal o al miembro denunciado. Concluida la audiencia, la Comisión presenta, dentro de los cinco días hábiles siguientes, dictamen proponiendo el sentido de la resolución que deba adoptar el Congreso del Estado, según el caso.
+2. En dicha audiencia se desahogan las pruebas ofrecidas y se expresan los alegatos, citándose al denunciante y al representante del Ayuntamiento, Concejo Municipal o al miembro denunciado. Concluida la audiencia, las comisiones presentan, dentro de los cinco días hábiles siguientes, dictamen proponiendo el sentido de la resolución que deba adoptar el Congreso del Estado, según el caso.
 
 ###### Artículo 230.
 
@@ -3227,13 +3233,19 @@ II. La Asamblea, la Mesa Directiva y la comisión o comisiones responsables est�
 
 1. Si la resolución adoptada por el Congreso del Estado se refiere a la desintegración del ayuntamiento y esto ocurre durante el primer año de ejercicio, se comunica mediante oficio, previo decreto, al Instituto Electoral y de Participación Ciudadana el resultado de la resolución y los términos de la convocatoria a elecciones extraordinarias.
 
-2. Si no procede que se celebren nuevas elecciones, el Congreso del Estado designa de entre los vecinos del municipio, a propuesta conjunta de la Comisión de Gobernación y Fortalecimiento Municipal y de la Comisión de Asuntos Electorales, a los integrantes del Concejo Municipal que concluyen el periodo respectivo, en los términos de la Constitución Política del Estado y la ley estatal de la materia.
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
+
+2. Si no procede que se celebren nuevas elecciones, el Congreso del Estado designa de entre los vecinos del municipio, a propuesta conjunta de las comisiones de Gobernación, de Desarrollo Municipal y de Asuntos Electorales, a los integrantes del Concejo Municipal que concluyen el periodo respectivo, en los términos de la Constitución Política del Estado y la ley estatal de la materia.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE SEPTIEMBRE DE 2012)</small>
 
 3. El Congreso del Estado debe nombrar una comisión encargada de instalar de inmediato el Concejo Municipal.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 231.
 
-1. Cuando la queja se deba a la ausencia absoluta de la mayoría de los miembros propietarios y suplentes, de manera que no pueda integrarse el Ayuntamiento, basta que la Comisión de Gobernación y Fortalecimiento Municipal constate el hecho y que someta su dictamen al Congreso del Estado, para que éste declare la desintegración del Ayuntamiento y se proceda a la designación de un Concejo Municipal o se convoque a la celebración de elecciones extraordinarias si así procede.
+1. Cuando la queja se deba a la ausencia absoluta de la mayoría de los miembros propietarios y suplentes, de manera que no pueda integrarse el ayuntamiento, basta que las comisiones de Gobernación y Desarrollo Municipal constaten el hecho y que sometan su dictamen al Congreso del Estado, para que éste declare la desintegración del Ayuntamiento y se proceda a la designación de un Concejo Municipal o se convoque a la celebración de elecciones extraordinarias si así procede.
 
 ###### Artículo 232.
 
@@ -4140,3 +4152,7 @@ P.O. 16 DE AGOSTO DE 2012
 P.O. 23 DE AGOSTO DE 2012.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 6 DE SEPTIEMBRE DE 2012.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.
