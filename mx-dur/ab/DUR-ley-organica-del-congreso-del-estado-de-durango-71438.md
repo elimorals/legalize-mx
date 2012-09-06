@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-congreso-del-estado-de-durango-71438"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-12-24"
-last_updated: "2011-12-29"
+last_updated: "2012-09-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71438&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "DUR"
 ---
 # LEY ORGANICA DEL CONGRESO DEL ESTADO DE DURANGO
 
-LEY ORGANICA DEL CONGRESO DEL ESTADO DE DURANGO
+LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 24 de diciembre de 2009.
 
-Con fechas 07 de noviembre de 2001, por los integrantes del Grupo Parlamentario del Partido Acción Nacional, que contiene Ley Orgánica del Poder Legislativo del Estado de Durango. (Se refiere a una reforma integral de la Ley); 16 de abril de 2002, por los integrantes de la Fracción Parlamentaria del Partido Revolucionario Institucional, que contiene Ley Orgánica del Congreso del Estado de Durango; 08 de abril de 2003, presentada por los entonces Diputados José María Alcántar Chávez y Octaviano Rendón Arce, integrantes del Grupo Parlamentario del Partido Revolucionario Institucional, que contiene Reglamento para el Gobierno Interior del Congreso del Estado de Durango; 16 de octubre de 2007, presentada por el C. Diputado Servando Marrufo Fernández, Representante del Partido Duranguense, que contiene reformas a la LEY ORGÁNICA DEL CONGRESO DEL ESTADO, RELACIONADA CON LOS ÓRGANOS DE GOBIERNO Y ADMINISTRACIÓN; 12 de noviembre de 2007, presentada por los CC. Esteban Alejandro Villegas Villarreal y Manuel Herrera Ruiz, representantes del Partido Revolucionario Institucional, que contiene reformas a las fracciones XXIII y XXIV y adición de la fracción XXV del artículo 76; y se adiciona el artículo 101 Bis de la LEY ORGÁNICA DEL CONGRESO DEL ESTADO; 10 de diciembre de 2007, presentada por los CC. Diputados integrantes del Grupo Parlamentario del P.R.I., que contiene reforma a las fracciones XXIII y XXIV; se adiciona la fracción XXV del artículo 76, y se adicionan los artículos 101 Bis de la Ley Orgánica del Congreso del Estado; 02 de septiembre de 2008, presentada por los CC. Diputados Jorge Herrera Delgado, Adán Soria Ramírez y Fernando Ulises Adame de León, integrantes del Grupo Parlamentario del Partido Revolucionario Institucional de la LXIV Legislatura del Estado, por la cual solicitan se reforme el artículo 126 de la Ley Orgánica del Congreso del Estado de Durango; mismas que fueron turnadas a la Comisión de Régimen, Reglamento y Prácticas Parlamentarias, integrada por los CC. Diputados: Francisco Gamboa Herrera, José Arreola Contreras, Manuel Herrera Ruiz, José Luis López lbáñez e Hipólito Pasillas Ortiz, Presidente, Secretario y Vocales respectivamente, los cuales emitieron su dictamen favorable con base en los siguientes:
+Con fechas 07 de noviembre de 2001, por los integrantes del Grupo Parlamentario del Partido Acción Nacional, que contiene Ley Orgánica del Poder Legislativo del Estado de Durango. (Se refiere a una reforma integral de la Ley); 16 de abril de 2002, por los integrantes de la Fracción Parlamentaria del Partido Revolucionario Institucional, que contiene Ley Orgánica del Congreso del Estado de Durango; 08 de abril de 2003, presentada por los entonces Diputados José María Alcántar Chávez y Octaviano Rendón Arce, integrantes del Grupo Parlamentario del Partido Revolucionario Institucional, que contiene Reglamento para el Gobierno Interior del Congreso del Estado de Durango; 16 de octubre de 2007, presentada por el C. Diputado Servando Marrufo Fernández, Representante del Partido Duranguense, que contiene reformas a la LEY ORGÁNICA DEL CONGRESO DEL ESTADO, RELACIONADA CON LOS ÓRGANOS DE GOBIERNO Y ADMINISTRACIÓN; 12 de noviembre de 2007, presentada por los CC. Esteban Alejandro Villegas Villarreal y Manuel Herrera Ruiz, representantes del Partido Revolucionario Institucional, que contiene reformas a las fracciones XXIII y XXIV y adición de la fracción XXV del artículo 76; y se adiciona el artículo 101 Bis de la LEY ORGÁNICA DEL CONGRESO DEL ESTADO; 10 de diciembre de 2007, presentada por los CC. Diputados integrantes del Grupo Parlamentario del P.R.I., que contiene reforma a las fracciones XXIII y XXIV; se adiciona la fracción XXV del artículo 76, y se adicionan los artículos 101 Bis de la Ley Orgánica del Congreso del Estado; 02 de septiembre de 2008, presentada por los CC. Diputados Jorge Herrera Delgado, Adán Soria Ramírez y Fernando Ulises Adame de León, integrantes del Grupo Parlamentario del Partido Revolucionario Institucional de la LXIV Legislatura del Estado, por la cual solicitan se reforme el artículo 126 de la Ley Orgánica del Congreso del Estado de Durango; mismas que fueron turnadas a la Comisión de Régimen, Reglamento y Prácticas Parlamentarias, integrada por los CC. Diputados: Francisco Gamboa Herrera, José Arreola Contreras, Manuel Herrera Ruiz, José Luis López Ibáñez e Hipólito Pasillas Ortiz, Presidente, Secretario y Vocales respectivamente, los cuales emitieron su dictamen favorable con base en los siguientes:
 
 C O N S I D E R A N D O S.
 
@@ -389,7 +389,7 @@ II. Llegar a las sesiones o reuniones de trabajo después del pase de lista de a
 
 III. Abandonar las sesiones o reuniones de trabajo sin permiso del Presidente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MARZO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2010)</small>
 
 ###### Artículo 40.
 
@@ -413,7 +413,7 @@ Se justificará el retardo, falta o ausencia de un diputado, cuando previamente 
 
 Las faltas de asistencia a las reuniones de las comisiones legislativas, sólo serán justificadas por el Presidente de las mismas cuando medie causa de fuerza mayor inevitable o enfermedad; en este caso, se observará lo dispuesto en el párrafo anterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MARZO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2010)</small>
 
 ###### Artículo 41.
 
@@ -1051,7 +1051,7 @@ II. Suplir las ausencias de los secretarios o el presidente, cuando así lo acue
 
 III. Las demás que les confieran otras disposiciones legales aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MARZO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2010)</small>
 
 ###### Artículo 91.
 
@@ -1185,7 +1185,7 @@ IX. Llevar el registro y control de las reuniones celebradas o suspendidas y for
 
 X. Las demás que le otorgue el Presidente o la Comisión Legislativa.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MARZO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2010)</small>
 
 ###### Artículo 109.
 
@@ -1309,17 +1309,25 @@ XXVI. Ciencia, Tecnología e Innovación;
 
 XXVII. Fortalecimiento Municipal;
 
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
 
-XXVIII. Juventud y Deporte;
+XXVIII. Participación Ciudadana;
 
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
 
-XXIX. Atención a Migrantes; y
+XXIX. Juventud y Deporte;
 
-> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
 
-XXX. Cultura.
+XXX. Atención a Migrantes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE SEPTIEMBRE DE 2012)</small>
+
+XXXI. Cultura y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE SEPTIEMBRE DE 2012)</small>
+
+XXXII. Asuntos Forestales, Frutícolas y Pesca.
 
 ###### Artículo 119.
 
@@ -1441,7 +1449,7 @@ II. Universitaria;
 
 III. Relacionada con las profesiones y aranceles de profesionistas; y
 
-> <small>(REFORMADA [N. DE E. ANTES FRACCION V], P.O. 17 DE MARZO DE 2011)</small>
+> <small>(REFORMADA [N. DE E. ANTES FRACCIÓN V], P.O. 17 DE MARZO DE 2011)</small>
 
 IV. Que determine premios y distinciones a maestros.
 
@@ -1558,6 +1566,12 @@ V. Las demás que le encomiende el Congreso.
 ###### Artículo 146.
 
 La Comisión de Fortalecimiento Municipal, conocerá de la legislación relacionada con las administraciones municipales, excepto en las materias hacendaria, fiscal y de responsabilidades e integración de los Ayuntamientos. Del mismo modo intervendrá en todos (sic) aquellas materias relacionadas con la autonomía y fortalecimiento del Municipio Libre.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 146 Bis.
+
+La Comisión de Participación Ciudadana, dictaminará los asuntos que tengan relación con la legislación y la atención de la participación de los ciudadanos en asuntos legales de democracia participativa, y las demás que le encomiende el Congreso.
 
 ###### Artículo 147.
 
@@ -1877,7 +1891,7 @@ V. Entrada en vigor.
 
 El ejercicio de atribuciones o el cumplimiento de obligaciones distintas a las de creación, modificación, derogación o abrogación de leyes o decretos, se regularán en lo conducente por las normas previstas para el proceso legislativo y por las reglas y procedimientos especiales que al efecto se determinen en los ordenamientos legales aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2011)</small>
 
 ###### Artículo 169.
 
@@ -1931,7 +1945,7 @@ Las iniciativas serán dirigidas a los secretarios de la Mesa Directiva; deberá
 
 El Oficial Mayor informará al Presidente y a los secretarios de la Mesa Directiva, sobre las iniciativas recibidas, para efectos de enlistarlas en el orden del día de la sesión que corresponda.
 
-> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTICULO UNICO DEL DECRETO 113 PUBLICADO EN EL P.O. DE 19 DE JUNIO DE 2011, SE MODIFICO DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTICULO.</small>
+> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO ÚNICO DEL DECRETO 113 PUBLICADO EN EL P.O. DE 19 DE JUNIO DE 2011, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTÍCULO.</small>
 
 ###### Artículo 173.
 
@@ -1989,7 +2003,7 @@ Los dictámenes derivados del ejercicio de atribuciones distintas a la creación
 
 Cuando a juicio de la Comisión se requiera mejor proveer sobre una iniciativa o asunto en estudio o sobre alguno de los temas o puntos contenidos en ellos, podrá instruir al Instituto y a los asesores de las distintas formas de organización partidista para que realicen el estudio de los mismos y emitan una opinión no vinculatoria; o en su caso, proceder en los términos previstos en el capítulo relacionado con las comisiones legislativas, según sea el caso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MARZO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2010)</small>
 
 ###### Artículo 180.
 
@@ -2655,7 +2669,7 @@ El integrante del Congreso que actúe como denunciante, querellante, defensor o 
 
 Ninguno de los procedimientos previstos en el presente título podrá efectuarse si el servidor público se ha separado de su encargo, salvo lo que señale la Constitución Política del Estado Libre y Soberano de Durango.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO NUMERO 466, PUBLICADO EN EL P.O. DE 18 DE MARZO DE 2010, SE MODIFICO LA ESTRUCTURA DEL PRESENTE ARTICULO, CONFORMANDOSE EL PRESENTE PARRAFO CON LOS ANTERIORES SEGUNDO Y TERCERO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 466, PUBLICADO EN EL P.O. DE 18 DE MARZO DE 2010, SE MODIFICÓ LA ESTRUCTURA DEL PRESENTE ARTÍCULO, CONFORMÁNDOSE EL PRESENTE PÁRRAFO CON LOS ANTERIORES SEGUNDO Y TERCERO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE MARZO DE 2010)</small>
 
@@ -2745,7 +2759,7 @@ Los Servidores Públicos señalados en el artículo anterior, serán responsable
 
 En el procedimiento administrativo de responsabilidades se aplicará la Ley de Responsabilidades de los Servidores Públicos del Estado y los Municipios, esta ley y demás disposiciones aplicables.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 19 DE JUNIO DE 2011)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 19 DE JUNIO DE 2011)</small>
 
 #### SECCIÓN PRIMERA. DEL PROCEDIMIENTO ESPECIAL EN MATERIA DE DERECHOS HUMANOS
 
@@ -2839,7 +2853,7 @@ DIP. JULIO ALBERTO CASTAÑEDA CASTAÑEDA
 
 SECRETARIO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 18 DE MARZO DE 2010.
 
@@ -2888,3 +2902,11 @@ P.O. 29 DE DICIEMBRE DE 2011.
 PRIMERO. Las presentes reformas entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
 SEGUNDO. Se derogan las disposiciones legales, reglamentarias, y administrativas, en lo que se opongan al presente decreto.
+
+P.O. 6 DE SEPTIEMBRE DE 2012.
+
+PRIMERO.- Las presentes reformas entrarán en vigor, en el momento de su aprobación por el Pleno.
+
+SEGUNDO.- Se derogan las disposiciones legales, reglamentarias, y administrativas, en lo que se opongan al presente decreto.
+
+TERCERO.- Mándese publicar en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
