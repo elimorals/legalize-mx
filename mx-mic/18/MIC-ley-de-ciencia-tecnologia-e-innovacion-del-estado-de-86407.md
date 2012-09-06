@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-ciencia-tecnologia-e-innovacion-del-estado-de-86407"
 country: "mx"
 rank: "ley"
 publication_date: "2012-02-07"
-last_updated: "2012-02-07"
+last_updated: "2012-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86407&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE MICHOACÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el martes 7 de febrero de 2012.
 
@@ -77,61 +77,115 @@ III. CIENCIA: Conjunto de conocimientos objetivos y estructurados sistemáticame
 
 IV. Comité: El Comité Consultivo del CECTI;
 
-V. Comisión: La Comisión de Evaluación Técnica de la Ciencia, la Tecnología y la Innovación;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
 
-VI. CONACYT: Consejo Nacional de Ciencia y Tecnología;
+V. CONACYT: Consejo Nacional de Ciencia y Tecnología;
 
-VII. Congreso: El Congreso del Estado de Michoacán de Ocampo;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
 
-VIII. Consejo: El Consejo Directivo del CECTI;
+VI. Congreso: El Congreso del Estado de Michoacán de Ocampo;
 
-IX. Desarrollo tecnológico: El uso del conocimiento para generar un proceso que culmine con su aplicación práctica;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
 
-X. Difusión: Proceso de divulgación de conocimientos científicos, tecnológicos y de Innovación;
+VII. Consejo: El Consejo Directivo del CECTI;
 
-XI. Director General: El Director General del CECTI;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
 
-XII. Divulgación: Actividad por la cual se comunican conocimientos científicos y tecnológicos comprensibles a todo público, sin que ello implique una pérdida de valor original del conocimiento transmitido;
+VIII. Desarrollo tecnológico: El uso del conocimiento para generar un proceso que culmine con su aplicación práctica;
 
-XIII. Empresa: Organizaciones productoras de bienes y servicios, comprometidas con el diseño y desarrollo de nuevos productos, servicios y/o procesos innovadores a través de la aplicación sistemática de conocimientos técnicos y científicos;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
 
-XIV. Entes públicos: Los 3 poderes del Estado de Michoacán, los Órganos Constitucionalmente Autónomos y los Ayuntamientos del Estado de Michoacán;
+IX. Difusión: Proceso de divulgación de conocimientos científicos, tecnológicos y de Innovación;
 
-XV. Estado: El Estado de Michoacán de Ocampo;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
 
-XVI. Fideicomiso: El Fideicomiso Estatal de Ciencia, Tecnología e Innovación del Estado de Michoacán;
+X. Director General: El Director General del CECTI;
 
-XVII. Gobernador: El Titular del Poder Ejecutivo del Estado de Michoacán de Ocampo;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
 
-XVIII. Gobierno del Estado: Gobierno Constitucional del Estado de Michoacán de Ocampo;
+XI. Divulgación: Actividad por la cual se comunican conocimientos científicos y tecnológicos comprensibles a todo público, sin que ello implique una pérdida de valor original del conocimiento transmitido;
 
-XIX. IES: Instituciones de Educación Superior;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
 
-XX. Innovación: La transformación de una idea en un producto comercializable, o de un proceso de fabricación, o un enfoque de un servicio social determinado, en uno nuevo o mejorado con posibilidades de introducirlo en un mercado, así como a la transformación de una tecnología en otra de mayor utilidad o de mayor sustentabilidad;
+XII. Empresa: Organizaciones productoras de bienes y servicios, comprometidas con el diseño y desarrollo de nuevos productos, servicios y/o procesos innovadores a través de la aplicación sistemática de conocimientos técnicos y científicos;
 
-XXI. Investigación básica: Al trabajo sistemático y creativo realizado con el fin de fomentar el conocimiento sobre la naturaleza, el ser humano, la cultura y la sociedad;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
 
-XXII. Investigación científica: A la actividad que tiene por objeto la movilización y valoración sistemática de los resultados de la investigación aplicada para crear nuevos materiales, productos o procesos nuevos, realizando actividades intelectuales y experimentales con el propósito de aumentar o crear conocimientos sobre una materia;
+XIII. Entes públicos: Los 3 poderes del Estado de Michoacán, los Órganos Constitucionalmente Autónomos y los Ayuntamientos del Estado de Michoacán;
 
-XXIII. Ley: Ley de Ciencia, Tecnología e Innovación del Estado de Michoacán;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
 
-XXIV. Periódico Oficial: Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo;
+XIV. Estado: El Estado de Michoacán de Ocampo;
 
-XXV. Programa: El Programa Estatal de Ciencia, Tecnología e Innovación;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
 
-XXVI. Registro: El Registro Estatal de Ciencia, Tecnología e Innovación;
+XV: Fideicomiso: El Fideicomiso Estatal de Ciencia, Tecnología e Innovación del Estado de Michoacán;
 
-XXVII. Sistema: Sistema Estatal de Ciencia, Tecnología e Innovación;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
 
-XXVIII. Sectores: Los entes públicos, organizaciones privadas, sociales y productivas del Estado;
+XVI. Gobernador: El Titular del Poder Ejecutivo del Estado de Michoacán de Ocampo;
 
-XXIX. SNI: Sistema Nacional de Investigadores del Consejo Nacional de Ciencia y Tecnología;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
 
-XXX. Tecnología: Conjunto de los conocimientos propios de una técnica;
+XVII. Gobierno del Estado: Gobierno Constitucional del Estado de Michoacán de Ocampo;
 
-XXXI. Transferencia tecnológica: Acción de pasar o ceder procesos o productos de investigación científica y tecnológica a otra persona física o moral;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
 
-XXXII. Vinculación: Estrategia institucional que consiste en el conjunto de procesos y prácticas planeadas, sistematizadas y continuamente evaluadas, donde los elementos académicos y administrativos de una institución de educación superior, se relacionan internamente unos con otros, y externamente con personas, empresas y organizaciones de la sociedad civil.
+XVIII. IES: Instituciones de Educación Superior;
+
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
+
+XIX. Innovación: La transformación de una idea en un producto comercializable, o de un proceso de fabricación, o un enfoque de un servicio social determinado, en uno nuevo o mejorado con posibilidades de introducirlo en un mercado, así como a la transformación de una tecnología en otra de mayor utilidad o de mayor sustentabilidad;
+
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
+
+XX. Investigación básica: Al trabajo sistemático y creativo realizado con el fin de fomentar el conocimiento sobre la naturaleza, el ser humano, la cultura y la sociedad;
+
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
+
+XXI. Investigación científica: A la actividad que tiene por objeto la movilización y valoración sistemática de los resultados de la investigación aplicada para crear nuevos materiales, productos o procesos nuevos, realizando actividades intelectuales y experimentales con el propósito de aumentar o crear conocimientos sobre una materia;
+
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
+
+XXII. Ley: Ley de Ciencia, Tecnología e Innovación del Estado de Michoacán;
+
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
+
+XXIII. Periódico Oficial: Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo;
+
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
+
+XXIV. Programa: El Programa Estatal de Ciencia, Tecnología e Innovación;
+
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
+
+XXV. Registro: El Registro Estatal de Ciencia, Tecnología e Innovación;
+
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
+
+XXVI. Sistema: Sistema Estatal de Ciencia, Tecnología e Innovación;
+
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
+
+XXVII. Sectores: Los entes públicos, organizaciones privadas, sociales y productivas del Estado;
+
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
+
+XXVIII. SNI: Sistema Nacional de Investigadores del Consejo Nacional de Ciencia y Tecnología;
+
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
+
+XXIX. Tecnología: Conjunto de los conocimientos propios de una técnica;
+
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
+
+XXX. Transferencia tecnológica: Acción de pasar o ceder procesos o productos de investigación científica y tecnológica a otra persona física o moral; y,
+
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
+
+XXXI. Vinculación: Estrategia institucional que consiste en el conjunto de procesos y prácticas planeadas, sistematizadas y continuamente evaluadas, donde los elementos académicos y administrativos de una institución de educación superior, se relacionan internamente unos con otros, y externamente con personas, empresas y organizaciones de la sociedad civil.
+
+> <small>N. DE E. EN EL DECRETO NÚMERO 06, PUBLICADO EN EL P.O. DE 6 DE SEPTIEMBRE DE 2012 EL TEXTO DE LA FRACCIÓN XXXII SE PUBLICÓ EN LA FRACCIÓN XXI.</small>
 
 ###### ARTÍCULO 3.
 
@@ -421,37 +475,15 @@ IV. Las demás que le confieran las disposiciones legales aplicables y el reglam
 
 ###### ARTÍCULO 17.
 
-El CECTI contará con una Comisión de Evaluación Técnica de la Ciencia, la Tecnología y la Innovación que será conformada por integrantes del Consejo Directivo con voz y voto de los siguientes sectores:
-
-I. Un miembro representante del sector gubernamental;
-
-II. Dos miembros del sector académico; y,
-
-III. Dos miembros del sector productivo.
-
-El Director General acudirá a las sesiones de la Comisión con voz pero sin voto.
-
-El Consejo en pleno definirá quienes serán los integrantes de la Comisión, quienes durarán un año en su encargo con opción a ser reelegidos por un periodo más.
+(DEROGADO, P.O. 6 DE SEPTIEMBRE DE 2012)
 
 ###### ARTÍCULO 18.
 
-La Comisión tendrá las siguientes atribuciones:
-
-I. Coordinarse con el Director General para emitir las convocatorias;
-
-II. Recibir del Director General las solicitudes de los sectores y del CECTI para resolver problemáticas del Estado por medio de la Ciencia, la Tecnología y la Innovación;
-
-III. Dictaminar técnica y presupuestalmente la viabilidad para la resolución de las problemáticas planteadas por los sectores y por el CECTI;
-
-IV. Remitir al CECTI las problemáticas dictaminadas favorablemente a ser financiadas para la emisión de la convocatoria pertinente;
-
-V. Recibir del Director General los oficios de la convocatoria efectuada a los CI e IES interesadas en la resolución de la problemática; y,
-
-VI. Definir y someter a consideración del Consejo, los recursos financieros, mediante el Fideicomiso, a los CI e IES que desarrollarán las investigaciones que fueron convocadas.
+(DEROGADO, P.O. 6 DE SEPTIEMBRE DE 2012)
 
 ###### ARTÍCULO 19.
 
-El CECTI destinará los recursos suficientes para el ejercicio de las funciones de la Comisión.
+(DEROGADO, P.O. 6 DE SEPTIEMBRE DE 2012)
 
 ### CAPÍTULO III. COMITÉ CONSULTIVO
 
@@ -537,7 +569,9 @@ Para ser nombrado Director General del CECTI se deberán cubrir los siguientes r
 
 I. Ser ciudadano mexicano en pleno goce de sus derechos;
 
-II. Tener preferentemente el grado académico de Doctor y reconocimiento vigente del SNI;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
+
+II. Tener el grado académico de Maestro o Doctor;
 
 III. Experiencia y estudios reconocidos en las áreas científicas o tecnológicas, así como en materia administrativa;
 
@@ -565,7 +599,9 @@ VII. Elaborar el Reglamento del CECTI y presentarlo para su aprobación por el C
 
 VIII. Proveer los insumos necesarios para el buen funcionamiento del Comité;
 
-IX. Gestionar y obtener recursos para el financiamiento de los programas y proyectos de investigación aprobados por la Comisión;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
+
+IX. Gestionar y obtener recursos para el financiamiento de los programas y proyectos de investigación;
 
 X. Nombrar y remover a los funcionarios y personal del CECTI;
 
@@ -607,7 +643,11 @@ El patrimonio del CECTI se integrará con:
 
 I. Los acervos científicos, tecnológicos y de innovación que constituya el CECTI, así como los estudios, investigaciones y proyectos propiedad del mismo;
 
-II. Las partidas presupuestales que le asigne el Gobierno del Estado, comprendidas dentro de su presupuesto de egresos. El CECTI procurará basar su administración con un sentido de racionalidad presupuestal y destinará la mayor parte de su presupuesto para nutrir tanto al Fideicomiso como a los demás fondos que se hayan convenido para el desarrollo de la Ciencia, la Tecnología y la Innovación y solo administrará los recursos necesarios para solventar su gasto corriente y de administración;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
+
+II. Las partidas presupuestales que le asigne el Gobierno del Estado, comprendidas dentro de su presupuesto de egresos.
+
+El CECTl procurará basar su administración con un sentido de racionalidad presupuestal y destinará la mayor parte de su presupuesto para nutrir tanto al Fideicomiso como a los demás fondos que se hayan convenido para el desarrollo de la Ciencia, la Tecnología y la Innovación;
 
 III. Las aportaciones, subsidios y apoyos que le otorguen los gobiernos federal y municipales;
 
@@ -695,7 +735,9 @@ El Presidente del Comité Técnico podrá invitar a personas que así lo solicit
 
 El Comité Técnico tendrá las siguientes atribuciones:
 
-I. Financiar los proyectos que sean aprobados por el Consejo y enviados por la Comisión;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
+
+I. Financiar los proyectos que sean aprobados por el Consejo;
 
 II. Informar mensualmente al CECTI de los flujos de efectivo con que cuenta el Fideicomiso;
 
@@ -755,9 +797,11 @@ En caso de disolución del Fideicomiso, su patrimonio pasará a formar parte del
 
 ### CAPÍTULO IV. FONDOS ESTATALES DE CIENCIA, TECNOLOGÍA E INNOVACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 44.
 
-El Fideicomiso tendrá tres fondos especiales, a través de los cuales se financiarán todos los programas y proyectos establecidos por el CECTI, cuyos montos se asignarán según lo proponga la Comisión y lo apruebe el Consejo, de acuerdo a los lineamientos que establezca el Programa Estatal de Ciencia, Tecnología e Innovación. Los fondos serán:
+El Fideicomiso tendrá tres fondos especiales, a través de los cuales se financiarán todos los programas y proyectos establecidos por el CECTI, cuyos montos se asignarán según lo apruebe el Consejo, de acuerdo a los lineamientos que establezca el Programa Estatal de Ciencia, Tecnología e Innovación. Los fondos serán:
 
 I. Fondo para el fortalecimiento de los recursos humanos en Ciencia, Tecnología e Innovación del Estado;
 
@@ -785,9 +829,11 @@ Una vez que el CECTI cierre las convocatorias y obtenga las solicitudes de los s
 
 El CECTI podrá asimismo proponer alguna problemática que no haya sido solicitada por los sectores y que por su trascendencia sea relevante para el Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 48.
 
-La Comisión definirá los proyectos de ciencia, tecnología e innovación que sean susceptibles de ser financiados por medio del Fideicomiso de acuerdo al Programa Estatal de Ciencia, Tecnología e Innovación y, a los siguientes parámetros:
+El CECTI definirá los proyectos de ciencia, tecnología e innovación que sean susceptibles de ser financiados por medio del Fideicomiso de acuerdo al Programa Estatal de Ciencia, Tecnología e Innovación y, a los siguientes parámetros:
 
 I. El problema debe afectar directamente a los michoacanos o al territorio del Estado;
 
@@ -799,9 +845,11 @@ IV. Se dará preferencia a los proyectos que tengan una vocación productiva y d
 
 ### CAPÍTULO II. CONVOCATORIA A LOS CI E IES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 49.
 
-Una vez que la Comisión defina las líneas de acción en que deberán ser enmarcados los proyectos a ser financiados, el Director General lanzará una convocatoria por cada problemática propuesta que haya sido aprobada por la Comisión, misma que será turnada a los CI e IES, la cual contendrá en sus bases al menos:
+Una vez que el Consejo defina las líneas de acción en que deberán ser enmarcados los proyectos a ser financiados, el Director General lanzará una convocatoria por cada problemática propuesta que haya sido aprobada por el Consejo, misma que será turnada a los CI e lES, la cual contendrá en sus bases al menos:
 
 I. Descripción del Problema a resolver;
 
@@ -815,9 +863,11 @@ V. Cantidad económica a destinar para resolver el problema; y,
 
 VI. Plazos en que el Fideicomiso hará entrega del recurso asignado.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 50.
 
-Las convocatorias serán publicadas en el Periódico Oficial, en al menos 2 diarios de mayor circulación estatal y en la página electrónica del CECTI. Las convocatorias tendrán una duración de un mes, terminado este plazo, si hubiera problemáticas que no fueron del interés de ningún CI o IES, la convocatoria para ese problema específico se declarará desierta sin posibilidad de ser financiada en el año en curso.
+Las convocatorias serán publicadas en el Periódico Oficial, y en al menos 2 diarios de mayor circulación estatal y en la página electrónica del CECTI. Las convocatorias tendrán una duración de un mes, terminado este plazo, si hubiera problemáticas que no fueron del interés de ningún CI o IES, la convocatoria para ese problema específico se declarará desierta sin posibilidad de ser financiada en el año en curso.
 
 El recurso destinado a alguna investigación que se declare desierta volverá a formar parte del Fideicomiso.
 
@@ -857,11 +907,11 @@ j. El proyecto de presupuesto del proyecto.
 
 ### CAPÍTULO IV. PREFERENCIAS E INFORMES
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REFORMADO Y REUBICADO ANTES SEGUNDO PÁRRAFO], P.O. 6 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 52.
 
-Una vez recibidos los proyectos por parte del CI o IES, el CECTI los remitirá a la Comisión para su análisis y aprobación.
-
-En caso de que más de un CI o IES se interese por resolver alguna problemática enunciada en las Convocatorias, la Comisión definirá al ganador del proyecto con base en las siguientes preferencias:
+En caso de que más de un CI o lES se interese por resolver alguna problemática enunciada en las Convocatorias, el Consejo definirá al ganador del proyecto con base en las siguientes preferencias:
 
 I. A los CI o IES que tengan su domicilio en el Estado;
 
@@ -1296,3 +1346,9 @@ ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN".- PRESIDENTE DE LA MESA DIRECT
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 20 veinte días del mes de Enero del año 2012 dos mil doce.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LEONEL GODOY RANGEL.- EL SECRETARIO DE GOBIERNO.- RAFAEL MELGOZA RADILLO. (Firmados).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 6 DE SEPTIEMBRE DE 2012.
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
