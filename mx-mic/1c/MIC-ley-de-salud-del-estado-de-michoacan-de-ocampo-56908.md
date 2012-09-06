@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-salud-del-estado-de-michoacan-de-ocampo-56908"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-10"
-last_updated: "2010-12-08"
+last_updated: "2012-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # LEY DE SALUD DEL ESTADO DE MICHOACAN DE OCAMPO
 
-LEY DE SALUD DEL ESTADO DE MICHOACAN DE OCAMPO
+LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 10 de septiembre de 2007.
 
@@ -53,57 +53,75 @@ II. Fijar las disposiciones mediante las cuales el Gobernador del Estado, a trav
 
 III. Determinar la estructura administrativa y los mecanismos adecuados para que el Gobernador del Estado participe a través de la Secretaría, en la prestación de los servicios de salud a que se refiere el artículo 3° de la Ley General de Salud.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 2°.
 
 Para la correcta aplicación de esta Ley se entenderá por:
 
-I. Apiario: El establecimiento donde se realizan las actividades de cría, explotación o mejoramiento genético de abejas;
+I. Acciones de Salud: Medidas operativas de los programas específicos de la Secretaría, tendientes a la promoción, prevención y rehabilitación tanto primaria, secundaria y terciaria en beneficio a la Salud de la población;
 
-II. Ayuntamientos: Los Gobiernos Municipales;
+II. Apiario: El establecimiento donde se realizan las actividades de cría, explotación o mejoramiento genético de abejas;
 
-III. Autoridad Sanitaria Competente: La Secretaría de Salud del Estado o los ayuntamientos en los términos de los acuerdos o convenios que en materia de salud se suscriban;
+III. Autoridad Sanitaria Competente: El titular de la Secretaría de Salud del Estado o Presidente Municipal en los términos de los acuerdos o convenios que en materia de salud suscriban los ayuntamientos con el Estado;
 
-IV. Cementerio: El lugar destinado a la prestación de un servicio público y que comprende la inhumación, exhumación y reinhumación de cadáveres, restos humanos y restos humanos áridos o cremados, en fosas excavadas en el suelo o en las construidas sobre éste;
+IV. Ayuntamientos: Los Gobiernos Municipales;
 
-V. COEPRIS: La Comisión Estatal para la Protección Contra Riesgos Sanitarios;
+V. Casa Habitación: Casa o edificio construido de una o varias plantas, destinado para ser habitado;
 
-VI. Crematorio: La instalación destinada a la incineración de cadáveres y partes corporales de seres humanos;
+VI. Cementerio: El lugar destinado a la prestación de un servicio público y que comprende la inhumación, exhumación y reinhumación de cadáveres, restos humanos y restos humanos áridos o cremados, en fosas excavadas en el suelo o en las construidas sobre éste;
 
-VII. Cripta: El lugar destinado al depósito de cadáveres, cenizas de cadáveres o restos humanos áridos en gavetas o nichos;
+VII. COEPRIS: La Comisión Estatal para la Protección Contra Riesgos Sanitarios;
 
-VIII. Establo: El sitio en donde se aloja cualquier clase de ganado destinado a la producción de leche o carne para consumo humano;
+VIII. Control de Vectores: Planificación, organización, implementación y monitoreo de actividades para la modificación y manipulación de factores ambientales o su interacción con el hombre con miras a prevenir o minimizar la propagación de vectores y reducir el contacto entre patógenos, vectores y el ser humano;
 
-IX. Etapas del Proceso: El conjunto de actividades relativas a la obtención, elaboración, fabricación, preparación, conservación, mezclado, acondicionamiento, envasado, manipulación, transporte, distribución, almacenamiento y expendio o suministro al público de productos en los acuerdos a que se refiere la Ley General de Salud;
+IX. Crematorio: La instalación destinada a la incineración de cadáveres y partes corporales de seres humanos;
 
-X. Secretaría Federal: La Secretaría de Salud de la Administración Pública Federal;
+X. Cripta: El lugar destinado al depósito de cadáveres, cenizas de cadáveres o restos humanos áridos en gavetas o nichos;
 
-XI. Funeraria: El establecimiento dedicado a la prestación del servicio relativo a venta de féretros, velación, acondicionamiento y traslado de cadáveres de seres humanos a los cementerios o crematorios, pudiendo o no contar con el servicio de embalsamamiento;
+XI. Desastres Naturales: Estado en el que la población de uno o más municipios del Estado, sufren severos daños por el impacto de un desastre de origen natural, enfrentando la pérdida de sus miembros, infraestructura o entorno, de tal manera que la estructura social se desajusta y se impide el cumplimiento de las actividades esenciales de la sociedad, afectando el funcionamiento de los sistemas de subsistencia;
 
-XII. Granja Avícola: El sitio destinado a la explotación de aves para la producción de carnes y derivados para el consumo humano;
+XII. Establo: El sitio en donde se aloja cualquier clase de ganado destinado a la producción de leche o carne para consumo humano;
 
-XIII. Granja Porcícola: El sitio destinado a la cría y engorda de cerdos;
+XIII. Etapas del Proceso: El conjunto de actividades relativas a la obtención, elaboración, fabricación, preparación, conservación, mezclado, acondicionamiento, envasado, manipulación, transporte, distribución, almacenamiento y expendio o suministro al público de productos en los acuerdos a que se refiere la Ley General de Salud;
 
-XIV. Grupo vulnerable: Los que por sus condiciones sociales, económicas, culturales o psicológicas se encuentren en situación de extrema dificultad para satisfacer sus necesidades básicas;
+XIV. Funeraria: El establecimiento dedicado a la prestación del servicio relativo a venta de féretros, velación, acondicionamiento y traslado de cadáveres de seres humanos a los cementerios o crematorios, pudiendo o no contar con el servicio de embalsamamiento;
 
-XV. Guardería: El establecimiento donde se presta el servicio de cuidado y atención a lactantes y niños;
+XV. Granja Avícola: El sitio destinado a la explotación de aves para la producción de carnes y derivados para el consumo humano;
 
-XVI. Manejo Integral: Las actividades de reducción de riesgos sanitarios consistentes en la separación, reutilización, reciclaje, coprocesamiento, tratamiento biológico, químico, físico o térmico, acopio, almacenamiento, transporte y disposición final de residuos, individualmente realizadas o combinadas de manera adecuada para adaptarse a las condiciones y necesidades de cada lugar, cumpliendo objetivos de valorización, eficiencia sanitaria, ambiental, tecnológica, económica y social;
+XVI. Granja Porcícola: El sitio destinado a la cría y engorda de cerdos;
 
-XVII. Micropigmentación: Cualquier técnica mediante la cual se incrustan pigmentos en áreas específicas de la piel humana bajo la epidermis y en la capa capilar de la dermis;
+XVII. Grupo Vulnerable: Los que por sus condiciones sociales, económicas, culturales o psicológicas se encuentren en situación de extrema dificultad para satisfacer sus necesidades básicas;
 
-XVIII. Muestra: El número total de unidades de producto provenientes de un lote y que representan las características y condiciones del mismo;
+XVIII. Guardería: Establecimiento que durante la jornada laboral de los padres o tutores proporciona atención integral a niños desde los 43 días de nacido hasta los 6 años de edad;
 
-XIX. Municipio: Los municipios del Estado de Michoacán de Ocampo;
+XIX. Local: Espacio físico donde se pueden ofrecer bienes y/o servicios, o que puede servir de bodega;
 
-XX. Normas Sanitarias: El conjunto de reglas científicas y tecnológicas, emitidas por la Secretaría que establecen los requisitos que deberán satisfacerse en el desarrollo de actividades en materia de salubridad local, con el objeto de unificar principios, criterios, políticas y estrategias;
+XX. Manejo Integral: Las actividades de reducción de riesgos sanitarios consistentes en la separación, reutilización, reciclaje, coprocesamiento, tratamiento biológico, químico, físico o térmico, acopio, almacenamiento, transporte y disposición final de residuos, individualmente realizadas o combinadas de manera adecuada para adaptarse a las condiciones y necesidades de cada lugar, cumpliendo objetivos de valorización, eficiencia sanitaria, ambiental, tecnológica, económica y social;
 
-XXI. Osario Común: El área donde se depositarán los restos áridos de seres humanos cuando no sean reclamados y haya transcurrido el tiempo señalado en esta Ley;
+XXI. Micropigmentación: Cualquier técnica mediante la cual se incrustan pigmentos en áreas específicas de la piel humana bajo la epidermis y en la capa capilar de la dermis;
 
-XXII. Sistema: El Sistema Estatal de Salud;
+XXII. Normas Sanitarias: El conjunto de reglas científicas y tecnológicas, emitidas por la Secretaría que establecen los requisitos que deberán satisfacerse en el desarrollo de actividades en materia de salubridad local, con el objeto de unificar principios, criterios, políticas y estrategias;
 
-XXIII. Secretaría: La Secretaría de Salud del Estado; y,
+XXIII. Muestra: El número total de unidades de producto provenientes de un lote y que representan las características y condiciones del mismo;
 
-XXIV. Verificadores: Las personas designadas por la autoridad sanitaria competente para realizar diligencias de vigilancia sanitaria, de conformidad con lo dispuesto en la Ley General de Salud, esta Ley y demás disposiciones aplicables.
+XXIV. Municipio: Los municipios del Estado de Michoacán de Ocampo;
+
+XXV. Osario Común: El área donde se depositarán los restos áridos de seres humanos cuando no sean reclamados y haya transcurrido el tiempo señalado en esta Ley;
+
+XXVI. Secretaría: La Secretaría de Salud del Estado;
+
+XXVII. Secretaría Federal: La Secretaría de Salud de la Administración Pública Federal;
+
+XXVIII. Sistema: El Sistema Estatal de Salud;
+
+XXIX. Terreno: Porción de superficie terrestre en la que se puede desplantar una construcción;
+
+XXX. Urgencia Epidemiológica: Daño a la salud originado por la presencia de agentes microbiológicos, químicos o tóxicos, que ocasionan brotes o epidemias, incluyendo las enfermedades reemergentes o exóticas;
+
+XXXI. Vector: Al transportador viviente y transmisor biológico del agente causal de enfermedad, artrópodo que transmite el agente causal de una enfermedad, por picadura, mordedura, o por sus desechos; y,
+
+XXXII. Verificadores: Las personas designadas por la autoridad sanitaria competente para realizar diligencias de vigilancia sanitaria, de conformidad con lo dispuesto en la Ley General de Salud, esta Ley y demás disposiciones aplicables.
 
 ###### ARTÍCULO 3°.
 
@@ -1253,7 +1271,7 @@ Se prohíbe en la venta de las actividades señaladas en este capítulo, el expe
 
 Los ayuntamientos, en el ámbito de su competencia, autorizarán la ubicación, funcionamiento y horarios de los establecimientos a que se refiere este capítulo, tomando en cuenta la distancia de éstos con cualquier establecimiento que preste servicio de atención médica y escuelas.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE DICIEMBRE DE 2010)</small>
 
 ### CAPÍTULO XXIII. ALBERGUES Y CENTROS DE DESARROLLO INFANTIL
 
@@ -1641,9 +1659,17 @@ XI. La desocupación o desalojo de casas, edificios, establecimientos y, en gene
 
 XII. La prohibición de uso;
 
-XIII. La suspensión de mensajes publicitarios en materia de salud; y,
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
 
-XIV. Las demás que determinen las autoridades sanitarias del Estado, que puedan evitar que se causen o continúen causando riesgos o daños a la salud.
+XIII. La suspensión de mensajes publicitarios en materia de salud;
+
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
+
+XIV. El ingreso de la Autoridad Sanitaria competente al interior de cualquier casa habitación, local o terreno; y,
+
+> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
+
+XV. Las demás que determinen las autoridades sanitarias del Estado, que puedan evitar que se causen o continúen causando riesgos o daños a la salud.
 
 ###### ARTÍCULO 214.
 
@@ -1708,6 +1734,14 @@ Los productos perecederos que no se reclamen por los interesados dentro de las v
 ###### ARTÍCULO 223.
 
 La desocupación o desalojo de casas, edificios, establecimientos y en general, de cualquier predio, se ordenará, previa la observancia de la garantía de audiencia y de dictamen de las autoridades competentes, cuando a juicio de las autoridades sanitarias, se considere que es indispensable para evitar un daño grave a la salud o a la vida de las personas.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
+
+ARTÍCULO 223 BIS. Se entiende por ingreso de la autoridad sanitaria competente al interior de cualquier casa habitación, local o terreno, cuando el personal de las instituciones sanitarias y el verificador, acceden a estos lugares por necesidades técnicas de los programas específicos de salud, prevención y control de enfermedades como el dengue, por desastres naturales y urgencias epidemiológicas, previa declaración pública y emisión de mandato escrito por la autoridad competente, debidamente fundado y motivado, para el cumplimiento de actividades de salud encomendadas a su responsabilidad, para este fin deberán estar debidamente acreditadas por las autoridades competentes en los términos de las respectivas disposiciones legales aplicables, donde se declare la región o regiones amenazadas que queden sujetas durante el tiempo necesario, para los efectos previstos en este artículo.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
+
+ARTÍCULO 223 TER. Cuando hubieran desaparecido las causas que hayan originado la declaración pública o emisión de mandato por escrito para ingresar a casa habitación, local o terreno, la Autoridad Sanitaria competente por el mismo medio, declarará terminada dicha acción.
 
 ###### ARTÍCULO 224.
 
@@ -1965,7 +1999,7 @@ En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Consti
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.-LÁZARO CÁRDENAS BATEL.- LA SECRETARIA DE GOBIERNO.- MARÍA GUADALUPE SÁNCHEZ MARTÍNEZ. (Firmados).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 8 DE JUNIO DE 2009.
 
@@ -1986,3 +2020,13 @@ Las autoridades estatales y municipales, en el ámbito de su competencia, emitir
 ###### ARTÍCULO TERCERO.
 
 Notifíquese al Titular del Poder Ejecutivo y a los Titulares de la Secretaría de Salud y de la Secretaría de Educación.
+
+P.O. 6 DE SEPTIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Dése cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado y al Titular de la Secretaría de Salud para los efectos correspondientes.
