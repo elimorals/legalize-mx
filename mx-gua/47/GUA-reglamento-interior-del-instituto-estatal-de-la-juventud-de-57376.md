@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-instituto-estatal-de-la-juventud-de-573
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-10-16"
-last_updated: "2007-10-16"
+last_updated: "2012-09-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57376&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE LA JUVENTUD DE GUANAJUATO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE LA JUVENTUD GUANAJUATENSE, DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. 7 DE SEPTIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 16 de octubre de 2007.
 
@@ -426,3 +428,41 @@ JOSÉ GERARDO MOSQUEDA MARTÍNEZ
 EL SECRETARIO DE EDUCACIÓN
 
 ALBERTO DEL L.S. DIOSDADO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE SEPTIEMBRE DE 2012.
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación del Reglamento vigente
+
+Artículo Segundo. Se abroga el Reglamento Interior del Instituto Estatal de la Juventud de Guanajuato, contenido en el Decreto Gubernativo número 55, publicado en el Periódico Oficial del Gobierno del Estado, número 166, segunda parte, de fecha 16 de octubre de 2007.
+
+Referencia a las nuevas denominaciones de las unidades administrativas
+
+Artículo Tercero. A la entrada en vigencia del presente Decreto Gubernativo cualquier referencia que en decretos, reglamentos, convenios u otros instrumentos jurídicos se haga a las siguientes unidades administrativas, se entenderán hechas a su nueva denominación:
+
+Unidades administrativas vigentes Nuevas denominaciones de las unidades administrativas
+
+Coordinación del Portal de Coordinación de Tecnologías
+
+Información de la Información
+
+Coordinación de Contabilidad Dirección de Finanzas y Administración
+
+y Presupuesto
+
+Coordinación de Formación y Coordinación de Formación Integral
+
+Capacitación
+
+Dirección de Coordinaciones Dirección de Coordinación Regional
+
+Regionales
+
+Jefatura de Seguimiento a Coordinación Estratégica de Seguimiento
+
+Regiones
