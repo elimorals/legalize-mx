@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-instituto-de-la-mujer-para-el-estado-de-baja-21659"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-22"
-last_updated: "2011-06-03"
+last_updated: "2012-09-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL INSTITUTO DE LA MUJER PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 22 de junio de 2001.
 
@@ -43,9 +43,11 @@ LEY DEL INSTITUTO DE LA MUJER PARA EL ESTADO DE BAJA CALIFORNIA
 
 La presente Ley es de orden público, interés social y observancia general en el Estado de Baja California en materia de equidad de género entre hombres y mujeres e igualdad de derechos y oportunidades entre ambos sexos, en los términos consagrados en la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 2.
 
-Se crea el Instituto de la Mujer para el Estado de Baja California, como organismo descentralizado de la Administración Pública del Estado, con personalidad jurídica y patrimonio propio, dotado de atribuciones, objetivos y fines, en los términos de esta Ley, el cual contará con la estructura administrativa que determinen el reglamento interior.
+Se crea el Instituto de la mujer para el Estado de Baja California, como organismo descentralizado de la Administración Pública del Estado, con personalidad jurídica, patrimonio propio y autonomía de gestión, para el cumplimiento de sus atribuciones, objetivos y fines, el cual contará con la estructura administrativa que determinen el reglamento interior.
 
 El domicilio legal del Instituto de la Mujer para el Estado de Baja California, será la Ciudad de Mexicali, pudiéndose establecer oficinas representativas en otras localidades de la entidad.
 
@@ -131,7 +133,7 @@ XXI. Actuar como órgano de consulta, capacitación y asesoría de las dependenc
 
 XXII. Promover la ejecución de acciones para el reconocimiento público de las mujeres, así como para la difusión nacional e internacional de las actividades que las benefician;
 
-XXIII. Promover estudios e investigaciones para instrumentar un sistema de información, registro, seguimiento y evaluación de las condiciones sociales, políticas , económicas y culturales de las mujeres en los distintos ámbitos de la sociedad;
+XXIII. Promover estudios e investigaciones para instrumentar un sistema de información, registro, seguimiento y evaluación de las condiciones sociales, políticas, económicas y culturales de las mujeres en los distintos ámbitos de la sociedad;
 
 XXIV. Participar y organizar reuniones y eventos para el intercambio de experiencias e información en los ámbitos de su competencia sobre los temas de las mujeres;
 
@@ -147,19 +149,25 @@ XXVIII. Emitir informes de evaluación periódica para dar cuenta de resultados 
 
 > <small>(REFORMADA, P.O. 18 DE JUNIO DE 2004)</small>
 
-XXIX. Actualizar periódicamente el diagnóstico sobre la situación de las mujeres, en relación con los avances y operatividad del Programa, y
+XXIX. Actualizar periódicamente el diagnóstico sobre la situación de las mujeres, en relación con los avances y operatividad del Programa, y (sic)
 
-XXX. Las demás que señale el reglamento de esta Ley.
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE JUNIO DE 2004)</small>
+XXX. Llevar a cabo todas las acciones que conforme a la normatividad en materia de prevención, atención, sanción y erradicación de violencia en contra de las mujeres le correspondan; y
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+
+XXXI. Las demás que señale el reglamento de esta Ley.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE JUNIO DE 2004)</small>
 
 ### CAPÍTULO III. DEL PROGRAMA INSTITUCIONAL DE LA MUJER
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 7.
 
-El Programa, es el documento que contiene las acciones que en forma planeada y coordinada, deberán realizarse en beneficio de la mujer en las dependencias y entidades de la Administración Pública del Estado y en los Poderes Legislativo y Judicial.
+El Programa Institucional de la Mujer, es el documento que contiene las acciones que en forma planeada y coordinada, deberán realizarse en beneficio de la mujer en las dependencias y entidades de la Administración Pública del Estado y en los Poderes Legislativo y Judicial.
 
 > <small>(REFORMADO, P.O. 18 DE JUNIO DE 2004)</small>
 
@@ -172,6 +180,14 @@ El Programa se elaborará, en consulta con la sociedad y con base en programas r
 ###### ARTÍCULO 9.
 
 El programa deberá contener las propuestas de los programas de los Comités de consulta municipal a que se refiere esta Ley.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+
+ARTÍCULO 9 BIS.- Además de los programas institucional y estatal de la mujer, de conformidad con la ley en materia de no violencia contra las mujeres, el instituto tendrá a su cargo la elaboración e implementación del Programa en Contra de la Violencia de Género, que tendrá como objetivos la prevención, atención, sanción y erradicación de la violencia en contra de las mujeres en el estado.
+
+El Programa en Contra de la Violencia de Género, es el instrumento jurídico que conforme a las previsiones de los derechos fundamentales consagrados por la Constitución Política de los Estados Unidos Mexicanos, los lineamientos de derecho internacional y la normatividad federal y local en materia de no violencia hacia las mujeres, contiene las políticas, acciones y funciones a cargo de las entidades del poder ejecutivo estatal y los ayuntamientos, necesarias para abatir el problema de violencia de género en el estado.
+
+Las acciones previstas en el Programa en Contra de la Violencia de Género, a cargo de las dependencias del Poder Ejecutivo del Estado y de los Ayuntamientos deberán considerar por lo menos las de fomento, promoción y capacitación en materia de derechos humanos, cultura de la denuncia y modelos socioculturales de conducta a favor de la no violencia de género; así como el diseño e implementación de acciones y programas de trabajo, encaminados a la protección de víctimas de violencia y su atención integral en materia de derechos fundamentales, y a la realización de estudios relacionados con la problemática de la violencia en contra de las mujeres.
 
 ### CAPÍTULO IV. DE LA ESTRUCTURA ORGANICA DEL INSTITUTO
 
@@ -187,7 +203,7 @@ II. La Dirección General, y
 
 III. El Consejo Consultivo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE JUNIO DE 2004)</small>
 
 #### SECCIÓN PRIMERA. DE LA JUNTA DIRECTIVA
 
@@ -271,7 +287,7 @@ De cada sesión se levantará acta circunstanciada que deberá ser firmada por q
 
 (DEROGADO, P.O. 18 DE JUNIO DE 2004)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2004)</small>
 
 ###### ARTÍCULO 17.
 
@@ -317,7 +333,7 @@ XI. Promover las donaciones, legados y demás liberalidades que se otorguen a fa
 
 XII. Las demás que le confiere esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2004)</small>
 
 ###### ARTÍCULO 18.
 
@@ -407,7 +423,7 @@ La Junta Directiva determinará en el reglamento interno, la estructura, organiz
 
 Las o los integrantes del Consejo Consultivo durarán en su encargo tres años y presentarán un informe anual a la Junta Directiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2004)</small>
 
 ###### ARTICULO 25.
 
@@ -427,7 +443,7 @@ V. Dar seguimiento a las políticas, programas, proyectos y acciones que se empr
 
 VI.- Presentar a la Junta Directiva los informes de evaluación en las materias objeto del Instituto.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE JUNIO DE 2004)</small>
 
 ### CAPÍTULO V. DEL PATRIMONIO, VIGILANCIA, REGIMEN LABORAL DEL INSTITUTO Y TERMINOS DE FUSION O EXTINCION
 
@@ -535,7 +551,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 C.P. JORGE RAMOS
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 18 DE JUNIO DE 2004.
 
@@ -544,3 +560,11 @@ UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su public
 P.O. 3 DE JUNIO DE 2011.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 7 DE SEPTIEMBRE DE 2012.
+
+PRIMERO.- Las presentes Reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Ejecutivo deberá realizar las reformas necesarias al reglamento de la ley, para adecuarlo a las presentes reformas.
+
+TERCERO.- El Ejecutivo del Estado deberá crear una partida presupuestal específica en la que se asignen al Instituto las aportaciones necesarias para el cumplimiento de sus funciones y la elaboración, realización e implementación del programa en contra de la violencia de género y de su participación dentro del correspondiente programa federal de apoyo a mujeres víctimas de violencia.
