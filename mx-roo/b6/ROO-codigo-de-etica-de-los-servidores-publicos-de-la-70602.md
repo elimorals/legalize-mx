@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-etica-de-los-servidores-publicos-de-la-70602"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-15"
-last_updated: "2009-10-15"
+last_updated: "2012-09-07"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70602&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # CODIGO DE ETICA DE LOS SERVIDORES PUBLICOS DE LA ADMINISTRACION PUBLICA DEL ESTADO DE QUINTANA ROO
 
-CODIGO DE ETICA DE LOS SERVIDORES PUBLICOS DE LA ADMINISTRACION PUBLICA DEL ESTADO DE QUINTANA ROO
+CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DEL PODER EJECUTIVO DEL ESTADO DE QUINTANA ROO, PUBLICADO EN EL P.O. DE 7 DE SEPTIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO QUEDA SIN EFECTO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: SIN EFECTO.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el jueves 15 de octubre de 2009.
 
@@ -210,3 +212,15 @@ LIC. CORA AMALIA CASTILLA MADRID
 EL SECRETARIO DE LA CONTRALORlA
 
 LIC. FRANCISCO ALBERTO FLOTA MEDRANO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE SEPTIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Código de Ética, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Queda sin efecto el Acuerdo por el que se establece el Código de Ética de los Servidores Públicos de la Administración Pública del Estado de Quintana Roo, publicado el quince de octubre del año dos mil nueve en el Periódico Oficial del Estado de Quintana Roo.
