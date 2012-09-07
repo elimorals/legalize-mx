@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-que-regula-a-los-establecimientos-en-donde-se-46627"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-10-12"
-last_updated: "2010-06-18"
+last_updated: "2012-09-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,9 +22,11 @@ state: "NLE"
 ---
 # REGLAMENTO QUE REGULA A LOS ESTABLECIMIENTOS EN DONDE SE VENDE Y/O SE CONSUMEN BEBIDAS ALCOHOLICAS, EN EL MUNICIPIO DE SALINAS VICTORIA, NUEVO LEON
 
-REGLAMENTO QUE REGULA A LOS ESTABLECIMIENTOS EN DONDE SE VENDE Y/O SE CONSUMEN BEBIDAS ALCOHOLICAS
+REGLAMENTO QUE REGULA A LOS ESTABLECIMIENTOS EN DONDE SE VENDE Y/O SE CONSUMEN BEBIDAS ALCOHÓLICAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA LA PREVENCIÓN Y COMBATE AL ABUSO DEL ALCOHOL Y DE REGULACIÓN PARA SU VENTA Y CONSUMO EN EL MUNICIPIO DE SALINAS VICTORIA, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 7 DE SEPTIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 12 de octubre de 2005.
 
@@ -660,7 +662,7 @@ IV. De Lunes a Jueves: de las 8:00 a las 23:00; los Viernes y Sábados de las 8:
 
 - Restaurantes
 
-V. De Lunes a Jueves: de las 8:00 a las 23:00; los Viernes y Sábados de las 8:00 a las (sic) 1:00 horas del siguiente día y los Domingos de las 08:00 a las 18:00 horas,; tratándose de:
+V. De Lunes a Jueves: de las 8:00 a las 23:00; los Viernes y Sábados de las 8:00 a las (sic) 1:00 horas del siguiente día y los Domingos de las 08:00 a las 18:00 horas,; (sic) tratándose de:
 
 - Centros Sociales
 
@@ -1086,8 +1088,14 @@ Artículo Cuarto.- Gírense instrucciones al C. Presidente Municipal y al Secret
 
 Por lo tanto, envíese al Periódico Oficial del Estado, por conducto de la Secretaría General de Gobierno, para su publicación en dicho órgano y se le dé el debido cumplimiento.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 18 DE JUNIO DE 2010.
 
 UNICO.- Las presentes modificaciones, entraran en vigor al Día siguiente de su publicación.
+
+P.O. 7 DE SEPTIEMBRE DE 2012.
+
+Primero.- El presente Reglamento entrará en vigor a los 3 días siguientes de su publicación en el Periódico Oficial del Estado de Nuevo león.
+
+Segundo.- Se abroga el Reglamento que Regula a los Establecimientos en donde se Vende y/o se Consumen Bebidas Alcohólicas, (sic) Nuevo León publicado en el Periódico Oficial del Estado del 12 de octubre de 2005.
