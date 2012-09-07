@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-del-estado-de-guerrero-5098"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-14"
-last_updated: "2012-08-31"
+last_updated: "2012-09-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CÓDIGO PENAL DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 14 de noviembre de 1986.
 
@@ -801,9 +801,23 @@ I.- A partir del momento en que se consumó el delito, si fuere instantáneo;
 
 II.- A partir del día en que se realizó el último acto de ejecución o se omitió la conducta debida, si el delito fuere en grado de tentativa;
 
-III.- Desde el día en que se realizó la última conducta, tratándose de delito continuado, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV.- Desde la cesación de la consumación en el delito permanente.
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+
+III.- Desde el día en que se realizó la última conducta, tratándose de delito continuado;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+
+IV.- Desde la cesación de la consumación en el delito permanente, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+
+V.- En los casos de delitos contra el libre desarrollo de la personalidad, la libertad y el normal desarrollo psicosexual y en su salud mental, así como los previstos en la Ley para Prevenir y Sancionar la Trata de Personas, que hubieren sido cometidos en contra de una persona menor de dieciocho años de edad, el plazo para la prescripción comenzará a correr a partir del día en que la víctima cumpla la mayoría de edad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 1999)</small>
 
@@ -919,6 +933,12 @@ Si se tratare de un menor y éste, al sufrir el daño, se comprueba mediante dic
 
 107.- Al que dolosamente lesione a su ascendiente o descendiente consanguíneo en línea recta, hermano, cónyuge, concubina o concubinario, o persona con quien se tenga o haya tenido una relación de hecho, adoptante o adoptado con conocimiento de ese parentesco o relación, se le impondrá hasta una mitad más de las penas aplicables por la lesión inferida.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+
+107 bis. Si la víctima es o fue pariente consanguíneo, por afinidad o civil, o tiene o tuvo una relación de pareja con el agresor se aumentará la pena hasta en una tercera parte en su mínimo y en su máximo, con arreglo a los artículos que preceden, salvo que también se tipifique el delito de violencia familiar.
+
 ### CAPITULO III. DISPOSICIONES COMUNES AL HOMICIDIO Y LESIONES
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2002)</small>
@@ -951,6 +971,12 @@ e).- Cuando el activo sea un hombre y el pasivo una mujer o cuando sea motivado 
 
 f).- Cuando exista una situación de vulnerabilidad motivada por la discriminación.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+
+g).- Se ocasione en situaciones de violencia familiar.
+
 > <small>(REFORMADA, P.O. 20 DE ABRIL DE 1999)</small>
 
 III.- La alevosía consiste en que el activo sorprenda intencionalmente a alguien de improviso o empleando asechanza u otro medio que no le dé lugar a defenderse ni evitar el mal que se le quiere hacer.
@@ -969,23 +995,25 @@ Se aplicará la misma pena a que se refiere el artículo 108 de este ordenamient
 
 El que cometa este delito no tendrá derecho a gozar de los beneficios de remisión parcial de la pena, tratamiento preliberacional y libertad preparatoria que prevé la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-###### ARTÍCULO 108 Bis.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
 
-Comete el delito de feminicidio y se le impondrán de treinta a cincuenta años de prisión, al que prive de la vida a una mujer, cuando concurra cualquiera de las circunstancias siguientes:
+108 BIS. Comete el delito de feminicidio y se le aplicara sanción de treinta a cincuenta años de prisión y de cincuenta a mil quinientos días multa, al que prive de la vida a una mujer cuando concurra cualquiera de las siguientes circunstancias:
 
-l.- Para ocultar una violación;
+I. Cuando la víctima presente signos de violencia sexual de cualquier tipo;
 
-II.- Por desprecio u odio a la víctima;
+II. Por desprecio u odio a la víctima, motivado en la discriminación;
 
-III. - Por tortura o tratos crueles o degradantes;
+III. Por tortura, tratos crueles, inhumanos, o degradantes;
 
-IV.- Exista o haya existido una relación de afecto entre la víctima y el agresor;
+IV. Cuando a la víctima se le hayan infligido lesiones infamantes, degradantes o mutilaciones, previa o posterior a la privación de la vida;
 
-V.- Se haya realizado por violencia familiar; o
+V. Cuando exista o haya existido una relación de pareja o de carácter conyugal entre la víctima y el agresor;
 
-VI.- La víctima se haya encontrado en estado de indefensión.
+VI. Cuando se haya realizado por violencia familiar, y
+
+VII. Cuando la víctima se haya encontrado en estado de indefensión, entendiéndose éste como la situación de desprotección real o sentida de la víctima, o su incapacidad física, psicológica o emocional para repeler el hecho.
 
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 1999)</small>
 
@@ -1083,7 +1111,7 @@ III.- Cuando a juicio de dos médicos exista razón suficiente para suponer que 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE JULIO DE 2012)</small>
 
-### CAPITULO VI. DELITOS CONTRA LA SALUD EN SU MODALIDAD DE NARCOMENUDEO
+### CAPÍTULO VI. DELITOS CONTRA LA SALUD EN SU MODALIDAD DE NARCOMENUDEO
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1419,13 +1447,33 @@ La misma pena se aplicará cuando la violación se ejecute con motivo de un asal
 
 ### CAPÍTULO II. ABUSO SEXUAL
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+
+143. Al que sin consentimiento de una persona, sea cual fuere su sexo y sin el propósito de llegar a la cópula, ejecute en ella un acto erótico sexual o la obligue a ejecutarlo, se le impondrá de tres años a seis años de prisión y de cincuenta a doscientos días multa.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+
+Si el acto erótico sexual se ejecuta en persona menor de doce años, que no tenga capacidad de comprender el significado del hecho o que por cualquier causa no pudiere resistirlo, se le aplicara una pena de cuatro años a ocho años de prisión y cincuenta a quinientos días multa.
+
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 1999)</small>
 
-143.- Al que sin consentimiento de una persona, sea cual fuere su sexo y sin el propósito de llegar a la cópula, ejecute en ella un acto erótico sexual o la obligue a ejecutarlo, se le impondrá de seis meses a tres años de prisión.
-
-Si el acto erótico sexual se ejecuta en persona menor de doce años, que no tenga capacidad de comprender el significado del hecho o que por cualquier causa no pudiere resistirlo, se le aplicará una pena de dos a cuatro años de prisión y de diez a treinta días multa.
-
 Se aplicarán las mismas penas cuando el agente del delito obligue al pasivo a ejecutarle actos eróticos sexuales o la obligue a sí misma a realizarlo en su caso a un tercero.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+
+Para efectos de este Código se entiende por acto erótico sexual cualquier acción lujuriosa como tocamientos o manoseos corporales obscenos, o representen actos explícitamente sexuales u obliguen a la víctima a representarlos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+
+También se considera abuso sexual la exhibición ante la víctima, sin su consentimiento, de los glúteos o de los genitales masculinos o femeninos.
 
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 1999)</small>
 
@@ -2054,6 +2102,12 @@ En todos los casos el Ministerio Público al momento de recibir la denuncia, aco
 Cuando exista reincidencia por parte del activo, se aumentará la pena en una tercera parte establecida entre el mínimo y el máximo.
 
 > <small>(DEROGADO ULTIMO PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+
+194 D. Se equiparará a la violencia familiar y se sancionará con seis meses a tres años de prisión al que realice cualquiera de los actos señalados en los artículos 194 A y 194 C, en contra de la persona que esté sujeta a la custodia, guarda, protección, educación, instrucción o cuidado de dicha persona.
 
 #### SECCION TERCERA. DELITOS CONTRA LA SOCIEDAD
 
@@ -2815,13 +2869,23 @@ XXX.- Propiciar o favorecer el quebrantamiento de alguna pena no privativa de li
 
 XXXI.- Aprovechar el poder, el empleo o el cargo para satisfacer indebidamente un interés propio; o
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXXXII.- Ejercer presión de cualquier índole a una persona o sus representantes para otorgar el perdón en los delitos que se persigan por querella.
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2002)</small>
+XXXII.- Ejercer presión de cualquier índole a una persona o sus representantes para otorgar el perdón en los delitos que se persigan por querella, y
 
-270.- Al que cometa alguno de los delitos a que se refiere el Artículo anterior, se le aplicará prisión de tres meses a tres años y de treinta a ciento ochenta días multa, excepto en los casos previstos en las fracciones IV, VIII, XV, XVI, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV y XXVI que se sancionarán con prisión de dos a siete años y de sesenta a trescientos sesenta días multa; y el contenido en la fracción XXIX que se sancionará con prisión de cuatro a doce años y de noventa a setecientos veinte días multa.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+
+XXXIII.- Obligue a una persona o a su representante a otorgar el perdón en los delitos que se persiguen por querella.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+
+270.- Al que cometa alguno de los delitos a que se refiere el Artículo anterior, se le aplicará prisión de tres meses a tres años y de treinta a ciento ochenta días multa, excepto en los casos previstos en las fracciones IV, VIII, XV, XVI, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI y XXXIII que se sancionarán con prisión de dos a siete años y de sesenta a trescientos sesenta días multa; y el contenido en la fracción XXIX que se sancionará con prisión de cuatro a doce años y de noventa a setecientos veinte días multa.
 
 Además de las penas establecidas en el párrafo que antecede, el agente sufrirá privación del cargo e inhabilitación para obtener otro cargo público hasta por un término igual al de la pena de prisión señalada por la ley para el delito cometido.
 
@@ -3313,6 +3377,14 @@ III.- Destruya en predio ajeno los nidos, huevos y crías de aves de cualquier e
 
 311.- Cuando en la comisión de alguno de los delitos previstos en este Capítulo, intervenga un servidor público en ejercicio, con motivo de sus funciones o aprovechándose de su calidad de servidor, la pena prevista se aumentará hasta en una mitad y se le inhabilitará para ocupar cargo, empleo o comisión por un tiempo igual al que se le hubiera fijado como pena privativa de libertad, sanción que deberá contabilizarse a partir del día en que el sentenciado haya cumplido con la prisión o ésta se hubiere tenido por cumplida.
 
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
+
+P.O. 10 DE ENERO DE 1989.
+
+PRIMERO.- Se aplaza el dictamen, discusión y aprobación en su caso, de las reformas y adiciones al Código Penal vigente.
+
+SEGUNDO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
 #### SECCION QUINTA. DELITOS CONTRA EL AMBIENTE, LOS RECURSOS NATURALES, LA GESTION AMBIENTAL Y LA PROTECCION A LA FAUNA
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE ABRIL DE 1999)</small>
@@ -3362,14 +3434,6 @@ EL SECRETARIO DE GOBIERNO
 LIC. ANGEL H. AGUIRRE RIVERO
 
 (Rúbrica)
-
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
-
-P.O. 10 DE ENERO DE 1989.
-
-PRIMERO.- Se aplaza el dictamen, discusión y aprobación en su caso, de las reformas y adiciones al Código Penal vigente.
-
-SEGUNDO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 27 DE JULIO DE 1990.
 
@@ -3604,3 +3668,9 @@ El presente Decreto entrará en vigor a los dos meses siguientes del día de su 
 ###### ARTÍCULO SEGUNDO.
 
 Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Guerrero, para los efectos legales conducentes.
+
+P.O. 7 DE SEPTIEMBRE DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor a los sesenta días siguientes de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Comuníquese al Titular del Poder Ejecutivo para los efectos legales correspondientes.
