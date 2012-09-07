@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-general-de-acciones-de-urbanizacion-para-el-45592"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-11-16"
-last_updated: "2010-11-26"
+last_updated: "2012-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 ---
 # REGLAMENTO GENERAL DE ACCIONES DE URBANIZACION PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-REGLAMENTO GENERAL DE ACCIONES DE URBANIZACION PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
+REGLAMENTO GENERAL DE ACCIONES DE URBANIZACIÓN PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2012.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 16 de noviembre de 2001.
 
@@ -331,11 +331,19 @@ d.- La determinación de las áreas para equipamiento cuya propiedad deberá ced
 
 e.- Las etapas en que se ejecutará la acción de urbanización.
 
-f.- Los plazos para la terminación de las obras de urbanización, y las garantías que en su caso deberá presentar el urbanizador o promotor inmobiliario para asegurar dichos plazos.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+
+f.- Los plazos para la terminación de las obras de urbanización, las garantías y fianzas que deberá presentar el urbanizador y promotor inmobiliario para asegurar dichos plazos.
 
 g.- Las condiciones a que se sujetará la autorización para transmitir el dominio de los predios resultantes de la acción de urbanización.
 
-h.- Los demás elementos e información que para cada caso se determinan en el presente Reglamento, o en los formatos de solicitud respectivos.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+
+h.- Acuerdo de Cabildo; donde manifieste que el urbanizador o promotor inmobiliario, cumple con la normatividad vigente, para realizar la acción de urbanización.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+
+i.- Los demás elementos e información que para cada caso se determinan en el presente Reglamento, ó en los formatos de solicitud respectivos
 
 IV.- Todos los gastos y derechos que se causen en el procedimiento de autorización, serán a cargo del urbanizador o promotor inmobiliario;
 
@@ -623,7 +631,7 @@ Hechas las inscripciones a que se refiere el artículo anterior y cumplidas las 
 
 ###### Artículo 49.
 
-Será necesario obtener autorización para realizar la acción de urbanización de relotificadón, cuando se requiera modificar la ubicación, medidas, colindancias, o superficies autorizadas en la memoria descriptiva de un fraccionamiento autorizado.
+Será necesario obtener autorización para realizar la acción de urbanización de relotificación, cuando se requiera modificar la ubicación, medidas, colindancias, o superficies autorizadas en la memoria descriptiva de un fraccionamiento autorizado.
 
 ###### Artículo 50.
 
@@ -1171,11 +1179,11 @@ CUARTO.- Las acciones de urbanización que se hubieren autorizado antes de la en
 
 QUINTO.- Las subdivisiones que se hubieren autorizado y que no se hubieren inscrito en el Registro Público de la Propiedad y de Comercio, antes de la entrada en vigor del presente Reglamento, deberán agotar nuevamente el procedimiento de autorización respectivo.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 22 DE JULIO DE 2005.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
 
 P.O. 7 DE SEPTIEMBRE DE 2007
 
@@ -1192,3 +1200,9 @@ P.O. 12 DE MARZO DE 2010.
 P.O. 26 DE NOVIEMBRE DE 2010.
 
 Único.- El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 7 DE SEPTIEMBRE DE 2012.
+
+SE TRANSCRIBE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
+
+SEGUNDO.- EL PRESENTE ACUERDO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA.
