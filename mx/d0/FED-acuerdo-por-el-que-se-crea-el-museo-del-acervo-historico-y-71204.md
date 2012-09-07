@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-por-el-que-se-crea-el-museo-del-acervo-historico-y-7120
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-12-18"
-last_updated: "2009-12-18"
+last_updated: "2012-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71204&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2009-12-14"
 ---
 # ACUERDO POR EL QUE SE CREA EL MUSEO DEL ACERVO HISTORICO Y ARTISTICO DE LA SECRETARIA DE RELACIONES EXTERIORES
 
-ACUERDO POR EL QUE SE CREA EL MUSEO DEL ACERVO HISTORICO Y ARTISTICO DE LA SECRETARIA DE RELACIONES EXTERIORES
+ACUERDO POR EL QUE SE CREA EL MUSEO DEL ACERVO HISTÓRICO Y ARTÍSTICO DE LA SECRETARIA DE RELACIONES EXTERIORES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE SEPTIEMBRE DE 2012.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 18 de diciembre de 2009.
 
@@ -47,7 +47,9 @@ SEGUNDO.- El Museo del Acervo Histórico y Artístico de la Secretaría de Relac
 
 TERCERO.- El Museo del Acervo Histórico y Artístico de la Secretaría de Relaciones Exteriores será de carácter público y el acceso será gratuito.
 
-CUARTO.- La Dirección General de Cooperación Educativa y Cultural en coordinación con la Dirección General del Acervo Histórico Diplomático, determinarán las modalidades de funcionamiento del Museo.
+> <small>(REFORMADO, D.O.F. 7 DE SEPTIEMBRE DE 2012)</small>
+
+CUARTO.- El Instituto Matías Romero determinará las modalidades de funcionamiento del Museo.
 
 ## TRANSITORIOS
 
@@ -55,6 +57,14 @@ PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente al de su publi
 
 SEGUNDO.- La administración del Museo se efectuará con los recursos humanos, materiales y financieros que tiene asignados la Secretaría de Relaciones Exteriores, por lo que los gastos que se generen por su operación, conservación y mantenimiento, deberán ser cubiertos con los recursos autorizados en el Presupuesto de Egresos de la Federación para el año 2009 y para los años subsecuentes.
 
-TERCERO.- La Dirección General de Cooperación Educativa y Cultural en coordinación con la Dirección General de Acervo Histórico Diplomático, elaborarán los Manuales de Organización y de Procedimientos del Museo del Acervo Histórico y Artístico de la Secretaría de Relaciones Exteriores.
+> <small>(REFORMADO, D.O.F. 7 DE SEPTIEMBRE DE 2012)</small>
+
+TERCERO.- El Instituto Matías Romero elaborará los Manuales de Organización y de Procedimientos del Museo del Acervo Histórico y Artístico de la Secretaría de Relaciones Exteriores.
 
 Dado en México, Distrito Federal, a los catorce días del mes de diciembre de dos mil nueve.- La Secretaria de Relaciones Exteriores, Patricia Espinosa Cantellano.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 7 DE SEPTIEMBRE DE 2012.
+
+UNICO.- El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
