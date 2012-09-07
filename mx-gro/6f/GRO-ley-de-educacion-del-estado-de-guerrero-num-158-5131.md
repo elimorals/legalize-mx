@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-educacion-del-estado-de-guerrero-num-158-5131"
 country: "mx"
 rank: "ley"
 publication_date: "1995-04-21"
-last_updated: "2011-12-23"
+last_updated: "2012-09-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE EDUCACIÓN DEL ESTADO DE GUERRERO NUM. 158
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 21 de abril de 1995.
 
@@ -87,7 +87,9 @@ La función social educativa que presten las universidades y demás institucione
 
 Toda persona tiene derecho a recibir educación y, por lo tanto, los habitantes del Estado tienen las mismas oportunidades de acceso al sistema educativo estatal, con sólo satisfacer los requisitos que establezcan las disposiciones generales aplicables.
 
-La educación será medio fundamental para adquirir, transmitir y acrecentar la cultura; deberá ser proceso permanente que contribuya al desarrollo de las personas y a la formación de la sociedad, así como factor determinante para la adquisición de conocimientos y para formar al hombre y a la mujer de manera que tenga sentido de solidaridad social con calidad y equidad.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+
+La educación es el medio fundamental para adquirir, transmitir y acrecentar la cultura; es un proceso permanente que contribuye al desarrollo y formación del individuo y contribuya a la transformación de la sociedad, y es factor determinante para la adquisición de conocimientos y para formar a mujeres y a hombres, de manera que tengan sentido de solidaridad social.
 
 En el proceso educativo deberá asegurarse la participación activa del educando, estimulando su iniciativa y su sentido de responsabilidad y equidad social para alcanzar los fines a que se refiere el artículo 7 de esta Ley.
 
@@ -95,13 +97,13 @@ En el proceso educativo deberá asegurarse la participación activa del educando
 
 Es obligación del Estado prestar servicios educativos para que toda la población pueda cursar la educación preescolar, primaria y secundaria. Estos servicios se prestarán en el marco del federalismo y la concurrencia previstos en la Constitución Política de los Estados Unidos Mexicanos y conforme a la distribución de la función social educativa establecida en la presente Ley.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTICULO 4o.
 
-Todos los habitantes del Estado, deben cursar la educación primaria y secundaria.
+Todos los habitantes del Estado deben cursar la educación preescolar, primaria, secundaria y media superior.
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 2004)</small>
-
-Es obligación de los habitantes del Estado de Guerrero hacer que sus hijos, hijas o pupilos y pupilas menores de edad cursen la educación preescolar, primaria y secundaria.
+Es obligación de los habitantes del Estado de Guerrero hacer que sus hijos, hijas, pupilos o pupilas, cursen la educación preescolar, primaria, secundaria y media superior, en los términos que establezca la ley.
 
 ###### ARTICULO 5o.
 
@@ -159,13 +161,17 @@ XI.- Proporcionar a los educandos de las escuelas indígenas de tiempo completo,
 
 XII.- Generar e innovar actitudes solidarias y humanistas en los educandos para crear conciencia de la importancia de la nutrición, de la educación física, la preservación de la salud, educación sexual, planeación familiar, paternidad y maternidad responsables, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana, así como propiciar el rechazo a los vicios y adicciones.
 
-> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
 
-XIII.- Hacer conciencia de la necesidad de un aprovechamiento racional de los recursos naturales y de la protección del ambiente, y
+XIII.- Hacer conciencia de la necesidad de un aprovechamiento racional de los recursos naturales y de la protección del ambiente, así como proporcionar los elementos formativos básicos que le permitan adaptarse ante los efectos que representan el cambio climático y otros fenómenos naturales;
 
-> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
 
-XIV.- Fomentar actitudes solidarias y positivas hacia el ahorro y el bienestar general.
+XIV.- Fomentar y afianzar actitudes de respeto que incidan en la prevención de los accidentes de tránsito, y
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+
+XIV (SIC).- Fomentar actitudes solidarias y positivas hacia el ahorro y el bienestar general.
 
 ###### ARTICULO 8o.
 
@@ -177,9 +183,11 @@ II.- Será nacional, en cuanto -sin hostilidades ni exclusivismos- atenderá a l
 
 III.- Contribuirá a la mejor convivencia humana, tanto por los elementos que aporte a fin de robustecer en el educando, junto con el aprecio para la dignidad de la persona y la integridad de la familia, la convicción del interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todos los hombres, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTICULO 9o.
 
-Además de impartir la educación preescolar, primaria y secundaria, el Estado promoverá y atenderá directamente, mediante sus organismos descentralizados, a través de apoyos financieros, o bien, por cualquier otro medio todos los tipos y modalidades educativos, incluida la educación superior, necesarios para el desarrollo de la Entidad, apoyará la investigación científica, tecnológica y alentará el fortalecimiento y la difusión de la cultura nacional y universal.
+Además de impartir la educación preescolar, primaria, secundaria y media superior, el Estado promoverá y atenderá directamente, mediante sus organismos descentralizados, a través de apoyos financieros, o bien, por cualquier otro medio todos los tipos y modalidades educativas, incluida la educación superior, necesarios para el desarrollo de la entidad, apoyará la investigación científica, tecnológica y alentará el fortalecimiento y la difusión de la cultura regional, nacional y en la medida de sus posibilidades la universal.
 
 ###### ARTICULO 10.
 
@@ -327,7 +335,11 @@ ARTICULO 19 BIS.- Es obligación de las Autoridades Educativas en coordinación 
 
 De igual forma es obligación de las Autoridades Educativas en coordinación con el Sistema para el Desarrollo Integral de la Familia y la Secretaría de Salud, desarrollar las acciones para la dotación de alimentos a las escuelas de tiempo completo de educación indígena y de educación básica en el Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE OCTUBRE DE 2009)</small>
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+
+Asimismo, es obligación de las Autoridades Educativas en coordinación con la Secretaría de Seguridad Pública y protección Civil, diseñar estrategias de integración de las actividades extracurriculares relacionadas con la educación vial, para asegurar que en las escuelas públicas y privadas de los niveles básico, media superior y superior, las alumnas y los alumnos tengan una formación común en cuanto la circulación vial y la responsabilidad ciudadana, a fin de disminuir la siniestralidad en accidentes de tránsito.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 20.
 
@@ -515,9 +527,11 @@ El medio superior comprende el nivel de bachillerato, los demás niveles equival
 
 El superior se imparte después del bachillerato o de sus equivalentes. Está compuesto por la licenciatura, la especialidad, la maestría, y el doctorado, así como por opciones terminales previas a la conclusión de la licenciatura. Comprende la educación normal en todos sus niveles y especialidades.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTICULO 38.
 
-La educación básica, en sus tres niveles, tendrá las adaptaciones requeridas para responder a las características lingüísticas y culturales de cada uno de los diversos grupos indígenas del Estado, así como la población rural dispersa y grupos migratorios.
+La educación básica, en sus tres niveles, tendrá las adaptaciones requeridas para responder a las características lingüísticas y culturales de cada uno de los diversos grupos indígenas del Estado, así como la población rural dispersa y grupos migratorios. Para tal efecto, se promoverá la educación bilingüe e intercultural con libros y material didáctico
 
 ###### ARTICULO 39.
 
@@ -601,7 +615,13 @@ Corresponde a la Secretaría de Educación Pública determinar los planes y prog
 
 Para tales efectos la Secretaría de Educación de Guerrero y los diversos sectores sociales involucrados en la educación, podrán emitir opiniones para su consideración por la Secretaría de Educación Pública, por medio del Consejo Estatal de Participación Social en la Educación a que se refiere el artículo 65 de esta Ley.
 
-Las autoridades educativas de la Entidad propondrán para consideración y, en su caso, autorización de la Secretaría de Educación Pública, contenidos regionales que -sin mengua del carácter nacional de los planes y programas citados- permitan que los educandos adquieran un mejor conocimiento de la historia, geografía, costumbres, tradiciones y demás aspectos propios de la Entidad y Municipios respectivos.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+
+Las autoridades educativas de la Entidad propondrán para consideración y, en su caso, autorización de la Secretaría de Educación Pública, contenidos regionales que -sin mengua de carácter nacional de los planes y programas citados- permitan que los educandos adquieran un mejor conocimiento de la historia, geografía, costumbres, tradiciones, los ecosistemas y demás aspectos propios de la Entidad y Municipios respectivos.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+
+Asimismo, se considerará a la educación ambiental como un componente esencial en el sistema estatal de educación desde una perspectiva transversal, debiendo estar presente en todos los niveles y modalidades de enseñanza, en su carácter formal y no formal y deberá ser incluida en los cursos de formación de profesores en todos los niveles escolares.
 
 La Ley General de Educación dispone que la Secretaría de Educación Pública realice revisiones y evaluaciones sistemáticas y continuas de los planes y programas a que se refiere el presente artículo, para mantenerlos permanentemente actualizados.
 
@@ -945,7 +965,7 @@ C. LIC. JOSE RUBEN ROBLES CATALAN.
 
 Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 13 DE JULIO DE 2004.
 
@@ -986,3 +1006,17 @@ El Titular del Ejecutivo del Estado, en la propuesta de Decreto de Presupuesto d
 ###### ARTÍCULO CUARTO.
 
 Comuníquese al Titular del Poder Ejecutivo para los efectos legales correspondientes y su publicación en el Periódico Oficial del Estado para el conocimiento general.
+
+P.O. 7 DE SEPTIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Comuníquese al Titular del Poder Ejecutivo para los efectos legales correspondientes.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, para el conocimiento general.
