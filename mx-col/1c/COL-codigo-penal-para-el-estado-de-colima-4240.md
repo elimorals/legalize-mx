@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-4240"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-07-27"
-last_updated: "2012-07-21"
+last_updated: "2012-09-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO PENAL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Colima, el sábado 27 de julio de 1985.
 
@@ -113,11 +113,13 @@ Cuando el Agente lleve a cabo una conducta idónea para producir un resultado, �
 
 Responde también del resultado típico producido, el que omite impedirlo, si podía hacerlo de acuerdo con las circunstancias, y si debía jurídicamente evitarlo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JULIO DE 2012)</small>
+(NOTA: EL 31 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 54/2012, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS QUE INDICAN: “TRATA DE PERSONAS, previsto en el artículo 161”; “SECUESTRO y SECUESTRO EXPRÉS previstos por los artículos 199 y 199 BIS, respectivamente”; así como “Y SECUESTRO;”, DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-###### ARTÍCULO 10.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
 
-Se califican como delitos graves, para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, los siguientes delitos previstos por este Código: REBELIÓN, tipificado por el artículo 104; TERRORISMO, conforme a los párrafos primero y segundo del artículo 106 BIS; los supuestos previstos por el artículo 108; USO INDEBIDO DE INFORMACIÓN SOBRE ACTIVIDADES DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA, DE PROCURACIÓN E IMPARTICIÓN DE JUSTICIA, ASÍ COMO LAS DEL SISTEMA PENITENCIARIO, tipificado por el artículo 115 BIS, FALSEDAD ANTE LA AUTORIDAD, establecido por el artículo 117; EVASIÓN DE PRESOS, conforme al segundo párrafo del artículo 121; OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA, en todas sus formas y modalidades que comprenden los artículos 126 BIS, 126 BIS 1, 126 BIS 4 y 126 BIS 5; PECULADO, tipificado por el artículo 131; DELITOS CONTRA LA SEGURIDAD VIAL Y LOS MEDIOS DE TRANSPORTE, establecidos en el segundo párrafo del artículo 145; CORRUPCIÓN Y EXPLOTACIÓN DE PERSONAS, señalados en el segundo y tercer párrafo del artículo 154; PORNOGRAFÍA, tipificado en el artículo 157 BIS 2; TURISMO SEXUAL, en los términos de los numerales 157 BIS 6 y 157 BIS 7; LENOCINIO, en los términos del segundo párrafo del artículo 158 y el numeral 159; TRATA DE PERSONAS, previsto en el artículo 161; HOMICIDIO, tipificado por los artículos 169, 170, 171, 172, tratándose del provocador, y las fracciones II y III del 173; LESIONES, conforme los artículos 174 fracciones VI y VII, 175, 176, 177, 178, 179, 183; HOMICIDIO Y LESIONES CULPOSAS, previstos en el artículo 184 BIS; FEMINICIDIO, tipificado en el artículo 191 BIS 5; PRIVACIÓN DE LA LIBERTAD, previsto por el artículo 197; SECUESTRO, previsto por el artículo 199, respectivamente; DESAPARICIÓN FORZADA DE PERSONAS en todas sus formas y modalidades que comprenden los artículos 202 BIS y 202 BIS 1 VIOLACIÓN, en todas sus formas y modalidades que comprenden los artículos 206, 207, 208, 209, y 210; ABUSO SEXUAL, en lo previsto en el segundo párrafo del artículo 215; PEDERASTIA, en todas sus formas y modalidades que comprenden los artículos 216 BIS 1 y 216 BIS 2; ROBO, respecto de los supuestos del inciso B) del artículo 227, 227 BIS, 227 BIS 1, 227 BIS 2, 227 BIS 3, 227 BIS 4 y 227 BIS 5; los FRAUDES ESPECÍFICOS, previstos en las fracciones III, IV, V Y VI del artículo 234; DAÑOS, tipificado por el artículo 238. Igualmente se consideran graves los delitos de: TENTATIVA DE HOMICIDIO Y SECUESTRO; TENTATIVA DE ROBO, previsto por el inciso b) del artículo 227; y TENTATIVA DE VIOLACIÓN, previsto por los artículos 206, 207, 208, 209 y 210, así como los DELITOS CONTRA EL AMBIENTE, previstos por los artículos 243 en su segundo párrafo y la fracción III del 244.
+###### ARTICULO 10.
+
+Se califican como delitos graves, para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, los siguientes delitos previstos por este Código: REBELIÓN, tipificado por el artículo 104; TERRORISMO, conforme a los párrafos primero y segundo del artículo 106 BIS; los supuestos previstos por el artículo 108; USO INDEBIDO DE INFORMACIÓN SOBRE ACTIVIDADES DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA, DE PROCURACIÓN E IMPARTICIÓN DE JUSTICIA, ASÍ COMO LAS DEL SISTEMA PENITENCIARIO, tipificado por el artículo 115 BIS, FALSEDAD ANTE LA AUTORIDAD, establecido por el artículo 117; EVASIÓN DE PRESOS, conforme al segundo párrafo del artículo 121; OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA, en todas sus formas y modalidades que comprenden los artículos 126 BIS, 126 BIS 1, 126 BIS 4 y 126 BIS 5; PECULADO, tipificado por el artículo 131; DELITOS CONTRA LA SEGURIDAD VIAL Y LOS MEDIOS DE TRANSPORTE, establecidos en el segundo párrafo del artículo 145; CORRUPCIÓN Y EXPLOTACIÓN DE PERSONAS, señalados en el segundo y tercer párrafo del artículo 154; PORNOGRAFÍA, tipificado en el artículo 157 BIS 2; TURISMO SEXUAL, en los términos de los numerales 157 BIS 6 y 157 BIS 7; LENOCINIO, en los términos del segundo párrafo del artículo 158 y el numeral 159; TRATA DE PERSONAS, PREVISTO EN EL ARTÍCULO 161; HOMICIDIO, tipificado por los artículos 169, 170, 171, 172, tratándose del provocador, y las fracciones II y III del 173; LESIONES, conforme los artículos 174 fracciones VI y VII, 175, 176, 177, 178, 179, 183; HOMICIDIO Y LESIONES CULPOSAS, previstos en el artículo 184 BIS; FEMINICIDIO, tipificado en el artículo 191 BIS 5; PRIVACIÓN DE LA LIBERTAD, previsto por el artículo 197; SECUESTRO Y SECUESTRO EXPRÉS PREVISTOS POR LOS ARTÍCULOS 199 Y 199 BIS, RESPECTIVAMENTE;; (sic) DESAPARICIÓN FORZADA DE PERSONAS en todas sus formas y modalidades que comprenden los artículos 202 BIS y 202 BIS 1 VIOLACIÓN, en todas sus formas y modalidades que comprenden los artículos 206, 207, 208, 209, 209 BIS y 210; ABUSO SEXUAL, en lo previsto en el segundo párrafo del artículo 215; PEDERASTIA, en todas sus formas y modalidades que comprenden los artículos 216 BIS 1 y 216 BIS 2; ROBO, respecto de los supuestos del inciso B) del artículo 227, 227 BIS, 227 BIS 1, 227 BIS 2, 227 BIS 3, 227 BIS 4 y 227 BIS 5; los FRAUDES ESPECÍFICOS, previstos en las fracciones III, IV, V Y VI del artículo 234; EXTORSIÓN previsto en el artículo 234 BIS; DAÑOS, tipificado por el artículo 238. Igualmente se consideran graves los delitos de: TENTATIVA DE HOMICIDIO Y SECUESTRO; TENTATIVA DE ROBO, previsto por el inciso b) del artículo 227; y TENTATIVA DE VIOLACIÓN, previsto por los artículos 206, 207, 208, 209 y 210, así como los DELITOS CONTRA EL AMBIENTE, previstos por los artículos 243 en su segundo párrafo y la fracción III del 244.
 
 (REFORMADO, P.O. 18 DE JULIO DE 2006) (F. DE E., 15 DE OCTUBRE DE 2011)
 
@@ -1647,9 +1649,9 @@ Al que de manera permanente forme parte de una asociación o banda de tres o má
 
 Cuando la asociación delictuosa asuma el carácter de delincuencia organizada, las sanciones aplicables serán de cinco a quince años de prisión y multa hasta por cien unidades.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
 
-Deben entenderse como delincuencia organizada, los casos en los que el propósito del grupo sea la comisión de alguno o algunos de los siguientes delitos: evasión de presos previsto en el artículo 121; operaciones con recursos de procedencia ilícita, en todas sus formas y modalidades que comprenden los artículos 126 BIS, 126 BIS 1, 126 BIS 2, 126 BIS 3, 126 BIS 4 y 126 BIS 5; corrupción y explotación de personas señalados en el artículo 154; pornografía mencionada en el numeral 157 BIS 2; turismo sexual, en los términos de los numerales 157 BIS 6 y 157 BIS 7; lenocinio en su artículo 158; trata de personas en el artículo 161; homicidio señalado en los artículos 168, 169, 170, y 183; secuestro establecido en el artículo 199; amenazas y coacción mencionados en el artículo 203; violación citado en el artículo 206 parte final, artículo 207 último párrafo, 208, 209 y en lo conducente el 210; y robo referido en los artículos 226 y 227.
+Deben entenderse como delincuencia organizada, los casos en los que el propósito del grupo sea la comisión de alguno o algunos de los siguientes delitos: evasión de presos previsto en el artículo 121; operaciones con recursos de procedencia ilícita, en todas sus formas y modalidades que comprenden los artículos 126 BIS, 126 BIS 1, 126 BIS 2, 126 BIS 3, 126 BIS 4 y 126 BIS 5; corrupción y explotación de personas señalados en el artículo 154; pornografía mencionada en el numeral 157 BIS 2; turismo sexual, en los términos de los numerales 157 BIS 6 y 157 BIS 7; lenocinio en su artículo 158; trata de personas en el artículo 161; homicidio señalado en los artículos 168, 169, 170 y 183; secuestro establecido en el artículo 199; amenazas y coacción mencionados en el artículo 203; violación citado en el artículo 206 parte final, artículo 207 último párrafo, 208, 209 y en lo conducente el 210; robo referido en los artículos 226 y 227; y extorsión señalado en el artículo 234 BIS.
 
 > <small>(ADICIONADO, P.O. 14 DE MAYO DE 2011)</small>
 
@@ -2317,6 +2319,10 @@ Igual agravación se aplicará cuando el ofendido sea ascendiente consanguíneo 
 
 Cuando el lesionado sea un descendiente consanguíneo o adoptado, incapaces, del autor de las lesiones y éste tenga conocimiento de la relación, se sancionarán según sean lesiones simples o calificadas.
 
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+ARTICULO 179 BIS.- Cuando dolosamente se infieran lesiones en contra de integrantes de alguna institución policial o servidores públicos en alguna de las áreas de prevención, de persecución de delitos, administración de justicia o de ejecución de penas, si se encuentran en el ejercicio lícito de sus funciones o con motivo de ellas, se le impondrán al autor las mismas sanciones previstas para las lesiones calificadas.
+
 ###### ARTICULO 180.
 
 Cuando las lesiones sean causadas en riña, se aplicarán de tres días hasta el término medio aritmético de la pena que correspondería conforme lo señala el Artículo 174 y multa hasta por sesenta y cinco unidades, si se trata del provocador, y de tres días al mínimo señalado en el precepto mencionado y multa hasta por treinta unidades, si se trata del provocado.
@@ -2729,6 +2735,12 @@ XII.- Se torture o mutile cualquier parte del cuerpo de la víctima.
 
 Si espontáneamente se pone en libertad a la persona antes de veinticuatro horas y sin causar daños o perjuicios graves, sólo se aplicará hasta las dos terceras partes de la pena prevista para cualquiera de los casos señalados en este artículo.
 
+(NOTA: EL 31 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 54/2012, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+ARTICULO 199 BIS.- Comete el delito de secuestro exprés la persona que, para ejecutar los delitos de robo o extorsión, prive de la libertad a otra. La pena será de ocho a dieciséis años de prisión y multa de hasta 300 unidades. Lo anterior, con independencia de las demás sanciones que conforme a este Código le correspondan por otros delitos que de su conducta resulten.
+
 ### CAPÍTULO IV. DESAPARICIÓN FORZADA DE PERSONAS
 
 > <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2011)</small>
@@ -2865,6 +2877,10 @@ Cuando en la violación intervengan dos o más personas se les aplicará la pena
 
 Al que tenga cópula con persona menor de catorce años de edad, o con quien no tenga capacidad para comprender el significado del hecho, o con quien por cualquier causa no pueda resistir, se le impondrán de veinticinco a treinta y cinco años de prisión y multa de hasta 300 unidades.
 
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+ARTICULO 209 BIS.- Cuando el delito de violación se cometa en parajes solitarios o lugares desprotegidos, o valiéndose el agente de identificaciones oficiales ciertas o falsas, se impondrá al responsable pena de veinticinco a treinta y cinco años de prisión y multa de hasta 400 unidades.
+
 > <small>(REFORMADO, P.O. 18 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 210.
@@ -2895,29 +2911,11 @@ No se procederá contra el activo sino por querella de la mujer ofendida o de su
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
-### CAPÍTULO V. PEDERASTIA
+### CAPITULO IV.
 
-> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2012)</small>
+HOSTIGAMIENTO SEXUAL.
 
-ARTICULO 216 BIS 1.- Se aplicará de cinco a diez años de prisión y multa por hasta 100 unidades, a quien se aproveche de la confianza, subordinación o superioridad que tiene sobre un menor de dieciocho años, derivada de su parentesco en cualquier grado, tutela, curatela, guarda o custodia, relación docente, religiosa, laboral, médica, cultural, doméstica o de cualquier índole y ejecute, obligue, induzca o convenza a ejecutar cualquier acto sexual, con o sin su consentimiento.
-
-La misma pena se aplicará a quien cometa la conducta descrita del párrafo anterior, en contra de la persona que no tenga la capacidad de comprender el significado del hecho o para resistirlo.
-
-Si el agente hace uso de violencia física, las penas se aumentarán en una mitad más.
-
-El autor del delito podrá ser sujeto a tratamiento médico integral el tiempo que se requiera, mismo que no podrá exceder el tiempo que dure la pena de prisión impuesta.
-
-Además de las anteriores penas, el autor del delito perderá, en su caso, la patria potestad, la tutela, la curatela, la adopción, el derecho de alimentos y el derecho que pudiera tener respecto de los bienes de la víctima, en términos de la legislación civil.
-
-Cuando el delito fuere cometido por un servidor público o un profesionista en ejercicio de sus funciones o con motivo de ellas, además de la pena de prisión antes señalada, será inhabilitado en sus derechos o funciones por un término igual a la pena impuesta.
-
-> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2012)</small>
-
-ARTICULO 216 BIS 2.- Para efecto de determinar el daño ocasionado al libre desarrollo de la personalidad de la víctima, se deberán solicitar los dictámenes necesarios para conocer su afectación. En caso de incumplimiento a la presente disposición por parte del Ministerio Público, éste será sancionado en los términos del presente Código y de la legislación aplicable.
-
-En los casos en que el sentenciado se niegue o no pueda garantizar la atención médica, psicológica o de la especialidad que requiera, el Estado deberá proporcionar esos servicios a la víctima.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 15 DE JUNIO DE 2002)</small>
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2002)</small>
 
 ###### ARTICULO 216 Bis.
 
@@ -2928,6 +2926,8 @@ Si se ocasionan daños y perjuicios la pena aumentará de 1 a 2 años de prisió
 Si el sujeto activo fuere servidor público y utilizare los medios o circunstancias que le proporciona su cargo, será destituido e inhabilitado para ocupar un empleo, cargo o comisión en el sector público, por un periodo de uno a dos años.
 
 Solo se procederá contra el responsable a petición de la parte ofendida o de su representante legal, en su caso.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE MAYO DE 2012)</small>
 
 ###### ARTICULO 214.
 
@@ -2951,13 +2951,29 @@ El delito de abuso sexual se perseguirá por querella de parte ofendida.
 
 Cuando el sujeto pasivo sea menor de catorce años, o carezca de capacidad para comprender el significado del hecho, el delito se perseguirá de oficio no admitiendo el perdón del ofendido o de sus legítimos representantes.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE MAYO DE 2012)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 15 DE JUNIO DE 2002)</small>
 
-### CAPITULO IV.
+### CAPÍTULO V. PEDERASTIA
 
-HOSTIGAMIENTO SEXUAL.
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2012)</small>
 
-> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2002)</small>
+ARTICULO 216 BIS 1.- Se aplicará de cinco a diez años de prisión y multa por hasta 100 unidades, a quien se aproveche de la confianza, subordinación o superioridad que tiene sobre un menor de dieciocho años, derivada de su parentesco en cualquier grado, tutela, curatela, guarda o custodia, relación docente, religiosa, laboral, médica, cultural, doméstica o de cualquier índole y ejecute, obligue, induzca o convenza a ejecutar cualquier acto sexual, con o sin su consentimiento.
+
+La misma pena se aplicará a quien cometa la conducta descrita del párrafo anterior, en contra de la persona que no tenga la capacidad de comprender el significado del hecho o para resistirlo.
+
+Si el agente hace uso de violencia física, las penas se aumentarán en una mitad más.
+
+El autor del delito podrá ser sujeto a tratamiento médico integral el tiempo que se requiera, mismo que no podrá exceder el tiempo que dure la pena de prisión impuesta.
+
+Además de las anteriores penas, el autor del delito perderá, en su caso, la patria potestad, la tutela, la curatela, la adopción, el derecho de alimentos y el derecho que pudiera tener respecto de los bienes de la víctima, en términos de la legislación civil.
+
+Cuando el delito fuere cometido por un servidor público o un profesionista en ejercicio de sus funciones o con motivo de ellas, además de la pena de prisión antes señalada, será inhabilitado en sus derechos o funciones por un término igual a la pena impuesta.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2012)</small>
+
+ARTICULO 216 BIS 2.- Para efecto de determinar el daño ocasionado al libre desarrollo de la personalidad de la víctima, se deberán solicitar los dictámenes necesarios para conocer su afectación. En caso de incumplimiento a la presente disposición por parte del Ministerio Público, éste será sancionado en los términos del presente Código y de la legislación aplicable.
+
+En los casos en que el sentenciado se niegue o no pueda garantizar la atención médica, psicológica o de la especialidad que requiera, el Estado deberá proporcionar esos servicios a la víctima.
 
 ### CAPITULO I.
 
@@ -3225,9 +3241,41 @@ I.- Disponga de una cosa mueble de su propiedad, si no tiene la libre disposici�
 
 II.- En plazo prudente y después de ser requerido formalmente por autoridad judicial, no devuelva la cosa mueble retenida ilegalmente o no la entregue a la autoridad para que ésta disponga de la misma conforme a la ley.
 
-### CAPITULO IV.
+### CAPITULO III BIS
 
-DESPOJO.
+EXTORSIÓN.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+ARTÍCULO 234 BIS.- Comete el delito de extorsión, el que mediante el uso de la violencia física o moral obligue a otro a dar, hacer, no hacer o tolerar algo con la finalidad de obtener un lucro para sí o para otro, causando un perjuicio patrimonial a la víctima, por lo que se le impondrá de cinco a diez años de prisión y multa de 150 a 350 unidades.
+
+Se incrementará la pena antes mencionada en los casos siguientes:
+
+I. De siete a trece años de prisión y multa de 75 a 400 unidades, si se comete:
+
+a).- Siendo la víctima del delito persona menor de dieciocho años, o persona que no tenga capacidad para comprender o entender el significado del hecho, o persona que no tiene capacidad para resistirlo, o persona mayor de sesenta años;
+
+b).- Cuando el sujeto activo del delito tenga alguna relación de confianza, laboral, parentesco o de negocios con la víctima o con sus familiares;
+
+c).- Utilizando como medio comisivo la vía telefónica, el correo electrónico o cualquier otro sistema de comunicación mediante los cuales se pueda realizar cualquier emisión, transmisión o recepción de datos, señales, escritos, imágenes, voz, sonidos conteniendo información de cualquier naturaleza, que se efectúe por hilos, radioelectricidad, medios ópticos, físicos, vía satelital u otros sistemas electromagnéticos; o cualquier otro originado con motivo de los descubrimientos de la ciencia;
+
+d).- Desde un Centro de Reinserción Social en el que se encuentre recluido;
+
+e).- El autor del delito obtenga en forma continua o permanente, dinero o bienes por concepto de cobro de cuotas de cualquier índole, adicionales a los conseguidos originalmente por el ilícito; y
+
+f).- Se realice cualquier tipo de transferencia bancaria de dinero en efectivo, cheques, obligaciones, o cualquier otra transacción mercantil en moneda nacional o extrajera, o de bienes o servicios a una o diversas cuentas nacionales o extranjeras; y
+
+II. De diez a dieciséis años de prisión y multa de 125 a 500 unidades, conforme a lo siguiente:
+
+a).- Si el Sujeto activo es trabajador de institución bancaria o crediticia, o empleado de empresa de comunicación telefónica, de radio comunicación, de telecomunicación, o encargadas de transmisión o recepción de datos, señales, escritos, imágenes, voz, sonidos o información de cualquier naturaleza que se efectúe por hilos, radioelectricidad, medios ópticos, físicos, vía satelital, u otros sistemas electromagnéticos, medios electrónicos, ópticos, magnéticos, cualquier otra tecnología, o cualquier otro sistema originado con motivo de los descubrimientos de la ciencia, que por razón de su empleo manejen información de clientes o tengan acceso a la misma, y que la utilicen de cualquier forma o la sustraigan para sí o para terceros con el objeto de obtener un lucro o beneficio por medio de la extorsión en sus diversas modalidades;
+
+b).- Si el sujeto activo es miembro o pertenece al Sistema de Seguridad Pública Estatal que tenga a su cargo funciones de seguridad, prevención, persecución, investigación, sanción del delito, administración de justicia, reinserción social o sea miembro de las fuerzas armadas; además de la inhabilitación definitiva para ejercer derechos o funciones públicas;
+
+c).- Igual sanción se aplicará a quien haya pertenecido a las instituciones de los Sistemas de Seguridad Pública; y
+
+d).- Por pertenecer a una asociación delictuosa u ostentarse como miembro de ésta.
+
+Se equipara a la extorsión y se le aplicará la misma pena de este delito a quien intimide a la víctima, a sus familiares, a sus representantes o gestores, para que no colaboren con las autoridades competentes durante el proceso de investigación o en las etapas subsecuentes del proceso penal.
 
 ###### ARTICULO 232.
 
@@ -3317,13 +3365,15 @@ VII.- Al que por algún uso del medio informático, telemático o electrónico a
 
 En el supuesto que el activo tenga licenciatura, ingeniería o cualquier otro grado académico reconocido en el rubro de la informática, telemática o sus afines, la pena se aumentará hasta en cuatro años más, y en caso de reincidencia hasta cinco años más de prisión.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+### CAPITULO IV.
+
+DESPOJO.
+
 ### CAPITULO V.
 
 DAÑOS.
-
-### CAPITULO VI.
-
-ENCUBRIMIENTO POR RECEPTACION.
 
 ###### ARTICULO 235.
 
@@ -3343,11 +3393,9 @@ Si el despojo se realiza por dos o más personas, o con violencia, la sanción a
 
 Las sanciones se aplicarán aún cuando el derecho a la posesión sea dudoso o esté en litigio.
 
-### CAPITULO VII.
+### CAPITULO VI.
 
-DELITO INFORMATICO.
-
-> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2008)</small>
+ENCUBRIMIENTO POR RECEPTACION.
 
 ###### ARTICULO 237.
 
@@ -3371,11 +3419,11 @@ Tratándose de propaganda o promoción de partidos políticos o asociaciones pol
 
 Si el delito recae en bienes de interés colectivo o de valor científico, artístico o cultural o se comete por medio de inundación, incendio o explosión, la sanción aplicable será de dos a nueve años de prisión.
 
-### CAPITULO UNICO.
+### CAPITULO VII.
 
-DELITOS AMBIENTALES.
+DELITO INFORMATICO.
 
-> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2003)</small>
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 239.
 
@@ -3387,7 +3435,11 @@ Al que con unidad de propósito incurra en más de dos ocasiones en cualquiera d
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 3 DE MAYO DE 2008)</small>
 
-### CAPITULO UNICO. Validez de la Ley Penal.................... 323
+### CAPITULO UNICO.
+
+DELITOS AMBIENTALES.
+
+> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2003)</small>
 
 ###### ARTICULO 240 Bis.
 
@@ -3407,7 +3459,7 @@ DELITOS CONTRA EL MEDIO AMBIENTE.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE ENERO DE 2003)</small>
 
-### CAPITULO I. Conducta o Hecho....................................... 324
+### CAPITULO UNICO. Validez de la Ley Penal.................... 323
 
 ###### ARTICULO 241.
 
@@ -3515,7 +3567,7 @@ DELITOS CONTRA EL ESTADO.
 
 ## TITULO I............................................................................... 323
 
-### CAPITULO II. Dolo, Culpa y Preterintención..................... 324
+### CAPITULO I. Conducta o Hecho....................................... 324
 
 ###### ARTICULO PRIMERO.
 
@@ -3541,9 +3593,11 @@ INDICE:
 
 ## TITULO II. Delito y Delincuente......................................... 324
 
-### CAPITULO III. Inexistencia del Delito................................ 325
+### CAPITULO II. Dolo, Culpa y Preterintención..................... 324
 
 ## TITULO III. Consecuencias Jurídicas de la. Conducta o Hecho. ............................................................. 326
+
+### CAPITULO III. Inexistencia del Delito................................ 325
 
 ### CAPITULO IV. Tentativa.................................................... 325
 
@@ -3557,9 +3611,9 @@ INDICE:
 
 ### CAPITULO II. La Prisión..................................................... 327
 
-### CAPITULO III. Multa........................................................... 327
-
 ## TITULO IV. Aplicación de Sanciones................................ 330
+
+### CAPITULO III. Multa........................................................... 327
 
 ### CAPITULO IV. Reparación de Daño.................................. 327
 
@@ -3581,9 +3635,9 @@ INDICE:
 
 ### CAPITULO II. Exceso en las causas de licitud.................. 330
 
-### CAPITULO III. Tentativa................................................... 331
-
 ## TITULO V. Extinción de la acción persecutoria. y de las penas y medidas de seguridad........................... 332
+
+### CAPITULO III. Tentativa................................................... 331
 
 ### CAPITULO IV. Delitos preterintencionales......................... 331
 
@@ -3601,9 +3655,9 @@ INDICE:
 
 ### CAPITULO II. Muerte del delincuente............................... 332
 
-### CAPITULO III. Amnistía...................................................... 332
-
 ## TITULO I. Delitos contra la Seguridad del Estado............. 334
+
+### CAPITULO III. Amnistía...................................................... 332
 
 ### CAPITULO IV. Prescripción............................................... 332
 
@@ -3615,8 +3669,6 @@ INDICE:
 
 ### CAPITULO II. Rebelión...................................................... 334
 
-### CAPITULO III. Sedición..................................................... 334
-
 # LIBRO SEGUNDO
 
 #### SECCION SEGUNDA.
@@ -3624,6 +3676,8 @@ INDICE:
 DELITOS CONTRA LA SOCIEDAD.
 
 ## TITULO II. Delitos contra la Función Pública....................... 334
+
+### CAPITULO III. Sedición..................................................... 334
 
 ### CAPITULO IV. Motín.......................................................... 334
 
@@ -3633,9 +3687,9 @@ DELITOS CONTRA LA SOCIEDAD.
 
 ### CAPITULO II. Usurpación de funciones.............................. 335
 
-### CAPITULO III. Ultrajes a la autoridad.................................. 335
-
 ## TITULO III. Delitos contra la impartición de Justicia.......... 335
+
+### CAPITULO III. Ultrajes a la autoridad.................................. 335
 
 ### CAPITULO IV. Desobediencia de particulares.................. 335
 
@@ -3649,9 +3703,9 @@ DELITOS CONTRA LA SOCIEDAD.
 
 ### CAPITULO II. Evasión de presos....................................... 335
 
-### CAPITULO III. Encubrimiento por favorecimiento.............. 336
-
 ## TITULO I. Ejercicio indebido de servicio público................ 336
+
+### CAPITULO III. Encubrimiento por favorecimiento.............. 336
 
 ### CAPITULO IV. Delitos de abogados, defensores y litigantes. 336
 
@@ -3659,13 +3713,13 @@ DELITOS CONTRA LA SOCIEDAD.
 
 ### CAPITULO II. Ejercicio indebido de funciones................... 336
 
-### CAPITULO III. Abandono de funciones............................... 337
-
 #### SECCION TERCERA.
 
 DELITOS CONTRA LA FAMILIA.
 
 ## TITULO II. Delitos de peligro contra la seguridad pública.... 338
+
+### CAPITULO III. Abandono de funciones............................... 337
 
 ### CAPITULO IV. Abuso de autoridad..................................... 337
 
@@ -3683,9 +3737,9 @@ DELITOS CONTRA LA FAMILIA.
 
 ### CAPITULO II. Asociación delictuosa................................. 338
 
-### CAPITULO III. Apología del delito....................................... 338
-
 ## TITULO III. Delitos contra la seguridad de los medios. de transporte y vías de comunicación.............................. 338
+
+### CAPITULO III. Apología del delito....................................... 338
 
 ### CAPITULO IV. Disparo de arma de fuego......................... 338
 
@@ -3693,37 +3747,35 @@ DELITOS CONTRA LA FAMILIA.
 
 ### CAPITULO II. Delitos contra la seguridad vial. y los medios de transporte.................................................... 339
 
-### CAPITULO III. Violación de correspondencia..................... 339
-
 ## TITULO IV. Delitos de falsedad y contra la fé pública..... 339
+
+### CAPITULO III. Violación de correspondencia..................... 339
 
 ### CAPITULO I. Falsificación de sellos, llaves, marcas. y contraseñas................................................................... 339
 
 ### CAPITULO II. Falsificación y uso de documento falso...... 339
 
-### CAPITULO III. Usurpación de profesión y uso indebido. de condecoraciones o uniformes........................................ 339
-
 ## TITULO V. Delitos contra la moral pública......................... 340
+
+### CAPITULO III. Usurpación de profesión y uso indebido. de condecoraciones o uniformes........................................ 339
 
 ### CAPITULO I. Ultrajes a la moral pública............................. 340
 
 ### CAPITULO II. Corrupción de menores............................... 340
 
-### CAPITULO III. Lenocinio................................................... 340
-
 ## TITULO VI. Delitos en materia de inhumaciones,. exhumaciones y contra el respeto a los muertos............... 340
+
+### CAPITULO III. Lenocinio................................................... 340
 
 ### CAPITULO I. Delitos en materia de inhumaciones. y exhumaciones.................................................................. 340
 
 ### CAPITULO II. Delito contra el respeto a los muertos.......... 341
 
-### CAPITULO I. Substracción de menores o incapaces.......... 341
-
 ## TITULO UNICO.................................................................... 341
 
-### CAPITULO II. Delitos contra la filiación y el estado civil...... 341
+### CAPITULO I. Substracción de menores o incapaces.......... 341
 
-### CAPITULO III. Bigamia......................................................... 341
+### CAPITULO II. Delitos contra la filiación y el estado civil...... 341
 
 #### SECCION CUARTA.
 
@@ -3731,15 +3783,17 @@ DELITOS CONTRA LAS PERSONAS.
 
 ## TITULO I. Delitos contra la vida y salud personal................. 341
 
+### CAPITULO III. Bigamia......................................................... 341
+
 ### CAPITULO IV. Incesto.......................................................... 341
 
 ### CAPITULO I. Homicidio......................................................... 341
 
 ### CAPITULO II. Lesiones........................................................ 342
 
-### CAPITULO III. Disposiciones comunes para los delitos. de Homicidio y lesiones....................................................... 342
-
 ## TITULO II. Delitos de peligro contra la vida y la salud personal. 343
+
+### CAPITULO III. Disposiciones comunes para los delitos. de Homicidio y lesiones....................................................... 342
 
 ### CAPITULO IV. Inducción o ayuda al suicidio...................... 343
 
@@ -3749,9 +3803,9 @@ DELITOS CONTRA LAS PERSONAS.
 
 ### CAPITULO II. Omisión de Auxilio...................................... 344
 
-### CAPITULO III. Omisión de Cuidado.................................... 344
-
 ## TITULO III. Delitos contra la Libertad Personal................... 344
+
+### CAPITULO III. Omisión de Cuidado.................................... 344
 
 ### CAPITULO IV. Exposición de incapaces............................. 344
 
@@ -3759,33 +3813,33 @@ DELITOS CONTRA LAS PERSONAS.
 
 ### CAPITULO II. Secuestro.................................................... 344
 
-### CAPITULO III. Rapto......................................................... 345
-
 ## TITULO IV. Delitos contra la paz y la Seguridad Personal. 345
+
+### CAPITULO III. Rapto......................................................... 345
 
 ### CAPITULO I. Amenazas y coacción................................... 345
 
 ### CAPITULO II. Allanamiento de morada.............................. 345
 
-### CAPITULO III. Revelación de Secretos.............................. 345
-
 ## TITULO V. Delitos contra la Libertad y Seguridad Sexual.. 345
+
+### CAPITULO III. Revelación de Secretos.............................. 345
 
 ### CAPITULO I. Violación......................................................... 345
 
 ### CAPITULO II. Estupro.......................................................... 346
 
-### CAPITULO III. Abusos Deshonestos................................... 346
-
 ## TITULO VI. Delitos contra el Honor..................................... 346
+
+### CAPITULO III. Abusos Deshonestos................................... 346
 
 ### CAPITULO I. Golpes y otras Violencias Físicas Simples.... 346
 
 ### CAPITULO II. Difamación.................................................... 346
 
-### CAPITULO III. Calumnia....................................................... 347
-
 ## TITULO VII. Delitos contra el Patrimonio............................. 347
+
+### CAPITULO III. Calumnia....................................................... 347
 
 ### CAPITULO IV. Disposiciones Comunes.............................. 347
 
@@ -4020,5 +4074,9 @@ SEGUNDO.- El titular del Ejecutivo del Estado deberá expedir las adecuaciones n
 TERCERO.- La Secretaría de Finanzas y Administración del Gobierno del Estado, asignará los recursos humanos, financieros y materiales para cubrir los requerimientos de operación de la unidad administrativa que ejercerá las atribuciones derivadas de lo dispuesto en la fracción XXI, apartado A), del artículo 21, de la Ley Orgánica de la Administración Pública del Estado de Colima, facultando a dicha dependencia para que realice las transferencias o ampliaciones presupuestarias que se requieran.
 
 P.O. 21 DE JULIO DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 8 DE SEPTIEMBRE DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
