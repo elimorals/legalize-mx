@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2012-09-01"
+last_updated: "2012-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -129,6 +129,8 @@ Si el sujeto desiste espontáneamente de la ejecución o impide la consumación 
 
 ### CAPITULO IV. Causas excluyentes de responsabilidad
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Art. 11.
 
 Son autores o partícipes del delito:
@@ -169,7 +171,7 @@ IV. Que no hayan estado presentes en la ejecución del nuevo delito, o que, habi
 
 ###### Art. 13.
 
-Excluyen de responsabilidad penal las causas de inimputabilidad, las de inculpabilidad y las de justificación:
+Excluyen de responsabilidad penal las causas de inimputabilidad, la de inculpabilidad y las de justificación.
 
 I. Son causas de inimputabilidad:
 
@@ -219,9 +221,9 @@ e) La legítima defensa de la persona, honor, derechos o bienes del activo; así
 
 No operará tal excluyente, si el activo provocó la agresión o la previó o pudo evitarla fácilmente por otros medios. Operará parcialmente dicha excluyente, si no hubo necesidad racional del medio empleado en la defensa o si el daño que iba a causar el agresor era fácilmente reparable por otro medio o era notoriamente de poca importancia, comparado con el que causó la defensa.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
 
-Se presumirá que actúa en legítima defensa quien de noche rechace un escalamiento o fractura de las cercas, paredes o entradas de su casa o departamento habitado o de sus dependencias interiores. La misma presunción favorecerá al que dañe a un intruso que encontrare en la habitación propia o familiar, o de aquella persona a quien tenga obligación de defender, o en lugar donde se encuentren sus bienes propios o ajenos que deba cuidar, siempre que la presencia del extraño ocurra de noche o en circunstancias que revelen la posibilidad de una agresión por el intruso. El Ministerio Público en la averiguación previa, resolverá de oficio si opera o no la legítima defensa.
+Se presumirá que actúa en legítima defensa quien rechace y dañe a un intruso que realice un escalamiento o fractura de las cercas, paredes o entradas de su casa o departamento habitado o de sus dependencias interiores, y que exista la presunción evidente de cometer una agresión o la comisión de un delito. La misma presunción favorecerá al que dañe a un intruso que encontrare en la habitación propia o familiar, o de aquella persona a quien tenga obligación de defender, o en lugar donde se encuentren sus bienes propios o ajenos que deba cuidar, siempre que la presencia del extraño ocurra en circunstancias que revelen la posibilidad de una agresión por el intruso. El Ministerio Público en la averiguación previa resolverá de oficio si opera o no la legítima defensa.
 
 En el caso de exceso en la legítima defensa que se menciona en este artículo, se aplicará al infractor la pena de tres días a ocho años de prisión.
 
@@ -1413,7 +1415,7 @@ Se aplicará de seis meses a un año de prisión al que viole o infrinja una ord
 
 ### CAPITULO II. Pornografía Infantil
 
-Art.142 D. (DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2012)
+Art. 142 D. (DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2012)
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE ENERO DE 2007)</small>
 
@@ -4822,3 +4824,7 @@ QUINTO. Todos los asuntos que se encuentren en etapa de averiguación previa, pr
 SEXTO. La constitución de la Comisión Interinstitucional deberá realizarse en un plazo máximo de 90 días naturales a partir de la entrada en vigor de la ley; así como la designación del Secretario Técnico de ésta.
 
 La Comisión Interinstitucional deberá aprobar en un plazo máximo de sesenta días naturales a partir de su constitución el Programa Estatal para Prevenir, Combatir y Erradicar la Trata de personas y remitir a la Secretaria General de Gobierno para su publicación.
+
+P.O. 8 DE SEPTIEMBRE DE. 2012.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
