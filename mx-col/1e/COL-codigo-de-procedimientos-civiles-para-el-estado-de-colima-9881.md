@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-civiles-para-el-estado-de-colima-9881"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2011-12-10"
+last_updated: "2012-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2012.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado Colima, el sábado 25 de septiembre de 1954.
 
@@ -337,7 +337,7 @@ ART. 22.- El tercero obligado a la evicción deberá ser citado a juicio oportun
 
 ART. 23.- El tercero que, aduciendo derecho propio, intente excluir los derechos del actor y demandado o los del primero solamente, tiene la facultad de concurrir al pleito, aun cuando ya esté dictada sentencia ejecutoria.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ART. 24.- Las acciones de estado civil tienen por objeto las cuestiones relativas al nacimiento, defunción, matrimonio o nulidad de éste, filiación, reconocimiento, emancipación, tutela, adopción, divorcio y ausencia, o atacar el contenido de las constancias expedidas firmadas en forma autógrafa o con la firma electrónica certificada del Director o persona autorizada del Registro Civil para que se anulen o rectifiquen. Las decisiones judiciales recaídas en el ejercicio de acciones del estado civil perjudican aun a los que no litigaron.
 
@@ -389,13 +389,13 @@ La caducidad operará en todos los procedimientos, salvo los casos de excepción
 
 El juzgador declarará la caducidad de oficio o a petición de cualquiera de las partes, conforme a las normas siguientes:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO DE REFORMAS AL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 I.- En la primera instancia, cualquiera que sea el estado del juicio, desde el primer auto y hasta antes de la citación para sentencia, o en su caso, antes de iniciada la audiencia de pruebas y alegatos con citación para sentencia. En segunda instancia procederá hasta antes de la citación para resolución definitiva y en los incidentes, hasta antes de que se celebre la audiencia de pruebas y alegatos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO DE REFORMAS AL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
@@ -403,13 +403,13 @@ II.- La caducidad de la primera instancia opera cuando hayan transcurrido ciento
 
 La caducidad de la primera instancia produce el efecto de anular todos los actos procesales verificados, por lo que se tendrá por no presentada la demanda, pero no influye en forma alguna sobre las relaciones de derecho existentes entre las partes que hayan intervenido en el proceso; por consecuencia, se sobreseerá el procedimiento y las cosas volverán al estado que tenían antes de la presentación de la demanda, levantándose las medidas preparatorias, de aseguramiento y cautelares. También quedará sin efecto la interrupción de la prescripción operada por la presentación de la demanda. Caducada la instancia, caducarán los incidentes. Se exceptúan de la ineficacia referida las resoluciones firmes sobre competencia, litispendencia, conexidad, personalidad y capacidad de los litigantes, que regirán en el juicio ulterior si se promoviere. Las pruebas rendidas en el proceso extinguido por caducidad, podrán ser invocadas de oficio u ofrecidas por las partes en el nuevo proceso que se promueva, en la forma establecida en este Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO DE REFORMAS AL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 III.- La caducidad de la segunda instancia operará si en el lapso de sesenta días naturales, constados a partir de que haya surtido efectos la notificación de la ultima determinación judicial, ninguna de las partes hubiera promovido impulsando el procedimiento y su efecto será dejar firmes las resoluciones impugnadas. Así lo declarará el tribunal de alzada.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO DE REFORMAS AL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
@@ -417,7 +417,7 @@ IV.- La caducidad de los incidentes opera por el transcurso de sesenta días nat
 
 V.- El término de la caducidad sólo se interrumpirá por promociones de las partes o por actos de éstas realizados ante autoridad judicial diversa, siempre que tengan relación inmediata y directa con la instancia. Las actuaciones o promociones de mero trámite que no impliquen ordenación o impulso del procedimiento, no se considerarán como actividad de las partes ni impedirán que opere la caducidad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO DE REFORMAS AL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
@@ -443,25 +443,25 @@ a) En los juicios universales de concurso y sucesiones, pero sí en los juicios 
 
 b) En las actuaciones de jurisdicción voluntaria;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO DE REFORMAS AL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 c) En los juicios de alimentos y en los relativos a derechos de menores e incapaces;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO DE REFORMAS AL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 d) En los juicios seguidos ante la justicia de paz; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO DE REFORMAS AL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 e) En los medios preparatorios.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO DE REFORMAS AL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
@@ -469,7 +469,7 @@ XI.- El auto que niega la caducidad de la instancia es apelable en efecto devolu
 
 ### CAPITULO II. De las excepciones
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2008)</small>
 
 ART. 35.- Son excepciones procesales las siguientes:
 
@@ -513,7 +513,7 @@ Todas las excepciones procesales que tenga el demandado debe hacerlas valer al c
 
 ART. 36.- La excepción de litispendencia procede cuando un Juez conoce ya de un mismo juicio, en el que hay identidad entre las acciones deducidas, los objetos reclamados y las partes, siempre y cuando éstas litiguen con el mismo carácter.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO DE REFORMAS AL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
@@ -537,7 +537,7 @@ III.- Acciones que provengan de una misma causa, aunque sean diversas las person
 
 IV.- Identidad de acciones y de cosas, aunque las personas sean distintas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO DE REFORMAS AL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
@@ -561,7 +561,7 @@ ART. 40.- Cuando se declare la improcedencia de la vía, su efecto será el de c
 
 ART. 41.- Las excepciones de falta de cumplimiento del plazo, o de la condición a que esté sujeta la obligación, el orden o la excusión y la división, si se allana la contraria, se declararán procedentes de plano. De no ser así, se resolverán de modo incidental y, si son procedentes, su efecto será dejar a salvo el derecho para que se haga valer cuando cambien las circunstancias que afectan su ejercicio.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO DE REFORMAS AL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
@@ -577,7 +577,7 @@ ART. 43.- Sólo se admitirán como pruebas para demostrar las excepciones proces
 
 ### CAPITULO I. De la capacidad y personalidad
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO DE REFORMAS AL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
@@ -591,7 +591,7 @@ ART. 46.- Los interesados y sus representantes legítimos podrán comparecer en 
 
 ART. 47.- El Tribunal examinará la personalidad de las partes bajo su responsabilidad, pero los litigantes podrán impugnar la de su contraria cuando tengan razones para ello, sin perjuicio de lo dispuesto por el artículo 39 de este Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO DE REFORMAS AL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
@@ -629,15 +629,21 @@ El acuerdo será reservado.
 
 ART. 60.- Los jueces y magistrados a quienes corresponda recibirán por sí mismos las declaraciones y presidirán todos los actos de prueba, bajo su responsabilidad.
 
-ART. 61.- Los jueces y magistrados tienen el deber de mantener el buen orden y de exigir que se les guarden el respeto y consideración debidos, corrigiendo en el acto las faltas que se cometieren con multas que no podrán pasar, en los juzgados de paz, de diez pesos; en los menores, de veinte; en los de primera instancia, de cincuenta, y de cien pesos en el Supremo Tribunal. Pueden también emplear el uso de la fuerza pública. Si las faltas llegaren a constituir delitos, se procederá criminalmente contra los que los cometieren, con arreglo a lo dispuesto en el Código Penal, consignando al culpable a la autoridad competente, con testimonio de lo conducente.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+ART. 61.- Los jueces y magistrados tienen el deber de mantener el buen orden y de exigir que se les guarden el respeto y la consideración debidos, corrigiendo en el acto las faltas que se cometieren, mediante la imposición de cualquiera de las correcciones disciplinarias establecidas en el artículo 62 del presente ordenamiento. Pueden también emplear el uso de la fuerza pública. Si las faltas llegaren a constituir delitos, se dará vista al Ministerio Público de los hechos ocurridos, a afecto de que se inicie la averiguación previa correspondiente en contra del probable responsable; para ello, el Juez o Magistrado remitirá testimonio de lo conducente.
 
 ART. 62.- Se entenderá corrección disciplinaria:
 
 I.- El apercibimiento o amonestación;
 
-II.- La multa que no exceda de cien pesos, que se duplicará en caso de reincidencia;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
 
-III.- La suspensión que no exceda de un mes.
+II.- La multa de uno a sesenta días de salario mínimo general vigente en el Estado al momento de su imposición, la que se duplicará en caso de reincidencia; y
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+III.- La suspensión temporal del cargo, empleo o comisión, que no exceda de un mes, cuando la corrección se imponga a un empleado del tribunal que la impone.
 
 ART. 63.- Dentro de los tres días de haberse hecho saber una corrección disciplinaria a la persona a quien se le impuso, podrá ésta pedir al juez que la oiga en justicia; y se citará para la audiencia dentro del tercer día, en la que se resolverá sin más recurso que el de queja.
 
@@ -657,7 +663,11 @@ ART. 65.- Las copias simples de los documentos que se presenten, confrontadas y 
 
 Los interesados pueden presentar una copia simple de sus escritos, a fin de que se les devuelva con la anotación de la fecha y hora de presentación, sellada y firmada por el empleado que la reciba en el tribunal.
 
-ART. 66.- El secretario hará constar el día y la hora en que se presente un escrito y dará cuenta con él, a más tardar, dentro de veinticuatro horas, bajo la pena de diez pesos de multa, sin perjuicio de las demás que merezca conforme a las leyes.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+ART. 66.- El secretario hará constar el día y la hora en que se presente un escrito y dará cuenta con él, a más tardar, dentro de veinticuatro horas, bajo la pena de diez a veinte unidades de salario mínimo vigente en el Estado al momento de su imposición, como multa.
+
+Para la aplicación de la multa que se detalla en el presente artículo, deberán tomarse en cuenta las disposiciones que en materia de imposición de sanciones establece la Ley Orgánica del Poder Judicial del Estado.
 
 ART. 67.- Los secretarios cuidarán de que los expedientes sean exactamente foliados, al agregarse cada una de las hojas; rubricarán todas éstas en el centro de los escritos y pondrán el sello de la Secretaría en el fondo del cuaderno, de manera que queden selladas las dos caras.
 
@@ -681,23 +691,31 @@ Quedan los jueces facultados para investigar de oficio la existencia de los auto
 
 ART. 71.- Para sacar copia o testimonio certificado de cualquier constancia o actuación que obre en un juicio, así como en los archivos o protocolos físicos o electrónicos, se requiere decreto judicial, que no se dictará sino con conocimiento de causa y petición de parte interesada en el juicio, previo pago de los derechos que al fisco estatal correspondan.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
 
-ART. 72.- Los tribunales no admitirán recursos ni incidentes notoriamente intrascendentes o improcedentes; los desecharán de plano, exponiendo los fundamentos y motivos correspondientes, e impondrán multa de una a veinte unidades de salario mínimo vigente en la región, solidariamente al promovente y al autorizado legal.
+ART. 72.- Los tribunales no admitirán recursos ni incidentes notoriamente intrascendentes o improcedentes; los desecharán de plano, exponiendo los fundamentos y motivos correspondientes, e impondrán a favor del colitigante, una indemnización de uno a cuarenta días de salario mínimo general vigente en el Estado al momento de su imposición, la que deberán cubrir en forma solidaria el promovente y autorizado legal.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
 
-ART. 73.- Los jueces, para hacer cumplir sus determinaciones pueden emplear indistintamente cualquiera de los siguientes medios de apremio:
+ART. 73.- Los tribunales, para hacer cumplir sus determinaciones pueden emplear indistintamente cualquiera de los siguientes medios de apremio:
 
-I.- La multa desde una a veinte unidades, que se duplicará en caso de reincidencia.
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+I.- La multa de uno a cien días de salario mínimo general vigente en el Estado, al momento de su imposición, que se duplicará en caso de reincidencia.
+
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 1985)</small>
 
 II.- El auxilio de la fuerza pública.
 
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 1985)</small>
+
 III.- El cateo por orden escrita y fundada.
 
-IV.- El arresto hasta por cuarenta y ocho horas.
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
 
-Se considera unidad al salario mínimo de un día vigente en el Estado en el momento de hacerse efectiva la multa.
+IV.- El arresto hasta por treinta y seis horas.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
 
 ART. 74.- Las actuaciones serán nulas cuando les falte alguna de las formalidades esenciales, de manera que queden sin defensa cualquiera de las partes, y cuando la ley expresamente lo determine, pero no podrá ser invocada esa nulidad por la parte que dió lugar a ella.
 
@@ -733,7 +751,7 @@ ART. 82.- Quedan abolidas las antiguas fórmulas de las sentencias y basta con q
 
 ART. 83.- Los jueces y tribunales no podrán, bajo ningún pretexto, aplazar, dilatar ni negar la resolución de las cuestiones que hayan sido discutidas en el pleito.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ART. 84.- Tampoco podrán los jueces y tribunales variar ni modificar sus sentencias después de firmadas en forma autógrafa o electrónica, pero si aclarar algún concepto o suplir cualquiera omisión que contengan sobre punto discutido en el litigio.
 
@@ -857,71 +875,111 @@ ART. 109.- Los exhortos que se remitan al extranjero o se reciban de él se suje
 
 ### CAPITULO V. De las notificaciones
 
-ART. 110.- Las notificaciones, citaciones y emplazamientos se efectuarán lo más tarde al día siguiente al en que se dicten las resoluciones que las prevengan, cuando el juez o la ley no dispusieren otra cosa. Se impondrá de plano a los infractores de este artículo, una multa que no exceda de veinte pesos.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
 
-ART. 111.- Las notificaciones se harán personalmente, por cédula, por medio de lista, en los términos de los artículos 123 y 125, por edictos, por correo y por telégrafo, de acuerdo con lo que se dispone en los artículos siguientes.
+ART. 110.- Las notificaciones personales, citaciones y emplazamientos se efectuarán lo más tarde a los dos días siguientes al en que se publiquen las resoluciones que las prevengan, cuando el juez, magistrado o la ley no dispusieren otra cosa. Al que infrinja lo anterior, el titular del órgano le impondrá una multa de cinco salarios mínimos vigentes en el Estado, que se hará efectiva por conducto del órgano administrativo correspondiente del Poder Judicial del Estado.
 
-ART. 112.- Todos los litigantes, en el primer escrito o en la primera diligencia judicial, deben designar casa ubicada en el lugar del juicio para que se les hagan las notificaciones y se practiquen las diligencias que sean necesarias.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
 
-Igualmente deben designar la casa en que ha de hacerse la primera notificación a la persona o personas contra quienes promuevan.
+ART. 111.- Las notificaciones se harán personalmente, por cédula, por lista, por edictos o por cualquier otro medio tecnológico que se disponga y surtirán efectos al día siguiente del que se hayan practicado, conforme a lo dispuesto en los artículos siguientes.
 
-Cuando un litigante no cumpla con lo prevenido en la primera parte de este artículo, las notificaciones que, conforme a las reglas generales, deban hacerse personalmente, se le harán por cédula fijada en las puertas del juzgado; si faltare a la segunda parte, no se hará notificación alguna a la persona contra quien promueva hasta que se subsane la omisión.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
 
-ART. 113.- Entretanto que un litigante no hiciera nueva designación de la casa en donde se practiquen las diligencias y se hagan las notificaciones, seguirán haciéndosele en la que para ella hubiere designado y las diligencias en que debiera tener intervención se practicarán en los estrados del juzgado.
+ART. 112.- Las partes, en el primer escrito o en la primera diligencia judicial, deben designar domicilio ubicado en la cabecera municipal en que se lleve el juicio, para que se les hagan las notificaciones y se practiquen las diligencias que sean necesarias, salvo que el juicio se tramite en los juzgados que tengan su sede en el Primer Partido Judicial, en el que podrán señalarlo indistintamente, en las cabeceras municipales de Colima o Villa de Álvarez.
+
+Para efectos de lo anterior, deberán señalar, el nombre de la calle, la numeración que le corresponde y la zona, colonia o fraccionamiento o cualquier otro dato que permita identificar con claridad el domicilio.
+
+En caso de incumplimiento a lo señalado en los párrafos anteriores, las notificaciones que, conforme a las reglas generales deban hacerse personalmente, se le harán por lista, conforme lo señalado en el artículo 126 de este código.
+
+Igualmente deberá designarse el domicilio en que ha de hacerse la primera notificación a la persona que les interese o contra quien se promueve; lo que se hará en términos de lo señalado en el párrafo segundo de este artículo. En caso de incumplir con lo anterior, no se hará la notificación respectiva, hasta que se subsane la omisión.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+ART. 112 BIS. Las partes podrán autorizar para oír y recibir notificaciones en su nombre, a una o varias personas con capacidad legal, quienes quedarán facultadas para interponer los recursos que procedan, ofrecer e intervenir en el desahogo de pruebas, alegar en las audiencias, pedir se dicte sentencia para evitar la consumación del término de caducidad por inactividad procesal y realizar cualquier acto que resulte ser necesario para la defensa de los derechos del autorizante; sin embargo estará imposibilitado para sustituir o delegar dichas facultades en un tercero. Las personas autorizadas conforme a lo anterior deberán acreditar encontrarse legalmente autorizadas para ejercer la profesión de abogado o licenciado en derecho, debiendo proporcionar los datos correspondientes en el escrito en que se otorgue dicha autorización.
+
+Las personas autorizadas en los términos del párrafo anterior, serán responsables de los daños y perjuicios que causen ante el que los autorice, de acuerdo a las disposiciones aplicables del Código Civil en el Estado, relativas al mandato. Los autorizados podrán renunciar a dicha calidad, mediante escrito presentado al tribunal, haciendo saber las causas de la renuncia e informar el domicilio donde pueda notificarse de lo anterior a la persona que lo autorizó para que no quede en estado de indefensión.
+
+Los profesionistas autorizados deberán registrarse en el sistema de registro único de cédulas profesionales de abogados o licenciados en derecho del Poder Judicial del Estado.
+
+Las partes podrán designar personas con capacidad legal, solamente como autorizadas para recibir notificaciones e imponerse de los autos, quiénes no gozarán de las demás facultades a que se refiere el primer párrafo.
+
+El juez al acordar lo relativo a la autorización a que se refiere este artículo deberá expresar con toda claridad el alcance con el que se reconoce la autorización otorgada.
+
+El depositario, perito o tercero que haya sido designado dentro del procedimiento con algún cargo, una vez aceptado y protestado el mismo en su caso, deberá señalar domicilio para oír y recibir notificaciones, conforme al párrafo segundo del artículo anterior, en caso de no hacerlo, se les practicaran por medio de lista, conforme lo señalado en el artículo 126 de este código.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+ART. 113.- En tanto que las partes no designen nuevo domicilio, las notificaciones personales seguirán haciéndose en el que aparezca en autos.
+
+En caso de que el domicilio no exista o esté desocupado, las notificaciones se harán por medio de lista conforme a lo señalado en el artículo 126 de este Código.
+
+Si en el domicilio procesal señalado, no se encuentra persona alguna o con capacidad legal para enterarla de la notificación, se niegue a recibirla el interesado o persona que se encuentre en el mismo, se fijará la cédula en la puerta de acceso principal.
 
 ART. 114.- Será notificado personalmente en el domicilio de los litigantes:
 
-I.- El emplazamiento del demandado, y siempre que se trate de la primera notificación en el juicio, aunque sean diligencias preparatorias;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
 
-II.- El auto que ordena la absolución de posiciones o reconocimiento de documentos;
+I.- El emplazamiento del demandado y siempre que se trate de la primera notificación, incluidas las diligencias preparatorias o de jurisdicción voluntaria;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+II.- El auto que abre el juicio a prueba y el que señala día y hora para su desahogo;
 
 III.- La primera resolución que se dicte cuando se dejare de actuar más de dos meses por cualquier motivo;
 
-IV.- Cuando se estime que se trata de un caso urgente y así se ordene;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
 
-V.- El requerimiento de un acto a la parte que deba cumplirlo;
+IV.- Las sentencias definitivas e interlocutorias;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+V.- El requerimiento de un acto a la parte que deba cumplirlo; y,
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
 
 VI.- En los demás casos que la ley lo disponga.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+Cuando se haya incurrido en rebeldía, se estará a lo dispuesto en el Capítulo I del Título Noveno de este Código.
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
 
 ART. 115.- Cuando variare el personal de un tribunal, no se proveerá decreto haciendo saber el cambio, sino al margen del primer proveído que se dictare, después de ocurrido el cambio, se pondrán completos los nombres y apellidos de los nuevos funcionarios. Sólo que el cambio ocurriere cuando el negocio esté pendiente únicamente de la sentencia, se mandará saber a las partes.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
 
-ART. 116.- La primera notificación se hará personalmente al interesado o a su representante o procurador, en la casa designada. De no encontrarlo el notificador le dejará cédula en la que hará constar la fecha y hora en que la entregue, el nombre apellido del promovente, el juez o tribunal que manda practicar la diligencia, la determinación que se manda notificar y el nombre y apellido de la persona a quien se entrega, recogiéndole su firma o asentado en el acta que se levante al efecto la razón de su negativa a firmarla.
+ART. 116.- Las notificaciones personales se harán al interesado o a su representante o procurador, en el domicilio procesal designado para oír y recibir notificaciones dejando cédula en la que se hará constar la fecha y hora en que se entregue, el nombre y apellido del promovente, el juez o tribunal que manda practicar la diligencia, la determinación que se manda notificar y el nombre y apellido de la persona a quien se entrega, recogiéndole su firma o asentado la razón de su negativa a firmarla.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
 
-ART. 117.- Si se tratare de la notificación de la demanda y a la primera busca no se encontrare al demandado, se le dejará citatorio para hora fija dentro de las veinticuatro horas siguientes. Si no espera el demandado a esa hora, se le hará la notificación por cédula.
+ART. 116 BIS.- Los emplazamientos deberán hacerse conforme a las siguientes reglas:
 
-La cédula y las copias simples de la demanda y de la documentación anexa, se entregará, en el caso que así proceda, tanto de este Artículo como del anterior, a los parientes o domésticos del interesado o a cualquier otra persona que viva o se encuentre en la casa después que el notificador se haya cerciorado de que allí vive la persona que debe ser notificada, a los cuales se les hará saber el objeto de la diligencia y se hará, por su conducto, saber al demandado el término que tiene para contestar la demanda y el apercibimiento para el caso de no hacerlo dentro de este término, de todo lo cual se asentará razón en los autos.
+I.- Si se tratare de persona física, directamente a ésta, a menos que carezca de capacidad legal, pues en tal caso se hará a su representante. Se autoriza el emplazamiento por medio de apoderado con facultad general o especial bastante para contestar la demanda y para la defensa en juicio de su poderdante, siempre que la persona a emplazar viva fuera del lugar del juicio o se ignore su paradero. El apoderado sólo puede negarse a intervenir si demuestra que no aceptó o renunció a la representación;
 
-La cédula contendrá, además, una relación sucinta de la demanda, cuando no sea forzoso entregar las copias del (sic) traslado.
+II.- Tratándose de personas morales, el emplazamiento se hará por conducto de las personas u órganos que las representen legalmente.
 
-ART. 118.- Si después que el notificador se hubiere cerciorado de que la persona por notificar vive en la casa y se negare aquél con quien se entiende la notificación a recibir ésta, se hará en el lugar en que habitualmente trabaje, sin necesidad de que el juez dicte una determinación especial para ello.
+III.- El emplazamiento deberá hacerse en el domicilio que señale para el efecto la parte actora y se entenderá directamente con el interesado, el servidor público judicial deberá asegurarse de la identidad del mismo, haciendo constar, específicamente en la diligencia, los medios de que se valió para identificarlo, entregándole cédula que contendrá la mención del juicio de que se trate y la inserción del auto o proveído que deba notificarse junto con las copias de la demanda y los documentos en que se funde la acción y personalidad del promovente. La persona deberá firmar por su recibo, y si se rehusare, se pondrá razón en la diligencia, debiendo expresarse el nombre de ella o la manifestación de que se negó a darlo.
 
-(REFORMADO, P.O. 10 DE AGOSTO DE 1985) (F. DE E., P.O. 24 DE AGOSTO DE 1985)
+IV.- Si la persona a quien deba hacerse el emplazamiento no fuere encontrada en su domicilio se le dejará citatorio para hora fija, dentro de las horas hábiles del día siguiente. En caso de que no espere, se entenderá la diligencia con los parientes o domésticos del interesado, o cualquier otra persona con capacidad jurídica que viva o se encuentre en el lugar, después de que el notificador se haya cerciorado de que allí tiene su domicilio la persona que debe ser emplazada, a los cuales se les informará sobre el objeto de la diligencia y por su conducto se le emplazará al demandado en los términos de la fracción anterior, haciéndole saber el término que tiene para contestar la demanda y las consecuencias legales que derivan en caso de no hacerlo dentro de ese término, de todo lo cual se asentará razón en la diligencia.
 
-ART. 119.- Cuando no se conociere el lugar en que la persona que se debe notificar tenga el principal asiento de sus negocios y en la habitación no se pudiere, conforme al Artículo anterior, hacer la notificación, se podrá hacer ésta en el lugar donde se encuentre o con su vecino o por medio de la autoridad policíaca o administrativa más próxima a su domicilio.
+V.- Si después que el servidor público facultado hubiere dejado citatorio en el domicilio de la persona por emplazar y no encontrare persona alguna en el lugar o se negare aquella a entender la diligencia, se hará en el lugar en que habitualmente trabaje o en el lugar donde se le encuentre, debiendo mediar por parte del Juez, determinación especial para ello.
 
-En este caso, las notificaciones se firmarán por el notificador y por la persona por medio de la cual se hiciere la notificación. Si ésta no supiere o no quisiere o no pudiere firmar, lo hará a su ruego un testigo. Si éste tampoco quisiere o pudiere firmar, lo hará constar así en el Acta que al efecto levante el notificador.
+En tratándose de actos prejudiciales, jurisdicciones voluntarias o cualquier otra clase de trámites, la primera notificación se hará conforme a las fracciones anteriores.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO DE REFORMAS AL CODIGO.</small>
+ART. 117.- (DEROGADO, P.O. 8 DE SEPTIEMBRE DE 2012)
 
-> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+ART. 118.- (DEROGADO, P.O. 8 DE SEPTIEMBRE DE 2012)
 
-ART. 119 BIS.- La segunda y ulteriores notificaciones personales se harán por medio de cédula que deberá satisfacer los requisitos previstos por el artículo 116, en el domicilio procesal designado para oír y recibir notificaciones.
+ART. 119.- (DEROGADO, P.O. 8 DE SEPTIEMBRE DE 2012)
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+ART. 119 BIS.- (DEROGADO, P.O. 8 DE SEPTIEMBRE DE 2012)
 
-ART. 120.- Cuando se trate de citar a peritos, testigos o personas que no sean parte en el juicio, se podrá hacer personalmente o por cédula en sobre cerrado y sellado conteniendo la determinación del juez o tribunal que mande practicar la diligencia.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
 
-Estas cédulas podrán entregarse por conducto de la policía o de los notificadores, recogiendo la firma del notificador en el sobre que será devuelto para agregarse a los autos. Si no quisiere firmar, lo hará constar en el sobre y en el acta que al efecto levante el notificador.
+ART. 120.- Cuando se trate de citar por primera vez a peritos, testigos, depositarios, terceros designados con algún cargo dentro del procedimiento o personas que no sean parte en el juicio, se deberán hacer personalmente o por cédula, en el domicilio que señale su oferente, conforme al segundo párrafo del artículo 112. Las siguientes, se harán en términos del último párrafo del 112 bis.
 
-ART. 121.- Cuando se trate de citar testigos o peritos o terceros que no constituyan parte, pueden ser citados también por correo certificado o por telégrafo, en ambos casos a costa del promovente.
-
-Cuando se haga por telegrama se enviará por duplicado a la oficina que haya de transmitirlo, la cual devolverá, con el correspondiente recibo, uno de los ejemplares que se agregará al expediente.
+ART. 121.- (DEROGADO, P.O. 8 DE SEPTIEMBRE DE 2012)
 
 ART. 122.- Procede la notificación por edictos:
 
@@ -935,23 +993,53 @@ En este caso el juicio deberá seguir con los trámites y solemnidades a que se 
 
 III.- En todos los demás casos previstos por la ley.
 
-En los casos de las fracciones I y II, los edictos se publicarán por tres veces consecutivas en el Periódico Oficial del Estado y en otro de los de mayor circulación, haciéndose saber que debe de presentarse el citado dentro de un término que no bajará de quince ni excederá de sesenta días.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
 
-ART. 123.- La segunda y ulteriores notificaciones se harán personalmente a los interesados o a sus procuradores, si ocurren al tribunal o juzgado respectivo, en el mismo día en que se dicten las resoluciones que hayan de notificarse, o al siguiente día de las ocho a las trece horas o al tercer día antes de las doce.
+En los casos anteriores, los edictos se publicarán por dos veces consecutivas, en un Periódico de los de mayor circulación del Estado, haciéndose saber que debe de presentarse el citado dentro de un término que no será menor de quince días ni mayor de treinta.
 
-ART. 124.- Deben firmar las notificaciones las personas que las hacen y aquella a quien se hacen. Si ésta no supiere o no quisiere firmar, lo hará el Secretario o escribano, haciendo constar esta circunstancia. A toda persona se le dará copia simple de la resolución que se le notifique si la pidiere.
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
 
-ART. 125.- Si las partes o sus procuradores no ocurren al tribunal o juzgado a notificarse en los días y horas a que se refiere el artículo 123, la notificación se dará por hecha y surtirá sus efectos a las doce del último día a que se refiere el artículo citado, a condición de que se haya hecho en la lista a que se refiere el artículo siguiente.
+Previamente a la publicación por edictos a que se hace referencia en el presente artículo, la parte actora deberá dar a conocer el último domicilio conocido de la persona, para que en su caso se indague sobre su paradero.
 
-ART. 126.- Se fijará en lugar visible de las oficinas del tribunal o juzgados, una lista de los negocios que se hayan acordado cada día. La lista se fijará a primera hora de despacho del día siguiente al de la fecha de la resolución, expresándose el número del juicio de que se trata y los nombres de las partes. De estas listas se remitirá el mismo día copia al carbón, a la Secretaría de Acuerdos del Supremo Tribunal de Justicia.
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
 
-ART. 127.- En las salas del tribunal y en los juzgados, los Secretarios de Acuerdos harán constar en los autos respectivos la fecha de la lista en que se haya hecho la publicación a que se refiere el artículo anterior, bajo la pena de veinticinco pesos de multa por la primera falta, de cincuenta pesos por la segunda y de suspensión de empleo, hasta por tres meses, por la tercera; sin perjuicio de indemnizar debidamente, a la persona que resulte perjudicada por la omisión.
+Además, el Juez ordenará recabar informe de por lo menos dos autoridades o instituciones que cuenten con registro oficial de personas.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+La autoridad o institución proporcionará los datos de identificación y el último domicilio que aparezca en sus registros de la persona buscada y el Juez revisará la información presentada y resolverá lo conducente.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+Las instituciones y autoridades que se detallan en los párrafos que anteceden, deberán remitir la información solicitada dentro de un plazo máximo de diez días hábiles, y en caso de no hacerlo, el juez dictará las medidas de apremio previstas por el artículo 73 de este código a la persona responsable de rendir tal información, sin perjuicio de las responsabilidades en que incurran por su incumplimiento, derivadas de la legislación aplicable a los servidores públicos.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+ART. 123.- Las notificaciones diversas a las previstas por el numeral 114, se harán por lista el día de su publicación, surtiendo sus efectos de acuerdo al artículo 111 de este mismo Código.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+ART. 124.- Es obligación del servidor público facultado anexar al expediente las cédulas de notificación realizadas junto con la certificación respectiva.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+ART. 125.- En tratándose de notificaciones personales, si las partes o sus autorizados ocurren al tribunal a notificarse, el funcionario judicial con facultades, levantará la certificación de su consulta.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+ART. 126.- Se fijará en lugar visible de las oficinas del tribunal o juzgados, una lista de los negocios que se hayan acordado cada día. La lista se fijará a más tardar a las 10 diez horas del día siguiente al de la fecha de la resolución, expresándose el número de expediente, clase de juicio de que se trata y el sentido de la misma. Estas listas quedaran resguardadas en el tribunal o juzgado correspondiente por un plazo máximo de 6 seis meses, para los efectos legales a que haya lugar.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+ART. 127.- En las salas del tribunal y en los juzgados, los Secretarios de Acuerdos asentarán en autos las notificaciones que señala el artículo 123. Al que infrinja lo anterior, el titular del órgano le impondrá una multa de cinco salarios mínimos vigentes en el Estado, que se hará efectiva por conducto del órgano administrativo correspondiente del Poder Judicial del Estado.
 
 ### CAPITULO VI. De los términos judiciales
 
-ART. 128.- Los términos judiciales empezarán a correr desde el día siguiente a aquel en que se hubiere hecho el emplazamiento o notificación.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
 
-ART. 129.- Cuando fueren varias las partes y el término común, se contará desde el día siguiente a aquel en que todas hayan quedado notificadas.
+ART. 128.- Todos los términos judiciales empezarán a correr desde el día siguiente al en que haya surtido efectos el emplazamiento, notificación, citación o la última publicación de edictos y se contará en ellos el día de su vencimiento.
+
+ART. 129.- (DEROGADO, P.O. 8 DE SEPTIEMBRE DE 2012)
 
 ART. 130.- En ningún término se contarán los días en que no puedan tener lugar actuaciones judiciales.
 
@@ -963,15 +1051,17 @@ ART. 132.- Una vez concluídos los términos fijados a las partes, sin necesidad
 
 ART. 133.- Siempre que la práctica de un acto judicial requiera citación de personas que estén fuera del lugar del juicio, para que concurran ante el Tribunal, se debe fijar un término en el que se aumente al fijado por la Ley un día más por cada doscientos kilómetros de distancia o fracción que exceda de la mitad. Si el demandado residiere en el extranjero, el juez ampliará el término a todo el que considere necesario, atendidas las distancias y la mayor o menor facilidad de las comunicaciones.
 
-ART. 134.- Los términos que por disposición expresa de la ley o por la naturaleza del caso no son individuales, se tienen por comunes para las partes.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+ART. 134.- Todos los términos contemplados en el presente ordenamiento se consideran individuales para las partes.
 
 ART. 135.- Para fijar la duración de los términos, los meses se regularán por el número de días que les correspondan, y los días se entenderán de veinticuatro horas naturales contadas de las veinticuatro a las veinticuatro (sic).
 
 ART. 136.- Cuando este Código no señale los términos para la práctica de algún acto judicial, o para el ejercicio de algún derecho, se tendrán por señalados los siguientes:
 
-I.- Cinco días para interponer el recurso de apelación de sentencia definitiva;
+I.- (DEROGADA, P.O. 8 DE SEPTIEMBRE DE 2012)
 
-II.- Tres días para apelar de autos;
+II.- (DEROGADA, P.O. 8 DE SEPTIEMBRE DE 2012)
 
 III.- Tres días para la celebración de juntas, reconocimiento de firmas, exhibición de documentos, dictamen de peritos; a no ser que por circunstancias especiales creyere justo el juez ampliar el término, lo cual podrá hacer por tres días más;
 
@@ -1025,7 +1115,7 @@ ART. 147.- Las partes pueden desistirse de seguir sosteniendo la competencia de 
 
 ART. 148.- Las competencias por razón del territorio y materia son las únicas que se pueden prorrogar, salvo que correspondan al fuero federal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO DE REFORMAS AL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1037,7 +1127,7 @@ ART. 149.- Si el juez deja de conocer por recusación o excusa, conocerá el que
 
 ART. 150.- Es juez competente aquel al que los litigantes se hubieren sometido expresa o tácitamente, cuando se trate del fuero renunciable.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2008)</small>
 
 ART. 151.- Hay sumisión expresa cuando medie acuerdo por escrito referido a un asunto determinado, en el cual los interesados renuncien clara y terminantemente al fuero que la ley les concede, y se sujeten a la competencia del Juez en turno del ramo correspondiente.
 
@@ -1169,7 +1259,7 @@ ART. 162.- Salvo los casos de prórroga autorizados por este Código, si el Trib
 
 Las partes podrán promover la incompetencia del Juez por inhibitoria o por declinatoria.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO DE REFORMAS AL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1201,9 +1291,9 @@ Si las partes sólo alegan y no ofrecen pruebas, o las propuestas no se admiten,
 
 Los autos se remitirán al Juez declarado competente, con testimonio de la sentencia, del cual se remitirá otro tanto al Juez contendiente. Contra la resolución dictada por el Pleno del Supremo Tribunal de Justicia es procedente el recurso de responsabilidad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO DE REFORMAS AL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 ART. 165.- La declinatoria de competencia se propondrá ante el juez, pidiéndole se abstenga de conocer del negocio dentro del término concedido para contestar la demanda en el procedimiento de que se trate.
 
@@ -1219,7 +1309,7 @@ Recibido por el Pleno del Tribunal el testimonio de las constancias procesales, 
 
 En el caso de que se ofrezcan pruebas y éstas sean admitidas, se mandarán preparar y se fijará fecha para que, dentro de los diez días siguientes, tenga lugar una audiencia, en la cual se desahogarán pruebas y se formularán alegatos. La resolución deberá pronunciarse y notificarse dentro del término de ocho días.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO DE REFORMAS AL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1247,7 +1337,9 @@ Si las partes sólo alegan y no ofrecen pruebas, o las propuestas no se admiten,
 
 ART. 167.- El litigante que hubiere optado por uno de los dos medios de promover una incompetencia, no podrá abandonarlo y recurrir al otro, ni tampoco emplearlos sucesivamente.
 
-En el caso de que se declare infundada o improcedente una incompetencia, se aplicará al que la opuso, una multa equivalente hasta de veinte días de salario mínimo general vigente en el Estado a favor del Fondo Auxiliar en Beneficio de la Administración de Justicia, siempre que a juicio del Juez, el incidente respectivo fuere promovido para alargar o dilatar el procedimiento.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+En el caso de que se declare infundada o improcedente una incompetencia, se aplicará al que la opuso, una multa de cinco a cuarenta días de salario mínimo general vigente en el Estado al momento de su imposición, a favor del Fondo Auxiliar en Beneficio de la Administración de Justicia, siempre que a juicio del juez, el incidente respectivo fuere promovido para alargar o dilatar el procedimiento.
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
@@ -1347,7 +1439,7 @@ ART. 181.- Una vez interpuesta la recusación, la parte recusante no podrá alza
 
 ART. 182.- Si se declarare improcedente o no probada la causa de recusación que se hubiere invocado, no se volverá a admitir otra recusación con causa, a menos que el recusante proteste que la causa es posterior a la resolución de la invocada con anterioridad, cuando hubiere variación en el personal, en cuyo caso podrá hacerse valer la recusación respecto del nuevo Magistrado, Juez o Secretario.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE AGOSTO DE 1985)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE AGOSTO DE 1985)</small>
 
 ### CAPITULO VI
 
@@ -1419,7 +1511,17 @@ ART. 186.- En el incidente de recusación son admisibles todos los medios de pru
 
 ART. 187.- Los magistrados y jueces que conozcan de una recusación son irrecusables para sólo este efecto.
 
-ART. 188.- Si se declarare improcedente o no probada la causa de recusación, se impondrá al recusante una multa de uno a veinte pesos, si se trata de juez de paz; de veinte a cincuenta, si el recusado fuere un juez menor; de cincuenta a doscientos, si fuere un juez de lo civil, y de doscientos a cuatrocientos, si fuere magistrado. No se dará curso a ninguna recusación, si no exhibe el recusante al interponerla el billete de depósito por el máximo de la multa, la que, en su caso, se aplicará al colitigante si lo hubiere, por vía de indemnización, y en caso contrario al Fisco.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+ART. 188.- Para dar curso a una recusación con causa, el litigante deberá exhibir mediante la cédula de depósito respectiva, el monto máximo de la posible indemnización a favor del colitigante.
+
+Si se declara improcedente o no probada la causa de recusación, atendiendo a las circunstancias del caso, se impondrá al recusante la obligación de indemnizar al colitigante, bajo los siguientes parámetros:
+
+I.- De uno a veinte días de salario mínimo general vigente en el Estado al momento de su imposición, si el recusado fuere un juez de paz ó secretario de acuerdos;
+
+II.- De cinco a cuarenta días de salario mínimo general vigente en el Estado al momento de su imposición, si el recusado fuere un juez de primera instancia; y
+
+III.- De diez a sesenta días de salario mínimo general vigente en el Estado al momento de su imposición, si el recusado fuere magistrado.
 
 ART. 189.- De la recusación de un magistrado conocerá el de la sala que le sigue en número; de la de un juez, la sala que corresponda.
 
@@ -1443,7 +1545,7 @@ Si después de dos citaciones no compareciere ni alegare justa causa que se lo i
 
 ART. 201.- El documento privado que contenga deuda líquida y sea de plazo cumplido, dará mérito para que el juez ordene el requerimiento de pago como preliminar del embargo que se practicará en caso de no hacerse aquél en el acto de la diligencia; pero siempre será necesario que previamente se intime al deudor para que reconozca su firma ante el actuario en el mismo acto. Cuando intimado dos veces rehuse contestar si es o no es suya la firma; se tendrá por reconocida.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ART. 202.- Puede hacerse el reconocimiento de documentos firmados ante notario público, en forma autógrafa o con la firma electrónica certificada, ya en el momento del otorgamiento o con posterioridad, siempre que lo haga la persona directamente obligada, su representante legítimo o su mandatario con poder bastante.
 
@@ -1455,7 +1557,7 @@ ART. 203.- Si es un instrumento público o privado reconocido y contiene cantida
 
 La liquidación se hace con un escrito de cada parte y la resolución del Juez, sin ulterior recurso más que el de responsabilidad.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE JUNIO DE 1975)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE JUNIO DE 1975)</small>
 
 (REPUBLICADA, P.O. 25 DE MARZO DE 2000)
 
@@ -1673,7 +1775,7 @@ El juez en el auto de radicación de la demanda informará a las partes, en tér
 
 Si dentro del término fijado en el párrafo anterior, las partes no atendieran a la recomendación del Juez, no interrumpirá éste el término para la contestación de la demanda.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO DE REFORMAS AL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1701,7 +1803,7 @@ Las excepciones que se tengan, cualquiera que sea su naturaleza, se harán valer
 
 En la misma contestación propondrá la reconvención en los casos en que proceda.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO DE REFORMAS AL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1743,7 +1845,7 @@ ART. 271.- El demandado que oponga reconvención o compensación, lo hará preci
 
 ART. 272.- Las excepciones supervenientes se harán valer hasta antes de citación para sentencia y dentro del tercer día de que de ella tenga conocimiento la parte interesada. Se substanciará en forma incidental y su resolución se reservará para la sentencia definitiva.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO DE REFORMAS AL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1757,13 +1859,13 @@ Se procederá de igual manera cuando el actor manifieste su conformidad con la c
 
 ART. 274.- Sólo podrán oponerse excepciones o defensas contradictorias cuando se hagan con el carácter de subsidiarias.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
 
-ART. 275.- Si las cuestiones controvertidas fueren puramente de derecho y no de hecho, salvo lo dispuesto para el derecho extranjero, el juzgador otorgará a las partes un plazo común de tres días para que aleguen y dictará sentencia definitiva.
+ART. 275.- Si las cuestiones controvertidas fueren puramente de derecho y no de hecho, salvo lo dispuesto para el derecho extranjero, el juzgador otorgará a las partes un plazo de tres días para que aleguen y dictará sentencia definitiva.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO DE REFORMAS AL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 ART. 276.- Transcurrido el término para contestar la demanda o la reconvención, el juez abrirá el juicio a prueba, salvo los casos de excepción previstos en este Código, pronunciando al efecto y en forma expresa el auto correspondiente.
 
@@ -1829,13 +1931,15 @@ IV.- Cuando la negativa fuere elemento constitutivo de la acción.
 
 ART. 282.- Las partes no pueden renunciar anticipadamente a la fase probatoria, ni a ofrecer las pruebas autorizadas por la ley.
 
-No obstante lo dispuesto en el artículo anterior, las partes podrán solicitar que se falle el juicio sin más pruebas que las documentales que, en su caso, hayan ofrecido con los escritos de demanda y contestación, en cuyo caso, el juzgador otorgará a las partes un plazo común de tres días para que aleguen y dictará sentencia definitiva.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+No obstante lo dispuesto en el artículo anterior, las partes podrán solicitar que se falle el juicio sin más pruebas que las documentales que, en su caso, hayan ofrecido con los escritos de demanda y contestación, en cuyo caso, el juzgador otorgará a las partes un plazo de tres días para que aleguen y dictará sentencia definitiva.
 
 Las partes podrán desistirse de la práctica de las pruebas que estén pendientes de recepción, a fin de que el procedimiento continúe por sus demás trámites, pero no podrán hacerlo una vez que han sido desahogadas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO DE REFORMAS AL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 ART. 283.- Serán objeto de prueba los hechos controvertidos por las partes en los escritos que fijan el debate. El derecho no será objeto de prueba, salvo cuando se trate de usos y costumbres y las partes no estuvieren de acuerdo con su existencia y contenido.
 
@@ -1911,7 +2015,7 @@ ART. 288 BIS.- Salvo disposición contraria de la Ley, lo dispuesto en este Cap�
 
 ART. 289.- El período de ofrecimiento de pruebas es de diez días fatales que empezarán a contarse desde el día siguiente en que se notifique a las partes el auto que expresamente abra dicho período.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO DE REFORMAS AL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1931,9 +2035,9 @@ ART. 295.- Los documentos que ya se exhibieron antes de este período y las cons
 
 ART. 296.- Al solicitarse la inspección judicial se determinarán los puntos sobre que deba de versar.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO DE REFORMAS AL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 ART. 297.- Una vez concluido el período de ofrecimiento de pruebas, el juzgador dictará resolución en la que determinará las pruebas que se admitan o, en su caso, se desechen.
 
@@ -1947,7 +2051,7 @@ II.- Para demostrar hechos que quedaron admitidos por las partes y sobre los que
 
 III.- Para demostrar un hecho que no pueda existir porque sea incompatible con una ley de la naturaleza o con las reglas de la lógica y las máximas de la experiencia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO DE REFORMAS AL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1957,7 +2061,7 @@ V.- En forma extemporánea o en contravención a las reglas establecidas en este
 
 VI.- Que sean contrarias al derecho o al respeto y la dignidad de las personas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO DE REFORMAS AL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1967,7 +2071,7 @@ Contra el auto que admita o deseche una prueba procede la apelación en efecto d
 
 ART. 298.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE AGOSTO DE 1985)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE AGOSTO DE 1985)</small>
 
 ### CAPITULO V
 
@@ -1979,7 +2083,7 @@ ART. 298.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
 
 Del termino probatorio
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE JULIO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE JULIO DE 2008)</small>
 
 #### SECCION I. Del período probatorio
 
@@ -1995,9 +2099,9 @@ El Juez, al calificar la admisibilidad de las pruebas resolverá sobre el térmi
 
 En el caso de que los documentos se puedan cotejar por vía electrónica, se deberá indicar la dependencia y la página de internet de ésta, supuesto en el cual la concesión del término extraordinario de prueba será innecesario.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
 
-ART. 301.- La parte a quien se hubiere concedido el período extraordinario de prueba a que se refiere el artículo anterior, se le entregará el exhorto para su diligenciación y si no lo devolviere debidamente diligenciado dentro del plazo señalado por el Juez, sin justificar que para ello tuvo impedimento bastante, se le impondrá una multa que fijará el juzgador hasta por veinte días de salario mínimo general vigente en el Estado. Asimismo, se le condenará a pagar indemnización de daños y perjuicios en beneficio de su contraparte y se declarará desierta la prueba.
+ART. 301.- La parte a quien se hubiere concedido el período extraordinario de prueba a que se refiere el artículo anterior, se le entregará el exhorto para su diligenciación y si no lo devolviere debidamente diligenciado dentro del plazo señalado por el Juez, sin justificar que para ello tuvo impedimento bastante, se le impondrá una multa que fijará el juzgador de cinco hasta cuarenta días de salario mínimo general vigente en el Estado al momento de su imposición, a favor del Fondo Auxiliar en Beneficio de la Administración de Justicia. Asimismo, se le condenará a pagar indemnización de daños y perjuicios en beneficio de su contraparte y se declarará desierta la prueba.
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
@@ -2121,7 +2225,7 @@ ART. 318.- De la diligencia se levantará acta, que deberá ser firmada al pie d
 
 ART. 319.- Cuando el absolvente, al enterarse de su declaración manifiesta no estar conforme con los términos asentados, el Juez decidirá en el acto lo que proceda acerca de las rectificaciones que deban hacerse. Una vez firmadas las declaraciones no pueden variarse ni en la substancia ni en la redacción. La nulidad proveniente de error o violencia se substanciará incidentalmente y la resolución que se dicte será apelable en el efecto devolutivo, de tramitación conjunta con la sentencia definitiva, cuando sea apelable la sentencia en lo principal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO DE REFORMAS AL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
@@ -2159,7 +2263,7 @@ III. No procederá la confesión ficta en la prueba de declaración de parte.
 
 IV. Serán aplicables a esta prueba, en lo conducente, las reglas de la prueba testimonial.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE JULIO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE JULIO DE 2008)</small>
 
 #### SECCION III. Documentos públicos y privados
 
@@ -2293,9 +2397,9 @@ ART. 332 Bis 4.- Los documentos, firmados en forma autógrafa o con la firma ele
 
 ART. 333.- Son documentos privados los que carezcan de los requisitos que se expresan en el artículo 326 de este Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO DE REFORMAS AL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 ART. 334.- Los documentos privados y la correspondencia procedentes de uno de los interesados, presentados en juicio por vía de prueba y no impugnados ni objetados por la parte contraria, se tendrán por admitidos y surtirán sus efectos como si hubieren sido reconocidos expresamente.
 
@@ -2431,7 +2535,9 @@ En el supuesto de que el perito designado por alguna de las partes, que haya ace
 
 En caso de que alguno de los peritos renuncie después de haber aceptado y protestado el cargo, la parte que lo haya nombrado podrá solicitar al Juez que designe a otro para sustituirlo.
 
-En los casos a que se refieren los párrafos anteriores, el Juez sancionará a los peritos omisos, sin justa causa, con multa hasta de tres mil pesos. Dicho monto se actualizará en forma anualizada en el mes de diciembre para empezar a regir el primero de enero siguiente, de acuerdo con el Índice Nacional de Precios al Consumidor que determine el Banco de México y a falta de éste será aplicable el que lo sustituya.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+En los casos a que se refieren los párrafos anteriores, el Juez sancionará a los peritos omisos, sin justa causa, con multa de diez hasta sesenta unidades de salario mínimo general vigente en el Estado en el momento de su imposición a favor del Fondo Auxiliar en Beneficio de la Administración de Justicia.
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
@@ -2443,7 +2549,9 @@ El Juez, podrá pedir a los peritos todas las aclaraciones que estime conducente
 
 ART. 349.- Cuando el Juez lo estime conveniente, ordenará que la pericial se desahogue en audiencia y concurra el tercero en discordia. En este caso se observarán las reglas siguientes:
 
-I.- El perito que dejare de concurrir sin causa justa, calificada por el Tribunal, podrá ser sancionado con una multa hasta de tres mil pesos, de acuerdo con lo previsto por el artículo 347 de este Ordenamiento;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+I.- El perito que dejare de concurrir sin causa justa, calificada por el Tribunal, podrá ser sancionado con una multa de diez hasta sesenta unidades de salario mínimo general vigente en el Estado al momento de su imposición a favor del Fondo Auxiliar en Beneficio de la Administración de Justicia.
 
 II.- Los peritos practicarán unidos la diligencia. Las partes y sus abogados y consultores técnicos podrán asistir a la práctica de la peritación, salvo que el juzgador disponga otra cosa o que se trate de investigaciones que el perito estime debe realizar sin asistencia de las partes. Éstas pueden realizar las observaciones que estimen pertinentes. Los peritos estarán obligados a considerar, en su dictamen, las observaciones de los interesados y del Tribunal;
 
@@ -2481,7 +2589,9 @@ IV.- Tener amistad íntima o enemistad manifiesta con algunas de las partes, sus
 
 El juez calificará de plano la recusación y las partes deben presentar las pruebas al hacerla valer. Contra el auto en que se admita o deseche la recusación no procede recurso alguno. Admitida, se nombrará nuevo perito en los mismos términos que al recusado.
 
-ART. 351.- En caso de ser desechada la recusación se impondrá al recusante una multa, que no excederá de veinte pesos, en favor del colitigante.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+ART. 351.- En caso de ser desechada la recusación, el recusante deberá cubrir a favor del colitigante, una indemnización de uno a veinte unidades de salario mínimo general vigente en el Estado al momento de su imposición.
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
@@ -2551,7 +2661,13 @@ ART. 356.- La prueba testimonial se ofrecerá indicando los nombres y domicilios
 
 Las partes tendrán el deber de presentar a sus propios testigos. Cuando realmente estuvieren imposibilitadas para hacerlo, lo manifestarán al juzgador bajo protesta de decir verdad, expresando las causas por las cuales no pueden presentarlos y le pedirán que los cite. El Juez calificará las causas de imposibilidad bajo su prudente arbitrio, sin perjuicio de que la parte oferente coadyuve a la debida citación de los mismos.
 
-El juzgador ordenará la citación de los testigos, con el apercibimiento de imponerles una multa o un arresto en los términos previstos en el artículo 73 de este Código, en caso de que dejen de comparecer sin causa justificada o que, compareciendo, se nieguen a declarar.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+El juzgador ordenará la citación de los testigos por conducto del actuario, con el apercibimiento de imponerles una multa o un arresto en los términos previstos en el artículo 73 de este Código, en caso de que dejen de comparecer sin causa justificada o que, compareciendo, se nieguen a declarar.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+Cuando el oferente de la prueba haya solicitado coadyuvar en la citación entregando por su conducto los citatorios a sus testigos, se levantara una certificación de esa circunstancia, apercibiéndosele que, en caso de no acreditar la citación oportuna a los testigos y que éstos no asistan a la audiencia sin causa justificada, se declarara desierta dicha probanza o el testimonio del ausente, en lugar de señalar nueva fecha e imponer una medida de apremio.
 
 A los que citados legalmente, dejaren de comparecer sin causa justificada, o habiendo comparecido se nieguen a prestar la protesta de decir verdad o a declarar, se les hará efectivo el apercibimiento fijado en la citación y podrá ordenarse la presentación de los que no hayan asistido, por medio de la fuerza pública o mediante arresto, independientemente de la responsabilidad penal en que incurran.
 
@@ -2719,7 +2835,7 @@ ART. 381.- No se admite prueba contra la presunción legal cuando la Ley lo proh
 
 ART. 382.- Contra las demás presunciones legales y contra las humanas es admisible la prueba.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE AGOSTO DE 1985)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE AGOSTO DE 1985)</small>
 
 ### CAPITULO VII. Del valor de las pruebas
 
@@ -2759,7 +2875,7 @@ ART. 407.- La confesión extrajudicial hecha en testamento también hace prueba 
 
 ART. 408.- La confesión no producirá efecto probatorio cuando venga acompañada con otras pruebas o presunciones que la hagan inverosímil o descubran la intención de defraudar a terceros. Debe el juez razonar cuidadosamente esta parte en su fallo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ART. 409.- Los documentos públicos firmados en forma autógrafa o con la firma electrónica certificada o fiable que corresponda, hacen prueba plena de los hechos legalmente afirmados por la autoridad que de aquellos procedan; pero, si en ellos se contienen declaraciones de verdad o manifestaciones de hechos de particulares, los documentos sólo prueban plenamente que, ante la autoridad que los expidió, se hicieron tales declaraciones o manifestaciones; pero no prueban la verdad de lo declarado o manifestado.
 
@@ -2793,7 +2909,7 @@ Si la suscripción o la fecha están certificadas por notario o por cualquier ot
 
 Se considera como autor de los libros de comercio, registros domésticos y demás documentos que no se acostumbra suscribir, a aquél que los haya formado o por cuya cuenta se hicieren.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO DE REFORMAS AL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
@@ -2889,7 +3005,7 @@ La prueba pericial se rendirá en la audiencia, reproduciendo los peritos sus di
 
 ART. 391.- Los testigos indicados en el auto de admisión de pruebas serán examinados en la audiencia, en presencia de las partes. El juez puede de oficio interrogar ampliamente a los testigos sobre los hechos objeto de esta prueba, para mejor esclarecimiento de la verdad. Las partes también pueden interrogar a los testigos, limitándose a los hechos o puntos controvertidos. El juez debe impedir preguntas capciosas, ociosas o impertinentes. Las partes podrán objetar la pregunta que se haga en el momento de la audiencia y en ese mismo momento el juez resolverá esa objeción, tomando como base lo dispuesto en este mismo Artículo y por el 359. En el acta que se levante deberán asentarse literal y textualmente las preguntas y las respuestas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO DE REFORMAS AL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
@@ -3007,9 +3123,11 @@ ART. 432.- El juicio sumario se inicia con el escrito de demanda en el que debe 
 
 Si en la contestación de la demanda se opusiere falta de personalidad o capacidad en el actor o el demandado, se tramitará dicha excepción en forma de incidente, que no suspenderá el procedimiento y la resolución que se dicte será apelable en el efecto devolutivo, de tramitación inmediata, sin perjuicio de lo dispuesto por el artículo 39 de este Código.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
 
-ART. 433.- Transcurrido el término para contestar la demanda, cuando se requiera, el Juez abrirá el juicio a prueba, por tres días común a las partes, pronunciando al efecto y en forma expresa el auto correspondiente.
+ART. 433.- Transcurrido el término para contestar la demanda, cuando se requiera, el Juez abrirá el juicio a prueba, por tres días a las partes, pronunciando al efecto y en forma expresa el auto correspondiente.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
 El auto que niegue o mande abrir el juicio a prueba será revocable.
 
@@ -3017,7 +3135,7 @@ El auto que niegue o mande abrir el juicio a prueba será revocable.
 
 ART. 434.- Una vez ofrecidas y admitidas las pruebas que así lo ameriten a las partes, se señalará día y hora para su recepción dentro de los siguientes quince días a su admisión.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO DE REFORMAS AL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
@@ -3041,7 +3159,7 @@ ART. 439.- (DEROGADO, P.O. 19 DE JULIO DE 2008)
 
 ART. 429 BIS (SIC).- La rectificación o modificación de un Acta del Estado civil no puede hacerse sino mediante sentencia que dicta la autoridad judicial en los términos previstos por este Código, o por resolución administrativa emitida por la Dirección General del Registro Civil en los supuestos y bajo las reglas establecidas en el Código Civil, salvo el reconocimiento que voluntariamente haga un padre de su hijo, en los casos autorizados por este último ordenamiento.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE AGOSTO DE 1985)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE AGOSTO DE 1985)</small>
 
 ### CAPITULO II. De los juicios por alimentos
 
@@ -3203,7 +3321,7 @@ ART. 465.- Procede también la acción sumaria ejecutiva para recuperar, bajo la
 
 ART. 466.- Para que procedan en vía ejecutiva las acciones a que se refieren los artículos que preceden se necesita que los contratos se hayan registrado como lo previene el Código Civil.
 
-> <small>(REFORMADA SU NUMERACION, P.O. 10 DE AGOSTO DE 1985)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 10 DE AGOSTO DE 1985)</small>
 
 #### SECCION I. De la ejecución de sentencia
 
@@ -3281,7 +3399,9 @@ En el mismo caso podrá el acreedor pedir al juez que, en vez de ejecutar al obl
 
 ART. 522.- Cuando la sentencia condene a dividir una cosa común y no dé las bases para ello, se convocará a los interesados a una junta para que en la presencia judicial determinen las bases de la partición o designen un partidor, y si no se pusieren de acuerdo en una u otra cosa, el juez designará a persona que haga la partición y que sea perito en la materia si fueren menester conocimientos especiales. Señalará a éste el término prudente para que presente el proyecto partitorio.
 
-Presentado el plan de partición, quedará en la Secretaría a la vista de los interesados por seis días, comunes, para que formulen las objeciones dentro de ese mismo tiempo y de las que se correrá traslado al partidor y se sustanciarán en la misma forma de los incidentes de liquidación de sentencia. El juez al resolver mandará hacer las adjudicaciones y extender las hijuelas con una breve relación de los antecedentes respectivos.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+Presentado el plan de partición, quedará en la Secretaría a la vista de los interesados por seis días, para que formulen las objeciones dentro de ese mismo tiempo y de las que se correrá traslado al partidor y se sustanciarán en la misma forma de los incidentes de liquidación de sentencia. El juez al resolver mandará hacer las adjudicaciones y extender las hijuelas con una breve relación de los antecedentes respectivos.
 
 ART. 523.- Si la sentencia condena a no hacer, su infracción se resolverá en el pago de daños y perjuicios al actor, quien tendrá el derecho de señalarlos para que por ellos se despache ejecución, sin perjuicio de la pena que señale el contrato o el testamento.
 
@@ -3497,13 +3617,15 @@ III.- Para nombrar a su costa un perito que con los nombrados por el ejecutante 
 
 ART. 568.- El avalúo se practicará de acuerdo con las reglas establecidas para la prueba pericial. Si fueren más de dos los peritos valuadores no habrá necesidad de nombrar tercero en discordia.
 
-ART. 569.- Hecho el avalúo se sacarán los bienes a pública subasta, anunciándose por dos veces, de siete en siete días, fijándose edictos en los sitios públicos de costumbre, y si el valor de la cosa pasare de cinco mil pesos, se insertarán aquéllos en un periódico de información. A petición de cualquiera de las partes y a su costa el juez puede usar, además de los dichos, algún otro medio de publicidad para convocar postores.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+ART. 569.- Hecho el avalúo se sacarán los bienes a pública subasta, anunciándose por dos veces, de siete en siete días, fijándose edictos en los sitios públicos de costumbre, y si el valor del bien excede de mil unidades de salario mínimo general vigente en el Estado, además de lo anterior, se insertarán aquellos en uno de los periódicos de mayor circulación en la Entidad. A petición de cualquiera de las partes y a su costa el juez puede usar, además de los antes señalados, algún otro medio de publicidad para convocar postores.
 
 ART. 570.- Antes de fincarse el remate o declararse la adjudicación podrá el deudor librar sus bienes pagando principal y costas. Después de fincado quedará la venta irrevocable.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
 
-ART. 571.- Si los bienes raíces estuvieren situados en diversos lugares en todos estos se publicarán los edictos en los sitios de costumbre y en las puertas del juzgado respectivo. En el caso a que este Artículo se refiere, se ampliará el término de los edictos, concediéndose un día más por cada doscientos kilómetros o fracción que exceda de la mitad y se calculará para designarlo la distancia mayor a que se hallen los bienes. Puede usar el juez, además de los medios antes indicados, algún otro medio de publicidad para llamar postores.
+ART. 571.- Si los bienes raíces estuvieren situados en diversos lugares en todos estos se publicarán los edictos en los sitios de costumbre y en los estrados del juzgado respectivo. En el caso a que este Artículo se refiere, se ampliará el término de los edictos, concediéndose un día más por cada doscientos kilómetros o fracción que exceda de la mitad y se calculará para designarlo la distancia mayor en que se encuentren los bienes. Puede usar el juez, además de los medios antes indicados, algún otro medio de publicidad para llamar postores.
 
 ART. 572.- Es postura legal la que cubra las dos terceras partes del avalúo o del precio fijado a la finca hipotecada por los contratantes, con tal de que la parte de contado sea suficiente para pagar el crédito o créditos que han sido objeto del juicio y las costas.
 
@@ -3659,7 +3781,7 @@ ART. 605.- Es competente para ejecutar una sentencia dictada en el extranjero el
 
 ART. 606.- Traducida la ejecutoria en la forma prevista en el artículo 329, se presentará al juzgado competente para su ejecución, pero previamente se formará artículo para examinar su autenticidad y si conforme a las leyes nacionales deba o no ser ejecutada. Se substancia con un escrito de cada parte y con audiencia del Ministerio Público. La resolución que se dictará dentro del tercer día, contesten o no las partes y el Ministerio Público, será apelable en ambos efectos si se denegare la ejecución y en el efecto devolutivo si se concediere.
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 10 DE AGOSTO DE 1985)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 10 DE AGOSTO DE 1985)</small>
 
 ART. 607.- Ni el juez inferior ni el tribunal superior podrán examinar ni decidir sobre la justicia o injusticia del fallo ni sobre los fundamentos de hecho o de derecho en que se apoye, limitándose tan sólo a examinar su autenticidad y si deba o no ejecutarse conforme a las leyes mexicanas.
 
@@ -3761,7 +3883,7 @@ No son admisibles la reconvención o la compensación sino cuando las acciones e
 
 Las resoluciones sobre alimentos que fueren apeladas se ejecutarán sin fianza, y las que recaigan en los casos de la fracción VIII del artículo 429 son inapelables.
 
-> <small>(REFORMADA SU NUMERACION, P.O. 10 DE AGOSTO DE 1985)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 10 DE AGOSTO DE 1985)</small>
 
 ## TITULO OCTAVO. Del Juicio Arbitral
 
@@ -3863,11 +3985,11 @@ ART. 635.- El juez debe compeler a los árbitros a cumplir con sus obligaciones.
 
 ### CAPITULO III. Del juicio ejecutivo
 
-> <small>(REFORMADA SU NUMERACION, P.O. 10 DE AGOSTO DE 1985)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 10 DE AGOSTO DE 1985)</small>
 
 ## TITULO NOVENO. De los juicios de rebeldía
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE AGOSTO DE 1985)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE AGOSTO DE 1985)</small>
 
 ### CAPITULO IV. Del juicio hipotecario
 
@@ -3953,7 +4075,9 @@ Para efecto del inventario, el deudor queda obligado a dar todas las facilidades
 
 ART. 476.- El deudor que no quiera aceptar la responsabilidad de depositario, entregará desde luego la tenencia material de la finca al actor o al depositario que éste nombre.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 600, PUBLICADO EN EL P.O. 8 DE SEPTIEMBRE DE 2012, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTÍCULO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ART. 477.- Las partes deberán ofrecer sus pruebas para acreditar los hechos de su acción o de sus excepciones, en los escritos que fijan la controversia, exhibiendo los documentos físicos o electrónicos, que tengan en su poder o la copia sellada en que se solicite la expedición de tales documentos que no tuvieran, según ordenan los artículos 95 y 96 de éste ordenamiento.
 
@@ -3961,13 +4085,9 @@ ART. 477.- Las partes deberán ofrecer sus pruebas para acreditar los hechos de 
 
 Las pruebas admitidas deberán ser preparadas por las partes, y en consecuencia en la audiencia deberán presentar a sus testigos.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
 
-No obstante lo anterior, si las partes al ofrecer sus pruebas, bajo protesta de decir verdad, manifiestan no poder presentar a los testigos, ni obtener los documentos físicos o electrónicos, que no tengan a su disposición, el juez mandará citar a dichos testigos, con el apercibimiento que de no comparecer a declarar, sin justa causa que se los impida, les impondrá una multa de hasta cien días de salario mínimo general vigente en el Estado o arresto hasta de treinta y seis horas.
-
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
-
-De igual manera auxiliará al oferente, expidiendo los oficios a las autoridades y terceros que tengan en su poder documentos firmados en forma autógrafa a con la firma electrónica certificada, incluso los que consten sin firma, apercibiendo a las primeras con la imposición de una sanción pecuniaria, en favor de la parte perjudicada, por el equivalente a sesenta días de salario mínimo general vigente en el Estado, que se hará efectiva por orden del propio juez; y a los segundos con la imposición de un arresto hasta de treinta y seis horas, salvo que no tengan en su poder los documentos a archivos electrónicos que se les requieren y así lo manifiesten al juez bajo protesta de decir verdad.
+No obstante lo anterior, si las partes al ofrecer sus pruebas, bajo protesta de decir verdad, manifiestan no poder presentar a los testigos, ni obtener los documentos físicos o electrónicos, que no tengan a su disposición, el juez mandará citar a dichos testigos, con el apercibimiento de imponerles una multa de uno a cien días de salario mínimo general vigente en el Estado al momento de su imposición a favor del Fondo Auxiliar en Beneficio de la Administración de Justicia, o un arresto hasta de treinta y seis horas, en caso de que dejen de comparecer sin causa justificada o que, compareciendo, se nieguen a declarar.
 
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 1997)</small>
 
@@ -4015,7 +4135,7 @@ ART. 486.- (DEROGADO, P.O. 22 DE MARZO DE 1997)
 
 ART. 487.- (DEROGADO, P.O. 22 DE MARZO DE 1997)
 
-> <small>(REFORMADA SU NUMERACION Y DENOMINACION, P.O. 10 DE AGOSTO DE 1985)</small>
+> <small>(REFORMADA SU NUMERACIÓN Y DENOMINACIÓN, P.O. 10 DE AGOSTO DE 1985)</small>
 
 ### CAPITULO V. Del juicio de desocupación
 
@@ -4049,7 +4169,7 @@ ART. 497.- Al hacer el requerimiento que se dispone en el artículo 489, se emba
 
 ART. 498.- Para la ejecución del desahucio se tiene como domicilio legal del ejecutado la finca o departamento de cuya desocupación se trata.
 
-> <small>(REFORMADA SU NUMERACION, P.O. 10 DE AGOSTO DE 1985)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 10 DE AGOSTO DE 1985)</small>
 
 ### CAPITULO VI. De la vía de apremio
 
@@ -4059,17 +4179,17 @@ ART. 498.- Para la ejecución del desahucio se tiene como domicilio legal del ej
 
 ART. 636.- En toda clase de juicios, cuando se constituya en rebeldía un litigante, no se volverá a practicar diligencia alguna en su busca.
 
-Todas las resoluciones que de allí en adelante recaigan en el pleito y cuantas citaciones deban hacérsele, se notificarán por cédula que se fije en las puertas o estrados del juzgado o tribunal, salvo los casos en que otra cosa se prevenga.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+Las subsecuentes resoluciones que recaigan en el proceso y cuantas citaciones deban hacerse, se notificarán por lista en los términos del artículo 123.
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
 
 ART. 637.- El litigante será declarado rebelde a petición de parte contraria, a no ser que cuando el que ha sido arraigado quebrante el arraigo sin dejar apoderado instruído y expensado.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
 
-ART. 638.- Los autos que ordenen que un negocio se reciba a prueba o señalen día y hora para su desahogo, además de notificarse de la manera prevenida en el Artículo 636, se publicará por dos veces consecutivas en el periódico de mayor circulación en el Estado.
-
-Así mismo se procederá en el caso previsto por la fracción II del Artículo 122, cuando tratándose de la notificación de los puntos resolutivos de la sentencia definitiva que se pronuncie.
+ART. 638.- Los autos que ordenen día y hora para el desahogo de alguna prueba y los puntos resolutivos de la sentencia definitiva que se pronuncie siempre que se esté en el caso previsto por la fracción II del artículo 122, se publicarán por dos veces consecutivas, en un Periódico de los de mayor circulación en el Estado.
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
 
@@ -4089,9 +4209,9 @@ ART. 641.- El embargo de los inmuebles se hará expidiendo mandamiento por dupli
 
 ART. 642.- La retención o embargo practicados a consecuencia de declaración en rebeldía continuarán hasta la conclusión del juicio.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
 
-ART. 643.- En el caso de que el emplazamiento se hubiere hecho por edictos, la sentencia no se ejecutará sino pasados tres meses a partir de la última publicación en el periódico de mayor circulación en el Estado de sus puntos resolutivos, a no ser que el actor dé fianza tal como lo previene para el juicio ejecutivo.
+ART. 643.- En el caso de que el emplazamiento se hubiere hecho por edictos, la sentencia no se ejecutará sino pasado un mes a partir del día siguiente de la última publicación a que se refiere el artículo 638, salvo que el actor exhiba fianza.
 
 ### CAPITULO II. Procedimiento estando presente el rebelde
 
@@ -4099,19 +4219,13 @@ ART. 643.- En el caso de que el emplazamiento se hubiere hecho por edictos, la s
 
 ART. 644.- Cualquiera que sea el estado del pleito en que el litigante rebelde comparezca, será admitido como parte y se entenderá con él la substanciación del juicio, sin que ésta pueda retroceder en ningún caso.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+ART. 645.- (DEROGADO, P.O. 8 DE SEPTIEMBRE DE 2012)
 
-ART. 645.- Si el litigante rebelde se presenta dentro del término probatorio, tendrá derecho a que se le reciban las pruebas que promueva.
-
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
-
-ART. 646.- Si compareciere después del término de prueba en primera instancia o durante la segunda, sólo se le recibirán las pruebas si acreditare que no fue emplazado personalmente y haber estado impedido por causa de fuerza mayor no interrumpida desde el emplazamiento al juicio hasta su presentación, para hacerlo.
+ART. 646.- (DEROGADO, P.O. 8 DE SEPTIEMBRE DE 2012)
 
 ART. 647.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2011)</small>
-
-ART. 648.- Siempre que se trate de acreditar el impedimento insuperable se tramitará en forma incidental en la misma pieza de autos, sin más recursos que el de responsabilidad.
+ART. 648.- (DEROGADO, P.O. 8 DE SEPTIEMBRE DE 2012)
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
 
@@ -4185,7 +4299,7 @@ ART. 668.- Cuando se presenten tres o más acreedores que hicieren oposición, s
 
 ART. 673.- Cuando ambos consortes convengan en divorciarse, en los términos del último párrafo del artículo 272 del Código Civil, deberán ocurrir al tribunal competente presentando el convenio que se exige en el artículo 273 del Código citado, así como una copia certificada del acta de matrimonio y de las de nacimiento de los hijos menores.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2009)</small>
 
@@ -4195,7 +4309,7 @@ Si los cónyuges no asisten a la junta, se dará por terminada la instancia, sal
 
 Si se logró el avenimiento, el Juez archivará el asunto como concluido.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2009)</small>
 
@@ -4207,7 +4321,7 @@ ART. 677.- Los cónyuges no pueden hacerse representar por procurador en las jun
 
 ART. 678.- En cualquier caso en que los cónyuges dejaren pasar más de tres meses sin continuar el procedimiento, el tribunal declarará sin efecto la solicitud y mandará archivar el expediente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2009)</small>
 
@@ -4225,7 +4339,7 @@ La oposición deberá presentarse por escrito dentro de los 3 días siguientes a
 
 ART. 680.- La sentencia que decrete el divorcio por mutuo consentimiento, es apelable en el efecto devolutivo. La que lo niegue es apelable en efecto suspensivo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2009)</small>
 
@@ -4295,7 +4409,7 @@ Si el recurso fuere presentado extemporáneamente o no contiene expresión de ag
 
 ART. 685.- Contra los decretos y autos emitidos por las Salas y el Pleno del Supremo Tribunal de Justicia no procede recurso alguno.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO DE REFORMAS AL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
@@ -4319,37 +4433,37 @@ c) Rechacen la representación de alguna de las partes o resuelvan sobre cualqui
 
 d) Deniegue el trámite de una excepción procesal o la resuelva;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO DE REFORMAS AL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 e) Decida sobre nulidades procesales;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO DE REFORMAS AL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 f) Acuerde sobre suspensión o interrupción del proceso u ordene que se levanten;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO DE REFORMAS AL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 g) Resuelva sobre la aprobación de transacciones y convenios, desistimiento, perención o cualquier otra causa que ponga fin al proceso;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO DE REFORMAS AL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 h) Decrete o levante medidas cautelares; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO DE REFORMAS AL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 i) Causen un gravamen que no pueda repararse en la sentencia definitiva.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO DE REFORMAS AL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
 
 j) (DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2009)
 
@@ -4455,7 +4569,7 @@ IV.- En los juicios sin interés pecuniario, el señalamiento de la caución que
 
 Otorgada la caución, la parte contraria al ejecutante puede evitar la ejecución, otorgando a su vez, caución que comprenderá el pago de lo juzgado y sentenciado, y su cumplimiento, en el caso de que la sentencia condene a hacer o a no hacer. El deudor alimentista no tendrá este derecho, a menos que el acreedor sea mayor de 25 años.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO DE REFORMAS AL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
@@ -4603,7 +4717,7 @@ ART. 721.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
 
 ART. 722.- El recurso de queja tiene lugar:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO DE REFORMAS AL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
 
 I.- (DEROGADA, P.O. 26 DE SEPTIEMBRE DE 2009)
 
@@ -4617,7 +4731,9 @@ ART. 723.- Se da el recurso de queja en contra (sic) los ejecutores y secretario
 
 ART. 724.- El recurso de queja contra el juez se interpondrá ante el superior inmediato dentro de las veinticuatro horas que sigan al acto reclamado, haciéndolo saber dentro del mismo tiempo al juez contra quien va el recurso, acompañándole copia. Dentro del tercer día de que tenga conocimiento, el juez de los autos remitirá al superior informe con justificación. El superior, dentro del tercer día, decidirá lo que corresponda.
 
-ART. 725.- Si la queja no está apoyada por hecho cierto, o no estuviere fundada en derecho, o hubiere recurso ordinario de la resolución reclamada, será desechada por el tribunal, imponiendo a la parte quejosa y a su abogado, solidariamente, una multa que no exceda de cien pesos.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+ART. 725.- Si la queja no está apoyada por hecho cierto, o no estuviere fundada en derecho, o hubiere recurso ordinario de la resolución reclamada, será desechada por el tribunal, imponiendo a la parte quejosa y a su abogado, solidariamente, una multa de uno a cuarenta días de salario mínimo general vigente en el Estado al momento de su imposición, a favor del Fondo Auxiliar en Beneficio de la Administración de Justicia.
 
 ART. 726.- El recurso de queja contra los jueces sólo procede en las causas apelables, a no ser que se intente para calificar el grado en la denegación de apelación.
 
@@ -4649,13 +4765,13 @@ ART. 735.- La sentencia que absuelva de la demanda de responsabilidad civil cond
 
 ART. 736.- En ningún caso la sentencia pronunciada en el juicio de responsabilidad civil alterará la sentencia firme que haya recaído en el pleito en que se hubiere ocasionado el agravio.
 
-> <small>(ADICIONADO CON EL CAPITULO Y LOS ARTICULOS QUE LO INTEGRAN, P.O. 19 DE JULIO DE 2008)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE JULIO DE 2008)</small>
 
 TITULO DECIMOSEGUNDO BIS
 
 De los incidentes
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 19 DE JULIO DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE JULIO DE 2008)</small>
 
 ### CAPITULO UNICO
 
@@ -4767,7 +4883,9 @@ ART. 744.- La junta de rectificación y graduación será presidida por el juez,
 
 En el informe deberá también clasificar los créditos de acuerdo con sus privilegios según el Código Civil.
 
-ART. 745.- Si el síndico no presentare el informe al principiar la junta, perderá el derecho de cobrar honorarios, y será removido de plano, imponiéndosele, además, una multa de cincuenta pesos.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+ART. 745.- Si el síndico no presentare el informe al principiar la junta, perderá el derecho de cobrar honorarios, y será removido de plano, imponiéndole además una multa de cinco a cuarenta días de salario mínimo general vigente en el Estado al momento de su imposición, a favor del Fondo Auxiliar en Beneficio de la Administración de Justicia.
 
 ART. 746.- El acreedor cuyo crédito no resultare del estado, libros o papeles del deudor, será admitido en la junta siempre que, dentro del término fijado en la fracción VI del artículo 738, haya presentado al juzgado los justificantes del mismo.
 
@@ -5053,9 +5171,13 @@ ART. 805.- Si ninguno de los pretendientes hubiere sido declarado heredero, cont
 
 ART. 806.- Si la declaración de herederos la solicitaren parientes colaterales dentro del cuarto grado, el juez, después de recibir los justificantes del entroncamiento y la información testimonial del artículo 800 mandará fijar avisos en los sitios públicos del lugar del juicio y en los lugares del fallecimiento y origen del finado, anunciando su muerte sin testar y los nombres y grados de parentesco de los que reclaman la herencia, y llamando a los que se crean con igual o mejor derecho para que comparezcan en el juzgado a reclamarla dentro de cuarenta días.
 
-El juez prudentemente podrá ampliar el plazo anterior cuando, por el origen del difunto u otras circunstancias, se presuma que podrá haber parientes fuera de la República.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
 
-Los edictos se insertarán, además, dos veces de diez en diez días en un periódico de información si el valor de los bienes hereditarios excediere de cinco mil pesos.
+El juez prudentemente podrá ampliar el plazo anterior cuando, por el lugar de origen del finado u otras circunstancias, se presuma que podrá haber parientes fuera de la República.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+Los edictos se insertarán, además, dos veces de diez en diez días en uno de los periódicos de mayor circulación en la Entidad si el valor de los bienes hereditarios excediere de mil unidades de salario mínimo general vigente en el Estado.
 
 ART. 807.- Transcurrido el término de los edictos a contar desde el día siguiente de su publicación, si nadie se hubiere presentado, trayendo los autos a la vista, el juez hará la declaración prevenida en el artículo 804.
 
@@ -5231,7 +5353,9 @@ Si no hubiere mayoría el juez nombrará partidor eligiéndolo entre los propues
 
 El cónyuge aunque no tenga el carácter de heredero será tenido como parte, si entre los bienes hereditarios hubiere bienes de la sociedad conyugal.
 
-ART. 860.- El juez pondrá a disposición del partidor los autos, y bajo inventario los papeles y documentos relativos al caudal para que proceda a la partición, señalándole un término que nunca excederá de veinticinco días para que presente el proyecto partitorio, bajo el apercibimiento de perder los honorarios que devengare, ser separado de plano de su encargo y de multa de cinco a cien pesos.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+ART. 860.- El juez pondrá a disposición del partidor los autos, y bajo inventario los papeles y documentos relativos al caudal para que proceda a la partición, señalándole un término que nunca excederá de veinticinco días para que presente el proyecto partitorio, bajo el apercibimiento de perder los honorarios que devengare, ser separado de plano del encargo y de multa de hasta cuarenta días de salario mínimo general vigente en el Estado, a favor del Fondo Auxiliar en Beneficio de la Administración de Justicia.
 
 ART. 861.- El partidor pedirá a los interesados las instrucciones que juzgue necesarias, a fin de hacer las adjudicaciones de conformidad con ellos, en todo lo que estén de acuerdo, o de conciliar en lo posible sus pretensiones.
 
@@ -5477,7 +5601,9 @@ II.- El estado de demencia puede probarse por testigos o documentos, pero en tod
 
 III.- Si la sentencia de primera instancia fuere declaratoria de estado, proveerá el juez, aunque fuere apelada o antes si hubiere necesidad urgente, a la patria potestad o tutela de las personas que estuvieren bajo la guarda del presunto incapacitado y a nombrar curador que vigile los actos del tutor interino en la administración de los bienes y cuidado de la persona;
 
-IV.- El que promueva dolosamente el juicio de interdicción incurrirá en las penas que la ley impone por falsedad y calumnia y, sin perjuicio de la responsabilidad civil en que incurra, deberá pagar una multa de cincuenta a mil pesos, que se distribuirá por mitad entre el supuesto incapacitado y el tutor interino;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+IV.- El que promueva dolosamente el juicio de interdicción incurrirá en las penas que la ley impone por falsedad y calumnia y, sin perjuicio de la responsabilidad civil en que incurra, deberá pagar por concepto de indemnización de cien a quinientos días de salario mínimo general vigente en el Estado al momento de su imposición, que se distribuirá por mitad entre el supuesto incapacitado y el tutor interino;
 
 V.- Luego que cause ejecutoria la sentencia de interdicción se proveerá a discernir el cargo al tutor propietario, en los términos de ley.
 
@@ -5559,7 +5685,7 @@ ART. 921.- Lo dispuesto en los artículos que precedan se aplicará al gravamen 
 
 ### CAPITULO IV. Adopción
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MAYO DE 2011)</small>
 
 ART. 922.- El que pretenda adoptar deberá acreditar los requisitos señalados por los artículos 390 y 391 del Código Civil. Asimismo, los órganos jurisdiccionales llevarán a efecto los juicios de adopción, cumpliendo siempre con lo dispuesto en el Código Civil, y su tramitación se hará conforme a lo ordenado en este Código, debiendo observar lo siguiente:
 
@@ -5657,7 +5783,7 @@ IV.- El sitio donde están y donde deben colocarse las señales, y si éstas no 
 
 V.- Los planos y demás documentos firmados en forma autógrafa o con la firma electrónica que sirvan para la diligencia, y designación de un perito por parte del promovente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ART. 934.- Hecha la promoción, el juez la mandará hacer saber a los colindantes para que dentro de tres días presenten los títulos o documentos firmados en forma autógrafa o con la firma electrónica certificada de su posesión y nombren perito si quisieran hacerlo, y se señalará el día, hora y lugar para que de principio la diligencia de deslinde.
 
@@ -5703,7 +5829,7 @@ IV.- (DEROGADA, P.O. 25 DE MARZO DE 2000)
 
 V.- (sic)
 
-> <small>(REFORMADO PRIMER PARRAFO P.O. 25 DE MARZO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO P.O. 25 DE MARZO DE 2000)</small>
 
 ART. 938.- Podrá decretarse la guarda y cuidado de menores o incapacitados que se hallen sujetos a la patria potestad o a la tutela, que fueren maltratados por sus padres o tutores o reciban de éstos ejemplos perniciosos a juicio del juez, o sean obligados por ellos a cometer actos reprobados por las leyes; de huérfanos o incapacitados que queden en abandono por la muerte, ausencia o incapacidad física de la persona a cuyo cargo estuvieren.
 
@@ -5713,13 +5839,13 @@ El menor de edad que deseando contraer matrimonio necesite acudir a la autoridad
 
 En ambos casos no son necesarias formalidades de ninguna clase, asentándose solamente en una o más actas las diligencias del día.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 25 DE MARZO DE 2000)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE MARZO DE 2000)</small>
 
 TITULO DECIMOSEXTO
 
 De las controversias del orden familiar
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 25 DE MARZO DE 2000)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE MARZO DE 2000)</small>
 
 ### CAPITULO UNICO
 
@@ -5769,9 +5895,13 @@ ART. 946.- La audiencia a que se refiere este Capítulo se efectuará dentro de 
 
 ART. 947.- Si por cualquier circunstancia, la audiencia no puede celebrase el día y hora señalados, se verificará dentro de los ocho días siguientes. Las partes están obligadas a presentar a sus testigos y peritos.
 
-Cuando manifiesten, bajo protesta de decir verdad, no estar en posibilidad de hacerlo, el juez ordenará al actuario, cite a los primeros y haga saber su designación a los segundos, convocándolos para la audiencia respectiva en la que rendirán su testimonio o dictamen. La citación se hará con el apercibimiento legal de que de no comparecer sin causa justificada, se les impondrá un arresto administrativo hasta de 36 horas.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
 
-En caso de que el señalamiento de domicilio de los testigos y peritos hecho por el oferente de la prueba, resulte inexacto o se compruebe que se solicitó ésta con el único propósito de retrasar el procedimiento, se impondrá a aquél una multa por el equivalente de hasta 30 días de salario mínimo vigente en el Estado, sin perjuicio de que se dé vista al Ministerio Público para los efectos legales procedentes.
+Cuando manifiesten, bajo protesta de decir verdad, no estar en posibilidad de hacerlo, el juez ordenará al actuario, cite a los primeros y haga saber su designación a los segundos, convocándolos para la audiencia respectiva en la que rendirán su testimonio o dictamen. La citación se hará con el apercibimiento de imponerles una multa o un arresto en los términos previstos en el artículo 73 de este Código, en caso de que dejen de comparecer sin causa justificada.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+En caso de que el señalamiento de domicilio de los testigos y peritos hecho por el oferente de la prueba, resulte inexacto o se compruebe que se solicitó ésta con el único propósito de retrasar el procedimiento, se impondrá a aquél una multa en los términos previstos en el artículo 73 de este Código, sin perjuicio de que se dé vista al Ministerio Público para los efectos legales procedentes.
 
 > <small>(ADICIONADO, P.O. 25 DE MARZO DE 2000)</small>
 
@@ -5809,7 +5939,7 @@ ART. 954.- Los incidentes se decidirán con un escrito de cada parte y sin suspe
 
 ART. 955.- En todo lo no previsto y en cuanto no se oponga a lo señalado en este Capítulo, se aplicarán las reglas generales establecidas en este Código.
 
-> <small>N. DE E. EL PRESENTE TITULO, QUE ANTERIORMENTE COMPRENDIA LOS ARTICULOS 1 A 47, CUYA DENOMINACION ERA "TITULO ESPECIAL", COMPRENDE ACTUALMENTE LOS ARTICULOS 956 AL 1002.</small>
+> <small>N. DE E. EL PRESENTE TÍTULO, QUE ANTERIORMENTE COMPRENDÍA LOS ARTÍCULOS 1 A 47, CUYA DENOMINACIÓN ERA "TÍTULO ESPECIAL", COMPRENDE ACTUALMENTE LOS ARTÍCULOS 956 AL 1002.</small>
 
 > <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
 
@@ -5893,9 +6023,11 @@ ART. 968.- El comisario o gendarme que entregue la cita recogerá, en una libret
 
 En el juzgado habrá el número necesario de libretas para que pueda llevar una cada encargado de entregar citas.
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
 
-ART. 969.- En los casos a que se refiere el artículo 10, el recibo se firmará por la persona a quien se hiciere la citación. Si no supiere o no pudiere firmar, lo hará en su ruego, un testigo; si no quisiera firmar o presentar testigos que lo hagan, firmará el testigo requerido al efecto por el notificador. Este testigo no puede negarse, bajo multa de dos a cinco pesos.
+ART. 969.- En los casos a que se refiere el artículo 965, el recibo se firmará por la persona a quien se hiciere la citación. Si no supiere o pudiere firmar, lo hará en su ruego, un testigo; si no quisiere firmar o presentar testigos que lo hagan, firmará el testigo requerido al efecto por el notificador. Este testigo no puede negarse, bajo multa de cinco a veinte días de salario mínimo general vigente en el Estado al momento de su imposición, a favor del Fondo Auxiliar en Beneficio de la Administración de Justicia.
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
 
 En la libreta se asentará la razón de lo ocurrido.
 
@@ -5915,9 +6047,9 @@ El que se presente como actor o como reo usando el nombre de otro para hacerse p
 
 Del juicio
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
 
-ART. 972.- Si al anunciarse el despacho del negocio no estuviere presente el actor y sí el demandado, se impondrá a aquél una multa de uno a diez pesos, que aplicará al reo por vía de indemnización, y, sin que se justifique haberse hecho el pago, no se citará de nuevo para el juicio.
+ART. 972.- Si al anunciarse el despacho del negocio no estuviere presente el actor y sí el demandado, se impondrá a aquél una multa de cinco a veinte días de salario mínimo general vigente en el Estado al momento de su imposición, que se aplicará por vía de indemnización, y, sin que se justifique haberse hecho el pago, no se citará de nuevo para el juicio.
 
 > <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
 
@@ -6115,7 +6247,7 @@ ALFREDO RUISECO AVELLANEDA.
 
 Secretario Gral. de Gobierno.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 P.O. 15 DE NOVIEMBRE DE 1958.
 
@@ -6230,3 +6362,7 @@ P.O. 19 DE NOVIEMBRE DE 2011.
 P.O. 10 DE DICIEMBRE DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 8 DE SEPTIEMBRE DE 2012.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
