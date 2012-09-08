@@ -4,7 +4,7 @@ identifier: "JAL-codigo-urbano-para-el-estado-de-jalisco-63574"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-09-27"
-last_updated: "2012-03-31"
+last_updated: "2012-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO URBANO PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el sábado 27 de septiembre de 2008.
 
@@ -103,9 +103,17 @@ VI. La promoción coordinada de programas de regularización de la tenencia de l
 
 VII. La regulación del mercado de terrenos, en especial los requeridos para la vivienda popular y de interés social, así como la promoción de zonas para las actividades económicas, mediante la integración de reservas territoriales dotadas de infraestructura básica;
 
-VIII. La promoción de usos y destinos orientados a la productividad y la generación de empleos, y
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
 
-IX. La participación social en la solución de los problemas que genera la convivencia, poniendo en práctica diversas modalidades de consulta pública para la formulación y revisión de los programas y planes de desarrollo urbano, como de la acción urbanística, promoviendo la solidaridad entre los grupos e individuos que integran sus comunidades.
+VIII. La promoción de usos y destinos orientados a la productividad y la generación de empleos;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+IX. La participación social en la solución de los problemas que genera la convivencia, poniendo en práctica diversas modalidades de consulta pública para la formulación y revisión de los programas y planes de desarrollo urbano, como de la acción urbanística, promoviendo la solidaridad entre los grupos e individuos que integran sus comunidades, y
+
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+X. El desarrollo y adecuación en los centros de población de la infraestructura, el equipamiento y los servicios urbanos que optimicen la seguridad, libre tránsito y accesibilidad que requieren las personas con discapacidad.
 
 ###### Artículo 5º.
 
@@ -547,9 +555,17 @@ XLVII. Aprobar su plan de ordenamiento territorial metropolitano, en caso de per
 
 XLVIII. Aprobar los convenios de coordinación metropolitana propuestos por las instancias de coordinación correspondientes;
 
-XLIX. Participar en la constitución de los Institutos Metropolitanos de Planeación que les correspondan, y
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
 
-L. Las demás que le atribuyan este Código y disposiciones aplicables.
+XLIX. Participar en la construcción de los Institutos Metropolitanos de Planeación que les correspondan,
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+L. Llevar a cabo acciones para el acondicionamiento y servicios para las personas con discapacidad, y
+
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+LI. Las demás que le atribuyan este código y disposiciones aplicables.
 
 #### Sección Segunda. De Las Atribuciones del Presidente Municipal
 
@@ -2645,13 +2661,17 @@ El emplazamiento de redes e instalaciones de infraestructura básica, incluyendo
 
 Al Ayuntamiento que expida el plan o programa donde se autorice la determinación de reservas, le corresponderá promover, regular, controlar y exigir el desarrollo de las obras de infraestructura básica, sin las cuales no se autorizará modalidad alguna de acción urbanística.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 212.
 
-Toda acción urbana que requiera infraestructura para su incorporación o liga con la zona urbana deberá contemplar por lo menos:
+Toda acción urbana que requiera infraestructura para su incorporación o liga con la zona urbana, así como aquellas acciones urbanísticas mayores y menores y demás conjuntos urbanos que por su naturaleza o la magnitud de sus efectos en el contexto urbano, se prevea que presenten impactos significativos de alcance zonal urbano o regional, deberán contemplar por lo menos:
 
 I. En vías públicas, los requerimientos necesarios para satisfacer la movilidad de la zona; en su caso, los espacios necesarios para alojar vialidades, paraderos, estaciones, carriles exclusivos para transporte público, andadores peatonales, ciclo rutas o puentes peatonales u otras, así como los necesarios para conformar e integrarse con las redes ya existentes o en proyecto para el resto del centro de población. Para tales fines deberán sujetarse a las especificaciones que consignen los programas de desarrollo urbano y en ningún caso podrán tener un ancho menor que las vías públicas adyacentes de las cuales constituyan prolongación;
 
-II. El drenaje y alcantarillado; prever la planta o sistema de tratamiento de aguas residuales y manejo de aguas pluviales para la recarga de los mantos acuíferos o la aportación económica correspondiente cuando esté prevista la construcción de sistemas de tratamiento, los cuales deberán sujetarse a las disposiciones vigentes en materia ambiental, y
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+II. El drenaje y alcantarillado, así como la construcción y operación de una planta o sistema de tratamiento de aguas residuales y manejo de aguas pluviales, para la recarga de mantos acuíferos, acorde con la cantidad y tipos de descargas que esta acción urbanística o conjunto urbano genere, o la aportación económica correspondiente, cuando esté prevista la construcción de sistemas de tratamiento, los cuales deberían sujetarse a las disposiciones vigentes en materia ambiental, y
 
 III. Las garantías para asegurar el adecuado funcionamiento, operación o mantenimiento de las redes de infraestructura, hasta en tanto no se de la municipalización de las obras.
 
@@ -3047,7 +3067,7 @@ f) Los planos manzaneros, conteniendo:
 
 2.- Los usos que se proponen para los mismos, y
 
-3.-Los tipos y densidad de edificación. En el caso de urbanizaciones para la renovación urbana, también se indicarán las modificaciones que se proponen practicar en las edificaciones existentes,
+3.- Los tipos y densidad de edificación. En el caso de urbanizaciones para la renovación urbana, también se indicarán las modificaciones que se proponen practicar en las edificaciones existentes,
 
 g) En el caso de urbanizaciones para la renovación urbana, el plano indicando el estado de la edificación existente y el grado de intervención en la misma;
 
@@ -3059,7 +3079,9 @@ a) Planos del proyecto de obras e instalaciones técnicas, propias de la urbaniz
 
 2.- El proyecto de la red de agua potable,
 
-3.- El proyecto de la red o del sistema de desalojo de las aguas residuales y pluviales, y
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+3.- El proyecto de construcción y operación de la red o del sistema de desalojo de las aguas residuales y pluviales, y
 
 4.- El proyecto de la red de electrificación y del alumbrado público,
 
@@ -3949,9 +3971,17 @@ I. Asegurar que los anuncios producidos por la publicidad de negocios, locales c
 
 II. Proporcionar a la población del municipio, la certeza de que los anuncios que se utilizan en la publicidad, cualquiera que ésta sea, se fabriquen con los cálculos estructurales y las normas de seguridad vigentes, para que cubran cualquier riesgo que puedan representar;
 
-III. Que los Municipios: regulen, registren, inspeccionen, verifiquen, aperciban, sancionen y otorguen la licencia correspondiente, previo pago de los derechos correspondientes, para la colocación de anuncios en espacios abiertos;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
 
-IV. Establecer el equilibrio coherente y armónico entre la actividad económica de publicidad exterior y una imagen digna del Municipio.
+III. Que los municipios regulen, registren, inspeccionen, verifiquen, aperciban, sancionen y otorguen la licencia correspondiente, previo pago de los derechos correspondientes, para la colocación de anuncios en espacios abiertos;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+IV. Establecer el equilibrio coherente y armónico entre la actividad económica de publicidad exterior y una imagen digna del municipio, y
+
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+V. Asegurar que los anuncios redactados en idioma español se apeguen a las reglas de redacción, ortografía y gramática que especifica el Diccionario de la Real Academia Española, exceptuando las marcas, avisos y nombres comerciales que se encuentren legalmente registrados conforme a lo establecido en la Ley de Propiedad Intelectual.
 
 ###### Artículo 342.
 
@@ -4662,3 +4692,21 @@ SEGUNDO. El artículo tercero del presente decreto, relativo a la Ley de Ingreso
 P.O. 31 DE MARZO DE 2012.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 8 DE SEPTIEMBRE DE 2012.
+
+DECRETO NÚMERO 24080/LIX/12, POR EL QUE SE REFORMAN LOS ARTÍCULOS 212 Y 257 DEL CÓDIGO URBANO DEL ESTADO DE JALISCO.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 8 DE SEPTIEMBRE DE 2012.
+
+DECRETO NÚMERO 24081/LIX/12, POR EL QUE SE REFORMA EL ARTÍCULO 341 DEL CÓDIGO URBANO DEL ESTADO DE JALISCO.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 8 DE SEPTIEMBRE DE 2012.
+
+DECRETO NÚMERO 24082/LIX/12, POR EL QUE SE REFORMAN LOS ARTÍCULOS 4.° Y 10 DEL CÓDIGO URBANO DEL ESTADO DE JALISCO.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
