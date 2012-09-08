@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-servicios-de-vialidad-transito-y-transporte-del-1202
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-07"
-last_updated: "2012-08-18"
+last_updated: "2012-09-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS SERVICIOS DE VIALIDAD, TRÁNSITO Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 1998.
 
@@ -447,13 +447,17 @@ XII. Autorizar la ubicación de los lugares para el establecimiento de los sitio
 
 XIII. En coordinación con el Titular del Ejecutivo del Gobierno del Estado, autorizar la localización de las obras de infraestructura carretera; de la infraestructura y equipamiento vial; de los derechos de vía como destinos; de las zonas de restricción, así como las normas que regulen su uso;
 
-XIV. Solicitar, en su caso, al Ejecutivo del Gobierno del Estado, asesoría y apoyo para realizar los estudios técnicos y acciones en materia de vialidad y tránsito;
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
 
-XV. Vigilar el cumplimiento de esta Ley y de los reglamentos que de ella emanen;
+XIV. Determinar, autorizar y exigir, en su jurisdicción territorial, la instalación de los espacios destinados para la ubicación de estacionamiento, ascenso y descenso exclusivo de personas con discapacidad, en lugares preferentes y de fácil acceso a los edificios o espacios públicos, particulares o de gobierno, cuyo uso esté destinado o implique la concurrencia del público en general;
 
-XVI. En el ámbito de su competencia determinar, aplicar y ejecutar las sanciones correspondientes, a quienes incurran en infracciones a esta Ley y a sus reglamentos; y
+XV. Solicitar, en su caso, al Ejecutivo del Gobierno del Estado asesoría y apoyo para realizar los estudios técnicos y acciones en materia de vialidad y tránsito;
 
-XVII. Las demás que determine la presente Ley.
+XVI. Vigilar el cumplimiento de esta ley y de los reglamentos que de ella emanen;
+
+XVII. En el ámbito de su competencia, determinar, aplicar y ejecutar las sanciones correspondientes a quienes incurran en infracciones a esta ley y a sus reglamentos, y
+
+XVIII. Las demás que determine la presente ley.
 
 > <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2000)</small>
 
@@ -3211,7 +3215,7 @@ El C. Secretario General de Gobierno
 
 Lic. Raúl Octavio Espinoza Martínez
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 3 DE ABRIL DE 1999.
 
@@ -3430,3 +3434,7 @@ P.O. 18 DE AGOSTO DE 2012.
 PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.
 
 SEGUNDO. El titular del Poder Ejecutivo hará las adecuaciones reglamentarias necesarias dentro de los sesenta días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 8 DE SEPTIEMBRE DE 2012.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
