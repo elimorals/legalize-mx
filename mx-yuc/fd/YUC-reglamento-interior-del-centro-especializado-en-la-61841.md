@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-interior-del-centro-especializado-en-la-61841"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-06-24"
-last_updated: "2008-06-24"
+last_updated: "2012-09-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61841&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # REGLAMENTO INTERIOR DEL CENTRO ESPECIALIZADO EN LA APLICACION DE MEDIDAS PARA ADOLESCENTES DE YUCATAN
 
-REGLAMENTO INTERIOR DEL CENTRO ESPECIALIZADO EN LA APLICACION DE MEDIDAS PARA ADOLESCENTES DE YUCATAN
+REGLAMENTO INTERIOR DEL CENTRO ESPECIALIZADO EN LA APLICACIÓN DE MEDIDAS PARA ADOLESCENTES DE YUCATÁN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR PARA EL CENTRO ESPECIALIZADO EN LA APLICACIÓN DE MEDIDAS PARA ADOLESCENTES DEL ESTADO DE YUCATÁN, PUBLICADO EN EL D.O. DE 8 DE SEPTIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 24 de junio de 2008.
 
@@ -944,3 +946,13 @@ GOBERNADORA DEL ESTADO DE YUCATÁN
 C. ROLANDO RODRIGO ZAPATA BELLO
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 8 DE SEPTIEMBRE DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+SEGUNDO. A partir de la entrada en vigor de este Decreto, queda abrogado el Decreto Número 93 por el cual se emite el Reglamento Interior del Centro Especializado en la Aplicación de Medidas para Adolescentes de Yucatán.
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este Decreto.
