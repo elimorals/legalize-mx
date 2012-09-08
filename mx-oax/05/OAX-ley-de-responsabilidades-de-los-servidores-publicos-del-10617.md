@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-responsabilidades-de-los-servidores-publicos-del-10617"
 country: "mx"
 rank: "ley"
 publication_date: "1996-06-01"
-last_updated: "2011-09-23"
+last_updated: "2012-09-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el Sábado 1o de junio de 1996.
 
@@ -413,9 +413,11 @@ En la declaración inicial y final de situación patrimonial se manifestarán lo
 
 En las declaraciones anuales se manifestarán sólo las modificaciones al patrimonio, con fecha y valor de adquisición, en todo caso se indicará el medio por el que se hizo la adquisición. Tratándose de bienes muebles, la Contraloría y órganos de control interno competentes decidirán las características que deba tener la declaración.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P. O. 8 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 48.
 
-Si transcurridos los plazos a que hacen referencia las fracciones I y II del artículo 45, no se hubiese presentado la declaración correspondiente, sin causa justificada, quedará sin efecto el nombramiento respectivo, previa declaración de la Contraloría, substanciado el procedimiento administrativo que establece el Título Cuarto de esta Ley, declaración que se comunicará, en su caso, al titular de la dependencia o entidad en la que se encuentre adscrito el servidor público.
+Si transcurridos los plazos a que hacen referencia las fracciones I y II del artículo 45 de esta Ley, no se hubiese presentado la declaración correspondiente, sin causa justificada, el servidor público omiso se hará acreedor a las sanciones administrativas previstas en el artículo 57 de la presente Ley, previa declaración de la Contraloría y substanciado el procedimiento administrativo que establece el Título Cuarto de esta Ley, declaración que se comunicará, en su caso, al titular de la dependencia o entidad en la que se encuentre adscrito el servidor público.
 
 En el procedimiento que se instruya contra el servidor público omiso, al formularse el citatorio previsto por esta Ley se le prevendrá que de no presentar la declaración omitida dentro de los quince días naturales siguientes a la fecha de notificación del citatorio, la Contraloría procederá a la investigación del patrimonio del infractor en los términos del artículo 49 de esta Ley.
 
@@ -940,6 +942,10 @@ P.O. 2 DE OCTUBRE DE 2010.
 P.O. 23 DE SEPTIEMBRE DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P. O. 8 DE SEPTIEMBRE DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Oaxaca.
 
 ## TITULO QUINTO
 
