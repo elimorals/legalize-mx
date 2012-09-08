@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2011-09-15"
+last_updated: "2012-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # LEY PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-LEY PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
+LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -43,7 +43,7 @@ LEY PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
 ### CAPITULO I. Disposiciones Generales
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2004)</small>
 
 ###### Art. 1°.
 
@@ -135,7 +135,7 @@ a) En el Supremo Tribunal de Justicia:
 
 Magistrados, jueces, secretarios de acuerdos del Tribunal Pleno, Secretario Taquígrafo de la Presidencia, los secretarios de las salas, los secretarios de los Juzgados de Primera Instancia y Menores, Civiles y Penales, Urbanos y Foráneos, Oficial Mayor del Tribunal, el Visitador de los juzgados, los asesores jurídicos de la Presidencia, los choferes de la Presidencia, el Director de Estadística Judicial, el Abogado “D” de la Dirección de Estadística Judicial, el Director de la Academia de Capacitación Judicial, los instructores de la Academia de Capacitación Judicial, el Coordinador de Eventos de la Academia de Capacitación Judicial, el Jefe de Archivo y Biblioteca del Supremo Tribunal, el encargado del almacén de los Juzgados de lo Criminal, el Administrador de Personal, el Jefe de Información y Relaciones Públicas;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ENERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2001)</small>
 
 b) En el Tribunal de lo Administrativo:
 
@@ -267,7 +267,7 @@ Las actuaciones y certificaciones que hubieren de hacerse con motivo de la aplic
 
 ### CAPITULO II. De los nombramientos
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2007)</small>
 
 ###### Art. 16.
 
@@ -365,7 +365,7 @@ La protesta de los servidores públicos se rendirá en los términos siguientes:
 
 Cuando el Servidor Público sea cambiado, previa su anuencia, en forma eventual o definitiva de una entidad pública a otra, conservará los derechos adquiridos con motivo de la relación de trabajo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ENERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2001)</small>
 
 ###### Art. 20.
 
@@ -391,7 +391,7 @@ IV. Las licencias o permisos que conceda el Titular de la entidad pública corre
 
 ### CAPITULO IV. De la terminación de la relación de trabajo
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2009)</small>
 
 ###### Art. 22.
 
@@ -461,7 +461,7 @@ Lo dispuesto en este artículo no será aplicable a los servidores públicos del
 
 Es facultad de los Titulares de las Entidades Públicas expedir todas las disposiciones reglamentarias que rijan el funcionamiento interno de las Oficinas de Servicio Público, oyendo al Sindicato correspondiente en su caso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2009)</small>
 
 ###### Art. 25.
 
@@ -479,7 +479,7 @@ Ningún servidor público de base podrá ser sancionado en su empleo sino por ca
 
 En caso de que la falta pudiese ameritar el cese por su gravedad, se estará a lo dispuesto por el artículo 23 de esta ley.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2003)</small>
 
 ### CAPITULO VI. Del trabajo de los menores
 
@@ -637,13 +637,25 @@ En el caso de licencias por tiempo indefinido, cuando el servidor público prete
 
 Para las suplencias de los servidores públicos a que se refiere este artículo, se estará a lo dispuesto por las leyes de la materia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ENERO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Art. 43.
 
 Las mujeres durante el embarazo, no realizarán trabajos que exijan un esfuerzo considerable o signifiquen un peligro para su salud, en relación con la gestación; gozarán siempre de noventa días de descanso, pudiendo ser, treinta días antes de la fecha que aproximadamente se fije para el parto, y sesenta días después del mismo; durante estos períodos percibirán el sueldo íntegro que les corresponda. Lo anterior, independientemente de que la autoridad encargada de expedir las incapacidades, las otorgue o no en el momento acertado. Ese lapso se considerará como tiempo efectivo de trabajo.
 
 Durante los primeros cinco meses a partir de la fecha de reanudación de labores, las madres tendrán derecho a un descanso extraordinario por cada tres horas de trabajo, en la inteligencia de que aquellas, con jornadas de seis horas y media o menos, disfrutarán de un solo descanso de media hora, para alimentar a sus hijos.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+En caso de nacimiento de su hijo o hija, el trabajador gozará de una licencia por paternidad remunerada de cinco días hábiles. Esta licencia será otorgada ya sea antes de la fecha de nacimiento, o bien, posterior a ésta.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+El trabajador a quien se le conceda la adopción de un niño o niña también disfrutará de este permiso o licencia de paternidad, contada a partir de que la misma sea acordada por sentencia definitiva de la autoridad correspondiente.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+En caso de que fallezca la madre a consecuencia del parto, el padre del niño o niña tendrá derecho a una licencia consistente en seis semanas, con los mismos derechos.
 
 ###### Art. 44.
 
@@ -793,7 +805,7 @@ Está prohibida la imposición de multas a los servidores públicos en su centro
 
 El pago de sueldos será preferente a cualquier otra erogación de las Entidades Públicas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
 ###### Art. 54.
 
@@ -803,7 +815,7 @@ El aguinaldo se cubrirá proporcionalmente tomando en cuenta las faltas de asist
 
 Los servidores públicos que no hayan cumplido un año de labores tendrán derecho a que se les pague esta prestación, en proporción al tiempo efectivamente trabajado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 Art. 54 bis. Los servidores públicos que integran los entes públicos a que se refiere el artículo 1.° de esta ley, con excepción de sus titulares, secretarios, subsecretarios, directores generales o sus equivalentes, pueden recibir bonos, premios, recompensas, estímulos o compensaciones, mismos que deben estar sujetos a lo estrictamente establecido en las leyes correspondientes y el Presupuesto de Egresos respectivo.
 
@@ -827,7 +839,7 @@ VI. La información relativa a los criterios y procedimientos para la asignació
 
 Los servidores públicos que otorguen o reciban estímulos o compensaciones en contravención al presente artículo y demás disposiciones legales y reglamentarias aplicables incurren en responsabilidad, misma que se sanciona de conformidad con la legislación vigente.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE AGOSTO DE 2004)</small>
 
 ### CAPITULO V. Disposiciones Comunes para el Sueldo y demás Prestaciones de los Servidores Públicos
 
@@ -841,7 +853,7 @@ Queda prohibido para todo servidor público, otorgar o recibir prestaciones dist
 
 Se consideran legales, las prestaciones otorgadas a los servidores públicos en los términos de la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 Art. 54 bis 2. La remuneración de los servidores públicos deberá cumplir con lo dispuesto por el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones legales y reglamentarias aplicables; será conforme a los principios de austeridad, disciplina presupuestal, racionalidad, proporcionalidad, equidad, certeza y motivación, debiendo fijarse anualmente en los presupuestos de egresos respectivos.
 
@@ -1399,7 +1411,7 @@ V. Las acciones para impugnar los dictámenes escalafonarios; y
 
 VI. Las acciones para impugnar las sanciones impuestas por los titulares de las Entidades Públicas que no ameriten cese, en los términos del Art. 25 de esta ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2001)</small>
 
 ###### Art. 107.
 
@@ -1655,7 +1667,7 @@ IV. En los casos de secretarios y auxiliares de instrucción, el Pleno designar�
 
 ### CAPITULO III. Del Procedimiento ante el Tribunal de Arbitraje y Escalafón
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2001)</small>
 
 ###### Art. 128.
 
@@ -1831,11 +1843,11 @@ Al resolverse que una declaración de huelga es legal, el Tribunal de Arbitraje 
 
 En tanto que no se declare ilegal, inexistente o terminado un conflicto de huelga, el Tribunal de Arbitraje y Escalafón y todas las Autoridades Estatales y Municipales deberán respetar el derecho que ejerciten los servidores, dándoles las garantías y presentándoles el auxilio que les soliciten.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 20 DE ENERO DE 2001)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE ENERO DE 2001)</small>
 
 ## TITULO SEXTO. Del servicio civil de carrera
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE ENERO DE 2001)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE ENERO DE 2001)</small>
 
 ### CAPITULO I. Disposiciones generales
 
@@ -1917,7 +1929,7 @@ Los elementos de los cuerpos de seguridad pública del Estado y municipios que c
 
 Quienes desempeñen algún puesto del Servicio, tendrán los mismos derechos y obligaciones que cualquier otro servidor público y únicamente podrán ser cesados de su cargo cuando exista causa justificada, de conformidad con el artículo 22 y siguiendo los lineamientos establecidos por los artículos 23 y 26 de esta Ley.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE ENERO DE 2001)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE ENERO DE 2001)</small>
 
 ### CAPITULO II. De la comisión de evaluación
 
@@ -2023,7 +2035,7 @@ V. Llevar libro de registro de movilidad y promoción del personal inscrito en e
 
 VI. Las demás que le otorgue la presente Ley, el Reglamento Interno y los acuerdos de la Comisión.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE ENERO DE 2001)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE ENERO DE 2001)</small>
 
 ### CAPITULO III. Del sistema administrativo
 
@@ -2143,7 +2155,7 @@ Los servidores públicos adscritos al Servicio y que laboren en cualquiera de la
 
 Cuando un servidor público de base sea promovido para ocupar otra plaza deberá renunciar a la que estuviere desempeñando siempre y cuando la nueva plaza sea de tiempo indefinido, de lo contrario podrá solicitar licencia para separarse de su cargo por el tiempo necesario.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE ENERO DE 2001)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE ENERO DE 2001)</small>
 
 ### CAPITULO IV. Del desarrollo y profesionalización
 
@@ -2197,7 +2209,7 @@ III. Pago de inscripciones.
 
 En el Reglamento Interno de las Entidades Públicas, se establecerán los requisitos que se deban cubrir para participar en los programas de formación y desarrollo.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE ENERO DE 2001)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE ENERO DE 2001)</small>
 
 ### CAPITULO V. De la separación y reincorporación
 
@@ -2275,7 +2287,7 @@ El Secretario General de Gobierno
 
 Lic. Eugenio Ruiz Orozco
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 6 DE ABRIL DE 1985.
 
@@ -2295,7 +2307,7 @@ UNICO.- Este decreto entrará en vigor el día 1° de enero de 1995, previa su p
 
 P.O. 9 DE ENERO DE 1997.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 32 DE LA CONSTITUCION POLITICA VIGENTE DEL ESTADO DE JALISCO.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 32 DE LA CONSTITUCIÓN POLÍTICA VIGENTE DEL ESTADO DE JALISCO.
 
 P.O. 17 DE ENERO DE 1998.
 
@@ -2415,13 +2427,13 @@ P.O. 2 DE DICIEMBRE DE 2006.
 
 P.O. 22 DE FEBRERO DE 2007.
 
-DECRETO NUMERO 21801-LVII
+DECRETO NÚMERO 21801-LVII
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 P.O. 22 DE FEBRERO DE 2007.
 
-DECRETO NUMERO 21835-LVII
+DECRETO NÚMERO 21835-LVII
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
@@ -2456,3 +2468,7 @@ P.O. 20 DE NOVIEMBRE DE 2010.
 P.O. 15 DE SEPTIEMBRE DE 2011.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 8 DE SEPTIEMBRE DE 2012.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente a su publicación en el periódico oficial El Estado de Jalisco.
