@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-bienes-del-estado-de-yucatan-11832"
 country: "mx"
 rank: "ley"
 publication_date: "1990-07-06"
-last_updated: "1990-07-06"
+last_updated: "2012-09-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # LEY DE BIENES DEL ESTADO DE YUCATAN
 
-LEY DE BIENES DEL ESTADO DE YUCATAN
+LEY DE BIENES DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE BIENES DEL ESTADO DE YUCATÁN, PUBLICADA EN EL D.O. DE 8 DE SEPTIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: ABROGADA.
 
 Ley publicada en el Diario Oficial el viernes 6 de Julio de 1990.
 
@@ -248,3 +250,31 @@ C. HENRY BOLDO OSORIO.
 EL SECRETARIO DE PLANEACION Y PRESUPUESTO.
 
 C.P. ROLANDO GOMEZ CARRILLO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 8 DE SEPTIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Bienes del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán el 6 de julio de 1990, mediante Decreto Número 319 y se derogan todas las disposiciones de igual o menor rango que se opongan a esta Ley.
+
+###### ARTÍCULO TERCERO.
+
+El Sistema Estatal Patrimonial de Bienes deberá implementarse a más tardar dentro de los ciento ochenta días hábiles siguientes a la entrada en vigor de esta Ley.
+
+###### ARTÍCULO CUARTO.
+
+La Oficialía Mayor debe expedir los Manuales respectivos para la integración y registro del Sistema Estatal Patrimonial de Bienes dentro de los ciento ochenta días hábiles siguientes a la entrada en vigor de esta Ley.
+
+###### ARTÍCULO QUINTO.
+
+Los Poderes Ejecutivo, Legislativo y Judicial, organismos autónomos y municipios deberán expedir y, en su caso adecuar su normatividad aplicable de acuerdo con las competencias que les corresponda en la presente Ley, dentro de los ciento ochenta días hábiles siguientes a los de la publicación de esta Ley.
+
+###### ARTÍCULO SEXTO.
+
+El Poder Ejecutivo deberá expedir, en un plazo no mayor a ciento ochenta días hábiles, el Reglamento de esta Ley. En tanto se expide este, y las demás normas, bases, lineamientos y disposiciones administrativas, se continuarán aplicando las disposiciones reglamentarias y administrativas vigentes en lo que no se opongan a este ordenamiento.
