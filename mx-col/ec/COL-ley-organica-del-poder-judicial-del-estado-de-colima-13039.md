@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-judicial-del-estado-de-colima-13039"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1988-10-08"
-last_updated: "2012-09-01"
+last_updated: "2012-09-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 8 de octubre de 1988.
 
@@ -179,11 +179,11 @@ Cuando se aumente el número de Magistrados, Jueces, Secretarios de Acuerdos, Ac
 
 El Supremo Tribunal de Justicia funcionará en Pleno Ordinario por lo menos una vez al mes preferentemente los días lunes, para el ejercicio de las atribuciones que le confieren las fracciones IV, V, VII, VIII y X del artículo 74 de la Constitución Política del Estado y el artículo 10 de esta Ley. En Pleno Extraordinario, previa convocatoria del Presidente, para conocer y resolver de los asuntos a que se refieren las fracciones I, II, III, VI y IX del mismo precepto constitucional y el artículo 11 de esta ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JULIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTICULO 10.
 
-Corresponde al Pleno del Tribunal:
+Son facultades del Tribunal en Pleno Ordinario:
 
 I.- Designar a los Jueces, Secretarios de Acuerdos del Tribunal y de las Salas; Jefe de la Unidad de Apoyo Administrativo y Directores de los Departamentos y demás Dependencias;
 
@@ -205,7 +205,9 @@ VII.- Formar anualmente las listas de personas que deban ejercer cargos de Sínd
 
 VIII.- Corregir los abusos que se advierten en la práctica del ramo de justicia, por medio de disposiciones que no impliquen conocimiento de las causas pendientes en los Juzgados y sin mezclarse en el fondo de ellas, así como sin entorpecer las funciones de los inferiores;
 
-IX.- Ordenar el registro de las cédulas profesionales de los abogados postulantes en el libro especial que llevará la Secretaría, cerciorándose plenamente de la legalidad de ellas y de la identidad de la persona a quien fue expedida;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+IX.- Ordenar el registro de las cédulas profesionales de los abogados postulantes, que se llevará en la Secretaría General de Acuerdos del Supremo Tribunal de Justicia, cerciorándose plenamente de la legalidad de ellas y de la identidad de la persona a quien fue expedida, mismo que tendrá validez ante los diferentes órganos jurisdiccionales.
 
 > <small>(REFORMADA, P.O. 9 DE JULIO DE 1994)</small>
 
@@ -273,9 +275,13 @@ V.- Dar cuenta al Presidente con los escritos que reciba dentro de las veinticua
 
 VI.- Redactar la correspondencia oficial conforme a lo acordado por el Presidente;
 
-VII.- Cuidar de que el secretario actuario fije fuera de su oficina en lugar visible y de fácil acceso, la lista de los acuerdos y de las resoluciones del Pleno o de la Presidencia que deban ser notificadas con arreglo a las leyes procesales; y
+VII.- Cuidar de que el secretario actuario fije fuera de su oficina en lugar visible y de fácil acceso, la lista de los acuerdos y de las resoluciones del Pleno o de la Presidencia que deban ser notificadas con arreglo a las leyes procesales; y (sic)
 
-VIII.- Las demás que le encomiende el Pleno, el Presidente y le confieran las Leyes.
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+VIII.- Llevar el control y buen funcionamiento del Registro Único de Cédulas Profesionales en el Poder Judicial, en coordinación con el Departamento de Cómputo y demás áreas del Poder Judicial del Estado; y
+
+IX.- Las demás que le encomiende el Pleno, el Presidente y le confieran las Leyes.
 
 #### SECCION SEGUNDA. SECRETARIOS ACTUARIOS
 
@@ -407,7 +413,9 @@ Las resoluciones de las salas se tomarán por unanimidad o por mayoría de votos
 
 En caso de que la ponencia fuera rechazada se presentará de nuevo, pero tomando en cuenta en ella las opiniones vertidas, para su resolución en la siguiente sesión. Si en ésta se volviera a desechar por mayoría, se entregará el negocio a uno de los magistrados que por mayoría se opusieran, para que formule nuevo proyecto en el sentido de lo propuesto en la votación.
 
-Las resoluciones o acuerdos que sin tener el carácter de sentencia pongan fin a un negocio judicial, también serán dictados por el pleno de la sala que corresponda; al igual que los proveídos que recaigan en los cuadernos que se formen con motivo de los juicios de amparo.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+Las resoluciones o acuerdos que sin tener el carácter de sentencia pongan fin a un negocio judicial, también serán dictados por el pleno de la sala que corresponda; así como las pronunciadas por la salas en los cuadernos de amparo, en cumplimiento a las resoluciones emitidas en ellos, el auto de su radicación, las determinaciones relativas a la suspensión del acto reclamado y las dictadas en incidentes.
 
 Las salas respectivas sesionarán en pleno los miércoles y viernes de cada semana para conocer y resolver los asuntos de su competencia.
 
@@ -641,23 +649,29 @@ Todos los negocios anteriores deberán exceder de 150 veces el salario mínimo d
 
 ### CAPITULO I. JUZGADOS DE LO CIVIL, DE LO FAMILIAR Y DE LO MERCANTIL
 
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTICULO 36.
 
-El personal de cada uno de los juzgados de primera instancia se compondrá de un juez, de secretarios de acuerdos, secretarios actuarios y demás servidores públicos que autorice el presupuesto.
+El personal de cada uno de los Juzgados de Primera Instancia se compondrá de un Juez, Secretarios de Acuerdos y Secretarios Actuarios y demás servidores públicos que autorice el presupuesto; con excepción de aquéllos donde exista Oficina de Servicios Comunes, en este caso, los Actuarios estarán integrados a ella.
 
 ###### ARTICULO 37.
 
 Para ser Secretario de Acuerdos de los Juzgados de Primera Instancia, se necesitan los mismos requisitos que para ser Juez, a excepción de la edad que no debe ser menor de 25 (veinticinco) años y de la práctica profesional inferior de Tres años.
 
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTICULO 38.
 
-En el orden administrativo, el primer Secretario de Acuerdos es el Jefe inmediato del Personal de la Oficina y dirigirá las labores de acuerdo con las instrucciones y determinaciones del Juez.
+En el orden administrativo, el Juez es el jefe inmediato del personal de su oficina y coordinará sus labores con el Jefe de Oficina adscrito a su Juzgado de contar con ello.
 
 ###### ARTICULO 39.
 
 Son atribuciones de los Secretarios de Acuerdos:
 
-I.- Recibir los escritos que se les presenten, asentando al calce la razón del día y la hora de la presentación, expresando las fojas que contengan y los documentos que se acompañen. Asimismo, deben poner razón idéntica en la copia cuando se exhiba, con la firma del que recibe el escrito y el sello del Juzgado;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+I.- Recibir de Oficialía de partes, el listado de los escritos que se presenten ante esa oficina, verificando que los mismos contengan, la razón del día y la hora de la presentación, las fojas que lo integran y los documentos que se acompañen, debiendo distribuirlas entre él y los demás Secretarios. En caso de que en el Juzgados de su adscripción exista Oficina de Servicios Comunes, dichos escritos los recibirán cada Secretario directamente del encargado del Archivo, debiendo registrar su entrega en su código de barras, en el sistema electrónico correspondiente o manualmente, en su caso;
 
 II.- Bajo su más estricta responsabilidad y dentro de las veinticuatro horas siguientes a la de la presentación, dar cuenta a los Jueces y acordar con ellos todos los escritos y promociones que reciba. En tratándose de amparos, será inmediatamente;
 
@@ -673,39 +687,61 @@ VII.- Encargarse personalmente de que sean debidamente cosidas y foliadas las fo
 
 VIII.- Guardar en el secreto del Juzgado, los pliegos, escritos o documentos, cuando así lo disponga la Ley;
 
-IX.- Inventariar y conservar en su poder, los expedientes mientras no se remitan al archivo del Juzgado, al archivo Judicial o al superior, en su caso, y entregarlos con las formalidades legales, cuando deba tener lugar la remisión;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
 
-X.- Proporcionar a los interesados, los expedientes en los que fueren parte y que soliciten para informarse del estado de los mismos, para tomar apuntes o para cualquier otro efecto legal, siempre que no estén en poder del Titular y que sea en su presencia, sin extraer las actuaciones de la oficina;
+IX.- Inventariar y conservar en su poder, los expedientes mientras no se remitan al Archivo Judicial Regional o al Superior en su caso, y entregarlos con las formalidades legales, cuando deba tener lugar la remisión. En los Juzgados donde exista la Oficina de Servicios Comunes, dicha atribución corresponderá al Encargado de Archivo adscrito;
 
-XI.- Entregar a las partes, previo conocimiento, los expedientes en los casos en que lo disponga la Ley;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
 
-XII.- Notificar a las partes de los juicios;
+X.- Proporcionar a los interesados, los expedientes en los que fueren parte y que soliciten para informarse del estado de los mismos, para tomar apuntes o para cualquier otro efecto legal, siempre que no estén en poder del titular y que sea en su presencia, sin extraer las actuaciones de la oficina; con excepción de los Juzgados donde exista Oficina de Servicios Comunes, en cuyo caso, dicha atribución corresponderá al Encargado de Archivo, Actuarios o, en su caso, al Jefe de Oficina.
 
-XIII.- Ejercer, bajo su más estricta responsabilidad, por sí mismos, o por conducto de los empleados subalternos, toda la vigilancia que sea necesaria en la oficina, para evitar la pérdida de los expedientes;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+XI.- Entregar a las partes, previo conocimiento, los expedientes en los casos en que lo disponga la Ley; con excepción de los Juzgados donde exista Oficina de Servicios Comunes, en cuyo caso, dicha atribución corresponderá al Encargado de Archivo, Actuarios o, en su caso, al Jefe de Oficina.
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+XII.- Notificar a las partes de los juicios; con excepción de los Juzgados donde exista Oficina de Servicios Comunes, en cuyo caso, dicha atribución corresponderá al Jefe de Oficina y Actuarios.
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+XIII.- Ejercer, bajo su más estricta responsabilidad, por sí mismos, o por conducto de los empleados subalternos, toda la vigilancia que sea necesaria en la oficina, para evitar la pérdida de los expedientes; con excepción de los Juzgados donde exista Oficina de Servicios Comunes, en cuyo caso, dicha atribución corresponderá al Jefe de Oficina y Encargado de Archivo.
 
 XIV.- La ejecución de las determinaciones judiciales;
 
 XV.- Ordenar y vigilar que se despachen sin demora los asuntos y correspondencia del Juzgado;
 
-XVI.- Cuidar de que el Secretario Actuario fije en los estrados de los Juzgados, en lugar visible y de fácil acceso, la lista de los acuerdos y de las resoluciones que deban ser notificadas; y
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+XVI.- Cuidar de que el secretario actuario fije en los estrados de los Juzgados, en lugar visible y de fácil acceso, la lista de los acuerdos y de las resoluciones que deban ser notificadas, con excepción de los Juzgados donde exista Oficina de Servicios Comunes, en cuyo caso, dicha atribución corresponderá al Jefe de la misma.
 
 XVII.- Desempeñar todas las demás funciones que la Ley determine y las que señale el Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTICULO 40.
 
-El primer Secretario de Acuerdos, además de las atribuciones que determina el artículo anterior, tendrá las siguientes:
+El Secretario de Acuerdos, que determine el Juez, además de las atribuciones que establece el artículo anterior, tendrá las siguientes:
 
 I.- Sustituir al Juez en sus faltas temporales;
 
-II.- Tener a su cargo, bajo su responsabilidad, los libros pertenecientes a la oficina, designando de entre los empleados subalternos de la misma, al que deba llevarlos;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+II.- Tener a su cargo, bajo su responsabilidad, el encuadernamiento de los libros pertenecientes a la oficina, los que se deberán ir formando de acuerdo a los registros del sistema electrónico o manualmente, en su caso, designando de entre los empleados subalternos de la misma, al que deba llevarlos;
 
 III.- Conservar en su poder el sello del Juzgado, facilitándolo a los demás empleados, cuando lo necesiten para el desempeño de sus funciones;
 
-IV.- Cuidar y vigilar que el archivo se arregle por orden alfabético de apellidos del actor o del promovente en asuntos de jurisdicción voluntaria u otros, formando tantas secciones cuantas sean necesarias, según el número de Secretarios, a efecto de conservar por separado los expedientes de cada Secretaría;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
 
-V.- Bajo su estricta responsabilidad, cuidar que las notificaciones de la índole que fueren, sean hechas con absoluto apego a la Ley y practicar las diligencias decretadas por los Jueces dentro de las horas hábiles del día;
+IV.- Cuidar y vigilar que el archivo se arregle por número progresivo y separándolos por año; con excepción de donde exista Oficina de Servicios Comunes, deberán separarse por Juzgado y por materia, y estar al cuidado del encargado de Archivo.
 
-VI.- Distribuir diariamente entre él y los demás Secretarios, por riguroso orden de presentación, los asuntos que se inicien o conozcan en el Juzgado de que dependan; y
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+V.- Bajo su estricta responsabilidad, cuidar que las notificaciones de la índole que fueren, sean hechas con absoluto apego a la Ley y practicar las diligencias decretadas por los Jueces dentro de las horas hábiles del día;_en (sic) los Juzgados donde exista Oficina de Servicios Comunes, deberán ser cuidadas por el Jefe de la misma.
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+VI.- Distribuir diariamente entre él y los demás Secretarios, por riguroso orden de presentación, los asuntos que se inicien o conozcan en el Juzgado de que dependan; con excepción de los Juzgados donde exista Oficina de Servicios Comunes, en cuyo caso, deberán ser distribuidas por la Oficialía de Partes a cargo del Jefe de la misma; y
 
 VII.- Las demás que le confieran las Leyes y los Reglamentos.
 
@@ -713,13 +749,19 @@ VII.- Las demás que le confieran las Leyes y los Reglamentos.
 
 Los Secretarios Actuarios tienen las atribuciones y obligaciones siguientes:
 
-I.- Notificar en los juicios que se ventilen en el Juzgado observando las formalidades de Ley;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
 
-II.- Integrar los expedientes, teniendo cuidado que siempre estén debidamente cosidos, foliados, rubricados y entresellados;
+I.- Notificar y diligenciar en los juicios que se ventilen en el Juzgado observando las formalidades de Ley, de tratarse de sedes judiciales que tengan adscrita una Oficina de Servicios Comunes, notificar lo que le señale el Jefe de la misma.
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+II.- Integrar los expedientes, teniendo cuidado que siempre estén debidamente cosidos, foliados, rubricados y entresellados; con excepción de los Juzgados donde exista Oficina de Servicios Comunes, en cuyo caso, será responsabilidad del Encargado de Archivo.
 
 III.- Sustituir al Secretario de Acuerdos en sus faltas temporales;
 
-IV.- Elaborar y fijar en lugar visible y de fácil acceso de las oficinas de los Juzgados, la lista de los negocios que se hayan acordado cada día, en los términos de Ley; y
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+IV.- Elaborar y fijar en lugar visible y de fácil acceso de las oficinas de los Juzgados, la lista de los negocios que se hayan acordado cada día, en los términos de Ley; con excepción de donde exista Oficina de Servicios Comunes, en cuyo caso, deberán ser fijadas por el Jefe de la misma.
 
 V.- Las demás que les confieran las Leyes y Reglamentos aplicables.
 
@@ -727,9 +769,11 @@ V.- Las demás que les confieran las Leyes y Reglamentos aplicables.
 
 El personal administrativo se aplicará en los trabajos que les encomiende el Juez o su superior inmediato y comisiones que fijen los Reglamentos, con la diligencia y la eficiencia que se debe a la institución y al público.
 
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTICULO 43.
 
-El conserje cuidará de los muebles y útiles, se encargará del aseo y hará los servicios del Juzgado, así de mensajero como de los demás que se ofrezcan, siempre con conocimiento del Juez, guardando en todos los casos la reserva debida.
+El conserje cuidará de los muebles y útiles, se encargará del aseo y hará los servicios del Juzgado, así de mensajero como de los demás que se ofrezcan, siempre con conocimiento del Juez, guardando en todos los casos la reserva debida, además de la costura de expedientes; con excepción de los Juzgados donde exista Oficina de Servicios Comunes, en cuyo caso, éste estará a cargo del Jefe de Oficina.
 
 ### CAPITULO II. JUZGADOS DE LO PENAL
 
@@ -803,7 +847,11 @@ En el orden administrativo, el secretario de acuerdos con mayor antigüedad en e
 
 IV.- Los Secretarios Actuarios de los Juzgados Especializados en Justicia para Adolescentes tendrán las atribuciones y obligaciones que en lo conducente establecen el artículo 41 de esta Ley y desempeñarán sus funciones conforme a lo previsto en la Ley de la materia.
 
-### CAPITULO III. JUZGADOS MIXTOS
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE NOVIEMBRE DE 2011)</small>
+
+### CAPITULO II TER. JUZGADOS ESPECIALIZADOS EN NARCOMENUDEO
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTICULO 49-V.
 
@@ -823,9 +871,7 @@ VII.- Los Jueces, Secretarios de Acuerdos y Secretarios Actuarios de los Juzgado
 
 En el orden administrativo, el secretario de acuerdos con mayor antigüedad en el juzgado tendrá el carácter de jefe inmediato del personal del mismo; dirigirá las labores interiores de la oficina, de acuerdo con las instrucciones y determinaciones del juez, a quien deberá dar cuenta de los asuntos que se presenten e infracciones que se cometan, para que obre conforme a sus facultades, y además tendrá la obligación precisada en las fracciones I, II, III, V y VI, del artículo 40 de esta Ley.
 
-### CAPITULO II TER. JUZGADOS ESPECIALIZADOS EN NARCOMENUDEO
-
-> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
+### CAPITULO III. JUZGADOS MIXTOS
 
 ###### ARTICULO 50.
 
@@ -835,15 +881,17 @@ Los Jueces Mixtos de primera instancia conocerán de los asuntos del orden civil
 
 Dentro de un mismo Partido Judicial, el Tribunal podrá crear o modificar el número de Juzgados que sean necesarios.
 
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTICULO 52.
 
-Los Juzgados Mixtos de Primera Instancia del Estado, para el despacho de los negocios, tendrá el número de Secretarios de Acuerdos y Secretarios Actuarios que se requieran, en razón de las materias que conozcan, así como el número de servidores públicos que señale el Presupuesto de Egresos respectivo. Los Secretarios de Acuerdos quedarán adscritos uno al Ramo Civil, otro al Ramo Familiar, otro al Ramo Mercantil y uno más al Ramo Penal, y deberán satisfacer, respectivamente, los requisitos que esta Ley señala para los Secretarios.
+Los Juzgados Mixtos de Primera Instancia del Estado, para el despacho de los negocios, tendrán el número de secretarios de acuerdos y secretarios actuarios que se requieran, en razón de las materias que conozcan, así como el número de servidores públicos que señale el Presupuesto de Egresos respectivo. Los Secretarios de Acuerdos conocerán de las tres materias Civil, Familiar, Mercantil y en su caso Penal, y deberán satisfacer, respectivamente, los requisitos que esta Ley señala para los secretarios.
+
+En los Juzgados que por Acuerdo del Pleno se considere conveniente, crear la Oficina de Servicios Comunes; se atenderá a lo dispuesto por el Capítulo V del Titulo Quinto de la presente Ley.
 
 ###### ARTICULO 53.
 
 Las obligaciones de los Secretarios de Acuerdos de los Juzgados Mixtos, serán las mismas de los Secretarios de los Juzgados de Primera Instancia. Cuando haya uno o sólo dos Secretarios, éstos asumirán todas las obligaciones fijadas para los demás.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE NOVIEMBRE DE 2011)</small>
 
 ### CAPITULO IV. JUZGADOS MIXTOS DE PAZ
 
@@ -905,17 +953,209 @@ Son facultades de los Secretarios de Acuerdos Mixtos de Paz, las mismas que tien
 
 Las faltas o inhibiciones de los Jueces Mixtos de Paz, serán suplidas por los Secretarios de Acuerdos, quienes actuarán con dos testigos de asistencia.
 
-### CAPITULO I. DE LOS MAGISTRADOS
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
 
-### CAPITULO II. DE LOS JUECES Y DEMAS SERVIDORES PUBLICOS
+### CAPITULO V. DE LOS SERVICIOS COMUNES
 
-### CAPITULO I. DE LOS SINDICOS DE CONCURSO
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
 
-### CAPITULO II. INTERVENTORES DE CONCURSO
+###### ARTICULO 63-I.
+
+Los SERVICIOS COMUNES, son un Sistema Integral conformado por Oficialía de Partes, Archivo Judicial, Central de Actuarios, intendencia y personal de soporte técnico en Informática, todos, comandados por un Jefe de Oficina.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+###### ARTICULO 63
+
+II.- La Oficialía de Partes, es la oficina encargada de recibir, en las horas que marque el reglamento respectivo, las demandas, peticiones, correspondencia y todo tipo de documentación dirigida a los Juzgados de Primera Instancia de las materias Civil, Mercantil y de lo Familiar de los partidos judiciales del Estado. Debiendo señalar en los escritos recibidos la fecha y hora de presentación, haciendo constar los documentos que se anexan y estampando el sello de la oficina y la firma de quien realice la recepción.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+###### ARTICULO 63
+
+III.- El Archivo Judicial, estará a cargo del manejo operativo de todos los expedientes, cuadernillos, exhortos y demás documentos que no tengan en su poder los Secretarios de Acuerdos de ambos Juzgados.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+###### ARTICULO 63
+
+IV.- La Central de Actuarios es la dependencia encargada de organizar y distribuir de manera aleatoria el turno de notificaciones, diligencias y ejecuciones que ordenen las autoridades jurisdiccionales a realizar fuera o dentro de las instalaciones de la sede judicial, conforme a la demarcación territorial de los Juzgados de referencia, cuya actividad estará sujeta a las disposiciones del Código Adjetivo de la materia a que el mandamiento que se ejecuta corresponda y demás leyes aplicables.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+###### ARTICULO 63-V.
+
+Los intendentes estarán al mando del Jefe de Oficina, de acuerdo a lo establecido en el artículo 43 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+###### ARTICULO 63
+
+VI.- El Personal de Soporte Técnico en informática, estará encargado de proveer asistencia técnica en sitio a los juzgados, así como a la oficina de servicios comunes a la que esté adscrito; será inmediatamente responsable del mantenimiento preventivo y correctivo, revisión, instalación y configuración de todo sistema informático o programa de cómputo, equipo y redes que le encomiende el Jefe de Oficina y el Responsable del Área de Informática del Poder Judicial del Estado. Así mismo dará solución a las problemáticas que se presenten con el equipo y sistemas informáticos utilizado (sic) por los funcionarios.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+###### ARTICULO 63
+
+VII.- Los Servicios Comunes, funcionarán en días y horas hábiles, así como los habilitados por el Juez o para los que exista disposición legal.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+###### ARTICULO 63
+
+VIII.- Sólo se permitirá el acceso al área de Servicios Comunes previa autorización del Jefe de esta oficina.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+### CAPITULO VI. ESTRUCTURA ORGANICA Y FUNCIONAMIENTO DE LOS SERVICIOS COMUNES
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+###### ARTICULO 63
+
+IX.- Para el cumplimiento de sus obligaciones y atribuciones, los Servicios Comunes contarán con la siguiente estructura orgánica:
+
+I.- Jefatura de Oficina;
+
+II.- Central de Actuarios;
+
+III.- Oficialía de Partes;
+
+IV.- Archivo Judicial;
+
+V.- Auxiliares Administrativos;
+
+VI.- Intendencia; y
+
+VII.- Personal de Soporte Técnico en informática.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+###### ARTICULO 63-X.
+
+El Jefe de la Oficina de Servicios Comunes será propuesto y aprobado por el Pleno y deberán reunir los siguientes requisitos:
+
+I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
+
+II.- Ser Licenciado en Derecho con titulo o cédula profesional Registrado en el Supremo Tribunal de Justicia;
+
+III.- Tener práctica profesional de cuando menos 3 tres años;
+
+IV.- Haber ejercido la función de Actuario cuando menos un año en las materias relacionadas; y
+
+V.- Gozar de buena reputación y no haber sido condenado por delito alguno.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+###### ARTICULO 63
+
+XI.- El Titular de la Oficina será el jefe administrativo inmediato del personal que integra la Oficina de Servicios Comunes, y su función será de destinar, organizar y vigilar las actividades inherentes a la oficina.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+### CAPITULO VII. DE LAS ATRIBUCIONES Y OBLIGACIONES DEL JEFE DE OFICINA DE SERVICIOS COMUNES
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+###### ARTICULO 63
+
+XII.- Son atribuciones y obligaciones del Jefe de la Oficina de Servicios Comunes:
+
+I.- Contar con fe pública para atender los casos que ameriten su actuación;
+
+II.- Establecer las acciones necesarias para organizar, coordinar, dirigir, vigilar, supervisar y controlar el ejercicio de las funciones propias del personal adscrito a la oficina de Servicios comunes;
+
+III.- Registrar y distribuir, de la forma más conveniente posible, en la plantilla de Actuarios, la realización de las notificaciones, citaciones, emplazamientos y demás diligencias que se dispongan, cuidando que las cargas de trabajo sean lo más equitativa posible, de acuerdo a la carga de trabajo;
+
+IV.- Designar conforme al turno al Actuario que llevará a cabo el desahogo de la diligencia cuando se habiliten días y horas inhábiles;
+
+V.- Recibir diariamente los expediente (sic) que sean turnados por cada Juzgado para la realización de las notificaciones, otorgando la constancia de recibido correspondiente;
+
+VI.- Determinar el diseño de las rutas por Actuario para la práctica de las notificaciones de cada día;
+
+VII.- Establecer un catálogo de los tiempos límites aproximados de las diligencias, considerando el tiempo de ejecución y la distancia a donde deba trasladarse el Actuario;
+
+VIII.- Asignar la diligencia a los actuarios tanto de oficio como a petición de parte interesada, con apego en lo dispuesto en el artículo I8-I del Reglamento Interior de los Juzgados del Estado de Colima;
+
+IX. Dar seguimiento a la gestión del auxilio de la fuerza pública, la que deberá ser solicitada por la parte interesada ante el Juez de la causa y la instancia correspondiente, para garantizar la seguridad del Actuario;
+
+X.- Agilizar la diligenciación de exhortos;
+
+XI.- Regresar los expediente (sic) al Archivo Judicial o al Secretario de Acuerdos del Juzgado correspondiente en caso de existir algún pedimento de parte, una vez practicada la Diligencia o cuando se cancelen;
+
+XII.- Recibir los comunicados de las autoridades Federales con relación a los juicios de amparo, en donde sea señalado algún Actuario como autoridad responsable, para que ordene a dicho funcionario rendir los informes que solicite y atienda los requerimientos dispuestos;
+
+XIII.- Vigilar el buen uso que los Actuarios hagan de los vehículos Oficiales para la práctica de notificaciones o diligencias en su caso, así como reportar al Jefe de la Unidad de Apoyo Administrativo de las incidencias de los mismos para su atención;
+
+XIV. Mantener comunicación y coordinación con los titulares de los Juzgados, a fin de intervenir en las cuestiones jurisdiccionales que ameriten urgencia, así como dar seguimiento a los errores u omisiones que sean observados por dichos órganos con relación a las constancias levantadas por los Actuarios, para evitar en lo posible su repetición;
+
+XV. Llevar estadística individual por cada Actuario y personal a su cargo, así como la generalizada de la Oficina de Servicios Comunes para establecer medidas de productividad;
+
+XVI. Rendir mensualmente al Presidente del Supremo Tribunal de Justicia, un informe de las actividades;
+
+XVII. Supervisar al encargado de Oficialía de Partes, la debida recepción de demandas y promociones;
+
+XVIII. Ordenar al encargado del Archivo Judicial, la debida atención al público que solicite sus servicios;
+
+XIX. Remitir al encargado del Archivo Judicial para su organización, los expedientes que se hayan diligenciado y que no haya petición de parte;
+
+XX. Levantar las Actas Administrativas correspondientes al personal a su cargo, cuando faltaren alguna de las disposiciones legales establecidas e informar de las mismas al Presidente del Supremo Tribunal de Justicia;
+
+XXI. Estar al pendiente de las necesidades de mantenimiento, revisión, corrección, instalación, configuración, entre otras, o cualquier soporte informático que se requiera en la sede judicial a su cargo, para, en su caso, ordenar al personal de informática que se avoque a la solución de cualquier problemática de esta índole;
+
+XXII. Solicitar, en su caso, y con la respectiva valoración del personal de informática, el remplazo, mantenimiento, cambio, instalación de sistemas, equipo de computo, partes, accesorios, periféricos, redes, insumos, entre otras, que se requieran para el óptimo funcionamiento de los juzgados y oficina de servicios comunes; y
+
+XXIII. Atender todas las necesidades administrativas que se presenten en el área a su cargo, así como gestionar el suministro de material y solicitudes de servicios de mantenimiento de los Juzgados que estén bajo su competencia.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+### CAPITULO VIII. DEL ARCHIVO JUDICIAL DE LA OFICINA DE SERVICIOS COMUNES
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+###### ARTICULO 63
+
+XIII.- El encargado del Archivo será propuesto y aprobado por el Pleno y deberán reunir los siguientes requisitos:
+
+I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
+
+II.- Tener grado mínimo de nivel medio superior;
+
+III.- Tener conocimiento de informática en cualquier grado;
+
+IV.- Gozar de buena reputación.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+###### ARTICULO 63
+
+XIV.- El encargado del Archivo podrá contar con un auxiliar administrativo el que reunirá los requisitos siguientes:
+
+I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
+
+II.- Tener conocimiento de informática en cualquier grado; y
+
+III.- Gozar de buena reputación.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+###### ARTICULO 63
+
+XV.- Son atribuciones y obligaciones del encargado del Archivo:
+
+I.- Conservar en forma ordenada en los anaqueles correspondientes los expedientes cuadernos y exhortos, grosando todas las actuaciones y documentos pertenecientes a los mismos;
+
+II.- Proporcionar para consulta y mediante la boleta de control los expedientes a los litigantes autorizados y regresarlos a sus respectivos lugares;
+
+III.- Localizar los expedientes, anexar las promociones sin grosar y ponerlos a disposición del Secretario correspondiente para su acuerdo, a primera hora del día siguiente de su recepción;
+
+IV.- Entregar diariamente a los Secretarios de Acuerdos los expedientes en que deban desahogarse diligencias de prueba; y
+
+V.- Entregar al Jefe de la Oficina los expedientes que éste le requiera.
 
 ## TITULO SEXTO. FALTAS, EXCUSAS Y RECUSACIONES
 
-### CAPITULO III. DE LOS PERITOS
+### CAPITULO I. DE LOS MAGISTRADOS
 
 ###### ARTICULO 64.
 
@@ -933,11 +1173,13 @@ Si por defunción, renuncia o incapacidad, faltare algún Magistrado, el Jefe de
 
 En los casos de excusa o recusación de uno de los Magistrados Propietarios de las salas del Supremo Tribunal de Justicia conocerá del negocio el otro Magistrado de la misma sala de la que forma parte. Si éste a su vez estuviere impedido, conocerá del negocio cualquiera de los supernumerarios, quien integrará el Pleno de la Sala con el Presidente del Tribunal en los términos del artículo 20 de la presente Ley. Cuando todos los Magistrados Propietarios y Supernumerarios estuvieren impedidos se pondrá el caso en conocimiento del Gobernador del Estado para que provea al nombramiento de los Magistrados Supernumerarios que deban conocer del negocio, en la forma establecida por el Artículo 70 de la Constitución Política del Estado.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO II. DE LOS JUECES Y DEMAS SERVIDORES PUBLICOS
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTICULO 67.
 
-Los jueces serán suplidos inmediatamente en sus faltas, que no excedan de tres meses y dentro de sus propios Juzgados, por el Secretario de Acuerdos o el primero si hubiere varios, y, en su defecto, por los demás Secretarios en su orden. Las faltas de los jueces por más de tres meses serán cubiertas mediante nombramientos que deberá hacer el Supremo Tribunal de Justicia, conforme a las disposiciones de esta Ley. Los Secretarios, a su vez, serán suplidos inmediatamente en sus faltas que no excedan de tres meses, así como, en los casos de excusa o recusación, por los que les sigan en su orden dentro del mismo Juzgado; en su defecto, por los Secretarios actuarios o testigos de asistencia.
+Los jueces serán suplidos inmediatamente en sus faltas, que no excedan de tres meses, por el Secretario de Acuerdos ó por el Servidor Público que determine el Pleno del Supremo Tribunal de Justicia. Las faltas de los jueces por más de tres meses serán cubiertas mediante nombramientos que deberá hacer el Supremo Tribunal de Justicia, conforme a las disposiciones de esta Ley. Los secretarios, a su vez, serán suplidos en sus faltas que excedan de tres meses, así como, en los casos de excusa o recusación, por los que les sigan en su orden dentro del mismo juzgado; en su defecto, por los secretarios actuarios ó por quien designe el Pleno.
 
 ###### ARTICULO 68.
 
@@ -969,7 +1211,7 @@ Las faltas de los Jueces Mixtos de Paz, menores de un mes, serán suplidas inmed
 
 ## TITULO SEPTIMO
 
-### CAPITULO II. UNIDAD DE APOYO ADMINISTRATIVO
+### CAPITULO I. DE LOS SINDICOS DE CONCURSO
 
 ###### ARTICULO 75.
 
@@ -1023,7 +1265,7 @@ El Síndico que faltare al cumplimiento de las obligaciones que le impone esta L
 
 Los daños y perjuicios que se ocasionaren al concurso por culpa o negligencia del Síndico en el ejercicio de sus funciones, serán a cargo de éste en beneficio de los acreedores, procediéndose a retener la garantía que haya dado, sin perjuicio de que se ejercite, por quienes corresponda, las acciones procedentes, a fin de asegurar debidamente los intereses del concurso, e independientemente de la acción penal cuando hubiere ocurrido en fraude de los acreedores. Cuando hubiere habido dos o más síndicos, la garantía que cada uno haya otorgado responderá en su respectivo ejercicio.
 
-### CAPITULO III. CENTRO DE COMPUTO
+### CAPITULO II. INTERVENTORES DE CONCURSO
 
 ###### ARTICULO 84.
 
@@ -1037,7 +1279,7 @@ Los interventores serán nombrados por los acreedores en cualquier tiempo, por m
 
 Las atribuciones del interventor, su ejercicio y causas de remoción se encuentran previstos por el Código de Procedimientos Civiles.
 
-### CAPITULO IV. ARCHIVO JUDICIAL
+### CAPITULO III. DE LOS PERITOS
 
 ###### ARTICULO 87.
 
@@ -1055,7 +1297,7 @@ Para ser perito se requiere ser mexicano, tener buenos antecedentes de moralidad
 
 ## TITULO PRIMERO. DEPENDENCIAS DEL SUPREMO TRIBUNAL DE JUSTICIA
 
-### CAPITULO V. BIBLIOTECA
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 89.
 
@@ -1081,11 +1323,7 @@ VIII.- Conserjerías;
 
 IX.- La Oficialía de Partes.
 
-### CAPITULO VI. BOLETIN JUDICIAL
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE FEBRERO DE 2009)</small>
+### CAPITULO II. UNIDAD DE APOYO ADMINISTRATIVO
 
 ###### ARTICULO 90.
 
@@ -1125,7 +1363,7 @@ XII.- Las demás atribuciones que le señalen las leyes.
 
 El Jefe de la Unidad de Apoyo Administrativo coordinará el trabajo y el ejercicio de las funciones correspondientes a las Dependencias del Poder Judicial, atendiendo a las necesidades de la administración. El Supremo Tribunal determinará la organización de las mismas, creando las direcciones o departamentos que se requieran para el cabal cumplimiento de sus atribuciones.
 
-### CAPITULO VII. CENTRO DE ESTUDIOS JUDICIALES
+### CAPITULO III. CENTRO DE COMPUTO
 
 ###### ARTICULO 93.
 
@@ -1169,11 +1407,13 @@ Para el cumplimiento de las atribuciones y obligaciones que corresponden al Cent
 
 El Centro de Cómputo se integrará con el personal especializado que el Presupuesto de egresos autorice y se regirá por el reglamento que para el efecto se expida, teniendo el carácter de servidores públicos de confianza.
 
-### CAPITULO VIII. OFICINA CENTRAL DE DEPOSITOS Y CONSIGNACIONES
+### CAPITULO IV. ARCHIVO JUDICIAL
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTICULO 98.
 
-El Supremo Tribunal de Justicia tendrá bajo sus órdenes el Archivo Judicial del Estado. El Presidente dictará las medidas que estime convenientes y por medio de una comisión, le practicará visitas pertinentes ordinarias o extraordinarias.
+El Supremo Tribunal de Justicia tendrá bajo sus órdenes el Archivo Judicial del Estado, teniendo facultades para la creación de Archivos regionales en el Estado. El Presidente dictará las medidas que estime convenientes y por medio de una comisión, le practicará visitas pertinentes ordinarias o extraordinarias.
 
 ###### ARTICULO 99.
 
@@ -1211,7 +1451,7 @@ La planta del Archivo se compondrá: de un Director, Oficiales y Escribientes qu
 
 El reglamento respectivo fijará las atribuciones de los Servidores Públicos de la administración de justicia del archivo y determinará la forma de los asientos, índices y libros que en la misma oficina deban llevarse, y el Presidente del Tribunal podrá acordar, en todo caso, las disposiciones que crea convenientes.
 
-### CAPITULO IX. CONSERJERIAS
+### CAPITULO V. BIBLIOTECA
 
 ###### ARTICULO 106.
 
@@ -1239,9 +1479,11 @@ VI.- Llevar la estadística de usuarios; y
 
 VII.- Las demás que le prescriban las leyes, reglamentos respectivos y los acuerdos del Tribunal o de su Presidente.
 
-### CAPITULO X. OFICIALIA DE PARTES
+### CAPITULO VI. BOLETIN JUDICIAL
 
-> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 1990)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE FEBRERO DE 2009)</small>
 
 ###### ARTICULO 109.
 
@@ -1271,7 +1513,7 @@ El Boletín Judicial será editado por el Consejo Editorial que se integrará co
 
 En todo lo relativo a la Administración del Boletín, el Consejo Editorial tendrá las más amplias facultades, tanto para el manejo y la aplicación de los ingresos que se obtengan, como para la designación y remoción del personal administrativo.
 
-### CAPITULO I. DESIGNACIONES
+### CAPITULO VII. CENTRO DE ESTUDIOS JUDICIALES
 
 ###### ARTICULO 112.
 
@@ -1281,7 +1523,7 @@ El Supremo Tribunal de Justicia contará con un Centro de Estudios Judiciales, e
 
 El Centro de Estudios Judiciales funcionará como lo determine el reglamento que al efecto expida el Supremo Tribunal de Justicia y contará con el personal docente y administrativo necesario para la ejecución de sus propios programas.
 
-### CAPITULO II. INCOMPATIBILIDADES
+### CAPITULO VIII. OFICINA CENTRAL DE DEPOSITOS Y CONSIGNACIONES
 
 ###### ARTICULO 114.
 
@@ -1327,7 +1569,7 @@ El Director de la Oficina, bajo su más estricta responsabilidad, rendirá un in
 
 El Supremo Tribunal de Justicia creará en los respectivos Partidos Judiciales, en los casos que lo ameriten, las correspondientes Oficinas de Depósito y Consignaciones.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO IX. CONSERJERIAS
 
 ###### ARTICULO 122.
 
@@ -1341,9 +1583,11 @@ Los intendentes llevarán un inventario detallado de todos los muebles y útiles
 
 El aseo y la limpieza de los edificios deberá hacerse todos los días, antes de la hora en que inicien las labores de las oficinas radicadas en ellos.
 
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTICULO 125.
 
-El intendente hará los servicios necesarios del Juzgado, de mensajero y de los demás que se ofrezcan, siempre con conocimiento del Juez, guardando en todos los casos la reserva debida.
+El intendente hará los servicios necesarios del Juzgado, de mensajero y de los demás que se ofrezcan, siempre con conocimiento del Juez, guardando en todos los casos la reserva debida; con excepción de los Juzgados donde exista Oficina de Servicios Comunes, en cuyo caso, éste estará a cargo del Jefe de la Oficina.
 
 ###### ARTICULO 126.
 
@@ -1351,7 +1595,9 @@ Los jefes de las oficinas radicadas en los edificios presentarán al Presidente 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE NOVIEMBRE DE 1990)</small>
 
-### CAPITULO II. FALTAS
+### CAPITULO X. OFICIALIA DE PARTES
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 1990)</small>
 
 ###### ARTICULO 126-I.
 
@@ -1371,13 +1617,95 @@ Para ser Titular de la Oficialía de Partes, se requiere tener Título de Licenc
 
 III.- El Supremo Tribunal de Justicia podrá crear Oficialías de Partes en los Partidos Judiciales en que existan dos o más Juzgados que conozcan de una misma rama del Derecho, asignándoles al efecto el personal correspondiente y las funciones que tendrán a su cargo.
 
-### CAPITULO III. ORGANOS Y SISTEMAS PARA LA IMPOSICION DE LAS SANCIONES ADMINISTRATIVAS
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
 
-### CAPITULO I. DEPOSITARIOS
+### CAPITULO XI. OFICIALIA DE PARTES ADSCRITA EN LA OFICINA DE SERVICIOS COMUNES
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+###### ARTICULO 126
+
+IV.- El encargado de oficialía de Partes será propuesto y aprobado por el Pleno y deberán reunir los siguientes requisitos:
+
+I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
+
+II.- Ser Licenciado en Derecho con titulo o cédula profesional Registrada;
+
+III.- Tener práctica profesional de cuando menos 2 años; y
+
+IV.- Gozar de buena reputación.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+###### ARTICULO 126-V.
+
+El encargado de Oficialía de Partes deberá contar con un auxiliar administrativo el que reunirá los requisitos siguientes:
+
+I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
+
+II.- Tener conocimiento de informática en cualquier grado; y
+
+III.- Gozar de buena reputación.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+###### ARTICULO 126
+
+VI.- Son atribuciones y obligaciones del encargado de la Oficialía de partes:
+
+I.- Atender a los requerimientos y disposiciones del Jefe de los Servicios Comunes;
+
+II.- Rendir los informes solicitados por el Jefe de dicha Oficina;
+
+III.- Atender con amabilidad y diligencia al público en general y abogados litigantes que acuden a solicitar sus servicios;
+
+IV.- Recibir las promociones y demandas exhibidas por las partes, asignando la clave única de identificación así como el turno correspondiente a cada juzgado, debiendo escanearlas conjuntamente con los anexos que se presenten, entregando el recibo correspondiente. Así mismo, turnar inmediatamente los asuntos relacionados con la justicia federal al Secretario correspondiente; y
+
+V.- Entregar a las 15:00 horas al encargado del Archivo Judicial, las promociones y demandas con su correspondiente carátula, exhibidas hasta entonces, realizando un listado de las mismas, así como las recibidas después de la hora antes indicada, a primera hora del día siguiente.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+### CAPITULO XII. DEL PERSONAL DE SOPORTE TECNICO EN INFORMATICA ADSCRITO A LA OFICINA DE SERVICIOS COMUNES
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+ARTICULO 126 VII.- El personal de soporte informático adscrito a alguna Oficina de Servicios Comunes estará bajo la dirección y vigilancia del Jefe de Oficina y en ningún caso deberá ser removido de su sede por el Responsable del Área de Informática del Poder Judicial, sin causa justificada que lo amerite.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+ARTICULO 126 VIII.- Son atribuciones y obligaciones del personal de soporte informático adscrito a alguna Oficina de Servicios Comunes, las siguientes:
+
+I. Supervisar y evaluar la operatividad de procesos de automatización y sistematización;
+
+II. Administrar bases de datos de sistemas en operación y estructurar modelos estadísticos y generadores de informes;
+
+III. Dar mantenimiento preventivo y correctivo a los sistemas, equipos de cómputo, audio y video de las diferentes áreas de la Oficina de Servicios Comunes, así como de los Juzgados donde se preste el servicio; además de coadyuvar con las diferentes áreas referidas en la capacitación en materia de informática;
+
+IV. Instalar y administrar redes de cómputo, así como coordinar las labores de soporte técnico a los usuarios;
+
+V. Implementar y administrar los sitios oficiales de internet del Poder Judicial, específicamente los que tengan que ver con la sede judicial a la que esté adscrito;
+
+VI. Elaborar proyectos de mejora mediante metodologías de planeación estratégica enfocados al avance del Poder Judicial, para ser presentados ante la comisión correspondiente o el Pleno del Supremo Tribunal de Justicia del Estado;
+
+VII. Establecer los modelos de gestión encaminados a la certificación de calidad; y
+
+VIII. Las demás que le señalen las leyes, los reglamentos respectivos y acuerdos generales.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+ARTICULO 126 IX.- El personal de soporte técnico en Informática será propuesto por el Responsable del Área de Informática y aprobado por el Pleno y deberán reunir los siguientes requisitos:
+
+I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
+
+II.- Tener grado mínimo de Licenciatura o Ingeniería en Informática o áreas afines;
+
+III.- Tener experiencia profesional de cuando menos 1 un año; y
+
+IV.- Gozar de buena reputación.
 
 ## TITULO SEGUNDO. CONDICIONES PARA EL INGRESO, FORMACION Y PERMANENCIA EN EL SERVICIO DE LA ADMINISTRACION DE JUSTICIA
 
-### CAPITULO II. INTERPRETES Y TRADUCTORES
+### CAPITULO I. DESIGNACIONES
 
 ###### ARTICULO 127.
 
@@ -1431,9 +1759,7 @@ La protesta de los servidores públicos del Poder Judicial, se otorgará ante qu
 
 De toda protesta de los servidores públicos del Poder Judicial, se levantará acta con el número de copias necesarias, una de las cuales se remitirá a la Unidad de Apoyo Administrativo, para ser agregada a la hoja de servicios correspondientes.
 
-### CAPITULO III. PERITOS VALUADORES
-
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 1995)</small>
+### CAPITULO II. INCOMPATIBILIDADES
 
 ###### ARTICULO 138.
 
@@ -1457,11 +1783,7 @@ Ningún servidor público de la Administración de Justicia podrá desempeñar o
 
 ## TITULO TERCERO. RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DE LA ADMINISTRACION DE JUSTICIA
 
-### CAPITULO I. DE LA INTEGRACION DE LA JURISPRUDENCIA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2009)</small>
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 142.
 
@@ -1507,11 +1829,7 @@ Si el responsable de resolver una queja no lo hiciere dentro del plazo a que se 
 
 La declaración de responsabilidades por faltas producirá el efecto de inhibir al servidor público en el conocimiento del negocio en que se hubieren cometido. Además, se ordenará anotación en el expediente personal del servidor público y se le aplicará una sanción de tres a seis veces el salario diario que perciba.
 
-### CAPITULO II. DE LA OBLIGATORIEDAD DE LA JURISPRUDENCIA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2009)</small>
+### CAPITULO II. FALTAS
 
 ###### ARTICULO 151.
 
@@ -1559,21 +1877,33 @@ VI.- Las señaladas en las fracciones III, V y VI del Artículo 151 de esta Ley.
 
 Son faltas de los Secretarios de Acuerdos del Ramo Civil, Familiar y Mercantil, las fijadas en el artículo anterior y además las siguientes:
 
-I.- No entregar a los Secretarios Actuarios los expedientes de notificación personal o pendientes de diligencia, cuando deba hacerse fuera del Juzgado;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
 
-II.- No hacer a las partes las notificaciones personales que procedan cuando concurran al Juzgado o Tribunal, dentro del término de ley;
+I.- No entregar a los secretarios actuarios los expedientes de notificación personal o pendientes de diligencia, cuando deba hacerse fuera del Juzgado; con excepción de donde exista Oficina de Servicios Comunes, en cuyo caso, esta falta corresponde al Jefe de la misma;
 
-III.- No mostrar los expedientes a las partes, sin causa justificada, cuando lo soliciten;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
 
-IV.- No mostrar a las partes, inmediatamente que lo soliciten, los negocios que se hayan publicado en las listas de acuerdos del día; y
+II.- No hacer a las partes las notificaciones personales que procedan cuando concurran al Juzgado o Tribunal, dentro del término de Ley; con excepción de donde exista Oficina de Servicios Comunes, en cuyo caso, esta falta corresponde al Jefe de la misma;
 
-V.- No remitir al archivo en los meses de enero y julio de cada año, los expedientes cuya remisión sea forzosa.
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+III.- No mostrar los expedientes a las partes, sin causa justificada, cuando lo soliciten; con excepción de donde exista Oficina de Servicios Comunes, en cuyo caso, esta falta corresponde al Jefe de la misma;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+IV.- No mostrar a las partes, inmediatamente que lo soliciten, los negocios que se hayan publicado en las listas de acuerdos del día; con excepción de donde exista Oficina de Servicios Comunes, en cuyo caso, esta falta corresponde al Jefe de la misma o en su caso al Encargado del Archivo; y
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+V.- No remitir al archivo en los meses de enero y julio de cada año, los expedientes cuya remisión sea forzosa; con excepción de donde exista Oficina de Servicios Comunes, en cuyo caso, esta falta corresponde al Encargado de Archivo de la misma.
 
 ###### ARTICULO 155.
 
 Son faltas de los Secretarios Actuarios:
 
-I.- No hacer con la debida oportunidad y sin causa justificada, las notificaciones personales, ni llevar a cabo las diligencias de sus atribuciones, cuando deban efectuarse fuera del Juzgado o Tribunal;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+
+I.- No hacer con la debida oportunidad y sin causa justificada, las notificaciones personales, ni llevar a cabo las diligencias de sus atribuciones; así como las que les sean ordenadas por el Jefe de los Servicios Comunes en donde exista esta Oficina; cuando deban efectuarse fuera del Juzgado o Tribunal;
 
 II.- Retardar indebida o maliciosamente las notificaciones, emplazamientos, embargos o diligencias de cualesquier clase que les fueren encomendadas;
 
@@ -1605,11 +1935,7 @@ En los casos de este y del anterior artículo, al Servidor Público que cometa p
 
 Todas las disposiciones contenidas en este Capítulo serán aplicables, sin perjuicio de lo que previene la Ley Estatal de Responsabilidades de los Servidores Públicos.
 
-### CAPITULO III. DE LA INTERRUPCION DE LA JURISPRUDENCIA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2009)</small>
+### CAPITULO III. ORGANOS Y SISTEMAS PARA LA IMPOSICION DE LAS SANCIONES ADMINISTRATIVAS
 
 ###### ARTICULO 160.
 
@@ -1635,11 +1961,7 @@ III.- Cuando se trate de faltas de los Magistrados del Supremo Tribunal, la decl
 
 ## TITULO CUARTO. ARANCELES
 
-### CAPITULO IV. DE LA COMPILACION Y SISTEMATIZACION DE LA JURISPRUDENCIA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2009)</small>
+### CAPITULO I. DEPOSITARIOS
 
 ###### ARTICULO 164.
 
@@ -1665,11 +1987,17 @@ Los Depositarios de fincas rústicas percibirán como honorarios los que señale
 
 Cuando el secuestro recaiga sobre créditos el depositario, además de los honorarios a que se refiere el Artículo 167, cobrará el 5% sobre el importe de los créditos o pensiones que recaude y los que señale el arancel para los abogados, por las gestiones que haga para hacer efectivo el crédito o evitar que se menoscabe, si el mismo depositario es abogado. Siempre que cualquier depositario utilice los servicios deletrado (sic), éste tendrá derecho a percibir los honorarios que le corresponden, conforme a las disposiciones del arancel respectivo.
 
+### CAPITULO II. INTERPRETES Y TRADUCTORES
+
 ###### ARTICULO 170.
 
 Por asistencia ante la autoridad judicial para traducir declaraciones en idioma extranjero, por cada hora o fracción, se pagará honorarios el equivalente al salario mínimo diario general vigente en la entidad.
 
 Por traducción de cualquier documento, por las primeras cinco hojas, se pagará de honorarios el equivalente al 0.75% del salario mínimo diario por cada una; si se excediera de cinco hojas pero no de diez, se pagará la cantidad referida anteriormente por las primeras cinco hojas y el equivalente al 0.40% del salario mínimo diario por cada una de las restantes; las que se excedan de diez se pagarán al 0.15% del salario mínimo diario cada una.
+
+### CAPITULO III. PERITOS VALUADORES
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 1995)</small>
 
 ###### ARTICULO 171.
 
@@ -1735,6 +2063,12 @@ Cuando las partes invoquen la existencia de una jurisprudencia deberán expresar
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE FEBRERO DE 2009)</small>
 
+### CAPITULO I. DE LA INTEGRACION DE LA JURISPRUDENCIA
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2009)</small>
+
 ###### ARTICULO 177.
 
 Una vez que se cumplan los requisitos para la integración de la jurisprudencia por reiteración, el Pleno o las Salas harán la declaratoria correspondiente, aprobarán la tesis y ordenarán su publicación en el Boletín Judicial, el Periódico Oficial del Estado y, en su caso, el órgano oficial de difusión del Poder Judicial del Estado.
@@ -1773,6 +2107,12 @@ El Pleno o las Salas enviarán copia certificada de las tesis de jurisprudencias
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE FEBRERO DE 2009)</small>
 
+### CAPITULO II. DE LA OBLIGATORIEDAD DE LA JURISPRUDENCIA
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2009)</small>
+
 ###### ARTICULO 180.
 
 La jurisprudencia por reiteración o por contradicción que pronuncie el Pleno del Supremo Tribunal de Justicia tendrá observancia obligatoria para las Salas, los Juzgados del Poder Judicial, el Centro Estatal de Justicia Alternativa y las autoridades del Estado.
@@ -1796,6 +2136,12 @@ La observancia de la jurisprudencia será obligatoria al día siguiente de que s
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE FEBRERO DE 2009)</small>
+
+### CAPITULO III. DE LA INTERRUPCION DE LA JURISPRUDENCIA
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2009)</small>
 
 ###### ARTICULO 183.
 
@@ -1856,6 +2202,12 @@ III.- Por nueva disposición constitucional o legal aplicables.
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE FEBRERO DE 2009)</small>
+
+### CAPITULO IV. DE LA COMPILACION Y SISTEMATIZACION DE LA JURISPRUDENCIA
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2009)</small>
 
 ###### ARTICULO 189.
 
@@ -1998,3 +2350,11 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El Supremo Tribunal de Justicia, contará con 60 días naturales a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones en la denominación y redistribución de competencias por materia de los juzgados que actualmente tienen su sede en las ciudades de Colima y Villa de Álvarez.
 
 TERCERO.- Hasta en tanto se realicen las adecuaciones que resulten necesarias a los ordenamientos procesales, se estará a lo dispuesto por este Decreto para efecto de fijar la competencia por razón del territorio de los juzgados pertenecientes al Primer Partido Judicial, entendiéndose como "lugar del juicio" o cualquier otra frase alusiva a la ubicación de la sede del juzgado en donde deba presentarse la demanda, jurisdicción voluntaria o causa penal correspondiente, indistintamente a las ciudades de Colima y Villa de Álvarez.
+
+P.O. 8 DE SEPTIEMBRE DE 2012.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO. El Pleno deberá llevar a cabo, en un plazo de 60 días contados a partir de la publicación del presente decreto, las acciones necesarias para la implementación de este sistema. En tanto, el registro de cédulas profesionales que se lleva en los libros de los Juzgados de Primera Instancia, continuará surtiendo efectos hasta que se haya implementado en su totalidad, tanto en la Secretaría General de Acuerdos para su ingreso, captura y resguardo, como en los demás órganos jurisdiccionales de la Entidad, para su consulta.
+
+TERCERO. Una vez implementado en su totalidad el nuevo sistema, surtirá efectos como único registro de cédulas profesionales el que se lleve en la Secretaría General de Acuerdos; los profesionistas del derecho que deseen intervenir como autorizados legales o en su caso, como defensores ante los diversos órganos jurisdiccionales del Poder Judicial del Estado, deberán estar registrados en este nuevo sistema.
