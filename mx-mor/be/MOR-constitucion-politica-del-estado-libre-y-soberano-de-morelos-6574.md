@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2012-08-15"
+last_updated: "2012-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2012.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -2834,6 +2834,12 @@ Se otorga a la Universidad del Estado plena autonomía para impartir la enseñan
 
 El Congreso del Estado proveerá los instrumentos legales necesarios para el cumplimiento de la función social educativa, expedir la Ley para el ejercicio de las profesiones en el Estado y para fijar las sanciones aplicables a quienes no cumplan o hagan cumplir las normas relativas a dicha función educativa o a las personas que las infrinjan.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
+
+Con relación al segundo párrafo del artículo 32 de la presente Constitución, el Gobernador remitirá al Congreso del Estado para su examen, discusión y aprobación el Presupuesto de Egresos del Estado para el ejercicio fiscal siguiente, en el que establecerá como base para la Universidad Autónoma del Estado de Morelos el dos punto cinco por ciento del total del Presupuesto de Egresos del Estado. El Congreso del Estado con relación a la fracción V del artículo 40 de esta Constitución garantizará en la autorización del Presupuesto de Egresos ese porcentaje mínimamente para la Universidad Autónoma del Estado de Morelos.
+
 ###### Artículo 122.
 
 Las Autoridades del Estado vigilarán por la estricta aplicación y observancia del artículo 123 de la Constitución General de la República.
@@ -4217,3 +4223,9 @@ PRIMERO.- Aprobado que sea el presente remítase a los Municipios del Estado par
 SEGUNDO.- Una vez aprobado remítase al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos a que se refiere el artículo 44 de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 TERCERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+P.O. 10 DE SEPTIEMBRE DE 2012.
+
+PRIMERO.- Una vez aprobado por el Constituyente Permanente y debidamente publicado en unión de la declaratoria correspondiente, el presente decreto iniciará su vigencia a partir del primero de enero del año 2013.
+
+SEGUNDO.- En cumplimiento por lo dispuesto en el artículo 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos, remítase al Titular del Poder Ejecutivo, para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
