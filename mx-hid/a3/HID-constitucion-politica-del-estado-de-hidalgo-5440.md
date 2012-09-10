@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2011-12-31"
+last_updated: "2012-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE MARZO DE 2014 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2012.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -51,13 +53,61 @@ CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
 El Estado de Hidalgo, como integrante de la Federación, es libre y soberano en todo lo que concierne a su régimen interior, conforme a los preceptos de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 2º.
 
-La Constitución Política de los Estados Unidos Mexicanos como Ley Suprema, esta Constitución y las Leyes que de ellas emanen integran el orden jurídico del Estado de Hidalgo.
+Este decreto comenzará a surtir sus efectos desde el año de 1928.
 
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1987)</small>
+P.O. 8 DE OCTUBRE DE 1929.
+
+Este decreto empezará a surtir sus efectos, desde la fecha de su publicación.
+
+P.O. 16 DE MARZO DE 1930.
+
+I.- Estas reformas empezarán a surtir sus efectos desde la fecha de su publicación en el Periódico Oficial.
+
+II.- El primer período de cuatro años que deberán durar los Magistrados del Tribunal Superior de Justicia, comenzará el día primero de abril del corriente año, y otorgarán la protesta de ley ante el Ejecutivo del Estado.
+
+P.O. 16 DE ENERO DE 1931.
+
+Continúa en vigor el decreto 170 de 8 de mayo de 1930.
+
+P.O. 8 DE OCTUBRE DE 1932.
+
+Esta Ley comenzará a surtir sus efectos desde la fecha de su publicación.
+
+P.O. 8 DE SEPTIEMBRE DE 1935.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
+
+P.O. 16 DE MARZO DE 1936.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
+
+P.O. 24 DE MARZO DE 1936.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
+
+P.O. 16 DE JUNIO DE 1936.
+
+DECRETO NUMERO 363, QUE REFORMA LOS PARRAFOS PRIMERO Y DECIMOSEGUNDO DEL ARTICULO 3° DE LA CONSTITUCION.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
+
+P.O. 16 DE JUNIO DE 1936.
+
+DECRETO NUMERO 364, QUE REFORMA LOS PARRAFOS 1° Y 3° DEL ARTICULO 3° DE LA CONSTITUCION.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
+
+P.O. 16 DE JUNIO DE 1936.
+
+DECRETO NUMERO 365, QUE REFORMA EL PRIMERO Y QUINTO PARRAFOS DEL ARTICULO 3° DE LA CONSTITUCION.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
+
+P.O. 1 DE JUNIO DE 1937.
 
 ###### Artículo 3º.
 
@@ -65,27 +115,27 @@ Las Autoridades y los servidores públicos del Estado no tienen más facultades 
 
 El Estado podrá, en los términos de Ley, convenir con la federación la asunción por parte de aquél, del ejercicio de funciones de dicha federación, la ejecución y operación de obras y la prestación de servicios públicos, cuando el desarrollo económico y social lo haga necesario.
 
-> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
 
-## TITULO II. DE LAS GARANTIAS INDIVIDUALES Y SOCIALES
+## TÍTULO II. DE LOS DERECHOS HUMANOS Y SUS GARANTÍAS
 
 > <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 4°.
 
-En el Estado de Hidalgo, todo individuo gozará de las garantías y derechos que otorga esta Constitución y la Constitución Política de los Estados Unidos Mexicanos, las cuales no podrán restringirse ni suspenderse, sino en los casos y condiciones que ella misma establece.
+En el Estado de Hidalgo, todas las personas gozarán de los derechos humanos que reconoce la Constitución Política de los Estados Unidos Mexicanos, ésta Constitución, los tratados internacionales de los que el Estado mexicano sea parte y las Leyes secundarias, así como de las garantías para su protección, cuyo ejercicio no podrá restringirse ni suspenderse, salvo en los casos y bajo las condiciones que en la Constitución Federal se establezcan.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+Las normas relativas a los derechos humanos se interpretarán de conformidad con la Constitución Federal, ésta Constitución y con los tratados internacionales de la materia, favoreciendo en todo tiempo a las personas la protección más amplia.
 
-Queda prohibida toda discriminación motivada por el origen étnico, nacional o regional, el género, la edad, las discapacidades, la condición social o económica, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil, el trabajo desempeñado, las costumbres, la raza, o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos.
+Todas las autoridades, servidoras y servidores públicos en el Estado de Hidalgo, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Estado deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la Ley.
 
-> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2007)</small>
+En el Estado de Hidalgo, queda prohibida toda discriminación motivada por el origen étnico, nacional o regional, el género, la edad, las discapacidades, la condición social o económica, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil, el trabajo desempeñado, las costumbres, la raza, o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y las libertades de las personas.
 
-Toda discriminación o toda intolerancia constituyen un agravio a la dignidad humana y un retroceso a su propia condición, que deben combatirse.
+Toda discriminación o toda intolerancia constituyen un agravio a la dignidad humana y un retroceso a su propia condición, que deberá combatirse.
 
 > <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2003)</small>
 
@@ -113,11 +163,9 @@ Los habitantes del Estado gozan del derecho a que le sea respetado su honor, su 
 
 El derecho de réplica será ejercido en los términos dispuestos por la Ley.
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
 
-###### Artículo 5º.
-
-Sin distinción alguna, todos los habitantes del Estado tienen los derechos y obligaciones consagrados en esta Constitución.
+Artículo 5° Sin distinción alguna, todas y todos los habitantes del Estado tienen los derechos y obligaciones, así como los derechos humanos, consagrados en esta Constitución.
 
 El varón y la mujer son iguales ante la ley. Esta protegerá la organización y el desarrollo de la familia.
 
@@ -271,11 +319,11 @@ La ley determinará cuáles son las profesiones que necesitan título para su ej
 
 Todos los habitantes del Estado tienen derecho a la alimentación nutritiva, suficiente y de calidad, a la salud, a disfrutar de una vivienda digna y decorosa, y en general, al bienestar y a la seguridad individual y social, como objetivos de la permanente superación del nivel de vida de la población. La Ley definirá las bases y formas para conseguir estas finalidades en concurrencia con la Federación.
 
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
 
-###### Artículo 8 Bis.
+###### Artículo 8° Bis.
 
-Todos los habitantes de la Entidad tienen derecho a la educación que imparta el Estado, la que será pública, gratuita, laica y democrática, considerando a la democracia no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo. Tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentar en él, el amor a la patria y la conciencia de la solidaridad social en lo nacional y en lo internacional, dentro de la independencia y la justicia.
+Todas y todos los habitantes de la Entidad tienen derecho a la educación que imparta el Estado, la cual será pública, gratuita, laica y democrática, considerando a la democracia no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante, mejoramiento económico, social y cultural del pueblo. Tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentar en él, el amor a la patria el respeto a los derechos humanos y la conciencia de la solidaridad social en lo Estatal, Nacional y en lo Internacional, dentro de la independencia y la justicia.
 
 El Estado procurará el acceso a programas de becas para los alumnos más destacados en su desempeño académico dentro de las instituciones de educación pública, así como de aquellos que su condición económica les impida la conclusión de estudios profesionales.
 
@@ -297,9 +345,9 @@ Nadie puede ser aprisionado por deudas de carácter puramente civil.
 
 Queda prohibida la pena de muerte o cualesquiera otras penas inusitadas y trascendentales.
 
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
 
-Toda persona reducida a prisión tiene derecho a la reinserción social y a los beneficios que de ella resulten, sobre las bases del trabajo, la capacitación para el mismo, la educación y reestructuración de su personalidad, inspirados en un criterio de justicia social, eliminando todo concepto de venganza colectiva, con el objeto de restablecer su dignidad.
+Toda persona en prisión tiene derecho a la reinserción social y a los beneficios que de ella resulten, sobre las bases del respeto a los derechos humanos, del trabajo, la capacitación para el mismo, la educación, inspirados en un criterio de justicia social, eliminando todo concepto de venganza colectiva, con el objeto de restablecer su dignidad, procurando que no vuelva a delinquir.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
@@ -309,7 +357,7 @@ El Gobierno del Estado creará instancias especiales para el tratamiento de los 
 
 El Estado implementará un Sistema Integral de Justicia para Adolescentes, en los términos de la Ley en la materia.
 
-> <small>(ADICIONADO, P.O. 20 DE JULIO DE 1992)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 9°.
 
@@ -323,13 +371,31 @@ El Gobierno del Estado creará instituciones especiales para el tratamiento de l
 
 ###### Artículo 9 Bis.
 
-La Comisión de Derechos Humanos del Estado de Hidalgo, es un organismo descentralizado de la Administración Pública del Estado, con personalidad jurídica y patrimonio propios, de carácter autónomo y de servicio gratuito, encargado de la defensa y promoción de los derechos humanos en el Estado.
+La Comisión de Derechos Humanos del Estado de Hidalgo es un organismo público, con personalidad jurídica y patrimonio propio, tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones y podrá decidir sobre su organización interna y funcionamiento, en los términos que disponga la Ley, cuyo objeto es la protección, defensa, estudio, investigación, promoción y difusión de los derechos humanos, así como el combate a toda forma de discriminación, su patrimonio será inembargable y su presupuesto irreductible.
 
-Sin perjuicio de las facultades y obligaciones de los órganos y de las instancias legales que ésta Constitución establece y garantiza para la administración y procuración de justicia, ésta Comisión conocerá de las violaciones de derechos humanos provenientes de las actividades de la Administración Pública Estatal y Municipal y de los actos administrativos de cualquier otra autoridad pública de la Entidad. En su caso formulará recomendaciones públicas no vinculatorias.
+La Comisión de Derechos Humanos del Estado de Hidalgo, en el desempeño de sus atribuciones, en el ejercicio de su autonomía y del ejercicio de su presupuesto anual, no recibirá instrucciones o indicaciones de institución o servidor público alguno.
 
-Los derechos humanos a que se refiere el párrafo anterior, son los reconocidos como garantías individuales y sociales establecidas en la constitución y por las Leyes que de ellas emanen; así como los derechos humanos contenidos en los instrumentos internacionales suscritos y ratificados por los órganos correspondientes del Poder Federal.
+Tampoco estarán supeditados a ninguna autoridad las actividades y criterios de sus directivos o de su personal.
 
-La organización, facultades y obligaciones, así como la competencia de ésta Comisión serán reguladas por la Ley Orgánica correspondiente.
+Conocerá de quejas en contra de actos u omisiones de naturaleza administrativa, provenientes de cualquier autoridad o servidor público que violen derechos humanos, así como aquellos actos de discriminación y formulará recomendaciones públicas no vinculatorias. Dentro de las formas de solución a los asuntos que atienda se encontrara la amigable composición, para lo cual podrá hacer uso de los medios alternos de solución de conflictos de mediación y conciliación siempre que se trate de violaciones no calificadas como graves. Podrá presentar denuncias y quejas ante las autoridades respectivas.
+
+No tendrá competencia para conocer de asuntos electorales, jurisdiccionales y entre particulares, excepción hecha en éste último caso de cuestiones de discriminación, conforme lo establezcan las leyes respectivas.
+
+Toda autoridad, servidora o servidor público, están obligados a responder las recomendaciones que le presente la Comisión de Derechos Humanos, cuando estas no sean aceptadas o cumplidas por las autoridades, servidoras o servidores públicos, deberán fundar, motivar y hacer pública su negativa. El Congreso del Estado o en sus recesos la Diputación Permanente, según corresponda, podrán llamar, a solicitud de la Comisión, a las autoridades, servidoras o servidores· públicos responsables para que comparezcan ante dichos órganos legislativos, a efecto de que expliquen el motivo de su negativa.
+
+Para el cumplimiento de sus funciones, contará con una persona titular de la Presidencia, un Consejo Consultivo, Visitadurías Generales y una Secretaría Ejecutiva, así como, el demás personal administrativo indispensable para sus funciones.
+
+La elección de la o el titular de la Presidencia de la Comisión de Derechos Humanos del Estado de Hidalgo, así como de los integrantes del Consejo Consultivo, se ajustarán a un procedimiento de consulta pública, que deberá ser transparente, en los términos y condiciones que determine la Ley, para tal efecto, el Congreso del Estado expedirá previamente una convocatoria pública abierta.
+
+El Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Hidalgo será de carácter honorífico e integrado por ocho personas. Las Consejeras y los Consejeros durarán un año en el cargo con la posibilidad de ser reelectos. En la integración del Consejo se buscará la equidad de género.
+
+La persona titular de la Presidencia de la Comisión de Derechos Humanos del Estado de Hidalgo, quien lo será también del Consejo Consultivo, sólo podrá ser removido de sus funciones en los términos señalados en el Título Décimo de esta Constitución. Requerirá conocer el tema de derechos humanos y cumplir con los demás requisitos que determine la Ley de la materia, durará en su encargo cinco años sin posibilidad de ser reelecta.
+
+La persona titular de la Presidencia de la Comisión de Derechos Humanos del Estado de Hidalgo, presentará anualmente al Congreso del Estado un informe de actividades, el cual se le hará llegar a las personas titulares del Poder Ejecutivo y del Poder Judicial del Estado, para su conocimiento.
+
+Toda autoridad, servidora o servidor público deberá colaborar, dentro del ámbito de su competencia con la Comisión, ninguna de ellas podrá negar la información que se le requiera, ni interferir en perjuicio de sus actividades. La Comisión mantendrá la reserva de la información que se le proporcione con ese carácter. Cuando así proceda, presentará las denuncias respectivas ante la autoridad competente
+
+La organización, facultades y obligaciones, así como la competencia de la Comisión serán reguladas por la Ley correspondiente y su Reglamento.
 
 (REFORMADO, P.O. 1 DE OCTUBRE DE 1987) (F. DE E., P.O. 30 DE DICIEMBRE DE 1987)
 
@@ -357,9 +423,9 @@ Son habitantes del Estado quienes temporal o definitivamente establezcan su domi
 
 Son obligaciones de los habitantes del Estado:
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
 
-I. Cumplir con los preceptos de esta Constitución, los de las leyes, reglamentos, y disposiciones que de ellos emanen, así como respetar a las autoridades;
+I. Cumplir con los preceptos de esta Constitución, los de las Leyes, Reglamentos, y disposiciones que de ellos emanen, así como respetar a las autoridades y los derechos humanos de las demás personas;
 
 II. Contribuir a los gastos públicos del Estado y del Municipio en que residan o tengan bienes, en la forma proporcional y equitativa que dispongan las Leyes;
 
@@ -761,9 +827,9 @@ El Congreso se renovará en su totalidad cada tres años, mediante elección que
 
 El Congreso tendrá durante el año, dos períodos ordinarios de sesiones, como sigue:
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
 
-El primero se iniciará el cinco de septiembre y concluirá a más tardar el último de diciembre. El segundo comenzará el primer día de abril y terminará a más tardar el último de julio.
+El primero se iniciará el cinco de septiembre y concluirá a más tardar el último de diciembre. El segundo comenzará el primer día de marzo y terminará a más tardar el último de julio.
 
 Los períodos no podrán prorrogarse más allá de la fecha de su terminación.
 
@@ -1015,6 +1081,10 @@ XIX. (DEROGADA, P.O. 19 DE ABRIL DE 2004)
 
 XX. (DEROGADA, P.O. 9 DE MAYO DE 1998)
 
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
+
+XX Bis.- Hacer comparecer a las autoridades, servidoras o servidores públicos que hayan recibido Recomendación de la Comisión de Derechos Humanos del Estado y no las hubieren aceptado, o que habiéndolas aceptado sean omisos en su cumplimiento.
+
 > <small>(REFORMADA, P.O. 2 DE AGOSTO DE 1995)</small>
 
 XXI. Hacer comparecer a los servidores públicos titulares de dependencias o directores y representantes legales de Entidades de la Administración Pública del Estado, al Procurador General de Justicia del Estado y al Subprocurador de Asuntos Electorales, para que informen de los asuntos de su competencia;
@@ -1175,9 +1245,9 @@ II. Conceder licencia al Gobernador del Estado cuando sea por un lapso mayor de 
 
 III. Recibir la protesta al Cargo de Gobernador y Magistrados del Tribunal Superior de Justicia, del Tribunal Fiscal Administrativo y del Tribunal Electoral, Consejeros del Consejo de la Judicatura , así como al Procurador General de Justicia y al Subprocurador de Asuntos Electorales;
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
 
-IV. Resolver asuntos de su competencia y recibir durante el receso del Congreso del Estado las iniciativas de Ley y proposiciones que le dirijan, turnándolas para dictamen a fin de que se despachen en el período inmediato de sesiones;
+IV. Resolver asuntos de su competencia y recibir durante el receso del Congreso del Estado las iniciativas de Ley y proposiciones que le dirija, turnándolas para dictamen a fin de que se despachen en el periodo inmediato de sesiones; así como las comparecencias de las autoridades, las servidoras y los servidores públicos a que hace referencia la fracción XX Bis del artículo 56, ante las Comisiones de estudio y Dictamen;
 
 > <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 1995)</small>
 
@@ -1355,7 +1425,9 @@ VII. Facilitar a los Poderes Legislativo y Judicial los elementos necesarios par
 
 VIII. Ordenar que se cumplan las sentencias ejecutoriadas de los Tribunales;
 
-IX. Cuidar del orden y la tranquilidad pública del Estado,
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
+
+IX. Cuidar del orden y la tranquilidad pública del Estado, así como del respeto a los derechos humanos.
 
 > <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2001)</small>
 
@@ -1557,11 +1629,11 @@ El Gobernador podrá delegar en cualquier funcionario, las facultades otorgadas 
 
 #### SECCION IV. DE LA PLANEACION ESTATAL DEL DESARROLLO
 
-> <small>(REFORMADO, 1 DE OCTUBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 82.
 
-Corresponde al Gobierno Estatal la rectoría del desarrollo de la Entidad, para garantizar que sea integral, fortalezca su economía, su régimen democrático, la ocupación y una más justa distribución del ingreso, permitiendo el ejercicio de la libertad y la dignidad de los individuos, grupos y clases sociales, dentro de lo que prescribe la Constitución General de la República, la particular del Estado y las Leyes que de ellas emanen.
+Corresponde al Gobierno Estatal la rectoría del desarrollo de la Entidad, para garantizar que sea integral, fortalezca su economía, su régimen democrático, la ocupación y una más justa distribución del ingreso, permitiendo el ejercicio de la libertad y la dignidad de los individuos, grupos y clases sociales, así como el ejercicio efectivo de los derechos humanos, dentro de lo que prescribe la Constitución General de la República, la particular del estado y las Leyes que de ellas emanen.
 
 El Estado programará, planeará, conducirá, coordinará y orientará la actividad económica en la Entidad, y regulará fomentará las actividades que demande el interés público sin menoscabo de las libertades y derechos que otorgan esta Constitución y la General de la República.
 
@@ -2443,7 +2515,9 @@ Son facultades y obligaciones del Ayuntamiento:
 
 I. Cumplir y hacer cumplir la Constitución Política de los Estados Unidos mexicanos, esta Constitución y las Leyes, Decretos y disposiciones federales, estatales y municipales;
 
-II. Expedir y aprobar, de acuerdo con las leyes que en materia municipal emita el Congreso del Estado, los bandos de policía y gobierno y los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de competencia municipal y aseguren la participación ciudadana y vecinal;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
+
+II.- Expedir y aprobar de acuerdo con las leyes que en materia municipal emita el Congreso del Estado, los Bandos de Policía y Gobierno y los Reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que organicen la Administración Pública Municipal, regulen las materias, procedimientos, funciones y servicios públicos de competencia Municipal y aseguren la participación ciudadana y vecinal, dentro de un marco de respeto a los derechos humanos;
 
 III. Conceder licencia al Presidente Municipal hasta por treinta días y llamar a quien debe suplirlo; si la licencia fuese por un periodo mayor, conocerá de ella y resolverá el Congreso del Estado, escuchando previamente la opinión del Ayuntamiento;
 
@@ -2623,11 +2697,11 @@ Para los efectos de la responsabilidad se reputarán como servidores públicos a
 
 El Gobernador del Estado, será responsable por violaciones a la Constitución Política de los Estados Unidos Mexicanos y a las leyes federales que de ésta emanen, por traición a los intereses del Estado, por delitos graves del orden común, así como por el manejo indebido de fondos y recursos de esta Entidad Federativa.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 150.
 
-Serán sujetos de juicio político: los Diputados al Congreso Local, el Auditor Superior, los Presidentes Municipales, los Síndicos Procuradores, los Regidores, los Magistrados del Tribunal Superior de Justicia del Estado, del Tribunal Fiscal Administrativo y del Tribunal Electoral, los Consejeros del Consejo de la Judicatura, los Secretarios del Despacho del Poder Ejecutivo, el Procurador General de Justicia, el Subprocurador de Asuntos Electorales, el Oficial Mayor y los Coordinadores que nombre el Ejecutivo, el Consejero Presidente los Consejeros Electorales y el Secretario Ejecutivo del Instituto Estatal Electoral, los Directores Generales o sus equivalentes, de los Organismos Públicos Descentralizados, Empresas de Participación Estatal Mayoritaria, Sociedades y Asociaciones asimiladas a éstas, Fideicomisos Públicos de esta Entidad Federativa y Jueces de Primera Instancia, por las acciones u omisiones indebidas en que incurran en el tiempo de su encargo y serán responsables por la comisión de los delitos del Orden Común que se cometan durante su gestión.
+Serán sujetos de juicio político: las Diputadas y los Diputados al Congreso Local, las y los titulares de la Administración Municipal, las y los Síndicos Procuradores, las Regidoras y los Regidores, las Magistradas y los Magistrados del Tribunal Superior de Justicia del Estado, del Tribunal Fiscal Administrativo y del Tribunal Electoral, las Secretarías y los Secretarios del despacho del Poder Ejecutivo, la o el titular de la Procuraduría General de Justicia, así como de la Subprocuraduría de Asuntos Electorales y quienes tengan a su cargo las Coordinaciones creadas por el Ejecutivo, la Consejera o el Consejero Presidente, las y (sic) Consejeras y los Consejeros Electorales y quien tenga la titularidad de la Secretaría Ejecutiva del Instituto Estatal Electoral, las y los directores generales o sus equivalentes de los organismos públicos autónomos y descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a estas, fideicomisos públicos de esta Entidad Federativa, las y los titulares de los juzgados de primera instancia por las acciones u omisiones indebidas en que incurran en el tiempo de su encargo y serán responsables por la Comisión de los delitos del orden común y de las violaciones graves a derechos humanos que se cometan durante su gestión.
 
 > <small>(REFORMADO, P.O. 2 DE AGOSTO DE 1995)</small>
 
@@ -2765,7 +2839,9 @@ En tanto se expiden las leyes orgánicas relativas, continuarán rigiendo en el 
 
 ###### Artículo 2°.
 
-En tanto se expiden las leyes orgánicas relativas, continuarán rigiendo en el Estado, las vigentes en la actualidad así como los decretos y reglamentos que no se opongan a la presente Constitución ni a la General de 5 de febrero de 1917.
+La Constitución Política de los Estados Unidos Mexicanos como Ley Suprema, esta Constitución, las Leyes que de ellas emanen y los tratados internacionales de los que el Estado mexicano sea parte, integran el orden jurídico del Estado de Hidalgo.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1987)</small>
 
 ###### Artículo 3°.
 
@@ -2797,59 +2873,23 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 
 P.O. 16 DE NOVIEMBRE DE 1927.
 
-###### Artículo 2º.
+###### Artículo 2o.
 
-Este decreto comenzará a surtir sus efectos desde el año de 1928.
+La reforma al Artículo 74 empezará a surtir sus efectos para la integración de las próximas asambleas municipales.
 
-P.O. 8 DE OCTUBRE DE 1929.
-
-Este decreto empezará a surtir sus efectos, desde la fecha de su publicación.
-
-P.O. 16 DE MARZO DE 1930.
-
-I.- Estas reformas empezarán a surtir sus efectos desde la fecha de su publicación en el Periódico Oficial.
-
-II.- El primer período de cuatro años que deberán durar los Magistrados del Tribunal Superior de Justicia, comenzará el día primero de abril del corriente año, y otorgarán la protesta de ley ante el Ejecutivo del Estado.
-
-P.O. 16 DE ENERO DE 1931.
-
-Continúa en vigor el decreto 170 de 8 de mayo de 1930.
-
-P.O. 8 DE OCTUBRE DE 1932.
-
-Esta Ley comenzará a surtir sus efectos desde la fecha de su publicación.
-
-P.O. 8 DE SEPTIEMBRE DE 1935.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
-
-P.O. 16 DE MARZO DE 1936.
+P.O. 16 DE JUNIO DE 1946.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
 
-P.O. 24 DE MARZO DE 1936.
+P.O. 8 DE SEPTIEMBRE DE 1946.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
+UNICO.- Estas reformas entrarán en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
-P.O. 16 DE JUNIO DE 1936.
+P.O. 16 DE NOVIEMBRE DE 1947.
 
-DECRETO NUMERO 363, QUE REFORMA LOS PARRAFOS PRIMERO Y DECIMOSEGUNDO DEL ARTICULO 3° DE LA CONSTITUCION.
+Unico.- Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
-
-P.O. 16 DE JUNIO DE 1936.
-
-DECRETO NUMERO 364, QUE REFORMA LOS PARRAFOS 1° Y 3° DEL ARTICULO 3° DE LA CONSTITUCION.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
-
-P.O. 16 DE JUNIO DE 1936.
-
-DECRETO NUMERO 365, QUE REFORMA EL PRIMERO Y QUINTO PARRAFOS DEL ARTICULO 3° DE LA CONSTITUCION.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
-
-P.O. 1 DE JUNIO DE 1937.
+P.O. 24 DE FEBRERO DE 1948.
 
 ###### ARTICULO UNICO
 
@@ -2887,21 +2927,7 @@ Las reformas a los artículos 58 y 59 empezarán a surtir sus efectos a partir d
 
 ###### Artículo 2o.
 
-La reforma al Artículo 74 empezará a surtir sus efectos para la integración de las próximas asambleas municipales.
-
-P.O. 16 DE JUNIO DE 1946.
-
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
-
-P.O. 8 DE SEPTIEMBRE DE 1946.
-
-UNICO.- Estas reformas entrarán en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
-
-P.O. 16 DE NOVIEMBRE DE 1947.
-
-Unico.- Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
-
-P.O. 24 DE FEBRERO DE 1948.
+El Congreso del Estado deberá de expedir las Leyes reglamentarias necesarias para cumplir con lo ordenado en las mismas reformas.
 
 ###### Artículo 1o.
 
@@ -2909,7 +2935,81 @@ Se derogan todas las Leyes y disposiciones que estén en contradicción con las 
 
 ###### Artículo 2o.
 
-El Congreso del Estado deberá de expedir las Leyes reglamentarias necesarias para cumplir con lo ordenado en las mismas reformas.
+Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE SEPTIEMBRE DE 1975.
+
+Unico.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE JUNIO DE 1976.
+
+Este Decreto entrará en vigor el día 3 de junio (sic) próximo.
+
+P.O. 24 DE ABRIL DE 1978.
+
+UNICO.- Este Decreto surtirá sus efectos a partir del 15 de marzo próximo del año en curso.
+
+P.O. 1 DE JULIO DE 1978.
+
+Unico.- Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 1 DE NOVIEMBRE DE 1979.
+
+1o.- En tanto se promulga la Ley Electoral del Estado, se faculta al H. Congreso para fijar el número de Regidores en cada Municipio, conforme a la cantidad de habitantes en cada uno de ellos.
+
+2o.- Estas reformas y adiciones serán protestadas con toda solemnidad en el Estado, quedando derogadas las disposiciones que se les opongan.
+
+3o.- En tanto se expidan las leyes orgánicas relativas, continuarán en observancia las vigentes, así como los Decretos y Reglamentos que no se opongan a la presente Constitución ni la General de la República.
+
+4o.- Estas reformas y adiciones constitucionales entrarán en vigor quince días después de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE MARZO DE 1981.
+
+Artículo Único.- Este Decreto surtirá sus efectos legales a partir del día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 1 DE JUNIO DE 1981.
+
+UNICO.- Este Decreto empezará a surtir sus efectos legales a partir del día siguiente de su publicación en el periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 1981.
+
+UNICO.- Estas reformas entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE MARZO DE 1982.
+
+UNICO: El presente decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 16 DE MAYO DE 1982.
+
+UNICO.- Estas reformas entraran en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, una vez cumplidos los requisitos establecidos por los Artículos 51 y párrafo segundo del 158 de la propia Constitución Política del Estado.
+
+P.O. 31 DE DICIEMBRE DE 1982.
+
+UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el "Periódico Oficial" del Gobierno del Estado de Hidalgo, y cumplido el requisito establecido en el párrafo segundo del Artículo 158 de la propia Constitución Política del Estado.
+
+P.O. 16 DE AGOSTO DE 1983.
+
+UNICO.- Estas modificaciones entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, una vez cumplidos los requisitos establecidos por los Artículos 51 y párrafo segundo del Artículo 158 de la propia Constitución Política del Estado.
+
+P.O. 8 DE JUNIO DE 1984.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Hidalgo.
+
+P.O. 16 DE JULIO DE 1986.
+
+UNICO. El presente Decreto entará (sic) en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 16 DE ENERO DE 1987.
+
+UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE SEPTIEMBRE DE 1987.
+
+PRIMERO.- El presente Decreto de reformas entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los Magistrados del Tribunal Superior de Justicia que se encuentren en funciones al entrar en vigor el presente Decreto, serán inamovibles y sólo podrán ser privados de sus puestos en los casos que señalan la Constitución Política del Estado y la Ley de Responsabilidades de los Servidores Públicos del Estado.
+
+P.O. 1 DE OCTUBRE DE 1987.
 
 ###### Artículo 3o.
 
@@ -3414,3 +3514,19 @@ TERCERO.- En lo que refiere a las reformas en materia indígena, el Congreso del
 CUARTO.- En lo que refiere a las reformas en materia indígena, el Tribunal Superior de Justicia y la Procuraduría General de Justicia, deberán implementar las acciones necesarias, tenientes (sic) a dar cumplimiento a lo establecido en esta reforma en un plazo de hasta 180 días hábiles.
 
 QUINTO.- En lo que refiere a las reformas en materia indígena, el Titular del Poder Ejecutivo, dispondrá que lo establecido en el presente Decreto, se traduzca a las lenguas de los pueblos y comunidades indígenas del Estado.
+
+P.O. 10 DE SEPTIEMBRE DE 2012.
+
+DECRETO No. 284, POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 38 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+Artículo Segundo.- Por única vez y a efecto de que la Sexagésima Primera Legislatura del Congreso del Estado, cuente con dos periodos de Sesiones Ordinarias durante el último año de su ejercicio, en el año 2013, el primer período iniciará el día 1 de febrero y terminará a más tardar el 30 de abril; y el segundo, iniciará el 1 de junio y terminará a más tardar el 31 de agosto.
+
+P.O. 10 DE SEPTIEMBRE DE 2012.
+
+DECRETO No. 285 POR EL QUE SE REFORMAN EL ARTÍCULO 2, LA DENOMINACIÓN DEL TÍTULO SEGUNDO, DE LOS DERECHOS HUMANOS Y SUS GARANTÍAS, EL ARTÍCULO 4, EL PRIMER PÁRRAFO DEL ARTÍCULO 5, EL PRIMER PÁRRAFO DEL ARTÍCULO 8 BIS, EL PÁRRAFO SÉPTIMO DEL ARTÍCULO 9, EL ARTÍCULO 9 BIS, LA FRACCIÓN I DEL ARTÍCULO 12, LA FRACCIÓN IV DEL ARTÍCULO 59, LA FRACCIÓN IX DEL ARTÍCULO 71, EL PRIMER PÁRRAFO DEL ARTÍCULO 82, LA FRACCIÓN SEGUNDA DEL ARTÍCULO 141 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 150, SE ADICIONA LA FRACCIÓN XX BIS AL ARTÍCULO 56.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- El Presidente y los actuales Consejeros del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Hidalgo, continuarán en su encargo hasta concluir el periodo para el cual fueron designados.
