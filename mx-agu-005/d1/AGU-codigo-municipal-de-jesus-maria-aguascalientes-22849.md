@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-jesus-maria-aguascalientes-22849"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-24"
-last_updated: "2012-06-25"
+last_updated: "2012-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22849&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE JESÚS MARÍA, AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2012.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de diciembre de 2001.
 
@@ -1926,63 +1926,85 @@ En el caso de que desaparezca la necesidad de coordinación o colaboración para
 
 ### CAPITULO PRIMERO. De las Bebidas Alcohólicas
 
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTICULO 153.
 
-Para efectos de este ordenamiento, se consideran como bebidas alcohólicas, los líquidos potables que a la temperatura de 15ºc tengan una graduación alcohólica mayor de 2º g.l.
+Para efectos de este capítulo, se consideran como bebidas alcohólicas, los líquidos potables que a la temperatura de 15°c tengan una graduación alcohólica mayor de 2° g.l.
 
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTICULO 154.
 
-Sólo podrán venderse al público bebidas alcohólicas en los establecimientos y locales que el Ayuntamiento autorice, previa licencia de venta expedida y de funcionamiento del establecimiento o local emitida por la Presidencia Municipal, así como la correspondiente licencia sanitaria expedida por la Dirección de Salud, además de la licencia de uso de suelo.
+Los establecimientos en los cuales se desarrolle la venta de los productos señalados en el presente capítulo, deberán contar con licencia previa, expedida por la Presidencia Municipal y cumplir con los requisitos de higiene, salubridad, seguridad y protección a la moral pública, mientras se encuentra operando; y demás requisitos que establezca el presente Código y las demás leyes que competan.
 
-(REPUBLICADO, P.O. 14 DE FEBRERO DE 2011)
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTICULO 155.
 
-Para el otorgamiento de las licencias a que se refiere este ordenamiento, los interesados deberán presentar solicitud por escrito, dirigida al Secretario del Ayuntamiento y Director de Gobernación, con los anexos correspondientes, y en la que se refiera lo siguiente:
+Cualquier interesado en obtener una licencia para un establecimiento, que se dedique a la venta y/o consumo de bebidas alcohólicas, se presentará ante la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, presentando la solicitud-formato previamente preestablecida por dicha secretaría, la que deberá contener al menos lo siguiente:
 
-I.- Nombre, nacionalidad, domicilio y registro federal de contribuyentes del solicitante. Si se trata de no nacional, este deberá comprobar su legal residencia en el país, y que además está autorizado, por la autoridad federal competente, para dedicarse a la actividad que propone. Si se trata de persona moral, su representante legal acompañara copia del testimonio notarial, debidamente certificada, para el efecto de acreditar debidamente su personalidad;
+I. Nombre y fotografía reciente del solicitante, y domicilio para oír y recibir notificaciones.
 
-II.- Domicilio que se propone para la ubicación del giro correspondiente a desarrollar;
+II. Tratándose de personas morales, el documento notarial que acredite su existencia y la representación legal del solicitante.
 
-III.- Clase de giro, nombre o denominación del mismo;
+III. Constancia o comprobante reciente de domicilio del solicitante.
 
-IV.- Autorización sanitaria y autorización de uso de suelo, a nombre del solicitante, expedidas por las autoridades competentes; y
+IV. Ubicación exacta del lugar en donde pretende establecer el negocio de que se trate, acompañando la escritura que lo acredite como propietario, o el documento que le otorgue la posesión derivada sobre dicho inmueble.
 
-V.- El título de propiedad del inmueble donde pretende ubicarse el giro, o copia del contrato que corresponda, con el que se acredite el derecho de uso y goce de aquel, por el solicitante.
+V. Mencionar el giro específico, respecto del cual solicita la licencia.
 
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+VI. Acompañar informe de compatibilidad de uso del suelo, en sentido positivo, expedido por la Secretaría de Planeación y Desarrollo Urbano.
+
+La carencia de cualquiera de los requisitos que señala el presente artículo, dará lugar a que no se de trámite y se rechace la solicitud de que se trate.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTICULO 156.
 
-Recibida la solicitud de licencia, con los anexos necesarios y cumpliendo con la totalidad de los requisitos a que se refiere el Artículo anterior, la autoridad municipal ordenará, que en un plazo no mayor de cinco días hábiles, se realicen visitas por el personal autorizado de las áreas de seguridad y protección civil, para verificar que efectivamente el establecimiento o local propuestos, reúne las condiciones físicas manifestadas en la solicitud respectiva. Realizado lo anterior y sin que exista impedimento alguno para su funcionamiento, se canalizará la solicitud al Cabildo del Ayuntamiento, en un plazo no mayor de 10 días hábiles, para que se decida sobre su autorización final. Aprobada que sea, se expedirá la licencia, previo el pago de los derechos correspondientes, a nombre del solicitante, la cual tendrá una vigencia por el año fiscal que corresponde, haciendo los ajustes de cobro necesarios, en relación con la fecha de expedición.
+Recibida la solicitud de licencia, con los anexos necesarios y cumpliendo con la totalidad de los requisitos a que se refiere el Artículo anterior, la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, ordenará, que en un plazo no mayor de diez días hábiles, se rindan dictámenes técnicos por parte de las dependencias de protección civil y reglamentos, para verificar y constatar que efectivamente el establecimiento o local propuestos, reúne las condiciones físicas manifestadas en la solicitud respectiva.
 
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+Las dependencias a quienes se solicite los dictámenes deberán rendirlo dentro del término de diez días hábiles contados a partir de la fecha en que reciban la solicitud.
+
+Si de los dictámenes técnicos se desprende que no se cubre alguno de los requisitos señalados en el artículo anterior, la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, negará la licencia y lo hará saber al solicitante en el domicilio señalado en su solicitud.
+
+Si los dictámenes técnicos determinan que se cubren la totalidad de los requisitos señalados para el otorgamiento de la licencia, podrá aprobarse la misma por la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, a través del acuerdo correspondiente.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTICULO 157.
 
-En el caso de que la solicitud no se acompañe con todos los documentos descritos, ni se satisfagan los requisitos a que se refiere el artículo 155 de este ordenamiento; o que de la visita a que se refiere el Artículo anterior, resulte que no se cumplieron las condiciones manifestadas en la solicitud, la autoridad municipal concederá un plazo de cinco días naturales para que los interesados subsanen tales omisiones. En caso de no hacerlo, se tendrá como no presentada la solicitud, lo que no impide su posterior trámite.
+Aprobada la licencia reglamentada en los términos del artículo anterior, la parte interesada deberá cumplir dentro del término de un mes contado a partir de la fecha de dicha aprobación con lo siguiente:
 
-(REPUBLICADO, P.O. 14 DE FEBRERO DE 2011)
+a).- exhibir la constancia de alineamiento y compatibilidad de uso del suelo expedida por la Secretaría de Planeación y Desarrollo Urbano para justificar el uso de suelo a operar; y
+
+b).- pagar ante la Secretaria de Finanzas las contribuciones municipales correspondientes al ejercicio fiscal.
+
+Una vez lo anterior se expedirá el cartoncillo correspondiente por la Secretaría del H. Ayuntamiento y Dirección General de Gobierno.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTICULO 158.
 
-Las licencias deberán revalidarse dentro de los primeros sesenta días naturales del año que corresponda por el titular de la misma, mediante solicitud que por escrito formule a la Oficina encargada del Control de Licencias. Una vez analizada tal petición, se ordenará su revalidación, si no existen violaciones graves al ordenamiento municipal de parte del interesado, debidamente documentadas por la autoridad reglamentaria correspondiente, y que hayan ocurrido durante el año anterior de vigencia. En caso de autorización de revalidación, se ordenará se haga el pago de los derechos correspondientes por el interesado, para que continué en vigencia tal licencia por el término del año fiscal.
+Las licencias deberán revalidarse dentro de los primeros tres meses del año que corresponda por el titular de la misma, mediante solicitud que por escrito formule al Departamento de Reglamentos. Una vez analizada tal petición, se ordenará su revalidación, si no existen violaciones graves al ordenamiento municipal de parte del interesado, debidamente documentadas por dicho departamento, y que hayan ocurrido durante el año anterior de vigencia. En caso de autorización de revalidación, se ordenará se haga el pago de los derechos correspondientes por el interesado ante la Secretaria de Finanzas.
 
-(REPUBLICADO, P.O. 14 DE FEBRERO DE 2011)
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTICULO 159.
 
-Si concluida la vigencia de la licencia o de su revalidación, el interesado no formula petición de revalidación dentro del término señalado, concluido éste, la autoridad municipal requerirá por escrito al titular de la licencia, para que manifieste si es su deseo o no, que siga surtiendo sus efectos o los de su revalidación. En caso afirmativo, se estará a lo ordenado en el artículo anterior. Si no hay respuesta en el término que se le fije para el efecto, o ésta es en el sentido de no querer seguir operando la licencia, se procederá a su cancelación definitiva y se ordenará la clausura del local, o de la actividad no renovada.
+Si el interesado no formula petición de revalidación dentro del término legal, concluido éste, la autoridad municipal tendrá a dicho interesado por repudiando el derecho que venia ejerciendo o ejercitando con anterioridad, notificándosele la cancelación de su licencia reglamentada.
 
-(REPUBLICADO, P.O. 14 DE FEBRERO DE 2011)
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTICULO 160.
 
-Toda licencia que se expida, será de carácter estrictamente personal, intransferible, inalienable e inembargable, por lo que en consecuencia, se encuentra prohibido su traspaso o cesión a terceras personas. Si el titular de la licencia, decide no obstante cederla o traspasarla a terceras personas, tal acto no obliga a la autoridad municipal para tener como titular de aquella al adquirente de tal licencia.
+Por cuanto a los permisos y licencias que se otorguen al amparo de este capítulo, queda (sic) prohibidos los cambios de giro; se extinguirán o cancelarán tratándose de disolución de personas morales.
+
+En los casos de muerte del titular, se podrán transmitir los derechos vía sucesión legítima o testamentaria.
+
+Con la finalidad de dar certeza jurídica a los tenedores de licencias a que se refiere en (sic) presente capítulo, así como mantener actualizado el padrón correspondiente, el Municipio a través de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno podrá implementar un programa temporal de regularización de licencias reglamentadas.
+
+El costo de los derechos por .concepto de regularización corresponderá al 75% del costo por expedición de la licencia según el giro que corresponda conforme a la Ley de Ingresos del Municipio, con excepción del presente ejercicio fiscal el cual corresponderá al 20%. En caso de existir algún otro ordenamiento de aplicación municipal que mejore sustancialmente dicho porcentaje en mejoría para el Municipio se aplicará en primer grado.
 
 APARTADO PRIMERO
 
@@ -2078,15 +2100,17 @@ Queda a su vez prohibida, la existencia en los establecimientos, de botellas cuy
 
 Queda prohibida también la venta y consumo de bebidas alcohólicas, en planteles o instituciones educativas, templos, cementerios, circos y centros de trabajo.
 
-(REPUBLICADO, P.O. 14 DE FEBRERO DE 2011)
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTICULO 169.
 
-Todos los establecimientos autorizados para la venta y consumo de bebidas alcohólicas, deberán operar en una distancia que sea mayor a los 150 metros, de donde se encuentra ubicada una escuela, templo, centro deportivo, centro de trabajo o farmacia; así como lugares de reunión para niños y jóvenes.
+Todos los establecimientos autorizados para la venta y consumo de bebidas alcohólicas, deberán operar en una distancia que sea mayor a los 100 metros dentro de un recorrido por vías de comunicación previamente autorizadas, de donde se encuentra ubicada una escuela, templo o centro de trabajo.
 
-> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2012)</small>
+La distancia referida se establecerá tomando en cuenta el acceso principal de los lugares en cuestión.
 
-La distancia referida debe tomarse como referencia a partir del acceso principal de los lugares en cuestión.
+En las Comunidades rurales la distancia requerida se reducirá solamente a 25 metros.
+
+El Ayuntamiento a través de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno podrá decretar el establecimiento de zonas comerciales, las cuales consistirán en lugares determinados en los cuales se fomente el turismo y la actividad comercial, en periodos no mayor a 30 días.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE MARZO DE 2009)</small>
 
@@ -14721,3 +14745,9 @@ P.O. 25 DE JUNIO DE 2012.
 Primero.- La presente Reforma, entrará en vigor al día siguiente su publicación en el Periódico Oficial del Estado de Aguascalientes, gozando de efectos retroactivos a partir del mes de abril del año en curso.
 
 Segundo.- En lo no previsto por la presente reforma, a manera complementaria, en el presente ejercicio fiscal, el COMITÉ aplicará en lo conducente, lo que en materia de funciones y/o atribuciones correspondan al Patronato de la Feria de la Cabecera Municipal de Jesús Maria, denominada "De los Chicahuales", con base al Reglamento de los Patronatos de las Ferias del Municipio de Jesús Maria, así como al Reglamento Interior del Patronato de la Feria de la Cabecera Municipal de Jesús María, denominada "De Los Chicahuales", ordenamientos éstos en vigor, siempre y cuando no se contraponga disposición alguna.
+
+P.O. 10 DE SEPTIEMBRE DE 2012.
+
+Primero.- La presente reforma, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+Segundo.- Por parte de la Presidencia se girará oficio a la Secretaria de Finanzas para efecto de que a la brevedad posible realice la entrega de los archivos relacionados con licencias reglamentadas a la Secretaria del Honorable Ayuntamiento y Dirección General de Gobierno por relacionarse con la presente reforma.
