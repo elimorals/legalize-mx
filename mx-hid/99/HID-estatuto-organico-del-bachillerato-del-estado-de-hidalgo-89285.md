@@ -4,7 +4,7 @@ identifier: "HID-estatuto-organico-del-bachillerato-del-estado-de-hidalgo-89285"
 country: "mx"
 rank: "estatuto"
 publication_date: "2012-08-27"
-last_updated: "2012-08-27"
+last_updated: "2012-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89285&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "HID"
 ---
 # ESTATUTO ORGANICO DEL BACHILLERATO DEL ESTADO DE HIDALGO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE SEPTIEMBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ESTATUTO ORGÁNICO DEL BACHILLERATO DEL ESTADO DE HIDALGO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 10 DE SEPTIEMBRE DE 2012.</small>
 
 Estatuto publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 27 de agosto de 2012.
 
@@ -475,11 +475,11 @@ XXII.- Elaborar el cuadro de necesidades de materiales, equipo y recursos para l
 
 La Dirección de Participación Social tiene por objeto establecer las políticas, programas y lineamientos orientados a fortalecer la participación social e impulsar el desarrollo del proyecto escolar en cada uno de los planteles del Bachillerato.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE SEPTIEMBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 10 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 32.
 
-Las funciones específicas de la Dirección de Planeación Educativa, son:
+Las funciones específicas de la Dirección de Participación Social, son:
 
 I.- Instalar y evaluar los Comités de Participación Social;
 
