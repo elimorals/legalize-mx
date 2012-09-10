@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-archivo-general-del-municipio-de-2604"
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-09-15"
-last_updated: "1991-09-15"
+last_updated: "2012-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2604&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "AGU"
 
 REGLAMENTO DEL ARCHIVO GENERAL DEL MUNICIPIO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DEL ARCHIVO GENERAL MUNICIPAL DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 10 DE SEPTIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el domingo 15 de septiembre de 1991.
 
@@ -180,3 +182,11 @@ EL PRESIDENTE MUNICIPAL,
 EL SRIO. DEL AYUNTAMIENTO,
 
 (Rúbrica).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE SEPTIEMBRE DE 2012.
+
+PRIMERO.- El presente Reglamento entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento del Archivo General del Municipio de Aguascalientes publicado en el Periódico Oficial del Estado de Aguascalientes el 15 de septiembre de 1991.
