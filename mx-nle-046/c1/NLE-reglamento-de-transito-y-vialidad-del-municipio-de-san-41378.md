@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-del-municipio-de-san-41378"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-01"
-last_updated: "2011-08-12"
+last_updated: "2012-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41378&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE SAN NICOLÁS DE LOS GARZA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 1 de octubre de 2004.
 
@@ -69,23 +69,37 @@ Las disposiciones de este Reglamento tendrán aplicación en todas las vías pú
 
 ARTÍCULO. 4.- El Presidente Municipal es la Autoridad con atribuciones para ordenar la aplicación de las medidas necesarias para el debido cumplimiento del presente Reglamento, delegando tales atribuciones en persona determinada o Dependencia Municipal que designe.
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 5.
 
 Para los efectos de este reglamento se entenderá por:
 
 Automóvil.- Se dice principalmente de los vehículos que pueden ser guiados para marchar por una vía ordinaria y llevan un motor, generalmente de explosión, que los pone en movimiento.
 
-Automovilista.- Toda persona que conduce, maneja o tiene control físico de un vehículo en la vía pública; que controla o maneja un vehículo.
+Automovilista.- Toda persona que conduce, maneja o tiene control físico de un vehículo automotor en la vía pública; que controla o maneja un vehículo automotor.
 
-Autotransportista.- Persona física o moral debidamente autorizada por la Autoridad Municipal, para prestar servicio público o privado de auto transporte de carga.
+Autotransportista.- Persona física o moral debidamente autorizada por la Autoridad Municipal, para prestar Servicio Público o privado de auto transporte de carga.
+
+Carril Compartido Ciclista.- Es aquel que da preferencia para las bicicletas y en el que se comparte el espacio con el tránsito automotor.
+
+Ciclovía.- Es una vía o sección de una vía exclusiva para la circulación ciclista físicamente separada del tránsito automotor, pero dentro del arroyo vehicular. El cuál es un carril de obligación para los conductores de ciclos de circular por la vía a cuya entrada esté situada y prohibición a los demás usuarios de la vía de utilizarla.
+
+Ciclocarril.- Un ciclocarril es una franja dentro del arroyo vehicular destinada exclusivamente para la circulación ciclista; se delimita a través del señalamiento de un carril en el costado derecho de la vía. Indica que el carril sobre el que está situada la señal de vía ciclista sólo puede ser utilizado por ciclos.
 
 Chasis.- Armazón del vehículo, que comprende el bastidor, ruedas, transmisión con o sin motor, excluida la carrocería y todos los accesorios necesarios para acomodar al conductor, pasajeros o carga.
 
-Chofer.- Conductor de toda clase de vehículos automotores de cuatro a seis ruedas, de servicio público de carga o que preste cualquier otro servicio y reciba un salario aun cuando se dé servicio particular.
+Chofer.- Conductor de toda clase de vehículos automotores de cuatro a seis ruedas, de servicio público de carga o que preste cualquier otro servicio y reciba un salario aun cuando se dé Servicio Particular.
 
-Estado de Ebriedad.- La condición física y mental ocasionada por la ingesta de alcohol etílico que se presenta en una persona cuando su organismo contiene 1.5 o más gramos de alcohol por litro de sangre o su equivalente en algún otro sistema de medición.
+Estado de Ebriedad.- Condición física y mental ocasionada por la ingesta de alcohol etílico que se presenta en una persona cuando su organismo contiene 1.5 o más gramos de alcohol por litro de sangre o su equivalente en algún otro sistema de medición.
 
-Estado de Ineptitud para Conducir.- La condición física y mental ocasionada por la ingesta de alcohol etílico que se presenta en una persona cuando su organismo contiene 0.8 o más gramos de alcohol por litro de sangre y de más de 0.0 gramos de alcohol por litro de sangre tratándose de conductores de servicio público de transporte o en ambos casos, su equivalente en algún otro sistema de medición.
+Estado de Ineptitud para Conducir.- Condición física y mental ocasionada por la ingesta de alcohol etílico que se presenta en una persona cuando su organismo contiene 0.8 o más gramos de alcohol por litro de sangre y de más de 0.0 gramos de alcohol por litro de sangre tratándose de conductores de servicio público de transporte; o en ambos casos, su equivalente en algún otro sistema de medición.
+
+Estado de Ebriedad incompleto.- Condición física y metal (sic) ocasionada por la ingesta de alcohol etílico, que presenta una persona cuando su organismo contiene entre 0.80 gramos y menos de 1.50 gramos de alcohol por litro de sangre o su equivalente en algún otro sistema de medición.
+
+Se aplicará lo dispuesto en esta Ley en relación con el estado de ebriedad incompleto, cuando se trate de conductores de servicio público de transporte, y la persona contenga en su organismo más de 0.0 y menos de 1.5 gramos de alcohol por litro de sangre;
+
+Estado de ebriedad completo.- Condición física y mental ocasionada por la ingesta de alcohol etílico que se presenta en una persona cuando su organismo contiene 1.5 o más gramos de alcohol por litro de sangre o su equivalente en algún otro sistema de medición;
 
 Evidente Estado de Ebriedad.- Cuando a través de los sentidos por las manifestaciones externas aparentes, razonablemente se puede apreciar que la conducta o la condición física de una persona presenta alteraciones en la coordinación, en la respuesta de reflejos, en el equilibrio o en el lenguaje, con motivo del consumo de alcohol etílico.
 
@@ -103,6 +117,8 @@ Licencia de Conducir.- Documento que la autoridad competente otorga a una person
 
 Luz Estroboscópica.- Luces con movimiento periódico rápido, gracias a unos destellos regulares cuya frecuencia es próxima a la del movimiento.
 
+Movilidad.- Acción o efecto de trasladarse por la vía pública.
+
 Normas.- Normas oficiales mexicanas que expiden las dependencias competentes, sujetándose a lo dispuesto en la Ley Federal sobre Metrología y Normalización.
 
 Ocupante de vehículo.- La persona que ocupa un lugar destinado para el transporte de personas en un vehículo de servicio particular y no es el conductor.
@@ -115,9 +131,9 @@ Pasajero.- La persona que se encuentra a bordo de un vehículo, y no tiene cará
 
 Placa.- Plancha de metal en que figura el número de matrícula que permite individualizar un vehículo.
 
-Peatón.- Persona que transita a pie por la vía pública o zonas privadas con acceso al público o camina asistiéndose de aparatos o de vehículos no regulados por este reglamento, ésto en el caso de las personas con capacidades diferenciadas.
+Peatón.- Persona que transita a pie por la vía pública o zonas privadas con acceso al público o camina asistiéndose de aparatos o de vehículos no regulados por este reglamento, esto en el caso de las personas con discapacidad.
 
-DEROGADO VIGÉSIMO CUARTO PÁRRAFO, P.O. 4 DE JULIO DE 2011)
+Permiso de Circulación.- Documento otorgado por la autoridad, destinado a individualizar al vehículo y a su dueño con el objeto de que pueda circular por las vías públicas.
 
 Purgar.- Acción de evacuar o eliminar un fluido de cualquier depósito utilizado para el transporte de materiales y residuos peligrosos.
 
@@ -143,6 +159,8 @@ Sustancia Peligrosa.- Todo aquel elemento, compuesto, material o mezcla de ellos
 
 Taxi.- Automóvil destinado públicamente al transporte de personas.
 
+Taxi Seguro.- Taxi destinado al programa municipal denominado “TAXI SEGURO”, de conformidad con los convenios suscritos al efecto por el Municipio con concesionarios.
+
 Torreta.- Faros de luz distintivo de las unidades de emergencia los cuales pueden ser de color azul, blanco, y ámbar.
 
 Vehículo.- Medio con el cual, sobre el cual o por el cual toda persona u objeto puede ser transportado por una vía.
@@ -155,13 +173,15 @@ Vehículos Especiales.- Grúas, vehículos de apoyo, de auxilio, y cualquier otr
 
 Vehículos Militares.- Los utilizados por la Secretaría de la Defensa Nacional, y en su caso, los de la Secretaría de Marina, para efectos de dar cumplimiento a sus atribuciones.
 
-Vehículos para Personas con Capacidades Diferenciadas.- Los conducidos por personas con capacidades diferenciadas, deberán contar con los dispositivos especiales de acuerdo a sus limitantes así como contar con calcomanía o placa expedidas por al (sic) Autoridad Competente.
+Vehículos para Personas con Discapacidad.- Los conducidos por personas con personas con discapacidad (la que padece temporal o permanentemente una disminución de sus facultades físicas, mentales o sensoriales), deberán contar con los dispositivos especiales de acuerdo a sus limitantes así como contar con calcomanía o placa expedidas por la Autoridad Competente.
 
 Vehículo para el Transporte Escolar.- Vehículo construido para transportar más de siete pasajeros sentados y destinado al transporte de escolares desde o hacia el colegio o relacionado con cualquiera otra actividad.
 
 Ventear.- Acción de liberar los gases y vapores acumulados en un recipiente, tanque o contenedor cerrado.
 
-Vía Pública.- Las avenidas, calles, plazas, banquetas, rotondas, camellones, isletas, y cualquier otro espacio destinado al libre tránsito de peatones, personas con capacidades diferenciadas, semovientes, y vehículos.
+Vialidad.- Sistema de vías públicas utilizadas para el tránsito en el territorio del Municipio.
+
+Vía Pública.- Las avenidas, calles, plazas, banquetas, rotondas, camellones, isletas, y cualquier otro espacio destinado al libre tránsito de peatones, personas con discapacidad, semovientes, y vehículos.
 
 Zona Escolar.- Zona de la vía situada frente a un establecimiento de enseñanza y que se extiende a los lados de los lugares de acceso al establecimiento.
 
@@ -1927,13 +1947,25 @@ Los Oficiales de Tránsito deberán tomar las medidas necesarias a fin de evitar
 
 Los vehículos destinados al servicio público de transporte, además de los casos a que se refiere el artículo anterior, serán impedidos de circular y remitidos al lote autorizado por las siguientes causas:
 
-I. No contar con la autorización para prestar servicio público de pasajeros o carga;
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
 
-II. Prestar el servicio público de transporte de pasajeros o de carga sin portar en lugar visible el comprobante de la revista respectiva;
+a) No contar con la autorización para prestar servicio público de pasajeros o carga;
 
-III. Prestar servicios públicos de transporte de pasajeros con itinerario fijo fuera de la ruta autorizada o por hacer base o parada en lugar no autorizado previamente; y
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
 
-IV. Por falta de taxímetro, no usarlo, o traerlo en mal estado.
+b) Prestar el servicio público de transporte de pasajeros o de carga sin portar en lugar visible el comprobante de la revista respectiva;
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
+
+c) Prestar servicios públicos de transporte de pasajeros con itinerario fijo fuera de la ruta autorizada o por hacer base o parada en lugar no autorizado previamente;
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
+
+d) Por falta de taxímetro, no usarlo, o traerlo en mal estado; y
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
+
+e) Exclusivamente en Taxis Seguros, por no contar o no funcionar adecuadamente los equipos de radiofrecuencia, el botón de pánico, el sistema de posicionamiento global GPS comunicado con la Secretaría de Seguridad Municipal o cualquier otro equipamiento acordado para estas unidades en los convenios respectivos celebrados al efecto entre la Administración Pública del Municipio y los concesionarios.
 
 ###### ARTÍCULO 134.
 
@@ -1941,11 +1973,11 @@ En los casos de retiro de vehículos de la circulación o de la vía pública, p
 
 ### CAPÍTULO VIGÉSIMO PRIMERO. DE LAS SANCIONES
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 135.
 
-El propietario del vehículo será responsable de las infracciones que se cometan en la conducción del mismo, excepto en caso de robo reportado ante las autoridades competentes, siempre y cuando este reporte haya sido con anticipación a las infracciones cometidas.
-
-El conductor será solidariamente responsable, junto con el propietario del vehículo de las infracciones que cometa en la conducción del mismo.
+Sin perjuicio de la responsabilidad que corresponda al conductor por las infracciones que cometa en la conducción de un vehículo, el propietario o poseedor será responsable solidario de las infracciones que se cometan en la conducción del mismo; excepto en caso de robo denunciado ante las autoridades competentes, siempre y cuando esta denuncia haya sido con antelación a las infracciones cometidas.
 
 ###### ARTÍCULO 136.
 
@@ -2236,3 +2268,7 @@ P.O. 12 DE AGOSTO DE 2011.
 PRIMERO.- La Presente reforma entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- La aplicación de la presente reforma será retroactiva a partir del 01 de Enero del 2011, solamente en la cancelación de multas que señala el artículo 141 Bis, por ningún motivo habrá devolución de la cantidad de las multas ya pagadas.
+
+P.O. 10 DE SEPTIEMBRE DE 2012.
+
+PRIMERO.- Las reformas al presente Reglamento, entrarán en vigor el día de su publicación en el Periódico Oficial del Estado de Nuevo León.
