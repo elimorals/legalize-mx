@@ -4,7 +4,7 @@ identifier: "GUA-ley-sobre-el-uso-de-medios-electronicos-y-firma-electronica-401
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-09"
-last_updated: "2011-12-27"
+last_updated: "2012-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40170&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY SOBRE EL USO DE MEDIOS ELECTRÓNICOS Y FIRMA ELECTRÓNICA PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el día 9 de julio de 2004.
 
@@ -99,7 +99,13 @@ XIV.- Sistema de información: Todo sistema utilizado para generar, enviar, reci
 
 XV.- Titular: La persona en cuyo favor se expide un certificado de firma electrónica.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 4.
+
+Esta Ley se aplicará en los procedimientos seguidos en forma de juicio ante los tribunales u órganos jurisdiccionales que autoricen las leyes respectivas.
 
 En los actos, convenios, comunicaciones, procedimientos administrativos, trámites y la prestación de los servicios públicos que correspondan al Poder Ejecutivo, al Poder Legislativo, al Poder Judicial, a los Organismos Autónomos, a los Ayuntamientos y cualquier entidad o dependencia de la administración pública estatal o municipal, podrá emplearse la firma electrónica certificada contenida en un mensaje de datos, mediante el uso de medios electrónicos, bajo los principios de neutralidad tecnológica, equivalencia funcional, autenticidad, conservación, confidencialidad e integridad.
 
@@ -115,15 +121,13 @@ La confidencialidad es la característica que existe cuando la información perm
 
 Se considera que el contenido de un mensaje de datos es íntegro cuando ha permanecido completo e inalterado, con independencia de los cambios que hubiere podido sufrir el medio que lo contiene, como resultado del proceso de comunicación, archivo o presentación.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 5.
 
-Quedan exceptuados de la aplicación de esta Ley, los actos de autoridad para los cuales la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política para el Estado de Guanajuato y las leyes exijan o requieran la firma autógrafa por escrito y, cualquier otra formalidad que no sea susceptible de cumplirse por los medios señalados en el artículo anterior o requieran la concurrencia personal de los servidores públicos o los particulares.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO FRACCIÓN I DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
-
-Esta ley tampoco será aplicable en los procedimientos seguidos en forma de juicio ante Tribunales u órganos jurisdiccionales, que no integren el Poder Judicial.
+Quedan exceptuados de la aplicación de esta Ley, los actos de autoridad para los cuales la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política para el Estado de Guanajuato y las leyes exijan o requieran la firma autógrafo por escrito y, cualquier otra formalidad que no seo susceptible de cumplirse por los medios señalados en el artículo anterior o requieran la concurrencia personal de los servidores públicos o los particulares.
 
 ###### Artículo 6.
 
@@ -476,3 +480,9 @@ Artículo Cuarto. Los juicios de divorcio por mutuo consentimiento; guarda y cus
 Artículo Quinto. Las reformas y adiciones sobre los juicios orales sólo serán aplicables a los nuevos procedimientos que se inicien a partir de su entrada en vigor.
 
 Artículo Sexto. Los centros de convivencia a que se refiere la Sección Segunda del Capítulo VII del Título Primero del Libro Sexto del presente Código, estarán en funcionamiento a la entrada en vigor las presentes reformas y adiciones, conforme a su disponibilidad presupuestaria.
+
+P.O. 11 DE SEPTIEMBRE DE 2012.
+
+Artículo Primero. El presente Decreto entrará en vigor el uno de enero del año dos mil trece, previa su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Tribunal de lo Contencioso Administrativo preverá en su anteproyecto de presupuesto para el ejercicio 2013, la partida para la implementación tecnológica a efecto de operar las notificaciones por correo electrónico.
