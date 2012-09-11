@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-responsabilidades-administrativas-de-los-servidores-4483
 country: "mx"
 rank: "ley"
 publication_date: "2005-05-10"
-last_updated: "2010-09-03"
+last_updated: "2012-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PUBLICOS DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PUBLICOS DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
+LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2012.
 
 Ley Publicada en el Periódico Oficial del Estado de Guanajuato, el martes 10 de mayo de 2005.
 
@@ -35,17 +35,27 @@ DECRETO NÚMERO 179.
 
 LA QUINCUAGÉSIMA NOVENA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, DECRETA:
 
-LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES
-
-PÚBLICOS DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
+LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
 ## TÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público y tiene por objeto reglamentar las disposiciones contenidas en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política para el Estado de Guanajuato, en materia de responsabilidades administrativas de los servidores públicos del Estado y sus Municipios.
+La presente ley es de orden público y tiene por objeto reglamentar las disposiciones contenidas en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política para el Estado de Guanajuato, en materia de:
+
+I.- Los sujetos de responsabilidad administrativa en el servicio público;
+
+II.- Las obligaciones en el servicio público;
+
+III.- Las responsabilidades y sanciones administrativas en el servicio público;
+
+IV.- Las autoridades competentes y los procedimientos para aplicar dichas sanciones, así como las disposiciones para proteger a denunciantes y personas que aporten información relacionada con el posible incumplimiento de las obligaciones de los servidores públicos, y
+
+V.- La declaración de situación patrimonial.
 
 ###### Artículo 2.
 
@@ -89,9 +99,11 @@ El Poder Legislativo del Estado es competente para instaurar y sustanciar, en re
 
 Tratándose de los servidores públicos del Poder Judicial, se estará a lo previsto por la Ley Orgánica del Poder Judicial del Estado de Guanajuato.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 7.
 
-Los Organismos Autónomos, por conducto de sus órganos de control internos, instaurarán y sustanciarán el procedimiento de responsabilidad administrativa respectivo y aplicarán las sanciones a que se refiere esta Ley, a los servidores públicos adscritos a los mismos.
+Los. Organismos Autónomos, por conducto de sus órganos de control, instaurarán y sustanciarán el procedimiento de responsabilidad administrativa respectivo y aplicarán las sanciones a que se refiere esta Ley, a los servidores públicos adscritos a los mismos.
 
 Tratándose de los titulares de dichos Organismos, sean unipersonales u órganos colegiados, corresponderá a sus órganos de gobierno, instaurar y sustanciar el procedimiento de responsabilidad administrativa y aplicar las sanciones que correspondan.
 
@@ -145,15 +157,25 @@ XI.- Guardar reserva de la información a que tenga acceso por su función, la q
 
 XII.- Realizar la entrega–recepción de los recursos, documentación, bienes y asuntos en trámite de la unidad administrativa a su cargo, de conformidad con las normas y disposiciones vigentes en la materia;
 
-XIII.- Dar seguimiento al cumplimiento de los trabajos externos realizados por terceros, cuando éstos sean contratados o convenidos con recursos públicos e informar su incumplimiento al órgano de control interno;
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+XIII.- Dar seguimiento al cumplimiento de los trabajos externos realizados por terceros, cuando éstos sean contratados o convenidos con recursos públicos e informar su incumplimiento al órgano de control;
 
 XIV.- Proporcionar en forma oportuna, la información y datos solicitados por las instituciones a las que legalmente les competa la vigilancia y defensa de los derechos humanos, a efecto de que éstas puedan cumplir con sus atribuciones;
 
 XV.- Cumplir y hacer cumplir, dentro de su competencia, las resoluciones que emitan las autoridades de la Federación, del Estado y de los municipios;
 
-XVI.- Facilitar y proporcionar oportunamente toda la información y documentación necesaria que los órganos de control interno requieran para el cumplimiento de sus atribuciones, en cualquier etapa del desarrollo de los procedimientos administrativos respectivos;
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
-XVII.- Cumplir con diligencia las observaciones, requerimientos y resoluciones que reciba de los órganos de control interno, conforme a la competencia de éstos, así como dar respuesta a las recomendaciones que se emitan;
+Esta obligación se entenderá para el servidor público directamente obligado y para el titular de la dependencia o superior jerárquico.
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+XVI.- Facilitar y proporcionar oportunamente toda la información y documentación necesaria que los órganos de control requieran para el cumplimiento de sus atribuciones, en cualquier etapa del desarrollo de los procedimientos administrativos respectivos;
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+XVII.- Cumplir con diligencia las observaciones, requerimientos y resoluciones que reciba de los órganos de control, conforme a la competencia de éstos, así como dar respuesta a las recomendaciones que se emitan;
 
 XVIII.- Presentar la declaración de situación patrimonial en los términos que señala esta Ley;
 
@@ -185,7 +207,9 @@ Cuando al asumir el servidor público el empleo, cargo o comisión públicos de 
 
 IV.- Intervenir por sí, por interpósita persona o por medio de empresas en las que participen su cónyuge, concubinario o concubina, o personas con quienes tenga parentesco consanguíneo en línea recta o por afinidad hasta el segundo grado y colateral hasta el cuarto grado, civil, o terceros con quienes tenga relación de carácter laboral o de negocios, en contrataciones de asesorías, estudios e investigaciones, obras públicas, concesiones de servicios e infraestructura pública, adquisiciones o arrendamientos de bienes muebles o inmuebles y servicios, independientemente del origen de los recursos presupuestales;
 
-V.- Utilizar cualquier medio que inhiba la formulación de quejas y denuncias, o realizar cualquier conducta ilegal u omitir una debida respecto de las quejas o denuncias presentadas, que lesione los intereses de quienes las formulen o presenten;
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+V.- Inhibir por sí o por interpósita persona, a los posibles quejosos o denunciantes, así como a cualquier persona que pudiere aportar información en los procedimientos establecidos en la presente Ley, con el fin de evitar la formulación o presentación de denuncias, o realizar, con motivo de ello, cualquier acto u omisión que redunde en perjuicio de los intereses de las personas antes mencionadas;
 
 VI.- Realizar por sí o inducir a otro servidor público para que anticipe, retrase u omita la realización de algún acto de su competencia, con objeto de que le reporte algún beneficio, provecho o ventaja para sí o para alguna de las personas a que se refiere la fracción III de este artículo; o bien, cuando con dichas conductas le ocasione daño o perjuicio a un tercero;
 
@@ -195,11 +219,15 @@ VIII.- Causar con su actuar daños a los particulares que se traduzcan en respon
 
 > <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
 
-IX.- Realizar cualquier conducta de coacción psicológica, física o verbal, que atente contra la integridad física o psicológica de una persona; y
+IX.- Realizar cualquier conducta de coacción psicológica, física o verbal, que atente contra la integridad física o psicológica de una persona; y (sic)
 
-> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
-X.- Las que se deriven de ésta y otras leyes, reglamentos y demás disposiciones normativas.
+X.- Causar, con sus acciones u omisiones, violación a los derechos de los trabajadores, y
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+XI.- Las demás que se deriven de estas y otras leyes, reglamentos y demás disposiciones normativas.
 
 ### CAPÍTULO II. DE LAS SANCIONES POR RESPONSABILIDADES ADMINISTRATIVAS
 
@@ -219,6 +247,10 @@ IV.- Destitución, y
 
 V.- Inhabilitación.
 
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+Las sanciones señaladas en las fracciones antes descritas, podrán ser impuestas conjuntamente o de manera independiente, según la naturaleza y gravedad de las conductas realizadas por los servidores públicos.
+
 ###### Artículo 14.
 
 La amonestación consiste en la constancia por escrito que se deja en el expediente del trabajador, sobre la llamada de atención o advertencia que se le formula para que no incurra en otra falta administrativa.
@@ -227,7 +259,9 @@ La amonestación consiste en la constancia por escrito que se deja en el expedie
 
 La multa consiste en el pago al Estado o al Municipio de una suma de dinero que se fije por días multa. El día multa equivale al salario mínimo general vigente en el Estado al momento de cometerse la falta.
 
-La multa podrá ser de uno a trescientos días y su monto se hará efectivo a través del procedimiento administrativo de ejecución previsto para los créditos fiscales.
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+La multa podrá ser de tres a seiscientos días y su monto se hará efectivo a través del procedimiento administrativo de ejecución previsto para los créditos fiscales.
 
 ###### Artículo 16.
 
@@ -239,9 +273,11 @@ La suspensión podrá ser de tres días a seis meses, sin derecho a percibir sal
 
 La destitución consiste en la separación definitiva del empleo, cargo o comisión que se esté ejerciendo, sin responsabilidad laboral para la entidad pública de que se trate.
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 18.
 
-La inhabilitación consiste en el impedimento absoluto para volver a ejercer un empleo, cargo o comisión públicos, durante la temporalidad que decrete la resolución del procedimiento de responsabilidad administrativa.
+La inhabilitación consiste en el impedimento absoluto para volver a ejercer un empleo, cargo o comisión en el servicio público, durante la temporalidad que decrete la resolución del procedimiento de responsabilidad administrativa.
 
 ###### Artículo 19.
 
@@ -261,9 +297,15 @@ II.- La jerarquía del servidor público y su antigüedad en el puesto, así com
 
 III.- La condición económica del servidor público;
 
-IV.- El monto del beneficio obtenido y el daño o perjuicio ocasionado con la falta, y
+IV.- El monto del beneficio obtenido y el daño o perjuicio ocasionado con la falta, y (sic)
 
-V.- Las circunstancias de ejecución de la falta.
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+V.- La afectación en la prestación al desarrollo del servicio público, y
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+VI.- Las circunstancias de ejecución de la falta.
 
 ###### Artículo 21.
 
@@ -275,27 +317,35 @@ Asimismo se considerará grave el incumplimiento a las obligaciones previstas en
 
 Las sanciones por el incumplimiento de obligaciones o por incurrir en conductas prohibidas, se impondrán atendiendo a lo siguiente:
 
-I. Amonestación en los casos de las fracciones I, IV, VII, IX, X, XII, XIV, XVI y XVIII del artículo 11 y en el primer supuesto de la fracción V del artículo 12 de esta Ley;
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+I. Amonestación en los casos de las fracciones I, IV, VII, IX, X, XII, XIV, XVI y XVIII del artículo 11 y en el primer supuesto de la fracción V y X del artículo 12 de esta Ley;
 
 II. Suspensión de tres días a seis meses en los casos de las fracciones II, III, V, VI, VIII, XI, XIII, XV, XVII, XIX y XX del artículo 11 y de las fracciones III, IV, el segundo supuesto de la fracción V, VII y VIII del artículo 12 de esta Ley, y
 
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
-III. Destitución e inhabilitación de tres días a seis meses, tratándose de la fracción XXI del artículo 11 y de las fracciones I, II, VI y IX del artículo 12 de esta Ley.
+III. Destitución e inhabilitación de seis meses a un año, tratándose de la fracción XXI del artículo 11 y de las fracciones I, II, VI y IX del artículo 12 de esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 23.
 
-La persona que hubiere dejado de pertenecer al servicio público podrá ser sujeta a procedimiento de responsabilidad administrativa, dentro de los dos años tratándose de las fracciones I y II de este artículo, y dentro de los tres años en los casos a que se refiere la fracción III del presente artículo, posteriores a su separación del cargo y le podrán ser aplicables las sanciones de multa e inhabilitación, siempre que no hayan operado los plazos de prescripción, sin perjuicio de la responsabilidad resarcitoria a que se haga acreedor.
+La persona que hubiere dejado de pertenecer al servicio público podrá ser sujeta a procedimiento de responsabilidad administrativa, dentro de los cuatro años tratándose de las fracciones I y II de este artículo, y dentro de los seis años en los casos a que se refiere la fracción III del presente artículo, posteriores a su separación del cargo y le podrán ser aplicables las sanciones de multa e inhabilitación, siempre que no hayan operado los plazos de prescripción, sin perjuicio de la responsabilidad resarcitoria a que se haga acreedor.
 
 La sanción consistente en la inhabilitación se aplicará por el incumplimiento de obligaciones o por incurrir en conductas prohibidas conforme a los siguientes criterios:
 
-I.- De seis meses a un año tratándose de las fracciones I, IV, VII, IX, X, XII, XIV, XVI y XVIII del artículo 11 y del primer supuesto de la fracción V del artículo 12 de esta Ley;
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+I.- De uno a dos años tratándose de las fracciones I, IV, VII, IX, X, XII, XIV, XVI y XVIII del artículo 11 y del primer supuesto de la fracción V del artículo 12 de esta Ley;
 
-II.- De uno a dos años a quien, sin que hubiere obtenido un beneficio económico o no hubiere ocasionado daño o perjuicio patrimonial a las autoridades señaladas en el artículo 3 de esta Ley, o habiéndose ocasionado no fueren cuantificables, en los casos de las fracciones II, III, V, VI, VIII, XI, XIII, XV, XVII, XIX y XX del artículo 11 y de las fracciones III, IV, el segundo supuesto de la fracción V, VII, VIII y IX del artículo 12 de esta Ley; y
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
-III.- De tres a cinco años tratándose de lo previsto en la fracción XXI del artículo 11 y en las fracciones I, II y VI del artículo 12 de esta Ley o hubiere cometido alguna de las conductas consideradas como graves en los términos del artículo 21.
+II.- De dos a cuatro años a quien, sin que hubiere obtenido un beneficio económico o no hubiere ocasionado daño o perjuicio patrimonial a las autoridades señaladas en el artículo 3 de esta Ley, o habiéndose ocasionado no fueren cuantificables, en los casos de las fracciones II, III, V, VI, VIII, XI, XIII, XV, XVII, XIX y XX del artículo 11 y de las fracciones III, IV, el segundo supuesto de la fracción V, VII, VIII y IX del artículo 12 de esta Ley, y
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+III.- De seis a diez años tratándose de lo previsto en la fracción XXI del artículo 11 y en las fracciones I, II y VI del artículo 12 de esta Ley o hubiere cometido alguna de las conductas consideradas como graves en los términos del artículo 21.
 
 Las sanciones a las que se refiere este artículo también podrán ser aplicadas a aquellos servidores públicos que se hubieren separado del cargo por cualquier causa durante la sustanciación del procedimiento de responsabilidad administrativa, con independencia de la falta administrativa que se le impute y de las consecuencias ocasionadas con la misma.
 
@@ -303,19 +353,29 @@ Las sanciones a las que se refiere este artículo también podrán ser aplicadas
 
 En caso de que se incumpla alguna de las obligaciones previstas en el artículo 11 o se incurra en una conducta prohibida de las señaladas en el artículo 12 de esta Ley, y se considere como grave en los términos del artículo 21, se procederá a la aplicación de las siguientes sanciones:
 
-I. Multa de ciento cincuenta a trescientos días, tratándose de las fracciones I, IV, VII, IX, X, XII, XIV, XVI y XVIII del artículo 11 y el primer supuesto de la fracción V del artículo 12 de esta Ley;
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
-II. Destitución e inhabilitación, pudiendo aplicar ésta última hasta por seis meses, tratándose de las fracciones II, III, V, VI, VIII, XI, XIII, XV, XVII, XIX y XX del artículo 11 y de las fracciones III, IV, el segundo supuesto de la fracción V, VII y VIII del artículo 12 de esta Ley, y
+I.- Multa de ciento cincuenta a seiscientos días, tratándose de las fracciones I, IV, VII, IX, X, XII, XIV Y XVI del artículo 11 y el primer supuesto de la fracción V y X del artículo 12 de esta Ley;
 
-III. Destitución e inhabilitación, pudiendo aplicar ésta última hasta por cinco años, en lo relativo a la fracción XXI del artículo 11 y a las fracciones I, II y VI del artículo 12 de esta Ley.
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+II.- Destitución e inhabilitación, pudiendo aplicar ésta última hasta por cuatro años, tratándose de las fracciones II, III, V, VI, VIII, XI, XIII, XV, XVII, XVIII, XIX y XX del artículo 11 y de las fracciones III, IV, el segundo supuesto de la fracción V, VII y VIII del artículo 12 de esta Ley, y
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+III.- Destitución e inhabilitación, pudiendo aplicar ésta última hasta por diez años, en lo relativo a la fracción XXI del artículo 11 y a las fracciones I, II y VI del artículo 12 de esta Ley.
 
 ### CAPÍTULO IV. DEL REGISTRO DE ANTECEDENTES DISCIPLINARIOS Y DE SU CANCELACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 25.
 
-Los Poderes del Estado, los Organismos Autónomos, los Ayuntamientos y las Dependencias y Entidades de la Administración Pública Estatal o Municipal, a través de sus órganos de control interno, harán la inscripción de sancionados en su respectivo registro de antecedentes disciplinarios.
+Los Poderes del Estado, los Organismos Autónomos, los Ayuntamientos y las Dependencias y Entidades de la Administración Pública Estatal o Municipal, a través de sus órganos de control, harán la inscripción de sancionados en su respectivo registro de antecedentes disciplinarios.
 
-Dichas autoridades deberán comunicarse entre sí, los registros relativos a las personas sancionadas, así como la cancelación de sus inscripciones, y expedir a solicitud de los propios interesados y de las autoridades ministeriales o judiciales, así como de las áreas de recursos humanos, las constancias respectivas.
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+Dichas autoridades deberán comunicarse entre sí, para integrar el registro estatal único de los servidores públicos a cargo de la Secretaría de la Gestión Pública que incluirá los registros relativos a las personas sancionadas así como la cancelación de sus inscripciones, y expedirá a solicitud de los propios interesados y de las autoridades ministeriales o judiciales, así como de las áreas de recursos humanos, las constancias respectivas.
 
 Los jueces penales que impongan a servidores públicos la pena de inhabilitación para ocupar puestos públicos deberán comunicarlo al órgano de control interno que corresponda, según la adscripción del servidor público, para efectos del registro de la misma.
 
@@ -331,19 +391,29 @@ III.- Que haya transcurrido un año, cuando la sanción impuesta hubiere sido la
 
 IV.- Que haya transcurrido el término de la inhabilitación, siempre y cuando la falta no hubiere implicado daño o perjuicio patrimonial a la hacienda pública estatal o municipal, en su caso, o beneficio económico al infractor.
 
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 26 Bis.
+
+Para la contratación de servidores públicos por parte de los sujetos de esta ley, será requisito previo, que dichos servidores exhiban su constancia de antecedentes disciplinarios.
+
 ### CAPÍTULO V. DE LA PRESCRIPCIÓN DE LA RESPONSABILIDAD ADMINISTRATIVA
 
 ###### Artículo 27.
 
 La facultad para fincar la responsabilidad administrativa prescribirá en los siguientes plazos:
 
-I. En un año, tratándose de las fracciones I, IV, VII, IX, X, XII, XIV, XVI y XVIII del artículo 11 y del primer supuesto de la fracción V del artículo 12 de esta Ley;
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
-II. En dos años, tratándose de las fracciones II, III, V, VI, VIII, XI, XIII, XV, XVII, XIX y XX del artículo 11 y de las fracciones III, IV, el segundo supuesto de la fracción V, VII y VIII del artículo 12 de esta Ley, y
+I.- En dos años, tratándose de las fracciones I, IV, VII, IX, X, XII, XIV, XVI y XVIII del artículo 11 y del primer supuesto de la fracción V del artículo 12 de esta Ley;
 
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
-III. En tres años, tratándose de la fracción XXI del artículo 11 y de las fracciones I, II, VI y IX del artículo 12 de esta Ley, así como aquéllas que sean consideradas como graves en los términos del artículo 21.
+II.- En cuatro años, tratándose de las fracciones II, III, V, VI, VIII, XI, XIII, XV, XVII, XIX y XX del artículo 11 y de las fracciones III, IV, el segundo supuesto de la fracción V, VII y VIII del artículo 12 de esta Ley, y
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+III.- En seis años, tratándose de la fracción XXI del artículo 11 y de las fracciones I, II, VI y IX del artículo 12 de esta Ley, así como aquéllas que sean consideradas como graves en los términos del artículo 21.
 
 ###### Artículo 28.
 
@@ -371,11 +441,33 @@ Durante la sustanciación del procedimiento de responsabilidad administrativa y 
 
 Todas las actuaciones de la autoridad que sustancie el procedimiento de responsabilidad administrativa establecido en esta Ley, deberán constar por escrito e integrarse en expediente, el cual deberá estar a disposición de la persona sujeta a procedimiento, para su consulta por sí, por su representante legal o por persona autorizada.
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 33.
 
-Cualquier persona, bajo su más estricta responsabilidad, podrá presentar queja o denuncia por la probable comisión de faltas administrativas, debiendo acompañar a la misma las pruebas en que la fundamente o señalar la autoridad o el lugar en que se encuentren. El quejoso o el denunciante, en ningún caso, será parte en el procedimiento de responsabilidad administrativa.
+Cualquier persona, bajo su más estricta responsabilidad, podrá presentar queja o denuncia por la probable comisión de faltas administrativas, debiendo acompañar a la misma las pruebas en que la fundamente o señalar la autoridad o el lugar en que se encuentren.
 
-Se desecharán de plano las quejas, denuncias, recursos y promociones notoriamente maliciosas e improcedentes.
+Los sujetos de la Ley podrán promover la denuncia anónima como medio eficaz para la detección de actos ilícitos, corrupción y abuso de autoridad en el servicio público.
+
+Los procedimientos que los sujetos de la Ley empleen, deberán garantizar la reserva de lo identidad o localización del denunciante cuando por cualquier motivo pudiera estar en conocimiento de la autoridad.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 33 Bis.
+
+En el caso de que el servidor público haga del conocimiento de las autoridades competentes, de manera espontánea, su responsabilidad o proporcione información que permito acreditar la responsabilidad administrativa de otros servidores públicos, antes del inicio del procedimiento de responsabilidad administrativa a que se refiere esto Ley, los Poderes Públicos del Estado, los ayuntamientos, los organismos autónomos y las dependencias y entidades de la administración pública estatal o municipal podrán disminuir entre un cincuenta y un setenta por ciento la sanción que le corresponda, siempre que no se hubieren causado daños o perjuicios.
+
+En el caso de que se hubieren producido beneficios, lucro o se hubieren causado daños o perjuicios, se aplicará lo previsto en el párrafo anterior, siempre que el servidor público entere a los autoridades competentes el monto del beneficio o lucro obtenido o bien, realice las acciones tendientes a resarcir los daños o perjuicios causados.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 33 Ter.
+
+Los órganos de control de las autoridades referidas en el artículo 3 de esta Ley, podrán otorgar, con sujeción a la disponibilidad y suficiencia presupuestaria, beneficios económicos a favor de las personas que proporcionen información cierta, suficiente y relevante para la identificación o acreditación de conductas contrarias a las obligaciones establecidas en esta Ley. Los servidores públicos no serán sujetos de este beneficio.
+
+Los beneficios económicos a que se refiere este artículo, serán definidos por las autoridades establecidos en el artículo 3 de esta Ley, mediante acuerdos en los que se establecerá el monto, los requisitos y el procedimiento aplicable, así como que su otorgamiento procederá una vez iniciado el procedimiento administrativo establecido en esta Ley.
+
+No se otorgarán beneficios económicos al denunciante cuando este resulte favorecido de alguna manera con el acto u omisión denunciados.
 
 ###### Artículo 34.
 
@@ -413,9 +505,11 @@ III.- Cuando se ha cometido una falta para procurar los medios para cometer otra
 
 La autoridad sustanciadora podrá ordenar, de oficio o a petición de parte, subsanar las irregularidades u omisiones que observe en la tramitación del procedimiento de responsabilidad administrativa para el sólo efecto de regularizar el mismo, sin que ello implique que pueda revocar sus propias resoluciones.
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 39.
 
-El procedimiento de responsabilidad administrativa se instaurará, sustanciará y resolverá con arreglo a las disposiciones de esta Ley. A falta de disposición expresa y en cuanto no se oponga a lo dispuesto por este ordenamiento, se estará a lo establecido por el Código de Procedimientos Civiles para el Estado de Guanajuato.
+El procedimiento de responsabilidad administrativa se instaurará, sustanciará y resolverá con arreglo a las disposiciones de esta Ley. A falta de disposición expresa y en cuanto no se oponga a lo dispuesto por este ordenamiento, se estará a lo establecidoen (sic) el Código de Procedimiento y Justicia Administrativa para el Estado y los Municipios de Guanajuato.
 
 #### SECCIÓN PRIMERA. DE LAS NOTIFICACIONES Y DE LOS TÉRMINOS
 
@@ -489,7 +583,9 @@ El procedimiento de responsabilidad administrativa se iniciará por queja o denu
 
 Con la queja o denuncia se presentarán las pruebas en que éstas se apoyen.
 
-La iniciación del procedimiento de responsabilidad administrativa se comunicará al superior jerárquico inmediato del servidor público.
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+La iniciación del procedimiento así como la resolución que recaiga al mismo se comunicarán al superior jerárquico inmediato del servidor público.
 
 ###### Artículo 48.
 
@@ -563,9 +659,11 @@ La persona que haya sido designada por el sujeto a procedimiento de responsabili
 
 El sujeto a procedimiento de responsabilidad administrativa o la persona que lo represente, podrá solicitar a la autoridad que se asiente en la actuación correspondiente, cualquier circunstancia que considere relevante para la defensa de sus derechos.
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 57.
 
-En el procedimiento de responsabilidad administrativa que regula la presente Ley, se admitirán las pruebas previstas por el Código de Procedimientos Civiles para el Estado de Guanajuato, excepto la confesional mediante absolución de posiciones de la autoridad. Las pruebas supervenientes podrán presentarse siempre que no se haya dictado resolución definitiva.
+En el procedimiento de responsabilidad administrativa que regula la presente Ley, se admitirán las pruebas previstas en el Código de Procedimiento y Justicia Administrativa para el Estado y los Municipios de Guanajuato. Las pruebas que se desprendan de hechos supervenientes podrán presentarse siempre que no se haya dictado resolución definitiva.
 
 ###### Artículo 58.
 
@@ -583,9 +681,17 @@ Concluido el desahogo de pruebas, el servidor público sujeto al procedimiento d
 
 En la resolución se determinará la existencia o no de la responsabilidad administrativa y, en su caso, se establecerá la sanción que corresponda en los términos de esta Ley.
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 61.
 
-La resolución en la que se imponga una sanción podrá impugnarse ante el Tribunal de lo Contencioso Administrativo tratándose de servidores públicos adscritos a la administración pública estatal o municipal, en los términos de la Ley de Justicia Administrativa del Estado de Guanajuato.
+La resolución en la que se imponga una sanción podrá impugnarse ante el Tribunal de lo Contencioso Administrativo tratándose de servidores públicos adscritos a la administración pública estatal o municipal, en los términos de la (sic) Código de Procedimiento y Justicia Administrativa para el Estado y los Municipios de Guanajuato.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 61 Bis.
+
+Las autoridades contempladas en la presente Ley ejercerán las acciones resarcitorias que correspondan para la recuperación de los daños ocasionados a la hacienda pública, así como los derivados de responsabilidad patrimonial.
 
 ## TÍTULO CUARTO. DE LA UNIDAD DE DEFENSORÍA ADMINISTRATIVA DEL SERVIDOR PÚBLICO
 
@@ -623,11 +729,19 @@ VI.- Los que realicen funciones de líder de proyecto, promotor, supervisor, ver
 
 VII.- Los que desempeñen servicios de atención o resolución de trámites directos o indirectos con el público;
 
-VIII.- Los que realicen adquisiciones o comercialicen bienes y servicios, y
+VIII.- Los que realicen adquisiciones o comercialicen bienes y servicios, y (sic)
 
-IX.- Los demás cuyas funciones sean análogas a las anteriores o que las autoridades señaladas en el artículo 3 de esta Ley consideren pertinentes.
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
-Las autoridades señaladas en el artículo 3 de esta Ley, emitirán mediante acuerdos publicados en el Periódico Oficial del Gobierno del Estado, los listados de los cargos afectos a la obligación de presentar la declaración, de conformidad con los criterios establecidos en las fracciones anteriores.
+IX.- Los que perciban remuneraciones mayores a un monto bruto que sea igual o mayor de quince salarios mínimos vigentes elevados al mes; y
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+X.- Los demás cuyas funciones sean análogas a las anteriores o que las autoridades señaladas en el artículo 3 de esta Ley consideren pertinentes.
+
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+Las autoridades señaladas en el artículo 3 de esta ley, emitirán mediante acuerdos publicados en el Periódico Oficial del Gobierno del Estado, los listados de los cargos afectos a la obligación de presentar la declaración de situación patrimonial, de conformidad con los criterios establecidos en las fracciones anteriores.
 
 Las unidades administrativas de las autoridades a que se refiere esta Ley, deberán informar mensualmente a sus respectivos órganos internos de control, los movimientos de nómina de los servidores públicos obligados, a efecto de que actualicen los padrones respectivos.
 
@@ -635,13 +749,41 @@ Las unidades administrativas de las autoridades a que se refiere esta Ley, deber
 
 No estarán obligados a rendir declaración de situación patrimonial, los servidores públicos que con carácter honorífico y sin recibir remuneración, sueldo, emolumento o retribución alguna, integren los órganos de gobierno, comités, consejos consultivos, juntas u órganos colegiados, cualquiera que sea su denominación, de las autoridades señaladas en el artículo 3 de esta Ley, en los términos que dispongan las leyes, decretos, acuerdos o reglamentos por los que hayan sido creados dichos órganos.
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 65.
 
-Los órganos de control interno de las autoridades referidas en el artículo 3 de esta Ley, señalarán la unidad administrativa encargada de la recepción, control, registro y verificación de la información patrimonial de los servidores públicos obligados a declararla.
+Los órganos de control de las autoridades referidas en el artículo 3 de esta Ley, señalarán la unidad administrativa encargada de la recepción, control, registro y verificación de la información patrimonial de los servidores públicos obligados a declararla.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 65 Bis.
+
+Los órganos de control de las autoridades referidas en el artículo 3 de esta Ley podrán llevar a cabo investigaciones para verificar la evolución del patrimonio de los servidores públicos.
+
+Cuando existan elementos o datos suficientes que hagan presumir que el patrimonio de un servidor público es notoriamente superior a los ingresos lícitos que pudiera tener, los órganos de control de las autoridades referidas en el artículo 3 de esta Ley podrán, si así lo consideran, solicitarle que realice las aclaraciones pertinentes respecto de las incongruencias detectadas en relación con los bienes que integran su patrimonio y las manifestaciones contenidas en las declaraciones patrimoniales presentadas ante los órganos de control.
+
+La facultad de los órganos de control para iniciar las investigaciones a que se refiere este artículo podrá ser ejercida durante el tiempo en que el servidor público desempeñe su empleo, cargo o comisión, y hasta tres años después de haberlo concluido.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 65 Ter.
+
+En el supuesto de que existan incongruencias en la declaración de situación patrimonial, los órganos de control de las autoridades referidas en el artículo 3 de esta Ley, notificarán personalmente al servidor público la solicitud de aclaración, haciendo de su conocimiento las incongruencias detectadas, para que dentro del plazo de treinta días hábiles contados a partir de la recepción de la notificación, formule las aclaraciones pertinentes.
+
+Una vez que los órganos de control agoten las diligencias de investigación, emitirá el acuerdo de conclusión dentro de los quince días hábiles siguientes.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 65 Quater.
+
+Los órganos de control de las autoridades referidas en el artículo 3 de esta Ley, formularán la denuncia correspondiente ante el Ministerio Público, si de los elementos o datos recabados durante la investigación a que se refiere el artículo 65 Bis de esta Ley se evidencia el incremento sustancial del patrimonio del servidor público sin justificación de su procedencia lícita. Dicho patrimonio estará representado por sus bienes, los de las personas a que se refiere el artículo 69 de esta Ley y aquel sobre los que se conduzca como dueño, durante el tiempo de su encargo o por motivos del mismo.
+
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 66.
 
-Los órganos de control interno de las autoridades señaladas en el artículo 3 de esta Ley, en el ámbito de sus respectivas competencias, fijarán las normas, criterios, formatos oficiales y requisitos para el rendimiento de la información patrimonial.
+Los órganos de control de las autoridades señaladas en el artículo 3 de esta ley, en el ámbito de sus respectivas competencias, fijarán las normas, criterios, formatos oficiales y requisitos para el rendimiento de la información patrimonial, los que harán del conocimiento al personal adscrito a dichas autoridades.
 
 ###### Artículo 67.
 
@@ -709,7 +851,7 @@ EL SECRETARIO DE GOBIERNO
 
 RICARDO TORRES ORIGEL
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DE LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DE LA PRESENTE LEY.</small>
 
 P.O. 15 DE SEPTIEMBRE DE 2005.
 
@@ -720,3 +862,13 @@ Artículo Segundo.-Se deroga cualquier disposición que se oponga al presente De
 P.O. 3 DE SEPTIEMBRE DE 2010.
 
 Artículo Único. El presente Decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 11 DE SEPTIEMBRE DE 2012.
+
+Artículo Primero.- El presente decreto entrará en vigor al cuarto día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Las responsabilidades y sanciones administrativas por conductas cometidas con anterioridad a la vigencia del presente decreto, prescribirán de conformidad con las reglas de prescripción vigentes al momento de la comisión de la conducta.
+
+Artículo Tercero.- A partir de la entrada en vigencia de la presente reforma, las autoridades referidas en el artículo 3 de esta Ley deberán remitir la información necesaria a la Secretaría de la Gestión Pública para integrar el registro estatal único de los servidores públicos.
+
+Artículo Cuarto.- A partir del 1 de enero de 2013 la Secretaría de la Gestión Pública deberá contar con el registro estatal único de los servidores públicos.
