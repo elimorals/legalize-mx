@@ -4,7 +4,7 @@ identifier: "SLP-ley-que-crea-el-instituto-de-atencion-a-migrantes-del-44548"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-13"
-last_updated: "2004-07-13"
+last_updated: "2012-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY QUE CREA EL INSTITUTO DE ATENCIÓN A MIGRANTES DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de San Luis Potosí, Edición Extraordinaria, el 13 de Julio de 2004.
 
@@ -59,13 +59,17 @@ III. INSTITUTO: el Instituto de Atención a Migrantes del Estado;
 
 IV. DIRECTOR GENERAL: el Director General del Instituto de Atención a Migrantes del Estado, y
 
-V. MIGRANTE: el potosino o grupo de éstos que se han desplazado del territorio del Estado, para residir en forma temporal o permanente en el extranjero; independientemente de las causas que hayan originado el desplazamiento.
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+V. MIGRANTE: persona que cruza las fronteras o límites de una región geográfica, también se considera migrante a los emigrantes, inmigrados, inmigrantes, transmigrantes, deportados, repatriados y turistas.
 
 ### CAPITULO TERCERO. DE LOS SUJETOS DE ATENCION
 
-###### ARTICULO 4º.
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
-Son sujetos de atención del Instituto, los migrantes potosinos y sus familiares consanguíneos, que pudieran verse afectados por el fenómeno de la migración. Entendiendo para los efectos de esta Ley como beneficiarios, a todos aquellos ciudadanos potosinos que radiquen fuera del territorio nacional por más de tres meses por año, que conserven familia consanguínea hasta el segundo grado en el territorio del Estado, que los visiten por lo menos una vez al año y se encuentren en el extranjero por razones de trabajo.
+###### ARTICULO 4°.
+
+Son sujetos de atención del Instituto, los migrantes potosinos y sus familias que sean afectados por el fenómeno de la migración y que se encuentren en el extranjero por razones laborales, económicas, sociales o políticas, así como cualquier migrante de origen mexicano que por las mismas causas se encuentre en tránsito o llegue al territorio del Estado.
 
 ### CAPITULO CUARTO. DE LAS ATRIBUCIONES DEL INSTITUTO
 
@@ -227,7 +231,9 @@ Para ser Director del Instituto se requiere cumplir con los siguientes requisito
 
 I. Ser mexicano y, preferentemente, ciudadano potosino;
 
-II. Contar con título profesional, expedido por autoridad competente;
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+II. Tener como mínimo 25 años de edad cumplidos al momento de su designación.
 
 III. Tener dominio sobre temas de migración y el idioma inglés;
 
@@ -418,3 +424,11 @@ El Secretario General de Gobierno
 Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 11 DE SEPTIEMBRE DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de San Luis Potosí.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
