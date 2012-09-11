@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-fomento-a-la-investigacion-cientifica-tecnologica-y-2487
 country: "mx"
 rank: "ley"
 publication_date: "2002-05-17"
-last_updated: "2002-05-17"
+last_updated: "2012-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24876&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # LEY DE FOMENTO A LA INVESTIGACION CIENTIFICA, TECNOLOGICA Y A LA INNOVACION PARA EL ESTADO DE GUANAJUATO
 
-LEY DE FOMENTO A LA INVESTIGACION CIENTIFICA, TECNOLOGICA Y A LA INNOVACION PARA EL ESTADO DE GUANAJUATO
+LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA, TECNOLÓGICA Y A LA INNOVACIÓN PARA EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 17 de mayo de 2002.
 
@@ -101,11 +101,23 @@ II.- Establecer en los Planes Estatal de Desarrollo y de Gobierno del Estado las
 
 III.- Aprobar y expedir el Programa Estatal de Ciencia y Tecnología;
 
-IV.- Considerar dentro de los proyectos, programas y presupuestos, las acciones y los recursos necesarios para el fortalecimiento de la ciencia, la tecnología y el desarrollo tecnológico en general, y en particular para el eficaz cumplimiento del objeto de esta Ley;
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
-V.- Celebrar toda clase de actos jurídicos necesarios para el cumplimiento del objeto de la presente Ley; y
+IV.- Establecer dentro del proyecto de Presupuesto General de Egresos un monto de, al menos, el uno por ciento, el cual será destinado a la investigación científica y tecnológica, desarrollo tecnológico e innovación;
 
-VI.- Las demás que le señalen las disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+V.- Considerar dentro de los proyectos y programas, las acciones para el fortalecimiento de la ciencia y la tecnología, el desarrollo tecnológico e innovación y el cumplimiento del objeto de esta Ley;
+
+VI.- Celebrar toda clase de actos jurídicos necesarios para el cumplimiento del objeto de la presente Ley; y
+
+VII.- Las demás que le señalen las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 5o Bis.
+
+El Ejecutivo del Estado y los Ayuntamientos, en sus procesos de planeación, destinarán recursos económicos prioritarios, suficientes, oportunos y crecientes en términos reales en sus respectivos presupuestos de egresos para la investigación científica y tecnológica, desarrollo tecnológico e innovación.
 
 ###### Artículo 6o.
 
@@ -159,9 +171,13 @@ IX.- Promover la participación de las comunidades científica y tecnológica de
 
 X.- Revisar, evaluar y actualizar periódicamente las políticas y estrategias con la finalidad de analizar sus impactos en la solución de los problemas del Estado y en la generación del conocimiento;
 
-XI.- Vigilar el cumplimiento de la presente Ley; y
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
-XII.- Las demás inherentes al cumplimiento de su objeto y las que le señalen las disposiciones legales y reglamentarias aplicables.
+XI.- Proponer al titular del Ejecutivo del Estado políticas y mecanismos de apoyo a la ciencia, la tecnología y la innovación en materia de estímulos fiscales y financieros, facilidades administrativas y de comercio exterior entre otros;
+
+XII.- Vigilar el cumplimiento de la presente Ley; y
+
+XIII.- Las demás inherentes al cumplimiento de su objeto y las que le señalen las disposiciones legales y reglamentarias aplicables.
 
 ###### Artículo 9o.
 
@@ -295,9 +311,17 @@ VI.- Verificar la terminación de los proyectos y la aplicación de sus resultad
 
 VII.- Establecer lazos de vinculación con instancias de carácter científico en otros Estados del país y en el extranjero;
 
-VIII.- Informar al Consejo Directivo de sus actividades por conducto del Director General; y
+VIII.- Informar al Consejo Directivo de sus actividades por conducto del Director General; y (sic)
 
-IX.- Las demás que le señalen las disposiciones legales aplicables y el Reglamento de la presente Ley.
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+IX.- Validar los proyectos de investigación científica y tecnológica, desarrollo tecnológico e innovación para ser beneficiarios de los estímulos fiscales establecidos en la presente ley;
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+X.- Validar a los empleadores que contraten recursos humanos destinados a la investigación y desarrollen tecnología e innovación para ser beneficiarios de los estímulos fiscales establecidos en la presente ley; y
+
+XI.- Las demás que le señalen las disposiciones legales aplicables y el Reglamento de la presente Ley.
 
 ###### Artículo 18.
 
@@ -385,6 +409,24 @@ XI.- Para otorgar el apoyo, el Ejecutivo del Estado convendrá con las personas 
 
 XII.- Las actividades de investigación, desarrollo e innovación que lleven a cabo directamente las dependencias y entidades de la Administración Pública deberán procurar la identificación y solución de problemas y retos de interés general, contribuir al avance del conocimiento, permitir mejorar la calidad de vida de la población y del medio ambiente y apoyar la formación de recursos humanos especializados en ciencia y tecnología, sin perjuicio de la libertad de investigación de las personas ni de la autonomía de las instituciones.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 23 Bis.
+
+Los proyectos en investigación científica y desarrollo tecnológico e innovación gozarán de subsidios o estímulos fiscales de conformidad con el Código Fiscal para el Estado de Guanajuato.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 23 Ter.
+
+Los empleadores que participen activamente y contraten o reciban la prestación del trabajo personal subordinado orientado a la investigación científica y tecnológica, así como al desarrollo tecnológico e innovación, gozarán del estímulo fiscal en relación al impuesto sobre nóminas previsto en la Ley de Hacienda para el Estado de Guanajuato.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 23 Quater.
+
+Para acceder a los subsidios y estímulos fiscales referidos en la presente Ley, se deberá contar con la validación del Consejo Técnico del CONCYTEG.
+
 ###### Artículo 24.
 
 Para desarrollar, fortalecer y consolidar una cultura científica en la sociedad, el Ejecutivo del Estado y los Ayuntamientos, en su caso, promoverán la participación de los sectores gubernamental, académico, empleador y social en la divulgación y difusión de las actividades científicas y tecnológicas.
@@ -439,7 +481,9 @@ En la elaboración del Programa se tomarán en cuenta, además, las propuestas d
 
 ## TÍTULO CUARTO
 
-### CAPÍTULO ÚNICO. DE LOS PRINCIPIOS ORIENTADORES DEL FORTALECIMIENTO A LA ACTIVIDAD CIENTÍFICA, TECNOLÓGICA Y A LA INNOVACIÓN
+> <small>(REFORMADA SU NUMERACIÓN [ANTES CAPÍTULO ÚNICO], P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+### CAPÍTULO PRIMERO. DE LOS PRINCIPIOS ORIENTADORES DEL FORTALECIMIENTO A LA ACTIVIDAD CIENTÍFICA, TECNOLÓGICA Y A LA INNOVACIÓN
 
 ###### Artículo 30.
 
@@ -459,7 +503,9 @@ Las personas o instituciones públicas o privadas que reciban apoyo por parte de
 
 Las personas o instituciones del sector privado que realicen actividades sobre ciencia y tecnología podrán coadyuvar voluntariamente con el Sistema.
 
-### CAPÍTULO PRIMERO. DE LA DIVULGACIÓN, DIFUSIÓN Y FOMENTO DE LA CULTURA CIENTÍFICA
+### CAPÍTULO SEGUNDO. ESTÍMULOS FISCALES
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 32.
 
@@ -469,7 +515,7 @@ Las bases preverán lo necesario para que el Sistema favorezca la vinculación e
 
 ## TÍTULO SEXTO
 
-### CAPÍTULO SEGUNDO. DE LA VINCULACION ENTRE LA INVESTIGACIÓN Y LA EDUCACIÓN
+### CAPÍTULO PRIMERO. DE LA CONSULTA Y PARTICIPACIÓN CIUDADANA
 
 ###### Artículo 33.
 
@@ -479,7 +525,7 @@ En la integración de los órganos consultivos de participación ciudadana deber
 
 ## TÍTULO QUINTO
 
-### CAPÍTULO SEGUNDO. DE LA FORMACIÓN DE RECURSOS HUMANOS
+### CAPÍTULO PRIMERO. DE LA DIVULGACIÓN, DIFUSIÓN Y FOMENTO DE LA CULTURA CIENTÍFICA
 
 ###### Artículo 34.
 
@@ -501,13 +547,13 @@ V.- Atender las tareas especiales que le encomiende la Dirección General del CO
 
 En el Reglamento de esta Ley se establecerán las bases conforme a las cuales deberán integrarse los órganos consultivos de participación ciudadana, así como las normas que regirán su funcionamiento.
 
-### CAPÍTULO TERCERO. DE LA VINCULACIÓN CON LOS SECTORES PÚBLICO Y PRIVADO
+### CAPÍTULO SEGUNDO. DE LA VINCULACION ENTRE LA INVESTIGACIÓN Y LA EDUCACIÓN
 
 ###### Artículo 36.
 
 La investigación científica y tecnológica que el Ejecutivo del Estado apoye en los términos de esta Ley buscará contribuir a desarrollar un sistema de educación, de formación y de capacitación de recursos humanos de calidad y alto nivel académico.
 
-### CAPÍTULO TERCERO. DEL PROGRAMA ESTATAL DE CIENCIA Y TECNOLOGÍA
+### CAPÍTULO SEGUNDO. DE LA FORMACIÓN DE RECURSOS HUMANOS
 
 ###### Artículo 37.
 
@@ -515,25 +561,29 @@ Las instituciones públicas de educación superior coadyuvarán a través de sus
 
 Asimismo, promoverán la incorporación de contenidos científicos y tecnológicos en sus diferentes programas educativos y fomentarán la realización de acciones de divulgación de la ciencia y la tecnología en el Estado, a fin de satisfacer las necesidades de la población en materia de educación científica y tecnológica.
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 38.
 
-El Gobernador del Estado reconocerá los logros sobresalientes de quienes realicen investigación científica y tecnológica, y promoverá que su actividad de investigación contribuya a mantener y fortalecer la calidad de la educación, así como la divulgación de la ciencia y la tecnología en general, a través de los programas que para tales efectos instrumente el Ejecutivo del Estado.
+El titular del poder ejecutivo otorgará estímulos y reconocimientos a quienes realicen logros sobresalientes en investigación científica y tecnológica e innovación, y promoverá que su actividad de investigación contribuya a mantener y fortalecer la calidad de la educación y proteger, preservar y mejorar el medio ambiente, así como la divulgación de la ciencia y la tecnología e innovación en general, a través de los programas que para tales efectos instrumente.
 
 ###### Artículo 39.
 
 El Gobernador del Estado promoverá ante la autoridad educativa federal el diseño y la aplicación de métodos y programas para la enseñanza y fomento de la ciencia y tecnología en todos los niveles de educación.
 
-### CAPÍTULO CUARTO. DE LA COORDINACIÓN Y DESCENTRALIZACIÓN
+### CAPÍTULO TERCERO. DE LA VINCULACIÓN CON LOS SECTORES PÚBLICO Y PRIVADO
 
 ###### Artículo 40.
 
 Las dependencias y entidades de la Administración Pública, así como las instituciones públicas de educación superior, en sus respectivos ámbitos de competencia, promoverán la innovación y el desarrollo tecnológico; para tal efecto, establecerán instrumentos o mecanismos de vinculación con los sectores público y privado de la Entidad.
 
-### CAPÍTULO CUARTO. DE LA INFORMACIÓN
+### CAPÍTULO TERCERO. DEL PROGRAMA ESTATAL DE CIENCIA Y TECNOLOGÍA
 
 ###### Artículo 41.
 
 La vinculación procurará ser multidisciplinaria e interdisciplinaria, y buscará la coordinación de acciones en materia de ciencia y tecnología, tomando en cuenta las demandas y necesidades de los sectores gubernamental, académico, privado o social de la Entidad, y la orientación del trabajo de la infraestructura estatal hacia la generación y avance del conocimiento científico y tecnológico.
+
+### CAPÍTULO CUARTO. DE LA COORDINACIÓN Y DESCENTRALIZACIÓN
 
 ###### Artículo 42.
 
@@ -541,7 +591,7 @@ El Ejecutivo del Estado podrá suscribir convenios de coordinación y colaboraci
 
 En los convenios a que se refiere el párrafo anterior se determinarán los objetivos comunes y las obligaciones de las partes y en su caso, además, los compromisos concretos de financiamiento y de aplicación de los principios que se establecen en esta Ley.
 
-### CAPÍTULO PRIMERO. DE LA CONSULTA Y PARTICIPACIÓN CIUDADANA
+### CAPÍTULO CUARTO. DE LA INFORMACIÓN
 
 ###### Artículo 43.
 
@@ -570,3 +620,11 @@ JUAN CARLOS ROMERO HICKS.
 EL SECRETARIO DE GOBIERNO.
 
 JUAN MANUEL OLIVA RAMÍREZ.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 11 DE SEPTIEMBRE DE 2012.
+
+Artículo primero. El presente Decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo segundo. El Poder Ejecutivo, a fin de adecuar el monto del recurso destinado a investigación científica y tecnológica y a la innovación en el Estado, llevará a cabo la previsión y planeación presupuestal, así como acciones de gobierno necesarias en el próximo ejercicio fiscal de la entrada en vigor de la presente Ley, para contemplar una asignación inicial del 0.4% (cero punto cuatro por ciento) del presupuesto general de egresos del siguiente ejercicio fiscal, incrementando de manera gradual para que en un término de seis años se alcance, al menos, el 1 % (uno por ciento) del presupuesto general de egresos.
