@@ -4,7 +4,7 @@ identifier: "YUC-codigo-penal-del-estado-de-yucatan-17049"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-30"
-last_updated: "2011-11-14"
+last_updated: "2012-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "YUC"
 ---
 # CODIGO PENAL DEL ESTADO DE YUCATAN
 
-CODIGO PENAL DEL ESTADO DE YUCATAN
+CÓDIGO PENAL DEL ESTADO DE YUCATÁN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 14 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 11 DE SEPTIEMBRE DE 2012.
 
 Código publicado en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo de 2000.
 
@@ -123,7 +123,7 @@ Delito continuado es aquél que se comete con pluralidad de conductas procedente
 
 ### CAPÍTULO III. DELITOS GRAVES
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 8 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 8 DE ABRIL DE 2011)</small>
 
 ###### ARTÍCULO 13.
 
@@ -2045,9 +2045,19 @@ DELITOS CONTRA LA PAZ, LA SEGURIDAD Y LAS GARANTÍAS DE LAS PERSONAS
 
 ### CAPÍTULO V. DELITO CONTRA LA INTIMIDAD PERSONAL
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], D.O. 14 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO [N . DE E. ADICIONADO], D.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
-ARTÍCULO 243 BIS. Este Capítulo, es aplicable en todo lo que no contravenga a lo dispuesto por la Ley General para prevenir y sancionar los Delitos en Materia de Secuestros, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+ARTÍCULO 243 BIS 2. Se sancionará con prisión de seis meses a cinco años, al que para conocer asuntos relacionados con la intimidad de una persona o con la finalidad de causarle perjuicio o daño, y sin consentimiento de ésta o sin autorización de autoridad competente, en su caso, usando cualquier medio, realice las conductas siguientes:
+
+I.- Intervenga o intercepte las comunicaciones privadas directas o por medios electrónicos;
+
+II.- Se apodere o utilice documentos u objetos de la propiedad de la víctima u ofendido, aunque él la hubiese puesto en posesión de este;
+
+III.- Reproduzca, difunda o transmita por cualquier medio, los productos de lo obtenido conforme a las dos fracciones precedentes, o
+
+IV.- Utilice medios técnicos de manera oculta, para escuchar u observar, transmitir, grabar o reproducir la imagen o el sonido de sus actividades o sus relaciones interpersonales efectuadas en lugar privado.
+
+Si la información obtenida se hace del conocimiento de terceros la sanción se incrementará en un tercio de la que le corresponda.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O. 8 DE ABRIL DE 2011)</small>
 
@@ -2162,6 +2172,10 @@ III. Causar daño o perjuicio al secuestrado o a otra persona.
 ###### ARTÍCULO 243.
 
 Si el agente pone en libertad a la persona plagiada espontáneamente, dentro de tres días siguientes a la consumación del delito y sin lograr los propósitos a que se refiere el artículo anterior, se le impondrá sanción de uno a cuatro años de prisión y de doce a cuarenta días-multa.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 243 BIS], D.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+ARTÍCULO 243 BIS 1. Este Capítulo, es aplicable en todo lo que no contravenga a lo dispuesto por la Ley General para prevenir y sancionar los Delitos en Materia de Secuestros, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -2997,17 +3011,13 @@ Cuando se hable de salario en este Título, se entenderá que se refiere al mín
 
 > <small>(ADICIONADO, D.O. 23 DE JULIO DE 2008)</small>
 
-###### ARTÍCULO 394
-
-BIS. Al que sin consentimiento de una mujer de dieciocho años o más, o tratándose de una menor de esa edad o incapaz, con o sin su consentimiento, practique en ella inseminación artificial, se le aplicará prisión de dos a seis años. Si como resultado de la conducta se produce embarazo, se impondrá prisión de tres a ocho años.
+ARTÍCULO 394 BIS. Al que sin consentimiento de una mujer de dieciocho años o más, o tratándose de una menor de esa edad o incapaz, con o sin su consentimiento, practique en ella inseminación artificial, se le aplicará prisión de dos a seis años. Si como resultado de la conducta se produce embarazo, se impondrá prisión de tres a ocho años.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(ADICIONADO, D.O. 23 DE JULIO DE 2008)</small>
 
-###### ARTÍCULO 394
-
-TER. Si la inseminación se realiza con violencia se incrementará la sanción correspondiente en una mitad.
+ARTÍCULO 394 TER. Si la inseminación se realiza con violencia se incrementará la sanción correspondiente en una mitad.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O. 8 DE ABRIL DE 2011)</small>
 
@@ -3069,9 +3079,7 @@ Si como consecuencia de algún procedimiento médico o quirúrgico que se realic
 
 A quien sin contar con cédula profesional que acredite su preparación médica, realice alguna actividad o procedimiento que provoque esterilidad, se le impondrá una sanción de ocho a quince años de prisión y de cien a cuatrocientos días-multa.
 
-TÍTULO VIGESIMOPRIMERO
-
-DELITOS ELECTORALES
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 323.
 
@@ -3171,7 +3179,37 @@ Este delito se perseguirá por querella de la parte ofendida.
 
 Si el agente restituye el objeto del ilícito directamente al ofendido o tribunal de los autos antes de dictarse sentencia definitiva de primera o segunda instancia, se impondrá al imputado de tres meses a una tercera parte del máximo de la que correspondería imponer o prescindir de la imposición de las mismas. En ambos casos, el juez o tribunal hará saber al inculpado en el momento procedimental oportuno, este beneficio.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO X. FEMINICIDIO
+
+> <small>(ADICIONADO, D.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+ARTÍCULO 394 QUINTUS. Comete el delito de feminicidio quien prive de la vida a una mujer por razones de género. Se considera que existen razones de género cuando concurra alguna de las siguientes circunstancias:
+
+I.- La víctima presente signos de violencia sexual de cualquier tipo;
+
+II.- A la víctima se le hayan infligido lesiones o mutilaciones infamantes o degradantes, previas o posteriores a la privación de la vida o actos de necrofilia;
+
+III.- Existan antecedentes o datos de cualquier tipo de violencia en el ámbito familiar, laboral o escolar, del sujeto activo en contra de la víctima;
+
+IV.- Haya existido entre el activo y la víctima una relación sentimental, afectiva o de confianza;
+
+V.- Existan datos que establezcan que hubo amenazas relacionadas con el hecho delictuoso, acoso o lesiones del sujeto activo en contra de la víctima;
+
+VI.- La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a la privación de la vida;
+
+VII.- El cuerpo de la víctima sea expuesto o exhibido en un lugar público.
+
+A quien cometa el delito de feminicidio se le impondrán 30 a 40 años de prisión y de quinientos a mil días multa.
+
+Además de las sanciones descritas en el presente artículo, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio.
+
+En caso de que no se acredite el feminicidio, se aplicarán las reglas del homicidio.
+
+Al servidor público que retarde o entorpezca maliciosamente o por negligencia la procuración o administración de justicia, cuando se trate de la investigación de un delito de feminicidio, se le impondrá pena de prisión de 3 a 8 años y de quinientos a mil quinientos días multa, además será destituido e inhabilitado de tres a diez años para desempeñar otro empleo, cargo o comisión públicos.
+
+TÍTULO VIGESIMOPRIMERO
+
+DELITOS ELECTORALES
 
 ###### ARTÍCULO 327.
 
@@ -3179,7 +3217,7 @@ A quien sin derecho obligue a otro a dar, hacer, dejar de hacer o tolerar algo o
 
 Las sanciones se aumentarán hasta el doble si el constreñimiento se realiza mediante una asociación delictuosa o por quien sea o haya sido servidor público. En este caso, se impondrá además al servidor, la destitución del empleo, cargo o comisión y la inhabilitación de uno a cinco años para desempeñar empleo, cargo o comisión públicos y al ex-servidor público únicamente la inhabilitación por el mismo término.
 
-### CAPÍTULO II. DELITOS ELECTORALES EN QUE PUEDEN INCURRIR LOS PARTICULARES
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 328.
 
@@ -3195,7 +3233,7 @@ Si el sujeto activo reparare el daño, las sanciones a que se refiere el primer 
 
 La usura será perseguida por querella.
 
-### CAPÍTULO III. DE LOS DELITOS ELECTORALES EN QUE PUEDEN INCURRIR LOS FUNCIONARIOS ELECTORALES
+### CAPÍTULO II. DELITOS ELECTORALES EN QUE PUEDEN INCURRIR LOS PARTICULARES
 
 ###### ARTÍCULO 329.
 
@@ -3213,7 +3251,7 @@ Si el despojo se efectúa por dos o más personas o con violencia, se aumentará
 
 Este delito se perseguirá por querella.
 
-### CAPÍTULO IV. DE LOS DELITOS EN QUE PUEDEN INCURRIR LOS FUNCIONARIOS PARTIDISTAS
+### CAPÍTULO III. DE LOS DELITOS ELECTORALES EN QUE PUEDEN INCURRIR LOS FUNCIONARIOS ELECTORALES
 
 ###### ARTÍCULO 330.
 
@@ -3335,9 +3373,53 @@ Si en los actos mencionados participa algún servidor público que tenga a su ca
 
 Comete el delito de robo de ganado mayor, quien se apodere de ganado ajeno vacuno, caballar o mular, sin derecho o sin consentimiento de la persona que pueda disponer del mismo con arreglo a la Ley. Este delito se sancionará con prisión de cinco a quince años. En los casos de habitualidad o reincidencia, las sanciones establecidas en este artículo se duplicarán. Para los efectos de este artículo y el siguiente, el robo de ganado quedará configurado con el apoderamiento de uno o más semovientes.
 
+> <small>(ADICIONADO, D.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+Adicionalmente se impondrá como sanción, el decomiso de los instrumentos, objetos y productos del delito.
+
 ###### ARTÍCULO 340.
 
 Comete el delito de robo de ganado menor, quien se apodere de ganado ajeno asnar, porcino, o de cualquier otra de las clases no previstas en el artículo anterior, sin derecho o sin consentimiento de la persona que pueda disponer del mismo con arreglo a la Ley. Este delito se sancionará con prisión de uno a seis años.
+
+> <small>(ADICIONADO, D.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+ARTÍCULO 340 BIS. Se equipara al delito de robo de ganado mayor, y se sancionarán como tal los actos siguientes:
+
+I.- Expedir documentación que acredite la propiedad de animales producto de robo a favor de persona distinta de quien legalmente pueda disponer de ellos, autorice o permita su movilización, a sabiendas de su ilegal procedencia;
+
+II.- Marcar o señalar animales ajenos, aunque éstos se encuentren en propiedad privada;
+
+III.- Sacrificar intencionalmente ganado ajeno con el fin de obtener un beneficio, sin consentimiento de su propietario;
+
+IV.- Autorizar en rastro oficial o en cualquier otro lugar de matanza, el sacrificio de ganado robado, a sabiendas de esta circunstancia;
+
+V.- Alterar o eliminar las marcas de animales vivos, contramarcar o contraseñar sin derecho para ello;
+
+VI.- Adquirir o negociar ganado ajeno, sin consentimiento de su propietario, producto de un robo a sabiendas de su ilegal procedencia;
+
+VII.- Comerciar con pieles, carnes u otros derivados de ganado robado;
+
+VIII.- Transportar ganado, pieles, carnes u otros derivados a sabiendas de que se trata de producto de robo de ganado, y
+
+IX.- Proteger dolosamente ganado robado con documentación falsa.
+
+> <small>(ADICIONADO, D.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+ARTÍCULO 340 TER. Además de las sanciones previstas en los artículos que preceden, se aplicará de 6 meses a 2 años de prisión al responsable del delito de robo de ganado mayor, cuando:
+
+I.- Se cometa aprovechando alguna relación de trabajo o confianza del activo con el pasivo;
+
+II.- Se ejecute por empleado, administrador o encargado de rastro o lugar de matanza, que tenga conocimiento de que se trata de animales robados;
+
+III.- Se cometa por dos o más personas organizadas para delinquir;
+
+IV.- Se ejecute con violencia física o moral en las personas ya sea al momento (sic) perpetrarse el hecho o después de consumado para lograr la fuga o defender el producto;
+
+V.- Sea perpetrado por ganaderos inscritos o personas que tengan intereses o vínculos con cualquier unión o asociación ganadera;
+
+VI.- Se ejecute con arma de fuego, aun cuando no se haga uso de ella, y
+
+VII.- Se ejecute por persona o personas que fueren o simulen ser miembros de algún cuerpo de seguridad pública o de alguna otra autoridad de algún orden de gobierno.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O. 14 DE NOVIEMBRE DE 2011)</small>
 
@@ -3389,7 +3471,7 @@ IV. Comercie total o parcialmente cualquier bien robado.
 
 En caso de tratarse de robo de ganado, sea mayor o menor, o de aves de corral, las conductas a que se refiere este artículo, se sancionarán hasta en una mitad más de las establecidas en los artículos 339, 340 y 341.
 
-### CAPÍTULO V. DE LOS DELITOS ELECTORALES EN QUE PUEDEN INCURRIR LOS SERVIDORES PÚBLICOS
+### CAPÍTULO IV. DE LOS DELITOS EN QUE PUEDEN INCURRIR LOS FUNCIONARIOS PARTIDISTAS
 
 ###### ARTÍCULO 348.
 
@@ -3435,11 +3517,11 @@ Se equipara al daño en propiedad ajena y se impondrán las sanciones del robo s
 
 Este delito será perseguido por querella.
 
+### CAPÍTULO V. DE LOS DELITOS ELECTORALES EN QUE PUEDEN INCURRIR LOS SERVIDORES PÚBLICOS
+
 ### CAPÍTULO VI. DESTRUCCIÓN DE PROPAGANDA POLÍTICA
 
 > <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2011)</small>
-
-### CAPÍTULO VII. DELITOS EN QUE PUEDEN INCURRIR LOS DIPUTADOS Y REGIDORES ELECTOS
 
 ###### ARTÍCULO 351.
 
@@ -3447,7 +3529,7 @@ Los delitos previstos en este Título se perseguirán por querella de la parte o
 
 Igualmente, se requerirá querella para la persecución de terceros que hubiesen incurrido en la ejecución del delito con los sujetos a que se refiere el párrafo anterior. Si se cometiere algún otro hecho que por sí solo constituya un delito, se aplicará la sanción que para éste señale la Ley.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO VII. DELITOS EN QUE PUEDEN INCURRIR LOS DIPUTADOS Y REGIDORES ELECTOS
 
 ###### ARTÍCULO 352.
 
@@ -3476,6 +3558,8 @@ No se impondrá pena alguna a la madre que entregue a su hijo por ignorancia o e
 ###### ARTÍCULO 356.
 
 Cuando alguna de las conductas delictivas a que se refiere este Capítulo se realice contra persona mayor de setenta años de edad, la sanción a imponer se aumentará hasta en el doble de la sanción máxima que corresponda a la conducta de que se trate.
+
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 357.
 
@@ -3639,7 +3723,7 @@ Se aplicará la sanción a que se refiere el artículo anterior, cuando las lesi
 
 Se impondrá sanción de dos a cinco años de prisión, a quien:
 
-I. Sorprendiendo a su cónyuge, concubina o concubinario en el acto carnal o en uno próximo anterior o posterior a su consumación, lesione o prive de la vida a cualquiera de los culpables o a ambos, salvo el caso de que el responsable haya contribuido a la corrupción de su cónyuge. En este último caso quedará sujeto a las disposiciones comunes sobre lesiones u homicidio, y
+I. (DEROGADA, D.O. 11 DE SEPTIEMBRE DE 2012)
 
 II. Siendo padre o madre lesione o prive de la vida al corruptor de alguno de sus descendientes que esté bajo su patria potestad, si lo hiciere en el momento de hallarlos en el acto carnal o en un próximo anterior o posterior a él, siempre que no hubiere procurado la corrupción aquél con quien lo sorprenda o con otro. En este último caso quedará sujeto a las disposiciones comunes sobre lesiones u homicidio.
 
@@ -3875,7 +3959,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 ABOG. R. CLEOMINIO ZOREDA NOVELO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 D.O. 1 DICIEMBRE DE 2003.
 
@@ -3976,3 +4060,9 @@ D.O. 14 DE NOVIEMBRE DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 Este Decreto entrará en vigor, el día 15 de noviembre del año de 2011, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 11 DE SEPTIEMBRE DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
