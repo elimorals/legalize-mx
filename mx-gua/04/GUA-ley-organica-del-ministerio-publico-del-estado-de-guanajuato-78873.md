@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-ministerio-publico-del-estado-de-guanajuato-78
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-24"
-last_updated: "2010-12-24"
+last_updated: "2012-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78873&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 24 de diciembre de 2010.
 
@@ -153,7 +153,9 @@ X. La Coordinación de Agencias Especializadas en Justicia para Adolescentes;
 
 XI. La Coordinación de Atención a Víctimas del Delito;
 
-XII. La Coordinación de Prevención del Delito;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+XII. (DEROGADA, P.O. 11 DE SEPTIEMBRE DE 2012)
 
 XIII. Las Jefaturas de Zona del Ministerio Público;
 
@@ -1952,3 +1954,23 @@ JUAN MANUEL OLIVA RAMÍREZ
 EL SECRETARIO DE GOBIERNO
 
 HÉCTOR GERMÁN RENÉ LÓPEZ SANTILLANA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 11 DE SEPTIEMBRE DE 2012.
+
+Artículo Primero. El presente Decreto entrará en vigencia a los treinta días posteriores a su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Titular del Ejecutivo deberá instrumentar las adecuaciones a los reglamentos y decretos que derivan de la presente reforma dentro del plazo de noventa días posteriores a la entrada en vigencia del presente Decreto.
+
+Artículo Tercero. En el plazo de treinta días posteriores a la entrada en vigencia del presente Decreto, el Presidente del Consejo Estatal de Seguridad Pública hará la designación del Secretario Ejecutivo del Sistema, para efecto de que sea el responsable de la ejecución del proceso de modificación de la naturaleza jurídica del Secretariado Ejecutivo, como órgano descentralizado de la administración pública, en órgano desconcentrado de la misma.
+
+Artículo Cuarto. El Secretario Ejecutivo del Sistema, a partir de su designación, será el responsable de realizar los actos necesarios para cumplir con el presente decreto en el ámbito administrativo.
+
+Artículo Quinto. Las Secretarías de Finanzas y Administración, y de la Gestión Pública realizarán un dictamen técnico-jurídico para determinar los pasos a seguir en el proceso de modificación de la naturaleza jurídica del Secretariado Ejecutivo.
+
+Dicho dictamen deberá señalar el personal como los recursos materiales y financieros que integran el patrimonio del organismo descentralizado que se extingue son indispensables se mantengan a disposición del Secretario Ejecutivo para el cumplimiento de sus funciones.
+
+Artículo Sexto. Las obligaciones y compromisos adquiridos por el Secretariado Ejecutivo para la realización de las funciones de prevención del delito y participación ciudadana, así como los correspondientes a las labores de información en seguridad pública, seguirán vigentes y corresponderá a la Secretaría continuar su cumplimiento.
+
+Del personal y de los recursos materiales y financieros que actualmente integran el patrimonio del Secretariado Ejecutivo utilizados para la realización de las acciones relativas a la prevención del delito y participación ciudadana, así como los correspondientes a las labores de información en seguridad pública, serán destinados los indispensables a la Secretaría para cumplir con sus nuevas atribuciones en esas materias y los compromisos referidos en el párrafo anterior.
