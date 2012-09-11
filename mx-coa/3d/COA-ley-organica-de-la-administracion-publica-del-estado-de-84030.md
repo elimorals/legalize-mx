@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-administracion-publica-del-estado-de-84030"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-11-30"
-last_updated: "2012-08-17"
+last_updated: "2012-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84030&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COA"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE SEPTIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2012.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 11 DE SEPTIEMBRE DE 2012.</small>
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Coahuila, el miércoles 30 de noviembre de 2011.
 
@@ -1215,8 +1215,6 @@ XIV. Impulsar las actividades, eventos y espectáculos que difundan los atractiv
 
 XV. Administrar y, en su caso, proponer la concesión de los servicios comerciales y de apoyo al turista, así como promover su mejora, ampliación y modernización.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE SEPTIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 37.
 
 A la Secretaría de Fiscalización y Rendición de Cuentas, le corresponde el despacho de los siguientes asuntos:
@@ -1409,8 +1407,6 @@ SÉPTIMO.- Se derogan todas las disposiciones que se opongan al presente decreto
 
 OCTAVO.- El Organismo Público desconcentrado denominado Comisión Estatal de Vivienda, deberá emitir su reglamento en un término de 6 meses a partir de la entrada en vigor del presente decreto.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTOS TRANSITORIOS, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE SEPTIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 P.O. 17 DE AGOSTO DE 2012.
 
 ###### ARTÍCULO PRIMERO.
@@ -1440,6 +1436,10 @@ Los trabajadores que con motivo de la aplicación de la presente reforma deban q
 ###### ARTÍCULO SÉPTIMO.
 
 Los asuntos en trámite que con motivo de esta reforma deban pasar de una dependencia a otra, permanecerán en el estado que se encuentren hasta que las unidades administrativas que las deban recibir tomen conocimiento de ellos, a excepción, de los asuntos sujetos a plazos improrrogables.
+
+> <small>(F. DE E., P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+Los acuerdos y convenios celebrados, los derechos y procedimientos que hubieren adquirido, suscrito o desarrollado el Instituto Coahuilense de la Juventud y el Instituto Coahuilense de las Mujeres, así como las atribuciones que otras leyes les asignan, serán asumidos por las Secretarías que se crean.
 
 ###### ARTÍCULO OCTAVO.
 
