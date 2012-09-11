@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-civiles-del-estado-de-guanajuato-39958
 country: "mx"
 rank: "codigo"
 publication_date: "1934-03-08"
-last_updated: "2011-12-27"
+last_updated: "2012-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2012.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 8 de marzo de 1934.
 
@@ -1036,6 +1036,14 @@ Prueba Pericial.
 ###### Art. 146.
 
 La prueba pericial tendrá lugar en las cuestiones de un negocio relativas a alguna ciencia o arte, y en los casos en que expresamente lo previene la ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+###### Art. 146-A.
+
+Tratándose de juicios sobre reconocimiento, desconocimiento y contradicción de paternidad, el juez podrá disponer, atendiendo al interés superior del menor, que la prueba pericial en genética molecular del ácido desoxirribonucleico (ADN) se realice a costa del presupuesto del Ejecutivo Estatal, cuando la parte oferente acredite, con un estudio socioeconómico elaborado por institución oficial, que carece de recursos económicos para cubrir su importe.
 
 ###### Art. 147.
 
@@ -7416,3 +7424,9 @@ Artículo Cuarto. Los juicios de divorcio por mutuo consentimiento; guarda y cus
 Artículo Quinto. Las reformas y adiciones sobre los juicios orales sólo serán aplicables a los nuevos procedimientos que se inicien a partir de su entrada en vigor.
 
 Artículo Sexto. Los centros de convivencia a que se refiere la Sección Segunda del Capítulo VII del Título Primero del Libro Sexto del presente Código, estarán en funcionamiento a la entrada en vigor las presentes reformas y adiciones, conforme a su disponibilidad presupuestaria.
+
+P.O. 11 DE SEPTIEMBRE DE 2012.
+
+Artículo Primero. El presente Decreto entrará en vigencia el uno de enero de 2013, previa su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El titular del Poder Ejecutivo del Estado preverá en la iniciativa de la Ley del Presupuesto General de Egresos del Estado de Guanajuato para los ejercicios fiscales del 2013 y los subsecuentes, la disponibilidad presupuestaria para dar cumplimiento a las disposiciones del presente Decreto.
