@@ -4,7 +4,7 @@ identifier: "GUA-ley-ganadera-para-el-estado-de-guanajuato-13335"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-22"
-last_updated: "2006-06-16"
+last_updated: "2012-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13335&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY GANADERA PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 22 de diciembre de 1998.
 
@@ -49,7 +49,7 @@ LEY GANADERA PARA EL ESTADO DE GUANAJUATO
 
 La presente Ley es de orden público e interés social y tiene por objeto el fomento cuantitativo y cualitativo de las actividades pecuarias, así como regular las bases de la producción, sanidad, inocuidad, protección, clasificación y selección de las especies pecuarias en el Estado de Guanajuato.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2006)</small>
 
 ###### Artículo 2o.
 
@@ -83,7 +83,7 @@ Las unidades de producción dedicadas a las actividades pecuarias deberán conta
 
 ## TITULO SEGUNDO
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE JUNIO DE 2006)</small>
 
 ### CAPITULO PRIMERO. DE LAS AUTORIDADES Y ORGANISMOS SOCIALES DE COOPERACION
 
@@ -155,7 +155,7 @@ IV.- Los colegios de médicos veterinarios zootecnistas y de ingenieros zootecni
 
 ### CAPITULO SEGUNDO. DE LAS ATRIBUCIONES DE LAS AUTORIDADES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2006)</small>
 
 ###### Artículo 8o.
 
@@ -187,7 +187,7 @@ VIII.- Expedir el reglamento de esta Ley; y
 
 IX.- Las demás que le señale esta Ley y otros ordenamientos jurídicos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2006)</small>
 
 ###### Artículo 9o.
 
@@ -275,7 +275,7 @@ XXVIII.- Otorgar anualmente premios estatales de ganadería y de sanidad animal,
 
 XXIX.- Las demás que le señale esta Ley y otros ordenamientos jurídicos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2006)</small>
 
 ###### Artículo 10.
 
@@ -333,7 +333,7 @@ IV.- Ser de reconocida honorabilidad; y
 
 V.- Ser profesionista o técnico en materia pecuaria y tener la capacidad técnica certificada de conformidad con la Ley de Profesiones para el Estado de Guanajuato.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2006)</small>
 
 ###### Artículo 13.
 
@@ -375,7 +375,7 @@ X.- Atender las denuncias que se presenten turnándolas a las autoridades compet
 
 XI.- Sujetarse a lo dispuesto en esta Ley y su reglamento, al momento de practicar las visitas de inspección.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2006)</small>
 
 ###### Artículo 14.
 
@@ -433,7 +433,7 @@ Los ayuntamientos designarán verificadores municipales de ganadería propietari
 
 Los verificadores municipales de ganadería tendrán atribuciones equivalentes a las que corresponden a los verificadores estatales, en la jurisdicción municipal a la que pertenezcan.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2006)</small>
 
 ###### Artículo 17.
 
@@ -465,7 +465,7 @@ IX.- Atender las denuncias que se presenten e imponer sanciones; y
 
 X.- Las demás que le señale esta Ley y otros ordenamientos jurídicos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2006)</small>
 
 ###### Artículo 18.
 
@@ -477,7 +477,7 @@ I.- Vigilar el cumplimiento de las disposiciones previstas en esta Ley, dando cu
 
 II.- Comunicar inmediatamente al presidente municipal, a la Secretaría de Salud y a la Secretaría de Desarrollo Agropecuario, la presencia de cualquier envenenamiento, plaga, epizootia, uso, venta, distribución, almacenamiento o transporte de sustancias prohibidas que afecten a las especies pecuarias;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2006)</small>
 
 III.- Vigilar que los rastros o establecimientos de sacrificio cuenten con un libro de control, y en su caso, cualquier otro medio de control autorizado por el ayuntamiento, sobre el sacrificio de animales, que contendrá los siguientes datos:
 
@@ -535,11 +535,11 @@ XIV.- Supervisar la implantación y el uso adecuado del medio de identificación
 
 XV.- Las demás que le señale esta Ley y otros ordenamientos jurídicos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE JUNIO DE 2006)</small>
 
 ### CAPITULO TERCERO. DE LOS ORGANISMOS SOCIALES DE COOPERACION
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2006)</small>
 
 ###### Artículo 19.
 
@@ -600,6 +600,14 @@ II.- Uniones ganaderas regionales generales, uniones ganaderas regionales estata
 ###### Artículo 22.
 
 Las uniones ganaderas regionales estatales o especializadas, así como las asociaciones ganaderas locales generales o especializadas, deberán registrarse en la Secretaría de Desarrollo Agropecuario, asimismo, estas últimas deberán registrarse también en la unidad administrativa municipal que corresponda.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+Los estatutos de las organizaciones ganaderas deberán consignar, cuando menos, normas relativas a la integración, facultades y funcionamiento de sus órganos; al patrimonio de la organización; a los procesos de elección de sus dirigentes, a la duración de los cargos directivos y las incompatibilidades para su desempeño, así como las relativas a los derechos y obligaciones de sus asociados.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+La elección de los dirigentes de las organizaciones ganaderas se hará mediante voto libre, secreto y directo de los integrantes.
 
 > <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
 
@@ -733,9 +741,15 @@ c) Número y especie de animales, así como la clase de explotación a la que se
 
 III.- Herrar, marcar, tatuar o identificar al ganado:
 
-a) Dentro de los noventa días siguientes a su nacimiento si se trata de ganado mayor; y
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
-b) Dentro de los setenta días de su nacimiento si es ganado menor.
+a) Dentro de los noventa días siguientes a su nacimiento si se trata de ganado mayor;
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+b) Para el herraje del ganado equino el término será de doscientos quince días siguientes a su nacimiento. Los productores deberán dar aviso del nacimiento de dicho ganado a la unidad administrativa municipal correspondiente dentro de los primeros noventa días siguientes al nacimiento; y
+
+c) Dentro de los setenta días de su nacimiento si es ganado menor.
 
 > <small>(REFORMADA Y REUBICADA, P.O. 16 DE JUNIO DE 2006)</small>
 
@@ -763,7 +777,7 @@ La autorización y registro de fierros, señales, identificación electrónica y
 
 Las marcas de herrar se podrán componer de letras, números o signos, o combinaciones entre sí, sin que contengan más de tres figuras, que no sean mayores de diez centímetros de longitud por diez centímetros de ancho y un máximo de ocho milímetros de grueso en la parte que marca.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2006)</small>
 
 ###### Artículo 40.
 
@@ -799,7 +813,7 @@ Cada propietario de ganado sólo podrá tener un título de herrar, señal de sa
 
 Queda estrictamente prohibido herrar animales con marcas distintas a las permitidas en esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2006)</small>
 
 ###### Artículo 46.
 
@@ -965,7 +979,7 @@ Se prohibe el sacrificio de hembras con más de la mitad del periodo de gestaci�
 
 Los rastros o establecimientos de sacrificio que operen en la entidad deberán cumplir con los requisitos y procedimientos exigidos para las plantas tipo inspección federal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2006)</small>
 
 ###### Artículo 71.
 
@@ -1043,11 +1057,11 @@ Los propietarios o encargados de ganado, estarán obligados a conservar los bañ
 
 ## TITULO OCTAVO
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE JUNIO DE 2006)</small>
 
 ### CAPITULO UNICO. DE LA DENUNCIA POPULAR
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2006)</small>
 
 ###### Artículo 81.
 
@@ -1075,7 +1089,7 @@ Cuando la denuncia recaiga sobre conductas que pudieran ser constitutivas de del
 
 ## TITULO NOVENO
 
-> <small>(REFORMADA SU NUMERACION, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 16 DE JUNIO DE 2006)</small>
 
 ### CAPITULO PRIMERO. DE LAS INFRACCIONES Y SANCIONES
 
@@ -1209,7 +1223,7 @@ III.- El monto del beneficio obtenido y el daño o perjuicio ocasionado con la i
 
 IV.- Las circunstancias de ejecución de la infracción.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE JUNIO DE 2006)</small>
 
 ### CAPITULO SEGUNDO. DEL PROCEDIMIENTO PARA APLICAR LAS SANCIONES
 
@@ -1343,10 +1357,14 @@ EL SUBSECRETARIO DE GOBIERNO Y SERVICIOS A LA COMUNIDAD
 
 LIC. ANTONIO OBREGON PADILLA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 16 DE JUNIO DE 2006.
 
 Artículo Primero.- La presente Ley entrará en vigor a los 90 días posteriores al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo.- El Ejecutivo del Estado y los ayuntamientos expedirán los reglamentos respectivos, en un plazo de 180 días contados a partir de la entrada en vigor de la presente Ley.
+
+P.O. 11 DE SEPTIEMBRE DE 2012.
+
+Único.- El presente Decreto entrará en vigor al cuarto día siguiente a su publicación en el Periódico Oficial, del Gobierno del Estado de Guanajuato.
