@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-fiscalizacion-superior-del-estado-de-guanajuato-34577"
 country: "mx"
 rank: "ley"
 publication_date: "2003-11-11"
-last_updated: "2005-04-29"
+last_updated: "2012-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE GUANAJUATO
 
-LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE GUANAJUATO
+LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ABRIL DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el 11 de noviembre de 2003.
 
@@ -61,29 +61,57 @@ La evaluación del control y desarrollo administrativo del Órgano de Fiscalizac
 
 Son sujetos de fiscalización los Poderes Legislativo, Ejecutivo y Judicial del Estado, los ayuntamientos, las dependencias y entidades de la Administración Pública Estatal y Municipal y los Organismos Autónomos.
 
-La función de fiscalización también comprende los recursos públicos otorgados a particulares.
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+La función de fiscalización también comprende los recursos públicos que se destinen y ejerzan por cualquier entidad, persona física o jurídico colectiva, pública o privada y los transferidos a fideicomisos, mandatos, fondos, comités, patronatos, consejos o cualquier otra figura jurídica.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+En el Reglamento de la Ley, las disposiciones administrativas y los manuales se establecerán las disposiciones complementarias para la aplicación de la presente Ley.
 
 ###### Artículo 6.
 
 Para efectos de la presente Ley, se entenderá por:
 
-I.- Contralorías: Unidades de los sujetos de fiscalización que tienen a su cargo el control, vigilancia y evaluación internos de los mismos;
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
-II.- Organismos Autónomos: Aquellos que por disposición constitucional o legal han sido dotados de tal carácter;
+I.- Auditorías sobre el desempeño: Verificación del cumplimiento de los objetivos contenidos en los programas estatales y municipales, mediante la estimación o cálculo de los resultados obtenidos en términos cualitativos o cuantitativos o ambos;
 
-III.- Órgano de Gobierno: La Comisión de Régimen Interno del Congreso del Estado;
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
-IV.- Cuentas públicas: Instrumento que contiene la información contable, financiera, presupuestal, programática, económica y demás vinculada o conexa de los sujetos de fiscalización, que presentan al Congreso del Estado;
+II.- Contralorías: Unidades de los sujetos de fiscalización que tienen a su cargo el control, vigilancia y evaluación de los mismos;
 
-VI.- Gestión financiera: La recaudación, manejo, custodia, control y aplicación de los recursos públicos que los sujetos de fiscalización utilizan para el cumplimiento de los objetivos contenidos en los presupuestos, planes y programas, de conformidad con las leyes y demás disposiciones jurídicas aplicables;
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
-VI.- Pliego de Observaciones: Documento emitido por el Órgano de Fiscalización Superior, que contiene la relación de posibles irregularidades o deficiencias en la gestión financiera de los sujetos de fiscalización;
+III.- Cuenta pública: Instrumento que contiene la información contable, financiera, presupuestal, programática, económica y demás vinculada o conexa de los sujetos de fiscalización, que presentan al Congreso del Estado;
 
-VII.- Informe de Resultados: Documento elaborado por el Órgano de Fiscalización Superior, que contiene el resultado del proceso de fiscalización;
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
-VIII.- Recomendaciones: Medidas que el Órgano de Fiscalización Superior establece al sujeto de fiscalización, tendientes a prevenir y resarcir las irregularidades y deficiencias detectadas en el procedimiento de fiscalización, a efecto de hacer eficaz y eficiente la gestión financiera; y
+IV.- Función de fiscalización: Consiste en conocer, revisar y evaluar el uso y aplicación de los recursos públicos, de conformidad con las disposiciones constitucionales y legales;
 
-IX.- Función de Fiscalización: Consiste en conocer, revisar y evaluar el uso y aplicación de los recursos públicos, de conformidad con las disposiciones constitucionales y legales.
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+V.- Gestión financiera: La recaudación, manejo, custodia, control y aplicación de los recursos públicos que los sujetos de fiscalización utilizan para el cumplimiento de los objetivos contenidos en los presupuestos, planes y programas, de conformidad con las leyes y demás disposiciones jurídicas aplicables;
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+VI.- Informe de resultados: Documento elaborado por el Órgano de Fiscalización Superior, que contiene el resultado del proceso de fiscalización;
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+VII.- Organismos Autónomos: Aquéllos que por disposición constitucional o legal han sido dotados de tal carácter;
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+VIII.- Órgano de Gobierno: La Junta de Gobierno y Coordinación Política del Congreso del Estado;
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+IX.- Pliego de observaciones: Documento emitido por el Órgano de Fiscalización Superior, que contiene la relación de posibles irregularidades o deficiencias en la gestión financiera de los sujetos de fiscalización; y
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+X.- Recomendaciones: Medidas que el Órgano de Fiscalización Superior establece al sujeto de fiscalización, tendientes a prevenir y resarcir las irregularidades y deficiencias detectadas en el procedimiento de fiscalización, a efecto de hacer eficaz y eficiente la gestión financiera.
 
 ###### Artículo 7.
 
@@ -131,25 +159,37 @@ XVI.- Promover el fincamiento de las sanciones conducentes ante las autoridades 
 
 XVII.- Contratar cuando así se requiera, servicios profesionales externos, como apoyo técnico en el ejercicio de la función de fiscalización;
 
-XVIII.- Revisar la aplicación de los recursos públicos entregados a personas físicas o morales;
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
-XIX.- Dar seguimiento a las recomendaciones que emita, para su debida implementación o cumplimiento;
+XVIII. Revisar la aplicación de los recursos públicos que se destinen y ejerzan por cualquier entidad, persona física o jurídico colectiva, pública o privada y los transferidos a fideicomisos, mandatos, fondos, comités, patronatos, consejos o cualquier otra figura jurídica;
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+XIX. Dar seguimiento a las recomendaciones que emita, para su debida implementación o cumplimiento, así como al ejercicio de las acciones civiles por parte de los sujetos de fiscalización;
 
 XX.- Rendir al Congreso del Estado, los informes derivados del ejercicio de la función de fiscalización;
 
 XXI.- Presentar al Congreso del Estado, su proyecto de presupuesto anual;
 
-XXII.- Expedir su reglamento interior y emitir las disposiciones administrativas conducentes al ejercicio de sus atribuciones, así como el manual de criterios, procedimientos y métodos relativos al proceso de fiscalización, debiendo publicarlos en el Periódico Oficial del Gobierno del Estado; y
+XXII.- Expedir su reglamento interior y emitir las disposiciones administrativas conducentes al ejercicio de sus atribuciones, así como el manual de criterios, procedimientos y métodos relativos al proceso de fiscalización, debiendo publicarlos en el Periódico Oficial del Gobierno del Estado; y (sic)
 
-XXIII.- Las demás que expresamente señalen la Constitución Política para el Estado, esta Ley y demás ordenamientos jurídicos aplicables.
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+XXIII. Realizar auditorías sobre el desempeño en los términos de la presente Ley; y
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+XXIV. Las demás que expresamente señalen la Constitución Política para el Estado, esta Ley y demás ordenamientos jurídicos aplicables.
 
 ## TÍTULO SEGUNDO. DE LA FISCALIZACIÓN
 
 ### Capítulo Primero. De la Función de Fiscalización
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 9.
 
-En el ejercicio de la función de fiscalización se tendrán en cuenta los principios de objetividad, imparcialidad, independencia, transparencia, legalidad y profesionalismo, así como las siguientes bases:
+En el ejercicio de la función de fiscalización se tendrán en cuenta los principios de objetividad, definitividad, confiabilidad, imparcialidad, independencia, transparencia, legalidad, profesionalismo y posterioridad, así como las siguientes bases:
 
 I.- La función técnica de fiscalización tiene carácter autónomo, externo y permanente;
 
@@ -161,7 +201,9 @@ IV.- El personal que participe en los procesos de fiscalización deberá ser esp
 
 V.- Las observaciones que se generen durante el proceso de fiscalización, se darán a conocer al sujeto fiscalizado, para que sean atendidas durante el mismo proceso y hasta antes de concluir el informe de resultados; en cualquier caso se procurará agotar las acciones de fiscalización que sean necesarias para que se atiendan o corrijan los defectos de la información sobre el uso de los recursos públicos;
 
-VI.- El proceso de fiscalización tendrá un plazo máximo de duración de doce meses. Dicho plazo comenzará a contar en el momento que para tal efecto se establezca en el reglamento respectivo.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+VI. La fiscalización tendrá un plazo máximo de duración de doce meses. Dicho plazo se computará a partir de la fecha de notificación de su inicio al sujeto de fiscalización. Para los efectos de esta fracción, la fiscalización concluirá con la entrega del informe de resultados al Congreso del Estado.
 
 El incumplimiento del plazo señalado en el párrafo anterior, tendrá como consecuencia una responsabilidad administrativa, sin perjuicio de que se concluya el procedimiento de fiscalización;
 
@@ -199,9 +241,11 @@ El Órgano de Fiscalización Superior podrá convenir con los sujetos de fiscali
 
 El Órgano de Fiscalización Superior conservará en su poder las cuentas públicas, los expedientes de auditoría, los expedientes formados con motivo de las investigaciones, los informes de resultados, las copias autógrafas de los documentos en los que se promueva el fincamiento de responsabilidades y de los documentos que contengan las denuncias o querellas penales que se hubiesen formulado, como consecuencia de los hechos presuntamente delictivos que se hubieren evidenciado durante o con motivo de la fiscalización; mientras sean exigibles de conformidad con lo establecido en la legislación aplicable.
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 14.
 
-Cuando los programas abarquen en su ejecución dos o más ejercicios fiscales, sólo podrán ser revisados y fiscalizados en el avance que se exprese en la cuenta pública mensual o trimestral según corresponda y de manera total, al término de los programas correspondientes.
+El Órgano de Fiscalización Superior podrá solicitar y revisar, de manera casuística y concreta, información de ejercicios fiscales o periodos anteriores al de la cuenta pública en revisión, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el presupuesto en revisión, abarque para su ejecución y pago diversos ejercicios fiscales, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la cuenta pública del ejercicio fiscal o periodo al que pertenece la información solicitada. En este caso, las observaciones y recomendaciones que el Órgano de Fiscalización Superior emita sólo podrán referirse al ejercicio de los recursos públicos de la cuenta pública en revisión.
 
 ###### Artículo 15.
 
@@ -233,29 +277,147 @@ Los servidores públicos del Órgano de Fiscalización Superior, así como los p
 
 Asimismo, los servidores públicos del Órgano de Fiscalización Superior, tendrán la obligación de abstenerse de conocer asuntos referidos a los sujetos de fiscalización en los que hubiesen prestado servicios, de cualquier índole o naturaleza, o con los que hubieran mantenido cualquier clase de relación contractual durante el periodo de tiempo que abarque la revisión de que se trate, o bien, exista relación de parentesco con los titulares y obligados a integrar y remitir la cuenta pública de los sujetos de fiscalización, por consanguinidad sin limitación de grado en línea recta o hasta el cuarto grado en la colateral, por afinidad hasta el segundo grado, o cuando se trate de parientes adoptivos.
 
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+Artículo 19 A.- Los servidores públicos del Órgano de Fiscalización Superior, en el ejercicio de sus atribuciones estarán impedidos para practicar auditorías, visitas e inspecciones, o en su caso, para continuar con el conocimiento de algún asunto materia de su competencia, por alguna de las causas siguientes:
+
+I.- Tener parentesco en línea recta sin limitación de grado, en la colateral por consanguinidad hasta el cuarto grado o en la colateral por afinidad hasta el segundo grado, con alguno de los socios, asociados, miembros, directivos o equivalentes de alguna persona jurídico colectiva, o en su caso, con alguna persona física, que en el ejercicio en que se fiscaliza hubiere realizado trabajos de auditoría o cualquier otro servicio relacionado con actividades de fiscalización, de manera externa a los sujetos de fiscalización;
+
+II.- Haber realizado directamente en el ejercicio en que se fiscaliza, trabajos de auditoría o cualquier otro servicio relacionado con actividades de fiscalización, de manera externa a los sujetos de fiscalización; y
+
+III.- Haber tenido relaciones profesionales, laborales o de negocios con alguno de los socios, asociados, miembros, directivos o equivalentes de alguna persona jurídico colectiva o, en su caso, con alguna persona física que en el ejercicio en que se fiscaliza, hubiere realizado trabajos de auditoría o cualquier otro servicio relacionado con actividades de fiscalización de manera externa a los sujetos de fiscalización, sujetos a revisión por parte del Órgano de Fiscalización Superior.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+Artículo 19 B.- En los casos establecidos en el artículo anterior, los servidores públicos del Órgano de Fiscalización Superior se abstendrán del conocimiento de los asuntos en que se actualice alguno de los impedimentos señalados.
+
 ### Capítulo Segundo. De la Fiscalización de las Cuentas Públicas
+
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 20.
 
 La cuenta pública que los sujetos de fiscalización remitan al Congreso del Estado, deberá contener lo siguiente:
 
-I.- Estado analítico presupuestario de ingresos y egresos;
+I. Información contable, con la desagregación siguiente:
 
-II.- Estado de situación financiera;
+a) Estado de situación financiera;
 
-III.- Estado del gasto presupuestal programático;
+b) Estado de actividades;
 
-IV.- Estado de situación de la deuda pública y su costo financiero;
+c) Estado de cambios en el patrimonio;
 
-V.- Estado de resultados;
+d) Estado de flujos de efectivo;
 
-VI.- Estado de origen y aplicación de recursos;
+e) Informe sobre pasivos contingentes;
 
-VII.- Informe de avance físico-financiero de la obra pública;
+f) Notas a los estados financieros;
 
-VIII.- Informe del registro y movimientos del padrón inmobiliario; y
+g) Estado analítico del activo;
 
-IX.- La demás información que requiera el Órgano de Fiscalización Superior para el cumplimiento de sus atribuciones constitucionales y legales.
+h) Nómina de personal ejercida;
+
+i) Tabulador de sueldos y salarios;
+
+j) Plantilla de personal autorizada;
+
+k) Estado analítico de la deuda y otros pasivos, del cual derivarán las siguientes clasificaciones:
+
+1. Corto y largo plazo; y
+
+2. Fuentes de financiamiento;
+
+II.- Endeudamiento neto, financiamiento menos amortización;
+
+III.- Intereses de la deuda;
+
+IV.- Información presupuestaria, con la desagregación siguiente:
+
+a) Estado analítico de ingresos, del que se derivará la presentación en clasificación económica por fuente de financiamiento y concepto;
+
+b) Estado analítico del ejercicio del presupuesto de egresos, del que derivarán las siguientes clasificaciones:
+
+1. Administrativa;
+
+2. Económica y por objeto del gasto; y
+
+3. Funcional-programática;
+
+c) Un flujo de fondos que resuma todas las operaciones y los indicadores de la postura fiscal;
+
+V.- Información programática, con la desagregación siguiente:
+
+a) Gasto por categoría programática;
+
+b) Programas y proyectos de inversión;
+
+c) Indicadores de resultados; y
+
+d) Información complementaria para generar las cuentas nacionales y atender otros requerimientos provenientes de organismos internacionales de los que México es miembro;
+
+VI.- Análisis cualitativo de los indicadores de la postura fiscal, estableciendo su vínculo con los objetivos y prioridades definidas en la materia, en el programa económico anual, con la desagregación siguiente:
+
+a) Ingresos presupuestarios;
+
+b) Gastos presupuestarios;
+
+c) Postura fiscal; y
+
+d) Deuda pública.
+
+La información establecida en las fracciones I, II y III de este artículo deberá estar organizada por dependencia y entidad.
+
+La estructura de la información contable y presupuestal deberá atender a los formatos estándar establecidos en los documentos normativos derivados de la Ley General de Contabilidad Gubernamental y emitidos por el Consejo Nacional de Armonización Contable.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+Artículo 20 A.- Los municipios que en términos de la Ley General de Contabilidad Gubernamental y de los documentos emitidos por el Consejo Nacional de Armonización Contable lleven una contabilidad simplificada, deberán presentar:
+
+I.- Información contable, con la desagregación siguiente:
+
+a) Estado de situación financiera;
+
+b) Estado de actividades;
+
+c) Estado de cambios en el patrimonio;
+
+d) Estado de flujos de efectivo;
+
+e) Estado analítico del activo;
+
+f) Estado analítico de la deuda, del cual se derivarán las siguientes clasificaciones:
+
+1. Corto y largo plazo; y
+
+2. Fuentes de financiamiento;
+
+g) Notas a los estados financieros;
+
+h) Informe sobre pasivos contingentes;
+
+i) Nómina de personal ejercida;
+
+j) Tabulador de sueldos y salarios;
+
+k) Plantilla de personal autorizada; y
+
+l) Indicadores de resultados;
+
+II.- Información presupuestaria organizada por dependencia y entidad, con la desagregación siguiente:
+
+a) Estado analítico de ingresos, del que se derivará la presentación en clasificación económica por fuente de financiamiento y concepto; y
+
+b) Estado analítico del ejercicio del presupuesto de egresos, del que se derivarán las siguientes clasificaciones:
+
+1. Administrativa;
+
+2. Económica y por objeto del gasto; y
+
+3. Funcional-programática.
+
+La información antes referida deberá estar organizada por dependencia y entidad.
+
+La estructura de la información contable y presupuestal referida en este artículo deberá atender a los formatos estándar establecidos en los documentos normativos derivados de la Ley General de Contabilidad Gubernamental y emitidos por el Consejo Nacional de Armonización Contable.
 
 ###### Artículo 21.
 
@@ -267,7 +429,17 @@ Las cuentas públicas de los Poderes Ejecutivo, Legislativo y Judicial y de los 
 
 Las cuentas públicas de los Municipios deberán ser presentadas por periodos mensuales y a más tardar dentro de los treinta días naturales siguientes a la fecha en que concluya el periodo de referencia.
 
-Cuando las cuentas públicas no se presenten dentro de los plazos señalados en los párrafos anteriores, el Congreso del Estado requerirá al sujeto de fiscalización de que se trate, para que las presente en un plazo improrrogable de cinco días hábiles, contados a partir de la fecha de notificación del requerimiento; en caso contrario, el Congreso instruirá al Órgano de Fiscalización Superior para que proceda a promover el fincamiento de las responsabilidades a que haya lugar. Lo anterior constituirá una observación que deberá ser solventada por el sujeto de fiscalización en el momento procesal oportuno.
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+Cuando las cuentas públicas no se presenten dentro de los plazos señalados en los párrafos anteriores, el Congreso del Estado requerirá al sujeto de fiscalización de que se trate, para que las presente en un plazo improrrogable de quince días hábiles contados a partir de la fecha de notificación del requerimiento; en caso contrario, el Congreso, por conducto del Órgano de Fiscalización Superior hará del conocimiento de tal situación a las contralorías, a fin de que procedan a promover el fincamiento de las responsabilidades a que haya lugar.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+La no presentación de las cuentas públicas dentro de los plazos referidos en este artículo constituirá una observación que deberá ser solventada por el sujeto de fiscalización en el momento procesal oportuno.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+Los sujetos de fiscalización no podrán modificar el contenido de las cuentas públicas que hayan presentado. En el supuesto de adecuaciones o ajustes, éstos deberán expresarse en la cuenta pública del trimestre o del mes en que se hayan detectado.
 
 ###### Artículo 23.
 
@@ -279,9 +451,13 @@ II.- El Congreso del Estado, una vez que reciba las cuentas públicas y agotado 
 
 III.- El Órgano de Fiscalización Superior iniciará la fiscalización de las cuentas públicas, conforme a las disposiciones de esta Ley, de sus reglamentos y de los manuales de procedimientos aplicables;
 
-IV.- El Órgano de Fiscalización Superior notificará al sujeto fiscalizado las observaciones y recomendaciones derivadas del proceso de fiscalización, a efecto de que las aclare, atienda o solvente por escrito dentro del término de treinta días hábiles contados a partir del día hábil siguiente al de la notificación. De no existir observación o recomendación alguna se formulará el informe de resultados para turnarlo al Congreso, a efecto de que realice la declaratoria correspondiente.
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
-Sólo por causa justificada a juicio del Auditor General, podrá prorrogarse el plazo señalado en el párrafo anterior, siempre que lo solicite el sujeto de fiscalización dentro del citado plazo. Dicha prórroga no podrá exceder de diez días hábiles;
+El Órgano de Fiscalización Superior podrá requerir información a los sujetos de fiscalización, otorgándoles un término de cinco días hábiles para que la remitan, contado a partir de que se les notifique el requerimiento. Cuando dicha información no se encuentre en su poder, deberán informar al Órgano de Fiscalización Superior la dependencia o unidad administrativa que la tenga. En caso de omitir la entrega de la información solicitada, dicha situación se considerará como observación dentro del informe de resultados;
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+IV.- El Órgano de Fiscalización Superior notificará al sujeto de fiscalización, así como a los ex titulares, cuando el proceso de fiscalización, corresponda al periodo de su gestión, las observaciones y recomendaciones derivadas del proceso de fiscalización, a efecto de que las aclaren, atiendan o solventen por escrito dentro del término de treinta días hábiles contados a partir del día hábil siguiente al de la notificación. De no existir observación o recomendación alguna se formulará el informe de resultados para turnarlo al Congreso, a efecto de que realice la declaratoria correspondiente.
 
 V.- Concluido el plazo para que el sujeto de fiscalización atienda o dé respuesta a las observaciones y recomendaciones o agotadas las acciones necesarias para su esclarecimiento, se pasará a la etapa de análisis final y la elaboración de dictámenes y del informe de resultados;
 
@@ -289,13 +465,19 @@ VI.- Si de la fiscalización de las cuentas públicas, se desprenden situaciones
 
 VII.- Considerando el contenido de la fracción anterior, se elaborará también un dictamen técnico jurídico, que precise las acciones administrativas, civiles o penales que deberán promoverse, los hechos en que se fundan, las autoridades que resultan competentes para conocer de dichas acciones y los presuntos responsables de los hechos;
 
-VIII.- Una vez elaborado el informe de resultados del que formarán parte los dictámenes a que se refieren las fracciones VI y VII, éste se notificará al sujeto de fiscalización, el cual contará con un término de cinco días hábiles, contados a partir del día siguiente al de la notificación, para hacer valer el recurso de reconsideración que establece esta Ley, en caso de estimarlo pertinente;
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+VIII.- Una vez elaborado el informe de resultados del que formarán parte los dictámenes a que se refieren las fracciones VI y VII, éste se notificará al sujeto de fiscalización, así como a los ex titulares, cuando el proceso de fiscalización, corresponda al periodo de su gestión, quienes contarán con un término de cinco días hábiles, contados a partir del día siguiente al de la notificación, para hacer valer el recurso de reconsideración que establece esta Ley, en caso de estimarlo pertinente;
 
 IX.- Agotado el plazo para presentar el recurso de reconsideración o resuelto éste, el Auditor General remitirá el informe de resultados al Congreso, en un plazo no mayor de quince días hábiles para que éste emita la declaratoria correspondiente;
 
-X.- Hecha la declaratoria correspondiente por el Congreso del Estado, en caso de ser procedente, se notificarán al sujeto de fiscalización las recomendaciones contenidas en el informe de resultados, a efecto de que sean atendidas;
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
-XI.- Las recomendaciones, deberán ser atendidas en un plazo de veinte días hábiles contados a partir del día hábil siguiente al de la notificación.
+X.- Hecha la declaratoria correspondiente por el Congreso del Estado, en su caso, se notificarán al sujeto de fiscalización las observaciones y recomendaciones contenidas en el informe de resultados, a efecto de que atienda las mismas y ejerza las acciones tendientes al resarcimiento de los daños causados a la hacienda o patrimonio público;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+XI.- Las recomendaciones deberán ser atendidas en un término de veinte días hábiles contados a partir del día hábil siguiente al de la notificación; y en el término referido en el artículo 52 de esta Ley, el sujeto de fiscalización deberá ejercer las acciones civiles a que se refiere la fracción anterior;
 
 Sólo por causa justificada a juicio del Auditor General, podrá prorrogarse por una sola vez el plazo referido en el párrafo anterior. Dicha prórroga no podrá exceder de quince días hábiles.
 
@@ -305,17 +487,27 @@ XII.- Una vez que se acredite el debido cumplimiento de la totalidad de las reco
 
 La expedición de la constancia prevista en el párrafo anterior, no exime de las responsabilidades a que hubiere lugar con motivo de procedimientos diversos a éste.
 
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+Artículo 23 A.- En el caso de las recomendaciones sobre el desempeño, los sujetos de fiscalización, dentro de un plazo de treinta días hábiles siguientes al de la notificación de la recomendación correspondiente, deberán de precisar al Órgano de Fiscalización Superior las mejoras efectuadas, las acciones a realizar o, en su caso, justificar su improcedencia o las razones por las cuales no resulta factible su implementación.
+
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 24.
 
-Los extitulares de los sujetos de fiscalización, tienen el derecho de contestar las observaciones que formule el Órgano de Fiscalización Superior, con motivo de los procesos de fiscalización que correspondan al periodo de su gestión, dentro de los plazos referidos en el artículo anterior. Para tal efecto tendrán derecho a solicitar por escrito la información que consideren pertinente a los titulares de los sujetos de fiscalización, quienes estarán obligados a entregar al Órgano de Fiscalización Superior la información con que se cuente en sus archivos, dentro de un plazo improrrogable de diez días hábiles contados a partir del día siguiente al de la fecha de la presentación de la solicitud correspondiente. También tendrán derecho a solicitar las copias certificadas que requieran.
+Los extitulares de los sujetos de fiscalización, tienen el derecho de contestar las observaciones que formule el Órgano de Fiscalización Superior e interponer el recurso de reconsideración previsto en esta Ley, con motivo de los procesos de fiscalización que correspondan al periodo de su gestión, dentro de los plazos referidos en el artículo 23 de esta Ley. Para el efecto de contestar las observaciones tendrán derecho a solicitar por escrito la información que consideren pertinente a los titulares de los sujetos de fiscalización, quienes estarán obligados a entregar al Órgano de Fiscalización Superior la información con que se cuente en sus archivos, dentro de un plazo improrrogable de diez días hábiles contados a partir del día siguiente al de la fecha de la presentación de la solicitud correspondiente. También tendrán derecho a solicitar las copias certificadas que requieran.
 
 ###### Artículo 25.
 
-Para efectos de las notificaciones a que se refiere esta Ley, se atenderá en lo conducente, al procedimiento señalado en el Código Fiscal para el Estado de Guanajuato.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
 ###### Artículo 26.
 
 El Órgano de Fiscalización Superior podrá realizar las visitas, inspecciones y verificaciones que estime necesarias o que solicite el sujeto de fiscalización, para constatar el avance y cumplimiento de las observaciones o de las recomendaciones. Para tal efecto, el sujeto de fiscalización proporcionará la información y la documentación que se le requiera, vinculada con la solventación de observaciones o con el cumplimiento de las recomendaciones.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+Artículo 26 A.- Para efectos de las notificaciones, visitas, inspecciones y verificaciones referidas en la presente Ley se observarán, en lo conducente, los procedimientos señalados por el Código Fiscal para el Estado de Guanajuato.
 
 ### Capítulo Tercero. De las Auditorías
 
@@ -329,9 +521,11 @@ Sin perjuicio del programa anual de auditorías, el Congreso del Estado en uso d
 
 El acuerdo del Congreso del Estado señalará por su urgencia o importancia, el momento en que la auditoría deba iniciarse.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 29.
 
-Para la fiscalización de los recursos públicos que se otorguen a particulares, se practicarán auditorías que estarán destinadas exclusivamente a la revisión de la aplicación de dichos recursos a los fines para los que fueron otorgados.
+Para la fiscalización de los recursos públicos que se destinen y se ejerzan por particulares, se practicarán auditorías que estarán destinadas exclusivamente a la revisión de la aplicación de dichos recursos a los fines para los que fueron otorgados. Para tal efecto, los particulares deberán llevar el control y registro contable de los recursos públicos que se les hayan destinado y ejerzan.
 
 Dichas auditorías se llevarán a cabo observando en lo conducente las formalidades establecidas en el Código Fiscal para el Estado.
 
@@ -342,6 +536,16 @@ El Órgano de Fiscalización Superior determinará las herramientas técnicas, m
 ###### Artículo 31.
 
 En la práctica de las auditorías se aplicarán de manera análoga las fases que para la revisión de las cuentas públicas se contienen en las fracciones III a XII del artículo 23 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+Artículo 31 A.- La evaluación sobre el desempeño se llevará a cabo con base a los indicadores aprobados en el presupuesto de egresos del año que corresponda.
+
+Los indicadores al desempeño medirán el cumplimiento de los objetivos contenidos en los programas estatales y municipales, que estén incorporados en los presupuestos de egresos correspondientes.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+Artículo 31 B.- El Órgano de Fiscalización Superior realizará la evaluación sobre desempeño de manera anual y únicamente formulará recomendaciones al desempeño para mejorar los resultados.
 
 ### Capítulo Cuarto. De la Investigación de Situaciones Excepcionales
 
@@ -397,9 +601,9 @@ El Auditor General deberá resolver el recurso de reconsideración en el términ
 
 El Auditor General presentará al Congreso del Estado los informes de resultados de la revisión de las cuentas públicas, de las auditorías practicadas a los sujetos de fiscalización y los que deriven de las investigaciones de las situaciones excepcionales, para que en su caso, realice la declaratoria o bien, lo sancione en los términos de esta Ley.
 
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
-El Auditor General, cuando lo estime conveniente y pertinente, acordará que el informe de resultados acumule hasta dos cuentas públicas trimestrales de los Poderes Ejecutivo, Legislativo y Judicial y de los Organismos Autónomos respectivamente. Tratándose de los municipios, en el informe de resultados podrán acumularse hasta seis cuentas públicas mensuales. En este supuesto, para los efectos de la fracción VI del artículo 9 de esta Ley, se tendrá como fecha de inicio del proceso de fiscalización para todos los efectos, la que corresponda a la primera cuenta pública, en su orden acumulada.
+El Auditor General, cuando lo estime conveniente y pertinente, acordará que el informe de resultados acumule hasta dos cuentas públicas trimestrales de los Poderes Ejecutivo, Legislativo y Judicial y de los Organismos Autónomos respectivamente. Tratándose de los municipios, en el informe de resultados podrán acumularse hasta seis cuentas públicas mensuales.
 
 > <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2005)</small>
 
@@ -437,9 +641,17 @@ VI.- El señalamiento, en su caso, de las irregularidades detectadas;
 
 VII.- Las observaciones y comentarios del Auditor General, derivados del proceso de fiscalización;
 
-VIII.- El dictamen que establezca la cuantía de los daños y perjuicios a la hacienda pública o al patrimonio de los sujetos de fiscalización que se probaron durante el proceso, los hechos de los que derivan, los bienes, derechos, programas, objetivos, actos jurídicos o partidas afectadas, los probables ilícitos y la determinación en lo posible de los presuntos responsables; y
+VIII.- El dictamen que establezca la cuantía de los daños y perjuicios a la hacienda pública o al patrimonio de los sujetos de fiscalización que se probaron durante el proceso, los hechos de los que derivan, los bienes, derechos, programas, objetivos, actos jurídicos o partidas afectadas, los probables ilícitos y la determinación en lo posible de los presuntos responsables; y (sic)
 
 IX.- El dictamen técnico jurídico que precise las acciones que deberán promoverse, los hechos en que se fundan, las autoridades que resultan competentes para conocer de dichas acciones y los presuntos responsables de los hechos.
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+X. Las recomendaciones derivadas de las auditorías sobre el desempeño; y
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+XI. En su caso, la resolución y los acuerdos recaídos al recurso de reconsideración;
 
 > <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2005)</small>
 
@@ -465,13 +677,21 @@ En caso de que el informe de resultados sea observado por el Congreso el Estado,
 
 ### Capítulo Octavo. De las Acciones para el Fincamiento de Responsabilidades
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 47.
 
-Una vez que el Congreso del Estado emita la declaratoria o la sanción correspondiente, respecto al informe de resultados, el Auditor General, procederá a promover las acciones necesarias para que se finquen responsabilidades a los sujetos de fiscalización o a los presuntos responsables de los hechos ilícitos a que se refiere el informe.
+Una vez que el Congreso del Estado emita la declaratoria o la sanción correspondiente respecto al informe de resultados, el Auditor General, procederá a promover las acciones necesarias para que se finquen responsabilidades a los presuntos responsables de los hechos ilícitos a que se refiere el informe, en los términos que prescribe esta Ley.
+
+En el supuesto de que el sujeto de fiscalización acredite la recuperación o el reintegro de recursos observados en el informe de resultados, el Órgano de Fiscalización Superior dejará sin efectos la determinación de los daños y perjuicios causados a la hacienda o patrimonio público del sujeto de fiscalización, así como las acciones correspondientes, notificándolo al Órgano de Gobierno.
+
+Cuando en la declaratoria correspondiente, el Congreso del Estado determine que una conducta no genera responsabilidad o bien, la responsabilidad generada sea de distinta naturaleza, el Auditor General, de oficio o a petición de los sujetos de fiscalización podrá acordar la modificación de las responsabilidades determinadas en informes de resultados ya sancionados por el Pleno del Congreso, que se deriven de observaciones de la misma naturaleza, siempre que ello sea en beneficio de los presuntos responsables. Lo anterior, deberá hacerse de conocimiento del Órgano de Gobierno.
+
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 48.
 
-Si la responsabilidad fuese de carácter administrativo el Auditor General presentará las denuncias ante las Contralorías u órganos de control administrativo interno, para que se le de trámite y en su oportunidad se aplique la sanción que corresponda en términos de Ley.
+Si la responsabilidad fuese de carácter administrativo el Auditor General presentará las denuncias ante las contralorías para que se les dé trámite y en su oportunidad se aplique la sanción que corresponda en términos de Ley.
 
 ###### Artículo 49.
 
@@ -485,9 +705,13 @@ Los escritos de denuncia o querella deberán soportarse con la documentación re
 
 Cuando el Congreso del Estado al emitir la declaratoria o sanción correspondiente, ordene que se subsanen o aclaren las observaciones que quedaron pendientes en el informe de resultados, el Órgano de Fiscalización Superior deberá dar seguimiento a estas acciones hasta su conclusión.
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 52.
 
-Si la responsabilidad que deriva del proceso de fiscalización es de orden civil, se procederá a ejercitar la acción en la vía que corresponda, ante la autoridad competente, considerando lo dispuesto por el artículo 44 de esta Ley.
+Si la responsabilidad que deriva del proceso de fiscalización es de orden civil, el sujeto de fiscalización por conducto de su titular o por la persona a quien éste delegue dicha atribución, procederá a ejercer las acciones civiles en la vía y forma que corresponda, ante la autoridad competente, dentro del término de tres meses contado a partir de día siguiente de la notificación del acuerdo del Pleno del Congreso. Dicho término previa justificación, podrá duplicarse a petición del sujeto de fiscalización presentada al Congreso del Estado, considerando lo dispuesto por el artículo 44 de esta Ley.
+
+El ejercicio de las acciones civiles queda reservado al Órgano de Fiscalización Superior en el supuesto de que los servidores públicos responsables de ejercer dichas acciones tuvieren intereses en conflicto, en los términos que prescribe la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios, en cuyo caso deberán informarlo al Órgano de Fiscalización Superior dentro del término de quince días hábiles, contado a partir de la fecha de notificación del acuerdo del Pleno del Congreso, justificando las causales de conflicto de intereses en las que se ubican y se abstendrán de ejercer cualquier acción.
 
 ## TÍTULO TERCERO. DE LA ORGANIZACIÓN DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL CONGRESO DEL ESTADO
 
@@ -509,9 +733,11 @@ III.- Poseer al día de su nombramiento, título profesional en las áreas conta
 
 IV.- No haber sido candidato de elección popular, ni representante de partido ante los organismos electorales, excepto representante de casilla; y no ser o haber sido dirigente de partido político en los últimos cinco años.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 55.
 
-El Auditor General durará cinco años en su cargo y podrá ser ratificado por una sola vez. Tanto el nombramiento como la ratificación deberán ser aprobados por el voto de las dos terceras partes de los miembros de la Legislatura.
+El Auditor General durará siete años en su cargo y podrá ser designado nuevamente por una sola vez. Tanto el nombramiento como la nueva designación deberán ser aprobados por el voto de las dos terceras partes de los miembros de la Legislatura.
 
 Cuando proceda la designación del Auditor General, el Órgano de Gobierno podrá proponer que el Auditor General en funciones sea ratificado, en cuyo caso no será necesario cumplir el procedimiento previsto en el artículo 56 de esta Ley. Al efecto, dicho Órgano de Gobierno remitirá la propuesta relativa, al Pleno del Congreso, para que en su caso, apruebe dicha ratificación.
 
@@ -571,7 +797,9 @@ XVI.- Autorizar las prórrogas de los plazos establecidos dentro de los procesos
 
 XVII.- Fincar a los servidores públicos del Órgano de Fiscalización Superior las responsabilidades que deriven de la inobservancia en la aplicación de esta Ley;
 
-XVIII.- Ejercitar las acciones civiles en contra de los probables responsables;
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+XVIII. Ejercer las acciones civiles en contra de los probables responsables en los casos a que se refiere el segundo párrafo del artículo 52 de esta Ley; y consultar los expedientes de los juicios civiles que con motivo del cumplimiento de esta Ley sean substanciados por los sujetos de fiscalización, con el objeto de verificar su avance y resultados;
 
 XIX.- Recomendar a los sujetos de fiscalización, la instauración de los procedimientos disciplinarios que correspondan ante las autoridades competentes;
 
@@ -591,17 +819,27 @@ Para el mejor desempeño de sus funciones, el Órgano de Fiscalización Superior
 
 Asimismo, contará con las coordinaciones, unidades y servidores públicos estrictamente necesarios para el cumplimiento de sus funciones que establezca el reglamento interior, de conformidad con el presupuesto autorizado.
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 60.
 
-En caso de falta absoluta, renuncia o remoción del Auditor General se procederá de conformidad con el procedimiento previsto en el artículo 56 de esta Ley; en tanto se hace la designación, fungirá en calidad de encargado del despacho, el Director General de Planeación, Programación, Control y Seguimiento.
+En caso de falta absoluta, renuncia o remoción del Auditor General, se procederá de conformidad con el artículo 56 de esta Ley. En tanto se hace la designación, el Director General de Planeación, Programación, Control y Seguimiento fungirá en calidad de encargado del despacho.
 
-El Auditor General será suplido en sus ausencias temporales que no excedan de treinta días hábiles, por el Director General de Planeación, Programación, Control y Seguimiento.
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
-Si la ausencia es mayor a cinco días hábiles, pero no excede de treinta, el Auditor General deberá solicitar autorización al Congreso del Estado.
+Artículo 60 A.- El Auditor General sólo podrá ausentarse para la atención de una comisión oficial o por motivos personales.
 
-Todas las ausencias del Auditor General deberán ser notificadas al Congreso del Estado.
+Si la ausencia por motivos personales es superior a tres días hábiles deberá contar previamente con la autorización del Órgano de Gobierno.
 
-Si la ausencia es mayor a treinta días hábiles, se considerará falta absoluta.
+Cuando la ausencia sea para atender una comisión oficial deberá previamente dar aviso por escrito al Órgano de Gobierno, expresando el motivo de dicha comisión y le informará por escrito a su regreso el resultado de la misma. La omisión de dicho aviso por parte del Auditor General se considerará falta grave en términos de lo dispuesto por la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios.
+
+Se entenderá por comisión oficial, la atención de los asuntos concernientes a las facultades del Órgano de Fiscalización Superior que requieran su traslado fuera de la capital del Estado; la asistencia a eventos académicos u oficiales nacionales o internacionales vinculados con la función de fiscalización o para la celebración de acuerdos o convenios con la Auditoría Superior de la Federación o las entidades de fiscalización de los estados.
+
+La ausencia del Auditor General por motivos personales por más de tres días hábiles, sin contar con la autorización previa del Órgano de Gobierno, se considerará falta grave en términos de lo dispuesto por la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios. Si la ausencia fuera mayor a quince días naturales, sin contar con la referida autorización se entenderá como abandono del cargo.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+Artículo 60 B.- El Auditor General será suplido en las ausencias a que se refiere el artículo anterior, por el Director General de Planeación, Programación, Control y Seguimiento. Éste rendirá un informe por escrito al Congreso del Estado de las acciones realizadas en suplencia del Auditor General.
 
 ###### Artículo 61.
 
@@ -619,9 +857,13 @@ I.- Actualizarse alguno de los supuestos previstos en el artículo anterior;
 
 II.- Incumplir la obligación de determinar los daños y perjuicios y de promover el fincamiento de sanciones en los casos que establece esta Ley;
 
-III.- Sustraer, destruir, ocultar o utilizar indebidamente la documentación que, por razón de su cargo, tenga a su cuidado o custodia; y
+III.- Sustraer, destruir, ocultar o utilizar indebidamente la documentación que, por razón de su cargo, tenga a su cuidado o custodia; y (sic)
 
 IV.- Conducirse con parcialidad en los procedimientos de fiscalización, así como en el cumplimiento de las disposiciones de esta Ley.
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+V.- Incurrir en abandono del cargo en los términos del artículo 60 A de esta Ley.
 
 ### Capítulo Segundo. De las Direcciones Generales
 
@@ -657,7 +899,9 @@ VI.- No haber sido candidato de elección popular, ni representante de partido a
 
 Los Directores Generales del Órgano de Fiscalización Superior serán nombrados por el Auditor General, debiendo ser ratificados por las dos terceras partes de los integrantes del Congreso del Estado.
 
-Los Directores Generales podrán ser removidos por las causas graves a que se refiere el artículo 62 de esta Ley.
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+Los Directores Generales podrán ser removidos por las causas graves a que se refieren las fracciones I a IV del artículo 62 de esta Ley.
 
 ###### Artículo 66.
 
@@ -689,9 +933,23 @@ XII.- Formular los proyectos de informes de resultados;
 
 XIII.- Coadyuvar con el Auditor General, en la elaboración de los manuales en que se contengan los criterios, procedimientos y métodos relativos al programa anual de auditoría y a los procedimientos de fiscalización;
 
-XIV.- Coadyuvar con el Auditor General, en la elaboración del proyecto de presupuesto de egresos; y
+XIV.- Coadyuvar con el Auditor General, en la elaboración del proyecto de presupuesto de egresos; y (sic)
 
-XV.- Las demás que le señale esta Ley, el reglamento interior y las demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+XV. Practicar auditorías sobre el desempeño para verificar el cumplimiento de los objetivos contenidos en los programas estatales y municipales, con base en los indicadores aprobados en los presupuestos de egresos del año que corresponda;
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+XVI. Emitir los informes anuales de evaluación sobre el desempeño;
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+XVII. Formular las recomendaciones que deriven de las auditorías sobre el desempeño, las cuales remitirá al sujeto de fiscalización; y
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+XVIII. Las demás que le señale esta Ley, el reglamento interior y las demás disposiciones aplicables.
 
 ###### Artículo 67.
 
@@ -815,8 +1073,18 @@ EL SECRETARIO DE GOBIERNO.
 
 GERARDO LUIS RODRÍGUEZ OROZCO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 29 DE ABRIL DE 2005.
 
 Artículo Único.- El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 11 DE SEPTIEMBRE DE 2012.
+
+Artículo Primero. El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Los indicadores de resultados a que se refieren el inciso c) de la fracción V del artículo 20 y el inciso l) de la fracción I del artículo 20 A de la presente Ley se integrarán a las cuentas públicas, a partir de las correspondientes al mes de enero de 2014.
+
+Artículo Tercero. El Órgano de Fiscalización Superior practicará las auditorías sobre el desempeño a partir del año 2015.
+
+Artículo Cuarto. El término de siete años en el encargo del titular del Órgano de Fiscalización Superior del Congreso del Estado que señala el primer párrafo del artículo 55 de esta Ley será aplicable a partir de la designación de un nuevo titular del Órgano de Fiscalización Superior del Congreso del Estado, a la conclusión de la designación del actual titular, o en su caso, si es el supuesto de designar un nuevo titular, por cualquiera de las causas señaladas en la Constitución Política para el Estado de Guanajuato y en esta Ley.
