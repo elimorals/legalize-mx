@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimiento-y-justicia-administrativa-para-el-56710
 country: "mx"
 rank: "codigo"
 publication_date: "2007-08-17"
-last_updated: "2007-08-17"
+last_updated: "2012-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56710&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # CODIGO DE PROCEDIMIENTO Y JUSTICIA ADMINISTRATIVA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-CODIGO DE PROCEDIMIENTO Y JUSTICIA ADMINISTRATIVA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
+CÓDIGO DE PROCEDIMIENTO Y JUSTICIA ADMINISTRATIVA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2012.
 
 Código Publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 17 de agosto de 2007.
 
@@ -367,6 +367,18 @@ Sin perjuicio de lo establecido en otras disposiciones jurídicas aplicables, la
 
 Las notificaciones se efectuarán dentro de los siguientes tres días al en que se dicten las resoluciones o actos respectivos. En todo caso, se practicarán en días y horas hábiles o habilitados, con una anticipación de cuarenta y ocho horas, por lo menos, al momento en que deba efectuarse la actuación o diligencia a que se refieran las mismas, salvo en el caso de las visitas de verificación e inspección.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+Las partes podrán solicitar al Tribunal que las notificaciones que se les practiquen de todas las actuaciones del proceso administrativo, se realicen en la dirección de correo electrónico que para tal efecto proporcione la parte solicitante, misma que será registrada en los términos que señale el Reglamento Interior del Tribunal.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+Tratándose de procesos administrativos seguidos ante los Juzgados, las notificaciones por correo electrónico sólo podrán realizarse cuando éstos cuenten, para este efecto, con medios electrónicos o sistema de información.
+
 ###### Artículo 38.
 
 Las notificaciones deben contener:
@@ -375,17 +387,23 @@ I. El lugar, fecha y hora en que se practiquen;
 
 II. El texto íntegro del acto o resolución;
 
-III. La identificación del tipo de procedimiento o proceso y el número de expediente, incluyendo la indicación de la autoridad que lo emite y la fecha de expedición;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV. El fundamento legal en que se apoye la notificación. En su caso, con la indicación si es o no definitivo en la vía administrativa el acto que se notifica;
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
-V. Tratándose de un procedimiento administrativo, el medio de defensa a través de cuyo ejercicio puede impugnarse el acto que se notifica, la autoridad competente y el plazo para interponerlo;
+III. La constancia de que se envió notificación a la dirección de correo electrónico señalado para tal efecto;
 
-VI. Nombre y apellido del interesado o interesados;
+IV. La identificación del tipo de procedimiento o proceso y el número de expediente, incluyendo la indicación de la autoridad que lo emite y la fecha de expedición;
 
-VII. Nombre y firma autógrafa de quien practique la diligencia; y
+V. El fundamento legal en que se apoye la notificación. En su caso, con la indicación si es o no definitivo en la vía administrativa el acto que se notifica;
 
-VIII. Nombre y firma autógrafa de quien recibe el instructivo o, en su caso, la causa por la que no firma o se niegue a firmar.
+VI. Tratándose de un procedimiento administrativo, el medio de defensa a través de cuyo ejercicio puede impugnarse el acto que se notifica, la autoridad competente y el plazo para interponerlo;
+
+VII. Nombre y apellido del interesado o interesados;
+
+VIII. Nombre y firma autógrafa de quien practique la diligencia; y
+
+IX. Nombre y firma autógrafa de quien recibe el instructivo o, en su caso, la causa por la que no firma o se niegue a firmar.
 
 ###### Artículo 39.
 
@@ -395,21 +413,39 @@ I. Personalmente con quien deba entenderse la diligencia, en el domicilio del in
 
 II. Mediante oficio entregado por mensajería o correo certificado con acuse de recibo o telegrama. También podrá realizarse mediante telefax, medios electrónicos o cualquier otro medio similar, cuando así lo haya autorizado expresamente el promovente o, en caso urgente, siempre que pueda comprobarse fehacientemente su recepción. En estos supuestos se deberá dejar constancia en el expediente de la fecha y hora en que se realizó la recepción de la notificación;
 
-III. Por edictos, cuando se desconozca el domicilio del interesado o en caso de que la persona a quien deba notificarse haya desaparecido, se ignore su domicilio o se encuentre fuera del territorio del Estado sin haber dejado representante legal o hubiere fallecido y no se conozca al albacea de la sucesión.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+III. En la dirección de correo electrónico señalada por las partes en el proceso administrativo.
+
+La notificación se tendrá por practicada con el acuse de recibo electrónico que genere el sistema del correo electrónico que proporcionen las partes.
+
+El acuse de recibo electrónico deberá certificarse y agregarse al expediente.
+
+La certificación hará las veces de notificación para las partes.
+
+Las notificaciones en la dirección de correo electrónico deberán practicarse en días y horas hábiles;
+
+IV. Por edictos, cuando se desconozca el domicilio del interesado o en caso de que la persona a quien deba notificarse haya desaparecido, se ignore su domicilio o se encuentre fuera del territorio del Estado sin haber dejado representante legal o hubiere fallecido y no se conozca al albacea de la sucesión.
 
 Las notificaciones por edictos se realizarán haciendo publicaciones que contendrán un resumen de los actos o resoluciones por notificar. Dichas publicaciones deberán efectuarse por dos veces consecutivas en el Periódico Oficial del Gobierno del Estado y en uno de los diarios de mayor circulación en el territorio estatal;
 
-IV. Por estrados ubicados en lugar visible de las oficinas de las autoridades, cuando así lo señale el interesado o se trate de actos distintos a citaciones, requerimientos y demás resoluciones o actos que puedan ser impugnados. En este caso la notificación contendrá nombre de la persona, número del expediente y síntesis del acuerdo o resolución. En los autos se hará constar la fecha de la publicación de la lista; y
+V. Por estrados ubicados en lugar visible de las oficinas de las autoridades, cuando así lo señale el interesado o se trate de actos distintos a citaciones, requerimientos y demás resoluciones o actos que puedan ser impugnados. En este caso la notificación contendrá nombre de la persona, número del expediente y síntesis del acuerdo o resolución. En los autos se hará constar la fecha de la publicación de la lista; y
 
-V. En las oficinas de las autoridades, si se presentan los interesados o autoridades a quienes debe notificarse, incluyendo las que han de practicarse personalmente o por oficio.
+VI. En las oficinas de las autoridades, si se presentan los interesados o autoridades a quienes debe notificarse, incluyendo las que han de practicarse personalmente o por oficio.
 
 ###### Artículo 40.
 
 Las notificaciones que deban hacerse a las autoridades, se harán siempre por oficio. También podrán realizarse mediante el uso de medios electrónicos o cualquier otro medio, cuando así lo hayan autorizado expresamente y siempre que pueda comprobarse fehacientemente su recepción.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 41.
 
-Las notificaciones personales se harán en el domicilio señalado en el lugar de ubicación de la autoridad o por correo certificado con acuse de recibo si el domicilio se encuentra fuera del lugar de ubicación de la misma, pero en el Estado de Guanajuato. Cuando exista imposibilidad para hacer la notificación en la forma establecida en este párrafo, previa acta circunstanciada, se acordará la notificación por estrados de todas las actuaciones.
+Los notificaciones personales se harán en el domicilio señalado en el lugar de ubicación de la autoridad, por correo certificado con acuse de recibo si el domicilio se encuentra fuera del lugar de ubicación de la misma, pero en el Estado de Guanajuato, o por correo electrónico en los términos de la fracción III del artículo 39 de este Código, cuando así lo soliciten las partes.Cuando (sic) exista imposibilidad para hacer la notificación en la forma establecida en este párrafo, previa acta circunstanciada, se acordará la notificación por estrados de todas las actuaciones.
 
 Cuando el procedimiento administrativo se inicie de oficio, las notificaciones se practicarán en el domicilio registrado ante las autoridades administrativas.
 
@@ -2095,15 +2131,23 @@ III. En caso de negativa ficta, la demanda podrá presentarse en cualquier tiemp
 
 La demanda podrá enviarse por correo certificado con acuse de recibo, si el actor tiene su domicilio fuera de la ciudad donde resida el Tribunal o Juzgado, en cuyo caso, se tendrá por presentada en la fecha que fue depositada en la oficina de correos.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 264.
 
-Las partes señalarán en su primer escrito, domicilio para recibir notificaciones en el lugar de residencia del Tribunal o del Juzgado respectivo, en caso de no hacerlo, las notificaciones, aún las de carácter personal, se harán por estrados.
+Las partes señalarán en su primer escrito, domicilio para recibir notificaciones en el lugar de residencia del Tribunal o del Juzgado respectivo, o dirección de correo electrónico. En caso de no hacerlo, las notificaciones, aún las de carácter personal, se harán por estrados.
 
 ###### Artículo 265.
 
 El escrito de demanda expresará:
 
-I. El nombre del actor o de quien promueva en su nombre; así como el domicilio para recibir notificaciones en el lugar de residencia del Tribunal o del Juzgado respectivo y, en su caso, los autorizados para oír y recibir notificaciones;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+I. El nombre del actor o de quien promueva en su nombre; así como el domicilio para recibir notificaciones en el lugar de residencia del Tribunal o del Juzgado respectivo, o la dirección de correo electrónico y, en su caso, los autorizados para oír y recibir notificaciones;
 
 II. El acto o resolución que se impugna y, en su caso, la fecha de su notificación o en la que se haya ostentado sabedor del mismo;
 
@@ -2201,9 +2245,13 @@ La suspensión podrá ser revocada por el juzgador en cualquier momento del proc
 
 ### CAPÍTULO TERCERO. DE LA CONTESTACIÓN DE LA DEMANDA
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 279.
 
-Admitida la demanda se correrá traslado de ella al demandado, emplazándolo para que la conteste dentro de los diez días siguientes a aquél en que surta efectos el emplazamiento. La contestación de la demanda se podrá enviar mediante correo certificado con acuse de recibo, cuando el demandado tenga su domicilio fuera de la ciudad donde resida el Tribunal o Juzgado, en cuyo caso se tendrá por presentada en la fecha que fue depositada en la oficina de correos.
+Admitida la demanda se correrá traslado de ella al demandado, emplazándolo para que la conteste dentro de los diez días siguientes a aquél en que surta efectos el emplazamiento. Si el demandado es autoridad, ésta deberá señalar la dirección de correo electrónico en la que se le realizarán sus notificaciones. La contestación de la demanda se podrá enviar mediante correo certificado con acuse de recibo, cuando el demandado tenga su domicilio fuera de la ciudad donde resida el Tribunal o Juzgado, en cuyo caso se tendrá por presentada en la fecha que fue depositada en la oficina de correos.
 
 Cuando los demandados fueren varios, el término para contestar les correrá individualmente.
 
@@ -2610,3 +2658,11 @@ JUAN MANUEL OLIVA RAMIREZ
 EL SECRETARIO DE GOBIERNO
 
 JOSÉ GERARDO MOSQUEDA MARTÍNEZ.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 11 DE SEPTIEMBRE DE 2012.
+
+Artículo Primero. El presente Decreto entrará en vigor el uno de enero del año dos mil trece, previa su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Tribunal de lo Contencioso Administrativo preverá en su anteproyecto de presupuesto para el ejercicio 2013, la partida para la implementación tecnológica a efecto de operar las notificaciones por correo electrónico.
