@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-municipal-para-el-estado-de-guanajuato-12552"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-25"
-last_updated: "2011-08-12"
+last_updated: "2012-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # LEY ORGANICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO
 
-LEY ORGANICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO
+LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE AGOSTO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO, PUBLICADA EN EL P.O. DE 11 DE SEPTIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 25 de julio de 1997.
 
@@ -403,7 +405,7 @@ El Ayuntamiento electo, en la sesión solemne de instalación, por conducto del 
 
 La instalación del Ayuntamiento será válida, con la presencia de la mitad más uno de sus integrantes electos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 35.
 
@@ -417,7 +419,7 @@ Cuando no se logre obtener la mayoría de los integrantes electos del Ayuntamien
 
 El Ayuntamiento instalado, sin la totalidad de los miembros electos propietarios, procederá de inmediato a notificar a los ausentes para que asuman su cargo en un plazo no mayor de quince días hábiles, si no se presentan transcurrido este plazo, serán llamados los suplentes, quienes entrarán en ejercicio definitivo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2008)</small>
 
@@ -505,9 +507,9 @@ XIII.- La demás información que se estime relevante para garantizar la continu
 
 El secretario del Ayuntamiento entrante, levantará acta circunstanciada de la entrega-recepción, la cual deberá ser firmada por los que intervinieron y se proporcionará copia certificada a los integrantes del Ayuntamiento saliente que participaron y al representante del Órgano de Fiscalización Superior del Congreso del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 43.
 
@@ -599,7 +601,7 @@ Las faltas del delegado municipal, serán cubiertas por el subdelegado; a falta 
 
 El Ayuntamiento funcionará en períodos de tres años, iniciando cada ejercicio, el día 10 de octubre del año de la elección de los integrantes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JULIO DE 2001)</small>
 
 ###### Artículo 55.
 
@@ -783,7 +785,7 @@ r) Intervenir en la formulación y aplicación de programas de transporte públi
 
 s) Solicitar, por acuerdo de la mayoría calificada de sus integrantes al Congreso del Estado, que realice la declaración de que el Municipio se encuentra imposibilitado para ejercer una función o prestar un servicio público, a efecto de que el Ejecutivo del Estado la ejerza o lo preste.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2008)</small>
 
@@ -791,7 +793,7 @@ t) Acordar la división territorial del Municipio, determinando las categorías 
 
 II.- En materia de obra pública y desarrollo urbano:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 a).- (DEROGADO, P.O. 24 DE OCTUBRE DE 2008)
 
@@ -835,7 +837,7 @@ IV.- En materia de hacienda pública municipal:
 
 a) Administrar libremente su hacienda y controlar la aplicación del presupuesto de egresos del Municipio;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 11 DE JULIO DE 2010)</small>
 
@@ -881,7 +883,7 @@ g) Impartir la educación, en los términos previstos en las leyes Federal y Est
 
 h) Formular programas de organización y participación social, que permitan una mayor cooperación entre autoridades y habitantes del Municipio;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2008)</small>
 
@@ -985,7 +987,7 @@ I.- Vigilar la correcta observancia de los acuerdos y disposiciones del Ayuntami
 
 II.- Cumplir las funciones correspondientes a su cargo y las inherentes a las comisiones de que formen parte, informando al Ayuntamiento de sus gestiones;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2008)</small>
 
@@ -1211,7 +1213,7 @@ Los titulares de las dependencias y entidades de la administración pública mun
 
 El presupuesto de egresos de los municipios deberá atender las prioridades y objetivos que señale el Plan de Gobierno Municipal y los programas derivados del mismo, de conformidad con lo establecido en esta Ley y sus reglamentos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
 ### CAPITULO SEGUNDO. DE LOS CONSEJOS DE PLANEACION DE DESARROLLO MUNICIPALES
 
@@ -1251,7 +1253,7 @@ Los Consejos de Planeación de Desarrollo Municipales se integrarán por:
 
 I.- El Presidente Municipal, quien lo presidirá;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2008)</small>
 
@@ -1307,7 +1309,7 @@ Asimismo, el reglamento establecerá la forma y procedimiento para elegir a los 
 
 Los representantes de la sociedad organizada que propongan los ayuntamientos deberán ser integrantes de los Consejos de Planeación de Desarrollo Municipales.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE JULIO DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE JULIO DE 2001)</small>
 
 ### CAPITULO TERCERO. DE LA COORDINACION Y ASOCIACION
 
@@ -1381,7 +1383,7 @@ El Ayuntamiento podrá crear dependencias que le estén subordinadas directament
 
 También, podrá crear entidades paramunicipales, cuando el desarrollo económico y social lo haga necesario.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2008)</small>
 
@@ -1433,7 +1435,7 @@ IX.- Las demás que el Ayuntamiento determine, considerando las condiciones terr
 
 Los ayuntamientos en el reglamento correspondiente, deberán señalar las atribuciones que tendrán las dependencias señaladas en las fracciones IV a VIII de este artículo; asimismo, podrán otorgarles la denominación que corresponda atendiendo a su organización administrativa.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2008)</small>
 
@@ -1519,7 +1521,7 @@ X.- Elaborar y someter a la aprobación del Ayuntamiento, el programa financiero
 
 XI.- Glosar oportunamente las cuentas de la administración pública municipal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENMAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2008)</small>
 
@@ -1553,7 +1555,7 @@ El Ayuntamiento tendrá por designado como contralor municipal al integrante de 
 
 Cuando por cualquier causa la primera minoría no ejerza su derecho, el contralor municipal será designado por mayoría absoluta del Ayuntamiento a propuesta de cualquiera de sus integrantes, en la sesión ordinaria siguiente a la referida en el primer párrafo de este artículo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2008)</small>
 
@@ -1567,7 +1569,7 @@ III.- Evaluación y Control de Obra Pública; y
 
 IV.- Asuntos Jurídicos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2008)</small>
 
@@ -1581,9 +1583,9 @@ I.- A propuesta de la primera minoría, requiriendo para su aprobación la mayor
 
 II.- A propuesta de la mayoría absoluta del Ayuntamiento, requiriendo para su aprobación, la mayoría calificada del Ayuntamiento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2008)</small>
 
 Artículo 115 B.- En caso de falta o ausencia mayor de quince días hábiles sin causa justificada del contralor municipal se deberá proceder a designar a la persona que lo supla sustituya, aplicando en lo conducente el procedimiento a que se refiere el artículo anterior.
 
@@ -1591,9 +1593,9 @@ Artículo 115 B.- En caso de falta o ausencia mayor de quince días hábiles sin
 
 Cuando las faltas o ausencias no excedan del término de quince días hábiles, el contralor municipal designará quien lo supla, del personal que tenga a su cargo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 116.
 
@@ -1649,7 +1651,7 @@ VIII.- Vigilar que las adquisiciones, enajenaciones y arrendamientos de los bien
 
 IX.- Vigilar que la obra pública municipal se ajuste a las disposiciones de la Ley de Obra Pública y Servicios relacionados con la misma para el Estado y los Municipios de Guanajuato y demás disposiciones aplicables en la materia;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2008)</small>
 
@@ -1659,7 +1661,7 @@ XI.- Participar en la entrega-recepción de las dependencias y entidades de la a
 
 XII.- Verificar los estados financieros de la tesorería municipal, así como revisar la integración, la remisión en tiempo y la solventación de observaciones de la cuenta pública municipal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2008)</small>
 
@@ -1679,7 +1681,7 @@ Artículo 117 A.- Es obligación de los titulares de las dependencias y entidade
 
 ### CAPITULO TERCERO. DE LOS DELEGADOS MUNICIPALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 118.
 
@@ -1799,7 +1801,7 @@ La administración de los organismos descentralizados estará a cargo de un órg
 
 El consejo directivo o su equivalente, elegirá de entre sus miembros a su presidente y, en su caso, designará al director general y demás personal necesario para el cumplimiento de sus funciones.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2008)</small>
 
@@ -1967,7 +1969,7 @@ En la aplicación del presente capítulo, se atenderá en lo conducente, lo disp
 
 Los ayuntamientos vigilarán que la prestación de los servicios públicos, se realice en igualdad de condiciones a todos los habitantes del Municipio, en forma permanente, general, uniforme, continua, y de acuerdo al Plan de Gobierno Municipal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2008)</small>
 
@@ -2083,7 +2085,7 @@ Artículo 149 B.- El personal de policía preventiva y tránsito y vialidad de l
 
 Además, la policía deberá auxiliar al Ministerio Público en la investigación y persecución de los delitos, cuando así se les requiera.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JULIO DE 2001)</small>
 
 ###### Artículo 150.
 
@@ -2455,7 +2457,7 @@ Declarada la procedencia de la reversión, se requerirá al donatario para que d
 
 Cuando se requiera afectar un bien inmueble de propiedad privada, que por su ubicación y características satisfaga las necesidades para la realización de una obra pública, el ejercicio de una función o la prestación de un servicio público, podrá ser permutado por bienes de propiedad municipal con un valor comercial equivalente, si así lo acuerda la mayoría calificada del Ayuntamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JULIO DE 2001)</small>
 
 ###### Artículo 179.
 
@@ -2491,7 +2493,7 @@ Artículo 181 A.- Cuando la venta de bienes muebles se realice fuera de subasta 
 
 Ninguna enajenación, uso, disfrute o aprovechamiento de bienes inmuebles del Municipio, podrá hacerse a favor de los miembros del Ayuntamiento o de los titulares de las dependencias y entidades de la administración pública municipal, estatal o federal, ni a sus cónyuges, parientes consanguíneos en línea recta sin limitación de grado, colaterales y afines hasta el segundo grado, así como los civiles.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JULIO DE 2001)</small>
 
 ###### Artículo 183.
 
@@ -2571,7 +2573,7 @@ Para el desempeño de las funciones de la administración pública municipal, el
 
 Para los efectos del artículo anterior, se creará un comité de adquisiciones, enajenaciones, arrendamientos y contratación de servicios, el cual se integrará con un regidor de cada una de las diversas fuerzas políticas que constituyan el Ayuntamiento y los servidores públicos que determine el mismo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2008)</small>
 
@@ -2605,13 +2607,13 @@ En lo no previsto en esta Ley, se aplicará supletoriamente, la Ley de Adquisici
 
 El Ayuntamiento aprobará su presupuesto de egresos, que regirá del 1o. de enero hasta el 31 de diciembre del ejercicio fiscal correspondiente, debiendo publicarlo para conocimiento de la población dentro de los primeros quince días hábiles de enero, en el periódico de mayor circulación en el Municipio o en otros medios de comunicación que se estimen convenientes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2010)</small>
 
 En el proyecto de presupuesto de egresos municipal se deberán prever, en un apartado específico, las erogaciones plurianuales para proyectos de inversión pública municipal en términos del artículo 69, fracción IV inciso b, de esta ley, hasta por el monto que proponga el presidente municipal, tomando en consideración los criterios generales de política económica para el año en cuestión y las erogaciones plurianuales aprobadas en ejercicios anteriores. En dicho apartado podrán incluirse los proyectos de prestación de servicios aprobados por el Congreso del Estado, de conformidad con lo previsto en la Ley de Proyectos de Prestación de Servicios para el Estado y los Municipios de Guanajuato. En todo caso, las asignaciones de recursos de los ejercicios fiscales subsecuentes a la aprobación de dichas erogaciones deberán incluirse en el presupuesto de egresos municipal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 197.
 
@@ -2683,7 +2685,7 @@ IX.- Medios de impugnación; y
 
 X.- Transitorios, en donde se deberá establecer, entre otras previsiones, la fecha en que inicie su vigencia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2008)</small>
 
@@ -2729,7 +2731,7 @@ Los bandos de policía y buen gobierno, reglamentos, circulares y disposiciones 
 
 ## TITULO DECIMO
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE DICIEMBRE DE 2007)</small>
 
 ### CAPITULO PRIMERO. DE LA JUSTICIA ADMINISTRATIVA MUNICIPAL
 
@@ -2739,19 +2741,19 @@ Los bandos de policía y buen gobierno, reglamentos, circulares y disposiciones 
 
 La Justicia Administrativa en los municipios del Estado de Guanajuato se imparte a través de los Juzgados Administrativos Municipales, conforme a las disposiciones del Código de Procedimiento y Justicia Administrativa para el Estado y los Municipios de Guanajuato.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2008)</small>
 
 En cada Municipio existirá al menos un Juzgado Administrativo Municipal con el personal y los recursos materiales y presupuestales adecuados y necesarios para el ejercicio de su función, en los términos del presente Título.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2008)</small>
 
 Dos o más municipios podrán asociarse y coordinarse entre sí, para crear un Juzgado Administrativo Regional, cuya jurisdicción abarcará al territorio de los municipios que acuerden su creación. En el convenio respectivo los municipios podrán acordar la creación de una Unidad de la Defensoría de Oficio Regional en materia administrativa municipal, la que ejercerá sus funciones en la misma jurisdicción de aquél.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2008)</small>
 
@@ -2819,13 +2821,13 @@ Las resoluciones de los Juzgados Administrativos Municipales que pongan fin al p
 
 (DEROGADO, P.O. 25 DE DICIEMBRE DE 2007)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
 ### CAPITULO TERCERO. DE LOS JUZGADOS ADMINISTRATIVOS MUNICIPALES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 216.
 
@@ -2835,7 +2837,7 @@ Los juzgados administrativos municipales son depositarios de la función jurisdi
 
 La actuación de los juzgados administrativos municipales se sujetará a los principios de igualdad, publicidad, audiencia y legalidad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2008)</small>
 
@@ -2855,7 +2857,7 @@ Las ausencias del secretario de estudio y cuenta hasta por seis meses serán sup
 
 Las ausencias del actuario mayores a quince días y hasta por seis meses serán suplidas por la persona que designe el juez administrativo municipal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2008)</small>
 
@@ -2881,7 +2883,7 @@ IX.- Rendir al Ayuntamiento un informe anual de labores; y
 
 X.- Las demás que les confiera el Código de Procedimiento y Justicia Administrativa para el Estado y los Municipios de Guanajuato.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2008)</small>
 
@@ -2907,7 +2909,7 @@ IX.- Asentar las ratificaciones de las representaciones que otorguen los particu
 
 X.- Las demás atribuciones que les confiera esta Ley y el Código de Procedimiento y Justicia Administrativa para el Estado y los Municipios de Guanajuato.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2008)</small>
 
@@ -2921,13 +2923,13 @@ III.- Levantar las actas correspondientes a las diligencias que practiquen; y
 
 IV.- Las demás atribuciones que les confiera esta Ley y el Código de Procedimiento y Justicia Administrativa para el Estado y los Municipios de Guanajuato.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2008)</small>
 
 Artículo 216 E.- Los jueces, los secretarios de estudio y cuenta y los actuarios no podrán ejercer la profesión de abogado, sino en negocio propio, de su cónyuge, de sus ascendientes o descendientes, sin limitación de grado, ni desempeñar otro empleo o cargo público o privado, a excepción de los docentes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2008)</small>
 
@@ -2941,7 +2943,7 @@ III.- Faltar a la verdad en los informes que rindan o en los datos que proporcio
 
 IV.- Obstaculizar la práctica de diligencias.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2008)</small>
 
@@ -2949,7 +2951,7 @@ IV.- Obstaculizar la práctica de diligencias.
 
 En el presupuesto de egresos deberán preverse los recursos materiales y humanos necesarios y suficientes, con los que deberá contar el Juzgado Administrativo Municipal para el ejercicio de su función.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2008)</small>
 
@@ -2957,7 +2959,7 @@ En el presupuesto de egresos deberán preverse los recursos materiales y humanos
 
 Los jueces administrativos municipales serán nombrados por el Ayuntamiento, por mayoría calificada, de entre la terna que presente el presidente municipal, previa convocatoria pública y únicamente podrán ser removidos en los términos del artículo 110 B de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2008)</small>
 
@@ -2977,19 +2979,19 @@ V.- Preferentemente haber cursado la especialidad en justicia administrativa, de
 
 Los actuarios deberán satisfacer los requisitos señalados en las fracciones anteriores, con excepción de la práctica profesional.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE OCTUBRE DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE OCTUBRE DE 2008)</small>
 
 ### CAPITULO CUARTO. DE LA PROCURACION DE JUSTICIA EN MATERIA ADMINISTRATIVA MUNICIPAL
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2008)</small>
 
 Artículo 219 A.- Las defensorías de oficio en materia administrativa municipal son los órganos técnico especializados adscritos al Juzgado Administrativo Municipal, autónomas en su actividad, encargadas de asesorar y representar a los gobernados en las controversias administrativas y fiscales que se presenten contra las autoridades municipales, mediante el proceso ante los juzgados administrativos municipales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2008)</small>
 
@@ -2999,21 +3001,21 @@ I.- Con uno o varios defensores de oficio; y
 
 II.- Con el personal administrativo que autorice el presupuesto de egresos municipal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2008)</small>
 
 Artículo 219 C.- Los defensores de oficio serán nombrados y removidos siguiendo el procedimiento previsto por el artículo 218 de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2008)</small>
 
 Artículo 219 D.- Los defensores de oficio deberán reunir los requisitos previstos en el artículo 219 de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-(REUBICADO [N. DE E. ANTES CAPITULO CUARTO], P.O. 24 DE OCTUBRE DE 2008)
+(REUBICADO [N. DE E. ANTES CAPÍTULO CUARTO], P.O. 24 DE OCTUBRE DE 2008)
 
 ### CAPITULO QUINTO. DE LAS INFRACCIONES Y SANCIONES
 
@@ -3087,7 +3089,7 @@ EL SECRETARIO DE GOBIERNO
 
 RAMON MARTIN HUERTA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 28 DE DICIEMBRE DE 1999.
 
@@ -3190,3 +3192,35 @@ Los ayuntamientos contarán con un plazo que no excederá de 180 días contados 
 P.O. 12 DE AGOSTO DE 2011.
 
 Artículo Único. La adición del artículo 149 B entrará en vigencia de manera sucesiva conforme se implemente el sistema procesal penal acusatorio en el Estado de Guanajuato, de acuerdo a las regiones que establece el Artículo Primero Transitorio de la Ley del Proceso Penal para el Estado de Guanajuato.
+
+P.O. 11 DE SEPTIEMBRE DE 2012.
+
+Vigencia
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación de la ley
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Orgánica Municipal para el estado de Guanajuato, expedida mediante decreto número 350, de fecha 30 de junio de 1997, publicada en el Periódico Oficial del Gobierno del Estado, de fecha 25 de julio de 1997.
+
+Adecuación normativa
+
+###### ARTÍCULO TERCERO.
+
+Los ayuntamientos deberán realizar las adecuaciones a los reglamentos respectivos dentro de los sesenta días siguientes a la entrada en vigor del presente decreto.
+
+Previsiones presupuestarias en materia de justicia administrativa
+
+###### ARTÍCULO CUARTO.
+
+Los ayuntamientos proveerán lo necesario para la difusión y capacitación en materia de justicia administrativa municipal.
+
+Previsión para la designación del contralor
+
+###### ARTÍCULO QUINTO.
+
+La designación del contralor municipal, para la administración municipal 2012-2015; se realizará de conformidad con el mecanismo vigente al primero de julio de 2012.
