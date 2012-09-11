@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "2012-02-10"
+last_updated: "2012-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GUA"
 
 CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2011.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 10 DE FEBRERO DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2012.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -585,7 +583,7 @@ La madre no puede dejar de reconocer a su hijo, la filiación con respecto a és
 
 En las actas de nacimiento por ningún concepto se asentarán palabras que califiquen a la persona registrada. En cualquier acta de nacimiento que contenga dicha nota se testará de oficio por el Oficial del Registro Civil que la tenga a su cargo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2008)</small>
 
 ###### Art. 73.
 
@@ -843,11 +841,15 @@ En caso de que alguno ó ambos pretendientes sean menores de edad, la solicitud 
 
 A la solicitud a que se refiere el artículo anterior, se acompañarán los requisitos que establezca el Reglamento del Registro Civil.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Art. 103.
 
-Recibida la solicitud y cumplidos los requisitos, el Oficial del Registro Civil informará a los pretendientes, los derechos y obligaciones que nacen del matrimonio, de los efectos que produce éste respecto a los bienes y con relación a los hijos, además de información sobre salud reproductiva y planificación familiar.
+Recibida la solicitud y cumplidos los requisitos, el Registro Civil, previamente a la celebración del matrimonio, deberá impartir una plática gratuita de al menos dos horas a los pretendientes, en la que se les hará saber los derechos y obligaciones que nacen del matrimonio, y los efectos que produce éste respecto a los bienes y con relación a los hijos, además se les dará información sobre salud reproductiva y planificación familiar, así como de prevención, detección, atención, sanción y erradicación de violencia intrafamiliar. De la impartición de dicha plática deberá levantarse constancia que firmarán los pretendientes.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
 La Dirección General del Registro Civil, podrá celebrar convenios de colaboración con las instancias competentes para llevar a cabo lo establecido en el párrafo anterior.
 
@@ -3341,7 +3343,7 @@ La patria potestad sobre los hijos de matrimonio se ejerce por el padre y la mad
 
 I. Cuando haya abuelos por ambas líneas, el juez los escuchará y decidirá lo que sea más conveniente a los menores, tomando en cuenta la mayor identificación afectiva, las condiciones físicas y morales de los abuelos, su estabilidad económica y siempre que fuere posible, la opinión del menor. El ejercicio de la acción respectiva corresponde a cualquiera de los abuelos y en su defecto al ministerio público.
 
-En cuanto atenga conocimiento del asunto el juez tomará las medidas necesarias en relación a la custodia de los menores, mientras se decide sobre la patria potestad;
+En cuanto tenga conocimiento del asunto, el juez tomará las medidas necesarias en relación a la custodia de los menores, mientras se decide sobre la patria potestad;
 
 > <small>(REFORMADA, P.O. 10 DE JUNIO DE 2005)</small>
 
@@ -3411,13 +3413,13 @@ Mientras estuviere el hijo en la patria potestad, no podrá dejar la casa de los
 
 A las personas que tienen al hijo bajo su patria potestad incumbe la obligación de educarlo convenientemente. Cuando llegue a conocimiento del Agente del Ministerio Público o, en su caso, de la Procuraduría en Materia de Asistencia Social, que las personas de que se trata no cumplen con esta obligación, promoverá lo que corresponda.
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Art. 477.
 
-Los que ejercen la patria potestad tienen la obligación de educar y corregir a los hijos menores, así como de observar una conducta que sirva a éstos de buen ejemplo. Corregir no implica afectar al menor en su integridad física o psíquica.
+Los que ejercen la patria potestad tienen la obligación del cuidado, desarrollo y educación integral de las personas sobre las que recae su ejercicio.
 
-Las autoridades auxiliarán a los padres en el ejercicio de la patria potestad, de manera prudente y moderada, siempre que sean requeridas para ello.
+Las autoridades auxiliarán a quienes ejercen la patria potestad, de manera prudente y moderada, siempre que sean requeridas para ello.
 
 ###### Art. 478.
 
@@ -6047,361 +6049,225 @@ Parte Primera
 
 Disposiciones generales
 
-> <small>(ADICIONADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 972.
 
-Se le denominará condominio al conjunto de edificios, de departamentos, de pisos, de viviendas, de casas, de locales, de naves de un inmueble, de lotes de terreno, así como de terrenos delimitados en los que hubiere servicios de infraestructura urbana, construidos en forma vertical, horizontal o mixta, susceptibles de aprovechamiento independiente por tener salida propia a un elemento común de aquél o a la vía pública y que pertenecieran a distintos propietarios, los que tendrán un derecho singular y exclusivo de propiedad sobre una unidad de propiedad exclusiva y, además, un derecho de copropiedad sobre los elementos y partes comunes del inmueble, necesarios para su adecuado uso y disfrute.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
-El régimen de propiedad en condominio puede originarse:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-I. Cuando se construya un edificio para vender a personas distintas los diferentes pisos, departamentos, viviendas o locales de que conste el mismo;
+Art. 972 A. (DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
-II. Cuando el propietario o propietarios de un edificio, lo dividan en locales susceptibles de aprovechamiento independiente para venderlos a distintas personas;
-
-III. Cuando el propietario de un terreno se proponga construir en él un edificio dividido en pisos, departamentos, viviendas o locales;
-
-IV. Cuando los distintos copropietarios de un edificio decidan dividirlo en partes susceptibles de aprovechamiento independiente, adjudicándoselas por separado, saliendo así de la indivisión;
-
-V. Por testamento en el que el testador constituya el régimen, o fije las bases para constituirlo;
-
-> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2006)</small>
-
-VI. Cuando el propietario o propietarios de un lote de terreno decidan construirlo como un condominio horizontal, ya sea con viviendas o lotes de terrenos;
-
-> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2006)</small>
-
-VII. Cuando dos o más propietarios tengan lotes de terreno en común, áreas verdes, áreas deportivas, educativas, derechos de paso o vialidades comunes, parques y servicios y decidan administrarlos como condominio;
-
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
-
-VIII. En los demás casos que lo señale la ley.
-
-> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2006)</small>
-
-Art. 972 A. Se denomina conjunto condominal a la agrupación de dos o más condominios, construidos o establecidos en uno o varios inmuebles que formen una unidad, siempre que dichos condominios, conserven para sí áreas de uso exclusivo; y compartan accesos o vialidades y áreas comunes al conjunto, tales como: parques, áreas verdes y equipamiento y otros similares.
-
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 973.
 
-El régimen de propiedad en condominio, se constituirá independientemente del número de plantas que tengan los edificios o casas, o el número de casas o lotes de terreno que se encuentren dentro de éste.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
-El conjunto condominal podrá constituirse con independencia del número de edificios, plantas de cada edificio o construcción, número de casas, departamentos, pisos, locales, naves, lotes de terreno delimitados o lotes de terreno que integren cada uno de los condominios que forman el conjunto; y del tipo de condominio integrados.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 974.
 
-Para constituir un régimen de condominio o un conjunto condominal, el propietario o propietarios, deberán declarar su voluntad en escritura pública, la que necesariamente incluirá:
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
-I. La situación, dimensiones y linderos del terreno así como una descripción general del edificio;
-
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
-
-II. La descripción de cada edificio, departamento, piso, vivienda, casa, local, nave de inmueble, lote de terreno o terreno delimitado; su número, situación, medidas, piezas de que consta, anexos, tales como estacionamiento, cuarto de servicio, tendederos, y demás datos necesarios para identificarlo;
-
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
-
-III. El valor total del inmueble, el valor de cada edificio, departamento, piso, vivienda, casa, local, nave de inmueble, lote de terreno o terreno delimitado y, consecuentemente, el porcentaje que corresponda a cada propiedad en el valor total;
-
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
-
-IV. El destino general del edificio y el especial de cada departamento, piso, vivienda, casa, local, nave de inmueble, terreno o terreno delimitado;
-
-V. Los bienes de propiedad común, su destino, con la especificación y detalles necesarios y, en su caso, su situación, medidas, partes de que se compongan, características y demás datos necesarios para su identificación;
-
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
-
-VI. Contar con las autorizaciones y permisos que expidan las autoridades competentes, en los términos de las leyes y reglamentos aplicables. En el caso de edificios solamente proyectados, o que no se encuentren aún terminados, bastará con que en la escritura se haga constar la aprobación por las autoridades indicadas en este inciso, de los planos y proyectos del edificio, debiendo observarse, al ser terminado el inmueble, lo preceptuado por la segunda parte del artículo 977 de este Código. Lo prescrito en esta fracción deberá observarse en los casos de reformas a la escritura constitutiva del régimen de condominio, cuando la modificación implique alteración en la distribución del edificio;
-
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 1983)</small>
-
-VII. Constancia de que al Apéndice del Protocolo Notarial, así cmo (sic) al testimonio de la escritura constitutiva, se adjuntan:
-
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
-
-a).- Plano general del condominio o del conjunto condominal;
-
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
-
-b).- Planos particulares correspondientes a cada una de las plantas, en los que se especifiquen los departamentos, pisos, viviendas, casas, locales, naves de un inmueble, lote de terreno o terreno delimitado de propiedad privada, así como las áreas de propiedad común;
-
-c).- Plano sanitario.
-
-d).- Plano de la instalación eléctrica.
-
-Todos los planos anteriores deberán estar aprobados por las autoridades respectivas.
-
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
-
-e).- El Reglamento de Funcionamiento y Administración del Condominio o del Conjunto Condonimal, en el que se pormenorizarán los derechos y obligaciones de los condóminos y administradores;
-
-VIII. (DEROGADA, P.O. 19 DE AGOSTO DE 1983)
-
-> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2006)</small>
-
-IX. En su caso, la especificación del número de condominios que integrarán el conjunto condominal, determinando las características generales, áreas exclusivas y áreas comunes de cada condominio; así como de las áreas de uso exclusivo de cada condominio; y los accesos o vialidades y demás áreas comunes al conjunto.
-
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 975.
 
-Solamente por acuerdo unánime de los propietarios se podrá modificar lo dispuesto en la escritura de que se ocupa el artículo anterior, en materia de destino general de la propiedad exclusiva en el condominio o conjunto condominal.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 976.
 
-Declarada la voluntad a que se refiere el artículo 974 y desde el momento en que se grave o enajene una de las propiedades exclusivas, el régimen de condominio o conjunto condominal surtirá todos sus efectos entre los otorgantes y sólo podrá extinguirse o modificarse por las causas que se señalan en este Código.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 977.
 
-La escritura constitutiva del régimen de condominio o del conjunto condominal, se inscribirá en el Registro Público de la Propiedad para que produzcan efectos con relación a terceros.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
-En el caso de inmuebles solamente proyectados, o que no se encuentren aún terminados, deberá hacerse constar expresamente esta circunstancia en el Registro Público. Al ser concluido el inmueble, el propietario o propietarios deberán declarar este hecho ante notario público, presentándole las constancias administrativas que autoricen la ocupación del inmueble. El acta que levante el notario deberá inscribirse en el Registro Público de la Propiedad.
-
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 978.
 
-Establecido el régimen de condominio o el conjunto condominal, sólo se podrá extinguir o modificar por acuerdo de quienes representen el setenta y cinco por ciento de su valor total, tomado en asamblea con la representación de por lo menos el sesenta y seis por ciento de los condóminos. En caso de concentración en una sola persona de todos los edificios, departamentos, pisos, viviendas, casas, locales, naves de un inmueble, lotes de terreno o terrenos delimitados, el régimen de condominio o de conjunto condominal sólo se extinguirá si el condómino hace declaración de voluntad en tal sentido.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
-Los inconformes siempre que representen el veinticinco por ciento de los condóminos y la cuarta parte del valor del inmueble, pueden oponerse a la modificación del régimen de condominio o conjunto condominal, haciendo del conocimiento de la autoridad judicial sus razones dentro de los treinta días siguientes a la fecha de la asamblea.
-
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 979.
 
-La extinción o modificación del régimen de condominio y del régimen del conjunto condominal se hará constar en escritura pública, la cual deberá inscribirse en el Registro Público de la Propiedad.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
 Parte Segunda
 
 De los bienes propios
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 980.
 
-Cada condómino será dueño exclusivo de su edificio, departamento, piso, vivienda, casa, local, nave de un inmueble, lote de terreno o delimitado, y copropietario de los elementos que sean necesarios o convenientes para la existencia estructural, seguridad, comodidad de acceso, recreo, ornato o cualquier otro fin semejante dentro del edificio o dentro del condominio o conjunto condominal.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
-Son condóminos las personas físicas o morales que sean titulares de los derechos sobre una propiedad exclusiva dentro del condominio o conjunto condominal en términos de este artículo.
-
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 981.
 
-El condómino puede usar, gozar y disponer de su propiedad exclusiva con las limitaciones y prohibiciones de este código y con las demás que se establezcan en la escritura constitutiva del régimen y en el reglamento mencionado en el artículo 974.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 982.
 
-Cada condómino podrá enajenar, hipotecar o gravar en cualquiera otra forma, su propiedad exclusiva sin necesidad del consentimiento de los demás condóminos. En la enajenación, gravamen o embargo de la propiedad exclusiva se entenderán comprendidos invariablemente los derechos sobre los bienes comunes que le son anexos.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 983.
 
-En caso de que una propiedad exclusiva se ponga en venta, los demás condóminos no disfrutarán del derecho al tanto.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 984.
 
-Cuando existan vicios ocultos en la propiedad exclusiva, la acción del condómino para hacer valer sus derechos contra el vendedor prescribirá en cinco años contados a partir del momento en que entre en posesión física o jurídica de dicha propiedad.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
 ###### Art. 985.
 
 (DEROGADO, P.O. 16 DE JUNIO DE 2006)
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 986.
 
-Cada condómino usará de su propiedad exclusiva en forma ordenada y tranquila. No podrá, en consecuencia, destinarlo a usos contrarios a la moral o a las buenas costumbres; ni hacerlo servir a otros objetos que los establecidos expresamente en la escritura constitutiva del régimen de condominio o conjunto condominal y en el Reglamento de Funcionamiento y Administración respectivo; y en caso de duda, a aquellos que deban presumirse conforme a la naturaleza del inmueble y su ubicación; ni efectuar acto alguno que perturbe la tranquilidad de los demás propietarios a que comprometa total o parcialmente la solidez, seguridad, salubridad o comodidad del condominio o del conjunto condominal; ni incurrir en omisiones que produzcan los mismos resultados.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 987.
 
-Los titulares de una propiedad exclusiva ubicados en la planta baja o en el último piso no tendrán más derecho que los restantes condóminos, y por lo mismo no podrán hacer excavaciones u otras obras en el subsuelo ni elevar nuevos pisos o realizar construcciones en la azotea. Salvo que lo establezca la escritura constitutiva del régimen de condominio o del conjunto condominal, o su Reglamento de Funcionamiento y Administración, ningún condómino podrá ocupar los vestíbulos, jardines, patios y otros lugares especiales de la planta baja, ni los sótanos, ni el subsuelo, ni tampoco ocupar la azotea o techo.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 988.
 
-Cada condómino podrá hacer toda clase de obras y reparaciones en el interior de su propiedad exclusiva, pero le estará prohibida toda innovación o modificación que afecte a la estructura, paredes maestras y otros elementos esenciales del condominio, o que pueda perjudicar a su solidez, seguridad, salubridad o comodidad. Tampoco podrá abrir luces a ventanas, ni pintar o decorar la fachada o las paredes exteriores en forma que afecte el conjunto o que perjudique total o parcialmente a la estética general del condominio. En cuanto a los servicios comunes e instalaciones generales, el condómino deberá abstenerse de todo acto, aún en el interior de su propiedad, que impida o haga menos eficaz su operación.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
-Los condóminos deberán permitir la realización de las obras o reparaciones generales en el condominio o conjunto condominal, aún dentro de su propiedad.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 989.
 
-En las escrituras de enajenación de cada propiedad exclusiva, se hará referencia a la escritura constitutiva del régimen que exige el artículo 974 de este código, y al apéndice de documentos del protocolo del notario que autorice, se agregará un ejemplar, firmado por los otorgantes, del Reglamento de Funcionamiento y Administración del Condominio o del Conjunto Condominal. En los testimonios, podrá insertarse dicho reglamento o bien se agregará a cada uno de ellos un ejemplar del mismo, certificado por notario.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
-Asimismo, en estas escrituras el notario deberá tener a la vista y agregar al apéndice de su protocolo una certificación, expedida por el Administrador del edificio, en la que conste que el enajenante está al corriente en sus pagos por gastos comunes, o en su caso los adeudos que tenga por este concepto.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 990.
 
-Para que se inscriba en el Registro Público de la Propiedad la escritura de compraventa de un piso, departamento, vivienda o local, será necesario que la escritura constitutiva del régimen se haya inscrito previamente en el mencionado Registro.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 991.
 
-Cuando se hipoteque un edificio, un conjunto de pisos, viviendas, casas, locales, naves de un inmueble, lotes de terreno o terrenos delimitados, sujetos al régimen de condominio o al régimen de conjunto condominal, para la seguridad del crédito, se determinará en que porción del crédito responderá cada unidad privativa, pudiendo redimirse el gravamen de cada uno de ellos, mediante el pago de la parte del crédito que garantiza. En ausencia de la determinación anterior se considerará que las distintas unidades privativas responden del crédito en la misma proporción que cada edificio, departamento, piso, vivienda, casa, local, lote de terreno o terreno delimitado, represente sobre el valor total del condominio.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 992.
 
-Cuando un edificio, o conjunto de departamentos, pisos, viviendas, casas, locales, naves de un inmueble, lotes de terreno o terrenos delimitados hipotecados se someta al régimen de condominio o régimen de conjunto condominal, se repartirá equitativamente el gravamen hipotecario entre las distintas partes privativas del condominio. Al efecto deberá existir acuerdo entre los condóminos y el acreedor hipotecario, y si no se consiguiere ese acuerdo, la distribución del gravamen se hará por decisión judicial, previa audiencia de peritos.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 993.
 
-Cada uno de los condóminos responderá sólo del gravamen que corresponde a su propiedad exclusiva.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
 Parte Tercera
 
 De los bienes comunes
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### Art. 994.
 
-El derecho de cada copropietario sobre los bienes comunes a todos los dueños será proporcional al valor de su parte privativa, fijada en la escritura constitutiva del régimen de condominio.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 995.
 
-Son necesariamente comunes a todos los dueños de propiedades privativas las siguientes partes del inmueble:
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
-I. El suelo y el subsuelo; este último con las excepciones contenidas en el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos;
-
-II. Los cimientos, estructuras, paredes maestras y fachadas del edificio;
-
-III. El techo del inmueble, así como las terrazas o áticos que sirven de cubierta a algún cuerpo de la construcción, aun cuando pueden ser destinados al uso exclusivo del propietario de alguna parte privativa;
-
-IV. Las puertas de entrada, vestíbulos, escalera, pasillos y corredores que sean indispensables para el acceso a las partes privativas;
-
-V. Las instalaciones generales de agua potable, electricidad, teléfonos, desagüe, calefacción, gas y cualquiera otras semejantes así como los sistemas de almacenamiento general, tubos, albañales, canales, ductos y alambres de distribución que formen parte de dichas instalaciones generales, con excepción de las que se encuentran en el interior de alguna unidad privativa.
-
-Se presumen bienes comunes, salvo disposición en contrario contenida en la escritura constitutiva del régimen de condominio, o adoptada posteriormente, por acuerdo unánime de los propietarios de unidades privativas, los siguientes bienes:
-
-a) Los patios y jardines pertenecientes al inmueble;
-
-b) Los locales destinados a la administración, a la portería, al alojamiento del portero y al estacionamiento, así como los sótanos cuando se empleen para servicios generales del edificio;
-
-c) Las fosas, pozos, cisternas, tinacos, ascensores, montacargas, incineradores, estufas, hornos, bombas, motores y cualesquiera otras obras, instalaciones, aparatos u objetos que sirvan al uso o disfrute común; y
-
-d) En general, las cosas que no se encuentren afectadas al uso exclusivo de cualquiera de los propietarios.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 996.
 
-Las cosas necesarias o convenientes para la seguridad, salubridad y conservación de determinadas partes privativas, o para permitir o facilitar su uso o goce, serán comunes solamente a los propietarios de dichas unidades privativas, siempre que se acuerde expresamente así, por la totalidad de los dueños de los locales que integran el edificio, o bien que así conste en la escritura constitutiva del régimen de condominio.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
-Los techopisos entre dos plantas del edificio y los muros u otras divisiones que separen entre sí unidades privativas se considerarán de propiedad común de los dueños de dichas localidades.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 997.
 
-Los bienes comunes no podrán ser objeto de acción divisoria, salvo en los casos previstos en el Capítulo Séptimo de esta Sección.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 998.
 
-Los derechos de cada condómino sobre los bienes de propiedad común son inseparables de su propiedad individual cuyo uso o goce permitan o faciliten, por lo que sólo podrán enajenarse, gravarse o ser embargados, juntamente con su derecho de propiedad exclusiva.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 999.
 
-Aunque un condómino haga abandono de sus derechos sobre los bienes comunes o renuncie a usar determinadas partes de propiedad colectiva, continuará sujeto a las obligaciones que le impone este Código y las demás que se establezcan en la escritura constitutiva del régimen de condominio o conjunto condominal, y en su Reglamento de Funcionamiento y Administración.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
-Los condóminos pueden liberarse de tales obligaciones mediante el abandono de su unidad privativa.
-
-En tal caso el abandono se entiende realizado en favor de los condóminos restantes, y el bien abandonado pertenecerá en copropiedad a éstos, en proporción al porcentaje que les corresponde en el valor total del condominio.
-
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 1000.
 
-Cada condómino podrá servirse de los bienes comunes y gozar de los servicios e instalaciones generales conforme a su naturaleza y destino ordinarios, sin restringir o hacer más oneroso el derecho de los demás.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 1001.
 
-Para las obras en los bienes comunes e instalaciones generales se observarán las siguientes reglas:
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
-
-I. Las obras necesarias para mantener el condominio en buen estado de conservación y para que los servicios funcionen normal y eficazmente se ejecutarán por el administrador sin necesidad de previo acuerdo de los condóminos, con cargo al presupuesto de gastos respectivos. Cuando éste no baste o sea preciso efectuar obras no previstas, el administrador convocará a la asamblea de condóminos a fin de que resuelva lo conveniente;
-
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
-
-II. Para emprender obras puramente voluntarias, que aun cuando se traduzcan en mejor aspecto o mayor comodidad no aumenten el valor del condominio u obras que sin ser necesarias aumenten el valor del edificio se requerirá el voto aprobatorio de la totalidad de los condóminos;
-
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
-
-III. Los condóminos no podrán emprender ni realizar obra alguna en los bienes comunes e instalaciones generales, excepto las reparaciones o reposiciones urgentes, en caso de falta del administrador. En este último caso tendrán derecho a repetir de los demás el pago proporcional de los gastos hechos, mediante las justificaciones pertinentes;
-
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
-
-IV. Se prohíbe la realización de obras que puedan poner en peligro la solidez o seguridad del condominio, las que impidan permanentemente el uso de una parte o servicio común, aunque sea a un solo dueño, o las que demeriten cualquier localidad privativa.
-
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 1002.
 
-Cada condómino debe contribuir en la proporción que represente su parte privativa en el valor del condominio, a los gastos de la administración, conservación y operación de los bienes y servicios comunes.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
-Para el caso de que incumplan los condóminos con la obligación señalada en el párrafo anterior, se podrá exigir el pago de conformidad a lo señalado en el Título Sexto, del Libro Segundo del Código de Procedimientos Civiles para el Estado de Guanajuato, en cuyo caso el demandado sólo podrá oponer las siguientes excepciones:
-
-I. Pago o compensación;
-
-II. Remisión o quita;
-
-III. Oferta de no cobro o de espera;
-
-IV. Cosa Juzgada;
-
-V. Las personales que pueda oponer el deudor.
-
-En caso de que las construcciones que forman el condominio, causen daños a terceros, los dueños de las distintas partes privativas responderán mancomunadamente, en proporción al valor que su unidad privativa represente en relación con el valor total del condominio y del monto del valor que resulte por concepto de responsabilidad civil.
-
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 1003.
 
-Tratándose de bienes comunes exclusivamente para algunos condóminos, como en el caso de los techos pisos medianeros y las paredes u otras divisiones que tengan el mismo carácter, los gastos originados por dichos bienes serán por cuenta de los condóminos respectivos.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
-Los condóminos del último piso, o de los departamentos, viviendas o locales situados en él, costearán las obras de los techos solo en su parte interior; y los condóminos de la planta baja o departamento, viviendas o locales que formen parte de ella, las obras que necesiten los suelos o pavimentos, sólo en la parte que esté dentro de su propiedad.
-
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 1004.
 
-Cuando se trate de cosas o servicios que beneficien a los condóminos en proporciones diversas, los gastos podrán repartirse en relación con el uso que cada uno haga de aquéllos.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
-Cuando una construcción, conste de diferentes partes o comprenda obras o instalaciones, cualesquiera que sean, destinadas a servir únicamente a una parte del conjunto, podrá establecerse en la escritura constitutiva del régimen de condominio o de conjunto condominal o en su Reglamento de Funcionamiento y Administración, que los gastos especiales relativos serán a cargo del grupo de condóminos beneficiados. También en el caso de las escaleras, ascensores, montacargas y otros elementos, aparatos o instalaciones cuya utilización será variable por los condóminos, podrán establecerse normas especiales para el reparto de los gastos.
-
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 1005.
 
-Cuando en el condominio existan vicios ocultos que afecten a los bienes comunes, y no sea posible obtener reparación o indemnización del vendedor, las obras necesarias para la reparación del inmueble serán por cuenta de todos los condóminos en la proporción del valor de los bienes privados que cada uno represente sobre el valor total del mismo condominio.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 1006.
 
-Las cuotas para gastos comunes que los condóminos no cubran oportunamente, causarán intereses al tipo que fije el Reglamento de Funcionamiento y Administración del Condominio o del Conjunto Condominal, o los legales si éste es omiso.
-
-El acta de la asamblea en que se acuerde el pago de cuotas anticipadas o en la que se distribuyan los gastos ya efectuados, protocolizada ante notario público, servirá de título ejecutivo para exigirlos en juicio civil a los remisos. Para acreditar la liquidez y el plazo cumplido de la deuda bastará con el cotejo que practique y la certificación que expida el Juez, o un notario, de la partida deudora a cargo del remiso en la contabilidad que lleve la administración del condominio. La falsedad en los asientos que sirvan de base para el cotejo, se castigará penalmente con las sanciones establecidas para los delitos de fraude y falsificación.
-
-Los créditos por concepto de cuotas para los gastos comunes seguirán siempre al dominio de los respectivos edificios, departamentos, pisos, viviendas, casas, locales, naves de un inmueble, lotes de terreno o terrenos delimitados, aun cuando se transmitan a terceros. En caso de concurso de acreedores los adeudos a que se refiere este artículo gozarán del privilegio establecido para los acreedores con garantía hipotecaria, debiendo ser pagados preferentemente con el importe de la venta de la localidad del deudor; cuando se trate de gastos motivados por las obras a que se refiere la fracción II del artículo 1001 de este código, procederá el privilegio, siempre y cuando dichos gastos se encuentren acordados en resoluciones de asamblea celebrada con anterioridad al concurso.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 16 DE JUNIO DE 2006)</small>
 
@@ -6409,295 +6275,195 @@ Parte Cuarta
 
 Del Reglamento de Funcionamiento y Administración del Condominio o del Conjunto Condominal
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 1007.
 
-El Reglamento de Funcionamiento y Administración del Condominio o del Conjunto Condominal determinará, en los casos en que la ley lo permita, los derechos y obligaciones de cada uno de los condóminos, las modalidades del funcionamiento de los servicios del inmueble y las limitaciones a que queda sujeto el ejercicio del derecho de usar tanto los bienes comunes como los propios. La administración del condominio o del conjunto condominal se sujetará a las disposiciones del Reglamento de Funcionamiento y Administración y a los acuerdos de la asamblea de condóminos.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
-Cuando se trate de desarrollo en condominio en lotes de terreno o en terrenos delimitados, el Reglamento de Funcionamiento y Administración del Condominio o Conjunto Condominal determinará las características generales y arquitectónicas del edificio, departamento, piso, vivienda, casa, local o nave de un inmueble que habrán de construirse sobre éstos.
-
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 1008.
 
-Cualquier adquirente u ocupante de una unidad privativa, del condominio, está obligado a sujetarse al Reglamento de Funcionamiento y Administración del Condominio o del Conjunto Condominal.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
-En los contratos de arrendamiento, y en los documentos en los que conste cualquiera otro acto traslativo de uso sobre una parte privativa, deberá incluirse la obligación de la persona a la que se le transmita el uso, de observar las disposiciones del Reglamento de Funcionamiento y Administración del Condominio o del Conjunto Condominal. Al contrato de que se trate deberá anexarse un ejemplar del reglamento, firmado por las partes.
-
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 1009.
 
-El Reglamento de Funcionamiento y Administración, sólo podrá modificarse mediante acuerdo tomado en asamblea por una mayoría que represente cuando menos el setenta y cinco por ciento del valor del condominio.
-
-Los inconformes siempre que representen el veinticinco por ciento de los condóminos y la cuarta parte del valor del inmueble, pueden oponerse a la reforma del Reglamento de Funcionamiento y Administración, haciendo del conocimiento de la autoridad judicial sus razones dentro de los treinta días siguientes a la fecha de la asamblea.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
 Parte Quinta
 
 De la asamblea y del administrador
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### Art. 1010.
 
-La asamblea es la máxima autoridad del consorcio de propietarios. Constituida válidamente, sus resoluciones son de cumplimiento obligatorio, aún para los ausentes o disidentes, siempre que hubieren sido adoptadas por las mayorías exigidas en esta parte quinta.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 1011.
 
-Las asambleas serán ordinarias o extraordinarias. Ordinarias son las que se ocupan de los asuntos enumerados en el artículo siguiente. Las demás serán extraordinarias. Salvo que el Reglamento de Funcionamiento y Administración disponga otra cosa, las asambleas, tanto ordinarias como extraordinarias, deberán reunirse en el domicilio del inmueble sujeto al régimen de condominio o de conjunto condominal.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 1012.
 
-La asamblea ordinaria se reunirá cuando menos una vez durante los primeros cuatro meses de cada año, en la fecha que fije el administrador y conocerá de la cuenta que deberá rendir el mismo, aprobará el presupuesto de gastos para el siguiente año y determinará la forma en que se arbitrarán los fondos para cubrirlo.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 1013.
 
-El administrador hará la convocatoria para las asambleas la cual deberá contener la orden del día y la hora, fecha y lugar en que deban celebrarse.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-La convocatoria para las asambleas deberá hacerse por medio de la publicación de un aviso en el Periódico Oficial del Gobierno del Estado o en uno de los periódicos de mayor circulación en el lugar en donde se encuentra ubicado el edificio, conjunto de viviendas o conjunto de lotes de terrenos.
+Art. 10014 (sic). (DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
-
-Tratándose de inmuebles divididos en menos de cincuenta unidades privativas la convocatoria podrá hacerse personalmente, recogiendo el administrador las firmas de los condóminos o sus representantes para constancia. En todo caso la convocatoria deberá fijarse en los tableros de la administración del inmueble.
-
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
-
-Cuando se trate de una asamblea ordinaria la convocatoria deberá estar acompañada de la rendición de cuentas del ejercicio vencido y el presupuesto para el ejercicio siguiente. Si dicha convocatoria se ha efectuado mediante publicaciones, deberá hacerse constar en ella que la rendición de cuentas del ejercicio vencido queda a disposición de los condóminos en la administración del condominio.
-
-Entre la fecha de la publicación o notificación de la convocatoria a una asamblea, y el día señalado para ésta, deberán mediar por lo menos diez días. Este término podrá acortarse hasta tres días en los casos urgentes.
-
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
-
-Si el administrador no hace la convocatoria para una asamblea, cuando por disposición de la ley o del Reglamento de Funcionamiento y Administración del Condominio o del Conjunto Condominal, deba hacerla, cualquiera de los condóminos podrá requerirlo para ello, y si en el término de ocho días contados a partir de la fecha del requerimiento, el administrador no convoca a la asamblea este hecho motivará su remoción.
-
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
-
-Los condóminos podrán convocar a asamblea extraordinaria sin intervención del administrador cuando representen, por lo menos, la décima parte del valor del condominio.
-
-Art. 10014 (sic). Los propietarios podrán hacerse representar en las asambleas por mandatarios. El mandato especial para el efecto podrá conferirse en simple carta poder.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 1015.
 
-Para constituir la asamblea presidirá provisionalmente el propietario que represente el mayor porcentaje en el valor total del edificio. El primer acto de la reunión será la elección de un presidente de entre los propietarios presentes. El administrador fungirá como secretario.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
-Designado el presidente, la asamblea procederá a examinar si se halla legalmente constituida, y a continuación a desahogar la orden del día.
-
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 1016.
 
-Para que una asamblea se considere legalmente reunida en virtud de primera convocatoria, deberá estar representada en ella por lo menos el cincuenta y uno por ciento del valor del condominio y sus resoluciones serán válidas cuando se tomen por mayoría de votos de los presentes, a menos de que este capítulo o el Reglamento de Funcionamiento y Administración del Condominio o del Conjunto Condominal establezcan para el caso un número de votos más elevado o la unanimidad.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
-Si las proporciones a que se refiere el párrafo precedente no se obtienen en la primera reunión, se hará una segunda convocatoria con expresión de tal circunstancia y las resoluciones se tomarán validamente por mayoría de votos de los presentes, cualquiera que sea la proporción del valor del condominio, representada en la asamblea, salvo en los casos que este capítulo o el Reglamento de Funcionamiento y Administración del Condominio o del Conjunto Condominal, exijan una mayoría especial o bien la unanimidad.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 1017.
 
-Instalada legalmente una asamblea si no pudiere por falta de tiempo resolver todos los asuntos para los que hubiere sido convocada, podrá suspenderse la reunión para proseguirla en otro u otros días, sin necesidad de nueva convocatoria.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 1018.
 
-Cada condómino gozará de un número de votos igual al porcentaje que el valor de su propiedad exclusiva represente en el total del condominio.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
-
-Cuando se trate de resoluciones relativas a los bienes comunes a que se refiere el artículo 996, sólo tendrán derecho a deliberación y votación los condóminos que tengan derechos sobre ellos. En caso de que el administrador sea uno de los condóminos deberá abstenerse de participar en las deliberaciones o votaciones relativas a su gestión administrativa.
-
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
-
-En caso de copropiedad de una unidad privativa, los condóminos deberán nombrar un representante común para los efectos de la votación, aunque se permitirá la presencia de todos para que deliberen entre sí.
-
-Cuando el usufructo de un local pertenezca a una persona distinta del nudo propietario, ambos podrán concurrir a la asamblea, y en los asuntos relacionados exclusivamente con el uso o goce del local deberá votar el usufructuario.
-
-En todos los demás casos el voto corresponderá al nudo propietario.
-
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
-
-Cuando un sólo condómino represente más del cincuenta por ciento del valor del condominio, y por lo mismo con su solo voto consiga mayoría, para adoptar una resolución será además necesario que el acuerdo se tome por mayoría de votos de los condóminos, computándose en este caso los votos por persona.
-
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
-
-Las votaciones serán económicas, a menos de que cualquier condómino pida que sean nominales o por cédula.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 1019.
 
-De las deliberaciones y resoluciones de la asamblea deberá el secretario levantar un acta la cual contendrá:
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
-I. El lugar, fecha y hora de la reunión y la orden del día propuesta;
-
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
-
-II. La lista de asistencia, en la que deberán figurar las firmas de los condóminos presentes o las de sus representantes, las cuales deberán ser puestas antes de comenzar la asamblea;
-
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
-
-III. El número de votos presentes o representados, apellido y nombre de los condóminos a quienes pertenecen y unidad privativa respectiva;
-
-IV. Constitución de la asamblea, elección del presidente y declaración de validez de su constitución;
-
-V. Texto de las resoluciones adoptadas con expresión de los votos a favor y en contra;
-
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
-
-VI. Las declaraciones o reservas de que cualquiera de los condóminos quisiera dejar constancia.
-
-El acta deberá quedar asentada en el libro respectivo y firmada al final del texto por quienes hayan fungido como presidente y secretario.
-
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 1020.
 
-El administrador enviará a los condóminos, cuando éstos lo soliciten, copia autorizada con su firma del acta de cualquiera de las asambleas celebradas.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 1021.
 
-La asamblea de condóminos nombrará un administrador, quien podrá ser una persona física o moral asignándole su remuneración. El administrador podrá ser alguno de los condóminos o bien una persona extraña.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 1022.
 
-La persona o personas que constituyan el régimen de condominio o conjunto condominal deberán nombrar el primer administrador el cual durará en su encargo hasta en tanto no sea removido por la asamblea de condóminos. Este administrador deberá otorgar fianza por la cantidad que fije el constituyente del régimen de condominio o del conjunto condominal, quien también deberá señalarle su remuneración.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 1023.
 
-El administrador para tomar posesión de su cargo deberá otorgar fianza por la cantidad que fije el Reglamento de Funcionamiento y Administración del Condominio o del Conjunto Condominal o la asamblea de condóminos que lo nombre.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 1024.
 
-El administrador durará en su encargo hasta en tanto no se nombre nuevo administrador y podrá ser removido libremente por el voto de la mayoría de los condóminos reunidos en asamblea en los términos establecidos en este Código.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 1025.
 
-El administrador será el representante legal de los condóminos en todos los asuntos comunes relacionados con el condominio, sea que se promuevan a nombre o en contra de ellos. Tendrá las facultades de representación propias de un apoderado para administrar bienes y para pleitos y cobranzas pero no las especiales o las que requieran cláusula especial conforme a la ley, salvo que se confieran por el Reglamento de Funcionamiento y Administración del Condominio o del Conjunto Condominal o por la asamblea.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
-El administrador, salvo que el Reglamento de Funcionamiento o Administración del Condominio o del Conjunto Condominal o la asamblea disponga otra cosa, tendrá facultades para delegar sus atribuciones en caso de pleitos y cobranzas y por lo mismo podrá otorgar libremente mandatos judiciales y revocarlos.
-
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 1026.
 
-El administrador queda expresamente facultado para contratar y renovar en nombre de los condóminos el seguro a que se refiere el artículo 1034. En caso de siniestro parcial, el administrador en su carácter de representante de los condóminos recibirá la indemnización correspondiente, la cual deberá emplear, exclusivamente, en volver las cosas al estado que guardaban antes del siniestro.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 1027.
 
-Corresponderá al administrador:
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
-I. El cuidado y vigilancia de los bienes y servicios comunes: atención y operación de las instalaciones y servicios generales y la realización de todos los actos de administración y conservación;
-
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
-
-II. Velar por la observancia de las disposiciones de esta sección y las del Reglamento de Funcionamiento o Administración del Condominio o del Conjunto Condominal;
-
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
-
-III. Ejecutar los acuerdos de la asamblea de condóminos salvo que se designe a otra persona para el cumplimiento de algún acuerdo especial;
-
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
-
-IV. Recaudar de los condóminos lo que a cada uno corresponda en los gastos comunes y en general, exigirles el cumplimiento de sus obligaciones;
-
-V. Efectuar las obras a que se refiere la fracción I del artículo 1001;
-
-VI. Cuidar que se lleve, o llevar él mismo, una contabilidad detallada relativa al inmueble; y formular un inventario de los bienes muebles de propiedad común;
-
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
-
-VII. Las demás facultades y obligaciones que le fijen la ley o el Reglamento de Funcionamiento o Administración del Condominio o del Conjunto Condominal.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 1028.
 
-Estarán a cargo del administrador, quien será responsable de su conservación y llevarlos al día, los libros de la administración que serán los siguientes:
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
-I. El libro de actas de asamblea;
-
-II. Los libros de contabilidad;
-
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
-
-III. El libro de condóminos en el que deberá expresarse para cada unidad privativa, el nombre, apellido y domicilio del condómino; la fecha de la escritura u otro título de adquisición, el nombre y número del notario o funcionarios autorizantes, los datos de inscripción en el Registro Público de la Propiedad y las demás menciones que juzgue pertinentes el administrador;
-
-IV. El libro de inventario de las cosas muebles de propiedad común.
-
-Asimismo el administrador deberá conservar en depósito los títulos de propiedad originarios del conjunto del inmueble y los demás documentos generales relativos al mismo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 1029.
 
-El administrador tiene la obligación de cumplir con todas las obligaciones administrativas, federales o locales relativas al inmueble en su conjunto.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 1030.
 
-Las medidas que tome y las disposiciones que dicte el administrador, dentro de sus facultades, serán obligatorias para todos los condóminos, a menos de que la asamblea las modifique o revoque.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
 Parte Sexta
 
 De las controversias
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 1031.
 
-El condómino u ocupante que no cumpla con las obligaciones a su cargo será responsable de los daños y perjuicios que cause a los demás.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
-Sin perjuicio de lo anterior, si el infractor fuese un ocupante no condómino, el administrador deberá demandarle, llamando a juicio al condómino, la desocupación del edificio, departamento, piso, vivienda, casa, local, nave de un inmueble, lote de terreno o terrenos delimitados, previo acuerdo de las tres cuartas partes de los demás condóminos.
-
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 1032.
 
-El condómino que reiteradamente no cumpla con sus obligaciones podrá ser condenado judicialmente a vender sus derechos en pública subasta. Para el ejercicio de esta acción por el administrador, deberá preceder la resolución de las tres cuartas partes de los condóminos restantes.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 1033.
 
-Cuando no puedan reunirse las proporciones que establece la Parte Quinta de este título para tomar acuerdo por la asamblea, deberá someterse la controversia a la decisión judicial.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
 Parte Séptima
 
 Del seguro, destrucción, ruina y reconstrucción del edificio
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 1034.
 
-Todos los inmuebles construidos sujetos al régimen de condominio o conjunto condominal que establece este título, deberán estar asegurados cuando menos contra los riesgos de terremoto, incendio y explosión. Las primas de este seguro deberán ser cubiertas por el administrador con cargo a la partida de gastos generales del condominio sin necesidad de previo acuerdo con los condóminos. Cualquiera de los condóminos puede compeler al administrador a tomar y mantener en vigor el seguro cuando éste no lo haga oportunamente.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
-
-Salvo que por unanimidad la asamblea de condóminos resuelva otra cosa, el importe del seguro deberá emplearse en volver las cosas al estado que guardaban antes de la realización del siniestro.
-
-En caso de que por cualquier motivo no pueda hacerse efectivo el seguro, o el importe de éste sea insuficiente, se estará a lo dispuesto en el artículo siguiente.
-
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 ###### Art. 1035.
 
-Si el condominio se destruyere en su totalidad o en una proporción que represente, cuando menos las tres cuartas partes de su valor, cualquiera de los condóminos podrá pedir la división del terreno y los bienes que aún quedaren, con arreglo a las disposiciones generales sobre copropiedad.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
-Si la destrucción no alcanza a la gravedad que se indica, la mayoría de los condóminos podrá resolver la reconstrucción.
-
-Los condóminos que queden en minoría estarán obligados a contribuir a la reconstrucción en la proporción que les corresponda, o a vender sus derechos a los mayoritarios, según valuación judicial.
-
-Las mismas reglas se observarán en caso de ruina o vetustez de las construcciones del condominio que hagan necesaria su demolición.
-
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Art. 1036.
 
-Cuando se trate de condominios que consten de varios cuerpos separados en su estructura y cimentación, y con accesos independientes a la vía pública y los daños no sean de igual magnitud en cada uno de ellos, las proporciones indicadas en el artículo anterior deberán considerarse aisladamente en cada cuerpo.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2012)
 
 ## Título Quinto. De la posesión
 
@@ -6973,7 +6739,7 @@ Si el usufructo comprende cosas que no pueden usarse sin consumirse, el usufruct
 
 ###### Art. 1092.
 
-Si el usufructo se constituye sobre capitales impuestos a réditos, el usufructuario sólo hace suyos éstos y no aquellos, y aun cuando el capital se redima, debe volverse a imponer a satisfacción del usufructuario y propietario.
+Si el usufructo se constituye sobre capitales impuestos a réditos, el usufructuario sólo hace suyos éstos y no aquellos, y aun cuando el capital se redima; debe volverse a imponer a satisfacción del usufructuario y propietario.
 
 ###### Art. 1093.
 
@@ -7165,7 +6931,7 @@ II. Por vencimiento del plazo por el cual se constituyó;
 
 III. Por cumplirse la condición impuesta en el título constitutivo para la cesación de este derecho;
 
-IV. Por la reunión del usufructo y de la propiedad en una misma persona; mas si la reunión se verifica en una sola cosa o parte de lo usufructuado, en lo demás subsistirá el usufructo;
+IV. Por la reunión del usufructo y de la propiedad en una misma persona; más si la reunión se verifica en una sola cosa o parte de lo usufructuado, en lo demás subsistirá el usufructo;
 
 V. Por prescripción positiva a favor del nudo propietario o de un tercero;
 
@@ -7453,7 +7219,7 @@ Si este lugar es calificado de la misma manera que el primero, el Juez señalar�
 
 ###### Art. 1198.
 
-Si hubiere varios predios por donde pueda darse el paso a la vía pública, el obligado a la servidumbre será aquel por donde fuere más corta la distancia, siempre que no resulte muy incómodo y costoso el paso por ese lugar. Si la distancia fuere igual, el Juez designará cuál de los dos predios ha de dar el paso.
+Si hubiere varios predios por donde pueda darse el paso a la vía pública, el obligado a la servidumbre será aquel por donde fuere más corta la distancia, siempre que no resulte muy incómodo y costoso el paso por ese lugar. Si la distancia fuere igual, el Juez designará cuál de los dos predios ha de dar el paso
 
 ###### Art. 1199.
 
@@ -7759,7 +7525,9 @@ La prescripción corre desde el día en que fueron entregados los objetos, si la
 
 III. La acción de los dueños de hoteles y casas de huéspedes para cobrar el importe del hospedaje; y la de éstos y la de los fondistas para cobrar el precio de los alimentos que ministren. La prescripción corre desde el día en que debió ser pagado el hospedaje, o desde aquel en que se ministraron los alimentos;
 
-IV. La responsabilidad civil por injurias, ya sean hechas de palabra o por escrito, y la que nace del daño causado por personas o animales, y que la ley impone al representante de aquéllas o al dueño de éstos. La prescripción comienza a correr desde el día en que se recibió o fue conocida la injuria o desde aquél en que se causó el daño;
+IV. La responsabilidad civil por injurias, ya sean hechas de palabra o por escrito, y la que nace del daño causado por personas o animales, y que la ley impone al representante de aquéllas o al dueño de éstos.
+
+La prescripción comienza a correr desde el día en que se recibió o fue conocida la injuria o desde aquel en que se causó el daño;
 
 V. La responsabilidad civil proveniente de actos ilícitos que no constituyen delitos.
 
@@ -10449,7 +10217,7 @@ Si no se ha fijado tiempo y lugar, el pago se hará en el tiempo y lugar en que 
 
 ###### Art. 1793.
 
-Si ocurre duda sobre cual de los contratantes deberá hacer primero la entrega, uno y otro harán el depósito en manos de un tercero.
+Si ocurre duda sobre cuál de los contratantes deberá hacer primero la entrega, uno y otro harán el depósito en manos de un tercero.
 
 ###### Art. 1794.
 
@@ -14377,7 +14145,7 @@ Cuando toda la herencia se distribuyere en legados, los legatarios serán consid
 
 ###### Art. 2543.
 
-Si el autor de la herencia y sus herederos o legatarios perecieran en el mismo desastre o en el mismo día, sin que se pueda averiguar a ciencia cierta quiénes murieron antes, se tendrán todos por muertos al mismo tiempo, y no habrá lugar entre ellos a la transmisión de la herencia o legado.
+Si el autor de la herencia y sus herederos o legatarios perecieran en el mismo desastre o en el mismo día, sin que se pueda averiguar a ciencia cierta quienes murieron antes, se tendrán todos por muertos al mismo tiempo, y no habrá lugar entre ellos a la transmisión de la herencia o legado.
 
 ###### Art. 2544.
 
@@ -14527,7 +14295,7 @@ I. El que haya sido condenado por haber dado, mandado o intentado dar muerte a l
 
 II. El que haya hecho contra el autor de la sucesión, sus ascendientes, descendientes, hermanos o cónyuge, denuncia por delito que merezca pena capital o de prisión por más de dos años, aun cuando aquélla sea fundada, si fuere su descendiente, su ascendiente, su cónyuge o su hermano, a no ser que ese acto haya sido preciso para que el denunciante salvará su vida, su honra, o la de sus descendientes, ascendientes, hermanos o cónyuge, o actúe en cumplimiento de una obligación legal;
 
-III. El cónyuge que mediante juicio ha sido declarado adultero, si se trata de suceder al cónyuge inocente;
+III. El cónyuge que mediante juicio ha sido declarado adúltero, si se trata de suceder al cónyuge inocente;
 
 IV. El coautor del cónyuge adúltero ya sea que se trate de la sucesión de éste o de la del cónyuge inocente;
 
@@ -14841,7 +14609,7 @@ Aunque el testador nombre algunos herederos individualmente y a otros colectivam
 
 ###### Art. 2640.
 
-Si el testador instituye a sus hermanos, y los tiene sólo de padre, sólo de madre, o de padre y madre, se dividirá la herencia como en el caso de intestado.
+Si el testador instituye a sus hermanos, y los tiene solo de padre, sólo de madre, o de padre y madre, se dividirá la herencia como en el caso de intestado.
 
 ###### Art. 2641.
 
@@ -15735,7 +15503,7 @@ Al otorgarse el testamento privado se observarán en su caso las disposiciones c
 
 ###### Art. 2826.
 
-El testamento privado sólo surtirá sus efectos si el testador fallece de la enfermedad o en el peligro en que se hallaba, o dentro de un mes después que aquélla o éste hayan cesado.
+El testamento privado sólo surtirá sus efectos si el testador fallece de la enfermedad o en el peligro en que se hallaba, o dentro de un mes después que aquella o éste hayan cesado.
 
 ###### Art. 2827.
 
@@ -16655,7 +16423,7 @@ Si el testador hubiere legado alguna pensión o renta vitalicia, sin gravar con 
 
 ###### Art. 3013.
 
-En el proyecto de partición se expresará la parte que del capital o fondo afecto a la pensión, corresponderá a cada uno de los herederos luego que aquélla se extinga.
+En el proyecto de partición se expresará la parte que del capital o fondo afecto a la pensión, corresponderá a cada uno de los herederos luego que aquella se extinga.
 
 ###### Art. 3014.
 
@@ -16731,7 +16499,7 @@ Por los créditos incobrables no hay responsabilidad.
 
 ###### Art. 3030.
 
-El heredero cuyos bienes hereditarios fueren embargados, o contra quien se pronunciare sentencia en juicio por causa de ellos, tiene derecho de pedir que sus coherederos caucionen la responsabilidad que pueda resultarles y, en caso contrario, que se les prohíba enajenar los bienes que recibieron.
+El heredero cuyos bienes hereditarios fueren embargados, o contra quien se pronunciare sentencia en juicio por causa de ellos, tiene derecho de pedir que sus coherederos caucionen la responsabilidad que pueda resultarles y, en caso contrario, que se les prohiba enajenar los bienes que recibieron.
 
 ###### Art. 3031.
 
@@ -16793,7 +16561,7 @@ La dote ya constituída será regida por las disposiciones de la ley bajo la que
 
 ###### Art. 9.
 
-Las disposiciones del Reglamento del Registro Público sugerirán aplicándose en todo lo que no sean contrarias a las prevenciones de este Código, mientras se expide el nuevo Reglamento de la materia.
+Las disposiciones del Reglamento del Registro Público seguirán aplicándose en todo lo que no sean contrarias a las prevenciones de este Código, mientras se expide el nuevo Reglamento de la materia.
 
 ###### Art. 10.
 
@@ -17130,3 +16898,27 @@ Artículo Primero. El presente Decreto entrará en vigencia el cuarto día sigui
 Artículo Segundo. Hasta en tanto se modifica la Ley sobre el Sistema Estatal de Asistencia Social, el órgano colegiado en materia de adopción a que se refiere el artículo 451 de este Código, deberá integrarse por personal designado por el Sistema para el Desarrollo Integral de la Familia, así como otras dependencias afines al tema, y podrá contar con participación ciudadana; en las votaciones que en el mismo se adopten solo el personal de los primeros contará con voz y voto.
 
 Artículo Tercero. El Poder Ejecutivo del Estado adecuará el Reglamento del Registro Civil en un plazo que no excederá de ciento ochenta días contados a partir de la entrada en vigencia de este Decreto.
+
+P.O. 11 DE SEPTIEMBRE DE 2012.
+
+DECRETO No. 271 POR EL QUE SE DEROGAN LOS ARTÍCULOS DEL 972 AL 984 Y DEL 986 AL 1036 CONTENIDOS EN LA SECCIÓN SEGUNDA, CAPÍTULO SEGUNDO, TÍTULO CUARTO DEL LIBRO SEGUNDO DEL CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO.
+
+Inicio de vigencia del artículo segundo del decreto
+
+Artículo Único. El artículo segundo del Decreto que contiene las derogaciones de los artículos del 972 al 984 y del 986 al 1036 contenidos en la Sección Segunda, Capítulo Segundo, Título Cuarto del Libro Segundo del Código Civil para el Estado de Guanajuato, entrará en vigor a los noventa días siguientes a su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TRANSITORIO DEL DECRETO
+
+Inicio de vigencia del decreto
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor a los noventa días siguientes a su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 11 DE SEPTIEMBRE DE 2012.
+
+DECRETO No. 280 POR EL QUE SE REFORMAN LOS ARTÍCULOS 103 EN SU PRIMER PÁRRAFO Y 477, DEL CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO.
+
+Artículo Primero. La reforma al artículo 103 contenida en el presente Decreto entrará en vigencia el uno de enero de 2013, previa su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. La reforma al artículo 477 contenida en el presente Decreto entrará en vigencia al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
