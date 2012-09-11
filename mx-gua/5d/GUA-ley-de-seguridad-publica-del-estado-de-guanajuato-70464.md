@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-seguridad-publica-del-estado-de-guanajuato-70464"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-25"
-last_updated: "2009-09-25"
+last_updated: "2012-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70464&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # LEY DE SEGURIDAD PUBLICA DEL ESTADO DE GUANAJUATO
 
-LEY DE SEGURIDAD PUBLICA DEL ESTADO DE GUANAJUATO
+LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 25 de septiembre de 2009.
 
@@ -233,9 +233,15 @@ XI. Las demás que le confiera esta ley y la Ley General del Sistema Nacional de
 
 Atribuciones de los titulares de las dependencias estatales
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 13.
 
-Los secretarios de Gobierno y de Seguridad Pública, así como el Procurador General de Justicia, tendrán las atribuciones y obligaciones que les señalen esta ley y los demás ordenamientos jurídicos aplicables.
+La Secretaría de Seguridad Pública, además de las atribuciones que le señala esta ley, se encarga de procesar la información remitida para el suministro al Sistema Estatal de Estadística Criminológica, así como establecer los criterios para la normalización de la información que se suministre a éste.
+
+El Secretario de Gobierno, así como el Procurador General de Justicia, tendrán las atribuciones y obligaciones que les señalen esta ley y los demás ordenamientos jurídicos.
 
 Atribuciones del Ayuntamiento
 
@@ -351,7 +357,11 @@ III. El Secretario de Seguridad Pública;
 
 IV. El Procurador General de Justicia;
 
-V. El Comandante de la XII Región Militar;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+V. El Comandante de la XVI Zona Militar;
 
 VI. El Delegado de la Procuraduría General de la República;
 
@@ -359,7 +369,11 @@ VII. El Delegado de la Policía Federal;
 
 VIII. Dos presidentes municipales designados por acuerdo del propio Consejo; y
 
-IX. El Secretario Ejecutivo del Sistema.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+IX. El Secretario Ejecutivo del Sistema, quien fungirá como secretario técnico.
 
 La designación de los integrantes del Consejo Estatal, contemplados en la fracción VIII, se hará de acuerdo a los criterios y mecanismos que el propio Consejo apruebe de conformidad con el reglamento de esta ley.
 
@@ -423,15 +437,31 @@ XX. Promover políticas de coordinación y colaboración con el Poder Judicial d
 
 XXI. Integrar un sistema de seguimiento y evaluación de las actividades realizadas dentro de las atribuciones que asigna a cada instancia la Ley General del Sistema Nacional de Seguridad Pública y esta ley;
 
-XXII. Crear comisiones o grupos de trabajo para el apoyo de sus funciones; y
+XXII. Crear comisiones o grupos de trabajo para el apoyo de sus funciones; y (sic)
 
-XXIII. Las demás que se establezcan en otras disposiciones normativas y las que sean necesarias para el funcionamiento del Sistema.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+XXIII. Celebrar convenios de coordinación, colaboración y concertación, por conducto del Secretario Ejecutivo;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+XXIV. Realizar estudios transversales y especializados sobre las materias de seguridad pública y formular recomendaciones a las instancias competentes, y
+
+XXV. Las demás que se establezcan en otras disposiciones normativas y las que sean necesarias para el funcionamiento del Sistema.
 
 Competencia del Consejo Estatal
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 24.
 
-El Consejo Estatal será la instancia encargada de la coordinación, planeación y supervisión del Sistema, por conducto del Secretario Ejecutivo.
+El Consejo Estatal será la instancia encargada de la coordinación, planeación y supervisión del Sistema.
 
 #### Sección Cuarta. Programa Estatal de Seguridad Pública
 
@@ -463,21 +493,31 @@ Vinculación de los programas municipales
 
 Los programas municipales deberán vincularse con el Programa Nacional de Seguridad Pública y con el Programa Estatal de Seguridad Pública, en relación a las acciones y resultados previstos.
 
-#### Sección Primera. Secretariado Ejecutivo del Sistema
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Secretariado Ejecutivo del Sistema
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+#### Sección Quinta. Secretario Ejecutivo del Sistema
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+Secretario Ejecutivo del Sistema
 
 ###### Artículo 28.
 
-El Secretariado Ejecutivo es el órgano operativo del Sistema y gozará de autonomía técnica, de gestión y presupuestal.
+El Secretario Ejecutivo será el titular de la unidad técnica del Sistema, cuya naturaleza jurídica será la de órgano desconcentrado.
 
-Para el cumplimiento de sus funciones contará con instancias relativas a la prevención del delito y participación ciudadana, el Sistema Estatal de Estadística Criminológica y fungirá como presidente del Consejo Directivo del Centro de Evaluación y Control de Confianza del Estado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Titular del Secretariado Ejecutivo del Sistema
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+Designación del Secretario Ejecutivo del Sistema
 
 ###### Artículo 29.
 
-El Secretariado Ejecutivo del Sistema, estará a cargo de un Secretario Ejecutivo quién será designado y removido libremente por el Presidente del Consejo.
+El Secretario Ejecutivo del Sistema será designado y removido libremente por el Presidente del Consejo.
 
 Perfil del Secretario Ejecutivo del Sistema
 
@@ -505,17 +545,31 @@ I. Fungir como vínculo entre los integrantes del Sistema;
 
 II. Ejecutar y dar seguimiento a los acuerdos y resoluciones del Consejo Estatal y de su Presidente, así como proporcionar los insumos que le sean requeridos por éstos;
 
-III. Impulsar mejoras para los instrumentos de información del Sistema;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV. Fungir como representante permanente ante el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública; así como ser el responsable del control, suministro y adecuado manejo de la información;
+III. (DEROGADA, P.O. 11 DE SEPTIEMBRE DE 2012)
 
-V. Implementar y ejecutar en el Estado las acciones que se deriven de los acuerdos, lineamientos y políticas emitidas por el Consejo Nacional y el Secretariado Ejecutivo Federal;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VI. Coordinar la realización de estudios transversales especializados sobre las materias de Seguridad Pública y formular recomendaciones a las instancias de coordinación previstas en el presente ordenamiento;
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+IV. Fungir como representante del Sistema ante el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+V. Verificar la implementación de los acuerdos que se deriven del Sistema Nacional de Seguridad Pública; así como la aplicación de las políticas y criterios que en dichos acuerdos se determinen;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+VI. (DEROGADA, P.O. 11 DE SEPTIEMBRE DE 2012)
 
 VII. Compilar los acuerdos que se tomen en el Consejo Estatal, llevar el archivo de éstos y de los instrumentos jurídicos que deriven, y expedir constancia de los mismos;
 
-VIII. Celebrar convenios de coordinación, colaboración y concertación necesarios para el cumplimiento de los fines del Sistema;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+VIII. (DEROGADA, P.O. 11 DE SEPTIEMBRE DE 2012)
 
 IX. Verificar el cumplimiento de las disposiciones de esta ley, de los convenios generales y específicos en la materia, así como de las demás disposiciones aplicables e informar lo conducente al Consejo Estatal;
 
@@ -543,11 +597,17 @@ XX. Informar periódicamente al Consejo Estatal y a su Presidente de sus activid
 
 XXI. Presentar quejas o denuncias ante las autoridades competentes por el incumplimiento de esta ley, los acuerdos generales, los convenios y demás disposiciones aplicables, así como por el uso ilícito o indebido de los recursos a que se refiere esta ley e informar al respecto al Consejo Estatal;
 
-XXII. Proponer al Consejo Estatal los lineamientos, políticas y acciones en materia de prevención del delito;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXIII. Promover la participación ciudadana para el fortalecimiento del Sistema;
+XXII. (DEROGADA, P.O. 11 DE SEPTIEMBRE DE 2012)
 
-XXIV. Dictar las medidas necesarias para garantizar el adecuado funcionamiento del Sistema; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+XXIII. (DEROGADA, P.O. 11 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+XXIV. (DEROGADA, P.O. 11 DE SEPTIEMBRE DE 2012)
 
 XXV. Las demás que le otorga esta ley y demás disposiciones jurídicas aplicables, así como las que le encomiende el Consejo Estatal o su Presidente.
 
@@ -557,23 +617,43 @@ Personal de apoyo del Secretario Ejecutivo del Sistema
 
 El Secretario Ejecutivo del Sistema, contará con el personal administrativo necesario para el cumplimiento de sus funciones, en los términos del presupuesto aprobado.
 
-#### Sección Segunda. Registro de Personal de Seguridad Pública
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+#### Sección Sexta. Registro de Personal de Seguridad Pública
 
 Obligación de registrar al personal de seguridad pública
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 33.
 
-El personal de seguridad pública, además de los registros estatales y municipales, se registrará en el Registro de Personal de Seguridad Pública en los términos de la Ley General del Sistema Nacional de Seguridad Pública. Deberán remitir dicha información al Secretario Ejecutivo del Sistema.
+El personal de seguridad pública, además de los registros estatales y municipales, se inscribirá en el Registro de Personal de Seguridad Pública en los términos de la Ley General del Sistema Nacional de Seguridad Pública. Deberán remitir dicha información a la Secretaría.
 
-#### Sección Tercera. Registro de Armamento y Equipo Policial
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+#### Sección Séptima. Registro de Armamento y Equipo Policial
 
 Obligación de actualizar el Registro Nacional de Armamento y Equipo
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 34.
 
-Las autoridades del Estado y los municipios deberán cumplir con la obligación de manifestación y de actualización del Registro de Armamento y Equipo Policial. Asimismo, remitirán la información al Registro Nacional de Armamento y Equipo que prevé la Ley General del Sistema Nacional de Seguridad Pública. Deberán remitir también dicha información al Secretario Ejecutivo del Sistema.
+Las autoridades del Estado y los municipios deberán cumplir con la obligación de manifestación y de actualización del Registro de Armamento y Equipo Policial. Asimismo, remitirán la información al Registro Nacional de Armamento y Equipo que prevé la Ley General del Sistema Nacional de Seguridad Pública.
 
-#### Sección Cuarta. Sistema Estatal de Estadística Criminológica
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+#### Sección Octava. Sistema Estatal de Estadística Criminológica
 
 Objetivo del Sistema Estatal de Estadística Criminológica
 
@@ -587,21 +667,35 @@ Podrá recabar información de otras entidades federativas, del Distrito Federal
 
 Vinculación del Sistema Estatal de Estadística Criminológica
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 36.
 
-Para la integración del Sistema Estatal de Estadística Criminológica y su vinculación con el Sistema Nacional de Seguridad Pública, el Consejo Estatal, a través del Secretario Ejecutivo del Sistema, promoverá la celebración de convenios para el suministro, intercambio, sistematización y actualización de información, mediante los instrumentos tecnológicos idóneos que permitan el fácil y rápido acceso a las autoridades que, conforme a esta ley, puedan disponer de ella.
+Para la integración del Sistema Estatal de Estadística Criminológica y su vinculación con el Sistema Nacional de Seguridad Pública, el Consejo Estatal, a través de la Secretaría, promoverá la celebración de convenios para el suministro, intercambio, sistematización y actualización de información, mediante los instrumentos, tecnológicos idóneos que permitan el fácil y rápido acceso a las autoridades que, conforme a esta ley, puedan disponer de ella.
 
 Reglamentación para la operación del Sistema Estatal de Estadística Criminológica
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 37.
 
-El Ejecutivo del Estado expedirá la reglamentación e instrumentos que contengan los lineamientos científicos, metodológicos, técnicos, administrativos, interinstitucionales y tecnológicos que permitan generar procesos estadísticos de alta confiabilidad y disponibilidad. Para tal efecto, conformará grupos de trabajo integrados por expertos en la materia. El Secretariado Ejecutivo será la instancia responsable de recibir la información que integrará el Sistema, así como de establecer los criterios para la normalización de la información que se suministre al Sistema Estatal de Estadística Criminológica.
+El Ejecutivo del Estado expedirá la reglamentación e instrumentos que contengan los lineamientos científicos, metodológicos, técnicos, administrativos, interinstitucionales y tecnológicos que permitan generar procesos estadísticos de alta confiabilidad y disponibilidad. Para tal efecto, conformará grupos de trabajo integrados por expertos en la materia.
+
+La Secretaría será la instancia responsable de recibir la información que integrará el Sistema, así como de establecer los criterios para la normalización de la información que se suministre el Sistema Estatal de Estadística Criminológica.
 
 Obligación de mantener actualizadas las bases de datos
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 38.
 
-Los titulares de las dependencias, entidades y de las Instituciones Policiales que suministren información al Sistema Estatal de Estadística Criminológica deberán diseñar, registrar y mantener actualizadas las bases de datos correspondientes, conforme a los criterios de normalización definidos por el Secretariado Ejecutivo.
+Los titulares de las dependencias, entidades y de las Instituciones Policiales que suministren información al Sistema Estatal de Estadística Criminológica deberán diseñar, registrar y mantener actualizadas las bases de datos correspondientes, conforme a los criterios de normalización definidos por la Secretaría.
 
 Acceso a los registros e información del Sistema Estatal de Estadística Criminológica
 
@@ -617,7 +711,11 @@ Responsabilidad de los servidores públicos del Sistema Estatal de Estadística 
 
 Los servidores públicos del Sistema Estatal de Estadística Criminológica incurrirán en responsabilidad conforme a esta ley, sin perjuicio de la responsabilidad penal, cuando hagan mal uso o proporcionen de manera indebida la información contenida en las bases de datos mencionadas.
 
-#### Sección Quinta. Centro de Evaluación y Control de Confianza del Estado de Guanajuato
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+#### Sección Novena. Centro de Evaluación y Control de Confianza del Estado de Guanajuato
 
 Centro de Evaluación y Control de Confianza del Estado
 
@@ -647,9 +745,17 @@ Facultad reglamentaria en materia de evaluación y control de confianza
 
 Las cuestiones relativas a la evaluación y control de confianza expuestas en esta ley se detallarán en la reglamentación que al efecto se expida.
 
-### Capítulo III. Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-### Capítulo IV. Disposiciones Comunes a los Integrantes de las Instituciones de Seguridad Pública
+### Capítulo III
+
+> <small>(DEROGADA SU DENOMINACIÓN, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO IV], P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+### Capítulo III. Disposiciones Comunes a los Integrantes de las Instituciones de Seguridad Pública
 
 #### Sección Primera. Derechos y Obligaciones de los Integrantes de las Instituciones de Seguridad Pública
 
@@ -669,9 +775,19 @@ IV. Recibir asistencia jurídica gratuita institucional, en los casos en que por
 
 V. Que les sean respetados los derechos que les reconoce la Carrera Policial, en los términos de esta Ley;
 
-VI. Recibir un trato digno y respetuoso de sus superiores jerárquicos; y
+VI. Recibir un trato digno y respetuoso de sus superiores jerárquicos; y (sic)
 
-VII. Las demás que les confieran las leyes y reglamentos de la materia.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+VII. Conocer las causas específicas que motivan su remoción, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+VIII. Las demás que les confieran las leyes y reglamentos de la materia.
 
 Obligaciones de los integrantes de las Instituciones de Seguridad Pública
 
@@ -1193,9 +1309,15 @@ I. Separación, por incumplimiento a cualquiera de los requisitos de permanencia
 
 a) Si hubiere sido convocado a tres procesos consecutivos de promoción sin que haya participado en los mismos, o que habiendo participado en dichos procesos, no hubiese obtenido el grado inmediato superior que le correspondería por causas imputables a él;
 
-b) Que haya alcanzado la edad máxima correspondiente a su jerarquía, y no haya sido reubicado de acuerdo con lo establecido en las disposiciones aplicables; y
+b) Que haya alcanzado la edad máxima correspondiente a su jerarquía, y no haya sido reubicado de acuerdo con lo establecido en las disposiciones aplicables; y (sic)
 
 c) Que del expediente del integrante no se desprendan méritos suficientes a juicio de las Comisiones del Servicio Profesional de Carrera Policial para conservar su permanencia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+d) No acreditar los procesos de evaluación de control de confianza.
 
 II. Remoción, por incurrir en responsabilidad en el desempeño de sus funciones o incumplimiento de sus deberes, de conformidad con las disposiciones relativas al régimen disciplinario; o
 
@@ -1345,7 +1467,11 @@ V. Comunicar al titular de las Instituciones Policiales, su resolución respecto
 
 VI. Establecer los lineamientos para los procedimientos aplicables al régimen disciplinario;
 
-VII. Determinar sobre la remoción de los elementos de las Instituciones Policiales por no obtener una calificación satisfactoria en las evaluaciones para la permanencia o del desempeño, así como por negarse a practicar las mismas;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+VII. Determinar sobre la remoción de los elementos de las Instituciones Policiales;
 
 VIII. Crear las comisiones, comités y grupos de trabajo que resulten necesarios supervisando su actuación; y
 
@@ -1415,7 +1541,11 @@ VIII. Un representante de la unidad correspondiente de la institución policial;
 
 IX. El Secretario Técnico del Consejo de Honor y Justicia.
 
-### Capítulo V. Servicio de Carrera y Desarrollo Policial en la Institución de Procuración de Justicia
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO V], P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+### Capítulo IV. Servicio de Carrera y Desarrollo Policial en la Institución de Procuración de Justicia
 
 Servicio de carrera en la institución de procuración de justicia
 
@@ -1435,7 +1565,11 @@ Régimen especial del personal ministerial y pericial
 
 Las relaciones jurídicas entre el personal ministerial y pericial y el Estado se rigen por la fracción XIII del apartado B del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, la ley reglamentaria del Artículo 21 constitucional, esta ley y demás disposiciones jurídicas aplicables.
 
-### Capítulo VI. Instituto Estatal de Ciencias Penales
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO VI], P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+### Capítulo V. Instituto Estatal de Ciencias Penales
 
 #### Sección Única. Naturaleza y funcionamiento del Instituto
 
@@ -1549,7 +1683,11 @@ IV. Coadyuvar en la aplicación del proceso de evaluación permanente a los miem
 
 V. Las demás que le confieran esta ley.
 
-### Capítulo VII. Información sobre Seguridad Pública
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO VII], P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+### Capítulo VI. Información sobre Seguridad Pública
 
 Intercambio de información sobre seguridad pública
 
@@ -1565,9 +1703,13 @@ El acceso a las bases de datos del sistema estará condicionado al cumplimiento 
 
 Obligación de las Instituciones de Seguridad Pública de proporcionar la información que posean
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 101.
 
-Los integrantes del Sistema están obligados a compartir la información sobre seguridad pública que obre en sus bases de datos, con las del Centro Nacional de Información, en los términos de las disposiciones normativas aplicables, y con el Secretario Ejecutivo del Sistema.
+Los integrantes del Sistema están obligados a compartir la información sobre seguridad pública que obre en sus bases de datos, con las del Centro Nacional de Información, en los términos de las disposiciones normativas, y con la Secretaría.
 
 La información contenida en las bases de datos del sistema nacional y estatal de información sobre seguridad pública, podrá ser certificada por la autoridad respectiva y tendrá el valor probatorio que las disposiciones jurídicas determinen.
 
@@ -1577,7 +1719,11 @@ Compatibilidad de los servicios informáticos con las bases de datos del Sistema
 
 El Estado y los municipios, de acuerdo con la Federación, realizarán los trabajos para lograr la compatibilidad de los servicios de telecomunicaciones de su red local correspondiente, con las bases de datos criminalísticos y de personal del Sistema, previstas en la Ley General del Sistema Nacional de Seguridad Pública.
 
-### Capítulo VIII. Registro Administrativo de Detenciones
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO VIII], P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+### Capítulo VII. Registro Administrativo de Detenciones
 
 Informe Policial Homologado
 
@@ -1659,7 +1805,11 @@ Esta base nacional de datos se actualizará permanentemente y se conformará con
 
 La Procuraduría General de Justicia podrá reservarse la información que ponga en riesgo alguna investigación, conforme a las disposiciones aplicables, proporcionándola al Sistema Único de Información Criminal después que deje de existir tal condición.
 
-### Capítulo IX. Participación de la Sociedad en la Seguridad
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO IX], P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+### Capítulo VIII. Participación de la Sociedad en la Seguridad
 
 #### Sección Única. Consejos Estatal y Municipales de Consulta y Participación Ciudadana
 
@@ -1675,11 +1825,19 @@ Integración de los Consejos Estatal y Municipales de Consulta y Participación 
 
 Los Consejos Estatal y municipales de Consulta y Participación Ciudadana a que se refiere el artículo anterior, se integrarán al menos de la siguiente forma:
 
-I. Por un presidente, que será el titular del Ejecutivo del Estado en el caso del Consejo Estatal de Consulta y Participación Ciudadana, y por el Presidente Municipal en el caso de los municipios. El Secretario Ejecutivo del Sistema asumirá la presidencia en las ausencias del Gobernador y en el supuesto de los municipios, la función del presidente del Consejo se podrá ejercer por delegación, sin menoscabo de la participación del propio titular municipal en cualquier momento;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+I. Por un presidente, que será el titular del Ejecutivo del Estado en el caso del Consejo Estatal de Consulta y Participación Ciudadana, y por el Presidente Municipal en el caso de los municipios. El Titular de la Secretaría asumirá la presidencia en las ausencias del Gobernador y en el supuesto de los municipios, la función del presidente del Consejo se podrá ejercer por delegación, sin menoscabo de la participación del propio titular municipal en cualquier momento;
 
 II. Por un secretario técnico, nombrado por los presidentes de los Consejos Estatal y municipales de Consulta y Participación Ciudadana, respectivamente;
 
 III. Por consejeros técnicos, fungiendo con tal carácter los titulares de las Instituciones de Seguridad Pública, según correspondan al ámbito municipal o estatal, y el Secretario Ejecutivo del Sistema en el ámbito estatal. Para este efecto, se atenderá a lo especificado en los reglamentos respectivos; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
 IV. Por consejeros ciudadanos, designados por el Ejecutivo Estatal o la mayoría calificada del Ayuntamiento, según corresponda, de entre los propuestos por los diferentes sectores de la sociedad civil, considerando la reputación, participación e interés mostrado en materia de seguridad pública por los ciudadanos propuestos. Las propuestas señaladas en esta fracción derivarán de la convocatoria que realicen para tal efecto, el Ejecutivo Estatal o el Presidente Municipal, respectivamente.
 
@@ -1777,7 +1935,11 @@ Actividades de difusión del Consejo Estatal de Consulta y Participación Ciudad
 
 El Consejo Estatal de Consulta y Participación Ciudadana difundirá a través de la dependencia correspondiente, las medidas preventivas que juzgue convenientes, recomendando su observancia a los gobernados. Estas medidas fomentarán la participación de la población en las actividades de prevención que permitan preservar la seguridad de las personas, sus familias y sus bienes.
 
-### Capítulo X. Servicios de Seguridad Privada
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO X], P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+### Capítulo IX. Servicios de Seguridad Privada
 
 #### Sección Única. Seguridad Privada
 
@@ -1913,7 +2075,11 @@ La Secretaría y los municipios son las instancias facultadas para vigilar que l
 
 Anualmente, en el mes de enero, estos particulares deberán refrendar su autorización.
 
-### Capítulo XI. Cuerpos de Bomberos
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO XI], P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+### Capítulo X. Cuerpos de Bomberos
 
 #### Sección Única. Cuerpos de Bomberos
 
@@ -1947,7 +2113,11 @@ Sistema de estadística de siniestros
 
 Los cuerpos de bomberos en los municipios podrán solicitar de la autoridad competente la información necesaria a fin de establecer un sistema de estadística de siniestros que tendrá por finalidad la disminución de incendios, pérdidas humanas y materiales a causa de incendios u otros incidentes.
 
-### Capítulo XII. Responsabilidades por Incumplimiento de la Ley
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO XII], P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+### Capítulo XI. Responsabilidades por Incumplimiento de la Ley
 
 #### Sección Única. Medidas Disciplinarias y Sanciones
 
@@ -1991,7 +2161,11 @@ El procedimiento para la imposición de las sanciones y las conductas que serán
 
 Contra las resoluciones que emitan los Consejos de Honor y Justicia, procederá el recurso de reconsideración, en términos del reglamento correspondiente.
 
-### Capítulo XIII. Faltas
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO XIII], P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+### Capítulo XII. Faltas
 
 #### Sección Única. De las Faltas
 
@@ -2003,7 +2177,11 @@ El incumplimiento de lo dispuesto por esta ley a cargo de los servidores públic
 
 Lo dispuesto en el párrafo anterior, no es aplicable a quienes ocupen un cargo de elección popular ni a los integrantes de las Instituciones Policiales.
 
-### Capítulo XIV. Disposiciones Complementarias
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO XIV], P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+
+### Capítulo XIII. Disposiciones Complementarias
 
 #### Sección Única. Servicio de Policía Auxiliar
 
@@ -2054,3 +2232,23 @@ JUAN MANUEL OLIVA RAMÍREZ
 EL SECRETARIO DE GOBIERNO
 
 JOSÉ GERARDO MOSQUEDA MARTÍNEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 11 DE SEPTIEMBRE DE 2012.
+
+Artículo Primero. El presente Decreto entrará en vigencia a los treinta días posteriores a su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Titular del Ejecutivo deberá instrumentar las adecuaciones a los reglamentos y decretos que derivan de la presente reforma dentro del plazo de noventa días posteriores a la entrada en vigencia del presente Decreto.
+
+Artículo Tercero. En el plazo de treinta días posteriores a la entrada en vigencia del presente Decreto, el Presidente del Consejo Estatal de Seguridad Pública hará la designación del Secretario Ejecutivo del Sistema, para efecto de que sea el responsable de la ejecución del proceso de modificación de la naturaleza jurídica del Secretariado Ejecutivo, como órgano descentralizado de la administración pública, en órgano desconcentrado de la misma.
+
+Artículo Cuarto. El Secretario Ejecutivo del Sistema, a partir de su designación, será el responsable de realizar los actos necesarios para cumplir con el presente decreto en el ámbito administrativo.
+
+Artículo Quinto. Las Secretarías de Finanzas y Administración, y de la Gestión Pública realizarán un dictamen técnico-jurídico para determinar los pasos a seguir en el proceso de modificación de la naturaleza jurídica del Secretariado Ejecutivo.
+
+Dicho dictamen deberá señalar el personal como los recursos materiales y financieros que integran el patrimonio del organismo descentralizado que se extingue son indispensables se mantengan a disposición del Secretario Ejecutivo para el cumplimiento de sus funciones.
+
+Artículo Sexto. Las obligaciones y compromisos adquiridos por el Secretariado Ejecutivo para la realización de las funciones de prevención del delito y participación ciudadana, así como los correspondientes a las labores de información en seguridad pública, seguirán vigentes y corresponderá a la Secretaría continuar su cumplimiento.
+
+Del personal y de los recursos materiales y financieros que actualmente integran el patrimonio del Secretariado Ejecutivo utilizados para la realización de las acciones relativas a la prevención del delito y participación ciudadana, así como los correspondientes a las labores de información en seguridad pública, serán destinados los indispensables a la Secretaría para cumplir con sus nuevas atribuciones en esas materias y los compromisos referidos en el párrafo anterior.
