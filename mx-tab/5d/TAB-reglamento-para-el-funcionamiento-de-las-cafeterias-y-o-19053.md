@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-para-el-funcionamiento-de-las-cafeterias-y-o-19053"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-27"
-last_updated: "2000-12-27"
+last_updated: "2012-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS CAFETERIAS Y/O REFRESQUERIAS DE PLANTELES OFICIALES
 
-REGLAMENTO DE ORGANIZACION Y FUNCIONAMIENTO DE CAFETERIAS Y/O REFRESQUERIAS DEL COLEGIO DE BACHILLERES DE TABASCO
+REGLAMENTO DE ORGANIZACIÓN Y FUNCIONAMIENTO DE CAFETERÍAS Y/O REFRESQUERÍAS DEL COLEGIO DE BACHILLERES DE TABASCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LAS CONCESIONES DE LOS SERVICIOS OTORGADOS EN EL COLEGIO DE BACHILLERES DE TABASCO, PUBLICADO EN EL P.O. DE 12 DE SEPTIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Tabasco, el miércoles 27 de diciembre de 2000.
 
@@ -104,3 +106,13 @@ Primero.- Este reglamento normara la organización, funciones, objetivos, derech
 Segundo.- Conservara su vigencia por tiempo indefinido sin perjuicio de ser revisado o modificado cuando la experiencia de su aplicación así lo requiera o por ordenamiento de la Dirección General del COBATAB.
 
 Expedido por la H. Junta Directiva del COBATAB, con fecha veinticuatro de noviembre del año dos mil, en la ciudad de Villahermosa, capital del estado de Tabasco, República Mexicana.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE SEPTIEMBRE DE 2012.
+
+PRIMERO. El presente Reglamento entrará en vigor a los quince días hábiles siguientes de su aprobación por la H. Junta Directiva.
+
+SEGUNDO. Se abroga el Reglamento para el funcionamiento de las Cafeterías y/o Refresquerías de Planteles Oficiales del Colegio de Bachilleres de Tabasco, aprobado por la H. Junta Directiva el veinticuatro de noviembre del año dos mil y publicado en el Periódico Oficial de la entidad el veintisiete de diciembre del mismo año.
+
+TERCERO. Los concesionarios que cuenten con servicio de energía eléctrica propio, deberán cancelar el mismo e incorporarse al contratado por el Colegio de Bachilleres de Tabasco.
