@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-la-venta-y-consumo-de-bebidas-alcoholicas-38767
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-03-29"
-last_updated: "2011-04-20"
+last_updated: "2012-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38767&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "NLE"
 
 REGLAMENTO PARA LA VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE SAN NICOLÁS DE LOS GARZA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE SAN NICOLÁS DE LOS GARZA, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 12 DE SEPTIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 29 de marzo de 2004.
 
@@ -81,7 +83,7 @@ a) BEBIDAS PREPARADAS Y/O TROPICALES: Bebida alcohólica que se compone de la me
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2005)</small>
 
-b) CERVEZA: La bebida fermentada, elaborada con malta, cebada, lúpulo y agua potable, con infusiones de cualquier semilla farinácea, procedente de gramíneas o leguminosas, raíces o frutos feculentos o azúcares como adjunto de malta, con adición de Iúpulos o sucedáneos de éstos, siempre que su contenido alcohólico esté entre 2 y 6 grados alcohol en volumen.
+b) CERVEZA: La bebida fermentada, elaborada con malta, cebada, lúpulo y agua potable, con infusiones de cualquier semilla farinácea, procedente de gramíneas o leguminosas, raíces o frutos feculentos o azúcares como adjunto de malta, con adición de lúpulos o sucedáneos de éstos, siempre que su contenido alcohólico esté entre 2 y 6 grados alcohol en volumen.
 
 c) VINOS DE MESA: Bebidas alcohólicas obtenidas de la fermentación alcohólica completa o parcial, de los mostos de uva en contacto o no de sus orujos.
 
@@ -1267,7 +1269,7 @@ Recibida el Acta de Inspección, la Dirección de Comercio y Espectáculos, desa
 
 Las faltas al presente Reglamento serán calificadas de acuerdo al rango que se detalla a continuación:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 Para los efectos de este Artículo, al hacerse referencia a cuota, se entenderá un salario mínimo general diario vigente en la Región, según la Ley Federal del Trabajo.
 
@@ -1677,7 +1679,7 @@ C. LIC. GUSTAVO RAMÍREZ VILLARREAL
 
 SECRETARIO DEL R. AYUNTAMIENTO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 24 DE NOVIEMBRE DE 2004.
 
@@ -1702,3 +1704,9 @@ P.O. 20 DE ABRIL DE 2011.
 PRIMERO: La presente modificación entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO: Los procedimientos iniciados antes de la entrada en vigor de la presente reforma se regirán según las disposiciones vigentes al momento de emitirse el acto de autoridad que se impugna.
+
+P.O. 12 DE SEPTIEMBRE DE 2012.
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se abroga el Reglamento para la Venta y Consumo de Bebidas Alcohólicas en el Municipio de San Nicolás de los Garza, Nuevo León, publicado en el Periódico Oficial del Estado de fecha 29 de Marzo de 2004.
