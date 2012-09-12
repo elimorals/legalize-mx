@@ -4,7 +4,7 @@ identifier: "CHH-ley-electoral-del-estado-de-chihuahua-70314"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-12"
-last_updated: "2012-06-27"
+last_updated: "2012-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ELECTORAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 12 de septiembre de 2009.
 
@@ -1311,7 +1311,9 @@ Artículo 88
 
 Artículo 89
 
-1. Los partidos políticos deberán acreditar a sus representantes ante el Consejo General a más tardar el treinta y uno de diciembre del año previo al de la elección.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2012)</small>
+
+1. Los partidos políticos deberán acreditar a sus representantes ante el Consejo General en el plazo comprendido entre el día de la Instalación del Consejo General del Instituto Estatal Electoral y la presentación del informe sobre el procedimiento interno de selección de candidatos para los partidos políticos.
 
 En el caso de representantes de partidos políticos ante las asambleas municipales, éstos deberán quedar acreditados a más tardar dentro de los veinte días siguientes a la fecha de la sesión de instalación de las mismas.
 
@@ -1335,7 +1337,9 @@ Artículo 91
 
 Artículo 92
 
-1. El Consejo General sesionará a partir del 15 de diciembre del año previo a la elección y hasta la terminación del proceso electoral.
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2012)</small>
+
+1. El Consejo General sesionará a partir del quince de enero del año de la elección y hasta la terminación del proceso electoral.
 
 2. La periodicidad de las sesiones las decidirá el propio Consejo General.
 
@@ -1997,7 +2001,9 @@ n) Militante de partido político, al ciudadano que formalmente pertenece a un p
 
 Artículo 123
 
-1. El proceso electoral ordinario iniciará el día quince del mes de diciembre del año previo al de la elección.
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2012)</small>
+
+1. El proceso electoral ordinario iniciará el día quince del mes de enero del año de la elección.
 
 2. Se entenderá que el proceso electoral inicia con la sesión de instalación del Consejo General del Instituto Estatal Electoral, y concluye con la etapa de declaración de validez y la entrega de constancias de mayoría y validez; o en su caso, con la resolución que emita en última instancia el Tribunal Estatal Electoral.
 
@@ -2031,7 +2037,9 @@ Artículo 124
 
 3. Los partidos políticos, cuando decidan realizar procesos internos para la selección de candidatos y precampañas para elegir a los ciudadanos que presentarán como candidatos a cargos de elección popular ante los organismos electorales, deberán informar por escrito al Consejo General del Instituto Estatal Electoral, el procedimiento que aplicarán para la selección de sus candidatos a cargos de elección popular, según la elección de que se trate, en los términos que siguen:
 
-a) A más tardar el tres de enero del año del proceso electoral, cuando se trate de la selección interna del candidato a Gobernador, y
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2012)</small>
+
+a) A más tardar el veintidós de enero del año del proceso electoral, cuando se trate de la selección interna del candidato a Gobernador, y
 
 b) A más tardar el día veintiocho de febrero del año del proceso electoral, cuando se trate de la selección interna de candidatos a diputados, miembros de los ayuntamientos y síndicos.
 
@@ -2071,9 +2079,13 @@ Para tales efectos, el Consejo General podrá ajustar los plazos correspondiente
 
 2. Para los efectos del numeral anterior, las precampañas electorales darán inicio en la forma que sigue:
 
-a) Durante la primera quincena del mes de enero del año del proceso electoral, para la elección de candidatos a Gobernador, y
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2012)</small>
 
-b) Durante la primera quincena del mes de marzo del año del proceso electoral, para la elección de candidatos a diputados, miembros de los ayuntamientos y síndicos.
+a) Dentro de los últimos ocho días del mes de enero del año del proceso electoral, para la elección de candidatos a Gobernador, y
+
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2012)</small>
+
+b) Durante la primera semana del mes de marzo del año del proceso electoral, para la elección de candidatos a diputados, miembros de los ayuntamientos y síndicos.
 
 3. Los precandidatos únicos podrán realizar precampaña, siempre y cuando el partido político comunique previamente al Instituto Estatal Electoral tal calidad.
 
@@ -2107,7 +2119,9 @@ Artículo 127
 
 Artículo 128
 
-1. El Consejo General del Instituto Estatal Electoral determinará los topes de gasto de precampaña por precandidato y tipo de elección, a más tardar el treinta y uno de diciembre del año previo de la elección.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2012)</small>
+
+1. El Consejo General del Instituto Estatal Electoral determinará los topes de gasto de precampaña por precandidato y tipo de elección, en el plazo comprendido entre el día de la Instalación del Consejo General del Instituto Estatal Electoral y la presentación del informe sobre el procedimiento interno de selección de candidatos para los partidos políticos.
 
 El tope de gasto de precampaña será equivalente al 20% del establecido como tal en las campañas inmediatas anteriores. Para la precampaña de Gobernador el cálculo se hará utilizando las variables vigentes en el proceso electoral próximo anterior.
 
@@ -2125,7 +2139,9 @@ En caso de que un partido político comunique al Instituto Estatal Electoral que
 
 Artículo 129
 
-1. La Comisión de Fiscalización de los Recursos de los Partidos y Agrupaciones Políticas revisará los informes y emitirá, dentro de los 5 días siguientes a que venza el plazo para la presentación de los informes de precampaña, un dictamen consolidado por cada partido político y precandidato en el que, en su caso, se especificarán las irregularidades encontradas.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2012)</small>
+
+1. La Comisión de Fiscalización de los Recursos de los Partidos y Agrupaciones Políticas revisará los informes y emitirá, dentro de los diez días siguientes a que venza el plazo para la presentación de los informes de precampaña, un dictamen consolidado por cada partido político y precandidato en el que, en su caso, se especificarán las irregularidades encontradas.
 
 Dicho dictamen se rendirá al Consejero Presidente del Instituto Estatal Electoral, quien lo someterá, dentro de los 3 días siguientes, al Consejo General para su aprobación.
 
@@ -2181,7 +2197,9 @@ Artículo 135
 
 1. Para el registro de candidaturas a todo cargo de elección popular, el partido político o coalición postulante deberá presentar y obtener el registro de la plataforma electoral que sus candidatos sostendrán a lo largo de las campañas políticas.
 
-2. Las plataformas deberán presentarse para su registro ante el Consejo General a más tardar:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2012)</small>
+
+2. Las plataformas deberán presentarse para su registro ante el Consejo General antes de la fecha de registro de candidatos a Gobernador, diputados, miembros del ayuntamiento y síndicos, según corresponda.
 
 a) El treinta y uno de marzo del año de la elección, cuando el proceso electoral tenga por objeto la renovación de Gobernador, diputados, ayuntamientos y síndicos, y
 
@@ -5554,3 +5572,9 @@ Conforme lo dispone el artículo 202 de la Constitución Política del Estado, e
 ###### ARTÍCULO SEGUNDO.
 
 Por lo que hace a la reforma constitucional contenida en el Artículo Primero del presente Decreto, ésta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado. Las reformas y derogaciones a la Ley Electoral del Estado de Chihuahua, contenidas en el Artículo Segundo del presente Decreto, surtirán vigencia un día después de que lo haga la reforma constitucional señalada.
+
+P.O. 12 DE SEPTIEMBRE DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
