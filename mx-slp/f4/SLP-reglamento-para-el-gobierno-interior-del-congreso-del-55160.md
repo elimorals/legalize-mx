@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-para-el-gobierno-interior-del-congreso-del-55160"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-15"
-last_updated: "2012-07-31"
+last_updated: "2012-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2012.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 15 de febrero de 2007.
 
@@ -473,7 +473,7 @@ El Congreso determinará las medidas conducentes, en el caso de que algún diput
 
 ###### ARTICULO 43.
 
-Las actas de las sesiones privadas, leí das, discutidas y aprobadas, serán firmadas por el Presidente y los secretarios; después de lo cual serán archivadas en lugar seguro y bajo clave.
+Las actas de las sesiones privadas, leí das (sic), discutidas y aprobadas, serán firmadas por el Presidente y los secretarios; después de lo cual serán archivadas en lugar seguro y bajo clave.
 
 #### Sección Tercera. De las Sesiones Solemnes
 
@@ -811,13 +811,19 @@ Los mismos requisitos y formalidades que son necesarios para la formación de le
 
 Las leyes, decretos, acuerdos administrativos y reglamentos, sólo serán de cumplimiento obligatorio y surtirán efectos legales, después de que sean publicados en el Periódico Oficial del Estado Libre y Soberano de San Luis Potosí.
 
-### CAPITULO I. DE LOS DICTAMENES
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 13 DE SEPTIEMBRE DE 2012)</small>
 
-### CAPITULO II. DEL TRAMITE DE DISCUSION Y APROBACION
+### CAPITULO VIII. DE LA EMISION DE CONVOCATORIAS
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2012)</small>
+
+ARTICULO 84 BIS. Las convocatorias que emita la Legislatura para ocupar cargos públicos o reconocer el mérito ciudadano, una vez redactadas por la comisión, o comisiones competentes, serán sometidas a la consideración del Pleno que podrá, aprobarlas, modificarlas, o rechazarlas.
+
+### CAPITULO I. DE LOS DICTAMENES
 
 ## TITULO SEPTIMO. DE LOS MECANISMOS LEGISLATIVOS
 
-### CAPITULO III. DE LOS DEBATES
+### CAPITULO II. DEL TRAMITE DE DISCUSION Y APROBACION
 
 ###### ARTICULO 85.
 
@@ -841,7 +847,7 @@ IV. Para los acuerdos administrativos o económicos, o puntos de acuerdo, se pre
 
 Una vez firmados en los términos de ley, los dictámenes sólo podrán ser modificados por acuerdo de la mayoría de los que lo suscribieron, hasta antes de su lectura en el Pleno, siempre y cuando se trate de modificaciones que cambien su sentido y alcance. Tratándose de enmiendas meramente de forma, éstas deberán hacerse antes de su inclusión en la Gaceta Parlamentaria.
 
-### CAPITULO IV. DE LAS VOTACIONES
+### CAPITULO III. DE LOS DEBATES
 
 ###### ARTICULO 88.
 
@@ -869,7 +875,7 @@ No será impedimento para tratar un asunto que no se haya publicado en la Gaceta
 
 Los dictámenes no resueltos por una sesión, serán presentados en orden de prioridad en la siguiente, conforme a lo dispuesto por este Reglamento.
 
-### CAPITULO V. DE LAS ACTAS
+### CAPITULO IV. DE LAS VOTACIONES
 
 ###### ARTICULO 91.
 
@@ -975,7 +981,7 @@ Si se solicitara hacer uso de la palabra sólo por oradores en contra, se emplea
 
 Declarado un asunto suficientemente discutido no se volverá a tomar la palabra sobre el mismo.
 
-### CAPITULO I. DE LA JUNTA DE COORDINACION POLITICA
+### CAPITULO V. DE LAS ACTAS
 
 ###### ARTICULO 110.
 
@@ -1043,9 +1049,9 @@ IV. Si al conocerse los resultados de la votación económica en voz de la Presi
 
 Previamente a su inclusión en la Gaceta Parlamentaria, el texto de los dictámenes aprobados por las comisiones deberá ser revisado, en cuanto a redacción y estilo, por la Coordinación de Servicios Parlamentarios, la que de encontrar observaciones que trasciendan su sentido, lo comunicará por escrito a los presidentes de las comisiones de origen, a efecto de que se tomen las medidas pertinentes. El dictamen se publicará en la Gaceta hasta que lo ordenen las propias comisiones.
 
-### CAPITULO II. DE LAS COMISIONES
+### CAPITULO I. DE LA JUNTA DE COORDINACION POLITICA
 
-### CAPITULO III. DE LOS GRUPOS Y REPRESENTACIONES PARLAMENTARIAS
+### CAPITULO II. DE LAS COMISIONES
 
 ###### ARTICULO 118.
 
@@ -1079,7 +1085,7 @@ El Congreso deberá mantener actualizados dos libros de actas; en el primero que
 
 ## TITULO OCTAVO. DE LA ORGANIZACION INTERNA DEL CONGRESO
 
-### CAPITULO IV. DEL MODULO DE ACCESO A LA INFORMACION PUBLICA
+### CAPITULO III. DE LOS GRUPOS Y REPRESENTACIONES PARLAMENTARIAS
 
 ###### ARTICULO 121.
 
@@ -1165,7 +1171,7 @@ V. Las demás que de manera temporal, especial o permanente, le confiera en form
 
 En los casos de extrema urgencia, gravedad o circunstancia apremiante, el Presidente de la Junta podrá disponer, ordenar o tomar decisiones administrativas, de las cuales dará cuenta en la próxima reunión de la Junta.
 
-### CAPITULO UNICO. DE LOS DIPUTADOS
+### CAPITULO IV. DEL MODULO DE ACCESO A LA INFORMACION PUBLICA
 
 #### Sección Primera. Generalidades
 
@@ -1204,6 +1210,10 @@ Todos los diputados del Congreso tienen el derecho de asistir a las reuniones de
 ###### ARTICULO 138.
 
 Las comisiones y comités deberán elaborar anualmente un plan general de trabajo, que contenga las actividades a desarrollar, especificando las que requieran la asignación de recursos materiales o financieros, determinando el presupuestó que sea necesario para la realización de las mismas; el cual deberán presentar por conducto de su Presidente a la Junta, a más tardar la tercera semana del mes de noviembre de cada año, a fin de que ésta lo considere al elaborar a su vez el presupuesto anual del Congreso del Estado.
+
+###### ARTICULO 139.
+
+Los presidentes de las comisiones y comité podrán solicitar directamente de la Oficial a Mayor del Congreso, el apoyo logístico que requieran para llevar a cabo las actividades de las mismas; y ésta deberá atender tales peticiones en los términos que establezca previamente la Junta.
 
 ###### ARTICULO 139.
 
@@ -1405,7 +1415,7 @@ Las comisiones contarán con un secretario técnico que les será asignado por l
 
 Asimismo, para la elaboración de los dictámenes que corresponda, las comisiones contarán con el apoyo de un asesor que con base en su perfil profesional y experiencia, les asignará la Coordinación de Asesoría y Secretariado Técnico de Comisiones.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO UNICO. DE LOS DIPUTADOS
 
 ###### ARTICULO 161.
 
@@ -1417,7 +1427,7 @@ Presentada la circunstancia de que un diputado se declarara independiente, éste
 
 Una representación parlamentaria se tendrá por legalmente constituida, cuando entregue a la Directiva, un oficio expedido de acuerdo con la normatividad del partido político al que pertenezca, que certifique el nombramiento del diputado como representante de dicho partido político ante el Congreso del Estado.
 
-### CAPITULO II. DE LA OFICIALIA MAYOR
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 163.
 
@@ -1429,7 +1439,7 @@ Las solicitudes de información serán recibidas y atendidas conforme a la ley d
 
 ## TITULO NOVENO
 
-### CAPITULO III. DE LA COORDINACION DE FINANZAS
+### CAPITULO II. DE LA OFICIALIA MAYOR
 
 ###### ARTICULO 165.
 
@@ -1485,13 +1495,13 @@ Los diputados deberán presentar la declaración de su situación patrimonial, c
 
 ## TITULO DECIMO. DE LOS ORGANOS TECNICOS, ADMINISTRATIVOS Y DE APOYO
 
-### CAPITULO IV. DE LA COORDINACION DE SERVICIOS INTERNOS
+### CAPITULO III. DE LA COORDINACION DE FINANZAS
 
 ###### ARTICULO 171.
 
 Los titulares de los órganos de soporte técnico y de apoyo del Congreso del Estado, podrán ser removidos por causa justificada, cuando así lo determine el Pleno por mayoría de votos de los diputados presentes en la sesión de que se trate.
 
-### CAPITULO V. DE LA COORDINACION DE INFORMATICA
+### CAPITULO IV. DE LA COORDINACION DE SERVICIOS INTERNOS
 
 ###### ARTICULO 172.
 
@@ -1563,9 +1573,7 @@ XII. Ser directamente responsable del cuidado y control del archivo histórico y
 
 XIII. Las demás que le confiera la Ley Orgánica y las que la Junta le asigne.
 
-### CAPITULO VI. DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2010)</small>
+### CAPITULO V. DE LA COORDINACION DE INFORMATICA
 
 ###### ARTICULO 178.
 
@@ -1615,7 +1623,9 @@ XV. Realizar las adquisiciones que requiera el Congreso del Estado de acuerdo co
 
 XVI. Las demás que le confiera la Ley Orgánica, y las que la Junta y la Oficialía Mayor le asignen.
 
-### CAPITULO VII. DE LA COORDINACION DE SERVICIOS PARLAMENTARIOS
+### CAPITULO VI. DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 180.
 
@@ -1649,7 +1659,7 @@ VII. Auxiliar al Oficial Mayor en mantener actualizado el inventario de inmueble
 
 VIII. Controlar y disponer que se realice el servicio de intendencia, conservación y limpieza del recinto del Congreso.
 
-### CAPITULO VIII. DE LA COORDINACION DE ASESORIA Y SECRETARIADO TECNICO DE COMISIONES
+### CAPITULO VII. DE LA COORDINACION DE SERVICIOS PARLAMENTARIOS
 
 ###### ARTICULO 182.
 
@@ -1693,7 +1703,7 @@ XIII. Coordinarse con el Instituto de Investigaciones Legislativas, para la corr
 
 XIV. Las demás que le asignen la Oficialía, Mayor y la Junta de Coordinación Política.
 
-### CAPITULO IX. DE LA COORDINACION DE ASUNTOS JURIDICOS
+### CAPITULO VIII. DE LA COORDINACION DE ASESORIA Y SECRETARIADO TECNICO DE COMISIONES
 
 ###### ARTICULO 184.
 
@@ -1715,7 +1725,7 @@ II. Contar con experiencia profesional de cinco años como mínimo al día de su
 
 III. Contar con experiencia docente o de investigación.
 
-### CAPITULO X. DE LA COORDINACION DE COMUNICACION SOCIAL
+### CAPITULO IX. DE LA COORDINACION DE ASUNTOS JURIDICOS
 
 ###### ARTICULO 185.
 
@@ -1765,7 +1775,7 @@ XII. Tener bajo su resguardo el archivo vigente de la Legislatura, sistematizarl
 
 XIII. Las demás que le atribuya la Ley Orgánica y le asigne la Directiva conforme a su competencia.
 
-### CAPITULO XI. DE LA CONTRALORIA INTERNA
+### CAPITULO X. DE LA COORDINACION DE COMUNICACION SOCIAL
 
 ###### ARTICULO 187.
 
@@ -1834,6 +1844,8 @@ V. Apoyar a la comisión en la planeación, organización y realización de reun
 VI. Elaborar y presentar para su aprobación a la comisión, los informes que ésta deba rendir a la Directiva, y
 
 VII. Las demás que le asigne la comisión en relación con el trabajo de la misma.
+
+### CAPITULO XI. DE LA CONTRALORIA INTERNA
 
 ###### ARTICULO 191.
 
@@ -2048,5 +2060,11 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 31 DE JULIO DE 2012.
 
 PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 13 DE SEPTIEMBRE DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
