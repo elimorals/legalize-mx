@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-penitenciario-del-estado-de-san-luis-potosi-818
 country: "mx"
 rank: "ley"
 publication_date: "2011-06-18"
-last_updated: "2011-06-18"
+last_updated: "2012-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81847&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL SISTEMA PENITENCIARIO DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en la edición extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 18 de junio de 2011.
 
@@ -213,9 +213,11 @@ X. Participación en el sistema penitenciario de personas e instituciones que no
 
 Cada Centro contará con el personal directivo, administrativo, técnico y de custodia suficiente para el adecuado desempeño de sus funciones.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTICULO 21.
 
-Para garantizar el buen desarrollo del Sistema en la selección del personal destinado a las diferentes áreas, se tomará en cuenta de manera estricta: la vocación natural, la honestidad, aptitudes, preparación académica y entorno social en el cual se haya desenvuelto en los últimos cinco años; además, deberán cumplir con los procesos de evaluación que señalan los requisitos de ingreso y permanencia conforme a la Ley General del Sistema Nacional de Seguridad Pública; la Ley de Seguridad Pública del Estado, y demás ordenamientos aplicables.
+Para garantizar el buen desarrollo del Sistema en la selección del personal destinado a las diferentes áreas, se tomará en cuenta de manera estricta: la vocación natural, la honestidad, aptitudes, preparación académica y entorno social en el cual se haya desenvuelto en los últimos cinco años; además, deberán cumplir con los procesos de evaluación que señalan los requisitos de ingreso y permanencia conforme a la Ley General del Sistema Nacional de Seguridad Pública; la Ley del Sistema de Seguridad Pública del Estado, y demás ordenamientos aplicables.
 
 ###### ARTICULO 22.
 
@@ -233,9 +235,11 @@ Se elaborarán manuales de procedimientos para la actuación del personal de seg
 
 ### Capítulo V. Del Modelo de Reinserción
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTICULO 25.
 
-El Sistema funcionará con base en el trabajo; la capacitación para el mismo; la educación; la salud; y el deporte como medios para lograr la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir; aplicando los criterios de clasificación y el tratamiento individualizado, mediante el estudio integral de la personalidad del interno, y que permita reencauzar las inclinaciones antisociales demostradas y facilitar la adquisición de aquellos conocimientos que puedan apoyarle al recobrar su libertad.
+El Sistema se organizará sobre la base del respeto a los derechos humanos, del trabajo; la capacitación para el mismo; la educación; la salud; y el deporte como medios para lograr la reinserción del sentenciado a la sociedad y procura que no vuelva a delinquir; aplicando los criterios de clasificación y el tratamiento individualizado, mediante el estudio integral de la personalidad del interno, y que permita reencauzar las inclinaciones antisociales demostradas y facilitar la adquisición de aquellos conocimientos que puedan apoyarle al recobrar su libertad.
 
 ###### ARTICULO 26.
 
@@ -572,3 +576,11 @@ El Secretario General de Gobierno
 Lic. Marco Antonio Aranda Martínez
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE SEPTIEMBRE DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
