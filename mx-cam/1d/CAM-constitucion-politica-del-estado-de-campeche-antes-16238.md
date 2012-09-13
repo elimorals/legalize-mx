@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "2012-08-16"
+last_updated: "2012-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2012.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -371,7 +371,7 @@ La soberanía del Estado reside esencial y originariamente en el pueblo campecha
 
 La renovación de los Poderes Legislativo y Ejecutivo, así como de los integrantes de Ayuntamientos y Juntas Municipales, se realizará mediante elecciones libres, auténticas y periódicas, conforme a las siguientes bases:
 
-I.- Los partido políticos son entidades de interés público y tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo. Únicamente los ciudadanos podrán constituir partidos políticos y afiliarse libre e individualmente a ellos, queda prohibida la intervención de organizaciones gremiales o con objeto social diferente y cualquier forma de afiliación corporativa. Las autoridades electorales solo podrán intervenir en los asuntos internos de los partidos políticos en los términos que señalen esta Constitución y la Ley.
+I.- Los partidos políticos son entidades de interés público y tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo. Únicamente los ciudadanos podrán constituir partidos políticos y afiliarse libre e individualmente a ellos, queda prohibida la intervención de organizaciones gremiales o con objeto social diferente y cualquier forma de afiliación corporativa. Las autoridades electorales solo podrán intervenir en los asuntos internos de los partidos políticos en los términos que señalen esta Constitución y la Ley.
 
 La Ley determinará los requisitos para el registro de los partidos políticos estatales, así como las formas específicas de la intervención de éstos y de los partidos políticos nacionales en los procesos electorales. Establecerá además las reglas para el desarrollo de las precampañas y las campañas electorales.
 
@@ -385,7 +385,7 @@ a).- Las reglas a que se sujetará el financiamiento de los partidos políticos,
 
 b).- El procedimiento al que se sujetarán los partidos políticos que pierdan su registro para su liquidación y destino de sus bienes y remanentes;
 
-c).- Los límites a las erogaciones de los partidos políticos en sus precampañas y campañas electorales, así como los montos máximos que tengan las aportaciones relativas al financiamiento privado de éstos; los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten los partidos políticos; y establecerá las sanciones por el incumplimiento a las disposiciones que se expidan en estas materias; y
+c).- Los limites a las erogaciones de los partidos políticos en sus precampañas y campañas electorales, así como los montos máximos que tengan las aportaciones relativas al financiamiento privado de éstos; los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten los partidos políticos; y establecerá las sanciones por el incumplimiento a las disposiciones que se expidan en estas materias; y
 
 d).- Las bases a que se sujetará el Instituto Electoral del Estado de Campeche para la fiscalización de las finanzas de los partidos políticos, de las precampañas y campañas electorales, así como para su coordinación para tal efecto con el Instituto Federal Electoral, incluyendo la que se requiera en materia de secreto bancario, fiduciario o fiscal;
 
@@ -411,7 +411,7 @@ Los consejeros del Poder Legislativo serán propuestos por los mismos Diputados.
 
 El Instituto Electoral del Estado tendrá a su cargo, además de las que le determine la ley, las actividades relativas a la capacitación y educación cívica, geografía electoral, derechos, prerrogativas y fiscalización del financiamiento y gastos de las agrupaciones y de los partidos políticos, padrón y lista de electores, impresión de materiales electorales, preparación de la jornada electoral, cómputos en los términos que señale la ley, declaración de validez, otorgamiento de constancias en las elecciones de Diputados locales y autoridades municipales; cómputo de la elección de Gobernador del Estado en cada uno de los distritos electorales uninominales, y remisión del resultado de este cómputo a la Sala Administrativa del Tribunal Superior de Justicia del Estado, erigida en Sala Electoral, para los efectos a que se contrae la fracción II del artículo 82-1 de esta Constitución, así como la regulación de la observación electoral, de las encuestas o sondeos de opinión con fines electorales y de los debates entre los candidatos a los diversos cargos de elección popular.
 
-La fiscalización de todos los ingresos y egresos del Instituto Electoral, estará a cargo de una Contraloría Interna, la cual contará con autonomía técnica y de gestión. La Ley determinará su integración y financiamiento.
+La fiscalización de todos los ingresos y egresos del Instituto Electoral, estará a cargo de una Contraloría Interna, la cual contará con autonomía técnica y de gestión. La Ley determinará su integración y funcionamiento.
 
 Las sesiones de todos los órganos colegiados de dirección serán públicas en los términos que señale la Ley.
 
@@ -599,13 +599,17 @@ Las determinaciones sobre la declaración de validez, el otorgamiento de las con
 
 Los diputados son inviolables por las opiniones que manifiesten en el desempeño de sus cargos, y no podrán ser reconvenidos por ellas.
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTICULO 38.
 
-El desempeño del cargo de diputado es incompatible con cualquier otro cargo o empleo público, ya sea federal, estatal o municipal, en que se disfrute de sueldo, exceptuados los de instrucción pública, beneficencia y salubridad.
+El desempeño del cargo de diputado es incompatible con cualquier otra comisión, cargo o empleo públicos, ya sea federal, estatal o municipal, en que se disfrute de sueldo.
 
-Los diputados sólo podrán desempeñar estos empleos o cargos con licencia de la Legislatura y en su receso, de la Diputación Permanente cuando se trate de alguno de sus miembros, pero entonces cesarán en sus funciones legislativas mientras dure su nuevo cargo, empleo o comisión.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2012)</small>
+
+Los diputados sólo podrán desempeñar cualquier otro empleo, cargo o comisión con licencia de la Legislatura y en su receso, de la Diputación Permanente cuando se trate de alguno de sus miembros, pero entonces cesarán en sus funciones legislativas mientras dure este nuevo cargo, empleo o comisión.
+
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
 
 Cada diputado será gestor de las demandas sociales de los habitantes que representan en el Congreso del Estado, tienen el deber de promover las soluciones de los problemas que afecten a los habitantes de sus distritos o a sus representaciones proporcionales minoritarias. Los diputados de mayoría relativa tienen además la obligación de visitar sus respectivos distritos durante los períodos de receso del Congreso. Se exceptúan de esta obligación los diputados que integran la Diputación Permanente.
 
@@ -939,11 +943,11 @@ Cuando, por cualquier circunstancia, no se aprueben las Leyes de Ingresos del Es
 
 ### CAPITULO XIV. De la Diputación Permanente
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2000)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTICULO 55.
 
-Durante los períodos de receso del Congreso, su Gran Comisión o Comisión de Gobierno y Administración fungirá como Diputación Permanente.
+Durante los períodos de receso del Congreso habrá una Diputación Permanente. La integración, funcionamiento y competencia de la Diputación Permanente se regirá por lo que disponen la presente Constitución y la Ley Orgánica del Poder Legislativo del Estado.
 
 > <small>(ADICIONADO, P.O. 24 DE MARZO DE 1994)</small>
 
@@ -951,7 +955,9 @@ Durante los períodos de receso del Congreso, su Gran Comisión o Comisión de G
 
 Diez días antes de concluir el segundo período de receso, de cada uno de los años de ejercicio de una Legislatura, en sesión solemne de la Diputación Permanente, a la cual asistirán todos los demás miembros de la Legislatura y se invitará a concurrir, al Gobernador del Estado y a los Magistrados integrantes del Tribunal Superior de Justicia de la entidad, el presidente de dicha Diputación rendirá al pueblo campechano un informe de las actividades realizadas durante el correspondiente ejercicio anual por el Congreso del Estado, como asamblea legislativa, y de las efectuadas, en lo particular, por cada uno de sus miembros en cumplimiento de lo que dispone el tercer párrafo del artículo 38 de esta Constitución.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 22 DE JUNIO DE 2000)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE SEPTIEMBRE DE 2012)</small>
+
+Cuando la celebración de la sesión prevista en el párrafo anterior coincida en fecha con la sesión previa que establece la Ley Orgánica del Poder Legislativo del Estado, esta última antecederá a la primera.
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 2000)</small>
 
@@ -1111,9 +1117,11 @@ Son atribuciones del Gobernador:
 
 I.- Cuidar de la seguridad del Estado y de la de sus habitantes, protegiéndolos en el ejercicio de sus derechos;
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II.- Designar a los Magistrados del Tribunal Superior de Justicia del Estado y someter estos nombramientos a la aprobación de la Cámara de Diputados o de la Diputación Permanente, según el caso;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2012)</small>
+
+II.- Designar a los magistrados del Tribunal Superior de Justicia del Estado y someter estos nombramientos a la aprobación del Congreso o de la Diputación Permanente, según el caso, procurando mantener un equilibrio entre mujeres y hombres en la composición de ese alto Tribunal;
 
 > <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -1127,9 +1135,11 @@ IV.- Pedir la destitución, de acuerdo con lo dispuesto por el artículo 86, ant
 
 V.- Facilitar al Poder Judicial los auxilios que necesite para el ejercicio expedito de sus funciones;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VI.- Nombrar y remover libremente a los funcionarios y al personal que formen parte del Poder Ejecutivo;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2012)</small>
+
+VI.- Nombrar y remover libremente a los funcionarios y al personal que formen parte del Poder Ejecutivo, procurando mantener un equilibrio entre mujeres y hombres;
 
 > <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -1171,7 +1181,7 @@ a). Toda clase de actos y negocios jurídicos, ya sean administrativos o judicia
 
 b). Su participación en empresas industriales, agrícolas y mercantiles con el fin de impulsar la productividad y el desarrollo estatal;
 
-> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 136 DE REFORMAS.</small>
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NO. 136 DE REFORMAS.</small>
 
 > <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2008)</small>
 
@@ -1541,7 +1551,7 @@ VI.- Nombrar a los jueces de primera instancia y menores y a los empleados de lo
 
 VII.- Conceder licencia a los jueces de primera instancia y menores y a los empleados de los juzgados de primera instancia y menores; y resolver acerca de sus renuncias;
 
-VIII.- Nombrar y remover a los empleados del Tribunal Superior de Justicia, aceptarles sus renuncias; y
+VIII.- Nombrar y remover a los empleados del Tribunal Superior de Justicia, aceptarles sus renuncias; y (sic)
 
 > <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1985)</small>
 
@@ -1585,7 +1595,7 @@ El Gobernador del Estado durante el tiempo de su encargo, sólo podrá ser acusa
 
 ###### ARTICULO 91.
 
-Para proceder penalmente contra los Diputados, Magistrados del Tribunal Superior, Jueces de Primera Instancia, Electorales y Menores, Secretarios de las Dependencias de la Administración Pública del Estado, Procurador General de Justicia, Auditor Superior del Estado, Consejero Presidente y Consejeros Electorales del Consejo General del Instituto Electoral del Estado, Presidente de la Comisión de Derechos Humanos del Estado, Comisionado Presidente y demás Comisiones integrantes de la Comisión de Transparencia y Acceso a la Información Pública del Estado , Presidentes, Regidores y Síndicos de Ayuntamientos y Juntas Municipales, y Comisarios Municipales, por la comisión de delitos durante el tiempo de su encargo, se requerirá que el Congreso del Estado, por mayoría absoluta de sus miembros presentes en sesión, declare si ha o no lugar a proceder contra el inculpado. En caso negativo quedarán reservadas las acciones para cuando el servidor público cese en sus funciones, para lo cual quedará interrumpido el término prescriptorio. En caso afirmativo quedará el inculpado separado de su cargo y sujeto a la acción de los tribunales comunes.
+Para proceder penalmente contra los Diputados, Magistrados del Tribunal Superior, Jueces de Primera Instancia, Electorales y Menores, Secretarios de las Dependencias de la Administración Pública del Estado, Procurador General de Justicia, Auditor Superior del Estado, Consejero Presidente y Consejeros Electorales del Consejo General del Instituto Electoral del Estado, Presidente de la Comisión de Derechos Humanos del Estado, Comisionado Presidente y demás Comisionados integrantes de la Comisión de Transparencia y Acceso a la Información Publica del Estado, Presidentes, Regidores y Síndicos de Ayuntamientos y Juntas Municipales, y Comisarios Municipales, por la comisión de delitos durante el tiempo de su encargo, se requerirá que el Congreso del Estado, por mayoría absoluta de sus miembros presentes en sesión, declare si ha o no lugar a proceder contra el inculpado. En caso negativo quedarán reservadas las acciones para cuando el servidor público cese en sus funciones, para lo cual quedará interrumpido el término prescriptorio. En caso afirmativo quedará el inculpado separado de su cargo y sujeto a la acción de los tribunales comunes.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 1996)</small>
 
@@ -1693,7 +1703,7 @@ II.- Entregar al Congreso del Estado los informes del resultado de la revisión 
 
 Para tal efecto, de manera previa a la presentación del informe del resultado se darán a conocer a las entidades fiscalizadas los pliegos de observaciones que les corresponda de los resultados de su revisión, a efecto de que éstas presenten las justificaciones y aclaraciones que correspondan, las cuales deberán ser valoradas por la Auditoría Superior del Estado, para la elaboración del informe del resultado de la revisión de las Cuentas Públicas.
 
-El titulaR de la Auditoría Superior del Estado enviara el informe del resultado a las entidades fiscalizadas, a más tardar a los 10 días hábiles posteriores a que éste sea entregado al Congreso, para que, en un plazo de hasta 30 días hábiles, presenten la información y realicen las consideraciones que estimen pertinentes, de acuerdo con lo previsto en la ley. Lo anterior, no aplicará a los procedimientos de fincamiento de responsabilidades resarcitorias y administrativas así como a las promociones de responsabilidades, las cuales se sujetarán a los procedimientos y términos que establezca la Ley.
+El titular de la Auditoría Superior del Estado enviará el informe del resultado a las entidades fiscalizadas, a más tardar a los 10 días hábiles posteriores a que éste sea entregado al Congreso, para que, en un plazo de hasta 30 días hábiles, presenten la información y realicen las consideraciones que estimen pertinentes, de acuerdo con lo previsto en la ley. Lo anterior, no aplicará a los procedimientos de fincamiento de responsabilidades resarcitorias y administrativas así como a las promociones de responsabilidades, las cuales se sujetarán a los procedimientos y términos que establezca la Ley.
 
 La Auditoría Superior del Estado deberá pronunciarse en un plazo de 120 días hábiles sobre la información y las consideraciones recibidas de las entidades fiscalizadas, en caso de no hacerlo, se tendrán por atendidas las recomendaciones.
 
@@ -1737,7 +1747,7 @@ I.- Cada Municipio será gobernado por un cuerpo colegiado, denominado Ayuntamie
 
 > <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2008)</small>
 
-a) El Ayuntamiento ejercerá las facultades que al gobierno municipal otorga la Constitución Política de los Estados Unidos mexicanos (sic), las que le otorga esta Constitución y las que le confieran las leyes que de ellas emanen.
+a) El Ayuntamiento ejercerá las facultades que al gobierno municipal otorga la Constitución Política de los Estados Unidos mexicanos, las que le otorga esta Constitución y las que le confieran las leyes que de ellas emanen.
 
 > <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2008)</small>
 
@@ -1799,7 +1809,7 @@ b).- Ser nativo del Estado, con residencia de un año en el Municipio respectivo
 
 c).- Si se es oriundo de otro Estado, tener residencia cuando menos de cinco años en el de Campeche y de un año en el municipio de que se trate.
 
-No será impedimento la ausencia eventual en cualquiera de los casos, siempre que no se conserve la vecindad del otro Estado.
+No será impedimento la ausencia eventual en cualquiera de los casos, siempre que no se conserve la vecindad de otro Estado.
 
 > <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2008)</small>
 
@@ -1897,11 +1907,15 @@ Los HH. Ayuntamientos acordarán anualmente las remuneraciones para sus integran
 
 Las funciones de control, evaluación y vigilancia de la aplicación de los recursos públicos de la administración pública municipal corresponderán a las autoridades que determine la ley aplicable.
 
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTICULO 108.
 
-Los ayuntamientos quedan facultados para aprobar, de acuerdo con las leyes que en materia municipal deberá expedir el Congreso del Estado, los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia, así como que aseguren la participación ciudadana y vecinal.
+Los Ayuntamientos quedan facultados para aprobar, de acuerdo con las leyes que en materia municipal deberá expedir el Congreso del Estado, los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia, así como que aseguren la participación ciudadana y vecinal. Disposiciones que serán publicadas en la Gaceta Municipal y en el Periódico Oficial del Estado.
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2008)</small>
 
 Las leyes a que se refiere el párrafo anterior establecerán:
 
@@ -2610,3 +2624,39 @@ P.O. 16 DE AGOSTO DE 2012.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 13 DE SEPTIEMBRE DE 2012.
+
+DECRETO NÚMERO 250 POR EL QUE SE REFORMA EL ARTÍCULO 38 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 13 DE SEPTIEMBRE DE 2012.
+
+DECRETO NÚMERO 251 POR EL QUE SE REFORMAN LAS FRACCIONES II Y VI DEL ARTÍCULO 71 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE.
+
+PRIMERO.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En su oportunidad, deberán hacerse las adecuaciones que sean necesarias en las disposiciones legales y reglamentarias que lo ameriten, para la debida observancia de lo dispuesto por ese decreto.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 13 DE SEPTIEMBRE DE 2012.
+
+DECRETO NÚMERO 256 POR EL QUE SE REFORMA EL ARTÍCULO 55 Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 56, AMBOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE.
+
+ÚNICO.- El presente decreto entrará en vigor a los tres días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE SEPTIEMBRE DE 2012.
+
+DECRETO NÚMERO 258 POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 108 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE.
+
+PRIMERO.- El presente decreto entrará en vigor noventa días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Una vez iniciada la vigencia del presente decreto, en un plazo máximo de sesenta días, la Legislatura del Estado deberá realizar las modificaciones a la Ley Orgánica de los Municipios del Estado que correspondan.
+
+TERCERO.- Los Ayuntamientos a partir de la entrada en vigor de la reforma constitucional y de las modificaciones a la Ley Orgánica de los Municipios del Estado, deberán, en un plazo de sesenta días, emitir acuerdo para crear la Gaceta Municipal en el que se incluirá sus características, contenidos y periodicidad de conformidad con sus capacidades presupuestales.
+
+CUARTO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan a lo dispuesto en este decreto.
