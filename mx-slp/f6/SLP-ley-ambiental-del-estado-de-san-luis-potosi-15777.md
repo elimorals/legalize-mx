@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2012-07-31"
+last_updated: "2012-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -2525,6 +2525,10 @@ En caso de que el infractor realice las medidas correctivas o de urgente aplicac
 
 La autoridad correspondiente podrá otorgar al infractor la opción en pagar la multa o bien, realizar inversiones equivalentes en la adquisición o instalación de equipo para evitar toda posible contaminación al ambiente o a la salud humana, o en la protección, conservación o restauración del ambiente, siempre y cuando se garanticen las obligaciones del infractor y no se trate de alguno de los supuestos previstos en el artículo 159 de esta Ley y la autoridad justifique plenamente su decisión.
 
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2012)</small>
+
+Los ayuntamientos podrán solicitar a la Secretaría de Finanzas de Gobierno del Estado, de manera análoga en los términos del artículo 35 del Código Fiscal del Estado y sus reglamentos, la devolución de la multa aplicada por cualquier infracción contenida en las diversas disposiciones normativas ambientales, siempre y cuando se acredite ante la Secretaría de Ecología y Gestión Ambiental, haber realizado una inversión por la misma cantidad o mayor a esta, para la ejecución de acciones, proyectos e inversiones en infraestructura, que permitan a la vez solventar la sanción impuesta, así como el mejoramiento, protección, conservación o restauración del medio ambiente; la resolución que apruebe el reintegro debe tener la condición de que el recurso devuelto se utilice en acciones y/o proyectos de la misma naturaleza.
+
 ###### ARTICULO 161.
 
 Cuando proceda como sanción la clausura temporal o definitiva, total o parcial, el personal comisionado para ejecutarla procederá en el acto a levantar acta circunstanciada de los hechos u omisiones encontrados en la que se deberá indicar al infractor las medidas correctivas o de urgente aplicación, las acciones que deberá llevar a cabo para subsanar las irregularidades que motivaron dicha sanción y los plazos para su realización.
@@ -2932,3 +2936,9 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. El Ejecutivo del Estado expedirá en ciento veinte días los reglamentos a que se refiere este Decreto; y adecuará aquéllos que así lo requieran.
+
+P.O. 13 DE SEPTIEMBRE DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
