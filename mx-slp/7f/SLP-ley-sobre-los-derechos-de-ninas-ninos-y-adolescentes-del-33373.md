@@ -4,7 +4,7 @@ identifier: "SLP-ley-sobre-los-derechos-de-ninas-ninos-y-adolescentes-del-33373"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-14"
-last_updated: "2012-06-12"
+last_updated: "2012-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY SOBRE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de agosto de 2003.
 
@@ -205,9 +205,11 @@ Los gobiernos estatal y municipal, a través de sus instituciones, albergarán t
 
 Cuando una niña, niño o adolescente se vea privado de su familia, las autoridades estatales establecerán los mecanismos necesarios a fin de que se procure su reintegración a ella, salvo mandato judicial en contrario.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTICULO 23.
 
-Niñas, niños y adolescentes en exposición, estado de abandono o que no se encuentren sujetos a patria potestad, podrán ser integrados a una familia mediante la figura jurídica de la adopción, en los términos del Código Civil, y de los convenios internacionales suscritos y ratificados por México, procurando que sea mediante la adopción plena.
+Niñas, niños y adolescentes en exposición, estado de abandono o que no se encuentren sujetos a patria potestad, podrán ser integrados a una familia mediante la figura jurídica de la adopción, en los términos del Código Familiar, y de los convenios internacionales suscritos y ratificados por México.
 
 ###### ARTICULO 24.
 
@@ -689,7 +691,7 @@ LIC. MARCO ANTONIO ARANDA MARTINEZ
 
 (Rúbrica)
 
-N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.
+N. DE E.: A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.
 
 P.O. 11 DE SEPTIEMBRE DE 2010.
 
@@ -702,3 +704,9 @@ P.O. 12 DE JUNIO DE 2012.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 13 DE SEPTIEMBRE DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de San Luis Potosí.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
