@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-establecimientos-mercantiles-para-la-ciudad-de-78374"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-20"
-last_updated: "2012-06-01"
+last_updated: "2012-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78374&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-01-14"
 
 LEY DE ESTABLECIMIENTOS MERCANTILES DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 1 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 20 de enero de 2011.
 
@@ -310,21 +310,17 @@ d) Colocar en un lugar visible, la señalización de las acciones a seguir en ca
 
 XIII. Vigilar que se conserve la seguridad de los usuarios, empleados y dependientes dentro del establecimiento mercantil, así como coadyuvar a que, con su funcionamiento no se altere el orden público de las zonas aledañas al mismo. En caso de que se altere el orden y la seguridad dentro del establecimiento mercantil o en la parte exterior adyacente del lugar en donde se encuentre ubicado, los titulares o sus dependientes deberán dar aviso inmediato a las autoridades competentes;
 
+> <small>(REFORMADA, G.O. 13 DE SEPTIEMBRE DE 2012)</small>
+
 XIV. Contar con los cajones de estacionamiento que instruyen para cada uso los Programas Delegacionales o Parciales de Desarrollo Urbano, el Reglamento de Construcciones y las normas técnicas complementarias para el proyecto arquitectónico del Reglamento de Construcciones.
-
-Deberán proporcionar estacionamiento gratuito a sus clientes con comprobante de consumo, por un lapso de dos horas de estancia; después de este tiempo proporcionarán tarifa preferencial a los mismos respecto al costo normal del servicio.
-
-El derecho a las dos horas de gratuidad estará sujeto al monto de consumo mínimo que se establezca en el Reglamento de la presente Ley.
-
-> <small>(ADICIONADO, G.O. 14 DE FEBRERO DE 2012)</small>
 
 Cuando en el establecimiento mercantil existan las condiciones, habilitarán un espacio destinado únicamente para el resguardo de bicicletas.
 
-Quedan exentos de las obligaciones señaladas en el párrafo primero y segundo de esta fracción, los establecimientos mercantiles que:
+Quedan exentos de las obligaciones señaladas en el párrafo primero de esta fracción, los establecimientos mercantiles que:
 
 a) Tengan una superficie menor a 100 metros cuadrados;
 
-b) Se encuentren en inmuebles catalogados por el Instituto Nacional de Antropología e Historia y/o el Instituto Nacional de Bellas Artes;
+b) Se encuentren en inmuebles catalogados por el Instituto Nacional de Antropología Historia y/o el Instituto Nacional de Bellas Artes;
 
 c) Se localicen en calles peatonales;
 
@@ -1457,3 +1453,9 @@ G.O. 1 DE JUNIO DE 2012.
 PRIMERO.- Remítase al Jefe de Gobierno del Distrito Federal, para su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 13 DE SEPTIEMBRE DE 2012.
+
+PRIMERO.- Túrnese al Jefe de Gobierno del Distrito Federal para su promulgación y publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
