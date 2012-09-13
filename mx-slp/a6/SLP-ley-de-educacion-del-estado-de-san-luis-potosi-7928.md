@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-7928"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-16"
-last_updated: "2012-06-19"
+last_updated: "2012-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el viernes 16 de junio de 1995.
 
@@ -383,13 +383,21 @@ XXXI.- Imponer sanciones a las escuelas que infrinjan las disposiciones legales,
 
 XXXII.- Coordinarse con la Secretaría de Salud, para implementar programas que fomenten en los educandos, el consumo de alimentos y bebidas con alto contenido nutricional y bajo contenido calórico;
 
-> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2008)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2012)</small>
 
-XXXIII.- Establecer lineamientos para prohibir la venta o consumo de alimentos y bebidas con bajo o nulo contenido nutricional, en las cooperativas o tiendas escolares y, en general, en los espacios donde se expende o consumen alimentos en las instituciones de nivel básico obligatorio, y
+XXXIII.- Establecer lineamientos para prohibir la venta o consumo de alimentos y bebidas con bajo o nulo contenido nutricional, en las cooperativas o tiendas escolares y, en general, en los espacios donde se expende o consumen alimentos en las instituciones de nivel básico obligatorio;
 
-> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2008)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2012)</small>
 
-XXXIV.- Las demás que señalen las leyes y reglamentos vigentes en el Estado.
+XXXIV.- Regular la Red Estatal de Bibliotecas Públicas, a través de la Coordinación Estatal de Bibliotecas, dependiente de la Secretaría asimismo, dotar a las bibliotecas de acervos propios, y fortalecer la infraestructura de aquéllas que dependan directamente de la propia Secretaría, con ampliación, mantenimiento, mejoras físicas, y tecnológicas, en la medida de las factibilidades presupuestales;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2012)</small>
+
+XXXV.- Equipar las bibliotecas; actualizar la información general de los acervos; modernizar los servicios bibliotecarios por medio de la automatización de la información; promover las distintas colecciones dedicadas al fomento de la lectura y el interés por la información; generar exposiciones bibliográficas con material de diversas editoriales públicas y privadas, e integrar en dichas colecciones obras de autores locales, conforme se programe en el presupuesto que se apruebe para tal efecto, y
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2012)</small>
+
+XXXVI.- Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
 ###### ARTICULO 23.
 
@@ -1800,6 +1808,16 @@ DECRETO No. 983, POR EL QUE SE REFORMAN LOS ARTÍCULOS, 9°. EN SU FRACCIÓN XI,
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 13 DE SEPTIEMBRE DE 2012.
+
+PRIMERO. La Ley que se expide, así como los artículos, segundo, y tercero de este Decreto, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Las bibliotecas que bajo el esquema que determina la Ley que se expide, se integren a la Red Estatal de Bibliotecas Públicas, y formen parte de la (sic) ésta última, seguirán dependiendo presupuestal, administrativa y operativamente, de las dependencias o entidades a las que actualmente pertenezcan; y deben atender para su funcionamiento los lineamientos que expida la Coordinación Estatal de Bibliotecas Públicas, de la Secretaría de Educación de Gobierno del Estado.
+
+TERCERO. El Consejo de la Red Estatal de Bibliotecas Públicas debe integrarse en un plazo máximo de treinta días a la entrada en vigor de esta Ley; y su Reglamento Interior debe expedirse dentro del término de noventa días a partir de su vigencia.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a este Decreto.
 
 ## TRANSITORIOS
 
