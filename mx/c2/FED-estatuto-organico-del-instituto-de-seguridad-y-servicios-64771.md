@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-de-seguridad-y-servicios-64771"
 country: "mx"
 rank: "estatuto"
 publication_date: "2008-12-31"
-last_updated: "2012-09-04"
+last_updated: "2012-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-06-26"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE SEPTIEMBRE DE 2012.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 31 de diciembre de 2008.
 
@@ -501,9 +501,11 @@ El Director General podrá delegar cualquiera de sus facultades en otros servido
 
 Para los efectos anteriores, podrá otorgar poderes generales y especiales con las facultades que le competan, entre ellas las que requieran autorización o cláusula especial, así como sustituirlos y revocarlos. Asimismo, podrá conferir poderes generales y especiales a terceros para llevar la representación y defensa jurídica de los intereses del Instituto.
 
+> <small>(REFORMADO, D.O.F. 13 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTICULO 26.
 
-En sus ausencias temporales el Director General será suplido por el servidor público de primer nivel del Instituto que designe la Junta, a propuesta del propio Director General.
+En sus ausencias, el Director General será suplido por el Secretario General, por el Director Jurídico, por el Director de Administración, por el Director de Finanzas o por el Director de Prestaciones Económicas, Sociales y Culturales, en el orden indicado.
 
 ### CAPITULO TERCERO. De la Comisión Ejecutiva del Fondo de la Vivienda
 
@@ -1894,3 +1896,7 @@ PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publ
 SEGUNDO.- Para efectos de cumplir con lo previsto en los artículos 58 y 59 del Estatuto Orgánico del ISSSTE, en un plazo que no excederá de noventa días naturales a partir de la vigencia de este ordenamiento, se transferirá a la Dirección de Administración, los correspondientes recursos humanos, materiales y financieros de la Subdirección de Administración de Riesgos Institucionales y Fianzas, con sus respectivas Jefaturas de Servicio y de Departamento.
 
 TERCERO.- Las referencias efectuadas a la Dirección de Finanzas en relación con el programa de aseguramiento de los bienes patrimoniales del Instituto, así como el programa integral de seguros y fianzas de sus servidores públicos y, en su caso, de sus derechohabientes contenidas en el Estatuto Orgánico o en la normativa que de él se desprenda, se deberán entender aplicadas a la Dirección de Administración.
+
+D.O.F. 13 DE SEPTIEMBRE DE 2012.
+
+UNICO.- La presente reforma entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
