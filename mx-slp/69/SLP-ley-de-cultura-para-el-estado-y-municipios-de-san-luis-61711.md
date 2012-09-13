@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-cultura-para-el-estado-y-municipios-de-san-luis-61711"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-10"
-last_updated: "2011-05-07"
+last_updated: "2012-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61711&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE CULTURA PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 10 de mayo de 2008.
 
@@ -213,7 +213,7 @@ I. Garantizar los derechos culturales de todos los potosinos y habitantes del Es
 
 II. Elaborar el Programa Sectorial de Cultura del Estado, a efecto de someterlo a la aprobación del titular del Poder Ejecutivo, así como ejecutarlo y evaluarlo;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO TERCERO TRANSITORIO DEL DECRETO DE CREACION DE LA PRESENTE LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO TERCERO TRANSITORIO DEL DECRETO DE CREACIÓN DE LA PRESENTE LEY.</small>
 
 III. Administrar y ejecutar, de conformidad con la normatividad vigente, los recursos asignados anualmente en la Ley del Presupuesto de Egresos del Estado de San Luis Potosí; así como gestionar y administrar otros apoyos financieros, materiales y técnicos, tanto con el gobierno federal, gobiernos municipales, y la sociedad civil, con el propósito de hacer posible el cumplimiento de las metas y acciones señaladas en el Programa Sectorial de Cultura;
 
@@ -263,7 +263,9 @@ XXIV. Diseñar, ejecutar y mantener actualizado el sistema de información cultu
 
 XXV. Impulsar y apoyar las propuestas que en materia de desarrollo cultural municipal, propongan las organizaciones de la sociedad civil, organizaciones independientes y organismos privados, con el propósito de fortalecer la toma de decisiones en materia cultural;
 
-XXVI. Impulsar la creación de la red de bibliotecas en el Estado; dotarlas de acervos propios y fortalecer su infraestructura con ampliación, mantenimiento, mejoras físicas y tecnológicas, y
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2012)</small>
+
+XXVI. Formar parte de la Red Estatal de Bibliotecas Públicas, en vinculación con la Coordinación Estatal de Bibliotecas Públicas; asimismo dotar a dichas bibliotecas de acervos propios y fortalecer su infraestructura con la ampliación, mantenimiento, mejoras físicas y tecnológicas, acorde a los lineamientos que dicte la Coordinación Estatal de Bibliotecas Públicas, y
 
 XXVII. Las demás que le otorgue esta Ley, y otros ordenamientos jurídicos aplicables.
 
@@ -405,7 +407,9 @@ I. Apoyar a los creadores difundiendo la producción artística, así como promo
 
 II. Fomentar la lectura a través de los programas de coinversión e inversión estatal, así como la creación de programas específicos y el impulso de acciones que abarquen los espacios culturales del Estado;
 
-III. Equipar las bibliotecas; actualizar la información general de los acervos; modernizar los servicios bibliotecarios a través de la automatización de la información; promover las distintas colecciones dedicadas a fomento a la lectura y el interés por la información; generar exposiciones bibliográficas con material de diversas editoriales públicas y privadas, e integrar en dichas colecciones obras de autores locales;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2012)</small>
+
+III. Equipar las bibliotecas dependientes de la Secretaría, bajo los lineamientos que dicte la Coordinación Estatal de Bibliotecas Públicas; además actualizar la información general de los acervos modernizar los servicios bibliotecarios a través de la automatización de la información promover las distintas colecciones dedicadas al fomento de la lectura y el interés por la información generar exposiciones bibliográficas con material de diversas editoriales públicas y privadas, e integrar en dichas colecciones obras de autores locales;
 
 IV. Implementar un programa editorial que tenga como uno de sus principales objetivos, la promoción y difusión de la lectura en los diversos sectores de la sociedad potosina, a través de publicaciones gratuitas; así como la preservación de las obras heredadas, la divulgación de la cultura popular e indígena, y el apoyo a la creación artística, promoviendo tanto a creadores, como a investigadores, cronistas y ensayistas residentes en el Estado de San Luis Potosí, con la publicación de su obra;
 
@@ -737,8 +741,18 @@ Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 7 DE MAYO DE 2011.
 
 UNICO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE SEPTIEMBRE DE 2012.
+
+PRIMERO La Ley que se expide, así como los artículos, segundo, y tercero de este Decreto, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Las bibliotecas que bajo el esquema que determina la Ley que se expide, se integren a la Red Estatal de Bibliotecas Públicas, y formen parte de la (sic) ésta última, seguirán dependiendo presupuestal, administrativa y operativamente, de las dependencias o entidades a las que actualmente pertenezcan; y deben atender para su funcionamiento los lineamientos que expida la Coordinación Estatal de Bibliotecas Públicas, de la Secretaría de Educación de Gobierno del Estado.
+
+TERCERO. El Consejo de la Red Estatal de Bibliotecas Públicas debe integrarse en un plazo máximo de treinta días a la entrada en vigor de esta Ley; y su Reglamento Interior debe expedirse dentro del término de noventa días a partir de su vigencia.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a este Decreto.
