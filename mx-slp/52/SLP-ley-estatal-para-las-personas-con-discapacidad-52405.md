@@ -4,7 +4,7 @@ identifier: "SLP-ley-estatal-para-las-personas-con-discapacidad-52405"
 country: "mx"
 rank: "ley"
 publication_date: "2006-03-16"
-last_updated: "2011-03-29"
+last_updated: "2012-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY ESTATAL PARA LAS PERSONAS CON DISCAPACIDAD
 
-LEY ESTATAL PARA LAS PERSONAS CON DISCAPACIDAD
+LEY ESTATAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ, PUBLICADA EN EL P.O. 13 DE SEPTIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de San Luis Potosí, el jueves 16 de marzo de 2006.
 
@@ -47,7 +49,7 @@ LEY ESTATAL PARA LAS PERSONAS CON DISCAPACIDAD
 
 La presente Ley es de orden público e interés social; y de observancia general, Es reglamentaria del artículo 12 de la Constitución Política del Estado, en lo relativo a las personas con discapacidad, que conforme a tal precepto, son objeto de especial protección por parte de las autoridades.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 2°.
 
@@ -159,7 +161,7 @@ XI. Dirección de Integración Social: Dirección de Integración Social de Pers
 
 XII. Enlaces designados: persona elegida por cada institución responsable de la aplicación de la Ley, para un adecuado control y seguimiento de las acciones que llevan a cabo las instituciones en materia de discapacidad;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2009)</small>
 
 XIII. Discapacidad: está dividida en médica y social; e incluye las siguientes categorías:
 
@@ -379,7 +381,7 @@ XXIX. Capacitar, vigilar y evaluar a las instituciones estatales y municipales, 
 
 XXX. Las demás que le señale esta Ley y otras disposiciones legales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2009)</small>
 
 ###### ARTICULO 11.
 
@@ -941,7 +943,7 @@ El Instituto Potosino del Deporte impartirá de forma permanente, talleres de de
 
 El Instituto Potosino del Deporte convocará anualmente a los deportistas en sus diferentes discapacidades, a participar en el premio estatal del deporte adaptado.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE MAYO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE MAYO DE 2009)</small>
 
 ### CAPITULO IX. Integración de los Bienes y Servicios Culturales
 
@@ -949,7 +951,7 @@ El Instituto Potosino del Deporte convocará anualmente a los deportistas en sus
 
 la Secretaría de Cultura, en coordinación con la Secretaría de Turismo del Estado, y las autoridades competentes, tendrán la misión de proporcionar todos los instrumentos necesarios para que las personas con discapacidad, puedan acceder a los bienes y servicios culturales, así como al desarrollo de sus capacidades creativas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2009)</small>
 
 ###### ARTICULO 62.
 
@@ -1085,7 +1087,7 @@ Las dependencias o empresas que por su naturaleza deban instalar o reubicar regi
 
 ### CAPITULO II. Estacionamientos
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2009)</small>
 
 ###### ARTICULO 77.
 
@@ -1117,7 +1119,7 @@ IV. Realizar junto con la Dirección de Integración Social, la creación de pro
 
 V. Proponer las adecuaciones para que dentro de la Ley sobre el Régimen de la Propiedad en Condominio del Estado y su respectivo reglamento, de igual forma en el reglamento de Juntas de Mejoras, se contemplen los lineamientos y criterios de diseño y construcción para vivienda adaptable y accesible, así como a los espacios privados de uso público, siguiendo los lineamientos generales de accesibilidad.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE JULIO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE JULIO DE 2009)</small>
 
 ### CAPITULO IV. De la Atención Preferente
 
@@ -1227,7 +1229,7 @@ Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 12 DE MAYO DE 2009.
 
@@ -1245,7 +1247,7 @@ TERCERO. Se deroga cualquier disposición que se oponga a este Decreto.
 
 P.O. 29 DE MARZO DE 2011.
 
-DECRETO 538, SE ADICIONA EL ARTICULO 49 BIS A LA LEY ESTATAL PARA PERSONAS CON DISCAPACIDAD.
+DECRETO 538, SE ADICIONA EL ARTÍCULO 49 BIS A LA LEY ESTATAL PARA PERSONAS CON DISCAPACIDAD.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -1253,8 +1255,18 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 
 P.O. 29 DE MARZO DE 2011
 
-DECRETO No. 539, SE REFORMA EL ARTICULO 5° EN SUS FRACCIONES XXXVII Y XXXVIII; Y ADICIONA AL MISMO ARTICULO 5° LAS FRACCIONES XXXIX Y XL, DE LA LEY ESTATAL PARA PERSONAS CON DISCAPACIDAD.
+DECRETO No. 539, SE REFORMA EL ARTÍCULO 5° EN SUS FRACCIONES XXXVII Y XXXVIII; Y ADICIONA AL MISMO ARTÍCULO 5° LAS FRACCIONES XXXIX Y XL, DE LA LEY ESTATAL PARA PERSONAS CON DISCAPACIDAD.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 13 DE SEPTIEMBRE DE 2012.
+
+PRIMERO. Esta Ley entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Con la vigencia de este Ordenamiento se abroga la Ley Estatal para las Personas con Discapacidad, publicada en el Periódico Oficial del Estado el 16 de marzo de 2006, mediante Decreto Legislativo No 487; y se derogan todas las disposiciones que se opongan a la nueva Ley que se expide.
+
+TERCERO. El Ejecutivo del Estado deberá emitir el Reglamento de la presente Ley, dentro de los ciento ochenta días siguientes a su entrada en vigor.
+
+CUARTO. El Sistema para el Desarrollo Integral de la Familia Estatal contará con un término de noventa días siguientes a la entrada en vigor de la presente Ley, para modificar su Reglamento Interior.
