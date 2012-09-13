@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-aguas-para-el-estado-de-san-luis-potosi-48372"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2012-04-26"
+last_updated: "2012-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -319,13 +319,21 @@ XXXVIII. Tramitar y resolver los recursos o medios de impugnación que se interp
 
 XXXIX. Aplicar las normas, criterios de eficiencia, indicadores de gestión y modelos técnicos-administrativos, para evaluar la gestión, ambiental, financiera y administrativa de los organismos operadores, para la determinación de inversiones, incentivos y estímulos por la Federación;
 
-> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2012)</small>
 
-XL. Diseñar indicadores de gestión que permitan evaluar la eficiencia de los prestadores del servicio de agua potable, drenaje y alcantarillado, y
+XL. Diseñar indicadores de gestión que permitan evaluar la eficiencia de los prestadores del servicio de agua potable, drenaje y alcantarillado;
 
-> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2012)</small>
 
-XLI. Las demás atribuciones que le confieran esta Ley y otros ordenamientos jurídicos, así como las que en materia de agua le sean transferidas por la Federación al Gobierno del Estado, en los términos de ley y de los convenios que al efecto se celebren.
+XLI. Desarrollar programas de capacitación y adiestramiento para las personas que laboren en los organismos operadores del Estado, y las dependencias de los ayuntamientos que presten los mismos servicios;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2012)</small>
+
+XLII. Capacitar y certificar las competencias técnicas de la persona que aspira a se (sic) titular de la Dirección General de los organismos operadores, a petición de los ayuntamientos de los municipios cuya población sea menor de cincuenta mil habitantes, para lo cual tomará en consideración la experiencia profesional comprobada en la materia, y
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2012)</small>
+
+XLIII. Las demás atribuciones que le confieran esta Ley y otros ordenamientos jurídicos, así como las que en materia de agua le sean transferidas por la Federación al Gobierno del Estado, en los términos de ley y de los convenios que al efecto se celebren.
 
 ###### ARTICULO 9°.
 
@@ -1453,19 +1461,23 @@ La Junta se reunirá por lo menos una vez cada tres meses, y cuantas veces fuere
 
 Los organismos operadores descentralizados deberán de contar con un Director General, que será designado por la Junta de Gobierno, a propuesta del presidente.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTICULO 99.
 
-Para ser Director General del organismo operador se requiere:
+Para ser titular de la Dirección General del organismo operador se requiere:
 
-I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
+I. Contar con la ciudadanía mexicana en pleno ejercicio de sus derechos;
 
-II. Tener cédula profesional relacionada con la función, así como contar con experiencia técnica y administrativa comprobadas de por lo menos cinco años en materia del agua;
+II. Tener residencia mínima de tres años en el Estado;
 
-III. Tener residencia mínima de tres años en el Estado;
+III. No haber sido condenado por delito intencional que haya ameritado pena privativa de libertad;
 
-IV. No haber sido condenado por delito intencional que haya ameritado pena privativa de libertad, y
+IV. Tener título profesional relacionado con la función, así como contar con experiencia técnica y administrativa comprobadas de por lo menos cinco años en materia del agua en el caso de los municipios cuya población sea mayor de cincuenta mil habitantes;
 
-V. Una vez nombrado, no prestar sus servicios profesionales en la administración pública en cualquiera de los tres niveles, a excepción de las actividades de carácter docente, ni desempeñar actividades privadas que le generen conflicto de intereses.
+V. Contar con experiencia técnica y administrativa comprobadas de por lo menos tres años en materia del agua, y someterse al proceso de capacitación y certificación de la Comisión Estatal del Agua, tratándose de municipios cuya población sea menor de cincuenta mil habitantes, y
+
+VI. Nombrado en el cargo, no prestar sus servicios profesionales en la administración pública en cualquiera de los tres niveles u órdenes, a excepción de las actividades de carácter docente; ni desarrollar actividades privadas que le generen conflicto de intereses.
 
 ###### ARTICULO 100.
 
@@ -3142,6 +3154,12 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
 
 P.O. 26 DE ABRIL DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 13 DE SEPTIEMBRE DE 2012.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
