@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-penales-para-el-estado-de-queretaro-75
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-06"
-last_updated: "2012-06-08"
+last_updated: "2012-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 6 de julio de 1989.
 
@@ -885,9 +885,9 @@ XIX.- El abigeato previsto en la fracción III del artículo 189 Del Código Pen
 
 XX.- La evasión de personas aseguradas, en los supuestos de las fracciones III, V y VI del artículo 293 del Código Penal para el Estado de Querétaro;
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
 
-XXI.- La corrupción de personas menores de dieciocho años de edad y que no tienen la capacidad para comprender el significado del hecho previsto en los párrafos tercero y cuarto del artículo 236, la conducta prevista en el cuarto párrafo del artículo 237 Bis y la utilización para la pornografía de imágenes o voces de personas menores de dieciocho años de edad o que no tienen capacidad para comprender el significado del hecho o capacidad para resistirlo previsto en las fracciones I, II y IV del artículo 238 así como las conductas previstas en el artículo 238 Bis.
+XXI.- La corrupción de personas menores de dieciocho años de edad o que no tienen la capacidad para comprender el significado del hecho previsto en el artículo 236, la conducta prevista en el cuarto párrafo del artículo 237 Bis y la utilización para la pornografía de imágenes o voces de personas menores de dieciocho años de edad o que no tienen capacidad para comprender el significado del hecho o capacidad para resistirlo, previsto en las fracciones I, II y IV del artículo 238, así como las conductas previstas en el artículo 238 Bis.
 
 > <small>(ADICIONADA, P.O. 23 DE AGOSTO DE 2002)</small>
 
@@ -2776,3 +2776,9 @@ P.O. 8 DE JUNIO DE 2012.
 Artículo Primero. La presente Ley entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga."
 
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la misma.
+
+P.O. 14 DE SEPTIEMBRE DE 2012.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
