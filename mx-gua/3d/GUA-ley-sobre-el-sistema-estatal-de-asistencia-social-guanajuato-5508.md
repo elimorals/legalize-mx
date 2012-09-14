@@ -4,7 +4,7 @@ identifier: "GUA-ley-sobre-el-sistema-estatal-de-asistencia-social-guanajuato-55
 country: "mx"
 rank: "ley"
 publication_date: "1986-09-19"
-last_updated: "2009-08-21"
+last_updated: "2012-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL, GUANAJUATO
 
-LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
+LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE AGOSTO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 19 de septiembre de 1986.
 
@@ -65,7 +65,7 @@ El Gobierno del Estado en forma prioritaria proporcionará servicios de asistenc
 
 Para los efectos de esta Ley se entiende por asistencia social, el conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan el desarrollo integral del individuo y las familias, así como la protección física, mental y social de personas y familias en estado de necesidad, indefensión, desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 4o.
 
@@ -179,7 +179,7 @@ X.- Realizar investigaciones sobre las causas y efectos de los problemas priorit
 
 XI.- Las demás que le otorguen las leyes aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 13.
 
@@ -255,7 +255,7 @@ IV.- Aquellos servicios que por sus características requieran de atención espe
 
 V.- Las demás que las disposiciones generales le otorguen.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE AGOSTO DE 2009)</small>
 
 ###### ARTICULO 15.
 
@@ -273,7 +273,7 @@ El Gobierno del Estado contará con un organismo público descentralizado, con p
 
 Cuando en esta Ley se haga mención al Organismo, se entenderá hecha al Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 18.
 
@@ -381,9 +381,19 @@ El control y vigilancia del Organismo estará a cargo de un órgano de vigilanci
 
 El órgano de vigilancia tendrá el carácter de contraloría interna, la cual será la responsable de controlar, vigilar, fiscalizar y evaluar el uso correcto de los recursos materiales y financieros con el fin de determinar el correcto desempeño del Organismo.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTICULO 23.
 
-El Patronato estará integrado por cinco miembros designados y removidos libremente por el Gobernador del Estado, de los cuales uno tendrá el carácter de Presidente del mismo, y los cuatro restantes serán vocales. El Director General del Organismo representará a la Junta de Gobierno ante el Patronato, cuyos miembros no recibirán retribución, emolumento o compensación alguna y se seleccionarán de entre los sectores público, social y privado.
+El Patronato estará integrado por cinco miembros designados y removidos libremente por el Gobernador del Estado, de los cuales uno tendrá el carácter de Presidente del mismo y los cuatro restantes serán vocales.
+
+Los miembros del Patronato no recibirán retribución, emolumento o compensación alguna y se seleccionarán de entre los sectores público, social y privado.
+
+El Director General del Organismo representará a la Junta de Gobierno ante el Patronato.
+
+En los municipios, los integrantes de los patronatos de los sistemas municipales para el desarrollo integral de la familia, no recibirán retribución, emolumento o compensación alguna y se seleccionarán de entre los sectores público, social y privado.
+
+El Director General será nombrado por el Presidente Municipal.
 
 ###### ARTICULO 24.
 
@@ -471,7 +481,7 @@ La Junta de Gobierno podrá integrar los Comités Técnicos necesarios para el e
 
 La Junta de Gobierno celebrará sesiones ordinarias trimestrales y las extraordinarias que se requieran de conformidad con el Reglamento respectivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE AGOSTO DE 2009)</small>
 
 ###### ARTICULO 30.
 
@@ -557,7 +567,7 @@ Las relaciones de trabajo entre el Organismo y sus trabajadores se sujetarán a 
 
 Los trabajadores del Organismo estarán incorporados al régimen de Seguridad Social que corresponda a los trabajadores al servicio del Gobierno del Estado.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE JUNIO DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE JUNIO DE 1994)</small>
 
 ### CAPITULO TERCERO. De la Procuraduría en Materia de Asistencia Social
 
@@ -677,7 +687,7 @@ Los centros de orientación familiar se sujetarán en cuanto a su integración, 
 
 Los sistemas para el desarrollo integral de la familia de los municipios, procurarán la creación, en el ámbito de su competencia, de centros de orientación familiar de conformidad con lo que dispone el presente capítulo.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE JUNIO DE 1994)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE JUNIO DE 1994)</small>
 
 ### CAPITULO QUINTO. De la Coordinación, Concertación e Inducción
 
@@ -813,7 +823,7 @@ El Secretario de Salud y Seguridad Social,
 
 DR. DAVID CADENA BARQUIN.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 17 DE JUNIO DE 1994.
 
@@ -827,7 +837,7 @@ Artículo Primero.- Las presentes modificaciones a la Ley Sobre el Sistema Estat
 
 Artículo Segundo.- La Secretaría de Finanzas y Administración instrumentará las acciones conducentes a efecto de asignar los recursos humanos, materiales y presupuestales necesarios para el cumplimiento a la presente Ley.
 
-> <small>N. DE E. DEBIDO A SU IMPORTANCIA, SE TRANSCRIBE EL ARTICULO UNICO TRANSITORIO DEL DECRETO NUMERO 280.</small>
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, SE TRANSCRIBE EL ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO NÚMERO 280.</small>
 
 ###### ARTÍCULO ÚNICO.
 
@@ -836,3 +846,7 @@ El presente Decreto entrará en vigencia el 12 doce de septiembre del año 2006 
 P.O. 21 DE AGOSTO DE 2009.
 
 Artículo Único. El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 14 DE SEPTIEMBRE DE 2012.
+
+Artículo Único. El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
