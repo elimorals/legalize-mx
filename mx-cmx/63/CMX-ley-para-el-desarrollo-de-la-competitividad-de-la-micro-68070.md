@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-el-desarrollo-de-la-competitividad-de-la-micro-68070"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2009-04-23"
+last_updated: "2012-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68070&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-04-22"
 
 LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 23 de abril de 2009.
 
@@ -234,6 +234,12 @@ IX. Proponer a través de las instancias competentes, la homologación de la nor
 
 X. Diseñar un esquema de seguimiento e identificación de resultados de los Programas de apoyo establecidos por el Gobierno del Distrito Federal.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+XI. Diseñar la instrumentación de convenios de coordinación con Instituciones Superiores Públicas y Colegios de Profesionistas especialistas en el ramo, a efecto de que estos elaboren los estudios de viabilidad técnica, económica y financiera de los proyectos para los cuales se soliciten los apoyos y entrega del FONDO PyME.
+
 Para tal efecto, las dependencias y entidades de la Administración Pública del Distrito Federal proporcionarán la información que corresponda en términos de la normativa aplicable.
 
 ###### Artículo 13.
@@ -376,6 +382,30 @@ XIV. Divulgar los compromisos asumidos por el Estado Mexicano en los instrumento
 
 XV. Las demás que le encomiende el Jefe de Gobierno del Distrito Federal, para favorecer la operación y aplicación de los acuerdos tomados al seno del Consejo.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+### CAPÍTULO QUINTO
+
+DEL ESTUDIO DE VIABILIDAD TÉCNICA, ECONÓMICA Y FINANCIERA DE LOS PROYECTOS PARA LOS CUALES SE SOLICITEN LOS APOYOS Y ENTREGA DEL FONDO PYME.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 23.
+
+Para la entrega de estímulos y aprobación de programas será necesario que los solicitantes entreguen un estudio de viabilidad técnica, económica y financiera de los proyectos para los cuales se solicitaron los apoyos del FONDO PYME. Dicho estudio se ejecutará de conformidad con el Artículo 47 de la Ley de Fomento para el Desarrollo Económico del Distrito Federal.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 24.
+
+Los estudios de viabilidad técnica, económica y financiera para los cuales se solicitaron los apoyos del FONDO PyME, serán realizados por Instituciones Públicas y Colegios de Profesionales en el ramo.
+
 ...
 
 ## ARTÍCULOS TRANSITORIOS
@@ -395,3 +425,15 @@ Artículo Sexto. La presente ley se llevará a cabo sin menoscabo de las atribuc
 Recinto de la Asamblea Legislativa del Distrito Federal, a los diecisiete días del mes de marzo del año dos mil nueve.-POR LA MESA DIRECTIVA.- DIP. CARLA ALEJANDRA SÁNCHEZARMAS GARCÍA, PRESIDENTA.- DIP. REBECA PARADA ORTEGA, SECRETARIA.- DIP. LAURA PIÑA OLMEDO, SECRETARIA.- FIRMAS
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67 fracción II del Estatuto de Gobierno del Distrito Federal, expido el presente decreto promulgatorio en la residencia oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veintidós días del mes de abril del año dos mil nueve.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- LA SECRETARIA DE DESARROLLO ECONÓMICO, LAURA VELÁZQUEZ ALZÚA.-FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARTHA DELGADO PERALTA.- FIRMA.- FIRMA (SIC).-EL SECRETARIO DE FINANZAS, MARIO MARTÍN DELGADO CARRILLO.- FIRMA.- EL SECRETARIO DE TURISMO, ALEJANDRO ROJAS DÍAZ DURÁN.- FIRMA.- EL SECRETARIO DE TRABAJO Y FOMENTO AL EMPLEO, BENITO MIRÓN LINCE.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, AXEL DIDRIKSSON TAKAYANAGUI.- FIRMA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 14 DE SEPTIEMBRE DE 2012.
+
+PRIMERO.- Túrnese el presente Decreto al Jefe de Gobierno del Distrito Federal, para su promulgación y debido cumplimiento.
+
+SEGUNDO.- El presente Decreto entrará en vigor a los 120 días naturales siguientes al de su publicación.
+
+TERCERO.- Publíquese en la Gaceta Oficial del Distrito Federal para su debida observancia y publicación y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+CUARTO.- La Secretaría en un término de 90 días naturales a la entrada en vigor de la presente reforma, deberá instrumentar y firmar los convenios correspondientes con las Instituciones Públicas y Colegios de Profesionistas especialistas en el ramo, para su viabilidad técnica, económica y financiera de los proyectos para los cuales se soliciten los apoyos del FONDO PyME.
