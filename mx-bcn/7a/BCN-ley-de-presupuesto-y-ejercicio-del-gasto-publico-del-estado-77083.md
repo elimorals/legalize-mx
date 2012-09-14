@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-presupuesto-y-ejercicio-del-gasto-publico-del-estado-770
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-22"
-last_updated: "2012-06-01"
+last_updated: "2012-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77083&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PRESUPUESTO Y EJERCICIO DEL GASTO PÚBLICO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 22 de octubre de 2010.
 
@@ -225,9 +225,13 @@ Las Leyes de Ingresos del Estado y de los Municipios aprobadas por el Congreso d
 
 Cuando al primero de enero del ejercicio al que corresponda la Ley de Ingresos del Estado o del Municipio de que se trate no haya sido aprobada y publicada en el Periódico Oficial del Estado, se prorrogará la vigencia de la Ley de Ingresos del ejercicio inmediato anterior hasta en tanto sea aprobada y publicada la Ley de Ingresos del ejercicio correspondiente.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 14.
 
-Las proposiciones que se hagan al Congreso del Estado para modificar la Ley de Ingresos del Estado, Leyes Hacendarías Especiales o Decretos que rijan en la materia, serán sometidas a la Comisión competente del Congreso del Estado para su estudio y dictamen.
+Las proposiciones que se hagan al Poder Legislativo para modificar la Ley de Ingresos del Estado, Leyes Hacendarias Especiales o Decretos que rijan en la materia, serán sometidas a la Comisión competente del Congreso del Estado para su estudio y dictamen.
+
+Cuando dichas modificaciones impliquen el aumento o disminución de recursos públicos para una entidad u órgano determinado, deberá valorarse mediante análisis técnico el impacto presupuestario y la posible afectación financiera al fisco.
 
 ###### ARTÍCULO 15.
 
@@ -1064,3 +1068,7 @@ SECRETARIO GENERAL DE GOBIERNO.
 P.O. 1 DE JUNIO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE SEPTIEMBRE DE 2012.
+
+Único.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
