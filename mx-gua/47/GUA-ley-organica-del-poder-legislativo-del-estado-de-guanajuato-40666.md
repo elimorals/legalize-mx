@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-legislativo-del-estado-de-guanajuato-406
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-08-13"
-last_updated: "2010-09-03"
+last_updated: "2012-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40666&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 13 de agosto del 2004.
 
@@ -1121,23 +1121,33 @@ I.- Los relacionados con la promoción y la protección de los Derechos Humanos;
 
 II.- El seguimiento a las recomendaciones que la Comisión Nacional de los Derechos Humanos y la Procuraduría de los Derechos Humanos del Estado, formulen al Congreso del Estado;
 
-III.- El nombramiento de los funcionarios de la Procuraduría de los Derechos Humanos del Estado, de acuerdo con las atribuciones legales que correspondan;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV.- La relación con la Procuraduría de los Derechos Humanos del Estado y los órganos gubernamentales y no gubernamentales de la materia;
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
 
-V.- Los que se refieran a la protección, desarrollo e integración social de las etnias;
+III.- Dictaminar sobre la solicitud del titular de la Procuraduría de los Derechos Humanos del Estado, para que comparezcan ante dicha comisión, los servidores públicos o las autoridades que no acepten o no cumplan con las recomendaciones que emita dicho titular, en los términos de la Constitución Política para el Estado y la ley de la materia;
 
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+IV.- El nombramiento de los funcionarios de la Procuraduría de los Derechos Humanos del Estado, de acuerdo con las atribuciones legales que correspondan;
 
-VI.- Los que se relacionen con la protección de los derechos de las personas en circunstancias de vulnerabilidad o grupos vulnerables;
+V.- La relación con la Procuraduría de los Derechos Humanos del Estado y los órganos gubernamentales y no gubernamentales de la materia;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+VI.- Los que se refieran a la protección, desarrollo e integración social de los pueblos y comunidades Indígenas;
 
 > <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
 
-VII.- La promoción de una cultura de respeto y equiparación de oportunidades para las personas que se encuentran en situación de vulnerabilidad; y
+VII.- Los que se relacionen con la protección de los derechos de las personas en circunstancias de vulnerabilidad o grupos vulnerables;
 
 > <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
 
-VIII.- Otros análogos, que a juicio del Presidente del Congreso, sean materia de tratamiento por esta Comisión.
+VIII.- La promoción de una cultura de respeto y equiparación de oportunidades para las personas que se encuentran en situación de vulnerabilidad; y
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+
+IX.- Otros análogos, que a juicio del Presidente del Congreso, sean materia de tratamiento por esta Comisión.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2007)</small>
 
@@ -2904,3 +2914,9 @@ Artículo Único.- El presente Decreto entrará en vigor al cuarto día siguient
 P.O. 3 DE SEPTIEMBRE DE 2010.
 
 Artículo Único. El presente decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 14 DE SEPTIEMBRE DE 2012.
+
+Artículo Primero. El presente Decreto entrará en vigencia en la misma fecha en que entre en vigencia el Decreto por el cual se reforman y adicionan diversos artículos de la Constitución Política para el Estado de Guanajuato para la armonización de la reforma constitucional federal en materia de Derechos Humanos.
+
+Artículo Segundo. Se derogan todas las disposiciones que contravengan el presente Decreto.
