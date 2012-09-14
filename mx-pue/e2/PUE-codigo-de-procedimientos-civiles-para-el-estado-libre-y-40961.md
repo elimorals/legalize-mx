@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-procedimientos-civiles-para-el-estado-libre-y-40961"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-08-09"
-last_updated: "2011-06-27"
+last_updated: "2012-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "PUE"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
+CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2012.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el lunes 9 de agosto de 2004.
 
@@ -157,7 +157,7 @@ Además de las promociones del representante común, los interesados podrán ofr
 
 ### CAPÍTULO TERCERO: DE LOS LITIGANTES, REPRESENTANTES Y PATRONOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 19.
 
@@ -719,7 +719,7 @@ Se entiende por notoriamente improcedente, todo escrito que sin necesidad de dem
 
 Según las circunstancias y de advertirse, se instó de mala fe, faltando a los principios de lealtad, honestidad, respeto o verdad, o con el fin deliberado de entorpecer el procedimiento; el Tribunal, podrá imponer al peticionario, alguna de las correcciones disciplinarias que establece esta Ley. Si la corrección disciplinaria consistiere en multa, de su pago será solidariamente responsable el patrono de aquel.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 91.
 
@@ -1667,13 +1667,15 @@ Todas las contiendas entre partes para las que este Código no señale una trami
 
 El juicio se inicia formalmente a partir del auto admisorio de la demanda y concluye con la sentencia ejecutoria o cualquier otro acto procesal que le ponga fin.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 218.
 
-En el auto que admita la demanda, se citará al demandado a una audiencia de conciliación procesal, a la que necesariamente deberá comparecer el actor o su representante legal con facultades expresas para transigir, bajo el apercibimiento que de no hacerlo sin justa causa, se decretará el sobreseimiento del juicio.
+En el auto que admita demanda, se citará al demandado a una audiencia de conciliación procesal, a la que necesariamente deberá comparecer el actor o su representante legal con facultades expresas para transigir, salvo los juicios de divorcio, en la que deberá asistir personalmente el actor, bajo el apercibimiento que de no hacerlo sin justa causa, se decreta el sobreseimiento del juicio.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
 
-Los abogados patronos podrán estar presentes en el desahogo de la audiencia de conciliación.
+Los abogados patronos podrán estar presentes en el desahogo de la audiencia de conciliación procesal, con excepción de los casos de divorcio, en los cuales sólo se les hará saber el resultado de la audiencia.
 
 > <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 6 DE AGOSTO DE 2007)</small>
 
@@ -2171,7 +2173,7 @@ Lo dispuesto en este artículo será independiente de lo que decida la sentencia
 
 Cuando a juicio del Juez, los dictámenes periciales no resulten suficientemente ilustrativos, bien por sus contenidos o porque la naturaleza misma del caso, requiere de operaciones o conocimientos científicos sumamente especializados, para mejor proveer, podrá pedir informe a la Academia, Colegio o Corporación Oficial que corresponda.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 292.
 
@@ -2359,7 +2361,7 @@ Los interesados, al ofrecer la prueba de presunciones, deberán expresar con pre
 
 #### SECCIÓN PRIMERA: REGLAS GENERALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 323.
 
@@ -3805,7 +3807,7 @@ II.- Si se pide el embargo de bienes indeterminados, se procederá conforme a la
 
 ###### Artículo 526.
 
-El solicitante de la medida precautoria otorgará garantía para responder de los daños y perjuicios que puedan causarse a la persona contra quien se pide, pero si la medida precautoria tiende a asegurar el pago de alimentos, de la responsabilidad civil proveniente del delito o de algún otro caso que prevenga la Ley, se decretará sin necesidad de otorgar aquella.
+El solicitante de la medida precautoria otorgará garantía para responder de los daños y perjuicios que puedan causarse a la persona contra quien se pide, pero si la medida precautoria tiende a asegurar el pago de alimentos, de la responsabilidad civil proveniente del delito o de algun otro caso que prevenga la Ley, se decretará sin necesidad de otorgar aquella.
 
 ###### Artículo 527.
 
@@ -5011,7 +5013,7 @@ Tratándose de las acciones de investigación de la maternidad o de la paternida
 
 El procedimiento especial de adopción se tramitará de manera oral, sujetándose a las disposiciones que se establecen en esta Sección, sin que la economía procesal vulnere o restrinja los principios de seguridad jurídica, legalidad y del interés superior del menor que deben observarse.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2011)</small>
 
 ###### Artículo 705.
 
@@ -5325,7 +5327,7 @@ I.- Copia certificada del acta del registro civil, cuya rectificación se trate;
 
 II.- Declaración bajo protesta de decir verdad que en todos sus actos públicos y privados, ha utilizado el nombre, fecha y lugar de nacimiento que se pretenda corregir; sustentándolo con documentos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 751.
 
@@ -6117,7 +6119,7 @@ Todo aquel que está en pleno ejercicio de sus derechos civiles puede compromete
 
 ###### Artículo 864.
 
-Las partes tienen el derecho de sujetar sus diferencias al procedimiento arbitral, antes de que haya juicio, durante éste y aun después de pronunciada sentencia, siempre que ésta no hubiere causado ejecutoria.
+Las partes tienen el derecho de sujetar sus diferencias al procedimiento arbitral, antes de que haya juicio, durante éste y aún después de pronunciada sentencia, siempre que ésta no hubiere causado ejecutoria.
 
 ###### Artículo 865.
 
@@ -6273,7 +6275,7 @@ EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Pal
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los catorce días del mes de julio del año dos mil cuatro.- El Gobernador Constitucional del Estado.- LICENCIADO MELQUIADES MORALES FLORES.- Rúbrica.- El Secretario de Gobernación.- MAESTRO EN DERECHO CARLOS ARREDONDO CONTRERAS.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 6 DE AGOSTO DE 2007.
 
@@ -6301,7 +6303,7 @@ TERCERO.- Los asuntos que a la fecha se encuentran patrocinados por un defensor 
 
 P.O. 27 DE JUNIO DE 2011.
 
-DECRETO POR EL QUE SE REFORMAN LAS FRACCIONES XX Y XXI DEL ARTICULO 108, LAS FRACCIONES X, XI Y XII DEL 683; EL SEGUNDO PARRAFO DE LA FRACCION II DEL 684, EL 704, EL PRIMER PARRAFO DEL 705, EL 706, EL 708, EL 709 Y EL 710; SE ADICIONAN LA FRACCION XXII AL 108, LA FRACCION XIII AL 683 Y EL 708 BIS Y; SE DEROGAN EL 711, EL 712, EL 713, EL 714, EL 715 Y EL 716, TODOS DEL CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
+DECRETO POR EL QUE SE REFORMAN LAS FRACCIONES XX Y XXI DEL ARTÍCULO 108, LAS FRACCIONES X, XI Y XII DEL 683; EL SEGUNDO PÁRRAFO DE LA FRACCIÓN II DEL 684, EL 704, EL PRIMER PÁRRAFO DEL 705, EL 706, EL 708, EL 709 Y EL 710; SE ADICIONAN LA FRACCIÓN XXII AL 108, LA FRACCIÓN XIII AL 683 Y EL 708 BIS Y; SE DEROGAN EL 711, EL 712, EL 713, EL 714, EL 715 Y EL 716, TODOS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
 ###### ARTÍCULO PRIMERO.
 
@@ -6317,7 +6319,7 @@ A los procedimientos de adopción y de pérdida de patria potestad iniciados ant
 
 P.O. 27 DE JUNIO DE 2011.
 
-DECRETO POR EL QUE SE REFORMA EL ARTICULO 32 Y SE ADICIONA EL ARTICULO 74 BIS, AMBOS DEL CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 32 Y SE ADICIONA EL ARTÍCULO 74 BIS, AMBOS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -6329,7 +6331,7 @@ Se derogan todas las disposiciones legales de la misma naturaleza que se opongan
 
 P.O. 27 DE JUNIO DE 2011.
 
-DECRETO POR EL QUE SE REFORMA EL ARTICULO 265 DEL CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 265 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -6340,3 +6342,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE SEPTIEMBRE DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
