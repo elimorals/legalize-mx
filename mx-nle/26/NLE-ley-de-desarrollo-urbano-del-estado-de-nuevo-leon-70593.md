@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-desarrollo-urbano-del-estado-de-nuevo-leon-70593"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-09"
-last_updated: "2012-06-22"
+last_updated: "2012-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Nuevo León, el miércoles 9 de septiembre de 2009.
 
@@ -4541,6 +4541,20 @@ V. Señalar la distribución de áreas correspondientes.
 
 Tratándose de fraccionamientos o conjuntos habitacionales unifamiliares previamente autorizados, deberá solicitarse posteriormente por el interesado, la licencia de uso de la edificación solo para aquéllas que difieran del uso habitacional unifamiliar, ya que éste será otorgado en la autorización del proyecto correspondiente.
 
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+ARTÍCULO 293 BIS. En los reglamentos municipales en materia de construcciones se deberán establecer los requisitos y especificaciones técnicas que deberán cumplir quienes pretendan instalar áreas verdes en azoteas de edificaciones, considerando como mínimo las siguientes:
+
+I. El porcentaje total de la superficie de la azotea que será cubierto con vegetación natural;
+
+II. El tipo de vegetación que será utilizada en la azotea verde, utilizando solamente aquellas que sean nativas del Estado y de bajo nivel de riego;
+
+III. Los mecanismos y tecnologías sustentables de riego y mantenimiento, procurando la sustentabilidad del proyecto;
+
+IV. Los materiales a utilizar, proponiendo el uso de materiales reciclados principalmente; y
+
+V. Los demás que se establezcan en dichos reglamentos.
+
 ###### ARTÍCULO 294.
 
 Para la obtención de la licencia municipal de uso de edificación, el solicitante deberá cumplir con los siguientes requisitos mínimos:
@@ -5726,3 +5740,7 @@ Tercero.- En un término que no exceda de noventa días a partir de la entrada e
 P.O. 22 DE JUNIO DE 2012.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 14 DE SEPTIEMBRE DE 2012.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Nuevo León.
