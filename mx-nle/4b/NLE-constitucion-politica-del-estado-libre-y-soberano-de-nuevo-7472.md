@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2012-04-25"
+last_updated: "2012-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NLE"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE SEPTIEMBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2012.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 25 DE ABRIL DE 2012 NO APLICA AL ARTICULADO DEL DECRETO 322 PUBLICADO EN EL P.O. DE 13 DE ABRIL DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2012.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -93,9 +93,11 @@ El Estado de Nuevo León comprende el territorio de lo que fue la provincia del 
 
 El Estado de Nuevo León es libre, soberano e independiente de los demás Estados de la Federación y de cualquier otro extranjero. Como parte integrante de la República está ligado a ella del modo prevenido en la Constitución Federal promulgada el 5 de Febrero de 1917, y sujeto a las leyes generales de la Nación en todo lo que no afecte su régimen interior, pues retiene la libertad de gobernarse y administrarse por sí mismo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Art. 30.
 
-El Gobierno del Estado es republicano, representativo y popular; se ejercerá por los Poderes Legislativo, Ejecutivo y Judicial, siendo la base de su organización política y administrativa el Municipio Libre. Estos Poderes derivan del pueblo y se limitan sólo al ejercicio de las facultades expresamente designadas en esta Constitución. No podrán reunirse dos o más de estos Poderes en una sola persona o corporación, ni depositarse el Legislativo en un solo individuo.
+El Gobierno del Estado de Nuevo León, es Republicano, Democrático, Laico, Representativo y Popular; se ejercerá por los Poderes Legislativo, Ejecutivo y Judicial; siendo la base de su organización política y administrativa el Municipio Libre. Estos Poderes derivan del pueblo y se limitan solo al ejercicio de las facultades expresamente designadas en esta Constitución. No podrán reunirse dos o más de estos Poderes en una sola persona o corporación ni depositarse el Legislativo en un solo individuo.
 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
 
@@ -131,9 +133,9 @@ II.- A la preferencia, en igualdad de circunstancias, en toda clase de concesion
 
 Son obligaciones de los nuevoleoneses:
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
 
-I.- Hacer que sus hijos o pupilos concurran a las escuelas públicas o privadas para obtener la educación preescolar, primaria y secundaria y reciban la militar en los términos que establezca la ley.
+l.- Hacer que sus hijos o pupilos concurran a las escuelas públicas o privadas para obtener la educación preescolar, primaria, secundaria, media superior y reciban la militar en los términos que establezca la Ley;
 
 II.- Asistir en los días y horas designados por el Ayuntamiento del lugar en que residan, para recibir instrucción cívica y militar que los mantenga aptos en el ejercicio de los derechos de ciudadano, diestros en el manejo de las armas y conocedores de la disciplina militar.
 
@@ -1899,7 +1901,7 @@ XX. Someter a la aprobación del Congreso del Estado, la propuesta que le presen
 
 > <small>(REFORMADA, P.O. 22 DE JUNIO DE 2005)</small>
 
-XXI.- Presentar a la Legislatura a más tardar el día veinte de noviembre, el presupuesto de egresos del año siguiente, proponiendo los arbitrios para cubrirlo..
+XXI.- Presentar a la Legislatura a más tardar el día veinte de noviembre, el presupuesto de egresos del año siguiente, proponiendo los arbitrios para cubrirlo.
 
 XXII.- (DEROGADA, P.O. 24 DE MAYO DE 1996)
 
@@ -13815,6 +13817,8 @@ El Estado deberá fomentar e incrementar los niveles de escolaridad, favoreciend
 
 Las leyes establecerán las normas, medidas y procedimientos que aseguren lo dispuesto en este artículo.
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE SEPTIEMBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2011)</small>
 
 ###### Art. 3.
@@ -13841,9 +13845,9 @@ La enseñanza es libre; pero será laica la que se imparta en los establecimient
 
 Las escuelas particulares sólo podrán establecerse sujetándose a la vigilancia e inspección oficiales.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
 
-El Estado impartirá educación preescolar, primaria y secundaria que conformarán la educación básica obligatoria.
+El Estado impartirá educación preescolar, primaria, secundaria y media superior, que conforman la educación básica obligatoria.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE OCTUBRE DE 1993)</small>
 
@@ -15314,3 +15318,21 @@ P.O. 2 DE ABRIL DE 2012.
 P.O. 13 DE ABRIL DE 2012.
 
 Único.- El presente Decreto entrará en vigor el día de su publicación.
+
+P.O. 14 DE SEPTIEMBRE DE 2012.
+
+DECRETO NÚMERO 356, POR EL QUE SE REFORMA EL SÉPTIMO PÁRRAFO DEL ARTÍCULO 3 Y LA FRACCIÓN I DEL ARTÍCULO 34, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- La autoridad educativa estatal deberá, dentro de los 30 días posteriores a la entrada en vigor del presente decreto, instalar comisiones técnicas y de consulta con la autoridad educativa federal, con objeto de iniciar un proceso tendiente a la transformación estructural y laboral de la educación media superior en el ámbito local, así como para la revisión de los planes, programas y materiales de estudio, a fin de establecer, en el ejercicio de sus funciones constitucionales, los nuevos programas de estudio de este nivel de educación.
+
+Tercero.- La obligatoriedad de la educación media superior se implementará a partir del ciclo 2012-2013, ajustándose de manera gradual, hasta universalizar la obligatoriedad para el ciclo 2021-2022.
+
+Cuarto.- Para dar cumplimiento al principio de obligatoriedad, en el presupuesto estatal y de los municipios, se incluirán los recursos necesarios; para estos fines el Gobierno del Estado celebrará con el Gobierno Federal convenios de colaboración que le permita cumplir en los términos establecidos en el presente decreto. Asimismo, se establecerán los mecanismos para impulsar la implementación de presupuestos plurianuales que aseguren a largo plazo los recursos económicos crecientes para infraestructura de la educación media superior.
+
+P.O. 14 DE SEPTIEMBRE DE 2012.
+
+DECRETO NÚMERO 360, POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 30 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN.
+
+Único.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
