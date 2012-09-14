@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-hacienda-para-el-estado-de-guanajuato-42425"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-27"
-last_updated: "2007-12-25"
+last_updated: "2012-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42425&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el lunes 27 de diciembre de 2004.
 
@@ -129,7 +129,7 @@ XIV.- Las despensas en dinero o en especie, cuando su monto no rebase el 40% del
 
 Este impuesto se determinará de acuerdo con la tasa que establezca anualmente la Ley de Ingresos para el Estado de Guanajuato.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 6.
 
@@ -178,6 +178,12 @@ a) Las erogaciones realizadas, declaradas en los últimos doce meses;
 b) Las manifestaciones presentadas por concepto de Impuesto sobre la Renta, Sobre Productos del Trabajo en los últimos doce meses; y
 
 c) Las actividades realizadas por el causante y otros datos que puedan utilizarse, obtenidos a través de las facultades de comprobación de la autoridad fiscal.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 8 Bis.
+
+Los empleadores que participen activamente y contraten o reciban la prestación del trabajo personal subordinado, orientado a la investigación científica y tecnológica, así como al desarrollo tecnológico e innovación gozarán de un estímulo fiscal, de conformidad con las disposiciones de carácter general que para tal efecto emita el Gobernador del Estado.
 
 ### CAPÍTULO SEGUNDO. DE LOS IMPUESTOS CEDULARES SOBRE LOS INGRESOS DE LAS PERSONAS FÍSICAS
 
@@ -335,7 +341,7 @@ Las personas físicas no residentes en el Estado que tengan uno o varios estable
 
 En lo relativo a los ingresos, deducciones y pérdidas fiscales se atenderá, adicionalmente a lo previsto en esta Ley, a lo establecido en el apartado correspondiente a Disposiciones Generales y al Capítulo II, Secciones I, II y Capítulo X, ambos del Título IV y al Título VII, de la Ley del Impuesto Sobre la Renta.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 25.
 
@@ -513,7 +519,7 @@ El 90% de los ingresos obtenidos de la recaudación de este impuesto, se destina
 
 ### CAPÍTULO SEGUNDO. DE LOS DERECHOS POR SERVICIOS DE TRÁNSITO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 49.
 
@@ -847,7 +853,7 @@ EL SECRETARIO DE FINANZAS Y ADMINISTRACIÓN
 
 JOSÉ LUIS MARIO AGUILAR Y MAYA MEDRANO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 10 DE JUNIO DE 2005.
 
@@ -860,3 +866,7 @@ P.O. 25 DE DICIEMBRE DE 2007.
 Artículo Primero. El presente decreto entrará en vigor a partir del uno de enero del 2008 dos mil ocho, previa su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. Se derogan las disposiciones legales, que se opongan al presente decreto.
+
+P.O. 14 DE SEPTIEMBRE DE 2012.
+
+Artículo Único. El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
