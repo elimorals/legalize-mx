@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-ejecucion-de-medidas-cautelares-y-sanciones-penales-8187
 country: "mx"
 rank: "ley"
 publication_date: "2011-06-17"
-last_updated: "2011-06-17"
+last_updated: "2012-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81874&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "PUE"
 ---
 # LEY DE EJECUCION DE MEDIDAS CAUTELARES Y SANCIONES PENALES PARA EL ESTADO DE PUEBLA - ANTES - LEY DE EJECUCION DE SANCIONES PENALES Y DE REINSERCION SOCIAL PARA EL ESTADO DE PUEBLA -
 
-LEY DE EJECUCION DE SANCIONES PENALES Y DE REINSERCION SOCIAL PARA EL ESTADO DE PUEBLA.
+LEY DE EJECUCIÓN DE MEDIDAS CAUTELARES Y SANCIONES PENALES PARA EL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el viernes 17 de junio de 2011.
 
@@ -41,7 +41,9 @@ CONSIDERANDO .
 
 Por lo anteriormente expuesto y con fundamento en los artículos 57 fracción I, 63, 64 y 67 de la Constitución Política del Estado Libre y Soberano de Puebla; 43 fracción I, 69, 70 y 71 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla; 20, 21, 22, 23 y 24 fracción I del Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla, se expide la siguiente:
 
-LEY DE EJECUCIÓN DE SANCIONES PENALES Y DE REINSERCIÓN SOCIAL PARA EL ESTADO DE PUEBLA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+LEY DE EJECUCIÓN DE MEDIDAS CAUTELARES Y SANCIONES PENALES PARA EL ESTADO DE PUEBLA
 
 ## TÍTULO PRIMERO. REGLAS GENERALES
 
@@ -51,11 +53,27 @@ LEY DE EJECUCIÓN DE SANCIONES PENALES Y DE REINSERCIÓN SOCIAL PARA EL ESTADO D
 
 Las disposiciones de esta Ley son de orden público y de observancia general en el territorio del Estado de Puebla, y tiene por objeto:
 
-l. Regular la ejecución de las sanciones penales impuestas por las autoridades competentes y la reinserción social de los sentenciados con base en el trabajo, la capacitación para el mismo, la educación, la salud y el deporte, conforme a las normas constitucionales, tratados internacionales y a las leyes aplicables;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
 
-II. Establecer lineamientos para la operación de los centros de reinserción social; y
+I.- Establecer las bases para la evaluación de riesgos procesales que representa el imputado, de acuerdo con lo previsto por el Código de Procedimientos Penales del Estado y la supervisión de las medidas cautelares distintas a la prisión preventiva;
 
-III. Normar el sistema del régimen penitenciario encaminado a la reinserción social de los sentenciados y las tareas asistenciales para los liberados.
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+II.- Regular la ejecución de las sanciones penales impuestas por las autoridades competentes y la reinserción social de los sentenciados con base en el respeto de los derechos humanos, el trabajo, la capacitación para el mismo, la educación, la salud y el deporte, conforme a las normas constitucionales, tratados internacionales y a las leyes aplicables;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+III.- Establecer lineamientos para la operación de los centros de reinserción social; y
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+IV.- Normar el sistema del régimen penitenciario encaminado a la reinserción social de los sentenciados y las tareas asistenciales para los liberados.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+ARTÍCULO 1 BIS.- Los principios rectores de la Ejecución de las Sanciones Penales, serán los de dignidad humana, igualdad y mínima afectación.
+
+Durante la ejecución de las sanciones penales, no se aplicarán más medidas de disciplina y de seguridad que las necesarias y efectivas para asegurar el control del establecimiento penitenciario y la protección de la integridad corporal de las personas que se encuentren en dicho lugar.
 
 ### CAPÍTULO SEGUNDO. DE LA COMPETENCIA
 
@@ -67,17 +85,21 @@ El Ejecutivo del Estado, sujetándose a lo que establezcan las leyes locales res
 
 ## TÍTULO SEGUNDO. DE LA REINSERCIÓN SOCIAL
 
-### CAPÍTULO PRIMERO. DEL RÉGIMEN PENITENCIARIO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+### CAPÍTULO PRIMERO. DEL SISTEMA PENITENCIARIO
 
 ###### ARTÍCULO 3.
 
 En los Centros de Reinserción, el régimen será progresivo y técnico, y se basará en la individualización del tratamiento a que debe ser sometido todo interno y estará orientado a modificar aspectos de la personalidad de los internos, atenuando aquellas conductas que los llevaron a cometer el delito.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 4.
 
-El régimen penitenciario se basará en el trabajo, la capacitación para el mismo, la educación, la salud y el deporte, para lograr una efectiva reinserción social de los sentenciados a través de los programas y servicios que al efecto establezca la autoridad administrativa competente.
+El sistema penitenciario se organizará sobre la base del respeto a los derechos humanos, el trabajo, la capacitación para el mismo, la educación, la salud y el deporte, para lograr una efectiva reinserción social de los sentenciados a través de los programas y servicios que al efecto establezca la autoridad administrativa competente.
 
-Los sentenciados que participen en el régimen a que se refiere el párrafo anterior, serán considerados para recibir los beneficios que contempla la presente Ley.
+Los sentenciados que participen en el sistema a que se refiere el párrafo anterior, serán considerados para recibir los beneficios que contempla la presente Ley.
 
 ###### ARTÍCULO 5.
 
@@ -107,23 +129,37 @@ III. Será continuo, durante el cumplimiento de la sentencia.
 
 Para la individualización del tratamiento se basará en los resultados del periodo anterior, a partir de los cuales se clasificará al interno designando el establecimiento cuyo régimen sea el más apropiado al tratamiento que se le haya señalado y, en su caso, al grupo o sección más adecuada dentro de aquél. La clasificación debe tomar en cuenta no sólo la personalidad y el historial individual, familiar, social y delictivo del interno, sino también la duración de la pena o medida de seguridad en su caso, el medio al que probablemente retornará y los recursos, facilidades o dificultades existentes en cada caso y momento para el buen éxito del tratamiento.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 9.
 
-El Consejo Técnico Interdisciplinario acreditará que el proceso penitenciario de los sentenciados esté basado en el trabajo, la capacitación para el mismo, la educación, la salud y el deporte, como medios para su reinserción social. Dicha acreditación será validada por el Consejo General Técnico Interdisciplinario y vigilada por el Juez de Ejecución.
+El Consejo Técnico Interdisciplinario acreditará que el proceso penitenciario de los sentenciados esté basado en el respeto de los derechos humanos, el trabajo, la capacitación para el mismo, la educación, la salud y el deporte, como medios para su reinserción social. Dicha acreditación será validada por el Consejo General Técnico Interdisciplinario y vigilada por el Juez de Ejecución.
 
 ### CAPÍTULO SEGUNDO. DE LAS BASES DEL SISTEMA PENITENCIARIO
 
-#### SECCIÓN PRIMERA. DEL TRABAJO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
 
-#### SECCIÓN SEGUNDA. DE LA CAPACITACIÓN PARA EL TRABAJO
+#### SECCIÓN PRIMERA. DEL RESPETO A LOS DERECHOS HUMANOS
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+ARTÍCULO 9 BIS.- La ejecución de las sanciones penales en el Estado de Puebla, se organizará sobre la base de los Derechos Humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos y en los tratados internacionales de los que el Estado Mexicano sea parte.
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+#### SECCIÓN PRIMERA BIS. DEL TRABAJO
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 10.
 
-Para todos los efectos normativos, la naturaleza del trabajo penitenciario que contempla el artículo 18 Constitucional, es considerada en los centros de reinserción social como una actividad obligatoria y productiva para efectos terapéuticos y ocupacionales, y es un elemento fundamental para el tratamiento individual de reinserción social.
+Para todos los efectos normativos, la naturaleza del trabajo penitenciario que contempla el artículo 18 Constitucional, es considerada en los centros de reinserción social como una actividad tendente a la reinserción social.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 11.
 
-El trabajo penitenciario será obligatorio para los sentenciados que se encuentren en la extinción de la pena de prisión, con remuneración económica acorde con la actividad productiva.
+El trabajo penitenciario será necesario para los sentenciados que se encuentren en la extinción de la pena de prisión que deseen obtener algún beneficio de libertad anticipada y contará con remuneración económica acorde con la actividad productiva y de conformidad con la legislación laboral.
 
 ###### ARTÍCULO 12.
 
@@ -167,7 +203,7 @@ En los talleres de trabajo de los centros de reinserción social podrá haber la
 
 Los internos están obligados a participar gratuitamente y por riguroso turno en las labores indispensables de limpieza del establecimiento.
 
-#### SECCIÓN TERCERA. DE LA EDUCACIÓN
+#### SECCIÓN SEGUNDA. DE LA CAPACITACIÓN PARA EL TRABAJO
 
 ###### ARTÍCULO 20.
 
@@ -181,21 +217,25 @@ La capacitación para el trabajo, en el sistema de reinserción social, se consi
 
 Si hubiera sentenciados capacitados para desempeñar los cargos de maestros o instructores, serán preferidos y remunerados en términos de las leyes aplicables.
 
-#### SECCIÓN CUARTA. DE LA SALUD Y EL DEPORTE
+#### SECCIÓN TERCERA. DE LA EDUCACIÓN
 
 ###### ARTÍCULO 23.
 
 En los centros de reinserción social, toda persona privada de la libertad tiene derecho a recibir educación, la cual se ajustará a los programas oficiales, tenderá a desarrollar armónicamente todas sus facultades humanas y fomentará en ella, los valores consagrados en el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 24.
 
-Se procurará someter a todo sentenciado al tratamiento educacional que corresponda a su nivel de instrucción, siendo obligatoria la enseñanza básica y quedando sujeta a la suficiencia presupuestal del erario público, la superior o especial que resulte adecuada a la aptitud de los reclusos, que en todo caso desarrollarán diariamente actividades culturales.
+Se procurará someter a todo sentenciado al tratamiento educacional que corresponda a su nivel de instrucción, siendo obligatoria la enseñanza básica y media superior quedando sujeta a la suficiencia presupuestal del erario público, la superior o especial que resulte adecuada a la aptitud de los reclusos, que en todo caso desarrollarán diariamente actividades culturales.
 
 Los certificados de estudios harán mención del nombre de la institución que los expida, sin aludir al centro de reinserción social en el que se cursaron.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 25.
 
-En cada centro de reinserción social habrá el profesorado necesario para cumplir con la educación básica obligatoria; tendrán a su cargo la dirección y organización de la enseñanza y podrán designar auxiliares entre los internos de mejor conducta y mayor instrucción.
+En cada centro de reinserción social habrá el profesorado necesario para cumplir con la educación básica y media superior obligatoria; tendrán a su cargo la dirección y organización de la enseñanza y podrán designar auxiliares entre los internos de mejor conducta y mayor instrucción.
 
 ###### ARTÍCULO 26.
 
@@ -206,6 +246,8 @@ Se procurará fomentar el hábito de la lectura, mediante la organización de bi
 ###### ARTÍCULO 27.
 
 Los internos podrán solicitar la prestación de servicios de educación privada a su costa, éstos serán autorizados siempre que el nivel de seguridad, custodia y tratamiento lo permitan.
+
+#### SECCIÓN CUARTA. DE LA SALUD Y EL DEPORTE
 
 ###### ARTÍCULO 28.
 
@@ -257,9 +299,11 @@ Los centros de reinserción social serán sostenidos con cargo al erario del Est
 
 Lo anterior, sin perjuicio de las partidas federales en la materia.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 38.
 
-El sentenciado a prisión extinguirá su condena de preferencia en el centro de reinserción social de la zona más cercano a su domicilio; sin embargo la Secretaría de Seguridad Pública podrá ordenar que la sanción se compurgue en cualquier otro de los centros de reinserción del Estado o bien en uno del orden federal para su tratamiento, con base en los convenios celebrados para tal efecto, enviándole copia del acuerdo respectivo al Juez de Ejecución para su conocimiento.
+La Secretaría General de Gobierno, a través de la instancia administrativa correspondiente, ordenará que el sentenciado a sanción privativa de la libertad cumpla con su condena de preferencia en el centro de reinserción social de la zona más cercana a su domicilio; sin embargo, se podrá determinar que la sanción se compurgue en cualquier otro de los centros de reinserción del Estado o bien en uno del orden federal para su tratamiento, con base en los convenios celebrados para tal efecto. Dicha determinación deberá adoptarse en atención a las razones de seguridad de las prisiones, a las circunstancias personales del sentenciado, a las características del hecho imputado y a otras que impidan garantizar el cumplimiento de la sanción impuesta, enviándole copia del acuerdo respectivo al Juez de Ejecución para su conocimiento.
 
 ###### ARTÍCULO 39.
 
@@ -301,9 +345,11 @@ Todo el personal queda sujeto a la obligación de seguir, antes de asumir su car
 
 ### CAPÍTULO PRIMERO. DEL CONSEJO GENERAL TÉCNICO INTERDISCIPLINARIO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 46.
 
-El Consejo General Técnico Interdisciplinario es el Órgano Consultivo del Ejecutivo del Estado, dependiente de la Secretaría General de Gobierno responsable de supervisar y evaluar el desempeño de los Consejos Técnicos Interdisciplinarios, con el fin de dar seguimiento a los avances y resultados del tratamiento aplicado a los sentenciados en cumplimiento de las disposiciones contenidas en esta Ley.
+El Consejo General Técnico Interdisciplinario es el Órgano Consultivo del Ejecutivo del Estado, dependiente de la Secretaría General de Gobierno responsable de supervisar y evaluar el desempeño de los Consejos Técnicos Interdisciplinarios, con el fin de dar seguimiento a los avances y resultados del tratamiento aplicado a los sentenciados en cumplimiento de las disposiciones contenidas en esta Ley. Asimismo, el Consejo deberá capacitar a los Consejos Técnicos Interdisciplinarios en el cumplimiento de sus funciones para garantizar un mejor servicio.
 
 El área administrativa competente de la Secretaría General de Gobierno, transmitirá la información contenida en el expediente respectivo de cada interno, proporcionada por el Consejo General Técnico Interdisciplinario y del centro de reinserción social, que solicite el Juez de Ejecución.
 
@@ -333,11 +379,13 @@ IX. Criminológica; y
 
 X. Sociológica.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 48.
 
-El Consejo General Técnico Interdisciplinario, tendrá las atribuciones siguientes:
+El Consejo General Técnico Interdisciplinario, tendrá como órgano colegiado, las atribuciones siguientes:
 
-l. Supervisar y proponer lo conducente para el desempeño de los Consejos Técnicos;
+I. Supervisar y proponer lo conducente para el desempeño de los Consejos Técnicos;
 
 II. Proponer los programas y establecer las directrices del tratamiento;
 
@@ -355,7 +403,9 @@ VIII. Dictar los acuerdos y resoluciones necesarios para el cumplimiento de sus 
 
 IX. Capacitar a los integrantes de los Consejos Técnicos Interdisciplinarios;
 
-X. Realizar las funciones del Consejo Técnico Interdisciplinario de los centros de reinserción social en los que no esté conformado; y
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+X.- Realizar las funciones del Consejo Técnico Interdisciplinario de los centros de reinserción social en los que no esté conformado y únicamente para fines del tratamiento penitenciario; y
 
 XI. Las demás que les confieran las leyes, reglamentos, decretos, acuerdos y convenios aplicables.
 
@@ -391,45 +441,55 @@ Las opiniones, dictámenes y sesiones del Consejo General Técnico Interdiscipli
 
 ### CAPÍTULO PRIMERO. DEL TRATAMIENTO PRELIBERACIONAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 52.
 
-El Tratamiento Preliberacional es un periodo del régimen progresivo técnico, al que debe someterse el sentenciado, que cumpla con los requisitos establecidos en el siguiente artículo y durante el cual queda sometido a las formas y condiciones de tratamiento que determine el área administrativa correspondiente con la autorización del Juez de Ejecución.
+El Tratamiento Preliberacional es un periodo del régimen progresivo técnico, al que debe someterse el sentenciado, que cumpla con los requisitos establecidos en el artículo 54 y durante el cual queda sometido a las formas y condiciones de tratamiento que determine el área administrativa correspondiente con la autorización del Juez de Ejecución con las excepciones previstas en esta Ley.
 
 El Tratamiento Preliberacional tiene por objeto evaluar la evolución del interno en su tratamiento, con el fin de lograr su readaptación que lo lleve a conseguir una efectiva reinserción social. Contempla la libertad bajo control del área administrativa competente, al sentenciado que por sus características así lo requiera y durará hasta que obtenga alguno de los beneficios de libertad anticipada que esta Ley contempla o compurgue la pena.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 53.
 
-El Tratamiento Preliberacional se iniciará a favor del sentenciado que cumpla con los siguientes requisitos:
+El Tratamiento Preliberacional comprenderá las siguientes fases progresivas:
 
-l. Que haya compurgado una tercera parte de la pena que le fue impuesta;
+I.- La preparación del sentenciado y su familia en forma grupal o individual, acerca de los efectos de su vida en libertad;
 
-II. Que haya trabajado en actividades reconocidas por la institución;
+II.- La preparación del sentenciado respecto de su corresponsabilidad social, entendiendo ésta como la respuesta al tratamiento instaurado;
 
-III. Que haya observado buena conducta;
+III.- La concesión de salidas grupales con fines culturales y recreativos, visitas guiadas y supervisadas por el personal técnico; y
 
-IV. Que participe en actividades educativas, recreativas, culturales y deportivas que se organicen en la institución;
+IV.- La canalización a un régimen de semilibertad, en el que se continuará con el tratamiento correspondiente concediéndole permisos de:
 
-V. Que cuente con una persona, que se comprometa y garantice el cumplimiento de las obligaciones contraídas por el preliberado ante el área administrativa correspondiente; y
-
-VI. Que compruebe fehacientemente contar en el exterior con un oficio, arte o profesión o exhiba las constancias que acrediten que continúa estudiando.
-
-###### ARTÍCULO 54.
-
-El Tratamiento Preliberacional comprenderá:
-
-l. La preparación del sentenciado y su familia en forma grupal o individual, acerca de los efectos de su vida en libertad;
-
-II. La preparación del sentenciado respecto de su corresponsabilidad social;
-
-III. La concesión de salidas grupales con fines culturales y recreativos, visitas guiadas y supervisadas por el personal técnico; y
-
-IV. La canalización a un régimen de semilibertad, en el que se continuará con el tratamiento correspondiente concediéndole permisos de:
-
-a) Salida diaria a trabajar o estudiar con reclusión nocturna y salida los días sábados y domingos para convivir con su familia; y
+a) Salida diaria a trabajar o estudiar con reclusión nocturna y salida los días sábados y domingos para convivir con su familia; o
 
 b) Reclusión los sábados y domingos para recibir un tratamiento técnico.
 
-Dentro del Tratamiento Preliberacional, el interno deberá cursar de manera progresiva por cada uno de los periodos descritos en el presente artículo, que serán aplicados por el Consejo Técnico Interdisciplinario, cuando el interno cumpla cuando más un 15% de la sanción impuesta entre cada periodo, pudiendo avanzar o retroceder de acuerdo a la modificación de su personalidad.
+El Tratamiento Preliberacional, se iniciará cuando el sentenciado haya compurgado el quince por ciento de la pena impuesta y deberá cursar de manera progresiva por cada uno de las fases descritas en el presente artículo, que serán aplicados por el Consejo Técnico Interdisciplinario, cuando el interno cumpla cuando más un quince por ciento de la sanción impuesta entre cada fase, pudiendo avanzar o retroceder de acuerdo a la modificación de su personalidad.
+
+El Tratamiento Preliberacional también podrá ser aplicado a los sentenciados que no cumplan con el requisito previsto en la fracción VI del artículo siguiente, sin incluir el régimen de semilibertad previsto en la fracción IV de este artículo.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+###### ARTÍCULO 54.
+
+La semilibertad como parte del Tratamiento Preliberacional se otorgará a favor del sentenciado que cumpla con los siguientes requisitos:
+
+I.- Que haya compurgado el sesenta por ciento de la pena de prisión impuesta en los delitos dolosos y cuarenta por ciento tratándose de delitos culposos;
+
+II.- Que haya trabajado en actividades reconocidas por la institución;
+
+III.- Que haya observado buena conducta;
+
+IV.- Que participe en actividades educativas, recreativas, culturales y deportivas que se organicen en la institución;
+
+V.- Que cuente con una persona, que se comprometa y garantice el cumplimiento de las obligaciones contraídas por el preliberado ante el área administrativa correspondiente;
+
+VI.- Que compruebe fehacientemente contar en el exterior con un oficio, arte o profesión o exhiba las constancias que acrediten que continúa estudiando; y
+
+V.- No haber sido condenado por otro delito doloso o estar vinculado a un proceso penal diverso por delito doloso.
 
 ###### ARTÍCULO 55.
 
@@ -491,6 +551,106 @@ El régimen de prisión preventiva tiene por objeto mantener al interno a dispos
 
 Al interno vinculado a proceso, se le realizarán estudios técnicos que estarán a disposición de la autoridad judicial, en términos del Código de Procedimientos Penales para el Estado Libre y Soberano de Puebla.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+## TÍTULO NOVENO. DE LAS MEDIDAS CAUTELARES
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+### CAPÍTULO PRIMERO. DE LA EVALUACIÓN DE RIESGO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+###### ARTÍCULO 65.
+
+El procedimiento de evaluación de riesgos de imputados tiene por objeto proporcionar al Ministerio Público y a la defensa, la información relevante y de calidad para que éstos la expongan a los Jueces de Control para que estén en aptitud de resolver sobre la necesidad de imponer, modificar o extinguir medidas cautelares.
+
+Para los efectos de este artículo, se entenderá que la información es relevante, en la medida en que ésta revele datos concretos relacionados con los criterios de riesgo procesal que señala el Código de Procedimientos Penales del Estado.
+
+Asimismo, se entenderá que la información proporcionada a las partes es de calidad, en la medida en que ésta se base en métodos de verificación que garanticen la veracidad de los datos proporcionados.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+###### ARTÍCULO 66.
+
+La Unidad que lleve a cabo el procedimiento de evaluación se regirá por los principios de imparcialidad, objetividad, subsidiariedad, confidencialidad y calidad.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+###### ARTÍCULO 67.
+
+Para incentivar que el imputado suministre información veraz y completa, ésta no podrá ser usada para demostrar su participación en el delito que se le atribuye. Salvo las excepciones previstas por la ley, la información sólo se usará para decidir acerca de la necesidad de imponer medidas cautelares.
+
+Sólo se podrá usar la información recabada durante la evaluación y la supervisión, cuando se desprenda la realización de un nuevo delito cuya ejecución se encuentra en curso, para los efectos de hacerlos cesar.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+###### ARTÍCULO 68.
+
+El área encargada de la evaluación de riesgos deberá:
+
+I.- Entrevistar al imputado previamente a la realización de cualquier audiencia sobre medidas cautelares, con el objeto de obtener información relevante para decidir sobre la necesidad de imponer las medidas cautelares y su idoneidad. Antes de empezar la entrevista, el funcionario debe hacerle saber al imputado el objetivo de la misma, que tiene derecho a que su defensor esté presente durante la entrevista, que puede abstenerse de suministrar información y que aquélla que proporcione no podrá ser usada para demostrar su culpabilidad. La entrevista se podrá llevar a cabo sin la presencia del defensor, si el imputado lo consiente;
+
+II.- Verificar la información proporcionada por el imputado y recolectar aquella otra que sea relevante para decidir o modificar las medidas, de modo tal que éstas resulten adecuadas para que el imputado cumpla con sus obligaciones procesales. La información deberá incluir datos sobre la historia personal del imputado, sus lazos con la comunidad, relaciones familiares, amistades, empleos, lugares de residencia, estudios, antecedentes penales, y cualquier otra información pertinente;
+
+III.- Entregar a las partes, al inicio de la audiencia en la que se discutan medidas cautelares, copias de los reportes relacionados con las mismas y recogerlos al término de la audiencia; y
+
+IV.- Diseñar y publicar los estándares de calidad de servicio que rigen la operación de los servicios previos al juicio, así como los indicadores de desempeño que los evalúan, con la finalidad de someter en todo momento su operación a evaluaciones externas relacionadas con el cumplimiento de sus objetivos institucionales.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+### CAPÍTULO SEGUNDO. DE LA SUPERVISIÓN
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+###### ARTÍCULO 69.
+
+Es obligación del área de supervisión, dar seguimiento a las medidas cautelares impuestas por el Juez de Control, distintas a la prisión preventiva, vigilar el estricto cumplimiento por parte del imputado de las obligaciones impuestas, y hacer recomendaciones a las partes sobre cualquier cambio que amerite una solicitud de alguna modificación de las medidas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+###### ARTÍCULO 70.
+
+El área de supervisión deberá:
+
+I.- Supervisar las medidas cautelares impuestas por el Juez de Control que estén sujetas a seguimiento, así como las condiciones impuestas en la suspensión condicional del proceso;
+
+II.- Diseñar el plan de supervisión de las medidas cautelares para prever las condiciones y las modalidades en que los imputados deberán cumplir, con la resolución judicial, sin modificar sus alcances y naturaleza;
+
+III.- Canalizar a los imputados a servicios sociales de asistencia, públicos o privados, en materia de salud, empleo, educación, vivienda y apoyo jurídico;
+
+IV.- Realizar visitas no anunciadas en los domicilios o lugares de trabajo de los imputados;
+
+V.- Requerir que los imputados proporcionen muestras para detectar el posible consumo de alcohol, en su caso, o de drogas prohibidas;
+
+VI.- Supervisar que las personas e instituciones a las que el Juez encargue el cuidado del imputado, cumplan las obligaciones contraídas;
+
+VII.- Recabar del imputado o de cualquier institución auxiliar de la supervisión de la medida cautelar, la información necesaria para la elaboración de los reportes sobre el cumplimiento de las medidas cautelares o de las condiciones de la suspensión condicional del proceso;
+
+VIII.- Proporcionar información a las partes sobre el cambio de las circunstancias que originaron la imposición de la medida cautelar, a efecto de que éstas soliciten su modificación al Juez de Control;
+
+IX.- Informar al Ministerio Público sobre cualquier violación a las medidas y condiciones impuestas y recomendar las modificaciones que estime pertinentes; y
+
+X.- Solicitar y proporcionar información a las oficinas con funciones similares de la Federación o de los Estados.
+
 ## TRANSITORIOS
 
 PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día de su publicación.
@@ -512,3 +672,11 @@ SÉPTIMO.- Para el ejercicio y cumplimiento de las atribuciones contenidas en la
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los dieciséis días del mes de junio de dos mil once.- Diputado Presidente.- ELÍAS ABAID KURI.- Rúbrica.- Diputado Vicepresidente.- HÉCTOR EDUARDO ALONSO GRANADOS.- Rúbrica.- Diputada Secretaria.- MYRIAM GALINDO PETRIZ.- Rúbrica.- Diputada Secretaria. ELVIA SUÁREZ RAMÍREZ.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los dieciséis días del mes de junio de dos mil once.- El Gobernador Constitucional del Estado.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- El Secretario General de Gobierno.- C. FERNANDO LUIS MANZANILLA PRIETO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE SEPTIEMBRE DE 2012.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las disposiciones previstas en el Título Noveno de esta Ley, entrarán en vigor, de conformidad con lo dispuesto por el artículo tercero transitorio del Decreto de reforma a la Ley Orgánica del Poder Judicial del Estado de 17 de junio de 2011.
