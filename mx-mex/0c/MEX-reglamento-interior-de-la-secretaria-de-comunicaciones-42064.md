@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-secretaria-de-comunicaciones-42064"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-11-29"
-last_updated: "2011-03-31"
+last_updated: "2012-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42064&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE COMUNICACIONES
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE COMUNICACIONES
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE COMUNICACIONES DEL ESTADO DE MÉXICO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NUMERO 278 PUBLICADO EN LA G.G. DE 31 DE MARZO DE 2011, CUANDO EN OTROS ORDENAMIENTOS LEGALES, REGLAMENTARIOS, ADMINISTRATIVOS Y DOCUMENTACION SE HAGA REFERENCIA A LA DIRECCION GENERAL DE INFRAESTRUCTURA PARA EL TRANSPORTE DE ALTA CAPACIDAD O AL DIRECTOR GENERAL DE INFRAESTRUCTURA PARA EL TRANSPORTE DE ALTA CAPACIDAD, SE ENTENDERA AL SISTEMA DE TRANSPORTE MASIVO DEL ESTADO DE MEXICO Y AL DIRECTOR GENERAL DEL SISTEMA DE TRANSPORTE MASIVO DEL ESTADO DE MEXICO, RESPECTIVAMENTE.</small>
-
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE SEPTIEMBRE DE 2012.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el lunes 29 de noviembre de 2004.
 
@@ -53,25 +51,33 @@ Cuando en este Reglamento se refiera a la Secretaría, se entenderá a la Secret
 
 Para el estudio, planeación y despacho de los asuntos de su competencia, así como para atender las funciones de control y evaluación que le corresponden, la Secretaría contará con un Secretario, quien para el desahogo de los asuntos de su competencia, se auxiliará de las unidades administrativas básicas siguientes:
 
-I. Subsecretaría de Infraestructura Carretera, Vial y de Comunicaciones.
+I. (DEROGADA, G.G. 14 DE SEPTIEMBRE DE 2012)
 
 II. Dirección General de Vialidad.
 
-III. Dirección General de Infraestructura para el Transporte de Alta Capacidad.
+III. (DEROGADA, G.G. 14 DE SEPTIEMBRE DE 2012)
 
 IV. Unidad de Comunicaciones.
 
 V. Coordinación Administrativa.
 
-VI. Contraloría Interna.
+> <small>(REFORMADA, G.G. 14 DE SEPTIEMBRE DE 2012)</small>
+
+VI. Coordinación Jurídica.
+
+> <small>(ADICIONADA, G.G. 14 DE SEPTIEMBRE DE 2012)</small>
+
+VII. Contraloría Interna.
 
 La Secretaría contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en el manual general de organización de esta dependencia. Asimismo, se auxiliará de los servidores públicos necesarios para el cumplimiento de sus atribuciones, en términos de su estructura aprobada y de la normatividad aplicable.
 
 Las unidades administrativas a las que hace referencia este capítulo, darán a conocer anualmente los domicilios de sus oficinas autorizadas para la recepción de promociones y documentos dirigidos a éstas, los que deberán publicarse en el periódico oficial “Gaceta del Gobierno”, así como sus modificaciones.
 
+> <small>(REFORMADO, G.G. 14 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 4.
 
-La Secretaría, Subsecretaría, Direcciones Generales, Unidad de Comunicaciones, Coordinación Administrativa, Contraloría Interna y demás unidades administrativas que integran esta dependencia, conducirán sus actividades en forma coordinada y con sujeción a los objetivos, estrategias y prioridades que en materia de su competencia establezca el Plan de Desarrollo del Estado de México y los programas regionales, sectoriales y especiales a cargo de la Secretaría o en los que participe.
+La Secretaría, Dirección General de Vialidad, Unidad de Comunicaciones, Coordinación Administrativa, Coordinación Jurídica, Contraloría Interna y demás unidades administrativas que integran esta dependencia, conducirán sus actividades en forma coordinada y con sujeción a los objetivos, estrategias y prioridades que en materia de su competencia establezca el Plan de Desarrollo del Estado de México y los programas regionales, sectoriales y especiales a cargo de la Secretaría o en los que participe.
 
 ### CAPÍTULO II. DE LAS ATRIBUCIONES DEL SECRETARIO
 
@@ -85,11 +91,15 @@ El Secretario tendrá las atribuciones siguientes:
 
 I. Fijar, dirigir y controlar la política general de la Secretaría.
 
-II. Representar legalmente a la Secretaría con las facultades de un apoderado general para pleitos y cobranzas; actos de administración y para actos de dominio, con todas las facultades que requieran cláusula especial conforme a las disposiciones en la materia y sustituir y delegar esta representación en uno o más apoderados para que las ejerzan individual o conjuntamente. Para actos de dominio requerirá de la autorización expresa de la Secretaría de Finanzas, Planeación y Administración de acuerdo con la legislación vigente.
+> <small>(REFORMADA, G.G. 14 DE SEPTIEMBRE DE 2012)</small>
+
+II. Representar legalmente a la Secretaría con las facultades de un apoderado general para pleitos y cobranzas; actos de administración y para actos de dominio, con todas las facultades que requieran cláusula especial conforme a las disposiciones en la materia y sustituir y delegar esta representación en uno o más apoderados para que las ejerzan individual o conjuntamente. Para actos de dominio requerirá de la autorización expresa de la Secretaría de Finanzas de acuerdo con la legislación vigente.
 
 III. Proponer al titular del Ejecutivo del Estado, a través de la Secretaría General de Gobierno, proyectos de iniciativas de leyes y decretos, así como de reglamentos, acuerdos y convenios sobre los asuntos competencia de la Secretaría y de los organismos auxiliares y fideicomisos sectorizados a esta dependencia.
 
-IV. Aprobar la organización de la Secretaría y de los organismos auxiliares sectorizados a esta dependencia y someterla a la autorización de la Secretaría de Finanzas, Planeación y Administración, en términos de la legislación en la materia.
+> <small>(REFORMADA, G.G. 14 DE SEPTIEMBRE DE 2012)</small>
+
+IV. Aprobar la organización de la Secretaría y de los organismos auxiliares sectorizados a esta dependencia y someterla a la autorización de la Secretaría de Finanzas, en términos de la legislación en la materia.
 
 V. Planear, coordinar, supervisar, vigilar, controlar y evaluar, en términos de la legislación aplicable, las funciones de los organismos auxiliares sectorizados a la Secretaría.
 
@@ -113,11 +123,15 @@ XIV. Autorizar el establecimiento de dispositivos especiales en materia de comun
 
 XV. Proponer al titular del Ejecutivo del Estado la intervención de un servicio público o de un bien del dominio público concesionado, cuando se interrumpa o afecte la prestación del servicio o la explotación del bien.
 
-XVI. Otorgar concesiones para el financiamiento, construcción, administración, operación, explotación, rehabilitación, conservación y mantenimiento de las comunicaciones de jurisdicción local, incluyendo estaciones de transferencia modal, así como declarar administrativamente su invalidez, revocación y rescate, además de otorgar prórrogas y ejercer el derecho de reversión, en su caso.
+> <small>(REFORMADA, G.G. 14 DE SEPTIEMBRE DE 2012)</small>
+
+XVI. Otorgar concesiones para el financiamiento, construcción, administración, operación, explotación, rehabilitación, conservación y mantenimiento de las comunicaciones de jurisdicción local, incluyendo estaciones de transferencia modal y equipamiento vial, así como declarar administrativamente su invalidez, revocación y rescate, además de otorgar prórrogas y ejercer el derecho de reversión, en su caso.
 
 XVII. Aprobar las políticas y programas del Registro Estatal de Comunicaciones, así como supervisar su funcionamiento.
 
-XVIII. Garantizar el derecho de acceso a la información conforme a lo dispuesto en la Ley de Transparencia y Acceso a la Información Pública del Estado de México.
+> <small>(REFORMADA, G.G. 14 DE SEPTIEMBRE DE 2012)</small>
+
+XVIII. Garantizar el derecho de acceso a la información conforme a lo dispuesto en la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios.
 
 XIX. Determinar la forma de desahogar los procedimientos de acción popular, conforme a lo dispuesto en el Código Administrativo del Estado de México.
 
@@ -125,65 +139,43 @@ XX. Desempeñar las comisiones y funciones que el Gobernador del Estado le confi
 
 XXI. Resolver las dudas que se susciten con motivo de la interpretación o aplicación de este Reglamento, así como los casos no previstos en el mismo.
 
-XXII. Las demás que le confieren otras disposiciones aplicables y el titular del Poder Ejecutivo Estatal.
+> <small>(REFORMADA, G.G. 14 DE SEPTIEMBRE DE 2012)</small>
+
+XXII. Aprobar y suscribir las bases, convocatorias, documentación, trámites y autorizaciones, respecto al otorgamiento, prórroga, modificación, revocación, cancelación, rescate de concesiones, permisos y autorizaciones, relativas al financiamiento, construcción, administración, operación, explotación, rehabilitación, conservación, y mantenimiento de las comunicaciones de jurisdicción local, incluyendo estaciones de transferencia modal y equipamiento vial.
+
+> <small>(ADICIONADA, G.G. 14 DE SEPTIEMBRE DE 2012)</small>
+
+XXIII. Promover y vigilar el cumplimiento de las acciones en materia aeroportuaria y de telecomunicaciones, convenidas con el Gobierno Federal y con el sector privado.
+
+> <small>(ADICIONADA, G.G. 14 DE SEPTIEMBRE DE 2012)</small>
+
+XXIV. Las demás que le confieren otras disposiciones aplicables y el Titular del Poder Ejecutivo Estatal.
 
 ### CAPÍTULO III. DEL SUBSECRETARIO Y DE LA ADSCRIPCIÓN DE LAS DIRECCIONES GENERALES Y DE LA UNIDAD
 
 ###### Artículo 7.
 
-Al frente de la Subsecretaría habrá un Subsecretario, quien tendrá las funciones siguientes:
-
-I. Representar legalmente a la Subsecretaría a su cargo, así como delegar esta representación en uno o más apoderados para que las ejerzan individual o conjuntamente, en los juicios que por razón de sus atribuciones sea parte.
-
-II. Planear, dirigir, controlar y evaluar las funciones de las unidades administrativas bajo su adscripción.
-
-III. Aprobar y suscribir las bases, convocatorias, documentación, trámites y autorizaciones, respecto del otorgamiento, prórroga, modificación, revocación, cancelación, rescate de concesiones, permisos y autorizaciones, relativos al financiamiento, construcción, explotación, administración, operación, conservación, rehabilitación y mantenimiento de las comunicaciones de jurisdicción local, incluyendo estaciones de transferencia modal y equipamiento vial.
-
-IV. Dar seguimiento a las acciones de gestión, coordinación y promoción en materia aeroportuaria y de telecomunicaciones, convenidas con el Gobierno Federal y con el sector privado.
-
-V. Acordar con el Secretario el despacho de los asuntos que le sean encomendados e informarle de las actividades realizadas por las unidades administrativas bajo su adscripción.
-
-VI. Elaborar y proponer al Secretario los proyectos de programas anuales de actividades y de presupuesto que le correspondan.
-
-VII. Presentar a la aprobación del Secretario los estudios, proyectos y acuerdos internos relacionados con las unidades administrativas bajo su adscripción.
-
-VIII. Establecer, en el ámbito de su competencia, criterios, sistemas y procedimientos de carácter técnico que rijan el funcionamiento de las unidades administrativas bajo su adscripción.
-
-IX. Someter a la consideración del Secretario el ingreso, licencia, promoción, remoción y cese de los titulares de las unidades administrativas bajo su adscripción.
-
-X. Apoyar al Secretario en el desempeño de las funciones que éste tenga encomendadas como coordinador de sector.
-
-XI. Ejercer directamente, en su caso, las funciones asignadas a las unidades administrativas bajo su adscripción.
-
-XII. Suscribir los documentos relativos al ejercicio de sus funciones y aquellos que le sean señalados por delegación o los que le correspondan por suplencia.
-
-XIII. Proporcionar la información y el apoyo técnico que le requieran otras dependencias del Ejecutivo del Estado, solicitando, en su caso, el acuerdo del Secretario.
-
-XIV. Formular los dictámenes, opiniones, estudios e informes que le solicite el Secretario.
-
-XV. Desempeñar las comisiones y funciones que el Secretario le confiera y mantenerlo informado del desarrollo de las mismas.
-
-XVI. Las demás que le confieren otras disposiciones aplicables y aquellas que le encomiende el Secretario.
+(DEROGADO, G.G. 14 DE SEPTIEMBRE DE 2012)
 
 ###### Artículo 8.
 
-Quedan adscritas a la Subsecretaría de Infraestructura Carretera Vial y de Comunicaciones:
+(DEROGADO, G.G. 14 DE SEPTIEMBRE DE 2012)
 
-I. Dirección General de Vialidad.
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 14 DE SEPTIEMBRE DE 2012)</small>
 
-II. Dirección General de Infraestructura para el Transporte de Alta Capacidad.
+### CAPÍTULO IV. DEL DIRECTOR GENERAL Y DEL JEFE DE UNIDAD
 
-III. Unidad de Comunicaciones.
-
-### CAPÍTULO IV. DE LOS DIRECTORES GENERALES Y DEL JEFE DE UNIDAD
+> <small>(REFORMADO, G.G. 14 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 9.
 
-Al frente de cada Dirección General y de la Unidad de Comunicaciones habrá un Director General y un Jefe de Unidad, respectivamente, quienes se auxiliarán de los Directores, Subdirectores, Jefes de Departamento y demás servidores públicos que las necesidades del servicio requieran, de acuerdo con la estructura de organización autorizada a la Secretaría y con el presupuesto de egresos correspondiente.
+Al frente de la Dirección General de Vialidad y de la Unidad de Comunicaciones habrá un Director General y un Jefe de Unidad, respectivamente, quienes se auxiliarán de los Directores, Subdirectores, Jefes de Departamento y demás servidores públicos que las necesidades del servicio requieran, de acuerdo con la estructura de organización autorizada a la Secretaría y con el presupuesto de egresos correspondiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 10.
 
-Corresponde a los Directores Generales y al Jefe de la Unidad:
+Corresponde al Director General y al Jefe de Unidad:
 
 I. Representar legalmente a la Dirección General o Unidad de Comunicaciones a su cargo, así como delegar esta representación en uno o más apoderados para que las ejerzan individual o conjuntamente, en los juicios que por razón de sus atribuciones sea parte.
 
@@ -191,15 +183,25 @@ II. Planear, programar, organizar, dirigir, controlar y evaluar las funciones en
 
 III. Participar, en el ámbito de su competencia, en la elaboración, ejecución y evaluación de los planes y programas de la Secretaría.
 
-IV. Acordar con el Subsecretario el despacho de los asuntos a su cargo que requieran de su intervención.
+> <small>(REFORMADA, G.G. 14 DE SEPTIEMBRE DE 2012)</small>
 
-V. Elaborar los dictámenes, opiniones, estudios e informes que les sean solicitados por el Secretario y el Subsecretario.
+IV. Acordar con el Secretario el despacho de los asuntos a su cargo que requieran de su intervención.
 
-VI. Formular y proponer al Subsecretario, los proyectos de programas anuales de actividades y de presupuestos que les correspondan.
+> <small>(REFORMADA, G.G. 14 DE SEPTIEMBRE DE 2012)</small>
 
-VII. Someter a la consideración del Subsecretario, el ingreso, licencia, promoción, remoción y cese de los titulares de las unidades administrativas a su cargo.
+V. Elaborar los dictámenes, opiniones, estudios e informes que les sean solicitados por el Secretario o los que le correspondan en el ejercicio de sus atribuciones.
 
-VIII. Proponer al Subsecretario acciones de modernización administrativa y llevar a cabo su instrumentación.
+> <small>(REFORMADO, G.G. 14 DE SEPTIEMBRE DE 2012)</small>
+
+VI. Formular y proponer al Secretario, los proyectos de programas anuales de actividades y de presupuesto que les correspondan.
+
+> <small>(REFORMADA, G.G. 14 DE SEPTIEMBRE DE 2012)</small>
+
+VII. Someter a la consideración del Secretario, el ingreso, licencia, promoción y remoción de los titulares de las unidades administrativas a su cargo.
+
+> <small>(REFORMADA, G.G. 14 DE SEPTIEMBRE DE 2012)</small>
+
+VIII. Proponer al Secretario acciones para la modernización administrativa, mejora regulatoria y gestión de la calidad en los trámites y servicios que presta la unidad administrativa a su cargo y vigilar su cumplimiento.
 
 IX. Contratar servicios técnicos y profesionales que apoyen el cumplimiento de las funciones a su cargo, previa autorización del Secretario y de conformidad con las disposiciones aplicables.
 
@@ -217,9 +219,13 @@ XV. Asesorar y apoyar técnicamente, en asuntos de su competencia, a los servido
 
 XVI. Suscribir los documentos relativos al ejercicio de sus funciones y aquellos que les sean señalados por autorización y delegación o los que les correspondan por suplencia.
 
-XVII. Las demás que les confieren otras disposiciones aplicables y aquellas que les encomienden el Secretario o el Subsecretario.
+> <small>(REFORMADA, G.G. 14 DE SEPTIEMBRE DE 2012)</small>
 
-### CAPÍTULO V. DE LAS DIRECCIONES GENERALES Y DE LA UNIDAD
+XVII. Las demás que les confieren otras disposiciones aplicables y aquellas que les encomiende el Secretario.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 14 DE SEPTIEMBRE DE 2012)</small>
+
+### CAPÍTULO V. DE LA DIRECCIÓN GENERAL, COORDINACIONES Y UNIDAD
 
 ###### Artículo 11.
 
@@ -257,53 +263,13 @@ XV. Coordinarse y participar con autoridades federales, estatales y municipales,
 
 XVI. Proporcionar asesoría técnica a las autoridades municipales en materia de infraestructura y equipamiento viales.
 
-XVII. Las demás que le confieren otras disposiciones aplicables y aquellas que le encomienden el Secretario o el Subsecretario.
+> <small>(REFORMADA, G.G. 14 DE SEPTIEMBRE DE 2012)</small>
+
+XVII. Las demás que le confieren otras disposiciones aplicables y aquellas que le encomiende el Secretario.
 
 ###### Artículo 12.
 
-Corresponde a la Dirección General de Infraestructura para el Transporte de Alta Capacidad:
-
-I. Formular y ejecutar políticas, programas, presupuestos, proyectos y acciones para la construcción, operación, rehabilitación, modernización y mantenimiento de sistemas de transporte masivo o de alta capacidad, estaciones de transferencia modal, así como sus instalaciones y equipamiento.
-
-II. Elaborar las bases, convocatorias y demás documentación, conforme a la normatividad vigente, para la contratación de estudios, proyectos, ejecución de obras, operación y mantenimiento de los sistemas de transporte masivo o de alta capacidad y estaciones de transferencia modal, así como sus instalaciones y equipamiento.
-
-III. Someter a la consideración del Secretario o Subsecretario o a quien se delegue esta atribución, el otorgamiento, prórroga, modificación o revocación de las concesiones para la prestación del servicio de transporte masivo o de alta capacidad y estaciones de transferencia modal.
-
-IV. Otorgar permisos y autorizaciones para la ejecución, conservación y rehabilitación de obras e instalaciones que se realicen en o tengan acceso directo a la infraestructura de los sistemas de transporte masivo o de alta capacidad, sus derechos de vía y estaciones de transferencia modal.
-
-V. Vigilar que se cumplan las obligaciones y condiciones establecidas en los contratos, títulos de concesión, permisos, autorizaciones y demás normatividad, relativas a los sistemas de transporte masivo o de alta capacidad y estaciones de transferencia modal.
-
-VI. Proponer normas técnicas y especificaciones aplicables a la construcción, operación, rehabilitación, modernización y mantenimiento de sistemas de transporte masivo o de alta capacidad y estaciones de transferencia modal, sus instalaciones y equipamiento.
-
-VII. Proponer, promover y celebrar, en su caso, convenios y acuerdos de coordinación en materia de transporte masivo, con los gobiernos federal, de otras entidades federativas y municipales, así como con los sectores social y privado.
-
-VIII. Intervenir, revisar y aprobar, en su caso, la fabricación, entrega y recepción de obras, material rodante, equipos e instalaciones de los sistemas de transporte masivo o de alta capacidad y estaciones de transferencia modal.
-
-IX. Promover y recibir la asignación de concesiones, permisos o autorizaciones para utilizar los derechos de vía federales existentes en la entidad, en términos de la ley respectiva, para la instalación de sistemas de transporte masivo o de alta capacidad.
-
-X. Participar, en coordinación con las dependencias competentes, en el diseño de estrategias de reordenamiento del transporte en los casos de construcción de líneas de transporte masivo.
-
-XI. Promover la participación de organizaciones vecinales, cámaras de industriales e instituciones educativas, entre otras, en la creación de consejos consultivos y de apoyo a los sistemas de transporte masivo o de alta capacidad.
-
-XII. Promover, contribuir y participar en la capacitación y formación de recursos humanos, así como en la investigación y desarrollo tecnológico en materia de transporte masivo o de alta capacidad.
-
-XIII. Ordenar la inscripción de los actos relacionados con concesiones y permisos en materia de transporte masivo o alta capacidad, que deban asentarse en el Registro Estatal de Comunicaciones, conforme a la normatividad aplicable.
-
-XIV. Participar con los gobiernos federal y de otras entidades federativas, en su caso, en la construcción, equipamiento, operación, explotación y mantenimiento de los sistemas de transporte masivo o de alta capacidad, así como gestionar las concesiones, autorizaciones o permisos que sean necesarios.
-
-XV. Elaborar estudios, diseñar, proyectar, construir, operar, administrar, explotar, conservar, rehabilitar y dar mantenimiento a las líneas de transporte masivo o de alta capacidad y a las estaciones de transferencia modal, directamente o a través de particulares, mediante el otorgamiento de contratos y concesiones.
-
-XVI. Vigilar e inspeccionar los sistemas de transporte masivo o de alta capacidad, su derecho de vía, así como las estaciones de transferencia modal y emitir las recomendaciones correspondientes.
-
-XVII. Evaluar las infracciones y aplicar las sanciones a que se hagan acreedores los prestadores del servicio público de transporte masivo o de alta capacidad y en las estaciones de transferencia modal.
-
-XVIII. Participar coordinadamente con otras dependencias competentes, en la adquisición y enajenación de inmuebles a ser utilizados por los sistemas de transporte masivo o de alta capacidad, su derecho de vía, estaciones de transferencia modal, así como sus instalaciones y equipamiento.
-
-XIX. Proporcionar asesoría a los municipios que lo soliciten, respecto de las actividades a realizar al implantarse sistemas de transporte masivo o de alta capacidad y a los concesionarios y contratistas en los trabajos de fabricación, construcción, explotación y operación.
-
-XX. Coadyuvar con las empresas operadoras y constructoras en la facilitación de trámites ante autoridades federales, estatales y municipales, respecto de afectaciones de predios, autorizaciones y permisos, relacionados con sistemas de transporte masivo o de alta capacidad y estaciones de transferencia modal.
-
-XXI. Las demás que le confieren otras disposiciones aplicables y aquellas que le encomienden el Secretario o el Subsecretario.
+(DEROGADO, G.G. 14 DE SEPTIEMBRE DE 2012)
 
 ###### Artículo 13.
 
@@ -337,7 +303,27 @@ XIII. Revisar y evaluar periódicamente el funcionamiento de las telecomunicacio
 
 XIV. Promover ante los gobiernos municipales los programas de nomenclatura de calles y delimitación de las colonias y barrios, para la mejor distribución de las piezas postales y telegráficas.
 
-XV. Las demás que le confieren otras disposiciones aplicables y aquellas que le encomienden el Secretario o el Subsecretario.
+> <small>(REFORMADA, G.G. 14 DE SEPTIEMBRE DE 2012)</small>
+
+XV. Las demás que le confieren otras disposiciones aplicables y aquellas que le encomiende el Secretario.
+
+> <small>(ADICIONADO, G.G. 14 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 13 Bis.
+
+Corresponde a la Coordinación Jurídica:
+
+I. Representar legalmente a la Secretaría y a sus unidades administrativas en los asuntos de carácter jurisdiccional, juicios, procesos y procedimientos administrativos, civiles, laborales, penales, de amparo y en cualquier otra materia en que sea parte la Secretaría o que se refiera a hechos o actos susceptibles de causar daño o perjuicio a sus intereses.
+
+II. Elaborar o revisar los proyectos de ordenamientos e instrumentos jurídicos que pretenda expedir o suscribir la Secretaría y someterlos a la consideración del Secretario.
+
+III. Asesorar jurídicamente a los servidores públicos de la Secretaría en asuntos relacionados con sus funciones.
+
+IV. Presentar denuncias en contra de los probables responsables por la comisión de un delito en agravio de la Secretaría.
+
+V. Difundir los ordenamientos e instrumentos jurídicos aplicables a las funciones de los servidores públicos de la Secretaría.
+
+VI. Las demás que le confieren otras disposiciones aplicables y aquellas que le encomiende el Secretario.
 
 ###### Artículo 14.
 
@@ -367,7 +353,9 @@ XI. Supervisar el registro, mantenimiento y conservación de los bienes muebles 
 
 XII. Diseñar y proponer instrumentos técnico administrativos para mejorar la administración de los recursos asignados a la Secretaría.
 
-XIII. Elaborar y mantener actualizados los manuales administrativos de la Secretaría, en coordinación con el área administrativa competente de la Secretaría de Finanzas, Planeación y Administración.
+> <small>(REFORMADA, G.G. 14 DE SEPTIEMBRE DE 2012)</small>
+
+XIII. Elaborar y mantener actualizados los manuales administrativos de la Secretaría, en coordinación con el área administrativa competente de la Secretaría de Finanzas.
 
 XIV. Coordinar y apoyar, en el ámbito de su competencia, a las unidades administrativas de la Secretaría en la realización de actos y eventos de carácter especial.
 
@@ -415,17 +403,21 @@ Para la atención y eficiente despacho de los asuntos de su competencia, la Secr
 
 ### CAPÍTULO VIII. DE LA SUPLENCIA DE LOS TITULARES
 
+> <small>(REFORMADO, G.G. 14 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 17.
 
-El Secretario será suplido en sus ausencias temporales hasta por 15 días, por el Subsecretario. En las mayores de 15 días, por la persona que designe, como encargada del despacho, el Gobernador del Estado.
+El Secretario será suplido en sus ausencias temporales hasta por 15 días hábiles, por el Director General de Vialidad. En las mayores de 15 días hábiles, por la persona que designe como encargado del despacho, el Gobernador del Estado.
 
 ###### Artículo 18.
 
-El Subsecretario será suplido en sus ausencias temporales hasta por 15 días, por el Director General que aquél designe. En las mayores de 15 días, por quien designe el Secretario.
+(DEROGADO, G.G. 14 DE SEPTIEMBRE DE 2012)
+
+> <small>(REFORMADO, G.G. 14 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 19.
 
-Los Directores Generales y el Jefe de la Unidad serán suplidos en sus ausencias temporales hasta por 15 días, por el servidor público de la jerarquía inmediata inferior que ellos designen. En las mayores de 15 días, por el servidor público de la jerarquía inmediata inferior que designe el Subsecretario.
+El Director General y el Jefe de Unidad serán suplidos en sus ausencias temporales hasta por 15 días hábiles, por el servidor público de la jerarquía inmediata inferior que ellos designen. En las mayores de 15 días hábiles, por el servidor público que designe el Secretario.
 
 T R A N S I T O R I O S
 
@@ -451,7 +443,7 @@ MANUEL CADENA MORALES
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 G.G. 31 DE MARZO DE 2011.
 
@@ -486,3 +478,11 @@ DÉCIMO CUARTO.- Se derogan las disposiciones de igual o menor jerarquía juríd
 DÉCIMO QUINTO.- El Programa Estatal de Publicidad Exterior deberá ser expedido por la Secretaría de Comunicaciones en un plazo máximo de cuatro meses contados a partir de la publicación del presente Decreto.
 
 DÉCIMO SEXTO.- Los permisos y autorizaciones en materia de publicidad exterior, vigentes al entrar en vigor las reformas serán respetados en sus términos hasta la conclusión del plazo por el que fueron otorgados. El Programa Estatal de Publicidad Exterior fijará los lineamientos para el otorgamiento de plazos adicionales de vigencia, cuando ello sea procedente.
+
+G.G. 14 DE SEPTIEMBRE DE 2012.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
