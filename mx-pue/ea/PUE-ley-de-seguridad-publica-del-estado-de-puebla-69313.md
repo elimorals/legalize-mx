@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-seguridad-publica-del-estado-de-puebla-69313"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-15"
-last_updated: "2011-03-16"
+last_updated: "2012-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69313&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "PUE"
 ---
 # LEY DE SEGURIDAD PUBLICA DEL ESTADO DE PUEBLA
 
-LEY DE SEGURIDAD PUBLICA DEL ESTADO DE PUEBLA
+LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 15 de julio de 2009.
 
@@ -823,7 +823,7 @@ La policía especializada en la investigación científica de los delitos será 
 
 La Policía Ministerial, se sujetará a lo dispuesto en el presente Título, quedando a cargo de la Procuraduría la aplicación de las normas, supervisión y operación de los procedimientos relativos al desarrollo policial.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MARZO DE 2011)</small>
 
@@ -913,7 +913,7 @@ La Carrera Policial comprende el grado policial, la antigüedad, las insignias, 
 
 I.- Los Cuerpos de Seguridad Pública deberán consultar los antecedentes de cualquier aspirante en el Registro Nacional antes de que se autorice su ingreso a los mismos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 2011)</small>
 
@@ -1089,7 +1089,7 @@ Al concluir el servicio la persona integrante deberá entregar al funcionario de
 
 Las personas integrantes de los Cuerpos de Seguridad Pública que hayan alcanzado las edades límite para la permanencia, previstas en las disposiciones que las rijan, podrán ser reubicadas, a consideración de las instancias, en otras áreas de las funciones de las propias instituciones.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MARZO DE 2011)</small>
 
@@ -1125,7 +1125,7 @@ Las personas que aspiren a ingresar y permanecer a las Instituciones Policiales,
 
 Ninguna persona podrá ingresar o permanecer en las Instituciones Policiales sin que cuente con el Certificado y Registro vigentes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MARZO DE 2011)</small>
 
@@ -1321,13 +1321,13 @@ Interpuesto el Recurso de Revisión, será resuelto dentro de los cinco días h�
 
 Se aplicará en lo conducente y no previsto en este Título de manera supletoria, las disposiciones establecidas en el Código de Procedimientos Civiles vigente para el Estado de Puebla.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE MARZO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE MARZO DE 2011)</small>
 
 ### CAPÍTULO QUINTO. DEL CENTRO ÚNICO DE EVALUACIÓN Y CONTROL DE CONFIANZA DEL ESTADO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MARZO DE 2011)</small>
 
@@ -1337,7 +1337,7 @@ Se creará el Centro Único de Evaluación y Control de Confianza del Estado nec
 
 Las evaluaciones respectivas se practicarán en instalaciones adecuadas e idóneas, en condiciones de higiene con respeto a la dignidad humana.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 16 DE MARZO DE 2011)</small>
 
@@ -1363,7 +1363,7 @@ Los exámenes a los que se refieren las fracciones anteriores, se valorarán en 
 
 Los servidores públicos serán citados a la práctica de las evaluaciones correspondientes. En caso de no presentarse sin mediar causa justificada, se les tendrá por no aptos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MARZO DE 2011)</small>
 
@@ -1371,7 +1371,7 @@ Los servidores públicos serán citados a la práctica de las evaluaciones corre
 
 El Centro Único de Evaluación y Control de Confianza del Estado, aplicará el modelo homologado nacional con el propósito de fortalecer los márgenes de seguridad, confiabilidad, eficiencia y competencia del personal sustantivo de las Instituciones que integran el Sistema de Seguridad Pública del Estado, en cumplimiento a las disposiciones legales aplicables, las que se deriven de los Acuerdos del Consejo Nacional de Seguridad Pública, así corno de los Convenios celebrados entre la Federación, Estado y Municipios.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 16 DE MARZO DE 2011)</small>
 
@@ -1379,9 +1379,9 @@ El Centro Único de Evaluación y Control de Confianza del Estado, aplicará el 
 
 El personal sustantivo de las Instituciones que integran el Sistema de Seguridad Pública del Estado, deberá someterse a los procesos de evaluación en los términos de esta Ley, con seis meses de anticipación a la expiración de la validez de su certificado y registro, a fin de obtener la revalidación de los mismos, en los términos que determinen las autoridades competentes. La revalidación del certificado será requisito indispensable para permanecer en dichas Instituciones y deberá registrarse para los efectos a que se refiere el artículo anterior.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2011)</small>
 
 ###### Artículo 94.
 
@@ -1389,31 +1389,31 @@ Para el cumplimiento de sus fines, el Centro Único de Evaluación y Control de 
 
 I.- Evaluaciones de nuevo ingreso, con objeto de seleccionar e identificar al personal competente, confiable y eficaz, cuyo perfil corresponda a los requerimientos del puesto, a los principios y los valores institucionales;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 2011)</small>
 
 II.- Evaluaciones de personal sustantivo de Instituciones que integran el Sistema de Seguridad Pública del Estado en activo, relativas a la promoción, cambio de funciones, asignación de comisiones especiales, validación de licencias oficiales colectivas de portación de arma de fuego y las demás contempladas en la normatividad. Dicha evaluación debe generar los mecanismos de seguridad institucional que se demanda para reforzar la operación y efectividad de las Instituciones Policiales;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 2011)</small>
 
 III.- Evaluaciones periódicas o de permanencia de personal sustantivo de Instituciones que integran el Sistema de Seguridad Pública del Estado en activo;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 16 DE MARZO DE 2011)</small>
 
 IV.- Evaluaciones extraordinarias al personal sustantivo de Instituciones que integran el Sistema de Seguridad Pública del Estado en activo, las cuales podrán ser requeridas por los Titulares de las Instituciones que integran el Sistema de Seguridad Pública del Estado, de conformidad con la normatividad aplicable al caso en particular y que se practicarán durante la vigencia del certificado correspondiente; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 16 DE MARZO DE 2011)</small>
 
 V.- Todas aquellas que establezcan los lineamientos o criterios del Centro Nacional de Certificación y Acreditación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 16 DE MARZO DE 2011)</small>
 
@@ -1431,9 +1431,9 @@ IV.- Por las demás causas que establezcan las disposiciones aplicables.
 
 Al cancelar algún certificado, de forma inmediata deberá hacer la anotación respectiva en el Registro Nacional de Personal de Seguridad Pública.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRIMER PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRIMER PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2011)</small>
 
 ###### Artículo 95.
 
@@ -1825,6 +1825,74 @@ III.- Medidas de protección a la víctima; y
 
 IV.- Aquéllas que en casos concretos sea necesario considerar en los términos del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+## TÍTULO DÉCIMO. DEL OTORGAMIENTO DE SERVICIOS DE SEGURIDAD PERSONAL
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 136.
+
+Para efectos de esta Ley se entiende por seguridad personal, la protección que otorga el Estado a aquella persona que se encuentre en el supuesto de este Título, con el objeto de salvaguardar su vida e integridad física.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 137.
+
+Corresponde a la Secretaría de Seguridad Pública implementar las medidas conducentes para garantizar la seguridad personal de quien haya desempeñado el cargo de Gobernador del Estado.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 138.
+
+El servicio de seguridad personal se proporcionará al ex Gobernador del Estado a partir de la fecha en que deje el cargo y será por el tiempo que el ex Gobernador lo solicite por escrito.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 139.
+
+El servicio de seguridad personal se proporcionará a través de una escolta que será de ocho elementos por turno, los cuales podrán ser revisados y disminuidos a seis una vez que haya transcurrido un plazo equivalente al doble del periodo por el que se ejerció el cargo. Deberán ser servidores públicos con experiencia en la materia y estar adscritos a la Secretaría de Seguridad Pública o a la Procuraduría General de Justicia.
+
+El ex Gobernador correspondiente participará en la selección de los elementos que conformarán su escolta.
+
+El jefe de escolta será quien tenga mayor rango y en el supuesto de que tengan igual jerarquía, el que tenga mayor antigüedad en la institución.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 140.
+
+A los integrantes de la escolta mencionada en el artículo anterior, se les proporcionará:
+
+I.- Identificación oficial de la institución a que pertenezcan;
+
+II.- Documento oficial que expresamente los comisione para las tareas de protección, seguridad, custodia y vigilancia que desempeñen;
+
+III.- Arma de fuego debidamente registrada conforme a la licencia colectiva de la institución a la que pertenezca;
+
+IV.- Vehículos adecuados para las funciones a desempeñar, cuyo mantenimiento, conservación y habilitación periódica, así como los gastos de combustible o reparación, correrán a cargo de la institución de que provengan; (sic)
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 141.
+
+Los recursos humanos y materiales asignados al servicio de seguridad personal se podrán emplear única y exclusivamente para la prestación del mismo.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 142.
+
+Para el eficaz desempeño de la prestación de los servicios de seguridad personal, se deberán prever los recursos necesarios en el Presupuesto de Egresos del Estado para cada ejercicio fiscal.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 143.
+
+El Secretario de Seguridad Pública podrá solicitar el apoyo de la Procuraduría General de Justicia y demás instancias estatales que tengan a su cargo funciones de seguridad, para que en el ámbito de su competencia, colaboren en el otorgamiento de las medidas de seguridad personal al ex servidor público a que se refiere este Capítulo.
+
 ## TRANSITORIOS
 
 Artículo Primero.- La presente Ley iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
@@ -1845,7 +1913,7 @@ EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Pal
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los diecinueve días del mes de junio de dos mil nueve.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO MARIO ALBERTO MONTERO SERRANO.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 16 DE MARZO DE 2011.
 
@@ -1864,3 +1932,13 @@ Una vez que se cree el Centro Único de Evaluación y Control de Confianza del E
 ###### ARTÍCULO CUARTO.
 
 Todo instrumento legal, jurídico o administrativo y norma en sentido formal o material, que a la entrada en vigor del presente Ordenamiento, se refiera al Centro de Evaluación y Control de Confianza de la Procuraduría General de Justicia del Estado de Puebla o a los Centros Estatales de Evaluación y Control de Confianza, se entenderá atribuido al Centro Único de Evaluación y Control de Confianza del Estado.
+
+P.O. 14 DE SEPTIEMBRE DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se deja sin efecto el Acuerdo del Ejecutivo del Estado, por el que se establecen los Lineamientos para la Asignación del Servicio de Seguridad Personal para ex servidores públicos del Gobierno del Estado de Puebla, publicado en el Periódico Oficial del Estado de fecha trece de diciembre de dos mil diez.
+
+El presente Decreto le será aplicable a todos los ex Gobernadores del Estado.
+
+TERCERO.- Lo dispuesto en el artículo 138 de esta Ley, no estará sujeto a refrendo ni a prórroga para su aplicación en el tiempo, así como tampoco será objeto de revocación.
