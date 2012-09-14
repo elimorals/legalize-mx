@@ -4,7 +4,7 @@ identifier: "COA-ley-de-hacienda-para-el-estado-de-coahuila-de-zaragoza-84025"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-25"
-last_updated: "2012-07-10"
+last_updated: "2012-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84025&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el viernes 25 de noviembre de 2011.
 
@@ -231,19 +231,41 @@ Es objeto de este impuesto, la realización de erogaciones por concepto de salar
 
 Para los efectos del presente artículo, se asimilan a éstos, lo siguiente:
 
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2012)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 14 DE SEPTIEMBRE DE 2012)</small>
 
 I. Los honorarios a miembros del consejo directivo, a los administradores, comisarios y gerentes.
 
 II. El pago de honorarios a personas que presten servicios preponderantemente a un prestatario, siempre que los mismos se lleven a cabo en las instalaciones de este último.
 
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
 
-III. Los pagos realizados a empresas, cooperativas, sociedades de cualquier tipo o asociaciones por proporcionar personal a otras personas fisicas o morales para que, dentro del territorio del Estado, realicen trabajos temporales, a destajo o en forma permanente.
+III. Los pagos realizados a cooperativas, sociedades de cualquier tipo o asociaciones por proporcionar servicios de personal a otras personas físicas o morales para que dentro del territorio del Estado le presten servicios de personal ya sea temporal, a destajo o en forma indefinida.
 
-Quien contrate los servicios de las empresas a que se refiere esta fracción, estará obligado a retener y enterar el impuesto sobre nóminas que se cause por el personal que le sea proporcionado por dichas empresas. La retención y entero del impuesto sobre nóminas deberá realizarse en base a los contratos y la información que de los trabajadores le dé la empresa que proporcione el personal, y en caso de que no se cuente con estos contratos e información, el cálculo se hará tomando como base el pago que se erogue a la empresa que proporciona el personal.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
 
-El pago del impuesto sobre nóminas, realizado en términos del párrafo anterior, lo podrá acreditar la empresa que proporcione el personal contra el impuesto que resulte a su cargo en las declaraciones que este obligada a presentar. En todo caso, el retenedor deberá entregar a la empresa la constancia de retención en las formas autorizadas por la Secretaría de Finanzas del Gobierno del Estado.
+Quien contrate a las cooperativas, sociedades de cualquier tipo o asociaciones a que se refiere esta fracción, estará obligado a retener y enterar el impuesto sobre nóminas que se deba causar por los pagos correspondientes al personal que preste los servicios personales. La determinación del impuesto a retener deberá realizarse con base a la información que del personal que lleva a cabo los servicios entregue anticipadamente el prestado a quien realiza los pagos, y en caso de que no se le proporcione, el cálculo se hará tomando como base del impuesto cada pago que realice.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+El impuesto sobre nóminas que se retenga en términos de los párrafos anteriores, lo podrán acreditar las cooperativas, sociedades de cualquier tipo o asociaciones a que se refiere esta fracción, contra el impuesto sobre nóminas a su cargo en las declaraciones que estén obligadas a presentar. En ningún caso las cantidades retenidas darán lugar a devolución o compensación. En todo caso, el retenedor deberá entregar al prestador la constancia de retención en las formas autorizadas por la Secretaría de Finanzas del Gobierno del Estado.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+Quien tenga la obligación de efectuar la retención prevista en el párrafo anterior tendrá la opción de no efectuarla, cuando la cooperativa, sociedad o asociación de cualquier tipo que le proporcione el personal tenga su domicilio fiscal en el territorio del Estado de Coahuila de Zaragoza y además cumpla con los requisitos siguientes:
+
+1.- Presentar aviso ante las autoridades fiscales del Estado en la forma aprobada para tal efecto por la Secretaría de Finanzas, dentro del plazo que establece el artículo 25 de esta Ley para la presentación de las declaraciones mensuales de la contratación de la cooperativa, sociedad o asociación de cualquier tipo a que se a que se (sic) refiere esta fracción.
+
+El aviso a que se refiere este inciso podrá presentarse en forma electrónica en la página oficial de la Administración Fiscal General.
+
+2.- Que obtenga copia de la constancia de inscripción actualizada de la cooperativa, sociedad de cualquier tipo o asociación a que se refiere esta fracción, ante el registro de contribuyentes del impuesto sobre nóminas que llevan las autoridades fiscales del Estado y lo presente a las autoridades fiscales cuando le sea requerido.
+
+3.- Que presente ante las autoridades fiscales del Estado, en las formas aprobadas para tal efecto, una declaración informativa acerca de los pagos realizados a las cooperativas, sociedades de cualquier tipo o asociaciones a que se refiere esta fracción en las formas oficiales aprobadas por ésta, a más tardar en el mes de marzo de cada año, correspondiente a los pagos que se les hubiera realizado en el año de calendario anterior.
+
+4.- Que mantenga los registros contables y la documentación correspondientes para la correcta identificación de las cooperativas, sociedades de cualquier tipo o asociaciones a que se refiere esta fracción que reciban los pagos y de los importes que les haya pagado.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+Quien debiendo efectuar la retención del impuesto sobre nóminas señalada en este artículo y ejerza la opción de no retener, y no cumpla con alguno de los requisitos u obligaciones señaladas en los incisos que anteceden, será responsable del pago del impuesto y sus accesorios hasta por el importe de la retención que no hubiere efectuado.
 
 SUJETO
 
@@ -2950,6 +2972,20 @@ Se derogan las disposiciones que se opongan al presente decreto.
 Publíquese en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 10 DE JULIO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 14 DE SEPTIEMBRE DE 2012.
 
 ###### ARTÍCULO PRIMERO.
 
