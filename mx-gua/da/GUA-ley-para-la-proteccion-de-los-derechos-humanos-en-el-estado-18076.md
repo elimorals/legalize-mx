@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-proteccion-de-los-derechos-humanos-en-el-estado-180
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-26"
-last_updated: "2010-05-11"
+last_updated: "2012-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # LEY PARA LA PROTECCION DE LOS DERECHOS HUMANOS EN EL ESTADO DE GUANAJUATO
 
-LEY PARA LA PROTECCION DE LOS DERECHOS HUMANOS EN EL ESTADO DE GUANAJUATO
+LEY PARA LA PROTECCIÓN DE LOS DERECHOS HUMANOS EN EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2012.
 
 Ley Publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 26 de septiembre del 2000.
 
@@ -77,7 +77,11 @@ La actuación de la Procuraduría será gratuita.
 
 La Procuraduría conocerá de quejas o denuncias en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público de carácter estatal o municipal que violen los derechos humanos.
 
-Este organismo no será competente tratándose de asuntos electorales, laborales o jurisdiccionales.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+Este Organismo no será competente tratándose de asuntos electorales y jurisdiccionales, pero podrá conocer de asuntos de orden administrativo de los órganos de impartición de justicia que transgredan derechos humanos.
 
 ###### Artículo 8o.
 
@@ -117,7 +121,23 @@ XV.- Informar periódicamente a quienes sean titulares de las dependencias y ent
 
 XVI.- Acudir a cualquier dependencia o entidad de la administración pública estatal o municipal, para investigar todo lo relativo a la queja o denuncia de que se trate, solicitar información a los servidores públicos involucrados o a sus superiores; y en general, cualquier otra diligencia que coadyuve al esclarecimiento de la verdad y al cumplimiento de su función; y
 
-XVII.- Las demás que le otorgue la presente Ley u otras disposiciones jurídicas aplicables.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+XVII.- Solicitar al Poder Legislativo que haga comparecer a las autoridades o servidores públicos ante la comisión legislativa que determine la Ley Orgánica del Poder Legislativo para que expliquen los motivos de la negativa a aceptar una recomendación o el cumplimiento de la misma;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+XVIII.- Previo análisis jurídico, promover las acciones de inconstitucionalidad en contra de las leyes expedidas por el Congreso del Estado que contravengan derechos humanos, en términos de lo dispuesto en el artículo 105, fracción II, inciso g, de la Constitución Política de los Estados Unidos Mexicanos, y en el párrafo noveno del artículo 4 de la Constitución Política para el Estado de Guanajuato; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+XIX.- Las demás que le otorgue la presente Ley u otras disposiciones jurídicas aplicables.
 
 ###### Artículo 9o.
 
@@ -145,31 +165,55 @@ V.- No desempeñar cargo o empleo público al momento de asumir el cargo; ni act
 
 VI.- No haber sido condenado por delito doloso.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 12.
 
-El Titular del Poder Ejecutivo del Estado, formulará la propuesta para la designación del Procurador, mediante una terna que elaborará considerando la opinión del Consejo y de instituciones gubernamentales y no gubernamentales que se desempeñen en el ámbito de los derechos humanos.
+El titular de lo Procuraduría, será designado por el voto de la mitad más uno de la totalidad de quienes integren el Congreso del Estado.
+
+Para tales efectos, el Ejecutivo del Estado previa convocatoria, establecerá las bases para proceder a realizar una amplia auscultación entre las organizaciones sociales representativas de los distintos sectores de la sociedad, así como entre los organismos públicos y privados, asociaciones y colegios promotores, defensores o vinculados al tema de los derechos humanos y, en general, a las entidades o personalidades que estime conveniente, a fin de que propongan candidaturas para hacerse cargo de la Procuraduría de los Derechos Humanos del Estado.
+
+Con base en dicho procedimiento y una vez escuchadas a las personas interesadas, el Ejecutivo del Estado propondrá al Congreso del Estado, una terna de candidatos para que de entre ellos, se designe a quien ocupe el cargo.
+
+En el caso de que la terna no fuese aprobada, se regresará al Ejecutivo del Estado, para que en el término de cinco días elabore una nueva terna, considerando a otros de los propuestos a partir de la convocatoria y cuya aprobación se hará conforme a lo previsto por los párrafos anteriores.
+
+Si esta segunda terna es rechazada, el Ejecutivo del Estado designará de entre los propuestos a la persona que desempeñará el cargo de Procurador.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 13.
 
-El Procurador será nombrado por el Congreso del Estado por el voto de la mitad más uno de la totalidad de quienes integren la Legislatura o la Diputación Permanente, en su caso.
+Quien sea designado como titular de la Procuraduría rendirá la protesta de Ley al cargo ante el Congreso del Estado.
 
-Dicho nombramiento deberá ser publicado en el Periódico Oficial del Gobierno del Estado.
+El nombramiento deberá ser publicado en el Periódico Oficial del Gobierno del Estado.
 
-Quien presida el Congreso o en su caso, la Diputación Permanente, citará al Procurador designado, para que comparezca a rendir su protesta de Ley, dentro de los diez días siguientes a su nombramiento.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 14.
 
-El Procurador durará en sus funciones cuatro años, podrá ser propuesto y designado, en su caso, exclusivamente para un segundo período.
+El Titular de la Procuraduría durará en sus funciones cuatro años, y podrá ser ratificado por el Congreso del Estado exclusivamente para un segundo periodo, a propuesta del Ejecutivo del Estado.
+
+La ratificación deberá ser aprobada por el voto de la mitad más uno de la totalidad de quienes integren el Congreso del Estado.
+
+El acuerdo del Congreso del Estado por el que se ratifique en su caso al titular de la Procuraduría será publicado en el Periódico Oficial del Gobierno del Estado.
+
+En el supuesto de que no se ratifique para un segundo periodo al titular de la Procuraduría, se aplicarán las reglas contempladas en esta ley para la designación de un nuevo titular. Mientras tanto, en lo que se desarrolla el mecanismo para lo designación, el Secretario General de la Procuraduría ejercerá las funciones que le corresponden al Procurador.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 15.
 
-En el supuesto de falta absoluta del Procurador, asumirá el cargo como encargado del despacho de la Procuraduría, el Subprocurador que elija el Consejo, en tanto el Congreso designa al nuevo titular que concluirá el período.
+En el supuesto de la falta absoluta del Titular de la Procuraduría, asumirá el cargo como encargado del organismo, la persona que ocupe el cargo de Secretario General de la Procuraduría, en tanto el Congreso del Estado designa al nuevo titular que concluirá el periodo.
 
-Tratándose de ausencias temporales del Procurador, será suplido por el Subprocurador que cuente con mayor antigüedad en la Procuraduría.
-
-La sesión en que se designe al Subprocurador encargado del despacho de la Procuraduría, será convocada por el Consejero de mayor antigüedad y presidida por él mismo.
-
-Los funcionarios de la Procuraduría de los Derechos Humanos serán suplidos por quienes designe el Procurador, excepción hecha de quienes integren el Consejo.
+Los funcionarios de la Procuraduría de los Derechos Humanos serán suplidos con quien posea el mejor perfil profesional, designados por el Procurador, excepción hecha de quienes integren el Consejo.
 
 ### Capítulo Tercero. De las Facultades y Obligaciones del Procurador de los Derechos Humanos
 
@@ -201,13 +245,13 @@ XI.- Formular las propuestas generales y particulares conducentes a una mejor pr
 
 XII.- Formular el anteproyecto del presupuesto anual de egresos y el respectivo informe sobre su ejercicio;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
 
-XIII.- Enviar al Congreso del Estado, el primer jueves del segundo periodo ordinario de sesiones, un informe anual por escrito sobre las actividades de la Procuraduría;
+XIII.- Enviar por escrito al Congreso del Estado, el segundo jueves del mes de abril, el Informe anual de actividades de la Procuraduría;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 11 DE MAYO DE 2010)</small>
 
@@ -225,9 +269,13 @@ Por lo menos cuatro integrantes del Consejo, no deberán ocupar ningún cargo o 
 
 El cargo de quienes integren el Consejo, será de carácter honorario y durarán en sus funciones dos años, podrán ser ratificados para un segundo período; la sustitución se hará de manera escalonada sustituyendo al miembro de mayor antigüedad.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 18.
 
-Quienes integren el Consejo serán propuestos por el Procurador y ratificados por el Pleno del Congreso del Estado o por la Diputación Permanente durante los periodos de receso.
+Quienes integren el Consejo serán propuestos por el titular del Poder Ejecutivo del Estado y ratificados por el Pleno del Congreso del Estado o por la Diputación Permanente durante los periodos de receso.
 
 El Consejo contará con un Secretario Técnico, que será el Secretario General, cuya función será elaborar las actas de las sesiones del Consejo y las demás que le atribuya el reglamento interno.
 
@@ -239,7 +287,7 @@ I.- Opinar sobre los lineamientos generales para la actuación de la Procuradur�
 
 II.- Aprobar su reglamento interno, así como las reformas al mismo;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 11 DE MAYO DE 2010)</small>
 
@@ -577,9 +625,19 @@ La Procuraduría se dirigirá al superior inmediato o jerárquico del servidor p
 
 La recomendación será pública y no tendrá carácter vinculatorio para la autoridad o servidor público a los cuales se dirija; asimismo, no podrá anular por sí misma, modificar o dejar sin efecto las resoluciones o actos contra los cuales se haya presentado la queja o denuncia.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+Todo servidor público está obligado a dar contestación, por escrito, a las recomendaciones que le formule la Procuraduría.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 59.
 
-Una vez recibida la recomendación, la autoridad o servidor público de que se trate, deberá informar dentro de los cinco días hábiles siguientes a su notificación, si acepta dicha recomendación; cuando no conteste en el término previsto para ello, se tendrá por no aceptada.
+Una vez recibida la recomendación, la autoridad o servidor público de que se trate, deberá informar dentro de los cinco días hábiles siguientes a su notificación, si acepta dicha recomendación.
 
 En caso de aceptar la recomendación, la autoridad o servidor público contará con un plazo de quince días naturales, para entregar las pruebas del debido y total cumplimiento de la recomendación. Dicho plazo podrá ser ampliado cuando la naturaleza de la recomendación así lo requiera o cuando fuere motivadamente solicitado.
 
@@ -595,25 +653,41 @@ Cuando de las recomendaciones emitidas, resulte evidente la frecuencia de cierta
 
 Las personas quejosas o agraviadas podrán solicitar la revisión del acuerdo de no admisión o de sobreseimiento, según corresponda, que emitan los Subprocuradores, en un término no mayor de cinco días hábiles contados a partir de que surta efectos la notificación, para que el Procurador emita en un término similar, la resolución correspondiente en la cual se confirme, revoque o modifique el acuerdo impugnado.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 63.
 
-Para el caso de que la autoridad responsable no acepte o no cumpla con la recomendación en el plazo que la Ley concede para tal efecto, la Procuraduría deberá hacer pública, dentro de los diez días hábiles siguientes, por los medios de difusión idóneos, la violación a los derechos humanos en que hubiera incurrido la autoridad y su negativa de cumplir con la recomendación.
+Para el caso de que la autoridad responsable, al dar su contestación por escrito en el plazo que esta Ley concede para tal efecto, no acepte o no cumpla con las recomendaciones, ésta deberá fundar, motivar y hacer pública su negativa.
+
+Asimismo, cuando el Procurador lo estime pertinente y previa petición de por medio, el Congreso del Estado podrá citar a comparecer, ante la comisión legislativa que corresponda de acuerdo con su Ley Orgánica, a todo servidor público, estatal o municipal, para que informe las razones de su actuación cuando:
+
+I.- No acepte total o parcialmente una recomendación, o si es omiso después de haber transcurrido el término que señala este ordenamiento para informar si acepta o no dicha recomendación; y
+
+II.- No cumpla total o parcialmente con la recomendación previamente aceptada en el plazo que señala la presente Ley.
+
+En ambos supuestos, la Procuraduría, por conducto de su titular, estará presente en la reunión en la que se desahogue la comparecencia de la autoridad señalada como responsable. El acuerdo del Congreso del Estado por el que se apruebe la comparecencia de la autoridad responsable, señalará los términos y condiciones en que se verificará ésta.
 
 ### Capítulo Quinto. Del Recurso
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 64.
 
-Las personas quejosas o agraviadas, la autoridad o servidor público en su caso, podrán acudir ante la Comisión Nacional de Derechos Humanos, para inconformarse en relación con las recomendaciones, acuerdos u omisiones de la Procuraduría, en los términos de la Ley de la Comisión Nacional de Derechos Humanos.
+Las personas quejosas o agraviadas podrán acudir ante la Comisión Nacional de Derechos Humanos, para inconformarse en relación con las recomendaciones, acuerdos u omisiones de la Procuraduría, en los términos de la Ley de la Comisión Nacional de Derechos Humanos.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 11 DE MAYO DE 2010)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE MAYO DE 2010)</small>
 
 ## Título Cuarto
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE MAYO DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE MAYO DE 2010)</small>
 
 ### Capítulo Único. Del informe de actividades de la Procuraduría
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 11 DE MAYO DE 2010)</small>
 
@@ -637,7 +711,7 @@ VII.- La participación ciudadana; y
 
 VIII.- Las demás acciones relacionadas con las atribuciones de la Procuraduría.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 11 DE MAYO DE 2010)</small>
 
@@ -645,7 +719,7 @@ VIII.- Las demás acciones relacionadas con las atribuciones de la Procuraduría
 
 El informe que el Procurador envíe al Congreso del Estado, se hará de conocimiento del Gobernador del Estado, así como del Supremo Tribunal de Justicia del Estado, de los ayuntamientos y de los organismos autónomos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 11 DE MAYO DE 2010)</small>
 
@@ -653,7 +727,7 @@ El informe que el Procurador envíe al Congreso del Estado, se hará de conocimi
 
 El informe una vez que se haya entregado al Congreso del Estado será público, y será difundido para conocimiento de la sociedad, conforme a las disposiciones constitucionales y legales aplicables. La difusión estará a cargo de la propia Procuraduría.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 11 DE MAYO DE 2010)</small>
 
@@ -661,7 +735,7 @@ El informe una vez que se haya entregado al Congreso del Estado será público, 
 
 El Procurador comparecerá ante el Congreso del Estado, cuando así se le requiera, a efecto de ampliar la información contenida en el informe o bien, para dar cuenta sobre el estado de cumplimiento de las recomendaciones y de las demás acciones que realice la Procuraduría.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 (REUBICADO [N. DE E. ANTES TITULO CUARTO], P.O. 11 DE MAYO DE 2010)
 
@@ -689,7 +763,7 @@ Cuando persistan actitudes u omisiones que impliquen conductas evasivas o de ent
 
 Las autoridades y los servidores públicos serán responsables penal o administrativamente por los actos u omisiones en que incurran, durante y con motivo de la tramitación de quejas o denuncias ante la Procuraduría, de acuerdo con las disposiciones constitucionales y legales aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 (REUBICADO [N. DE E. ANTES TITULO QUINTO], P.O. 11 DE MAYO DE 2010)
 
@@ -729,13 +803,13 @@ EL SECRETARIO DE GOBIERNO.
 
 LIC. JUAN MANUEL OLIVA RAMÍREZ.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 1 DE AGOSTO DE 2006.
 
 Artículo Único.- Las presentes modificaciones a la Ley para la Protección de los Derechos Humanos en el Estado de Guanajuato, entrarán en vigencia el 12 de septiembre del año 2006 dos mil seis.
 
-> <small>N. DE E. DEBIDO A SU IMPORTANCIA, SE TRANSCRIBE EL ARTICULO UNICO TRANSITORIO DEL DECRETO NUMERO 280.</small>
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, SE TRANSCRIBE EL ARTICULO ÚNICO TRANSITORIO DEL DECRETO NÚMERO 280.</small>
 
 ###### ARTÍCULO ÚNICO.
 
@@ -746,3 +820,11 @@ P.O. 11 DE MAYO DE 2010.
 Artículo Primero.- El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo.- El informe que el Procurador de los Derechos Humanos del Estado de Guanajuato habrá de presentar sobre las actividades de la Procuraduría, durante la segunda quincena del mes de mayo del año 2010, se remitirá por escrito al Congreso del Estado, con el contenido y estructura con el que se ha presentado hasta la fecha, y abarcará el periodo comprendido del 1 de abril al 31 de diciembre de 2009.
+
+P.O. 14 DE SEPTIEMBRE DE 2012.
+
+Artículo Primero. El presente Decreto entrará en vigencia en la misma fecha en que entre en vigencia el Decreto por el que se reforman y adicionan diversos artículos de la Constitución Política para el Estado de Guanajuato en materia de armonización de la reforma constitucional federal en materia de Derechos Humanos.
+
+Artículo Segundo. El Procurador de los Derechos Humanos del Estado en funciones podrá ser ratificado para un segundo periodo, de conformidad con las disposiciones vigentes antes de la entrada en vigencia del presente Decreto.
+
+Artículo Tercero. Se derogan todas las disposiciones que contravengan el presente Decreto.
