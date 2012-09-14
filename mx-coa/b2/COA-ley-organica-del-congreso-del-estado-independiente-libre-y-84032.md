@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-congreso-del-estado-independiente-libre-y-8403
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-11-25"
-last_updated: "2012-04-20"
+last_updated: "2012-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 25 de noviembre de 2011.
 
@@ -1521,7 +1521,9 @@ I. Al conmemorarse aniversarios de sucesos históricos;
 
 II. Cuando ocurra el Presidente de la República al Recinto Oficial del Congreso;
 
-III. Cuando el Gobernador del Estado rinda su protesta de ley;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+III. Cuando el Gobernador del Estado rinda su protesta de ley y el informe del estado general que guarda la administración pública estatal;
 
 IV. Cuando así se determine con motivo de la asistencia del Gobernador del Estado al Recinto Oficial del Congreso;
 
@@ -2525,15 +2527,19 @@ IV. Otros documentos que determine la Junta de Gobierno.
 
 ### CAPÍTULO I. DEL INFORME DEL ESTADO DE LA ADMINISTRACIÓN PÚBLICA ESTATAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 254.
 
-El Gobernador del Estado informará por escrito cada año al Congreso, sobre el estado general que guarda la administración pública estatal, según lo dispuesto en la Constitución Política del Estado de Coahuila de Zaragoza.
+El Gobernador del Estado informará cada año al Congreso, sobre el estado general que guarda la administración pública estatal, según lo dispuesto en la Constitución Política del Estado de Coahuila de Zaragoza.
 
 La Legislatura realizará el análisis del informe presentado por el Gobernador mediante la comparecencia de los secretarios del ramo ante las Comisiones correspondientes por materia.
 
 Para ese efecto, la Junta de Gobierno formulará una propuesta sobre los servidores públicos cuya comparecencia se solicita, así como el formato y duración de dichas comparecencias, según lo dispuesto por esta ley.
 
-El Fiscal General presentará la cuenta de actividades de la Fiscalía General, en el mes en el que se cite a los titulares de las dependencias de la administración pública centralizada a la glosa del informe anual de gobierno; cuidando siempre que la presentación, sea posterior al informe del Gobernador; lo anterior de conformidad con lo dispuesto en la Ley Orgánica de la Fiscalía General del Estado de Coahuila de Zaragoza.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+El Procurador General presentará la cuenta de actividades de la Procuraduría General de Justicia del Estado, en el mes en el que se cite a los titulares de las dependencias de la administración pública centralizada a la glosa del informe anual de gobierno, cuidando siempre que la presentación sea posterior al informe del Gobernador; lo anterior de conformidad con lo dispuesto en la Ley de Procuración de Justicia del Estado de Coahuila de Zaragoza.
 
 ### CAPÍTULO II. DEL NOMBRAMIENTO DE GOBERNADOR INTERINO Y PROVISIONAL Y DE LA ELECCIÓN DE GOBERNADOR SUSTITUTO Y OTROS FUNCIONARIOS
 
@@ -2708,3 +2714,13 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 20 DE ABRIL DE 2012.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE SEPTIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones legales que se opongan al presente Decreto.
