@@ -4,7 +4,7 @@ identifier: "COA-ley-de-acceso-a-la-informacion-publica-y-proteccion-de-63593"
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-02"
-last_updated: "2009-06-26"
+last_updated: "2012-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COA"
 ---
 # LEY DE ACCESO A LA INFORMACION PUBLICA Y PROTECCION DE DATOS PERSONALES PARA EL ESTADO DE COAHUILA
 
-LEY DE ACCESO A LA INFORMACION PUBLICA Y PROTECCION DE DATOS PERSONALES PARA EL ESTADO DE COAHUILA
+LEY DE ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES PARA EL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JUNIO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 2 de septiembre de 2008.
 
@@ -45,6 +45,12 @@ LEY DE ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES PARA 
 
 La presente ley es de orden público y tiene por objeto establecer las bases para garantizar el derecho de cualquier persona al acceso a la información pública y la protección de datos personales, contenidos en los párrafos tercero y cuarto del artículo 7 y quinto del artículo 8 de la Constitución Política del Estado de Coahuila de Zaragoza.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+El derecho fundamental a la información pública comprende la facultad de las personas para solicitar, difundir, investigar y recabar información pública.
+
 ###### Artículo 2.
 
 Para cumplir con su objeto, esta ley:
@@ -53,7 +59,11 @@ l. Proveerá lo necesario para garantizar que toda persona tenga acceso a la inf
 
 II. Garantizará los mecanismos que permitan transparentar la gestión pública, mediante la difusión de la información que generen los sujetos obligados;
 
-III. Promoverá la generación y consolidación de una cultura de transparencia en la ciudadanía y los servidores públicos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+III. Promoverá la generación y consolidación de una cultura de transparencia y rendición de cuentas en la ciudadanía y los servidores públicos;
 
 IV. Proveerá lo necesario para la debida administración, conservación y preservación de los archivos administrativos y la documentación en poder de los sujetos obligados para garantizar el acceso a la información pública;
 
@@ -67,11 +77,19 @@ VI. Garantizará la protección de los datos personales en poder de los sujetos 
 
 Para efectos de esta ley se entenderá por:
 
-I. Datos Personales: La información numérica, alfabética, gráfica, fotográfica, acústica o de cualquier otro tipo concerniente a una persona, identificada o identificable: el nombre asociado al origen étnico o racial, o las características físicas, morales o emocionales, a la vida afectiva y familiar; el domicilio, número de teléfono, cuenta personal de correo electrónico, patrimonio, ideología y opiniones políticas, creencias, convicciones religiosas, filosóficas, los estados de salud físicos, o mentales, las preferencias sexuales, la huella dactilar, el ADN, la fotografía y el número de seguridad social.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+I. Datos Personales: La información numérica, alfabética, gráfica, fotográfica, acústica o de cualquier otro tipo concerniente a una persona, identificada o identificable: el nombre asociado al origen étnico o racial, o las características físicas, morales o emocionales, a la vida afectiva y familiar; el domicilio particular, número de teléfono, cuenta personal de correo electrónico, claves informáticas y cibernéticas, patrimonio, ideología y opiniones políticas, creencias, convicciones religiosas, filosóficas, morales u otras análogas que afecten la intimidad, los estados de salud físicos, o mentales, las preferencias sexuales, la huella dactilar, la información genética, la fotográfica y el número de seguridad social.
 
 II. Días: Días hábiles.
 
-III. Documentos: Los expedientes, reportes, estudios, actas, resoluciones, oficios, correspondencia, acuerdos, directivas, directrices, circulares, contratos, convenios, instructivos, notas, memorandos, estadísticas o bien, cualquier otro registro que documente el ejercicio de las facultades o la actividad de los sujetos obligados y sus servidores públicos. Los documentos podrán estar en cualquier medio, entre otros escrito, impreso, sonoro, visual, electrónico, informático u holográfico.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+III. Documentos: Los expedientes, reportes, estudios, actas, resoluciones, oficios, correspondencia, acuerdos, directivas, directrices, circulares, contratos, convenios, instructivos, notas, memorandos, estadísticas o bien, cualquier otro registro que documente el ejercicio de las facultades o la actividad de los sujetos obligados y sus servidores públicos, sin importar su fuente o fecha de elaboración. Los documentos podrán estar en cualquier medio, entre otros escrito, impreso, sonoro, visual, electrónico, informático u holográfico.
 
 > <small>(REFORMADA, P.O. 26 DE JUNIO DE 2009)</small>
 
@@ -79,9 +97,17 @@ IV. Entidad Pública: Los sujetos obligados a proporcionar información en los t
 
 V. Expediente: Un conjunto de documentos relacionados.
 
-VI. Indicadores de Gestión: Medios, instrumentos o mecanismos para evaluar hasta qué punto o en qué medida se están logrando los objetivos estratégicos o las metas establecidas en los planes, programas o proyectos de los sujetos obligados en los que resulte aplicable de acuerdo a su naturaleza jurídica.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VII. Información: La contenida en los documentos que los sujetos obligados generan, obtienen, adquieren, transforman o conservan por cualquier título.
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+VI. Indicadores de Gestión: La información numérica o gráfica que permite evaluar la eficacia y eficiencia en el cumplimiento de los propósitos, metas y resultados institucionales, el grado de ejecución de las actividades, la asignación y el uso de recursos en las diferentes etapas de los procesos, proyectos y programas; así como, los planes gubernamentales de los sujetos obligados en una dimensión de mediano y largo plazo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+VII. Información: La contenida en los documentos que los sujetos obligados generan, obtienen, adquieren, transforman o conservan por cualquier título o medio.
 
 VIII. Información Confidencial: La información clasificada como tal en los términos del capítulo quinto de la ley.
 
@@ -95,7 +121,11 @@ XII. Ley: La Ley de Acceso a la Información Pública y de Protección de Datos 
 
 XIII. Reglamento: Reglamento de la Ley de Acceso a la Información Pública y de Protección de Datos Personales para el Estado de Coahuila.
 
-XIV. Servidor público: Los señalados con tal carácter, en la Constitución Política y la Ley de Responsabilidades de los Servidores Públicos del Estado de Coahuila.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+XIV. Servidor público: Los representantes de elección popular, los miembros de los órganos jurisdiccionales del Poder Judicial, los integrantes de organismos Públicos Autónomos, los funcionarios y empleados, y en general toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en las entidades públicas.
 
 XV. Sistema de Datos Personales: El conjunto organizado de datos personales, que estén en posesión de un sujeto obligado, sea en formato escrito, impreso, digital, sonoro, visual, electrónico, informático, holográfico o cualquier otro medio.
 
@@ -108,6 +138,36 @@ XVIII. Unidad Administrativa: Las que, de acuerdo con la normatividad de cada un
 XIX. Unidad de Atención: Los órganos responsables de tramitar las solicitudes de acceso a la información de acuerdo con las disposiciones contenidas en el capítulo octavo de esta ley.
 
 XX. Versiones Públicas: Documento en el que, para permitir su acceso, se testa u omite la información clasificada como reservada o confidencial.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+XXI. Persona: Todo ser humano sin importar condición o entidad jurídica, salvo lo dispuesto en esta Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+XXII. Derecho de Acceso a la Información Pública: La prerrogativa que tiene toda persona para acceder a la información generada, administrada o en poder de los sujetos obligados, en los términos de la presente Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+XXIII. Protección de Datos Personales: La garantía que tutela la privacidad de datos personales en poder de las entidades públicas y sujetos obligados.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+XXIV. Prueba de daño: Carga de los sujetos obligados de demostrar que la divulgación de información lesiona el interés jurídicamente protegido por la Ley, y que el daño que puede producirse con la publicidad de la información es mayor que el interés de conocerla.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+XXV. Redes sociales: Formas de comunicación electrónica por medio de comunidades virtuales con objeto de compartir información, ideas, mensajes personales, fotografía, videos y diversos contenidos; y (sic)
 
 #### SECCIÓN TERCERA. LOS SUJETOS OBLIGADOS
 
@@ -131,7 +191,11 @@ l. El Poder Ejecutivo del Estado.
 
 II. El Poder Judicial del Estado.
 
-III. El Poder Legislativo del Estado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+III. El Poder Legislativo del Estado, sus integrantes y la Auditoría Superior del Estado.
 
 IV. Los Ayuntamientos o Concejos Municipales y la Administración Pública Municipal.
 
@@ -139,11 +203,23 @@ V. Los organismos descentralizados y desconcentrados de la Administración Públ
 
 VI. Los organismos públicos autónomos del Estado.
 
-VII. Las universidades públicas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+VII. Las universidades públicas, e instituciones de educación superior públicas.
 
 VIII. Los partidos políticos y agrupaciones políticas, en los términos de las disposiciones aplicables.
 
-Quedan incluidos dentro de esta clasificación todos los órganos y dependencias de las fracciones I, II, III y IV del presente artículo, cualquiera que sea su denominación.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+IX. (DEROGADA, P.O. 14 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+Quedan incluidos dentro de esta clasificación todos los órganos y dependencias de las fracciones I, II, III y IV del presente artículo, cualquiera que sea su denominación y aquellos que la legislación local les reconozca como de interés público.
 
 ###### Artículo 7.
 
@@ -161,19 +237,71 @@ III. Asegurar la protección de los datos personales en su posesión, en términ
 
 IV. Dar acceso a la información pública que le sea requerida, en los términos de ésta ley y demás disposiciones aplicables;
 
-V. Capacitar a los servidores públicos en materia de transparencia y acceso a la información pública y protección de datos personales;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+V. Elaborar, con auxilio del Instituto, un programa de capacitación para los servidores públicos o sus integrantes, en temas de transparencia, acceso a la información, rendición de cuentas, datos personales y archivos, y capacitar a los servidores públicos;
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 26 DE JUNIO DE 2009)</small>
 
 VI. Cumplir cabalmente las resoluciones del Instituto y colaborar con éste en el desempeño de sus funciones.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+VII. Atender los requerimientos, observaciones, recomendaciones y criterios que en materia de transparencia y acceso a la información pública realice el Instituto;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+VIII. Procurar condiciones de accesibilidad para que personas con capacidades diferentes ejerzan los derechos regulados en esta Ley;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+IX. Crear y hacer uso de sistemas de tecnología sistematizados y avanzados, y adoptar las nuevas herramientas para que los ciudadanos consulten información de manera directa, sencilla y rápida; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+X. Las demás que determinan esta ley y otras disposiciones aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+Los sujetos obligados deberán dar acceso a la información mediante bases de datos que permitan la búsqueda y extracción de información. Además las páginas deberán contar con buscadores temáticos y disponer de un respaldo con todos los registros electrónicos para cualquier persona que lo solicite.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+Los sujetos obligados contarán en la página de inicio de sus portales de Internet con una señalización fácilmente identificable y accesible que cumpla con los requerimientos, comprensión y organización de la información a que se refiere este capítulo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+El Instituto establecerá criterios que permitan homologar la presentación de la información en los portales de Internet y promoverá la creación de medios electrónicos para incorporar, localizar y facilitar el acceso a la información pública mínima.
+
 ###### Artículo 9.
 
 Los sujetos obligados podrán emitir acuerdos o lineamientos en el ámbito de su competencia, para el mejor ejercicio del acceso a la información y protección de datos personales. Esta atribución tendrá que ser ejercida en base a las disposiciones legales y reglamentarias en la materia.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 10.
 
-Las personas físicas y morales que, en el ejercicio de sus actividades, actúen en auxilio o colaboración de las entidades públicas, ejerzan gasto público, reciban, utilicen o dispongan de recursos públicos, estarán obligadas a entregar la información relacionada con dichos actos a través del sujeto obligado que entregue el recurso, supervise o coordine estas actividades.
+Las personas físicas o morales que, en el ejercicio de sus actividades, coadyuven en auxilio o colaboración de las entidades públicas, o aquellas que ejerzan gasto público, reciban, utilicen o dispongan de recursos públicos, subsidios, o estímulos fiscales, estarán obligadas a entregar la información relacionada con el uso, destino y actividades al sujeto obligado que entregue el recurso, subsidio u otorgue el estimulo, supervise o coordine estas actividades.
+
+Las organizaciones de la sociedad civil, que obtengan por parte del Estado la declaración de beneficencia, se consideran sujetos obligados en los términos del art. 6 de esta ley.
 
 ### CAPÍTULO SEGUNDO. DE LA CULTURA DE LA TRANSPARENCIA Y PROTECCIÓN DE DATOS PERSONALES
 
@@ -231,15 +359,29 @@ El Instituto instrumentará los mecanismos para la difusión, eficacia y vigenci
 
 Con excepción de la información reservada o confidencial prevista en esta ley, los sujetos obligados deberán difundir, actualizar y poner a disposición del público la información pública a que se refiere este capítulo.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO] PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 16.
 
 Las páginas electrónicas utilizadas por los sujetos obligados para la difusión de información pública, observarán los siguientes lineamientos:
 
-I. La página de inicio tendrá un vínculo de acceso directo a donde se encuentre la información pública a la que se refiere este capítulo;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+I. La página de inicio tendrá un vínculo de acceso directo a donde se encuentre la información pública a la que se refiere este capítulo, donde se procurará cuente con una buena accesibilidad,
 
 II. La información que se difunda en las páginas electrónicas deberá ser confiable, completa y oportuna, y
 
 III. El lenguaje utilizado será claro, sencillo, accesible y que facilite la comprensión de las personas que consulten dichas páginas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+IV. Deberán contar con un teléfono de atención y correo electrónico por medio del cual los ciudadanos puedan realizar opiniones, quejas, o sugerencias que atienda directamente el Órgano de Control Interno o equivalente.
 
 El Instituto establecerá los lineamientos necesarios para asegurar que la información cumpla con lo dispuesto en este artículo.
 
@@ -263,13 +405,29 @@ I. Su estructura orgánica en un formato que permita vincular por cada eslabón 
 
 II. El marco normativo aplicable;
 
-III. El directorio de los servidores públicos, a partir del nivel de jefe de departamento o equivalente, con nombre, domicilio, números telefónicos, y, en su caso, dirección electrónica oficiales;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV. La remuneración mensual por puesto, incluyendo todas las percepciones;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
 
-V. El importe por concepto de viáticos del titular del sujeto obligado;
+III. El directorio de los servidores públicos, con nombre, fotografía, domicilio oficial, números telefónicos, y en su caso, dirección electrónica y redes sociales oficiales, con excepción de los miembros de las corporaciones policiacas;
 
-VI. El currículum de los servidores públicos de primer nivel;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+IV. La remuneración mensual por puesto de todos los servidores públicos por sueldo o por honorarios, incluyendo todas las percepciones;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+V. El importe por concepto de viáticos y gastos de representación del titular del sujeto obligado;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+VI. El perfil de los puestos de los servidores públicos y el currículum de todos los servidores públicos, con excepción de los miembros de las corporaciones policiacas;
 
 VII. La relativa a los convenios de colaboración que los sujetos obligados celebren con la Federación, otros Estados, con los Municipios y cualquier otra persona de derecho público o privado;
 
@@ -293,7 +451,11 @@ XV. Los catálogos documentales de sus archivos administrativos de conformidad c
 
 XVI. Las solicitudes de acceso a la información pública y las respuestas que se les dé, incluyendo, en su caso, la información entregada, a través del sistema electrónico correspondiente;
 
-XVII. Los informes de avances de gestión financiera cuatrimestrales y la cuenta pública anual, una vez que se presenten ante el Congreso del Estado;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+XVII. Los informes de avances de gestión financiera semestral y la cuenta pública anual, una vez que se presenten ante el Congreso del Estado;
 
 XVIII. Los resultados de todo tipo de auditorías practicadas y concluidas al ejercicio presupuestal de cada una de las entidades públicas, con excepción de los que debe publicar la Auditoría Superior del Estado, de acuerdo a lo previsto en la fracción IX del artículo 21 de este ordenamiento;
 
@@ -303,13 +465,25 @@ XX. Las convocatorias a concurso o licitación de obras, adquisiciones, arrendam
 
 XXI. Los índices de expedientes clasificados como reservados elaborados semestralmente y por rubros temáticos;
 
-XXII. Respecto de las concesiones, licencias, permisos y autorizaciones: su objeto, el nombre o razón social del titular, el tipo y vigencia de las mismas;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+XXII. Respecto de las concesiones, licencias, permisos y autorizaciones: su objeto, el nombre o razón social del titular, el tipo y vigencia de las mismas; tratándose de licencias para el expendio, venta y consumo de bebidas alcohólicas, se deberá publicar además del número de licencia, nombre del titular , el nombre del usuario o comodatario de la licencia, nombre comercial, el giro, dirección y ubicación del local a través de planos georeferenciados, fotografía del mismo, los horarios de venta y/o consumo, número de multas y clausuras en su caso.
+
+Tratándose de concesiones de transporte público, se deberá de publicar además el nombre del propietario del vehículo asignado a dicha concesión;
 
 XXIII. La entrega de recursos públicos, cualquiera que sea su destino.
 
-XXIV. El informe anual de actividades, y
+XXIV. El informe anual de actividades, y (sic)
 
-XXV. Cualquier otra información que sea de utilidad o resulte relevante para el conocimiento y evaluación de las funciones responsabilidad del sujeto obligado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+XXV. Estadísticas o indicadores sobre los ingresos derivados de impuestos, derechos, productos o aprovechamientos, y
+
+XXVI. Cualquier otra información que sea de utilidad o resulte relevante para el conocimiento y evaluación de las funciones responsabilidad del sujeto obligado.
 
 ###### Artículo 20.
 
@@ -323,19 +497,65 @@ III. Los reglamentos de las leyes expedidos en ejercicio de sus atribuciones;
 
 IV. Las iniciativas de leyes o decretos y demás disposiciones generales o particulares en materia administrativa;
 
-V. El listado de expropiaciones por causa de utilidad pública, realizadas en los últimos seis años;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VI. Los convenios de coordinación con la Federación, Estados y Municipios y de concertación con los sectores social y privado;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+V. El listado de expropiaciones por causa de utilidad pública, realizadas en los últimos seis años que contenga al menos fecha de expropiación, domicilio y causa de utilidad pública;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+VI. Los convenios de coordinación con la Federación, Estados y Municipios y de concertación con los sectores social y privado, señalando el objeto, las partes y tiempo de duración;
 
 VII. El listado de patentes de las notarías públicas otorgadas y sus titulares, en los términos de la ley respectiva, y
 
-VIII. La información que sea de utilidad o relevante para el conocimiento y evaluación de las funciones y políticas públicas, responsabilidad de cada dependencia y entidad pública.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+VIII. Las Juntas Locales de Conciliación y Arbitraje del Estado, deberán publicar la relación de los contratos colectivos de trabajo que tenga registrados, los boletines laborales, el registro de asociaciones, así como los informes mensuales que deriven de sus funciones;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+IX. Por conducto de la Secretaría de Educación deberá publicar:
+
+a) El calendario del ciclo escolar;
+
+b) Directorio de escuelas, escuelas oficiales y particulares que tanto en el ámbito federal como estatal, se encuentran incorporadas al Sistema Educativo Nacional, incluyendo el domicilio, teléfonos, correo electrónico y página web en su caso, servicios que atienden y estudios reconocidos;
+
+c) La lista de útiles escolares básicos por nivel educativo;
+
+d) El Directorio de bibliotecas públicas incluyendo horarios, el domicilio, teléfonos, correo electrónico, requisitos de consulta, reglamento y página web, en su caso;
+
+e) El número y tipo de las plazas docentes, administrativas y directivas existentes, el nombre, así como número de horas de nivel básico, normal, de educación tecnológica y de adultos, por centros de trabajo, el pago que reciben por concepto de servicios y los movimientos que se realicen a dichas plazas: (sic)
+
+f) Relación de trabajadores comisionados por centro de trabajo, identificando sus claves de pago, el centro de trabajo de origen y destino, así como el inicio y la conclusión de la comisión, el pago que en su caso reciben por concepto de servicios personales, y el objeto de la comisión otorgada al trabajador para desempeñar temporalmente funciones distintas para las que fue contratado;
+
+g) El registro estatal y/o federal de profesionistas, y
+
+h) En la página web oficial, deberá publicar información cuando por cualquier circunstancia o referente a las causas de suspensión de clases en los diferentes niveles educativos y a través de sus cuentas de redes sociales.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+X. La agenda de trabajo de su titular y de los titulares de sus dependencias y de los organismos públicos descentralizados;
+
+XI. La información que sea de utilidad o relevante para el conocimiento y evaluación de las funciones y políticas públicas, responsabilidad de cada dependencia y entidad pública.
 
 ###### Artículo 21.
 
 Además de lo señalado en el artículo 19, el Poder Legislativo del Estado, deberá publicar la siguiente información:
 
-l. Los nombres y currículum de los Diputados electos, incluyendo los suplentes;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+I. Los nombres, fotografía y currículum de los Diputados electos, incluyendo los suplentes así como, en su caso, las comisiones o comités a los que pertenecen y las funciones que realicen en los órganos legislativos;
 
 II. La agenda legislativa;
 
@@ -347,13 +567,27 @@ V. Las leyes, decretos y acuerdos aprobados por el Congreso o la Diputación Per
 
 VI. El Diario de Debates y la Gaceta Parlamentaria;
 
-VII. Los montos de las partidas presupuestales asignadas a los Grupos Parlamentarios, las Comisiones o Comités, la Mesa Directiva, la Junta de Gobierno, y los demás órganos del Congreso;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+VII. Los montos de, las dietas, las partidas presupuestales asignadas a los Grupos Parlamentarios, las Comisiones o Comités, la Mesa Directiva, la Junta de Gobierno, y los demás órganos del Congreso;
 
 VIII. Las convocatorias, actas, acuerdos y listas de asistencia de cada una de las comisiones o comités así como del Pleno;
 
-IX. A través de la Auditoría Superior del Estado, los informes de resultados y en su caso, los dictámenes de las cuentas públicas, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-X. Los demás informes que deban presentarse conforme a su ley orgánica.
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+IX. A través de la Auditoría Superior del Estado, los informes de resultados y en su caso, los dictámenes de las cuentas públicas;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+X. La dirección donde se encuentre ubicado el módulo de orientación y, en su caso, las oficinas de gestión de cada uno de los Diputados, así como el tipo y número de gestiones que realicen, y
+
+XI. Los demás informes que deban presentarse conforme a su ley orgánica.
 
 ###### Artículo 22.
 
@@ -373,7 +607,11 @@ VI. Los principales indicadores sobre la actividad jurisdiccional que deberán i
 
 VII. Las listas de acuerdos de todos los órganos jurisdiccionales, las sentencias relevantes con los respectivos votos particulares si los hubiere, en los casos de los Tribunales Colegiados y la jurisprudencia sentada por los órganos competentes para establecerla;
 
-VIII. Las convocatorias a concursos para ocupar cargos jurisdiccionales y los resultados de los mismos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+VIII. Los programas y cursos del Consejo de la Judicatura, las convocatorias a concursos para ocupar cargos jurisdiccionales y los resultados de los mismos;
 
 IX. Los procedimientos de justicia constitucional local;
 
@@ -381,9 +619,19 @@ X. En el caso del Tribunal Electoral del Poder Judicial del Estado, las sentenci
 
 XI. Las resoluciones dictadas por el Consejo de la Judicatura del Poder Judicial del Estado y las sanciones disciplinarias impuestas a los integrantes de este Poder, en su caso;
 
-XII. Las tesis aisladas y jurisprudenciales publicadas en el Boletín de Información Judicial o en el Periódico Oficial del Gobierno del Estado, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XIII. Cualquier otra información que se considere relevante a juicio del Pleno del Tribunal Superior de Justicia o del Consejo de la Judicatura del Poder Judicial del Estado.
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+XII. Las tesis aisladas y jurisprudenciales publicadas en el Boletín de Información Judicial o en el Periódico Oficial del Gobierno del Estado;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+XIII. La lista de Peritos en los términos de la Ley Orgánica del Poder Judicial del Estado, y
+
+XIV. Cualquier otra información que se considere relevante a juicio del Pleno del Tribunal Superior de Justicia o del Consejo de la Judicatura del Poder Judicial del Estado.
 
 ###### Artículo 23.
 
@@ -395,7 +643,11 @@ II. Las cantidades recibidas por concepto de multas, así como en su caso, el us
 
 III. Las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones, que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria;
 
-IV. Los indicadores oficiales de los servicios públicos que presten;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+IV. Los indicadores de gestión de los servicios públicos que presten;
 
 V. El contenido de la Gaceta Municipal, en su caso;
 
@@ -409,13 +661,31 @@ IX. Los empréstitos, deudas contraídas, así como la enajenación de bienes;
 
 X. Respecto al ejercicio del presupuesto: un reporte cuatrimestral sobre la ejecución de las aportaciones federales y estatales, pudiendo identificar el programa para el cual se destinaron y, en su caso, el monto del gasto asignado por el propio municipio;
 
-XI. Los controles de asistencia de los integrantes del Ayuntamiento a las sesiones de ese cabildo, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XII. Las iniciativas de ley, decretos, reglamentos o disposiciones de carácter general o particular en materia municipal.
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+XI. Los controles de asistencia de los integrantes del Ayuntamiento a las sesiones de ese cabildo;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+XII. Las iniciativas de ley, decretos, reglamentos o disposiciones de carácter general o particular en materia municipal, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+XIII. Los usos de suelo a través de mapas y planos georeferenciados que permitan conocer de manera rápida y sencilla el tipo de uso de suelo con que cuenta cada predio.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 24.
 
-Los Municipios de menos de 70 mil habitantes podrán solicitar al Instituto que de manera subsidiaria divulgue vía electrónica la información pública mínima que señala este capítulo. Para ello, el Congreso del Estado deberá hacer las previsiones presupuestales que se requieran para la integración y publicación en línea de la información obligatoria en medios electrónicos.
+Todos los Municipios podrán solicitar al Instituto que de manera subsidiaria divulgue vía electrónica la información pública mínima que señala este capítulo. Para ello, el Congreso del Estado deberá hacer las previsiones presupuestales que se requieran para la integración y publicación en línea de la información obligatoria en medios electrónicos.
 
 ###### Artículo 25.
 
@@ -453,11 +723,31 @@ I. Las recomendaciones enviadas, y su destinatario;
 
 II. Los medios de impugnación derivados de las recomendaciones enviadas, y
 
-III. Las estadísticas sobre las denuncias o quejas presentadas que permitan identificar el género de la víctima, su ubicación geográfica, edad y el tipo de violación.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+III. Las estadísticas sobre las denuncias o quejas presentadas que permitan identificar el género de la víctima, su ubicación geográfica, edad y el tipo de violación; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+IV. Los recursos de queja e impugnación concluidos, así como el concepto por el cual llegaron a ese estado
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+La Comisión deberá en todo momento cuidar estrictamente por no revelar, información confidencial o reservada contenida dentro de las obligaciones anteriores.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 27.
 
-Además de lo señalado en el artículo 19, las universidades públicas deberán publicar la siguiente información:
+Además de lo señalado en el artículo 19, las universidades públicas e instituciones de educación superior pública, deberán publicar la siguiente información:
 
 l. Los planes y programas de estudio según el sistema que ofrecen, ya sea escolarizado o abierto, con las áreas de conocimiento, el perfil profesional requerido para cursar el plan de estudios, la duración del programa con las asignaturas por semestre, su valor en créditos y una descripción sintética para cada una de ellas;
 
@@ -469,6 +759,24 @@ IV. Los indicadores de resultados en las evaluaciones al desempeño de la planta
 
 V. La remuneración de los profesores, incluyendo los estímulos al desempeño, nivel y monto.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+VI. El número de estudiantes que egresan por ciclo escolar, por escuela o facultad,
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+VII. El calendario del ciclo escolar, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+VII (SIC). Nombre de estudiantes admitidos por evaluaciones o certámenes. En su caso nombres de estudiantes admitidos por otra forma y los motivos.
+
 ###### Artículo 28.
 
 Además de lo señalado en el artículo 19, el Instituto deberá hacer pública la siguiente información:
@@ -477,7 +785,11 @@ l. El resultado de los recursos de revisión interpuestos y las versiones públi
 
 II. Los estudios que apoyan la resolución de los recursos de revisión;
 
-III. En su caso, los amparos que existan en contra de sus resoluciones;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+III. En su caso, los amparos, controversias constitucionales y acciones de inconstitucionalidad que existan en contra de sus resoluciones;
 
 IV. Las estadísticas sobre las solicitudes de información. En ellas, se deberá identificar: el sujeto obligado que la recibió, el perfil del solicitante, el tipo de respuesta, y la temática de las solicitudes;
 
@@ -515,6 +827,22 @@ X. El listado de las fundaciones, centros o institutos de investigación o capac
 
 XI. Las demás que señalen las disposiciones en materia electoral.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+Artículo 29 bis.- Además de lo señalado en el artículo 19, los fideicomisos y fondos públicos, deberán hacer público lo siguiente:
+
+I. Nombre del servidor público y de la persona física o moral que represente al Fideicomitente, al Fiduciario y al Fideicomisario;
+
+II. Sector de la Administración Pública al cual pertenecen;
+
+III. El monto total, el uso y destino de los subsidios, donaciones, transferencias, aportaciones o subvenciones que reciban;
+
+IV. Monto total de remanentes de un ejercicio fiscal a otro, y
+
+V. Las modificaciones que en su caso sufran los contratos o decretos de creación del fideicomiso o del fondo público.
+
 ### CAPÍTULO CUARTO. LA INFORMACIÓN RESERVADA
 
 #### SECCIÓN PRIMERA. CLASIFICACIÓN DE LA INFORMACIÓN RESERVADA
@@ -551,7 +879,11 @@ VI. La que contengan las opiniones, recomendaciones o puntos de vista que formen
 
 VII. Cuando se trate de información sobre estudios y proyectos cuya divulgación pueda causar daños al interés del Estado o suponga un riesgo para su realización, y
 
-VIII. La que por disposición expresa de una ley sea considerada como confidencial o reservada.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+VIII. La que por disposición expresa de una ley sea considerada como reservada.
 
 ###### Artículo 31.
 
@@ -713,7 +1045,7 @@ X. Tratamiento de datos personales: Cualquier operación o conjunto de operacion
 
 #### SECCIÓN SEGUNDA. EL TRATAMIENTO DE LOS DATOS PERSONALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2009)</small>
 
 ###### Artículo 49.
 
@@ -1133,9 +1465,13 @@ Cuando la solicitud presentada no fuese precisa o clara en cuanto a la informaci
 
 Admitida la solicitud de información por el sujeto obligado, la Unidad de Atención gestionará al interior la entrega de la información y la turnará a las unidades administrativas que correspondan.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 107.
 
-Cuando la información solicitada no se encuentre en los archivos de la unidad administrativa a la que se turnó la solicitud, ésta deberá remitir a la Unidad de Atención la solicitud de acceso a la información y un documento donde se exponga la inexistencia de la misma. La Unidad de Atención analizará el caso y tomará las medidas pertinentes para localizarla. En caso de no encontrarla, emitirá una respuesta que confirme su inexistencia en los términos de la presente ley.
+Cuando la información solicitada no se encuentre en los archivos de la unidad administrativa a la que se turnó la solicitud, ésta deberá remitir a la Unidad de Atención la solicitud de acceso a la información y un documento donde se exponga la inexistencia de la misma. La Unidad de Atención analizará el caso y tomará las medidas pertinentes para localizarla. En caso de no encontrarla, emitirá una respuesta que confirme su inexistencia en los términos de la presente ley, haciéndolo del conocimiento del órgano de control interno.
 
 ###### Artículo 108.
 
@@ -1385,6 +1721,24 @@ Las actuaciones y resoluciones del Instituto se notificarán, en el domicilio qu
 
 Los sujetos obligados, en su caso, deberán informar al Instituto del cumplimiento de sus resoluciones, en un plazo no mayor a diez días a partir de que sean cumplimentadas.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+En caso de incumplimiento de la resolución, el Instituto conminará para que se cumpla en un plazo no mayor a 5 días, apercibido que de no hacerlo se iniciará procedimiento a fin de determinar si existe una causa de responsabilidad establecida en el artículo 141 de ésta ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+En caso de reincidencia de un servidor público por la omisión total en la entrega de información el Instituto podrá recomendar al superior jerárquico del sujeto obligado su remoción del cargo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+El Instituto podrá hacer del conocimiento público los servidores públicos sancionados, siempre y cuando la determinación haya quedado firme.
+
 ###### Artículo 137.
 
 Cuando el Instituto determine en una resolución derivada de la interposición de un recurso de revisión, que algún servidor público pudo haber incurrido en responsabilidad por violaciones a esta ley, deberá hacerlo del conocimiento del órgano interno de control de los sujetos obligados, para que éste inicie, en su caso, el procedimiento de responsabilidad correspondiente conforme a lo previsto en esta ley, la ley de la materia y demás disposiciones aplicables.
@@ -1399,15 +1753,25 @@ Las resoluciones del Instituto serán definitivas e inimpugnables para los sujet
 
 De igual forma las resoluciones serán públicas, salvo cuando contengan información clasificada como reservada o que sea confidencial, en cuyo caso se elaborarán versiones públicas.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 140.
 
-A fin de que la tramitación del recurso sea expedita, el Instituto contará con las siguientes medidas de apremio:
+Por el incumplimiento a las resoluciones del recurso de revisión el Instituto contará con las siguientes medidas de apremio:
 
-l. Apercibimiento;
+I. Apercibimiento;
 
-II. Amonestación privada, y
+II. Amonestación privada;
 
-III. Amonestación pública.
+III. Amonestación pública, y
+
+IV. Multa de 10 a 1000 veces el salario mínimo general vigente en el Estado de Coahuila de Zaragoza.
+
+Las multas se harán efectivas por conducto de la Secretaría de Finanzas del Gobierno del Estado y el monto recaudado se destinará a un fondo para el mejoramiento de la cultura de la transparencia y el acceso a la información pública.
+
+Si la falta de cumplimiento llegare a implicar la comisión de un delito, se denunciarán los hechos a la autoridad competente.
 
 CAPÍTULO DECIMOPRIMERO
 
@@ -1445,7 +1809,17 @@ XII. No cesar en el uso ilícito de los tratamientos de datos personales cuando 
 
 XIII. No acatar por dolo o negligencia las resoluciones emitidas por el Instituto.
 
-Cuando el Instituto determine la posible existencia de que algún servidor público ha incurrido en responsabilidad por violaciones a esta ley, deberá hacerlo del conocimiento del órgano interno de control de los sujetos obligados, para que éste inicie, en su caso, el procedimiento de responsabilidad correspondiente y emita la resolución correspondiente en un plazo no mayor de 120 días naturales, conforme a lo previsto en esta ley, la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza y demás disposiciones aplicables.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+XIV. Omitir el cumplimiento de los acuerdos dictados durante la substanciación del procedimiento del recurso de revisión.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+Las quejas y denuncias en contra de servidores públicos con motivo del incumplimiento de esta ley será causa del inicio del procedimiento para determinar la existencia de responsabilidad administrativa señalada en el artículo 136 de la presente ley.
 
 #### SECCIÓN SEGUNDA. APLICACIÓN DE SANCIONES
 
@@ -1479,9 +1853,15 @@ V. La reincidencia en el incumplimiento de las obligaciones en materia de inform
 
 Las responsabilidades administrativas que se generen por el incumplimiento de las obligaciones a que se refiere el artículo 141 de esta ley, son independientes de las del orden civil o penal que procedan.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 147.
 
-El Instituto denunciará ante las autoridades competentes cualquier conducta prevista en el artículo 141 de esta ley y aportar las pruebas que considere pertinentes.
+El Instituto dará vista o denunciará ante las autoridades competentes, cuando se advierta de una posible conducta prevista en el artículo 141 y aportará las pruebas que considere pertinentes.
+
+En el caso de dirigentes o funcionarios de partidos políticos y agrupaciones políticas, el Instituto dará vista a la autoridad electoral en el estado, para que determine lo que en derecho corresponda.
 
 ###### Artículo 148.
 
@@ -1561,10 +1941,18 @@ ING. ISMAEL E. RAMOS FLORES
 
 (RÚBRICA)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 26 DE JUNIO DE 2009.
 
 PRIMERO. El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 14 DE SEPTIEMBRE DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor a los ciento ochenta días siguientes de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Las obligaciones previstas en la fracción XXII del artículo 19, en la fracción XIII del artículo 23, 24, en el artículo 29 bis, entrarán en vigor dentro de los trescientos sesenta y cinco días naturales posteriores a la publicación del presente decreto.
+
+TERCERO.- Se derogan las disposiciones que se opongan al presente decreto.
