@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-interior-de-la-consejeria-juridica-del-poder-80719"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-03-30"
-last_updated: "2011-04-04"
+last_updated: "2012-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80719&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "ROO"
 ---
 # REGLAMENTO INTERIOR DE LA CONSEJERIA JURIDICA DEL PODER EJECUTIVO DEL ESTADO DE QUINTANA ROO
 
-REGLAMENTO INTERIOR DE LA CONSEJERIA JURIDICA DEL PODER EJECUTIVO DEL ESTADO DE QUINTANA ROO
+REGLAMENTO INTERIOR DE LA CONSEJERÍA JURÍDICA DEL PODER EJECUTIVO DEL ESTADO DE QUINTANA ROO
 
-> <small>N. DE E. ESTE ORDENAMIENTO ES UNA REIMPRESION DEL PERIODICO OFICIAL DE FECHA 30 DE MARZO DE 2011.</small>
+> <small>N. DE E. ESTE ORDENAMIENTO ES UNA REIMPRESIÓN DEL PERIÓDICO OFICIAL DE FECHA 30 DE MARZO DE 2011.</small>
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el miércoles 30 de marzo de 2011.
 
@@ -73,19 +73,27 @@ Los servidores públicos que laboren en la Consejería Jurídica estarán obliga
 
 ### CAPÍTULO II. DE LA COMPETENCIA Y ORGANIZACIÓN
 
-###### ARTÍCULO 6.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
 
-Al frente de la Consejería Jurídica habrá un Titular que se denominará Consejero Jurídico del Poder Ejecutivo del Estado, quien para el despacho, estudio, planeación y desahogo de los asuntos de su competencia, contará con las siguientes Unidades Administrativas:
+###### ARTICULO 6.
 
-I. Despacho del Consejero Jurídico;
+Al frente de la Consejería Jurídica habrá un titular que se denomina Consejero Jurídico del Poder Ejecutivo, quien para el despacho estudio y planeación y desahogo de los asuntos de su competencia, contara con las siguientes unidades administrativas:
 
-II. Dirección General de Enlace Institucional;
+I. Despacho del Consejero Jurídico del Poder Ejecutivo.
 
-III. Dirección de Consultoría en Asuntos Jurídicos; y
+II. Director General de Enlace Institucional.
 
-IV. Dirección de Asuntos Contenciosos;
+III. Director de Consultoría en Asuntos Jurídicos
 
-Asimismo, la Consejería Jurídica, contará con las jefaturas de departamento, jefatura de oficina y demás personal técnico y administrativo necesario para el cumplimiento de sus funciones, conforme a la estructura aprobada por el Consejero Jurídico y con base al presupuesto de egresos autorizado.
+IV. Dirección de Asuntos Contenciosos.
+
+V. Director de Administración.
+
+VI. Director de Informática.
+
+VII. Director de Control de Gestión.
+
+Así mismo la Consejería Jurídica contará con las jefaturas de departamento, jefatura de oficina y demás personal técnico y administrativo necesario para el cumplimiento de sus funciones conforme a la estructura aprobada por el Consejero Jurídico y en base al presupuesto de egresos autorizado
 
 ###### ARTÍCULO 7.
 
@@ -295,6 +303,128 @@ VII. Fungir como Secretario Ejecutivo de la Comisión de Estudios Jurídicos de 
 
 VIII. Las demás que le confieran las disposiciones legales y reglamentarias aplicables, y las que le sean asignadas por el Consejero Jurídico.
 
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+ARTÍCULO 13 BIS. El Director de Administración tendrá las siguientes atribuciones:
+
+I. Coadyuvar a la elaboración del anteproyecto de presupuesto anual de la de la (sic) Consejería Jurídica del Poder Ejecutivo;
+
+II. Coadyuvar a la elaboración del programa operativo anual;
+
+III. Administrar las relaciones de la Consejería Jurídica del Poder Ejecutivo con su personal;
+
+IV. Coadyuvar al establecimiento y administración de convenios para la prestación de servicio social;
+
+V. Llevar el control de inventarios, altas y bajas del activo de la Consejería Jurídica del Poder Ejecutivo;
+
+VI. Elaborar programa de mantenimiento al equipo administrativo;
+
+VII. Establecer el sistema de archivo y resguardo documental;
+
+VIII. Llevar el control presupuestal y administrar las partidas correspondientes; y
+
+IX. Las demás que le confieran las disposiciones legales aplicables o le asigne el Consejero Jurídico del Poder Ejecutivo.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+ARTÍCULO 13 TER. El Director de Informática en el respectivo ámbito de su competencia tendrá las siguientes atribuciones:
+
+I. Establecer el proyecto informático, promover su aplicación y evaluación;
+
+II. Coordinar el mantenimiento al sistema y sus equipos;
+
+III. Apoyar a los usuarios internos, a través del soporte técnico necesario para asegurar la eficacia del modelo informático;
+
+IV. Diseñar ligas con dependencia externas a la Consejería Jurídica del Poder Ejecutivo como parte integrales (sic) del sistema;
+
+V. Procurar el crecimiento virtual del sistema a través de accesos y ligas con otros sistemas de información;
+
+VI. Diseñar y actualizar los medios de consulta electrónicos con los que cuente la Consejería Jurídica del Poder Ejecutivo;
+
+VII. Crear y configurar la base de datos de la red informática para su consulta y retroalimentación;
+
+VIII. Digitalizar documentación para conformar bases de datos electrónicas para consulta en red;
+
+IX. Implementar el uso de las herramientas computacionales y diseñar paqueterías operacionales de acuerdo a las necesidades de las diversas Direcciones de la Consejería Jurídica del Poder Ejecutivo;
+
+X. Monitorear y dar seguimiento al uso de los recursos informáticos de cada una de las Direcciones de la Consejería Jurídica del Poder Ejecutivo;
+
+XI. Proponer capacitación específica conforme a las necesidades de cada Dirección de la Consejería Jurídica del Poder Ejecutivo;
+
+XII. Coadyuvar al diseño de programas de capacitación y formación, sobre la operación del modelo informático de la Consejería Jurídica del Poder Ejecutivo;
+
+XIII. Diseñar y administrar el sistema de rutas críticas por proyectos;
+
+XIV. Organizar y asignar el trabajo, así como su coordinación y seguimiento;
+
+XV. Proponer al Consejero Jurídico del Poder Ejecutivo, la suscripción de convenios conforme a los proyectos que le competan, así como aquellos que procuren el fortalecimiento de la Consejería Jurídica del Poder Ejecutivo, promoviendo y coadyuvando en la elaboración, revisión y seguimiento de los mismos;
+
+XVI. Proponer el desarrollo de cursos de capacitación conforme a los proyectos a su cargo para fortalecer los recursos que integran su dirección;
+
+XVII. Elaborar las propuestas de mejora para el fortalecimiento de la Dirección a su cargo;
+
+XVIII. Participar de la evaluación del desempeño del personal a su cargo, así como procurar que éste cumpla con el mismo;
+
+XIX. Coadyuvar en la elaboración de instrumentos de difusión;
+
+XX. Desempeñar las comisiones y representaciones que se le confieran; y (sic)
+
+XXI. Planear, programar, organizar, dirigir, controlar y evaluar el desempeño de sus labores, encomendadas por el Consejero Jurídico del Poder Ejecutivo;
+
+XXII. Proponer a la superioridad la resolución e (sic) los asuntos de su competencia;
+
+XXIII. Establecer, administrar y monitorear la seguridad e integridad de la información y demás recursos informáticos;
+
+XXIV. Planear el crecimiento informático a la vanguardia de los adelantos computacionales y de información electrónica: y
+
+XXV. Las demás que le confieran las disposiciones legales aplicables o le asigne el Consejero Jurídico del Poder Ejecutivo.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+ARTÍCULO 13 QUÁRTER (SIC).- El Director de Control de Gestión en el respectivo ámbito de su competencia tendrá las siguientes atribuciones:
+
+I. Coordinar el envío de los Decretos, Acuerdos, Iniciativas de Ley y otros documentos jurídicos, para aprobación y firma del Ejecutivo del Estado;
+
+II. Verificar que los documentos firmados por el Ejecutivo del Estado, cumplan los requisitos (firma, ejemplares, anexos) de trámite para remitirlo a las dependencias correspondientes;
+
+III. Supervisar el archivo de trámite de la Consejería Jurídica del Poder Ejecutivo, identificando los antecedentes y su trámite final;
+
+IV. Otorgar el apoyo administrativo a las diferentes áreas de la Consejería Jurídica del Poder Ejecutivo, con el propósito de que las funciones sustantivas no sufran retraso en su trámite;
+
+V. Resguardar leyes, reglamentos, códigos y libros adscritos a la Consejería Jurídica del Poder Ejecutivo;
+
+VI. Realizar programas de difusión permanente de normas, políticas y procesos;
+
+VII. Diseñar y elaborar los manuales, guías y material didáctico pare programas de capacitación;
+
+VIII. Coordinar la logística de los eventos y cursos que se desarrollen;
+
+IX. Diseñar estrategias para la captación y atención de quejas y sugerencias;
+
+X. Coadyuvar al diseño de indicadores de evaluación y seguimiento, para cada uno de los proyectos del sistema;
+
+XI. Elaborar instrumentos de evaluación y seguimiento, por cada proyecto;
+
+XII. Coadyuvar a la administración del sistema de información;
+
+XIII. Evaluar y dar seguimiento a los informes periódicos sobre avance de los programas por proyecto;
+
+XIV. Reportar resultados de la evaluación, detectar desviaciones y proponer acciones remediables;
+
+XV. Difundir la cultura de evaluación;
+
+XVI. Diseñar y aplicar el modelo de atención y control de quejas, denuncias y sugerencias;
+
+XVII. Dar seguimiento a las soluciones generadas;
+
+XVIII. Diseñar el modelo de registro y control de documentos y firmas;
+
+XIX. Disertar estrategias para fortalecer la cultura organizacional;
+
+XX. Definir elementos de identidad institucional y promover su registro;
+
+XXI. Las demás que le confieran las disposiciones legales aplicables o le asigne el Consejero Jurídico del Poder Ejecutivo.
+
 ### CAPÍTULO VI. DE LA SUPLENCIA DE LOS SERVIDORES PÚBLICOS DE LA CONSEJERÍA JURÍDICA DEL PODER EJECUTIVO DEL ESTADO
 
 ###### ARTÍCULO 14.
@@ -344,3 +474,11 @@ LIC. EDUARDO OVANDO MARTÍNEZ.
 EL CONSEJERO JURÍDICO DEL PODER EJECUTIVO DEL ESTADO.
 
 LIC. DANIEL MONTIEL MORA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE SEPTIEMBRE DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente acuerdo entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
