@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-interior-de-la-secretaria-de-planeacion-y-41486"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-20"
-last_updated: "2010-12-22"
+last_updated: "2012-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41486&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE PLANEACION Y FINANZAS
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE PLANEACION Y FINANZAS DEL ESTADO DE QUERETARO
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE PLANEACIÓN Y FINANZAS DEL ESTADO DE QUERÉTARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el miércoles 20 de octubre de 2004.
 
@@ -47,11 +47,11 @@ Para el adecuado cumplimiento de las funciones de la Secretaría de Planeación 
 
 ## TÍTULO II. DE LA INTEGRACIÓN DE LA SECRETARÍA DE PLANEACIÓN Y FINANZAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 4.
 
-Para el ejercicio de sus funciones, atribuciones y facultades, y el despacho de los asuntos de su competencia, la Secretaría de Planeación y Finanzas, contará con una Coordinación General de Desarrollo Social, una Secretaría Particular, una Secretaría Técnica y el personal que resulte necesario para el debido cumplimiento de su encomienda, así como con las siguientes unidades administrativas:
+Para el ejercicio de sus funciones, atribuciones y facultades, y el despacho de los asuntos de su competencia, la Secretaría de Planeación y Finanzas, contará con una Coordinación General de Desarrollo Social, una Secretaría Particular, una Secretaría Técnica, una Unidad de Inteligencia Patrimonial y Económica y el personal que resulte necesario para el debido cumplimiento de su encomienda, así como con las siguientes unidades administrativas:
 
 I. Dirección de Tesorería.
 
@@ -128,6 +128,46 @@ VIII. Solicitar, por instrucción del Secretario, a las dependencias ejecutoras 
 IX. Las demás que le señale expresamente el Secretario.
 
 Para el mejor desempeño de sus funciones, el Coordinador General de Desarrollo Social podrá nombrar a un Secretario Técnico, además del apoyo que le brinde el Comité de Planeación para el Desarrollo del Estado de Querétaro, a través de su Coordinador Operativo.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+ARTÍCULO 4 TER.- Al frente de la Unidad de Inteligencia Patrimonial y Económica habrá un titular, quien será nombrado por el Secretario de Planeación y Finanzas, tendrá a su cargo el ejercicio de las siguientes facultades:
+
+I. Recibir, recopilar, generar, analizar y consolidar información fiscal, económica, patrimonial, civil, así como de cualquier otra índole, relacionada con conductas que pudieran estar vinculadas con la comisión de delitos en materia de operaciones con recursos de procedencia ilícita, trata de personas, delincuencia organizada y enriquecimiento ilícito, dentro del territorio del Estado de Querétaro, con el propósito de ejercer sus facultades legales.
+
+II. Emitir lineamientos para agrupar y jerarquizar, por niveles de riesgo, la información que obtenga con motivo del ejercicio de sus facultades.
+
+III. Requerir a las dependencias, órganos desconcentrados, unidades administrativas y entidades paraestatales de la Administración Pública Estatal, que proporcionen la información y documentación necesaria para el ejercicio de sus facultades, en los plazos y términos que la propia Unidad establezca.
+
+IV. Solicitar a las autoridades competentes la realización de auditorías, en los casos de sospecha de la comisión de delitos en materia de operaciones con recursos de procedencia ilícita, trata de personas, delincuencia organizada y enriquecimiento ilícito.
+
+V. Proporcionar a las autoridades competentes la información fiscal, económica, patrimonial, civil y de cualquier otra índole, relacionada con conductas que pudieran estar vinculadas con la comisión de delitos en materia de operaciones con recursos de procedencia ilícita, trata de personas, delincuencia organizada y enriquecimiento ilícito, que obtenga con motivo del ejercicio de su funciones, para la investigación, persecución de las mismas y, en su caso, el inicio de los procesos penales que correspondan.
+
+VI. Coadyuvar con las autoridades competentes, en los procesos penales relativos a las conductas mencionadas en la fracción anterior.
+
+VII. Coordinarse con las autoridades fiscales para la práctica de los actos de fiscalización que resulten necesarios con motivo del ejercicio de las facultades conferidas conforme al presente artículo.
+
+VIII. Dar seguimiento, en el ámbito de su competencia, a las investigaciones y procesos originados por el ejercicio de sus facultades.
+
+IX. Fungir como enlace de la Secretaría de Planeación y Finanzas, con otras autoridades en los asuntos de su competencia.
+
+X. Proponer la celebración de los convenios que resulten necesarios para el ejercicio de sus funciones.
+
+XI. Participar en coordinación con las autoridades competentes, en el estudio y elaboración de anteproyectos dé iniciativas de ley o de otras disposiciones jurídicas relativas a las conductas y delitos mencionados en la fracción I de este artículo.
+
+XII. Informar a la Procuraduría Fiscal de la Secretaria de Planeación y Finanzas de los hechos que conozca con motivos de sus funciones, que pudieran constituir delitos fiscales.
+
+XIII. Informar a la Secretaría de Hacienda y Crédito Público sobre la comisión de infracciones o delitos fiscales de que tenga conocimiento en materia de contribuciones coordinadas con la federación.
+
+XIV. Promover, ante la autoridad competente, la adjudicación a favor del Poder Ejecutivo del Estado, en los términos que establecen las disposiciones legales aplicables en los supuestos de decomiso o abandono de los bienes objeto o producto del delito.
+
+XV. Proponer el desarrollo de sistemas de información necesarios para el desarrollo de sus funciones.
+
+XVI. Realizar consultas a expertos, instituciones académicas y de investigación, relacionadas con el ámbito de su competencia.
+
+XVII. Participar en el ámbito de su competencia, en la formulación, vigilancia y cumplimiento de los convenios y acuerdos de coordinación con las autoridades correspondientes.
+
+XVIII. Las demás que le encomiende el Secretario o que le establezcan otras disposiciones legales o reglamentarias.
 
 ## TÍTULO III. DE LAS FACULTADES DEL SECRETARIO DE PLANEACIÓN Y FINANZAS
 
@@ -1815,10 +1855,16 @@ Secretario de Planeación y Finanzas
 
 Rúbrica
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 22 DE DICIEMBRE DE 2010.
 
 Primero. El presente Decreto de reforma y adición al Reglamento, entrará en vigor el día siguiente de su publicación en el periódico oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente.
+
+P.O. 14 DE SEPTIEMBRE DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
