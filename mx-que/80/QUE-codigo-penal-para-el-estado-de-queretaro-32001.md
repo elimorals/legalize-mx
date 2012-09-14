@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "2012-07-13"
+last_updated: "2012-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "QUE"
 
 CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2012.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 13 DE JULIO DE 2012 NO APLICA AL ARTICULADO DE LA LEY QUE REFORMA LOS ARTÍCULOS 129, 130, 135, 137, 148, 149 BIS, 150, 155, 156, 158, 167 BIS, 191, 193, 197, 198, 200, 202, 212, 217 BIS Y 217 SEXIES Y LA DENOMINACIÓN DEL CAPÍTULO II, DEL TÍTULO ÚNICO, SECCIÓN SEGUNDA, PARTE ESPECIAL DEL LIBRO SEGUNDO Y SE ADICIONA EL ARTÍCULO 212 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO, PUBLICADA EN EL P.O. DE 8 DE JUNIO DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987
 
@@ -2599,7 +2597,7 @@ En tratándose de cónyuges, concubinos, ascendientes y descendientes, hermanos,
 
 > <small>(ADICIONADO, P.O. 15 DE JULIO DE 2011)</small>
 
-Artículo 238 BIS.- Al que promueva, publicite, invite, facilite o gestione por cualquier medio a persona o personas a que viajen al interior o exterior del territorio del Estado, con la finalidad de que sostengan actos erótico sexuales con menores de dieciocho años de edad o con personas que no tengan capacidad para comprender el significado del hecho o para que éste o éstos viajen con esa finalidad o financie cualquiera de las actividades antes descritas, se le impondrá una pena de 4 a 8 años de prisión y de 100 a 400 días multa.
+ARTICULO 238 BIS.- Al que promueva, publicite, invite, facilite o gestione por cualquier medio a persona o personas a que viajen al interior o exterior del territorio del Estado, con la finalidad de que sostengan actos erótico sexuales con menores de dieciocho años de edad o con personas que no tengan capacidad para comprender el significado del hecho o para que éste o éstos viajen con esa finalidad o financie cualquiera de las actividades antes descritas, se le impondrá una pena de 4 a 8 años de prisión y de 100 a 400 días multa.
 
 A quien tenga actos erótico sexuales con persona menor de dieciocho años de edad o que no tenga capacidad para comprender el significado del hecho, en virtud de las conductas antes descritas, se le impondrá una pena de 6 a 12 años de prisión y de 200 a 500 días multa.
 
@@ -2609,9 +2607,9 @@ A quien tenga actos erótico sexuales con persona menor de dieciocho años de ed
 
 > <small>(ADICIONADO, P.O. 15 DE JULIO DE 2011)</small>
 
-Artículo 238 TER.- Al que pague con dinero o en especie, a la víctima o a un tercero, para obtener cópula o sostener actos erótico sexuales con una persona menor de dieciocho años de edad o que no tenga capacidad para comprender el significado del hecho, se le impondrá pena de 6 a 12 años de prisión y de 200 a 500 días multa, sin perjuicio de las penas que correspondan por la comisión de otros delitos.
+ARTICULO 238 TER.- Al que pague con dinero o en especie, a la víctima o a un tercero, para obtener cópula o sostener actos erótico sexuales con una persona menor de dieciocho años de edad o que no tenga capacidad para comprender el significado del hecho, se le impondrá pena de 6 a 12 años de prisión y de 200 a 500 días multa, sin perjuicio de las penas que correspondan por la comisión de otros delitos.
 
-> <small>(REFORMADO, P.O. 15 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
 
 ## TITULO TERCERO. DELITOS CONTRA LA FE
 
@@ -2763,7 +2761,7 @@ Al que, sin serlo, se atribuya el carácter de profesionista, ofrezca públicame
 
 ### CAPITULO I. SEDICIÓN
 
-###### Artículo 236.
+###### ARTICULO 236.
 
 Comete el delito de corrupción, el que procure, facilite, induzca, fomente, propicie, promueva o favorezca la corrupción de una persona menor de dieciocho años de edad o que no tengan capacidad para comprender el significado del hecho o capacidad de resistirlo, mediante acciones u omisiones tendientes o que concluyan en la realización de actos sexuales o conductas depravadas. A quien cometa este delito se le aplicará de 2 a 10 años de prisión y de 100 a 350 días multa.
 
@@ -2777,7 +2775,7 @@ Todo sujeto pasivo de este delito, quedará sujeto a los tratamientos médicos y
 
 > <small>(REFORMADO, P.O. 15 DE JULIO DE 2011)</small>
 
-###### Artículo 237.
+###### ARTICULO 237.
 
 Al que emplee a una persona menor de dieciocho años de edad o a quienes no tuvieren capacidad para comprender el significado del hecho, en lugares que por su naturaleza sean nocivos a su formación moral, psicológica, o su óptimo desarrollo físico, se le impondrá prisión de 3 meses a 1 año, sin perjuicio de la aplicación de· las sanciones administrativas a que haya lugar.
 
@@ -2789,7 +2787,7 @@ Las anteriores sanciones se impondrán sin perjuicio del concurso de delitos.
 
 > <small>(ADICIONADO, P.O. 15 DE JULIO DE 2011)</small>
 
-Artículo 237 BIS.- A quien permita el acceso de una persona menor de dieciocho años de edad o que no tenga capacidad para comprender el significado del hecho, a escenas, espectáculos, obras gráficas o audiovisuales de carácter pornográfico, se le impondrá prisión de 1 a 3 años y de 20 a 200 días multa.
+ARTICULO 237 BIS.- A quien permita el acceso de una persona menor de dieciocho años de edad o que no tenga capacidad para comprender el significado del hecho, a escenas, espectáculos, obras gráficas o audiovisuales de carácter pornográfico, se le impondrá prisión de 1 a 3 años y de 20 a 200 días multa.
 
 Las mismas penas se impondrán al que ejecute o haga ejecutar a otra persona actos de exhibición sexual ante personas menores de dieciocho años de edad o que no tengan capacidad para comprender el significado del hecho.
 
@@ -2803,7 +2801,7 @@ No se actualizarán estos delitos tratándose de programas preventivos, educativ
 
 ### CAPITULO II. MOTÍN
 
-###### Artículo 238.
+###### ARTICULO 238.
 
 Comete el delito de pornografía de personas menores de dieciocho años de edad o que no tienen capacidad para comprender el significado del hecho o capacidad para resistirlo:
 
@@ -2825,13 +2823,19 @@ Las anteriores sanciones se impondrán sin perjuicio del concurso de delitos.
 
 ### CAPITULO IV. TERRORISMO
 
-###### Artículo 239.
+###### ARTICULO 239.
 
-Las penas que resulten aplicables por los delitos previstos en los Capítulos I, II, III y IV de este Título, se aumentarán en una tercera parte si concurre alguna de las circunstancias siguientes:
+Las penas que resulten aplicables por los delitos previstos en los Capítulos I, II, III y IV de este Título, se duplicarán si concurre alguna de las circunstancias siguientes:
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2011)</small>
 
 I. Que el sujeto activo se valga de la función pública o privada, la profesión u oficio que desempeña, aprovechándose de los medios o circunstancias que ellos le proporcionan. En el primer caso, además, se le destituirá del empleo, cargo o comisión públicos e inhabilitará para desempeñar otro; si el sujeto activo fuera un profesionista, se le suspenderá del ejercicio de la profesión u oficio, por un tiempo igual al de la pena de prisión impuesta; para el caso de que el sujeto activo realice funciones de servicio público y privadas respecto de alguna profesión, podrá ser destituido del empleo cargo o comisión públicos e inhabilitado para desempeñar otro y se le suspenderá del ejercicio de la profesión u oficio, por un tiempo igual al de la pena de prisión impuesta; o
 
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2011)</small>
+
 II. Que el sujeto activo del delito tenga parentesco por consanguinidad o afinidad hasta el cuarto grado o habite ocasional o permanentemente en el mismo domicilio que la víctima o tenga una relación análoga al parentesco con el sujeto pasivo.
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2011)</small>
 
 Los sujetos activos de los delitos a que se refieren los Capítulos I, II, III y IV de este Título, quedarán inhabilitados para ser tutores o curadores hasta por cinco años y serán privados, en su caso, del ejercicio de la patria potestad sobre la víctima.
 
@@ -3239,7 +3243,7 @@ En ningún caso se devolverán a los responsables del delito de cohecho, el dine
 
 ###### ARTICULO 269.
 
-Comete el delito de concusión el servidor público que con ese carácter y a título de impuesto o contribución, recargo, renta, réditos, salario o emolumentos, exija por sí o por medio de otro, dinero, valores, servicios o cualquier otra cosa que sepa no ser debida o en mayor cantidad que la señalada por la Ley.
+Comete el delito de concusión el servidor público que con ese carácter y a titulo de impuesto o contribución, recargo, renta, réditos, salario o emolumentos, exija por sí o por medio de otro, dinero, valores, servicios o cualquier otra cosa que sepa no ser debida o en mayor cantidad que la señalada por la Ley.
 
 ### CAPITULO IX. USO INDEBIDO DE UNIFORMES OFICIALES Y
 
@@ -3919,7 +3923,7 @@ Esta Ley entrará en vigor al día siguiente al de su publicación en el Periód
 
 ###### ARTICULO SEGUNDO.
 
-Se derogan todas las disposiciones que se opongan a al presente.
+Se derogan todas las disposiciones que se opongan a la presente.
 
 P.O. 2 DE ABRIL DE 1999
 
@@ -3935,7 +3939,7 @@ P.O. 16 DE JULIO DE 1999
 
 ###### ARTICULO UNICO.
 
-La presente Ley entrará en vigor al día siguiente de su publicación en el periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+La presente Ley entrará en vigor al día siguiente de su publicación en el periódico Oficial del Gobierno del Estado "La Sombra de Arteaga"
 
 P.O. 15 DE OCTUBRE DE 1999
 
@@ -4284,3 +4288,9 @@ LEY QUE ADICIONA EL ARTÍCULO 183 QUÁTER AL CÓDIGO PENAL PARA EL ESTADO DE QUE
 Artículo Primero. La presente Ley entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga."
 
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la misma.
+
+P.O. 14 DE SEPTIEMBRE DE 2012.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
