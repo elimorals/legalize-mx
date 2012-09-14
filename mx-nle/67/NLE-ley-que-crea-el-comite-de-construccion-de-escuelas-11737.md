@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-comite-de-construccion-de-escuelas-11737"
 country: "mx"
 rank: "ley"
 publication_date: "1998-04-29"
-last_updated: "2010-12-24"
+last_updated: "2012-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # LEY QUE CREA EL COMITE DE CONSTRUCCION DE ESCUELAS
 
-LEY QUE CREA EL COMITE DE CONSTRUCCION DE ESCUELAS
+LEY QUE CREA EL COMITÉ DE CONSTRUCCIÓN DE ESCUELAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE INFRAESTRUCTURA FÍSICA EDUCATIVA Y DEPORTIVA DE NUEVO LEÓN, PUBLICADA EN EL P.O. DE 14 DE SEPTIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2012 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 29 de abril 1998.
 
@@ -323,8 +325,34 @@ EL C. SECRETARIO DE EDUCACION
 
 LIC. JOSE MARTINEZ GONZALEZ
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 24 DE DICIEMBRE DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE SEPTIEMBRE DE 2012.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 355. POR EL QUE SE EXPIDE LA LEY DE INFRAESTRUCTURA FÍSICA EDUCATIVA Y DEPORTIVA DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- Se abroga la Ley que crea el Comité de Construcción de Escuelas, publicada en el Periódico Oficial del Estado, de fecha 29 de abril de 1998 y sus reformas.
+
+Tercero.- La Junta de Gobierno deberá instalarse dentro de un plazo de 30 días hábiles posteriores a la vigencia del presente Decreto, y ésta deberá expedir dentro de un término de 90 días hábiles siguientes el Reglamento Interior del Instituto.
+
+Cuarto.- Los trabajadores y los servidores públicos del Comité de Construcción de Escuelas, pasarán a formar parte del Instituto Constructor de Infraestructura Física Educativa y Deportiva de Nuevo León, con irrestricto respeto de todos sus derechos laborales en términos de Ley, tanto individual como colectivo.
+
+De igual manera, los bienes muebles e inmuebles y los recursos financieros con los que actualmente cuenta el Comité de Construcción de Escuelas pasarán a formar parte del patrimonio del Instituto Constructor de Infraestructura Física Educativa y Deportiva de Nuevo León, al inicio de la vigencia de este Decreto.
+
+Quinto.- Los montos no ejercidos del presupuesto autorizado para el Comité de Construcción de Escuelas en la Ley de Egresos del Estado de Nuevo León para el ejercicio fiscal del año en curso, al inicio de la vigencia del presente Decreto serán ejercidos por el Instituto Constructor de Infraestructura Física Educativa y Deportiva de Nuevo León.
+
+Sexto.- Para la atención y seguimiento de los asuntos jurisdiccionales o administrativos en trámite o pendientes de resolución definitiva que estén vinculados de cualquier manera con el Comité de Construcción de Escuelas, la representación de éstas será sustituida por el Instituto Constructor de Infraestructura Física Educativa y Deportiva de Nuevo León.
+
+Séptimo.- Las referencias al Comité de Construcción de Escuelas que hagan las leyes y demás disposiciones normativas se entenderán realizadas al Instituto Constructor de Infraestructura Física Educativa y Deportiva de Nuevo León.
+
+Octavo.- Los asuntos en trámite y obligaciones contraídos por el Comité de Construcción de Escuelas en virtud de contratos o convenios con terceros, con la Federación o con las Instituciones y dependencias Estatales y Municipales, serán concluidos y cumplimentados, respectivamente, por el Instituto Constructor de Infraestructura Física Educativa y Deportiva de Nuevo León en los términos pactados.
+
+Noveno.- Para dar cumplimiento a lo dispuesto en el artículo 8° de la presente Ley, las Autoridades en la materia harán un diagnóstico de la cobertura y calidad de la Infraestructura Física Educativa en la Entidad y lo harán llegar a la Junta del Instituto Constructor de Infraestructura Física Educativa y Deportiva de Nuevo León, así como a las autoridades en la materia que lo requieran.
+
+Décimo.- Se derogan todas las demás disposiciones que se opongan al presente Decreto.
