@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-las-personas-con-discapacidad-en-el-estado-de-25456"
 country: "mx"
 rank: "ley"
 publication_date: "2002-07-16"
-last_updated: "2010-12-24"
+last_updated: "2012-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "GUA"
 ---
 # LEY PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE GUANAJUATO -ANTES LEY PARA LAS PERSONAS CON CAPACIDADES DIFERENTES EN EL ESTADO DE GUANAJUATO-
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE OCTUBRE DE 2012 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY PARA LAS PERSONAS CON CAPACIDADES DIFERENTES EN EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE INCLUSIÓN PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE GUANAJUATO, PUBLICADA EN EL P.O. DE 14 DE SEPTIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Guanajuato, el 16 de julio de 2002.
 
@@ -35,7 +39,7 @@ DECRETO NUMERO 121.
 
 LA H. QUINCUAGESIMA OCTAVA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, DECRETA:
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 LEY PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE GUANAJUATO.
 
@@ -109,11 +113,11 @@ III. Contemplar en sus planes y programas acciones a favor de las personas con d
 
 IV. Las demás que les otorgue la presente Ley u otras disposiciones legales aplicables.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ### CAPÍTULO TERCERO. DEL CONSEJO ESTATAL PARA LA ATENCION DE LAS PERSONAS CON DISCAPACIDAD
 
-> <small>(REFORMADO PARRAFO PRIMERO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PÁRRAFO PRIMERO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 6o.
 
@@ -207,7 +211,7 @@ VII.- Establecer un Sistema Estatal de Información que permita la identificaci�
 
 VIII.- Las demás que le encomiende el Consejo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ### CAPÍTULO CUARTO. DEL PROGRAMA ESTATAL PARA LA EQUIPARACION DE OPORTUNIDADES Y ATENCION DE LAS PERSONAS CON DISCAPACIDAD
 
@@ -217,7 +221,7 @@ VIII.- Las demás que le encomiende el Consejo.
 
 En los términos de esta Ley, son prioridades de las administraciones públicas estatal y municipales el desarrollo integral y la inclusión social de los personas con discapacidad, a través de políticas públicas tendientes a la equiparación de oportunidades en el Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 13.
 
@@ -411,10 +415,46 @@ EL SECRETARIO DE GOBIERNO
 
 JUAN MANUEL OLIVA RAMÍREZ.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 24 DE DICIEMBRE DE 2010.
 
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 14 DE SEPTIEMBRE DE 2012.
+
+Inicio de vigencia de la Ley
+
+Artículo Primero. El presente decreto entrará en vigor al cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Abrogación
+
+Artículo Segundo. Se abroga la Ley para las personas con Discapacidad en el Estado de Guanajuato, contenida en el decreto número 121, expedido por la Quincuagésima Octava Legislatura Constitucional del Estado Libre y Soberano de Guanajuato, publicado en el Periódico Oficial del Gobierno del Estado número 84, de fecha 16 de julio de 2002.
+
+Plazo para la constitución del Instituto
+
+Artículo Tercero. El Gobernador del Estado contará con un plazo de 90 días contados a partir de la entrada en vigor del presente Decreto, para constituir el Instituto Guanajuatense para las Personas con Discapacidad.
+
+Asignación de recursos al Instituto
+
+Artículo Cuarto. La Secretaría de Finanzas y Administración definirá y aplicará los procedimientos y mecanismos necesarios para la asignación de recursos al Instituto Guanajuatense para las Personas con Discapacidad, conforme a sus atribuciones.
+
+Los recursos humanos, materiales y financieros del Sistema paro el Desarrollo Integral de la Familia del Estado de Guanajuato que se destinaban a la operación y funcionamiento de la Dirección de Asistencia a Personas con Discapacidad, se reasignarán al Instituto Guanajuatense para las Personas con Discapacidad.
+
+Plazo para la constitución del Consejo Directivo
+
+Artículo Quinto. El Gobernador del Estado contará con un plazo de 90 días contados a partir de la entrada en vigor del presente Decreto, para constituir el Consejo Directivo del Instituto Guanajuatense para las Personas con Discapacidad.
+
+Expedición del reglamento del Consejo Directivo
+
+Artículo Sexto. El Consejo Directivo del Instituto Guanajuatense para las Personas con Discapacidad deberá expedir su reglamento interior dentro de los 60 días siguientes a su constitución.
+
+Plazo para instalar el Consejo Consultivo
+
+Artículo Séptimo. El Director del Instituto contará con un plazo de 90 días contados a partir de su nombramiento para instalar el Consejo Consultivo para la Atención de las Personas, con Discapacidad del Estado de Guanajuato.
+
+Plazo para que los ayuntamientos realicen adecuaciones
+
+Artículo Octavo. Los ayuntamientos contarán con un plazo de 180 días contados a partir de la entrada en vigor del presente Decreto, para adecuar su normatividad, políticas públicas, estrategias, acciones y objetivos, al contenido de la Ley.
