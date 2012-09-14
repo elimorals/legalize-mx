@@ -4,7 +4,7 @@ identifier: "PUE-codigo-civil-para-el-estado-libre-y-soberano-de-puebla-7615"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-04-30"
-last_updated: "2011-08-10"
+last_updated: "2012-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2012.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado, el día 30 de abril de 1985.
 
@@ -503,9 +503,13 @@ Si al registrar a un niño no se sabe quiénes son los padres de él, el nombre 
 
 Ninguna persona está obligada a agregar a su nombre de soltera o soltero, el apellido de su cónyuge o concubino, por lo que si lo hiciere, cualesquiera que fueren los motivos, este hecho no surtirá ningún efecto legal.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 67.
 
-La persona física tiene derecho al uso de su nombre y puede oponerse a que otra persona lo use sin derecho.
+La persona física tiene derecho a usar uno, algunos o todos sus nombres, sin que por ello varíe su identidad y puede, asimismo, oponerse a que otra persona los use sin derecho.
+
+En el caso de que alguien tenga interés en demostrar que tal situación le causa perjuicio, le corresponde probarla.
 
 ###### Artículo 68.
 
@@ -5711,7 +5715,9 @@ Procede la rectificación:
 
 I.- Por falsedad, cuando se alegue que el suceso registrado no acaeció;
 
-II.- Por enmienda, cuando se solicite variar algún nombre u otra circunstancia esencial.
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+II.- Por enmienda, cuando se solicite variar algún nombre u otra circunstancia esencial, así como en el caso en que concurran defectos esenciales y accidentales en el contenido de las actas.
 
 ###### Artículo 932.
 
@@ -5752,6 +5758,16 @@ De resultar procedente la rectificación administrativa, el Director del Registr
 ###### Artículo 937.
 
 Para los efectos del artículo anterior se entiende por errores, yerros o defectos mecanográficos, ortográficos, numéricos y otros meramente accidentales los que se desprendan fehacientemente de la sola lectura del acta correspondiente.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+Enunciativamente son errores meramente accidentales:
+
+I.- La omisión de la anotación de uno o los apellidos del registrado, que aparecen en los nombres de su o sus ascendientes que le presentan al registro, tratándose de actas de nacimiento;
+
+II.- La ambigüedad en la fijación de la fecha o lugar del nacimiento del registrado, en las actas de nacimiento, si se pueden desprender esos datos del resto de los elementos consignados en el documento; y
+
+III.- El error ortográfico en la transcripción de alguno o todos los apellidos siempre que dicho error sea subsanable a partir de la sola lectura de la transcripción de los apellidos de el o los ascendientes.
 
 # LIBRO TERCERO. BIENES
 
@@ -20008,3 +20024,9 @@ El presente Decreto entrará en vigor a los ciento ochenta días hábiles de su 
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE SEPTIEMBRE DE 2012.
+
+PRIMERO.- El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el día hábil siguiente de su publicación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
