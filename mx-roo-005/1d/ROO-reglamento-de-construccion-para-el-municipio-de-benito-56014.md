@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-de-construccion-para-el-municipio-de-benito-56014"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-04-25"
-last_updated: "2012-01-16"
+last_updated: "2012-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56014&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 REGLAMENTO DE CONSTRUCCION PARA EL MUNICIPIO DE BENITO JUAREZ, QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2012.
 
 Reglamento publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 25 de abril de 2007.
 
@@ -41,7 +41,7 @@ Que en razón de lo anterior, en la Cuadragésima Sesión Ordinaria de Cabildo, 
 
 A C U E R D O S
 
-Primero.- Se aprueba en lo particular el Reglamento de Construcción para el Municipio de Benito Juárez del Estado de Quintana Roo; para quedar como sigue:
+Primero.- Se aprueba en lo particular el Reglamento de Construcción para el Municipio de Benito Juárez del Estado de Quintana Roo; para quedar como sigue:.
 
 REGLAMENTO DE CONSTRUCCIÓN PARA EL MUNICIPIO DE BENITO JUÁREZ, QUINTANA ROO.
 
@@ -571,321 +571,67 @@ No se permitirá colocar postes o instalaciones en aceras, cuando con ello se im
 
 ### CAPITULO IV. NOMENCLATURA Y NÚMERO OFICIAL
 
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
 
 ARTÍCULO 25
 
-El Ayuntamiento establecerá la nomenclatura oficial para la denominación de las vías públicas, parques, jardines, plazas, barrios y colonias en el Municipio.
-
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+Conforme a lo establecido en el Reglamento de Nomenclatura de Vías Públicas, Espacios Públicos y Mobiliario Urbano del Municipio de Benito Juárez, el Ayuntamiento establecerá cuando menos la nomenclatura oficial para la denominación de las vías públicas, parques, jarcines (sic), plazas, barrios, co onias (sic), fraccionamientos, supermanzanas o regiones así como los criterios para el establecimiento del mobiliario urbano en e (sic) Municipio.
 
 ###### ARTICULO 25
 
-ARTICULO 25-A
-
-Para los efectos de Nomenclatura en el presente Reglamento se entenderá por:
-
-a) Consejo.- Consejo Consultivo de Nomenclatura del Municipio.
-
-b) Jefatura de Nomenclatura.- Al departamento de Nomenclatura adscrito a la Dirección de Imagen Urbana de la Dirección General de Desarrollo Urbano del Municipio.
-
-c) Familia temática.- Aquel conjunto de nombres que compartan un mismo tema.
-
-d) Nomenclator.- La lista de nombres de calles, vialidades, plazas, espacios públicos, parques, jardines, plazas, barrios y colonias del Municipio.
-
-e) Nomenclatura.- Definición de nombres, colocación de placas y los señalamientos en las calles y vialidades, que permiten su localización y orientación del tránsito ciudadano.
-
-f) Cartografía Básica.- Cartografía Básica de Nomenclatura, que comprende el conjunto de acciones para la elaboración de mapas que contengan la nomenclatura de los espacios públicos del Municipio.
-
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+A (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2012)
 
 ###### ARTÍCULO 25
 
-B
-
-La Cartografía Básica y el Nomenclator serán actualizados cada año mediante su aprobación por el Ayuntamiento y hasta entonces serán oficiales y vigentes para cualquier aclaración, certificación o asignación de nomenclatura que se requiera.
-
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+B (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2012)
 
 ###### ARTÍCULO 25
 
-CULO 25-C
-
-Se crea el Consejo Consultivo de Nomenclatura del Municipio para revisar, evaluar, corregir y proponer la nomenclatura de las calles, vialidades y los espacios públicos del Municipio.
-
-En este Consejo participarán los principales representantes de los sectores sociales y empresariales del Municipio, con el propósito general de promover la regularización de la nomenclatura de calles y señalamientos de las vías públicas en el Municipio.
-
-El Consejo se integrará por los siguientes miembros:
-
-I. Un Presidente, que será el Director General de Desarrollo Urbano;
-
-II. Un Secretario Técnico, que será el Jefe de Departamento de Nomenclatura;
-
-III. El Regidor Presidente de la Comisión de Desarrollo Urbano y Transporte del Ayuntamiento;
-
-IV. El Regidor Presidente de la Comisión de Mejora Regulatoria del Ayuntamiento;
-
-V. Con el carácter de vocales permanentes, fungirán:
-
-a) El Director de Planeación y Desarrollo Económico del Municipio;
-
-b) El Director General de Obras Públicas;
-
-c) El Director General se (sic) Servicios Públicos Municipales;
-
-d) El Director de Catastro;
-
-e) El Coordinador de Delegaciones;
-
-f) El Director del IMPLAN;
-
-VI. Así como los vocales especiales que para tal efecto sean invitados a las sesiones de dicho Consejo, pudiendo tener ese carácter los siguientes:
-
-a) El Delegado del Registro Público de la Propiedad y del Comercio en el Municipio;
-
-b) El Delegado de la Comisión de Agua Potable y Alcantarillado de Benito Juárez, Quintana Roo;
-
-c) Un representante de Teléfonos de México;
-
-d) Un representante del Servicio Postal Mexicano.
-
-Los cargos de los integrantes del Consejo son honoríficos y se podrá invitar a las sesiones del Consejo, de manera específica, a otros titulares de dependencias u organismos, federales, estatales y municipales, regidores, diputados, especialistas, representantes de Universidades, Institutos y demás Colegios de otros profesionistas u otros representantes de los sectores económicos y de la sociedad en general, para que aporten sus experiencias y conocimientos en temas específicos de nomenclatura y señalización.
-
-Los integrantes del Consejo podrán nombrar a sus representantes para asistir a las sesiones del mismo.
-
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+C (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2012)
 
 ###### ARTÍCULO 25
 
-D
-
-El Consejo Consultivo de Nomenclatura tendrá las siguientes funciones:
-
-I. Solicitar a la Jefatura de Nomenclatura la realización de estudios especiales en la materia.
-
-II. Canalizar a la Jefatura de Nomenclatura las propuestas de denominación que haga la ciudadanía, para su evaluación técnica correspondiente.
-
-III. Proponer a la Presidencia Municipal y al Ayuntamiento las correcciones a la nomenclatura existente a fin de que se ejecuten los programas de colocación de placas correspondientes.
-
-IV. En función de los estudios de evaluación y las propuestas de corrección que elabore la Jefatura de Nomenclatura, el Consejo evaluará y recomendará a la Presidencia Municipal o al Ayuntamiento la secuencia de ejecución del Programa Operativo Anual de Colocación de Placas de Nomenclatura.
-
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+D (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2012)
 
 ###### ARTÍCULO 25
 
-E
-
-Son atribuciones del (sic) los miembros del Consejo, las siguientes:
-
-I. Del Presidente:
-
-a) Presidir y conducir las sesiones del Consejo;
-
-a) (sic) Firmar, en forma conjunta con los vocales del Consejo, los acuerdos que se tomen;
-
-b) Vigilar el cumplimiento de este reglamento;
-
-c) Calendarizar, en coordinación con los miembros del Consejo, la fecha y hora en que se celebrarán las reuniones de trabajo;
-
-d) Encomendar al Secretario Técnico la elaboración de estudios o iniciativas legales relacionadas con los casos que sean presentados en el Consejo;
-
-e) Las demás que determinen las disposiciones legales y reglamentarias correspondientes en la materia.
-
-II. Del Secretario Técnico las siguientes:
-
-a) Convocar, a solicitud del Presidente, a los miembros del Consejo de manera oportuna a las sesiones correspondientes;
-
-b) Elaborar la propuesta de orden del día de cada sesión, dando seguimiento a los casos que se presenten y agregar los nuevos temas o asuntos que involucren la participación de los vocales;
-
-c) Levantar las actas de cada sesión del Consejo;
-
-d) Dar seguimiento a los acuerdos y propuestas que surjan en las reuniones ordinarias y extraordinarias del Consejo;
-
-e) Rendir informe por escrito a los miembros del Consejo en cada reunión que se lleve a cabo, sobre los avances y asuntos pendientes relacionados con las atribuciones del Consejo;
-
-f) Difundir las acciones, compromisos y logros obtenidos por el Consejo y sus grupos de trabajo, y
-
-g) Las demás que determinen las disposiciones legales y reglamentarias correspondientes en la materia.
-
-III. De los vocales permanentes del Consejo:
-
-a) Asistir a las reuniones a las que fueran convocados por sí o por un representante debidamente acreditado;
-
-b) Presentar propuestas relacionadas con el objetivo general y las atribuciones del Consejo;
-
-c) Colaborar en la elaboración de los estudios, proyectos e iniciativas cuya elaboración sea acordada en el Consejo;
-
-d) Participar de manera directa o por medio de representante, en las reuniones de los grupos de trabajo que se formen para cumplir con los objetivos del Consejo, y
-
-e) Las demás que determinen las disposiciones legales y reglamentarias correspondientes en la materia.
-
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+E (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2012)
 
 ###### ARTÍCULO 25
 
-F
-
-El Consejo tendrá dos tipos de sesiones: ordinarias y extraordinarias. Las sesiones ordinarias del Consejo se llevarán a cabo bimestralmente y de conformidad con un calendario anual aprobado por el mismo al principio del año.
-
-El Presidente podrá convocar a sesiones extraordinarias cuando la importancia de las acciones de nomenclatura a evaluar así lo requiera.
-
-Los citatorios a las sesiones ordinarias acordadas para el año en curso serán por escrito y con una antelación de ocho días de calendario a la fecha programada. Los citatorios a las sesiones extraordinarias serán también por escrito y con una antelación de quince días calendario de la fecha requerida para este fin.
-
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+F (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2012)
 
 ###### ARTÍCULO 25
 
-G
-
-En las sesiones ordinarias, se requiere de una asistencia mínima de la mitad más uno de los integrantes del Consejo para que haya quórum. En caso de no haberlo, se citará para una nueva fecha que se considerara como sesión extraordinaria. Las sesiones extraordinarias serán validas con la asistencia de la mayoría de sus miembros.
-
-Todos los miembros del Consejo tendrán derecho a voz y voto, excepto los vocales que asistan con el carácter de especiales, y la aprobación de acuerdos de evaluaciones y propuestas del Consejo será por mayoría de votos de sus asistentes. En caso de empate, el Presidente del Consejo tendrá un voto de calidad.
-
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+G (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2012)
 
 ###### ARTÍCULO 25
 
-H
-
-Los acuerdos de las sesiones ordinarias y extraordinarias del Consejo, se enviarán por conducto del Presidente del Consejo a la Comisión de Desarrollo Urbano del Ayuntamiento para que, en su caso, sean sometidas a la consideración del Ayuntamiento en la siguiente sesión ordinaria y en su oportunidad turnadas a las autoridades competentes para su ejecución correspondiente.
-
-La aprobación o modificación de propuestas específicas de nomenclatura en sesiones ordinarias o extraordinarias del Consejo deberán ser efectuadas durante la misma sesión en que se presenten.
-
-Tanto las propuestas de acciones preventivas como correctivas se integrarán a un archivo del Consejo que deberá mantenerse en la Dirección para consultas o aclaraciones posteriores.
-
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+H (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2012)
 
 ###### ARTÍCULO 25
 
-I
-
-La Jefatura de Nomenclatura deberá realizar las evaluaciones, los estudios y diagnósticos de nomenclatura, así como aquellos que en particular le encomiende el Consejo a efecto de presentar las propuestas técnicas de nomenclatura.
-
-Las propuestas técnicas de nomenclatura podrán ser:
-
-I. Preventivas, cuando establezcan criterios de normatividad que permitan un desarrollo armónico de la nomenclatura de la ciudad.
-
-II. Correctivas, cuando definan acciones de modificación a nombres de calles, de espacios públicos y/o colonias necesarios para la regularización de la nomenclatura de la ciudad.
-
-Para el caso de las acciones preventivas será necesario presentar un diagnóstico de la problemática que se desea resolver, así como una descripción de la normatividad propuesta y sus impactos posibles en la nomenclatura general del Municipio.
-
-Para las acciones correctivas será necesario presentar tanto la situación actual específica de nombres de calles, espacios públicos y/o colonias, como el cambio propuesto. La problemática de la situación actual y el impacto del cambio propuesto deberán enmarcarse en el contexto general de la nomenclatura y del avance de su programa de regularización.
-
-Así mismo (sic), será necesario incluir siempre dos planos de ubicación, tamaño carta, escala variable, que presenten la situación actual y la situación deseada a efecto de integrar la Cartografía Básica. De igual manera deberá adjuntarse una breve descripción del diccionario toponímico para ambos casos y las razones de regularización que motivaron esta propuesta.
-
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+I (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2012)
 
 ###### ARTÍCULO 25
 
-J
-
-El Procedimiento de la Nomenclatura del Municipio, se sujetará a las siguientes bases:
-
-I. La nomenclatura de las vías y espacios públicos del Municipio de Benito Juárez, deberá ser nominal o restringida al uso de nombres propios, evitándose la denominación cartesiana o numérica.
-
-II. No deberán existir calles sin nombre, y cada calle deberá contar con placas nomenclatoras que la identifiquen plenamente.
-
-III. Se deberá mantener el patrimonio cultural de los nombres tradicionales o históricos del Municipio.
-
-IV. Una misma calle no podrá tener dos nombres distintos.
-
-V. Dos calles diferentes no podrán compartir el mismo nombre.
-
-VI. Cuando sea posible, se asignará una familia temática a los nombres de las calles de colonias, fraccionamientos o desarrollos que conformen una zona homogénea, claramente reconocible como tal, dentro del área urbana.
-
-VII. Cuando se desarrollen nuevas colonias o fraccionamientos, no se deberán elegir familias temáticas ya existentes, ni podrán ser usados nombres de vialidades y espacios públicos que ya existan y aparezcan en el Nomenclator.
-
-VIII. Se deberá uniformizar la denominación vial: boulevard, malecón, calzada, avenida, calle, privada y andador a fin de que estos conceptos correspondan con la jerarquía vial de la ciudad.
-
-IX. Las vialidades primaria y secundaria deberán tener un solo nombre a todo lo largo de sus cauces respectivos.
-
-X. Para las nuevas vialidades o espacios públicos se asignarán siempre nombres nuevos no existentes en el Nomenclator de la ciudad, evitando siempre asignar nombres diferentes para cada lado del cauce de una misma calle, aun cuando esta tenga un amplio camellón o un espacio verde intermedio.
-
-XI. En el caso de que las calles o vialidades sufran incrementos, extensiones o prolongaciones, se continuarán con los nombres de las calles originales.
-
-XII. Cuando el cauce de una misma calle tenga nombres diferentes, se uniformizará su nomenclatura mediante el uso de uno solo de sus nombres actuales para toda la longitud de la calle, o mediante la asignación de un nuevo nombre que la identifique en toda su extensión.
-
-XIII. Se deberá hacer referencia a los lugares geográficos, sitios y monumentos de valor histórico o cultural, reforzando la costumbre de referencia popular de los lugares, las calles y los espacios públicos de la ciudad.
-
-XIV. Con el fin de no generar confusión en la correcta ubicación de los espacios públicos y privados, y en los predios urbanos, deberán evitarse:
-
-a) La repetición de nombres y números oficiales;
-
-b) La incongruencia entre la nomenclatura y la estructura urbana de la ciudad; y
-
-c) La incongruencia entre las series de números oficiales, ya sea por cruzamiento, omisiones o saltos en su secuencia.
-
-XV. En la solución de casos repetidos de nomenclatura, permanecerán en primer lugar aquellos nombres que contribuyan a reforzar la estructura urbana, y después aquellos que cuenten con una historia o tradición más importante.
-
-XVI. En la solución de conflictos de repetición de nombres se buscará unificar y reforzar las familias temáticas.
-
-XVII. En el caso de dos o más colonias que compartan la misma familia temática, se resolverá diferenciar la nomenclatura de las calles y los espacios públicos coincidentes mediante la adición del nombre de las colonias a la nomenclatura de todas sus calles y espacios públicos.
-
-XVIII. Para cambios de nombres repetidos en vialidades, se modificará, en orden de prioridad descendente: primero aquella ubicación menos céntrica, después aquella con una menor longitud, y por último, la de menor importancia en la jerarquía vial.
-
-XIX. Se procurará recordar a los ciudadanos benitojuarenses o quintanarroenses distinguidos fallecidos, e incluso de personajes prehispánicos, evitando aceptar propuestas de nombres de persona que aun vivan o hayan fallecido recientemente.
-
-XX. La nomenclatura de asentamientos irregulares será definida al momento de su regularización.
-
-XXI. La subdivisión de predios ocasionará la asignación de nuevos números oficiales para cada una de las fracciones resultantes. Cuando sea posible, la numeración para cada uno completará la serie correspondiente entre los dos números oficiales vecinos; en caso contrario se asignarán repeticiones del numero oficial del predio con la adición de una letra sucesiva a partir de la “A”.
-
-XXII. Un mismo predio no podrá tener dos números oficiales distintos y dos predios diferentes no podrán tener el mismo número oficial. Para resolver la incongruencia en las series de números oficiales se tomará en cuenta el lote mínimo reglamentario como módulo para subdividir y asignar una serie completa y coherente de números oficiales a todos los predios de ambas aceras de una calle. Cuando esto no sea posible, se utilizarán letras sucesivas, a partir de “A,” para distinguir los números repetidos.
-
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+J (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2012)
 
 ###### ARTÍCULO 25
 
-K
-
-La Jefatura de Nomenclatura mantendrá y reforzará la congruencia de la nomenclatura de la ciudad cuando expida los alineamientos y números oficiales, las autorizaciones de fraccionamientos, las subdivisiones, las fusiones y las relotificaciones.
-
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+K (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2012)
 
 ###### ARTÍCULO 25
 
-LO 25-L
-
-La Jefatura de Nomenclatura verificará que la señalización de la Nomenclatura del Municipio sea siempre suficiente para orientar a la ciudadanía y para identificar con facilidad los distintos componentes de la traza urbana.
-
-La Jefatura de Nomenclatura se encargará de mantener un inventario de las placas nomenclaturas existentes, definir el diseño de las placas por instalar, y supervisar su fabricación, adquisición, colocación y mantenimiento, para:
-
-I. El Centro de la Ciudad.
-
-II. La Zona Hotelera.
-
-III. La Zona Periférica de la Ciudad.
-
-Las especificaciones de fabricación para las distintas placas de nomenclatura, medidas, forma y características topográficas, serán fijadas por la Jefatura de Nomenclatura, observando preferentemente uniformidad en las mismas.
-
-La Jefatura de Nomenclatura, podrá variar estas especificaciones, por causa justificada procurando respetar la uniformidad por cada zona y el carácter, y el perfil arquitectónico urbano.
-
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+L (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2012)
 
 ###### ARTÍCULO 25
 
-M
-
-En cada intersección de calles se colocarán dos placas nomenclatoras por calle.
-
-Las placas se fijarán entre dos y tres metros de altura, en la ubicación con mas visibilidad y su colocación podrá ser:
-
-a) En las construcciones que se encuentren en las esquinas.
-
-b) Cuando esto no sea posible, se instalarán en los postes que ahí hubiere.
-
-c) En caso de no haberlos, se instalará un poste especial para sostener las placas nomenclaturas que se encuentren sobre vialidades primarias y secundarias.
-
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
+M (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2012)
 
 ###### ARTÍCULO 25
 
-N
-
-El Ayuntamiento podrá concesionar a particulares la colocación de placas nomenclatoras y su utilización con fines publicitarios, cubriendo los requisitos de diseño, medidas y especificaciones de fabricación establecidas por la Ley de los Municipios, el Bando de Gobierno y Policía del Municipio, este Reglamento y por el contrato de concesión respectivo.
-
-Las concesiones que (sic) se refiere el párrafo anterior podrán ser revocadas por el Ayuntamiento, por las causales de revocación y caducidad que para las concesiones que señala la Ley de los Municipios del Estado, el Bando de Gobierno y Policía del Municipio, este Reglamento o que se establezcan en la propia concesión.
-
-En la concesión respectiva, se consignará que el 20% de la publicidad empleada en las placas nomenclatoras se destine a la difusión de programas públicos municipales y se deberá consignar, además la prohibición para que la publicidad adherida a las placas promueva el consumo de tabaco y bebidas alcohólicas, productos nocivos o propaganda de partidos políticos.
+N (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2012)
 
 ARTÍCULO 26
 
@@ -4132,3 +3878,7 @@ SEGUNDO.- Se aprueba en los términos del Dictamen de la Comisión de Reglamenta
 TERCERO.- Se aprueba en los términos del Dictamen de la Comisión de Reglamentación y Fortalecimiento Municipal, la reforma a los artículos 74 y 75 del Reglamento de Construcción para el Municipio de Benito Juárez, Quintana Roo;
 
 CUARTO.- Publíquese el presente acuerdo en términos de ley.
+
+P.O. 14 DE SEPTIEMBRE DE 2012.
+
+ÚNICO.- Las modificaciones al Reglamento de Construcción para el Municipio de Benito Juárez entrarán en vigor al día sguiente (sic) de su publicación en el Periódico Oficial del Estado de Quirtana (sic) Roo.
