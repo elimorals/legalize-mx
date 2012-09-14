@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-transporte-para-la-movilidad-sustentable-del-estado-5192
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-30"
-last_updated: "2010-12-24"
+last_updated: "2012-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # LEY DE TRANSPORTE PARA LA MOVILIDAD SUSTENTABLE DEL ESTADO DE NUEVO LEON
 
-LEY DE TRANSPORTE PARA LA MOVILIDAD SUSTENTABLE DEL ESTADO DE NUEVO LEON
+LEY DE TRANSPORTE PARA LA MOVILIDAD SUSTENTABLE DEL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 30 de septiembre de 2006.
 
@@ -1007,9 +1007,11 @@ La prestación del servicio del Sistema Metrorrey se hará conforme a la ley de 
 
 ### CAPÍTULO I. DE LAS CONCESIONES EN GENERAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 59.
 
-La concesión es el acto administrativo por medio del cual el Titular del Poder Ejecutivo, de manera directa o a través de la Agencia según lo determina esta Ley, confiere a una persona física o moral la condición y poder jurídico para ejercer obligaciones y derechos en la explotación del Servicio de Transporte Público de Pasajeros en el Estado.
+La concesión es el acto administrativo por medio del cual el Titular del Poder Ejecutivo, de manera directa o a través de la Agencia según lo determina ésta Ley, confiere a una persona física o moral la condición y poder jurídico para ejercer obligaciones y derechos en la explotación del Servicio de Transporte Público de Pasajeros en el Estado y/o de la infraestructura especializada asociada al mismo.
 
 Las concesiones que para prestar el servicio público de transporte otorgue la Agencia, no crean derechos reales y conceden exclusivamente a sus titulares en forma temporal y condicionada el derecho al uso, aprovechamiento y explotación del servicio de acuerdo con la normatividad aplicable.
 
@@ -1019,7 +1021,7 @@ Las concesiones únicamente son transferibles en los términos y bajo las condic
 
 Las placas y sus respectivas tarjetas de circulación son consecuencia directa de la concesión, y son indispensables para prestar el Servicio Público de Transporte concesionado, por lo que su transferencia estará sujeta a los requisitos de transferencia de la concesión, y su comercialización entre particulares se considera ilegal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 60.
 
@@ -1095,11 +1097,23 @@ Aunque la vigencia de las concesiones se calculará en función de la amortizaci
 
 Los derechos y obligaciones de las concesiones son intransferibles, salvo los casos que señala esta Ley.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+En las modalidades descritas en el Artículo 33, fracción II, incisos a) y e); así como en la infraestructura especializada descrita en el Artículo 33, fracción III, de esta Ley, el concesionario sólo podrá ceder sus derechos de remuneración a favor de Instituciones Bancarias, Financieras y/o Crediticias con el fin de obtener y/o liquidar el financiamiento para realizar el diseño, proyecto ejecutivo, adquisición, construcción, explotación, operación, conservación, mantenimiento o equipamiento de dicha infraestructura o servicio.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
 En la modalidad de vehículos de alquiler, el traspaso, endoso, comercialización, o cualquier otra forma de transmisión distinta a los casos autorizados en esta Ley, se considerará inválido e ilegal, y tendrá como consecuencia la revocación de la concesión, en los términos del artículo 84 fracción II de esta Ley.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
 
 Para los efectos del párrafo anterior, en la modalidad de vehículos de alquiler la transmisión o transferencia de la titularidad de las concesiones para ser válida requiere la previa autorización y registro de la Agencia. En caso de personas físicas procederá su transferencia únicamente en los casos de muerte, invalidez, cesantía, o de carácter voluntario cuando haya cumplido una antigüedad no menor de seis años en calidad de concesionario; y en caso de personas morales, queda prohibida la transferencia de sus títulos de concesión a personas físicas y a otras personas morales. Asimismo, el titular propuesto debe reunir los requisitos establecidos en esta Ley para el otorgamiento de concesiones en la modalidad de vehículos de alquiler, y aceptar expresamente en su caso, las modificaciones establecidas por la Agencia al título de concesión para garantizar la adecuada prestación del servicio.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
 La persona que haya transferido al menos una concesión de la cual fue titular, no podrá participar en el procedimiento para el otorgamiento de nuevas concesiones.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
 
 Únicamente en los cuatro casos que se prevén en este artículo será válida la transferencia de derechos que comprenda el título de concesión en esta modalidad de transporte, y sólo entonces procederá la consecuente baja y alta de placas y tarjetas de circulación. Para la ejecución de cualquier cobro, trámite o registro por la Secretaría de Finanzas y Tesorería General del Estado o del Instituto de Control Vehicular o cualquiera otra autoridad interviniente se requiere siempre la previa autorización de la Agencia, la que bajo su responsabilidad verificará el cumplimiento de los requisitos que la normativa estatal exija.
 
@@ -1113,13 +1127,13 @@ La Agencia es la autoridad facultada para modificar las condiciones establecidas
 
 ### CAPÍTULO II. DEL OTORGAMIENTO DE CONCESIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 65.
 
 A fin de mantener en todo tiempo la racionalidad y equilibrio entre oferta y demanda de las diversas modalidades de servicio del SITRA y SITME, el otorgamiento de concesiones de servicios que no pertenecen al Sistema Metrorrey se hará considerando los principios de Movilidad Sustentable, Eficiencia Administrativa y Calidad establecidos en esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
 
 Por lo anterior, se establece el siguiente procedimiento para el otorgamiento de concesiones en las modalidades de servicio que se establecen en el párrafo anterior, salvo lo relativo a vehículos de alquiler:
 
@@ -1143,7 +1157,7 @@ VII.- Si la propuesta es calificada por la Agencia como viable, las concesiones 
 
 VIII.- Si la convocatoria o en su caso licitación quedare desierta, la Agencia atendiendo al interés público resolverá lo conducente garantizando el servicio público de transporte más económico y eficiente para el usuario.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 66.
 
@@ -1151,7 +1165,7 @@ Las concesiones sujetas a convocatoria pública se regirán bajo el siguiente pr
 
 El Ejecutivo del Estado a través de la Agencia:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
 
 A) El procedimiento para el otorgamiento de concesiones sujetas a convocatoria pública en las modalidades de servicio del SITRA y SITME, salvo lo relativo a los vehículos de alquiler, se regirá por lo preceptuado en el presente apartado y lo que al efecto establezca el Reglamento:
 
@@ -1257,7 +1271,7 @@ Para efectos del apartado B) del presente artículo, no se otorgarán concesione
 
 Tampoco se otorgarán concesiones del servicio de transporte público en la modalidad de vehículos de alquiler a los ciudadanos que conformen los organismos electorales, los que fueren designados para integrar el Tribunal Electoral a que se refiere la Ley Electoral del Estado y los Comisionados de la Comisión de Transparencia y Acceso a la Información; ni a los cónyuges de los servidores públicos de éste y el párrafo anterior, ni a sus parientes hasta el cuarto grado por afinidad o consanguinidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 67.
 
@@ -1559,7 +1573,7 @@ IV.- Haber sido previamente calificado de cualquier incapacidad mental o física
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 88.
 
@@ -1953,7 +1967,7 @@ EL C. SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO
 
 RUBÉN EDUARDO MARTÍNEZ DONDÉ
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 13 DE JULIO DE 2007.
 
@@ -1984,3 +1998,7 @@ P.O. 10 DE JUNIO DE 2009.
 P.O. 24 DE DICIEMBRE DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE SEPTIEMBRE DE 2012.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
