@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-fomento-para-el-desarrollo-economico-del-distrito-9234"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-26"
-last_updated: "2012-08-31"
+last_updated: "2012-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9234&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1996-12-18"
 
 LEY DE FOMENTO PARA EL DESARROLLO ECONÓMICO DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 26 de diciembre de 1996.
 
@@ -210,6 +210,12 @@ X. Promover el uso de tecnologías de información y de comunicación para incre
 
 XI. Las demás acciones que sean necesarias para el cumplimiento del objeto y fines propuestos en la Ley
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+XII. Solicitar estudio de viabilidad técnica, económica y financiera de los proyectos para los cuales se soliciten los apoyos y entrega del FONDO PyME.
+
 > <small>(ADICIONADO, G.O. 6 DE FEBRERO DE 2007)</small>
 
 En la elaboración, conducción y ejecución de programas, políticas, instrumentos y medidas relacionados con el fomento al empleo, la Secretaría ejercerá sus facultades en forma coordinada con la Secretaría de Trabajo y Fomento al Empleo.
@@ -317,6 +323,12 @@ IV. Programas de las zonas sujetas a fomento económico, que involucren a más d
 ###### Artículo 15.
 
 La Secretaría, para el cumplimiento de los programas señalados en el artículo anterior, propondrá la participación que corresponda a las dependencias y entidades de la administración pública y la debida coordinación, cuando así se requiera, con los gobiernos estatales y municipales, así como también concertar las acciones convenientes con los sectores social y privado en la ejecución de los programas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+El proyecto deberá contar con el estudio de viabilidad técnica, económica y financiera para el cual se solicite los apoyos y entrega del FONDO PyME, mismo que deberá ser realizados por especialistas de Instituciones Superiores Públicas y Colegios Profesionistas en el ramo.
 
 ###### Artículo 16.
 
@@ -640,7 +652,11 @@ I. La asociación de empresas en proyectos de inversión;
 
 II. Nuevas formas de asociación empresarial para la compra, producción, comercialización y distribución de bienes y servicios; la compra y renta de maquinaria y el establecimiento de centros compartidos de diseño, administración, integración y mercadotecnia;
 
-III. Que las unidades productivas cuenten con servicios jurídicos, informáticos, de capacitación, desarrollo empresarial y asesoría fiscal;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+III. Que las unidades productivas cuenten con servicios jurídicos, informáticos, contables, financieros, económicos, de capacitación, desarrollo empresarial y asesoría fiscal;
 
 IV. La integración sectorial y de procesos productivos para que las empresas generen nuevos productos y participen en nuevos mercados, tanto locales y regionales como nacionales e internacionales, y
 
@@ -681,6 +697,18 @@ Los instrumentos son los medios por los cuales se otorgarán los estímulos que 
 La administración pública es la encargada de determinar y aplicar los instrumentos de fomento económico, de acuerdo con lo establecido en esta Ley y con las demás disposiciones aplicables.
 
 La Secretaría es la dependencia coordinadora en materia de instrumentos de fomento económico, de acuerdo con sus atribuciones.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+La Secretaría deberá tomar en cuenta para el otorgamiento de los apoyos o créditos correspondientes del FONDO PyME, el estudio de viabilidad técnica, económica y financiera de dicha solicitud.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+Para ello deberá, firmar convenios con Instituciones Superiores Públicas y Colegios de Profesionistas especialistas en el ramo para que se realicen los estudios de viabilidad técnica, económica y financiera de los proyectos para los cuales se soliciten los apoyos y entrega del FONDO PyME, con el objeto de que las empresas se beneficien en forma gratuita de dicho estudio y tengan una mayor oportunidad de éxito en su gestión.
 
 > <small>(REFORMADO, G.O. 31 DE AGOSTO DE 2012)</small>
 
@@ -796,6 +824,30 @@ III. Contravenir lo establecido en los ordenamientos correspondientes.
 
 La cancelación de estímulos se efectuará independientemente de la obligación de asumir las sanciones establecidas en los ordenamientos aplicables.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+### CAPITULO V
+
+Del estudio de viabilidad técnica, económica y financiera de los proyectos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 67.
+
+Para la entrega de estímulos y aprobación de programas, será necesario que se presente un estudio de viabilidad técnica, económica y financiera de los proyectos para los cuales se soliciten los apoyos del FONDO PyME.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 14 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 68.
+
+El estudio de viabilidad técnica, económica y financiera de los proyectos para los cuales se soliciten los apoyos del FONDO PyME, serán realizados por Instituciones Superiores Públicas y Colegios de Profesionistas especialistas en el ramo.
+
 ## TRANSITORIOS
 
 PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión se publicará en el Diario Oficial de la Federación.
@@ -867,3 +919,13 @@ G.O. 31 DE AGOSTO DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal, para su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 14 DE SEPTIEMBRE DE 2012.
+
+PRIMERO.- Túrnese el presente Decreto al Jefe de Gobierno del Distrito Federal, para su promulgación y debido cumplimiento.
+
+SEGUNDO.- El presente Decreto entrará en vigor a los 120 días naturales siguientes al de su publicación.
+
+TERCERO.- Publíquese en la Gaceta Oficial del Distrito Federal para su debida observancia y publicación y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+CUARTO.- La Secretaría en un término de 90 días naturales a la entrada en vigor de la presente reforma, deberá instrumentar y firmar los convenios correspondientes con las Instituciones Públicas y Colegios de Profesionistas especialistas en el ramo, para su viabilidad técnica, económica y financiera de los proyectos para los cuales se soliciten los apoyos del FONDO PyME.
