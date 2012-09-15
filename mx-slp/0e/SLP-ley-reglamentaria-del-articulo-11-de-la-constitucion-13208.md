@@ -4,7 +4,7 @@ identifier: "SLP-ley-reglamentaria-del-articulo-11-de-la-constitucion-13208"
 country: "mx"
 rank: "ley"
 publication_date: "1949-12-22"
-last_updated: "1996-11-20"
+last_updated: "2012-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13208&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "SLP"
 ---
 # LEY REGLAMENTARIA DEL ARTICULO 11 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI -ANTES LEY ORGANICA DEL ARTICULO 100 DE LA CONSTITUCION POLITICA DEL ESTADO DE SAN LUIS POTOSI-
 
-LEY ORGANICA DEL ARTICULO 100 DE LA CONSTITUCION POLITICA DEL ESTADO DE SAN LUIS POTOSI
+LEY REGLAMENTARIA DEL ARTÍCULO 11 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL DECRETO NO. 657 DE REFORMAS CONSTITUCIONALES, SE MODIFICA EL ARTICULO 100 QUE PASA A SER EL ARTICULO 11 DE LA CONSTITUCION DEL ESTADO DE SAN LUIS POTOSI, POR LO QUE SE TENDRA POR LEY ORGANICA DE DICHO ARTICULO HASTA EN TANTO LA MISMA SEA REFORMADA.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE NOVIEMBRE DE 1996.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 22 de diciembre de 1949.
 
@@ -37,7 +35,9 @@ DECRETO NUM. 53
 
 El H. XXXIX Congreso Constitucional del Estado Libre y Soberano de San Luis Potosí, decreta lo siguiente:
 
-LEY ORGANICA DEL ARTICULO 100 DE LA CONSTITUCION POLITICA DEL ESTADO DE SAN LUIS POTOSI
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE OCTUBRE DE 2012)</small>
+
+LEY REGLAMENTARIA DEL ARTICULO 11 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
 ###### ARTICULO 1º.
 
@@ -123,7 +123,7 @@ El Secretario General de Gobierno,
 
 LIC. IGNACIO GOMEZ DEL CAMPO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 20 DE NOVIEMBRE DE 1996.
 
@@ -136,3 +136,9 @@ TERCERO.- Hasta en tanto se reformen los preceptos correspondientes de las leyes
 La vigente Ley Orgánica del artículo 100 de la Constitución, precepto que el presente Decreto reforma, pasa a ser el artículo 11 del mismo. Se tendrá por Ley Orgánica de dicho artículo hasta en tanto la misma sea reformada.
 
 DECIMO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, previo cumplimiento a lo establecido en el artículo 120 de la Constitución Política del Estado que se reforma.
+
+P.O. 15 DE SEPTIEMBRE DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
