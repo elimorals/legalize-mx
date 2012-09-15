@@ -4,7 +4,7 @@ identifier: "COL-ley-sobre-los-derechos-y-cultura-indigena-del-estado-de-68560"
 country: "mx"
 rank: "ley"
 publication_date: "2009-05-09"
-last_updated: "2009-05-09"
+last_updated: "2012-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # LEY SOBRE LOS DERECHOS Y CULTURA INDIGENA DEL ESTADO DE COLIMA
 
-LEY SOBRE LOS DERECHOS Y CULTURA INDIGENA DEL ESTADO DE COLIMA
+LEY SOBRE LOS DERECHOS Y CULTURA INDÍGENA DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 9 de mayo de 2009.
 
@@ -51,9 +51,19 @@ LEY SOBRE LOS DERECHOS Y CULTURA INDÍGENA DEL ESTADO DE COLIMA
 
 Esta Leyes de orden público e interés social, reglamentaria del artículo 2° de la Constitución Federal y tiene por objeto reconocer y regular los derechos de los pueblos y comunidades indígenas, su organización interna, el respeto y desarrollo de sus culturas, creencias, conocimientos, lenguas, usos, costumbres, medicina tradicional y recursos en el Estado.
 
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+
+El Estado de Colima tiene una población étnica plural sustentada en sus pueblos indígenas; por ello, esta Ley reconoce y protege, de manera enunciativa y no limitativa, el carácter de pueblos y comunidades indígenas de la entidad, a los siguientes: Suchitlán, Cofradía de Suchitlán, Zacualpan, la Nogalera, Pintores uno y Pintores dos, pertenecientes al Municipio de Comala; El Cóbano del Municipio de Cuauhtémoc; Tamala, Ixtlahuacán, Zinacamitlán, Chamila, Caután, Jiliotupa y Plan de Zapote, ubicados en el Municipio de Ixtlahuacán; Las Pesadas, El Platanar y Plan de Méndez, pertenecientes al Municipio de Minatitlán; y Juluapan, en el Municipio de Villa de Álvarez; donde existe presencia Náhuatl y Otomí.
+
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+
+Las comunidades, pueblos, grupos o personas indígenas que por cualquier circunstancia se encuentren de paso o permanezcan temporal o permanentemente dentro del territorio del Estado, perteneciente a cualquier otro pueblo indígena del país, podrán acogerse a esta Ley, sin detrimento de sus usos y costumbres.
+
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 2°.
 
-Para los efectos de esta Ley se reconoce y protege las normas de organización interna de los pueblos indígenas asentados en el territorio del Estado, tanto en sus relaciones familiares, vida civil, comunitaria y en lo general, en las que se relacionan con la prevención y resolución de conflictos en las mismas comunidades, siempre y cuando dichas normas no vulneren o contravengan las disposiciones Constitucionales Federales y Estatales.
+Para los efectos de esta Ley se reconoce y protege las normas de organización interna de los pueblos indígenas asentados en el territorio del Estado, tanto en sus relaciones familiares, vida civil, comunitaria y en lo general, en las que se relacionan con la prevención y resolución de conflictos en las mismas comunidades, sujetándose a los principios generales de la Constitución Federal, la Constitución local, respetando las garantías individuales, los derechos humanos y de manera relevante la integridad y dignidad de las mujeres.
 
 ###### Artículo 3°.
 
@@ -77,7 +87,9 @@ VI.- Autoridades Tradicionales: Aquellos que los pueblos indígenas reconocen de
 
 VII.- Comunidades indígenas: Conjunto de personas que forman una o varias unidades socioeconómicas y culturales, que pertenecen a un asentamiento común, y a un determinado pueblo indígena permanente o temporal, quienes reconocen autoridades propias de acuerdo con sus usos y costumbres;
 
-VIII.- Garantías individuales: Las facultades y prerrogativas que el orden jurídico federal y estatal vigente otorga a todo hombre o mujer por el sólo hecho de ser personas, independientemente de que sea o no integrante de un pueblo indígena;
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+
+VIII.- Derechos Humanos: las facultades y prerrogativas que el orden jurídico federal y estatal vigente otorga a todo hombre o mujer por el sólo hecho de ser personas, independientemente de que sea o no integrante de un pueblo indígena;
 
 IX.- Garantías Sociales: Facultades y prerrogativas de naturaleza colectiva que el orden jurídico mexicano reconoce a los pueblos y comunidades indígenas, en los ámbitos político, económico, social, agropecuario, cultural y jurisdiccional, para garantizar su existencia, permanencia, dignidad, bienestar y no discriminación basada en la pertenencia a los pueblos indígenas;
 
@@ -107,9 +119,11 @@ Queda prohibido todo acto material que implique a la comunidad y pueblo indígen
 
 La separación de niñas y niños indígenas de sus familias y comunidades queda estrictamente prohibida, con la excepción de ser ordenado por autoridad judicial o ministerial con las correspondientes reservas de Ley.
 
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 9°.
 
-Las autoridades estatales y municipales tendrán la obligación de denunciar ante las autoridades competentes, los casos que lleguen a su conocimiento en que los trabajadores indígenas laboren en condiciones discriminatorias, desiguales o peligrosas para su salud e integridad física.
+Las autoridades estatales y municipales, así como cualquier persona, tendrán la obligación de denunciar ante las autoridades competentes, los casos que lleguen a su conocimiento en que los trabajadores indígenas laboren en condiciones discriminatorias, desiguales o peligrosas para su salud e integridad física.
 
 ###### Artículo 10.
 
@@ -143,9 +157,17 @@ c).- Reconocer los sistemas normativos internos en el marco jurídico general en
 
 II.- Los Poderes Ejecutivo y Legislativo del Estado de Colima y los Ayuntamientos donde radiquen territorialmente las comunidades y pueblos indígenas deberán:
 
-a).- Consultar, y en su caso convocar a los pueblos interesados, mediante procedimientos apropiados, y en particular a través de sus autoridades o representantes tradicionales, cada vez que se prevean medidas legislativas o administrativas susceptibles de afectarles directamente; y
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
-b).- Promover que los pueblos interesados, mediante procedimientos apropiados y en particular a través de sus autoridades o representantes tradicionales, participen libremente, en la definición y ejecución de políticas y programas públicos que les conciernan.
+a).- Consultar, y en su caso convocar a los pueblos interesados, mediante procedimientos apropiados, y en particular a través de sus autoridades o representantes tradicionales, cada vez que se prevean medidas legislativas o administrativas susceptibles de afectarles directamente;
+
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+
+b).- Promover que los pueblos interesados, mediante procedimientos apropiados y en particular a través de sus autoridades o representantes tradicionales, participen libremente, en la definición y ejecución de políticas y programas públicos que les conciernan; y
+
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+
+c).- Consultar a los pueblos indígenas en la elaboración del Plan Nacional de Desarrollo y de los estatales y municipales y, en su caso, incorporar las recomendaciones y propuestas que realicen.
 
 ###### Artículo 13.
 
@@ -173,13 +195,33 @@ Los integrantes de las comunidades y pueblos indígenas tendrán el derecho de p
 
 Los Municipios con población indígena a través de los Cabildos, promoverán la creación de una Comisión de Asuntos Indígenas, la cual será integrada de conformidad con los reglamentos internos de cada Ayuntamiento, con el propósito de atender los asuntos relativos a los pueblos indígenas residentes o temporales dentro de la circunscripción territorial del mismo Municipio.
 
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+
+Es derecho de todo pueblo o comunidad indígena elegir de manera libre y autónoma representantes ante los Ayuntamientos a los que pertenezcan.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+
+### CAPÍTULO II BIS. DEL DERECHO A LA TIERRA
+
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 18 Bis.
+
+Los pueblos y comunidades indígenas, por conducto de sus autoridades tendrán el derecho y la obligación de conservar y mejorar el habitad; preservando la integridad de sus tierras, para acceder con respeto a las formas y modalidades de propiedad y tenencia de la tierra en la Constitución Federal y en la ley de la materia.
+
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 18 Bis 1.
+
+Esta Ley reconoce y garantiza a los pueblos y comunidades indígenas reconocidas por ésta, en el marco de autonomía y libre determinación, el acceso al uso y disfrute preferente de los recursos naturales de los lugares que habitan y ocupan de manera permanente, para lo cual podrán asociarse en términos de ley; salvo aquellos que correspondan a las áreas estratégicas y con respeto a los derechos de terceros y a otras formas y modalidades de propiedad y tenencia de la tierra establecidas en la Constitución Federal y demás legislación secundaria.
+
 ### CAPÍTULO III. DE SU AUTONOMÍA Y ORGANIZACIÓN INTERNA
 
-### CAPÍTULO IV. DEL PATRIMONIO CULTURAL
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 19.
 
-Se reconoce a los pueblos y comunidades indígenas del Estado el derecho a la libre determinación de su existencia, a sus formas de organización y objetivos de desarrollo. Así mismo, tendrán el derecho social a determinar, conforme a la tradición de cada uno, su propia composición y a ejercer con autonomía todos los derechos que esta Ley reconoce a dichos pueblos y comunidades.
+Se reconoce a los pueblos y comunidades indígenas del Estado el derecho a la libre determinación y autonomía para elegir de acuerdo con sus normas, procedimientos y prácticas tradicionales a las autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, garantizando la participación de las mujeres en condiciones de equidad frente a los varones en un marco que respete el pacto federal, la soberanía de la entidad y la autonomía municipal. Así mismo, tendrán el derecho social a determinar, conforme a la tradición de cada uno, su propia composición y a ejercer con autonomía todos los derechos que esta ley reconoce a dichos pueblos y comunidades.
 
 ###### Artículo 20.
 
@@ -201,7 +243,7 @@ Los procesos de planeación estatal y municipal deberán considerar el mejoramie
 
 El Gobierno del Estado y los gobiernos municipales deberán realizar estudios, en cooperación con las comunidades y pueblos indígenas, a fin de evaluar la incidencia económica, social y cultural, y sobre el ambiente, que las actividades de desarrollo previstas puedan tener sobre sus mismos pueblos. Los resultados de estos estudios se considerarán como criterios fundamentales para la ejecución de actividades de desarrollo sustentable.
 
-### CAPÍTULO V. DEL DESARROLLO HUMANO
+### CAPÍTULO IV. DEL PATRIMONIO CULTURAL
 
 ###### Artículo 25.
 
@@ -219,7 +261,7 @@ Los pueblos y comunidades indígenas tienen derecho al respeto pleno de su propi
 
 Las comunidades indígenas tienen derecho a practicar sus propias ceremonias religiosas, tanto en las áreas indígenas como en las que no tienen predominio indígena, respetando la Ley de Asociaciones Religiosas y Culto Público.
 
-### CAPÍTULO VI. DE LOS SISTEMAS NORMATIVOS
+### CAPÍTULO V. DEL DESARROLLO HUMANO
 
 ###### Artículo 29.
 
@@ -227,7 +269,9 @@ Las autoridades estatales y municipales promoverán la igualdad de los indígena
 
 Para abatir las carencias y rezagos que afectan a las comunidades y pueblos indígenas en la Entidad, dichas autoridades tendrán la obligación de:
 
-I.- Impulsar el desarrollo regional de las zonas indígenas con el propósito de fortalecer la economía local y mejorar las condiciones de vida de sus pueblos y comunidades, mediante acciones coordinadas entre los tres órdenes de Gobierno, Federal, Estatal y Municipal con la participación de las comunidades;
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+
+I.- Impulsar el desarrollo regional de las zonas indígenas con el propósito de fortalecer la economía local y mejorar las condiciones de vida de sus pueblos y comunidades, mediante acciones coordinadas entre los tres órdenes de gobierno, federal, estatal y municipal con la participación de las comunidades. Las autoridades municipales determinarán equitativamente las asignaciones municipales que las comunidades administrarán directamente para fines específicos;
 
 II.- Garantizar e incrementar los niveles de escolaridad, favoreciendo la educación bilingüe e intercultural, la alfabetización, la conclusión de la educación básica, la capacitación productiva y la educación media superior y superior. Establecer así mismo, un sistema de becas para los estudiantes indígenas en todos los niveles;
 
@@ -241,27 +285,49 @@ VI.- Mejorar las condiciones de las comunidades y pueblos indígenas y de sus es
 
 VII.- Propiciar la incorporación de las mujeres indígenas al desarrollo, mediante el apoyo a los proyectos productivos, la protección de su salud, el otorgamiento de estímulos para favorecer su educación y su participación en la toma de decisiones relacionadas con la vida comunitaria;
 
-VIII.- Apoyar las actividades productivas y el desarrollo sustentable de las comunidades y pueblos indígenas mediante acciones que permitan alcanzar la suficiencia de sus ingresos económicos, la aplicación de estímulos para las inversiones públicas y privadas que propicien la creación de empleos, la incorporación de tecnologías para incrementar su propia capacidad productiva, así como, para asegurar el acceso equitativo a los sistemas de abasto y comercialización; y
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
-IX.- Establecer políticas sociales para proteger a los migrantes indígenas, tanto en el territorio nacional como en el extranjero; mejorar las condiciones de salud de las mujeres; apoyar con programas especiales de educación, nutrición a niños y jóvenes de familias migrantes; velar por el respeto de sus derechos humanos y promover la difusión de sus culturas.
+VIII.- Apoyar las actividades productivas y el desarrollo sustentable de las comunidades y pueblos indígenas mediante acciones que permitan alcanzar la suficiencia de sus ingresos económicos, la aplicación de estímulos para las inversiones públicas y privadas que propicien la creación de empleos, la incorporación de tecnologías para incrementar su propia capacidad productiva, así como, para asegurar el acceso equitativo a los sistemas de abasto y comercialización;
 
-### CAPÍTULO VII. DE LA JUSTICIA INDÍGENA
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+
+IX.- Establecer políticas sociales para proteger a los migrantes indígenas, tanto en el territorio nacional como en el extranjero, mediante acciones para garantizar los derechos laborales de los jornaleros agrícolas; mejorar las condiciones de salud de las mujeres; apoyar con programas especiales de educación y nutrición a niños y jóvenes de familias migrantes; velar por el respeto de sus derechos humanos y promover la difusión de sus culturas; y
+
+> <small>(ADICIONADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+
+X.- Extender la red de comunicaciones que permita la integración de las comunidades, mediante la construcción y ampliación de vías de comunicación y telecomunicación. Establecer condiciones para que los pueblos y las comunidades indígenas puedan adquirir, operar y administrar medios de comunicación, en los términos que las leyes de la materia determinen.
+
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+
+Para garantizar el cumplimiento de las obligaciones señaladas en el presente artículo, el Congreso del Estado y los ayuntamientos en el ámbito de sus respectivas competencias, establecerán las partidas especificas destinadas al cumplimiento de estas obligaciones en los respectivos presupuestos de egresos que aprueben, así como las formas y procedimientos para que las comunidades participen en el ejercicio y vigilancia de las mismas.
+
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+
+Sin perjuicio de los derechos aquí establecidos a favor de los indígenas, sus comunidades y pueblos, toda comunidad equiparable a aquéllos tendrá en lo conducente los mismos derechos tal y como lo establezca esta Ley.
+
+### CAPÍTULO VI. DE LOS SISTEMAS NORMATIVOS
+
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 30.
 
-Esta Ley reconoce y protege a las autoridades tradicionales de las comunidades y pueblos indígenas, nombradas conforme a sus propios usos y costumbres. Las autoridades tradicionales, quienes ancestralmente han aplicado los usos, costumbres y tradiciones de sus comunidades en la solución de conflictos internos, y sus opiniones, serán tomadas en cuenta en los términos de la legislación procesal respectiva en la Entidad, para la solución de las controversias que se sometan a la jurisdicción ordinaria.
+Esta Ley reconoce y protege a las autoridades tradicionales de las comunidades y pueblos indígenas, nombradas conforme a sus propios usos y costumbres. Las autoridades tradicionales, quienes ancestralmente han aplicado los usos, costumbres y tradiciones de sus comunidades en la solución de conflictos internos, y sus determinaciones, sobre cualquier tipo de controversia de que se trate, con excepción de lo dispuesto en el artículo 34 de esta Ley, tendrán pleno valor legal, siempre y cuando sean validadas por la autoridad judicial competente, en los términos de la legislación procesal respectiva en la Entidad, para la solución de las controversias que se sometan a la jurisdicción ordinaria. Siendo criterio fundamental para la validación, que la determinación respectiva no sea violatoria de derechos humanos.
 
 ###### Artículo 31.
 
 El Gobierno del Estado reconoce la existencia de sistemas normativos internos de los pueblos y comunidades indígenas, con características propias y específicas según el pueblo indígena al que correspondan, basados en sus tradiciones y que se han transmitido por generaciones, enriqueciéndose y adaptándose con el paso del tiempo a diversas circunstancias.
 
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 32.
 
-El Estado reconoce la validez de las normas internas en los ámbitos de las relaciones familiares, de la vida civil, de la organización en la vida comunitaria y en general, de la prevención y solución de conflictos al interior de cada comunidad; siempre y cuando no contravenga la Constitución Federal, la Constitución Local, las respectivas leyes secundarias, ni que vulneren los derechos de terceros.
+El Estado reconoce la validez de las normas internas en los ámbitos de las relaciones familiares, de la vida civil, de la organización en la vida comunitaria y en general, de la prevención y solución de conflictos al interior de cada comunidad; siempre y cuando no contravenga la Constitución Federal, la Constitución Local, las respectivas leyes secundarias, ni que vulneren los derechos humanos de terceros y, la dignidad e integridad de las mujeres.
 
 ###### Artículo 33.
 
 Las autoridades encargadas de la procuración e impartición de justicia están obligadas a estudiar, investigar y compilar documentalmente los usos y costumbres de los pueblos indígenas en la Entidad, y promover su aplicación como elementos de prueba en los juicios donde se involucre a un indígena.
+
+### CAPÍTULO VII. DE LA JUSTICIA INDÍGENA
 
 ###### Artículo 34.
 
@@ -298,3 +364,11 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, al día 20 del mes de abril del año dos mil nueve.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS, rúbrica.- LA SECRETARIA GENERAL DE GOBIERNO, LICDA. YOLANDA VERDUZCO GUZMÁN, rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE SEPTIEMBRE DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Con el objetivo de hacer efectivo lo dispuesto por la fracción VIII, apartado A, del artículo 2o de la Constitución Política de los Estados Unidos Mexicanos, relativa al acceso a la jurisdicción del Estado, en un término de 120 días naturales a partir de la entrada en vigor del presente Decreto, se creará un grupo de trabajo conformado por historiadores o cronistas del pueblo o comunidad indígena de que se trate; por un representante de dicha comunidad o pueblo; y un representante del Poder Judicial del Estado; quienes se encargarán de estudiar, investigar y compilar documentalmente los usos y costumbres del pueblo o comunidad indígena de que se trate; con la finalidad de que en todos los juicios y procedimientos en que sean parte, individual o colectivamente, sean tomados en consideración sus costumbres y especificidades culturales.
