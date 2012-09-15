@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-de-los-servicios-de-educacion-publica-23140
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-01-02"
-last_updated: "2006-04-29"
+last_updated: "2012-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23140&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO INTERIOR DE LOS SERVICIOS DE EDUCACIÓN PÚBLICA DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2012.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 2 de enero del 2002.
 
@@ -109,7 +109,9 @@ DEPARTAMENTO DE RECURSOS MATERIALES Y SERVICIOS
 
 COORDINACIÓN DE LAS UNIDADES REGIONALES DE SERVICIOS EDUCATIVOS
 
-DIRECCIÓN DE PROYECTOS EDUCATIVOS
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+
+DIRECCIÓN DE DESARROLLO E INNOVACIÓN EDUCATIVA
 
 COORDINACIÓN DE CARRERA MAGISTERIAL
 
@@ -385,17 +387,17 @@ VI.- Determinar los procedimientos que se requieren para un adecuado manejo de l
 
 VII.- Definir los mecanismos para llevar a cabo una correcta planeación de los recursos presupuestales, la cual permita prever el costo de las incorporaciones, y tener mayor control del gasto ejercido.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
-VIII.- Las demás que le confieran las disposiciones legales o le encomiende el Director de Proyectos Educativos.
+VIII.- Las demás que le confieran las disposiciones legales o le encomiende el Director de Desarrollo e Innovación Educativa
 
 ###### ARTÍCULO 12.
 
 Corresponde a la Coordinación de Instituciones Formadoras y Actualizadoras de Docentes:
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
-I.- Formular y presentar a consideración del Director de Proyectos Educativos, las disposiciones técnicas y administrativas para la organización, operación, desarrollo, supervisión y evaluación de la educación normal y actualización del magisterio que impartan los Servicios de Educación Pública del Estado de Nayarit.
+I.- Formular y presentar a consideración del Director de Desarrollo e Innovación Educativa, las disposiciones técnicas y administrativas para la organización, operación, desarrollo, supervisión y evaluación de la educación normal y actualización del magisterio que impartan los Servicios de Educación Pública del Estado de Nayarit.
 
 II.- Llevar el registro de los planes y programas de estudio oficiales de Educación normal y asesorar al personal docente en el uso de apoyos didácticos y aplicación de técnicas e instrumentos para la evaluación del aprendizaje.
 
@@ -407,33 +409,33 @@ V.- Realizar estudios y diagnósticos para identificar las características y pr
 
 VI.- Coordinar las actividades inherentes a la administración de recursos materiales y financieros, estadísticas, registro y certificación que deban efectuar los planteles de educación normal y actualización del magisterio, así como realizar los trámites derivados de la administración de personal y llevar control sobre los mismos.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
-VII.- Promover, mediante el diseño, organización y aplicación de cursos, talleres, seminarios y demás, la capacitación y el adiestramiento del personal de los Servicios de Educación Pública del Estado de Nayarit, para el buen desempeño de sus labores y para el mejoramiento de sus condiciones económicas, sociales y culturales, previa autorización del Director de Proyectos Educativos.
+VII.- Promover, mediante el diseño, organización y aplicación de cursos, talleres, seminarios y demás, la capacitación y el adiestramiento del personal de los Servicios de Educación Pública del Estado de Nayarit, para el buen desempeño de sus labores y para el mejoramiento de sus condiciones económicas, sociales y culturales, previa autorización del Director de Desarrollo e Innovación Educativa.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
-VIII.- Diseñar y desarrollar programas para la superación académica del personal directivo y docente adscrito a los Servicios de Educación Pública del Estado de Nayarit, con la anuencia del Director de Proyectos Educativos.
+VIII.- Diseñar y desarrollar programas para la superación académica del personal directivo y docente adscrito a los Servicios de Educación Pública del Estado de Nayarit, con la anuencia del Director de Desarrollo e Innovación Educativa.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
-IX.- Establecer comunicación con la Dirección General de Materiales y Métodos Educativos, con la finalidad de allegarse publicaciones, especialmente, las que sean de interés para la superación del maestro y para la dotación de acervos de conformidad con las indicaciones del Director de Proyectos Educativos.
+IX.- Establecer comunicación con la Dirección General de Materiales y Métodos Educativos, con la finalidad de allegarse publicaciones, especialmente, las que sean de interés para la superación del maestro y para la dotación de acervos de conformidad con las indicaciones del Director de Desarrollo e Innovación Educativa.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
-X.- Coordinar sus actividades con autoridades educativas e instituciones formadoras de maestros para la constitución y funcionamiento del sistema nacional de formación, actualización, capacitación y superación profesional para maestros, previa autorización del Director de Proyectos Educativos.
+X.- Coordinar sus actividades con autoridades educativas e instituciones formadoras de maestros para la constitución y funcionamiento del sistema nacional de formación, actualización, capacitación y superación profesional para maestros, previa autorización del Director de Desarrollo e Innovación Educativa.
 
 XI.- Dirigir y coordinar la operación de carrera magisterial conforme a las políticas y normas establecidas.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
-XII.- Las demás que le confieran las disposiciones legales o le encomiende el Director de Proyectos Educativos
+XII.- Las demás que le confieran las disposiciones legales o le encomiende el Director de Desarrollo e Innovación Educativa.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 13.
 
-Corresponde a la Dirección de Proyectos Educativos:
+Corresponde a la Dirección de Desarrollo e Innovación Educativa:
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE ABRIL DE 2006)</small>
 
@@ -453,9 +455,9 @@ IV.- Solicitar los recursos necesarios, en tiempo y forma para cubrir el program
 
 V.- Administrar los programas y proyectos aplicando los recursos asignados; financieros, humanos y materiales, de acuerdo a lo estipulado en la normatividad vigente.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
-VI.- Informar periódicamente al Director General, sobre los avances y metas logradas en cada una de las coordinaciones que integran la Dirección de Proyectos Educativos.
+VI.- Informar periódicamente al Director General, sobre los avances y metas logradas en cada una de las coordinaciones que integran la Dirección de Desarrollo e Innovación Educativa.
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE ABRIL DE 2006)</small>
 
@@ -485,9 +487,9 @@ IV.- Desarrollar el proceso de evaluación al aprovechamiento del programa en co
 
 V.- Recopilar y promover la información obtenida en las evaluaciones y enviarla a las autoridades correspondientes.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
-VI.- Las demás que le confieran las disposiciones legales aplicables y el Director de Proyectos Educativos.
+VI.- Las demás que le confieran las disposiciones legales aplicables y el Director de Desarrollo e Innovación Educativa.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2006)</small>
 
@@ -503,9 +505,9 @@ III.- Coordinar e integrar los informes de avances y evaluatorios por componente
 
 IV.- Integrar, validar y proporcionar la información necesaria para la formulación del programa anual de operación, por cada ejercicio fiscal.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
-V.- Las demás que le confieran las disposiciones legales aplicables y el Director de Proyectos Educativos.
+V.- Las demás que le confieran las disposiciones legales aplicables y el Director de Desarrollo e Innovación Educativa.
 
 > <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2006)</small>
 
@@ -523,7 +525,9 @@ V.- Consolidar espacios en las escuelas para apoyar la formación e interacción
 
 VI.- Organizar las acciones pertinentes para llevar a cabo cursos, talleres y otras modalidades de capacitación entre el personal docente para la implementación del programa;
 
-VII.- Las demás que le confieran las disposiciones legales aplicables y el Director de Proyectos Educativos.
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+
+VII.- Las demás que le confieran las disposiciones legales aplicables y el Director de Desarrollo e Innovación Educativa.
 
 > <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2006)</small>
 
@@ -543,9 +547,11 @@ VI.- Incidir para que las escuelas participantes cuenten con la infraestructura 
 
 VII.- Vigilar la operación del proyecto en cada una de las modalidades aplicadas en las escuelas, realizar diagnósticos que permitan identificar los niveles de aprovechamiento y llevar el seguimiento de las acciones para la integración de resultados;
 
-VIII.- Evaluar e informar al Director de Proyectos Educativos los resultados de las aplicaciones del proyecto; así como atender las necesidades que se presenten durante el funcionamiento del mismo;
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
-IX.- Las demás que le confieran las disposiciones legales aplicables y el Director de Proyectos Educativos.
+VIII.- Evaluar e informar al Director de Desarrollo e Innovación Educativa, los resultados de las aplicaciones del proyecto; así como atender las necesidades que se presenten durante el funcionamiento del mismo;
+
+IX.- Las demás que le confieran las disposiciones legales aplicables y el Director de Desarrollo e Innovación Educativa.
 
 > <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2006)</small>
 
@@ -565,9 +571,13 @@ VI.- Ampliar y fortalecer en coordinación con las autoridades estatales y feder
 
 VII.- Capacitar en el uso del sistema Enciclomedia al personal de las escuelas en donde se haya incorporado el sistema;
 
-VIII.- Vigilar en las instituciones educativas involucradas la operación y aplicación del programa enciclomedia, mediante la realización de diagnósticos que identifiquen los niveles de aprovechamiento y que permitan evaluar e informar permanentemente al Director de Proyectos Educativos los resultados de la aplicación del programa;
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
-IX.- Las demás que le confieran las disposiciones legales aplicables y el Director de Proyectos Educativos.
+VIII.- Vigilar en las instituciones educativas involucradas la operación y aplicación del programa enciclomedia, mediante la realización de diagnósticos que identifiquen los niveles de aprovechamiento y que permitan evaluar e informar permanentemente al Director de Desarrollo e Innovación Educativa los resultados de la aplicación del programa;
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+
+IX.- Las demás que le confieran las disposiciones legales aplicables y el Director de Desarrollo e Innovación Educativa.
 
 > <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2006)</small>
 
@@ -587,9 +597,13 @@ VI.- Promover la articulación de procesos productivos complementarios, entre di
 
 VII.- Apoyar la creación de unidades productivas paralelas a la operación de los centros escolares, que contribuyan a la solución de problemáticas específicas del sector educativo;
 
-VIII.- Evaluar e informar al Director de Proyectos Educativos los resultados de las aplicaciones del proyecto; así como atender las necesidades que se presenten durante el funcionamiento del mismo;
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
-IX.- Las demás que le confieran las disposiciones legales aplicables y el Director de Proyectos Educativos.
+VIII.- Evaluar e informar al Director de Desarrollo e Innovación Educativa los resultados de las aplicaciones del proyecto; así como atender las necesidades que se presenten durante el funcionamiento del mismo;
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+
+IX.- Las demás que le confieran las disposiciones legales aplicables y el Director de Desarrollo e Innovación Educativa.
 
 ### CAPÍTULO V
 
@@ -1213,11 +1227,11 @@ V.- Las demás que le señalen otros ordenamientos legales, y las que le encomie
 
 DE LAS SUPLENCIAS DE LOS TITULARES.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 40.
 
-El Director General será suplido en sus ausencias temporales menores de quince días, por el Director que el designe, y si no lo hiciere, será suplido por el titular de la Unidad de Asuntos Jurídicos y Laborales, el Director de Planeación y Evaluación Educativa, de Servicios Administrativos, o de Educación Básica en ese orden; a falta de ellos, por del (sic) Director de Proyectos Educativos. En las mayores de 15 días, por el Director que designe el Gobernador del Estado.
+El Director General será suplido en sus ausencias temporales menores de quince días, por el Director que el designe, y si no lo hiciere, será suplido por el titular de la Unidad de Asuntos Jurídicos y Laborales, el Director de Planeación y Evaluación Educativa, de Servicios Administrativos, o de Educación Básica en ese orden; a falta de ellos, por del (sic) Director de Desarrollo e Innovación Educativa. En las mayores de 15 días, por el Director que designe el Gobernador del Estado.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE ABRIL DE 2006)</small>
 
@@ -1292,3 +1306,7 @@ SECRETARIO DE LA CONTRALORIA
 P.O. 29 DE ABRIL DE 2006.
 
 LAS PRESENTES MODIFICACIONES, ADICIONES Y CREACIONES ENTRARAN EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL.
+
+P.O. 15 DE SEPTIEMBRE DE 2012.
+
+LAS PRESENTES MODIFICACIONES Y ADICIONES ENTRARÁN EN VIGOR AL DÍA SIGUIENTE DE SU PÚBLICACIÓN EN EL PERIÓDICO OFICIAL.
