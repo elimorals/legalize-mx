@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-civiles-para-el-estado-de-colima-9881"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2012-09-08"
+last_updated: "2012-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2012.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado Colima, el sábado 25 de septiembre de 1954.
 
@@ -1753,7 +1753,9 @@ ART. 254.- Toda contienda judicial principiará por demanda en la cual se expres
 
 I.- El tribunal ante el que se promueve;
 
-II.- El nombre del actor y la casa que señale para oír notificaciones;
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+
+II.- El nombre del actor, la casa que señale para oír notificaciones y, en su caso, el nombre y domicilio de su autorizado en los términos del artículo 112 Bis;
 
 III.- El nombre del demandado y su domicilio;
 
@@ -6366,3 +6368,7 @@ P.O. 10 DE DICIEMBRE DE 2011.
 P.O. 8 DE SEPTIEMBRE DE 2012.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 15 DE SEPTIEMBRE DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
