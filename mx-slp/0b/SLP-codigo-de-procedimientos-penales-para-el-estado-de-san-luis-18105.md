@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-penales-para-el-estado-de-san-luis-181
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2012-07-31"
+last_updated: "2012-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18105&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2012.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -501,11 +501,11 @@ Se formará un inventario de los objetos que se recojan relacionados con el deli
 
 Si el inculpado estuviere presente, se le mostrarán los objetos recogidos para que los reconozca y se levantará el acta correspondiente en la que pondrá su firma o rúbrica, si puede y sabe hacerlo, y si no supiere firmar o tuviere impedimento físico, sus huellas digitales. En cualquier caso, se unirán a ellos una tira de papel que se sellará en la juntura de los dos extremos y se invitará al inculpado a que firme o ponga sus huellas digitales. En todos los casos se hará constar esta circunstancia así como si no pudiere firmar o poner sus huellas digitales, o se negare a ello.
 
-> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2002)</small>
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTICULO 76 Bis.
 
-En caso de que la pérdida de la vida del donante de órganos y tejidos esté relacionada con la averiguación del delito, el Ministerio Público acudirá a la autoridad judicial competente solicitando su presencia durante la extracción de los mismos, en los términos del artículo 328 de la Ley General de Salud. Al término de ella levantará acta circunstanciada en presencia del Ministerio Público, de los profesionales de las disciplinas para la salud que intervinieron y de los donadores secundarios, en su caso.
+En caso de que la pérdida de la vida del donante de órganos, tejidos o componentes esté relacionada con la averiguación del delito o un proceso penal, el Ministerio Público acudirá a la autoridad judicial competente solicitando su intervención a través del funcionario que tenga fe pública para que esté presente durante la extracción de los mismos, en los términos del artículo 328 de la Ley General de Salud. Al término de la extracción levantará acta circunstanciada en presencia del Ministerio Público, de los profesionales de las disciplinas para la salud que intervinieron, y de los donadores secundarios, en su caso.
 
 ### CAPITULO VIII. TERMINOS
 
@@ -4038,3 +4038,9 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. El Ejecutivo del Estado expedirá en ciento veinte días los reglamentos a que se refiere este Decreto; y adecuará aquéllos que así lo requieran.
+
+P.O. 15 DE SEPTIEMBRE DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
