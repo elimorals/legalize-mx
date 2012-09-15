@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2012-08-25"
+last_updated: "2012-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -577,7 +577,7 @@ II. La prevención y el control de las enfermedades transmisibles de atención p
 
 > <small>(REFORMADA, P.O. 7 DE JULIO DE 2009)</small>
 
-III. La atención médica, que comprende actividades preventivas, curativas, cuidados paliativos y de rehabilitación, incluyendo la atención de urgencias~ (sic)
+III. Las atención médica, que comprende actividades preventivas, curativas, cuidados paliativos y de rehabilitación, incluyendo la atención de urgencias~ (sic)
 
 IV. La atención materno-infantil;
 
@@ -893,6 +893,8 @@ La prestación de servicios de salud a los escolares se efectuará de conformida
 
 ### CAPITULO VIII. Donación y Trasplantes
 
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTICULO 57.
 
 La planificación familiar tiene carácter prioritario; en sus actividades se debe incluir la orientación educativa para las personas adolescentes, jóvenes y adultas, mediante una correcta información oportuna, eficaz y completa.
@@ -1057,11 +1059,15 @@ Para tal efecto, se establecerá la coordinación necesaria entre las autoridade
 
 ###### ARTICULO 66.
 
-La Secretaría de Salud del Estado, en coordinación con las autoridades federales, así como con el Consejo Nacional, y el Centro Estatal de Trasplantes, se encargará del control sanitario de las donaciones y trasplantes de órganos, tejidos y células de seres humanos.
+La Secretaría de Salud del Estado, en coordinación con las autoridades federales, así como con el Consejo Nacional, y el Centro Estatal de Trasplantes, se encargará del control sanitario de las donaciones y trasplantes de órganos, tejidos y componentes de seres humanos, en los términos de la Ley General del (sic) Salud y su Reglamento, así como la Ley de Donación y Trasplantes de Organos, Tejidos, y Componentes para el Estado de San Luis Potosí.
+
+Además, su titular, o quien éste designe, será parte integrante del Consejo Estatal de Trasplantes en los términos de la ley de la materia.
+
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTICULO 67.
 
-El Centro Estatal de Trasplantes trabajará coordinadamente con el Consejo Nacional de Trasplantes, en el fomento y promoción de la cultura de donación.
+El Centro Estatal de Trasplantes participará con el Consejo Nacional de Trasplantes, en el fomento y promoción de la cultura de donación, y le proporcionará la información correspondiente del Estado, en los términos de los acuerdos de coordinación respectivos.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1317,7 +1323,7 @@ III. Fomento sanitario, y
 
 > <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2012)</small>
 
-IV. Programas tendientes a erradicar la discriminación y la violencia de género.
+IV Programas tendientes a erradicar la discriminación y la violencia de género.
 
 ### CAPITULO II. Enfermedades Transmisibles
 
@@ -3840,3 +3846,9 @@ P.O. 25 DE AGOSTO DE 2012.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 15 DE SEPTIEMBRE DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
