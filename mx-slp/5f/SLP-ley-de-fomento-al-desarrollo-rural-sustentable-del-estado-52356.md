@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fomento-al-desarrollo-rural-sustentable-del-estado-52356
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-19"
-last_updated: "2012-08-25"
+last_updated: "2012-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE FOMENTO AL DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de San Luis Potosí, el martes 19 de septiembre de 2006.
 
@@ -107,9 +107,13 @@ XIV. Avicultura: la cría, reproducción, mejoramiento y explotación de las esp
 
 XV. Agricultura orgánica: es un sistema de producción en el cual se utilizan insumos naturales para producir alimentos libres de residuos tóxicos, mediante un programa de manejo que no daña y proteja al medio ambiente y la salud humana. No se incluye el uso de pesticidas, fertilizantes, ni otros productos de origen químico para producir;
 
-XVI. Actor: es un integrante ocasional de la cadena productiva que contribuye de manera indirecta, en la generación de valor con los instrumentos de apoyo del Estado y federales;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XVII. Agente: es un integrante de la cadena productiva que genera valor o productor, comercializador, industrial;
+XVI. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+XVII. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 XVIII. Alimento: conjunto de ingredientes, minerales, vitaminas, y otros compuestos (aditivos y suplementos), que mezclados conforman una dieta balanceada en su contenido nutrimental, destinada a cumplir con las necesidades alimenticias de un especie animal y fase productiva determinada;
 
@@ -137,9 +141,13 @@ XXIX. Comercialización: acciones tendientes a obtener condiciones favorables pa
 
 XXX. Condición de pastizal o agostadero: es el estado que presenta la vegetación del pastizal con respecto a la condición óptima, o establecida en el coeficiente de agostadero;
 
-XXXI. Control de movilización: es el proceso que incluye, previo a la movilización, la expedición de la guía de tránsito, del certificado zoosanitario, los dictámenes y constancias correspondientes; durante la movilización, la verificación física de animales, sus productos y subproductos, así como de los productos biológicos, químicos, farmacéuticos y alimenticios para uso en animales o consumo por éstos, con el fin primordial de evitar la diseminación de enfermedades de una zona a otra;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXXII. Constancia de origen de productos regulados fitosanitarios: es el documento que avala la sanidad de los productos a movilizar en el estado;
+XXXI. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+XXXII. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 XXXIII. CEFPP: Comité Estatal de Fomento y Protección Pecuaria;
 
@@ -147,11 +155,17 @@ XXXIV. CG-EM: Cromatografía de Gas Acoplado a un Espectrómetro de Masas;
 
 XXXV. CLAR: Cromatógrafo de Líquidos de Alta Resolución;
 
-XXXVI. Clenbuterol (clorhidrato): nombre químico: hidrocloro, 4 amino alfa [(Pert-butylamino)metil]- 3,5 diclorobenzil alcohol. Es un a (sic) adrenérgíco agonista receptor, potente bronquio dilatador, anabólico y agente lipolítico y repartidor que fomenta la producción de proteína y reduce la grasa. Prohibido su uso como promotor de la producción animal, debido a su efecto residual en los productos cárnicos que al consumirse ocasionan efectos negativos en la salud humana, originando un efecto tóxico que se manifiesta por un malestar general, trastornos de tipo cardiovascular y respiratorio que afectan su salud e, incluso, agrava el cuadro clínico de personas previamente afectadas, y en caso de complicación grave, sobrevenir la muerte;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXXVII. CLIC: Certificado Libre Clenbuterol;
+XXXVI. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-XXXVIII. COLIC: Constatación Libre de Clenbuterol;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+XXXVII. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+XXXVIII. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 XXXIX. Comercios (diversos de venta de productos cárnicos): establecimientos de autoservicio o especializados en la venta de carnes y subproductos, conservados en refrigeración o congelación;
 
@@ -161,13 +175,19 @@ XLI. Decantador: a quien se dedique a la purificación, refinación o exportaci�
 
 XLII. Empresas lecheras: a todas las personas físicas o morales legalmente constituidas o a las sociedades de hecho, con fundos denominados ranchos, establos o granjas lecheras formados por tierras propias, poseídas o arrendadas, con ganado lechero, edificaciones y maquinarias u otros implementos que se dediquen a la explotación de las razas mencionadas, y produzcan e industrialicen la leche y sus derivados;
 
-XLIII. Enfermedad: ruptura del equilibrio en la interacción entre un animal o vegetal, un agente biológico y el medio ambiente, que provoca alteraciones en las manifestaciones vitales del primero;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+XLIII. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 XLIV. Enjambre: conjunto de abejas compuestas por reina y obreras, que por proceso natural tienden a dividirse de la colmena madre;
 
-XLV. Enzootia: cualquier enfermedad del ganado que se manifiesta habitualmente o en épocas fijas, en determinadas regiones;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XLVI. Epizootia: enfermedad que acomete a una o varias especies de animales, por una causa general y transitoria, con una frecuencia o intensidad mayor a la normal;
+XLV. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+XLVI. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 XLVII. Equivalencias: para efectos de esta Ley un vientre bovino o unidad animal equivale a, una yegua, tres cerdas, seis cabras, cinco borregas, cien gallinas, cincuenta conejas y cinco colmenas de abejas.
 
@@ -179,11 +199,15 @@ XLIX. Especies menores: las aves, los conejos y las abejas, así como aquellas o
 
 L. Especies de peletería: aquéllas cuya piel sea susceptible de aprovecharse en la industria;
 
-LI. Establecimiento Tipo Inspección Federal (TIF): cualquier negociación o empresa facultada por la SAGARPA para sacrificar, conservar, beneficiar o aprovechar los ganados de abasto o sus carnes, productos o subproductos, en el que se observan los lineamientos vigentes sobre instalaciones, equipamiento y proceso sanitario de la carne;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+LI. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 LII. Establo: empresa pecuaria especializada en la cría, reproducción, mejoramiento, manejo y comercialización de ganado bovino lechero;
 
-LIII. Estación cuarentenaria: conjunto de instalaciones especializadas para el aislamiento de animales, donde se practican medidas zoosanitarias para prevenir y controlar la diseminación de enfermedades y plagas de los animales;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+LIII. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 LIV. Evaluación periódica de agostadero: proceso de vigilancia que permite observar los cambios en la condición del agostadero;
 
@@ -225,7 +249,9 @@ LXXII. Granja porcícola: la empresa pecuaria especializada en la cría, reprodu
 
 LXXIII. Ingrediente alimenticio: elemento que se integra en una dieta alimenticia que se caracteriza por su contenido nutrimental que puede ser de tipo energético, proteíco bajo o alto, fibroso y de origen animal o vegetal;
 
-LXXIV. Inocuidad alimenticia: alimentos de origen animal que garantizan un mínimo de riesgo de contaminación física, química o microbiológica de diversos productos y subproductos de origen animal, indicando que son sanos y no causan daño a la salud del consumidor, asegurando la calidad de los productos y favoreciendo su acceso al mercado regional, nacional e internacional;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+LXXIV. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 LXXV. Inspector certificador: profesional que tiene como actividad dar seguimiento a un proceso de vigilancia, verificación, inspección y toma de muestras del elemento crítico de constatación, en cada una de las etapas de un sistema de certificación;
 
@@ -253,13 +279,19 @@ LXXXVI. Mejoramiento del pastizal: son las prácticas de manejo tendientes a ele
 
 LXXXVII. Ordeña de campo: la que se hace fuera del establo;
 
-LXXXVIII. Organismos auxiliares en materia de sanidad animal y vegetal: aquéllas organizaciones de productores, comercializadores, agroindustriales responsables de la ejecución de los programas de sanidad animal y sanidad vegetal en el Estado;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+LXXXVIII. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 LXXXIX. Obrador: taller mecanizado o artesanal destinado a la producción de cortes de carne, al procesamiento de subproductos cárnicos, y venta directa y comercialización de sus productos;
 
-XC. Origen: en el caso de la producción primaria, se refiere a la unidad de producción pecuaria y el animal plenamente identificado, que es punto de partida hacia una movilización o proceso de transformación como es el rastro, donde es convertido especialmente en productos y subproductos alimenticios para el consumo humano, y requiere de un seguimiento estricto para poder establecer su trazabilidad y rastreabilidad;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XCI. Ovinocultor: la persona física o moral que se dedica a la cría, reproducción, mejoramiento y explotación de los ovinos o borrega (sic);
+XC. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+XCI. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 XCII. Ovinocultura: la cría, reproducción, mejoramiento y explotación de los ovinos o borregos;
 
@@ -283,7 +315,9 @@ CI. Producción pecuaria: es el conjunto de actividades relacionadas con las acc
 
 CII. Pradera: es el agostadero constituido mediante la siembra y cultivo de especies mejoradas o inducidas;
 
-CIII. Punto de Verificación e Inspección (PVI): instalación fija o móvil, ubicada en sitio estratégico para la vigilancia de la movilización fitozoosanitaria, para proteger, conservar e incluso favorecer el estatus de las campañas oficiales de erradicación de plagas y enfermedades;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+CIII. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 CIV. Plaga: presencia de un agente biológico en una área determinada, que causa enfermedad o alteración en la salud de la población vegetal;
 
@@ -295,15 +329,25 @@ CVII. Productor de leche: la persona física o moral que se dedique a la explota
 
 CVlII. RAPE: rastro prototipo estatal, son plantas operativas que implican las cinco especies domesticas productivas como son, bovinos, caprinos, ovinos, pórcinos y equinos, las cuales son procesadas para su transformación, aprovechamiento de residuos, despojos, conservación, distribución y función primordial de obtención de productos y subproductos carnicol destinados para el consumo humano y derivados para consumo animal, debiendo cumplir con las especificaciones sanitarias y de proceso de acuerdo a la normatividad federal, estatal, y de inocuidad y calidad nutrimental establecidas, debiéndose asegurar la trazabilidad, tanto de los animales, como de los derivados carnicol producidos;
 
-CIX. Rastreabilidad: proceso que permite dar seguimiento a un problema epidemiológico que requiere darle seguimiento para determinar la causa, debiendo seguir un sistema retrospectivo que permite garantizar la ubicación de cada sector de la movilización, desde el consumidor hasta el sitio y causa que originó el problema;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-CX. Rastro: establecimiento donde se da el servicio de sacrificio de animales para la alimentación y comercialización al mayoreo de sus productos;
+CIX. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-CXI. Sanidad agropecuaria (animal y vegetal): al conjunto de acciones y medidas orientadas a la prevención, control y erradicación de las plagas y enfermedades que afectan a los animales y las plantas;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-CXII. Señal de sangre: son cortes, incisiones o perforaciones que se hacen en las orejas del ganado mayor y menor;
+CX. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-CXIII. Subproducto animal: el que se deriva de un producto pecuario;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+CXI. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+CXII. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+CXIII. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 CXIV. SAGARPA: Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, de la administración pública federal;
 
@@ -315,17 +359,29 @@ CXVII. SEMARNAT: Secretaría del Medio Ambiente y Recursos Naturales, de la admi
 
 CXVIII. SEIPP: Sistema Estatal de Identificación de Propiedades Pecuarias;
 
-CXIX. SICELIC: Sistema de Certificación Libre de Clenbuterol;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+CXIX. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 CXX. SSSLP: Servicios de Salud del Estado de San Luis Potosí;
 
-CXXI. Tatuaje: son los dibujos, números o signos que se graban en la piel del ganado mayor, mediante el uso de substancias químicas;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-CXXII. TIF: Tipo Inspección Federal, las instalaciones en donde se sacrifican animales o procesan, envasan, empacan, refrigeran, o industrializan bienes de origen animal, y están sujetas a la regulación de la Secretaría, en coordinación, con la Secretaría de Salud, de acuerdo al ámbito de competencia de cada secretaría, y cuya certificación es a petición de parte;
+CXXI. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-CXXIII. Tóxico: sustancia que por contacto, ingesta o inoculación resulta dañino, destructivo o aún letal para las funciones de un organismo vivo;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-CXXIV. Trazabilidad: proceso que permite darle seguimiento a un animal, producto o subproducto pecuario, mediante un sistema en el que se registran las etapas de su movilización, desde el origen hasta el destino final que generalmente es el consumido, y
+CXXII. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+
+CXXII (SIC). Tóxico: sustancia que por contacto, ingesta o inoculación resulta dañino, destructivo o aún letal para las funciones de un organismo vivo, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+CXXIV. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 CXXV. Zona libre: área geográfica determinada en la cual se ha eliminado o no se han presentado casos positivos de una enfermedad o plaga específica, durante un periodo preciso, de acuerdo con las normas oficiales y las medidas zoosanitarias y fitozoosanitarias que la autoridad competente establezca.
 
@@ -477,9 +533,11 @@ XXIII. Verificar que los subsidios sean orientados a elevar la productividad, la
 
 XXIV. Las demás que señalen las leyes y reglamentos aplicables al sector rural.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### ARTICULO 10.
 
-Corresponde a la Secretaría General de Gobierno, a través de su Dirección General de Seguridad Pública, además de las atribuciones que le confiere La Ley Orgánica de la Administración Pública Estatal, coordinarse con la SEDARH, a efecto de que se asegure que la movilización por el territorio del Estado, de animales y vegetales, sus productos y subproductos así como el control de plagas y enfermedades derivados de dicha movilización, se efectúe con estricto apego a la normatividad aplicable.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 ###### ARTICULO 11.
 
@@ -567,21 +625,35 @@ XL. Fomentar y promover la capacitación técnica, empresarial y administrativa 
 
 XLI. Realizar y mantener actualizado los estudios técnicos sobre aptitud productiva, clasificación de los recursos naturales y centros de intercambio económico.
 
-XLII. Determinar las bases y condiciones de la movilización de animales, plantas, productos y subproductos agropecuarios, acuícolas y avícolas, incluyendo la expedición de las guías de tránsito y en su caso, de los certificados sanitarios necesarios para dicha movilización, de acuerdo a las leyes, normas y acuerdos vigentes;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+XLII. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 XLIII. En coordinación con los ayuntamientos, la SAGARPA y las organizaciones de productores, llevar el censo ganadero del Estado; así como la identificación de los hatos y rebaños, además de las estadísticas en relación con el desarrollo de la industria agropecuaria en la Entidad;
 
-XLIV. Formular, en coordinación con las autoridades federales y municipales competentes, en los casos en que la situación así lo amerite, la declaración preliminar de aparición de plagas y enfermedades que afecten a los animales, plantas y predios y emitir las medidas de carácter zoosanitario de emergencia necesarias para combatirlas y erradicarlas;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XLV. Implementar, en su caso, las medidas de carácter fitozoosanitario y de control de movilización autorizadas para impedir el ingreso y diseminación de las plagas y enfermedades que afecten a los animales y las plantas en coordinación con las autoridades federales competentes;
+XLIV. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-XLVI. Participar con otras instituciones federales, estatales y municipales, en el control sanitario de rastros y establecimientos similares;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XLVII. Organizar y dirigir los servicios de vigilancia, inspección y control de movilización de animales, vegetales sus productos y subproductos en el Estado;
+XLV. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-XLVIII. Establecer, en coordinación con las organizaciones de productores agrícolas y ganaderos y de transportistas, las rutas de movilización agropecuaria;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XLIX. Ordenar inspecciones en explotaciones agropecuarias, rastros y establecimientos similares, lugares de exhibición y de comercialización de animales, vegetales, productos y subproductos de origen agropecuario, a efecto de constatar que se cumplan las disposiciones contenidas en esta Ley, su Reglamento y las demás aplicables;
+XLVI. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+XLVII. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+XLVIII. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+XLIX. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 L. Celebrar, en coordinación con las organizaciones de productores, patronatos y autoridades municipales, exposiciones, concursos, subastas y eventos agrícolas, ganaderos similares, de conformidad con la legislación aplicable;
 
@@ -601,7 +673,9 @@ LVII. Crear el Consejo Estatal para la Agricultura Orgánica;
 
 LVIII. Llevar un registro base de productores que se encuentran realizando actividades propias del proceso de transición. Los productores voluntariamente podrán adherirse a este registro el cual no podrá extenderse por un periodo mayor a tres años;
 
-LIX. Llevar el registro de los laboratorios públicos y privados, que realicen análisis de productos agropecuarios orgánicos e insumos para su producción, previa acreditación conforme las regulaciones establecidas por ésta;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+LIX. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 > <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
 
@@ -619,17 +693,17 @@ LXII. Determinar y aplicar las sanciones que se deriven del incumplimiento de es
 
 LXIII. Las demás que señalen las leyes y reglamentos aplicables al sector agropecuario.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### ARTICULO 12.
 
-Corresponde a la Procuraduría General de Justicia del Estado, a través de la Policía Ministerial, además de las atribuciones que le confiere La Ley Orgánica de la Procuraduría General de Justicia, coordinarse con la SEDARH, a efecto de que se asegure que la movilización por el territorio del Estado, de animales y vegetales, sus productos y subproductos así como el control de plagas y enfermedades derivadas de dicha movilización, se efectúe con estricto apego a la normatividad aplicable.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 13.
 
-Corresponde a la Secretaría Estatal de Salud, además de las atribuciones que le confiere la Ley de Salud para el Estado de San Luis Potosí:
-
-I. Coordinarse con la SEDARH, a efecto de que se asegure que la operación de mercados, centros de abasto, rastros y establecimientos similares, así como el control de plagas y enfermedades derivados de la operación de dichos establecimientos, se efectúe con estricto apego a la normatividad aplicable, y
-
-II. Coordinarse con la SEDARH en el establecimiento e implementación de estrategias conjuntas para combatir las zoonosis que se detecten en la entidad.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 > <small>(REFORMADO, P.O. 17 DE ABRIL DE 2008)</small>
 
@@ -669,7 +743,9 @@ VIII. Coadyuvar con las autoridades estatales en la determinación de disposicio
 
 IX. Coadyuvar en la vigilancia de las áreas naturales protegidas de jurisdicción estatal o federal;
 
-X. Participar en la vigilancia del cumplimiento de las disposiciones y acuerdos vigentes en materia de movilización de animales, vegetales, sus productos y subproductos, así como de todos los aspectos relativos a la sanidad agropecuaria e intervenir en los casos en que ésta y otras leyes le señalen;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+X. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 XI. Difundir los planes, programas y acciones que coadyuven al desarrollo rural sustentable del municipio;
 
@@ -677,7 +753,9 @@ XII. Remitir a la SEDARH, para que le sea otorgado el folio de registro estatal 
 
 XIII. Posterior a la recepción del folio de registro estatal por parte de la SEDARH, expedir, revalidar, cancelar y llevar el registro municipal de los títulos de marca de herrar, señal de sangre o tatuaje y patente del productor, así como autorizar y registrar, en su caso, la traslación de dominio de los derechos que amparan estos documentos;
 
-XIV. Vigilar que en los rastros y centros de sacrificio se aplique la inspección del ganado antes y después de su sacrificio, comprobando los fierros y señales de los animales con los que aparezcan en los documentos comprobatorios de propiedad, de traslado y de sanidad de los mismos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+XIV. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 XV. En el caso de Planes de Desarrollo Municipal ya formulados y ante el cambio de administración, deberán ser validados por los productores y el Comité de Desarrollo Rural Municipal;
 
@@ -687,33 +765,21 @@ XVII Diseñar y llevar el control de las marcas para ventear el ganado mostrenco
 
 XVIII. Comunicar a la organización ganadera de la localidad y autoridades de los municipios circunvecinos, el extravío de los animales comprendidos en esta ley;
 
-XIX. Corresponde autorizar el funcionamiento de los rastros y establecimientos similares, oyendo la opinión de las autoridades correspondientes;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XX. Llevar en los rastros un libro de control para el sacrificio de animales que contenga los siguientes requisitos:
+XIX. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-a) Los datos del documento que acredite la propiedad.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-b) Descripción de los animales que se sacrifiquen.
+XX. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-c) Fierros y señal de cada animal.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-d) Lugar de procedencia.
+XXI. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-e) El número y la fecha de los certificados zoosanitarios y otras.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-f) El nombres (sic) de la autoridad, agrupación o persona acreditada que haya expedido los documentos a que se refiere el inciso anterior.
-
-g) Nombre del vendedor y del comprador.
-
-h) Fecha del sacrificio.
-
-i) El monto del impuesto que se pagó por degüello.
-
-j) Aquellos otros que considere conveniente.
-
-XXI. Proporcionar la información que soliciten por escrito las personas físicas o morales, del sacrificio de los animales que se realicen en los rastros municipales;
-
-XXII. Comunicar de inmediato a la SEDARH, la presencia de cualquier plaga o enfermedad;
+XXII. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 XXIII. Vigilar y proveer el buen funcionamiento del desarrollo agrícola en el municipio;
 
@@ -725,13 +791,11 @@ XXVI. Gestionar ante el ejecutivo estatal, la ejecución de acciones tendientes 
 
 XXVII. Las demás que esta ley, su Reglamento y las Leyes respectivas le otorguen.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### ARTICULO 17.
 
-Corresponde a los cuerpos de seguridad pública municipal, en coordinación con la SEDARH:
-
-I. La implementación de operativos orientados al control del abigeato, de movilización agropecuaria, de sanidad animal, vegetal, y
-
-II. Retirar del derecho de vía, el ganado mayor o menor que paste en esta superficie y depositario en los corrales del municipio o de la Asociación Ganadera local.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 ###### ARTICULO 18.
 
@@ -739,9 +803,13 @@ Corresponde a los Delegados y autoridades en congregaciones, comunidades y ranch
 
 I. Vigilar el exacto cumplimiento de esta Ley, dando cuenta al Presidente Municipal de las infracciones que se lleguen a cometer, para que se impongan, en su caso, las sanciones que correspondan;
 
-II. Comunicar de inmediato a las autoridades competentes que correspondan la presencia de cualquier plaga o enfermedad que afecte a los animales o a las plantas, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III. Reportar de inmediato a las autoridades competentes que correspondan, el sacrificio clandestino de animales.
+II. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+III. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 ## TITULO TERCERO. DEL DESARROLLO RURAL
 
@@ -1231,269 +1299,265 @@ Con la finalidad de optimizar la producción agrícola en la entidad, la SEDARH,
 
 ### CAPITULO II. De la Sanidad Vegetal y el Control Fitosanitario
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### ARTICULO 73.
 
-Es obligatorio, la prevención, control y erradicación de las plagas y enfermedades, así como los convenios de campañas fitosanitarias que se lleven a cabo con las Autoridades Federales competentes y que se realicen en el Estado para el mismo fin.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 74.
 
-El Ejecutivo del Estado, por sí mismo, o a través de la SEDARH, podrá celebrar convenios de coordinación o colaboración con las autoridades Federales, Estatales y Municipales competentes, a efecto de llevar a cabo la operación de programas y campañas fitosanitarias.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 75.
 
-Los propietarios o arrendatarios de los diferentes predios dedicados a las explotaciones agrícolas y frutícolas comerciales y de auto consumo, tienen la obligación de registrar sus predios, así como realizar todas las acciones de la tarjeta de manejo integrado de plagas, de acuerdo a lo que se establece en las normas mexicanas.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 76.
 
-No podrán entrar al Estado vegetales, productos y subproductos, procedentes de otras entidades en las que esté comprobada la existencia de una plaga que represente un riesgo a la condición fitosanitaria de una región o del estado, salvo la presentación de la documentación comprobatoria sanitaria.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 77.
 
-La SEDARH, en coordinación con las dependencias federales, municipales, organismos auxiliares de sanidad vegetal y organizaciones no gubernamentales, promoverá la vigilancia y el control de aspectos fitosanitarios en la producción, industrialización, comercialización y movilización de vegetales, sus productos y subproductos.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 78.
 
-La SEDARH, en coordinación con las dependencias federales, municipales y organismos auxiliares de sanidad vegetal establecerá las disposiciones fitosanitarias que se deberán realizar para la prevención, detección, manejo, eliminación o destrucción de focos de infestación de plagas que representen riesgo para la agricultura y fruticultura.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 79.
 
-Se consideran focos de infestación todas aquellas áreas, unidades o espacios en los que las condiciones climáticas prevalecientes, falta de atención, condiciones favorables para su desarrollo y amplio rango de hospederos, que influyen para la proliferación de las siguientes plagas:
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-I. Barrenillo del chile (Anthonomus eugenii);
-
-II. Broca del café (Hypothenemus hampei);
-
-III. Carbón volador (Ustilago tritici);
-
-IV. Carbón de la espiga del maíz (Sphacelotheca reiliana);
-
-V. Chapulín (Brachystola sp., Melanoplus sp. y Sphenarium sp.);
-
-VI. Gusano del corazón de la col (Copitarsia consueta);
-
-VII. Gusano rosado (Pectinophora gossypiella);
-
-VIII. Gusano soldado (Mithymna unipuncta y Spodoptera exigua);
-
-IX. Moscas de la fruta (Anastrepha sp., Rhagoletis sp. y Toxotrypana sp.);
-
-X. Mosquita blanca (Bemisia argentifolii, B. tabaci, Trialeurodes vaporariorum;
-
-XI. T. abutilonea, Tetraleurodes ursorum y Aleurothrixus floccosus);
-
-XII. Paratrioza (Paratrioza cockerelli);
-
-XIII. Palomilla del nopal (Cactoblastis cactorum);
-
-XIV. Palomilla dorso de diamante (Plutella xylostella);
-
-XV. Picudo del algodonero (Anthonomus grandis);
-
-XVI. Pulgón café de los cítricos (Toxoptera citricida);
-
-XVII. Pulgón saltador (Paratrioza cockerelli);
-
-XVIII. Rata de campo (Ratus rattus, Ratus norvergicus y Sigmodon hispidus);
-
-XIX. Roya de la hoja de trigo (Puccinia recondita f.s.p tritici), y
-
-XX. Virus tristeza de los cítricos (Closterovirus).
-
-Asimismo, podrán ser incluidas otras plagas que la SEDARH considere como un riesgo fitosanitario, previa evaluación (sic) determine.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 80.
 
-La SEDARH, a través de las delegaciones municipales y del Organismo Auxiliar de Sanidad Vegetal que corresponda, con base en la evaluación del riesgo fitosanitario que representen las plagas, serán los responsables de determinar las medidas preventivas a instrumentar.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 81.
 
-En los cultivos agrícolas y frutícolas, donde para evitar focos de infestación, se utilice como principal estrategia el uso de material tolerante a la plaga, el productor deberá presentar a la Secretaría, a través de las delegaciones municipales u Organismos Auxiliares de Sanidad Vegetal, la notificación del inicio de siembra. Para el caso de cultivos anuales la notificación deberá efectuarse 10 días antes del inicio del periodo de siembras, autorizado por la SAGARPA y SEDARH.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-En el caso de frutales, la notificación de siembra se presentará por única vez, 10 días antes del establecimiento de la plantación.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 82.
 
-La SEDARH se coordinara con los Organismos Auxiliares de Sanidad Vegetal, para realizar las acciones de vigilancia fitosanitaria, mediante actividades de muestreo, detección, diagnóstico y capacitación a fin de prevenir focos de infestación.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-Los Organismos Auxiliares de Sanidad Vegetal bajo la coordinación de la SEDARH, serán los responsables de determinar los focos de infestación y de solicitar al productor o usufructuario, la aplicación de medidas fitosanitarias para la eliminación de focos de infestación, mediante barbecho, poda sanitaria, tratamientos químicos, recolección y destrucción de los vegetales, sus productos o subproductos, entre otras medidas, en caso de negativa por parte del productor o usufructuario, el Organismo Auxiliar de Sanidad Vegetal ejecutará las medidas correspondientes para salvaguardar la fitosanidad regional. Los gastos serán a cargo del propietario o usufructuario del huerto o parcela.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 83.
 
-La SEDARH, a través de los organismos auxiliares de sanidad vegetal determinará los casos en que sea necesario realizar la eliminación de residuos de cosecha, por ser considerados focos de infestación, así como el periodo de realizarla.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 84.
 
-La SEDARH, a través de los Distritos de Desarrollo Rural, en coordinación con los productores constituidos en Organismos Auxiliares de Sanidad Vegetal y productores independientes, establecerán los periodos de fechas de siembra o de veda, de acuerdo con las condiciones del manejo del cultivo en riesgo.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 85.
 
-La SEDARH a través de los organismos auxiliares, regulará la movilización de plantas productos y subproductos, hospederos de las plagas mencionadas en el artículo 79 a través de un documento único de movilización denominado constancia de origen de productos regulados fitosanitariamente, sólo cuando las especies de las plagas presentes en el lugar de origen no se encuentren en el lugar de destino.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 86.
 
-La SEDARH en coordinación con las autoridades federales competentes y con las organizaciones de productores agrícolas, establecerá Puntos de Verificación e Inspección, fijas y móviles, así como Volantas en puntos estratégicos, las que tendrán, entre otras facultades, la de revisar y controlar la documentación que ampare la movilización y la sanidad de los plantas vegetales, sus productos y subproductos.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 87.
 
-Toda movilización de vegetales, sus productos y subproductos que se realicen en el Estado, se deberán amparar con la constancia de origen de productos regulados fitosanitariamente, que la SEDARH, a través de los organismos auxiliares de sanidad vegetal expide para este fin, a solicitud del productor o transportista y previo reconocimiento de los productos a movilizar, así como observar las disposiciones federales, estatales y sus reglamentos en materia de movilización y sanidad.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-Corresponde a los propietarios de productos vegetales a movilizar, ofertarlos acompañados de la totalidad de la documentación necesaria para amparar dicha movilización, de acuerdo a las disposiciones federales, estatales y sus reglamentos en materia de movilización y sanidad.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 88.
 
-La constancia de origen de productos regulados fitosanitariamente, será expedida únicamente por la SEDARH, quien podrá auxiliarse para el manejo de dicho documento, por los Organismos auxiliares de sanidad vegetal, previa celebración de convenios para este fin.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 89.
 
-La constancia de origen de productos regulados fitosanitariamente, deberá contener al menos los datos siguientes:
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-I. Nombre y datos del productor y comprador (dueño de los productos o subproductos) y huerto o lugar de procedencia, para identificar adecuadamente la unidad de producción o lugar de origen;
-
-II. Características del vehículo que transporta los productos vegetales;
-
-III. Nombre del conductor;
-
-IV. Nombre y datos del centro de embarque o reembarque, o lugar de destino;
-
-V. Unidad de Medida y peso en toneladas, numero de cajas o costalera de productos o subproductos que se movilicen;
-
-VI. Especie y variedad;
-
-VII. Folio del La (sic) constancia de origen de productos regulados fitosanitariamente;
-
-VIII. Tarjeta de manejo integrado;
-
-IX. La fecha de expedición de la constancia de origen de productos regulados fitosanitariamente;
-
-X. La fecha de vencimiento de la constancia de origen de productos regulados fitosanitariamente, y
-
-XI. Los demás datos y documentos que la SEDARH considere necesarios de acuerdo a la situación fitosanitaria del Estado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 90.
 
-La constancia de origen de productos regulados fitosanitariamente, serán expedidas por la SEDARH en forma gratuita, solo se aplicara el costo de recuperación de la impresión. Los productores agrícolas podrán aprovechar el momento de su expedición, para realizar sus aportaciones gremiales, así como sus participaciones a los programas fitosanitarios, previo acuerdo de sus órganos directivos.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 91.
 
-Los productores y transportistas podrán amparar la movilización de vegetales, productos y subproductos desde la unidad de producción hasta el lugar en que se encuentre la oficina expedidora de la constancia de origen de productos regulados fitosanitariamente más cercana, con el documento llamado «tarjeta de manejo integrado», la cual será llenada por el técnico responsable del cultivo y deberá contener la firma y sus datos.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 92.
 
-La constancia de origen de productos regulados fitosanitariamente, salvo autorización expresa de lo contrario por parte de la SEDARH, será extendida en la jurisdicción donde se ubique la unidad de producción origen de los vegetales productos o subproductos, una vez que el solicitante compruebe ser el productor o comprador.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-Dicha constancia tendrá una vigencia de 3 días naturales, a partir de la fecha de su expedición. Asimismo, en su caso, se deberá de señalar, nombre, firma del técnico responsable y sello del organismo auxiliar autorizado para expedir la constancia de origen de productos regulados fitosanitariamente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 93.
 
-Es responsabilidad del propietario o transportista, que la movilización de los productos y subproductos de origen vegetal, se realice al destino manifestado en la constancia de origen de productos regulados fitosanitariamente, cualquier causa que lo modifique o impida la movilización deberá comunicarse al Punto de Verificación e Inspección más próxima, y por este conducto a la SEDARH, en un plazo no mayor de 12 horas, para los efectos legales procedentes.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-Los propietarios y transportistas que no acaten lo anterior, se hará acreedor a las sanciones que se establezcan en esta ley y su reglamento.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 94.
 
-Cuando los productos y subproductos transiten sin la constancia de origen correspondiente de productos regulados fitosanitariamente, o los datos que en ella se asienten no concuerden con los productos o subproductos de que se trate, serán remitidos al lugar de origen hasta que el transportista acredite satisfactoriamente la legal propiedad de los mismos, no podrán ingresar al estado o circular por el mismo. Lo anterior, sin demérito de las sanciones a las que se haga acreedor en los términos de la presente ley y demás disposiciones aplicables. Así mismo se debe considerar lo siguiente:
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-l. La movilización de productos o subproductos en dos o más unidades de transporte, requerirá constancia por separado;
-
-II. La movilización de productos y subproductos vegetales en una sola unidad pero con dos o más destinos, deberá llevar una constancia para cada destino;
-
-III. La movilización de dos o más productos de vegetales de diferentes especies en una sola unidad deberá transportarse de acuerdo a lo establecido en la normatividad de movilización vigente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 95.
 
-Para la movilización de productos vegetales destinado (sic) a la industria, el original de la constancia de origen de productos regulados fitosanitariamente, invariablemente deberán ser exhibidos para su cancelación en la industria de destino.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 96.
 
-Todos los vehículos que transporten, que internen vegetales productos y subproductos, en los casos en que así lo establezcan las Normas Oficiales Mexicanas, deberán someterse a un proceso de desinfección o fumigación, con el fin de reducir el riesgo de infestar con plagas y enfermedades los predios agrícolas del Estado, de no cumplirse este requisito, no se les permitirá el ingreso al territorio del Estado.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 97.
 
-Las empresas de transporte en general, por ningún motivo embarcarán vegetales, sus productos y subproductos, si no están amparados por la documentación que autorice la movilización respectiva.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 98.
 
-Si algún transportista evadiera, voluntaria o involuntariamente el punto de verificación e inspección fitosanitaria, se hará acreedor a la sanción correspondiente, además deberá ser regresado al mismo, para la verificación rutinaria de la documentación correspondiente, ya sea por los inspectores agrícolas o bien con el apoyo de la fuerza pública.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 99.
 
-Cuando el transportista no se hubiere detenido en un punto de verificación e inspección fitosanitaria, y una vez interceptado se niegue a detenerse, regresar al punto de verificación e inspección o entregar la documentación correspondiente al inspector agrícola, la carga y el vehículo serán detenidos, sin responsabilidad para el inspector o las autoridades involucradas, para realizar las averiguaciones correspondientes.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 100.
 
-Queda prohibido la introducción de desechos agrícolas o de productos y subproductos al territorio estatal.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 101.
 
-La SEDARH y los organismos auxiliares de sanidad vegetal, distritos de desarrollo rural, unidades de verificación, deben vigilar y hacer cumplir los objetivos y las disposiciones establecidas en la presente ley.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 102.
 
-La SEDARH, en coordinación con las autoridades federales y municipales competentes, los organismos auxiliares en materia de sanidad vegetal y organizaciones no gubernamentales, participará en el establecimiento y desarrollo de las campañas fitosanitarias y en la operación de las estaciones cuarentenarias y puntos de verificación interna, que se establezcan para el cumplimiento de las medidas fitosanitarias que establecen la ley Federal de Sanidad Vegetal, las Normas Oficiales Mexicanas, la presente ley y los demás acuerdos aplicables en el territorio estatal.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 103.
 
-La EDARH vigilará dentro de los límites del Estado, la movilización y venta al público de productos y subproductos agrícolas, a efecto de detectar la introducción de productos de desecho o contrabando, como una medida de protección a la producción local y para evitar la introducción de plagas que pudieran afectar a los cultivos o a la salud humana.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 104.
 
-Se tomará igual medida que en el Artículo anterior para la producción local, que pretenda ser movilizada de una región a otra del Estado, o fuera de él y que pudiera representar peligro de contaminación, diseminación o dispersión de plagas vegetales.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 105.
 
-La SEDARH, en coordinación con las dependencias e instituciones públicas o privadas relacionadas con la sanidad vegetal, establecerá y operará un sistema estatal de información fitosanitaria.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 106.
 
-La SEDARH coadyuvará con la autoridad federal competente, para que los viveros, huertos, empacadoras, almacenes, aserraderos, industrias, transportes, patios de concentración y demás establecimientos agrícolas, cumplan con los requisitos fitosanitarios, para evitar la contaminación, diseminación o dispersión de plagas de los vegetales.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 107.
 
-La SEDARH coadyuvará con las dependencias federales, estatales y municipales competentes, para vigilar el cumplimiento del buen uso y manejo de plaguicidas e insumos de nutrición vegetal, que pudieran implicar un riesgo para la salud humana o animal, para lo cual se constituirá un órgano estatal de consulta en materia de sanidad vegetal.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 108.
 
-La SEDARH promoverá convenios con los productores, comercializadores e industrializadores, para captar recursos con el propósito de apoyar campañas fitosanitarias, así mismo se promoverá la participación con instituciones y productores para la investigación y transferencia de tecnología.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 109.
 
-La SEDARH coadyuvará con la SAGARPA, para que de acuerdo a su normatividad, se sancione a aquellos productores que no cumplan con las normas oficiales, por las que (sic) establecen las campañas de sanidad vegetal.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 110.
 
-La SEDARH impulsará la participación con instituciones y productores para desarrollar las acciones necesarias para la difusión, investigación, transferencia de tecnología para la prevención y control de plagas de vegetales.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 111.
 
-Es obligación de los productores agrícolas, acatar las medidas profilácticas y curativas que se establezcan para evitar una mayor incidencia, dispersión y diseminación de las plagas.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 ### CAPITULO III. Del Consejo Estatal Fitosanitario
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### ARTICULO 112.
 
-El Consejo Estatal Consultivo Fitosanitario será el órgano estatal de consulta en materia de sanidad vegetal, que apoyará a la SEDARH en la formulación, desarrollo y evaluación de las medidas fitosanitarias.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 113.
 
-El consejo estatal consultivo fitosanitario se integrará con representantes de la SEDARH y de las dependencias de la administración pública estatal vinculadas con la sanidad vegetal, así mismo, la SEDARH invitará a formar parte a dicho consejo a:
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-I. Representantes de organizaciones de productores y propietarios rurales y agrícolas;
-
-II. Representantes de organizaciones académicas, científicas y gremiales de representación estatal vinculadas con la materia de sanidad vegetal, y
-
-III. Personas del sector social y privado de reconocido prestigio en materia fitosanitaria.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 114.
 
-El consejo estatal consultivo fitosanitario se coordinará con los consejos consultivos federales.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-La organización, estructura y funciones del consejo estatal consultivo fitosanitario se llevará de acuerdo a lo que establece el reglamento de esta Ley.
-
-La SEDARH brindará la asesoría técnica que la materia requiera a los productores a través de los organismos auxiliares.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 115.
 
-Los interesados en la movilización de vegetales sus productos y subproductos en el interior del estado, deberán comprobar su procedencia mediante certificado de origen expedido por el organismo auxiliar correspondiente.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 ## TITULO SEXTO. DISPOSICIONES PRELIMINARES
 
@@ -2341,41 +2405,23 @@ II. Si al término del plazo que establece el inciso anterior no acude o compare
 
 ### CAPITULO XXI. De los Organismos de Cooperación
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### ARTICULO 249.
 
-Se establecen como organismos de cooperación para aplicar y vigilar el cumplimiento de esta Ley:
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-I. Los Comités legalmente constituidos y reconocidos por la SEDARH para la ejecución de acciones en materia de sanidad animal, vegetal, acuícola, y control de movilización pecuaria.
-
-Los Comités son organismos de cooperación en materia de sanidad animal, y están constituidos por gobiernos, productores o sus organizaciones que, sin ser parte de una organismo ganadero conforme a la Ley de Organizaciones Ganaderas, fomentan o protegen la actividad pecuaria en el estado de forma no lucrativa y son de manera enunciativa, mas no limitativa: el Comité para el Desarrollo y Protección Pecuaria del Estado de San Luis Potosí;
-
-II. Las organizaciones de productores pecuarios legalmente constituidas y reconocidas de acuerdo a la Ley de Organizaciones Ganaderas y su Reglamento;
-
-III. Las asociaciones o colegios de profesionales vinculados con la ganadería, y
-
-IV. Las instituciones de enseñanza media, superior y de investigación agrícola, pecuaria.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 250.
 
-Corresponde a los organismos de cooperación en materia de sanidad animal y control de movilización pecuaria, en coordinación con la SEDARH:
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-I. Llevar a cabo la ejecución de las campañas zoosanitarias, que se implementen en la entidad, en apego a la normatividad federal y estatal aplicable;
-
-II. Difundir, entre sus agremiados, las acciones realizadas en las campañas zoosanitarias, con el propósito de lograr una mayor participación en las mismas de los productores;
-
-III. Vigilar el cumplimiento de las disposiciones en materia de sanidad animal e intervenir en los casos que ésta y otras leyes lo señalen, y
-
-IV. Comunicar de inmediato a la SEDARH, la presencia de cualquier plaga o enfermedad.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 251.
 
-Corresponde a las organizaciones de productores pecuarios, a las asociaciones o colegios de profesionales, vinculados con la ganadería y a las instituciones de enseñanza media, superior y de investigación pecuaria, en coordinación con la SEDARH:
-
-I. Comunicar de inmediato a la SEDARH, la presencia de cualquier plaga;
-
-II. Vigilar el cumplimiento de las disposiciones en materia de sanidad animal e intervenir en los casos que ésta y otras leyes lo señalen, y
-
-III. Difundir, entre los productores, las acciones realizadas en las campañas zoosanitarias, con el propósito de lograr una mayor participación en las mismas de los productores.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 ## TITULO SEPTIMO. DE LA MOVILIZACION DE ANIMALES, PRODUCTOS Y SUBPRODUCTOS DE ORIGEN AGROPECUARIO
 
@@ -2423,339 +2469,299 @@ En el caso que el dueño o encargado de arrear el ganado dentro de un predio, in
 
 ### CAPITULO II. De los Verificadores y el Servicio de Verificación Ganadera
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### ARTICULO 262.
 
-La verificación del ganado, sus productos y subproductos es obligatoria y tiene por objeto, la comprobación de su propiedad y procedencia, del cumplimiento de los requisitos sanitarios y de las demás disposiciones aplicables para su movilización, sacrificio e industrialización.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 263.
 
-Toda persona que traslade animales, sus productos y subproductos, deberá detenerse en los puntos de verificación e inspección, a efecto de acreditar la procedencia, propiedad y sanidad de los mismos, y poner a disposición de los verificadores zoosanitarios los animales, productos y subproductos y la documentación relativa a la movilización, con la finalidad de que se lleve a cabo la revisión y recibir el sello de tránsito correspondiente.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 264.
 
-La SEDARH llevará a cabo las acciones de verificación de los animales, sus productos y subproductos en el Estado, en coordinación con las autoridades federales competentes, y podrá ser asistida, previa la realización del convenio correspondiente, por los organismos auxiliares en materia de sanidad animal, que cuenten con el debido reconocimiento de las autoridades federales y estatales competentes.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 265.
 
-La verificación de los animales, sus productos y subproductos tendrá lugar:
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-l. En las unidades de producción;
-
-II. En los Puntos de Verificación Interna, cuando los animales, productos y subproductos agro pecuarios se hallen en tránsito;
-
-III. En los centros de sacrificio;
-
-IV. En los establos, tenerías, talabarterías y demás establecimientos en que se beneficien o comercialicen los animales, productos y subproductos de origen agropecuario, y
-
-V. En ferias, exposiciones, tianguis o cualquier evento donde se realicen concentraciones de ganado o se expendan productos, subproductos, esquilmos y desechos de origen animal.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 266.
 
-Para desempeñar el cargo como verificador ganadero se requiere.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-l. Ser Ciudadano Mexicano, en pleno ejercicio de sus derechos;
-
-II. Poseer los conocimientos necesarios en materia pecuaria y sanitaria, a juicio de la SEDARH, previa evaluación correspondiente;
-
-III. No tener antecedentes penales por delitos intencionales, y
-
-IV. Ser de reconocida honorabilidad.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 267.
 
-Son facultades y obligaciones de los verificadores ganaderos:
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-l. Vigilar el exacto cumplimiento de la presente Ley, así como de las disposiciones federales en materia de sanidad animal aplicables, y dar cuenta a las autoridades competentes de las infracciones que se cometan, para su sanción o las consignaciones que procedan;
-
-II. Vigilar que en los rastros o mataderos autorizados, se sacrifique únicamente a los animales que estén amparados por guías de tránsito y documentación zoosanitaria debidamente expedida;
-
-III. Revisar las guías y demás documentación de animales, productos y subproductos de origen agropecuario en tránsito, a fin de comprobar su legal procedencia y tránsito;
-
-IV. Detener los animales cuya procedencia legal no se compruebe, dando parte inmediatamente a la autoridad correspondiente, para que ésta proceda conforme a lo que establece la Ley;
-
-V. Notificar a la SEDARH y a las autoridades municipales, cuando en el transcurso de una movilización de animales, se encuentren animales orejanos o mostrencos;
-
-VI. Notificar a la SEDARH, de la aparición de enfermedades o plagas en los animales y ejecutar las medidas que dicten las autoridades sanitarias, para prevenir contagios e impedir la propagación de las mismas;
-
-VII. Revisar los corrales, establos y demás locales e instalaciones destinados al depósito y guarda de animales, a efecto de comprobar se observen las debidas condiciones de higiene y organización técnica, pudiendo igualmente revisar los animales a fin de comprobar que guarden las mejores condiciones de salud y vigor;
-
-VIII. Extender, en su caso, las constancias de verificación de animales, productos y subproductos de origen pecuario, haciendo constar el cumplimiento de los requisitos que señala esta ley;
-
-IX. Verificar que se elaboren correctamente las soluciones empleadas para la aplicación de tratamientos garrapaticidas, y
-
-X. Las demás que dispongan las autoridades correspondientes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 268.
 
-Las Autoridades Municipales y Ministeriales, auxiliarán en sus funciones a los verificadores ganaderos cuando éstos lo soliciten.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 269.
 
-De encontrarse alguna omisión o violación a los lineamientos establecidos al llevarse a cabo la verificación, el verificador levantará el acta correspondiente y procederá a retener o retornar los productos y subproductos que tuviesen la irregularidad, para la aplicación de las medidas cuarentenarias establecidas, poniéndolos de inmediato a disposición de la autoridad correspondiente, citando al propietario de los animales, productos y subproductos retenidos, para hacer valer lo que conforme a derecho corresponda.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-Si el interesado no se presentare, se le sancionará conforme a lo que disponen las leyes correspondientes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 270.
 
-En los sitios de la Entidad, en que no haya verificadores ganaderos, las autoridades municipales por sí o por medio del personal que designen, podrán desempeñar, previo acuerdo con la SEDARH, las funciones que a aquellos correspondan.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 ### CAPITULO III. De la Vigilancia, Transporte y Movilización de Animales
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### ARTICULO 271.
 
-La SEDARH, en coordinación con las autoridades federales competentes, con los organismos y comisiones formadas para manejar este componente y con las organizaciones de productores pecuarios, establecerá los Puntos de Verificación e Inspección, fijos y móviles (volantas), en puntos estratégicos, los que tendrán, entre otras facultades, la de expedir, revisar y controlar, tanto la documentación de tránsito, como la revisión y cumplimiento del control zoosanitario que ampare la movilización de los animales, sus productos y subproductos.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 272.
 
-Toda movilización de animales, sus productos y subproductos, que realicen los remitentes hacia fuera y en el interior de la Entidad, están obligadas a ampararse con la guía de tránsito que la SEDARH expide para este fin, a solicitud del remitente y previo reconocimiento de los bienes movilizados, así como observar las disposiciones federales, estatales, municipales y sus reglamentos en materia de movilización zoosanitaria.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-Corresponde a los remitentes de los animales a movilizar, que vayan acompañados de la totalidad de la documentación necesaria para amparar dicha movilización, de acuerdo a las disposiciones federales, estatales, municipales y sus reglamentos en materia de movilización y sanidad.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 273.
 
-La guía de tránsito será elaborada únicamente por la SEDARH, quien deberá auxiliarse para la expedición de dicho documento por centros expedidores autorizados, que comprenden las Uniones Ganaderas Regionales, las Asociaciones Ganaderas locales y especializadas.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 274.
 
-La Guía de Tránsito deberá contener al menos los datos siguientes:
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-l. Nombre, datos y lugar de origen del remitente y de la propiedad pecuaria
-
-II. Características del vehículo que transporta el ganado;
-
-III. Nombre del conductor;
-
-IV. Nombre, datos y lugar de origen del destinatario y de la propiedad pecuaria;
-
-V. Unidad de Medida y Número de animales, productos o subproductos que se movilicen;
-
-VI. Especie, clase y sexo de los animales
-
-VII. Fiel diseño de la, o las marcas de los semovientes;
-
-VIII. Folio del Certificado Zoosanitario;
-
-IX. En bovinos: folio del certificado con dictamen o constancia de Pruebas de Tuberculosis;
-
-X. Folio del certificado con dictamen o constancia de Pruebas de Brucelosis;
-
-XI. Folio del certificado con constancia de Baño contra Garrapata;
-
-XII. En Porcinos: folio del certificado con constancia de granja o piara libre de Aujeszky;
-
-XIII. En aves: Folio del certificado con constancia de granja o parvada libre de Influenza Aviar o prueba de laboratorio;
-
-XIV. En abejas: folio del certificado con constancia de Varroasis;
-
-XV. Motivo de la movilización;
-
-XVI. La Fecha de expedición de la Guía de Tránsito;
-
-XVII. La Fecha de vencimiento de la Guía de Tránsito, y
-
-XVIII. Los demás datos y documentos que la SEDARH considere necesarios de acuerdo a la situación zoosanitaria del Estado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 275.
 
-La SEDARH, autorizará mediante un convenio, la expedición gratuita de la guía de tránsito a los Comités, a las Uniones Ganaderas Regionales, a las Asociaciones Ganaderas locales y especializadas. Al momento de su expedición, las organizaciones autorizadas, previo acuerdo de sus correspondientes órganos directivos, podrán realizar los cargos de las aportaciones gremiales correspondientes y de contribución a las campañas zoosanitarias y sus componentes.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 276.
 
-Los remitentes y transportistas podrán movilizar animales, productos y subproductos desde la propiedad pecuaria de origen hasta el centro expedidor de origen y obtener la guía de tránsito correspondiente, amparándose en su trayecto, con la factura o cualquier documento que acredite la propiedad del semoviente, el producto o subproducto movilizado.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 277.
 
-La guía de tránsito, salvo autorización expresa de lo contrario por parte de la SEDARH, será expedida en la jurisdicción de origen donde se ubique la unidad de producción pecuaria, una vez que el solicitante compruebe ser el propietario de los animales, productos y subproductos pecuarios movilizados.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-Dicha guía tendrá una vigencia de 3 días naturales, a partir de la fecha de su expedición. Asimismo; en su caso, se deberá de señalar: nombre y sello de la autoridad o del centro expedidor autorizado que despachó la guía de tránsito.
-
-La guía de tránsito se cancelará en el lugar del destino con un "matasellos", para evitar que dicha documentación sea reutilizada.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 278.
 
-Es responsabilidad del remitente y transportista que la movilización de los animales, sus productos y subproductos se realice al destino manifestado en la Guía de Tránsito, cualquier causa que lo modifique o impida la movilización, deberá comunicarse al Punto de Verificación e Inspección más próxima, y por este conducto a la SEDARH, en un plazo no mayor de 12 horas, para los efectos legales procedentes.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-Los remitentes y transportistas que no acaten lo anterior, se harán acreedores a las sanciones que se establezcan en esta ley.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 279.
 
-Cuando los animales, productos y subproductos transiten sin la guía de tránsito correspondiente, o los datos que en ella se asienten no concuerden con los animales, productos o subproductos de que se trate, serán asegurados, incluyendo su medio de transporte, en el lugar en donde se haya realizado la verificación poniéndolo de inmediato a disposición de la autoridad correspondiente.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-Así mismo se debe considerar lo siguiente:
-
-l. Se expedirá una guía de tránsito por cada unidad de transporte utilizada para la movilización de ganado, productos y subproductos;
-
-II. Cuando una unidad en movilización tenga dos o más destinos, deberá elaborarse una guía de tránsito para cada uno de los destinos, y
-
-III. Queda prohibido movilizar animales mostrencos y orejanos, quedando exceptuados los animales que sean menores de seis meses de edad.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 280.
 
-Queda estrictamente prohibido embarcar y movilizar animales sin la guía correspondiente en cualquier horario.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-La movilización deberá realizarse por las rutas que para tal efecto autorice la SEDARH.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 281.
 
-Queda estrictamente prohibida la movilización con cualquier fin, de ganado muerto, postrado, enfermo o que se sospeche fundadamente que padece alguna enfermedad infectocontagiosa o que presente garrapatas. Así mismo, no podrán movilizarse animales que hayan sido tratados o alimentados con productos prohibidos, que originen problemas que atenten a la salud humana. Si al conducirse una partida de animales de un lugar a otro se comprueba la enfermedad en alguno de ellos, toda la partida será detenida en el punto de verificación e inspección o estación cuarentenaria más cercana, procediéndose a aislar a los animales para ponerse en observación.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-La reanudación de la movilización será permitida cuando así lo consideren las autoridades zoosanitarias, quedando obligado el propietario o transportista a pagar los gastos que se originen.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 282.
 
-Para la movilización de animales destinados al sacrificio, el original de la guía de tránsito, el documento que acredite la propiedad, según el artículo 220 de esta ley, así como la documentación sanitaria correspondiente, invariablemente deberán ser exhibidos y revisados para su cancelación en el rastro o centro de sacrificio por el Medico Veterinario Zootecnista responsable de la recepción e inspección ante mortem del ganado.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 283.
 
-Todos los vehículos que transporten o internen animales, productos o subproductos pecuarios y en los casos en que así lo establezcan las Normas Oficiales Mexicanas y Reglamentos Estatales, deberán someterse a un proceso de lavado, desinfección o fumigación, con el fin de reducir el riesgo de infectar o infestar con plagas y enfermedades las unidades de producción pecuaria del Estado, de no cumplirse este requisito, no se les permitirá el ingreso al territorio del Estado.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 284.
 
-Las empresas de transporte en general, por ningún motivo embarcarán animales, sus productos y subproductos, si no están previamente lavados, desinfectados y amparados por la documentación que autorice la movilización respectiva.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 285.
 
-Si algún transportista evadiera voluntaria o involuntariamente el punto de verificación e inspección, se hará acreedor a la sanción correspondiente, además deberá ser regresado al mismo, para la verificación rutinaria de la documentación correspondiente, ya sea por los verificadores ganaderos o bien con el apoyo de la fuerza pública.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 286.
 
-Cuando el transportista no se hubiere detenido en un punto de verificación e inspección, y una vez interceptado se niegue a detenerse, regresar al punto de verificación e inspección o entregar la documentación correspondiente al verificador ganadero; la carga y el vehículo serán detenidos, sin responsabilidad para el verificador ganadero o las autoridades involucradas, para realizar las averiguaciones correspondientes.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 287.
 
-La conducción de pieles de ganado orejano, o cuya marca se hubiese cortado o alterado de algún modo, se pondrá a disposición de la autoridad competente.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 ### CAPITULO IV. De las Disposiciones Adicionales para la Introducción y Salida de Animales, sus Productos y Subproductos
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### ARTICULO 288.
 
-La SEDARH determinará, en coordinación con la representación del gobierno federal y las organizaciones pecuarias de la entidad, las especificaciones y requisitos que tendrán que cumplir los animales, productos y subproductos que se pretenda introducir o sacar del estado, así como los que se movilicen dentro del territorio estatal, de modo que queden debidamente atendidos y satisfechos los requisitos de movilización de cada campaña zoosanitaria y de los componentes, de manera que puedan ser cubiertas las necesidades de la población en materia de abasto, salud pública y protección zoosanitaria.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 289.
 
-En caso de desabasto, la salida del Estado de animales, productos y subproductos e insumos que se utilicen en la ganadería, sólo podrán efectuarse previo permiso que expida la SEDARH.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 290.
 
-La SEDARH, en función de las situaciones y necesidades que en su oportunidad se presenten, establecerá los requisitos adicionales a los establecidos en las normas oficiales mexicanas, que se consideren necesarios para salvaguardar la condición zoosanitaria de la ganadería en ciertas regiones o la totalidad de la entidad.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 291.
 
-Tratándose de la movilización de animales, productos y subproductos que procedan de otra entidad federativa, deberán ingresar al estado utilizando las vías de comunicación donde existan puntos de verificación e inspección, donde será obligatorio presentar la documentación zoosanitaria requerida, así como la que avale la legítima propiedad debidamente requisitada por la autoridad correspondiente diente del lugar de origen. Adicionalmente, deberá sujetarse estrictamente a las disposiciones de protección zoosanitaria del Estado, que contengan las leyes, acuerdos y disposiciones correspondientes.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 ### CAPITULO V. De la Administración de Rastros y Centros de Sacrificio
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### ARTICULO 292.
 
-Se declara de interés y orden público, el abastecimiento de carne suficiente para las necesidades de consumo de los habitantes del Estado. Con objeto de garantizar debidamente la satisfacción de esta necesidad, el Ejecutivo del Estado a través de la SEDARH, tiene la facultad de celebrar convenios con los productores pecuarios de la Entidad.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 293.
 
-Para la operación de los rastros y establecimientos similares en la Entidad, las autoridades municipales, sanitarias y de salud, deberán vigilar que se cumpla con lo que se establece en esta Ley y los siguientes ordenamientos:
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-I. Ley Estatal de Salud, su reglamento y demás disposiciones aplicables;
-
-II. Ley Federal de Sanidad Animal y Normas Oficiales Mexicanas aplicables, y
-
-III. Reglamentos de rastros municipales.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 294.
 
-Para el funcionamiento de los establecimientos dedicados al sacrificio de animales, el propietario o administrador, será el responsable de dar aviso de apertura a la SEDARH y a las autoridades federales competentes, en un plazo no mayor a 15 días.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 295.
 
-No se aceptará el ingreso al rastro o establecimientos similares de animales sin la documentación de movilización a que hace referencia el artículo 272 de esta Ley, y queda estrictamente prohibido la entrada de animales muertos, postrados, enfermos o que se les haya aplicado o alimentado con productos prohibidos que afecten la salud humana.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-Tratándose de animales de lidia podrán ser ingresados al rastro dentro de las tres horas siguientes como máximo a su sacrificio, que hayan sido certificados por el sector salud o medico veterinario asignado en la plaza de toros o lienzo charro.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 296.
 
-Para fines de comercialización, sólo podrá hacerse el sacrificio de especies pecuarias, en los lugares o rastros debidamente acondicionados y legalmente autorizados.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-En los casos en que el sacrificio sea destinado para consumo particular, este proceso podrá hacerse en domicilios, mediante el permiso de las autoridades competentes.
-
-El sacrificio clandestino, será sancionado conforme a las disposiciones contenidas en esta Ley.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 297.
 
-Cada rastro o establecimiento similar, deberá contar con uno o más médicos veterinarios aprobados facultados para hacer cumplir las disposiciones federales y estatales aplicables, entre ellas:
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-I. Verificar que los animales a sacrificio dispongan de la documentación legal correspondiente, o en su caso, si así procede, elaborar la guía de tránsito correspondiente o bien, retornar o retener el embarque y ponerlo a disposición de la autoridad competente;
-
-II. Que cumplan con las especificaciones establecidas en la revisión ante mortem;
-
-III. Realizar la inspección pos mortem reglamentaria, para comprobar que los productos y subproductos derivados del sacrificio sean aptos para el consumo humano y su comercialización, y
-
-IV. Dar cuenta a las autoridades competentes sobre las infracciones que se cometan, a efecto de que procedan a imponer las sanciones correspondientes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 298.
 
-Los sellos para el marcado de carnes serán hechos de acuerdo con las instrucciones de la autoridad municipal, procurando que no ofrezcan una inscripción dudosa respecto a su significado y que las letras y los números sean de un estilo y tipo que produzcan una impresión clara y legible.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-El sellado de los canales, comprenderá desde los cuartos traseros hasta la cabeza y deberá incluir la denominación del rastro, el número oficial de registro, la ubicación del establecimiento y las palabras: «Inspeccionado y aprobado», «Inspeccionado y Rechazado» y «Decomisado».
-
-Las tintas empleadas, serán igualmente para todos los Rastros, debiendo ser indelebles y no tóxicas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 299.
 
-El proceso de sellado, marcado o rotulado de las canales, partes, carnes y demás derivados y productos comestibles deberán hacerse bajo vigilancia del personal oficial adscrito al Rastro. La tinta, sellos, marcadores y demás útiles y artefactos necesarios para estas funciones, cuando no se encuentren en uso, se guardarán bajo llave en compartimentos seguros.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 300.
 
-Todos los rastros contarán con un administrador, el cuál será nombrado por el presidente municipal, quien tendrá la responsabilidad de vigilar el cumplimiento de las disposiciones legales, sanitarias, fiscales y administrativas a que están sujetos dichos establecimientos.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 301.
 
-Para ser administrador de un rastro, es necesario reunir los siguientes requisitos:
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-l. Ser ciudadano mexicano, en pleno ejercicio de sus derechos;
-
-II. Ser vecino del lugar;
-
-III. Ser profesionista titulado de la carrera de Medico Veterinario Zootecnista o Ingeniero Agrónomo Zootecnista;
-
-IV. No haber sido condenado en juicio por delito patrimonial, y
-
-V. Ser de reconocida honradez.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 302.
 
-El Administrador del Rastro, reportará mensualmente a la autoridad municipal, un informe durante los 5 primeros días del mes siguiente, enviando copias del mismo a la SEDARH, a la Secretaría de Salud, a la Delegación Estatal de la SAGARPA y a las Uniones Ganaderas. Este informe tiene una finalidad de tipo estadístico con relación al movimiento del ganado, sacrificios efectuados, conteniendo un registro en el que, por orden numérico y fechas, anotarán la entrada de los animales al rastro, el nombre y domicilio del introductor, nombre de la propiedad pecuaria, lugar de procedencia, así como las marcas y señales del ganado que se sacrificó.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 303.
 
-Las personas que se dediquen a la introducción o comercialización de ganado en los rastros o centros de sacrificio, deberán gestionar su autorización oficial y obtener credencial de identificación como introductor, que será expedida por la autoridad municipal.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-La citada credencial, tendrá vigencia de un año y deberá renovarse al inicio de cada año, pudiendo ser cancelada cuando se cometan infracciones a esta Ley o a la reglamentación municipal del rastro respectivo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 304.
 
-Todo el que presente animales para su sacrificio sin justificar su legal adquisición, será considerado como presunto responsable del delito de abigeato y se le consignará a la autoridad competente.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 305.
 
-Las empresas procesadoras de productos cárnicos, podrán obtener la concesión del servicio, para que anexo a su empacadora o procesadora, funcione un rastro autorizado.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 306.
 
-Se prohíbe el sacrificio de hembras que tengan cuatro o más meses de gestación, salvo los casos de inutilidad comprobada.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 307.
 
-Los establecimientos para el sacrificio y comercialización de animales, productos y subproductos, así como los medios de transporte, serán supervisados y verificados en cualquier momento por personal de la SEDARH y demás autoridades estatales del ramo, sin perjuicio de la intervención que corresponda a la Secretaría de Salud.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 308.
 
-Cuando haya necesidad de sacrificar animales en el campo por estar lesionados o cualquiera otra circunstancia que no implique la presencia de una enfermedad infectocontagiosa, se dará aviso a la autoridad municipal y al representante de la Asociación Ganadera Local, presentando a la primera, las pieles de los animales que se sacrificaron y se deberá comprobar el derecho a disponer de ellos, por quien los hubiere sacrificado o mandado sacrificar.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-En caso de muerte de algún animal por enfermedad no contagiosa, se observará igualmente el procedimiento que se establece en el párrafo anterior.
-
-En todo caso, la carne deberá ser para consumo particular y no ser comercializada para abasto público. Adicionalmente, la autoridad municipal competente, deberá certificar si los productos de estos animales son aptos para el consumo humano.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 309.
 
-El sacrificio de animales que se realice en contravención a lo dispuesto en el presente capítulo, se considerará como clandestina y queda sujeta a las sanciones que establece la presente Ley, sin perjuicio de lo dispuesto en otras disposiciones legales aplicables.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 ### CAPITULO VI. De la Clasificación y Comercialización de Animales, sus Productos y Subproductos
 
@@ -2811,61 +2817,85 @@ En caso de que el animal estuviese abandonado en algún camino sin conocerse su 
 
 ### CAPITULO VIII. De la Obligatoriedad de la Participación en Acciones de Sanidad Animal
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### ARTICULO 320.
 
-Se declaran de interés público y obligatorio, la prevención, control y erradicación de las plagas y enfermedades que afecten a las especies pecuarias en el Estado.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 321.
 
-El Ejecutivo del Estado, por sí mismo o a través de la SEDARH, podrá celebrar convenios de coordinación o colaboración con las autoridades federales, estatales, municipales, comités y organizaciones de productores pecuarios, a efecto de llevar a cabo la operación de programas en materia de sanidad animal.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 322.
 
-Los propietarios o encargados de las diferentes especies animales, tienen la obligación de proporcionar a sus animales los cuidados higiénicos y zootécnicos necesarios para conservarlos en las mejores condiciones de salud y defensa natural contra cualquiera de las plagas y enfermedades trasmisibles por cualquier medio. Las autoridades competentes, establecerán obligatoriamente las medidas preventivas que estimen necesarias, a efecto de alcanzar el sano desarrollo de la ganadería.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 323.
 
-No podrán entrar al Estado animales procedentes de otras entidades en las que esté comprobada la existencia de una enfermedad infectocontagiosa o parasitaria que represente un riesgo a la condición zoosanitaria estatal, a menos que cumplan con las especificaciones zoosanitarias federales y estatales de movilización vigentes para cada campaña zoosanitaria.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 324.
 
-La SEDARH, tiene la facultad de efectuar nuevos exámenes médicos y realizar las pruebas diagnósticas que considere necesarias en los animales que se pretenda introducir al Estado. Cuando resulten positivas las referidas pruebas, se aplicarán las medidas cuarentenarias que correspondan, de acuerdo a las disposiciones aplicables. Si los resultados son negativos y cumplen con la norma zoosanitaria establecida para cada caso, los animales serán liberados y podrán ser movilizados.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 325.
 
-No se autorizará la movilización de animales que presenten evidencias de parásitos, heridas que puedan representar riesgo de diseminación de plagas y enfermedades, infección, gusaneras o signos de enfermedades.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 326.
 
-En los casos urgentes, las autoridades municipales y los productores de los lugares en donde existan plagas o enfermedades, tienen la obligación de cooperar con los organismos federales, estatales y demás autoridades competentes y organismos de cooperación, en los trabajos sanitarios que se implementen.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 327.
 
-Quien haga aparecer como nacido en el Estado, a ganado proveniente de otra entidad del país, será sancionado en los términos de esta ley.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 ### CAPITULO IX. De las Medidas de Prevención, Control y Erradicación de Enfermedades Transmisibles
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### ARTICULO 328.
 
-Se declara obligatoria la vacunación del ganado, para prevenir enfermedades infectocontagiosas que a juicio de las autoridades zoosanitarias en el Estado, determinen necesario aplicar en la entidad, debiendo ser ésta, efectuada por médicos veterinarios o personas capacitadas para este fin, bajo la vigilancia y control oficial de las autoridades competentes, debiéndose en cada caso extender un certificado en el que se haga constar el nombre del propietario del ganado, la especie animal vacunada, el número de cabezas y enfermedades contra las que se haya aplicado la vacunación respectiva. El costo de la vacunación respectiva y pruebas para prevenir o controlar enfermedades, será por cuenta del propietario del ganado.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 329.
 
-Es obligatorio para todos los habitantes del Estado presentar denuncia de la existencia, aparición o indicio de cualquier enfermedad infecciosa o contagiosa que se detecte; la denuncia se deberá hacer ante las autoridades competentes.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 330.
 
-Las organizaciones ganaderas deberán denunciar ante las autoridades competentes, los hechos, actos u omisiones que atenten contra la sanidad animal.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 331.
 
-Desde el momento en que el propietario o encargado note los síntomas de una enfermedad infectocontagiosa, debe proceder al aislamiento del animal enfermo, separándolo de los sanos y dar aviso a un médico veterinario, a los organismos auxiliares en materia de sanidad animal y a la autoridad municipal.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-Si un animal enfermo muriera a causa de una enfermedad infecciosa o causa desconocida, la totalidad de sus despojos deberán ser sepultados a una profundidad no menor de un metro, cubriéndose con una capa de cal, dando el aviso correspondiente a los organismos auxiliares en materia de sanidad animal y a la autoridad municipal.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 332.
 
-El Ejecutivo del Estado, por si mismo o a través de la SEDARH, en caso de ser necesario, podrá dictar medidas de seguridad en materia de sanidad animal para diagnosticar, prevenir, tratar, controlar y erradicar las plagas y enfermedades que afecten al ganado, mismas que deberán aplicarse en el área y durante el tiempo que sea necesario.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 ###### ARTICULO 333.
 
@@ -2889,61 +2919,85 @@ VIII. Realizar las medidas de tratamiento e inmunización requeridas en los grup
 
 IX. Las demás que, a juicio del Ejecutivo del Estado y las Normas Oficiales Mexicanas de campañas sanitarias, sean indicadas para controlar la enfermedad o plaga e impedir su propagación.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### ARTICULO 334.
 
-Una vez que haya sido declarada una propiedad o región como cuarentenada, las autoridades competentes y los organismos del área sanitaria, a través del personal que designen deberán proceder a cuidar del cumplimiento de las disposiciones emanadas de las Normas Oficiales Mexicanas y leyes estatales respectivas.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 335.
 
-Mientras se encuentre vigente la declaración de cuarentena, el movimiento de animales, productos y subproductos quedarán bajo estricto control de vigilancia, cuidando que se cumpla estrictamente con los lineamientos de movilización vigentes para estos casos.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 336.
 
-Los animales, objetos y construcciones que la SEDARH hubiere mandado construir, en virtud de la autorización que esta Ley le confiere, los propietarios tendrán derecho a la indemnización correspondiente.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 337.
 
-Es obligatorio para todos los habitantes de la región declarada oficialmente como zona de emergencia o cuarentena, acatar las disposiciones sanitarias que dicten las autoridades competentes.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 ### CAPITULO X. De las Campañas Zoosanitarias
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### ARTICULO 338.
 
-Se declaran de interés público y por lo tanto permanentes y de observancia obligatoria, las campañas zoosanitarias contra la Tuberculosis bovina, Brucelosis bovina, caprina y ovina y Rabia Paralítica en bovinos; contra la Fiebre Porcina Clásica y Enfermedad de Aujeszky en porcinos; contra la Salmonelosis, Influenza aviar y Enfermedad de Newcastle en aves; en ectoparásitos, la campaña de control de la garrapata Boophilus spp, así como la prevención y combate de las plagas y enfermedades transmisibles de los animales que se decreten en contra de las enfermedades infectocontagiosas y parasitarias, en los términos de las Leyes, Reglamentos y Normas respectivos.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-Todas las campañas zoosanitarias y el componente de movilización requieren de un apoyo total, tanto de los organismos involucrados en su ejecución, como de los propietarios de las unidades pecuarias y las empresas que se dedican a la producción animal. El objetivo final de las campañas zoosanitarias y del control de movilización, es la de erradicar los padecimientos y lograr un control absoluto del tránsito pecuario. El estatus superior de libre o erradicación de un padecimiento, no es negociable ni puede ser manejado por intereses particulares, por lo que los propietarios o empresas pecuarias no podrán hacer cambios que permitan el retroceso del estatus logrado y el Ejecutivo del Estado, puede declarar como acción negligente y en contra del beneficio y bienestar público, cualquier acción que perjudique o retroceda el nivel zoosanitario alcanzado, por lo que aquellos que atenten con el bien común logrado, se harán sujetos a la sanción legal correspondiente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 339.
 
-Los médicos veterinarios aprobados y los laboratorios oficiales participantes en las acciones de las campañas zoosanitarias en la entidad, deberán en todo momento, extender las constancias y dictámenes oficiales correspondientes, en los que se señalen los resultados de las pruebas diagnósticas o tratamientos preventivos o curativos efectuados. Dichas acciones serán manejadas por las comisiones y comités responsables del programa sanitario, quienes deberán llevar un control técnico y administrativo de cada campaña autorizada.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 340.
 
-El Ejecutivo del Estado, por si mismo o a través de la SEDARH, está facultado para programar, estructurar y concertar con las autoridades federales, los convenios que considere necesarios a efecto de llevar a cabo campañas específicas para combatir cada una de las enfermedades infectocontagiosas y parasitarias que mayores trastornos ocasionen a la ganadería del Estado.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 341.
 
-En las campañas zoosanitarias que se efectúen, sólo podrán utilizarse productos para uso veterinario registrados y autorizados por las autoridades competentes.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 342.
 
-Todo propietario de ganado tiene la obligación de colaborar en el financiamiento de las campañas contra las enfermedades de los animales que emprendan las autoridades competentes, participando en la cooperación económica colectiva que la comunidad requiere y en lo particular, en lo que su unidad pecuaria productiva le corresponde contribuir.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 343.
 
-Los propietarios de las unidades productivas de las diferentes especies animales, se comprometen a disponer de las instalaciones adecuadas para lograr el manejo eficiente y seguro de los animales, y en la región que así lo amerite, el baño por inmersión o de aspersión para el control y erradicación de ectoparásitos, así como las instalaciones requeridas para llevar a cabo las medidas de bioseguridad que permita controlar y erradicar los padecimientos comunes y que originan mayores pérdidas en los animales.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 344.
 
-La SEDARH, fomentará la constitución de asociaciones de productores y criadores de ganado ovino y caprino de registro, las que tendrán por objeto, apoyar, promover, desarrollar y llevar el control genealógico y mejoramiento genético de éstas especies.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 345.
 
-Los ganaderos poseedores de más de doscientas cabezas de ganado vacuno, tendrán obligación de disponer de las instalaciones necesarias para el manejo del ganado, en la región que así lo amerite, los medios para el control de ectoparásitos como la garrapata y la infraestructura para llevar a cabo las medidas de bioseguridad que permita el control y erradicación de los padecimientos comunes contemplados en las campañas zoosanitarias.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 346.
 
-El Gobierno del Estado, conjuntará recursos con el Gobierno Federal y Municipal, así como con las Uniones Ganaderas Regionales y las Asociaciones Ganaderas Locales, para apoyar a los productores de bajos recursos en la construcción de instalaciones de uso común, que permita manejar el ganado de la comunidad y lograr llevar a cabo las acciones de control de las campañas zoosanitarias.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 ## TITULO OCTAVO. DE LA INDUSTRIA LECHERA
 
@@ -2989,91 +3043,65 @@ La SEDARH, coadyuvará con los interesados para que hagan las gestiones necesari
 
 ### CAPITULO III. Del Ganado Lechero y su Sanidad
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### ARTICULO 356.
 
-Con interés de preservar la salud animal y, en su caso, no poner en riesgo la salud pública, toda explotación lechera deberá estar inscrita en las campañas de control y erradicación de la tuberculosis y brucelosis bovina, en los términos de las Normas Oficiales Mexicanas correspondientes.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 357.
 
-Los médicos veterinarios debidamente acreditados por la autoridad competente, así como el personal de los organismos auxiliares en materia de salud animal, en los términos de la Norma Oficial Mexicana NOM-031-ZOO-1995 para la Campaña de Erradicación de la Tuberculosis bovina, NOM-041-ZOO-1995 para la Campaña para la Erradicación de la Brucelosis Bovina y Caprina, la ley federal de sanidad animal y la presente Ley, llevarán a cabo la inspección sanitaria del ganado lechero, siguiendo los lineamientos indicados en dichas normas.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 358.
 
-Los propietarios de los establos en los que se identifiquen animales con reacción positiva a las pruebas diagnósticas de tuberculosis y brucelosis deberán acatar las disposiciones establecidas en las normas oficiales mexicanas y las leyes vigentes.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 359.
 
-La SEDARH y las autoridades competentes, realizará (sic) labores de inspección sanitaria en establos, plantas industrializadoras y expendios de leche y sus derivados, para determinar, mediante el muestreo y análisis químico-bacteriológico de la leche y sus derivados, se confirme la ausencia de gérmenes que afecten la salud pública.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 360.
 
-La SEDARH, en coordinación con las autoridades competentes en el ámbito de sus competencias, promoverán y dictarán las medidas que sean necesarias tendientes a la conservación, fomento y desarrollo de la actividad lechera en el Estado.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 361.
 
-Las medidas a que hace referencia el artículo anterior comprenderán las orientadas a:
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-l. El control de la producción de leche fluida que se genere en el Estado, así como toda aquella que ingrese al mismo;
-
-II. La clasificación de la leche, en diversas categorías de acuerdo al artículo 365 de esta ley;
-
-III. El establecimiento de establos productores de leche, plantas pasteurizadoras y la creación y fortalecimiento de cuencas lecheras;
-
-IV. La organización e integración de los productores de leche en comités y agrupaciones especializadas para su fortalecimiento en base a las necesidades de la planificación pecuaria estatal, y
-
-V. Asesorar a las personas que pretendan dedicarse a la producción e industrialización de la leche.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 362.
 
-La leche proveniente de las especies que se destinan a la producción comercial para el consumo humano como alimento, deberá satisfacer los requisitos siguientes:
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-I. Proceder de animales y ubres sanas;
-
-II. Ser de origen natural, sin extracciones, ni adiciones de sus componentes originales, higiénica, de olor, color y exenta de contaminantes, antisépticos, inhibidores y substancias tóxicas;
-
-III. Para los efectos del inciso anterior, deberá hacerse el ordeño previo lavado con agua tibia de la ubre o usar una solución desinfectante adecuada; con aseo previo de las manos del ordeñador, tirándose el primer exprimido de los cuartos;
-
-IV. El tejido productor de la leche en la ubre, deberá estar sano lo que impide la presencia de pus, sangre y bacterias patógenas;
-
-V. La leche deberá ser transportada, enfriada y depositada en recipientes térmicos previamente lavados y desinfectados, debiendo permanecer conservada a una temperatura no mayor de 4° C en tanto es recogida por un termo transportador que la lleva al centro de procesamiento;
-
-VI. Deberá procesarse (Pasteurización) y envasarse, siguiendo los requisitos que señala el Reglamento Sanitario Federal, y
-
-VII. Además, no deberá estar alterada, adulterada ni adicionada con substancias e ingredientes extraños a su forma natural.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 363.
 
-Son responsables, según el caso, respecto a la leche adulterada, alterada, sucia o contaminada, los propietarios de establos, los transportadores, los propietarios de las plantas procesadoras, de los distribuidores y de expendedores.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 364.
 
-La leche deberá llenar, las características generales, físicas y químicas siguientes:
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-I. Densidad, a 15° C., no menos de 1.0290.37°;
-
-II. Grado de refracción, a 20°, no menos de 38°. ni más de 39°;
-
-III. Acidez (en ácido láctico), no menos de 1.4 ni mayor de 1.7 gramos por ml.;
-
-IV. Cloruros (en cloro) no menos de 1.1 ni más de 1.5 gramos por litros (método vehard);
-
-V. Lactosa, no menos de 4.3 gramos por mililitro (método Polarimetico o de fehling), y
-
-VI. Un mínimo de grasa butírica de 29.32 gramos por litro.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 365.
 
-La leche, para su venta al público, se clasifica en las categorías establecidas en las normas sanitarias aplicables como sigue:
-
-I. Leche ultra pasteurizada;
-
-II. Leche pasteurizada preferente extra;
-
-III. Leche pasteurizada preferente;
-
-IV. Leche pasteurizada, y
-
-V. Leche esterilizada.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 ### CAPITULO IV. De las Asociaciones de Productores de Leche
 
@@ -3087,29 +3115,39 @@ La SEDARH, en coordinación con las autoridades federales, estatales y municipal
 
 ### CAPITULO V. De la Movilización de la Leche y el Ganado Lechero
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### ARTICULO 368.
 
-La movilización de la leche y el ganado lechero se sujetará a las disposiciones contenidas en el Título Séptimo de esta Ley.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 369.
 
-Para el transporte de leche, se deberá recabar autorización a través de la Asociación de Productores de Leche, de las Autoridades Sanitarias y municipales correspondientes debiéndose cumplir con todas las disposiciones sanitarias aplicables.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 ## TITULO NOVENO. DE LA OVINOCULTURA Y LA CAPRINOCULTURA
 
 ### CAPITULO I. Generalidades
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### ARTICULO 370.
 
-Son obligaciones de los ovinocultores y caprinocultores, participar en los programas que implementen las autoridades competentes para el mejoramiento de sus actividades, seleccionar adecuadamente las especies y variedades, adoptar técnicas modernas de explotación, salubridad e higiene, emplear equipo e instrumental apropiado y organizarse para la comercialización de sus productos.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 371.
 
-La SEDARH, fomentará la constitución de asociaciones de criadores de ganado ovino y caprino de registro, las que tendrán por objeto llevar el control genealógico y mejoramiento genético de estas especies.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 372.
 
-La SEDARH, fomentará la constitución de asociaciones de productores y criadores de ganado ovino y caprino las que tendrán por objeto apoyar, promover y desarrollar éstas especies.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 ### CAPITULO II. De la Propiedad y Marca de Ovinos y Caprinos
 
@@ -3165,21 +3203,29 @@ La SEDARH, asesorará previa solicitud escrita, a las personas físicas o morale
 
 ### CAPITULO IV. De la Movilización y Control Sanitario de los Ovinos y Caprinos
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### ARTICULO 382.
 
-El control sanitario y la movilización de ovinos y caprinos, se sujetarán a las disposiciones contenidas en el Título Séptimo de esta ley.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 383.
 
-Con interés de preservar la salud animal y, en su caso, no poner en riesgo la salud pública, toda explotación de ovinos y caprinos de la entidad deberá estar inscrita en las campañas nacionales de control y erradicación de la brucelosis, en los términos de las normas oficiales mexicanas.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 384.
 
-Los médicos veterinarios debidamente acreditados por la autoridad competente, así como el personal de los organismos auxiliares en materia de salud animal, en los términos de la ley federal de sanidad animal, llevarán a cabo la inspección sanitaria del ganado ovino y caprino, que comprenderá la toma de muestras para realizar las pruebas serológicas conducentes y la vacunación preventiva contra la brucelosis.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 385.
 
-Los propietarios y responsables de las explotaciones en las que se identificaran animales con reacción positiva a las pruebas diagnósticas de brucelosis, deberán aislarlos y acatar las disposiciones establecidas en las normas oficiales mexicanas para su tratamiento.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 ## TITULO DECIMO. DE LA PORCICULTURA
 
@@ -3203,61 +3249,69 @@ Son obligaciones de los porcicultores, participar en los programas que implement
 
 ### CAPITULO II. De la Propiedad y Marca de Porcinos
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### ARTICULO 390.
 
-La propiedad y marca de porcinos se sujetará a las disposiciones contenidas en el Título Séptimo de esta Ley.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 ### CAPITULO III. Del Registro e Instalación de Granjas Porcícolas, Empresas y Productores
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### ARTICULO 391.
 
-Los propietarios o administradores de las empresas porcícolas en el Estado, deberán registrarse ante la SEDARH y en el municipio en donde se ubique la unidad de producción, así como dar aviso del inicio de su funcionamiento, en un término de sesenta días, a partir de la fecha de su establecimiento. Asimismo, deberán mostrar los registros de producción y operación a las autoridades competentes, cuando les sean solicitados. El registro será gratuito y los requisitos a que se sujeten los fijará la misma SEDARH.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 392.
 
-Todo porcicultor, para tramitar el registro a que hace referencia el artículo anterior, deberá manifestar los siguientes datos:
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-I. Nombre o razón social y domicilio del solicitante;
-
-II. Ubicación de la granja;
-
-III. Número de animales en explotación, especificando si se trata de pie de cría o de engorda;
-
-IV. Sistema de explotación, y
-
-V. Naturaleza de infraestructura, con especificación de detalles de construcción, maquinaria y utensilios de que disponga la empresa.
-
-Lo anterior se observará sin perjuicio de la intervención que corresponda a las autoridades sanitarias.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 393.
 
-Queda prohibida la instalación de todo tipo de explotaciones porcinas en los centros de población. Las que se pretendan establecer lo harán fuera de los mismos, previa autorización de las autoridades sanitarias y presidentes municipales de la localidad. Las explotaciones porcinas que estén actualmente establecidos (sic) en centros de población, podrán ser reubicados, si su estancia o actividad causan o puedan causar riesgos a la salud pública o afecte o pueda afectar el interés público tutelado por esta Ley; en estos casos las resoluciones que emita la SEDARH, deberán estar debidamente fundadas y motivadas, respetarán el derecho de audiencia del afectado y concederán plazo suficiente para su cumplimiento.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 394.
 
-La SEDARH, asesorará previa solicitud escrita, a las personas físicas o morales que pretendan dedicarse a la porcicultura. Dentro de las regiones que estime pertinentes organizará cursos sobre cría, reproducción, mejoramiento, explotación e industrialización de los cerdos.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 395.
 
-Las granjas y empresas porcícolas, deberán disponer de los predios, instalaciones y servicios que requieran la crianza y aprovechamiento de la actividad, incluyendo o no, la producción de alimentos y la preparación, industrialización y comercio de sus productos.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 ### CAPITULO IV. De la Movilización y Control Sanitario de los Porcinos
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### ARTICULO 396.
 
-El control sanitario dentro del estado, así como el tránsito interno, la introducción o salida del Estado de porcinos, sus productos y subproductos en estado natural, refrigerado, congelado, industrializado, de porcinos se sujetará a las disposiciones contenidas en el Título Séptimo de esta Ley.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 397.
 
-Con interés de preservar la salud animal, toda explotación de porcinos de la entidad deberá estar inscrita en las campañas nacionales de control y erradicación de la Fiebre Porcina Clásica (NOM-037-ZOO-1996) y la Enfermedad de Aujeszky (NOM-007-ZOO-1994), en los términos de las normas oficiales mexicanas.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 398.
 
-Los médicos veterinarios debidamente acreditados por la autoridad competente, así como el personal de los organismos auxiliares en materia de salud animal, en los términos de la ley federal de sanidad animal, llevarán a cabo la inspección sanitaria del ganado porcino, que comprenderá la toma de muestras para realizar las pruebas serológicas conducentes y, en su caso, la vacunación preventiva contra la Enfermedad de Aujeszky.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 399.
 
-Los propietarios y responsables de las explotaciones en las que se identificaran animales con reacción positiva a las pruebas diagnósticas de la Fiebre Porcina Clásica y la Enfermedad de Aujeszky, deberán aislarlos y acatar las disposiciones establecidas en las normas oficiales mexicanas para su tratamiento.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 ## TITULO DECIMO. PRIMERO DE LA AVICULTURA
 
@@ -3315,63 +3369,69 @@ La SEDARH, promoverá la conservación de los cotos o parques cinegéticos en lo
 
 ### CAPITULO II. De la Propiedad y Marca de Aves
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### ARTICULO 408.
 
-La propiedad y marca de aves se sujetará a las disposiciones contenidas en el Título Séptimo de esta ley.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 ### CAPITULO III. Del Registro e Instalación de Granjas Avícolas Empresas y Productores
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### ARTICULO 409.
 
-Los propietarios o administradores de las empresas avícolas en el Estado, deberán registrarse ante la SEDARH y en el municipio en donde se ubique la unidad de producción, así como dar aviso del inicio de su funcionamiento, en un término de sesenta días, a partir de la fecha de su establecimiento. Asimismo, deberán mostrar los registros de producción y operación a las autoridades competentes, cuando les sean solicitados. El registro será gratuito y los requisitos a que se sujeten los fijará la misma SEDARH.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 410.
 
-Todo avicultor, para tramitar el registro a que hace referencia el artículo anterior, deberá manifestar los siguientes datos:
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-I. Nombre o razón social y domicilio del solicitante;
-
-II. Ubicación de la granja;
-
-III. Número de animales en explotación, especificando si se trata de reproductoras, ponedoras o de aves de engorda;
-
-IV. Superficie de gallineros techados en metros cuadrados, con sus sistemas de explotación, pisos o jaulas;
-
-V. Sistema de explotación, y
-
-VI. Naturaleza de infraestructura, con especificación de detalles de construcción, maquinaria y utensilios de que disponga la empresa.
-
-Lo anterior se observará sin perjuicio de la intervención que corresponda a las autoridades sanitarias.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 411.
 
-Queda prohibida la instalación de todo tipo de explotaciones avícolas en los centros de población. Las que se pretendan establecer, lo harán fuera de los mismos, previa autorización de las autoridades sanitarias y presidentes municipales de la localidad. Las explotaciones avícolas que estén actualmente establecidos (sic) en centros de población, podrán ser reubicados, si su estancia o actividad causan o puedan causar riesgos a la salud pública o afecte o pueda afectar el interés público tutelado por esta Ley, en estos casos las resoluciones que emita la SEDARH, deberán estar debidamente fundadas y motivadas, respetarán el derecho de audiencia del afectado y concederán plazo suficiente para su cumplimiento.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 412.
 
-La SEDARH, asesorará previa solicitud escrita, a las personas físicas o morales que pretendan dedicarse a la avicultura, dentro de las regiones que estime pertinentes organizará cursos sobre cría, reproducción, mejoramiento, explotación e industrialización de las aves.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 413.
 
-Las granjas y empresas avícolas, deberán disponer de los predios, instalaciones y servicios que requieran la crianza y aprovechamiento de la actividad, incluyendo o no, la producción de alimentos y la preparación, industrialización y comercio de sus productos.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 ### CAPITULO IV. De la Movilización y Control Sanitario de las Aves
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### ARTICULO 414.
 
-El control sanitario dentro del estado, así como el tránsito interno, la introducción o salida del Estado de aves, sus productos y subproductos en estado natural, refrigerado, congelado, industrializado, se sujetará a las disposiciones contenidas en el Título Séptimo de esta Ley.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 415.
 
-Con interés de preservar la salud animal, toda explotación de aves de la entidad deberá estar inscrita en las campañas nacionales de control y erradicación de la Salmonelosis, la Enfermedad de Newcastle y la Influenza Aviar, en los términos de las normas oficiales mexicanas.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 416.
 
-Los médicos veterinarios debidamente acreditados por la autoridad competente, así como el personal de los organismos auxiliares en materia de sanidad animal, en los términos de la ley federal de sanidad animal, llevarán a cabo la inspección sanitaria de las aves, que comprenderá la toma de muestras para realizar las pruebas diagnósticas conducentes y, en su caso, la vacunación preventiva contra la Enfermedad de Newcastle y la Influenza Aviar.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 417.
 
-Los propietarios y responsables de las explotaciones en las que se identificaran animales con reacción positiva a las pruebas diagnósticas de la Salmonelosis, la Enfermedad de Newcastle y la Influenza Aviar, deberán aislarlos y acatar las disposiciones establecidas en las normas oficiales mexicanas para su tratamiento.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 ## TITULO DECIMO SEGUNDO. SEGUNDO DE LA APICULTURA
 
@@ -3391,123 +3451,139 @@ Toda persona física o moral, que se dedique en el Estado a la apicultura, inter
 
 ### CAPITULO II. De la Propiedad y Marca de las Colmenas
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### ARTICULO 421.
 
-La propiedad y marca de apiarios se sujetará, en lo aplicable, a las disposiciones contenidas en el Título Séptimo de esta Ley.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 422.
 
-La compraventa de colmenas y material apícola marcado, deberá efectuarse acompañada de la factura correspondiente, el comprador colocará su marca a un lado de la del vendedor sin borrarla.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 423.
 
-Para la identificación de sus colmenas, los apicultores marcarán sus cámaras de cría y demás partes de la colmena con un símbolo-letra, figura o número, por medio de fierro de herrar, similar al que usan los ganaderos. La marca del apicultor, deberá estar registrada en el Ayuntamiento correspondiente, Organismo Apícola Local y en la SEDARH.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 424.
 
-La solicitud del registro de marcas deberá ser formulada en las formas oficiales que proporcione la SEDARH, con los siguientes datos:
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-I. Nombre, domicilio y demás generales del solicitante;
-
-II. Lugar de ubicación;
-
-III. Número de apiarios, y
-
-IV. Los demás datos que se consideren necesarios.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 425.
 
-Cuando se localice material cuya marca haya sido borrada o remarcada, se considerará como robado y se procederá conforme a lo establecido por esta Ley.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 ### CAPITULO III. Del Registro e Instalación de Apiarios, de Empresas Apícolas y Productores
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### ARTICULO 426.
 
-Los propietarios o administradores de apiarios y empresas apícolas en el Estado, deberán registrarse ante la SEDARH y en el municipio en donde se ubique la unidad de producción, así como dar aviso del inicio de su funcionamiento, en un término de sesenta días, a partir de la fecha de su establecimiento. Asimismo, deberán mostrar los registros de producción y operación a las autoridades competentes, cuando les sean solicitados. El registro será gratuito y los requisitos a que se sujeten los fijará la misma SEDARH.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 427.
 
-Todo apicultor, para tramitar el registro a que hace referencia el artículo anterior, deberá manifestar los siguientes datos:
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-I. Nombre o razón social y domicilio del solicitante;
-
-II. Ubicación del apiario con croquis; (tanto permanente como temporales);
-
-III. Número de colmenas en explotación;
-
-IV. Distancias a las poblaciones y apiarios más cercanos;
-
-V. Sistema de explotación, y
-
-VI. Naturaleza de infraestructura, con especificación de detalles de construcción, maquinaria y utensilios de que disponga la empresa.
-
-Lo anterior se observará sin perjuicio de la intervención que corresponda a las autoridades sanitarias.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 428.
 
-Queda prohibida la instalación de colmenas en los centros de población. Las que se pretendan establecer lo harán fuera de los mismos, previa autorización de las autoridades sanitarias y presidentes municipales de la localidad. Las colmenas que estén actualmente establecidos (sic) en centros de población, podrán ser reubicados (sic), si su estancia o actividad causan o puedan causar riesgos a la salud pública o afecte o pueda afectar el interés público tutelado por esta Ley, en estos casos las resoluciones que emita la SEDARH, deberán estar debidamente fundadas y motivadas, respetarán el derecho de audiencia del afectado y concederán plazo suficiente para su cumplimiento.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 429.
 
-La SEDARH, asesorará previa solicitud escrita, a las personas físicas o morales que pretendan dedicarse a la apicultura. Dentro de las regiones que estime pertinentes organizará cursos sobre cría, reproducción, mejoramiento, explotación e industrialización de las abejas.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 430.
 
-Las granjas y empresas apícolas, deberán disponer de los predios, instalaciones y servicios que requieran la crianza y aprovechamiento de la actividad, incluyendo o no la producción de alimentos y la preparación, industrialización y comercio de sus productos.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 431.
 
-La responsabilidad de los apicultores por los daños que las abejas de sus colmenas causen a personas o animales, solo existirá cuando se acredite negligencia inexcusable o intención de provocar dichos daños.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 432.
 
-El apoderamiento de colonias de abejas o colmenas, sin derecho y sin consentimiento de la persona que pueda disponer de ellas con arreglo a la ley, será considerado como robo y castigado conforme a lo establecido en el Código Penal del Estado.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 433.
 
-La persona que intencionalmente dañe las colmenas instaladas en apiarios, se hará acreedor a sanciones de tipo penal, sin perjuicio de pagar los daños ocasionados.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 434.
 
-Toda instalación de un apiario requerirá la autorización de la SEDARH. Esta podrá solicitar información al respecto, a la Presidencia del Municipio o a la Organización Local de apicultores del municipio donde se vayan a instalar los apiarios.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-Al efecto, el interesado hará la solicitud correspondiente ante la SEDARH, expresando el número de colmenas que tendrá el apiario, apiarios colindantes, distancia de los mismos, municipalidad donde quedará el nuevo apiario, su distancia de la cabecera o población más próxima y extensión de terrenos donde quedará ubicado el apiario. Toda solicitud deberá ser resuelta en el término de quince días, comunicando al presidente municipal este registro.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 435.
 
-Todo apicultor, al instalar sus apiarios, deberá observar las siguientes distancias:
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-I. En los caminos vecinales, a una distancia de 15.00 metros de los mismos, y
-
-II. En predios, una distancia mínima de 1.00 Km. de la casa o casas habitación de la ranchería o centro de población. Se deberá acreditar el derecho al uso del predio para instalar apiarios en terrenos de propiedad privada, comunal o ejidal.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 436.
 
-Los colmenares, que deberán tener más de cuarenta colmenas pobladas, deberán estar ubicados a distancias no menores de 2 kilómetros. En el caso de que se encuentren colmenares instalados en lugares cercanos cuya distancia fuere menor a la establecida, las reclamaciones se resolverán en favor del apicultor que pruebe tener el colmenario de mayor antigüedad, quedando obligado el que tenga menos tiempo, a retirar sus apiarios a la distancia legal.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 437.
 
-En la instalación de nuevos apiarios se dará preferencia a los apicultores locales.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 438.
 
-Los apicultores que vayan a establecerse en terrenos ajenos, deberán obtener autorización expresa de los propietarios o usufructuarios de los mismos, mediante convenios celebrados por escrito por tiempo definido, que podrá ser renovable a su vencimiento. El mencionado contrato deberá registrarse en la Asociación Apícola Local, previa autorización de la SEDARH, a fin de conceder el apoyo legal que estas operaciones deberán tener.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 439.
 
-Las controversias suscitadas entre apicultores, por cuestión de establecimiento de nuevos apiarios, de no resolverse por mutuo acuerdo, podrán ser conciliadas por la Asociación Apícola Local, apoyándose en un tercero que podrá ser la Unión Estatal de Apicultores. En los casos de que aún persistiera la inconformidad, la resolución la dictará la SEDARH.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 440.
 
-Los agricultores que utilicen plaguicidas y herbicidas tienen la obligación de avisar a los apicultores ubicados a una distancia menor de dos kilómetros del predio donde los aplicarán, con el fin de que éstos protejan o cambien sus apiarios, y las abejas no resulten intoxicadas.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 441.
 
-Quienes efectúen quemas, están obligados a tomar las precauciones necesarias para evitar que el fuego llegue a los apiarios instaladas (sic) en las cercanías del predio sujeto a la quema. En caso de que se produzcan daños a dichas colmenas, los autores de las quemas serán responsables de los mismos y los perjuicios que causen.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 442.
 
-Se clausurarán los apiarios que se instalen en contravención a las disposiciones establecidas en esta Ley y su Reglamento, los apiarios y sus colmenas quedarán a disposición de la SEDARH, para garantizar el pago de las multas correspondientes.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 ### CAPITULO IV. De la Organización de Apicultores
 
@@ -3529,45 +3605,59 @@ Las Asociaciones de Apicultores elaborarán croquis o mapas del área de su juri
 
 ### CAPITULO V. Del Control Sanitario y Movilización de los Apiarios
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### ARTICULO 447.
 
-El control sanitario de abejas, sus productos y subproductos en estado natural, refrigerado, congelado, industrializado se sujetará a las disposiciones contenidas en el Título Séptimo de esta Ley, en lo que sea aplicable.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 448.
 
-La movilización interna, así como la introducción o salida del Estado de abejas, sus productos y subproductos en estado natural, refrigerado, congelado, industrializado, se sujetará a lo dispuesto en el Título Séptimo de esta Ley, en lo que sea aplicable.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 449.
 
-Con interés de preservar la sanidad animal, todo colmenar de la entidad deberá estar inscrito en las campañas nacionales de control y erradicación de la Varroasis en los términos de las normas oficiales mexicanas.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 450.
 
-Los médicos veterinarios debidamente acreditados por la autoridad competente, así como el personal de los organismos auxiliares en materia de salud animal, en los términos de la ley federal de sanidad animal, llevarán a cabo la inspección sanitaria de los colmenares, que comprenderá la toma de muestras para realizar las pruebas diagnósticas de Varroasis.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 451.
 
-Los propietarios y responsables de los colmenares en los que se identificaran infestaciones de Varroa, deberán acatar las disposiciones establecidas en las normas oficiales mexicanas para su tratamiento.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 452.
 
-Los propietarios de criaderos de abejas reina para su venta a otros apicultores, además de las obligaciones señaladas en el artículo anterior, deberán someter a inspección sus métodos de crianza y comprobar en todo tiempo que les sea requerido, la calidad genética de ese tipo de abejas.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 453.
 
-Los apicultores que pretendan movilizar colmenas pobladas, dentro de la Entidad, antes de establecerlas deberán cerciorarse de que podrán cumplir con las disposiciones de los artículos 426 a 442 de esta Ley, referentes a la instalación de apiarios en la entidad, por medio de información de Asociación de Apicultores de la localidad.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 454.
 
-La introducción de colmenas, productos y derivados apícolas al Estado se sujetará a lo dispuesto a lo establecido en los artículos 288 al 291 de esta ley, que se refieren a las disposiciones adicionales para la introducción y salida de animales, sus productos y subproductos.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-Adicionalmente, se requerirá el permiso de la SEDARH, dando conocimiento a la Organización Apícola Local, en donde se piensa instalar las nuevas colmenas.
-
-Todo embarque de miel fuera de la entidad, deberá acompañarse del permiso que expida la SEDARH, en el que se defina su calidad y características organolépticas. Sin este requisito no se autorizará su salida.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 455.
 
-La SEDARH, podrá revisar las colmenas, previo aviso dado al propietario, cuando se presuma el peligro de plagas y enfermedades que pongan en peligro la apicultura de una región determinada. En caso de omisión u oposición por parte de un apicultor, la SEDARH, tomará las medidas legales que considere convenientes, a fin de obligar al productor a facilitar la revisión, independientemente de la aplicación de las sanciones a que hubiere lugar.
+(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 ## TITULO DECIMO TERCERO. DEL EJERCICIO PROFESIONAL
 
@@ -3631,39 +3721,25 @@ Los cuerpos de Seguridad Pública en el estado, que dependen de la Secretaría G
 
 ### CAPITULO III. Inocuidad y Calidad, Agroalimentaria
 
-> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-ARTICULO 466 BIS. El Ejecutivo del Estado, a través de la SEDARH, y en coordinación con los ayuntamientos, llevarán a cabo la vigilancia activa del ganado que llega a los rastros, para la detección de los padecimientos considerados en las campañas sanitarias obligatorias, así como de todos aquellos padecimientos y presencia de sustancias tóxicas que lo afecten, o que estén presentes en los animales, que al ser transformados en alimento permanezcan en los mismos y ocasionen efectos negativos leves, severos o aún la muerte, al ser consumidos por el humano y, por tanto, que se determinen como prioritarios para su control. Este proceso de vigilancia deberá integrarse en sistemas de certificación que integren la metodología técnica y práctica apropiada que al ser aplicados, garanticen la salud e inocuidad de los animales, de los alimentos resultantes del proceso de transformación y del hombre al ser ingeridos por éste.
+ARTICULO 466 BIS. (DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-Los diferentes sistemas de vigilancia activa y de certificación que se encuentren especificados en esta Ley y su reglamento, podrán ser cedidos y llevados a cabo por organismos o instituciones auxiliares de la Entidad mediante la suscripción de un convenio, quienes serán los responsables de llevar a cabo las actividades operativas, de certificación y dictamen de resultados que garanticen la veracidad de estas acciones.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-La SEDARH, en coordinación con la Secretaría de Salud, y de acuerdo a su normatividad podrá participar, cooperar y, en su caso, responsabilizarse de la vigilancia, procesamiento y certificación de todos los productos y subproductos alimenticios de origen animal, que se producen y se comercializan en la Entidad.
+ARTICULO 466 TER. (DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-La SEDARH podrá coordinarse con autoridades federales, estatales y municipales, para que en el ámbito de su competencia lleven a cabo las diferentes acciones que requiere el SICELlC, para dar cumplimiento práctico y efectivo con el contenido del artículo anterior, pudiendo en caso de considerarlo necesario, ceder mediante la celebración de convenios de coordinación o de colaboración con organismos auxiliares, como el Comité Estatal de Fomento y Protección Pecuaria (CEFPP), las diversas actividades operativas de certificación, especialmente en referencia a la certificación preventiva y correctiva vinculada a la cadena de producción primaria y que tiene como punto de destino final el rastro, sitio donde se llevará a cabo las acciones relacionadas con la certificación del ganado que ingresa al rastro, ya sea procedente de la Entidad o de otros Estados.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-La metodología de muestreo, técnicas oficiales y el procedimiento metodológico del SICELlC, se establecerá en el Reglamento de esta Ley, y la SEDARH elaborará un manual de procedimientos correspondiente, los cuales deberán ser elaborados y aprobados por las instancias competentes.
+ARTICULO 466 QUÁTER. (DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-ARTICULO 466 TER. La SEDARH dictaminará las características y especificaciones de los productos y materias primas para uso o consumo animal, así como las recomendaciones sobre su prescripción, aplicación, retiro, uso, prohibición y certificación para su control.
+ARTICULO 466 QUINQUE. (DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-La SEDARH establecerá en el Reglamento de esta Ley, el listado de las sustancias o productos cuyo uso o consumo en animales, están autorizados para ser utilizados o incluidos en los alimentos destinados para su alimentación o aplicación, así como las sustancias o productos que estén prohibidos por causar efectos nocivos en los animales y, sobre todo, en la salud del humano, al ser ingeridos principalmente a través de sus productos y subproductos alimenticios; dentro de las sustancias prohibidas para su uso en la alimentación animal se encuentra el clenbuterol.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2009)</small>
-
-ARTICULO 466 QUATER. Para realizar una vigilancia activa e impedir el uso del clenbuterol, el Ejecutivo del Estado, por sí mismo, a través de la SEDARH, o mediante la institución auxiliar operativa, establecerá un programa integral de certificación estatal denominado: Sistema de Certificación Libre de Clenbuterol (SICELlC), el cual mediante una verificación continua garantizará la ausencia de este compuesto, tanto en la fase de procesamiento de alimentos, como en su suministro al ganado bovino y finalmente, la presencia de esta sustancia en el animal que afecta la inocuidad de los productos y subproductos cárnicos resultantes.
-
-La SEDARH, o en su caso, el organismo oficial operativo, será la o el responsable de llevar a cabo la certificación preventiva crítica libre de clenbuterol, cuyo programa de control se centra exclusivamente en la vigilancia del ganado bovino que entra al rastro y que es certificado antes del sacrificio, ya sea proveniente de la Entidad o fuera de ella. Este es el lapso final crítico donde confluye el ganado de origen interno y externo y es muestreado sin excepción, requiriéndose para el caso, llevar un estricto control del origen del ganado y poder certificar la trazabilidad de la producción primaria. Los casos que resulten negativos se les otorgará el sello de Certificado Libre de Clenbuterol (CLlC), el cual será aplicado a los productos y subproductos cárnicos resultantes.
-
-La SEDARH o, en su caso, el organismo oficial autorizado, llevará a cabo la certificación del ganado bovino procedente de otros Estados que llegan a sacrifico, los cuales deberán llegar debidamente documentados para garantizar su origen, de otra manera serán retornados al no disponerse de una trazabilidad confiable. Los casos que resulten negativos se les otorgará el sello de CLlC, el cual será aplicado a los productos y subproductos cárnicos resultantes.
-
-> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2009)</small>
-
-ARTICULO 466 QUINQUE. El productor, introductor, tablajero, persona física o moral radicada en el Estado o fuera de el, que desee ser usuario del servicio de sacrificio en un rastro autorizado, rastro Prototipo Estatal (RAPE) o Rastro TIF, deberá obligatoriamente estar registrado en el Sistema Estatal de Identificación de Propiedades Pecuarias (SEIPP).
-
-> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2009)</small>
-
-ARTICULO 466 SEXTIES. Los SSSLP son los responsables del control, certificación e inocuidad de los productos y subproductos alimenticios que fueron procesados en la Entidad o provenientes de otro estado. En el caso específico del SICELlC, se llevará a cabo una fase de certificación de los productos y subproductos cárnicos que se encuentren disponibles en carnicerías, obradores, empacadoras, frigoríficos fijos y móviles, y diversos comercios, los cuales deberán contar con un sello de garantía CLlC y, en su defecto, realizar la prueba de constatación individual o por lote, y en caso de resultar negativa se le otorgará el sello de constatación libre de clenbuterol; la muestra que resulte positiva será decomisada, destruida, y el propietario del producto se hará acreedor a las sanciones que la Ley de Salud del Estado de San Luis Potosí dispone para el caso.
+ARTICULO 466 SEXTIES. (DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 ## TITULO DECIMO QUINTO. DE LA DENUNCIA CIUDADANA; Y DE LAS INFRACCIONES Y SANCIONES; DE LOS PROCEDIMIENTOS PARA LA APLlCACION DE SANCIONES
 
@@ -3687,15 +3763,21 @@ En el caso de que las autoridades competentes y los servidores públicos no cump
 
 Se establecen como infracciones las siguientes:
 
-I. No presentar, previo a la participación en una exposición ganadera nacional o regional, los documentos sanitarios que certifiquen que los animales presentados no constituyen un riesgo zoosanitario para el resto del ganado participante en el evento;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+I. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 II. No registrar la instalación de una posta zootécnica o campo experimental ante la SEDARH;
 
 III. No proporcionar información a las autoridades competentes que lo soliciten ni hacer las demostraciones necesarias a productores y grupos escolares, en los casos de establecimientos ganaderos, campos experimentales y postas zootécnicas;
 
-IV. No registrar ante la autoridad municipal y la SEDARH las actividades de asiento de su producción en el plazo y con la aportación de los datos a que se refieren los artículos 127, 129 Y 132 de esta Ley;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-V. No contar con el denominado "libro de hato" en el caso de los ganaderos que se dediquen a la cría y explotación de ganado de registro de cualquier especie;
+IV. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+V. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 VI. Todo acto que afecte, altere o dañe sin justa causa el destino, condición, productividad y equilibrio de las áreas dedicadas al pastoreo, en los términos del artículo 137 de esta ley;
 
@@ -3717,9 +3799,13 @@ XIII. Realizar acciones que vayan en contra de lo establecido en esta ley, respe
 
 XIV. Destruir el hábitat natural de las especies de fauna silvestre;
 
-XV. No mantener actualizado el padrón o censo de agremiados, o no hacer del conocimiento de las autoridades competentes de las actualizaciones realizadas, en el caso de las organizaciones de ganaderos y demás productores agropecuarios;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XVI. No acatar, en el caso de los ganaderos propietarios o poseedores de terrenos de agostadero, con las disposiciones establecidas en el artículo 163 de esta Ley;
+XV. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+XVI. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 XVII. No vigilar los animales de su propiedad o que están a su cuidado con el fin de evitar que causen daños en las propiedades contiguas, en perjuicio de un tercero;
 
@@ -3757,7 +3843,9 @@ XXXIII. No refrendar el registro de fierro, marca, señal, tatuaje o elemento el
 
 XXXIV. No informar sobre la existencia ni poner a la disposición de las autoridades municipales el ganado mostrenco u orejano hallado en sus terrenos;
 
-XXXV. Cuando los organismos de cooperación en materia de sanidad animal y control de movilización agropecuaria, incumplan con las responsabilidades que les otorgan los artículos 249 y 250 de esta Ley;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+XXXV. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 XXXVI. No permitir el uso de las servidumbres de paso consideradas vías pecuarias;
 
@@ -3765,75 +3853,139 @@ XXXVII. Atentar contra las vías pecuarias;
 
 XXXVIII. No contar con la autorización correspondiente y se permita pastorear al ganado, beber de aguajes en donde el agua se obtuvo por bombeo, se le permita causar daños o aparearse con animales de otos ranchos cuando se arree ganado a través de predios ajenos;
 
-XXXIX. Voluntaria o involuntariamente, evadir, no detenerse o negarse a retornar a los puntos de verificación e inspección a efecto de acreditar la procedencia, propiedad y sanidad de los animales, productos y subproductos de origen animal que se movilicen;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XL. No permitir que se realicen verificaciones e inspecciones por parte de las autoridades competentes en los términos del artículo 262 y 263 de esta Ley;
+XXXIX. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+XL. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 XLI. No presentarse cuando sea citado por la autoridad competente, en los casos en que existan irregularidades en el cumplimiento de normas y demás disposiciones aplicables en materia de sanidad agropecuaria y control de movilización;
 
-XLII. No amparar la movilización de animales, plantas, productos y subproductos de origen agropecuario con la guía de tránsito y la documentación sanitaria correspondiente, ambos vigentes, de acuerdo a las normas oficiales aplicables;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XLIII. Ofertar animales sin la totalidad de la documentación necesaria para amparar su movilización, de acuerdo a las disposiciones federales, estatales, municipales y sus reglamentos en materia de movilización;
+XLII. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-XLIV. Expedir o manejar guías de tránsito sin la debida autorización de la SEDARH;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XLV. Expedir documentación de tránsito de animales, cuya propiedad o condición zoosanitaria no esté debidamente acreditada;
+XLIII. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-XLVI. No respetar o modificar la ruta de movilización asentada en un guía de tránsito sin notificarlo al Punto de Verificación e Inspección más próxima, y por este conducto a la SEDARH;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XLVII. Cuando los datos que se asienten en la guía de tránsito no concuerden con los animales, productos o subproductos de que se trate al momento de realizar la verificación correspondiente;
+XLIV. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-XLVIII. Movilizar ganado muerto o enfermo o que se sospeche fundadamente que padece alguna enfermedad infectocontagiosa o que presente garrapatas;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XLIX. No cancelar con matasellos la guía de tránsito y demás documentación de movilización, en los rastros o centros de sacrificios señalados como destino de la movilización;
+XLV. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-L. No acatar las disposiciones adicionales para la introducción y salida de animales, sus productos y subproductos dictadas por la SEDARH en los términos de los artículos 263 y 265 de esta Ley;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-LI. Movilicen o introduzcan al Estado productos o subproductos, materiales, empaques, embalajes, semillas, biológico o especimenes sospechosos de ser portadores de plagas o enfermedades que afecten al sector o cuando hallan (sic) sido tratados con productos químicos no autorizados, que puedan ocasionar daños a la salud humana o animal o afectar el medio ambiente;
+XLVI. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+XLVII. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+XLVIII. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+XLIX. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+L. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+LI. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 LII. Cuando los establecimientos dedicados al sacrificio de animales no dan aviso de inicio de funcionamiento o aviso de apertura;
 
-LIII. Permitir el ingreso a rastros y centros de sacrificio de animales muertos o sin la documentación de movilización a que hacen referencia los artículos 272 y 273, a excepción de lo dispuesto en el artículo 295 de esta Ley;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-LIV. No contar los Rastros con un Médico Veterinario Zootecnista para hacer cumplir las disposiciones federales y estatales en materia de inspección sanitaria aplicables;
+LIII. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-LV. No informar a la SEDARH, a la Secretaría de Salud, a la Delegación Estatal de la SAGARPA y a las Uniones Ganaderas, del movimiento del ganado y sacrificios efectuados en rastros y centros de sacrificio;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-LVI. Sacrificar hembras que tengan 5 o más meses de gestación, salvo los casos de inutilidad comprobada;
+LIV. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-LVII. No contar con la licencia concedida por la autoridad competente para comercializar productos y subproductos de origen animal;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-LVIII. Vender, comprar, recoger, aceptar o llevar a cabo cualquier operación o contrato con el despojo de algún animal muerto a causa de alguna enfermedad infectocontagiosa;
+LV. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-LIX. No incinerar o enterrar el ganado que fallezca con síntomas de padecer alguna enfermedad infectocontagiosa;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-LX. No acatar las medidas o acciones fitozoosanitarias, dictadas por las autoridades competentes o los organismos de cooperación acreditados que se apliquen para prevenir, detectar, combatir, suprimir, o erradicar plagas o enfermedades que puedan afectar al sector;
+LVI. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-LXI. No colaborar con las autoridades competentes en las campañas zoosanitarias relacionadas con la especie que se explote;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-LXII. Introducir al Estado animales procedentes de otras entidades en las que esté comprobada la existencia de una enfermedad infectocontagiosa o parasitaria que represente un riesgo a la condición zoosanitaria de la ganadería estatal;
+LVII. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-LXIII. Aparecer como nacido en el Estado, a ganado proveniente de otra entidad del país;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-LXIV. No aplicar las vacunas para prevenir enfermedades infectocontagiosas a los animales, determinadas por la autoridad competente;
+LVIII. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-LXV. No presentar denuncia ante la autoridad competente, de la existencia, aparición o indicio de cualquier enfermedad infecciosa o contagiosa, así como de los hechos, actos u omisiones que atenten contra la sanidad animal, que se presente en la entidad;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-LXVI. No dar cumplimiento a las disposiciones sanitarias referentes al manejo y tratamiento de animales con síntomas de una enfermedad infectocontagiosa transmisibles al hombre;
+LIX. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-LXVII. Expedir certificados zoosanitarios o guías de tránsito para salir de una zona cuarentenada;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-LXVIII. No observar las disposiciones de las normas oficiales mexicanas que rigen las campañas zoosanitarias contra la Tuberculosis, Brucelosis, y Rabia Paralítica en bovinos, Brucelosis en ovinos y caprinos, contra la Fiebre Porcina Clásica y Enfermedad de Aujeszky en porcinos, contra la Salmonelosis, Influenza y Enfermedad de Newcastle en aves, la campaña de control de la garrapata así como las que sean decretadas por la autoridad competente;
+LX. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-LXIX. Cuando los Médicos Veterinarios y Laboratorios no extiendan las constancias y dictámenes oficiales en los que se señalen los resultados de las pruebas diagnósticas o tratamientos preventivos o curativos efectuados;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-LXX. No colaborar en las acciones y financiamiento de las campañas contra las enfermedades de los animales que emprendan las autoridades competentes;
+LXI. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+LXII. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+LXIII. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+LXIV. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+LXV. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+LXVI. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+LXVII. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+LXVIII. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+LXIX. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+LXX. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 LXXI. Instalar cualquier tipo de explotaciones de bovinos productores de leche, de ovinos, caprinos, aves y apiarios en los centros de población;
 
-LXXII. Comercializar leche para consumo humano que esté adulterada, alterada, sucia o contaminada o que no reúna las características generales, físicas y químicas establecidas en esta Ley y demás disposiciones aplicables;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-LXXIII. No cumplir con las disposiciones sanitarias aplicables al transporte de productos y subproductos de origen animal;
+LXXII. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+LXXIII. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 LXXIV. No contar con la autorización de la instalación de apiarios expedida por la SEDARH;
 
@@ -3843,15 +3995,13 @@ LXXVI. No hacer del conocimiento de los apicultores ubicados a una distancia men
 
 LXXVII. No tomar las precauciones necesarias para evitar que el fuego llegue a las colmenas instaladas en las cercanías del predio sujeto a quemas autorizadas;
 
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-LXXVIII. Expedir certificados zoosanitarios y de movilización de productos y subproductos de origen animal sin la autorización expresa de las autoridades competentes;
+LXXVIII. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
 
-> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-LXXIX. Cuando se identifique un ganado a través de las pruebas oficiales, la detección de clenbuterol, será sujeto de decomiso para su destrucción total sin ningún resarcimiento económico por parte de la autoridad. Cuando el ganado sea introducido al rastro por una persona distinta al propietario, será copartícipe de la falta y responsable mutuo de las sanciones que correspondan.
-
-El ganado de un propietario, introductor, o tablajero, o cualquier otra persona que por segunda ocasión reincida en la falta citada en el párrafo que antecede, se le cancelará en forma definitiva la licencia para introducir ganado a todos los rastros de la Entidad, boletinando al resto de los Estados de la república para su conocimiento, y
+LXXIX. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2012)
 
 LXXX. Las demás que establezca esta Ley y disposiciones reglamentarias.
 
@@ -3899,21 +4049,37 @@ En caso de personas detenidas por la comisión de delitos, éstas serán puestas
 
 ARTICULO 471 BIS. La imposición de las multas a que se refiere la fracción V del artículo anterior, se determinará en la forma siguiente.
 
-I. Con un equivalente de veinte días de salario mínimo vigente en la Entidad, a quien cometa las infracciones señaladas en las fracciones I, II, III, IV, X, XI, XII, XV, XVII, XVIII, XIX, XX, XXI, XXII, XXV, XXVI, XXXI, XXXIII, XXXVI, XXXVII; LIV, LV, LVI, LVII, LIX, LX, LXI, LXIII, LXIV, LXV, LXXIII y LXXV del artículo 470 de esta Ley;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+
+I. Con un equivalente de veinte días de salario mínimo vigente en la Entidad, a quién cometa las infracciones señaladas en las fracciones III, III (sic), X, XI, XII, XVII, XVIII, XIX, XX, XXI, XXII, XXV, XXVI, XXXI, XXXIII, XXXVI, XXXVII, LIX, LX, LXI, LXIII, LXIV, LXV, LXXIII y LXXV del artículo 470 de esta Ley;
 
 II. Con un equivalente de cinco días hasta cien días de salario mínimo vigente en la Entidad, a quien cometa las infracciones señaladas en la fracción XXXIV del artículo 470 de esta Ley;
 
-III. Con un equivalente de diez hasta cincuenta días de salario mínimo vigente en la Entidad, a quién cometa las infracciones señaladas en las fracciones V, VI, VII, VIII, XVI, XXIV, XXVII, XXVIII, XXIX, XXXV, XXXVIII y LXVI del artículo 470 de esta Ley;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+
+III. Con un equivalente de diez hasta cincuenta días de salario mínimo vigente en la Entidad, a quien cometa las infracciones señaladas en las fracciones VI, VII, VIII, XXIII, XXIV, XXVII, XXVIII, XXIX y XXXVIII del articulo 470 de esta Ley;
 
 IV. Con un equivalente de diez hasta cien días de salario mínimo vigente en la Entidad, a quien cometa la infracción señalada en la fracción IX del artículo 470 de está Ley;
 
-V. Con un equivalente de veinte hasta doscientos días de salario mínimo vigente en la Entidad, a quien cometa las infracciones señaladas en las fracciones XXX, XXXII, XXXIX, XL, XLI, XLII, XLIII, LXVI, XLVII, LXII, LXVIII, LXIX, LXX, LXXI, LXXII, LXXIV, LXXVI, y LXXVII y LXXIX del artículo 470 de esta Ley;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+
+V. Con un equivalente de veinte hasta doscientos días de salario mínimo vigente en la Entidad, a quien Cometa las infracciones señaladas en las fracciones XXX, XXXII, XLI, XLIII, XLVII, LXXI, LXXIV, LXXVI, LXXVII, y LXXIX del artículo 470 de esta Ley;
 
 VI. Con un equivalente de diez hasta mil días de salario mínimo vigente en la Entidad, a quien cometa las infracciones señaladas en las fracciones XIII y XIV del artículo 470 de esta Ley;
 
 VII. Con un equivalente de cincuenta hasta mil días de salario mínimo vigente en la Entidad, a quien cometa las infracciones señaladas en las fracciones XLIV, XLV, XLVIII y L del artículo 470 de esta Ley, y
 
-VIII. Con un equivalente de quinientos hasta mil días de salario mínimo vigente en la Entidad, a quien cometa las infracciones señaladas en las fracciones XLIX, LI, LII, LIII, LVIII, LXVII y LXXVIII, del artículo 470 de esta Ley.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+
+VIII. Con un equivalente de quinientos hasta mil días de salario mínimo vigente en la Entidad, a quien cometa las infracciones señaladas en la fracción LXXVIII del articulo 470 de esta Ley.
 
 Lo anterior, sin perjuicio de las sanciones administrativas a que se hagan acreedores.
 
@@ -4018,3 +4184,9 @@ P.O. 25 DE AGOSTO DE 2012.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 15 DE SEPTIEMBRE DE 2012.
+
+PRIMERO. El presente decreto entrará en vigor a partir del día 1 de enero del año 2013, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
