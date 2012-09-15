@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-asistencia-social-para-el-estado-y-municipios-de-san-236
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-19"
-last_updated: "2011-11-10"
+last_updated: "2012-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de enero de 2002.
 
@@ -203,19 +203,19 @@ c) Los adultos mayores en situación de maltrato físico o mental.
 
 d) Los indigentes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 30 DE JULIO DE 2011)</small>
 
 e) A las familias que se encuentren en situación de calle, por encontrarse en estado de desventaja social y que tengan a su cargo menores, personas con discapacidad o adultos mayores;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE JULIO DE 2011)</small>
 
 V. Las personas adictas o farmacodependientes que se encuentren recluidas o internadas en centros de tratamiento y rehabilitación de adicciones y que sean objeto de actos que violen sus derechos humanos por parte de las personas encargadas o internos de éstos, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 10 DE JULIO DE 2007)</small>
 
@@ -383,17 +383,17 @@ r) Proponer a los Servicios de Salud de San Luis Potosí en su carácter de admi
 
 s) Impartir cursos de inducción y capacitación al personal de los DIF municipales en materia de asistencia social y sobre los programas asistenciales que operen en sus municipios.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE JULIO DE 2011)</small>
 
 t) Realizar inspecciones en los centros de tratamiento y rehabilitación de adicciones, a fin de comprobar que se respeten los derechos humanos de las personas internas o recluidas y, en su caso, determinar la existencia de violación a los mismos, a efecto de imponer la sanción establecida en el presente Ordenamiento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 u) Los demás similares que sirvan al cumplimiento de los objetivos del DIF Estatal, y
 
-> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], P.O. 11 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 11 DE SEPTIEMBRE DE 2010)</small>
 
 III. De difusión:
 
@@ -617,9 +617,17 @@ IX. Estudiar y aprobar los proyectos de inversión;
 
 X. Conocer la integración de comités internos y grupos de trabajo;
 
-XI. Otorgar al Director General representación para celebrar actos de dominio, y
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
-XII. Las demás que sean necesarias para el ejercicio de las facultades anteriores.
+XI. Otorgar al Director General representación para celebrar actos de dominio;
+
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+
+XII. Otorgar a quien presida, la representación para que como vocal integre el Consejo Estatal de Trasplantes, y
+
+> <small>(ADICIONADA, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+
+XIII. Las demás que sean necesarias para el ejercicio de las facultades anteriores.
 
 ###### ARTICULO 27.
 
@@ -915,7 +923,7 @@ Las demás que le asigne esta Ley, su Reglamento y demás disposiciones legales 
 
 Para el cumplimiento de sus obligaciones en materia de asistencia social, los municipios del Estado deberán contar con un Sistema Municipal para el Desarrollo Integral de la Familia, que podrá instituirse y operar como:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 22 DE JULIO DE 2010)</small>
 
@@ -1388,3 +1396,9 @@ P.O. 10 DE NOVIEMBRE DE 2011.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 15 DE SEPTIEMBRE DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
