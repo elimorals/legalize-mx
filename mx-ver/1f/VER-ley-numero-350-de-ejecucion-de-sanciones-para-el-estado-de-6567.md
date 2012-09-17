@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-350-de-ejecucion-de-sanciones-para-el-estado-de-6567
 country: "mx"
 rank: "ley"
 publication_date: "1992-02-01"
-last_updated: "2006-01-11"
+last_updated: "2012-09-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,3182 +21,692 @@ state: "VER"
 ---
 # LEY NUMERO 350 DE EJECUCION DE SANCIONES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS
+LEY DE EJECUCIÓN DE SANCIONES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2014.
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO SERA DEROGADO POR LOS ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DE LA LEY NÚMERO 573 DE EJECUCIÓN DE SANCIONES Y REINSERCIÓN SOCIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN LA G.O. DEL 17 DE SEPTIEMBRE DE 2012.</small>
 
-Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 2 de septiembre de 2010.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE SEPTIEMBRE DE 2012.
 
-EUGENIO HERNANDEZ FLORES, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, a sus habitantes hace saber:
+Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el sábado 1 de febrero de 1992.
 
-Que el Honorable Congreso del Estado, ha tenido a bien expedir el siguiente Decreto:
+Al margen un sello que dice: Estados Unidos Mexicanos.- Gobernador del Estado de Veracruz-Llave.
 
-Al margen un sello que dice:- "Estados Unidos Mexicanos.- Gobierno de Tamaulipas.- Poder Legislativo.
+DANTE DELGADO, Gobernador del Estado Libre y Soberano de Veracruz- Llave, a sus habitantes sabed:
 
-LA SEXAGESIMA LEGISLATURA DEL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, EN USO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTICULOS 58 FRACCION I DE LA CONSTITUCION POLITICA LOCAL; 119 DE LA LEY SOBRE LA ORGANIZACION Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS, TIENE A BIEN EXPEDIR EL SIGUIENTE:
+Que la H. Legislatura del Estado se ha servido expedir la siguiente:
 
-D E C R E T O No. LX-1117 MEDIANTE EL CUAL SE EXPIDE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS.
+LEY
 
-###### ARTICULO UNICO.
+Al margen un sello con el Escudo Nacional que dice: "Estados Unidos Mexicanos.- Poder Legislativo.- Estado Libre y Soberano de Veracruz- Llave.
 
-Se expide la Ley Orgánica de la Procuraduría General de Justicia del Estado de Tamaulipas, para quedar como sigue:
+La Honorable Quincuagésima Quinta Legislatura del Estado Libre y Soberano de Veracruz- Llave, en uso de la facultad que le conceden los artículos 68 fracción I y 71 fracción I, ambos de la Constitución Política del Estado; 47, 49 y 50 de la Ley Orgánica del Poder Legislativo del Estado de Veracruz y 57, 58, 59, 60, 61 y 64 del Reglamento Interior del Poder Legislativo y en nombre del pueblo, expide la siguiente:
 
-LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS.
+> <small>(REFORMADA SU DENOMINACIÓN POR ARTÍCULO CUARTO TRANSITORIO DEL DECRETO DE REFORMA CONSTITUCIONAL, G.O. 18 DE MARZO DE 2003)</small>
 
-## TITULO PRIMERO. DEL MINISTERIO PUBLICO
+LEY N° 350
+
+DE EJECUCIÓN DE SANCIONES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+
+## TITULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
 ###### ARTICULO 1°.
 
-La presente ley regula la organización y el funcionamiento de la Procuraduría General de Justicia como dependencia de la administración pública centralizada del Estado que representa a la institución del Ministerio Público, con base en las atribuciones establecidas en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Tamaulipas, la Ley Orgánica de la Administración Pública del Estado de Tamaulipas, y demás disposiciones legales aplicables.
-
-> <small>(REFORMADO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+Esta Ley tiene por objeto la prevención de las conductas ilícitas y la ejecución de las sanciones correspondientes a los delitos establecidos por el Código Penal del Estado y otros ordenamientos, para alcanzar la readaptación social de los sentenciados, así como evitar la desadaptación social de los procesados.
 
 ###### ARTICULO 2°.
 
-La institución del Ministerio Público representa los intereses de la sociedad. El Ministerio Público estará integrado por un Procurador General de Justicia, quien lo presidirá, así como por Subprocuradores, Directores Generales, Directores, Coordinadores, Agentes del Ministerio Público y demás servidores públicos que determine esta Ley para su organización y funcionamiento.
+La aplicación de esta Ley, le corresponde al Ejecutivo del Estado, a través de la Dirección General de Prevención y Readaptación Social.
+
+Es facultad exclusiva del Gobernador:
+
+I.- Celebrar con la Federación, Entidades Federativas, Municipios y las Instituciones Públicas y Privadas, convenios para la prevención de la delincuencia y la readaptación social en el Estado.
+
+II.- Celebrar con la Federación y las Entidades Federativas, convenios a fin de que los reos sentenciados extingan sus condenas en establecimientos dependientes del Ejecutivo Federal o Estatal.
 
 ###### ARTICULO 3°.
 
-El Procurador ejercerá las atribuciones conferidas a la institución por sí o por conducto de los servidores públicos de la misma y sus órganos auxiliares.
+Los cuerpos de Seguridad Pública del Estado, están obligados a brindar el auxilio y apoyo necesario a la Dirección General de Prevención y Readaptación Social, para el cumplimiento de sus determinaciones, en materia de ejecución de las sanciones privativas de la libertad.
 
-## TITULO SEGUNDO. DE LA POLICÍA INVESTIGADORA
+## TITULO SEGUNDO. DE LOS ORGANOS ENCARGADOS DE LA PREVENCION Y READAPTACION SOCIAL
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2010)</small>
-
-### CAPITULO I. DISPOSICIONES GENERALES
+### Capítulo I. De la Dirección General de Prevención y Readaptación Social
 
 ###### ARTICULO 4°.
 
-Para los efectos de esta Ley, se entenderá por:
+La Dirección General de Prevención y Readaptación Social, será el órgano responsable de la aplicación de esta Ley y disposiciones que de ella emanen, tendrá bajo su mando a los Centros de Readaptación Social y estará a cargo de un Director General, quien deberá estar titulado en la Ciencia del Derecho, con experiencia profesional de cuando menos cinco años y no tener antecedentes penales.
 
-I. Agente del Ministerio Público: Agentes del Ministerio Público Investigadores, Adscritos, Auxiliares, Mixtos y Especializados;
-
-II. Consejo: El Consejo del Servicio Profesional de Carrera;
-
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-III. Delegaciones: Las Delegaciones de la Procuraduría General de Justicia del Estado;
-
-IV. Gobernador: El Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas;
-
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-V. Instituto: El Instituto de Atención a Víctimas del Delito;
-
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-VI. INCATEP: El Instituto de Capacitación Técnica y Profesional;
-
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-VII. Ley: Ley Orgánica de la Procuraduría General de Justicia del Estado de Tamaulipas;
-
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-VIII. Ministerio Público: La institución regulada en el presente ordenamiento;
-
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-IX. Procuraduría: La Procuraduría General de Justicia del Estado;
-
-> <small>(ADICIONADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-X. Procurador: El Procurador General de Justicia del Estado; y
-
-> <small>(ADICIONADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-XI. Reglamento: El Reglamento de la presente Ley.
+Así mismo, la Dirección contará con el personal técnico, administrativo y de supervisión y custodia que determine el presupuesto.
 
 ###### ARTICULO 5°.
 
-Los servidores públicos que integran la Procuraduría regirán su actuación con base en los principios constitucionales de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
+La Dirección General de Prevención y Readaptación Social, tendrá las atribuciones siguientes:
 
-### CAPITULO II. DE LAS ATRIBUCIONES
+I.- Elaborar y ejecutar los planes y programas relacionados con el Sistema de Prevención y Readaptación Social del Estado.
+
+II.- Proponer al Ejecutivo las medidas convenientes para la prevención y la disminución de la delincuencia.
+
+III.- Coadyuvar con los demás órganos de la Administración Pública Estatal en la ejecución de la política criminológica que implemente el Ejecutivo.
+
+IV.- Realizar investigaciones criminológicas para implementar la política que en la materia dicte el Gobernador.
+
+V.- Auxiliar a las víctimas de los delitos.
+
+VI.- Cuidar de la operación y administración de los Centros de Readaptación Social existentes en el Estado y previo acuerdo del Secretario General de Gobierno, designar sus Directores.
+
+VII.- Proponer al Secretario General de Gobierno, los criterios generales, los reglamentos internos y las normas administrativas y técnicas de los Centros de Readaptación, para aplicar los tratamientos con base al respeto a la dignidad humana, la capacitación para el trabajo, la educación, la convivencia familiar y las medidas de readaptación social necesarias.
+
+VIII.- Ordenar y supervisar que en los Centros de Readaptación Social, se imparta a los internos educación especial, con la orientación de las autoridades del ramo.
+
+IX.- Establecer y administrar en los Centros, unidades industriales, artesanales o de trabajo, destinadas a la capacitación de los internos, así como para proporcionarles estímulos e ingresos que mejoren su economía familiar y en su caso, les permita reparar el daño causado.
+
+X.- Aprobar y vigilar el funcionamiento de los sistemas de supervisión y custodia de los Centros.
+
+XI.- Implementar medidas para mejorar el funcionamiento administrativo y técnico de los Centros, así como atender las necesidades de los internos y las sugerencias o quejas de sus familiares o defensores.
+
+XII.- Dictar medidas de selección, capacitación y promoción del personal dependiente de la Dirección.
+
+XIII.- Llevar estadísticas para determinar los factores criminógenos, con fines de prevención social en el Estado.
+
+XIV.- Proponer los convenios que deba celebrar el Ejecutivo, cuidando de su cumplimiento.
+
+XV.- Otorgar los beneficios de Libertad Condicional, Remisión Parcial de la Pena y Preliberación y autorizar el traslado de los internos que estén a disposición del Ejecutivo.
+
+XVI.- Vigilar, controlar y administrar los Consejos Tutelares y los Centros de Observación y de Adaptación Social de los menores infractores en el Estado.
+
+XVII.- Cuidar que en los Centros de Readaptación Social del Estado, se respeten los derechos de los internos.
+
+XVIII.- Coordinarse con las dependencias o instituciones públicas o privadas, para mejorar la prestación de los servicios de la Dirección.
+
+XIX.- Llevar el Casillero Judicial del Estado, proporcionar a las autoridades que lo soliciten los antecedentes penales y facilitar igualmente la identificación judicial de los mismos.
+
+XX.- Las demás que le atribuyan otras Leyes y Reglamentos o que le confiera el Ejecutivo o el Secretario General de Gobierno.
+
+### Capítulo II. Del Consejo Técnico Interdisciplinario
 
 ###### ARTICULO 6°.
 
-La Procuraduría conformará un Consejo de Consulta y Participación de la Comunidad con representantes de organizaciones académicas, privadas y sociales, cuyo objeto será que la sociedad civil participe en la definición, el seguimiento y la evaluación de programas y acciones procedentes, presente quejas y denuncias y proponga reconocimientos por méritos o estímulos para los integrantes del servicio profesional de carrera.
-
-El Procurador promoverá la instalación de Consejos de Consulta y Participación de la Comunidad en las delegaciones.
-
-La participación de la sociedad civil en los procedimientos de evaluación se orientará a medir y analizar el desempeño de los integrantes de la Procuraduría, así como el impacto de las políticas públicas en la investigación y persecución de conductas antisociales.
+La Dirección General de Prevención y Readaptación Social, contará con un Consejo Técnico Interdisciplinario, con funciones consultivas, para la prevención de las conductas ilícitas, la aplicación individual del sistema de tratamiento, la ejecución de medidas preliberacionales y la concesión de los beneficios de libertad previstos en esta Ley.
 
 ###### ARTICULO 7°.
 
-Al Ministerio Público del Estado le compete el ejercicio de las siguientes atribuciones:
-
-l. La función de seguridad pública relativa a la investigación y persecución de los delitos, que comprende:
-
-A) En la etapa de la averiguación previa:
-
-> <small>(REFORMADO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-1. Recibir denuncias o querellas sobre hechos que pudieran constituir delito, atendiendo en todo momento las previsiones para los adolescentes dispuestas en la legislación aplicable;
-
-> <small>(REFORMADO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-2. Desarrollar la investigación de los delitos con el auxilio de la Policía Investigadora y Policía Ministerial, que estarán bajo su mando inmediato y conducción, de los servicios periciales y de otras instituciones policiales estatales, municipales y federales, en términos de los convenios de colaboración para la investigación de los delitos respectivos y lo previsto en el Código de Procedimientos Penales para el Estado;
-
-3. Practicar las diligencias necesarias para acreditar el hecho delictuoso y la probable responsabilidad del indiciado, así como el monto del daño causado;
-
-4. Ordenar la detención y, en su caso, retener a los probables responsables de la comisión de delitos, en los casos autorizados por la ley, dando a conocer al imputado sus derechos fundamentales;
-
-5. Poner a disposición de la autoridad judicial a las personas retenidas, en los plazos legales correspondientes;
-
-6. Tomar conocimiento de las detenciones que en flagrancia o caso urgente se lleven a cabo y llevar un registro de las mismas;
-
-7. Obtener elementos probatorios para acreditar el cuerpo del delito y la probable responsabilidad del indiciado, y solicitar a los particulares la aportación voluntaria de los mismos y, en su caso, solicitar al órgano judicial la autorización u orden correspondiente para su obtención;
-
-8. Ordenar y dar fe de los procedimientos para preservar los indicios, huellas o vestigios de hechos presuntamente delictivos, así como asegurar y retener bienes, instrumentos, objetos y productos del delito, así como asentar cualquier violación a las disposiciones para la recolección, el levantamiento, la preservación y el traslado de los mismos, y dar vista a las autoridades competentes para efecto de las responsabilidades del caso;
-
-9. Solicitar al órgano judicial las medidas precautorias de aseguramiento o embargo, en términos de las disposiciones legales aplicables;
-
-10. Bajo su más estricta responsabilidad, dictar las providencias necesarias para restituir al ofendido en el goce de sus derechos que se encuentren plenamente justificados, cuando la naturaleza de los hechos de que tiene conocimiento así lo requiera;
-
-> <small>(REFORMADO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-11. Ordenar a la Policía Investigadora y Policía Ministerial que brinde protección a víctimas, ofendidos, testigos y en general a todas las personas que intervengan en la investigación ministerial. El acuerdo mediante el cual el Ministerio Público le ordena a la Policía Investigadora y Policía Ministerial la protección de personas, deberá estar autorizado por el Director General de Averiguaciones Previas;
-
-12. Llevar a cabo las acciones necesarias para solicitar la reparación del daño correspondiente;
-
-13. Proponer al Procurador que solicite la autorización correspondiente a efecto de intervenir comunicaciones y correspondencia, para fines de investigación delictiva;
-
-14. Garantizar los derechos de las víctimas y ofendidos, así como de los imputados, en los términos de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones legales aplicables;
-
-15. Aplicar de manera discrecional los medios de apremio procedentes para hacer cumplir sus determinaciones, en términos de lo previsto en el Código de Procedimientos Penales del Estado;
-
-16. Poner inmediatamente a disposición de la autoridad competente a los adolescentes que hubiesen realizado una conducta tipificada como delito por las leyes penales, una vez que se acrediten aquella calidad y el hecho delictivo. Tratándose de menores de 12 años de edad serán remitidos al Sistema Estatal de Asistencia y Protección Social, en términos de la Ley de la materia participará de inmediato a la Unidad de Defensoría Pública el hecho de que el imputado no designe defensor de su preferencia, a fin de que ésta le asigne uno gratuito;
-
-17. Solicitar al órgano judicial órdenes de cateo, de arraigo u otras medidas cautelares que resulten necesarias y procedentes para el perfeccionamiento de la averiguación;
-
-18. Ordenar la presentación de toda persona que, en función de los antecedentes que obran en la investigación, pudiera aportar algún dato que sirva para la debida comprobación del cuerpo del delito y/o la probable responsabilidad del o los inculpados;
-
-19. Prestar apoyo a los particulares en la captación de comunicaciones en las que estos participen, cuando los mismos lo soliciten para su aportación a la investigación;
-
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2013)</small>
-
-20. Proponer a las partes a someterse voluntariamente a los procedimientos alternativos de solución de conflictos en los casos en que proceda, a fin de llegar a acuerdos reparatorios;
-
-21. Acordar la incompetencia y, en su caso, remitir el asunto a la autoridad que deba conocerlo;
-
-22. Acordar la acumulación de las averiguaciones previas cuando sea procedente;
-
-23. Determinar el ejercicio de la acción penal ante el órgano judicial, cuando se establezca que se ha cometido un hecho que la ley señala como delito y exista la probabilidad de que el indiciado lo cometió o participó en su comisión, solicitando en su caso la orden de aprehensión y/o de comparecencia correspondiente;
-
-24. Decretar la reserva de la averiguación previa cuando de las diligencias practicadas no resulten elementos bastantes para hacer la consignación a los tribunales y no apareciere que se pudieran practicar otras, sin perjuicio de ordenar en cualquier tiempo y siempre que no haya prescrito la acción penal, la reapertura de la investigación de manera oficiosa, si con posterioridad aparecieren nuevos elementos de convicción que así lo justifiquen, haciendo la respectiva notificación a las partes;
-
-25. Determinar el no ejercicio de la acción penal, notificando dicha resolución a las partes, en cualquiera de las siguientes hipótesis:
-
-a) Los hechos de que conozca no sean constitutivos de delito;
-
-b) Una vez agotadas todas las diligencias y los medios de prueba correspondientes, no se acredite el cuerpo del delito o la probable responsabilidad del indiciado;
-
-c) La acción penal se hubiese extinguido en los términos de las normas aplicables; y,
-
-d) De las diligencias practicadas se desprenda plenamente la existencia de una causa de exclusión del delito y la responsabilidad penal, en los términos que establezcan las normas aplicables;
-
-26. Observar las disposiciones legales aplicables en materia de donación de órganos, tejidos y cadáveres;
-
-27. Verificar que se encuentren reunidos los requisitos de procedibilidad;
-
-28. Iniciar Acta Circunstanciada únicamente en los casos que se establezcan en el Reglamento;
-
-29. Conocer, en auxilio del Ministerio Público de la Federación, las denuncias o querellas que se le presenten con motivo de los delitos de ese orden; y,
-
-30. Las demás que determinen el Reglamento y otras disposiciones legales aplicables.
-
-Cuando el Ministerio Público tenga conocimiento por sí o por conducto de sus auxiliares de la probable comisión de un delito cuya persecución dependa de querella o de cualquier otro equivalente que deba formular alguna autoridad competente, lo comunicará por escrito de inmediato a ésta a fin de que resuelva lo que a sus atribuciones corresponda, procediendo inmediatamente el Ministerio Publico a asentar razón en autos de tal circunstancia.
-
-En los casos de delitos en flagrancia en que se inicie la averiguación previa con detenido, el Agente del Ministerio Público solicitará por escrito de inmediato a la autoridad competente que presente la querella o cumpla el requisito equivalente dentro del plazo de retención constitucional, asentando en autos la razón de su proceder.
-
-Cuando de las constancias de una Averiguación Previa se advierta la competencia del Ministerio Público de la Federación, deberá declarar la incompetencia y remitir sin demora las diligencias practicadas a la autoridad competente.
-
-> <small>(REFORMADO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-Los Agentes del Ministerio Público estarán investidos de fe pública, cuando actúen asistidos por un Oficial Ministerial o de dos testigos de asistencia. El Oficial Ministerial tendrá las atribuciones expresamente señaladas en el Reglamento de la presente Ley.
-
-> <small>(ADICIONADO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-En aquellos municipios en que no hubiere o no estuviere el Ministerio Público, las funciones estarán encomendadas al Oficial Ministerial, y en ausencia de ambos, corresponderá al Síndico Municipal dicha atribución, quien iniciará la averiguación previa correspondiente y practicará las actuaciones más urgentes, turnándolas de inmediato al Agente del Ministerio Público Investigador que corresponda; en caso de urgencia, podrá ejercer la acción penal consignando los hechos, así como a los detenidos, si los hubiere, a la autoridad judicial competente, y desempeñar además las funciones de Agente del Ministerio Público Adscrito al juzgado del lugar.
-
-B) En la etapa del proceso penal ante el órgano jurisdiccional:
-
-1. Aportar las pruebas y promover las diligencias conducentes para el debido esclarecimiento de los hechos presuntamente delictuosos, las circunstancias en que se hubiesen cometido y las peculiaridades del inculpado, de la responsabilidad penal, y de la existencia de daños y perjuicios y la fijación del monto de su reparación;
-
-2. Solicitar las medidas cautelares que procedan en términos de la legislación aplicable, así como la constitución de garantías para efectos de la reparación del daño;
-
-3. Procurar se garantice el ejercicio de los derechos de las víctimas y los ofendidos;
-
-4. Desistirse del ejercicio de la acción penal, previa autorización del Procurador;
-
-5. Oponerse a la concesión de la libertad caucional del inculpado cuando advierta que no es procedente;
-
-6. Formular las conclusiones y solicitar la imposición de las penas y medidas de seguridad que correspondan, así como el pago del daño material o moral;
-
-7. Solicitar la restricción de las comunicaciones de los internos inculpados, procesados y sentenciados por delincuencia organizada, salvo el acceso a su defensor, y la imposición de medidas de vigilancia especial a los mismos;
-
-> <small>(REFORMADO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-8. Interponer los incidentes, medios de impugnación y expresar los alegatos o agravios que procedan;
-
-9. Promover todo lo conducente al desarrollo expedito e imparcial de los procesos; y,
-
-10. Las demás que determinen otras disposiciones legales aplicables.
-
-II. Atender y proteger a la víctima y al ofendido por un delito, que comprende:
-
-1. Proporcionar asesoría jurídica e informar de los derechos que le asisten y cuando lo soliciten, del desarrollo del proceso;
-
-> <small>(REFORMADO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-2. Recibir las pruebas que le presenten que coadyuven para acreditar el cuerpo del delito, la plena responsabilidad del encausado y la procedencia y cuantificación por reparación del daño, fundando y motivando la recepción de las mismas;
-
-> <small>(REFORMADO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-3. Solicitar que se practiquen las diligencias conducentes que le soliciten y, en su caso, fundar y motivar su negativa;
-
-4. Otorgar facilidades para identificar al probable responsable;
-
-> <small>(REFORMADO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-5. Solicitar medidas para evitar que se ponga en riesgo la integridad física o psicológica y reciba atención médica de urgencia;
-
-6. Informar el significado y la trascendencia jurídica del acto de otorgamiento de perdón;
-
-7. Solicitar a la autoridad judicial, en los casos procedentes, se condene al sentenciado a la reparación del daño;
-
-8. Solicitar a la autoridad judicial que el inculpado sea separado del domicilio de la víctima cuando se trate de delitos que pongan en peligro su integridad física o mental, así como otros medidas cautelares procedentes;
-
-> <small>(REFORMADO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-9. Solicitar a la autoridad judicial dicte providencias para proteger a las víctimas y ofendidos, así como a sus familiares, bienes, posesiones o derechos cuando existan datos que establezcan la posibilidad de que se cometan actos de intimidación o represalias por parte de los probables responsables o por terceros relacionados con los mismos;
-
-10. Ejercer las acciones a favor o en beneficio de víctimas y ofendidos previstas en las disposiciones legales aplicables;
-
-> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2014)</small>
-
-11. Promover la reserva de identidad y otros datos personales de la víctima y el ofendido, cuando sean menores de edad; se trate de delitos de violación, secuestro, trata de personas o delincuencia organizada; y en los demás casos que se considere necesario para su protección;
-
-> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2014)</small>
-
-12. Informar a la víctima o al ofendido menor de edad que no está obligado a carearse con el inculpado cuando se trate de delitos de violación, secuestro o trata de personas;
-
-> <small>(REFORMADO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-13. Solicitar a la autoridad judicial se otorguen órdenes de protección preventivas o de emergencia en los casos de violencia familiar o, en su caso, dictar las medidas conducentes,
-
-> <small>(REFORMADO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-14. Solicitar al juez especializado las órdenes de aprehensión y comparecencia del adolescente, cuando procede;
-
-> <small>(ADICIONADO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-15. Solicitar, en los casos en que resulte procedente, la suspensión del proceso a prueba;
-
-> <small>(ADICIONADO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-16. Solicitar la imposición de medidas cautelares en los casos y por los tiempos previstos en la ley especializada de la materia;
-
-> <small>(ADICIONADO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-17. Solicitar la reparación del daño;
-
-> <small>(ADICIONADO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-18. Intervenir en todas las audiencias del proceso en los términos previstos por la ley de la materia;
-
-> <small>(ADICIONADO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-19. Solicitar la imposición de las medidas de orientación, protección y tratamiento;
-
-> <small>(ADICIONADO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-20. Interponer los recursos que le correspondan en los términos de la ley o desistirse de los ya impuestos;
-
-> <small>(ADICIONADO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-21. Garantizar que no se divulguen, total o parcialmente, por cualquier medio de comunicación, el nombre del adolescente o de la víctima u ofendido, los hechos o documentos del proceso; y
-
-> <small>(ADICIONADO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-22. Las demás que otras disposiciones legales, el Procurador o los Subprocuradores le confieran.
-
-III. Recibir denuncias o querellas por acciones u omisiones tipificadas como delitos cometidas por adolescentes y, en su caso, ejercer la acción de remisión respectiva ante la autoridad judicial especializada en la materia, conduciendo su actuación con fundamento en la Ley de Justicia para Adolescentes del Estado.
-
-IV. Investigar las detenciones arbitrarias y otros abusos de autoridad que se cometan, adoptando las medidas necesarias para hacerlas cesar de inmediato y proceder a iniciar la averiguación previa correspondiente.
-
-V. Requerir informes, documentos, opiniones y elementos de prueba en general a las dependencias y entidades de la administración pública de los tres órdenes de gobierno y a otras autoridades y organismos públicos autónomos y personas que puedan suministrar información y datos para el debido ejercicio de sus atribuciones.
-
-VI. Participar en el Sistema Estatal de Seguridad Pública.
-
-VII. Intervenir en su carácter de representante social en los procedimientos judiciales de orden civil, familiar y mercantil, conforme a las disposiciones legales aplicables.
-
-VIII. Comparecer en los juicios de amparo que sea señalado como autoridad responsable en términos de la Ley Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos.
-
-IX. Las demás que determinen otras disposiciones legales aplicables.
+El Consejo Técnico se integrará con los especialistas en Criminología, Psiquiatría, Derecho, Trabajo Social, Psicología, Pedagogía, Sociología y Supervisión y Custodia, que sean designados por el Director General, quien además podrá invitar a las sesiones del Consejo Técnico, como observadores, a representantes de las instituciones.
 
 ###### ARTICULO 8°.
 
-La Procuraduría tendrá las siguientes atribuciones:
+El Consejo será presidido por el Director General de Prevención y Readaptación Social, celebrará sesiones ordinarias, con la asistencia de la mayoría de sus integrantes, cada quince días y extraordinarias, cuando sea convocado por el Director. Tomará sus decisiones con el voto de la mayoría de los asistentes, teniendo el Director General, voto de calidad en caso de empate.
 
-I. Organizar y ejercer las facultades y obligaciones del Ministerio Público;
-
-II. Planear y conducir sus actos conforme a los objetivos, estrategias y prioridades del Plan Estatal de Desarrollo, el Programa del Sistema Estatal de Seguridad Pública, el Programa Sectorial de la propia Procuraduría y demás instrumentos programáticos;
-
-III. Proponer y aplicar el Subprograma de Procuración de Justicia del Estado;
-
-IV. Participar en el Sistema Estatal de Seguridad Pública y en sus instancias de coordinación y cumplir los acuerdos y resoluciones que se asuman en las mismas;
-
-V. Participar en la Conferencia Nacional de Procuración de Justicia y ejecutar los acuerdos y resoluciones procedentes en la entidad;
-
-VI. Suministrar, procesar, administrar, explotar y resguardar la información de los asuntos que conozca, utilizando dispositivos tecnológicos para integrar bases de datos propias y los registros del Sistema Nacional de Seguridad Pública;
-
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
-
-VII. Organizar y controlar a la Policía Investigadora y a la Policía Ministerial, que estarán bajo la autoridad y mando inmediato del Ministerio Público;
-
-VIII. Coordinar acciones con la Secretaría de Seguridad Pública y con las instituciones policiales de los municipios para la investigación de los delitos; en el ejercicio de esta función, la Policía Estatal Investigadora actuará bajo el mando y la conducción del Ministerio Público;
-
-IX. Promover entre sus funcionarios la cultura del respeto a las garantías individuales y los derechos humanos;
-
-X. Atender las visitas, quejas, propuestas de conciliación y recomendaciones de las comisiones Nacional y Estatal de los Derechos Humanos;
-
-XI. Ofrecer y entregar recompensas en numerario a las personas que aporten información útil relacionada con las averiguaciones e investigaciones que realice, así como aquélla que sirva para la localización y detención de probables responsables de la comisión de delitos, en los términos y condiciones que mediante acuerdo determine el Procurador;
-
-XII. Emitir disposiciones para la recolección, el levantamiento, la preservación y el traslado de indicios, huellas o vestigios del hecho delictuoso, y de los instrumentos, objetos o productos del delito, así como los procedimientos y protocolos para asegurar su integridad;
-
-XIII. Diseñar, instrumentar, operar y administrar un sistema informático de registro y análisis de perfiles genéticos de personas, vestigios biológicos, huellas y otros elementos relacionados con hechos delictuosos, que se obtengan de conformidad con las disposiciones aplicables; así como establecer criterios generales para el acceso al sistema y su uso;
-
-XIV. Dirigir, planificar, evaluar y coordinar el servicio médico forense;
-
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
-
-XV. Organizar, dirigir, administrar y supervisar el desarrollo del servicio profesional de carrera, tanto de Agentes del Ministerio Público, como de Peritos y Agentes de la Policía Investigadora y Policía Ministerial así como garantizar el desempeño apegado a la ley de sus integrantes;
-
-XVI. Cuidar que los juicios del orden penal se sigan con regularidad para que la administración de justicia sea pronta y expedita;
-
-XVII. Establecer un sistema de indicadores para evaluar la gestión y el desempeño de sus servidores públicos, así como los resultados institucionales;
-
-XVIII. Celebrar acuerdos y convenios con autoridades federales, estatales y municipales, así como con organizaciones sociales y privadas, a fin de fortalecer las acciones para mejorar la seguridad pública y la procuración de justicia;
-
-XIX. Proporcionar y solicitar, en su caso, la información estadística a otras instituciones de seguridad pública para el mejor cumplimiento de sus atribuciones;
-
-XX. Participar en el Consejo para la Prevención, Atención y Asistencia de la Violencia Familiar en el Estado;
-
-XXI. Participar en el Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra Mujeres;
-
-XXII. Emitir el documento de identificación de los integrantes de la Procuraduría el cual deberá contener, al menos, nombre completo, cargo, fotografía, huella digital, vigencia y clave de inscripción en el Registro Nacional de Personal de Seguridad Pública, así como, las medidas de seguridad que garanticen su autenticidad y demás datos que estime necesarios;
-
-XXIII. Autorizar los procedimientos administrativos en materia de recursos humanos, materiales, financieros y de servicios generales, conforme a las normas y lineamientos que emitan las dependencias competentes del gobierno del Estado;
-
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
-
-XXIV. Proponer, opinar y participar en proyectos de iniciativas de ley o reformas legislativas que estén vinculadas en la materia de su competencia;
-
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
-
-XXV. Regir la ejecución de las acciones conducentes a la efectiva implementación y operación del Sistema Penal Acusatorio y Oral en la institución; y
-
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2013)</small>
-
-XXVI. Las demás que prevean otras disposiciones legales aplicables.
-
-## TITULO TERCERO. DEL SERVICIO DE (SIC) PROFESIONAL DE CARRERA DE LA PROCURADURIA
+## TITULO TERCERO. DE LA PREVENCION SOCIAL
 
 ###### ARTICULO 9°.
 
-El Procurador tendrá las siguientes atribuciones indelegables:
-
-I. Informar periódicamente al Gobernador sobre el cumplimiento de sus atribuciones;
-
-II. Proponer al Gobernador iniciativas de ley para el adecuado funcionamiento de la procuración y la administración de justicia;
-
-III. Comparecer, previo acuerdo del Gobernador, ante el Congreso del Estado para informar la situación que guarda la Procuraduría o se discuta una ley relativa a las materias de su competencia;
-
-IV. Someter a la consideración del Gobernador proyectos de Reglamentos, relacionados con los asuntos de su competencia, así como de sus reformas;
-
-V. Concurrir a la integración y funcionamiento del Consejo Estatal de Seguridad Pública;
-
-VI. Asistir y participar en el ejercicio de sus atribuciones e intereses del Estado, a las reuniones de la Conferencia Nacional de Procuración de Justicia;
-
-VII. Celebrar acuerdos, bases de colaboración, convenios y demás instrumentos jurídicos con autoridades federales y del Estado, con los poderes del Distrito Federal y de los integrantes de la federación, municipios, organismos públicos autónomos, así como con organizaciones de los sectores social y privado;
-
-VIII. Crear consejos asesores y de apoyo que coadyuven en la solución de la problemática que implica las distintas actividades de la Procuraduría;
-
-IX. Autorizar la coordinación de acciones con autoridades federales, estatales y municipales;
-
-X.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 2010)
-
-XI. Convocar al Consejo de Consulta y Participación de la Comunidad;
-
-XII. (DEROGADA, P.O. 30 DE AGOSTO DE 2012)
-
-XIII. Expedir los acuerdos, protocolos, circulares, instructivos, bases, lineamientos y demás disposiciones normativas para el ejercicio de las funciones y el despacho de los asuntos que competen a la Procuraduría;
-
-XIV. Autorizar el programa sectorial y los programas operativos anuales, que someterá al acuerdo del Gobernador;
-
-XV. Aprobar y remitir a la dependencia competente para su revisión, dictamen y registro, los manuales de organización general, de procedimientos y de servicios al público de la Procuraduría, así como mantenerlos actualizados;
-
-XVI. Aprobar el anteproyecto de presupuesto de egresos de la Procuraduría;
-
-XVII. Contribuir en la integración de la cuanta (sic) pública relativa al ejercicio presupuestal de la dependencia;
-
-XVIII. Solicitar a la autoridad competente anuencia para intervenir y asegurar comunicaciones y correspondencia, en términos de lo previsto en el Código de Procedimientos Penales;
-
-XIX. Adscribir y rotar a los servidores públicos de carrera oyendo el parecer del Consejo; y,
-
-XX. Las demás que prevean otras disposiciones legales aplicables
+El Sistema de Prevención Social se basará en las medidas que para la prevención de la delincuencia, la investigación criminológica y el auxilio a las víctimas del delito dicte la política criminológica el Estado.
 
 ###### ARTICULO 10.
 
-Los servidores públicos que determine el Reglamento podrán emitir los instrumentos jurídicos que, de conformidad con sus atribuciones, coadyuven al funcionamiento y operación de la Procuraduría.
+Las medidas para la Prevención Social comprenderán:
 
-## TITULO CUARTO. DE LOS MECANISMOS ALTERNATIVOS DE SOLUCION DE CONFLICTOS EN MATERIA PENAL
+I.- Planear, programar, supervisar, evaluar y difundir la ejecución de las políticas que en materia de Prevención del Delito y respeto absoluto a los Derechos Humanos, dicte el Ejecutivo del Estado.
 
-### CAPITULO I. DE LA MEDIACION
+II.- Proponer la formación de Comisiones Intersecretariales que coadyuven al logro de los objetivos de la Prevención del Delito.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+III.- Establecer mecanismos de coordinación con diferentes instituciones oficiales y privadas involucradas en la comisión de posibles hechos delictuosos.
 
-###### ARTICULO 89.
+IV.- Organizar y celebrar eventos nacionales e internacionales relacionados con las causas y prevención del delito.
 
-Los mecanismos alternativos de solución de conflictos en materia penal deberán ser aplicados en el ámbito de acción de la Procuraduría en términos de lo dispuesto por el orden jurídico rector de la materia, y se regirán por los principios de voluntariedad de las partes, confidencialidad, flexibilidad, neutralidad, imparcialidad, equidad, legalidad y honestidad.
+V.- Difundir las causas que influyen en la comisión de los delitos, así como, proponer y aplicar sus recomendaciones al respecto.
 
-###### ARTICULO 90.
+VI.- Fomentar la salud mental y física en la educación de la niñez y de la juventud veracruzana.
 
-El objeto de la mediación es lograr que a través de una comunicación efectiva y de manera voluntaria, sean restablecidos los intereses o derechos afectados de la víctima u ofendido por la comisión de alguna conducta presuntamente delictiva, y podrá referirse a la reparación, restitución o resarcimiento de los perjuicios causados; la realización o abstención de determinada conducta; la prestación de servicios a la comunidad; la rehabilitación de derechos, o bien, el pedimento de disculpas o de perdón.
+VII.- Investigar y estudiar las causas que influyen en la ejecución de un hecho delictuoso en el ámbito estatal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
+VIII.- Coordinar, promover y apoyar el desarrollo de la investigación de las distintas disciplinas que intentan explicar el fenómeno delictivo.
 
-###### ARTICULO 91.
+IX.- Organizar la capacitación criminológica.
 
-En la Procuraduría solo se efectuarán mecanismos alternativos de solución de conflictos, cuando en los hechos puestos en conocimiento del Ministerio Público, resulte procedente al menos uno de los siguientes supuestos:
+X.- Apoyar la tramitación de los beneficios en favor de los sentenciados y asesorar jurídicamente a los dependientes de los sujetos del delito.
 
-I. El perdón de la víctima u ofendido;
+## TITULO CUARTO. DE LOS CENTROS DE READAPTACION SOCIAL
 
-II. Los acuerdos reparatorios;
-
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
-
-III. Los establecidos en el Código de Procedimientos Penales vigente en el Estado; o
-
-IV. En general, todas las conductas consideradas como delitos por cuanto hace a la reparación del daño.
-
-###### ARTICULO 92.
-
-Aún iniciada una averiguación previa las partes podrán someter su conflicto a mediación, sujetándose a las condiciones, términos y formalidades previstos en la Ley de Mediación para el Estado de Tamaulipas.
-
-###### ARTICULO 93.
-
-El Agente del Ministerio Público que conozca de un hecho susceptible de ser sometido a mediación, deberá hacerlo saber a los interesados desde su primera intervención y les explicará el procedimiento a seguir y sus efectos.
-
-###### ARTICULO 94.
-
-En caso de que las partes decidan someter su conflicto a mediación, el Agente del Ministerio Público que conozca del mismo deberá suspender la investigación y remitirlas al Centro de Mediación competente. De interrumpirse la mediación por no llegar a un acuerdo satisfactorio, las partes tendrán sus derechos a salvo y cualquiera de ellas podrá solicitar la continuación del proceso. La información que se genere en los procedimientos de mediación no podrá ser utilizada en perjuicio de las partes dentro del proceso.
-
-###### ARTICULO 95.
-
-El acuerdo al que se llegue por virtud de la mediación deberá formalizarse mediante convenio por escrito en el que se establezcan las obligaciones que se contraen, dentro de las que necesariamente deberá estar la reparación del daño, y deberá ser aprobado por el Agente del Ministerio Público que conoció del hecho.
-
-###### ARTICULO 96.
-
-El plazo fijado para el cumplimiento de las obligaciones pactadas en el convenio a que se refiere el artículo anterior, suspenderá el trámite del proceso respectivo, así como la prescripción de la acción penal. Si el imputado incumple sin justa causa las obligaciones pactadas dentro del término que fijen las partes o, en caso de no establecerlo, dentro de un año contado a partir del día siguiente de la ratificación del acuerdo respectivo, el proceso continuará como si no se hubiera arribado a acuerdo alguno.
-
-###### ARTICULO 97.
-
-El debido cumplimiento de lo acordado en el convenio respectivo, impedirá el ejercicio de la acción penal o, en su caso, extinguirá la ya iniciada.
-
-### CAPITULO II. DE LA CONCILIACIÓN
-
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
-
-###### ARTÍCULO 98.
-
-Se entiende por conciliación el proceso en el que uno o más conciliadores asisten a las partes en conflicto, para facilitar las vías de diálogo, proponiendo opciones de solución.
-
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
-
-### CAPITULO III. DE LA ESTRUCTURA
+### Capítulo I. Clasificación
 
 ###### ARTICULO 11.
 
-El Procurador resolverá en definitiva sobre:
-
-l. El no ejercicio de la acción penal;
-
-II. La calificación de las conclusiones que la autoridad judicial someta a su consideración, en términos de lo previsto en el Código de Procedimientos Penales;
-
-III. El acuerdo para el desistimiento total o parcial del ejercicio de la acción penal por parte del Ministerio Público;
-
-IV. Las prevenciones que la autoridad judicial acuerde respecto de las omisiones de formular conclusiones en el término legal;
-
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
-
-V. Las incompetencias que se susciten entre los Agentes del Ministerio Público del Estado con los de la Federación y de otras entidades federativas, así como del Distrito Federal;
-
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
-
-VI. En materia de colaboraciones que conforme al artículo 119 de la Constitución Política de los Estados Unidos Mexicanos, sean solicitadas por las Procuradurías de los Estados, de la Procuraduría General de la República y del Distrito Federal, y las ordenadas por esta institución; y
-
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2013)</small>
-
-VII. El archivo temporal y la abstención de investigar.
-
-El Procurador podrá delegar a los Subprocuradores o a los servidores públicos que él mismo determine conforme a la presente Ley, para conocer y resolver al respecto sobre los supuestos a que se refiere el presente artículo, en los términos de lo previsto en el Reglamento respectivo.
-
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
-
-Además de las anteriores atribuciones, el Procurador o el funcionario a quien éste designe, revisarán que el criterio de oportunidad aplicado por el Agente del Ministerio Público se ajuste a la normatividad.
+Los Centros de Readaptación Social dependerán de la Dirección General de Prevención y Readaptación Social, se destinarán al internamiento de los indiciados o procesados y a la ejecución de las sanciones privativas de libertad impuestas por los tribunales y serán: Regionales y de Sentenciados.
 
 ###### ARTICULO 12.
 
-El Procurador ejercerá autoridad jerárquica sobre todo el personal de la institución. Para el despacho de los asuntos que competen al Ministerio Público y a la Procuraduría, ésta última se integrará cuando menos, por los siguientes servidores públicos:
-
-A) Con funciones de Ministerio Público:
-
-> <small>(REFORMADA, P.O. DE SEPTIEMBRE DE 2011)</small>
-
-I. Procurador General de Justicia;
-
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
-
-II. Primer Subprocurador General;
-
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
-
-III. Segundo Subprocurador General;
-
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
-
-IV. Director General de Averiguaciones Previas;
-
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
-
-V. Director de Averiguaciones Previas;
-
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
-
-VI. Director de Control de Procesos;
-
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
-
-VII. Director Jurídico;
-
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
-
-VIII. Coordinador de Asuntos Internos;
-
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
-
-IX. Delegados;
-
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
-
-X. Fiscal para Asuntos Electorales;
-
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2014)</small>
-
-XI. Unidad Especializada en la Investigación y Persecución del Secuestro;
-
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2014)</small>
-
-XII. Unidad Especializada en la Investigación y Persecución de los Delitos en Materia de Trata de Personas; y
-
-> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 2014)</small>
-
-XIII. Agentes del Ministerio Público.
-
-B) Con funciones auxiliares del Ministerio Público:
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
-
-I. Comisario de la Policía Estatal Investigadora;
-
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
-
-II. Agentes de la Policía Investigadora;
-
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
-
-III. Director de Servicios Periciales;
-
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
-
-IV. Peritos;
-
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
-
-V. Director de la Policía Ministerial;
-
-> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
-
-VI. Agentes de la Policía Ministerial; y
-
-> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
-
-VII. Oficiales Ministeriales.
-
-C) Con funciones administrativas:
-
-I. Director General del Servicio Profesional de Carrera;
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
-
-II. Director Técnico del Servicio Profesional de Carrera;
-
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
-
-III. Director de Atención y Servicios a la Comunidad;
-
-IV. (DEROGADA, P.O. 30 DE AGOSTO DE 2012)
-
-V. Director del Instituto de Capacitación Técnica y Profesional;
-
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
-
-VI. Director de Informática;
-
-VII. Director de Administración;
-
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
-
-VIII. Director de Normatividad, Control y Seguimiento;
-
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
-
-IX. Director de Comunicación Social;
-
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
-
-X. Director de Enlace con la Secretaría de Seguridad Pública Federal;
-
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
-
-XI. Visitador General;
-
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
-
-XII. Titulares de los Centros de Mediación;
-
-> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
-
-XIII. Coordinador de Asesoría;
-
-> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
-
-XIV. Coordinador de Vinculación y Enlace; y
-
-> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
-
-XV. Coordinador para la implementación de la Reforma Penal.
-
-Los Agentes del Ministerio Público asignados como auxiliares de las distintas unidades administrativas que componen la Procuraduría, serán designados libremente por el titular de cada una de ellas, previo acuerdo con el Procurador.
-
-El Reglamento dispondrá de la estructura administrativa necesaria para el ejercicio de las atribuciones de los servidores públicos contemplados en el presente artículo.
-
-El Procurador podrá acordar la creación de unidades administrativas o fiscalías especializadas distintas a las previstas en esta Ley o el Reglamento, con base en la disponibilidad presupuestal y de acuerdo a las necesidades, la urgencia o el interés de investigar y perseguir delitos específicos.
-
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
-
-Asimismo, para la más eficaz atención y eficiente despacho de los asuntos de su competencia, la Procuraduría contará con órganos desconcentrados.
-
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
-
-Los órganos desconcentrados tendrán las atribuciones específicas para resolver sobre las materias de su competencia o dentro del ámbito territorial que se determine en cada caso, de conformidad con las normas que para ello establezcan la presente Ley, los instrumentos jurídicos de creación de dichos órganos y demás disposiciones aplicables.
+Los Centros de Readaptación Social Regionales, estarán situados en las cabeceras de los distritos judiciales y se destinarán al internamiento de indiciados, procesados y sentenciados a sanción de prisión que no exceda de tres años.
 
 ###### ARTICULO 13.
 
-Los acuerdos y demás normatividad que emita el Procurador, relativos a la organización, estructura, delegación y distribución de facultades y obligaciones, serán publicados en el Periódico Oficial del Estado.
+Los Centros de Readaptación Social para Sentenciados, se ubicarán donde el Ejecutivo del Estado considere idóneo, dentro del territorio de la Entidad y se destinarán a la ejecución de las sanciones privativas de libertad mayores de tres años.
+
+Así mismo albergarán a los sentenciados a menos de tres años de prisión, cuya estancia en los Centros Regionales resulte peligrosa, a juicio de la Dirección General de Prevención y Readaptación Social, o para evitar la sobrepoblación en los Centros que carezcan de capacidad instalada suficiente para albergarlos.
 
 ###### ARTICULO 14.
 
-Los Subprocuradores Generales tendrán las siguientes atribuciones:
+Las mujeres serán internadas en secciones especiales de los Centros, pero siempre separadas de los hombres.
 
-I. Auxiliar al Procurador en las funciones que la ley le confiere;
+Las mujeres con hijos, podrán tenerlos consigo hasta que éstos cumplan la edad determinada en los reglamentos, a cuyo término, si no se ha procedido legalmente a su guarda y custodia, serán enviados a Instituciones Asistenciales
 
-II. Suplir, en su orden, las ausencias temporales del Procurador;
-
-III. Conocer y decidir sobre la calificación del no ejercicio de la acción penal por perdón del ofendido y las incompetencias resueltas por los Agentes del Ministerio Público correspondientes;
-
-IV. Conocer y decidir respecto de las colaboraciones a que se refiere la fracción VI del artículo 11 de este ordenamiento legal, conforme al Convenio de Colaboración celebrado al efecto;
-
-V. Dar a los servidores públicos de la Procuraduría las instrucciones generales o especiales necesarias para el cumplimiento de sus funciones;
-
-VI. Revisar y, en su caso, modificar o aprobar los dictámenes, estudios y promociones que sometan a su consideración los servidores públicos a su mando;
-
-VII. Supervisar, por acuerdo del Procurador, la organización y el funcionamiento de las dependencias de la Procuraduría, así como el desempeño de sus integrantes, debiendo dar cuenta inmediata al Procurador de su resultado;
-
-VIII. Acordar con el Procurador los asuntos de su competencia;
-
-IX. Distribuir y dar trámite a la correspondencia oficial;
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
-
-X. Resolver los conflictos de competencia que se presenten entre los Agentes del Ministerio Público de distintas delegaciones;
-
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-XI. Suscribir, en ausencia del Procurador, y conforme al Reglamento de esta Ley, los informes que deban rendirse en los juicios de amparo, demandas, recursos y promociones en procedimientos judiciales, laborales, contencioso-administrativos y de las comisiones de Derechos Humanos; y
-
-XII. Las demás que otras disposiciones legales aplicables o el Procurador les confieran.
-
-### CAPITULO IV. DE LAS FACULTADES Y OBLIGACIONES
+### Capítulo II. De la Dirección de los Centros
 
 ###### ARTICULO 15.
 
-El Director General de Averiguaciones Previas tendrá las siguientes atribuciones:
-
-l. Coordinar las acciones de las delegaciones en materia de integración de las averiguaciones previas y el ejercicio de la acción penal, bajo una estrategia integral de actuación de la Procuraduría y la institución del Ministerio Público, con base en las normas aplicables y criterios institucionales;
-
-II. Establecer, en coordinación con la Dirección de Control de Procesos, criterios generales de actuación de los Agentes del Ministerio Público, para mejorar la integración de averiguaciones previas y el ejercicio de la acción penal;
-
-III. Integrar las averiguaciones previas que le encomiende el Procurador o los Subprocuradores, así como las que por su naturaleza o circunstancias deban integrarse en la Dirección a su cargo, en la que deberá emitir la determinación debidamente fundada y motivada, debiendo dar cuenta inmediata de su intervención y el desarrollo de la indagatoria;
-
-IV. Establecer los sistemas de registro y seguimiento de las averiguaciones previas y, con base en ellos, proponer estrategias y acciones tendientes a mejorar la procuración de justicia;
-
-V. Practicar, previo acuerdo con el superior jerárquico, visitas de inspección en las Agencias del Ministerio Público investigadoras para evaluar su funcionamiento;
-
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-VI. Disponer de la Policía Investigadora y Ministerial, y solicitar, en su caso, el auxilio de las policías preventivas estatal y municipales para el ejercicio de sus funciones dentro de la averiguación previa;
-
-VII. Establecer la normatividad de aplicación general para el funcionamiento de las Agencias del Ministerio Público Investigadoras;
-
-VIII. Someter a la consideración del C. Procurador, previo acuerdo con los Subprocuradores, el proyecto de rotación y sustitución de los Agentes del Ministerio Público Investigadores en las diversas circunscripciones territoriales;
-
-IX. Establecer criterios generales de actuación de los Agentes del Ministerio Público Investigadores, para mejorar la integración de averiguaciones previas y el ejercicio de la acción penal; y,
-
-X. Las demás que otras disposiciones legales, el Procurador o los Subprocuradores le confieran.
-
-> <small>(ADICIONADO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-ARTICULO 15 bis.- El Director de Averiguaciones Previas tendrá las siguientes atribuciones:
-
-I. Auxiliar al Director General de Averiguaciones Previas en sus atribuciones previstas en esta Ley y su Reglamento; y
-
-II. Las señaladas para los Agentes del Ministerio Público Investigadores, Especializados y Mixtos, así como las que le asigne el Reglamento de esta Ley, otros Reglamentos o el Procurador.
+Los Centros de Readaptación Social, estarán a cargo de un Director, que será designado por el Director General, previo acuerdo del Secretario General de Gobierno y contarán con el personal directivo, técnico, administrativo y de supervisión y custodia necesario para su funcionamiento, en base al presupuesto del que dispongan.
 
 ###### ARTICULO 16.
 
-El Director de Control de Procesos tendrá las siguientes atribuciones:
-
-l. Promover e intervenir en el desahogo, por sí o por conducto de los agentes del Ministerio Público adscritos a los órganos del Poder Judicial del Estado, las actuaciones procesales a que haya lugar en los asuntos que intervenga como parte;
-
-II. Establecer las políticas institucionales para la actuación de los agentes del Ministerio Público adscritos a los órganos judiciales;
-
-III. Organizar y llevar el control de los procesos radicados en los tribunales del Estado;
-
-IV. Practicar, previo acuerdo con el superior jerárquico, visitas de inspección a los agentes del Ministerio Público adscritos a los tribunales, para evaluar su funcionamiento;
-
-V. Girar instrucciones a los agentes del Ministerio Público Adscritos, tendientes a unificar criterios en la impugnación de las resoluciones judiciales, atendiendo a lo sustentado por los tribunales federales y estatales en protección de los intereses de la sociedad y del Estado;
-
-VI. Establecer mecanismos de coordinación con las unidades administrativas que tengan a su cargo la investigación de delitos, a fin de sustentar y sostener el ejercicio de la acción penal y facilitar las actuaciones procesales que deban desahogarse ante los órganos judiciales;
-
-VII. Someter a la consideración del superior jerárquico las quejas administrativas que, de conformidad con lo dispuesto por la Ley Orgánica del Poder Judicial deban ventilarse ante el Supremo Tribunal de Justicia, que deriven de actos u omisiones de los órganos judiciales que conozcan de procesos penales;
-
-VIII. Establecer criterios generales de actuación para el funcionamiento de las agencias del Ministerio Público Adscritas; y,
-
-IX. Las demás que otras disposiciones legales, el Procurador o los Subprocuradores le confieran.
+Los Directores serán responsables del funcionamiento de los Centros, cuidarán de la aplicación del Reglamento y adoptarán las medidas necesarias para el cumplimento de esta Ley.
 
 ###### ARTICULO 17.
 
-El Director Jurídico tendrá las siguientes atribuciones:
-
-I. Representar a la Procuraduría en todos los procedimientos administrativos o jurisdiccionales de los que forme parte;
-
-II. Elaborar el estudio y dictamen derivado de las consultas jurídicas formuladas por el Procurador y los titulares de las unidades administrativas de la Procuraduría;
-
-III. Formular los informes previos y justificados en los juicios de amparo promovidos contra actos del Procurador y los Subprocuradores, así como presentar las promociones, pruebas y recursos procedentes, dando seguimiento a los expedientes ante las instancias judiciales hasta la culminación de los mismos;
-
-IV. Atender lo relativo a quejas, propuestas de conciliación y, en su caso, recomendaciones formuladas a los servidores públicos de la Procuraduría por las Comisiones Nacional y Estatal de Derechos Humanos;
-
-V. Promover, gestionar y vigilar el trámite y procedimiento de extradición o traslado, de conformidad con lo establecido por la ley de la materia y tratados internacionales, así como en el convenio de colaboración celebrado y los que se celebren entre los Estados, el Distrito Federal, la Procuraduría General de la República y la Procuraduría de Justicia Militar;
-
-VI. Ejecutar el trámite, procedimiento y diligencias solicitados por otras Procuradurías para la entrega de indiciados, procesados o sentenciados, así como practicar el aseguramiento y entrega de objetos, instrumentos o productos del delito, en los términos del artículo 119 de la Constitución Política de los Estados Unidos Mexicanos;
-
-VII. Elaborar, previo acuerdo con su superior jerárquico, los convenios de coordinación y colaboración entre la institución y otras dependencias del orden federal, estatal, municipal y de la sociedad civil, tendientes al mejoramiento de la procuración de justicia;
-
-VIII. Elaborar y acordar con el superior jerárquico, los anteproyectos de iniciativa de ley, reglamentos y manuales, relacionados con la procuración de justicia, así como de sus reformas y adiciones;
-
-IX. Llevar el control, registro y divulgación de leyes y reglamentos federales, estatales y municipales vigentes, así como de sus reformas y adiciones;
-
-X. Elaborar el proyecto de dictamen derivado del procedimiento administrativo-laboral del personal de la Procuraduría; y,
-
-XI. Las demás que otras disposiciones legales, el Procurador o los Subprocuradores le confieran.
+La supervisión y custodia de las secciones destinadas a mujeres, estará a cargo de personal femenino.
 
 ###### ARTICULO 18.
 
-El Coordinador de Asuntos Internos tendrá las siguientes atribuciones:
-
-I. Sustanciar los procedimientos de sanción, así como proponer ante el Consejo en los casos que proceda, la terminación y separación del servicio profesional de carrera previstos en esta Ley;
-
-II. Conocer de las conductas presuntamente delictivas que se imputen a los servidores públicos de la Procuraduría en el ejercicio de su función, debiendo en consecuencia, integrar la averiguación previa correspondiente;
-
-III. Recibir, tramitar y resolver las quejas que se presenten con relación a los asuntos en que intervengan los servidores públicos de la Procuraduría;
-
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-IV. Disponer de la Policía Investigadora y Policía Ministerial y, en su caso, solicitar el apoyo de las instituciones policiales municipales para el ejercicio de sus funciones; y,
-
-V. Las demás que otras disposiciones legales aplicables, el Procurador o los Subprocuradores le confieran.
+Los Directores de los Centros, residirán en la población donde se encuentre ubicado el Centro a que estén adscritos, en caso de ausencia, serán sustituidos según determinen los reglamentos respectivos.
 
 ###### ARTICULO 19.
 
-Los Delegados Regionales tendrán las siguientes atribuciones:
-
-I. Sujetar su actuación a las instrucciones del Procurador, los Subprocuradores, el Director General de Averiguaciones Previas y el Director de Control de Procesos;
-
-II. Coordinar las actividades del personal ministerial, policial, pericial y administrativo adscritos a la circunscripción territorial que corresponda;
-
-III. Resolver las consultas que fundada y motivadamente le planteen los Agentes del Ministerio Público de su adscripción;
-
-IV. Calificar fundada y motivadamente los acuerdos de reserva que dicten los Agentes del Ministerio Público de su adscripción;
-
-V. Remitir para conocimiento de sus superiores jerárquicos las constancias de las averiguaciones previas que les sean requeridas o aquellas que por su trascendencia, naturaleza o repercusión social deban conocer y resolver;
-
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-VI. Elaborar acta administrativa al servidor público de su adscripción que haya incurrido en falta laboral, de acuerdo a la normatividad aplicable y turnarla a la Dirección Jurídica;
-
-VII. Resolver los conflictos de competencia que surjan entre los Agentes del Ministerio Público de su adscripción;
-
-VIII. Mantener permanentemente informados a sus superiores jerárquicos de los asuntos relevantes que se ventilen en su adscripción;
-
-IX. Informar a la superioridad sobre las vacantes temporales o definitivas en la delegación a su cargo; y,
-
-X. Las demás que otras disposiciones aplicables, el Procurador o los Subprocuradores les confieran.
+En cada Centro de Readaptación Social, funcionará un Consejo Técnico Interdisciplinario, integrado por los profesionistas que indique el Reglamento respectivo y tendrá, en el establecimiento, las funciones que a nivel estatal le corresponden al Consejo de la Dirección General.
 
 ###### ARTICULO 20.
 
-El Fiscal Especializado para Asuntos Electorales tendrá las siguientes atribuciones:
+Para la designación del personal directivo, administrativo, técnico y de supervisión y custodia de los centros, se considerará la vocación, aptitudes, preparación académica y antecedentes profesionales de los candidatos. El personal, queda sujeto a la obligación de asistir a los cursos de formación y actualización que se impartan.
 
-I. Ejercer la función del Ministerio Público para la investigación y persecución de los delitos electorales;
+## TITULO QUINTO. DEL REGIMEN DE READAPTACION SOCIAL
 
-II. Acordar con el Procurador el despacho de los asuntos de su conocimiento y competencia;
-
-III. Intervenir en los juicios de amparo o en otros procedimientos judiciales relacionados con las averiguaciones instruidas por su unidad administrativa;
-
-IV. Establecer mecanismos de coordinación y de interrelación con las unidades administrativas de la Procuraduría, para el óptimo cumplimiento de su función;
-
-V. Proponer al Procurador la expedición de acuerdos, circulares, manuales e instructivos para el cumplimiento de las funciones de ésta unidad administrativa;
-
-VI. Informar al Procurador, periódicamente, sobre los asuntos de su competencia;
-
-VII. Informar mensualmente previo acuerdo con el Procurador al Consejo Estatal Electoral del Instituto Electoral de Tamaulipas, sobre la cantidad y naturaleza de denuncias recibidas, el estado que guardan las averiguaciones previas iniciadas y consignaciones efectuadas; y,
-
-VIII. Las demás que otras disposiciones legales, el Procurador o los Subprocuradores le confieran.
-
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
-
-ARTICULO 20 BIS.- La Unidad Especializada en la Investigación y Persecución del Secuestro, será un órgano desconcentrado dependiente directamente del Procurador, estará integrada con personal especializado y deberá contar, al menos, con Ministerios Públicos, peritos, policías investigadores y ministeriales, así como con los recursos humanos, financieros y materiales necesarios para su efectiva operación.
-
-Para ser integrante de la Unidad Especializada en la Investigación y Persecución del Secuestro deberán reunir los requisitos establecidos en la presente ley, así como los dispuestos en el artículo 42 de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
-
-> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2014)</small>
-
-ARTICULO 20 TER.- La Unidad Especializada en la Investigación y Persecución de los Delitos en Materia de Trata de Personas, será una unidad administrativa dependiente directamente del Procurador, estará integrada con personal especializado y deberá contar, al menos, con Ministerios Públicos, Peritos, Policías Investigadores y Ministeriales, así como con los recursos humanos, financieros y materiales necesarios para su efectiva operación.
-
-Para ser integrante de la Unidad Especializada en la Investigación y Persecución de los Delitos en Materia de Trata de Personas, deberán reunir los requisitos establecidos en la presente ley.
-
-## TITULO QUINTO. INSTITUTO DE CAPACITACIÓN TÉCNICA Y PROFESIONAL
-
-### CAPITULO I. DEL OBJETO Y LA ESTRUCTURA
-
-> <small>(REFORMADO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-###### ARTICULO 99.
-
-El Instituto de Capacitación Técnica y Profesional es una unidad administrativa de la Procuraduría y tiene por objeto reunir, capacitar, actualizar y formar técnica y científicamente a los Agentes del Ministerio Público, Agentes de la Policía Investigadora, Policía Ministerial y Peritos y, en lo conducente, al demás personal de la Procuraduría.
-
-El INCATEP estará a cargo de un Director, quien estará adscrito a la Dirección General del Servicio Profesional de Carrera.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-###### ARTICULO 100.
-
-Para ser Director del INCATEP se requiere:
-
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2012)</small>
-
-I. Ser mexicano en ejercicio de sus derechos civiles y políticos;
-
-II. Tener cuando menos treinta años de edad;
-
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-III. Contar con título profesional de Abogado o de Licenciado en Derecho, con antigüedad cuando menos de cinco años;
-
-IV. Comprobar experiencia académica o de servicio, cuando menos de tres años, en funciones relativas a las materias de seguridad pública;
-
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-V. Gozar de buena reputación y no haber sido sentenciado por la comisión de delito doloso ni estar sujeto a proceso penal;
-
-VI. No estar suspendido o inhabilitado ni haber sido destituido por resolución firme como servidor público, y,
-
-VII. Aprobar los exámenes de evaluación y control de confianza.
-
-### CAPITULO II. DE LAS ATRIBUCIONES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-###### ARTICULO 101.
-
-El INCATEP tendrá las siguientes atribuciones:
-
-I. Aplicar los procedimientos homologados acordados en el Sistema Nacional de Seguridad Pública;
-
-II. Capacitar en base al Programa Rector de Profesionalización en materia de investigación científica y técnica a los servidores públicos de la Procuraduría;
-
-III. Desarrollar los programas de investigación académica en materia ministerial, pericial y policial, de conformidad con lo dispuesto en esta ley y demás disposiciones legales aplicables;
-
-IV. Proponer las etapas, niveles de escolaridad y grados académicos de la profesionalización;
-
-V. Aplicar las estrategias para la capacitación de los aspirantes y servidores públicos;
-
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-VI. Proponer y aplicar los contenidos de los planes y programas para la formación de los servidores públicos con base en el Programa Rector de Profesionalización;
-
-VII. Aplicar los lineamientos establecidos por la Dirección General del Servicio Profesional de Carrera en los casos de revalidación de la profesionalización;
-
-VIII. Colaborar en el diseño y actualización de políticas y normas para el reclutamiento y selección de aspirantes y vigilar su aplicación;
-
-IX. Realizar los estudios para detectar las necesidades de capacitación de los servidores públicos y proponer los cursos correspondientes;
-
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-X. Proponer, con base en el Programa de Incorporación establecido por la Dirección General del Servicio Profesional de Carrera a firma del Procurador y, en su caso, publicar las convocatorias para el ingreso a los cursos de capacitación que imparta el INCATEP;
-
-XI. Tramitar los registros, autorizaciones y reconocimiento de los planes y programas de estudio ante las autoridades competentes;
-
-XII. Expedir constancias de las actividades para la profesionalización que impartan;
-
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-XIII. Proponer a la Dirección General del Servicio Profesional de Carrera la celebración de convenios con instituciones educativas nacionales y extranjeras, públicas y privadas, con objeto de brindar formación académica de excelencia a los servidores públicos;
-
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-XIV. Supervisar que el personal de servicio se sujete a los manuales del INCATEP; y,
-
-XV. Las demás que establezcan otras disposiciones legales aplicables.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-###### ARTICULO 102.
-
-El Director del INCATEP tendrá las siguientes atribuciones:
-
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-I. Dirigir al INCATEP;
-
-II. Proponer a los profesores, investigadores, instructores, técnicos y demás personal responsable de impartir las modalidades de la formación;
-
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-III. Proponer la normatividad para la operación del INCATEP;
-
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-IV. Instrumentar el Programa Rector de Profesionalización aprobado por el Consejo del Servicio Profesional de Carrera;
-
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-V. Desarrollar los programas rectores de capacitación del personal de la Procuraduría;
-
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-VI. Promover el cumplimiento del objeto del INCATEP y acordar con el Director General del Servicio Profesional de Carrera los asuntos de su competencia;
-
-VII. Designar al personal administrativo;
-
-VIII. Promover la (sic) relaciones del Instituto con las instancias relativas del Sistema Nacional de Seguridad Pública y con otras instituciones de profesionalización estatales, nacionales y extranjeras; y,
-
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-IX. Las demás que le atribuyan el Procurador, el Director General del Servicio Profesional de Carrera y las disposiciones legales aplicables.
-
-### CAPITULO V. DEL PERSONAL
-
-#### SECCION PRIMERA. DE LAS CATEGORIAS
+### Capítulo I. Disposiciones Generales
 
 ###### ARTICULO 21.
 
-Los Agentes del Ministerio Público tendrán las atribuciones señaladas en esta Ley y su Reglamento.
-
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+El régimen de readaptación se basará en la individualización del tratamiento, la educación, el trabajo y la capacitación para el mismo.
 
 ###### ARTICULO 22.
 
-Los integrantes de la Unidad Especializada en la Investigación y Persecución del Secuestro tendrán las siguientes atribuciones:
-
-I.- Solicitar que se le brinde atención médica, psicológica y jurídica a las víctimas de las conductas previstas como secuestro en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos;
-
-II.- Decretar las providencias precautorias para la protección de la vida o integridad de las víctimas de secuestro o sus familiares;
-
-III.- Asesorar a los familiares en las negociaciones para lograr la libertad de las víctimas;
-
-IV.- Recibir, por cualquier medio, las denuncias sobre los delitos e iniciar la investigación;
-
-V.- Utilizar las técnicas de investigación previstas en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, y en los demás ordenamientos aplicables;
-
-VI.- Vigilar, con absoluto respeto a los derechos constitucionales, a las personas respecto de las cuales se tenga indicios de que se encuentran involucradas en los delitos previstos en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos;
-
-VII.- Sistematizar la información obtenida para lograr la liberación de las víctimas y la detención de los probables responsables;
-
-VIII.- Solicitar a personas físicas o morales la entrega inmediata de información que pueda ser relevante para la investigación del delito o la liberación de las víctimas;
-
-IX.- Proponer políticas para la prevención e investigación de las conductas previstas en esta Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos;
-
-X.- Proponer al Procurador General de Justicia del Estado, en el marco de la colaboración de la Conferencia Nacional de Procuración de Justicia, la celebración de convenios con las empresas de telecomunicaciones para la obtención de datos adicionales contenidos en la base de datos prevista en la Ley Federal de Telecomunicaciones y sobre el uso de las mismas;
-
-XI.- Utilizar cualquier medio de investigación que les permita regresar con vida a la víctima, identificar y ubicar a los presuntos responsables y cumplir con los fines de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, siempre y cuando dichas técnicas de investigación sean legales y con pleno respeto a los derechos humanos, y
-
-XII.- Las demás que disponga la ley.
-
-> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2014)</small>
-
-ARTICULO 22 BIS.- Los integrantes de la Unidad Especializada en la Investigación y Persecución de los Delitos en Materia de Trata de Personas tendrán las facultades y obligaciones previstas para los Ministerios Públicos, Peritos, Policías Investigadores y Ministeriales, previstos en la presente Ley, además de las establecidas en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos y demás legislación aplicable.
+En el tratamiento de los internos estará prohibido el uso de violencia, tortura o maltrato corporal, que menoscabe su dignidad, así como, exigir gabela o contribución alguna.
 
 ###### ARTICULO 23.
 
-El Agente del Ministerio Público Especializado en Justicia para Adolescentes tendrá las siguientes atribuciones:
-
-I. Realizar la investigación y persecución de las conductas tipificadas como delitos en las leyes del Estado, que se atribuyan a los adolescentes de doce años cumplidos y menos de dieciocho años de edad;
-
-II. Velar en todo momento, en los asuntos de su competencia, por el estricto cumplimiento de los derechos y garantías de los adolescentes sujetos a la ley en materia de justicia para adolescentes;
-
-III. Velar para que los niños menores de doce años sobre los que advierta la amenaza o violación de alguno de sus derechos, sean adecuadamente atendidos por el área competente del Poder Ejecutivo Estatal en materia de asistencia y protección social;
-
-IV. Garantizar que durante la fase de detención no se mantenga al adolescente incomunicado ni se le coaccione, intimide, someta a torturas u otros tratos o penas crueles, inhumanas o degradantes, y que se satisfagan sus derechos a la alimentación y a la protección de la salud, así como los demás que apliquen a su situación;
-
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-V. Realizar las acciones conducentes para que le sea designado un Defensor Público Especializado en Justicia para Adolescentes al adolescente, desde el momento en el que sea puesto a su disposición;
-
-VI. Informar de inmediato al adolescente, a sus padres, tutores o quien ejerza la patria potestad y al defensor de aquél sobre la situación jurídica del caso, así como los derechos que les asistan;
-
-VII. Otorgar al adolescente, a sus padres, tutores o quien ejerza la patria potestad y a su defensor, toda la información que conste en el registro de la investigación y que soliciten para garantizar una efectiva defensa;
-
-VIII. Realizar, cuando sea legalmente procedente, aquellas diligencias de investigación solicitadas por el adolescente, sus padres, tutores o quien ejerza la patria potestad o su defensor para el esclarecimiento de los hechos;
-
-IX. Ejercer el mando directo e inmediato de los Agentes de la Policía Especializada en Justicia para Adolescentes que le estén adscritos;
-
-X. Procurar las formas alternativas de justicia y los programas de justicia restaurativa, a fin de cumplir con los principios de mínima intervención y de subsidiariedad;
-
-XI. Someter a la aprobación del juez especializado en justicia para adolescentes los acuerdos reparatorios que el adolescente y la víctima u ofendido hayan alcanzado;
-
-XII. (DEROGADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)
-
-XIII. (DEROGADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)
-
-XIV. (DEROGADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)
-
-XV. (DEROGADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)
-
-XVI. (DEROGADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)
-
-XVII. (DEROGADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)
-
-XVIII. (DEROGADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)
-
-XIX. (DEROGADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)
-
-XX. (DEROGADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)
-
-XXI. (DEROGADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)
-
-XXII. (DEROGADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)
-
-XXIII. (DEROGADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)
-
-XXIV. (DEROGADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+La finalidad de la educación, el trabajo y la capacitación para el mismo, será la de modificar las tendencias e inclinaciones antisociales de los internos, así como facilitar la adquisición de conocimientos que puedan serles útiles en su vida libre.
 
 ###### ARTICULO 24.
 
-El Comisario de la Policía Investigadora tendrá las siguientes atribuciones:
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
-
-I. Proponer al Procurador las políticas generales de actuación de la Comisaría a su cargo y sus corporaciones, vigilando que sus miembros actúen, en los casos que así proceda, bajo la autoridad y mando inmediato del Ministerio Público, según los términos previstos constitucionalmente y en el Código de Procedimientos Penales vigente en el Estado;
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
-
-II. Dirigir y coordinar los servicios de la Comisaría a su cargo para cumplir con las órdenes del Procurador y de las unidades administrativas a cargo de la investigación y persecución de los delitos;
-
-III. Instruir y supervisar a los elementos de las corporaciones a su cargo que le auxilien, en los términos de ley, sobre los elementos o indicios que deben ser investigados o recabados, así como de otras acciones de investigación que fueren necesarias para la acreditación del cuerpo del delito y la probable responsabilidad del indiciado;
-
-IV. Dirigir, coordinar y supervisar a través de las unidades correspondientes, la integración y operación de bases de datos para el adecuado control de las investigaciones realizadas, pruebas recabadas, registro de bienes u objetos recuperados, de mandamientos judiciales, oficios de investigación y casillero de identificación personal de detenidos;
-
-V. Dictar las medidas idóneas para que las investigaciones se lleven a cabo bajo los principios de legalidad, eficiencia, profesionalismo y honradez, así como para que su personal siga métodos científicos que garanticen el aprovechamiento óptimo de los recursos humanos, materiales y tecnológicos a su cargo;
-
-VI. Vigilar que los elementos de las corporaciones a su cargo no distraigan de su objeto, para uso propio o ajeno, el equipo, elementos materiales o bienes asegurados bajo su custodia o de la Institución;
-
-VII. Informar al Procurador y a las instancias competentes, de las irregularidades en que incurran los elementos de las corporaciones a su cargo en el desempeño de sus funciones, así como sobre los hechos delictivos en que puedan estar involucrados y que fueren de su conocimiento;
-
-VIII. Ser el enlace con otras instituciones o corporaciones policiales de la Procuraduría General de la República, y de las procuradurías de justicia del Distrito Federal y de otras entidades federativas, a efecto de implementar acciones policiales y operativos conjuntos;
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
-
-IX. Determinar la asignación de recursos materiales relativos al armamento, municiones, parque vehicular y demás equipo policial, destinados al desarrollo de las actividades de la Comisaría;
-
-X. Proponer a la Dirección General del Servicio Profesional de Carrera de la Procuraduría General de Justicia del Estado, programas de profesionalización, especialización y actualización que requieran los elementos de las corporaciones a su cargo;
-
-XI. Coordinar con la Dirección de Administración, la actualización de los registros únicos de los Agentes de la Policía y el registro de autorizaciones individuales de portación de armas de fuego, de conformidad con las disposiciones legales aplicables;
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
-
-XII. Llevar el control de radiocomunicación de la Comisaría y de su personal en cuanto a los servicios que presta, así como canalizar a las instancias pertinentes la información respectiva;
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
-
-XIII. Llevar a cabo con los elementos de la Comisaría, las investigaciones de hechos delictivos de especial importancia o gravedad, en los términos de las instrucciones que al efecto emita el Procurador;
-
-XIV. Vigilar que se atiendan de inmediato y con eficacia, las llamadas de auxilio de la comunidad;
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
-
-XV. Proponer al Procurador los manuales y procedimientos sistemáticos operativos para la debida actuación de los integrantes de la Comisaría;
-
-XVI. Vigilar el cumplimiento de las disposiciones en materia de derechos humanos y de uso legítimo de la fuerza; y,
-
-XVII. Las demás que otras disposiciones legales, el Procurador o los Subprocuradores le confieran.
-
-> <small>(ADICIONADO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-ARTICULO 24 bis.- El Director de la Policía Ministerial del Estado, tendrá las siguientes atribuciones:
-
-I. Proponer al Comisario las políticas generales de actuación de la Dirección a su cargo y su corporación, vigilando que sus miembros actúen, en los casos que así proceda, bajo la autoridad y mando inmediato del Ministerio Público, según los términos previstos constitucionalmente y en el Código de Procedimientos Penales para el Estado;
-
-II. Dirigir y coordinar los servicios de la Dirección a su cargo para cumplir con las órdenes del Procurador y de las unidades administrativas a cargo de la investigación y persecución de los delitos;
-
-III. Instruir y supervisar a los elementos de las corporaciones a su cargo que le auxilien, en los términos de ley, sobre los elementos o indicios que deben ser investigados o recabados, así como de otras acciones de investigación que fueren necesarias para la acreditación del cuerpo del delito y la probable responsabilidad del indiciado;
-
-IV. Dictar las medidas idóneas para que las investigaciones se lleven a cabo bajo los principios de legalidad, eficiencia, profesionalismo y honradez, así como para que su personal siga métodos científicos que garanticen el aprovechamiento óptimo de los recursos humanos, materiales y tecnológicos a su cargo;
-
-V. Vigilar que los elementos de las corporaciones a su cargo no distraigan de su objeto, para uso propio o ajeno, el equipo, elementos materiales o bienes asegurados bajo su custodia o de la Institución;
-
-VI. Informar al Comisario y a las instancias competentes, de las irregularidades en que incurran los elementos de las corporaciones a su cargo en el desempeño de sus funciones, así como sobre los hechos delictivos en que puedan estar involucrados y que fueren de su conocimiento;
-
-VII. Proponer al Comisario programas de profesionalización, especialización y actualización que requieran los elementos de las corporaciones a su cargo;
-
-VIII. Llevar el control de radiocomunicación de la Dirección y de su personal en cuanto a los servicios que presta, así como canalizar a las instancias pertinentes la información respectiva;
-
-IX. Llevar a cabo, con los elementos de la Dirección, las investigaciones de hechos delictivos de especial importancia o gravedad, en los términos de las instrucciones que al efecto emita el Comisario;
-
-X. Vigilar que se atiendan de inmediato y con eficacia, las llamadas de auxilio de la comunidad;
-
-XI. Vigilar el cumplimiento de las disposiciones en materia de derechos humanos y de uso legítimo de la fuerza; y,
-
-XII. Las demás que otras disposiciones legales, el Procurador, Subprocuradores o el Comisario le confieran.
+La clasificación de los internos, se hará como resultado de los estudios aplicados y atendiendo a criterios criminológicos de índice de peligrosidad, edad, salud mental y física, grado cultural y tipo de delito, de conformidad con los lineamientos que determine la Dirección General de Prevención y Readaptación Social.
 
 ###### ARTICULO 25.
 
-El Director de Servicios Periciales tendrá las siguientes atribuciones:
-
-I. Operar, coordinar y supervisar el funcionamiento de los servicios periciales de la Procuraduría;
-
-II. Auxiliar al Ministerio Público por sí o a través de los peritos en la búsqueda, preservación y obtención de indicios y pruebas;
-
-III. Emitir guías y manuales técnicos que deban observarse en la formulación de dictámenes que requieran las autoridades competentes, dentro del marco de la autonomía técnica de estos servicios, velando porque se cumplan con las formalidades y requisitos que establecen las leyes del procedimiento, así como con las normas científicas y técnicas aplicables;
-
-IV. Operar las bases de datos criminalísticas de la Procuraduría que se integren al Sistema Nacional de Seguridad Pública, especialmente los de identificación dactiloscópica y fotográfica, así como todos los necesarios para las investigaciones;
-
-V. Participar con la Dirección General del Servicio Profesional de Carrera en el diseño e implementación de los programas de capacitación y actualización técnico-científica del personal pericial;
-
-VI. Supervisar técnica y administrativamente la elaboración y emisión de los dictámenes periciales, a efecto de que éstos se rindan oportunamente y cumplan con la metodología pericial y las normas vigentes;
-
-VII. Auxiliar a los agentes del Ministerio Público en las funciones de investigación relativas al servicio médico forense;
-
-VIII. Coordinar y supervisar las actividades del servicio médico forense y elaborar opiniones y dictámenes técnicos que contribuyan al eficaz desempeño del mismo;
-
-IX. Proponer al Procurador la normatividad relacionada con las funciones y procedimientos del servicio médico forense, y en su caso las modificaciones procedentes;
-
-X. Establecer los mecanismos, procedimientos de registro y control para la petición del servicio pericial, formulada por los agentes del Ministerio Público, así como elaborar estadísticas e informes relacionadas con sus actividades; y,
-
-XI. Las demás que otras disposiciones legales, el Procurador o los Subprocuradores le confieran.
+Las comunicaciones de los internos con el exterior de los Centros de Readaptación no podrá ser objeto de censura. El reglamento establecerá los mecanismos de supervisión para la revisión de los sobres y objetos que se envíen a los internos.
 
 ###### ARTICULO 26.
 
-El Director General del Servicio Profesional de Carrera tendrá las siguientes atribuciones:
+Los servicios médicos de los Centros de Readaptación Social, otorgarán a los internos asistencia médica, sin perjuicio de que se les permita a su costo, atención médica particular. Igualmente, se les proporcionará asistencia psicológica y psiquiátrica.
 
-I. Proponer al Consejo y otras autoridades competentes, de conformidad con las disposiciones legales aplicables, políticas y criterios institucionales en materia de servicio profesional de carrera en coordinación con las demás unidades administrativas competentes de la Procuraduría, así como darles seguimiento y promover su estricta observancia;
-
-II. Operar, promover, y en su caso coordinar con las unidades administrativas y órganos competentes de acuerdo a las normas aplicables, la ejecución de los procedimientos para la planeación, definición y valuación de puestos, desarrollo del tabulador y del régimen de prestaciones, reclutamiento, selección, ingreso, registro, adscripción inicial y readscripción, rotación, permiso, licencia, formación, capacitación, actualización, especialización, ascenso, reingreso, otorgamiento de estímulos y reconocimientos, supervisión y evaluación, así como la terminación ordinaria y extraordinaria del servicio;
-
-III. Operar y mantener actualizados los registros del personal ministerial, policial y pericial, de conformidad con las disposiciones legales aplicables.
-
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-IV. Recopilar la información e integrar el Programa Rector de Profesionalización de Agentes del Ministerio Público, Peritos, de la Policía Investigadora y Policía Ministerial;
-
-V. Verificar, en coordinación con las unidades administrativas competentes, que los miembros del servicio profesional de carrera autorizados para portar armas, cumplan con los requisitos que establecen las disposiciones aplicables;
-
-VI. Integrar y actualizar los registros de los miembros y aspirantes en las bases de datos del Sistema Nacional de Seguridad Pública, en términos de las disposiciones aplicables;
-
-VII. Integrar los expedientes de los agentes, peritos y policías, en coordinación con las unidades administrativas competentes;
-
-VIII. Fungir como Secretario del Consejo; y,
-
-IX. Las demás que otras disposiciones legales, el Procurador o los Subprocuradores le confieran.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
-
-### CAPITULO VI. DE LOS NOMBRAMIENTOS
+### Capítulo II. Del Ingreso y Clasificación
 
 ###### ARTICULO 27.
 
-El Director Técnico del Servicio Profesional de Carrera tendrá las atribuciones siguientes:
+El ingreso a los Centros de Readaptación Social, se hará únicamente:
 
-I. Operar los sistemas de información que permitan la implementación y administración del Servicio Profesional de Carrera de forma eficiente, unificada, mejorar los procesos de Recursos Humanos, transparentar el servicio, uniformar los criterios de control y evaluación de los subsistemas, desarrollar, evaluar y certificar al personal con igualdad;
+I.- Por consignación del Ministerio Público, ante la autoridad judicial competente.
 
-II. Integrar un registro pormenorizado del historial de los miembros del Servicio Profesional de Carrera, de sus datos generales, ingreso, desarrollo profesional, capacitación y certificación de capacidades, evaluación del desempeño y separación del sistema y, en general, toda aquella información útil para la toma de decisiones en el marco del Servicio Profesional de Carrera;
+II.- Por resolución judicial.
 
-III. Generar reportes y estadística que permita a la Dirección General del Servicio Profesional de Carrera sustentar programas de mejora continua en los distintos procesos y la incorporación permanente de mejores prácticas en las distintas áreas de actuación;
+III.- En cumplimiento de los convenios a que se refiere el artículo 2° de esta Ley.
 
-IV. Participar en la elaboración de instrumentos y metodología relacionados con la operación del Servicio Profesional de Carrera; y
-
-V. Las demás que le atribuyan el Procurador y el Director del Servicio Profesional de Carrera.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
-
-###### ARTICULO 27 Bis.
-
-El Director de Atención y Servicios a la Comunidad tendrá las siguientes atribuciones:
-
-I. Brindar la atención personalizada necesaria a la ciudadanía que ocurra a la institución para facilitarle la orientación y ayuda que precise, ya sea que solicite atención o información, la que en ningún caso implicará una interpretación normativa, consideración o asesoramiento jurídico;
-
-II. Auxiliar al Procurador en lo que respecta a la integración, funcionamiento y seguimiento de acuerdos del Consejo de Participación Ciudadana, a que se refiere el Titulo Octavo de esta Ley; y
-
-III. Las demás que otras disposiciones legales, el Procurador o el Segundo Subprocurador le confieran.
-
-###### ARTICULO 27 Ter.
-
-(DEROGADO, P.O. 30 DE AGOSTO DE 2012)
-
-> <small>(ADICIONADO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-ARTICULO 27 quáter.- La Dirección de Normatividad, Control y Seguimiento tendrá las siguientes atribuciones:
-
-I. Formular anteproyectos de iniciativas de leyes o de reformas legales que incidan en el ámbito de atribuciones de la Procuraduría;
-
-II. Sistematizar la normatividad e instrumentos convencionales suscritos por el Instituto;
-
-III. Implantar las normas, sistemas y procedimientos necesarios para el control y evaluación administrativa y financiera del Instituto;
-
-IV. Participar en el diseño de instrumentos de presupuestación y de planeación, en los términos de la legislación aplicable; y
-
-V. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Procurador.
-
-> <small>(ADICIONADO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-ARTICULO 27 quintus.- El Coordinador para la Implementación de la Reforma Penal tendrá las siguientes atribuciones y obligaciones:
-
-I. Acordar con el Procurador o el Subprocurador General los asuntos de su competencia;
-
-II. Establecer la coordinación necesaria con otras áreas de la Procuraduría para cumplir con los objetivos en materia de Implementación del nuevo Sistema de Justicia Penal derivados del Plan Estatal de Desarrollo;
-
-III. Promover y ejecutar acciones sustantivas encaminadas a la óptima transición hacia el nuevo Sistema de Justicia Penal;
-
-IV. Proponer a la superioridad la metodología para operar y dirigir eficazmente el nuevo Sistema de Justicia Penal, a su inicio y hasta su total implementación en el Estado;
-
-V. Definir y proponer a la superioridad los mecanismos y estrategias necesarios para lograr la operación paralela del nuevo Sistema de Justicia Penal y del sistema procedente hasta la conclusión de este último; y
-
-VI. Las demás que deriven de los ordenamientos federales, estatales, acuerdos del titular del Ejecutivo del Estado y del Procurador.
+Inmediatamente al ingreso, el interno será examinado a fin de conocer su estado físico y mental, grado de instrucción, su habilidad y capacidad física para el trabajo y cualquier otro dato de su personalidad.
 
 ###### ARTICULO 28.
 
-El Visitador General tendrá las siguientes facultades y obligaciones:
+Para efectos de control del interno, se le formará un expediente personal que contendrá entre otros datos:
 
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+I.- Nombre, sexo, edad, el lugar de origen, domicilio, estado civil, profesión u oficio.
 
-I. Evaluar, supervisar, inspeccionar y fiscalizar el desempeño profesional de los Agentes del Ministerio Público, de la Policía Investigadora y la Policía Ministerial, así como de los Peritos y demás servidores de la Procuraduría que realicen funciones auxiliares de la institución;
+II.- Fecha y hora de ingreso y salida.
 
-II. Revisar libremente los expedientes, documentos, información, equipo e instalaciones que se encuentren bajo la autoridad del personal de la Procuraduría, en las visitas que se realicen para los efectos de la fracción anterior;
+III.- Los que se refieran a las causas que originaron la privación de la libertad.
 
-III. Emitir observaciones y recomendaciones, sin menoscabo de las funciones que al efecto cumpla el órgano interno de control;
+IV.- Identificación dactiloscópica y antropométrica.
 
-IV. Coordinar las funciones de la Unidad de Evaluación y Seguimiento de la Procuraduría y generar los informes relativos a sus actividades;
-
-V. Dar vista a la Coordinación de Asuntos Internos en los casos en que ésta deba intervenir;
-
-VI. Proponer a su superior jerárquico la expedición de manuales, acuerdos, circulares e instructivos;
-
-VII. Informar al Procurador sobre los asuntos de su competencia; y,
-
-VIII. Las demás que otras disposiciones legales, el Procurador o los Subprocuradores le confieran.
-
-> <small>(REFORMADO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+V.- Identificación fotográfica de frente y perfil.
 
 ###### ARTICULO 29.
 
-La Dirección de Informática tendrá las siguientes atribuciones:
+A todo interno se le formará expediente clínico- criminológico, que contendrá el resultado de los estudios practicados, enviándose informe a la Dirección General de Prevención y Readaptación social y se dividirá en las siguientes secciones:
 
-I. Llevar a cabo la planeación, análisis, desarrollo, implementación y mantenimiento de los servicios de tecnologías de información, telecomunicaciones y sistemas de la Procuraduría;
+I.- De conducta, donde se harán constar los antecedentes sobre su comportamiento, sanciones disciplinarias, estímulos, recompensas y todo lo que se relacione con el régimen disciplinario interior.
 
-II. Analizar, planear, diseñar, programar, probar, implantar, administrar y operar los sistemas informáticos, tecnologías de la información, telecomunicaciones, redes de voz, datos y video de la Procuraduría;
+II.- Médica y psiquiátrica, en donde se consignarán los estudios que se realicen sobre el estado de salud física y mental del interno.
 
-III. Promover y dirigir el desarrollo específico de aplicaciones automatizadas para mejorar el desempeño de las funciones de las diferentes áreas de la dependencia y optimizar los recursos informáticos, y generar las herramientas necesarias para el manejo y control de la información procesada;
+III.- Psicológica, en donde se incluirá el estudio de personalidad, situación emocional y elementos psicocriminológicos.
 
-IV. Diseñar, elaborar, programar, recopilar, clasificar y actualizar el sitio o página oficial en internet y de la información que se dé a conocer a través de la misma;
+IV.- Educativa, donde se indicará el grado inicial de instrucción, así como los progresos y calificaciones obtenidas durante el internamiento.
 
-V. Proponer, diseñar e implantar las políticas, programas, proyectos, capacitaciones y estrategias para el adecuado uso de los sistemas de información, telecomunicaciones, e infraestructura de voz, datos y video de la Procuraduría;
+V.- Ocupacional, en donde se indicará el grado inicial de aptitud para el trabajo, labores desempeñadas y el grado de capacitación para el mismo; en esta sección se pondrá especial cuidado en precisar los días trabajados para los efectos de la Remisión Parcial de la Pena.
 
-VI. Planear el diseño e implantación de modelos tecnológicos en materia de adquisición, instalación, mantenimiento, desarrollo y operación de equipos y servicios de telecomunicaciones, informática e infraestructura de tecnologías de información;
+VI.- Trabajo Social, que contendrá la situación sociocriminológica del interno y las orientaciones para conducirse en el lugar a donde vaya a radicar.
 
-VII. Integrar y actualizar la información criminológica y sobre el comportamiento delictivo, como sustento para los proyectos de prevención de delito, como instrumento para las áreas gubernamentales a cargo de la prevención delictiva;
+VII.- Jurídica, que contendrá: las fichas antropométrica y dactiloscópica, la boleta de ingreso, el Auto de Formal Prisión y las sentencias de primera y segunda instancia y de amparo.
 
-VIII. Proporcionar servicios de información sistematizada que agilice el trabajo diario de las diferentes áreas de la Procuraduría y proveer de elementos de control y toma de decisiones al Procurador y a los niveles directivos;
+VIII.- Preliberacional, en donde constará el control de presentaciones del interno en el centro, así como la modalidad de tratamiento.
 
-IX. Establecer la coordinación y colaboración necesaria con las diversas instancias del Sistema Nacional de Seguridad Pública, a fin de dar cumplimiento a los compromisos adquiridos por el Estado en lo que respecta al suministro e intercambio de información;
+Los datos consignados en las fracciones I, IV, V y VIII se consignarán en cada expediente cuando menos una vez por mes. Los mencionados en las fracciones II, III, VI y VII, serán consignados cada tres meses por lo menos.
 
-X. Normar y unificar los criterios de adquisición, implementación, desarrollo, y administración de cualquier aspecto en proyectos de tecnologías de información, cómputo y telecomunicaciones en todas las áreas de la Procuraduría; y
-
-XI. Las demás que el Procurador o Subprocuradores le confieran.
-
-### CAPITULO VII. DE LAS SUPLENCIAS Y REPRESENTACIONES
+### Capítulo III. Del Régimen de Tratamiento
 
 ###### ARTICULO 30.
 
-La Dirección de Administración tendrá las siguientes atribuciones:
+El régimen de tratamiento para los internos, tendrá carácter progresivo y técnico y constará de los períodos de estudio, diagnóstico y tratamiento, teniendo este último, las fases de clasificación y preliberación. El tratamiento se sujetará a las siguientes reglas:
 
-l. Atender la provisión de recursos humanos y materiales, así como de servicios generales necesarios en las distintas áreas de la Procuraduría para el correcto desempeño de las funciones de cada una de ellas;
+I.- Durante el período de estudio y diagnóstico, el personal técnico del Centro realizará el estudio integral del interno, desde los puntos de vista médico, psicológico, psiquiátrico, social, pedagógico y ocupacional, para determinar entre otros datos:
 
-II. Proponer al Procurador las ampliaciones, reducciones, transferencias y reprogramación de metas necesarias para la eficiente aplicación de los recursos asignados;
+a) El origen remoto y la causa próxima del delito.
 
-III. Llevar a cabo los trámites relativos a las altas, cambios y bajas del personal de la Procuraduría;
+b) El estado físico, mental y funcional del interno.
 
-IV. Llevar el control de archivo y correspondencia de la Procuraduría;
+c) Su valor social y profesional.
 
-V. Elaborar el proyecto de presupuesto de la Procuraduría, previo acuerdo con el Procurador;
+En el primer período de tratamiento, el interno será objeto de observación y no deberá exceder de 30 días.
 
-VI. Implementar el ejercicio del Presupuesto de la Procuraduría conforme al acuerdo del Procurador y las normas legales aplicables y los criterios que emita la Secretaría de Finanzas; y
+II.- Transcurrido el período de estudio, inmediatamente se iniciará el diagnóstico y con el resultado de los estudios aplicados, se hará la clasificación de los internos, atendiendo a criterios criminológicos, así como la edad, salud mental y física, capacidad, índice de peligrosidad, tipo de delito y término de la sanción impuesta.
 
-VII. Las demás que otras disposiciones legales, el Procurador o los Subprocuradores le confieran.
+III.- El período de tratamiento, se basará en la educación, el trabajo y la capacitación para el mismo y tendrá por objeto la reincorporación social del interno.
 
-> <small>(ADICIONADO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+IV.- El tratamiento preliberacional se aplicará en el período de un año a tres meses anteriores, a la fecha de obtención de la libertad y comprenderá:
 
-ARTICULO 30 bis.- La Dirección de Enlace con la Secretaría de Seguridad Pública Federal, depende directamente del Procurador, y es la unidad administrativa responsable de:
+a) Formación, orientación especial y diálogo con el interno y sus familiares, sobre los aspectos personales y prácticos de la vida en libertad.
 
-I. Realizar las gestiones necesarias para dar seguimiento y cabal cumplimiento a los compromisos de carácter nacional asumidos por la Federación o el Estado, dentro de sus respectivas competencias;
+b) Concesión de mayor libertad dentro del centro.
 
-II. Dirigir y coordinar los servicios a su cargo para implementar las órdenes del Procurador y de las unidades administrativas a cargo de la investigación y persecución de los delitos;
+c) Aplicación de técnicas socioterapéuticas, psicoterapias colectivas y de todas aquéllas que coadyuven a lograr una mayor integración social.
 
-III. Auxiliar a las unidades administrativas de la Procuraduría en la práctica de diligencias, obtención e intercambio de información con la Procuraduría General de la República, la Secretaría de Seguridad Pública Federal y otras instituciones federales;
+d) Aplicación de las modalidades del régimen de prelibertad, como:
 
-IV. Establecer y operar métodos de comunicación y redes de información policial para el acopio y clasificación oportuna de los datos que requiera la Dirección y demás unidades administrativas de la Procuraduría, de conformidad con las normas y políticas institucionales;
+1.- Salida de fin de semana, con regreso el domingo o el lunes siguiente.
 
-V. Proporcionar, previa autorización del Procurador, la información policial a autoridades federales, del Distrito Federal, estatales y municipales, de conformidad con la normatividad y los convenios celebrados por la Procuraduría;
+2.- Salida diaria de lunes a viernes, con reclusión nocturna.
 
-VI. Promover la cooperación en la materia con la Procuraduría General de la República, Secretaría de Seguridad Pública Federal y de las Procuradurías de los Estados o del Distrito Federal y otras entidades federativas;
+3.- Salida diaria incluyendo el fin de semana, con reclusión nocturna todos los días.
 
-VII. Ser el enlace con otras instituciones o corporaciones policiales de la Procuraduría General de la República, de la Secretaría de Seguridad Pública Federal y de las Procuradurías de Justicia de los Estados y del Distrito Federal, a efecto de implementar acciones policiales y operativos conjuntos; y
+4.- Salida en días hábiles con reclusión de fin de semana.
 
-VIII. Las demás que le encomiende el Procurador, le otorgue esta Ley, su Reglamento y demás disposiciones legales aplicables.
+Cuando el interno sentenciado no cumpla las modalidades que le sean impuestas, al concedérsele la preliberación, le será revocado el beneficio.
 
 ###### ARTICULO 31.
 
-La Coordinación de Asesoría tendrá las siguientes atribuciones:
+Durante el régimen de tratamiento, los internos se sujetarán a las medidas que se consideren más adecuadas a juicio del Consejo Técnico del Centro.
 
-I. Auxiliar al Procurador en el ejercicio de sus funciones mediante análisis y estudios sobre temas específicos, en torno de los cuales deba hacer pronunciamientos o tomar decisiones;
+Todo interno devuelto al centro del que procediere, por habérsele revocado la libertad condicional o preliberacional que disfrutaba, se ubicará en el primer período de tratamiento, pudiéndose aumentar la duración del mismo hasta dos meses.
 
-II. Proporcionar orientación y, en su caso, emitir opinión fundada relativa a determinado asunto, previa instrucción del Procurador;
-
-III. Atender y dar puntual seguimiento a los asuntos que le encomiende el Procurador;
-
-IV. Brindar la asesoría requerida en cualquier área de la Procuraduría para el mejor desempeño de las funciones propias; y,
-
-V. Las demás que otras disposiciones legales, el Procurador o los Subprocuradores le confieran.
-
-### CAPITULO VIII. DE LOS AUXILIARES DEL MINISTERIO PUBLICO
+### Capítulo IV. Del Régimen Educacional
 
 ###### ARTICULO 32.
 
-La Coordinación de Vinculación y Enlace tendrá las siguientes atribuciones:
+En los Centros de Readaptación Social, la enseñanza primaria es obligatoria para todos los internos. Asimismo, se procurará establecer la enseñanza secundaria, preparatoria y profesional o su equivalente, en su modalidad abierta, conforme a los planes y programas oficiales.
 
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-I. Fungir como enlace entre la Procuraduría y los diversos órganos y dependencias federales, estatales y municipales;
-
-II. Atender las relaciones de la Procuraduría con personas y representantes de los sectores social y privado;
-
-III. Proponer al Procurador los mecanismos de vinculación que permitan concertar con la Federación, las Entidades Federativas y los Municipios, la celebración de convenios de colaboración y de coordinación; y,
-
-IV. Las demás que otras disposiciones legales, el Procurador o Subprocuradores le confieran.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+La educación de los internos, será elemento básico para su readaptación, procurando afirmar el respeto a los valores humanos, a las instituciones y símbolos nacionales.
 
 ###### ARTICULO 33.
 
-La Dirección de Comunicación Social tendrá las siguientes atribuciones:
+En los Centros de Readaptación, las actividades educativas serán desarrolladas por personal de las instituciones de enseñanza. También podrán intervenir, los internos que hubieran demostrado aptitudes y la preparación académica para el desempeño de estas funciones.
 
-I. Someter a la consideración del Procurador los criterios generales de actuación para la atención de los medios de comunicación;
-
-II. Diseñar, proponer y coordinar la realización de publicidad y programas de difusión en materia de procuración de justicia y prevención del delito, así como de la imagen institucional interna y externa de la Procuraduría;
-
-III. Llevar a cabo la síntesis informativa de las notas que se publiquen en los medios o de los asuntos que se den a conocer a la opinión pública que tengan relación con las actividades propias de la Procuraduría;
-
-IV. Coordinar la atención a los medios de comunicación en general y mantener informadas a las distintas áreas de la Procuraduría de las publicaciones que se lleven a cabo en los mismos y que tengan vinculación con sus atribuciones; y,
-
-V. Las demás que otras disposiciones legales, el Procurador o Subprocuradores le confieran.
+La supervisión y evaluación de las labores escolares de cada interno, la efectuará el área técnica o equivalente del Centro de Readaptación. El interno que realice actividades de enseñanza merecerá mención especial en su expediente personal.
 
 ###### ARTICULO 34.
 
-Los demás servidores públicos referidos en el artículo 12, así como los que se integren en razón del debido, oportuno y eficaz ejercicio de las atribuciones del Ministerio Público y de la Procuraduría, tendrán las facultades y obligaciones específicas que el Reglamento les señale.
+A los internos analfabetos se les proporcionará enseñanza primaria obligatoria, conforme al método existente en las escuelas públicas del Estado. A los demás internos se les facilitará los estudios superiores adecuados a su vocación y aptitud si así lo solicitaren y fuere posible, así como la práctica de actividades culturales, deportivas y recreativas, que se organicen en los centros.
+
+Con autorización de la Dirección y atendiendo el tratamiento de los internos, la sección educativa del área técnica o equivalente, organizará conferencias, veladas literarias, representaciones teatrales, conciertos musicales, eventos deportivos y otros actos análogos que tiendan a elevar el nivel cultural del interno.
 
 ###### ARTICULO 35.
 
-El personal de la Procuraduría se organizará en las siguientes categorías:
+Los Centros contarán con una biblioteca cuando menos y los internos podrán hacer uso del servicio, respetando los horarios y disposiciones que se dicten por la Dirección.
 
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-I. El personal sujeto al Servicio Profesional de Carrera conformado por los Agentes del Ministerio Público, de la Policía Investigadora y Policía Ministerial, así como los Peritos; y,
-
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-II. El personal distinto del ministerial, policial y pericial, conforme a la Ley del Trabajo de los Servidores Públicos del Estado de Tamaulipas, deberán sujetarse a las evaluaciones de control de confianza, del desempeño y de conocimientos o competencias, así como a la profesionalización que establezcan las disposiciones legales aplicables.
-
-La Procuraduría establecerá el Programa Rector de Profesionalización para su personal sujeto al servicio profesional de carrera de conformidad con las modalidades y características que establezca el Reglamento y otras disposiciones aplicables.
-
-### CAPITULO I. DE LA COMISARIA
-
-> <small>(REFORMADO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+### Capítulo V. Del Régimen de Trabajo
 
 ###### ARTICULO 36.
 
-Para ingresar a formar parte del personal, será obligatorio que la Procuraduría consulte, de ser el caso, los antecedentes del aspirante o prospecto de que se trate en los registros correspondientes del Sistema Nacional de Seguridad Pública.
+El trabajo y capacitación para el mismo, en los Centros de Readaptación es obligatorio para sentenciados y voluntario para procesados e indispensable para el cumplimiento del régimen de tratamiento y para el otorgamiento de la Remisión Parcial de la Pena.
 
-#### SECCION SEGUNDA. DEL REGIMEN LABORAL
+Para la asignación de las labores correspondientes, se atenderá la aptitud física y mental y las circunstancias personales del interno, en correlación con las fuentes ocupacionales que ofrezca cada centro.
 
 ###### ARTICULO 37.
 
-La relación laboral entre la Procuraduría con su personal se regirá por lo previsto en la Ley del Trabajo de los Servidores Públicos del Estado de Tamaulipas en vigor; sin embargo, las relaciones de trabajo establecidas con el personal sujeto al servicio profesional de carrera ministerial, policial y pericial, se regularán por lo dispuesto en el artículo 123, apartado B, fracción XIII de la Constitución Política de los Estados Unidos Mexicanos, la presente Ley y demás disposiciones legales aplicables.
+Están exceptuados de la obligación de trabajar:
 
-> <small>(REFORMADO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+I.- Los que padecieren alguna enfermedad o incapacidad que los imposibilite para el trabajo o que en razón de su edad no puedan hacerlo.
 
-Los Agentes del Ministerio Público, de la Policía Investigadora, de la Policía Ministerial, así como los Peritos, podrán ser separados de su cargo si no satisfacen los requisitos que el presente ordenamiento señala para permanecer en la institución, o removidos al incurrir en responsabilidad en el desempeño de sus funciones por incumplimiento de sus facultades y obligaciones, mediante los procedimientos establecidos en esta Ley, sin que proceda su reinstalación o restitución, cualquiera que sea el juicio o medio de defensa.
+II.- Las mujeres en estado grávido, durante las seis semanas anteriores y posteriores al parto o según dictamen del área médica del Centro.
 
-Si la autoridad competente resuelve que la separación, remoción, baja o cese o cualquier otra forma de terminación del servicio fue injustificada, la Procuraduría sólo estará obligada a pagar la indemnización y demás prestaciones a que tenga derecho, sin que en ningún caso proceda su reinstalación.
+Las personas comprendidas en estos casos y que voluntariamente desearan trabajar, podrán dedicarse a la ocupación que elijan, siempre que no fuere perjudicial a su salud e incompatible con su tratamiento.
 
 ###### ARTICULO 38.
 
-La indemnización a que se refiere el artículo anterior consistirá en:
+Los productos que se obtuvieren de las industrias, talleres o explotación agrícola, propiedad del establecimiento, serán destinados en primer término, a satisfacer las necesidades interiores del mismo, los demás se venderán a las dependencias públicas y a los particulares que lo solicitaren.
 
-I. Veinte días de salario por cada uno de los años de servicio prestado, si la relación fuese por tiempo indeterminado; y,
-
-II. El importe de tres meses de salario.
-
-#### SECCION TERCERA. DE LAS EVALUACIONES
-
-> <small>(REFORMADO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+Los particulares con la autorización de la Dirección General de Prevención y Readaptación Social, podrán establecer dentro de los Centros industrias o talleres, y los productos que se obtuvieren podrán comercializarse a juicio del industrial o inversionista.
 
 ###### ARTICULO 39.
 
-Los servidores públicos de la Procuraduría, deberán someterse y aprobar los exámenes de evaluación de control de confianza, del desempeño y de competencias profesionales, conforme a lo dispuesto por esta Ley y demás normas aplicables.
+Los internos coadyuvarán a su sostenimiento con cargo a la percepción que reciban como resultado del trabajo que desempeñen. El resto del producto de trabajo se distribuirá, por regla general del modo siguiente:
 
-Los procesos de evaluación de control de confianza constarán de los siguientes exámenes:
+I.- Un 15% para el pago de la sanción pecuniaria.
 
-I. Patrimonial y de entorno social;
+II.- Un 50% para el sostenimiento de sus dependientes económicos.
 
-II. Médico;
+III.- Un 10% para la constitución del fondo de ahorro.
 
-III. Psicométrico y psicológico;
+IV.- Un 15% para el pago de la reparación del daño.
 
-IV. Poligráfico;
+V.- Un 10% para sus gastos menores.
 
-V. Toxicológico; y,
+En caso de que no hubiese condena a reparación del daño o éste ya se hubiere cubierto, no tenga dependientes económicos o haya pagado la multa, los porcentajes inaplicables se distribuirán entre los conceptos que subsistan, en la proporción que corresponda, a excepción del destinado a gastos menores del interno, que será inalterable en el 10% señalado.
 
-VI. Los demás que establezcan las normas aplicables.
-
-Los procesos de evaluación del desempeño comprenderán el comportamiento, el cumplimiento en el ejercicio de las funciones y los demás aspectos que establezcan las normas aplicables; tendrán por objeto comprobar que los servidores públicos de la Procuraduría den debido cumplimiento a los principios de certeza, legalidad, objetividad, imparcialidad, eficiencia, eficacia, profesionalismo, honradez, lealtad, disciplina y respeto a los derechos humanos.
-
-Los exámenes de evaluación de competencias profesionales tienen por objeto determinar que los servidores públicos cuentan con los conocimientos, las habilidades, destrezas y aptitudes necesarios para desempeñar su función de forma eficiente, conforme a los estándares establecidos para ello.
-
-Los exámenes de evaluación de control de confianza se valorarán en conjunto, salvo el toxicológico que se presentará y calificará por separado. En la evaluación toxicológica de obtenerse un resultado no aprobatorio se dará por concluido el proceso.
-
-La determinación de la evaluación la emitirá el Centro Estatal de Evaluación y Control de Confianza de Tamaulipas con base en los criterios previamente establecidos y se llevará a cabo de manera integral, en la cual se establecerá expresamente que el servidor público es aprobado o no aprobado.
-
-Los servidores públicos citados formalmente a la aplicación de las evaluaciones de control de confianza que no concurran sin causa justificada, se les tendrá por no aprobados, de conformidad con lo previsto en esta Ley y su Reglamento.
+Lo dispuesto en este artículo se aplicará aun cuando el interno trabaje en una actividad cuyos ingresos, por su naturaleza, no estén sujetos a control directo.
 
 ###### ARTICULO 40.
 
-En casos excepcionales y poniendo en conocimiento de ello al Consejo, el Procurador y los Subprocuradores podrán requerir que cualquier servidor público de la Procuraduría se presente a aplicar las evaluaciones de control de confianza, del desempeño y de conocimientos o competencias profesionales.
-
-Los integrantes del Servicio Profesional de Carrera que no cumplan con los requisitos de permanencia, dejarán de prestar sus servicios en la Procuraduría previo desahogo del procedimiento que establece esta ley.
-
-El personal de confianza que no apruebe los exámenes de evaluación de control de confianza, del desempeño o de competencias profesionales, dejará de prestar sus servicios en la institución, de conformidad con las disposiciones legales aplicables.
-
-Se considerará como información reservada la contenida en los expedientes y reportes de resultados de los exámenes de evaluación, salvo que deban ser presentados en procedimientos administrativos o procesos judiciales.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+La organización y administración del trabajo en los Centros, corresponderá a la Dirección General de Prevención y Readaptación Social, en coordinación con la Dirección del establecimiento respectivo y se realizará de acuerdo con el mercado de mano de obra regional, procurando siempre lograr la autosuficiencia en cada Centro.
 
 ###### ARTICULO 41.
 
-El Centro Estatal de Evaluación y Control de Confianza de Tamaulipas, dependiente del Sistema Estatal de Seguridad Pública es la instancia que en coordinación con la Procuraduría General de Justicia del Estado, aplicará los exámenes respectivos, otorgará los certificados y registros correspondientes, los cuales tendrán una vigencia de tres años.
-
-A quienes aprueben las evaluaciones de control de confianza, del desempeño y de conocimientos o competencias profesionales se les expedirá su certificación respectiva en un plazo no mayor a sesenta días naturales contados a partir de la conclusión del proceso, a fin de proceder a su registro.
-
-Para efectos de revalidación de la certificación y el registro, seis meses antes de la expiración de su vigencia los servidores públicos de la Procuraduría deberán someterse a los procesos de evaluación correspondientes. Será responsabilidad del titular del área de adscripción solicitar con oportunidad la programación de los exámenes relativos, sin menoscabo de que el trabajador de que se trate haga directamente lo propio.
-
-Ninguna persona podrá prestar sus servicios en la Procuraduría si no cuenta con la certificación correspondiente vigente.
-
-#### SECCION CUARTA. DE LOS ESTIMULOS Y RECONOCIMIENTOS
+Los internos estarán obligados a cuidar las herramientas y utensilios de trabajo y capacitación y serán responsables de las pérdidas, destrucción o deterioro que en forma dolosa les causen, debiendo pagar el importe de los mismos, descontándoseles de su fondo de ahorro, previa investigación y dictamen del Consejo Técnico Interdisciplinario de la Dirección General de Prevención y Readaptación Social.
 
 ###### ARTICULO 42.
 
-El personal de la Procuraduría podrá tener derecho a ser reconocido mediante estímulos, preseas y numerario, cuando lo amerite su desempeño y los servicios prestados a la institución.
+El Ejecutivo del Estado, de acuerdo a sus posibilidades proporcionará a los internos, la capacitación y formación técnica necesaria para desarrollar sus actividades y aptitudes, a juicio de las áreas técnicas de los Centros, de tal modo, que puedan dedicarse a un oficio, arte o actividad productiva en su vida de libertad.
 
-### CAPITULO II. DE LAS ATRIBUCIONES
+Las condiciones, horarios, remuneraciones y demás disposiciones procedentes, para el trabajo de los internos, se determinarán por el reglamento interior respectivo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+### Capítulo VI. Del Régimen Disciplinario
 
 ###### ARTICULO 43.
 
-Los estímulos serán otorgados de conformidad a lo previsto en la Ley de Premios, Estímulos y Recompensas del Estado de Tamaulipas.
+En los Centros de Readaptación Social las medidas disciplinarias, los estímulos y recompensas, serán impuestas u otorgadas por los Directores, atendiendo a los lineamientos del Consejo Técnico.
+
+Los internos sólo podrán ser sancionados por un hecho que constituya falta a la disciplina y que expresamente esté previsto en el Reglamento Interior del Centro.
 
 ###### ARTICULO 44.
 
-El Procurador será designado por el Gobernador, con la ratificación del Congreso del Estado, y removido libremente de conformidad con la Constitución del Estado.
-
-> <small>(REFORMADO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+En el Reglamento Interior de los Centros de Readaptación Social, se señalarán las faltas y las medidas disciplinarias a que se hagan acreedores los internos; así como los hechos que merezcan estímulos y recompensas.
 
 ###### ARTICULO 45.
 
-Los Subprocuradores, Directores Generales, Directores, Subdirectores, Visitador, Coordinadores, Delegados, Jefes de Departamento, Titulares de Unidad y Fiscal para Asuntos Electorales serán designados y removidos libremente por el Gobernador, a propuesta del Procurador.
-
-Los Agentes del Ministerio Público, de la Policía Investigadora, de la Policía Ministerial así como los Peritos, serán nombrados y removidos de conformidad con lo dispuesto en esta Ley.
-
-El Procurador, para la mejor organización y funcionamiento de la Procuraduría General de Justicia del Estado y cuando así lo requieran las necesidades del servicio, podrá designar a Agentes del Ministerio Público, Agentes de la Policía Investigadora, Agentes de la Policía Ministerial y Peritos, siempre que se trate de personas de amplia y acreditada experiencia profesional, debiendo previamente haber acreditado los exámenes que comprenden los procesos de evaluación de control de confianza.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+El Director del establecimiento, impondrá las correcciones disciplinarias a los internos infractores atendiendo a la gravedad de la falta y después de haber cumplido con la garantía de audiencia.
 
 ###### ARTICULO 46.
 
-Para ser designado Procurador, Subprocurador, Director General, Director, Visitador, Coordinador de Asuntos Internos, Delegado, Jefe de Departamento, Titular de Unidad y Fiscal para Asuntos Electorales, se requiere:
+Los internos, estarán obligados a observar las normas de conducta necesarias para mantener el orden y la disciplina de cada Centro, conforme a lo establecido en esta Ley y el reglamento interior; deberán presentarse puntualmente a las listas ordinarias y extraordinarias, quedando sujetos a registros que se efectuarán sin hacer uso de violencia y sin atentar a la dignidad humana.
 
-I. Ser ciudadano mexicano, originario de Tamaulipas o tener una residencia efectiva en el Estado de tres años anteriores a su designación;
-
-II. Tener cuando menos treinta años de edad;
-
-III. Contar con título profesional de Licenciado en Derecho con ejercicio profesional cuando menos de cinco años;
-
-IV. No estar suspendido o inhabilitado ni haber sido destituido por resolución firme como servidor público; y,
-
-V. Gozar de buena reputación, no haber sido sentenciado por la comisión de delito doloso y no estar sujeto a proceso penal.
-
-Se exceptúa de lo especificado en la fracción III de éste artículo a la Dirección General del Servicio Profesional de Carrera, la Dirección Administrativa y la Dirección de Informática y Estadística.
-
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
-
-Para ser designado Director General de Operación del Procedimiento Penal Acusatorio y Oral, Coordinador Regional del Sistema Penal Acusatorio y Oral, Agente del Ministerio Público de Procedimiento Penal Acusatorio y Oral, Agente del Ministerio Público Supervisor y Orientador, además de los requisitos señalados para el cargo, deberá acreditar haber recibido capacitación en procedimiento penal acusatorio y oral, que no podrá ser menor de doscientas horas.
-
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
-
-Estas designaciones serán hechas conforme a lo establecido en el artículo 45 de esta Ley.
+Sólo cuando resulte indispensable para restablecer el orden o la seguridad, se usará la fuerza estrictamente necesaria.
 
 ###### ARTICULO 47.
 
-El Procurador designará a los subdirectores, jefes de departamento y demás personal de confianza, en los términos del presente ordenamiento, su Reglamento y demás disposiciones aplicables.
+Todas las resoluciones del Director, en materia disciplinaria, se harán constar en la sección de conducta del expediente personal de cada interno, comunicándolas a la Dirección General de Prevención y Readaptación Social.
 
-## TITULO SEXTO. DE LAS EXCUSAS E INCOMPATIBILIDADES
+## TITULO SEXTO. DE LAS SANCIONES IMPUESTAS POR LOS TRIBUNALES
 
-### CAPITULO UNICO
-
-###### ARTICULO 103.
-
-Los servidores con funciones de Ministerio Público no son recusables. No obstante, bajo su responsabilidad deberán excusarse del conocimiento de los asuntos cuando concurra cualquiera de las causas señaladas en las disposiciones legales aplicables.
-
-###### ARTICULO 104.
-
-El Gobernador calificará las excusas del Procurador, y éste las del resto del personal de la Procuraduría, conforme a las disposiciones aplicables.
-
-Si el Agente del Ministerio Público interviene en un asunto cuando no deba hacerlo, será sancionado de conformidad con esta ley y demás que resulten aplicables.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-###### ARTICULO 105.
-
-Los Agentes del Ministerio Público, de la Policía Investigadora, de la Policía Ministerial, Oficiales Ministeriales y Peritos, no podrán:
-
-I. Desempeñar empleo, cargo o comisión de cualquier naturaleza en la administración pública federal, en los gobiernos del Distrito Federal o de los estados integrantes de la federación y sus municipios, así como trabajos o servicios en instituciones privadas, salvo los de carácter académico y aquellos que autorice la Procuraduría, siempre y cuando no sean incompatibles con sus funciones en la misma;
-
-II. Ejercer la abogacía por sí o por interpósita persona, salvo en causa propia, de su cónyuge, concubina o concubinario, de sus ascendientes o descendientes, de sus hermanos o de su adoptante o adoptado;
-
-III. Ejercer funciones de tutor, curador o albacea judicial, a no ser que tenga el carácter de heredero o legatario, o se trate de sus ascendientes, descendientes, hermanos, adoptante o adoptado, y
-
-IV. Ejercer ni desempeñar las funciones de depositario o apoderado judicial, síndico, administrador, interventor en quiebra o concurso, notario, corredor, comisionista, árbitro o arbitrador.
-
-### CAPITULO III. DE LOS REQUISITOS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+### Capítulo I. De su Cumplimiento
 
 ###### ARTICULO 48.
 
-Las excusas, ausencias o faltas temporales de los servidores públicos de la Procuraduría, serán suplidas de la siguiente forma:
-
-l. Las del Procurador por el Primer Subprocurador, mismo que en ausencia definitiva continuará en ejercicio de esas funciones, hasta que sea designado un nuevo titular, de acuerdo a las disposiciones legales aplicables;
-
-II. Las del Primer Subprocurador por el Segundo Subprocurador; y,
-
-III. Las del Segundo Subprocurador por el Director General de Averiguaciones Previas, en los términos que disponga el Reglamento.
-
-> <small>(REFORMADO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+La Dirección General de Prevención y Readaptación Social, deberá de resolver en los casos a que se refiere el artículo 57 del Código Penal.
 
 ###### ARTICULO 49.
 
-Los Directores Generales, Directores, Coordinadores, el Visitador, los titulares de Unidad y demás servidores públicos, serán suplidos en términos de lo que al respecto establezca el Reglamento.
+La Dirección General tomará todas las medidas concernientes al cumplimiento de las sanciones que se le impusieren a las personas morales, de acuerdo con lo establecido por el artículo 73 del Código Penal.
 
 ###### ARTICULO 50.
 
-Son auxiliares del Ministerio Público:
-
-A) Directos:
-
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-I. La Policía Investigadora;
-
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-II. La Policía Ministerial;
-
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-III. Los Servicios Periciales; y,
-
-> <small>(ADICIONADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-IV. Los Oficiales Ministeriales.
-
-B) Suplementarios:
-
-I. Los Agentes del Ministerio Público de la Federación y de las Entidades Federativas, los peritos del fuero federal y de las Entidades Federativas, así como las instituciones policiales de los tres órdenes de gobierno de los Estados de la República, en términos de las disposiciones legales aplicables y con base en los acuerdos y lineamientos que al efecto establezca el Sistema Nacional de Seguridad Pública, la Conferencia Nacional de Procuración de Justicia y demás instancias de coordinación;
-
-II. Los síndicos municipales;
-
-III. Los jueces calificadores o equivalentes;
-
-IV. El personal de confianza de la Procuraduría; y,
-
-V. Los funcionarios de las dependencias y entidades de las administraciones públicas del Estado y los municipios, en términos de las disposiciones aplicables.
-
-> <small>(REFORMADO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+Comunicados los términos de la sanción pecuniaria a la Dirección General, ésta auxiliará a la autoridad fiscal correspondiente, para que realice el cobro en los términos de la Ley que reglamente la facultad económico coactiva y se haga correcta aplicación de dicho cobro en los términos del Capítulo VI del Título III del Libro Primero, del Código Penal.
 
 ###### ARTICULO 51.
 
-En la investigación de los delitos, la Policía Investigadora y las instituciones policiales auxiliares actuarán bajo la conducción y el mando directo del Ministerio Público, en términos de lo establecido por el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, las disposiciones legales aplicables y los protocolos de operación que se establezcan al respecto.
+Cuando el sancionado alegue que no puede cumplir alguna de las modalidades de la sanción que le fue impuesta, por ser incompatible con su edad, sexo, salud o constitución física, la Dirección General, previo estudio del caso dictará la resolución que corresponda.
+
+> <small>(ADICIONADO, G.O. 11 DE ENERO DE 2006)</small>
+
+Los reos sentenciados mayores de 70 años, que no hayan cometido delitos considerados como graves, purgarán sus sentencias en su domicilio con las limitantes que establezca la propia Dirección General, en concordancia a lo establecido en el segundo párrafo del artículo 83 del Código Penal.
 
 ###### ARTICULO 52.
 
-Los peritos actuarán bajo la autoridad y mando inmediato del Ministerio Público, sin perjuicio de la autonomía técnica y la independencia de criterio con las que deben estudiar los asuntos sometidos a su dictamen.
+En los casos a que se refiere el artículo 74 del Código Penal, el Ejecutivo del Estado, oyendo a la Dirección General, resolverá lo que estime pertinente.
 
 ###### ARTICULO 53.
 
-Los auxiliares del Ministerio Público informarán inmediatamente a éste, respecto de los casos en que intervengan con dicho carácter, haciéndole de su conocimiento los elementos reunidos con motivo de su actuación.
+La Dirección General de Prevención y Readaptación Social, tendrá a su cargo la orientación y vigilancia de las personas a quienes se les haya concedido la libertad bajo tratamiento, la semilibertad o la suspensión condicional, en los términos del Código Penal. La vigilancia será ejercida con toda discreción.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-### CAPITULO I. DE LOS REQUISITOS
-
-> <small>(REFORMADO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+### Capítulo II. De su Quebrantamiento
 
 ###### ARTICULO 54.
 
-La Policía Investigadora será dirigida por un Comisario, quien tendrá el más alto rango en la corporación y sobre la cual ejercerá atribuciones de mando inmediato, dirección y disciplina, conforme a su previsión enunciativa en el artículo 24 de esta Ley.
-
-> <small>(REFORMADO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+El interno que intente fugarse o que habiéndolo conseguido sea reaprehendido, perderá el derecho a libertad condicional y a la remisión parcial por los días trabajados antes de la fuga o el intento.
 
 ###### ARTICULO 55.
 
-A la Policía Investigadora le corresponden, las atribuciones establecidas en el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, el artículo 124 de la Constitución Política del Estado, esta Ley y sus Reglamentos.
-
-> <small>(REFORMADO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+Cuando un sentenciado a confinamiento salga del lugar que se le haya fijado como sitio de residencia, antes de que concluya el término, será internado en un Centro de Readaptación, por el tiempo que le falte para extinguir el confinamiento.
 
 ###### ARTICULO 56.
 
-La Policía Investigadora estará conformada por agentes especializados en la investigación criminalística bajo principios técnico-científicos y desarrollarán sus tareas de investigación bajo el mando directo del Ministerio Público.
-
-> <small>(REFORMADO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+La Dirección General de Prevención y Readaptación Social informará al tribunal que haya conocido del caso, cuando un interno sometido a vigilancia de la autoridad no ministre a ésta los informes que se le piden sobre su conducta.
 
 ###### ARTICULO 57.
 
-La Policía Investigadora también dará cumplimiento a los mandamientos sobre órdenes de aprehensión, reaprehensión o de comparecencia que sean dictados por la autoridad competente.
-
-> <small>(REFORMADO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+La Dirección General de Prevención y Readaptación Social comunicará al Ministerio Público, cuando advierta que un sentenciado ha incurrido en quebrantamiento de la sanción de privación, suspensión o inhabilitación de derechos que le fue impuesta.
 
 ###### ARTICULO 58.
 
-La Policía Investigadora podrá especializarse en determinadas materias conforme a las necesidades del servicio.
+La Dirección General comunicará a los tribunales de los casos en que éstos deban conocer para los efectos del artículo 80 del Código Penal.
 
-> <small>(REFORMADO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-### CAPITULO II. DE LOS DERECHOS, OBLIGACIONES Y RESPONSABILIDADES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+### Capítulo III. De la Extinción
 
 ###### ARTICULO 59.
 
-En el Reglamento de esta Ley se determinarán las facultades y obligaciones específicas de las corporaciones o agrupaciones en que se distribuirá el ejercicio de las funciones de la Policía Investigadora, su organización jerárquica y categorías de operación, así como las demás atribuciones de mando, de dirección y de disciplina; además se establecerán las unidades especializadas necesarias para su mejor desempeño, en términos de las disposiciones legales aplicables.
+La sanción privativa de libertad, se extingue por el cumplimiento de la misma, muerte del sentenciado, resolución de la autoridad judicial, indulto o amnistía y prescripción, en los términos del Título V del Libro Primero, del Código Penal.
 
 ###### ARTICULO 60.
 
-La Policía Investigadora tendrá las siguientes atribuciones:
-
-l. Recibir las denuncias sobre hechos que puedan ser constitutivos de delitos, sólo cuando debido a las circunstancias del caso aquéllas no puedan ser formuladas directamente ante el Ministerio Público, al que deberán informar de inmediato, así como de las diligencias practicadas y dejarán de actuar cuando él lo determine;
-
-II. Verificar la información de las denuncias que le sean presentadas cuando éstas no sean lo suficientemente claras o la fuente no esté identificada, y turnar al Agente del Ministerio Público para que, en su caso, proceda conforme a la Ley;
-
-III. Practicar las diligencias necesarias que permitan el esclarecimiento de los hechos y la identidad de los probables responsables, en cumplimiento de los mandatos del Agente del Ministerio Público;
-
-IV. Efectuar las detenciones en los términos de lo previsto en el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos;
-
-V. Contribuir en la investigación de los hechos delictuosos y en el aseguramiento de personas y bienes que el Ministerio Público considere se encuentren relacionados con el hecho tipificado como delito, observando las disposiciones constitucionales y legales aplicables;
-
-VI. Informar a la persona al momento de su detención sobre los derechos que en su favor establece la Constitución Política de los Estados Unidos Mexicanos;
-
-VII. Llevar a cabo el registro de identificación biométrica de las personas detenidas y remitirlo al Ministerio Público;
-
-VIII. Inscribir de inmediato las detenciones que realice en el registro administrativo del Centro Nacional de Información, así como remitir sin demora y por cualquier medio dicha información al Ministerio Público;
-
-IX. Poner a disposición de las autoridades competentes, sin demora alguna, a las personas detenidas y los bienes que se encuentren bajo su custodia, observando en todo momento el cumplimiento de los plazos constitucionales y legales establecidos;
-
-X. Preservar el lugar de los hechos y la integridad de los indicios, huellas o vestigios del hecho delictuoso, así como los instrumentos, objetos o productos del delito;
-
-XI. Proponer al Agente del Ministerio Público que requiera a las autoridades competentes, informes y documentos para fines de la investigación, cuando se trate de aquellos que sólo pueda solicitar por conducto de éste;
-
-XII. Dejar constancia de cada una de sus actuaciones, así como llevar un control y seguimiento de éstas. Durante el curso de la investigación deberá elaborar informes sobre el desarrollo de la misma, y rendirlos al Ministerio Público, sin perjuicio de los informes que éste le requiera;
-
-XIII. Emitir a la brevedad posible, los informes, partes policiales y demás documentos que se generen, así como aquellos que le ordene el Agente del Ministerio Público, con los requisitos que establezcan las disposiciones legales aplicables;
-
-XIV. Proporcionar atención a víctimas, ofendidos o testigos del hecho tipificado como delito;
-
-XV. Dar cumplimiento a las órdenes de aprehensión, reaprehensión y comparecencia o presentación, así como a los demás mandatos ministeriales y jurisdiccionales que se les encomiende por la autoridad competente, siempre y cuando se circunscriban a las atribuciones de la dependencia;
-
-XVI. Reunir la información de datos y elementos necesarios que puedan ser útiles al Ministerio Público para acreditar el hecho delictuoso y la probable responsabilidad del imputado conforme a las instrucciones de aquél;
-
-XVII. Incorporar a las bases de datos criminalísticas y de personal del Sistema Nacional de Información sobre Seguridad Pública, la información que pueda ser útil en la investigación de los delitos y utilizar su contenido para el desempeño de sus atribuciones;
-
-XVIII. Llevar a cabo operaciones encubiertas, previa autorización del Agente del Ministerio Público, el Director General de Averiguaciones Previas o los Subprocuradores, bajo los lineamientos precisos que se les instruyan, para la investigación y persecución de hechos delictuosos, así como la captura de sus responsables;
-
-XIX. Realizar análisis técnico táctico o estratégico de la información obtenida para generar inteligencia para la investigación;
-
-XX. Colaborar, cuando así lo soliciten, con los cuerpos de policía estatales, las policías municipales y otras autoridades, que en el ejercicio de sus funciones de vigilancia, verificación e inspección se les requiera;
-
-XXI. Proponer al Agente del Ministerio Público la necesidad de solicitar formalmente a personas físicas y morales que proporcionen voluntariamente información contenida en documentos, bases de datos o sistemas que sean útiles en la investigación, garantizándose la confidencialidad de la fuente y de la información, en términos de lo establecido por la legislación respectiva;
-
-XXII. Proponer al Ministerio Público la necesidad de solicitar formalmente a concesionarios, permisionarios, operadores telefónicos y todos aquellos comercializadores de servicios de telecomunicaciones y sistemas de comunicación vía satélite, la georeferenciación en tiempo real de equipos de comunicación móvil y de información que coadyuve a la investigación de delitos;
-
-XXIII. Colaborar, cuando sea formalmente requerida, con autoridades federales, locales y municipales competentes, para proteger la integridad de las personas y preservar sus bienes en situaciones de peligro o disturbios u otras que impliquen violencia o riesgo inminente, así como para prevenir la comisión de delitos y garantizar, mantener y restablecer las libertades, el orden y la paz públicos;
-
-XXIV. Participar en operativos conjuntos con instituciones policiales federales, estatales y municipales;
-
-XXV. Colaborar a solicitud de la Secretaría General de Gobierno en acciones de protección civil;
-
-XXVI. Suscribir convenios con instituciones policiales de los tres órdenes de gobierno y organizaciones de la sociedad civil para el cumplimiento de sus atribuciones;
-
-XXVII. Realizar acciones de vigilancia, identificación, monitoreo y rastreo en la red pública de Internet sobre sitios web con el fin de investigar conductas delictivas;
-
-XXVIII. Cumplir puntualmente los compromisos asumidos por el Estado con la Federación y otras Entidades, respecto de acciones relativas al Sistema Nacional de Seguridad Pública; y,
-
-XXIX. Las demás que otras disposiciones legales, el Procurador o los Subprocuradores le confieran, así como las que le instruya el Ministerio Público.
-
-> <small>(REFORMADO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+El Director del Centro de Readaptación, en que se encuentre internada cualquier persona sujeta a sanción privativa de libertad, ordenará su liberación al cumplirse el término de la misma, previa computación hecha por la Dirección General de Prevención y Readaptación Social, salvo el caso que el interno deba continuar detenido por encontrarse sujeto a otro procedimiento.
 
 ###### ARTICULO 61.
 
-Los Policías Investigadores, así como las unidades que se llegasen a constituir, ejercerán las atribuciones señaladas en el artículo anterior de acuerdo al lugar de su adscripción, el cual les será asignado en la Comisaría de la Policía Investigadora, previo acuerdo con el Procurador.
+Al liberarse a un interno, se le hará entrega de su boleta o acuerdo de libertad, la cantidad que le corresponda por saldo de su fondo de ahorro y, si lo solicitare, una constancia de la conducta que haya observado y de su aptitud para el trabajo.
+
+En caso de que el liberado lo necesite, se le facilitará un pasaje de transporte para trasladarse al lugar en que haya fijado su residencia dentro del territorio del Estado; y cuando lo fijare fuera de él, hasta los límites de la Entidad.
 
 ###### ARTICULO 62.
 
-Para ser Titular de la Policía Investigadora se requiere:
+Todo interno que quede en libertad, será examinado previamente por el médico de la institución y si resultare que se encuentra padeciendo alguna enfermedad que requiera hospitalización y carece de recursos para atenderse en forma particular, será remitido inmediatamente por cuenta del Estado al establecimiento que corresponda.
 
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2012)</small>
+## TITULO SEPTIMO. DE LOS BENEFICIOS QUE PUEDE OTORGAR EL EJECUTIVO
 
-I. Ser mexicano y originario de Tamaulipas o tener una residencia efectiva en el Estado de tres años anteriores al día de su designación;
-
-II. Tener cuando menos treinta y cinco años de edad;
-
-III. Contar con título profesional, preferentemente de Licenciado en Derecho, con antigüedad de cuando menos tres años;
-
-IV. Comprobar experiencia de cuando menos tres años en funciones relativas a la seguridad pública;
-
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-V. Gozar de buena reputación y no haber sido sentenciado por la comisión de delito doloso, ni estar sujeto a proceso penal;
-
-VI. No estar suspendido o inhabilitado ni haber sido destituido por resolución firme como servidor público; y,
-
-VII. Aprobar los exámenes de evaluación y control de confianza.
-
-## TITULO SEPTIMO. DE LA EXTINCION DE DOMINIO
-
-### CAPITULO UNICO
-
-###### ARTICULO 106.
-
-La acción de extinción de dominio es de carácter real y de contenido patrimonial, jurisdiccional y autónoma de la materia penal; y procede sobre cualquier bien, en los casos y conforme al procedimiento que se establece en la propia Ley de Extinción de Dominio para el Estado de Tamaulipas.
-
-###### ARTICULO 107.
-
-El ejercicio de la acción de extinción de dominio corresponde al Agente del Ministerio Público y se sustentará en la información que se recabe del inicio de una averiguación previa, cuando de ella se desprenda que el hecho ilícito se llevó a cabo y que los bienes se encuentran relacionados o vinculados con el mismo. En ejercicio de la acción de extinción de dominio y conforme a lo previsto en las disposiciones legales aplicables, el Agente del Ministerio Público deberá:
-
-I. Recabar los medios probatorios que permitan acreditar el hecho ilícito, así como la identificación y localización de los bienes materia de la acción de extinción de dominio, y la relación existente entre ambos;
-
-II. Acordar el aseguramiento de los bienes materia de la acción de extinción de dominio;
-
-III. Solicitar al órgano jurisdiccional competente la implementación de medidas cautelares conducentes sobre los bienes materia de extinción de dominio;
-
-IV. Representar los intereses de quien se instituya como víctima u ofendido por los hechos ilícitos que dieron origen a la acción de extinción de dominio;
-
-V. Establecer los mecanismos de coordinación con autoridades y cuerpos de policía federales y estatales, a fin de dar cumplimiento a la acción de extinción de dominio, y
-
-VI. Las demás que determinen las normas legales aplicables.
-
-###### ARTICULO 108.
-
-Una vez sustanciado el procedimiento respectivo, la sentencia que declare procedente la acción de extinción de dominio tendrá por efecto que los bienes respectivos se apliquen a favor del Estado.
-
-###### ARTICULO 109.
-
-El Agente del Ministerio Público podrá desistirse de la acción de extinción de dominio en cualquier tiempo y hasta antes de que se dicte sentencia definitiva, en los casos y de conformidad con los términos que determine el Procurador o el servidor público en quien delegue tal facultad. En los mismos términos, el Ministerio Público podrá desistirse de la pretensión respecto de ciertos bienes objeto de la acción de extinción de dominio.
-
-### CAPITULO III. DEL CONSEJO DEL SERVICIO PROFESIONAL DE CARRERA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+### Capítulo I. De la Remisión Parcial de la Pena
 
 ###### ARTICULO 63.
 
-El Servicio Profesional de Carrera comprenderá los procedimientos de planeación, definición y valuación de puestos, desarrollo del tabulador y del régimen de prestaciones, reclutamiento, selección, ingreso, registro, adscripción inicial y readscripción, rotación, permiso, licencia, formación, capacitación, actualización, especialización, ascenso, reingreso, otorgamiento de estímulos y reconocimientos, supervisión y evaluación, así como la terminación ordinaria y extraordinaria del servicio de los Agentes del Ministerio Público y de la Policía Investigadora, de la Policía Ministerial así como de los Peritos, en función de lo establecido en esta Ley, en la Ley de Coordinación del Sistema de Seguridad Pública del Estado de Tamaulipas y en las demás disposiciones legales aplicables.
+En concordancia con el Capítulo V del Título Quinto de esta Ley, por cada dos días de trabajo se hará remisión de un día de internamiento, siempre y cuando el interno satisfaga los requisitos siguientes:
+
+I.- Haya observado buena conducta durante su internamiento y participado regularmente en las actividades educativas.
+
+II.- Que individualmente o formando parte de un grupo no haya alterado el orden del Centro de Readaptación, para cualquier fin.
+
+III.- No revele peligrosidad social.
+
+Este último criterio será en todo caso factor determinante para la concesión o negación de la remisión parcial de la pena.
 
 ###### ARTICULO 64.
 
-Para ingresar y permanecer como Agente del Ministerio Público de carrera, se requiere:
-
-A) Para ingresar:
-
-l. Ser ciudadano mexicano, en pleno goce de sus derechos;
-
-II. Contar con título de Licenciado en Derecho y la cédula profesional correspondiente;
-
-III. Tener acreditado, en su caso, el Servicio Militar Nacional;
-
-IV. Aprobar el proceso de evaluación y control de confianza y de conocimientos o competencias profesionales;
-
-V. Sustentar y acreditar el concurso de oposición, en los términos que señalen las disposiciones legales aplicables;
-
-VI. No estar sujeto a proceso penal;
-
-VII. No estar suspendido ni haber sido destituido o inhabilitado por resolución firme como servidor público, ni estar sujeto a procedimiento de responsabilidad administrativa federal o local;
-
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-VIII. Ser de notoria buena conducta y no haber sido condenado por sentencia irrevocable como responsable de un delito doloso;
-
-IX. No hacer uso ilícito de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares, ni padecer alcoholismo, y
-
-X. Los demás requisitos que establezcan otras disposiciones legales aplicables.
-
-B) Para permanecer:
-
-l. Aplicar los programas de profesionalización y de evaluación de competencias que establezcan las disposiciones legales aplicables;
-
-II. Aprobar los procesos de evaluación de control de confianza, del desempeño y de conocimientos o competencias profesionales, que establezca el Reglamento, así como mantener actualizada la certificación y el registro respectivos;
-
-III. Participar en los procesos de ascenso que se convoquen conforme a las disposiciones aplicables;
-
-IV. Conservar los requisitos relativos al ingreso que correspondan;
-
-V. Cumplir las órdenes de comisión, rotación y cambio de adscripción;
-
-VI. No incurrir en actos u omisiones que causen la pérdida de confianza o afecten la prestación del servicio, y
-
-VII. Los demás requisitos que establezcan otras disposiciones legales aplicables.
+Para el cómputo de los días trabajados, en su caso, se estará a lo dispuesto por el artículo 54 de esta Ley.
 
 ###### ARTICULO 65.
 
-Para ingresar y permanecer como Perito de carrera técnico o profesional, se requiere:
-
-A) Para ingresar:
-
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2012)</small>
-
-I. Ser ciudadano mexicano, en pleno goce de sus derechos;
-
-II. Acreditar, cuando menos, estudios correspondientes a educación media superior o equivalente;
-
-III. Tener título legalmente expedido y registrado por autoridad competente que lo faculte para ejercer la ciencia, la técnica, el arte o la disciplina de que se trate, o acreditar plenamente los conocimientos correspondientes a la disciplina sobre la que deba dictaminar, cuando no necesite título o cédula profesional para su ejercicio de acuerdo a las normas aplicables;
-
-IV. Tener acreditado, en su caso, el Servicio Militar Nacional;
-
-V. Aprobar el proceso de evaluación de control de confianza y de conocimientos o competencias profesionales;
-
-VI. Sustentar y acreditar el concurso de oposición, en los términos que señalen las disposiciones legales aplicables;
-
-VII. No estar sujeto a proceso penal;
-
-VIII. No estar suspendido ni haber sido destituido o inhabilitado por resolución firme como servidor público, ni estar sujeto a procedimiento de responsabilidad administrativa federal o local;
-
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-IX. Ser de notoria buena conducta y no haber sido condenado por sentencia irrevocable como responsable de un delito doloso;
-
-X. No hacer uso ilícito de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares, ni padecer alcoholismo, y
-
-XI. Los demás requisitos que establezcan otras disposiciones aplicables.
-
-B) Para permanecer:
-
-I. Aprobar los programas de profesionalización y de evaluación de conocimientos o competencias que establezcan las disposiciones legales aplicables;
-
-II. Aprobar los procesos de evaluación de control de confianza, del desempeño y de conocimientos o competencias profesionales, que establezca el reglamento respectivo y demás disposiciones aplicables;
-
-III. Participar en los procesos de ascenso que se convoquen conforme a las disposiciones aplicables;
-
-IV. Conservar los requisitos relativos al ingreso que correspondan;
-
-V. Mantener y actualizar la certificación y el registro respectivos;
-
-VI. Cumplir las órdenes de comisión, rotación y cambio de adscripción;
-
-VII. No incurrir en actos u omisiones que causen la pérdida de confianza o afecten la prestación del servicio;
-
-VIII. Cumplir las obligaciones que les impongan las leyes respectivas, y
-
-IX. Los demás requisitos que establezcan otras disposiciones legales aplicables.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+A los internos que por falta de ocupación laboral asistan regularmente a la escuela, les serán tomadas en cuenta esas actividades para el efecto de la remisión parcial de la pena.
 
 ###### ARTICULO 66.
 
-Para ingresar o permanecer como Agente de la Policía Investigadora, Policía Ministerial o Especializada de carrera, se requiere:
+La remisión de la pena se concederá sin perjuicio de cualquier otro beneficio de libertad concedido por esta Ley.
 
-A) Para el ingreso:
-
-I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
-
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-II. Ser de notoria buena conducta y no haber sido condenado por sentencia por delito doloso, ni estar sujeto a proceso penal o procedimiento de responsabilidad administrativa federal o local;
-
-III. Tener acreditado, en su caso, el Servicio Militar Nacional;
-
-IV. Acreditar que ha concluido al menos, estudios correspondientes a la educación superior, preferentemente Licenciatura en Derecho;
-
-V. Aprobar el curso de formación básica;
-
-VI. Contar con los requisitos de edad y el perfil físico, médico y de personalidad que exijan las disposiciones aplicables;
-
-VII. Aprobar los procedimientos de control de confianza y de conocimientos o competencias profesionales;
-
-VIII. Abstenerse de consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
-
-IX. No padecer alcoholismo;
-
-X. Cuando sea requerido, someterse a exámenes para comprobar la ausencia de alcoholismo o el no uso de sustancias psicotrópicas, estupefacientes y otras que produzcan efectos similares;
-
-XI. No estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público;
-
-XII. Cumplir con los deberes establecidos en esta ley, y demás disposiciones que deriven de ésta; y,
-
-XIII. Los demás que establezcan otras disposiciones legales aplicables;
-
-B) Para la permanencia:
-
-I. Conservar los requisitos procedentes referidos en el inciso A) de este artículo;
-
-II. Mantener actualizado su Certificado Único Policial;
-
-III. No superar la edad máxima de retiro que establezca el Reglamento respectivo; en cuyo caso, según las disposiciones del propio Reglamento, podría ser reubicado a consideración del Consejo en otras áreas del servicio de la propia institución.
-
-IV. Aprobar los cursos de formación, capacitación, profesionalización y evaluación de conocimientos o competencias;
-
-V. Aprobar los procedimientos de evaluación de control de confianza;
-
-VI. Aprobar las evaluaciones del desempeño;
-
-VII. Participar en los procesos de promoción o ascenso que se convoquen, de conformidad con las disposiciones legales aplicables;
-
-VIII. Abstenerse de consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
-
-IX. Someterse a exámenes para comprobar la ausencia de alcoholismo o el no uso de sustancias psicotrópicas, estupefacientes y otras que produzcan efectos similares;
-
-X. No estar suspendido o inhabilitado, ni haber sido destituido como servidor público por resolución firme;
-
-XI. No incurrir en actos u omisiones que causen la pérdida de confianza o afecten la prestación del servicio; y,
-
-XII. Los demás que establezcan otras disposiciones legales aplicables.
-
-### CAPITULO IV. DE LA TERMINACION DEL SERVICIO PROFESIONAL DE CARRERA
+### Capítulo II. De la Libertad Condicional
 
 ###### ARTICULO 67.
 
-Para el ingreso al servicio profesional de carrera se realizará concurso por oposición interna o convocatoria pública, en los términos de lo previsto en esta Ley, su Reglamento y las disposiciones reglamentarias aplicables del servicio profesional de carrera.
+La libertad condicional se otorgará a los sancionados con penas privativas de libertad, siempre y cuando el interno satisfaga los requisitos siguientes:
 
-> <small>(REFORMADO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+I.- No sea reincidente.
+
+II.- Haya cumplido las tres quintas partes de la pena corporal impuesta, si se tratara de delitos dolosos o preterintencionales o la mitad de la misma en el caso de delitos culposos.
+
+III.- Haya observado buena conducta durante su internamiento y participado regularmente en las actividades educativas.
+
+IV.- Que individualmente o formando parte de un grupo no haya alterado el orden del Centro de Readaptación para cualquier fin.
+
+V.- No revele peligrosidad social.
+
+VI.- Ofrezca y se dedique en el plazo que la resolución determine a un oficio, arte, industria, profesión o cualquier otro medio honesto de vivir.
+
+VII.- Se comprometa a residir en un lugar determinado, durante el período de libertad condicional, del cual no podrá ausentarse, sin el permiso de la Dirección General de Prevención y Readaptación Social.
+
+VIII.- Que alguna persona, con reconocida solvencia moral, honrada y de arraigo se obligue a supervisar y a cuidar que el liberado cumpla con las obligaciones que contraiga para obtener el beneficio.
+
+IX.- Que no haya incurrido en cualquiera de las conductas a que se refiere el artículo 54 de esta Ley.
 
 ###### ARTICULO 68.
 
-El Procurador o los servidores públicos de la Procuraduría a quienes se les haya delegado la función, adscribirán a los Agentes del Ministerio Público, de la Policía Investigadora, de la Policía Ministerial así como a los Peritos, en las diversas unidades y órganos de la misma, de conformidad con las disposiciones aplicables.
+Los individuos que disfruten de libertad condicional, quedarán sujetos a la vigilancia discreta de la Dirección General de Prevención y Readaptación Social, por el tiempo que les falte para cumplir su sanción, vigilancia que será ejercida por los medios convenientes, observando su conducta y actuación en todos los órdenes de la vida, y realizando cuantas gestiones fueren necesarias para la protección, mejoramiento y readaptación social del liberado.
 
 ###### ARTICULO 69.
 
-Los Agentes del Ministerio Público, de la Policía Investigadora, de la Policía Ministerial y los Peritos, tendrán los siguientes derechos:
+El Director General de Prevención y Readaptación Social, revocará la libertad condicional y el infractor extinguirá toda la parte de la pena que le falte por cumplir, cuando el liberado deje de cumplir alguna de las condiciones conforme a las cuales le fue concedida.
 
-I. Participar en los cursos de capacitación, actualización y especialización correspondientes, así como en aquellos señalados en el Programa Rector de Profesionalización que se acuerden con otras instituciones académicas, nacionales y del extranjero, que tengan relación con sus funciones, sin perder sus derechos y antigüedad, sujeto a las disposiciones presupuestales y a las necesidades del servicio;
-
-II. Sugerir las medidas que estimen pertinentes para mejorar sus respectivos servicios de carrera;
-
-III. Percibir prestaciones acordes con las características de sus funciones y niveles de responsabilidad y riesgo en el desempeño de las mismas, de conformidad con el presupuesto y las normas aplicables;
-
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-IV. Gozar de las prestaciones que establezcan la Ley del Trabajo de los Servidores Públicos del Estado y demás disposiciones aplicables, así como acceder a los servicios complementarios de seguridad social que se establezcan mediante disposiciones legales reglamentarias;
-
-V. Acceder a estímulos económicos y sociales, cuando su conducta y desempeño lo ameriten de acuerdo con las normas aplicables y las disponibilidades presupuestales;
-
-VI. Participar en los concursos de ascenso a que se convoque;
-
-VII. Gozar de un trato digno y decoroso por parte de sus superiores jerárquicos;
-
-VIII. Recibir el equipo de trabajo sin costo alguno;
-
-IX. Recibir oportuna atención médica sin costo alguno, cuando sean lesionados en cumplimiento de su deber;
-
-> <small>(REFORMADA, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-X. Gozar de los beneficios que establezcan las disposiciones aplicables una vez terminado de manera ordinaria el Servicio Profesional de Carrera;
-
-XI. Gozar de permisos y licencias sin goce de sueldo en términos de la legislación aplicable, y
-
-XII. Los demás que establezcan las disposiciones legales aplicables.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-### CAPITULO V. DE LAS SANCIONES
+### Capítulo III. Del Procedimiento para Otorgar los Beneficios
 
 ###### ARTICULO 70.
 
-Los Agentes del Ministerio Público así como de la Policía Investigadora, de la Policía Ministerial y, en lo conducente, los Peritos, tendrán las siguientes obligaciones:
+Los beneficios de remisión parcial de la pena y de libertad condicional serán concedidos por el Ejecutivo del Estado a través del Director General de Prevención y Readaptación Social.
 
-I. Conducirse siempre con apego al orden jurídico y respeto a los derechos humanos;
-
-II. Prestar auxilio a las personas que hayan sido víctimas de algún delito, así como brindar protección a sus bienes y derechos, cuando resulte procedente. Su actuación deberá ser congruente, oportuna y proporcional al hecho;
-
-III. Cumplir sus funciones con absoluta imparcialidad, sin discriminar a persona alguna por su raza, religión, sexo, condición económica o social, preferencia sexual, ideología política o por algún otro motivo;
-
-IV. Impedir, por los medios que tuvieren a su alcance y en el ámbito de sus atribuciones, que se infrinjan, toleren o permitan actos de tortura física o psicológica u otros tratos o sanciones crueles, inhumanos o degradantes. Los servidores públicos que tengan conocimiento de ello deberán denunciarlo inmediatamente ante la autoridad competente;
-
-V. Abstenerse de ejercer empleo, cargo, comisión o cualquiera de las actividades a que se refiere esta ley;
-
-VI. Observar un trato respetuoso con todas las personas debiendo abstenerse de todo acto arbitrario y de limitar indebidamente las acciones o manifestaciones que en ejercicio de sus derechos constitucionales y con carácter pacífico realice la población;
-
-VII. Desempeñar su función sin solicitar ni aceptar compensaciones, pagos o gratificaciones distintas a las previstas legalmente. En particular se opondrán a cualquier acto de corrupción;
-
-VIII. Ordenar o realizar la detención de persona alguna, en los casos de flagrancia o caso urgente, sin cumplir con los requisitos previstos en la Constitución Política de los Estados Unidos Mexicanos y en los ordenamientos legales aplicables;
-
-IX. Velar por la vida e integridad física y psicológica de las personas detenidas o puestas a su disposición;
-
-X. Participar en operativos de coordinación con otras instituciones de seguridad pública, así como brindarles el apoyo que conforme a derecho proceda;
-
-XI. Obedecer las órdenes de los superiores jerárquicos, siempre y cuando sean conforme a derecho, y cumplir con todas sus obligaciones legales;
-
-XII. Preservar el secreto de los asuntos que por razón del desempeño de su función conozcan;
-
-XIII. Abstenerse en el desempeño de sus funciones de auxiliarse por personas no autorizadas por las disposiciones aplicables;
-
-XIV. Usar el equipo a su cargo con el debido cuidado y prudencia en el cumplimiento de sus funciones, así como conservarlo;
-
-XV. Abstenerse de abandonar las funciones, comisión o servicio que tengan encomendado, sin causa justificada;
-
-XVI. Someterse a los procesos de evaluación para los que sean convocados; y
-
-XVII. Las demás que se establezcan en las disposiciones legales aplicables.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+Para este efecto, la Dirección General llevará un control de los expedientes de los internos a fin de precisar las fechas en que se deberá iniciar el procedimiento para resolver sobre la procedencia de los beneficios.
 
 ###### ARTICULO 71.
 
-Además de lo dispuesto en el artículo anterior, los Agentes de la Policía Investigadora y de la Policía Ministerial tendrán las siguientes obligaciones particulares:
+Al cumplirse la fecha a que se refiere el segundo párrafo del artículo anterior, se seguirá el procedimiento siguiente:
 
-l. Registrar en el Informe Policial Homologado los datos de las actividades, investigaciones o detenciones que realicen;
+I.- Con base en el expediente de cada interno, de oficio, se solicitará al Director del Centro de Readaptación donde se encuentre el interno, que en un plazo no mayor de diez días hábiles integre el expediente relativo a la tramitación de los beneficios de que se trate y lo remita a la Dirección General.
 
-II. Remitir a las instancias que corresponda la información recopilada en el cumplimiento de sus misiones o en el desempeño de sus actividades, para su análisis y registro;
+II.- Recibido el expediente en la Dirección General, ésta dictará la resolución que corresponda en un plazo no mayor de cinco días hábiles.
 
-III. Entregar la información que le sea solicitada por otras instituciones de seguridad pública, en términos de las leyes correspondientes;
-
-IV. Apoyar a las autoridades que así lo soliciten en la investigación y persecución de los delitos, de conformidad con lo dispuesto en la presente Ley y demás disposiciones legales aplicables;
-
-V. Ejecutar los mandamientos judiciales y ministeriales que le sean asignados, así como aquellos de los que tenga conocimiento con motivo de sus funciones y en el marco de sus facultades;
-
-VI. Obtener y mantener actualizado su Certificado Único Policial;
-
-VII. Responder sobre la ejecución de las órdenes directas que reciba, respetando la línea de mando;
-
-VIII. Cumplir con la medida disciplinaria de arresto que le sea impuesta en las instalaciones de la Procuraduría que se le indique, de conformidad con las normas aplicables;
-
-IX. Abstenerse de asistir uniformados, armados o en vehículos oficiales a bares, cantinas, centros de apuestas o juegos, prostíbulos y otros centros de este tipo, salvo que medie orden expresa para el desempeño de sus funciones o en caso de flagrancia en la comisión de delitos;
-
-X. Mantener en buen estado el armamento, material, municiones y equipo que se le asigne con motivo de sus funciones, haciendo uso racional de ellos sólo en el desempeño del servicio;
-
-XI. Conducirse con respeto y consideración en el desempeño de sus funciones; y,
-
-XII. Las demás que establezcan otras disposiciones legales aplicables.
-
-Para el caso de que en cumplimiento de sus funciones deban hacer uso de la fuerza, ésta será de manera racional y proporcional, con pleno respeto a los derechos humanos, manteniéndose dentro de los límites que se marquen en los procedimientos establecidos en los manuales respectivos, con el fin de preservar la vida y la integridad de las personas, así como mantener y restablecer el orden y la paz públicos, evitando en la medida de lo posible el uso excesivo de la fuerza.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+III.- Para el caso de que el Director General considere incompleto el expediente u oscuro en cualquier parte, ordenará la integración y aclaración del mismo en un plazo que no exceda de setenta y dos horas, ampliándose el término para resolver.
 
 ###### ARTICULO 72.
 
-Las causas de responsabilidad de los Agentes del Ministerio Público, de la Policía Investigadora, de la Policía Ministerial y, en lo conducente, de los Peritos, serán las siguientes:
-
-l. No cumplir, retrasar o perjudicar por negligencia la debida actuación del Ministerio Público;
-
-II. Realizar o encubrir conductas que atenten contra la autonomía del Ministerio Público, tales como aceptar o ejercer consignas, presiones, encargos, comisiones o cualquier otra acción que genere o implique subordinación indebida respecto de alguna persona o autoridad;
-
-III. Distraer de su objeto, para uso propio o ajeno, el equipo, elementos materiales o bienes asegurados bajo su custodia o de la Procuraduría;
-
-IV. No solicitar los dictámenes periciales correspondientes o abstenerse de realizarlos;
-
-V. No trabar el aseguramiento de bienes, objetos, instrumentos o productos de delito y no solicitar el decomiso cuando así proceda en los términos que establezcan las leyes penales;
-
-VI. Omitir la práctica de las diligencias necesarias en cada asunto;
-
-VII. Abstenerse en la averiguación previa de dictar o decretar los acuerdos o resoluciones que sean procedentes o hacerlo fuera de los términos legales, o dejar de realizar las acciones necesarias en los asuntos que sean de su conocimiento;
-
-VIII. Abstenerse de promover en la vía incidental ante la autoridad judicial el reconocimiento de la calidad de víctima u ofendido en términos de las disposiciones legales aplicables;
-
-IX. No registrar la detención conforme a las disposiciones legales aplicables o abstenerse de actualizar el registro correspondiente;
-
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
-
-X. Faltar a sus labores sin causa justificada por tres veces en un período de treinta días;
-
-XI. Incumplir cualquiera de las obligaciones a que se refiere la ley; y,
-
-XII. Las demás que establezcan otras disposiciones aplicables.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+Para concederse la libertad condicional, la Dirección General de Prevención y Readaptación Social, recabará la información necesaria sobre la solvencia e idoneidad del fiador propuesto y resolverá si es o no de admitirse.
 
 ###### ARTICULO 73.
 
-Las quejas que se presenten por presuntas irregularidades o por el incumplimiento de las obligaciones, así como los procedimientos administrativos que de éstas deriven, serán tramitadas por la Coordinación de Asuntos Internos.
+Toda resolución que se pronuncie contendrá las observaciones y antecedentes relacionados con la conducta del recluso durante su internamiento, su estado de salud y cuantos más datos demuestren que el sujeto se encuentra en condiciones de ser reintegrado a la vida social y que ha desaparecido su peligrosidad.
+
+Así mismo, serán notificadas al Director del Centro de Readaptación y al interno.
 
 ###### ARTICULO 74.
 
-El Consejo será el órgano responsable de instrumentar el Servicio Profesional de Carrera y se integrará por:
-
-I. El Procurador, quien lo presidirá y podrá ser suplido por el Primer Subprocurador;
-
-II. Un Subprocurador designado por el Procurador;
-
-III. El Director del Instituto de Capacitación Técnica y Profesional;
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
-
-IV. El Director General del Servicio Profesional de Carrera, quien fungirá como Secretario Técnico del Consejo;
-
-V. Dos académicos o especialistas de reconocido prestigio y buena reputación, propuestos por el Consejo de Consulta y Participación de la Comunidad; y,
-
-VI. Los demás funcionarios que determinen el Reglamento o los acuerdos del Procurador.
+Los Directores de los Centros, recibidas las resoluciones en que se otorguen los beneficios, deberán cumplirlas en un plazo no mayor de veinticuatro horas.
 
 ###### ARTICULO 75.
 
-El Consejo tendrá las siguientes atribuciones:
+Las resoluciones que se dicten durante el trámite para la concesión de los beneficios de remisión parcial de la pena y de libertad condicional, incluso la que en su caso, los niegue, serán inimpugnables.
 
-I. Aprobar las normas, políticas y criterios generales para los Procedimientos del servicio, a propuesta del Director;
-
-II. Supervisar permanentemente y realizar una evaluación integral anual de la naturaleza y desarrollo del servicio, así como dar a conocer a la sociedad los diagnósticos y propuestas de mejora que resulten de estos procesos;
-
-III. Aprobar las convocatorias para el ingreso o el ascenso de los miembros, así como los resultados respectivos;
-
-IV. Opinar sobre la adscripción inicial y los cambios de adscripción de los miembros;
-
-V. Otorgar reconocimientos, estímulos y recompensas al desempeño, en términos de lo establecido en el Reglamento;
-
-VI. Dictar las normas para regular su organización y funcionamiento;
-
-VII. Aprobar el Programa Rector de Profesionalización propuesto por la Dirección General del Servicio Profesional de Carrera;
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
-
-VIII. Establecer, en su caso, órganos y comisiones que le auxilien en el desempeño de sus funciones;
-
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
-
-IX.- Conocer del recurso de revisión interpuesto contra las resoluciones que dicte la Coordinación de Asuntos Internos, contemplado en el artículo 86 de la presente Ley; y
-
-X. Las demás que le otorguen otras disposiciones legales aplicables.
-
-## TITULO OCTAVO. DE LA PARTICIPACION CIUDADANA
-
-### CAPITULO UNICO
-
-###### ARTICULO 110.
-
-El Consejo de Participación Ciudadana de la Procuraduría es un órgano consultivo que tiene como finalidad analizar, proponer, evaluar y dar seguimiento a los acuerdos, programas, estrategias, acciones y políticas en general de la Procuraduría, contribuyendo con ello a la prevención del delito y la reducción de los índices delictivos, contando con la intervención de diversos grupos sociales, así como de organismos públicos y privados, y promoviendo de esta manera el apoyo, la difusión y la confianza de la ciudadanía en las actividades de procuración de justicia. Este órgano colegiado tendrá las siguientes atribuciones:
-
-l. Conocer y opinar sobre políticas de seguridad pública y procuración de justicia;
-
-II. Sugerir medidas específicas y acciones concretas para mejorar esta función;
-
-III. Realizar labores de seguimiento y control de las políticas, acciones y lineamientos adoptados por la Procuraduría;
-
-IV. Proponer reconocimientos por méritos o estímulos para los miembros de la Procuraduría;
-
-V. Realizar denuncias o quejas sobre irregularidades cometidas por los servidores públicos en su desempeño; y,
-
-VI. Auxiliar a las autoridades competentes en el ejercicio de sus tareas y participar en las actividades que no sean confidenciales o pongan en riesgo el buen desempeño de la Procuraduría.
-
-> <small>(REFORMADO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-###### ARTICULO 111.
-
-El Consejo de Participación Ciudadana tendrá competencia para convocar y organizar las acciones de la sociedad civil, a través de sus grupos organizados para aumentar la capacidad institucional y apoyar en sus actividades, así como formular propuestas y proponer acciones para impulsar el respeto a los derechos humanos por los servidores públicos de la Procuraduría. Este órgano colegiado gestionará que las Delegaciones de la Procuraduría cuenten con una entidad de consulta y participación de la comunidad para alcanzar los propósitos anteriores.
-
-###### ARTICULO 112.
-
-El Consejo de Participación Ciudadana estará integrado cuando menos, por:
-
-I. El Procurador General de Justicia del Estado;
-
-II. Un Representante del Congreso del Estado;
-
-III. Un Representante de la Comisión Estatal de Derechos Humanos;
-
-IV. Un Representante de los Ayuntamientos del Estado;
-
-V. Un Representante del Colegio de Notarios Públicos del Estado;
-
-VI. Un Representante del Colegio de Abogados de la Capital del Estado;
-
-VII. Un Representante de la Universidad Autónoma de Tamaulipas; y,
-
-VIII. Los representantes de los sectores social y privado que determine convocar el Procurador.
-
-###### ARTICULO 113.
-
-El Consejo sesionará por lo menos una vez al mes o antes cuando alguno de sus integrantes solicite al Procurador se convoque para ello, señalando la causa que lo justifique. Las sesiones se realizarán con la presencia de la mitad más uno de sus integrantes, bajo el orden del día previamente acordado. Los miembros presentes firmarán el acta que se levante con motivo de la sesión correspondiente.
-
-> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE JUNIO DE 2013)</small>
+## TITULO OCTAVO. DEL CASILLERO JUDICIAL
 
 ###### ARTICULO 76.
 
-La terminación del Servicio Profesional de Carrera Policial y Pericial será:
-
-A) Ordinaria, que comprenderá:
-
-I. La renuncia;
-
-II. La incapacidad permanente para el desempeño de las funciones;
-
-III. La jubilación o retiro, y,
-
-IV. La muerte.
-
-B) Extraordinaria, que comprenderá:
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-I. La separación del servicio por incumplimiento de los requisitos de permanencia; además, en el caso de los Agentes de la Policía Investigadora y de la Policía Ministerial, cuando en los procesos de promoción concurra cualquiera de las siguientes circunstancias:
-
-a) Si hubiere sido convocado a tres procesos consecutivos de promoción sin que haya participado en los mismos;
-
-b) Que haya alcanzado la edad máxima correspondiente a su jerarquía, de acuerdo con lo establecido en las disposiciones aplicables, y
-
-c) Que del expediente del integrante no se desprendan méritos suficientes a juicio del Consejo para conservar la permanencia, conforme a lo previsto en el Reglamento del Servicio Profesional de Carrera.
-
-II. La remoción por incurrir en responsabilidad en el desempeño de las funciones o incumplimiento de sus facultades y obligaciones.
+En el Casillero Judicial del Estado, se llevará el registro y control de los antecedentes penales.
 
 ###### ARTICULO 77.
 
-La terminación y separación del servicio profesional de carrera por incumplimiento de los requisitos de permanencia se instaurará de oficio por queja fundada de los titulares de las unidades administrativas donde este adscrito el servidor público infractor.
+Para los efectos de la Ley, se consideran antecedentes penales, los datos registrales circunscritos a las sanciones que en sentencia definitiva imponga la autoridad judicial a las personas físicas, como consecuencia de los delitos que hayan cometido.
 
 ###### ARTICULO 78.
 
-El procedimiento referido en el artículo anterior será sustanciado por la Coordinación de Asuntos Internos, cuya integración, operación y funcionamiento se definirán en el Reglamento.
+Sólo a las autoridades que lo soliciten en el ejercicio de sus atribuciones, se proporcionarán los datos contenidos en el Casillero Judicial.
+
+Se prohibe proporcionar esta información a particulares, con excepción de quienes soliciten datos sobre su persona.
 
 ###### ARTICULO 79.
 
-Las sanciones a los Agentes del Ministerio Público y de la Policía Estatal Investigadora, así como a los peritos, por incurrir en las causas de responsabilidad a que se refiere esta ley, serán las siguientes:
+Procederá la cancelación de un registro del Casillero Judicial, cuando:
 
-I. Amonestación;
+I.- Se dicte sentencia absolutoria definitiva.
 
-II. Suspensión, y,
+> <small>(REFORMADA, G.O. 17 DE AGOSTO DE 2005)</small>
 
-III. Remoción.
+II. A partir de la fecha en que se dé cumplimiento a la sentencia, transcurra un término de 10 años, cuando el delito sea considerado como grave por el Código Penal del Estado y no se haya cometido otro delito durante el periodo. Y si el delito es considerado como no grave y la persona sea delincuente primario, a partir de la fecha en que se dé cumplimiento a la sentencia.
 
-## TITULO NOVENO. DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO Y ORAL
+Para la cancelación del registro, se requerirá solicitud del interesado en la que acredite su procedencia.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE JUNIO DE 2013)</small>
-
-### CAPITULO I. DE LA ESTRUCTURA
-
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
-
-###### ARTICULO 114.
-
-Para la adecuada operación del Sistema Penal Acusatorio y Oral la Procuraduría contará con la siguiente estructura:
-
-A) Con funciones de Agente del Ministerio Público:
-
-I. Director General de Operación del Procedimiento Penal Acusatorio y Oral;
-
-II. Coordinadores Regionales del Sistema Penal Acusatorio y Oral;
-
-III. Agentes del Ministerio Público de Procedimiento Penal Acusatorio y Oral;
-
-IV. Agentes del Ministerio Público Supervisores;
-
-V. Agentes del Ministerio Público Orientadores; y
-
-VI. Los demás servidores públicos que se señalen en esta ley y su reglamento.
-
-B) Como auxiliares del Ministerio Público en el Sistema Penal Acusatorio y Oral:
-
-I. Comisario y agentes de la Policía Estatal Investigadora;
-
-II. Director de Servicios Periciales;
-
-III. Peritos;
-
-IV. Auxiliares Profesionales;
-
-V. Las instituciones de seguridad pública; y
-
-VI. Los demás servidores públicos que se señalen en esta ley y su reglamento.
-
-C) Con funciones administrativas en el Sistema Penal Acusatorio y Oral:
-
-I. Director del Sistema Estatal de Justicia Alternativa Penal;
-
-II. Coordinador de Planeación y Seguimiento; y
-
-III. Los demás servidores públicos que se requieran conforme a las necesidades del servicio y aquellas que determine el reglamento.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE JUNIO DE 2013)</small>
-
-### CAPITULO II. DE LAS FACULTADES Y OBLIGACIONES
-
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
-
-###### ARTICULO 115.
-
-El Director General de Operación del Procedimiento Penal Acusatorio y Oral tendrá las siguientes atribuciones:
-
-I. Acordar con el Procurador General de Justicia el despacho de los asuntos de su competencia y de las unidades a su cargo;
-
-II. Desempeñar las funciones y comisiones que el Procurador le encomiende, informando sobre el desarrollo de las mismas;
-
-III. Planear, coordinar, asesorar y evaluar las actividades de las unidades a su cargo, de conformidad con los lineamientos que determine para este caso, el Procurador y las demás disposiciones normativas aplicables;
-
-IV. Someter a consideración del Procurador la organización interna de las unidades administrativas de su adscripción, así como los procedimientos administrativos y las normas de coordinación y operación;
-
-V. Transmitir a los servidores públicos a su cargo las instrucciones generales y especiales para el cumplimiento de sus atribuciones, para lograr la unidad de acción del Ministerio Público, vigilando su debido cumplimiento;
-
-VI. Rendir informe de las actividades desarrolladas en la Dirección General a su cargo, cuando le sea requerido por el Procurador;
-
-VII. Opinar y dictaminar sobre los asuntos que se reciban para su revisión y consulta;
-
-VIII. Realizar visitas periódicas a las unidades de su adscripción para observar su funcionamiento, e informando de ello al Procurador;
-
-IX. Proponer al titular del Instituto de Capacitación y Formación Profesional, la capacitación, actualización y especialización que se requiera para los Agentes del Ministerio Público y demás servidores públicos bajo su cargo;
-
-X. Atender en audiencia al ciudadano que lo solicite, personalmente o por conducto de los servidores públicos a su cargo;
-
-XI. Supervisar que los Coordinadores Regionales realicen las acciones necesarias para cumplir de manera eficaz con los objetivos, políticas y programas establecidos por el Procurador, para la investigación de los delitos y judicialización de los mismos, se realice conforme a los ordenamientos jurídicos;
-
-XII. Supervisar que la Dirección Estatal del Sistema de Justicia Alternativa Penal y los Departamentos de Orientación y Denuncia realicen las acciones necesarias para cumplir de manera eficaz con los objetivos, políticas y programas establecidos por el Procurador, para la aplicación de los criterios de oportunidad y de los mecanismos alternos de solución de conflictos;
-
-XIII. Dictar las medidas que estime adecuadas para el seguimiento a las recomendaciones elaboradas por los Agentes del Ministerio Público Supervisores, para el mejoramiento y avance de los asuntos que conozcan las Unidades de Investigación;
-
-XIV. Solicitar a las instituciones de seguridad pública, a petición del Agente del Ministerio Público, la atención y protección de las víctimas, ofendidos, testigos y cualquier persona que se encuentre en situación de riesgo o peligro como consecuencia de su intervención en una investigación o en un proceso judicial;
-
-XV. Supervisar, por sí o por medio de los coordinadores regionales, que la aplicación de los criterios de oportunidad, la resolución de no ejercicio de la acción penal, de archivo temporal y de la facultad de abstenerse de investigar, así como la solicitud de procedimiento abreviado, se hayan realizado y ejercido conforme lo previsto por las disposiciones normativas aplicables;
-
-XVI. Designar al Agente del Ministerio Público que considere apto para la supervisión y seguimiento en forma especial de los procedimientos penales que así lo ameriten;
-
-XVII. Informar al Procurador en forma inmediata sobre el desarrollo y sobre el resultado de los asuntos que sean de carácter relevante relacionados con el Sistema Penal Acusatorio;
-
-XVIII. Establecer la coordinación necesaria con el Comisario de la Policía Estatal Investigadora para impulsar los asuntos de su competencia;
-
-XIX. Supervisar las acciones de la Coordinación de Planeación y Seguimiento, tanto en materia de desarrollo institucional, como en lo concerniente al proceso de transición al nuevo Sistema de Justicia Penal;
-
-XX. Solicitar información, datos o cooperación técnica a otras áreas de la Procuraduría, conforme a las políticas y normas que establezca el Procurador; y
-
-XXI. Las demás que le encomiende el Procurador y aquellas que le confieran las disposiciones normativas aplicables.
-
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
-
-###### ARTICULO 116.
-
-Las Coordinaciones Regionales del Sistema Penal Acusatorio y Oral tendrán a su cargo las Unidades de Investigación en la respectiva circunscripción territorial, así como a las demás unidades administrativas que correspondan.
-
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
-
-###### ARTICULO 117.
-
-El Coordinador Regional del Sistema Penal Acusatorio y Oral será el superior inmediato de los Agentes del Ministerio Público del Sistema Penal Acusatorio y Oral en la región correspondiente; tendrá, además de las atribuciones que esta ley y otros ordenamientos confieren al Ministerio Público, las siguientes atribuciones:
-
-I. Organizar, dirigir, asesorar, controlar y evaluar el desarrollo de las acciones encomendadas a los servidores públicos de las Unidades de Investigación adscritas a la región correspondiente;
-
-II. Supervisar que las actuaciones ministeriales cumplan con los requisitos y procedimientos establecidos en los diversos ordenamientos jurídicos;
-
-III. Establecer, con acuerdo de la superioridad, los turnos, funciones y comisiones de los Agentes del Ministerio Público, auxiliares del Ministerio Público y Agentes de la Policía Investigadora adscritos a la Coordinación Regional, en el marco de la investigación y persecución de los delitos;
-
-IV. Realizar de manera periódica o cuando sea necesario, reuniones de trabajo con los Agentes del Ministerio Público, auxiliares del Ministerio Público y Agentes de la Policía Investigadora adscritos a la Coordinación Regional;
-
-V. Informar a la superioridad, cuando así se le requiera, de las gestiones que realice tanto de los asuntos jurídicos como administrativos;
-
-VI. Desempeñar las funciones propias de su competencia y las comisiones que la superioridad le encomiende e informar sobre el desarrollo de las mismas;
-
-VII. Preparar y someter a consideración de la superioridad, los proyectos de manuales de procedimientos normativos y de operación, correspondientes a la Coordinación Regional;
-
-VIII. Establecer comunicación y enlace con otras Coordinaciones Regionales, cuando el caso lo requiera para el buen funcionamiento de la Procuraduría;
-
-IX. Proponer y justificar a la superioridad, la reorganización, fusión o desaparición de las unidades de investigación adscritas a la Coordinación Regional, así como las acciones para la modernización y simplificación de procedimientos administrativos;
-
-X. Proporcionar la información, datos o cooperación técnica que le sea requerida por otra área de la Procuraduría, de acuerdo a las políticas y normas que establezca el Procurador;
-
-XI. Obtener información correspondiente al resultado del ejercicio de la acción penal y de los procesos que se instruyan, para adoptar medidas y acciones tendientes al abatimiento de la impunidad;
-
-XII. Informar al Director General de Operación del Procedimiento Penal Acusatorio y Oral de las peticiones de los Agentes del Ministerio Público sobre la atención y protección a las víctimas, ofendidos, testigos y a cualquier persona que se encuentren en situación de riesgo o peligro, como consecuencia de su intervención en una investigación o en un proceso penal;
-
-XIII. Rendir mensualmente, o cuando le sea solicitado por la superioridad, un informe de las actividades desarrolladas dentro de su Coordinación;
-
-XIV. Informar de manera inmediata a la superioridad, sobre el desarrollo, avance y resultados de los asuntos que sean de carácter relevante y que sean inherentes a su Coordinación;
-
-XV. Formular observaciones y recomendaciones que considere pertinentes al Agente del Ministerio Público respecto de las investigaciones para su debida integración;
-
-XVI. Rendir los informes de autoridad que le sean solicitados conforme a derecho;
-
-XVII. Verificar que las acciones de los Agentes del Ministerio Público, con motivo de la investigación de los delitos, ejercicio de la acción penal, comparecencia ante los jueces y tribunales competentes, se apeguen a los ordenamientos legales vigentes;
-
-XVIII. Vigilar que la aplicación de los criterios de oportunidad, la resolución de no ejercicio de la acción penal, de archivo temporal y de la facultad de abstenerse de investigar, así como la solicitud de procedimiento abreviado, se hayan realizado y ejercido conforme lo previsto por las disposiciones normativas aplicables;
-
-XIX. Asistir e intervenir en las audiencias que con motivo del proceso se celebren de acuerdo a sus atribuciones; y,
-
-XX. Las demás que le encomiende el Procurador, los Subprocuradores o el Director General de Operación del Procedimiento Penal Acusatorio y Oral aquellas que le confieran las disposiciones normativas aplicables.
-
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
-
-###### ARTICULO 118.
-
-Los Agentes del Ministerio Público Supervisores dependerán del Director General de Operación del Procedimiento Penal Acusatorio y Oral, además de las facultades y obligaciones que esta ley y otros ordenamientos confieren al Ministerio Público, tendrá las siguientes atribuciones:
-
-I. Practicar auditorías jurídicas en Unidades de Investigación o de Juicio cuando así se requiera;
-
-II. Rendir informes al Coordinador Regional y al Director General de Operación del Procedimiento Penal Acusatorio y Oral, sobre el resultado de las tareas que le fueron encomendadas y las recomendaciones que haya emitido al efecto;
-
-III. Revisar la conducción de la investigación de los hechos que le fueron encomendados a las Unidades de Investigación, generando los dictámenes y recomendaciones pertinentes;
-
-IV. Vigilar que los Agentes del Ministerio Público titulares de las Unidades de Investigación, cumplan oportunamente con la ejecución de las recomendaciones emitidas;
-
-V. Evaluar, por instrucciones del Director General de Operación del Procedimiento Penal Acusatorio y Oral, el funcionamiento de las diferentes áreas y unidades administrativas que componen las Coordinaciones Regionales, y elaborar las recomendaciones conducentes;
-
-VI. Mantener un registro y control detallado de las observaciones detectadas en las revisiones que se realicen, así como de aquellas que hubieren sido solventadas a efecto de generar los informes periódicos que requiera la superioridad;
-
-VII. Rendir los informes de autoridad que le sean requeridos conforme a derecho; y,
-
-VIII. Las demás que le encomiende el Procurador, los Subprocuradores y el Director General de Procedimiento Penal Acusatorio y aquellas que le confieran las disposiciones normativas aplicables.
-
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
-
-###### ARTICULO 119.
-
-Las Unidades de Investigación estarán conformadas y encabezadas por Agentes del Ministerio Público, quienes tendrán bajo su mando a los auxiliares del Ministerio Público, a los agentes de la Policía Investigadora asignados y a los demás Servidores Públicos que se requieran conforme a las necesidades del servicio.
-
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
-
-###### ARTICULO 120.
-
-Son facultades y obligaciones del Ministerio Público de Procedimiento Penal Acusatorio y Oral, Titular de la Unidad de Investigación, además de las facultades y obligaciones que esta ley y otros ordenamientos confieren al Ministerio Público, las siguientes:
-
-I. Dirigir la investigación de los hechos presuntamente constitutivos del delito;
-
-II.- Recabar los antecedentes y elementos de convicción tendientes al esclarecimiento de los hechos materia de la denuncia o querella;
-
-III.- Citar u ordenar la presentación de cualquier persona, siempre que ello sea procedente para el ejercicio de sus funciones;
-
-IV.- Recabar de las autoridades los informes, documentos u opiniones necesarias para la integración de la investigación;
-
-V.- Ejercer la acción penal en la forma establecida por la ley;
-
-VI.- Promover la solución de los conflictos surgidos como consecuencia de los delitos a través de los medios alternos de solución de conflictos entre la víctima u ofendido y el imputado, en los casos autorizados por las leyes;
-
-VII.- Aplicar los criterios de oportunidad en los supuestos previstos por las leyes;
-
-VIII. Solicitar la suspensión del proceso a prueba y la apertura del procedimiento abreviado, en los supuestos previstos por las leyes;
-
-IX. Promover las acciones penales y administrativas, e interponer los recursos correspondientes conforme a lo establecido en las disposiciones normativas aplicables;
-
-X. Solicitar la reparación del daño a favor de la víctima u ofendido;
-
-XI. Vigilar y asegurar que durante la investigación y el proceso se respeten los derechos humanos del imputado, de la víctima u ofendido del delito y de los testigos;
-
-XII. Adoptar las medidas necesarias para la protección, atención y auxilio de las víctimas, ofendidos y testigos; e implementar medidas de protección hacia sus propios funcionarios cuando el caso lo requiera;
-
-XIII. Solicitar al Órgano Jurisdiccional medidas cautelares y providencias precautorias en los términos previstos por la ley;
-
-XIV. Dirigir a la Policía Investigadora y al resto de las instituciones policiales del Estado cuando éstos actúen como auxiliares en la investigación y persecución de delitos, vigilando que los mismos realicen sus actuaciones con pleno respeto a los derechos humanos y conforme a los principios de legalidad y objetividad;
-
-XV. Decretar el no ejercicio de la acción penal o el archivo temporal de la investigación cuando así proceda;
-
-XVI. Solicitar el sobreseimiento del proceso en los supuestos previstos por las disposiciones normativas aplicables;
-
-XVII. Formular la acusación en los términos del Código de Procedimientos Penales del Estado de Tamaulipas;
-
-XVIII. Asistir a las audiencias que con motivo de los recursos interpuestos sean convocadas por el tribunal competente;
-
-XIX. Rendir mensualmente, o cuando le sea solicitado por el Coordinador Regional, un informe de las actividades desarrolladas dentro de la Unidad de Investigación;
-
-XX. Informar de manera inmediata al Coordinador Regional, sobre el desarrollo, avance y resultados de los asuntos que sean de carácter relevante y que sean de su competencia;
-
-XXI. Asistir y conducirse con diligencia en las actuaciones en que tenga que intervenir de acuerdo a sus atribuciones;
-
-XXII. Coadyuvar con el Ministerio Público de la Federación y con el de las demás entidades federativas en los términos de las leyes y los convenios de colaboración respectivos; y
-
-XXIII. Las demás que le encomiende el Procurador, los Subprocuradores, el Director General de Procedimiento Penal Acusatorio y Oral y el Coordinador Regional y aquellas que le confieran otras disposiciones normativas aplicables.
-
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
-
-###### ARTICULO 121.
-
-Los Auxiliares Profesionales del Ministerio Público en el Nuevo Sistema de Justicia Penal Acusatorio y Oral, tendrán las siguientes facultades y obligaciones:
-
-I. Apoyar en la recepción de denuncias o querellas de hechos presuntamente constitutivos de delitos;
-
-II. Registrar en el sistema de cómputo los informes de los miembros de las instituciones policiales y demás información que se reciba, así como los objetos puestos a disposición del Agente del Ministerio Público, debiendo llevar un control y seguimiento de los mismos, e informar de ello al Agente del Ministerio Público;
-
-III. Registrar las actividades realizadas en el área de su competencia;
-
-IV. Elaborar los informes que le solicite el Agente del Ministerio Público;
-
-V. Recibir el escrito que se presente, asentando al calce la razón del día y la hora de la recepción, de las fojas que contenga y de los documentos que se acompañan; así mismo, deberán anotar razón idéntica en la copia que se exhiba, la que sellada y firmada se devolverá al interesado;
-
-VI. Dar cuenta al Agente del Ministerio Público, bajo su más estricta responsabilidad, de los escritos y promociones que se presenten, así como de los oficios y documentos que reciba;
-
-VII. Resguardar las carpetas de investigación que tengan bajo su cuidado y cuidar que se encuentren en buen estado;
-
-VIII. Auxiliar al Ministerio Público en la elaboración de informes y estadística que deba rendirse;
-
-IX. Llevar el control de los oficios recibidos en la Agencia del Ministerio Público, relativos al juicio de amparo, vigilando que el informe solicitado se rinda dentro del término legal;
-
-X. Auxiliar al Agente del Ministerio Público en la organización, funcionamiento y desarrollo de la unidad de investigación; y,
-
-XI. Las demás que les asigne el Agente del Ministerio Público y aquellas que les confieran las disposiciones normativas aplicables.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE JUNIO DE 2013)</small>
-
-### CAPITULO III. DE LA DIRECCION ESTATAL DEL SISTEMA DE JUSTICIA ALTERNATIVA PENAL
-
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
-
-###### ARTICULO 122.
-
-La Dirección estará a cargo de un servidor público que será designado por el Procurador General de Justicia del Estado.
-
-El Director se auxiliará para el ejercicio de sus funciones en los jefes de departamento titulares de los Centros de Justicia Alternativa Penal, personal jurídico adscrito a la Dirección, personal especializado y auxiliar.
-
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
-
-###### ARTICULO 123.
-
-Para ser director se requiere:
-
-I. Estar en pleno goce y ejercicio de sus derechos civiles y políticos;
-
-II. Poseer título profesional de licenciado en derecho o su equivalente y cédula profesional con antigüedad mínima de cinco años;
-
-III. Ser mayor de treinta años de edad;
-
-IV. Acreditar mediante certificación que cuenta con capacitación, aptitudes, conocimientos y habilidades para desempeñar la función en el manejo de los mecanismos alternativos de solución de conflictos o controversias, con calidad y eficiencia; y
-
-V. No haber sido condenado por delito doloso.
-
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
-
-###### ARTICULO 124.
-
-El Director tendrá las siguientes facultades:
-
-I. Representar, dirigir y vigilar las funciones de la dirección, conforme a las disposiciones de esta ley y su reglamento;
-
-II. Proponer al Procurador el personal especializado que se designará para integrar los Centros de Justicia Alternativa;
-
-III. Coordinar las actividades del personal de la Dirección;
-
-IV. Implementar los programas de capacitación y actualización para el personal de la Dirección;
-
-V. Calificar la procedencia de las causas de excusa o recusación que se planteen, ya sea antes del inicio del procedimiento o durante el mismo y, de proceder, designar al personal sustituto;
-
-VI. Fungir como especialista cuando las necesidades del servicio lo requieran;
-
-VII. Proponer a los superiores jerárquicos la celebración de convenios de coordinación y colaboración interinstitucional;
-
-VIII.-Llevar la conducción técnica y administrativa de la Dirección;
-
-IX. Divulgar las funciones del Centro, y los beneficios sociales de los servicios de justicia alternativa y sus organismos;
-
-X. Presentar los informes necesarios al Procurador;
-
-XI. Realizar visitas de inspección y supervisión a los Departamentos de Orientación y Denuncia;
-
-XII. Establecer un registro de los casos penales sometidos a los mecanismos alternativos;
-
-XIII. Elaborar la estadística de los acuerdos o convenios celebrados y de otros datos importantes;
-
-XIV. Proponer al superior la creación de manuales de operación para el funcionamiento adecuado de la Dirección, así como las posibles reformas que resulten necesarias; y
-
-XV. Las demás que disponga esta ley y su reglamento.
-
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
-
-###### ARTICULO 125.
-
-Para ser jefe de departamento titular del Centro de Justicia Alternativa Penal, se deben de cumplir los mismos requisitos que se exigen para ser Director.
-
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
-
-###### ARTICULO 126.
-
-Los jefes de departamento titulares de los Centros de Justicia Alternativa Penal tendrán las siguientes facultades:
-
-I. Turnar los asuntos que le sean planteados al personal especializado que corresponda, tratándose de dichos Centros;
-
-II. Cuidar el buen funcionamiento de la Jefatura de Departamento a su cargo;
-
-III. Rendir al Director, Informe General en los tiempos que se determine;
-
-IV. Realizar visitas de inspección y supervisión a los Departamentos de Atención Integral y Especialistas;
-
-V. Recopilar experiencias del Centro para la realización de estudios y análisis de carácter prospectivo sobre las actividades que éste realiza;
-
-VI. Proporcionar al Centro datos para el control de registro de especialistas, así como mantenerlo actualizado;
-
-VII. Acordar con el Director el despacho de los asuntos de las áreas administrativas adscritas a su cargo;
-
-VIII. Ejecutar los procedimientos para la obtención de los resultados establecidos en los programas de acción;
-
-IX. Desarrollar planes y métodos operativos que promuevan la eficiencia de las funciones que ejecutan; y
-
-X. Las demás que esta ley y el reglamento le confiera.
-
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
-
-###### ARTICULO 127.
-
-La Dirección tendrá su sede en la capital del Estado y competencia en el territorio del mismo, por sí o por conducto de las jefaturas de departamento titulares de los Centros de Justicia Alternativa Penal que se establezcan, de acuerdo a las necesidades de la población y la disponibilidad presupuestal.
-
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
-
-###### ARTICULO 128.
-
-Para el adecuado ejercicio de sus funciones, los Especialistas de la Dirección y los jefes de departamento titulares de los Centros de Justicia Alternativa Penal que presten los servicios de medios alternativos de solución de conflictos, deberán contar con la acreditación expedida por la Dirección de Centros de Mediación dependiente de la Secretaría del Trabajo y Asuntos Jurídicos del Gobierno del Estado de Tamaulipas, en los términos de la Ley de Mediación del Estado.
-
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
-
-###### ARTICULO 129.
-
-Son obligaciones de los especialistas, las siguientes:
-
-I. Desarrollar el método alternativo elegido en los términos que se establezcan en el convenio o cláusula compromisoria suscrita por los participantes. Los especialistas, atendiendo a la naturaleza del caso, aplicarán el método adecuado para solucionarlo;
-
-II. Conservar la confidencialidad, en concepto de secreto profesional, de los asuntos de los cuales tengan conocimiento con motivo y en ejercicio de su función;
-
-III. Vigilar que en los trámites de los mecanismos alternativos en los que intervengan, no se afecten derechos de terceros, intereses de menores, colectivos, o difusos, cuestiones de orden público o se trate de personas que no tengan la capacidad de comprender el significado del hecho;
-
-IV. Cerciorarse del correcto entendimiento y comprensión que los participantes tengan del desarrollo del método alternativo elegido, desde su inicio hasta su conclusión, así como de sus alcances;
-
-V. Exhortar y motivar a los participantes a cooperar en la solución del conflicto;
-
-VI. Declarar la improcedencia del método alternativo elegido en los casos en que así corresponda haciendo saber a las partes los motivos de la misma;
-
-VII. Actualizarse permanentemente en la materia;
-
-VIII. Acudir a las revisiones y evaluaciones de la Dirección;
-
-IX. Proporcionar los informes estadísticos o relacionados con su actividad que le requiera la Dirección; y
-
-X. Las demás que esta ley y el reglamento les confiera.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE JUNIO DE 2013)</small>
-
-### CAPITULO IV. DEL DEPARTAMENTO DE ORIENTACION Y DENUNCIA
-
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
-
-###### ARTICULO 130.
-
-La Procuraduría contará con Departamentos de Orientación y Denuncia que estarán a cargo de un Agente del Ministerio Público Orientador, quien además de las facultades y obligaciones que esta ley y otros ordenamientos confieren al Ministerio Público, tendrá las siguientes:
-
-I. Orientar a los usuarios que solicitan los servicios de la Procuraduría;
-
-II. Informar a los ciudadanos la procedencia y beneficios de los medios alternativos de justicia penal, de conformidad con las disposiciones normativas aplicables, así como lo relativo al procedimiento penal aplicable;
-
-III. Dictaminar, registrar y turnar a los ciudadanos al área competente, en aquellos asuntos en que acepten iniciar la tramitación de los medios alternativos de justicia penal;
-
-IV. Remitir al ciudadano a la instancia que esté facultada para resolver la problemática planteada;
-
-V. Recibir y registrar las denuncias o querellas de los ciudadanos, y una vez agotado todo el flujo de justicia alternativa remitir, según corresponda, a la Unidad de Investigación o Agencia del Ministerio Público, que les deberá dar seguimiento;
-
-VI. Recibir, en su caso, los objetos que le son turnados y cumplir con la cadena de custodia, remitiéndolos en un término no mayor de veinticuatro horas a la Unidad de Investigación, Agencia del Ministerio Público o a la Dirección de Servicios Periciales, según corresponda;
-
-VII. Dictar las determinaciones de archivo temporal, de abstenerse de investigar, y de aplicación de los criterios de oportunidad, de conformidad con las disposiciones normativas aplicables;
-
-VIII. Rendir los informes de autoridad que se le requieran conforme a derecho; y
-
-IX. Las demás que se deriven de la normatividad aplicable y las que le asigne el Procurador, los Subprocuradores y el Director General de Procedimiento Penal Acusatorio.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE JUNIO DE 2013)</small>
-
-### CAPITULO V. DE LA COORDINACION DE PLANEACION Y SEGUIMIENTO
-
-> <small>(ADICIONADO, P.O. 7 JUNIO DE 2013)</small>
-
-###### ARTICULO 131.
-
-La Coordinación de Planeación y Seguimiento contará con un titular y estará integrada con las siguientes unidades:
-
-I. Departamento de Planeación y Desarrollo Institucional;
-
-II. Departamento de Medición y Evaluación de Procesos Operativos; y,
-
-III. Los servidores públicos necesarios para el cumplimiento de sus atribuciones.
-
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
-
-###### ARTICULO 132.
-
-El Coordinador de Planeación y Seguimiento tendrá las siguientes atribuciones y obligaciones:
-
-I. Facilitar y apoyar el proceso de planeación estratégica y operativa de la Procuraduría;
-
-II. Proporcionar a las unidades administrativas de la Procuraduría, las herramientas y el personal de apoyo especializado para la elaboración, ejecución y seguimiento de los procesos de planeación, programación, medición y evaluación;
-
-III. Establecer proyectos de mejora para el desarrollo institucional;
-
-IV. Proponer al Procurador los objetivos, metas, estándares e indicadores de medición, para las personas, grupos de trabajo o unidades de la Procuraduría;
-
-V. Implementar los instrumentos de medición para evaluar los avances de planes estratégicos y programas operativos;
-
-VI. Asegurar la constante medición y automatización de la misma, en los procesos operativos de las unidades de la Procuraduría;
-
-VII. Proporcionar los procedimientos de evaluación del desempeño de las unidades, personas y procesos operativos de la Procuraduría;
-
-VIII. Evaluar permanentemente los resultados obtenidos en el programa sectorial y el programa operativo anual de la Procuraduría, a fin de formular nuevas propuestas; y,
-
-IX. Las demás que le encomiende el Procurador.
-
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
-
-###### ARTICULO 133.
-
-Cada uno de los departamentos señalados en el presente Capítulo contará con un titular, dependiente del Coordinador de Planeación y Seguimiento.
-
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
-
-###### ARTICULO 134.
-
-El Departamento de Planeación y Desarrollo Institucional tendrá las siguientes atribuciones:
-
-I. Apoyar en la planeación del desarrollo institucional de la Procuraduría;
-
-II. Proponer estudios y proyectos para el desarrollo y mejora del desempeño institucional y la eficacia, eficiencia y calidad de la gestión, atendiendo a criterios del óptimo uso de los recursos públicos;
-
-III. Analizar y proponer las especificaciones del servicio que se proporciona a los usuarios y ciudadanía;
-
-IV. Definir los requerimientos necesarios para dar satisfacción a los usuarios;
-
-V. Analizar y proponer los objetivos estratégicos y operativos a alcanzar, las metas, los estándares, así como los indicadores de desempeño calificados con grados de: no satisfactorio, mínimo, satisfactorio y excelente;
-
-VI. Coadyuvar con el Coordinador de Planeación y Seguimiento en la ejecución de los programas y subprogramas requeridos para el logro de los objetivos, metas e indicadores establecidos;
-
-VII. Analizar y proponer a las unidades administrativas de la Procuraduría, las buenas prácticas organizacionales;
-
-VIII. Actualizar y proponer a las unidades administrativas de la Procuraduría, los procedimientos generadores de servicio y que se cuente con el manual de procedimiento correspondiente, de manera que pueda ser certificable y auditable; y,
-
-IX. Las demás que le encomiende el Coordinador de Planeación y Evaluación y aquellas que le confieran las disposiciones normativas aplicables.
-
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
-
-###### ARTICULO 135.
-
-El Departamento de Medición y Evaluación de Procesos Operativos tendrá las siguientes atribuciones:
-
-I. Facilitar a las áreas operativas los programas necesarios para ejecutar lo planeado;
-
-II. Dar seguimiento a los resultados de la ejecución de los programas en búsqueda del logro de los objetivos estratégicos y operativos, las metas, los estándares esperados, los desempeños de la eficacia, eficiencia, calidad y los costos esperados de los procesos;
-
-III. Capacitar y facilitar el uso de los formatos de control del desempeño individual del personal de la Procuraduría, que contenga los indicadores de calidad, cantidad, efectividad y desempeño personal y grupal;
-
-IV. Analizar, comparar, evaluar e informar los resultados obtenidos en relación con lo planeado, atendiendo a la tendencia histórica y a otras entidades similares;
-
-V. Verificar el apego a los procedimientos establecidos, e informar los resultados al Coordinador de Planeación y Evaluación;
-
-VI. Facilitar la actualización continua de procedimientos, diagramas, formatos, manuales y catálogos;
-
-VII. Vigilar el correcto funcionamiento del sistema de medición de la Procuraduría;
-
-VIII. Rendir los informes que el Coordinador Planeación y Evaluación le requiera; y,
-
-IX. Las demás que le encomiende el Coordinador de Planeación y Evaluación y aquellas que le confieran las disposiciones normativas aplicables.
-
-T R A N S I T O R I O S
+## TITULO NOVENO. DEL PATRONATO DE AYUDA PARA LA REINTEGRACION SOCIAL
 
 ###### ARTICULO 80.
 
-La amonestación es el acto mediante el cual se le llama la atención al servidor público por la falta o faltas no graves cometidas en el desempeño de sus funciones y se le conmina a rectificar su conducta.
+Se crea el Patronato de Ayuda para la Reintegración Social que tendrá por objeto prestar asistencia jurídica, moral, económica, médica, social y laboral a las personas que gocen de alguno de los beneficios de libertad establecidos en esta Ley o hayan obtenido su libertad absoluta. Su organización, administración y funcionamiento se regirán por el Reglamento Interno respectivo.
 
-La amonestación se comunicará por escrito al infractor, en cuyo expediente personal se archivará una copia de la misma. Las amonestaciones serán consideradas en los procesos de ascenso del servicio de profesional carrera (sic) en lo sucesivo.
-
-La acumulación de tres amonestaciones dará lugar a la suspensión.
-
-###### ARTICULO 81.
-
-La suspensión es la interrupción temporal de los efectos del nombramiento, la cual podrá ser hasta por treinta días, sin goce de sueldo, a juicio del Procurador o Subprocuradores cuando la falta cometida no amerite remoción.
-
-> <small>(REFORMADO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
-
-###### ARTICULO 82.
-
-La remoción es la destitución, eliminación o separación del cargo y procederá en los casos de faltas graves. En todo caso, se impondrá la remoción en el supuesto de contravención a los casos a que se refieren las fracciones IV, V, VII, VIII y XII del artículo 71; así como las fracciones VI, VII y X del artículo 72 de esta Ley.
-
-###### ARTICULO 83.
-
-Corresponde al Coordinador de Asuntos Internos la imposición de las sanciones que se refieren en el artículo 80 de esta ley.
-
-###### ARTICULO 84.
-
-Las sanciones se impondrán tomando en cuenta los elementos siguientes:
-
-I. La gravedad de la responsabilidad en que se incurra;
-
-II. La necesidad de suprimir prácticas que vulneren el funcionamiento de la Procuraduría;
-
-III. La reincidencia del responsable;
-
-IV. El nivel jerárquico, el grado académico y la antigüedad en el servicio;
-
-V. Las circunstancias y medios de ejecución;
-
-VI. Las circunstancias socioeconómicas del servidor público, y
-
-VII. El monto del beneficio, daño o perjuicio económico derivado del incumplimiento de obligaciones.
-
-###### ARTICULO 85.
-
-La determinación de la remoción se hará conforme al procedimiento siguiente:
-
-I. Se iniciará de oficio o por queja presentada ante la Coordinación de Asuntos Internos, o por vista que realicen los servidores públicos adscritos a dicha unidad administrativa o a la Visitaduría, en el ejercicio de sus atribuciones;
-
-II. Las quejas o vistas que se formulen deberán estar apoyadas en elementos probatorios suficientes;
-
-III. Se enviará una copia de la queja o de la vista y sus anexos al servidor público, para que en un término de quince días hábiles formule un informe sobre los hechos y rinda las pruebas correspondientes. El informe deberá referirse a todos y cada uno de los hechos comprendidos en la queja o en la vista, afirmándolos, negándolos, expresando los que ignore por no ser propios, o refiriéndolos como crea que tuvieron lugar. Se presumirán confesados los hechos de la queja o en la vista sobre los cuales el denunciado no suscitare explícitamente controversia, salvo prueba en contrario;
-
-IV. Se citará al servidor público a una audiencia en la que se desahogarán las pruebas respectivas, y si las hubiere, se recibirán sus alegatos, por sí o por medio de su defensor;
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
-
-V. Una vez verificada la audiencia y desahogadas las pruebas, la Coordinación de Asuntos Internos resolverá sobre la inexistencia de la responsabilidad o determinará y notificará la sanción que debe imponerse al servidor público; y
-
-VI. Si del informe o de los resultados de la audiencia no se desprenden elementos suficientes para resolver o se advierten otros que impliquen nueva responsabilidad a cargo del presunto responsable o de otras personas, se podrá disponer la práctica de investigaciones y acordar la celebración de otra u otras audiencias.
-
-###### ARTICULO 86.
-
-Contra la resolución que dicte la Coordinación de Asuntos Internos podrá presentarse el recurso de revisión por el servidor público afectado ante el Consejo.
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
-
-ARTÍCULO 86 bis.- Si el Consejo confirma la resolución de la Coordinación de Asuntos Internos, y una vez que la autoridad jurisdiccional resuelva que la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio fue injustificada, la Procuraduría sólo estará obligada a pagar la indemnización y demás prestaciones señaladas en la resolución respectiva, sin que en ningún caso proceda su reincorporación o reinstalación, en los términos que establece la fracción XIII del apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
-
-El monto de indemnización será conforme lo dispuesto en el artículo 86 de la Ley de Coordinación del Sistema de Seguridad Pública del Estado de Tamaulipas.
-
-###### ARTICULO 87.
-
-Para todo lo no dispuesto en el presente capítulo o en el Reglamento, serán aplicables supletoriamente las disposiciones del Código de Procedimientos Penales y la Ley de Responsabilidades de los Servidores Públicos del Estado.
-
-### CAPITULO VI. DE LAS MEDIDAS DISCIPLINARIAS
-
-###### ARTICULO 88.
-
-Para resguardar el orden y garantizar la seguridad del personal de la Procuraduría, el Agente del Ministerio Público podrá dictar fundadamente y aplicar las medidas disciplinarias que estime necesarias y que procedan conforme a lo previsto en el Código de Procedimientos Penales.
-
-En caso de un comportamiento que perturbe el orden, así como de indisciplina o violencia, el Ministerio Público podrá ordenar la aplicación de las medidas disciplinarias antes señaladas con el auxilio de la fuerza pública.
-
-Si las conductas que merezcan la aplicación de las medidas disciplinarias llegaren a constituir delito, se procederá inmediatamente a dar cuenta a la autoridad o dependencia competente para que se inicie la investigación y/o se integre la averiguación previa correspondiente.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JUNIO DE 2013)</small>
+El Patronato se integrará con el Director General de Prevención y Readaptación Social o por la persona que designe, quien lo presidirá, y con representantes de los sectores social y privado que deseen coadyuvar en estas acciones.
 
 ## TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
 
-La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+Esta Ley entrará en vigor a los treinta días siguientes de su publicación en la "Gaceta Oficial" del Estado.
 
 ###### ARTICULO SEGUNDO.
 
-Se abroga el Decreto número 667 de la Quincuagésima Séptima Legislatura de (sic) Congreso Constitucional del Estado Libre y Soberano de Tamaulipas, publicado en el Periódico Oficial del Estado el 30 de enero del año 2002, por el cual se expidió la Ley Orgánica del Ministerio Público del Estado de Tamaulipas.
+Se abroga la Ley de Ejecución de Sanciones para el Estado de Veracruz- Llave, de fecha doce de diciembre de mil novecientos cuarenta y siete y se derogan todas las disposiciones que se opongan a la presente Ley.
 
 ###### ARTICULO TERCERO.
 
-El Reglamento de la Ley del Servicio Profesional de Carrera y de la Policía Investigadora, deberán ser expedidos dentro de los siguientes 6 meses a la entrada en vigor de la Ley.
+La obligación de los Municipios derivada de lo dispuesto por el artículo 75 de la Ley de Ejecución de Sanciones que con esta Ley se abroga, subsistirá, hasta en tanto se establecen por parte del Estado, las partidas presupuestales necesarias; correspondiendo a las Secretarías General de Gobierno y de Finanzas y Planeación, cuidar el estricto cumplimiento de esta disposición.
 
-###### ARTICULO CUARTO.
+DADA en el salón de sesiones de la H. Legislatura del Estado, en la ciudad de Xalapa- Enríquez, Veracruz, a los veintitrés días del mes de enero de mil novecientos noventa y dos.- PROFR. GERARDO VELASCO TOLEDO.- Rúbrica.- Diputado Presidente.- ING. FAUSTO AMADOR MIXTEGA.- Rúbrica.- Diputado Secretario".
 
-En tanto se expide la reglamentación correspondiente, se continuará aplicando el Reglamento de la Ley Orgánica del Ministerio Público del Estado, publicado en el anexo al Periódico Oficial No. 118, del 30 de septiembre de 2004, en aquellas disposiciones que no se opongan al contenido del presente ordenamiento.
+En cumplimiento de lo dispuesto por la fracción I del artículo 87 de la Constitución Política del Estado Libre y Soberano de Veracruz- Llave, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Estatal, en la ciudad de Xalapa- Enríquez, Veracruz, a los veintinueve días del mes de enero de mil novecientos noventa y dos. DANTE DELGADO.- Rúbrica.- Gobernador del Estado.- LIC. MIGUEL A. DIAZ PEDROZA.- Rúbrica.- Secretario General de Gobierno.- GERARDO POO ULIBARRI.- Rúbrica.- Secretario de Finanzas y Planeación.
 
-###### ARTICULO QUINTO.
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
-Los procedimientos de responsabilidad administrativa que se encuentren en trámite ante la Coordinación de Asuntos Internos, continuarán hasta su conclusión, de conformidad con las disposiciones vigentes al momento de su inicio.
+G.O. 18 DE MARZO DE 2003.
 
-###### ARTICULO SEXTO.
+PRIMERO. El presente Decreto iniciará su vigencia a los treinta días naturales siguientes al de su publicación, excepto en lo dispuesto por los artículos 1 y 45, que comenzarán su vigencia al día siguiente al de su publicación en la Gaceta Oficial del Estado.
 
-Los Agentes del Ministerio Público, de la Policía Ministerial y los Peritos que a la fecha de entrada en vigor de la presente Ley se encuentren en activo en la Procuraduría General de Justicia del Estado de Tamaulipas, se someterán a las disposiciones para la permanencia relativas al servicio de carrera respectivo, en los plazos establecidos por la Ley General del Sistema Nacional de Seguridad Pública y contarán con un plazo de 60 días naturales contados a partir de la entrada en vigor de la misma, para manifestar su voluntad de someterse al proceso de evaluación de control de confianza o, en su caso, de adherirse al programa de terminación de la prestación de servicios del Gobierno del Estado. Quienes aprueben el proceso de evaluación en los términos de la normatividad aplicable, podrán permanecer en la Procuraduría General de Justicia del Estado en el servicio de carrera, los no aprobados serán separados en definitiva del servicio en la Procuraduría General de Justicia del Estado.
+SEGUNDO. A partir del inicio de la entrada en vigor del presente Decreto, toda publicación oficial de la Constitución Local tendrá la denominación de "Constitución Política del Estado de Veracruz de Ignacio de la Llave".
 
-###### ARTICULO SEPTIMO.
+TERCERO. En todas las leyes, decretos, códigos u ordenamientos estatales de observancia general que se expidan, promulguen o publiquen con posterioridad al inicio de la vigencia del presente Decreto de Reforma Constitucional, se añadirá la expresión: "...Estado de Veracruz de Ignacio de la Llave".
 
-Los nombramientos de Agentes del Ministerio Público, Policías Ministeriales y Peritos, mantendrán su vigencia dentro del período de dos años o hasta que el servidor público sea sometido a los procesos de evaluación y control de confianza y se acredite el cumplimiento de los requisitos de permanencia en la Procuraduría General de Justicia del Estado de Tamaulipas.
+CUARTO. Para los efectos constitucionales y legales procedentes, todas las leyes, decretos, códigos u ordenamientos estatales de observancia general, vigentes al momento de la entrada en vigor del presente Decreto y que en su denominación contengan la expresión "...Estado de Veracruz-Llave", se entenderán referidas al "...Estado de Veracruz de Ignacio de la Llave".
 
-Las atribuciones de la Policía Ministerial permanecerán vigentes dentro del plazo de los dos años contados a partir de la entrada en vigor de la presente ley.
+QUINTO. Los poderes del Estado, los organismos autónomos, los ayuntamientos y las entidades de su administración pública que a la entrada en vigor del presente Decreto contaren con recursos materiales y técnicos con la leyenda "...del Estado Libre y Soberano de Veracruz-Llave", agotarán su existencia antes de ordenar su reabastecimiento.
 
-###### ARTICULO OCTAVO.
+SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-Aprobado por el interesado el proceso de evaluación y control de confianza y cumplidos los requisitos de permanencia, se le expedirá nuevo nombramiento e ingresará formalmente al Servicio Profesional de Carrera de la Procuraduría General de Justicia del Estado de Tamaulipas.
+SÉPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
 
-SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tam., a 1° de septiembre del año 2010.- DIPUTADO PRESIDENTE.- OMAR ELIZONDO GARCIA.- Rúbrica.- DIPUTADA SECRETARIA.- NORMA ALICIA DUEÑAS PEREZ.- Rúbrica.- DIPUTADO SECRETARIO.- GELACIO MARQUEZ SEGURA.- Rúbrica."
+OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
 
-Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
+G.O. 17 DE AGOSTO DE 2005.
 
-Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los dos días del mes de septiembre del año dos mil diez.
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial.
 
-ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION.- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNANDEZ FLORES.- Rúbrica.- SECRETARIO GENERAL DE GOBIERNO.- HUGO ANDRES ARAUJO DE LA TORRE.- Rúbrica.
+Segundo. Se derogan las disposiciones de observancia general que se opongan a este decreto.
 
-P.O. 29 DE DICIEMBRE DE 2010.
+G.O. 11 DE ENERO DE 2006.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
 
-###### ARTICULO PRIMERO.
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+G.O. 17 DE SEPTIEMBRE DE 2012.
 
-###### ARTICULO SEGUNDO.
+Artículo Primero. La presente Ley entrará en vigor, previa su publicación en la Gaceta Oficial del estado, al día siguiente de que inicie su vigencia el nuevo Código de Procedimientos Penales, sujetándose a la gradualidad que éste prevea en sus disposiciones.
 
-El Instituto Tamaulipeco de Atención a las Víctimas de los Delitos no generará altas laborales para conformarse, sino que deberá integrarse con personal que ya se encuentre adscrito a la Procuraduría General de Justicia del Estado.
+Artículo Segundo. Se deroga la Ley de Ejecución de Sanciones para el Estado de Veracruz-Llave, publicada en la Gaceta Oficial del estado el 1 de febrero de 1992; así como todas las disposiciones que se opongan a la presente Ley. Las disposiciones reglamentarias derivadas de la Ley que se deroga seguirán aplicándose en lo que no contraríen a las disposiciones de este ordenamiento, en tanto se expide la nueva reglamentación.
 
-###### ARTICULO TERCERO.
+Artículo Tercero. El Ejecutivo del Estado expedirá en su oportunidad las disposiciones reglamentarias conducentes.
 
-El Instituto Tamaulipeco de Atención a las Víctimas de los Delitos deberá quedar conformado a más tardar 180 días después de la publicación del presente Decreto.
-
-P.O. 1 DE SEPTIEMBRE DE 2011.
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-###### ARTÍCULO SEGUNDO.
-
-En un término que no exceda de 180 días posteriores a la entrada en vigor del presente Decreto, se expedirá el Reglamento Interior de la Procuraduría General de Justicia del Estado.
-
-###### ARTÍCULO TERCERO.
-
-En tanto se expide el Reglamento Interior de la Procuraduría General de Justicia, la competencia de sus unidades administrativas se norma por la materia de su denominación, al tiempo que si su competencia se hubiere determinado con base en una disposición anterior a la vigencia del presente Decreto, corresponderá a la unidad que conozca de la sustanciación de los asuntos en trámite, hasta que se dicte el acuerdo o resolución pertinente.
-
-###### ARTÍCULO CUARTO.
-
-Cuando con motivo del presente Decreto se confiera una denominación nueva o distinta a alguna unidad administrativa o entidad, cuyas funciones sean referidas por otros ordenamientos legales, dichas atribuciones se entenderán concedidas a la dependencia que determine el presente Decreto.
-
-###### ARTÍCULO QUINTO.
-
-Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
-
-P.O. 19 DE ABRIL DE 2012.
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, con excepción del artículo décimo tercero.
-
-###### ARTÍCULO SEGUNDO.
-
-El artículo décimo tercero del presente Decreto surtirá efectos jurídicos a partir de su expedición, por tratarse de normas internas del Congreso del Estado, debiéndose publicar en el Periódico Oficial del Estado.
-
-###### ARTÍCULO TERCERO.
-
-Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
-
-P.O. 30 DE AGOSTO DE 2012.
-
-DECRETO No. LXI-495, POR EL QUE SE DEROGAN LA FRACCIÓN IV APARTADO C) DEL ARTÍCULO 12 Y EL ARTÍCULO 27 TER DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS.
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-###### ARTÍCULO SEGUNDO.
-
-Con motivo de la reforma al artículo 28 de la Ley Orgánica de la Administración Pública del Estado, relativo a la Secretaría del Trabajo y Asuntos Jurídicos, la Secretaría General de Gobierno transferirá a la misma los recursos humanos, los activos patrimoniales constituidos por los bienes inmuebles, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, el equipo utilizado, respectivamente, para la atención de las funciones asignadas a aquella dependencia.
-
-Con relación a las funciones transferidas a la Secretaría General de Gobierno y a la Secretaría de Desarrollo Económico y Turismo, respectivamente, por la Procuraduría General de Justicia del Estado y la Secretaría del Trabajo y Asuntos Jurídicos, aquellas tendrán a su cargo los activos patrimoniales enunciados en el párrafo que antecede, y que se refieran a esas funciones, de conformidad con su anterior asignación administrativa.
-
-Lo dispuesto en el presente Decreto no afectará los derechos adquiridos por los trabajadores de las dependencias antes mencionadas.
-
-###### ARTÍCULO TERCERO.
-
-La reubicación de funciones que con motivo de la expedición de este Decreto deban realizarse de una dependencia a otra, incluirán los recursos presupuestales asignados a los asuntos de las nuevas competencias que se establecen, así como los programas y calendarios financieros.
-
-###### ARTÍCULO CUARTO.
-
-Cuando con motivo del presente Decreto se confiera una denominación nueva o distinta a alguna dependencia cuyas funciones sean referidas por otros ordenamientos legales, dichas atribuciones se entenderán concedidas a la dependencia que conforme a este Decreto cuente con la atribución correspondiente.
-
-###### ARTÍCULO QUINTO.
-
-Sin demérito de lo establecido en sus Decretos de creación, las Juntas de Gobierno del Instituto Tamaulipeco de Vivienda y Urbanismo y del Instituto Registral y Catastral del Estado de Tamaulipas, deberán ser presididas por los Titulares de la Secretaría de Desarrollo Social y de la Secretaría del Trabajo y Asuntos Jurídicos, respectivamente.
-
-###### ARTÍCULO SEXTO.
-
-En cumplimiento del presente Decreto se faculta al Ejecutivo para reorganizar las estructuras de las dependencias y, mediante el procedimiento aplicable, de las entidades; así como para crear las áreas y unidades necesarias, y modificar y redistribuir las partidas del Presupuesto de Egresos de Estado (sic) para el ejercicio fiscal de 2012, sin excederse del monto total autorizado del gasto público para el propio ejercicio.
-
-###### ARTÍCULO SÉPTIMO.
-
-Los asuntos que con motivo del presente Decreto pasen del conocimiento de una dependencia a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramitan se incorporen a la dependencia que deba atenderlos, salvo los trámites urgentes o sujetos a plazos improrrogables.
-
-###### ARTÍCULO OCTAVO.
-
-Se derogan todas aquellas disposiciones que se opongan el presente Decreto.
-
-P.O. 30 DE AGOSTO DE 2012.
-
-DECRETO No. LXI-496, POR EL QUE SE DEROGA LA FRACCIÓN XII DEL ARTÍCULO 9° DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS.
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-###### ARTÍCULO SEGUNDO.
-
-Las Secretarías General de Gobierno, de Finanzas, de Administración y del Trabajo y Asuntos Jurídicos, así como la Contraloría Gubernamental, coordinarán las acciones necesarias para el cumplimiento del presente Decreto, gozando al efecto de las atribuciones necesarias para su estricta aplicación.
-
-###### ARTÍCULO TERCERO.
-
-Los recursos financieros y materiales, así como los bienes inmuebles adscritos al servicio del Instituto de Mediación del Estado de Tamaulipas, que con motivo de la expedición del presente Decreto se extingue, se transferirán a la Secretaría del Trabajo y Asuntos Jurídicos.
-
-###### ARTÍCULO CUARTO.
-
-El personal de nivel jerárquico menor a Jefe de Departamento asignado al Instituto de Mediación del Estado de Tamaulipas, será asignado a la Secretaría del Trabajo y Asuntos Jurídicos, conforme a la naturaleza de las funciones que venían realizando, según lo acuerde el titular de esta dependencia con la intervención de la Secretaría de Administración y de la Contraloría Gubernamental.
-
-Las acciones relativas al cambio de adscripción o reasignación del personal señalado en el párrafo anterior, se ejecutarán sin afectar sus derechos y prestaciones derivadas de la relación de trabajo que tuvieran anteriormente.
-
-###### ARTÍCULO QUINTO.
-
-El personal de nivel jerárquico de Jefe de Departamento y superiores, será dado de baja a partir de la entrada en vigor del presente Decreto, respetando sus derechos laborales y deberán ser indemnizados conforme a la ley de la materia.
-
-###### ARTÍCULO SEXTO.
-
-Se derogan todas aquellas disposiciones que se opongan el presente Decreto.
-
-P.O. 18 DE DICIEMBRE DE 2012.
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-###### ARTÍCULO SEGUNDO.
-
-Toda referencia que se haga de las Subsecretaría de Reinserción Social y de la Coordinación General de Reinserción Social y Ejecución de Sanciones o de sus titulares, en cualquier disposición jurídica del Estado, se entenderá hecha a la Subsecretaría de Ejecución de Sanciones y Reinserción Social y a su titular, el Subsecretario de Ejecución de Sanciones y Reinserción Social.
-
-###### ARTÍCULO TERCERO.
-
-La Subsecretaría de Ejecución de Sanciones y Reinserción Social realizará las acciones necesarias para el cumplimiento de sus atribuciones en términos de lo dispuesto en la Ley de Ejecución de Sanciones Privativas y Restrictivas de la Libertad del Estado de Tamaulipas.
-
-###### ARTÍCULO CUARTO.
-
-Se deroga el Reglamento elaborado por el Ejecutivo Estatal sobre las Relaciones Laborales entre el Gobierno del Estado y sus Trabajadores de Seguridad Pública, aprobado mediante el Decreto No. 165, de la Quincuagésima Legislatura del H. Congreso del Estado y publicado en el Periódico Oficial del Estado No. 21, del 13 de marzo de 1982.
-
-###### ARTÍCULO QUINTO.
-
-El personal asignado a la Junta de Honor y Justicia, será asignado a la Secretaría General de Gobierno, conforme a la naturaleza de las funciones que venían realizando, según lo acuerde el titular de esta dependencia con la Intervención de la Secretaría de Administración y de la Contraloría Gubernamental.
-
-Las acciones relativas al cambio de adscripción o reasignación del personal señalado en el párrafo anterior, se ejecutarán sin afectar sus derechos y prestaciones derivadas de la relación de trabajo que tuvieran anteriormente.
-
-###### ARTÍCULO SEXTO.
-
-Los procedimientos ante la Junta de Honor y Justicia, que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán su trámite conforme a las disposiciones aplicables al momento de su inicio.
-
-###### ARTÍCULO SÉPTIMO.
-
-Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
-
-P.O. 28 DE FEBRERO DE 2013.
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-###### ARTÍCULO SEGUNDO.
-
-Los procedimientos de mediación y conciliación que con anterioridad a la entrada en vigor del presente Decreto se hayan iniciado por parte de los Agentes del Ministerio Público del Estado y los mediadores de la Procuraduría General de Justicia del Estado, deberán concluir conforme al procedimiento con el que se hayan iniciado.
-
-###### ARTÍCULO TERCERO.
-
-Se derogan todas aquellas disposiciones que se opongan el presente Decreto.
-
-P.O. 7 DE JUNIO DE 2013.
-
-DECRETO NO. LXI-859 POR LO QUE SE REFORMAN LA FRACCIÓN X DEL INCISO A) DEL ARTÍCULO 12 Y EL ARTÍCULO 22; SE ADICIONAN LA FRACCIÓN XI AL INCISO A) DEL ARTÍCULO 12, RECORRIÉNDOSE LA SUBSECUENTE; Y EL ARTÍCULO 20 BIS, A LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS.
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-###### ARTÍCULO SEGUNDO.
-
-Las disposiciones relativas a los delitos de secuestro previstas en el Código Penal para el Estado de Tamaulipas y de la Ley de Justicia para Adolescentes del Estado vigentes hasta la entrada en vigor del Decreto mediante el cual se expide la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos.
-
-###### ARTÍCULO TERCERO.
-
-Se derogan todas aquellas disposiciones legales que se opongan al presente Decreto.
-
-P.O. 7 DE JUNIO DE 2013.
-
-DECRETO No. LXI-865 POR LO QUE SE REFORMAN LA DENOMINACIÓN DEL TÍTULO CUARTO, Y LOS ARTÍCULOS 8° FRACCIONES XXIV Y XXV, 11 FRACCIONES V Y VI, 89, 91 PÁRRAFO ÚNICO Y FRACCIÓN III Y 98; Y SE ADICIONAN EL TÍTULO NOVENO CON CINCO CAPÍTULOS, LOS ARTÍCULOS 114 A 135, LOS PÁRRAFOS TERCERO DEL ARTÍCULO 11, Y TERCERO Y CUARTO DEL ARTÍCULO 46, Y LAS FRACCIONES XXVI DEL ARTÍCULO 8° Y VII DEL ARTÍCULO 11, DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS.
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-###### ARTÍCULO SEGUNDO.
-
-La Procuraduría General de Justicia del Estado proveerá lo conducente para contar con la estructura administrativa necesaria para implementar el nuevo Sistema de Justicia Penal Acusatorio y Oral, conforme a las fechas de aplicación del Código de Procedimientos Penales del Estado de Tamaulipas expedido mediante Decreto No. LXI-475.
-
-###### ARTÍCULO TERCERO.
-
-El Ejecutivo Estatal deberá expedir el Reglamento Interior de la Procuraduría General de Justicia del Estado.
-
-###### ARTÍCULO CUARTO.
-
-En tanto se expide el Reglamento Interior de la Procuraduría General de Justicia, la competencia de sus unidades administrativas se norman por la materia de su denominación, al tiempo que si su competencia se hubiere determinado con base en una disposición anterior a la vigencia del presente Decreto, corresponderá a la unidad que conozca de la sustanciación de los asuntos en trámite, hasta que se dicte el acuerdo o resolución pertinente.
-
-###### ARTÍCULO QUINTO.
-
-Cuando con motivo del presente Decreto se confieran una denominación nueva o distinta a alguna unidad administrativa, cuyas funciones sean referidas por otros ordenamientos legales, dichas atribuciones se entenderán concedidas a la unidad administrativa que determine el presente Decreto.
-
-###### ARTÍCULO SEXTO.
-
-Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
-
-P.O. 3 DE ABRIL DE 2014.
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-###### ARTÍCULO SEGUNDO.
-
-Las disposiciones relativas a los delitos de trata de personas previstas en la Ley para Prevenir, Combatir y Sancionar la Trata de Personas en el Estado de Tamaulipas y en el Código de Procedimientos Penales para el Estado de Tamaulipas vigentes hasta la entrada en vigor del Decreto mediante el cual se expide la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos.
-
-###### ARTÍCULO TERCERO.
-
-Se derogan todas aquellas disposiciones legales que se opongan al presente Decreto.
+Artículo Cuarto. La Ley de Ejecución de Sanciones para el Estado de Veracruz-Llave, publicada el 1 de febrero de 1992, seguirá rigiendo en lo conducente y hasta su conclusión los procedimientos iniciados con anterioridad a la vigencia de esta nueva Ley.
