@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-tribunal-electoral-del-estado-de-89079"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-08-10"
-last_updated: "2012-08-10"
+last_updated: "2012-09-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL ESTADO DE PUEBLA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE SEPTIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL ESTADO DE PUEBLA
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 14 DE SEPTIEMBRE DE 2012.</small>
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el viernes 10 de agosto de 2012.
 
@@ -119,11 +119,11 @@ REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL ESTADO
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE SEPTIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 17 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 1.
 
-Las disposiciones del presente ordenamiento, son de observancia general para el Tribunal Electoral del Estado y tienen por objeto reglamentar su organización y funcionamiento, así como las atribuciones que le confieren los artículo (sic) 3 fracción VI y 43 segundo párrafo de la Constitución Política del Estado Libre y Soberano de Puebla, las disposiciones relativas del Código de Instituciones y Procesos Electorales del Estado de Puebla y demás disposiciones legales aplicables.
+Las disposiciones del presente ordenamiento, son de observancia general para el Tribunal Electoral del Estado y tienen por objeto reglamentar su organización y funcionamiento, así como las atribuciones que le confieren los artículos 3 fracción VI y 43 segundo párrafo de la Constitución Política del Estado Libre y Soberano de Puebla, las disposiciones relativas del Código de Instituciones y Procesos Electorales del Estado de Puebla y demás disposiciones legales aplicables.
 
 ###### ARTÍCULO 2.
 
@@ -283,8 +283,6 @@ XXIV. Las demás que le confieran las leyes y este Reglamento.
 
 El Presidente durará en su cargo dos años y no puede ser reelecto para el periodo inmediato posterior. Cada periodo dará inicio el primero de enero y concluirá el treinta y uno de diciembre del año posterior y así sucesivamente. En casos de nuevas designaciones de Magistrados, incapacidades o licencias de quien funge como Presidente, se nombrará a un interino por el periodo respectivo.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE SEPTIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 13.
 
 El Presidente tendrá las atribuciones siguientes:
@@ -343,7 +341,9 @@ XXVI. Delegar atribuciones y facultades al personal jurídico, administrativo y 
 
 XXVII. Otorgar poderes generales o especiales para representar al Tribunal;
 
-XXVIII. Expedir y aprobar en el ámbito de su competencia, los manuales e instructivos que sean conveniente para el mejor funcionamiento del Tribunal;
+> <small>(F. DE E., P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+XXVIII. Expedir y aprobar en el ámbito de su competencia, los manuales e instructivos que sean convenientes para el mejor funcionamiento del Tribunal;
 
 XXIX. Proveer lo necesario para la utilización y actualización del acervo legislativo, documental y bibliohemerográfico del Tribunal;
 
@@ -401,8 +401,6 @@ Los Magistrados deberán excusarse del conocimiento de los asuntos que les sean 
 
 ### CAPÍTULO V. DE LA CONTRALORÍA INTERNA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE SEPTIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 16.
 
 La Contraloría Interna estará a cargo de un Contralor, a quién corresponde originalmente la representación, trámite y resolución de los asuntos de la competencia de aquélla, mismo que tendrá las atribuciones siguientes:
@@ -449,7 +447,9 @@ XX. Imponer las sanciones en la esfera administrativa, a través de los procedim
 
 XXI. Las que le confieran la Ley de Transparencia y Acceso a la Información Pública; y
 
-XXII. Las demás que le confieren las aplicables (sic) y las que le encomiende el Pleno.
+> <small>(F. DE E., P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+XXII. Las demás que le confieren las leyes aplicables y las que le encomiende el Pleno.
 
 ### CAPÍTULO VI. DEL SECRETARIO GENERAL DE ACUERDOS
 
@@ -675,8 +675,6 @@ V. Secretaría Particular.
 
 ### CAPÍTULO II. DE LA DIRECCIÓN ADMINISTRATIVA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE SEPTIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 28.
 
 El titular de la Dirección Administrativa, tendrá las atribuciones siguientes:
@@ -709,7 +707,9 @@ XIII. Elaborar en forma mensual y quincenal los informes de la Dirección a su c
 
 XIV. Proponer al Presidente, los proyectos de normatividad y los criterios aplicables para modernizar las estructuras orgánicas, los sistemas y procedimientos administrativos internos, así como los de servicio al público;
 
-XV. Hacer del conocimiento al Presidente, cualquier irregularidad que advierta en las actividades que tiene encomendadas y corregirlas sin perjuicio del financiamiento (sic) de la responsabilidad a que hubiera lugar;
+> <small>(F. DE E., P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+XV. Hacer del conocimiento al Presidente, cualquier irregularidad que advierta en las actividades que tiene encomendadas y corregirlas sin perjuicio del fincamiento de la responsabilidad a que hubiera lugar;
 
 XVI. Informar al Presidente, conforme a los plazos legales y términos establecidos, los avances en el ejercicio presupuestal y propuestas de evaluación del mismo;
 
@@ -981,8 +981,6 @@ VI. Las demás que les sean encomendadas por el Presidente, el Secretario o el A
 
 El Actuario Responsable y los Auxiliares, están investidos de fe pública con respecto de las actuaciones, diligencias y notificaciones que practiquen, quienes deberán conducirse siempre con estricto apego a la verdad, bajo la pena de incurrir en las responsabilidades que prevén las disposiciones legales aplicables.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE SEPTIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 43.
 
 El Actuario Responsable llevará los siguientes libros:
@@ -991,7 +989,9 @@ a) Libro de cédulas y razones de notificación;
 
 b) Libro de notificación de resoluciones;
 
-c) Libro de registro de oficios a notifica (sic); y
+> <small>(F. DE E., P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+c) Libro de registro de oficios a notificar; y
 
 d) Libro de oficios de actuaría.
 
@@ -1493,11 +1493,11 @@ VIII. Tener buena conducta y probidad, y no haber sido condenado por delito algu
 
 IX. No estar inhabilitado para desempeñar cargos o funciones públicas.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE SEPTIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 17 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 80.
 
-Para ser Auxiliar Administrativo se necesitan cubrir los mismos requisitos señalados para ser Oficial de Partes, excepto el establecido en la fracción II del artículo 100 de este Reglamento, y ser Licenciado en Administración Pública o en Administración de Empresas o en Contaduría Pública o en carrera afín a las funciones que deba desempeñar.
+Para ser Auxiliar Administrativo se necesitan cubrir los mismos requisitos señalados para ser Oficial de Partes, excepto el establecido en la fracción II del artículo 73 de este Reglamento, y ser Licenciado en Administración Pública o en Administración de Empresas o en Contaduría Pública o en carrera afín a las funciones que deba desempeñar.
 
 ### CAPÍTULO IV. DE LOS PERMISOS, LICENCIAS Y CERTIFICADOS DE INCAPACIDAD
 
@@ -1927,13 +1927,13 @@ Cuando en los recursos se advierta que el actor interpone un recurso distinto al
 
 ### CAPÍTULO III. DE LA IMPROCEDENCIA Y SOBRESEIMIENTO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE SEPTIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 137.
 
 Los medios de impugnación serán desechados de plano cuando se actualice alguna de las causales de improcedencia previstas en el artículo 369 del Código.
 
-El error en la designación de la vía no dará lugar a la improcedencia del medio de impugnación intentado, sino al reencauzamiento del asunto, conforme al artículo 135 de este Reglamento.
+> <small>(F. DE E., P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+El error en la designación de la vía no dará lugar a la improcedencia del medio de impugnación intentado, sino al reencauzamiento del asunto, conforme al artículo 136 de este Reglamento.
 
 ###### ARTÍCULO 138.
 
@@ -2029,13 +2029,13 @@ El Pleno, para la resolución pronta y expedita de los medios de impugnación pr
 
 #### SECCIÓN I. DE LA ACUMULACIÓN
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE SEPTIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 152.
 
 El procedimiento para la acumulación de los medios de impugnación será el siguiente:
 
-I. El turno del expediente del medio de impugnación se hará como lo establece el artículo 133 de este Reglamento;
+> <small>(F. DE E., P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+I. El turno del expediente del medio de impugnación se hará como lo establece el artículo 134 de este Reglamento;
 
 II. Si al analizar el medio de impugnación turnado, el Magistrado Ponente encuentra que existe identidad o relación estrecha con alguno de los medios de impugnación radicados en este Tribunal, instruirá al Secretario, para que realice la certificación y rinda informe, en el que especifique si el expediente en trámite guarda relación o conexidad con otro medio de impugnación; solicitando se dé cuenta al Pleno con dicha información, para que se dicte acuerdo ordenando si es procedente o no la acumulación; en caso afirmativo la acumulación del expediente será del reciente al más antiguo y el Magistrado que lleve éste último, siga conociendo de los recursos acumulados por el Pleno, para la sustanciación y sentencia correspondiente;
 
@@ -2261,8 +2261,6 @@ Los criterios relevantes del Tribunal, dejarán de tener dicho carácter, siempr
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE SEPTIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 180.
 
 El presente Título tiene por objeto establecer los criterios y procedimientos para garantizar la transparencia, el acceso a la información y la protección de datos personales en posesión del Tribunal, con base en lo dispuesto por la Ley de Transparencia.
@@ -2279,7 +2277,9 @@ IV. Favorecer la transparencia, el acceso a la Información y la rendición de c
 
 V. Contribuir a la plena vigencia del Estado de derecho, de conformidad con lo dispuesto en la Ley.
 
-Lo anterior atendiendo a los principios comprendidos en el artículo 48 de la Ley de Transparencia.
+> <small>(F. DE E., P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+Lo anterior atendiendo a los principios comprendidos en el artículo 47 de la Ley de Transparencia.
 
 ###### ARTÍCULO 181.
 
