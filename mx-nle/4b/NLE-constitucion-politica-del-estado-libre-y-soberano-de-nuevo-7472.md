@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2012-09-14"
+last_updated: "2012-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2012.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -77,7 +77,7 @@ La ley sólo queda abrogada o derogada por otra posterior que así lo declare ex
 
 De los Derechos del Hombre.
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
 
 ## TITULO II.
 
@@ -1835,7 +1835,9 @@ b) El Gobernador Interino, el provisional o el ciudadano que, bajo cualquier den
 
 Al Ejecutivo pertenece:
 
-I.- Proteger la seguridad de las personas, bienes y derechos de los individuos y, al efecto, mantener la paz, tranquilidad y orden públicos en todo el Estado.
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+l. Proteger la seguridad de las personas y sus bienes, así como los derechos humanos del individuo, a efecto de mantener la paz, tranquilidad y el orden público en todo el Estado;
 
 > <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
 
@@ -1975,13 +1977,25 @@ En caso de que, transcurrido el plazo de cinco días, el H. Congreso rechace a l
 
 Si presentada la segunda propuesta, el H. Congreso la rechaza, se abstiene de resolver, o no reúne la votación requerida dentro de los plazos señalados, en ese mismo acto, la aprobación se llevará a cabo mediante el voto secreto de cuando menos la mitad más uno de los diputados asistentes a la sesión; de no reunirse esta votación, el Ejecutivo, dentro de los diez días posteriores a la celebración de la sesión, realizará la designación, la cual no podrá recaer en ninguna de las personas que en ese mismo procedimiento ya hubieran sido propuestas al Congreso para ocupar dicho cargo.
 
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
 
-Una Ley determinará la organización, funcionamiento, competencia y procedimientos de la Comisión Estatal de Derechos Humanos, que conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público que violen estos derechos, con excepción de los del Poder Judicial del Estado. Formulará recomendaciones públicas autónomas, no vinculativas, denuncias y quejas ante las autoridades respectivas.
+Una Ley determinará la organización, funcionamiento, competencia y procedimientos de la Comisión Estatal de Derechos Humanos, que será un organismo autónomo, con personalidad jurídica y patrimonio propio, el cual contará con un Consejo Consultivo que se ajustará a un procedimiento de convocatoria pública, en los términos y condiciones que determine la Ley.
 
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
 
-Este organismo no será competente tratándose de asuntos electorales, laborales o jurisdiccionales.
+El organismo a que se refiere el párrafo anterior conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público que violen estos derechos, con excepción de los del Poder Judicial del Estado.
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+Asimismo, formulará recomendaciones públicas autónomas, no vinculativas, denuncias y quejas ante las autoridades respectivas.
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+Todo servidor público está obligado a responder las recomendaciones que les presente la Comisión Estatal de Derechos Humanos. Cuando las recomendaciones no sean aceptadas o cumplidas por las autoridades o servidores públicos, estos deberán fundar, motivar y publicar su negativa. El Congreso del Estado a petición de este organismo, podrá solicitar a las autoridades o servidores públicos responsables, un informe por escrito, a efecto de que explique el motivo de su negativa.
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+Este organismo no será competente tratándose de asuntos electorales, y jurisdiccionales.
 
 > <small>(REFORMADO, P.O. 1o. DE FEBRERO DE 1975)</small>
 
@@ -13787,19 +13801,17 @@ Continúan en vigor todas las leyes y decretos existentes, en cuanto no se opong
 
 ###### Art. 1o.
 
-El Pueblo nuevoleonés reconoce que los derechos del ser humano son la base y el objeto de las instituciones sociales. Todas las leyes y todas las autoridades del Estado deben respetar y hacer respetar las garantías que otorga la presente Constitución.
+El pueblo nuevoleonés reconoce que los derechos humanos son fundamentales para la base y el objeto de las instituciones sociales. Toda persona en el Estado de Nuevo León, tiene derecho a gozar de los mismos y de las garantías que consagra esta Constitución.
 
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2012)</small>
+En el Estado todos nacen libres. Los esclavos que pisen el territorio del Estado, recobraran por ese solo hecho su libertad y tienen derecho a la protección de las Leyes.
 
-En el Estado todos nacen libres. Los esclavos que pisen el territorio del Estado recobraran por ese solo hecho su libertad y tienen derecho a la protección de las Leyes.
+Todas las Leyes y las autoridades del Estado, deberán promover, proteger y garantizar que se respeten los derechos humanos, a través de los principios de universalidad, interdependencia, indivisibilidad y progresividad.
 
-> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2011)</small>
+Queda prohibida toda discriminación motivada por origen étnico o nacional, género, edad, capacidades diferentes, condición social, condiciones de salud, embarazo, religión, opiniones, preferencias sexuales, estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar sus derechos humanos y libertades.
 
-Queda prohibida toda discriminación motivada por origen étnico o nacional, género, edad, capacidades diferentes, condición social, condiciones de salud, embarazo, religión, opiniones, preferencias, estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar sus derechos y libertades.
+El varón y la mujer son iguales ante la Ley. Ésta protegerá la integración y el desarrollo de la familia. Cuando la terminología de género empleada en las disposiciones de observancia general sea en masculino, deberá entenderse que se refieren tanto el varón como a la mujer, salvo disposición expresa en contrario.
 
-El varón y la mujer son iguales ante la Ley. Ésta protegerá la integración y el desarrollo de la familia. Cuando la terminología de género empleada en las disposiciones de observancia general sea en masculino, deberá entenderse que se refieren tanto al varón como a la mujer, salvo disposición expresa en contrario.
-
-Toda persona tiene derecho a decidir de manera libre, responsable e informada sobre el número y espaciamiento de sus hijos.
+Toda persona tiene derecho a decidir de manera libre, responsable e informada sobre el número y esparcimiento de sus hijos.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2012)</small>
 
@@ -13849,9 +13861,9 @@ Las escuelas particulares sólo podrán establecerse sujetándose a la vigilanci
 
 El Estado impartirá educación preescolar, primaria, secundaria y media superior, que conforman la educación básica obligatoria.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE OCTUBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
 
-La educación que imparta el Estado, será gratuita y tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará en él a la vez el amor a la patria y la conciencia de la solidaridad internacional en la independencia y en la justicia.
+La educación que imparta el Estado, será gratuita y tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará en él a la vez el amor a la patria, el respeto a los derechos humanos y la conciencia de la solidaridad internacional en la Independencia y en la justicia.
 
 > <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2004)</small>
 
@@ -14111,11 +14123,9 @@ Nadie puede ser aprisionado por deudas de carácter puramente civil.
 
 Sólo por delito que merezca pena privativa de libertad habrá lugar a prisión preventiva. El sitio de ésta será distinto del que se destinare para la extinción de las penas y estarán completamente separados.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
-
-El Ejecutivo del Estado organizará el sistema penitenciario sobre la base del trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medios para lograr la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir, observando los beneficios que para él prevé la ley. Las mujeres compurgarán sus penas en lugares separados de los destinados a los hombres para tal efecto.
+El Ejecutivo del Estado organizará el sistema penitenciario sobre la base del respeto a los derechos humanos, trabajo, la capacitación para el mismo, la educación, la salud y el deporte, como medios para lograr la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir, observando los beneficios que para él prevé la Ley. Las mujeres compurgarán sus penas en lugares separados de los destinados a los hombres para tal efecto.
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -15336,3 +15346,11 @@ P.O. 14 DE SEPTIEMBRE DE 2012.
 DECRETO NÚMERO 360, POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 30 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN.
 
 Único.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 17 DE SEPTIEMBRE DE 2012.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- El Congreso del Estado, adecuará la Ley que crea la Comisión Estatal de Derechos Humanos, en un plazo máximo de 260-doscientos sesenta días contados a partir del inicio de la vigencia de este Decreto.
+
+Tercero.- Se derogan todas las disposiciones que contravengan el presente Decreto.
