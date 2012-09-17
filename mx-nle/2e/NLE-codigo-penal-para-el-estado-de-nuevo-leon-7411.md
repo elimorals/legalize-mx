@@ -4,7 +4,7 @@ identifier: "NLE-codigo-penal-para-el-estado-de-nuevo-leon-7411"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-26"
-last_updated: "2012-06-15"
+last_updated: "2012-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7411&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CÓDIGO PENAL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 26 de marzo de 1990.
 
@@ -6231,6 +6231,10 @@ II.- QUE SI SE ENCUENTRA EL CUERPO DE LA VICTIMA, DECLAREN PERITOS, DESPUES DE H
 
 CUANDO EL CUERPO NO SE ENCUENTRE, O POR OTRO MOTIVO NO SE HAGA LA AUTOPSIA, BASTARA QUE LOS PERITOS, EN VISTA DE LOS DATOS QUE OBREN EN LA CAUSA, DECLAREN QUE LA MUERTE FUE RESULTADO DE LAS LESIONES INFERIDAS.
 
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+ARTICULO 309 BIS.- SE CONSIDERA QUE LA PERDIDA DE LA VIDA OCURRE CUANDO SE PRESENTA MUERTE ENCEFALICA O PARO CARDIACO IRREVERSIBLE, EN LOS TERMINOS DEL ARTICULO 343 DE LA LEY GENERAL DE SALUD.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ENERO DE 1997)</small>
 
 ###### ARTICULO 310.
@@ -8475,7 +8479,7 @@ P.O. 17 DE JUNIO DE 2011.
 
 P.O. 5 DE JULIO DE 2011.
 
-DECRETO NÚMERO 215 POR EL QUE SE REFORMA POR MODIFICACIÓN DEL ARTÍCULO 16 BIS FRACCIÓN I Y POR ADICION DE UN CAPÍTULO IV DENOMINADO "DELITOS CONTRA LAS NIÑAS, NIÑOS Y ADOLESCENTES INGRESADOS A UNA INSTITUCIÓN ASISTENCIAL", DENTRO DEL TÍTULO DÉCIMO OCTAVO, MISMO QUE CONTIENE LOS ARTÍCULOS 363 BIS 4, 363 BIS 5 Y 363 BIS 6, DEL CÓDIGO PENAL PARA EL ESTADO DE NUEVO LEÓN.
+DECRETO NÚMERO 215 POR EL QUE SE REFORMA POR MODIFICACIÓN DEL ARTÍCULO 16 BIS FRACCIÓN I Y POR ADICIÓN DE UN CAPÍTULO IV DENOMINADO "DELITOS CONTRA LAS NIÑAS, NIÑOS Y ADOLESCENTES INGRESADOS A UNA INSTITUCIÓN ASISTENCIAL", DENTRO DEL TÍTULO DÉCIMO OCTAVO, MISMO QUE CONTIENE LOS ARTÍCULOS 363 BIS 4, 363 BIS 5 Y 363 BIS 6, DEL CÓDIGO PENAL PARA EL ESTADO DE NUEVO LEÓN.
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -8522,6 +8526,14 @@ P.O. 15 DE JUNIO DE 2012.
 Primero.- Las reformas al Artículo 287 Bis 2, del Artículo Segundo del presente Decreto, entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 Segundo.- Los Artículos 98 Bis a 98 Bis 5; así como la reforma al Artículo 287 Bis 3 señalados en el Artículo Segundo del presente Decreto; así como las demás disposiciones de los Artículos Primero, Segundo y Tercero del presente Decreto, entrarán en vigor cuando inicie la vigencia de las reformas a la Ley Orgánica del Poder Judicial del Estado de Nuevo León, que establece, las atribuciones de las autoridades jurisdiccionales en la materia.
+
+P.O. 17 DE SEPTIEMBRE DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En los actos y procedimientos administrativos que tengan relación con la materia de este Decreto, que se hubieren iniciado o se inicien antes de que ésta entre en vigor, se sujetarán a las reglas previstas en la Ley vigente al momento de inicio del procedimiento respectivo.
+
+TERCERO.- Los expedientes en trámite relacionados con la materia objeto de este Decreto, se concluirán en lo que beneficie a los interesados en los términos del mismo.
 
 ###### ARTICULO UNICO.
 
