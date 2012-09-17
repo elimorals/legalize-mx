@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-las-y-los-jovenes-para-el-estado-de-chiapas-39511"
 country: "mx"
 rank: "ley"
 publication_date: "2004-04-21"
-last_updated: "2009-09-23"
+last_updated: "2012-09-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39511&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # LEY DE LAS Y LOS JOVENES PARA EL ESTADO DE CHIAPAS
 
-LEY DE LAS Y LOS JOVENES PARA EL ESTADO DE CHIAPAS
+LEY DE LAS Y LOS JÓVENES PARA EL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE LA JUVENTUD PARA EL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 17 DE SEPTIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 21 de abril de 2004.
 
@@ -449,10 +451,20 @@ DE CONFORMIDAD CON LA FRACCION I DEL ARTICULO 42 DE LA CONSTITUCION POLITICA LOC
 
 PABLO SALAZAR MENDIGUCHIA, GOBERNADOR DEL ESTADO.- RUBEN F. VELAZQUEZ LOPEZ, SECRETARIO DE GOBIERNO.- RUBRICAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 23 DE SEPTIEMBRE DE 2009.
 
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE SEPTIEMBRE DE 2012.
+
+Artículo Primero.- La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- Se abroga la Ley de Las y Los Jóvenes para el Estado de Chiapas, publicada en el Periódico Oficial Número 233, de fecha 21 de Abril del 2004, mediante Decreto Número 140, así como todas las reformas de que fue objeto la misma.
+
+Artículo Cuarto.- El Instituto Estatal de la Juventud, propondrá al Ejecutivo del Estado para su expedición, el reglamento de la presente Ley, en un periodo de 90 días contados a partir de la publicación de la misma.
