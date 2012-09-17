@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-350-de-ejecucion-de-sanciones-para-el-estado-de-6567
 country: "mx"
 rank: "ley"
 publication_date: "1992-02-01"
-last_updated: "2006-01-11"
+last_updated: "2012-09-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # LEY NUMERO 350 DE EJECUCION DE SANCIONES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY DE EJECUCION DE SANCIONES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY DE EJECUCIÓN DE SANCIONES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE ENERO DE 2006.
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO SERA DEROGADO POR LOS ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DE LA LEY NÚMERO 573 DE EJECUCIÓN DE SANCIONES Y REINSERCIÓN SOCIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN LA G.O. DEL 17 DE SEPTIEMBRE DE 2012.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el sábado 1 de febrero de 1992.
 
@@ -39,11 +41,11 @@ Al margen un sello con el Escudo Nacional que dice: "Estados Unidos Mexicanos.- 
 
 La Honorable Quincuagésima Quinta Legislatura del Estado Libre y Soberano de Veracruz- Llave, en uso de la facultad que le conceden los artículos 68 fracción I y 71 fracción I, ambos de la Constitución Política del Estado; 47, 49 y 50 de la Ley Orgánica del Poder Legislativo del Estado de Veracruz y 57, 58, 59, 60, 61 y 64 del Reglamento Interior del Poder Legislativo y en nombre del pueblo, expide la siguiente:
 
-> <small>(REFORMADA SU DENOMINACION POR ARTICULO CUARTO TRANSITORIO DEL DECRETO DE REFORMA CONSTITUCIONAL, G.O. 18 DE MARZO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN POR ARTÍCULO CUARTO TRANSITORIO DEL DECRETO DE REFORMA CONSTITUCIONAL, G.O. 18 DE MARZO DE 2003)</small>
 
 LEY N° 350
 
-DE EJECUCION DE SANCIONES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+DE EJECUCIÓN DE SANCIONES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 ## TITULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
@@ -667,7 +669,7 @@ DADA en el salón de sesiones de la H. Legislatura del Estado, en la ciudad de X
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 87 de la Constitución Política del Estado Libre y Soberano de Veracruz- Llave, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Estatal, en la ciudad de Xalapa- Enríquez, Veracruz, a los veintinueve días del mes de enero de mil novecientos noventa y dos. DANTE DELGADO.- Rúbrica.- Gobernador del Estado.- LIC. MIGUEL A. DIAZ PEDROZA.- Rúbrica.- Secretario General de Gobierno.- GERARDO POO ULIBARRI.- Rúbrica.- Secretario de Finanzas y Planeación.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.O. 18 DE MARZO DE 2003.
 
@@ -698,3 +700,13 @@ G.O. 11 DE ENERO DE 2006.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 17 DE SEPTIEMBRE DE 2012.
+
+Artículo Primero. La presente Ley entrará en vigor, previa su publicación en la Gaceta Oficial del estado, al día siguiente de que inicie su vigencia el nuevo Código de Procedimientos Penales, sujetándose a la gradualidad que éste prevea en sus disposiciones.
+
+Artículo Segundo. Se deroga la Ley de Ejecución de Sanciones para el Estado de Veracruz-Llave, publicada en la Gaceta Oficial del estado el 1 de febrero de 1992; así como todas las disposiciones que se opongan a la presente Ley. Las disposiciones reglamentarias derivadas de la Ley que se deroga seguirán aplicándose en lo que no contraríen a las disposiciones de este ordenamiento, en tanto se expide la nueva reglamentación.
+
+Artículo Tercero. El Ejecutivo del Estado expedirá en su oportunidad las disposiciones reglamentarias conducentes.
+
+Artículo Cuarto. La Ley de Ejecución de Sanciones para el Estado de Veracruz-Llave, publicada el 1 de febrero de 1992, seguirá rigiendo en lo conducente y hasta su conclusión los procedimientos iniciados con anterioridad a la vigencia de esta nueva Ley.
