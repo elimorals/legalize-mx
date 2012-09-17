@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-que-regula-la-venta-y-consumo-de-bebidas-39513"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-04-05"
-last_updated: "2006-06-19"
+last_updated: "2012-09-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO QUE REGULA LA VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL MUNICIPIO DE APODACA, NUEVO LEON
 
-REGLAMENTO QUE REGULA LA VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL MUNICIPIO DE APODACA, NUEVO LEON
+REGLAMENTO QUE REGULA LA VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE APODACA, NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JUNIO DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO SIN NÚMERO DEL R. AYUNTAMIENTO DEL MUNICIPIO DE APODACA, NUEVO LEÓN, PUBLICADO EN EL P.O. 17 DE SEPTIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 5 de abril de 2004.
 
@@ -47,7 +49,7 @@ Las disposiciones del presente reglamento, son de orden público e interés soci
 
 La venta de bebidas alcohólicas, solo podrá realizarse en los establecimientos o lugares que señala este reglamento, previa autorización de la autoridad correspondiente, mediante la licencia o permiso respectivo.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO DE REFORMAS PUBLICADO EN EL PERIODICO OFICIAL DE 19 DE JUNIO DE 2006, EL PRESENTE ARTICULO ES MODIFICADO EN CUANTO A SU ESTRUCTURA, SIN EMBARGO EN LA PAGINA ELECTRONICA WWW.E-APODACA.GOB.MX APARECE UN TEXTO DIFERENTE AL PUBLICADO EN EL DECRETO, QUEDANDO INTEGRADO DE LA SIGUIENTE FORMA.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO DE REFORMAS PUBLICADO EN EL PERIÓDICO OFICIAL DE 19 DE JUNIO DE 2006, EL PRESENTE ARTÍCULO ES MODIFICADO EN CUANTO A SU ESTRUCTURA, SIN EMBARGO EN LA PÁGINA ELECTRÓNICA WWW.E-APODACA.GOB.MX APARECE UN TEXTO DIFERENTE AL PUBLICADO EN EL DECRETO, QUEDANDO INTEGRADO DE LA SIGUIENTE FORMA.</small>
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2006)</small>
 
@@ -877,7 +879,7 @@ LIC. BENITO CABALLERO GARZA
 
 Secretario Del R. Ayuntamiento
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 19 DE JUNIO DE 2006.
 
@@ -896,3 +898,13 @@ A partir de la entrada en vigor del presente reglamento los dueños de los estab
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas aquellas disposiciones legales que contravengan a lo que se establece en el presente Reglamento.
+
+P.O. 17 DE SEPTIEMBRE DE 2012.
+
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN VIGENTE.
+
+DEBIDO A SU IMPORTANCIA, SE TRANSCRIBE EL ACUERDO PUBLICADO EN EL PERIÓDICO OFICIAL DE FECHA 17 DE SEPTIEMBRE DE 2012.
+
+PRIMERO.- Que se apruebe abrogar el Reglamento de que regula la venta y consumo de bebidas alcohólicas en el Municipio de Apodaca, Nuevo León; publicado en el Periódico Oficial del Estado el 5 de Abril de 2004 y con su última reforma el 19-diecinueve de junio de 2006-dos mil seis.
+
+SEGUNDO.- Que se giren instrucciones para que se publique en el Periódico Oficial del Estado, para efectos procedentes.
