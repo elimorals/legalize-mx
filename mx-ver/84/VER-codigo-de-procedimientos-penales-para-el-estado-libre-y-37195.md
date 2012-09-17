@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-penales-para-el-estado-libre-y-37195"
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2011-08-29"
+last_updated: "2012-09-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "VER"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE ABRIL DE 2013 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE AGOSTO DE 2011.
+CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO SERA DEROGADO EN FORMA GRADUAL POR LOS ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL CÓDIGO NÚMERO 574 DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADO EN LA G.O. DEL 17 DE SEPTIEMBRE DE 2012, EN LOS DIFERENTES DISTRITOS JUDICIALES QUE SE SEÑALAN AL RESPECTO, EN LAS FECHAS CORRESPONDIENTES AL 11 DE MAYO DE 2014 Y 11 DE MAYO DE 2015, RESPECTIVAMENTE.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE SEPTIEMBRE DE 2012.
 
 Código publicado en el Alcance a la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -3346,3 +3350,15 @@ G.O. 29 DE AGOSTO DE 2011.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTOS TRANSITORIOS, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE ABRIL DE 2013 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+G.O. 17 DE SEPTIEMBRE DE 2012.
+
+Primero. El presente Código entrará en vigor el día once de mayo del año dos mil trece en los Distritos Judiciales siguientes: Décimo, Decimoprimero, Decimosegundo y Decimocuarto, con cabeceras en los municipios de Jalacingo, Xalapa, Coatepec y Córdoba, respectivamente, y en forma gradual en los demás Distritos Judiciales del Estado, conforme al orden siguiente: el día once de mayo del año dos mil catorce, en los Distritos Primero, Segundo, Tercero, Cuarto, Quinto, Sexto, Séptimo, Octavo y Noveno, con cabeceras en los municipios de Pánuco, Ozuluama, Tantoyuca, Huayacocotla, Chicontepec, Tuxpan, Poza Rica de Hidalgo, Papantla y Misantla, respectivamente; y el día once de mayo del año dos mil quince, en los Distritos Decimotercero, Decimoquinto, Decimosexto, Decimoséptimo, Decimoctavo, Decimonoveno, Vigésimo y Vigésimo Primero, con cabeceras en los municipios de Huatusco, Orizaba, Zongolica, Veracruz, Cosamaloapan, San Andrés Tuxtla, Acayucan y Coatzacoalcos, respectivamente.
+
+Segundo. A partir de la entrada en vigor de este ordenamiento en cada uno de los distritos judiciales quedará derogado el Código Número 590 de Procedimientos Penales para el Estado Libre y Soberano de Veracruz de Ignacio de la Llave, publicado en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave, el 7 de noviembre de 2003, asimismo se derogan todas las disposiciones de igual o menor rango que se opongan a este Código.
+
+Tercero. Los procedimientos penales iniciados con anterioridad a la entrada en vigor del presente código en cada distrito, serán concluidos conforme a las disposiciones vigentes con anterioridad a dicha entrada en vigor.
+
+Cuarto. En tanto se emita la ley en materia de mecanismos alternativos de solución de controversias, se continuará aplicando el ordenamiento vigente en dicha materia.
