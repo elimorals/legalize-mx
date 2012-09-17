@@ -4,7 +4,7 @@ identifier: "CHP-ley-del-instituto-de-seguridad-social-de-los-trabajadores-4225"
 country: "mx"
 rank: "ley"
 publication_date: "1981-08-26"
-last_updated: "1989-05-31"
+last_updated: "2012-09-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DEL INSTITUTO DE SEGURIDAD SOCIAL DE LOS TRABAJADORES DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 1989
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Chiapas, el miércoles 26 de agosto de 1981.
 
@@ -239,29 +239,41 @@ El sueldo básico que se tomará en cuenta para los efectos de esta Ley se integ
 
 El sueldo básico en la forma expuesta estará sujeto a las cotizaciones establecidas en esta Ley y el mismo se tomará en cuenta para determinar el monto de las prestaciones que la misma establece.
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTICULO 22.
 
-Todo asegurado comprendido en el artículo 5 de este ordenamiento, deberá cubrir al Instituto una cuota obligatoria del 8% del sueldo básico que disfrute.
+Todo asegurado comprendido en el Artículo 5°, de este ordenamiento, deberá cubrir al Instituto una cuota obligatoria del 8% del sueldo básico que disfrute.
 
 Dicha cuota se aplicará en la forma siguiente:
 
-I.- 3% para cubrir los seguros por enfermedades no profesionales y de maternidad.
+I. 3.5% para cubrir los seguros por enfermedades no profesionales y de maternidad.
 
-II.- 5% para tener derecho a las prestaciones señaladas en las fracciones I a III, V, VI y IX al XVI del artículo 7.
+II. 3% para cubrir los seguros y prestaciones señalados en las fracciones IX, X, XI, XII, XIII, XIV, XV, y XVI del artículo 7°.
+
+III. 0.25% para cubrir las prestaciones señaladas en las fracciones I, II, III, V y VI del artículo 7°.
+
+IV. 1.25% para cubrir los gastos generales de administración; siendo éstos aquellos gastos que no estén estrictamente relacionados con el otorgamiento de algún seguro o prestación.
 
 ###### ARTICULO 23.
 
 Los asegurados que desempeñen dos o más empleos en las Dependencias a que se refiere al artículo 5 de esta Ley, cubrirán sus cuotas sobre la totalidad de los sueldos básicos que tengan asignados.
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTICULO 24.
 
-El Gobierno del Estado, los Municipios y los Organismos Públicos incorporados cubrirán al Instituto, como aportaciones, los siguientes porcentajes sobre los equivalentes al sueldo básico de los asegurados:
+El gobierno del Estado, los municipios y los Organismos Públicos incorporados cubrirán al Instituto, como aportaciones, los siguientes porcentajes
 
-I.- 7% para cubrir los seguros por enfermedades no profesionales y de maternidad;
+Sobre los equivalentes al sueldo básico de los asegurados.
 
-II.- 0.75% para cubrir íntegramente el seguro de riesgos de trabajo;
+I. 8% para cubrir los seguros por enfermedades no profesionales y de maternidad, además de los servicios médicos originados por riesgos de trabajo.
 
-III.- 5% para cubrir las prestaciones señaladas en las fracciones I a III, V, VI y IX al XVI del artículo 7.
+II. 8.25% para cubrir los seguros y prestaciones señalados en las fracciones IX, X, XI, XII, XIII, XIV, XV, y XVI del artículo 7°; así como las pensiones del Seguro de Riesgo de Trabajo.
+
+III. 0.25% para cubrir las prestaciones señaladas en las fracciones I, II, III, V y VI del artículo 7°.
+
+IV. 1.25% para cubrir los gastos generales de administración; siendo éstos aquellos gastos que no estén estrictamente relacionados con el otorgamiento de algún seguro o prestación.
 
 ###### ARTICULO 25.
 
@@ -649,7 +661,7 @@ Se considerarán enfermedades profesionales las señaladas por la Ley Federal de
 
 ###### ARTICULO 77.
 
-Las prestaciones que concede este capítulo serán cubiertas íntegramente con cargo a la aportación que señale la fracción II del artículo 24, de esta Ley.
+(DEROGADO, P.O. 17 DE SEPTIEMBRE DE 2012)
 
 ###### ARTICULO 78.
 
@@ -1233,7 +1245,7 @@ Las votaciones de la Junta Directiva se tomarán por mayoría de votos de los co
 
 Los acuerdos de la Junta Directiva por los cuales se concedan y modifiquen las pensiones a que esta Ley se refiere, serán sancionados por el C. Gobernador del Estado. Las demás resoluciones de la Junta Directiva que nieguen, suspendan, revoquen o anulen las pensiones, que afecten intereses particulares, se recurrirán ante la misma, dentro de los 15 días siguientes de que se haya tenido conocimiento de la resolución.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 1989)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 1989)</small>
 
 ###### ARTICULO 151.
 
@@ -1591,7 +1603,7 @@ Dado en el Salón de Sesiones del Palacio del H. Poder Legislativo del Estado, e
 
 De conformidad con la Fracción I del Artículo 47 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en el Palacio del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los veinticinco días del mes de agosto de mil novecientos ochenta y uno. El Gobernador del Estado.- Juan Sabines Gutiérrez.- (Rúbrica).- El Secretario General de Gobierno.- Dr. Enoch Cancino Casahonda.- (Rúbrica).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 31 DE MAYO DE 1989.
 
@@ -1602,3 +1614,9 @@ Este decreto entrará en vigor al día siguiente de su publicación en el Perió
 ###### ARTICULO SEGUNDO.
 
 Todas las funciones que como Presidente de la Junta Directiva otorga esta Ley al Director General, se cancelan por virtud de la reforma del artículo 140, quedando como facultades del Presidente de la Junta.
+
+P.O. 17 DE SEPTIEMBRE DE 2012.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se Derogan todas las disposiciones que se opongan al presente Decreto.
