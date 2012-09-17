@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-del-poder-legislativo-del-estado-de-campeche-89303
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-08-17"
-last_updated: "2012-08-17"
+last_updated: "2012-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CAM"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE CAMPECHE
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE SEPTIEMBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CAMPECHE
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 17 DE SEPTIEMBRE DE 2012.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 17 de agosto de 2012.
 
@@ -217,8 +217,6 @@ III. Llamar al orden al presidente, ya por sí o a excitativa de alguno de los d
 
 IV. Las demás que le señalen esta ley y otras disposiciones legales y reglamentarias.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE SEPTIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Art. 20.
 
 Son atribuciones del primer secretario:
@@ -231,7 +229,9 @@ III. Extender las actas de las sesiones y firmarlas en unión del presidente y d
 
 IV. Remitir por oficio a las presidencias de las comisiones de dictamen legislativo las iniciativas que el presidente de la Mesa Directiva ordene se les turne;
 
-V. Firmar la correspondencia y demás comunicaciones de mero trámite del Congreso pudiendo delegar esta atribución en el Secretario Parlamentario del Congreso;
+> <small>(F. DE E., P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+V. Firmar la correspondencia y demás comunicaciones de mero trámite del Congreso pudiendo delegar esta atribución en el Secretario General del Congreso;
 
 VI. Registrar y controlar el número de iniciativas en estudio por las comisiones de dictamen legislativo, informando al presidente con toda oportunidad;
 
@@ -1323,11 +1323,11 @@ Capítulo Decimoquinto
 
 De la Secretaría General del Congreso
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE SEPTIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 17 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Art. 123.
 
-La Secretaría General del Congreso es el órgano de apoyo parlamentario, técnico y administrativo de aquél en las áreas jurídica, administrativa y financiera. Su titular recibirá la denominación de Secretario Parlamentaria (sic) del Congreso y su estructura se integrará con:
+La Secretaría General del Congreso es el órgano de apoyo parlamentario, técnico y administrativo de aquél en las áreas jurídica, administrativa y financiera. Su titular recibirá la denominación de Secretario General del Congreso y su estructura se integrará con:
 
 I. La Subsecretaría de Servicios Parlamentarios; y
 
@@ -1445,8 +1445,6 @@ Del Instituto de Estudios Legislativos
 
 Arts. 132.- El Instituto de Estudios Legislativos del Congreso del Estado será el órgano de apoyo que tendrá a su cargo tareas de investigación jurídica y legislativa. Este órgano estará dotado de autonomía técnica, operativa, presupuestal y de gestión para el eficaz cumplimiento de sus atribuciones.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE SEPTIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Art. 133.
 
 Serán atribuciones del Instituto:
@@ -1481,7 +1479,9 @@ XIV. Difundir en el ámbito de su competencia los resultados de los estudios que
 
 XV. Organizar, dirigir y custodiar la Biblioteca del Poder Legislativo;
 
-XVI. Organizar, dirigir y custodiar el Archivo del Poder Legislativo; y
+> <small>(F. DE E., P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+XVI. Organizar, dirigir y custodiar el Archivo del propio Instituto; y
 
 XVII. Las demás que le encomienden otras leyes y reglamentos del orden jurídico estatal.
 
@@ -1551,8 +1551,6 @@ De la Contraloría Interna
 
 La Contraloría Interna del Congreso, es el órgano de apoyo que tiene a su cargo ejercer, dentro del ámbito del Poder Legislativo del Estado, las atribuciones que la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado de Campeche confiere a los órganos internos de control, así como las que para la Secretaría de la Contraloría de la Administración Pública del Estado de Campeche establece la legislación en materia de obras públicas y de adquisiciones, arrendamientos y prestación de servicios en bienes muebles. Dentro de sus funciones se encontrará la de revisar la aplicación de los recursos que se otorguen a los Grupos Parlamentarios así como a los diputados que no estén integrados a alguno de esos grupos.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE SEPTIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Art. 142.
 
 La Contraloría Interna del Congreso, se integrará con:
@@ -1563,7 +1561,9 @@ II. Un Director de Normatividad y Control;
 
 III. Un Director de Auditoría; y
 
-I (sic). El demás personal técnico y administrativo que requiera la Contraloría para su funcionamiento y permita la correspondiente previsión presupuestal, conforme a lo que se disponga en los Manuales de Organización y de Procedimientos de la Contraloría Interna, cuya elaboración corresponderá a su titular y su aprobación a la Junta de Gobierno y Administración.
+> <small>(F. DE E., P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+IV. El demás personal técnico y administrativo que requiera la Contraloría para su funcionamiento y permita la correspondiente previsión presupuestal, conforme a lo que se disponga en los Manuales de Organización y de Procedimientos de la Contraloría Interna, cuya elaboración corresponderá a su titular y su aprobación a la Junta de Gobierno y Administración.
 
 ###### Art. 143.
 
