@@ -4,7 +4,7 @@ identifier: "CHP-codigo-penal-para-el-estado-de-chiapas-55156"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-03-14"
-last_updated: "2012-03-07"
+last_updated: "2012-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55156&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2012.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 14 de marzo de 2007.
 
@@ -1919,6 +1919,12 @@ Cuando la omisión en el cumplimiento de obligaciones de asistencia familiar o l
 
 Esta agravación de la pena, no tendrá lugar cuando se haya decretado la extinción de la acción penal en virtud del cumplimiento constante del sujeto activo por el término de dos años, según lo dispone el artículo 195.
 
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 197 Bis.
+
+Tratándose de los delitos previstos en los artículos 191 y 193, el Juez deberá de ordenar el registro del Deudor Alimentario Moroso, en el Registro de Deudores Alimentarios del Estado de Chiapas.
+
 ### Capítulo III. Asalto
 
 ###### Artículo 198.
@@ -3163,6 +3169,10 @@ II. Por sí o por terceros haga uso de violencia psicológica o física, intimid
 
 III. Para disimular su actividad usuraria suscriba títulos de crédito, si no media otra causa que justifique su existencia.
 
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+Artículo 320 Sextus.- Para la persecución de los delitos previstos en el presente Título, en lo conducente se estará a lo previsto por el artículo 36 Bis de la Ley de Fiscalización Superior del Estado de Chiapas.
+
 ## Título Undécimo. Delitos Contra las Facultades del Estado Para Fijar los Límites de Crecimiento y Linderos de los Centros de Población
 
 ### Capítulo IV. Atentados Contra la Paz y la Integridad Corporal y Patrimonial de la Colectividad y del Estado
@@ -4315,6 +4325,12 @@ III.- Cuando el monto a que asciende el enriquecimiento ilícito exceda de cinco
 
 En lo conducente, se aplicará a este capítulo lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas.
 
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 434 Bis.
+
+Para la persecución de los delitos previstos en el presente Título, en lo conducente se estará a lo dispuesto por el artículo 36 Bis de la Ley de Fiscalización Superior del Estado de Chiapas.
+
 ## Título Vigésimo. Delitos Contra la Salud
 
 ###### Artículo 435.
@@ -4779,6 +4795,12 @@ La pena prevista en el párrafo primero, será aumentada en una mitad cuando la 
 
 Para efectos de este artículo se entiende que son producto de una actividad ilícita los recursos, derechos o bienes de cualquier naturaleza, cuando existan indicios fundados o certeza de que provienen directa o indirectamente, o representan las ganancias derivadas de la comisión de algún delito aunque no se haya dictado aún sentencia respecto del mismo, y no pueda acreditarse su legítima procedencia.
 
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 478 Bis.
+
+Para la persecución de los delitos previstos en el presente Título, en lo conducente se estará a lo dispuesto por el artículo 36 Bis de la Ley de Fiscalización Superior del Estado de Chiapas.
+
 ## Título Vigésimo Séptimo. Delitos en Contra de los Símbolos Patrios o Valores Históricos del Estado
 
 ###### Artículo 479.
@@ -5144,3 +5166,23 @@ P.O. 7 DE MARZO DE 2012.
 Artículo Primero.- El presente Decreto entrará en vigor a los dos días posteriores a su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE SEPTIEMBRE DE 2012.
+
+DECRETO NÚMERO 331 POR EL QUE SE ADICIONA EL ARTÍCULO 197 BIS AL CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+17 DE SEPTIEMBRE DE 2012.
+
+DECRETO NÚMERO 341 POR EL QUE SE ADICIONAN LOS ARTÍCULOS 320 SEXTUS, 434 BIS Y 478 BIS AL CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- La petición a que se refiere el artículo 36 Bis de la Ley de Fiscalización Superior del Estado de Chiapas, adicionado mediante el presente Decreto, sólo se requerirá en los procedimientos penales que se inicien a partir de la entrada en vigor de éste y no será necesario satisfacer dicho requisito de procedibilidad respecto de aquellos procedimientos penales que hayan sido iniciados con anterioridad a la entrada en vigor del presente Decreto.
+
+Artículo Tercero.- Los procedimientos penales iniciados con anterioridad a la entrada en vigor del presente Decreto, con motivo de las denuncias o querellas formuladas con fundamento en la fracción XXIII del artículo 30 de la Ley Orgánica de la Administración Pública del Estado de Chiapas, continuarán su trámite de acuerdo a dicha disposición vigente antes de la entrada en vigor de este Decreto.
+
+Artículo Cuarto.- Se derogan todas las disposiciones legales que contravengan lo dispuesto en el presente Decreto.
