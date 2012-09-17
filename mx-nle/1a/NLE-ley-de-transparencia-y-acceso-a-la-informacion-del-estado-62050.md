@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-transparencia-y-acceso-a-la-informacion-del-estado-62050
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-19"
-last_updated: "2011-08-05"
+last_updated: "2012-09-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62050&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION DEL ESTADO DE NUEVO LEON
 
-LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION DEL ESTADO DE NUEVO LEON
+LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN DEL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial en el Estado de Nuevo León, el sábado 19 de julio de 2008.
 
@@ -95,6 +95,10 @@ Sujetos obligados: cualquier autoridad, dependencia, unidades administrativas, e
 
 Versión pública: documento en que se testa o elimina la información clasificada como reservada o confidencial para permitir su acceso.
 
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+Datos sensibles.- Cualquier dato enunciado en el Artículo 79 de la presente Ley, bajo el nivel alto de seguridad, incluyendo cualquier otro que revele cuestiones íntimas de la persona de similar naturaleza.
+
 ###### Artículo 3.
 
 Son objetivos de esta Ley:
@@ -119,9 +123,15 @@ Salvo la información confidencial, toda la información en posesión de los suj
 
 Los sujetos obligados en ningún caso podrán negar el acceso a la información estableciendo causales distintas a las señaladas en esta Ley.
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 5.
 
-Respecto a la información pública a que se refiere esta Ley, los sujetos obligados deberán observar, tanto en su aplicación como en su interpretación, el principio de máxima publicidad. Para este efecto, en caso de duda razonable sobre la clasificación de la información reservada, deberá optarse por su publicidad, y siempre que sea posible, por la preparación de versiones públicas de los documentos clasificados.
+El derecho de acceso a la información pública y la protección de datos personales se interpretará conforme a la Constitución Política de los Estados Unidos Mexicanos; los tratados internacionales suscritos y ratificados por el Estado Mexicano, la Constitución Política del Estado Libre y Soberano de Nuevo León y la interpretación que de dichos tratados hayan realizado los órganos especializados.
+
+En la interpretación de esta Ley, deberá favorecer el principio de máxima publicidad de la información pública en posesión de los sujetos obligados.
+
+Para este efecto, en caso de duda razonable sobre la clasificación de la información reservada, deberá optarse por su publicidad, y siempre que sea posible, por la preparación de versiones publicas de los documentos clasificados.
 
 ### Capítulo Segundo. De los sujetos obligados
 
@@ -177,7 +187,9 @@ Los particulares, ya se trate de personas físicas o morales, y aquellas que por
 
 Salvo la información reservada o confidencial prevista en esta Ley, los sujetos obligados deberán poner a disposición del público, difundir y actualizar la información pública de oficio a que se refiere este capítulo.
 
-La publicación en Internet de la información contenida en el artículo 10 de la presente Ley deberá de difundirse durante los siguientes treinta días naturales, a partir de la fecha en que se generó la misma, señalando la fecha de su actualización y deberá permanecer en los portales oficiales cuando menos por un periodo de un año contado a partir de su publicación, concluido ese término deberá encontrarse disponible para su consulta ante los sujetos obligados.
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+La publicación en Internet de la información contenida en los Artículos 10, 11, 12, 13, 14, 16, 17, 18 y 19 de la presente Ley deberá de difundirse durante los siguientes treinta días naturales, a partir de la fecha en que se generó la misma, señalando la fecha de su actualización y deberá permanecer en los portales oficiales cuando menos por un período de un año contado a partir de su publicación, concluido ese término deberá encontrarse disponible para su consulta ante los sujetos obligados.
 
 ###### Artículo 10.
 
@@ -191,9 +203,9 @@ III.- El directorio de los servidores públicos, desde el nivel de jefe de depar
 
 La fotografía solo será publicada cuando medie el consentimiento expreso del servidor público, las de aquellos que realizan funciones relacionadas con la seguridad pública, la procuración y administración de justicia, así como los de ejecución de penas no será publicada;
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
 
-IV.- La calendarización de las reuniones públicas de los diversos consejos, órganos colegiados, gabinetes, cabildos, sesiones plenarias, comisiones legislativas y sesiones de trabajo a que se convoquen. Para las reuniones ya celebradas, se deberán difundir, en un plazo no mayor a 30 días naturales posteriores a su realización, las correspondientes minutas o actas de dichas reuniones y sesiones, así como las listas de asistencia de sus integrantes;
+IV.- La calendarización de las reuniones públicas de los diversos consejos, órganos colegiados, gabinetes, cabildos, sesiones plenarias, comisiones legislativas y sesiones de trabajo a que se convoquen. Para las reuniones y sesiones ya celebradas, se deberán difundir, en un plazo no mayor a 30 días naturales posteriores a su realización, las correspondientes minutas o actas de dichas reuniones y sesiones, así como las listas de asistencia de sus integrantes;
 
 V.- Una relación de los servidores públicos comisionados por cualquier causa, incluso de carácter sindical, indicando el objeto, lugar y duración de la Comisión;
 
@@ -225,13 +237,17 @@ XVI.- La base normativa relacionada a los subsidios, estímulos y apoyos con car
 
 XVII.- La relación mensual de autorizaciones, permisos, licencias y concesiones que se hayan otorgado, en el que se involucre el aprovechamiento de bienes, servicios o recursos públicos;
 
-XVIII.- El padrón de proveedores;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+XVIII.- El padrón de proveedores, que deberá contener cuando menos nombre o razón social del proveedor, su giro y domicilio;
 
 XIX.- Las sentencias ejecutoriadas dictadas con motivo de las controversias entre poderes públicos, en que esté involucrado alguno de los sujetos obligados del Estado de Nuevo León; y
 
 XX.- Toda la información relativa a los recursos entregados a personas físicas y morales privadas, así como aquélla relativa al destino que se les dio a esos recursos.
 
-Los sujetos obligados deberán señalar en sus portales de Internet los rubros del presente artículo que no le son aplicables, debidamente fundado y motivado.
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+Los sujetos obligados deberán señalar en sus portales de Internet los rubros del presente Artículo que no le son aplicables, fundando y motivando dicha circunstancia.
 
 ###### Artículo 11.
 
@@ -239,9 +255,13 @@ Además de lo señalado en el artículo 10, el Poder Ejecutivo deberá difundir 
 
 I.- Las estadísticas e indicadores de gestión de la procuración de justicia;
 
-II.- En materia de averiguaciones previas: estadísticas sobre el número de averiguaciones previas en las que se ejerció acción penal, las que se decretó el no ejercicio y en las que se dictó auto de no inicio;
+REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2012)
 
-III.- El listado de expropiaciones por causa de utilidad pública;
+II.- En materia de averiguaciones previas: estadísticas sobre el número de averiguaciones previas en las que se ejerció acción penal, en las que se decretó el no ejercicio y en las que se dictó auto de no inicio;
+
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+III.- El listado de expropiaciones por causa de utilidad pública, debiendo señalar el numero del expediente respectivo, una síntesis de los bienes afectados, el objeto general de la expropiación y las fechas de su publicación en el Periódico Oficial del Estado, conforme resulte aplicable, así como una liga a la página de internet apuntando a este órgano de comunicación oficial;
 
 IV.- Los convenios de coordinación con la Federación, Estados y Municipios y de concertación con los sectores social y privado;
 
@@ -397,9 +417,13 @@ VI.- Una relación de los profesores con licencia.
 
 Además de lo señalado en el artículo 10, la Comisión deberá hacer pública en su portal de Internet la siguiente información:
 
-I.- El resultado de los recursos de revisión interpuestos y las resoluciones emitidas, o en su caso las versiones públicas de las mismas;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
 
-II.- Los estudios realizados por los Comisionados con los cuales apoyen o sustenten la resolución de los recursos de revisión;
+I.- El resultado de los procedimientos de inconformidad interpuestos y las resoluciones emitidas, o en su caso las versiones públicas de las mismas;
+
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+II.- Los estudios realizados por los Comisionados con los cuales apoyen o sustenten la resolución de los procedimientos de inconformidad;
 
 III.- En su caso, los procedimientos judiciales en los cuales la Comisión sea parte;
 
@@ -427,7 +451,9 @@ a) De licitaciones públicas o por invitación:
 
 2. Los participantes o invitados;
 
-3. El nombre del ganador y las razones que lo justifican;
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+3. El nombre del ganador y las razones que lo justifican, así como el presupuesto ganador;
 
 4. La unidad administrativa solicitante y la responsable de su ejecución;
 
@@ -441,7 +467,9 @@ b) De las adjudicaciones directas:
 
 2. En su caso, las cotizaciones consideradas;
 
-3. El nombre de la persona adjudicada;
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+3. El nombre de la persona adjudicada, así como el presupuesto propuesto;
 
 4. La unidad administrativa solicitante y la responsable de su ejecución;
 
@@ -473,15 +501,27 @@ g) Fundaciones; y
 
 h) Cualquier institución pública del Estado.
 
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+El acceso a esta información se regirá por lo dispuesto en el Título Cuarto, Capítulo Primero de la presente Ley, atendiendo el plazo preferencial dispuesto para su entrega, contenido en el Artículo 117 de la misma.
+
 ###### Artículo 21.
 
 Los sujetos obligados deberán tener en la página de inicio de sus portales de Internet una indicación claramente visible que señale el sitio donde se encuentre la información a la que se refiere este Capítulo. Adicionalmente deberán utilizar un lenguaje claro, accesible y que facilite su comprensión por parte de los usuarios. Además las páginas deberán contar con buscadores temáticos y disponer de un respaldo con todos los registros electrónicos para cualquier persona que los solicite.
 
 Así mismo deberán fomentar la publicación de información útil para la sociedad tales como servicios públicos y trámites.
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 22.
 
-En cada uno de los rubros de información pública señalados en los artículos que anteceden, deberá indicar el área responsable de generar la información.
+En cada uno de los rubros de información pública de oficio que los sujetos obligados deben publicar en internet, señalados en los Artículos que anteceden, se deberá indicar el área responsable de generar la información.
+
+Así mismo, se deberá indicar el área responsable de generar la Leyenda que funda y motiva la no aplicabilidad del rubro de que se trate.
+
+En caso de que el sujeto obligado tuviere atribuciones, pero no hubiere generado a esa fecha la información, se deberá igualmente señalar el área responsable de generar la Leyenda.
+
+Las hipótesis contempladas en este Artículo deberán señalar la fecha de actualización de las Leyendas, que deberá regirse por el plazo señalado para tal efecto en el Artículo 9 de la presente Ley.
 
 ###### Artículo 23.
 
@@ -705,7 +745,9 @@ El monto de los derechos correspondientes deberán estar establecidos en la norm
 
 Toda persona tiene derecho a la protección de su vida privada y de sus datos personales e información relacionada con los mismos, la cual será custodiada, protegida, manejada y en su caso rectificada en los términos de la presente Ley.
 
-Los sujetos obligados al tratar los sistemas de datos deberán observar los principios de consentimiento, información previa, finalidad, licitud, calidad de la información, confidencialidad y seguridad, así como garantizar el ejercicio de los derechos de acceso, rectificación, corrección y oposición de los titulares de los datos personales o sus legítimos representantes.
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+Los sujetos obligados al tratar los sistemas de datos deberán observar los principios de consentimiento, información previa, finalidad, licitud, calidad de la información, confidencialidad y seguridad, proporcionalidad, máxima privacidad y responsabilidad, así como garantizar el ejercicio de los derechos de acceso, rectificación, cancelación y oposición de los titulares de los datos personales o sus legítimos representantes.
 
 ###### Artículo 44.
 
@@ -725,11 +767,53 @@ Tratamiento de datos personales: cualquier operación o conjunto de operaciones,
 
 Transmisión: Toda comunicación o cesión de datos personales a una persona distinta del interesado. No se considerará como tal la efectuada por el responsable al encargado de los datos personales.
 
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+Aviso de Privacidad.- Documento físico, electrónico o en cualquier otro formato, generado por el responsable, que es puesto a disposición del interesado, previo al tratamiento de sus datos personales.
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+Calidad de la información.- Principio por el que el sujeto obligado dará tratamiento a los datos personales cuando sean adecuados, pertinentes y no excesivos en relación con el ámbito y la finalidad para los que se hubieren obtenido.
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+Confidencialidad.- El deber relacionado con la protección de datos personales, que consiste en garantizar que exclusivamente las personas autorizadas para su tratamiento en términos de la Ley, así como el propio interesado, podrán acceder a los datos personales que obren en poder del sujeto obligado
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+Máxima Privacidad.- Principio rector de la protección del dato personal, por el cual los sujetos obligados tendrán como máxima prioridad proteger y resguardar la intimidad y privacidad de los datos personales, que se encuentran bajo su resguardo.
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+Información Previa.- Principio que consiste en dar a conocer al interesado la información relativa a la existencia y características principales del tratamiento a que serán sometidos sus datos personales, el cual se cumple a través de los avisos de privacidad, de conformidad con lo previsto en la Ley.
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+Licitud.- Principio que consiste en que el tratamiento de datos personales debe realizarse exclusivamente por los sujetos obligados que cuenten con atribuciones legales, reglamentarias o normativas para tal efecto, debiendo obtenerlos a través de los medios previstos en dichas disposiciones.
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+Finalidad.- Principio que consiste en que los sujetos obligados sólo deberán utilizar los datos personales para el fin u objetivo para el cual fueron recabados y tratados los mismos.
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+Proporcionalidad.- Principio que establece que sólo podrán ser objeto de tratamiento los datos personales que resulten necesarios, adecuados y relevantes en relación con las finalidades para las que se hayan obtenido.
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+Responsabilidad.- Principio que consiste en que el responsable tienen la obligación de velar y responder por el tratamiento de los datos personales que se encuentren bajo su custodia o posesión, o por aquéllos que haya comunicado a un encargado o tercero; valiéndose para ello de los estándares señalados en la presente Ley y los que se establezcan en el documento de seguridad por el sujeto obligado competente.
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+Seguridad.- El deber de todo responsable y encargados de llevar a cabo el tratamiento de datos personales manteniendo y garantizando las medidas de seguridad administrativas, técnicas y físicas establecidas en el documento de seguridad, que permitan proteger los datos personales contra daño, pérdida, alteración, destrucción o el uso, acceso o tratamiento no autorizado.
+
 ###### Artículo 45.
 
 El tratamiento de los datos personales requerirá el consentimiento expreso de su titular, salvo las excepciones señaladas en esta Ley o en otra disposición legal.
 
-El consentimiento a que se refiere este artículo podrá ser revocado cuando exista causa justificada para ello y no se le atribuyan efectos retroactivos.
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+El consentimiento deberá otorgarse siempre de manera libre, inequívoca, específica e informada. El mismo podrá ser revocado por el Titular del Dato Personal, sin que se le atribuyan efectos retroactivos.
 
 Los sujetos obligados no podrán difundir o transmitir los datos personales contenidos en los sistemas de datos desarrollados en el ejercicio de sus funciones, salvo que haya mediado el consentimiento expreso de los interesados a que haga referencia la información. Al efecto, el sujeto obligado contará con los formatos necesarios para recabar dicho consentimiento, pudiendo utilizarse en su caso medios electrónicos.
 
@@ -749,7 +833,9 @@ IV.- Los datos figuren en fuentes de acceso público y se requiera su tratamient
 
 Los sujetos obligados que soliciten datos personales deberán informar al interesado de manera expresa y clara lo siguiente:
 
-I.- Que sus datos se incorporarán a un sistema de datos personales, su finalidad y destinatarios;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+I.- Que sus datos se incorporarán a un sistema de datos personales, sus destinatarios y la finalidad del tratamiento;
 
 II.- Del carácter obligatorio o facultativo de la entrega de los datos personales;
 
@@ -761,9 +847,17 @@ V.- De la posibilidad de ejercitar los derechos de acceso, rectificación, cance
 
 VI.- Del cargo y dirección del responsable.
 
-Cuando se utilicen cuestionarios u otros impresos para la obtención, figurarán en los mismos, en forma claramente legible, las advertencias a que se refiere el presente artículo. No será necesaria la información a que se refieren las fracciones I, III, IV y V, si el contenido de ella se deduce claramente de la naturaleza de los datos personales que se solicitan o de las circunstancias en que se obtienen.
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
 
-Cuando los datos personales no hayan sido obtenidos del interesado, el responsable del sistema de datos personales deberá dar a conocer el aviso de privacidad, a través de mecanismos impresos, sonoros, visuales, electrónicos o cualquier otro, dentro de los tres meses siguientes al momento del registro de los datos, salvo que exista constancia que el interesado ya fue informado del contenido de las fracciones I, IV, V y VI del presente artículo.
+Cuando se utilice cuestionarios u otros impresos o medios electrónicos para la obtención, figurarán en los mismos, en forma claramente legible, las advertencias a que se refiere el presente Artículo. No será necesaria la información a que se refieren las fracciones I, III, IV y V, si el contenido de ella se deduce claramente de la naturaleza de los datos personales que se solicitan o de las circunstancias en que se obtienen.
+
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+Cuando los datos personales no hayan sido obtenidos del interesado, el responsable del sistema de datos personales deberá dar a conocer el aviso de privacidad, a través de mecanismos impresos, sonoros, visuales, electrónicos o cualquier otro, dentro de los tres meses siguientes al momento del registro de los datos, salvo que exista constancia de que el interesado ya fue informado del contenido de las fracciones I, IV, V y VI del presente Artículo.
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+Artículo 47 bis.- El responsable deberá cumplir con los principios de protección de datos establecidos por este capítulo, adoptando las medidas necesarias para su aplicación. Lo anterior aún y cuando estos datos fueren tratados por un tercero a solicitud del sujeto obligado. El responsable deberá tomar las medidas necesarias y suficientes para garantizar que el aviso de privacidad dado a conocer al Titular del dato, será respetado en todo momento por él o por los terceros a los que les solicite el tratamiento de los datos como los que guarde alguna relación jurídica.
 
 ###### Artículo 48.
 
@@ -781,11 +875,23 @@ Los datos de carácter personal no podrán usarse para finalidades distintas a a
 
 Los datos de carácter personal serán exactos. Los sujetos obligados deberán actualizarlos de forma que respondan con veracidad a la situación actual del interesado.
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 51.
 
-El responsable deberá garantizar el manejo confidencial de los datos personales, por lo que no podrán divulgarse o transmitirse salvo por disposición legal, o cuando medie el consentimiento del titular.
+El responsable deberá garantizar el manejo confidencial de los datos personales, por lo que no podrán divulgarse o transmitirse salvo por disposición legal, o cuando medie el consentimiento expreso del titular.
 
-Los responsables sólo podrán transmitir los sistemas de datos personales a terceros particulares siempre y cuando se estipule, en el contrato respectivo, la obligación del tercero de aplicar las medidas de seguridad y custodia previstas en el presente título, así como la imposición de penas convencionales por su incumplimiento.
+Los responsables sólo podrán transmitir los sistemas de datos personales a terceros particulares siempre y cuando se estipule, en el contrato respectivo, la obligación del tercero de aplicar las medidas de seguridad y custodia previstas en el presente título, así como la imposición de penas convencionales por su incumplimiento. Lo anterior, sin perjuicio de las responsabilidades civiles o penales a que hubiere lugar, por el uso inadecuado o la utilización distinta a la finalidad para la cual fueron recabados los datos contenidos en los sistemas de datos personales.
+
+El contrato respectivo, deberá establecer por lo menos, las siguientes cláusulas específicas:
+
+I. La designación y obligación del responsable y de los encargados, de guardar la debida confidencialidad de los datos personales contenidos en el sistema de datos personales;
+
+II. La posibilidad de incurrir en las responsabilidades y sanciones civiles o penales que correspondan por el uso inadecuado de los datos;
+
+III. El nivel o niveles de protección requeridos para los datos de acuerdo con su naturaleza; y
+
+IV. La obligación de permitir verificaciones a las medidas de seguridad adoptadas mediante la inspección de la información y documentación que se estimen necesarias.
 
 ###### Artículo 52.
 
@@ -939,9 +1045,11 @@ La aplicación de estas reglas en materia de seguridad pública seguirán los pr
 
 Los responsables de los sistemas de información en materia tributaria podrán, igualmente, negar el ejercicio de los derechos a que se refiere el artículo anterior cuando el mismo obstaculice las actuaciones administrativas tendientes a asegurar el cumplimiento de las obligaciones en esa materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 79.
 
-Los sujetos obligados deberán elaborar un documento que establezca las medidas de seguridad físicas, técnicas y administrativas adoptadas para cada sistema de datos personales que posean, las cuales garanticen el nivel de seguridad adecuado, de conformidad al tipo de datos contenidos en dichos sistemas y con base en los estándares internacionales de seguridad.
+Los sujetos obligados deberán elaborar un documento que establezca las medidas de seguridad físicas, técnicas y administrativas adoptadas para cada sistema de datos personales que posean, las cuales garanticen el nivel de seguridad adecuado, de conformidad al tipo de datos contenidos en dichos sistemas y con base en los estándares internacionales de seguridad y los previstos en el presente Título.
 
 El documento de seguridad deberá incluir el nombre y cargo de los servidores públicos que intervienen en el tratamiento de datos personales con el carácter de responsable y encargado, en su caso. En el supuesto de actualización de estos datos, la modificación respectiva deberá notificarse a la Comisión, dentro de los diez días siguientes a que se efectuó.
 
@@ -951,7 +1059,9 @@ Las medidas de seguridad deberán establecerse atendiendo a la siguiente clasifi
 
 Los sistemas de datos personales que contienen alguno de los datos que se enuncian a continuación deberán aplicar las medidas de seguridad de nivel básico:
 
-De Identificación: Nombre, domicilio, número de teléfono particular, número de teléfono celular, dirección de correo electrónico, estado civil, firma, firma electrónica, Registro Federal de Contribuyentes, Clave Única de Registro de Población, cartilla militar, lugar y fecha de nacimiento, nacionalidad, edad, nombres de familiares dependientes y beneficiarios, fotografía idioma o lengua, entre otros.
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+De Identificación: Nombre, domicilio, número de teléfono particular, número de teléfono celular, dirección de correo electrónico, estado civil, firma, firma electrónica, Registro Federal de Contribuyentes, Clave Única de Registro de Población, cartilla militar, lugar y fecha de nacimiento, nacionalidad, edad, nombres de familiares dependientes y beneficiarios, imagen, idioma o lengua, entre otros.
 
 Laborales: Documentos de reclutamiento y selección, de nombramiento, de incidencia, de capacitación, puesto, domicilio de trabajo, correo electrónico institucional, teléfono institucional, actividades extracurriculares, referencias laborales, referencias personales, entre otros.
 
@@ -982,6 +1092,60 @@ Características físicas: Color de piel, color de iris, color de cabello, seña
 Vida sexual: Preferencia sexual, hábitos sexuales, entre otros.
 
 Origen: Étnico y racial.
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 79 Bis.
+
+El documento de seguridad deberá contener por lo menos lo siguiente:
+
+I. Respecto de los sistemas de datos personales:
+
+a). El nombre de la base de datos;
+
+b). El nombre, cargo y adscripción del responsable y los encargados de cada sistemas (sic) de datos personales, señalando, en su caso, quiénes son externos;
+
+c). El folio de registro en el sistema desarrollado al efecto por la Comisión;
+
+d). La especificación detallada del tipo de datos personales contenidos; y
+
+e). La estructura y descripción de la base de datos, lo cual consiste en precisar y describir el tipo de soporte, así como las características del lugar donde se resguardan.
+
+II. Respecto de las medidas de seguridad implementadas deberá incluir lo siguiente:
+
+a). Transmisiones;
+
+b). Resguardo de soportes físicos y/o de soportes electrónicos;
+
+c). Bitácoras para acceso y operación cotidiana;
+
+d). Gestión de incidentes;
+
+e). Acceso a las instalaciones;
+
+f). Identificación y autentificación;
+
+g). Procedimientos de respaldo y recuperación de datos;
+
+h). Plan de contingencia;
+
+i). Auditorias; y
+
+j). Cancelación de datos.
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+Artículo 79 bis I.- A efecto de facilitar el ejercicio del presente Titulo, los sujetos obligados deberán informar al órgano garante los documentos de seguridad en versión pública que posean, debiendo indicar, por lo menos lo siguiente:
+
+a). La denominación de los documentos;
+
+b). La normatividad aplicable que dé fundamento al tratamiento;
+
+c). La finalidad del tratamiento;
+
+d). El tipo de datos personales objeto del tratamiento; y
+
+e). La unidad administrativa que la tiene y cargo del responsable.
 
 ## TÍTULO TERCERO. DE LAS INSTITUCIONES RESPONSABLES DEL ACCESO A LA INFORMACIÓN
 
@@ -1063,9 +1227,11 @@ Sin perjuicio de lo establecido en el artículo 83, cada sujeto obligado en el �
 
 ### Capítulo Tercero. De la Comisión
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 87.
 
-La Comisión de Transparencia y Acceso a la Información es un órgano constitucionalmente autónomo, especializado e imparcial, con personalidad jurídica, y patrimonio propio, con autonomía presupuestaria, operativa, de decisión y de gestión, encargado de promover y difundir el ejercicio del derecho de acceso a la información, la protección de datos y resolver sobre los procedimientos de revisión en materia de acceso a la información pública y de datos personales.
+La Comisión de Transparencia y Acceso a la Información es un órgano constitucionalmente autónomo, especializado e imparcial, con personalidad jurídica, y patrimonio propio, con autonomía presupuestaria operativa, de decisión y de gestión, encargado de promover y difundir el ejercicio del derecho de acceso a la información, la protección de datos y resolver sobre el procedimiento de inconformidad en materia de acceso a la información pública y de datos personales.
 
 ###### Artículo 88.
 
@@ -1113,7 +1279,9 @@ Los Comisionados elegirán en sesión plenaria a su Presidente, quien durará en
 
 La Comisión funcionará como órgano colegiado en sesiones ordinarias o extraordinarias. Sus resoluciones se tomarán por unanimidad o por mayoría y sesionarán válidamente con la asistencia de la mayoría de sus integrantes, requiriéndose en todo caso la presencia del Presidente, a excepción hecha de excusa o impedimento de éste.
 
-En caso de no reunirse el quórum necesario para el desarrollo de la Sesión, se deberá realizar una segunda convocatoria, en un plazo que no deberá de exceder de 48 horas para Sesión que deberá llevarse a cabo con al menos 24 horas de diferencia. En este último caso, si no se consiguiera reunir de nueva cuenta el quórum de Ley, bastará con la asistencia de al menos dos Comisionados, requiriéndose en todo caso la presencia del Presidente, a excepción hecha de excusa o impedimento de éste.
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+En caso de no reunirse el quórum necesario para el desarrollo de la Sesión, se deberá realizar una segunda convocatoria para que ésta se lleve a cabo en un plazo que no exceda las 24 horas siguientes. En este último caso, si no se consiguiera reunir de nueva cuenta el quórum de Ley, bastará con la asistencia de al menos dos Comisionados, requiriéndose en todo caso la presencia del Presidente, a excepción hecha de excusa o impedimento de éste.
 
 Las reglas por medio de las cuales se regulará el funcionamiento interno de la Comisión, en lo relativo a las sesiones del Pleno, formas de votación y toma de decisiones, así como la estructura y atribuciones de las áreas administrativas que la componen se contemplarán en el Reglamento Interno que al efecto sea emitido.
 
@@ -1171,9 +1339,11 @@ III.- Cuando hayan sido sentenciados por un delito grave que merezca pena corpor
 
 Por el desempeño de su encargo, los Comisionados percibirán una remuneración equivalente a la de un Juez de Primera Instancia del Poder Judicial del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 101.
 
-Los Comisionados deberán excusarse de conocer los procedimientos de inconformidad o del recurso de reconsideración cuando exista alguna causal de impedimento para conocer de un asunto de su competencia. Las partes podrán recusar con causa a un Comisionado o servidor público de la Comisión. Corresponderá al Pleno calificar la procedencia de la excusa o la recusación.
+Los Comisionados deberán excusarse de conocer los procedimientos de inconformidad cuando exista alguna causa de impedimento para conocer de un asunto de su competencia. Las partes podrán recusar con causa a un Comisionado o servidor público de la Comisión. Corresponderá al Pleno calificar la procedencia de la excusa o la recusación, que podrá presentarse por cualquiera de las siguientes causales:
 
 I. Tengan interés personal y directo en los procedimientos que contempla la presente Ley;
 
@@ -1201,7 +1371,9 @@ II.- La estructura orgánica que acuerde el Pleno y se establezca en el reglamen
 
 Las sesiones del Pleno serán ordinarias y extraordinarias y se desarrollarán de manera pública.
 
-En las sesiones se tratarán primordialmente los asuntos relacionados con los recursos de revisión y demás procedimientos previstos en esta Ley. Las ordinarias se celebrarán una vez por semana, previa convocatoria con 48 horas de anticipación; y las extraordinarias se celebrarán en cualquier momento y se convocarán con al menos 24 horas de anticipación.
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+En las sesiones se trataran primordialmente los asuntos relacionados con el procedimiento de inconformidad y demás procedimientos previstos en esta Ley. Las ordinarias se celebraran una vez por semana, previa convocatoria con 48 horas de anticipación; y las extraordinarias se celebraran en cualquier momento y se convocaran con al menos 24 horas de anticipación.
 
 ###### Artículo 104.
 
@@ -1225,9 +1397,17 @@ II.- En materia de protección de datos personales:
 
 a) Establecer un listado que contenga la referencia de los sistemas de datos personales en poder de los sujetos obligados;
 
-b) Conocer y resolver los procedimientos de inconformidad que se interpongan; y
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
 
-c) Ejercer las demás facultades previstas en esta Ley, para la protección de este derecho;
+b) Conocer e investigar de oficio o por denuncia, los hechos que sean o pudieran ser constitutivos de infracciones a esta Ley en materia de datos personales y demás disposiciones aplicables y, en su caso, denunciar ante las autoridades competentes, de conformidad con lo dispuesto por este ordenamiento.
+
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+c) Conocer y resolver los procedimientos de inconformidad que se interpongan; y
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+d) Ejercer las demás facultades previstas en esta Ley, para la protección de este derecho;
 
 III.- En materia de cultura de transparencia, acceso a la información pública y protección de datos personales:
 
@@ -1251,9 +1431,21 @@ i) Las demás que resulten necesarias para lograr estos objetivos.
 
 IV.- En materia normativa:
 
-a) Expedir el reglamento interior de la Comisión y el del servicio profesional de carrera para los servidores públicos del mismo; y
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
 
-b) Implementar medidas para la sistematización y la protección de los archivos administrativos en poder de los sujetos obligados.
+a) Expedir el reglamento interior de la Comisión y el del servicio profesional de carrera para los servidores públicos del mismo;
+
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+b) Implementar medidas para la sistematización y la protección de los archivos administrativos en poder de los sujetos obligados;
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+c) Elaborar criterios y lineamientos a fin de que la Comisión emita sus resoluciones, para el cumplimiento de la presente Ley; y
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+d) Formular observaciones y recomendaciones a los entes públicos sobre temas relacionados con la presente Ley.
 
 V.- En materia de administración y gobierno interno:
 
@@ -1355,9 +1547,11 @@ Las solicitudes presentadas de manera electrónica se tendrán por recibidas en 
 
 En las solicitudes realizadas de manera verbal, el sujeto obligado deberá levantar un acta de comparecencia, preferentemente ante dos testigos de asistencia, procurando recabar los elementos necesarios para la identificación de la información y asentando la fecha de su recepción.
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 111.
 
-Los formatos de solicitudes de acceso a la información que proporcionen los sujetos obligados serán gratuitos. Los costos de la reproducción de la información solicitada deberán cubrirse por el particular de manera previa a su entrega y de conformidad con lo que establezcan las Leyes hacendarias.
+Los formatos de solicitudes de acceso a la información que proporcionen los sujetos obligados serán gratuitos. Los costos de la reproducción de la información solicitada deberán cubrirse por el particular de manera previa a su entrega y de conformidad con lo que establezcan las Leyes hacendarias que correspondan o las disposiciones legales que les sean aplicables.
 
 ###### Artículo 112.
 
@@ -1381,9 +1575,11 @@ El sujeto obligado no estará obligado a dar trámite a solicitudes de acceso of
 
 Si la información solicitada no es competencia del sujeto obligado ante el cual se presentó la solicitud, éste deberá comunicarlo al solicitante y, de ser posible orientarlo sobre la autoridad competente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 114.
 
-Si los datos proporcionados por el solicitante no bastan para la localización de la información, son imprecisos o erróneos, el sujeto obligado prevendrá al solicitante por escrito, en un plazo no mayor de tres días, contados a partir de la recepción de la solicitud, para que en un término igual y en la misma forma, la complemente o aclare. Este requerimiento interrumpirá el plazo establecido en los artículos 116 y 117, según sea el caso.
+Si los datos proporcionados por el solicitante no bastan para la localización de la información, son imprecisos o erróneos, el sujeto obligado prevendrá al solicitante en un plazo no mayor de tres días, contados a partir de la recepción de la solicitud, para que en un término igual, la complemente o aclare. Este requerimiento interrumpirá el plazo establecido en los Artículos 116 y 117, según sea el caso.
 
 En caso de no cumplir con dicha prevención o la misma fuera extemporánea, se tendrá por no presentada la solicitud.
 
@@ -1409,9 +1605,11 @@ La información pública deberá entregarse dentro de los diez días siguientes 
 
 Excepcionalmente, el sujeto obligado podrá determinar que este plazo sea mayor cuando la cantidad de información o la complejidad de su acopio así lo amerite, o bien cuando la elaboración de versiones públicas suponga un trabajo que pueda entorpecer sustancialmente la operación del sujeto obligado. El sujeto obligado deberá notificar al solicitante el plazo para entregar la información, así como el fundamento y la motivación de su resolución. Queda a salvo el derecho del solicitante de interponer el procedimiento de inconformidad previsto en el Capítulo Segundo del presente Título de esta Ley, si no estuviere conforme.
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 117.
 
-Cuando la solicitud tenga por objeto información considerada como información pública de oficio, ésta deberá ser entregada en un plazo no mayor a tres días.
+Cuando la solicitud tenga por objeto información considerada como información pública de oficio, esta deberá ser entregada en un plazo no mayor a tres días, contados a partir del día siguiente al de la respuesta respectiva.
 
 ###### Artículo 118.
 
@@ -1426,6 +1624,12 @@ El acceso a la información se dará solamente en la forma en que lo permita el 
 En el caso de que la información ya esté disponible en Internet el sujeto obligado se lo hará saber al solicitante, precisando la dirección electrónica completa del sitio donde se encuentra la información requerida, y alternativamente podrá proporcionarle una impresión de la misma.
 
 En el caso de que la información solicitada ya esté disponible al público en medios impresos, tales como libros, compendios, informes, trípticos o en cualquier otro medio, se le hará saber al solicitante por escrito la fuente, el lugar y la forma en que puede consultar, reproducir o adquirir dicha información.
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 119 Bis.
+
+Cuando para la entrega de la información solicitada sea necesario cubrir costos por concepto de su reproducción, el particular deberá cubrir el monto, dentro de un plazo de diez días hábiles posteriores a que el sujeto obligado le haya notificado la disponibilidad de la misma y acreditarlo así ante el área del sujeto obligado ante el cual se está tramitando su solicitud; en caso de no realizar el pago correspondiente dentro del plazo señalado ni acreditarlo ante el área conducente, se actualizará la falta de interés para obtener la información puesta a su disposición y se dará por terminado el procedimiento de solicitud, archivándose como asunto totalmente concluido el expediente respectivo.
 
 ###### Artículo 120.
 
@@ -1489,29 +1693,39 @@ XII.- La declaración de incompetencia de un sujeto obligado.
 
 Se actualizará la negativa ficta, cuando dentro de los plazos establecidos en esta Ley, el sujeto obligado no diera respuesta a una solicitud de acceso a la información o de acceso, rectificación, cancelación u oposición de datos personales.
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 126.
 
-El procedimiento deberá interponerse dentro de los diez días siguientes a la notificación correspondiente o en su caso, a partir del momento en que hayan transcurrido los términos establecidos para dar contestación a las solicitudes de acceso a la información o de acceso, rectificación, cancelación u oposición de datos personales, supuestos en que bastará que el solicitante acompañe al recurso el documento que prueba la fecha en que presentó la solicitud.
+El procedimiento deberá interponerse dentro de los diez días siguientes a la notificación correspondiente en su caso, a partir del momento en que hayan transcurrido los términos establecidos para dar contestación a las solicitudes de acceso a la información o de acceso rectificación, cancelación u oposición de datos personales, supuestos en que bastara que el solicitante acompañe al procedimiento el documento que prueba la fecha en que presento la solicitud.
 
-> <small>(F. DE E., P.O. 28 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 127.
 
-En caso de que el procedimiento de inconformidad no satisfaga alguno de los requisitos a que se refiere el artículo 129 de esta Ley, y la Comisión no cuente con elementos para subsanarlo, prevendrá al particular dentro los tres días hábiles siguientes a la interposición del recurso, por una sola ocasión, para que subsane las omisiones dentro de un plazo de cinco días. Transcurrido el plazo sin desahogar la prevención se tendrá por no presentado el procedimiento. La prevención tendrá el efecto de interrumpir el plazo que tiene la Comisión para resolver el procedimiento.
+En caso de que el procedimiento de inconformidad no satisfaga alguno de los requisitos a que se refiere el Artículo 129 de esta Ley, y la Comisión no cuente con elementos para subsanarlo, prevendrá al particular dentro los tres días hábiles siguientes a la interposición de dicho procedimiento, por una sola ocasión, para que subsane las omisiones dentro de un plazo de cinco días. Transcurrido el plazo sin desahogar la prevención se tendrá por no presentado el procedimiento. La prevención tendrá el efecto de interrumpir el plazo que tiene la Comisión para resolver el procedimiento.
+
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 128.
 
-En todos los casos, la Comisión deberá suplir las deficiencias del procedimiento de inconformidad, siempre y cuando no altere el contenido original de la solicitud de acceso a la información pública o de acceso, rectificación, cancelación u oposición de datos personales, ni se modifiquen los hechos o peticiones expuestos en el recurso.
+En todos los casos, la Comisión deberá suplir las deficiencias del procedimiento de inconformidad, siempre y cuando no altere el contenido original de la solicitud de acceso a la información pública o de acceso, rectificación, cancelación u oposición de datos personales, ni se modifiquen los hechos o peticiones expuestos en dicho procedimiento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 129.
 
-El procedimiento de inconformidad podrá interponerse por escrito libre, a través de los formatos que al efecto proporcione la Comisión o por medios electrónicos, y deberá contener lo siguiente:
+El procedimiento de inconformidad podrá interponerse por escrito libre, a través de los formatos que al efecto proporcione la Comisión o por medios electrónicos, debiendo contener y anexar lo siguiente:
 
-I.- El nombre del particular y en su caso, el de su representante legal o mandatario, y tercero interesado si lo hubiera;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+I.- El nombre del particular y en su caso, el de su representante legal o mandatario, y el nombre o razón social del tercero interesado si lo hubiera, de lo contrario, precisar la inexistencia del mismo;
 
 II.- El sujeto obligado ante el cual se presentó la solicitud de acceso a la información, o de acceso, rectificación, cancelación u oposición de datos personales;
 
-III.- El domicilio o medio electrónico para oír y recibir notificaciones; en caso de no haberlo señalado, aún las de carácter personal, se harán por estrados;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+III.- El domicilio o medio electrónico del particular y del tercero interesado, si lo hubiera, para efectos de oír y recibir notificaciones; en caso de no haber señalado el particular, aún las de carácter personal, se harán por tabla de avisos;
 
 IV.- El acto o resolución del cual se inconforma y, en su caso, el número de expediente que identifique el mismo;
 
@@ -1519,11 +1733,23 @@ V.- La fecha en que se le notificó o tuvo conocimiento del acto reclamado, salv
 
 VI.- Los puntos petitorios;
 
-VII.- El documento con el que acredita la existencia de la solicitud, así como la respuesta emitida por el sujeto obligado, en su caso; y
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+VII.- El documento con el que acredita la existencia de la solicitud y el documento con el que se acredite la respuesta emitida por el sujeto obligado en su caso; y
 
 VIII.- Las demás pruebas y elementos que se considere procedente hacer del conocimiento de la Comisión.
 
 En el caso de que el procedimiento se interponga a través de medios que no sean electrónicos, deberá acompañarse de las copias de traslado suficientes.
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 129 Bis.
+
+Se considera como tercero o terceros interesados a:
+
+I.- La persona o personas distintas al promovente del procedimiento de inconformidad, que sea parte dentro de un juicio o procedimiento del cual se solicite la información;
+
+II.- La persona o personas distintas al promovente del procedimiento de inconformidad, que justifique tener interés directo en mantener la reserva o confidencialidad de la información solicitada.
 
 ###### Artículo 130.
 
@@ -1535,21 +1761,41 @@ II.- El auto de admisión se dictará al día siguiente de la presentación del 
 
 III.- Admitido el procedimiento, se integrará un expediente y se notificará al sujeto obligado señalado como responsable, para que dentro del término de cinco días contados a partir del día siguiente de dicha notificación, ofrezca su contestación y aporte las pruebas que considere pertinentes;
 
-IV.- Recibida la contestación o transcurrido el plazo para contestar el recurso, la Comisión dará vista al particular para que en un plazo de cinco días presente las pruebas y alegue lo que a su derecho convenga;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
 
-V.- Si alguna de las partes ofrece medios de prueba que requieran de desahogo o de algún trámite para su perfeccionamiento, la Comisión determinará audiencias con el particular y el sujeto obligado, dentro de los tres días siguientes a que se recibieron. Una vez desahogadas ras pruebas se declarará cerrada la instrucción y el expediente se encontrará en estado de resolución;
+IV.- En el caso de existir tercero interesado en los términos que dispone la presente Ley, se le hará la notificación para que en el plazo de cinco días, alegue lo que a su derecho convenga y presente las pruebas que considere pertinentes;
 
-VI.- Excepcionalmente, la Comisión podrá ampliar los plazos hasta por cinco días más cuando la importancia y trascendencia del asunto así lo amerite; y
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
 
-VII.- Cerrada la instrucción, el Pleno de la Comisión, bajo su más estricta responsabilidad, deberá emitir una resolución debidamente fundada y motivada, en un término no mayor de diez días, contados a partir de que el expediente se encuentre en estado de resolución.
+V.- Recibida la contestación o transcurrido el plazo para contestar el procedimiento de inconformidad, la Comisión dará vista al particular para que en un plazo de cinco días presente las pruebas y alegue lo que a su derecho convenga;
+
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+VI.- Si alguna de las partes ofrece medios de prueba que requieran de desahogo o de algún trámite para su perfeccionamiento, la Comisión determinara audiencias con el particular y el sujeto obligado, dentro de los tres días siguientes a que se recibieron. Una vez desahogadas las pruebas se declarará cerrada la instrucción y el expediente se encontrará en estado de resolución.
+
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+VII.- Excepcionalmente, la Comisión podrá ampliar los plazos hasta por cinco días más cuando la importancia y trascendencia del asunto así lo amerite; y
+
+> <small>(ADICIONADA, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+VIII.- Cerrada la instrucción, el Pleno de la Comisión, bajo su más estricta responsabilidad, deberá emitir una resolución debidamente fundada y motivada, en un término no mayor de diez días, contados a partir de que el expediente se encuentre en estado de resolución.
 
 ###### Artículo 131.
 
 Las resoluciones de la Comisión podrán:
 
-I.- Sobreseer o desechar el improcedente; o procedimiento de inconformidad por
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
 
-II.- Confirmar, revocar o modificar la resolución del sujeto obligado.
+I.- Sobreseer o desechar el procedimiento de inconformidad por improcedente;
+
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+II.- Confirmar, revocar o modificar la respuesta o resolución del sujeto obligado, por lo que deberá:
+
+a) Ordenar la entrega de la información solicitada, o en su caso, determinar la reserva o confidencialidad de la información; u
+
+b) Ordenar el acceso, rectificación, cancelación u oposición de datos personales.
 
 ###### Artículo 132.
 
@@ -1559,11 +1805,17 @@ I.- Lugar, fecha en que se pronuncia, el nombre del particular, sujeto obligado 
 
 II.- Los preceptos que la fundamenten y las consideraciones que la sustenten;
 
-III.- Los alcances y efectos de la resolución, fijando con precisión, en su caso, los órganos obligados a cumplirla, así como los plazos y procedimientos necesarios para su cumplimiento, y la determinación de las sanciones cuando en su caso procedan; y
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
 
-IV.- El voto particular del Comisionado que difiriera de la mayoría;
+III.- Los alcances y efectos de la resolución, fijando con precisión, en su caso, los órganos obligados a cumplirla, así como los plazos y procedimientos necesarios para su cumplimiento, y la determinación de las sanciones cuando en su caso procedan;
 
-V.- Los puntos resolutivos, que podrán confirmar, modificar o revocar la resolución del sujeto obligado.
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+IV.- El voto particular del Comisionado que difiriera de la mayoría; y
+
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+V.- Los puntos resolutivos, que podrán confirmar, modificar o revocar la respuesta del sujeto obligado; ordenar la entrega de la información, determinar la reserva o confidencialidad de la información, u ordenar el acceso, rectificación, cancelación u oposición de datos personales.
 
 ###### Artículo 133.
 
@@ -1573,7 +1825,9 @@ I.- Sea extemporáneo;
 
 II.- La Comisión haya conocido anteriormente del procedimiento de inconformidad contra el mismo acto y resuelto en definitiva respecto del mismo particular;
 
-III.- Se recurra una resolución o acto que no hayan sido emitidos por el sujeto obligado;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+III.- Se recurra una resolución, acto o respuesta que no haya sido emitida por el sujeto obligado;
 
 IV.- La Comisión no sea competente; o
 
@@ -1611,17 +1865,43 @@ La falta de contestación del sujeto obligado al procedimiento de inconformidad 
 
 Las partes podrán ofrecer todo tipo de pruebas, excepto la confesional de los servidores públicos y aquéllas que sean contrarias a derecho. El desahogo y la calificación de las pruebas, así como las notificaciones se realizarán aplicando supletoriamente el Código de Procedimientos Civiles del Estado de Nuevo León. En cualquier caso, corresponderá a la Comisión desechar de plano aquellas pruebas que no guarden relación con el procedimiento de inconformidad.
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 139.
 
-Interpuesto el procedimiento de inconformidad por una negativa ficta, la Comisión dará vista al sujeto obligado para que, en un plazo no mayor a tres días, acredite haber respondido en tiempo y forma la solicitud, o bien dé respuesta a la misma. En el primer caso, el procedimiento se considerará improcedente y la Comisión deberá dictar auto de sobreseimiento en un término de 48 horas. En el segundo caso, la Comisión emitirá, en un plazo no mayor de 5 días su resolución, con base en el contenido de la solicitud original y la respuesta del sujeto obligado. Si la resolución de la Comisión a que se refiere el párrafo anterior determina la procedencia de otorgar acceso a la información o a los datos personales solicitados, procederá su entrega.
+Interpuesto el procedimiento de inconformidad por una negativa ficta y una vez admitido a trámite, la Comisión dará vista al sujeto obligado para que, en un plazo no mayor a tres días, acredite haber respondido en tiempo y forma la solicitud, o bien dé respuesta a la misma. En el primer caso, el procedimiento se considerará improcedente y la Comisión deberá dictar auto de sobreseimiento en un término de 48 horas. En el segundo caso, la Comisión emitirá, en un plazo no mayor de 5 días su resolución, con base en el contenido de la solicitud original y la respuesta del sujeto obligado.
+
+La falta de contestación del sujeto obligado al procedimiento de inconformidad por negativa ficta dentro del término establecido, en el presente Artículo, hará presumir como ciertos los hechos que se hubieren señalado en él, siempre que éstos le sean directamente imputables.
+
+Si la resolución de la Comisión determina la procedencia de otorgar acceso a la información o a los datos personales solicitados, procederá su entrega.
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 139 Bis.
+
+El sujeto obligado al rendir su contestación dentro del procedimiento de inconformidad, deberá designar un domicilio ubicado en cualquier municipio del área metropolitana de Monterrey o un medio electrónico, para efectos de oír y recibir notificaciones. En caso de que no cumpla con dicha prevención, las notificaciones que conforme a las reglas generales deben hacerse personalmente, se le harán por medio de la tabla de avisos con que cuenta este organismo autónomo.
+
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 140.
 
-Las actuaciones y resoluciones de la Comisión se notificarán, en el domicilio o medio electrónico que al efecto señalen las partes o en su defecto en los estrados, al día hábil siguiente en que se dicten y surtirán efectos un día hábil después.
+Las actuaciones y resoluciones de la Comisión se notificarán, en el domicilio o medio electrónico que al efecto señalen las partes o en su defecto en la tabla de avisos, al día hábil siguiente en que se dicten y surtirán efectos un día hábil después.
+
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 141.
 
-Los sujetos obligados, en su caso, deberán informar a la Comisión del cumplimiento de sus resoluciones, en un plazo no mayor a 5 días posteriores a aquel en que se les notificó la resolución, a menos que en la misma la Comisión determine un plazo mayor para su cumplimiento.
+Los sujetos obligados deberán cumplir con las resoluciones, bajo los siguientes lineamientos:
+
+I. En caso de que el cumplimiento derive en el cobro de derechos por la modalidad solicitada, el sujeto obligado deberá hacer del conocimiento del particular el concepto, cantidad y lugar de pago, dentro de los cinco días siguientes a la fecha en que haya quedado notificada la resolución; así mismo el particular contará con un término de cinco días para realizar el pago correspondiente y hacerlo del conocimiento al sujeto obligado y el propio sujeto obligado deberá hacer entrega de la Información en un término de diez días contados a partir de aquel en que e (sic) exhiba el pago de derechos;
+
+II. Cuando para la entrega de la información no se requiera pago alguno, el sujeto obligado deberá proporcionarla en un término no mayor de cinco días, contados a partir de la fecha en que haya quedado notificada la resolución;
+
+III. Para el caso del examen de algún objeto, documento o cualquier otra forma de registro ordenada, el sujeto obligado deberá señalar lugar, fecha y hora dentro del término de cinco días siguientes a la fecha en que haya quedado notificada la resolución, mismo que deberá celebrarse en un plazo que no exceda de cinco días posteriores;
+
+IV. Los sujetos obligados, en su caso, deberán informar a la Comisión del cumplimiento de sus resoluciones, en un plazo no mayor a 5 días posteriores a aquel en que se les notificó la resolución, a menos que en la misma la Comisión determine un plazo mayor para su cumplimiento;
+
+V. En todo lo no previsto en las fracciones anteriores, la Comisión determinará lo correspondiente;
 
 ###### Artículo 142.
 
@@ -1652,6 +1932,12 @@ IV.- Multa de 75 a 450 cuotas.
 ###### Artículo 146.
 
 Cualquier persona podrá iniciar ante la Comisión un procedimiento para denunciar violaciones a las disposiciones contenidas en el Título Primero Capítulo Tercero de esta Ley. En este caso, la Comisión procederá a revisar la denuncia para que, de considerarla procedente, en un plazo no mayor a 15 días emita una resolución en la que ordene al sujeto obligado las medidas que considere necesarias para remediar la violación en el menor tiempo posible, previa audiencia del sujeto obligado.
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 146 Bis.
+
+En todo lo no previsto por esta Ley, se aplicará supletoriamente la Ley de Justicia Administrativa para el Estado de Nuevo León, y en defecto de ésta, el Código de Procedimientos Civiles para el Estado de Nuevo León.
 
 ### Capítulo Tercero. Responsabilidades y Sanciones
 
@@ -1691,11 +1977,17 @@ Las resoluciones finales que al respecto expidan los órganos internos de contro
 
 La Comisión podrá imponer sanciones al sujeto obligado por las siguientes violaciones a la presente Ley:
 
-I.- Multa de 25 a 150 cuotas por no responder una solicitud de acceso a la información, o de acceso, rectificación, cancelación u oposición de datos personales; o no publique o actualice la información pública de oficio dentro del término legal establecido para tal efecto;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
 
-II.- Multa de 25 a 250 cuotas cuando no rinda contestación al procedimiento de inconformidad dentro del término que establece la presente Ley; y
+I.- Multa de 75 a 200 cuotas por no responder una solicitud de acceso a la información, o de acceso, rectificación, cancelación u oposición de datos personales; o no publique o actualice la información pública de oficio dentro del término legal establecido para tal efecto, o realice un tratamiento inadecuado de los datos personales que obren en sus archivos;
 
-III.- Multa de 75 a 450 cuotas al que incumpla una resolución definitiva de la Comisión.
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+II.- Multa de 201 a 350 cuotas cuando no rinda contestación al procedimiento de inconformidad dentro del término que establece la presente Ley; y
+
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+III.- Multa de 351 a 500 cuotas al que incumpla una resolución, acuerdo o cualquier otro mandato de la Comisión.
 
 ###### Artículo 149.
 
@@ -1707,11 +1999,15 @@ II.- La gravedad de la falta cometida y la conveniencia de suprimir prácticas q
 
 III.- Las circunstancias y condiciones del incumplimiento a la Ley;
 
-IV.- La reincidencia por parte del sujeto obligado en el incumplimiento a las obligaciones en materia de transparencia, el acceso a la información pública y la protección de datos. Se considerará reincidente el sujeto obligado que incurra más de una vez en alguna o algunas de las conductas que se señalan en el artículo anterior;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+IV.- La reincidencia por parte del sujeto obligado en el incumplimiento a las obligaciones en materia de transparencia, el acceso a la información pública y la protección de datos. Se considerará reincidente el sujeto obligado que incurra más de una vez en alguna o algunas de las conductas que se señalan en el Artículo anterior;
 
 V.- El carácter intencional o negligente de la acción u omisión constitutiva de la falta cometida por el sujeto obligado; y
 
-VI.- El monto del beneficio o del daño o perjuicio económico derivado del incumplimiento.
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
+VI.- El monto del beneficio o del daño o perjuicio económico derivado del incumplimiento, deberá considerarse sólo para aquellos casos en los que pueda ser fehacientemente comprobado.
 
 ###### Artículo 150.
 
@@ -1811,7 +2107,7 @@ EL C. OFICIAL MAYOR DE GOBIERNO
 
 ALFREDO GERARDO GARZA DE LA GARZA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 30 DE SEPTIEMBRE DE 2009.
 
@@ -1823,16 +2119,20 @@ P.O. 6 DE ABRIL DE 2011.
 
 P.O. 3 DE JUNIO DE 2011.
 
-DECRETO NUMERO 205, POR EL QUE SE REFORMA LA FRACCION IX DEL ARTICULO 14 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION DEL ESTADO DE NUEVO LEON.
+DECRETO NÚMERO 205, POR EL QUE SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 14 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN DEL ESTADO DE NUEVO LEÓN.
 
 Único.- El presente Decreto entrará en vigor, el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 3 DE JUNIO DE 2011.
 
-DECRETO NUMERO 206, POR EL QUE SE REFORMAN LAS FRACCIONES VI Y VII DEL ARTICULO 11; LAS FRACCIONES XI Y XII DEL ARTICULO 14; SE ADICIONA UNA FRACCION VIII AL ARTICULO 11 Y UNA FRACCION XIII AL ARTICULO 14, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION DEL ESTADO DE NUEVO LEON.
+DECRETO NÚMERO 206, POR EL QUE SE REFORMAN LAS FRACCIONES VI Y VII DEL ARTÍCULO 11; LAS FRACCIONES XI Y XII DEL ARTÍCULO 14; SE ADICIONA UNA FRACCIÓN VIII AL ARTÍCULO 11 Y UNA FRACCIÓN XIII AL ARTÍCULO 14, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN DEL ESTADO DE NUEVO LEÓN.
 
 Único.- El presente Decreto entrará en vigor, el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 5 DE AGOSTO DE 2011.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE SEPTIEMBRE DE 2012.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
