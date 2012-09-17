@@ -4,7 +4,7 @@ identifier: "CHP-ley-estatal-de-derechos-58004"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-21"
-last_updated: "2011-12-30"
+last_updated: "2012-09-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ESTATAL DE DERECHOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Chiapas, el miércoles 21 de noviembre de 2007.
 
@@ -101,7 +101,7 @@ Los servidores públicos encargados de la prestación de los servicios, serán r
 
 Las dependencias, organismos descentralizados u órganos autónomos que presten servicios por los cuales se paguen derechos, procederán a proporcionarlos, cuando el interesado presente el recibo oficial de pago requisitado, conforme a las disposiciones legales aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 Tratándose de los derechos por servicio de control vehicular, serán de vigencia anual y deberán ser enterados dentro de los siguientes periodos:
 
@@ -129,7 +129,7 @@ V. Tratándose de vehículos del servicios público estatal, el plazo para el pa
 
 Cuando se trate del pago de derechos por control vehicular del servicio particular, por la adquisición de vehículos nuevos, éste podrá ser cubierto por los contribuyentes en las agencias distribuidoras de automóviles que tengan celebrado Convenio de Prestación de Servicios para la Recepción y Cobro de Contribuyentes Estatales y Federales en Materia Vehicular con la Secretaría.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -139,7 +139,7 @@ Artículo 6º A.- De efectuarse el pago de conceptos relativos a la revalidació
 
 Están obligados de igual forma al pago de derechos, la Federación, el Estado y los Municipios, salvo disposiciones en contrario expedida por el poder Ejecutivo del Estado a través de la Secretaría.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 8º.
 
@@ -153,7 +153,7 @@ En los casos de controversia acerca de la procedencia o cuantía de un derecho, 
 
 Los derechos contenidos en esta Ley, se pagarán conforme a las cuotas y tarifas que para cada caso se establezcan.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 11.
 
@@ -167,7 +167,7 @@ Los derechos contenidos en esta Ley, se pagarán conforme a las cuotas y tarifas
 
 #### Sección Primera. Servicios que Presta la Dirección del Registro Civil del Estado
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -311,9 +311,9 @@ El registro de nacimiento a menores a 180 días en oficialías está exceptuado 
 
 #### Sección Segunda. Servicios que Presta la Dirección del Registro Público de la Propiedad y de Comercio
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 13.
 
@@ -581,7 +581,7 @@ preventivo solicitado por Notario Público o autoridad
 
 competente. 6.5
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -697,7 +697,7 @@ derivadas de los actos mencionados de la
 
 fracción anterior. 10.5
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -705,7 +705,7 @@ XXXIV. Por el reconocimiento de adeudo de
 
 créditos previamente otorgados. 9.5
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -721,7 +721,7 @@ asigna un valor para responder a la garantía
 
 hipotecaria total). 6.5
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -729,7 +729,7 @@ XXXVI. Por la corrección o cancelación de cada
 
 primer o segundo aviso preventivo. 6.5
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -929,7 +929,7 @@ XVII. Registro de poderes que realicen los
 
 notarios públicos. 3.0
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 2010)</small>
 
 #### Sección Cuarta. Derechos por los Servicios que presta la Dirección de Catastro Urbano Rural
 
@@ -1405,9 +1405,9 @@ deben surtir efectos en el extranjero. 15.0
 
 ### Capítulo III. Derechos por Los Servicios que Presta la Secretaría de Hacienda
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 18-A.
 
@@ -1423,7 +1423,7 @@ I. Por la expedición de constancia de no
 
 adeudos fiscales. 3.5
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -1435,7 +1435,7 @@ b) Licitación Pública Estatal. 25.5
 
 c) Licitación Pública Nacional. 30.5
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -1627,11 +1627,11 @@ Los contribuyentes que hayan realizado el pago de los derechos contemplados en e
 
 Para el caso de los contribuyentes que inicien sus operaciones y se inscriban por primera vez en el padrón, no se aplicará descuento alguno durante el primer semestre en el que ocurra su inscripción en el padrón estatal de contribuyentes, el descuento se iniciará a partir del semestre inmediato posterior.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 #### Sección Primera. Derechos por los Servicios que Presta la Dirección de Ingresos
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -1777,13 +1777,13 @@ con interés y garantía prendaría, a través de las
 
 llamadas casas de empeño. 15.0
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 #### Sección Segunda. Derechos por los Servicios de Control Vehicular
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -1863,7 +1863,7 @@ Artículo 20 A.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 2010)
 
 Artículo 20 B.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 2010)
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 2010)</small>
 
 #### Sección Tercera
 
@@ -1879,11 +1879,11 @@ Artículo 20 B.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 2010)
 
 (DEROGADO, P.O. 30 DE DICIEMBRE DE 2010)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 #### Sección Cuarta. Derechos por los Servicios que Presta la Dirección de Cobranza
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 24.
 
@@ -1933,7 +1933,7 @@ V. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2008) (F. DE E., P.O. 14 DE ENERO DE 2009)
 
 VI. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2008) (F. DE E., P.O. 14 DE ENERO DE 2009)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 #### Sección Quinta. Derechos por los Servicios que presta la Dirección de Auditoría Fiscal
 
@@ -2013,7 +2013,7 @@ I. Por la expedición de constancias de sueldo. 1.5
 
 ### Capítulo IV. Derechos por Servicios que Presta la Secretaría del Campo
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 #### Sección Primera. Derechos por Servicios que Presta La Dirección de Sanidad
 
@@ -2243,13 +2243,13 @@ en turno de 12 horas. 45.0
 
 (DEROGADO, P.O. 30 DE DICIEMBRE DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 #### Sección Tercera. Servicios que Presta El Instituto de Protección Civil para el Manejo Integral de Riesgos de Desastres
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -2493,9 +2493,9 @@ XIII. Por la emisión de dictamen del Plan
 
 de Contingencia. 20.0
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 #### Sección Cuarta. Derechos por Servicios que Presta el Centro Único de Capacitación Policiaca de Investigación y Preventiva del Estado de Chiapas
 
@@ -2567,7 +2567,7 @@ c) Expedición de Credencial de Estudiante. 0.5
 
 IV. Reexpedición de Constancias de Capacitación. 5.0
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 30 DE DICIEMBRE DE 2010)</small>
 
 #### Sección Quinta. Servicios que presta el Centro Estatal de Control de Confianza Certificado
 
@@ -2735,7 +2735,7 @@ de expediente para solicitar una concesión. 6.0
 
 Todos y cada uno de los conceptos con sus respectivos derechos antes referidos, se causarán por cada unidad de manera particular sin efectos genéricos.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 #### Sección Segunda. Servicios que Presta la Dirección del Registro y Control del Transporte
 
@@ -2931,7 +2931,7 @@ de transporte en modalidades de carga y
 
 pasaje, en cualquier tipo de unidad 20.0
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 #### Sección Tercera. Derechos por Servicios que Presta la Dirección de Capacitación al Sector
 
@@ -2967,25 +2967,29 @@ SERVICIO TARIFA
 
 S.M.D.V.E.
 
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+
 I. Por expedición de licencias con vigencia permanente:
 
-a) Chofer para servicio público. 68.0
+a) Chofer para servicio público. 34.0
 
-b) Chofer. 68.0
+b) Chofer. 34.0
 
-c) Automovilista. 60.0
+c) Automovilista. 30.0
 
-d) Motociclista. 30.0
+d) Motociclista. 15.0
+
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
 
 II. Por reposición de licencia por pérdida o extravío.
 
-a) Chofer para servicio público. 68.0
+a) Chofer para servicio público 8.5
 
-b) Chofer. 68.0
+b) Chofer 8.5
 
-c) Automovilista. 60.0
+c) Automovilista 8.5
 
-d) Motociclista. 30.00
+d) Motociclista. 4.5
 
 III. Por expedición de licencias por 2 años:
 
@@ -3111,7 +3115,7 @@ por 30 horas. 19.0
 
 ### Capítulo VII. Derechos por Servicios que Presta la Secretaría de Educación
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -3355,7 +3359,7 @@ XXVI. Por el registro de colegios de
 
 profesionistas en el Estado. 110.5
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -3429,11 +3433,11 @@ VII. Por las visitas de inspección a centros
 
 educativos del nivel superior en el Estado. 50.0
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ### Capítulo VIII. Derechos por Servicios que Presta la Secretaría de Salud
 
-(N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -3463,7 +3467,7 @@ La autorización que la autoridad sanitaria conceda al contribuyente para la exp
 
 (DEROGADO, P.O. 30 DE DICIEMBRE DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -3471,7 +3475,7 @@ La autorización que la autoridad sanitaria conceda al contribuyente para la exp
 
 Los derechos por revalidación de licencias para venta de bebidas alcohólicas, deberán cubrirse en el período comprendido de enero a marzo de cada año; debiendo acreditar el pago de los derechos señalados en el artículo 20-B de esta Ley, lo cual será requisito indispensable para que la Autoridad Sanitaria otorgue la licencia correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 39.
 
@@ -3515,7 +3519,7 @@ Dirección, hasta 20 hojas. 6.5
 
 Por hoja adicional se cobrará $5.00.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 (REFORMADA, P.O. 31 DE DICIEMBRE DE 2009) (F. DE E., P. O. 20 DE ENERO DE 2010)
 
@@ -3617,9 +3621,9 @@ Las personas físicas que utilicen los servicios que presta el Instituto de Salu
 
 El monto de las cuotas citadas, se determinarán atendiendo a las condiciones socioeconómicas del contribuyente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ### Capítulo IX. Derechos por los Servicios que Presta la Secretaría de Turismo
 
@@ -3627,11 +3631,11 @@ El monto de las cuotas citadas, se determinarán atendiendo a las condiciones so
 
 (DEROGADO, P.O. 30 DE DICIEMBRE DE 2011)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ### Capítulo X. Derechos por Servicios que Presta la Secretaría de la Función Pública
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -3701,13 +3705,13 @@ administrativos disciplinarios, presentados
 
 por los solicitantes. 2.0
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(DEROGADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ### Capítulo XI. Derechos por Servicios que Presta el Instituto de Formación Profesional de Policías del Estado
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 43.
 
@@ -3903,11 +3907,11 @@ IV. Por la Expedición de Copias Certificadas. 2.0
 
 V. Por otros servicios contemplados dentro de las leyes y reglamentos vigentes en el Estado de Chiapas, los montos de los mismos serán determinados por el Consejo de la Judicatura del Poder Judicial del Estado y publicados en el Periódico Oficial.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ### Capítulo XIV. Derechos por Servicios que Presta la Procuraduría General de Justicia del Estado
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 46.
 
@@ -3939,7 +3943,7 @@ Nacional y Estatal de Vehículos Robados y
 
 Recuperados. 1.5
 
-> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ### Capítulo XV. Por los Costos de Reproducción y Gastos de Envío en Materia de Acceso a la Información Pública
 
@@ -3959,7 +3963,7 @@ SERVICIO TARIFA
 
 S.M.D.V.E.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 (REFORMADA, P.O. 31 DE DICIEMBRE DE 2009) (F. DE E., P. O. 20 DE ENERO DE 2010)
 
@@ -4021,7 +4025,7 @@ De conformidad con la fracción I del artículo 42, de la Constitución Polític
 
 Juan Sabines Guerrero, Gobernador del Estado.- Jorge Antonio Morales Messner, Secretario de Gobierno.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 28 DE DICIEMBRE DE 2007.
 
@@ -4090,3 +4094,9 @@ El presente Decreto entrará en vigor el día primero de enero del dos mil doce.
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 17 DE SEPTIEMBRE DE 2012.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
