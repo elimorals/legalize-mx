@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2012-09-08"
+last_updated: "2012-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -777,7 +777,11 @@ Sólo podrán hacerse retenciones, descuentos o deducciones al sueldo, cuando se
 
 I. De deudas contraídas con la Entidad Pública por concepto de anticipos, de pagos hechos en exceso, errores o pérdidas debidamente comprobadas;
 
-II. Del cobro de cuotas sindicales o de aportación de fondos para la constitución de cooperativas y de cajas de ahorro, siempre que el servidor hubiese manifestado previamente de una manera expresa su conformidad;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+II. Del cobro de cuotas sindicales o de aportación de fondos para la constitución de cooperativas y de cajas de ahorro, siempre que el servidor hubiere manifestado previamente de una manera expresa y por escrito su conformidad: La manifestación relativa al cobro de la cuota sindical tiene el efecto de acreditar su pertenencia al sindicato.
+
+En ningún caso se podrá retener a un servidor público, respecto de una plaza determinada, su cuota sindical para más de un sindicato;
 
 III. De aquellas ordenados por la Dirección de Pensiones del Estado;
 
@@ -1271,9 +1275,13 @@ Los Sindicatos gozarán de la más amplia libertad para fijar el monto de las cu
 
 Las condiciones generales de trabajo se fijarán por los Titulares de las Entidades Públicas respectivas, oyendo al Sindicato correspondiente, a través de su directiva.
 
-> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
-Tratándose de condiciones generales de trabajo pactadas por el Gobierno del Estado con sindicatos nacionales o federales reconocidos, éstas se aplicarán y modificarán conforme a los procedimientos establecidos por la ley o decreto correspondiente. Las condiciones laborales deberán ser depositadas en el Tribunal de Arbitraje y Escalafón para que sean revisadas y en su momento aprobadas y registradas, para que surtan sus efectos legales.
+La titularidad y administración de las condiciones generales de trabajo corresponderá al sindicato que represente al mayor número de servidores públicos en cada entidad patronal.
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+Tratándose de condiciones generales de trabajo pactadas por el Gobierno del Estado con sindicatos nacionales o federales reconocidos, éstas se aplicarán y modificarán conforme a los procedimientos establecidos por la ley o decreto correspondiente. Las condiciones laborales deberán ser depositadas en el Tribunal de Arbitraje y Escalafón para que sean revisadas y, en su momento, aprobadas y registradas, para que surtan sus efectos legales.
 
 ###### Art. 90.
 
@@ -1793,27 +1801,75 @@ Los magistrados del Tribunal de Arbitraje y Escalafón tendrán la responsabilid
 
 Los conflictos que surjan entre las federaciones de sindicatos de servidores públicos, los sindicatos que las integren o sólo entre éstos, se resolverán por el Tribunal de Arbitraje y Escalafón, mediante el procedimiento que se establece en este capítulo.
 
-Resolverá en cuanto a las condiciones generales de trabajo, la determinación de la pérdida de la mayoría de los servidores públicos y la titularidad del mismo, así como la administración de las condiciones generales de trabajo, que corresponderá al que represente el mayor número de servidores públicos. La pérdida de la mayoría de trabajadores producirá la titularidad de la administración.
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
-> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
+Resolverán, en cuanto a las condiciones generales de trabajo, la titularidad y administración, la determinación de la pérdida de la mayoría de los servidores públicos y los demás casos previstos en esta ley.
 
-Artículo 144 bis. El procedimiento se iniciará con la presentación del escrito de demanda, en el cual el actor podrá ofrecer sus pruebas ante el Tribunal de Arbitraje y Escalafón, citando a una Audiencia de Conciliación, Demanda y Excepciones, Pruebas y Resolución, la que deberá efectuarse dentro de los quince días hábiles siguientes a la fecha en que se haya presentado la demanda.
+> <small>(REFORMADO [N. DE E ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
-El Tribunal al citar al demandado, lo apercibirá que de no concurrir a la audiencia dará por admitidas las peticiones de la parte actora, en dicha audiencia el Tribunal procurará avenir a las partes, de no ser posible cada parte expondrá lo que juzgue conveniente, formularán peticiones y ofrecerán y rendirán las pruebas que hayan sido admitidas, y si se ofrece el recuento de los servidores públicos se estará a lo siguiente:
+En las controversias sobre la titularidad y administración de las condiciones generales de trabajo, sólo podrá demandarse al sindicato que tenga reconocida dicha titularidad y administración ante el Tribunal de Arbitraje y Escalafón.
 
-I. El Tribunal solicitará a la entidad pública a la que pertenezcan los sindicatos en conflicto, el listado que contenga la totalidad de la plantilla de los trabajadores de base, debiendo remitir dicho listado en un término no mayor de cinco días hábiles al Tribunal de Arbitraje y Escalafón.
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
-En caso de incumplimiento en la entrega del listado de la plantilla de trabajadores, que se le solicite, el Tribunal de Arbitraje y Escalafón aplicará una multa a la entidad pública de que se trate, de mil a tres mil días de salario mínimo vigente de la zona metropolitana del Estado de Jalisco y, en caso de reincidir en incumplimiento de lo que se le requiere, se suspenderá al titular de la dependencia que se trate, hasta por quince días en el cargo;
+###### Art. 144
 
-II. El Pleno del Tribunal de Arbitraje y Escalafón por conducto de su Secretario General emitirá certificación respecto de la totalidad de los trabajadores afiliados a cada uno de los sindicatos con base a la plantilla proporcionada por la entidad pública de que se trate de trabajadores en activo, debiendo asentar el número de miembros afiliados a cada uno de los sindicatos registrados que pertenezcan a la multicitada entidad pública de que se trate;
+Bis. El procedimiento se iniciará con la presentación del escrito de demanda ante el Tribunal de Arbitraje y Escalafón, en el cual el actor podrá ofrecer sus pruebas, conforme a los siguientes lineamientos:
 
-III. En caso de que uno o varios de los trabajadores en activo se encuentren registrados en más de un sindicato se tomarán como votos nulos;
+I. En el auto admisorio se citará a una audiencia de conciliación, demanda y excepciones, pruebas y resolución, la que deberá efectuarse dentro de los treinta días hábiles siguientes a la fecha en que se haya presentado la demanda;
 
-(F. DE E., P.O. 2 DE NOVIEMBRE DE 2004)(F. DE E., P.O. 7 DE DICIEMBRE DE 2004)
+II. El tribunal deberá emplazar al demandado, apercibiéndolo de que de no concurrir al desahogo de la audiencia, tendrá por admitidas las peticiones de la parte actora;
 
-IV. No computarán los votos de los servidores públicos de confianza, ni de los servidores públicos que hayan ingresado al trabajo con posterioridad a la fecha de presentación del escrito de titularidad; y
+III. En dicha audiencia el tribunal procurará avenir a las partes de no ser posible, cada parte expondrá lo que juzgue conveniente, formularán peticiones, y se ofrecerán y desahogarán las pruebas que hayan sido admitidas;
 
-V. Las objeciones de los servidores públicos que concurran al recuento, deberán hacerse en el acto mismo de la audiencia de ofrecimiento y rendición de pruebas.
+IV. Si se ofrece como prueba el recuento de los servidores públicos, se estará a lo siguiente:
+
+a) El tribunal requerirá a la entidad pública a la que pertenezcan los sindicatos en conflicto, una relación actualizada de los trabajadores de base, autorizada en el presupuesto de egresos del ejercicio fiscal que corresponda, la cual deberá incluir, invariablemente, una copia de los nombramientos y de los documentos a través de los cuales los servidores públicos autorizaron su respectivo descuento de cuota sindical. Dicho listado deberá ser entregado en un término no mayor a veinte días hábiles. El término podrá ser ampliado hasta por diez días hábiles más, a petición de la entidad pública con cuando menos dos días antes al de su vencimiento, debiendo justificar su imposibilidad para dar cumplimiento dentro del mismo.
+
+En caso de incumplimiento en la entrega de la relación de trabajadores y documentos requeridos, el Tribunal de Arbitraje y Escalafón aplicará una multa a la entidad pública de que se trate, de mil a tres mil días de salario mínimo vigente en la ciudad de Guadalajara, y en caso de reincidir en incumplimiento, se suspenderá al titular de la dependencia que se trate, hasta por quince días en el cargo;
+
+b) El pleno del Tribunal de Arbitraje y Escalafón, con la fe de su Secretario General y con base en la relación y documentos señalados en el inciso a) de esta fracción, emitirá un acuerdo respecto de la totalidad de los trabajadores afiliados a cada uno de los sindicatos pertenecientes a la entidad pública de que se trate, debiendo establecer el número de miembros afiliados a cada uno de los sindicatos litigantes, para efectos de su representación sindical;
+
+c) Si de las constancias del expediente resulta evidente la mayor representatividad por parte de alguno de los sindicatos, el Secretario General del Tribunal levantará una constancia de ello y lo remitirá al pleno, para los efectos contemplados en la fracción VI del presente artículo;
+
+d) El pleno del Tribunal deberá llevar a cabo el recuento de los servidores públicos, en cualquiera de los siguientes casos:
+
+1. SI la entidad pública patronal no remitió la documentación completa, en los términos del inciso a) de esta fracción;
+
+2. Se acredite, mediante documento formulado bajo protesta de decir verdad por los servidores públicos interesados, que la entidad pública patronal se negó a recibirles la solicitud de cambio de sindicato al que se entregará su cuota sindical, debiendo ser a cualquiera de algunos (sic) de los sindicatos en conflicto.
+
+Esta causal procederá únicamente cuando dichos movimientos sindicales, en conjunto, hayan sido solicitados cuando menos por 5% de los servidores públicos afiliados a los sindicatos en conflicto y que los mismos pudieran implicar una modificación en la situación jurídica de cualquiera de los sindicatos litigantes, para efectos de la controversia;
+
+3. Cuando lo soliciten las partes, o
+
+4. En los casos que el tribunal lo considere necesario.
+
+e) Para llevar a cabo el recuento, se procederá en los siguientes términos:
+
+1. El pleno señalará el lugar, día y hora en que deba efectuarse;
+
+2. Únicamente tendrán derecho a votar los servidores públicos de base de la entidad pública que concurran al recuento y que se encuentren en la plantilla de personal a que hace mención el inciso a) de la fracción IV de este artículo;
+
+3. No se contará a los servidores públicos de base que hayan ingresado al trabajo con posterioridad a la fecha de presentación del escrito de titularidad;
+
+4. No se contará a los servidores públicos de confianza, y
+
+5. El pleno del Tribunal podrá tomar las medidas que considere pertinentes para el debido desahogo de la diligencia y llevar a cabo el recuento en los términos legales.
+
+V. Las objeciones que realicen los sindicatos, deberán hacerse en el acto mismo de la fase de ofrecimiento y desahogo de pruebas, las que serán resueltas de plano por el pleno del Tribunal, y
+
+VI. Desahogadas las pruebas, las partes podrán alegar hasta por diez minutos lo que a su derecho convenga, procediéndose a reservar los autos para emitir el laudo correspondiente.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+###### Art. 144
+
+Ter. Si de las constancias del expediente se desprende que algún sindicato de la entidad patronal dejó de cumplir con los requisitos legales, el tribunal, de oficio, iniciará el procedimiento para la cancelación de su registro de conformidad con lo establecido en esta ley.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+###### Art. 144
+
+Quárter. No se podrá promover demanda de titularidad y administración de las condiciones generales de trabajo en la misma entidad pública patronal, sino transcurrido un año calendario contado a partir de que exista laudo ejecutoriado en el juicio anterior.
 
 ###### Art. 145.
 
@@ -2472,3 +2528,7 @@ P.O. 15 DE SEPTIEMBRE DE 2011.
 P.O. 8 DE SEPTIEMBRE DE 2012.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente a su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 18 DE SEPTIEMBRE DE 2012.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
