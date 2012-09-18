@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-municipio-libre-del-estado-de-guerrero-5165"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-01-05"
-last_updated: "2012-04-27"
+last_updated: "2012-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 5 de enero de 1990.
 
@@ -281,41 +281,73 @@ Los problemas de límites entre municipios se resolverán por los Ayuntamientos 
 
 El Congreso del Estado resolverá en definitiva los conflictos por cuestión de límites entre los Municipios del Estado o entre las Comisarías que éstos no puedan resolver en los términos del artículo anterior, recabando previamente la opinión del Gobernador del Estado. Cuando las controversias tengan carácter contencioso resolverá el Pleno del Tribunal Superior de Justicia del Estado.
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTICULO 12.
 
-El Congreso del Estado, podrá crear nuevos municipios dentro de los existentes, modificar sus límites y suprimir o fusionar algunos de ellos previa consulta y dictamen del Ejecutivo del Estado y conforme a los procedimientos que esta Ley establezca.
+El Congreso del Estado, podrá crear nuevos municipios dentro de los existentes, modificar sus límites, suprimir o fusionar alguno de ellos, con base en criterios técnicos de orden demográfico, político, social y económico; lo anterior previa consulta y dictamen del Ejecutivo del Estado, cumpliendo todos y cada uno de los requisitos que esta Ley establezca.
+
+Es de señalar que dicho procedimiento tendrá una duración máxima de un año; una vez alcanzado ese plazo, de no estar concluido el procedimiento, se tendrá que iniciar nuevamente la gestión.
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTICULO 13.
 
-Para la creación de nuevos Municipios dentro de los límites de los existentes, será necesario que se eleve solicitud al Congreso del Estado, en la que se demuestre que los pueblos interesados en formar el nuevo Municipio están de acuerdo en pertenecer al mismo y que al efecto se cumplan los siguientes requisitos:
+Para la creación de nuevos municipios dentro de los límites del Estado, se tendrá que presentar solicitud por escrito de los interesados al Poder Legislativo, misma que deberá cumplir los siguientes requisitos:
 
-I. Contar con una población que exceda de 25,000 habitantes;
+I.- Entregar acta de asamblea general certificada, de los ciudadanos integrantes del núcleo poblacional que soliciten la nueva municipalidad, mediante la cual nombren al comité gestor que los representará para todos los trámites conducentes, mismo que deberá estar integrado por un Presidente, un Secretario y dos vocales, los cuales tendrán personalidad jurídica siempre y cuando los avale el acta antes citada; el comité gestor se renovará cada año por la misma asamblea, asimismo, ningún comité podrá ser reelecto en el período inmediato.
 
-II. Disponer de los recursos económicos suficientes para cubrir, a juicio del Congreso del Estado, las erogaciones que demande la administración municipal;
+II.- Entregar actas de adhesión donde se manifieste la voluntad de manera expresa de todas aquellas localidades que soliciten crear o integrarse a un nuevo municipio; mismas que deberán ser soportadas mediantes (sic) copias simples de las credenciales de elector de todos y cada uno de sus habitantes.
 
-III. Contar con la infraestructura necesaria, a juicio del Congreso del Estado, para el cumplimiento de sus funciones administrativas;
+III.- El censo general de las poblaciones que integren el proyecto de creación del nuevo municipio, deberá exceder de 25 mil habitantes y tener una demarcación territorial que conforme una unidad geográfica continua.
 
-IV. Tener en funcionamiento los servicios públicos que demande la comunidad para la vida normal e higiénica de la población; y
+IV.- Cuando el municipio o municipios afectados queden con menos de 25 mil habitantes, la solicitud de creación de la nueva municipalidad será improcedente.
 
-V. Contar con la opinión favorable de los Municipios afectados, la que deberá producirse dentro de los tres meses siguientes a la solicitud respectiva y que no ponga en peligro, a juicio del Congreso del Estado, su estabilidad o autosuficiencia económica.
+V.- El Comité Gestor deberá presentar Acta de Anuencia actualizada del Cabildo del municipio o municipios afectados.
 
-> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1993)</small>
+VI.- El Comité Gestor aportará la o las actas de anuencia de asamblea de ejidatarios o comuneros, donde manifiesten su conformidad para que en los terrenos de su propiedad se constituya el nuevo municipio.
 
-ARTICULO 13 A.- El Congreso, cuando así lo resuelvan, por lo menos, las dos terceras partes de sus miembros, podrá establecer un Municipio, a pesar de que no se cuente con la población mínima que establece el Artículo 13 de esta Ley, si reúnen los siguientes requisitos:
+VII.- El núcleo de población que se elija como cabecera municipal deberá ubicarse geográficamente en el centro del nuevo territorio municipal, tener un censo no menor de 5 mil habitantes; además de contar con los recursos económicos suficientes para cubrir las erogaciones que requiera la administración pública municipal y, contar con los inmuebles e instalaciones necesarios para el funcionamiento de los servicios públicos, señalados en esta Ley orgánica; asimismo que los centros de población que lo integren y sean varios, estén debidamente comunicados entre sí.
 
-I.- Si la solicitud escrita de los ciudadanos interesados se presentó dos años antes, cuando menos, de que se inicie el procedimiento que previene el Artículo 47 fracción XIII de la Constitución, y los Artículos 12, 13 y 14 de esta Ley;
+VIII.- Cuando menos el 50% de los habitantes, deberán estar alfabetizados.
 
-II.- Si se trata de una zona con densidad socio-económica, cultural, demográfica, geoeconómica y con infraestructura; y con tradiciones, usos, costumbres y trayectoria histórica que la dote de identidad y potencial de desarrollo, que permita que actúe como base para la división territorial y la organización política y administrativa del Estado;
+IX.- A solicitud del Comité Gestor, las dependencias de gobierno, de acuerdo a sus funciones y atribuciones, extenderán la correspondiente constancia de que la nueva cabecera municipal, tiene en funcionamiento los servicios públicos, como son: agua entubada, drenaje, alcantarillado, escuelas, hospital, mercado, rastro, alumbrado público, panteón y cárcel; mismos que podrán ser verificados a juicio del Congreso del Estado.
 
-III.- Si para promover la formación del Municipio no se cometieron ilícitos ni se ejecutaron sistemáticamente actos de violencia física o moral contra las autoridades o la ciudadanía.
+Derivado de lo anterior, cuando el Poder Legislativo resuelva de manera favorable la creación de un muevo (sic) Municipio, deberá ser votado ante el Pleno por lo menos con las dos terceras partes de sus miembros, asimismo en caso de ser aprobado se designará un Ayuntamiento Instituyente de entre los vecinos, cuidando que éstos no hayan fungido como directivos de partidos políticos, desempeñado cargos de elección popular, ni sean miembros del comité gestor vigente. Ese Ayuntamiento durará 3 años, por lo menos, y será sustituido por aquél que sea elegido en los siguientes comicios ordinarios al término de ese plazo.
 
-> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1993)</small>
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
-ARTICULO 13 B.- Cuando se cree un nuevo Municipio, el Congreso, por lo menos con el voto de las dos terceras partes de sus miembros, designará un Ayuntamiento Instituyente de entre los vecinos, cuidando que éstos no hayan fungido como directivos de partidos políticos ni desempeñado cargos de elección popular. Ese Ayuntamiento durará 3 años, por lo menos, y será sustituido por aquel que sea elegido en los siguientes comicios ordinarios al término de ese plazo.
+###### ARTICULO 13-A.
+
+El Congreso del Estado será el facultado para decretar la segregación y anexión de localidades dentro del territorio estatal, tomando en consideración lo señalado en el artículo 23 de la Ley número 59, Orgánica de División Territorial del Estado de Guerrero.
+
+Dicha solicitud se tendrá por justificada cuando pretenda resolver cualquier problema del núcleo poblacional de índole administrativo, político, económico, social, religioso, cultural o que ya no respondan a las necesidades de asociación en vecindad con el municipio al que pertenecen; para tal efecto los interesados deberán cumplir con los siguientes requisitos:
+
+a) Entregar acta de asamblea general de los ciudadanos integrantes del núcleo poblacional que soliciten la segregación y anexión, mediante la cual nombren al comité gestor que los representará para todos los trámites conducentes, mismo que deberá estar integrado por un Presidente, un Secretario y dos vocales, los cuales tendrán personalidad jurídica siempre y cuando los avale el acta antes citada.
+
+b) El núcleo poblacional solicitante deberá estar ubicado en la franja de colindancia entre municipios.
+
+c) El Comité Gestor deberá de presentar la solicitud de segregación y anexión al Congreso del Estado, por la mayoría de los pobladores, anexando copia simple de su respectiva credencial de elector, exponiendo los motivos y causa justificada de dicha solicitud.
+
+d) Asimismo, presentará las Actas de Cabildo actualizadas por medio de las cuales los Ayuntamientos expongan de manera fundada y motivada, su opinión referente a la segregación y anexión.
+
+e) Acta de Anuencia de segregación política, administrativa y electoral expedida por la asamblea de comuneros o ejidatarios del núcleo agrario donde se encuentre asentada la localidad interesada.
+
+Si dicha solicitud fuera acreditada de manera favorable, esta deberá ser votada ante el Pleno de esta Soberanía por lo menos con las dos terceras partes de sus miembros.
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+###### ARTICULO 13-B.
+
+El Congreso del Estado podrá suprimir o fusionar municipios cuando exista incapacidad económica para el sostenimiento de su administración o la notoria disminución de sus habitantes, comprobándose para tal efecto la falta de su ingreso fiscal y la prestación de los servicios públicos indispensables; ésta se llevará a cabo a solicitud del Ejecutivo del Estado y tomando en consideración las dos terceras partes de los núcleos poblacionales afectados.
+
+Al acordarse la supresión de un municipio, la Legislatura determinará a cuál o cuáles de los municipios colindantes se agregarán los centros de población y territorio que lo formaban, procurando su unidad social, cultural y geográfica.
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTICULO 14.
 
-La supresión o fusión de Municipios sólo podrá aprobarse cuando lo soliciten las dos terceras partes de sus vecinos, bajo los métodos de consulta popular, se cuente con la aprobación del Ejecutivo del Estado y la solicitud esté fundada en la insuficiencia de recursos económicos para atender la administración municipal y la prestación de servicios públicos básicos.
+Las acciones citadas en los artículos anteriores, deberán contener como objetivo principal el salvaguardar los Derechos Fundamentales de los individuos, y que estos permitan respetar el desarrollo socioeconómico, cultural, demográfico y geoeconómico de los Ayuntamientos; vigilando y aplicando el gasto público, que permita que el Estado en respeto al régimen constitucional interior del Municipio dote de identidad y potencial de desarrollo con base a la división territorial y a su organización política y administrativa.
 
 ###### ARTICULO 15.
 
@@ -3538,3 +3570,15 @@ TERCERO.- Remítase a los Titulares de los Poderes Ejecutivo, Legislativo y Judi
 CUARTO.- Remítase al Titular del Poder Ejecutivo del Estado, para los efectos legales conducentes.
 
 QUINTO.- Publíquese en el Periódico Oficial del Gobierno del Estado y en la página Web del Congreso del Estado, para su observancia general.
+
+P.O. 18 DE SEPTIEMBRE DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Los artículos antes citados derogan todas las disposiciones que se opongan a ellos.
+
+TERCERO.- Las solicitudes manifestadas antes de la presente iniciativa, se sujetarán a los requisitos establecidos en la Ley Orgánica del Poder Legislativo; por otra parte es de señalar que si existieran solicitudes referentes a la nueva creación de municipios que no hayan sido ingresadas al Congreso del Estado estas deberán de tener el carácter de improcedentes en razón a la división de los poderes y en estricto cumplimiento al Estado de Derecho, lo anterior para todos los efectos legales conducentes.
+
+CUARTO.- Comuníquese el presente Decreto al Titular del Poder Ejecutivo, para todos los efectos legales conducentes.
+
+QUINTO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, para su conocimiento y los efectos legales conducentes.
