@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-375-de-los-derechos-de-las-personas-adultas-44847"
 country: "mx"
 rank: "ley"
 publication_date: "2004-11-16"
-last_updated: "2004-11-16"
+last_updated: "2012-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44847&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GRO"
 ---
 # LEY NUMERO 375, DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE GUERRERO
 
-LEY NUMERO 375 DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE GUERRERO
+LEY NÚMERO 375 DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 16 de noviembre de 2004.
 
@@ -35,29 +35,41 @@ LEY NUMERO 375, DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE GU
 
 ### CAPITULO UNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 1.
 
-Esta Ley es de orden público, de interés social y de observancia general en el Estado de Guerrero, y tiene por objeto el de proteger y reconocer los Derechos de las Personas Adultas Mayores, sin exclusión alguna, para brindarles mejores condiciones de vida y plena integración al desarrollo social, económico, político y cultural, así como establecer las bases y disposiciones para su cumplimiento.
+Esta Ley es de orden público, de interés social y de observancia general en el Estado de Guerrero, y tiene por objeto:
+
+I. Garantizar las condiciones para que las personas adultas mayores gocen de una calidad de vida, productiva dentro y fuera del seno familiar;
+
+II. Promover los derechos de los adultos mayores, garantizar su cumplimiento y aplicar sanciones conforme a derecho, a aquel o aquella persona física o jurídica colectiva, pública o privada, que cometa actos físicos o morales de discriminación o segregación contra el adulto mayor;
+
+III. Fomentar valores de respeto, solidaridad, protección y cuidado hacia el adulto mayor en la sociedad en general, y
+
+IV. Promover la participación activa de los adultos mayores en la vida productiva, social, política y económica de nuestra sociedad.
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 2.
 
-Esta Ley regulará los principios, objetivos, programas, responsabilidades e instrumentos que la Administración Pública deberá atender, en la planeación y aplicación de las Políticas Públicas Estatales, para la observancia de los derechos de las Personas Adultas Mayores, así como el funcionamiento del Instituto Guerrerense para la Atención Integral de las Personas Adultas Mayores. (IGATIPAM).
+Es responsabilidad de la Administración Pública Estatal, que la planeación y aplicación de las políticas públicas se adecúen a los principios, objetivos y programas, así como a los compromisos internacionales adquiridos por el gobierno mexicano, con respecto a los derechos de las Personas Adultas Mayores.
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 3.
 
-La responsabilidad, atención y aplicación de esta Ley compete a:
+Son autoridades para el cumplimiento de esta Ley:
 
 I. El Gobernador del Estado;
 
-II. Las Secretarías de Despacho y demás Dependencias que forman parte de la Administración Pública, así como de los Ayuntamientos Municipales, Órganos Desconcentrados y Paraestatales, en el ámbito de sus respectivas competencias y Jurisdicción;
+II. La Administración Pública Estatal, los Órganos Desconcentrados y Paraestatales, los Ayuntamientos Municipales, en el ámbito de su respectiva competencia y Jurisdicción;
 
-III. La familia de la Persona Adulta Mayor;
+III. El Instituto Guerrerense para la Atención Integral de las Personas Adultas Mayores (IGATIPAM), y
 
-IV. Los Ciudadanos y la Sociedad Civil Organizada, cualquiera que sea su forma o calificación, y
+IV. La Procuraduría de Defensa del Menor y la Familia.
 
-V. El Instituto Guerrerense para la Atención Integral de las Personas Adultas Mayores (IGATIPAM).
-
-En caso de incompatibilidad o de duda entre las disposiciones de esta Ley y de otra que contenga por objeto la protección de las Personas Adultas Mayores, habrá de aplicarse la más favorable a su protección y desarrollo integral.
+En caso de incompatibilidad o de duda entre las disposiciones de esta Ley y de otra que contenga por objeto la protección de los derechos de las Personas Adultas Mayores, habrá de aplicarse la más favorable a su protección y desarrollo integral.
 
 ###### Artículo 4.
 
@@ -89,7 +101,13 @@ XII. Ley. La presente Ley de los Derechos de las Personas Adultas Mayores del Es
 
 XIII. Personas Adultas Mayores. Aquéllas que cuentan con sesenta y cinco años de edad o más, que sean residentes o se encuentren en tránsito en el territorio del Estado de Guerrero.
 
-## TITULO SEGUNDO. DE LOS PRINCIPIOS Y LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+XIV. Procuraduría: la Procuraduría para la Defensa del Menor y la Familia.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+## TITULO SEGUNDO. DE LOS PRINCIPIOS, LOS DERECHOS Y OBLIGACIONES DE LAS PERSONAS ADULTAS MAYORES
 
 ### CAPITULO I. DE LOS PRINCIPIOS
 
@@ -97,55 +115,101 @@ XIII. Personas Adultas Mayores. Aquéllas que cuentan con sesenta y cinco años 
 
 Los principios rectores en la observación y aplicación de esta Ley son:
 
-I.- La Autonomía. Entendida como las acciones que se realicen en beneficio de las Personas Adultas Mayores orientadas a fortalecer su independencia, su capacidad de decisión y su desarrollo personal y comunitario;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
-II.- La Participación. Concebida como la inserción de los adultos mayores en todos los ordenes de la vida pública. En ámbitos de su interés serán consultados y tomados en cuenta; así mismo se promoverá su presencia e intervención;
+I. Autonomía y autorealización. Que comprenderá todas las acciones que se realicen en beneficio de las Personas Adultas Mayores orientadas a fortalecer su independencia, su capacidad de decisión, su desarrollo personal y comunitario; así como la promoción y protección de todos los derechos humanos y libertades fundamentes (sic) de las personas;
 
-III.- La Equidad. Es el trato justo y proporcional en las condiciones de acceso y disfrute de los satisfactores necesarios para el bienestar de las Personas Adultas Mayores, sin distinción por sexo, situación económica, identidad étnica, fenotipo, credo, religión o cualquier circunstancia;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
-IV.- La Atención Preferente. Determinada como aquella que obliga a las Instituciones Estatales y Municipales de Gobierno, así como a los sectores social y privado a implementar programas acordes a las diferentes etapas, características y circunstancias de las Personas Adultas Mayores;
+II. Participación. Inserción de las personas adultas mayores, con oportunidad para seguir contribuyendo a la sociedad, desde los diferentes ámbitos de la vida pública y privada, con participación en la realización de actividades de promoción y el fomento de la interacción entre las generaciones. En los ámbitos de su interés serán consultados y tomados en cuenta, promoviendo su presencia e intervención;
 
-V.- La Corresponsabilidad. Considerada como la concurrencia y responsabilidad compartida de los sectores públicos y social, en especial de las comunidades y familias, para la consecución del objeto de esta Ley.
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+III. Equidad y reciprocidad entre las generaciones. Es el trato justo y proporcional en las condiciones de acceso y disfrute de los satisfactores necesarios para el bienestar de las Personas Adultas Mayores, sin distinción por sexo, situación económica, identidad étnica, fenotipo, credo, religión o cualquier circunstancia, con políticas públicas que garanticen la promoción de la solidaridad entre generaciones y fomenten la cohesión social;
+
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+IV. Atención Preferente. Es aquella que obliga a las Instituciones Estatales y Municipales de Gobierno, así como a los sectores social y privado a implementar programas acordes a las diferentes etapas, características y circunstancias de las Personas Adultas Mayores; con la infraestructura, mobiliario y equipo adecuado, recursos humanos necesarios para que se realicen procedimientos alternativos en los trámites administrativos de personas adultas mayores, poniendo especial atención a aquellas que tengan alguna discapacidad.
+
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+V. Corresponsabilidad. La concurrencia y responsabilidad compartida de los sectores públicos y social, en especial de las comunidades y familias, para la consecución del objeto de esta Ley.
 
 ### CAPITULO II. DE LOS DERECHOS
 
+> <small>(REFORMADO PÁRRAFO PRIMERO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 6.
 
-De manera enunciativa esta Ley reconoce a las Personas Adultas Mayores los siguientes derechos:
+Son derechos de las Personas Adultas Mayores:
 
 A). De la integridad y dignidad:
 
-I. A la vida, con calidad, siendo deber de la familia, de los órganos locales del Gobierno del Estado y de la sociedad, garantizar a las Personas Adultas Mayores, su sobrevivencia así como el acceso a los mecanismos necesarios para ello;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
-II. A la no discriminación, sin distinción alguna a sus derechos;
+I. A un envejecimiento con calidad, en condiciones de seguridad. Es obligación de los órganos de los tres niveles de gobierno, de la familia, la sociedad civil y las propias personas de edad, garantizar la plena realización de todos los derechos humanos y libertades fundamentales;
 
-III. A una vida libre de violencia;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
-IV. A ser respetados en su persona, integridad física, psicoemocional y sexual;
+II. Al disfrute de sus garantías constitucionales, sin discriminación a los derechos de que esta y otras leyes les otorguen;
 
-V. A ser protegidos contra toda forma de explotación;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
-VI. A recibir protección por parte de su familia, órganos locales de Gobierno y sociedad, y
+III. A la protección de sus derechos humanos;
 
-VII. A vivir en entornos seguros, dignos y decorosos, que cumplan con sus necesidades y requerimientos y en donde ejerza libremente sus derechos.
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+IV. A un envejecimiento libre de violencia, abuso y cualquier forma de abandono;
+
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+V. A ser respetados en su persona, integridad física, psicoemocional y sexual;
+
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+VI. A ser protegidos contra toda forma de explotación;
+
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+VII. A recibir protección por parte de su familia, la comunidad y órganos de gobierno;
+
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+VIII. A vivir en entornos seguros, dignos y decorosos, que cumplan con sus necesidades y requerimientos y en donde ejerza libremente sus derechos.
 
 B). De la certeza jurídica y familia:
 
-I. A vivir en el seno de una familia o a conservar relaciones personales y trato directo con ella, aún en el caso de estar separados;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
-II. A enunciar su opinión libremente, conocer sus derechos y a participar en la esfera familiar y comunitaria así como en todo procedimiento administrativo o judicial, que afecte sus ámbitos personal, familiar y social;
+I. A vivir en el seno de una familia, conservar relaciones personales y trato directo con ella, aún en el caso de estar separados;
 
-III. A recibir un trato digno y adecuado cuando sean víctimas, o ellos mismos realicen cualquier tipo de ilícito o infracción;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
-IV. A recibir el apoyo de los órganos locales de Gobierno en lo relativo al ejercicio y respeto de sus derechos a través de las Instituciones instauradas para tal efecto como son: Sistema para el Desarrollo Integral de la Familia del Estado de Guerrero, Tribunal Superior de Justicia del Estado de Guerrero, de las Procuradurías competentes y la Comisión de Derechos Humanos del Estado de Guerrero, y
+II. A conocer y entender sus derechos como individuo y de participación en la esfera familiar y comunitaria;
 
-V. A recibir asesoramiento jurídico de manera gratuita, cuando sea parte en procedimientos administrativos o judiciales.
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+III. A recibir un trato justo, digno y adecuado cuando sean partes de algún procedimiento judicial, administrativo o en forma de juicio;
+
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+IV. A recibir el apoyo de los tres niveles de los órganos de gobierno, para el pleno ejercicio y respeto de sus derechos;
+
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+V. A recibir asesoramiento jurídico gratuito, cuando sean parte en procedimientos administrativos o judiciales, y a contar con representante legal cuando así sea requerido.
 
 C). De la salud y alimentación:
 
-I. Poder acceder a los satisfactores ineludibles, considerando alimentos, bienes, servicios y condiciones humanas o materiales, para su atención integral;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
-II. A tener acceso a los servicios de salud, en los términos del párrafo cuarto del artículo cuarto constitucional, con el objeto de que gocen cabalmente de bienestar físico, mental y/o psicoemocional, y
+I. El acceso a los satisfactores ineludibles, considerando alimentos, bienes, servicios y condiciones humanas o materiales, para su atención integral;
+
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+II. A tener acceso a los servicios de salud y la atención periódica y continua que necesite para prevenir o retrasar la aparición de enfermedades crónicas, a menudo discapacitantes, con la plena observancia de la garantía consagrada en el párrafo cuarto del artículo cuarto constitucional, con el objeto de que gocen cabalmente de su bienestar físico, mental y/o psicoemocional;
+
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
 III. A recibir orientación y formación en materia de salud, alimentación e higiene, así como a todo aquello que beneficie su cuidado personal.
 
@@ -153,41 +217,91 @@ D). De la educación, recreación, información y participación:
 
 I. De asociarse y reunirse;
 
-II. A recibir información sobre las Instituciones que proporcionan asistencias para su cuidado integral;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
-III. A recibir educación conforme lo señala el artículo tercero de la Constitución Política de los Estados Unidos Mexicanos, y
+II. A recibir información adecuada sobre sus derechos y obligaciones, así como de las Instituciones públicas;
+
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+III. A recibir y participar en los programas de educación;
 
 IV. A participar en la vida cultural, deportiva y recreativa de su comunidad.
 
 E). Del trabajo:
 
-I. A disfrutar de oportunidades igualitarias de ingreso al trabajo o de otras posibilidades de conseguir un ingreso propio, y
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
-II. A recibir una capacitación adecuada.
+I. A la permanencia en el trabajo en condiciones de igualdad, mientras deseen trabajar y puedan hacerlo;
+
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+II. A oportunidades igualitarias de ingreso al trabajo o de otras posibilidades de conseguir un ingreso propio;
+
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+III. A recibir una capacitación continua, en donde se les permita conocer de los avances tecnológicos.
 
 F). De la Asistencia Social:
 
 I. A ser sujetos de programas de asistencia social, cuando se encuentren en situación de riesgo o desamparo, que garanticen su atención integral.
 
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+II. A la habilitación para que participe plena y eficazmente en la vida económica, política y social de su comunidad, ya sea mediante trabajo remunerado o voluntario.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 6 Bis.
+
+Las personas adultas mayores, tendrán las siguientes obligaciones:
+
+I. Proporcionar a las autoridades competentes, información verídica y eficaz, respecto de su persona.
+
+II. Colaborar con los programas públicos dispuestos para la población adulta mayor.
+
+III. Aprender y aplicar conocimientos para el autocuidado integral de la salud;
+
+IV. Participar en actividades comunitarias y sociales, compartiendo con las nuevas generaciones su experiencia y conocimiento.
+
+V. Cumplir con puntualidad a las revisiones médicas y mantener vigentes los controles de sanidad que las institución (sic) en salud dispongan para la población adulta mayor.
+
 ## TITULO TERCERO. DE LAS OBLIGACIONES DEL ESTADO, LA SOCIEDAD Y DE LA FAMILIA
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 7.
 
-El Estado garantizará las condiciones óptimas de salud, educación, nutrición, vivienda, desarrollo integral y seguridad social de las Personas Adultas Mayores. De igual forma establecerá programas que aseguren a todos los trabajadores una preparación adecuada para su retiro.
+El Estado, a través de la administración pública estatal, sus órganos descentralizados y paraestatales, garantizará la plena observación de los derechos de las personas adultas mayores, con el establecimiento de condiciones óptimas en la prestación de servicios de salud, educación, nutrición, vivienda, desarrollo integral y seguridad social.
+
+De igual forma, promoverá una coordinación interinstitucional entre los tres niveles de gobierno, la sociedad civil, el sector privado y las propias personas de edad, para que los programas y acciones se transformen en medidas prácticas. Así como el establecimiento de los mecanismos que garanticen a los trabajadores transitar hacia un retiro y envejecimiento favorable.
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 8.
 
-El Estado promoverá la publicación y difusión de esta Ley para que la sociedad y las familias respeten a las Personas Adultas Mayores e invariablemente otorguen el reconocimiento a su dignidad.
+La Administración Pública, los órganos descentralizados y paraestatales, darán publicidad y difusión a la presente Ley, estableciendo programas educativos para que los trabajadores, la sociedad y las familias, conozcan y entiendan los derechos de las Personas Adultas Mayores y su vinculación con los diferentes órganos de gobierno.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 8 Bis.
+
+El Estado, a través del IGATIPAM, establecerá un sistema de información que contenga datos estadísticos de las Personas Adultas Mayores, con referencia a su situación económica, civil, patrimonial, geográfica, de vivienda, salud y familiar.
+
+El Instituto deberá coordinarse con el INEGI para la formación de tabuladores que permitan tener una programación estadística de las próximas Personas Adultas Mayores.
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 9.
 
-El Estado deberá exigir en el transporte público, la existencia de asientos preferenciales debidamente señalados para las Personas Adultas Mayores, así como la existencia de condiciones adecuadas para su ascenso y descenso en las paradas y terminales.
+El Estado, a través de la Comisión Técnica de Transporte y Vialidad, de acuerdo a las facultades que le concede la Ley de Transporte del Estado, garantizará que en el transporte público, existan asientos preferenciales debidamente identificados para las Personas Adultas Mayores, así como la existencia de condiciones adecuadas para su ascenso y descenso en las paradas y terminales. Promoviendo lo conducente ante las autoridades federales, para que el servicio público de transporte federal otorgue las mismas condiciones a las personas adultas mayores.
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 10.
 
-Toda Institución Pública o Privada que brinde servicios al público, deberá contar o mantener una infraestructura adecuada, asientos preferenciales y otras condiciones para el uso de las Personas Adultas Mayores que los requieran; además deberán ofrecerles los recursos humanos necesarios para que se realicen procedimientos alternativos en los tramites administrativos.
+El Poder Ejecutivo, a través del Instituto garantizará que toda Institución Pública o Privada que brinde servicios al público, cuente con pasamanos, rampas, pisos antiderrapantes, evitando en lo posible los escalones o desniveles en el área de atención al público, así como asientos preferenciales y otras condiciones que garanticen la seguridad y comodidad de las Personas Adultas Mayores; además de brindarles los recursos necesarios para que se realicen los procedimientos alternativos en los trámites administrativos.
 
 ###### Artículo 11.
 
@@ -197,81 +311,135 @@ Las Instituciones Públicas y Privadas a cargo de Programas sociales para las Pe
 
 Ninguna Persona Adulta Mayor podrá ser socialmente marginada o discriminada en ningún espacio público o privado por razón de su edad, genero, estado físico, creencia religiosa o condición social.
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 13.
 
-Las Personas Adultas Mayores deben permanecer integradas a su núcleo familiar y a su comunidad, participando activamente en la formulación y ejecución de políticas que afecten directamente su bienestar y sólo en el caso de enfermedad, decisión personal o causa de fuerza mayor calificada, podrá solicitar su ingreso en alguna institución de asistencia pública o privada dedicada al cuidado de Personas Adultas Mayores.
+Las Personas Adultas Mayores deben permanecer integradas a su núcleo familiar y a su comunidad, participando activamente en la formulación y ejecución de políticas que afecten directamente su bienestar y sólo en el caso de enfermedad, decisión personal o de comprobarse que han sido víctimas de agresión, cual sea el tipo de violencia ejercida, podrá solicitar su ingreso en alguna institución de asistencia pública o privada dedicada al cuidado de Personas Adultas Mayores.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 14.
 
-La familia de la Persona Adulta Mayor deberá cumplir su función social de manera constante y permanente deberá velar por cada una de las Personas Adultas Mayores que formen parte de ella, siendo responsable de proporcionar los satisfactores necesarios para su atención y desarrollo integral y tendrá las siguientes obligaciones para con ellos:
+La familia de la Persona Adulta Mayor deberá velar por cada persona de edad que forme parte de ella, siendo el primer responsable de proporcionar los satisfactores necesarios para su atención y desarrollo integral, teniendo las siguientes obligaciones para con ellos:
 
 I.- Otorgar alimentos de conformidad con lo establecido en el Código Civil;
 
 II.- Fomentar la convivencia familiar cotidiana, donde la Persona Adulta Mayor participe activamente;
 
-III.- Promover los valores que incidan en sus necesidades afectivas, de protección y de apoyo de la Persona Adulta Mayor, y
+III.- Promover los valores que incidan en sus necesidades afectivas, de protección y de apoyo de la Persona Adulta Mayor, y (sic)
 
 IV.- Evitar que alguno de sus integrantes cometa cualquier acto, en contra de la Persona Adulta Mayor, de discriminación, abuso, explotación, aislamiento, violencia y actos jurídicos que pongan en riesgo su persona, bienes y derechos.
+
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+V.- Conocer y respetar los derechos de las personas adultas mayores previstos en esta Ley.
 
 ## TITULO CUARTO. DE LA POLITICA PUBLICA ESTATAL SOBRE LAS PERSONAS ADULTAS MAYORES
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 15.
 
-Son objetivos de la Política Pública Estatal sobre las Personas Adultas Mayores, atendiendo los lineamientos federales en la materia, los siguientes:
+La Política Pública Estatal sobre las Personas Adultas Mayores, deberá contemplar los siguientes objetivos:
 
 I.- Propiciar las condiciones para un mayor bienestar físico y mental a fin de que puedan ejercer plenamente sus capacidades en el seno de la familia y de la sociedad, incrementando su auto estima y preservando su dignidad como ser humano;
 
-II.- Garantizar el pleno ejercicio de sus derechos sean residentes o estén de paso en el territorio estatal;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
-III.- Garantizar igualdad de oportunidades y una vida digna, promoviendo la defensa y representación de sus intereses;
+II.- Garantizar el pleno ejercicio de los derechos de las Personas Adultas Mayores;
 
-IV.- Establecer las bases para la planeación y concertación de acciones entre las instituciones públicas y privadas, para lograr un funcionamiento coordinado en los programas y servicios que presten a este sector de la población, a fin de que cumplan con las necesidades y características específicas que se requieran;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+III.- Igualdad de oportunidades y un envejecimiento digno, con la protección, defensa y representación de sus intereses;
+
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+IV.- Planeación y concertación de acciones con instituciones públicas y privadas, y organizaciones no gubernamentales, para una efectiva coordinación en los programas y servicios que se presten a este sector de la población, a fin de que cumplan con las necesidades y características especificas que se requieran;
 
 V.- Impulsar la atención integral e interinstitucional de los sectores público y privado, de conformidad a los ordenamientos de regulación;
 
 VI.- Vigilar el funcionamiento de los programas y servicios de acuerdo con las características de este grupo social;
 
-VII.- Promover la solidaridad y la participación ciudadana para consensar programas y acciones que permitan su incorporación social y alcanzar un desarrollo justo y equitativo;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
-VIII.- Fomentar entre el personal de las Dependencias e Instituciones Gubernamentales, la familia y la sociedad, una cultura de aprecio a la vejez para lograr un trato digno, favorecer su revalorización y su plena integración social, así como procurar una mayor sensibilidad, conciencia social, respeto, solidaridad y convivencia entre las generaciones con el fin de evitar toda forma de discriminación y olvido por motivo de su edad, género, estado físico o condición social;
+VII.- Crear mecanismos que permitan establecer una solidaridad y participación ciudadana, con programas y acciones para su incorporación social y su desarrollo justo y equitativo;
+
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+VIII.- Capacitar al personal de las Dependencias e Instituciones Gubernamentales Estatales y de los Ayuntamientos, la familia y la sociedad, hacia una cultura de reconocimiento a la vejez, para lograr un trato digno, favorecer su valorización y su plena integración social, así como procurar una mayor sensibilidad, conciencia social, respeto, solidaridad y convivencia entre las generaciones con el fin de evitar toda forma de discriminación y olvido por motivo de su edad, genero, estado físico o condición social;
 
 IX.- Promover la participación activa de las Personas Adultas Mayores en la formulación y ejecución de las políticas públicas que les afecten;
 
-X.- Impulsar el desarrollo humano integral de las Personas Adultas Mayores, observando el principio de equidad de genero, por medio de políticas públicas, programas y acciones a fin de garantizar la igualdad de derechos, oportunidades y responsabilidades de hombres y mujeres así como la revalorización del papel de la mujer y del hombre en la vida social, económica, política, cultural y familiar, así como la no-discriminación individual y colectiva hacia la mujer;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+X.- Crear un desarrollo humano integral de las Personas Adultas Mayores, con plena observancia a la equidad de genero, en donde se les reconozca su aportación y experiencia, el papel de la mujer y del hombre en la vida social, económica, política, cultural y familiar;
 
 XI.- Fomentar la permanencia, cuando así lo deseen, de las Personas Adultas Mayores en su núcleo familiar y comunitario;
 
-XII.- Propiciar formas de organización y participación de las Personas Adultas Mayores, que permitan al Estado aprovechar su experiencia y conocimiento;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
-XIII.- Impulsar el fortalecimiento de redes familiares, sociales e institucionales de apoyo a las Personas Adultas Mayores y garantizar la asistencia social para todas aquéllas que por sus circunstancias requieran de protección especial por parte de las Instituciones públicas y privadas;
+XII.- Organizar a las Personas Adultas Mayores, para que participen en las políticas públicas, permitiendo al Estado aprovechar su experiencia y conocimiento;
+
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+XIII.- Establecer redes familiares, sociales e institucionales de apoyo a las Personas Adultas Mayores y garantizar la asistencia social para todas aquéllas que por sus circunstancias requieran de protección especial por parte de las Instituciones públicas y privadas;
 
 XIV.- Establecer las bases para la asignación de beneficios sociales, descuentos y exenciones para ese sector de la población de conformidad con las disposiciones jurídicas aplicables;
 
 XV.- Propiciar su incorporación a los procesos productivos emprendidos por los sectores públicos y privados, de acuerdo a sus capacidades y aptitudes;
 
-XVI.- Propiciar y fomentar programas especiales de educación y becas de capacitación para el trabajo, mediante los cuales se logren su reincorporación a la planta productiva del país y en su caso a su desarrollo profesional;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+XVI.- Establecer programas de educación y becas de capacitación para el trabajo, mediante los cuales se les reincorpore a la planta productiva del Estado, y su desarrollo profesional;
 
 XVII.- Fomentar que las Instituciones educativas y de seguridad social establezcan las disciplinas para la formación en Geriatría y Gerontología, con el fin de garantizar la cobertura de los servicios de salud requeridos por la población adulta mayor;
 
-XVIII.- Fomentar la realización de estudios e investigaciones sociales de la problemática inherente al envejecimiento que sirvan como herramientas de trabajo a las Instituciones del sector público y privado para desarrollar programas en beneficio de la población adulta mayor;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+XVIII.- Elaborar estudios e investigaciones sociales de la transición demográfica poblacional, los índices de desarrollo, los efectos diferenciales del envejecimiento en las mujeres y los hombres, que sirvan como herramientas de trabajo a las instituciones del sector público y privado para desarrollar programas en beneficio de la población adulta mayor;
 
 XIX.- Establecer un programa social de pensión económica, de carácter permanente que tenderá a la cobertura universal para las Personas Adultas Mayores, estableciendo las directrices para su operación o funcionamiento;
 
-XX.- Promover la difusión de los derechos y valores en beneficio de las Personas Adultas Mayores, con el propósito de sensibilizar a las familias y a la sociedad en general respecto a la problemática de este sector;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
-XXI.- Llevar a cabo programas compensatorios orientados a beneficiar a las Personas Adultas Mayores en situación de rezago y poner a su alcance los servicios sociales y asistenciales así como la información sobre los mismos, y
+XX.- Difusión de los derechos y valores en beneficio de las Personas Adultas Mayores, con el propósito de sensibilizar a las familias y a la sociedad en general respecto a la problemática de este sector;
 
-XXII.- Fomentar la creación de espacios de expresión para el Adulto Mayor.
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+XXI.- Ejecutar programas compensatorios orientados a beneficiar a las Personas Adultas Mayores en situación de rezago y poner a su alcance los servicios sociales y asistenciales así como la información sobre los mismos;
+
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+XXII.- Crear espacios de expresión y participación del Adulto Mayor;
+
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+XXIII.- Elaborar y promover la responsabilidad individual y colectiva de reconocer las contribuciones pasadas y presentes de las personas de edad, procurando contrarrestar mitos e ideas preconcebidas, y por consiguiente, tratar a las personas de edad con respeto y gratitud, dignidad y consideración;
+
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+XXIV.- Establecer servicios para las víctimas de malos tratos y procedimientos de rehabilitación para quienes los cometan;
+
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+XXV.- Establecer mecanismos que alienten a profesionales de la salud y servicios sociales y al público en general a que informen al IGATIPAM sobre la existencia de malos tratos a personas de edad, y
+
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+XXVI.- Fomentar la contratación de personas adultas mayores, a través de incentivos fiscales.
 
 ## TITULO QUINTO. DE LAS OBLIGACIONES DE LAS INSTITUCIONES PUBLICAS
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 16.
 
-En su formulación y ejecución, el Plan Estatal de Desarrollo particularmente su Capítulo de Desarrollo Social, deberá ser congruente con los principios, objetivos e instrumentos que se señalen en esta Ley y en los Programas de Atención Integral a las Personas Adultas Mayores.
+En su formulación y ejecución, el Plan Estatal de Desarrollo, deberá ser congruente con los principios, objetivos e instrumentos que se señalan en esta Ley y en los programas de atención integral a las Personas Adultas Mayores.
 
 ###### Artículo 17.
 
@@ -279,7 +447,9 @@ Corresponde a la Secretaría General de Gobierno garantizar a las Personas Adult
 
 I.- La implementación de los programas necesarios a efecto de promover el empleo para las Personas Adultas Mayores, tanto en el sector público como en el privado, atendiendo a su profesión u oficio y a su experiencia y conocimientos teóricos y prácticos, sin más discriminación que su limitación física o mental;
 
-II.- La Coordinación con la Secretaría de Desarrollo Económico para impulsar programas de autoempleo de acuerdo a su profesión u oficio y a través de apoyos financieros, de capacitación y la creación de redes de comercialización;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+II.- La Coordinación con las diferentes Secretarías de la Administración Pública estatal, para impulsar programas de autoempleo de acuerdo a su profesión u oficio y a través de apoyos financieros, de capacitación y la creación de redes de comercialización;
 
 III.- La capacitación y financiamiento para autoempleo a través de becas, talleres familiares, bolsas de trabajo oficiales y particulares;
 
@@ -341,7 +511,9 @@ III.- La realización de campañas de prevención y promoción de la salud a fin
 
 IV.- El acceso a la atención médica en clínicas y hospitales con el establecimiento de áreas de geriatría en las unidades médicas de segundo y tercer nivel, públicas y privadas, tratándose de las primeras la atención será gratuita;
 
-V.- Una cartilla medica de salud y autocuidado, misma que será utilizada indistintamente en las Instituciones públicas y privadas, en la cual se especificará el estado general de salud, enfermedades crónicas, tipo de sangre, medicamentos y dosis administradas, reacciones e implementos para ingerirlos, alimentación o tipo de dieta suministrada, consultas médicas y asistencias a grupos de autocuidado;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+V.- Proporcionar la cartilla médica de salud y autocuidado del adulto mayor, misma que será utilizada indistintamente en las Instituciones públicas y privadas, en la cual se especificará el estado general de salud, enfermedades crónicas, tipo de sangre, medicamentos y dosis administradas, reacciones e implementos para ingerirlos, alimentación o tipo de dieta suministrada, consultas medicas y asistencias a grupos de autocuidado;
 
 VI.- Cursos de capacitación orientados a promover el autocuidado de la salud para que sean más independientes;
 
@@ -385,9 +557,13 @@ IV.- La vigilancia sobre las Instituciones que prestan cuidado y atención a las
 
 V.- La atención y protección jurídica cuando sean víctimas de cualquier delito, en coadyuvancia con la Procuraduría General de Justicia del Estado;
 
-VI.- La promoción mediante la vía conciliatoria de la solución a su problemática familiar cuando no se trate de delitos tipificados por el Código Penal, por infracciones previstas en la Ley de Asistencia y Prevención de la violencia intrafamiliar del Estado de Guerrero;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
-VII.- La atención y seguimiento de quejas, denuncias e informes sobre la violación de los derechos de las Personas Adultas Mayores, haciéndolos del conocimiento de las autoridades competentes y de ser procedente, ejercitar las acciones legales correspondientes;
+VI.- Promover por la vía conciliatoria, a través de la Procuraduría, la solución a su problemática familiar cuando se trate de infracciones previstas en la Ley de Asistencia y Prevención de la violencia familiar del Estado de Guerrero, y no constituyan delito;
+
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+VII.- Recibir, a través de la Procuraduría, las quejas, denuncias e informes sobre la violación de los derechos de las Personas Adultas Mayores, haciéndolos del conocimiento de las autoridades competentes y de ser procedente, ejercitar las acciones legales correspondientes;
 
 VIII.- La presentación de la denuncia ante las autoridades competentes, cuando sea procedente de cualquier caso de maltrato, lesiones, abuso físico o psíquico, sexual, abandono, descuido o negligencia, explotación y en general, cualquier acto que perjudique a las Personas Adultas Mayores, y
 
@@ -401,9 +577,11 @@ IX.- El impulso y promoción del reconocimiento y ejercicio de los derechos de l
 
 La Administración Pública del Gobierno del Estado de Guerrero, establecerá programas para que las Personas Adultas Mayores se beneficien en el uso del transporte público del Estado, que se ajusten a las necesidades de las Personas Adultas Mayores.
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 24.
 
-Las Personas Adultas Mayores, tendrán excepciones de pagos en el transporte público o bien tarifas bajas de conformidad con lo dispuesto en la Ley de la materia.
+Las Personas Adultas Mayores que cuenten con identificación oficial, tendrán descuentos especiales en el transporte público urbano y foráneo o bien tarifas bajas de conformidad con lo dispuesto en la Ley de la materia.
 
 ###### Artículo 25.
 
@@ -425,13 +603,17 @@ La Administración Pública del Estado, deberá promover y organizar descuentos 
 
 ### CAPITULO III. ATENCION PREFERENCIAL
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 29.
 
-Es obligación de las Secretarías y demás Dependencias que integran la Administración Pública, así como los Ayuntamientos Municipales, Órganos Desconcentrados y Entidades Paraestatales del Estado, vigilar y garantizar la defensa de los derechos de las Personas Adultas Mayores otorgándoles atención preferencial que acelere los trámites y procedimientos administrativos a realizar.
+Es obligación de las Secretarías y demás Dependencias que integran la Administración Pública, así como los Ayuntamientos Municipales, Órganos Desconcentrados y Entidades Paraestatales del Estado, vigilar y garantizar la defensa de los derechos de las Personas Adultas Mayores otorgándoles atención preferencial que acelere los trámites y procedimientos administrativos a realizar a través de ventanillas especiales y atención expedita, especialmente cuando se trate de personas enfermas y/o discapacitadas.
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 30.
 
-Se promoverá la celebración de convenios de concertación con la iniciativa privada, a fin de que la atención preferencial para las Personas Adultas Mayores, también sea proporcionada en Instituciones bancarias, tiendas de autoservicio y otras empresas mercantiles.
+El Poder Ejecutivo, por conducto de las Secretarías de Desarrollo Económico y de Gobierno, promoverá la celebración de convenios de concertación con la iniciativa privada, a fin de que la atención preferencial para las Personas Adultas Mayores, también sea proporcionada en Instituciones bancarias, tiendas de autoservicio y otras empresas mercantiles, a través de ventanillas especiales y atención expedita, especialmente cuando se trate de personas enfermas y/o discapacitadas.
 
 ### CAPITULO IV. DE LA ASISTENCIA SOCIAL
 
@@ -455,9 +637,13 @@ III. Impulsar actividades y recreaciones que sean de su interés:
 
 IV. Llevar un control de ingresos y egresos;
 
-V. Llevar el seguimiento, evolución y evaluación de los casos atendidos, y
+V. Llevar el seguimiento, evolución y evaluación de los casos atendidos, y (sic)
 
 VI. Llevar un expediente personal minucioso.
+
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+VII. Cumplir con las Normas Oficiales existentes sobre la materia.
 
 ###### Artículo 34.
 
@@ -467,9 +653,11 @@ En todo momento las Instituciones públicas, privadas y sociales deberán garant
 
 Todas las Instituciones públicas, privadas y sociales que presten asistencia a las Personas Adultas Mayores, deberán contar con personal que posea vocación, capacidad y conocimientos orientados a la atención de éstas.
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 36.
 
-Toda contravención a lo establecido en la presente Ley, por las Instituciones de asistencia privada, será hecha del conocimiento del Consejo Directivo, a efecto de que actúe en consecuencia.
+Toda contravención a lo establecido en la presente Ley, por las Instituciones de asistencia privada, será hecha del conocimiento del Consejo Directivo del IGATIPAM o ante la Procuraduría, para que se actúe en consecuencia.
 
 ## TITULO SEPTIMO. DEL INSTITUTO GUERRERENSE PARA LA ATENCION INTEGRAL DE LAS PERSONAS ADULTAS MAYORES
 
@@ -479,9 +667,17 @@ Toda contravención a lo establecido en la presente Ley, por las Instituciones d
 
 Se crea el "Instituto Guerrerense para la Atención Integral de las Personas Adultas Mayores", IGATIPAM como Organismo Público Descentralizado de la Administración Pública Estatal, con personalidad jurídica y patrimonio propio y autonomía técnica de gestión para el cumplimiento de sus atribuciones, objetivos y fines, con domicilio en la ciudad de Chilpancingo de los Bravo, Guerrero.
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 38.
 
-El Instituto es rector responsable de la formulación, desarrollo y ejecución de la política pública estatal de las Personas Adultas Mayores, que forma parte prioritaria de la política para el Desarrollo Social, cuyo objeto es coordinar, promover, apoyar, vigilar y evaluar las acciones públicas, estrategias y programas que se deriven de ella, y será el enlace con los Organismos Nacionales y Municipales afines en la materia.
+El Instituto es rector responsable de la formulación, desarrollo, ejecución, evaluación y vigilancia de la política pública estatal para las Personas Adultas Mayores, que forma parte prioritaria de la política para el Desarrollo Social, cuyo objeto es:
+
+I. Coordinar, promover, apoyar, vigilar y evaluar las acciones públicas, estrategias y programas de la política pública estatal para adultos mayores;
+
+II. Ser el enlace con los Organismos Nacionales y Municipales afines en la materia, y
+
+III. Vigilar el cumplimiento de la presente Ley y el respeto de los derechos de los adultos mayores.
 
 ###### Artículo 39.
 
@@ -503,7 +699,9 @@ Para el cumplimiento de su objeto, el Organismo tendrá las siguientes atribucio
 
 I. Impulsar las acciones de Estado y la sociedad, para promover el desarrollo humano integral de los Adultos Mayores, coadyuvando para que sus distintas capacidades sean valoradas y aprovechadas en el desarrollo comunitario, económico, social y estatal;
 
-II. Proteger, asesorar, atender y orientar a las Personas Adultas Mayores y presentar denuncias de actos y hechos presuntamente delictuosos ante las autoridades competentes para conocerlos y perseguirlos;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+II. Proteger, asesorar, atender y representar en caso necesario de que no se cuente con representante propio, a las Personas Adultas Mayores y presentar denuncias de actos y hechos presuntamente delictuosos ante las autoridades competentes para conocerlos y perseguirlos;
 
 III. Ser el Organismo de consulta y asesoría obligatoria para las Dependencias y Entidades de la Administración Pública del Estado y, en su caso, voluntaria para las Instituciones de los sectores social y privado, que realicen acciones o programas relacionados con los adultos mayores;
 
@@ -511,7 +709,9 @@ IV. Convocar a las Dependencias y Entidades de la Administración Pública Estat
 
 V. Establecer principios, criterios, indicadores y normas para el análisis y evaluación de las políticas dirigidas a las Personas Adultas Mayores, así como para jerarquizar y orientar sobre las prioridades, objetivos y metas en la materia, a efecto de atenderlas mediante los programas impulsados por las Dependencias y Entidades de la Administración Pública del Estado, con el apoyo concurrente y coordinado de la Federación y Municipios, así como con la participación y colaboración de los Municipios y sectores social y privado;
 
-VI. Coadyuvar en la prestación de servicios de asesoría y orientación jurídica con las Instituciones correspondientes;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+VI. Coadyuvar en la prestación de servicios de asesoría, orientación y representación jurídica con las Instituciones correspondientes;
 
 VII. Diseñar, establecer, verificar y evaluar directrices, estrategias, programas, proyectos y acciones en beneficio de las Personas Adultas Mayores;
 
@@ -523,9 +723,13 @@ X. Fomentar las investigaciones y publicaciones gerontológicas;
 
 XI. Promover en coordinación con las autoridades competentes y en los términos de la legislación aplicable, que la prestación de los servicios y atención que se brinde a los adultos mayores, en las instituciones, casas hogar, albergues, residencia de día o cualquier otro centro, se realice con calidad y cumpla con sus programas, objetivos y metas para su desarrollo humano integral;
 
-XII. Brindar asesoría y orientación en la realización de sus programas y la capacitación que requiere el personal de las instituciones, casas hogar, albergues, residencias de día o de cualquier otro centro que brinden servicios y atención a los adultos mayores;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
-XIII. Realizar visitas de inspección y vigilancia a Instituciones públicas y privadas, casas hogar, albergues, residencias de día o cualquier otro centro de atención a los adultos mayores, para verificar las condiciones de funcionamiento, capacitación de su personal, modelo de atención y condiciones de calidad de vida;
+XII. Brindar asesoría y orientación en la realización de sus programas y la capacitación que requiere la familia, el personal de las instituciones, casas hogar, albergues, residencias de día o de cualquier otro centro que brinden servicios y atención a los adultos mayores;
+
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+XIII. Realizar visitas de inspección y vigilancia a Instituciones públicas y privadas, casas hogar, albergues, residencias de día o cualquier otro centro de atención a los adultos mayores, para verificar las condiciones de funcionamiento, capacitación de su personal, modelo de atención, cumplimiento de las normas oficiales y condiciones de calidad de vida;
 
 XIV. Hacer del conocimiento de las autoridades competentes, de las anomalías que se detecten durante las visitas realizadas a los lugares que se mencionan en la fracción anterior, asimismo podrán hacer del conocimiento público dichas anomalías;
 
@@ -587,9 +791,13 @@ IV. La Secretaría de la Mujer;
 
 V. El Secretario de Asuntos Indígenas;
 
-VI. El Contralor General del Estado, y
+VI. El Contralor General del Estado, y (sic)
 
 VII. El Director General del Sistema Estatal para el Desarrollo Integral de la Familia.
+
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+VIII. El Secretario General de Gobierno
 
 Los representantes propietarios designarán a sus suplentes, quienes deberán tener un nivel mínimo de Director General.
 
@@ -599,9 +807,21 @@ El consejo Directivo, contará con un Secretario Técnico, a propuesta de su pre
 
 I. Llevar la relatoría de las asambleas que celebre el Consejo;
 
-II. Levantar las actas y recabar las firmas de los acuerdos que se tomen, y
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
-III. Las demás que le sean encomendadas por el Consejo.
+II. Levantar y tener bajo resguardo las actas y recabar las firmas de los acuerdos que se tomen,
+
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+III. Difundir y dar seguimiento a los acuerdos y resoluciones del Consejo
+
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+IV. Entregar actas de sesiones, programas de trabajo, orden del día y documentación necesaria para las sesiones de trabajo. (sic)
+
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+V. Las demás que le sean encomendadas por el Consejo.
 
 ###### Artículo 46.
 
@@ -671,7 +891,9 @@ El Director General del Instituto, deberá reunir los siguientes requisitos:
 
 I. Ser ciudadano mexicano, preferentemente Guerrerense, y estar en pleno goce de sus derechos políticos;
 
-II. Ser mayor de 30 años y menor de 70 y
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+II. Ser mayor de 30 años;
 
 III. Tener suficiente experiencia administrativa para el desempeño del cargo, y ser de reconocida solvencia moral, prestigio profesional y no haber sido condenado por delito intencional que amerite pena privativa de libertad, ni en juicio de responsabilidad por delito de carácter oficial.
 
@@ -723,11 +945,15 @@ V. Rendir a la Contraloría General del Estado, un informe bimestral respecto de
 
 ### CAPITULO IV. DEL CONSEJO CIUDADANO DE ADULTOS MAYORES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 56.
 
-El Organismo contará con un Consejo Ciudadano de Adultos Mayores, que tendrá por objeto conocer el seguimiento dado a los programas, opinar sobre los mismos, recabar propuestas de la ciudadanía con relación a las Personas Adultas Mayores y presentarlas al Consejo Directivo.
+El Organismo contará con un Consejo Ciudadano de Adultos Mayores, que tendrá por objeto participar en la verificación de la ejecución del Programa, la correcta aplicación de los recursos y el cumplimiento de metas, así como la difusión de sus informes al respecto.
 
-Este Consejo se integrará con diez adultos mayores de sobresaliente trayectoria en el área en que se desempeñen, de manera equitativa en cuanto a género, los cuales serán seleccionados por el Consejo Directivo, en base a los resultados de la convocatoria que al efecto formule y expida a las Instituciones Públicas y Privadas.
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+Este consejo se integrará con cinco representantes de los beneficiarios del Programa y cinco adultos mayores de sobresaliente trayectoria en el área en que se desempeñen, de manera equitativa en cuanto a género, los cuales serán seleccionados por el Consejo Directivo, en base a los resultados de la convocatoria que al efecto formule y expida a las Instituciones Públicas y Privadas.
 
 El cargo de Consejero Ciudadano será de carácter honorario. Los requisitos, atribuciones y funcionamiento de operación del Consejo se establecerán en el Reglamento Interior del Organismo.
 
@@ -783,25 +1009,33 @@ El Programa Pensión Guerrero se regirá con base a las reglas de operación que
 
 Los Ayuntamientos se coordinarán con el Gobierno del Estado, a través del Instituto Guerrerense para la Atención de las Personas Adultas Mayores y con el Comité Técnico, para la ejecución del Programa "Pensión Guerrero".
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 65.
 
-Se crea el Programa "Siempre es Tiempo de Estudiar" cuyo objeto será estimular la participación de las Personas Adultas Mayores en los programas de educación básica, media, media superior, técnica y universitaria.
+Se crea el Programa "Siempre es Tiempo de Estudiar" cuyo objeto será estimular la participación de las Personas Adultas Mayores en los programas de alfabetización, educación básica, media, media superior, técnica y superior.
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 66.
 
-Corresponde a la Secretaría de Educación Guerrero y de Desarrollo Social, el diseño y la instrumentación del Programa "Siempre es Tiempo de Estudiar" que contendrá entre otros, el acceso a becas estudiantiles, tutorías y facilidades en los trámites administrativos para el ingreso.
+Corresponde a la Secretaría de Educación Guerrero y de Desarrollo Social, asesorar en el diseño y la instrumentación del Programa "Siempre es Tiempo de Estudiar" que contendrá entre otros, el acceso a becas estudiantiles, tutorías y facilidades en los trámites administrativos para el ingreso.
 
 ###### Artículo 67.
 
 Se instituye el Programa "Fomento a la Creación de Organizaciones Productivas" cuyo objeto será el propiciar la organización de las Personas Adultas Mayores en grupos productivos de diferente orden, sobre todo en el ámbito rural.
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 68.
 
-Corresponde a las Secretaría de Desarrollo Social y Rural expedir las reglas de operatividad y lineamientos con que deba conducirse el funcionamiento y organización del Programa "Fomento a la Creación de Organizaciones Productivas".
+Corresponde a las Secretarías de Desarrollo Social y Rural, asesorar para expedir las reglas de operatividad y lineamientos con que deba conducirse el funcionamiento y organización del Programa "Fomento a la Creación de Organizaciones Productivas".
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 69.
 
-El Instituto Guerrerense para la Atención Integral de las Personas Adultas Mayores, vigilará la correcta ejecución de los Programas Especiales Permanentes Pensión Guerrero, "Siempre es Tiempo de Estudiar" y "Fomento a la Creación de Organizaciones Productivas".
+El Instituto Guerrerense para la Atención Integral de las Personas Adultas Mayores, ejecutará y vigilará la correcta ejecución de los Programas Especiales Permanentes Pensión Guerrero, "Siempre es Tiempo de Estudiar" y "Fomento a la Creación de Organizaciones Productivas".
 
 ###### Artículo 70.
 
@@ -833,13 +1067,13 @@ VII. El Coordinador del Sistema Estatal del Registro Civil;
 
 VIII. El Director General del Sistema Estatal para el Desarrollo Integral de la Familia;
 
-IX. El Director General del Instituto de Seguridad Social de los Servicios Públicos del Estado de Guerrero;
+IX. (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2012)
 
 X. El Presidente de la Comisión de Desarrollo Social del Congreso del Estado;
 
-XI. Los Presidentes de los Municipios donde se implemente el Programa "Pensión Guerrero", y
+XI. (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2012)
 
-XII. Las instituciones, clubes y organizaciones, vinculadas con el objeto de dicho Comité.
+XII. (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2012)
 
 El Presidente del Comité podrá invitar a las sesiones del Comité a los representantes de las Dependencias Federales.
 
@@ -849,7 +1083,7 @@ El Comité Técnico del Programa "Pensión Guerrero", tendrá las siguientes fun
 
 I. Verificar el proceso de integración del padrón de beneficiarios;
 
-II. Desarrollar y Ejecutar el Programa "Pensión Guerrero";
+II. (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2012)
 
 III. Establecer las bases de la convocatoria que se emitirá para la implementación del Programa;
 
@@ -883,41 +1117,189 @@ Las relaciones de trabajo entre el Instituto y sus trabajadores se regirán por 
 
 ### CAPITULO I. DE LA DENUNCIA POPULAR
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 77.
 
-Toda persona, grupo social, organizaciones no gubernamentales, asociaciones o sociedades, deberá denunciar ante los órganos competentes, todo hecho, acto u omisión que produzca o pueda producir daño o afectación a los derechos y garantías que establece la presente Ley o que contravenga cualquier otra de sus disposiciones o de los demás ordenamientos que regulen materias relacionadas con las Personas Adultas Mayores.
+Toda persona, grupo social, organizaciones no gubernamentales, asociaciones o sociedades, deberá denunciar ante el Instituto, la Procuraduría, la Comisión de Defensa de los Derechos Humanos y demás órganos competentes, todo hecho, acto u omisión que produzca o pueda producir daño o afectación a los derechos y garantías que establece la Constitución Política de los Estados Unidos Mexicanos, la presente Ley o que contravenga cualquier otra de sus disposiciones o de los demás ordenamientos que regulen materias relacionadas con las Personas Adultas Mayores.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 78.
 
-La denuncia podrá ejercitarse por cualquier persona bastando que se presente por escrito y contenga:
+La denuncia podrá ser verbal, escrita, vía telefónica, vía electrónica, incluso anónima, por lo que las autoridades competentes están obligadas a investigar de los hechos denunciados, dando parte de ello al IGATIPAM. Toda denuncia deberá contener por lo menos los siguientes elementos:
 
-I.- El nombre o razón social, domicilio, teléfono si lo tiene, del denunciante y en su caso de su representante legal;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
-II.- Los actos, hechos u omisiones denunciados;
+I. Autoridad, servidor público o persona denunciada,
 
-III.- Los datos que permitan identificar la presunta autoridad infractora y
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
-IV.- Las pruebas que en su caso ofrezca el denunciante.
+II. Los datos mínimos que permitan la ubicación del denunciado,
+
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+III. Los hechos motivo de la denuncia, y
+
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+IV. Las pruebas que tuviera para acreditar los hechos denunciados.
 
 Cualquier persona que tenga conocimiento del maltrato o violencia contra las Personas Adultas Mayores deberá denunciarlo ante las autoridades competentes.
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 79.
 
-La queja será presentada ante la Comisión de Defensa de los Derechos Humanos del Estado de Guerrero y las formalidades del procedimiento se regirán de acuerdo a la Ley que la rige.
+La Comisión Estatal de Derechos Humanos deberá ser informada de las quejas que se presenten por actos cometidos en agravio de las personas adultas mayores, considerados como violatorios de derechos humanos y que atenten a su dignidad humana, por parte de autoridades y servidores o públicos estatales y municipales.
 
 ###### Artículo 80.
 
-Los procedimientos se regirán conforme a los principios de: inmediatez y rapidez y se procurará en la medida de lo posible el contacto directo con los quejosos denunciantes y autoridades para evitar la dilación de las comunicaciones escritas.
+(DEROGADO, P.O. 18 DE SEPTIEMBRE DE 2012)
 
 ###### Artículo 81.
 
-Si la queja o denuncia presentada fuera competencia de otra autoridad, la autoridad ante la cual se presente acusará de recibido al denunciante, pero no admitirá la instancia y la turnará a la autoridad competente para su tramite y resolución, notificándole de tal hecho al denunciante, mediante acuerdo fundado y motivado.
+(DEROGADO, P.O. 18 DE SEPTIEMBRE DE 2012)
 
 ### CAPITULO II. DE LAS RESPONSABILIDADES Y SANCIONES
 
 ###### Artículo 82.
 
 Las infracciones a lo dispuesto en esta Ley serán sancionadas en el caso de que fuesen cometidas por servidores públicos de conformidad con lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado y tratándose de particulares de acuerdo a lo establecido en la legislación aplicable tomando en cuenta la conducta realizada.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 83.
+
+El Instituto a petición del adulto mayor podrá asesorar y/o representarlo en el procedimiento judicial o administrativo en el que sea parte.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 84.
+
+Las infracciones a las disposiciones de esta Ley se sancionarán con:
+
+I. Amonestación
+
+II. Multa de 30 a 180 días de salario mínimo general vigente en el Estado. Si el infractor fuere jornalero, obrero o no asalariado, la multa será de un día de su jornal, salario o ingreso diario; la que será triplicada en caso de reincidencia, y
+
+III. Arresto por hasta treinta y seis horas.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 85.
+
+Para la aplicación de las sanciones previstas en esta Ley, se tomaran en cuenta:
+
+I. La gravedad de la infracción;
+
+II. Los daños que la misma haya producido;
+
+III. Las condiciones socioeconómicas del infractor; y
+
+IV. La reincidencia del infractor.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 86.
+
+La Secretaría de Finanzas y Administración del gobierno del estado, realizará el cobro de las multas impuestas, mediante el procedimiento económico coactivo previsto en el Código Fiscal del Estado de Guerrero.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 87.
+
+El servidor público que resulte responsable de actos ejecutados en perjuicios de los intereses de un adulto mayor, será sancionada (sic) de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado de Guerrero, independientemente de que el hecho sea constitutivo de delito.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 88.
+
+Cuando el infractor sea servidor público de alguna dependencia citada en esta Ley como institución que preste servicios a la población adulta mayor, la sanción impuesta no deberá ser menor a la inhabilitación definitiva para desempeñar funciones en las mismas.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 89.
+
+Para la aplicación de las sanciones la Autoridad respectiva, deberá tomar en cuenta las medidas de apremio previstas en el Código Procesal Civil vigente en el Estado de Guerrero.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+### CAPITULO III. DEL PROCEDIMIENTO
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 90.
+
+Corresponde a la Procuraduría de Defensa del Menor y la Familia del Estado, conocer e investigar las denuncias de abandono, desamparo, marginación, abuso, explotación y maltrato a personas adultas mayores, ejecutando las medidas necesarias para su adecuada protección.
+
+La Procuraduría dispondrá de un plazo no mayor de cinco días para realizar las investigaciones pertinentes y hasta 30 días para resolver sobre su procedencia.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 91.
+
+Para determinar si la persona adulta mayor ha sido víctima de abandono, desamparo, marginación, abuso, explotación o maltrato, la Procuraduría se auxiliará, con la práctica de los exámenes médicos o psicológicos que sean necesarios, debiendo solicitar el auxilio y colaboración de la Dirección de Servicios Periciales de la Procuraduría General de Justicia del Estado.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 92.
+
+Para la realización de las diligencias de investigación, la Procuraduría, podrá auxiliarse de la fuerza pública, cuando considere que se pueda ver afectada la seguridad de los funcionarios y del adulto mayor.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 93.
+
+Radicada la denuncia correspondiente, la procuraduría dará vista al probable infractor para que en un plazo no mayor de diez días, contados a partir del día siguiente de su notificación, comparezca a expresar lo que en su derecho convenga, ofreciendo las pruebas que estime convenientes y formulando sus alegatos. La notificación deberá realizarse de manera personal, por medio de un oficio, en el que se le indicarán los actos u omisiones que se le imputen.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 94.
+
+Transcurrido el término señalado en el artículo anterior, si el probable infractor hubiese ofrecido pruebas, la Procuraduría fijará un plazo que no excederá de diez días para la celebración de la audiencia de desahogo de pruebas.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 95.
+
+Una vez celebrada la audiencia de desahogo de pruebas, la Procuraduría deberá emitir resolución en un término no mayor de diez días, en la que deberá determinar la procedencia de los actos imputados, el responsable y la aplicación de la sanción que corresponda.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 96.
+
+Cuando a criterio de la Procuraduría existan motivos fundados que hagan presumir un peligro inmediato e inminente a la salud o seguridad del adulto mayor, podrá decretar como medida preventiva la separación de su hogar o del lugar donde comúnmente habite.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 97.
+
+Para los efectos del artículo anterior, la Procuraduría podrá tener la custodia de las personas adultas mayores en los establecimientos de asistencia social a que hace referencia esta Ley. Si en los hechos se prevé la comisión de algún delito, deberá dar vista al Ministerio Público, para su intervención legal.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 98.
+
+Los términos y plazos que se aluden en este Capítulo siempre se computarán en días hábiles.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 99.
+
+Lo previsto en este Capítulo, se estará a lo establecido en la Ley para la Prevención y Tratamiento de la Violencia Familiar para el Estado de Guerrero.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 100.
+
+Cuando la denuncia se presente en contra de alguna de las autoridades señaladas en esta Ley, será presentada ante la Comisión Estatal de Derechos Humanos.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 101.
+
+Si la queja o denuncia presentada fuera competencia de otra autoridad, deberá remitirla en un plazo no mayor de cuarenta y ocho horas, a la autoridad competente para su trámite y resolución, notificando al denunciante esta situación.
 
 T R A N S I T O R I O S
 
@@ -966,3 +1348,17 @@ El Secretario General de Gobierno.
 C. MAYOR LUIS LEON APONTE.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE SEPTIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+ARTÍCULO EGUNDO (SIC).- Remítase al Titular del Ejecutivo del Estado, para los efectos legales conducentes.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado y en la página web del Honorable Congreso del Estado.
