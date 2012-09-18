@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-tribunal-federal-de-justicia-fiscal-708
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-13"
-last_updated: "2012-04-18"
+last_updated: "2012-09-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70849&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-11-11"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE SEPTIEMBRE DE 2012.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 13 de noviembre de 2009.
 
@@ -553,7 +553,11 @@ IV. Región del Norte-Centro I: Una Sala que se denominará “Sala Regional del
 
 V. Región del Norte-Centro II: Dos Salas que se denominarán, "Primera Sala Regional del Norte-Centro II" y "Segunda Sala Regional del Norte-Centro II", ambas con sede en la Ciudad de Torreón, Estado de Coahuila;
 
-VI. Región del Noreste: Dos Salas que se denominarán, “Primera Sala Regional del Noreste” y “Segunda Sala Regional del Noreste”, ambas con sede en la Ciudad de Monterrey, Estado de Nuevo León;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 18 DE SEPTIEMBRE DE 2012)</small>
+
+VI. Región del Noreste: Tres Salas que se denominarán, “Primera Sala Regional del Noreste”, “Segunda Sala Regional del Noreste”, y “Tercera Sala Regional del Noreste”, todas con sede en la Ciudad de Monterrey, Estado de Nuevo León;
 
 VII. Región de Occidente: Tres Salas que se denominarán, “Primera Sala Regional de Occidente”, “Segunda Sala Regional de Occidente” y “Tercera Sala Regional de Occidente”, todas con sede en la Ciudad de Guadalajara, Estado de Jalisco;
 
@@ -635,19 +639,33 @@ m) Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios
 
 n) Comisión Reguladora de Energía (CRE)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
 
-> <small>(ADICIONADO, D.O.F. 1 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 23
 
-Bis.- El Tribunal contará con tres Salas Auxiliares, cuya denominación y sede serán las siguientes:
+Bis.- El Tribunal contará con Salas Auxiliares, cuya denominación y sede serán las siguientes:
 
-I. Primera Sala Auxiliar, con sede en la Ciudad de Puebla, Estado de Puebla;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
 
-II. Segunda Sala Auxiliar, con sede en la Ciudad de Puebla, Estado de Puebla, y
+> <small>(REFORMADA, D.O.F. 18 DE SEPTIEMBRE DE 2012)</small>
+
+I. Primera Sala Auxiliar, con sede en San Andrés Cholula, Estado de Puebla;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+II. (DEROGADA, D.O.F. 18 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 1 DE FEBRERO DE 2012)</small>
 
 III. Tercera Sala Auxiliar, con sede en la Ciudad de Torreón, Estado de Coahuila.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 1 DE FEBRERO DE 2012)</small>
 
 Dichas Salas auxiliarán en el dictado de las sentencias definitivas, incluso en la instancia de aclaración y en el cumplimiento de ejecutorias del Poder Judicial de la Federación, cuando corresponda a sentencias dictadas por ellas mismas, en los juicios instruidos por las Salas Regionales que se determinen por el Pleno de la Sala Superior en su integración de once Magistrados, en términos de lo establecido por el artículo 18, fracción X, de la Ley.
 
@@ -2630,3 +2648,17 @@ SEGUNDO.- Quedan sin efecto todas las disposiciones administrativas emitidas por
 TERCERO.- Los asuntos que a la entrada en vigor de este Acuerdo deban pasar de una unidad administrativa a otra u otras, continuarán su trámite y serán resueltas por aquélla o aquellas unidades a las que se les haya atribuido la competencia en el presente ordenamiento.
 
 CUARTO.- Los documentos emitidos por las Unidades Administrativas que desaparecen o se transforman en virtud del presente Acuerdo, continuarán vigentes hasta en tanto los mismos no sean sustituidos por las Unidades Administrativas competentes establecidas en el presente ordenamiento.
+
+D.O.F. 18 DE SEPTIEMBRE DE 2012.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día 1 de octubre de 2012.
+
+SEGUNDO.- La Tercera Sala Regional del Noreste que se crea iniciará sus operaciones el 8 de octubre de 2012.
+
+TERCERO.- El Pleno de la Sala Superior, en su integración de once Magistrados, determinará las Salas Regionales que serán apoyadas por la Primera Sala Auxiliar, con sede en San Andrés Cholula, Puebla y por la Tercera Sala Auxiliar, con sede en Torreón, Estado de Coahuila, así como el número de asuntos que les serán enviados a una y a otra.
+
+CUARTO.- En términos de lo señalado por el artículo 41, fracciones I y IV, de la Ley, la Junta de Gobierno y Administración determinará la redistribución de los expedientes en trámite y concluidos para la Tercera Sala Regional del Noreste, que se encuentren radicados en la Primera y Segunda Salas Regionales del Noreste, a fin de garantizar una equitativa división de las cargas de trabajo, tomando en cuenta el inventario de cada una de ellas. Asimismo, deberá dictar los demás acuerdos que sean necesarios para la consecución del objetivo de este Acuerdo.
+
+QUINTO.- Se instruye a la Secretaría Operativa de Administración y a la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones, para que a partir de la aprobación del presente Acuerdo, realicen todas las gestiones, acciones, trámites administrativos y presupuestales, entre otros, para implementar lo dispuesto en el presente Acuerdo.
+
+SEXTO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
