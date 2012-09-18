@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-174-de-conservacion-y-vigilancia-de-taxco-de-34544"
 country: "mx"
 rank: "ley"
 publication_date: "1978-01-18"
-last_updated: "1978-01-18"
+last_updated: "2012-09-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GRO"
 ---
 # LEY NUMERO 174 DE CONSERVACION Y VIGILANCIA DE TAXCO DE ALARCON, GUERRERO
 
-LEY NUMERO 174 DE CONSERVACION Y VIGILANCIA DE TASCO DE ALARCON, GUERRERO
+LEY NÚMERO 174 DE CONSERVACIÓN Y VIGILANCIA DE TASCO DE ALARCÓN, GUERRERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el 18 de enero de 1978.
 
@@ -127,7 +127,11 @@ La Junta de Conservación y Vigilancia efectuará las obras de conservación y r
 
 Para rendir el dictamen correspondiente a una solicitud de un particular, particulares o autoridades municipal (sic), del Estado o Federal, la Junta tendrá un plazo máximo de treinta días hábiles.
 
-a).- Si lo que señala el Artículo 7o. en su Primer Párrafo lo han empezado los solicitantes sin previa autorización de la Junta, tendrán dos días para hacerlo a partir de la fecha de su iniciación; de lo contrario se suspenderá de inmediato o se demolerá lo construido, fijándose la sanción económica procedente.
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+a) Si lo que señala el artículo 7, en su primer párrafo lo han empezado los solicitantes sin previa autorización de la Junta, tendrán dos días para hacerlo a partir de la fecha de su iniciación; De lo contrario se suspenderá de inmediato o se demolerá lo construido, fijando la sanción económica procedente. Para este último caso de suspensión definitiva, el personal comisionado para ejecutarla procederá a levantar acta detallada de la diligencia, sujetándose para ello (sic) los lineamientos generales establecidos para las inspecciones.
+
+Asimismo, para la ejecución de sus determinaciones, la junta podrá auxiliarse de la policía estatal en los casos de suspensión de obras inmobiliarias.
 
 ###### ARTICULO 12o.
 
@@ -215,6 +219,16 @@ Para resolver sobre reincidencia y habitualidad se estará a los principios del 
 
 La graduación de las sanciones a que esta Ley se refiere se hará tomando en cuenta la educación las costumbres y la conducta del sujeto, sus condiciones económicas y los motivos y circunstancias que lo impulsaron a delinquir.
 
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+
+ARTICULO 24 BIS.- Para la imposición de las sanciones por infracciones a la presente ley, se tomara en cuenta:
+
+I. La gravedad de la infracción considerando principalmente el criterio de impacto al entorno y la generación del daño en la imagen urbana;
+
+II. La educación, las costumbres, la conducta y las condiciones económicas del infractor; y
+
+III. La reincidencia, si la hubiere.
+
 ###### ARTICULO 25o.
 
 Cualquier infracción a esta Ley o a su Reglamento, que no esté prevista en este Capítulo, será sancionada por la Junta, con multa de $1,000.00 a $50,000.00, la que podrá ser impugnada mediante el recurso de reconsideración, en los términos del Reglamento de esta Ley.
@@ -252,3 +266,15 @@ ING. RUBEN FIGUEROA FIGUEROA
 EL SECRETARIO GRAL. DE GOBIERNO
 
 ALFONSO SOTOMAYOR.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE SEPTIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Guerrero para los efectos legales conducentes.
