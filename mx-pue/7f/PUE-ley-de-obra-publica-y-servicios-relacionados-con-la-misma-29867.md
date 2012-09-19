@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-29867
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-26"
-last_updated: "2010-12-03"
+last_updated: "2012-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29867&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el miércoles 26 de marzo de 2003.
 
@@ -102,6 +102,10 @@ Quedan comprendidas las obras que se realicen con fondos previstos en el Capítu
 Así mismo, la obra multianual y los proyectos de infraestructura productiva de largo plazo, se realizarán conforme a lo dispuesto por la Ley de Deuda Pública del Estado, Ley Estatal de Presupuesto, Contabilidad y Gasto Público y las disposiciones correspondientes en materia de supervisión y control del gasto público y estarán regidas por esta Ley, únicamente en lo que se refiere a los procedimientos de contratación y ejecución de obra pública.
 
 No estarán sujetas a las disposiciones de esta Ley, las obras que deban ejecutarse para crear la infraestructura necesaria en la prestación de servicios públicos que los particulares tengan concesionados, en los términos de la legislación aplicable, cuando éstos las lleven a cabo.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+La obra pública que sea considerada como proyecto de inversión, se regirá por lo dispuesto en la Ley Estatal de Presupuesto, Contabilidad y Gasto Público, para los efectos en ella establecidos, quedando sujeta en lo demás a lo previsto por esta Ley.
 
 ###### ARTÍCULO 2.
 
@@ -798,6 +802,18 @@ La descripción pormenorizada de la obra que se deba ejecutar, así como lo (sic
 Los organismos convocantes podrán incorporar en las bases de licitación las modalidades de contratación que tiendan a garantizar al Estado o al Municipio las mejores condiciones en la ejecución de los trabajos, siempre que con ello no se modifique el tipo de contrato que se haya licitado.
 
 Aquellos trabajos cuya ejecución comprenda más de un ejercicio presupuestal deberán formularse en un solo contrato, por la vigencia que resulte necesaria para la ejecución de los trabajos, quedando únicamente sujetos a la autorización presupuestal para cada ejercicio, en los términos establecidos en la Ley Estatal de Presupuesto, Contabilidad y Gasto Público y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+Los contratos de obra pública podrán contemplar la adquisición por parte del Contratista, de los trabajos y obras ejecutados con anterioridad por la convocante o incluso por otros contratistas, a fin de que sean incorporados como parte de la obra pública objeto de dichos contratos, en el entendido de que tratándose de la enajenación de trabajos y obras ejecutados por el Gobierno del Estado, las Dependencias o las Entidades, se deberán observar los requisitos que al efecto establece la Ley General de Bienes del Estado, relativas a la enajenación de bienes del dominio privado. Una vez que los trabajos y obras ejecutados con anterioridad sean incorporados a la obra pública objeto del contrato de que se trate, deberán ser reconocidos dentro de la contraprestación pagadera por la convocante al contratista respectivo. Asimismo, en dichos contratos se podrá pactar de manera expresa lo siguiente:
+
+a) El reembolso del valor de los inmuebles, bienes y derechos aportados por Dependencias o Entidades, y que se utilicen en la obra;
+
+b) El reembolso de cantidades por otros rubros en la forma y términos que se establezcan en las bases o en el propio contrato;
+
+c) El pago de derechos o contraprestaciones por la supervisión y vigilancia de la ejecución de la obra; y
+
+d) Cualquier otra que las partes estipulen en el contrato o que por Ley les corresponda.
 
 ###### ARTÍCULO 49.
 
@@ -1604,3 +1620,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 TERCERO.- La aplicación del presente Decreto estará sujeto a la suficiencia presupuestal que apruebe el Honorable Congreso del Estado en la Ley de Egresos del Estado para el Ejercicio Fiscal correspondiente.
+
+P.O. 19 DE SEPTIEMBRE DE 2012.
+
+PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
