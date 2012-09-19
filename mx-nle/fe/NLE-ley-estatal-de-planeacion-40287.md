@@ -4,7 +4,7 @@ identifier: "NLE-ley-estatal-de-planeacion-40287"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-28"
-last_updated: "2011-07-01"
+last_updated: "2012-09-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40287&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # LEY ESTATAL DE PLANEACION
 
-LEY ESTATAL DE PLANEACION
+LEY ESTATAL DE PLANEACIÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 28 de julio de 2004.
 
@@ -127,25 +127,29 @@ IV. El respeto irrestricto a las garantías individuales y sociales;
 
 V. La igualdad de derechos y oportunidades entre mujeres y hombres; con perspectiva de equidad de género, la atención de las necesidades básicas de la población y la mejoría; en todos los aspectos, de la calidad de la vida, para lograr una sociedad más igualitaria, garantizando un ambiente adecuado para el desarrollo de la población;
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
 
-VI. EI equilibrio de los factores productivos, que proteja y promueva el empleo y la inversión en un marco de estabilidad económica y social;
+VI. El fortalecimiento y protección de la familia;
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
 
-VII. La coordinación de esfuerzos, objetivos, estrategias y acciones entre los distintos órdenes de Gobierno para obtener un desarrollo sustentable en el Estado;
+VII. El equilibrio de los factores productivos, que proteja y promueva el empleo y la inversión en un marco de estabilidad económica y social;
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
 
-VIII. EI fortalecimiento de los mecanismos para la participación activa y responsable de la sociedad y su incorporación a la planeación para el desarrollo;
+VIII. La coordinación de esfuerzos, objetivos, estrategias y acciones entre los distintos órdenes de Gobierno para obtener un desarrollo sustentable en el Estado;
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
 
-IX. Incrementar el beneficio social de las acciones de Gobierno, mediante la evaluación de programas y proyectos; del análisis de datos e información que, apoyen la toma de decisiones de los actores que participan en el proceso de creación de valor público agregado; y
+IX. El fortalecimiento de los mecanismos para la participación activa y responsable de la sociedad y su incorporación a la planeación para el desarrollo;
 
-> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
 
-X. El impulso al desarrollo regional equilibrado, con base en las potencialidades de las regiones, basado en políticas diferenciadas de desarrollo y en el aprovechamiento racional de los recursos naturales, humanos, técnicos y financieros del Estado.
+X. Incrementar el beneficio social de las acciones de Gobierno, mediante la evaluación de programas y proyectos; del análisis de datos e información que, apoyen la toma de decisiones de los actores que participan en el proceso de creación de valor público agregado; y
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+XI. El impulso al desarrollo regional equilibrado, con base en las potencialidades de las regiones, basado en políticas diferenciadas de desarrollo y en el aprovechamiento racional de los recursos naturales, humanos, técnicos y financieros del Estado.
 
 ###### Artículo 7.
 
@@ -199,7 +203,7 @@ III. Las dependencias y entidades que integran la administración pública estat
 
 IV. El Consejo de Planeación y Evaluación del Estado de Nuevo León.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 11.
 
@@ -423,7 +427,7 @@ La etapa de programación se refiere a la alineación de los programas estatales
 
 Para efecto de lo previsto por el Artículo anterior, se hará uso de una estructura programática presupuestal, la cual se compondrá de categorías de clasificación en la que a su vez, se alinearán las vertientes programática, funcional, económica y geográfica.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2011)</small>
 
 ###### Artículo 22.
 
@@ -459,7 +463,7 @@ El Programa Anual de Gasto Público, el anteproyecto de Presupuesto de Egresos, 
 
 #### SECCIÓN CUARTA. DE LA EVALUACIÓN
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2011)</small>
 
 ###### Artículo 26.
 
@@ -571,7 +575,7 @@ II. Órganos ciudadanos de consulta permanente para temas específicos, que ser�
 
 Los órganos de participación ciudadana de las dependencias y entidades de la Administración Pública Estatal, participarán en los términos de las Leyes y demás disposiciones aplicables.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES CAPITULO SEPTIMO], P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES CAPÍTULO SÉPTIMO], P.O. 20 DE FEBRERO DE 2009)</small>
 
 ### CAPÍTULO OCTAVO. DE LA CONCERTACIÓN
 
@@ -647,7 +651,7 @@ MARIO GERARDO GUERRERO DÁVILA
 
 RÚBRICA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 6 DE NOVIEMBRE DE 2006.
 
@@ -676,3 +680,7 @@ P.O. 1 DE JULIO DE 2011.
 Primero.- El presente Decreto entrara en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se otorga un plazo de 160 días naturales contados a partir de la entrada en vigor del presente decreto, para que los Poderes Ejecutivo, Legislativo y Judicial comiencen a planear, diseñar, elaborar, ejecutar y evaluar los presupuestos con perspectiva de equidad de género.
+
+P.O. 19 DE SEPTIEMBRE DE 2012.
+
+Único.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
