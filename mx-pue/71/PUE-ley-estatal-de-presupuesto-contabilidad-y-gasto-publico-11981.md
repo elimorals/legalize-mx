@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-de-presupuesto-contabilidad-y-gasto-publico-11981"
 country: "mx"
 rank: "ley"
 publication_date: "1994-08-23"
-last_updated: "2007-12-31"
+last_updated: "2012-09-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11981&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ESTATAL DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 23 de agosto de 1994.
 
@@ -153,6 +153,10 @@ El Presupuesto de Egresos del Estado, será el que contenga la Ley de Egresos qu
 
 Tratándose de contratos para la instrumentación de proyectos para prestación de servicios a largo plazo, el Ejecutivo Estatal en la formulación de su presupuesto de egresos de cada uno de los ejercicios que se encuentren vigentes, deberá considerar las previsiones presupuestales para cumplir con las obligaciones de pago que se deriven de éstos, de acuerdo a la autorización emitida por el H. Congreso del Estado. Para tales efectos, se estará a lo dispuesto en la presente Ley y en la de Adquisiciones, Arrendamientos y Servicios del Sector Público Estatal y Municipal.
 
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+Tratándose de Proyectos de Inversión, el Ejecutivo Estatal en la formulación de su presupuesto de egresos de cada uno de los ejercicios fiscales en que se encuentren vigentes, estará a lo dispuesto en el Capítulo Tercero Bis de la presente Ley.
+
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 14.
@@ -165,7 +169,9 @@ El Presupuesto de Egresos del Estado comprenderá las previsiones de Gasto Públ
 
 Para la formulación del Proyecto de Presupuesto de Egresos del Estado, los Sujetos que deban quedar comprendidos en el mismo, elaborarán anualmente sus anteproyectos y los remitirán a más tardar al Ejecutivo Estatal por conducto de la Secretaría de Finanzas y Administración el 30 de agosto de cada año; tales proyectos se elaborarán de acuerdo a las normas y montos que fije el Ejecutivo Estatal y conforme a los formularios e instrucciones que expida la Secretaría de Finanzas y Administración.
 
-Los Sujetos a que se refieren las fracciones II y IV del artículo 2o. de esta Ley, deberán incluir en los anteproyectos a que se refiere el párrafo anterior, las obligaciones de pago que se deriven de los contratos para prestación de servicios a largo plazo que hubieren formalizado, así como de cualquier erogación contingente que pudiere generarse en términos de dichos contratos, a fin de que la Secretaría los incluya en el proyecto de Presupuesto de Egresos del Estado, de conformidad con las disposiciones aplicables en la materia.
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+Los Sujetos a que se refieren las fracciones II y IV del artículo 2o. de esta Ley, deberán incluir en los anteproyectos a que se refiere el párrafo anterior, las obligaciones que se deriven de los Proyectos de Inversión y de los contratos para prestación de servicios a largo plazo que hubieren formalizado, así como de cualquier erogación contingente que pudiere generarse en términos de dichos contratos, a fin de que la Secretaría los incluya en el proyecto de Presupuesto de Egresos del Estado, de conformidad con las disposiciones aplicables en la materia.
 
 Las obligaciones de pago que deriven de los contratos a que se refiere el párrafo anterior, se consideraran preferentes.
 
@@ -267,11 +273,11 @@ La Secretaría de Finanzas y Administración será la beneficiaria de todas las 
 
 Los Sujetos remitirán oportunamente a la Secretaría de Finanzas y Administración, la documentación relativa de conformidad con las disposiciones aplicables y será la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública, la que vigile su debido cumplimiento.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTICULO 27.
 
-El Gobierno del Estado no otorgará garantías ni efectuará depósitos para el cumplimiento de sus obligaciones de pago con cargo a sus presupuestos de egresos, con excepción de que la Secretaría de Finanzas y Administración al autorizar la instrumentación de un proyecto para prestación de servicios a largo plazo, hubiere considerado la viabilidad de su otorgamiento. Para tales efectos, el Ejecutivo Estatal podrá constituir los mecanismos financieros requeridos, incluyendo la creación de fideicomisos.
+El Gobierno del Estado no otorgará garantías ni efectuará depósitos para el cumplimiento de sus obligaciones de pago con cargo a sus presupuestos de egresos, con excepción de que la Secretaría de Finanzas autorice la viabilidad de su otorgamiento cuando se trate de proyectos para prestación de servicios a largo plazo y Proyectos de Inversión. Para tales efectos, el Ejecutivo Estatal podrá constituir los mecanismos financieros requeridos, incluyendo la creación de fideicomisos.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
@@ -288,6 +294,40 @@ Para la ejecución del gasto público Estatal, los Sujetos deberán observar lo 
 Las obligaciones de pago que se deriven de contratos para la instrumentación de proyectos para prestación de servicios a largo plazo que deban realizar los Sujetos a que se refieren las fracciones II y IV del artículo 2º de esta Ley, serán consideradas gasto corriente y deberán cubrirse con cargo a sus respectivos presupuestos autorizados para el ejercicio fiscal correspondiente, en términos de las disposiciones aplicables.
 
 Para el caso de que en los contratos a que se refiere el párrafo anterior, se hubiere pactado la adquisición de los bienes que utilice el Proveedor para la prestación de los servicios a su cargo, las erogaciones que se destinen para tales efectos, se considerará gasto de inversión.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+### CAPITULO TERCERO BIS. DE LOS PROYECTOS DE INVERSION
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+ARTICULO 29 BIS.- Los Proyectos de Inversión serán aquellos proyectos, convenios, contratos o concesiones, relacionados con obra pública, bienes, adquisiciones o servicios que celebre el Gobierno del Estado, los Organismos Públicos Descentralizados, las Empresas de Participación Estatal Mayoritaria o los Fideicomisos Públicos considerados Entidades Paraestatales, de conformidad con la legislación aplicable, respecto de los cuales la Secretaría de Finanzas hubiere emitido un dictamen en el sentido de que están plenamente justificados, que tienen por objeto obtener directa o indirectamente un beneficio social y que resultan en una ventaja financiera frente a otras formas de contratación.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+ARTICULO 29 TER.- El Ejecutivo Estatal, a través de la Secretaría de Finanzas, estará facultada para afectar, total o parcialmente, de forma irrevocable, sin mayores requisitos que los establecidos en este Capítulo, sus ingresos presentes y futuros derivados de participaciones en ingresos federales, fondos federales, contribuciones, impuestos, derechos, productos, aprovechamientos, accesorios u otros conceptos o ingresos susceptibles de afectación, como fuente de pago, garantía, o ambas, de todo tipo de obligaciones que asuma el Gobierno del Estado, los Organismos Públicos Descentralizados, las Empresas de Participación Estatal Mayoritaria, los Fideicomisos Públicos considerados Entidades Paraestatales o terceros prestadores de bienes o servicios, derivados de Proyectos de Inversión.
+
+Tratándose de la afectación de participaciones en ingresos federales y de fondos federales, se deberá observar lo establecido en la legislación federal aplicable.
+
+El Gobierno del Estado no podrá revocar o revertir las afectaciones de que se trate, sino hasta que se hayan liquidado las obligaciones y se haya obtenido el previo consentimiento de los acreedores respectivos.
+
+El Gobierno del Estado podrá obligarse subsidiaria o solidariamente respecto de las obligaciones que asuman los Organismos Públicos Descentralizados, las Empresas de Participación Estatal Mayoritaria, los Fideicomisos Públicos considerados Entidades Paraestatales o terceros prestadores de bienes o servicios al amparo de un Proyecto de Inversión, exclusivamente hasta donde alcancen los ingresos que se afecten en fuente de pago o garantía de las obligaciones de que se trate.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+ARTICULO 29 QUATER.- Para instrumentar la afectación a que se refiere el artículo 29 Ter de esta Ley, el Ejecutivo Estatal, a través de la Secretaría de Finanzas, podrá celebrar uno o más fideicomisos irrevocables de administración y fuente de pago y/o de garantía, o bien modificar los que ya tuviera previamente constituidos, en el entendido de que dichos fideicomisos no formarán parte de la administración pública descentralizada del Estado. Asimismo, podrá celebrar o constituir cualesquier otros instrumentos o mecanismos, incluyendo el otorgamiento de mandatos irrevocables o estipulaciones en favor de terceros, con objeto de implementar la fuente de pago o garantía de dichas obligaciones.
+
+Los ingresos afectos al fideicomiso formarán parte del patrimonio del fideicomiso y estarán destinados al cumplimiento de los fines previstos en el mismo.
+
+El Ejecutivo Estatal, a través de la Secretaría de Finanzas, informará al Congreso del Estado del ejercicio de la facultad establecida en el presente artículo.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+ARTICULO 29 QUINQUIES.- La Secretaría de Finanzas deberá crear y mantener el Registro de Proyectos, en términos de los lineamientos que al efecto emita la propia Secretaría y en el cual se inscribirán para su control los Proyectos de Inversión. La Secretaría de Finanzas estará obligada a proporcionar al Congreso del Estado, en el primer periodo ordinario de Sesiones de cada año, información acerca del Registro de Proyectos o bien de los Proyectos de Inversión ahí (sic) inscritos.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+ARTICULO 29 SEXIES.- El Ejecutivo Estatal deberá incluir en el proyecto de Presupuesto de Egresos de cada ejercicio fiscal, las erogaciones correspondientes de los Proyectos de Inversión. Asimismo, el Congreso del Estado deberá aprobar en el Presupuesto de Egresos de cada ejercicio fiscal, las erogaciones y asignaciones presupuestales que sean necesarias para el pago de las obligaciones derivadas de los Proyectos de Inversión.
 
 ### CAPITULO CUARTO. DE LA CONTABILIDAD
 
@@ -398,3 +438,13 @@ P.O. 31 DE DICIEMBRE DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE SEPTIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al presente Decreto.
