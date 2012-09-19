@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-judicial-del-estado-de-queretaro-65081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-17"
-last_updated: "2011-08-03"
+last_updated: "2012-09-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE QUERETARO
 
-LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE QUERETARO
+LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de diciembre de 2008.
 
@@ -47,7 +47,7 @@ LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO
 
 La presente Ley es reglamentaria de los artículos relativos 25 y 26 de la Constitución Política del Estado de Querétaro.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 2.
 
@@ -99,7 +99,7 @@ Los auxiliares de la administración de justicia están obligados a realizar los
 
 Los poderes del Estado, en el ejercicio de sus facultades, están obligados a garantizar y facilitar el ejercicio de las funciones de auxilio a la administración de justicia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 7.
 
@@ -417,7 +417,7 @@ Las salas sesionarán en Pleno los días y en el horario que establezca el Regla
 
 #### Sección Primera. De la competencia de las salas
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 33.
 
@@ -445,9 +445,23 @@ La Sala Penal resolverá de manera colegiada:
 
 I. La apelación contra sentencias definitivas;
 
-II. La apelación contra resoluciones que concedan o nieguen cualquier tipo de libertad al inculpado; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III. La apelación contra resoluciones que deriven de procesos que se sigan por delitos graves.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+II. La apelación contra resoluciones que concedan o nieguen cualquier tipo de libertad al inculpado;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+III. La apelación contra resoluciones que deriven de procesos que se sigan por delitos graves; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+IV. Las apelaciones derivadas de los asuntos seguidos por delitos contra la salud, en la modalidad de narcomenudeo, previstos en el Capítulo VII, del Título Décimo Octavo de la Ley General de Salud, que sean competencia de las autoridades del fuero común, sujetándose a las disposiciones locales respectivas, salvo en los casos del destino y destrucción de narcóticos y la clasificación de los delitos como graves para fines del otorgamiento de la libertad provisional bajo caución, en los cuales se observarán las disposiciones del Código Federal de Procedimientos Penales.
 
 Los demás asuntos se resolverán de manera unitaria.
 
@@ -717,7 +731,7 @@ V. Los juzgados especializados en ejecución de sanciones penales, y
 
 VI. Los juzgados mixtos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 60.
 
@@ -799,13 +813,31 @@ Los juzgados penales conocerán:
 
 I. Los asuntos del orden penal que tengan señalada una pena que exceda de dos años de prisión o cuya multa sea superior a la cuantía que mediante acuerdo determine el Pleno del Tribunal Superior de Justicia y publique en el Periódico Oficial del Gobierno del Estado;
 
-II. De la diligenciación de despachos, exhortos, requisitorias, cartas rogatorias o cualquier otro medio de comunicación procesal, relacionados con los asuntos de su competencia, en los términos previstos en las leyes adjetivas;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III. Del recurso de revisión, en los términos del Código de Procedimientos Penales del Estado de Querétaro en vigor; y
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
 
-IV. De los demás asuntos que les señalen las leyes.
+II. Los asuntos seguidos por delitos contra la salud en la modalidad de narcomenudeo, previstos en el Capítulo VII, del Título Décimo Octavo de la Ley General de Salud, que sean competencia de las autoridades del fuero común, sujetándose a las disposiciones locales respectivas, salvo en los casos del destino y destrucción de narcóticos y la clasificación de los delitos como graves para fines del otorgamiento de la libertad provisional bajo caución, en los cuales se observarán las disposiciones del Código Federal de Procedimientos Penales;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+III. De la diligenciación de despachos, exhortos, requisitorias, cartas rogatorias o cualquier otro medio de comunicación procesal, relacionados con los asuntos de su competencia, en los términos previstos en las leyes adjetivas;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+IV. Del recurso de revisión, en los términos del Código de Procedimientos Penales para el Estado de Querétaro en vigor; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+V. De los demás asuntos que les señalen las leyes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 65.
 
@@ -991,7 +1023,7 @@ II. Tener título de licenciado en derecho y cédula profesional expedidos legal
 
 III. Ser de notoria buena conducta, honradez y honestidad.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE AGOSTO DE 2011)</small>
 
 ### Capítulo Décimo Primero. De los juzgados menores
 
@@ -1017,7 +1049,7 @@ Desempeñarán su función mientras no lleguen a la edad de setenta años o el p
 
 Para ser juez menor se debe reunir los mismos requisitos establecidos para ser juez de primera instancia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 82.
 
@@ -1643,7 +1675,7 @@ El Consejo de la Judicatura estará facultado para emitir los acuerdos generales
 
 El Consejo de la Judicatura establecerá un sistema de evaluación institucional respecto de la carrera judicial, en atención a los méritos para la selección, promoción y permanencia en el cargo, las categorías, descripción y perfil de puestos, así como la capacitación y el desarrollo de los servidores judiciales, en los términos de esta Ley y demás disposiciones aplicables en la materia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 126.
 
@@ -2031,7 +2063,7 @@ Secretario de Gobierno
 
 Rúbrica
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 6 DE JULIO DE 2010.
 
@@ -2056,3 +2088,9 @@ Artículo Segundo. Cualquier referencia a juzgados municipales, hecha en otros o
 Artículo Tercero. El Poder Judicial del Estado de Querétaro, habrá de suministrar los recursos necesarios que garanticen la suficiencia económica y el adecuado funcionamiento de los Juzgados Menores.
 
 Artículo Cuarto. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 19 DE SEPTIEMBRE DE 2012.
+
+Artículo Primero. La presente Ley entrará en vigor ciento veinte días naturales siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga"; plazo en el que los Poderes Ejecutivo y Judicial del Estado realizarán las acciones necesarias a fin que (sic), al inicio de su vigencia, estén en aptitud de cumplir las atribuciones contenidas en la misma.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
