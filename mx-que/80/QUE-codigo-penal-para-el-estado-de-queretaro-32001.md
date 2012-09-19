@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "2012-09-14"
+last_updated: "2012-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987
 
@@ -571,27 +571,69 @@ El decomiso consiste en la pérdida de la propiedad, posesión o titularidad y s
 
 Las autoridades competentes, durante el trámite de la averiguación previa o el proceso, procederán de inmediato al aseguramiento de bienes que podrían ser materia del decomiso, cualquiera que sea su naturaleza.
 
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTICULO 61.
 
-Si las cosas aseguradas o decomisadas son sustancias nocivas o peligrosas, la autoridad que esté conociendo de la averiguación previa o del proceso judicial, ordenará su inmediata destrucción o confinamiento, salvo que por representar utilidad para fines de docencia o investigación sean requeridas por alguna institución o dependencia pública y se les entregue, asumiendo entonces ésta la responsabilidad de su uso, conservación y destino.
+Si las cosas aseguradas o decomisadas son sustancias nocivas o peligrosas, la autoridad que esté conociendo de la averiguación previa o del proceso judicial, ordenará su inmediata destrucción o confinamiento, salvo que por presentar utilidad para fines de docencia o investigación sean requeridas por alguna institución o dependencia pública y se les entregue, asumiendo entonces ésta la responsabilidad de su uso, conservación y destino. En los casos del destino y destrucción de narcóticos, se observarán las disposiciones del Código Federal de Procedimientos Penales, conforme a lo establecido por los artículos 414 y 480 de la Ley General de Salud; correspondiendo a la autoridad sanitaria dictaminar sobre la nocividad y destino de los narcóticos.
+
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2008)</small>
 
 Si se trata de armas de fuego o demás objetos regulados por la ley federal de la materia, se procederá en los términos que establezca dicha legislación.
 
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2008)</small>
+
 Tratándose de material pornográfico, se ordenará su inmediata destrucción.
+
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2008)</small>
 
 Los bienes de consumo perecederos podrán ser donados a instituciones de asistencia pública.
 
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2008)</small>
+
 Los bienes de difícil o costosa conservación, respecto de los cuales no exista la posibilidad de entregarlos en breve tiempo a quienes tengan derecho a recibirlos, se procederá a su venta inmediata, si esto es posible, sin sujetarse a trámites o requisitos de subasta pública y el producto obtenido quedará a disposición de quien acredite tener derecho a recibirlo por un lapso de sesenta días, contados a partir de la notificación que se le haga; transcurrido ese tiempo sin acreditar o ejercer su derecho, se aplicará a favor del Poder Ejecutivo.
 
-Los bienes que se encuentren a disposición del Ministerio Público o la autoridad judicial, que no hayan sido decomisados y que no sean recogidos por quien tenga derecho a ello en un lapso de sesenta días naturales, contados a partir de la notificación al interesado, se aplicarán a favor del Poder Ejecutivo y se enajenarán de conformidad con las disposiciones legales y administrativas aplicables.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+La autoridad judicial o el Ministerio Público que decreten el aseguramiento de bienes, incluyendo dinero o valores que estén a su disposición y que no hubieren sido decomisados, deberán notificar al interesado o a su representante legal inmediatamente, entregando o poniendo a su disposición, según sea el caso, una copia certificada del acta que se elabore del aseguramiento, que deberá incluir inventario con la descripción y el estado en que se encuentren los bienes que se aseguren para que manifieste lo que a su derecho convenga. En dicha notificación se apercibirá al interesado o a su representante legal para que no enajene o grave los bienes asegurados.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+En la notificación deberá apercibirse al interesado o a su representante legal, que de no manifestar lo que a su derecho convenga, en un término de sesenta días naturales siguientes al de la notificación, los bienes causarán abandono a favor del Poder Ejecutivo del Estado, el cual determinará su destino según su utilidad, de conformidad con las disposiciones legales y administrativas aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+Cuando proceda la devolución de bienes asegurados, éstos quedarán a disposición de quien acredite tener derecho a ellos, siempre que éste no haya tenido conocimiento de su utilización para la realización del delito o habiéndolo tenido, se hubiere encontrado en un estado real de imposibilidad para impedirlo o de haber dado aviso a la autoridad competente. La autoridad judicial o el Ministerio Público decidirá sobre ello y notificará su resolución al interesado o al representante legal dentro de los treinta días siguientes a la solicitud de devolución, para que en el plazo de noventa días naturales a partir de la notificación correspondiente se presente a recogerlos, bajo el apercibimiento que de no hacerlo los bienes causarán abandono a favor del Poder Ejecutivo del Gobierno del Estado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+Cuando el aseguramiento de los bienes se haya hecho constar en el Registro Público de la Propiedad y del Comercio, la autoridad judicial o el Ministerio Público ordenarán su cancelación.
+
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2008)</small>
 
 Los bienes que estén a disposición del Ministerio Público o de la autoridad judicial, que sean de costosa o difícil conservación y además carezcan ya de importancia como evidencia en la investigación o en el proceso, por haber sido debidamente descritos y fijados a través de medios técnicos o sean de nulo o mínimo valor económico por el estado en que se encuentren o que nadie los reclame o acredite derecho a la devolución, a pesar de haber sido notificados con sesenta días de anticipación, podrán aplicarse a favor del Poder Ejecutivo del Estado y ordenarse su inmediata destrucción. Se presumirá que se encuentran en esta situación y por lo tanto, podrá ordenarse su inmediata destrucción, previa notificación a los interesados, todos aquellos bienes que tengan tres años o más a disposición de la autoridad investigadora o judicial y no sean objeto de reclamo por parte interesada, dentro de los sesenta días posteriores a dicha notificación.
 
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2008)</small>
+
 Para los efectos de este artículo, la notificación al interesado se tendrá por realizada, con el simple hecho de publicar, por tres veces, de siete en siete días, en dos periódicos de mayor circulación en la Entidad, la relación de bienes que se destruirán en caso de no ser reclamados; esto independientemente de que la información se ponga a disposición de la ciudadanía en los medios electrónicos de que disponga la autoridad que ordene la medida.
 
-En los casos de asignación, adjudicación o aplicación de bienes o productos a favor del Poder Ejecutivo, deducidos los gastos de conservación y procedimiento, el remanente se asignará al Fondo Económico para la Procuración de Justicia y para la Asistencia y Apoyo a las Víctimas, para los fines previstos en la Ley Orgánica de la Procuraduría General de Justicia del Estado, cuando los bienes hayan estado a disposición del Ministerio Público o al Fondo Auxiliar para la Administración de Justicia, para los propósitos señalados en la Ley Orgánica del Poder Judicial del Estado de Querétaro, cuando hayan estado a disposición de la autoridad judicial.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+En los casos de asignación, adjudicación o aplicación de bienes o productos a favor del Poder Ejecutivo, deducidos los gastos de conservación y procedimiento, el remanente se asignará al Fondo Económico para la Procuración de Justicia y para la Asistencia y Apoyo a las Víctimas, para los fines previstos en la Ley de la Procuraduría General de Justicia del Estado, cuando los bienes hayan estado a disposición del Ministerio Público o al Fondo Auxiliar para la Administración de Justicia, para los propósitos señalados en la Ley Orgánica del Poder Judicial del Estado de Querétaro, cuando hayan estado a disposición de la autoridad judicial.
+
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2008)</small>
 
 Cuando no sea persona cierta, no esté identificada, se desconozca el domicilio de la persona a quien deba de notificársele en los términos de este artículo o se encuentre fuera del Estado o del País, la notificación se hará mediante publicación en los términos que establezca en el Código de Procedimientos Penales o supletoriamente en el de Procedimientos Civiles, ambos para el Estado de Querétaro.
 
@@ -614,6 +656,12 @@ Si se trata de internamiento, el sujeto inimputable permanente, será recluido e
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
 En caso de que los inimputables tengan el hábito o la necesidad de consumir estupefacientes, psicotrópicos, bebidas embriagantes o cualquier otra substancia tóxica, el juez de la causa o, en su caso, el juez competente de ejecución, ordenará también el tratamiento que proceda por parte de la autoridad sanitaria competente o de otro servicio médico bajo la supervisión de aquélla, independientemente de la prosecución del proceso o de la ejecución de la pena impuesta por el delito cometido.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+Las mismas disposiciones del párrafo que antecede, se aplicarán para el caso de los imputables que tengan el hábito de consumir estupefacientes o psicotrópicos.
 
 ###### ARTICULO 63.
 
@@ -681,7 +729,7 @@ MEDIDAS DE SEGURIDAD
 
 ###### ARTICULO 68.
 
-El Organo Jurisdiccional fijará la pena dentro de los límites señalados para cada delito, teniendo en cuenta los aspectos objetivos y subjetivos del hecho punible; la lesión o puesta en peligro del bien jurídico; las circunstancias de modo, tiempo y lugar; los motivos determinantes; las demás condiciones del sujeto activo y de la víctima, en la medida en que hayan influido en la comisión del delito, y las que determinen la gravedad ilícita y la culpabilidad del sujeto.
+El Órgano Jurisdiccional fijará la pena dentro de los límites señalados para cada delito, teniendo en cuenta los aspectos objetivos y subjetivos del hecho punible; la lesión o puesta en peligro del bien jurídico; las circunstancias de modo, tiempo y lugar; los motivos determinantes; las demás condiciones del sujeto activo y de la víctima, en la medida en que hayan influido en la comisión del delito, y las que determinen la gravedad ilícita y la culpabilidad del sujeto.
 
 > <small>(REFORMADO, P.O. 20 DE JUNIO DE 2008)</small>
 
@@ -895,9 +943,23 @@ VI.- Residir o no residir en circunscripción territorial determinada, que en to
 
 VII.- Desempeñar en el plazo que prudentemente se le fije, trabajo lícito;
 
-VIII.- No abusar del consumo de bebidas embriagantes y abstenerse del empleo de estupefacientes; psicotrópicos, substancias volátiles inhalables y cualquier otra que produzca efectos similares, salvo por prescripción médica, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IX.- Pagar o garantizar la reparación de los daños y perjuicios causados.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+VIII.- No abusar del consumo de bebidas embriagantes y abstenerse del empleo de estupefacientes, psicotrópicos, substancias volátiles inhalables y cualquier otra que produzca efectos similares, salvo por prescripción médica;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+IX.- Pagar o garantizar la reparación de los daños y perjuicios causados; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+X.- En el caso de que se le haya considerado farmacodependiente, someterse al tratamiento correspondiente para su rehabilitación, bajo vigilancia de la autoridad ejecutora.
 
 ###### ARTICULO 91.
 
@@ -4109,7 +4171,7 @@ ARTÍCULO SEGUNDO Se concede un plazo de 30 días naturales, contados a partir d
 
 ###### ARTÍCULO TERCERO.
 
-Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+Se derogan todas las disposiciones de igua lo menor jerarquía que se opongan a la presente Ley.
 
 P.O. 20 DE JUNIO DE 2008.
 
@@ -4292,5 +4354,11 @@ Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jera
 P.O. 14 DE SEPTIEMBRE DE 2012.
 
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 19 DE SEPTIEMBRE DE 2012.
+
+Artículo Primero. La presente Ley entrará en vigor ciento veinte días naturales siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga"; plazo en el que los Poderes Ejecutivo y Judicial del Estado realizarán las acciones necesarias a fin que, al inicio de su vigencia, estén en aptitud de cumplir las atribuciones contenidas en la misma.
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
