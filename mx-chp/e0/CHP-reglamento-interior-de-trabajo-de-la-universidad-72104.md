@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-trabajo-de-la-universidad-72104"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-12-30"
-last_updated: "2009-12-30"
+last_updated: "2012-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DE TRABAJO DE LA UNIVERSIDAD POLITECNICA DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 30 de diciembre de 2009.
 
@@ -465,13 +465,25 @@ V. Proporcionar oportunamente al personal, los instrumentos y materiales necesar
 
 VI. Proporcionar las condiciones de seguridad e higiene que prevengan accidentes o enfermedades al personal.
 
-VII. Organizar programas de bienestar para su personal.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
 
-VIII. La Universidad otorgará prestaciones de seguridad social en términos de la Ley afiliando a su personal en el régimen correspondiente, en el Instituto Mexicano del Seguro Social, por lo que, estarán sujetos en esta materia a las disposiciones y Reglamentos del Seguro Social.
+VII. Establecer un programa interno de protección civil.
 
-IX. Observar y cuidar que se respete (sic) las disposiciones del presente reglamento.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
 
-X. Las demás que señale el artículo 132, de la Ley Federal de Trabajo.
+VIII. Organizar programas de bienestar para su personal.
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+IX. La Universidad otorgará prestaciones de seguridad social en términos de la Ley afiliando a su personal en el régimen correspondiente, en el Instituto Mexicano del Seguro Social, por lo que, estarán sujetos en esta materia a las disposiciones y Reglamentos del Seguro Social.
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+X. Observar y cuidar que se respete (sic) las disposiciones del presente reglamento.
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+XI. Las demás que señale el artículo 132, de la Ley Federal de Trabajo.
 
 ### Capítulo XI (SIC). De los Derechos, Obligaciones y Prohibiciones del Personal
 
@@ -563,9 +575,13 @@ XXII. Observar y cuidar que se respete las disposiciones del presente Reglamento
 
 Son obligaciones específicas del personal académico, además de lo estipulado en el artículo anterior, lo siguiente:
 
-I. Asistir y participar activamente en las reuniones de academia que se integren en el plantel de su jurisdicción, en los generales por área y especialidad y en las reuniones plenarias que se organicen para estos fines.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
 
-II. Elaborar y presentar a la Dirección del Plantel para su aprobación o modificación, en su caso, los proyectos de evaluación que pretenda aplicar.
+l. Asistir puntualmente y participar activamente en las reuniones de academia, en las que sea convocado.
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+II. Elaborar y presentar a la Dirección de Servicios Académicos para su aprobación o modificación en su caso, los proyectos de evaluación que pretenda aplicar.
 
 III. Elaborar el material didáctico cuando la Universidad así lo requiera.
 
@@ -573,21 +589,29 @@ IV. Asistir con puntualidad a sus labores y cumplir con el tiempo asignado a cad
 
 V. Firmar la hoja de registro de asistencia y hacer las anotaciones en las formas de registro de actividades académicas.
 
-VI. Concurrir con puntualidad a las evaluaciones parciales, ordinarias, extraordinarias y de regularización conforme al calendario marcado por las autoridades académicas del plantel, debiendo notificar oportunamente al maestro.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
 
-VII. Realizar las evaluaciones dentro del área de su respectivo plantel.
+VI. Concurrir con puntualidad a las evaluaciones parciales, ordinarias, extraordinarias y de regularización conforme al calendario marcado por las autoridades académicas de la universidad.
+
+VII. (DEROGADA, P.O. 19 DE SEPTIEMBRE DE 2012)
 
 VIII. Observar los criterios psicopedagógicos señalados por la Universidad, en las tareas de evaluación.
 
-IX. Entregar correctamente y dentro del plazo fijado por la Dirección del Plantel, los resultados de las evaluaciones practicadas y observar los instructivos que a este respecto marca la Dirección.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
 
-X. Concurrir con el carácter de sinodal a los exámenes profesionales y a todas las evaluaciones a las que haya sido convocado por la Dirección del Plantel, dando a conocer a la misma y, con toda oportunidad, sus observaciones al respecto.
+IX. Entregar correctamente y dentro de los plazos fijados por el calendario escolar, los resultados de las evaluaciones practicadas.
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+X. Concurrir con el carácter de sinodal a los exámenes profesionales y a todas las evaluaciones a las que haya sido convocado, dando a conocer con toda oportunidad sus observaciones al respecto.
 
 XI. Firmar las formas que se instrumenten para los efectos de la fracción anterior.
 
-XII. Presentarse con puntualidad y participar activamente en todas las reuniones convocadas por la dirección de su respectivo plantel.
+XII. (DEROGADA, P.O. 19 DE SEPTIEMBRE DE 2012)
 
-XIII. Asistir a los cursos de actualización o superación académica que programe la Universidad con dicho fin.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+XIII. Asistir puntualmente a los cursos de actualización, capacitación, superación, y demás que programa la Universidad.
 
 XIV. Cumplir con el programa de estudios de la asignatura que imparta.
 
@@ -641,7 +665,13 @@ XVIII. Introducir o ingerir bebidas embriagantes, drogas o enervantes, en los ce
 
 XIX. Estará prohibido fumar, encender fósforos y en general, todo lo que pueda provocar incendios o explosiones en los archivos, bodegas, almacenes, laboratorios, bibliotecas y lugares en que haya objetos flamables o explosivos.
 
-XX. En general asumir o realizar cualquier actividad que se oponga a las leyes y este Reglamento.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+XX. Mantener algún tipo de relación de noviazgo con los alumnos.
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+XXI. En general asumir o realizar cualquier actividad que se oponga a las leyes y este Reglamento.
 
 ###### Artículo 60.
 
@@ -745,15 +775,17 @@ IX. El que determinen las leyes federales y locales electorales, en el caso de e
 
 ### Capítulo IV. De las Vacaciones
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 74.
 
-El Personal gozará de tres periodos vacacionales, en las fechas establecidas en el calendario oficial de la Universidad, distribuidos de la siguiente forma:
+El Personal gozará de tres períodos vacacionales, en las fechas establecidas en el calendario oficial de la Universidad, distribuidos de la siguiente forma:
 
-- Del 16 de mayo al 31 de agosto (5 días hábiles).
+I. Del 16 de mayo al 31 de agosto (10 días hábiles).
 
-- Última semana de diciembre (5 días hábiles).
+II. Última semana de diciembre (5 días hábiles).
 
-- La primera semana de enero (5 días hábiles).
+III. La primera semana de enero (5 días hábiles).
 
 ###### Artículo 75.
 
@@ -927,7 +959,9 @@ V. A regresar al puesto que desempeñaban, siempre que no haya transcurrido más
 
 VI. A que se computen en su antigüedad los periodos pre y postnatales.
 
-## Título Octavo. De los Riesgos de Trabajo, de las Normas de Previsión, Seguridad e Higiene, de los Exámenes Médicos y Medidas Profilácticas
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+## Título Octavo. De los Riesgos de Trabajo, Normas de Previsión, Seguridad e Higiene, Exámenes Médicos y Medidas Profilácticas y de la Unidad Interna de Protección Civil
 
 ### Capítulo I. De los Riesgos de Trabajo
 
@@ -1057,11 +1091,67 @@ En caso de enfermedades es obligatorio para los trabajadores de la Universidad, 
 
 Los exámenes médicos y medidas profilácticas que este reglamento establece para el personal de la Universidad, deben llevarse a cabo dentro de las horas de trabajo, salvo los casos de epidemia o de urgencia en que podrán efectuarse dichos exámenes en cualquier día y hora.
 
-### Capítulo I. De las Disposiciones Disciplinarias
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+### Capítulo IV. De la Unidad Interna de Protección Civil
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 109-A.
+
+La Universidad a través de sus autoridades establecerá, un programa interno de protección civil que incluirá acciones de seguridad en caso de desastres naturales para su personal, e instalaciones; a través de una Unidad Interna de Protección Civil.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 109-B.
+
+La Unidad de Protección Civil estará integrada por las autoridades Universitarias y su personal, quines (sic) formaran brigadas para su mejor desempeño.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 109-C.
+
+Son facultades de la Unidad Interna de Protección Civil:
+
+I. Integrar y formalizar la Unidad Interna de Protección Civil de la Universidad.
+
+II. Integrar las brigadas internas de protección civil.
+
+III. Diseñar y promover la impartición de cursos de capacitación a los integrantes de las brigadas internas de protección civil.
+
+IV. Elaborar el diagnóstico de riesgo a los que esta expuesta la zona donde se ubica el inmueble.
+
+V. Elaborar e implementar medidas de prevención para cada tipo de calamidad, de acuerdo al riesgo potencial al que esta expuesto el inmueble.
+
+VI. Definir áreas o zonas de seguridad interna y externa.
+
+VII. Realizar simulacros en el inmueble, de acuerdo a los planes de emergencias y procedimientos metodológicos previamente elaborados para cada desastre.
+
+VIII. Elaborar y distribuir material de difusión y concientización para el personal que labora en la Universidad.
+
+IX. Evaluar el avance y la eficacia del programa interno de protección civil.
+
+X. Elaborar directorios e inventarios por inmueble de la Universidad.
+
+XI. Establecer mecanismos de coordinación con las instituciones responsables de la detección, monitoreo y pronóstico de los diferentes agentes perturbadores.
+
+XII. Establecer acciones permanentes de mantenimiento de las diferentes instalaciones del inmueble.
+
+XIII. Determinar el equipo de seguridad que debe ser instalado en el inmueble.
+
+XIV. Promover la colocación de señalamientos, de acuerdo a los lineamientos establecidos en la norma oficial mexicana NOM. 003 SEGOB 2002.
+
+XV. Aplicar las normas de seguridad que permitan reducir al mínimo la incidencia de riesgos del personal y los bienes del inmueble en general.
+
+XVI. Elaborar un plan de reconstrucción inicial, para restablecer las condiciones normales de operación del-inmueble.
+
+XVII. Informar a la subsecretaría de protección civil de los avances en la implementación de los programas internos de protección civil (cursos, simulacros, señalización, integración de brigadas, inmuebles, etc.); y,
+
+XVIII. Las demás que para el cumplimiento de su objetivo establezca la legislación aplicable.
 
 ## Título Noveno. De las Disposiciones Disciplinarias, de la Revisión del Reglamento
 
-### Capítulo II. De la Revisión del Reglamento
+### Capítulo I. De las Disposiciones Disciplinarias
 
 ###### Artículo 110.
 
@@ -1179,6 +1269,8 @@ VI. Por reincidir el trabajador en una misma conducta de las previstas en el art
 
 La aplicación de las correcciones disciplinarias contenidas en este capítulo, únicamente pueden ser aplicadas por la Dirección de Administración de Personal y Organización, la cual diseñara la forma para que le sea comunicado oportunamente, por los jefes inmediatos, de la comisión de faltas por parte de los trabajadores que sean merecedores de alguna sanción.
 
+### Capítulo II. De la Revisión del Reglamento
+
 ###### Artículo 120.
 
 Este Reglamento solo podrá ser modificado total o parcialmente de común acuerdo entre la Universidad y su personal, debidamente representados ante una Comisión Mixta, con igual número de representantes de la Universidad y de los trabajadores de la misma.
@@ -1220,3 +1312,13 @@ Artículo Tercero.- El presente reglamento deja sin efecto cualquier otra dispos
 Dado en la Sala de Juntas de la Universidad Politécnica de Chiapas, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los cuatro días de mes de diciembre del año dos mil nueve.
 
 Por la Universidad Politécnica de Chiapas: Dr. Jorge Luis Zuart Macías, Rector.- Por "Los Trabajadores": M.C. Víctor Fernando Ramos Fon Bon.- C.P. Mariela Salinas Ayala.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE SEPTIEMBRE DE 2012.
+
+Artículo Primero.- El presente Reglamento Interno de Trabajo se pacta por tiempo indeterminado, y su vigencia se iniciara al siguiente día de su depósito ante las autoridades competentes.
+
+Artículo Segundo.- La Universidad publicará al siguiente día de su depósito ante la autoridad competente el presente Reglamento en los tableros informativos que haya asignado para tal efecto.
+
+Artículo Tercero.- El presente Reglamento Interno de Trabajo deja sin efecto cualquier otra disposición, uso o costumbre que lo contravenga.
