@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-penales-para-el-estado-de-queretaro-75
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-06"
-last_updated: "2012-09-14"
+last_updated: "2012-09-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 6 de julio de 1989.
 
@@ -101,9 +101,7 @@ I.- El juzgador que deba conocer del delito que tenga señalada la pena más gra
 
 II.- El juzgador que haya prevenido en la causa, si los delitos estuvieren sancionados con la misma pena.
 
-###### ARTICULO 14.
-
-(Casos de conexidad).- Los delitos son conexos:
+ARTICULO 14 (Casos de conexidad).- Los delitos son conexos:
 
 I.- Cuando han sido cometidos por varias personas conjuntamente;
 
@@ -171,19 +169,17 @@ El procedimiento de sustitución se sujetará a lo que señala la Ley Orgánica 
 
 ### CAPITULO II. EL MINISTERIO PUBLICO Y LA POLICIA JUDICIAL
 
-###### ARTICULO 19.
-
-(Funciones del Ministerio Público).- Compete al Ministerio Público llevar a cabo la preparación del ejercicio de la acción penal, y ejercer la acción penal ante los Tribunales del Estado, en los casos en que resulte procedente.
+ARTICULO 19 (Funciones del Ministerio Público).- Compete al Ministerio Público llevar a cabo la preparación del ejercicio de la acción penal, y ejercer la acción penal ante los Tribunales del Estado, en los casos en que resulte procedente.
 
 > <small>(REFORMADO PÁRRAFO PRIMERO, P.O. 19 DE MARZO DE 2004)</small>
 
-###### ARTICULO 20.
+ARTICULO 20 (Facultades y Obligaciones del Ministerio Público en las diligencias de preparación del ejercicio de la acción penal).- En las diligencias de preparación del ejercicio de la acción penal corresponderá al Ministerio Público:
 
-(Facultades y Obligaciones del Ministerio Público en las diligencias de preparación del ejercicio de la acción penal). En las diligencias de preparación del ejercicio de la acción penal corresponderá al Ministerio Público:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
 
-I.- Recibir las denuncias y querellas que le presenten en forma verbal o por escrito sobre los hechos que puedan constituir delitos del orden común, debiendo procurar la conciliación entre el ofendido y el imputado, tratándose de delitos perseguibles por querella, previo consentimiento del primero;
+I. Recibir las denuncias y querellas que le presenten en forma verbal o por escrito sobre los hechos que puedan constituir delitos de su competencia, debiendo procurar la conciliación entre el ofendido y el imputado, tratándose de delitos perseguibles por querella, previo consentimiento del primero;
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2003)</small>
 
@@ -217,25 +213,49 @@ VI.- Determinar conforme a las disposiciones de este Código, su reserva o bien 
 
 VII.- Ordenar o llevar a cabo todos aquellos actos que le corresponda realizar, conforme a la ley, para la práctica y conclusión de las diligencias de preparación del ejercicio de la acción penal.
 
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VIII.- En las indagatorias en contra de miembros de una asociación delictuosa, la investigación deberá comprender el conocimiento de las estructuras y formas de operación de dichos grupos.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
 
-Con ese propósito, el Procurador General de Justicia podrá autorizar la infiltración de elementos investigadores, dentro de las asociaciones delictivas, siempre y cuando con ello no se cause daño a la integridad de las personas y sea necesario para los fines previstos en el párrafo precedente.
+VIII. Interponer los medios de impugnación que la ley concede y expresar los agravios correspondientes;
 
-> <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 2002)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IX.- Autorizar la disposición de órganos y tejidos humanos, a los disponentes secundarios conforme a lo dispuesto en el Reglamento de la Ley General de Salud en materia de control sanitario de la disposición de órganos, tejidos y cadáveres de seres humanos, cuando el occiso en vida haya hecho manifestación expresa de donarlos, con sujeción a los requisitos legales estipulados en el citado reglamento. Así mismo, y para tal fin, deberá de prestar todas las facilidades necesarias a efecto de no entorpecer las actividades tendientes a la disposición de los mismos.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
 
-Para el caso de que la autoridad ministerial incurra en actos u omisiones tendientes a entorpecer el trámite normal de disposición de órganos, tejidos y cadáveres de seres humanos ocasionando con ello que se lesionen los intereses y la dignidad de terceros, se hará acreedor a las sanciones que sean aplicables de la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro.
+IX. En general, hacer todas las promociones que sean conducentes al desarrollo y terminación regular de la fase de preparación del ejercicio de la acción penal;
 
-> <small>(ADICIONADA, P.O. 19 DE MARZO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-X. Informar a la víctima y al ofendido, los derechos que a su favor establecen la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Querétaro Arteaga y las leyes del Estado, canalizándolos a las instituciones que correspondan, para que reciban la asesoría jurídica y la atención médica y psicológica que requieran.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
 
-> <small>(ADICIONADA, P.O. 19 DE MARZO DE 2004)</small>
+X. Informar a la víctima y al ofendido, los derechos que a su favor establecen la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Querétaro y las leyes del Estado, canalizándolos a las instituciones que correspondan, para que reciban la asesoría jurídica y la atención médica y psicológica que requieran;
 
-XI. Informar a la víctima y al ofendido del desarrollo de las diligencias de preparación del ejercicio de la acción penal, cuando así lo soliciten.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+XI. Informar a la víctima y al ofendido del desarrollo de la fase de preparación del ejercicio de la acción penal, cuando así lo soliciten;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+XII. Ejercer las atribuciones que le corresponden como órgano de procuración de justicia, en los delitos contra la salud en la modalidad de narcomenudeo, conforme a las disposiciones aplicables y contenidas en la Ley General de Salud, manteniendo la comunicación y coordinación con el Ministerio Público de la Federación, según los respectivos ámbitos de competencia.
+
+Tratándose de los delitos de narcomenudeo previstos en los artículos 475, 476 y 477 de la Ley General de Salud, para fines de investigación, el titular del Ministerio Público de la Federación o el servidor público que al efecto designe, podrá autorizar, en cada caso, al titular del Ministerio Público en el Estado, para que, por conducto de sus policías, empleen como técnicas de investigación, comprar, adquirir o recibir la transmisión de material de algún narcótico para lograr la detención del imputado del comercio o suministro de narcóticos o de la posesión de los mismos con dichos fines y el aseguramiento correspondiente.
+
+Una vez expedida la autorización, el Ministerio Público de la Federación y el Ministerio Público del fuero común, señalarán por escrito, en la orden respectiva, los lineamientos, términos, limitaciones, modalidades y condiciones a los que deben sujetarse los agentes de la policía que deberán ejecutar la orden.
+
+En las actividades que desarrollen los policías que ejecuten la orden, se considerará que actúan en cumplimiento de un deber, siempre que su actuación se apegue a los lineamientos, términos, modalidades, limitaciones y condiciones a que se refiere el párrafo anterior; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+XIII. El Ministerio Público del fuero común, deberá informar oportunamente al Ministerio Público de la Federación, del inicio de las diligencias de preparación del ejercicio de la acción penal, en tratándose de hechos probablemente constitutivos de delitos contra la salud en la modalidad de narcomenudeo, a efecto de que éste cuente con los elementos necesarios para, en su caso, solicitar la remisión de la investigación.
+
+Si de las constancias se advierte la incompetencia de las autoridades del fuero común, el caso deberá remitirse al Ministerio Público de la Federación o al Juez Federal que corresponda, según sea la etapa procedimental en que se encuentre, a fin de que se continúe el procedimiento, caso en el cual las diligencias desahogadas hasta ese momento gozarán de validez.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2004)</small>
 
@@ -893,13 +913,23 @@ XXI.- La corrupción de personas menores de dieciocho años de edad o que no tie
 
 XXII.- Delitos contra la seguridad y el orden en el desarrollo urbano, en los casos pervistos (sic) por el artículo 246-F y párrafo primero del artículo 246-G;
 
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXIII.- Delitos de peligro contra la salud pública, en los casos previstos por los artículos 221 BIS-A fracciones I, III, V y VI en los casos de servidores públicos y 221 BIS-B del Código Penal; y
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
 
-> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2011)</small>
+XXIII. Delitos de peligro contra la salud pública, en los casos previstos por los artículos 221 BIS-A fracciones I, III, V y VI en los casos de servidores públicos y 221 BIS-B del Código Penal;
 
-XXIV.- La extorsión prevista en el artículo 198 del Código Penal.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+XXIV. La extorsión prevista en el artículo 198 del Código Penal; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+XXV. Los delitos contra la salud en la modalidad de narcomenudeo, en los casos y condiciones señaladas por la fracción XV del artículo 194 del Código Federal de Procedimientos Penales, en relación con las fracciones I, II y III del artículo 464 Ter y en los artículos 475 y 476 de la Ley General de Salud.
 
 > <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2011)</small>
 
@@ -1083,7 +1113,7 @@ El embargo también se levantará si se decreta la libertad del imputado por fal
 
 ARTICULO 146 (Restitución de derechos del ofendido).- El ofendido o sus legítimos representantes, podrán solicitar al Ministerio Público, durante las diligencias de preparación del ejercicio de la acción penal, o al Juzgador, en el procedimiento seguido ante él, cuando esté comprobado el cuerpo del delito, que dicte las providencias necesarias para asegurar sus derechos o restituirlo en el goce de los mismos, siempre que estén legalmente justificados y se otorgue, en su caso, caución bastante para garantizar el pago de los daños y perjuicios que pudieran ocasionarse a terceros o al imputado.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 25 DE FEBRERO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE FEBRERO DE 2011)</small>
 
 ### CAPITULO IX. ATENCION INTEGRAL A MUJERES EN CASO DE PRACTICA DE ABORTO
 
@@ -1447,13 +1477,7 @@ ARTICULO 221 (Querella de menores).- Cuando el ofendido sea mayor de dieciséis 
 
 ARTICULO 222 (Querella por poder).- La querella formulada en representación de personas físicas o morales, se admitirá cuando el apoderado tenga poder especial o poder general con cláusula especial para formular querella, sin que sean necesarios acuerdo o calificación del Consejo de Administración o de la Asamblea de socios o accionistas, poder especial para el caso determinado, ni instrucciones concretas del mandante.
 
-## TITULO SEGUNDO. REGLAS APLICABLES A LAS
-
-DILIGENCIAS DE PREPARACION
-
-DEL EJERCICIO DE LA ACCION
-
-PENAL
+## TITULO SEGUNDO. REGLAS APLICABLES A LAS DILIGENCIAS DE PREPARACION DEL EJERCICIO DE LA ACCION PENAL
 
 ### CAPITULO I. DE LAS ACTAS MINISTERIALES
 
@@ -1474,6 +1498,14 @@ El acuerdo logrado con el ofendido, a través de la conciliación en los delitos
 De no lograrse la conciliación o que alguna de las partes convocadas a ella no se presente, se continuará con el trámite de la averiguación iniciada.
 
 Si en la investigación que se realiza en las diligencias de preparación del ejercicio de la acción penal, además de los delitos perseguibles por querella, respecto de los cuales se logre el acuerdo de las partes en la vía conciliatoria, concurrieran otros delitos perseguibles de oficio, sólo se proseguirán las investigaciones conducentes respecto de éstos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+ARTICULO 224 TER (Obligación de dar vista a la autoridad sanitaria en el caso de farmacodependiente).- El Ministerio Público al iniciar la averiguación previa, dará aviso a la autoridad sanitaria correspondiente, cuando a un farmacodependiente se le impute la comisión de un delito, a fin de que dicha autoridad intervenga en los términos de las disposiciones aplicables, independientemente de los servicios de rehabilitación al farmacodependiente que se deban prestar en todos los centros que integran el Sistema Penitenciario del Estado, conforme a lo dispuesto por la Ley General de Salud, la Ley de Salud del Estado de Querétaro, la Ley de Ejecución de Penas y Medidas de Seguridad del Estado de Querétaro y demás legislación aplicable.
+
+Si el imputado además de adquirir o poseer los estupefacientes o psicotrópicos necesarios para su consumo personal, se le atribuye la comisión de cualquier delito contra la salud, se le consignará sin perjuicio de que intervenga la autoridad sanitaria competente para su tratamiento o programa de prevención.
 
 ARTICULO 225 (Citación a los testigos).- El Ministerio Público podrá citar para que declaren sobre los hechos que se averiguan, a las personas que por cualquier concepto participen en ellos o aparezca tengan datos sobre los mismos.
 
@@ -1537,13 +1569,21 @@ OBJETOS DEL DELITO
 
 ARTICULO 237 (Deber para preservar las huellas del delito).- El Ministerio Público durante las diligencias de preparación del ejercicio de la acción penal deberá dictar las medidas pertinentes para preservar, en tanto se inspeccionan o se aprecian por los peritos, las huellas del delito.
 
-ARTICULO 238 (Obligación de recoger los instrumentos y objetos del delito).- Los instrumentos del delito, así como las cosas que sean objeto o producto de él, y aquellos en que existan huellas del mismo o pudieren tener relación con éste, serán recogidos por el Ministerio Público o el Juzgador, en su caso, quienes deberán dictar las medidas necesarias para que dichos instrumentos y objetos no se alteren, destruyan o desaparezcan.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-De todas las cosas recogidas, se hará un inventario en el que se les describirá de tal manera que en cualquier tiempo puedan ser identificadas.
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+ARTICULO 238 (Obligación de recoger los instrumentos y objetos del delito).- Los instrumentos del delito, así como las cosas que sean objeto o producto de él y aquellos en que existan huellas del mismo o pudieran tener relación con éste, serán recogidos por el Ministerio Público o por el Juzgador, en su caso, quienes deberán dictar las medidas necesarias para que dichos instrumentos, objetos o productos no se alteren, destruyan o desaparezcan.
+
+Cuando exista aseguramiento de estupefacientes o psicotrópicos, el Ministerio Público o el Juez solicitarán la elaboración del dictamen pericial correspondiente, sobre los caracteres organolépticos o químicos de la sustancia asegurada. Este dictamen, cuando hubiere detenido, será rendido a más tardar dentro del plazo de 72 horas a que se refiere el artículo 19 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Cuando el Ministerio Público tenga conocimiento que el propietario, poseedor, arrendatario o usufructuario de un establecimiento de cualquier naturaleza, lo empleare para realizar cualquiera de las conductas sancionadas por el Capítulo VII del Título Décimo Octavo de la Ley General de Salud o que permitiere su realización por terceros, informará a la autoridad administrativa competente para que, en el ejercicio de sus atribuciones, realice la clausura del establecimiento, sin perjuicio de las sanciones que resulten por la aplicación de los ordenamientos correspondientes.
+
+De todas las cosas recogidas se hará un inventario en el que se les describirán de tal manera que en cualquier tiempo puedan ser identificadas.
 
 ARTICULO 239 (Conservación de las cosas recogidas).- Las cosas inventariadas conforme al artículo anterior, se quedarán en el lugar o recipiente adecuado, según su naturaleza, debiéndose tomar las precauciones necesarias para asegurar su conservación e identidad.
 
-ARTICULO 240(Vista de las cosas recogidas).- Siempre que sea necesario tener a la vista alguna de las cosas a que se refieren los artículos anteriores, se comenzará la diligencia haciendo constar si se encuentra en el mismo estado en que estaba al ser recogida. Si se considera que ha sufrido alteración voluntaria o accidental, se expresarán los signos o señales que la hagan presumir.
+ARTICULO 240 (Vista de las cosas recogidas).- Siempre que sea necesario tener a la vista alguna de las cosas a que se refieren los artículos anteriores, se comenzará la diligencia haciendo constar si se encuentra en el mismo estado en que estaba al ser recogida. Si se considera que ha sufrido alteración voluntaria o accidental, se expresarán los signos o señales que la hagan presumir.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 18 DE JULIO DE 2008)</small>
 
@@ -1576,6 +1616,12 @@ IV. Tratándose de bienes de difícil o costosa conservación, respecto de los c
 V. Las cosas o bienes a disposición del Ministerio Público o de la autoridad judicial que hayan sido objeto de aseguramiento o decomiso o que no siéndolo, tampoco sean recogidos por quien tenga derecho a ello, dentro del lapso de sesenta días naturales contados a partir de la notificación que se realice al interesado, si se conoce el nombre y el domicilio de éste o en caso contrario, mediante publicaciones verificadas en los términos establecidos en la fracción I de este precepto, previa aplicación a favor del Poder Ejecutivo, se enajenarán en subasta pública, que se realizará por parte de la Dirección de Servicios Administrativos de la Procuraduría General de Justicia del Estado si están a disposición del Ministerio Público o por la Oficia lía Mayor, cuando estén a disposición de la autoridad judicial.
 
 Para el remate y la adjudicación, supletoriamente se estará a lo dispuesto en el Código de Procedimientos Civiles del Estado de Querétaro.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+VI. El destino y destrucción de narcóticos se regirán por las disposiciones del Código Federal de Procedimientos Penales; considerando lo que dictamine la autoridad sanitaria sobre la nocividad y destino de los narcóticos.
 
 ### CAPITULO IV. CATEOS
 
@@ -1659,9 +1705,35 @@ II.- Cuando no se compruebe plenamente el cuerpo del delito;
 
 III.- Cuando no se demuestre que el indiciado tuvo intervención en la conducta o hecho que le imputan, y solo por lo que respecta a él;
 
-IV.- Cuando se compruebe una causa de inexistencia de delito; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-V.- Cuando se haya extinguido la pretensión punitiva del Estado, en los términos del Código Penal.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+IV.- Cuando se compruebe una causa de inexistencia de delito;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+V.- Cuando se haya extinguido la pretensión punitiva del Estado, en los términos del Código Penal;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+VI.- Por la posesión de medicamentos que contengan alguno de los narcóticos previstos en la tabla a que hace referencia el artículo 479 de la Ley General de Salud, cuya venta al público se encuentre supeditada a requisitos especiales de adquisición, cuando por su naturaleza y cantidad dichos medicamentos sean los necesarios para el tratamiento de la persona que los posea o de otras personas sujetas a su custodia o asistencia de quien los tiene en su poder; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+VII.- En contra de quien sea farmacodependiente o consumidor y posea alguno de los narcóticos señalados en la tabla de orientación de dosis máximas de consumo personal e inmediato que se contempla en el artículo 479 de la Ley General de Salud, en igual o inferior cantidad a la prevista en la misma, para su estricto consumo personal, fuera de los lugares señalados en la fracción II del artículo 475 de la propia Ley. La autoridad ministerial informará al consumidor la ubicación de las instituciones o centros para el tratamiento médico o de orientación para la prevención de la farmacodependencia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+En los supuestos de las dos últimas fracciones, el Ministerio Público informará a la autoridad sanitaria para que se adopten las medidas de orientación médica o de prevención procedentes.
 
 ARTICULO 255 (Definitividad del no ejercicio de la acción penal).- Las resoluciones que se dicten en los casos a que se refieren los dos artículos anteriores, producirán el efecto de impedir el ejercicio de la acción penal respecto de los hechos que las motiven, salvo que se recaben con posterioridad datos que destruyan la hipótesis de no ejercicio de la acción penal a que se refiere el artículo anterior.
 
@@ -1785,7 +1857,7 @@ Transcurrido el plazo al que se refiere el párrafo anterior sin que el Minister
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2003)</small>
 
-ARTICULO 278 (Conclusiones Acusatorias). El Ministerio Público, al formular conclusiones, fijará en proposiciones concretas los hechos punibles que se atribuyen al procesado, expresando los preceptos legales, ejecutorias y doctrinas que considere aplicables, solicitando en forma concreta la aplicación de las sanciones correspondientes incluyendo la reparación de daños y perjuicios. Estas proposiciones deberán contener los elementos de prueba relativos a la comprobación del cuerpo del delito y los conducentes a establecer la responsabilidad penal, así como los que acrediten el monto de los daños y perjuicios causados.
+ARTICULO 278 (Conclusiones Acusatorias).- El Ministerio Público, al formular conclusiones, fijará en proposiciones concretas los hechos punibles que se atribuyen al procesado, expresando los preceptos legales, ejecutorias y doctrinas que considere aplicables, solicitando en forma concreta la aplicación de las sanciones correspondientes incluyendo la reparación de daños y perjuicios. Estas proposiciones deberán contener los elementos de prueba relativos a la comprobación del cuerpo del delito y los conducentes a establecer la responsabilidad penal, así como los que acrediten el monto de los daños y perjuicios causados.
 
 ARTICULO 279 (Modificación de conclusiones).- Las conclusiones del Ministerio Público sólo pueden modificarse por causas supervinientes y en beneficio del acusado, salvo lo dispuesto en el artículo siguiente.
 
@@ -1913,7 +1985,7 @@ IV.- (Requisito de reparación de daños y perjuicios).- Que se haya pagado la r
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-ARTICULO 300 C.- El imputado que considere tener derecho al beneficio de la suspensión a prueba del procedimiento penal, podrá solicitarlo inmediatamente después de haberse dictado auto de formal prisión o de sujeción a proceso y hasta cinco días hábiles siguientes al que declare cerrada la instrucción.
+ARTICULO 300 C El imputado que considere tener derecho al beneficio de la suspensión a prueba del procedimiento penal, podrá solicitarlo inmediatamente después de haberse dictado auto de formal prisión o de sujeción a proceso y hasta cinco días hábiles siguientes al que declare cerrada la instrucción.
 
 Para el caso de que no se tenga precisado el monto de la reparación del daño al momento del dictado del auto de término, el beneficio se podrá solicitar durante la fase de instrucción y hasta dentro de los cinco días siguientes al auto que declara cerrada la instrucción, siempre y cuando haya quedado establecido el monto de reparación del daño.
 
@@ -1921,7 +1993,7 @@ El beneficio de la suspensión a prueba del procedimiento penal, se tramitará i
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
-ARTICULO 300 D.- (Condiciones para el beneficio de la suspensión).- Para disfrutar de la suspensión a prueba, el procesado deberá:
+ARTICULO 300 D (Condiciones para el beneficio de la suspensión).- Para disfrutar de la suspensión a prueba, el procesado deberá:
 
 I.- (Otorgar caución).- Exhibir la garantía que el juzgador estime suficiente y adecuada, para asegurar su presentación ante la autoridad, cuantas veces fuere requerido;
 
@@ -1937,17 +2009,17 @@ V.- (Prohibición de ocurrir a ciertos lugares).- Abstenerse de frecuentar bares
 
 > <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2011)</small>
 
-ARTICULO 300 E.- (Efectos de la suspensión a prueba) Al beneficiado con la suspensión a prueba del procedimiento penal, el Juez le señalará un plazo, en el que quedará sujeto a las medidas que el mismo órgano jurisdiccional determine según las circunstancias del caso, consistentes en orientación, vigilancia y asistencia de la autoridad en los términos de lo previsto por la Ley de Ejecución de Penas y Medidas de Seguridad del Estado de Querétaro.
+ARTICULO 300 E (Efectos de la suspensión a prueba).- Al beneficiado con la suspensión a prueba del procedimiento penal, el Juez le señalará un plazo, en el que quedará sujeto a las medidas que el mismo órgano jurisdiccional determine según las circunstancias del caso, consistentes en orientación, vigilancia y asistencia de la autoridad en los términos de lo previsto por la Ley de Ejecución de Penas y Medidas de Seguridad del Estado de Querétaro.
 
 Tratándose de delitos que ameriten pena privativa de libertad, el plazo de suspensión no podrá ser menor a un año ni mayor a cinco; en los demás casos, el plazo mínimo será de seis meses y máximo de tres años.
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
-ARTICULO 300 F.- (Término de la suspensión a prueba y autoridad que la declara).- Si durante el plazo previsto en el artículo anterior, contado a partir de que se le concedió la suspensión a prueba del procedimiento penal, el beneficiado no diere lugar a nuevo proceso por delito doloso y haya cumplido con las condiciones y medidas impuestas, se sobreseerá el proceso.
+ARTICULO 300 F (Término de la suspensión a prueba y autoridad que la declara).- Si durante el plazo previsto en el artículo anterior, contado a partir de que se le concedió la suspensión a prueba del procedimiento penal, el beneficiado no diere lugar a nuevo proceso por delito doloso y haya cumplido con las condiciones y medidas impuestas, se sobreseerá el proceso.
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
-ARTICULO 300 G.- (Hipótesis de revocación).- La suspensión a prueba se revocará en los casos siguientes:
+ARTICULO 300 G (Hipótesis de revocación).- La suspensión a prueba se revocará en los casos siguientes:
 
 I.- (Revocación por incumplimiento de obligaciones).- En caso de que dentro del plazo a que se contrae el artículo 300 E, el beneficiado no cumpla con algunas de las condiciones a que se refieren las fracciones II a la V del artículo 300 D, o con las medidas de orientación, vigilancia y asistencia que se acuerden por la autoridad, en términos de lo previsto por el artículo 300 E, a petición del Ministerio Público, deberá reanudar el procedimiento, previo a lo cual tendrá que tramitarse el incidente respectivo, en los términos de los no especificados.
 
@@ -1959,7 +2031,7 @@ IV.- (A solicitud del procesado).- Cuando el procesado lo solicite, poniéndose 
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
-ARTICULO 300 H.- (Formas de revocación de la suspensión).- La revocación de la suspensión a prueba del procedimiento se hará por el juez que la concedió, de oficio o a petición de parte, cuando el beneficiado lo solicite y se ponga a disposición del juzgador, y cuando el fiador lo solicite expresamente, presentando al procesado. En cualquier otro caso, se hará oficio mediante el trámite incidental correspondiente.
+ARTICULO 300 H (Formas de revocación de la suspensión).- La revocación de la suspensión a prueba del procedimiento se hará por el juez que la concedió, de oficio o a petición de parte, cuando el beneficiado lo solicite y se ponga a disposición del juzgador, y cuando el fiador lo solicite expresamente, presentando al procesado. En cualquier otro caso, se hará oficio mediante el trámite incidental correspondiente.
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
@@ -1967,11 +2039,11 @@ La autoridad encargada de la orientación, vigilancia y asistencia, está obliga
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
-ARTICULO 300 I.- (Información para la vigilancia del beneficiado).- Una vez decretada la suspensión a prueba del procedimiento penal, se prevendrá al procesado para que se presente ante la Dirección General de Reinserción Social de la Secretaria de Gobierno, dentro de los cinco días siguientes, apercibido que de no hacerlo se le revocará el beneficio. De igual forma, el Juez enviará a la Dirección un oficio en donde informará los términos y condiciones del beneficio concedido.
+ARTICULO 300 I (Información para la vigilancia del beneficiado).- Una vez decretada la suspensión a prueba del procedimiento penal, se prevendrá al procesado para que se presente ante la Dirección General de Reinserción Social de la Secretaria de Gobierno, dentro de los cinco días siguientes, apercibido que de no hacerlo se le revocará el beneficio. De igual forma, el Juez enviará a la Dirección un oficio en donde informará los términos y condiciones del beneficio concedido.
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
-ARTICULO 300 J.- (Sobre la caución).- En los casos de suspensión del procedimiento penal a prueba, es aplicable en lo conducente lo establecido en el capítulo relativo a la libertad provisional bajo caución, respecto al otorgamiento de ésta, obligaciones de quien otorga la garantía, y casos en que se hará efectiva.
+ARTICULO 300 J (Sobre la caución).- En los casos de suspensión del procedimiento penal a prueba, es aplicable en lo conducente lo establecido en el capítulo relativo a la libertad provisional bajo caución, respecto al otorgamiento de ésta, obligaciones de quien otorga la garantía, y casos en que se hará efectiva.
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
@@ -1993,9 +2065,7 @@ ARTICULO 302 (Oportunidad del sobreseimiento).- El auto de sobreseimiento se dic
 
 Se resolverá de plano cuando se decrete de oficio. Si fuere a petición de parte, se tramitará por separado y en forma de incidente no especificado.
 
-###### ARTICULO 304.
-
-(Efectos del sobreseimiento).- El auto de sobreseimiento que haya causado estado, surtirá los efectos de una sentencia absolutoria, con valor de cosa juzgada.
+ARTICULO 304 (Efectos del sobreseimiento).- El auto de sobreseimiento que haya causado estado, surtirá los efectos de una sentencia absolutoria, con valor de cosa juzgada.
 
 ## TITULO QUINTO. IMPUGNACION
 
@@ -2079,9 +2149,7 @@ La omisión de este requisito surte el efecto de duplicar el plazo legal para in
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 1997)</small>
 
-###### ARTICULO 316.
-
-El recurso de apelación procederá contra las siguientes resoluciones pronunciadas por los Jueces de Primera Instancia.
+ARTICULO 316 El recurso de apelación procederá contra las siguientes resoluciones pronunciadas por los Jueces de Primera Instancia.
 
 I.- Las sentencias definitivas;
 
@@ -2119,9 +2187,7 @@ En los casos a que se refieren los artículos 308 y 312 párrafo segundo del pre
 
 ARTICULO 320 (Radicación de Recurso).- Recibido el expediente original, el duplicado o el testimonio de apelación, el magistrado ponente dentro del término de tres días dictará auto de radicación en el que se calificará la admisión y los efectos de la apelación. Declarada inadmisible la apelación, se devolverán los autos al inferior; revocada la calificación del grado, se procederá en su consecuencia.
 
-###### ARTICULO 321.
-
-(DEROGADO, P.O. 19 DE DICIEMBRE DE 1996)
+ARTICULO 321 (DEROGADO, P.O. 19 DE DICIEMBRE DE 1996)
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
@@ -2191,7 +2257,7 @@ ARTICULO 338 (Ejecución del Reconocimiento).- Si se declara fundada la solicitu
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
-ARTICULO 338 A.- (Resoluciones impugnables en revisión).- El recurso de revisión es admisible en contra de:
+ARTICULO 338 A (Resoluciones impugnables en revisión).- El recurso de revisión es admisible en contra de:
 
 I.- Las determinaciones del no ejercicio de la acción penal que dicte el Procurador General de Justicia del Estado, una vez concluidas las diligencias de preparación del ejercicio de la acción penal, aunque el ofendido no haya hecho uso del derecho de audiencia a que se refiere el primer párrafo del artículo 253 de este Código;
 
@@ -2201,7 +2267,7 @@ III.- Las conclusiones no acusatorias formuladas por el Agente del Ministerio P�
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
-ARTICULO 338 B.- (Interposición, tramitación y resolución del recurso de revisión, en contra de la determinación de no ejercicio de la acción penal).- El plazo para interponer recurso de revisión en contra de la determinación del no ejercicio de la acción penal dictada por el Procurador General de Justicia del Estado, será de diez días contados a partir de la notificación hecha al ofendido sobre dicha resolución, y se interpondrá por escrito en el que deberán expresarse los motivos de inconformidad, ante el propio Procurador, quien sin más trámite lo admitirá en el efecto ejecutivo.
+ARTICULO 338 B (Interposición, tramitación y resolución del recurso de revisión, en contra de la determinación de no ejercicio de la acción penal).- El plazo para interponer recurso de revisión en contra de la determinación del no ejercicio de la acción penal dictada por el Procurador General de Justicia del Estado, será de diez días contados a partir de la notificación hecha al ofendido sobre dicha resolución, y se interpondrá por escrito en el que deberán expresarse los motivos de inconformidad, ante el propio Procurador, quien sin más trámite lo admitirá en el efecto ejecutivo.
 
 Admitido el recurso, y hecha la calificación del grado, remitirá al juez revisor, el original de las diligencias de preparación del ejercicio de la acción penal en que se haya dictado la determinación impugnada, expresando, si lo estima pertinente, lo que a su representación convenga respecto de los motivos de inconformidad expresados por el recurrente.
 
@@ -2213,7 +2279,7 @@ En su caso, el juez revisor pronunciará el fallo correspondiente dentro de un p
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
-ARTICULO 338 C.- (Interposición, tramitación y resolución del recurso de revisión en contra del desistimiento de la acción penal y en contra de las conclusiones no acusatorias confirmadas por el Procurador General de Justicia).- Contra el desistimiento de la acción penal, y contra las conclusiones no acusatorias ratificadas por el Procurador General de Justicia, el ofendido, aunque no se haya constituido en coadyuvante del Ministerio Público, dentro del plazo de diez días, podrá interponer el recurso de revisión.
+ARTICULO 338 C (Interposición, tramitación y resolución del recurso de revisión en contra del desistimiento de la acción penal y en contra de las conclusiones no acusatorias confirmadas por el Procurador General de Justicia).- Contra el desistimiento de la acción penal, y contra las conclusiones no acusatorias ratificadas por el Procurador General de Justicia, el ofendido, aunque no se haya constituido en coadyuvante del Ministerio Público, dentro del plazo de diez días, podrá interponer el recurso de revisión.
 
 Para tal efecto, el órgano jurisdiccional, al recibir el desistimiento o la confirmación del Procurador General de Justicia del Estado, de las conclusiones no acusatorias formuladas por el Agente del Ministerio Público, sin dictar auto de sobreseimiento, notificará personalmente al ofendido.
 
@@ -2227,7 +2293,7 @@ Si lo que se revoca son las conclusiones no acusatorias ratificadas por el Procu
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
-ARTICULO 338 D.- (Inimpugnabilidad de las resoluciones que se dicten con motivo del recurso de revisión).- Las determinaciones que dicte el juez revisor para resolver el recurso de revisión no admitirán medio de impugnación alguno.
+ARTICULO 338 D (Inimpugnabilidad de las resoluciones que se dicten con motivo del recurso de revisión).- Las determinaciones que dicte el juez revisor para resolver el recurso de revisión no admitirán medio de impugnación alguno.
 
 # LIBRO QUINTO. PROCEDIMIENTO ESPECIAL
 
@@ -2455,13 +2521,13 @@ Se dará vista de la promoción de incidente a las partes, para que contesten en
 
 PRIMERO.- Este Código comenzará a regir cuarenta días después de su publicación en el periódico oficial del Gobierno del Estado, "La Sombra de Arteaga".
 
-SEGUNDO- Se abroga el Código de Procedimientos Penales para el Estado de Querétaro Arteaga publicado en el periódico oficial del Gobierno del Estado "La Sombra de Arteaga" de 14, catorce de enero de 1932, mil novecientos treinta y dos, y que entró en vigor al día siguiente de su publicación.
+SEGUNDO.- Se abroga el Código de Procedimientos Penales para el Estado de Querétaro Arteaga publicado en el periódico oficial del Gobierno del Estado "La Sombra de Arteaga" de 14, catorce de enero de 1932, mil novecientos treinta y dos, y que entró en vigor al día siguiente de su publicación.
 
 TERCERO.- Todo procedimiento penal que estuviere en trámite al comenzar a regir este Código, se sujetará a sus disposiciones.
 
 CUARTO.- Los recursos interpuestos antes de la vigencia de este Código y que estuvieren pendientes de admisión o no se hubieren desechado, se admitirán siempre que fueren procedentes conforme a este Código o al abrogado, y se substanciarán conforme a las disposiciones del presente.
 
-QUINTO- Los términos para interponer algún medio de impugnación que estén corriendo al comenzar a regir este Código, se computarán conforme al Código que les conceda mayor plazo.
+QUINTO.- Los términos para interponer algún medio de impugnación que estén corriendo al comenzar a regir este Código, se computarán conforme al Código que les conceda mayor plazo.
 
 SEXTO.- Se derogan todas las disposiciones previstas en otros ordenamientos que contravengan lo establecido en el presente Código.
 
@@ -2780,5 +2846,11 @@ Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jera
 P.O. 14 DE SEPTIEMBRE DE 2012.
 
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 19 DE SEPTIEMBRE DE 2012.
+
+Artículo Primero. La presente Ley entrará en vigor ciento veinte días naturales siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga"; plazo en el que los Poderes Ejecutivo y Judicial del Estado realizarán las acciones necesarias a fin que, al inicio de su vigencia, estén en aptitud de cumplir las atribuciones contenidas en la misma.
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
