@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-proyectos-para-la-prestacion-de-servicios-del-estado-800
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-11"
-last_updated: "2012-08-31"
+last_updated: "2012-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80002&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE PROYECTOS PARA PRESTACIÓN DE SERVICIOS DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Puebla, el viernes 11 de febrero de 2011.
 
@@ -243,11 +243,13 @@ Las Dependencias y Entidades Públicas podrán contratar la realización de los 
 
 La contratación de los trabajos y servicios antes mencionados se sujetará a lo previsto en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público Estatal y Municipal.
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 18.
 
-De conformidad con lo establecido en el artículo 11 de esta Ley y en la legislación en la materia, se requerirá la autorización del Congreso cuando se pretendan afectar las participaciones que en ingresos federales le correspondan al Estado o a los Municipios, para los Proyectos para Prestación de Servicios contraídos por la Entidad Pública o Dependencia de que se trate.
+De conformidad con lo establecido en el artículo 11 de esta Ley y en la legislación en la materia, se requerirá la autorización del Congreso cuando se pretendan afectar las participaciones que en ingresos federales le correspondan al Estado o a los Municipios, para los Proyectos para Prestación de Servicios contraídos por la Entidad o Dependencia de que se trate. Asimismo, se requerirá dicha autorización cuando se pretenda incrementar la afectación de participaciones federales, para un Proyecto para Prestación de Servicios.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2011)</small>
 
 Asimismo, el Congreso podrá decretar la desafectación de participaciones, cuando sea procedente.
 
@@ -259,11 +261,17 @@ El Ejecutivo Estatal, a través de la Secretaría de Finanzas estará facultado 
 
 El Ejecutivo Estatal, a través de la Secretaría de Finanzas deberá crear y mantener un registro en donde se inscriban las afectaciones realizadas.
 
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+El Gobierno del Estado no podrá revocar o revertir las afectaciones a que se refiere este artículo, sino hasta que se hayan liquidado las obligaciones y se haya obtenido el previo consentimiento de los acreedores respectivos. El Gobierno del Estado podrá obligarse subsidiaria o solidariamente respecto de las obligaciones que asuman los Contratantes o terceros prestadores de bienes o servicios al amparo de un Contrato, exclusivamente hasta donde alcancen los ingresos que se afecten en fuente de pago o garantía de las obligaciones de que se trate.
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 19.
 
-Una vez que se haya emitido la aprobación en los términos de esta Ley, la Entidad Pública o Dependencia podrá licitar o adjudicar el Contrato conforme a esta Ley.
+Una vez que se haya emitido la aprobación en los términos de esta Ley, la Entidad o Dependencia podrá iniciar el proceso de adjudicación conforme a esta Ley.
 
-En caso de que durante el proceso de Licitación surja la necesidad de cambiar sustancialmente los términos aprobados por el Congreso o el Ayuntamiento, la Entidad Pública o Dependencia correspondiente deberá recabar la autorización u opinión de parte de la Secretaría o la Contraloría Municipal y la autorización del Congreso o del Ayuntamiento, según corresponda. Para estos efectos, el Comité de Proyectos determinará si las modificaciones requeridas conllevan un cambio sustancial a los términos aprobados por el Congreso o el Ayuntamiento.
+En caso de que durante el proceso de adjudicación surja la necesidad de cambiar sustancialmente los términos aprobados por la Secretaría o el Ayuntamiento, la Convocante deberá recabar la autorización u opinión de éstas, como corresponda. Para estos efectos, el Comité de Proyectos determinará si las modificaciones requeridas conllevan un cambio sustancial a los términos aprobados.
 
 ### CAPÍTULO IV. DE LAS PROPUESTAS NO SOLICITADAS
 
@@ -705,13 +713,27 @@ XIII.- Los demás aspectos y requisitos previstos en esta Ley.
 
 Los Contratos que se celebren en contravención a lo dispuesto en este artículo, serán nulos de pleno derecho.
 
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+ARTÍCULO 52 BIS.- Los Contratos podrán contemplar la adquisición por parte del Inversionista Proveedor de trabajos y obras ejecutadas con anterioridad por la Contratante o incluso por terceros, a fin de que sean incorporados como parte del proyecto objeto de dichos Contratos, en el entendido de que tratándose de la enajenación de trabajos y obras ejecutadas por la Contratante, se deberán observar los requisitos que al efecto establece la Ley General de Bienes del Estado, relativas a la enajenación de bienes del dominio privado. Una vez que los trabajos y obras ejecutados con anterioridad, sean incorporados al proyecto objeto del Contrato de que se trate, deberán ser reconocidos dentro de la contraprestación pagadera por el Contratante al Inversionista Proveedor. Asimismo, en dichos Contratos se podrá pactar de manera expresa lo siguiente:
+
+a) El reembolso del valor de los inmuebles, bienes y derechos aportados por Dependencias o Entidades, y que se utilicen en el Proyecto para Prestación de Servicios;
+
+b) El reembolso de cantidades por otros rubros en la forma y términos que se establezcan en las bases o en el propio Contrato;
+
+c) El pago de derechos o contraprestaciones por la supervisión y vigilancia de la ejecución del Proyecto para Prestación de Servicios; y
+
+d) Cualquier otra que las partes estipulen en el contrato o que por ley les corresponda.
+
 ###### ARTÍCULO 53.
 
 Al celebrarse el Contrato, la Dependencia o Entidad Pública deberá cumplir con los términos de las aprobaciones que señalen esta Ley y las disposiciones que la rijan en materia presupuestaria, según sea el caso.
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 54.
 
-Si con base en lo dispuesto por esta Ley, durante la vigencia de un Contrato, la Dependencia o Entidad Pública considera necesario realizar modificaciones que impliquen, en su conjunto o individualmente, condiciones sustancialmente diferentes a los términos autorizados, las Dependencias o Entidades Públicas deberá (sic) solicitar al Congreso o al Ayuntamiento, según corresponda, la autorización de dichas modificaciones. Para este supuesto la Dependencia o Entidad Pública, lo someterá previamente a consideración de la Secretaría o de la Contraloría Municipal, según se trate.
+Si con base en lo dispuesto por esta Ley, durante la vigencia de un Contrato, la Contratante considera necesario realizar modificaciones que impliquen, en su conjunto o individualmente, condiciones sustancialmente diferentes a los términos autorizados, la Contratante deberá solicitar autorización para efectuar dichas modificaciones a la Secretaría o a la Contraloría Municipal, como corresponda. Para estos efectos, la Secretaría y la Contraloría Municipal, dentro del ámbito de sus atribuciones, estarán facultadas para determinar si las modificaciones conllevan un cambio sustancial a los términos autorizados.
 
 ###### ARTÍCULO 55.
 
@@ -747,9 +769,11 @@ Las Contratantes no deberán realizar pago alguno al Inversionista Proveedor ant
 
 Los derechos y obligaciones que se deriven de los Contratos no podrán cederse en forma parcial ni total a favor de cualquier otra persona, salvo cuando se cuente con la previa autorización de la Secretaría o del Ayuntamiento y se trate exclusivamente de la cesión de derechos de cobro a favor de los acreedores del Inversionista Proveedor que otorguen financiamiento para la ejecución del Proyecto.
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 61.
 
-Cualquier modificación a un Contrato de un Proyecto para Prestación de Servicios que implique modificar la Contraprestación o el plazo original en un porcentaje mayor a veinte por ciento, requerirá de la previa autorización de la Secretaría, y en caso de que la modificación implique exceder las erogaciones plurianuales autorizadas en los términos del artículo 15 de esta Ley, se requerirá de la previa aprobación del Congreso del Estado.
+Cualquier modificación a un Contrato que implique modificar la Contraprestación o el plazo original en un porcentaje mayor a veinte por ciento, requerirá de la previa autorización de la Secretaría o de la Contraloría Municipal, como corresponda.
 
 ###### ARTÍCULO 62.
 
@@ -1032,3 +1056,9 @@ P.O. 31 DE AGOSTO DE 2012.
 El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
 
 ARTÍCULOS (SIC) SEGUNDO.- En los procedimientos que se encuentren en trámite, se observará lo dispuesto en el presente Decreto.
+
+P.O. 19 DE SEPTIEMBRE DE 2012.
+
+PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
