@@ -4,7 +4,7 @@ identifier: "PUE-ley-general-de-bienes-del-estado-7707"
 country: "mx"
 rank: "ley_general"
 publication_date: "1973-12-25"
-last_updated: "2012-08-06"
+last_updated: "2012-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7707&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY GENERAL DE BIENES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el martes 25 de diciembre de 1973.
 
@@ -332,6 +332,10 @@ La enajenación de los bienes inmuebles del Estado sólo podrá hacerse en los c
 ###### ARTICULO 35.
 
 Las enajenaciones de dichos bienes se harán en la forma ordinaria con sujeción a las reglas de derecho común en lo que respecta a condiciones esenciales y seguridades; pero con la clara obligación por parte del Gobierno de salvaguardar en cada caso concreto, los intereses generales, dándoles siempre a las enajenaciones un sentido práctico en beneficio de la colectividad, previo avalúo que de los mismos haga el Instituto Registral y Catastral.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+Si una vez licitados por segunda ocasión los bienes inmuebles propiedad del Gobierno del Estado, éstos no se enajenaran, se podrán adjudicar, pudiendo reducir como máximo hasta un treinta por ciento del valor previsto en el avalúo del Instituto Catastral y Registral.
 
 ###### ARTICULO 36.
 
@@ -790,3 +794,9 @@ El presente Decreto entrará en vigor al día hábil siguiente de su publicació
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE SEPTIEMBRE DE 2012.
+
+PRIMERO.- Esta reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
