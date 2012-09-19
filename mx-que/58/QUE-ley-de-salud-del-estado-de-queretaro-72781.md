@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-salud-del-estado-de-queretaro-72781"
 country: "mx"
 rank: "ley"
 publication_date: "2010-01-30"
-last_updated: "2012-06-22"
+last_updated: "2012-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE SALUD DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 30 de enero de 2010.
 
@@ -87,13 +87,77 @@ VIII. SESEQ: los Servicios de Salud del Estado de Querétaro;
 
 IX. Sistema de Salud del Estado de Querétaro: al conjunto de unidades administrativas, órganos desconcentrados y descentralizados del Poder Ejecutivo del Estado y las personas físicas o morales de los sectores social y privado que presten servicios de salud, así como a los mecanismos de coordinación de acciones que se suscriban con dependencias o entidades de la administración pública federal;
 
-X. Usuario del servicio de salud: toda persona que requiera y obtenga los servicios de salud que presten los sectores públicos, social y privado, en las condiciones y conforme a las bases que para cada modalidad se establezcan en esta Ley y demás disposiciones aplicables; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XI. Atención médica prehospitalaria: aquella que brinda el sector público, privado y social, a través del técnico en urgencias médicas, al identificar, evaluar e intervenir en situaciones de emergencia o urgencia médica para salvaguardar la vida de los usuarios y prevenirles lesiones subsecuentes, en el propio sitio donde ocurre el incidente, así como durante su atención y traslado en unidades móviles tipo ambulancia, hasta el servicio hospitalario que le prestará la atención médica definitiva, con base en el conocimiento, habilidades, destrezas y aptitudes adquiridas, empleando para ello el equipo y la tecnología vigente, respetando la dignidad, costumbres y creencias del paciente.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
 
-> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+X. Usuario del servicio de salud: toda persona que requiera y obtenga los servicios de salud que presten los sectores públicos, social y privado, en las condiciones y conforme a las bases que para cada modalidad se establezcan en esta Ley y demás disposiciones aplicables;
 
-XII. Espacio 100% libre de humo de tabaco: Aquella área física cerrada con acceso al público o todo lugar de trabajo interior o de transporte público, en los que, por razones de orden público e interés social, queda prohibido fumar o tener encendido cualquier producto de tabaco.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+XI. Atención médica prehospitalaria: aquella que brinda el sector público, privado y social, a través del personal técnico en urgencias médicas, al identificar, evaluar e intervenir en situaciones de emergencia o urgencia médica para salvaguardar la vida de los usuarios y prevenirles lesiones subsecuentes, en el propio sitio donde ocurre el incidente, así como durante su atención y traslado en unidades móviles tipo ambulancia, hasta el servicio hospitalario que le prestará la atención médica definitiva, con base en el conocimiento, habilidades, destrezas y aptitudes adquiridas, empleando para ello el equipo y la tecnología vigente, respetando la dignidad, costumbres y creencias del paciente;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+XII. Espacio 100% libre de humo de tabaco: aquella área física cerrada con acceso al público o todo lugar de trabajo interior o de transporte público, en los que, por razones de orden público e interés social, queda prohibido fumar o tener encendido cualquier producto de tabaco;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+XIII. Farmacodependiente: toda persona que presenta algún signo o síntoma de dependencia a estupefacientes o psicotrópicos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+XIV. Consumidor de narcóticos: toda persona que consume o utilice estupefacientes o psicotrópicos y que no presente signos ni síntomas de dependencia;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+XV. Farmacodependiente en recuperación: toda persona que está en tratamiento para dejar de utilizar narcóticos y está en proceso de separación de la farmacodependencia;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+XVI. Atención médica: el conjunto de servicios que se proporcionan al individuo, con el fin de proteger, promover y restaurar su salud;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+XVII. Detección temprana de farmacodependencia: estrategia de prevención secundaria que tiene como propósito identificar en una fase inicial el consumo de narcóticos, a fin de aplicar medidas terapéuticas de carácter médico, psicológico y social lo más anticipadamente posible;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+XVIII. Prevención de fármacodependencia: el conjunto de acciones dirigidas a evitar o reducir el consumo de narcóticos, a disminuir situaciones de riesgo y limitar los daños asociados al consumo de dichas sustancias;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+XIX. Tratamiento contra la fármacodependencia: el conjunto de acciones que tienen por objeto conseguir la abstinencia o, en su caso, la reducción del consumo de narcóticos, reducir los riesgos y daños que implican el uso y abuso de dichas sustancias, abatir los padecimientos asociados al consumo e incrementar el grado de bienestar físico, mental y social, tanto del que usa, abusa o depende de dichas sustancias, como de su familia;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+XX. Investigación en materia de farmacodependencia: tiene por objeto determinar las características y tendencias del problema, así como su magnitud e impacto en lo individual, familiar y colectivo; construyendo las bases científicas para la construcción de políticas públicas y los trámites adecuados para los diversos tipos y niveles de adicción, respetando los derechos humanos y su integridad; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+XXI. Suspensión de la farmacodependencia: proceso mediante el cual el farmacodependiente participa en la superación de su dependencia, con el apoyo del entorno comunitario en la identificación y solución de problemas comunes que la provocaron.
 
 ###### Artículo 3.
 
@@ -143,9 +207,29 @@ XIX. El desarrollo de programas contra el alcoholismo y el tabaquismo;
 
 XX. El control sanitario de la asignación de órganos, tejidos y células;
 
-XXI. Coadyuvar en la consolidación y funcionamiento del Sistema Nacional de Salud, así como planear, organizar y desarrollar el Sistema Estatal de Salud; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XXII. Las demás que establezca esta Ley, la Ley General de Salud y demás disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+XXI. Coadyuvar en la consolidación y funcionamiento del Sistema Nacional de Salud, así como planear, organizar y desarrollar el Sistema Estatal de Salud;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+XXII. La prevención del consumo de narcóticos, atención a las adicciones y colaborar con las autoridades de seguridad pública, procuración e impartición de justicia, así como las de ejecución de sanciones, en los términos del artículo 474 de la Ley General de Salud;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+XXIII. La participación que corresponda en la ejecución del programa nacional para la prevención y tratamiento de la fármacodependencia, en los términos del mismo, conforme a la distribución de competencias que derive de lo establecido en la Ley General de Salud y demás legislación aplicable; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+XXIV. Las demás que establezca esta Ley, la Ley General de Salud y demás disposiciones legales aplicables.
 
 B. En materia de salubridad local, el control sanitario de:
 
@@ -419,7 +503,19 @@ d) Operar los servicios de salubridad general a que se refiere la presente Ley.
 
 e) Promover, fomentar y apoyar acciones en materia de salubridad y los convenios que al efecto se celebren.
 
-f) Vigilar y hacer cumplir, en la esfera de su competencia, la Ley General de Salud, la presente Ley y demás disposiciones legales aplicables;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+f) Prevenir el consumo de narcóticos, atención a las adicciones y persecución de los delitos contra la salud, en los términos del artículo 474 de la Ley General de Salud, conforme al programa nacional para la prevención y tratamiento de la farmacodependencia, coordinándose para su ejecución con las dependencias y entidades del sector salud. Esta participación será obligatoria en todos los establecimientos del sector público, privado y social que realicen en el Estado actividades preventivas, de tratamiento y control de las adicciones y la farmacodependencia.
+
+Para todo lo relativo a la ejecución del programa nacional para la prevención y tratamiento de la farmacodependencia, en el ámbito de la competencia estatal, se estará a lo dispuesto por los artículos 192, 192 bis, 192 Ter, 192 Quáter, 192 Quintus y 192 Sextus de la Ley General de Salud.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+g) Vigilar y hacer cumplir, en la esfera de su competencia, la Ley General de Salud, la presente Ley y demás disposiciones legales aplicables;
 
 II. En materia de salubridad local:
 
@@ -455,17 +551,47 @@ VIII. Impulsar la descentralización de los servicios de salud y de vigilancia s
 
 IX. Determinar la periodicidad y características de la información que deberán proporcionar las dependencias y entidades de salud del Estado y de aquellas cuyas acciones repercutan en la salud de la población, con sujeción a las disposiciones legales aplicables;
 
-X. Coordinar el proceso de programación de las actividades de salud en el Estado y vigilancia sanitaria; y (sic)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
 
-XI. Implementar programas en materia de nutrición, tendientes a disminuir los índices de malnutrición en la población y en particular a los menores de edad y adolescentes en el Estado de Querétaro; y (sic)
+X. Coordinar el proceso de programación de las actividades de salud en el Estado y vigilancia sanitaria;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+XI. Implementar programas en materia de nutrición, tendientes a disminuir los índices de malnutrición en la población y en particular a los menores de edad y adolescentes en el Estado de Querétaro;
 
 > <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2012)</small>
 
 XII. Organizar, operar, supervisar y evaluar, en coordinación con la Secretaría de Salud Federal, en el ámbito de su competencia y de conformidad con las disposiciones legales aplicables, el desarrollo de la investigación en las instituciones de salud, de educación superior y centros de investigación, para la prevención y tratamiento de los problemas de salud;
 
-XIII. Las demás facultades que se requieran para el cumplimiento de los objetivos del Sistema de Salud del Estado de Querétaro y las que determinen las disposiciones generales aplicables.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+XIII. La creación y funcionamiento de centros especializados en la prevención, atención, tratamiento, rehabilitación y reinserción social de farmacodependientes; así como fomentar el establecimiento y operación de centros dedicados a estas actividades, con el fin de que quienes requieran de asistencia, puedan, conforme a sus características, necesidades y posibilidades, acceder a los servicios;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+XIV. Elaborar y tener a su cargo el Registro Estatal de los Centros de Atención a Farmacodependientes, que contendrá el padrón de instituciones y organismos de carácter público, social o privado, que operen en el Estado y realicen o tengan por objeto realizar las actividades a que se refiere la fracción anterior;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+XV. Cuando se reciba reporte del no ejercicio de la acción penal por parte del Ministerio Público, en términos del artículo 478 de la Ley General de Salud, citar al farmacodependiente o consumidor, a efecto de proporcionarle orientación y conminarlo a tomar parte en los programas contra la fármacodependencia o en aquellos preventivos de la misma.
+
+Al tercer reporte del Ministerio Público el tratamiento del farmacodependiente será obligatorio; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+XVI. Las demás facultades que se requieran para el cumplimiento de los objetivos del Sistema de Salud en el Estado de Querétaro y las demás disposiciones generales aplicables.
 
 ###### Artículo 20.
 
@@ -1423,19 +1549,49 @@ III. La vigilancia e intercambio de información, con los diferentes organismos 
 
 El titular del Poder Ejecutivo del Estado coadyuvará con la Secretaría de Salud federal, en la ejecución del Programa Nacional contra la fármaco dependencia.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 131.
 
-El titular del Poder Ejecutivo del Estado y los municipios, para evitar y prevenir el consumo de sustancias tóxicas y psicotrópicos, se ajustará a lo siguiente:
+Corresponde al titular del Poder Ejecutivo del Estado:
 
-I. Determinarán y ejercerán medios de control en el expendio de sustancias tóxicas, para prevenir su consumo por parte de menores de edad e incapaces;
+I. Promover y llevar a cabo campañas permanentes de información y orientación al público, para la prevención de daños a la salud provocados por el consumo de estupefacientes y psicotrópicos;
 
-II. Establecerán sistemas de vigilancia en los establecimientos destinados al expendio y uso de dichas substancias, para evitar el empleo indebido de las mismas;
+II. Proporcionar información y brindar la atención médica y los tratamientos que se requieran a las personas que consuman estupefacientes y psicotrópicos;
 
-III. Brindarán la atención médica que se requiera a las personas que usen o hayan utilizado sustancias tóxicas; y
+III. Coordinar y promover con los sectores público, privado y social las acciones para prevenir la fármacodependencia;
 
-IV. Promoverán y llevarán a cabo campañas permanentes de información y orientación al público, para la prevención de daños a la salud provocados por el uso de sustancias tóxicas;
+IV. Crear centros especializados en tratamiento, atención y rehabilitación, con base en sistemas modernos de tratamiento y rehabilitación, fundamentados en el respeto a la integridad y a la libre decisión del farmacodependiente.
 
-A los establecimientos que vendan o utilicen substancias inhalantes con efectos psicotrópicos que no se ajusten al control que dispongan las autoridades competentes, así como a los responsables de los mismos, se les aplicarán las sanciones administrativas que correspondan, en los términos de esta Ley.
+La ubicación de los centros se basará en estudios rigurosos del impacto de las adicciones en cada región del Estado;
+
+V. Crear y mantener actualizado un padrón de instituciones y organismos públicos y privados que realicen actividades de prevención, tratamiento, atención y reinserción social en materia de fármacodependencia;
+
+VI. Crear indicadores y bases de datos que permitan identificar zonas, sectores y grupos de alto riesgo en materia de farmacodependencia;
+
+VII. Supervisar a las instituciones y organismos públicos y privados que realicen actividades de prevención, tratamiento, atención y reinserción social en materia de farmacodependencia, apegándose al respeto de la integridad y libre decisión del farmacodependiente;
+
+VIII. Establecer indicadores públicos sobre los índices de farmacodependencia en el Estado; y
+
+IX. Fomentar la participación comunitaria y coordinación con las autoridades Estatales y las instituciones públicas o privadas para la planeación, programación, ejecución y evaluación de los programas y acciones del proceso de superación de la farmacodependencia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 131 Bis.
+
+Las instituciones y organismos públicos y privados que realicen actividades de prevención, tratamiento, atención y reinserción social en materia de farmacodependencia, deberán remitir a la Secretaría, de forma bimestral:
+
+a) Los datos de las personas que ingresen a dichos centros con la finalidad de recibir tratamiento, señalando sus datos generales y motivo de su ingreso.
+
+b) Tipo de tratamiento o rehabilitación.
+
+c) El número de fármacodependientes que concluyeron o no exitosamente sus tratamientos.
+
+Esta información se utilizará para la prevención de la fármacodependencia, exclusivamente con fines estadísticos y sin señalar identidades.
 
 ### Capítulo Primero. Disposiciones generales
 
@@ -1966,3 +2122,9 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
 
 Artículo Tercero. Envíese la presente Ley al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 19 DE SEPTIEMBRE DE 2012.
+
+Artículo Primero. La presente Ley entrará en vigor ciento veinte días naturales siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga"; plazo en el que los Poderes Ejecutivo y Judicial del Estado realizarán las acciones necesarias a fin que, al inicio de su vigencia, estén en aptitud de cumplir las atribuciones contenidas en la misma.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
