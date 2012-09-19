@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-ejecucion-de-penas-y-medidas-de-seguridad-del-estado-707
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-23"
-last_updated: "2011-06-17"
+last_updated: "2012-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70760&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # LEY DE EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD DEL ESTADO DE QUERETARO
 
-LEY DE EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD DEL ESTADO DE QUERETARO
+LEY DE EJECUCIÓN DE PENAS Y MEDIDAS DE SEGURIDAD DEL ESTADO DE QUERÉTARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 23 de octubre de 2009.
 
@@ -219,13 +219,29 @@ XX. Practicar, por conducto del Consejo Técnico, los estudios criminológicos o
 
 XXI. Certificar, por conducto del Director, las copias de los documentos que obren en sus archivos o los reportes de la información que exista en sus registros;
 
-> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXII. Emitir la constancia de pena compurgándose, indispensable para que el órgano jurisdiccional pueda pronunciarse respecto del otorgamiento de beneficios de libertad anticipada; y
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
 
-> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2011)</small>
+XXII. Emitir la constancia de pena compurgándose, indispensable para que el órgano jurisdiccional pueda pronunciarse respecto del otorgamiento de beneficios de libertad anticipada;
 
-XXIII. Vigilar el correcto funcionamiento del Patronato de Reincorporación Social.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+XXIII. Vigilar el correcto funcionamiento del Patronato de Reincorporación Social;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+XXIV. Prestar servicios de rehabilitación al farmacodependiente, en todos los centros que integran el Sistema Penitenciario del Estado, conforme a lo dispuesto por la Ley General de Salud, la Ley de Salud del Estado de Querétaro, la presente Ley y demás legislación aplicable. Para el cumplimiento de esta atribución, podrá coordinarse con dependencias y entidades del sector salud y con los establecimientos de los sectores público, privado y social que realicen actividades preventivas, de tratamiento y control, de las adicciones y fármacodependencia; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+XXV. Las demás que le confieran otras disposiciones legales y reglamentarias, así como las que expresamente le delegue el titular de la Secretaría de Gobierno del Poder Ejecutivo del Estado de Querétaro.
 
 > <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
 
@@ -529,7 +545,7 @@ El tiempo que el imputado se encuentre en prisión preventiva o en ejecución de
 
 #### Sección Segunda. De las instituciones que integran el Sistema Penitenciario
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 18.
 
@@ -611,7 +627,7 @@ III. Los indiciados, reclamados y procesados, quienes no obstante tendrán derec
 
 Quienes sufran alguna discapacidad o incapacidad para el trabajo tendrán una ocupación adecuada a su situación, de acuerdo con las recomendaciones técnicas del caso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 29.
 
@@ -693,7 +709,7 @@ II. Libertad preparatoria; y
 
 III. Remisión parcial de la pena.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 37.
 
@@ -771,9 +787,23 @@ IV. Que haya pagado el importe de daños y perjuicios a que se le condenó en la
 
 V. No haber sido condenado anteriormente por sentencia ejecutoriada por delito doloso;
 
-VI. No estar sujeto a otro proceso por delito doloso o tener la calidad de reclamado a la fecha en que ordinariamente tenga derecho a este beneficio; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VII. Que la pena impuesta no sea resultado de concurso real de delitos.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+VI. No estar sujeto a otro proceso por delito doloso o tener la calidad de reclamado a la fecha en que ordinariamente tenga derecho a este beneficio;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+VII. Que la pena impuesta no sea resultado de concurso real de delitos; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+VIII. En el caso de haber sido considerado farmacodependiente, que se someta al tratamiento correspondiente para su rehabilitación, bajo vigilancia de la autoridad ejecutora.
 
 ###### Artículo 40.
 
@@ -803,15 +833,29 @@ II. No estar sujeto a otro proceso con prisión preventiva, a la fecha en que te
 
 III. Haber acreditado niveles de instrucción durante el tiempo de reclusión;
 
-IV. Haber participado en el área laboral, educativa o cultural; y (sic)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
 
-V. Que haya pagado el importe de daños y perjuicios a que se le condenó en la sentencia, o que otorgue fianza suficiente, determinada por el juez, que garantice la no sustracción y el cumplimiento de sus obligaciones.
+IV. Haber participado en el área laboral, educativa o cultural;
 
-> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VI. No tener pena privativa de libertad pendiente de compurgar.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+V. Que haya pagado el importe de daños y perjuicios a que se le condenó en la sentencia, o que otorgue fianza suficiente, determinada por el juez, que garantice la no sustracción y el cumplimiento de sus obligaciones;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+VI. No tener pena privativa de libertad pendiente de compurgar; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+VII. En el caso de haber sido considerado farmacodependiente, que se someta al tratamiento médico correspondiente para su rehabilitación, bajo vigilancia de la autoridad ejecutora.
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
@@ -821,7 +865,7 @@ El sentenciado que haya obtenido el beneficio de libertad preparatoria, estará 
 
 #### Sección Novena. De la remisión parcial de la pena
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 43.
 
@@ -907,7 +951,7 @@ Los términos antes establecidos, a excepción del previsto en la fracción IV, 
 
 La petición de libertad anticipada de una sentencia diferente a la que se encuentre compurgando el sentenciado, será razón suficiente para desechar de plano, por notoriamente improcedente la misma. De igual forma, se desecharán de plano las nuevas peticiones de libertad anticipada, cuando no hayan transcurrido seis meses de haberle notificado al peticionario la determinación anterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 51.
 
@@ -921,7 +965,7 @@ III. (DEROGADA, P.O. 17 DE JUNIO DE 2011)
 
 IV. (DEROGADA, P.O. 17 DE JUNIO DE 2011)
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 17 DE JUNIO DE 2011)</small>
 
 Sección Decimosegunda
 
@@ -971,13 +1015,13 @@ La resolución es apelable en términos del artículo 49 y 51 fracción IV de es
 
 El sentenciado a quien se imponga tratamiento en libertad como pena sustitutiva, acudirá ante la Dirección dentro de los quince días siguientes, contados a partir de que cause ejecutoria su sentencia, a efecto de dar cumplimiento a las medidas laboral, educativa o terapéutica que sea conveniente aplicarle determinadas en sentencia y derivadas de estudio de personalidad, integrado por las valoraciones de psicología, pedagogía, trabajo social, medicina y criminológica.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 56.
 
 Una vez especificada la aplicación de una o más de las medidas a que se refiere el artículo anterior, la Dirección vigilará su seguimiento, informando al Juez únicamente las situaciones relevantes de su cumplimiento, así como el cumplimiento total y en su caso el incumplimiento registrado por el sentenciado.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 57.
 
@@ -1395,7 +1439,7 @@ Cuando la sentencia se ordene el decomiso de instrumentos, objetos materiales o 
 
 ### Capítulo Único. Del procedimiento
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 112.
 
@@ -1409,7 +1453,7 @@ III. Tomar las medidas adecuadas para el debido tratamiento del inimputable perm
 
 IV. Informar, si es el caso, sobre la desaparición de la causa que motivó la imposición de las medidas de seguridad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 113.
 
@@ -1439,7 +1483,7 @@ Cuando el Juez sea informado y compruebe que ha desaparecido la causa que gener�
 
 De igual forma, dará por concluida la medida de seguridad aún cuando no haya desaparecido la causa que la generó, cuando haya transcurrido el término señalado por el órgano jurisdiccional que la impuso.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 17 DE JUNIO DE 2011)</small>
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
@@ -1509,7 +1553,7 @@ VII. Crear una conciencia social sobre la importancia de emplear en actividades 
 
 Una vez que el imputado obtenga cualquier tipo de libertad, se le hará saber sobre la existencia de la Subdirección, para que acuda a él o proporcione sus datos de localización para los efectos a que se refieren las fracciones IV, V, VI y VII del artículo anterior, lo cual quedará debidamente registrado en el libro de liberados que deberá llevar la Dirección.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE JUNIO DE 2011)</small>
 
 ## Título Décimo. De los Adolescentes
 
@@ -1521,7 +1565,7 @@ Una vez que el imputado obtenga cualquier tipo de libertad, se le hará saber so
 
 El Procedimiento de ejecución de las medidas impuestas a adolescentes, se sujetará a las disposiciones de la Ley para la Impartición de Justicia para Adolescentes del Estado de Querétaro.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 126.
 
@@ -1689,7 +1733,7 @@ Secretario de Gobierno
 
 Rúbrica
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 17 DE JUNIO DE 2011.
 
@@ -1698,3 +1742,9 @@ Artículo Primero. Este Decreto entrará en vigor a partir del día siguiente de
 Artículo Segundo. Los procedimientos de modificación de penas y medidas de seguridad o de medidas para adolescentes iniciados con anterioridad a la entrada en vigor de la presente ley se sujetarán, hasta su conclusión definitiva, a las disposiciones procesales vigentes en su momento.
 
 Artículo Tercero. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 19 DE SEPTIEMBRE DE 2012.
+
+Artículo Primero. La presente Ley entrará en vigor ciento veinte días naturales siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga"; plazo en el que los Poderes Ejecutivo y Judicial del Estado realizarán las acciones necesarias a fin que, al inicio de su vigencia, estén en aptitud de cumplir las atribuciones contenidas en la misma.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
