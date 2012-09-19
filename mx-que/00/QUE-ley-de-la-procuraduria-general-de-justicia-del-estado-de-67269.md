@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-la-procuraduria-general-de-justicia-del-estado-de-67269"
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-20"
-last_updated: "2011-06-17"
+last_updated: "2012-09-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67269&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # LEY DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE QUERETARO
 
-LEY DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE QUERETARO
+LEY DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE QUERÉTARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 20 de febrero de 2009.
 
@@ -61,6 +61,12 @@ I. Perseguir los delitos del orden común que sean de la competencia de los trib
 
 II. Conocer, en auxilio del Ministerio Público de la Federación, de las denuncias o querellas que se le presenten con motivo de los delitos federales, conforme a la ley de la materia;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+En ejercicio de la competencia concurrente, conocer, tramitar y resolver en el ámbito de sus atribuciones, de los delitos contra la salud en su modalidad de narcomenudeo a que se refiere el Capítulo VII, del Título Décimo Octavo de la Ley General de Salud, conforme a la legislación aplicable en la materia;
+
 III. Defender los intereses del Estado y de la sociedad ante los tribunales e intervenir en los términos de ley, en la protección de incapaces y en los procedimientos del orden civil, así como proteger los intereses individuales y sociales en general, en los términos que determinen las leyes;
 
 IV. Velar por la legalidad en la esfera de su competencia, como uno de los principios rectores de la convivencia social, promoviendo la pronta, expedita y debida procuración e impartición de la justicia;
@@ -81,7 +87,11 @@ X. Propiciar la conciliación para llegar a arreglos entre las partes, derivados
 
 Corresponde al Ministerio Público Especializado en Justicia para Adolescentes:
 
-I. Investigar las conductas tipificadas como delito por las leyes del Estado, que sean atribuidas a personas menores de 18 años y que sean de la competencia de los tribunales del Estado de Querétaro;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+I. Investigar las conductas tipificadas como delito por las leyes del Estado y por la Ley General de Salud, que sean atribuidas a personas menores de 18 años y que sean de la competencia de los tribunales del Estado de Querétaro;
 
 II. Velar en todo momento por el respeto, integridad, dignidad y estricto cumplimiento de los derechos y garantías de los adolescentes sujetos a la ley de la materia, así como de los ofendidos por las conductas tipificadas como delitos, presuntamente realizados por aquellos;
 
@@ -101,7 +111,11 @@ IX. Realizar durante el procedimiento, todas las actuaciones necesarias para la 
 
 X. Formular alegatos, interponer recursos y expresar agravios, para el trámite regular y la correcta resolución del procedimiento;
 
-XI. Solicitar a la autoridad judicial competente, las medidas de orientación, protección y tratamiento que corresponda imponer al menor, por haberse demostrado su participación en la comisión de conductas tipificadas como delito y sancionadas por las leyes del Estado;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+XI. Solicitar a la autoridad judicial competente, las medidas de orientación, protección y tratamiento que corresponda imponer al menor, por haberse demostrado su participación en la comisión de conductas tipificadas como delito y sancionadas por las leyes del Estado o por la Ley General de Salud;
 
 XII. Promover la reparación del daño a favor del ofendido o víctima del delito, desde la integración de la investigación y durante el procedimiento donde por ley tenga intervención, cuando así proceda y realizar en el ámbito de sus atribuciones, todas las acciones legales tendientes a obtenerla; y (sic)
 
@@ -143,13 +157,21 @@ Apartado A. En la preparación del ejercicio de la acción penal:
 
 I. Recibir denuncias y querellas sobre conductas o hechos que puedan constituir delito;
 
-II. Investigar los delitos del orden común con el auxilio de la Dirección de Investigación del Delito y cuando lo considere conveniente, con la colaboración de las instituciones públicas de seguridad municipal, estatal o federal;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+II. Investigar los delitos de su competencia con el auxilio de la Dirección de Investigación del Delito y, cuando lo considere conveniente, con la colaboración de las instituciones públicas de seguridad municipal, estatal o federal;
 
 III. Practicar las diligencias necesarias y allegarse los medios de prueba que considere pertinentes para la comprobación del cuerpo del delito o al menos la probable responsabilidad de quienes en ellos hubiesen participado, para fundamentar, en su caso, el ejercicio de la acción penal;
 
 IV. En casos urgentes, ordenar bajo su responsabilidad y por escrito, la detención de una persona, fundando y expresando los indicios que acrediten:
 
-a) Que el indiciado haya intervenido en la comisión de alguno de los delitos señalados como graves por el Código de Procedimientos Penales del Estado de Querétaro.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+a) Que el indiciado haya intervenido en la comisión de alguno de los delitos señalados como graves por el Código de Procedimientos Penales para el Estado de Querétaro o por el Código Federal de Procedimientos Penales, cuando se trate de los delitos previstos en la Ley General de Salud, competencia del fuero común.
 
 b) Que exista riesgo fundado de que el indiciado pueda sustraerse a la acción de la justicia.
 
@@ -177,17 +199,55 @@ IX. Proporcionar seguridad y auxilio a las víctimas y a testigos del delito que
 
 Desde el primer momento recabará datos de identificación y localización de testigos presenciales si los hubiere y recibirá su testimonio tan pronto como sea posible;
 
-X. Cuando aparezca que el o los indiciados en contra de quien o quienes se inicien las diligencias de preparación del ejercicio de la acción penal hayan sido condenados con anterioridad por algún delito considerado como grave por la ley o cuando considere que por su conducta precedente o por las circunstancias y características del delito presuntamente cometido, constituya un riesgo para el ofendido o para la sociedad, de tal forma que se esté en la hipótesis prevista en la última parte de la fracción I del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos, recabará todos los medios de prueba que acrediten estas circunstancias y en el escrito de consignación formulará petición al órgano jurisdiccional, oponiéndose a que se le conceda el beneficio de libertad provisional bajo caución cuando ésta proceda en situaciones normales, sin perjuicio de que los medios de prueba para el fin mencionado se recaben y aporten después del ejercicio de la acción penal; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+X. Cuando aparezca que el o los indiciados en contra de quien o quienes se inicien las diligencias de preparación del ejercicio de la acción penal hayan sido condenados con anterioridad por algún delito considerado como grave por la ley o cuando considere que por su conducta precedente o por las circunstancias y características del delito presuntamente cometido, constituya un riesgo para el ofendido o para la sociedad, de tal forma que se esté en la hipótesis prevista en la última parte de la fracción I del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos, recabará todos los medios de prueba que acrediten estas circunstancias y en el escrito de consignación formulará petición al órgano jurisdiccional, oponiéndose a que se le conceda el beneficio de libertad provisional bajo caución cuando ésta proceda en situaciones normales, sin perjuicio de que los medios de prueba para el fin mencionado se recaben y aporten después del ejercicio de la acción penal;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
 
 XI. En las diligencias de preparación del ejercicio de la acción penal que se hayan iniciado y se sigan por delitos perseguibles por querella, hasta antes de ejercitarse, en su caso, la acción penal, el Agente del Ministerio Público deberá de poner a consideración del ofendido la posibilidad de llevar a cabo una conciliación con el imputado y si lo acepta, deberá asentarlo y proceder a dictar las providencias necesarias para propiciar un acuerdo conciliatorio. De presentarse ambas partes para el posible acuerdo, se les exhortará para que procuren llegar al mismo, explicándoles sobre las consecuencias legales respecto de la averiguación en que se actúa, se les escuchará y se procederá a levantar el acta correspondiente. No será impedimento para ejercitar acción penal el que se encuentre pendiente la conciliación.
 
 La conciliación también podrá intentarse y realizarse, cuando aún no se haya presentado la querella.
 
-El expediente en que consten las diligencias de preparación del ejercicio de la acción penal se llevará por triplicado.
+El expediente en que consten las diligencias de preparación del ejercicio de la acción penal se llevará por triplicado; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+XII. En materia de delitos contra la salud, en su modalidad de narcomenudeo, además de lo previsto en las fracciones anteriores y en los términos de la Ley General de Salud:
+
+a) Conocer de los delitos previstos en la Ley General de Salud.
+
+b) Informar oportunamente al Ministerio Público de la Federación, del inicio de las averiguaciones previas por delitos contra la salud, así como rendir los informes que dicha autoridad le solicite en relación a las mismas.
+
+c) Remitir al Ministerio Público de la Federación las actuaciones realizadas, cuando así corresponda.
+
+d) Remitir al Ministerio Público de la Federación, sin demora, a las personas detenidas, cuando así corresponda.
+
+e) Informar a la autoridad sanitaria la determinación de no ejercicio de la acción penal, para los efectos correspondientes.
+
+f) Informar al consumidor de los narcóticos previstos en la Ley General de Salud, la ubicación de las instituciones o centros para el tratamiento médico o de orientación para la prevención de la fármacodependencia.
+
+g) Observar las disposiciones del Código Federal de Procedimientos Penales, únicamente respecto del destino y destrucción de los narcóticos, y la clasificación de los delitos considerados como graves para fines del otorgamiento de la libertad provisional bajo caución.
+
+h) Dar aviso a la autoridad sanitaria, cuando identifique que una persona relacionada con un procedimiento es farmacodependiente, para los efectos del tratamiento correspondiente.
+
+i) Informar a la autoridad administrativa competente, cuando tenga conocimiento de que algún establecimiento sea o haya sido utilizado para la comisión de algún delito contra la salud.
+
+j) Las demás que prevean otras disposiciones legales.
 
 Apartado B. En relación al ejercicio de la acción penal:
 
-I. Ejercitar acción penal ante los tribunales competentes por delitos del orden común, poniendo a su disposición los detenidos si los hubiere, después de haber calificado de legal su detención o solicitar las órdenes de aprehensión, presentación o comparecencia de los imputados, una vez que se reúnan los requisitos del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos y, si es necesario, solicitar órdenes de cateo conforme a dicho precepto.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+I. Ejercitar acción penal ante los tribunales competentes por los delitos que persiga, poniendo a su disposición los detenidos si los hubiere, después de haber calificado de legal su detención o solicitar las órdenes de aprehensión, presentación o comparecencia de los imputados, una vez que se reúnan los requisitos del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos y, si es necesario, solicitar órdenes de cateo conforme a dicho precepto.
 
 Si una vez ejercitada la acción penal, se apreciare que dejó de hacerse en contra de una o más personas cuya probable responsabilidad aparezca acreditada en las mismas diligencias de preparación del ejercicio de la acción penal o se omitió hacerlo por uno o más delitos cuya corporeidad aparezca acreditada en la misma averiguación, el Agente del Ministerio Público de procesos o investigador deberá ejercitar, en su caso, nuevamente la acción penal ante el mismo juez que conozca de la causa formada con motivo de la consignación original, en contra de los imputados y por los delitos omitidos en ésta.
 
@@ -487,21 +547,35 @@ XXII. Celebrar convenios y acuerdos sobre apoyo, información y asesoría recíp
 
 XXIII. Solicitar del órgano jurisdiccional federal, la intervención de comunicaciones privadas cuando sea necesario para la investigación de delitos, sujetándose a lo dispuesto por las normas aplicables;
 
-XXIV. Autorizar la infiltración de elementos investigadores en las asociaciones delictivas, velando siempre que no se cause daño a la vida o salud de las personas y se emita acuerdo fundado y motivado que justifique la necesidad de la medida en las diligencias de preparación del ejercicio de la acción penal, para investigar las estructuras y formas de operar de dichos grupos. Esta facultad y la intervención de comunicaciones privadas, no podrán ser delegadas por los investigadores designados, salvo autorización expresa del Procurador;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+XXIV. (DEROGADA, P.O. 19 DE SEPTIEMBRE DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 19 DE SEPTIEMBRE DE 2012)</small>
 
 XXV. Diseñar medidas de política criminológica, participando o elaborando programas y campañas permanentes con el propósito de prevenir conductas ilícitas, vigilando su correcta aplicación y evaluando periódicamente sus resultados en coordinación, cuando se considere necesario, con otras dependencias del sector público o privado, propiciando el acceso de la comunidad a la elaboración de estas medidas, promoviendo así la participación y la concertación social;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
 
-XXVI. Dar contestación a las solicitudes de colaboración, al titular de la Procuraduría de la Defensa del Menor y la Familia del Estado, que tengan por objeto realizar las investigaciones para determinar el domicilio de quien ejerza la patria potestad de un menor puesto a disposición de aquélla o acogido por una institución de asistencia pública o privada y la filiación, tratándose de menores expósitos, así como ordenar su realización a la Dirección de Investigación del Delito, en caso de considerarlo procedente; y
+XXVI. Dar contestación a las solicitudes de colaboración, al titular de la Procuraduría de la Defensa del Menor y la Familia del Estado, que tengan por objeto realizar las investigaciones para determinar el domicilio de quien ejerza la patria potestad de un menor puesto a disposición de aquélla o acogido por una institución de asistencia pública o privada y la filiación, tratándose de menores expósitos, así como ordenar su realización a la Dirección de Investigación del Delito, en caso de considerarlo procedente;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
 
-XXVII. Las demás facultades y obligaciones que otras leyes y reglamentos le confieran.
+XXVII. Solicitar a la autoridad correspondiente, la autorización para que agentes de la policía bajo su conducción y mando compren, adquieran o reciban la transmisión de material de algún narcótico para lograr la detención del probable responsable del comercio o suministro de narcóticos o de la posesión de los mismos con dichos fines y el aseguramiento correspondiente.
+
+La ejecución de la orden deberá sujetarse a los lineamientos, términos, limitaciones, modalidades y condiciones que se autoricen; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+
+XXVIII. Las demás facultades y obligaciones que otras leyes y reglamentos le confieran.
 
 ### Capítulo Segundo. De los Subprocuradores
 
@@ -1371,7 +1445,7 @@ Secretario de Gobierno
 
 Rúbrica
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 25 DE FEBRERO DE 2011.
 
@@ -1406,3 +1480,9 @@ Artículo Primero. Este Decreto entrará en vigor a partir del día siguiente de
 Artículo Segundo. Los procedimientos de modificación de penas y medidas de seguridad o de medidas para adolescentes iniciados con anterioridad a la entrada en vigor de la presente ley se sujetarán, hasta su conclusión definitiva, a las disposiciones procesales vigentes en su momento.
 
 Artículo Tercero. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 19 DE SEPTIEMBRE DE 2012.
+
+Artículo Primero. La presente Ley entrará en vigor ciento veinte días naturales siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga"; plazo en el que los Poderes Ejecutivo y Judicial del Estado realizarán las acciones necesarias a fin que, al inicio de su vigencia, estén en aptitud de cumplir las atribuciones contenidas en la misma.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
