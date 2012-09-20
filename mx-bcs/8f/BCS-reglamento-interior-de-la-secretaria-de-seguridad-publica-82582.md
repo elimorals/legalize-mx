@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interior-de-la-secretaria-de-seguridad-publica-82582
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-07-20"
-last_updated: "2011-07-20"
+last_updated: "2012-09-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82582&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCS"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA, DEL ESTADO DE BAJA CALIFORNIA SUR
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE SEPTIEMBRE DE 2012.
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el miércoles 20 de julio de 2011.
 
@@ -75,23 +75,43 @@ Al frente de la Secretaría de Seguridad Pública, estará un Secretario, quien 
 
 I. Dirección General de Ejecución, Prevención y Reinserción Social;
 
-II. Dirección de Tecnología en Seguridad Pública;
+> <small>(REFORMADA, B.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+II. Dirección de Tecnología de Seguridad Pública;
 
 III. Dirección de Ejecución y Seguimiento de Medidas de Tratamiento para Adolescentes;
 
-IV. Dirección Administrativa y Financiera;
+> <small>(REFORMADA, B.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
-V. Coordinación de Programas Federales;
+IV. Dirección de Prevención Social del Delito con Participación Ciudadana;
 
-VI. Coordinación de Control y Registro de Armas de Fuego y Municiones;
+> <small>(REFORMADA, B.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
-VII. Coordinación de Seguridad Privada;
+V. Dirección Administrativa y Financiera;
 
-VIII. Unidad Jurídica y de Procedimientos;
+> <small>(REFORMADA, B.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
-IX. Unidad de Asuntos Internos; y
+VI. Coordinación de Programas Federales;
 
-X. Unidad de Apoyo Técnico.
+> <small>(REFORMADA, B.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+VII. Coordinación de Control y Registro de Armas de Fuego y Municiones;
+
+> <small>(REFORMADA, B.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+VIII. Coordinación de Seguridad Privada;
+
+> <small>(REFORMADA, B.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+IX. Unidad Jurídica y de Procedimientos;
+
+> <small>(REFORMADA, B.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+X. Unidad de Asuntos Internos; y
+
+> <small>(ADICIONADA, B.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+XI. Unidad de Apoyo Técnico.
 
 Estarán bajo su coordinación sectorial, los siguientes órganos desconcentrados:
 
@@ -179,9 +199,15 @@ IX. Prevenir a través de la Policía Estatal Preventiva, la comisión de hechos
 
 X. Proporcionar a la población el auxilio de la Policía Estatal Preventiva, de los cuerpos de rescate y demás elementos que se dispongan, en los términos que se establezcan en los acuerdos respectivos;
 
-XI. Coadyuvar con las instituciones de seguridad pública, cuando estas requieran de su colaboración; y
+XI. Coadyuvar con las instituciones de seguridad pública, cuando estas requieran de su colaboración; y (sic)
 
-XII. Las demás que le señalen las disposiciones legales y administrativas vigentes y las que le asigne el Gobernador del Estado, conforme a sus atribuciones.
+> <small>(REFORMADA, B.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+XII. Realizar el Diagnóstico Estatal sobre la realidad social, económica y cultural de la violencia y la delincuencia, elaborar el Plan Anual de Trabajo y ejecutar los Programas en materia de Prevención Social del Delito con Participación Ciudadana; y
+
+> <small>(ADICIONADA, B.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+XIII. Las demás que le señalen las disposiciones legales y administrativas vigentes y las que le asigne el Gobernador del Estado, conforme a sus atribuciones.
 
 ### CAPÍTULO III. DE LAS FUNCIONES GENERICAS DE LAS UNIDADES ADMINISTRATIVAS
 
@@ -326,6 +352,26 @@ IX.- Las demás que le asigne el Secretario, en ejercicio de sus atribuciones.
 ###### ARTÍCULO 14.
 
 La Dirección de Tecnología de apoyo a la seguridad pública, para el buen desempeño de sus funciones contara (sic) se auxiliará del personal necesario de acuerdo a su presupuesto.
+
+> <small>(ADICIONADO, B.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+###### ARTÍCULO 14
+
+BIS.- Al frente de la Dirección de Prevención Social del Delito con Participación Ciudadana habrá un Titular, el cual tendrá las siguientes atribuciones y funciones:
+
+I. Elaborar y presentar para su autorización del Secretario, el plan anual de trabajo para la planeación, diseño y aplicación de las políticas públicas en materia de prevención social del delito con participación ciudadana;
+
+II. Propiciar la coordinación hacia el interior de la Secretaría de Seguridad Pública, así como con las dependencias, entidades y autoridades competentes de los tres niveles de gobierno en materia de prevención social del delito;
+
+III. Generar mecanismos que propicien y faciliten la participación ciudadana y comunitaria, de los organismos públicos y privados en materia de derechos humanos y de las instituciones públicas de educación para el diagnóstico y evaluación de las policitas (sic) públicas en materia de prevención social del delito;
+
+IV. Ser enlace de la Secretaría en la creación, instalación y operación de los Consejos Ciudadanos en materia de prevención social del delito;
+
+V. Verificar la correcta aplicación del recurso financiero tanto Federal como Estatal y administrar de manera correcta los recursos humanos y materiales asignados a la dirección; y
+
+VI. Las demás que le asigne el Secretario, en ejercicio de sus atribuciones.
+
+La Dirección de Prevención Social del Delito con Participación Ciudadana contará con el personal administrativo necesario para el desempeño de sus funciones y que le permita su presupuesto.
 
 ###### ARTÍCULO 15.
 
@@ -606,3 +652,11 @@ CARLOS MENDOZA DAVIS
 EL ENCARGADO DEL DESPACHO DE LA SECRETARÍA DE SEGURIDAD PÚBLICA
 
 JOSE IRINEO MARTÍNEZ ORDÁZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 20 DE SEPTIEMBRE DE 2012.
+
+PRIMERO.- La Secretaría de Finanzas y Oficialía Mayor de Gobierno, deberán hacer los trámites presupuestales y administrativos necesarios para el cumplimiento del presente Decreto.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
