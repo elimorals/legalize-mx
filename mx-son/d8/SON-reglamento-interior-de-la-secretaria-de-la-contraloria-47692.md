@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-de-la-secretaria-de-la-contraloria-47692"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-08"
-last_updated: "2010-09-27"
+last_updated: "2012-09-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47692&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA GENERAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE SEPTIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE SEPTIEMBRE DE 2012.
 
 Reglamento publicado en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 8 de diciembre de 2005.
 
@@ -43,31 +43,57 @@ A la Secretaría de la Contraloría General, como dependencia directa de la Admi
 
 El Titular de la Secretaría de la Contraloría General será el Secretario que designe el Ejecutivo del Estado, quien para el trámite y resolución de los asuntos de su competencia, contará con las unidades administrativas y órganos desconcentrados siguientes:
 
-I.- Unidades administrativas:
+> <small>(REFORMADA, B.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
-a) Subsecretaría de Desarrollo Administrativo y Tecnológico;
+I.- Unidades Administrativas:
 
-b) Dirección General de Licitaciones y Contratos;
+1.- Subsecretaría de Desarrollo Administrativo y Tecnológico;
 
-c) Dirección General de Auditoría Gubernamental;
+1.1 Dirección de Gobierno Digital
 
-d) Dirección General de Seguimiento y Control de Obra Pública;
+1.2 Dirección de Planeación y Política Informática
 
-e) Dirección General de Contraloría Social;
+2.- Dirección General de Licitaciones y Contratos;
 
-f) Dirección General de Responsabilidades y Situación Patrimonial;
+2.1 Dirección de Licitaciones
 
-g) Dirección General de Información e Integración;
+3.- Dirección General de Auditoría Gubernamental;
 
-h) Dirección General de Órganos de Control y Vigilancia;
+3.1 Dirección de Auditoría Gubernamental
 
-i) Dirección General de Administración y Control Presupuestal; y
+4.- Dirección General de Seguimiento y Control de Obra Pública;
 
-j) Dirección General de Asuntos Jurídicos y Normatividad.
+4.1 Dirección de Auditoría a Obras en Dependencias y Entidades
+
+5.- Dirección General de Contraloría Social;
+
+5.1 Dirección de Quejas y Denuncias
+
+6.- Dirección General de Responsabilidades y Situación Patrimonial;
+
+6.1 Dirección de Responsabilidades
+
+7.- Dirección General de Información e Integración;
+
+8.- Dirección General de Órganos de Control y Vigilancia;
+
+8.1 Dirección de Evaluación a Órganos de Control y Desarrollo Administrativo
+
+9.- Dirección General de Administración y Control Presupuestal;
+
+9.1 Dirección de apoyo operativo; y
+
+10.- Dirección General de Asuntos Jurídicos y Normatividad
+
+10.1 Dirección de Consulta
 
 II.- Órganos desconcentrados:
 
 a) Órganos de Control y Desarrollo Administrativo.
+
+> <small>(ADICIONADO, B.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+La Secretaría contará, asimismo, con las unidades subalternas que se establezcan por acuerdo de su Titular, mismas que deberán contenerse y especificarse en el Manual de Organización de la Dependencia.
 
 ###### Artículo 3°.
 
@@ -725,7 +751,9 @@ XV.- Las demás que confieran las disposiciones legales aplicables y las que le 
 
 Artículo 15 Bis A.- La Dirección General de Órganos de Control y Vigilancia estará adscrita directamente al Titular de la Secretaría, y tendrá las siguientes atribuciones:
 
-I.- Coordinar, supervisar y evaluar el desempeño de las actividades sustantivas y administrativas de los Órganos de Control y Desarrollo Administrativo y de los Comisarios Públicos Oficiales y Ciudadanos;
+> <small>(REFORMADA, B.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+I.- Coordinar, supervisar y evaluar el desempeño de las actividades sustantivas y administrativas de los Órganos de Control y Desarrollo Administrativo y de los Comisarios Públicos Oficiales y Ciudadanos, así como intervenir por instrucciones del Secretario, en coordinación con el Órgano de Control y Desarrollo Administrativo correspondiente, en visitas, inspecciones, fiscalizaciones, auditorías, revisiones, verificaciones e investigaciones en la Entidad de que se trate;
 
 II.- Crear y operar los canales de comunicación entre las unidades administrativas de la Secretaría, los Órganos de Control y Desarrollo Administrativo y los Comisarios Públicos Oficiales y Ciudadanos;
 
@@ -735,11 +763,19 @@ IV.- Proponer al Secretario la designación y, en su caso, la remoción de los T
 
 V.- Llevar a cabo, de conformidad con los lineamientos y políticas que emita el Titular de la Secretaría, la coordinación que se requiera con el Instituto Superior de Auditoria y Fiscalización, en relación a las entidades que tienen asignados Órganos de Control y Desarrollo Administrativo;
 
-VI.- Analizar, consolidar y evaluar los programas operativos anuales de los Órganos de Control y Desarrollo Administrativo con base en las políticas y prioridades que dicte el Secretario y en coordinación con las unidades administrativas competentes de la Secretaría; y proponer al Secretario un programa anual de auditorías a las entidades de la Administración Pública Paraestatal, en coordinación con la Dirección General de Auditoria Gubernamental;
+> <small>(REFORMADA, B.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+VI.- Analizar, consolidar y evaluar los programas anuales de los Órganos de Control y Desarrollo Administrativo con base en las políticas y prioridades que dicte el Secretario y en coordinación con las unidades administrativas competentes de la Secretaría; y proponer al Secretario un programa anual de auditorías a las entidades de la Administración Pública Paraestatal, en coordinación con la Dirección General de Auditoria Gubernamental;
 
 VII.- Proponer y someter a consideración del Secretario, la programación de metas para la realización de las funciones que lleven a cabo los Comisarios Públicos Oficiales y Ciudadanos;
 
-VIII.- Supervisar que los Órganos de Control y Desarrollo Administrativo presenten los informes debidamente integrados y sustentados, revisando la documentación que generen éstos en los actos de revisión, verificación, auditoría y fiscalización, debiendo dar seguimiento a través de los programas de solventación, a las observaciones, acciones y medidas correctivas derivadas de las auditorías realizadas por los Órganos de Control y Desarrollo Administrativo, proporcionando copia de los informes de auditoría, así como de las observaciones y solventaciones que se deriven a las Direcciones Generales de esta Secretaría, que corresponda de acuerdo al ámbito de su competencia;
+> <small>(REFORMADA, B.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+VIII.- Supervisar que los Órganos de Control y Desarrollo Administrativo presenten los informes debidamente integrados y sustentados, así como revisar la documentación que éstos generen en los actos de revisión, verificación, auditoría y fiscalización;
+
+> <small>(ADICIONADA, B.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+VIII BIS.- Dar seguimiento a través de los programas de solventación, a las observaciones, acciones y medidas correctivas derivadas de las auditorías realizadas por los Órganos de Control y Desarrollo Administrativo, y proporcionar, en su caso, copia de los informes de auditoría así como de las observaciones y solventaciones que se deriven, a las Direcciones Generales de esta Secretaría, que correspondan de acuerdo al ámbito de su competencia;
 
 IX.- Verificar que en las auditorías practicadas por los Órganos de Control y Desarrollo Administrativo se cumplan con las Normas Generales de Auditoría Pública y demás disposiciones, políticas y procedimientos establecidos por la Secretaría y verificar en estas instancias de control y de manera selectiva que:
 
@@ -757,7 +793,9 @@ XII.- Participar en las modificaciones que requieran las bases para la designaci
 
 XIII.- Promover, con el apoyo de las Unidades Administrativas competentes de la Secretaría, la asesoría, capacitación y el apoyo técnico que requieran los Órganos de Control y Desarrollo Administrativo y los Comisarios Públicos Oficiales y Ciudadanos para el desempeño de sus funciones;
 
-XIV.- Coadyuvar en la formulación, así como dar seguimiento de las denuncias que los Órganos de Control y Desarrollo Administrativo interpongan ante la Dirección General de Responsabilidades y Situación Patrimonial, cuando de los expedientes relativos a las revisiones o auditorías que se hubieren practicado, se detecten hechos que puedan constituir presuntas responsabilidades de los servidores públicos en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios y demás disposiciones aplicables, o en caso de que puedan constituir ilícitos del orden penal en los que el Estado resulte ofendido; y
+> <small>(REFORMADA, B.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+XIV.- Coadyuvar en la formulación, llevar el control y dar seguimiento de las denuncias que los Órganos de Control y Desarrollo Administrativo interpongan ante la Dirección General de Responsabilidades y Situación Patrimonial, cuando de los expedientes relativos a las revisiones o auditorías que se hubieren practicado, se detecten hechos que puedan constituir presuntas responsabilidades de los servidores públicos en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios y demás disposiciones aplicables, o en caso de que puedan constituir ilícitos del orden penal en los que el Estado resulte ofendido; y
 
 XV.- Las demás que le confieran las disposiciones legales aplicables o le atribuya directamente el Secretario, dentro de la esfera de sus atribuciones.
 
@@ -825,9 +863,21 @@ XII. Coordinarse con las unidades de asesoría, de apoyo técnico y de coordinac
 
 XIII. Apoyar a las unidades administrativas de la Secretaría, en la formulación de denuncias que se deriven en el cumplimiento de sus atribuciones;
 
-XIV. Fungir como Unidad de Enlace de la Secretaría conforme a lo previsto en la Ley de Acceso a la Información Pública del Estado de Sonora; y
+> <small>(REFORMADA, B.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
-XV. Las demás que le confieran las disposiciones legales aplicables y las que le atribuya expresamente el Titular de la Secretaría.
+XIV. Fungir como Unidad de Enlace de la Secretaría conforme a lo previsto en la Ley de Acceso a la Información Pública del Estado de Sonora;
+
+> <small>(REFORMADA, B.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+XV. Formular propuestas, programas y acciones en materia de transparencia y acceso a la información;
+
+> <small>(ADICIONADA, B.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+XVI. Evaluar trimestralmente a los portales de transparencia de los Sujetos Obligados del Poder Ejecutivo en cuanto al cumplimiento de tener a disposición del público la información pública básica, a que se refiere la Ley de la materia; y
+
+> <small>(ADICIONADA, B.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+XVII. Las demás que le confieran las disposiciones legales aplicables y las que le atribuya expresamente el Titular de la Secretaría.
 
 ### CAPÍTULO V. DE LOS INSTRUMENTOS DE CONTROL DE LA SECRETARÍA
 
@@ -907,19 +957,19 @@ XXVI. Las demás que les asigne el Secretario.
 
 #### SECCIÓN II. DE LOS ÓRGANOS DE CONTROL Y DESARROLLO ADMINISTRATIVO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 20.
 
-Los Órganos de Control y Desarrollo Administrativo, son órganos desconcentrados de la Secretaría de la Contraloría General, quienes dependiendo jerárquica, administrativa y funcionalmente de ésta, son responsables de las funciones de control y evaluación de la gestión pública en las entidades de la Administración Pública Paraestatal, de conformidad con las Normas Generales y demás instrucciones, políticas y lineamientos que emita el Titular de la Secretaría, mismos que serán coordinados por la Dirección General de Órganos de Control y Vigilancia.
+Los Órganos de Control y Desarrollo Administrativo, son órganos desconcentrados de la Secretaría de la Contraloría General, quienes dependiendo jerárquica, administrativa y funcionalmente de ésta, son responsables de las funciones de control y evaluación de la gestión pública en las entidades de la Administración Pública Paraestatal, de conformidad con las Normas Generales y demás instrucciones, políticas y lineamientos que emita el Titular de la Secretaría, mismos que serán coordinados por la Dirección General de Órganos de Control y Vigilancia. Los Titulares de los Órganos de Control y Desarrollo Administrativo, así como el personal adscrito a éstos, serán designados y removidos libremente por el Secretario de la Contraloría General.
 
-> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
-Los Titulares de los Órganos de Control y Desarrollo Administrativo, así como el personal adscrito a éstos, serán designados y removidos libremente por el Secretario de la Contraloría General.
+Los Órganos de Control y Desarrollo Administrativo tendrán las siguientes atribuciones:
 
-Sin perjuicio de las Normas Generales a que se refiere el párrafo primero, los Órganos de Control y Desarrollo Administrativo tendrán las atribuciones genéricas señaladas en el artículo 8° del presente Reglamento, en lo que les resulte aplicable, y las siguientes atribuciones específicas:
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
-I. Efectuar visitas, inspecciones, fiscalizaciones, auditorías, revisiones, verificaciones e investigaciones a la entidad en que se encuentren asignados, conforme a las Bases Generales que emita la Secretaría, con objeto de promover la eficiencia en sus operaciones y verificar el cumplimiento de los objetivos contenidos en sus programas, y tendentes a:
+I.- Efectuar, así como comisionar y supervisar al personal auditor adscrito al Órgano de Control, la práctica de visitas, inspecciones, fiscalizaciones, auditorías, revisiones; verificaciones e investigaciones a la entidad en que se encuentren asignados, conforme a las Bases Generales que emita la Secretaría, con objeto de promover la eficiencia en sus operaciones y verificar el cumplimiento de los objetivos contenidos en sus programas, y tendentes a:
 
 a) Verificar que sus actos, tanto sustantivos como de apoyo administrativo, inherentes a su competencia se lleven a cabo de acuerdo con las disposiciones legales aplicables en el ámbito de sus respectivas competencias;
 
@@ -953,9 +1003,27 @@ VIII. Promover y evaluar la ejecución por parte de las entidades, de los progra
 
 IX. Evaluar el desempeño de la entidad y dar seguimiento a sus resultados;
 
-X. Establecer medidas preventivas que garanticen la efectividad y transparencia de las operaciones de la entidad; y
+> <small>(REFORMADA, B.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+X. Establecer medidas preventivas que tiendan a garantizar la efectividad y transparencia de las operaciones de la entidad;
 
 XI. Denunciar ante la Dirección General de Responsabilidades y Situación Patrimonial la probable responsabilidad de servidores públicos, cuando de los expedientes relativos a las revisiones, investigaciones o auditorías que se hubieren practicado, se detecten hechos que puedan constituir presuntas responsabilidades de los servidores públicos en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios y demás disposiciones aplicables, o en caso en que puedan constituir ilícitos del orden penal en los que el Estado resulte ofendido, presentar la denuncia correspondiente ante el Ministerio Publico.
+
+> <small>(ADICIONADA, B.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+XII. Recibir las quejas y denuncias que se formulen en contra de servidores públicos de la Entidad a la que se encuentren adscritos, por hechos que pudieran constituir incumplimiento de las obligaciones previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios y, en su caso, recabar las pruebas y elementos de convicción suficientes para turnarlas ante la Dirección General de Responsabilidades y Situación Patrimonial de esta Dependencia o ante la autoridad que se estime competente;
+
+> <small>(ADICIONADA, B.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+XIII. Solicitar y obtener para el ejercicio cabal de sus atribuciones legales, todos los documentos, datos, declaraciones e informes necesarios que obren en poder de los servidores públicos de la Entidad a la que se encuentre adscrito, así como solicitar las compulsas que se requieran de los archivos que obren en poder de ésta y de las personas físicas o morales que hayan tenido alguna participación en los hechos que se investiguen;
+
+> <small>(ADICIONADA, B.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+XIV. Solicitar y desahogar las comparecencias y declaraciones de los servidores públicos que resulten necesarias para el ejercicio de las funciones a que se refieren las fracciones XII y XIII de este artículo; y
+
+> <small>(ADICIONADA, B.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+XV. Cotejar y certificar, los papeles de trabajo que se generen por los actos de investigaciones a su cargo, con los documentos originales que obren en la entidad correspondiente haciendo constar la autenticidad de dichos documentos.
 
 #### SECCIÓN III. DE LOS COMISARIOS PÚBLICOS
 
@@ -1046,3 +1114,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 B.O. 27 DE SEPTIEMBRE DE 2010.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 20 DE SEPTIEMBRE DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
