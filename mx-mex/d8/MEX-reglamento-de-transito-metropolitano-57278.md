@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-transito-metropolitano-57278"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-06-19"
-last_updated: "2007-06-19"
+last_updated: "2012-09-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO DE TRANSITO METROPOLITANO
 
-REGLAMENTO DE TRANSITO METROPOLITANO DEL ESTADO DE MÉXICO
+REGLAMENTO DE TRÁNSITO METROPOLITANO DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE SEPTIEMBRE DE 2012.
 
 Reglamento publicado en la Gaceta del Gobierno del Estado de México, martes 19 de junio de 2007.
 
@@ -47,7 +47,9 @@ Artículo 2
 
 En el ámbito de sus atribuciones y jurisdicciones, son autoridades competentes para la aplicación del presente Reglamento las siguientes:
 
-I. La Secretaría General de Gobierno, a través de la Agencia de Seguridad Estatal; y
+> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2012)</small>
+
+I. La Secretaría de Seguridad Ciudadana; y
 
 II. Los Ayuntamientos, a través de la Dirección de Seguridad Pública y Tránsito Municipal.
 
@@ -69,11 +71,17 @@ Artículo 4
 
 Para los efectos de este Reglamento, se entiende por:
 
-I. Agencia: A la Agencia de Seguridad Estatal;
+I. (DEROGADA, G.G. 20 DE SEPTIEMBRE DE 2012)
 
-II. Agente: Elemento de Policía de la Agencia de Seguridad Estatal y Municipal;
+> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2012)</small>
+
+II. Agente: Elemento de Policía de la Secretaría de Seguridad Ciudadana o de la Dirección de Seguridad Pública y Tránsito Municipal;
 
 III. Ayuntamiento: A los Ayuntamientos de los Municipios conurbados;
+
+> <small>(ADICIONADA, G.G. 20 DE SEPTIEMBRE DE 2012)</small>
+
+III Bis. Boleta: Es el documento impreso por la terminal electrónica en el que consta la infracción y la sanción, que el agente de tránsito, expide al infractor;
 
 IV. Código: El Código Administrativo del Estado de México;
 
@@ -99,11 +107,15 @@ XIV. Peatón: Persona que transita por la vía pública;
 
 XV. Persona con capacidades diferentes: Quien presenta temporal o permanentemente otras capacidades en sus facultades físicas, intelectuales o sensoriales, que le limitan a realizar una actividad normal;
 
-XVI. Personal de apoyo vial: El autorizado por la Agencia y los Ayuntamientos, con el fin de proporcionar seguridad, continuidad y fluidez al tránsito peatonal y vehicular;
+> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2012)</small>
 
-XVII.- Reglamento: El Reglamento de Tránsito de (sic) Metropolitano;
+XVI. Personal de apoyo vial: El autorizado por la Secretaría de Seguridad Ciudadana y los Ayuntamientos, con el fin de proporcionar seguridad, continuidad y fluidez al tránsito peatonal y vehicular;
 
-XVIII. Secretaría: La Secretaría General de Gobierno;
+XVII. Reglamento: El Reglamento de Tránsito de (sic) Metropolitano;
+
+> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2012)</small>
+
+XVIII. Secretaría: La Secretaría de Seguridad Ciudadana;
 
 XIX. Transporte masivo de alta capacidad: Transporte férreo público de pasajeros que circula por vías no confinadas;
 
@@ -253,7 +265,9 @@ El incumplimiento de lo dispuesto en éste artículo se sanciona con base en la 
 
 Sanción con multa equivalente en días de salario mínimo
 
-20 días y remisión del vehículo al depósito
+> <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2012)</small>
+
+20 días, retiro de la placa delantera y la suscripción de la carta compromiso
 
 La autoridad ambiental debe facultar a los centros de verificación vehicular para que, sujetándose a los sistemas informáticos que se desarrollen y los lineamientos que se expidan, constaten que los propietarios o poseedores de vehículos están libres de adeudos por multas derivadas de infracciones al presente Reglamento, previa la realización de la pruebas de emisiones.
 
@@ -373,7 +387,9 @@ XX. A menos de 30 metros antes y después de la zona de ascenso y descenso de pa
 
 XXI. En vías de circulación continua o frente a sus salidas; y
 
-XXII. En los demás lugares que la Secretaría y la Agencia determinen.
+> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2012)</small>
+
+XXII. En los demás lugares que la Secretaría determine.
 
 La infracción a las prohibiciones dispuestas en este artículo, se sanciona con base en la siguiente tabla:
 
@@ -385,15 +401,17 @@ I, II, III, IV, V, VI, VII,
 
 VIII IX, X, XI, XII, XIII,
 
-XIV, XV, XVI, XVII, XVIII,
+XIV, XV, XVI, XVII, XVIII, (REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2012)
 
-XIX, XX, XXI y XXII 5 días y remisión al depósito
+XIX, XX, XXI y XXII 5 días y retiro de placa delantera
 
 Artículo 12
 
 Los vehículos estacionados en lugares prohibidos, en los que exista señalamiento de inmovilizador o donde se encuentren instalados parquímetros o cualquier otro sistema de medición del tiempo de estacionamiento en la vía pública y que no cubran la cuota de estacionamiento en el momento de la revisión, pueden ser inmovilizados por el agente, aún cuando el conductor o alguna otra persona se encuentre presente. El vehículo debe ser liberado hasta que se hayan cubierto las sanciones económicas y los derechos por retiro de inmovilizador correspondientes.
 
-La Agencia y los Ayuntamientos pueden auxiliarse de terceros autorizados por la autoridad competente para la inmovilización de vehículos.
+> <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2012)</small>
+
+La Secretaría y los Ayuntamientos pueden auxiliarse de terceros autorizados por la autoridad competente para la inmovilización de vehículos.
 
 El incumplimiento de lo dispuesto en este artículo, se sanciona con base en la siguiente tabla:
 
@@ -431,15 +449,21 @@ en días de salario mínimo
 
 II 5 días
 
-I 5 días y remisión del vehículo
+> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2012)</small>
+
+I 5 días y retiro de la placa delantera
 
 II, III, V, VII 10 días
 
 IV 10 días
 
-VI 20 días y remisión del vehículo
+> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2012)</small>
 
-La Agencia y los Ayuntamientos, en su respectiva competencia territorial, podrán retirar los objetos que pongan en riesgo la seguridad de las personas, obstaculicen la circulación o estacionamiento de los vehículos.
+VI 20 días y retiro de la placa delantera
+
+> <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2012)</small>
+
+La Secretaría y los Ayuntamientos, en su respectiva competencia territorial, podrán retirar los objetos que pongan en riesgo la seguridad de las personas, obstaculicen la circulación o estacionamiento de los vehículos.
 
 Artículo 14
 
@@ -507,7 +531,9 @@ en días de salario mínimo
 
 I y II 5 días
 
-III 5 días y remisión del vehículo al depósito
+> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2012)</small>
+
+III 5 días y retiro de la placa delantera
 
 Artículo 16
 
@@ -533,7 +559,9 @@ Fracción Sanción con multa equivalente
 
 en días de salario mínimo
 
-I, II y III 20 días y remisión al depósito
+> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2012)</small>
+
+I, II y III 20 días y retiro de la placa delantera
 
 Artículo 17
 
@@ -577,7 +605,9 @@ días de salario mínimo
 
 III, IV, V y VI 5 días
 
-I y II 5 días y remisión del vehículo al depósito
+> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2012)</small>
+
+I y II 5 días y retiro de la placa delantera
 
 VII y VIII 10 días
 
@@ -607,9 +637,11 @@ Las autoridades correspondientes deben tomar las medidas que procedan para garan
 
 ### CAPÍTULO IV. DE LA PROTECCIÓN DE LOS ESCOLARES
 
+> <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2012)</small>
+
 Artículo 22
 
-Los centros educativos pueden contar con promotores voluntarios de seguridad vial, que deben ser habilitados y supervisados por la Agencia y la Dirección, previo cumplimiento de los requisitos y cursos de capacitación que al efecto se establezcan.
+Los centros educativos pueden contar con promotores voluntarios de seguridad vial, que deben ser habilitados y supervisados por la Secretaría y la Dirección, previo cumplimiento de los requisitos y cursos de capacitación que al efecto se establezcan.
 
 Artículo 23
 
@@ -669,15 +701,23 @@ Fracción Sanción con multa equivalente
 
 en días de salario mínimo
 
-III, V y VI 5 días
+> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2012)</small>
+
+III, V y VI 10 días
 
 II 10 días
 
-VII 10 días y remisión al depósito
+> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2012)</small>
 
-IV, VIII y IX 20 días
+VII 80 a 130 días y remisión al depósito
 
-I 20 días y remisión al depósito
+> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2012)</small>
+
+IV, VIII y IX 80 a 130 días
+
+> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2012)</small>
+
+I 80 a 100 días y remisión al depósito
 
 Artículo 27
 
@@ -719,7 +759,9 @@ en días de salario mínimo
 
 I, II, IV, V, VII, VIII y IX 10 días
 
-III, VI y X 20 días
+> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2012)</small>
+
+III, VI y X 80 días
 
 ### CAPÍTULO VI. DE LA CIRCULACIÓN DEL TRANSPORTE DE CARGA Y DE SUSTANCIAS TÓXICAS Y PELIGROSAS
 
@@ -757,7 +799,9 @@ Los conductores de vehículos de transporte de carga deben:
 
 I. Circular por el carril de extrema derecha y usar el izquierdo sólo para rebasar o dar vuelta a la izquierda;
 
-II. Sujetarse a los horarios y a las vialidades establecidas mediante aviso de la Agencia o de los Ayuntamientos en el ámbito de su competencia;
+> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2012)</small>
+
+II. Sujetarse a los horarios y a las vialidades establecidas mediante aviso de la Secretaría o de los Ayuntamientos en el ámbito de su competencia;
 
 III. Estacionar el vehículo o contenedor en el lugar de encierro correspondiente;
 
@@ -869,7 +913,9 @@ Artículo 34
 
 Se prohíbe a los conductores de bicicletas y motocicletas:
 
-I. Circular por los carriles centrales o interiores de las vías primarias y en donde así lo indique el señalamiento de las vías de acceso controladas, salvo cuando mediante aviso publicado en el Periódico Oficial “Gaceta del Gobierno”, la Secretaría, la Agencia o los Ayuntamientos determinen horarios y días permitidos en dichas vialidades;
+> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2012)</small>
+
+l. Circular por los carriles centrales o interiores de las vías primarias y en donde así lo indique el señalamiento de las vías de acceso controladas, salvo cuando mediante aviso publicado en el Periódico Oficial "Gaceta del Gobierno", la Secretaría o los Ayuntamientos determinen horarios y días permitidos en dichas vialidades;
 
 II. Circular entre carriles;
 
@@ -917,13 +963,17 @@ Artículo 37
 
 Todos los conductores de vehículos a quienes se les encuentre cometiendo actos que violen las disposiciones del presente Reglamento y muestren síntomas de que conducen en estado de ebriedad, serán presentados ante el Juez Calificador o Autoridad Municipal competente, para el caso de encontrarse bajo el influjo de narcóticos, están obligados a someterse a las pruebas para la detección del grado de intoxicación por el médico del Ministerio Público competente.
 
-Los agentes pueden detener la marcha de un vehículo cuando la Agencia o los Ayuntamientos a través de la Dirección establezcan y lleven a cabo programas de control y preventivos de ingestión de alcohol o de narcóticos, para conductores de vehículos. Estos programas deben ser publicados en el Periódico Oficial “Gaceta del Gobierno” y en dos de los diarios de mayor circulación en la Entidad.
+> <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2012)</small>
+
+Los agentes pueden detener la marcha de un vehículo cuando la Secretaría o los Ayuntamientos a través de la Dirección establezcan y lleven a cabo programas de control y preventivos de ingestión de alcohol o de narcóticos, para conductores de vehículos. Estos programas deben ser publicados en el Periódico Oficial "Gaceta del Gobierno" y en dos de los diarios de mayor circulación en la Entidad.
 
 Artículo 38
 
 Cuando los agentes cuenten con dispositivos de detección de alcohol o de narcóticos, deben proceder como sigue:
 
-I. Los conductores deben someterse a las pruebas para la detección del grado de intoxicación que establezca la Agencia o los Ayuntamientos;
+> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2012)</small>
+
+I. Los conductores deben someterse a las pruebas para la detección del grado de intoxicación que establezca la Secretaría o los Ayuntamientos;
 
 II. El agente debe entregar un ejemplar del comprobante de los resultados de la prueba al conductor, inmediato a su realización;
 
@@ -931,7 +981,9 @@ III. En caso de que el conductor sobrepase el límite permitido de alcohol en la
 
 IV. El agente debe entregar un ejemplar del comprobante de los resultados de la prueba al Ministerio Público ante el cual sea presentado el conductor, documento que constituye prueba fehaciente de la cantidad de alcohol o narcóticos encontrados y sirve de base para el dictamen del Médico Legista que determine el tiempo probable de recuperación, asimismo, deber dar aviso inmediato a la Secretaría de Transporte, para que proceda a la cancelación de la licencia de conducir en los términos del Código.
 
-En caso de presentarlos, el operador será remitido al Instituto de Servicios Periciales de la Procuraduría General de Justicia del Estado de México, al Instituto de Seguridad Social del Estado de México y Municipios, Secretaría de Salud del Estado de México o a cualquier otra Institución Médica Oficial, para que en auxilio de la Agencia determine el consumo de alcohol y/o las sustancias referidas, sin perjuicio de las sanciones que procedan, se dará aviso inmediato a la Secretaría de Trasporte (sic), para que proceda a la suspensión de la licencia de conducir.
+> <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2012)</small>
+
+En caso de presentarlos, el operador será remitido al Instituto de Servicios Periciales de la Procuraduría General de Justicia del Estado de México, al Instituto de Seguridad Social del Estado de México y Municipios, a la Secretaría de Salud del Estado de México o a cualquier otra Institución Médica Oficial, para que en auxilio de la Secretaría, determine el consumo de alcohol y/o las sustancias referidas, sin perjuicio de las sanciones que procedan, se dará aviso inmediato a la Secretaría de Transporte, para que proceda a la suspensión de la licencia de conducir.
 
 ### CAPÍTULO IX. DE LOS ACCIDENTES DE TRÁNSITO Y DE LA RESPONSABILIDAD CIVIL RESULTANTE
 
@@ -975,7 +1027,9 @@ V. Retirar el o los vehículos accidentados para despejar la vía, una vez que l
 
 Artículo 43
 
-Las sanciones en materia de tránsito, señaladas en este Reglamento y demás disposiciones jurídicas, deben ser impuestas por el agente que tenga conocimiento de su comisión, y constar en las boletas de infracción seriadas autorizadas por la Agencia y los Ayuntamientos, las cuales para su validez contendrán:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE SEPTIEMBRE DE 2012)</small>
+
+Las sanciones en materia de tránsito, señaladas en este Reglamento y demás disposiciones jurídicas, deben ser impuestas por el agente que tenga conocimiento de su comisión, y constar en las boletas de infracciones seriadas o medios electrónicos autorizados por la Secretaría y los Ayuntamientos, las cuales para su validez contendrán:
 
 I. Fundamento Jurídico:
 
@@ -995,7 +1049,9 @@ d) En su caso, número y tipo de licencia o permiso de conducir.
 
 III. Nombre, número de placa, adscripción y firma del agente que imponga la sanción.
 
-La Agencia y los Ayuntamientos deben coadyuvar con la Secretaría de Transporte, para la aplicación de sanciones por el incumplimiento a las disposiciones de la materia, cuando exista flagrancia.
+> <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2012)</small>
+
+La Secretaría y los Ayuntamientos deben coadyuvar con la Secretaría de Transporte, para la aplicación de sanciones por el incumplimiento a las disposiciones de la materia, cuando exista flagrancia.
 
 Artículo 44
 
@@ -1027,9 +1083,13 @@ I. Oficinas de la Secretaría de Finanzas o de la Tesorería de los Ayuntamiento
 
 II. Centros autorizados para este fin; o
 
-III. Con el agente que impuso la infracción en caso de que cuente con la tecnología necesaria.
+> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2012)</small>
 
-El infractor cuenta con un plazo de treinta días naturales contados a partir de la fecha de emisión de la boleta de sanción para realizar el pago, cuando no cubra el importe de las multas que establece este Reglamento dentro de los sesenta días naturales de haber sido impuesta, se le aumentarán los accesorios aplicables de conformidad con el Código Financiero de la Entidad, vencido dicho plazo sin que se realice el pago, debe cubrir los demás créditos fiscales que establece el Código Financiero de la Entidad. El infractor que pague la multa dentro de los cinco días hábiles siguientes, tiene derecho a un descuento del 50%.
+III. Con el agente que impuso la infracción a través de la terminal electrónica.
+
+> <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2012)</small>
+
+El infractor cuenta con un plazo de treinta días naturales contados a partir de la fecha de emisión de la boleta de sanción para realizar el pago, cuando no cubra el importe de las multas que establece este Reglamento dentro de los sesenta días naturales de haber sido impuesta, se le aumentarán los accesorios aplicables de conformidad con el Código Financiero de la Entidad, vencido dicho plazo sin que se realice el pago, debe cubrir los demás créditos fiscales que establece el Código Financiero de la Entidad. Si el infractor realiza el pago de la infracción el mismo día, obtendrá un descuento del 70% y cuando pague la multa dentro de los quince días hábiles siguientes, tendrá derecho a un descuento del 50%.
 
 Artículo 47
 
@@ -1039,11 +1099,15 @@ Tratándose de menores de edad, el agente o el Ministerio Público que tenga con
 
 Artículo 48
 
-Sin perjuicio de las sanciones previstas en este Reglamento; la Agencia o la Dirección deben remitir copia de la infracción a la Secretaría de Transporte, para que imponga la sanción correspondiente a que hace mención el Libro Octavo del Código, a quien permita o lleve a cabo la obstaculización o afectación de la vialidad o del tránsito seguro de los peatones, o a quien permita o lleve a cabo la reducción de la capacidad vial, con motivo de la instalación, modificación, cambio o mantenimiento de los elementos constitutivos de un anuncio y no exhiba en ese momento la documentación correspondiente que les autorice a realizar dichos trabajos.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE SEPTIEMBRE DE 2012)</small>
+
+Sin perjuicio de las sanciones previstas en este Reglamento; la Secretaría o la Dirección deben hacer del conocimiento de la infracción a la Secretaría de Transporte, para que imponga la sanción correspondiente a que hace mención el Libro Octavo del Código, a quien permita o lleve a cabo la obstaculización o afectación de la vialidad o del tránsito seguro de los peatones, o a quien permita o lleve a cabo la reducción de la capacidad vial, con motivo de la instalación, modificación, cambio o mantenimiento de los elementos constitutivos de un anuncio y no exhiba en ese momento la documentación correspondiente que les autorice a realizar dichos trabajos.
 
 Sin perjuicio de lo dispuesto por el Libro Octavo del Código, las licencias de conducir expiran al acumular doce puntos de penalización.
 
-La Secretaría de Transporte debe realizar el cómputo de los puntos de penalización con base en copias de las boletas de infracción expedidas por la Agencia.
+> <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2012)</small>
+
+La Secretaría de Transporte debe realizar el cómputo de los puntos de penalización con base en la información de infracción realizadas por la Secretaría.
 
 Los puntos de penalización se acumulan de la siguiente manera:
 
@@ -1053,7 +1117,9 @@ II. Tres puntos por infringirlo en sus artículos 5 fracción III y 6 fracción 
 
 III. Un punto por infringirlo en cualquier artículo distinto al de los señalados en las dos fracciones anteriores.
 
-Cuando una boleta de infracción sea anulada, los puntos se descontarán con base en copia de la resolución judicial o administrativa respectiva.
+> <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2012)</small>
+
+Cuando una infracción sea anulada, los puntos se descontarán con base en la copia de la resolución judicial o administrativa respectiva.
 
 La acumulación de puntos no exime al titular de la licencia de cumplir con la sanción que corresponda a la infracción cometida.
 
@@ -1073,7 +1139,9 @@ Si el conductor o la persona responsable se opone a la remisión del vehículo y
 
 Los agentes que hubieren ordenado llevar a cabo remisión al depósito, deben informar de inmediato, a través de los medios electrónicos de que dispongan, al centro de control correspondiente los datos del depósito al cual se remitió, tipo de vehículo y matricula así como el lugar del que fue retirado.
 
-La Agencia y la Dirección pueden auxiliarse de terceros para la remisión de vehículos a depósitos propios o de dichos terceros.
+> <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2012)</small>
+
+La Secretaría y la Dirección pueden auxiliarse de terceros para la remisión de vehículos a depósitos propios o de dichos terceros.
 
 Para la devolución del vehículo en los depósitos, es indispensable la comprobación de su propiedad o legal posesión, el pago previo de las multas adeudadas y derechos que procedan, exhibición de la licencia de conducir, una copia de la misma y portar las llaves del vehículo. Asimismo, se debe comprobar la no existencia de créditos por concepto del Impuesto sobre Tenencia o Uso de Vehículos y derechos por servicios de control vehicular, del ejercicio fiscal anterior al de la devolución del vehículo.
 
@@ -1089,9 +1157,11 @@ Los particulares afectados por los actos y resoluciones de las autoridades, pued
 
 Cuando se trate de multas, la interposición del recurso de inconformidad o del procedimiento administrativo suspende el plazo referido.
 
+> <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2012)</small>
+
 Artículo 52
 
-A los agentes que violen lo preceptuado en este Reglamento o que en aplicación del mismo remitan un vehículo a un depósito sin causa, se les aplicarán las sanciones correspondientes. Los particulares pueden acudir ante el Agente del Ministerio Público o los Órganos de Disciplina de la Agencia o de los Ayuntamientos, a denunciar presuntos actos ilícitos de un agente.
+A los agentes que violen lo preceptuado en este Reglamento o que en aplicación del mismo remitan un vehículo a un depósito sin causa, se les aplicarán las sanciones correspondientes. Los particulares pueden acudir ante el Agente del Ministerio Público o los Órganos de Disciplina de la Secretaría o de los Ayuntamientos, a denunciar presuntos actos ilícitos de un agente.
 
 T R A N S I T O R I O S
 
@@ -1116,3 +1186,17 @@ SECRETARIO GENERAL DE GOBIERNO
 DR. VÍCTOR HUMBERTO BENÍTEZ TREVIÑO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE SEPTIEMBRE DE 2012.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Las Secretarías de Finanzas y de Seguridad Ciudadana; en su esfera administrativa respectivamente, dispondrán lo necesario para proveer los recursos humanos, materiales y financieros, para dar cumplimiento a lo establecido por el presente Acuerdo.
+
+CUARTO.- Dentro de los sesenta días hábiles siguientes a la entrada en vigor del presente Acuerdo, las Secretarías de Finanzas y de Seguridad Ciudadana, dispondrán lo necesario para que los agentes de tránsito cuenten con la terminal electrónica.
+
+QUINTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en las presentes modificaciones.
