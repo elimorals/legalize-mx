@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-del-codigo-de-la-administracion-publica-de-62063"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-07"
-last_updated: "2012-08-20"
+last_updated: "2012-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "YUC"
 ---
 # REGLAMENTO DEL CODIGO DE LA ADMINISTRACION PUBLICA DE YUCATAN
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE SEPTIEMBRE DE 2012 EN EL D.O. DEL ESTADO DE YUCATÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE AGOSTO DE 2012.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL D.O. DE 20 DE SEPTIEMBRE DE 2012.</small>
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 7 de julio de 2008.
 
@@ -1547,8 +1547,6 @@ III. Las demás que establezcan este Reglamento y otras disposiciones legales ap
 
 ### CAPÍTULO ÚNICO. De la organización, facultades y obligaciones del personal de la Consejería Jurídica
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE SEPTIEMBRE DE 2012 EN EL D.O. DEL ESTADO DE YUCATÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>(REFORMADO, D.O. 20 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 70.
@@ -1569,13 +1567,19 @@ a) Dirección de Contratos, Licitaciones y Procedimientos;
 
 b) Dirección de Servicios Legales;
 
-c) Dirección de Vinculación Institucional;
+> <small>(F. DE E. D.O., 20 DE SEPTIEMBRE DE 2012)</small>
 
-d) Dirección del Registro Civil;
+c) Dirección de Vinculación Institucional, y
 
-e) Secretariado Ejecutivo de la Comisión para la Implementación de la Reforma Penal y de Justicia del Estado, y
+d) Dirección del Registro Civil.
 
-f) Dirección de Administración y Finanzas.
+> <small>(F. DE E. D.O., 20 DE SEPTIEMBRE DE 2012)</small>
+
+IV. Secretariado Ejecutivo de la Comisión para la Implementación de la Reforma Penal y de Justicia del Estado, y
+
+> <small>(F. DE E. D.O., 20 DE SEPTIEMBRE DE 2012)</small>
+
+V. Dirección de Administración y Finanzas.
 
 > <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -3315,7 +3319,9 @@ Al Director de Educación Primaria, además de las facultades y obligaciones com
 
 I. Dictaminar, desde el punto de vista de los requerimientos educativos de su Dirección, las solicitudes de incorporación de las escuelas de educación primaria particulares al Sistema Educativo Estatal;
 
-II. Autorizar la plantilla del personal docente contratado en las escuelas particulares de este nivel, incorporadas al Sistema Educativo Estatal; III. Vigilar el cumplimiento de los lineamientos y los programas de educación primaria en estas escuelas, y
+II. Autorizar la plantilla del personal docente contratado en las escuelas particulares de este nivel, incorporadas al Sistema Educativo Estatal;
+
+III. Vigilar el cumplimiento de los lineamientos y los programas de educación primaria en estas escuelas, y
 
 IV. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
 
