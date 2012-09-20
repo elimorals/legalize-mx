@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "2012-07-23"
+last_updated: "2012-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,11 @@ issue_date: "1932-08-29"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE NOVIEMBRE DE 2012 EN LA G.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE SEPTIEMBRE DE 2012.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -638,13 +640,15 @@ Se entenderá por corrección disciplinaria:
 
 I.- El apercibimiento o amonestación;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADA, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
-II.- La multa, que será en los Juzgados de Paz como máximo de seis mil pesos; en los de Primera Instancia de treinta mil pesos como máximo; y en el Tribunal de Alzada de sesenta mil pesos como máximo, dichos montos se actualizarán en forma anual de acuerdo con el factor de actualización que se obtenga de dividir el Índice Nacional de Precios al Consumidor del mes de noviembre del año que se calcula entre el Índice Nacional de Precios al Consumidor de noviembre del año inmediato anterior que determine el Banco de México y a falta de éste el que lo sustituya.
+II. La multa, que será en los Juzgados de lo Civil de Proceso Oral así como en los juzgados de lo civil de cuantía menor, como máximo de seis mil pesos; en los de Primera Instancia de treinta mil pesos como máximo; y en el Tribunal de Alzada de sesenta mil pesos como máximo.
 
-Estas multas se duplicarán en caso de reincidencia; y (sic)
+Estas multas se duplicarán en caso de reincidencia.
+
+Los montos de las multas que se impongan por los órganos jurisdiccionales se actualizarán en forma anual con base en la variación observada por la inflación en el valor del Índice Nacional de Precios al Consumidor, publicado por el Instituto Nacional de Estadística y Geografía, entre la última actualización de dicho monto y el mes de noviembre del año en cuestión. A falta de uno o de otro, serán aplicables los que los sustituyan.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -1894,15 +1898,17 @@ XII.- En los juicios de divorcio, el tribunal del domicilio conyugal y en caso d
 
 XIII.- En los juicios de alimentos, el del domicilio del actor o el del demandado a elección del Primero.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
 ARTICULO 157
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+Para determinar la competencia por razón de la cuantía del negocio, se tendrá en cuenta únicamente la suerte principal económica reclamada, sin que sean de tomarse en consideración intereses y demás accesorios reclamados.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 18 DE MARZO DE 2011)</small>
+Tratándose de acciones personales en donde no se reclame una prestación económica, la competencia por cuantía la determinará el valor del negocio materia de la controversia.
 
-Para determinar la competencia por razón de la cuantía del negocio, se tendrá en cuenta únicamente la suerte principal reclamada, sin que sean de tomarse en consideración intereses y demás accesorios reclamados.
-
-Cuando se trate de arrendamiento o se demande el cumplimiento de una obligación consistente en prestaciones periódicas, se computará el importe de las pensiones en uno (sic) año, a no ser que se tratare de prestaciones vencidas, en cuyo caso se estará a lo dispuesto en la primera parte de este artículo.
+Cuando se trate de arrendamiento o se demande el cumplimiento de una obligación consistente en prestaciones periódicas, se computará el importe de las prestaciones en un año, a no ser que se tratare de prestaciones vencidas, en cuyo caso se estará a lo dispuesto en la primera parte de este artículo.
 
 ARTICULO 158
 
@@ -2081,6 +2087,12 @@ XIII.- Cuando el funcionario de que se trate, su cónyuge o alguno de sus expres
 XIV.- Si él, su cónyuge o alguno de sus expresados parientes, sigue algún proceso civil o criminal en que sea juez, agente del Ministerio Público, árbitro o arbitrador, alguno de los litigantes;
 
 XV.- Si es tutor o curador de alguno de los interesados, o no han pasado tres años de haberlo sido.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADA, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+XVI.- Siempre que haya externado su opinión públicamente antes del fallo, salvo en los casos de conciliación en la audiencia preliminar del juicio oral civil.
 
 ARTICULO 171
 
@@ -4056,11 +4068,11 @@ Hay cosa juzgada cuando la sentencia causa ejecutoria.
 
 Causan ejecutoria por ministerio de la (sic) ley:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADA, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
-I.- Las sentencias pronunciadas en juicios cuyo monto sea hasta de doscientos doce mil cuatrocientos sesenta pesos. Dichas cantidades se actualizarán en los términos del artículo 62. Se exceptúan los interdictos, los asuntos de competencia de los jueces de lo familiar y los reservados a los jueces del arrendamiento inmobiliario;
+I.- Las sentencias pronunciadas en juicios cuyo monto sea inferior a la cantidad que el artículo 691 establece para que un juicio sea apelable. Dichas cantidades se actualizarán en los términos del artículo 62. Se exceptúan los interdictos, los asuntos de competencia de los jueces de lo familiar y las relativas a la materia de arrendamiento inmobiliario;
 
 II.- Las sentencias de segunda instancia;
 
@@ -4834,11 +4846,11 @@ ARTICULO 500
 
 Procede la vía de apremio a instancia de parte, siempre que se trate de la ejecución de una sentencia o de un convenio celebrado en el juicio o en virtud de pacto comisorio expreso, ya sea por las partes o por terceros que hayan venido al juicio por cualquier motivo que sea.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO, G.O. 13 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
-Esta disposición será aplicable en la ejecución de convenios celebrados ante la Procuraduría Federal del Consumidor y de laudos emitidos por dicha Procuraduría; en la ejecución de convenios celebrados ante el Centro de Justicia Alternativa del Tribunal Superior de Justicia del Distrito Federal y ante los Juzgados Cívicos, tratándose de daños culposos causados con motivo del tránsito de vehículos.
+Esta disposición será aplicable en la ejecución de convenios celebrados ante la Procuraduría Federal del Consumidor y la Procuraduría Social del Distrito Federal, así como los laudos emitidos por dichas Procuradurías; en la ejecución de convenios celebrados ante el Centro de Justicia Alternativa del Tribunal Superior de Justicia del Distrito Federal y ante los Juzgados Cívicos, tratándose de daños culposos causados con motivo del tránsito de vehículos.
 
 ARTICULO 501
 
@@ -6304,6 +6316,8 @@ La parte que venció puede adherirse a la apelación interpuesta dentro de los t
 
 La adhesión al recurso sigue la suerte de éste.
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE NOVIEMBRE DE 2012 EN LA G.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 ARTICULO 691
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
@@ -6316,11 +6330,11 @@ La apelación debe interponerse por escrito y procede sólo contra aquellas reso
 
 Los autos e interlocutorias serán apelables cuando lo fuere la sentencia definitiva.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>(REFORMADO, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
-> <small>(ADICIONADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+La apelación no procede en los juicios cuyo monto sea inferior a quinientos mil pesos, moneda nacional, por concepto de suerte principal, sin que sean de tomarse en consideración intereses y demás accesorios reclamados, a la fecha de (sic)
 
-La apelación no procede en los juicios cuyo monto sea inferior a doscientos doce mil cuatrocientos sesenta pesos, moneda nacional, por concepto de suerte principal, sin que sean de tomarse en consideración intereses y demás accesorios reclamados, a la fecha de presentación de la demanda, dicho monto se actualizará en los términos que establece el artículo 62.
+(sic) presentación de la demanda, dicho monto se actualizará en los términos que establece el último párrafo de la fracción II del artículo 62.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -8834,33 +8848,23 @@ Del Juicio Oral Civil
 
 ### CAPITULO I. Disposiciones Generales
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(ADICIONADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
 ARTICULO 969
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 18 DE MARZO DE 2011)</small>
 
 Se tramitarán en este juicio todas las contiendas sobre la propiedad o demás derechos reales, cuyo valor de la cosa sea inferior a la cantidad que el artículo 691 establece para que un juicio sea apelable, sin que sean de tomarse en consideración intereses y demás accesorios reclamados a la fecha de interposición de la demanda, así como las contiendas sobre derechos personales cuya suerte principal sea inferior a dicha cantidad.
 
 La cantidad referida en el párrafo anterior se actualizará en la forma prevista en el artículo 62 de este Código.
 
-El Consejo de la Judicatura tendrá la obligación de hacer saber a los juzgados, tribunales y publicar en el Boletín Judicial para conocimiento general, los montos que se obtengan de la indexación para los efectos del párrafo anterior, así como de todas aquellas cantidades que en este código deban de actualizarse en los términos referidos.
+El Consejo de la Judicatura tendrá la obligación de hacer saber a los juzgados, tribunales y publicar en el Boletín Judicial para conocimiento general, los montos que se obtengan de la indexación para los efectos del párrafo anterior, así como de todas aquellas cantidades que en este código deban actualizarse en los términos referidos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+No se sustanciarán en este juicio las controversias relativas a las materias familiar y de arrendamiento inmobiliario. Contra las resoluciones pronunciadas por los jueces de proceso oral civil no se dará recurso alguno.
 
-> <small>(ADICIONADO, G.O. 18 DE MARZO DE 2011)</small>
+Tratándose de acciones personales en donde no se reclame una prestación económica, se estará al segundo párrafo del artículo 157.
 
-No se sustanciarán en este juicio las controversias relativas a las materias familiar y de arrendamiento inmobiliario.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, G.O. 18 DE MARZO DE 2011)</small>
-
-Contra las resoluciones pronunciadas por los jueces de proceso oral civil no se dará recurso alguno.
+Los medios preparatorios a juicio y las providencias precautorias se tramitarán en términos de los capítulos I y VI, respectivamente, del título quinto de este código.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -8906,17 +8910,11 @@ ARTICULO 973
 
 El juez tendrá las más amplias facultades de dirección procesal para decidir en forma pronta y expedita lo que en derecho convenga.
 
-Para hacer cumplir sus determinaciones el Juez puede emplear, cualquiera de las siguientes medidas de apremio que estime pertinentes, sin que para ello sea necesario que el juzgador se ciña al orden que a continuación se señala:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-I.- Amonestación;
+> <small>(REFORMADO, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
-II.- Multa hasta de seis mil pesos, monto que se actualizará en términos del artículo 62 de este Código;
-
-III.- El uso de la fuerza pública;
-
-IV.- Arresto hasta por treinta y seis horas.
-
-Si el Juez estima que el caso puede ser constitutivo de delito, dará parte al Ministerio Público.
+Para hacer cumplir sus determinaciones el Juez puede hacer uso de las medidas de apremio que se mencionan en el artículo 73 de este Código, en los términos que ahí se especifican.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -8926,13 +8924,13 @@ ARTICULO 974
 
 Las diligencias de desahogo de pruebas que deban verificarse fuera del juzgado, pero dentro de su ámbito de competencia territorial, deberán ser presididas por el Juez, registradas por personal técnico adscrito al Tribunal, por cualquiera de los medios referidos en el artículo 994 del presente Código y certificadas de conformidad con lo dispuesto para el desarrollo de las audiencias en el juzgado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(ADICIONADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
 ARTICULO 975
 
-La nulidad de una actuación deberá reclamarse en la audiencia subsecuente, bajo pena de quedar validada de pleno derecho, con excepción de la nulidad por defecto en el emplazamiento. La producida en la Audiencia de Juicio deberá reclamarse durante ésta.
+La nulidad de una actuación deberá reclamarse en la audiencia subsecuente, bajo pena de quedar validada de pleno derecho. La producida en la audiencia de juicio deberá reclamarse durante ésta hasta antes de que el juez pronuncie la sentencia definitiva. La del emplazamiento, por su parte, podrá reclamarse en cualquier momento hasta antes de que se dicte sentencia definitiva.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -8941,6 +8939,16 @@ La nulidad de una actuación deberá reclamarse en la audiencia subsecuente, baj
 ARTICULO 976
 
 La recusación del Juez será admisible hasta antes de la admisión de las pruebas en la Audiencia Preliminar.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+Se interpondrá ante el juez, expresándose con claridad y precisión la causa en que se funde, quien remitirá de inmediato testimonio de las actuaciones respectivas al Tribunal Superior para su resolución, quien la substanciará conforme a las reglas previstas en el capitulo V del título IV de este código.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADO, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
 Si la recusación se declara fundada, será nulo lo actuado a partir del momento en que se interpuso la recusación.
 
@@ -8952,21 +8960,21 @@ ARTICULO 977
 
 En todo lo no previsto regirán las reglas generales de este Código, en cuanto no se opongan a las disposiciones del presente Título.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(ADICIONADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
 ARTICULO 978
 
-Salvo lo dispuesto en este Título, las promociones de las partes deberán formularse oralmente durante las audiencias. Los tribunales no admitirán promociones frívolas o improcedentes y deberán desecharlas de plano, debiendo fundamentar y motivar su decisión.
+Las promociones de las partes deberán formularse oralmente durante las audiencias, con excepción de las señaladas en el artículo 982. Los tribunales no admitirán promociones frívolas o improcedentes y deberán desecharlas de plano, debiendo fundamentar y motivar su decisión.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(ADICIONADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
 ARTICULO 979
 
-En el juicio oral únicamente será notificado personalmente el emplazamiento. Las demás determinaciones se notificarán a las partes por cualquier medio electrónico o su publicación en el boletín judicial, salvo lo dispuesto para las audiencias.
+En el juicio oral únicamente será notificado personalmente el emplazamiento y el auto que admita la reconvención. Las demás determinaciones se notificarán a las partes por cualquier medio electrónico o su publicación en el boletín judicial, salvo lo dispuesto para las audiencias.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -9020,15 +9028,19 @@ Si la demanda fuere obscura o irregular, o no cumpliera con alguno de los requis
 
 El actor deberá cumplir con la prevención que haga el juez, en un plazo máximo de tres días, contados a partir del día siguiente a aquel en que surta efectos la notificación y en caso de no hacerlo, transcurrido el término, el juez la desechará precisando los puntos de la prevención que no fueron atendidos y pondrá a disposición del interesado todos los documentos originales y copias simples que se hayan exhibido con excepción de la demanda con la que se haya formado el expediente respectivo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE NOVIEMBRE DE 2012 EN LA G.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-> <small>(ADICIONADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
 ARTICULO 982
 
-En los escritos de demanda, contestación, reconvención, contestación a la reconvención y desahogo de vista de éstas, las partes ofrecerán sus pruebas, relacionándolas con los puntos controvertidos, proporcionando el nombre, apellidos y domicilio de los testigos que hubieren mencionado en los escritos señalados al principio de este párrafo; así como los de sus peritos, y la clase de pericial de que se trate con el cuestionario a resolver, que deberán rendir durante el juicio, exhibiendo las documentales que tengan en su poder o el escrito sellado mediante el cual hayan solicitado los documentos que no tuvieren en su poder en los términos del Artículo 95 de este Código.
+En los escritos de demanda, contestación, reconvención, contestación a la reconvención y desahogo de vista de éstas, las partes ofrecerán sus pruebas expresando con toda claridad cual es el hecho o hechos (sic)
 
-Si las partes no cumplen con los requisitos anteriores en los escritos que fijan la litis, el juez no podrá admitirlas aunque se ofrezcan por las partes posteriormente, salvo que importen excepción superveniente.
+Que se tratan de demostrar con las mismas, proporcionando el nombre, apellidos y domicilio de los testigos que hubieren mencionado en los escritos (sic)
+
+(sic) señalados al principio de este párrafo, así como los de sus peritos, y la clase de pericial de que se trate con el cuestionario a resolver, que deberán rendir durante el juicio, exhibiendo las documentales que tengan en su poder o el escrito sellado mediante el cual hayan solicitado los documentos que no tuvieren en su poder en los términos del artículo 95 de este Código.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -9038,15 +9050,23 @@ ARTICULO 983
 
 Admitida la demanda, el juez ordenará emplazar al demandado corriéndole traslado con copia de la misma y de los documentos acompañados a fin de que dentro del plazo de nueve días ocurra a producir su contestación por escrito.
 
+ARTICULO 984
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+Transcurrido el plazo fijado para contestar la demanda y, en su caso, la reconvención, sin que lo hubiere hecho y sin que medie petición de parte, se procederá en los términos del artículo 988. El juez examinará, escrupulosamente y bajo su más estricta responsabilidad, si el emplazamiento fue practicado al demandado en forma legal.
+
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(ADICIONADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
-ARTICULO 984
-
-Transcurrido el plazo fijado para contestar la demanda, sin que lo hubiere hecho, se hará declaración de rebeldía, sin que medie petición de parte. El juez examinará, escrupulosamente y bajo su más estricta responsabilidad, si el emplazamiento fue practicado al demandado en forma legal.
-
 Si el juez encontrara que el emplazamiento no se hizo conforme a la ley, mandará reponerlo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
 Se presumirán confesados los hechos de la demanda que se dejaren de contestar.
 
@@ -9064,13 +9084,15 @@ El escrito de contestación se formulará ajustándose a los términos previstos
 
 Del escrito de contestación se dará vista a la parte actora por el término de tres días para que la desahogue.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
 ARTICULO 986
 
-El demandado deberá dar contestación y formular en su caso reconvención. Se correrá traslado de ésta a la parte actora para que la conteste dentro de los cinco días hábiles siguientes a la fecha en que surta efectos la notificación del auto que la admita.
+El demandado, al contestar la demanda, podrá formular reconvención. Si se admite por el juez, se correrá traslado de ésta a la parte actora para que la conteste en un plazo de nueve días. Del escrito de contestación a la reconvención, se dará vista a la parte contraria por el término de tres días para que la desahogue.
+
+Si en la reconvención se reclama, por concepto de suerte principal, una cantidad superior a la que sea competencia del juez oral en términos del artículo 969, cesará de inmediato el juicio oral para que se continúe en la vía ordinaria, ante el juez que resulte competente y el juicio será apelable.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -9080,13 +9102,17 @@ ARTICULO 987
 
 El demandado podrá allanarse a la demanda; en este caso el juez citará a las partes a la audiencia de juicio, que tendrá verificativo en un plazo no mayor de diez días en la que se dictará la sentencia respectiva.
 
+ARTICULO 988
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+Desahogada la vista de la contestación a la demanda y, en su caso, de la contestación a la reconvención, o transcurridos los plazos para ello, el juez señalará de inmediato la fecha y hora para la celebración de la audiencia preliminar, la que deberá fijarse dentro de los diez días siguientes.
+
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(ADICIONADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
-
-ARTICULO 988
-
-Una vez contestada la demanda y en su caso la reconvención, o transcurridos los plazos para ello, el juez señalará de inmediato fecha y hora para la celebración de la audiencia preliminar, la que deberá fijarse dentro de los diez días siguientes.
 
 En el mismo auto, el Juez admitirá, en su caso, las pruebas que fuesen ofrecidas en relación con las excepciones procesales opuestas, para que se rindan a más tardar en la audiencia preliminar. En caso de no desahogarse las pruebas en la audiencia, se declararán desiertas por causa imputable al oferente.
 
@@ -9112,23 +9138,37 @@ ARTICULO 990
 
 Las resoluciones judiciales pronunciadas en las audiencias se tendrán por notificadas en ese mismo acto, sin necesidad de formalidad alguna a quienes estén presentes o debieron haber estado.
 
+ARTICULO 991
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+Las audiencias serán presididas por el Juez. Se desarrollarán oralmente en lo relativo a toda intervención de quienes participen en ella. Serán públicas, siguiendo en lo que les sean aplicables las reglas del artículo 398 de este código y las disposiciones aplicables de la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal.
+
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(ADICIONADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
-ARTICULO 991
-
-Las audiencias serán presididas por el Juez. Serán públicas salvo que la naturaleza del asunto impere que deban ser privadas a criterio del Juez. Se desarrollarán oralmente en lo relativo a toda intervención de quienes participen en ella.
-
 El Juez ordenará la práctica de las pruebas, dirigirá el debate y exigirá el cumplimiento de las formalidades que correspondan y moderará la discusión, podrá impedir que las alegaciones se desvíen hacia aspectos no pertinentes o inadmisibles, también podrá limitar el tiempo y número de veces del uso de la palabra a las partes que debieren intervenir, interrumpiendo a quienes hicieren uso abusivo de su derecho.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
 El Juez contará con las más amplias facultades disciplinarias para mantener el orden durante el debate, para lo cual podrá ejercer el poder de mando de la fuerza pública e imponer indistintamente las medidas de apremio a que se refiere el artículo 973, que estime más eficaces, sin seguir orden alguno.
 
-El Juez podrá ordenar la limitación del acceso de público a un número determinado de personas, también podrá impedir el acceso y ordenar la salida de aquellas que se presenten en condiciones incompatibles con la formalidad de la audiencia.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-Quienes asistan deberán permanecer en silencio mientras no estén autorizados para exponer o deban responder de forma respetuosa a las preguntas que se le realicen.
+> <small>(DEROGADO CUARTO PÁRRAFO, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
-Tampoco podrán portar elementos para molestar, ofender ó adoptar comportamiento intimidatorio o provocativo contrario al decoro ni producir disturbios, que alteren la sana conducción del procedimiento.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO QUINTO PÁRRAFO, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO SEXTO PÁRRAFO, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -9188,15 +9228,15 @@ ARTICULO 996
 
 El secretario del juzgado deberá certificar el medio en donde se encuentre registrada la audiencia respectiva, identificar dicho medio con el número de expediente y tomar las medidas necesarias para evitar que pueda alterarse.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(ADICIONADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
 ARTICULO 997
 
-Se podrá solicitar copia simple o certificada de las actas o copia en medio electrónico de los registros que obren en el procedimiento, la que deberá ser certificada en los términos del artículo anterior a costa del litigante y previo el pago correspondiente, se podrá obtener copia simple o certificada de las actas o copia en medio electrónico de los registros que obren en el procedimiento, la que deberá ser certificada en los términos del artículo anterior.
+Se podrá solicitar copia simple o certificada de las actas o copia en medio electrónico de los registros que obren en el procedimiento, la que deberá ser certificada en los términos del artículo anterior a costa del litigante y previo el pago correspondiente.
 
-En tratándose de copias simples el Tribunal debe expedir sin demora alguna, aquéllas que se le soliciten, bastando que la parte interesada lo realice verbalmente.
+Tratándose de copias simples el Tribunal debe expedir a costa del solicitante sin demora alguna, aquéllas que se le soliciten, bastando que la parte interesada lo realice verbalmente.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -9240,21 +9280,21 @@ V. La admisión de pruebas, y;
 
 VI. La citación para audiencia de juicio.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(ADICIONADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
 ARTICULO 1001
 
-La Audiencia Preliminar se llevará a cabo con o sin la asistencia de las partes. A quien no acuda sin justa causa calificada por el Juez se le impondrá una sanción a favor del colitigante que no podrá ser inferior de dos mil pesos ni superior a cinco mil pesos, monto que se actualizará en los términos del artículo 969 de este Código. El juez dictará proveído de ejecución en contra de quien no asistió.
+La Audiencia Preliminar se llevará a cabo con o sin asistencia de las partes. A quien no acuda sin justa causa calificada por el Juez se le impondrá una sanción que no podrá ser inferior de dos mil pesos ni superior a seis mil pesos, monto que se actualizará en los términos del artículo 969 de este Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(ADICIONADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
 ARTICULO 1002
 
-El Juez examinará las cuestiones relativas a la legitimación procesal y procederá, en su caso, a resolver las excepciones procesales con el fin de depurar el procedimiento.
+El Juez examinará las cuestiones relativas a la legitimación procesal y procederá, en su caso, a resolver las excepciones procesales con el fin de depurar el procedimiento; salvo las cuestiones de incompetencia, que se tramitarán conforme a la parte general de este Código.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -9282,7 +9322,11 @@ ARTICULO 1005
 
 El Juez podrá formular proposiciones a las partes para que realicen acuerdos probatorios respecto de aquellas pruebas ofrecidas a efecto de determinar cuáles resultan innecesarias.
 
-En caso de que las partes no lleguen a un acuerdo probatorio, el Juez procederá a pronunciarse respecto de la admisión de las pruebas, así como la forma en que deberán prepararse para su desahogo en la audiencia de juicio, quedando a cargo de las partes su oportuna preparación, bajo el apercibimiento que de no hacerlo se declararán desiertas de oficio las mismas por causas imputables al oferente. Las pruebas que ofrezcan las partes sólo deberán recibirse cuando estén permitidas por la ley y se refieran a los puntos cuestionados.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+En caso de que las partes no lleguen a un acuerdo probatorio, el Juez procederá a pronunciarse respecto de la admisión de las pruebas, así como la forma en que deberán prepararse para su desahogo en la audiencia de juicio, quedando a cargo de las partes su oportuna preparación, bajo el apercibimiento que de no hacerlo se declararán desiertas de oficio las mismas por causas imputables al oferente. Las pruebas que ofrezcan las partes sólo deberán recibirse cuando estén permitidas por la ley y se refieran a los puntos cuestionados y se cumplan con los demás requisitos que se señalan en este título.
 
 La preparación de las pruebas quedará a cargo de las partes, por lo que deberán presentar a los testigos, peritos y demás pruebas que les hayan sido admitidas; y sólo de estimarlo necesario, el Juez, en auxilio del oferente, expedirá los oficios o citaciones y realizará el nombramiento del perito tercero en discordia, en el entendido de que serán puestos a disposición de la parte oferente los oficios y citaciones respectivas, a afecto de que preparen sus pruebas y éstas se desahoguen en la audiencia de juicio.
 
@@ -9302,21 +9346,29 @@ ARTICULO 1006
 
 Abierta la audiencia se procederá al desahogo de las pruebas que se encuentren debidamente preparadas en el orden que el Juez estime pertinente, al efecto contará con las más amplias facultades como rector del procedimiento; dejando de recibir las que no se encuentren preparadas, las que se declararán desiertas por causas imputables al oferente; por lo que la audiencia no se suspenderá ni diferirá en ningún caso por falta de preparación o desahogo de las pruebas admitidas, salvo caso fortuito o de fuerza mayor.
 
-En la Audiencia sólo se concederá el uso de la palabra, por una vez, a cada una de las partes y por un máximo de cinco minutos para formular sus alegatos. El Juez tomará las medidas que procedan a fin de que las partes se sujeten al tiempo indicado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>(REFORMADO, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
+En la Audiencia solo se concederá el uso de la palabra, por una vez, a cada una de las partes para formular sus alegatos.
 
-Enseguida se declarará el asunto visto y citará a las partes para la continuación de la audiencia dentro del término de diez días siguientes, en la que se dictará la sentencia respectiva.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+Enseguida, se declarará el asunto visto y se dictará de inmediato la resolución correspondiente.
+
+ARTICULO 1007
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+El juez expondrá oralmente y de forma breve, los fundamentos de hecho y de derecho que motivaron su sentencia y leerá únicamente los puntos resolutivos. Acto seguido quedará a disposición de las partes copia por escrito de la sentencia que se pronuncie.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(ADICIONADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
-
-ARTICULO 1007
-
-El juez expondrá oralmente y de forma breve, los fundamentos de hecho y de derecho que motivaron su sentencia y leerá únicamente los puntos resolutivos. Acto continuo quedará a disposición de las partes copia de la sentencia.
 
 En caso de que en la fecha y hora fijada para esta audiencia no asistiere al juzgado persona alguna, se dispensará la lectura de la misma.
 
@@ -9335,6 +9387,16 @@ ARTICULO 1008
 Los incidentes que no tengan tramitación especial sólo podrán promoverse oralmente en las audiencias y no suspenderán éstas. La parte contraria contestará oralmente en la audiencia y de no hacerlo se tendrá por precluido su derecho.
 
 Tratándose de una cuestión que requiera prueba y de ser procedente su admisión, el Juez ordenará su desahogo en audiencia especial o dentro de alguna de las audiencias del procedimiento, en la cual escuchará los alegatos de las partes, en el orden que determine. Enseguida se dictará la resolución si fuera posible; en caso contrario, citará a las partes para dictarla dentro del término de tres días.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+Cuando las partes no ofrezcan pruebas o las que propongan no se admitan, el juez, sin mayores trámites, dictará la resolución correspondiente, si fuere posible; en caso contrario, citará a las partes para dictarla en audiencia en el término de tres días.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADO, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
 Si en la audiencia de juicio no pudiere concluirse una cuestión incidental, el juez continuará con el desarrollo de la audiencia, sin que pueda dictar sentencia definitiva, hasta en tanto no se resuelva el incidente.
 
@@ -9370,23 +9432,25 @@ III.- Previo el apercibimiento correspondiente, en caso de que la persona que de
 
 #### SECCION SEGUNDA. Testimonial
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(ADICIONADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
 ARTICULO 1010
 
-Cuando se trate de testigos que deban ser citados, se les apercibirá que en caso de desobediencia se les aplicará un arresto hasta por treinta y seis horas, o se les hará comparecer por medio de la fuerza pública. La citación se hará mediante cédula por lo menos con dos días de anticipación al día en que deban declarar, sin contar el día en que se verifique la diligencia ni el señalado para recibir la declaración.
+Las partes tendrán la obligación de presentar sus propios testigos, para cuyo efecto se les entregarán las cédulas de notificación. Sin embargo, cuando estuvieren imposibilitadas para hacerlo, lo manifestarán así bajo protesta de decir verdad y pedirán que se les cite. El juez ordenará la citación con el apercibimiento de que, en caso de desobediencia, se les aplicarán y se les hará comparecer mediante el uso de los medios de apremio señalados en las fracciones II y IV del artículo 73 de este Código.
 
-La prueba se declarará desierta, si aplicados los medios de apremio señalados en el párrafo anterior, no se logra la presentación de los testigos. Igualmente, en caso de que el señalamiento del domicilio de algún testigo resulte inexacto o de comprobarse que se solicitó su citación con el propósito de retardar el procedimiento, se impondrá al oferente una sanción pecuniaria a favor del colitigante que no podrá ser inferior de dos mil pesos ni superior a cinco mil pesos, monto que se actualizará en los términos previstos en el Artículo 62, el juez despachará de oficio ejecución en contra del infractor, sin perjuicio de que se denuncie la falsedad en que hubiere incurrido, declarándose desierta de oficio la prueba testimonial.
+Cuando la citación deba ser realizada por el juzgado, ésta se hará mediante cédula por lo menos con dos días de anticipación al día en que deban declarar, sin contar el día en que se verifique la diligencia de notificación, ni el señalado para recibir la declaración. Si el testigo citado de esta forma no asistiere a rendir su declaración en la audiencia programada, el juez le hará efectivo el apercibimiento realizado y reprogramará su desahogo. En este caso, podrá suspenderse la audiencia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+La prueba se declarará desierta si, aplicados los medios de apremio, no se logra la presentación de los testigos. Igualmente, en caso de que el señalamiento del domicilio de algún testigo resulte inexacto o de comprobarse que se solicitó su citación con el propósito de retardar el procedimiento, se impondrá al oferente una sanción pecuniaria a favor del colitigante hasta por la cantidad señalada en la fracción I del artículo 73 de este Código. El juez despachará de oficio ejecución en contra del infractor, sin perjuicio de que se denuncie la falsedad en que hubiere incurrido, declarándose desierta de oficio la prueba testimonial.
 
-> <small>(ADICIONADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
 ARTICULO 1011
 
-Para conocer la verdad sobre los puntos controvertidos, el Juez puede de oficio interrogar ampliamente a los testigos sobre los hechos objeto de esta prueba. Las partes también pueden interrogar a los testigos, limitándose a los hechos o puntos controvertidos, debiendo el Juez impedir preguntas ociosas o impertinentes.
+Las partes interrogaran oralmente a los testigos. Las preguntas estarán concebidas en términos claros y precisos, limitándose a los hechos o puntos controvertidos objeto de esta prueba, debiendo el juez impedir preguntas contrarias a estos requisitos, así como aquellas que resulten ociosas o impertinentes. Para conocer la verdad sobre los puntos controvertidos, el juez también puede, de oficio, interrogar ampliamente a los testigos.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -9410,7 +9474,11 @@ ARTICULO 1013
 
 Los documentos que presenten las partes podrán ser objetados en cuanto su alcance y valor probatorio, durante la etapa de admisión de pruebas en la Audiencia Preliminar. Los presentados con posterioridad deberán serlo durante la audiencia en que se ofrezcan.
 
-La impugnación de falsedad de un documento puede hacerse desde la contestación de la demanda y hasta diez días antes de la celebración de la Audiencia de Juicio.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+La impugnación de falsedad de un documento puede hacerse desde la contestación de la demanda y hasta la etapa de admisión de pruebas en la Audiencia Preliminar tratándose de los documentos presentados hasta entonces; los documentos presentados con posterioridad deberán impugnarse durante la audiencia en que se admitan.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -9418,17 +9486,17 @@ La impugnación de falsedad de un documento puede hacerse desde la contestación
 
 #### SECCION CUARTA. Pericial
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(ADICIONADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
 ARTICULO 1014
 
-Si se ofrece la prueba pericial en la demanda, la contraparte, al presentar su contestación, deberá designar perito de su parte y proponer la ampliación de otros puntos y cuestiones, además de los formulados por el oferente, para que los peritos dictaminen.
+Si se ofrece la prueba pericial en la demanda o en la reconvención, la contraparte, al presentar su contestación, deberá designar el perito de su parte, proporcionando el nombre, apellidos y domicilio de éste, y proponer la ampliación de otros puntos y cuestiones, además de los formulados por el oferente, para que los peritos dictaminen.
 
-En el caso de que la prueba pericial se ofrezca al contestar la demanda, formular la reconvención o contestar esta última, la contraria deberá designar el perito de su parte en la misma forma que el párrafo anterior, dentro de los cinco días siguientes al auto que recaiga a los escritos de referencia.
+En caso de que la prueba pericial se ofrezca al contestar la demanda o al contestar la reconvención, la contraria, al presentar el escrito en el que desahogue la vista de éstas, deberá designar el perito de su parte en la misma forma que el párrafo anterior.
 
-De estar debidamente ofrecida, el juez la admitirá y los peritos deberán exhibir por escrito el dictamen correspondiente en un plazo de diez días, salvo que existiera causa bastante por la que tuviere que modificarse la fecha de inicio del plazo originalmente concedido.
+De estar debidamente ofrecida, el juez la admitirá en la etapa correspondiente y señalará un plazo de diez días para exhibir el dictamen respectivo, salvo que existiera causa bastante por la que tuviere que modificarse la fecha de inicio del plazo originalmente concedido.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -9440,17 +9508,21 @@ En caso de que alguno de los peritos de las partes no exhiba su dictamen dentro 
 
 Cuando los dictámenes exhibidos resulten substancialmente contradictorios de tal modo que el juez considere que no es posible encontrar conclusiones que le aporten elementos de convicción, podrá designar un perito tercero en discordia. A este perito deberá notificársele para que dentro del plazo de tres días, presente escrito en el que acepte el cargo conferido y proteste su fiel y legal desempeño; así mismo señalará el monto de sus honorarios, en los términos de la legislación correspondiente o, en su defecto los que determine, mismos que deben ser autorizados por el juez, y serán cubiertos por ambas partes en igual proporción.
 
-El perito tercero en discordia deberá rendir su peritaje precisamente en la audiencia de Juicio, y su incumplimiento dará lugar a que el tribunal le imponga como sanción pecuniaria, en favor de las partes, el importe de una cantidad igual a la que cotizó por sus servicios al aceptar y protestar el cargo. En el mismo acto, el tribunal dictará proveído de ejecución en contra de dicho perito tercero en discordia, además de hacerlo saber al Consejo de la Judicatura del Distrito Federal, a la asociación, colegio de profesionistas o institución que lo hubiera propuesto por así haberlo solicitado el juez, para los efectos correspondientes independientemente de las sanciones administrativas y legales a que haya lugar.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+El perito tercero en discordia deberá rendir su peritaje precisamente en la audiencia de juicio, y su incumplimiento dará lugar a que el juez le imponga como sanción pecuniaria, en favor de las partes y de manera proporcional a cada una de ellas, el importe de una cantidad igual a la que cotizó por sus servicios al aceptar y protestar el cargo. En el mismo acto, el juez dictará proveído de ejecución en contra de dicho perito tercero en discordia, además de hacerla saber al Consejo de la Judicatura del Distrito Federal, a la asociación, colegio de profesionistas o institución que lo hubiera propuesto por así haberlo solicitado el juez, para los efectos correspondientes, independientemente de las sanciones administrativas y legales a que haya lugar.
 
 En el supuesto del párrafo anterior, el juez designará otro perito tercero en discordia y, de ser necesario, suspenderá la audiencia para el desahogo de la prueba en cuestión.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(ADICIONADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
 ARTICULO 1016
 
-Los peritos asistirán a la audiencia respectiva con el fin de exponer verbalmente las conclusiones de sus dictámenes, a efecto de que se desahogue la prueba con los exhibidos y respondan las preguntas que el Juez o las partes les formulen. En caso de no asistir los peritos designados por las partes, se tendrá por no rendido su dictamen y de no presentarse el perito tercero en discordia se le impondrá una sanción pecuniaria equivalente a la cantidad que cotizó por sus servicios, en favor de las partes.
+Los peritos asistirán a la audiencia respectiva con el fin de exponer verbalmente las conclusiones de sus dictámenes, a efecto de que se desahogue la prueba con los exhibidos y respondan las preguntas que el juez o las partes les formulen, debiendo acreditar, en la misma audiencia y bajo su responsabilidad, su calidad científica, técnica, artística o industrial para el que fueron propuestos, con el original o copia certificada de su cédula profesional o el documento respectivo. En caso de no asistir los peritos designados por las partes, se tendrá por no rendido su dictamen y de no presentarse el perito tercero en discordia se le impondrá una sanción pecuniaria equivalente a la cantidad que cotizó por sus servicios, en favor de las partes, en igual proporción.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -9466,7 +9538,11 @@ ARTICULO 1017
 
 Después de la demanda y contestación, reconvención y contestación a la reconvención en su caso, no se admitirán al actor ni al demandado, respectivamente, otros documentos que los que se hallen en alguno de los casos siguientes: 1.- Ser de fecha posterior a dichos escritos; 2.- Los anteriores respecto de los cuales, protestando decir verdad, asevere la parte que los presente no haber tenido antes conocimiento de su existencia; 3.- Los que no haya sido posible adquirir con anterioridad por causas que no sean imputables a la parte interesada.
 
-Cuando alguna de las partes tenga conocimiento de una prueba documental superveniente, deberá ofrecerla hasta antes de que concluya la Audiencia de Juicio y el Juez, oyendo previamente a la parte contraria en la misma audiencia, resolverá lo conducente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+Cuando alguna de las partes tenga conocimiento de una prueba documental superveniente, deberá ofrecerla hasta antes de que se declare visto el asunto, y el Juez, oyendo previamente a la parte contraria en la misma audiencia, resolverá lo conducente.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -10449,3 +10525,17 @@ Primero.- Aquellos testamentos públicos cerrados, públicos simplificados, oló
 Segundo.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 Tercero.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 20 DE SEPTIEMBRE DE 2012.
+
+Primero. Publíquese en la Gaceta Oficial del Distrito Federal.
+
+Segundo. El presente Decreto entrará en vigor, el primero de enero de dos mil trece, con la excepción prevista en el transitorio siguiente.
+
+Tercero. La reforma prevista para el párrafo tercero del artículo 691 del Código de Procedimientos Civiles para el Distrito Federal, entrará en vigor a partir del día siguiente de la publicación del presente decreto.
+
+El importe de $500,000.00 se adecuará para el año 2013 con base en la variación observada por la inflación en el valor del Índice Nacional de Precios al Consumidor, publicado por el Instituto Nacional de Estadística y Geografía, entre el mes de noviembre de 2012 y el mes de noviembre de 2011. Esto con el fin de que el 1° de enero de 2013 la inapelabilidad, la justicia oral y lo que se relacione con ellas, en materia mercantil y civil tomen en cuenta el mismo monto de suerte principal. Después de 2013 la actualización se realizará en términos del artículo 62 del Código de Procedimientos Civiles para el Distrito Federal.
+
+Cuarto. Los asuntos cuya demanda haya sido admitida con anterioridad a la entrada en vigor de las reformas a que se refiere el presente decreto, en los términos de los transitorios segundo y tercero, se tramitarán conforme a las disposiciones anteriores a él.
+
+Quinto. Se derogan todas aquellas disposiciones que se opongan al presente decreto.
