@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-de-la-secretaria-de-salud-publica-68692"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-25"
-last_updated: "2009-05-25"
+last_updated: "2012-09-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68692&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE SALUD PUBLICA
 
-REGLAMENTO INTERIOR DE LA SECRETARÍA DE SALUD PÚBLICA PARA EL ESTADO DE SONORA
+REGLAMENTO INTERIOR DE LA SECRETARIA DE SALUD PÚBLICA PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE SEPTIEMBRE DE 2012.
 
 Reglamento publicado en la Sección Segunda del Boletín Oficial del Gobierno del Estado de Sonora, el lunes 25 de mayo de 2009.
 
@@ -37,17 +37,19 @@ REGLAMENTO INTERIOR DE LA SECRETARÍA DE SALUD PÚBLICA
 
 La Secretaría de Salud Pública, como dependencia del Poder Ejecutivo Estatal, tiene a su cargo el despacho de los asuntos que expresamente le confiere la Ley Orgánica del Poder Ejecutivo del Estado de Sonora, la Ley de Salud para el Estado de Sonora y los demás que así se indiquen en otras leyes de carácter local, así como los reglamentos, decretos, acuerdos, circulares y órdenes del Gobernador del Estado.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 2º.
 
-Para la atención, estudio, planeación y resolución de los asuntos de su competencia, la Secretaría de Salud Pública contará con las unidades administrativas y órganos desconcentrados siguientes:
+Al frente de la Secretaría está el Secretario, quien para la atención, estudio, planeación y resolución de los asuntos de su competencia, la Secretaría contará con las siguientes unidades administrativas y órganos desconcentrados:
 
 I.- Unidades Administrativas:
 
-a) Secretaría;
+a) Oficina del Titular de la Secretaría;
 
 b) Subsecretaría de Servicios de Salud;
 
-c) Subsecretaría de Administración;
+c) Subsecretaría de Administración y Finanzas;
 
 d) Dirección General de Servicios de Salud a la Comunidad;
 
@@ -55,13 +57,13 @@ e) Dirección General de Servicios de Salud a la Persona;
 
 f) Dirección General de Enseñanza y Calidad;
 
-g) Dirección de Regulación de Servicios de Salud;
+g) Dirección General de Administración;
 
-h) Dirección General de Administración;
+h) Dirección General de Planeación y Desarrollo;
 
-i) Dirección General de Innovación y Desarrollo;
+i) Dirección de Tecnologías de la Información y Comunicaciones;
 
-j) Dirección General de Protección Contra Riesgos Sanitarios;
+j) Dirección de Infraestructura Física;
 
 k) Dirección General de Asistencia Social;
 
@@ -75,11 +77,11 @@ II.- Órganos Desconcentrados:
 
 a) Junta de Asistencia Privada;
 
-b) Unidades de Control Sanitario; y
+b) Comisión Estatal de Protección contra Riesgos Sanitarios del Estado de Sonora;
 
-c) Comisión de Arbitraje Médico del Estado de Sonora.
+c) Comisión de Arbitraje Médico del Estado de Sonora; y
 
-Se anexa organigrama estructural.
+d) Comisión Estatal de Bioética.
 
 ###### ARTÍCULO 3°.
 
@@ -241,9 +243,11 @@ VIII.- Evaluar la impartición de la atención médica y sus servicios auxiliare
 
 IX.- Las demás que le confieran las disposiciones legales aplicables y el Secretario, dentro de la esfera de sus atribuciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 8°.
 
-A la Subsecretaría de Administración le corresponden las siguientes atribuciones:
+A la Subsecretaría de Administración y Finanzas le corresponden las siguientes atribuciones:
 
 I.- Dirigir la elaboración del Programa Operativo Anual, del Programa Presupuesto y de los Informes Trimestral y Anual de la Cuenta de la Hacienda Pública de la Secretaría, de acuerdo a las políticas, normas y procedimientos aplicables;
 
@@ -259,21 +263,35 @@ VI.- Dirigir la integración del Programa de Inversión y la conservación y man
 
 VII.- Fomentar la mejora de los procesos administrativos orientados a eficientar la toma de decisiones en los diferentes ámbitos de la Secretaría, así como la prestación de los servicios y optimización de los recursos;
 
-VIII.- Dirigir el diseño e implementación de proyectos de infraestructura tecnológica y sistematización, atendiendo las necesidades de las diferentes unidades administrativas de la Secretaría; y
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
-IX.- Las demás que le confieran las disposiciones legales aplicables y el Secretario, dentro de la esfera de sus atribuciones.
+VIII.- Dirigir el diseño e implementación de proyectos de infraestructura tecnológica y sistematización, atendiendo las necesidades de las diferentes unidades administrativas de la Secretaría;
 
-### CAPÍTULO V. DE LAS ATRIBUCIONES GENÉRICAS DE LAS DIRECCIONES GENERALES, DE LAS UNIDADES Y DE LA DIRECCIÓN
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+IX.- Vigilar el cumplimiento de la aplicación de las políticas, normas y procedimientos para la racionalización, austeridad, disciplina y distribución del gasto, de conformidad con los lineamientos que en la materia señalen las Secretarías de Hacienda y de la Contraloría General; y
+
+> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+X.- Las demás que le confieran las disposiciones legales aplicables y el Secretario, dentro de la esfera de sus atribuciones.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+### CAPÍTULO V. DE LAS ATRIBUCIONES GENÉRICAS DE LAS DIRECCIONES GENERALES, DIRECCIONES Y DE LAS UNIDADES
+
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 9°.
 
-Al frente de cada una de las Direcciones Generales y Unidades, habrá un Director General y de la Dirección un Director, quienes técnica y administrativamente serán los responsables del funcionamiento de la unidad administrativa a su cargo; y se auxiliarán, según corresponda, por el personal técnico y administrativo, que las necesidades del servicio requieran y figuren en el presupuesto.
+Al frente de cada una de las Direcciones Generales y Unidades habrá un Director General y de las Direcciones un Director, quienes técnica y administrativamente serán los responsables del funcionamiento de la unidad administrativa a su cargo; y se auxiliarán, según corresponda, por el personal técnico y administrativo, que las necesidades del servicio requieran y figuren en el presupuesto.
 
-Con excepción a lo anterior, los titulares y el personal de las Direcciones Generales de Servicios de Salud a la Comunidad, de Servicios de Salud a la Persona, de Enseñanza y Calidad, de Administración y de Innovación y Desarrollo, así como de la Unidad de Asuntos Jurídicos, no percibirán dos sueldos por las funciones que desarrollen tanto en la Secretaría como en los Servicios de Salud de Sonora, atendiendo lo dispuesto en el artículo 152 de la Constitución Política del Estado de Sonora.
+Con excepción a lo anterior, los titulares y el personal de las Direcciones Generales de Servicios de Salud a la Comunidad, de Servicios de Salud a la Persona, de Enseñanza y Calidad, de Administración, de Planeación y Desarrollo, de Asistencia Social, de la Unidad de Asuntos Jurídicos, así como de las Direcciones de Tecnologías de la Información y Comunicaciones y de Infraestructura Física, no percibirán dos sueldos por las funciones que desarrollen tanto en la Secretaría como en los Servicios de Salud de Sonora, atendiendo lo dispuesto en el artículo 152 de la Constitución Política del Estado de Sonora.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 10.
 
-Las Direcciones Generales, Unidades y Dirección, tendrán las siguientes atribuciones genéricas:
+Las Direcciones Generales, Direcciones, Unidades y Comisiones, tendrán las siguientes atribuciones genéricas:
 
 I.- Planear, programar, organizar, dirigir, ejecutar, controlar y evaluar el desarrollo de los programas y acciones encomendadas a la unidad administrativa bajo su responsabilidad;
 
@@ -281,9 +299,13 @@ II.- Acordar con el superior jerárquico el trámite, resolución y despacho de 
 
 III.- Proponer al superior jerárquico, de acuerdo a los requerimientos técnicos de sus funciones, la organización interna de la unidad administrativa a su cargo, así como la fusión o desaparición de las áreas que integren la misma;
 
-IV.- Establecer los mecanismos de coordinación, programación, información, control, evaluación y de mejoramiento de la eficiencia operativa en la unidad administrativa a su cargo, de acuerdo con las disposiciones que emita el Secretario;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
-V.- Participar, conforme a los lineamientos establecidos por la Secretaría de la Contraloría General, en la elaboración y actualización de los manuales de organización, de procedimientos y de trámites y servicios al público de la unidad administrativa a su cargo;
+IV.- Establecer los mecanismos de coordinación, programación, información, control, evaluación e implementación de la mejora continua para incrementar la eficiencia y eficacia operativa en la unidad administrativa a su cargo, de acuerdo a la normatividad aplicable y disposiciones que emita el Secretario;
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+V.- Participar, conforme a los lineamientos establecidos, en la elaboración y actualización de cartas compromiso al ciudadano, así como de los manuales de organización, de procedimientos y de servicios al público de la unidad administrativa a su cargo;
 
 VI.- Prestar el apoyo técnico para la definición de las políticas, lineamientos y criterios necesarios para la formulación, revisión, actualización, seguimiento y evaluación de los programas del sector, de los programas y proyectos estratégicos que de ellos se deriven, así como del Programa Operativo Anual;
 
@@ -325,7 +347,9 @@ XXIV.- Coadyuvar en el cumplimiento de la normatividad expedida para el control,
 
 XXV.- Las demás que le confieran las disposiciones legales aplicables y el Secretario, dentro de la esfera de sus atribuciones.
 
-### CAPÍTULO VI. DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS DIRECCIONES GENERALES, UNIDADES Y DIRECCIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+### CAPÍTULO VI. DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS DIRECCIONES GENERALES, DIRECCIONES Y UNIDADES
 
 ###### ARTÍCULO 11.
 
@@ -421,29 +445,17 @@ XIX.- Las demás que le confieran las disposiciones legales aplicables y el Secr
 
 ###### ARTÍCULO 14.
 
-La Dirección de Regulación de Servicios de Salud estará adscrita a la Subsecretaría de Servicios de Salud, y tendrá el cumplimiento de las siguientes atribuciones:
+(DEROGADO, P.O. 20 DE SEPTIEMBRE DE 2012)
 
-I.- Dirigir, ejercer, ordenar y ejecutar, en coordinación con la Dirección General de Protección Contra Riesgos Sanitarios, las acciones de verificación y control sanitario en los establecimientos de salud, en materia de atención médica y en los términos de la Ley General de Salud, reglamentos, convenios y Normas Oficiales Mexicanas aplicables;
-
-II.- Dirigir, coordinar, ordenar y ejecutar las acciones de regulación, control y verificación médico sanitaria en establecimientos y prestadores de servicios de salud, medicina transfusional y asistencia social de los sectores público, social y privado, fijos o móviles, tales como: hospitales, clínicas, sanatorios, maternidades, consultorios, laboratorios, ambulancias, servicios auxiliares de diagnóstico o tratamiento que no emitan radiaciones ionizantes, bancos de sangre, servicios de transfusión, puestos de sangrado, guarderías, asilos, albergues y similares;
-
-III.- Emitir las órdenes de verificación médico sanitaria para establecimientos y prestadores de servicios previstos en la fracción anterior; dictaminar las actas de verificación e imponer y ejecutar las medidas de seguridad y sanciones previstas en los ordenamientos legales aplicables;
-
-IV.- Expedir y, en su caso, revocar las autorizaciones sanitarias que se refieran a establecimientos y prestadores de servicios de salud, medicina transfusional, asistencia social, gabinetes de diagnóstico, y otros servicios auxiliares, en concordancia a lo previsto en los acuerdos y convenios de descentralización;
-
-V.- Funcionar como ventanilla asesora, receptora y gestora de trámites, para aquellas autorizaciones sanitarias de establecimientos de salud en materia de atención médica que se emitan a nivel federal;
-
-VI.- Investigar los asuntos que turne la superioridad y rendir opinión técnica cuando se le solicite;
-
-VII.- Proporcionar actualización normativa, capacitación y asesoría en materia de legislación y normatividad sanitaria, a responsables y personal de las instituciones del sector salud que lo soliciten; y
-
-VIII.- Las demás que le confieran las disposiciones legales aplicables y el Secretario, dentro de la esfera de sus atribuciones.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 15.
 
-La Dirección General de Administración estará adscrita a la Subsecretaría de Administración, y tendrá el cumplimiento de las siguientes atribuciones:
+La Dirección General de Administración estará adscrita a la Subsecretaría de Administración y Finanzas y tendrá el cumplimiento de las siguientes atribuciones:
 
-I.- Proponer al Subsecretario de Administración las políticas, normas, sistemas y procedimientos para la administración y control de los recursos humanos asignados a la Secretaría, de acuerdo a los lineamientos y normatividad aplicable;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+I.- Proponer al Subsecretario de Administración y Finanzas las políticas, normas sistemas y procedimientos para la administración y control de los recursos humanos asignados a la Secretaría, de acuerdo a los lineamientos y normatividad aplicable.
 
 II.- Coordinar, operar y supervisar los sistemas de administración y control del personal en apego a las disposiciones legales aplicables;
 
@@ -453,25 +465,41 @@ IV.- Dirigir la aplicación de las políticas, normas y procedimientos referente
 
 V.- Proponer las políticas, normas, sistemas y procedimientos para la administración y control de los recursos materiales;
 
-VI.- Impulsar la mejora de los procesos administrativos orientados a mejorar la toma de decisiones en los diferentes ámbitos de la Secretaría, así como la prestación de los servicios y optimización de los recursos;
+VI.- (DEROGADA, P.O. 20 DE SEPTIEMBRE DE 2012)
 
-VII.- Dirigir, diseñar e implementar proyectos de infraestructura tecnológica y sistematización, atendiendo las necesidades de las diferentes unidades administrativas de la Secretaría;
+VII.- (DEROGADA, P.O. 20 DE SEPTIEMBRE DE 2012)
 
-VIII.- Establecer coordinación con la Coordinación Ejecutiva de Gestión de Tecnología Administrativa y Digital de la Secretaría de la Contraloría General para la dictaminación de las necesidades de equipo de cómputo, mantenimiento e insumos;
+VIII.- (DEROGADA, P.O. 20 DE SEPTIEMBRE DE 2012)
 
-IX.- Implementar y mantener el sistema integral de archivos, así como elaborar los procedimientos, normatividad de control de administración documental y criterios específicos de organización de archivos, de acuerdo a la normatividad en la materia; y
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
-X.- Las demás que le confieran las disposiciones legales aplicables y el Secretario, dentro de la esfera de sus atribuciones.
+IX.- Implementar y mantener el sistema integral de archivos, así como elaborar los procedimientos, normatividad de control de administración documental y criterios específicos de organización de archivos, de acuerdo a la normatividad en la materia;
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+X.- Elaborar los Programas Internos de Protección Civil y de Seguridad e Higiene, en coordinación con las unidades administrativas y órganos desconcentrados de la Secretaría de conformidad con los lineamientos y normatividad aplicables en esas materias;
+
+> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+XI.- Implementar políticas y procedimientos en materia de seguridad e higiene para la prevención de accidentes y riesgos de salud, de acuerdo a la normatividad establecida en la materia; y
+
+> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+XII.- Las demás que le confieran las disposiciones legales aplicables y el superior jerárquico, dentro de la esfera de sus atribuciones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 16.
 
-La Dirección General de Innovación y Desarrollo estará adscrita a la Subsecretaría de Administración, y tendrá el cumplimiento de las siguientes atribuciones:
+La Dirección General de Planeación y Desarrollo estará adscrita a la Subsecretaría de Administración y Finanzas, y tendrá el cumplimiento de las siguientes atribuciones:
 
 I.- Integrar y evaluar la ejecución del Programa de Mediano Plazo de Salud, en coordinación con las instituciones públicas, sociales y privadas, de acuerdo a las políticas, normas y procedimientos aplicables;
 
 II.- Coordinar las reuniones del Comité Estatal de Información para la Salud, así como integrar la información estadística estatal en la materia;
 
-III.- Coordinar, controlar y supervisar la formulación, integración, ejercicio y control del Programa Operativo Anual; así como autorizar sus adecuaciones, asesorando a las diferentes áreas en su manejo y aplicación, y proporcionar la información que solicite al respecto el Subsecretario de Administración;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+III.- Coordinar, integrar y actualizar, en su caso, el Programa Operativo Anual y el presupuesto de egresos de la Secretaría, de acuerdo a las políticas, normas y procedimientos aplicables, así como proponer a la Secretaría de Hacienda las modificaciones presupuestales, asesorando a las diferentes áreas en su manejo y aplicación, y proporcionar la información que solicite al respecto el Subsecretario de Administración y Finanzas;
 
 IV.- Integrar y difundir para su aplicación las políticas, normas y lineamientos para la elaboración, ejercicio y control del presupuesto de egresos;
 
@@ -485,41 +513,69 @@ VIII.- Mantener permanentemente actualizado el Reglamento Interior de la Secreta
 
 IX.- Organizar, operar, coordinar y difundir los sistemas de información de estadística y de evaluación requeridos para el funcionamiento de la Secretaría, con base en la normatividad establecida;
 
-X.- Diseñar e implementar los sistemas para la transformación operativa informática, conforme a las políticas y lineamientos aplicables y atendiendo las necesidades de las unidades aplicativas de la Secretaría;
+X.- (DEROGADA, P.O. 20 DE SEPTIEMBRE DE 2012)
 
-XI.- Proyectar, promover, ejecutar y supervisar los mecanismos de evaluación y seguimiento a los programas y proyectos especiales, con el propósito de optimizar la asignación de recursos, el mejoramiento de la productividad, la calidad de los servicios y la racionalización de la tecnología en las unidades administrativas, emitiendo los informes de resultados que apoyen la toma de decisiones; y
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
-XII.- Las demás que le confieran las disposiciones legales aplicables y el Secretario, dentro de la esfera de sus atribuciones.
+XI.- Proyectar, promover, ejecutar y supervisar los mecanismos de evaluación y seguimiento a los programas y proyectos especiales, con el propósito de optimizar la asignación de recursos y el mejoramiento de la productividad de la Secretaría, emitiendo informes de resultados que apoyen la toma de decisiones;
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+XII.- Dar seguimiento a los acuerdos derivados del Consejo Nacional de Salud, así como integrar los informes de avances de los mismos;
+
+> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+XIII.- Realizar el análisis, planeación y actualización del Plan Maestro de Infraestructura Física en Salud, así como proponer las prioridades de inversión y de gasto corriente, de acuerdo a las necesidades de salud de la población y a las propuestas de mejoramiento en la prestación de servicios de salud;
+
+> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+XIV.- Elaborar los anteproyectos de inversión y gestionar la aplicación de recursos de todo tipo de bienes y de actividades que incrementen el patrimonio de la Secretaría; y
+
+> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+XV.- Las demás que le confieran las disposiciones legales aplicables y el superior jerárquico, dentro de la esfera de sus atribuciones.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+###### ARTÍCULO 16 Bis.
+
+La Dirección de Tecnologías de la Información y Comunicaciones estará adscrita a la Subsecretaría de Administración y Finanzas y tendrá el cumplimiento de las siguientes atribuciones:
+
+I.- Conducir el desarrollo informático y promover el aprovechamiento de las tecnologías de la información y comunicaciones como herramienta estratégica para mejorar la productividad y la calidad de la Secretaría de Salud Pública, en coordinación con la Oficina de Innovación Gubernamental del Ejecutivo Estatal;
+
+II.- Proponer, desarrollar e implementar las políticas y estándares técnicos aplicables para el uso innovador de las tecnologías de la información y comunicaciones en la Secretaría, de conformidad con lo establecido por el Comité de Desarrollo Tecnológico de la Administración Pública Estatal;
+
+III.- Fomentar el Programa de Capacitación en Informática y Comunicaciones, para fortalecer el uso de las tecnologías de información en la Secretaría, con apego a lo establecido por el Comité de Desarrollo Tecnológico de la Administración Pública Estatal;
+
+IV.- Determinar acerca de las necesidades de uso de tecnología de la información e infraestructura de telecomunicaciones, así como de proyectos de informática y de desarrollo e implantación de sistemas automatizados de información, gestionando el dictamen técnico ante la Secretaría de la Contraloría General;
+
+V.- Diseñar, operar y mantener vigentes los sistemas que permitan manejar con rapidez y calidad la información que se genera y compartirla en red entre las diversas unidades administrativas y órganos desconcentrados de la Secretaría;
+
+VI.- Colaborar con instancias públicas, sociales y privadas en el ámbito estatal, nacional e internacional para el aprovechamiento y desarrollo de la tecnología de la información en materia de salud;
+
+VII.- Distribuir, controlar y supervisar el uso y llenado de los certificados de nacimiento entregados a instituciones del Sector Público y privado en el Estado de Sonora; y
+
+VIII.- Las demás que le confieran las disposiciones legales aplicables y el superior jerárquico, dentro de la esfera de sus atribuciones.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+###### ARTÍCULO 16 Bis 1.
+
+La Dirección de Infraestructura Física estará adscrita a la Subsecretaría de Administración y Finanzas y tendrá el cumplimiento de las siguientes atribuciones:
+
+I.- Asesorar y apoyar técnica y normativamente a las unidades administrativas y órganos desconcentrados de la Secretaría, para el seguimiento de proyectos de obra pública y estrategias de modernización y calidad aplicadas a obras y conservación de la infraestructura física;
+
+II.- Realizar los procedimientos de contratación en materia de obra pública y servicios relacionados con las mismas, así como elaborar, formalizar y tramitar los contratos y convenios, sujetándose a la normatividad aplicable según el origen del recurso;
+
+III.- Proponer al Secretario la celebración de convenios con el Gobierno Federal, a fin de vincular las acciones de obras y proyectos de la Secretaría con la de la Dirección General de Desarrollo de la Infraestructura Física de la Secretaría de Salud del Gobierno Federal, así como para unificar criterios normativos en el desarrollo de la infraestructura física en salud en el Estado;
+
+IV.- Coadyuvar con la Dirección General de Planeación y Desarrollo en la elaboración del Plan Maestro de Infraestructura Física en Salud, en la integración de los proyectos de inversión tanto en el aspecto técnico como financiero de las obras, así como establecer los mecanismos necesarios para su formulación, evaluación y seguimiento; y
+
+V.- Las demás que le confieran las disposiciones legales aplicables y el Secretario, dentro de la esfera de sus atribuciones.
 
 ###### ARTÍCULO 17.
 
-La Dirección General de Protección Contra Riesgos Sanitarios estará adscrita directamente al Secretario, y tendrá el cumplimiento de las siguientes atribuciones:
-
-I.- Vigilar, en el ámbito de su competencia, el cumplimiento de la Ley General de Salud, de la Ley de Salud para el Estado de Sonora y demás disposiciones que se dicten con base en ellas;
-
-II.- Planear, organizar, coordinar y dirigir las acciones de control y fomento sanitario en establecimientos, industrias, productos, transportes, actividades y servicios en materia de salud ambiental, insumos para la salud, sanidad internacional, publicidad sanitaria, regulación de servicios de salud de atención médica, productos y servicios, de acuerdo a los programas de salud y en estricto apego a la Ley General de Salud y demás disposiciones aplicables;
-
-III.- Planear, administrar, organizar y coordinar el ejercicio de las funciones de operación, regulación, control y fomento sanitario de las Unidades de Control Sanitario del Estado, de acuerdo a los programas prioritarios de salud y en estricto apego a la legislación sanitaria vigente;
-
-IV.- Elaborar y ejecutar los programas de apoyo para la realización de sus funciones en materia de protección contra riesgos sanitarios;
-
-V.- Establecer las normas, políticas, criterios, sistemas y procedimientos de carácter técnico que deban regir en los departamentos y unidades adscritas a su responsabilidad;
-
-VI.- Expedir y revocar, en su caso, las autorizaciones sanitarias en el ámbito de su competencia, conforme a los acuerdos y convenios que se suscriban y a la legislación aplicable;
-
-VII.- Funcionar como ventanilla asesora, receptora y gestora de trámites, para aquellas autorizaciones sanitarias en materia de control y fomento sanitario que se emitan a nivel federal, conforme a los acuerdos y convenios que se suscriban y a la legislación aplicable;
-
-VIII.- Llevar a cabo la verificación sanitaria de establecimientos materia de su competencia, emitiendo las órdenes de visita, el dictamen de las actas, emitiendo resoluciones para que el infractor corrija las anomalías sanitarias detectadas, además de resolver sobre la aplicación de las medidas de seguridad e imposición de sanciones administrativas que correspondan, según lo establezca la legislación sanitaria vigente;
-
-IX.- Participar, en coordinación con la Unidad de Asuntos Jurídicos, en los procesos y recursos administrativos que se instauren con motivo de las violaciones a la legislación sanitaria, contenidas en las actas de verificación que se levanten y remitir a la autoridad fiscal las resoluciones que impongan sanciones económicas;
-
-X.- Promover acciones orientadas a mejorar las condiciones sanitarias de los establecimientos, productos, servicios y actividades materia de su competencia;
-
-XI.- Participar en los acuerdos y convenios que en materia de protección contra riesgos sanitarios suscriba la Secretaría con los municipios del Estado;
-
-XII.- Establecer, desarrollar y evaluar programas de orientación al público que faciliten el cumplimiento de la legislación sanitaria y que propicien la realización de los trámites en forma expedita; y
-
-XIII.- Las demás que le confieran las disposiciones legales aplicables y el Secretario, dentro de la esfera de sus atribuciones.
+(DEROGADO, P.O. 20 DE SEPTIEMBRE DE 2012)
 
 ###### ARTÍCULO 18.
 
@@ -557,7 +613,7 @@ II.- Opinar en el establecimiento de políticas, mecanismos y estrategias para i
 
 III.- Contribuir a la coordinación y desarrollo del Sistema Estatal de Salud, procurando su congruencia en el Sistema Nacional de Salud, así como propiciar y apoyar las acciones específicas para la consolidación de los sistemas municipales de salud;
 
-IV.- Propiciar el proceso de planeación de la salud de las entidades que le corresponde coordinar sectorialmente, de acuerdo con los lineamientos establecidos por la Secretaría de Hacienda;
+IV.- (DEROGADA, P.O. 20 DE SEPTIEMBRE DE 2012)
 
 V.- Contribuir para el establecimiento y coordinación del Sistema Estatal de información en Salud, con la participación de las instituciones públicas, sociales y privadas del sector salud;
 
@@ -565,9 +621,25 @@ VI.- Proponer e instrumentar mecanismos de concertación con los sectores social
 
 VII.- Apoyar al Secretario, coordinadamente con la Unidad de Asuntos Jurídicos, en la elaboración de convenios y acuerdos de colaboración con otras dependencias y entidades de la Administración Pública Federal, Estatal y Municipal;
 
-VIII.- Impulsar los programas de salud pública de los Municipios de la frontera norte del Estado, así como intervenir, cuando así lo soliciten, con las unidades administrativas competentes para la elaboración de proyectos en la materia; y
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
-IX.- Las demás que le confieran las disposiciones legales aplicables y el Secretario, dentro de la esfera de sus atribuciones.
+VIII.- Promover y coordinar las actividades de la Secretaría con las diferentes organizaciones binacionales e internacionales en el Estado e intervenir y colaborar, cuando lo soliciten las unidades administrativas competentes para la elaboración de proyectos en la materia;
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+IX.- Impulsar la oferta de servicios de salud especializados, competitivos y de calidad internacional para la atención de pacientes extranjeros;
+
+> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+X.- Impulsar la asistencia en el retiro para población extranjera, así como coordinar acciones con instituciones federales y estatales para su funcionamiento en el Estado de Sonora, en el marco del Decreto que crea el Consejo Consultivo de Turismo en Salud en el Estado de Sonora;
+
+> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+XI.- Fungir como suplente del Secretario ante los Consejos Consultivos de los que forme parte, de las diferentes Instituciones Públicas, Sociales y Privadas; y
+
+> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+XII.- Las demás que le confieran las disposiciones legales aplicables y el Secretario, dentro de la esfera de sus atribuciones.
 
 ###### ARTÍCULO 20.
 
@@ -589,9 +661,17 @@ VII.- Contribuir al cumplimiento de la legislación laboral y de las condiciones
 
 VIII.- Sustanciar el trámite de los recursos que se interpongan en contra de las resoluciones dictadas por las unidades administrativas de la Secretaría y elaborar el proyecto de resolución correspondiente;
 
-IX.- Certificar copias de documentos generados por la Secretaría para la expedición, entrega y exhibición de testimonios de los mismos en los juicios y asuntos legales o jurídicos y administrativos que tramite en ejercicio de sus atribuciones; y
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
-X.- Las demás que le confieran las disposiciones legales aplicables y el Secretario, dentro de la esfera de sus atribuciones.
+IX.- Certificar copias de documentos generados por la Secretaría para la expedición, entrega y exhibición de testimonios de los mismos en los juicios y asuntos legales o jurídicos y administrativos que trámite en ejercicio de sus atribuciones;
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+X.- Fungir como Titular de la Unidad de Enlace de la Secretaría, conforme a los previsto en la Ley de Acceso a la Información Pública del Estado de Sonora; y
+
+> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+XI.- Las demás que le confieran las disposiciones legales aplicables y el Secretario, dentro de la esfera de sus atribuciones.
 
 ###### ARTÍCULO 21.
 
@@ -615,9 +695,11 @@ VI.- Las demás que le confieran las disposiciones legales aplicables y el Secre
 
 Para la eficaz atención y eficiente despacho de los asuntos competencia de la Secretaría, ésta contará con órganos administrativos desconcentrados, que le estarán jerárquicamente subordinados y gozarán de autonomía técnica.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 23.
 
-La Junta de Asistencia Privada, las Unidades de Control Sanitario y la Comisión de Arbitraje Médico del Estado de Sonora, serán órganos desconcentrados de la Secretaría y ejercerán las atribuciones que le confieren específicamente este Reglamento y los ordenamientos jurídicos aplicables.
+La Junta de Asistencia Privada, la Comisión Estatal de Protección contra Riesgos Sanitarios del Estado de Sonora, la Comisión de Arbitraje Medico del Estado de Sonora y la Comisión Estatal de Bioética serán órganos desconcentrados de la Secretaría y ejercerán las atribuciones que le confieren específicamente este Reglamento y los ordenamientos jurídicos aplicables.
 
 ###### ARTÍCULO 24.
 
@@ -629,39 +711,85 @@ II.- Promover y apoyar la constitución de instituciones de asistencia privada d
 
 III.- Las demás que le confieran las disposiciones legales aplicables y el Secretario, dentro de la esfera de sus atribuciones.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 25.
 
-A las Unidades de Control Sanitario, a través de su titular (Jefe de Unidad), les corresponde realizar las funciones de regulación, control y fomento sanitario, tales como llevar a cabo verificaciones sanitarias a establecimientos materia de su competencia, emitiendo órdenes de visita, el dictamen de las actas, emitiendo ordenamientos para que el infractor corrija las anomalías sanitarias detectadas, además de resolver sobre la aplicación de medidas de seguridad e imposición de sanciones administrativas que correspondan, conforme a la legislación sanitaria vigente, en las sedes y competencia territorial que a continuación se señala:
+La Comisión Estatal de Protección contra Riesgos Sanitarios del Estado de Sonora, tendrá por objeto ejercer las atribuciones de regulación, control y fomento sanitarios que le correspondan a la Secretaría en los términos de la Ley de Salud del Estado de Sonora, la Ley General de Salud, así como aquellas que por delegación de facultades le correspondan en base a los Convenios de coordinación que celebre con el Ejecutivo Federal, y para lo cual gozará de autonomía técnica, administrativa y operativa, teniendo además, de las señaladas en el artículo 10 del presente Reglamento, las siguientes atribuciones:
+
+I.- Vigilar, en el ámbito de su competencia, el cumplimiento de la Ley General de Salud, de la Ley de Salud para el Estado de Sonora y demás disposiciones que se dicten con base en ellas;
+
+II.- Planear, organizar, coordinar y dirigir las acciones de control y fomento sanitario en establecimientos, industrias, productos, transportes, actividades y servicios en materia de salud ambiental, insumos para la salud, sanidad internacional, publicidad sanitaria, regulación de servicios de salud de atención médica, productos y servicios de acuerdo a los programas de salud y en estricto apego a la Ley General de Salud y demás disposiciones aplicables;
+
+III.- Planear, administrar, organizar y coordinar el ejercicio de las funciones de operación, regulación, control y fomento sanitario de las Unidades de Control Sanitario del Estado, de acuerdo a los programas prioritarios de salud y en estricto apego a la legislación sanitaria vigente;
+
+IV.- Elaborar y ejecutar los programas de apoyo para la realización de sus funciones en materia de protección contra riesgos sanitarios;
+
+V.- Establecer las normas, políticas, criterios, sistemas y procedimientos de carácter técnico que deban regir en los departamentos y unidades adscritas a su responsabilidad;
+
+VI.- Expedir y revocar, en su caso, las autorizaciones sanitarias en el ámbito de su competencia, conforme a los acuerdos y convenios que se suscriban y a la legislación aplicable;
+
+VII.- Funcionar como ventanilla asesora, receptora y gestora de trámites para aquellas autorizaciones sanitarias que se emitan a nivel federal, conforme a los acuerdos y convenios que se suscriban y a la legislación aplicable;
+
+VIII.- Llevar a cabo la verificación sanitaria de establecimientos materia de su competencia, emitiendo las órdenes de visita, el dictamen de las actas, emitiendo resoluciones para que el infractor corrija las anomalías sanitarias detectadas, además de resolver sobre la aplicación de las medidas de seguridad e imposición de sanciones administrativas que correspondan, según lo establezca la legislación sanitaria vigente;
+
+IX.- Participar en coordinación con la Unidad de Asuntos Jurídicos en los procesos y recursos administrativos que se instauren con motivo de las violaciones a la legislación sanitaria, contenidas en las actas de verificación que se levanten y remitir a la autoridad fiscal las resoluciones que impongan sanciones económicas;
+
+X.- Promover acciones orientadas a mejorar las condiciones sanitarias de los establecimientos, productos, servicios y actividades materia de su competencia;
+
+XI.- Participar en los acuerdos y convenios que en materia de protección contra riesgos sanitarios suscriba la Secretaría con los municipios;
+
+XII.- Establecer, desarrollar y evaluar programas de orientación al público que faciliten el cumplimiento de la legislación sanitaria y que propicien la realización de los trámites en forma expedita;
+
+XIII.- Dirigir, ejercer, ordenar y ejecutar las acciones de verificación y control sanitario en los establecimientos de salud, en materia de atención médica;
+
+XIV.- Dirigir, coordinar, ordenar y ejecutar las acciones de regulación, control y verificación médico sanitaria en establecimientos y prestadores de servicios de salud, medicina transfusional y asistencia social de los sectores público, social y privado, fijos o móviles, tales como: hospitales, clínicas, sanatorios, maternidades, consultorios, laboratorios, ambulancias, servicios auxiliares de diagnóstico o tratamiento que no emitan radiaciones ionizantes, guarderías, asilos, albergues y similares; siempre y cuando los criterios de atención derivados de los acuerdos y convenios que se suscriban con la Federación y la legislación aplicable lo faculten;
+
+XV.- Emitir las órdenes de verificación médico sanitaria, para establecimientos y prestadores de servicios previstos en la fracción anterior, así como el dictamen de las actas, emitiendo resoluciones para que el infractor corrija las anomalías sanitarias detectadas, además de resolver sobre la aplicación de las medidas de seguridad e imposición de sanciones administrativas que correspondan previstas en los ordenamientos legales aplicables;
+
+XVI.- Participar con el Laboratorio Estatal de los Servicios de Salud de Sonora en la programación de metas de los programas y proyectos oficiales de vigilancia sanitaria;
+
+XVII.- Organizar cursos de capacitación sobre los diversos ordenamientos normativos aplicables al sector salud, a los responsables y personal de las instituciones de dicho sector en el Estado que lo soliciten; y
+
+XVIII.- Las demás que le confieran las disposiciones legales aplicables y el Secretario, dentro de la esfera de sus atribuciones.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+ARTÍCULO 25 BIS.- La Comisión Estatal de Protección contra Riesgos Sanitarios del Estado de Sonora, para efecto de ejercer sus atribuciones contará con Unidades de Control Sanitario, las cuales a través de sus titulares, mismos que serán denominados Jefes de Unidad, les corresponde realizar las funciones de regulación, control y fomento sanitario, tales como llevar a cabo verificaciones sanitarias a establecimientos materia de su competencia, emitiendo órdenes de visita, el dictamen de las actas, emitiendo ordenamientos para que el infractor corrija las anomalías sanitarias detectadas, además de resolver sobre la aplicación de medidas de seguridad e imposición de sanciones administrativas que correspondan, conforme a la legislación sanitaria vigente, en las sedes y competencia territorial que a continuación se señalan:
 
 I.- Unidad de Control Sanitario con sede en San Luis Río Colorado, Sonora, y competencia territorial en el Municipio del mismo nombre;
 
-II.- Unidad de Control Sanitario con sede en Puerto Peñasco, Sonora, y competencia territorial en los Municipios de Puerto Peñasco y General Plutarco Elías Calles;
+II.- Unidad de Control Sanitario con sede en Puerto Peñasco, Sonora, y competencia territorial en los Municipios de Puerto Peñasco y Plutarco Elías Calles;
 
-III.- Unidad de Control Sanitario con sede en Nogales, Sonora, y competencia territorial en los Municipios de Nogales y Santa Cruz;
+III.- Unidad de Control Sanitario con sede en Nogales, Sonora, y competencia territorial en el Municipio de Nogales;
 
-IV.- Unidad de Control Sanitario con sede en Santa Ana, Sonora, y competencia territorial en los Municipios de Santa Ana, Benjamín Hill y Trincheras, y en la Comisaría de Querobabi del Municipio de Opodepe;
+IV.- Unidad de Control Sanitario con sede en Santa Ana, Sonora, y competencia territorial en los Municipios de Santa Ana, Trincheras, Benjamín Hill, Opodepe, Rayón y Carbó;
 
-V.- Unidad de Control Sanitario con sede en Caborca, Sonora, y competencia territorial en los Municipios de Caborca, Pitiquito, con excepción de las Comisarías de Félix Gómez y Puerto Libertad; Altar, ÁtiI, Tubutama, Oquitoa y Sáric;
+V.- Unidad de Control Sanitario con sede en Caborca, Sonora, y competencia territorial en los Municipios de Caborca, Pitiquito, Altar, ÁtiI, Tubutama, Oquitoa, Saric y Puerto Libertad del Municipio de Pitiquito;
 
-VI.- Unidad de Control Sanitario con sede en Magdalena, Sonora, y competencia territorial en los Municipios de Magdalena, Ímuris y Cucurpe;
+VI.- Unidad de Control Sanitario con sede en Magdalena, Sonora, y competencia territorial en los Municipios de Magdalena, Imuris y Cucurpe;
 
-VII.- Unidad de Control Sanitario con sede en Cananea, Sonora, y competencia territorial en los Municipios de Cananea y Bacoachi;
+VII.- Unidad de Control Sanitario con sede en Cananea, Sonora, y competencia territorial en los Municipios de Cananea, Bacoachi, Arizpe y Santa Cruz;
 
-VIII.- Unidad de Control Sanitario con sede en Agua Prieta, Sonora, y competencia territorial en los Municipios de Agua Prieta, Naco y Fronteras;
+VIII.- Unidad de Control Sanitario con sede en Agua Prieta, Sonora, y competencia territorial en los Municipios de Agua Prieta, Nacozari de García, Naco y Fronteras;
 
-IX.- Unidad de Control Sanitario con sede en Hermosillo, Sonora, y competencia territorial en los Municipios de Hermosillo, La Colorada, San Javier, Suaqui Grande, Ónavas, Soyopa, Arivechi, San Miguel de Horcasitas, Sahuaripa, Bacanora, Villa Pesqueira, Mazatán, Ures, Baviácora, Aconchi, Huépac, Rayón, Carbó, Opodepe, con excepción de la Comisaría de Querobabi, Banámichi, San Felipe de Jesús, San Pedro de la Cueva y Arizpe y en las Comisarías de Félix Gómez y Puerto Libertad del Municipio de Pitiquito;
+IX.- Unidad de Control Sanitario con sede en Hermosillo, Sonora, y competencia territorial en los Municipios de Hermosillo, Banámichi, Huépac, San Felipe de Jesús, Aconchi, Baviácora, San Miguel de Horcasitas, Ures, La Colorada, San Javier, y Suaqui Grande y en las comisarías de Félix Gómez;
 
-X.- Unidad de Control Sanitario con sede en Moctezuma, Sonora, y competencia territorial en los Municipios de Moctezuma, Nacozari de García, Cumpas, Bacadéhuachi, Nácori Chico, Bavispe, Bacerac, Huachinera, Villa Hidalgo, Granados, Huásabas, Divisaderos y Tepache;
+X.- Unidad de Control Sanitario con sede en Moctezuma, Sonora, y competencia territorial en los Municipios de Moctezuma, Bavispe, Cumpas, Villa Hidalgo, Bacerac, Huachineras, Huásabas, Bacadehuachi, Nacori Chico y Granados;
 
-XI.- Unidad de Control Sanitario con sede en Guaymas, Sonora, y competencia territorial en los Municipios de Guaymas, con excepción de las Comisarías de Vícam, Pótam, Rahum y Huirivis, y Empalme;
+XI.- Unidad de Control Sanitario con sede en Guaymas, Sonora, y competencia territorial en los Municipios de Guaymas y Empalme, con excepción de las Comisarías de Vícam, Pótam, Rahum y Huirivis, del Municipio de Guaymas;
 
-XII.- Unidad de Control Sanitario con sede en Ciudad Obregón, Sonora, y competencia territorial en los Municipios de Cajeme, Bácum, Rosario, San Ignacio Río Muerto, Quiriego y Yécora y en las Comisarías de Vícam, Pótam, Rahum y Huirivis del Municipio de Guaymas;
+XII.- Unidad de Control Sanitario con sede en Ciudad Obregón, Sonora, y competencia territorial en los Municipios de Cajeme, Bácum, Rosario, San Ignacio Río Muerto y Quiriego y en las Comisarías de Vícam, Pótam, Rahum y Huirivis, del Municipio de Guaymas;
 
-XIII.- Unidad de Control Sanitario con sede en Navojoa, Sonora, y competencia territorial en los Municipios de Navojoa, Álamos y Benito Juárez; y
+XIII.- Unidad de Control Sanitario con sede en Navojoa, Sonora, y competencia territorial en los Municipios de Navojoa y Álamos;
 
-XIV.- Unidad de Control Sanitario con sede en Huatabampo, Sonora, y competencia territorial en los Municipios de Huatabampo y Etchojoa.
+XIV.- Unidad de Control Sanitario con sede en Huatabampo, Sonora, y competencia territorial en los Municipios de Huatabampo, Etchojoa y Benito Juárez; y
 
-Los titulares de las Unidades de Control Sanitario de Hermosillo, Ciudad Obregón y Santa Ana, fungirán a su vez como Coordinadores Regionales de las Zonas Centro, Sur y Norte, respectivamente, mismas que fungirán como enlace entre la Dirección General de Protección Contra Riesgos Sanitarios y las Unidades del ámbito de su circunscripción que se establece: Zona Centro: Unidades con sede en Hermosillo y Moctezuma; Zona Sur: Unidades con sede en Ciudad Obregón, Guaymas, Navojoa, y Huatabampo; y Zona Norte: Unidades con sede en San Luis Río Colorado, Puerto Peñasco, Caborca, Santa Ana, Magdalena, Nogales, Agua Prieta y Cananea.
+XV.- Unidad de Control Sanitario con sede en Sahuaripa, Sonora, y competencia territorial en los Municipios de Sahuaripa, Arivechi, Bacanora, Divisaderos, Mazatán, Onavas, San Pedro de la Cueva Soyopa, Tepache, Villa Pesqueira y Yécora.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+ARTÍCULO 25 BIS 1.- La Comisión Estatal de Bioética tendrá por objeto promover la creación de una cultura bioética en nuestro Estado, fomentar una actitud de reflexión, deliberación y discusión multidisciplinaria y multisectorial de los temas vinculados con la salud humana, y desarrollar normas éticas para la atención, la investigación y la docencia en salud y ejercerá las atribuciones que señale su Decreto de creación y su Reglamento Interno.
 
 ###### ARTÍCULO 26.
 
@@ -676,6 +804,12 @@ Durante las ausencias temporales del Secretario, el despacho y la resolución de
 ###### ARTÍCULO 28.
 
 En las ausencias de uno o varios titulares de las unidades administrativas, éstos serán suplidos por los funcionarios que designe el Secretario, a propuesta del titular de la unidad administrativa que se ausente.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+###### ARTÍCULO 29.
+
+En el caso de la Comisión Estatal de Protección contra Riesgos Sanitarios, las ausencias temporales de uno o varios titulares de las Unidades de Control Sanitario, serán suplidos por los funcionarios que designe el titular de dicha Comisión.
 
 T R A N S I T O R I O S
 
@@ -705,6 +839,8 @@ Secretaría de Salud Pública
 
 Organigrama Estructural
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
 Secretaría de Salud
 
 Pública
@@ -715,35 +851,39 @@ Jurídicos Comunicación Social
 
 Subsecretaria de Subsecretaría de
 
-Servicios de Salud Administración
+Servicios de Salud Administración y
 
-Dirección General Dirección General
+Finanzas
 
-de Servicios de de Protección Dirección general
+Dirección General Dirección General Dirección general
 
-Salud a la Contra Riesgos de Administración
+de Servicios de de Asistencia de Administración
 
-Comunidad Sanitarios
+Salud a la Social
 
-Dirección General Dirección General
+Comunidad
 
-de Servicios de de Asistencia Dirección general
+Dirección General Dirección General Dirección General
 
-Saluda la Social de Innovación y
+de Servicios de de Coordinación de Planeación y
 
-Persona Desarrollo
+Salud a la Sectorial Desarrollo
 
-Dirección General Dirección General
+Persona
 
-de Enseñanza y de Coordinación
+Dirección General Dirección de
 
-Calidad Sectorial
+de Enseñanza y Tecnologías de la
+
+Calidad Información y
+
+Comunicaciones
 
 Dirección de
 
-Regulación de
+Infraestructura
 
-Servicios de Salud
+Física
 
 ÓRGANOS DESCONCENTRADOS
 
@@ -751,6 +891,34 @@ Junta de Asistencia
 
 Privada
 
-Unidad de
+Comisión Estatal de
 
-Control Sanitario
+Protección contra
+
+Riesgos Sanitarios
+
+del Estado de Sonora
+
+Comisión de
+
+Arbitraje Médico
+
+del Estado de
+
+Sonora
+
+Comisión Estatal
+
+De Bioética
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE SEPTIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Los manuales de organización, de procedimientos y de servicios al público, así como las cartas compromiso al ciudadano, de las unidades administrativas que les aplique, deberán ser actualizados por la Dirección General de Innovación y Desarrollo dentro de los sesenta días posteriores a la publicación del presente Decreto. El titular de la Secretaría queda facultado para resolver las cuestiones que se presenten mientras se expiden los mencionados manuales administrativos.
