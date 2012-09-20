@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-judicial-del-estado-de-jalisco-12789"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-01"
-last_updated: "2012-06-09"
+last_updated: "2012-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2012.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 9 DE JUNIO DE 2012, NO APLICA A LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 5 DE JUNIO DE 2012, PÁGINAS 5 A 13.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 1 de julio de 1997.
 
@@ -73,7 +71,7 @@ VII. El Jurado Popular.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 30 DE ENERO DE 2007)</small>
 
-El Poder Judicial cantará además con dos órganos, uno denominado Consejo de la Judicatura del Estado y un Instituto de Justicia Alternativa del Estado.
+El Poder Judicial contará además con dos órganos, uno denominado Consejo de la Judicatura del Estado y un Instituto de Justicia Alternativa del Estado.
 
 > <small>(ADICIONADO, P.O. 30 DE ENERO DE 2007)</small>
 
@@ -337,7 +335,9 @@ III. Poseer el día de la elección, con una antigüedad mínima de diez años, 
 
 IV. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena corporal;
 
-V. No haber sido Gobernador, titular de alguna de las secretarías de despacho del Ejecutivo, jefe de departamento administrativo, Procurador General de Justicia, integrante del Consejo General del Poder Judicial, Diputado local, Presidente, Vicepresidente Municipal o Regidor de ayuntamiento, durante el año previo al día del nombramiento; y
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+V. No haber sido Gobernador, titular de alguna de las secretarías de despacho del Ejecutivo, jefe de departamento administrativo, Procurador General de Justicia, integrante del Consejo General del Poder Judicial, Diputado local, o Presidente, Síndico o Regidor de ayuntamiento, durante el año previo al día del nombramiento, y
 
 VI. No haber sido secretario de Estado o jefe de departamento administrativo de la Federación, Procurador General de la República, Senador o Diputado federal, a menos que se separe de su cargo un año antes al día que tenga verificativo el nombramiento.
 
@@ -869,7 +869,9 @@ III. Poseer el día de la elección, con antigüedad mínima de diez años, tít
 
 IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal;
 
-V. No haber sido Gobernador, titular de alguna de las secretarías de despacho del Ejecutivo, Jefe de departamento administrativo, Procurador General de Justicia, integrante del Consejo General del Poder Judicial, Diputado local, Presidente, Vicepresidente Municipal o Regidor del Ayuntamiento, durante el año previo al día de la elección; y
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+V. No haber sido Gobernador, titular de alguna de las secretarías de despacho del Ejecutivo, jefe de departamento administrativo, Procurador General de Justicia, integrante del Consejo General del Poder Judicial, Diputado local, o Presidente, Síndico o Regidor de ayuntamiento, durante el año previo al día de la elección, y
 
 VI. No haber sido Secretario de Estado o jefe de departamento administrativo de la Federación, Procurador General de la República, Senador o Diputado federal, a menos que se separe de su cargo un año antes del día que tenga verificativo la elección.
 
@@ -1125,6 +1127,8 @@ III. Las demás que señalen las disposiciones legales aplicables.
 
 ### CAPÍTULO II. DE LOS REQUISITOS PARA SER MAGISTRADO ELECTORAL, SECRETARIO GENERAL DE ACUERDOS Y SECRETARIOS RELATORES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 73.
 
 El Tribunal Electoral del Poder Judicial será la máxima autoridad jurisdiccional en la materia y órgano especializado del Poder Judicial del Estado de Jalisco, competente para resolver las controversias que se susciten en los procesos electorales para la renovación de los poderes Legislativo, Ejecutivo, y de los ayuntamientos; así como en los procesos de plebiscito y referéndum. Estará dotado de autonomía y personalidad jurídica propia, con la competencia, jurisdicción y organización que señalen la Constitución Política del Estado, la presente ley y su reglamento.
@@ -1139,9 +1143,11 @@ El Tribunal Electoral del Poder Judicial del Estado contará con una Secretaría
 
 El Presupuesto de egresos del año electoral prevendrá los apoyos financieros para contratar secretarios relatores y demás personal de apoyo, necesarios para la atención de los asuntos a cargo del Tribunal Electoral del Poder Judicial.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 75.
 
-Para nombrar a los magistrados del Tribunal Electoral, deberá observarse el siguiente procedimiento:
+Para nombrar a los magistrados del Tribunal Electoral deberá observarse el siguiente procedimiento:
 
 I. Cada uno de los grupos parlamentarios del Congreso del Estado, elaborará una propuesta de candidatos que consideren aptos para ocupar el cargo, habiendo escuchado para tal efecto a los partidos políticos, instituciones de educación superior, colegios de abogados instituidos en la Entidad y demás organizaciones sociales y civiles;
 
@@ -1151,9 +1157,9 @@ II. Las comisiones de Justicia, y Calificadora de Asuntos Electorales de (sic) P
 
 III. Las propuestas de ciudadanos para ocupar el cargo de magistrados del Tribunal Electoral serán votadas de manera individual y sucesiva, requiriéndose para su designación el voto de las dos terceras partes de los diputados presentes del Congreso del Estado;
 
-IV. Si realizadas por lo menos tres rondas de votación no se cubrieran la totalidad de magistraturas a designar, las comisiones respectivas del Congreso, deberán presentar una nueva lista hasta por el doble de los magistrados faltantes, y de ser necesario, solicitarán a los grupos parlamentarios, la presentación de nuevas propuestas. En este caso, se seguirá el procedimiento señalado en la fracción anterior; y
+IV. Si realizadas por lo menos tres rondas de votación no se cubrieran la totalidad de magistraturas a designar, las comisiones respectivas del Congreso, deberán presentar una nueva lista hasta por el doble de los magistrados faltantes, y de ser necesario, solicitarán a los grupos parlamentarios, la presentación de nuevas propuestas. En este caso, se seguirá el procedimiento señalado en la fracción anterior; y (sic)
 
-V. Para cubrir las ausencias temporales o definitivas de los magistrados, serán designados cinco magistrados suplentes, mediante el procedimiento dispuesto en este artículo.
+V. (DEROGADA, P.O. 20 DE SEPTIEMBRE DE 2012)
 
 ###### Artículo 76.
 
@@ -1163,19 +1169,29 @@ Durante el tiempo que ejerzan las funciones de su cargo, los magistrados no podr
 
 Los magistrados del Tribunal Electoral deberán excusarse de conocer algún asunto en que tengan interés personal por relaciones de parentesco, negocios, amistad estrecha o enemistad que pueda afectar su imparcialidad. En este caso, el Pleno del Tribunal calificará y resolverá de inmediato la excusa.
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 77.
 
-El Pleno del Tribunal Electoral se integrará e iniciará sus funciones a más tardar el 31 de julio del año de la elección y entrará en receso una vez que haya resuelto la totalidad de juicios de inconformidad y recursos que se hubieren interpuesto como consecuencia del proceso electoral.
+El pleno del Tribunal Electoral se integrará e iniciará sus funciones, para conocer de toda controversia que se suscite con motivo de los procesos electorales, en la segunda quincena del mes de enero del año de la elección, y entrará en receso hasta que el Consejo General del Instituto Electoral y de Participación Ciudadana del Estado haga la declaratoria de la conclusión del proceso electoral de que se trate.
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
 
 En el caso de elecciones extraordinarias, se estará a lo dispuesto en la convocatoria respectiva.
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
+
 Durante el receso, funcionará una Sala Permanente, integrada por tres magistrados del Tribunal Electoral, la cual conocerá de:
 
-I. Los procedimientos especiales relativos a la solución de conflictos laborales entre el Consejo Electoral del Estado y sus servidores;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+I. Los procedimientos especiales relativos a la solución de conflictos laborales entre el Instituto Electoral y de Participación Ciudadana del Estado y sus servidores;
+
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2001)</small>
 
 II. Cualquier controversia que se suscite durante el tiempo en que no se encuentre instalado en su totalidad el Tribunal Electoral; y
+
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2001)</small>
 
 III. Cualquier controversia que se suscite en los procesos extraordinarios, de plebiscito o referéndum, y que no se encuentre instalado el Tribunal Electoral, salvo que la convocatoria establezca la instalación total del Tribunal.
 
@@ -1193,7 +1209,9 @@ Al término de su gestión los magistrados electorales no podrán ser reelectos 
 
 Las renuncias de los magistrados del Tribunal Electoral, deberán ser presentadas ante el Congreso del Estado, quien resolverá su procedencia.
 
-Las faltas temporales de los magistrados del Tribunal Electoral, serán cubiertas por los magistrados suplentes y se procederá de la siguiente forma:
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+Para cubrir las faltas temporales de los magistrados del Tribunal Electoral se procederá de la siguiente forma:
 
 I. En el caso de ausencias mayores de quince días una vez instalado el Tribunal Electoral o de treinta días entre dos procesos electorales, se requerirá de licencia otorgada por el Congreso del Estado; y
 
@@ -1201,9 +1219,11 @@ II. En el caso que no excedan los plazos que se indican en la fracción anterior
 
 La retribución que perciban los magistrados del Tribunal Electoral será igual a la prevista para los magistrados del Supremo Tribunal de Justicia del Estado, y no podrá ser disminuida durante su encargo.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 80.
 
-El Secretario General, los secretarios relatores, así como el demás personal auxiliar del Tribunal Electoral, se conducirán con imparcialidad y velarán por la aplicación irrestricta de los principios de legalidad, certeza, equidad, independencia y objetividad, en todas las diligencias y actuaciones en que intervengan en el desempeño de sus funciones.
+Los magistrados, el Secretario General, los secretarios relatores, así como el demás personal que integra el Tribunal Electoral, se conducirán y velarán por la aplicación irrestricta de los principios rectores de la función electoral de certeza, legalidad, independencia, imparcialidad, equidad y objetividad en todas las actuaciones y diligencias en que intervengan en el desempeño de sus funciones.
 
 ###### Artículo 81.
 
@@ -1217,11 +1237,11 @@ El Tribunal Electoral, al resolver los asuntos de su competencia, garantizará q
 
 ### CAPÍTULO III. DE SU INTEGRACIÓN Y FUNCIONAMIENTO
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 83.
 
-Para ser Magistrado del Tribunal Electoral, se deberán satisfacer los siguientes requisitos:
+Para ser Magistrado del Tribunal Electoral se deberán satisfacer los siguientes requisitos:
 
 I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
 
@@ -1237,7 +1257,9 @@ VI. No haber sido ministro de algún culto religioso en los últimos cinco años
 
 VII. No haber desempeñado algún cargo público de elección popular, ni haber sido dirigente nacional, estatal o municipal de algún partido político, dentro de los cinco años inmediatos a su nombramiento;
 
-VIII. No haber sido titular de alguna de las secretarías de despacho del Ejecutivo, Jefe de departamento administrativo, Procurador General de Justicia, integrante del Consejo General del Poder Judicial, Diputado local, Presidente, Vicepresidente Municipal o Regidor del Ayuntamiento, durante el año previo al día de la elección, ni miembro del Consejo Electoral del Estado, con derecho a voz y voto, dentro de los dos años anteriores a su designación;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+VIII. No haber sido titular de alguna de las secretarías de despacho del Ejecutivo, jefe de departamento administrativo, Procurador General de Justicia, integrante del Consejo General del Poder Judicial, Diputado local, o Presidente, Síndico o Regidor de ayuntamiento, durante el año previo al día de la elección, ni miembro del Consejo General del Instituto Electoral y de Participación Ciudadana del Estado, con derecho a voz y voto, dentro de los dos años anteriores a su designación;
 
 IX. No haber sido Secretario de Estado o jefe de departamento administrativo de la Federación, Procurador General de la República, Senador o Diputado federal, a menos que se separe de su cargo un año antes del día en que tenga verificativo la elección; y
 
@@ -1261,15 +1283,17 @@ VI. Tener credencial para votar con fotografía.
 
 ### CAPÍTULO IV. DEL PLENO DEL TRIBUNAL ELECTORAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 85.
 
-El Tribunal Electoral estará integrado por cinco magistrados propietarios y por cinco suplentes.
+El Tribunal Electoral estará integrado por cinco magistrados propietarios.
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 86.
 
-El Tribunal Electoral funcionará en Pleno, integrado por todos los magistrados propietarios, salvo en caso fortuito o de fuerza mayor; en ambos casos, se llamará como auxiliar al Magistrado suplente que designen los restantes propietarios.
+El Tribunal Electoral funcionará en pleno, integrado por todos los magistrados propietarios, salvo en caso fortuito o de fuerza mayor.
 
 > <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
 
@@ -1291,7 +1315,7 @@ II. En el caso que exceda del plazo que se indica en la fracción anterior, debe
 
 ###### Artículo 88.
 
-Son atribuciones del Pleno del Tribunal Electoral:
+Son atribuciones del pleno del Tribunal Electoral:
 
 I. Expedir su reglamento interior;
 
@@ -1299,17 +1323,21 @@ I. Expedir su reglamento interior;
 
 II. Nombrar al Secretario General de Acuerdos y a los demás servidores públicos a propuesta del Presidente; además, resolver sobre las renuncias que presenten;
 
-III. Llamar a los magistrados suplentes a desempeñar funciones, de acuerdo a lo previsto en la presente ley y en la Ley Electoral del Estado;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
-> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2001)</small>
+III. Resolver sobre las ausencias temporales de magistrados de acuerdo con lo previsto en la presente ley;
 
-IV. Conocer de los juicios de inconformidad y recursos de apelación que se promuevan de acuerdo con lo dispuesto por la Ley Electoral del Estado;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+IV. Conocer de los juicios de inconformidad y recursos de apelación que se promuevan de acuerdo con lo dispuesto por el Código Electoral y de Participación Ciudadana del Estado de Jalisco;
 
 V. Vigilar el irrestricto cumplimiento de la ley en el ejercicio de sus funciones;
 
 VI. Celebrar cuando menos, una sesión mensual;
 
-VII. Fijar los mecanismos para sustentar criterios de jurisprudencia obligatoria en la materia, así como conocer las controversias sobre la contradicción de criterios sustentados por las salas;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+VII. Fijar los mecanismos para sustentar criterios de jurisprudencia obligatoria en la materia, así como conocer las controversias sobre la contradicción de criterios sustentados por la Sala Permanente y el pleno del Tribunal, en el ejercicio de su competencia;
 
 VIII. Resolver los conflictos de trabajo suscitados entre el Tribunal Electoral y sus servidores públicos en términos de la fracción XII del apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, a partir del dictamen que le presente la Comisión Substanciadora del propio Tribunal;
 
@@ -1323,9 +1351,9 @@ X. Elegir por mayoría de votos, por cédula, en votación secreta y escrutinio 
 
 XI. Elegir a los magistrados director y subdirector del Instituto de Investigaciones y Capacitación Electoral;
 
-> <small>(REFORMADA, P.O. 17 DE JULIO DE 2001)</small>
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
-XI (SIC). Solicitar al Consejo Electoral del Estado los documentos necesarios para poder ejercer cabalmente sus funciones; y (sic)
+XII. Solicitar al Instituto Electoral y de Participación Ciudadana del Estado de Jalisco los documentos necesarios para poder ejercer cabalmente sus funciones;
 
 > <small>(REFORMADA, P.O. 1 DE MAYO DE 2003)</small>
 
@@ -1409,9 +1437,9 @@ I. El Magistrado ponente presentará el caso y el sentido de su resolución, se�
 
 II. Los magistrados podrán discutir el proyecto en turno;
 
-> <small>(REFORMADA, P.O. 17 DE JULIO DE 2001)</small>
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
-III. Cuando los presidentes de las salas de Primera Instancia y de la Sala Superior lo consideren suficientemente discutido, lo someterán a votación; y
+III. Cuando el Magistrado Presidente lo considere suficientemente discutido, lo someterá a votación; y
 
 IV. Los magistrados podrán presentar voto particular, el cual se agregará al expediente.
 
@@ -1459,19 +1487,21 @@ El Tribunal determinará la hora y días de sus sesiones públicas.
 
 ### CAPÍTULO IX. DE LOS PROCEDIMIENTOS ESPECIALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 98.
 
 Los criterios fijados por el Tribunal Electoral del Estado sentarán jurisprudencia cuando se sustenten en el mismo sentido, cinco resoluciones consecutivas.
 
-### CAPÍTULO X. DEL INSTITUTO DE INVESTIGACIONES Y CAPACITACIÓN ELECTORAL
+### CAPÍTULO X. DEL INSTITUTO DE INVESTIGACIONES Y CAPACITACIÓN ELECTORAL, E INSTITUTO "PRISCILIANO SÁNCHEZ"
 
 > <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
 
 Artículo 100 A.- El Instituto de Investigaciones y Capacitación Electoral es un órgano dependiente del Tribunal Electoral del Poder Judicial del Estado, y su objetivo es el estudio y divulgación y fomento de la cultura democrática y la capacitación en todos los niveles, de cuadros susceptibles de ocupar cargos dentro de la estructura electoral del Estado.
 
-> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
-Artículo 100 B.- La constitución del Instituto se formalizará mediante acuerdo mayoritario del pleno del Tribunal Electoral del Poder Judicial del Estado, cuyos términos deberán constar en acta debidamente legalizada por el Secretario General de Acuerdos.
+Artículo 100 B.- La constitución del Instituto de Investigaciones y Capacitación Electoral se formalizará mediante acuerdo mayoritario del pleno del Tribunal Electoral del Poder Judicial del Estado, cuyos términos deberán constar en acta debidamente legalizada por el Secretario General de Acuerdos.
 
 > <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
 
@@ -1487,29 +1517,51 @@ IV. Capacitadores; y
 
 V. Personal administrativo.
 
-De entre los magistrados electorales que no formen parte de la sala permanente, serán elegidos los Directores de (sic) Instituto.
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
-> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+De entre los magistrados electorales que no formen parte de la sala permanente, será elegido el Director del Instituto.
 
-Artículo 100 D.- El Instituto interrumpirá sus actividades temporalmente durante los períodos en que deba integrarse el pleno del Tribunal Electoral.
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
-> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+Los secretarios relatores del Tribunal Electoral que no estén adscritos en la Sala Permanente, fungirán como investigadores y capacitadores del Instituto de Investigaciones y Capacitación Electoral.
 
-Artículo 100 E.- Los Directores del Instituto tendrán las siguientes obligaciones, en cada una de sus áreas:
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+Artículo 100 D.- El Instituto de Investigaciones y Capacitación Electoral interrumpirá sus actividades temporalmente durante los períodos en que deba integrarse el pleno del Tribunal Electoral.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+Artículo 100 E.- Los directores del Instituto de Investigaciones y Capacitación Electoral tendrán las siguientes obligaciones, en cada una de sus áreas:
+
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2001)</small>
 
 I. Elaborar y proponer los programas anuales de investigación y capacitación electoral;
 
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2001)</small>
+
 II. Coordinar y vigilar el cumplimiento de los programas a que se refiere el inciso anterior;
+
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2001)</small>
 
 III. Organizar jornadas didácticas de cultura y legislación electorales, para educandos de nivel primaria, secundaria y media superior;
 
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2001)</small>
+
 IV. Llevar el control del acervo que se produzca como resultado de las investigaciones que realice el Instituto;
+
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2001)</small>
 
 V. Coordinar la fundación y enriquecimiento bibliográfico de la Biblioteca del Tribunal Electoral del Poder Judicial;
 
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2001)</small>
+
 VI. Llevar el registro de investigadores adscritos al Instituto de Investigaciones y Capacitación Electoral;
 
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2001)</small>
+
 VII. Fomentar la actividad editorial del Instituto;
+
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2001)</small>
 
 VIII. Las demás que le confiera esta ley y su reglamento.
 
@@ -1523,61 +1575,113 @@ En los años electorales el Programa deberá contemplar esta circunstancia y con
 
 Artículo 100 G.- El Programa Anual de Investigación y Capacitación Electoral deberá contener cuando menos lo siguiente:
 
-I. El plan de divulgación de la cultura y legislación electoral en su cobertura municipal y por niveles educativos básicos, y media superior;
+> <small>(REFORMADA P.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+I. El plan de divulgación de la cultura y legislación electoral en foros, congresos y encuentros académicos;
 
 II. El plan de capacitación electoral para militantes y simpatizantes de Partidos Políticos;
 
-III. Plan de divulgación de la cultura y legislación electoral en foros, congresos y encuentros académicos;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
-IV. Estrategia permanente para el enriquecimiento del acervo bibliográfico y documental de la Biblioteca del Tribunal Electoral del Poder Judicial;
+III. Estrategia permanente para el enriquecimiento del acervo bibliográfico y documental de la Biblioteca del Tribunal Electoral del Poder Judicial;
 
-V. Actividades museográficas para la preservación de objetos y documentos relacionados con la evolución democrática del Estado;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
-VI. Estrategias de coordinación con centros académicos para la elaboración de protocolos de investigación sobre cuestiones relacionadas con la democracia y los derechos cívicos.
+IV. Actividades museográficas para la preservación de objetos y documentos relacionados con la evolución democrática del estado;
 
-> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+V. (DEROGADA, P.O. 20 DE SEPTIEMBRE DE 2012)
 
-Artículo 100 H.- El Instituto contará con el personal administrativo que le asigne el pleno del Tribunal Electoral, el cual deberá seleccionarse entre los servidores públicos que no tengan asignadas tareas específicas en la sala permanente.
+VI. (DEROGADA, P.O. 20 DE SEPTIEMBRE DE 2012)
 
-> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
-Artículo 100 I.- Ni los magistrados, ni el personal comisionado al Instituto devengarán por ese hecho remuneración adicional.
+Artículo 100 H.- El Instituto de Investigaciones y Capacitación electoral contará con el personal administrativo que le asigne el pleno del Tribunal Electoral, el cual deberá seleccionarse entre los servidores públicos que no tengan asignadas tareas específicas en la sala permanente.
 
-> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
-Artículo 100 J.- El Instituto deberá suscribir con las universidades, colegios y centros académicos, convenios de coordinación para el estudio y divulgación de la cultura y legislación electorales.
+Artículo 100 I.- Ni los magistrados ni el personal comisionado al Instituto de Investigaciones y Capacitación Electoral devengarán por ese hecho remuneración adicional.
 
-> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
-Artículo 100 K.- Los trabajos de investigación que se realicen con el apoyo del Instituto, o como resultado de los convenios de coordinación, serán puestos a disposición de los Partidos Políticos y sociedades en general.
+Artículo 100 J.- El Instituto de Investigaciones y Capacitación Electoral deberá ofrecer a los partidos políticos, cuando menos una vez durante el año previo a la elección, cursos de capacitación electoral.
 
-> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+De los cursos que imparta el Instituto de Investigación (sic) y Capacitación Electoral se entregarán constancias de capacitación a quienes los hubieren cursado satisfactoriamente.
 
-Artículo 100 L.- El Instituto deberá ofrecer a los Partidos Políticos cuando menos una vez durante el año previo a la elección, cursos de capacitación electoral.
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
-De los cursos que imparta el Instituto se entregarán constancias de capacitación a quienes los hubieren cursado satisfactoriamente.
+Artículo 100 K.- La participación en conferencias, foros o congresos que tengan como temática principal la materia electoral, siempre deberá hacerse a título gratuito, salvo la recuperación económica que debiera exigirse por concepto de gastos extraordinarios que la actividad genere.
 
-> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
-Artículo 100 M.- La participación en conferencias, foros o congresos que tengan como temática principal la materia electoral, por parte de quienes formen parte del Instituto, siempre deberá hacerse a título gratuito, salvo la recuperación económica que debiere exigirse por concepto de gastos extraordinarios que la actividad genere.
+Artículo 100 L.- Los directores del Instituto de Investigaciones y Capacitación Electoral deberán presentar ante el pleno del Tribunal Electoral, un informe anual de las actividades realizadas, el cual deberá ser aprobado por sus integrantes.
 
-> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
-Artículo 100 N.- Los Directores del Instituto deberán presentar un informe anual de las actividades realizadas, ante el pleno del Tribunal Electoral, el cual deberá ser aprobado por sus integrantes.
+Artículo 100 M.- Las actividades que desarrolle el Instituto de Investigaciones y Capacitación Electoral no podrán significar un costo mayor a 10 % del presupuesto asignado al Tribunal Electoral, por lo que las direcciones deberán procurar los patrocinios que fueren necesarios para el cumplimiento de los objetivos de la institución.
 
-> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+Los salarios de los magistrados y personal comisionado del Tribunal Electoral no se tomarán en cuenta para el cálculo del costo operativo de la institución.
 
-Artículo 100 O.- Las actividades que desarrolle el Instituto no podrán significar un costo mayor al 10% del presupuesto asignado al Tribunal Electoral, por lo que la Dirección deberá procurar los patrocinios que fueren necesarios para el cumplimiento de los objetivos de la Institución.
+Será prueba del grado de eficiencia de los directores del Instituto de Investigaciones y Capacitación Electoral, la obtención de más y mejores resultados con el mínimo de gasto con cargo al presupuesto del Tribunal.
 
-Los salarios de los magistrados y personal comisionado del Tribunal Electoral no se tomarán en cuenta para el cálculo de costo operativo de la Institución.
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
-Será prueba del grado de eficiencia de los Directores del Instituto, la obtención de más y mejores resultados con el mínimo de gasto con cargo al presupuesto del Tribunal.
+Artículo 100 N.- El Instituto "Prisciliano Sánchez" es un órgano dependiente del Tribunal Electoral, con carácter de permanente, que cuenta con reconocimiento de validez oficial de estudios para impartir estudios de maestría y doctorado en Derecho Electoral.
+
+Las funciones y actividades a desarrollarse por el Instituto "Prisciliano Sánchez" se regirán, en todo momento, por esta ley, el Reglamento Interior del Tribunal Electoral y el Reglamento General de Posgrado debidamente registrado y aprobado por las autoridades educativas del Estado de Jalisco y la federal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+Artículo 100 Ñ.- El Instituto "Prisciliano Sánchez", estará integrado por:
+
+I. Un Director, que deberá ser un magistrado a cargo del Instituto de Investigaciones o Capacitación Electoral del Tribunal;
+
+II. Un Jefe de Departamento, encargado de enlace y vinculación con la Secretaría de Educación Jalisco y autoridades educativas y quien fungirá como Secretario de Titulación;
+
+III. Un Jefe de Departamento, encargado de la Coordinación de Control Escolar Administrativo y Enlace con Alumnos;
+
+IV. Un Jefe de Oficina, encargado de la elaboración y actualización de antologías y de la Coordinación de Asesores;
+
+V. Un Jefe de Oficina, encargado de convenios y proyectos especiales (SEP, SEJ, CONACyT, SNI, COECyTJal, y ANUIES);
+
+VI. Un Jefe de Oficina, encargado de la Biblioteca "Prisciliano Sánchez", Hemeroteca y Unidad Editorial, y
+
+VII. El personal administrativo y académico necesario para su buen funcionamiento.
+
+En el caso de las fracciones II, III, IV, V y VI, el personal deberá contar con estudios mínimos de licenciatura o, preferentemente, de posgrado.
+
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+Artículo 100 O.- El director del Instituto Prisciliano Sánchez tendrá las siguientes atribuciones:
+
+I. Elaborar y rendir los informes que le soliciten el pleno del Tribunal Electoral, la Secretaría de Educación Jalisco o cualquier otra autoridad educativa;
+
+II. Coordinar y vigilar el cumplimiento de los programas académicos para ciclo escolar del posgrado que imparta el Instituto;
+
+III. Organizar las reuniones de academia que sean necesarias para actualizar permanentemente el plan curricular de los estudios de posgrado que imparta el Instituto;
+
+IV. Coordinar los departamentos y oficinas que integran el Instituto;
+
+V. Administrar el presupuesto que le sea asignado al Instituto "Prisciliano Sánchez" y dar los informes correspondientes cuando el pleno del Tribunal Electoral se los solicite;
+
+VI. Fomentar la continuidad de los programas académicos de posgrado que se impartan en el Instituto, buscando siempre la capacitación electoral profesionalizada;
+
+VII. La suscripción o, en su caso, renovación de los convenios pertinentes con la Secretaría de Educación Jalisco y demás autoridades educativas, que resulten necesarios para el cumplimiento de los fines del Instituto;
+
+VIII. Administrar y aplicar los recursos provenientes por concepto de matrícula, cuotas de recuperación y cualquier ingreso de los alumnos del Instituto;
+
+IX. Delegar a un Jefe de Departamento del Instituto las atribuciones que la ley le confiere, durante el proceso electoral, y
+
+X. Las demás que le confieran esta ley, el Reglamento Interior del Tribunal Electoral y el Reglamento de Posgrado.
+
+Cuando el Tribunal se haya instalado en pleno en tiempo electoral y el Director deje sus funciones para integrar ponencia, las atribuciones de éste las dejará a cargo en uno de los jefes de departamento del Instituto que dirige, en tanto se reintegre el Director a sus funciones. Por las funciones que realice como director el jefe de departamento no recibirá ninguna retribución extra a la de su nombramiento.
 
 ###### Artículo 99.
 
-Las diferencias o conflictos entre el Consejo Electoral del Estado y sus servidores serán resueltas por el Tribunal Electoral conforme al siguiente procedimiento:
+Las diferencias o conflictos entre el Instituto Electoral y de Participación Ciudadana del Estado de Jalisco y sus servidores, serán resueltas por el Tribunal Electoral conforme al siguiente procedimiento:
 
-I. Cualquier servidor del Consejo Electoral del Estado, de sus organismos y de la Dirección del Registro Estatal de Electores que hubiese sido sancionado o destituido de su cargo, podrá inconformarse mediante demanda que presente directamente ante el Tribunal Electoral, dentro de los quince días hábiles siguientes al día en que se notifique la determinación del Consejo Electoral;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+I. Cualquier servidor del Instituto Electoral y de Participación Ciudadana del Estado, de sus organismos y de la Dirección del Registro Estatal de Electores que hubiere sido sancionado o destituido de su cargo, podrá inconformarse mediante demanda que presente directamente ante el Tribunal Electoral, dentro de los quince días hábiles siguientes al día en que se notifique la determinación del Consejo General del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JULIO DE 2001)</small>
 
@@ -1599,13 +1703,21 @@ e) Ofrecer las pruebas en el escrito con el que se inconforme, y acompañar las 
 
 f) Asentar su firma autógrafa;
 
-IV. Son partes en el procedimiento, el servidor afectado por el acto o resolución, y el Consejo Electoral del Estado. El promovente deberá actuar personalmente o por conducto de apoderado y el Consejo Electoral de Estado lo hará por conducto de sus representantes legales;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
-V. Presentado el escrito en cuestión, se correrá traslado en copia certificada al Consejo Electoral del Estado, dentro de los tres días hábiles siguientes al de su presentación;
+IV. Son partes en el procedimiento el servidor afectado por el acto o resolución, y el Instituto Electoral y de Participación Ciudadana del Estado de Jalisco. El promovente deberá actuar personalmente o por conducto de apoderado y el Instituto lo hará por conducto de sus representantes legales;
 
-VI. El Consejo Electoral del Estado, deberá contestar dentro de los diez días hábiles siguientes, al en que se le notifique la presentación del escrito del promovente;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
-VII. Se celebrará una audiencia de conciliación, desahogo de pruebas y alegatos dentro de los quince días hábiles siguientes al en que se reciba la contestación del Consejo Electoral del Estado;
+V. Presentando el escrito en cuestión, se correrá traslado en copia certificada al Instituto Electoral y de Participación Ciudadana del Estado de Jalisco, dentro de los tres días hábiles siguientes al de su presentación;
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+VI. El Instituto Electoral y de Participación Ciudadana del Estado de Jalisco, deberá contestar dentro de los diez días hábiles siguientes a partir de que se le notifique la presentación del escrito del promovente;
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+VII. Se celebrará una audiencia de conciliación, desahogo de pruebas y alegatos dentro de los quince días hábiles siguientes a partir de que se reciba la contestación del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco;
 
 > <small>(REFORMADA, P.O. 17 DE JULIO DE 2001)</small>
 
@@ -1615,7 +1727,9 @@ VIII. El Tribunal Electoral o la Sala Permanente, en su caso, determinará la ad
 
 IX. Desahogadas las pruebas se resolverá el asunto en forma definitiva, dentro de los diez días hábiles siguientes a la celebración de la audiencia a que se refiere la fracción VII de este artículo. La resolución se notificará a las partes personalmente si señalaron domicilio, en caso contrario se hará por estrados; y
 
-X. Los efectos de la resolución podrán ser en el sentido de confirmar, modificar revocar el acto o resolución impugnada, y ésta será definitiva. En el supuesto de que la resolución ordene dejar sin efectos la destitución del servidor del Consejo Electoral del Estado, éste último podrá negarse a reinstalarlo, pagando la indemnización que legalmente corresponda.
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+X. Los efectos de la resolución podrán ser en el sentido de confirmar, modificar, revocar el acto o resolución impugnada, y ésta será definitiva. En el supuesto de que la resolución ordene dejar sin efectos la destitución del servidor del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco, éste último podrá negarse a reinstalarlo, pagando la indemnización que legalmente corresponda.
 
 ###### Artículo 100.
 
@@ -1633,7 +1747,7 @@ Durante el tiempo que transcurra entre dos procesos electorales, es competente p
 
 En el supuesto de que la resolución ordene dejar sin efectos la destitución del servidor del Tribunal Electoral del Estado, éste último podrá negarse a reinstalarlo, pagando la indemnización que legalmente corresponda.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE JULIO DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
 ### CAPÍTULO I. DE LA COMPETENCIA Y ORGANIZACIÓN DE LOS JUZGADOS DE PRIMERA INSTANCIA
 
@@ -3504,3 +3618,15 @@ SEXTO. Para el caso de lo contemplado en el artículo 66, párrafos primero y se
 > <small>(F. DE E., P.O. 10 DE MAYO DE 2012)</small>
 
 SÉPTIMO. Las solicitudes de apoyo que presenten las personas físicas o jurídicas ante el Consejo de Promoción Económica del Estado de Jalisco, podrán hacer referencia al Expediente único que contempla la Ley de Mejora Regulatoria del Estado de Jalisco.
+
+P.O. 20 DE SEPTIEMBRE DE 2012.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. El Tribunal Electoral del Poder Judicial del Estado de Jalisco hará las reasignaciones correspondientes de su presupuesto para el funcionamiento del Instituto "Prisciliano Sánchez".
+
+TERCERO. El Tribunal Electoral del Poder Judicial del Estado de Jalisco, deberá adecuar su reglamento interior, con las disposiciones de este decreto y las leyes vigentes, dentro de un plazo máximo de noventa días contados a partir del día siguiente a la entrada en vigor de este ordenamiento.
+
+CUARTO. En tanto se hagan las adecuaciones presupuestales necesarias, para el funcionamiento del Instituto "Prisciliano Sánchez", se podrán cubrir las vacantes de las jefaturas de departamento y oficina creadas a partir de la presente reforma, con el personal que integra la actual plantilla del Tribunal Electoral del Estado de Jalisco, seleccionados por los magistrados.
+
+QUINTO. Las disposiciones contenidas en los artículos 75, 79, 85, 86 y 88 de la Ley Orgánica del Poder Judicial del Estado de Jalisco, relativas a los magistrados suplentes de los tribunales Electoral y Administrativo, no afectarán derechos adquiridos previamente.
