@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-transito-del-estado-de-mexico-15550"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-21"
-last_updated: "2004-08-09"
+last_updated: "2012-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DE TRÁNSITO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE AGOSTO DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE SEPTIEMBRE DE 2012.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el lunes 21 de septiembre de 1992.
 
@@ -163,13 +163,17 @@ VI.- Auxiliar en la prevención y persecución de delitos a los cuerpos policía
 
 En el ejercicio de sus funciones, los agentes de tránsito del Estado están facultades para:
 
-I.- Levantar las boletas de infracción por violación a los ordenamientos de tránsito y demás disposiciones de observancia general, absteniéndose de amedrentar, extorsionar, injuriar, amenazar o denigrar al infractor, haciéndole entrega con respeto y de buen modo, de dichas boletas;
+> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2012)</small>
+
+I.- Expedir el documento impreso por la terminal electrónica en el que conste la infracción y la sanción, por violación a los ordenamientos de tránsito y demás disposiciones de observancia general, absteniéndose de amedrentar, extorsionar, injuriar, amenazar o denigrar al infractor, haciéndole entrega con respeto y de buen modo, de la infracción;
 
 II.- Amonestar severamente a los peatones que no respeten las señales de tránsito;
 
 III.- Detener y remitir a disposición del Ministerio Público, a los conductores de vehículos que presumiblemente manejen en estado de ebriedad o bajo efecto de drogas enervantes o a los que hubiesen cometido hechos configurativos de delito;
 
-IV.- En los accidentes de tránsito en los que únicamente se produzcan daños materiales a los vehículos, los agentes tendrán la obligación de conminar a los afectados, a fin de que lleguen éstos a un arreglo inmediato para evitar el entorpecimiento de la circulación. En caso de que las partes no acepten tal sugerencia, deberán remitirlos al Ministerio Público para los efectos de la intervención legal que corresponda. En todo caso, el agente de tránsito levantará la infracción correspondiente;
+> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2012)</small>
+
+IV.- En los accidentes de tránsito en los que únicamente se produzcan daños materiales a los vehículos, los agentes tendrán la obligación de exhortar a los afectados, a fin de que lleguen a un arreglo inmediato para evitar el entorpecimiento de la circulación. En caso de que las partes no acepten tal sugerencia, deberán remitirlos a la autoridad competente para los efectos de la intervención legal respectiva. En todo caso, el agente de tránsito levantará la infracción correspondiente;
 
 V.- Detener y remitir al depósito más cercano aquellos vehículos cuyos conductores se hagan acreedores a dicha sanción, en los términos de este reglamento;
 
@@ -1131,9 +1135,9 @@ XVI.- Abstenerse, de conducir bajo el efecto de drogas o psicotrópicos;
 
 XVII.- Abstenerse de conducir en estado de ebriedad;
 
-> <small>(REFORMADA G.G. 9 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2012)</small>
 
-XVIII.- En caso de infracción hacer entrega a los agentes de tránsito que lo soliciten de la licencia y/o permiso para conducir vehículos, de la tarjeta de identificación personal para operadores de transporte público, de la tarjeta de circulación y, en su caso de la placa para que procedan a la formulación de la boleta correspondiente.
+XVIII.- En caso procedente, hacer entrega a los agentes de tránsito que lo soliciten de la licencia y/o permiso para conducir vehículos, de la tarjeta de identificación personal para operadores de transporte público, de la tarjeta de circulación y, en su caso de la placa para que procedan a la formulación del documento impreso por la terminal electrónica en el que conste la infracción y la sanción que el agente de tránsito expida al infractor.
 
 XIX.- Abstenerse de retroceder en vías de circulación continua o intersecciones, excepto por una obstrucción en la vía que impida continuar la marcha;
 
@@ -1339,9 +1343,9 @@ VI.- Los conductores de otros vehículos y los peatones que pasen por el lugar d
 
 Los conductores de vehículos y los peatones implicados en un accidente del que resulten daños a los bienes, deberán proceder en la forma siguiente:
 
-> <small>(REFORMADA, G.G. 8 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2012)</small>
 
-I. Cuando resulten únicamente daños a bienes de propiedad privada, los implicados, sin necesidad de recurrir a autoridad alguna, podrán llegar a un acuerdo sobre el pago de los mismos y de ser así, procederán a retirarse sin sanción alguna. De no lograrse el acuerdo, serán presentados ante el agente del ministerio público de la adscripción, para los efectos de su competencia; y
+I.- Cuando resulten únicamente daños a bienes de propiedad privada, los implicados, sin necesidad de recurrir a autoridad alguna, podrán llegar a un acuerdo sobre el pago de los mismos y de ser así, procederán a retirarse sin sanción alguna. De no lograrse el acuerdo, serán presentados ante la autoridad competente, para los efectos de su competencia; y
 
 II.- Cuando resulten daños a bienes propiedad de la federación, del estado o de los municipios, los implicados darán aviso a las autoridades competentes, para que éstas puedan comunicar a su vez los hechos a las dependencias, cuyos bienes hayan sido afectados, para los efectos procedentes.
 
@@ -1459,25 +1463,25 @@ III.- Señalar al conductor la infracción que ha cometido, mostrando el artícu
 
 IV.- Indicar al conductor que muestre su licencia y/o permiso para conducir vehículos, tarjeta de identificación personal para operadores de transporte público, tarjeta de circulación, y en su caso permiso de ruta de transporte de carga riesgosa.
 
-V.- Una vez mostrados los documentos, levantar la boleta de infracción y entregar al infractor el ejemplar que corresponda;
+> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2012)</small>
 
-> <small>(REFORMADA G.G. 9 DE AGOSTO DE 2004)</small>
+V.- Una vez mostrados los documentos, expedir el documento impreso por la terminal electrónica en el que conste la infracción y la sanción que el agente de tránsito expide al infractor;
 
-VI.- Se retendrá la tarjeta de circulación del vehículo con el que se cometa una infracción para garantizar el pago de una sanción respectiva. A falta de este documento se podrá retener la licencia y/o permiso para conducir vehículos y la tarjeta de identificación personal para operadores de transporte público y a falta de los anteriores una placa del vehículo, y
+VI.- (DEROGADA, G.G. 20 DE SEPTIEMBRE DE 2012)
 
-VII.- Desde la identificación del agente de tránsito, hasta el levantamiento de la boleta de infracción, se deberá proceder sin interrupción.
+> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2012)</small>
+
+VII.- Desde la identificación del agente de tránsito hasta la expedición de la infracción, se deberá proceder sin interrupción.
+
+> <small>(ADICIONADO, G.G. 20 DE SEPTIEMBRE DE 2012)</small>
+
+Las autoridades de tránsito se abstendrán de retener la tarjeta de circulación del vehículo con el que se cometa una infracción, la licencia del conductor y la placa de matriculación del vehículo, salvo los casos previstos por el artículo 8.19 fracción II del Código Administrativo del Estado de México y las demás disposiciones relativas.
+
+> <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 117.
 
-Se impedirá la circulación de cualquier vehículo, poniéndolo de inmediato junto con su conductor a disposición del Ministerio Público, en los siguientes casos:
-
-I.- Cuando el conductor que cometa alguna infracción al presente ordenamiento, muestre síntomas inequívocos de ebriedad, o de estar bajo el influjo de estupefacientes, psicotrópicos u otras sustancias tóxicas;
-
-II.- Cuando como consecuencia de un accidente de tránsito se hubieren causado daños en bienes ajenos, lesiones, homicidio, o se incurriere en la comisión de cualquier otro delito; y
-
-III.- Cuando los involucrados en un accidente de tránsito en que se hubieren causado daños a los vehículos, no llegaren a un arreglo del pago correspondiente.
-
-En los casos anteriores, cuando los conductores sean menores de edad, los agentes de tránsito los pondrán también a disposición del Ministerio Público, debiéndose notificar de inmediato a los padres de dichos menores o a quien tenga su representación legal.
+Se impedirá la circulación de cualquier vehículo, poniéndolo de inmediato junto con su conductor a disposición del Ministerio Público, cuando como consecuencia de un accidente de tránsito se hubieren causado lesiones, homicidio, o se incurriera en la comisión de cualquier otro delito.
 
 ###### Artículo 118.
 
@@ -1493,7 +1497,7 @@ III.- Cuando las placas del vehículo no coincidan en números y letras con la c
 
 IV.- Cuando estando estacionado el vehículo en lugar prohibido o en doble o triple fila, su conductor no esté presente;
 
-V.- Cuando estando obligado a ello, el vehículo carezca de la constancia que acredite emisión de contaminantes dentro de los límites permitidos o cuando circule en días no permitidos;
+V.- (DEROGADA, G.G. 20 DE SEPTIEMBRE DE 2012)
 
 VI.- Por conducir en estado de ebriedad o por el influjo de drogas enervantes o psicotrópicos;
 
@@ -1509,7 +1513,9 @@ X. Por incumplimiento o violación reiterada de las condiciones fijadas para la 
 
 XI. En los casos específicos que determinen otras disposiciones legales.
 
-En todos los casos a que se refiere este artículo, el manejador tiene el derecho de conducir su vehículo hasta el depósito más cercano que la autoridad le indique y solo en caso de negativa o de abandono de la unidad, el traslado podrá efectuarse por medio del servicio autorizado de grúas.
+> <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2012)</small>
+
+En los casos a que se refiere este artículo, con excepción de los contenidos en las fracciones VI y VII, el conductor tiene el derecho de conducir su vehículo hasta el depósito más cercano que la autoridad le indique y sólo en caso de negativa o de abandono de la unidad el traslado podrá efectuarse por medio del servicio autorizado de arrastre.
 
 ###### Artículo 119.
 
@@ -1537,6 +1543,8 @@ En caso de que el vehículo retenido porte colores de empresa o ruta de servicio
 
 DE LOS MEDIOS DE IMPUGNACION.
 
+> <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 122.
 
 Únicamente en caso de flagrante infracción a las disposiciones de este reglamento, los agentes de tránsito podrán detener la marcha de un vehículo y exigir a su conductor la exhibición de su licencia y/o permiso para conducir vehículos y la tarjeta de identificación personal para operadores de transporte público, expedida por la Secretaría de Transporte, así como de la tarjeta o el permiso provisional que ampare la circulación de la unidad. Consecuentemente, la sola revisión de documentos no será motivo para detener el tránsito de un vehículo.
@@ -1545,7 +1553,7 @@ Los infractores, serán sancionados de acuerdo a la falta cometida, conforme a l
 
 > <small>N. DE E. VÉASE TABLA DE INFRACCIONES, SANCIONES Y MEDIDAS DE SEGURIDAD EN LA G.G. DE 21 DE SEPTIEMBRE DE 1992, PÁGINAS DE LA 50 A LA 67.</small>
 
-> <small>N. DE E. VÉASE REFORMAS A LA TABLA, G.G. 8 DE OCTUBRE DE 1998, PÁGINA 8; G.G. 9 DE AGOSTO DE 2004, PÁGINA 7; F. DE E., G.G. 10 AGOSTO DE 2004, PÁGINAS DE LA 3 A LA 4.</small>
+> <small>N. DE E. VÉASE REFORMAS A LA TABLA, G.G. 8 DE OCTUBRE DE 1998, PÁGINA 8; G.G. 9 DE AGOSTO DE 2004, PÁGINA 7; F. DE E., G.G. 10 AGOSTO DE 2004, PÁGINAS DE LA 3 A LA 4; G.G. 20 DE SEPTIEMBRE DE 2012, PÁGINAS DE LA 4 A LA 25.</small>
 
 ###### Artículo 123.
 
@@ -1575,23 +1583,27 @@ IV.- Actos o hechos constitutivos de la infracción, así como el lugar, fecha y
 
 V.- Disposiciones legales que las sustentan; y
 
-VI.- Nombre y firma del agente de tránsito que levante la boleta de infracción.
+> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2012)</small>
+
+VI.- Nombre y firma del agente de tránsito que levante la infracción.
+
+> <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 126.
 
-Una vez que el agente de tránsito hubiese llenado la boleta de infracción, en términos del artículo anterior, entregará al infractor el original de la misma, para que proceda al pago de la multa correspondiente, debiéndole informar acerca de la ubicación de la oficina recaudadora más cercana en donde deba hacerlo, así como la dependencia en la que podrá recuperar la tarjeta de circulación, licencia de manejo o la placa, que en su caso se haya retenido.
+Una vez que el agente de tránsito expida el documento en el que conste la infracción, a través de la terminal electrónica en términos del artículo anterior, entregará al infractor el original de la misma, para que proceda al pago de la multa correspondiente, haciéndole saber los beneficios de descuento a que tiene derecho por el pronto pago y los establecimientos autorizados para realizar el pago de la multa.
 
-Cuando el vehículo que conduzca el infractor se encuentre matriculado fuera del Estado de México, el agente de tránsito que levante la infracción podrá retener la placa de matrícula de la unidad como medida para garantizar el pago de la multa. El agente deberá remitir la placa a la oficina correspondiente, debiendo, asimismo, informar al infractor acerca de la ubicación exacta de la dependencia en donde podrá recuperar su placa una vez pagada la multa.
+Cuando el vehículo que conduzca el infractor se encuentre matriculado fuera del Estado de México, el agente de tránsito que levante la infracción podrá retener la tarjeta de circulación, la licencia del conductor o la placa de matrícula del vehículo como medida para garantizar el pago de la multa. El agente deberá remitir la placa a la oficina correspondiente, debiendo, asimismo, informar al infractor de los beneficios a que tiene derecho en términos del presente artículo, así como la dependencia en que podrá recoger los documentos retenidos.
 
-> <small>(REFORMADO, G.G. 8 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 127.
 
-El infractor que pague el importe de la multa dentro de los cinco días hábiles siguientes a la fecha de la infracción, tendrá derecho a un descuento del 50%.
+Si el infractor realiza el pago de la infracción el mismo día, obtendrá un descuento del 70% y cuando pague la multa dentro de los quince días hábiles siguientes, tendrá derecho a un descuento del 50%.
 
 ###### Artículo 128.
 
-Contra las sanciones que se impongan por infracción a las disposiciones a la Ley de Tránsito y Transportes y de este Reglamento, procede la impugnación mediante el recurso correspondiente o ante el Tribunal de lo Contencioso Administrativo del Estado de México, en los términos y formas señalados por la Ley de Justicia Administrativa.
+Contra las sanciones que se impongan por infracción a la (sic) disposiciones legales y de este Reglamento, procede la impugnación mediante el recurso correspondiente o ante el Tribunal de lo Contencioso Administrativo del Estado de México, en los términos y formas señalados por el Código de Procedimientos Administrativos del Estado de México.
 
 > <small>(REFORMADO, G.G. 8 DE OCTUBRE DE 1998)</small>
 
@@ -1648,3 +1660,15 @@ G.G. 9 DE AGOSTO DE 2004.
 PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Este Acuerdo entrara en vigor el día de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+G.G. 20 DE SEPTIEMBRE DE 2012.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Las Secretarías de Finanzas y de Seguridad Ciudadana; en su esfera administrativa respectivamente, dispondrán lo necesario para proveer los recursos humanos, materiales y financieros, para dar cumplimiento a lo establecido por el presente Acuerdo.
+
+CUARTO.- Dentro de los sesenta días hábiles siguientes a la entrada en vigor del presente Acuerdo, las Secretarías de Finanzas y de Seguridad Ciudadana, dispondrán lo necesario para que los agentes de tránsito cuenten con la terminal electrónica.
+
+QUINTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en las presentes reformas.
