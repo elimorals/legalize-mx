@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-participacion-ciudadana-para-el-estado-de-durango-56446"
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-28"
-last_updated: "2009-06-18"
+last_updated: "2012-09-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56446&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY DE PARTICIPACION CIUDADANA PARA EL ESTADO DE DURANGO
 
-LEY DE PARTICIPACION CIUDADANA PARA EL ESTADO DE DURANGO
+LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 20 DE SEPTIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 28 de junio de 2007.
 
@@ -165,7 +167,7 @@ En el plebiscito y referéndum, el voto es universal, libre, secreto, directo, p
 
 Tendrán derecho a intervenir en los mecanismos de participación ciudadana, en los términos que marca esta Ley, los ciudadanos duranguenses en pleno ejercicio de sus derechos, inscritos en el padrón y en la lista nominal, que cuenten con credencial para votar y no estén dentro de los supuestos establecidos en el artículo 22 de la Constitución Local.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE JUNIO DE 2009)</small>
 
 ## TÍTULO SEGUNDO. DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE DURANGO
 
@@ -177,7 +179,7 @@ Tendrán derecho a intervenir en los mecanismos de participación ciudadana, en 
 
 El Instituto Electoral tendrá a su cargo la declaración de procedencia, organización, desarrollo y validación, en su caso, de los mecanismos de plebiscito y referéndum, en los términos señalados en esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 11.
 
@@ -193,7 +195,7 @@ IV. Dar certeza de los resultados en los procesos de plebiscito y referéndum.
 
 ### CAPÍTULO II. DE LA COMISIÓN DE PARTICIPACIÓN CIUDADANA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 12.
 
@@ -405,7 +407,7 @@ Dentro de un año contado a partir de la publicación del decreto derogatorio o 
 
 ### CAPÍTULO I. DE LA DECLARACIÓN DE PROCEDENCIA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 33.
 
@@ -677,7 +679,7 @@ Los recursos se canalizarán a través del Instituto Electoral, a quien le corre
 
 (DEROGADO, P.O. 16 DE NOVIEMBRE DE 2008)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE JUNIO DE 2009)</small>
 
 ### CAPÍTULO II. DE LA IMPUGNACIÓN ANTE EL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO
 
@@ -733,7 +735,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. OLIVERIO REZA CUELLAR.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 16 DE NOVIEMBRE DE 2008.
 
@@ -746,3 +748,15 @@ P.O. 18 DE JUNIO DE 2009.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente Decreto.
+
+P.O. 20 DE SEPTIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día 20 de Septiembre del año en curso.
+
+Publíquese en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Participación Ciudadana para el Estado de Durango, aprobada el 6 de junio de 2007, bajo el Decreto No. 379, y publicado en el Periódico Oficial del Gobierno del Estado No. 51, de fecha 28 de junio de 2007; así mismo, se derogan las reformas realizadas a la misma.
