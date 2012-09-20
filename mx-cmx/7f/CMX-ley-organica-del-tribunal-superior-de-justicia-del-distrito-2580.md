@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-tribunal-superior-de-justicia-del-distrito-258
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-01-29"
-last_updated: "2012-07-27"
+last_updated: "2012-09-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2580&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,495 +20,687 @@ issue_date: "1996-01-09"
 ---
 # LEY ORGANICA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
-REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLÓGICA DE LEÓN
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE NOVIEMBRE DE 2012 EN LA G.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2018.
+LEY ORGÁNICA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
-Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el sábado 30 de junio de 2001.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE SEPTIEMBRE DE 2012.
 
-AL MARGEN UN SELLO CON EL ESCUDO DE LA NACION.- PODER EJECUTIVO.- GUANAJUATO.
+Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 29 de enero de 1996 y republicada en la Sección Primera del Diario Oficial de la Federación, el miércoles 7 de febrero de 1996.
 
-Juan Carlos Romero Hicks, Gobernador Constitucional del Estado Libre y Soberano de Guanajuato, en ejercicio de las facultades que me confieren los artículos 77 fracciones II y III y 79 de la Constitución Política del Estado de Guanajuato; y en observancia de lo dispuesto por los artículos 2o, 3o, 9o y 38 de la Ley Orgánica del Poder Ejecutivo para el Estado, y
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-CONSIDERANDO.
+ERNESTO ZEDILLO PONCE DE LEON, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
 
-Por lo anteriormente expuesto y con fundamento en las disposiciones legales y consideraciones previamente señaladas, he tenido a bien expedir el siguiente:
+Que la H. Asamblea de Representantes del Distrito Federal, se ha servido dirigirme el siguiente
 
-DECRETO GUBERNATIVO NÚMERO 61
+DECRETO
 
-Artículo Único.- Se expide el Reglamento Interior de la Universidad Tecnológica de León, para quedar en los siguientes términos:
+"LA ASAMBLEA DE REPRESENTANTES DEL DISTRITO FEDERAL, DECRETA:
 
-REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLÓGICA DE LEÓN
+LEY ORGANICA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
 ## TITULO PRIMERO. De la Función Jurisdiccional
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+### CAPITULO UNICO. Disposiciones Generales
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 1o.
 
-El presente Reglamento tiene por objeto regular la organización, funcionamiento y facultades de las unidades administrativas que integran el organismo público descentralizado de la Administración Pública Estatal denominado Universidad Tecnológica de León.
+Las disposiciones de esta Ley son de orden público e interés general y tienen por objeto regular la organización y funcionamiento del Tribunal Superior de Justicia, del Consejo de la Judicatura del Distrito Federal y demás órganos judiciales que esta ley señale, con base en lo que establece la Constitución Política de los Estados Unidos Mexicanos, el Estatuto de Gobierno del Distrito Federal y demás ordenamientos legales aplicables.
+
+El Tribunal Superior de Justicia es Órgano de Gobierno y autoridad local del Distrito Federal cuyo objeto en (sic) la administración e impartición de justicia del fuero común en el Distrito Federal.
+
+El Consejo de la Judicatura es el órgano encargado de manejar, administrar y ejercer, de manera autónoma, el presupuesto tanto del Tribunal Superior de Justicia del Distrito Federal como el propio, de conformidad con las disposiciones jurídicas aplicables en materia presupuestal.
+
+Se establecen como principios que regulan la función judicial, tanto en su aspecto de impartición de Justicia, como en su aspecto administrativo los siguientes: la expeditez, el impulso procesal oficioso, la imparcialidad, la legalidad, la honradez, la independencia, la caducidad, la sanción administrativa, la oralidad, la formalidad, la calidad total en sus procesos operativos, administrativos y contables, la excelencia en recursos humanos, la vanguardia en sistemas tecnológicos, la carrera judicial, la eficiencia y eficacia.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO UNICO DEL DECRETO QUE MODIFICA LA LEY, PUBLICADO EN LA G.O. DE 10 DE SEPTIEMBRE DE 2009, CAMBIA LA ESTRUCTURA DEL PRESENTE ARTÍCULO DE OCHO FRACCIONES A DOS.</small>
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 8 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 2o.
 
-La Universidad Tecnológica de León tiene a su cargo el desempeño de las facultades que le señalen su Decreto de Reestructuración, el Convenio de Coordinación celebrado entre el Gobierno del Estado y el Gobierno Federal, los reglamentos, acuerdos y demás disposiciones de carácter general dentro del ámbito de su competencia.
+El ejercicio jurisdiccional en todo tipo de asuntos Civiles, Mercantiles, Penales, de Extinción de Dominio, familiares y los del orden federal en los casos que expresamente las leyes les confieran jurisdicción, corresponde a los servidores públicos y órganos judiciales que se señalan a continuación:
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+
+I. Magistrados del Tribunal Superior de Justicia del Distrito Federal; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+
+II. Jueces del Distrito Federal.
+
+> <small>(REFORMADO, G.O. 14 DE NOVIEMBRE DE 2007)</small>
+
+Los demás servidores públicos y auxiliares de la administración de justicia intervendrán en dicha función en los términos que establece esta Ley, los Códigos de Procedimientos y demás leyes aplicables.
 
 ###### Artículo 3o.
 
-Para los efectos del presente Reglamento, se entenderá por:
+Los árbitros no ejercerán autoridad pública, pero de acuerdo con las reglas y restricciones que fija el Código de Procedimientos Civiles para el Distrito Federal, conocerán, según los términos de los compromisos respectivos, del negocio o negocios civiles que les encomienden los interesados. Para que resulten ejecutables sus fallos, éstos deben ser homologados por la autoridad civil correspondiente, sólo en relación con los requisitos inherentes a su formalidad.
 
-I.- Universidad: La Universidad Tecnológica de León;
-
-II.- Convenio: El Convenio de Coordinación para la creación, operación y apoyo financiero de la Universidad Tecnológica de León, celebrado entre el Gobierno Estatal y Federal;
-
-III.- Decreto: El Decreto Gubernativo de Reestructuración de la Universidad;
-
-IV.- Consejo: El Consejo Directivo de la Universidad; y
-
-V.- Rector: El Rector de la Universidad.
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 4o.
 
-La Comunidad Universitaria estará integrada por el personal académico, los alumnos, los egresados, las autoridades que establece el Decreto, los funcionarios, el personal administrativo y los integrantes del Patronato.
+Son auxiliares de la administración de Justicia y están obligados a cumplir órdenes que, en el ejercicio de sus atribuciones legales, emitan jueces y magistrados del Tribunal:
+
+I. El Registro Civil;
+
+II. El Registro Público de la Propiedad y el Comercio;
+
+III. Los peritos médicos legistas;
+
+IV. Los intérpretes oficiales y demás peritos en las ramas que les sean encomendadas;
+
+V. Los síndicos e interventores de concursos y quiebras;
+
+VI. Los albaceas, interventores, depositarios, tutores, curadores y notarios, en las funciones que les encomienden las leyes correspondientes;
+
+VII. La Secretaría de Finanzas;
+
+VIII. La Secretaría del Trabajo y Fomento al Empleo;
+
+IX. La Secretaría de Salud;
+
+X. La Secretaría de Educación;
+
+XI. La Secretaría de Desarrollo Social;
+
+XII. Sistema para el Desarrollo Integral de la Familia, y (sic)
+
+XIII. La Secretaría de Seguridad Pública y la Policía adscrita a la Procuraduría General de Justicia del Distrito Federal, y
+
+XIV. Todos los demás a quienes las leyes les confieran ese carácter.
+
+El Jefe de Gobierno del Distrito Federal facilitará el ejercicio de las funciones a que se refiere este artículo.
+
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
 
 ###### Artículo 5o.
 
-La Comunidad Universitaria, tendrá las siguientes facultades:
-
-I.- Cumplir con los fines de la Universidad;
-
-II.- Preservar el patrimonio material y cultural de la Universidad; y
-
-III.- Proteger los intereses de la Universidad, adoptando las medidas necesarias para evitar la realización de actos que menoscaben su prestigio moral y académico.
+Para los efectos de esta Ley, habrá un sólo partido judicial con la extensión y límites que para el Distrito Federal señale la Ley Orgánica de la Administración Pública correspondiente.
 
 ## TITULO SEGUNDO. De las Condiciones y Prohibiciones para Ejercer Funciones Judiciales
 
-### CAPÍTULO SEGUNDO. DEL GOBIERNO DE LA UNIVERSIDAD
+### CAPITULO I. De la Designación
+
+> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 6o.
 
-El órgano máximo de gobierno de la Universidad será el Consejo Directivo, el cual se integra de conformidad con lo dispuesto en el Decreto, mismo que establece las facultades que a éste le corresponden.
+Los nombramientos de los Magistrados al Tribunal Superior de Justicia del Distrito Federal se harán en los términos previstos por la Constitución Política de los Estados Unidos Mexicanos, el Estatuto de Gobierno del Distrito Federal y la Ley Orgánica de la Asamblea Legislativa del Distrito Federal.
+
+> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 7o.
 
-El Consejo sesionará ordinaria y extraordinariamente de conformidad a la normatividad que para tal efecto expida el mismo.
+Para que surtan efectos los nombramientos a que se refiere el artículo anterior, se sujetarán a la aprobación de la Asamblea Legislativa del Distrito Federal, la cual deberá otorgar o negar la aprobación dentro del improrrogable plazo de quince días, contados desde que se reciba en la propia Asamblea el oficio respectivo de la autoridad correspondiente. Para computar dicho plazo, el oficio que contenga la designación de los servidores públicos se remitirá a la Asamblea Legislativa del Distrito Federal con una copia, a fin de que en ésta, el Oficial Mayor o quien haga sus veces, asiente razón de recibo con la fecha correspondiente.
+
+> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 8o.
 
-Para el estudio, planeación, programación, ejecución y despacho de sus asuntos, la Universidad contará con la siguiente estructura organizacional:
+Si la Asamblea Legislativa del Distrito Federal no resolviere dentro de los quince días a que se refiere el artículo anterior, se tendrán por aprobados los nombramientos hechos por el Jefe de Gobierno del Distrito Federal y se hará saber así a los interesados para que entren desde luego al desempeño de sus funciones.
 
-I.- Rector;
+Si la Asamblea Legislativa del Distrito Federal desecha el nombramiento, el Jefe de Gobierno del Distrito Federal someterá nuevo nombramiento en los términos previstos por el artículo 67 fracción VIII del Estatuto de Gobierno del Distrito Federal.
 
-II.- Secretarios;
-
-III.- Direcciones;
-
-IV.- Subdirecciones; y
-
-V.- Jefaturas de Departamento.
+> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 9o.
 
-Los titulares de las unidades administrativas señaladas en el artículo anterior, podrán auxiliarse del personal que requieran las necesidades del servicio y permita el presupuesto de la Universidad.
+En caso de que la Asamblea no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Jefe de Gobierno del Distrito Federal hará un tercero que surtirá sus efectos desde luego como provisional y que estará sometido a la aprobación de la Asamblea Legislativa del Distrito Federal.
+
+Dentro de los quince días a que se refiere el artículo 7o. de esta ley, la Asamblea Legislativa del Distrito Federal deberá aprobar o no el nombramiento, y si nada resuelve, el Magistrado nombrado provisionalmente continuará en sus funciones con el carácter de definitivo, haciendo el Jefe de Gobierno del Distrito Federal la declaración correspondiente. Si la Asamblea Legislativa del Distrito Federal rechaza el nombramiento, cesará en sus funciones el Magistrado provisional y el Jefe de Gobierno del Distrito Federal someterá nuevo nombramiento en los términos que se indican en este precepto y en los artículos anteriores.
+
+(REFORMADO, G.O. 24 DE ABRIL DE 2003) (F. DE E., G.O. 1 DE JULIO DE 2003)
 
 ###### Artículo 10.
 
-El Rector, además de las facultades previstas en el Decreto, tendrá las siguientes:
+Los Magistrados del Tribunal Superior de Justicia del Distrito Federal, deberán de rendir la protesta de ley ante la Asamblea Legislativa del Distrito Federal.
 
-I.- Expedir, junto con el Secretario Académico, los títulos, diplomas y reconocimientos, que deba otorgar la Universidad, conforme a los planes de estudios autorizados;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II.- Dar a conocer oficialmente los reglamentos, acuerdos y demás documentos de observancia general que expida el Consejo; y
-
-III.- Las demás que le señalen las disposiciones legales y reglamentarias, así como aquéllas que le confiera el Consejo.
+> <small>(REFORMADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 11.
 
-Los Secretarios, tendrán a su cargo las siguientes facultades genéricas:
+Todo Magistrado al término de su encargo, será sometido al procedimiento de ratificación. Para tal efecto, el Presidente del Tribunal Superior de Justicia del Distrito Federal deberá hacer del conocimiento del Jefe de Gobierno del Distrito Federal, con una antelación de por lo menos cuarenta y cinco días, el nombre del o los Magistrados que estén por concluir el ejercicio de su encargo.
 
-I.- Colaborar con el Rector en todos los asuntos que éste le encomiende y los que sean de su competencia;
+El Jefe de Gobierno del Distrito Federal remitirá a la Asamblea Legislativa del Distrito Federal, con una antelación de treinta días a la fecha de conclusión del encargo del funcionario judicial, el nombre del o los Magistrados propuestos por él, en los términos del Estatuto de Gobierno.
 
-II.- Firmar conjuntamente con el Rector, en su caso, los grados, certificados, constancias y demás documentos oficiales; y
+En los casos de propuesta de nombramiento así como en el de ratificación del encargo, el Jefe de Gobierno del Distrito Federal anexará un expediente en el que se integren un extracto curricular del desarrollo profesional del candidato así como con la documentación que acredite el cumplimiento de los requisitos establecidos por el artículo 16 de la presente ley.
 
-III.- Las demás que les señale el presente Reglamento y las disposiciones legales y reglamentarias aplicables, así como aquéllas que les confiera el Rector.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 12.
 
-La Universidad contará con los siguientes Secretarios:
-
-I.- Secretario Académico; y
-
-II.- Secretario de Vinculación y Extensión.
+El nombramiento de los Jueces será por un período de seis años, mismo que a su conclusión se puede ampliar por períodos iguales, si el Consejo de la Judicatura del Distrito Federal así lo determina, atendiendo al resultado aprobatorio del examen de actualización, los antecedentes del servidor de que se trate, conforme a la hoja de servicios que de él se tenga y en relación con el desempeño de las labores encomendadas por la Ley, considerando además los elementos que precisa el artículo 194 de esta Ley.
 
 ###### Artículo 13.
 
-El Secretario Académico, tendrá las siguientes facultades:
-
-I.- Proponer las políticas, lineamientos y acciones que permitan el cumplimiento de las labores de la Universidad, en el ámbito de su competencia;
-
-II.- Planear los servicios escolares que se proporcionan a la comunidad estudiantil;
-
-III.- Coordinar, en forma general, todas las actividades académicas;
-
-IV.- Proponer políticas de superación académica y establecer programas de formación y actualización docente;
-
-V.- Planear y coordinar la creación, actualización y cumplimiento de los planes y programas de estudio; y
-
-VI.- Las demás que le señalen las disposiciones legales y reglamentarias aplicables, así como aquéllas que le confiera el Rector.
+El Pleno y las Salas del Tribunal Superior de Justicia, así como los Jueces y demás órganos judiciales que con cualquier otra denominación se creen, nombrarán y removerán a sus funcionarios y empleados conforme a lo que establezca esta Ley en materia de carrera judicial.
 
 ###### Artículo 14.
 
-El Secretario de Vinculación y Extensión, tendrá las siguientes facultades:
-
-I.- Analizar las tendencias del mercado ocupacional y los cambios económicos, sociales, científicos y tecnológicos, estatales, nacionales e internacionales para la vinculación con el sector productivo;
-
-II.- Promover la participación del sector productivo en los ámbitos académicos, administrativos, financieros y profesionales de la Universidad, de acuerdo con la normatividad vigente;
-
-III.- Promover la realización de convenios en virtud de los cuales la Universidad apoyará al sector productivo en la realización de proyectos de investigación y desarrollo tecnológico para elevar la calidad de sus productos y la productividad de sus procesos, así como para fortalecer el impulso y mejoría académica;
-
-IV.- Difundir y proporcionar a las empresas, personas o instancias que así lo requieran, los servicios que genere, atendiendo a la normatividad aplicable;
-
-V.- Promover cursos de capacitación, actualización y especialización, para alumnos y egresados;
-
-VI.- Realizar todo lo concerniente a la promoción y captación de alumnos; y
-
-VII.- Las demás que le señalen las disposiciones legales y reglamentarias aplicables, así como aquéllas que le confiera el Rector.
+Los Jueces rendirán protesta ante los respectivos Plenos del Tribunal Superior de Justicia del Distrito Federal y del Consejo de la Judicatura. Los demás servidores públicos judiciales harán lo propio ante el titular del órgano que los haya nombrado.
 
 ###### Artículo 15.
 
-Los Directores tendrán las siguientes facultades genéricas:
+Toda persona que fuere nombrada para desempeñar algún cargo o empleo judicial, una vez rendida la protesta de ley, comenzará a ejercer las funciones que le correspondan, dentro de los quince días siguientes a la fecha del nombramiento. Si no se presentare sin causa justificada, el nombramiento se tendrá por no hecho y se procederá a hacer una nueva designación. Tratándose de servidores públicos de la administración de justicia que deban trasladarse para tomar posesión de su puesto a lugares distintos, al plazo señalado deberá aumentarse el lapso que fije la autoridad que hizo la designación.
 
-I.- Vigilar y hace cumplir los planes y programas de estudio, así como de los objetivos y metas propuestas;
+> <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
 
-II.- Vigilar el cumplimiento de las disposiciones que norman la estructura y funcionamiento de la Universidad y ejecutar los acuerdos que dicten sus autoridades;
+Las relaciones de trabajo entre el personal y el Tribunal Superior de Justicia del Distrito Federal se regirán por la Ley Federal de los Trabajadores al Servicio del Estado, reglamentaria del apartado B del artículo 123 Constitucional y las condiciones generales de trabajo.
 
-III.- Determinar y aplicar las sanciones que sean de su competencia;
+### CAPITULO II. De los Requisitos
 
-IV.- Desempeñar las comisiones que le confieran las autoridades universitarias;
-
-V.- Establecer vínculos con los sectores público y privado para la consecución de objetivos tendientes a lograr beneficios para la comunidad universitaria; y
-
-VI.- Las demás que les señale el presente Reglamento y las disposiciones legales y reglamentarias aplicables, así como aquéllas que les confiera el Rector.
-
-### CAPÍTULO TERCERO. DE LA ESTRUCTURA ORGÁNICA DE LA UNIVERSIDAD
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 16.
 
-La Universidad contará con las siguientes Direcciones:
+Para ser nombrado Magistrado se requiere:
 
-I.- Direcciones de Área;
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 1997)</small>
 
-II.- Direcciones de División; y
+I. Ser mexicano por nacimiento, no haber adquirido otra nacionalidad y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
-III.- Direcciones de Carrera.
+II. Tener cuando menos treinta y cinco años de edad cumplidos al día de la designación;
+
+> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
+
+III. Poseer al día de la designación, con antigüedad mínima de diez años, título profesional de Licenciado en Derecho y cédula profesional expedidos por la autoridad o institución legalmente facultada para ello;
+
+IV. Gozar de buena reputación;
+
+V. No haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, lo inhabilitará para el cargo, cualquiera que haya sido la pena;
+
+VI. Haber residido en el país durante los dos años anteriores al día de la designación, y
+
+> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
+
+VII. No haber ocupado el cargo de Jefe de Gobierno del Distrito Federal, Secretario General, Procurador General de Justicia o Diputado a la Asamblea Legislativa del Distrito Federal, durante el año previo al día de la designación.
+
+Los nombramientos de los Magistrados serán hechos preferentemente, de entre aquellas personas que se hayan desempeñado como Jueces o que hayan prestado sus servicios con eficiencia y probidad en la impartición o procuración de justicia, o en su caso, que por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica se consideren aptos para impartirla. En igualdad de circunstancias, se preferirá a los originarios o vecinos del Distrito Federal.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 17.
 
-La Universidad contará con las siguientes Direcciones de Área:
+Para ser Juez del Distrito Federal, se requiere:
 
-I.- Dirección de Desarrollo Académico y Docente;
+> <small>(REFORMADA, G.O. 17 DE JUNIO DE 1997)</small>
 
-II.- Dirección de Extensión Universitaria;
+I. Ser mexicano por nacimiento, no haber adquirido otra nacionalidad y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
-III.- Dirección de Administración y Finanzas; y
+II. Tener cuando menos treinta años de edad cumplidos al día de la designación;
 
-IV.- Dirección de Asuntos Jurídicos.
+III. Tener título de Licenciado en Derecho y Cédula Profesional expedida por la autoridad o institución legalmente facultada para ello;
+
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 1999)</small>
+
+IV. Tener práctica profesional mínima de cinco años, contados a partir de la obtención del título profesional en el campo jurídico, relacionada con el cargo para el que se concursa;
+
+V. Haber residido en el Distrito Federal o en su área Metropolitana durante los dos años anteriores al día de la designación;
+
+VI. Gozar de buena reputación;
+
+VII. No haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, lo inhabilitará para el cargo, cualquiera que haya sido la pena, y
+
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 1999)</small>
+
+VIII. Participar y obtener resultado favorable en el concurso de oposición y en los demás exámenes que establece ésta Ley, en los mismos términos de lo que ésta dispone.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 18.
 
-La Dirección de Desarrollo Académico y Docente, tendrá las siguientes facultades:
+(DEROGADO, G.O. 10 DE SEPTIEMBRE DE 2009)
 
-I.- Apoyar a las carreras en la generación e implementación de programas que fortalezcan el desarrollo docente y estudiantil;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II.- Generar estrategias de apoyo al estudiante para solucionar las causas de no acreditación y deserción escolar;
-
-III.- Dar seguimiento a las actividades educativas tendientes al logro de una mayor eficiencia terminal de los estudiantes;
-
-IV.- Desarrollar diversas alternativas de formación y actualización permanente de la planta docente;
-
-V.- Detectar las necesidades de apoyo bibliográfico de las carreras y solicitar las adquisiciones pertinentes;
-
-VI.- Operar las políticas y lineamientos de control escolar con el fin de tener un sistema de información actualizado de los expedientes académicos de los alumnos;
-
-VII.- Administrar los centros de cómputo para ofrecer apoyo a la demanda de equipo computacional de las diversas carreras;
-
-VIII.- Establecer programas y métodos de apoyo al estudiante, personal docente y administrativo, para el otorgamiento de becas; y
-
-IX.- Las demás que le señalen las disposiciones legales y reglamentarias aplicables, así como aquéllas que le confiera el Rector.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 19.
 
-La Dirección de Extensión Universitaria, tendrá las siguientes facultades:
+Para ser Secretario de Acuerdos en los Juzgados y en las Salas del Tribunal Superior de Justicia, así como para Secretario Proyectista de Segunda Instancia, se requiere:
 
-I.- Fomentar todas aquellas actividades que contribuyan al desarrollo armónico del ser humano;
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
 
-II.- Fortalecer la cultura científica, humanística y tecnológica, así como las actividades artísticas y deportivas en beneficio de la comunidad y su entorno;
+II. Ser Licenciado en Derecho con cédula profesional expedida por la autoridad o institución legalmente facultada para ello;
 
-III.- Impulsar actividades editoriales y de divulgación tendientes a transmitir el acervo del conocimiento científico y tecnológico que se genera y conserva en la Universidad;
+III. Tener dos años de práctica profesional, contados desde la fecha de expedición del título. El requisito de la práctica profesional podrá ser dispensado, tratándose de personal que tenga una antigüedad en el Tribunal de cuando menos dos años, y
 
-IV.- Promover la comunicación interinstitucional;
+IV. No haber sido condenado por delito que amerite pena corporal de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, quedará inhabilitado para el cargo, cualquiera que haya sido la pena.
 
-V.- Impulsar los programas de imagen y promoción institucional en concordancia con el modelo educativo del Sistema de Universidades Tecnológicas; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VI.- Las demás que le señalen las disposiciones legales y reglamentarias aplicables, así como aquéllas que le confiera el Rector.
+> <small>(ADICIONADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+
+Para ser Secretario Auxiliar de Acuerdos de Sala, se necesita que los mismos requisitos señalados en las fracciones anteriores y sus funciones serán asignadas por el Presidente de la Sala a la que se encuentren adscritos.
+
+> <small>(REFORMADO, G.O. 17 DE JUNIO DE 1997)</small>
 
 ###### Artículo 20.
 
-La Dirección de Administración y Finanzas, tendrá las siguientes facultades:
-
-I.- Planear, organizar y controlar los recursos financieros y materiales asignados a la Universidad, conforme a la normatividad aplicable;
-
-II.- Aplicar la estructura orgánica autorizada y verificar el cumplimiento de los procedimientos establecidos;
-
-> <small>(F. DE E., P.O. 21 DE MARZO DE 2002)</small>
-
-III.- Coordinar la elaboración y actualización de manuales administrativos, así como verificar su cumplimiento y difusión;
-
-IV.- Analizar y en su caso, gestionar las modificaciones presupuestales que procedan aplicar;
-
-V.- Coordinar los procesos derivados del control de ingresos propios y del presupuesto de la Universidad;
-
-VI.- Llevar a cabo los procesos de licitación de conformidad a la legislación aplicable; y
-
-VII.- Las demás que le señalen las disposiciones legales y reglamentarias aplicables, así como aquéllas que le confiera el Rector.
+Para ser Primero o Segundo Secretario de Acuerdos de la Presidencia y Tribunal Pleno, así como Secretario Auxiliar de la misma, se necesita que los interesados sean mexicanos por nacimiento y no hayan adquirido otra nacionalidad, satisfagan los requisitos indicados en el artículo que antecede, con la salvedad que en el caso del Secretario Auxiliar no se requiere tener dos años de práctica profesional. El Presidente del Tribunal Superior de Justicia les asignará sus funciones.
 
 ###### Artículo 21.
 
-La Dirección de Asuntos Jurídicos estará a cargo del Abogado General, quien será el Representante Legal de la Universidad con facultades de Apoderado General para pleitos y cobranzas, con todas las facultades generales y las que requieran mandato o cláusula especial conforme a la Ley, con facultades para:
+Para ser Secretario Actuario se requiere:
 
-I.- Interponer todo tipo de demandas, ejercitando acciones u oponiendo excepciones y reconviniendo a la parte contraria;
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
 
-II.- Ofrecer y desahogar todo tipo de pruebas, incluyendo la confesional ofrecida a cargo de quien resulte representante legal de la Universidad;
+II. Tener título profesional de Licenciado en Derecho con cédula profesional expedida por la autoridad o institución legalmente facultada para ello;
 
-III.- Hacer pagos y recibirlos a nombre de la Universidad;
+III. No haber sido condenado por delito que amerite pena corporal de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, quedará inabilitado (sic) para el cargo, cualquiera que haya sido la pena, y
 
-IV.- Firmar todo tipo de documentos, contratos, convenios, finiquitos y todo lo que sea necesario en representación o defensa de los intereses de la Universidad, así como la elaboración y revisión de éstos en coordinación con las áreas correspondientes;
+IV. Tener una práctica profesional en el campo jurídico de seis meses y haber hecho un curso de preparación no menor de tres meses en el Instituto de Estudios Judiciales.
 
-V.- Presentar denuncias y querellas en materia penal;
+Para ser Secretario Auxiliar Actuario de Sala se deben cubrir los requisitos del artículo 19 de esta Ley, a excepción del relativo a la práctica profesional.
 
-VI.- Recibir todo tipo de bienes y documentos propiedad o del interés de la Universidad;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VII.- Promover todo tipo de recursos, así como incluyendo el juicio de amparo;
-
-VIII.- Otorgar el perdón o desistirse en los asuntos que así lo permita la Ley;
-
-IX.- Acudir ante las autoridades laborales y celebrar todo tipo de contratos, convenios, demandas y finiquitos;
-
-X.- Realizar todas las actividades necesarias a efecto de cumplir con su cometido de conformidad a los estatutos, reglamentos y demás normatividad aplicable;
-
-XI.- Tramitar el registro de patentes, marcas y derechos de autor que requiera la Universidad;
-
-XII.- Gestionar ante las instancias públicas o privadas, los requerimientos de la Universidad, dentro del ámbito de su competencia; y
-
-XIII.- Las demás que le señalen las disposiciones legales y reglamentarias aplicables, así como aquéllas que le confiera el Rector.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 22.
 
-La Universidad contará con las siguientes Direcciones de División:
+Para ser Secretario Proyectista de Juzgado y Secretario Conciliador, se deberán reunir los mismos requisitos señalados en el artículo 19, con excepción de la fracción III.
 
-I.- Dirección de la División de Sistemas;
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 24 DE ABRIL DE 2003)</small>
 
-II.- Dirección de la División de Tecnologías; y
+Los servidores públicos a que se refieren los artículos 19, 20 y 21 de esta Ley, deberán además, aprobar los exámenes que el Instituto de Estudios Judiciales habrá de aplicar, para cada caso, en los términos de esta Ley.
 
-III.- Dirección de la División Económico-Administrativa.
-
-Los cargos de los Directores de División serán honoríficos, por lo que no recibirán retribución, emolumento, ni compensación alguna por su desempeño.
-
-### CAPÍTULO CUARTO. DE LOS ÓRGANOS COLEGIADOS
+### CAPITULO III. De las Incompatibilidades e Incapacidades
 
 ###### Artículo 23.
 
-Al frente de las Direcciones de División, habrá un director de carrera, quienes tendrán las siguientes facultades:
+Los Magistrados, Jueces, Consejeros y Secretarios no podrán en ningún caso aceptar ni desempeñar empleo, cargo o comisión de la Federación, de los Estados, del Distrito Federal o de particulares, salvo los cargos no remunerados en asociaciones o instituciones científicas, docentes, artísticas o de beneficencia que no interfieran en su horario de trabajo ni menoscabe el pleno ejercicio de sus funciones.
 
-I.- Supervisar y coordinar a los Directores de Carrera de la División que les corresponda;
-
-II.- Supervisar el cumplimiento de los planes de estudio de las carreras que dependan de su División;
-
-III.- Participar en las comisiones u órganos colegiados de la Universidad;
-
-IV.- Participar con el Secretario de Vinculación y Extensión, o quien él designe, a efecto de llevar a cabo un seguimiento de los alumnos en materia de prácticas y estadías;
-
-V.- Colaborar con el Secretario Académico en las actividades que le sean encomendadas;
-
-VI.- Gestionar ante las diversas instituciones públicas o privadas los acuerdos necesarios para el cumplimiento de los fines de la Universidad en el ámbito de su competencia; y
-
-VII.- Las demás que les señalen las disposiciones legales y reglamentarias aplicables, así como aquéllas que les confiera el Rector.
+Las incompatibilidades a que se refiere este precepto serán aplicables a los servidores públicos judiciales que gocen de licencia.
 
 ###### Artículo 24.
 
-La Dirección de la División de Sistemas, tendrá las siguientes facultades:
+Los nombramientos que se hagan para servidores públicos judiciales, del Consejo de la Judicatura y auxiliares de la administración de justicia, no podrán recaer en ascendientes, descendientes, cónyuges o colaterales dentro del cuarto grado por consanguinidad y segundo por afinidad, del servidor público que haga la designación.
 
-I.- Establecer un vínculo entre las carreras que integren su división;
-
-II.- Asesorar en materia de sistemas a la Universidad; y
-
-III.- Las demás que le señalen las disposiciones legales y reglamentarias aplicables, así como aquéllas que le confieran sus superiores jerárquicos.
+> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 25.
 
-La Dirección de la División de Tecnologías, tendrá las siguientes facultades:
+Los servidores públicos de la administración de justicia, no podrán ser corredores, comisionistas, apoderados judiciales, tutores, curadores, albaceas, depositarios, síndicos, administradores, interventores, árbitros, peritos, asesores jurídicos ni ejercer la abogacía, salvo en asuntos de carácter personal.
 
-I.- Establecer un vínculo entre las carreras que integren su División;
+> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
-II.- Brindar asesoría en materia ambiental, de maquinaria y equipo industrial a la Universidad; y
+###### Articulo 26.
 
-III.- Las demás que le señalen las disposiciones legales y reglamentarias aplicables, así como aquéllas que le confieran sus superiores jerárquicos.
+El retiro de los Jueces y Magistrados se producirá, por sobrevenir incapacidad física o mental que imposibilite el adecuado desempeño del cargo, o al cumplir setenta años de edad.
 
-###### Artículo 26.
+> <small>(F. DE E., G.O. 1 DE JULIO DE 2003)</small>
 
-La Dirección de la División Económico-Administrativa, tendrá las siguientes facultades:
+Los Magistrados ratificados, tendrán derecho al haber por retiro de carácter vitalicio, equivalente al setenta por ciento de sus percepciones mensuales netas, durante los dos primeros años y al cincuenta por ciento de éstas durante el resto de su vida, cuando se encuentren bajo los siguientes supuestos:
 
-I.- Establecer un vínculo entre las carreras que integren su División;
+a).- Tener quince años o más como Magistrados; o
 
-II.- Proporcionar asesoría en materia de administración de servicios y comercialización a la Universidad; y
+b).- Tener treinta años o más al servicio del Tribunal Superior de Justicia del Distrito Federal
 
-III.- Las demás que le señalen las disposiciones legales y reglamentarias aplicables, así como aquéllas que le confieran sus superiores jerárquicos.
+> <small>(F. DE E., G.O. 1 DE JULIO DE 2003)</small>
+
+Los Magistrados que no fueren ratificados, al concluir su encargo si cumplen con el supuesto a que se refiere el inciso b) del párrafo anterior, tendrán derecho a un haber especial por retiro durante dos años, en el primer año será el equivalente al setenta por ciento de la percepción mensual neta del último año de ejercicio y el segundo será por el equivalente al cincuenta por ciento de dichas percepciones.
+
+El ingreso mensual a que se refiere este párrafo, se tomará como base para su tabulación las percepciones de los Magistrados en activo.
+
+Los Magistrados ratificados, al cumplir sesenta y cinco años de edad podrán retirarse voluntariamente del cargo, en este caso cuando se retiren sin tener quince años de ejercicio y cuenten con veinticinco años o más al servicio del Tribunal, disfrutarán del haber por retiro, el que será proporcional al tiempo en que se hayan desempeñado como Magistrados.
+
+> <small>(F. DE E., G.O. 1 DE JULIO DE 2003)</small>
+
+Del monto total al que tenga derecho deberá deducirse, en su caso, aquél que reciba por parte del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
+
+No podrán recibir ninguna otra prestación que establezca la Ley del Fondo de Apoyo a la Administración de Justicia en el Distrito Federal.
+
+El haber por retiro se entregará por medio de ministraciones mensuales, las cuales se incrementarán en la misma proporción en que se aumenten las percepciones de los Magistrados en activo.
+
+> <small>(F. DE E., G.O. 1 DE JULIO DE 2003)</small>
+
+Los Jueces ratificados, al retirarse del cargo, disfrutarán de un haber por retiro de carácter vitalicio en los términos del que corresponde a los Magistrados ratificados, de conformidad con lo establecido por los párrafos aplicables de este artículo; para lo cual se deberá cumplir, además de las aportaciones a que se refiere el Artículo Cuarto Transitorio, con lo siguiente: haber sido ratificado, haberse desempeñado en el cargo de Juez por quince años o más y contar, por lo menos, con veinte años de servicio en el Tribunal Superior de Justicia del Distrito Federal.
 
 ## TITULO TERCERO. De la Organización del Tribunal
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 24 DE ABRIL DE 2003)</small>
 
-### CAPÍTULO QUINTO. DEL ALUMNADO
+### CAPITULO I. Del Tribunal Superior de Justicia del Distrito Federal
+
+> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 27.
 
-La Universidad reconoce como Directores de Carrera a los titulares o encargados de las carreras que sean impartidas por la Universidad.
+El Tribunal Superior de Justicia del Distrito Federal, funcionará en Pleno y en Salas. El Pleno es el órgano máximo del Tribunal Superior de Justicia del Distrito Federal, éste se integra por todos los Magistrados, uno de ellos será su Presidente y no formará parte de ninguna Sala.
+
+> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 28.
 
-Los Directores de Carrera, tendrán las siguientes facultades:
-
-I.- Coordinar, dirigir y evaluar el desarrollo de las actividades académicas, de docencia, investigación y vinculación, relacionadas con la carrera de acuerdo con los planes de estudio para cumplir con el objetivo de la institución;
-
-II.- Coordinar y dirigir el desarrollo de proyectos a cargo de la Dirección de Carrera;
-
-III.- Seleccionar y proponer al personal docente a contratar;
-
-IV.- Promover y controlar el establecimiento de programas de formación y actualización docente; y
-
-V.- Las demás que les señalen las disposiciones legales y reglamentarias aplicables, así como aquéllas que les confieran los Directores de División.
+El número de Salas del Tribunal Superior de Justicia del Distrito Federal, será determinado por el Consejo de la Judicatura del Distrito Federal, conforme a las necesidades y el presupuesto.
 
 ###### Artículo 29.
 
-La Universidad contará con las siguientes Subdirecciones:
-
-I.- Subdirección de Servicios Administrativos;
-
-II.- Subdirección de Vinculación; y
-
-III.- Subdirección de Desempeño Institucional.
+Para que funcione el Tribunal en Pleno se necesita la concurrencia de cuando menos las dos terceras partes de los Magistrados que lo integran y las resoluciones se tomarán por unanimidad o mayoría de votos de los Magistrados presentes. En caso de empate, se confiere voto de calidad al Presidente del Tribunal.
 
 ###### Artículo 30.
 
-La Subdirección de Servicios Administrativos, tendrá las siguientes facultades:
-
-I.- Coordinar, aplicar y vigilar la administración y uso de los recursos humanos y financieros, así como de los servicios generales y recursos materiales, asignados a la Universidad;
-
-II.- Apoyar en la planeación, dirección y evaluación de la adquisición de bienes y servicios;
-
-III.- Coadyuvar en el establecimiento de políticas de administración de recursos;
-
-IV.- Vigilar la aplicación de la normatividad contable financiera;
-
-V.- Evaluar la prestación de servicios administrativos y generales en la Universidad; y
-
-VI.- Las demás que le señalen las disposiciones legales y reglamentarias aplicables, así como aquéllas que le confieran sus superiores jerárquicos.
+Las sesiones del Tribunal en Pleno serán ordinarias o extraordinarias y, en ambos casos, públicas o privadas. Las sesiones ordinarias deberán celebrarse cuando menos una vez al mes y las extraordinarias cuando sea necesario para tratar y resolver asuntos urgentes, previa convocatoria del Presidente del mismo, en la que determinará si son públicas o privadas, a iniciativa propia o a solicitud de tres Magistrados cuando menos.
 
 ###### Artículo 31.
 
-La Subdirección de Vinculación, tendrá las siguientes facultades:
+Para la Presidencia y Tribunal en Pleno se designarán un Primer Secretario de Acuerdos, un Segundo Secretario de Acuerdos y el número de Secretarios Auxiliares de la Presidencia, así como los servidores públicos de la administración de justicia que fije el presupuesto de egresos respectivo, atendiendo al efecto lo dispuesto por el artículo 20 de esta Ley.
 
-I.- Generar, promover y ejecutar actividades de vinculación con el sector productivo e instituciones gubernamentales de la región;
-
-II.- Coadyuvar en el establecimiento de programas de vinculación técnica con el sector productivo;
-
-III.- Impulsar proyectos tecnológicos que fortalezcan a la planta productiva y los objetivos educacionales de la Universidad;
-
-IV.- Establecer diagnósticos de necesidades y requerimientos para incrementar la productividad y eficiencia de las empresas de la región;
-
-V.- Mantener comunicación con el sector productivo en materia de requerimientos tecnológicos; y
-
-VI.- Las demás que le señalen las disposiciones legales y reglamentarias aplicables, así como aquéllas que le confieran sus superiores jerárquicos.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 32.
 
-La Subdirección de Desempeño Institucional, tendrá las siguientes facultades:
+Son facultades del Tribunal Superior del Distrito Federal en Pleno:
 
-I.- Organizar y coordinar las operaciones de planeación, evaluación, capacitación y desarrollo humano y organizacional de la Universidad;
+I. Elegir, de entre los Magistrados con una antigüedad no menor de tres años al Presidente del Tribunal Superior de Justicia del Distrito Federal;
 
-II.- Proponer políticas de operación interna;
+II. Conocer de la calificación de la recusación de dos o tres Magistrados integrantes de una Sala;
 
-III.- Evaluar el cumplimiento de programas y metas de las distintas áreas de la Universidad;
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2004)</small>
 
-IV.- Vigilar el cumplimiento del programa de desarrollo institucional;
+III. Resolver sobre las contradicciones de criterios generales sustentados por Magistrados y entre las Salas del Tribunal, sin perjuicio de observarse la jurisprudencia de los Tribunales Federales. Lo anterior podrá hacerse a petición de parte o de los órganos en conflicto ante el Pleno del Tribunal Superior de Justicia del Distrito Federal.
 
-V.- Establecer proyecciones de crecimiento y desarrollo de la Universidad; y
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2004)</small>
 
-VI.- Las demás que le señalen las disposiciones legales y reglamentarias aplicables, así como aquéllas que le confiera el Rector.
+La resolución que se dicte no afectará las situaciones jurídicas concretas derivadas de los juicios en los cuales se hubiesen dictado las sentencias que sustentaron las tesis contradictorias.
 
-### CAPÍTULO SEXTO. DE LOS PLANES Y PROGRAMAS DE ESTUDIO
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2004)</small>
+
+El Pleno deberá dictar la resolución correspondiente dentro del término de tres meses y deberá ordenar su publicación en el Boletín Judicial y en los Anales de Jurisprudencia y la remitirá a todos los órganos jurisdiccionales en la materia, que forman parte del Tribunal Superior de Justicia del Distrito Federal;
+
+IV. Solicitar al Consejo de la Judicatura, el cambio de adscripción de Jueces y, en su caso, su remoción del cargo por causa justificada;
+
+> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
+
+V. Expedir los acuerdos generales y demás disposiciones reglamentarias para el adecuado ejercicio de sus propias funciones y de las relativas a la función jurisdiccional del Tribunal Superior de Justicia del Distrito Federal, del Servicio Medico Forense y de los órganos judiciales.
+
+Establecer los mecanismos que permitan evaluar el desempeño jurisdiccional de las Salas y Juzgados, y en caso de existir irregularidades, determinar la sanción aplicable, dando cuenta al Consejo de la Judicatura del Distrito Federal, para el efecto de que imponga la sanción correspondiente en los términos de esta Ley.
+
+Ordenar y supervisar que el Instituto de Estudios Judiciales implemente cursos de capacitación y actualización de carácter jurisdiccional de forma permanente, en los que participen los servidores públicos de la administración de justicia;
+
+VI. Recibir y en su caso aceptar o rechazar la renuncia del Presidente del Tribunal;
+
+VII. Determinar la materia de las Salas del Tribunal Superior de Justicia;
+
+VIII. Calificar en cada caso las excusas o impedimentos que sus miembros presenten para conocer de determinados asuntos, así como de las recusaciones que se promuevan en contra de los Magistrados, en negocios de la competencia del Pleno;
+
+IX. Proponer al Consejo de la Judicatura, a través de su Presidente las adecuaciones administrativas tendientes a simplificar y eficientar los procedimientos de registro, control y seguimiento de los asuntos que sean tramitados ante los Tribunales del Fuero Común y del Tribunal Superior de Justicia procurando en todo caso, y en la medida de lo posible, la incorporación de los métodos más modernos de sistematización y computarización para la más expedita, eficaz y transparente administración de justicia;
+
+X. Conocer de las quejas que se presenten en contra de su Presidente, y
+
+XI. Conocer de los asuntos cuya resolución no esté expresamente atribuida a otro órgano judicial;
+
+> <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2003)</small>
+
+XII. Resolver las revisiones administrativas a que se refiere el párrafo octavo del artículo 100 de la Constitución Política de los Estados Unidos Mexicanos, en los términos que esta Ley dispone;
+
+> <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2003)</small>
+
+XIII. Solicitar al Consejo de la Judicatura del Distrito Federal, la expedición de aquellos acuerdos generales que considere necesarios para asegurar un adecuado ejercicio de la función de los órganos judiciales;
+
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2004)</small>
+
+XIV. Revisar, modificar y, en su caso, revocar los acuerdos que el Consejo de la Judicatura del Distrito Federal apruebe, siempre y cuando se refieran a la designación, adscripción, remoción de magistrados o jueces u opinión para designación o ratificación de magistrados o jueces, requiriéndose para ello el voto de cuando menos dos terceras partes de sus integrantes;
+
+> <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2003)</small>
+
+XV. Acordar la realización de visitas periódicas a las instituciones del sistema penitenciario del Distrito Federal, para entrevistarse con los individuos sujetos a proceso y conocer las condiciones bajo las cuales se están llevando los procesos penales;
+
+> <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2003)</small>
+
+XVI. Designar a los Magistrados que integren comisiones substanciadoras de aquellos procesos judiciales que corresponda resolver al Pleno, mismas que podrán dictar los acuerdos de trámite necesarios;
+
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2004)</small>
+
+XVII. Revisar el cumplimiento de los requisitos que exige el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, en la resolución que dicte el Juez de la causa, mediante la que determine la procedencia de la orden de aprehensión o comparecencia, cuando se hubiere ejercitado acción penal en contra de un Magistrado, Consejero o Juez en el desempeño de su cargo o con motivo de éste. De resultar procedente se asentará mediante acuerdo y éste se comunicará al Consejo de la Judicatura del Distrito Federal, por conducto de su Presidente, para que proceda en términos de la fracción VII, del artículo 201 de esta ley;
+
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2004)</small>
+
+XVIII. Conocer de los recursos de apelación que se interponga en las causas que se instauren en contra de un Magistrado, Consejero o Juez;
+
+> <small>(ADICIONADA, G.O. 8 DE SEPTIEMBRE DE 2004)</small>
+
+XIX. Las demás que expresamente le confieran esta ley y otras disposiciones aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 24 DE ABRIL DE 2003)</small>
+
+### CAPITULO II. Del Presidente del Tribunal Superior de Justicia del Distrito Federal
+
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
 
 ###### Artículo 33.
 
-Los Jefes de Departamento, tendrán las siguientes facultades genéricas:
+El Presidente del Tribunal Superior de Justicia del Distrito Federal durará en su cargo cuatro años y podrá ser reelecto, por una sola vez para el período siguiente. Será electo de entre los Magistrados que tengan una antigüedad no menor de tres años en su cargo, por el Pleno del Tribunal Superior de Justicia del Distrito Federal mediante escrutinio secreto, en la última sesión que habrá de celebrarse en el mes de diciembre del año previo a su mandato.
 
-I.- Coordinar lo concerniente al área de aplicación de su servicio;
+El período de ejercicio del Presidente iniciará en el mes de enero del año que corresponda y rendirá la protesta de Ley ante el Pleno del Tribunal Superior de Justicia del Distrito Federal, en la primera sesión.
 
-II.- Ejecutar las actividades inherentes a su área;
-
-III.- Resolver e informar el trámite de los asuntos encomendados; y
-
-IV.- Las demás que les señalen las disposiciones legales y reglamentarias aplicables, así como aquéllas que les confieran sus superiores jerárquicos.
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
 
 ###### Artículo 34.
 
-La Universidad para su mejor funcionamiento, podrá contar con los órganos colegiados que requiera, cuya integración y funcionamiento será la que se indique en los reglamentos respectivos, previa aprobación del Consejo.
+El Presidente tendrá las atribuciones que le confiere la presente Ley, siendo sus funciones principales las de: impulsar el desarrollo del Sistema de Impartición y Administración de Justicia en el Distrito Federal, procurar la correcta aplicación de la ley y velar para que la administración de justicia sea eficaz y expedita; dictando al efecto las providencias que fueren necesarias, promoviendo la modernización y adecuado funcionamiento de los diversos órganos jurisdiccionales y administrativos, por sí o por conducto de los servidores públicos judiciales facultados al efecto.
 
 ###### Artículo 35.
 
-Serán alumnos de la Universidad quienes habiendo cumplido con los procedimientos y requisitos de selección e ingreso, sean admitidos para cursar cualquiera de las carreras que se impartan, y tendrán los derechos y las obligaciones que les confieren el Decreto y las disposiciones reglamentarias que se expidan.
+Las providencias y acuerdos del Presidente pueden reclamarse ante el Tribunal en Pleno, por parte interesada, dentro del plazo de tres días hábiles, siempre que dicha reclamación se presente por escrito, con motivo fundado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 36.
 
-Los alumnos podrán constituirse en asociaciones de alumnos, cuyas funciones serán independientes de las que correspondan a las autoridades educativas.
+Corresponde al Presidente del Tribunal Superior de Justicia del Distrito Federal:
+
+> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
+
+I. Representar al Tribunal Superior de Justicia del Distrito Federal:
+
+a). En los actos oficiales, teniendo la facultad de delegar en Magistrados o Jueces dicha representación, y
+
+b). Ante las autoridades en cualquier procedimiento en que el Tribunal Superior de Justicia del Distrito Federal sea parte, teniendo la facultad de delegar por causas de fuerza mayor en aquellos casos que las leyes lo permitan, la representación en el Titular de la Dirección Jurídica.
+
+II. Nombrar a los Secretarios de la Presidencia y del Pleno del Tribunal;
+
+> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
+
+III. Designar a los Secretarios Auxiliares y Secretarios Técnicos, y demás personal de la Presidencia. De igual forma a los funcionarios, técnicos y personal que señale la presente ley;
+
+IV. Llevar el turno de los Magistrados que se excusen de conocer de alguno de los asuntos de su competencia o que sean recusados, para suplirlos con otros Magistrados;
+
+V. Llevar una lista de las excusas, recusaciones, incompetencias y sustituciones que estará a disposición de los interesados en la Secretaría de Acuerdos correspondiente;
+
+VI. Remitir al juez correspondiente los exhortos, rogatorias, suplicatorias, requisitorias y despachos, de acuerdo con el turno que al efecto se lleve;
+
+VII. Llevar la correspondencia del Tribunal Superior de Justicia;
+
+VIII. Recibir quejas sobre demoras, excusas o faltas en el despacho de los negocios, turnándolas, en su caso, a quien corresponda;
+
+> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
+
+IX. Regular, instrumentar, sistematizar, dirigir y supervisar en el Tribunal Superior de Justicia del Distrito Federal, las funciones de desarrollo institucional, programación, política financiera, información, evaluación y de coordinación con otros sectores e instituciones; asimismo le corresponde instrumentar y supervisar el Programa General de Trabajo de la Institución, con la colaboración y participación de todas las áreas integrantes de la misma. Para la realización de esas funciones dispondrá de las correspondientes unidades de apoyo, de conformidad con las disponibilidades presupuestales del Tribunal y con las facultades que se les confieran en el Reglamento Interior del mismo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 24 DE ABRIL DE 2003)</small>
+
+X. Hacer del conocimiento del Jefe de Gobierno del Distrito Federal:
+
+a) En un plazo no mayor de cinco días, sobre la vacante de Magistrado que, por muerte, haya cesado en el ejercicio del encargo;
+
+b) En un plazo no mayor de cinco días, sobre la vacante de Magistrado que, por incapacidad física o mental, esté imposibilitado para el desempeño del cargo, y
+
+c) Con una antelación no menor a cuarenta y cinco días, el nombre del o los Magistrados que estén por concluir el ejercicio de su encargo;
+
+> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
+
+XI. Formar la estadística judicial con los datos que proporcionan las Salas y Juzgados del Tribunal, así como elaborar y difundir la información estadística relevante, desglosada por rubros y categorías; ya sea para fines meramente informativos, o bien para el seguimiento, control y evaluación de los asuntos. El Consejo de la Judicatura del Distrito Federal establecerá los niveles de divulgación y privilegios de acceso a la misma, según la naturaleza y fines de la información;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN X], G.O. 24 DE ABRIL DE 2003)</small>
+
+XII. Las demás que expresamente le confiera esta Ley y otras disposiciones aplicables.
 
 ###### Artículo 37.
 
-Los planes de estudio de la Universidad, tenderán a desarrollar en los estudiantes su ser y la capacidad de saber y hacer, para cumplir con las funciones de dirección y apoyo técnico, diseño, investigación, desarrollo e innovación que establezcan los distintos perfiles de egreso.
+El Presidente del Tribunal Superior de Justicia es Presidente del Tribunal en Pleno y como tal tendrá las obligaciones siguientes:
 
-### CAPÍTULO SÉPTIMO. ÓRGANO INTERNO DE CONTROL
+I. Presidir las sesiones que celebre dicho Tribunal;
 
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2018)</small>
+II. Convocar a sesiones ordinarias o extraordinarias;
+
+III. Dirigir los debates y conservar el orden durante las sesiones;
+
+IV. Proponer al Tribunal en Pleno los acuerdos que juzgue conducentes para el mejor desempeño de la función judicial;
+
+V. Tramitar todos los asuntos de la competencia del Tribunal en Pleno hasta ponerlos en estado de resolución;
+
+VI. Autorizar en unión del Secretario de Acuerdos que corresponda, las actas de las sesiones, haciendo constar en ellas las deliberaciones del Tribunal en Pleno y los acuerdos que éste dicte en los negocios de su competencia;
+
+VII. Dar cuenta al Tribunal en Pleno con las demandas de responsabilidad civil presentadas en contra de los Magistrados;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+VIII. (DEROGADA, G.O. 18 DE MARZO DE 2011)
+
+IX. Turnar a la Sala que competa, para los efectos a que hubiere lugar, los expedientes a que se refiere el párrafo primero del artículo 165 del Código de Procedimientos Civiles para el Distrito Federal;
+
+> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
+
+X. Dar cuenta al Tribunal en Pleno, en el informe anual correspondiente, de los actos que lleve a cabo en el ejercicio de sus funciones, así como del desempeño general de los servicios que le sean adscritos;
+
+> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
+
+XI. Aprobar la formalización de acuerdos y convenios de colaboración teórico-académica, con instituciones públicas o privadas tendientes a una mayor profesionalización y capacitación en el campo de la impartición de justicia; y
+
+> <small>(ADICIONADA, G.O. 18 DE MARZO DE 2011)</small>
+
+XII. Las demás que expresamente le confiera esta Ley y otras disposiciones aplicables.
+
+### CAPITULO III. De las Salas del Tribunal
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 38.
 
-Los planes de estudio basarán su estructura en tres ejes rectores de la formación: teórico-práctico, general-especializado y universidad-sector productivo.
+Las Salas del Tribunal del Tribunal (sic) Superior de Justicia del Distrito Federal, se integrarán cada una por tres magistrados, y serán designadas cada una por un número ordinal, en Salas Civiles, Penales, Familiares, Justicia para Adolescentes y Especializadas en Ejecución de Sentencias Penales.
+
+Los Magistrados integrantes de las mismas actuarán en forma unitaria o colegiada en los términos establecidos por esta Ley. El Pleno del Tribunal determinará las materias de las Salas, de acuerdo con los requerimientos de una buena administración de justicia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 17 DE JUNIO DE 2011)</small>
+
+La (sic) Salas Especializadas en Ejecución de Sanciones Penales del Tribunal Superior de Justicia en el Distrito Federal resolverán en forma colegiada sobre le negativa o el otorgamiento de los beneficios en materia penitenciaria y en todos los demás casos resolverán de manera unitaria.
 
 ###### Artículo 39.
 
-Las materias y asignaturas del plan de estudios se agruparán en las siguientes áreas: ciencias básicas aplicadas, conocimientos técnicos, lenguajes y métodos y formación ética y sociocultural.
+Los Magistrados de cada Sala, elegirán anualmente de entre ellos un Presidente que durará en su cargo un año y no podrá ser reelecto para el período siguiente.
 
 ###### Artículo 40.
 
-Los planes y programas de estudio tomarán en cuenta las orientaciones del desarrollo socioeconómico, tecnológico ambiental del país y las necesidades del sector productivo.
+Los Magistrados de las Salas desahogarán semanariamente por orden progresivo y en forma equitativa todo el trámite de Segunda Instancia.
 
 ###### Artículo 41.
 
-Los programas de las asignaturas deberán señalar objetivos, duración, unidades, bibliografía, prácticas, materiales a utilizar y metodología de evaluación.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE JULIO DE 2018)</small>
+Las resoluciones colegiadas de las Salas se tomarán por unanimidad o mayoría de votos.
 
 ###### Artículo 42.
 
-El Órgano Interno de Control es la unidad administrativa responsable de controlar, vigilar, fiscalizar y evaluar el uso correcto de los recursos materiales y financieros de la Universidad, con el fin de determinar su correcto desempeño.
+Corresponde a los presidentes de Sala:
 
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2018)</small>
+I. Llevar la correspondencia de la Sala, autorizándola con su firma;
+
+II. Distribuir por riguroso turno los negocios, entre él y los demás miembros de la Sala, para su estudio y presentación oportuna, en su caso, del proyecto de resolución que en cada uno deba dictarse;
+
+III. Presidir las audiencias de la Sala, cuidar el orden de la misma y dirigir los debates;
+
+IV. Dirigir la discusión de los negocios sometidos al conocimiento de la Sala y ponerlos a votación cuando la Sala declare terminado el debate;
+
+V. Dar a la Secretaría de Acuerdos los puntos que comprendan las disposiciones resolutivas votadas y aprobadas;
+
+> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
+
+VI. Llevar la administración de la oficina de la Sala; y
+
+VII. Vigilar que los Secretarios y demás servidores públicos de la Sala cumplan con sus deberes respectivos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 43.
 
-El Órgano Interno de Control ejercerá las facultades que le asigna el Decreto de Creación de la Universidad, así como las que les señalen las disposiciones legales y reglamentarias aplicables y en materia de responsabilidades administrativas.
+Las Salas en materia Civil, conocerán:
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+I. De los casos de responsabilidad civil de los Jueces Civiles, de los Jueces de lo Civil de Cuantía Menor, de los Jueces de lo Civil de Proceso Oral y de Extinción de Dominio del Tribunal Superior de Justicia del Distrito Federal.
+
+Asimismo de los recursos de apelación y queja que se interpongan contra las resoluciones dictadas en asuntos civiles y de extinción de dominio por los Jueces de lo Civil y de Extinción de Dominio. De igual manera de los recursos de queja que se interpongan contra las resoluciones dictadas por los Jueces de lo Civil de Cuantía Menor.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+II. De las excusas y recusaciones de los Jueces Civiles, de los Jueces de lo Civil de Cuantía Menor, de los Jueces de lo Civil de Proceso Oral y de Extinción de Dominio, del Tribunal Superior de Justicia del Distrito Federal;
+
+III. De los conflictos competenciales que se susciten en materia Civil entre las autoridades judiciales del Tribunal Superior de Justicia, y
+
+IV. De los demás asuntos que determinen las leyes.
+
+Las sentencias definitivas o resoluciones que pongan fin a la instancia que recaigan a los asuntos a que se refieren las fracciones anteriores, se pronunciarán de manera colegiada. En todos los demás casos se dictarán unitariamente por los Magistrados que integren la Sala conforme al turno correspondiente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+
+Cualquiera de los Magistrados podrá determinar que el fallo se realice en forma colegiada en razón del criterio que se va a establecer o por otra circunstancia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 44.
 
-En ausencias temporales del Rector, menores a 30 días, este designará quien lo sustituya en su cargo.
+Las Salas en materia Penal, conocerán:
+
+I. De los recursos de apelación y denegada apelación que les correspondan y que se interpongan en contra de las resoluciones dictadas por los Jueces del orden Penal del Distrito Federal, incluyéndose las resoluciones relativas a incidentes civiles que surjan en los procesos;
+
+II. (DEROGADA, G.O. 24 DE ABRIL DE 2003)
+
+III. De las excusas y recusaciones de los Jueces Penales del Tribunal Superior de Justicia;
+
+IV. Del conflicto competencial que se susciten en materia penal entre las autoridades judiciales del Tribunal Superior de Justicia del Distrito Federal;
+
+V. De las contiendas de acumulación que se susciten en materia penal, entre las autoridades que expresa la fracción anterior, y
+
+VI. De los demás asuntos que determinen las leyes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+
+Estas Salas resolverán de manera colegiada, cuando se trate de apelaciones contra sentencias definitivas derivadas de procedimientos ordinarios dictadas en procesos instruidos por delito grave en los que se imponga pena de prisión mayor a cinco años. En todos los demás casos, las resoluciones se dictarán en forma unitaria conforme al turno correspondiente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+
+Cualquiera de los Magistrados podrá determinar que el fallo se realice en forma colegiada en razón del criterio que se va a establecer o por otra circunstancia.
+
+> <small>(ADICIONADO, G.O. 14 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 44 Bis.
 
@@ -526,7 +718,7 @@ V. De los demás asuntos que determinen las leyes.
 
 Estas Salas resolverán de manera colegiada, cuando se trate de apelaciones contra sentencias definitivas dictadas en procesos instruidos por conductas típicas calificadas como graves, o en los casos en que se imponga la medida de internamiento, resoluciones que versen sobre hechos que en el correspondiente pliego sean calificados de antisociales, al amparo la acción penal por alguna conducta típica calificada como grave, con independencia de que se determine la comprobación o no de la conducta típica calificada como grave, la reclasificación de las conductas o hechos, o la inacreditación de alguna agravante o modalidad que provisionalmente determine que la conducta típica calificada como grave; o en contra de cualquier resolución en la que se haya determinado la libertad por conclusión del internamiento por rehabilitación social. En todos los demás casos las resoluciones se dictarán en forma unitaria conforme al turno correspondiente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
@@ -546,69 +738,77 @@ III. De los conflictos competenciales que se susciten entre Jueces de Ejecución
 
 IV. De los demás asuntos que determinen las leyes.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 45.
 
-En ausencias temporales menores a treinta días de los Secretarios y Directores de Área, estos serán designados por el Rector o quien lo substituya en su cargo.
+Las Salas en materia Familiar, conocerán:
+
+I. De los casos de responsabilidad civil y de los recursos de apelación y queja que se interpongan en asuntos de materia Familiar, contra las resoluciones dictadas por los jueces del mismo ramo;
+
+II. De las excusas y recusaciones de los Jueces del Tribunal Superior de Justicia, en asuntos del orden Familiar;
+
+III. De las competencias que se susciten en materia Familiar entre las autoridades judiciales del Tribunal Superior de Justicia del Distrito Federal, y
+
+IV. De los demás asuntos que determinen las leyes.
+
+Las sentencias en los asuntos a que se refieren las fracciones anteriores, se pronunciarán de manera colegiada tratándose de definitivas o de resoluciones que pongan fin a la instancia y las que versen sobre custodia de menores. En todos los demás casos se dictarán unitariamente por los Magistrados que integren la Sala conforme al turno correspondiente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+
+Cualquiera de los Magistrados podrá determinar que el fallo se realice en forma colegiada en razón del criterio que se va a establecer o por otra circunstancia.
+
+> <small>(ADICIONADO PRIMER PÁRRAFO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 46.
 
-En ausencias menores a treinta días de los Directores de División o de Carrera, el Secretario Académico, o quien lo supla determinará quien los substituya en su cargo.
+Las Salas al resolver sobre las excusas de los Jueces, en caso de que éstas sean infundadas, remitirán la resolución al Consejo de la Judicatura del Distrito Federal para que imponga la sanción correspondiente.
+
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
+
+Para el desempeño de los asuntos encomendados, cada Sala tendrá cuando menos un Secretario de Acuerdos, un Secretario Auxiliar, nueve Secretarios Proyectistas y un Secretario Actuario, que serán designados y removidos por los Magistrados integrantes de la Sala y la planta de servidores públicos de la administración de justicia que fije el presupuesto de egresos.
+
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
+
+Los Secretarios de Acuerdos y Secretarios Auxiliares de Salas, tendrán en lo conducente, las mismas atribuciones que los Secretarios de Acuerdos de los Juzgados de Primera Instancia.
 
 ## TITULO CUARTO. De la Organización de los Juzgados del Tribunal Superior de Justicia
 
-### CAPÍTULO OCTAVO. DE LAS SUPLENCIAS
+### CAPITULO I. Disposiciones Generales
 
 ###### Artículo 47.
 
-En los casos de ausencias mayores a 30 días deberá convocarse a sesión al Consejo, a efecto de nombrar un suplente.
+(DEROGADO, G.O. 8 DE SEPTIEMBRE DE 2004)
 
-### CAPÍTULO NOVENO. DE LAS REFORMAS
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+
+### CAPITULO II. De los Juzgados del Distrito Federal
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 48.
 
-Para reformar el presente Reglamento Interior se requerirá:
+Los Juzgados son órganos jurisdiccionales del Tribunal Superior de Justicia del Distrito Federal.
 
-I.- Que se haga del conocimiento de los integrantes del 30 treinta días a la fecha en que dicho Consejo deba reunirse; y
-
-II.- Que la reforma sea aprobada por el voto de cuando menos las dos terceras partes de los integrantes del Consejo.
-
-T R A N S I T O R I O S
-
-Artículo Primero.- El presente Decreto Gubernativo entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-Artículo Segundo.- La Contraloría Interna entrará en funciones una vez que haya sido determinado y asignado el presupuesto para ello.
-
-Dado en la Residencia del Poder Ejecutivo, en la Ciudad de Guanajuato, Capital, a los 30 treinta días del mes de junio del año 2001 dos mil uno.
-
-JUAN CARLOS ROMERO HICKS.
-
-EL SUBSECRETARIO DE GOBIERNO
-
-Por ausencia del Secretario de Gobierno y con fundamento en el artículo 63 del Reglamento Interior de la Secretaría de Gobierno
-
-GERARDO LUIS RODRÍGUEZ OROZCO.
-
-EL SECRETARIO DE EDUCACIÓN
-
-VÍCTOR MANUEL RAMÍREZ VALENZUELA.
-
-P.O. 18 DE OCTUBRE DE 2016.
-
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+(REUBICADO, G.O. 14 DE NOVIEMBRE DE 2007)
 
 ###### Artículo 49.
 
 En el Distrito Federal habrá el número de Juzgados que el Consejo de la Judicatura considere necesarios para que la administración de justicia sea expedita. Dichos Juzgados estarán numerados progresivamente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
 Podrá definir el número y especialización de los juzgados de conformidad con las necesidades y el presupuesto.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
@@ -616,47 +816,61 @@ Podrá definir el número y especialización de los juzgados de conformidad con 
 
 Los Juzgados de lo Civil conocerán:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
 I. De los asuntos de jurisdicción voluntaria, cuyo conocimiento no corresponda a la materia Familiar;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
-II. De los juicios contenciosos que versen sobre la propiedad o demás derechos reales siempre que el valor de la cosa sea igual o mayor a la cantidad que el artículo 691 del Código de Procedimientos Civiles para el Distrito Federal, establece para que un juicio sea apelable, cantidad que se actualizará en forma anual de acuerdo con el factor de actualización que se obtenga de dividir el Índice Nacional de Precios al Consumidor del mes de noviembre del año que se calcula entre el Índice Nacional de Precios al Consumidor de noviembre del año inmediato anterior que determine el Banco de México, y a falta de éste el que lo sustituya; dicho valor se dará a conocer en el boletín judicial.
+II. De los juicios contenciosos que versen sobre la propiedad o demás derechos reales siempre que el valor de la cosa sea igual o mayor a la cantidad que el artículo 691 del Código de Procedimientos Civiles para el Distrito Federal, establece para que un juicio sea apelable, cantidad que se actualizará en forma anual con base en la variación observada por la inflación en el valor del Índice Nacional de Precios al Consumidor, publicado por el Instituto Nacional de Estadística y Geografía, entre la última actualización de dicho monto y el mes de noviembre del año en cuestión. A falta de uno o de otro serán aplicables los que los sustituyan; dicho valor se dará a conocer en el boletín judicial;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
 
 III. De los demás negocios de jurisdicción contenciosa, común y concurrente que versen sobre derechos personales cuya suerte principal sea igual o mayor a la cantidad que los artículos 691 del Código de Procedimientos Civiles para el Distrito Federal y 1340 del Código de Comercio establecen para que un juicio sea apelable, misma que se actualizará en términos de la fracción anterior; dicho valor se dará a conocer en el boletín judicial.
 
-IV. De los interdictos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-V. De la diligenciación de los exhortos, rogatorias, suplicatorias, requisitorias y despachos, y (sic)
+> <small>(REFORMADA, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+IV. De los interdictos, juicios hipotecarios y ejecutivos civiles, con excepción de lo previsto en la fracción V del artículo 71 de esta ley;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+V. De la diligenciación de los exhortos, rogatorias, suplicatorias, requisitorias y despachos, en el ámbito de su competencia;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
 VI. De todas las controversias que se susciten en materia de arrendamiento de inmuebles destinados a habitación, comercio, industria o cualquier otro uso, giro o destino permitido por la ley;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADA, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
-VII. De los asuntos relativos a la inmatriculación judicial de inmuebles y demás asuntos referentes a la materia que establezcan las leyes, y
+VII. De los asuntos relativos a la inmatriculación judicial de inmuebles y demás asuntos referentes a la materia que establezcan las leyes;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADA, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
-VIII. De los demás asuntos que les encomienden las leyes.
+VIII. Siempre serán competentes de los asuntos de cuantía indeterminada, con independencia de que la acción sea real o personal, común o concurrente, y
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE NOVIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+IX. De los demás asuntos que les encomienden las leyes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 51.
 
@@ -670,15 +884,15 @@ Estas reglas deberán garantizar objetividad e imparcialidad en los turnos así 
 
 Los servidores públicos del Tribunal y del Consejo de la Judicatura que con motivo de sus funciones posean información sobre el turno y las reglas deberán dar trato estrictamente confidencial a dicha información, haciéndose acreedores, en caso de incumplimiento, a la respectiva sanción penal o administrativa, de acuerdo con el carácter de la infracción.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 16 DE JUNIO DE 2011)</small>
 
 Los Juzgados Penales y de justicia para adolescentes conocerán de los delitos en materia de narcomenudeo previstos en el Título Décimo Octavo Capítulo VII de la Ley General de Salud. En los procedimientos penales que se substancien con motivo de los mismos, se observarán las disposiciones previstas en el artículo 480 de dicho ordenamiento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 52.
 
@@ -716,9 +930,9 @@ IV. Responder a las consultas formuladas por las autoridades penitenciarias;
 
 V. Todas las demás que establezcan las leyes correspondientes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 54.
 
@@ -740,39 +954,39 @@ III. Resolver los asuntos sometidos a su conocimiento, conforme a los plazos y t
 
 IV. Resolver sobre las medidas a imponer, atendiendo al estudio de los hechos y estudio de su personalidad, que lleven a establecer los principios de culpabilidad, proporcionalidad y racionalidad, por el acto antisocial, así como a las circunstancias, gravedad de la conducta, características y necesidades de los Adolescentes, que represente el menor daño al adolescente para su reincorporación social.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 54 Bis.
 
 Los Juzgados de Extinción de Dominio conocerán:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, G.O. 8 DE DICIEMBRE DE 2008)</small>
 
 I. De los procedimientos de Extinción de Dominio establecidos en la Ley de la materia;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, G.O. 8 DE DICIEMBRE DE 2008)</small>
 
 II. De las medidas cautelares en materia de Extinción de Dominio;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, G.O. 8 DE DICIEMBRE DE 2008)</small>
 
 III. De la diligenciación de los exhortos, rogatorias, suplicatorias, requisitorias y despachos, en la materia; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, G.O. 8 DE DICIEMBRE DE 2008)</small>
 
 IV. De las demás diligencias, acuerdos y actividades que les encomiende la Ley de Extinción de Dominio para el Distrito Federal y demás legislación vigente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 55.
 
@@ -798,7 +1012,7 @@ III. Los servidores públicos de la administración de justicia que autorice el 
 
 El Secretario de Acuerdos que determine el Juez, será el jefe inmediato de la oficina en el orden administrativo, dirigirá las labores de ella conforme a las instrucciones del propio Juez y lo suplirá en sus ausencias, cuando no excedan de un mes.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE MARZO DE 2011)</small>
 
 ###### Artículo 58.
 
@@ -868,7 +1082,7 @@ XVI. Ejercer bajo su responsabilidad, por sí mismo o por conducto de los servid
 
 XVII. Las demás que les confieran las leyes y los reglamentos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 18 DE MARZO DE 2011)</small>
 
@@ -946,7 +1160,7 @@ IV. La fecha en que haya practicado la diligencia, notificación o acto que deba
 
 V. La fecha de devolución del expediente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 18 DE MARZO DE 2011)</small>
 
@@ -972,17 +1186,17 @@ Para los efectos del artículo 49 de esta Ley, el Consejo de la Judicatura del D
 
 Los jueces podrán facultar a los pasantes de derecho que laboren en el juzgado respectivo, para practicar notificaciones personales a excepción del emplazamiento.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 24 DE ABRIL DE 2003)</small>
 
 ### CAPITULO IV
 
 ### CAPITULO V. De la Justicia de Paz
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ### CAPÍTULO VI. De la Justicia Civil de Cuantía Menor, del Proceso Oral Civil y Penal de Delitos no graves
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO Y REUBICADO, G.O. 18 DE MARZO DE 2011)</small>
 
@@ -1006,19 +1220,19 @@ Los jueces podrán facultar a los pasantes de derecho que laboren en el juzgado 
 
 (DEROGADO, G.O. 18 DE MARZO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 68.
 
 (DEROGADO, G.O. 18 DE MARZO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 69.
 
 (DEROGADO, G.O. 18 DE MARZO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 70.
 
@@ -1028,55 +1242,81 @@ Los jueces podrán facultar a los pasantes de derecho que laboren en el juzgado 
 
 ### CAPITULO II. De los Jueces y Servidores Públicos de la Administración de Justicia
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 71.
 
 Los Jueces de lo Civil de Cuantía Menor conocerán:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
-I. De los negocios de jurisdicción concurrente, cuya suerte principal sea inferior a la cantidad que el artículo 1340 del Código de Comercio establece para que un juicio sea apelable, cantidad que se actualizará en términos del artículo 50 fracción II de esta Ley.
+I. De los negocios de jurisdicción concurrente, cuya suerte principal sea inferior a la cantidad que el artículo 1340 del Código de Comercio establece para que un juicio sea apelable, cantidad que se actualizará en términos del artículo 1253 fracción VI del citado código, a excepción de aquellos asuntos previstos en el artículo 1390 bis de dicho código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 13 DE MARZO DE 2008)</small>
 
 II. De las diligencias preliminares de consignación, con la misma limitación a que se refiere la fracción inmediata anterior;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA, G.O. 13 DE MARZO DE 2008)</small>
+> <small>(REFORMADA, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
-III. De la diligenciación de los exhortos y despacho de los demás asuntos que les encomienden las leyes; y (sic)
+III. De la diligenciación de los exhortos y despacho de los demás asuntos que les encomienden las leyes, en el ámbito de su competencia;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, G.O. 13 DE MARZO DE 2008)</small>
 
 IV. Del Juicio de Pago de Daños Culposos causados con motivo del Tránsito de Vehículos, establecido en el capítulo IV, del Título Séptimo, del Código de Procedimientos Civiles para el Distrito Federal, independientemente del monto que se demande como pago y en los términos y plazos que se señalan en dicho capítulo;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADA, G.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
-V. De los juicios hipotecarios y ejecutivos civiles cuya suerte principal sea inferior a la cantidad que establece el artículo 691 del Código de Procedimientos Civiles para el Distrito Federal para que un juicio sea apelable, la cual se actualizará en los términos del artículo 50 fracción II de esta ley.
+V. De juicios contenciosos que versen sobre adeudos de cuotas de mantenimiento, intereses o sanciones por incumplimiento a la Ley de Propiedad en Condominio de Inmuebles para el Distrito Federal, y de las resoluciones y convenios celebrados ante la Procuraduría Social del Distrito Federal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADO, G.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 71 Bis.
 
-Los Juzgados de Proceso Oral Civil conocerán:
+Los Jueces de lo Civil de Proceso Oral conocerán:
 
-I.- De los juicios contenciosos que versen sobre la propiedad o demás derechos reales cuyo valor de la cosa sea inferior a la cantidad que el artículo 691 del Código de Procedimientos Civiles establece para que un juicio sea apelable, cantidad que se actualizará en términos del artículo 50, fracción II de esta Ley; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+I. De los juicios contenciosos que versen sobre la propiedad o demás derechos reales cuyo valor de la cosa sea inferior a la cantidad que el artículo 691 del Código de Procedimientos Civiles establece para que un juicio sea apelable, cantidad que se actualizará en términos del artículo 50, fracción II de esta Ley;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 18 DE MARZO DE 2011)</small>
 
 II.- De los juicios que versen sobre derechos personales de naturaleza civil, cuya suerte principal sea inferior a la cantidad que el artículo 691 del Código de Procedimientos Civiles establece para que un juicio sea apelable, cantidad que se actualizará en términos del artículo 50 fracción II de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+III. De los negocios de jurisdicción concurrente, en los casos a que se refiere el artículo 1390 Bis del Código de Comercio.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+IV. De los medios preparatorios a juicio y de las providencias precautorias relacionados con los juicios que son de su competencia, en términos de las fracciones anteriores; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+V. De los asuntos de jurisdicción voluntaria, así como de la diligenciación de exhortos, rogatorias, suplicatorias, requisitorias y despachos, relacionados con los juicios orales en materia civil y mercantil.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO Y REUBICADO, G.O. 18 DE MARZO DE 2011)</small>
 
@@ -1084,19 +1324,19 @@ II.- De los juicios que versen sobre derechos personales de naturaleza civil, cu
 
 Los Juzgados Penales de Delitos No Graves conocerán:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
 I. De los delitos no graves así definidos por la ley penal, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
 II. De la diligenciación de los exhortos y despacho de los demás asuntos que les encomienden las leyes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 18 DE MARZO DE 2011)</small>
 
@@ -1104,7 +1344,7 @@ II. De la diligenciación de los exhortos y despacho de los demás asuntos que l
 
 Los Juzgados a que se refieren los artículos 71, 71 Bis y 72 de esta ley para el despacho de los negocios, contarán con los servidores públicos de la administración de justicia que fije el presupuesto.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 24 DE ABRIL DE 2003)</small>
 
 ## TITULO QUINTO. Del Procedimiento para Suplir Ausencias de los Servidores de la Administración de Justicia
 
@@ -1124,7 +1364,7 @@ II. Las de los Presidentes de las Salas que no excedan de un mes por el Magistra
 
 III. Las de los Magistrados, cuando no excedan de un mes, por cualquiera de los Secretarios de Acuerdos o en su caso el Proyectista de Sala. Cuando exceda de este tiempo y hasta por tres meses, por los Jueces de Primera Instancia de la materia, que serán nombrados por el Consejo de la Judicatura del Distrito Federal, prefiriendo en su caso al de mayor antigüedad en el cargo.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 74.
 
@@ -1132,7 +1372,7 @@ Las ausencias de los Magistrados por más de tres meses, serán cubiertas median
 
 Entre tanto se hace la designación, la ausencia será suplida en términos de lo dispuesto en la fracción III del artículo anterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 75.
 
@@ -1152,7 +1392,7 @@ Si la ausencia excede de un mes, pero no de tres meses, el Consejo de la Judicat
 
 Los Secretarios, a su vez, serán suplidos por los Conciliadores o por testigos de asistencia; el Juez deberá nombrar de inmediato y de manera provisional a un Secretario de Acuerdos que lo sustituya.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1254,7 +1494,9 @@ El Síndico que faltare al cumplimiento de las obligaciones que le impone esta L
 
 Los daños y perjuicios que se ocasionaren al concurso por culpa o negligencia del Síndico en el ejercicio de sus funciones, serán a cargo de éste en beneficio de los acreedores, procediéndose a retener la garantía que haya dado sin perjuicio de que se ejercite, por quienes corresponda, la acción o acciones procedentes a fin de asegurar debidamente los intereses del concurso, independientemente de la acción penal en que hubiere incurrido en fraude de acreedores. A este efecto, la garantía respectiva no será cancelada sino cuando hubiere concluido totalmente el procedimiento, aun cuando el Síndico hubiere renunciado o sido removido. Cuando hubiere habido dos o más síndicos, la garantía que cada uno hubiere otorgado responderá en su respectivo ejercicio.
 
-### CAPITULO IV. Del Servicio Médico Forense
+### CAPITULO IV. Del Instituto de Ciencias Forenses y de los Médicos Auxiliares
+
+> <small>(REFORMADO, G.O. 27 DE JULIO DE 2012)</small>
 
 ###### Artículo 95.
 
@@ -1318,7 +1560,7 @@ Sólo en el caso de que no existiere lista de peritos en el arte o ciencia de qu
 
 Los honorarios de los Peritos designados por el Juez, serán cubiertos de acuerdo con el arancel que al efecto fije esta Ley, sin perjuicio de lo que disponga la sentencia definitiva respecto a la condenación en costas.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 27 DE JULIO DE 2012)</small>
 
 ### CAPITULO II. De los Aranceles
 
@@ -1326,15 +1568,19 @@ Los honorarios de los Peritos designados por el Juez, serán cubiertos de acuerd
 
 ###### Artículo 107.
 
-El Servicio Médico Forense y los médicos asignados a las Agencias Investigadoras del Ministerio Público, a los hospitales públicos, a los reclusorios preventivos, de ejecución de sentencias y demás lugares de reclusión, desempeñarán, en auxilio de la administración de justicia, las funciones establecidas por esta Ley y su reglamento.
+Los peritos asignados al Instituto de Ciencias Forenses desempeñarán, en auxilio de la administración de justicia, las funciones establecidas por esta Ley y en el Reglamento Interno del Instituto.
+
+> <small>(REFORMADO, G.O. 27 DE JULIO DE 2012)</small>
 
 ###### Artículo 108.
 
-El Servicio Médico Forense estará integrado por un Director y los demás servidores públicos que se requieran para su buen funcionamiento.
+El Instituto de Ciencias Forenses, estará integrado por un Director General, el Director de Tanatología, el Director de Clínica y Laboratorios, el Director Administrativo, el Director de Investigación y Enseñanza; subdirectores de área, jefes de departamento y los demás servidores públicos que se requieran para su correcto y adecuado funcionamiento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JULIO DE 2012)</small>
 
 ###### Artículo 109.
 
-Para desempeñar el cargo de Director del Servicio Médico Forense, se requiere:
+Para desempeñar el cargo de Director General del Instituto de Ciencias Forenses, se requiere:
 
 I. Ser ciudadano mexicano;
 
@@ -1342,43 +1588,107 @@ II. Tener cuando menos treinta y cinco años de edad cumplidos el día de la des
 
 III. Poseer título de Médico Cirujano registrado ante las autoridades competentes;
 
-IV. Acreditar antecedentes científicos, laborales, docentes o profesionales que demuestren idoneidad en la materia y haber cursado estudios de especialización en la disciplina, exhibiendo en su caso el documento correspondiente;
+> <small>(REFORMADA, G.O. 27 DE JULIO DE 2012)</small>
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
+IV. Acreditar estudios de posgrado (especialidad, maestría o doctorado) en la disciplina, exhibiendo en su caso la documentación correspondiente;
 
-V. Tener cuando menos cinco años ininterrumpidos de práctica profesional en el Servicio Médico Forense, y
+> <small>(REFORMADA, G.O. 27 DE JULIO DE 2012)</small>
+
+V. Tener cuando menos 7 años ininterrumpidos de práctica profesional en el Instituto de Ciencias Forenses, y
 
 VI. Gozar de buena reputación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JULIO DE 2012)</small>
 
 ###### Artículo 110.
 
-Para ser perito médico forense se requiere:
+Para desempeñar los cargos de Director de Tanatología, de Clínica y Laboratorios, Administrativo, y de Investigación y Enseñanza, se requiere:
 
-I. Tener cuando menos treinta años de edad cumplidos el día de la designación;
+> <small>(REFORMADA, G.O. 27 DE JULIO DE 2012)</small>
 
-II. Poseer título de Médico Cirujano registrado ante las autoridades competentes;
+I. Ser ciudadano mexicano.
 
-III. Tener tres años ininterrumpidos de ejercicio profesional;
+> <small>(REFORMADA, G.O. 27 DE JULIO DE 2012)</small>
 
-IV. Tener práctica profesional de seis meses en el propio Servicio Médico Forense;
+II. Contar con 30 años de edad cumplidos al día de la designación.
 
-V. Acreditar antecedentes científicos, laborales, docentes o profesionales que demuestren idoneidad en la materia y haber cursado estudios de especialización en esa disciplina, exhibiendo en su caso el documento correspondiente, y
+> <small>(REFORMADA, G.O. 27 DE JULIO DE 2012)</small>
+
+III. Contar con estudios de licenciatura con título y cédula registrado ante autoridad competente sobre la materia a ejercer.
+
+> <small>(REFORMADA, G.O. 27 DE JULIO DE 2012)</small>
+
+IV. El ejercicio sobre la materia deberá ser de 5 años como mínimo, preferentemente en el Instituto de Ciencias Forenses.
+
+> <small>(REFORMADA, G.O. 27 DE JULIO DE 2012)</small>
+
+V. Haber cursado un posgrado (especialidad, maestría o doctorado) sobre la materia a ejercer acreditándolo con los documentos correspondientes, y
 
 VI. Gozar de buena reputación.
 
+> <small>(REFORMADO, G.O. 27 DE JULIO DE 2012)</small>
+
 ###### Artículo 111.
 
-Para desempeñar el cargo de Subdirector Técnico del Servicio Médico Forense, se requieren los mismos requisitos señalados en el artículo anterior. El ejercicio como médico legista deberá ser de tres años.
+Para desempeñar el cargo de subdirector de área se requiere:
+
+I. Ser ciudadano mexicano.
+
+II. Contar con 30 años de edad cumplidos al día de la designación.
+
+II. El ejercicio sobre la materia deberá ser de 4 años como mínimo.
+
+IV. Contar como mínimo con estudios de licenciatura con título y cédula registrado (sic) ante autoridad competente sobre la materia a ejercer.
+
+V. Haber cursado una especialidad sobre la materia a ejercer acreditándolo con los documentos correspondientes, y
+
+VI. Gozar de buena reputación.
+
+> <small>(ADICIONADO, G.O. 27 DE JULIO DE 2012)</small>
+
+###### Artículo 111 Bis.
+
+Para desempeñar el cargo de Jefe de Departamento se requiere:
+
+I. Tener mínimo 30 años cumplidos al día de la designación;
+
+II. Deberá contar con 3 años de ejercicio en el Instituto de Ciencias Forenses;
+
+III. Haber cursado una especialidad sobre la materia y contar con diploma y cédula profesional, y
+
+IV. Gozar de buena reputación.
+
+> <small>(ADICIONADO, G.O. 27 DE JULIO DE 2012)</small>
+
+###### Artículo 111 Bis 1.
+
+Para desempeñar el cargo de Perito Médico Forense se requiere:
+
+I. Tener cuando menos 25 años de edad cumplidos el día de la designación;
+
+II. Poseer título y cédula de médico cirujano registrado ante las autoridades competentes;
+
+III. Tener estudios de especialidad en la materia acreditándolo con diploma y cédula profesional;
+
+IV. No haber sido consignado por delito doloso alguno o estar inhabilitado como perito, y
+
+V. Gozar de buena reputación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JULIO DE 2012)</small>
 
 ###### Artículo 112.
 
-Para ser auxiliar del Servicio Médico Forense en las ramas de química toxicológica, bioquímica, bacteriología, anatomopatología, hematología, radiología y demás especialidades se requiere:
+Para ser perito auxiliar del Instituto de Ciencias Forenses en las ramas de patología, antropología, química, odontología, entomología, psiquiatría, psicología, criminología, criminalística, fotografía, dactiloscopía y demás especialidades se requiere:
 
 I. Tener cuando menos veinticinco años de edad cumplidos el día de la designación;
 
-II. Poseer título profesional registrado ante las autoridades competentes, en los casos en que el ejercicio de la especialidad así lo exija;
+> <small>(REFORMADA, G.O. 27 DE JULIO DE 2012)</small>
 
-III. Acreditar antecedentes científicos, laborales, docentes o profesionales que demuestren idoneidad en la materia, y
+II. Poseer título y cédula profesional sobre la materia registrado ante autoridades competentes.
+
+> <small>(REFORMADA, G.O. 27 DE JULIO DE 2012)</small>
+
+III. Haber cursado estudios de especialidad sobre la materia a ejercer acreditándolo con el diploma y cédula profesional correspondientes, y
 
 IV. Gozar de buena reputación.
 
@@ -1386,17 +1696,21 @@ IV. Gozar de buena reputación.
 
 Es un requisito común para ocupar los cargos anteriormente señalados, no haber sido condenado por delito que amerite pena privativa de libertad de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, lo inhabilitará para el cargo cualquiera que haya sido la pena.
 
+> <small>(REFORMADO, G.O. 27 DE JULIO DE 2012)</small>
+
 ###### Artículo 114.
 
-La designación del Director y Subdirectores será hecha por el Consejo de la Judicatura.
+La designación del Director General, de los Directores y Subdirectores será efectuada por el Consejo de la Judicatura.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JULIO DE 2012)</small>
 
 ###### Artículo 115.
 
-Son facultades y obligaciones del Director del Servicio Médico Forense:
+Son facultades y obligaciones del Director General del Instituto de Ciencias Forenses:
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, G.O. 27 DE JULIO DE 2012)</small>
 
-I. Cuidar de que el servicio se desempeñe eficazmente dictando al efecto los acuerdos complementarios que fueren convenientes;
+I. Cuidar que el Instituto se desempeñe eficazmente dictando al efecto los acuerdos complementarios que fueren convenientes;
 
 II. Formular anualmente el programa de trabajo y someterlo a la aprobación del Consejo de la Judicatura;
 
@@ -1414,45 +1728,67 @@ d) Implementar los acuerdos emitidos por el Pleno del Tribunal Superior de Justi
 
 e) Formular recomendaciones para el mejoramiento del servicio, y
 
-f) Llevar a cabo las actividades académicas y de investigación, con la finalidad de la superación técnica de los peritos médico forenses;
+> <small>(REFORMADO, G.O. 27 DE JULIO DE 2012)</small>
 
-IV. Representar a la institución en los actos oficiales ante las autoridades; presidir y designar a quien lo represente en comisiones con motivo de congresos y otros eventos científicos de índole médico forense;
+f) Llevar a cabo las actividades académicas y de investigación, con la finalidad de dotar de mayor capacidad técnica y profesional a los servidores públicos y personal del Instituto.
 
-V. Atender personalmente o por conducto de su Subdirector Técnico, cuando lo considere necesario o conveniente, los casos urgentes del servicio y suplir a cualquiera de los peritos en sus faltas por enfermedad, licencia o vacaciones, o en su caso, señalar al perito a quien corresponda desempeñar el trabajo;
+> <small>(REFORMADA, G.O. 27 DE JULIO DE 2012)</small>
 
-VI. Remitir al Consejo de la Judicatura las solicitudes de licencia de los Subdirectores Técnicos, de los Peritos Médico Forenses, de los Auxiliares en el Servicio Médico Forense y de los demás miembros del personal técnico y administrativo quien acordará lo procedente;
+IV. Representar al Instituto en los actos oficiales, así como designar a quien lo represente en congresos y otros eventos científicos relacionados con las ciencias forenses;
+
+> <small>(REFORMADA, G.O. 27 DE JULIO DE 2012)</small>
+
+V. Atender personalmente o por conducto de su Director de Tanatología, cuando lo considere necesario o conveniente, los casos urgentes que se presenten y, en su caso, determinar en estos casos quien debe suplir a los Peritos en sus faltas por enfermedad, licencia o vacaciones;
+
+> <small>(REFORMADA, G.O. 27 DE JULIO DE 2012)</small>
+
+VI. Remitir al Consejo de la Judicatura las solicitudes de licencia de los Directores, de los Subdirectores, Jefes de Unidad Departamental, de los Peritos Médico Forenses, de los Auxiliares en el Instituto de Ciencias Forenses y de los demás miembros del personal técnico y administrativo quien acordará lo procedente;
 
 VII. Informar al Consejo de la Judicatura de las faltas cometidas en el servicio por el personal técnico y administrativo;
 
-VIII. Rendir el 30 de noviembre de cada año, al Consejo de la Judicatura, el informe anual de las labores desarrolladas por el servicio;
+> <small>(REFORMADA, G.O. 27 DE JULIO DE 2012)</small>
 
-IX. Solicitar al Consejo de la Judicatura el material y equipo necesarios para el servicio;
+VIII. Rendir el 30 de noviembre de cada año, al Consejo de la Judicatura el informe anual de las labores desarrolladas por el Instituto;
 
-X. Formular el proyecto del reglamento interno del Servicio Médico Forense y someterlo a la aprobación del Consejo de la Judicatura, el cual se encargará de la tramitación subsiguiente;
+> <small>(REFORMADA, G.O. 27 DE JULIO DE 2012)</small>
+
+IX. Solicitar al Consejo de la Judicatura el material y equipo necesarios para su adecuado funcionamiento;
+
+> <small>(REFORMADA, G.O. 27 DE JULIO DE 2012)</small>
+
+X. Formular el proyecto del Reglamento Interno del Instituto de Ciencias Forenses y someterlo a la aprobación del Consejo de la Judicatura, el cual se encargará de la tramitación subsiguiente;
 
 XI. Formular planes de investigación científica, dándolos a conocer al Consejo de la Judicatura y previa autorización del mismo, fomentar su desarrollo, y
 
 XII. Las demás que señalen las leyes y reglamentos.
 
+> <small>(REFORMADO, G.O. 27 DE JULIO DE 2012)</small>
+
 ###### Artículo 116.
 
-En casos de ausencia del Director, ya sea por enfermedad, vacaciones o por el desempeño de comisiones, informará oportunamente al Presidente del Consejo de la Judicatura quien, al autorizarla, aprobará en su caso al sustituto que el propio Director proponga.
+En casos de ausencia del Director General del Instituto de Ciencias Forenses, ya sea por enfermedad, vacaciones o por el desempeño de comisiones, informará oportunamente al Presidente del Consejo de la Judicatura quien, al autorizarla, aprobará en su caso al sustituto que el propio Director proponga.
 
 ###### Artículo 117.
 
 Con excepción de los casos en que deben intervenir los médicos asignados a las Agencias Investigadoras del Ministerio Público, a los hospitales públicos, a los reclusorios preventivos, de ejecución de sentencias y lugares de reclusión, los reconocimientos, análisis y demás trabajos médico forenses relacionados con los procedimientos judiciales serán desempeñados por los peritos médico forenses, quienes están obligados a concurrir a las juntas, audiencias y diligencias a las que fueren legalmente citados y a extender los dictámenes respectivos.
 
+> <small>(REFORMADO, G.O. 27 DE JULIO DE 2012)</small>
+
 ###### Artículo 118.
 
-Las autopsias deberán practicarse, por regla general, en las instalaciones del Servicio Médico Forense, salvo los casos en que circunstancias especiales justifiquen lo contrario, a juicio del Director y de lo previsto por el artículo 166 del Código de Procedimientos Penales para el Distrito Federal. No obstante, en estos últimos casos, cuando concurran circunstancias especiales, a juicio del Director, podrá éste disponer que dos peritos médico forenses asistan al hospital para presenciar o practicar la autopsia o para verificar su resultado.
+Las autopsias deberán practicarse, por regla general, en las instalaciones del Instituto de Ciencias Forenses, salvo los casos en que circunstancias especiales justifiquen lo contrario, a juicio del Director General y de lo previsto por el artículo 166 del Código de Procedimientos Penales para el Distrito Federal. En estos últimos casos, éste podrá disponer que dos peritos médico forenses se constituyan fuera del Instituto para presenciar o practicar la autopsia o para verificar su resultado.
+
+> <small>(REFORMADO, G.O. 27 DE JULIO DE 2012)</small>
 
 ###### Artículo 119.
 
-Cuando las partes objetaren el dictamen de los peritos médico forenses, la autoridad judicial dispondrá, cuando estime fundado el motivo que se alegue, que el Director del Servicio convoque a junta de peritos, con el objeto de que se discuta y decida si se ratifica o rectifica el dictamen de que se trate.
+Cuando las partes objetaren el dictamen de los peritos médico forenses, la autoridad judicial dispondrá, cuando estime fundado el motivo que se alegue, que el Director General del Instituto convoque a junta de peritos, con el objeto de que se discuta y decida si se ratifica o rectifica el dictamen de que se trate.
+
+> <small>(REFORMADO, G.O. 27 DE JULIO DE 2012)</small>
 
 ###### Artículo 120.
 
-El Consejo de la Judicatura organizará y vigilará el correcto funcionamiento del Servicio Médico Forense para que éste desarrolle cabalmente sus labores de auxiliar de la administración de justicia.
+El Consejo de la Judicatura organizará y vigilará el correcto funcionamiento del Instituto de Ciencias Forenses para que éste desarrolle cabalmente sus labores de auxiliar de la administración de justicia.
 
 ###### Artículo 121.
 
@@ -1522,7 +1858,7 @@ Para el efecto de la acreditación, los Licenciados en Derecho patronos registra
 
 En caso de que la parte favorecida con el resultado del juicio haya sido asesorada por terceros, podrá solicitar al Juez que las costas sean determinadas en la sentencia a favor del abogado o la institución que lo haya patrocinado.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE JUNIO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 1997)</small>
 
 ###### Artículo 128.
 
@@ -1616,13 +1952,15 @@ Los abogados que intervengan en juicios civiles o mercantiles por derecho propio
 
 > <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
-#### SECCIÓN PRIMERA. DEL RECTOR
+#### SECCION PRIMERA. De los Interventores y Albaceas Judiciales
+
+> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 132.
 
 En los juicios sucesorios, los interventores y albaceas judiciales cobrarán el 4% del importe de los bienes, si no exceden de ocho mil días de salario mínimo general vigente en el Distrito Federal, si exceden de esta suma, pero no del equivalente a veinticuatro mil días de salario mínimo general vigente en el Distrito Federal, cobrará además el 2% sobre el exceso; si excediere del equivalente a veinticuatro mil días de salario mínimo general vigente en el Distrito Federal cobrará además el 1 % sobre la cantidad excedente.
 
-#### SECCIÓN SEGUNDA. DE LOS SECRETARIOS
+#### SECCION SEGUNDA. De los Depositarios
 
 ###### Artículo 133.
 
@@ -1650,7 +1988,9 @@ Los depositarios de fincas rústicas percibirán como honorarios los que señale
 
 Cuando el secuestro recaiga sobre créditos, el depositario, además de los honorarios a que se refiere el artículo 133, cobrará el 5% sobre el importe de los réditos o pensiones que recaude.
 
-#### SECCIÓN TERCERA. DE LAS DIRECCIONES
+#### SECCION TERCERA. De los Intérpretes y Traductores
+
+(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE ABRIL DE 2003) (F. DE E., G.O. 1 DE JULIO DE 2003)
 
 ###### Artículo 139.
 
@@ -1660,9 +2000,11 @@ I. Por asistencia ante las autoridades judiciales para traducir declaraciones en
 
 II. Por traducción de cualquier documento, por hoja, el equivalente a dos días de salario mínimo general vigente en el Distrito Federal.
 
-Las anteriores cantidades serán actualizadas conforme al incremento anualizado que se dé en el Indice Nacional de Precios al Consumidor señalado por el Banco de México.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-#### SECCIÓN CUARTA. DE LAS SUBDIRECCIONES
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+#### SECCION CUARTA. De los Peritos
 
 ###### Artículo 140.
 
@@ -1678,7 +2020,7 @@ II. En exámenes de grafoscopía, dactiloscopía y de cualquier otra técnica, v
 
 III. En los negocios de cuantía indeterminada, los peritos cobrarán hasta doscientos cuarenta días de salario mínimo general vigente en el Distrito Federal, cantidad que se determinará por el Juzgador, tomando en cuenta la naturaleza del negocio y la complejidad de la materia sobre la que verse el peritaje. Dicha cantidad se actualizará en términos de lo dispuesto por el último párrafo del artículo anterior.
 
-#### SECCIÓN QUINTA. DE LAS JEFATURAS DE DEPARTAMENTO
+#### SECCION QUINTA. De los Arbitros
 
 ###### Artículo 141.
 
@@ -1708,7 +2050,7 @@ Las cuotas de la tarifa anterior rigen para el caso de que el árbitro sea únic
 
 Los árbitros terceros, para el caso de discordia, devengarán el 75% del porcentaje señalado en el artículo 140 de la presente Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 148.
 
@@ -1716,11 +2058,11 @@ En los negocios cuya cuantía sea indeterminada, el árbitro cobrará doscientos
 
 Para regular la cuota anterior, se atenderá a la importancia del negocio, a las dificultades técnicas que presente y a las posibilidades pecuniarias de las partes.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 24 DE ABRIL DE 2003)</small>
 
 ## TITULO OCTAVO. De las Dependencias del Tribunal Superior de Justicia del Distrito Federal
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 24 DE ABRIL DE 2003)</small>
 
 ### CAPITULO IV. De la Dirección General de Procedimientos Judiciales
 
@@ -1800,13 +2142,13 @@ El Archivo Judicial estará a cargo de un Director, preferentemente Licenciado e
 
 El reglamento respectivo fijará las atribuciones de los servidores públicos del Archivo y determinará la división de las secciones, la forma de los asientos, índices y libros que en la misma oficina deban llevarse.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
 Para el mejor funcionamiento del Archivo se implementará un sistema de digitalización de expedientes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1820,7 +2162,7 @@ No podrán ser destruidos aquellos expedientes que no hubieren causado ejecutori
 
 La negativa injustificada por parte del órgano remitente para la destrucción de un expediente, será causa de responsabilidad administrativa, para lo cual el Director del Archivo Judicial, dará el correspondiente aviso por escrito al Consejo de la Judicatura del Distrito Federal, a efecto de que en el ámbito de su competencia resuelva lo conducente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1842,7 +2184,7 @@ Cualquier interesado, previo pago de los derechos correspondientes, podrá publi
 
 Se llevará un registro histórico de los avisos publicados, para facilitar la investigación y consulta de los mismos.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 24 DE ABRIL DE 2003)</small>
 
 ### CAPITULO V. De la Dirección de Consignaciones Civiles y de la Oficialía de Partes Común para los Juzgados
 
@@ -1880,7 +2222,7 @@ Los edictos, convocatorias y demás avisos judiciales que deban insertarse en el
 
 Queda a cargo de la propia Dirección la publicación de las resoluciones que se dicten por el Pleno del Tribunal en los casos a que se refiere la fracción III del artículo 32 de esta Ley, la Jurisprudencia y tesis sobresalientes de los Tribunales Federales entre jueces y magistrados, mediante la consulta respectiva que se haga del Semanario Judicial de la Federación.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 24 DE ABRIL DE 2003)</small>
 
 ### CAPITULO VI. De la Dirección de Turno de Consignaciones Penales y de Justicia para Adolescentes
 
@@ -1916,7 +2258,7 @@ El Centro de Convivencia Familiar Supervisada estará integrado por un Director,
 
 Para ser Director del Centro de Convivencia Familiar deberá reunir los requisitos señalados por las fracciones I, II, IV y V del artículo 16 de esta ley, además deberá poseer título con antigüedad de cinco años a nivel licenciatura en: Pedagogía, Psicología, Sociología, Trabajo Social o su equivalente, y acreditar la experiencia y capacidad indispensables para el desempeño del cargo.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 24 DE ABRIL DE 2003)</small>
 
 ### CAPITULO VII. Del Instituto de Estudios Judiciales
 
@@ -1932,7 +2274,7 @@ II. Dirección de Consignaciones Civiles;
 
 III. Dirección de Turno de Consignaciones Penales; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1956,7 +2298,7 @@ La Oficialía de Partes estará a cargo de un Director, que deberá satisfacer l
 
 La Oficialía permanecerá abierta durante las horas hábiles a que se refiere el artículo 65 fracción III del Código de Procedimientos Civiles para el Distrito Federal.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 24 DE ABRIL DE 2003)</small>
 
 ### CAPITULO VIII. De la Oficialía Mayor
 
@@ -1974,7 +2316,7 @@ En caso de oposición o de no presentarse consignatario, a petición del interes
 
 Esta Dirección estará a cargo de un Director, que deberá satisfacer los requisitos que se establecen en las fracciones I a IV y VI del artículo 17 de esta ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
 
@@ -1982,7 +2324,7 @@ Esta Dirección estará a cargo de un Director, que deberá satisfacer los requi
 
 Para los Juzgados del Ramo Civil, de Extinción de Dominio y Familiares, se contará con una Oficialía de Partes Común, que estará a cargo de un Director, el que deberá reunir los requisitos que se señalan en las fracciones I a IV y VI del artículo 17 de esta ley.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 14 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 14 DE NOVIEMBRE DE 2007)</small>
 
 ### CAPITULO IX. De la Dirección Jurídica
 
@@ -2026,7 +2368,7 @@ El Instituto contará con un Comité Académico integrado por cinco miembros: tr
 
 El Comité tendrá a su cargo elaborar los programas de investigación, preparación y capacitación para los alumnos del Instituto, mecanismos de evaluación y rendimiento, que deberá someter a la aprobación del Consejo de la Judicatura.
 
-> <small>(REFORMADO PRIME PARRAFO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO PRIME PÁRRAFO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 180.
 
@@ -2050,7 +2392,7 @@ VII. Promover intercambios académicos con instituciones de educación superior.
 
 El Instituto de Estudios Judiciales llevará a cabo cursos de preparación para los exámenes correspondientes a las distintas categorías que componen la Carrera Judicial.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 24 DE ABRIL DE 2003)</small>
 
 ### CAPITULO XI. De la Dirección de Orientación Ciudadana y Derechos Humanos
 
@@ -2168,11 +2510,11 @@ III. Contar con experiencia mínima de cinco años y la capacidad indispensables
 
 IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena privativa de libertad de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 8 DE ENERO DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 8 DE ENERO DE 2008)</small>
 
 ### CAPITULO II. Facultades y Obligaciones del Consejo de la Judicatura del Distrito Federal
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE MARZO DE 2011)</small>
 
 ###### Artículo 186 Bis.
 
@@ -2254,13 +2596,19 @@ VI. Gozar de buena reputación; y
 
 VII. No haber sido condenado por delito doloso.
 
+> <small>(ADICIONADO, G.O. 27 DE JULIO DE 2012)</small>
+
+###### Artículo 186 Bis 5.
+
+El Director General del Centro de Justicia Alternativa del Tribunal Superior de Justicia del Distrito Federal, estará facultado para expedir copias certificadas de los documentos que obren en los archivos del mismo.
+
 ## TITULO NOVENO. De la Carrera Judicial
 
 ### CAPITULO UNICO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE MARZO DE 2011)</small>
 
 ###### Artículo 187.
 
@@ -2268,7 +2616,7 @@ La carrera judicial es el sistema que organiza los estudios e investigaciones de
 
 La carrera judicial se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia, que deberán reunir los integrantes del Tribunal Superior de justicia del Distrito Federal y los servidores públicos a que se refiere este Título.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
@@ -2302,7 +2650,7 @@ Salvo los Magistrados y Jueces, la designación de los cargos judiciales se llev
 
 Las designaciones que deban hacerse en las plazas vacantes de Juez, ya sea definitivas o con carácter de interino, deberán ser cubiertas mediante concurso interno de oposición o de oposición libre en la proporción que fije el Pleno del Consejo de la Judicatura. En ambos casos el concurso será público.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
@@ -2340,9 +2688,9 @@ IV. Una persona designada por el Instituto de Estudios Judiciales de entre los i
 
 Los miembros del jurado estarán impedidos de participar en los concursos a que se refiere este artículo en caso de tener algún vínculo de tipo moral, laboral o económico con cualquiera de los interesados. Estos impedimentos serán calificados por el propio jurado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 194.
 
@@ -2360,7 +2708,7 @@ IV. No haber sido sancionado por falta grave, con motivo de una queja de caráct
 
 V. Los demás que estime pertinentes, siempre que consten en acuerdos generales publicados con seis meses de anticipación a la fecha de la ratificación;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
@@ -2370,7 +2718,7 @@ VI. Aquellos elementos que presente el evaluado por escrito.
 
 ### CAPITULO UNICO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
 
@@ -2378,7 +2726,7 @@ VI. Aquellos elementos que presente el evaluado por escrito.
 
 El Consejo de la Judicatura del Distrito Federal, es un órgano del Tribunal Superior de Justicia del Distrito Federal encargado de la administración, vigilancia y disciplina del Tribunal Superior de Justicia del Distrito Federal, de los Juzgados y demás órganos judiciales, en los términos que esta Ley establece.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 21 DE ENERO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE ENERO DE 1999)</small>
 
 ###### Artículo 196.
 
@@ -2388,7 +2736,7 @@ El Consejo de la Judicatura del Distrito Federal se integra por siete consejeros
 
 El presidente del Tribunal Superior de Justicia también lo será del Consejo de la Judicatura.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
 
@@ -2430,7 +2778,7 @@ VI. Las resoluciones del Pleno, y en su caso de las Comisiones del Consejo de la
 
 VII. El consejero que disintiera de la mayoría deberá formular por escrito voto particular, el cual se engrosará en el acta respectiva y será presentado dentro de los tres días hábiles siguientes a la fecha del acuerdo y versará sobre los puntos de disidencia que hayan sido discutidos en la sesión correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE MARZO DE 2011)</small>
 
 ###### Artículo 200.
 
@@ -2454,7 +2802,7 @@ Siempre que el Consejo de la Judicatura del Distrito Federal considere que los a
 
 La ejecución de las resoluciones deberá realizarse por conducto de los órganos del propio Consejo.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 18 DE MARZO DE 2011)</small>
 
 ### CAPITULO I. De las Responsabilidades de los Servidores Públicos de la Administración de Justicia
 
@@ -2472,7 +2820,7 @@ I. Expedir los acuerdos generales y demás disposiciones reglamentarias para el 
 
 II. Emitir opinión al Jefe de Gobierno del Distrito Federal con motivo de las designaciones y ratificaciones de los magistrados;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
@@ -2536,11 +2884,11 @@ XVII. Autorizar licencias cuando procedan por causa justificada, sin goce de sue
 
 El Consejo de la Judicatura del Distrito Federal establecerá, de acuerdo con el presupuesto y mediante disposiciones generales, un sistema de estímulos para los servidores públicos del Tribunal Superior de Justicia del Distrito Federal. Dicho sistema podrá incluir estímulos económicos, para lo que tomará en cuenta el desempeño en el ejercicio de su función, los cursos realizados dentro del Instituto de Estudios Judiciales o en otras instituciones, la antigüedad, grado académico, así como los demás que el propio Consejo estime necesarios. De igual forma podrá autorizar a Magistrados o Jueces años sabáticos, para que participen en actividades académicas y de formación profesional que resulten de interés para el Tribunal Superior de Justicia del Distrito Federal, así como el otorgamiento o gestión de becas para la realización de investigaciones o estudios en instituciones nacionales e internacionales, para lo anterior el interesado deberá presentar el proyecto conducente para su aprobación;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 XVIII. (DEROGADA, G.O. 10 DE SEPTIEMBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
 
@@ -2562,19 +2910,19 @@ XXIII. Autorizar cada dos años, en forma potestativa y con vista a sus antecede
 
 La decisión que al respecto adopte el Consejo de la Judicatura será irrecurrible; y (sic)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
 XXIV. Fijar las bases de la política informática y de información estadística que permitan conocer y planear el desarrollo del Tribunal Superior de Justicia y del propio Consejo, así como regular, recopilar, documentar, seleccionar y difundir para conocimiento público, con apego a las normas en materia de transparencia y acceso a la información pública;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
 XXV. Emitir, en términos de la legislación relativa a transparencia y acceso a la información pública; protección de datos personales y las relativas al manejo de archivos públicos, las disposiciones reglamentarias conducentes; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
@@ -2608,11 +2956,11 @@ VI. Convocar a sesión extraordinaria cada vez que lo estime necesario, o si as�
 
 VII. Proponer al Consejo de la Judicatura del Distrito Federal el nombramiento y remoción de los siguientes funcionarios: Oficial Mayor; Contralor General; Director General de los Anales de Jurisprudencia y Boletín Judicial; Director General del Instituto de Estudios Judiciales; Director del Archivo Judicial del Distrito Federal; Visitador General; Visitadores Judiciales; Director Jurídico; Coordinador de Relaciones Institucionales; Jefe de la Unidad de Trabajo Social; Director del Servicio de Informática; Encargado del Servicio de Biblioteca; Director General de Procedimientos Judiciales, Directores de esa Unidad; Director de Orientación Ciudadana y Derechos Humanos; Coordinador de Comunicación Social, Director del Centro de Convivencia Familiar Supervisada; y Director General del Centro de Justicia Alternativa;
 
-> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCION IX], G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN IX], G.O. 24 DE ABRIL DE 2003)</small>
 
 VIII. Resolver los asuntos cuya atención no admita demora, debido a su importancia, dando cuenta dentro de las veinticuatro horas siguientes al Consejo;
 
-> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCION X], G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN X], G.O. 24 DE ABRIL DE 2003)</small>
 
 IX. Conceder licencias a los servidores públicos del Tribunal Superior de Justicia del Distrito Federal y del Consejo, cuando procedan por causa justificada, con o sin goce de sueldo, cuando no excedan de quince días;
 
@@ -2630,11 +2978,11 @@ XIII. Proponer al Pleno del Consejo de la Judicatura del Distrito Federal la exp
 
 XIV. Las demás que determinen las leyes y el reglamento interior del Consejo.
 
-> <small>(ADICIONADO CON EL CAPITULO Y LOS ARTICULOS QUE LO INTEGRAN, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 24 DE ABRIL DE 2003)</small>
 
 ## TITULO UNDECIMO. De la Visitaduría Judicial
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 24 DE ABRIL DE 2003)</small>
 
 ### CAPITULO II. De las Faltas
 
@@ -2692,7 +3040,7 @@ En caso de negarse a firmar el Juez o Magistrado, se hará constar esta situaci�
 
 El acta levantada por el Visitador será entregada al titular del órgano visitado y a la Comisión de Disciplina Judicial, por conducto del Visitador General, a fin de que determine lo que corresponda y, en caso de responsabilidad, para que proceda en los términos previstos por esta Ley. El Visitador General, con base a las actuaciones realizadas por los Visitadores, propondrá a la Comisión de Disciplina Judicial, por medio de proyectos, las sanciones o medidas correctivas conducentes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
 
@@ -2700,7 +3048,7 @@ El acta levantada por el Visitador será entregada al titular del órgano visita
 
 El Consejo de la Judicatura del Distrito Federal, podrá ordenar la realización de visitas extraordinarias de inspección o acordar la integración de Comisiones Especiales de Investigación, siempre que a su juicio existan elementos que hagan presumir irregularidades cometidas por un Juez, o por un Magistrado. En dichas Comisiones intervendrá además el Visitador General.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES TITULO DECIMO PRIMERO], G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES TÍTULO DÉCIMO PRIMERO], G.O. 24 DE ABRIL DE 2003)</small>
 
 ## TITULO DUODÉCIMO. De la Sustitución en Caso de Impedimentos, Recusaciones y Excusas
 
@@ -2708,9 +3056,9 @@ El Consejo de la Judicatura del Distrito Federal, podrá ordenar la realización
 
 ### CAPITULO III. De los Órganos y Sistemas para la Imposición de las Sanciones Administrativas
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 208.
 
@@ -2724,13 +3072,13 @@ Si un Magistrado dejare de conocer de algún asunto por impedimento o recusació
 
 Cuando los tres Magistrados que integran una Sala estuvieren impedidos de conocer un negocio, pasará éste al conocimiento de la Sala que en la misma materia le sigue en número.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
 
 Si todas las Salas o Magistrados del ramo estuvieren impedidos de conocer, pasará el asunto al conocimiento de las Salas de otro ramo, por el orden indicado y si también éstas se agotaren, se integrará una Sala que conozca del asunto con Jueces Penales, Civiles, Familiares, de Justicia para Adolescentes, de Extinción de Dominio, según corresponda, designados por el Tribunal Superior de Justicia del Distrito Federal en Pleno que al efecto se reunirá inmediatamente y sin perjuicio de sus demás labores y funciones.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.O. 24 DE ABRIL DE 2003)</small>
 
 ## TÍTULO DÉCIMO TERCERO. De las Responsabilidades oficiales
 
@@ -2744,31 +3092,31 @@ Si todas las Salas o Magistrados del ramo estuvieren impedidos de conocer, pasar
 
 Los Magistrados del Tribunal Superior de Justicia del Distrito Federal, los Consejeros de la Judicatura, los Jueces del Fuero Común del Distrito Federal, el Visitador General, los Visitadores Judiciales, así como todos los servidores públicos de la administración de justicia, son responsables de las faltas que cometan en el ejercicio de sus cargos y quedan por ello sujetos a las sanciones que determinen la presente Ley, la Ley Federal de Responsabilidades de los Servidores Públicos y demás leyes aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
 El órgano encargado de sustanciar los procedimientos e imponer las sanciones por faltas de los servidores públicos de la administración de justicia del fuero común en el Distrito Federal, es el Consejo de la Judicatura del Distrito Federal, por conducto de la Comisión de Disciplina Judicial en primera instancia y en términos del reglamento que establezca su funcionamiento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
 El Consejo de la Judicatura del Distrito Federal resolverá en definitiva, en los términos de esta Ley y de la Ley Federal de Responsabilidades de los Servidores Públicos, mediante la substanciación del recurso de inconformidad previsto en esta ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
 El recurso de inconformidad tiene por objeto que el Pleno del Consejo de la Judicatura del Distrito Federal confirme, revoque o modifique la resolución dictada por la Comisión de Disciplina Judicial.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
 El término para interponer el recurso de inconformidad será de cinco días hábiles, contados a partir del día siguiente en que le sea hecha la notificación de la resolución que se recurre.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
@@ -2780,13 +3128,13 @@ II. Señalar la resolución administrativa que se impugna, precisando los datos 
 
 III. Los motivos de inconformidad que considere en contra de la resolución que se recurre.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
 La interposición de dicho recurso tendrá como efecto el que quede en suspenso la ejecución de la resolución recurrida hasta en tanto se resuelva por el Pleno del Consejo de la Judicatura del Distrito Federal el mismo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
@@ -2802,7 +3150,7 @@ El término de veintidós días hábiles que refiere este artículo, comenzará 
 
 Las quejas que se presenten por las faltas en que presuntamente hayan incurrido los Magistrados, Consejeros, Jueces, así como los demás servidores públicos de la administración de justicia, se harán constar por escrito, para su debida tramitación, las cuales en todo caso deberán contener nombre, firma y domicilio del denunciante, y se harán bajo protesta de decir verdad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
@@ -2828,7 +3176,7 @@ III. Los abogados de las partes en los casos de responsabilidades provenientes d
 
 IV. El Ministerio Público en los negocios en que intervenga;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
@@ -2854,7 +3202,7 @@ Los servidores públicos del Tribunal Superior de Justicia y del Consejo de la J
 
 I. Amonestación;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
@@ -2872,13 +3220,19 @@ Si el órgano encargado de resolver sobre una queja no lo hiciera dentro del pla
 
 El órgano encargado de sancionar estas faltas será el Pleno del Tribunal Superior de Justicia del Distrito Federal.
 
-> <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 218.
 
-La declaración de no-responsabilidad por faltas deberá ser publicada por dos veces en extracto en el Boletín Judicial y en un periódico de circulación en el Distrito Federal, según lo disponga quien hiciere aquélla. Ambas publicaciones serán a costa del quejoso; a quien si no cumpliere, se le impondrá además, una multa como medio de apremio por el mismo órgano que resuelva, por una cantidad que no será inferior a seis mil pesos ni superior a sesenta mil. Dichos montos se actualizarán en forma anual de acuerdo con el factor de actualización que se obtenga de dividir el Índice Nacional de Precios al Consumidor del mes de noviembre del año que se calcula entre el Índice Nacional de Precios al Consumidor de noviembre del año inmediato anterior que determine el Banco de México y a falta de éste el que lo sustituya. Estas multas se duplicarán en caso de reincidencia injustificada.
+La declaración de no-responsabilidad por faltas deberá ser publicada por dos veces en extracto en el Boletín Judicial y en un periódico de circulación en el Distrito Federal, según lo disponga quien hiciere aquélla. Ambas publicaciones serán a costa del quejoso; a quien si no cumpliere, se le impondrá además, una multa como medio de apremio por el mismo órgano que resuelva, por una cantidad que no será inferior a seis mil pesos ni superior a sesenta mil. Dichos montos se actualizarán conforme a la actualización prevista en la fracción II del artículo 50 de esta ley. Estas multas se duplicarán en caso de reincidencia injustificada.
+
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
 
 El órgano que hizo la declaración de no responsabilidad, estará encargado de vigilar que se dé cumplimiento a lo dispuesto por este artículo, y en caso de incumplimiento será sancionado en términos de lo dispuesto por el artículo anterior.
+
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
 
 Es facultad del Pleno del Tribunal supervisar cuando así lo estime conveniente o a petición de parte, a través de la solicitud del informe correspondiente, tanto a la Comisión de Disciplina como al Consejo, por conducto de sus respectivas secretarías, del cumplimiento de esta obligación y de la prevista en el artículo 201 fracción XXVI.
 
@@ -2888,7 +3242,7 @@ Es facultad del Pleno del Tribunal supervisar cuando así lo estime conveniente 
 
 La declaración de responsabilidad por faltas producirá el efecto de impedir al servidor público de que se trate, tenga conocimiento del negocio en el que se hubieren cometido.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 24 DE ABRIL DE 2003)</small>
 
 ### CAPITULO UNICO
 
@@ -2930,7 +3284,7 @@ XV. Alterar el orden de las listas al hacer el nombramiento de auxiliares de la 
 
 XVI. Dedicar a los servidores públicos de la administración de justicia de su dependencia, al desempeño de labores extrañas o ajenas a las funciones oficiales;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 XVII. (DEROGADA, G.O. 10 DE SEPTIEMBRE DE 2009)
 
@@ -2966,7 +3320,7 @@ III. Intervenir de cualquier forma en el nombramiento del personal de los Juzgad
 
 Si la falta se cometiere por alguna Sala del Tribunal Superior de Justicia del Distrito Federal, por no dictar resoluciones dentro del término legal, sólo será responsable el Magistrado ponente cuando no presentare oportunamente el proyecto respectivo a la consideración de los demás magistrados; y estos últimos serán responsables si, habiéndose presentado la ponencia correspondiente, no concurrieren a la discusión del negocio o no lo votan dentro del mismo plazo legal, o cuando, según el caso, no emita voto particular razonado.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 223.
 
@@ -2996,9 +3350,9 @@ V. No engrosar, dentro de ocho días siguientes a la decisión del negocio, la s
 
 VI. Las señaladas en las fracciones VII, XIV y XVI al XX del artículo 220.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 224.
 
@@ -3028,7 +3382,7 @@ V. No remitir al archivo oportunamente los expedientes cuya remisión sea forzos
 
 VI. No observar lo establecido en la fracción VII del artículo 58 de esta ley; y (sic)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
@@ -3042,7 +3396,7 @@ VIII. No entregar las copias certificadas ordenadas por decreto judicial, dentro
 
 IX. No elaborar los proyectos de acuerdo que deban recaer a los asuntos en trámite a su cargo, de manera adecuada tanto en fondo como en forma conforme a las constancias de los expedientes y la ley que resulte aplicable.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 18 DE MARZO DE 2011)</small>
 
@@ -3140,7 +3494,7 @@ Todo lo anterior, sin perjuicio de la facultad del Consejo de la Judicatura del 
 
 Las faltas en que incurran los servidores públicos, previstas en los artículos 220 fracciones V, VI, VII, VIII, IX, X, XI, XIII y XV; 223 fracción III, así como reincidir en las establecidas por el artículo 224, serán sancionadas la primera vez con multa en los términos de la fracción II del articulo 216, y la segunda con suspensión temporal, en los términos de la fracción III, de dicho artículo. Se impondrá suspensión al servidor público que incurra en la falta prevista por la fracción I del artículo 225 o la prevista en la fracción I del artículo 226, cuando se trate de la segunda vez.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
@@ -3172,7 +3526,7 @@ Cuando un servidor público de la administración de justicia sea sancionado por
 
 También se sancionará como falta, según el caso, a juicio de la Comisión de Disciplina Judicial, y en los términos que prescriben, los artículos 227 y 228 de esta ley, las infracciones y omisiones en que incurran los servidores públicos de la administración de justicia del Distrito Federal, con relación a los deberes que les imponen las disposiciones de esta ley y las demás sustantivas y adjetivas del Distrito Federal y los reglamentos respectivos.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 232.
 
@@ -3186,7 +3540,7 @@ El Pleno del Consejo de la Judicatura del Distrito Federal conocerá de la impos
 
 En todo caso el Pleno del Consejo resolverá de forma definitiva e inatacable.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
@@ -3194,7 +3548,7 @@ En todo caso el Pleno del Consejo resolverá de forma definitiva e inatacable.
 
 Para los efectos de la imposición de las sanciones que señala esta Ley, se estará al procedimiento previsto en los artículos 211 y 212 de la misma y a lo siguiente: la Comisión de Disciplina Judicial, hará la declaración previa de que el servidor público incurrió en la falta de que se trate, sin más requisitos que oír a éste y al denunciante, si quisiera concurrir, a la diligencia, que deberá ser citada dentro del término que previene el artículo 211 de la presente ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
@@ -3204,7 +3558,7 @@ El asunto se discutirá y votará en una sola sesión del órgano que correspond
 
 Siendo facultad del órgano que corresponda imponer las sanciones administrativas el resolver y calificar de plano, las excusas o impedimentos de sus miembros; si una u otra se presentare para el caso de la primera instancia por más de un integrante de la Comisión de Disciplina Judicial, ésta será calificada por el Pleno del Consejo de la Judicatura del Distrito Federal, y de resultar fundada, el o los Consejeros en que proceda, serán sustituidos en cuanto a la integración de dicho órgano y exclusivamente para los efectos del asunto en particular, por el o los Consejeros que se designen mediante el turno que para tal efecto lleve la Presidencia del Consejo de la Judicatura del Distrito Federal.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 235.
 
@@ -3260,11 +3614,11 @@ La nulidad del acto que se reclame no producirá la invalidez de las actuaciones
 
 La interposición del recurso de revisión administrativa no interrumpirá en ningún caso, los efectos de la resolución impugnada.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, G.O. 24 DE ABRIL DE 2003)</small>
 
 ## TITULO DECIMO CUARTO. De la Contraloría
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 242.
 
@@ -3322,7 +3676,7 @@ RECINTO DE LA ASAMBLEA DE REPRESENTANTES DEL DISTRITO FEDERAL a los veintidós d
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los nueve días del mes de enero de mil novecientos noventa y seis.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Oscar Espinosa Villarreal.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.O. 17 DE JUNIO DE 1997.
 
@@ -3444,7 +3798,7 @@ SEXTO. La Comisión de Administración y Procuración de Justicia conformará un
 
 G.O. 13 DE MARZO DE 2008.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- El presente Decreto entrará en vigor el día primero de julio del año dos mil ocho.
 
@@ -3515,6 +3869,28 @@ G.O. 30 DE DICIEMBRE DE 2011.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 Segundo. Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 27 DE JULIO DE 2012.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+Tercero. Las referencias hechas al "Servicio Médico Forense" en otras leyes, se entenderán hechas al "Instituto de Ciencias Forenses".
+
+G.O. 20 DE SEPTIEMBRE DE 2012.
+
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+Primero. Publíquese en la Gaceta Oficial del Distrito Federal.
+
+Segundo. El presente Decreto entrará en vigor, el primero de enero de dos mil trece, con la excepción prevista en el transitorio siguiente.
+
+...
+
+Cuarto. Los asuntos cuya demanda haya sido admitida con anterioridad a la entrada en vigor de las reformas a que se refiere el presente decreto, en los términos de los transitorios segundo y tercero, se tramitarán conforme a las disposiciones anteriores a él.
+
+Quinto. Se derogan todas aquellas disposiciones que se opongan al presente decreto.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO GUBERNATIVO NÚMERO 171, MEDIANTE EL CUAL, SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS DISPOSITIVOS DE TREINTA Y UN DECRETOS PARA ADECUAR LA SECTORIZACIÓN DE LOS ORGANISMOS PÚBLICOS DESCENTRALIZADOS DE EDUCACIÓN SUPERIOR A LA SECRETARÍA DE INNOVACIÓN, CIENCIA Y EDUCACIÓN SUPERIOR”.]
 
