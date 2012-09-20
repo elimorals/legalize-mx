@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-tribunal-superior-de-justicia-del-distrito-258
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-01-29"
-last_updated: "2012-07-27"
+last_updated: "2012-09-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2580&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "1996-01-09"
 ---
 # LEY ORGANICA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE NOVIEMBRE DE 2012 EN LA G.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY ORGÁNICA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 29 de enero de 1996 y republicada en la Sección Primera del Diario Oficial de la Federación, el miércoles 7 de febrero de 1996.
 
@@ -642,17 +644,19 @@ VII. Vigilar que los Secretarios y demás servidores públicos de la Sala cumpla
 
 Las Salas en materia Civil, conocerán:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA, G.O. 8 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
-I. De los casos de responsabilidad civil y de los recursos de apelación y queja que se interpongan en asuntos civiles y de Extinción de Dominio, contra las resoluciones dictadas por los jueces de lo Civil, Arrendamiento Inmobiliario y de Extinción de Dominio;
+I. De los casos de responsabilidad civil de los Jueces Civiles, de los Jueces de lo Civil de Cuantía Menor, de los Jueces de lo Civil de Proceso Oral y de Extinción de Dominio del Tribunal Superior de Justicia del Distrito Federal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+Asimismo de los recursos de apelación y queja que se interpongan contra las resoluciones dictadas en asuntos civiles y de extinción de dominio por los Jueces de lo Civil y de Extinción de Dominio. De igual manera de los recursos de queja que se interpongan contra las resoluciones dictadas por los Jueces de lo Civil de Cuantía Menor.
 
-> <small>(REFORMADA, G.O. 8 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II. De las excusas y recusaciones de los Jueces Civiles, del Arrendamiento Inmobiliario y de Extinción de Dominio, del Tribunal Superior de Justicia del Distrito Federal;
+> <small>(REFORMADA, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+II. De las excusas y recusaciones de los Jueces Civiles, de los Jueces de lo Civil de Cuantía Menor, de los Jueces de lo Civil de Proceso Oral y de Extinción de Dominio, del Tribunal Superior de Justicia del Distrito Federal;
 
 III. De los conflictos competenciales que se susciten en materia Civil entre las autoridades judiciales del Tribunal Superior de Justicia, y
 
@@ -818,11 +822,11 @@ Los Juzgados de lo Civil conocerán:
 
 I. De los asuntos de jurisdicción voluntaria, cuyo conocimiento no corresponda a la materia Familiar;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
-II. De los juicios contenciosos que versen sobre la propiedad o demás derechos reales siempre que el valor de la cosa sea igual o mayor a la cantidad que el artículo 691 del Código de Procedimientos Civiles para el Distrito Federal, establece para que un juicio sea apelable, cantidad que se actualizará en forma anual de acuerdo con el factor de actualización que se obtenga de dividir el Índice Nacional de Precios al Consumidor del mes de noviembre del año que se calcula entre el Índice Nacional de Precios al Consumidor de noviembre del año inmediato anterior que determine el Banco de México, y a falta de éste el que lo sustituya; dicho valor se dará a conocer en el boletín judicial.
+II. De los juicios contenciosos que versen sobre la propiedad o demás derechos reales siempre que el valor de la cosa sea igual o mayor a la cantidad que el artículo 691 del Código de Procedimientos Civiles para el Distrito Federal, establece para que un juicio sea apelable, cantidad que se actualizará en forma anual con base en la variación observada por la inflación en el valor del Índice Nacional de Precios al Consumidor, publicado por el Instituto Nacional de Estadística y Geografía, entre la última actualización de dicho monto y el mes de noviembre del año en cuestión. A falta de uno o de otro serán aplicables los que los sustituyan; dicho valor se dará a conocer en el boletín judicial;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -830,9 +834,17 @@ II. De los juicios contenciosos que versen sobre la propiedad o demás derechos 
 
 III. De los demás negocios de jurisdicción contenciosa, común y concurrente que versen sobre derechos personales cuya suerte principal sea igual o mayor a la cantidad que los artículos 691 del Código de Procedimientos Civiles para el Distrito Federal y 1340 del Código de Comercio establecen para que un juicio sea apelable, misma que se actualizará en términos de la fracción anterior; dicho valor se dará a conocer en el boletín judicial.
 
-IV. De los interdictos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-V. De la diligenciación de los exhortos, rogatorias, suplicatorias, requisitorias y despachos, y (sic)
+> <small>(REFORMADA, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+IV. De los interdictos, juicios hipotecarios y ejecutivos civiles, con excepción de lo previsto en la fracción V del artículo 71 de esta ley;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+V. De la diligenciación de los exhortos, rogatorias, suplicatorias, requisitorias y despachos, en el ámbito de su competencia;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -840,17 +852,23 @@ V. De la diligenciación de los exhortos, rogatorias, suplicatorias, requisitori
 
 VI. De todas las controversias que se susciten en materia de arrendamiento de inmuebles destinados a habitación, comercio, industria o cualquier otro uso, giro o destino permitido por la ley;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADA, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
-VII. De los asuntos relativos a la inmatriculación judicial de inmuebles y demás asuntos referentes a la materia que establezcan las leyes, y
+VII. De los asuntos relativos a la inmatriculación judicial de inmuebles y demás asuntos referentes a la materia que establezcan las leyes;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADA, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
-VIII. De los demás asuntos que les encomienden las leyes.
+VIII. Siempre serán competentes de los asuntos de cuantía indeterminada, con independencia de que la acción sea real o personal, común o concurrente, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+IX. De los demás asuntos que les encomienden las leyes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE NOVIEMBRE DE 2007)</small>
 
@@ -1230,11 +1248,11 @@ Los jueces podrán facultar a los pasantes de derecho que laboren en el juzgado 
 
 Los Jueces de lo Civil de Cuantía Menor conocerán:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
-I. De los negocios de jurisdicción concurrente, cuya suerte principal sea inferior a la cantidad que el artículo 1340 del Código de Comercio establece para que un juicio sea apelable, cantidad que se actualizará en términos del artículo 50 fracción II de esta Ley.
+I. De los negocios de jurisdicción concurrente, cuya suerte principal sea inferior a la cantidad que el artículo 1340 del Código de Comercio establece para que un juicio sea apelable, cantidad que se actualizará en términos del artículo 1253 fracción VI del citado código, a excepción de aquellos asuntos previstos en el artículo 1390 bis de dicho código.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1242,11 +1260,11 @@ I. De los negocios de jurisdicción concurrente, cuya suerte principal sea infer
 
 II. De las diligencias preliminares de consignación, con la misma limitación a que se refiere la fracción inmediata anterior;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA, G.O. 13 DE MARZO DE 2008)</small>
+> <small>(REFORMADA, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
-III. De la diligenciación de los exhortos y despacho de los demás asuntos que les encomienden las leyes; y (sic)
+III. De la diligenciación de los exhortos y despacho de los demás asuntos que les encomienden las leyes, en el ámbito de su competencia;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1254,23 +1272,49 @@ III. De la diligenciación de los exhortos y despacho de los demás asuntos que 
 
 IV. Del Juicio de Pago de Daños Culposos causados con motivo del Tránsito de Vehículos, establecido en el capítulo IV, del Título Séptimo, del Código de Procedimientos Civiles para el Distrito Federal, independientemente del monto que se demande como pago y en los términos y plazos que se señalan en dicho capítulo;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+V. De juicios contenciosos que versen sobre adeudos de cuotas de mantenimiento, intereses o sanciones por incumplimiento a la Ley de Propiedad en Condominio de Inmuebles para el Distrito Federal, y de las resoluciones y convenios celebrados ante la Procuraduría Social del Distrito Federal.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 71 Bis.
+
+Los Jueces de lo Civil de Proceso Oral conocerán:
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+I. De los juicios contenciosos que versen sobre la propiedad o demás derechos reales cuyo valor de la cosa sea inferior a la cantidad que el artículo 691 del Código de Procedimientos Civiles establece para que un juicio sea apelable, cantidad que se actualizará en términos del artículo 50, fracción II de esta Ley;
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, G.O. 18 DE MARZO DE 2011)</small>
 
-V. De los juicios hipotecarios y ejecutivos civiles cuya suerte principal sea inferior a la cantidad que establece el artículo 691 del Código de Procedimientos Civiles para el Distrito Federal para que un juicio sea apelable, la cual se actualizará en los términos del artículo 50 fracción II de esta ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, G.O. 18 DE MARZO DE 2011)</small>
-
-###### Artículo 71 Bis.
-
-Los Juzgados de Proceso Oral Civil conocerán:
-
-I.- De los juicios contenciosos que versen sobre la propiedad o demás derechos reales cuyo valor de la cosa sea inferior a la cantidad que el artículo 691 del Código de Procedimientos Civiles establece para que un juicio sea apelable, cantidad que se actualizará en términos del artículo 50, fracción II de esta Ley; y
-
 II.- De los juicios que versen sobre derechos personales de naturaleza civil, cuya suerte principal sea inferior a la cantidad que el artículo 691 del Código de Procedimientos Civiles establece para que un juicio sea apelable, cantidad que se actualizará en términos del artículo 50 fracción II de esta Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+III. De los negocios de jurisdicción concurrente, en los casos a que se refiere el artículo 1390 Bis del Código de Comercio.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+IV. De los medios preparatorios a juicio y de las providencias precautorias relacionados con los juicios que son de su competencia, en términos de las fracciones anteriores; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
+
+V. De los asuntos de jurisdicción voluntaria, así como de la diligenciación de exhortos, rogatorias, suplicatorias, requisitorias y despachos, relacionados con los juicios orales en materia civil y mercantil.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1956,7 +2000,9 @@ I. Por asistencia ante las autoridades judiciales para traducir declaraciones en
 
 II. Por traducción de cualquier documento, por hoja, el equivalente a dos días de salario mínimo general vigente en el Distrito Federal.
 
-Las anteriores cantidades serán actualizadas conforme al incremento anualizado que se dé en el Indice Nacional de Precios al Consumidor señalado por el Banco de México.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
 #### SECCION CUARTA. De los Peritos
 
@@ -3174,13 +3220,19 @@ Si el órgano encargado de resolver sobre una queja no lo hiciera dentro del pla
 
 El órgano encargado de sancionar estas faltas será el Pleno del Tribunal Superior de Justicia del Distrito Federal.
 
-> <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 218.
 
-La declaración de no-responsabilidad por faltas deberá ser publicada por dos veces en extracto en el Boletín Judicial y en un periódico de circulación en el Distrito Federal, según lo disponga quien hiciere aquélla. Ambas publicaciones serán a costa del quejoso; a quien si no cumpliere, se le impondrá además, una multa como medio de apremio por el mismo órgano que resuelva, por una cantidad que no será inferior a seis mil pesos ni superior a sesenta mil. Dichos montos se actualizarán en forma anual de acuerdo con el factor de actualización que se obtenga de dividir el Índice Nacional de Precios al Consumidor del mes de noviembre del año que se calcula entre el Índice Nacional de Precios al Consumidor de noviembre del año inmediato anterior que determine el Banco de México y a falta de éste el que lo sustituya. Estas multas se duplicarán en caso de reincidencia injustificada.
+La declaración de no-responsabilidad por faltas deberá ser publicada por dos veces en extracto en el Boletín Judicial y en un periódico de circulación en el Distrito Federal, según lo disponga quien hiciere aquélla. Ambas publicaciones serán a costa del quejoso; a quien si no cumpliere, se le impondrá además, una multa como medio de apremio por el mismo órgano que resuelva, por una cantidad que no será inferior a seis mil pesos ni superior a sesenta mil. Dichos montos se actualizarán conforme a la actualización prevista en la fracción II del artículo 50 de esta ley. Estas multas se duplicarán en caso de reincidencia injustificada.
+
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
 
 El órgano que hizo la declaración de no responsabilidad, estará encargado de vigilar que se dé cumplimiento a lo dispuesto por este artículo, y en caso de incumplimiento será sancionado en términos de lo dispuesto por el artículo anterior.
+
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
 
 Es facultad del Pleno del Tribunal supervisar cuando así lo estime conveniente o a petición de parte, a través de la solicitud del informe correspondiente, tanto a la Comisión de Disciplina como al Consejo, por conducto de sus respectivas secretarías, del cumplimiento de esta obligación y de la prevista en el artículo 201 fracción XXVI.
 
@@ -3825,3 +3877,17 @@ Primero.- El presente decreto entrará en vigor al día siguiente de su publicac
 Segundo.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
 
 Tercero. Las referencias hechas al "Servicio Médico Forense" en otras leyes, se entenderán hechas al "Instituto de Ciencias Forenses".
+
+G.O. 20 DE SEPTIEMBRE DE 2012.
+
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+Primero. Publíquese en la Gaceta Oficial del Distrito Federal.
+
+Segundo. El presente Decreto entrará en vigor, el primero de enero de dos mil trece, con la excepción prevista en el transitorio siguiente.
+
+...
+
+Cuarto. Los asuntos cuya demanda haya sido admitida con anterioridad a la entrada en vigor de las reformas a que se refiere el presente decreto, en los términos de los transitorios segundo y tercero, se tramitarán conforme a las disposiciones anteriores a él.
+
+Quinto. Se derogan todas aquellas disposiciones que se opongan al presente decreto.
