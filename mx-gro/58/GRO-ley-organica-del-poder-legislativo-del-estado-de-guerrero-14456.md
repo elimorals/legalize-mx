@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-poder-legislativo-del-estado-de-guerrero-14456
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-06-11"
-last_updated: "2012-07-17"
+last_updated: "2012-09-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GRO"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NUM. 286
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE SEPTIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE GUERRERO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NÚMERO 286
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2012.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 21 DE SEPTIEMBRE DE 2012.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 11 de junio de 1999.
 
@@ -371,8 +371,6 @@ La Comisión estará integrada por cinco miembros en el orden siguiente: un Pres
 
 La Cámara de Diputados comunicará al Consejo Estatal Electoral y al Tribunal Electoral del Estado la designación de la Comisión a que se refiere este artículo.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE SEPTIEMBRE DE 2012 EN EL P.O. DEL ESTADO DE GUERRERO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 18.
 
 La Comisión Instaladora tendrá a su cargo las siguientes funciones:
@@ -385,9 +383,9 @@ II. Reunirse a más tardar cinco días antes de la instalación de la nueva legi
 
 III. Expedir las credenciales que acrediten a los Diputados electos, de conformidad con las constancias y, en su caso, las resoluciones a que se refiere la fracción I de este artículo. Las credenciales serán firmadas por el Presidente y Secretarios de la Comisión;
 
-> <small>(REFORMADA, P.O. 17 DE JULIO DE 2012)</small>
+(REFORMADA, P.O. 17 DE JULIO DE 2012) (F. DE E., P.O. 21 DE SEPTIEMBRE DE 2012)
 
-IV. Citar, por conducto de su Presidente, a los Diputados electos, tres días antes de la instalación de la Legislatura a junta preparatoria, con el único objeto de elegir a la Mesa Directiva que presidirá los trabajos correspondientes al primer mes del ejercicio constitucional, citando en el mismo acto a la sesión de instalación de la nueva Legislatura, para el día que señala la Constitución Política Local.
+IV. Citar, por conducto de su Presidente, a los Diputados electos, tres días antes de la instalación de la Legislatura a junta preparatoria, con el único objeto de elegir a la Mesa Directiva que presidirá los trabajos Correspondientes al primer año del ejercicio constitucional, citando en el mismo acto a la sesión de instalación de la nueva Legislatura, para el día que señala la Constitución Política Local.
 
 En caso de que a la junta preparatoria no concurra la mayoría de los Diputados electos, se citará para el día siguiente, en términos de lo dispuesto por el artículo 40 de la Constitución Política del Estado;
 
