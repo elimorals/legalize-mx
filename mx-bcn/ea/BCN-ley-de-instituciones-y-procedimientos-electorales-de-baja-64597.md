@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-instituciones-y-procedimientos-electorales-de-baja-64597
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-19"
-last_updated: "2012-05-25"
+last_updated: "2012-09-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64597&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el miércoles 19 de noviembre de 2008.
 
@@ -1545,7 +1545,9 @@ El convenio de fusión deberá presentarse al Consejo General, treinta días ant
 
 El Instituto Electoral y de Participación Ciudadana es un organismo público, autónomo en su funcionamiento e independiente en sus decisiones, de carácter permanente, con personalidad jurídica y patrimonio propio. Se regirá en su organización, funcionamiento y control, por las disposiciones contenidas en la Constitución del Estado y en esta ley.
 
-El Instituto Electoral, es depositario de la autoridad electoral y responsable del ejercicio de la función pública de organizar las elecciones, así como los procesos de plebiscito y referéndum, en los términos de la Ley de la materia.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
+
+El Instituto Electoral, es depositario de la autoridad electoral y responsable del ejercicio de la función pública de organizar las elecciones, así como los procesos de plebiscito, referéndum y consulta popular, en los términos de la Ley de la materia.
 
 ###### ARTÍCULO 129.
 
@@ -2063,7 +2065,9 @@ XIX. Mantener actualizada la cartografía electoral del Estado, clasificada por 
 
 XX. Elaborar el anteproyecto de presupuesto de egresos del Instituto Electoral, atendiendo, en su caso, los programas que fije el Consejero Presidente del Consejo General;
 
-XXI. Preparar el anteproyecto de presupuesto para la realización de elecciones extraordinarias, plebiscito y referéndum y someterlo a la aprobación del Consejo General;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
+
+XXI. Preparar el anteproyecto de presupuesto para la realización de elecciones extraordinarias, plebiscito, referéndum y consulta popular y someterlo a la aprobación del Consejo General;
 
 XXII. Elaborar manuales de organización de las Direcciones, Coordinaciones y unidades Técnicas a su cargo;
 
@@ -6014,3 +6018,9 @@ SEGUNDO.- El Consejo General del Instituto Electoral y de Participación Ciudada
 TERCERO.- El Consejo General del Instituto Electoral y de Participación Ciudadana de Baja California tendrá un plazo de 180 días a partir de la entrada en vigor del presente decreto para expedir el Reglamento para el Uso de la Votación Electrónica en Baja California.
 
 CUARTO.- Para el proceso electoral que tendrá verificativo en el año 2013, se deberá llevar a cabo por lo menos una prueba vinculante de votación electrónica en las casillas especiales que para tal efecto determine el Consejo General, según lo dispuesto en el artículo 301 de esta Ley, para lo cual el Consejo General de (sic) Instituto Electoral y de Participación Ciudadana de Baja California preverá para el ejercicio fiscal de ese año los recursos presupuestales necesarios en la realización de este ejercicio.
+
+P.O. 21 DE SEPTIEMBRE DE 2012.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Consejo General del Instituto Electoral y de Participación Ciudadana deberá adecuar sus disposiciones reglamentarias a más tardar en 60 días de la entrada en vigor de la presente reforma.
