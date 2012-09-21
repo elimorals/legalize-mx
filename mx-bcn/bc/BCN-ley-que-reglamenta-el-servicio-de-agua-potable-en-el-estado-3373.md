@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-reglamenta-el-servicio-de-agua-potable-en-el-estado-337
 country: "mx"
 rank: "ley"
 publication_date: "1969-04-30"
-last_updated: "2009-12-04"
+last_updated: "2012-09-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY QUE REGLAMENTA EL SERVICIO DE AGUA POTABLE EN EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 30 de abril de 1969.
 
@@ -53,7 +53,7 @@ Se entiende por Organismo encargado del servicio aquél que presta el servicio d
 
 DE LA OBLIGACION DE SURTIRSE DE AGUA POTABLE DEL SERVICIO PUBLICO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 3o.
 
@@ -73,7 +73,7 @@ IV.- Los poseedores de predios, cuando la posesión se derive de contratos de co
 
 Es potestativo contar con los servicios de agua potable y alcantarillado sanitario, para los dueños o poseedores de predios no edificados, en los casos en que no sea obligatorio conforme a las leyes y reglamentos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 5o.
 
@@ -193,11 +193,11 @@ III.- En forma solidaria, los arrendadores y arrendatarios de predios locales qu
 
 Las personas obligadas a pagar los derechos por servicios de agua, deberán cubrirlos en las oficinas recaudadoras o en establecimientos autorizados por las autoridades fiscales, dentro de los quince días naturales posteriores al periodo facturado.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTICULO 17.
 
-Cuando no se cubran los derechos a que se refiere el artículo 15, en el plazo que señala el artículo anterior, su pago y el de los accesorios legales respectivos, se hará efectivo en las condiciones y términos que establezca la Legislación fiscal del Estado de Baja California. Sin embargo, el suministro de agua potable y alcantarillado sanitario que se preste en los inmuebles en los que el Gobierno del Estado brinde educación básica y servicios de salud pública, no podrá suspenderse.
+Cuando no se cubran los derechos a que se refiere el artículo 15, en el plazo que señala el artículo anterior, su pago y el de los accesorios legales respectivos, se hará efectivo en las condiciones y términos que establezca la Legislación fiscal del Estado de Baja California. Sin embargo, el suministro de agua potable y alcantarillado sanitario que se preste en los inmuebles en los que el Gobierno del Estado brinde educación básica y servicios de salud pública, no podrán reducirse ni suspenderse.
 
 Tratándose de la prestación del servicio de agua potable y alcantarillado para uso doméstico, ante la falta de pago de más de tres meses, únicamente podrá reducirse el suministro de agua en un 50% del diámetro de la toma contratada y ante la falta de pago de más de seis meses, sólo podrá reducirse el suministro de agua en un 70% del diámetro de la toma contratada, en tanto el usuario cubra el importe correspondiente, o en su caso, celebre el convenio respectivo, en términos de las disposiciones fiscales, en el que se considerará su capacidad de pago.
 
@@ -231,7 +231,7 @@ En los casos en que el índice Nacional de Precios al Consumidor del mes anterio
 
 Los Organismos podrán también ejecutar y derramar las obras a que se refiere este artículo, en los términos de la Ley de Urbanización del Estado de Baja California.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 22.
 
@@ -515,7 +515,7 @@ La falta de recepción de la factura por los derechos causados, no libera a los 
 
 La facturas deberán contener como mínimo los siguientes datos:
 
-I).- Nombre del usuario y domici1ío del predio, giro o establecimiento en que se preste el servicio;
+I).- Nombre del usuario y domicilio del predio, giro o establecimiento en que se preste el servicio;
 
 II).- Fecha de expedición;
 
@@ -639,7 +639,7 @@ Cuando por cualquier medio se tenga conocimiento que las instalaciones hidráuli
 
 Tratándose de instalaciones hidráulicas de los usuarios estos estarán obligados a repararlas o sustituirlas a su costa.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 74.
 
@@ -819,7 +819,7 @@ A los que debiendo contar con los servicios de agua potable y alcantarillado san
 
 Cuando ni el propietario de un giro, ni el del predio en que esté establecido, cumplan con la obligación que señala el Artículo 30, pero el Organismo encargado del servicio tenga conocimiento por cualquier otro medio de la clausura, del traspaso o traslado del giro, ordenará cuando proceda, la supresión de la toma así como las anotaciones correspondientes en el registro y padrón, sin perjuicio de que se impongan las sanciones respectivas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 95.
 
@@ -839,7 +839,7 @@ b).- Si la derivación se destina a una toma de uso comercial, industrial u otro
 
 c).- (DEROGADO, P.O. 4 DE DICIEMBRE DE 2009)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2009)</small>
 
 II.- A los que, contraviniendo lo dispuesto en el Artículo 6°, practiquen, manden practicar o consientan que se lleven a cabo en forma provisional o permanente, sin la autorización del Organismo encargado del servicio derivaciones de agua:
 
@@ -951,7 +951,7 @@ V.- A quienes teniendo servicio de agua de uso doméstico lo destinen para uso c
 
 Para los efectos de esta Ley, cuando se haga referencia a la palabra salario, se entenderá que se trata del salario mínimo general vigente en el Estado de Baja California.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 96.
 
@@ -1111,7 +1111,7 @@ DR. FEDERICO MARTINEZ MANAUTOU.
 
 (firmado)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 12 DE NOVIEMBRE DE 1999.
 
@@ -1134,3 +1134,13 @@ Las visitas de inspección así como las inconformidades que al entrar en vigor 
 ###### ARTÍCULO TERCERO.
 
 A la entrada en vigor de la presente reforma, serán derogados los incisos C y E de las secciones I, II, III, IV y V del artículo 11 de la Ley de Ingresos del Estado de Baja California para el Ejercicio Fiscal 2009, publicada el 26 de Diciembre de 2008 en el Periódico Oficial del Estado.
+
+P.O. 21 DE SEPTIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos de publicación en el Periódico Oficial del Estado de Baja California.
