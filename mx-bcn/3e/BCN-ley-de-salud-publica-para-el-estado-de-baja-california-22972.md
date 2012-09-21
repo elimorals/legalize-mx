@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2012-06-22"
+last_updated: "2012-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -273,7 +273,9 @@ I.- Proporcionar servicios de salud a toda la población del Estado y mejorar la
 
 II.- Contribuir al adecuado desarrollo demográfico del Estado;
 
-III.- Colaborar al bienestar de la población, mediante servicios de asistencia social, principalmente a menores en estado de abandono, ancianos desamparados y discapacitados, fomentar su bienestar y propiciar su incorporación a una vida equilibrada en lo económico y social;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
+
+III.- Colaborar al bienestar de la población, mediante servicios de asistencia social, principalmente a menores en estado de abandono, farmacodependientes en situación de calle, ancianos desamparados y discapacitados, fomentar su bienestar y propiciar su incorporación a una vida equilibrada en lo económico y social;
 
 IV.- Impulsar el desarrollo del individuo, de la familia y de la comunidad, así como la integración social y el crecimiento físico y mental de la niñez;
 
@@ -327,11 +329,9 @@ V.- Promover, orientar y apoyar las acciones en materia de salubridad local a ca
 
 VI.- Cumplir y hacer cumplir las normas oficiales mexicanas en la materia, cuando su aplicación corresponda a las autoridades locales;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO NÚMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
-
-VII.- Coordinarse con la Secretaría de Salud Federal para la ejecución en el Estado, del Programa Nacional para la Prevención y Tratamiento de la Farmacodependencia;
+VII.- Coordinarse con la Secretaría de Salud Federal para la ejecución en el Estado, del Programa Nacional para la Prevención y Tratamiento de la Farmacodependencia, reconociendo a esta como un problema de salud pública;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO NÚMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -487,7 +487,9 @@ I.- Preventivas, que incluyen las de promoción general y las de protección esp
 
 II.- Curativas, que tienen como fin efectuar un diagnóstico temprano y proporcionar tratamiento oportuno; y
 
-III.- De rehabilitación, que incluyen acciones tendientes a corregir las discapacidades físicas o mentales.
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
+
+III.- De rehabilitación, que incluyen acciones tendientes a corregir las discapacidades físicas o mentales, o de enfermedad por adicción a los narcóticos.
 
 #### SECCION III. DE LA ATENCION MATERNO-INFANTIL
 
@@ -637,7 +639,9 @@ IV.- Las demás acciones que directa o indirectamente contribuyan al fomento de 
 
 La atención de las enfermedades mentales comprende:
 
-I.- La atención de personas con padecimientos mentales, la rehabilitación psiquiátrica de enfermos crónicos, deficientes mentales, alcohólicos y personas que usen habitualmente estupefacientes o substancias psicotrópicas; y (sic)
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
+
+I.- La atención de personas con padecimientos mentales, la rehabilitación psiquiátrica de enfermos crónicos, deficientes mentales, alcohólicos y personas enfermas que usen habitualmente estupefacientes o substancias psicotrópicas, o alguna droga; y (sic)
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2011)</small>
 
@@ -681,13 +685,17 @@ Para los efectos de esta Ley, se entiende por asistencia social el conjunto de a
 
 La prestación de servicios de asistencia social será regulada por los ordenamientos legales aplicables en la materia, debiendo intervenir las Autoridades Sanitarias en aquellos asuntos relacionados con los servicios de salud.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 36.
 
-Los integrantes del Sistema Estatal de Salud, deberán dar atención preferente e inmediata a menores, personas con capacidades diferentes y ancianos sometidos en cualquier forma de maltrato que pongan en peligro su salud física o mental.
+Los integrantes del Sistema Estatal de Salud, deberán dar atención preferente e inmediata a menores, farmacodependiente en situación de calle o abandono, personas con capacidades diferentes y ancianos sometidos en cualquier forma de maltrato que pongan en peligro su salud física o mental.
 
 Asimismo, darán esa atención a quienes hayan sido sujetos pasivos de la comisión de delitos que atenten contra la integridad física o mental o el normal desarrollo psicosomático de los individuos.
 
-En estos casos, las instituciones de salud del Estado, podrán tomar las medidas inmediatas que sean necesarias para la protección de la salud de los menores, personas con capacidades diferentes y ancianos, sin perjuicio de dar intervención a las Autoridades competentes.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
+
+En estos casos, las instituciones de salud del Estado, podrán tomar las medidas inmediatas que sean necesarias para la protección de la salud de los menores, farmacodependiente en situación de calle o abandono, personas con capacidades diferentes y ancianos, sin perjuicio de dar intervención a las Autoridades competentes.
 
 #### SECCION VII. DE LOS PRESTADORES DE SERVICIOS DE SALUD
 
@@ -759,7 +767,9 @@ I.- Promoción de hábitos de conducta que contribuyan a proteger la salud, a so
 
 II.- Incorporación como auxiliares voluntarios, en la realización de tareas simples de atención médica y asistencia social, participando en determinadas actividades de operación de los servicios de salud, bajo la dirección y control de las autoridades correspondientes;
 
-III.- Informar sobre la existencia de personas que requieran de servicios de salud, cuando éstas se encuentren impedidas de solicitar auxilio por sí mismas;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
+
+III.- Informar sobre la existencia de personas que requieran de servicios de salud, cuando éstas se encuentren impedidas de solicitar auxilio por sí mismas, o se encuentren en estado de abandono o indigencia;
 
 IV.- Formulación de sugerencias para mejorar los servicios de salud;
 
@@ -829,9 +839,11 @@ ARTÍCULO 50 BIS 5.- La Secretaría de Educación y Bienestar Social del Estado 
 
 #### SECCION X. DONACION Y TRASPLANTES
 
-> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-ARTÍCULO 50 TER.- Las autoridades federales de salud en coordinación con los servicios de salud del Estado efectuarán el control sanitario de las donaciones y trasplantes de órganos, tejidos y células de seres humanos, por conducto del Centro de Trasplantes, Procuración de Órganos y Tejidos del Estado de Baja California, mismo que funcionará en los términos establecidos en el Reglamento correspondiente.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
+
+ARTÍCULO 50 TER.- Las autoridades federales de salud en coordinación con los servicios de salud del Estado efectuarán el control y la vigilancia sanitario (sic) de las donaciones y trasplantes de órganos, tejidos y células de seres humanos, por conducto del Centro de Trasplantes, Procuración de Órganos y Tejidos del Estado de Baja California, mismo que funcionará en los términos establecidos en el Reglamento correspondiente.
 
 > <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
@@ -851,7 +863,13 @@ IV.- Operar y mantener actualizado el registro estatal de trasplantes;
 
 V.- Decidir y vigilar dentro de su ámbito de competencia la asignación de órganos, tejidos y células de seres humanos;
 
-VI.- Fomentar y promover la cultura de donación, por métodos propios o en coordinación con el Consejo Estatal de Trasplantes;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
+
+VI.- Elaborar y llevar a cabo campañas permanentes de concientización sobre la importancia de la donación y los trasplantes, por métodos propios o en coordinación con las instituciones públicas del Sistema Nacional de Salud o con el Consejo Estatal de Trasplantes.
+
+Corresponde al Gobierno del Estado, determinar los mecanismos para impulsar el fomento a la cultura de la donación al momento de la realización de trámites públicos o la obtención de documentos oficiales.
 
 VII.- Vigilar y autorizar las investigaciones en las que en su desarrollo se utilicen órganos y tejidos de seres humanos con excepción de la sangre, así como de injerto y trasplantes que se pretendan realizar con fines de investigación, sin perjuicio de las atribuciones de otros organismos en estas actividades;
 
@@ -869,6 +887,12 @@ XII.- Realizar las demás acciones que directa o indirectamente contribuyan al f
 
 ARTÍCULO 50 TER 3.- Para el logro operativo de sus fines, se deberá conformar la Unidad Coordinadora de Procuración de Órganos y Tejidos de Seres Humanos, que será parte integrante del Centro de Trasplantes y Procuración de Órganos y Tejidos y estará subordinada a esta última, en el entendido de que el objetivo principal de dicho grupo operativo, es facilitar y gestionar los procesos para la obtención de órganos y tejidos de seres humanos con fines de trasplantes, dentro de las diferentes instituciones de salud en el estado, que expresamente lo soliciten y con estricto apego a los lineamientos aplicables en esta materia.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
+
+Así también para los fines mencionados en el párrafo anterior, el Gobierno del Estado a través del Centro de Trasplantes y Procuración de Órganos y Tejidos, coadyuvará con el Centro Nacional de Trasplantes, presentando sus programas de trasplantes e integrando y actualizando la información del Registro Nacional de Trasplantes, de conformidad con lo que señale la Ley General de Salud y demás disposiciones aplicables.
+
 > <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 ARTÍCULO 50 TER 4.- El Centro estará a cargo de un Director General, mismo que será suplido en ausencias temporales menores de quince días por el servidor público de jerarquía inmediata inferior que designe. En ausencias mayores a quince días será suplido por un servidor público designado por el Titular del Poder Ejecutivo del Estado.
@@ -876,6 +900,62 @@ ARTÍCULO 50 TER 4.- El Centro estará a cargo de un Director General, mismo que
 > <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 ARTÍCULO 50 TER 5.- Las ausencias de los demás servidores públicos, serán cubiertas por los servidores públicos que designe el Director del Centro de Trasplantes y Procuración de Órganos y Tejidos de Baja California.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
+
+La equidad, la transparencia, y la eficiencia, son lineamientos que deberá tener la política en materia de donación y trasplantes, debiendo en todo momento proteger los datos personales en términos de las disposiciones aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
+
+ARTÍCULO 50 TER 6.- Los establecimientos de salud del Estado que requieran autorización sanitaria y que son los dedicados a la extracción, análisis, conservación, preparación y suministro de órganos, tejidos y células, así como los trasplantes de órganos y tejidos, deberán contar con un coordinador hospitalario de donación de órganos y tejidos para trasplantes que esté disponible de manera permanente.
+
+El coordinador hospitalario de la donación de órganos y tejidos para trasplantes de los establecimientos ya antes mencionados, deberá ser un especialista médico o general, que cuente con experiencia en la materia y esté capacitado por la Secretaría de Salud para desempeñar esa función, quien podrá auxiliarse en su caso de otros profesionales de la salud debidamente capacitados en la materia.
+
+Corresponderá a los coordinadores a los que se refiere este artículo:
+
+I. Detectar, evaluar y seleccionar a los donantes potenciales;
+
+II. Facilitar la coordinación entre los profesionales de la salud encargados de la extracción del o de los órganos y el de los médicos que realizarán el o los trasplantes;
+
+III. Coordinar la logística dentro del establecimiento de la donación y el trasplante;
+
+IV. Resguardar y mantener actualizados los archivos relacionados con su actividad;
+
+V. Fomentar al interior del establecimiento la cultura de la donación y el trasplante;
+
+VI. Representar al responsable sanitario del establecimiento en ausencia de éste, y
+
+VII. Las demás disposiciones aplicables que le atribuya.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
+
+ARTÍCULO 50 TER 7.- Los coordinadores hospitalarios de la donación de órganos y tejidos para trasplantes en turno notificarán al Ministerio Público, de manera inmediata la identificación de un donante fallecido, en los casos en que la causa de la pérdida de la vida se presuma vinculada con la comisión de un delito.
+
+Todas las autoridades involucradas, así como el personal sanitario deberán actuar con la debida diligencia y oportunidad que amerita el caso.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
+
+ARTÍCULO 50 TER 8.- Las instituciones que realicen trasplantes deberán contar con un Comité Interno de Trasplantes, cuyas atribuciones tendrá (sic) carácter interdisciplinario, teniendo las siguientes atribuciones:
+
+I.- Verificar que los trasplantes se realicen de conformidad con los requisitos que establece la Ley General de Salud, el presente Ordenamiento y las normas técnicas que emita la Secretaría de Salud del Estado de Baja California;
+
+II.- Verificar que los trasplantes se realicen con la máxima seguridad y de acuerdo a principios de ética médica;
+
+III. Hacer la selección de disponente originario y receptores para trasplante;
+
+IV. Brindar la información necesaria a los receptores, disponentes y familiares en relación a estos procedimientos terapéuticos, y
+
+V. Promover la actualización del personal que participe en la realización de trasplantes.
+
+Los Comités a que se refiere este artículo, se integrarán con personal médico especializado en materia de trasplantes y en forma interdisciplinaria, bajo la responsabilidad de la institución, y su integración deberá ser aprobada por la Secretaría.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 15 DE JUNIO DE 2012)</small>
 
@@ -967,6 +1047,8 @@ Las Autoridades Sanitarias del Estado, con la participación de las institucione
 
 #### SECCION I. DE LOS PROGRAMAS CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHOLICAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 62.
 
 Las Autoridades Educativas Estatales, en coordinación con las Autoridades Sanitarias del Estado y con la participación de las instituciones de educación superior y colegios de profesionistas de la salud, recomendarán normas y criterios para la formación de recursos humanos para la salud.
@@ -1015,7 +1097,9 @@ La promoción de la salud tiene por objeto crear, conservar y mejorar las condic
 
 La promoción de la salud comprende:
 
-I.- Educación para la salud;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
+
+I.- Educación para la salud, y prevención contra las adicciones;
 
 II.- Nutrición;
 
@@ -1191,6 +1275,10 @@ Las Autoridades Sanitarias del Estado mantendrán campañas permanentes a fin de
 
 Las Autoridades Sanitarias del Estado en sus respectivos ámbitos de competencia, realizarán actividades de prevención y control de las enfermedades no transmisibles que las propias autoridades determinen.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE SEPTIEMBRE DE 2012)</small>
+
+Se reconoce a las adicciones como una enfermedad para ser tratada institucionalmente como un problema de salud pública.
+
 ###### ARTÍCULO 90.
 
 La acción de prevención y control de las enfermedades no transmisibles comprenderá una o más de las siguientes medidas, según el caso de que se trate:
@@ -1333,7 +1421,7 @@ Las Autoridades Sanitarias del Estado tendrán entre sus objetivos, operar estab
 
 ###### ARTÍCULO 99.
 
-Las Autoridades Sanitarias del Estado, se coordinarán entre sí y con las Autoridades Federales en la ejecución de programas contra el alcoholismo y el abuso de bebidas alcohólicas; y sin perjuicio del cumplimiento de la Ley de la materia, realizarán las siguientes acciones:
+Las Autoridades Sanitarias del Estado, reconocen a las adicciones como un problema de salud pública, para lo cual, se coordinarán entre sí y con las Autoridades Federales en la ejecución de programas contra el alcoholismo y el abuso de bebidas alcohólicas; y sin perjuicio del cumplimiento de la Ley de la materia, realizarán las siguientes acciones:
 
 I.- Prevención y tratamiento del alcoholismo y en su caso, rehabilitación de los alcohólicos;
 
@@ -2448,3 +2536,23 @@ P.O. 15 DE JUNIO DE 2012.
 P.O. 22 DE JUNIO DE 2012.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE SEPTIEMBRE DE 2012.
+
+DECRETO No. 268, POR EL QUE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 7, 11, 21, 31, 36, 47, 68, 89 Y 99, TODOS DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA.
+
+ÚNICO: El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial del Estado, Órgano de difusión del Poder Ejecutivo del Estado Libre y Soberano de Baja California.
+
+P.O. 21 DE SEPTIEMBRE DE 2012.
+
+DECRETO No. 265, POR EL QUE SE APRUEBA LA REFORMA AL ARTÍCULO 50 TER; LA FRACCIÓN VI DEL ARTÍCULO 50 TER 2; SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 50 TER 3, SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 50 TER 5, SE ADICIONAN LOS ARTÍCULOS 50 TER 6, 50 TER 7 Y 50 TER 8 TODOS DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA.
+
+PRIMERO.- El presente Decreto entrará en vigor a los treinta días a partir de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Ejecutivo del Estado expedirá el Reglamento de la Ley de Salud Pública para el Estado de Baja California en materia de Trasplantes en un plazo que no excederá 90 días naturales a partir de la entrada en vigor del presente Decreto.
+
+TERCERO.- Los establecimientos a que se refiere el artículo 50 TER 6 de la Ley de Salud Pública para el Estado de Baja California y el Centro de Trasplantes y Procuración de Órganos y Tejidos, contarán con un plazo de 90 días a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones correspondientes para su cumplimiento.
+
+CUARTO.- El Centro de Trasplantes y Procuración de Órganos y Tejidos y los restablecimientos que se hacen referencia en el punto anterior, tendrán un plazo de hasta doce meses a partir de la entrada en vigor del presente Decreto, para contar con un Coordinador Hospitalario de Donación de Órganos y Tejidos para Trasplantes. Dicho plazo se determinará de conformidad con las disposiciones reglamentarias que para tal efecto emitan el ejecutivo Estatal.
+
+QUINTO.- Las acciones que, en su caso, deban efectuar las dependencias y entidades de la Administración Pública Estatal, para dar cumplimiento a lo dispuesto por el presente Decreto, deberán cubrirse en función de los ingresos disponibles conforme a la Ley de Presupuesto y Ejercicio del Gasto Público del Estado de Baja California y sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos del Estado.
