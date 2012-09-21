@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-886
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-07-23"
-last_updated: "2012-07-23"
+last_updated: "2012-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88647&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2012-07-19"
 ---
 # REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE LA REPUBLICA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE SEPTIEMBRE DE 2012 EN EL D.O.F., SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE LA REPÚBLICA
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 21 DE SEPTIEMBRE DE 2012.</small>
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el lunes 23 de julio de 2012.
 
@@ -379,8 +379,6 @@ X. Las demás que con este carácter le confieran otras disposiciones.
 
 ### CAPÍTULO TERCERO. DE LAS FACULTADES GENÉRICAS DE LOS TITULARES DE LAS UNIDADES ADMINISTRATIVAS Y ÓRGANOS DESCONCENTRADOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE SEPTIEMBRE DE 2012 EN EL D.O.F., SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 12.
 
 Son facultades genéricas de los titulares de las unidades administrativas y de los órganos desconcentrados previstos en el artículo 3 del presente Reglamento, las siguientes:
@@ -431,7 +429,9 @@ Los titulares de las unidades administrativas y órganos desconcentrados deberá
 
 XXI. Iniciar los procedimientos de separación del Servicio de Carrera del personal que le esté subordinado cuando deje de cumplir los requisitos de permanencia, mediante la queja que presenten ante el Consejo, así como determinar, cuando lo estimen conveniente, y previo acuerdo con su superior jerárquico, la suspensión del servidor público hasta en tanto el Consejo resuelva lo conducente;
 
-Las coordinaciones administrativas de las unidades administrativas y órganos desconcentrados deberán presentar las quejas ante el Consejo de Profesionalización a más tardar dentro de los 30 días siguientes a que tomen conocimiento del incumplimiento de algún requisito de ingreso o permanencia. El incumplimiento a la presente disposición será sancionado en términos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos;
+> <small>(F. DE E., D.O.F. 21 DE SEPTIEMBRE DE 2012)</small>
+
+Los titulares de las unidades administrativas y órganos desconcentrados deberán presentar las quejas ante el Consejo de Profesionalización a más tardar dentro de los 30 días siguientes a que tomen conocimiento del incumplimiento de algún requisito de ingreso o permanencia. El incumplimiento a la presente disposición será sancionado en términos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos;
 
 XXII. Registrar los asuntos a su cargo, darles seguimiento y elaborar análisis y estadísticas de los mismos, con los procedimientos y sistemas autorizados para tal efecto en la Procuraduría;
 
@@ -591,8 +591,6 @@ XXVIII. Coordinar la aplicación, calificación y valoración de los procesos de
 
 ### CAPÍTULO SEXTO. DE LOS ÓRGANOS DE VIGILANCIA Y DE CONTROL INTERNO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE SEPTIEMBRE DE 2012 EN EL D.O.F., SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 19.
 
 Al frente de la Visitaduría General habrá un Visitador General, quien tendrá las facultades siguientes:
@@ -613,7 +611,9 @@ VII. Registrar, sistematizar y administrar la información sobre el tipo y frecu
 
 VIII. Establecer y dirigir las políticas para la recepción de denuncias y querellas, así como el registro, clasificación, manejo y reserva de la información sobre las actas circunstanciadas, averiguaciones previas, procesos penales y amparos derivados de delitos cometidos por servidores públicos de la Institución, para lo cual los agentes del Ministerio Público de la Federación deberán remitir la información que se les requiera en los términos de las disposiciones aplicables;
 
-IX. Implementar las medidas necesarias para que, en coordinación con las áreas competentes, la información referida en las dos fracciones anteriores se vincule al Registro Nacional de Personal de Seguridad Pública;
+> <small>(F. DE E., D.O.F. 21 DE SEPTIEMBRE DE 2012)</small>
+
+IX. Implementar las medidas necesarias para que, en coordinación con las áreas competentes, la información referida en las tres fracciones anteriores se vincule al Registro Nacional de Personal de Seguridad Pública;
 
 X. Proponer los criterios con los cuales deberá evaluarse el desempeño de las unidades administrativas y servidores públicos de la Institución en lo que se refiere a la función ministerial, policial y pericial, y de auxiliar del Ministerio Público de la Federación, así como proporcionar a los titulares de la unidad correspondiente, la información con que cuente y que deba ser considerada en dichas evaluaciones;
 
@@ -629,19 +629,19 @@ La Visitaduría General ejercerá las atribuciones que la Ley Orgánica le otorg
 
 El incumplimiento de las directrices, instrucciones, recomendaciones, vistas, quejas, denuncias y todo tipo de requerimientos que realicen la Visitaduría General, sus direcciones generales y los visitadores, en ejercicio de las atribuciones establecidas en la Ley Orgánica y este Reglamento, serán sancionadas en términos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y demás ordenamientos aplicables.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE SEPTIEMBRE DE 2012 EN EL D.O.F., SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., D.O.F. 21 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 20.
 
-Para el ejercicio de sus atribuciones, la Visitaduría General se auxiliará de visitadores, entre otros servidores públicos, en los términos de los Acuerdos que el Procurador emita para tal efecto y lineamientos de operación, así como los requisitos que deban reunir y los mecanismos para su selección, nombramiento y promoción en las categorías que para el efecto se establezcan.
+Para el ejercicio de sus atribuciones, la Visitaduría General se auxiliará de visitadores, entre otros servidores públicos, en los términos de los Acuerdos del Procurador y los lineamientos de operación que se emitan para tal efecto, aquéllos contendrán los requisitos que deban reunir y los mecanismos para su selección, nombramiento y promoción en las categorías que para el efecto se establezcan.
 
 Los visitadores, en el ejercicio de sus facultades, tendrán libre acceso a los expedientes, documentos e información que se encuentren bajo la autoridad de los agentes del Ministerio Público de la Federación, agentes de la Policía, peritos, oficiales ministeriales y demás auxiliares del Ministerio Público de la Federación a quienes se realice una visita o cuando resulte conducente para el desarrollo de una investigación, así como, a las instalaciones correspondientes y la documentación, el equipo y los elementos que ahí se encuentren, de conformidad con la normatividad aplicable.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE SEPTIEMBRE DE 2012 EN EL D.O.F., SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., D.O.F. 21 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 21.
 
-El Titular del Órgano Interno de Control, así como los titulares de las áreas de auditoría, quejas y responsabilidades, serán designados en términos del artículo 37, fracción XII, de la Ley Orgánica de la Administración Pública Federal. Para la atención de los asuntos y la sustanciación de los procedimientos a su cargo, el Titular del Órgano Interno de Control y los de las áreas de auditoría, quejas y responsabilidades se auxiliarán del personal adscrito a dicho Órgano.
+El Titular del Órgano Interno de Control, así como los titulares de las áreas de auditoría, quejas y responsabilidades, serán designados en términos del artículo 37, fracción XII, de la Ley Orgánica de la Administración Pública Federal y ejercerán, en el ámbito de sus respectivas competencias, las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Orgánica de la Procuraduría General de la República, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, el Reglamento Interior de la Secretaría de la Función Pública y en los demás ordenamientos legales y administrativos aplicables. Para la atención de los asuntos y la sustanciación de los procedimientos a su cargo, el Titular del Órgano Interno de Control y los de las áreas de auditoría, quejas y responsabilidades se auxiliarán del personal adscrito a dicho Órgano. Con independencia de las facultades que otros ordenamientos otorgan al Órgano Interno de Control, participará en la vigilancia y verificación del inventario y de los procedimientos de control y administración de bienes asegurados por el Ministerio Público de la Federación y vigilará que los procesos de incineración de estupefacientes, psicotrópicos y sustancias nocivas o peligrosas para la salud, y bienes que por su naturaleza y origen delictivo deban ser destruidos, se lleven a cabo en términos de las disposiciones aplicables.
 
 ### CAPÍTULO SÉPTIMO. DE LA FISCALÍA ESPECIALIZADA PARA LA ATENCIÓN DE DELITOS ELECTORALES
 
@@ -813,13 +813,13 @@ I. Ejercer las atribuciones que la Constitución, el artículo 4 de la Ley Orgá
 
 II. Remitir a las Delegaciones, las indagatorias relacionadas con delitos materia de su competencia, para su prosecución, de conformidad con las normas y políticas institucionales, o cuando así lo determinen el Procurador o el Subprocurador respectivo.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE SEPTIEMBRE DE 2012 EN EL D.O.F., SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 33.
 
 Al frente de la Unidad Especializada en Investigación de Tráfico de Menores, Personas y Órganos habrá un Titular quien tendrá las facultades siguientes:
 
-I. Ejercer las atribuciones que la Constitución, el artículo 4 de la Ley Orgánica y demás disposiciones jurídicas confieren al Ministerio Público de la Federación, respecto del delito previsto en el artículo 2o. de la Ley Federal contra la Delincuencia Organizada, en relación con el delito de tráfico de menores, previsto en el artículo 366 ter del Código Penal Federal o en las disposiciones correspondientes de las legislaciones penales de las entidades federativas; tráfico de personas, previsto en el artículo 159 de la Ley de Migración, tráfico de órganos, previsto en los artículos 461, 462 y 462 bis, de la Ley General de Salud, y los delitos en materia de trata de personas previstos y sancionados en el Título Segundo de la Ley General para Combatir y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, en coordinación con las unidades administrativas y órganos desconcentrados de la Institución, sin perjuicio de las facultades de las Delegaciones para el conocimiento de tales delitos, de acuerdo con los criterios que para tal efecto emita el Procurador, y
+> <small>(F. DE E., D.O.F. 21 DE SEPTIEMBRE DE 2012)</small>
+
+I. Ejercer las atribuciones que la Constitución, el artículo 4 de la Ley Orgánica y demás disposiciones jurídicas confieren al Ministerio Público de la Federación, respecto del delito previsto en el artículo 2o. de la Ley Federal contra la Delincuencia Organizada, en relación con el delito de tráfico de menores, previsto en el artículo 366 ter del Código Penal Federal o en las disposiciones correspondientes de las legislaciones penales de las entidades federativas; tráfico de personas, previsto en el artículo 159 de la Ley de Migración, tráfico de órganos, previsto en los artículos 461, 462 y 462 bis, de la Ley General de Salud, y los delitos en materia de trata de personas previstos y sancionados en el Título Segundo de la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, en coordinación con las unidades administrativas y órganos desconcentrados de la Institución, sin perjuicio de las facultades de las Delegaciones para el conocimiento de tales delitos, de acuerdo con los criterios que para tal efecto emita el Procurador, y
 
 II. Remitir a las Delegaciones, las indagatorias relacionadas con delitos materia de su competencia, para su prosecución, de conformidad con las normas y políticas institucionales, o cuando así lo determinen el Procurador o el Subprocurador respectivo.
 
@@ -1573,8 +1573,6 @@ X. Asesorar a las unidades administrativas y órganos desconcentrados en la elab
 
 XI. Proporcionar el apoyo técnico para el diseño, implementación y administración de la página de Internet de la Procuraduría, en coordinación con las Unidades Administrativas competentes.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE SEPTIEMBRE DE 2012 EN EL D.O.F., SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 70.
 
 Al frente de la Dirección General de Control y Registro de Aseguramientos Ministeriales habrá un Director General, quien tendrá las facultades siguientes:
@@ -1585,7 +1583,9 @@ II. Representar, en coordinación con las unidades administrativas y órganos de
 
 III. Requerir a los agentes del Ministerio Público de la Federación informes sobre el aseguramiento de bienes y su situación jurídica, así como la documentación relacionada con el aseguramiento decretado y el estado de los bienes;
 
-IV. Ejercer en el ámbito de su competencia, las atribuciones que conforme a la Ley Federal para la Administración y Enajenación de los Bienes del Sector Público y demás disposiciones aplicables, le correspondan a la Procuraduría;
+> <small>(F. DE E., D.O.F. 21 DE SEPTIEMBRE DE 2012)</small>
+
+IV. Ejercer en el ámbito de su competencia, las atribuciones que conforme a la Ley Federal para la Administración y Enajenación de Bienes del Sector Público y demás disposiciones aplicables, le correspondan a la Procuraduría;
 
 V. Fungir como enlace de la Procuraduría con las autoridades competentes en materia de administración o registro de bienes asegurados y establecer los mecanismos de coordinación que correspondan;
 
@@ -2155,13 +2155,13 @@ XVII. Establecer vínculos de colaboración con las unidades administrativas y �
 
 XVIII. Apoyar en la definición de parámetros de control, evaluación y seguimiento de los avances y resultados esperados de los proyectos estratégicos de la Procuraduría.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE SEPTIEMBRE DE 2012 EN EL D.O.F., SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 91.
 
 Al frente de la Dirección General de Formación Profesional habrá un Director General, quien tendrá las facultades siguientes:
 
-I. Coordinar a las unidades administrativas, órganos desconcentrados y al Instituto Nacional de Ciencias Penales, para la gestión y el desarrollo del capital humano de la Institución;
+> <small>(F. DE E., D.O.F. 21 DE SEPTIEMBRE DE 2012)</small>
+
+I. Coordinar a las unidades administrativas y órganos desconcentrados y coordinarse con el Instituto Nacional de Ciencias Penales, para la gestión y el desarrollo del capital humano de la Institución;
 
 II. Detectar las necesidades institucionales de profesionalización, capacitación, especialización, desarrollo humano, académico y competencias del personal de la Institución, así como promover la investigación académica y realizar estudios en la materia;
 
@@ -2519,8 +2519,6 @@ II. De permanencia, y
 
 III. Extraordinarios.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE SEPTIEMBRE DE 2012 EN EL D.O.F., SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 111.
 
 Los procesos de evaluación extraordinarios se practicarán en los supuestos previstos en el artículo 53 de la Ley Orgánica, y en los casos siguientes:
@@ -2529,7 +2527,9 @@ I. Tratándose de personal hasta el nivel de enlace que aspire a ocupar un puest
 
 II. Tratándose de personal de mando medio que aspire a ocupar un puesto de mando superior;
 
-III. Tratándose de personal de la rama administrativa que aspire a ocupar un cargo de oficial secretario, agente del Ministerio Público de la Federación, agente de la Policía o perito, o de mando en la actividad sustantiva;
+> <small>(F. DE E., D.O.F. 21 DE SEPTIEMBRE DE 2012)</small>
+
+III. Tratándose de personal de la rama administrativa que aspire a ocupar un cargo de oficial ministerial, agente del Ministerio Público de la Federación, agente de la Policía o perito, o de mando en la actividad sustantiva;
 
 IV. Tratándose de los agentes del Ministerio Público de la Federación, agentes de la Policía o peritos que aspiren a ocupar un cargo de mando superior en la actividad sustantiva, conforme al artículo 91 de la Ley General del Sistema Nacional de Seguridad Pública;
 
@@ -2711,11 +2711,11 @@ Los oficiales ministeriales asistirán a los agentes del Ministerio Público de 
 
 ### CAPÍTULO DÉCIMO NOVENO. DE LA CERTIFICACIÓN
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE SEPTIEMBRE DE 2012 EN EL D.O.F., SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., D.O.F. 21 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 134.
 
-La certificación a cargo del Centro de Evaluación y Control de Confianza tendrá por objeto acreditar que la persona evaluada es apta para ingresar o permanecer en la Procuraduría y que cuenta con los conocimientos, perfil, habilidades y aptitudes necesarias para el desempeño de su cargo.
+La certificación a cargo del Centro de Evaluación y Control de Confianza tendrá por objeto acreditar que la persona evaluada es aprobada para ingresar o permanecer en la Procuraduría y que cuenta con los conocimientos, perfil, habilidades y aptitudes necesarias para el desempeño de su cargo.
 
 Los certificados correspondientes contarán con las medidas de seguridad que se acuerden en el marco del Sistema Nacional de Seguridad Pública.
 
