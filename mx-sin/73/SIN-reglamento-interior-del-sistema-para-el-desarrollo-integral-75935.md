@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-del-sistema-para-el-desarrollo-integral-759
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-07-16"
-last_updated: "2010-07-16"
+last_updated: "2012-09-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75935&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el viernes 16 de julio de 2010.
 
@@ -493,15 +493,15 @@ XVIII. Realizar las actividades de asistencia médica que para disposición lega
 
 XIX. Las demás que le señalen otros ordenamientos legales y las que le asigne el Director General.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 27.
 
 Al titular de esta unidad administrativa, se le denominará Director de Rehabilitación y Medicina Social, quien para el despacho de los asuntos de su competencia, se auxiliará de las unidades administrativas siguientes:
 
-I. Departamento de Medicina Social;
+I.- Departamento de Medicina Social;
 
-II. Departamento de integración de Personas con Discapacidad; y,
-
-III. Departamento del Módulo de Recuperación Nutricional Intensiva.
+II.- Departamento de Integración de Personas con Discapacidad.
 
 ###### Artículo 28.
 
@@ -587,19 +587,23 @@ XVIII. Promover las campanas de regularización del Estado Civil de las personas
 
 XIX. Las demás que le señalan otros ordenamientos legales y las que le asigne el Director General.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 21 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 31.
 
-Al Titular de esta unidad administrativa, se le denominará Procurador de la Defensa del Menor, la Mujer y la Familia, quien para el despacho de los asuntos de su competencia, se auxiliará de las unidades administrativas siguientes:
+Al Titular de esta unidad administrativa, se le denominará Procurador de la Defensa del Menor, la Mujer y la Familia quien para el despacho de los asuntos de su competencia, se auxiliará de las unidades administrativas siguientes.
 
-I. Departamento del Subprocurador del Menor, la Mujer y la Familia;
+I.- Departamento del Subprocurador del Menor, la Mujer y la Familia,
 
-II. Departamento de Coordinador del Programa de Atención de Menores en Situación de Riesgo (PAMAR);
+II.- Departamento de Coordinador del Programa de Atención de Menores en Situación de Riesgo (PAMAR)
 
-III. Departamento de la Casa Cuna;
+III.- Departamento de la Casa Cuna
 
-IV. Departamento de la Comunidad Terapéutica para Mujeres; y,
+IV.- Departamento de la Comunidad Terapéutica para Mujeres;
 
-V. Departamento del Centro de Reinserción Social para Enfermos Mentales sin Hogar “Madre Teresa de Calcuta”.
+V.- Departamento del Centro de Reinserción Social para Enfermos Mentales sin Hogar "Madre Teresa de Calcuta"; y,.
+
+VI.- Departamento del Modulo de Recuperación Nutricional Intensiva.
 
 #### Sección V. De la Dirección de Asistencia y Participación Social
 
@@ -812,3 +816,9 @@ Atentamente
 Dr. Rafael Castro Velázquez
 
 Director General del Sistema para el Desarrollo Integral de la Familia del Estado de Sinaloa
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE SEPTIEMBRE DE 2012.
+
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO SINALOA.
