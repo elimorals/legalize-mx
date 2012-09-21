@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-establece-las-bases-minimas-para-el-control-de-la-2714"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-24"
-last_updated: "1993-12-24"
+last_updated: "2012-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2714&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # LEY QUE ESTABLECE LAS BASES MINIMAS PARA EL CONTROL DE LA EXPLOTACION DE APARATOS MECANICOS, ELECTRONICOS, ELECTROMECANICOS Y MUSICALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-LEY QUE ESTABLECE LAS BASES MINIMAS PARA EL CONTROL DE LA EXPLOTACION DE APARATOS MECANICOS, ELECTRONICOS, ELECTROMECANICOS Y MUSICALES PARA EL ESTADO DE BAJA CALIFORNIA
+LEY QUE ESTABLECE LAS BASES MÍNIMAS PARA EL CONTROL DE LA EXPLOTACIÓN DE APARATOS MECÁNICOS, ELECTRÓNICOS, ELECTROMECÁNICOS Y MUSICALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 24 de diciembre de 1993.
 
@@ -77,7 +77,93 @@ Los permisos y las revalidaciones que amparen la explotación de cada aparato po
 
 La explotación de aparatos Mecánicos, Electrónicos y Electromecánicos y musicales, se hará única y exclusivamente en los sitios destinados al efecto conforme al Reglamento Municipal correspondiente.
 
-En ningún caso se otorgaran permisos para la explotación de los aparatos Mecánicos, Electrónicos y Electromecánicos o musicales a que se refiere esta Ley, en locales cuya distancia de los centros educativos, bibliotecas públicas y establecimientos públicos o privados que otorguen servicios para la preservación de la salud, sea menor de 150 metros.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
+
+Los establecimientos mercantiles en los que se preste el servicio para la explotación de los aparatos Mecánicos, Electrónicos y Electromecánicos o musicales a que se refiere esta Ley, funcionarán sujetándose a las siguientes disposiciones:
+
+I.- La distancia de los locales no debe ser menor de 150 metros de distancia de los centros educativos, bibliotecas públicas y establecimientos públicos o privados que otorguen servicios para la preservación de la salud;
+
+II. Mantener perfectamente iluminadas las áreas donde estén instalados los juegos, evitando la utilización de sistemas de iluminación opaca u obscura que pudieran generar trastornos en la salud de los usuarios;
+
+III. Revisar que los juegos se utilicen de acuerdo a la clasificación por edades;
+
+IV. Vigilar que la distancia entre los equipos de videojuegos garantice en todo momento el servicio, la operación y seguridad del usuario, de conformidad con el Reglamento de esta Ley;
+
+V. Tener agrupados los juegos en áreas específicas, de acuerdo a las edades para los que son aptos; y
+
+VI. Colocar dentro del local, visible al público, el documento que acredite que los videojuegos que se operan están inscritos en el Registro a que se refiere el artículo 7 Quater de esta Ley.
+
+Está prohibido operar en establecimientos mercantiles todos aquellos videojuegos y sistemas diseñados para uso doméstico o particular y operar en los establecimientos mercantiles sistemas de iluminación, de audio y video cuya intensidad o volumen provoque alteración, distracción o confusión de los usuarios.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2012
+
+###### Artículo 7 Bis.
+
+Los videojuegos que se instalen en espacios públicos y que encuadren en el artículo primero de esta Ley, deberán contar con una clasificación que los identifique en grupos de la siguiente forma: Tipo A, B, C, y D. Cada videojuego deberá tener visiblemente la letra que le corresponda, la que deberá ser de por lo menos 15 centímetros de alto y de ancho y de un color determinado.
+
+Colocar dentro del local, visible al público, un anuncio de por lo menos un metro cuadrado y con letra de 10 centímetros de alto y de ancho, en el que se especifiquen los tipos y clasificación de los juegos, conforme a lo siguiente:
+
+Tipo A.- Inofensivo, para todas las edades,
+
+Tipo B.- Poco agresivo, para uso de mayores de 13 años,
+
+Tipo C.- Agresivo, para uso de mayores de 15 años, y
+
+Tipo D.- Altamente Agresivo, para uso de 18 años y mayores.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 7 Ter.
+
+La clasificación de videojuegos a que se refiere el artículo anterior, será la siguiente:
+
+I. Se consideran tipo "A", Inofensivo:
+
+a) Los deportes, excepto el box, luchas y todos aquellos cuyo principal objetivo es golpearse, derribarse o herirse físicamente;
+
+b) Las carreras de automóviles, motocicletas o cualquier vehículo, siempre y cuando no se muestren gráficas con sangre;
+
+c) Aquellos videojuegos que muestren seres ficticios que tengan que ir alcanzando objetivos en un ambiente de fantasía sin matar de manera gráfica a otros seres.
+
+II. Se considera tipo "B", Poco Agresivo:
+
+a) Aquellos que muestren seres animados que no sean humanos y que no presenten peleas, golpes, ni derramamiento de sangre o líquido que haga creer que se trata de sangre, aun cuando no sea roja; y
+
+b) Los que presenten persecuciones espaciales, terrestres, aéreas o marítimas con o sin derribamiento de objetivos sin vida, o que tengan vida pero que de ninguna forma representen un ser humano.
+
+III. Se consideran tipo "C", Agresivo:
+
+a) Aquellos deportes excluidos del tipo "A";
+
+b) Aquellos en donde presenten seres animados, incluido humanos que tengan que derribarse, luchar o eliminar al contrincante utilizando la fuerza física y/o armas, pero siempre y cuando no haya imágenes o gráficas donde se muestren cuerpos desmembrados, mutilados, o derramamiento de sangre; y
+
+c) Aquellos juegos interactivos y simuladores que no excedan estos criterios de clasificación en cuanto a su contenido.
+
+IV. Se consideran tipo "D", Altamente Agresivos:
+
+a) Aquellos en los que hay peleas, competencias o persecuciones con el uso de armas, violencia y derramamiento de sangre e incluso mutilaciones o desmembramientos; y
+
+b) Aquellos juegos interactivos y simuladores que sean excluidos del tipo "C".
+
+En ninguna de las clasificaciones antes señaladas, se podrán mostrar imágenes de actos sexuales, desnudos y/o pornográficos ni juegos que denigren o discriminen a la mujer, a las personas con algún tipo de discapacidad, a los indígenas y a las personas con una orientación sexual distinta.
+
+Cualquier juego de video que no cumpla con estos criterios de clasificación estará prohibido para operar. En el caso de que algún videojuego pudiera encuadrar en dos tipos o existiera confusión respecto a que clasificación le corresponde, se optará siempre por la letra que alfabéticamente vaya después.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 7 Quater.
+
+Sólo se pondrán a disposición del público los videojuegos que se encuentren inscritos en el Registro de Videojuegos, que estará a cargo de la Secretaría de Gobierno de los Ayuntamientos del Estado, para cuya integración se tomará en cuenta la opinión de los sectores sociales y privados.
+
+Cualquier videojuego que no se encuentre inscrito en el Registro señalado en el párrafo que antecede, estará prohibido para operar.
 
 ###### ARTICULO 8.
 
@@ -138,3 +224,11 @@ LIC. ERNESTO RUFFO APPEL.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 C.P. FORTUNATO ALVAREZ ENRIQUEZ.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE SEPTIEMBRE DE 2012.
+
+PRIMERO.- Las presentes reformas entrarán en vigor a los sesenta días de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- A partir del día siguiente de su publicación, los Ayuntamientos del Estado contarán con sesenta días para la adecuación del Reglamento Municipal respectivo, así como para la creación del Registro Municipal de Videojuegos, que dependerá de la Secretaría de Gobierno de los Ayuntamientos en el Estado.
