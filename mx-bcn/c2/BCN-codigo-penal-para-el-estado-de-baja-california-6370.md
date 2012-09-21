@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2012-04-20"
+last_updated: "2012-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2012.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1103,6 +1103,8 @@ Impedimento legal para correr los plazos.- No correrán los plazos para la presc
 
 ### CAPITULO XI. PRESCRIPCION DE LA POTESTAD DE EJECUTAR LAS PENAS Y MEDIDAS DE SEGURIDAD
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 113.
 
 Plazos de la prescripción de la pretensión punitiva.- Los plazos de la prescripción de la pretensión punitiva serán continuos y se contarán:
@@ -1169,9 +1171,9 @@ Lo prevenido en los párrafos anteriores de este artículo no comprende el caso 
 
 ###### Artículo 119.
 
-Plazos para la prescripción.- Los plazos para la prescripción de la potestad para ejecutar las penas y medidas de seguridad, serán continuos y correrán desde el día siguiente a aquél en que el sentenciado se substraiga a la acción de la justicia, si las penas o medidas de seguridad fueren privativas o restrictivas de la libertad, y si no lo son desde la fecha de la sentencia ejecutoria.
+Plazos para la prescripción.- Los plazos para la prescripción de la potestad para ejecutar las penas y medidas de seguridad, serán continuos y correrán desde el día siguiente a aquél en que el sentenciado se substraiga a la acción de la justicia, si las penas o medidas de seguridad fueren privativas o restrictivas de la libertad, y si no lo son desde la fecha de la sentencia ejecutoria o del momento en que expresamente lo disponga la Ley.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 120.
 
@@ -1179,7 +1181,7 @@ Prescripción de la facultad para ejecutar las penas y las medidas de seguridad.
 
 Cuando se hubiese cumplido parte de la pena privativa de la libertad, se necesitará para la prescripción el mismo tiempo que falte para el cumplimiento de la pena, que no será menor a tres años. La prescripción de la pena de prisión correrá desde que el condenado se evada.
 
-La multa prescribirá en un año y la reparación del daño en cinco, a partir de que se declare ejecutoriada la sentencia. Las demás penas que no tengan temporalidad prescribirán en dos años, a partir de la sentencia firme.
+La multa prescribirá en un año y la reparación del daño en diez, a partir de que se declare ejecutoriada la sentencia. Las demás penas que no tengan temporalidad prescribirán en dos años, a partir de la sentencia firme.
 
 La suspensión de derechos y cualquier otra pena o medida de seguridad determinadas en función de tiempo, prescribirá en el plazo señalado en la sentencia, a partir de que el individuo recupere su libertad por cualquier causa legal. Cuando no vaya acompañada de la pena de prisión, la prescripción se contará a partir de la sentencia ejecutoriada.
 
@@ -2307,7 +2309,7 @@ Abigeato por querella.- Es aplicable al delito de abigeato lo dispuesto en el ar
 
 ### CAPITULO I. INCUMPLIMIENTO DE LAS OBLIGACIONES DE ASISTENCIA FAMILIAR
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 214.
 
@@ -2667,15 +2669,15 @@ b) Metales fundidos o que hayan sido alterados de su forma comercial, sin que la
 
 ###### Artículo 235.
 
-Tipo y Punibilidad.- Al que injustificadamente no proporcione los alimentos a las personas con las que tenga ese deber legal, se le impondrá prisión de tres meses a cuatro años y de diez a cincuenta días multa, así como suspensión o privación de los derechos de familia, en relación con la víctima o el ofendido. Los concubinos quedan comprendidos en las disposiciones de este párrafo.
+Tipo y Punibilidad.- Al que injustificadamente no proporcione los alimentos a las personas con las que tenga ese deber legal, se le impondrá prisión de dos a cinco años y de veinte a sesenta días multa, así como suspensión o privación de los derechos de familia, en relación con la víctima o el ofendido. Los concubinos quedan comprendidos en las disposiciones de este párrafo.
 
 > <small>(ADICIONADO, P.O. 19 DE MAYO DE 2006)</small>
 
 Igual pena se impondrá a las personas que no proporcionen atención geriátrica a los adultos mayores de sesenta años con las que tengan ese deber legal, en relación con el artículo 301 del Código Civil para el Estado de Baja California.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
 
-El delito se perseguirá por querella del ofendido o de su legítimo representante y, a falta de éste, el Ministerio Público procederá de oficio, a reserva de que se promueva la designación de un tutor especial.
+El delito se perseguirá por querella de la parte ofendida o de su legítimo representante y, a falta de éste, el Ministerio Público procederá de oficio, a reserva de que se promueva la designación de un tutor especial.
 
 > <small>(REFORMADO, P.O. 15 DE JULIO DE 2011)</small>
 
@@ -2685,13 +2687,13 @@ No se impondrá pena alguna o se dejará de aplicar la impuesta, cuando el oblig
 
 Se tendrá por consumado el delito previsto en este artículo, con independencia de si el o los acreedores alimentarios con motivo del incumplimiento del deudor alimentista, obtiene por cualquier medio sus alimentos, los reciben de un tercero o se ven obligados a allegarse de recursos para satisfacer sus requerimientos indispensables, independientemente de que exista o no una determinación o sanción judicial de un juez civil.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 236.
 
-Insolvencia dolosa para cumplir las obligaciones alimentarias.- Al que dolosamente se coloque en estado de insolvencia, con el objeto de eludir el cumplimiento de las obligaciones alimentarias que la Ley determina, se le impondrá prisión de seis meses a cuatro años. El juez resolverá sobre la aplicación del producto del trabajo que realice el agente, a la satisfacción de las obligaciones alimentarias de éste.
+Insolvencia dolosa para cumplir las obligaciones alimentarias.- Al que dolosamente se coloque en estado de insolvencia, con el objeto de eludir el cumplimiento de las obligaciones alimentarias que la Ley determina, se le impondrá prisión de dos a siete años. El juez resolverá sobre la aplicación del producto del trabajo que realice el agente, a la satisfacción de las obligaciones alimentarias de éste.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE NOVIEMBRE DE 2009)</small>
+Durante la investigación de este delito y al rendir su declaración el inculpado será apercibido por el Ministerio Público para que se abstenga de realizar cualquier conducta que pudiere causar daño a los pasivos.
 
 El delito previsto en este artículo se perseguirá por querella de parte ofendida.
 
@@ -2759,7 +2761,7 @@ Artículo 238 BIS.- Agravación de la punibilidad.- La pena señalada en El art�
 
 ### CAPITULO IV. DELITOS CONTRA EL CONSUMO Y LA RIQUEZA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 239.
 
@@ -2915,13 +2917,15 @@ PORNOGRAFIA Y TURISMO SEXUAL DE PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD O DE
 
 > <small>(REFORMADO Y REUBICADO, P.O. 11 DE MAYO DE 2007)</small>
 
-###### Artículo 250.
+###### ARTÍCULO 250.
 
-Tipo y punibilidad.- Se sancionará con prisión hasta de seis meses a nueve años y de doscientos a quinientos días multa, a los comerciantes o industriales que por cualquier medio alteren las mercancías o productos o reduzcan las propiedades que debieran tener. Si a consecuencia de la alteración resultaren cometidos lesiones u homicidio, se aplicarán, además las penas que por estos delitos correspondan.
+Tipo y punibilidad.- Se sancionará con prisión de seis meses hasta 9 años y de doscientos a quinientos días multa, a los comerciantes o industriales que por cualquier medio alteren las mercancías o productos o reduzcan las propiedades que deberían tener. Si a consecuencia de la alteración resultaren cometidos lesiones u homicidio, se aplicarán, además las penas que por estos delitos correspondan.
+
+Así mismo se sancionará con prisión de seis meses hasta 9 años y de doscientos a quinientos días multa, a los comerciantes o industriales que aprovechándose de una situación de emergencia o desastre provocados por factores geológicos, hidrometereológicos, químicos, sanitarios y socio-organizativos alteren para su beneficio personal de manera dolosa y sin justificación el precio de las mercancías o productos tales como alimentos, agua y medicamentos.
 
 El Juez podrá ordenar, además, la suspensión hasta por un año o la disolución de la empresa de la que el delincuente sea miembro o representante, si concurren las demás circunstancias mencionadas en el artículo 19 de este Código.
 
-Lo dispuesto en este artículo se observará sin perjuicio de las medidas y sanciones que pueda tomar o imponer la autoridad administrativa en virtud de Leyes especiales y de que en los términos del artículo 247 de este Código se sancione a los productores o comerciantes cuando dos o más de ellos acuerden la realización de los actores antes mencionados.
+Lo dispuesto en este artículo se observará sin perjuicio de las medidas y sanciones que pueda tomar o imponer la autoridad administrativa en virtud de Leyes especiales y de que en los términos del artículo 247 de este Código sancione a los productores o comerciantes cuando dos o más de ellos acuerden la realización de los actores antes mencionados.
 
 > <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
@@ -4826,3 +4830,21 @@ Las presentes reformas entrarán en vigor al día siguiente de su publicación e
 P.O. 20 DE ABRIL DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE SEPTIEMBRE DE 2012.
+
+DECRETO No. 269, POR EL QUE SE APRUEBA LA REFORMA AL ARTICULO 250 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA.
+
+Único.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE SEPTIEMBRE DE 2012.
+
+DECRETO No. 274, POR EL QUE SE APRUEBA LA REFORMA A LOS ARTÍCULOS 235 Y 236 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE SEPTIEMBRE DE 2012.
+
+DECRETO No. 275, POR EL QUE SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 119 Y 120 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA.
+
+ÚNICO.- El presente Decreto iniciará su vigencia el día siguiente al de su Publicación en el Periódico Oficial del Estado de Baja California.
