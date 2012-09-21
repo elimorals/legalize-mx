@@ -4,7 +4,7 @@ identifier: "CMX-presupuesto-de-egresos-del-distrito-federal-para-el-84258"
 country: "mx"
 rank: "presupuesto"
 publication_date: "2011-12-30"
-last_updated: "2011-12-30"
+last_updated: "2012-09-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84258&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-12-28"
 
 PRESUPUESTO DE EGRESOS DEL DISTRITO FEDERAL PARA EL EJERCICIO FISCAL 2012
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 21 DE SEPTIEMBRE DE 2012.
 
 Presupuesto publicado en la Gaceta Oficial del Distrito Federal, el viernes 30 de diciembre de 2011.
 
@@ -1070,7 +1070,9 @@ Artículo Décimo Tercero.- En el presupuesto asignado a la Secretaría de Salud
 
 Artículo Décimo Cuarto.- En el presupuesto asignado a la Delegación Gustavo A. Madero, se considera una previsión de 8.8 millones de pesos para la elaboración de proyectos de Obra Pública en la demarcación territorial.
 
-Artículo Décimo Quinto.- En el transcurso del ejercicio fiscal del presente año, conforme se obtengan ingresos adicionales en términos de lo previsto por el artículo 19 de la Ley de Presupuesto y Gasto Eficiente, se asignarán prioritariamente a los presupuestos de la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal, hasta por el monto correspondiente a la diferencia entre el monto considerado en este Decreto y el correspondiente aprobado por el Pleno de esta H. Asamblea para el Ejercicio 2012.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE SEPTIEMBRE DE 2012)</small>
+
+Artículo Décimo Quinto.- En el transcurso del ejercicio fiscal del presente año, conforme se obtengan ingresos adicionales en términos de lo previsto por el artículo 19 de la Ley de Presupuesto y Gasto Eficiente, se asignarán prioritariamente a los presupuestos de los programas de vivienda del Instituto de Vivienda del Distrito Federal, al presupuesto de la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal, y al presupuesto de los Centros de Salud de los Servicios de Salud Pública del Distrito Federal, hasta por el monto correspondiente a la diferencia entre el monto considerado en este Decreto y el correspondiente aprobado por el Pleno de esta H. Asamblea para el ejercicio 2012.
 
 Asimismo, la Secretaría llevará a cabo reuniones de conciliación con la Universidad Autónoma de la Ciudad de México con el fin de identificar y cubrir en la medida de las posibilidades presupuestarias, los recursos suficientes para cubrir sus necesidades de operación e inversión, hasta por el monto solicitado por la misma, en términos del artículo 5° de la Ley de Presupuesto y Gasto Eficiente.
 
@@ -1083,3 +1085,11 @@ Artículo Décimo Séptimo.- En términos de la Ley de Presupuesto y Gasto Efici
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veinte días del mes de diciembre del año dos mil once.- POR LA MESA DIRECTIVA.- DIP. ALEJANDRO CARBAJAL GONZÁLEZ, PRESIDENTE.- DIP. GUILLERMO OROZCO LORETO, SECRETARIO.- DIP. GUILLERMO OCTAVIO HUERTA LING, SECRETARIO.- FIRMAS.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veintiocho días del mes de diciembre del año dos mil once.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.-EL SECRETARIO DE FINANZAS.- ARMANDO LÓPEZ CÁRDENAS.- FIRMA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 21 DE SEPTIEMBRE DE 2012.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente decreto entrará en vigor al siguiente día de su publicación.
