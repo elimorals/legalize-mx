@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-participacion-ciudadana-del-estado-de-baja-california-20
 country: "mx"
 rank: "ley"
 publication_date: "2001-02-16"
-last_updated: "2011-08-05"
+last_updated: "2012-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20157&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # LEY DE PARTICIPACION CIUDADANA DEL ESTADO DE BAJA CALIFORNIA
 
-LEY DE PARTICIPACION CIUDADANA DEL ESTADO DE BAJA CALIFORNIA
+LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 16 de febrero de 2001.
 
@@ -51,9 +51,17 @@ Los instrumentos de participación ciudadana son:
 
 I.- Plebiscito;
 
-II.- Referéndum, y
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
 
-III.- Iniciativa Ciudadana.
+II.- Referéndum;
+
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
+
+III.- Iniciativa Ciudadana, y
+
+> <small>(REFORMADA [N. DE ADICIONADA], P.O. 21 DE SEPTIEMBRE DE 2012)</small>
+
+IV.- Consulta Popular.
 
 Los principios rectores de la participación ciudadana son la libertad, la democracia, la corresponsabilidad, la solidaridad, el bien general, la subsidiariedad, la legalidad, la sustentabilidad y la equidad.
 
@@ -205,7 +213,7 @@ III.- Los Ayuntamientos, y
 
 IV.- Los ciudadanos vecinos en el Estado que representen cuando menos el 0.5% de los electores de la Lista Nominal, o en su caso, la correspondiente al municipio respectivo, cuando los efectos del acto se circunscriban sólo a uno de estos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 15.
 
@@ -221,7 +229,7 @@ A fin de contar con mayores elementos de juicio al momento de calificar la proce
 
 El Consejo General deberá incluir y aprobar dentro del Proyecto de Presupuesto de Egresos del Instituto, una partida destinada a la realización de los procesos de plebiscito y referéndum, para su inclusión en el Proyecto de Presupuesto de Egresos del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 16.
 
@@ -261,7 +269,7 @@ IV.- Los actos en materia de expropiación o de limitación a la propiedad parti
 
 V.- Los demás actos cuya realización sea obligatoria en los términos de las leyes aplicables y reglamentos respectivos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 19.
 
@@ -429,7 +437,7 @@ VI.- Nombre y firma de la autoridad promovente, o en su caso, de quien tenga su 
 
 La solicitud de referéndum legislativo deberá cumplir con los mismos requisitos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 32.
 
@@ -479,7 +487,7 @@ El Consejo General resolverá en un plazo no mayor de cinco días hábiles sigui
 
 A cada proceso de referéndum precederá una convocatoria que se deberá expedir y difundir cuando menos sesenta días hábiles antes de la fecha de la votación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 38.
 
@@ -533,7 +541,7 @@ El referéndum constitucional sólo podrá aprobarse o rechazarse, cuando así l
 
 El referéndum legislativo sólo podrá ser rechazado o aprobado por la mayoría de votos de los electores, siempre y cuando hayan participado en el proceso cuando menos el diez por ciento de los ciudadanos de los que votaron de acuerdo al Listado Nominal utilizado para la elección de diputados inmediata anterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 43.
 
@@ -545,7 +553,7 @@ Los resultados del referéndum tendrán carácter vinculatorio en los términos 
 
 #### SECCIÓN PRIMERA. DE LA PROCEDENCIA O IMPROCEDENCIA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 44.
 
@@ -559,7 +567,7 @@ II.- La norma o normas que se propone someter a referéndum.
 
 La Comisión de Participación Ciudadana y Educación Cívica del Consejo General, podrá auxiliarse para la elaboración de su dictamen de los órganos de gobierno, instituciones de educación superior, organizaciones no gubernamentales, u organismos ciudadanizados relacionados con la materia de que se trate.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 45.
 
@@ -613,7 +621,7 @@ En el caso de la solicitud de plebiscito o referéndum presentadas por ciudadano
 
 El plazo anterior iniciará a partir del día siguiente de la notificación que se haga a los solicitantes por parte del Instituto.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 50.
 
@@ -655,7 +663,7 @@ IV.- Declaración de los efectos: comprende desde los resultados y concluye con 
 
 Los representantes de los partidos políticos registrados o acreditados ante el Consejo General, podrán participar en la vigilancia de la organización y desarrollo de los procesos a los que se refiere este artículo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE AGOSTO DE 2011)</small>
 
 #### SECCIÓN TERCERA. DE LAS MESAS DIRECTIVAS DE CASILLA Y CENTROS DE VOTACIÓN
 
@@ -703,7 +711,7 @@ La instrumentación de la tecnología sólo podrá ser autorizada siempre y cuan
 
 Tratándose de plebiscito o referéndum de circunscripción estatal, la urna electrónica podrá contemplarse para la totalidad de los municipios, o uno o varios de ellos; implementándose en este caso el sistema de Mesas Directivas de Casillas, para los demás.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 59.
 
@@ -761,7 +769,7 @@ La calificación de la validez del proceso de plebiscito y de referéndum, la re
 
 Una vez efectuado el cómputo correspondiente, el Consejo General dará el resultado final de la votación en los procesos de plebiscito o de referéndum.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 65.
 
@@ -843,11 +851,73 @@ En caso de que la Comisión no resuelva dentro del plazo anterior, se considerar
 
 La Iniciativa Ciudadana que sea desechada, sólo se podrá presentar hasta el siguiente período de sesiones del Congreso del Estado.
 
-### CAPÍTULO PRIMERO. DE LA REGLAMENTACIÓN MUNICIPAL
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
+
+### CAPÍTULO QUINTO. DE LA CONSULTA POPULAR
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 73 Bis.
+
+La consulta Popular es el instrumento a través del cual el Ejecutivo del Estado, el Congreso y los ciudadanos inscritos en la lista nominal de electores de la entidad, someten a consideración de la ciudadanía por medio de preguntas directas temas de amplio interés en el Estado.
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 73 Bis 1.
+
+Corresponde al Congreso del Estado, acordar la celebración de la Consulta Popular, que será dirigida a las y los Ciudadanos del Estado, y podrá ser solicitada por:
+
+I.- El Poder Ejecutivo.
+
+II.- El Congreso del Estado a solicitud de cuando menos las dos terceras partes de sus integrantes.
+
+III.- El dos por ciento de los ciudadanos inscritos en la lista nominal de electores.
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 73 Bis 2.
+
+Cuando la participación ciudadana corresponda al menos al veinte por ciento de los ciudadanos inscritos en la lista nominal de electores el resultado será vinculatorio para los Poderes del Estado y demás autoridades competentes.
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 73 Bis 3.
+
+El Instituto tendrá a su cargo la organización, desarrollo, cómputo y declaración de resultados de la Consulta Popular. Asimismo, tratándose de la solicitud ciudadana, verificará que se acompañe de las firmas correspondientes, a solicitud del Congreso, realizando la certificación respectiva.
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 73 Bis 4.
+
+La Consulta Popular, Plebiscito y Referéndum, que se celebren en años electorales, deberán realizarse el mismo día de la jornada electoral para la celebración de elecciones ordinarias en el Estado.
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 73 Bis 5.
+
+La convocatoria deberá expedirse por el Instituto por lo menos 30 días naturales antes de la fecha de su realización y colocarse en los lugares de mayor afluencia de ciudadanos, estableciendo lugar, fecha y modo de realización de la misma.
+
+Cuando la Consulta Popular se celebre en año electoral, el plazo para la emisión de la convocatoria a que se refiere el párrafo anterior, será de por lo menos 60 días naturales.
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 73 Bis 6.
+
+Los resultados de la Consulta Popular se difundirán, en un plazo no mayor de 10 días naturales contados a partir de su celebración.
+
+Cuando la Consulta Popular se celebre en año electoral, el plazo a que se refiere el párrafo anterior será no mayor a 30 días naturales.
+
+La autoridad que corresponda deberá informar, a más tardar en 30 días hábiles de publicados sus resultados, acerca del modo en que se aplicará lo resuelto en la Consulta Popular. Lo anterior deberá hacerse por medio del Periódico Oficial del Estado, los diarios de mayor circulación de la Entidad, los medios masivos de comunicación, los medios electrónicos oficiales de la autoridad convocante, u otros mecanismos alternativos de comunicación.
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 73 Bis 7.
+
+No podrán ser objeto de Consulta Popular la materia electoral; los ingresos, egresos o el régimen interno y de organización de la administración pública del Estado; la seguridad pública; los actos de expropiación o limitación a la propiedad particular; y los demás cuya realización sea obligatoria en los términos de la Ley.
 
 ## TÍTULO TERCERO. DE LAS BASES GENERALES DE LA PARTICIPACION CIUDADANA Y VECINAL EN EL AMBITO MUNICIPAL
 
-### CAPÍTULO SEGUNDO. DE LOS INSTRUMENTOS MUNICIPALES DE PARTICIPACIÓN CIUDADANA Y VECINAL
+### CAPÍTULO PRIMERO. DE LA REGLAMENTACIÓN MUNICIPAL
 
 ###### Artículo 74.
 
@@ -860,6 +930,8 @@ Los ayuntamientos deberán observar en sus reglamentos de participación ciudada
 ###### Artículo 76.
 
 Para la realización de los procesos municipales de participación ciudadana y vecinal, el Instituto participará en los términos de esta Ley de acuerdo a los convenios que celebre con los ayuntamientos.
+
+### CAPÍTULO SEGUNDO. DE LOS INSTRUMENTOS MUNICIPALES DE PARTICIPACIÓN CIUDADANA Y VECINAL
 
 ###### Artículo 77.
 
@@ -923,10 +995,16 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 C.P. JORGE RAMOS.
 
-N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.
+N. DE E.: A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
 
 P.O. 5 DE AGOSTO DE 2011.
 
 Primero.- Las presentes reformas entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- El Consejo General del Instituto Electoral y de Participación Ciudadana tendrá un plazo de 90 días contados a partir de la publicación de las presentes reformas a fin de adecuar sus Reglamentos conforme a las mismas.
+
+P.O. 21 DE SEPTIEMBRE DE 2012.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Consejo General del Instituto Electoral y de Participación Ciudadana deberá adecuar sus disposiciones reglamentarias a más tardar en 60 días de la entrada en vigor de la presente reforma.
