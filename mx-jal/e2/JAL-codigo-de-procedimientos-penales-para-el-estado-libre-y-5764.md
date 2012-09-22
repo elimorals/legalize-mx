@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-penales-para-el-estado-libre-y-5764"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-12-07"
-last_updated: "2012-09-01"
+last_updated: "2012-09-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el martes 7 de diciembre de 1982.
 
@@ -771,39 +771,75 @@ IV. En todo caso se mantendrán separados los hombres y las mujeres en los lugar
 
 En caso en que la víctima del delito sea menor de edad y el agresor sea quien lo tiene en custodia el Agente del Ministerio Público encargado deberá ordenar la cesación de la convivencia del menor con sus familiares, aún de sus padres, cuando con dicha convivencia se ponga en peligro la seguridad o integridad del menor, debiendo ordenar el resguardo del menor en una institución autorizada poniéndolo a disposición del Consejo Estatal de la Familia o del Hogar Cabañas en su caso.
 
-> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
 
-###### Art. 93 Bis.
+###### Art. 93
 
-Tratándose de delitos de violencia contra las mujeres o violencia intrafamiliar, el Ministerio Público otorgará, tomando en consideración el riesgo o peligro existente, la seguridad de la víctima y los elementos con que se cuente, órdenes de protección de emergencia las cuales tendrán una temporalidad no mayor de 72 horas pudiendo prorrogarse por 72 horas más y deberán expedirse dentro de las 12 horas siguientes al conocimiento de los hechos que las generan.
+Bis. Tratándose de delitos de violencia contra las mujeres, violencia intrafamiliar, el Ministerio Público otorgará, tomando en consideración el riesgo o peligro existente, la seguridad de la víctima y los elementos con que se cuente, órdenes de protección de emergencia, las cuales tendrán una temporalidad no menor de un mes, pudiendo prorrogarse hasta tres meses y deberán expedirse dentro de las doce horas siguientes al conocimiento de los hechos que las generan.
 
-Las órdenes de protección de emergencia consistirán en:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
+
+A. Las órdenes de protección de emergencia consistirán en:
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2008)</small>
 
 I. Desocupación por el agresor del domicilio conyugal o donde habite la víctima, independientemente de la acreditación de propiedad o posesión del inmueble;
 
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2008)</small>
+
 II. Prohibición al probable responsable de acercarse al domicilio, lugar de trabajo, de estudios, del domicilio de las y los ascendientes y descendientes o cualquier otro que frecuente a la víctima;
 
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2008)</small>
+
 III. Reingreso de la víctima al domicilio, una vez que se salvaguarde su seguridad, y
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2008)</small>
 
 IV. Prohibición de intimidar o molestar a la víctima en su entorno social, así como a cualquier integrante de la familia.
 
 En los municipios en donde no exista agencia del Ministerio Público, el en caso de violencia contra las mujeres, el síndico municipal deberá otorgar estas órdenes de protección de emergencia e, inmediatamente después de emitida, remitir copia de la misma a la agencia del Ministerio Público más cercana.
 
-Las órdenes de protección preventivas consistirán en:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
+
+B. Las órdenes de protección preventivas consistirán en:
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2008)</small>
 
 I. Retención y guarda de armas de fuego propiedad del agresor o de alguna institución pública y privada de seguridad, independientemente si las mismas se encuentran registradas conforme a la normatividad respectiva;
 
 Las mismas disposiciones del párrafo anterior deberán aplicarse a las armas blancas u objetos que independientemente de su uso, hayan sido empleadas para amenazar o lesionar a la víctima;
 
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2008)</small>
+
 II. Inventario de los bienes muebles o inmuebles de propiedad común, incluyendo los implementos de trabajo de la víctima;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2008)</small>
 
 III. Uso y goce de bienes muebles que se encuentren en el inmueble que sirva de domicilio de la víctima;
 
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2008)</small>
+
 IV. Acceso al domicilio común de autoridades policíacas o de personas que auxilien a la víctima a tomar sus pertenencias, objetos de uso personal, así como documentos de identidad de la víctima, las de sus hijas, hijos o quienes se encuentren bajo su tutela, protección o cuidado;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2008)</small>
 
 V. Auxilio policiaco de reacción inmediata a favor de la víctima, con autorización expresa de ingreso al domicilio donde se localice la víctima en el momento de solicitar el auxilio, aun cuando no lo haya solicitado ésta de manera expresa y conforme a las disposiciones aplicables; y
 
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2008)</small>
+
 VI. Las demás que establezcan las diversas leyes del Estado de Jalisco.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE SEPTIEMBRE DE 2012)</small>
+
+C. Además de las órdenes de protección antes mencionadas, las víctimas o sus familiares, tendrán los siguientes derechos:
+
+I. Proveer regularmente a las víctimas sobre los avances en la investigación y darles pleno acceso a los expedientes;
+
+II. Evitar incorporar en la investigación elementos de discriminación que pueden dar como resultado una descalificación de la credibilidad de la víctima y una asunción tácita de responsabilidad de ella por los hechos, ya sea por su forma de vestir, por su ocupación laboral, conducta sexual, relación o parentesco con el agresor;
+
+III. Canalizar a las víctimas a los servicios de atención a víctimas del delito, para que se les proporcionen los servicios correspondientes, y
+
+IV. Las demás que sean necesarias para garantizar los derechos humanos de la mujer, o que sean adecuadas para el mejor esclarecimiento de los hechos.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -1139,6 +1175,12 @@ La muerte encefálica deberá corroborarse con la práctica de cualquiera de las
 
 2. Cualquier otro estudio de gabinete que demuestre en forma documental la ausencia permanente de flujo encefálico arterial.
 
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
+
+###### Art. 119
+
+Bis. Cuando se trate de feminicidio, además de la descripción que hará el que practique las diligencias, la harán también el o los peritos que practicarán la autopsia del cadáver, expresando con minuciosidad el estado que guarda y las causas que originaron la muerte.
+
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2003)</small>
 
 ###### Art. 120.
@@ -1298,6 +1340,22 @@ Para el acreditamiento del cuerpo del delito, el Ministerio Público, los jueces
 Los instrumentos del delito y las cosas objeto o efecto de él, así como aquéllos en que existan huellas del mismo o pudieren tener relación con éste, serán asegurados y, al efecto, se pondrán en secuestro judicial o simplemente al cuidado y bajo la responsabilidad de alguna persona, para que no se alteren, destruyan o desaparezcan.
 
 De todas las cosas aseguradas se hará un inventario, en el que se les describirá de tal manera que en cualquier tiempo puedan ser identificadas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
+
+###### Art. 133
+
+Bis. La investigación pericial, ministerial y policial del delito de feminicidio, así como las necropsias que se practiquen, deberán realizarse de conformidad con los parámetros establecidos en los protocolos especializados con perspectiva de género. La aplicación de dichos protocolos será obligatoria y su inobservancia será motivo de responsabilidad.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
+
+###### Art. 133
+
+Ter. En los casos de presuntos feminicidios, deberá conservarse un registro fotográfico y de descripción de lesiones, además de todos aquellos objetos y vestimenta con que haya sido encontrado el cadáver, de conformidad con los protocolos especializados a que se refiere el artículo anterior.
+
+Asimismo, deberán tomarse muestras de los cadáveres que permitan realizar análisis de ácido desoxirribonucleico (ADN), que se integrará al Banco de Datos de Información Genética. A este banco de datos se incorporará, en su caso, la información genética de familiares de mujeres y niñas desaparecidas o presuntas víctimas de feminicidio, cuando así lo consientan o bien se haga en cumplimiento a una orden ministerial o de la autoridad judicial. La información, y los registros, objetos y datos a que se refiere este artículo deberán ser resguardados y estarán a cargo del Instituto Jalisciense de Ciencias Forenses en una base de información.
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2003)</small>
 
@@ -2789,9 +2847,9 @@ Tratándose de delitos que afecten la vida o la integridad corporal, el monto de
 
 Se califican como delitos graves y en su caso el inculpado no tendrá derecho al beneficio de la libertad provisional bajo caución, los previstos en los ordenamientos siguientes:
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
 
-I. En el Código Penal: homicidio culposo grave o lesiones culposas graves, artículo 48 penúltimo párrafo, evasión de presos, artículo 113, excepto cuando el activo sea un particular o no haya violencia en las cosas y en las personas; lenocinio, artículo 139; corrupción de menores, artículo 142-A, en sus dos últimos párrafos; prostitución infantil artículos 142-F fracción I y 142- G; cohecho, artículo 147, cuarto párrafo; peculado, artículo 148, párrafo tercero y artículo 149; delitos cometidos en la custodia o guarda de documentos, artículo 151, último párrafo; enriquecimiento ilícito, artículo 153, fracción II; usurpación artículo 170, último párrafo; falsificación de medios electrónicos o magnéticos 170 Bis, en todas sus fracciones; violación, artículo 175; violación equiparada, artículo 176; robo de infante, artículo 179, párrafo cuarto; tráfico de menores, artículo 179 Bis, párrafos primero y quinto; extorsión, articulo 189 párrafos segundo y cuarto; extorsión agravada, artículo 189 Bis; asalto, artículo 192; homicidio, artículos 213, 217 y 219; parricidio, artículo 223; instigación y ayuda al suicidio si la víctima fallece, artículo 224; infanticidio, artículo 226; aborto, artículo 228, penúltimo y último párrafo; robo equiparado, artículo 234, fracciones III, IV, V, VI y VII; robo cometido en los siguientes casos, artículo 235, fracción III; robo agravado, artículo 236 Bis, apartado a), fracciones II y III, apartado b), en su totalidad y apartados c) y d), en su totalidad; artículo 236 Ter, fracciones II y III, y abigeato y robo de animales, artículos 240 y 242, cuando el producto de los delitos exceda del importe de 350 salarios mínimos o se trate de reincidencias de cualquier delito contra el patrimonio y abigeato calificado, articulo 242-B; fraude previsto en el artículo 252 fracción XIX; administración fraudulenta, artículo 254 Ter, fracción II; despojo de inmuebles, fracción IV del artículo 262; pillaje, artículo 262 Ter, fracción III, y delitos electorales, artículo 270 fracción III, 276 y 278; los ilícitos penales mencionados en este párrafo, en grado de tentativa punible previsto en el artículo 52 y el continuado grave establecido en el artículo 55 Bis;
+l. En el Código Penal: Homicidio culposo grave o lesiones culposas graves, artículo 48 penúltimo párrafo, evasión de presos, artículo 113, excepto cuando el activo sea un particular o no haya violencia en las cosas y en las personas; lenocinio, artículo 139; corrupción de menores, artículo 142-A, en sus dos últimos párrafos; pornografía infantil, 142-D, fracciones I y III; prostitución infantil artículos 142-F fracción I y 142-G; promoción de la prostitución infantil artículo 142-H; trata de personas, artículo 142-J; cohecho, artículo 147, cuarto párrafo; peculado, artículo 148, párrafo tercero y artículo 149; delitos cometidos en la custodia o guarda de documentos, artículo 151 , último párrafo; enriquecimiento ilícito, artículo 153, fracción II; usurpación artículo 170, último párrafo; falsificación de medios electrónicos o magnéticos 170-Bis, en todas sus fracciones; violación, artículo 175; violación equiparada, artículo 176; robo de infante, artículo 179, párrafo cuarto; tráfico de menores, artículo 179-Bis, párrafos primero y quinto; extorsión, artículo 189 párrafos segundo y cuarto; extorsión agravada, artículo 189-Bis; asalto, artículo 192; privación ilegal de la libertad y de otros derechos, artículo 193 último párrafo; secuestro y delitos relacionados previstos en el artículo 194; homicidio, artículos 213, 217 y 219; parricidio, artículo 223; instigación y ayuda al suicidio si la víctima fallece, artículo 224; infanticidio, artículo 226; aborto, artículo 228, penúltimo y último párrafo; feminicidio, artículo 232-Bis; robo equiparado, artículo 234, fracciones III, IV, V, VI y VII; robo cometido en los siguientes casos, artículo 235, fracción III; robo agravado, artículo 236-Bis, apartado a), fracciones II y III, apartado b), en su totalidad y apartados c) y d), en su totalidad; artículo 236-Ter, fracciones II y III; y abigeato y robo de animales, artículos 240 y 242, cuando el producto del delito exceda del importe de 350 salarios mínimos o se trate de reincidencias de cualquier delito contra el patrimonio y abigeato calificado, artículo 242-B; fraude previsto en el artículo 252 fracción XIX; administración fraudulenta, artículo 254-Ter, fracción II; despojo de inmuebles, fracción IV del artículo 262; pillaje, artículo 262-Ter, fracción III, y delitos electorales, artículo 270 fracción III, 276 y 278; los ilícitos penales mencionados en este párrafo, en grado de tentativa punible previsto en el artículo 52 y el continuado grave establecido en el artículo 55-Bis;
 
 II. En la Ley Estatal para Prevenir y Sancionar la Tortura: Tortura, artículo 3º; y
 
@@ -4078,3 +4136,11 @@ QUINTO. Todos los asuntos que se encuentren en etapa de averiguación previa, pr
 SEXTO. La constitución de la Comisión Interinstitucional deberá realizarse en un plazo máximo de 90 días naturales a partir de la entrada en vigor de la ley; así como la designación del Secretario Técnico de ésta.
 
 La Comisión Interinstitucional deberá aprobar en un plazo máximo de sesenta días naturales a partir de su constitución el Programa Estatal para Prevenir, Combatir y Erradicar la Trata de personas y remitir a la Secretaria General de Gobierno para su publicación.
+
+P.O. 22 DE SEPTIEMBRE DE 2012.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco", salvo lo establecido en el siguiente artículo.
+
+SEGUNDO. El artículo 133-Bis del Código de Procedimientos Penales del Estado Libre y Soberano de Jalisco, entrará en vigor a los sesenta días siguientes de la publicación del presente decreto, plazo en el cual la Procuraduría General de Justicia del Estado y el Instituto Jalisciense de Ciencias Forenses, deberán emitir el protocolo respectivo, que se publicará en el periódico oficial El Estado de Jalisco.
+
+TERCERO. Se autoriza al Poder Ejecutivo del Estado a realizar las adecuaciones presupuestales necesarias para el debido cumplimiento del presente decreto.
