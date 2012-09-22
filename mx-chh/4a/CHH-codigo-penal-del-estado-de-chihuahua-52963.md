@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2012-05-23"
+last_updated: "2012-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2012.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -3145,31 +3145,25 @@ VIII. Practique cateos o visitas domiciliarias fuera de los casos autorizados po
 
 IX. Fabrique, altere o simule elementos de prueba para incriminar o exculpar a otro.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
+
 ### CAPÍTULO II. USURPACIÓN DE PROFESIÓN
 
 ###### Artículo 289.
 
-Se impondrán de tres a doce años de prisión y de doscientos a quinientos días multa, al servidor público que, en el ejercicio de sus atribuciones o con motivo de ellas, inflija a una persona dolores o sufrimientos físicos o psicológicos, con el fin de:
-
-I. Obtener de ella o de un tercero información o una confesión;
-
-II. Castigarla por un acto que haya cometido o se sospeche que ha cometido; o
-
-III. Coaccionarla para que realice o deje de realizar una conducta determinada.
-
-Las mismas sanciones se impondrán al servidor público que, en el ejercicio de sus atribuciones o con motivo de ellas, instigue o autorice a otro a cometer tortura, o no impida a otro su comisión; así como al particular que, instigado o autorizado por un servidor público, cometa tortura.
+(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2012)
 
 ###### Artículo 290.
 
-Para la reparación de daño a las víctimas del delito de tortura, se estará a las reglas establecidas por el Capítulo X del Título Tercero del Libro Primero, el pago a que se refiere el artículo 49 de este Código, se realizará en una sola exhibición.
+(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2012)
 
 ###### Artículo 291.
 
-El servidor público que en el ejercicio de sus funciones conozca de un hecho de tortura, está obligado a denunciarlo de inmediato; si no lo hiciere, se le impondrán de seis meses a tres años de prisión y de quince a sesenta días multa.
+(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2012)
 
 ###### Artículo 292.
 
-No se considerarán causas excluyentes de responsabilidad del delito de tortura, el que se invoquen o existan situaciones excepcionales como inestabilidad política interna, urgencia en las investigaciones, la orden de un superior jerárquico o cualquier otra circunstancia.
+(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2012)
 
 ### CAPÍTULO III. PRÁCTICA INDEBIDA DEL SERVICIO MÉDICO
 
@@ -4190,3 +4184,17 @@ P.O. 23 DE MAYO DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE SEPTIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto, en materia del delito de tortura, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+
+###### ARTÍCULO TERCERO.
+
+Las disposiciones relativas al delito de tortura previstas (sic) en el Código Penal del Estado hasta la entrada en vigor del presente Decreto, seguirán aplicándose por los hechos realizados durante su vigencia. Así mismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos.
