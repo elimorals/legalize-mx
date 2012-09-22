@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-sistema-estatal-de-seguridad-publica-68304"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-01"
-last_updated: "2012-06-16"
+last_updated: "2012-09-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68304&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 1 de abril de 2009.
 
@@ -373,19 +373,27 @@ III. Cuatro presidentes municipales;
 
 IV. Un representante de las Instituciones de Seguridad Pública de la Federación, sólo con derecho a voz;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+V. El Secretario Ejecutivo del Sistema Estatal de Seguridad Pública quien fungirá como Secretario del Consejo, sólo con derecho a voz;
 
-V. El Secretario Ejecutivo del Sistema Estatal de Seguridad Pública quien fungirá como Secretario del Consejo, sólo con derecho a voz, y
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+VI. Seis representantes de la sociedad civil, y
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
 
-VI. Seis representantes de la sociedad civil.
+VII. El Secretario Adjunto, sólo con derecho a voz.
 
-Así mismo, se invitarán a las reuniones del Consejo Estatal, a dos representantes del Poder Legislativo.
+> <small>(REFORMADO [N DE E. ADICIONADO], P.O. 22 DE SEPTIEMBRE DE 2012)</small>
+
+Los seis representantes de la sociedad civil y el Secretario Adjunto conformarán la parte ciudadana del Consejo.
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
+
+Así mismo, se invitarán a las reuniones del Consejo Estatal, a dos representantes del Poder Legislativo y a un representante del Poder Judicial.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 22 DE SEPTIEMBRE DE 2012)</small>
 
 El Consejo podrá invitar, por la naturaleza de los asuntos a tratar, a las personas, instituciones y representantes de la sociedad civil que puedan exponer conocimientos y experiencias para el cumplimiento de los objetivos de la seguridad pública. Dicha participación será con carácter honorífico.
 
@@ -397,13 +405,11 @@ El Consejo podrá invitar, por la naturaleza de los asuntos a tratar, a las pers
 
 El Consejo Estatal de Seguridad Pública establecerá las regiones en el Estado para que se instalen los Consejos Regionales de Seguridad Pública, que se integrarán como lo determine el Consejo Estatal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 26.
 
-El Gobernador del Estado tendrá la facultad de nombrar y remover libremente al Secretario Ejecutivo del Sistema Estatal de Seguridad Pública.
+El Gobernador del Estado tendrá la facultad de nombrar y remover libremente al Secretario Ejecutivo del Sistema Estatal de Seguridad Pública. De la misma forma nombrará y removerá libremente al Secretario Adjunto del Consejo Estatal de Seguridad Pública, quien será de la sociedad civil y su cargo será honorario.
 
 ###### ARTÍCULO 27.
 
@@ -438,6 +444,10 @@ El Consejo Estatal de Seguridad Pública se reunirá, por lo menos, cada mes, a 
 Corresponderá al Secretario Ejecutivo, la facultad de promover en todo tiempo la efectiva coordinación y funcionamiento del Consejo Estatal de Seguridad Pública.
 
 Los miembros del Consejo Estatal de Seguridad Pública podrán proponer acuerdos y resoluciones, así como vigilar su cumplimiento.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
+
+ARTÍCULO 28 BIS. La parte ciudadana del Consejo Estatal de Seguridad Pública recibirá de organismos ciudadanos, propuestas de proyectos de seguridad pública y deliberará si es conveniente desarrollarlas y presentarlas, en su caso, al Consejo Estatal de Seguridad Pública.
 
 ###### ARTÍCULO 29.
 
@@ -501,11 +511,19 @@ XII.- Informar al Consejo Estatal y a su Presidente, sobre el incumplimiento a l
 
 Para el impulso y desarrollo de las distintas materias de coordinación a que se refiere esta Ley, el Sistema Estatal contará con órganos e instancias auxiliares en los que participarán representantes de las instituciones del Estado y municipios.
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 32.
 
-Son órganos e instancias auxiliares del Sistema Estatal, la Coordinación Estatal de Seguridad Escolar, los consejos consultivos, los consejos regionales y las organizaciones civiles que promuevan el cumplimiento de los derechos fundamentales.
+Son órganos e instancias auxiliares del Sistema Estatal, la Coordinación Estatal de Seguridad Escolar, los consejos consultivos, los consejos regionales, los observatorios ciudadanos y las organizaciones civiles que promuevan el cumplimiento de los derechos fundamentales.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
+
+ARTÍCULO 32 BIS.- Los observatorios ciudadanos deberán estar constituidos como organizaciones no gubernamentales y conformados con una representación social plural y apartidista; su propósito deberá ser el de articular a la sociedad para incidir en políticas públicas para mejorar la calidad de vida en seguridad y justicia. Así mismo, observar el actuar de las autoridades y contribuir a generar un entorno de paz, seguridad, convivencia ciudadana y una cultura de la legalidad.
+
+Los observatorios deberán presentar su propuesta de requerimientos y objetivos a la parte ciudadana del Consejo Estatal de Seguridad Pública por conducto del Secretario Adjunto.
+
+La parte ciudadana desarrollará la propuesta para llevarla ante el Consejo Estatal de Seguridad Pública, en donde se deliberará la aprobación del proyecto y la periodicidad, detalle y formato de la información entregada.
 
 ###### ARTÍCULO 33.
 
@@ -1952,3 +1970,17 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Poder Ejecutivo Estatal y los Ayuntamientos del Estado, en el ámbito de sus respectivas competencias y con apego a las disposiciones contenidas en el presente ordenamiento, expedirán las normas reglamentarias y tomarán las medidas administrativas necesarias a efecto de dar cumplimiento a esta reforma.
+
+P.O. 22 DE SEPTIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para efectos del presente Decreto, se entenderá que la contribución a que éste se refiere, es la misma que se encuentra establecida en el Artículo Decimoséptimo de la Ley de Ingresos del estado de Chihuahua, para el Ejercicio Fiscal de 2012.
+
+###### ARTÍCULO TERCERO.
+
+Se establece un plazo de treinta días., contados a partir de la entrada en vigor del presente Decreto, para la constitución del Fideicomiso para la Competitividad y Segundad Ciudadana.
