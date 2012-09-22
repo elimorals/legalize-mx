@@ -4,7 +4,7 @@ identifier: "COL-ley-de-proteccion-civil-del-estado-de-colima-83458"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-29"
-last_updated: "2011-10-29"
+last_updated: "2012-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 29 de octubre de 2011.
 
@@ -79,7 +79,9 @@ La materia de protección civil comprende el conjunto de acciones encaminadas a 
 
 En el presupuesto anual de egresos del Gobierno del Estado se asignará a la Unidad Estatal de Protección Civil la partida presupuestal correspondiente a fin de dar cumplimiento a las acciones que se indican en este artículo, las que no podrán ser reducidas en ningún caso y por ningún motivo y, en cambio, sí podrán ser aumentadas conforme a las necesidades de protección y salvaguarda a la población.
 
-El Ejecutivo del Estado, podrá establecer una partida especial llamada Fondo Estatal de Emergencias y Desastres para operación en caso de contingencias, la cual será vigilada y liberada, en su caso, por el Comité Estatal de Emergencias cuando sea requerida. Dicha partida será abonada a cuenta especial única de la Unidad Estatal de Protección Civil, quien la ejercerá y, además, podrá recibir donaciones y, para su ejercicio o disposición deberá existir autorización de los integrantes del Comité Estatal de Emergencias.
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
+
+El Ejecutivo del Estado, podrá establecer una partida especial llamada Fondo Estatal de Protección Civil para su operación, la cual será vigilada y liberada, en su caso, por la Junta de Gobierno cuando sea requerida. Dicha partida será abonada a una cuenta especial, única de la Unidad Estatal de Protección Civil, quien la ejercerá y, además, podrá recibir donaciones.
 
 ###### Artículo 3o.
 
@@ -403,17 +405,23 @@ XIV. Promover la constitución de grupos voluntarios integrados al SIMPROC y apo
 
 XV. Promover la capacitación de los habitantes del municipio en materia de protección civil;
 
-XVI. Proporcionar información y asesoría a las asociaciones de vecinos, para elaborar programas específicos e integrar unidades internas de protección civil, a fin de realizar acciones de prevención y auxilio en las colonias, barrios y unidades habitacionales;
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
+
+XVI. Proporcionar información y asesoría a las asociaciones de vecinos, para elaborar programas específicos e integrar unidades internas de protección civil, a fin de realizar acciones de prevención y auxilio en las colonias, barrios y unidades habitacionales, designado para su atención a la UMPC;
 
 XVII. Vigilar a través de la UMPC, el cumplimiento de esta Ley por parte de las instituciones, organismos y empresas de los sectores público, social y privado, en el ámbito de su competencia y de conformidad con los convenios de coordinación que celebre con el Estado y la Federación;
 
-XVIII. Considerar en su presupuesto de egresos una partida para el establecimiento y operación de la UMPC;
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
+
+XVIII. En su caso, contemplar en su presupuesto de egresos una partida para el establecimiento y operación de la UMPC;
 
 XIX. Difundir y actualizar la información del Atlas Municipal de Riesgos a través de la UMPC;
 
 XX. Realizar inspecciones y ejecutar medidas de seguridad en el ámbito de su competencia en la materia;
 
-XXI. Tramitar y resolver el recurso administrativo previsto en esta Ley; y
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
+
+XXI. Tramitar y resolver el recurso de revisión previsto en esta Ley; y
 
 XXII. Las demás que le señalen esta Ley y otras normas y reglamentos aplicables.
 
@@ -837,13 +845,19 @@ Los presidentes municipales en los casos previstos en la fracción I que anteced
 
 ### Capítulo III. De la Unidad Estatal de Protección Civil
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 45.
 
-Se crea la Unidad Estatal de Protección Civil, como un organismo público descentralizado con personalidad jurídica, patrimonio propio, autonomía técnica y de gestión para el cumplimiento de sus objetivo (sic) y fines, estará constituido por:
+Se crea la Unidad Estatal de Protección Civil, como un organismo público descentralizado del Gobierno del Estado, con personalidad jurídica, patrimonio propio, autonomía técnica y de gestión para el cumplimiento de sus objetivo (sic) y fines, que estará constituida por:
 
-I. Una Junta de Gobierno que se integrará por un Presidente que será designado por el Gobernador; el Secretario General de Gobierno; el titular de la UEPC; los Secretarios de: Finanzas y Administración, Salud, Desarrollo Urbano y Desarrollo Rural, quienes podrán designar un suplente que los substituya en sus ausencias, contando con los mismos derechos y obligaciones;
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
 
-II. Un Director General quien será el Titular de la UEPC;
+I. Una Junta de Gobierno que se integrará por un Presidente que será designado por el Gobernador; el Secretario General de Gobierno; el titular de la UEPC; los Secretarios de: Finanzas y Administración, Salud, Desarrollo Urbano, Desarrollo Rural y la Contraloría del Estado, quienes podrán designar un suplente que los substituya en sus ausencias, contando con los mismos derechos y obligaciones;
+
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
+
+II. Un Director General quien será el Titular y Representante legal de la UEPC;
 
 III. Un Director de Operaciones;
 
@@ -963,9 +977,15 @@ XXIV. Elaborar los peritajes de causalidad y dictámenes en materia de protecci�
 
 XXV. Establecer las cuotas o tarifas de los servicios que presta, sometiéndolo a la Junta de Gobierno para su autorización;
 
-XXVI. Rendir informes a la Junta de Gobierno de los recursos financieros ejercidos; y
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
 
-XXVII. Las demás que dispongan los reglamentos, programas, normas y convenios que por su objeto tenga que complementar.
+XXVI. Rendir informes a la Junta de Gobierno de los recursos financieros ejercidos;
+
+> <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
+
+XXVII. Aprobar los convenios, contratos y acuerdos que la UEPC requiera celebrar con la federación, estados, municipios y demás organismos e instituciones, públicas o privadas, a fin de coadyuvar en el cumplimiento de su objeto; y
+
+XXVIII. Las demás que dispongan los reglamentos, programas, normas y convenios que por su objeto tenga que complementar.
 
 ###### Artículo 54.
 
@@ -1027,7 +1047,9 @@ XVII. Mantener comunicación con todo tipo de organismos especializados que real
 
 XVIII. Promover ante la Junta de Gobierno, la contratación de los servidores públicos de la UEPC;
 
-XIX. Otorgar los nombramientos de los servidores públicos de la UEPC;
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
+
+XIX. Otorgar los nombramientos de los servidores públicos de la UEPC, así como poderes de representación legal;
 
 XX. Presentar a la Junta de Gobierno un informe anual de actividades realizadas por la UEPC;
 
@@ -1045,9 +1067,15 @@ XXVI. Establecer los mecanismos para la recaudación de los ingresos económicos
 
 XXVII. Coordinar las acciones de la UEPC, de las dependencias, organismos y dependencias federales y municipales en caso de siniestro o desastre en el Estado, así como ordenar las medidas preventivas y de emergencia que se deban tomar por autoridades y civiles para proteger la vida y los bienes de las personas ante las calamidades, además de restablecer el funcionamiento de los servicios elementales para la comunidad;
 
-XXVIII. Administrar y aplicar los recursos económicos del Fondo Estatal de Emergencias y Desastres en forma eficiente y con base en lo que establezcan las Reglas de Operación que para tal efecto se expidan; y
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
 
-XXIX. Las demás que le confieran esta Ley, su Reglamento, y demás ordenamientos aplicables.
+XXVIII. Administrar y aplicar los recursos económicos del Fondo Estatal de Protección Civil en forma eficiente;
+
+> <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
+
+XXIX. Celebrar los convenios, contratos y acuerdos; y
+
+XXX. Las demás que le confieran esta Ley, su Reglamento, y demás ordenamientos aplicables.
 
 ###### Artículo 56.
 
@@ -1237,7 +1265,9 @@ II. Un Coordinador Administrativo; y
 
 III. Personal técnico, administrativo, operativo y auxiliar que para el cumplimiento del Programa Municipal se requiera.
 
-El Presidente Municipal de cada Ayuntamiento designará y/o propondrá a los titulares de los cargos a que se refieren las fracciones I y II de este artículo.
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
+
+El Presidente Municipal de cada Ayuntamiento designará a los titulares de los cargos a que se refieren las fracciones I y II de este artículo.
 
 ###### Artículo 79.
 
@@ -1993,7 +2023,9 @@ SEGUNDO.- Se abroga la Ley de Protección Civil del Estado de Colima publicada m
 
 TERCERO.- El Consejo Estatal de Protección Civil se deberá instalar en un plazo no mayor de sesenta días hábiles a partir del día siguiente al de la publicación de esta Ley.
 
-CUARTO.- Se otorga un plazo de noventa días hábiles a partir de la entrada en vigor de la presente Ley para la emisión de su Reglamento.
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
+
+CUARTO.- Se otorga un plazo de ciento ochenta días hábiles a partir de la entrada en vigor de la presente Ley para la emisión de su Reglamento.
 
 QUINTO.- En tanto se expidan los reglamentos previstos en esta Ley, seguirán vigentes las disposiciones que regulan la integración y operación del Sistema Estatal de Protección Civil, en tanto no se opongan a la presente Ley.
 
@@ -2001,9 +2033,9 @@ SEXTO.- En tanto no se emita el nuevo Programa Estatal de Protección Civil, se 
 
 SÉPTIMO.- La Unidad Estatal de Protección Civil quedará constituida a partir de la publicación en el Periódico Oficial El Estado de Colima, como un organismo público descentralizado con personalidad jurídica, patrimonio propio, autonomía técnica y de gestión para el cumplimiento de sus objetivos y fines; asumiendo los bienes muebles e inmuebles, derechos, recursos financieros y demás activos de la Unidad Estatal de Protección Civil, así como con los recursos humanos, presupuestales y financieros correspondientes.
 
-OCTAVO.- Las Unidades Municipales de Protección Civil quedarán constituidas a partir de la publicación en el Periódico Oficial El Estado de Colima, como un órgano con autonomía de operación, financiera y administrativa, dependiente del Ayuntamiento.
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
 
-Asimismo, los municipios deberán expedir el Programa y Reglamento Municipal de protección civil, respectivos.
+OCTAVO.- Las Unidades Municipales de Protección Civil quedarán constituidas mediante Acuerdo emitido por el Ayuntamiento correspondiente, como un órgano con autonomía de operación, financiera y administrativa, dependiente del Ayuntamiento, y deberán publicarse en el Periódico Oficial El Estado de Colima. Asimismo, los Ayuntamientos deberán expedir su respectivo Programa y Reglamento Municipal de protección civil, en concordancia con la presente, en un plazo no mayor a ciento ochenta días de publicado el Reglamento del presente ordenamiento.
 
 NOVENO.- Los derechos laborales y antigüedad del personal administrativo que actualmente laboran para las Unidades Estatal y Municipales de Protección Civil, se respetarán conforme a la ley.
 
@@ -2020,3 +2052,11 @@ Por tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, al día 27 del mes de octubre del año dos mil once.
 
 LIC. MARIO ANGUIANO MORENO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA.- Rúbrica.- LIC. RENÉ RODRÍGUEZ ALCARAZ, SECRETARIO GENERAL DE GOBIERNO.- Rúbrica.- LICDA. YOLANDA VERDUZCO GUZMÁN, PROCURADORA GENERAL DE JUSTICIA DEL ESTADO.-Rúbrica.- C. GRAL. DIV. D.E.M. RET. RAÚL PINEDO DÁVILA, SECRETARIO DE SEGURIDAD PÚBLICA.- Rúbrica.- PROFR. FEDERICO RANGEL LOZANO, SECRETARIO DE EDUCACIÓN.- Rúbrica.- DR. J. JESÚS OROZCO ALFARO, SECRETARIO DE FINANZAS Y ADMINISTRACIÓN, Rúbrica.- DR. AGUSTÍN LARA ESQUEDA, SECRETARIO DE SALUD Y BIENESTAR SOCIAL.- Rúbrica.- ARQ. OSCAR ALEJANDRO TORRES CONTRERAS.- SECRETARIO DE DESARROLLO URBANO.- Rúbrica.- C. JOSÉ VERDUZCO MORENO, SECRETARIO DE DESARROLLO RURAL.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE SEPTIEMBRE DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
