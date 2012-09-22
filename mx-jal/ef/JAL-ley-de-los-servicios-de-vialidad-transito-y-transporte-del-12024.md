@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-servicios-de-vialidad-transito-y-transporte-del-1202
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-07"
-last_updated: "2012-09-08"
+last_updated: "2012-09-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS SERVICIOS DE VIALIDAD, TRÁNSITO Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 1998.
 
@@ -1957,7 +1957,9 @@ Las concesiones, contratos de subrogación y permisos para la prestación de un 
 
 I. Cuando se hubiere extendido a favor de una persona jurídica y ésta se extinga;
 
-II. Cuando se oferte o realice un servicio distinto del autorizado en la concesión o fuera de la ruta, tramo o itinerario aprobado;
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
+
+II. Cuando se oferte o realice un servicio distinto del autorizado en la concesión o fuera de la ruta, tramo o itinerario aprobado, o no se cumpla puntualmente con lo dispuesto en los artículos 67, 97, 104 o 105 de esta ley;
 
 III. Cuando se haga la transmisión de la concesión o del vehículo, o la sustitución de este último, sin observarse los requisitos que para tales casos establezcan esta Ley y su reglamento;
 
@@ -3438,3 +3440,9 @@ SEGUNDO. El titular del Poder Ejecutivo hará las adecuaciones reglamentarias ne
 P.O. 8 DE SEPTIEMBRE DE 2012.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 22 DE SEPTIEMBRE DE 2012.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. El titular del Poder Ejecutivo del Estado, treinta días posteriores a la entrada en vigor del presente decreto, deberá realizar las adecuaciones necesarias al Reglamento de la Ley de los Servicios de Vialidad, Tránsito y Transporte del Estado de Jalisco.
