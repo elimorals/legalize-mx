@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-4240"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-07-27"
-last_updated: "2012-09-08"
+last_updated: "2012-09-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO PENAL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Colima, el sábado 27 de julio de 1985.
 
@@ -113,13 +113,13 @@ Cuando el Agente lleve a cabo una conducta idónea para producir un resultado, �
 
 Responde también del resultado típico producido, el que omite impedirlo, si podía hacerlo de acuerdo con las circunstancias, y si debía jurídicamente evitarlo.
 
-(NOTA: EL 31 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 54/2012, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS QUE INDICAN: “TRATA DE PERSONAS, previsto en el artículo 161”; “SECUESTRO y SECUESTRO EXPRÉS previstos por los artículos 199 y 199 BIS, respectivamente”; así como “Y SECUESTRO;”, DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(NOTA: EL 31 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 54/2012, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS QUE INDICAN: “TRATA DE PERSONAS, previsto en el artículo 161”; “SECUESTRO, previsto por el artículo 199, respectivamente”; así como “Y SECUESTRO;”, DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTICULO 10.
 
-Se califican como delitos graves, para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, los siguientes delitos previstos por este Código: REBELIÓN, tipificado por el artículo 104; TERRORISMO, conforme a los párrafos primero y segundo del artículo 106 BIS; los supuestos previstos por el artículo 108; USO INDEBIDO DE INFORMACIÓN SOBRE ACTIVIDADES DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA, DE PROCURACIÓN E IMPARTICIÓN DE JUSTICIA, ASÍ COMO LAS DEL SISTEMA PENITENCIARIO, tipificado por el artículo 115 BIS, FALSEDAD ANTE LA AUTORIDAD, establecido por el artículo 117; EVASIÓN DE PRESOS, conforme al segundo párrafo del artículo 121; OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA, en todas sus formas y modalidades que comprenden los artículos 126 BIS, 126 BIS 1, 126 BIS 4 y 126 BIS 5; PECULADO, tipificado por el artículo 131; DELITOS CONTRA LA SEGURIDAD VIAL Y LOS MEDIOS DE TRANSPORTE, establecidos en el segundo párrafo del artículo 145; CORRUPCIÓN Y EXPLOTACIÓN DE PERSONAS, señalados en el segundo y tercer párrafo del artículo 154; PORNOGRAFÍA, tipificado en el artículo 157 BIS 2; TURISMO SEXUAL, en los términos de los numerales 157 BIS 6 y 157 BIS 7; LENOCINIO, en los términos del segundo párrafo del artículo 158 y el numeral 159; TRATA DE PERSONAS, PREVISTO EN EL ARTÍCULO 161; HOMICIDIO, tipificado por los artículos 169, 170, 171, 172, tratándose del provocador, y las fracciones II y III del 173; LESIONES, conforme los artículos 174 fracciones VI y VII, 175, 176, 177, 178, 179, 183; HOMICIDIO Y LESIONES CULPOSAS, previstos en el artículo 184 BIS; FEMINICIDIO, tipificado en el artículo 191 BIS 5; PRIVACIÓN DE LA LIBERTAD, previsto por el artículo 197; SECUESTRO Y SECUESTRO EXPRÉS PREVISTOS POR LOS ARTÍCULOS 199 Y 199 BIS, RESPECTIVAMENTE;; (sic) DESAPARICIÓN FORZADA DE PERSONAS en todas sus formas y modalidades que comprenden los artículos 202 BIS y 202 BIS 1 VIOLACIÓN, en todas sus formas y modalidades que comprenden los artículos 206, 207, 208, 209, 209 BIS y 210; ABUSO SEXUAL, en lo previsto en el segundo párrafo del artículo 215; PEDERASTIA, en todas sus formas y modalidades que comprenden los artículos 216 BIS 1 y 216 BIS 2; ROBO, respecto de los supuestos del inciso B) del artículo 227, 227 BIS, 227 BIS 1, 227 BIS 2, 227 BIS 3, 227 BIS 4 y 227 BIS 5; los FRAUDES ESPECÍFICOS, previstos en las fracciones III, IV, V Y VI del artículo 234; EXTORSIÓN previsto en el artículo 234 BIS; DAÑOS, tipificado por el artículo 238. Igualmente se consideran graves los delitos de: TENTATIVA DE HOMICIDIO Y SECUESTRO; TENTATIVA DE ROBO, previsto por el inciso b) del artículo 227; y TENTATIVA DE VIOLACIÓN, previsto por los artículos 206, 207, 208, 209 y 210, así como los DELITOS CONTRA EL AMBIENTE, previstos por los artículos 243 en su segundo párrafo y la fracción III del 244.
+Se califican como delitos graves, para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, los siguientes delitos previstos por este Código: REBELIÓN, tipificado por el artículo 104; TERRORISMO, conforme a los párrafos primero y segundo del artículo 106 BIS; los supuestos previstos por el artículo 108; USO INDEBIDO DE INFORMACIÓN SOBRE ACTIVIDADES DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA, DE PROCURACIÓN E IMPARTICIÓN DE JUSTICIA, ASÍ COMO LAS DEL SISTEMA PENITENCIARIO, tipificado por el artículo 115 BIS, FALSEDAD ANTE LA AUTORIDAD, establecido por el artículo 117; EVASIÓN DE PRESOS, conforme al segundo párrafo del artículo 121; OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA, en todas sus formas y modalidades que comprenden los artículos 126 BIS, 126 BIS 1, 126 BIS 4 y 126 BIS 5; PECULADO, tipificado por el artículo 131; DELITOS CONTRA LA SEGURIDAD VIAL Y LOS MEDIOS DE TRANSPORTE, establecidos en el segundo párrafo del artículo 145; CORRUPCIÓN Y EXPLOTACIÓN DE PERSONAS, señalados en el segundo y tercer párrafo del artículo 154; PORNOGRAFÍA, tipificado en el artículo 157 BIS 2; TURISMO SEXUAL, en los términos de los numerales 157 BIS 6 y 157 BIS 7; LENOCINIO, en los términos del segundo párrafo del artículo 158 y el numeral 159; TRATA DE PERSONAS, PREVISTO EN EL ARTÍCULO 161; HOMICIDIO, tipificado por los artículos 169, 170, 171, 172, tratándose del provocador, y las fracciones II y III del 173; LESIONES, conforme los artículos 174 fracciones VI y VII, 175, 176, 177, 178, 179, 183; HOMICIDIO Y LESIONES CULPOSAS, previstos en el artículo 184 BIS; FEMINICIDIO, tipificado en el artículo 191 BIS 5; PRIVACIÓN DE LA LIBERTAD, previsto por el artículo 197; SECUESTRO, PREVISTO POR EL ARTÍCULO 199, RESPECTIVAMENTE; (sic) VIOLACIÓN, en todas sus formas y modalidades que comprenden los artículos 206, 207, 208, 209, y 210; ABUSO SEXUAL, en lo previsto en el segundo párrafo del artículo 215; ROBO, respecto de los supuestos del inciso B) del artículo 227, 227 BIS, 227 BIS 1, 227 BIS 2, 227 BIS 3, 227 BIS 4 y 227 BIS 5; FRAUDE EQUIPARADO, previsto en el párrafo segundo, de la fracción VII, del artículo 233, los FRAUDES ESPECÍFICOS, previstos en las fracciones III, IV, V Y VI del artículo 234; DAÑOS, tipificado por el artículo 238. Igualmente se consideran graves los delitos de: TENTATIVA DE HOMICIDIO Y SECUESTRO; TENTATIVA DE ROBO, previsto por el inciso b) del artículo 227; y TENTATIVA DE VIOLACIÓN, previsto por los artículos 206, 207, 208, 209 y 210, así como los DELITOS CONTRA EL AMBIENTE, previstos por los artículos 243 en su segundo párrafo y la fracción III del 244.
 
 (REFORMADO, P.O. 18 DE JULIO DE 2006) (F. DE E., 15 DE OCTUBRE DE 2011)
 
@@ -2655,9 +2655,21 @@ IX.- Que la autoridad realice o deje de hacer un acto de cualquier índole.
 
 Si el agente espontáneamente pone en libertad a la víctima dentro de los dos días siguientes a la comisión del delito, podrá disminuirse la pena hasta la mitad.
 
-### CAPITULO III.
+### CAPÍTULO IV. DESAPARICIÓN FORZADA DE PERSONAS
 
-RAPTO.
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2011)</small>
+
+ARTICULO 202 BIS.- Al servidor público del Estado de Colima o sus Municipios que con motivo de sus atribuciones, detenga y mantenga oculta a una o varias personas, o bien autorice, apoye o consienta que otros lo hagan sin reconocer la existencia de tal privación o niegue información sobre su paradero, impidiendo con ello el ejercicio de los recursos legales y las garantías procesales procedentes, se le impondrá de quince a cuarenta años de prisión, y de trescientos a mil unidades de multa, e inhabilitación para el desempeño de cualquier cargo, empleo o comisión público hasta por quince años.
+
+Al particular que por orden, autorización o con el apoyo de un servidor público participe en los actos descritos en el párrafo anterior, se le impondrán de ocho a quince años de prisión y de 150 a 500 unidades de multa.
+
+La oposición, negativa o desacato hacia la autoridad competente luego de haber sido requerido por ésta para tener libre e inmediato acceso al lugar donde haya motivos para creer que se pueda encontrar a una persona desaparecida, por parte del servidor público responsable del mismo, será sancionada con la inhabilitación de su cargo, comisión o empleo públicos, sin perjuicio de la aplicación de las penas por los demás delitos en que pudiera incurrir con motivo de su conducta.
+
+Las sanciones previstas en los párrafos precedentes se disminuirán en una tercera parte, cuando el sujeto activo suministre información que permita esclarecer los hechos y, en una mitad, cuando contribuya a lograr la aparición con vida de la víctima o víctimas.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2011)</small>
+
+ARTICULO 202 BIS 1.- Se equipara al delito de desaparición forzada de personas, la ocultación de familiares de víctimas de este delito o nacidos de una madre víctima de desaparición forzada, durante el cautiverio.
 
 ###### ARTICULO 199.
 
@@ -2741,21 +2753,11 @@ Si espontáneamente se pone en libertad a la persona antes de veinticuatro horas
 
 ARTICULO 199 BIS.- Comete el delito de secuestro exprés la persona que, para ejecutar los delitos de robo o extorsión, prive de la libertad a otra. La pena será de ocho a dieciséis años de prisión y multa de hasta 300 unidades. Lo anterior, con independencia de las demás sanciones que conforme a este Código le correspondan por otros delitos que de su conducta resulten.
 
-### CAPÍTULO IV. DESAPARICIÓN FORZADA DE PERSONAS
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE OCTUBRE DE 2011)</small>
 
-> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2011)</small>
+### CAPITULO III.
 
-ARTICULO 202 BIS.- Al servidor público del Estado de Colima o sus Municipios que con motivo de sus atribuciones, detenga y mantenga oculta a una o varias personas, o bien autorice, apoye o consienta que otros lo hagan sin reconocer la existencia de tal privación o niegue información sobre su paradero, impidiendo con ello el ejercicio de los recursos legales y las garantías procesales procedentes, se le impondrá de quince a cuarenta años de prisión, y de trescientos a mil unidades de multa, e inhabilitación para el desempeño de cualquier cargo, empleo o comisión público hasta por quince años.
-
-Al particular que por orden, autorización o con el apoyo de un servidor público participe en los actos descritos en el párrafo anterior, se le impondrán de ocho a quince años de prisión y de 150 a 500 unidades de multa.
-
-La oposición, negativa o desacato hacia la autoridad competente luego de haber sido requerido por ésta para tener libre e inmediato acceso al lugar donde haya motivos para creer que se pueda encontrar a una persona desaparecida, por parte del servidor público responsable del mismo, será sancionada con la inhabilitación de su cargo, comisión o empleo públicos, sin perjuicio de la aplicación de las penas por los demás delitos en que pudiera incurrir con motivo de su conducta.
-
-Las sanciones previstas en los párrafos precedentes se disminuirán en una tercera parte, cuando el sujeto activo suministre información que permita esclarecer los hechos y, en una mitad, cuando contribuya a lograr la aparición con vida de la víctima o víctimas.
-
-> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2011)</small>
-
-ARTICULO 202 BIS 1.- Se equipara al delito de desaparición forzada de personas, la ocultación de familiares de víctimas de este delito o nacidos de una madre víctima de desaparición forzada, durante el cautiverio.
+RAPTO.
 
 ###### ARTICULO 200.
 
@@ -2780,8 +2782,6 @@ Por el sólo hecho de no haber cumplido dieciocho años de edad, la persona que 
 ###### ARTICULO 202.
 
 Este delito sólo se perseguirá por querella necesaria.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE OCTUBRE DE 2011)</small>
 
 ### CAPITULO I.
 
@@ -3315,11 +3315,19 @@ VI.- Celebre de manera verbal o escrita, un convenio para la comercialización p
 
 VII.- Con el fin de procurarse ilícitamente una cosa u obtener un lucro indebido libre un cheque contra una cuenta bancaria, que sea rechazado por la institución, en los términos de la legislación aplicable, por no tener el librador cuenta en la institución, estar cancelada, o por carecer éste de fondos suficientes para su pago; o
 
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
+
+Cuando el monto de lo defraudado exceda del equivalente a mil salarios mínimos vigentes en la Entidad en el supuesto establecido en el párrafo precedente, la pena de prisión será de dos a ocho años.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
+
+La certificación relativa a la inexistencia de la cuenta o a la falta de fondos suficientes para el pago deberá realizarse exclusivamente por personal específicamente autorizado para tal efecto por la institución de crédito de que se trate.
+
 > <small>(ADICIONADA, P.O. 21 DE JULIO DE 2012)</small>
 
 VIII.- Venda a dos o más personas una misma cosa, sea mueble o inmueble, y reciba el precio de la primera, de la segunda enajenación o de ambas, o parte de él, o cualquier otro lucro, con prejuicio del primero o del segundo comprador.
 
-La certificación relativa a la inexistencia de la cuenta o a la falta de fondos suficientes para el pago deberá realizarse exclusivamente por personal específicamente autorizado para tal efecto por la institución de crédito de que se trate.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO DE LA FRACCIÓN, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2009)</small>
 
@@ -4078,5 +4086,9 @@ P.O. 21 DE JULIO DE 2012.
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 P.O. 8 DE SEPTIEMBRE DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 22 DE SEPTIEMBRE DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
