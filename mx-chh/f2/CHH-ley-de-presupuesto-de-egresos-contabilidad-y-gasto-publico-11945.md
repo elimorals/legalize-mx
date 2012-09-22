@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-presupuesto-de-egresos-contabilidad-y-gasto-publico-1194
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-14"
-last_updated: "2011-12-28"
+last_updated: "2012-09-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE PRESUPUESTO DE EGRESOS, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 14 de diciembre de 1996.
 
@@ -293,7 +293,11 @@ El gasto público se basará en presupuestos que se formularán con apoyo en pro
 
 Las dependencias y los organismos elaborarán sus anteproyectos de presupuesto y los presentarán a la Secretaría a más tardar el día 15 de octubre del año inmediato anterior al que corresponda, con base en sus programas operativos anuales, ajustándose a las normas, montos y plazos que el Gobernador del Estado establezca por conducto de la Secretaría.
 
-Los Poderes Legislativo y Judicial formularán sus propios proyectos de presupuesto ajustándose a su techo financiero, según las disponibilidades de recursos del Estado, y los remitirán al Titular del Ejecutivo, por conducto de la Secretaría, para que se incorporen sus programas sin modificación alguna al proyecto de Presupuesto de Egresos del Estado, dentro de la fecha límite a que se refiere el párrafo anterior.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
+
+Los Poderes Legislativo y Judicial, así como los organismos públicos autónomos, formularán sus propios proyectos de presupuesto ajustándose a su techo financiero, según las disponibilidades de recursos del Estado, y los remitirán al Titular del Ejecutivo, por conducto de la Secretaría, para que se incorporen sus programas sin modificación alguna al proyecto de Presupuesto de Egresos del Estado, dentro de la fecha límite a que se refiere el párrafo anterior.
 
 ###### ARTICULO 27.
 
@@ -1174,3 +1178,49 @@ P.O. 28 DE DICIEMBRE DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE SEPTIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de las Iniciativas y de los Debates del Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado. Realizado que sea, publíquese en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Por lo que hace a la reforma constitucional contenida en el Artículo Primero del presente Decreto, ésta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado. Las reformas, adiciones y derogaciones a la Ley de la Comisión Estatal de los Derechos Humanos, contenidas en el Articulo Segundo del presente Decreto; las reformas contenidas en el Artículo Tercero, a la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público del Estado; así como las establecidas en el Artículo Cuarto, concernientes a la Ley de Entidades Paraestatales del Estado de Chihuahua, surtirán vigencia un día después de que lo haga la reforma constitucional señalada.
+
+###### ARTÍCULO TERCERO.
+
+El Presidente actual de la Comisión Estatal de los Derechos Humanos cumplirá el periodo por el que fue designado y, previo a dicho vencimiento, el Congreso deberá realizar la designación de nuevo Presidente, el cual entrará en funciones el 15 de abril de 2014.
+
+###### ARTÍCULO CUARTO.
+
+El resto de los consejeros actuales continuarán en ejercicio de sus funciones, incluso si el periodo por el que fueron designados ha vencido o está por vencerse, hasta la misma fecha en que culmine el periodo del actual Presidente y no podrán ser reelectos. Previo a dicho vencimiento, el Congreso del Estado deberá iniciar el procedimiento a que se refiere el Artículo 4°, apartado D, de la Constitución local, a fin de designar a quienes deban sustituirlos.
+
+###### ARTÍCULO QUINTO.
+
+A efecto de estar en la posibilidad de renovar parcialmente a los integrantes del Consejo, con excepción de su Presidente, en los términos del artículo 17, segundo párrafo, de la Ley de la Comisión Estatal de los Derechos Humanos, serán designados por única vez de la siguiente manera:
+
+l. Dos por un período de 3 años;
+
+II. Dos por un periodo de 2 años; y
+
+III. Los restantes dos, por un período de 1 año.
+
+Todos los consejeros, en lo subsecuente, se designarán por períodos de 3 años.
+
+###### ARTÍCULO SEXTO.
+
+Los bienes muebles e inmuebles, derechos, recursos financieros y demás activos con los que opere el organismo descentralizado denominado Comisión Estatal de Derechos Humanos hasta el momento de la vigencia de las reformas legales incluidas en el presente Decreto, son transferidos en ese acto corno patrimonio del organismo público autónomo Comisión Estatal de los Derechos Humanos, en conjunto con los recursos presupuestales y financieros que la Secretaría de Hacienda le asigne.
+
+###### ARTÍCULO SÉPTIMO.
+
+El trámite de los asuntos iniciados con anterioridad a la entrada en vigor del presente Decreto ante el organismo descentralizado Comisión Estatal de Derechos Humanos, será continuado ante el organismo público autónomo Comisión Estatal de los Derechos Humanos.
+
+###### ARTÍCULO OCTAVO.
+
+Las funciones, facultades, derechos y obligaciones establecidas a cargo del organismo descentralizado Comisión Estatal de Derechos Humanos, en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades del Gobierno del Estado, con dependencias y entidades de la Federación y de los municipios, y con cualquier persona física o moral, serán asumidas por el organismo público autónomo Comisión Estatal de los Derechos Humanos.
+
+###### ARTÍCULO NOVENO.
+
+En todo caso, deberá asegurarse que de ninguna forma resulten afectados los derechos de los trabajadores del organismo, que hayan adquirido con base en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
