@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2012-09-01"
+last_updated: "2012-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2012.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -57,11 +57,27 @@ DE LOS DERECHOS FUNDAMENTALES.
 
 ### CAPITULO I.
 
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Art. 4o.
 
-En el Estado de Chihuahua, toda persona gozará de los derechos reconocidos en la Constitución Federal, los Tratados Internacionales en materia de derechos humanos, celebrados por el Estado Mexicano y en esta Constitución.
+En el Estado de Chihuahua, toda persona gozará de los derechos reconocidos en la Constitución Federal, los Tratados Internacionales en materia de derechos humanos, celebrados por el Estado Mexicano y en esta Constitución. El Estado cuenta con un órgano de protección de los derechos humanos denominado Comisión Estatal de los Derechos Humanos, con autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propios, con las siguientes atribuciones y organización:
+
+A. Conocerá de las quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público que tengan carácter estatal o municipal, que violen estos derechos. Este órgano no será competente tratándose de asuntos electorales y jurisdiccionales.
+
+B. Formulará recomendaciones públicas no vinculatorias, denuncias y quejas ante las autoridades respectivas. Todo servidor público está obligado a responder las recomendaciones que le presente la Comisión. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa; además, el Congreso del Estado o la Diputación Permanente, en su caso, podrá llamar, a solicitud de la Comisión, a las autoridades o servidores públicos responsables para que comparezcan ante el Pleno Legislativo, a efecto de que expliquen el motivo de su negativa.
+
+C. Aprobará, por medio del Consejo, las disposiciones normativas internas para su eficaz funcionamiento y ejercerá las demás atribuciones en materia de derechos humanos que establezca la ley.
+
+D. Tendrá un Consejo integrado por seis consejeros que deberán cumplir con los requisitos que establezca la ley para ocupar el cargo, mismos que serán elegidos por el voto de las dos terceras partes de los diputados presentes de la Legislatura. La ley determinará los procedimientos a seguir para la presentación de las propuestas respectivas ante el Pleno. Los consejeros durarán en su encargo tres años y anualmente serán sustituidos los dos consejeros de mayor antigüedad en el cargo, salvo que fuesen propuestos y reelectos para un segundo período.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
+
+El Presidente de la Comisión Estatal de los Derechos Humanos, quien lo será también del Consejo, será elegido en los mismos términos del párrafo anterior. Durará en su encargo cinco años, podrá ser reelecto por una sola vez y sólo podrá ser removido de sus funciones en los términos del Título XIII de esta Constitución.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
+
+El Presidente de la Comisión Estatal de los Derechos Humanos presentará anualmente a los poderes estatales un informe de actividades. Al efecto, comparecerá ante el Congreso del Estado en los términos que disponga la ley.
 
 > <small>(ADICIONADO, P.O. 16 DE MAYO DE 2007)</small>
 
@@ -1017,7 +1033,7 @@ E.- Para que, bajo las condiciones que el Congreso le imponga, represente al Est
 
 F.- Para que arme y ponga en servicio la Guardia Nacional.
 
-> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2011)</small>
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2011)</small>
 
 G.- Para que de conformidad con la ley de la materia, celebre contratos sobre proyectos de inversión pública a largo plazo. Las obligaciones derivadas de los citados proyectos de inversión no constituyen deuda pública.
 
@@ -1079,9 +1095,9 @@ En los casos de nulidad de elecciones y en los demás a que se refieren este inc
 
 Si alguno de los miembros dejare de desempeñar su cargo, será sustituido por su suplente, o se procederá según lo disponga el Código Municipal.
 
-> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
 
-XVI.- Recibir la protesta legal del gobernador, de los diputados; de los magistrados del Supremo Tribunal de Justicia, del Fiscal General del Estado, del Tribunal Estatal Electoral y del Tribunal de lo Contencioso Administrativo; del consejero presidente y de los consejeros electorales del Instituto Estatal Electoral; así como de los consejeros del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública.
+XVI.- Recibir la protesta legal del Gobernador, de los Diputados; de los Magistrados del Supremo Tribunal de Justicia, del Fiscal General del Estado; de los Magistrados del Tribunal Estatal Electoral y del Tribunal de lo Contencioso Administrativo; del Consejero Presidente y de los Consejeros Electorales del Instituto Estatal Electoral; del Presidente y demás integrantes del Consejo de la Comisión Estatal de los Derechos Humanos, así como de los Consejeros del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública;
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -1119,9 +1135,9 @@ XXV.- Conceder amnistía por delitos cuyo conocimiento corresponda a los Tribuna
 
 XXVI.- Instituir el Tribunal de lo Contencioso Administrativo dotado de plena autonomía para dictar sus fallos, que tendrá a su cargo dirimir las controversias que se susciten entre la administración pública estatal o municipal y los particulares, estableciendo las normas para su organización, funcionamiento, el procedimiento y los recursos contra sus resoluciones.
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
 
-XXVII.- Designar y, en su caso, remover por causas graves, al Presidente de la Comisión Estatal de Derechos Humanos y recibirle la protesta de ley. El Congreso ratificará, a propuesta del Presidente de la Comisión, los nombramientos de los demás integrantes del órgano de dirección, en los términos de la ley respectiva.
+XXVII. Designar al Presidente y a los demás integrantes del Consejo de la Comisión Estatal de los Derechos Humanos, por el voto de las dos terceras partes de los miembros presentes de la Legislatura, mediante ternas propuestas por la Junta de Coordinación Parlamentaria, previa consulta pública realizada en los términos de la Ley. Así mismo, removerlos en los términos del Título XIII de esta Constitución;
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -2741,11 +2757,11 @@ Si el Congreso dejare de aprobar, en los términos de esta Constitución, las le
 
 Los Poderes Legislativo, incluida la Auditoría Superior del Estado, y Ejecutivo del Estado, este último, tanto en la administración pública centralizada como en la paraestatal; los organismos públicos autónomos y los ayuntamientos, incluyendo las dependencias de la administración pública municipal centralizada y paraestatal y la sindicatura, deberán entregar antes del término de su función, a las autoridades entrantes, la documentación e información necesaria que permita conocer el ejercicio y funcionamiento de dicho encargo. La legislación regulará el proceso de entrega-recepción de las diferentes dependencias.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 10 DE SEPTIEMBRE DE 2005.)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Art. 166.
 
-El Supremo Tribunal de Justicia, el Tribunal Estatal Electoral, el Instituto Estatal Electoral y el Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública, por conducto de sus respectivos presidentes, comunicarán oportunamente al Ejecutivo el proyecto de presupuesto de egresos para cada año fiscal, a fin de que sin modificación alguna lo presente al Congreso.
+El Supremo Tribunal de Justicia, el Tribunal Estatal Electoral, el Instituto Estatal Electoral, el Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública y la Comisión Estatal de los Derechos Humanos, por conducto de sus respectivos presidentes, comunicarán oportunamente al Poder Ejecutivo el proyecto de presupuesto de egresos para cada año fiscal a fin de que, sin modificación alguna, lo presente al Congreso.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -3795,6 +3811,20 @@ Conforme lo dispone el artículo 202 de la Constitución Política del Estado, e
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
+P.O. 11 DE AGOSTO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de las Iniciativas, del Dictamen y de los Debates del H. Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución Política local. Realizado que sea, publíquese en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente Decreto, deberán realizarse las adecuaciones a la legislación reglamentaria, de conformidad al derecho a la autonomía y al consentimiento libre, previo e informado.
+
 P.O. 1 DE SEPTIEMBRE DE 2012.
 
 ###### ARTÍCULO PRIMERO.
@@ -3805,16 +3835,48 @@ En cumplimiento a lo establecido por el artículo 202 de la Constitución Polít
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-P.O. 11 DE AGOSTO DE 2012.
-
-###### ARTÍCULO TERCERO.
-
-A partir de la entrada en vigor del presente Decreto, deberán realizarse las adecuaciones a la legislación reglamentaria, de conformidad al derecho a la autonomía y al consentimiento libre, previo e informado.
+P.O. 22 DE SEPTIEMBRE DE 2012.
 
 ###### ARTÍCULO PRIMERO.
 
-Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de las Iniciativas, del Dictamen y de los Debates del H. Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución Política local. Realizado que sea, publíquese en el Periódico Oficial del Estado.
+Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de las Iniciativas y de los Debates del Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado. Realizado que sea, publíquese en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO SEGUNDO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+Por lo que hace a la reforma constitucional contenida en el Artículo Primero del presente Decreto, ésta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado. Las reformas, adiciones y derogaciones a la Ley de la Comisión Estatal de los Derechos Humanos, contenidas en el Artículo Segundo del presente Decreto; las reformas contenidas en el Artículo Tercero, a la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público del Estado; así como las establecidas en el Artículo Cuarto, concernientes a la Ley de Entidades Paraestatales del Estado de Chihuahua, surtirán vigencia un día después de que lo haga la reforma constitucional señalada.
+
+###### ARTÍCULO TERCERO.
+
+El Presidente actual de la Comisión Estatal de los Derechos Humanos cumplirá el período por el que fue designado y, previo a dicho vencimiento, el Congreso deberá realizar la designación de nuevo Presidente, el cual entrará en funciones el 15 de abril de 2014.
+
+###### ARTÍCULO CUARTO.
+
+El resto de los consejeros actuales continuarán en ejercicio de sus funciones, incluso si el periodo por el que fueron designados ha vencido o está por vencerse, hasta la misma fecha en que culmine el periodo del actual Presidente y no podrán ser reelectos. Previo a dicho vencimiento, el Congreso del Estado deberá iniciar el procedimiento a que se refiere el Artículo 4°, apartado D, de la Constitución local, a fin de designar a quienes deban sustituirlos.
+
+###### ARTÍCULO QUINTO.
+
+A efecto de estar en la posibilidad de renovar parcialmente a los integrantes del Consejo, con excepción de su Presidente, en los términos del artículo 17, segundo párrafo, de la Ley de la Comisión Estatal de los Derechos Humanos, serán designados por única vez de la siguiente manera:
+
+I. Dos por un período de 3 años;
+
+II. Dos por un periodo de 2 años; y
+
+III. Los restantes dos, por un período de 1 año.
+
+Todos los consejeros, en lo subsecuente, se designarán por períodos de 3 años.
+
+###### ARTÍCULO SEXTO.
+
+Los bienes muebles e inmuebles, derechos, recursos financieros y demás activos con los que opere el organismo descentralizado denominado Comisión Estatal de Derechos Humanos hasta el momento de la vigencia de las reformas legales incluidas en el presente Decreto, son transferidos en ese acto como patrimonio del organismo público autónomo Comisión Estatal de los Derechos Humanos, en conjunto con los recursos presupuestales y financieros que la Secretaría de Hacienda le asigne.
+
+###### ARTÍCULO SÉPTIMO.
+
+El trámite de los asuntos iniciados con anterioridad a la entrada en vigor del presente Decreto ante el organismo descentralizado Comisión Estatal de Derechos Humanos, será continuado ante el organismo público autónomo Comisión Estatal de los Derechos Humanos.
+
+###### ARTÍCULO OCTAVO.
+
+Las funciones, facultades, derechos y obligaciones establecidas a cargo del organismo descentralizado Comisión Estatal de Derechos Humanos, en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades del Gobierno del Estado, con dependencias y entidades de la Federación y de los municipios, y con cualquier persona física o moral, serán asumidas por el organismo público autónomo Comisión Estatal de los Derechos Humanos.
+
+###### ARTÍCULO NOVENO.
+
+En todo caso, deberá asegurarse que de ninguna forma resulten afectados los derechos de los trabajadores del organismo, que hayan adquirido con base en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
