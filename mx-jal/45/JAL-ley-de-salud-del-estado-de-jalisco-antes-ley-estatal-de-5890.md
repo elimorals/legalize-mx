@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-antes-ley-estatal-de-5890"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-30"
-last_updated: "2011-12-27"
+last_updated: "2012-09-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5890&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # LEY DE SALUD DEL ESTADO DE JALISCO - ANTES LEY ESTATAL DE SALUD-
 
-LEY ESTATAL DE SALUD
+LEY ESTATAL DE SALUD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 30 de diciembre de 1986.
 
@@ -879,79 +879,83 @@ Para la mayor eficacia de las acciones preventivas y de control de accidentes, c
 
 Dicho Consejo se coordinará con el Consejo Nacional para la Prevención de Accidentes, dentro del marco de los sistemas nacional y estatal de salud.
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 24 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
 
-#### SECCION CUARTA. De las Enfermedades de la Mujer
+#### SECCION CUARTA. De la atención integral de la salud de la mujer
 
-> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
 
-Art. 59 A.- Es de interés general la prevención y control de las enfermedades graves de la mujer.
+###### Art. 59-A.
 
-> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2004)</small>
+Es interés del Estado otorgar a las mujeres una atención integral a la salud bajo los principios de accesibilidad, calidad y disponibilidad.
 
-Art. 59 B.- Son enfermedades graves de la mujer el cáncer cérvico uterino y el cáncer de mama.
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
 
-> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2004)</small>
+###### Art. 59-B.
 
-Art. 59 C.- Las autoridades sanitarias estatales en coordinación con el Sistema Nacional de Salud ejecutarán un programa permanente que comprenderá estrategias de prevención y tratamiento de las enfermedades graves de la mujer.
+Las autoridades estatales sanitarias utilizarán las herramientas educativas y de promoción necesarias a fin de diseñar y establecer programas de prevención y de control para otorgar un servicio integral de salud a la mujer.
 
-> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
 
-Art. 59 D.- Son estrategias de prevención, la educación y la divulgación del uso obligatorio de la Cartilla Nacional de Salud de la Mujer.
+###### Art. 59-C.
 
-> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2004)</small>
+La atención integral a la salud de la mujer, como política pública imperante en el estado, se enfocará prioritariamente en aquellas regiones y zonas sanitarias que por sus condiciones requieran una especial atención.
 
-Art. 59 E.- El Programa Permanente de Prevención y Tratamiento de las Enfermedades Graves de la Mujer deberá desarrollar, entre otras, las siguientes acciones:
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
 
-I. Difundir las consecuencias de la promiscuidad sexual;
+###### Art. 59-D.
 
-II. Dar a conocer las conveniencias del sexo seguro;
+La Secretaría de Salud, y los organismos públicos descentralizados y desconcentrados, en coordinación con el sector público federal y el privado, realizarán anualmente el Programa de Atención Integral de la Mujer.
 
-III. Advertir de los riesgos que conlleva la práctica de relaciones sexuales tempranas;
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
 
-IV. Informar de los riesgos de contagio por relaciones sexuales con persona que haya tenido diversa pareja sexual;
+###### Art. 59-E.
 
-V. Difundir las conveniencias de realizarse periódicamente las pruebas para la prevención del cáncer cérvico uterino, tales como colposcopía, papanicolau o cualquier otra que autorice el sector salud;
+El Programa de Atención Integral de la Mujer es el instrumento rector que regula las acciones en torno a la atención de los problemas de salud específicos de la mujer, mismo que deberá contener los siguientes apartados:
 
-VI. Difundir las conveniencias de realizar periódicamente el examen clínico de mama;
+I. El diagnóstico situacional de las necesidades en materia de salud de las mujeres en el estado;
 
-VII. Divulgar los lugares de servicio gratuito para la práctica de los exámenes señalados en las fracciones V y VI;
+II. El análisis integral que contenga las estadísticas respecto de las enfermedades que más inciden en la salud de la mujer, y
 
-VIII. Capacitar a los prestadores de servicios de salud de los sectores público, social y privado en la toma de muestras para la prevención del cáncer cérvico uterino y la interpretación de las mismas a través del sistema de Bethesda, o cualquier otro que autorice el sector salud;
+III. Un plan de trabajo que establezca acciones, plazos y zonas de competencia para el cumplimiento de los objetivos del Programa de Atención Integral a la Salud de la Mujer.
 
-IX. Capacitar a los prestadores de servicios de salud para la orientación de sus pacientes respecto a la detección temprana de los cánceres cérvico uterino y de mama, y el luso de la Cartilla Nacional de Salud de la Mujer;
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
 
-X. Difundir entre la población escolar las medidas de prevención de los cánceres cérvico uterino y de mama; y
+###### Art. 59-F.
 
-XI. Difundir las normas oficiales mexicanas para la Prevención, Tratamiento y Control de Cáncer del Cuello del Útero y de Mama en la atención primaria y vigilar su cumplimiento dentro de su esfera de competencia.
+La Secretaría de Salud dispondrá la publicación y difusión del Programa de Atención Integral de la Mujer y sus resultados, para su debida observancia por el Sector Salud y la población en general.
 
-> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
 
-Art. 59 F.- La divulgación del uso obligatorio de la Cartilla Nacional de Salud de la Mujer será dirigida especialmente a mujeres adolescentes, obreras y campesinas, a través de métodos individuales, sociales o de comunicación masiva.
+###### Art. 59-G.
 
-La educación para la prevención de las enfermedades graves de la mujer deberá contener mensajes dirigidos especialmente a los jóvenes varones respecto a las consecuencias de la sexualidad responsable en la salud de la mujer.
-
-> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2004)</small>
-
-Art. 59 G.- La coordinación de las acciones y programas para la prevención y control de las enfermedades graves de la mujer correrán por cuenta del titular de la Secretaría de Salud Jalisco.
+La inobservancia o incumplimiento de las disposiciones contenidas en esta ley se sancionará conforme lo establezcan la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco o las leyes especiales.
 
 > <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2004)</small>
 
-Art. 59 H.- La Secretaría de Salud Jalisco vigilará dentro de su competencia que las muestras para la detección del Cáncer Cérvico Uterino sean tomadas preferentemente por personal femenino e interpretadas por médicos capacitados.
+###### Art. 59-H.
+
+La Secretaría de Salud Jalisco vigilará dentro de su competencia que las muestras para la detección del Cáncer Cérvico Uterino sean tomadas preferentemente por personal femenino e interpretadas por médicos capacitados.
 
 > <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2004)</small>
 
-Art. 59 I.- Para la aplicación de exámenes preventivos la Secretaría de Salud Jalisco impulsará que en cada región sanitaria exista cuando menos una clínica debidamente acondicionada con recursos humanos y materiales para la detección y tratamiento temprano del cáncer cérvico uterino y de mama.
+###### Art. 59-I.
+
+Para la aplicación de exámenes preventivos la Secretaría de Salud Jalisco impulsará que en cada región sanitaria exista cuando menos una clínica debidamente acondicionada con recursos humanos y materiales para la detección y tratamiento temprano del cáncer cérvico uterino y de mama.
 
 En la instalación de clínicas para la mujer se dará preferencia a aquellos lugares donde habiten sectores de más bajos recursos económicos.
 
 > <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2004)</small>
 
-Art. 59 J.- En los lugares donde no existan unidades clínicas del sector público o social, las autoridades de salud estatales realizarán convenios de colaboración con los ayuntamientos, clínicas particulares o patrocinadores del sector privado, para que se realice el servicio gratuito de exámenes para la detección de cáncer cérvico uterino y cáncer de mama, a la población de bajos recursos económicos.
+###### Art. 59-J.
+
+En los lugares donde no existan unidades clínicas del sector público o social, las autoridades de salud estatales realizarán convenios de colaboración con los ayuntamientos, clínicas particulares o patrocinadores del sector privado, para que se realice el servicio gratuito de exámenes para la detección de cáncer cérvico uterino y cáncer de mama, a la población de bajos recursos económicos.
 
 > <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2004)</small>
 
-Art. 59 K.- Los prestadores de los servicios de salud del sector público, social y privado deberán solicitar a las mujeres, cada vez que acudan a un servicio de salud, la presentación de la Cartilla Nacional de Salud de la Mujer, y en caso de que no la tengan, tendrán la obligación de entregársela y llenar los datos generales que ahí se indican.
+###### Art. 59-K.
+
+Los prestadores de los servicios de salud del sector público, social y privado deberán solicitar a las mujeres, cada vez que acudan a un servicio de salud, la presentación de la Cartilla Nacional de Salud de la Mujer, y en caso de que no la tengan, tendrán la obligación de entregársela y llenar los datos generales que ahí se indican.
 
 ### CAPITULO IV. De la atención médica
 
@@ -1571,9 +1575,17 @@ Para los efectos de esta Ley, se considera usuario de los servicios de salud, a 
 
 La prestación de los servicios de atención médica, deberá respetar en todo momento los derechos de los usuarios.
 
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Art. 93.
 
-Los usuarios tienen derecho a obtener servicios de salud con oportunidad y a recibir atención profesional y éticamente responsable.
+Los usuarios tienen derecho a:
+
+I. Obtener servicios de salud con oportunidad y a recibir atención profesional y éticamente responsable;
+
+II. Recibir información suficiente, clara, oportuna y veraz, así como la orientación que sea necesaria respecto a la atención de su salud y sobre los riesgos y alternativas de los procedimientos diagnósticos, terapéuticos y quirúrgicos que se le indiquen o apliquen, y
+
+III. Otorgar o no su consentimiento válidamente informado y a rechazar tratamientos o procedimientos.
 
 ###### Art. 94.
 
@@ -3794,3 +3806,17 @@ P.O. 5 DE MAYO DE 2011.
 P.O. 27 DE DICIEMBRE DE 2011.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 22 DE SEPTIEMBRE DE 2012.
+
+DECRETO NÚMERO 24087/LIX/12 POR LO QUE SE SE REFORMA EL ARTÍCULO 93 DE LA LEY ESTATAL DE SALUD.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 22 DE SEPTIEMBRE DE 2012.
+
+DECRETO NÚMERO 24098/LIX/12 POR LO QUE SE REFORMAN LA DENOMINACIÓN DE LA SECCIÓN CUARTA, DEL CAPÍTULO III, DEL TÍTULO TERCERO Y LOS ARTÍCULOS 59-A, 59-B, 59-C, 59-0, 59-E, 59-F Y 59-G, TODOS DE LA LEY ESTATAL DE SALUD.
+
+PRIMERO. El presente decreto entrará en vigor al siguiente día de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. El Poder Ejecutivo tendrá un plazo de treinta días naturales, contados a partir de aquél en que entre en vigor el presente decreto, para realizar las modificaciones reglamentarias correspondientes a efecto de que las autoridades sanitarias estatales cumplan con las obligaciones contenidas en este decreto.
