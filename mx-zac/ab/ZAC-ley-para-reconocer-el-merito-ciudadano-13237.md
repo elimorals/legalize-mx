@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-reconocer-el-merito-ciudadano-13237"
 country: "mx"
 rank: "ley"
 publication_date: "1991-12-04"
-last_updated: "2009-01-21"
+last_updated: "2012-09-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13237&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ZAC"
 ---
 # LEY PARA RECONOCER EL MERITO CIUDADANO
 
-LEY PARA RECONOCER EL MERITO CIUDADANO
+LEY PARA RECONOCER EL MÉRITO CIUDADANO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ENERO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el miércoles 4 de diciembre de 1991
 
@@ -83,7 +83,9 @@ I. Condecoración "Zacatecas";
 
 II. Premio Estatal al Mérito Cívico;
 
-III. Premio Estatal de Ciencias;
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
+
+III. Premio Estatal de Ciencia, Tecnología e Innovación y Premio Estatal “José Árbol y Bonilla” al Talento Joven Científico, Tecnológico o de Innovación;
 
 IV. Premio Estatal de Artes;
 
@@ -143,23 +145,23 @@ El Consejo podrá proponer al gobernador del Estado que la presea se acompañe d
 
 ### CAPITULO V. PREMIO ESTATAL DE CIENCIAS
 
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTICULO 15.
 
-El Premio Estatal de Ciencias se otorgará a quienes por sus acciones, por sus producciones o trabajos docentes, de investigación, o de divulgación hayan contribuido a enriquecer el acervo científico o tecnológico del País o del Estado, en el campo de las ciencias y la tecnología en todas sus ramas.
+En lo que se refiere al Premio Estatal de Ciencia, Tecnología e Innovación y Premio Estatal "José Árbol y Bonilla" al Talento Joven Científico, Tecnológico o de Innovación, se estará a lo que disponga la Ley de Ciencia, Tecnología e Innovación del Estado de Zacatecas.
 
 ###### ARTICULO 16.
 
-Este premio se tramitará en la Secretaría General de Gobierno cuyo titular será el Presidente del Consejo de Premiación; estará integrado además, por un representante de la H. Legislatura del Estado, Secretario de Educación, Rectores y Directores de Instituciones de Educación Superior.
-
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 1998)</small>
+(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2012)
 
 ###### ARTICULO 17.
 
-La presea consistirá en una medalla de plata, en cuyo anverso llevará grabado el rostro de Francisco García Salinas y la leyenda "Honor y Reconocimiento"; en el reverso el Escudo de Armas de la Ciudad Capital del Estado y la leyenda "El Trabajo Todo lo Vence", pendiente de un collar de seda color azul.
+(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2012)
 
 ###### ARTICULO 18.
 
-El Consejo podrá proponer al Gobierno del Estado que las preseas se acompañen de entrega de numerario o en especie.
+(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2012)
 
 ### CAPITULO VI. PREMIO ESTATAL DE ARTES
 
@@ -223,7 +225,7 @@ El Premio consistirá en una medalla de Plata cuyo anverso ostentará grabado el
 
 El Consejo de premiación podrá proponer al Gobernador del Estado, que el premio se acompañe de entrega de numerario o especie.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE ENERO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE ENERO DE 2009)</small>
 
 ### CAPITULO IX. PREMIO ESTATAL DEL DEPORTE Y PREMIO A LA CALIDAD E INNOVACION ARTESANAL
 
@@ -409,7 +411,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. ROGELIO HERNANDEZ QUINTERO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 8 DE ABRIL DE 1998
 
@@ -420,3 +422,13 @@ P.O. 21 DE ENERO DE 2009.
 Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo.- Se derogan todas las disposiciones que contravengan este Decreto.
+
+P.O. 22 DE SEPTIEMBRE DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al contenido del presente instrumento legislativo.
+
+TERCERO.- Dentro de los treinta días naturales posteriores el inicio de vigencia del presente Decreto, el Consejo de Premiación deberá emitir el Reglamento a que se refiere el artículo 80 de este instrumento normativo.
+
+CUARTO.- La Legislatura del Estado deberá realizar las previsiones correspondientes, en los Presupuestos de Egresos del Estado, para el otorgamiento de los premios a que se refiere este Decreto.
