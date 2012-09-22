@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-entidades-paraestatales-del-estado-de-chihuahua-11578"
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-28"
-last_updated: "2012-03-31"
+last_updated: "2012-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 28 de enero de 1998.
 
@@ -59,15 +59,15 @@ El Ejecutivo del Estado deberá acompañar a la cuenta pública anual los estado
 
 Son entidades paraestatales las que con tal carácter determina la Ley Orgánica del Poder Ejecutivo del Estado de Chihuahua.
 
-###### Artículo 3º.
+###### Artículo 3°.
 
 Las universidades y demás instituciones de educación superior a las que la ley otorgue autonomía, se regirán por sus leyes específicas.
 
-La Comisión Estatal de Derechos Humanos y el Consejo Estatal de Elecciones, atendiendo a sus objetivos y a la naturaleza de sus funciones, quedan excluidos de la observancia del presente ordenamiento.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE JULIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
 
-Así mismo, quedan excluidos de la observancia de esta ley los organismos descentralizados de los Poderes legislativo y Judicial.
+Quedan excluidos de la observancia de esta ley los organismos descentralizados de los Poderes Legislativo y Judicial.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE JULIO DE 2010)</small>
 
@@ -822,3 +822,49 @@ La Junta Central, así como las juntas municipales y rurales, no se verán afect
 ###### ARTÍCULO CUARTO.
 
 El Ejecutivo del Estado dispone de hasta 180 días contados a partir de la entrada en vigor de la presente Ley, para expedir el Reglamento correspondiente.
+
+P.O. 22 DE SEPTIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de las Iniciativas y de los Debates del Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado. Realizado que sea, publíquese en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Por lo que hace a la reforma constitucional contenida en el Artículo Primero del presente Decreto, ésta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado. Las reformas, adiciones y derogaciones a la Ley de la Comisión Estatal de los Derechos Humanos, contenidas en el Artículo Segundo del presente Decreto; las reformas contenidas en el Artículo Tercero, a la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público del Estado; así como las establecidas en el Artículo Cuarto, concernientes a la Ley de Entidades Paraestatales del Estado de Chihuahua, surtirán vigencia un día después de que lo haga la reforma constitucional señalada.
+
+###### ARTÍCULO TERCERO.
+
+El Presidente actual de la Comisión Estatal de los Derechos Humanos cumplirá el periodo por el que fue designado y, previo a dicho vencimiento, el Congreso deberá realizar la designación de nuevo Presidente, el cual entrará en funciones el 15 de abril de 2014.
+
+###### ARTÍCULO CUARTO.
+
+El resto de los consejeros actuales continuarán en ejercicio de sus funciones, incluso si el periodo por el que fueron designados ha vencido o está por vencerse, hasta la misma fecha en que culmine el periodo del actual Presidente y no podrán ser reelectos. Previo a dicho vencimiento, el Congreso del Estado deberá iniciar el procedimiento a que se refiere el Artículo 4°, apartado D, de la Constitución local, a fin de designar a quienes deban sustituirlos.
+
+###### ARTÍCULO QUINTO.
+
+A efecto de estar en la posibilidad de renovar parcialmente a los integrantes del Consejo, con excepción de su Presidente, en los términos del artículo 17, segundo párrafo, de la Ley de la Comisión Estatal de los Derechos Humanos, serán designados por única vez de la siguiente manera:
+
+I. Dos por un período de 3 años;
+
+II. Dos por un periodo de 2 años; y
+
+III. Los restantes dos, por un período de 1 año.
+
+Todos los consejeros, en lo subsecuente, se designarán por períodos de 3 años.
+
+###### ARTÍCULO SEXTO.
+
+Los bienes muebles e inmuebles, derechos, recursos financieros y demás activos con los que opere el organismo descentralizado denominado Comisión Estatal de Derechos Humanos hasta el momento de la vigencia de las reformas legales incluidas en el presente Decreto, son transferidos en ese acto como patrimonio del organismo público autónomo Comisión Estatal de los Derechos Humanos, en conjunto con los recursos presupuestales y financieros que la Secretaría de Hacienda le asigne.
+
+###### ARTÍCULO SÉPTIMO.
+
+El trámite de los asuntos iniciados con anterioridad a la entrada en vigor del presente Decreto ante el organismo descentralizado Comisión Estatal de Derechos Humanos, será continuado ante el organismo público autónomo Comisión Estatal de los Derechos Humanos.
+
+###### ARTÍCULO OCTAVO.
+
+Las funciones, facultades, derechos y obligaciones establecidas a cargo del organismo descentralizado Comisión Estatal de Derechos Humanos, en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades del Gobierno del Estado, con dependencias y entidades de la Federación y de los municipios, y con cualquier persona física o moral, serán asumidas por el organismo público autónomo Comisión Estatal de los Derechos Humanos.
+
+###### ARTÍCULO NOVENO.
+
+En todo caso, deberá asegurarse que de ninguna forma resulten afectados los derechos de los trabajadores del organismo, que hayan adquirido con base en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
