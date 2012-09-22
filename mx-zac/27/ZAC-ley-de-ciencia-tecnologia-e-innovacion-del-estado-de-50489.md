@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-ciencia-tecnologia-e-innovacion-del-estado-de-50489"
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-13"
-last_updated: "2010-08-21"
+last_updated: "2012-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50489&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 13 de mayo de 2006.
 
@@ -1555,39 +1555,79 @@ Podrán formar parte del Sistema Estatal de Investigadores e Investigadoras, qui
 
 El COZCYT será el encargado de instaurar, desarrollar y administrar el Sistema Estatal de Investigadores e Investigadoras y evaluar su funcionamiento, garantizando en todo momento legalidad y equidad, y propiciando la participación de reconocidos integrantes de la comunidad científica nacional y local y de los sectores público, social y privado.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
 
-### CAPÍTULO II. Reconocimiento al Mérito Estatal de Investigación Científica y Tecnológica y la Innovación
+### CAPÍTULO II. Premio Estatal de Ciencia, Tecnología e Innovación y Premio Estatal "José Árbol y Bonilla" al Talento Joven Científico, Tecnológico o de Innovación
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 72.
 
-El Gobierno del Estado, deberá reconocer el mérito estatal de investigación a la labor científica y tecnológica destacada, con el objeto de estimular, promoverla y difundirla.
+El Gobierno del Estado reconocerá el mérito estatal de investigación en la labor científica, tecnológica y de innovación con el objeto de estimularla, promoverla y difundirla.
 
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2010)</small>
+Para tal efecto otorgará el Premio Estatal de Ciencia, Tecnología e Innovación y el Premio Estatal "José Árbol y Bonilla" al Talento Joven Científico, Tecnológico o de Innovación.
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 73.
 
-Dicho reconocimiento se hará a los científicos, tecnólogos e innovadores que laboren como tales en la entidad, así como a los que radiquen en ella, cuya obra en estos campos se haga acreedora a tal distinción, mediante su ingreso al Sistema Nacional de Investigadores o al acceso a un nivel superior dentro del mismo.
+Podrán ser acreedores al Premio Estatal de Ciencia, Tecnología e Innovación a que se refiere el artículo anterior los científicos, tecnólogos o innovadores que sean originarios del Estado de Zacatecas o tengan, al menos, cinco años de residencia efectiva en el territorio del mismo anteriores al día de su elección y cuya obra, en el ámbito de la ciencia, la tecnología o la innovación, se haga acreedora a tal distinción.
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 74.
 
-El reconocimiento consistirá en una medalla otorgada por la Legislatura del Estado y por los estimulas que otorgue el Ejecutivo del Estado a través del COZCYT, mismos que serán entregados anualmente.
+El reconocimiento consistirá en una medalla otorgada por la Legislatura del Estado, un pergamino en el que se haga constar dicho reconocimiento, un premio en efectivo por la cantidad equivalente a cincuenta cuotas de salario mínimo mensual vigente en el Estado y las actividades tendientes a la producción o difusión del trabajo científico, invento, tecnología o innovación, en la medida que lo permita el presupuesto.
 
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 75.
 
-El Gobierno del Estado también reconocerá a los nuevos valores destacados en los temas de ciencia, tecnología e innovación mediante el premio "José Árbol y Bonilla" al Talento Joven Científico.
+Mediante el Premio Estatal "José Árbol y Bonilla" al Talento Joven Científico, Tecnológico o de Innovación, el Gobierno del Estado reconocerá a los nuevos valores destacados en los temas de ciencia, tecnología e innovación.
 
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 76.
 
-Este reconocimiento se hará a las y los jóvenes zacatecanos que destaquen en los primeros lugares de las competencias de ciencias a niveles nacionales, iberoamericanas, latinoamericanas o internacionales.
+Este reconocimiento se hará a los jóvenes originarios del Estado de Zacatecas o que tengan, al menos, una residencia efectiva de tres años anteriores al día de la elección como ganadores del premio y que destaquen en los primeros lugares de las competencias de ciencia, tecnología e innovación a niveles nacional, latinoamericano, iberoamericano o internacional.
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 77.
 
-El reconocimiento consistirá en una medalla otorgada por la Legislatura y por los estimulas que otorgue el Ejecutivo del Estado a través de COZCYT, mismos que serán entregados anualmente, durante los eventos de la Semana Nacional de Ciencia y Tecnología.
+El reconocimiento consistirá en una medalla otorgada por la Legislatura del Estado, un pergamino en el que se haga constar dicho reconocimiento, un premio en efectivo por la cantidad equivalente a treinta cuotas de salario mínimo mensual vigente en el Estado y las actividades tendientes a la producción o difusión del trabajo científico, invento, tecnología o innovación, en la medida que lo permita el presupuesto.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 78.
+
+Los premios a que se refiere este Capítulo serán entregados anualmente, durante los eventos de la Semana Nacional de Ciencia, Tecnología e Innovación; previo dictamen favorable de, al menos, la mayoría de los integrantes del Consejo de Premiación.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 79.
+
+El Consejo de Premiación a que se refiere el artículo anterior se integrará de la manera siguiente:
+
+I. El diputado Presidente de la Comisión de Ciencia y Tecnología de la Legislatura del Estado, quien lo presidirá.
+
+II. El Secretario de Educación y Cultura del Gobierno del Estado como Vocal.
+
+III. El Rector de la Universidad Autónoma de Zacatecas como vocal.
+
+IV. Un representante de las instituciones privadas de educación superior en el Estado como vocal.
+
+V. Los integrantes del Consejo Asesor del Consejo Zacatecano de Ciencia, Tecnología e Innovación como vocales, y
+
+VI. El Director General del Consejo Zacatecano de Ciencia, Tecnología e Innovación quien fungirá como Secretario Ejecutivo.
+
+Cada integrante del Consejo comunicará, al mismo, quien fungirá como su suplente.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 80.
+
+La organización y funcionamiento del Consejo de Premiación, así como el procedimiento para la elección de los ganadores de los premios antes referidos, se establecerán en el reglamento correspondiente.
 
 ## TRANSITORIOS
 
@@ -1628,3 +1668,13 @@ Quinto. La Junta Directiva deberá realizar y aprobar las modificaciones que cor
 Sexto. En un plazo no mayor a seis meses de la entrada en vigor del presente Decreto, deberá constituirse el Comité Intersectorial de Innovación conforme a lo establecido en los artículos 14, fracción V, 25 bis, 25 ter y 25 quáter de esta Ley y emitirse el reglamento respectivo.
 
 Séptimo. En un plazo no mayor a seis meses de la entrada en vigor de la presente Ley, las instituciones de educación pública superior de la entidad deberán haber creado las unidades de vinculación a las que se refiere el artículo 54 bis de la misma.
+
+P.O. 22 DE SEPTIEMBRE DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al contenido del presente instrumento legislativo.
+
+TERCERO.- Dentro de los treinta días naturales posteriores el (sic) inicio de vigencia del presente Decreto, el Consejo de Premiación deberá emitir el Reglamento a que se refiere el artículo 80 de este instrumento normativo.
+
+CUARTO.- La Legislatura del Estado deberá realizar las previsiones correspondientes, en los Presupuestos de Egresos del Estado, para el otorgamiento de los premios a que se refiere este Decreto.
