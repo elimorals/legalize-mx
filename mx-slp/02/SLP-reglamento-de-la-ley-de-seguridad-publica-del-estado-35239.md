@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-de-la-ley-de-seguridad-publica-del-estado-35239"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-07"
-last_updated: "2005-06-18"
+last_updated: "2012-09-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35239&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 REGLAMENTO DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADO EN EL P.O. DE 22 DE SEPTIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de San Luis Potosí, el viernes 7 de noviembre de 2003.
 
@@ -1234,3 +1236,15 @@ Se derogan las disposiciones de igual o menor rango, que se opongan al presente 
 ###### ARTICULO SEXTO.
 
 Los derechos de antigüedad del personal proveniente de la Dirección General de Seguridad Pública, que conformarán la Dirección General de la Academia, serán respetados y quedarán a salvo conforme a las Leyes y ordenamientos vigentes, relacionados con la materia.
+
+P.O. 22 DE SEPTIEMBRE DE 2012.
+
+PRIMERO: El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Se abroga el Reglamento de la Ley de Seguridad Pública del Estado, publicado en el Periódico Oficial del Gobierno del Estado Libre y Soberano de San Luis Potosí el día 07 de noviembre de 2003, así como todas las disposiciones que se contrapongan al presente ordenamiento.
+
+TERCERO: Se derogan todas las disposiciones administrativas y reglamentarias de igual o menor jerarquía en lo que se opongan al contenido del presente Reglamento.
+
+CUARTO: Los asuntos y procedimientos que se encuentren en trámite en la Comisión de Honor y Justicia, a la entrada en vigor del presente Reglamento, continuarán su trámite y se resolverán conforme al amparo a la normatividad y reglamento que se encontraba vigente al momento de la iniciación del procedimiento. Los expedientes que tiene el área de asuntos internos, se turnarán en su momento para que sean resueltos por las Comisiones de Honor y Justicia conforme al presente ordenamiento.
+
+QUINTO: Los asuntos que se encuentren en trámite a la entrada en vigor del presente Reglamento, continuarán su trámite y se resolverán conforme al amparo a la normatividad y reglamento que se encontraba vigente al momento de la iniciación del trámite.
