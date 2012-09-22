@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48144"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2011-12-24"
+last_updated: "2012-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48144&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE LOS MUNICIPIOS DE COLIMA Y VILLA DE ÁLVAREZ EN EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 31 de diciembre del 2005.
 
@@ -1033,6 +1033,28 @@ En caso de que el usuario sujeto al beneficio establecido en este artículo, rea
 
 El Director General de “LA CIAPACOV” está facultado para realizar ajustes a la facturación por lecturas incorrectamente tomadas, por fugas, problemas de presión y aire en la red, tarifas incorrectamente aplicadas y medidores descalibrados, previo dictamen técnico del área competente de “LA CIAPACOV”.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
+
+###### ARTÍCULO 40.
+
+LA CIAPACOV podrá solicitar, recibir, administrar, ejercer o transferir a terceros, aportaciones voluntarias para favorecer proyectos o programas específicos para la preservación, conservación o mejora de los mantos acuíferos que abastecen o garantizan fuentes futuras de agua a los municipios de Colima y Villa de Álvarez.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
+
+###### ARTÍCULO 41.
+
+Los recursos que ingresen a LA CIAPACOV, por el concepto señalado en el artículo anterior, deberán concentrarse en cuentas específicas y registrarse en la contabilidad de modo que se identifiquen plenamente. Sólo podrá destinarse a proyectos específicos para la preservación, conservación o mejora de los mantos acuíferos que abastecen o garantizan fuentes futuras de agua a los municipios de Colima y Villa de Álvarez.
+
+Estos ingresos podrán ser ejercidos directamente por LA CIAPACOV, o a través de terceros, bajo cualquier figura jurídica, siempre y cuando se garantice el cumplimiento de los objetivos a los que esta destinado, así como los principios de transparencia, honradez y legalidad.
+
+Los programas o proyectos específicos serán aprobados por el Consejo de Administración, en base a la disponibilidad de los recursos existentes. En todo caso se beneficiará a aquellos que sean autosustentables, generan autoempleo o en general, que se beneficien directamente a los habitantes de las comunidades de la localidad.
+
+LA CIAPACOV, deberá informar anualmente el ingreso, gasto o destino, y cumplimiento de las metas y objetivos previstos en los proyectos o programas beneficiados. Los recursos y programas podrán ser auditados por las instancias de control de LA CIAPACOV o del Congreso del Estado.
+
 TRANSITORIOS:
 
 > <small>(REFORMADO, P.O. 4 DE ABRIL DE 2006)</small>
@@ -1118,6 +1140,12 @@ SEGUNDO.- Para el Ejercicio Fiscal 2011, los usuario (sic) obtendrán un subsidi
 P.O. 24 DE DICIEMBRE DE 2011.
 
 PRIMERO.- El presente Decreto entrará en vigor el día 1° de Enero de 2012, previa su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 22 DE SEPTIEMBRE DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 01 de enero del año 2013, previa publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- La CIAPACOV, deberá prever en su catálogo de ingresos para el ejercicio fiscal 2013, las aportaciones voluntarias y establecer los mecanismos para su adecuada administración, ejercicio o transferencia.
 
 ###### ARTICULO UNICO.
 
