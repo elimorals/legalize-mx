@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-entidades-paraestatales-del-estado-de-durango-42394"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-16"
-last_updated: "2010-06-03"
+last_updated: "2012-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Durango, el jueves 16 de diciembre de 2004.
 
@@ -149,7 +149,17 @@ II. La prestación de un servicio público o social;
 
 III. La obtención o aplicación de recursos para fines de asistencia o seguridad social; o
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 23 DE SEPTIEMBRE DE 2012)</small>
+
 IV. La obtención de cualquier otro propósito de beneficio colectivo e interés público.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE SEPTIEMBRE DE 2012)</small>
+
+En la extinción de los organismos deberán observarse las mismas formalidades establecidas para su creación, debiendo la Ley o Decreto respectivo fijar la forma y términos de su extinción y liquidación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE SEPTIEMBRE DE 2012)</small>
+
+Cuando algún organismo descentralizado creado por el Ejecutivo deje de cumplir sus fines u objeto o su funcionamiento no resulte ya conveniente desde el punto de vista de la economía estatal o del interés público, la Secretaría de Finanzas y Administración, atendiendo la opinión de la Dependencia Coordinadora del Sector que corresponda, propondrá al Ejecutivo Estatal la disolución, liquidación o extinción de aquél. Asimismo podrá proponer su fusión, cuando su actividad combinada redunde en un incremento de eficiencia y productividad.
 
 ###### Artículo 18.
 
@@ -181,13 +191,15 @@ XI. El régimen laboral a que se sujetarán las relaciones de trabajo.
 
 La dirección y administración de los organismos descentralizados estará a cargo de un órgano de gobierno que podrá ser una Junta de Gobierno, Junta o Consejo Directivo o su equivalente, que será la máxima autoridad del mismo y un Director General o equivalente quien además de contar con la representación legal será el órgano ejecutivo del organismo.
 
-El órgano de gobierno deberá expedir su reglamento interior.
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2010)</small>
+El órgano de gobierno deberá expedir su propio reglamento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 20.
 
-El Órgano de Gobierno estará integrado por el número de miembros propietarios y suplentes que determinen su ley o decreto de creación. Será presidido por el Gobernador del Estado o el Titular de la Secretaría del Ramo y el Director General del Organismo de que se trate, podrá participar como Secretario Técnico con voz sin derecho a voto. El cargo de miembro del Órgano de Gobierno será honorífico y por tanto, no recibirán retribución ni emolumento alguno.
+El Órgano de Gobierno estará integrado por el número de miembros propietarios y suplentes que determinen su ley o decreto de creación, los cuales se sujetaran a lo establecido en el artículo 21 de la presente Ley. Será presidido por el Gobernador del Estado o el Titular de la Secretaria del Ramo; el Director General del Organismo de que se trate podrá participar como Secretario Técnico con voz pero sin derecho a voto. El cargo de miembro del Órgano de Gobierno será honorífico y por tanto, no recibirán retribución ni emolumento alguno.
 
 El cargo de miembro del órgano de gobierno será estrictamente personal y no podrá desempeñarse por medio de representantes. Además será honorífico y por tanto, no recibirán retribución ni emolumento alguno.
 
@@ -199,23 +211,25 @@ El Órgano de Gobierno deberá integrarse con:
 
 l. Un Presidente que será el Gobernador del Estado o el Titular de la Secretaría del Ramo;
 
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2012)</small>
 
-II. Los servidores públicos vocales que designe el Gobernador del Estado;
+II. Los servidores públicos vocales que designe el Gobernador del Estado y que establezca la Ley o Decreto de creación respectivo.
 
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2012)</small>
 
-III. Los ciudadanos vocales que establezca la Ley o Decreto de creación respectivo; y
+III. Los ciudadanos vocales que establezca la Ley o Decreto de creación respectivo, y que tengan relación con el objeto del organismo.
 
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2010)</small>
+IV. (DEROGADA, P.O. 23 DE SEPTIEMBRE DE 2012)
 
-IV. El Comisario Público.
-
-V. (REFORMADA [N. DE E. DEROGADA], P.O. 3 DE JUNIO DE 2010)
+V. (DEROGADA [N. DE E. REPUBLICADA], P.O. 23 DE SEPTIEMBRE DE 2012)
 
 El Presidente, por conducto del Director General, podrá invitar a las reuniones del Órgano de Gobierno en forma temporal o permanente a los servidores públicos o personas que considere procedente cuando algún asunto amerite su participación.
 
 Las leyes o decretos de creación garantizarán que los servidores públicos sean mayoría en la integración del órgano de gobierno.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE SEPTIEMBRE DE 2012)</small>
+
+Todo organismo descentralizado contará con un comisario público, quien ejercerá las funciones que establezca esta Ley, el Decreto de creación o la ley de la materia.
 
 ###### Artículo 22.
 
@@ -231,9 +245,11 @@ IV. Las personas sentenciadas por delitos patrimoniales, las inhabilitadas para 
 
 V. Los diputados federales y senadores del H. Congreso de la Unión y diputados del H. Congreso del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 23.
 
-El órgano de gobierno se reunirá con la periodicidad que se señale en el Reglamento Interior sin que pueda ser menor de 4 veces al año. El lapso que medie entre cada una de las reuniones ordinarias deberá ser equivalente, atendiendo al número de ellas que se establezcan en el reglamento interior.
+El órgano de gobierno se reunirá con la periodicidad que se señale en el Reglamento Interior sin que pueda ser menor de cuatro veces al año. El lapso que medie entre cada una de las reuniones ordinarias deberá ser equivalente, atendiendo al número de ellas que se establezcan en el reglamento interior.
 
 Las reuniones extraordinarias se celebrarán cuando existan asuntos que por su urgencia o trascendencia así lo ameriten.
 
@@ -245,7 +261,9 @@ El órgano de gobierno sesionará válidamente con la asistencia de por lo menos
 
 El órgano de gobierno del organismo descentralizado, tendrá las siguientes atribuciones indelegables:
 
-I. Establecer en congruencia con la Ley de Planeación, el Plan Estatal de Desarrollo y los programas que se deriven de éste, su programa institucional, las políticas generales y prioridades a las que deberá sujetarse la operación y desarrollo del organismo relativas a producción, productividad, comercialización, finanzas, investigación, desarrollo tecnológico y administración general;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2012)</small>
+
+I. Establecer en congruencia con la Ley de Planeación del Estado de Durango, el Plan Estatal de Desarrollo y los programas que se deriven de este, su programa institucional, las políticas generales y prioridades a las que deberá sujetarse la operación y desarrollo del organismo relativas a producción, productividad, comercialización, finanzas, investigación, desarrollo tecnológico y administración general;
 
 II. Aprobar los programas y presupuestos así como sus modificaciones, en los términos de la legislación aplicable;
 
@@ -263,7 +281,9 @@ VIII. Autorizar la creación interna de comisiones o grupos de trabajo;
 
 IX. Autorizar la creación de comités o subcomités técnicos especializados, los cuales estarán integrados por personal de la misma entidad;
 
-X. Aprobar el Reglamento Interior;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2012)</small>
+
+X. Aprobar el Reglamento Interior y demás disposiciones que regulen la organización y funcionamiento del organismo;
 
 XI. Aprobar la constitución de reservas y aplicación de excedentes financieros;
 
@@ -275,13 +295,19 @@ XIII. Analizar y aprobar en su caso, los informes periódicos que rinda el Direc
 
 XIV. Otorgar facultades de dominio al Director General, según proceda;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2012)</small>
 
-XV. Las demás que le determine la Ley o Decreto de Creación, el Reglamento Interior y demás disposiciones aplicables.
+XV. Aprobar la estructura orgánica del organismo, a propuesta del director General, con base a la disponibilidad presupuestal correspondiente.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE SEPTIEMBRE DE 2012)</small>
+
+XVI. Las demás que le determine la Ley o Decreto de Creación, el Reglamento Interior y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 26.
 
-El Director General será designado por el Gobernador del Estado o a indicación de éste por el Secretario del ramo coordinador de sector, salvo que la ley o decreto de creación señalen expresamente otra forma de designación. El nombramiento recaerá en la persona que reúna los requisitos establecidos en la Ley Orgánica de la Administración Pública del Estado de Durango y en el ordenamiento de creación respectivo.
+El Director General será designado por el Gobernador del Estado o a indicación de éste por el Secretario del ramo coordinador de sector. El nombramiento recaerá en la persona que reúna los requisitos establecidos en la Ley Orgánica de la Administración Pública del Estado de Durango y en el ordenamiento de creación respectivo.
 
 ###### Artículo 27.
 
@@ -828,3 +854,17 @@ P.O. 3 DE JUNIO DE 2010.
 Primero.- El presente Decreto entrará en vigor, a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE SEPTIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales y reglas que se opongan al presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+En un plazo no mayor a 90 días posteriores a la entrada en vigor al presente decreto el Gobernador del Estado realizará las modificaciones a los decretos administrativos que se opongan al presente.
