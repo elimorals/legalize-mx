@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2012-09-17"
+last_updated: "2012-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NLE"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE SEPTIEMBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2012.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 24 DE SEPTIEMBRE DE 2012.</small>
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -3481,12 +3481,6 @@ De los Municipios.
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
-ART. 118.- Los Municipios que integran el Estado son independientes entre sí. Cada uno de ellos será gobernado por un Ayuntamiento de elección popular directa, integrado por un Presidente Municipal y el número de Regidores y Síndicos que la Ley determine. La competencia que otorga esta Constitución al gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna entre éste y los Poderes del Estado.
-
-La Administración Pública Municipal se conformará y organizará según determine la ley respectiva.
-
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
-
 ### CAPITULO I. De los efectos de la patria potestad respecto de la persona de los hijos
 
 ###### ARTICULO 411.
@@ -3711,9 +3705,11 @@ II.- Cuando por su mal estado habitual de salud, no puedan atender debidamente a
 
 ###### Art. 118.
 
-Los municipios que integran el Estado son independientes entre sí. Cada uno de ellos será administrado por un Ayuntamiento de elección popular directa. Entre los Ayuntamientos y los Poderes del Estado no habrá ninguna autoridad intermedia.
+Los Municipios que integran el Estado son independientes entre sí. Cada uno de ellos será gobernado por un Ayuntamiento de elección popular directa, integrado por un Presidente Municipal y el número de Regidores y Síndicos que la Ley determine. La competencia que otorga esta Constitución al gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna entre éste y los Poderes del Estado.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
+La Administración Pública Municipal se conformará y organizará según determine la ley respectiva.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
 ###### Art. 119.
 
@@ -13829,8 +13825,6 @@ El Estado deberá fomentar e incrementar los niveles de escolaridad, favoreciend
 
 Las leyes establecerán las normas, medidas y procedimientos que aseguren lo dispuesto en este artículo.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE SEPTIEMBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2011)</small>
 
 ###### Art. 3.
@@ -13873,7 +13867,7 @@ Además de impartir la educación básica obligatoria, el Estado promoverá y at
 
 Toda persona tiene derecho a la cultura física y a la práctica del deporte. Corresponde al Estado su promoción, fomento y estímulo conforme a las Leyes de la materia.
 
-> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2012)</small>
+(ADICIONADO, P.O. 13 DE ABRIL DE 2012) (F. DE E. P.O. 24 DE SEPTIEMBRE DE 2012)
 
 Toda persona tiene derecho a disponer de agua suficiente, saludable, aceptable, accesible y asequible para su uso personal y doméstico.
 
@@ -14793,7 +14787,7 @@ UNICO:- El presente Decreto entrará en vigor, el día siguiente de su publicaci
 
 P.O. 9 DE NOVIEMBRE DE 1990.
 
-DECRETO QUE REFORMA EL ARTÍCULO 10 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE NUEVO LEON.
+DECRETO QUE REFORMA EL ARTÍCULO 10 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE NUEVO LEÓN.
 
 UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
