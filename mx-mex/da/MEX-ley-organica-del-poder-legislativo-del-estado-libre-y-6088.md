@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2012-08-30"
+last_updated: "2012-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 24 Y 27 DE SEPTIEMBRE DE 2012 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHAS FECHAS, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE AGOSTO DE 2012.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.G. DE 24 DE SEPTIEMBRE DE 2012 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 509 PUBLICADO EN LA G.G. DE 30 DE AGOSTO DE 2012.</small>
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -1221,7 +1221,7 @@ V. Las demás que se establezcan en otros ordenamientos.
 
 Artículo 76 D.- Son atribuciones del Comité de Vigilancia de la Contraloría:
 
-l. Vigilar y evaluar los actos y procedimientos que en cumplimiento de sus atribuciones dicte o ejecute la Contraloría;
+I. Vigilar y evaluar los actos y procedimientos que en cumplimiento de sus atribuciones dicte o ejecute la Contraloría;
 
 II. Conocer y evaluar el programa anual de actividades de la Contraloría;
 
@@ -1244,8 +1244,6 @@ Los integrantes de las comisiones o comités sólo podrán ser sustituidos por c
 > <small>(REFORMADO, P.O. 19 DE AGOSTO DEL 2003)</small>
 
 ### CAPÍTULO II. DE LA MESA TECNICA DE LA LEGISLATURA
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE SEPTIEMBRE DE 2012 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 > <small>(ADICIONADO, G.G. 30 DE AGOSTO DE 2012)</small>
 
@@ -1509,7 +1507,7 @@ Para los casos de suspensión de ayuntamientos, declarar que éstos han desapare
 
 ###### Artículo 104.
 
-La Comisión de Instrucción y Dictamen se integrará por seis diputados que serán dos de la Junta de Coordinación Política, los Presidentes de las comisiones de Gobernación y Puntos Constitucionales; y de Procuración y Administración de Justicia, un diputado de la primera minoría y uno de la segunda a propuesta de los grupos parlamentarios respectivos.
+La Comisión de Instrucción y Dictamen se integrará por seis diputados que serán dos de la Junta de Coordinación Política, los Presidentes de las comisiones de Gobernación y Puntos Constitucionales, y de Procuración y Administración de Justicia, un diputado de la primera minoría y uno de la segunda a propuesta de los grupos parlamentarios respectivos.
 
 ###### Artículo 105.
 
