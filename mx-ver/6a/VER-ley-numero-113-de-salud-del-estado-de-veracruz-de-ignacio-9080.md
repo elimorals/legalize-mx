@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-113-de-salud-del-estado-de-veracruz-de-ignacio-9080"
 country: "mx"
 rank: "ley"
 publication_date: "1988-05-17"
-last_updated: "2010-12-27"
+last_updated: "2012-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE SALUD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 17 de mayo de 1988.
 
@@ -39,7 +39,7 @@ Al margen un sello con el Escudo Nacional que dice: "Estados Unidos Mexicanos.- 
 
 La Honorable Quincuagésima Cuarta Legislatura del Estado Libre y Soberano de Veracruz-Llave, en uso de la facultad que le concede el artículo 68, fracción I, de la Constitución Política Local, y en nombre del pueblo expide la siguiente
 
-> <small>(REFORMADA SU DENOMINACION POR ARTICULO CUARTO TRANSITORIO DEL DECRETO DE REFORMA CONSTITUCIONAL, G.O. 18 DE MARZO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN POR ARTÍCULO CUARTO TRANSITORIO DEL DECRETO DE REFORMA CONSTITUCIONAL, G.O. 18 DE MARZO DE 2003)</small>
 
 LEY NUMERO 113:
 
@@ -291,7 +291,7 @@ El Gobierno del Estado, con la participación que corresponda al Comité de Plan
 
 ### CAPITULO II. DISTRIBUCION DE COMPETENCIAS
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 6 DE MARZO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE MARZO DE 1997)</small>
 
 ###### ARTICULO 12.
 
@@ -977,6 +977,8 @@ El Gobierno del Estado, en coordinación con las dependencias y entidades federa
 
 ## TITULO NOVENO. ASISTENCIA SOCIAL, PREVENCION DE INVALIDEZ Y REHABILITACION DE INVALIDOS Y DEFUNCION
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR SEGUNDO TRANSITORIO DE LA LEY NÚMERO 579 PARA EL FUNCIONAMIENTO Y OPERACIÓN DE ALBERGUES, CENTROS ASISTENCIALES Y SUS SIMILARES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 24 DE SEPTIEMBRE DE 2012)</small>
+
 ### CAPITULO I. PROGRAMA CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHOLICAS
 
 ###### ARTICULO 110.
@@ -1147,7 +1149,7 @@ VI.- La promoción de la participación de la comunidad en la prevención de acc
 
 Para una mayor eficacia de las acciones a las que se refiere este artículo, se creará el Consejo Estatal para la Prevención de Accidentes, del que formarán parte representantes de los sectores público, social y privado del Estado. Dicho Consejo se coordinará con el Consejo Nacional para la Prevención de Accidentes, dentro del marco de los Sistemas Nacional y Estatal de Salud.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 31 DE AGOSTO DE 2006)</small>
+> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, POR SEGUNDO TRANSITORIO DE LA LEY NÚMERO 579 PARA EL FUNCIONAMIENTO Y OPERACIÓN DE ALBERGUES, CENTROS ASISTENCIALES Y SUS SIMILARES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 24 DE SEPTIEMBRE DE 2012)</small>
 
 ## TITULO DECIMO. PROGRAMA CONTRA LAS ADICCIONES
 
@@ -1155,143 +1157,105 @@ Para una mayor eficacia de las acciones a las que se refiere este artículo, se 
 
 ###### ARTICULO 130.
 
-Para los efectos de esta Ley, se entiende por asistencia social, el conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral, así como la protección física, mental y social de personas en estado de necesidad, desprotección o desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva.
-
-Serán objeto de esta Ley los servicios asistenciales que presten tanto las instituciones públicas como privadas.
+(DEROGADO POR SEGUNDO TRANSITORIO DE LA LEY NÚMERO 579 PARA EL FUNCIONAMIENTO Y OPERACIÓN DE ALBERGUES, CENTROS ASISTENCIALES Y SUS SIMILARES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 24 DE SEPTIEMBRE DE 2012)
 
 ###### ARTICULO 131.
 
-Son actividades básicas de asistencia social:
-
-I.- La atención a personas que por carencias económicas o por problemas de invalidez, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo.
-
-II.- La atención en establecimientos especializados a menores y ancianos en estado de abandono o desamparo e inválidos sin recursos.
-
-III.- La promoción del bienestar del senescente y el desarrollo de acciones de preparación para la senectud.
-
-IV.- El ejercicio de la tutela de los menores, en los términos de las disposiciones legales aplicables.
-
-V.- La prestación de servicios de asistencia jurídica y de orientación social, especialmente a menores, ancianos e inválidos sin recursos.
-
-VI.- La realización de investigaciones sobre las causas y efectos de los problemas prioritarios de asistencia social.
-
-VII.- La promoción de la participación consciente y organizada de la población con carencias en las acciones de promoción, asistencia y desarrollo social que llevará a cabo en su propio beneficio.
-
-VIII.- El apoyo a la educación y capacitación para el trabajo de personas con carencias socio económicas.
-
-IX.- La promoción del empleo de las personas en proceso de rehabilitación.
+(DEROGADO POR SEGUNDO TRANSITORIO DE LA LEY NÚMERO 579 PARA EL FUNCIONAMIENTO Y OPERACIÓN DE ALBERGUES, CENTROS ASISTENCIALES Y SUS SIMILARES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 24 DE SEPTIEMBRE DE 2012)
 
 ###### ARTICULO 132.
 
-Para fomentar el desarrollo de programas públicos de asistencia social, el Gobierno del Estado promoverá la canalización de recursos y apoyo técnico necesarios. Asimismo, procurará destinar los apoyos necesarios a los programas de asistencia social públicos y privados para impulsar su aplicación.
+(DEROGADO POR SEGUNDO TRANSITORIO DE LA LEY NÚMERO 579 PARA EL FUNCIONAMIENTO Y OPERACIÓN DE ALBERGUES, CENTROS ASISTENCIALES Y SUS SIMILARES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 24 DE SEPTIEMBRE DE 2012)
 
 ###### ARTICULO 133.
 
-Todos los menores en estado de desprotección social, tienen derecho a recibir los servicios asistenciales que necesiten, en cualquier establecimiento público dependiente del Estado, al que sean remitidos para su atención, sin perjuicio de la investigación que corresponda a otras autoridades competentes.
+(DEROGADO POR SEGUNDO TRANSITORIO DE LA LEY NÚMERO 579 PARA EL FUNCIONAMIENTO Y OPERACIÓN DE ALBERGUES, CENTROS ASISTENCIALES Y SUS SIMILARES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 24 DE SEPTIEMBRE DE 2012)
 
 ###### ARTICULO 134.
 
-Los integrantes del Sistema Estatal de Salud, deberán dar atención preferente e inmediata a menores y ancianos sometidos a cualquier forma de maltrato, que ponga en peligro su salud física y mental. Asimismo, darán esa atención a quienes hayan sido sujetos pasivos de la comisión de delitos que atenten contra la integridad física o mental o el normal desarrollo psicosomático de los individuos.
-
-En estos casos, las instituciones de salud del Estado, podrán tomar las medidas inmediatas que sean necesarias para la protección de la salud de los menores y ancianos, sin perjuicio de dar intervención a las autoridades competentes.
+(DEROGADO POR SEGUNDO TRANSITORIO DE LA LEY NÚMERO 579 PARA EL FUNCIONAMIENTO Y OPERACIÓN DE ALBERGUES, CENTROS ASISTENCIALES Y SUS SIMILARES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 24 DE SEPTIEMBRE DE 2012)
 
 ###### ARTICULO 135.
 
-El Gobierno del Estado, contará con un organismo que tendrá entre sus objetivos, en coordinación con el organismo federal encargado de la asistencia social, la promoción de ésta en el ámbito estatal, la prestación de servicios en ese campo y la realización de las demás acciones que establezcan las disposiciones legales aplicables.
+(DEROGADO POR SEGUNDO TRANSITORIO DE LA LEY NÚMERO 579 PARA EL FUNCIONAMIENTO Y OPERACIÓN DE ALBERGUES, CENTROS ASISTENCIALES Y SUS SIMILARES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 24 DE SEPTIEMBRE DE 2012)
 
 ###### ARTICULO 136.
 
-El Gobierno del Estado y los municipios, promoverán la creación de establecimientos en los que se dé atención a personas con padecimientos mentales, a niños desprotegidos y ancianos desamparados.
+(DEROGADO POR SEGUNDO TRANSITORIO DE LA LEY NÚMERO 579 PARA EL FUNCIONAMIENTO Y OPERACIÓN DE ALBERGUES, CENTROS ASISTENCIALES Y SUS SIMILARES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 24 DE SEPTIEMBRE DE 2012)
 
 ###### ARTICULO 137.
 
-El Gobierno del Estado y los municipios, en coordinación con las dependencias y entidades públicas correspondientes, distribuirán raciones alimenticias, en forma transitoria, en aquellas zonas en que se padezcan desastres originados por las sequías, inundaciones, terremotos y otros fenómenos naturales o contingencias con efectos similares.
+(DEROGADO POR SEGUNDO TRANSITORIO DE LA LEY NÚMERO 579 PARA EL FUNCIONAMIENTO Y OPERACIÓN DE ALBERGUES, CENTROS ASISTENCIALES Y SUS SIMILARES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 24 DE SEPTIEMBRE DE 2012)
 
 ###### ARTICULO 138.
 
-El Gobierno del Estado podrá autorizar la constitución de instituciones privadas cuyo objeto sea la prestación de servicios asistenciales.
+(DEROGADO POR SEGUNDO TRANSITORIO DE LA LEY NÚMERO 579 PARA EL FUNCIONAMIENTO Y OPERACIÓN DE ALBERGUES, CENTROS ASISTENCIALES Y SUS SIMILARES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 24 DE SEPTIEMBRE DE 2012)
 
 ###### ARTICULO 139.
 
-Serán consideradas instituciones de asistencia privada las que se constituyan conforme a esta Ley, al reglamento correspondiente y demás disposiciones aplicables y cuyo objeto sea la prestación de servicios asistenciales, sin propósito de lucro y sin designar individualmente a los beneficiarios.
+(DEROGADO POR SEGUNDO TRANSITORIO DE LA LEY NÚMERO 579 PARA EL FUNCIONAMIENTO Y OPERACIÓN DE ALBERGUES, CENTROS ASISTENCIALES Y SUS SIMILARES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 24 DE SEPTIEMBRE DE 2012)
 
 ###### ARTICULO 140.
 
-Se crea una Junta de Asistencia Privada como órgano dependiente del organismo a que se refiere el artículo 135 de esta Ley, a través del cual se ejercerá la vigilancia y promociones de las instituciones de asistencia privada.
+(DEROGADO POR SEGUNDO TRANSITORIO DE LA LEY NÚMERO 579 PARA EL FUNCIONAMIENTO Y OPERACIÓN DE ALBERGUES, CENTROS ASISTENCIALES Y SUS SIMILARES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 24 DE SEPTIEMBRE DE 2012)
 
 ###### ARTICULO 141.
 
-Serán consideradas instituciones de asistencia privada los asilos, los orfanatos, las casas asistenciales para lactantes y las demás que determine el reglamento correspondiente.
+(DEROGADO POR SEGUNDO TRANSITORIO DE LA LEY NÚMERO 579 PARA EL FUNCIONAMIENTO Y OPERACIÓN DE ALBERGUES, CENTROS ASISTENCIALES Y SUS SIMILARES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 24 DE SEPTIEMBRE DE 2012)
 
 ###### ARTICULO 142.
 
-La integración, el funcionamiento y facultades de la Junta de Asistencia Privada serán determinados por el reglamento correspondiente.
+(DEROGADO POR SEGUNDO TRANSITORIO DE LA LEY NÚMERO 579 PARA EL FUNCIONAMIENTO Y OPERACIÓN DE ALBERGUES, CENTROS ASISTENCIALES Y SUS SIMILARES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 24 DE SEPTIEMBRE DE 2012)
 
 ###### ARTICULO 143.
 
-El organismo a que se refiere el artículo 135 de esta Ley, coadyuvará con la Junta de Asistencia Privada en la vigilancia y promoción de las instituciones de asistencia privada, estableciendo al efecto los mecanismos de coordinación necesarios.
+(DEROGADO POR SEGUNDO TRANSITORIO DE LA LEY NÚMERO 579 PARA EL FUNCIONAMIENTO Y OPERACIÓN DE ALBERGUES, CENTROS ASISTENCIALES Y SUS SIMILARES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 24 DE SEPTIEMBRE DE 2012)
 
 ###### ARTICULO 144.
 
-Las instituciones de asistencia privada se consideran de interés público y están exentas del pago de los impuestos, derechos y aprovechamientos que establezcan las Leyes del Estado.
+(DEROGADO POR SEGUNDO TRANSITORIO DE LA LEY NÚMERO 579 PARA EL FUNCIONAMIENTO Y OPERACIÓN DE ALBERGUES, CENTROS ASISTENCIALES Y SUS SIMILARES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 24 DE SEPTIEMBRE DE 2012)
 
 ###### ARTICULO 145.
 
-Las reglas de constitución, operación, organización, liquidación y demás aspectos concernientes a las instituciones de asistencia privada, serán establecidas en el reglamento que al efecto se expida.
+(DEROGADO POR SEGUNDO TRANSITORIO DE LA LEY NÚMERO 579 PARA EL FUNCIONAMIENTO Y OPERACIÓN DE ALBERGUES, CENTROS ASISTENCIALES Y SUS SIMILARES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 24 DE SEPTIEMBRE DE 2012)
 
 ###### ARTICULO 146.
 
-Los servicios y acciones que presten y realicen las instituciones de asistencia privada se sujetarán a las disposiciones de esta Ley, a los programas nacional y estatal de salud y a las demás disposiciones legales aplicables.
+(DEROGADO POR SEGUNDO TRANSITORIO DE LA LEY NÚMERO 579 PARA EL FUNCIONAMIENTO Y OPERACIÓN DE ALBERGUES, CENTROS ASISTENCIALES Y SUS SIMILARES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 24 DE SEPTIEMBRE DE 2012)
 
 ###### ARTICULO 147.
 
-Las autoridades sanitarias del Estado y las educativas, en el ámbito de sus respectivas competencias, colaborarán para proporcionar atención rehabilitatoria, cuando así se requiera.
+(DEROGADO POR SEGUNDO TRANSITORIO DE LA LEY NÚMERO 579 PARA EL FUNCIONAMIENTO Y OPERACIÓN DE ALBERGUES, CENTROS ASISTENCIALES Y SUS SIMILARES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 24 DE SEPTIEMBRE DE 2012)
 
 ###### ARTICULO 148.
 
-La Secretaría de Salud y Asistencia del Estado, en coordinación con otras instituciones públicas, promoverá que en lugares en que se presenten servicios públicos, dispongan de facilidades para las personas inválidas.
+(DEROGADO POR SEGUNDO TRANSITORIO DE LA LEY NÚMERO 579 PARA EL FUNCIONAMIENTO Y OPERACIÓN DE ALBERGUES, CENTROS ASISTENCIALES Y SUS SIMILARES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 24 DE SEPTIEMBRE DE 2012)
 
 ###### ARTICULO 149.
 
-La Beneficencia Pública, cuya constitución y funcionamiento serán definidos por el reglamento que al efecto se expida, tendrá patrimonio propio, el cual será administrado por la Secretaría de Salud y Asistencia del Estado, a quien le corresponderá, entre otras atribuciones, representar los intereses de dicho patrimonio y distribuir los recursos de la misma, pudiendo celebrar convenios con instituciones públicas y privadas para el efecto de incrementar sus recursos y optimizar la aplicación de los mismos.
+(DEROGADO POR SEGUNDO TRANSITORIO DE LA LEY NÚMERO 579 PARA EL FUNCIONAMIENTO Y OPERACIÓN DE ALBERGUES, CENTROS ASISTENCIALES Y SUS SIMILARES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 24 DE SEPTIEMBRE DE 2012)
 
 ###### ARTICULO 150.
 
-Para los efectos de esta Ley, se entiende por invalidez la limitación en la capacidad de una persona para realizar por sí misma actividades necesarias para el desempeño físico, mental, social, ocupacional y económico, como consecuencia de una insuficiencia somática, psicológica o social.
+(DEROGADO POR SEGUNDO TRANSITORIO DE LA LEY NÚMERO 579 PARA EL FUNCIONAMIENTO Y OPERACIÓN DE ALBERGUES, CENTROS ASISTENCIALES Y SUS SIMILARES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 24 DE SEPTIEMBRE DE 2012)
 
 ###### ARTICULO 151.
 
-La atención en materia de prevención de invalidez y rehabilitación de inválidos, comprende:
-
-I.- La investigación de las causas de la invalidez y de los factores que la condicionan.
-
-II.- La promoción de la participación de la comunidad en la prevención y control de las causas y factores condicionantes de la invalidez.
-
-III.- La identificación temprana y la atención oportuna de los procesos físicos, mentales o sociales que puedan causar invalidez.
-
-IV.- La orientación educativa en materia de rehabilitación a la colectividad en general, y en particular a las familias que cuenten con algún inválido, promoviendo al efecto la solidaridad social.
-
-V.- La atención integral de los inválidos, incluyendo la adaptación de las prótesis, órtesis y ayudas funcionales que requieran.
-
-VI.- La promoción para adecuar facilidades urbanísticas y arquitectónicas a las necesidades de los inválidos.
-
-VII.- La promoción de la educación y la capacitación para el trabajo, así como la promoción del empleo de las personas en proceso de rehabilitación.
+(DEROGADO POR SEGUNDO TRANSITORIO DE LA LEY NÚMERO 579 PARA EL FUNCIONAMIENTO Y OPERACIÓN DE ALBERGUES, CENTROS ASISTENCIALES Y SUS SIMILARES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 24 DE SEPTIEMBRE DE 2012)
 
 ###### ARTICULO 152.
 
-El Gobierno del Estado, a través del organismo a que se refiere el artículo 135 de esta Ley y en coordinación con las dependencias y entidades federales correspondientes, promoverá el establecimiento de centros y servicios de rehabilitación somática, psicológica, social y ocupacional para las personas que sufran cualquier tipo de invalidez, así como acciones que faciliten la disponibilidad y adaptación de prótesis, órtesis y ayudas funcionales.
+(DEROGADO POR SEGUNDO TRANSITORIO DE LA LEY NÚMERO 579 PARA EL FUNCIONAMIENTO Y OPERACIÓN DE ALBERGUES, CENTROS ASISTENCIALES Y SUS SIMILARES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 24 DE SEPTIEMBRE DE 2012)
 
 ###### ARTICULO 153.
 
-El organismo del Gobierno Estatal previsto en el artículo 135 de esta Ley, tendrá entre sus objetivos operar establecimientos de rehabilitación, realizar estudios e investigaciones en materia de invalidez y participar en programas de rehabilitación y educación especial.
+(DEROGADO POR SEGUNDO TRANSITORIO DE LA LEY NÚMERO 579 PARA EL FUNCIONAMIENTO Y OPERACIÓN DE ALBERGUES, CENTROS ASISTENCIALES Y SUS SIMILARES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 24 DE SEPTIEMBRE DE 2012)
 
 ###### ARTICULO 154.
 
-Los servicios de rehabilitación que proporcionen los establecimientos que dependan del Estado, estarán vinculados sistemáticamente a los de rehabilitación y asistencia social que preste el organismo a que se refiere el artículo 135 de esta Ley.
+(DEROGADO POR SEGUNDO TRANSITORIO DE LA LEY NÚMERO 579 PARA EL FUNCIONAMIENTO Y OPERACIÓN DE ALBERGUES, CENTROS ASISTENCIALES Y SUS SIMILARES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 24 DE SEPTIEMBRE DE 2012)
 
-> <small>(ADICIONADO, G.O. 31 DE AGOSTO DE 2006)</small>
-
-ARTICULO 154 BIS.- En caso de fallecimiento de personas en hospitales públicos o centros de asistencia social de la Secretaría de Salud del Estado, que sus familiares no tengan capacidad o posibilidades económicas para solventar los gastos que haya originado la estancia del fallecido, la Secretaría condonará los gastos correspondientes.
+ARTICULO 154 BIS.- (DEROGADO POR SEGUNDO TRANSITORIO DE LA LEY NÚMERO 579 PARA EL FUNCIONAMIENTO Y OPERACIÓN DE ALBERGUES, CENTROS ASISTENCIALES Y SUS SIMILARES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 24 DE SEPTIEMBRE DE 2012)
 
 ### CAPITULO IV. MERCADOS Y CENTROS DE ABASTO
 
@@ -2351,13 +2315,13 @@ Cuando el presunto infractor impugnare los actos de la autoridad sanitaria compe
 
 Los interesados podrán hacer valer la prescripción, por la vía de excepción. La autoridad deberá declararla de oficio.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2005)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2005)</small>
 
 TITULO DECIMOQUINTO
 
 DEL SISTEMA DE PROTECCION SOCIAL EN SALUD
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2005)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2005)</small>
 
 ### CAPITULO VIII. CAUSAS DE SUSPENSION Y CANCELACION EN EL SISTEMA DE PROTECCION SOCIAL EN SALUD
 
@@ -2443,7 +2407,7 @@ VI.- Promover la participación de los municipios en el Régimen y sus aportacio
 
 VII.- Es facultad del Régimen, a través de los Servicios de Salud, proveer de manera integral los servicios de salud y los medicamentos asociados, sin exigir cuotas distintas a las establecidas, siempre que los beneficiarios cumplan con sus obligaciones. Con la finalidad de fortalecer el mantenimiento y desarrollo de infraestructura en salud, el Régimen, a partir de las transferencias que reciba, deberá destinar los recursos necesarios para la inversión en infraestructura médica, de conformidad con el plan maestro elaborado por la autoridad Federal correspondiente.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2005)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2005)</small>
 
 ### CAPITULO IX. DEL CONSEJO ESTATAL DEL REGIMEN DE PROTECCION SOCIAL EN SALUD
 
@@ -2491,7 +2455,7 @@ VII.- Prescripción y surtimiento de medicamentos;
 
 VIII.- Información al usuario sobre diagnóstico y pronóstico, así como del otorgamiento de orientación terapéutica.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2005)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 337.
 
@@ -2511,7 +2475,7 @@ Los recursos de carácter Federal que se transfieran al Estado para sustentar el
 
 Ambos recursos se administrarán y ejercerán con base en los acuerdos de coordinación que se celebren para el efecto y el Gobierno del Estado deberá destinarlos específicamente para los fines establecidos de conformidad con los acuerdos de coordinación que para el efecto se suscriban.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2005)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 340.
 
@@ -2545,7 +2509,7 @@ El nivel de ingreso o la carencia de éste, no podrán ser limitantes para el ac
 
 Con el objeto de favorecer el uso responsable de los servicios de salud, el Consejo de Salubridad General podrá establecer, mediante reglas de carácter general, un esquema de cuotas reguladoras para algunos servicios en razón de la frecuencia en su uso o especialidad, o para el abastecimiento de medicamentos asociados. En dichas reglas deberá considerarse la posibilidad de que aquellos beneficiarios cuya condición socioeconómica así lo justifique, no cubran las cuotas a que se refiere este artículo.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2005)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 345.
 
@@ -2567,13 +2531,13 @@ Cuando las autoridades estatales que en el ejercicio de sus atribuciones de cont
 
 Las responsabilidades administrativas, civiles y penales que deriven de la desviación de los recursos señalados, serán sancionadas en los términos de la legislación correspondiente por las autoridades competentes.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.O. 28 DE DICIEMBRE DE 2005)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 28 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 347.
 
 El Sistema de Protección Social en Salud contará con un Régimen Estatal de Protección Social en Salud, como Organismo Público Descentralizado sectorizado a la Secretaría de Salud, con la estructura y funciones que le asignen el decreto de creación y su reglamento interior.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2005)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 348.
 
@@ -2647,7 +2611,7 @@ X.- Hacer uso responsable de los servicios de salud; y
 
 XI.- Proporcionar de manera fehaciente la información necesaria para documentar su incorporación al Sistema de Protección Social en Salud y para la definición del monto a pagar por concepto de cuota familiar.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2005)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 351.
 
@@ -2675,7 +2639,7 @@ III.- Proporcione información falsa sobre su nivel de ingreso en el estudio soc
 
 En los casos en que se materialicen los supuestos a los que se refiere este capítulo, los interesados conservarán los beneficios del sistema de Protección Social en Salud, hasta un plazo de sesenta días naturales a partir de la fecha de la suspensión o cancelación. Habiéndose transcurrido este plazo podrán acceder a los servicios de salud disponibles, en los términos o condiciones que establece esta Ley.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2005)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 354.
 
@@ -2723,7 +2687,7 @@ DADA en el Salón de Sesiones de la Honorable Quincuagésima Cuarta Legislatura 
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 87 y primer párrafo del artículo 93 de la Constitución Política del Estado Libre y Soberano de Veracruz-Llave, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Estatal, en la ciudad de Xalapa-Enríquez, Veracruz, a los veintinueve días del mes de enero de mil novecientos ochenta y ocho.- FERNANDO GUTIERREZ BARRIOS.- Rúbrica.- El Secretario de Salud y Asistencia, PEDRO CORONEL PEREZ.- Rúbrica.- El Secretario de Educación y Cultura, GUILLERMO H. ZUÑIGA MARTINEZ.- Rúbrica.- El Secretario de Desarrollo Agropecuario y Pesquero, RICARDO GARCIA LAGOS.- Rúbrica.- El Secretario de Comunicaciones y Obras Públicas, GUSTAVO NACHON AGUIRRE.- Rúbrica.- El Secretario de Desarrollo Económico, ARMANDO MENDEZ DE LA LUZ.- Rúbrica.- El Secretario de Finanzas y Planeación, RAUL OJEDA MESTRE.- Rúbrica.- El Secretario General de Gobierno, Lic. DANTE DELGADO RANNAURO.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 G.O. 6 DE MARZO DE 1997.
 
@@ -2834,3 +2798,13 @@ Primero. El presente Decreto entrará en vigor el día primero de enero de dos m
 Segundo. Todos aquellos casos que se encuentren en trámite a la entrada en vigor del presente Decreto, continuarán rigiéndose por las disposiciones entonces vigentes y se resolverán conforme a ellas.
 
 Tercero. Cualesquiera disposiciones jurídicas o tributarias que hagan referencia al Impuesto Sobre Nóminas, y que no hayan sido expresamente reformadas, modificadas, abrogadas o derogadas por virtud del presente decreto, se entenderán referidas al Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal.
+
+G.O. 24 DE SEPTIEMBRE DE 2012.
+
+Primero. La presente Ley entrará en vigor al siguiente día de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se deroga el Título Noveno, Capítulo Único, de la Ley de Salud del Estado de Veracruz de Ignacio de la Llave y todas las disposiciones que contravengan lo estipulado por la presente Ley.
+
+Tercero. El titular del Poder Ejecutivo del Estado de Veracruz deberá emitir el Reglamento de la presente Ley, en un plazo de ciento ochenta días hábiles contados a partir de la entrada en vigor de esta Ley.
+
+Cuarto. Todos los albergues, centros asistenciales y sus similares que operen en el Estado de Veracruz de Ignacio de la Llave, en un plazo no mayor a ciento ochenta días posteriores a la entrada en vigor de la presente Ley, deberán inscribirse en el Registro Estatal de Albergues, Centros Asistenciales y sus Similares del Estado de Veracruz.
