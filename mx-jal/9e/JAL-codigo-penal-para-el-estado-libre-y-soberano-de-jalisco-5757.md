@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2012-09-22"
+last_updated: "2012-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -1373,7 +1373,7 @@ Se impondrá de un mes a un año de prisión al que quite, corte, inutilice, apa
 
 (DEROGADO, P.O. 12 DE JUNIO DE 2003)
 
-### CAPITULO III. Provocación de un delito y apología de éste o de algún vicio
+### CAPITULO III. Provocación de un delito y apología de este o de algún vicio
 
 ###### Art. 127.
 
@@ -4195,7 +4195,19 @@ Para efectos de este Título, un daño ambiental se considerará irreversible cu
 
 La pena de prisión podrá aumentarse hasta en tres años más y la pena económica hasta en mil días de salario mínimo general vigente, para el caso en el que las conductas referidas afecten un área natural protegida.
 
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 294.
+
+Se impondrán pena de tres meses a ocho años de prisión y multa por el equivalente de mil a doce mil días de salario mínimo general vigente, a quien sin tomar las debidas precauciones e informar previamente a las autoridades competentes, inicie o provoque un incendio que rebase los límites del terreno del que sea propietario o que posea y dé lugar a un daño generalizado.
+
+Se impondrán pena de tres meses a tres años de prisión y multa por el equivalente de cien a mil días de salario mínimo general vigente, a quien por descuido o negligencia provoque un incendio forestal que cause un daño generalizado. Si el incendio es iniciado o provocado de manera dolosa, la pena será de cinco a quince años de prisión y multa por un equivalente de cinco mil a quince mil días de salario mínimo general vigente.
+
+Si el daño es ocasionado a un área natural protegida, la pena se incrementará en una cuarta parte más.
+
+Se considera que existe daño generalizado cuando por la superficie afectada o la gravedad del daño, tenga como consecuencia que se requiera un tiempo de recuperación de la flora y fauna mayor a un año, se dé una afectación grave o pérdidas de especies de flora o fauna, o se altere el ecosistema.
+
+(ADICIONADO, P.O. 12 DE JUNIO DE 2003) (F. DE E., P.O. 12 DE JULIO DE 2003)
 
 ###### Art. 294.
 
@@ -4671,7 +4683,7 @@ Los sujetos auditables y fiscalizables que soliciten la revisión prevista en el
 
 En caso que los sujetos auditables que no se acojan a este decreto, la revisión de sus cuentas se harán con las disposiciones de la Ley de Fiscalización Superior del Estado de Jalisco, vigente en el ejercicio fiscal de su gestión, es decir, 2006, 2007 y 2008.
 
-Sexto. En tanto se establece la infraestructura y el procedimiento necesario para la utilización de la firma electrónica por las entidades auditables y la Auditoría Superior, las entidades auditables que opten en enviar su documentación justificativa y comprobatoria de las cuentas públicas y de los informes de avance de gestión financiera en medios magnéticos o electrónicos las enviarán conforme al procedimiento estipulado por los acuerdos del Auditor Superior relativos a la presentación de las cuentas públicas por estos medios.
+Sexto. En tanto se establece la infraestructura y el procedimiento necesario para la utilización de la firma electrónica por las entidades auditables y la Auditoria Superior, las entidades auditables que opten en enviar su documentación justificativa y comprobatoria de las cuentas públicas y de los informes de avance de gestión financiera en medios magnéticos o electrónicos las enviarán conforme al procedimiento estipulado por los acuerdos del Auditor Superior relativos a la presentación de las cuentas públicas por estos medios.
 
 Séptimo. Los recursos materiales, técnicos y financieros que actualmente están afectos o destinados a la Auditoría Superior, pasarán a formar parte del patrimonio del órgano dotado con autonomía técnica y de gestión denominado Auditoría Superior.
 
@@ -4874,3 +4886,7 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El artículo 133-Bis del Código de Procedimientos Penales del Estado Libre y Soberano de Jalisco, entrará en vigor a los sesenta días siguientes de la publicación del presente decreto, plazo en el cual la Procuraduría General de Justicia del Estado y el Instituto Jalisciense de Ciencias Forenses, deberán emitir el protocolo respectivo, que se publicará en el periódico oficial El Estado de Jalisco.
 
 TERCERO. Se autoriza al Poder Ejecutivo del Estado a realizar las adecuaciones presupuestales necesarias para el debido cumplimiento del presente decreto.
+
+P.O. 25 DE SEPTIEMBRE DE 2012.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.
