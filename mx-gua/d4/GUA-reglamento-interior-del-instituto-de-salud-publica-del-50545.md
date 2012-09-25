@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-instituto-de-salud-publica-del-50545"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-05-19"
-last_updated: "2006-05-19"
+last_updated: "2012-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50545&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE SALUD PUBLICA DEL ESTADO DE GUANAJUATO
 
-REGLAMENTO INTERIOR DEL INSTITUTO DE SALUD PUBLICA DEL ESTADO DE GUANAJUATO
+REGLAMENTO INTERIOR DEL INSTITUTO DE SALUD PÚBLICA DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE SALUD PÚBLICA DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 25 DE SEPTIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 19 de mayo de 2006.
 
@@ -1448,3 +1450,19 @@ SAMUEL ALCOCER FLORES
 EL SECRETARIO DE SALUD
 
 GERARDO ORTEGA MARTÍNEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE SEPTIEMBRE DE 2012.
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Abrogación del Reglamento
+
+Artículo Segundo. Se abroga el Reglamento Interior del Instituto de Salud Pública del Estado de Guanajuato contenido en el Decreto Gubernativo número 268, publicado en el Periódico Oficial del Gobierno del Estado que Guanajuato número 80, Segunda Parte, de fecha 19 de mayo de 2006.
+
+Disponibilidad presupuestal para plazas
+
+Artículo Tercero. La Secretaría de Finanzas. Inversión y Administración, de conformidad con la disponibilidad presupuestal dotará de las plazas que requiera el Instituto de Salud Pública del Estado de Guanajuato.
