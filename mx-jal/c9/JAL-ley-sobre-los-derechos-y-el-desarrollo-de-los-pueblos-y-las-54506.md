@@ -4,7 +4,7 @@ identifier: "JAL-ley-sobre-los-derechos-y-el-desarrollo-de-los-pueblos-y-las-545
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-11"
-last_updated: "2007-12-22"
+last_updated: "2012-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54506&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # LEY SOBRE LOS DERECHOS Y EL DESARROLLO DE LOS PUEBLOS Y LAS COMUNIDADES INDIGENAS DEL ESTADO DE JALISCO
 
-LEY SOBRE LOS DERECHOS Y EL DESARROLLO DE LOS PUEBLOS Y LAS COMUNIDADES INDIGENAS DEL ESTADO DE JALISCO
+LEY SOBRE LOS DERECHOS Y EL DESARROLLO DE LOS PUEBLOS Y LAS COMUNIDADES INDÍGENAS DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 11 de enero de 2007.
 
@@ -51,13 +51,17 @@ LEY SOBRE LOS DERECHOS Y EL DESARROLLO DE LOS PUEBLOS Y LAS COMUNIDADES INDÍGEN
 
 Esta ley es de orden público e interés social, reglamentaria del artículo 4º de la Constitución Política del Estado de Jalisco.
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 2.
 
-La presente ley tiene por objeto reconocer, preservar y defender los derechos de los pueblos y comunidades indígenas del Estado de Jalisco y las personas que los integran, así como establecer las obligaciones de la administración pública estatal y municipal para elevar el nivel de vida de los pueblos y comunidades indígenas, promoviendo su desarrollo a través de partidas especificas en los presupuestos de egresos respectivos.
+La presente ley tiene por objeto reconocer, preservar y defender los derechos de los pueblos y comunidades indígenas originarios del estado de Jalisco y las personas que los integran, así como establecer las obligaciones de la administración pública estatal y municipal para elevar el nivel de vida de los pueblos y comunidades indígenas, promoviendo su desarrollo a través de partidas específicas en los presupuestos de egresos respectivos.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 3.
 
-Es deber de las autoridades estatales y municipales en el ámbito de sus respectivas competencias, así como de la sociedad en general, respetar y promover el desarrollo de los pueblos indígenas, reconociendo a las comunidades y a las personas que los integran, como titulares de derechos sociales e individuales, conforme a las disposiciones de la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de ellas emanen y en concreto de esta ley especifica.
+Es deber de las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, así como de la sociedad en general, respetar y promover el desarrollo de los pueblos indígenas, reconociendo a las comunidades y a las personas que los integran como titulares de derechos sociales e individuales, a fin de salvaguardar la integridad de los miembros de los pueblos y comunidades indígenas, conforme a las disposiciones de la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de ellas emanen y en concreto de esta ley especifica.
 
 ###### Artículo 4.
 
@@ -67,41 +71,65 @@ Para garantizar el cumplimiento de las obligaciones establecidas en esta ley, el
 
 La conciencia de su identidad indígena debe ser criterio fundamental para determinar a quiénes se aplican las disposiciones de la presente Ley.
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 6.
 
-Los integrantes de cualquier otro pueblo indígena procedentes de otro estado de la República, que por cualquier circunstancia se encuentren radicados en el territorio del Estado de Jalisco, gozarán de los derechos que en lo individual o en lo colectivo reconoce esta ley.
+Los integrantes de cualquier otro pueblo indígena procedentes de otro estado de la república que, por cualquier circunstancia, se encuentren radicados de manera permanente o temporal en el territorio del estado de Jalisco, gozarán de los derechos que en lo individual o en lo colectivo reconoce esta ley.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 7.
 
 Para los efectos de la presente ley, se entenderá por:
 
-I. Pueblos Indígenas: Las colectividades de personas que descienden de aquellas poblaciones que habitaban en el territorio actual del Estado al iniciarse la colonización y que conservan sus propias instituciones sociales, económicas, culturales y políticas, o parte de ellas;
+l. Pueblos indígenas originarios: las colectividades de personas que descienden de aquellas poblaciones que al iniciarse la colonización habitaban y permanecen en el territorio actual del estado y que conservan su cultura, usos y costumbres, formas autónomas de organización social, económica y política o parte de ellas;
 
-II. Comunidad Indígena: Entidad de interés público constituida por un conjunto de personas que pertenecen a un determinado pueblo indígena, que forman una unidad social, económica y cultural, asentada en un territorio y que reconocen autoridades propias de acuerdo con sus usos y costumbres;
+II. Población indígena: conjunto de personas, pertenecientes a un pueblo indígena, que de manera colectiva o grupal habitan un territorio o espacio geográfico en el estado de Jalisco, distinguiéndose tres condiciones: población indígena originaria, población indígena migrante residente y población indígena jornalera agrícola;
 
-III. Integrante de un pueblo o comunidad indígena: La persona física que forma parte del pueblo o comunidad indígena y de su unidad social, económica y cultural;
+III. Comunidad indígena: entidad de interés público, constituida como una unidad social, económica y cultural, que pertenece a un determinado pueblo indígena, asentada en un territorio y que reconoce autoridades propias de acuerdo con sus usos y costumbres; las comunidades pueden responder a diferentes formas de tenencia de la tierra ejidal, comunal o privada;
 
-IV. Territorio Indígena: Región o área geográfica del territorio estatal constituida por espacios continuos y discontinuos ocupados y poseídos por las comunidades indígenas, en cuyo ámbito se manifiesta su vida comunitaria y confirman su cosmovisión, sin detrimento alguno de la soberanía del Estado de Jalisco, ni de la autonomía de sus municipios;
+IV. Localidad indígena: es un núcleo o unidad territorial con espacios administrados internamente y delimitados a través de la comunidad indígena a la que pertenece, geográficamente establecidos bajo los propios sistemas normativos internos a partir de zonas culturalmente homogéneas;
 
-V. Sistemas Normativos Internos: Conjunto de normas jurídicas, escritas u orales de carácter consuetudinario que los pueblos y comunidades indígenas utilizan para regular sus actos públicos y las que sus autoridades aplican para la resolución de sus conflictos y que contribuyen a la integración social;
+V. Integrante de un pueblo o comunidad indígena: la persona física que forma parte del pueblo o comunidad indígena y de su unidad territorial, social, económica y cultural, se encuentre o no en su territorio originario;
 
-VI. Lugares sagrados: Aquellos sitios que en el proceso del desarrollo histórico y cultural de los pueblos indígenas, adquiere una significación que los califica como parte relevante de su espiritualidad; y comprende los sitios prehispánicos y coloniales, y algún otro que los pueblos indígenas consideran como tales;
+VI. Territorio indígena: región o área geográfica del territorio estatal constituida por espacios continuos y discontinuos ocupados y poseídos por las comunidades indígenas y sus localidades, en cuyo ámbito se manifiesta su vida comunitaria y confirman su cosmovisión, sin detrimento alguno de la soberanía del Estado de Jalisco, ni de la autonomía de sus municipios;
 
-VII. Centros ceremoniales: Aquellos lugares sagrados donde los indígenas practican su religión, llevan a cabo sus ceremonias tradicionales y sus diversas manifestaciones culturales; y
+VII. Sistemas normativos internos: conjunto de normas jurídicas, escritas u orales de carácter consuetudinario que los pueblos y comunidades indígenas utilizan para regular sus actos públicos y las que sus autoridades aplican para la resolución de sus conflictos y que contribuyen a la integración social;
 
-VIII. Comisión: Comisión Estatal Indígena del Estado de Jalisco.
+VIII. Lugares sagrados: aquellos espacios que en el proceso histórico de conservación de la identidad de los pueblos indígenas, adquieren y mantienen una significación que los califica como parte relevante de su espiritualidad y cosmovisión. Comprenden sitios tanto tangibles como intangibles;
+
+IX. Centros ceremoniales: aquellos sitios específicos y zonas naturales designados como tales, considerados sagrados, donde los pueblos indígenas originarios practican de forma permanente sus ceremonias tradicionales, espirituales y sus diversas manifestaciones culturales;
+
+X. Comisión: Comisión Estatal Indígena de Jalisco;
+
+XI. Comité: Comité Técnico de Estudio y Dictaminación para la Incorporación de Comunidades y Localidades en Municipios con Población Indígena;
+
+XII. Padrón: el Padrón de Comunidades y Localidades Indígenas es el listado de las comunidades indígenas y sus respectivas localidades, colonias y barrios ubicados en los municipios del estado de Jalisco, que será elaborado y actualizado periódicamente por la Comisión con el apoyo técnico del Comité y
+
+XIII. Registro: la inscripción realizada a través de la Comisión, para recabar información relacionada con la estructura, organización y cultura de la comunidad, localidad, colonia o barrio para su estudio y eventual incorporación al Padrón.
 
 ### CAPITULO II. DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 8.
 
-El Estado de Jalisco tiene una composición pluricultural sustentada originalmente en sus pueblos indígenas. Esta Ley reconoce a los siguientes pueblos indígenas:
+El estado de Jalisco tiene una composición pluricultural sustentada originalmente en sus pueblos indígenas, reconociendo la existencia histórica y vigente en su territorio de los pueblos originarios wixárika, asentado en el norte, y nahua, asentado en el sur y costa sur del estado.
 
-I. Wixarika, asentado en el norte del Estado principalmente en las comunidades indígenas de San Andrés Cohamiata, Santa Catarina Cuexcomatitlán y San Sebastián Teponahuaxtlán, todas del municipio de Mezquitic; Haimatsie en el Municipio de Huejuquilla; Cerro Enmedio en el municipio de Villa Guerrero; Tepizuac en el municipio de Chimaltitan y Tuxpan de Bolaños en el municipio de Bolaños; y
+Esta ley reconoce que en todos sus municipios existe o puede existir población indígena con las siguientes características:
 
-II. Nahuas, asentado en el sur del Estado principalmente en las comunidades indígenas de Cuzalapa, Ayotitlán, Chacala y Plan de Méndez en el municipio de Cuautitlán de García Barragán; Jirosto y Zapotan en el municipio de Villa Purificación; Mazatan en el municipio de Zapotitlan de Vadillo y los Laureles, Nuevo Poblado, San Juan Espanatica, la Joya, Paso de San Juan, San Miguel, Tuxpan y Rancho Niño en el municipio de Tuxpan.
+I. Población indígena originaria: conjunto de personas que descienden de aquellas poblaciones que al iniciarse la colonización habitaban y permanecen en el territorio actual del estado, que conservan su cultura, usos, costumbres, formas autónomas de organización social, económica, política o parte de ellas;
 
-Las comunidades asentadas en el territorio del Estado que cumplan con los supuestos establecidos en la fracción II del artículo 7 de la Ley y que no estén expresamente reconocidas en el presente artículo, gozarán de los derechos que prevé esta ley, previo estudio, dictamen y reconocimiento que como comunidad indígena realice la Comisión conforme al procedimiento que establezca su Reglamento Interior. Dicho reconocimiento deberá publicarse en el Periódico Oficial "El Estado de Jalisco".
+II. Población indígena migrante residente: los integrantes de cualquier otro pueblo indígena procedentes de otro estado de la república, que por cualquier circunstancia se encuentren radicados de manera permanente en el territorio del estado de Jalisco, y
+
+III. Población indígena jornalera agrícola: los integrantes de cualquier otro pueblo indígena procedentes de otro estado de la república, que prestan un servicio personal subordinado, de forma permanente o temporal, en los campos agrícolas de Jalisco.
+
+La Comisión se encargará de elaborar un padrón que contendrá el total de las comunidades, localidades, colonias y barrios ubicados en los municipios del estado de Jalisco, para determinar la condición de población indígena existente en cada municipio, el cual remitirá al Ejecutivo del Estado para su autorización y publicación en el periódico oficial, El Estado de Jalisco.
+
+El Padrón deberá actualizarse con el apoyo técnico del Comité cada dos años y publicarse en el periódico oficial El Estado de Jalisco.
+
+Las comunidades o localidades asentadas en el territorio del estado, que aspiren a ser incorporadas al Padrón, deberán realizar su registro para su eventual incorporación, previo estudio y dictamen que realice y efectúe la Comisión, con el apoyo del Comité.
 
 ###### Artículo 9.
 
@@ -110,6 +138,14 @@ Los derechos de los pueblos y las comunidades indígenas que reconoce la present
 ###### Artículo 10.
 
 Los pueblos y comunidades indígenas deben ser consultados a través de sus instituciones representativas, cada vez que se prevean medidas legislativas o administrativas susceptibles de afectar directa y específicamente sus derechos comunitarios.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+
+Las consultas que se efectúen con las comunidades indígenas deben adecuarse a las circunstancias de éstos, con la finalidad de alcanzar acuerdos o el consentimiento informado, relacionado con las iniciativas o propuestas que las instituciones públicas les presenten y, en su caso, incorporar las recomendaciones y conclusiones que realicen.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+
+Al aplicar la presente legislación en la formulación de planes, programas y proyectos públicos deberán tomarse en consideración las costumbres o el derecho consuetudinario de los pueblos involucrados.
 
 ## TITULO SEGUNDO. DE LA AUTONOMÍA Y ORGANIZACIÓN INTERNA
 
@@ -267,25 +303,37 @@ El Ejecutivo del Estado y los municipios procurarán evitar el establecimiento, 
 
 ### CAPITULO III. DE LA CULTURA E IDENTIDAD INDÍGENA
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 38.
 
-Las comunidades indígenas, con las limitaciones que establecen las leyes de la materia, tienen el deber y el derecho a conservar, proteger y desarrollar el patrimonio cultural y todas sus manifestaciones, incluidos los sitios arqueológicos y sagrados, centros ceremoniales y monumentos históricos.
+Las comunidades indígenas, con las limitaciones que establecen las leyes de la materia, tienen el deber y el derecho a conservar, proteger y desarrollar el patrimonio cultural y todas sus manifestaciones, incluidos los sitios arqueológicos, lugares sagrados, centros ceremoniales y monumentos históricos.
+
+El Estado y los municipios implementarán y desarrollarán, de conformidad con la disponibilidad presupuestal, las acciones y mecanismos que permitan la salvaguarda del patrimonio cultural indígena, a excepción de las materias reservadas a la Federación, respecto de todos aquellos bienes que formen parte del patrimonio nacional, para lo cual se observarán las disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 39.
 
-El Estado y los municipios implementarán con la participación de las comunidades indígenas y con la finalidad de preservar, fortalecer y difundir su cultura las siguientes medidas:
+El Estado y los municipios implementarán, con la participación de las comunidades indígenas, y con la finalidad de preservar, fortalecer, promover, desarrollar y difundir su cultura, las siguientes medidas:
 
-I. Promover la creación de espacios de desarrollo y museos comunitarios;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+
+l. Promover la creación de espacios de desarrollo, museos comunitarios, ferias, festivales de arte, música y demás expresiones culturales indígenas;
 
 II. Promover y apoyar la creatividad artesanal y artística de los indígenas, así como la comercialización de sus productos;
 
-III. Propiciar la preservación y desarrollo de las lenguas indígenas;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+
+III. Propiciar la preservación y desarrollo de las lenguas indígenas y la edición de publicaciones bilingües;
 
 IV. Instrumentar programas para la difusión e información de sus elementos culturales, a través de los medios de comunicación a su alcance;
 
 V. Implementar programas en las comunidades indígenas que tiendan a fomentar el deporte, la recreación y el esparcimiento familiar; y
 
-VI. Respetar y vigilar que no se le impida practicar las ceremonias religiosas en sus comunidades o en los lugares específicos para ello.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+
+VI. Respetar que las comunidades indígenas practiquen libremente sus ceremonias tradicionales, espirituales o religiosas en los lugares específicos para ello.
 
 ###### Artículo 40.
 
@@ -351,13 +399,23 @@ Las oficialías del Registro Civil que estén ubicadas en poblaciones indígenas
 
 La educación en los niveles preescolar, primaria y secundaria que se imparta en las comunidades indígenas deberá ser bilingüe e intercultural. El Estado favorecerá e implementará los mecanismos necesarios para el acceso de los indígenas a la educación media, técnica y superior; debiendo establecer en coordinación con los otros dos ordenes de Gobierno, un sistema de becas para los estudiantes indígenas.
 
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+
+Las autoridades educativas adoptarán, con la participación de los pueblos y comunidades indígenas, medidas eficaces para buscar eliminar dentro del sistema educativo los prejuicios, la discriminación y los adjetivos que denigren a los indígenas, con la finalidad de propiciar la tolerancia, la comprensión y la construcción de una nueva relación de equidad entre los pueblos y comunidades indígenas y todos los sectores de la sociedad jalisciense.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 49.
 
-La educación bilingüe e intercultural deberá fomentar la enseñanza aprendizaje tanto en la lengua de la comunidad indígena en que se imparta, como en el idioma español, para que, como consecuencia, al término de la educación básica egresen alumnos que hablen con fluidez las dos lenguas y que .conozcan e interpreten los elementos de la cultura propia y la nacional.
+La educación bilingüe e intercultural deberá fomentar la enseñanza-aprendizaje tanto en la lengua materna de la comunidad indígena en que se imparta, como en el idioma español, para que, como consecuencia, al término de la educación básica egresen alumnos que tengan amplio dominio en la expresión oral y escrita de las dos lenguas y que conozcan e interpreten los elementos de la cultura propia y la nacional.
 
 ###### Artículo 50.
 
 Los programas y los servicios educativos que se impartan a los integrantes de las comunidades indígenas incluirán, además, el conocimiento de la historia, cultura, tradiciones, técnicas, sistemas de valores y aspiraciones culturales de los pueblos indígenas a los que pertenezcan.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+
+Lo anterior se podrá realizar mediante la producción de materiales didácticos en su lengua materna que ayuden al fortalecimiento de la lengua oral y la lecto-escritura, dentro del sistema educativo bilingüe, con apoyo de los pueblos y comunidades indígenas, quienes tendrán derecho a participar socialmente en el fomento de la instrucción y enseñanza en sus propias lenguas.
 
 ###### Artículo 51.
 
@@ -385,15 +443,19 @@ El Estado en coordinación con los municipios, realizarán programas de difusió
 
 ### CAPITULO ÚNICO. DE LA PROTECCIÓN DE LOS DERECHOS LABORALES
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 56.
 
-Las autoridades estatales y municipales tendrán la obligación de denunciar ante las autoridades competentes, los casos que lleguen a su conocimiento en que los trabajadores indígenas laboren en condiciones discriminatorias, desiguales o peligrosas para su salud e integridad física o que sean sometidos a jornadas laborales excesivas, además de los casos en que exista coacción en su contratación laboral o pago en especie y dentro del ámbito de sus respectivas competencias, deberán tomar las medidas necesarias para prevenir o eliminar esa situación, fomentando la vigilancia y en su caso, brindar el apoyo necesario para facilitar la denuncia por parte de los indígenas.
+Las autoridades estatales y municipales tendrán la obligación de denunciar ante las autoridades competentes los casos que lleguen a su conocimiento en que los trabajadores indígenas laboren en condiciones discriminatorias, desiguales o peligrosas para su salud e integridad física o que sean sometidos a jornadas laborales excesivas, además de los casos en que exista coacción en su contratación laboral o pago en especie. Y dentro del ámbito de sus respectivas competencias, deberán tomar las medidas necesarias para prevenir o eliminar esa situación, fomentando la vigilancia y, en su caso, asesorar y brindar el apoyo necesario para facilitar la denuncia por parte de la persona afectada.
 
 ###### Artículo 57.
 
 El Estado y los municipios, a fin de proteger el sano desarrollo de los menores de edad, llevará acabo servicio de orientación social encaminados a concientizar a los integrantes de las comunidades indígenas, para que el trabajo que desempeñen los niños, en el seno de la familia, no sea excesivo, que perjudique su salud o les impida continuar con su educación.
 
-Además, establecerán mecanismos de vigilancia, en coordinación con las autoridades federales competentes, para que en el caso de las familias indígenas jornaleras que se contratan en los campos agrícolas de la entidad, no se permita utilizar el trabajo de los niños o el de las mujeres durante el estado de gestación o el de lactancia, en labores que pongan en peligro su salud.
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+
+Además, establecerán mecanismos de vigilancia, en coordinación con las autoridades federales competentes, para que en el caso de las familias indígenas jornaleras que se contratan en los campos agrícolas de los municipios identificados con esta práctica en la entidad, no se permita utilizar el trabajo de los niños y el de las mujeres durante el estado de gestación y de lactancia, si estas labores ponen en peligro su salud.
 
 ###### Artículo 58.
 
@@ -637,17 +699,23 @@ c) Uno por Tuxpan de Bolaños, Bolaños;
 
 d) Uno por Mesa del Tirador, Bolaños;
 
-e) Uno por Santa Catarina Cuexcomatitlán, Mezquític;
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+
+e) Uno por Santa Catarina Cuexcomatitlán, Mezquitic;
 
 f) Uno por San Miguel Huaixtita, Mezquitic;
 
 g) Uno por Pueblo Nuevo, Mezquitic;
 
-h) Uno por acota de la Sierra, Mezquitic; y
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+
+h) Uno por Ocota de la Sierra, Mezquitic, y
 
 i) Uno por Nueva Colonia, Mezquitic.
 
-II. Ocho representantes Nahuas, de la siguiente manera:
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+
+II. Ocho representantes nahuas, de la siguiente manera:
 
 a) Uno por Tuxpan;
 
@@ -667,7 +735,9 @@ III. Cuatro representantes de los indígenas de otros estados asentados en la zo
 
 IV. Tres representantes de instituciones académicas y de investigación, especialistas en materia indígena;
 
-V. Tres representantes de organizaciones sociales que trabajen con las comunidades indígenas;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+
+V. Tres representantes de organizaciones sociales que trabajen con las comunidades indígenas, y
 
 VI. Un representante por cada uno de los gobiernos municipales siguientes:
 
@@ -679,7 +749,9 @@ c) Chimaltitan;
 
 d) Guadalajara;
 
-e) Huejuquilla;
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+
+e) Huejuquilla el Alto;
 
 f) Mezquitic;
 
@@ -697,15 +769,35 @@ l) Zapopan; y
 
 m) Zapotitlan de Vadillo.
 
-Los integrantes a que se refieren las fracciones I, a la V serán nombrados de conformidad con la reglamentación que expida la Junta de Gobierno, debiendo garantizarse su legítima representatividad.
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+
+Los integrantes serán nombrados de conformidad con lo dispuesto en el reglamento de la presente ley, debiendo garantizarse su legítima representatividad.
 
 En la composición del Consejo Consultivo siempre habrá mayoría de representantes indígenas.
 
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+
+El Consejo Consultivo se integrará como asamblea integrada con los representantes indígenas wixaritari, nahuas, migrantes residentes en el estado, instituciones académicas, organizaciones sociales y gobiernos municipales, antes señalados. Además contará con un Presidente una Comisión Coordinadora, la cual se encarga de coordinar el trabajo interior del Consejo, y una Comisión de Honor, la cual se encarga del control interno del Consejo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 78.
 
-El Consejo Consultivo de la Comisión analizará, opinará y hará propuestas a la Junta de Gobierno y al Director General sobre las políticas, programas y acciones públicas para el desarrollo de los pueblos indígenas.
+El Consejo Consultivo, como órgano de consulta y participación indígena de la Comisión, analizará, opinará y hará propuestas y recomendaciones a la Junta de Gobierno y al Director General sobre las políticas, programas y acciones públicas para el desarrollo de los pueblos y comunidades indígenas.
 
 El Consejo Consultivo sesionará de manera trimestral y será presidido por un representante indígena.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+
+En sesiones ordinarias sesionará con la mitad más uno de sus integrantes; respecto de las extraordinarias, será válido con la presencia de dos terceras partes de sus integrantes.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+
+Las decisiones se tomarán por mayoría de votos de sus integrantes, y en caso de empate, el Presidente tiene el voto de calidad.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+
+En la sesión que se discuta la incorporación de una nueva comunidad indígena, se procurará contar con la mayoría de representantes indígenas.
 
 ### CAPITULO V. DEL PATRIMONIO DE LA COMISION
 
@@ -800,5 +892,9 @@ C.P. JOSÉ RAFAEL RÍOS MARTÍNEZ
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 22 DE DICIEMBRE DE 2007.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 25 DE SEPTIEMBRE DE 2012.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
