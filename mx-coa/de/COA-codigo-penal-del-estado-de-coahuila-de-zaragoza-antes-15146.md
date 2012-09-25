@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-del-estado-de-coahuila-de-zaragoza-antes-15146"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-28"
-last_updated: "2012-05-25"
+last_updated: "2012-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO PENAL DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 28 de mayo de 1999.
 
@@ -711,6 +711,8 @@ III. ELEMENTOS ESENCIALES AL MANTENIMIENTO DEL ORDEN PÚBLICO. Recursos o elemen
 
 ### CAPÍTULO SEGUNDO. DELITOS DE ABOGADOS, PATRONOS Y LITIGANTES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 190.
 
 SANCIONES Y FIGURA TÍPICA DE CONSPIRACIÓN POLÍTICA. Se aplicará de tres días a cinco años de prisión y multa: A quienes concierten los medios para cometer rebelión, sedición, motín, terrorismo o sabotaje.
@@ -1303,9 +1305,9 @@ Estas penas podrán ser disminuidas hasta una tercera parte en beneficio de aque
 
 CONCEPTO, LÍMITES Y MODALIDADES DE LA PENA DE PRISIÓN. La pena de prisión consiste en la privación de la libertad corporal del sentenciado y se sujetará a las reglas siguientes:
 
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
-I. Nunca será menor de tres días ni mayor de sesenta años, excepto cuando se trate de los delitos de terrorismo, homicidio calificado, parricidio, matricidio, filicidio, uxoricidio, fratricidio, homicidio en contra de personas en función de su actividad dentro del periodismo, secuestro, violación, violación equiparada, violación agravada, violación por instrumento distinto al natural y robo especialmente agravado, cuando concurran con uno o más delitos iguales o distintos, casos en los cuales deberán aplicarse las reglas del concurso, aún y cuando con ello se exceda el máximo señalado.
+I. Nunca será menor de tres días ni mayor de sesenta años, excepto cuando se trate de los delitos de terrorismo, homicidio calificado, parricidio, matricidio, filicidio, uxoricidio, fratricidio, homicidio en contra de personas en función de su actividad dentro del periodismo o a miembros del ejército, de los cuerpos policiacos y de seguridad en el ejercicio de sus funciones, secuestro, violación, violación equiparada, violación agravada, violación por instrumento distinto al natural y robo especialmente agravado, cuando concurran con uno o más delitos iguales o distintos, casos en los cuales deberán aplicarse las reglas del concurso, aún y cuando con ello se exceda el máximo señalado.
 
 II. Su cumplimiento, así como los beneficios que supongan la reducción de la condena, se ajustarán a lo dispuesto en el presente Código y en las leyes.
 
@@ -1553,9 +1555,9 @@ III. ADECUACIÓN PARA LA READAPTACIÓN. El sustitutivo se estime más apto que l
 
 IV. CAUCIÓN PARA GARANTIZAR SUJECIÓN A LA AUTORIDAD. Se otorgue caución en efectivo para asegurar que el sentenciado se presentará cuantas veces se le llame por la autoridad. El juzgador podrá prescindir de la caución en atención a las condiciones económicas del sentenciado; pero en tal caso siempre se le requerirá que proteste ante el juez que cumplirá con los citatorios que se le hagan.
 
-> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
-ARTÍCULO 78 BIS. EXCEPCIONES PARA QUE PROCEDA LA CONDENA CONDICIONAL.- Los sentenciados por los delitos de extorsión o extorsión por sujeto calificado o por cualquier delito que se haya cometido con violencia o intimidaci ón (sic), utilizando armas de fuego o blancas, no tendrán derecho al beneficio de condena condicional, así como de libertad preparatoria, sustitución, conmutación de la pena o cualquier otro que implique reducción de la condena.
+ARTICULO 78 BIS EXCEPCIONES PARA QUE PROCEDA LA CONDENA CONDICIONAL.- Los sentenciados por los delitos de extorsión o extorsión por sujeto calificado o por cualquier delito que se haya cometido con violencia o intimidación, utilizando armas de fuego o blancas, así como por el delito de venta sin permiso de bebidas alcohólicas, no tendrán derecho al beneficio de condena condicional, así como de libertad preparatoria, sustitución, conmutación de la pena o cualquier otro que implique reducción de la condena.
 
 ###### ARTÍCULO 219.
 
@@ -1867,7 +1869,7 @@ SANCIONES Y FIGURA TÍPICA DE PREVARICACIÓN AGRAVADA EN RESOLUCIONES DE FONDO. 
 
 ###### ARTÍCULO 233.
 
-SANCIONES Y FIGURAS TÍPICAS DE DELITOS DE ABOGADOS, PATRONOS Y LITIGANTES. Se aplicará prisión de un mes a cinco años y multa, inhabilitación de un mes a dos años del derecho de ejercer la actividad profesional y privación definitiva en caso de reincidencia, al abogado, patrono, defensor, o litigante que:
+SANCIONES Y FIGURAS TÍPICAS DE DELITOS DE ABOGADOS, PATRONOS Y LITIGANTES. Se aplicará prisión de uno a seis años y multa, inhabilitación de seis meses a dos años del derecho de ejercer la actividad profesional y privación definitiva de dicho derecho en caso de reincidencia, al abogado, patrono, defensor, o litigante que:
 
 I. ABANDONO INJUSTIFICADO DE ASUNTOS. Abandone una defensa o negocio sin causa justificada.
 
@@ -1880,6 +1882,10 @@ IV. PROMOCIÓN PROCESAL ANTIJURÍDICA. Pida términos para probar lo que en form
 V. NEGLIGENCIA EN LA DEFENSA DE CAUSAS PENALES. En causas penales sólo acepte el cargo o pida la libertad caucional del inculpado; o no promueva pruebas que claramente deba ofrecer.
 
 VI. PROMOCIÓN O INTERVENCIÓN CON FALSEDAD EN JUICIO, PROCESO O PROCEDIMIENTO JUDICIAL, ADMINISTRATIVO O DE CUALQUIER ORDEN LEGAL. A sabiendas afirme o alegue hechos falsos; o presente documento falso o alterado; para que se inicie o continúe un juicio, proceso o procedimiento, sea administrativo, judicial o de cualquier orden legal; o dentro de cualquiera de aquellos y sin hacerlo del conocimiento de la autoridad que conozca, presente u ofrezca documento falso o alterado, o un testigo falso; o por sí o por otro haga que un testigo declare con falsedad en el curso de aquéllos.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+
+Este delito se perseguirá de oficio.
 
 ###### ARTÍCULO 234.
 
@@ -2783,6 +2789,10 @@ Las mismas penas se aplicarán a los integrantes de una pandilla que por medio d
 
 Si aparece que se comete algún otro delito, se estará a las reglas del concurso que sean aplicables.
 
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+
+ARTICULO 275 BIS. SANCIONES Y FIGURA TÍPICA DE INSTALACIÓN U OPERACIÓN DE CENTROS DE JUEGOS Y APUESTAS SIN LA AUTORIZACIÓN DE LA AUTORIDAD COMPETENTE. Se aplicará pena de cuatro a diez años de prisión y multa, a quien destine o aproveche un local en forma habitual, temporal o permanente para la instalación u operación de casinos, centros de apuestas, salas de sorteos, casas de juego y similares sin la autorización de la autoridad competente.
+
 #### SECCIÓN SEGUNDA. USURPACIÓN DE PROFESIÓN
 
 #### SECCIÓN PRIMERA. PECULADO
@@ -3515,9 +3525,9 @@ SANCIONES PARA EL HOMICIDIO EN RIÑA. Si el homicidio se comete en riña, se san
 
 SANCIONES PARA EL HOMICIDIO CALIFICADO. Se aplicará prisión de dieciocho a cincuenta años y multa, a quien cometa homicidio calificado, si sólo se le condena hasta por tres circunstancias calificativas; pero si se le condena por más circunstancias calificativas, la pena máxima de prisión será de sesenta años y multa.
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
-ARTÍCULO 336 BIS. SANCIONES y FIGURA TÍPICA EQUIPARADA AL DELITO DE HOMICIDIO CALIFICADO. Se aplicaran las mismas penas previstas para el homicidio calificado a quien prive de la vida a una persona en función de su actividad dentro del periodismo.
+ARTÍCULO 336 BIS.- SANCIONES Y FIGURA TÍPICA EQUIPARADA AL DELITO DE HOMICIDIO CALIFICADO. Se aplicarán las mismas penas previstas para el homicidio calificado a quien prive de la vida a una persona en función de su actividad dentro del periodismo o a miembros del ejército, de los cuerpos policiacos y de seguridad en el ejercicio de sus funciones.
 
 ### CAPÍTULO PRIMERO. PRIVACIONES DE LA LIBERTAD
 
@@ -3585,7 +3595,9 @@ Si la conducta descrita se realizara culposamente, las sanciones se reducirán a
 
 ### CAPÍTULO SEGUNDO. SECUESTRO
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+(NOTA: EL 21 DE MAYO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO CUARTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2012, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 22 DE MAYO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 347.
 
@@ -3811,79 +3823,151 @@ SANCIONES Y FIGURA TÍPICA EQUIPARADA A LA PRIVACIÓN DE LIBERTAD. Se aplicará 
 
 ###### ARTÍCULO 371.
 
-SANCIONES Y FIGURAS TIPICAS DE SECUESTRO. Se aplicará prisión de dieciséis a cuarenta años y multa, al que por cualquier medio prive de la libertad a otro, con alguno de los propósitos siguientes:
+SANCIONES Y FIGURAS TÍPICAS DE SECUESTRO. SE APLICARÁ PRISIÓN DE VEINTE A SESENTA AÑOS Y MULTA, AL QUE POR CUALQUIER MEDIO PRIVE DE LA LIBERTAD A OTRO, CON ALGUNO DE LOS PROPÓSITOS SIGUIENTES:
+
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 I. Obtener rescate para sí o para un tercero, o cualquier otra ventaja indebida.
 
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
 II. Causar daño o perjuicio al secuestrado o a otra persona relacionada con éste.
+
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 III. Detener en calidad de rehén a una persona y amenazarla con privarla de la vida o con causarle daño, para que la autoridad o un particular realice o deje de realizar un acto cualquiera.
 
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
 IV. Obligarle a ejecutar, directa o indirectamente, operaciones o transacciones bancarias, mercantiles, civiles o cualquier otra que produzca retiro o liberación de sumas en efectivo, transmisión de derechos o extinción de obligaciones, o a que proporcione al agente los documentos, tarjetas bancarias, claves, números de identificación personal y demás datos indispensables para que éste las lleve a cabo.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
 En todos los casos se impondrá como sanción el decomiso de los instrumentos, objetos y productos del delito, considerándose, entre éstos, los vehículos, armas, muebles y demás bienes de que se sirvan los responsables para la perpetración del delito de secuestro.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 Asimismo, se impondrá como sanción la prohibición de residir o de acudir a determinado lugar; particularmente el que habite, labore o frecuente el ofendido por el delito.
 
 ARTÍCULO 371 BIS. (DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2006)
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 372.
 
 SANCIONES Y CIRCUNSTANCIAS CALIFICATIVAS DE SECUESTRO. El delito de secuestro a que se refiere el artículo anterior será calificado y se sancionará:
 
-I. De veinte a cuarenta y cinco años de prisión y multa, cuando concurra alguna o algunas de las circunstancias siguientes:
+(NOTA: EL 21 DE MAYO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO CUARTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2012, DECLARÓ LA INVALIDEZ DEL ACÁPITE DE ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 22 DE MAYO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+
+I. DE VEINTICINCO A SESENTA AÑOS DE PRISIÓN Y MULTA, CUANDO CONCURRA ALGUNA O ALGUNAS DE LAS CIRCUNSTANCIAS SIGUIENTES:
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 1) El ofendido sea servidor público, dirigente sindical, empresarial o religioso, candidato a un cargo de elección popular, periodista o comunicador.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
 2) El secuestro se realice en casa habitación, sitio de trabajo, centro educativo, ruta o lugar comúnmente frecuentados por el pasivo o en las inmediaciones de los mismos, en vías o caminos públicos, en despoblado o sitios solitarios o en áreas desprotegidas.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 3) Los autores y partícipes obren en grupo de dos o más personas.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
 4) Se realice con engaño, violencia física o moral ejercida en contra del ofendido o algún tercero.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 5) Se haga uso de armas en el inicio de la comisión del delito o en el transcurso de su ejecución.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
 6) El hecho se cometa utilizando orden de aprehensión o detención falsas, o simulando tenerlas.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 7) El secuestrador obligue bajo amenazas, engaños o violencia a un tercero a participar en cualquier etapa del delito.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
 8) Afecte gravemente los bienes o la actividad profesional o económica del ofendido.
 
-II. De veinticinco a cincuenta años de prisión y multa cuando se dé alguna o algunas de las situaciones siguientes:
+(NOTA: EL 21 DE MAYO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO CUARTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2012, DECLARÓ LA INVALIDEZ DEL ACÁPITE DE ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 22 DE MAYO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+
+II. DE TREINTA A SESENTA AÑOS DE PRISIÓN Y MULTA CUANDO SE DÉ ALGUNA O ALGUNAS DE LAS SITUACIONES SIGUIENTES:
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 1) El ofendido sea menor de dieciocho años o mayor de sesenta, se trate de un incapaz, de una mujer embarazada o de una persona enferma que requiera el suministro de medicamentos o tratamientos especiales, o que por cualquier otra circunstancia esté en situación de inferioridad respecto del secuestrador.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
 2) Se ejecute la conducta en un pariente hasta el cuarto grado de consaguinidad (sic), segundo de afinidad o primero civil, sobre la cónyuge o el cónyuge, la concubina o el concubinario, o aprovechando la confianza depositada por el ofendido en el autor o en alguno o algunos de los partícipes por razones de amistad, gratitud, relación laboral u otro motivo similar que produzca confianza.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 3) Intervenga un servidor público o ex servidor público, un miembro o ex miembro de cualquier institución de seguridad pública, o se ostente como tal sin serlo.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
 4) Se utilicen insignias, uniformes, placas, instalaciones, frecuencias, claves o códigos oficiales, se empleen redes, sistemas informáticos o cualquier otro medio de alta tecnología, que facilite la consecución de los propósitos del secuestrador.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 5) Se haga uso de narcóticos, o cualquier sustancia depresora que anule, disminuya o tienda a anular la resistencia del ofendido.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
 6) Se cometa simultánea o sucesivamente contra más de una persona, sin perjuicio de las reglas aplicables en materia de concurso.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
 7) Se presione la entrega o verificación de lo exigido con amenaza de lesión o muerte al secuestrado.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 8) La privación de la libertad del secuestrado se prolongue por más de cinco días.
 
 Cuando se trate de los incisos 3 y 4, además de la pena señalada, se impondrá, en su caso, la destitución del empleo, cargo o comisión y la inhabilitación definitiva para obtener y desempeñar otro.
 
-III. De treinta a cincuenta y cinco años de prisión y multa, cuando se surta alguno o algunos de los supuestos siguientes:
+(NOTA: EL 21 DE MAYO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO CUARTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2012, DECLARÓ LA INVALIDEZ DEL ACÁPITE DE ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 22 DE MAYO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+
+III. DE CUARENTA A SESENTA AÑOS DE PRISIÓN Y MULTA, CUANDO SE SURTA ALGUNO O ALGUNOS DE LOS SUPUESTOS SIGUIENTES:
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 1) Se someta al secuestrado a tortura física o moral, maltrato o vejaciones, o a violencia sexual durante el tiempo en que se mantenga el secuestro.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
 2) Se le infiera al ofendido alguna o algunas de las lesiones enunciadas en los artículos del 339 al 342 de este Código, sin perjuicio de las penas que a éstas correspondan.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 3) Se cometa con la finalidad de extraer al pasivo algún órgano de su cuerpo para trasplante o comercialización, independientemente de los delitos que resulten.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+
 4) Se cometa con fines terroristas.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 5) Si el secuestrado fallece durante el tiempo en que se encuentre privado de su libertad o si después de ser liberado, muere dentro de los ciento ochenta días siguientes por causas relacionadas directamente con el secuestro.
 
-IV. De treinta y cinco a sesenta años de prisión y multa, si el secuestrado es privado de la vida por su secuestrador.
+(NOTA: EL 21 DE MAYO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO CUARTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2012, DECLARÓ LA INVALIDEZ DEL ACÁPITE DE ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 22 DE MAYO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+
+IV. DE CINCUENTA A SESENTA AÑOS DE PRISIÓN Y MULTA, SI EL SECUESTRADO ES PRIVADO DE LA VIDA POR SU SECUESTRADOR.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 En todos estos supuestos, además de las sanciones previstas para cada una de las circunstancias calificativas de secuestro; se aplicarán las que correspondan por los delitos que resulten, conforme a las reglas de concurso.
 
@@ -4393,6 +4477,8 @@ Se procederá de oficio contra los demás autores o partícipes que intervengan.
 
 ### CAPÍTULO DÉCIMO. EXTORSIÓN
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 421.
 
 SANCIONES Y FIGURA TIPICA DE ABUSO DE CONFIANZA. Se aplicará prisión de tres días a seis años y multa: A quien con perjuicio de tercero y con animo de apropiación, disponga para sí o para otro de una cosa mueble ajena, de la cual sólo se le transmitió la tenencia y no el dominio y sin que su valor exceda de mil veces el salario mínimo.
@@ -4545,7 +4631,7 @@ Se aplicará prisión de un mes a seis años y multa: A quien realice cualquiera
 
 ###### ARTÍCULO 439.
 
-PENALIDAD Y FIGURA TÍPICA DE EXTORSIÓN. Se aplicará prisión de dos a diez años y multa: A quien mediante la intimidación o la violencia, obligue a otro a realizar un acto u omisión para obtener para sí o para otro, un provecho indebido; o para que se cause daño o perjuicio o a otro.
+PENALIDAD Y FIGURA TÍPICA DE EXTORSIÓN. Se aplicará prisión de cinco a doce años y multa: A quien mediante la intimidación o la violencia, obligue a otro a realizar un acto u omisión para obtener para sí o para otro, un provecho indebido; o para que se cause daño o perjuicio o a otro.
 
 ###### ARTÍCULO 440.
 
@@ -4924,3 +5010,9 @@ OCTAVO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 25 DE MAYO DE 2012.
 
 ÚNICO.- El presente decreto entrara en vigor al día siguiente de la fecha de publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE SEPTIEMBRE DE 2012.
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
