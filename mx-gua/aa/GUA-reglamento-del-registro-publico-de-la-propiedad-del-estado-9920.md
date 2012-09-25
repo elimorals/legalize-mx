@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-del-registro-publico-de-la-propiedad-del-estado-9920
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-09-20"
-last_updated: "2004-06-01"
+last_updated: "2012-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9920&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,17 @@ state: "GUA"
 ---
 # REGLAMENTO DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE GUANAJUATO
 
-REGLAMENTO DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE GUANAJUATO
+REGLAMENTO DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL REGISTRO PÚBLICO DE LA PROPIEDAD PARA EL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 25 DE SEPTIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Guanajuato, el viernes 20 de septiembre de 1996.
 
 AL MARGEN UN SELLO CON EL ESCUDO DE LA NACION.- PODER EJECUTIVO.- GUANAJUATO.
 
-VICENTE FOX QUESADA GOBERNADOR DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, EN EJERCICIO DE LA FACULTAD QUE ME CONFIERE EL ARTICULO 77, FRACCIONES II Y III DE LA CONSTITUCION POLlTICA PARA EL ESTADO DE GUANAJUATO, Y CON FUNDAMENTO EN LOS ARTICULOS 2°, 5°, 17 Y 18 FRACCION XXI DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO, Y
+VICENTE FOX QUESADA GOBERNADOR DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, EN EJERCICIO DE LA FACULTAD QUE ME CONFIERE EL ARTICULO 77, FRACCIONES II Y III DE LA CONSTITUCION POLITICA PARA EL ESTADO DE GUANAJUATO, Y CON FUNDAMENTO EN LOS ARTICULOS 2°, 5°, 17 Y 18 FRACCION XXI DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO, Y
 
 C O N S I D E R A N D O.
 
@@ -900,3 +902,25 @@ P.O. 1 DE JUNIO DE 2004.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto Gubernativo entrará en vigor el cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 25 DE SEPTIEMBRE DE 2012.
+
+Inicio de vigencia
+
+Artículo Primero. El presente Reglamento entrará en vigencia a partir del lo. de enero de 2013.
+
+Abrogación del Reglamento vigente
+
+Artículo Segundo. Se abroga el Reglamento del Registro Público de lo Propiedad del Estado de Guanajuato, contenido en el Decreto Gubernativo número 40, publicado en el Periódico Oficial del Gobierno del Estado, número 76 Tercera Parte, el 20 de septiembre de 1996.
+
+Obligatoriedad de los medios electrónicos
+
+Artículo Tercero. La obligatoriedad de la presentación electrónica de testimonio o documento y anexos, debidamente escaneados y firmados electrónicamente, así como del Registrador de incorporar las imágenes escaneadas a la base de datos registral, será exigible a partir del 1o. de marzo de 2013.
+
+Plazo de la publicación de Lineamientos
+
+Artículo Cuarto. La Dirección General dentro del año siguiente a la publicación del presente Reglamento, emitirá los Lineamientos del Registro Público de la Propiedad.
+
+Asuntos en trámite
+
+Artículo Quinto. Todas las solicitudes en trámite ante las oficinas del Registro Públicos (sic) de lo Propiedad, al entrar en vigor este Reglamento, continuarán rigiéndose por el Reglamento que se abroga en el Artículo Segundo Transitorio, hasta su conclusión.
