@@ -4,7 +4,7 @@ identifier: "COA-ley-de-planeacion-para-el-desarrollo-del-estado-de-coahuila-866
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-09"
-last_updated: "2012-03-09"
+last_updated: "2012-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 9 de marzo de 2012.
 
@@ -175,11 +175,15 @@ El Comité de Planeación para el Desarrollo del Estado de Coahuila de Zaragoza 
 
 I. Un Presidente, que será el titular del ejecutivo;
 
-II. Un Coordinador General, que será el titular de la Secretaría Técnica y de Planeación;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+
+II. Un Coordinador General, que será el titular de la Secretaría de Desarrollo Social;
 
 III. Un Secretario Técnico; que será el Secretario de Finanzas;
 
-IV. Vocales, que serán los titulares de las dependencias de la administración pública estatal;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+
+IV. Vocales, que serán los titulares de las dependencias de la administración pública estatal, así como de la Secretaría Técnica y de Planeación;
 
 V. Un Comisario, quien será designado por el titular de la Secretaría de Fiscalización y Rendición de Cuentas y que participará con voz pero sin voto, y
 
@@ -266,6 +270,26 @@ III. Apoyar en el cumplimiento de los objetivos y metas de los proyectos y accio
 IV. Las demás que al efecto disponga esta ley y otras disposiciones aplicables.
 
 La integración, organización y funcionamiento de los COPLADER se regirá conforme a lo que al efecto dispongan sus instrumentos de creación.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 17 Bis.
+
+Los subcomités a que se refiere la fracción I del artículo 13 de esta ley, estarán integrados por:
+
+I. Un coordinador, que será el titular de la dependencia o entidad de la Administración Pública Estatal cuyas actividades se relacionen directamente con las del subcomité;
+
+II. Un secretario técnico, que será designado por el presidente del COPLADEC;
+
+III. Un coordinador operativo, que será el responsable del área de planeación o área similar de la dependencia o entidad de la Administración Pública Estatal, cuyas actividades se relacionen con el subcomité sectorial, nombrado por el coordinador de éste;
+
+IV. Los titulares de las dependencias y entidades de la Administración Pública Estatal y delegados Federales cuyas actividades se relacionen con las del subcomité;
+
+V. Los representantes de las instituciones, organizaciones sociales y empresariales cuyas actividades se relacionen con las del subcomité, a invitación expresa del coordinador;
+
+VI. Los Municipios a invitación expresa del coordinador; y
+
+VII. Los demás que señale el acuerdo de creación del subcomité.
 
 #### SECCIÓN TERCERA. DEL TITULAR DEL EJECUTIVO Y LA SECRETARÍA TÉCNICA Y DE PLANEACIÓN
 
@@ -622,3 +646,11 @@ EL SECRETARIO DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS
 JORGE EDUARDO VERÁSTEGUI SAUCEDO
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE SEPTIEMBRE DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
