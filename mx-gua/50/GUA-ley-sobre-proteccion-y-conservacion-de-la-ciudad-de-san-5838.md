@@ -4,7 +4,7 @@ identifier: "GUA-ley-sobre-proteccion-y-conservacion-de-la-ciudad-de-san-5838"
 country: "mx"
 rank: "ley"
 publication_date: "1939-06-15"
-last_updated: "1939-06-15"
+last_updated: "2012-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5838&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,180 +21,238 @@ state: "GUA"
 ---
 # LEY SOBRE PROTECCION Y CONSERVACION DE LA CIUDAD DE SAN MIGUEL DE ALLENDE, DECLARANDOLA, AL EFECTO, POBLACION TIPICA, GUANAJUATO
 
-RESOLUCIÓN 1/2025 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE TRECE DE OCTUBRE DE DOS MIL VEINTICINCO, POR LA QUE SE CREA EL COMITÉ DE GOBIERNO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE OCTUBRE DE 2012 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-TEXTO ORIGINAL.
+LEY SOBRE PROTECCIÓN Y CONSERVACIÓN DE LA CIUDAD DE SAN MIGUEL DE ALLENDE, DECLARÁNDOLA, AL EFECTO, POBLACIÓN TÍPICA DEL ESTADO DE GUANAJUATO
 
-Resolución publicada en el Semanario Judicial de la Federación, en el Registro Digital Número 6082 de la Duodécima Época, el viernes 17 de octubre de 2025.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL CÓDIGO TERRITORIAL PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, PUBLICADO EN EL P.O. DE 25 DE SEPTIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO A PARTIR DEL 1 DE ENERO DE 2013.</small>
 
-RESOLUCIÓN 1/2025 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE TRECE DE OCTUBRE DE DOS MIL VEINTICINCO, POR LA QUE SE CREA EL COMITÉ DE GOBIERNO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2012.
 
-El veintidós de septiembre de dos mil veinticinco, se publicó en el Diario Oficial de la Federación el Acuerdo General número 12/2025 (12a.), del Pleno de la Suprema Corte de Justicia de la Nación, de tres de septiembre de dos mil veinticinco, cuya finalidad fue establecer las bases para la creación, integración y funcionamiento de comités en el máximo tribunal, con el propósito de mejorar su operación institucional, fortalecer su capacidad administrativa y jurisdiccional y, consecuentemente, garantizar una gestión eficiente y colegiada de los asuntos competencia del Pleno.
+Ley publicada en el Periódico Oficial del Estado de Guanajuato, el 15 de junio de 1939.
 
-En dicho Acuerdo, se estableció que el Pleno aprobará, por resolución expresa, la creación de comités permanentes o temporales, señalando las funciones específicas que debe desarrollar en materia jurisdiccional, administrativa o de coordinación institucional y que cada comité se integrará por tres o hasta cinco personas Ministras, quienes podrán ser asistidas por una persona Secretaria de Estudio y Cuenta o Secretaria de Estudio y Cuenta Adjunta adscrita a su Ponencia.
+EL CIUDADANO LICENCIADO RAFAEL RANGEL, GOBERNADOR CONSTITUCIONAL INTERINO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, a los habitantes del mismo sabed:
 
-Con fecha doce de septiembre de dos mil veinticinco se publicó en el Diario Oficial de la Federación el Acuerdo General del Pleno del Órgano de Administración Judicial, por el que se autoriza la continuidad de la aplicación de la normativa administrativa emitida hasta antes del primero de septiembre de dos mil veinticinco, por la Suprema Corte de Justicia de la Nación y el Tribunal Electoral del Poder Judicial de la Federación, a través de las unidades administrativas correspondientes, hasta en tanto el Órgano de Administración Judicial emita las disposiciones respectivas.
+Que el H. Congreso del Estado se ha servido dirigirme el siguiente Decreto:
 
-A fin de garantizar la eficiencia operativa en la Suprema Corte de Justicia de la Nación, es necesaria la creación de un Comité de Gobierno con la finalidad de supervisar el funcionamiento de los órganos y áreas adscritas, validar el anteproyecto de presupuesto de egresos previo a someterlo a consideración del Pleno, expedir Acuerdos Generales en materia de su competencia y en general tramitar o resolver cualquier asunto de su competencia, que sea de trascendencia o relevancia para el funcionamiento del máximo tribunal.
+NUMERO 292
 
-Con base en lo anterior, el Pleno de la Suprema Corte de Justicia de la Nación:
+La H. XXXVI Legislatura Constitucional del Estado Libre y Soberano de Guanajuato, decreta:
 
-RESUELVE:
+LEY sobre protección y conservación de la Ciudad de San Miguel de Allende, declarándola, al efecto, Población Típica.
 
-Primero. Se crea el Comité de Gobierno de la Suprema Corte de Justicia de la Nación.
+###### Artículo 1º.
 
-Segundo. La integración, atribuciones y funcionamiento del Comité de Gobierno será conforme a lo siguiente:
+"Se declara población Típica la ciudad de S. Miguel de Allende; quedando sujeto a esta declaración y a las disposiciones de la presente ley todo el espacio urbanizado comprendido dentro de los límites que actualmente forman el perímetro de dicha ciudad".
 
-1. El Comité de Gobierno de la Suprema Corte de Justicia de la Nación estará integrado por la persona titular de la Presidencia y dos Ministras o Ministros designados por el Pleno.
+###### Artículo 2º.
 
-La integración del Comité se cambiará cada vez que se renueve la Presidencia de la Suprema Corte.
+"No podrán llevarse a cabo, dentro de la ciudad, construcciones que no estén de acuerdo con el estilo arquitectónico de la misma. A tal efecto, no podrá emprenderse ninguna obra nueva sin que previamente se haya obtenido autorización escrita de la Junta de Vigilancia que establece esta Ley. La misma Junta fijará las bases a las cuales deberán sujetarse las construcciones y las hará saber a las personas que tengan interés en conocerlas".
 
-Las Ministras y Ministros integrantes del Comité no podrán designar suplentes.
+###### Artículo 3º.
 
-Las personas integrantes del Comité tendrán derecho a voz y voto durante las sesiones y podrán ser asistidas por una persona Secretaria de Estudio y Cuenta o Secretaria de Estudio y Cuenta Adjunta adscrita a su Ponencia.
+"Tampoco podrá llevarse a cabo obra alguna de reconstrucción, restauración o reparación que no vaya de acuerdo con el estilo o carácter arquitectónico general de la ciudad".
 
-En las sesiones del Comité estarán presentes como invitadas permanentes las personas titulares de la Dirección General de Asuntos Jurídicos, así como de la Unidad de Administración de la Suprema Corte de Justicia de la Nación, quienes participarán con voz, pero sin voto.
+###### Artículo 4º.
 
-También podrán asistir las demás personas servidoras públicas cuya asistencia requiera el Comité para el desahogo de los asuntos a su cargo, quienes participarán con voz, pero sin voto.
+"En los casos a que se refieren los dos artículos anteriores, la Junta de Vigilancia tendrá facultades para impedir que se lleven a cabo las obras que se emprendan sin su autorización; para suspender, en cualquier tiempo, aquéllas que haya autorizado, cuando no se ajusten a las bases aprobadas; para exigir que se destruyan las obras que se encuentren en manifiesta oposición con el carácter arquitectónico general de la ciudad o que se les hagan las modificaciones necesarias para que se hallen de acuerdo con dicho carácter".
 
-2. El Comité de Gobierno de la Suprema Corte de Justicia de la Nación tendrá una Secretaría Técnica que será la persona titular de la Secretaría de Comités de Ministras y Ministros, quien participará con voz, pero sin voto.
+###### Artículo 5º.
 
-3. Los acuerdos del Comité se aprobarán por mayoría de votos, teniendo la persona titular de la Presidencia del Comité, voto de calidad en caso de empate.
+"No se podrán fijar anuncios, avisos o carteles fuera de los lugares que para ese objeto señale la Junta de Vigilancia. Solamente los establecimientos comerciales podrán colocar rótulos u otras indicaciones para dar a conocer su nombre, giro, etc., previa aprobación de cada caso de la Junta de Vigilancia, la que estará facultada para ordenar que se retiren los avisos fijados en lugares distintos de los señalados, así como para exigir que se modifiquen, en la forma que sea necesaria, los rótulos que no se ajusten al aspecto típico de la población, ya se trate de los existentes en la actualidad o de los que en lo futuro se instalen".
 
-La persona titular de la Secretaría Técnica será responsable del cumplimiento de los acuerdos del Comité e informará a este sobre su seguimiento y cumplimiento.
+###### Artículo 6º.
 
-4. El Comité de Gobierno de la Suprema Corte de Justicia de la Nación tendrá las atribuciones siguientes:
+"Los hilos telegráficos, telefónicos y conductores de energía eléctrica, y los transformadores de la misma energía y, en general, las instalaciones eléctricas, deberán ser ocultos o lo menos aparentes que sea posible. A tal efecto, la Junta de Vigilancia promoverá lo necesario, ante las Compañías o dependencias oficiales de las que dependan tales instalaciones, para que los alambres existentes en la actualidad sean reinstalados en la forma indicada, así como para que los postes y transformadores sean retirados de las calles, y en lo futuro no podrá hacerse instalación alguna sin que antes se obtenga la debida aprobación de la Junta, dada por escrito".
 
-I. Supervisar el funcionamiento de los órganos y áreas de la Suprema Corte de Justicia de la Nación; solicitar informes y emitir recomendaciones que estime convenientes;
+###### Artículo 7º.
 
-II. Validar el anteproyecto de presupuesto de egresos de la Suprema Corte de Justicia de la Nación, previo a someterlo a consideración del Pleno;
+"No se permitirá el establecimiento de garages, sitios de automóviles y expendios de gasolina y lubricantes si no es con autorización previa de la Junta de Vigilancia, con arreglo a las disposiciones que ésta apruebe para esa clase de establecimientos y siempre que con ello no sufra el aspecto típico de la ciudad. Dicha Junta queda facultada para clausurar tales establecimientos cuando se instalen sin su permiso, así como cuando no observen las condiciones q' (sic) se les hayan impuesto o no llenen los requisitos que se acaban se señalar; siendo de advertir que esto último se hace extensivo a los establecimientos de esa naturaleza existentes en la actualidad".
 
-III. Expedir, en su caso, Acuerdos Generales en materia de su competencia;
+###### Artículo 8º.
 
-IV. Tramitar o resolver cualquier asunto de su competencia administrativa, que sea de trascendencia o relevancia para el funcionamiento de la Suprema Corte de Justicia de la Nación, los que serán puestos a consideración del Pleno, y
+"Se prohibe establecer o colocar kioscos, templetes "puestos" o cualesquiera otras construcciones permanentes o provisionales cuando por ellos se desmerite la apariencia típica o tradicional de la población. En todo caso deberá solicitarse previamente el permiso de la Junta de Vigilancia, la cual tendrá a este respecto las mismas facultades que se le conceden en los tres artículos anteriores, ya se trate de construcciones de esa especie existentes en la actualidad, ya de las que se hagan después de la promulgación de esta ley".
 
-V. Las demás que le confiera el Pleno de la Suprema Corte de Justicia de la Nación y las disposiciones jurídicas aplicables.
+###### Artículo 9º.
 
-Lo dispuesto en el presente numeral no limita el ejercicio directo de las facultades del Pleno de la Suprema Corte de Justicia de la Nación o de la persona titular de la Presidencia del Tribunal Constitucional, en términos de la Constitución Política de los Estados Unidos Mexicanos, la Ley Orgánica del Poder Judicial de la Federación y demás normativa aplicable.
+"Los inmuebles cuya conservación sea de interés público desde el punto de vista de la Historia o del Arte, se clasificarán total o parcialmente, como edificios históricos o artísticos. La clasificación será hecha por medio de un decreto del C. Gobernador del Estado que se publicará en el Periódico Oficial; pero deberá notificarse previamente al propietario afectado, para que, en el plazo de quince días, manifieste su conformidad o inconformidad con ella y para que, en su caso, presente las pruebas necesarias para demostrar que el inmueble no tiene la calidad artística o histórica que se le atribuye. Dichas pruebas serán presentadas ante la Junta de Vigilancia, y ésta las remitirá, juntamente con un informe suyo, al Gobernador del Estado, a fin de que este funcionario resuelva si se decreta o no la clasificación, y, en su caso, expida el decreto respectivo".
 
-5. Corresponde a la persona titular de la Presidencia del Comité de Gobierno de la Suprema Corte de Justicia de la Nación lo siguiente:
+###### Artículo 10º.
 
-I. Autorizar las convocatorias y el orden del día que deba desahogarse en cada sesión;
+"En los decretos de clasificación se cuidará de señalar con toda precisión el edificio o la parte de él que se considere con interés artístico e histórico, y todo decreto de esa especie será comunicado oficialmente al Encargado del Registro Público de la Propiedad, para que lo anote al margen de la respectiva inscripción de propiedad."
 
-II. Presidir, coordinar y dirigir los debates de las sesiones del Comité;
+###### Artículo 11º.
 
-III. Iniciar y levantar la sesión; decretar los recesos que fueren necesarios; conducir los trabajos y tomar las medidas necesarias para el adecuado funcionamiento del Comité;
+"Por virtud de la clasificación, el inmueble o la parte de él que se hubiere clasificado no podrá ser destruído ni podrá usarse en forma o para fines que perjudiquen su valor artístico o histórico. Tampoco podrá emprenderse en él o la parte clasificada ninguna restauración, reconstrucción, reparación o modificación, sin obtener previamente, por escrito, la autorización o permiso de la Junta de Vigilancia".
 
-IV. Autorizar y convocar la celebración de sesiones extraordinarias;
+###### Artículo 12º.
 
-V. Firmar las actas de las sesiones del Comité, y
+"Los efectos de la clasificación subsistirán aunque el inmueble cambie de propietario. La persona que enajene un inmueble clasificado estará obligada a hacer saber su situación legal al adquirente, y tanto éste como el enajenante deberán dar aviso de la operación efectuada, a la Junta de Vigilancia, dentro del plazo de quince días".
 
-VI. Las demás que sean necesarias para el cumplimiento de los objetivos del Comité y del funcionamiento de la Suprema Corte de Justicia de la Nación.
+###### Artículo 13º.
 
-6. Corresponde a las personas integrantes del Comité de Gobierno de la Suprema Corte de Justicia de la Nación lo siguiente:
+"Si las condiciones del edificio clasificado fueren tales que corran peligro su estabilidad o su interés artístico o histórico, la Junta requerirá al propietario para que ejecute las obras necesarias para su conservación. Si éste no pudiere o no quisiere hacerlas, la Junta podrá llevarlas a cabo por cuenta de él, y, al efecto, podrá ocupar la parte del edificio que se necesite para la ejecución de tales obras. El propietario tendrá derecho a que se le indemnice por los daños y perjuicios que le cause la privación del uso del todo o parte de su propiedad. Esa indemnización se calculará por la Junta, de acuerdo con el propietario, antes de proceder a la ocupación y se cubrirá mensualmente mientras ésta dure. Terminadas las obras, la Junta tendrá acción para recuperar las cantidades que hubiere erogado; pero si el propietario fuese persona de escasos recursos, dichas cantidades podrán serle condonadas por la misma Junta, en todo o en parte, previa consulta con el Gobernador del Estado".
 
-I. Asistir y participar en las reuniones del Comité;
+###### Artículo 14º.
 
-II. Remitir a la Secretaría Técnica los asuntos que consideren se deban tratar en las sesiones del Comité;
+"También podrá la Junta de Vigilancia efectuar obras que tengan por objeto la restauración del edificio, a efecto de que éste recobre su aspecto primitivo; pero será necesario para ello que el propietario dé su consentimiento por escrito. La Junta podrá contribuir a esas obras con alguna cantidad; pero ésta no podrá ser mayor que aquella con la cual contribuya el propietario".
 
-III. Analizar el orden del día y los temas a tratar en las sesiones del Comité;
+###### Artículo 15º.
 
-IV. Proponer la asistencia de las personas servidoras públicas que, por la naturaleza de los asuntos, deban asistir al Comité;
+"Ninguna construcción nueva puede apoyarse en un edificio clasificado. Las servidumbres legales que puedan perjudicar a los edificios clasificados no les son aplicables y, en cuanto a las servidumbres voluntarias, ninguna de ellas puede establecerse sobre esa clase de edificios sin el consentimiento de la Junta de Vigilancia, dado por escrito".
 
-V. Solicitar a la persona titular de la Presidencia del Comité la celebración de sesiones extraordinarias, con la propuesta de los asuntos específicos a tratar y su justificación;
+###### Artículo 16º.
 
-VI. Firmar las actas de las sesiones del Comité a las que hubiese asistido, y
+"Para que un inmueble clasificado cese de estar en esa situación, deberá expedirse, por el Gobernador del Estado, con acuerdo de la Junta de Vigilancia, un decreto que así lo ordene. Ese decreto se notificará oficialmente a los interesados y al Encargado del Registro Público de la Propiedad, a fin de que se anote al margen, en la misma forma que el decreto de clasificación".
 
-VII. Las demás que les encomiende la persona titular de la Presidencia del Comité en el ámbito de su competencia.
+###### Artículo 17º.
 
-7. Corresponde a la persona titular de la Secretaría Técnica del Comité de Gobierno de la Suprema Corte de Justicia de la Nación lo siguiente:
+"Para desempeñar las funciones que esta ley le señala, se establece una Junta que se denominará "Junta de Vigilancia" y que dependerá del Ejecutivo del Estado; estando formada como sigue: de una persona que designará el mismo Ejecutivo del Estado y que tendrá el carácter de Presidente; de otra que designará la Dirección de Bienes Nacionales de la Secretaría de Hacienda y Crédito Público; del Inspector Local de Monumentos Artísticos, y de otras dos personas que elegirán las tres anteriores y que deberán ser vecinos de San Miguel de Allende, procurándose en todo caso que uno de sus miembros, por lo menos, tenga el título de arquitecto o conocimientos y práctica en arquitectura. La Junta funcionará con asistencia de tres de sus miembros, cuando menos, y sus resoluciones se tomarán por mayoría de votos de los asistentes; quedando facultada para formar y expedir su reglamento interior, el cual será sometido a la aprobación del Gobernador del Estado".
 
-I. Emitir convocatoria a las sesiones, a petición de la persona titular de la Presidencia del Comité, así como confirmar la asistencia de sus integrantes;
+###### Artículo 18º.
 
-II. Recibir la documentación dirigida a la persona titular de la Presidencia y/o al Comité, y dar cuenta de ello a éste;
+"Los miembros de la Junta de Vigilancia no gozarán de remuneración alguna por sus servicios; pero el Presupuesto General de Egresos fijará anualmente las sumas que se destinen a cubrir sus gastos y a la ejecución de las obras de conservación y restauración a que se refieren los artículos 13º y 14º de esta ley".
 
-III. Elaborar la convocatoria y el orden del día de las sesiones del Comité y someterlas a consideración de la persona titular de la Presidencia;
+###### Artículo 19º.
 
-IV. Integrar la documentación e información que deban acompañar a las convocatorias de las sesiones del Comité y remitirla a las personas integrantes, junto con el orden del día correspondiente;
+"Las autoridades municipales deberán prestar a la Junta de Vigilancia el auxilio necesario para el mejor desempeño de sus funciones".
 
-V. Asistir a las sesiones del Comité;
+###### Artículo 20º.
 
-VI. Auxiliar a la persona titular de la Presidencia del Comité en el desarrollo de las sesiones;
+"La persona que destruya en todo o en parte un edificio clasificado o haga de él un uso que perjudique su valor artístico o histórico será castigada con tres a quince días de prisión o multa de diez a quinientos pesos o con ambas penas a la vez, a juicio del juez".
 
-VII. Levantar las actas y los acuerdos de las sesiones del Comité y someterlas a consideración de sus integrantes para su autorización y firma;
+###### Artículo 21º.
 
-VIII. Verificar el quórum de asistencia de las sesiones y dar cuenta de ello a la persona titular de la Presidencia del Comité;
+"Se considerarán como faltas y se castigarán administrativamente con multa de cinco a cien pesos, las siguientes:
 
-IX. Firmar las actas de las sesiones del Comité;
+I.- Emprender cualquier obra nueva sin obtener previamente la autorización de la Junta de Vigilancia.
 
-X. Informar a las personas integrantes del Comité los acuerdos que se hayan tomado;
+II.- Emprender una obra de restauración, reconstrucción, reparación o modificación en un inmueble clasificado, sin la misma autorización.
 
-XI. Llevar el seguimiento del cumplimiento de los acuerdos del Comité;
+III.- La falta de aviso que previene el artículo 12º de esta ley.
 
-XII. Elaborar y presentar los informes periódicos relacionados con las actividades del Comité;
+IV.- El establecimiento de garages, sitios de automóviles o expendios de gasolina o lubricantes, sin ajustarse a las condiciones que exija la Junta.
 
-XIII. Proporcionar a las personas integrantes del Comité, la información que requieran para el mejor desempeño de sus funciones;
+V.- La fijación de anuncios, avisos o carteles en lugares distintos o de los permitidos y la instalación de rótulos sin la aprobación de la Junta.
 
-XIV. Llevar a cabo las funciones de control y custodia de las actas, acuerdos y documentos relativos al Comité, además, certificarlos, y
+VI.- La colocación de alambres, postes, etc., sin la aprobación de la Junta.
 
-XV. Las demás que le encomiende la persona titular de la Presidencia, así como el Comité.
+VII.- El establecimiento o colocación de kioscos, templetes, "puestos" y demás construcciones a que se refiere el artículo 8º., sin previo permiso de la Junta.
 
-8. Las sesiones del Comité se celebrarán de la manera siguiente:
+VIII.- Cualquiera otra infracción a la presente ley, que no constituya un delito.
 
-I. De forma ordinaria, por lo menos una vez al mes, conforme al calendario que apruebe el propio Comité en la última sesión ordinaria del año;
+La multa será impuesta por el Presidente Municipal, según la importancia de la falta, las circunstancias que en ella concurran y las personales del infractor".
 
-II. De forma extraordinaria, a solicitud de alguna de las personas integrantes del Comité;
+###### Artículo 22º.
 
-III. Preferentemente de manera presencial o, en su caso, en forma remota, mediante el uso de cualquier medio tecnológico con el que se cuente en la Suprema Corte de Justicia de la Nación, y
+"Tanto las multas que señala el artículo anterior como las que se impongan conforme al artículo 20º, ingresarán a la Oficina de Rentas Local, la que las pondrá a disposición de la Junta de Vigilancia, a fin de que pasen a aumentar el fondo que, para gastos y ejecución de obras señala el artículo 18º, de la presente.
 
-IV. Se levantará un acta en la que consten los acuerdos correspondientes, misma que se someterá a la consideración de las personas integrantes del Comité.
+## TRANSITORIOS.
 
-9. Las sesiones del Comité serán válidas con la asistencia de la mayoría de sus integrantes, siempre y cuando se encuentre presente la persona titular de la Presidencia del Comité.
+Artículo Primero.- "Esta Ley comenzará a surtir sus efectos desde la fecha de su publicación en el Periódico Oficial del Estado".
 
-10. Las sesiones del Comité que no puedan llevarse a cabo por falta de quórum o cualquier otra circunstancia, se realizarán, preferentemente, dentro de los cinco días siguientes, convocando a ésta con al menos un día hábil de anticipación.
+Artículo Segundo.- "Todos los gastos que origine la instalación de la Junta de Vigilancia a que se refiere el artículo 17º de esta ley serán a cargo del Ejecutivo del Estado".
 
-En las sesiones ordinarias o extraordinarias que, una vez iniciadas, se deban suspender, serán reanudadas en la misma fecha, siempre que las circunstancias o el motivo por el cual se suspendieron lo permitan.
+Lo tendrá entendido el Ciudadano Gobernador Constitucional Interino del Estado y dispondrá que se imprima, publique, circule y se le dé el debido cumplimiento.- Guanajuato, Gto., a 27 de mayo de 1939.- Luis Ferro, D.P.- Ernesto Gallardo S., D.S.- Arnulfo Rosas, D.S.- Rúbricas.
 
-11. La convocatoria se podrá realizar por cualquier medio que facilite la pronta y eficaz comunicación, incluidos los medios tecnológicos con los que cuente la Suprema Corte de Justicia de la Nación.
+Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
-La Secretaría Técnica emitirá la convocatoria de sesiones ordinarias a las personas integrantes e invitadas, con una anticipación de cuando menos tres días previos a la fecha de celebración y de un día tratándose de sesiones extraordinarias.
+Dado en el Palacio de los Poderes, en Guanajuato, a los seis días del mes de junio de mil novecientos treinta y nueve.- Rafael Rangel.- El Secretario General del Gobierno, Lic. Ernesto Arnoux S.
 
-La convocatoria deberá incluir el orden del día, la documentación y demás información a tratar en la sesión correspondiente.
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTOS TRANSITORIOS, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE OCTUBRE DE 2012 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-12. Corresponderá al Comité la interpretación de sus disposiciones, así como la resolución de cualquier caso no previsto.
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-Tercero. Se designan como personas integrantes del Comité de Gobierno:
+P.O. 25 DE SEPTIEMBRE DE 2012.
 
-1. Ministro Hugo Aguilar Ortíz, quien lo presidirá;
+Inicio de vigencia
 
-2. Ministra Lenia Batres Guadarrama, y
+Artículo Primero. El presente Decreto entrará en vigencia el 1 de enero de 2013, previa publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
-3. Ministro Giovanni Azael Figueroa Mejía.
+Abrogación de diversas leyes
 
-## TRANSITORIOS
+Artículo Segundo. Se abrogan:
 
-Primero. La presente resolución entrará en vigor al día siguiente de su publicación en el Semanario Judicial de la Federación.
+I. La Ley de Desarrollo Urbano para el Estado de Guanajuato;
 
-Segundo. Se derogan las disposiciones jurídicas que se opongan a la presente resolución.
+II. La Ley de Fraccionamientos para el Estado de Guanajuato y sus Municipios;
 
-Tercero. Las referencias al Comité de Gobierno y Administración realizadas en otras disposiciones se entenderán hechas al Comité de Gobierno de la Suprema Corte de Justicia de la Nación.
+III. La Ley de Vivienda para el Estado de Guanajuato;
 
-Cuarto. En la sesión de instalación el Comité deberá aprobar su calendario de sesiones ordinarias para el año dos mil veinticinco.
+IV. La Ley de Aguas para el Estado de Guanajuato; y
 
-Quinto. Publíquese la presente resolución en el Semanario Judicial de la Federación y su Gaceta, así como en medios electrónicos de consulta pública, en términos de lo dispuesto en el artículo 65, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública.
+V. La Ley sobre protección y conservación de la Ciudad de San Miguel de Allende, declarándola, al efecto, Población Típica.
 
-EL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
+Derogación tácita
 
-MINISTRO HUGO AGUILAR ORTIZ
+Artículo Tercero. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
 
-EL SECRETARIO GENERAL DE ACUERDOS
+Plazo para reglamentar
 
-LIC. RAFAEL COELLO CETINA
+Artículo Cuarto. El Ejecutivo del Estado y los ayuntamientos deberán expedir o modificar los reglamentos en la materia, dentro de los seis meses siguientes a la entrada en vigencia de este Decreto.
 
-El licenciado Rafael Coello Cetina, Secretario General de Acuerdos de la Suprema Corte de Justicia de la Nación,
+Expedición o actualización de los instrumentos del sistema de planeación
 
-CERTIFICA:
+Artículo Quinto. El Ejecutivo del Estado y los ayuntamientos para la formulación de los instrumentos de planeación que refiere el Código atenderán a la disposición, forma y plazo previstos en los artículos cuarto y quinto transitorios de la Ley de Planeación para el Estado de Guanajuato.
 
-Esta RESOLUCIÓN 1/2025 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE TRECE DE OCTUBRE DE DOS MIL VEINTICINCO, POR LA QUE SE CREA EL COMITÉ DE GOBIERNO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, fue aprobada por el Tribunal Pleno en Sesión Privada celebrada el día de hoy, por unanimidad de nueve votos de las señoras Ministras Lenia Batres Guadarrama, Yasmín Esquivel Mossa, Loretta Ortiz Ahlf, María Estela Ríos González y Sara Irene Herrerías Guerra así como por los señores Ministros Giovanni Azael Figueroa Mejía, Irving Espinosa Betanzo, Arístides Rodrigo Guerrero García y Presidente Hugo Aguilar Ortiz.- Ciudad de México, a trece de octubre de dos mil veinticinco.
+Vigencias de las declaratorias de áreas naturales protegidas
 
-Esta resolución se publicó el viernes 17 de octubre de 2025 a las 10:27 horas en el Semanario Judicial de la Federación.
+Artículo Sexto. Permanecerán vigentes las declaratorias de áreas naturales protegidas expedidas con anterioridad a la entrada en vigencia de este Decreto. Los respectivos programas de manejo deberán revisarse y, en su caso, actualizarse dentro de los cuatro meses siguientes a la publicación del programa estatal.
+
+Tramitación de procedimientos en trámite
+
+Artículo Séptimo. Los procedimientos regulados en las leyes que se abrogan en el artículo segundo transitorio del presente Decreto, que a la fecha de la entrada en vigor del presente Código, se encuentren en trámite, seguirán desarrollándose observando las normas contenidas en las leyes vigentes al momento de iniciar su procedimiento respectivo, hasta su conclusión; salvo lo dispuesto en el párrafo siguiente.
+
+La Secretaría de Desarrollo Social y Humano remitirá a los ayuntamientos, los expedientes de fraccionamientos y conjuntos habitacionales, anteriores al 1 de enero de 1997, que aun se encuentren en trámite, así como aquéllos iniciados con posterioridad a esta fecha y cuyo trámite se desahogue ante el Ejecutivo Estatal consecuencia del convenio de colaboración; para que los municipios los concluyan. La Secretaría de Desarrollo Social y Humano y los ayuntamientos deberán, en un término máximo de seis meses, contado a partir de la entrada en vigor del presente Código, concluir la transferencia de los expedientes. Previo a la entrega se deberá certificar un tanto de cada uno de los expedientes que se transferirán a los municipios, los cuales se turnarán para su resguardo a la Comisión de Vivienda del Estado de Guanajuato.
+
+Término para adecuar la estructura de la Procuraduría
+
+Artículo Octavo. El Ejecutivo del Estado en un plazo no mayor a veinte días a partir de la entrada en vigor de este Código, deberá adecuar la estructura orgánica para el funcionamiento de la Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato.
+
+Cualquier referencia a la Procuraduría de Protección al Ambiente, contenida en cualquiera otra disposición jurídica, se entenderá realizada a la Procuraduría Ambiental y de Ordenamiento Territorialdel (sic) Estado de Guanajuato.
+
+La Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato deberá cumplir íntegramente con las obligaciones y compromisos asumidos por la Procuraduría de Protección al Ambiente.
+
+Los derechos y obligaciones derivados de las relaciones laborales del personal actualmente adscrito a la Procuraduría de Protección al Ambiente, estarán a cargo de la Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato, respetándoles todos y cada uno de los derechos y prestaciones laborales adquiridos.
+
+Situación que guardan la Comisión Estatal del Agua y la Comisión de Vivienda
+
+Artículo Noveno. La Comisión Estatal del Agua y la Comisión de Vivienda del Estado de Guanajuato, señaladas en las leyes de Aguas para el Estado de Guanajuato y de Vivienda para el Estado de Guanajuato, respectivamente, conservarán la misma naturaleza jurídica, obligaciones, estructura, personal y presupuesto con el que actualmente desempeñan sus funciones.
+
+Comisión Metropolitana
+
+Artículo Décimo. La Comisión Metropolitana deberá instalarse en un plazo no mayor a sesenta días, posteriores a la entrada en vigencia del presente Decreto. Hasta su instalación seguirá fungiendo el Consejo para el Desarrollo de las Zonas Metropolitanas en el Estado, establecido en el Acuerdo Gubernativo número 27 4, publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato número 48, segunda parte, de 25 de marzo de 2011.
+
+Todos los archivos, insumes, materiales, expedientes, compromisos y obligaciones del Consejo para el Desarrollo de las Zonas Metropolitanas en el Estado pasarán a formar parte de la Comisión Metropolitana, a efecto de su debida atención o resguardo.
+
+Constitución de los Consejos Consultivos
+
+Artículo Undécimo. El Ejecutivo del Estado dispondrá de un plazo que no excederá de 30 días contados a partir de la vigencia del Código, para la constitución de los Consejos Consultivos establecidos en este instrumento.
+
+Mecanismos de coordinación
+
+Artículo Duodécimo. El Ejecutivo del Estado y los ayuntamientos instrumentarán, por una sola ocasión y como acciones de mejoramiento de los centros de población, los mecanismos de coordinación tendientes a la recepción de las obras de urbanización, por parte de los municipios, de los fraccionamientos y desarrollos en condominio autorizados por el Gobierno del Estado de Guanajuato.
+
+Los mecanismos de coordinación a que se refiere este artículo deberán concluirse dentro de los tres años siguientes a la entrada en vigor del presente Decreto.
+
+Acciones de regularización
+
+Artículo Décimo tercero. El Ejecutivo del Estado y los ayuntamientos instrumentarán, por una sola ocasión y como acciones de mejoramiento de los centros de población, los mecanismos de coordinación tendientes a la regularización de los asentamientos humanos existentes en el Estado que no cumplan con las disposiciones del Código, a la fecha de la entrada en vigencia del presente Decreto.
+
+La realización de acciones de regularización de la tenencia del suelo urbano, se sujetarán a las siguientes bases:
+
+I. Se deberá proceder conforme a los programas aplicables, en la ejecución de acciones de mejoramiento y consolidación; y
+
+II. Sólo podrán ser beneficiarios de la regularización, quienes ocupen un predio y no sean propietarios de otro inmueble en la localidad. Tendrán preferencia los poseedores de buena fe, de acuerdo a la antigüedad de la posesión.
+
+Tratándose de asentamientos humanos que no cumplan con las disposiciones del Código, ubicados en predios ejidales o comunales, se procederá conforme a lo previsto en el Código y en la Ley Agraria.
+
+Los mecanismos de coordinación a que se refiere este artículo deberán concluirse dentro de los tres años siguientes a la entrada en vigor del presente Decreto.
+
+TRANSITORIO DEL DECRETO
+
+Inicio de vigencia del decreto
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigencia el 1 de enero de 2013, previa publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
