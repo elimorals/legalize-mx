@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-registro-civil-del-estado-de-14590"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-07-02"
-last_updated: "1999-07-02"
+last_updated: "2012-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DEL REGISTRO CIVIL DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL REGISTRO CIVIL DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 25 DE SEPTIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 2 de julio de 1999.
 
@@ -107,17 +109,17 @@ Para ser Director, se requiere
 
 I.- Ser mexicano por nacimiento, tener más de 28 años de edad y estar en ejercicio de sus derechos,
 
-II. - Ser profesionista, en todo caso se preferirá a quién acredite haber cursado la Licenciatura en Derecho;
+II.- Ser profesionista, en todo caso se preferirá a quién acredite haber cursado la Licenciatura en Derecho;
 
-III- Acreditar un mínimo de tres años de experiencia profesional en el ramo del Registro Civil o en áreas de la Judicatura o del foro;
+III.- Acreditar un mínimo de tres años de experiencia profesional en el ramo del Registro Civil o en áreas de la Judicatura o del foro;
 
 IV.- No haber sido condenado por delito intencional que merezca pena corporal;
 
-V - Comprobar residencia efectiva dentro del Estado no menor de 5 años,
+V.- Comprobar residencia efectiva dentro del Estado no menor de 5 años,
 
-VI. - No ser militar en servicio activo ni ministro de ningún culto religioso y no desempeñar empleo, cargo o comisión que sea Incompatible con la función registral; y
+VI.- No ser militar en servicio activo ni ministro de ningún culto religioso y no desempeñar empleo, cargo o comisión que sea Incompatible con la función registral; y
 
-VII - Ser de reconocida probidad y tener buenas costumbres.
+VII.- Ser de reconocida probidad y tener buenas costumbres.
 
 ###### Artículo 11.
 
@@ -127,17 +129,17 @@ I.- Ser depositario de la fe pública registral de los actos del Estado Civil;
 
 II.- Cumplir y hacer cumplir a los oficiales y al personal la normatividad registral establecidas en la Ley, el Código de Procedimientos Civiles, el presente reglamento y demás disposiciones legales vigentes en la entidad, así como los acuerdos, convenios, determinaciones del Ejecutivo y comisiones que éste le indique en relación con el Registro Civil;
 
-III - Determinar la cancelación, reubicación o creación de las Oficialías que sean necesarias para el cumplimiento eficaz del servicio registral, estableciendo además su área de competencia territorial;
+III.- Determinar la cancelación, reubicación o creación de las Oficialías que sean necesarias para el cumplimiento eficaz del servicio registral, estableciendo además su área de competencia territorial;
 
-IV - Nombrar al Titular del Archivo Estatal y de las áreas administrativas de la Dirección, a los oficiales y demás personal de las Oficialías, así como la remoción de los mismos;
+IV.- Nombrar al Titular del Archivo Estatal y de las áreas administrativas de la Dirección, a los oficiales y demás personal de las Oficialías, así como la remoción de los mismos;
 
-V - Proponer al Poder Ejecutivo anteproyectos de estudio y análisis para reformas, modificaciones o adiciones a Códigos o reglamentos en maten a de Registro Civil;
+V.- Proponer al Poder Ejecutivo anteproyectos de estudio y análisis para reformas, modificaciones o adiciones a Códigos o reglamentos en maten a de Registro Civil;
 
-VI - Expedir circulares y lineamientos de carácter general tendientes a unificar criterios en la practica registral civil;
+VI.- Expedir circulares y lineamientos de carácter general tendientes a unificar criterios en la practica registral civil;
 
-VII - Ordenar visitas periódicas de inspección, vigilancia y control a las oficialías a fin de constatar el buen funcionamiento de éstas;
+VII.- Ordenar visitas periódicas de inspección, vigilancia y control a las oficialías a fin de constatar el buen funcionamiento de éstas;
 
-VIII- Denunciar y/o notificar a las autoridades competentes las faltas en el cumplimiento que hayan Incurrido los servidores públicos del Registro;
+VIII.- Denunciar y/o notificar a las autoridades competentes las faltas en el cumplimiento que hayan Incurrido los servidores públicos del Registro;
 
 IX.-Atender las quejas o peticiones sobre la prestación del servicio del registro civil;
 
@@ -165,15 +167,15 @@ XX.- Autorizar y distribuir los formatos para asentamiento y expedición de acto
 
 XXI.- Ordenar la reposición o restauración inmediata de libros o actas que se encuentren deteriorados, destruidos o extraviados;
 
-XXII- Supervisar y organizar el buen funcionamiento del procesamiento y captura de la información de las actas del registro que se generen, así como los programas de captura histórica que enriquezcan la base de datos del Archivo Estatal del Registro Civil;
+XXII.- Supervisar y organizar el buen funcionamiento del procesamiento y captura de la información de las actas del registro que se generen, así como los programas de captura histórica que enriquezcan la base de datos del Archivo Estatal del Registro Civil;
 
-XXIII. -Amonestar, apercibir y levantar las actas administrativas a los Oficiales, personal de las Oficialías y Dirección, por faltas en el cumplimiento de sus obligaciones;
+XXIII.- Amonestar, apercibir y levantar las actas administrativas a los Oficiales, personal de las Oficialías y Dirección, por faltas en el cumplimiento de sus obligaciones;
 
-XXIV- Presentar el presupuesto anual de egresos del Registro Civil.
+XXIV.- Presentar el presupuesto anual de egresos del Registro Civil.
 
-XXV- Elaboración de informes anual y mensuales sobre el desempeño de sus funciones: y
+XXV.- Elaboración de informes anual y mensuales sobre el desempeño de sus funciones: y
 
-XXVI. Las demás que establezcan las disposiciones legales relativas
+XXVI.- Las demás que establezcan las disposiciones legales relativas
 
 ### CAPITULO SEGUNDO. DE LAS OFICIALIAS DEL REGISTRO CIVIL
 
@@ -553,15 +555,15 @@ Todo registro extemporáneo deberá cubrir los siguientes requisitos:
 
 I.- No haber sido registrado su nacimiento dentro del termino de 180 días a partir de su fecha de nacimiento;
 
-II-.Acreditar el lugar y fecha de nacimiento;
+II.- Acreditar el lugar y fecha de nacimiento;
 
-III-. Presentar una constancia de inexistencia de registro expedida por el Archivo o por el Oficial adscrito al lugar donde ocurrió el nacimiento;
+III.- Presentar una constancia de inexistencia de registro expedida por el Archivo o por el Oficial adscrito al lugar donde ocurrió el nacimiento;
 
 IV.- Comprobante de vecindad expedido por la autoridad municipal;
 
-V. - Identificación oficial con fotografía del interesado si es mayor de edad y lo de las personas que comparezcan;
+V.- Identificación oficial con fotografía del interesado si es mayor de edad y lo de las personas que comparezcan;
 
-VI. -Comparecencia del interesado;
+VI.-Comparecencia del interesado;
 
 VII.- Comparecencia de dos testigos con identificación oficial; y
 
@@ -658,3 +660,23 @@ VICENTE FOX QUESADA
 EL SECRETARIO DE GOBIERNO
 
 LIC. RAMON MARTIN HUERTA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE SEPTIEMBRE DE 2012.
+
+Inicio de vigencia
+
+Artículo Primero. El presente Reglamento entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación del Reglamento Interior del Registro Civil
+
+Artículo Segundo. Se abroga el Reglamento Interior del Registro Civil, contenido en el Decreto Gubernativo número 126, publicado en el Periódico Oficial del Gobierno del Estado, número 53, Segunda Parte, el 2 de julio de 1999.
+
+Asentamiento de actas de reconocimiento, adopción simple, divorcio e inscripción de ejecutorias
+
+Artículo Tercero. En los casos de reconocimiento, adopción simple, divorcio e inscripción de ejecutorias, que hayan sido resueltos judicialmente con anterioridad a la entrada en vigor de la reforma al Código Civil del Estado, publicada en el Periódico Oficial en fecha 27 de diciembre de 2011, se levantará el acta correspondiente, en los términos previstos por el Código Civil antes de la reforma.
+
+Inicio de pláticas prematrimoniales
+
+Artículo Cuarto. Las pláticas prematrimoniales a que se refiere el artículo 103 del Código Civil, se impartirán una vez que entre en vigencia el Decreto Legislativo número 280, publicado en el Periódico Oficial del Gobierno del Estado, en tanto, el Registro Civil hará las gestiones necesarias para la firma de los convenios de colaboración con las instancias competentes designadas para impartirlas y hasta entonces, se solicitará la constancia respectiva a los pretendientes, conforme se impartan las pláticas, en cada localidad.
