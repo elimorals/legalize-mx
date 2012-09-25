@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-desarrollo-urbano-para-el-estado-de-guanajuato-16652"
 country: "mx"
 rank: "ley"
 publication_date: "1997-10-07"
-last_updated: "1997-10-07"
+last_updated: "2012-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "GUA"
 ---
 # LEY DE DESARROLLO URBANO PARA EL ESTADO DE GUANAJUATO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE OCTUBRE DE 2012 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE DESARROLLO URBANO PARA EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL CÓDIGO TERRITORIAL PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, PUBLICADO EN EL P.O. DE 25 DE SEPTIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO A PARTIR DEL 1 DE ENERO DE 2013.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 7 de octubre de 1997.
 
@@ -1454,3 +1458,101 @@ RAMON MARTIN HUERTA
 SECRETARIO DE DESARROLLO URBANO Y OBRAS PUBLICAS
 
 ING. CRISTOBAL ASCENCIO HERNANDEZ
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTOS TRANSITORIOS, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE OCTUBRE DE 2012 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE SEPTIEMBRE DE 2012.
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigencia el 1 de enero de 2013, previa publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Abrogación de diversas leyes
+
+Artículo Segundo. Se abrogan:
+
+I. La Ley de Desarrollo Urbano para el Estado de Guanajuato;
+
+II. La Ley de Fraccionamientos para el Estado de Guanajuato y sus Municipios;
+
+III. La Ley de Vivienda para el Estado de Guanajuato;
+
+IV. La Ley de Aguas para el Estado de Guanajuato; y
+
+V. La Ley sobre protección y conservación de la Ciudad de San Miguel de Allende, declarándola, al efecto, Población Típica.
+
+Derogación tácita
+
+Artículo Tercero. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+Plazo para reglamentar
+
+Artículo Cuarto. El Ejecutivo del Estado y los ayuntamientos deberán expedir o modificar los reglamentos en la materia, dentro de los seis meses siguientes a la entrada en vigencia de este Decreto.
+
+Expedición o actualización de los instrumentos del sistema de planeación
+
+Artículo Quinto. El Ejecutivo del Estado y los ayuntamientos para la formulación de los instrumentos de planeación que refiere el Código atenderán a la disposición, forma y plazo previstos en los artículos cuarto y quinto transitorios de la Ley de Planeación para el Estado de Guanajuato.
+
+Vigencias de las declaratorias de áreas naturales protegidas
+
+Artículo Sexto. Permanecerán vigentes las declaratorias de áreas naturales protegidas expedidas con anterioridad a la entrada en vigencia de este Decreto. Los respectivos programas de manejo deberán revisarse y, en su caso, actualizarse dentro de los cuatro meses siguientes a la publicación del programa estatal.
+
+Tramitación de procedimientos en trámite
+
+Artículo Séptimo. Los procedimientos regulados en las leyes que se abrogan en el artículo segundo transitorio del presente Decreto, que a la fecha de la entrada en vigor del presente Código, se encuentren en trámite, seguirán desarrollándose observando las normas contenidas en las leyes vigentes al momento de iniciar su procedimiento respectivo, hasta su conclusión; salvo lo dispuesto en el párrafo siguiente.
+
+La Secretaría de Desarrollo Social y Humano remitirá a los ayuntamientos, los expedientes de fraccionamientos y conjuntos habitacionales, anteriores al 1 de enero de 1997, que aun se encuentren en trámite, así como aquéllos iniciados con posterioridad a esta fecha y cuyo trámite se desahogue ante el Ejecutivo Estatal consecuencia del convenio de colaboración; para que los municipios los concluyan. La Secretaría de Desarrollo Social y Humano y los ayuntamientos deberán, en un término máximo de seis meses, contado a partir de la entrada en vigor del presente Código, concluir la transferencia de los expedientes. Previo a la entrega se deberá certificar un tanto de cada uno de los expedientes que se transferirán a los municipios, los cuales se turnarán para su resguardo a la Comisión de Vivienda del Estado de Guanajuato.
+
+Término para adecuar la estructura de la Procuraduría
+
+Artículo Octavo. El Ejecutivo del Estado en un plazo no mayor a veinte días a partir de la entrada en vigor de este Código, deberá adecuar la estructura orgánica para el funcionamiento de la Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato.
+
+Cualquier referencia a la Procuraduría de Protección al Ambiente, contenida en cualquiera otra disposición jurídica, se entenderá realizada a la Procuraduría Ambiental y de Ordenamiento Territorialdel (sic) Estado de Guanajuato.
+
+La Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato deberá cumplir íntegramente con las obligaciones y compromisos asumidos por la Procuraduría de Protección al Ambiente.
+
+Los derechos y obligaciones derivados de las relaciones laborales del personal actualmente adscrito a la Procuraduría de Protección al Ambiente, estarán a cargo de la Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato, respetándoles todos y cada uno de los derechos y prestaciones laborales adquiridos.
+
+Situación que guardan la Comisión Estatal del Agua y la Comisión de Vivienda
+
+Artículo Noveno. La Comisión Estatal del Agua y la Comisión de Vivienda del Estado de Guanajuato, señaladas en las leyes de Aguas para el Estado de Guanajuato y de Vivienda para el Estado de Guanajuato, respectivamente, conservarán la misma naturaleza jurídica, obligaciones, estructura, personal y presupuesto con el que actualmente desempeñan sus funciones.
+
+Comisión Metropolitana
+
+Artículo Décimo. La Comisión Metropolitana deberá instalarse en un plazo no mayor a sesenta días, posteriores a la entrada en vigencia del presente Decreto. Hasta su instalación seguirá fungiendo el Consejo para el Desarrollo de las Zonas Metropolitanas en el Estado, establecido en el Acuerdo Gubernativo número 274, publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato número 48, segunda parte, de 25 de marzo de 2011.
+
+Todos los archivos, insumos, materiales, expedientes, compromisos y obligaciones del Consejo para el Desarrollo de las Zonas Metropolitanas en el Estado pasarán a formar parte de la Comisión Metropolitana, a efecto de su debida atención o resguardo.
+
+Constitución de los Consejos Consultivos
+
+Artículo Undécimo. El Ejecutivo del Estado dispondrá de un plazo que no excederá de 30 días contados a partir de la vigencia del Código, para la constitución de los Consejos Consultivos establecidos en este instrumento.
+
+Mecanismos de coordinación
+
+Artículo Duodécimo. El Ejecutivo del Estado y los ayuntamientos instrumentarán, por una sola ocasión y como acciones de mejoramiento de los centros de población, los mecanismos de coordinación tendientes a la recepción de las obras de urbanización, por parte de los municipios, de los fraccionamientos y desarrollos en condominio autorizados por el Gobierno del Estado de Guanajuato.
+
+Los mecanismos de coordinación a que se refiere este artículo deberán concluirse dentro de los tres años siguientes a la entrada en vigor del presente Decreto.
+
+Acciones de regularización
+
+Artículo Décimo tercero. El Ejecutivo del Estado y los ayuntamientos instrumentarán, por una sola ocasión y como acciones de mejoramiento de los centros de población, los mecanismos de coordinación tendientes a la regularización de los asentamientos humanos existentes en el Estado que no cumplan con las disposiciones del Código, a la fecha de la entrada en vigencia del presente Decreto.
+
+La realización de acciones de regularización de la tenencia del suelo urbano, se sujetarán a las siguientes bases:
+
+I. Se deberá proceder conforme a los programas aplicables, en la ejecución de acciones de mejoramiento y consolidación; y
+
+II. Sólo podrán ser beneficiarios de la regularización, quienes ocupen un predio y no sean propietarios de otro inmueble en la localidad. Tendrán preferencia los poseedores de buena fe, de acuerdo a la antigüedad de la posesión.
+
+Tratándose de asentamientos humanos que no cumplan con las disposiciones del Código, ubicados en predios ejidales o comunales, se procederá conforme a lo previsto en el Código y en la Ley Agraria.
+
+Los mecanismos de coordinación a que se refiere este artículo deberán concluirse dentro de los tres años siguientes a la entrada en vigor del presente Decreto.
+
+TRANSITORIO DEL DECRETO
+
+Inicio de vigencia del decreto
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigencia el 1 de enero de 2013, previa publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
