@@ -4,7 +4,7 @@ identifier: "ROO-ley-forestal-del-estado-de-quintana-roo-58303"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-17"
-last_updated: "2007-12-17"
+last_updated: "2012-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY FORESTAL DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Número 83 Extraordinario al Periódico Oficial del Estado de Quintana Roo, el lunes 17 de diciembre de 2007.
 
@@ -77,7 +77,9 @@ El objeto del mismo es instrumentar la ejecución de las políticas públicas en
 
 El Instituto Forestal de Quintana Roo será el encargado de ejercer actos de autoridad en materia forestal.
 
-Su órgano de gobierno será presidido por el Titular del Ejecutivo Estatal y serán integrantes del mismo los titulares de las Secretarías de Desarrollo Agropecuario, Rural e Indígena, Desarrollo Económico, Desarrollo Urbano y Medio Ambiente y Planeación y Desarrollo Regional. El nombramiento de otros integrantes del mismo se realizará por el Titular del Ejecutivo Estatal, tomando en cuenta su prestigio moral, desempeño personal, representatividad y compromiso con el sector forestal.
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+
+Su órgano de gobierno será presidido por el Titular del Ejecutivo Estatal y serán integrantes del mismo los Titulares de las Secretarías de Desarrollo Agropecuario, Rural e Indígena, Desarrollo Económico, Ecología y Medio Ambiente y Planeación y Desarrollo Regional.
 
 ###### Artículo 4.
 
@@ -1752,3 +1754,9 @@ LIC. FÉLIX ARTURO CANTO
 LA SECRETARIA DE GOBIERNO
 
 ROSARIO ORTÍZ YELADAQUI
+
+N DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+
+P.O. 25 DE SEPTIEMBRE DE 2012.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
