@@ -4,7 +4,7 @@ identifier: "COA-ley-que-crea-el-organismo-publico-descentralizado-3607"
 country: "mx"
 rank: "ley"
 publication_date: "1981-03-13"
-last_updated: "2012-03-09"
+last_updated: "2012-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3607&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO "COMITÉ DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE COAHUILA DE ZARAGOZA"
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 13 de marzo de 1981.
 
@@ -61,11 +61,15 @@ El Comité de Planeación para el Desarrollo del Estado se integrara por:
 
 I. Un Presidente, quien será el Titular del Ejecutivo;
 
-II. Un Coordinador General, quien será el titular de la Secretaría Técnica y de Planeación;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+
+II. Un Coordinador General, que será el titular de la Secretaría de Desarrollo Social;
 
 III. Un Secretario Técnico; quien será el Secretario de Finanzas;
 
-IV. Vocales, que serán los titulares de las dependencias de la Administración Pública Estatal;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+
+IV. Vocales, que serán quienes sean titulares de las dependencias de la administración pública estatal, así como de la Secretaría Técnica y de Planeación;
 
 V. Un Comisario, quien será designado por el titular de la Secretaría de Fiscalización y Rendición de Cuentas y que participará con voz pero sin voto, y
 
@@ -157,11 +161,11 @@ Los bienes muebles e inmuebles pertenecientes al Organismo, gozarán de las fran
 
 Dichos bienes, así como los actos y contratos que celebre el Organismo, estarán igualmente exentos de toda clase de impuestos y derechos estatales y municipales.
 
-> <small>(REFORMADO, P.O. 9 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTICULO DECIMO PRIMERO.
 
-El titular del ejecutivo, por conducto de la Secretaría Técnica y de Planeación, tiene a su cargo la aplicación y vigilar de lo previsto en esta ley, sin perjuicio de las atribuciones que correspondan a la Secretaría de Fiscalización y Rendición de Cuentas y otras dependencias de la administración pública estatal.
+El titular del ejecutivo, por conducto del titular de la Secretaría de Desarrollo Social, tiene a su cargo la aplicación y vigilar de lo previsto en esta ley, sin perjuicio de las atribuciones que correspondan a la Secretaría de Fiscalización y Rendición de Cuentas y otras dependencias de la administración pública estatal.
 
 T R A N S I T O R I O S
 
@@ -248,3 +252,9 @@ P.O. 9 DE MARZO DE 2012.
 PRIMERO.- Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se dejan sin efecto las disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 25 DE SEPTIEMBRE DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
