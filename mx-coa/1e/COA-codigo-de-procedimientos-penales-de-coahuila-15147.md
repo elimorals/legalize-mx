@@ -4,7 +4,7 @@ identifier: "COA-codigo-de-procedimientos-penales-de-coahuila-15147"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-25"
-last_updated: "2012-04-08"
+last_updated: "2012-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15147&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES DE COAHUILA
 
 > <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS SEGUNDO, TERCERO Y SEXTO TRANSITORIOS DEL CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL P.O. DE 17 DE FEBRERO DE 2012, EL PRESENTE ORDENAMIENTO SERA ABROGADO PROGRESIVAMENTE.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el martes 25 de mayo de 1999.
 
@@ -1886,6 +1886,10 @@ XXV. Figura típica de utilización de vehículos, uniformes, insignias o equipo
 > <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2012)</small>
 
 XXVI. Figura típica de circular con placas sobrepuestas cuando el vehículo se utilice para cometer un delito doloso; figura típica de desaparición forzada de personas, y figura típica de simulación de retenes oficiales.
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+
+XXVIII (SIC). Figura típica de venta sin permiso de bebidas alcohólicas.
 
 Igualmente, se considera delito grave el de tortura; previsto en los artículos tercero, cuarto y quinto de la ley de la materia.
 
@@ -6072,3 +6076,9 @@ SEXTO.- Todas las disposiciones contenidas en esta ley que se relacionen con el 
 SÉPTIMO.- La organización y funcionamiento del Centro de Evaluación y Control de Confianza previsto en la fracción II del artículo 8 y 284 del Artículo Primero del presente decreto, se regulará por las disposiciones que para tal efecto se emitan en un plazo no mayor a sesenta días naturales contados a partir de la entrada en vigor del presente.
 
 OCTAVO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE SEPTIEMBRE DE 2012.
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
