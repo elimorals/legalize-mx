@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-acceso-a-la-informacion-publica-para-el-estado-y-los-330
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-29"
-last_updated: "2008-06-10"
+last_updated: "2012-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33056&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # LEY DE ACCESO A LA INFORMACION PUBLICA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-LEY DE ACCESO A LA INFORMACION PUBLICA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
+LEY DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, PUBLICADA EN EL P.O. DE 25 DE SEPTIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley Publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el lunes 29 de julio del 2003.
 
@@ -145,7 +147,7 @@ Las universidades e instituciones de educación superior procurarán en sus acti
 
 ### CAPÍTULO SEGUNDO. DE LAS OBLIGACIONES DE INFORMACIÓN
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2008)</small>
 
 ###### Artículo 10.
 
@@ -265,7 +267,7 @@ Toda persona podrá solicitar al Instituto Electoral del Estado de Guanajuato, i
 
 ### CAPÍTULO TERCERO. DE LA INFORMACIÓN RESERVADA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2008)</small>
 
 ###### Artículo 14.
 
@@ -327,13 +329,13 @@ El Instituto a solicitud de un sujeto obligado podrá acordar la prórroga del p
 
 El periodo de reserva se contará a partir de la generación del documento, expediente o información de que se trate.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2008)</small>
 
 ###### Artículo 16.
 
 Los sujetos obligados, por conducto de su unidad de acceso a la información pública, serán responsables de clasificar la información pública por una sola ocasión, de conformidad con los criterios establecidos en esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2008)</small>
 
 El acuerdo que clasifique la información como reservada deberá estar fundado y razonado en el interés público y en que:
 
@@ -373,33 +375,33 @@ En el caso de que exista una solicitud de acceso que incluya información confid
 
 En ningún caso podrá calificarse como de carácter personal y por tanto reservada o confidencial, la información relativa a las dietas, sueldos, salarios o remuneraciones percibidas con motivo del ejercicio de cargos, empleos o comisiones de carácter público.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCION DE DATOS PERSONALES PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, P.O. 19 DE MAYO DE 2006)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, P.O. 19 DE MAYO DE 2006)</small>
 
 ### CAPÍTULO QUINTO. DE LA PROTECCIÓN DE DATOS PERSONALES
 
 ###### Artículo 21.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCION DE DATOS PERSONALES PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, P.O. 19 DE MAYO DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, P.O. 19 DE MAYO DE 2006)
 
 ###### Artículo 22.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCION DE DATOS PERSONALES PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, P.O. 19 DE MAYO DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, P.O. 19 DE MAYO DE 2006)
 
 ###### Artículo 23.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCION DE DATOS PERSONALES PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, P.O. 19 DE MAYO DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, P.O. 19 DE MAYO DE 2006)
 
 ###### Artículo 24.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCION DE DATOS PERSONALES PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, P.O. 19 DE MAYO DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, P.O. 19 DE MAYO DE 2006)
 
 ###### Artículo 25.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCION DE DATOS PERSONALES PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, P.O. 19 DE MAYO DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, P.O. 19 DE MAYO DE 2006)
 
 ###### Artículo 26.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCION DE DATOS PERSONALES PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, P.O. 19 DE MAYO DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, P.O. 19 DE MAYO DE 2006)
 
 ## TÍTULO SEGUNDO. ACCESO A LA INFORMACIÓN PÚBLICA
 
@@ -569,7 +571,7 @@ Corresponderá al Archivo General del Estado elaborar los criterios para la orga
 
 ### CAPÍTULO TERCERO. DEL PROCEDIMIENTO DE ACCESO A LA INFORMACIÓN PÚBLICA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2008)</small>
 
 ###### Artículo 39.
 
@@ -639,7 +641,7 @@ II.- Cuando la información pública no haya sido proporcionada dentro de los pl
 
 III.- Cuando el solicitante considere que la información pública entregada es incompleta o no corresponda a la requerida en la solicitud.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2008)</small>
 
 ###### Artículo 46.
 
@@ -725,7 +727,7 @@ VIII.- La demora injustificada para proporcionar la información pública;
 
 IX.- Proporcionar información falsa; y
 
-X.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCION DE DATOS PERSONALES PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, P.O. 19 DE MAYO DE 2006)
+X.- (DEROGADA POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, P.O. 19 DE MAYO DE 2006)
 
 ### CAPÍTULO SEGUNDO. DE LAS SANCIONES
 
@@ -797,11 +799,11 @@ EL SECRETARIO DE GOBIERNO.
 
 JUAN MANUEL OLIVA RAMÍREZ.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 19 DE MAYO DE 2006.
 
-LEY DE PROTECCION DE DATOS PERSONALES PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO.
+LEY DE PROTECCIÓN DE DATOS PERSONALES PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO.
 
 Artículo Primero. La presente Ley iniciará su vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -828,3 +830,43 @@ Los sujetos obligados deberán contar con sistemas electrónicos para que cualqu
 ###### ARTÍCULO TERCERO.
 
 Los medios de impugnación presentados con anterioridad a la entrada en vigor del supuesto contenido en el artículo transitorio anterior, continuarán su trámite por escrito y en los términos de la Ley vigente.
+
+P.O. 25 DE SEPTIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Acceso a la Información Pública para el Estado y los Municipios de Guanajuato, expedida mediante decreto número 198 por la Quincuagésima Octava Legislatura Constitucional y publicado en el Periódico Oficial del Gobierno del Estado, número 120 segunda parte de 29 de julio de 2003.
+
+Asimismo, se derogan todas las disposiciones legales y reglamentarias que se opongan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+El actual Director General, en un plazo de sesenta días, hará los ajustes y adecuaciones administrativas pertinentes y consecuentemente asumirá y realizará las funciones de Secretario Ejecutivo.
+
+###### ARTÍCULO CUARTO.
+
+Los actuales Consejeros continuarán en su encargo por el término que les fue reconocido en la ley que se abroga, sin que sea posible su ratificación en los casos en que dicho supuesto se hubiera presentado con anterioridad a la entrada en vigor de la presente Ley.
+
+Quedando a salvo los derechos de ratificación para los consejeros, según sea el caso, que no hayan agotado dicha posibilidad.
+
+###### ARTÍCULO QUINTO.
+
+Los medios de impugnación presentados con anterioridad a la entrada en vigor de esta Ley, y los que se presenten con posterioridad a esta fecha y hasta antes del 1 de enero de 2013 se tramitarán en los términos de la ley que se abroga; para este efecto, el Secretario Ejecutivo ejercerá las atribuciones que en esta última se asignan alDirector (sic) General.
+
+Los particulares podrán presentar los medios de impugnación previstos en esta leya (sic) partir del 1 de enero de 2013.
+
+###### ARTÍCULO SEXTO.
+
+El reglamento interno del Instituto deberá ser expedido dentro de los ciento veinte días siguientes a la fecha de entrada en vigor de esta Ley y deberá publicarse en el Periódico Oficial del Gobierno del Estado.
+
+La facultad de revisión de los acuerdos de clasificación por parte del Consejo General del Instituto, se ejercerá a partir del 1 de enero de 2013.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las disposiciones señaladas en el artículo 16, serán aplicadas solo a aquella información que surja al momento de la entrada en vigencia de la presente Ley.
+
+No surtirá efectos para la información ya generada y clasificada como reservada, a la cual le seguirán aplicando los plazos y reglas de la ley que se abroga.
