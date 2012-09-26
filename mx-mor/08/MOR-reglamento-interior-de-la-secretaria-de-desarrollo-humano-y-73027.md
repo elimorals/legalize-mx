@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-desarrollo-humano-y-730
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-10"
-last_updated: "2010-02-10"
+last_updated: "2012-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73027&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO HUMANO Y SOCIAL
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO HUMANO Y SOCIAL DEL ESTADO DE MORELOS
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO HUMANO Y SOCIAL DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 10 de febrero de 2010.
 
@@ -39,9 +39,11 @@ REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO HUMANO Y SOCIAL.
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 1.
 
-El presente ordenamiento tiene por objeto reglamentar la organización y el funcionamiento de la Secretaría de Desarrollo Humano y Social, la cual es la Secretaría del Poder Ejecutivo del Estado que tiene a su cargo la política general de Desarrollo Humano y Social para el combate efectivo a la pobreza, la atención a grupos vulnerables, el impulso al deporte y el ejercicio de los programas sociales de beneficio comunitario y de desarrollo social, como expresamente lo encomiendan la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos y de manera supletoria la Ley General de Desarrollo Social, Ley Estatal de Planeación y las demás leyes que resulten aplicables.
+El presente ordenamiento tiene por objeto reglamentar la organización y el funcionamiento de la Secretaría de Desarrollo Humano y Social, para el combate efectivo a la pobreza, la atención a grupos vulnerables, el impulso al deporte y el ejercicio de los programas sociales de beneficio comunitario y de desarrollo social, como expresamente lo encomienda Ley (sic) Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos, la Ley de Fomento y Desarrollo de los Derechos y Cultura de las Comunidades y Pueblos Indígenas del Estado de Morelos y de manera supletoria la Ley General de Desarrollo Social, y las demás leyes que resulten aplicables.
 
 ###### Artículo 2.
 
@@ -81,7 +83,9 @@ c) Dirección General de Atención a Zonas Urbanas;
 
 d) Dirección General de Atención a Zonas Rurales, y
 
-e) Dirección General de Atención a Migrantes y Grupos Especiales.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+e) Dirección General de Atención a Migrantes, Pueblos y Comunidades Indígenas y Grupos Especiales.
 
 Al frente de cada Unidad Administrativa habrá una persona Titular y se integrarán con los directores de área, subdirectores, jefes de departamento, jefes de oficina y demás servidores públicos que se señalen en los manuales de organización y las disposiciones jurídicas aplicables, que por necesidades de la Secretaría se requiera, para el adecuado cumplimiento de las atribuciones establecidas.
 
@@ -115,13 +119,17 @@ V. Coordinar la convergencia de acciones entre la Federación, el Estado y los m
 
 VI. Establecer la política estatal de atención a migrantes, así como promover su participación en la definición de la misma;
 
-VII. Establecer la política general de atención a pueblos y comunidades indígenas de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado Libre y Soberano de Morelos;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+VII. Establecer la política general de atención a pueblos y comunidades indígenas de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano del Estado de Morelos (sic) y la Ley de Fomento y Desarrollo de los Derechos y Cultura de las Comunidades y Pueblos Indígenas del Estado de Morelos;
 
 VIII. Realizar estudios para promover el desarrollo municipal y coadyuvar en apoyo a los Ayuntamientos con asesoría y asistencia técnica, en coordinación con las dependencias del Ejecutivo, en las materias de su competencia;
 
 IX. Administrar los fondos públicos que le asigne el Ejecutivo Estatal destinados a los sectores sociales cuya función le corresponda;
 
-X. Coordinar, concretar y ejecutar programas especiales para la atención de los sectores sociales más desprotegidos, en especial de los pobladores de las áreas rurales, así como de las áreas urbanas, para elevar el nivel de vida de la población, con la intervención de las dependencias y entidades de la Administración Pública Estatal correspondientes y de los gobiernos municipales, promoviendo la participación de los sectores social y privado;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+X. Coordinar, concretar y ejecutar programas especiales para la atención de los sectores sociales más desprotegidos, en especial de los pobladores de las áreas rurales, de los Pueblos y Comunidades Indígenas, así como de las áreas urbanas, para elevar el nivel de vida de la población, con la intervención de las Dependencias y Entidades de la Administración Pública Estatal correspondientes y de los Gobiernos Municipales, promoviendo la participación de los sectores social y privado;
 
 XI. Promover y concertar programas de vivienda, desarrollo sustentable y el ejercicio de los programas sociales para comunidades e individuos en situación de desventaja, con la participación de los gobiernos federal, municipales, y los diversos grupos sociales;
 
@@ -175,9 +183,21 @@ XXXV. Certificar los documentos que obren en sus archivos así como los que le s
 
 XXXVI. Participar en la Comisión Nacional de Desarrollo Social en representación del Gobierno del Estado de Morelos, así como en los grupos de trabajo de ésta;
 
-XXXVII. Ejercer las facultades señaladas en el Reglamento Interior del COPLADE en el ámbito social, y
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-XXXVIII. Las demás que le confieran otras disposiciones legales aplicables o le delegue de manera expresa el Gobernador del Estado.
+XXXVII. Participar en coordinación con el Registro Civil en las campañas registrales que se organicen en los Pueblos y las Comunidades Indígenas;
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+XXXVIII. Establecer y coadyuvar programas de capacitación y formación de intérpretes y traductores para apoyar a las Comunidades y Pueblos Indígenas en los distintos ámbitos que requieran;
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+XXXIX. Establecer un sistema de información sobre la situación económica y social de los pueblos y las comunidades indígenas;
+
+XL. Ejercer las facultades señaladas en el Reglamento Interior del COPLADE en el ámbito social, y
+
+XLI. Las demás que le confieran otras disposiciones legales aplicables o le delegue de manera expresa el Gobernador del Estado.
 
 Las facultades señaladas en las fracciones I, II, IV, VI, VII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXII, XXIII, XXIV, XXV, XXVI, XXIX, XXX, XXXIII, y XXXIV del presente Artículo, no podrán ser delegables en servidores públicos subalternos.
 
@@ -401,7 +421,9 @@ a) La Dirección General de Atención a Zonas Urbanas;
 
 b) La Dirección General de Atención a Zonas Rurales, y
 
-c) La Dirección General de Atención a Migrantes y Grupos Especiales.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+c) La Dirección General de Atención a Migrantes, Pueblos y Comunidades Indígenas y Grupos Especiales.
 
 ###### Artículo 16.
 
@@ -545,9 +567,11 @@ XV. Promover la elaboración de estudios para determinar el potencial de microem
 
 XVI. Las demás que determinen las disposiciones legales vigentes o le delegue su Superior Jerárquico.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 20.
 
-A la persona Titular de la Dirección General de Atención a Migrantes y Grupos Especiales, le corresponderá ejercer las siguientes facultades específicas:
+Al titular de la Dirección General de Atención a Migrantes, Pueblos y Comunidades Indígenas y Grupos Especiales, le corresponderá ejercer las siguientes facultades específicas:
 
 I. Apoyar, proteger y asesorar, así como impulsar programas y proyectos productivos que contribuyan al desarrollo de los diferentes grupos especiales y sus familias, como son los migrantes, indígenas, personas con capacidades diferentes y adultos mayores, entre otros;
 
@@ -565,9 +589,13 @@ VII. Impulsar acuerdos con las distintas Secretarías, Instituciones y Organismo
 
 VIII. Fortalecer los programas de beneficio social para migrantes que se realicen en las comunidades del Estado, con apoyos de morelenses que se encuentren en el extranjero;
 
-IX. Ejecutar la política de atención a pueblos indígenas en el Estado, de conformidad con las disposiciones legales aplicables, vigilando en todo momento el respeto irrestricto a los derechos de los pueblos indígenas, y
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-X. Las demás que determinen las disposiciones legales aplicables.
+IX. Ejercer y cumplir las obligaciones establecidas en el artículo 18 de la Ley de Fomento y Desarrollo de los Derechos y Cultura de las Comunidades y Pueblos Indígenas del Estado de Morelos;
+
+X. Ejecutar la política de atención a pueblos indígenas en el Estado, de conformidad con las disposiciones legales aplicables, vigilando en todo momento el respeto irrestricto a los derechos de los pueblos indígenas, y
+
+XI. Las demás que determinen las disposiciones legales aplicables.
 
 ### CAPÍTULO OCTAVO. DE LA SUPLENCIA DE LOS SERVIDORES PÚBLICOS Y DELEGACIÓN DE FACULTADES
 
@@ -614,3 +642,11 @@ EL SECRETARIO DE DESARROLLO HUMANO Y SOCIAL.
 LIC. RICARDO EMILIO ESPONDA GAXIOLA
 
 RÚBRICAS
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE SEPTIEMBRE DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor rango que contravengan al presente Decreto.
