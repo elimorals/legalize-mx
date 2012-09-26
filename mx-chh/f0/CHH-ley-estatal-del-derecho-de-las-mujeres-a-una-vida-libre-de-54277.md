@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-del-derecho-de-las-mujeres-a-una-vida-libre-de-5427
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-24"
-last_updated: "2012-06-16"
+last_updated: "2012-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHH"
 
 LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2012.
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 859/2012, PUBLICADO EN EL P.O. 26 DE SEPTIEMBRE DE 2012, CUANDO EN CUALQUIER OTRO INSTRUMENTO JURÍDICO SE HAGA REFERENCIA A LA SECRETARÍA DE FOMENTO SOCIAL, SE ENTENDERÁ CITADA A LA SECRETARÍA DE DESARROLLO SOCIAL.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 24 de enero de 2007.
 
@@ -293,23 +295,31 @@ La aportación voluntaria de recursos a cargo de particulares no implica la tran
 
 El Consejo es el órgano del Sistema, con funciones de coordinación de acciones y de participación social, para la planeación de la prevención, atención y erradicación de la violencia contra las mujeres, así como la protección y asistencia de las víctimas en el Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 17.
 
-El Consejo estará integrado por:
+El Consejo estará integrado por las personas que ocupen la titularidad de:
 
-l. Una o un Presidente, que será la o el titular de la Secretaría de Fomento Social;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-II. Una Secretaria, que será la Directora del Instituto Chihuahuense de la Mujer;
+l. La Secretaría de Desarrollo Social, a cargo de la presidencia;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+II. El Instituto Chihuahuense de la Mujer, a cargo de la secretaría;
 
-III. Las o los titulares de la Fiscalía General del Estado, así como de las Secretarías de Educación y Cultura, y de Desarrollo Municipal;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-IV. La o el titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia en el Estado;
+III. La Fiscalía General del Estado, así como de las Secretarías de Educación, Cultura y Deporte, y General de Gobierno;
 
-V. Las o los titulares de las dependencias o entidades encargadas de aplicar programas en favor de las mujeres en los municipios del Estado. Estas instancias se convocarán a las sesiones en caso de que los temas a tratar sean de su competencia;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+IV. La Dirección General del DIF Estatal.
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+V. Las dependencias y entidades encargadas de aplicar programas en favor de las mujeres en los municipios del Estado. Estas instancias se convocarán a las sesiones en caso de que los temas a tratar sean de su competencia;
 
 VI. Cuatro representantes de las organizaciones de la sociedad civil en el Estado que trabajen con y para las mujeres.
 
@@ -441,9 +451,11 @@ XI. Garantizar que las pláticas prematrimoniales que se imparten a través del 
 
 XII. Las demás que esta Ley y otros ordenamientos aplicables le confieran.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 28.
 
-Corresponde a la Secretaría de Fomento Social:
+Corresponde a la Secretaría de Desarrollo Social:
 
 l. Presidir las sesiones del Consejo;
 
@@ -914,3 +926,13 @@ P.O. 16 DE JUNIO DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE SEPTIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Cuando en cualquier otro instrumento jurídico se haga referencia a la Secretaría de Fomento Social, se entenderá citada a la Secretaría de Desarrollo Social sin que ello afecte su competencia, derechos u obligaciones que haya contraído con antelación a la entrada en vigor del presente Decreto.
