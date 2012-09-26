@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-salud-del-estado-de-815
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-03"
-last_updated: "2011-06-03"
+last_updated: "2012-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81586&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE SALUD DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el viernes 3 de junio de 2011.
 
@@ -31,7 +31,7 @@ Al margen izquierdo un sello con el Escudo del Estado de Morelos que dice: "Tier
 
 MARCO ANTONIO ADAME CASTILLO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LAS FACULTADES QUE ME CONFIEREN LOS ARTÍCULOS 70 FRACCIONES XVII Y XXVI DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS; 2, 3, 6 Y 8 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, Y
 
-CONSIDERANDO...
+CONSIDERANDO.
 
 En mérito de lo anterior, he tenido a bien expedir el siguiente:
 
@@ -47,7 +47,7 @@ La Secretaría de Salud del Poder Ejecutivo del Estado, tiene a su cargo el desp
 
 Para el despacho de los asuntos de su competencia, la Secretaría contará con los servidores públicos y las unidades administrativas que enseguida se refieren:
 
-I. Secretario;
+l. Secretario;
 
 II. Subsecretario de Salud;
 
@@ -55,9 +55,13 @@ III. Dirección General de Coordinación Administrativa;
 
 IV. Dirección General Jurídica;
 
-V. Dirección General de Coordinación y Supervisión, y
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-VI. Dirección General de Vinculación y Participación Social.
+V. Coordinación de Enlace;
+
+VI. Dirección General de Coordinación y Supervisión, y
+
+VII. Dirección General de Vinculación y Participación Social.
 
 Las unidades administrativas estarán integradas por los titulares respectivos, Subdirectores, Jefes de Departamento, Jefes de Oficina y demás servidores públicos que se señalen en los Manuales de Organización y en las disposiciones jurídicas aplicables, en términos de su suficiencia presupuestal.
 
@@ -75,7 +79,7 @@ La representación de la Secretaría, así como el trámite y resolución de los
 
 El titular de la Secretaría tendrá las atribuciones que le confieren la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos y las demás disposiciones jurídicas y administrativas aplicables, las cuales ejercerá conforme a las necesidades del servicio, pero no podrá delegar en servidores públicos subalternos las siguientes:
 
-I. Establecer, dirigir y controlar la política interna de la Secretaría, así como la correspondiente a las entidades paraestatales adscritas a su coordinación;
+l. Establecer, dirigir y controlar la política interna de la Secretaría, así como la correspondiente a las entidades paraestatales adscritas a su coordinación;
 
 II. Expedir, previo acuerdo del ttular (sic) del Ejecutivo, las políticas en materia de salud en el Estado de Morelos;
 
@@ -127,7 +131,7 @@ Al frente de la Subsecretaría de Salud habrá un titular, quien para el trámit
 
 El titular de la Subsecretaría de Salud tendrá las siguientes atribuciones genéricas:
 
-I. Coordinar las actividades de las Direcciones Generales adscritas;
+l. Coordinar las actividades de las Direcciones Generales adscritas;
 
 II. Planear, programar, controlar y evaluar las actividades que tengan encomendadas las Direcciones Generales adscritas, de conformidad con las disposiciones legales lineamientos, normas, políticas y procedimientos aplicables;
 
@@ -201,9 +205,17 @@ XV. Las demás que le confieran otras disposiciones jurídicas o le delegue el S
 
 Estarán integradas a la Oficina del titular de la Secretaría las siguientes unidades administrativas:
 
-I. Dirección General de Coordinación Administrativa, y
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-II. Dirección General Jurídica.
+I. Coordinación de Enlace;
+
+II. Dirección General de Coordinación Administrativa, y
+
+III. Dirección General Jurídica.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+El Titular de la Coordinación de Enlace tendrá el nivel de Director General y, en lo conducente, las atribuciones genéricas de los Directores Generales. Se sujetará, además, a las disposiciones que este Reglamento prevé para los mismos.
 
 ###### Artículo 10.
 
@@ -389,6 +401,52 @@ VIII. Coordinar la operación de las comisiones y comités con que cuente la Sec
 
 IX. Las demás que le confieran otras disposiciones jurídicas o le deleguen el titular de la Secretaría o Subsecretaría.
 
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 16 Bis.
+
+El titular de la Coordinación de Enlace tendrá las siguientes atribuciones específicas:
+
+I. Acordar la agenda con la persona titular de la Secretaría;
+
+II. Coordinar y dar seguimiento a los acuerdos, actividades y compromisos agendados por la persona titular de la Secretaría;
+
+III. Coordinador las solicitudes de audiencia de la ciudadanía con la persona titular de la Secretaría;
+
+IV. Realizar la difusión de la información recibida en la oficina del o la titular de la Secretaría a los responsables de la unidades (sic) administrativas y de los organismos sectorizados a la Secretaría, para su debida atención y cumplimiento;
+
+V. Coordinarse con los titulares de las unidades administrativas y organismos sectorizados, para el cumplimiento de los acuerdos turnados a los responsables de dichas áreas;
+
+VI. Establecer criterios para vigilar el cumplimiento de la normatividad que rige a la oficina del o la titular de la Secretaría;
+
+VII. Desempeñar las comisiones y funciones especiales que la persona titular de la Secretaría le confiera;
+
+VIII. Elaborar las respuestas escritas de las distintas solicitudes que ingresan a la oficina del o la titular de la Secretaría;
+
+IX. Coadyuvar en la solución de asuntos de carácter administrativo que no requieran de intervención directa de la persona titular de la Secretaría;
+
+X. Operar mecanismos para actualizar las actividades de la oficina del o la titular de la Secretaría, con el fin de garantizar el uso adecuado de los recursos otorgados;
+
+XI. Organizar el apoyo técnico para la celebración de reuniones convocadas en las que participe la persona titular de la Secretaría;
+
+XII. Operar mecanismos para actualizar la información de la oficina del o la titular de la Secretaría;
+
+XIII. Coordinar la elaboración de los manuales de organización y de políticas y procedimientos de la oficina del o la titular de la Secretaría;
+
+XIV. Coadyuvar en la elaboración del Programa Operativo Anual de la oficina del o la titular de la Secretaría;
+
+XV. Realizar el Informe de Gestión Gubernamental de la oficina del o la titular de la Secretaría;
+
+XVI. Coadyuvar en la elaboración del presupuesto de la oficina del o la titular de la Secretaría;
+
+XVII. Administrar y coordinar las actividades del personal, a fin de contar con los recursos humanos, financieros y materiales para el cumplimiento de las metas de la oficina del o la titular de la Secretaría;
+
+XVIII. Controlar el parque vehicular asignado a la oficina del o la titular de la Secretaría;
+
+XIX. Controlar la dotación mensual de gasolina de los vehículos oficiales asignados a la oficina del o la titular de la Secretaría, y
+
+XX. Las demás que le confieran otras disposiciones jurídicas o le delegue el o la titular de la Secretaría.
+
 ### CAPÍTULO SEXTO. ÓRGANOS ADMINISTRATIVOS DESCONCENTRADOS
 
 ###### Artículo 17.
@@ -458,3 +516,9 @@ EL SECRETARIO DE SALUD
 DR. VÍCTOR MANUEL CABALLERO SOLANO.
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE SEPTIEMBRE DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
