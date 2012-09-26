@@ -4,7 +4,7 @@ identifier: "CHH-decreto-que-crea-el-instituto-chihuahuense-de-las-mujeres-26971
 country: "mx"
 rank: "decreto"
 publication_date: "2002-08-28"
-last_updated: "2012-06-30"
+last_updated: "2012-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26971&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 DECRETO QUE CREA EL INSTITUTO CHIHUAHUENSE DE LA MUJER
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2012.
 
 Decreto publicado en el Periódico Oficial, el miércoles 28 de agosto de 2002.
 
@@ -127,7 +127,9 @@ En el desempeño de sus atribuciones, el Instituto podrá celebrar convenios o p
 
 Los órganos de Gobierno del Instituto son:
 
-I.- El Consejo Directivo, que será presidido por el titular de la Secretaría de Fomento Social.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+I.- El Consejo Directivo, que será presidido por el titular de la Secretaría de Desarrollo Social.
 
 II.- La Directora General, quien será nombrada por el titular del Poder Ejecutivo del Estado, el cual podrá realizar convocatoria pública si así lo estima conducente.
 
@@ -137,19 +139,27 @@ II.- La Directora General, quien será nombrada por el titular del Poder Ejecuti
 
 El Consejo Directivo es el órgano supremo del Instituto y se integrará por las personas siguientes:
 
-I.- El Titular de la Secretaría de Fomento Social, quien fungirá como Presidente, de acuerdo a lo previsto por el artículo 6, Fracción I, de este ordenamiento legal.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+l. El Titular de la Secretaría de Desarrollo Social, quien fungirá como Presidente, de acuerdo a lo previsto por el artículo 6, fracción I, de este ordenamiento legal.
 
 II.- La Secretaria Técnica, que es la Directora General del Instituto, quien participará con voz pero sin voto.
 
 III.- El Titular de la Secretaría General de Gobierno.
 
-IV.- El Titular de la Secretaría de Finanzas y Administración.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-V.- El Titular de la Secretaría de Planeación y Evaluación.
+IV.- El Titular de la Secretaria de Hacienda.
 
-VI.- El Titular de la Secretaría de Educación y Cultura.
+V.- (DEROGADA, P.O. 26 DE SEPTIEMBRE DE 2012)
 
-VII.- El Procurador General de Justicia en el Estado.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+VI.- El Titular de la Secretaria de Educación, Cultura y Deporte.
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+VII.- El Titular de la Fiscalía General del Estado.
 
 VIII.- Dos representantes de las organizaciones no gubernamentales, quienes serán designados por el Titular del Poder Ejecutivo entre los propuestos por las propias organizaciones ante la convocatoria pública formulada para tales efectos.
 
@@ -309,7 +319,9 @@ Para el ejercicio de sus funciones, se elegirá de entre sus integrantes a quien
 
 La Mesa Directiva del Consejo Consultivo, se integrará de la forma siguiente:
 
-I.- El Presidente Honorario, que será el Titular de la Secretaría de Fomento Social. En su caso se observará lo dispuesto en la fracción XIV del artículo 15.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+I. El Presidente Honorario, que será el Titular de la Secretaría de Desarrollo Social. En su caso se observará lo dispuesto en la fracción XIV del artículo 15.
 
 II.- El Coordinador General;
 
@@ -438,3 +450,13 @@ P.O. 30 DE JUNIO DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE SEPTIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Cuando en cualquier otro instrumento jurídico se haga referencia a la Secretaría de Fomento Social, se entenderá citada a la Secretaría de Desarrollo Social sin que ello afecte su competencia, derechos u obligaciones que haya contraído con antelación a la entrada en vigor del presente Decreto.
