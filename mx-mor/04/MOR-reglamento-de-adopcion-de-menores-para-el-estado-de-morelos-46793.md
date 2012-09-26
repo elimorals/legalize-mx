@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-adopcion-de-menores-para-el-estado-de-morelos-467
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-11-09"
-last_updated: "2005-11-09"
+last_updated: "2012-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO DE ADOPCION DE MENORES PARA EL ESTADO DE MORELOS
 
-REGLAMENTO DE ADOPCION DE MENORES PARA EL ESTADO DE MORELOS
+REGLAMENTO DE ADOPCIÓN DE MENORES PARA EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE ADOPCIÓN DE MENORES PARA EL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 26 DE SEPTIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 9 de noviembre de 2005.
 
@@ -354,3 +356,11 @@ EL SECRETARIO DE SALUD
 DR. ANTONIO CAMPOS RENDÓN
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE SEPTIEMBRE DE 2012.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial ''Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado.
+
+SEGUNDO.- El presente Reglamento abroga el Reglamento de Adopción de Menores para el Estado de Morelos, publicado en el Periódico Oficial "Tierra y Libertad" número 4422, de fecha nueve de noviembre de dos mil cinco.
