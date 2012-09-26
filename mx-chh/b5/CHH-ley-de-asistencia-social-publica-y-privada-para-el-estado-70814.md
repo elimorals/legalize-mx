@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-asistencia-social-publica-y-privada-para-el-estado-70814
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-28"
-last_updated: "2012-03-28"
+last_updated: "2012-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE ASISTENCIA SOCIAL PÚBLICA Y PRIVADA PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 28 de octubre de 2009.
 
@@ -447,7 +447,9 @@ La Junta de Gobierno se integrará por quien ocupe la titularidad de las siguien
 
 I. Secretaría General de Gobierno;
 
-II. Secretaría de Fomento Social;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+II. Secretaría de Desarrollo Social;
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
@@ -465,9 +467,11 @@ VII. Dirección General del organismo, y
 
 VIII. Consejo Consultivo para la Asistencia Social Pública.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 32.
 
-La presidencia de la Junta de Gobierno recaerá en quien ocupe la titularidad de la Secretaría de Fomento Social.
+La presidencia de la Junta de Gobierno recaerá en quien ocupe la titularidad de la Secretaría de Desarrollo Social.
 
 ###### Artículo 33.
 
@@ -737,7 +741,7 @@ Las disposiciones contenidas en el presente ordenamiento, que establezcan derech
 
 ### CAPÍTULO II. DE LA JUNTA DE ASISTENCIA SOCIAL PRIVADA
 
-> <small>(REFORMADO, P.O. 28 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 59.
 
@@ -851,7 +855,7 @@ Las instituciones de asistencia social privada aplicarán los recursos que recib
 
 ###### Artículo 64.
 
-La Junta de Asistencia Social Privada del Estado de Chihuahua es el Organismo Descentralizado de la Administración Pública Estatal, sectorizado a la Secretaría de Fomento Social, dotado de personalidad jurídica, patrimonio y autonomía de gestión propios, con domicilio en la Ciudad de Chihuahua, que tendrá como objeto fomentar y apoyar las acciones que realicen las instituciones de asistencia social privada.
+La Junta de Asistencia Social Privada del Estado de Chihuahua es el Organismo Descentralizado de la Administración Pública Estatal, sectorizado a la Secretaría de Desarrollo Social, dotado de personalidad jurídica, patrimonio y autonomía de gestión propios, con domicilio en la Ciudad de Chihuahua, que tendrá como objeto fomentar y apoyar las acciones que realicen las instituciones de asistencia social privada.
 
 ###### Artículo 65.
 
@@ -983,7 +987,9 @@ XI. Las demás facultades que le otorgue esta Ley y otras disposiciones aplicabl
 
 El Consejo Directivo se integrará por:
 
-I. Quien ocupe la titularidad de la Secretaría de Fomento Social;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+l. Quien ocupe la titularidad de la Secretaría de Desarrollo Social;
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
 
@@ -1007,9 +1013,11 @@ VII. Quien ocupe la titularidad de la Dirección General de la Junta de Asistenc
 
 Las personas integrantes del Consejo Directivo a quienes hace alusión la fracción VI del artículo anterior, durarán en su encargo tres años y serán electos mediante el procedimiento que determine el Consejo Directivo, vía convocatoria pública.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 72.
 
-La presidencia del Consejo Directivo recaerá en quien ocupe la titularidad de la Secretaría de Fomento Social, quien tendrá voto de calidad en caso de empate.
+La presidencia del Consejo Directivo recaerá en quien ocupe la titularidad de la Secretaría de Desarrollo Social, quien tendrá voto de calidad en caso de empate.
 
 ###### Artículo 73.
 
@@ -1312,3 +1320,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Los organismos públicos descentralizados previstos en los artículos 13 de la Ley Sobre el Sistema Estatal de Asistencia Social, y 1 de la Ley de la Junta de Asistencia Privada del Estado de Chihuahua, que en lo subsecuente se prevén en los numerales 24 y 59 de la ley de Asistencia Social Pública y Privada para el Estado de Chihuahua, se entienden constituidos desde la fecha de entrada en vigor de los primeros ordenamientos referidos, por lo que todas las funciones, facultades, derechos y obligaciones establecidas en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades del Gobierno del Estado, con dependencias o entidades de la Federación o de los municipios, así como con cualquier persona física o moral, subsisten en todos· sus términos en cuanto no se opongan a las disposiciones de la Ley de Asistencia Social Pública y Privada.
+
+P.O. 26 DE SEPTIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Cuando en cualquier otro instrumento jurídico se haga referencia a la Secretaría de Fomento Social, se entenderá citada a la Secretaría de Desarrollo Social sin que ello afecte su competencia, derechos u obligaciones que haya contraído con antelación a la entrada en vigor del presente Decreto.
