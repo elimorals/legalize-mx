@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-organismo-publico-descentralizado-11034"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-10-01"
-last_updated: "2009-12-05"
+last_updated: "2012-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11034&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # LEY ORGANICA DEL ORGANISMO PUBLICO DESCENTRALIZADO "SERVICIOS DE SALUD DE CHIHUAHUA"
 
-LEY ORGANICA DEL ORGANISMO PUBLICO DESCENTRALIZADO "SERVICIOS DE SALUD DE CHIHUAHUA"
+LEY ORGÁNICA DEL ORGANISMO PÚBLICO DESCENTRALIZADO "SERVICIOS DE SALUD DE CHIHUAHUA"
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1997.
 
@@ -75,7 +75,7 @@ VI.- Promover y llevar a cabo programas de capacitación profesional entre su pe
 
 VII.- Difundir a las autoridades correspondientes y a la población en general, a través de publicaciones y actos académicos, los resultados de los trabajos de investigación, estudio, análisis y de recopilación de información, documentación e intercambio que realiza;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2009)</small>
 
@@ -83,7 +83,7 @@ VIII.- Colaborar con la Secretaría de Salud, en el seguimiento de la transferen
 
 IX.- Administrar las cuotas de recuperación así como las aportaciones que reciba de otras personas e instituciones.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2009)</small>
 
@@ -123,37 +123,57 @@ VII.- En general todos los bienes, derechos y obligaciones que entrañen utilida
 
 El organismo contará con los siguientes órganos de Gobierno y Administración:
 
-I.- La Junta Directiva; y
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-II.- La Dirección General.
+I. La Junta Directiva.
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+II. La Dirección General.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+III. La Dirección Ejecutiva, cuyo titular será designado por el Director General, quien lo auxiliará en el desempeño de las funciones de coordinación, control, vigilancia y evaluación del organismo y de su personal directivo.
 
 ###### Artículo 7.
 
 La Junta Directiva es el órgano supremo de gobierno del organismo y se integrará por:
 
-I.- El titular del poder Ejecutivo, quien fungirá como presidente;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-II.- Secretario: El Director General de Fomento Social;
+I. Presidente: El Titular del Poder Ejecutivo.
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-III.- Vocal: El Secretario de Finanzas y Administración;
+II. Secretario: El Secretario de Salud del Estado, quien suplirá las ausencias del Presidente.
 
-III Bis.- (DEROGADA, P.O. 30 DE JUNIO DE 2007)
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-IV.- Vocal: El Director General de Educación y Cultura;
+III. Vocal: El Secretario de Hacienda.
 
-V.- Vocal: El Coordinador de Planeación y Evaluación;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-VI.- Vocal: El Coordinador de Fortalecimiento Municipal;
+IV. Vocal: El Secretario de Educación, Cultura y Deporte.
 
-VII.- Vocal: El Director del Instituto Chihuahuense de Salud;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-VIII.- Vocal: Un representante de la Secretaría de Salud del Gobierno Federal;
+V. Vocal: El Secretario de Desarrollo Social.
 
-IX.- Vocal: Un representante de los trabajadores, que será designado por el Comité Ejecutivo Nacional del Sindicato Nacional de Trabajadores de la Secretaría de Salud.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-Por cada titular de la Junta Directiva habrá un suplente, con excepción del presidente; existirá quórum con la asistencia de más de la mitad de los integrantes, y sus decisiones se tomarán por mayoría, teniendo el Presidente voto de calidad en caso de empate.
+VI. Vocal: Un representante de la Secretaría de Salud del Gobierno Federal.
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+VII. Vocal: Un representante de los trabajadores, que será designado por el Comité Ejecutivo Nacional del Sindicato Nacional de Trabajadores de la Secretaría de Salud.
+
+VIII. (DEROGADA, P.O. 26 DE SEPTIEMBRE DE 2012)
+
+IX. (DEROGADA, P.O. 26 DE SEPTIEMBRE DE 2012)
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+Por cada titular de la Junta Directiva habrá un suplente. Habrá quórum con la asistencia de más de la mitad de los integrantes, y sus decisiones se tomarán por mayoría de los presentes, teniendo el Presidente voto de calidad en caso de empate.
 
 El presidente de la Junta podrá invitar a las sesiones de dicho órgano a representantes de Instituciones públicas federales, estatales, privadas, educativas y cualquier otra que guarde relación con el objeto del organismo.
 
@@ -197,9 +217,11 @@ XV.- En general, proveer el cumplimiento del objeto del Organismo;
 
 XVI.- Las demás que determinen las leyes, reglamentos y convenios aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 9.
 
-Los integrantes de la Junta Directiva tendrán las siguientes facultades específicas:
+El Presidente, el Secretario y los Vocales tendrán las siguientes atribuciones:
 
 I.- El Presidente:
 
@@ -211,17 +233,43 @@ c) Proponer a la Junta Directiva para su aprobación las políticas de funcionam
 
 d) Someter a la consideración del Organo de Gobierno los sistemas que se requieran para el funcionamiento de la Institución;
 
-e) Convocar a sesiones del Organo de Gobierno.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+e) Convocar a sesiones del Órgano de Gobierno, a través del Secretario.
 
 II.- El Secretario:
 
-a) Elaborar las actas correspondientes a sus sesiones ordinarias y extraordinarias, las que presentará para que en su caso sean aprobadas; y también formulará, por acuerdo de la Junta Directiva el orden del día de los asuntos que deban tratarse en dichas sesiones y tendrá bajo su custodia el archivo;
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-b) Asistir a las sesiones del Organo de Gobierno;
+a) Auxiliar al Presidente durante la celebración de Sesiones de la Junta Directiva y suplir las ausencias de éste.
 
-c) Emitir su voto respecto de los asuntos que se sometan al Acuerdo del Organo de Gobierno; y
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-d) Las demás funciones que le sean encomendadas por la Junta Directiva.
+b) Formular el orden del día de la sesión.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+c) Elaborar las actas correspondientes de las sesiones ordinarias y extraordinarias y someterlas para su aprobación, en su caso.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+d) Resguardar el archivo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+e) Asistir a las sesiones del Órgano de Gobierno.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+f) Emitir su voto respecto de los asuntos que se sometan al Acuerdo del Órgano de Gobierno.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+g) Las demás que le sean encomendadas por el Presidente o acordadas por la Junta Directiva.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+El Secretario nombrará un Secretario Técnico que lo auxiliará en el ejercicio de sus atribuciones.
 
 III. Los vocales:
 
@@ -235,9 +283,11 @@ c) Aquellas funciones que le sean encomendadas por la Junta Directiva.
 
 La Junta Directiva celebrará sesiones ordinarias cada 4 meses, así como las extraordinarias que se requieran, mismas que deberán ser convocadas con una anticipación de 10 días hábiles anteriores a la fecha de su celebración en los términos y condiciones del Reglamento que para tal efecto se apruebe.
 
+> <small>(REFORMADO P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 11.
 
-El Director General del Organismo Descentralizado será designado y removido libremente por el Gobernador del Estado.
+El Director General del Organismo será el Secretario de Salud del Gobierno del Estado, cuyo cargo será honorario y, por tanto, no recibirá emolumento alguno por el desempeño de dicho cargo.
 
 ###### Artículo 12.
 
@@ -293,7 +343,17 @@ XXIV.- Proponer a la Junta Directiva la unificación y operación del Sistema de
 
 XXV.- Anualmente se elaborará la autoevaluación, basada en: cuadros estadísticos uniformes, indicadores y el presupuesto de metas y gastos para evaluar el desempeño de las unidades médicas a nivel jurisdiccional y estatal, lo cual servirá de fundamento para la actualización del programa de trabajo;
 
-XXVI.- Las demás que le asigne la Junta Directiva, o prevengan los ordenamientos legales y convenios aplicables.
+> <small>(REFORMADA P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+XXVI. Expedir constancias y certificaciones de asuntos, datos y documentos relativos a sus funciones y/o que obren en sus archivos.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+XXVII. Las demás que le asigne la Junta Directiva, o procedan de ordenamientos legales y convenios aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+Las faltas temporales del Director General, así como el despacho y firma de los asuntos que a él competen, recaerá en el Director Ejecutivo y, a falta de éste, en el Director de Área a cuya competencia corresponda el asunto específico que se trate.
 
 ###### Artículo 13.
 
@@ -361,7 +421,7 @@ EL SECRETARIO DE GOBIERNO
 
 LIC. EDUARDO ROMERO RAMOS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 19 DE ENERO DE 2005.
 
@@ -436,3 +496,17 @@ OCTAVO.- Todos los actos, procedimientos y recursos administrativos relacionados
 NOVENO.- Las autorizaciones que se hubieren expedido con anterioridad a la fecha de entrada en vigor de las reformas a la Ley Estatal de Salud, tendrán vigencia hasta su vencimiento. Las autorizaciones que se expidan a partir de la vigencia de este Decreto, se otorgarán de acuerdo a sus disposiciones.
 
 DÉCIMO.- En tanto se expidan los Reglamentos y Normas Técnicas que se deriven de la Ley Estatal de Salud, seguirán aplicándose los Reglamentos Federales y Estatales, así como las Normas Técnicas que la Autoridad Sanitaria Federal haya expedido.
+
+P.O. 26 DE SEPTIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Hágase del conocimiento del presente Decreto a la Secretaría de Salud Federal.
+
+###### ARTÍCULO TERCERO.
+
+se derogan todas las disposiciones que se opongan al presente Decreto.
