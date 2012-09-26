@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-desarrollo-social-y-humano-para-el-estado-de-56062"
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-13"
-last_updated: "2007-06-13"
+last_updated: "2012-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56062&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY DE DESARROLLO SOCIAL Y HUMANO PARA EL ESTADO DE CHIHUAHUA
 
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 859/2012, PUBLICADO EN EL P.O. 26 DE SEPTIEMBRE DE 2012, CUANDO EN CUALQUIER OTRO INSTRUMENTO JURÍDICO SE HAGA REFERENCIA A LA SECRETARÍA DE FOMENTO SOCIAL, SE ENTENDERÁ CITADA A LA SECRETARÍA DE DESARROLLO SOCIAL.</small>
+
 LEY DE DESARROLLO SOCIAL Y HUMANO PARA EL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 13 de junio de 2007.
 
@@ -97,7 +99,9 @@ XII. Política Estatal: Las políticas públicas en materia de desarrollo social
 
 XIII. Programa: Programa Estatal de Desarrollo Social y Humano.
 
-XIV. Secretaría: La Secretaría de Fomento Social de Gobierno del Estado.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+XIV. Secretaría: La Secretaría de Desarrollo Social de Gobierno del Estado.
 
 XV. Sistema: El Sistema Estatal de Desarrollo Social y Humano.
 
@@ -563,9 +567,13 @@ II. El titular de la Secretaría, quien suplirá al presidente en caso de ausenc
 
 III. Un Secretario Técnico designado por el presidente, quien únicamente contará con derecho a voz;
 
-IV. Los titulares de las secretarías de la administración pública estatal; y
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-V. Los titulares de las entidades paraestatales de la administración pública estatal, convocados por el presidente.
+IV. El titular del órgano desconcentrado de la Secretaría, denominado Procuraduría Social;
+
+V. Los titulares de las secretarías de la administración pública estatal; y
+
+VI. Los titulares de las entidades paraestatales de la administración pública estatal, convocados por el presidente.
 
 ###### Artículo 48.
 
@@ -635,7 +643,9 @@ El Consejo estará integrado por:
 
 I. El Titular del Ejecutivo del Estado, quien lo presidirá;
 
-II. El Secretario de Fomento Social, quien fungirá como Vicepresidente Ejecutivo;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+II. El Secretario de Desarrollo Social, quien fungirá como Vicepresidente Ejecutivo;
 
 III. Un Secretario Ejecutivo, designado por el Presidente;
 
@@ -1074,3 +1084,15 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los dieciséis días del mes de abril del año dos mil siete.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JOSE REYES BAEZA TERRAZAS. EL SECRETARIO GENERAL DE GOBIERNO. LIC. FERNANDO RODRIGUEZ MORENO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE SEPTIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Cuando en cualquier otro instrumento jurídico se haga referencia a la Secretaría de Fomento Social, se entenderá citada a la Secretaría de Desarrollo Social sin que ello afecte su competencia, derechos u obligaciones que haya contraído con antelación a la entrada en vigor del presente Decreto.
