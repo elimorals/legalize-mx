@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-prevenir-y-eliminar-la-discriminacion-en-el-estado-568
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-07"
-last_updated: "2011-08-03"
+last_updated: "2012-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56863&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "CHH"
 
 LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2011.
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 859/2012, PUBLICADO EN EL P.O. 26 DE SEPTIEMBRE DE 2012, CUANDO EN CUALQUIER OTRO INSTRUMENTO JURÍDICO SE HAGA REFERENCIA A LA SECRETARÍA DE FOMENTO SOCIAL, SE ENTENDERÁ CITADA A LA SECRETARÍA DE DESARROLLO SOCIAL.</small>
 
-Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 7 de julio de 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2012.
 
 EL CIUDADANO LICENCIADO JOSÉ REYES BAEZA TERRAZAS, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA, A SUS HABITANTES SABED:
 
@@ -411,7 +411,9 @@ La Subcomisión difundirá en los términos de la Ley de Desarrollo Social y Hum
 
 La Subcomisión se integra por:
 
-I. Un Presidente, que lo será el Secretario de Fomento Social.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+l. Un Presidente, que lo será el Secretario de Desarrollo Social.
 
 II. Cinco representantes del Poder Ejecutivo Estatal.
 
@@ -429,13 +431,19 @@ Los representantes del Poder Ejecutivo Estatal serán los titulares de:
 
 I. La Secretaría General de Gobierno;
 
-II. La Secretaría de Finanzas y Administración;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-III. La Secretaría de Planeación y Evaluación;
+II. La Secretaría de Hacienda;
 
-IV. La Secretaría de Educación y Cultura;
+III. (DEROGADA, P.O. 26 DE SEPTIEMBRE DE 2012)
 
-V. El Sistema Estatal para el Desarrollo Integral de la Familia.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+IV. La Secretaría de Educación, Cultura y Deporte;
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+V. La Dirección General del DIF Estatal.
 
 Los suplentes de los representantes del Poder Ejecutivo Estatal, como mínimo, deberán contar con el nivel de Director General o Secretario Técnico.
 
@@ -550,3 +558,13 @@ P.O. 3 DE AGOSTO DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE SEPTIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Cuando en cualquier otro instrumento jurídico se haga referencia a la Secretaría de Fomento Social, se entenderá citada a la Secretaría de Desarrollo Social sin que ello afecte su competencia, derechos u obligaciones que haya contraído con antelación a la entrada en vigor del presente Decreto.
