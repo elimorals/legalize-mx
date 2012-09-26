@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interior-de-la-secretaria-de-desarrollo-24663"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-03"
-last_updated: "2009-09-14"
+last_updated: "2012-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24663&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CAM"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO INDUSTRIAL Y COMERCIAL
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEXTO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE, PUBLICADA EN EL P.O. DE 14 DE SEPTIEMBRE DE 2009, LAS REFERENCIAS QUE SE HACEN EN LAS LEYES, REGLAMENTOS Y ACUERDOS DEL EJECUTIVO VIGENTES EN EL ESTADO A LA SECRETARÍA DE FOMENTO INDUSTRIAL Y COMERCIAL, EN LO SUCESIVO SE ENTENDERÁN COMO HECHAS A LA SECRETARÍA DE DESARROLLO INDUSTRIAL Y COMERCIAL.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2012.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Campeche, el viernes 3 de mayo de 2002.
 
@@ -45,23 +43,27 @@ La Secretaría de Fomento Industrial y Comercial como dependencia del Poder Ejec
 
 La Secretaría de Fomento Industrial y Comercial conducirá y realizará sus actividades de planeación, coordinación, ejecución y control, con base en los objetivos, políticas y estrategias y prioridades que establezcan el Plan Nacional de Desarrollo, el Plan Estatal de Desarrollo, el Programa Sectorial y el Ejecutivo del Estado.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 3.
 
-Para el estudio, planeación y despacho de los asuntos de su competencia, la Secretaría de Fomento Industrial y Comercial, contará con las siguientes unidades administrativas:
+Para el estudio, planeación y despacho de los asuntos de su competencia, la Secretaría de Desarrollo Industrial y Comercial contará con las siguientes unidades administrativas y Órganos Administrativos Desconcentrados:
 
-- Oficina del titular.
+I. Oficina del titular;
 
-- Dirección de Promoción y Atracción de Inversiones.
+II. Dirección de Promoción y Atracción de Inversiones;
 
-- Dirección de Fomento Industrial.
+III. Dirección de Fomento Industrial;
 
-- Dirección de Desarrollo Comercial y Servicios.
+IV. Dirección de Desarrollo Comercial y Servicios;
 
-- Dirección de Fomento Artesanal.
+V. Dirección de Fomento Artesanal;
 
-- Dirección de Planeación, Evaluación y Control.
+VI. Dirección de Planeación, Evaluación y Control;
 
-- Coordinación Administrativa.
+VII. Coordinación Administrativa; y
+
+VIII. Comisión de Mejora Regulatoria del Estado de Campeche.
 
 ### CAPÍTULO II. DE LAS ATRIBUCIONES Y FACULTADES DEL SECRETARIO
 
@@ -403,6 +405,176 @@ El Secretario será suplido en sus ausencias no mayores de quince días por el s
 
 Los Directores serán suplidos en sus ausencias por los servidores públicos del nivel jerárquico inmediato inferior en los asuntos de sus respectivas competencias. Las ausencias de los Directores o Subdirectores serán cubiertas por cualquiera de los otros del mismo rango que se encuentre presente, salvo que sea el único en la Dirección respectiva, caso en el cual, serán cubiertas por el servidor publico que designe el Secretario.
 
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+### CAPÍTULO VI. DE LA ESTRUCTURA Y ATRIBUCIONES DE LA COMISIÓN DE MEJORA REGULATORIA Y DEL CONSEJO ESTATAL DE MEJORA REGULATORIA
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+#### SECCIÓN PRIMERA. DE LA COMISIÓN DE MEJORA REGULATORIA
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 17.
+
+La Comisión es el órgano administrativo desconcentrado, subordinado jerárquicamente a la Secretaría, que tiene a su cargo promover la transparencia en la elaboración y aplicación de las regulaciones y que éstas generen beneficios superiores a sus costos y el máximo beneficio para la sociedad.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 18.
+
+La Comisión contará con autonomía técnica y operativa y tendrá, además de las que establece la Ley de Mejora Regulatoria para el Estado de Campeche, las siguientes atribuciones:
+
+I. Promover la mejora regulatoria en el ámbito estatal;
+
+II. Presentar los Lineamientos para la elaboración de los Programas Internos de Mejora Regulatoria de las dependencias y entidades de la Administración Pública Estatal y someterlos al Consejo para su aprobación;
+
+III. Brindar asesoría técnica en materia de mejora regulatoria a las dependencias y entidades de la Administración Pública Estatal;
+
+IV. Elaborar el Programa de Mejora Regulatoria en congruencia con el Plan Estatal de Desarrollo y el Programa Sectorial de Crecimiento Económico y someterlo al Consejo para su aprobación;
+
+V. Coordinar y supervisar el buen funcionamiento del portal electrónico de trámites y servicios Campeche;
+
+VI. Organizar talleres, conferencias y seminarios en materia de mejora regulatoria, para mantener actualizados a los servidores públicos estatales y municipales;
+
+VII. Promover la actualización y mejoramiento de los servicios a cargo de las dependencias y entidades estatales;
+
+VIII. Rendir un informe semestral al Consejo sobre los asuntos que despache conforme a sus atribuciones; y
+
+IX. Las demás atribuciones que les confieran las leyes en la materia.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 19.
+
+La Comisión estará integrada de una Dirección General y del personal necesario para el cumplimiento de sus objetivos, de conformidad con la Ley de Mejora Regulatoria para el Estado de Campeche.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 20.
+
+La Comisión tendrá un Director, quien será designado por el Gobernador a propuesta del titular de la Secretaría, quien tendrá, además de las que establezca la ley en la materia, las siguientes atribuciones:
+
+I. Elaborar el informe anual en el área de su competencia, para integrarlo a los informes que cada año rinde el Gobernador sobre el estado que guarda la Administración Pública Estatal;
+
+II. Proporcionar al Consejo información del avance del programa operativo anual en materia de mejora regulatoria, e integrarlo al informe ampliado que deberá presentar el Secretario de Desarrollo Industrial y Comercial, durante su comparecencia ante el H. Congreso del Estado;
+
+III. Mantener una estrecha vinculación y coordinación con los enlaces acreditados ante la Comisión por parte de las dependencias y entidades de la Administración Pública Estatal;
+
+IV. Elaborar el Programa Operativo Anual de la Comisión;
+
+V. Informar trimestralmente a la Secretaría de la Contraloría de los avances de acciones ejecutadas; y
+
+VI. Las demás que disponga la normatividad en la materia.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+#### SECCIÓN SEGUNDA. DEL CONSEJO ESTATAL DE MEJORA REGULATORIA
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 21.
+
+La Comisión contará con un Consejo que es el órgano consultivo encargado de brindar asesoría y apoyo técnico al Poder Ejecutivo, respecto a las acciones jurídico-administrativas que realice en materia de mejora regulatoria.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 22.
+
+El Consejo estará integrado en los términos que establece el artículo 15 de la Ley de Mejora Regulatoria para el Estado de Campeche.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 23.
+
+Los miembros titulares del Consejo, así como los invitados permanentes, tendrán derecho a voz y voto. Por cada uno de los miembros titulares e invitados permanentes del Consejo, será acreditado un suplente. Los suplentes serán designados previamente mediante oficio dirigido al Secretario Técnico del Consejo.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 24.
+
+Los cargos de los integrantes del Consejo serán honoríficos, por lo que no percibirán ingreso, remuneración, emolumento, compensación o retribución alguna.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 25.
+
+El Consejo celebrará sesiones ordinarias y extraordinarias, las sesiones ordinarias se llevarán a cabo de manera semestral, debiendo convocar a los integrantes del Consejo con tres días hábiles de anticipación, y las extraordinarias cuando la naturaleza del asunto a tratar así lo amerite, previa convocatoria del Secretario Técnico.
+
+Los acuerdos del Consejo serán válidos con la asistencia de por lo menos el 50 por ciento más uno de los convocados, teniendo el Vice-Presidente del Consejo el voto de calidad en caso de empate.
+
+De no integrarse el quórum a que se refiere el párrafo anterior, se convocará a una segunda sesión dentro de los cinco días hábiles siguientes, la cual podrá celebrarse con el número de miembros que se encuentren presentes, en la que invariablemente se deberá contar con la asistencia del Presidente y del Secretario Técnico.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 26.
+
+De cada sesión deberá levantarse acta debidamente circunstanciada, la cual contendrá los acuerdos aprobados por el Consejo, la cual será firmada por cada uno de los asistentes, deberá remitirse una copia del acta a los integrantes del Consejo dentro de los cinco días hábiles posteriores a su firma.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 27.
+
+Las (sic) Secretaría de Desarrollo Industrial y Comercial proveerá lo necesario para que el Consejo lleve a cabo sus sesiones.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 28.
+
+El Presidente del Consejo tendrá las siguientes atribuciones:
+
+I. Representar al Consejo;
+
+II. Presidir y dirigir las sesiones del Consejo, orientando los debates que surjan en las mismas;
+
+III. Propiciar y coordinar la participación activa de los miembros del Consejo;
+
+IV. Proponer y aplicar las medidas que sean necesarias para cumplir con las atribuciones del Consejo;
+
+V. Proponer la creación de comisiones o grupos de trabajo que se requieran para el mejor desahogo de los asuntos;
+
+VI. Autorizar la orden del día correspondiente para las sesiones del Consejo;
+
+VII. Instruir al Secretario Técnico para convocar a las sesiones del Consejo;
+
+VIII. Proponer y someter a la aprobación del Consejo el calendario de sesiones; y
+
+IX. Las demás que le confiera el Consejo.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 29.
+
+El Secretario Técnico tendrá las siguientes atribuciones:
+
+I. Convocar, previo acuerdo del Presidente, a las sesiones ordinarias y extraordinarias del Consejo, remitiendo a los integrantes la información correspondiente;
+
+II. Formular la orden del día y los contenidos para las sesiones del Consejo;
+
+III. Pasar lista de asistencia y verificar la existencia del quórum en las sesiones del Consejo;
+
+IV. Levantar las actas de cada sesión del Consejo y recabar la firma de los integrantes del mismo;
+
+V. Dar seguimiento a los acuerdos surgidos de las sesiones de Consejo;
+
+VI. Auxiliar al Presidente y al Consejo en el desempeño de sus actividades; y
+
+VII. Las demás que le señale el Presidente del Consejo.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 30.
+
+Los integrantes del Consejo tendrán las siguientes atribuciones:
+
+I. Emitir opinión y participar en los asuntos que se ventilen al interior del Consejo, así como realizar propuestas y sugerencias en materia de mejora regulatoria;
+
+II. Cumplir en tiempo y forma con los trabajos encomendados por el Presidente del Consejo;
+
+III. Formar parte de las comisiones o grupos de trabajo que se conformen al interior del Consejo; y
+
+IV. Las demás que sean inherentes para el cumplimiento de los fines del Consejo.
+
 TRANSITORIOS:
 
 Primero: El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
@@ -444,3 +616,11 @@ Lo anterior se observará también con relación a los derechos y obligaciones q
 Séptimo.- Los programas, convenios, contratos, acuerdos, actos jurídicos y demás asuntos jurídicos, contractuales, administrativos, litigiosos, jurisdiccionales y resolutivos a cargo de las dependencias que se reestructuran y de las que sin reestructurarse fueron afectadas en sus atribuciones, que se encontraren en curso o pendientes de su resolución en el momento de iniciar su vigencia el presente Decreto, se continuarán y serán despachados por las dependencias a las que corresponda ahora el conocimiento de las materias sobre los cuales aquellos versen.
 
 Octavo.- El Gobernador del Estado realizará las adecuaciones correspondientes a la Ley de Presupuesto de Egresos para el ejercicio fiscal 2009, a fin de tomar las previsiones presupuestales necesarias para el debido cumplimiento de lo ordenado por este decreto.
+
+P.O. 26 DE SEPTIEMBRE DE 2012.
+
+Primero. El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Campeche.
+
+Segundo. La Secretaría de Desarrollo Industrial y Comercial, en un término no mayor de 45 días naturales contados a partir de la entrada en vigor del presente acuerdo, y de conformidad con el artículo 22 de la vigente Ley Orgánica de la Administración Pública del Estado, deberá remitir a la Consejería Jurídica del Gobernador para su revisión, el anteproyecto de su Reglamento Interior conteniendo las adecuaciones señaladas en el segundo párrafo del artículo segundo transitorio de la Ley Orgánica en cita.
+
+Tercero. Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía, del marco jurídico estatal, que se opongan al contenido del presente acuerdo.
