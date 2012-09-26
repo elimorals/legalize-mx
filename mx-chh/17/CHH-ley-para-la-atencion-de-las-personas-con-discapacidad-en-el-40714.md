@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-la-atencion-de-las-personas-con-discapacidad-en-el-407
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-24"
-last_updated: "2012-06-30"
+last_updated: "2012-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40714&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHH"
 
 LEY PARA LA ATENCIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PÚBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO No. 859/2012 VII P.E., PUBLICADO EN EL P.O. 26 DE SEPTIEMBRE DE 2012, CUANDO EN CUALQUIER OTRO INSTRUMENTO JURÍDICO SE HAGA REFERENCIA A LA SECRETARÍA DE FOMENTO SOCIAL, SE ENTENDERÁ CITADA A LA SECRETARÍA DE DESARROLLO SOCIAL SIN QUE ELLO AFECTE SU COMPETENCIA, DERECHOS U OBLIGACIONES QUE HAYA CONTRAÍDO CON ANTELACIÓN A LA ENTRADA EN VIGOR DEL CITADO DECRETO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 30 de julio de 2004.
 
@@ -77,9 +79,13 @@ VIII.- Barreras sociales.- Todas aquellas actitudes y conductas, inclusive de om
 
 IX.- Trabajo protegido.- Aquel que realizan las personas con discapacidad, que son incorporadas al trabajo mediante la clasificación de aptitudes y habilidades con apoyo de la Dirección y los Ayuntamientos;
 
-X.- La Secretaría.- Secretaría de Fomento Social;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-XI.- La Dirección.- Dirección de Desarrollo Social de la Secretaría de Fomento Social;
+X.- La Secretaría.- Secretaría de Desarrollo Social.
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+XI.- La Dirección.- Dirección de Desarrollo Social de la Secretaría de Desarrollo Social.
 
 XII.- Ayuntamiento.- Los Gobiernos Municipales del Estado de Chihuahua;
 
@@ -137,9 +143,11 @@ Corresponde al Ejecutivo del Estado, la aplicación de esta Ley.
 
 El Ejecutivo y los Ayuntamientos del Estado podrán celebrar convenios y/o coordinarse, a efecto de que la Administración Municipal lleve a cabo las acciones que correspondan al primero conforme al presente ordenamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 6.
 
-Son facultades y obligaciones del Poder Ejecutivo del Estado, a través de la Secretaría de Fomento Social:
+Son facultades y obligaciones del Poder Ejecutivo del Estado, a través de la Secretaría de Desarrollo Social:
 
 I.- Establecer políticas e implementar las acciones necesarias para que en el ámbito del Estado, se dé cumplimiento a los programas nacionales cuyo objetivo sea el desarrollo integral de las personas con discapacidad;
 
@@ -173,9 +181,11 @@ XV.- Las demás que estime necesarias para el cumplimiento de esta ley.
 
 ### CAPÍTULO II. DEL CONSEJO ESTATAL CONSULTIVO PARA LA INTEGRACIÓN DE LAS PERSONAS CON DISCAPACIDAD
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 7.
 
-El Ejecutivo del Estado, a través de la Secretaría de Fomento Social, constituirá el Consejo Estatal Consultivo para la Integración de las Personas con Discapacidad, como una comisión de consulta e instancia de coordinación de políticas, estrategias, acciones y vigilancia en materia de discapacidad.
+El Ejecutivo del Estado, a través de la Secretaría de Desarrollo Social, constituirá el Consejo Estatal Consultivo para la Integración de las Personas con Discapacidad, como una comisión de consulta e instancia de coordinación de políticas, estrategias, acciones y vigilancia en materia de discapacidad.
 
 ###### Artículo 8.
 
@@ -207,29 +217,49 @@ XI. Las demás que le asigne el gobernador del estado.
 
 El Consejo estará integrado por:
 
-I. Un Presidente, que será el Secretario de Fomento Social de Gobierno del Estado o la persona que para tal efecto designe;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-II. Un Coordinador, que será el Titular del Sistema Estatal para el Desarrollo Integral de la Familia;
+I. Un Presidente, que será el Secretario de Desarrollo Social de Gobierno del Estado o la persona que para tal efecto designe.
 
-III. Un Secretario Ejecutivo, que será el Titular de la Dirección de Desarrollo Social de la Secretaría de Fomento Social;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-IV. Un representante de la Comisión de Derechos Humanos;
+II. Un Coordinador, que será el Titular de la Dirección General del DIF Estatal.
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+III. Un Secretario Ejecutivo, que será el Titular de la Dirección de Desarrollo Social de la Secretaría de Desarrollo Social.
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+IV. Un representante de la Comisión Estatal de Derechos Humanos.
 
 V. Un Diputado representando al H. Congreso del Estado;
 
 VI. Seis vocales, siendo los titulares de:
 
-La Secretaría de Comunicaciones y Obras Públicas,
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-La Secretaría de Educación y Cultura,
+a) La Secretaría de Comunicaciones y Obras Públicas;
 
-Los Servicios de Salud del Estado de Chihuahua,
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-El Instituto Chihuahuense de la Salud,
+b) La Secretaría de Educación, Cultura y Deporte;
 
-La Dirección de Trabajo y Previsión Social y
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-La Secretaría de Desarrollo Industrial, quienes podrán nombrar suplentes en caso de ausencias; y
+c) Los Servicios de Salud del Estado de Chihuahua;
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+d) El Instituto Chihuahuense de Salud;
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+e) La Secretaría del Trabajo y Previsión Social;
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+f) La Secretaría de Economía, quienes podrán nombrar suplentes en caso de ausencias; y
 
 VII. Seis vocales representantes de las asociaciones privadas que sobre discapacidad existan en el Estado, elegidos por el Presidente del Consejo, de un listado presentado por el Secretario Ejecutivo del Consejo.
 
@@ -421,9 +451,11 @@ La Secretaría, deberá proporcionar un intérprete en lenguaje manual cuando en
 
 Para la Administración Pública Estatal y Municipal será fundamental impulsar el desarrollo integral de las personas con discapacidad a través de estrategias, acciones y objetivos tendientes a la equiparación de oportunidades de todas las personas con discapacidad en el Estado.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 33.
 
-La Administración Pública Estatal, a través de la Secretaría de Fomento Social, en coordinación con las Autoridades Municipales, determinarán las estrategias, las acciones y los objetivos a que deberán sujetarse las dependencias y entidades de éstas, con la participación voluntaria que corresponda de los sectores privado y social; para equiparar oportunidades, generar condiciones de accesibilidad y propiciar el desarrollo integral y la inclusión social de todas las personas con discapacidad en el Estado.
+La Administración Pública Estatal, a través de la Secretaría de Desarrollo Social, en coordinación con las Autoridades Municipales, determinarán las estrategias, las acciones y los objetivos a que deberán sujetarse las dependencias y entidades de éstas, con la participación voluntaria que corresponda de los sectores privado y social; para equiparar oportunidades, generar condiciones de accesibilidad y propiciar el desarrollo integral y la inclusión social de todas las personas con discapacidad en el Estado.
 
 ###### Artículo 34.
 
@@ -764,3 +796,13 @@ P.O. 30 DE JUNIO DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor seis meses después de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE SEPTIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Cuando en cualquier otro instrumento jurídico se haga referencia a la Secretaría de Fomento Social, se entenderá citada a la Secretaría de Desarrollo Social sin que ello afecte su competencia, derechos u obligaciones que haya contraído con antelación a la entrada en vigor del presente Decreto.
