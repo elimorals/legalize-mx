@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2012-09-25"
+last_updated: "2012-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -1373,7 +1373,7 @@ Se impondrá de un mes a un año de prisión al que quite, corte, inutilice, apa
 
 (DEROGADO, P.O. 12 DE JUNIO DE 2003)
 
-### CAPITULO III. Provocación de un delito y apología de este o de algún vicio
+### CAPITULO III. Provocación de un delito y apología de éste o de algún vicio
 
 ###### Art. 127.
 
@@ -1825,19 +1825,29 @@ XVII. Cuando, con motivo de la querella, denuncia o información a que hace refe
 
 XVIII. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2011)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE JULIO DE 2008)</small>
+XIX. Cualquier servidor público que, teniendo la obligación de ejecutar créditos fiscales a favor de la institución en que labore, no los ejecute o no realice trámites relativos para su ejecución;
 
-XIX. Cualquier servidor público que teniendo la obligación de ejecutar créditos fiscales a favor de la institución en que labore, no los ejecute o no realice trámites relativos para su ejecución.
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-Al que cometa el delito de abuso de autoridad, se le impondrán las siguientes sanciones:
+XX. A quien apruebe u otorgue un nombramiento supernumerario que trascienda el periodo constitucional del titular de la entidad pública, en el que se otorgó;
 
-Si el monto del beneficio económico que reporte al responsable, por los actos que aquí se señalan, no excede del importe de ciento noventa y seis días de salario, se le impondrán de uno a cinco años de prisión y multa de dos a veinte días de salario.
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-Si excede del monto a que se refiere el párrafo anterior, se impondrá de tres a ocho años de prisión y multa hasta por el importe de ciento noventa y seis días de salario.
+XXI. A quien apruebe u otorgue definitividad en el puesto, empleo, cargo o comisión al servidor público, tenga un nombramiento temporal de carácter interino, provisional o de obra determinada, sin observar lo dispuesto por la legislación y reglamentación relativa al escalafón, servicio civil o la aplicable, o
 
-Si la comisión del hecho no reporta beneficio económico se impondrán al responsable, de uno a cinco años de prisión.
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+XXII. A quien apruebe u otorgue un nombramiento a un servidor público, cuando contravenga lo dispuesto por la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.
+
+Al que cometa el delito de abuso de autoridad se le impondrán las siguientes sanciones:
+
+a) Si el monto del beneficio económico que reporte al responsable por los actos que aquí se señalan, no excede del importe de ciento noventa y seis días de salario, se le impondrán de uno a cinco años de prisión y multa de dos a veinte días de salario;
+
+b) Si excede del monto a que se refiere el párrafo anterior, se impondrán de tres a ocho años de prisión y multa hasta por el importe de ciento noventa y seis días de salario, o
+
+c) Si la comisión del hecho no reporta beneficio económico, se impondrán al responsable, de uno a cinco años de prisión.
 
 ### CAPITULO III. Falsificación de documentos en general
 
@@ -4683,7 +4693,7 @@ Los sujetos auditables y fiscalizables que soliciten la revisión prevista en el
 
 En caso que los sujetos auditables que no se acojan a este decreto, la revisión de sus cuentas se harán con las disposiciones de la Ley de Fiscalización Superior del Estado de Jalisco, vigente en el ejercicio fiscal de su gestión, es decir, 2006, 2007 y 2008.
 
-Sexto. En tanto se establece la infraestructura y el procedimiento necesario para la utilización de la firma electrónica por las entidades auditables y la Auditoria Superior, las entidades auditables que opten en enviar su documentación justificativa y comprobatoria de las cuentas públicas y de los informes de avance de gestión financiera en medios magnéticos o electrónicos las enviarán conforme al procedimiento estipulado por los acuerdos del Auditor Superior relativos a la presentación de las cuentas públicas por estos medios.
+Sexto. En tanto se establece la infraestructura y el procedimiento necesario para la utilización de la firma electrónica por las entidades auditables y la Auditoría Superior, las entidades auditables que opten en enviar su documentación justificativa y comprobatoria de las cuentas públicas y de los informes de avance de gestión financiera en medios magnéticos o electrónicos las enviarán conforme al procedimiento estipulado por los acuerdos del Auditor Superior relativos a la presentación de las cuentas públicas por estos medios.
 
 Séptimo. Los recursos materiales, técnicos y financieros que actualmente están afectos o destinados a la Auditoría Superior, pasarán a formar parte del patrimonio del órgano dotado con autonomía técnica y de gestión denominado Auditoría Superior.
 
@@ -4890,3 +4900,21 @@ TERCERO. Se autoriza al Poder Ejecutivo del Estado a realizar las adecuaciones p
 P.O. 25 DE SEPTIEMBRE DE 2012.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 26 DE SEPTIEMBRE DE 2012.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Las entidades públicas que refiere el artículo 9.° de la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, tendrán un término de noventa días naturales contados a partir de la entrada en vigor del presente decreto, para ajustar sus reglamentos.
+
+TERCERO. En cuanto a la materia adjetiva de los procedimientos de responsabilidad laboral iniciados antes del presente decreto, serán desahogados conforme a la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, vigente en su momento.
+
+Por lo que respecta a la materia sustantiva, en lo referente a la responsabilidad laboral, será aplicable el presente decreto siempre y cuando sea en beneficio de los servidores públicos.
+
+CUARTO. La reforma a la fracción XXVI del artículo 55 y la fracción XVII del artículo 56 de la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, entrará en vigor a los ciento ochenta días naturales después de la entrada en vigor del presente decreto.
+
+QUINTO. El presente decreto no será aplicable de manera retroactiva en contra de los derechos adquiridos por los servidores públicos.
+
+SEXTO. Las nuevas disposiciones del artículo 17, contempladas en las fracciones III, IV y V, de la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, aplicarán a los nombramientos que se elaboren con posterioridad al presente decreto.
+
+SÉPTIMO. En tanto las entidades públicas no definan la unidad administrativa que fungirá como órgano de control disciplinario de conformidad con el artículo 25 de la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, el titular de la dependencia o entidad podrá delegar al funcionario encargado del jurídico, o quien haga sus veces, mediante acuerdo, la facultad de iniciar el procedimiento respectivo, quien una vez desahogado el mismo, remitirá las actuaciones al titular o encargado para que dicte la resolución respectiva.
