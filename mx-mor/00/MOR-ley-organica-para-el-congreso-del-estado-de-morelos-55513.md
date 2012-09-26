@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-para-el-congreso-del-estado-de-morelos-55513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-09"
-last_updated: "2012-05-23"
+last_updated: "2012-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de mayo de 2007.
 
@@ -123,7 +123,7 @@ El Presidente de la Mesa Directiva comunicará al Instituto Estatal Electoral y 
 
 ###### Artículo 11.
 
-La Comisión lnstaladora del Congreso del Estado tendrá a su cargo:
+La Comisión Instaladora del Congreso del Estado tendrá a su cargo:
 
 I. Recibir del Instituto Estatal Electoral y del Tribunal Estatal Electoral:
 
@@ -715,7 +715,7 @@ X. Asignar en los términos de esta Ley los recursos humanos, materiales y finan
 
 XI. Presentar al pleno del Congreso del Estado, para su aprobación la Agenda Legislativa;
 
-XlI. Revisar y aprobar de los órganos administrativos del Congreso del Estado, los Programas Operativos Anuales y sus Manuales de Organización y. Procedimientos, en los términos establecidos en el Reglamento del Congreso del Estado; y
+XII. Revisar y aprobar de los órganos administrativos del Congreso del Estado, los Programas Operativos Anuales y sus Manuales de Organización y. Procedimientos, en los términos establecidos en el Reglamento del Congreso del Estado; y
 
 XIII. Las demás que le confiera el pleno del Congreso del Estado, esta Ley y sus disposiciones reglamentarias y no sean competencia de alguna comisión o comité.
 
@@ -765,7 +765,9 @@ Las comisiones especiales son aquellas de carácter temporal que acuerde el plen
 
 > <small>(ADICIONADO, P.O. 16 DE JULIO DE 2008)</small>
 
-Artículo 54 BIS.- Para el análisis y dictaminación de las autorizaciones relativas a los contratos de colaboración público privada y de las demás modalidades y actos jurídicos previstos en la Ley de Contratos de Colaboración Público Privada para el Estado de Morelos, deberá constituirse una Comisión Especial.
+###### Artículo 54 Bis.
+
+Para el análisis y dictaminación de las autorizaciones relativas a los contratos de colaboración público privada y de las demás modalidades y actos jurídicos previstos en la Ley de Contratos de Colaboración Público Privada para el Estado de Morelos, deberá constituirse una Comisión Especial.
 
 ###### Artículo 55.
 
@@ -773,7 +775,13 @@ Las comisiones legislativas se integran de por lo menos tres diputados y su comp
 
 Las comisiones ordinarias de Puntos Constitucionales y Legislación, Hacienda, Presupuesto y Cuenta Pública, y Gobernación y Gran Jurado, estarán conformadas por un diputado de cada uno de los grupos parlamentarios que integren la legislatura.
 
-Las comisiones serán integradas a propuesta de la Junta Política y de Gobierno, señalándose quien será Presidente y quienes Secretarios y Vocales.
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+En el caso de la Comisión de Hacienda, Presupuesto y Cuenta Pública, la Presidencia será rotativa y anual, para ello la Junta Política y de Gobierno propondrá al Pleno; mediante acuerdo aprobado por mayoría calificada de sus integrantes por voto ponderado, la conformación de dicha Comisión; mediante el mismo procedimiento, podrá proponer al Pleno las Comisiones que considere conveniente que sean rotativas y anuales, especificando el motivo y la conformación de las comisiones en su caso.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+Las comisiones serán integradas a propuesta de la Junta Política y de Gobierno, señalándose quien será presidente y quienes secretarios y vocales.
 
 Dicha propuesta será sometida a la consideración de la Asamblea para su aprobación mediante la votación de las dos terceras partes de sus integrantes, debiendo quedar conformadas a más tardar en la tercera sesión ordinaria de la legislatura.
 
@@ -795,9 +803,11 @@ Las comisiones legislativas contarán con un Secretario Técnico y el personal d
 
 Dentro de los treinta días siguientes a la conclusión de cada período ordinario de sesiones, los Presidentes de las comisiones legislativas, presentarán por escrito al Presidente de la Mesa Directiva, el informe de sus actividades correspondiente al período inmediato anterior en el que se incluya una relación de los asuntos dictaminados y pendientes.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 59.
 
-Las comisiones ordinarias serán las siguientes:
+Las Comisiones Ordinarias serán las siguientes:
 
 1. Puntos Constitucionales y Legislación.
 
@@ -807,7 +817,7 @@ Las comisiones ordinarias serán las siguientes:
 
 4. Educación y Cultura.
 
-5. Ciencia y Tecnología.
+5. Ciencia e Innovación Tecnológica.
 
 6. Reglamentos y Prácticas Parlamentarias.
 
@@ -821,31 +831,39 @@ Las comisiones ordinarias serán las siguientes:
 
 11. Desarrollo Económico.
 
-12. Salud.
+12. Desarrollo Social.
 
-13. Desarrollo Agropecuario.
+13. Salud.
 
-14. Medio Ambiente y Recursos Naturales.
+14. Desarrollo Agropecuario.
 
-15. Grupos Indígenas.
+15. Medio Ambiente:
 
-16. Equidad de Género.
+16. Recursos Naturales y Agua.
 
-17. De la Juventud.
+17. Grupos Indígenas.
 
-18. Participación Ciudadana.
+18. Equidad de Género.
 
-19. Atención a Grupos Vulnerables y Personas con Discapacidad.
+19. De la Juventud.
 
-20. Fortalecimiento Municipal y Desarrollo Regional.
+20. Participación Ciudadana y Reforma Política.
 
-21. Tránsito, Transporte y Vías de Comunicación.
+21. Atención a Grupos Vulnerables y Personas con Discapacidad.
 
-22. Turismo.
+22. Fortalecimiento Municipal y Desarrollo Regional.
 
-23. De Migración.
+23. Desarrollo Metropolitano y Zonas Conurbadas.
 
-24. Deporte.
+24. Tránsito, Transporte y Vías de Comunicación.
+
+25. Turismo.
+
+26. De Migración.
+
+27. Deporte.
+
+28. Investigación y Relaciones Interparlamentarias.
 
 ###### Artículo 60.
 
@@ -935,15 +953,25 @@ III. Los relacionados al fomento de las actividades culturales y de la promoció
 
 IV. Todos aquellos que le sean turnados.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 64.
 
-A la Comisión de Ciencia y Tecnología, corresponde el conocimiento y en su caso el dictamen de los asuntos siguientes:
+A la Comisión de Ciencia e Innovación Tecnológica corresponde el conocimiento y en su caso, el dictamen dé los asuntos siguientes:
 
-I. Los derivados de las leyes relacionadas con la ciencia y la tecnología en el Estado;
+I. Los derivados de las leyes relacionadas con la ciencia e innovación tecnológica en el Estado;
 
-II. Los relativos a la creación de instituciones científicas y tecnológicas que son competencia del Estado; y
+II. Revisar y actualizar la legislación vigente en materia de ciencia e innovación tecnológica;
 
-III. Todos aquellos que le sean turnados.
+III. Coadyuvar en el establecimiento de convenios de cooperación científica y tecnológica que promuevan el desarrollo del Estado;
+
+IV. Los relativos a la creación de organismos e instituciones científicas y tecnológicas que son competencia del Estado;
+
+V. Seguimiento y evaluación de las políticas, planes y programas para el apoyo y fortalecimiento de la ciencia e innovación tecnológica;
+
+VI. Reconocimientos, premios, estímulos y recompensas a quienes se destaquen en la ciencia e innovación tecnológica; y
+
+VII. Todos aquellos que le sean turnados.
 
 ###### Artículo 65.
 
@@ -1029,6 +1057,22 @@ V. Conocer y opinar sobre la política cooperativa, así como promover la educac
 
 VI. En general de todos los asuntos que en cumplimiento de sus funciones y atribuciones le sean turnados, para su atención y todos aquellos que le encomiende la normatividad de la materia.
 
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 70 Bis.
+
+La Comisión de Desarrollo Social será competente para conocer y dictaminar, en su caso, los siguientes asuntos:
+
+I. Analizar, revisar y dar seguimiento a los temas enfocados en el desarrollo social tales como educación, salud, empleo, vivienda, alimentación, desigualdad y pobreza, adultos mayores y familia.
+
+II. Impulsar la transparencia en la asignación y aplicación de los recursos destinados a los diversos programas del sector social, con el fin de cuidar que lleguen a sus destinatarios con suficiencia, oportunidad y sin condicionamientos políticos.
+
+III. Promover un enlace entre los tres órdenes de gobierno, los tres poderes y las fuerzas políticas representadas, para alcanzar consensos que se traduzcan en acciones para el combate efectivo de la pobreza y la desigualdad.
+
+IV. Gestionar, incrementar y supervisar la aplicación de los recursos destinados a los programas sociales
+
+V. En general de todos los asuntos que en cumplimiento de sus funciones y atribuciones le sean turnados, para su atención y todos aquellos que le encomiende la normatividad de la materia.
+
 ###### Artículo 71.
 
 La Comisión de Salud, será competente para conocer y dictaminar, en su caso, los siguientes asuntos:
@@ -1067,17 +1111,47 @@ III. Lo relacionado a políticas de inversión, financiamiento, subsidios, apoyo
 
 IV. Todos aquellos asuntos que le sean turnados y que no sean competencia de otra Comisión.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 74.
 
-Corresponde a la Comisión de Medio Ambiente y Recursos Naturales:
+Corresponde a la Comisión de Medio Ambiente:
 
-I. Conocer y dictaminar en su caso, los asuntos relacionados con la legislación en materia de ecología, biodiversidad y recursos naturales;
+I. Participar, conocer y dictaminar, de manera enunciativa y no limitativa, sobre los asuntos relativos a la prevención y control de la contaminación, a la conservación y restauración del medio ambiente.
 
-II. Conocer y opinar sobre los casos relacionados con la afectación del entorno ambiental que puedan producir los establecimientos industriales, comerciales, los desarrollos urbanos y en los casos que le confieren las leyes relacionadas con la ecología, los recursos naturales y la biodiversidad vigente;
+II. Coordinar y promover acciones de protección de los animales;
 
-III. Coadyuvar con las políticas y programas educativos sobre ecología y preservación del medio ambiente; y
+III. Investigar y coordinar acciones que propicien el encuentro y trabajo conjunto entre las comisiones de Medio Ambiente o sus homólogas de las entidades federativas, que permitan a los integrantes de esta comisión legislativa ampliar su visión acerca de la problemática ambiental que aqueja a nuestra entidad con el fin de mejorar e innovar el marco normativo en la materia;
 
-IV. Todos aquellos asuntos que le sean turnados y que no sean competencia de otra Comisión.
+IV. Conocer y dictaminar en su caso, los asuntos relacionados con la legislación en materia de ecología y biodiversidad;
+
+V. Conocer y opinar sobre los casos relacionados con la afectación del entorno ambiental que puedan producir los establecimientos industriales, comerciales, los desarrollos urbanos y en los casos que le confieren las leyes relacionadas con la ecología, y la biodiversidad vigente;
+
+VI. Coadyuvar con las políticas y programas educativos sobre ecología y preservación del medio ambiente; y
+
+VII. Todos aquellos asuntos que sean turnados y que no sean competencia de otra Comisión.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 74 Bis.
+
+Corresponde a la Comisión de Recursos Naturales y Agua:
+
+I. Conocer y dictaminar en su caso, los asuntos relacionados con la legislación en materia de agua y recursos naturales;
+
+II. Mantener un contacto directo y permanente con la Comisión Estatal del Agua y Medio Ambiente y dependencias involucradas, así como con los diversos órganos que 1a integran, con el propósito de conocer sus programas de operación y la problemática que enfrentan y brindar soluciones legislativas;
+
+III. Impulsar la transparencia en la asignación y aplicación de los recursos destinados a los diversos programas destinados a la protección y cuidado de los recursos naturales y el agua;
+
+IV. Conocer y opinar sobre los casos relacionados con la afectación del entorno de recursos naturales y agua que puedan producir los establecimientos industriales, comerciales, los desarrollos urbanos y en los casos que le confieren las leyes relacionadas con los recursos naturales y el agua;
+
+V. Emitir opiniones y atender las consultas que los órganos facultados para ello hagan llegar a la Comisión;
+
+VI. Conocer y atender todos los asuntos relacionados con la problemática del agua en la entidad;
+
+VII. Los referentes a las acciones que se realicen en materia de preservación y el cuidado de los recursos naturales y el agua; y
+
+VIII. Todos aquellos asuntos que le sean turnados y que no sean competencia de otra comisión.
 
 ###### Artículo 75.
 
@@ -1115,21 +1189,31 @@ IV. Conocer y en su caso, recomendar acciones sobre los asuntos relativos a la p
 
 V. Todos aquellos asuntos que le sean turnados y que no sean competencia de otra comisión.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 77.
 
-La Comisión de Participación Ciudadana, será competente para conocer y dictaminar, en su caso, de los siguientes asuntos:
+A la Comisión de Participación Ciudadana y Reforma Política le corresponde:
 
 I. Conocer y dictaminar las iniciativas en materia de participación ciudadana;
 
-II. Conocer los asuntos en que de manera directa e indirecta participe la ciudadanía;
+II. Promover, fortalecer y estimular la participación ciudadana en todos los grupos sociales, las organizaciones de la sociedad civil y los ciudadanos en general;
 
-III. Conocer los mecanismos institucionales para facilitar la intervención de los ciudadanos en la elaboración de políticas y programas de gobierno;
+III. Ser eje de vinculación y coordinación del Congreso con el Consejo Estatal de Participación Ciudadana;
 
-IV. Turnar a las dependencias correspondientes del gobierno del estado y los municipios, las demandas de los ciudadanos;
+IV. Atender las demandas, propuestas y aportaciones ciudadanas derivadas de organizaciones civiles, organizaciones privadas, instituciones y sectores de la población interesados;
 
-V. Los relacionados con el otorgamiento de premios, estímulos y recompensas al mérito ciudadano; y
+V. Analizar y proponer los mecanismos institucionales para facilitar la intervención de los ciudadanos en la elaboración de políticas y programas de gobierno;
 
-VI. Todos aquellos asuntos que le sean turnados y que no sean competencia de otra comisión.
+VI. Turnar a las dependencias correspondientes del gobierno del estado y los municipios, las demandas de los ciudadanos;
+
+VII. Ser el órgano permanente de representación del Congreso en los trabajos de la Comisión para la Reforma del Estado;
+
+VIII. Difundir los beneficios de la participación ciudadana y sus fundamentos jurídicos;
+
+IX. Los relacionados con el otorgamiento de premios, estímulos y recompensas al mérito ciudadano; y
+
+X. Todos aquellos asuntos que le sean turnados y que no sean competencia de otra comisión.
 
 ###### Artículo 78.
 
@@ -1162,6 +1246,28 @@ IV. Contribuir al fortalecimiento y autonomía municipal;
 V. Promover la coordinación y colaboración entre dos o más ayuntamientos y entre éstos y los gobiernos estatal y federal, así como con otras Instancias de gobierno y de la sociedad, para elaborar y ejecutar planes, programas, obras y servicios de interés regional; y
 
 VI. Conocer de los demás asuntos que le sean turnados y que no sean materia de otra comisión.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 79 Bis.
+
+La Comisión de Desarrollo Metropolitano y Zonas Conurbadas, será competente para conocer y dictaminar, en su caso, los siguientes asuntos:
+
+I. Los referidos a la expedición, reformas y adiciones a la Legislación de Desarrollo Metropolitano y Zonas Conurbadas y Obra Pública;
+
+II. Las normas jurídicas relacionadas con las construcciones, la vivienda, la fusión, subdivisión, fraccionamiento y Metropolización.
+
+III. El marco normativo relacionado con la obra pública de (sic) Gobierno del Estado y los Municipios que refieran a la Metropolización y conurbación;
+
+IV. Los Referentes a la autorización al Ejecutivo y los ayuntamientos para incorporar, desafectar, enajenar, permutar o gravar bienes del dominio público o uso común municipal y Estatal.
+
+V. Emitir opiniones y en su caso proponer al Titular del Poder Ejecutivo, a los Ayuntamientos y al Consejo para el Desarrollo Metropolitano las modificaciones o adiciones al Plan Estatal, Planes Municipales y Proyectos de Desarrollo Metropolitano y Zonas Conurbadas;
+
+VI. Atender los asuntos relacionados con la creación de centros de población, declaratorias sobre provisiones, reservas, uso de suelo y destinos de áreas;
+
+VII. Solicitar la información necesaria al Gobierno del Estado, los municipios, Consejo para el Desarrollo Metropolitano y a la Coordinación cuando sea requerido, sobre la aplicación y desarrollo de los planes, programas, proyectos, obras y acciones de desarrollo metropolitano.
+
+VIII. En general de todos los asuntos que en cumplimiento de sus funciones y atribuciones le sean turnados, para su atención y todos aquellos que le encomiende esta Ley y la normatividad de la materia.
 
 ###### Artículo 80.
 
@@ -1224,6 +1330,28 @@ III. Impulsar las acciones que conlleven a la realización de planes y programas
 IV. Implementar e impulsar foros que involucren a las diversas instituciones, asociaciones, ligas y demás organismos que promueven el deporte en el Estado con el objeto de mejorar su organización y estructura; y
 
 V. Todos aquellos asuntos en la materia que le sean turnados.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 83 Bis.
+
+A la Comisión de Investigación y Relaciones Interparlamentarias, le corresponde:
+
+I. Conocer y dictaminar las iniciativas de reforma a la Ley Orgánica para el Congreso del Estado;
+
+II. Organizar actos y eventos que propicien el encuentro entre las Comisiones de Investigación y Relaciones Interparlamentarias u homologas de las entidades federativas, de los cuales puedan prefigurarse reformas constitucionales o de normatividad interna del Congreso.
+
+III. Divulgar las ideas, propuestas y debates de los actos y eventos interparlamentarios;
+
+IV. Fomentar las relaciones y mecanismos de cooperación y coordinación entre el Congreso del Estado y los Congresos Estatales;
+
+V. Coordinar e impulsar acuerdos y convenios de investigación, cooperación y estudio entre el Congreso del Estado y los Congresos Estatales;
+
+VI. Fomentar las relaciones y cooperación con los organismos parlamentarios municipales, estatales, nacionales, regionales e internacionales;
+
+VII. Realizar estudios e investigaciones al marco normativo del Congreso y de los Congresos Estatales; y
+
+VIII. Los demás asuntos que le sean turnados y que no sean competencia de otra comisión.
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
@@ -1297,7 +1425,69 @@ V. Los demás asuntos que le sean turnados.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO], P.O. 16 DE SEPTIEMBRE DE 2009)</small>
 
-Artículo 91 BIS.- Para la coordinación, ejecución y evaluación de las tareas que permitan el mejor cumplimiento de los servicios legislativos, parlamentarios, administrativos y financieros, el Congreso contará con una Secretaría General.
+## TÍTULO OCTAVO. DE LOS ÓRGANOS ADMINISTRATIVOS DEL CONGRESO DEL ESTADO
+
+### CAPÍTULO II. DE LA SECRETARÍA DE SERVICIOS LEGISLATIVOS Y PARLAMENTARIOS
+
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 89.
+
+Para su funcionamiento, el Congreso del Estado, contara con los órganos siguientes:
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+
+I. Secretaría General del Congreso;
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+
+II. Secretaría de Servicios Legislativos y Parlamentarios;
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+
+III. Secretaría de Administración y Finanzas;
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+
+IV. Auditoria Superior de Fiscalización;
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+
+V. Instituto de Investigaciones Legislativas; y
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2010)</small>
+
+VI.- Sistema Morelense de Radio y Televisión.
+
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 89 Bis.
+
+En caso de ausencia temporal o definitiva de los titulares de la Secretaría General del Congreso, Secretaría de Servicios Legislativos y Parlamentario y/o de la Secretaría de Administración y Finanzas, el Presidente de la Mesa Directiva procederá a designar a un Encargado de Despacho, en tanto el Pleno del Congreso, a propuesta de la Junta Política y de Gobierno, designa en su caso, al nuevo titular.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2010)</small>
+
+###### Artículo 89 Ter.
+
+En caso de ausencia temporal o definitiva de los titulares de la Dirección del Instituto de Investigaciones Legislativas, del Sistema Morelense de Radio y Televisión y Coordinación de Comunicación Social, la Junta Política y de Gobierno procederá a designar, mediante acuerdo a un Encargado de Despacho, en tanto se designa en su caso al nuevo titular.
+
+###### Artículo 90.
+
+Para el funcionamiento interno, el Congreso del Estado contará además con las direcciones, subdirecciones y jefaturas de departamento autorizadas en el presupuesto del Congreso del Estado.
+
+###### Artículo 91.
+
+Para ocupar cualquiera de los cargos a que se refieren los artículos anteriores, deberá acreditarse ante la Junta Política y de Gobierno, la documentación relativa con los requisitos que cada cargo requiere.
+
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+
+### CAPÍTULO III. DE LA SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS
+
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
+
+###### Artículo 91 Bis.
+
+Para la coordinación, ejecución y evaluación de las tareas que permitan el mejor cumplimiento de los servicios legislativos, parlamentarios, administrativos y financieros, el Congreso contará con una Secretaría General.
 
 I. La Secretaría General es el órgano responsable de la coordinación, supervisión y evaluación de los servicios del Congreso para ello contará con las Secretarías de Servicios Legislativos y Parlamentarios y de Servicios Administrativos y Financieros. Las que tendrán la organización y funcionamiento que señale la presente Ley y su Reglamento.
 
@@ -1305,7 +1495,9 @@ II. El Secretario General del Congreso será nombrado por el Pleno con el voto d
 
 > <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
 
-Artículo 91 TER.- Para ser Secretario General del Congreso se requiere:
+###### Artículo 91 Ter.
+
+Para ser Secretario General del Congreso se requiere:
 
 I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
 
@@ -1317,7 +1509,7 @@ IV. Las demás que señale la presente Ley y el Reglamento.
 
 > <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
 
-Artículo 91 QUARTER.- El Secretario General deberá presentar para su aprobación:
+Artículo 91 Quárter.- El Secretario General deberá presentar para su aprobación:
 
 I.- A la Comisión Instaladora del Congreso:
 
@@ -1374,62 +1566,6 @@ VII.- Participar con voz pero sin voto en las reuniones de la Junta Política y 
 VIII.- Las demás que esta Ley, su Reglamento y el Pleno del Congreso le confieran.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
-
-## TÍTULO OCTAVO. DE LOS ÓRGANOS ADMINISTRATIVOS DEL CONGRESO DEL ESTADO
-
-### CAPÍTULO II. DE LA SECRETARÍA DE SERVICIOS LEGISLATIVOS Y PARLAMENTARIOS
-
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
-
-###### Artículo 89.
-
-Para su funcionamiento, el Congreso del Estado, contara con los órganos siguientes:
-
-> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
-
-I. Secretaría General del Congreso;
-
-> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
-
-II. Secretaría de Servicios Legislativos y Parlamentarios;
-
-> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
-
-III. Secretaría de Administración y Finanzas;
-
-> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
-
-IV. Auditoria Superior de Fiscalización;
-
-> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
-
-V. Instituto de Investigaciones Legislativas; y
-
-> <small>(REFORMADA, P.O. 12 DE MAYO DE 2010)</small>
-
-VI.- Sistema Morelense de Radio y Televisión.
-
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
-
-Artículo 89 BIS.- En caso de ausencia temporal o definitiva de los titulares de la Secretaría General del Congreso, Secretaría de Servicios Legislativos y Parlamentario y/o de la Secretaría de Administración y Finanzas, el Presidente de la Mesa Directiva procederá a designar a un Encargado de Despacho, en tanto el Pleno del Congreso, a propuesta de la Junta Política y de Gobierno, designa en su caso, al nuevo titular.
-
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2010)</small>
-
-Artículo 89 TER.- En caso de ausencia temporal o definitiva de los titulares de la Dirección del Instituto de Investigaciones Legislativas, del Sistema Morelense de Radio y Televisión y Coordinación de Comunicación Social, la Junta Política y de Gobierno procederá a designar, mediante acuerdo a un Encargado de Despacho, en tanto se designa en su caso al nuevo titular.
-
-###### Artículo 90.
-
-Para el funcionamiento interno, el Congreso del Estado contará además con las direcciones, subdirecciones y jefaturas de departamento autorizadas en el presupuesto del Congreso del Estado.
-
-###### Artículo 91.
-
-Para ocupar cualquiera de los cargos a que se refieren los artículos anteriores, deberá acreditarse ante la Junta Política y de Gobierno, la documentación relativa con los requisitos que cada cargo requiere.
-
-> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
-
-### CAPÍTULO III. DE LA SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS
-
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2009)</small>
 
 ### CAPÍTULO IV. DE LA AUDITORÍA SUPERIOR DE FISCALIZACIÓN
 
@@ -1927,7 +2063,7 @@ DIP. DAVID IRAZOQUE TREJO.
 
 PRESIDENTE.
 
-DIP. FRANCISCO ARTURO SANTlLLÁN ARREDONDO.
+DIP. FRANCISCO ARTURO SANTILLÁN ARREDONDO.
 
 SECRETARIO.
 
@@ -2108,3 +2244,29 @@ Primero.- Aprobado que sea el presente Decreto, túrnese al Titular del Poder Ej
 Segundo.- El presente Decreto entrará en vigor el mismo día de su aprobación por el Pleno del Congreso del Estado de Morelos.
 
 Tercero.- En la aprobación del Presupuesto de Egresos para el Gobierno del Estado de Morelos del próximo Ejercicio Fiscal 2013, se preverá en el rubro que le corresponda al Poder Legislativo, el techo presupuestal para hacer frente a la fracción XI del artículo 18 de su Ley Orgánica.
+
+P.O. 26 DE SEPTIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día de su aprobación por el Pleno del Congreso.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+En todos aquellos ordenamientos que se refieran a las Comisiones que con este decreto cambian su denominación, se entenderá que se refieren a las mismas Comisiones.
+
+###### ARTÍCULO CUARTO.
+
+El Presidente del Congreso del Estado instrumentará los cambios administrativos que se requieran para dar cumplimiento a este decreto.
+
+###### ARTÍCULO QUINTO.
+
+La Junta Política y de Gobierno integrará en la propuesta de Comisiones que presentará al Pleno, a los integrantes de las nuevas comisiones que con este decreto se crean.
+
+###### ARTÍCULO SEXTO.
+
+Publíquese en la Gaceta Legislativa y remita separa (sic) su divulgación al Periódico Oficial "Tierra y Libertad," órgano de difusión del Gobierno del Estado de Morelos.
