@@ -4,7 +4,7 @@ identifier: "CHH-ley-que-regula-el-funcionamiento-de-las-instituciones-48789"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-04"
-last_updated: "2012-07-28"
+last_updated: "2012-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHH"
 
 LEY QUE REGULA EL FUNCIONAMIENTO DE LAS INSTITUCIONES PRESTADORAS DE SERVICIOS PARA EL CUIDADO INFANTIL Y DE MENORES EN EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2012.
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 859/2012, PUBLICADO EN EL P.O. 26 DE SEPTIEMBRE DE 2012, CUANDO EN CUALQUIER OTRO INSTRUMENTO JURÍDICO SE HAGA REFERENCIA A LA SECRETARÍA DE FOMENTO SOCIAL, SE ENTENDERÁ CITADA A LA SECRETARÍA DE DESARROLLO SOCIAL.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el periódico oficial del Estado de Chihuahua, el sábado 4 de febrero de 2006.
 
@@ -63,7 +65,9 @@ Para todo lo no previsto en la presente Ley, se aplicará supletoriamente el Có
 
 Corresponderá al Ejecutivo del Estado, como autoridad local en materia de salud general, supervisar y evaluar la prestación de los servicios de cuidado infantil y de menores en la Entidad; lo anterior, sin perjuicio de los convenios de coordinación que sobre el particular se celebren con la Federación o con los Municipios.
 
-El Ejecutivo del Estado, por conducto de la Secretaría de Fomento Social, tendrá, respecto de lo prestación de los servicios de cuidado infantil y de menores, las siguientes atribuciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+El Ejecutivo del Estado, por conducto de la Secretaría de Desarrollo Social, tendrá, respecto de la prestación de los servicios de cuidado infantil y de menores, las siguientes atribuciones:
 
 I.- Emitir, supervisar y adecuar lo aplicación de las normas técnicas que rijan la prestación de los servicios de cuidado infantil y de menores.
 
@@ -105,7 +109,9 @@ III.- Instituciones: Instancias privadas o públicas, personas físicas o morale
 
 IV.- Licencia: Autorización escrita que emite la Secretaría para que opere cualquier tipo de institución en materia de la presente Ley.
 
-V.- Secretaría: La Secretaría de Fomento Social, la que supervisará la aplicación y adecuación de las normas técnicas que rijan la prestación de los servicios de cuidado infantil y de menores.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+V.- Secretaría: La Secretaría de Desarrollo Social, la que supervisará la aplicación y adecuación de las normas técnicas que rijan la prestación de los servicios de cuidado infantil y de menores.
 
 VI.- Usuario: La persona que contrate los servicios de una institución, en cualquiera de sus modalidades.
 
@@ -253,9 +259,9 @@ I.- Presentar solicitud por escrito que contenga, al menos, el nombre; nacionali
 
 II.- Anexar copia certificada de los siguientes documentos:
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-a).- Certificación por parte de la Secretaría de Fomento Social, que confirme que el gerente, encargado o administrador de la institución, cuenta con los estudios o conocimientos técnicos necesarios y suficientes para cumplir su labor.
+a).- Certificación por parte de la Secretaría de Desarrollo Social, que confirme que el gerente, encargado o administrador de la institución, cuenta con los estudios o conocimientos técnicos necesarios y suficientes para cumplir su labor.
 
 b).- Constancia expedida por la autoridad de salud correspondiente, en la cual se exprese que las instalaciones de la institución cuentan con las condiciones de salubridad e higiene, que como mínimo se deben observar para prestar el servicio, materia de la presente Ley.
 
@@ -317,9 +323,11 @@ La falta de este aviso dará lugar a la sanción prevista en la fracción II, de
 
 ### CAPÍTULO CUARTO. DE LAS CERTIFICACIONES
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 22.
 
-Para la obtención de la licencia, la persona que pretenda instalar o dirigir una institución, deberá contar con la certificación de capacitación que expida la Secretaría de Fomento Social.
+Para la obtención de la licencia, la persona que pretenda instalar o dirigir una institución, deberá contar con la certificación de capacitación que expida la Secretaría de Desarrollo Social.
 
 > <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
 
@@ -347,9 +355,11 @@ El Reglamento establecerá las bases del programa de certificación a que se ref
 
 ### CAPÍTULO QUINTO. DE LAS INSPECCIONES, VISITAS, INFRACCIONES Y SANCIONES
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 26.
 
-El Ejecutivo Estatal, por conducto de la Secretaría de Fomento Social, ejercerá las funciones de vigilancia e inspección que correspondan y aplicarán las sanciones que este ordenamiento establece, sin perjuicio de las facultades que confieran a otras dependencias, otros ordenamientos federales y locales aplicables en la materia de que se trate.
+El Ejecutivo Estatal, por conducto de la Secretaría de Desarrollo Social, ejercerá las funciones de vigilancia e inspección que correspondan y aplicarán las sanciones que este ordenamiento establece, sin perjuicio de las facultades que confieran a otras dependencias, otros ordenamientos federales y locales aplicables en la materia de que se trate.
 
 ###### Artículo 27.
 
@@ -542,3 +552,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Las disposiciones previstas en las fracciones VI, VII y VIII, todas del artículo 10, entrarán en vigor ciento ochenta días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE SEPTIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Cuando en cualquier otro instrumento jurídico se haga referencia a la Secretaría de Fomento Social, se entenderá citada a la Secretaría de Desarrollo Social sin que ello afecte su competencia, derechos u obligaciones que haya contraído con antelación a la entrada en vigor del presente Decreto.
