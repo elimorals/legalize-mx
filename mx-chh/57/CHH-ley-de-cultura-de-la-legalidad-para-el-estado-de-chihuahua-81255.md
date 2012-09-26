@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-cultura-de-la-legalidad-para-el-estado-de-chihuahua-8125
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-30"
-last_updated: "2011-04-30"
+last_updated: "2012-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE CULTURA DE LA LEGALIDAD PARA EL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 30 de abril de 2011.
 
@@ -139,7 +139,9 @@ V. Dos representantes del Poder Judicial del Estado, que tendrán el carácter d
 
 VI. Un representante de la Fiscalía General del Estado, que tendrá el carácter de vocal;
 
-VII. Un representante de la Secretaría de Educación, Cultura y Deporte; uno de la Secretaría de Fomento Social, así como un representante de la Secretaría de Salud, todos ellos designados por el Gobernador del Estado, quienes tendrán el carácter de vocales;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+VII. Un representante de la Secretaría de Educación, Cultura y Deporte; uno de la Secretaría de Desarrollo Social, así como un representante de la Secretaría de Salud, todos ellos designados por el Gobernador del Estado, quienes tendrán el carácter de vocales;
 
 VIII. Un representante del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública;
 
@@ -169,7 +171,9 @@ II. Un Presidente Ejecutivo, que deberá ser siempre un representante ciudadano,
 
 III. Un representante de cada ayuntamiento de la zona, designado por el presidente municipal de entre sus propios funcionarios y que tendrá el carácter de vocal;
 
-IV. Un representante de la Secretaría de Educación, Cultura y Deporte; uno de la Secretaría de Fomento Social, así como un representante de la Secretaría de Salud, todos ellos designados por el Gobernador del Estado, quienes tendrán el carácter de vocales;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+IV. Un representante de la Secretaría de Educación, Cultura y Deporte; uno de la Secretaría de Desarrollo Social, así como un representante de la Secretaría de Salud, todos ellos designados por el Gobernador del Estado, quienes tendrán el carácter de vocales;
 
 V. Un representante del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública;
 
@@ -316,3 +320,15 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los cuatro días del mes de abril del año dos mil once.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CÉSAR HORACIO DUARTE JÁQUEZ. Rúbrica. LA SECRETARIA GENERAL DE GOBIERNO. LIC. GRACIELA ORTIZ GONZÁLEZ. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE SEPTIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Cuando en cualquier otro instrumento jurídico se haga referencia a la Secretaría de Fomento Social, se entenderá citada a la Secretaría de Desarrollo Social sin que ello afecte su competencia, derechos u obligaciones que haya contraído con antelación a la entrada en vigor del presente Decreto.
