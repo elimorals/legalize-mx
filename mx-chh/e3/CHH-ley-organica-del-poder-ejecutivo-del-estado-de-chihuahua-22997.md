@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "2012-03-31"
+last_updated: "2012-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -285,7 +285,9 @@ II.- Secretaría de Hacienda;
 
 III.- Secretaría de Economía;
 
-IV.- Secretaría de Fomento Social;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+IV. Secretaría de Desarrollo Social;
 
 V.- Secretaría de Salud;
 
@@ -563,19 +565,19 @@ LI. Las demás que le atribuyan expresamente las leyes, los reglamentos y demás
 
 ARTICULO 26 BIS.- (DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2010)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTICULO 27.
 
-A la Secretaría de Fomento Social corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Desarrollo Social corresponde el despacho de los siguientes asuntos:
 
 I.- Coordinar el diseño, instrumentación, evaluación y seguimiento de la Política Estatal de Desarrollo Social y Humano, así como conducir la formulación del Programa respectivo;
 
 II.- Coordinar el Sistema Estatal de Desarrollo Social y Humano;
 
-III.- Establecer las políticas públicas de desarrollo social para personas indígenas, menores de edad, jóvenes, adultas mayores, en situación de discapacidad, pobreza, desigualdad, marginación, discriminación y exclusión, así como coordinar, concertar y ejecutar programas y proyectos para tal fin;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+III.- Establecer las políticas públicas de desarrollo social para personas indígenas, menores de edad, jóvenes, adultas mayores, en situación de discapacidad, pobreza, desigualdad, marginación, discriminación y exclusión. Para la coordinación y concertación de los programas, proyectos y acciones vinculados a los fines antes señalados, se apoyará en la Procuraduría Social que tendrá la naturaleza jurídica de órgano desconcentrado;
 
 IV.- Coordinar e implementar las directrices y estrategias que señala el Plan Estatal de Desarrollo para aquellos organismos e instituciones sujetos al Ejecutivo Estatal que integran los servicios de asistencia social, pública y privada, así como de desarrollo social y humano;
 
@@ -1974,3 +1976,13 @@ La Junta Central, así como las juntas municipales y rurales, no se verán afect
 ###### ARTÍCULO CUARTO.
 
 El Ejecutivo del Estado dispone de hasta 180 días contados a partir de la entrada en vigor de la presente Ley, para expedir el Reglamento correspondiente.
+
+P.O. 26 DE SEPTIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Cuando en cualquier otro instrumento jurídico se haga referencia a la Secretaría de Fomento Social, se entenderá citada a la Secretaría de Desarrollo Social sin que ello afecte su competencia, derechos u obligaciones que haya contraído con antelación a la entrada en vigor del presente Decreto.
