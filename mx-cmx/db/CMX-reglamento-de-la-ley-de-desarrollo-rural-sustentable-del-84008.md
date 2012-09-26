@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-desarrollo-rural-sustentable-del-84008"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-12-01"
-last_updated: "2011-12-01"
+last_updated: "2012-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84008&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2011-11-28"
 
 REGLAMENTO DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL DISTRITO FEDERAL EN MATERIA DE CONSEJOS, COORDINACIÓN ADMINISTRATIVA Y SISTEMAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY DE DESARROLLO AGROPECUARIO, RURAL Y SUSTENTABLE DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 26 DE SEPTIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 1 de diciembre de 2011.
 
@@ -307,3 +309,11 @@ Primero.- El presente Reglamento entrará en vigor al día siguiente de su publi
 Segundo.- La Secretaría tendrá noventa días hábiles para la instalación del Consejo Rural, la Coordinación Intersecretarial y el Comité Local.
 
 Dado en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veintiocho días del mes de noviembre de dos mil once.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- LA SECRETARIA DE DESARROLLO RURAL Y EQUIDAD PARA LAS COMUNIDADES, MARÍA ROSA MÁRQUEZ CABRERA.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARTHA TERESA DELGADO PERALTA.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, FELIPE LEAL FERNÁNDEZ.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, FERNANDO JOSÉ ABOITIZ SARO.- FIRMA.- LA SECRETARIA DE DESARROLLO ECONÓMICO, LAURA VELÁZQUEZ ALZÚA.- FIRMA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 26 DE SEPTIEMBRE DE 2012.
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- Se abroga el Reglamento de la Ley de Desarrollo Rural Sustentable del Distrito Federal en materia de Consejos, Coordinación Administrativa y Sistemas, publicado en la Gaceta Oficial del Distrito Federal el 1° de diciembre de 2011.
