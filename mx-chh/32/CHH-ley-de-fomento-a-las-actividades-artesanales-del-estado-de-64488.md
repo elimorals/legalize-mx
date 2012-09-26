@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-fomento-a-las-actividades-artesanales-del-estado-de-6448
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-05"
-last_updated: "2011-08-20"
+last_updated: "2012-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE FOMENTO A LAS ACTIVIDADES ARTESANALES DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 5 de noviembre de 2008.
 
@@ -51,9 +51,11 @@ LEY DE FOMENTO A LAS ACTIVIDADES ARTESANALES DEL ESTADO DE CHIHUAHUA
 
 La presente Ley es de orden público y observancia general, sus disposiciones se aplican en el territorio del Estado y tiene por objeto, preservar, fomentar y promover el desarrollo de la actividad artesanal en lo económico y cultural, así como facilitar la organización de la producción y el reconocimiento del artesano como productor y la protección de las artesanías como patrimonio cultural.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 2.
 
-La aplicación de esta Ley corresponde al Titular del Poder Ejecutivo del Estado, a través de la Secretaría de Desarrollo Comercial y Turístico, sin perjuicio de las atribuciones que las demás leyes otorguen a otras autoridades estatales y municipales, en cuanto no se prevean en forma expresa en este ordenamiento legal.
+La aplicación de esta Ley corresponde al Titular del Poder Ejecutivo del Estado, a través de la Secretaría de Economía, sin perjuicio de las atribuciones que las demás leyes otorguen a otras autoridades estatales y municipales, en cuanto no se prevean en forma expresa en este ordenamiento legal.
 
 ###### Artículo 3.
 
@@ -109,9 +111,11 @@ Los artesanos recibirán por parte de la Secretaría, orientación ante las depe
 
 ### CAPÍTULO IV. DE LA COMERCIALIZACIÓN
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 12.
 
-La Secretaría, en coordinación con las de Desarrollo Industrial, Desarrollo Rural, Fomento Social, Educación y Cultura, Desarrollo Municipal y los Ayuntamientos del Estado, facilitará la exhibición y comercialización de los productos artesanales en los diferentes mercados nacionales e internacionales, en las que tengan participación.
+La Secretaría, en coordinación con las de Desarrollo Rural, Desarrollo Social; Educación, Cultura y Deporte; General de Gobierno y los Ayuntamientos del Estado, facilitará la exhibición y comercialización de los productos artesanales en los diferentes mercados nacionales e internacionales, en las que tengan participación.
 
 ###### Artículo 13.
 
@@ -207,10 +211,20 @@ En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los quince días de
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JOSE REYES BAEZA TERRAZAS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. LIC. SERGIO GRANADAS PINEDA. Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 20 DE AGOSTO DE 2011.
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE SEPTIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Cuando en cualquier otro instrumento jurídico se haga referencia a la Secretaría de Fomento Social, se entenderá citada a la Secretaría de Desarrollo Social sin que ello afecte su competencia, derechos u obligaciones que haya contraído con antelación a la entrada en vigor del presente Decreto.
