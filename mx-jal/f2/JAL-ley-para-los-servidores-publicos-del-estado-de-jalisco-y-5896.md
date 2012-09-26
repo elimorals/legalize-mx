@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2012-09-18"
+last_updated: "2012-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -61,145 +61,95 @@ Servidor público es toda persona que preste un trabajo subordinado físico o in
 
 Se presume la existencia de la relación de servicio público entre el particular que presta un trabajo personal y la Entidad Pública que lo recibe, salvo los casos de asesoría, consultoría y aquellos que presten servicios al Gobierno, los cuales no se regirán por la presente Ley, ni se considerarán como servidores públicos.
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-###### Art. 3°.
+###### Art. 3.
 
-Para los efectos de esta ley, los servidores públicos se clasifican en:
+° Para los efectos de esta ley, los servidores públicos se clasifican:
 
-I. De base;
+I. Por la naturaleza de su función, en:
 
-II. De confianza; y
+a) De confianza, que se clasifican en:
 
-> <small>(REFORMADA, P.O. 20 DE ENERO DE 2001)</small>
+1.° Funcionarios públicos, que son los servidores públicos de elección popular, los magistrados y jueces del Estado, los integrantes de los órganos de gobierno o directivos de los organismos constitucionales autónomos y de las entidades de las administraciones públicas paraestatal y paramunicipales; los titulares de las unidades administrativas de todo órgano, organismo, dependencia o entidad pública estatal o municipal; los nombrados por los anteriores y que estén directamente al mando de los mismos; y aquellos que así sean considerados de forma expresa por disposición legal o reglamentaria municipal.
 
-III. Supernumerario; y
+Para efectos de este numeral, se entienden por unidad administrativa los dos primeros niveles orgánico-estructurales de una entidad pública, con funciones públicas, atribuciones y facultades reconocidas en ley o reglamento, con un titular propio, sin importar el nivel jerárquico que ocupe dentro del organigrama correspondiente.
 
-> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2001)</small>
+2.° Empleados públicos, que son los servidores públicos que, sin estar encuadrados en la fracción anterior, realicen funciones de dirección, mando, coordinación, supervisión, inspección, vigilancia, fiscalización, auditoría, manejo de fondos o valores, control de adquisiciones, almacenes e inventarios, asesoría, consultoría e investigación científica.
 
-IV. Becario.
+b) De base, que son todos los no considerados de confianza, y
+
+ll. Por la temporalidad de su nombramiento, en:
+
+a) Con nombramiento definitivo, los que cuentan con la estabilidad en el empleo, cargo o comisión, y
+
+b) Con nombramiento temporal, denominados genéricamente supernumerarios, los cuales se clasifican en:
+
+1.° Interino, cuando se otorgue para ocupar plaza vacante por licencia del servidor público titular que no exceda de seis meses;
+
+2.° Provisional, cuando se otorgue para ocupar plaza vacante por licencia del servidor público titular que exceda de seis meses;
+
+3.° Por tiempo determinado, cuando se otorgue por un periodo determinado con fecha cierta de terminación, y
+
+4.° Por obra determinada, cuando se otorgue para realizar tareas temporales directamente ligadas a una obra o función pública.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Art. 4°.
 
-Son servidores públicos de confianza, en general, todos aquellos que realicen funciones de:
+Se entenderá que existe un nombramiento temporal por tiempo determinado y se considerará como fecha de vencimiento el día que finalice el periodo constitucional del titular de la entidad pública, sin que en ningún caso sea superior a seis años cuando se trate de la administración pública estatal o superior a tres años en los demás casos, si:
 
-a) Dirección, como consecuencia del ejercicio de sus atribuciones legales que, de manera permanente y general, le confieran la representatividad e impliquen poder de decisión en el ejercicio del mando, a nivel directores generales, directores de área, adjuntos, subdirectores y jefes de departamento;
+l. No se señala la temporalidad del nombramiento correspondiente;
 
-b) Inspección, vigilancia y fiscalización: exclusivamente, a nivel de las jefaturas y subjefaturas, cuando estén considerados en el presupuesto de la dependencia o entidad de que se trate, así como el personal técnico que, en forma exclusiva y permanente, esté desempeñando tales funciones ocupando puestos que a la fecha son de confianza;
+ll. Existe la relación laboral y por cualquier causa no se expide el nombramiento respectivo, o
 
-c) Manejo de fondos o valores, cuando se implique la facultad legal de disponer de éstos, determinando su aplicación o destino. El personal de apoyo queda excluido;
+III. Se vence el nombramiento respectivo, continúa la relación laboral y por cualquier causa no se renueva dicho nombramiento.
 
-d) Auditoría: a nivel de auditores y subauditores generales, así como el personal técnico que, en forma exclusiva y permanente, desempeñe tales funciones, siempre que presupuestalmente dependa de las Contralorías o de las Areas de Auditoría;
-
-e) Control directo de adquisiciones: cuando tengan la representación de la dependencia o entidad de que se trata, con facultades para tomar decisiones sobre las adquisiciones y compras, así como el personal encargado de apoyar con elementos técnicos estas decisiones y que ocupe puestos presupuestalmente considerados en estas áreas de las dependencias y entidades con tales características;
-
-f) En almacenes e inventarios, el responsable de autorizar el ingreso o salida de bienes o valores y su destino o la baja y alta en inventarios;
-
-g) Investigación científica, siempre que implique facultades para determinar el sentido y la forma de la investigación que se lleve a cabo;
-
-h) Asesoría o Consultoría, únicamente cuando se proporcione a los siguientes servidores públicos superiores: Secretarios, Subsecretarios, Oficial Mayor, Coordinador General y Director General, en las dependencias del Poder Ejecutivo, o sus equivalentes en los demás Poderes y Entidades.
-
-i) Coordinación, cuando se trate de acciones o actividades o administración de personal de diversas áreas, encaminadas al cumplimiento de programas u objetivos inmediatos, ya sea por comisión o en ejercicio de sus funciones, a nivel de coordinadores generales y personal especializado que dependa directamente de éstos.
-
-j) Supervisión, cuando se trate de actividades específicamente que requieren revisión especial, a nivel de supervisores y personal especializado, en la materia que se trate y al servicio directo de aquellos.
-
-Además de los anteriores, tendrán tal carácter los siguientes:
-
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 2004)</small>
-
-I. En el Poder Legislativo, el Secretario General del Congreso, Auditor Superior del Estado, Secretarios particulares, Directores, Jefes de departamento, Coordinadores, Supervisores y Auditores, así como el personal que se encuentre al servicio directo de los Diputados cuando sean designados por ellos mismos;
-
-> <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
-
-II. En el Poder Ejecutivo y sus Organismos descentralizados, aquellos cuya designación requiera nombramiento o acuerdo expreso del Gobernador del Estado, conforme lo establece la Ley Orgánica del Poder Ejecutivo y, específicamente:
-
-a) La Planta que cubre el personal de las oficinas particulares del Gobernador, los ayudantes y choferes al servicio directo del Titular del Ejecutivo o de su residencia oficial y el personal comisionado en la misma;
-
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2008)</small>
-
-b) Secretarios de Gobierno, subsecretarios, contralor general, procuradores, subprocuradores, Tesorero, jefes de departamento, directores, subdirectores, jefes de oficina, de sección de servicios o de zonas, administradores o gerentes, encargados, coordinadores, auditores, contadores, valuadores, peritos de toda clase, proveedores, almacenistas, supervisores, recaudadores, pagadores o cualquier otro cargo cuya función sea la de manejo de fondos o bienes públicos o su custodia; tomadores o controladores de tiempo, de obras y servicios, conserjes, veladores y porteros, agentes del Ministerio Público, agentes de la Procuraduría Social, Presidente presidentes especiales y presidentes auxiliares en las juntas de conciliación y arbitraje, integrantes de consejos tutelares o asistenciales, integrantes de consejos consultivos o asesores de los titulares, vocales representantes en dependencias públicas y organismos descentralizados, directores, rectores, alcaldes celadores y personal de vigilancia en cárceles e instituciones de asistencia social, ayudantes, mensajeros, choferes, secretarias y taquígrafas al servicio directo de los titulares o de servidores públicos de superior jerarquía en las dependencias, el personal sujeto a honorarios, y
-
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2001)</small>
-
-c) Todos los elementos operativos de los servicios policiacos y de vialidad y tránsito, así como los de la Policía Investigadora del Estado, exceptuando los que desempeñen funciones administrativas, que no considere la presente Ley con la clasificación de confianza; y
-
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2001)</small>
-
-III. En los ayuntamientos de la entidad y sus organismos descentralizados; el funcionario encargado de la Secretaría General del Ayuntamiento, oficiales mayores, el funcionario encargado de la Hacienda Municipal o Tesorero, Subtesorero, directores, subdirectores, contralores, delegados, jefes y subjefes de departamento, jefes y subjefes de oficina, jefes de sección, oficiales del Registro Civil, auditores, subauditores generales, contadores y subcontadores en general, cajeros generales, cajeros pagadores, los inspectores, así como el personal que se encuentra al servicio directo del Presidente Municipal, los Regidores y del Síndico cuando sean designados por ellos mismos;
-
-IV. En el Poder Judicial:
-
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2007)</small>
-
-a) En el Supremo Tribunal de Justicia:
-
-Magistrados, jueces, secretarios de acuerdos del Tribunal Pleno, Secretario Taquígrafo de la Presidencia, los secretarios de las salas, los secretarios de los Juzgados de Primera Instancia y Menores, Civiles y Penales, Urbanos y Foráneos, Oficial Mayor del Tribunal, el Visitador de los juzgados, los asesores jurídicos de la Presidencia, los choferes de la Presidencia, el Director de Estadística Judicial, el Abogado “D” de la Dirección de Estadística Judicial, el Director de la Academia de Capacitación Judicial, los instructores de la Academia de Capacitación Judicial, el Coordinador de Eventos de la Academia de Capacitación Judicial, el Jefe de Archivo y Biblioteca del Supremo Tribunal, el encargado del almacén de los Juzgados de lo Criminal, el Administrador de Personal, el Jefe de Información y Relaciones Públicas;
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2001)</small>
-
-b) En el Tribunal de lo Administrativo:
-
-> <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
-
-Los Secretarios del Tribunal y las Salas, los Notificadores; y
-
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2001)</small>
-
-c) En el Tribunal Electoral:
-
-Magistrados, Secretario General de Acuerdos, Secretarios Relatores y los titulares de las Direcciones, Unidades Departamentales y órganos auxiliares creados para el cabal desempeño de sus funciones; y
-
-> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
-
-d) En el Consejo General del Poder Judicial:
-
-Consejeros, Secretario General, y los titulares de las Comisiones y Direcciones; y
-
-> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
-
-V. En el Tribunal de Arbitraje y Escalafón; todo el personal, excepto actuarios, secretarias e intendentes.
-
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2001)</small>
-
-De crearse categorías o cargos no comprendidos en este artículo, se hará constar en el nombramiento si es de base, confianza, supernumerario o becario, debiéndose atender los criterios señalados con los incisos de la a) a la j) de la parte inicial de este precepto.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2009)</small>
-
-Lo establecido en las condiciones de trabajo se extenderá a los trabajadores de confianza, salvo disposición en contrario consignada en el mismo contrato colectivo.
-
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Art. 5°.
 
-Son servidores públicos de base los no comprendidos en los artículos 5 y 6 de esta ley.
+Los funcionarios públicos se rigen por las siguientes bases:
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2004)</small>
+I. Su nombramiento siempre será temporal, por tiempo determinado, y nunca tendrán derecho a la estabilidad laboral, por lo que sólo disfrutarán de las medidas de protección al salario y de los beneficios a la seguridad social;
+
+II. Su nombramiento no podrá exceder de:
+
+a) El periodo constitucional correspondiente, tratándose de funcionarios públicos del Poder Legislativo, del Poder Ejecutivo incluidas la administración pública paraestatal y las de los ayuntamientos, o
+
+b) La temporalidad del cargo de quien lo eligió, designó o nombró, tratándose del Poder Judicial y los organismos constitucionales autónomos;
+
+III. Al término de su encargo no tendrán derecho a indemnización alguna, y
+
+IV. Podrán ser removidos de forma libre y discrecional por parte de quien los eligió, designó o nombró, salvo cuando la ley establezca expresamente las autoridades, causas y procedimientos aplicables para su separación.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Art. 6°.
 
-Son servidores supernumerarios aquellos a quienes se les otorgue alguno de los nombramientos temporales señalados en las fracciones II, III, IV y V del artículo 16 de esta ley.
+No podrá otorgarse ningún nombramiento supernumerario que trascienda el periodo constitucional del titular de la entidad pública, en el que se otorgó. El nombramiento otorgado en contravención a lo anterior será nulo de pleno derecho.
 
-Alos (sic) servidores públicos supernumerarios que sean empleados por tres años y medio consecutivos, se les otorgará nombramiento definitivo.
+Los servidores públicos que desempeñen nombramientos temporales de carácter interino, provisional o por obra determinada, no adquieren derecho a la estabilidad laboral por dicho nombramiento, sin importar la duración del mismo.
 
-También serán contratados de manera definitiva los servidores públicos supernumerarios que hayan sido empleados por cinco años. interrumpidos (sic) en no más de dos ocasiones por lapsos no mayores a 6 meses cada uno.
+Quien otorgue un nombramiento supernumerario en contravención al primer párrafo, o un nombramiento definitivo en contravención al segundo párrafo, ambos de este artículo, será sujeto de responsabilidad penal y administrativa, en los términos de la legislación de la materia.
 
-El derecho obtenido por los servidores públicos en los términos de los párrafos anteriores deberá hacerse efectivo de inmediato, siempre y cuando permanezca la actividad para la que fueron contratados, se tenga la capacidad requerida y cumplan con los requisitos de ley, mediante la creación de las plazas correspondientes, o en su defecto, a más tardar en el siguiente ejercicio fiscal.
-
-Lo señalado en las fracciones II, II (sic), IV y V del artículo 16 quedará a salvo de conformidad a la naturaleza del empleo.
-
-Los servidores públicos supernumerarios una vez contratados de manera definitiva podrán solicitar les sea computada la antigüedad desde su primer contrato para efectos del servicio civil de carrera.
-
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Art. 7°.
 
-Los servidores públicos de base serán inamovibles, una vez transcurridos seis meses sin nota desfavorable en su expediente.
+Los servidores públicos, con nombramiento temporal por tiempo determinado que la naturaleza de sus funciones sean de base, que estén en servicio por seis años y medio consecutivos o por nueve años interrumpidos en no más de dos ocasiones por lapsos no mayores a seis meses, tendrán derecho a que se les otorgue nombramiento definitivo; a excepción de los relativos al Poder Legislativo y a los municipios, a quienes se les otorgará dicho nombramiento cuando estén en servicio por tres años y medio consecutivos o por cinco años interrumpidos en no más de dos ocasiones por lapsos no mayores a seis meses. Quien otorgue un nombramiento definitivo a quien no reúna el tiempo que establece este párrafo será sujeto de responsabilidad penal y administrativa, en los términos de la legislación de la materia.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+El derecho obtenido por los servidores públicos en.los términos del párrafo anterior deberá hacerse efectivo de inmediato, mediante la asignación de la plaza vacante correspondiente o la creación de una nueva, y a más tardar en el siguiente ejercicio fiscal; siempre y cuando permanezca la actividad para la que fueron contratados, se tenga la capacidad requerida y cumplan con los requisitos de ley.
+
+Los servidores públicos supernumerarios, una vez contratados de manera definitiva, podrán solicitar les sea computada la antigüedad desde su primer contrato para efectos del escalafón y del servicio civil de carrera.
+
+La figura de prórroga contemplada en el artículo 39 de la Ley Federal del Trabajo no es aplicable a los servidores públicos del Estado de Jalisco.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Art. 8°.
 
-Tratándose de servidores públicos de confianza, su nombramiento será por tiempo determinado, sin perjuicio de lo dispuesto por el artículo 6 de esta Ley; sin embargo, las entidades públicas de que se trate, sin responsabilidad para ellas, podrán dictar el cese que termine la relación laboral si existiere un motivo razonable de pérdida de confianza, sujetándose en lo conducente al procedimiento previsto en los artículos 23 y 26, salvo que se trate de los titulares de las Entidades Públicas a que se refiere el artículo 9º, quienes en su caso podrán ser cesados en los términos de este artículo, sin necesidad de instauración del procedimiento señalado.
+Los empleados públicos y los servidores públicos de base podrán ser cesados en los términos del artículo 22, fracción V, de esta ley.
 
 ###### Art. 9°.
 
@@ -221,9 +171,7 @@ IV. En los municipios, los Ayuntamientos representados por el Presidente Municip
 
 V. En los organismos descentralizados y empresas o asociaciones de participación Estatal o Municipal Mayoritaria, quien o quienes desempeñen el cargo de mayor jerarquía, de conformidad con los ordenamientos que los rijan.
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2003)</small>
-
-Art. 9 A. Siempre que se vaya a instaurar el procedimiento administrativo para imponer alguna sanción a un servidor público, el titular de la dependencia o entidad podrá delegar al funcionario encargado del jurídico, o quien haga sus veces, mediante acuerdo, la facultad de iniciar el procedimiento respectivo, quien una vez desahogado el mismo, remitirá las actuaciones al titular o encargado para que dicte la resolución respectiva.
+Art. 9 A. (DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2012)
 
 ###### Art. 10°.
 
@@ -253,9 +201,11 @@ Los Derechos consagrados en esta ley en favor de los Servidores Públicos, son i
 
 En caso de duda, en la interpretación de esta ley, y una vez aplicada la supletoriedad del derecho a que se refiere el Art. 10.°, si persistiere ésta, prevalecerá la interpretación más favorable al Servidor Público.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Art. 13.
 
-El cambio de titulares de las entidades públicas no afectará a los derechos de los Servidores Públicos de base.
+El cambio de titulares de las entidades públicas no afectará los derechos de los servidores públicos.
 
 ###### Art. 14.
 
@@ -267,39 +217,11 @@ Las actuaciones y certificaciones que hubieren de hacerse con motivo de la aplic
 
 ### CAPITULO II. De los nombramientos
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Art. 16.
 
-Los nombramientos de los servidores públicos podrán ser:
-
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
-
-I. Definitivo, cuando se otorgue para ocupar plaza permanente;
-
-> <small>(REFORMADA, P.O. 20 DE ENERO DE 2001)</small>
-
-II. Interino, cuando se otorgue para ocupar plaza vacante por licencia del servidor público titular que no exceda de seis meses;
-
-> <small>(REFORMADA, P.O. 20 DE ENERO DE 2001)</small>
-
-III. Provisional, cuando se expida de acuerdo con el escalafón para ocupar plaza vacante por licencia del servidor público titular que exceda de seis meses;
-
-> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2009)</small>
-
-IV. Por Tiempo Determinado, cuando se expida por un periodo determinado con fecha cierta de terminación;
-
-> <small>(REFORMADA, P.O. 20 DE ENERO DE 2001)</small>
-
-V. Por Obra Determinada, cuando se otorgue para realizar tareas temporales directamente ligadas a una obra o función pública; y
-
-> <small>(REFORMADA, P.O. 20 DE ENERO DE 2001)</small>
-
-VI. Beca, cuando se expida por tiempo determinado para la capacitación o adiestramiento del becario en alguna actividad propia de la administración pública estatal o municipal.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
-
-En caso de no señalarse el carácter de los nombramientos otorgados por los titulares de los tres poderes del Estado, ayuntamientos y los descentralizados de ambos, en la categoría de secretarios, subsecretarios, directores generales, directores de área o sus equivalentes en el nivel, de acuerdo al artículo 4.° de este ordenamiento, se entiende que su periodo será por el término constitucional o administrativo para el que fue contratado.
+Solo se podrá otorgar nombramiento definitivo o temporal cuando exista disponibilidad presupuestal para ello. Sólo se considerará nombramiento definitivo el que expresamente así lo manifieste y siempre que se cumpla con lo señalado en esta ley.
 
 ###### Art. 17.
 
@@ -307,25 +229,61 @@ Los nombramientos deberán contener:
 
 I. Nombre, nacionalidad, edad, sexo, estado civil y domicilio;
 
-II. Los servicios que deban prestarse, los que se determinarán con la mayor precisión posible;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-> <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
+II. El puesto, cargo o comisión a desempeñar;
 
-III. El carácter del nombramiento: definitivo, interino, provisional, por tiempo determinado o para obra determinada;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-IV. La duración de la jornada de trabajo;
+III. El número de plaza que corresponde al puesto, cargo o comisión a desempeñar, o en su defecto, la partida presupuestal de donde se le paga;
 
-V. El sueldo y demás prestaciones que habrá de percibir;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-VI. El lugar en que prestará los servicios;
+IV. El carácter del nombramiento, de acuerdo con la naturaleza de su función y su temporalidad;
 
-VII. Protesta del servidor público;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-VIII. Lugar en que se expide;
+V. La vigencia, si de forma implícita el carácter del nombramiento lo requiere;
 
-IX. Fecha en que deba empezar a surtir efectos; y
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-X. Nombre y firma de quien lo expide.
+VI. La duración de la jornada de trabajo;
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+VII. El sueldo y demás prestaciones que habrá de percibir;
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+VIII. El lugar en que prestará los servicios;
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+IX. Protesta del servidor público;
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+X. Lugar y fecha en que se expide;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+XI. Fecha en que deba empezar a surtir efectos, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+XII. Nombre y firma de quien lo expide y de quien lo ejercerá.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+Los nombramientos deberán realizarse, por lo menos, en duplicado, para entregarle un original al servidor público.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+Las modificaciones o movimientos que se realicen a los nombramientos deberán constar por escrito y obrar en el expediente laboral del servidor público.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+El servidor público que expida un nombramiento y omita alguno de los elementos referidos en este artículo, será sujeto de responsabilidad administrativa, y el documento deberá ser complementado a la brevedad.
 
 > <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
 
@@ -343,11 +301,19 @@ V. Lugar en que recibirá la capacitación o adiestramiento;
 
 VI. Compromiso de reciprocidad del becario;
 
-VII. Lugar en que se expide;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+VII. Lugar y fecha en que se expide;
 
 VIII. Fecha en que deba empezar a surtir efectos; y
 
-IX. Nombre y firma de quien la expide.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+IX. Nombres y firmas de quien la expide y a quien se le otorga.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+La beca será temporal y será vigente por el tiempo estimado para el desarrollo de su objeto.
 
 ###### Art. 18.
 
@@ -391,11 +357,11 @@ IV. Las licencias o permisos que conceda el Titular de la entidad pública corre
 
 ### CAPITULO IV. De la terminación de la relación de trabajo
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Art. 22.
 
-Ningún servidor público podrá ser cesado, sino por causa justificada conforme a los siguientes casos:
+Ningún servidor público de base o empleado público podrá ser cesado sino por causa justificada conforme a los siguientes casos:
 
 I. Por renuncia o abandono del empleo;
 
@@ -405,9 +371,13 @@ II. Por muerte o jubilación del servidor público;
 
 III. Por conclusión de la obra o vencimiento del término para que fue contratado o nombrado el servidor;
 
-IV. Por la incapacidad permanente del servidor, física o mental, que le impida la prestación del servicio;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-V. Por el cese dictado por el Titular de la Entidad Pública en donde preste sus servicios en cualquiera de los siguientes casos:
+IV. Por la incapacidad permanente del servidor, física o mental, que le impida la prestación del servicio, dejando a salvo los derechos laborales que salvaguarden las instituciones de seguridad social;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+V. Por el cese dictado por el titular de la entidad pública en donde preste sus servicios a través del procedimiento administrativo de responsabilidad laboral establecido en el artículo 26 de esta ley, en cualquiera de los siguientes casos:
 
 a) Incurrir el servidor durante sus labores en faltas de probidad y honradez, en actos de violencia, amagos, injurias, malos tratos en contra de sus jefes, compañeros, o contra los valores de uno u otro, dentro de las horas de servicio y en los lugares del desempeño de labores, salvo que medie provocación o que obre en legítima defensa.
 
@@ -435,25 +405,23 @@ k) Por falta comprobada al cumplimiento de las condiciones generales de trabajo 
 
 l) Por prisión que sea el resultado de una sentencia ejecutoriada siempre que le impida el cumplimiento de la relación de trabajo. Cuando esta sentencia sea absolutoria al servidor deberá reintegrársele a sus labores; debiéndosele liquidar sus sueldos cuando haya obrado en defensa de los intereses de la Entidad Pública.
 
-ll) Las análogas a las establecidas en los incisos anteriores.
+ll) Las análogas a las establecidas en los incisos anteriores. (sic)
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+m) Por el incumplimiento de las obligaciones establecidas en los artículos 55 y 56, o por la violación de las prohibiciones del artículo 56-Bis de esta ley, de acuerdo con la valoración de la gravedad de la falta;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+n) Las análogas a las establecidas en los incisos anteriores, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+VI. Por prisión que sea el resultado de una sentencia ejecutoriada siempre que le impida el cumplimiento de la relación de trabajo. Cuando esta sentencia sea absolutoria al servidor público deberá reintegrársele a sus labores; debiéndosele liquidar sus sueldos cuando haya obrado en defensa de los intereses de la entidad pública.
 
 ###### Art. 23.
 
-Cuando el servidor público incurra en alguna de las causales de terminación a que se refiere la fracción V del artículo anterior, el titular de la entidad pública o dependencia, o en su defecto, el funcionario que éste designe, procederá a levantar el acta administrativa en la que se otorgará derecho de audiencia y defensa al servidor público, en la que tendrá intervención la representación sindical si la hubiere y quisiera intervenir en ésta, con toda precisión se asentarán los hechos, la declaración del servidor afectado y la del representante sindical si intervino, las de los testigos de cargo, y de descargo idóneos; asimismo se recibirán las pruebas que procedan, firmándose las actuaciones administrativas al término de las mismas por los interesados, lo que harán de igual forma dos testigos de asistencia.
-
-De no querer firmar los intervinientes se asentará tal circunstancia, debiéndose entregar terminado el acto una copia de la actuación al servidor público, así como a la representación sindical si la solicitare.
-
-Cuando el procedimiento administrativo hubiere sido desahogado por el funcionario que se haya designado para tal efecto, éste deberá remitir dichas actuaciones al titular o encargado de la entidad o dependencia pública para que sea éste último quien resuelva sobre la imposición o no de alguna sanción.
-
-El servidor público que estuviera inconforme con la resolución emitida por la entidad pública al fin de la investigación administrativa que decreta la terminación de su nombramiento y de la relación de trabajo, tendrá derecho a acudir en demanda de justicia al Tribunal de Arbitraje y Escalafón en un término de 60 días contados a partir del siguiente a aquel en que se le haya dado a conocer por escrito la determinación que le afecte, lo cual se hará, dentro de los diez días que sigan a aquel en que se hubiera decidido la terminación de la relación de trabajo. La falta de oficio comunicando al servidor público la determinación que le afecte, hará presumir la injustificación del cese.
-
-El servidor público podrá optar en ejercicio de las correspondientes acciones ya sea por la reinstalación en el cargo o puesto que desempeñaba, con todas las prestaciones que disfrutaba y en las mismas, condiciones que no (sic) venía desempeñando o por que se le indemnice con el importe de tres meses de sueldo.
-
-Si en el juicio correspondiente no comprueba la entidad pública de la causa de terminación o cese, el servidor público tendrá derecho además a que se le paguen los sueldos vencidos, desde la fecha del cese hasta que se cumplimente el laudo.
-
-Lo dispuesto en este artículo no será aplicable a los servidores públicos del Poder Judicial del Estado, los que se sujetarán a lo que dispone el Capítulo XI de su Ley Orgánica.
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2012)
 
 ### CAPITULO V. De las relaciones entre las entidades públicas y sus servidores
 
@@ -461,23 +429,113 @@ Lo dispuesto en este artículo no será aplicable a los servidores públicos del
 
 Es facultad de los Titulares de las Entidades Públicas expedir todas las disposiciones reglamentarias que rijan el funcionamiento interno de las Oficinas de Servicio Público, oyendo al Sindicato correspondiente en su caso.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Art. 25.
 
-Es facultad de los titulares de las dependencias o Entidades Públicas, imponer en sus respectivos casos a los servidores públicos las correcciones disciplinarias y sanciones a que se hagan acreedores por el mal comportamiento, irregularidades o incumplimiento injustificado en el desempeño de sus labores, pudiendo consistir en amonestación, suspensión hasta por ocho días en el empleo, cargo o comisión, destitución, destitución con inhabilitación en los términos de la Ley de Responsabilidades de los Servidores Públicos.
+Es deber de los titulares de las entidades públicas imponer, en sus respectivos casos, a los servidores públicos las sanciones a que se hagan acreedores por el mal comportamiento, irregularidades o incumplimiento injustificado en el desempeño de sus labores, pudiendo consistir en:
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2001)</small>
+I. Amonestación;
 
-En los casos de suspensión o cese se seguirá el procedimiento a que se refiere el siguiente artículo.
+II. Suspensión hasta por treinta días en el empleo, cargo o comisión;
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2001)</small>
+III. Cese en el empleo, cargo o comisión;
+
+IV. Inhabilitación para desempeñar cualquier cargo, empleo o comisión pública hasta por un período de seis años, o
+
+V. Cese con inhabilitación para desempeñar cualquier cargo, empleo o comisión pública hasta por un periodo de seis años.
+
+Para la imposición de la suspensión, cese o inhabilitación se deberá instaurar el procedimiento administrativo de responsabilidad laboral. La instauración de dicho procedimiento corresponde al órgano de control disciplinario establecido por las entidades públicas. Son inoperantes, en juicio, las excepciones y defensas de las entidades públicas cuando alegan el supuesto abandono del trabajo por parte de los servidores públicos y éstas no instrumentaron el procedimiento administrativo de responsabilidad laboral que demuestre el justificado despido o la sanción del supuesto abandono de trabajo.
+
+En el ámbito de sus atribuciones, las entidades públicas deberán establecer en sus normas la instancia o dependencia que fungirá como órgano de control disciplinario; quedando obligadas a turnar a la entidad correspondiente aquellas que no sean de su competencia.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Art. 26.
 
-Ningún servidor público de base podrá ser sancionado en su empleo sino por causa justificada y plenamente comprobada. En su caso, los titulares de las entidades o dependencias públicas instaurarán procedimiento escrito dentro del cual se otorgue el derecho de audiencia y defensa al servidor público y en el que, con vista de las pruebas rendidas, el titular o encargado dicte acuerdo fundado y motivado.
+El procedimiento administrativo de responsabilidad laboral se desahogará conforme a lo siguiente:
 
-En caso de que la falta pudiese ameritar el cese por su gravedad, se estará a lo dispuesto por el artículo 23 de esta ley.
+I. Levantamiento del acta administrativa: el superior jerárquico o el servidor público que éste designe, mediante oficio facultativo, procederá a levantar el acta administrativa donde se asentarán las circunstancias de modo, tiempo y lugar de los hechos presuntamente irregulares y deberá firmarse por quien la levantó y dos testigos de asistencia;
+
+II. Remisión del acta administrativa: quien levantó el acta administrativa deberá remitir al órgano de control disciplinario:
+
+a) El acta administrativa;
+
+b) Los medios de prueba y demás elementos para acreditar la presunta responsabilidad, y
+
+c) El oficio facultativo, en su caso;
+
+III. Revisión de documentación: el órgano de control disciplinario revisará que la documentación cubra las siguientes formalidades:
+
+a) Que el acta administrativa esté firmada por quien la levantó y por dos testigos de asistencia;
+
+b Que la fecha de levantamiento y remisión del acta junto con los demás anexos, estén dentro del tiempo establecido en la fracción I del artículo 106-Bis de esta ley;
+
+c) Que el oficio facultativo haya sido elaborado antes del levantamiento del acta administrativa, y
+
+d) Que las documentales públicas que sean remitidas como probanza sean remitidas en original o copia fotostática certificada por quien tenga fe pública conforme a la ley o reglamento.
+
+El no cumplimiento de alguna de las formalidades descritas será causa de la conclusión anticipada del procedimiento sin responsabilidad para el servidor público señalado.
+
+IV. Acuerdo de avocamiento y señalamiento de audiencia: recibida y analizada la documentación, el órgano de control disciplinario elaborará el acuerdo de avocamiento, que contendrá lo siguiente:
+
+a) Los datos de recepción y la descripción detallada del contenido de la documentación recibida;
+
+b) La mención del nombre del servidor público presunto responsable, el nombramiento que ostenta, los supuestos hechos irregulares cometidos, el nombre y cargo de quien levantó el acta y de quienes fungieron en ella como testigos de asistencia, y una relación entre la conducta irregular y las disposiciones legales vulneradas;
+
+c) El análisis o estudio realizado, del que se desprendan los razonamientos jurídicos respecto de la procedibilidad de la instrucción disciplinaria;
+
+d) El día, hora y lugar en que tendrá verificativo la audiencia de ratificación de acta y defensa del servidor público, y
+
+e) La orden de notificación al servidor público presunto responsable y a su sindicato, en su caso; a quien levantó el acta y a quienes fungieron como testigos de asistencia de la misma; al área de recursos humanos para que remita los antecedentes disciplinarios del servidor público señalado y archive la constancia en el expediente personal del presunto responsable.
+
+V. Notificación del acuerdo de avocamiento: el órgano de control disciplinario, con apoyo del personal que tenga asignado, deberá notificar a los siguientes:
+
+a) Al servidor público presunto responsable y a su representación sindical, en su caso: será de forma personal, corriéndoles traslado de copias fotostáticas simples del acta administrativa, de la totalidad de los documentos que la integran para su conocimiento y de las pruebas que hay en su contra.
+
+En caso de que el acuerdo no pueda ser notificado al servidor público, el notificador o quien haga sus veces levantará constancia donde se asienten la causa o motivos por los cuales no se pudo llevar a cabo la notificación, situación que hará que el órgano de control disciplinario difiera la audiencia de defensa, señalándose nuevo día y hora para esos efectos;
+
+b) Al superior jerárquico o el servidor público que firmó el acta administrativa;
+
+c) A los que fungieron como testigos de asistencia en el acta administrativa, y
+
+d) Al área de recursos humanos de la entidad pública.
+
+Para el caso de la notificación a los señalados en los incisos b), c) y d) basta con el oficio recibido en el que obre el sello de recepción de la dependencia respectiva;
+
+VI. Desahogo de audiencia: se emitirá constancia del desahogo de la audiencia por parte del órgano de control disciplinario. En la audiencia podrán intervenir el servidor público señalado, su representante sindical o legal y los firmantes del acta administrativa, conforme a lo siguiente:
+
+a) Primeramente se les dará el uso de la voz a los firmantes del acta administrativa para su ratificación. La no ratificación por parte de alguno de los firmantes, ya sea por ausencia o voluntad, será causa de conclusión anticipada del procedimiento administrativo sin responsabilidad para el servidor público señalado;
+
+b) Posteriormente el servidor público señalado rendirá su declaración de manera verbal o por escrito, por sí o por conducto del representante sindical o legal que haya intervenido;
+
+c) Rendirán su declaración, de igual forma, los testigos de cargo y de descargo idóneos;
+
+d) Se le otorgará el derecho al servidor público incoado en el procedimiento para por sí o por conducto de su representante sindical o legal, repreguntar a los firmantes del acta administrativa y desvirtuar el acta administrativa con relación a la declaración que rindan;
+
+e) El servidor público presunto responsable, por sí o a través de su representante sindical o legal podrá ofrecer las pruebas que estime convenientes, para su defensa;
+
+f) Previo estudio, se admitirán y desahogarán las pruebas ofrecidas por las partes, y
+
+g) La audiencia podrá suspenderse para el desahogo de las pruebas que por su propia naturaleza lo requieran o por la ausencia del servidor público denunciado o de los firmantes del acta administrativa, siempre y cuando esté motivada por alguna causa justificada. En caso de enfermedad que les impida comparecer, sólo podrá justificarse la causa a través del certificado médico que emita el Instituto Mexicano del Seguro Social en caso de estar inscrito a sus servicios, salvo que se trate de un accidente o urgencia que amerite inmediata intervención o atención.
+
+VII. Resolución: instruido el procedimiento administrativo, el órgano de control disciplinario remitirá el expediente de responsabilidad laboral al titular de la entidad pública, para que resuelva sobre la imposición o no de sanción, en la que se tomará, en cuenta:
+
+a) La gravedad de la falta cometida;
+
+b) Las condiciones socioeconómicas del servidor público;
+
+c) El nivel jerárquico, los antecedentes y la antigüedad en el servicio del infractor;
+
+d) Los medios de ejecución del hecho;
+
+e) La reincidencia en el incumplimiento de sus obligaciones, y
+
+f) El monto del beneficio, daño o perjuicio derivado de la falta cometida.
+
+La notificación de la resolución deberá realizarse dentro de los siguientes diez días hábiles al de la elaboración de la misma al servidor público sancionado y al área de recursos humanos, o quien haga sus veces, de la entidad pública. La resolución surtirá efectos jurídicos al día siguiente de su notificación. El área de recursos humanos adjuntará la resolución al expediente del servidor público sancionado y realizará, a la brevedad, los movimientos, trámites o procesos administrativos internos para el cumplimiento de la misma.
+
+El órgano de control disciplinario anualmente deberá elaborar y actualizar el registro de responsabilidades laborales de la entidad pública, en el que se dispondrá el número de expediente, fecha en que se recibió el acta administrativa y sus anexos, nombre y lugar de adscripción del servidor público sancionado, causa por la cual se le sancionó y el tipo de sanción que se le impuso. Es causa de responsabilidad administrativa la no elaboración y actualización del registro.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2003)</small>
 
@@ -959,13 +1017,19 @@ XXIII. Presentar con oportunidad la declaración patrimonial ante el órgano del
 
 XXIV. Atender con diligencia las instrucciones, requerimientos y resoluciones que reciba de la Contraloría, conforme a la competencia de ésta;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-XXV. Percibir la remuneración establecida en el presupuesto de egresos correspondiente y que se apegue a lo dispuesto por el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos, la presente ley y demás disposiciones legales y reglamentarias aplicables, quedando estrictamente prohibido percibir por sus servicios ingresos extraordinarios o por el fin del encargo, adicionales a la remuneración, y
+XXV. Percibir la remuneración establecida en el presupuesto de egresos correspondiente y que se apegue a lo dispuesto por el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos, la presente ley y demás disposiciones legales y reglamentarias aplicables, quedando estrictamente prohibido percibir por sus servicios ingresos extraordinarios o por el fin del encargo, adicionales a la remuneración;
 
-> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXVI. No desviar los recursos económicos y en especie que reciba como apoyo para el desempeño de sus funciones, a un fin diverso a éste.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+XXVI. No desviar los recursos económicos y en especie que reciba como apoyo para el desempeño de sus funciones a un fin diverso a este, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+XXVII. Ajustarse a los criterios implementados por la entidad pública para la certeza de asistencia día a día.
 
 ## TITULO TERCERO
 
@@ -1019,13 +1083,39 @@ X. Aplicar los descuentos de cuotas sindicales;
 
 XI. Conceder licencia a los servidores públicos en los casos en que proceda, de acuerdo con esta propia ley o con las condiciones generales de trabajo;
 
-> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-XII. Proporcionar servicios médicos, quirúrgicos, hospitalarios, farmacéuticos y asistenciales a los servidores públicos o, en su caso, afiliarlos a través de convenios de incorporación al Instituto Mexicano del Seguro Social o a alguna institución federal, estatal u organismo público descentralizado que sea instrumento básico de la seguridad social, y
+XII. Proporcionar servicios médicos, quirúrgicos, hospitalarios, farmacéuticos y asistenciales a los servidores públicos o, en su caso, afiliarlos a través de convenios de incorporación, al Instituto Mexicano del Seguro Social, o a alguna institución federal, estatal u organismo público descentralizado, que sea instrumento básico de la seguridad social;
 
-> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-XIII. Otorgar las jubilaciones conforme lo dispone la Ley de Pensiones del Estado de Jalisco.
+XIII. Otorgar las jubilaciones conforme lo dispone la Ley del Instituto de Pensiones del Estado de Jalisco;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+XIV. Entregar al servidor público el duplicado de los nombramientos y movimientos de personal que suscriba, para lo cual el empleado firmará la constancia de entrega, misma que se adjuntará a su expediente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+XV. Enumerar las fojas de los expedientes fruto de la relación laboral con los servidores públicos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+XVI. Realizar los descuentos correspondientes, vía nómina, de las inasistencias injustificadas a labores de los servidores públicos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+XVII. Realizar los movimientos, trámites o procesos administrativos para el cumplimiento de las resoluciones dictadas en el procedimiento establecido en el artículo 26 de esta ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+XVIII. Implementar registros de asistencia que den certeza al trabajador día a día, de donde el trabajador obtenga una constancia expresa de lo asentado, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+XIX. Permitir la consulta y entregar al servidor público copia del expediente laboral, a su costa.
 
 > <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1999)</small>
 
@@ -1399,25 +1489,39 @@ Las acciones que nazcan de esa ley o del nombramiento expedido en favor de los S
 
 Art. 105 bis. En el caso de los organismos públicos descentralizados a que se refiere el párrafo segundo del artículo primero de esta Ley, la prescripción de las acciones se regirá por lo dispuesto en la legislación aplicable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Art. 106.
 
-Prescripción en 30 días:
+Prescriben en treinta días:
 
 I. Las acciones de la Autoridad para pedir la nulidad de un nombramiento, cuando el Servidor Público no reúna los requisitos necesarios para el empleo o cargo de que se trate o no demuestre, en forma fehaciente, tener la capacidad o aptitud que para el cargo se requiera;
 
 II. El derecho de los Servidores Públicos para volver a ocupar el puesto que hubiera dejado por accidente no profesional o causas ajenas al servicio, por enfermedad, contando el plazo a partir de la fecha en que estén en aptitud de volver al trabajo, de acuerdo con la constancia médica respectiva;
 
-> <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-III. La facultad de los titulares de las Entidades Públicas, para suspender a los Servidores Públicos, por causas justificadas y para disciplinar las faltas de éstos, contando el plazo desde el momento en que se dé causa para la separación o que sean conocidas las faltas;
+III. Las acciones para impugnar los dictámenes escalafonarios, y
 
-> <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-IV. La facultad de los titulares de las Entidades Públicas, para cesar a los servidores públicos, contando el término desde que sean conocidas las causas;
+IV. Las acciones para amonestar a un servidor público, en términos de la fracción I del artículo 25 de esta ley.
 
-V. Las acciones para impugnar los dictámenes escalafonarios; y
+V. Las acciones para impugnar los dictámenes escalafonarios; y (sic)
 
-VI. Las acciones para impugnar las sanciones impuestas por los titulares de las Entidades Públicas que no ameriten cese, en los términos del Art. 25 de esta ley.
+VI. Las acciones para impugnar las sanciones impuestas por los titulares de las Entidades Públicas que no ameriten cese, en los términos del Art. 25 de esta ley. (sic)
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+###### Art. 106
+
+Bis. El procedimiento previsto en el artículo 26 de la ley contará con el siguiente término para su iniciación, instrucción y resolución:
+
+l. Avocamiento: el acta administrativa se levantará y remitirá dentro de los siguientes treinta días naturales contados a partir de la fecha en que el superior jerárquico o a quien haya facultado, mediante oficio facultativo, tenga conocimiento de los hechos presuntamente irregulares;
+
+ll. Instrucción: recibida el acta administrativa y la documentación que la integra, el órgano de control disciplinario contará con treinta días naturales para la integración y desahogo del procedimiento contados a partir del día de la recepción, y
+
+III. Resolución: recibido el expediente para su resolución, el titular de la entidad pública, lo hará en un término de treinta días naturales contado a partir de la recepción.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2001)</small>
 
@@ -2363,7 +2467,7 @@ UNICO.- Este decreto entrará en vigor el día 1° de enero de 1995, previa su p
 
 P.O. 9 DE ENERO DE 1997.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 32 DE LA CONSTITUCIÓN POLÍTICA VIGENTE DEL ESTADO DE JALISCO.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 32 DE LA CONSTITUCIÓN POLÍTICA VIGENTE DEL ESTADO DE JALISCO.
 
 P.O. 17 DE ENERO DE 1998.
 
@@ -2532,3 +2636,21 @@ P.O. 8 DE SEPTIEMBRE DE 2012.
 P.O. 18 DE SEPTIEMBRE DE 2012.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 26 DE SEPTIEMBRE DE 2012.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Las entidades públicas que refiere el artículo 9.° de la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, tendrán un término de noventa días naturales contados a partir de la entrada en vigor del presente decreto, para ajustar sus reglamentos.
+
+TERCERO. En cuanto a la materia adjetiva de los procedimientos de responsabilidad laboral iniciados antes del presente decreto, serán desahogados conforme a la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, vigente en su momento.
+
+Por lo que respecta a la materia sustantiva, en lo referente a la responsabilidad laboral, será aplicable el presente decreto siempre y cuando sea en beneficio de los servidores públicos.
+
+CUARTO. La reforma a la fracción XXVI del artículo 55 y la fracción XVII del artículo 56 de la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, entrará en vigor a los ciento ochenta días naturales después de la entrada en vigor del presente decreto.
+
+QUINTO. El presente decreto no será aplicable de manera retroactiva en contra de los derechos adquiridos por los servidores públicos.
+
+SEXTO. Las nuevas disposiciones del artículo 17, contempladas en las fracciones III, IV y V, de la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, aplicarán a los nombramientos que se elaboren con posterioridad al presente decreto.
+
+SÉPTIMO. En tanto las entidades públicas no definan la unidad administrativa que fungirá como órgano de control disciplinario de conformidad con el artículo 25 de la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, el titular de la dependencia o entidad podrá delegar al funcionario encargado del jurídico, o quien haga sus veces, mediante acuerdo, la facultad de iniciar el procedimiento respectivo, quien una vez desahogado el mismo, remitirá las actuaciones al titular o encargado para que dicte la resolución respectiva.
