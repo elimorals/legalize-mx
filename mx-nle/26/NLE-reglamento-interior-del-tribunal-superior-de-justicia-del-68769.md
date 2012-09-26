@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-tribunal-superior-de-justicia-del-68769
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-22"
-last_updated: "2012-03-14"
+last_updated: "2012-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 22 de mayo de 2009.
 
@@ -427,17 +427,21 @@ De las Salas Colegiadas.
 
 Integración y competencia de las Salas Colegiadas.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 37.
 
 Denominación e integración. Las salas se denominarán e integrarán de la siguiente manera:
 
 La Primera Sala Colegiada Civil, se integrará por los titulares de las salas unitarias Primera, Tercera y Décima Quinta.
 
-La Segunda Sala Colegiada Civil, se integrará por los titulares de las salas unitarias Séptima, Octava y Novena.
+La Segunda Sala Colegiada Civil, se integrará por los titulares de las salas unitarias Quinta, Séptima y Octava.
 
 La Tercera Sala Colegiada Penal, se integrará por los titulares de las salas unitarias Segunda, Cuarta y Sexta.
 
 La Cuarta Sala Colegiada Penal, se integrará con los titulares de las salas unitarias Décima, Undécima y Duodécima.
+
+La Quinta Sala Colegiada Penal, se integrará con los titulares de las salas unitarias Novena, Décimo Tercera y Décimo Cuarta.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO POR EL QUE SE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -756,6 +760,18 @@ P.O. 14 DE MARZO DE 2012.
 PRIMERO: Las presentes reformas al Reglamento Interior del Tribunal Superior de Justicia del Estado de Nuevo León entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO: Se ordena la publicación del presente Acuerdo, por una sola vez, en el Boletín Judicial del Estado y en el Periódico Oficial del Estado, para el conocimiento del personal y del público en general, y su debido cumplimiento.
+
+P.O. 26 DE SEPTIEMBRE DE 2012.
+
+PRIMERO: El presente Acuerdo General, así como la reforma al artículo 37 del Reglamento Interior del Tribunal Superior de Justicia del Estado de Nuevo León entrarán en vigor a partir del día 1 uno de octubre de 2012 dos mil doce.
+
+SEGUNDO: La Quinta Sala Colegiada Penal deberá quedar instalada y comenzará su funcionamiento a partir de la entrada en vigor del presente Acuerdo General, la cual tendrá competencia para conocer de los asuntos previstos en el artículo 39 del Reglamento Interior del Tribunal Superior de Justicia del Estado de Nuevo León y demás leyes aplicables.
+
+TERCERO: En consecuencia, la modificación en la conformación de la Segunda Sala Colegiada Civil iniciará su vigencia en los términos establecidos en el transitorio primero del presente Acuerdo General.
+
+CUARTO: Las salas "unitarias" Novena y Quinta conservarán su competencia para conocer de los asuntos señalados en el artículo 51 del Reglamento Interior del Tribunal Superior de Justicia del Estado de Nuevo León.
+
+QUINTO: Se ordena la publicación del presente Acuerdo, por una sola vez, en el Boletín Judicial del Estado y en el Periódico Oficial del Estado, para el conocimiento del personal y del público en general, y su debido cumplimiento.
 
 ## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DEL FACTOR DE CÁLCULO DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO URBANO DEL ESTADO DE QUERÉTARO Y DE LA LEY DE LOS TRABAJADORES DEL ESTADO DE QUERÉTARO”.]
 
