@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-para-el-otorgamiento-de-estimulos-56786"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-07-18"
-last_updated: "2007-07-18"
+last_updated: "2012-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56786&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # REGLAMENTO PARA EL OTORGAMIENTO DE ESTIMULOS, CONDECORACIONES Y ASCENSOS PARA EL PERSONAL DE LA POLICIA PREVENTIVA DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL ESTADO DE MORELOS
 
-REGLAMENTO PARA EL OTORGAMIENTO DE ESTIMULOS, CONDECORACIONES Y ASCENSOS PARA EL PERSONAL DE LA POLICIA PREVENTIVA DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL ESTADO DE MORELOS
+REGLAMENTO PARA EL OTORGAMIENTO DE ESTÍMULOS, CONDECORACIONES Y ASCENSOS PARA EL PERSONAL DE LA POLICÍA PREVENTIVA DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2012.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 18 de julio de 2007.
 
@@ -201,59 +201,25 @@ En el caso de que el beneficio a recibir por parte de algún elemento policial n
 
 ## TÍTULO SEGUNDO
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR SEGUNDO TRANSITORIO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELOS, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
 ### CAPÍTULO ÚNICO. DE LOS ASCENSOS
 
 ###### Artículo 16.
 
-Con base en lo dispuesto por la fracción VIII del artículo 74 de la Ley y como complemento para el otorgamiento de los estímulos y condecoraciones a favor de los elementos policiales, se establece como un estímulo más, el ascenso, mismo que estará sujeto a todos los requisitos previstos para el otorgamiento de estímulos y condecoraciones, además de los siguientes:
-
-I.- Ser ciudadano mexicano por nacimiento en pleno goce y ejercicio de sus derechos;
-
-II.- Buen nivel académico del elemento de que se trate, debidamente acreditado con la documentación respectiva;
-
-III.- No tener en su historial correctivos disciplinarios por conductas graves y un excedente en números de arrestos, por faltas o negativas a cumplir una orden en el desempeño de su servicio;
-
-IV.- El aseguramiento de personas u objetos de trascendencia delictiva que causen un gran impacto social;
-
-V.- El informe que se solicite a su superior jerárquico con respecto a la conducta del elemento policial en cuestión;
-
-VI.- La propuesta de algún superior o la trascendencia en el servicio desempeñado;
-
-VII.- No tener en su historial más de tres denuncias por conductas delictivas en su contra, en trámite o activas;
-
-VIII.- Tener buena conducta y reconocida solvencia moral;
-
-IX.- No estar bajo los efectos de una suspensión o inhabilitación, ni haber sido destituído por parte del Consejo o de otra corporación policial, y
-
-X.- No consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares, ni ser adicto a bebidas alcohólicas.
+(DEROGADO POR SEGUNDO TRANSITORIO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELOS, P.O. 26 DE SEPTIEMBRE DE 2012)
 
 ###### Artículo 17.
 
-En el caso de que un elemento resulte beneficiado con un ascenso, este deberá ser en la plaza o grado siguiente de acuerdo al escalafón o tabla de plazas que se tenga por el área de personal de la Secretaría.
+(DEROGADO POR SEGUNDO TRANSITORIO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELOS, P.O. 26 DE SEPTIEMBRE DE 2012)
 
 ###### Artículo 18.
 
-Por ningún motivo se concederá a favor de cualquier elemento policial un ascenso si concurren las causas siguientes:
-
-I.- Que se encuentre gozando de licencia sin goce de sueldo;
-
-II.- Se encuentre desempeñando un cargo de elección popular, y
-
-III.- En cualquier otro supuesto previsto en las Leyes aplicables a la Seguridad Pública.
+(DEROGADO POR SEGUNDO TRANSITORIO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELOS, P.O. 26 DE SEPTIEMBRE DE 2012)
 
 ###### Artículo 19.
 
-En el trámite para el otorgamiento de un ascenso se debe tomar en cuenta lo siguiente:
-
-I.- Desempeño satisfactorio conforme a la evaluación permanente;
-
-II.- Perfil y capacidad;
-
-III.- Méritos especiales y personales;
-
-IV.- Antigüedad en la corporación estatal, y
-
-V.- Grado de aprovechamiento en los cursos de evaluación periódica impartidos por el Colegio Estatal de Seguridad Pública.
+(DEROGADO POR SEGUNDO TRANSITORIO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELOS, P.O. 26 DE SEPTIEMBRE DE 2012)
 
 ## TÍTULO TERCERO
 
@@ -294,3 +260,11 @@ EL SECRETARIO DE SEGURIDAD PÚBLICA
 COMISARIO GENERAL LUIS ÁNGEL CABEZA DE VACA RODRÍGUEZ
 
 RÚBRICAS.
+
+P.O. 26 DE SEPTIEMBRE DE 2012.
+
+PRIMERO.- El presente Reglamento iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Se deroga todo el Capítulo Único "DE LOS ASCENSOS" del Título Segundo del Reglamento para el Otorgamiento de Estímulos, Condecoraciones y Ascensos para el Personal de la Policía Preventiva de la Secretaría de Seguridad Pública del Estado de Morelos, publicado en el Periódico Oficial "Tierra y Libertad" número 4545 de fecha 18 de julio de 2007.
+
+TERCERO.- Se derogan todas las disposiciones de igual o menor rango que se opongan a lo previsto en este Reglamento.
