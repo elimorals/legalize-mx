@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-instituto-chihuahuense-de-salud-11963"
 country: "mx"
 rank: "ley"
 publication_date: "1987-09-16"
-last_updated: "2012-06-30"
+last_updated: "2012-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL INSTITUTO CHIHUAHUENSE DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 16 de septiembre de 1987.
 
@@ -44,6 +44,10 @@ Se declara de utilidad pública e interés social la prestación de los servicio
 ###### Artículo 2.
 
 Se crea un organismo público descentralizado, con personalidad jurídica, competencia y patrimonio propios, denominado "INSTITUTO CHIHUAHUENSE DE SALUD", cuyo domicilio social será la Ciudad de Chihuahua.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+El Director General del Organismo será el Secretario de Salud del Gobierno del Estado, cuyo cargo será honorario y, por tanto, no recibirá emolumento alguno por el desempeño de dicho cargo.
 
 ###### Artículo 3.
 
@@ -85,53 +89,39 @@ IV.- Con los muebles e inmuebles y demás bienes que se le destinen u obtengan, 
 
 V.- Por los legados que se otorguen y por los bienes y derechos que por vía sucesoria le correspondan conforme a la legislación civil.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 5.
 
-La administración del Organismo estará a cargo de un Consejo Directivo y de un Director General.
+La administración del Organismo estará a cargo de:
+
+I. Un Consejo Directivo.
+
+II. Un Director General.
+
+III. Un Director Ejecutivo, cuyo titular será designado por el Director General, quien lo auxiliará en el desempeño de las funciones de coordinación, control, vigilancia y evaluación del organismo y de su personal directivo.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 6.
 
-El Consejo Directivo será el órgano rector del Instituto y se integrará de la siguiente forma:
+El Consejo Directivo es el Órgano Supremo de Gobierno del Organismo y se integrará por:
 
-I.- Por el Titular del Poder Ejecutivo, quien fungirá como Presidente, o por la persona en quien delegue su representación;
+I. Presidente: El Titular del Poder Ejecutivo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+II. Secretario: El Secretario de Salud del Gobierno del Estado, quien suplirá las ausencias del Presidente y designará un Secretario Técnico para que lo auxilie en el ejercicio de sus atribuciones.
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2009)</small>
+III. Vocal: El Secretario de Hacienda.
 
-II.- Por el Secretario de Salud, quien fungirá como Secretario Técnico;
+IV. Vocal: El Secretario de Educación, Cultura y Deporte.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+V. Vocal: El Secretario de Desarrollo Social.
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2009)</small>
+VI. Un representante de las dependencias y organismos de los Gobiernos Federal y Municipal, centralizados y paraestatales, relacionados con el ramo, a invitación de la Presidencia.
 
-III.- Por el Secretario de Desarrollo Comercial y Turístico;
+VII. Dos académicos en el área de medicina, de cualquier Universidad del Estado, a invitación de la Presidencia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2009)</small>
-
-IV.- Por el Secretario de Desarrollo Rural;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2009)</small>
-
-V.- Por el Secretario de Finanzas y Administración;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2009)</small>
-
-VI.- Por el Secretario de Planeación y Evaluación; y
-
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
-
-VII.- Por un representante de las dependencias y organismos del Gobierno Federal y Municipal, centralizados y paraestatales, relacionados con el ramo, así como dos académicos en el área de medicina, de cualquier Universidad del Estado, a invitación de la Presidencia.
-
-Los miembros del Consejo designarán a sus suplentes.
-
-El cargo de consejero es honorario.
+Los cargos de los integrantes del Consejo Directivo son honorarios, y por cada titular habrá un suplente. Habrá quórum con la asistencia de más de la mitad de los integrantes, y sus decisiones se tomarán por mayoría de los presentes, teniendo el Presidente voto de calidad en caso de empate.
 
 ###### Artículo 7.
 
@@ -165,25 +155,33 @@ IX.- Las demás que deriven de las anteriores y sean materia del Consejo.
 
 El Consejo sesionará ordinariamente por lo menos una vez cada tres meses. Habrá quórum cuando concurran mas de la mitad de sus miembros. Las decisiones se tomarán por mayoría de votos y en caso de empate, el Presidente tendrá voto de calidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 9.
 
-El Presidente del Consejo tiene las siguientes facultades:
+El Presidente del Consejo tendrá las siguientes atribuciones:
 
 I.- Convocar a las sesiones ordinarias y a las extraordinarias que a su juicio sean necesarias, dirigiendo las que se celebren;
 
-II.- Autorizar en unión del Secretario Técnico, las actas y acuerdos de las sesiones; y
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+II.- Autorizar, conjuntamente con el Secretario, las actas y acuerdos de las sesiones.
 
 III.- En general, realizar y autorizar lo necesario para el mejor funcionamiento del Instituto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 10.
 
-El Director General será designado y removido por el Gobernador del Estado y tendrá las siguientes facultades:
+El Director General tendrá las siguientes atribuciones:
 
 > <small>(REFORMADA, P.O. 30 DE JUNIO DE 2012)</small>
 
 I.- Administrar y representar legalmente al Instituto con las facultades de un apoderado general para pleitos y cobranzas y actos de administración, con todas las facultades generales y especiales que requieran cláusula especial conforme a la ley; por lo que con carácter enunciativo, no limitativo, podrá desistirse del juicio de amparo, presentar denuncias y querellas penales y otorgar el perdón correspondiente; interponer y contestar demandas aun en materia laboral; formular y absolver posiciones aun en materia laboral y, en general, ejercer todos los actos de representación y mandato que sean necesarios, incluyendo los que para su ejercicio requieran cláusula especial en los términos que señalen las leyes. El Director General también tendrá facultades para sustituir y delegar el poder para pleitos y cobranzas, en uno o más apoderados, para que las ejerzan individual o conjuntamente, así como revocar los poderes que otorgue. Para actos de dominio, requerirá de la autorización expresa de la Junta de Gobierno para cada caso concreto;
 
-II.- Asistir a las sesiones del Consejo con derecho a voz pero sin voto;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+II.- Asistir a las sesiones del Consejo.
 
 III.- Ejecutar los acuerdos del Consejo;
 
@@ -195,17 +193,27 @@ VI.- Seleccionar, contratar y remover al personal;
 
 VII.- Ejecutar los programas del Organismo;
 
-VIII.- Proponer al Consejo las medidas que considere convenientes para el mejor funcionamiento del Instituto, así como los planes y programas de trabajo; y
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-IX.- Las que deriven de las anteriores, las que les señale el Consejo en el ejercicio de sus atribuciones o las disposiciones legales y reglamentarias que se expidan.
+VIII.- Proponer al Consejo las medidas que considere convenientes para el mejor funcionamiento del Instituto, así como los planes y programas de trabajo.
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+IX.- Expedir constancias y certificaciones de asuntos, datos y documentos relativos a sus funciones y/o que obren en sus archivos.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+X.- Las demás que deriven de las anteriores y sean materia del Consejo.
 
 ###### Artículo 11.
 
 Para acrditar (sic) la personalidad y facultades, según el caso, del Director General, bastará con exhibir copia certificada del nombramiento expedido por el Gobernador del Estado.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 12.
 
-Las faltas temporales del Director General, el despacho y firma de los asuntos que a él competen, recaerá en la persona que designe el Consejo Directivo.
+Las faltas temporales del Director General, así como el despacho y firma de los asuntos que a él competen, recaerán en el Director Ejecutivo y, a falta de éste, en el Director a cuya competencia corresponda el asunto específico que se trate.
 
 ## TRANSITORIOS
 
@@ -298,3 +306,17 @@ P.O. 30 DE JUNIO DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE SEPTIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Hágase del conocimiento del presente Decreto a la Secretaría de Salud Federal.
+
+###### ARTÍCULO TERCERO.
+
+se derogan todas las disposiciones que se opongan al presente Decreto.
