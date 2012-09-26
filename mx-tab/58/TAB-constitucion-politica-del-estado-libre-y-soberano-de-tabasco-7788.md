@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "2012-07-07"
+last_updated: "2012-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2012.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -107,7 +107,45 @@ Balancán, Cárdenas, Centla, Centro, Comalcalco, Cunduacán, Emiliano Zapata, H
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
-### CAPITULO III. DE LOS TABASQUEÑOS
+### CAPITULO III. DE LOS DERECHOS HUMANOS
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+ARTICULO 4 TER.- En el Estado de Tabasco todas las personas gozarán de los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, tratados internacionales de los que el Estado mexicano sea parte y esta Constitución. Las normas jurídicas relativas a estos derechos se interpretarán de conformidad con los ordenamientos antes invocados, favoreciendo en todo tiempo a las personas la protección más amplia.
+
+Para garantizar el respeto y protección de los derechos humanos, el organismo denominado Comisión Estatal de los Derechos Humanos, contará con plena autonomía orgánica funcional, de gestión y presupuestaria, con personalidad jurídica y patrimonio propio.
+
+Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el estado deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos en los términos que establezca la ley.
+
+Esta Comisión conocerá de peticiones que contengan denuncias o quejas por presuntas violaciones a los derechos humanos provenientes de actos u omisiones de naturaleza administrativa de cualquier autoridad o servidor público del estado y los municipios, con excepción de los del Poder Judicial, que violen estos derechos. En cumplimiento de sus funciones esta Comisión formulará recomendaciones públicas autónomas, no vinculatorias, denuncias y quejas ante las autoridades respectivas. Todo servidor público está obligado a responder oportunamente las recomendaciones que le presente la Comisión Estatal de los Derechos Humanos.
+
+Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa; además, el Congreso del Estado, o en sus recesos la Comisión Permanente, en los términos que disponga la ley secundaria, podrá llamar, a solicitud de la comisión orgánica competente, a las autoridades o servidores públicos responsables para que comparezcan ante ésta, a efecto de que expliquen el motivo de su negativa.
+
+Este organismo no será competente tratándose de asuntos electorales y jurisdiccionales. Conocerá de las quejas en materia laboral, en que podrá emitir recomendaciones a las autoridades competentes en materia de violación de derechos humanos laborales.
+
+La Comisión Estatal de los Derechos Humanos en todo tiempo podrá investigar hechos que constituyan violaciones graves de derechos humanos; lo anterior, sin detrimento que lo pidiere el Congreso Local o el Gobernador del Estado, en los términos de la legislación aplicable.
+
+Este organismo podrá solicitar a la Comisión Nacional de los Derechos Humanos que investigue en el estado circunstancias graves que vulneren los derechos humanos. Esta facultad la tendrán también el titular del poder ejecutivo, o la legislatura, cuando lo apruebe, cuando menos, la tercera parte de los diputados presentes.
+
+La Comisión Estatal de los Derechos Humanos tendrá ante el Congreso del Estado el derecho a iniciar leyes en materia de derechos humanos. Además, podrá ejercer la acción de inconstitucionalidad ante la Suprema Corte de Justicia de la Nación en contra de leyes expedidas por la legislatura local que vulneren los derechos humanos.
+
+La Comisión Estatal de los Derechos Humanos tendrá como órgano ejecutivo directo y por ende responsable de la conducción como titular a quien fuere electo como presidente; contará con un Consejo Consultivo que se integrará por siete consejeros, dentro de ellos el titular de la Comisión que lo presidirá; quienes serán elegidos por el voto de las dos terceras partes, de los miembros presentes de la legislatura estatal, o en sus recesos, en forma provisional, por la Comisión Permanente del Congreso del Estado, con la misma votación calificada. Asimismo dispondrá conforme la ley de la materia de los servidores públicos que coadyuven en las tareas legales correspondientes.
+
+La ley determinará el procedimiento a seguir para la presentación de las propuestas por parte del Congreso del Estado. El titular que presida la Comisión durará en su encargo cinco años, quien podrá ser ratificado, por única vez para un segundo período; durante el ejercicio de sus funciones sólo será removido en los términos del Título Séptimo de esta Constitución. Los consejeros, distintos al presidente del Consejo Consultivo, serán electos para un período de dos años, con la posibilidad de que fuesen propuestos y en su caso, ratificados para un período igual.
+
+La elección del titular de la presidencia de la Comisión Estatal de los Derechos Humanos, así como de los demás integrantes del Consejo Consultivo, se ajustará a un procedimiento de consulta pública. El procedimiento electivo deberá ser transparente, teniendo como premisas las siguientes:
+
+I.- Con la antelación de cuando menos 60 días previos a la fecha de la elección, se emitirá convocatoria pública en la forma y plazos que disponga la ley, que contenga los requisitos y perfiles de los aspirantes cuyas propuestas habrán de ser formulados, preferentemente, por asociaciones civiles legalmente constituidas y cuyo objeto social esté vinculado con el respeto y protección a los derechos humanos; y
+
+II.- Concluida esta fase se revisarán las listas de las personas que hayan sido propuestas que cumplan con los requisitos constitucionales y legales; luego, previo dictamen de su procedencia, se darán a conocer en forma pública, para después ser sometidas a la decisión de la plenaria, conforme las prevenciones a que se contrae este precepto.
+
+La ley determinará los requisitos que deban cubrir los integrantes del Consejo Consultivo y demás elementos que contendrá la convocatoria correspondiente. Tratándose del Titular de la Comisión Estatal de los Derechos Humanos, deberá contar con experiencia y suficientes conocimientos en materia de derechos humanos.
+
+El titular de la presidencia de la Comisión Estatal de los Derechos Humanos presentará anualmente al Congreso del Estado de Tabasco un informe escrito de actividades. Al efecto comparecerá durante el mes de diciembre del año de que se trate en los términos que disponga la ley.
+
+La Comisión, estará sujeta a las disposiciones constitucionales, legislativas y legales en todo lo concerniente a los recursos financieros, ejercicio del gasto público y su fiscalización.
+
+La ley establecerá las demás disposiciones relativas a la competencia, facultades y obligaciones, estructura, organización, funcionamiento, y relaciones jurídicas con los servidores públicos del organismo.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -169,11 +207,11 @@ V. Toda autoridad, entidad, órgano y organismo estatal o municipal y toda perso
 
 VI. El Estado establecerá mecanismos y procedimientos de revisión expeditos para hacer efectivo el derecho a la información. Los procedimientos se sustanciarán ante un órgano autónomo que se denominará Instituto Tabasqueño de Transparencia y Acceso a la Información Pública, dotado de plena autonomía jurídica, de gestión y presupuestaria, con personalidad jurídica y patrimonio propio, y que tendrá facultades para hacer cumplir a los sujetos obligados y sancionar la inobservancia de las disposiciones jurídicas en materia de acceso a la información pública.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+### CAPITULO IV. DE LOS TABASQUEÑOS
+
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
-
-### CAPITULO IV. DE LAS OBLIGACIONES Y DERECHOS DE LOS CIUDADANOS EN EL ESTADO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTICULO 5°.
 
@@ -187,9 +225,9 @@ III.- Los mexicanos que tengan domicilio establecido con residencia efectiva de 
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
-### CAPITULO V. DE LA PARTICIPACION CIUDADANA
+### CAPITULO V. DE LAS OBLIGACIONES Y DERECHOS DE LOS CIUDADANOS EN EL ESTADO
 
-> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTICULO 6°.
 
@@ -249,9 +287,9 @@ V.- En los demás casos que las leyes señalen.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 27 DE NOVIEMBRE DE 2002)</small>
 
-### CAPITULO I. DE LA SOBERANIA DEL ESTADO
+### CAPITULO VI. DE LA PARTICIPACION CIUDADANA
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTICULO 8° Bis.
 
@@ -351,9 +389,9 @@ V. En la ley secundaria se establecerán las normas para la procedencia, aplicac
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
-### CAPITULO II. FORMA DE GOBIERNO
+### CAPITULO I. DE LA SOBERANIA DEL ESTADO
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 9°.
 
@@ -481,9 +519,9 @@ VI.- En materia electoral la interposición de los medios de impugnaciones const
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
-### CAPITULO I. FORMACION DEL CONGRESO
+### CAPITULO II. FORMA DE GOBIERNO
 
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 1987)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 10.
 
@@ -501,9 +539,9 @@ El Poder Público se divide para su ejercicio en Legislativo, Ejecutivo y Judici
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
-### CAPITULO II. DE LA ELECCION
+### CAPITULO I. FORMACION DEL CONGRESO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 1987)</small>
 
 ###### ARTICULO 12.
 
@@ -559,9 +597,9 @@ VII.- (DEROGADA, P.O. 21 DE DICIEMBRE DE 1996) (F. DE E., P.O. 8 DE MARZO DE 199
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
-### CAPITULO III. INSTALACION Y PERIODOS DE SESIONES DEL CONGRESO
+### CAPITULO II. DE LA ELECCION
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTICULO 15.
 
@@ -625,7 +663,7 @@ Los Diputados tendrán fuero desde el día en que hayan rendido la protesta de L
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
-### CAPITULO IV. INICIATIVA Y FORMACION DE LAS LEYES
+### CAPITULO III. INSTALACION Y PERIODOS DE SESIONES DEL CONGRESO
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -733,7 +771,7 @@ Las sesiones serán públicas, excepto cuando el Reglamento o la índole del asu
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
-### CAPITULO V. FACULTADES DEL CONGRESO
+### CAPITULO IV. INICIATIVA Y FORMACION DE LAS LEYES
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -749,13 +787,17 @@ II.- A los Diputados;
 
 III.- Al Poder Judicial del Estado, por conducto del Tribunal Superior de Justicia, en asuntos de su Ramo;
 
-> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-IV.- A los Ayuntamientos en asuntos del Ramo Municipal; y
+IV.- A los Ayuntamientos en asuntos del Ramo Municipal;
 
-> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-V.- A los ciudadanos del Estado, mediante iniciativa popular.
+V.- A los ciudadanos del Estado, mediante iniciativa popular; y
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+VI.- A la Comisión Estatal de los Derechos Humanos, en materia de los derechos humanos.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -775,9 +817,9 @@ Si el Congreso no aceptare las observaciones del Ejecutivo por las dos terceras 
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
-### CAPITULO VI. COMISION PERMANENTE Y SUS ATRIBUCIONES
+### CAPITULO V. FACULTADES DEL CONGRESO
 
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 ###### ARTICULO 36.
 
@@ -869,9 +911,9 @@ XVII.- (DEROGADA, P.O. 7 DE JULIO DE 2012)
 
 XVIII.- Conceder al Ejecutivo por tiempo limitado y por el voto de las dos terceras partes de los Diputados presentes, las facultades extraordinarias que necesite en casos de invasión, alteración del orden o peligro público;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-XIX.- Designar al Consejero Presidente, a los Consejeros Electorales y al Contralor General del Instituto Electoral y de Participación Ciudadana de Tabasco, a los Magistrados del Tribunal Electoral de Tabasco. Otorgar o negar su aprobación a los nombramientos de los Magistrados del Tribunal de lo Contencioso Administrativo, así como al Presidente del Tribunal de Conciliación y Arbitraje, propuestos por el Gobernador. Designar a los Magistrados del Tribunal Superior de Justicia, a los Consejeros del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública y al Presidente de la Comisión Estatal de Derechos Humanos, conforme a la terna propuesta por el Gobernador del Estado; así como remitir a éste la terna para designar Procurador General de Justicia del Estado;
+XIX.- Designar al Consejero Presidente, a los Consejeros Electorales y al Contralor General del Instituto Electoral y de Participación Ciudadana de Tabasco, a los Magistrados del Tribunal Electoral de Tabasco. Otorgar o negar su aprobación a los nombramientos de los Magistrados del Tribunal de lo Contencioso Administrativo, así como al Presidente del Tribunal de Conciliación y Arbitraje, propuestos por el Gobernador. Designar a los Magistrados del Tribunal Superior de Justicia, a los Consejeros del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública; así como remitir al Gobernador del Estado la terna para designar Procurador General de Justicia del Estado;
 
 XX.- Dirimir los conflictos políticos y de límites entre el Municipio y el Estado y de los Municipios entre sí;
 
@@ -907,9 +949,9 @@ XXVIII.- Expedir la Ley Orgánica de los Municipios y demás leyes sobre la orga
 
 XXIX.- Autorizar la enajenación o gravámen de bienes inmuebles del Estado;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-XXX.- Recibir la protesta Constitucional a los Diputados, al Gobernador, a los Magistrados del Tribunal Superior de Justicia, a los Magistrados del Tribunal de lo Contencioso Administrativo, al Presidente de la Comisión Estatal de Derechos Humanos, al Consejero Presidente, a los Consejeros y al Contralor General, del Instituto Electoral y de Participación Ciudadana de Tabasco, Magistrados Electorales y a los Consejeros del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública y al Magistrado Presidente del Tribunal de Conciliación y Arbitraje;
+XXX.- Recibir la protesta constitucional a los diputados, al gobernador, a los magistrados del Tribunal Superior de Justicia, a los magistrados del Tribunal de lo Contencioso Administrativo; al titular de la presidencia de la Comisión Estatal de los Derechos Humanos; al consejero presidente, a los consejeros y al contralor general del Instituto Electoral y de Participación Ciudadana de Tabasco; a los magistrados electorales; a los consejeros del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública y al magistrado presidente del Tribunal de Conciliación y Arbitraje;
 
 XXXI.- Crear y suprimir empleos públicos del Estado según los requerimientos del servicio público y señalar, aumentar o disminuir las respectivas partidas presupuestarias atendiendo a las circunstancias del Erario;
 
@@ -965,11 +1007,19 @@ XLIII.- Aprobar, en su caso, los puntos de acuerdos legislativos o acuerdos econ
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2008)</small>
 
-XLIV.- Legislar en materia de proyectos y contratos para prestación de servicios, obra pública, adquisiciones y arrendamientos contraídos por el Estado y, en su caso, por los Municipios cuyas obligaciones tengan una vigencia plurianual. Estos contratos plurianuales deben ser presentados al Congreso del Estado para su autorización; y
+XLIV.- Legislar en materia de proyectos y contratos para prestación de servicios, obra pública, adquisiciones y arrendamientos contraídos por el Estado y, en su caso, por los Municipios cuyas obligaciones tengan una vigencia plurianual. Estos contratos plurianuales deben ser presentados al Congreso del Estado para su autorización; y (sic)
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-XLV.- Expedir las Leyes necesarias para hacer efectivas todas las anteriores facultades y las demás concedidas por esta Constitución, y las que las leyes le señalen, así como las que no estén expresamente reservadas a los Poderes de la Unión y correspondan a su régimen interior.
+XLV.- Legislar en materia de derechos humanos, y elegir al titular de la presidencia de la Comisión Estatal de los Derechos Humanos, y a los integrantes del Consejo Consultivo, mediante un procedimiento de consulta pública, que deberá ser transparente, en los términos y condiciones que mediante convocatoria se emita conforme las disposiciones previstas en la ley de la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+XLVI.- Solicitar a la Comisión Nacional de los Derechos Humanos, que investigue hechos que constituyan violaciones graves de derechos humanos; y
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+XLVII.- Expedir las leyes necesarias para hacer efectivas todas las anteriores facultades y las demás conferidas por esta Constitución.
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
 
@@ -981,9 +1031,9 @@ Sólo podrá aceptarse la licencia permanente, cuando a juicio del Congreso hubi
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
-### CAPITULO VII. DE LA FISCALIZACION SUPERIOR DEL ESTADO
+### CAPITULO VI. COMISION PERMANENTE Y SUS ATRIBUCIONES
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTICULO 38.
 
@@ -1021,9 +1071,9 @@ VIII.- Las que le imponga esta Constitución y las demás disposiciones legales.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE OCTUBRE DE 2002)</small>
 
-### CAPITULO I. DEL GOBERNADOR DEL ESTADO
+### CAPITULO VII. DE LA FISCALIZACION SUPERIOR DEL ESTADO
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2002)</small>
 
 ###### ARTICULO 40.
 
@@ -1115,7 +1165,7 @@ En los términos de la Ley de Responsabilidades de los Servidores Públicos, y c
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
-### CAPITULO II. FACULTADES Y OBLIGACIONES DEL GOBERNADOR
+### CAPITULO I. DEL GOBERNADOR DEL ESTADO
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -1215,7 +1265,7 @@ El Gobernador Constitucional del Estado sólo podrá solicitar licencia permanen
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
-### CAPITULO III. DE LAS DEPENDENCIAS QUE INTEGRAN EL PODER EJECUTIVO
+### CAPITULO II. FACULTADES Y OBLIGACIONES DEL GOBERNADOR
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -1285,15 +1335,19 @@ XVIII.- Acordar que concurran a las sesiones de la Legislatura el Secretario del
 
 XIX.- Pedir la protección de los Poderes de la Unión, en caso de sublevación o trastorno interior;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE OCTUBRE DE 1977)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-XX.- Las demás que le confiera esta Constitución y la Federal.
+XX.- Solicitar a la Comisión Nacional de los Derechos Humanos, que investigue hechos que constituyan violaciones graves de derechos humanos; y
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+XXI.- Las demás que le confiera esta Constitución y la Federal.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
-### CAPITULO UNICO
+### CAPITULO III. DE LAS DEPENDENCIAS QUE INTEGRAN EL PODER EJECUTIVO
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 ###### ARTICULO 52.
 
@@ -1317,17 +1371,11 @@ El Ministerio Público podrá considerar criterios de oportunidad para el ejerci
 
 El estado garantizará la existencia de un servicio de defensoría pública de calidad para la población y asegurarán las condiciones de un servicio profesional de carrera para los defensores. Las percepciones de los defensores no podrán ser inferiores a las que correspondan a los agentes del Ministerio Público.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2012)</small>
+> <small>(DEROGADO PÁRRAFO SÉPTIMO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-Existirá una Comisión de Derechos Humanos como organismo público descentralizado, cuya finalidad será la protección, promoción y difusión de los derechos humanos establecidos tanto por la Constitución General de la República, los Tratados y Convenciones que sobre esta materia haya celebrado o celebre el estado Mexicano, así como los consagrados en la presente Constitución. Para cumplimiento de lo anterior, esta Comisión conocerá de quejas en contra de los actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público del Estado, con excepción de los del Poder Judicial, que violen estos derechos. Formulará recomendaciones públicas autónomas, no vinculatorias, y en su caso, canalizará denuncias y quejas ante las autoridades respectivas.
+> <small>(DEROGADO PÁRRAFO OCTAVO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 1992)</small>
-
-Dicho organismo no será competente para conocer de asuntos electorales, laborales y jurisdiccionales.
-
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2012)</small>
-
-La ley que cree a la referida Comisión garantizará su autonomía y establecerá la organización adecuada para su óptimo funcionamiento.
+> <small>(DEROGADO PÁRRAFO NOVENO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -1349,7 +1397,7 @@ Los titulares de las Dependencias son responsables por el despacho de los asunto
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 1983)</small>
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2012)</small>
 
 ## TITULO VI. MUNICIPIO LIBRE
 
@@ -1357,7 +1405,7 @@ Los titulares de las Dependencias son responsables por el despacho de los asunto
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 1983)</small>
 
 ###### ARTICULO 55.
 
@@ -1635,15 +1683,15 @@ Los Magistrados y Jueces que integran el Poder Judicial del Estado, durarán och
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
 
 ## TITULO VIII. PREVENCIONES GENERALES
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
-### CAPITULO I. REFORMAS DE LA CONSTITUCION
+### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 ###### ARTICULO 64.
 
@@ -1849,9 +1897,9 @@ En lo conducente y de conformidad con los fines señalados en el párrafo tercer
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
-### CAPITULO II. INVIOLABILIDAD DE LA CONSTITUCION
+### CAPITULO I. REFORMAS DE LA CONSTITUCION
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTICULO 66.
 
@@ -1991,11 +2039,9 @@ Las leyes, en sus respectivos ámbitos de aplicación, garantizarán el estricto
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
-### CAPITULO I.
+### CAPITULO II. INVIOLABILIDAD DE LA CONSTITUCION
 
-RESPONSABILIDAD DE LOS FUNCIONARIOS PUBLICOS.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 30 DE DICIEMBRE DE 1970)</small>
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 ## Título Décimo.
 
@@ -2063,7 +2109,7 @@ El Estado coadyuvará con la Federación, promoviendo las condiciones para el de
 
 El Estado impulsará también, junto con la Federación, la organización para la producción, industrialización y comercialización, que requiera la economía estatal y el beneficio de los campesinos.
 
-> <small>N. DE E. EN TERMINOS DEL TERCERO TRANSITORIO DEL DECRETO DE REFORMA, SE MANTIENEN VIGENTES LOS DOCE PARRAFOS ANTERIORES.</small>
+> <small>N. DE E. EN TÉRMINOS DEL TERCERO TRANSITORIO DEL DECRETO DE REFORMA, SE MANTIENEN VIGENTES LOS DOCE PÁRRAFOS ANTERIORES.</small>
 
 > <small>(ADICIONADO, P.O. 11 DE JUNIO DE 1983)</small>
 
@@ -2483,7 +2529,7 @@ PRIMERO.- Las presentes reformas entrarán en vigor 15 días después de su publ
 
 SEGUNDO.- La Legislatura del Estado y los Ayuntamientos, dentro del año contando a partir de la iniciación de la vigencia de este Decreto, procederán a reformar, adicionar y a promulgar las Leyes Reglamentarias necesarias para proveer al cumplimiento de las bases Constitucionales establecidas en las presentes reformas.
 
-TERCERO.- Las contribuciones locales y las participaciones a que se refieren los incisos A) al C) de la Fracción V del Artículo 65 de la Constitución Política del Estado que se reforma se percibirán por los Municipios a partir del 1° de Enero de 1984.
+TERCERO.- Las contribuciones locales y las participaciones a que se refieren los incisos A) al C) de la fracción V del Artículo 65 de la Constitución Política del Estado que se reforma se percibirán por los Municipios a partir del 1° de Enero de 1984.
 
 CUARTO.- Estas reformas han sido aprobadas, en los términos del Artículo 83 de la Constitución Política del Estado, por la totalidad de los cabildos que integran los Ayuntamientos de esta Entidad Federativa.
 
@@ -2962,3 +3008,19 @@ CUARTO.- Se derogan del sistema jurídico local, todas las disposiciones que est
 QUINTO.- En el Presupuesto General de Egresos que corresponda deberán destinarse los recursos necesarios para implementar la reforma al sistema de justicia penal. Las partidas presupuestales deberán de señalarse en el presupuesto inmediato siguiente a la entrada en vigor del presente decreto y en los presupuestos sucesivos. Los recursos previstos deberán destinarse a la planeación, evaluación, diseño de las reformas legales, cambios organizacionales, construcción y operación de infraestructura, capacitación, difusión y tecnologías de la información y comunicación necesarias para todos los operadores del nuevo sistema.
 
 SEXTO. De conformidad con lo establecido en el artículo 83 de la Constitución Política del Estado Libre y Soberano de Tabasco, las presentes reformas fueron aprobadas por los Ayuntamientos de la entidad.
+
+P.O. 26 DE SEPTIEMBRE DE 2012.
+
+PRIMERO.- Este decreto iniciará su vigencia al día siguiente en que, habiéndose cumplido con las formalidades que se contrae el artículo 83 de la Constitución Política del Estado, y fuere declarado incorporado al texto constitucional, sea publicado en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Congreso del Estado, deberá adecuar en forma inmediata la Ley de la Comisión Estatal de los Derechos Humanos, atento al artículo transitorio séptimo del decreto de reformas publicado en el Diario Oficial de la Federación el día 10 de junio de 2011, y conforme a las disposiciones materia de este decreto.
+
+TERCERO.- El actual titular de la Comisión Estatal de los Derechos Humanos, cuya elección se realizó en los términos de las disposiciones anteriores a esta adecuación constitucional, continuará desempeñando el cargo hasta que concluya el período por el que ya fue reelecto, a cuyo término no podrá volver a reelegirse.
+
+CUARTO.- Se revisarán los nombramientos de los actuales miembros del Consejo Consultivo, para que oportunamente y conforme los términos de la ley en la materia, se realice en tiempo y forma la elección correspondiente a los nuevos integrantes.
+
+QUINTO.- Se derogan todas las disposiciones que contravengan los términos de este decreto.
+
+SEXTO.- Los bienes muebles, recursos humanos y en su caso bienes inmuebles que actualmente pertenecen o forman parte de la Comisión Estatal de Derechos Humanos, en su carácter de organismo descentralizado de la administración pública estatal pasará a formar parte del patrimonio del órgano autónomo, en términos de las disposiciones aplicables.
+
+SÉPTIMO.- De conformidad con lo establecido en el artículo 83 de la Constitución Política del Estado Libre y Soberano de Tabasco, las presentes reformas fueron aprobadas por los Ayuntamientos de la entidad.
