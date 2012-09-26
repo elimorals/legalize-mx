@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-instituto-chihuahuense-de-la-cultura-11964"
 country: "mx"
 rank: "ley"
 publication_date: "1991-01-19"
-last_updated: "2012-06-30"
+last_updated: "2012-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11964&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY DEL INSTITUTO CHIHUAHUENSE DE LA CULTURA
 
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 859/2012, PUBLICADO EN EL P.O. 26 DE SEPTIEMBRE DE 2012, CUANDO EN CUALQUIER OTRO INSTRUMENTO JURÍDICO SE HAGA REFERENCIA A LA SECRETARÍA DE FOMENTO SOCIAL, SE ENTENDERÁ CITADA A LA SECRETARÍA DE DESARROLLO SOCIAL.</small>
+
 LEY DEL INSTITUTO CHIHUAHUENSE DE LA CULTURA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 19 de enero de 1991.
 
@@ -123,21 +125,29 @@ El órgano de vigilancia estará integrado por un Comisario Público propietario
 
 El Consejo Estatal es la máxima autoridad del Instituto y estará integrado por:
 
-I.- El Titular de la Secretaría de Educación y Cultura, o por la persona que éste designe;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-II.- El Titular de la Secretaría de Fomento Social;
+l.- El Titular de la Secretaría de Educación, Cultura y Deporte, o por la persona que éste designe;
 
-III.- El Titular de la Secretaría de Planeación y Evaluación;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
-IV.- El de la Secretaría de Desarrollo Municipal; y
+II.- El Titular de la Secretaría de Desarrollo Social;
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+III.- El Titular de la Secretaría de Hacienda:
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+IV.- El Titular de la Secretaría General de Gobierno; y
 
 V.- Un representante de organismos sociales y uno de organismos privados que promuevan el desarrollo de las actividades culturales en el Estado, por invitación del Presidente del Consejo Estatal.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTICULO 7.
 
-El Presidente del Consejo Estatal será el Secretario de Educación y Cultura, o la persona en quien delegue su representación. A su vez, cada miembro del Consejo podrá designar a su respectivo suplente.
+El Presidente del Consejo Estatal será el Secretario de Educación, Cultura y Deporte, o la persona en quien delegue su representación. A su vez, cada miembro del Consejo podrá designar a su respectivo suplente.
 
 ###### ARTICULO 8.
 
@@ -400,3 +410,13 @@ P.O. 30 DE JUNIO DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE SEPTIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Cuando en cualquier otro instrumento jurídico se haga referencia a la Secretaría de Fomento Social, se entenderá citada a la Secretaría de Desarrollo Social sin que ello afecte su competencia, derechos u obligaciones que haya contraído con antelación a la entrada en vigor del presente Decreto.
