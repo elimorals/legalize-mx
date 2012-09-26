@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-juventud-para-el-estado-de-chihuahua-antes-ley-del-47277
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-10"
-last_updated: "2011-11-12"
+last_updated: "2012-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHH"
 
 LEY DE JUVENTUD PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO No. 859/2012 VII P.E., PUBLICADO EN EL P.O. 26 DE SEPTIEMBRE DE 2012, CUANDO EN CUALQUIER OTRO INSTRUMENTO JURÍDICO SE HAGA REFERENCIA A LA SECRETARÍA DE FOMENTO SOCIAL, SE ENTENDERÁ CITADA A LA SECRETARÍA DE DESARROLLO SOCIAL SIN QUE ELLO AFECTE SU COMPETENCIA, DERECHOS U OBLIGACIONES QUE HAYA CONTRAÍDO CON ANTELACIÓN A LA ENTRADA EN VIGOR DEL CITADO DECRETO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 10 de diciembre de 2005.
 
@@ -37,7 +39,7 @@ DECRETO N°.
 
 335/05 I P.O.
 
-LA SEXAGÉSIMA PRIMERA LEGISLATURA DEL HONORABLE CONGRESO DEL ESTADO DE CHIHUAHUA, REUNIDAD EN SU PRIMER PERÍODO ORDINARIO DE SESIONES, DENTRO DE SU SEGUNDO AÑO DE EJERCICIO CONSTITUCIONAL,
+LA SEXAGÉSIMA PRIMERA LEGISLATURA DEL HONORABLE CONGRESO DEL ESTADO DE CHIHUAHUA, REUNIDA EN SU PRIMER PERÍODO ORDINARIO DE SESIONES, DENTRO DE SU SEGUNDO AÑO DE EJERCICIO CONSTITUCIONAL,
 
 DECRETA
 
@@ -45,21 +47,21 @@ DECRETA
 
 Se crea la Ley del Instituto Chihuahuense de la Juventud para el Estado de Chihuahua, para quedar redactada de la siguiente manera:
 
-> <small>N. DE E. LAS REFORMAS APROBADAS EN EL DECRETO NUMERO 744/09 I P.O. POR LA SEXAGESIMA SEGUNDA LEGISLATURA, MODIFICA DE MANERA SUSTANCIAL PRACTICAMENTE TODO EL TEXTO DE LA PRESENTE LEY DANDO COMO RESULTADO UN TEXTO DIFERENTE AL ORIGINAL, Y SI BIEN DIVERSOS ARTICULOS QUEDARON INTACTOS POR LA MODIFICACION, DEBIDO A LO ANTERIOR SE PRESENTA EL TEXTO APROBADO Y PUBLICADO EN EL P.O. DE 3 DE FEBRERO DE 2010.</small>
+> <small>N. DE E. LAS REFORMAS APROBADAS EN EL DECRETO NÚMERO 744/09 I P.O. POR LA SEXAGÉSIMA SEGUNDA LEGISLATURA, MODIFICA DE MANERA SUSTANCIAL PRÁCTICAMENTE TODO EL TEXTO DE LA PRESENTE LEY DANDO COMO RESULTADO UN TEXTO DIFERENTE AL ORIGINAL, Y SI BIEN DIVERSOS ARTÍCULOS QUEDARON INTACTOS POR LA MODIFICACIÓN, DEBIDO A LO ANTERIOR SE PRESENTA EL TEXTO APROBADO Y PUBLICADO EN EL P.O. DE 3 DE FEBRERO DE 2010.</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE LEY, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE LEY, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE FEBRERO DE 2010)</small>
 
 LEY DE JUVENTUD PARA EL ESTADO DE CHIHUAHUA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
@@ -67,7 +69,7 @@ LEY DE JUVENTUD PARA EL ESTADO DE CHIHUAHUA
 
 La presente Ley es de orden público e interés social y tiene por objeto garantizar las condiciones para el ejercicio pleno de los derechos de las personas jóvenes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
@@ -83,7 +85,7 @@ III. La estructura orgánica y atribuciones del Instituto Chihuahuense de la Juv
 
 IV. Los medios de participación de las personas jóvenes en el diseño, instrumentación, evaluación y el seguimiento de las políticas públicas en la materia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
@@ -91,7 +93,7 @@ IV. Los medios de participación de las personas jóvenes en el diseño, instrum
 
 Para los efectos de esta Ley, se considera persona joven aquella cuya edad esté comprendida entre los 12 y 29 años cumplidos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
@@ -99,7 +101,7 @@ Para los efectos de esta Ley, se considera persona joven aquella cuya edad esté
 
 Las personas jóvenes gozan de todos los derechos garantizados en la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, instrumentos internacionales sobre derechos humanos y en la legislación especial relativa al tema.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
@@ -107,13 +109,13 @@ Las personas jóvenes gozan de todos los derechos garantizados en la Constituci�
 
 Las disposiciones del presente ordenamiento son complementarias a las establecidas para quienes se encuentren entre los 12 años de edad y menores de 18, previstas en las leyes específicas para las personas menores de edad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
 ### CAPÍTULO II. DE LA POLÍTICA PÚBLICA ESTATAL EN MATERIA DE JUVENTUD
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
@@ -129,7 +131,7 @@ III. La autonomía progresiva en el ejercicio de los derechos de las personas j�
 
 IV. La corresponsabilidad entre las personas jóvenes, su familia, la sociedad y el Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
@@ -169,7 +171,7 @@ XV. Generar acciones para la prevención del delito y programas de reinserción 
 
 XVI. Fomentar la cultura de la legalidad, el respeto de los derechos humanos y la solución pacífica de los conflictos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
@@ -177,7 +179,7 @@ XVI. Fomentar la cultura de la legalidad, el respeto de los derechos humanos y l
 
 El Instituto Chihuahuense de la Juventud participará, conjuntamente con las dependencias y entidades de la administración pública estatal, en la formulación de los programas y proyectos de la política pública en la materia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
@@ -187,7 +189,7 @@ Los recursos destinados a los programas y proyectos para las personas jóvenes s
 
 La información referida en el párrafo anterior, formará parte del Sistema de Información para el Desarrollo Social y Humano.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
@@ -195,21 +197,19 @@ La información referida en el párrafo anterior, formará parte del Sistema de 
 
 Los objetivos de la política municipal deberán ser congruentes con los que correspondan a la política nacional y estatal en la materia, atendiendo a las particularidades propias del municipio.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
 ### CAPÍTULO III. DEL INSTITUTO CHIHUAHUENSE DE LA JUVENTUD
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 11.
 
-Se crea el Instituto Chihuahuense de la Juventud, como Organismo Descentralizado de la Administración Pública Estatal, sectorizado a la Secretaría de Fomento Social, con personalidad jurídica y patrimonio propios, con domicilio en la ciudad de Chihuahua, Chihuahua; tendrá como objeto asesorar y auxiliar al Poder Ejecutivo del Estado en la formulación e instrumentación de la política pública en materia de juventud.
+Se crea el Instituto Chihuahuense de la Juventud, como Organismo Descentralizado de la Administración Pública Estatal, sectorizado a la Secretaría de Desarrollo Social, con personalidad jurídica y patrimonio propios, con domicilio en la ciudad de Chihuahua, Chihuahua; tendrá como objeto asesorar y auxiliar al Poder Ejecutivo del Estado en la formulación e instrumentación de la política pública en materia de juventud.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
@@ -267,7 +267,7 @@ XXIV. Operar un Sistema de Comunicación que permita vincular al Instituto, pers
 
 XXV. Las demás que le otorguen la presente Ley y otras disposiciones aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
@@ -287,7 +287,7 @@ V. Los recursos que el propio Instituto genere, y
 
 VI. Los demás recursos, bienes y derechos que adquiera o reciba por cualquier título legal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
@@ -295,7 +295,7 @@ VI. Los demás recursos, bienes y derechos que adquiera o reciba por cualquier t
 
 Los estados financieros del Instituto deberán acompañarse a la cuenta pública anual de Gobierno del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
@@ -309,7 +309,7 @@ II. Dirección General, y
 
 III. Órgano de Vigilancia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
@@ -317,7 +317,9 @@ III. Órgano de Vigilancia.
 
 La Junta Directiva se integrará por quien ocupe la titularidad de las siguientes instancias:
 
-I. Secretaría de Fomento Social;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+I. Secretaría de Desarrollo Social;
 
 > <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2011)</small>
 
@@ -343,15 +345,13 @@ VII. Dirección General del Instituto Chihuahuense de la Juventud, y
 
 VIII. Tres integrantes del Consejo Estatal de la Juventud.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 17.
 
-La Presidencia de la Junta Directiva recaerá en quien ocupe la titularidad de la Secretaría de Fomento Social.
+La Presidencia de la Junta Directiva recaerá en quien ocupe la titularidad de la Secretaría de Desarrollo Social.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
@@ -359,7 +359,7 @@ La Presidencia de la Junta Directiva recaerá en quien ocupe la titularidad de l
 
 Quien ocupe la titularidad de la Dirección General del Instituto Chihuahuense de la Juventud, únicamente tendrá derecho a voz en las sesiones de la Junta Directiva.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
@@ -367,7 +367,7 @@ Quien ocupe la titularidad de la Dirección General del Instituto Chihuahuense d
 
 Podrán participar en la Junta Directiva, con derecho a voz, los titulares o delegados de las dependencias y entidades de la administración pública federal, estatal y municipal, así como las demás personas que se estime necesario, a invitación expresa de quien ocupe el cargo de Presidente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
@@ -375,7 +375,7 @@ Podrán participar en la Junta Directiva, con derecho a voz, los titulares o del
 
 Los miembros de la Junta Directiva serán suplidos en sus ausencias en los términos que señala la Ley de Entidades Paraestatales del Estado de Chihuahua.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
@@ -383,7 +383,7 @@ Los miembros de la Junta Directiva serán suplidos en sus ausencias en los térm
 
 La Junta Directiva celebrará, como mínimo, seis sesiones ordinarias por año, y las extraordinarias que se requieran para el cumplimiento de sus atribuciones.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
@@ -417,7 +417,7 @@ XII. Realizar los actos que sean necesarios para el cumplimiento de las atribuci
 
 XIII. Las demás facultades que le otorgue esta Ley y otras disposiciones aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
@@ -427,7 +427,7 @@ La Dirección General del Instituto Chihuahuense de la Juventud será ocupada po
 
 La designación será por un período de tres años y podrá ampliarse por un lapso igual, siempre que al inicio del segundo período la persona cumpla con los requisitos dispuestos en el artículo 24 del presente ordenamiento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
@@ -447,7 +447,7 @@ V. No estar inhabilitado, mediante resolución de autoridad competente, para des
 
 VI. No haber sido condenado por la comisión de algún delito doloso.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
@@ -481,7 +481,7 @@ XII. Asumir el carácter de Secretario de Actas en las sesiones de la Junta Dire
 
 XIII. Las demás que le confieran la presente Ley, otras disposiciones jurídicas aplicables o las encomendadas por la Junta Directiva.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
@@ -499,7 +499,7 @@ IV. Asistir con derecho a voz a las sesiones de la Junta Directiva, y
 
 V. Las demás previstas en otros ordenamientos jurídicos aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
@@ -507,7 +507,7 @@ V. Las demás previstas en otros ordenamientos jurídicos aplicables.
 
 La Secretaría de la Contraloría del Estado, así como la Auditoría Superior del Estado, realizarán auditorías y revisiones al Instituto, a fin de supervisar el adecuado funcionamiento del ejercicio y control presupuestal, el cumplimiento de las responsabilidades a cargo de los servidores públicos y, en su caso, promover lo necesario para corregir las deficiencias u omisiones en que se hubiera incurrido, además de lo que contemplan las disposiciones legales aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
@@ -515,13 +515,13 @@ La Secretaría de la Contraloría del Estado, así como la Auditoría Superior d
 
 Los trabajadores al servicio del Instituto estarán sujetos, en sus relaciones laborales, a lo dispuesto por el apartado A del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y su Ley Reglamentaria.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
 ### CAPÍTULO IV. DEL CONSEJO ESTATAL DE LA JUVENTUD
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
@@ -529,7 +529,7 @@ Los trabajadores al servicio del Instituto estarán sujetos, en sus relaciones l
 
 El Consejo Estatal de la Juventud es un órgano de deliberación, asesoría y consulta del Instituto Chihuahuense de la Juventud, que tiene por objeto contribuir a que las personas jóvenes participen efectivamente en el diseño, instrumentación y evaluación de los programas y proyectos de la política pública en la materia que regula el presente ordenamiento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE FEBRERO DE 2010)</small>
 
@@ -537,7 +537,9 @@ El Consejo Estatal de la Juventud es un órgano de deliberación, asesoría y co
 
 El Consejo se integrará por:
 
-I. La persona que ocupe la titularidad de la Secretaría de Fomento Social, quien lo presidirá;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+I. La persona que ocupe la titularidad de la Secretaría de Desarrollo Social, quien lo presidirá;
 
 II. Una Secretaría Técnica, que recaerá en quien ocupe la titularidad de la Dirección General del Instituto Chihuahuense de la Juventud;
 
@@ -551,7 +553,7 @@ V. Diez personas jóvenes que participen en organismos o asociaciones del sector
 
 VI. Un integrante de la Comisión de Juventud y Deporte del H. Congreso del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE FEBRERO DE 2010)</small>
 
@@ -561,7 +563,7 @@ Las personas a que se refieren las fracciones IV y V del artículo anterior, ser
 
 Durarán en su cargo dos años y podrán ser removidas por la falta injustificada a dos sesiones continuas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE FEBRERO DE 2010)</small>
 
@@ -569,7 +571,7 @@ Durarán en su cargo dos años y podrán ser removidas por la falta injustificad
 
 El cargo de Consejero será honorífico, por lo que no se percibirá remuneración alguna por su desempeño.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE FEBRERO DE 2010)</small>
 
@@ -591,7 +593,7 @@ VI. Participar en la selección de las personas jóvenes que deban ser premiadas
 
 VII. Las demás que resulten necesarias para el cumplimiento de su objeto.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE FEBRERO DE 2010)</small>
 
@@ -601,7 +603,7 @@ El Consejo Estatal de la Juventud sesionará de forma ordinaria cada dos meses, 
 
 En ambos casos, para la validez de las sesiones, se requerirá que la convocatoria haya sido suscrita por quienes ocupen la titularidad de la Presidencia y de la Secretaría Técnica, que además se haya notificado con un mínimo de cinco días hábiles de antelación a la sesión correspondiente y que hubiesen asistido más de la mitad de sus miembros, si se tratare de una sesión ordinaria; las sesiones extraordinarias serán válidas con el número de miembros que asistan a la misma.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE FEBRERO DE 2010)</small>
 
@@ -609,13 +611,13 @@ En ambos casos, para la validez de las sesiones, se requerirá que la convocator
 
 Los acuerdos del Consejo Estatal de la Juventud se tomarán por mayoría de los presentes, teniendo el Presidente voto de calidad en caso de empate. De cada sesión del Consejo se levantará el acta correspondiente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
 ### CAPÍTULO V. DEL SISTEMA DE INFORMACIÓN EN MATERIA DE JUVENTUD
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE FEBRERO DE 2010)</small>
 
@@ -623,7 +625,7 @@ Los acuerdos del Consejo Estatal de la Juventud se tomarán por mayoría de los 
 
 El Sistema mencionado en la fracción XXIII del artículo 12, formará parte del Sistema de Información para el Desarrollo Social y Humano; tendrá como objetivo fundamental sistematizar la información para el diagnóstico, formulación, seguimiento y evaluación de la política pública en materia de juventud.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE FEBRERO DE 2010)</small>
 
@@ -645,7 +647,7 @@ VI. Los estudios e investigaciones realizados y la información estadística gen
 
 VII. Los informes, quejas y denuncias que se formulen respecto de los programas, proyectos y servicios públicos en la materia, en los términos de las disposiciones legales aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE FEBRERO DE 2010)</small>
 
@@ -653,7 +655,7 @@ VII. Los informes, quejas y denuncias que se formulen respecto de los programas,
 
 Los gobiernos municipales, en el ámbito de sus atribuciones, coadyuvarán a la integración y actualización del Sistema de Información referido en el artículo anterior.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE FEBRERO DE 2010)</small>
 
@@ -661,13 +663,13 @@ Los gobiernos municipales, en el ámbito de sus atribuciones, coadyuvarán a la 
 
 Los datos contenidos en el Sistema de Información en Materia de Juventud, quedarán sujetos a lo establecido en la Ley de Transparencia y Acceso a la Información Pública del Estado de Chihuahua y demás ordenamientos aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
 ### CAPÍTULO VI. DE LA PARTICIPACIÓN
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE FEBRERO DE 2010)</small>
 
@@ -675,7 +677,7 @@ Los datos contenidos en el Sistema de Información en Materia de Juventud, queda
 
 A fin de fomentar la ciudadanía plena, las personas jóvenes y las organizaciones que formen, podrán participar en el diseño, ejecución y evaluación de las políticas, programas y proyectos en la materia que regula el presente ordenamiento, conforme a las reglas que para tal efecto emita el Poder Ejecutivo del Estado, a través del Instituto Chihuahuense de la Juventud, y los ayuntamientos en el ámbito de su competencia, de acuerdo a lo establecido en el presente ordenamiento, la Ley de Desarrollo Social y Humano para el Estado de Chihuahua y demás disposiciones aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE FEBRERO DE 2010)</small>
 
@@ -683,7 +685,7 @@ A fin de fomentar la ciudadanía plena, las personas jóvenes y las organizacion
 
 El Consejo de Desarrollo Social y Participación Ciudadana deberá incorporar a la comisión o grupo de trabajo cuyas actividades se vinculen a aspectos relacionados con las personas jóvenes, al número de representantes de organizaciones de este grupo etario que le permitan las disposiciones jurídicas que regulan su conformación y funcionamiento, con el propósito de facilitar su participación activa en el análisis, formulación, diseño y operación de las políticas públicas en la materia que aborda el presente ordenamiento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE FEBRERO DE 2010)</small>
 
@@ -691,13 +693,13 @@ El Consejo de Desarrollo Social y Participación Ciudadana deberá incorporar a 
 
 Las organizaciones juveniles cuyos objetivos se enfoquen al desarrollo social y al apoyo comunitario, tendrán derecho a recibir asesoría, orientación y recursos para la realización de tales actividades. Para este efecto, deberán presentar el proyecto correspondiente ante el Instituto Chihuahuense de la Juventud.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
 
 ### CAPÍTULO VII. DE LAS SANCIONES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE FEBRERO DE 2010)</small>
 
@@ -705,7 +707,7 @@ Las organizaciones juveniles cuyos objetivos se enfoquen al desarrollo social y 
 
 Las organizaciones juveniles que reciban recursos públicos y no los apliquen al objeto para el cual fueron otorgados, o infrinjan lo establecido en la presente Ley y demás ordenamientos aplicables, estarán sujetas a las sanciones previstas por la Ley de Desarrollo Social y Humano para el Estado de Chihuahua.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE FEBRERO DE 2010)</small>
 
@@ -713,7 +715,7 @@ Las organizaciones juveniles que reciban recursos públicos y no los apliquen al
 
 Los servidores públicos que en ejercicio de sus funciones o con motivo de ellas contravengan las disposiciones del presente ordenamiento, serán acreedores a las sanciones previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Chihuahua y demás ordenamientos aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE FEBRERO DE 2010)</small>
 
@@ -765,7 +767,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. FERNANDO RODRIGUEZ MORENO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 12 DE SEPTIEMBRE DE 2007.
 
@@ -818,3 +820,13 @@ SÉPTIMO. El Titular del Poder Ejecutivo Estatal deberá expedir el Reglamento d
 P.O. 12 DE NOVIEMBRE DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE SEPTIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Cuando en cualquier otro instrumento jurídico se haga referencia a la Secretaría de Fomento Social, se entenderá citada a la Secretaría de Desarrollo Social sin que ello afecte su competencia, derechos u obligaciones que haya contraído con antelación a la entrada en vigor del presente Decreto.
