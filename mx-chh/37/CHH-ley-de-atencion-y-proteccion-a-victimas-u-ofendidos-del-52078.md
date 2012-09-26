@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-atencion-y-proteccion-a-victimas-u-ofendidos-del-52078"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-21"
-last_updated: "2012-06-16"
+last_updated: "2012-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52078&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHH"
 
 LEY DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS U OFENDIDOS DEL DELITO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO No. 859/2012 VII P.E., PUBLICADO EN EL P.O. 26 DE SEPTIEMBRE DE 2012, CUANDO EN CUALQUIER OTRO INSTRUMENTO JURÍDICO SE HAGA REFERENCIA A LA SECRETARÍA DE FOMENTO SOCIAL, SE ENTENDERÁ CITADA A LA SECRETARÍA DE DESARROLLO SOCIAL SIN QUE ELLO AFECTE SU COMPETENCIA, DERECHOS U OBLIGACIONES QUE HAYA CONTRAÍDO CON ANTELACIÓN A LA ENTRADA EN VIGOR DEL CITADO DECRETO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 21 de octubre del 2006.
 
@@ -71,7 +73,9 @@ III. Código de Procedimientos Penales.- El Código de Procedimientos Penales pa
 
 IV. Fiscalía General.- La Fiscalía General del Estado;
 
-V. Secretaría.- La Secretaría de Fomento Social del Estado;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
+V. Secretaría.- La Secretaría de Desarrollo Social del Estado;
 
 VI. DIF.- El Sistema para el Desarrollo Integral de la Familia en el Estado de Chihuahua;
 
@@ -408,3 +412,13 @@ P.O. 16 DE JUNIO DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE SEPTIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Cuando en cualquier otro instrumento jurídico se haga referencia a la Secretaría de Fomento Social, se entenderá citada a la Secretaría de Desarrollo Social sin que ello afecte su competencia, derechos u obligaciones que haya contraído con antelación a la entrada en vigor del presente Decreto.
