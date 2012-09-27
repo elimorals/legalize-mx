@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-37204"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-02-07"
-last_updated: "2012-09-06"
+last_updated: "2012-09-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 2004.
 
@@ -1803,13 +1803,17 @@ III. Las políticas, planes y programas para el fortalecimiento de la Educación
 
 IV. La propuesta ante la Junta de Coordinación Política de la terna para el nombramiento del titular del órgano técnico de Educación;
 
-> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2007)</small>
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2012)</small>
 
-V. La supervisión y coordinación del órgano técnico de Educación; y
+V. La supervisión y coordinación del Órgano Técnico de Educación;
 
-> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2007)</small>
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2012)</small>
 
-VI. La propuesta a la Asamblea del nombramiento y la remoción de los servidores públicos del órgano técnico de Educación.
+VI. La propuesta a la Asamblea del nombramiento y la remoción de los servidores públicos del Órgano Técnico de Educación, y
+
+> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2012)</small>
+
+VI (SIC). Establecer las bases y organizar anualmente el Parlamento Infantil del Estado de Jalisco.
 
 ###### Artículo 85.
 
@@ -4156,3 +4160,7 @@ P.O. 23 DE AGOSTO DE 2012.
 P.O. 6 DE SEPTIEMBRE DE 2012.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 27 DE SEPTIEMBRE DE 2012.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
