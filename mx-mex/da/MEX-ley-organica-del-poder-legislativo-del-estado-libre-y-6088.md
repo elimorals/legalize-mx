@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2012-09-24"
+last_updated: "2012-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE AGOSTO DE 2012.
 
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.G. DE 24 DE SEPTIEMBRE DE 2012 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 509 PUBLICADO EN LA G.G. DE 30 DE AGOSTO DE 2012.</small>
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA G.G. DE 27 DE SEPTIEMBRE DE 2012.</small>
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -1245,23 +1245,7 @@ Los integrantes de las comisiones o comités sólo podrán ser sustituidos por c
 
 ### CAPÍTULO II. DE LA MESA TECNICA DE LA LEGISLATURA
 
-> <small>(ADICIONADO, G.G. 30 DE AGOSTO DE 2012)</small>
-
-Artículo 96 TER (SIC).- La Junta de Coordinación Política podrá constituir la Mesa Técnica, como un órgano de asesoría y opinión, para facilitar los trabajos de estudio de las iniciativas y de los asuntos turnados a las Comisiones o Comités, que le sean encomendados por la Junta de Coordinación Política.
-
-Funcionará de manera colegiada y en su integración, se observará la representación de la pluralidad de la Legislatura y serán miembros de la Mesa Técnica:
-
-I. Permanentes: La Secretaría de Asuntos Parlamentarios; el Secretario Técnico de la Junta de Coordinación Política; el Coordinador de Enlace Parlamentario o su equivalente que será designado por la Junta de Coordinación Política; los Coordinadores de Asesores de los diferentes grupos parlamentarios o sus equivalentes;
-
-II. Temporales: Los titulares de las dependencias que integran la Legislatura y los Secretarios Técnicos de las Comisiones o Comités Legislativos, cuando se requiera un informe o apoyo técnico; e
-
-III. Invitados: Los servidores públicos de los tres ámbitos de gobierno, representantes de instituciones académicas, asociaciones de profesionistas y organizaciones sociales, previa invitación del Presidente de la Junta de Coordinación Política, cuando se necesite una opinión especializada para el análisis legislativo.
-
-La Mesa Técnica será presidida por el titular de la Coordinación de Enlace Parlamentario o su equivalente, quien convocará a reuniones de trabajo, cuantas veces sea necesario, por lo menos con veinticuatro horas de anticipación, anexando la propuesta de orden del día correspondiente.
-
-Los acuerdos serán rubricados por sus miembros, y tomados bajo los principios de institucionalidad, profesionalismo, orden, respeto, objetividad y tolerancia, y serán supervisados por la Secretaría de Asuntos Parlamentarios y servirán, en su caso, de apoyo para el cumplimiento de las atribuciones legislativas.
-
-El Presidente de la Junta de Coordinación Política, procurará que los miembros de la Mesa Técnica Jurídica, accedan permanentemente a programas de actualización y especialización técnica legislativa.
+(ADICIONADO, G.G. 30 DE AGOSTO DE 2012) (F. DE E., G.G. 27 DE SEPTIEMBRE DE 2012)
 
 ###### Artículo 78.
 
@@ -1462,6 +1446,24 @@ La Secretaría de Asuntos Parlamentarios, contará dentro de su estructura con e
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 30 DE AGOSTO DE 2012)</small>
 
 ### CAPITULO II. DEL JURADO DE PROCEDENCIA
+
+###### Artículo 96 Bis.
+
+La Junta de Coordinación Política podrá constituir la Mesa Técnica, como un órgano de asesoría y opinión, para facilitar los trabajos de estudio de las iniciativas y de los asuntos turnados a las Comisiones o Comités, que le sean encomendados por la Junta de Coordinación Política.
+
+Funcionará de manera colegiada y en su integración, se observará la representación de la pluralidad de la Legislatura y serán miembros de la Mesa Técnica:
+
+I. Permanentes: La Secretaría de Asuntos Parlamentarios; el Secretario Técnico de la Junta de Coordinación Política; el Coordinador de Enlace Parlamentario o su equivalente que será designado por la Junta de Coordinación Política; los Coordinadores de Asesores de los diferentes grupos parlamentarios o sus equivalentes;
+
+II. Temporales: Los titulares de las dependencias que integran la Legislatura y los Secretarios Técnicos de las Comisiones o Comités Legislativos, cuando se requiera un informe o apoyo técnico; e
+
+III. Invitados: Los servidores públicos de los tres ámbitos de gobierno, representantes de instituciones académicas, asociaciones de profesionistas y organizaciones sociales, previa invitación del Presidente de la Junta de Coordinación Política, cuando se necesite una opinión especializada para el análisis legislativo.
+
+La Mesa Técnica será presidida por el titular de la Coordinación de Enlace Parlamentario o su equivalente, quien convocará a reuniones de trabajo, cuantas veces sea necesario, por lo menos con veinticuatro horas de anticipación, anexando la propuesta de orden del día correspondiente.
+
+Los acuerdos serán rubricados por sus miembros, y tomados bajo los principios de institucionalidad, profesionalismo, orden, respeto, objetividad y tolerancia, y serán supervisados por la Secretaría de Asuntos Parlamentarios y servirán, en su caso, de apoyo para el cumplimiento de las atribuciones legislativas.
+
+El Presidente de la Junta de Coordinación Política, procurará que los miembros de la Mesa Técnica Jurídica, accedan permanentemente a programas de actualización y especialización técnica legislativa.
 
 ## TITULO CUARTO. DEL JUICIO POLITICO Y DECLARACION DE PROCEDENCIA
 
