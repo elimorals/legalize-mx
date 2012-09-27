@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2012-04-21"
+last_updated: "2012-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 CÓDIGO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2011.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 21 DE ABRIL DE 2012 NO APLICA AL ARTICULADO DEL DECRETO 28645/LIX/11 PUBLICADO EN EL P.O. DE 15 DE DICIEMBRE DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2012.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -4793,7 +4791,7 @@ II. Cuando el incapacitado sujeto a tutela, entre a la patria potestad por cualq
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
 ###### Art. 751.
 
@@ -4929,15 +4927,29 @@ El patrimonio de familia
 
 Serán objeto del patrimonio de familia:
 
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
 I. La casa que ésta habita, incluyendo el mobiliario y equipo de la vivienda;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
 II. Un vehículo automotor;
 
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
 III. El equipo y herramienta de la micro o pequeña industria que sirva de sustento conómico (sic) a la familia;
 
-IV. La parcela cultivable de dominio pleno; y
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2012)</small>
 
-V. La pequeña propiedad en los Términos de la Ley Agraria.
+IV. La parcela cultivable de dominio pleno;
+
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2012)</small>
+
+V. La pequeña propiedad, en los términos de la Ley Agraria, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE SEPTIEMBRE DE 2012)</small>
+
+VI. El lote destinado a la construcción de casa-habitación para la familia.
 
 ###### Art. 778.
 
@@ -18122,5 +18134,9 @@ P.O. 15 DE DICIEMBRE DE 2011.
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 27 DE DICIEMBRE DE 2011.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 27 DE SEPTIEMBRE DE 2012.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
