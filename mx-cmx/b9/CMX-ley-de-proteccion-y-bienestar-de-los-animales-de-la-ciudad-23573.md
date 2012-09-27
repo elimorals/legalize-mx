@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-proteccion-y-bienestar-de-los-animales-de-la-ciudad-2357
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-26"
-last_updated: "2012-06-18"
+last_updated: "2012-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23573&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-01-08"
 
 LEY DE PROTECCIÓN A LOS ANIMALES DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 26 de febrero de 2002.
 
@@ -1080,6 +1080,10 @@ Las instalaciones para animales deportivos, centros para la práctica de la equi
 
 Los refugios, asilos y albergues para animales, clínicas veterinarias, centros de control animal, instituciones de educación superior e investigación científica, laboratorios, escuelas de adiestramiento y demás instalaciones creadas para alojar temporal o permanentemente a los animales, deben contar con personal capacitado e instalaciones adecuadas, y serán objeto de regulación específica en el reglamento de la presente Ley.
 
+> <small>(ADICIONADO, G.O. 27 DE SEPTIEMBRE DE 2012)</small>
+
+Asimismo, tendrán la obligación de separar de forma adecuada y segura los residuos de manejo especial, con la finalidad de que no sean mezclados con los residuos urbanos, de conformidad con la ley en la materia.
+
 Si el animal bajo su custodia contrae alguna enfermedad infecto contagiosa se le comunicará de inmediato a la o el propietario o responsable y a la autoridad correspondiente.
 
 > <small>(REFORMADO, G.O. 13 DE OCTUBRE DE 2006)</small>
@@ -1535,3 +1539,7 @@ G.O. 18 DE JUNIO DE 2012.
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación, para su mayor difusión.
 
 SEGUNDO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 27 DE SEPTIEMBRE DE 2012.
+
+ÚNICO.- El presente decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión en el Diario Oficial de la Federación.
