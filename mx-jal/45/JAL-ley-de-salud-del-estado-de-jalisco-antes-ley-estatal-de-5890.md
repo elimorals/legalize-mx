@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-antes-ley-estatal-de-5890"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-30"
-last_updated: "2012-09-22"
+last_updated: "2012-09-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5890&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,17 @@ state: "JAL"
 ---
 # LEY DE SALUD DEL ESTADO DE JALISCO - ANTES LEY ESTATAL DE SALUD-
 
-LEY ESTATAL DE SALUD DEL ESTADO DE JALISCO
+LEY DE SALUD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 30 de diciembre de 1986.
 
-Decreto Número 12678. Ley Estatal de Salud.
+Decreto Número 12678.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE SEPTIEMBRE DE 2012)</small>
+
+Ley de Salud del Estado de Jalisco
 
 ## TITULO PRIMERO. Disposiciones generales
 
@@ -543,9 +547,17 @@ La educación para la salud tiene por objeto:
 
 I. Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños producto de los efectos nocivos del medio ambiente en la salud;
 
-II. Fomentar en la población el desarrollo de actitudes y conductas que le permitan participar en la prevención de enfermedades individuales, colectivas, accidentes y protegerse de los riesgos que pongan en peligro su salud; y
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2012)</small>
 
-III. Orientar y capacitar a la población, preferentemente, en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, riesgos de automedicación, prevención de la farmacodependencia, alcoholismo, tabaquismo, inhalantes y otras substancias tóxicas, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes, prevención de rehabilitación de la invalidez y detección oportuna de enfermedades.
+II. Fomentar en la población el desarrollo de actitudes y conductas que le permitan participar en la prevención de enfermedades individuales, colectivas, accidentes y protegerse de los riesgos que pongan en peligro su salud;
+
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2012)</small>
+
+III. Orientar y capacitor (sic) a la población, preferentemente, en materia de nutrición, salud mental, salud bucal, educación sexual, planificación famiiiar (sic), riesgos de automedicación, prevención de la farmacodependencia, alcoholismo, tabaquismo, inhalantes y otras sustancias tóxicas, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes, prevención de rehabilitación de la invalidez y detección oportuna de enfermedades, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE SEPTIEMBRE DE 2012)</small>
+
+IV. Fomentar en la población la cultura de la donación de sangre, órganos y tejidos.
 
 ###### Art. 27.
 
@@ -1107,7 +1119,7 @@ Para los efectos del párrafo anterior se consideran como factores y causas que 
 
 ###### Art. 73.
 
-Para la promoción de la salud menta, la Secretaria de Salud, impulsará la coordinación entre el organismo estatal que atienda o maneje la asistencia y las instituciones de salud, con las autoridades competentes, en cada materia, para fomentar y apoyar:
+Para la promoción de la salud menta (sic), la Secretaria de Salud, impulsará la coordinación entre el organismo estatal que atienda o maneje la asistencia y las instituciones de salud, con las autoridades competentes, en cada materia, para fomentar y apoyar:
 
 > <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
 
@@ -3809,7 +3821,7 @@ P.O. 27 DE DICIEMBRE DE 2011.
 
 P.O. 22 DE SEPTIEMBRE DE 2012.
 
-DECRETO NÚMERO 24087/LIX/12 POR LO QUE SE SE REFORMA EL ARTÍCULO 93 DE LA LEY ESTATAL DE SALUD.
+DECRETO NÚMERO 24087/LIX/12 POR LO QUE SE REFORMA EL ARTÍCULO 93 DE LA LEY ESTATAL DE SALUD.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
@@ -3820,3 +3832,9 @@ DECRETO NÚMERO 24098/LIX/12 POR LO QUE SE REFORMAN LA DENOMINACIÓN DE LA SECCI
 PRIMERO. El presente decreto entrará en vigor al siguiente día de su publicación en el periódico oficial El Estado de Jalisco.
 
 SEGUNDO. El Poder Ejecutivo tendrá un plazo de treinta días naturales, contados a partir de aquél en que entre en vigor el presente decreto, para realizar las modificaciones reglamentarias correspondientes a efecto de que las autoridades sanitarias estatales cumplan con las obligaciones contenidas en este decreto.
+
+P.O. 27 DE SEPTIEMBRE DE 2012.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Cualquier referencia a la Ley Estatal de Salud se entenderá hecha a la Ley de Salud del Estado de Jalisco.
