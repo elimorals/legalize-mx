@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "2011-12-26"
+last_updated: "2012-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE SONORA
 
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 167, PUBLICADO EN EL B.O. 27 DE SEPTIEMBRE DE 2012, LAS MENCIONES QUE EN DIVERSOS ORDENAMIENTOS LEGALES Y REGLAMENTARIOS SE HAGAN AL CONSEJO ESTATAL ELECTORAL SE ENTENDERÁN REFERIDAS AL CONSEJO ESTATAL ELECTORAL Y DE PARTICIPACIÓN CIUDADANA.</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE SEPTIEMBRE DE 2012.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -333,13 +335,21 @@ La soberanía reside esencial y originariamente en el pueblo sonorense y se ejer
 
 La elección a Gobernador del Estado, de los Diputados al Congreso del Estado y de los integrantes de los Ayuntamientos, deberá realizarse mediante sufragio universal, libre, secreto y directo, a través de elecciones libres, auténticas y periódicas.
 
-La organización de las elecciones es una función estatal que se realiza a través de un organismo público autónomo denominado Consejo Estatal Electoral, dotado de personalidad jurídica y patrimonio propios, integrado por ciudadanos y partidos políticos, en los términos que ordene la Ley. En el ejercicio de esa función estatal, por parte de las autoridades electorales, la certeza, legalidad, independencia, imparcialidad y objetividad serán principios rectores.
+> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2012)</small>
 
-El Consejo Estatal Electoral será autoridad en la materia, independiente en sus decisiones y funcionamiento y profesional en su desempeño, se integrará por ocho ciudadanos, de los cuales cinco fungirán como Consejeros Propietarios con derecho a voz y voto y tres como Consejeros Suplentes Comunes, quienes cubrirán las ausencias de aquellos de forma indistinta; asimismo, concurrirán con derecho a voz, un comisionado de cada uno de los partidos con registro. Las sesiones de los organismos electorales serán públicas.
+La organización de las elecciones es una función estatal que se realiza a través de un organismo público autónomo denominado Consejo Estatal Electoral y de Participación Ciudadana, dotado de personalidad jurídica y patrimonio propios, integrado por ciudadanos y partidos políticos, en los términos que ordene la Ley. En el ejercicio de esa función estatal, por parte de las autoridades electorales, la certeza, legalidad, independencia, imparcialidad y objetividad serán principios rectores.
 
-La designación de los Consejeros Estatales Electorales compete al Congreso del Estado, previa convocatoria pública que emita el Consejo Estatal Electoral, conforme a la Ley. El Congreso del Estado, una vez recibidas las solicitudes, integrará una Comisión Plural encargada de someter la lista de aspirantes a Consejero Estatal Electoral, ante el Pleno, para que lleve a cabo la designación de los ciudadanos que integrarán el Consejo Estatal Electoral, mediante el voto de las dos terceras partes de sus integrantes.
+> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2012)</small>
 
-Los Consejeros Estatales Electorales durarán en su encargo dos procesos electorales ordinarios sucesivos. El Consejo Estatal Electoral será renovado parcialmente cada proceso electoral ordinario.
+El Consejo Estatal Electoral y de Participación Ciudadana será autoridad en la materia, independiente en sus decisiones y funcionamiento y profesional en su desempeño, se integrará por ocho ciudadanos, de los cuales cinco fungirán como Consejeros Propietarios con derecho a voz y voto y tres como Consejeros Suplentes Comunes, quienes cubrirán las ausencias de aquellos de forma indistinta; asimismo, concurrirán con derecho a voz, un comisionado de cada uno de los partidos con registro. Las sesiones de los organismos electorales serán públicas.
+
+> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2012)</small>
+
+La designación de los Consejeros Estatales Electorales compete al Congreso del Estado, previa convocatoria pública que emita el Consejo Estatal Electoral y de Participación Ciudadana, conforme a la Ley. El Congreso del Estado, una vez recibidas las solicitudes, integrará una Comisión Plural encargada de someter la lista de aspirantes a Consejero Estatal Electoral, ante el Pleno, para que lleve a cabo la designación de los ciudadanos que integrarán el Consejo Estatal Electoral y de Participación Ciudadana, mediante el voto de las dos terceras partes de sus integrantes.
+
+> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2012)</small>
+
+Los Consejeros Estatales Electorales durarán en su encargo dos procesos electorales ordinarios sucesivos. El Consejo Estatal Electoral y de Participación Ciudadana será renovado parcialmente cada proceso electoral ordinario.
 
 Los partidos políticos son entidades de interés público cuyo fin es promover la participación del pueblo en la vida democrática del Estado, contribuir a la integración de la representación estatal y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo. Sólo los ciudadanos podrán afiliarse libre e individualmente a los partidos políticos. La Ley determinará las formas específicas de intervención de los partidos políticos en el proceso electoral.
 
@@ -349,7 +359,9 @@ El Estado garantizará el financiamiento público a los partidos políticos con 
 
 El financiamiento público se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes y las tendientes a la obtención del voto durante los procesos electorales y se otorgará conforme a lo siguiente y en los términos que disponga la Ley:
 
-A) El financiamiento público para el sostenimiento de las actividades ordinarias permanentes se fijará anualmente, aplicando los costos mínimos de campaña calculados por el Consejo Estatal Electoral, el número de diputados a elegir, el número de planillas de ayuntamientos a elegir, el número de partidos políticos con representación en la legislatura local y la duración de las campañas electorales. El 30% de la cantidad total que resulte de acuerdo con lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria y el 70% restante se distribuirá entre los mismos de acuerdo con el porcentaje que resulte de la suma total de votos obtenidos en las elecciones ordinarias inmediata anterior de ayuntamientos, diputados al Congreso del Estado y, en su caso, de Gobernador.
+> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2012)</small>
+
+A) El financiamiento público para el sostenimiento de las actividades ordinarias permanentes se fijará anualmente, aplicando los costos mínimos de campaña calculados por el Consejo Estatal Electoral y de Participación Ciudadana, el número de diputados a elegir, el número de planillas de ayuntamientos a elegir, el número de partidos políticos con representación en la legislatura local y la duración de las campañas electorales. El 30% de la cantidad total que resulte de acuerdo con lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria y el 70% restante se distribuirá entre los mismos de acuerdo con el porcentaje que resulte de la suma total de votos obtenidos en las elecciones ordinarias inmediata anterior de ayuntamientos, diputados al Congreso del Estado y, en su caso, de Gobernador.
 
 B) El financiamiento público para las actividades tendientes a la obtención del voto durante los procesos electorales será igual al monto del financiamiento público que le corresponda a cada partido político por actividades ordinarias en ese año.
 
@@ -363,7 +375,9 @@ De igual manera, la Ley fijará los criterios para determinar los límites a las
 
 La Ley establecerá los montos máximos que tendrán las aportaciones pecuniarias de sus simpatizantes, los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten y señalará las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
 
-El financiamiento público de los partidos políticos y de sus campañas electorales deberá prevalecer sobre los privados, para tal efecto, el Consejo Estatal Electoral integrará un órgano de fiscalización que controlará y vigilará el uso de todos los recursos con que cuenten, sean de origen privado o público y propondrá las sanciones que deban imponerse por el uso indebido de estos recursos, de conformidad con lo que establezca la Ley.
+> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2012)</small>
+
+El financiamiento público de los partidos políticos y de sus campañas electorales deberá prevalecer sobre los privados, para tal efecto, el Consejo Estatal Electoral y de Participación Ciudadana integrará un órgano de fiscalización que controlará y vigilará el uso de todos los recursos con que cuenten, sean de origen privado o público y propondrá las sanciones que deban imponerse por el uso indebido de estos recursos, de conformidad con lo que establezca la Ley.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCIÓN.</small>
 
@@ -399,7 +413,9 @@ La organización y competencia del Tribunal Estatal Electoral será fijada por l
 
 En materia electoral la interposición de los medios de impugnación no producirá, en ningún caso, efectos suspensivos del acto o resolución impugnado.
 
-El Consejo Estatal Electoral realizará el cómputo final de la elección de Gobernador del Estado y declarará la validez de la elección y la de Gobernador Electo.
+> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2012)</small>
+
+El Consejo Estatal Electoral y de Participación Ciudadana realizará el cómputo final de la elección de Gobernador del Estado y declarará la validez de la elección y de Gobernador Electo.
 
 Las leyes en materia electoral deberán promulgarse y publicarse por lo menos noventa días naturales antes de que inicie el proceso electoral en que vayan a aplicarse y durante el mismo no podrá realizarse modificación alguna.
 
@@ -865,11 +881,9 @@ XIX. Para aceptar a dichos funcionarios la renuncia de sus respectivos cargos y 
 
 XIX Bis. Para ratificar o rechazar el nombramiento del Procurador General de Justicia que haga el Ejecutivo del Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCIÓN.</small>
+> <small>(REFORMADA, B.O. 27 DE SEPTIEMBRE DE 2012)</small>
 
-> <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 2010)</small>
-
-XX. Para nombrar a los magistrados propietarios y a los magistrados suplentes comunes del Tribunal Estatal Electoral y a los consejeros estatales electorales propietarios y suplentes comunes del Consejo Estatal Electoral, según el procedimiento establecido por esta Constitución y la ley.
+XX. Para nombrar a los magistrados propietarios y a los magistrados suplentes comunes del Tribunal Estatal Electoral y a los consejeros estatales electorales propietarios y suplentes comunes del Consejo Estatal Electoral y de Participación Ciudadana, según el procedimiento establecido por esta Constitución y la ley;
 
 > <small>(REFORMADA, B.O. 9 DE ABRIL DE 1984)</small>
 
@@ -2189,13 +2203,11 @@ De conformidad con las bases establecidas en la legislación secundaria, los Con
 
 Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCIÓN.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 143.
 
-Se reputará como servidor público para los efectos de este título y será responsable por los actos u omisiones en que incurra en el ejercicio de su función, toda persona que desempeñe un empleo, cargo o comisión, de cualquier naturaleza, en la administración pública estatal o municipal, en el Poder Legislativo, en el Poder Judicial, así como los servidores del Consejo Estatal Electoral, Consejeros Distritales Electorales, Consejeros Municipales Electorales, del Tribunal Estatal Electoral y los del Instituto de Transparencia Informativa del Estado de Sonora.
+Se reputará como servidor público para los efectos de este título y será responsable por los actos u omisiones en que incurra en el ejercicio de su función, toda persona que desempeñe un empleo, cargo o comisión, de cualquier naturaleza, en la administración pública estatal o municipal, en el Poder Legislativo, en el Poder Judicial, así como los servidores del Consejo Estatal Electoral y de Participación Ciudadana, Consejeros Distritales Electorales, Consejeros Municipales Electorales, del Tribunal Estatal Electoral y los del Instituto de Transparencia Informativa del Estado de Sonora.
 
 > <small>(REFORMADO, B.O. 9 DE ABRIL DE 1984)</small>
 
@@ -2209,11 +2221,9 @@ El Congreso expedirá la Ley de Responsabilidades de los servidores públicos me
 
 I. Responsabilidad política, determinada mediante juicio político, cuando el servidor público, en el ejercicio de sus funciones, incurra en actos u omisiones graves que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho. No procede el juicio político por la mera expresión de ideas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCIÓN.</small>
+> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO, B.O. 16 DE DICIEMBRE DE 2010)</small>
-
-Solo podrán ser sujetos a juicio político, los diputados al Congreso del Estado, los magistrados del Supremo Tribunal de Justicia, los magistrados regionales de Circuito y del Tribunal de lo Contencioso Administrativo, el Procurador General de Justicia y los subprocuradores, los secretarios y subsecretarios, los jueces de primera instancia, los agentes del ministerio público, los consejeros estatales electorales, el secretario del Consejo Estatal Electoral, los magistrados y secretario general del Tribunal Estatal Electoral, los vocales del Instituto de Transparencia Informativa del Estado de Sonora, presidentes municipales, síndicos, regidores, secretarios y tesoreros de los Ayuntamientos, así como los directores generales y sus equivalentes de las empresas de participación estatal o municipal mayoritaria, sociedades y asociaciones asimiladas a éstas, fideicomisos públicos y organismos descentralizados del Estado y de los municipios.
+Solo podrán ser sujetos a juicio político, los diputados al Congreso del Estado, los magistrados del Supremo Tribunal de Justicia, los magistrados regionales de Circuito y del Tribunal de lo Contencioso Administrativo, el Procurador General de Justicia y los subprocuradores, los secretarios y subsecretarios, los jueces de primera instancia, los agentes del ministerio público, los consejeros estatales electorales, el secretario del Consejo Estatal Electoral y de Participación Ciudadana, los magistrados y secretario general del Tribunal Estatal Electoral, los vocales del Instituto de Transparencia Informativa del Estado de Sonora, presidentes municipales, síndicos, regidores, secretarios y tesoreros de los Ayuntamientos, así como los directores generales y sus equivalentes de las empresas de participación estatal o municipal mayoritaria, sociedades y asociaciones asimiladas a éstas, fideicomisos públicos y organismos descentralizados del Estado y de los municipios.
 
 Las sanciones consistirán en la destitución del servidor público y, en su caso, la inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
 
@@ -2237,13 +2247,11 @@ En el caso de que el Gobernador del Estado, Diputados Locales y Magistrados del 
 
 El procedimiento de juicio político, deberá iniciarse durante el tiempo en que el servidor público desempeñe un empleo, cargo o comisión, o dentro del año siguiente al de la conclusión de sus funciones. La (sic) sanciones correspondientes se aplicarán en un período no mayor de un año, a partir de iniciado el procedimiento.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCIÓN.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 146.
 
-Para proceder penalmente contra el Gobernador, diputados al Congreso del Estado, magistrados del Supremo Tribunal de Justicia, magistrados regionales de Circuito y del Tribunal de lo Contencioso Administrativo, Procurador General de Justicia, secretarios y subsecretarios, presidentes municipales, síndicos y regidores de los Ayuntamientos, jueces de primera instancia y agentes del ministerio público, los consejeros estatales electorales, secretario del Consejo Estatal Electoral, los magistrados y secretario general del Tribunal Estatal Electoral, los vocales del Instituto de Transparencia Informativa del Estado de Sonora, por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado declarará, por mayoría absoluta de sus miembros presentes en sesión y por dos terceras partes si se trata del Gobernador, si ha lugar a proceder contra el inculpado.
+Para proceder penalmente contra el Gobernador, diputados al Congreso del Estado, magistrados del Supremo Tribunal de Justicia, Procurador General de Justicia, titulares de las dependencias de la administración pública directa del Poder Ejecutivo del Estado, presidentes municipales, síndicos y regidores de los ayuntamientos, los consejeros estatales electorales y los magistrados del Tribunal Estatal Electoral, por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado declarará, por mayoría absoluta de sus miembros presentes en sesión y por dos terceras partes si se trata del Gobernador, si ha lugar a proceder contra el inculpado.
 
 > <small>(REFORMADO, B.O. 9 DE ABRIL DE 1984)</small>
 
@@ -3286,6 +3294,22 @@ Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del E
 ###### ARTÍCULO SEGUNDO.
 
 El Congreso del Estado de Sonora, por las razones señaladas en la parte expositiva del presente resolutivo y con fundamento en lo dispuesto por el artículo 67, párrafo tercero, de la Constitución Política del Estado, que se reforma mediante la presente ley, resuelve nombrar, nuevamente, por un periodo de siete años, contado a partir del primero de enero del año dos mil doce, al C.P.C. Eugenio Pablos Antillón, como Auditor Mayor del Instituto Superior de Auditoría y Fiscalización.
+
+B.O. 27 DE SEPTIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado, previo cómputo que se realice de la aprobación o rechazo que emitan los Ayuntamientos del Estado, a quienes se les deberá notificar los términos de la presente Ley, a fin de dar cumplimiento a lo establecido por la Constitución Política del Estado Libre y Soberano de Sonora en su artículo 163.
+
+Se instruye a la Mesa Directiva o a la. Diputación Permanente del Congreso del Estado, en su caso, a efecto de que realicen el cómputo respectivo y la remitan al Titular del Poder Ejecutivo para su publicación en el Boletín Oficial del Gobierno del Estado, en caso de resultar aprobada.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la finalidad de realizar las adecuaciones al marco normativo relativo, con el propósito de hacerlas congruentes con las disposiciones de la Constitución Política del Estado de Sonora, contenidas en la presente Ley, el Congreso del Estado deberá realizar las adecuaciones dentro de los treinta días siguientes a la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Las menciones que en diversos ordenamientos legales y reglamentarios se hagan al Consejo Estatal Electoral se entenderán referidas al Consejo Estatal Electoral y de Participación Ciudadana, cuyo cambio de denominación se establece en la presente Ley.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 74.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO".]
 
