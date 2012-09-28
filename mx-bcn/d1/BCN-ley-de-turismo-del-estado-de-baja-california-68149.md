@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-turismo-del-estado-de-baja-california-68149"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-03"
-last_updated: "2012-06-15"
+last_updated: "2012-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE TURISMO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 3 de abril de 2009.
 
@@ -292,6 +292,16 @@ La Secretaría, bajo los lineamientos normativos y jurídicos establecidos por e
 ###### ARTÍCULO 12.
 
 La Secretaría difundirá y promoverá el patrimonio turístico del Estado, en el ámbito nacional e internacional.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+Para el cumplimiento de lo dispuesto por el párrafo anterior, la Secretaría atenderá las siguientes directrices:
+
+I.- Identificará las diversas vocaciones turísticas de cada zona del Estado clasificándolas por destinos, rutas geográficas y rutas temáticas, mismos que quedarán asentadas en los programas de promoción y fomento turístico;
+
+II.- Procurará el agrupamiento en cada zona, de los prestadores de servicios turísticos para potencializar los atractivos y servicios correspondientes, y;
+
+III.- Evaluará de manera periódica con cada agrupamiento o con el conjunto de estos, las fortalezas y debilidades así como las estrategias para consolidar las vocaciones de cada zona.
 
 ###### ARTÍCULO 13.
 
@@ -1230,3 +1240,9 @@ SEGUNDO.- En un término no mayor de 90 días contados a partir de la entrada en
 TERCERO.- En un término no mayor a 60 días contados a partir del establecimiento de los Consejos Consultivos Municipales de Turismo, los Ayuntamientos deberán crear el Reglamento de dichos Consejos.
 
 CUARTO.- Se derogan todas aquellas disposiciones que se opongan a la presente reforma.
+
+P.O. 28 DE SEPTIEMBRE DE 2012.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- El Ejecutivo del Estado a partir de la publicación del presente Decreto, contará con un plazo de 45 días naturales, para realizar los cambios a los reglamentos aplicables.
