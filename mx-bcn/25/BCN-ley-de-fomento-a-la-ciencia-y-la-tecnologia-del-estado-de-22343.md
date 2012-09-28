@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fomento-a-la-ciencia-y-la-tecnologia-del-estado-de-22343
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-19"
-last_updated: "2008-06-27"
+last_updated: "2012-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22343&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # LEY DE FOMENTO A LA CIENCIA Y LA TECNOLOGIA DEL ESTADO DE BAJA CALIFORNIA
 
-LEY DE FOMENTO A LA CIENCIA Y LA TECNOLOGIA DEL ESTADO DE BAJA CALIFORNIA
+LEY DE FOMENTO A LA CIENCIA Y LA TECNOLOGÍA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 19 de octubre de 2001.
 
@@ -135,9 +135,17 @@ X. Fomentar, en coordinación con la Secretaría, programas de movilidad de prof
 
 XI. Reglamentar todas las actividades científicas y tecnológicas que la Secretaría deba promover;
 
-XII. Contar con un órgano de divulgación científica y tecnológica, que publicará de manera coordinada con la Secretaría, y
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
-XIII. Las demás que la Secretaría le solicite, atendiendo al objeto de la presente Ley.
+XII. Contar con un órgano de divulgación científica y tecnológica, que publicará de manera coordinada con la Secretaría;
+
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+XIII. Asesorar a la Secretaría en la elaboración de propuestas de disposiciones de carácter general, a fin de impulsar, fomentar y desarrollar la investigación científica y tecnológica en la entidad, y
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+XIV. Las demás que la Secretaría le solicite, atendiendo al objeto de la presente Ley.
 
 ### CAPÍTULO TERCERO. DE LAS ATRIBUCIONES DE LA SECRETARÍA
 
@@ -201,13 +209,17 @@ XVII. Apoyar en las gestiones para obtener la exención del pago de impuestos a 
 
 XVIII. Gestionar, la protección de áreas geográficas del territorio de Baja California que sean de interés primordial para la investigación científica;
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
-XIX. Impulsar la innovación Científica y tecnológica para consolidar la cadena educación- ciencia- tecnología, y
+XIX. Impulsar la innovación científica y tecnológica para consolidar la cadena educación- ciencia- tecnología;
 
-> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
-XX. Las demás atribuciones que determinen esta Ley y su reglamento.
+XX. Proponer al titular del Poder Ejecutivo del Estado la expedición de disposiciones de carácter general, a fin de impulsar, fomentar y desarrollar la investigación científica y tecnológica en la entidad, y
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+XXI. Las demás atribuciones que determinen esta Ley y su reglamento.
 
 ### CAPÍTULO CUARTO. DE LOS CRITERIOS ORIENTADORES
 
@@ -271,9 +283,17 @@ IX. El desarrollo de programas de estímulo orientados a fomentar la investigaci
 
 X. La prestación de servicios de asesoría y capacitación en materia de ciencia y tecnología;
 
-XI. Estímulos y reconocimientos a investigadores residentes u oriundos de Baja California, y
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
-XII. El órgano de divulgación científica y tecnológica.
+XI. Estímulos y reconocimientos a investigadores residentes u oriundos de Baja California;
+
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+XII. Las disposiciones de carácter general que se expidan de conformidad con la legislación de la materia, y
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+XIII. El órgano de divulgación científica y tecnológica.
 
 ### CAPÍTULO SEXTO. DEL PROGRAMA
 
@@ -419,7 +439,7 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 C.P. JORGE RAMOS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 27 DE JUNIO DE 2008.
 
@@ -430,3 +450,7 @@ SEGUNDO.- El Titular de la Secretaría de Desarrollo Económico deberá ocupar e
 TERCERO.- La reglamentación que deriva de esta Ley deberá adecuarse por el Ejecutivo del Estado, en un plazo que no excederá de ciento ochenta días hábiles contados a partir de la fecha en que entre en vigor esta Ley; así mismo, en dicho plazo, deberán realizarse las adecuaciones correspondientes a los convenios existentes celebrados por el COCYT.
 
 CUARTO.- Se derogan las disposiciones de leyes o reglamentos que se opongan a lo que establece esta Ley.
+
+P.O. 28 DE SEPTIEMBRE DE 2012.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
