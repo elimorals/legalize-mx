@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-secretaria-de-proteccion-al-89550"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-07-27"
-last_updated: "2012-07-27"
+last_updated: "2012-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA SECRETARÍA DE PROTECCIÓN AL AMBIENTE DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2012.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 27 de julio del 2012.
 
@@ -145,7 +145,9 @@ XI. Expedir y mantener actualizados los manuales de organización, de procedimie
 
 XII. Proponer la creación, modificación o supresión de oficinas en los municipios, con la circunscripción que considere conveniente, para el mejor desempeño de los asuntos competencia de la Secretaría;
 
-XIII. Autorizar a servidores públicos de la dependencia como auditores ambientales, siempre y cuando cumplan con los requisitos previstos en las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+XIII. Emitir las autorizaciones o acreditaciones para realizar visitas de inspección, de conformidad con lo previsto por el artículo 177, de la Ley de Protección al Ambiente para el Estado de Baja California;
 
 XIV. Firmar documentos administrativos relativos a acuerdos y resoluciones administrativas que deriven de los procedimientos de inspección y vigilancia, y de denuncia, incluyendo resoluciones administrativas definitivas, la reconsideración de sanciones y aquellas en que se ordene el archivo definitivo de un expediente, así como resoluciones de impacto y riesgo ambiental, registros estatales, licencias y revalidaciones; lo anterior, en estricto apego a las disposiciones aplicables;
 
@@ -159,9 +161,11 @@ XVIII. Solicitar a la Secretaría General de Gobierno, la nulidad, revocación, 
 
 XIX. Las demás que con carácter de no delegables le atribuya el Ejecutivo del Estado, y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 8.
 
-Son facultades no delegables del Secretario las establecidas en las fracciones I, II, IV, V, X, XIII, XIV, XVII y XVIII, del artículo 7 del Reglamento.
+Son facultades no delegables del Secretario las establecidas en las fracciones I, II, IV, V, X, XV, XVII y XVIII, del artículo 7 del Reglamento.
 
 ###### Artículo 9.
 
@@ -445,7 +449,9 @@ VIII. Ejecutar operativos de inspección y vigilancia en zonas críticas, priori
 
 IX. Orientar a las empresas sobre el cumplimiento de la normatividad ambiental estatal y ecoeficiencia, a través de la realización de programas de capacitación, difusión u orientación;
 
-X. Solicitar, en su caso, ante las autoridades competentes, la revocación o suspensión de autorizaciones, permisos, asignaciones, licencias o concesiones, conforme a la legislación aplicable a la materia;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+X. Proponer al Secretario que solicite ante las autoridades competentes, la revocación o suspensión de autorizaciones, permisos, licencias o concesiones, que conforme a la legislación aplicable a la materia, se hubiesen otorgado o emitido;
 
 XI. Formular, definir, supervisar y promover los programas de autorregulación ambiental y ecoeficiencia, reconociendo y certificando a las personas físicas o morales que cumplan con los requerimientos establecidos;
 
@@ -505,7 +511,9 @@ El Departamento de Auditoría Ambiental Tijuana atenderá a los Municipios de Pl
 
 Corresponde a la Dirección de Gestión Ambiental, por conducto de su titular, el ejercicio de las siguientes atribuciones:
 
-I. Integrar y actualizar los Registros Estatales y Padrones de: Descargas de Aguas Residuales Potencialmente Contaminantes, Fuentes Emisoras a la Atmósfera, Comercialización de Llantas, Generadores de Residuos Industriales y de Manejo Especial, Auditores Ambientales, Prestadores de Servicios Ambientales, Laboratorios Ambientales y Peritos en Monitoreo;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+I. Integrar y actualizar los Registros Estatales y Padrones de: Descargas de Aguas Residuales Potencialmente Contaminantes, Fuentes Emisoras a la Atmósfera, Comercialización de Llantas, Generadores de Residuos de Manejo Especial, Auditores Ambientales, Laboratorios Ambientales, y Peritos en Monitoreo;
 
 II. Generar los documentos que incluyan los inventarios, listados y diagnósticos de la información procesada a que se refiere la fracción anterior, de conformidad con los planes, programas y lineamientos que establezca la Secretaría;
 
@@ -565,11 +573,17 @@ IX. Las demás que le sean encomendadas por el superior inmediato y aquellas que
 
 Corresponde al Departamento de Prevención de la Contaminación, por conducto de su titular, el ejercicio de las siguientes atribuciones:
 
-l. Recepcionar, analizar y elaborar los proyectos de resolución de los trámites y documentos presentados ante la Secretaría, en materia de prevención y control de la contaminación del aire, agua y suelo;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
-II. Recepcionar, analizar y elaborar los proyectos de resolución de los trámites y documentos presentados ante la Secretaría, en lo relativo a los Padrones de Auditores Ambientales, Prestadores de Servicios Ambientales, Laboratorios Ambientales y Peritos en Monitoreo;
+I. Recibir, analizar y elaborar los proyectos de resolución de los trámites y documentos presentados ante la Secretaría, en materia de prevención y control de la contaminación del aire, agua y suelo;
 
-III. Recepcionar, analizar y elaborar los proyectos de resolución para la expedición de licencias de funcionamiento para emisiones de fuentes fijas de competencia estatal y para descargas de aguas potencialmente contaminantes, o que le correspondan en función de procesos de descentralización, así como la emisión de la licencia ambiental única y la cédula de operación anual;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+II. Recibir, analizar y elaborar los proyectos de resolución de los trámites y documentos presentados ante la Secretaría, en lo relativo a los Padrones de Auditores Ambientales, de Laboratorios Ambientales, y de Peritos en Monitoreo;
+
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+III. Recibir, analizar y elaborar los proyectos de resolución para la expedición de licencias de funcionamiento para emisiones de fuentes fijas de competencia estatal y para descargas de aguas potencialmente contaminantes, o que le correspondan en función de procesos de descentralización, así como la emisión de la licencia ambiental única y la cédula de operación anual;
 
 IV. Requerir a los responsables de fuentes emisoras de competencia estatal, el cumplimiento de la legislación aplicable;
 
@@ -577,19 +591,31 @@ V. Integrar y mantener actualizado el Registro de Emisiones y Transferencia de C
 
 VI. Realizar las visitas de reconocimiento a sitios bajo evaluación ambiental, cuando resulte necesario;
 
-VII. Recepcionar, analizar y elaborar los proyectos de resolución de los trámites y documentos presentados ante la Secretaría para registrarse como generador de residuos de manejo especial;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
-VIII. Establecer y mantener actualizado el registro obligatorio de las fuentes fijas en Baja California; y
+VII. Recibir, analizar y elaborar los proyectos de resolución de los trámites y documentos presentados ante la Secretaría para registrarse como generador de residuos de manejo especial;
 
-IX. Las demás que le sean encomendadas por el superior inmediato y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables.
+VIII. Establecer y mantener actualizado el registro obligatorio de las fuentes fijas en Baja California; y (sic)
+
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+IX. Evaluar y, en su caso, aprobar los planes de manejo de los residuos de manejo especial, de conformidad con los requisitos establecidos en la Ley de Prevención y Gestión Integral de Residuos para el Estado de Baja California; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+X. Las demás que le sean encomendadas por el superior inmediato y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables.
 
 ###### Artículo 26.
 
 Corresponde al Departamento de Verificación Vehicular, por conducto de su titular, el ejercicio de las siguientes atribuciones:
 
-I. Vigilar el cumplimiento y aplicar las disposiciones contenidas en el Programa Verificación (sic) Vehicular Obligatoria para el Estado de Baja California;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
-II. Supervisar, en coordinación con la Dirección de Auditoría Ambiental, el cumplimiento de la normatividad vigente que aplica al Programa de Verificación Vehicular Obligatoria para el Estado de Baja California, para los centros de verificación vehicular, proveedores y calibradores de equipos de verificación, y quienes estén obligados de acuerdo a las disposiciones vigentes;
+I. Vigilar el cumplimiento y aplicar las disposiciones contenidas en la Ley de Protección al Ambiente para el Estado de Baja California, en materia de verificación vehicular; en el Programa de Verificación Vehicular Obligatoria para el Estado de Baja California; así como en los títulos de concesión para operar como centros de verificación vehicular que al efecto se otorguen;
+
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+II. Vigilar el cumplimiento de las disposiciones en materia de verificación vehicular contenidas en la Ley de Protección al Ambiente para el Estado de Baja California, así como de la normatividad vigente que aplica al Programa de Verificación Vehicular Obligatoria para el Estado de Baja California, para proveedores y laboratorios de calibración de equipos de verificación, y quienes estén obligados de acuerdo a las disposiciones vigentes;
 
 III. Analizar la información que se genera en los centros de verificación vehicular para la realización de modelos que permitan definir políticas públicas que tiendan a disminuir la contaminación al aire generada por vehículos en circulación;
 
@@ -597,15 +623,51 @@ IV. Aplicar y proponer la actualización de los requisitos técnicos para la ope
 
 V. Recibir, analizar y elaborar los proyectos de resolución de los trámites para la Acreditación de Proveedores de Equipos de Verificación Vehicular, Centros de Diagnostico, Proveedores de Convertidores Catalíticos y demás que se emanen de estos programas;
 
-VI. Mantener actualizados los registros de las bases de datos generados por la autoridad y desarrollar el Sistema Integral de Información de Verificación Vehicular;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
-VII. Supervisar y operar el correcto funcionamiento del monitoreo de las telecomunicaciones para la transmisión de datos e imágenes al Centro de Control de Verificación Vehicular de la Secretaría;
+VI. Mantener actualizados los registros de las bases de datos generados por los centros de verificación vehicular, así como desarrollar el Sistema Integral de Información de Verificación Vehicular; y en su caso, requerir a los centros de verificación vehicular los datos correspondientes;
 
-VIII. Realizar el seguimiento de la documentación y de los archivos electrónicos generados en el proceso de auditoría de calibración a los equipos por parte de los laboratorios acreditados en los términos de la Ley Federal de Metrología y Normalización;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
-IX. Controlar la emisión y entrega de credenciales, hologramas, papelería y demás documentación oficial, necesaria para la operación del Programa Verificación (sic) Vehicular Obligatoria para el Estado de Baja California; y
+VII. Supervisar y operar el correcto funcionamiento del sistema de transmisión de datos e imágenes de los centros de verificación vehicular a la Secretaría;
 
-X. Las demás que le sean encomendadas por el superior inmediato y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+VIII. Dar seguimiento y efectuar la revisión de la documentación generada en el proceso de verificación vehicular, así como de los archivos electrónicos generados en el proceso de auditoría de calibración a los equipos por parte de los laboratorios acreditados, en los términos de la Ley Federal de Metrología y Normalización;
+
+IX. Controlar la emisión y entrega de credenciales, hologramas, papelería y demás documentación oficial, necesaria para la operación del Programa Verificación (sic) Vehicular Obligatoria para el Estado de Baja California; y (sic)
+
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+X. Recibir, analizar y dar seguimiento a las denuncias presentadas ante la Secretaría, en materia de verificación vehicular;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+XI. Elaborar los proyectos de resoluciones iniciales que recaigan sobre las denuncias recibidas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+XII. Proponer y ejecutar inspecciones para verificar el cumplimiento de la normatividad ambiental estatal en materia de verificación vehicular, a centros de verificación vehicular, proveedores de equipo y centros de diagnóstico; así como elaborar los oficios de comisión correspondientes en la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+XIII. Elaborar los dictámenes técnicos como resultado de las visitas de inspección y verificación en materia de verificación vehicular y su entrega a la Coordinación jurídica de la Secretaría, para la elaboración de la resolución respectiva;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+XIV. Ejecutar los actos y órdenes de clausura en materia de verificación vehicular;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+XV. Emitir opiniones técnicas de documentos, proyectos y análisis que se sometan a su consideración;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+XVI. Imponer y establecer, cuando así se requiera, medidas técnicas correctivas de urgente aplicación y de seguridad, así como medidas técnicas preventivas; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+XVII. Las demás que le sean encomendadas por el superior inmediato y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables.
 
 ###### Artículo 27.
 
@@ -655,17 +717,27 @@ XXI. Promover e invertir en el mejoramiento de la infraestructura en las áreas 
 
 XXII. Fortalecer y ampliar la participación de la producción forestal en el crecimiento económico estatal;
 
-XXIII. Participar en la inspección y vigilancia forestal en la entidad, así como en las acciones de prevención y combate a la extracción ilegal y tala clandestina de los recursos forestales;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
-XXIV. Informar a las autoridades competentes y, en su caso, denunciar las infracciones o delitos que se comentan en materia forestal;
+XXIII. Participar, en coordinación con la Dirección de Auditoría Ambiental, en la inspección y vigilancia forestal en la entidad, así como en las acciones de prevención y combate a la extracción ilegal y tala clandestina de los recursos forestales;
+
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+XXIV. Informar a las autoridades competentes y, en su caso, denunciar las infracciones o delitos que se cometan en materia ambiental;
 
 XXV. Elaborar, en el ámbito de su competencia, los estudios para el establecimiento, modificación o levantamiento de vedas;
 
 XXVI. Presentar estudios para el establecimiento de restricciones a la forestación y reforestación;
 
-XXVII. Impulsar el desarrollo forestal en los distritos de desarrollo rural de la entidad; y
+XXVII. Impulsar el desarrollo forestal en los distritos de desarrollo rural de la entidad; y (sic)
 
-XXVIII. Las demás que le sean encomendadas por el superior inmediato y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+XXVIII. Resolver trámites o gestiones en materia de áreas naturales protegidas, recursos naturales, planes de manejo y, en general, los que correspondan al área y materia de conservación de recursos naturales; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+XXIX. Las demás que le sean encomendadas por el superior inmediato y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables.
 
 ###### Artículo 28.
 
@@ -737,15 +809,25 @@ Corresponde al Departamento de Áreas Naturales Protegidas, por conducto de su t
 
 I. Aplicar, evaluar y dar seguimiento a las acciones de conservación establecidas en el Programa de Manejo y presentación de propuestas de actualización y ajustes necesarios para dicho Programa;
 
-II. Identificar las necesidades y problemática existentes en el Área Natural Protegida (ANP), en materia ecológica y social, así como la promoción y coordinación de estudios, proyectos y demás mecanismos de solución de los mismos;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
-III. Dar seguimiento de monitoreo en el ANP, de acuerdo al Programa de Manejo;
+II. Identificar las necesidades y problemática existentes en cada Área Natural Protegida, en materia ecológica y social, así como la promoción y coordinación de estudios, proyectos y demás mecanismos de solución de los mismos;
 
-IV. Formular documentos que sirvan de base para la elaboración de dictámenes técnicos acerca de proyectos de impacto ambiental y supervisión del cumplimiento de los mismos dentro del ANP;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
-V. Diseñar planes y estrategias para la promoción y difusión de los programas de conservación del ANP;
+III. Dar seguimiento de monitoreo en el Área Natural Protegida, de acuerdo al Programa de Manejo correspondiente;
 
-VI. Concertar acciones de colaboración entre el Gobierno Estatal y los Gobiernos Federal y Municipal, para la obtención de apoyos a proyectos de conservación del ANP;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+IV. Formular documentos que sirvan de base para la elaboración de dictámenes técnicos acerca de proyectos de impacto ambiental y supervisión del cumplimiento de los mismos dentro de las Áreas Naturales Protegidas;
+
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+V. Diseñar planes y estrategias para la promoción y difusión de los programas de conservación de cada Área Natural Protegida;
+
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+VI. Concertar acciones de colaboración entre el Gobierno Estatal y los Gobiernos Federal y Municipal, para la obtención de apoyos a proyectos de conservación de las Áreas Naturales Protegidas;
 
 VII. Planear, programar, organizar, dirigir, controlar y evaluar el desarrollo de los programas enfocados al área de recursos naturales y áreas naturales de competencia estatal;
 
@@ -787,7 +869,9 @@ VI. Promover, opinar y dar seguimiento sobre la suscripción de acuerdos y conve
 
 VII. Participar, coordinar y supervisar la elaboración de programas regionales de ordenamiento ecológico;
 
-VIII. Coordinar la instrumentación del Plan de Ordenamiento Ecológico del Estado y de aquellos planes y programas que se deriven de éste;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+VIII. Coordinar la instrumentación del Programa de Ordenamiento Ecológico del Estado y de aquellos planes y programas que se deriven de éste;
 
 IX. Promover la elaboración de estudios específicos relacionados con planeación y el ordenamiento ecológico;
 
@@ -879,7 +963,9 @@ X. Formular y ejecutar los programas de ordenamiento ecológico regionales y los
 
 XI. Establecer los mecanismos necesarios para verificar que en los informes preventivos, manifestaciones de impacto ambiental y estudios de riesgo, se incorporen las mejores técnicas y metodológicas existentes, así como la información y medidas de prevención y mitigación más efectivas;
 
-XII. Desarrollar los criterios técnicos para el procesamiento de evaluación del impacto y riesgo ambiental, con el propósito de obtener estándares de calidad y mejora continua;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+XII. Desarrollar los criterios técnicos para el procedimiento de evaluación del impacto y riesgo ambiental, con el propósito de obtener estándares de calidad y mejora continua;
 
 XIII. Apoyar los trabajos referentes a los programas de ordenamientos ecológicos estatales y regionales, en coordinación con las dependencias y entidades de la administración pública estatal competentes y con la participación de los sectores social y privado, en la elaboración, expedición y ejecución del ordenamiento ecológico en sus respectivos lugares;
 
@@ -899,7 +985,9 @@ Corresponde a los Departamentos de Análisis Ambiental de Mexicali, Tijuana y, E
 
 l. Recibir, analizar y elaborar las propuestas de resolución de los trámites en materia de impacto y riesgo ambiental que ingresen a la Secretaría;
 
-II. Requerir a los responsables de proyectos, planos, programas y actividades en el Estado, el cumplimiento de la normatividad aplicable en materia de prevención, mitigación y seguimiento de impactos ambientales;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+II. Requerir a los responsables de proyectos, planes, programas y actividades en el Estado, el cumplimiento de la normatividad aplicable en materia de prevención, mitigación y seguimiento de impactos, ambientales;
 
 III. Realizar las visitas de reconocimientos a sitios bajo evaluación ambiental, cuando resulte necesario;
 
@@ -964,3 +1052,9 @@ SECRETARIO GENERAL DE GOBIERNO
 EFRAÍN CARLOS NIEBLAS ORTIZ
 
 SECRETARIO DE PROTECCIÓN AL AMBIENTE
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE SEPTIEMBRE DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Baja California.
