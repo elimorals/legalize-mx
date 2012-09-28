@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-adquisiciones-arrendamientos-y-contratacion-33443
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-08-08"
-last_updated: "2010-03-05"
+last_updated: "2012-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 ---
 # REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS PARA EL GOBIERNO MUNICIPAL DE MEXICALI BAJA CALIFORNIA
 
-REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS PARA EL GOBIERNO MUNICIPAL DE MEXICALI BAJA CALIFORNIA
+REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS PARA EL GOBIERNO MUNICIPAL DE MEXICALI BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MARZO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 8 de agosto de 2003.
 
@@ -163,31 +163,33 @@ El Comité es un órgano técnico de la administración pública municipal, de c
 
 El Comité se integrará con los miembros siguientes:
 
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
 I.- Con derecho a voz y voto:
 
 a) El Oficial Mayor, quien lo presidirá;
 
-b) El Síndico Procurador, como vocal;
+b) El Tesorero Municipal, como vocal;
 
-c) El Tesorero Municipal, como vocal;
+c) El Regidor Coordinador de la Comisión de Hacienda del Ayuntamiento, como vocal;
 
-d) El Regidor Coordinador de la Comisión de Hacienda del Ayuntamiento, como vocal;
+d) El Regidor Coordinador de la Comisión de Administración Pública y Patrimonio del Ayuntamiento, como vocal;
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2008)</small>
-
-e) El Regidor Coordinador de la Comisión de Administración Pública y Patrimonio Municipal, del Ayuntamiento, como vocal;
-
-f) El titular de la dependencia solicitante de la adquisición, arrendamiento o servicio, como vocal.
+e) El titular de la dependencia solicitante de la adquisición, arrendamiento o servicio como vocal;
 
 II.- Con derecho a voz pero sin voto:
 
 a) El Jefe de Recursos Materiales, como Secretario Técnico;
 
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+b) El Síndico Procurador, como invitado;
+
 En caso de no acudir el titular de alguna de las dependencias, podrá ser representado por otro funcionario previamente designado por este, quien contará con las mismas facultades que se le confieren en este reglamento.
 
-> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
-En el caso de que los Regidores referidos en los incisos d) y e) de la Fracción I de este Artículo, no puedan asistir a las sesiones del Comité, podrán designar a uno de los Regidores integrantes de las Comisiones que coordinan, quienes actuarán en suplencia de aquellos con las mismas atribuciones que les otorga este ordenamiento.
+En el caso de que los Regidores referidos en los incisos c) y d) de la Fracción I de éste artículo, no puedan asistir a las sesiones del Comité, podrán designar a uno de los Regidores integrantes de las Comisiones que coordinan, quienes actuarán en suplencia de aquellos con las mismas atribuciones que les otorga éste ordenamiento.
 
 Podrán ser invitados los servidores públicos cuya intervención se considere necesaria, para aclarar aspectos técnicos o administrativos relacionados con los asuntos sometidos a la consideración del comité.
 
@@ -383,7 +385,7 @@ En casos de Recursos Federales y Estatales, se estará a las leyes que correspon
 
 En los casos en que existan recursos convenidos, se estará a los que establezcan las partes u órdenes de gobierno de donde estos provengan.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2008)</small>
 
 ###### ARTÍCULO 28.
 
@@ -1019,7 +1021,7 @@ LIC. JOSÉ FÉLIX ARANGO PÉREZ
 
 SECRETARIO DEL XVII AYUNTAMIENTO DE MEXICALI, BAJA CALIFORNIA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 12 DE MARZO DE 2004.
 
@@ -1038,3 +1040,9 @@ P.O. 11 DE JULIO DE 2008.
 P.O. 5 DE MARZO DE 2010.
 
 ÚNICO.- La presente reforma entrará en vigor al dia siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 28 DE SEPTIEMBRE DE 2012.
+
+SE TRANSCRIBE EL PUNTO DEL ACUERDO DE REFORMAS QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
+
+SEGUNDO.- EL PRESENTE ACUERDO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA.
