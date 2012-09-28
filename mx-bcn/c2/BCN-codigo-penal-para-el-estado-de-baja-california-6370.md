@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2012-09-21"
+last_updated: "2012-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2012.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -753,9 +753,11 @@ Inculpabilidad por causas ajenas al delito.- No es imputable al acusado el aumen
 
 Necesidad de conocimiento directo y de dictámenes periciales.- Para los efectos del artículo 69 y de la adecuada aplicación de las penas y medidas de seguridad, el Juez deberá tomar conocimiento directo del sujeto de la víctima y de las circunstancias del hecho y, en su caso, requerirá los dictámenes periciales tendientes a conocer la personalidad del agente y los demás elementos conducentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 72.
 
-Reincidencia e individualización penal.- La reincidencia será tomada en cuenta para la individualización judicial de la pena, así como para el otorgamiento o no de los beneficios que la Ley prevea. En caso de reincidencia, el juzgador sólo impondrá la pena que corresponda al delito que se juzga, en los términos del artículo 69.
+Reincidencia e Individualización penal.- La reincidencia será tomada en cuenta para la individualización judicial de la pena, así como para el otorgamiento o no de los beneficios que la ley prevea. En caso de reincidencia, el juzgador sólo impondrá la pena que corresponda al delito que se juzga, en los términos del artículo 69, y en los delitos dolosos implicará el no otorgamiento de los beneficios previstos en el presente Código.
 
 Para los efectos de este Código, hay reincidencia cuando, quien habiendo sido condenado por sentencia ejecutoria dictada por cualquier Tribunal de la República o del extranjero, es condenado nuevamente por otro delito, si no ha transcurrido desde el cumplimiento de la condena o desde el indulto, la mitad del término de la prescripción de la pena, salvo las excepciones fijadas por la Ley. La condena dictada en una Entidad Federativa o en el extranjero se tendrá en cuenta, si se refiere a un hecho que tenga carácter delictivo en este Código o en otra Ley del Estado.
 
@@ -4765,13 +4767,13 @@ P.O. 24 DE SEPTIEMBRE DE 2010.
 
 P.O. 15 DE OCTUBRE DE 2010.
 
-DECRETO NUMERO 440, POR EL QUE SE APRUEBA LA REFORMA A LOS ARTICULOS 42, 62, 99, 100, 118, 194, 201 Y 323 DEL CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA.
+DECRETO NÚMERO 440, POR EL QUE SE APRUEBA LA REFORMA A LOS ARTÍCULOS 42, 62, 99, 100, 118, 194, 201 Y 323 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA.
 
 Único.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 15 DE OCTUBRE DE 2010.
 
-DECRETO NUMERO 444, POR EL QUE SE ADICIONA UN CAPITULO V AL TITULO PRIMERO DE LA SECCION TERCERA DEL CODIGO PENAL EN EL ESTADO DE BAJA CALIFORNIA, PARA AGREGAR EL ARTICULO 250 TER AL CITADO ORDENAMIENTO.
+DECRETO NÚMERO 444, POR EL QUE SE ADICIONA UN CAPÍTULO V AL TÍTULO PRIMERO DE LA SECCIÓN TERCERA DEL CÓDIGO PENAL EN EL ESTADO DE BAJA CALIFORNIA, PARA AGREGAR EL ARTÍCULO 250 TER AL CITADO ORDENAMIENTO.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -4779,7 +4781,7 @@ Este decreto entrará en vigor al día siguiente de su publicación en el Perió
 
 P.O. 15 DE OCTUBRE DE 2010.
 
-DECRETO NUMERO 446, POR EL QUE SE ADICIONA EL ARTICULO 160 BIS Y UN CAPITULO IX DENOMINADO DELITOS CONTRA LA SALUD EN SU MODALIDAD DE NARCOMENUDEO, AL TITULO PRIMERO DE LA SECCION PRIMERA DEL LIBRO SEGUNDO DEL CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA.
+DECRETO NÚMERO 446, POR EL QUE SE ADICIONA EL ARTÍCULO 160 BIS Y UN CAPÍTULO IX DENOMINADO DELITOS CONTRA LA SALUD EN SU MODALIDAD DE NARCOMENUDEO, AL TÍTULO PRIMERO DE LA SECCIÓN PRIMERA DEL LIBRO SEGUNDO DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA.
 
 PRIMERO.- Las presentes reformas entrarán en vigor a partir del 21 de agosto del 2012.
 
@@ -4848,3 +4850,7 @@ P.O. 21 DE SEPTIEMBRE DE 2012.
 DECRETO No. 275, POR EL QUE SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 119 Y 120 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA.
 
 ÚNICO.- El presente Decreto iniciará su vigencia el día siguiente al de su Publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 28 DE SEPTIEMBRE DE 2012.
+
+ÚNICO.- La reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
