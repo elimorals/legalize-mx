@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-sistema-integral-de-justicia-para-adolescentes-del-7698
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-24"
-last_updated: "2011-12-30"
+last_updated: "2012-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76980&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 
 LEY DEL SISTEMA INTEGRAL DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO, VER ARTÍCULO PRIMERO Y TERCERO TRANSITORIOS DEL DECRETO PUBLICADO EN EL P.O. DE 24 DE SEPTIEMBRE DE 2010 Y SUS REFORMAS PUBLICADAS EN EL P.O. 30 DE SEPTIEMBRE DE 2011 Y P.O. DEL 30 DE DICIEMBRE DE 20011, QUE ESTABLECEN EL INICIO DE VIGENCIA PROGRESIVA SEGÚN CORRESPONDA EL MUNICIPIO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO, VER ARTÍCULO PRIMERO Y TERCERO TRANSITORIOS DEL DECRETO PUBLICADO EN EL P.O. DE 24 DE SEPTIEMBRE DE 2010 Y SUS REFORMAS PUBLICADAS EN EL P.O. 30 DE SEPTIEMBRE DE 2011, P.O. DEL 30 DE DICIEMBRE DE 2011 Y 28 DE SEPTIEMBRE DE 2012, QUE ESTABLECEN EL INICIO DE VIGENCIA PROGRESIVA SEGÚN CORRESPONDA EL MUNICIPIO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Baja California, el viernes 24 de septiembre de 2010.
 
@@ -1135,13 +1135,13 @@ V.- La resolución que imponga una medida disciplinaria deberá recaer por escri
 
 ## TRANSITORIOS
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
-Artículo Primero.- Vigencia.- La presente Ley entrará en vigor a las cero horas del día primero de octubre del año dos mil doce en el partido judicial de Mexicali y en forma sucesiva, en los demás partidos judiciales del Estado, conforme al siguiente orden:
+Artículo Primero.- Vigencia.- La presente Ley entrará en vigor a las cero horas del día once de agosto del año dos mil catorce en el partido judicial de Mexicali y en forma sucesiva, en los demás partidos judiciales del Estado, conforme al siguiente orden:
 
-I. Ensenada, a partir de las cero horas del día tres de mayo del año dos mil trece.
+I. Ensenada, a partir de las cero horas del día tres de mayo del dos mil quince.
 
-II. Tijuana, Tecate y Playas de Rosarito, a partir de las cero horas del día tres de mayo del año dos mil catorce.
+II. Tijuana, Tecate y Playas de Rosarito, a partir de las cero horas del día tres de mayo del dos mil dieciséis.
 
 Artículo Segundo.- Adecuación reglamentaria.- Dentro del plazo previsto para la entrada en vigor de la presente Ley, el Ejecutivo del Estado, por conducto de las instituciones y autoridades estatales correspondientes, deberá expedir los reglamentos necesarios para la adecuada instrumentación de las normas contenidas en la presente Ley.
 
@@ -1164,6 +1164,10 @@ Artículo Quinto.- Inaplicabilidad de la legislación en materia de Delincuencia
 Artículo Sexto.- Delitos Permanentes y Continuados.- Los procedimientos de justicia para adolescentes relativos a hechos tipificados como delito de carácter permanente o continuado que iniciaron bajo la vigencia de la Ley de Justicia para Adolescentes del Estado de Baja California, publicada en el Periódico Oficial No. 45, de fecha 27 de octubre de 2006, y que continúen desarrollándose bajo la vigencia de la presente Ley, serán tramitados conforme el primero de los ordenamientos citados en este artículo.
 
 Artículo Séptimo.- Prohibición de Acumulación de Procesos.- No procederá la acumulación de procesos sobre hechos tipificados como delictuosos por las leyes estatales, cuando alguno de ellos esté sometido a la presente Ley y otro a la Ley de Justicia para Adolescentes publicada en el Periódico Oficial No. 45, de fecha 27 de octubre de 2006.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+Artículo Octavo.- De la Comisión Interinstitucional de Justicia para Adolescentes.-Dentro de los treinta días siguientes a la publicación del presente decreto, se deberá instalar una Comisión Interinstitucional de Justicia para Adolescentes, la cual estará integrada por el Secretario General de Gobierno o quién éste designe, el Diputado Presidente de la Comisión de Justicia del Congreso del Estado, un Magistrado del Poder Judicial, un representante de la Procuraduría General de Justicia del Estado, un representante de la Defensoría Pública y un representante de la Secretaría de Seguridad Pública del Estado, preferentemente especializados en justicia para adolescentes en los casos que corresponda, a fin de llevar a cabo la planeación, programación, proyección, evaluación y seguimiento de las acciones necesarias para la implementación del sistema integral de justicia para adolescentes.
 
 DADO en el Salón de Sesiones "Lic. Benito Juárez García" del H. Poder Legislativo del Estado de Baja California, en la Ciudad de Mexicali, B.C., a los siete días del mes de septiembre del año dos mil diez.
 
@@ -1200,3 +1204,7 @@ P.O. 30 DE DICIEMBRE DE 2011.
 I. Ensenada, a partir de las cero horas del día tres de mayo del dos mil trece.
 
 II. Tijuana, Tecate y Playas de Rosarito, a partir de las cero horas del día tres de mayo del año dos mil catorce.
+
+P.O. 28 DE SEPTIEMBRE DE 2012.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
