@@ -4,7 +4,7 @@ identifier: "FED-lineamientos-de-transparencia-y-acceso-a-la-informacion-del-706
 country: "mx"
 rank: "lineamientos"
 publication_date: "2009-10-29"
-last_updated: "2009-10-29"
+last_updated: "2012-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70623&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2009-07-24"
 
 LINEAMIENTOS DE TRANSPARENCIA Y ACCESO A LA INFORMACION DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO POR EL QUE SE APRUEBAN LAS ADECUACIONES A LOS LINEAMIENTOS DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN, ARCHIVOS Y PROTECCIÓN DE DATOS PERSONALES DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES, PUBLICADO EN EL D.O.F. DE 28 DE SEPTIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Lineamientos publicados en la Segunda Sección del Diario Oficial de la Federación, el jueves 29 de octubre de 2009.
 
@@ -736,3 +738,13 @@ TERCERO. Los presentes Lineamientos serán publicados de acuerdo a las instrucci
 Atentamente
 
 México, D.F., a 24 de julio de 2009.- El Titular de la Unidad de Enlace y Secretario de la Comisión de Inconformidades, Santiago Bolaños Guerra.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 28 DE SEPTIEMBRE DE 2012.
+
+PRIMERO. Los presentes Lineamientos abrogan los aprobados mediante el Acuerdo 1444, tomado en la sesión ordinaria número 96 de la H. Asamblea General, celebrada el 28 de abril de 2009, publicados en el Diario Oficial de la Federación el 29 de octubre de 2009.
+
+SEGUNDO. Los asuntos que se encuentren en trámite a la entrada en vigor de los presentes Lineamientos deberán concluirse conforme a los Lineamientos vigentes.
+
+TERCERO. Los presentes Lineamientos serán publicados de acuerdo a las instrucciones de la H. Asamblea General.
