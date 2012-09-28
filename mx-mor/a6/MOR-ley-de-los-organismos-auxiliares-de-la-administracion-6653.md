@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-los-organismos-auxiliares-de-la-administracion-6653"
 country: "mx"
 rank: "ley"
 publication_date: "1989-07-19"
-last_updated: "2012-04-04"
+last_updated: "2012-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 LEY DE LOS ORGANISMOS AUXILIARES DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TERCERA TRANSITORIA DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS, PUBLICADA EN EL P.O. DE 28 DE SEPTIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 19 de julio de 1989.
 
@@ -680,3 +682,37 @@ PRIMERO.- Aprobado el presente, remítase para su publicación en el Periódico 
 SEGUNDO.- A más tardar en 60 días hábiles, el Ejecutivo del Estado deberá realizar las adecuaciones conforme al presente decreto, al Reglamento del Registro Público de los Organismos Descentralizados del Poder Ejecutivo del Gobierno del Estado de Morelos.
 
 TERCERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE SEPTIEMBRE DE 2012.
+
+PRIMERA.- Remítase la presente Ley al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- La presente Ley entrará en vigor el día 1 del mes de octubre del año 2012, previa publicación en el Periódico "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA.- Se abrogan la Ley Orgánica de la Administración Pública del Estado de Morelos publicada en el Periódico Oficial "Tierra y Libertad" número 4720, el día 26 de junio de 2009, la Ley de los Organismos Auxiliares de la Administración Pública del Estado de Morelos, publicada en el Periódico Oficial "Tierra y Libertad" número 3440, el 20 de julio de 1989 y el Decreto número 20, de fecha 18 de agosto de 1988, publicado el 31 de agosto de 1988 en el ejemplar número 3394, del Periódico Oficial "Tierra y Libertad", que creó el organismo público descentralizado denominado Instituto de Cultura del Estado de Morelos, extinguiéndose dicho Instituto y se derogan las demás disposiciones legales que se opongan a lo establecido en la presente Ley.
+
+CUARTA.- El personal de las dependencias que, en la aplicación de esta Ley, pase a otra dependencia, en ninguna forma será afectado en los derechos que haya adquirido en su relación laboral con la Administración Pública del Estado.
+
+QUINTA.- Cuando alguna atribución de las dependencias establecidas en la Ley Orgánica de la Administración Pública del Estado de Morelos que se abroga, pase a otra dependencia, el traspaso se hará incluyendo el personal a su servicio, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, el equipo que la dependencia haya utilizado para la atención de los asuntos a su cargo. Además de estos, se traspasarán también los recursos financieros y presupuestales autorizados en el Presupuesto Anual de Egresos del Estado. Los traspasos anteriores serán coordinados y supervisados por la Secretaría de Hacienda y la Secretaría de Administración.
+
+SEXTA.- Los asuntos que con motivo de esta Ley deban pasar de una dependencia a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramiten se incorporen a la dependencia que señale esta Ley, a excepción de los trámites urgentes o sujetos a plazos improrrogables, que serán resueltos por la dependencia que tenga el asunto a su cargo.
+
+SÉPTIMA.- Se autoriza al Gobernador Constitucional del Estado para que, con motivo del inicio de un periodo de administración estatal, proceda a la extinción o desincorporación, según sea el caso, de organismos auxiliares, mediante el Acuerdo que sustente y justifique la decisión, comunicando oportunamente dicho instrumento al Poder Legislativo. En consecuencia, el Congreso del Estado, una vez recibida la comunicación del Poder Ejecutivo, procederá de inmediato a realizar la adecuación pertinente al marco normativo, expidiendo el o los decretos necesarios.
+
+OCTAVA.- Cuando en esta Ley se dé una denominación nueva o distinta a alguna dependencia cuyas funciones estén establecidas por ley anterior, dichas atribuciones se entenderán concedidas a la dependencia que determine esta Ley y demás disposiciones relativas.
+
+NOVENA.- Los asuntos competencia de la Comisión Estatal del Agua y Medio Ambiente, organismo público descentralizado, que se estén tramitando actualmente y aquellos que se presenten hasta antes de la expedición del Reglamento Interno de la Secretaría de Desarrollo Sustentable, serán atendidos por éste, atendiendo la legislación y reglamentación aplicables, adoptando la Secretaría de Desarrollo Sustentable todas las facultades, atribuciones, funciones y obligaciones que en la diversa legislación inherente a la materia, se confieren al organismo público descentralizado denominado Comisión Estatal del Agua y Medio Ambiente.
+
+DÉCIMA.- Se autoriza al Titular del Poder Ejecutivo por conducto de la Secretaría de Hacienda, para realizar las adecuaciones presupuestales necesarias a efecto de dar cumplimiento a las obligaciones que esta Ley impone.
+
+DÉCIMA PRIMERA.- La Secretaría de Administración del Poder Ejecutivo del Estado, procederá a realizar los cambios en los inventarios y registros de los recursos humanos y materiales a que alude esta Ley.
+
+DÉCIMA SEGUNDA.- Los reglamentos interiores de la Administración Pública Central, deberán expedirse en el término de ciento veinte días hábiles, a partir de la fecha de vigencia de esta Ley; en tanto sucede esto, se mantendrán vigentes los actuales, con la aplicación por cada secretaría o dependencia según su ámbito de competencia.
+
+DÉCIMA TERCERA.- Las atribuciones contenidas en las fracciones XXIV, XXV y XXVI del artículo 21 de la presente Ley, iniciarán su vigencia el día 1 de enero de 2013; en tanto, dichas atribuciones serán ejercidas por la Secretaría de Hacienda.
+
+DÉCIMA CUARTA.- Todas las referencias que en el marco jurídico estatal, tanto leyes como reglamentos, se hagan de la Ley de los Organismos Auxiliares de la Administración Pública del Estado de Morelos que se abroga, se entenderán referidas a las disposiciones contenidas en la presente Ley.
+
+DÉCIMA QUINTA.- En un plazo de noventa días naturales, se deberán realizar las adecuaciones pertinentes al marco jurídico, para armonizar su texto en razón de las secretarías, dependencias y entidades que se señalan en la presente Ley.
+
+DÉCIMA SEXTA.- El Titular del Poder Ejecutivo dispondrá lo necesario para que, en un plazo de sesenta días hábiles, se expidan los reglamentos derivados de la presente Ley.
