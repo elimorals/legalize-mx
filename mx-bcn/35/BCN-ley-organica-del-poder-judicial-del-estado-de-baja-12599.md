@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-judicial-del-estado-de-baja-12599"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-04"
-last_updated: "2012-07-27"
+last_updated: "2012-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el miércoles 4 de octubre de 1995.
 
@@ -1069,9 +1069,17 @@ Asimismo, el Juez Coordinador podrá convocar a los Jueces de Garantía con el o
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JULIO DE 2010)</small>
 
-ARTICULO 81 QUINQUES (sic).- Las vacaciones y guardias de los Jueces de Garantía, serán establecidas por los órganos competentes a través de un sorteo y previa citación a los Jueces. Los Jueces tendrán derecho a estar presentes en la realización del sorteo.
+ARTICULO 81 QUINQUES (SIC).- Las vacaciones y guardias de los Jueces de Garantía, serán establecidas por los órganos competentes a través de un sorteo y previa citación a los Jueces. Los Jueces tendrán derecho a estar presentes en la realización del sorteo.
 
 Los Jueces de Garantía y Tribunales de Juicio Oral contarán con el apoyo del personal suficiente para ejercer adecuadamente sus atribuciones, personal que estará adscrito y a cargo del administrador judicial.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+El Administrador Judicial contará con notificadores encargados de practicar las diligencias que ordenen los Jueces de Garantías y Tribunales de Juicio Oral, para lo cual estarán investidos de fe pública en las actuaciones que realicen.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+Los notificadores contaran además, con las facultades y obligaciones que señale el reglamento respectivo.
 
 ###### ARTICULO 82.
 
@@ -1799,7 +1807,7 @@ Los Magistrados del Tribunal Superior de Justicia así como el Juez que desempe�
 
 ###### ARTICULO 157.
 
-EI Pleno del Consejo de la Judicatura, aprobará durante la primera sesión del año a propuesta de su Presidente, su calendario anual de actividades colegiadas.
+El Pleno del Consejo de la Judicatura, aprobará durante la primera sesión del año a propuesta de su Presidente, su calendario anual de actividades colegiadas.
 
 ###### ARTICULO 158.
 
@@ -2215,9 +2223,9 @@ XIII.- Asignar, conforme a las disposiciones que expida el Presidente del Consej
 
 XIV.- Ejercer las facultades y aplicar los procedimientos previstos en las fracciones l, II y IV de este artículo cuando los Jueces de Garantía actúen en calidad de Jueces de Ejecución.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
-XV.- Ejercer las demás funciones que le sean asignadas por el Presidente del Consejo de la Judicatura.
+XV.- Las demás que determinen las disposiciones legales.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JULIO DE 2010)</small>
 
@@ -3817,7 +3825,7 @@ En la convocatoria dentro de la etapa que señala el inciso g), deberá precisar
 
 De igual forma, en la convocatoria dentro de la etapa que señala el inciso h), deberá precisarse que será valorada la preparación académica, experiencia profesional y prestigio profesional de los aspirantes, por lo que deberán solicitarse la opinión de colegios y barras de abogados.
 
-El desarrollo de las disposiciones normativas que se contienen en los artículos, así como los aspectos no previstos por estos y que sean necesarios para alcanzar los fines del concurso, se establecerán en la convocatoria que expida el Consejo de la Judicatura.
+El desarrollo de las disposiciones normativas que se contienen en los artículos transitorios, así como los aspectos no previstos por estos y que sean necesarios para alcanzar los fines del concurso, se establecerán en la convocatoria que expida el Consejo de la Judicatura.
 
 QUINTO.- Los aspirantes del Poder Judicial del Estado que accedan a la etapa de capacitación avanzada y especializada, así como los Jueces que sean readscritos al nuevo sistema, serán separados provisionalmente de sus funciones con goce de sueldo, únicamente durante el tiempo en el que se impartan las citadas capacitaciones.
 
@@ -3940,3 +3948,7 @@ PRIMERO.- El presente Decreto entrará en vigor a los noventa días posteriores 
 SEGUNDO.- En tanto el Ejecutivo estatal realice las adecuaciones a la reglamentación correspondiente, a fin de dar el debido cumplimiento a las disposiciones de este ordenamiento, serán competentes para conocer sobre los delitos previstos en el artículo 4 párrafo primero de esta ley y ejercer la acción de extinción de dominio, las áreas o unidades adscritas a la Subprocuraduría contra la Delincuencia Organizada de la Procuraduría General de Justicia del Estado, de conformidad con los acuerdos que para tal efecto emita el Procurador.
 
 TERCERO.- En tanto el Poder Judicial del Estado realice las adecuaciones necesarias a su estructura interna, a fin de dar cumplimiento en el ámbito de su competencia a lo establecido en esta ley, serán competentes para conocer del procedimiento de extinción de dominio los juzgados de lo civil, de conformidad con los acuerdos que para tal efecto determine el Consejo de la Judicatura.
+
+P.O. 28 DE SEPTIEMBRE DE 2012.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
