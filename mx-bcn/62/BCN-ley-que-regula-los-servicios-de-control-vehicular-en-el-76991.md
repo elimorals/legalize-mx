@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-regula-los-servicios-de-control-vehicular-en-el-76991"
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-08"
-last_updated: "2011-07-01"
+last_updated: "2012-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY QUE REGULA LOS SERVICIOS DE CONTROL VEHICULAR EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 8 de octubre de 2010.
 
@@ -127,9 +127,7 @@ VIII.- Los demás que sean autorizados por el Titular de la Secretaría para eje
 
 ###### ARTÍCULO 4.
 
-En el ámbito de la presente Ley le corresponde originariamente a la
-
-Secretaría:
+En el ámbito de la presente Ley le corresponde originariamente a la Secretaría:
 
 I.- Expedir los elementos de identificación vehicular;
 
@@ -273,7 +271,9 @@ III.- Presentar identificación oficial del propietario;
 
 IV.- Realizar el pago de las contribuciones que se adeuden a la fecha de la Baja, y
 
-V.- Realizar el pago por la baja respectiva de los derechos correspondientes, establecidos en la Ley de Ingresos.
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+V.- Realizar el pago por la baja respectiva de los derechos correspondientes, establecidos en la Ley de Ingresos, exceptuando a dicho pago en el caso de que el propietario exhiba constancia de robo de vehículo expedida por el Ministerio Público correspondiente.
 
 ###### ARTÍCULO 13.
 
@@ -637,7 +637,7 @@ Para que la Secretaría a través de sus Oficinas Recaudadoras expida las licenc
 
 Para obtener licencia de conducir de la modalidad de motociclista o automovilista se requiere:
 
-l.- Presentar la solicitud correspondiente;
+I.- Presentar la solicitud correspondiente;
 
 II.- Tener cuando menos 18 años cumplidos;
 
@@ -872,3 +872,9 @@ Lo establecido en la fracción IX, del artículo 7, así como en el artículo 18
 ###### ARTÍCULO TERCERO.
 
 Los ayuntamientos del Estado deberán adecuar su normatividad de conformidad con lo establecido en las presentes reformas, en un plazo no mayor al de treinta días, contados a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE SEPTIEMBRE DE 2012.
+
+PRIMERO.- La presente reforma entrará en vigor el día de su publicación en el Periódico Oficial de Estado de Baja California.
+
+SEGUNDO.- Las autoridades administrativas correspondientes deberán de implementar en su sistema la exención del cobro que estipula el artículo 12 fracción V de la Ley que Regula los Servicios de Control Vehicular en el Estado de Baja California.
