@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-seguridad-publica-para-el-estado-de-nuevo-leon-63617"
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-22"
-last_updated: "2011-12-21"
+last_updated: "2012-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de septiembre de 2008.
 
@@ -55,7 +55,7 @@ II. Establecer las bases generales de coordinación entre las autoridades Federa
 
 III. Fijar las condiciones generales para la profesionalización y servicio de carrera del personal e instituciones preventivas de seguridad pública del Estado y de los Municipios.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 2.
 
@@ -689,7 +689,7 @@ De acuerdo a la naturaleza del riesgo, de la amenaza recibida o bien por las fun
 
 Las disposiciones contenidas en este capítulo se aplicarán hasta los tres años siguientes a la conclusión del encargo, término que en todo caso será prorrogable tomando en consideración las circunstancias particulares del caso.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 ### CAPÍTULO SEXTO. DE LA INFORMACIÓN ESTATAL DE SEGURIDAD PÚBLICA
 
@@ -809,7 +809,7 @@ El sistema podrá incluir la base de datos, su recepción y emisión que puedan 
 
 En el caso necesario se asignará una clave confidencial a las personas autorizadas para obtener la información de los sistemas, a fin de que quede la debida constancia de cualquier movimiento o consulta.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 #### SECCIÓN TERCERA. DEL SISTEMA ÚNICO DE INFORMACIÓN CRIMINAL
 
@@ -845,7 +845,7 @@ El Sistema Estatal de Información Penitenciaria es la base de datos que, dentro
 
 La base de datos deberá contar, al menos, con el reporte de la ficha de identificación personal de cada interno a través de métodos biométricos, antropométricos y dactilares, debiendo agregarse los estudios técnicos interdisciplinarios, datos de los procesos penales y demás información necesaria para la integración de dicho sistema.
 
-> <small>(ADICIONADA CON LOS ARTICULO QUE LA INTEGRAN, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULO QUE LA INTEGRAN, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 #### SECCIÓN CUARTA. DEL REGISTRO ADMINISTRATIVO DE DETENCIONES
 
@@ -917,7 +917,7 @@ Las mismas sanciones se aplicarán al servidor público que incumpla con el proc
 
 Las Instituciones de Seguridad Pública serán responsables de la administración, guarda y custodia de los datos que integran este registro; su violación se sancionará de acuerdo con las disposiciones previstas en el Código Penal para el Estado de Nuevo León.
 
-(REUBICADA, ANTES SECCION SEGUNDA, P.O. 28 DE OCTUBRE DE 2010)
+(REUBICADA, ANTES SECCIÓN SEGUNDA, P.O. 28 DE OCTUBRE DE 2010)
 
 #### SECCIÓN QUINTA. DEL REGISTRO DE LA ESTADÍSTICA DELICTIVA
 
@@ -963,7 +963,7 @@ Esta información también deberá ser procesada a través de sistemas de refere
 
 La información estadística descrita en el Artículo anterior, estará integrada a un apartado que contenga su registro histórico, mismo que será resguardado y actualizado por parte de la Secretaría para el cumplimiento del objeto y fines de esta Ley.
 
-(REUBICADA, ANTES SECCION TERCERA, P.O. 28 DE OCTUBRE DE 2010)
+(REUBICADA, ANTES SECCIÓN TERCERA, P.O. 28 DE OCTUBRE DE 2010)
 
 #### SECCIÓN SEXTA. DEL REGISTRO ESTATAL DEL PERSONAL DE SEGURIDAD PÚBLICA
 
@@ -999,7 +999,7 @@ Para los efectos de la fracción II del Artículo 65 la Secretaría verificará 
 
 La consulta del Registro será obligatoria y previa al ingreso de todas las personas a cualquier institución policial estatal o municipal, incluyendo a las de formación policial. Con los resultados de la consulta la autoridad procederá de conformidad con las normas conducentes.
 
-(REUBICADA, ANTES SECCION CUARTA, P.O. 28 DE OCTUBRE DE 2010)
+(REUBICADA, ANTES SECCIÓN CUARTA, P.O. 28 DE OCTUBRE DE 2010)
 
 #### SECCIÓN SÉPTIMA. DEL REGISTRO ESTATAL DE ARMAMENTO Y EQUIPO
 
@@ -1027,7 +1027,7 @@ En el caso de que los elementos de Seguridad Pública del Estado y de los Munici
 
 El incumplimiento a las disposiciones de los Artículos 70, 71, y 72 de esta Ley, dará lugar a que la portación de armas se considere ilegal y sea sancionada en los términos de las normas aplicables.
 
-(REUBICADA, ANTES SECCION QUINTA, P.O. 28 DE OCTUBRE DE 2010)
+(REUBICADA, ANTES SECCIÓN QUINTA, P.O. 28 DE OCTUBRE DE 2010)
 
 #### SECCIÓN OCTAVA. DEL REGISTRO ESTATAL DE LOS PROCESOS DE EVALUACIÓN
 
@@ -1063,7 +1063,7 @@ La Secretaría verificará que el registro se actualice permanentemente e inform
 
 En el registro se incluirá un apartado relativo a la acreditación de los organismos e instituciones del sector privado, social, académico, del ámbito nacional o internacional, que cuenten con los antecedentes, conocimientos, experiencias y técnicas apropiadas para llevar a cabo los procesos de evaluación y, en todo caso, le corresponde al Consejo de Coordinación certificar que se trate de instancias competentes y especializadas en el objeto materia de la evaluación.
 
-(REUBICADA, ANTES SECCION SEXTA, P.O. 28 DE OCTUBRE DE 2010)
+(REUBICADA, ANTES SECCIÓN SEXTA, P.O. 28 DE OCTUBRE DE 2010)
 
 #### SECCIÓN NOVENA. DE LA INFORMACIÓN DE APOYO A LA PROCURACIÓN DE JUSTICIA
 
@@ -1153,7 +1153,7 @@ La prevención social del delito tiene como propósito reducir los factores crim
 
 La prevención comunitaria del delito tiene por objeto promover la participación de la comunidad, en acciones tendientes a mejorar las condiciones de seguridad de su entorno y al desarrollo de prácticas que fomenten una cultura de prevención, autoprotección, de la denuncia ciudadana y de la solución de los conflictos a través del diálogo y la negociación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 88.
 
@@ -1441,7 +1441,7 @@ Los Comités Comunitarios se integrarán conforme al Reglamento que expida el Ti
 
 Las autoridades municipales deberán promover la integración de Comités Comunitarios, expidiendo para tal efecto la reglamentación correspondiente, con apego a las disposiciones contenidas en este ordenamiento.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 ## TITULO SEXTO. DEL SISTEMA PARA LA ORGANIZACIÓN Y FUNCIONAMIENTO DE LAS INSTITUCIONES POLICIALES
 
@@ -1459,7 +1459,7 @@ El Sistema a que se refiere este Título, tiene por objeto establecer sus atribu
 
 Le corresponde a la policía del Estado y de los Municipios, con sujeción a las disposiciones contenidas en esta Ley, prevenir la comisión de los delitos, las infracciones administrativas y las infracciones de los adolescentes; mantener el orden, la paz y tranquilidad pública dentro del territorio del Estado y de sus respectivos Municipios; así como auxiliar a las demás autoridades para el cumplimiento de las Leyes y Reglamentos respectivos, en el ámbito de sus competencias.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 122.
 
@@ -1501,7 +1501,7 @@ La Policía Municipal estará bajo el mando del Presidente Municipal, en los té
 
 El Ejecutivo del Estado podrá celebrar convenios con los Municipios del Estado, previa aprobación de los Ayuntamientos correspondientes, para que a solicitud de éstos de manera directa las autoridades de Seguridad Pública del Estado se hagan cargo de manera temporal de la prestación del servicio público de policía, o bien se preste coordinadamente entre ambos niveles de gobierno, conforme a las prescripciones que prevé esta Ley y en los términos del convenio respectivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 126.
 
@@ -1581,11 +1581,11 @@ Para el cumplimiento de sus atribuciones, la Policía del Estado se sujetará a 
 
 El Titular del Poder Ejecutivo del Estado expedirá el Reglamento que contenga entre otras: las disposiciones jerárquicas, la estructura normativa, la administrativa y de organización territorial; los mandos administrativos y operativos, los procedimientos de patrullaje y vigilancia y las demás relativas al régimen interno de la Policía Preventiva del Estado.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 ### CAPÍTULO TERCERO. DE LA POLICÍA DE LOS MUNICIPIOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 130.
 
@@ -1599,7 +1599,11 @@ III. Vigilar el cumplimiento estricto de las Leyes y Reglamentos de Policía y B
 
 IV. Mantener el orden, la paz y tranquilidad de los lugares públicos;
 
-V. Vigilar las calles, parques, jardines, vías públicas, escuelas, plazas, comercios, mercados, panteones, zonas ecológicas, espectáculos públicos, y aquellas que sean de la misma naturaleza;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+V. Vigilar las calles, parques, jardines, vías públicas, lotes baldíos, escuelas, plazas, comercios, mercados, panteones, zonas ecológicas, espectáculos públicos, y aquellas que sean de la misma naturaleza.
+
+Cuando derivado de la vigilancia de calles y vías públicas, o por alguna denuncia ciudadana, la policía de los municipios tome conocimiento de la existencia de lotes baldíos, que sean propicios para la comisión de actividades ilícitas, deberá dar inmediato aviso a la autoridad municipal competente, a efecto de proceder a la limpieza del lote baldío respectivo, en los términos de la Ley de Hacienda para los Municipios del Estado.
 
 VI. Proceder a la detención en los casos de flagrancia del delito y poner inmediatamente a disposición de las autoridades competentes a las personas detenidas, los bienes, objetos o instrumentos que se hayan asegurado y que se encuentren bajo su custodia; lo anterior, en los términos que dispone el Artículo 16 de la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -1641,7 +1645,7 @@ XIX. Las demás que señale esta Ley.
 
 La Policía Municipal adoptará un esquema de organización y funcionamiento que se oriente a la conservación del orden, la paz y tranquilidad pública; prevenir los delitos y las infracciones administrativas, privilegiando la proximidad y comunicación con la ciudadanía, procurando su participación en actividades relacionadas con la seguridad pública municipal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 132.
 
@@ -1713,7 +1717,7 @@ En dicho convenio se deberá prever la determinación de reglas operativas para 
 
 Las demás Instituciones Policiales de los Municipios podrán constituirse en instancias de Coordinación Intermunicipal Regional, con sujeción a las disposiciones contenidas en este ordenamiento.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 ### CAPÍTULO CUARTO. DE LA POLICÍA COMPLEMENTARIA
 
@@ -1765,7 +1769,7 @@ Para los efectos de esta Ley, se entiende por Grupos Tácticos o Unidades Especi
 
 La Secretaría contará con Grupos Tácticos o Unidades Especiales de Intervención o de Reacción que prestarán el servicio público de seguridad en las zonas urbanas y rurales del Estado en los términos de lo previsto en esta Ley. Se organizarán conforme al Reglamento que expida el Titular del Poder Ejecutivo, en el que se indicarán, entre otros aspectos, la estructura administrativa y operativa, los requisitos de ingreso y permanencia, clasificación de mandos y comandos, sus funciones específicas y las condiciones mínimas de capacitación, adiestramiento y actualización, los esquemas de control y vigilancia sobre el personal operativo y las exigencias para su acreditación y certificación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 148.
 
@@ -1807,7 +1811,7 @@ En los términos del Artículo 115 fracción VII de la Constitución Política d
 
 La Secretaría llevará un riguroso control y supervisión del personal que conforman los Grupos Tácticos o Unidades Especiales de Intervención o de Reacción a que se refiere este Capítulo y, además, considerando la naturaleza de las funciones que desempeñan, deberá instrumentar los mecanismos institucionales que sean necesarios para garantizar la aplicación permanente de pruebas de control de confianza, que permitan examinar la pertinencia entre sus integrantes de los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez, disciplina y lealtad institucional.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 ### CAPÍTULO SEXTO. DE LAS OBLIGACIONES, DERECHOS Y CONDUCTAS PROHIBIDAS DEL PERSONAL DE LA POLICÍA
 
@@ -1831,7 +1835,7 @@ La Secretaría llevará un riguroso control y supervisión del personal que conf
 
 #### SECCIÓN SEGUNDA. DE LAS OBLIGACIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 155.
 
@@ -1943,7 +1947,7 @@ XL. Las demás que les asignen esta Ley y otros ordenamientos aplicables.
 
 En el caso de las fracciones XIII y XIV del Artículo anterior, le corresponde a la Secretaría y en su caso, a las autoridades municipales, establecer los mecanismos de comunicación necesarios para que los integrantes de las instituciones policiales preventivas del Estado y los Municipios cumplan con dichos deberes, cerciorándose que se les provea periódicamente de la información estadística respectiva y de aquellos indicadores, cifras o datos que sean pertinentes en el cumplimiento de las metas u objetivos trazados institucionalmente, propiciando la celebración de reuniones para su análisis y discusión.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 #### SECCIÓN TERCERA. DEL INFORME POLICIAL HOMOLOGADO
 
@@ -1995,7 +1999,7 @@ El informe debe ser completo, los hechos deben describirse con continuidad, cron
 
 Los agentes policiales que realicen detenciones, deberán dar aviso administrativo de inmediato a la Secretaria de la detención, a través del Informe Policial Homologado.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 #### SECCIÓN CUARTA. DE LOS DERECHOS
 
@@ -2031,7 +2035,7 @@ XIII. Inscribirse en el servicio policial de carrera; y
 
 XIV. Los demás que les confieran las Leyes y reglamentos de la materia.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 #### SECCIÓN QUINTA. DE LAS CONDUCTAS PROHIBIDAS
 
@@ -2099,7 +2103,7 @@ XXVIII. Alterar de manera negligente o intencional las evidencias, objetos, inst
 
 XXIX. Mostrar un comportamiento discriminatorio en perjuicio de personas en razón de su sexo, preferencia sexual, raza, condición física, edad, nacionalidad, condición social, económica, religiosa o étnica;
 
-> <small>(REFORMADA, P.O.21 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2011)</small>
 
 XXX. Obligar por cualquier medio a sus subalternos a la entrega de dinero o cualquier otro tipo de dádivas;
 
@@ -2107,13 +2111,17 @@ XXX. Obligar por cualquier medio a sus subalternos a la entrega de dinero o cual
 
 XXXI. Revelar asuntos secretos o información reservada de los que tenga conocimiento en razón de su empleo, cargo o comisión;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
-XXXII. Dañar o utilizar de forma negligente el armamento que se le proporcione para la prestación del servicio; o
+XXXII. Dañar o utilizar de forma negligente el armamento que se le proporcione para la presentación del servicio;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
-XXXIII. Llevar consigo durante el pase de lista, o al momento de su llegada a las instalaciones policiales al inicio del turno, uno o varios teléfonos móviles, radiofrecuencias o cualesquier aparato de comunicación que no sea de aquellos que se le hubieran proporcionado por la dependencia correspondiente para la función del cargo.
+XXXIII. Llevar consigo durante el pase de lista, o al momento de su llegada a las instalaciones policiales al inicio del turno, uno o varios teléfonos móviles, radiofrecuencias o cualesquier aparato de comunicación que no sea de aquellos que se le hubieran proporcionado por la dependencia correspondiente para la función del cargo; o
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+XXXIV. Omitir el aviso inmediato a la autoridad municipal correspondiente de la existencia de lotes baldíos que sean propicios para la comisión de actividades ilícitas y que hayan sido detectados por la vigilancia de calles y vías públicas o por denuncia ciudadana.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE DICIEMBRE DE 2011)</small>
 
@@ -2341,7 +2349,7 @@ En la ejecución de las medidas sancionadoras decretadas por la autoridad judici
 
 Las instancias públicas estatales, cuya competencia incida en la atención de adolescentes, otras instancias del sector federal y municipal, así como las agrupaciones del sector privado vinculadas con la materia, son auxiliares en el cumplimiento de las medidas sancionadoras emitidas por la autoridad competente.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 ## TITULO NOVENO. DEL DESARROLLO POLICIAL
 
@@ -2423,7 +2431,7 @@ En términos de las disposiciones aplicables, los titulares de las Instituciones
 
 Dentro del Servicio de Carrera de la Policía sólo se podrá ingresar, permanecer y ascender a la categoría o jerarquía inmediata superior y ser separado, en los términos y las condiciones que establece esta Ley, y el Reglamento correspondiente.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 ### CAPÍTULO CUARTO. DEL RÉGIMEN LABORAL
 
@@ -2519,11 +2527,11 @@ XIII. No ausentarse del servicio sin causa justificada, por un periodo de tres d
 
 XIV. Las demás que establezcan las disposiciones legales aplicables.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 ### CAPÍTULO QUINTO. DE LOS ASCENSOS
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 198 Bis 10.
 
@@ -2553,7 +2561,7 @@ De igual manera, en los términos que indique el Reglamento de esta Ley, cuando 
 
 Le corresponde a los Ayuntamientos de los Municipios expedir la reglamentación que regule las prestaciones señaladas en esta Sección a favor de los elementos policiales a su cargo.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 ### CAPÍTULO SEXTO. DE LAS CONDECORACIONES, ESTÍMULOS ECONÓMICOS Y RECOMPENSAS
 
@@ -2635,7 +2643,7 @@ II. El de las comisiones fuera del servicio de la Policía; y
 
 III. El de las suspensiones, en los casos en que éstas sean obstáculos para la concesión del ascenso.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 #### SECCIÓN SÉPTIMA. DE LA TERMINACIÓN DEL NOMBRAMIENTO
 
@@ -2713,7 +2721,7 @@ l. Para las áreas operativas, de policía a Comisario General; y
 
 II. Para los servicios, de policía a Comisario Jefe.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 ### CAPÍTULO SÉPTIMO. DE LO PROCESOS DE CERTIFICACIÓN
 
@@ -2729,7 +2737,7 @@ Las condecoraciones, estímulos económicos y recompensas a que se hagan acreedo
 
 La Secretaría tratándose de elementos estatales y las dependencias municipales verificará que las condecoraciones, estímulos económicos y recompensas que se les otorgue a los elementos policiales se inscriban en el Registro Estatal del Personal de Seguridad Pública a que se refiere esta Ley.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 ### CAPÍTULO OCTAVO. DE LA TERMINACIÓN DEL NOMBRAMIENTO
 
@@ -2783,11 +2791,11 @@ V. La aplicación de pruebas de polígrafo;
 
 El Consejo de Coordinación podrá proponer al Centro de Control y de Confianza elementos adicionales para las evaluaciones a que refiere el presente artículo.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 ### CAPÍTULO NOVENO. DE LA PROFESIONALIZACIÓN Y DE LA ACADEMIA ESTATAL DE SEGURIDAD PÚBLICA
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 198 Bis 30.
 
@@ -2833,7 +2841,7 @@ En el procedimiento establecido en este Artículo tratándose de ofrecimiento de
 
 Para efectos de lo dispuesto en el presente Artículo, será de aplicación supletoria la Ley de Responsabilidades de Servidores Públicos del Estado y Municipios del Estado de Nuevo León.
 
-> <small>(ADICIONADO CON LA SECCION Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(ADICIONADO CON LA SECCIÓN Y ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 ### CAPÍTULO SEGUNDO (SIC). DE LA ACADEMIA ESTATAL DE SEGURIDAD PÚBLICA
 
@@ -3083,7 +3091,7 @@ El Reglamento de la Academia Estatal de Seguridad Pública determinará los line
 
 (DEROGADO, P.O. 28 DE OCTUBRE DE 2010)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 ## TITULO DÉCIMO. DEL REGIMEN DISCIPLINARIO
 
@@ -3171,23 +3179,33 @@ Cualquier controversia interna que se relacione con el funcionamiento de las ins
 
 (DEROGADO, P.O. 28 DE OCTUBRE DE 2010)
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 223.
 
-Con independencia de la responsabilidad penal a que hubiere a lugar, serán motivo de la aplicación del apercibimiento como correctivo disciplinario las conductas descritas en las fracciones I, VI ó XIV del Artículo 158, pero si esta conducta es reiterada en un lapso de treinta días naturales se le aplicará la amonestación o incluso, el cambio de adscripción si con ella se afecta notoriamente la buena marcha y disciplina del grupo operativo al que este asignado. Si se acumulan tres o más amonestaciones en el lapso de un año será motivo de arresto.
+Con independencia de la responsabilidad penal a que hubiere a lugar, serán motivo de la aplicación del apercibimiento como correctivo disciplinario las conductas descritas en las fracciones I, VI, XIV ó XXXIV del Artículo 158, pero si esta conducta es reiterada en un lapso de treinta días naturales se aplicará la amonestación o incluso, el cambio de adscripción si con ella se afecta notoriamente la buena marcha y disciplina del grupo operativo al que este asignado. Si se acumulan tres o más amonestaciones en el lapso de un año será motivo de arresto.
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 Las conductas descritas en las fracciones III, IV ó XXVIII del Artículo 158 serán sancionadas con la suspensión temporal de sus funciones; pero si además de ello, se afecta notoriamente la buena marcha y disciplina del grupo operativo al que esté asignado, se le impondrá como medida el cambio de adscripción; si se produce un daño o perjuicio a la seguridad pública, a la institución a la que pertenece o a terceras personas será causa de destitución, según la gravedad del caso, independientemente de la responsabilidad en que pueda incurrir.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2010)</small>
+
 Quienes incurran en las conductas prevista (sic) en las fracciones VII ó XXXII del Artículo 158, se le aplicará como sanción la suspensión temporal o la destitución del cargo según corresponda por la naturaleza o gravedad del caso.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2010)</small>
+
 Las conductas descritas en las fracciones V ó XXII serán motivo de la aplicación como sanción de la suspensión temporal de sus funciones, pero si se realiza con la pretensión de obtener un lucro o beneficio indebido será causa de destitución, según la gravedad del caso.
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 Serán motivo de imposición de separación temporal o destitución, según la naturaleza o gravedad del caso, las conductas previstas en las fracciones II, XII, XVII y XXXIII del Artículo 158.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2011)</small>
 
 Son causas de destitución las conductas descritas en los incisos VIII, IX, X, XI, XIII, XV, XVI, XVIII, XIX, XX, XXI, XXIII, XXIV, XXV, XXVI, XXVII, XXIX, XXX, ó XXXI del Artículo 158, y la del Artículo 159.
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 También son causas de destitución e inhabilitación:
 
@@ -3379,7 +3397,7 @@ EL C. SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO
 
 RUBEN EDUARDO MARTÍNEZ DONDÉ
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 21 DE NOVIEMBRE DE 2008.
 
@@ -3436,5 +3454,9 @@ P.O. 30 DE NOVIEMBRE DE 2011.
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial del Estado.
 
 P.O. 21 DE DICIEMBRE DE 2011.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE SEPTIEMBRE DE 2012.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
