@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-3327"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2012-07-27"
+last_updated: "2012-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
 > <small>N. DE E. EL PRESENTE ORDENAMIENTO SERA ABROGADO PROGRESIVAMENTE, SEGÚN CORRESPONDA EL PARTIDO JUDICIAL DEL ESTADO, POR LOS ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 19 DE OCTUBRE DE 2007, 13 DE NOVIEMBRE DE 2009 Y 22 DE ENERO DE 2010.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2012.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1545,7 +1545,9 @@ Intervención de peritos.- Siempre que para el examen de personas, hechos u obje
 
 > <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 1992)</small>
 
-Artículo 169 BIS.- Dictámenes Periciales.- Cuando el inculpado pertenezca a un grupo étnico indígena, el juzgador deberá allegarse dictámenes periciales, a fin de ahondar en el conocimiento de su personalidad y captar su diferencia cultural respecto a la cultura media regional y nacional.
+###### Artículo 169 Bis.
+
+Dictámenes Periciales.- Cuando el inculpado pertenezca a un grupo étnico indígena, el juzgador deberá allegarse dictámenes periciales, a fin de ahondar en el conocimiento de su personalidad y captar su diferencia cultural respecto a la cultura media regional y nacional.
 
 ###### Artículo 170.
 
@@ -2011,7 +2013,9 @@ Las medidas cautelares aludidas en este precepto son exclusivamente encuadradas 
 
 > <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 1992)</small>
 
-Artículo 231 BIS.- Averiguación Previa.- En la averiguación previa en contra de personas que no hablen o no entiendan suficientemente el idioma castellano, se le nombrará un traductor desde el primer día de su detención, quien deberá asistirla en todos los actos procedimentales sucesivos y en la correcta comunicación que haya de tener con su defensor.
+###### Artículo 231 Bis.
+
+Averiguación Previa.- En la averiguación previa en contra de personas que no hablen o no entiendan suficientemente el idioma castellano, se le nombrará un traductor desde el primer día de su detención, quien deberá asistirla en todos los actos procedimentales sucesivos y en la correcta comunicación que haya de tener con su defensor.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 20 DE SEPTIEMBRE DE 1992)</small>
 
@@ -2277,7 +2281,9 @@ Cuando la consignación se haga con detenido el juez radicará de inmediato y ab
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
-Artículo 266 BIS.- Auto de Libertad por Indebida Detención con Reservas Legales.- El Juez que reciba la consignación con detenido, revisará de inmediato si la detención se apegó al artículo 16 constitucional, ratificándola en caso afirmativo o dictando auto de libertad en favor del inculpado, cuando la detención sea indebida. En esta última hipótesis devolverá las constancias al Ministerio Público, dejando copia fotostática certificada de las mismas, para que éste ejercite nuevamente la acción penal, solicitando la aprehensión del inculpado, cuando proceda.
+###### Artículo 266 Bis.
+
+Auto de Libertad por Indebida Detención con Reservas Legales.- El Juez que reciba la consignación con detenido, revisará de inmediato si la detención se apegó al artículo 16 constitucional, ratificándola en caso afirmativo o dictando auto de libertad en favor del inculpado, cuando la detención sea indebida. En esta última hipótesis devolverá las constancias al Ministerio Público, dejando copia fotostática certificada de las mismas, para que éste ejercite nuevamente la acción penal, solicitando la aprehensión del inculpado, cuando proceda.
 
 ### CAPITULO II. ORDEN DE COMPARECENCIA Y DE APREHENSION
 
@@ -2373,9 +2379,11 @@ Constancias de antecedentes penales.- Dictado el auto de formal prisión o de su
 
 La constancia de antecedentes penales solo será expedida por la Secretaría de Seguridad Pública, y contendrá la identificación del inculpado y todos los datos relativos a cualquier averiguación o proceso penal instaurado en su contra, cuando la requiera una autoridad competente, pero cuando sea el interesado quien la solicite, los antecedentes solo harán referencia a sentencias condenatorias, por delitos de carácter doloso, debidamente ejecutoriadas. En cualquier otro caso, la constancia especificará la ausencia de antecedentes penales.
 
-> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
-Artículo 279 BIS.- De la cancelación de los antecedentes penales.- Los antecedentes penales se cancelarán conforme a las siguientes reglas:
+###### Artículo 279 Bis.
+
+De la cancelación de los antecedentes penales.- Los antecedentes penales se cancelarán conforme a las siguientes reglas:
 
 1.- Que se haya cubierto la reparación del daño y pago de la multa;
 
@@ -2385,11 +2393,13 @@ a) Un año cuando la sanción no sea privativa de libertad;
 
 b) Tres años para las restantes sanciones;
 
-Estos plazos se cantarán desde el día siguiente a aquel en que se cumpla o prescriba la pena respectiva.
+Estos plazos se contarán desde el día siguiente a aquel en que se cumpla o prescriba la pena respectiva.
 
 Quedan excluidos de la presente disposición los antecedentes penales que se deriven de delitos considerados como graves.
 
-Las personas que conforme a este artículo tengan derecho a solicitar la cancelación de sus antecedentes penales, podrán hacerlo ante el órgano judicial que hubiere conocido del asunto, y se tramitará como incidente no especificado, en los términos de lo dispuesto por el artículo 411 de este Código. Este beneficio se otorgará por una sola ocasión, en caso de reincidencia se identificará al procesado por el sistema adoptado administrativamente.
+El Juez una vez que tenga el conocimiento de las hipótesis jurídicas señaladas con antelación, turnará y solicitará de oficio que se cancele el antecedente penal ante la Secretaría de Seguridad Pública del Estado de Baja California.
+
+La persona interesada podrá informarle y requerirle al Órgano Jurisdiccional que hubiera conocido del asunto, por medio de promoción, para que se realicen las acciones necesarias para la emisión de la carta de no antecedentes penales.
 
 ###### Artículo 280.
 
@@ -2705,7 +2715,9 @@ La omisión de este requisito surte el efecto de duplicar el plazo legal para in
 
 > <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
-Artículo 319 BIS.- Sujetos que pueden Apelar.- Tienen derecho a apelar el Ministerio Público, el inculpado o su defensor, también puede interponer este recurso la víctima o el ofendido y sus legítimos representantes, cuando hayan sido designados ante el Ministerio Público o ante el Juez de la causa, pero sólo contra el auto de sobreseimiento, las resoluciones que nieguen las medidas de aseguramiento patrimonial o la Sentencia Definitiva, cuando ésta sea condenatoria pero no decrete la reparación del daño o lo haga en cantidad inferior a la solicitada por el Ministerio Público.
+###### Artículo 319 Bis.
+
+Sujetos que pueden Apelar.- Tienen derecho a apelar el Ministerio Público, el inculpado o su defensor, también puede interponer este recurso la víctima o el ofendido y sus legítimos representantes, cuando hayan sido designados ante el Ministerio Público o ante el Juez de la causa, pero sólo contra el auto de sobreseimiento, las resoluciones que nieguen las medidas de aseguramiento patrimonial o la Sentencia Definitiva, cuando ésta sea condenatoria pero no decrete la reparación del daño o lo haga en cantidad inferior a la solicitada por el Ministerio Público.
 
 ###### Artículo 320.
 
@@ -2935,7 +2947,7 @@ Ejecución del reconocimiento.- Si se declara fundada la solicitud de reconocimi
 
 ###### Artículo 352
 
-BIS.- Procedencia y Trámite Procesal.- El recurso de revisión procede contra las resoluciones del Ministerio Público, que decreten el no ejercicio de la acción penal.
+Bis.- Procedencia y Trámite Procesal.- El recurso de revisión procede contra las resoluciones del Ministerio Público, que decreten el no ejercicio de la acción penal.
 
 La revisión debe interponerse ante el mismo agente del Ministerio Público, en el término previsto en el Artículo 262 de este Código, exponiendo los motivos de inconformidad, para que éste envíe el escrito y las constancias de la averiguación previa al Juez de la Primera Instancia Penal que corresponda, a fin de que resuelva sobre la legalidad de dicha resolución en un plazo de treinta días, contados desde la fecha en que se radique el recurso.
 
@@ -3888,3 +3900,7 @@ PRIMERO.- El presente Decreto entrará en vigor a los noventa días posteriores 
 SEGUNDO.- En tanto el Ejecutivo estatal realice las adecuaciones a la reglamentación correspondiente, a fin de dar el debido cumplimiento a las disposiciones de este ordenamiento, serán competentes para conocer sobre los delitos previstos en el artículo 4 párrafo primero de esta ley y ejercer la acción de extinción de dominio, las áreas o unidades adscritas a la Subprocuraduría contra la Delincuencia Organizada de la Procuraduría General de Justicia del Estado, de conformidad con los acuerdos que para tal efecto emita el Procurador.
 
 TERCERO.- En tanto el Poder Judicial del Estado realice las adecuaciones necesarias a su estructura interna, a fin de dar cumplimiento en el ámbito de su competencia a lo establecido en esta ley, serán competentes para conocer del procedimiento de extinción de dominio los juzgados de lo civil, de conformidad con los acuerdos que para tal efecto determine el Consejo de la Judicatura.
+
+P.O. 28 DE SEPTIEMBRE DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
