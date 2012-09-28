@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-del-instituto-de-vivienda-del-estado-de-671
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-04-19"
-last_updated: "1995-04-19"
+last_updated: "2012-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6716&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE VIVIENDA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 19 de abril de 1995.
 
@@ -61,9 +61,13 @@ El Instituto de Vivienda del Estado de Morelos, como organismo público descentr
 
 Sin perjuicio de lo preceptuado en el artículo que antecede, el Instituto de Vivienda tendrá de manera enunciativa y no limitativa, las siguientes atribuciones o facultades:
 
-I.- Promover la desregulación y simplificación normativa, administrativa y fiscal de la producción, financiamiento, comercialización de insumos, arrendamiento y adquisición de vivienda, en especial la de interés social, popular y rural;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
-II.- Canalizar mayores recursos públicos y privados al financiamiento de la vivienda urbana y rural en beneficio de los sectores mayoritarios de la población, haciendo accesible el crédito;
+I.- Promover, sin menoscabo de las atribuciones de otras áreas, la desregulación y simplificación administrativa, en cuanto hace a la adquisición de vivienda económica, de interés social y de interés popular, en todas las modalidades señaladas por la Ley;
+
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+II.- Canalizar mayores recursos públicos y privados al financiamiento para la adquisición, mejora y ampliación de vivienda, focalizándola en localidades con alta y muy alta marginación, haciendo accesible el crédito;
 
 III.- Impulsar la utilización de predios baldíos y adecuar las normas para elevar la densidad habitacional y aprovechar eficientemente la infraestructura y equipamiento instalados, así como fomentar el mejoramiento y la rehabilitación de la vivienda existente;
 
@@ -79,25 +83,35 @@ VIII.- Elevar los niveles de bienestar del campesino y de los grupos indígenas 
 
 IX.- Fomentar programas de investigación y capacitación para desarrollar, sistematizar y aplicar tecnologías de bajo costo para la edificación y mejoramiento de la vivienda;
 
-X.- Concertar con productores y distribuidores privados y sociales, para hacer más eficiente la comercialización de materiales para la construcción empleados en la vivienda de interés social y popular;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
-XI.- Ratificar o suscribir convenios con los sectores social y privado, para elevar los niveles de seguridad, economía y calidad en la edificación de vivienda;
+X.- Concertar con los productores y distribuidores privados y sociales, para hacer más eficiente la comercialización de materiales para la construcción empleados en la vivienda, en todas sus modalidades;
 
-XII.- Apoyar la constitución de reservas territoriales que satisfagan las necesidades de vivienda de la población;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
-XIII.- Gestionar ante las autoridades competentes, la desgravación, desregulación y simplificación de normas y trámites federales y locales en materia de desarrollo urbano y para la producción, mejoramiento, financiamiento, comercialización, arrendamiento y adquisición de vivienda, en especial la de interés social, popular y rural;
+XI.- Ratificar o suscribir convenios con los sectores público, social y privado, para elevar los niveles de seguridad, economía y calidad en la edificación de vivienda;
 
-XIV.- Cuidar que los proyectos de vivienda que se realicen en la Entidad, cumplan con las disposiciones de impacto ambiental y protección ecológica; y
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+XII.- Gestionar recursos para la adquisición de suelo apto para vivienda y coadyuvar en la constitución de reservas territoriales que satisfagan las necesidades de vivienda de la población;
+
+XIII.- (DEROGADA, P.O. 28 DE SEPTIEMBRE DE 2012)
+
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+XIV.- Fomentar que los proyectos de vivienda que se realicen en la Entidad, cumplan con las disposiciones de impacto ambiental y protección ecológica, sustentabilidad y ordenamiento territorial, y
 
 XV.- Las demás facultades y obligaciones que establezcan otras disposiciones legales.
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTICULO 4.
 
-El Instituto de Vivienda, con fundamento en el artículo 2 BIS de la Ley que lo crea, tendrá intervención para el cumplimiento de sus atribuciones legales en el trámite de autorizaciones, licencias o permisos relativos a vivienda de interés social, popular o rural en el Estado, para lo cual se integrará a la Comisión Reguladora de Fraccionamientos, Condominios y Conjuntos Habitacionales del Estado, participando con voz y voto.
+El Instituto de Vivienda con fundamento en el artículo 2 BIS de la Ley que lo crea, tendrá intervención para el cumplimiento de sus atribuciones legales en el trámite de autorizaciones, licencias o permisos relativos a vivienda económica, de interés social y de interés popular en el Estado, para lo cual se integrará a la Comisión Estatal de Fraccionamientos, Condominios y Conjuntos Urbanos del Estado.
 
 ###### ARTICULO 5.
 
-La intervención del Instituto, a que se refiere el artículo anterior así como su integración a la Comisión Reguladora de Fraccionamientos, Condominios y Conjuntos Habitacionales, se limitará sólo a las sesiones relacionadas con los proyectos de vivienda social, rural y popular. Los servidores públicos deberán cooperar en el ámbito de sus atribuciones al desempeño de las funciones del Instituto de Vivienda.
+(DEROGADO, P.O. 28 DE SEPTIEMBRE DE 2012)
 
 ### CAPITULO II. DE LA ORGANIZACION DEL INSTITUTO
 
@@ -121,7 +135,9 @@ II.- Subdirección Técnica;
 
 III.- Subdirección de Promoción Social;
 
-IV.- Subdirección de Finanzas;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+IV.- Subdirección de Administración y Finanzas, y
 
 V.- Subdirección Jurídica.
 
@@ -129,9 +145,11 @@ V.- Subdirección Jurídica.
 
 Las unidades administrativas del Instituto conducirán sus actividades en forma programada y con base en las políticas, prioridades y restricciones que para el logro de sus objetivos y metas, de los planes, programas y proyectos a su cargo, establezca el Director General y la Junta de Gobierno.
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTICULO 9.
 
-Al Instituto de Vivienda se integrará de manera permanente, un representante de la Contraloría General del Estado, en cumplimiento a lo dispuesto por la Ley Orgánica de la Administración Pública Estatal y el Reglamento Interior de la Contraloría General del Estado.
+Al Instituto de Vivienda se integrará de manera permanente un Comisario, como representante de la Secretaría de la Contraloría del Estado, en cumplimiento a lo dispuesto por la Ley de los Organismos Auxiliares de la Administración Pública del Estado de Morelos y el Reglamento Interior de la Secretaría de la Contraloría.
 
 ## TITULO SEGUNDO. DE LA INTEGRACION Y FUNCIONES DE LA JUNTA DE GOBIERNO
 
@@ -139,21 +157,11 @@ Al Instituto de Vivienda se integrará de manera permanente, un representante de
 
 DE LA INTEGRACION DE LA JUNTA DE GOBIERNO.
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTICULO 10.
 
-La Junta de Gobierno del Instituto será la autoridad máxima y se integrará en la siguiente forma:
-
-I.- Por un Presidente, que será el Gobernador Constitucional del Estado, quien podrá ser sustituido en sus ausencias por el Secretario General de Gobierno;
-
-II.- Por un Secretario Técnico, que será el Secretario de Desarrollo Urbano y Obras Públicas;
-
-III.- Por tres miembros que serán:
-
-A).- El Secretario de Hacienda;
-
-B).- El Secretario de Desarrollo Agropecuario;
-
-C).- El Secretario de Desarrollo Económico.
+La Junta de Gobierno se integrará conforme a lo establecido en el artículo 6 de la Ley del Instituto de Vivienda del Estado de Morelos.
 
 ###### ARTICULO 11.
 
@@ -169,7 +177,9 @@ A las sesiones de la Junta de Gobierno asistirán con voz, pero sin voto:
 
 A).- El Director General del Instituto, para el cumplimiento de sus funciones;
 
-B).- Un representante de la Contraloría General del Estado, el que vigilará que el cumplimiento y ejecución de las funciones que le son propias y el manejo de recursos que se apliquen se efectúe conforme a las disposiciones legales aplicables, y al efecto practicará las auditorías que correspondan, de las que informará a la Junta de Gobierno.
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+B).- El Comisario del Instituto de Vivienda del Estado de Morelos como representante de la Secretaría de la Contraloría del Estado, vigilará el cumplimiento y ejecución de las funciones que le son propias y que el manejo de recursos que se apliquen se efectúe conforme a las disposiciones legales aplicables, por lo que, al efecto, practicará las revisiones y auditorías que correspondan, de las que informará a la Junta de Gobierno.
 
 ### CAPITULO II. DE LAS FUNCIONES DE LA JUNTA DE GOBIERNO
 
@@ -189,9 +199,13 @@ III.- Verificar que se cumplan los acuerdos de la Junta de Gobierno; y
 
 IV.- Las demás funciones que la Junta de Gobierno le asigne.
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTICULO 16.
 
-La Junta de Gobierno se reunirá en forma ordinaria cada seis meses y en forma extraordinaria cuando lo considere su Presidente; la asistencia de la mitad más uno de los integrantes hará que el quórum sea legal, los acuerdos y decisiones se tomarán por mayoría de votos. El Presidente tendrá voto de calidad en caso de presentarse un empate.
+La Junta de Gobierno se reunirá en forma ordinaria, cuando menos, seis veces por año y en forma extraordinaria cuando lo considere necesario su Presidente por la urgencia o importancia del caso.
+
+La asistencia de la mitad más uno de los integrantes hará que el quórum sea legal. Los acuerdos y decisiones se tomarán por mayoría de votos de los presentes. El Presidente tendrá voto de calidad en caso de presentarse un empate.
 
 ## TITULO TERCERO. DE LAS FUNCIONES DEL DIRECTOR GENERAL
 
@@ -201,17 +215,21 @@ La Junta de Gobierno se reunirá en forma ordinaria cada seis meses y en forma e
 
 La responsabilidad de operación y administración del Instituto de Vivienda del Estado de Morelos recaerá en un Director General que será designado y removido por el Titular del Poder Ejecutivo.
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTICULO 18.
 
-Con excepción de aquéllas que tengan el carácter de no delegables, la presentación, trámite, firma y resolución de los asuntos del Instituto corresponde originalmente al Director, previo acuerdo de la Junta de Gobierno, cuando así sea necesario; sin embargo, podrá delegar sus facultades en funcionarios subalternos sin perder por ello la atribución de su ejercicio directo.
+Con excepción de aquéllas que tengan el carácter de no delegables, la representación, trámite, firma y resolución de los asuntos del Instituto corresponde originalmente al Director General, previo acuerdo de la Junta de Gobierno, cuando así sea necesario; sin embargo, podrá delegar sus facultades en funcionarios subalternos, sin perder por ello la atribución de su ejercicio directo.
 
 ###### ARTICULO 19.
 
 El Director General tendrá plena jerarquía sobre las unidades administrativas mencionadas en el artículo séptimo del presente Reglamento, cuyos responsables serán designados y removidos por el Titular de la Dirección General.
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTICULO 20.
 
-Las actividades administrativas de que estará formado el Instituto, tendrán todas el mismo nivel jerárquico y se regirán específicamente bajo las normas que marque la propia Ley del Instituto, la del presente Reglamento y las que les sean asignadas por el Director General.
+Las áreas administrativas señaladas en el artículo 7 de este Reglamento, tendrán todas el mismo nivel jerárquico y se regirán específicamente bajo las normas que marque la propia Ley del Instituto de Vivienda del Estado de Morelos, el presente Reglamento y las disposiciones que, en su ámbito de competencia sean emitidas, por el Director General.
 
 ###### ARTICULO 21.
 
@@ -237,11 +255,17 @@ IX.- Autorizar los nombramientos o contratos, en su caso, del personal de nuevo 
 
 X.- Mantener relaciones de colaboración con los diversos titulares y directivos de las dependencias en el desarrollo de programas conjuntos;
 
-XI.- Participar en las sesiones de la Comisión Reguladora de Fraccionamientos, Condominios y Conjuntos Habitacionales, cuando éstas se relacionen con proyectos de vivienda de interés social, rural y popular;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
-XII.- Las que sean necesarias ejercer o ejercutar (sic), con apego a la Ley del Instituto, su Reglamento y demás normas legales aplicables, con la finalidad de hacer cumplir los objetivos para el que fue creado el Instituto y las atribuciones que le han sido conferidas por su propia Ley y el presente Reglamento;
+XI.- Participar en las sesiones de la Comisión Estatal de Fraccionamientos, Condominios y Conjuntos Urbanos;
 
-XIII.- Las demás que las disposiciones legales reglamentarias le atribuyan, así como aquéllas que le confiera la Junta de Gobierno.
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+XII.- Fungir como Secretario Técnico del Comité Técnico de Vivienda, en cumplimiento a lo establecido por la Ley de Vivienda del Estado Libre y Soberano de Morelos;
+
+XIII.- Las que sean necesarias ejercer o ejecutar, con apego a la Ley del Instituto de Vivienda del Estado de Morelos, su Reglamento y demás normas legales aplicables, con la finalidad de hacer cumplir los objetivos para el que fue creado el Instituto y las atribuciones que le han sido conferidas por su propia Ley y el presente Reglamento, y
+
+XIV.- Las demás que las disposiciones legales reglamentarias le atribuyan, así como aquéllas que le confiera la Junta de Gobierno.
 
 ## TITULO CUARTO. DE LA INTEGRACION Y FUNCIONAMIENTO DEL CONSEJO TECNICO CONSULTIVO
 
@@ -251,33 +275,11 @@ XIII.- Las demás que las disposiciones legales reglamentarias le atribuyan, as�
 
 El Consejo Técnico Consultivo tendrá como función emitir su opinión sobre los asuntos que la Junta de Gobierno estime adecuado someter a su consideración.
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTICULO 23.
 
-El Consejo Técnico Consultivo, como órgano del gobierno del Instituto de Vivienda, estará integrado de la siguiente forma:
-
-I.- Un representante de las organizaciones campesinas;
-
-II.- Un representante de las organizaciones obreras;
-
-III.- El Presidente del Colegio de Notarios;
-
-IV.- El Presidente del Colegio de Arquitectos;
-
-V.- El Presidente del Colegio de Ingenieros Civiles;
-
-VI.- El Presidente de la Cámara de la Industria de la Construcción;
-
-VII.- El Presidente Municipal del lugar en que se vaya a aplicar el programa de vivienda o a que se refiera el asunto planteado;
-
-VIII.- El Delegado de la Comisión para la Regularización de la Tenencia de la Tierra (CORETT);
-
-IX.- El Delegado del Fondo Nacional de Habitaciones Populares (FONHAPO);
-
-X.- El Delegado del Banco Nacional de Obras y Servicios Públicos S.N.C. (BANOBRAS);
-
-XI.- Un representante del Poder Judicial;
-
-XII.- Un representante del Poder Legislativo.
+El Consejo Técnico Consultivo, se integrará conforme a lo establecido por el artículo 16 de la Ley del Instituto de Vivienda del Estado de Morelos.
 
 ### CAPITULO II. DEL FUNCIONAMIENTO DEL CONSEJO TECNICO CONSULTIVO
 
@@ -293,31 +295,43 @@ Los integrantes del Consejo Técnico serán convocados a sesionar, por conducto 
 
 Las sesiones del consejo serán coordinadas por una mesa de debates, la que será nombrada de común acuerdo o por mayoría de votos por los mismos integrantes del Consejo.
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTICULO 27.
 
-Los integrantes de la mesa de debates del Consejo Técnico serán los responsables de tomar los acuerdos u opiniones y llevar las actas de las sesiones, informando a los miembros de la Junta de Gobierno, al Director General del Instituto y al representante de la Contraloría General del Estado, de los resultados obtenidos en las sesiones a que hayan sido convocados.
+Los integrantes de la mesa de debates del Consejo Técnico Consultivo serán responsables de tomar los acuerdos u opiniones y llevar las actas de las sesiones, informando a los miembros de la Junta de Gobierno, al Director General y al Comisario del Instituto, de los resultados obtenidos en las sesiones a que hayan sido convocados.
 
 ## TITULO QUINTO. DE LA ORGANIZACION Y ATRIBUCIONES DE LA (SIC) SUBDIRECCIONES Y UNIDADES ADMINISTRATIVAS QUE DEPENDAN DE LAS MISMAS
 
 ### CAPITULO I. DE LA SUBDIRECCION DE PLANEACION Y CONTROL
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTICULO 28.
 
-La Subdirección de Planeación y Control, para el cumplimiento de las funciones que le sean asignadas, se auxiliará de un Departamento de Estudios y Proyectos y un Departamento de Seguimiento y Control; asimismo será apoyada por los auxiliares que le sean autorizados por la Dirección General o la H. Junta de Gobierno, según sea procedente.
+La Subdirección de Planeación y Control, para el cumplimiento de las funciones que le sean asignadas, se auxiliará de un Asesor de Estudios y Proyectos y de un Departamento de Seguimiento y Control; asimismo será apoyada por los auxiliares que legalmente le sean autorizados, de conformidad con la suficiencia presupuestal.
 
 ###### ARTICULO 29.
 
 A la Subdirección de Planeación y Control le corresponde concretamente el despacho de los siguientes asuntos:
 
-I.- Asesorar técnicamente a las Direcciones del Instituto;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
-II.- Diseñar controles de carácter administrativo que permitan la optimización de los recursos humanos, materiales y financieros del Instituto;
+I.- Coordinar y asesorar a las Subdirecciones del Instituto en el cumplimiento de sus objetivos;
 
-III.- Instrumentar y llevar a cabo programas de capacitación y desarrollo con el personal del Instituto;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+II.- Apoyar en la implementación de controles de carácter administrativo, que permitan la optimización de los recursos humanos, materiales y financieros del Instituto;
+
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+III.- Proponer la implementación de programas de capacitación y desarrollo para el personal del Instituto;
 
 IV.- Coordinar la instrumentación de planes, programas, estudios, proyectos y presupuesto del Instituto;
 
-V.- Recabar, requisitar y resguardar la documentación necesaria para las sesiones, ordinarias o extraordinarias, que celebre la Junta de Gobierno, así como también coordinar todo lo necesario para las reuniones internas, a las que convoque la Dirección General con las demás Subdirecciones;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+V.- Recabar, requisitar y resguardar la documentación necesaria para las sesiones, ordinarias o extraordinarias, así como dar seguimiento a los acuerdos emanados de la Junta de Gobierno, y también coordinar todo lo necesario para las reuniones internas, a las que convoque la Dirección General con las demás Subdirecciones;
 
 VI.- Apoyar al Director General en las actividades técnico-administrativas vigilando el cumplimiento de sus disposiciones y acuerdos;
 
@@ -333,9 +347,13 @@ XI.- Representar al Director General, en funciones que por su naturaleza y base 
 
 XII.- Participar en la orientación de la política de trabajo del Instituto, trazada por el Director General;
 
-XIII.- Implementar, supervisar y controlar el sistema de ventas de lotes y/o viviendas;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
-XIV.- Efectuar negociaciones con la banca, relacionadas con el financiamiento de los proyectos de vivienda;
+XIII.- En coordinación con las distintas Subdirecciones, supervisar y controlar el sistema de ventas de lotes o viviendas;
+
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+XIV.- Efectuar negociaciones con Instituciones de crédito e instituciones públicas y privadas relativas al financiamiento de los proyectos de vivienda;
 
 XV.- Coordinar ante las diferentes instituciones públicas (SEDESOL, FONHAPO, FOVI, BANOBRAS, etc.) la contratación de créditos en apoyo a los programas de vivienda;
 
@@ -343,9 +361,11 @@ XVI.- Las demás que expresamente le confiere el Director General.
 
 ### CAPITULO II. DE LA SUBDIRECCION TECNICA
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTICULO 30.
 
-La Subdirección Técnica, para el cumplimiento de las funciones que le sean asignadas, se auxiliará de un departamento de informática, un departamento de planeación y proyectos, un departamento de supervisión, un técnico en informática, un técnico en vivienda o asentamientos humanos, un dibujante, un topógrafo y por los supervisores que le sean autorizados por la Dirección General o la H. Junta de Gobierno, según sea procedente. La fábrica de adobe depende directamente de esta Subdirección y se designará un administrador, el cual será responsable de ella.
+La Subdirección Técnica, para el cumplimiento de las funciones que le sean asignadas, se auxiliará de un departamento de desarrollo de programas y un departamento de supervisión de programas, asimismo será apoyada por los auxiliares que le sean autorizados por la Junta de Gobierno, de conformidad con la suficiencia presupuestal.
 
 ###### ARTICULO 31.
 
@@ -353,7 +373,9 @@ A la Subdirección Técnica le corresponde concretamente el despacho de los sigu
 
 I.- Determinar la factibilidad y prioridad de los programas a realizar por el Instituto;
 
-II.- Diseñar alternativas de solución a las demandas de vivienda, aplicar técnicas sobre construcción y ecología urbana;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+II.- Diseñar alternativas de solución a las demandas de vivienda, y aplicar técnicas sobre construcción, ecología urbana y sustentabilidad;
 
 III.- Cuantificar la inversión necesaria para la ejecución de los programas resultantes;
 
@@ -365,7 +387,9 @@ VI.- Elaborar los proyectos definitivos acordes a las características socio-eco
 
 VII.- Hacer estudios y elaborar planes y programas para la construcción de desarrollos urbanos, fraccionamientos, casas-habitación y conjuntos habitacionales que acuerde la Junta de Gobierno;
 
-VIII.- Determinar las obras y costos para la recuperación, ampliación o mejoramiento de viviendas cuando así se solicite por quienes estén facultados para ello;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+VIII.- Determinar las obras y costos para la construcción, ampliación y mejoramiento de viviendas cuando así se solicite por quienes estén facultados para ello;
 
 IX.- Asesorar y dirigir, según el caso, a los miembros de las comunidades en la planeación y ejecución de obras de vivienda, cuando se trate de desarrollo urbano integral;
 
@@ -377,31 +401,43 @@ XII.- Supervisar la ejecución de las obras habitacionales;
 
 XIII.- Revisar las estimaciones de obra que los contratistas presenten para su cobro;
 
-XIV.- Detectar, integrar y administrar la reserva territorial para vivienda;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+XIV.- Detectar, integrar y administrar, en coordinación con la Subdirección Jurídica, la reserva territorial para vivienda;
 
 XV.- Investigar modelos habitacionales y sistemas de construcción, aprovechando la experiencia y en su caso adaptación;
 
 XVI.- Establecer la nomenclatura de la vialidad pública de los conjuntos habitacionales;
 
-XVII.- Efectuar análisis de laboratorio para determinar calidad de materiales;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
-XVIII.- Tramitar autorizaciones para la instalación de servicios públicos en coordinación con la Subdirección de Planeación y Control y la Subdirección Jurídica;
+XVII.- Efectuar análisis de laboratorio, en caso de así requerirse, para determinar calidad de materiales en desarrollos habitacionales;
 
-XIX.- Determinar en coordinación con la Subdirección de Planeación y Control los precios de venta de viviendas;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
-XX.- Asesorar al Administrador de la fábrica de adobe en la venta y distribución del producto;
+XVIII.- Tramitar autorizaciones para la instalación de servicios públicos en coordinación con la Subdirección Jurídica;
 
-XXI.- Proporcionar servicios de automatización, procesamiento de datos y asesoría a las demás áreas dentro del Instituto;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
-XXII.- Mantener la disponibilidad de equipo y sistema de cómputo en condiciones para permitir la operatividad de las unidades usuarias;
+XIX.- Determinar en coordinación con la Subdirección de Planeación y Control los costos para construcción y precios de venta de los proyectos de vivienda, a fin de someterlos a la consideración de la Junta de Gobierno;
+
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+XX.- Establecer un sistema de cotizaciones de materiales y precios unitarios de construcción;
+
+XXI.- (DEROGADA, P.O. 28 DE SEPTIEMBRE DE 2012)
+
+XXII.- (DEROGADA, P.O. 28 DE SEPTIEMBRE DE 2012)
 
 XXIII.- Las demás que expresamente le confiera el Director General.
 
 ### CAPITULO III. DE LA SUBDIRECCION DE PROMOCION SOCIAL
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTICULO 32.
 
-La Subdirección de Promoción Social, para el cumplimiento de las funciones que le sean asignadas, se auxiliará de un Departamento de Atención Social, un Departamento de Crédito, una Sección de Coordinaciones de Programas, una Sección de Analistas y un grupo de promotores sociales que le serán autorizados por el Director General o la Junta de Gobierno, según sea procedente, tomando en cuenta sus necesidades.
+La Subdirección de Promoción Social, para el cumplimiento de las funciones que le sean asignadas, se auxiliará de un departamento de promoción social y un departamento de ventanilla única; asimismo será apoyada por los auxiliares que le sean autorizados por la Junta de Gobierno, de conformidad con la suficiencia presupuestal.
 
 ###### ARTICULO 33.
 
@@ -409,11 +445,15 @@ A la Subdirección de Promoción Social le corresponde concretamente el despacho
 
 I.- Detectar y cuantificar necesidades de vivienda;
 
-II.- Promover entre organizaciones sindicales u otros sectores sociales, la construcción de viviendas;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+II.- Promover y atender la demanda social para la construcción, mejoramiento y ampliación de viviendas;
 
 III.- Elaborar los padrones de demanda y necesidades existentes en la ciudad, pueblos y comunidades;
 
-IV.- Efectuar campañas de promoción para la autoconstrucción habitacional;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+IV.- Efectuar campañas de promoción de vivienda y autoconstrucción habitacional;
 
 V.- Llevar a cabo la comercialización de viviendas;
 
@@ -423,7 +463,9 @@ VII.- Atender y clasificar solicitudes que presenten los interesados, así como 
 
 VIII.- Organizar y sensibilizar a la población beneficiada del mantenimiento y aprovechamiento, en su caso, de la casa-habitación así como áreas comunes y espacios de uso público;
 
-IX.- Promover la participación ciudadana en los programas de autoconstrucción de vivienda;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+IX.- Promover la participación ciudadana en los programas de vivienda y autoconstrucción habitacional;
 
 X.- Promover entre la ciudadanía el uso de los recursos financieros del Instituto, para el otorgamiento de créditos en la construcción de la vivienda;
 
@@ -435,21 +477,29 @@ XIII.- Difundir a través de los medios masivos de comunicación, los programas 
 
 XIV.- Las demás que expresamente le confiera el Director General.
 
-### CAPITULO IV. DE LA SUBDIRECCION DE FINANZAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+### CAPITULO IV. DE LA SUBDIRECCION DE ADMINISTRACION Y FINANZAS
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTICULO 34.
 
-La Subdirección de Finanzas, para el cumplimiento de las funciones que le sean asignadas, se auxiliará de un Departamento de Contabilidad, un Departamento de Control y Recuperación, un Departamento de Recursos Humanos y Materiales, una Sección de Control y una de Recuperación; asimismo, se apoyará por un grupo de auxiliares que le serán autorizados por el Director General o la Junta de Gobierno.
+La Subdirección de Administración y Finanzas, para el cumplimiento de las funciones que le sean asignadas, se auxiliará de un Departamento de Contabilidad, un Departamento de Recuperación, un Departamento de Recursos Humanos y Materiales así como de un Departamento de Informática, que serán apoyados por los auxiliares que le sean autorizados por la Junta de Gobierno, de conformidad con la suficiencia presupuestal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTICULO 35.
 
-A la Subdirección de Finanzas le corresponde concretamente el despacho de los siguientes asuntos:
+A la Subdirección de Administración y Finanzas le corresponde concretamente el despacho de los siguientes asuntos:
 
 I.- Investigar, formular y desarrollar estrategias financieras que aseguren la provisión del fondo necesario para la realización de las actividades del Instituto;
 
 II.- Formular el anteproyecto de presupuesto anual de egresos del Instituto y someterlo a consideración del Director General;
 
-III.- Establecer y mantener un sistema de información del entorno económico y financiero del país, que permita evaluar las implicaciones que puedan incidir en las actividades del Instituto;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+III.- Establecer y mantener un sistema de información del entorno económico y financiero del sector vivienda, que permita evaluar las implicaciones que puedan incidir en las actividades del Instituto;
 
 IV.- Establecer los mecanismos de recuperación de créditos otorgados al Instituto por Instituciones Financieras o Dependencias Federales de Crédito;
 
@@ -461,9 +511,13 @@ VII.- Programar el pago de estimaciones, facturas y órdenes de trabajo en gener
 
 VIII.- Llevar la contabilidad del ejercicio del presupuesto y demás operaciones financieras del Instituto;
 
-IX.- Intervenir en coordinación con la Dirección de Planeación y Control y la Dirección Técnica en la determinación de los precios de vivienda;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
-X.- Administrar las ventas y cobranzas por la comercialización de viviendas y desarrollos urbanos;
+IX.- Intervenir, en coordinación con la Subdirección de Planeación y Control y la Subdirección Técnica, en la determinación de los costos de edificación de vivienda y precios de venta;
+
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+X.- Administrar, en coordinación con las demás áreas del Instituto, la cobranza por el otorgamiento de créditos y apoyos de vivienda;
 
 XI.- Diseñar y proponer al Director General, sistemas y procedimientos de mejoramiento administrativo;
 
@@ -487,33 +541,57 @@ XX.- Efectuar las compras, administrar el almacén y proveer de recursos materia
 
 XXI.- Autorizar y tramitar las órdenes de pago a proveedores;
 
-XXII.- En coordinación con la Subdirección Técnica y la de Planeación y Control, elaborará y mantendrá actualizado el registro del patrimonio del Instituto;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+XXII.- Elaborar y mantener actualizado el registro del patrimonio del Instituto, en coordinación con las demás áreas;
 
 XXIII.- Llevar el inventario de mobiliario y equipo de oficina, así como de vehículos, maquinaria u otros equipos propiedad del Instituto;
 
 XXIV.- Mantener y reparar, en su caso, los vehículos al servicio del Instituto;
 
-XXV.- Convocar a contratistas y someter a concurso la construcción de unidades habitacionales;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
-XXVI.- Establecer un sistema de cotizaciones de materiales y precios unitarios de construcción;
+XXV.- Convocar a contratistas y someter a concurso la adquisición de bienes y la construcción de obras que ejecute el Instituto, en términos de Ley;
 
-XXVII.- Elaborar un padrón de proveedores para todo el Estado de Morelos, negociando el otorgamiento de precios aplicables para todas las comunidades del Estado, cuando sea posible;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
-XXVIII.- Llevar a cabo los procedimientos de licitación pública, en coordinación con las Subdirecciones Técnica y de Planeación y Control y con apoyo de la Subdirección Jurídica;
+XXVI.- Implementar controles de carácter administrativo que permitan la optimización de los recursos humanos, materiales y financieros del Instituto;
+
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+XXVII.- Elaborar un padrón de proveedores;
+
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+XXVIII.- Llevar a cabo los procedimientos de licitación pública, en coordinación con las demás Subdirecciones;
 
 XXIX.- Llevar a cabo el servicio de recepción y despacho de correspondencia;
 
 XXX.- Administrar el archivo de la Institución;
 
-XXXI.- Proporcionar el servicio de mantenimiento e intendencia de la Institución; y
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
-XXXII.- Las demás que expresamente le confiera el Director General.
+XXXI.- Proporcionar servicios de automatización, procesamiento de datos y asesoría a las demás áreas dentro del Instituto;
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+XXXII.- Mantener la disponibilidad de equipo y sistema de cómputo en condiciones para permitir la operatividad de las unidades usuarias;
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+XXXIII.- Instrumentar y llevar a cabo programas de capacitación y desarrollo con el personal del Instituto;
+
+XXXIV.- Proporcionar el servicio de mantenimiento e intendencia de la institución, y
+
+XXXV.- Las demás que expresamente le confiera el Director General.
 
 ### CAPITULO V. DE LA SUBDIRECCION JURIDICA
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTICULO 36.
 
-La Subdirección Jurídica, para el cumplimiento de las funciones que le sean asignadas, se auxiliará de un abogado general, un departamento jurídico y de un abogado, teniendo este último el carácter de auxiliar.
+La Subdirección Jurídica, para el cumplimiento de las funciones que le sean asignadas, se auxiliará de un departamento de escrituración y de un departamento jurídico, asimismo será apoyada por los auxiliares que le sean autorizados por la Junta de Gobierno, de conformidad con la suficiencia presupuestal.
 
 ###### ARTICULO 37.
 
@@ -535,17 +613,23 @@ VII.- Tramitar la legalización de la reserva territorial;
 
 VIII.- Vigilar que la política laboral del Instituto se aplique de acuerdo a las disposiciones del Poder Ejecutivo y de la Ley del Servicio Civil;
 
-IX.- Asesorar al personal que por algún motivo de su trabajo se vea involucrado en asuntos de carácter legal;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+IX. Asesorar al personal que por motivo de su trabajo se vea involucrado en asuntos de carácter legal, siempre y cuando no sea en perjuicio de los intereses del Ejecutivo Estatal ni del propio Instituto;
 
 X.- Cumplir y hacer cumplir normas jurídicas relacionadas con las funciones del Instituto;
 
 XI.- Intervenir en los concursos que lleve a cabo el Instituto para la adjudicación de contratos de obra pública, revisando las convocatorias que se elaboren y se publiquen;
 
-XII.- En coordinación con la Subdirección Técnica, dar seguimiento a las solicitudes que se presenten ante la Comisión Reguladora de Fraccionamientos, Condominios y Conjuntos Habitacionales;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+XII. En coordinación con la Subdirección Técnica, dar seguimiento a las solicitudes que se presenten ante la Comisión Estatal de Fraccionamientos, Condominios y Conjuntos Urbanos;
 
 XIII.- Registrar y llevar control de los diversos documentos que otorgue el Instituto, por los que se trasmite la propiedad o se concede el uso a los beneficiados de algún programa de vivienda o de asignación de lotes que ejecute el Instituto;
 
-XIV.- En coordinación con la Subdirección de Finanzas, mantener actualizados los ordenamientos jurídicos que se relacionen con las actividades propias del Instituto, formando y resguardando una biblioteca de consulta;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+XIV. En coordinación con la Subdirección de Administración y Finanzas, mantener actualizados los ordenamientos jurídicos que se relacionen con las actividades propias del Instituto, resguardando la información para su consulta;
 
 XV.- Brindar el apoyo y asesoría necesarios que sean de su competencia, a la Subdirección de Promoción Social, para una correcta integración de expedientes e identificación de solicitantes, beneficiados o acreditados;
 
@@ -559,13 +643,17 @@ XIX.- Establecer en los contratos de transmisión que otorgue el Instituto, las 
 
 XX.- Formular actas de entrega-recepción de las casas-habitación o lotes de terreno a beneficiados que acrediten su derecho;
 
-XXI.- Auxiliar al Director en coordinación con las dependencias del Gobierno del Estado para el cumplimiento de la Ley de Responsabilidades de los Servidores Públicos del Estado de Morelos;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+XXI. Auxiliar al Director General, en coordinación con las áreas del Ejecutivo del Estado, para el cumplimiento de la Ley Estatal de Responsabilidades de los Servidores Públicos, y
 
 XXII.- Las demás que expresamente le confiera el Director General.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
 ## TITULO SEXTO
 
-DE LAS REGLAS DE COMPETENCIA Y DE INTERVENCION DEL INSTITUTO DE VIVIENDA, ANTE LA COMISION REGULADORA DE FRACCIONAMIENTOS, CONDOMINIOS Y CONJUNTOS HABITACIONALES.
+DE LAS REGLAS DE COMPETENCIA Y DE INTERVENCION DEL INSTITUTO DE VIVIENDA, ANTE LA COMISION ESTATAL DE FRACCIONAMIENTOS, CONDOMINIOS Y CONJUNTOS URBANOS.
 
 ### CAPITULO I. DE LA COMPETENCIA DEL INSTITUTO
 
@@ -575,29 +663,39 @@ Para efectos del presente Título, se entenderá por:
 
 A).- "Instituto":- Al Instituto de Vivienda del Estado de Morelos;
 
-B).- "La Comisión":- A la Comisión Reguladora de Fraccionamientos, Condominios y Conjuntos Habitacionales del Estado.
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+B).- "La Comisión":- A la Comisión Estatal de Fraccionamientos, Condominios y Conjuntos Urbanos del Estado.
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTICULO 39.
 
-Para el entendimiento y aplicación de los términos: "vivienda de interés social, popular, rural y promotores", se estará a las definiciones o clasificaciones establecidas por el artículo 3o. BIS de la Ley del "Instituto", reformada y adicionada.
+Para el entendimiento y aplicación de los términos: "vivienda económica, de interés social y popular, y promotores", se estará a las definiciones o clasificaciones establecidas por el artículo 3 BIS de la Ley del Instituto de Vivienda del Estado de Morelos.
 
 ###### ARTICULO 40.
 
 La competencia del "Instituto" para intervenir en las sesiones de "la Comisión" se establecerá por lo dispuesto en los artículos 4 y 5 del presente Reglamento.
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTICULO 41.
 
-Sin perjuicio de lo contenido en el artículo anterior, cuando se trate de promociones de vivienda financiadas por las entidades clasificadas como "promotores", con excepción de las personas físicas y morales, aún cuando rebasen el monto máximo establecido para vivienda de "interés social, popular o rural", la tramitación correspondiente se hará por conducto del "Instituto".
+Sin perjuicio de lo contenido en el artículo anterior, cuando se trate de promociones de vivienda financiadas por las entidades clasificadas como "promotores", con excepción de las personas físicas y morales, aún cuando rebasen el monto máximo establecido para vivienda económica, de interés social y popular, la tramitación correspondiente se hará por conducto del "Instituto".
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTICULO 42.
 
-En los casos de promociones de vivienda en las que se pretenda edificar las de "interés social, popular y medio", entendiéndose por ésta la que al término de su edificación no exceda de 35 veces el salario mínimo general elevado al año vigente en el área geográfica del Estado de Morelos, tendrá competencia para su tramitación "El Instituto", siempre que la suma de las dos primeras no sea inferior al 50% del total de viviendas que integren la promoción.
+En los casos de promociones de vivienda en las que se pretenda edificar vivienda económica, de interés social o popular, tendrá competencia para su tramitación el “Instituto", siempre que la suma de las dos primeras no sea inferior al 50% del total de viviendas que integren la promoción.
 
 ### CAPITULO II. DE LA INTERVENCION DEL "INSTITUTO" ANTE "LA COMISION"
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTICULO 43.
 
-Los "Promotores" presentarán sus solicitudes en la forma prevista en la Ley de Fraccionamientos, Condominios y Conjuntos Habitacionales y su Reglamento. "La Comisión" por conducto de su Director turnará al "Instituto", a más tardar el segundo día hábil siguiente al de su recepción, el expediente de toda solicitud relativa a las promociones de vivienda indicadas en los artículos 4, 5, 41 y 42 del presente Reglamento.
+Los promotores presentarán sus solicitudes en la forma prevista en la Ley de Ordenamiento Territorial y Desarrollo Urbano Sustentable y en el Reglamento de la Ley de Fraccionamientos, Condominios y Conjuntos Habitacionales del Estado de Morelos. "La Comisión" por conducto de su Director General turnará al "Instituto", a más tardar el segundo día hábil siguiente al de su recepción, el expediente de toda solicitud relativa a las promociones de vivienda indicadas en los artículos 4, 5, 41 y 42 del presente Reglamento.
 
 ###### ARTICULO 44.
 
@@ -645,9 +743,11 @@ En caso de incumplimiento se procederá a hacer efectiva la garantía en favor d
 
 Para el cumplimiento de sus funciones el "Instituto" vigilará que el procedimiento para la obtención de las autorizaciones sea el más expedito y eficaz para los fines propuestos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTICULO 55.
 
-En todas las promociones de vivienda de interés social, popular, rural e interés medio bajo, elevadas y gestionadas por el "Instituto", para la obtención de la autorización de "la Comisión" sólo se causarán los impuestos, derechos y contribuciones siguientes:
+En todas las promociones de vivienda económica y de interés social y popular, elevadas y gestionadas por el "Instituto", para la obtención de la autorización de "La Comisión" sólo se causarán los impuestos, derechos y contribuciones siguientes:
 
 1.- Revisión general del proyecto.
 
@@ -665,13 +765,17 @@ Por lo que respecta a los impuestos y derechos relativos a la inscripción de lo
 
 se (sic) tendrá como valor de avalúo de las mismas, el precio de venta del inmueble, en la inteligencia de que en ningún caso, tratándose de interés social y popular, la superficie de terreno será inferior a 90.00 M2. Cuando la edificación fuere del tipo departamental o condominal ésta no será inferior a 45.M2 y 55 M2., respectivamente.
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTICULO 57.
 
-En relación con los impuestos, derechos y contribuciones a que se refiere el artículo 55, así como a los derechos de registro, con las facultades establecidas en el artículo 50, el titular del "Instituto" procederá a realizar las gestiones para obtener la desgravación hasta un monto máximo del 75% para las viviendas de interés social; 50 % para las viviendas de interés popular y 25% para las viviendas de interés medio bajo.
+Las desgravaciones a que se refiere este Título se aplicarán de conformidad con lo que establezca la Ley de Ingresos correspondiente. El titular del Ejecutivo Estatal, de conformidad con sus atribuciones, podrá emitir desgravaciones mediante el acuerdo administrativo o fiscal correspondiente.
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTICULO 58.
 
-La Secretaría de Hacienda del Estado, por conducto de las oficinas recaudadoras prestarán su apoyo en el ámbito de su competencia, para el cumplimiento del contenido de la Ley del "Instituto" y del presente Reglamento.
+La Secretaría de Finanzas y Planeación del Estado, por conducto de las oficinas recaudadoras prestarán su apoyo en el ámbito de su competencia, para el cumplimiento del contenido de la Ley del Instituto de Vivienda del Estado de Morelos y del presente Reglamento.
 
 ## TITULO SEPTIMO. DE LA SUPLENCIA DE LOS FUNCIONARIOS DEL INSTITUTO
 
@@ -681,9 +785,11 @@ La Secretaría de Hacienda del Estado, por conducto de las oficinas recaudadoras
 
 Por acuerdo de la Junta de Gobierno, el Director General del Instituto de Vivienda del Estado de Morelos será suplido en sus ausencias temporales de más de 15 días hábiles por el funcionario que expresamente designe.
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTICULO 60.
 
-El Director General del Instituto de Vivienda del Estado de Morelos, durante sus ausencias que no excedan de 5 días hábiles, será suplido por el titular de la Subdirección de Finanzas.
+El Director General del Instituto de Vivienda del Estado de Morelos, durante sus ausencias que no excedan de 15 días hábiles, será suplido por el titular de la Subdirección de Administración y Finanzas.
 
 ###### ARTICULO 61.
 
@@ -693,33 +799,43 @@ La ausencia de alguno de los Subdirectores de área, se suplirá por el funciona
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTICULO 62.
 
-El representante de la Contraloría General del Estado, dependerá directamente de esa misma Institución, la que le indicará sus funciones, atribuciones o facultades.
+El Comisario del Instituto dependerá directamente de la Secretaría de la Contraloría del Estado, de quien recibirá las instrucciones a fin de dar cumplimiento a sus funciones, atribuciones o facultades.
 
 ###### ARTICULO 63.
 
 Las relaciones laborales entre el Instituto y sus trabajadores se regirán por la legislación aplicable a los trabajadores al servicio del Estado.
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTICULO 64.
 
-Sólo se otorgará una acción de vivienda por persona, siempre y cuando no hubiese sido beneficiada por otro organismo similar.
+Sólo se otorgará una acción de adquisición o edificación de vivienda por familia, de acuerdo con las Reglas de Operación aplicables a los Programas vigentes.
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTICULO 65.
 
-Las viviendas o lotes de terreno para vivienda otorgados por el Instituto no podrán enajenarse, hipotecarse, gravarse en ninguna forma o transmitirse a terceros, si no se ha cubierto el importe total del crédito o cubierto éste antes de transcurridos 5 años de otorgado; en tales condiciones serán inembargables salvo por el propio Instituto.
+Las viviendas o lotes de terreno para vivienda otorgados por el Instituto deberán escriturarse a favor del beneficiario directo y no podrán enajenarse, hipotecarse, gravarse en ninguna forma o transmitirse a terceros, si no se ha cubierto el importe total del crédito o no han transcurrido 5 años de otorgado dicho crédito; así mismo, serán inembargables salvo por el propio Instituto.
 
 ###### ARTICULO 66.
 
 El Instituto, así como los grupos sociales que organice para el cumplimiento de sus programas, estarán exentos del pago de impuestos y derechos estatales; el Instituto tramitará, de ser procedente, la exención de los impuestos y derechos federales y municipales correspondientes.
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTICULO 67.
 
-La Subdirección de Planeación y Control, en coordinación con las demás áreas del Instituto y del representante de la Contraloría, será la responsable de expedir el manual interno de procedimientos correspondiente a cada área, mismo que será aprobado por el Director General.
+La Subdirección de Administración y Finanzas, en coordinación con las demás áreas del Instituto, será la responsable de expedir el Manual de Organización y el de Políticas y Procedimientos correspondientes a cada área, mismos que serán aprobados por el Director General.
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTICULO 68.
 
-Los integrantes de los órganos de gobierno del Instituto y su personal de confianza serán responsables en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado.
+Los integrantes del órgano de gobierno en su caso, y el personal del Instituto serán responsables en los términos de la Ley Estatal de Responsabilidades de los Servidores Públicos.
 
 ## TRANSITORIOS
 
@@ -746,3 +862,11 @@ DIRECTOR GENERAL DEL INSTITUTO DE VIVIENDA DEL ESTADO
 L.A.E. LUIS MIGUEL SANTA MARIA MORALES.
 
 RUBRICAS
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE SEPTIEMBRE DE 2012.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones administrativas que se opongan al presente ordenamiento.
