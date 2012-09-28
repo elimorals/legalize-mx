@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-policia-y-buen-gobierno-del-r-ayuntamiento-de-184
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-05-26"
-last_updated: "2000-05-26"
+last_updated: "2012-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE POLICÍA Y BUEN GOBIERNO DEL MUNICIPIO DE LINARES, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 26 de mayo de 2000.
 
@@ -435,7 +435,9 @@ g) Apreciar y valorar los hechos que se le planteen y las pruebas que se le apor
 
 VI.- Dictará la resolución que en Derecho corresponda, tomando en consideración la condición social del infractor, las circunstancias en que se hubiere producido la infracción y demás elementos que le permitan formarse un recto criterio del caso a resolver, imponiendo una o varias sanciones, o en su caso absolviendo al arrestado o arrestados.
 
-Art. 44° Las personas que al momento de ser detenidos (sic), se encuentren en notorio estado de embriaguez o bajo los efectos de alguna droga o tóxico, se les deberá practicar examen médico.
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+Art. 44° A toda persona que sea detenida se le deberá practicar examen médico en el preciso momento antes de internarlos en las celdas, lo anterior para que se haga constancia del estado físico en que se encuentra, así mismo para saber si se encuentran en estado de embriaguez o bajo los efectos de alguna droga o tóxico.
 
 Art. 45° Si la persona arrestada se encuentra afectada de sus facultades mentales, será puesta a disposición de las autoridades asistenciales, para que éstas den aviso a los padres, tutores o familiares.
 
@@ -540,3 +542,9 @@ PRESIDENTE MUNICIPAL.
 ING. CARLOS G. DE LEÓN SALDAÑA.
 
 SECRETARIO DEL R. AYUNTAMIENTO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE SEPTIEMBRE DE 2012.
+
+ÚNICO.- LA PRESENTE ADICIÓN, ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.
