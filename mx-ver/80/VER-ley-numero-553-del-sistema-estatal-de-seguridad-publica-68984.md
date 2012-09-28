@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-553-del-sistema-estatal-de-seguridad-publica-68984"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-24"
-last_updated: "2009-06-24"
+last_updated: "2012-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68984&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY NUMERO 553 DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY NUMERO 553 DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY NÚMERO 553 DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 24 de junio de 2009.
 
@@ -73,7 +73,9 @@ VII. Consejo Nacional: al Consejo Nacional de Seguridad Pública;
 
 VIII. Consejos Municipales: a los Consejos Municipales de Seguridad pública;
 
-IX. El Centro: al Centro Estatal de Evaluación y Control de Confianza del Estado, establecido por esta Ley;
+> <small>(REFORMADA, G.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+IX. Centros: al Centro de Evaluación y Control de Confianza de la Secretaría de Seguridad Pública y al Centro de Evaluación y Control de Confianza de la Procuraduría General de Justicia del Estado;
 
 X. Estado: al Estado de Veracruz de Ignacio de la Llave;
 
@@ -291,9 +293,11 @@ El Presidente del Consejo Estatal será suplido en sus ausencias por el Secretar
 
 El Consejo Estatal, en cada sesión, podrá invitar, de acuerdo a la naturaleza de los asuntos a tratar, a dos representantes de instituciones o de la sociedad civil, que puedan aportar conocimientos y experiencias para el cumplimiento de los objetivos de la seguridad pública. Dicha participación será de carácter honorífico. Asimismo, el Presidente de la Comisión Estatal de Derechos Humanos será invitado permanente del Consejo Estatal.
 
+> <small>(REFORMADO, G.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 17.
 
-El personal de confianza de las unidades administrativas del Sistema, de la Secretaría Ejecutiva, del Centro Estatal de Evaluación y Control de Confianza, incluso sus Titulares y de las Dependencias que presten asesoría en materia operativa, técnica y jurídica a los integrantes del Consejo Estatal, se considerará como personal de seguridad pública y será de libre designación y remoción; asimismo, se sujetarán a las evaluaciones de certificación y control de confianza. Para tal efecto, se emitirá el acuerdo respectivo por el que se determinen dichas unidades administrativas.
+El personal de confianza de las unidades administrativas del Sistema, de la Secretaría Ejecutiva, de los Centros, incluso los titulares de las dependencias que presten asesoría en materia operativa, técnica y jurídica a los integrantes del Consejo Estatal, se considerará como personal de seguridad pública y será de libre designación y remoción; asimismo, estará sujeto a las evaluaciones de certificación y control de confianza. Para tal efecto, se emitirá el acuerdo respectivo por el que se determinen dichas unidades administrativas.
 
 ###### Artículo 18.
 
@@ -371,9 +375,11 @@ En las Comisiones podrán participar expertos de instituciones académicas, de i
 
 ### CAPÍTULO III. De la Secretaría Ejecutiva del Sistema y del Consejo Estatal de Seguridad Pública
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 21.
 
-La Secretaría Ejecutiva es el órgano operativo del Consejo y del Sistema Estatal de Seguridad Pública y gozará de autonomía técnica, de gestión y presupuestal. A este órgano estará sectorizado el Centro Estatal de Evaluación y Control de Confianza.
+La Secretaría Ejecutiva es el órgano operativo del Consejo Estatal y del Sistema, que funcionará con autonomía técnica, de gestión y presupuestal.
 
 El Titular del Poder Ejecutivo Estatal expedirá el Reglamento interior de la Secretaría Ejecutiva, que establecerá las unidades de apoyo administrativo que requiera para el cumplimiento de sus funciones, así como sus atribuciones.
 
@@ -395,23 +401,13 @@ II. La Prevención del Delito, Participación Ciudadana y vinculación con los C
 
 III. Participar, en coordinación con la Secretaría de Seguridad Pública, en la supervisión, verificación, ratificación, regulación y control de los servicios de seguridad privada;
 
-IV. Integración de un Sistema Estatal de Información; administración y resguardo de bases de datos criminalísticos y de personal del Sistema; coordinación del Centro Estatal de Control, Comando, Comunicaciones y Cómputo, que permita, entre otras funciones:
+> <small>(REFORMADA, G.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
-a) Recibir reportes de emergencias, para decidir y ejecutar acciones entre las instituciones de Seguridad Pública de los tres niveles de gobierno;
+IV. Integración de un Sistema Estatal de Información; administración y resguardo de bases de datos criminalísticos y de personal del Sistema, que permita, entre otras funciones:
 
-b) Efectuar procedimientos de monitoreo y control en tiempo real de los acontecimientos e incidentes relacionados con la alteración del orden público, comisión de delitos, vialidad y contingencias por fenómenos naturales;
+a) Generar documentos cartográficos que brinden apoyo a las autoridades de Seguridad Pública, para la toma de decisiones y ejecución de planes estratégicos; mediante la ejecución de mapas temáticos, de riesgo, de análisis y georreferenciación delictiva; y
 
-c) Administrar el servicio de comunicación telefónico, para recibir, integrar, documentar y canalizar, los reportes de los ciudadanos que denuncien conductas delictivas, garantizándose el anonimato y proporcionar la orientación jurídica correspondiente;
-
-d) Coordinar y administrar la operación de la Red Estatal de Telecomunicaciones en el ámbito de la seguridad pública;
-
-e) Instrumentar el desarrollo y mejoramiento de procedimientos para la obtención, procesamiento, explotación y análisis de la información, que permita la definición de estrategias de combate a la delincuencia;
-
-f) Generar documentos cartográficos que brinden apoyo a las autoridades de Seguridad Pública, para la toma de decisiones y ejecución de planes estratégicos; mediante la ejecución de mapas temáticos, de riesgo, de análisis y georreferenciación delictiva;
-
-g) Implementar altas tecnologías en cómputo, desarrollo de sistemas, administrar redes y proporcionar soporte técnico, tomando las medidas necesarias para la seguridad de la información que se procesen en las bases de datos; y
-
-h) Concentrar la información documental y de apreciación, como elementos de apoyo para la toma de decisiones de la Secretaría Ejecutiva del Consejo y del Sistema Estatal de Seguridad Pública.
+b) Concentrar la información documental y de apreciación, como elementos de apoyo para la toma de decisiones de la Secretaría Ejecutiva del Consejo y del Sistema Estatal de Seguridad Pública.
 
 ###### Artículo 23.
 
@@ -477,13 +473,33 @@ El enlace estará obligado a proporcionar la información que le sea solicitada 
 
 Podrán establecerse instancias intermunicipales, previa suscripción de convenio de coordinación. En el caso de las zonas conurbadas con otra Entidad Federativa, se podrán suscribir convenios e instalar instancias regionales con la participación de los municipios.
 
-### CAPÍTULO I. De las Obligaciones y Sanciones de los Integrantes de las Instituciones de Seguridad Pública
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
-### CAPÍTULO II. Del Uso de la Fuerza Pública
+### CAPÍTULO V. Del Centro Estatal de Control, Comando, Comunicaciones y Cómputo
+
+> <small>(ADICIONADO, G.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 27 Bis.
+
+Corresponde a la Secretaría de Seguridad Pública, a través del Centro Estatal de Control, Comando, Comunicaciones y Cómputo:
+
+I. Recibir reportes de emergencias, para decidir y ejecutar acciones entre las instituciones de Seguridad Pública de los tres niveles de gobierno;
+
+II. Efectuar procedimientos de monitoreo y control en tiempo real de los acontecimientos e incidentes relacionados con la alteración del orden público, comisión de delitos, vialidad y contingencias por fenómenos naturales;
+
+III. Administrar el servicio de comunicación telefónico, para recibir, integrar, documentar y canalizar los reportes de los ciudadanos que denuncien conductas delictivas, garantizándose el anonimato, y proporcionar la orientación jurídica correspondiente;
+
+IV. Coordinar y administrar la operación de la Red Estatal de Telecomunicaciones, en el ámbito de la seguridad pública;
+
+V. Instrumentar el desarrollo y mejoramiento de procedimientos para la obtención, procesamiento, explotación y análisis de la información, que permita la definición de estrategias de combate a la delincuencia; y
+
+VI. Implementar altas tecnologías en cómputo, desarrollo de sistemas, administrar redes y proporcionar soporte técnico, tomando las medidas necesarias para la seguridad de la información que se procese en las bases de datos.
+
+### CAPÍTULO I. De las Obligaciones y Sanciones de los Integrantes de las Instituciones de Seguridad Pública
 
 ## TÍTULO TERCERO. DISPOSICIONES COMUNES A LOS INTEGRANTES DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA
 
-### CAPÍTULO III. De las Academias e Institutos
+### CAPÍTULO II. Del Uso de la Fuerza Pública
 
 ###### Artículo 28.
 
@@ -669,7 +685,7 @@ La tramitación del procedimiento estará a lo dispuesto por lo previsto en la L
 
 Contra la resolución emitida por el titular de la dependencia respecto al procedimiento administrativo, procederá el recurso de revocación previsto en la Ley de Responsabilidades de los Servidores Públicos o el juicio de nulidad ante el Tribunal de lo Contencioso Administrativo, con las formalidades que establece para tales efectos el Código de Procedimientos Administrativos del Estado de Veracruz de Ignacio de la Llave.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO III. De las Academias e Institutos
 
 ###### Artículo 37.
 
@@ -745,7 +761,7 @@ En caso de que el personal haya recurrido al uso ilícito de la fuerza y de arma
 
 El personal no podrá alegar obediencia de órdenes superiores, si tenía conocimiento de que la orden de emplear la fuerza o armas de fuego era manifiestamente ilícita y tuvo una oportunidad razonable de negarse a cumplirla. También serán responsables los superiores que dieron las órdenes ilícitas.
 
-### CAPÍTULO II. Del ingreso al Servicio de Carrera en las Instituciones de Procuración de Justicia
+### CAPÍTULO I. Disposiciones Generales
 
 ###### Artículo 49.
 
@@ -789,7 +805,7 @@ Lo dispuesto por este Artículo aplicará sin perjuicio de otros requisitos y po
 
 ## TÍTULO CUARTO. DEL SERVICIO DE CARRERA EN LAS INSTITUCIONES DE PROCURACIÓN DE JUSTICIA
 
-### CAPÍTULO III. Del Desarrollo del Servicio de Carrera en las Instituciones de Procuración de Justicia
+### CAPÍTULO II. Del ingreso al Servicio de Carrera en las Instituciones de Procuración de Justicia
 
 ###### Artículo 50.
 
@@ -801,15 +817,23 @@ Las reglas y procesos en materia de carrera policial y régimen disciplinario de
 
 Los servidores públicos que tengan bajo su mando a agentes del Ministerio Público, policía ministerial o peritos, no formarán parte del servicio de carrera por ese hecho, serán nombrados y removidos conforme a los ordenamientos legales aplicables, se considerarán trabajadores de confianza y los efectos de su nombramiento se podrán dar por terminados en cualquier momento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 51.
 
-El servicio de carrera de las instituciones de Procuración de Justicia comprenderá las etapas de ingreso, desarrollo y terminación del servicio, conforme a lo siguiente:
+El servicio de carrera de las instituciones del Sistema comprenderá las etapas de ingreso, desarrollo, permanencia y terminación del servicio, conforme a lo siguiente:
 
 I. El ingreso comprende los requisitos y procedimientos de selección, formación y certificación inicial, así como registro;
 
 II. El desarrollo comprenderá los requisitos y procedimientos de formación continua y especializada, de actualización de evaluación para la permanencia, de evaluación del desempeño, de desarrollo y ascenso, de dotación de estímulos y reconocimientos, de reingreso y de certificación. De igual forma, deberá prever medidas disciplinarias y sanciones para los miembros del servicio de carrera; y
 
-III. La terminación comprenderá las causas ordinarias y extraordinarias de separación del servicio, así como los procedimientos y recursos de inconformidad a los que haya lugar, ajustándose a lo establecido por las leyes y disposiciones aplicables.
+> <small>(REFORMADA, G.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+III. La permanencia es el resultado del cumplimiento constante de los requisitos establecidos en la presente Ley para continuar en el servicio activo de las Instituciones del Sistema Estatal de Seguridad Pública; y
+
+> <small>(ADICIONADA, G.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+IV. La terminación comprenderá las causas ordinarias y extraordinarias de separación del servicio, así como los procedimientos y recursos de inconformidad a los que haya lugar, ajustándose a lo establecido por las leyes y disposiciones aplicables.
 
 ###### Artículo 52.
 
@@ -835,7 +859,9 @@ IX. Contendrá las normas para el registro y el reconocimiento de los certificad
 
 X. Contendrá las normas para el registro de las incidencias del personal.
 
-### CAPÍTULO IV. De la Terminación del Servicio de Carrera en las Instituciones de Procuración de Justicia
+### CAPÍTULO III. De la Permanencia del Servicio de Carrera en las Instituciones de Procuración de Justicia
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 53.
 
@@ -885,13 +911,17 @@ Lo dispuesto por este Artículo aplicará sin perjuicio de otros requisitos que 
 
 Los aspirantes a ingresar al Servicio de Carrera de las instituciones de Procuración de Justicia deberán cumplir con los estudios de formación inicial.
 
-Previo al ingreso de los aspirantes a los cursos de formación inicial, deberán consultarse sus antecedentes en el Registro Nacional y, en su caso, en los registros de las instituciones de Procuración de Justicia de la Entidad y del Centro Estatal de Evaluación y Control de Confianza.
+> <small>(REFORMADO, G.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
-### CAPÍTULO V. De la Profesionalización
+Previamente al ingreso de los aspirantes a los cursos de formación inicial, se deberán consultar sus antecedentes en el Registro Nacional y, en su caso, en los registros de las Instituciones del Sistema y de los Centros señalados en la presente Ley.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+### CAPÍTULO IV. De la Terminación del Servicio de Carrera en las Instituciones de Procuración de Justicia
 
 ###### Artículo 55.
 
-Son requisitos de permanencia en el Ministerio Público y de los peritos, los siguientes:
+Son requisitos de permanencia para los Agentes del Ministerio Público, Oficiales Secretarios, Policías Ministeriales de la Agencia Veracruzana de Investigaciones y Peritos, los siguientes:
 
 I. Cumplir los requisitos de ingreso durante el servicio;
 
@@ -919,7 +949,7 @@ Los resultados de los procesos de evaluación y los expedientes que se formen co
 
 La solicitud de reincorporación al servicio de carrera se analizará y, en su caso, se concederá, siempre que el motivo de la baja haya sido por causas distintas al incumplimiento a los requisitos de permanencia o al seguimiento de un proceso de responsabilidad administrativa o penal, local o federal.
 
-### CAPÍTULO VI. De la Certificación
+### CAPÍTULO V. De la Profesionalización
 
 ###### Artículo 58.
 
@@ -943,13 +973,13 @@ b) Remoción por incurrir en causas de responsabilidad con motivo de su encargo,
 
 Cuando los órganos jurisdiccionales determinen que la resolución por la que se impone la separación o remoción es injustificada, la institución respectiva sólo estará obligada a la indemnización y al otorgamiento de las prestaciones a que tenga derecho la persona removida, sin que en ningún caso proceda la reincorporación al servicio, sea cual fuere el resultado del juicio o medio de defensa que se haya promovido. Tal circunstancia será inscrita en el registro correspondiente.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO VI. De la Certificación
 
 ###### Artículo 60.
 
 Los servidores públicos de las instituciones de Procuración de Justicia están obligados a participar en las actividades de profesionalización que determine la institución respectiva, de conformidad con lo establecido por el Programa Rector de Profesionalización.
 
-### CAPÍTULO II. De la Carrera Policial y de la Profesionalización
+### CAPÍTULO I. Disposiciones Generales
 
 ###### Artículo 61.
 
@@ -981,7 +1011,7 @@ La Procuraduría General de Justicia del Estado, cuando cancele algún certifica
 
 ## TÍTULO QUINTO. DEL DESARROLLO POLICIAL
 
-### CAPÍTULO III. Del Régimen Disciplinario
+### CAPÍTULO II. De la Carrera Policial y de la Profesionalización
 
 ###### Artículo 64.
 
@@ -993,13 +1023,13 @@ Las relaciones jurídicas entre las Instituciones Policiales y sus integrantes s
 
 Todos los servidores públicos de las instituciones policiales que realizan funciones administrativas y no policiales, no pertenecen a la Carrera Policial y se consideran trabajadores de confianza. Los efectos de su nombramiento se podrán dar por terminado en cualquier momento, de conformidad con las disposiciones aplicables.
 
+> <small>(REFORMADO, G.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 66.
 
 Los integrantes de las Instituciones Policiales podrán ser separados de su cargo si no cumplen con los requisitos que las leyes vigentes, en el momento de la separación, señalen para permanecer en las Instituciones, sin que proceda su reinstalación o restitución, cualquiera que sea el juicio o medio de defensa para combatir la separación y, en su caso, sólo procederá la indemnización que en derecho corresponda.
 
 Tal circunstancia será asentada en el Registro correspondiente.
-
-Las instituciones de Seguridad Pública contarán con un presupuesto destinado a las indemnizaciones del personal de carrera y de confianza, las cuales se otorgarán en los términos de la Ley Federal del Trabajo, de forma supletoria.
 
 ###### Artículo 67.
 
@@ -1059,7 +1089,7 @@ XIII. Dar cumplimiento a las órdenes de aprehensión y demás mandatos minister
 
 XIV. Las demás que le confiaren las disposiciones aplicables.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO III. Del Régimen Disciplinario
 
 ###### Artículo 70.
 
@@ -1159,9 +1189,13 @@ La Carrera Policial comprende el grado policial, la antigüedad, las insignias, 
 
 I. Las Instituciones Policiales deberán consultar los antecedentes de cualquier aspirante en el Registro Nacional antes de que se autorice su ingreso a las mismas;
 
-II. Todo aspirante deberá tramitar, obtener y mantener actualizado el Certificado Único Policial, que expedirá el Centro Estatal de Evaluación y Control de Confianza;
+> <small>(REFORMADA, G.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
-III. Ninguna persona podrá ingresar a las Instituciones Policiales si no ha sido debidamente certificado y registrado en el Sistema Nacional;
+Il. Todo aspirante deberá tramitar, obtener y mantener actualizado el Certificado que emitan los Centros;
+
+> <small>(REFORMADA, G.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+III. Ninguna persona podrá ingresar a las Instituciones Policiales si no ha aprobado las evaluaciones de control de confianza y obtenido el certificado emitido por los Centros, así como el registro ante el Sistema Nacional;
 
 IV. Sólo ingresarán y permanecerán en las Instituciones Policiales; aquellos aspirantes e integrantes que cursen y aprueben los programas de formación, capacitación y profesionalización;
 
@@ -1217,7 +1251,9 @@ V. Aprobar el proceso de selección y los cursos de formación;
 
 VI. Contar con los requisitos de edad y el perfil físico, médico y de personalidad que exijan las disposiciones aplicables;
 
-VII. Aprobar los procesos de evaluación de control de confianza;
+> <small>(REFORMADA, G.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+VII. Aprobar los procesos de evaluación y control de confianza y contar con el certificado que emita el Centro de Evaluación y Control de Confianza que haya practicado su proceso de evaluación;
 
 VIII. Abstenerse de consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
 
@@ -1249,7 +1285,9 @@ c) En caso de integrantes a las áreas de reacción: los estudios correspondient
 
 V. Aprobar los cursos de formación, capacitación y profesionalización;
 
-VI. Aprobar los procesos de evaluación de control de confianza;
+> <small>(REFORMADA, G.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+VI. Aprobar los procesos de evaluación y control de confianza y contar con el certificado que emita el Centro de Evaluación y Control de Confianza que haya practicado su proceso de evaluación;
 
 VII. Aprobar la (sic) evaluaciones del desempeño;
 
@@ -1303,9 +1341,11 @@ II. Antigüedad en el grado, a partir de la fecha señalada en la constancia o p
 
 La antigüedad contará hasta el momento en que esta calidad deba determinarse para los efectos de la Carrera Policial.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 86.
 
-La conclusión del servicio de un integrante es la terminación de su nombramiento o la cesación de sus efectos legales por las siguientes causas:
+La conclusión del servicio de un integrante de las Instituciones Policiales es la terminación de su nombramiento o la cesación de sus efectos legales por las siguientes causas:
 
 I. Separación, por incumplimiento a cualquiera de los requisitos de permanencia, o cuando en los procesos de promoción concurran las siguientes circunstancias:
 
@@ -1331,11 +1371,15 @@ Al concluir el servicio el integrante deberá entregar al funcionario designado 
 
 Los integrantes de las instituciones policiales que hayan alcanzado las edades límite para permanencia, previstas en las disposiciones que los rijan, podrán ser reubicados, a consideración de las instancias, en otras áreas de los servicios de las propias instituciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 88.
 
-La certificación de los integrantes de las instituciones policiales es el proceso mediante el cual se someten a las evaluaciones periódicas establecidas por el Centro Estatal de Evaluación y Control de Confianza, para comprobar el cumplimiento de los perfiles de personalidad, éticos, socioeconómicos y médicos, en los procedimientos de ingreso, promoción y permanencia.
+La certificación de los integrantes de las Instituciones Policiales es el proceso mediante el cual se someten a las evaluaciones establecidas por los Centros, para comprobar el cumplimiento de los perfiles de personalidad, éticos, socioeconómicos y médicos, en los procedimientos de ingreso, promoción y permanencia.
 
-Las instituciones policiales contratarán únicamente al personal que cuente con el requisito de certificación expedido por el Centro de Evaluación y Control de Confianza.
+> <small>(REFORMADA, G.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+Las Instituciones Policiales contratarán únicamente al personal que cuente con el requisito de certificación expedido por los Centros.
 
 La certificación tiene por objeto:
 
@@ -1359,7 +1403,9 @@ f) Cumplimiento de los deberes establecidos en esta Ley.
 
 La profesionalización de los integrantes de las Instituciones Policiales es el proceso permanente y progresivo de formación que se integra por las etapas de formación inicial, actualización, promoción, especialización y alta dirección, para desarrollar al máximo sus competencias, capacidades y habilidades.
 
-### CAPÍTULO II. Del Patrimonio
+### CAPÍTULO I. Disposiciones Generales
+
+> <small>(REFORMADO, G.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 90.
 
@@ -1403,187 +1449,209 @@ Para efectos de lo previsto en el párrafo anterior se constituirán Comisiones 
 
 En las instituciones de Procuración de Justicia se integrarán instancias equivalentes, en las que intervengan representantes de los policías ministeriales.
 
-## TÍTULO SEXTO. DEL CENTRO ESTATAL DE EVALUACIÓN Y CONTROL DE CONFIANZA
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
-### CAPÍTULO III. De la Junta Directiva
+## TÍTULO SEXTO. DE LOS CENTROS DE EVALUACIÓN Y CONTROL DE CONFIANZA
+
+### CAPÍTULO II. Del Director General
+
+> <small>(REFORMADO, G.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 97.
 
-El Centro Estatal de Evaluación y Control de Confianza del Estado de Veracruz de Ignacio de la Llave, es un Organismo Público Descentralizado, con personalidad jurídica y patrimonio propio, con autonomía técnica y operativa, sectorizado a la Secretaría Ejecutiva del Sistema y del Consejo Estatal de Seguridad Pública.
+El Centro de Evaluación y Control de Confianza de la Secretaria de Seguridad Pública y el Centro de Evaluación y Control de Confianza de la Procuraduría General de Justicia del Estado son órganos desconcentrados, con autonomía técnica, presupuestaria y operativa, que tienen por objeto coadyuvar en la depuración y fortalecimiento de las Instituciones de Seguridad Pública que integran el Sistema Estatal, de acuerdo a los modelos y protocolos de evaluación y control de confianza que se establezcan por el Centro Nacional de Certificación y Acreditación.
 
-El organismo tiene por objeto coadyuvar en la depuración y fortalecimiento de las instituciones que integran el Sistema Estatal de Seguridad Pública, de acuerdo a los modelos y protocolos de evaluación y control de confianza que se establezcan por el Sistema Nacional de Acreditación y Control de Confianza.
+Los Centros contarán con el personal especializado que se requiera para su funcionamiento.
 
-El Centro tendrá su domicilio en la ciudad de Xalapa-Enríquez, Veracruz.
+Los Centros, además de las facultades mencionadas en la presente Ley, se regirán por lo dispuesto en la normativa aplicable a la dependencia de su adscripción.
+
+> <small>(REFORMADO, G.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 98.
 
-El Centro estará integrado por los siguientes órganos:
+Los Centros aplicarán las evaluaciones a que se refiere esta Ley, tanto en los procesos de selección de aspirantes como en la evaluación a personal en activo para la permanencia, el desarrollo y la promoción de los integrantes de las Instituciones del Sistema Estatal de Seguridad Pública y de Seguridad Privada, así como de los auxiliares de la función de Seguridad Pública estatal que así lo establezcan las disposiciones legales que rijan su actuación. Al efecto, tendrán las facultades siguientes:
 
-I. Órgano de Gobierno, que será Junta Directiva;
+I. Aplicar los procedimientos de evaluación y control de confianza, conforme a los criterios y lineamientos expedidos por el Centro Nacional de Certificación y Acreditación;
 
-II. Dirección General;
+II. Aplicar las evaluaciones psicológica, médica y toxicológica, poligráfica y la investigación socioeconómica, así como las que se consideren necesarias, de acuerdo con su normativa interna y demás disposiciones de observancia general;
 
-III. Comité Técnico Académico;
+III. Aplicar los lineamientos que se emitan para la verificación y control de certificación de los sujetos obligados a evaluación, así como para la aplicación de los exámenes médicos toxicológicos, psicológicos, poligráficos, socioeconómicos y demás que se consideren necesarios, de conformidad con la normatividad aplicable;
 
-IV. Órgano Interno de Control; y
-
-V. Las áreas de operación que se establezcan en su Reglamento Interno.
-
-###### Artículo 99.
-
-El Centro Estatal de Evaluación y Control de Confianza aplicará las evaluaciones a que se refiere la Ley, tanto en los procesos de selección de aspirantes, como en la evaluación para la permanencia, el desarrollo y la promoción de los integrantes de las instituciones de Seguridad Pública; para tal efecto, tendrá las siguientes facultades:
-
-I. Aplicar los procedimientos de Evaluación y de Control de Confianza conforme a los criterios expedidos por el Centro Nacional de Certificación y Acreditación;
-
-II. Proponer lineamientos para la verificación y control de Certificación de los Servidores Públicos;
-
-III. Proponer lineamientos para la aplicación de los exámenes médicos, toxicológicos, psicológicos, poligráficos, socioeconómicos y demás que se consideren necesarios, de conformidad con la normatividad aplicable;
-
-IV. Establecer un sistema de registro y control, que permita preservar la confidencialidad y resguardo de expedientes;
+IV. Establecer un sistema de registro y control que permita preservar la confidencialidad y resguardo de expedientes;
 
 V. Verificar el cumplimiento de los perfiles médicos, ético y de personalidad;
 
-VI. Comprobar los niveles de escolaridad de los integrantes de las Instituciones de Seguridad Pública;
+VI. Comprobar los niveles de escolaridad de los integrantes de las Instituciones del Sistema Estatal de Seguridad Pública;
 
-VII. Aplicar el procedimiento de certificación de los Servidores Públicos;
+VII. Aplicar el procedimiento de certificación de los servidores públicos;
 
-VIII. Expedir y actualizar los Certificados conforme a los formatos autorizados por el Centro Nacional de Certificación y Acreditación del Sistema Nacional;
+VIII. Expedir, actualizar y revocar los certificados, conforme a los formatos autorizados por el Centro Nacional de Certificación y Acreditación del Sistema Nacional;
 
-IX. Informar a las autoridades competentes, sobre los resultados de las evaluaciones que practiquen;
+IX. Informar a las autoridades competentes sobre el resultado de las evaluaciones que practiquen;
 
-X. Solicitar se efectúe el seguimiento individual de los integrantes de las Instituciones de Seguridad Pública evaluados, en los que se identifiquen factores de riesgo que interfieran o pongan en riesgo el desempeño de sus funciones;
+X. Solicitar se efectúe el seguimiento individual de los integrantes de las Instituciones del Sistema Estatal de Seguridad Pública evaluados, en los que se identifiquen factores de riesgo que interfieran o pongan en riesgo el desempeño de sus funciones;
 
 XI. Detectar áreas de oportunidad para establecer programas de prevención y atención que permitan solucionar la problemática identificada;
 
-XII. Proporcionar a las Instituciones, la asesoría y apoyo técnico que requieran sobre información de su competencia;
+XII. Proporcionar a las instituciones la asesoría y apoyo técnico que requieran sobre información de su competencia;
 
-XIII. Proporcionar a las autoridades competentes la información contenida en los expedientes de integrantes de las Instituciones de Seguridad Pública y que se requieran en procesos administrativos o judiciales, con las reservas previstas en las leyes aplicables;
+XIII. Elaborar los informes de resultados para la aceptación o rechazo de los aspirantes a ingresar a las Instituciones del Sistema Estatal de Seguridad Pública; y
 
-XIV. Elaborar los informes de resultados para la aceptación o rechazo de los aspirantes a ingresar a las Instituciones de Seguridad Pública; y
+XIV. Las demás que se establezcan en las disposiciones legales y reglamentarias aplicables.
 
-XV. Las demás que establezcan las disposiciones legales aplicables y su Reglamento Interior.
+> <small>(REFORMADO, G.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 99.
+
+El contenido de los expedientes que se integren de cada uno de los evaluados, así como el resultado de los procesos de evaluación de control de confianza y el de certificación, tendrán el carácter de información confidencial.
+
+> <small>(REFORMADO, G.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 100.
 
-Los certificados que emita el Centro, deberán cubrir con los requisitos de acreditación que establezca el Sistema Nacional de Acreditación y Control de Confianza.
+Los certificados que emitan los Centros deberán cumplir con los requisitos de acreditación que establezca el Centro Nacional de Certificación y Acreditación.
 
-En el caso de intervención de instituciones privadas en los procesos de evaluación o certificación que realice el Centro Estatal, será necesario que dichas empresas cuenten previamente con la acreditación del Centro Nacional de Certificación y Acreditación.
-
-Las instituciones de Seguridad Pública podrán establecer instancias de evaluación y control de confianza en sus estructuras administrativas, las cuales deberán ser certificadas y supervisadas por el Centro.
+> <small>(REFORMADO, G.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 101.
 
-El patrimonio del Centro, se integrará por:
+En el caso de intervención de empresas privadas en los procesos de evaluación o certificación que realicen los Centros, será necesario que dichas empresas cuenten previamente con la acreditación del Centro Nacional de Certificación y Acreditación.
 
-I. Los recursos que le asigne el Congreso del Estado en el Presupuesto de Egresos;
-
-II. Las aportaciones, participaciones, subsidios o apoyos que le otorguen los gobiernos federal, estatal y municipales;
-
-III. Las donaciones hechas en su favor y los recursos derivados de los fideicomisos en los que se le señale como fideicomisario;
-
-IV. Los ingresos que se obtengan por servicios prestados a entidades y dependencias de los gobiernos federal, estatal y municipales, así como empresas de seguridad privada y particulares; y
-
-V. Los demás recursos que reciba por cualquier título legal y que estén destinados al cumplimiento de su objeto.
+> <small>(REFORMADO, G.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 102.
 
-La Junta Directiva será la máxima autoridad del Centro y estará integrada por:
+Los centros de evaluación y control de confianza de organismos públicos federales podrán aplicar, en colaboración con los Centros reconocidos en la presente Ley, el procedimiento de evaluación y control de confianza; y la certificación de los aspirantes y personal de los integrantes del Sistema Estatal, conforme a los acuerdos que al efecto se suscriban.
 
-I. Un presidente, que será el Gobernador del Estado; y
-
-II. Seis Vocales:
-
-a). El Secretario de Gobierno;
-
-b). El Secretario de Seguridad Pública;
-
-c). El Procurador General de Justicia;
-
-d). El Secretario Ejecutivo del Consejo Estatal de Seguridad Pública;
-
-e). Dos representantes del los sectores social y privado, propuestos por el observatorio ciudadano.
-
-El Director General del Centro Estatal de Evaluación y Control de Confianza y el titular de su Órgano Interno de Control, asistirán a las sesiones de la Junta Directiva, con voz pero sin derecho a voto.
-
-Los cargos de los integrantes de la Junta Directiva serán honoríficos.
-
-Cada uno de los integrantes de la Junta Directiva podrá designar un suplente. En el caso de que el Presidente no pudiera asistir, designará directamente a quien lo sustituya.
+> <small>(REFORMADO, G.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 103.
 
-La Junta Directiva del Centro celebrará sesiones ordinarias por lo menos cada tres meses y extraordinarias cuando las convoque el Presidente de la Junta, por conducto del Director General.
+Los Centros podrán aplicar el procedimiento de evaluación y control de confianza; y la certificación de cualquiera de los aspirantes e integrantes del Sistema Estatal, Seguridad Privada y demás auxiliares de la función de Seguridad Pública estatal previstos en la presente Ley, mediante los acuerdos, convenios o contratos que se suscriban al respecto.
+
+> <small>(REFORMADO, G.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 104.
 
-Las sesiones de la Junta Directiva tendrán validez con la asistencia de la mitad más uno de sus integrantes. Sus acuerdos y resoluciones se tomarán por mayoría de votos de los miembros presentes, en caso de empate, el Presidente de la Junta tendrá voto de calidad.
+Los Centros podrán establecer cuotas de recuperación, en función del universo del personal a evaluar y de los insumos y materiales utilizados para realizar las evaluaciones que, en su caso, deberán cubrir las instituciones beneficiadas.
+
+> <small>(REFORMADO, G.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 105.
 
-Son atribuciones de la Junta Directiva:
+Los Centros se organizarán y funcionarán conforme a lo dispuesto en la normativa que rija a la dependencia de su adscripción.
 
-I. Nombrar y remover a los funcionarios del Centro, de nivel inmediato inferior al Director General, aprobar sus salarios y prestaciones conforme al tabulador vigente y, en su caso, concederles licencia;
+> <small>(REFORMADA SU NUMERACIÓN G.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
-II. Aprobar los programas y procesos de evaluación y pruebas de confianza, que realice el Centro, de conformidad con las disposiciones que emitan los Sistemas Nacional y Estatal de Seguridad Pública;
+### CAPÍTULO III. Lineamientos y Criterios para la Práctica de las Evaluaciones de Control de Confianza
 
-III. Autorizar la contratación de empresas u organismos públicos o privados certificados, así como personal o equipo, necesarios para realizar las funciones y los procesos de evaluación establecidos por las disposiciones aplicables;
-
-IV. Aprobar y expedir el Reglamento Interior del Centro, así como las demás disposiciones internas y acuerdos que le sean propuestos por el Director General del Centro, de conformidad con lo previsto por esta Ley las demás disposiciones aplicables;
-
-V. Aprobar el Programa Operativo Anual del Centro y el proyecto de presupuesto que formule el Director General;
-
-VI. Vigilar el cumplimiento de todos los acuerdos que se tomen y, en su caso, tomar las medidas convenientes para su correcto cumplimiento;
-
-VII. Autorizar al Director General la firma de convenios de coordinación o contratos necesarios para el cumplimiento del objeto y atribuciones de El Centro, previo cumplimiento de las disposiciones aplicables; y
-
-VIII. Las demás que se establezcan por su Reglamento Interior u otros ordenamientos aplicables.
-
-### CAPÍTULO IV. Del Director General
+> <small>(REFORMADO, G.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 106.
 
-El Director General será la autoridad ejecutiva y representante legal del Centro. Será designado y removido por el Gobernador del Estado y durará en su cargo tres años, pudiendo ser confirmado para un segundo período.
+Cada uno de los Centros de Evaluación y Control de Confianza estará a cargo de un Director General, que será designado y removido libremente por el titular de la dependencia a la que se encuentre adscrito.
 
-Para ser Director General del Centro, además de cumplir con los requisitos que establecen la Constitución Política Local y la Ley Orgánica del Poder Ejecutivo de la Entidad, se requiere:
-
-I. Tener más de treinta años de edad; y
-
-II. Contar con experiencia profesional dentro de la materia de Seguridad Pública.
+> <small>(REFORMADO, G.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 107.
 
-El Director General tendrá las siguientes atribuciones y obligaciones:
+Para ser Director General se requiere:
 
-I. Cumplir y hacer cumplir los acuerdos de la Junta Directiva e informar sobre los resultados y avances obtenidos;
+l. Ser mexicano por nacimiento en pleno ejercicio de sus derechos;
 
-II. Planear y programar las actividades relativas a los procesos de evaluación y control de confianza, autorizadas por la Junta Directiva, de conformidad con los lineamientos de los Sistemas Nacional y Estatal de Seguridad Pública;
+II. Tener más de treinta años de edad;
 
-III. Someter a la aprobación de la Junta Directiva, los proyectos de acuerdos, convenios y contratos, así como el Programa Operativo Anual y el Proyecto de Presupuesto;
+III. Contar con título profesional expedido por autoridad o institución legalmente facultada para ello;
 
-IV. Administrar El Centro y ejercer su presupuesto, de conformidad con los ordenamientos y disposiciones aplicables;
+IV. Contar con experiencia profesional en la materia de seguridad pública; y
 
-V. Formular el Reglamento Interior del Centro y someterlo a la consideración de la Junta Directiva para su aprobación y publicación, así como los manuales de organización y de procedimientos y demás instrumentos y disposiciones administrativas internas para su funcionamiento, los cuales se deberán mantener permanentemente actualizados;
+V. Los demás requisitos que señale la normativa interna de la dependencia de adscripción.
 
-VI. Designar y remover a los servidores públicos que conformen la plantilla de personal del Centro, con excepción de los funcionarios a que se refiere la fracción I del Artículo 105 de esta Ley, informando de las decisiones tomadas a la Junta Directiva;
+El personal que integre los Centros, incluyendo a sus titulares, deberá ser evaluado y certificado conforme a lo establecido en la presente Ley.
 
-VII. Suscribir los convenios, acuerdos y contratos que celebre el Centro, previa autorización de la Junta Directiva;
-
-VIII. Difundir las actividades del Centro, al través de los medios aprobados por la Junta Directiva; y
-
-IX. Las demás que le confiera la presente Ley, el Reglamento Interior del Centro, los acuerdos de la Junta Directiva, y las disposiciones legales aplicables.
+> <small>(REFORMADO, G.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 108.
 
-El Centro contará con un Comité Técnico Académico, que será encargado de supervisar y proponer los lineamientos técnicos para el funcionamiento y desarrollo de los procesos de evaluación y control que realice el Centro, de conformidad con los modelos y protocolos de evaluación y control de confianza que se establezcan por el Sistema Nacional de Acreditación y Control de Confianza. Su integración y atribuciones se establecerán en el Reglamento Interior del Centro.
+Los Directores de los Centros tendrán las atribuciones comunes siguientes:
 
-### CAPÍTULO V. Del Comité Técnico Académico
+l. Representar al Centro de Evaluación y Control de Confianza que corresponda ante cualquier instancia administrativa, legislativa, fiscal o jurisdiccional, de carácter federal, estatal o municipal;
+
+II. Planear y programar las actividades relativas a los procesos de evaluación y control de confianza, de conformidad con los lineamientos del Sistema Nacional y del Sistema Estatal. Para la aplicación de las pruebas, el elemento a evaluar tendrá que sujetarse a la fecha y hora que, de acuerdo a la agenda de disponibilidad, le otorgue para tal efecto el Centro de Evaluación y Control de Confianza que le corresponda;
+
+III. Someter a la aprobación del titular de la dependencia correspondiente los proyectos de acuerdos, convenios y contratos que se requieran para el cumplimiento de sus atribuciones;
+
+IV. Administrar el Centro de Evaluación y Control de Confianza respectivo y ejercer su presupuesto, de conformidad con los ordenamientos y disposiciones aplicables;
+
+V. Someter a la consideración del titular de la dependencia respectiva la normativa interna que se requiera para el cumplimiento de sus atribuciones;
+
+VI. Solicitar a los titulares de las Instituciones de Seguridad Pública la información necesaria, que sirva al cumplimiento de compromisos del Centro de Evaluación y Control de Confianza que dirijan;
+
+VII. Someter a la aprobación del titular de la dependencia que corresponda los programas en materia de evaluación y certificación que implementará el Centro de Evaluación y Control de Confianza;
+
+VIII. Realizar las tareas operativas del Centro de Evaluación y Control de Confianza, implementando las acciones necesarias para su buen funcionamiento; y
+
+IX. Las demás que le confieran la presente Ley y demás disposiciones legales aplicables.
+
+(REFORMADA SU NUMERACIÓN G.O. 28 DE SEPTIEMBRE DE 2012))
+
+### CAPÍTULO ÚNICO
 
 ###### Artículo 109.
 
-El Centro contará con un órgano interno de control, cuyo titular será designado por la Contraloría General del Estado, de conformidad con la normativa vigente.
+Los Lineamientos y Criterios constituyen las normas mínimas para las evaluaciones de control de confianza, con motivo del ingreso y permanencia del personal de las Instituciones del Sistema Estatal de Seguridad Pública, que deberán observarse en todos los casos, sin menoscabo del cumplimiento de los deberes establecidos en otros ordenamientos legales y reglamentarios. Los Lineamientos y Criterios en la materia son los siguientes:
+
+I. El proceso de evaluación de control de confianza consta de las fases siguientes:
+
+a) Reclutamiento y Preselección;
+
+b) Evaluación Psicológica;
+
+c) Evaluación Poligráfica;
+
+d) Investigación Socioeconómica; y
+
+e) Evaluación Médica y Toxicológica.
+
+II. El control de confianza es el proceso que tiene por objeto evaluar la condición biológica, psicológica y social de los aspirantes y personal de las Instituciones de Seguridad Pública, con base en principios y fundamentos de carácter científico y técnico;
+
+III. La certificación expedida por los Centros de Evaluación y Control de Confianza será requisito indispensable para el ingreso y permanencia del servidor público en las Instituciones del Sistema Estatal de Seguridad Pública;
+
+IV. Para la selección e ingreso del personal a las Instituciones de Seguridad Pública, se tendrán en cuenta los siguientes requisitos y procedimientos para estandarizar el proceso y garantizar la igualdad de oportunidades, con base en el mérito de los aspirantes, para seleccionar a los más aptos:
+
+a) Para el reclutamiento y preselección, las unidades administrativas o su equivalente de las Instituciones de Seguridad Pública emitirán una convocatoria pública y recabarán la documentación necesaria para cotejar que el aspirante cumpla con los requisitos de perfil de puesto establecidos en los ordenamientos respectivos;
+
+b) Acreditadas las Políticas de Reclutamiento y Preselección, el aspirante deberá presentarse en las instalaciones del Centro de Evaluación y Control de Confianza correspondiente con la documentación requerida y en la fecha y hora señaladas; y
+
+c) Una vez aprobadas y vigentes todas las evaluaciones respectivas al control de confianza, el Centro de Evaluación y Control de Confianza correspondiente informará al titular de las Instituciones el resultado de las mismas y, en su caso, expedirá la certificación;
+
+V. Para la permanencia del personal en las Instituciones del Sistema Estatal de Seguridad Pública, se tendrán en cuenta los siguientes requisitos y procedimientos para estandarizar el proceso y garantizar la igualdad de oportunidades:
+
+a) El Centro de Evaluación y Control de Confianza correspondiente dará aviso del personal a evaluar a los titulares de las Instituciones de Seguridad Pública;
+
+b) Las unidades administrativas o su equivalente deberán integrar un expediente con los antecedentes del personal a evaluar, mismo que remitirán al Centro en fecha anterior a la de la evaluación;
+
+c) El Centro notificará a la Institución del Sistema Estatal de Seguridad Pública que corresponda la programación de las evaluaciones, que a su vez lo notificará por escrito al servidor público;
+
+d) El servidor público deberá presentarse con la documentación requerida, en los términos que señale su notificación; y
+
+e) Concluida la evaluación, el Centro informará el resultado a los titulares de las Instituciones de Seguridad Pública; en su caso, expedirá la certificación correspondiente.
+
+VI. Para la evaluación relativa a la portación de armas de fuego del personal operativo de las Instituciones de Seguridad Pública se atenderá lo siguiente:
+
+a) Para cumplir con los requisitos establecidos en la Ley Federal de Armas de Fuego y Explosivos, relativos a la Licencia Oficial Colectiva, se aplicará la evaluación médica psicológica de salud mental al personal operativo de la institución que porte armas de fuego en los términos que establezca el Centro Nacional de Certificación y Acreditación; y
+
+b) Cuando el Centro de Evaluación y Control de Confianza lo solicite, las unidades administrativas o su equivalente de las Instituciones remitirán el comprobante del cumplimiento del Servicio Militar del personal a evaluar.
+
+VII. El Centro de Evaluación y Control de Confianza integrará un expediente con la información del proceso de evaluación concluida, que contendrá: la instrucción superior de que el elemento se someta a las evaluaciones de control de confianza como parte de los requisitos de permanencia; el acuse de recibo de la notificación al servidor público a evaluarse; las actas de autorización del procedimiento firmadas por el evaluado; el resultado final y acuse de recibo de la notificación del resultado final al titular de la Institución que corresponda;
+
+VIII. El Director del Centro de Evaluación y Control de Confianza que corresponda realizará la depuración de los expedientes que se integren con motivo de los procesos de evaluación. La depuración comprenderá la destrucción de los documentos que contengan información de carácter confidencial relativa a una persona que fue sometida al proceso de evaluación, que tenga que ver con su origen étnico o racial; ideología; creencias o convicciones religiosas; preferencias sexuales; domicilio y teléfonos particulares; estado de salud físico, psicológico o mental; patrimonio personal o familiar y otros datos análogos de identificación, cuya divulgación pueda afectar su intimidad; y
+
+IX. La depuración de los expedientes se hará transcurrido un año después de haberse notificado el resultado a las Instituciones de Seguridad Pública, mediante acta que al efecto se levante al momento de realizar su destrucción. La destrucción de documentos se hará en la forma más conveniente, de acuerdo con los medios disponibles.
 
 ## TÍTULO SÉPTIMO. DE LA INFORMACIÓN SOBRE SEGURIDAD PÚBLICA
 
-### CAPÍTULO VI. Del Órgano Interno de Control
+### CAPÍTULO ÚNICO. De los Servicios de Atención a la Población
 
 ###### Artículo 110.
 
@@ -1777,7 +1845,7 @@ IV. Otras, en los términos del Artículo 20 de la Constitución Política de lo
 
 ## TÍTULO NOVENO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS
 
-### CAPÍTULO ÚNICO. De los Servicios de Atención a la Población
+### CAPÍTULO I. Disposiciones Generales
 
 ###### Artículo 131.
 
@@ -1785,7 +1853,7 @@ Las responsabilidades administrativas, civiles y penales en que incurran los ser
 
 ## TÍTULO DÉCIMO. DE LOS SERVICIOS DE SEGURIDAD PRIVADA
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO II. De las Facultades de la Secretaría
 
 ###### Artículo 132.
 
@@ -1821,7 +1889,7 @@ Los prestadores de servicios de seguridad privada, así como el personal que uti
 
 Las empresas de seguridad privada están obligadas a que todo su personal sea sometido a los procedimientos de evaluación y control de confianza, en términos de lo establecido por la presente Ley.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO III. De la Autorización para la Prestación de Servicios de Seguridad Privada
 
 ###### Artículo 138.
 
@@ -1867,7 +1935,7 @@ III. La prevención, control, solución y toma de acciones inmediatas a problema
 
 IV. La verificación del cumplimiento a la normativa estatal y federal.
 
-### CAPÍTULO II. De las Facultades de la Secretaría
+### CAPÍTULO IV. Del Registro de los Servicios de Seguridad Privada
 
 ###### Artículo 140.
 
@@ -1949,7 +2017,7 @@ La sola presentación de la solicitud a que se refiere el Artículo anterior, no
 
 En ningún caso se autorizará la prestación de estos servicios a personas físicas que hayan sido condenadas por delitos dolosos o a quienes previamente se les haya sancionado con la cancelación de otra autorización.
 
-### CAPÍTULO III. De la Autorización para la Prestación de Servicios de Seguridad Privada
+### CAPÍTULO V. De las Obligaciones de los Prestadores
 
 ###### Artículo 146.
 
@@ -1985,7 +2053,7 @@ De toda información, registro, folio o certificación que realice el Registro, 
 
 La Secretaría Ejecutiva deberá publicar semestralmente una lista de las empresas que se encuentren debidamente registradas en la Gaceta Oficial del estado y en los medios de difusión de mayor circulación en el Estado. Asimismo, difundirá el listado entre las cámaras y asociaciones de comerciantes, empresarios y profesionistas ubicadas en el Estado.
 
-### CAPÍTULO IV. Del Registro de los Servicios de Seguridad Privada
+### CAPÍTULO VI. De la Vigilancia, Control y Supervisión
 
 ###### Artículo 150.
 
@@ -2075,7 +2143,7 @@ Las empresas de seguridad privada no podrán contratar a personal que preste sus
 
 Las personas físicas o morales que presten servicios de seguridad privada, así como el personal con que cuentan, se regirán por los principios de legalidad, eficiencia, profesionalismo, honradez, objetividad y respeto a los derechos humanos.
 
-### CAPÍTULO V. De las Obligaciones de los Prestadores
+### CAPÍTULO VII. De las Sanciones
 
 ###### Artículo 157.
 
@@ -2139,7 +2207,7 @@ Cuando con motivo de las visitas, se conozcan hechos o actos que constituyan inc
 
 Si de la visita se desprendiere la posible comisión de un delito, la Secretaría, por sí o por conducto de la Secretaría Ejecutiva, denunciará los hechos ante el Ministerio Público.
 
-### CAPÍTULO VI. De la Vigilancia, Control y Supervisión
+### CAPITULO VIII. Del Recurso de Revocación
 
 ###### Artículo 166.
 
@@ -2221,8 +2289,6 @@ La orden de la clausura deberá señalar, cuando menos, los datos de la orden de
 
 La clausura se ejecutará por personal autorizado de la Secretaría Ejecutiva.
 
-### CAPITULO VIII. Del Recurso de Revocación
-
 ### CAPÍTULO VII. De las Sanciones
 
 ###### Artículo 172.
@@ -2268,3 +2334,17 @@ Licenciado Fidel Herrera Beltrán
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 28 DE SEPTIEMBRE DE 2012.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Los recursos humanos, materiales y financieros, que formaban parte del patrimonio del organismo público descentralizado denominado Centro Estatal de Evaluación y Control de Confianza se transfieren en su totalidad al Centro de Evaluación y Control de Confianza de la Secretaría de Seguridad Pública.
+
+Tercero. Una vez efectuado el nombramiento del Director General del Centro de Evaluación y Control de Confianza de la Secretaría de Seguridad Pública y hecha la transferencia formal y material de los recursos a que se refiere el artículo Segundo Transitorio, el Director General procederá de inmediato a formalizar los procedimientos de acreditación y certificación, que otorga el Centro Nacional de Certificación y Acreditación.
+
+Cuarto. El Ejecutivo del Estado, en un plazo no mayor a noventa días naturales, efectuará las modificaciones a los reglamentos que resulten necesarias para dar cumplimiento al presente Decreto.
+
+Quinto. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
