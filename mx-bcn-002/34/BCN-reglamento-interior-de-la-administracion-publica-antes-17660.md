@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-administracion-publica-antes-17660"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2011-11-04"
+last_updated: "2012-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2012.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -445,7 +445,9 @@ VI.- Dirección de Servicios Públicos;
 
 VIl.- (DEROGADA, P.O. 20 DE DICIEMBRE DE 2002)
 
-VIII.- Dirección de Ecología;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+VIII.- Dirección de Protección al Ambiente;
 
 IX.- Dirección de Seguridad Pública;
 
@@ -1623,6 +1625,8 @@ V.- Instalar sistemas de alumbrado, decoraciones y adornos en la vía pública, 
 
 ### CAPITULO NOVENO. DE LA DIRECCION DE ECOLOGIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTICULO 78.
 
 (DEROGADO, P.O. 20 DE DICIEMBRE DE 2002)
@@ -1655,51 +1659,101 @@ V.- Instalar sistemas de alumbrado, decoraciones y adornos en la vía pública, 
 
 ###### ARTICULO 85.
 
-La Dirección de Ecología tendrá las siguientes atribuciones:
+La Dirección de Protección al Ambiente tendrá las siguientes atribuciones:
 
-I.- Las de orden ejecutivo que en materia de equilibrio ecológico le confieren las disposiciones legales al municipio;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+l.- Las de orden ejecutivo que en materia de preservación y restauración del equilibrio ecológico y protección al ambiente le confieren las disposiciones legales al municipio;
 
 II.- Determinar las políticas de utilización de uso del suelo para la preservación ecológica del municipio;
 
-III.- Aplicar las normas y programas que se establezcan en el ámbito municipal, para la preservación y restauración del equilibrio ecológico y la protección al ambiente; y,
+III.- Aplicar las normas y programas que se establezcan en el ámbito municipal, para la preservación y restauración del equilibrio ecológico y la protección al ambiente; y, (sic)
 
 IV.- Promover con instancias u organizaciones públicas o privadas, nacionales o extranjeras, el intercambio, cooperación o elaboración de información, estudios o proyectos de interés o beneficio municipal, dentro de la rama del medio ambiente.
 
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+V.- Proponer ante el Cabildo por conducto del Presidente Municipal, iniciativas, modificaciones y adecuaciones a los Reglamentos, o Acuerdos en materia ambiental;
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+VI.- Impulsar la agenda municipal de políticas públicas sustentables que promuevan estrategias, acciones y prácticas, con el propósito de rescatar y conservar nuestros ecosistemas, la recuperación de la (sic) áreas verdes a través de la reforestación, el manejo integral del agua, la movilidad urbana, el uso alternativo de transporte, el mejoramiento de la calidad del aire, el manejo responsable de los residuos sólidos;
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+VII.- Promover, adaptar y orientar las políticas públicas municipales en materia de adaptación y mitigación al cambio climático en el ámbito local;
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+VIII.- Los demás asuntos que en la materia les concedan, otros ordenamientos legales y reglamentos aplicables.
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTICULO 86.
 
-La Dirección de Ecología para el cumplimiento de sus atribuciones contará con una coordinación administrativa y tendrá bajo su cargo los siguientes departamentos:
+La Dirección de protección al ambiente para el cumplimiento de sus atribuciones contará con una coordinación administrativa y tendrá bajo su cargo los siguientes departamentos:
 
-I.- Planeación y Gestión Ambiental;
+l. Planeación y gestión ambiental;
 
-II.- Educación Ambiental; y,
+II. Educación y difusión ambiental; y
 
-III.- Asuntos Jurídicos e Inspectoría.
+III. Auditoría y regulación ambiental; (sic)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTICULO 87.
 
-El Departamento de Planeación y Gestión Ambiental tendrá como función, coordinar la formulación, revisión, y actualización de los planes y programas en materia de preservación del equilibrio ecológico, por lo que se encargará de:
+El Departamento de planeación y gestión ambiental tendrá corno (sic) función, coordinar la formulación, revisión, y actualización de los planes y programas en materia de preservación del equilibrio ecológico, por lo que se encargará de:
 
 I.- Formular dictámenes técnicos que fundamenten declaratorias para zonas o sitios de preservación ecológica o natural;
 
 II.- Dictaminar las factibilidades y opiniones técnicas ambientales para el uso de suelo de desarrollos ubicados dentro y fuera de los centros de población;
 
-III.- Formular proyectos de normatividad que tenga (sic) por objeto permitir aplicar los criterios de protección y preservación del medio ambiente; y,
+III.- Formular proyectos de normatividad que tenga (sic) por objeto permitir aplicar los criterios de protección y preservación del medio ambiente; y, (sic)
 
 IV.- Guiar y preservar el ordenamiento ecológico de los asentamientos humanos y áreas naturales del municipio.
 
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+V.- Generar programas que impulsen el uso alternativo del transporte y la movilidad urbana;
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+VI.- Coordinar los planes y programas en materia de adaptación y mitigación al cambio climático en 21 ámbito local;
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+VII.- Fomentar la reforestación en el Municipio.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTICULO 88.
 
-El Departamento de Educación Ambiental tendrá como función generar una cultura ambiental en la comunidad, así como formar conciencia en la prevención y control de la expansión de agentes contaminantes, por lo que se encargará de:
+El Departamento de educación y difusión ambiental tendrá corno (sic) función generar una cultura ambiental en la comunidad, así corno (sic) formar conciencia en la prevención y control de la expansión de agentes contaminantes, por lo que se encargará de:
 
 I.- Elevar la calidad de vida de los habitantes del municipio, mediante programas de restauración y prevención del deterioro ambiental;
 
-II.- Ser el órgano de divulgación ecológica y fomento de la cultura ambiental en las comunidades del municipio; y,
+II.- Ser el órgano de divulgación ecológica y fomento de la cultura ambiental en las comunidades del municipio; y, (sic)
 
 III.- Promover la investigación, desarrollo de programas y estudios sobre el medio ambiente con las instituciones educativas.
 
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+IV.- Generar programas para el embellecimiento y mantenimiento de glorietas, camellones y parques públicos, que fortalezcan la imagen urbana;
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+V.- Coordinar las actividades del Centro de Educación Ambiental;
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+VI.- Promover proyectos específicos de Educación Ambiental, a fin de desarrollar una conciencia Ambiental Pública y fomentar el conocimiento y cumplimiento de la reglamentación ambiental; (sic)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTICULO 89.
 
-El Departamento (sic) Asuntos Jurídicos e inspectoría tendrá como función establecer medidas pertinentes para el manejo y sistemas de control ambiental, proceso (sic) químicos, biológicos, físicos, geológicos, y con los elementos para determinar fuentes o agentes contaminantes al aire, suelo y agua, por lo que se encargará de:
+El Departamento de Auditoría y regulación ambiental tendrá como función establecer medidas pertinentes para el manejo y sistemas de control ambiental, procesos químicos, biológicos, físicos, geológicos, y con los elementos para determinar fuentes o agentes contaminantes al aire, suelo y agua, por lo que se encargara de:
 
 I.- Aplicar las disposiciones reglamentarias y normativas en materia de preservación del equilibrio ecológico y la protección al ambiente; y,
 
@@ -3542,3 +3596,7 @@ SEGUNDO: Las presentes modificaciones entrarán en vigor al día siguiente de su
 P.O. 4 DE NOVIEMBRE DE 2011.
 
 SEGUNDO.- EL PRESENTE ACUERDO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA.
+
+P.O. 28 DE SEPTIEMBRE DE 2012.
+
+SEGUNDO.- EL PRESENTE ACUERDO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CAUFORNIA.
