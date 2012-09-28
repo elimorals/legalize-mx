@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2012-05-11"
+last_updated: "2012-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2012.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -1261,9 +1261,9 @@ La representación del Poder Judicial estará a cargo del Presidente del Tribuna
 
 El Presidente del Tribunal Superior de Justicia, el segundo jueves del mes de octubre, remitirá al Congreso del Estado un informe general, por escrito, del estado que guarde la Administración de Justicia en la entidad.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
-El Poder Judicial emitirá un Plan de Desarrollo Judicial cada seis años. El Presidente del Tribunal lo remitirá al Congreso para su examen y opinión en los términos de la Ley; y posteriormente lo dará a conocer a la población mediante su publicación en el Periódico Oficial del Estado y por cualquier otro medio que estime pertinente. Dicho Plan se elaborará, instrumentará y evaluará en los términos que se señalan en esta Constitución y la Ley.
+El Poder Judicial emitirá un Plan de Desarrollo Judicial cada tres años. El Presidente del Tribunal lo remitirá al Congreso para su conocimiento; y a su vez lo dará a conocer a la población mediante su publicación en el Periódico Oficial del Estado y por cualquier otro medio que estime pertinente. Dicho Plan se elaborará, instrumentará y evaluará en los términos que se señalan en esta Constitución y la Ley.
 
 Corresponde al Tribunal de Justicia Electoral como máxima autoridad jurisdiccional electoral estatal, y órgano especializado del Poder Judicial garantizar el cumplimiento del principio de legalidad de los actos y resoluciones electorales.
 
@@ -1553,7 +1553,9 @@ Los Consejeros ejercerán su función con independencia e imparcialidad.
 
 La Ley establecerá las bases para la formación y actualización de funcionarios, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
 
-El Consejo de la Judicatura estará facultado para expedir acuerdos generales para el adecuado ejercicio de sus funciones de conformidad con lo que establezca la Ley. Asimismo le corresponderá elaborar y aprobar el Plan de Desarrollo Judicial en los términos de esta Constitución y Ley.
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+El Consejo de la Judicatura estará facultado para expedir acuerdos generales para el adecuado ejercicio de sus funciones de conformidad con lo que establezca la ley. Asimismo le corresponderá elaborar y aprobar el Plan de Desarrollo Judicial, previa opinión no vinculante que realice el Pleno del Tribunal Superior de Justicia del Estado.
 
 (NOTA: EL 20 DE ENERO DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO Y EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 32/2007, DECLARÓ LA INVALIDEZ DEL PÁRRAFO OCTAVO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
@@ -2078,6 +2080,10 @@ El Congreso expedirá la Ley de Hacienda que establecerá las bases para la fija
 ###### ARTICULO 90.
 
 Los Presupuestos de Egresos de los Poderes Ejecutivo, Legislativo y Judicial, Organismos Públicos Autónomos y Municipios, se formularán en los términos de la Ley de la materia, en los cuales serán obligatoriamente incluidos los gastos y las dotaciones necesarias para atender los servicios públicos.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+En las partidas del presupuesto se deberá definir claramente el destino que se le dará a los recursos que ellas amparen, no podrán utilizarse términos o conceptos indeterminados que no justifiquen de forma plena su existencia, transparencia, uso y disposición. En ningún caso podrán existir partidas secretas.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE SEPTIEMBRE DE 2009)</small>
 
@@ -3516,3 +3522,21 @@ Se derogan todas las disposiciones que contravengan el presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 Para dar cumplimiento a lo establecido en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, cuando la iniciativa de adición o reforma haya sido aprobada por acuerdo de las dos tercias partes del número total de diputados, se enviará ésta a los Ayuntamientos, con copia de las actas de los debates que hubiere provocado, para que a su vez, los Ayuntamientos remitan a este Honorable Congreso el resultado de su votación.
+
+P.O. 28 DE SEPTIEMBRE DE 2012.
+
+DECRETO No. 278, POR EL QUE SE APRUEBA LA ADICION DE UN SEGUNDO PÁRRAFO, RECORRIENDOSE LOS SUBSECUENTES; AL ARTÍCULO 90 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
+
+PRIMERO.- La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Túrnese la presente iniciativa a los Ayuntamientos del Estado a efecto de que estos emitan su opinión, siguiendo con el procedimiento marcado en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+P.O. 28 DE SEPTIEMBRE DE 2012.
+
+DECRETO No. 279, POR EL QUE SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 57 Y 65 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE BAJA CALIFORNIA.
+
+PRIMERO.- Túrnese a los Ayuntamientos del Estado para el trámite previsto por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- Para dar eficiencia a lo dispuesto en el párrafo cuarto del artículo 57 de estas reformas, el Pleno del Consejo de la Judicatura deberá aprobar el Plan de Desarrollo Judicial dentro de los tres meses posteriores en que se efectué la elección del Presidente del Tribunal Superior de Justicia, en caso de que estas reformas fueran publicadas con posterioridad a ese momento, el citado periodo se contará a partir de la fecha (sic) publicación de dichas reformas.
