@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-ingresos-del-estado-de-baja-california-para-el-84284"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2011-12-31"
-last_updated: "2011-12-31"
+last_updated: "2012-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE INGRESOS DEL ESTADO DE BAJA CALIFORNIA DE PARA EL EJERCICIO FISCAL DEL AÑO 2012
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en la Sección I del Número Especial del Periódico Oficial del Estado de Baja California, el sábado 31 de diciembre de 2011.
 
@@ -2703,6 +2703,10 @@ la Recaudación de Rentas $ 125.42
 
 6.- Por baja del padrón vehicular $ 157.50
 
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
+
+Se exceptúa del pago mencionado en éste numeral, al propietario que acredite el robo del vehículo, mediante constancia expedida por el Agente del Ministerio Público Correspondiente.
+
 7.- Por reposición de placas de taxis y autobuses de pasajeros $ 623.09
 
 8.- Por reposición de placas de camiones de carga $ 787.51
@@ -4550,3 +4554,9 @@ GOBERNADOR DEL ESTADO
 CUAUHTÉMOC CARDONA BENAVIDES
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE SEPTIEMBRE DE 2012.
+
+ÚNICO.- La presente reforma entrará en vigor el día de su publicación en el Periódico Oficial de Estado de Baja California.
