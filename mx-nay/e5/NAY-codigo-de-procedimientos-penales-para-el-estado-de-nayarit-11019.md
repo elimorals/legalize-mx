@@ -4,7 +4,7 @@ identifier: "NAY-codigo-de-procedimientos-penales-para-el-estado-de-nayarit-1101
 country: "mx"
 rank: "codigo"
 publication_date: "1969-11-29"
-last_updated: "2012-05-25"
+last_updated: "2012-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2012.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1969.
 
@@ -67,77 +67,79 @@ Dentro del período de averiguación previa, el Ministerio Público deberá, en 
 
 I.- Recibir las denuncias y querellas de los particulares o de cualquier autoridad, sobre hechos que puedan constituir delitos de orden común. Cuando las diversas policías actúen en funciones de Policía Estatal, inmediatamente darán aviso al Ministerio Público, dejando de actuar cuando éste así lo determine;
 
-II.- Practicar la averiguación previa;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
+
+II.- Practicar la averiguación previa, evitando incorporar en la investigación, elementos de discriminación que puedan dar como resultado una descalificación de la credibilidad de la víctima u ofendido y una asunción tácita de su responsabilidad por los hechos, ya sea por su forma de vestir, por su ocupación laboral, conducta sexual, relación o parentesco con el agresor;
 
 III.- Buscar las pruebas de la existencia de los delitos de la competencia de los tribunales del Estado y de la responsabilidad de quienes en ellos hubieren participado; y
 
 > <small>(REFORMADA, P.O. 12 DE JULIO DE 2000)</small>
 
-IV. Ejercitar la acción penal cuando en ésta proceda determinar la reserva o el archivo definitivo, en los casos previstos por la ley.
+IV.- Ejercitar la acción penal cuando en ésta proceda determinar la reserva o el archivo definitivo, en los casos previstos por la ley.
 
 > <small>(ADICIONADA, P.O. 12 DE JULIO DE 2000)</small>
 
-V. Solicitar a la autoridad judicial las medidas precautorias de arraigo, aseguramiento o embargo que resulten indispensables para la averiguación previa, así como las órdenes de cateo que procedan.
+V.- Solicitar a la autoridad judicial las medidas precautorias de arraigo, aseguramiento o embargo que resulten indispensables para la averiguación previa, así como las órdenes de cateo que procedan.
 
 > <small>(ADICIONADA, P.O. 12 DE JULIO DE 2000)</small>
 
-VI. Acordar la detención o retención de los indiciados cuando así proceda.
+VI.- Acordar la detención o retención de los indiciados cuando así proceda.
 
 > <small>(ADICIONADA, P.O. 12 DE JULIO DE 2000)</small>
 
-VII. Dictar todas las medidas y providencias necesarias para proporcionar seguridad y auxilio a las víctimas.
+VII.- Dictar todas las medidas y providencias necesarias para proporcionar seguridad y auxilio a las víctimas.
 
 > <small>(ADICIONADA, P.O. 12 DE JULIO DE 2000)</small>
 
-VIII. Acordar y notificar al ofendido o y (sic) víctima, el no ejercicio de la acción penal cuando esto sea procedente.
+VIII.- Acordar y notificar al ofendido o y (sic) víctima, el no ejercicio de la acción penal cuando esto sea procedente.
 
 > <small>(ADICIONADA, P.O. 12 DE JULIO DE 2000)</small>
 
-IX. Conceder o revocar cuando proceda, la libertad provisional del indiciado.
+IX.- Conceder o revocar cuando proceda, la libertad provisional del indiciado.
 
 > <small>(ADICIONADA, P.O. 12 DE JULIO DE 2000)</small>
 
-X. En caso procedente promover la conciliación de las partes.
+X.- En caso procedente promover la conciliación de las partes.
 
 > <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
 
-XI. Perseguir y conocer de los delitos contra la salud en su modalidad de narcomenudeo a que se refiere el capítulo VII del título XVIII de la Ley General de Salud, así como recibir su investigación, cuando se colmen los supuestos del artículo 474 de dicho ordenamiento.
+XI.- Perseguir y conocer de los delitos contra la salud en su modalidad de narcomenudeo a que se refiere el capítulo VII del título XVIII de la Ley General de Salud, así como recibir su investigación, cuando se colmen los supuestos del artículo 474 de dicho ordenamiento.
 
 > <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
 
-XII. Remitir al Ministerio Público de la Federación cuando éste así lo solicite, conforme a lo dispuesto en el inciso b) de la fracción IV del artículo 474 de la Ley General de Salud, la investigación correspondiente relativa a los delitos contra la salud en su modalidad de narcomenudeo previstos en el capítulo VII del título XVIII de dicho ordenamiento.
+XII.- Remitir al Ministerio Público de la Federación cuando éste así lo solicite, conforme a lo dispuesto en el inciso b) de la fracción IV del artículo 474 de la Ley General de Salud, la investigación correspondiente relativa a los delitos contra la salud en su modalidad de narcomenudeo previstos en el capítulo VII del título XVIII de dicho ordenamiento.
 
 > <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
 
-XIII. Informar oportunamente al Ministerio Público de la Federación, del inicio de las averiguaciones previas por los delitos contra la salud en su modalidad de narcomenudeo a que se refiere el capítulo VII del título XVIII de la Ley General de Salud;
+XIII.- Informar oportunamente al Ministerio Público de la Federación, del inicio de las averiguaciones previas por los delitos contra la salud en su modalidad de narcomenudeo a que se refiere el capítulo VII del título XVIII de la Ley General de Salud;
 
 > <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
 
-XIV. Remitir el expediente relativo a los delitos contra la salud en su modalidad de narcomenudeo a que se refiere el capítulo VII del título XVIII de la Ley General de Salud al Ministerio Público de la Federación o al juez federal que corresponda, dependiendo de la etapa procesal en que se encuentre, a fin de que se continúe el procedimiento, cuando de las constancias de éste se advierta su incompetencia.
+XIV.- Remitir el expediente relativo a los delitos contra la salud en su modalidad de narcomenudeo a que se refiere el capítulo VII del título XVIII de la Ley General de Salud al Ministerio Público de la Federación o al juez federal que corresponda, dependiendo de la etapa procesal en que se encuentre, a fin de que se continúe el procedimiento, cuando de las constancias de éste se advierta su incompetencia.
 
 > <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
 
-XV. Comprar, adquirir, o recibir la transmisión material de algún narcótico, por conducto de su policía y para fines de investigación, a efecto de lograr la detención del probable responsable del comercio o suministro de narcóticos o de la posesión de los mismos con dichos fines y el aseguramiento correspondiente; siempre y cuando haya sido autorizado en cada caso por el Titular del Ministerio Público de la Federación, a solicitud del Procurador General de Justicia.
+XV.- Comprar, adquirir, o recibir la transmisión material de algún narcótico, por conducto de su policía y para fines de investigación, a efecto de lograr la detención del probable responsable del comercio o suministro de narcóticos o de la posesión de los mismos con dichos fines y el aseguramiento correspondiente; siempre y cuando haya sido autorizado en cada caso por el Titular del Ministerio Público de la Federación, a solicitud del Procurador General de Justicia.
 
 > <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
 
-XVI. Señalar por escrito en la orden respectiva, los lineamientos, términos, limitaciones, modalidades y condiciones a los que deberá sujetarse el agente o agentes de la policía que la ejecuten, una vez expedida la autorización a que se refiere la fracción anterior;
+XVI.- Señalar por escrito en la orden respectiva, los lineamientos, términos, limitaciones, modalidades y condiciones a los que deberá sujetarse el agente o agentes de la policía que la ejecuten, una vez expedida la autorización a que se refiere la fracción anterior;
 
 > <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
 
-XVII. Realizar a la Secretaría de Salud del Estado el reporte de no ejercicio de la acción penal por el delito previsto en el artículo 477 de la Ley General de Salud, en contra de quien sea farmacodependiente o consumidor y posea alguno de los narcóticos señalados en la tabla contenida en el artículo 479 de dicha Ley, siempre y cuando sea fuera de los lugares señalados en la fracción II del artículo 475.
+XVII.- Realizar a la Secretaría de Salud del Estado el reporte de no ejercicio de la acción penal por el delito previsto en el artículo 477 de la Ley General de Salud, en contra de quien sea farmacodependiente o consumidor y posea alguno de los narcóticos señalados en la tabla contenida en el artículo 479 de dicha Ley, siempre y cuando sea fuera de los lugares señalados en la fracción II del artículo 475.
 
 > <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
 
-XVIII. Informar de inmediato y en su caso dar intervención a las autoridades sanitarias competentes, para los efectos del tratamiento que corresponda, tan pronto identifique que una persona relacionada con un procedimiento es farmacodependiente.
+XVIII.- Informar de inmediato y en su caso dar intervención a las autoridades sanitarias competentes, para los efectos del tratamiento que corresponda, tan pronto identifique que una persona relacionada con un procedimiento es farmacodependiente.
 
 > <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
 
-XIX. Informar según le corresponda, a la autoridad administrativa competente, cuando tenga conocimiento que el propietario, poseedor, arrendatario o usufructuario de un establecimiento de la naturaleza que sea lo empleare para realizar cualquiera de las conductas sancionadas en el capítulo VII del título XVIII de la Ley General de Salud.
+XIX.- Informar según le corresponda, a la autoridad administrativa competente, cuando tenga conocimiento que el propietario, poseedor, arrendatario o usufructuario de un establecimiento de la naturaleza que sea lo empleare para realizar cualquiera de las conductas sancionadas en el capítulo VII del título XVIII de la Ley General de Salud.
 
 > <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
 
-XX. Las demás que le otorguen las disposiciones legales y reglamentarias aplicables.
+XX.- Las demás que le otorguen las disposiciones legales y reglamentarias aplicables.
 
 > <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1119,15 +1121,33 @@ Cuando se trate de lesiones externas, se tendrá por comprobado el cuerpo del de
 
 En el caso de lesiones internas, envenenamiento u otra enfermedad proveniente de delito, se tendrá por comprobado el cuerpo de éste, con la inspección hecha por el funcionario o tribunal a quienes se refiere el artículo anterior, de las manifestaciones exteriores que presentare la víctima, y con el dictamen pericial en que se expresarán los síntomas que presente; si existen esas lesiones y si han sido producidas por una causa externa. En caso de no existir manifestaciones exteriores, bastará con el dictamen pericial.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTICULO 133.
 
-Si se tratare de homicidio, el cuerpo del delito se tendrá por comprobado con la inspección y descripción del cadáver hecha en los términos de los dos artículos anteriores, y con el dictamen de los peritos, médicos, quienes practicarán la autopsia y expresarán con minuciosidad el estado que guarde el cadáver y las causas que originaron la muerte. Si hubiere sido sepultado se procederá a exhumarlo.
+Si se tratare de homicidio, el cuerpo del delito se tendrá por comprobado con la inspección y descripción del cadáver hecha en los términos de los dos artículos anteriores, y con el dictamen de dos peritos médicos, quienes practicarán la autopsia y expresarán con minuciosidad el estado que guarde el cadáver y las causas que originaron la muerte. Si hubiere sido sepultado se procederá a exhumarlo.
 
-Solamente podrá dejarse de practicar la autopsia cuando tanto el funcionario que practique las diligencias, como los peritos médicos, estimen que no es necesaria para determinar la causa de la muerte.
+En la realización de la autopsia, debe dejarse constancia de cuando menos:
+
+I. La fecha y hora de inicio y su finalización; el lugar donde se realiza y el nombre del servidor público que la ejecuta;
+
+II. La fecha, hora, causa y forma de la muerte;
+
+III. Registro fotográfico del cadáver; la bolsa o envoltorio en que se encuentre, así como de la ropa que vestía;
+
+IV. Registro de todas las lesiones, así como de la ausencia, soltura o daño en los dientes, y
+
+V. Resultados del examen de las áreas genital y para-genital, para determinar si existen señales de violencia sexual, para lo cual deberán tomarse muestras de fluidos corporales, así como de las uñas y de cualquier elemento que permita identificar al sujeto activo.
+
+Solamente podrá dejarse de practicar la autopsia cuando tanto el funcionario que practique las diligencias, como los peritos médicos encargados, estimen que no es necesaria para determinar la causa de la muerte, siempre que funden y motiven técnicamente su determinación.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTICULO 134.
 
-Cuando el cadáver no se encuentre o por otro motivo no se haga la autopsia, bastará que los peritos, en vista de los datos que obren en el expediente, declaren que la muerte fue resultado de las lesiones inferidas.
+Cuando el cadáver no se encuentre o por otro motivo no se haga la autopsia, bastará que los peritos, en vista de los datos que obren en el expediente, emitan un dictamen sobre las causas de la muerte o declaren que ésta fue resultado de las lesiones inferidas. En dicho dictamen, deberán asentar si en su opinión la víctima presentaba indicios de violencia sexual, mutilaciones o lesiones infamantes.
+
+En los casos de muerte de mujeres ingresadas a hospitales por traumatismos, heridas, fracturas, esguinces, amputaciones; cuerpos extraños introducidos en sus áreas genitales o paragenitales; quemaduras y sus secuelas; caídas, contactos traumáticos; heridas por proyectil de arma de fuego y/o por arma blanca; exposición a chorro de agua de alta presión; golpes contusos, mordeduras, rasguños, choque, atropellamiento o arrollamiento; asfixia por estrangulación, ahorcamiento, sumersión, ahogamiento y sofocación; exposición a calor excesivo; contacto con líquidos, alimentos, grasas y aceites para cocinar con alto grado de temperatura; privación de alimentos o agua; uso obligado de consumo por cualquier vía corporal, de todo tipo de sustancias que alteren el comportamiento o causen adicción, administración indiscriminada y dolosa de medicamentos, sustancias biológicas o corrosivas; agresión con vapor de agua, con objetos calientes sometidos a altos grados de temperatura, cortantes, contusos, punzantes y punzocortantes; así como agresión corporal o sexual de cualquier tipo, el Ministerio Público deberá iniciar la investigación como presunto homicidio para averiguar si en el hecho, existieron razones de misoginia y, en su caso, se hubiere cometido el delito de feminicidio.
 
 ###### ARTICULO 135.
 
@@ -1415,11 +1435,9 @@ C) Que por razón de la hora, lugar o cualquier otra circunstancia, no pueda ocu
 
 La violación a esta disposición hará penalmente responsable al Ministerio Público o funcionario que decrete indebidamente la detención y el sujeto será puesto en inmediata libertad.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2012)</small>
-
-Se califican como delitos graves, para todos los efectos legales, por afectar de manera importante bienes jurídicos fundamentales de la sociedad, los previstos en los siguientes artículos del Código Penal: homicidio por culpa grave previsto en el último párrafo del artículo 72; delitos contra el orden constitucional del estado y su integridad territorial previsto en el artículo 127; rebelión, previsto en el artículo 130 y 131; sedición previsto en el artículo 140; terrorismo previsto en el artículo 145; evasión de presos, previsto en los artículos 146 y 148; atentado contra la seguridad de la comunidad previsto en las fracciones III y IV del artículo 160 bis; ataques a las vías generales de comunicación previsto en el artículo 166 en relación con los artículos 170 y 171; el previsto en el artículo 186 bis; corrupción y prostitución de menores o incapaces previsto en el artículo 200 fracciones III y IV y penúltimo párrafo; artículo 201, artículos 202 y 202 bis; lenocinio previsto en el artículo 203, violación en relación con el artículo 206; tortura previsto en el artículo 214; violación en relación con el artículo 206; tortura previsto en el artículo 214; violación en relación con el artículo 260; sustracción y tráfico de infantes, previsto en el artículo 265; amenazas graves, previsto en el último párrafo del artículo 276; asalto previsto en los artículos 281 y 282; secuestro previsto en el artículo 284; la desaparición forzada de personas previsto en el artículo 291 A; la trata de personas previsto en los artículos 291 B, 291 C, 291 D y 291 E; lesiones previsto en los artículos 309, 310, 314 y 315; homicidio previsto en el artículo 317 en relación con el 321, 322, 323, 330, 331 y 332; robo calificado previsto en el artículo 343 en relación al 348, fracciones I, IV, V, VI, VII, VIII y IX; abigeato previsto en el artículo 357 en relación con las fracciones II y III del artículo 358; fraude en relación a la fracción XVI del artículo 369; delito contra el desarrollo urbano; usura previsto en el artículo 372; despojo previsto en el artículo 373 penúltimo párrafo; daño en propiedad ajena previsto en el artículo 375; encubrimiento previsto en el artículo 381 último párrafo; fraccionamiento ilegal de inmuebles, previsto por los artículos 393 y394 (sic); atentados al pudor previsto en el artículo 256 sancionable como violación en los términos del artículo 260; la tentativa de los delitos de violación, homicidio intencional, terrorismo, tortura, asalto y secuestro.
+Se califican como delitos graves, para todos los efectos legales, por afectar de manera importante bienes jurídicos fundamentales de la sociedad, los previstos en los siguientes artículos del Código Penal: homicidio por culpa grave previsto en el último párrafo del artículo 72; delitos contra el orden constitucional del estado y su integridad territorial previsto en el artículo 127; rebelión, previsto en el articulo 130 y 131; sedición previsto en el articulo 140; terrorismo previsto en el artículo 145; evasión de presos, previsto en los artículos 146 y 148; atentado contra la seguridad de la comunidad previsto en las fracciones III y IV del artículo 160 bis; ataques a las vías generales de comunicación previsto en el artículo 166 en relación con los artículos 170 y 171; el previsto en el artículo 186 bis; corrupción y prostitución de menores o incapaces previsto en el artículo 200 fracciones III y IV y penúltimo párrafo; artículo 201, artículos 202 y 202 bis; lenocinio previsto en el artículo 203, violación en relación con el artículo 206; tortura previsto en el artículo 214; violación en relación con el artículo 260; sustracción y tráfico de infantes, previsto en el artículo 265; amenazas graves, previsto en el último párrafo del artículo 276; asalto previsto en los artículos 281 y 282; secuestro previsto en el artículo 284; la desaparición forzada de personas previsto en el artículo 291 A; la trata de personas previsto en los artículos 291 B, 291 C, 291 D y 291 E; lesiones previsto en los artículos 309, 310, 314 y 315; homicidio previsto en el artículo 317 en relación con el 321, 322, 323, 330, 331 y 332; feminicidio previsto en el artículo 325, fracción IX; robo calificado previsto en el artículo 343 en relación al 348, fracciones I, IV, V, VI, VII, VIII y IX; abigeato previsto en el artículo 357 en relación con las fracciones II y III del artículo 358; fraude en relación a la fracción XVI del artículo 369; delito contra el desarrollo urbano; usura previsto en el artículo 372; despojo previsto en el artículo 373 penúltimo párrafo; daño en propiedad ajena previsto en el artículo 375; encubrimiento previsto en el artículo 381 último párrafo; fraccionamiento ilegal de inmuebles, previsto por los artículos 393 y 394; atentados al pudor previsto en el artículo 256 sancionable como violación en los términos del artículo 260; la tentativa de los delitos de violación, homicidio intencional, terrorismo, tortura, asalto y secuestro.
 
 > <small>(ADICIONADO, P.O. 12 DE JULIO DE 2000)</small>
 
@@ -2563,9 +2581,9 @@ II.- Que garantice las sanciones pecuniarias que en su caso puedan imponérsele;
 
 III.- Que caucione el cumplimiento de las obligaciones a su cargo, que la ley establece en razón del proceso; y
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
 
-IV.- Que no se trate de alguno de los delitos señalados como graves en el párrafo último del Artículo 157.
+IV.- Que no se trate de alguno de los delitos señalados como graves en el artículo 157 de este código.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
@@ -3734,3 +3752,7 @@ DECRETO, POR EL QUE SE ADICIONAN LAS FRACCIONES XI A LA XX AL ARTÍCULO 2, UN TE
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 29 DE SEPTIEMBRE DE 2012.
+
+Artículo único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
