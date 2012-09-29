@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2012-08-11"
+last_updated: "2012-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2012.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -255,23 +255,23 @@ No podrá el Congreso abrir sus sesiones sin la concurrencia de la mayoría simp
 
 El Congreso, fuera de los períodos que señala el artículo anterior, celebrará sesiones o períodos extraordinarios sólo cuando fuere convocado al efecto por la Comisión Permanente, debiendo ocuparse en ellos solo de los asuntos para los cuales se haya hecho la convocatoria.
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 31.
 
-El dieciocho de diciembre de cada año, en Sesión Solemne del Congreso del Estado a la que asistirán el Presidente del Supremo Tribunal de Justicia y los integrantes de la Legislatura, el Gobernador del Estado deberá presentar un informe por escrito al Congreso, respecto del Estado que guarda la administración pública de la Entidad, el cual deberá entregar dentro de los cinco días anteriores a la fecha en que el Congreso realice la referida sesión.
+El dieciocho de diciembre de cada año, en Sesión Solemne del Congreso del Estado a la que asistirán el Presidente del Supremo Tribunal de Justicia y los integrantes de la Legislatura, el Gobernador del Estado deberá presentar un informe por escrito al Congreso, respecto del estado que guarda la administración pública de la Entidad, el cual deberá entregar dentro de los cinco días anteriores a la fecha en que el Congreso realice la referida sesión.
 
-El Titular del Ejecutivo Estatal asistirá a la Sesión Solemne en la Sede del Poder Legislativo, en la que habrá de rendir su informe y en su presencia, hará uso de la palabra un Diputado por cada uno de los partidos políticos con representación en el Congreso; éstas intervenciones se realizarán en orden creciente en razón del número de Diputados de cada partido político. En el supuesto de que exista igual número de Diputados pertenecientes a dos o más partidos políticos, corresponderá el turno a aquel que haya obtenido el mayor número de votos en la elección respectiva de Diputados por el principio de mayoría relativa.
+La Sesión Solemne en la que el Titular del Poder Ejecutivo Estatal rinda su informe, se llevará a cabo en la Sede del Poder Legislativo o en el lugar en que apruebe la Asamblea. Estando presente el Titular del Poder Ejecutivo en dicha sesión, harán uso de la palabra hasta por siete minutos un Diputado por cada uno de los partidos políticos representados en el Congreso, en orden creciente en razón del número de Diputados de cada grupo partidista. En el supuesto de que exista igual número de Diputados pertenecientes a dos o más partidos políticos, corresponderá el turno a aquel que haya obtenido el mayor número de votos en la elección respectiva de Diputados por el principio de mayoría relativa.
 
-Concluidas las intervenciones de los legisladores, el Gobernador deberá hacer uso de la palabra para expresar un mensaje con respecto al informe presentado. Dicho informe será contestado por el Presidente de la Mesa Directiva.
+Concluidas las intervenciones de los legisladores, el Gobernador deberá hacer uso de la palabra para expresar un mensaje con respecto al informe presentado. Dicho informe será contestado por el Presidente de la Mesa Directiva, quien finalmente, declarará concluida la sesión.
 
-Posteriormente el Presidente de la Mesa Directiva dará uso de la palabra, hasta por cinco minutos a un Diputado por cada uno de los partidos políticos representados en la Legislatura, para que formulen preguntas al Titular del Ejecutivo Estatal, quien las contestará de manera inmediata en un solo acto, hasta por diez minutos. Finalmente el Presidente de la Mesa Directiva, al término de las intervenciones declarará concluida la Sesión.
+Durante las intervenciones, tanto de los Diputados como del Ejecutivo Estatal, no procederán interpelaciones ni interrupciones, debiendo conducirse con respeto y observando las normas de cortesía para los demás miembros del Congreso y para con los servidores públicos e invitados al Recinto Legislativo.
 
-Durante las intervenciones, tanto de los Diputados como del Ejecutivo Estatal, no procederán interpelaciones ni interrupciones.
+Posteriormente el Congreso realizará el análisis del informe y acordará solicitar al Ejecutivo Estatal, la ampliación de la información mediante preguntas por escrito y solicitar a los Secretarios de la Administración Pública, Procurador de Justicia y Directores de instituciones paraestatales comparezcan y rindan sus informes, de conformidad a lo establecido en la Ley Orgánica del Poder Legislativo y su Reglamento.
 
-El Sexto Informe de Gobierno que corresponda al periodo constitucional de Gobernador, se rendirá el primero de octubre de ese año.
+El sexto informe de Gobierno que corresponda al periodo constitucional de Gobernador, se rendirá el primero de octubre de ese año.
 
-La Ley Orgánica del Poder Legislativo del Estado de Colima y su Reglamento, establecerán los términos en que se desarrollarán las comparecencias de los Secretarios de la Administración Pública, así como el debate correspondiente a las preguntas y contestación de las mismas.
+La Ley Orgánica del Poder Legislativo del Estado de Colima y su Reglamento, establecerán los términos en que se desarrollarán las comparecencias de los Secretarios de la Administración Pública.
 
 > <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
 
@@ -2994,6 +2994,10 @@ PRIMERO (SIC).- El presente Decreto entrará en vigor el día de su publicación
 P.O. 11 DE AGOSTO DE 2012.
 
 PRIMERO (SIC).- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 29 DE SEPTIEMBRE DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 ###### ARTÍCULO ÚNICO.
 
