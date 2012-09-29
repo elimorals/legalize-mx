@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-interior-de-la-secretaria-de-hacienda-del-estado-811
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-03-25"
-last_updated: "2011-07-29"
+last_updated: "2012-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81128&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ROO"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE HACIENDA, DEL ESTADO DE QUINTANA ROO
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE HACIENDA DEL ESTADO DE QUINTANA ROO
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE HACIENDA DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2012.
 
 Reglamento publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 25 de marzo de 2011.
 
@@ -91,7 +91,7 @@ Al frente de la Secretaría habrá un Titular a quien se le denominará Secretar
 
 1.1.1 Dirección General de Ingresos;
 
-1.1.1.1 Recaudadora de Tenencias y Control Vehicular;
+1.1.1.1 (DEROGADO, P.O. 29 DE SEPTIEMBRE DE 2012)
 
 1.1.1.2 Recaudadora de Rentas en Othón P. Blanco;
 
@@ -112,6 +112,10 @@ Al frente de la Secretaría habrá un Titular a quien se le denominará Secretar
 > <small>(ADICIONADO, P.O. 29 DE JULIO DE 2011)</small>
 
 1.1.1.10 Recaudadora de Rentas en Tulum;
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
+
+1.1.1.11 Recaudadora de Rentas en Bacalar.
 
 1.1.2 Dirección General de Auditoría Fiscal;
 
@@ -237,9 +241,13 @@ VII. Firmar los convenios, contratos y acuerdos en los que la Secretaría por le
 
 VIII. Expedir certificaciones de los documentos que se tengan o que se elaboren en el ámbito de su competencia;
 
-IX. Autorizar prórrogas y pagos en parcialidades de créditos fiscales, de acuerdo a los procedimientos que establece la legislación aplicable;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
 
-X. Condonar total o parcialmente las multas, recargos y demás accesorios que se generen por el incumplimiento de las obligaciones fiscales por parte de los contribuyentes sujetos a las disposiciones de las Leyes de Hacienda Estatal, así como otorgar estímulos fiscales siempre y cuando se acredite que el contribuyente sancionado se encuentre en una situación económica precaria;
+IX. Autorizar prórrogas y pagos en parcialidades de contribuciones omitidas, aprovechamientos y de sus accesorios de acuerdo a los procedimientos que establece la legislación aplicable;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
+
+X. Condonar total o parcialmente las multas, recargos y demás accesorios que se generen por el incumplimiento de las obligaciones fiscales por parte de los contribuyentes sujetos a las disposiciones de las Leyes en materia fiscal, así como otorgar estímulos fiscales.
 
 XI. Autorizar los procedimientos y programas relacionados con los actos de fiscalización que se llevan a cabo conforme a las normas establecidas por la Secretaría de Hacienda y Crédito Público, en el marco del Convenio de Colaboración Administrativa en Materia Fiscal Federal;
 
@@ -247,7 +255,9 @@ XII. Autorizar el Programa Operativo Anual de actos de fiscalización en el Esta
 
 XIII. Practicar por sí o a través de la Unidad Administrativa correspondiente, visitas domiciliarias, auditorias, inspecciones y verificaciones, así como los demás actos que establezcan las disposiciones fiscales Estatales y Federales para comprobar el cumplimiento de las obligaciones de los contribuyentes, responsables solidarios y demás obligados, así como expedir oficio de prórroga sobre el plazo en que deben concluir las visitas;
 
-XIV. Acordar con el Gobernador del Estado, los porcentajes a otorgar mediante subsidios fiscales, suscribirlos por sí o mancomunadamente;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
+
+XIV. Fijar los porcentajes a otorgar mediante subsidios fiscales y suscribirlos;
 
 XV. Imponer las multas y sanciones, por sí o a través de las Unidades Administrativas correspondientes, por incumplimiento a las disposiciones en materia Estatal o Federal de su competencia;
 
@@ -255,7 +265,9 @@ XVI. Establecer y vigilar las normas y procedimientos de recaudación, concentra
 
 XVII. Elaborar y proponer al Ejecutivo del Estado, los anteproyectos de modificación a la Legislación Fiscal y Catastral del Estado; así como coadyuvar con los Municipios en la elaboración de sus respectivos proyectos en las leyes de la materia;
 
-XVIII. Suscribir las credenciales o constancias de identificación del personal autorizado, para la práctica de visitas domiciliarias, inspecciones, verificaciones y auditorias;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
+
+XVIII. Suscribir las credenciales o constancias de identificación del personal autorizado, para la práctica de notificaciones, actuaciones relativas al procedimiento administrativo de ejecución, visitas domiciliarias, inspecciones, verificaciones y auditorias;
 
 XIX. Autorizar y delegar a la Unidad Administrativa correspondiente el embargo precautorio, para asegurar el interés fiscal, cuando a su juicio hubiera peligro de que el obligado se ausente o realice cualquier maniobra tendiente a evadir el cumplimiento de las obligaciones fiscales, así como levantarlo cuando proceda;
 
@@ -379,7 +391,9 @@ I. Organizar, controlar y evaluar el funcionamiento de las Direcciones Generales
 
 II. Coordinar la elaboración y proponer al Secretario los anteproyectos de la Ley de Ingresos del Estado de Quintana Roo y participar en la formulación de las demás disposiciones en materia fiscal;
 
-III. Proponer al Secretario y autorizar la condonación total o parcial de las multas y recargos;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
+
+III. Condonar total o parcialmente las multas, recargos y demás accesorios que se generen por el incumplimiento de las obligaciones fiscales por parte de los contribuyentes sujetos a las disposiciones de las Leyes en materia fiscal, así como otorgar estímulos fiscales;
 
 IV. Vigilar el cumplimiento de los informes y obligaciones del Gobierno del Estado a la Federación derivados de los acuerdos de coordinación fiscal, corroborando que el cálculo de los incentivos y transferencias fiscales, se apeguen estrictamente a los términos de la Ley de Coordinación Fiscal del Estado de Quintana Roo y los acuerdos suscritos;
 
@@ -405,7 +419,9 @@ XII. Promover el cumplimiento reciproco de las obligaciones derivadas de los con
 
 XIII. Proponer al Secretario para su aprobación, las medidas tendientes a mejorar la aplicación de las disposiciones legales en materia de su competencia, coordinando y normando las actividades de capacitación en temas de interés fiscal para el Estado;
 
-XIV. Proponer al Secretario la autorización de prórrogas y pagos diferidos derivado de impuestos, productos, derechos y aprovechamientos a cargo de los contribuyentes;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
+
+XIV. Autorizar prórrogas y pagos en parcialidades de contribuciones omitidas, aprovechamientos y de sus accesorios de acuerdo a los procedimientos que establece la legislación aplicable;
 
 XV. Conocer de las acciones de embargo, para asegurar el interés fiscal;
 
@@ -419,21 +435,39 @@ XIX. Validar por sí o a través de la Unidad Administrativa correspondiente, la
 
 XX. Ordenar e implantar operativos de verificación de vehículos de procedencia extranjera, en los términos del Convenio de Colaboración Administrativa en Materia Fiscal Federal y demás ordenamientos aplicables de la materia;
 
-XXI. Resolver el recursos (sic) de inconformidad e intervenir ante cualquier tribunal cuando se traten asuntos relacionados con el Registro Público de la Propiedad y del Comercio;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
 
-XXII. Asimismo otorgar el registro a los Contadores Públicos para formular dictámenes sobre los estados financieros relacionados con las declaraciones fiscales de los contribuyentes o cualquier otro tipo de dictámenes que tenga repercusión para efectos de impuestos estatales, así como otorgar el registro de despachos de Contadores Públicos, cuyos socios e integrantes sean Contadores Públicos, que hayan obtenido registro para formular dictámenes para efectos fiscales; y
+XXI. Sustanciar y resolver el recursos (sic) de inconformidad e intervenir ante cualquier tribunal cuando se traten asuntos relacionados con el Registro Público de la Propiedad y del Comercio, así como ordenar mediante acuerdo la inmovilización de los folios electrónicos;
 
-XXIII. Las demás disposiciones legales y las que le confiera el Secretario en el ámbito de su competencia.
+XXII. Asimismo otorgar el registro a los Contadores Públicos para formular dictámenes sobre los estados financieros relacionados con las declaraciones fiscales de los contribuyentes o cualquier otro tipo de dictámenes que tenga repercusión para efectos de impuestos estatales, así como otorgar el registro de despachos de Contadores Públicos, cuyos socios e integrantes sean Contadores Públicos, que hayan obtenido registro para formular dictámenes para efectos fiscales; y (sic)
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
+
+XXIII. Suscribir las credenciales o constancias de identificación del personal autorizado, para la práctica de notificaciones, actuaciones relativas al procedimiento administrativo de ejecución, visitas domiciliarias, inspecciones, verificaciones y auditorías;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
+
+XXIV. Fijar los porcentajes a otorgar mediante subsidios fiscales y suscribirlos;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
+
+XXV. Vigilar el exacto cumplimiento y aplicación de la Ley que establece las bases de apertura y cierre de las casas de empeño o préstamo en el Estado de Quintana Roo.
+
+XXVI. Las demás disposiciones legales y las que le confiera el Secretario en el ámbito de su competencia.
 
 ### CAPÍTULO II. DE LAS FACULTADES DEL TITULAR DE LA DIRECCIÓN GENERAL DE INGRESOS
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 14.
 
-La Dirección General de Ingresos tendrá su sede en la ciudad de Chetumal, Quintana Roo, ejercerá sus facultades en todo el territorio del Estado de Quintana Roo y estará a cargo de un Director General de Ingresos.
+La Dirección General de Ingresos tendrá su sede en la ciudad de Cancún, Quintana Roo, ejercerá sus facultades en todo el territorio del Estado de Quintana Roo y estará a cargo de un Director General de Ingresos.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 15.
 
-La Dirección General de Ingresos estará auxiliada para el desempeño de sus funciones por Recaudadoras de Rentas con sede en los Municipios del Estado de Quintana Roo y una Recaudadora de Tenencias y Control Vehicular en el Municipio de Othón P. Blanco.
+La Dirección General de Ingresos estará auxiliada para el desempeño de sus funciones por Recaudadoras de Rentas con sede en los Municipios del Estado de Quintana Roo.
 
 ###### Artículo 16.
 
@@ -449,9 +483,13 @@ IV. Promover en la esfera de su competencia, el estricto cumplimiento de los Con
 
 V. Determinar las participaciones y estímulos que conforme a las leyes fiscales y convenios de coordinación con el Gobierno Federal corresponden al Estado y Municipios, así como vigilar que su percepción sea correcta y oportuna;
 
-VI. Proponer a su superior jerárquico, la autorización de prórrogas y de pagos diferidos derivado de impuestos, productos, derechos y aprovechamientos a cargo de los contribuyentes;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
 
-VII. Conceder la condonación parcial de las multas;
+VI. Autorizar prórrogas y pagos en parcialidades de contribuciones omitidas, aprovechamientos y de sus accesorios de acuerdo a los procedimientos que establece la legislación aplicable;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
+
+VII. Condonar parcialmente las multas, recargos y demás accesorios que se generen por el incumplimiento de las obligaciones fiscales por parte de los contribuyentes sujetos a las disposiciones de las Leyes en materia fiscal, así como otorgar estímulos fiscales;
 
 VIII. Dar seguimiento en materia de su competencia a los acuerdos de las reuniones de coordinación de funcionarios fiscales y asistir en representación del Secretario ó Subsecretario cuando éstos así lo dispongan;
 
@@ -483,49 +521,13 @@ XXI. Recabar, analizar y concentrar la información obtenida en los Municipios d
 
 XXII. Las demás que señalen otras disposiciones legales y las que le confiera el Secretario o Subsecretario de Ingresos en el ámbito de su competencia.
 
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
+
 ### CAPÍTULO III. DE LAS FACULTADES DEL TITULAR DE LA RECAUDADORA DE TENENCIAS Y CONTROL VEHICULAR
 
 ###### Artículo 17.
 
-El Titular de la Recaudadora de Tenencias y Control Vehicular, con jurisdicción en el municipio de Othón P. Blanco, tendrá las siguientes facultades:
-
-I. Recaudar y recibir los ingresos Estatales, Federales coordinados, custodiarlos y depositarlos en las cuentas bancarias autorizadas;
-
-II. Custodiar los recibos y formas valoradas que se utilicen en el cobro de los créditos fiscales;
-
-III. Determinar y cobrar a los contribuyentes, responsables solidarios y demás obligados los pagos en parcialidades de impuestos, derechos, productos, aprovechamientos de carácter Estatal o Federal, así como el monto de los recargos, gastos de ejecución, honorarios y gastos extraordinarios que se causen en los procedimientos de ejecución que se lleven a cabo;
-
-IV. Determinar y hacer efectivos el importe de los cheques no pagados y de las indemnizaciones correspondientes;
-
-V. Imponer sanciones establecidas en las Leyes, Reglamentos, Códigos y Convenios vigentes en materia Estatal o Federal de su competencia;
-
-VI. Requerir y custodiar la garantía del interés fiscal, en términos del Código Fiscal de la Federación y del Código Fiscal del Estado, según corresponda;
-
-VII. Llevar a cabo el embargo por la vía administrativa;
-
-VIII. Llevar a cabo el embargo precautorio para asegurar el interés fiscal en los casos en que la Ley lo señale, así como levantarlo cuando proceda;
-
-IX. Aplicar el Procedimiento Administrativo de Ejecución (PAE), para hacer efectivos los créditos fiscales de carácter Estatal o Federal a cargo de los contribuyentes, responsables solidarios y demás obligados;
-
-X. Fijar en cantidad liquida los accesorios de los créditos fiscales que deban ser efectivos y el cálculo de la liquidación correspondiente por la ejecución;
-
-XI. Notificar cuando corresponda, las resoluciones que determinan créditos fiscales, citatorios, requerimientos, solicitud de informes y otros actos administrativos;
-
-XII. Condonar hasta en un cincuenta por ciento las multas que imponga en ejercicio de sus atribuciones;
-
-XIII. Llevar a cabo la matriculación de vehículos en el Estado, así como expedir permisos para circular vehículos sin placa cuando así lo señalen las disposiciones correspondientes;
-
-XIV. Tener actualizado el Registro de Contribuyentes del Impuesto Sobre Tenencia o Uso de Vehículos del Estado;
-
-XV. Depurar y cancelar los créditos fiscales a favor del Estado, observando los lineamientos y requisitos señalados por las autoridades competentes;
-
-XVI. Exigir la presentación de declaraciones, avisos y documentos; así como requerir la rectificación de errores u omisiones contenidos en las declaraciones, solicitudes, avisos y documentos;
-
-XVII. Requerir la inscripción al Registro de Contribuyentes;
-
-XVIII. Cumplir con las Leyes, Decretos y otros ordenamientos que en materia de ingresos hayan sido emitidos, tanto en el ámbito Federal como Estatal; y
-
-XIX. Las demás que le señalen otras disposiciones legales y las que le confiera el Secretario, el Subsecretario de Ingresos o el Director General de Ingresos en el ámbito de su competencia.
+(DEROGADO, P.O. 29 DE SEPTIEMBRE DE 2012)
 
 ### CAPÍTULO IV. DE LAS FACULTADES DE LOS TITULARES DE LAS RECAUDADORAS DE RENTAS
 
@@ -553,11 +555,17 @@ VIII. La oficina Recaudadora de Rentas en el Municipio de Isla Mujeres, tendrá 
 
 IX. La oficina Recaudadora de Rentas en el Municipio de Tulum, tendrá su sede en la ciudad de Tulum.
 
-En la ciudad de Chetumal, habrá una oficina Recaudadora de Tenencias y Control Vehicular, misma que tendrá jurisdicción territorial en el Municipio de Othón P. Blanco.
+> <small>(DEROGADA [N. DE E. ADICIONADA], P.O. 29 DE SEPTIEMBRE DE 2012)</small>
+
+X. La oficina Recaudadora de Rentas en el Municipio de Bacalar, tendrá su sede en la ciudad de Bacalar; (sic)
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 19.
 
-Para el cumplimiento de los Programas Federales Coordinados, se crean las Coordinaciones de Recaudación, la primera con sede en la ciudad de Chetumal, Quintana Roo, con jurisdicción en los Municipios de Othón P. Blanco, Felipe Carrillo Puerto y José María Morelos; y la segunda, con sede en la ciudad de Cancún Quintana Roo, con jurisdicción en los Municipios de Benito Juárez, Cozumel, Isla Mujeres, Solidaridad, Lázaro Cárdenas y Tulum, que ejercerá las mismas facultades que se les confiere a los Recaudadores de Rentas en el Estado.
+Para el cumplimiento de los Programas Federales Coordinados, se crean las Coordinaciones de Recaudación, la primera con sede en la ciudad de Chetumal, Quintana Roo, con jurisdicción en los Municipios de Othón P. Blanco, Bacalar, Felipe Carrillo Puerto y José María Morelos; y la segunda, con sede en la ciudad de Cancún Quintana Roo, con jurisdicción en los Municipios de Benito Juárez, Cozumel, Isla Mujeres, Solidaridad, Lázaro Cárdenas y Tulum, que ejercerá las mismas facultades que se les confiere a los Recaudadores de Rentas en el Estado.
 
 ###### Artículo 20.
 
@@ -601,7 +609,9 @@ XVI. Condonar hasta en un 50% las multas;
 
 XVII. Llevar a cabo la matriculación de vehículos en el Estado, así como expedir permisos para circular vehículos sin placa cuando así lo señalen las disposiciones correspondientes;
 
-XVIII. Tener actualizado el Registro Estatal de Contribuyentes de sus (sic) circunscripción y los padrones que deriven del mismo;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
+
+XVIII. Tener actualizado el Registro Estatal de Contribuyentes de sus (sic) circunscripción y los padrones que deriven del mismo, así como el Registro Federal del Contribuyente y padrones que se deriven del mismo, en ejercicio de facultades por coordinación;
 
 XIX. Depurar el Registro Estatal de Contribuyentes, mediante bajas por acuerdo y de no localización del contribuyente, previa autorización de la Dirección General de Ingresos;
 
@@ -609,7 +619,9 @@ XX. Depurar y cancelar los créditos fiscales a favor del Estado, observando los
 
 XXI. Recibir de los contribuyentes los avisos, manifestaciones y demás documentación a que obliguen las disposiciones fiscales y conforme a las mismas no deban presentarse ante otras autoridades fiscales;
 
-XXII. Exigir la presentación de declaraciones, avisos y documentos; así como requerir la rectificación de errores u omisiones contenidos en las declaraciones, solicitudes, avisos y documentos;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
+
+XXII. Exigir la presentación de declaraciones, avisos, manifestaciones y demás documentación a que obliguen las disposiciones fiscales; así como requerir las mismas o su rectificación por errores u omisiones que contengan;
 
 XXIII. Requerir la inscripción al Registro Estatal de Contribuyentes y el trámite de las Licencias de Funcionamiento correspondientes;
 
@@ -619,9 +631,23 @@ XXV. Atender las consultas que presenten los contribuyentes y público en genera
 
 XXVI. Cumplir con las Leyes, Decretos y otros ordenamientos que en materia de ingresos hayan sido emitidos, tanto en el ámbito Federal como Estatal;
 
-XXVII. Ordenar el decomiso de bebidas alcohólicas y suscribir los acuerdos para su destrucción, en los casos que señale la Ley en la materia; y
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
 
-XXVIII. Las demás que le señalen otras disposiciones legales y las que le confiera el Secretario, el Subsecretario de Ingresos o el Director General de Ingresos en el ámbito de su competencia.
+XXVII. Ordenar el decomiso de bebidas alcohólicas y suscribir los acuerdos para su destrucción, en los casos que señale la Ley y Reglamento en la materia; y (sic)
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
+
+XXVIII. Vigilar el exacto cumplimiento y aplicación de la Ley que establece las bases de apertura y cierre de las casas de empeño o préstamo en el Estado de Quintana Roo.
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
+
+XXIX. Autorizar prórrogas y pagos en parcialidades de contribuciones omitidas, aprovechamientos y de sus accesorios de acuerdo a los procedimientos que establece la legislación aplicable;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
+
+XXX. Cancelar recibos de pago cuando sea procedente, conforme a los lineamientos que emita la Secretaría.
+
+XXXI. Las demás que le señalen otras disposiciones legales y las que le confiera el Secretario, el Subsecretario de Ingresos o el Director General de Ingresos en el ámbito de su competencia.
 
 ### CAPÍTULO V. DE LAS FACULTADES DEL TITULAR DE LA DIRECCIÓN GENERAL DE AUDITORÍA FISCAL
 
@@ -629,7 +655,9 @@ XXVIII. Las demás que le señalen otras disposiciones legales y las que le conf
 
 La Dirección General de Auditoría Fiscal tendrá su sede en la Ciudad de Cancún Quintana Roo, ejercerá sus facultades en todo el territorio del Estado y estará a cargo de un Director General de Auditoría Fiscal, quien será auxiliado en el ejercicio de sus facultades por tres Direcciones de Auditoría Fiscal adscritas en la (sic) Zonas Sur, Centro y Norte del Estado, las Unidades Administrativas auxiliares señaladas con antelación, tendrán su sede y circunscripción territorial conforme a lo siguiente:
 
-I. Dirección de Auditoría Fiscal del Sur del Estado con sede en la ciudad de Chetumal Quintana Roo, con circunscripción territorial en los Municipios de Othón P. Blanco, José María Morelos y Felipe Carrillo Puerto.
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
+
+I. Dirección de Auditoría Fiscal del Sur del Estado con sede en la ciudad de Chetumal Quintana Roo, con circunscripción territorial en los Municipios de Othón P. Blanco, Bacalar, José María Morelos y Felipe Carrillo Puerto.
 
 II. Dirección de Auditoría Fiscal del Centro del Estado con sede en la ciudad de Playa del Carmen Quintana Roo, con circunscripción territorial en los Municipios de Solidaridad, Cozumel y Tulum.
 
@@ -711,9 +739,11 @@ Cuando la Dirección General de Auditoría Fiscal inicie facultades de comprobac
 
 ### CAPÍTULO VI. DE LAS FACULTADES DE LOS TITULARES DE LAS DIRECCIONES DE AUDITORÍA FISCAL DEL SUR, DEL CENTRO Y DEL NORTE DEL ESTADO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 25.
 
-Los Titulares de las Direcciones de Auditoría Fiscal del Sur, del Centro y del Norte del Estado; dentro de la circunscripción territorial que a cada una corresponda, tendrán las siguientes facultades:
+Los Titulares de las Direcciones de Auditoría Fiscal del Sur, del Centro y del Norte del Estado, dentro de la circunscripción territorial que a cada una corresponda, tendrán las siguientes facultades:
 
 I. Acordar y solventar los asuntos de su competencia con el Director General de Auditoría Fiscal;
 
@@ -731,7 +761,9 @@ VII. Notificar los actos relacionados con el ejercicio de las facultades de comp
 
 VIII. Practicar visitas domiciliarias a los contribuyentes, a fin de verificar el cumplimiento de las obligaciones fiscales relacionadas con la expedición de comprobantes fiscales, con la presentación de las solicitudes o avisos en materia del Registro Federal de Contribuyentes, así como solicitar la exhibición de los comprobantes que amparen la legal posesión o propiedad de las mercancías que vendan;
 
-IX. Requerir previa orden del Director General a los contribuyentes, responsables solidarios o terceros con ellos relacionados, o a Contadores Públicos autorizados que hayan formulado dictámenes o declaratorias para efectos fiscales, para que exhiban y, en su caso, proporcionen la contabilidad, declaraciones, avisos, datos, otros documentos e informes, y en el caso de dichos contadores, también para que exhiban sus papeles de trabajo, así como recabar de los servidores públicos y de los fedatarios, los informes y datos que tengan con motivo de sus funciones, todo ello para proceder a su revisión, a fin de comprobar el cumplimiento de las disposiciones legales en las materias señaladas en la fracción X de este artículo, así como notificar prórrogas para su presentación. Tratándose de las revisiones previstas en esta fracción, notificar los oficios de observaciones que emita el Director General, el de conclusión de la revisión, y en su caso el de prórroga del plazo para concluir la revisión;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
+
+IX. Requerir previa orden del Director General a los contribuyentes, responsables solidarios o terceros con ellos relacionados, o a Contadores Públicos autorizados que hayan formulado dictámenes o declaratorias para efectos fiscales, para que exhiban y, en su caso, proporcionen la contabilidad, declaraciones, avisos, datos, otros documentos e informes, y en el caso de dichos contadores, también para que exhiban sus papeles de trabajo, así como recabar de los servidores públicos y de los fedatarios, los informes y datos que tengan con motivo de sus funciones, todo ello para proceder a su revisión, a fin de comprobar el cumplimiento de las disposiciones legales en las materias señaladas en la fracción VI de este artículo, así como notificar prórrogas para su presentación. Tratándose de las revisiones previstas en esta fracción, notificar los oficios de observaciones que emita el Director General, el de conclusión de la revisión, y en su caso el de prórroga del plazo para concluir la revisión;
 
 X. Llevar a efecto la diligenciación de la práctica del embargo precautorio para asegurar el interés fiscal en los casos en que la Ley lo señale, así como levantarlo cuando proceda;
 
@@ -979,21 +1011,49 @@ V. Las demás que le señalen otras disposiciones legales y las que le confiera 
 
 El Titular de la Dirección de Contabilidad Gubernamental tendrá las siguientes facultades:
 
-I. Someter a la consideración del Secretario y del Tesorero General los sistemas contables, procedimientos, manuales y catálogo de cuentas, con los cuales se registre e integre la contabilidad del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
 
-II. Efectuar la glosa de los ingresos y de los egresos mediante la revisión de la documentación comprobatoria de las operaciones y verificar su correcta aplicación contable;
+I. Emitir y difundir el Manual de Contabilidad Gubernamental y el Manual de Procedimientos de Registro Contable para el registro de las operaciones presupuestarias y contables del Poder Ejecutivo;
 
-III. Compulsar la documentación comprobación de las operaciones del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
 
-IV. Elaborar mensualmente los estados financieros del Gobierno del Estado, la que en forma acumulativa integrará la cuenta pública anual de las operaciones efectuadas en un ejercicio fiscal y presentarla al Tesorero General para su autorización y oportuno envío al H. Congreso del Estado;
+II. Efectuar la glosa de la documentación de los ingresos y egresos, entendiéndose ésta como la recepción de la documentación que establece el artículo 41 de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado.
+
+Deberá entenderse que la glosa de los ingresos quedará integrada por la recepción de la documentación siguiente:
+
+1.- La proveniente de las oficinas Recaudadoras:
+
+a) Póliza Estatal;
+
+b) Comprobante bancario y
+
+c) Comprobante de subsidio, en su caso.
+
+2.- La proveniente de la Dirección de Caja:
+
+a) Recibo de caja;
+
+b) Comprobante bancario y
+
+c) Documento que justifique el ingreso, en su caso.
+
+III. (DEROGADA, P.O. 29 DE SEPTIEMBRE DE 2012)
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
+
+IV. Elaborar mensualmente los estados financieros contables del Gobierno del Estado, los que en forma acumulativa integrarán la Cuenta Pública Anual de las operaciones efectuadas en el ejercicio fiscal y presentarla al Tesorero General y al Secretario de Hacienda para su autorización y oportuno envío al H. Congreso del Estado;
 
 V. Solventar las observaciones a las cuentas públicas que formule el H. Congreso del Estado y recabar el finiquito correspondiente;
 
 VI. Expedir constancias o certificaciones de documentos relativos a asuntos de su competencia;
 
-VII. Archivar y conservar la documentación comprobatoria de los movimientos, de los registros e informes contables soporte de la Cuenta Pública del Gobierno del Estado, con la excepción de aquellos documentos que por disposición expresa le corresponda a otra Unidad Administrativa; y
+VII. Archivar y conservar la documentación comprobatoria de los movimientos, de los registros e informes contables soporte de la Cuenta Pública del Gobierno del Estado, con la excepción de aquellos documentos que por disposición expresa le corresponda a otra Unidad Administrativa; y (sic)
 
-VIII. Las demás que le señalen otras disposiciones legales y las que le confiera el Secretario o el Tesorero General en el ámbito de su competencia.
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
+
+VIII. Solicitar a las unidades administrativas que corresponda, la información necesaria para la elaboración de las notas a los estados financieros; y
+
+IX. Las demás que le señalen otras disposiciones legales y las que le confiera el Secretario o el Tesorero General en el ámbito de su competencia.
 
 ## TÍTULO SÉPTIMO. DE LAS FACULTADES ESPECÍFICAS DE LOS TITULARES DE LAS UNIDADES ADMINISTRATIVAS DE LA SUBSECRETARÍA DE PLANEACIÓN HACENDARIA Y POLÍTICA PRESUPUESTAL
 
@@ -1645,9 +1705,13 @@ IV. Vigilar el cumplimiento del Reglamento de Condiciones Generales de Trabajo y
 
 V. Promover los cursos de capacitación y adiestramiento que se impartan a través de la Oficialía Mayor del Gobierno del Estado y los que se programen para las diversas áreas de la Secretaría;
 
-VI. Operar y mantener actualizado el Sistema de Control de Inventarios de Mobiliarios, Equipos y Vehículos de la Secretaría;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
 
-VII. Fomentar y desarrollar actividades cívicas, sociales, culturales y deportivas para los empleados de la Secretaría;
+VI. Operar y mantener actualizado el Sistema de Control de Inventario de Mobiliario, Equipos, Vehículos y Adquisición de bienes y prestación de servicios a través del Sistema Integral de Administración;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
+
+VII. Fomentar y desarrollar actividades sociales, culturales y deportivas para los empleados de la Secretaría;
 
 VIII. Coordinar la elaboración del Anteproyecto de Presupuesto de Egresos de la Secretaría;
 
@@ -1655,7 +1719,9 @@ IX. Controlar, registrar y evaluar el ejercicio programático-presupuestal de la
 
 X. Participar en el ámbito de su competencia, en los actos de Entrega y Recepción en los cambios de funcionarios en las Unidades Administrativas de la Secretaría;
 
-XI. Integrar y coordinar la comisión mixta de seguridad e higiene en el trabajo y dar seguimiento, según el calendario de actividades establecido de acuerdo a los lineamientos del ISSSTE;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
+
+XI. Integrar y coordinar la comisión de seguridad y salud en el trabajo y dar seguimiento a los recorridos trimestrales, según el calendario de actividades establecido de acuerdo a los lineamientos del ISSSTE;
 
 XII. Atender las necesidades de servicio social, prácticas profesionales, estadías empresariales y residencias dentro de la Secretaría en coordinación con la Oficialía Mayor;
 
@@ -1665,9 +1731,15 @@ XIV. Presentar al Secretario para su visto bueno propuestas de creación de nuev
 
 XV. Coordinar la actualización de las Estructuras, Organigramas, Plantilla de Personal y el Catálogo de Puestos de la Secretaría;
 
-XVI. Coordinar la actualización del Reglamento Interior y los Manuales Administrativos de la Secretaría; y
+XVI. Coordinar la actualización del Reglamento Interior y los Manuales Administrativos de la Secretaría; y (sic)
 
-XVII. Las demás que le señalen otras disposiciones legales y las que le confiera el Secretario en el ámbito de su competencia.
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
+
+XVII. Atender en el ámbito de su competencia, las necesidades de las Unidades Administrativas en materia de espacio físico, adaptaciones, instalaciones, equipamiento y mantenimiento de bienes muebles e inmuebles.
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
+
+XVIII. Las demás que le señalen otras disposiciones legales y las que le confiera el Secretario en el ámbito de su competencia.
 
 ## TÍTULO DÉCIMO CUARTO. DE LOS ÓRGANOS DESCONCENTRADOS
 
@@ -1689,9 +1761,11 @@ Cuando el Servidor Público no pueda abstenerse de intervenir en ellos, atender�
 
 El Secretario será suplido en sus ausencias temporales y estará a cargo del despacho y resolución de asuntos correspondientes a la Dependencia, el Titular de la Subsecretaría de Ingresos, Subsecretaría de Planeación Hacendaria y Política Presupuestal, Subsecretaría de Crédito y Finanzas, Procuraduría Fiscal y Tesorería General en los ámbitos de sus respectivas competencias. En los juicios de amparo en que deba intervenir en representación del Gobernador del Estado de Quintana Roo o como Titular de la Secretaría, será suplido inmediatamente por el Procurador Fiscal o en forma indistinta, por los Servidores Públicos antes señalados en el orden indicado. Las suplencias del Secretario se harán en los asuntos generales, exceptuándose las funciones indelegables de su competencia.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 62.
 
-Las ausencias temporales de los Titulares de las Subsecretarías, Tesorería General, Direcciones Generales, Direcciones de Áreas, Delegaciones, Recaudadoras de Rentas y Recaudadora de Tenencias y Control Vehicular, serán suplidas en el despacho de los asuntos de su competencia por el Servidor Público inmediato inferior que de ellos dependan.
+Las ausencias temporales de los Titulares de las Subsecretarías, Tesorería General, Direcciones Generales, Direcciones de Áreas, Delegaciones y Recaudadoras de Rentas, serán suplidas en el despacho de los asuntos de su competencia por el Servidor Público inmediato inferior que de ellos dependan.
 
 ###### Artículo 63.
 
@@ -1765,16 +1839,32 @@ LIC. EDUARDO OVANDO MARTÍNEZ
 
 SECRETARIO DE GOBIERNO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 29 DE JULIO DE 2011.
 
-DECRETO POR EL QUE SE DEROGAN LOS PUNTOS 1.2.0.1 Y 1.2.0.2 DEL ARTICULO 4; Y SE ADICIONAN LOS PUNTOS 1.1.1.10, 1.2.1.2 Y 1.2.1.3 DEL ARTICULO 4 Y LA FRACCION IX DEL ARTICULO 18; TODOS DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE HACIENDA.
+DECRETO POR EL QUE SE DEROGAN LOS PUNTOS 1.2.0.1 Y 1.2.0.2 DEL ARTÍCULO 4; Y SE ADICIONAN LOS PUNTOS 1.1.1.10, 1.2.1.2 Y 1.2.1.3 DEL ARTÍCULO 4 Y LA FRACCIÓN IX DEL ARTÍCULO 18; TODOS DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE HACIENDA.
 
 ÚNICO.- La presente reforma entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 P.O. 29 DE JULIO DE 2011.
 
-DECRETO POR EL QUE SE ADICIONA EL PUNTO 1.1.4.5 DEL ARTICULO 4 Y SE REFORMA EL ARTICULO 29 DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE HACIENDA.
+DECRETO POR EL QUE SE ADICIONA EL PUNTO 1.1.4.5 DEL ARTÍCULO 4 Y SE REFORMA EL ARTÍCULO 29 DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE HACIENDA.
 
 ÚNICO.- La presente reforma entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 29 DE SEPTIEMBRE DE 2012.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 9, FRACCIONES IX, X, XIV Y XVIII; 13, FRACCIONES III, XIV Y XXI; 14; 16 FRACCIONES VI Y VII; 19; 21, FRACCIONES XXII Y XXVII; 22, FRACCIÓN I; 25, FRACCIÓN IX; 38 FRACCIONES I, II, IV; Y 58 FRACCIONES VI, VII, XI Y XVII; SE ADICIONAN LAS FRACCIONES XXIII, XXIV, XXV, RECORRIENDO EL CONTENIDO DE LA ACTUAL FRACCIÓN XXIII A LA XXVI, AL ARTÍCULO 13; LAS FRACCIONES XIX Y XX, RECORRIENDO EL CONTENIDO DE LA ACTUAL FRACCIÓN XXI A LA XXI (SIC), AL ARTÍCULO 17; LAS FRACCIONES XXVIII, XXIX, XXX, RECORRIENDO EL CONTENIDO DE LA ACTUAL FRACCIÓN XXVIII A LA XXXI, AL ARTÍCULO 21; Y SE ADICIONA A LA FRACCIÓN VIII, RECORRIENDO SU CONTENIDO ACTUAL A LA IX, AL ARTÍCULO 38; Y SE DEROGA LA FRACCIÓN III DEL ARTÍCULO 38; TODOS DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE HACIENDA.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se dejan sin efecto todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 29 DE SEPTIEMBRE DE 2012.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 15, LA FRACCIÓN XVIII DEL ARTÍCULO 21 Y EL ARTÍCULO 62; SE ADICIONAN EL PUNTO 1.1.1.11 AL ARTÍCULO 4; Y SE DEROGAN EL PUNTO 1.1.1.1 DEL ARTÍCULO 4, EL CAPÍTULO III DEL TÍTULO QUINTO QUE CONTIENE AL ARTÍCULO 17, LA FRACCIÓN X Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 18, TODOS DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE HACIENDA.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se dejan sin efecto todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
