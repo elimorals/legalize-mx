@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-fomento-para-el-desarrollo-economico-del-estado-de-33813
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-16"
-last_updated: "2003-08-16"
+last_updated: "2012-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33813&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE FOMENTO PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 SEPTIEMBRE DE 2012.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 16 de agosto de 2003.
 
@@ -117,7 +117,7 @@ IV. Generar las condiciones para la formación y desarrollo de las micro, median
 
 V. Integrar las cadenas productivas en una dinámica en la que las empresas se fortalezcan entre sí, para hacer más efectiva la función de proveer insumos y servicios en beneficio de la rentabilidad económica y competitiva a favor de los consumidores de bienes y servicios;
 
-VI. Ofrecer un marco jurídico, que bajo criterios de equidad social y productividad, garantice la certidumbre a la inversión en todo el proceso productivo;
+VI. (DEROGADA POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012)
 
 VII. Generar una nueva cultura laboral y empresarial que entienda el desarrollo como un proceso que reclama la participación conjunta de las instituciones públicas y de los actores económicos privados y sociales, que revaloren el concepto de calidad y excelencia en la actividad económica;
 
@@ -141,7 +141,7 @@ XVI. Impulsar el desarrollo de ciudades medias y pequeñas de la entidad, con ba
 
 XVII. Impulsar la activación de las zonas económicamente deprimidas;
 
-XVIII. Fijar lineamientos y criterios para promover la seguridad jurídica de los inversionistas en la entidad; y establecer atribuciones y deberes específicas a las dependencias y organismos gubernamentales;
+XVIII. (DEROGADA POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012)
 
 XIX. Promover el respeto a los ordenamientos jurídicos en materia ambiental;
 
@@ -265,19 +265,19 @@ Son funciones y facultades de la Secretaría:
 
 I. Definir estrategias prioritarias a corto, mediano y largo plazo para impulsar la actividad económica de Zacatecas;
 
-II. Aprobar o rechazar las solicitudes de incentivos, en un plazo no mayor a treinta días, emitiendo la resolución que a su juicio proceda, considerando lo establecido en la presente ley;
+II. (DEROGADA POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012)
 
-III. Supervisar que las personas físicas o morales que gocen de incentivos, cumplan con los proyectos de inversión y compromisos contenidos en la correspondiente resolución;
+III. (DEROGADA POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012)
 
 IV. Establecer criterios para reforzar la estructura de desarrollo económico del Estado;
 
-V. Suspender o cancelar los incentivos otorgados y en su caso, aplicar las sanciones procedentes en los términos de la ley;
+V. (DEROGADA POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012)
 
-VI. Determinar y particularizar los incentivos que se otorgarán a cada inversionista, así como sus plazos, términos y condiciones;
+VI. (DEROGADA POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012)
 
 VII. Analizar y proponer para la competitividad y la promoción económica el programa de actividades en base a su presupuesto ante el Consejo;
 
-VIII. Establecer comisiones sectoriales cuya finalidad será analizar la problemática concreta de los diversos sectores de la economía zacatecana, su solución y la forma de promover la inversión en cada sector;
+VIII. (DEROGADA POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012)
 
 IX. Aprobar la contratación de servicios externos especializados de alta calidad técnica o profesional, como apoyo a las funciones de investigación y planeación estratégica de la Secretaría;
 
@@ -361,7 +361,7 @@ V. Promover el Servicio Estatal de Empleo, a efecto de contar con los servicios 
 
 VI. Coadyuvar en las acciones emprendidas por el Consejo Estatal para el Dialogo con los Sectores Productivos y del Comité Técnico del Servicio Estatal de Empleo.
 
-VII. Participar en la elaboración de programas de promoción, de inversión estatal, nacional y extranjera;
+VII. (DEROGADA POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012)
 
 VIII. Impulsar el desarrollo de ciudades medias y pequeñas de la entidad, con base en la prioridad diferencial que se les otorgue de acuerdo a la necesidad o marginalidad en el desarrollo, a fin de promover su consolidación para atraer inversiones;
 
@@ -373,7 +373,7 @@ XI. Promover la infraestructura agropecuaria, comercial, minera, de comunicacion
 
 XII. Fomentar esquemas de asesoría, integración y asociación que fortalezcan la productividad y la posición competitiva de las MIPYMES;
 
-XIII. Alentar la participación de los sectores privado y social para comprometerse con el fomento a la inversión en el Estado, detectando áreas de oportunidad para el desarrollo productivo;
+XIII. (DEROGADA POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012)
 
 XIV. Promover la integración regional de las actividades y vocaciones productivas del Estado, en particular de las MIPYMES, así como las diversas formas de asociación productiva.
 
@@ -395,147 +395,45 @@ Para su operación y funcionamiento el Consejo expedirá su reglamento interior,
 
 ###### ARTÍCULO 17.
 
-Podrán ser sujetos de incentivos previstos por esta ley, las personas físicas o morales establecidas o por establecerse en la entidad, cuyas inversiones reúnan los siguientes requisitos:
-
-I. Todas aquellas empresas que generen empleos directos o realicen inversiones en activos fijos y de capital de trabajo en la zona geográfica donde se establezcan.
-
-II. Las empresas que cuenten con programas de cuidado y protección, orientadas a coadyuvar a la solución de los problemas de contaminación ambiental.
-
-III. Las empresas que tengan como destino el mercado de exportación.
-
-IV. Empresas que sustituyan importaciones mediante el consumo de insumos, componentes, servicios o productos fabricados o prestados en el Estado.
-
-V. Para efectos del cumplimiento de las condiciones señaladas se podrá optar por la utilización del esquema de empresas integradoras.
-
-VI. Desarrollar y diversificar la producción de artesanías, aprovechando las posibilidades que abren el turismo y el mercado.
-
-VII. Impulsar mediante paquetes de proyectos productivos factibles que incorporen a los artesanos de bajos ingresos, especialmente de las zonas de más elevados índices de pobreza y marginación.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012)
 
 ###### ARTÍCULO 18.
 
-Para el otorgamiento de los incentivos el Ejecutivo expedirá el Reglamento General que regule la aplicación de los mismos contemplados es ésta ley. Los incentivos que se otorgarán se referirán esencialmente a:
-
-I. Contribuciones:
-
-a). Reducción temporal de impuestos y derechos estatales, y
-
-b). Exención temporal de impuestos y derechos estatales.
-
-II. Convenios:
-
-Que se celebraren con inversionistas respecto de bienes inmuebles, de los cuales el Estado o sus municipios tengan la libre disposición. Los convenios correspondientes se pactarán, previa autorización de la Legislatura, bajo las siguientes figuras:
-
-a). Venta, permuta o arrendamiento en cualesquiera de sus modalidades de bienes muebles o inmuebles a precios competitivos, y
-
-b). Asociación, aportación, donación, comodato o constitución de derechos reales, sobre bienes respecto de los cuales el Estado o los municipios tengan la libre disposición.
-
-III. Superación de los recursos humanos:
-
-Que consistirá en la capacitación y adiestramiento de los trabajadores a contratar o con los que cuenta su planta productiva, por medio de:
-
-a). Programas especiales de capacitación y certificación;
-
-b). Otorgamiento de becas para capacitación y adiestramiento, y
-
-c). Convenios con las empresas sobre el pago parcial de los
-
-costos de adiestramiento y capacitación.
-
-IV. Infraestructura:
-
-La aportación estatal para la creación y mejoramiento de instalaciones y servicios públicos.
-
-V. Comercio Interior y Exterior:
-
-a). Estimular y desarrollar el mercado interno en función de la demanda existente de acuerdo a las vocaciones productivas y necesidades de los consumidores, y
-
-b). Apoyar en ferias y eventos nacionales e internacionales a empresarios con vocación exportadora, para promover y desarrollar programas de exportación.
-
-VI. Atención a Zonas Geográficas Prioritarias:
-
-Para estimular en las regiones del Estado la inversión de acuerdo a sus propias condiciones económicas y sociales.
-
-VII. Otros rubros:
-
-Todas aquellas concertaciones entre el Estado o los municipios y los inversionistas que a consideración de la Secretaría resulten pertinentes para cumplir con los objetivos y finalidades de esta ley.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012)
 
 ###### ARTÍCULO 19.
 
-Los incentivos que sean otorgados a los inversionistas por cualesquiera de los municipios del Estado, deberán ser aprobados en los términos de sus correspondientes ordenamientos municipales.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012)
 
 ###### ARTÍCULO 20.
 
-Los beneficios que otorgue la presente ley, serán aplicables a toda la planta productiva establecida en el estado y todas aquellas empresas que impulsen y desarrollen fusión, asociación y en general, todo proceso de integración que tenga como objetivo mejorar la productividad.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012)
 
 ###### ARTÍCULO 21.
 
-Se aplicará un criterio de prioridad y de regionalización estatal, tomando en consideración en los programas de fomento económico los siguientes criterios:
-
-I. Prioridad 1.- Los municipios o zonas geográficas donde prevalezcan condiciones de marginación y pobreza extrema;
-
-II. Prioridad 2.- Las ciudades medias y pequeñas; y
-
-III. Prioridad 3.- Las áreas donde se aplique una política de consolidación o desconcentración.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012)
 
 ### CAPÍTULO II. DE LA FACULTAD DE OTORGAR Y EJECUTAR LOS INCENTIVOS
 
 ###### ARTÍCULO 22
 
-Para otorgar los incentivos a que se refiere ésta ley, se deberán utilizar los criterios de rentabilidad social tomando en consideración los siguientes factores:
-
-I. Ubicación de la empresa;
-
-II. Número de empleos que se generan y nivel de remuneración;
-
-III. Monto de Inversión;
-
-IV. Plazo en que se realiza la inversión;
-
-V. Programa de capacitación;
-
-VI. Acciones dirigidas a conservar y restaurar el medio ambiente;
-
-VII. Uso racional del agua;
-
-VIII. Desarrollo tecnológico;
-
-IX. Volumen de exportaciones; y
-
-X. Fortalecimiento de las cadenas productivas.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012)
 
 ###### ARTÍCULO 23.
 
-Los inversionistas que soliciten cualesquiera de los beneficios previstos en esta ley, deberán presentar su petición a la Secretaría.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012)
 
 ###### ARTÍCULO 24.
 
-La Secretaría evaluará el monto, tipo y plazo de incentivos que pudieran otorgarse, de acuerdo al reglamento, a cada inversionista que reúna los requisitos señalados en esta ley. En su caso, el dictamen técnico que emita, lo hará del conocimiento del Ejecutivo del Estado para que de ser procedente, se otorguen los incentivos correspondientes.
-
-Los incentivos en materia tributaria, únicamente el Ejecutivo del Estado podrá otorgarlos.
-
-Tratándose de incentivos que no requieran la autorización del Ejecutivo del Estado, la Secretaría emitirá la resolución correspondiente a las recomendaciones que en su caso deban dirigirse a los gobiernos municipales o a los organismos descentralizados estatales o municipales.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012)
 
 ###### ARTÍCULO 25.
 
-Una vez analizada y aprobada la solicitud del inversionista, misma que no deberá tomar más de treinta días, se procederá a emitir el dictamen técnico o la resolución, y en su caso se indicarán los incentivos que se conceden, así como los compromisos que deberá cumplir el inversionista.
-
-La Secretaría deberá notificar lo conducente a las autoridades administrativas involucradas en el otorgamiento de los incentivos establecidos en cada resolución.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012)
 
 ###### ARTÍCULO 26.
 
-Todo inversionista que esté gozando de los incentivos que determina esta ley, deberá dar aviso en un plazo no mayor de treinta días a la Secretaría cuando se de alguno de los siguientes eventos:
-
-I. La reubicación de sus instalaciones productivas;
-
-II. La modificación del monto de la inversión o la variación en el
-
-empleo de ésta;
-
-III. El cambio de giro de actividades;
-
-IV. Causa justificada que lo induzcan a dejar de cumplir los compromisos asumidos para obtener los incentivos a que se refiere esta ley.
-
-Al aviso, el inversionista deberá acompañar las pruebas que acrediten los motivos y la viabilidad que se busca obtener, así como la justificación para seguir disfrutando el beneficio de los incentivos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012)
 
 ### CAPÍTULO III. DE LAS ACCIONES DE DESREGULACIÓN DE LA ACTIVIDAD ECONÓMICA Y SIMPLIFICACIÓN ADMINISTRATIVA
 
@@ -569,9 +467,7 @@ La Secretaría promoverá en concertación con los sectores productivos, la crea
 
 Las acciones para fomentar la infraestructura productiva atenderán a los siguientes criterios:
 
-I. Desarrollar parques industriales que cuenten con una superficie geográfica delimitada y diseñada específicamente para el asentamiento de la industria, en las mejores condiciones de infraestructura y de servicios. Se ubicarán en sitios estratégicos, que reúnan condiciones favorables de mano de obra y fácil
-
-acceso. Esto ayudará a ordenar el uso del suelo;
+I. Desarrollar parques industriales que cuenten con una superficie geográfica delimitada y diseñada específicamente para el asentamiento de la industria, en las mejores condiciones de infraestructura y de servicios. Se ubicarán en sitios estratégicos, que reúnan condiciones favorables de mano de obra y fácil acceso. Esto ayudará a ordenar el uso del suelo;
 
 II. Promover y orientar la creación de infraestructura productiva en las zonas de fomento económico, en el marco de las especificaciones previstas en el Código Urbano;
 
@@ -579,9 +475,7 @@ III. Estimular la participación del sector privado en la construcción, el mant
 
 IV. Propiciar que en la construcción, mantenimiento y rehabilitación de la infraestructura productiva se utilicen, en igualdad de condiciones, los insumos y la mano de obra del Estado a fin de impulsar la generación de empleo;
 
-V. Apoyar el fortalecimiento de la infraestructura productiva en las
-
-zonas de producción rural;
+V. Apoyar el fortalecimiento de la infraestructura productiva en las zonas de producción rural;
 
 VI. Estimular el avance hacia una mayor integración vertical del sector minero en sus tres niveles: pequeña, mediana y gran minería, de modo que deje de ser una actividad fundamentalmente primaria e incorpore procesos de carácter industrial y artesanal;
 
@@ -822,3 +716,47 @@ DR. RICARDO MONREAL AVILA.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. TOMAS TORRES MERCADO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE SEPTIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente hábil al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan de la Ley de Fomento para el Desarrollo Económico del Estado de Zacatecas publicada en el Periódico Oficial del Estado el 16 de agosto de 2003 las fracciones VI y XVIII del artículo 2; las fracciones II, III, V, VI y VIII del artículo 8; las fracciones VII y XIII del artículo 14; y los artículos 17, 18, 19, 20, 21, 22, 23, 24, 25 y 26.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Decreto expedido por el Gobernador del Estado el 22 de noviembre de 2010 por el que se crea el Consejo Estatal de Desarrollo Económico del Estado de Zacatecas como uno Organismo Público Descentralizado de la Administración Pública Estatal, publicado en Periódico Oficial del Gobierno del Estado de fecha 4 de diciembre de 2010. Los recursos humanos, financieros y materiales de que dispone esa entidad serán transferidos al Consejo Estatal de Desarrollo Económico a que refiere la presente Ley para el mejor cumplimiento de sus objetivos y atribuciones.
+
+###### ARTÍCULO CUARTO.
+
+El Poder Ejecutivo del Estado dentro de los 90 días naturales siguientes a la entrada en vigor de la presente Ley emitirá su Reglamento.
+
+###### ARTÍCULO QUINTO.
+
+El Poder Ejecutivo del Estado dentro de los 90 días naturales siguientes a la entrada en vigor de la presente Ley constituirá e instalará la Comisión de Incentivos a que refiere la presente Ley.
+
+###### ARTICULO SEXTO.
+
+El Poder Ejecutivo del Estado dentro de los 90 días naturales siguientes a la entrada en vigor de la presente Ley emitirá el Acuerdo que corresponda para reconocer a los organismos que actualmente estén funcionando para desarrollar los agrupamientos empresariales estratégicos. Ese reconocimiento oficial les otorgará el carácter de Comités para el Desarrollo de los Agrupamientos Empresariales Estratégicos y en consecuencia serán sujetos a los derechos y obligaciones que señala la presente Ley y su Reglamento. El Acuerdo deberá publicarse en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SÉPTIMO.
+
+El Poder Ejecutivo del Estado dentro de los 180 días naturales siguientes a la entrada en vigor de la presente Ley expedirá el Programa Estatal para la Inversión y el Empleo que tendrá vigencia durante el periodo de mandato del actual Gobernador del Estado.
+
+###### ARTÍCULO OCTAVO.
+
+El Fondo Económico de Incentivos a la Inversión y los apoyos económicos a los Comités para el Desarrollo de los Agrupamientos Empresariales Estratégicos, se constituirán y otorgarán en el ejercicio fiscal posterior al de la aprobación de la presente Ley.
+
+###### ARTICULO NOVENO.
+
+Los incentivos otorgados antes de la entrada en vigor de la presente Ley y las solicitudes de incentivos que se encuentren en proceso antes de la entrada en vigor de la presente Ley se sujetarán a la normatividad vigente al momento de su otorgamiento o de haber presentado la solicitud.
+
+###### ARTÍCULO DÉCIMO.
+
+A partir de la entrada en vigor de la Ley Orgánica de la Administración Pública del Estado de Zacatecas, aprobada por esta Sexagésima Legislatura del Estado, en fecha a 31 de Mayo del 2012, el nombre de las dependencias citadas en el presente Instrumento Legislativo, se actualizaran de conformidad con el Ordenamiento antes invocado.
