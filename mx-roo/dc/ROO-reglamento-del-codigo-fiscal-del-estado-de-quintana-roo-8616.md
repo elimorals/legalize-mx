@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-del-codigo-fiscal-del-estado-de-quintana-roo-8616"
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-04-15"
-last_updated: "2011-07-29"
+last_updated: "2012-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ROO"
 ---
 # REGLAMENTO DEL CODIGO FISCAL DEL ESTADO DE QUINTANA ROO
 
-REGLAMENTO DEL CODIGO FISCAL DEL ESTADO DE QUINTANA ROO
+REGLAMENTO DEL CÓDIGO FISCAL DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de abril de 1996.
 
@@ -47,7 +47,9 @@ Cuando en este reglamento se haga referencia al código, se entenderá que se tr
 
 Para los efectos de este Reglamento se entiende por autoridad recaudadora, las Oficinas Recaudadoras de Rentas ubicadas en los Municipios de la entidad, competentes para recaudar las contribuciones Estatales, Federales y Municipales de que se trate y para llevar a cabo el Procedimiento Administrativo de Ejecución, y que a continuación se señalan:
 
-I.- Oficinas Recaudadora de Rentas y Recaudadora de Tránsito del Estado en el Municipio de Othón P. Blanco, con cabecera en la ciudad de Chetumal, capital del Estado de Quintana Roo;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
+
+I. Oficina Recaudadora de Rentas del Estado en el Municipio de Othón P. Blanco, con cabecera en la ciudad de Chetumal, capital del Estado de Quintana Roo;
 
 II.- Oficina Recaudadora de Rentas del Estado en el Municipio de Felipe Carrillo Puerto, con cabecera en la Ciudad del mismo nombre;
 
@@ -59,15 +61,17 @@ V.- Oficina Recaudadora de Rentas del Estado en el Municipio de Lázaro Cárdena
 
 VI.- Oficina Recaudadora de Rentas del Estado en el Municipio de Benito Juárez, con cabecera en la Ciudad de Cancún;
 
-VII.- Oficina Recaudadora de Rentas del Estado en el Municipio de Isla Mujeres, con cabecera en la población del mismo nombre; y
+VII.- Oficina Recaudadora de Rentas del Estado en el Municipio de Isla Mujeres, con cabecera en la población del mismo nombre; y (sic)
 
 VIII.- Oficina Recaudadora de Rentas del Estado en el Municipio de Solidaridad, con cabecera en la población de Playa del Carmen.
 
-> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2011)</small>
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
 
-IX.- Oficina Recaudadora de Rentas del Estado en el Municipio de Tulum, con cabecera en la población de Tulum.
+X. Oficina Recaudadora de Rentas del Estado en el Municipio de Bacalar, con cabecera en la población de Bacalar.
 
-Todas las Oficinas Recaudadoras de Rentas señaladas, serán competentes dentro de su circunscripción territorial establecidas en el artículo 130 de la Constitución Política del Estado Libre y Soberano de Quintana Roo.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
+
+Todas las Oficinas Recaudadoras de Rentas señaladas, serán competentes dentro de su circunscripción territorial establecidas en el artículo 128 de la Constitución Política del Estado Libre y Soberano de Quintana Roo.
 
 ###### ARTICULO 3o.
 
@@ -712,3 +716,9 @@ P.O. 29 DE JULIO DE 2011.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO.- Se dejan sin efecto todas las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 29 DE SEPTIEMBRE DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se dejan sin efecto todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
