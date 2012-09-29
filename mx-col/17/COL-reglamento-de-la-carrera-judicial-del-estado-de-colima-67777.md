@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-la-carrera-judicial-del-estado-de-colima-67777"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-03-07"
-last_updated: "2009-03-07"
+last_updated: "2012-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO DE LA CARRERA JUDICIAL DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2012.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 7 de marzo de 2009.
 
@@ -367,17 +367,17 @@ IV. Etapa de examen psicométrico, con base en los mecanismos y herramientas de 
 
 Sólo podrán participar en los exámenes las personas que hayan entregado la solicitud y la documentación requerida a la Unidad de Apoyo Administrativo dentro del plazo establecido en la convocatoria.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 33.
 
 El Pleno del Tribunal designará a los integrantes del Jurado, quienes serán:
 
-I. Dos Magistrados;
+I. Tres Magistrados;
 
 II. Un Juez, que fungirá como Secretario, y
 
-III. Un integrante del Centro de Estudios Judiciales;
-
-IV. Un académico de reconocido prestigio, si el Pleno lo estima conveniente.
+III. Un académico de reconocido prestigio, si el Pleno lo estima conveniente.
 
 El Magistrado que designe el Pleno del Tribunal presidirá el Jurado.
 
@@ -500,3 +500,9 @@ SEGUNDO. Este Reglamento iniciará su vigencia al día siguiente de su publicaci
 Así lo acordaron por unanimidad de de (sic) votos y firmaron los integrantes del Pleno del Supremo Tribunal de Justicia del Estado, en sesión extraordinaria celebrada el día 7 de agosto de 2008.
 
 MAGISTRADO PRESIDENTE, JOSÉ ALFREDO JIMÉNEZ CARRILLO, rúbrica.- MAGISTRADO EUSEBIO OLMOS MENDOZA, rúbrica.- MAGISTRADO CARLOS ALBERTO MACÍAS BECERRIL, rúbrica.- MAGISTRADA ROCÍO LÓPEZ LLERENAS ZAMORA, rúbrica.- MAGISTRADO RAFAEL GARCÍA RINCÓN, rúbrica.- MAGISTRADA MARÍA LUISA RUÍZ CORONA, rúbrica.- MAGISTRADA MARÍA DEL ROSÍO VALDOVINOS ANGUIANO, rúbrica.- MAGISTRADO JORGE MAGAÑA TEJEDA, rúbrica.- MAGISTRADO BERNARDO ALFREDO SALAZAR SANTANA, rúbrica.- MAGISTRADO FELIPE CHÁVEZ CARRILLO, rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE SEPTIEMBRE DE 2012.
+
+La presente reforma entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima" conforme lo dispone el artículo 22 del Reglamento Interior del Supremo Tribunal de Justicia.
