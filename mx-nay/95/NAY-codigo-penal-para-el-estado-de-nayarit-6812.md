@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-6812"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-29"
-last_updated: "2012-05-25"
+last_updated: "2012-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6812&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CÓDIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2012.
 
 Código publicado en la Quinta Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1986.
 
@@ -775,9 +775,9 @@ No gozarán de esta beneficio quienes, a criterio del juez, puedan sustraerse de
 
 ARTICULO 71 D.- Cuando el responsable de un delito doloso sea o haya sido miembro de alguna corporación policial pública o privada en los últimos cinco años contados a partir de la comisión del ilícito, la sanción prevista en el delito que corresponda aumentará hasta en una mitad; además de imponérsele la destitución e inhabilitación para ejercer empleo, cargo o comisión de la misma naturaleza de manera permanente, cuando así proceda.
 
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
 
-Lo dispuesto en el párrafo anterior será aplicable a los siguientes delitos previstos en este ordenamiento: delitos contra el orden constitucional del Estado, y su integridad territorial previsto en los artículos 127 y 128; conspiración relacionado con el artículo 129, rebelión contemplado en los artículos 130, 131, 132 y 135; sedición y otros desórdenes públicos con relación a los numerales 140 y 143; terrorismo de conformidad con el artículo 145; evasión de presos referido en los artículos 146, 148 y 152; armas prohibidas concerniente a lo dispuesto en el numeral 157; asociaciones delictuosas relativo a los numerales 158, 159, 160 y 160 bis; delitos de tránsito ejecutados por conductores de vehículos o autoridades de tránsito referente al numeral 163; el previsto en el artículo 186 bis; ultraje a insignias públicas respecto a los artículos 188 y 189; corrupción y prostitución de menores e incapaces con relación a los artículos 200; 201 y 202 Bis; lenocinio previsto en el artículo 206; revelación de secretos relativo a los numerales 208 y 209; ejercicio indebido de funciones tocante al artículo 211; abuso de autoridad, intimidación y tortura con relación a los artículos 212, 213 y 214; coalición de servidores públicos respecto en el artículo 215; tráfico de influencia consignado en el artículo 216; cohecho contemplado en el artículo 217; peculado señalado en el numeral 218; concusión previsto en el artículo 221; delitos cometidos en la custodia de documentos relativo al artículo 224; enriquecimiento ilícito de conformidad con lo que dispone el artículo 225; falsedad en declaraciones judiciales y en informes dados a una autoridad contemplado en el artículo 246; usurpación de funciones públicas o de profesión referido en el artículo 249; uso indebido de condecoraciones, insignias, distintivos o uniformes de conformidad con lo que establece el artículo 250; atentados al pudor tocante a los artículos 255 y 256; estupro citado en el artículo 258; violación mencionado en el artículo 260; hostigamiento o acoso sexual previsto en el numeral 260 Bis; sustracción y tráfico de infantes concerniente al artículo 265; amenazas relacionado con los artículos 276, 277, 278; chantaje previsto en el artículo 279; allanamiento de morada contemplado en el artículo 280; asalto en referencia a los artículos 281 y 282; privación ilegal de la libertad y otros derechos de conformidad con el artículo 283; secuestro o plagio previsto en el artículo 284; desaparición forzada de personas mencionado en el artículo 291 A; trata de personas aludido en los numerales 291 B, 291 C, 291 D y 291 E; calumnia tocante al artículo 297; lesiones relacionado con los artículos 308, 309 y 310; homicidio de conformidad con el numeral 321; robo relacionado con los artículos 343 y 347; abigeato referente a los artículos 357, 358, 359, 360 y 363; abuso de confianza citado en el artículo 364 y encubrimiento señalado en el artículo 381.
+Lo dispuesto en el párrafo anterior será aplicable a los siguientes delitos previstos en este ordenamiento: delitos contra el orden constitucional del Estado y su integridad territorial previsto en los artículos 127 y 128; conspiración relacionado con el artículo 129, rebelión contemplado en los artículos 130, 131, 132 y 135; sedición y otros desórdenes públicos con relación a los numerales 140 y 143; terrorismo de conformidad con el artículo 145; evasión de presos referido en los artículos 146, 148 y 152; armas prohibidas concerniente a lo dispuesto en el numeral 157; asociaciones delictuosas relativo a los numerales 158, 159, 160 y 160 bis; delitos de tránsito ejecutados por conductores de vehículos o autoridades de tránsito referente al numeral 163; el previsto en el artículo 186 bis; ultraje a insignias públicas respecto a los artículos 188 y 189; corrupción y prostitución de menores e incapaces con relación a los artículos 200, 201 y 202 Bis; lenocinio previsto en el artículo 206; revelación de secretos relativo a los numerales 208 y 209; ejercicio indebido de funciones tocante al artículo 211; abuso de autoridad, intimidación y tortura con relación a los artículos 212, 213 y 214; coalición de servidores públicos respecto en el artículo 215; tráfico de influencia consignado en el artículo 216; cohecho contemplado en el artículo 217; peculado señalado en el numeral 218; concusión previsto en el artículo 221; delitos cometidos en la custodia de documentos relativo al artículo 224; enriquecimiento ilícito de conformidad con lo que dispone el artículo 225; falsedad en declaraciones judiciales y en informes dados a una autoridad contemplado en el artículo 246; usurpación de funciones públicas o de profesión referido en el artículo 249; uso indebido de condecoraciones, insignias, distintivos o uniformes de conformidad con lo que establece el artículo 250; atentados al pudor tocante a los artículos 255 y 256; estupro citado en el artículo 258; violación mencionado en el artículo 260; hostigamiento o acoso sexual previsto en el numeral 260 Bis; sustracción y tráfico de infantes concerniente al artículo 265; amenazas relacionado con los artículos 276, 277, 278; chantaje previsto en el artículo 279; allanamiento de morada contemplado en el artículo 280; asalto en referencia a los artículos 281 y 282; privación ilegal de la libertad y otros derechos de conformidad con el artículo 283; secuestro o plagio previsto en el artículo 284; desaparición forzada de personas mencionado en el artículo 291 A; trata de personas aludido en los numerales 291 B, 291 C, 291 D y 291 E; calumnia tocante al artículo 297; lesiones relacionado con los artículos 308, 309 y 310; homicidio de conformidad con el numeral 321; feminicidio previsto en el artículo 325, fracción IX; robo relacionado con los artículos 343 y 347; abigeato referente a los artículos 357, 358, 359, 360 y 363; abuso de confianza citado en el artículo 364 y encubrimiento señalado en el artículo 381.
 
 ### CAPITULO II. APLICACION DE SANCIONES A LOS DELITOS CULPOSOS
 
@@ -1108,6 +1108,10 @@ III. Que el perdón se otorgue por el ofendido siendo mayor de edad, o por la pe
 > <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
 IV. Que la conciliación se obtenga hasta antes de que cause ejecutoria la sentencia dictada.
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
+
+V. Tratándose de delitos cometidos por razones de género que admitan el perdón, éste estará condicionado a la reparación del daño conforme al artículo 41 del mismo ordenamiento y, en su caso, a que el indiciado se someta al tratamiento necesario en alguna institución pública de salud de la entidad, para evitar conductas reiterativas. Para tal efecto, el Ministerio Público deberá vigilar que obre la constancia que acredite su estricto cumplimiento.
 
 ### CAPITULO III. REHABILITACION
 
@@ -2469,19 +2473,17 @@ En caso de que el sujeto activo abandone el tratamiento, quedará sin efecto el 
 
 ### CAPITULO IV. HOSTIGAMIENTO O ACOSO SEXUAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
 
-ARTICULO 260 BIS.- Al que con fines sexuales acose reiteradamente a persona de cualquier sexo valiéndose de su posición jerárquica o de cualquier circunstancia que genere condiciones de preeminencia entre el ofensor y el ofendido, trátese del ámbito familiar, doméstico, docente, laboral o cualquier otro que implique subordinación o respeto, se le impondrá de 1 a 2 años de prisión y multa de 100 a 300 días de salario.
+ARTICULO 260 BIS.- Al que con fines sexuales acose reiteradamente a persona de cualquier sexo, valiéndose de su posición jerárquica o de cualquier circunstancia que genere condiciones de preeminencia entre el ofensor y el ofendido, trátese del ámbito familiar, doméstico, docente, laboral, vecinal o cualquier otro que implique subordinación, respeto o ventaja, se le impondrá de dos a cuatro años de prisión y multa de cien a trescientos días de salario.
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2009)</small>
+Si el sujeto pasivo fuere menor de edad o incapaz, la pena será de tres a cinco años de prisión y multa de doscientos a cuatrocientos días de salario mínimo.
 
-Si el sujeto pasivo fuere menor de edad o incapaz, la pena será de 2 a 3 años de prisión y multa de 200 a 400 de salario mínimo.
+Las penas previstas en este artículo son independientes de cualquier otro delito que resulte cometido con motivo del acoso.
 
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2009)</small>
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
 
-> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2006)</small>
-
-Las penas previstas en este artículo son independientes de cualquier otro delito que resulte cometido con motivo del hostigamiento o acoso.
+ARTICULO 260 TER.- Al que con fines lascivos, sexuales o de lujuria, asedie reiteradamente a una persona de cualquier sexo, aprovechándose de cualquier circunstancia que produzca desventaja, indefensión o riesgo inminente para la víctima, se le impondrán de uno a tres años de prisión y multa de cien a trescientos días de salario.
 
 ## TITULO DECIMO QUINTO. DELITOS CONTRA EL ORDEN DE LA FAMILIA
 
@@ -3035,11 +3037,11 @@ IV.- Cuando las lesiones no fueren mortales sino por su número y no se pueda av
 
 HOMICIDIO CALIFICADO
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 1991)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTICULO 323.
 
-Al responsable de Homicidio calificado se impondrá de veinte a cincuenta años de prisión y multa de cincuenta a ciento cincuenta días de salario.
+Salvo el caso de la fracción IX del artículo 325 de este código, al responsable de homicidio calificado se impondrá una pena de veinte a cincuenta años de prisión y multa de cincuenta a ciento cincuenta días de salario mínimo.
 
 ### CAPITULO III. REGLAS COMUNES PARA LESIONES Y HOMICIDIOS
 
@@ -3069,17 +3071,45 @@ III.- Cuando se causen por motivos depravados;
 
 IV.- Cuando se cometan con brutal ferocidad;
 
-V.- Cuando se causen por inundación, incendio, minas, bombas o explosivos; y,
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
+
+V. Cuando se causen por inundación, incendio, minas, bombas o explosivos;
 
 VI. Cuando se dé tormento al ofendido, o se obre con ensañamiento o crueldad.
 
-> <small>(ADICIONADA, P.O. 23 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
 
-VII. Cuando se generen por motivos de odio, por la condición de género, preferencia sexual u origen racial.
+VII. Cuando se cometan por motivos de odio por la condición de género, preferencia sexual o religiosa u origen racial;
 
 > <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2011)</small>
 
 VIII.- Cuando dolosamente se prive de la vida o se cause un menoscabo a la salud o la integridad física de los miembros de corporaciones policiales, fuerzas armadas o de cualquier otro tipo de instituciones de seguridad pública, así como de los servidores públicos encargados de las labores de administración, impartición o procuración de justicia, siempre que se ejecuten a consecuencia del desempeño legítimo de sus funciones.
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
+
+IX. Cuando el homicidio contra la mujer se cometa por razones de misoginia.
+
+Para los efectos de esta fracción, hay razones de misoginia cuando la conducta del activo sea motivada por odio, aversión obsesiva, discriminación o dominio hacia la mujer por la condición de su género, siempre que concurra una o más de las circunstancias siguientes:
+
+I. La víctima presente signos recientes de violencia sexual de cualquier tipo;
+
+II. A la víctima se le hayan infligido lesiones infamantes, degradantes o mutilaciones, inmediatas o posteriores a la privación de la vida;
+
+III. Existan antecedentes o indicios legalmente preconstituidos de amenazas, acoso, hostigamiento, violencia intrafamiliar o lesiones del sujeto activo en contra de la víctima;
+
+IV. El cuerpo de la víctima sea expuesto o arrojado en un lugar público;
+
+V. Cuando el sujeto activo haya cometido sobre la víctima otro delito de tipo sexual;
+
+VI. El homicidio se cometa para ocultar una violación o evitar que se denuncie o sancione dicho ilícito, o
+
+VII. La víctima haya sido incomunicada o privada de su libertad, de cualquier forma.
+
+A quien prive de la vida a una mujer por razones de misoginia se le impondrá una pena de veinticinco a cincuenta años de prisión y multa de cincuenta a ciento cincuenta días de salario mínimo.
+
+Si entre el activo y la víctima existió una relación de parentesco por consanguinidad, matrimonio, concubinato, noviazgo, amistad o cualquier otra relación sentimental de hecho, laboral, docente, vecinal o cualquier otra que implique confianza, subordinación, superioridad o ventaja, y se acredita cualquiera de los supuestos anteriores, se impondrán de treinta a cincuenta años de prisión.
+
+Tratándose de una relación de parentesco, se impondrá además de la prisión, la pérdida de derechos con respecto a la víctima u ofendidos, incluidos los de carácter sucesorio.
 
 ###### ARTICULO 326.
 
@@ -4228,3 +4258,7 @@ DECRETO ÚNICO POR EL QUE SE ADICIONA DENTRO DEL TÍTULO QUINTO, DEL LIBRO SEGUN
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 29 DE SEPTIEMBRE DE 2012.
+
+Artículo único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
