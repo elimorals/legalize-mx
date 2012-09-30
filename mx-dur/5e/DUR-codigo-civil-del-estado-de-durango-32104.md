@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "2011-04-07"
+last_updated: "2012-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CÓDIGO CIVIL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2012.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -297,25 +297,27 @@ De las actas de nacimiento.
 
 ART. 54.- Las declaraciones de nacimiento se harán presentando al niño ante el Oficial del Registro Civil ó solicitando la cooperación de éste en el lugar donde aquél se encuentre.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2012)</small>
 
-ART. 55.- Tienen obligación de declarar el nacimiento, el padre, la madre o ambos, a falta de éstos, los ascendientes dentro de los ciento ochenta días de ocurrido.
+ART. 55.- Es un derecho de las personas nacidas en el Estado de Durango ser inscritos al nacer en el Registro Civil.
 
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2004)</small>
+Las declaraciones de nacimiento se harán presentando al niño o niña ante el Oficial del Registro Civil, en su oficina.
 
-Los profesionales de la medicina, parteras o cualquier persona que hubiere asistido el parto, tienen obligación de dar aviso del nacimiento al Oficial del Registro Civil que proceda, dentro de los diez días siguientes. La misma obligación tiene cualquier persona en cuya casa haya tenido lugar el nacimiento.
+Tienen obligación de declarar el nacimiento, el padre, la madre o ambos, a falta de éstos, los ascendientes; el registro se hará de manera inmediata al parto y a más tardar dentro de los ciento ochenta días naturales de ocurrido.
 
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2004)</small>
+Los profesionales de la medicina, parteras o cualquier persona que hubiere asistido el parto, tienen obligación de dar aviso inmediato del nacimiento al Oficial del Registro Civil que corresponda y a más tardar dentro de los tres días naturales siguientes. La misma obligación tiene cualquier persona en cuya casa haya tenido lugar el nacimiento.
 
-Si el nacimiento tuviere lugar en un sanatorio particular o público, la obligación a que se refiere el párrafo anterior, estará a cargo del director o de la persona encargada del mismo.
+Si el nacimiento tuviere lugar en un hospital o clínica del sector público o privado, la obligación a que se refiere el párrafo anterior, estará a cargo del director o de la persona encargada de la administración del mismo; en tal sentido, en los centros de población urbanos, donde exista oficina del Registro Civil, dicho aviso se hará dentro de los tres días hábiles siguientes al nacimiento; en las localidades en las que no exista Oficialía del Registro Civil, el aviso deberá hacerse dentro de los siete días hábiles siguientes al nacimiento.
+
+Recibido el aviso, el Oficial del Registro Civil tomará sin demora las medidas legales que sean necesarias a fin de que se levante el Acta de Nacimiento conforme a las disposiciones relativas.
+
+Para las localidades de la entidad en donde no haya oficinas del Registro Civil, el Ejecutivo del Estado podrá implementar un Programa de Oficialías del Registro Civil Móviles o itinerantes para acercar el servicio a la población y en su caso, regularizar el estado civil de las personas que así lo requieran.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2012)</small>
+
+ART. 56.- Las personas que estando obligadas a declarar el nacimiento incumplan o lo hagan fuera del término fijado en el artículo anterior, serán acreedoras a una sanción económica de veinticinco a cien días de salario mínimo vigente en la capital del Estado, que impondrá la Dirección General del Registro Civil en el Estado, en coordinación con la Autoridad Municipal del lugar donde se haya cometido la infracción.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
-
-Recibido el aviso, el Oficial del Registro Civil tomará las medidas legales que sean necesarias a fin de que se levante el Acta de Nacimiento conforme a las disposiciones relativas.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
-
-ART. 56.- Las personas que estando obligadas a declarar el nacimiento, lo hagan fuera del término fijado serán castigadas con una multa de cien a quinientos pesos que impondrá la Dirección General del Registro Civil en el Estado, en coordinación con la Autoridad Municipal del lugar donde se haya hecho la declaración extemporánea del nacimiento.
 
 En la misma pena incurrirán las personas que no cumplan con la obligación de dar aviso prevenido en el párrafo II del Artículo anterior.
 
@@ -6427,7 +6429,7 @@ ART. 1777.- La acción para repetir lo pagado indebidamente prescribe en un año
 
 ART. 1778.- El que ha pagado para cumplir una deuda prescrita o para cumplir un deber moral, no tiene derecho de repetir.
 
-ART. 1779.- Lo que se hubiere entregado para la realización de un fin que sea ilícito o contrario a las buena (sic) costumbres, no quedará en poder del que lo recibió. El cincuenta por ciento se destinará al Fisco del Estado y el otro cincuenta por ciento tiene derecho de recuperarlo el que lo entregó.
+ART. 1779.- Lo que se hubiere entregado para la realización de un fin que sea ilícito o contrario a las buena scostumbres (sic), no quedará en poder del que lo recibió. El cincuenta por ciento se destinará al Fisco del Estado y el otro cincuenta por ciento tiene derecho de recuperarlo el que lo entregó.
 
 ### CAPITULO IV.
 
@@ -10312,3 +10314,9 @@ PRIMERO. El presente decreto entrará en vigor, a partir del día siguiente de s
 SEGUNDO. La Dirección General del Registro Civil, deberá concluir los procedimientos que se encuentren en trámite, antes de la entrada en vigor de la presente reforma.
 
 TERCERO. Se derogan todas las disposiciones que contravengan lo previsto en el presente decreto.
+
+P.O. 30 DE SEPTIEMBRE DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.- Dentro de los noventa días siguientes a la entrada en vigor del presente Decreto el Titular del Poder Ejecutivo expedirá las disposiciones administrativas para la aplicación de la presente reforma.
