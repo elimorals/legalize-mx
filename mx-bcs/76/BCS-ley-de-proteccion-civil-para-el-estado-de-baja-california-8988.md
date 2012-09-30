@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-proteccion-civil-para-el-estado-de-baja-california-8988"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-15"
-last_updated: "2005-11-10"
+last_updated: "2012-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCS"
 ---
 # LEY DE PROTECCION CIVIL PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-LEY DE PROTECCION CIVIL PARA EL ESTADO DE BAJA CALIFORNIA SUR
+LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE NOVIEMBRE DEL 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el miércoles 15 de mayo de 1996.
 
@@ -49,7 +49,7 @@ Las disposiciones de la presente ley son de orden público, interés social y ob
 
 Será propósito fundamental de esta ley, fomentar la participación ciudadana junto con el gobierno y municipios a fin de establecer las condiciones adecuadas para vivir con mayor seguridad y mejor protección, ante las amenazas de riesgo geológico; químico, sanitario, hidrometeorológico y sociorganizativo (sic).
 
-> <small>(REFORMADO [N. DE E. ADICIONADO] PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DEL 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO] , B.O. 31 DE DICIEMBRE DEL 2000)</small>
 
 ###### Artículo 2.
 
@@ -151,19 +151,21 @@ En todas las edificaciones, excepto casas habitación unifamiliares, se deberán
 
 La presente disposición se regulará en los reglamentos de construcción y se hará efectiva por las autoridades municipales y por la Unidad Estatal de Protección Civil al autorizar los proyectos de construcción y expedir las licencias que correspondan. Su incumplimiento dará lugar a las sanciones que a juicio de la autoridad le correspondan, tomando en cuenta la gravedad del riesgo que señale esta ley y los reglamentos aplicables.
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DEL 2000)</small>
+> <small>(REFORMADO, B.O. 30 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 6-B.
 
-Es obligación de las empresas, ya sean industriales, comerciales o de servicios, la capacitación de su personal en materia de protección civil e implementar la (sic) Unidades Internas de Protección Civil en los casos que se determine, para que atiendan las demandas propias en materia de prevención y atención de riesgos, debiendo existir la acreditación por parte de la Unidad Estatal.
+Es obligación de las empresas, ya sean industriales, comerciales o de servicios, la capacitación de su personal en materia de protección civil e implementar las Unidades Internas de Protección Civil en los casos y conforme determine la Unidad Estatal de Protección Civil, para que atiendan las demandas propias en materia de prevención y atención de riesgos.
 
-La capacitación previa para la integración de las Unidades Internas de Protección Civil serán coordinadas por las Unidades Estatal y Municipales. Estas deberán contar con el registro y autorización de la Unidad Estatal de Protección Civil.
+La capacitación previa para la integración de las Unidades Internas de Protección Civil será coordinada por las Unidades Estatal y Municipales. Estas deberán contar con el registro y autorización de la Unidad Estatal de Protección Civil.
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DEL 2000)</small>
+> <small>(REFORMADO, B.O. 30 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 6-C.
 
-Los reglamentos que se expidan para regular las acciones de prevención, determinarán los casos en que las empresas deberán organizar su Unidad Interna y deberán elaborar un programa específico de protección civil y obtener autorización de la Unidad Estatal.
+Los reglamentos o disposiciones administrativas que se expidan para regular las acciones de prevención, determinarán los casos en que las empresas deberán organizar su Unidad Interna y deberán elaborar un programa específico de protección civil y obtener autorización de la Unidad Estatal de Protección Civil.
+
+Sin menoscabo de lo dispuesto por el párrafo anterior, en el caso de establecimientos como casinos, centros de apuestas, salas de sorteos, casas de juego y similares, deberán contar con sus propias Unidades Internas de Protección Civil. Asimismo, en dichos establecimientos se deberán realizar trimestralmente, con la asistencia de personal de la (sic) Unidades Estatal y Municipal de Protección Civil, simulacros de evacuación para hacer frente a los altos riesgos, emergencias o desastres.
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DEL 2000)</small>
 
@@ -617,9 +619,13 @@ II.- Impedir u obstaculizar al personal autorizado por las autoridades de protec
 
 III.- No dar cumplimiento a los requerimientos de la autoridad competente, relativos a proporcionar la información y documentación necesaria para cumplir adecuadamente con las facultades que le confiere esta ley y su reglamento;
 
-IV.- No dar cumplimiento a las resoluciones de la autoridad competente que imponga cualquier medida de seguridad, en los términos de esta ley; y
+IV.- No dar cumplimiento a las resoluciones de la autoridad competente que imponga cualquier medida de seguridad, en los términos de esta ley; y (sic)
 
-V.- En general, llevar a cabo cualquier acto u omisión que contravenga las disposiciones de esta Ley o su reglamento, o por cualquier motivo causen o puedan causar algún riesgo o daño a la salud pública a (sic) la seguridad de la población.
+> <small>(ADICIONADA, B.O. 30 DE SEPTIEMBRE DE 2012)</small>
+
+V.- No dar cumplimiento a lo dispuesto por el Artículo 6-C de esta Ley, que establece como obligación de los casinos, centros de apuestas, salas de sorteos, casas de juego y similares, contar con sus propias Unidades Internas de Protección Civil, así como realizar los simulacros de evacuación; y
+
+VI.- En general, llevar a cabo cualquier acto u omisión que contravenga las disposiciones de esta Ley o su reglamento, o por cualquier motivo causen o puedan causar algún riesgo o daño a la salud pública a la seguridad de la población.
 
 ### CAPITULO DECIMO SEGUNDO. DE LAS SANCIONES
 
@@ -783,7 +789,7 @@ SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. RAUL ANTONIO ORTEGA SALGADO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 B.O. 31 DE DICIEMBRE DEL 2000.
 
@@ -794,3 +800,7 @@ SEGUNDO: Se derogan todas las disposiciones que se opongan al presente decreto.
 B.O. 10 DE NOVIEMBRE DE 2005.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 30 DE SEPTIEMBRE DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
