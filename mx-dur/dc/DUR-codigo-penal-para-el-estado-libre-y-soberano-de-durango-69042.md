@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-69042"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-06-14"
-last_updated: "2012-06-15"
+last_updated: "2012-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
 > <small>N. DE E. DE CONFORMIDAD CON LA FRACCIÓN II DEL ARTICULO SEGUNDO Y PRIMERO TRANSITORIO DEL DECRETO No. 420, POR EL QUE SE EXPIDE LA DECLARATORIA DE ADOPCIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO EN EL PRIMER DISTRITO JUDICIAL DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 10 DE DICIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EN EL PRIMER DISTRITO JUDICIAL DEL ESTADO DE DURANGO A PARTIR DE LAS CERO HORAS DEL DÍA 14 DE DICIEMBRE DE 2009.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 14 de junio de 2009.
 
@@ -4269,9 +4269,11 @@ VI. Materiales electorales: Los elementos físicos electorales tales como urnas,
 
 Por la comisión de cualquiera de los delitos comprendidos en el presente capitulo, se podrá imponer además de la pena señalada, la suspensión de derechos políticos por un término igual al de la pena privativa de libertad, la inhabilitación de uno a cinco años como servidor público y su destitución.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 409.
 
-Se impondrán multa de treinta y seis a doscientos dieciséis días de salario o de seis meses a tres años de prisión o ambas penas a juicio de la autoridad judicial, a quien:
+Se impondrán de setenta y dos a doscientos dieciséis días-multa y prisión de uno a tres años, a quien:
 
 I. Vote a sabiendas de que no cumple con los requisitos de la ley;
 
@@ -4369,9 +4371,11 @@ Se impondrá sanción de suspensión de derechos políticos hasta por seis años
 
 Se impondrán de tres a siete años de prisión y multa de doscientos dieciséis a quinientos cuatro días de salario, a quien por cualquier medio altere o participe en la alteración del Registro Estatal de Electores, de los listados nominales o en la expedición ilícita de credenciales para votar. Se podrá incrementar en una cuarta parte si las conductas son cometidas por personal del órgano que tenga a su cargo el servicio del Registro Estatal de Electores conforme a la ley de la materia o si fuere de nacionalidad extranjera.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2012)</small>
+
 ###### Artículo 416.
 
-Se impondrán de dos a nueve años de prisión y multa de ciento cuarenta y cuatro a seiscientos cuarenta y ocho días de salario, al funcionario partidista o a los organizadores de actos de campaña que, a sabiendas, aproveche ilícitamente fondos, bienes o servicios en los términos de la fracción III del artículo 411 de este código.
+Se impondrán de dos a nueve años de prisión y multa de ciento cuarenta y cuatro a seiscientos cuarenta y ocho días de salario, al funcionario partidista, o a los organizadores de actos de campaña que a sabiendas aproveche ilícitamente fondos, bienes o servicios en los términos de la fracción III del artículo 413 de ése código.
 
 ## TRANSITORIOS
 
@@ -4587,7 +4591,7 @@ SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan a lo estipula
 
 P.O. 22 DE MAYO DE 2011.
 
-PRIMERO.- EI presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
@@ -4632,3 +4636,7 @@ SEGUNDO.- El Juez de Ejecución tendrá facultades para aplicar el trámite prev
 Las autoridades jurisdiccionales que en cumplimiento del presente Decreto, determinen la cancelación de los antecedentes penales, deberán notificarlo al director del Archivo del Poder Judicial del Estado, para los efectos a que alude el último párrafo del artículo 112 bis de la Ley Orgánica del Poder Judicial del Estado de Durango.
 
 TERCERO.- Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
+
+P.O. 30 DE SEPTIEMBRE DE 2012.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
