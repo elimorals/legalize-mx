@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-39705"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-04-29"
-last_updated: "2012-08-30"
+last_updated: "2012-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "DUR"
 ---
 # CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
+CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
 > <small>N. DE E. DE CONFORMIDAD CON LOS ARTICULOS PRIMERO, SEGUNDO Y OCTAVO TRANSITORIOS DEL CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO, PUBLICADO EN EL P.O. DE 14 DE JUNIO DE 2009, EL PRESENTE ORDENAMIENTO ABROGADO EN LO QUE SE OPONGA AL CONTENIDO DEL NUEVO CODIGO, HASTA EN TANTO SE PUBLIQUE EN EL P.O. DEL ESTADO LA DECLARATORIA QUE EMITA EL CONGRESO DEL ESTADO O LA COMISION PERMANENTE A SOLICITUD EXPRESA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO, RESPECTO DE LA VIGENCIA DEL REFERIDO INSTRUMENTO, POR LO QUE LAS DISPOSICIONES DEL PRESENTE CODIGO SE APLICARAN PARA INVESTIGAR Y JUZGAR LOS DELITOS COMETIDOS DURANTE LA VIGENCIA DEL MISMO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el jueves 29 de abril de 2004.
 
@@ -389,7 +389,7 @@ DE LAS PENAS
 
 ### CAPÍTULO PRIMERO. PRISIÓN
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2004)</small>
 
 ###### ARTÍCULO 38.
 
@@ -2939,7 +2939,7 @@ Comete el delito de infanticidio el ascendiente consanguíneo de un niño a quie
 
 Al que cometa el delito de infanticidio, se le impondrá de seis a diez años de prisión y de cien a quinientos días multa, salvo lo dispuesto en el artículo siguiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2004)</small>
 
 ###### ARTÍCULO 349.
 
@@ -3843,9 +3843,11 @@ VI.- Materiales electorales, los elementos físicos electorales tales como urnas
 
 Por la comisión de cualquiera de los delitos comprendidos en el presente Capítulo, se podrá imponer además de la pena señalada, la suspensión de derechos políticos de uno a cinco años, la inhabilitación de uno a cinco años como servidor público y su destitución.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 448.
 
-Se impondrán de diez a cien días multa o de seis meses a tres años de prisión, o ambas sanciones a juicio del Juez, a quien:
+Se impondrán de setenta y dos a doscientos dieciséis días-multa y prisión de uno a tres años, a quien:
 
 I.- Vote a sabiendas de que no cumple con los requisitos de la Ley;
 
@@ -3873,9 +3875,11 @@ XII.- Impida en forma violenta la instalación de una casilla, o asuma dolosamen
 
 XIII.- Durante los ocho días previos a la jornada electoral y hasta que el Consejo Estatal Electoral del Instituto Estatal Electoral haya dado a conocer los resultados preliminares, queda prohibido publicar o difundir por cualquier medio, los resultados de encuestas o sondeos de opinión que tengan por objeto dar a conocer las preferencias de los ciudadanos.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 449.
 
-Se impondrán hasta quinientos días multa, a los ministros de cultos religiosos, que por cualquier medio induzcan al electorado a votar en favor o en contra de un candidato o partido político, o a la abstención, en los edificios destinados al culto o en cualquier otro lugar.
+Se impondrá multa de treinta y seis a doscientos dieciséis días de salario, a los ministros de cultos religiosos, que por cualquier medio induzcan al electorado a votar en favor o en contra de un candidato o partido político o a la abstención, en los edificios destinados al culto o en cualquier otro lugar.
 
 ###### ARTÍCULO 450.
 
@@ -3993,7 +3997,7 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. JOSE MIGUEL CASTRO CARRILLO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 22 DE AGOSTO DE 2004.
 
@@ -4029,7 +4033,7 @@ SEGUNDO.- Se derogan todas las disposiciones legales en lo que se opongan al pre
 
 P.O. 14 DE JUNIO DE 2009.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -4039,7 +4043,7 @@ El presente Código entrará en vigor en fechas y ámbitos espacial y temporal d
 
 Para Sistema Integral de Justicia para Menores Infractores, el presente ordenamiento entrará en vigor en todo el territorio del Estado, en la fecha que determine la declaratoria que emita el Congreso del Estado o la Comisión Permanente, a solicitud expresa del Tribunal Superior de Justicia del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -4053,7 +4057,7 @@ II.- En el resto de los Distritos Judiciales o Regiones, sus disposiciones segui
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -4061,7 +4065,7 @@ Artículo Tercero.- Procedimientos anteriores.
 
 En los procedimientos iniciados por delitos previstos en el Código Penal Para el Estado Libre y Soberano de Durango, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, Nº 35 del 29 de abril de 2004 y sus reformas posteriores, que se perseguían oficiosamente y que a partir de la entrada en vigor del Presente Código Penal para el Estado Libre y Soberano de Durango.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -4069,7 +4073,7 @@ Artículo Cuarto.- Libertad provisional.
 
 En los delitos cometidos con anterioridad a la vigencia del presente código, si los responsables tenían derecho a la libertad provisional bajo caución, seguirán gozando de dicho beneficio.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -4077,7 +4081,7 @@ Artículo Quinto.- Modificación o reubicación de tipos penales.
 
 La modificación o reubicación de cualquier tipo penal a que se refiere este decreto, no implicará la libertad de los responsables por los delitos cometidos con anterioridad a su vigencia, siempre que los hechos se sigan comprendiendo en los tipos modificados.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -4085,7 +4089,7 @@ Artículo Sexto.- Acción penal y pretensión punitiva.
 
 Cuando algún ordenamiento jurídico local haga referencia a la figura de la acción penal, se entenderá que lo hace refiriéndose a la pretensión punitiva consignada en el presente Código Penal para el Estado Libre y Soberano de Durango.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -4093,7 +4097,7 @@ Artículo Séptimo.- Distribución de competencias en ejecución de sentencias.
 
 Las disposiciones relativas a la ejecución de penas, medidas de seguridad, medidas cautelares y las condiciones impuestas en la suspensión del proceso a prueba, respecto de los procedimientos penales, anteriores y posteriores a la entrada en vigor del presente decreto, serán ejercidas por los Jueces de Ejecución, sin perjuicio de la coordinación que deban mantener con la Dirección General de Ejecución de las Penas y Medidas de Seguridad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -4101,7 +4105,7 @@ Artículo Octavo.- Aplicación de este código.
 
 El presente código, se aplicará en las fechas y ámbitos espaciales y temporales de validez, que determinen las declaratorias a que alude el artículo primero transitorio del presente Decreto; y sus disposiciones sólo se aplicarán a los procedimientos por delitos cometidos a partir de su entrada en vigor.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -4113,7 +4117,7 @@ Los procesos penales iniciados con fundamento en el presente ordenamiento, así 
 
 P.O. 10 DE DICIEMBRE DE 2009.
 
-DECRETO No. 415, POR EL QUE SE REFORMAN DIVERSOS PRECEPTOS DEL CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO.
+DECRETO No. 415, POR EL QUE SE REFORMAN DIVERSOS PRECEPTOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO.
 
 Artículo Primero.- El presente decreto se publicará en el Periódico Oficial del
 
@@ -4125,7 +4129,7 @@ Artículo Tercero.- Se derogan todas las disposiciones que se opongan al present
 
 P.O. 10 DE DICIEMBRE DE 2009.
 
-DECRETO No. 420, POR EL QUE SE PUBLICA LA DECLARATORIA DE ADOPCION DEL SISTEMA PROCESAL PENAL ACUSATORIO.
+DECRETO No. 420, POR EL QUE SE PUBLICA LA DECLARATORIA DE ADOPCIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO.
 
 PRIMERO.- Publíquese la presente Declaratoria en el Periódico Oficial del Gobierno Constitucional del Estado de Durango para que surta efectos a partir de las cero horas del día 14 de diciembre de 2009 según las prevenciones establecidas en la misma.
 
@@ -4133,7 +4137,7 @@ SEGUNDO.- Remítase para su conocimiento, a las Cámaras que componen el Honorab
 
 TERCERO.- Hágase del conocimiento al pueblo de Durango la presente declaratoria mediante Bando Solemne suscrito por Titular del Poder Ejecutivo, el Magistrado Presidente del Tribunal Superior de Justicia y el Presidente de la Gran Comisión del H. Congreso del Estado.
 
-DEBIDO A SU IMPORTANCIA, SE TRANSCRIBEN LOS ARTICULOS DE LA DECLARATORIA DE ADOPCION DEL SISTEMA PROCESAL PENAL ACUSATORIO.
+DEBIDO A SU IMPORTANCIA, SE TRANSCRIBEN LOS ARTÍCULOS DE LA DECLARATORIA DE ADOPCIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO.
 
 Artículo Primero.- En el Estado Libre y Soberano de Durango, se declara adoptado el Sistema Procesal Penal Acusatorio contenido en el Decreto por el que se reforman y adicionan los artículos 16, 17, 18, 19, 20, 21, y 22; las fracciones XXI y XXIII del artículo 73, la fracción VII del articulo 115 y la fracción XIII del apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación de fecha 18 de Junio de 2008, mediante la modalidad y prevenciones previstas en la presente Declaratoria e incorporado en los ordenamientos enunciados en la misma. En consecuencia, las garantías consagradas por la reforma constitucional anteriormente citada, empezarán a regular la forma y términos en que se substanciarán los procedimientos penales.
 
@@ -4168,6 +4172,10 @@ P.O. 30 DE AGOSTO DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones legales en lo que se opongan al presente Decreto.
+
+P.O. 30 DE SEPTIEMBRE DE 2012.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 ###### ARTÍCULO PRIMERO.
 
