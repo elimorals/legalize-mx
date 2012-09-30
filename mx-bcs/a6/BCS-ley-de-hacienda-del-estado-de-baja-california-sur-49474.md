@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-del-estado-de-baja-california-sur-49474"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-21"
-last_updated: "2012-02-10"
+last_updated: "2012-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE SEPTIEMBRE DE 2012.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el martes 21 de febrero de 2006.
 
@@ -61,7 +61,7 @@ Cuando en esta Ley se tomen como base para el pago de los créditos a cargo de l
 
 El pago de las contribuciones a que se refiere esta Ley se efectuará en las oficinas de la Dirección de Ingresos, Recaudaciones o Subrecaudaciones de Rentas de la Secretaría de Finanzas del Gobierno del Estado, o en otras dependencias oficiales, bancos, entidades financieras, casas comerciales, oficinas postales o terceros, así como por organismos públicos y privados, por disposición de la Ley, o mediante convenio que celebre la propia Secretaría con los mismos, como auxiliares en la administración y recaudación de los ingresos mencionados; a través de alguno de los medios de pago autorizados en el Código Fiscal o de los medios electrónicos autorizados por la misma Secretaría.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE JUNIO DE 2006)</small>
 
 ###### Artículo 5.
 
@@ -71,7 +71,7 @@ Tratándose del entero de los pagos definitivos a que se refieren los Capítulos
 
 La declaración tanto de pagos provisionales, como del ejercicio y definitivas se presentarán en el formato oficial que al efecto autorice y publique en el Boletín Oficial de Gobierno la Secretaría de Finanzas.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE JUNIO DE 2006)</small>
 
 ###### Artículo 6.
 
@@ -183,7 +183,7 @@ El contribuyente trasladará el impuesto en forma expresa y por separado a las p
 
 Se entenderá por traslado del impuesto, el cobro o cargo que el contribuyente debe hacer a las personas a quienes preste los servicios gravados, de un monto equivalente al impuesto establecido en este ordenamiento.
 
-> <small>(REFORMADO, P.O. 23 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, B.O. 23 DE ENERO DE 2012)</small>
 
 ###### Artículo 18.
 
@@ -191,7 +191,7 @@ Los ingresos recaudados por este Impuesto en cada uno de los municipios se distr
 
 I. El 80% para su promoción turística nacional e internacional, en las acciones que determine el Comité Técnico del Fideicomiso constituido para la administración de los recursos recaudados por el impuesto a que se refiere el presente Capítulo.
 
-II. (DEROGADA, P.O. 23 DE ENERO DE 2012)
+II. (DEROGADA, B.O. 23 DE ENERO DE 2012)
 
 III. El 17.5% de la recaudación en el Estado se destinará para la promoción turística de todo el Estado en general, a nivel nacional e internacional. Estos recursos serán administrados por el Fideicomiso de Turismo Estatal.
 
@@ -235,15 +235,35 @@ Los contribuyentes están obligados a enterar el impuesto, aún cuando no lo hub
 
 Cuando las actividades que son objeto de este impuesto se presten a través de operadores turísticos, intermediarios, representantes, o como se les designe, estos tendrán la obligación de recaudar el impuesto que se cause y efectuar pagos provisionales mensuales a cuenta del impuesto anual en los términos y plazos que se indican en el Artículo 20 de la presente Ley.
 
-### Capítulo Tercero. Del Impuesto sobre Loterías, Rifas, Sorteos y Concursos
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 30 DE SEPTIEMBRE DE 2012)</small>
 
-#### Sección II. A los ingresos por arrendamiento y en general por otorgar el uso o goce temporal de inmuebles
+### Capítulo Tercero. Impuestos en Materia de Apuestas y Sorteos
+
+> <small>(ADICIONADA, B.O. 30 DE SEPTIEMBRE DE 2012)</small>
+
+#### Sección Primera. Del Impuesto sobre la Obtención de Premios
 
 ###### Artículo 23.
 
 Son objeto de este Impuesto, los ingresos o premios derivados de loterías, rifas, sorteos y concursos de toda clase, cuando el billete, boleto, contraseña o cualquier otro comprobante que permita participar en el evento haya sido enajenado o distribuido en el territorio del Estado, siempre que el evento se lleve a cabo en esta entidad federativa o el premio se entregue en la misma.
 
 Se considera que el billete, boleto, contraseña o cualquier otro comprobante que permita participar en el evento se enajenó o distribuyó en el Estado, aún cuando por dicho acto no se haya efectuado cobro alguno.
+
+> <small>(ADICIONADO, B.O. 30 DE SEPTIEMBRE DE 2012)</small>
+
+También es objeto de este impuesto la percepción de premios derivados de la celebración de juegos con apuestas. Para los efectos de este impuesto, se incluyen dentro de los juegos con apuestas, independientemente del nombre con el que se les designe, aquellos en los que el premio se obtenga por la destreza del participante en el uso de máquinas, que en su desarrollo utilicen imágenes visuales electrónicas como números, cartas, símbolos, figuras u otras similares, independientemente de que en alguna etapa de su desarrollo intervenga directa o indirectamente el azar.
+
+> <small>(ADICIONADO, B.O. 30 DE SEPTIEMBRE DE 2012)</small>
+
+Igualmente se consideran juegos con apuestas aquellos en los que el participante deba estar presente en el juego, activamente o como espectador, y aquellos juegos en los que el participante haga uso de máquinas que utilicen algoritmos desarrollados en sistemas electrónicos o cualquier otro método mecánico, electrónico o electromagnético en el que la obtención del premio no dependa de factores controlables o susceptibles de ser conocidos o dominados por el participante.
+
+> <small>(ADICIONADO, B.O. 30 DE SEPTIEMBRE DE 2012)</small>
+
+Asimismo, quedan comprendidos en los juegos con apuestas, los de apuestas remotas, también conocidos como libros foráneos, autorizados por autoridad competente, para captar y operar cruces de apuestas en eventos, competencias deportivas y juegos permitidos por la Ley, realizados en el extranjero o en territorio nacional, transmitidos en tiempo real y de forma simultánea en video y audio.
+
+> <small>(ADICIONADO, B.O. 30 DE SEPTIEMBRE DE 2012)</small>
+
+De igual forma, quedan comprendidos en los juegos con apuestas, aquéllos establecimientos autorizados por autoridad competente en los que se reciban, capten, crucen o exploten apuestas.
 
 ###### Artículo 24.
 
@@ -254,6 +274,10 @@ I. Concurso, todo evento en el cual sean necesarias habilidades, aptitudes, cara
 II. Rifa, lotería o sorteo, todo evento en el cual se participe mediante un boleto, billete, contraseña o cualquier otro comprobante en alguna actividad organizada por persona física, moral o unidades económicas en las que intervenga para la obtención del premio, la suerte.
 
 No se considerará como premio el reintegro correspondiente al billete que permitió participar en loterías.
+
+> <small>(ADICIONADA, B.O. 30 DE SEPTIEMBRE DE 2012)</small>
+
+III.- Para los efectos de este impuesto, se considera apuesta el monto susceptible de apreciarse en moneda nacional que se arriesga en un juego de los que requieran permiso de conformidad con lo dispuesto en la Ley Federal de Juegos y Sorteos, y su Reglamento, con la posibilidad de obtener o ganar un premio, cuyo monto sumado a la cantidad arriesgada deberá ser superior a ésta.
 
 ###### Artículo 25.
 
@@ -293,6 +317,10 @@ Las personas o instituciones que organicen, celebren los eventos, o entreguen lo
 
 La retención del impuesto prevista en el párrafo anterior deberá efectuarse al momento de realizar la entrega del premio.
 
+> <small>(ADICIONADO, B.O. 30 DE SEPTIEMBRE DE 2012)</small>
+
+Los organismos públicos descentralizados de la Administración Pública Federal, aunque conforme a otras Leyes o Decretos no causen impuestos locales o estén exentos de ellos, deberán efectuar las retenciones de este impuesto y enterarlo de acuerdo al párrafo anterior.
+
 ###### Artículo 29.
 
 Este impuesto se causará en el momento en que se efectúe el pago o entrega del premio, por los organizadores del evento.
@@ -317,11 +345,79 @@ Se exceptúa de la obligación de retener el impuesto al ganador del premio cuan
 
 Los ingresos provenientes de premios derivados de loterías, rifas, sorteos o concursos que sean donados por el contribuyente a instituciones de beneficencia y asistencia social ubicadas en el Estado de Baja California Sur, se considerarán exentos del pago de este impuesto hasta por el monto de lo donado.
 
-#### Sección III. A los ingresos derivados de la enajenación de inmuebles
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 30 DE SEPTIEMBRE DE 2012)</small>
+
+#### Sección Segunda. Del Impuesto por la Prestación de Servicios de Juegos con Apuestas y Concursos
+
+> <small>(ADICIONADO, B.O. 30 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 32-A.
+
+Son objeto de este impuesto las actividades de prestación de servicios consistentes en juegos con apuestas que se realicen en el territorio del Estado, independientemente del nombre con el que se les designe y que requieran permiso de conformidad con lo dispuesto en la Ley Federal de Juegos y Sorteos, y su Reglamento, así como los juegos y concursos en los que el premio se obtenga por la destreza del participante en el uso de máquinas o que en su desarrollo utilicen imágenes visuales electrónicas como números, símbolos, figuras u otras similares.
+
+Quedan comprendidos en los juegos con apuestas, aquellos en los que sólo se reciban, capten, crucen o exploten apuestas y en los concursos aquellos en los que intervenga directa o indirectamente el azar.
+
+> <small>(ADICIONADO, B.O. 30 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 32-B.
+
+Son sujetos de este impuesto las personas físicas, morales o unidades económicas sin personalidad jurídica, que en el territorio del Estado realicen las actividades de prestación de servicios a que se refiere el artículo 32-A de esta Ley, independientemente de que se trate de administradores, organizadores o anfitriones de algún establecimiento donde se lleve a cabo la prestación de los servicios. Son también sujetos de este impuesto las personas que paguen los premios, cuando sean distintas de las mencionadas en este artículo.
+
+> <small>(ADICIONADO, B.O. 30 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 32-C.
+
+Será base de este Impuesto:
+
+I.- En los de juegos con apuestas, el monto total de las apuestas, una vez disminuido el valor de los premios efectivamente pagados o entregados conforme a las disposiciones aplicables.
+
+II.- En los juegos en los que la apuesta se realice mediante fichas, tarjetas, contraseñas, bandas magnéticas, dispositivos electrónicos u objetos similares, que se utilicen para apostar en sustitución de cantidades de dinero y sean aceptadas para esos fines por la persona que realice el juego, el valor total de las cantidades equivalentes en moneda nacional que amparen dichos medios, una vez disminuido el valor de los premios efectivamente pagados o entregados conforme a las disposiciones aplicables.
+
+III.- En el caso de concursos, el monto total de los ingresos obtenidos por las inscripciones que permitan participar en el evento, una vez disminuido el valor de los premios efectivamente pagados o entregados conforme a las disposiciones aplicables.
+
+Tratándose de premios en especie, en los eventos a que se refieren las fracciones anteriores de este artículo el monto que se podrá disminuir será el que corresponda al valor con el que se promocione el premio, en su defecto, el valor de facturación, y en ausencia de ambos, el valor que tenga el premio en el mercado, así como las cantidades efectivamente devueltas a los participantes, siempre que las devoluciones se efectúen previo a la realización del evento y éstas se encuentren debidamente registradas en la contabilidad del contribuyente.
+
+Cuando el monto de las disminuciones a que se refieren las fracciones anteriores de este artículo sea superior a la base gravable correspondiente al mes de que se trate, la diferencia se amortizará en los meses siguientes hasta agotarse.
+
+> <small>(ADICIONADO, B.O. 30 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 32-D.
+
+Este impuesto se determinará aplicando una tasa del 6% sobre la base del impuesto a que se refiere el artículo anterior.
+
+> <small>(ADICIONADO, B.O. 30 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 32-E.
+
+Este impuesto se causa en el momento que se entreguen a los participantes fichas, tarjetas, contraseñas, bandas magnéticas, dispositivos electrónicos u objetos similares que se utilicen para apostar en sustitución de cantidades de dinero y sean aceptadas para esos fines por la persona que realice el juego o en el momento de participación en el concurso.
+
+> <small>(ADICIONADO, B.O. 30 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 32-F.
+
+No se pagará este impuesto cuando la prestación del servicio a que se refiere este impuesto se realice por organismos o instituciones de enseñanza con reconocimiento de validez oficial de estudios, de asistencia social o de beneficencia, debidamente autorizadas por las Leyes de la materia.
+
+> <small>(ADICIONADO, B.O. 30 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 32-G.
+
+Los sujetos obligados al pago de los impuestos a que se refiere esta Sección, realizarán el pago a más tardar el día 20 del mes siguiente a aquél al que corresponda el pago, debiendo presentarse la declaración tratándose del Impuesto sobre la Obtención de Premios, en la oficina recaudadora que corresponda al domicilio en donde hayan sido pagados o entregados los premios y tratándose del Impuesto por la Prestación de Servicios de Juegos con Apuestas y Concursos, en la oficina recaudadora que corresponda al domicilio en donde se hayan organizado o celebrado tales eventos. Dicho pago se entenderá definitivo.
+
+> <small>(ADICIONADO, B.O. 30 DE SEPTIEMBRE DE 2012)</small>
+
+###### Artículo 32-H.
+
+Las personas físicas, morales o unidades económicas sin personalidad jurídica, que organicen, celebren, enajenen o vendan directamente o a través de terceras personas, billetes, boletos, contraseñas o cualquier otro comprobante que permita participar en los eventos a que se refiere el objeto de los impuestos a que se refiere esta sección, tendrán las siguientes obligaciones:
+
+I.- Solicitar su inscripción en el registro estatal de contribuyentes, utilizando para tales efectos las formas aprobadas.
+
+II. - Presentar ante las autoridades fiscales las declaraciones y pagos correspondientes, los avisos e informes dentro de los plazos y en los lugares señalados para tales efectos.
+
+III.- Conservar a disposición de las autoridades fiscales y exhibir cuando se les solicite, la documentación comprobatoria del pago del impuesto que corresponda.
 
 ### Capítulo Cuarto. Del Impuesto sobre Nóminas
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 33.
 
@@ -337,7 +433,7 @@ Para los efectos de este impuesto, se considerarán honorarios asimilables a sal
 
 Para los efectos de este impuesto, la prestación del servicio personal subordinado debe realizarse en territorio del Estado, con independencia de la forma y lugar de pago.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 34.
 
@@ -345,7 +441,7 @@ Son sujetos de este impuesto las personas físicas o morales que realicen los pa
 
 Están obligados a retener y enterar este Impuesto en los términos de la presente ley, quienes obtengan de otras personas físicas o morales, en su calidad de intermediarias, de conformidad a los Artículos 13, 14 y 15 de la Ley Federal del Trabajo, domiciliadas dentro o fuera del territorio de esta entidad, la prestación de un servicio personal subordinado, siempre que el mismo se preste dentro del territorio del Estado. En este caso deberán entregar a la persona física o moral que les proporcione los trabajadores, la constancia de retención correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 35.
 
@@ -387,7 +483,7 @@ Los contribuyentes presentarán declaraciones mensuales que tendrán el carácte
 
 Para efectos de la fecha de pago de este impuesto se estará a lo dispuesto en el Artículo 5 de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 38.
 
@@ -431,11 +527,11 @@ I. El 62.4% de estos recursos se entregarán al Gobierno del Estado para su apli
 
 II.- El 37.6 % restante se distribuirá entre los municipios del Estado conforme a los porcentajes establecidos en el artículo 6 de la ley de Coordinación Fiscal del Estado de Baja California Sur. El 53.2% de estos recursos será depositado directamente por la Secretaría de Finanzas del Gobierno del Estado al patrimonio del Fideicomiso para Obras de Infraestructura Social constituido en cada municipio; el· 46.8% restante lo recibirá cada municipio y podrá ejercerlo de manera directa en obras de infraestructura social o depositarlo en citado fideicomiso.
 
-> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, B.O. 28 DE FEBRERO DE 2006)</small>
+> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, B.O. 28 DE FEBRERO DE 2006)</small>
 
 ### Capítulo Quinto. De los impuestos cedulares a los ingresos de las personas físicas
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LA INTEGRAN, B.O. 28 DE FEBRERO DE 2006)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 28 DE FEBRERO DE 2006)</small>
 
 Disposiciones Generales
 
@@ -479,11 +575,9 @@ Disposiciones Generales
 
 (DEROGADO, B.O. 28 DE FEBRERO DE 2006)
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, B.O. 28 DE FEBRERO DE 2006)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 28 DE FEBRERO DE 2006)</small>
 
-#### Sección IV. A los ingresos por actividades empresariales
-
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, B.O. 28 DE FEBRERO DE 2006)</small>
+#### Sección II. A los ingresos por arrendamiento y en general por otorgar el uso o goce temporal de inmuebles
 
 ###### Artículo 51.
 
@@ -509,9 +603,9 @@ Disposiciones Generales
 
 (DEROGADO, B.O. 28 DE FEBRERO DE 2006)
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, B.O. 28 DE FEBRERO DE 2006)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 28 DE FEBRERO DE 2006)</small>
 
-#### Sección IV. I. De las personas físicas con actividades empresariales
+#### Sección III. A los ingresos derivados de la enajenación de inmuebles
 
 ###### Artículo 57.
 
@@ -545,11 +639,13 @@ Disposiciones Generales
 
 (DEROGADO, B.O. 28 DE FEBRERO DE 2006)
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, B.O. 28 DE FEBRERO DE 2006)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 28 DE FEBRERO DE 2006)</small>
 
-#### Sección IV. II. Del régimen intermedio
+#### Sección IV. A los ingresos por actividades empresariales
 
-#### Sección IV. III. Del régimen de pequeños contribuyentes
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 28 DE FEBRERO DE 2006)</small>
+
+#### Sección IV. I. De las personas físicas con actividades empresariales
 
 ###### Artículo 65.
 
@@ -595,9 +691,9 @@ Disposiciones Generales
 
 (DEROGADO, B.O. 28 DE FEBRERO DE 2006)
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, B.O. 28 DE FEBRERO DE 2006)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 28 DE FEBRERO DE 2006)</small>
 
-#### Sección I. De los derechos por servicios prestados por las autoridades de la secretaría general de gobierno
+#### Sección IV. II. Del régimen intermedio
 
 ###### Artículo 76.
 
@@ -615,9 +711,9 @@ Disposiciones Generales
 
 (DEROGADO, B.O. 28 DE FEBRERO DE 2006)
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, B.O. 28 DE FEBRERO DE 2006)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 28 DE FEBRERO DE 2006)</small>
 
-#### Sección II. De los derechos prestados por las autoridades fiscales
+#### Sección IV. III. Del régimen de pequeños contribuyentes
 
 ###### Artículo 80.
 
@@ -631,7 +727,7 @@ Disposiciones Generales
 
 (DEROGADO, B.O. 28 DE FEBRERO DE 2006)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 28 DE FEBRERO DE 2006)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 28 DE FEBRERO DE 2006)</small>
 
 ### Capítulo Sexto. De los requisitos de las deducciones, de las inversiones y de la deducción inmediata
 
@@ -687,7 +783,7 @@ Disposiciones Generales
 
 ### Capítulo Segundo. De los derechos por legalización de firmas, certificaciones y copias certificadas de documentos
 
-#### Sección III. De los derechos por servicios prestados por la Secretaría de Planeación Urbana, Infraestructura y Ecología
+#### Sección I. De los derechos por servicios prestados por las autoridades de la secretaría general de gobierno
 
 ###### Artículo 94.
 
@@ -705,11 +801,13 @@ Disposiciones Generales
 
 (DEROGADO, B.O. 24 DE DICIEMBRE DE 2008)
 
-#### Sección IV. Por los servicios prestados por la Comisión Estatal para la Protección contra Riesgos Sanitarios (COEPRIS-BCS)
+#### Sección II. De los derechos prestados por las autoridades fiscales
 
 ###### Artículo 98.
 
 (DEROGADO, B.O. 24 DE DICIEMBRE DE 2008)
+
+#### Sección III. De los derechos por servicios prestados por la Secretaría de Planeación Urbana, Infraestructura y Ecología
 
 ###### Artículo 99.
 
@@ -722,6 +820,8 @@ Disposiciones Generales
 ###### Artículo 101.
 
 (DEROGADO, B.O. 24 DE DICIEMBRE DE 2008)
+
+#### Sección IV. Por los servicios prestados por la Comisión Estatal para la Protección contra Riesgos Sanitarios (COEPRIS-BCS)
 
 ###### Artículo 102.
 
@@ -1069,7 +1169,7 @@ EL C. SECRETARIO GENERAL DE GOBIERNO
 
 VÍCTOR MANUEL GULUARTE CASTRO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 B.O. 28 DE FEBRERO DE 2006.
 
@@ -1114,3 +1214,7 @@ B.O. 23 DE ENERO DE 2012.
 B.O. 10 DE FEBRERO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.<a (sic)
+
+B.O. 30 DE SEPTIEMBRE DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
