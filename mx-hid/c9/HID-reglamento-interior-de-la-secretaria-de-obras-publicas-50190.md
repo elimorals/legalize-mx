@@ -4,7 +4,7 @@ identifier: "HID-reglamento-interior-de-la-secretaria-de-obras-publicas-50190"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-03-27"
-last_updated: "2006-03-27"
+last_updated: "2012-10-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE OBRAS PUBLICAS, COMUNICACIONES, TRANSPORTES Y ASENTAMIENTOS
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE OBRAS PUBLICAS, COMUNICACIONES, TRANSPORTES Y ASENTAMIENTOS
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE OBRAS PÚBLICAS, COMUNICACIONES, TRANSPORTES Y ASENTAMIENTOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE OBRAS PÚBLICAS Y ORDENAMIENTO TERRITORIAL, PUBLICADO EN EL P.O. DE 1 DE OCTUBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Alcance del Periódico Oficial del Gobierno del Estado de Hidalgo, el lunes 27 de marzo de 2006.
 
@@ -648,3 +650,15 @@ Dado en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Pachuca de
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
 LICENCIADO MIGUEL ANGEL OSORIO CHONG.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE OCTUBRE DE 2012.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Obras Públicas, Comunicaciones, Transportes y Asentamientos, Publicado en el Periódico Oficial del Estado de fecha veintisiete de marzo del año dos mil seis, y se derogan las demás disposiciones que se opongan al presente Reglamento.
+
+TERCERO.- Las unidades administrativas que, por el efecto del presente Reglamento, tengan competencia en asuntos que anteriormente correspondían a otras unidades, se harán cargo de ellos a partir de la entrada en vigor del mismo, por lo cual deberá de hacerse la transferencia de los recursos humanos, financieros, materiales, archivos e inventarios correspondientes.
+
+CUARTO.- En tanto se expidan los manuales de organización, de procedimientos y de servicios al público, el Secretario estará facultado para resolver lo que dichos Manuales deben regular.
