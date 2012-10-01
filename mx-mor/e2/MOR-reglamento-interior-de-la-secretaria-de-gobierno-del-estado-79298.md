@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-gobierno-del-estado-792
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-01-31"
-last_updated: "2011-09-07"
+last_updated: "2012-10-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79298&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el lunes 31 de enero de 2011.
 
@@ -51,7 +51,9 @@ I. Persona titular de la Secretaría de Gobierno;
 
 II. Subsecretaría de Gobierno;
 
-III. Subsecretaría de Asuntos Jurídicos y Desarrollo Político Municipal;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2012)</small>
+
+III. Subsecretaría de Asesoría y Atención Social;
 
 IV. Secretaría Ejecutiva de Enlace para Asuntos de Justicia Penal;
 
@@ -59,7 +61,9 @@ V. Dirección General de Gobierno;
 
 VI. Dirección General de Transportes;
 
-VII. Dirección General de Atención Social;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2012)</small>
+
+VII. Coordinación de Atención Ciudadana y Municipal;
 
 VIII. Dirección General de Asuntos Religiosos;
 
@@ -93,9 +97,9 @@ XVIII. Secretaría Técnica del titular de la Secretaría de Gobierno;
 
 XIX. Secretaría Técnica del titular de la Subsecretaría de Gobierno;
 
-> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2012)</small>
 
-XX. Secretaría Técnica del titular de la Subsecretaría de Asuntos Jurídicos y Desarrollo Político Municipal;
+XX. Secretaría Técnica del titular de la Subsecretaría de Asesoría y Atención Social;
 
 > <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
 
@@ -263,13 +267,13 @@ XVIII. Las demás que le confieran otros ordenamientos jurídicos, o le delegue 
 
 La persona titular de la Subsecretaría de Gobierno tendrá las siguientes facultades específicas:
 
-I. Propiciar la participación de los grupos y sectores de la sociedad y organismos no gubernamentales en los programas y políticas de Gobierno;
+I. (DEROGADA, P.O. 1 DE OCTUBRE DE 2012)
 
 II. Auxiliar a la persona titular de la Secretaría de Gobierno en la conducción de los asuntos de orden político interno del Estado;
 
 III. Mantener la gobernabilidad partiendo de una relación armónica y un constante acercamiento entre el Ejecutivo Estatal y la sociedad morelense;
 
-IV. Dar seguimiento y evaluar el ejercicio de las atribuciones que en materia electoral señalen a la Secretaría de Gobierno, las leyes o los convenios que al efecto se celebren;
+IV. (DEROGADA, P.O. 1 DE OCTUBRE DE 2012)
 
 V. Coadyuvar en la vigilancia y control de todo lo relativo a la demarcación y conservación de los límites del Estado Libre y Soberano de Morelos;
 
@@ -283,9 +287,9 @@ IX. Presentar a la persona titular de la Secretaría de Gobierno el calendario o
 
 X. Controlar la seguridad del palacio del Poder Ejecutivo y su perímetro;
 
-XI. Verificar la atención de las demandas y consultas ciudadanas, en términos de lo previsto por el artículo 19 bis de la Constitución Política del Estado Libre y Soberano de Morelos;
+XI. (DEROGADA, P.O. 1 DE OCTUBRE DE 2012)
 
-XII. Solicitar por acuerdo de la persona titular de la Secretaría de Gobierno, la agenda de los asuntos que pudieran convertirse en conflictos sociales, a las personas titulares de las demás Secretarías, Dependencias y Entidades;
+XII. (DEROGADA, P.O. 1 DE OCTUBRE DE 2012)
 
 XIII. Auxiliar a la persona titular de la Secretaría de Gobierno en la conducción de las relaciones entre el Poder Ejecutivo Federal y Estatal con las asociaciones, iglesias, agrupaciones, organizaciones y demás instituciones religiosas, en términos de lo previsto por la Ley reglamentaria de la materia;
 
@@ -299,9 +303,11 @@ XVII. Conocer y resolver los procedimientos administrativos, recursos de revisi�
 
 XVIII. Las demás que le otorguen otros ordenamientos legales o le sean delegadas por la persona titular de la Secretaría.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 9.
 
-Son atribuciones de la Subsecretaría de Asuntos Jurídicos y Desarrollo Político Municipal las siguientes:
+Son atribuciones de la Subsecretaría de Asesoría y Atención Social las siguientes:
 
 I. Fungir como enlace de la Secretaria de Gobierno con los integrantes de los Ayuntamientos;
 
@@ -327,7 +333,7 @@ XI. Presentar a la persona titular de la Secretaría de Gobierno estudios para p
 
 XII. Conducir la política, en auxilio o coordinación con las autoridades federales, para la autorización de detonantes y pirotecnia, portación de armas, loterías, rifas y juegos prohibidos;
 
-XIII. Supervisar y dar seguimiento a las acciones legales necesarias para la ejecución y cumplimiento de las expropiaciones, ocupaciones temporales y limitación de dominio de los bienes, que se hagan por causas de utilidad pública, de conformidad con la legislación respectiva;
+XIII. (DEROGADA, P.O. 1 DE OCTUBRE DE 2012)
 
 XIV. Canalizar y supervisar la atención hasta su solución, de las denuncias, solicitudes y recomendaciones emitidas por la autoridad competente en materia de derechos humanos;
 
@@ -335,33 +341,33 @@ XV. Solicitar informes a las Secretarías de Despacho, en relación con los asun
 
 XVI. Dirigir y vigilar los trabajos y tareas de promoción y defensa de los derechos humanos que lleven a cabo las Secretarías, Dependencias y Entidades de la Administración Pública Estatal;
 
-XVII. Llevar un sistema de control de las iniciativas de leyes o decretos que se remitan al Congreso del Estado, y las que éste devuelva para su publicación;
+XVII. (DEROGADA, P.O. 1 DE OCTUBRE DE 2012)
 
-XVIII. En coordinación con la Consejería Jurídica, someter a la consideración de la persona titular de la Secretaría de Gobierno, las observaciones que deba emitir la persona titular del Poder Ejecutivo, respecto de leyes o decretos que apruebe y remita para publicación el Congreso, en el ámbito de su competencia;
+XVIII. (DEROGADA, P.O. 1 DE OCTUBRE DE 2012)
 
 XIX. Conducir la política de la Defensoría Pública en el Estado Libre y Soberano de Morelos;
 
-XX. Someter a consideración de la persona titular de la Secretaría de Gobierno los proyectos de nombramientos que el Ejecutivo expida para el ejercicio de las funciones notariales y ejecutar, en coordinación con el área responsable, periódicamente las visitas de inspección a las notarías del Estado Libre y Soberano de Morelos;
+XX. (DEROGADA, P.O. 1 DE OCTUBRE DE 2012)
 
 XXI. Coadyuvar en la planeación, organización, coordinación, dirección y vigilancia del ejercicio de las funciones del Registro Civil;
 
-XXII. Elaborar los proyectos de convenios o contratos a celebrar entre el Gobierno Estatal con la Federación, los Municipios y otras instituciones públicas o privadas, en las materias que sean competencia de la Secretaría;
+XXII. (DEROGADA, P.O. 1 DE OCTUBRE DE 2012)
 
-XXIII. Llevar un control y seguimiento de los juicios relacionados con la Secretaría de Gobierno, que esté tramitando la Consejería Jurídica;
+XXIII. (DEROGADA, P.O. 1 DE OCTUBRE DE 2012)
 
-XXIV. Revisar y dar el visto bueno respecto de las contestaciones y demás escritos relacionados con asuntos jurídicos que se sometan a firma de la persona titular de la Secretaría de Gobierno;
+XXIV. (DEROGADA, P.O. 1 DE OCTUBRE DE 2012)
 
-XXV. Dar seguimiento al ejercicio de las atribuciones derivadas de los convenios y contratos que, en las materias competencia de la Secretaría de Gobierno, celebre el Gobierno del Estado con la Federación y los Ayuntamientos;
+XXV. (DEROGADA, P.O. 1 DE OCTUBRE DE 2012)
 
-XXVI. Validar la viabilidad jurídica de los convenios, contratos y demás instrumentos legales que se sometan a firma de la persona titular de la Secretaría;
+XXVI. (DEROGADA, P.O. 1 DE OCTUBRE DE 2012)
 
-XXVII. Controlar y supervisar el Libro de Registro de Notarios;
+XXVII. (DEROGADA, P.O. 1 DE OCTUBRE DE 2012)
 
-XXVIII. Coordinar el registro, legalización y certificación de las firmas autógrafas de los funcionarios estatales, de los Presidentes y Secretarios municipales, y de los demás funcionarios a quienes esté encomendada la fe pública;
+XXVIII. (DEROGADA, P.O. 1 DE OCTUBRE DE 2012)
 
-XXIX. Coordinar y someter a consideración de la persona titular de la Secretaría de Gobierno los anteproyectos de iniciativas de ley, reglamentos, decretos, acuerdos y demás disposiciones jurídicas, en el ámbito de la competencia de la Secretaría de Gobierno;
+XXIX. (DEROGADA, P.O. 1 DE OCTUBRE DE 2012)
 
-XXX. Supervisar la administración y publicación del Periódico Oficial “Tierra y Libertad”, y
+XXX. (DEROGADA, P.O. 1 DE OCTUBRE DE 2012)
 
 XXXI. Las demás que le otorguen otros ordenamientos legales o le sean delegadas por la persona titular de la Secretaría.
 
@@ -415,19 +421,21 @@ XXII. Las demás que le otorguen otros ordenamientos legales o le sean delegadas
 
 ### CAPÍTULO CUARTO. DE LA ADSCRIPCIÓN DE LAS UNIDADES ADMINISTRATIVAS
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 11.
 
-La Coordinación General de Asesores de la Secretaría y la Dirección General de Administración, estarán adscritas como unidades administrativas directamente al titular de la Secretaría.
+La Coordinación General de Asesores de la Secretaría, la Coordinación de Atención Ciudadana y Municipal, la Dirección General Jurídica y la Dirección General de Administración, estarán adscritas como unidades administrativas directamente al titular de la Secretaría.
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
 
 La Secretaría Técnica del titular de la Secretaría de Gobierno y la Coordinación de Agenda Política, tendrán nivel de Dirección General y estarán contemplados dentro de la propia estructura de la Oficina de la Secretaría de Gobierno.
 
-> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 11 Bis.
 
-La Secretaría Técnica del titular de la Subsecretaría de Asuntos Jurídicos y Desarrollo Político Municipal, así como la Secretaría Técnica del titular de la Subsecretaría de Gobierno, tendrán nivel de Dirección general y estarán contemplados dentro de la estructura de cada Subsecretaría, respectivamente.
+La Secretaría Técnica del titular de la Subsecretaría de Asesoría y Atención Social, así como la Secretaría Técnica del titular de la Subsecretaría de Gobierno, tendrán nivel de Dirección general y estarán contemplados dentro de la estructura de cada Subsecretaría, respectivamente.
 
 ###### Artículo 12.
 
@@ -437,15 +445,17 @@ I. Dirección General de Gobierno;
 
 II. Dirección General de Transportes;
 
-III. Dirección General de Atención Social;
+III. (DEROGADA, P.O. 1 DE OCTUBRE DE 2012)
 
 IV. Dirección General de Asuntos Religiosos, y
 
 V. Dirección General de Análisis Político y Proyectos Estratégicos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 13.
 
-Se adscriben a la Subsecretaría de Asuntos Jurídicos y Desarrollo Político Municipal, las siguientes unidades administrativas:
+Se adscriben a la Subsecretaría de Asesoría y Atención Social, las siguientes unidades administrativas:
 
 I. Dirección General de Derechos Humanos;
 
@@ -453,7 +463,7 @@ II. Dirección General de la Defensoría Pública;
 
 III. Dirección General del Registro Civil;
 
-IV. Dirección General Jurídica, y
+IV. (DEROGADA, P.O. 1 DE OCTUBRE DE 2012)
 
 V. Dirección General Atención (sic) a Municipios.
 
@@ -617,31 +627,7 @@ XXVI. Las demás que le otorguen otros ordenamientos legales o le sean delegadas
 
 ###### Artículo 18.
 
-Son atribuciones de la persona titular de la Dirección General de Atención Social:
-
-I. Atender de manera oportuna las actividades de carácter social en las que intervengan los ciudadanos de manera individual o de forma colectiva, contribuyendo en la estabilidad y gobernabilidad de nuestra Entidad Federativa;
-
-II. Formular mediante visitas de campo el padrón de representación social, para mantener atención de manera directa con la ciudadanía morelense, a través de sus liderazgos formales e informales;
-
-III. Mantener comunicación con representantes populares, actores sociales y políticos de la Entidad, que faciliten las acciones y la toma de decisiones, para dar solución a los conflictos sociales, que se encuentren dentro de la competencia del Ejecutivo estatal;
-
-IV. Realizar estudios y análisis para generar la información necesaria, que permita elaborar escenarios, como herramienta para la mejor toma de decisiones en el trabajo de la Subsecretaría de Gobierno;
-
-V. Analizar la información que integra los proyectos y propuestas gubernamentales, así como la que se desprende de la problemática social y política relevantes para el Estado;
-
-VI. Procesar la información básica recabada, a efecto de proporcionar la documentación tanto descriptiva como prospectiva necesaria para el cumplimiento y consolidación de los planes y programas oficiales;
-
-VII. Analizar, mediante trabajo de campo, el impacto social que nace de la publicación o aplicación de una Ley, Reglamento, Decreto o Convenio celebrado por el titular del Ejecutivo Estatal con las Dependencias Estatales y Municipales de la Entidad;
-
-VIII. Coadyuvar con la Dirección General de Gobierno, en el ejercicio de las facultades en los procesos electorales que le confiere la Ley;
-
-IX. Informar a la persona titular de la Subsecretaría de Gobierno de los resultados que arrojen los documentos elaborados con la información básica recabada, para coadyuvar en la toma de decisiones, en el mantenimiento de la gobernabilidad;
-
-X. Diseñar, organizar y llevar a cabo programas operativos de análisis y prospectiva política para preservar la gobernabilidad, estabilidad y pluralidad de nuestro Estado;
-
-XI. Colaborar con el Instituto de Protección Civil, cuando asi se requiera, en la ejecución oportuna y eficiente del Fondo de Desastres Naturales para la rehabilitación de la infraestructura de los Municipios, dañada con motivo de sucesos atípicos y desastres naturales en el Estado, y
-
-XII. Las demás que le otorguen otros ordenamientos legales o le sean delegadas por la persona titular de la Subsecretaría de Gobierno.
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2012)
 
 ###### Artículo 19.
 
@@ -791,43 +777,7 @@ XVII. Las demás que le otorguen otros ordenamientos legales o le sean delegadas
 
 ###### Artículo 24.
 
-La persona titular de la Dirección General Jurídica tendrá las atribuciones siguientes:
-
-I. Llevar el registro, legalizar y apostillar las firmas autógrafas de los servidores públicos estatales y municipales, así como de aquellos que tengan fe pública, conforme a la Ley;
-
-II. Registrar los convenios y contratos suscritos por la persona titular del Poder Ejecutivo, sus Secretarías o Dependencias;
-
-III. Administrar, compilar, editar y publicar el Periódico Oficial “Tierra y Libertad”, de conformidad con el Reglamento correspondiente;
-
-IV. Aplicar los exámenes de Aspirantes a Notario, así como los exámenes de oposición para obtener la patente de Notario, en los términos de la Ley del Notariado del Estado;
-
-V. Practicar las inspecciones generales y especiales previstas por la Ley del Notariado del Estado de Morelos;
-
-VI. Vigilar el cumplimiento de las disposiciones legales en materia de notariado, así como recibir y tramitar, iniciando un expediente, las quejas contra las personas titulares de las Notarías con motivo del ejercicio de sus funciones y, en su caso, previo acuerdo de la persona titular de la Secretaría de Gobierno, aplicar la sanción correspondiente;
-
-VII. Coadyuvar con las autoridades federales en lo referente a juegos y sorteos, en los términos de la legislación federal aplicable;
-
-VIII. Tramitar la expedición de opiniones favorables relativas a la portación de armas, almacenamiento, fabricación y talleres para el uso de sustancias y materiales regulados por la Ley Federal de Armas de Fuego y Explosivos, en coordinación con las autoridades federales, municipales y estatales correspondientes;
-
-IX. Ejecutar, en coordinación con la Consejería Jurídica, las expropiaciones, ocupaciones temporales y limitación de dominio de los bienes que proceda, por causa de utilidad pública para el Estado, de conformidad con la legislación aplicable;
-
-X. Revisar los convenios, contratos y demás instrumentos jurídicos que se sometan para firma de la persona titular de la Secretaría de Gobierno; y tratándose de documentos que remitan las Direcciones Generales, Organismos o unidades administrativas de la Secretaría, deberá hacerse llegar de la información necesaria para la integración del expediente correspondiente, a efecto de ponerlos en estado de firma;
-
-XI. Brindar asesoría jurídica a todas las unidades administrativas de la Secretaría y sus órganos sectorizados;
-
-XII. Asesorar legalmente a la Secretaría en toda clase de juicios e integrar debidamente los expedientes para remitirlos a la Consejería Jurídica y participar como coadyuvante de ésta, en los procedimientos respectivos;
-
-XIII. Revisar los requisitos legales a que deben sujetarse los contratos, convenios, acuerdos, concesiones, autorizaciones, bases de coordinación o dictámenes que realice o expida la Secretaría, verificando que los mismos sean acordes y congruentes con las disposiciones jurídicas aplicables;
-
-XIV. Analizar jurídicamente y proponer a la persona titular de la Secretaría de Gobierno los anteproyectos de leyes, reglamentos, decretos, convenios, acuerdos, órdenes, circulares y demás ordenamientos jurídicos en el ámbito de su competencia;
-
-XV. Promover la actualización del Reglamento Interior de la Secretaría, tomando en consideración los lineamientos aplicables;
-
-XVI. Dictaminar las actas administrativas que se levanten a los trabajadores de la Secretaría, por violación a las disposiciones laborales, para la oportuna toma de decisiones, en términos de Ley, por parte de la persona titular de la Secretaría de Gobierno;
-
-XVII. Controlar y supervisar el libro de registros de Notarías, y
-
-XVIII. Las demás que le otorguen otros ordenamientos legales o le sean delegadas por la persona titular de la Subsecretaría de Asuntos Jurídicos y Desarrollo Político Municipal.
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2012)
 
 ###### Artículo 25.
 
@@ -1027,6 +977,94 @@ V. Administrar las actividades de sus áreas adscritas, mediante la atención de
 
 VII. Las demás que le otorguen otros ordenamientos legales o le sean delegadas por el titular de la Secretaría de Gobierno.
 
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 27 Quater.
+
+La persona titular de la Dirección General Jurídica tendrá las atribuciones siguientes:
+
+I. Coordinar y llevar el registro, legalizar y apostillar las firmas autógrafas de los servidores públicos estatales, de los presidentes, síndicos y secretarios municipales, así como de aquellos que tengan fe pública, conforme a la Ley;
+
+II. Registrar los convenios y contratos suscritos por la persona titular del Poder Ejecutivo, sus secretarías o dependencias;
+
+III. Supervisar, administrar, compilar, editar y publicar el Periódico Oficial “Tierra y Libertad”, de conformidad con el reglamento correspondiente;
+
+IV. Aplicar los exámenes de aspirantes al notariado, así como los exámenes de oposición para obtener la patente de notario, en los términos de la Ley del Notariado del Estado y su Reglamento;
+
+V. Someter a consideración de la persona titular de la Secretaría de Gobierno los proyectos de nombramientos que el Ejecutivo expida para el ejercicio de las funciones notariales y practicar las inspecciones generales y especiales previstas por la Ley del Notariado del Estado de Morelos;
+
+VI. Autorizar la apertura y uso de folios y protocolos notariales, así como los mecanismos que para ello se utilicen, y llevar los libros de registro que conforme a la normatividad en materia notarial deban integrarse;
+
+VII. Vigilar el cumplimiento de las disposiciones legales en materia de notariado, así como recibir y tramitar hasta su resolución, iniciando un expediente, las quejas contra las personas titulares de las notarías con motivo del ejercicio de sus funciones y, en su caso, previo acuerdo de la persona titular de la Secretaría de Gobierno, aplicar la sanción correspondiente;
+
+VIII. Coadyuvar con las autoridades federales en lo referente a juegos y sorteos, en los términos de la legislación federal aplicable;
+
+IX. Tramitar la expedición de opiniones favorables relativas a la portación de armas, almacenamiento, fabricación y talleres para el uso de sustancias y materiales regulados por la Ley Federal de Armas de Fuego y Explosivos, en coordinación con las autoridades federales, municipales y estatales correspondientes;
+
+X. Supervisar y dar seguimiento a las acciones legales necesarias para ejecutar, en coordinación con la Consejería Jurídica, las expropiaciones, ocupaciones temporales y limitación de dominio de los bienes que proceda, por causa de utilidad pública para el Estado, de conformidad con la legislación aplicable;
+
+XI. Revisar y dar seguimiento a los convenios, contratos y demás instrumentos jurídicos que se sometan para firma de la persona titular de la Secretaría de Gobierno; y tratándose de documentos que remitan las Direcciones Generales, Organismos o unidades administrativas de la Secretaría, deberá hacerse llegar de la información necesaria para la integración del expediente correspondiente, a efecto de ponerlos en estado de firma;
+
+XII. Brindar asesoría jurídica a todas las unidades administrativas de la Secretaría y sus órganos sectorizados;
+
+XIII. Asesorar legalmente a la Secretaría en toda clase de juicios e integrar debidamente los expedientes para remitirlos a la Consejería Jurídica y participar como coadyuvante de ésta, en los procedimientos respectivos;
+
+XIV. Revisar los requisitos legales a que deben sujetarse los contratos, convenios, acuerdos, concesiones, autorizaciones, bases de coordinación o dictámenes que realice o expida la Secretaría, verificando que los mismos sean acordes y congruentes con las disposiciones jurídicas aplicables;
+
+XV. Analizar jurídicamente y proponer a la persona titular de la Secretaría de Gobierno los anteproyectos de leyes, reglamentos, decretos, convenios, acuerdos, órdenes, circulares y demás ordenamientos jurídicos en el ámbito de su competencia;
+
+XVI. Promover la actualización del Reglamento Interior de la Secretaría, tomando en consideración los lineamientos aplicables;
+
+XVII. Dictaminar las actas administrativas que se levanten a los trabajadores de la Secretaría, por violación a las disposiciones laborales, para la oportuna toma de decisiones, en términos de Ley, por parte de la persona titular de la Secretaría de Gobierno;
+
+XVIII. Llevar un sistema de control de las iniciativas de leyes o decretos que se remitan al Congreso del Estado, y las que éste devuelva para su publicación;
+
+XIX. En coordinación con la Consejería Jurídica, someter a la consideración de la persona titular de la Secretaría de Gobierno, las observaciones que deba emitir la persona titular del Poder Ejecutivo, respecto de leyes o decretos que apruebe y remita para publicación el Congreso, en el ámbito de su competencia;
+
+XX. Llevar un control y seguimiento de los juicios relacionados con la Secretaría de Gobierno, que esté tramitando la Consejería Jurídica;
+
+XXI. Revisar y dar el visto bueno respecto de las contestaciones y demás escritos relacionados con asuntos jurídicos que se sometan a firma de la persona titular de la Secretaría de Gobierno; y
+
+XXII. Las demás que le otorguen otros ordenamientos legales o le sean delegadas por la persona titular de la Secretaría.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 27 Quinquies.
+
+La persona titular de la Coordinación de Atención Ciudadana y Municipal tendrá las atribuciones siguientes:
+
+I. Propiciar la participación de los grupos y sectores de la sociedad y organismos no gubernamentales en los programas y políticas de Gobierno;
+
+II. Dar seguimiento y evaluar el ejercicio de las atribuciones que en materia electoral señalen a la Secretaría de Gobierno, las leyes o los convenios que al efecto se celebren;
+
+III. Verificar la atención de las demandas y consultas ciudadanas, en términos de lo previsto por el artículo 19 bis de la Constitución Política del Estado Libre y Soberano de Morelos;
+
+IV. Solicitar por acuerdo de la persona titular de la Secretaría de Gobierno, la agenda de los asuntos que pudieran convertirse en conflictos sociales, a las personas titulares de las demás Secretarías, Dependencias y Entidades;
+
+V. Atender de manera oportuna las actividades de carácter social en las que intervengan los ciudadanos de manera individual o de forma colectiva, contribuyendo en la estabilidad y gobernabilidad de nuestra Entidad Federativa;
+
+VI. Formular mediante visitas de campo el padrón de representación social, para mantener atención de manera directa con la ciudadanía morelense, a través de sus liderazgos formales e informales;
+
+VII. Mantener comunicación con representantes populares, actores sociales y políticos de la Entidad, que faciliten las acciones y la toma de decisiones, para dar solución a los conflictos sociales, que se encuentren dentro de la competencia del Ejecutivo estatal;
+
+VIII. Realizar estudios y análisis para generar la información necesaria, que permita elaborar escenarios, como herramienta para la mejor toma de decisiones en el trabajo de la Subsecretaría de Gobierno;
+
+IX. Analizar la información que integra los proyectos y propuestas gubernamentales, así como la que se desprende de la problemática social y política relevantes para el Estado;
+
+X. Procesar la información básica recabada, a efecto de proporcionar la documentación tanto descriptiva como prospectiva necesaria para el cumplimiento y consolidación de los planes y programas oficiales;
+
+XI. Analizar, mediante trabajo de campo, el impacto social que nace de la publicación o aplicación de una Ley, Reglamento, Decreto o Convenio celebrado por el titular del Ejecutivo Estatal con las Dependencias Estatales y Municipales de la Entidad;
+
+XII. Coadyuvar con la Dirección General de Gobierno, en el ejercicio de las facultades en los procesos electorales que le confiere la Ley;
+
+XIII. Informar a la persona titular de la Subsecretaría de Gobierno de los resultados que arrojen los documentos elaborados con la información básica recabada, para coadyuvar en la toma de decisiones, en el mantenimiento de la gobernabilidad;
+
+XIV. Diseñar, organizar y llevar a cabo programas operativos de análisis y prospectiva política para preservar la gobernabilidad, estabilidad y pluralidad de nuestro Estado;
+
+XV. Colaborar con el Instituto de Protección Civil, cuando así se requiera, en la ejecución oportuna y eficiente del Fondo de Desastres Naturales para la rehabilitación de la infraestructura de los Municipios, dañada con motivo de sucesos atípicos y desastres naturales en el Estado, y
+
+XVI. Las demás que le otorguen otros ordenamientos legales o le sean delegadas por la persona titular de la Secretaría de Gobierno.
+
 ### CAPÍTULO OCTAVO. DE LOS ÓRGANOS DESCONCENTRADOS
 
 ###### Artículo 28.
@@ -1088,3 +1126,9 @@ P.O. 7 DE SEPTIEMBRE DE 2011.
 PRIMERO. El presente Reglamento iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
 
 SEGUNDO. En el caso de los manuales de las unidades administrativas de la Secretaría de Gobierno, que como consecuencia (sic) las reformas decretadas mediante el presente instrumento deban actualizarse, las unidades administrativas a las que corresponda la actualización respectiva, contarán con un plazo máximo de noventa días hábiles a partir de la publicación del presente Decreto para realizar lo conducente.
+
+P.O. 1 DE OCTUBRE DE 2012.
+
+PRIMERO. El presente Reglamento iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+SEGUNDO. Cuando en otros ordenamientos jurídicos o administrativos se haga referencia o confieran atribuciones a las unidades que por virtud de este Decreto cambian de denominación, se entenderán realizadas o conferidas a las unidades con nueva denominación.
