@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interno-de-la-comision-para-la-defensa-de-los-62344"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-12"
-last_updated: "2012-02-14"
+last_updated: "2012-10-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62344&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "OAX"
 ---
 # REGLAMENTO INTERNO DE LA COMISION PARA LA DEFENSA DE LOS DERECHOS HUMANOS DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-REGLAMENTO INTERNO DE LA COMISION PARA LA DEFENSA DE LOS DERECHOS HUMANOS DEL ESTADO LIBRE Y SOBERANO DE OAXACA
+REGLAMENTO INTERNO DE LA COMISIÓN PARA LA DEFENSA DE LOS DERECHOS HUMANOS DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO SÉPTIMO DEL DECRETO NÚMERO 823, PUBLICADO EN EL P.O. 14 DE FEBRERO DE 2012, SE MODIFICA LA COMISIÓN PARA LA DEFENSA DE LOS DERECHOS HUMANOS DEL ESTADO LIBRE Y SOBERANO DE OAXACA POR EL DE DEFENSORÍA DE LOS DERECHOS HUMANOS DEL PUEBLO DE OAXACA.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERNO DE LA DEFENSORÍA DE LOS DERECHOS HUMANOS DEL PUEBLO DE OAXACA, PUBLICADO EN EL P.O. DE 1 DE OCTUBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Oaxaca, el sábado 12 de julio de 2008.
 
@@ -1290,3 +1292,11 @@ SÉPTIMO.- Todas las disposiciones legales, administrativas o resoluciones exped
 OCTAVO.- El personal que labora en la COMISIÓN PARA LA DEFENSA DE LOS DERECHOS HUMANOS DEL ESTADO LIBRE Y SOBERANO DE OAXACA, continuarán brindando sus servicios a la Defensoría de los Derechos Humanos del Pueblo de Oaxaca, hasta en tanto se elija a la persona titular de la DEFENSORÍA DE LOS DERECHOS HUMANOS DEL PUEBLO DE OAXACA.
 
 NOVENO.- La estructura orgánica de la DEFENSORÍA DE LOS DERECHOS HUMANOS DEL PUEBLO DE OAXACA, entrará en funciones hasta en tanto se le asigne el presupuesto necesario para el desempeño de sus funciones.
+
+P.O. 1 DE OCTUBRE DE 2012.
+
+PRIMERO.- El presente Reglamento entrará en vigor el mismo día de su aprobación, debiéndose publicar en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Se abroga el Reglamento Interno de la Comisión para la Defensa de los Derechos Humanos del Estado Libre y Soberano de Oaxaca aprobada por su Consejo el día 17 de junio de 2008, y publicado en el Periódico Oficial del Gobierno del Estado el día 12 de julio del 2008. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente ordenamiento.
+
+TERCERO.- Toda reforma o adición al presente Reglamento, deberá ser aprobada por el Consejo Ciudadano de la Defensoría y publicado en el Periódico Oficial del Gobierno del Estado.
