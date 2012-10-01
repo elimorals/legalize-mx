@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-27-2012-del-pleno-del-consejo-de-la-89396"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-09-17"
-last_updated: "2012-09-17"
+last_updated: "2012-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89396&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,9 @@ issue_date: "2012-09-06"
 
 ACUERDO GENERAL 27/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL JUZGADO SEXTO DE DISTRITO EN MATERIA ADMINISTRATIVA Y DE TRABAJO EN EL ESTADO DE JALISCO, CON RESIDENCIA EN ZAPOPAN; ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS ÓRGANOS JURISDICCIONALES DE LA MATERIA, ENTIDAD FEDERATIVA Y RESIDENCIA INDICADAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL "ACUERDO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE DETERMINA LA NUEVA FECHA DE INICIO DE FUNCIONES DEL JUZGADO SEXTO DE DISTRITO EN MATERIA ADMINISTRATIVA Y DE TRABAJO EN EL ESTADO DE JALISCO, CON RESIDENCIA EN ZAPOPAN, PRECISADA EN EL ACUERDO GENERAL 27/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL", PUBLICADO EN EL D.O.F. DE 1 DE OCTUBRE DE 2012, LA NUEVA FECHA DE INICIO DE FUNCIONES DEL JUZGADO SEXTO DE DISTRITO EN MATERIAS ADMINISTRATIVA Y DE TRABAJO EN EL ESTADO DE JALISCO, CON RESIDENCIA EN ZAPOPAN, SERÁ EL 16 DE OCTUBRE DE 2012.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE OCTUBRE DE 2012.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 17 de septiembre de 2012.
 
@@ -102,3 +104,15 @@ SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, así c
 TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 17/2012, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los circuitos en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales colegiados y unitarios de Circuito y de los juzgados de Distrito.
 
 EL MAGISTRADO J. GUADALUPE TAFOYA HERNANDEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 27/2012, del Pleno del Consejo de la Judicatura Federal, relativo a la denominación, residencia, competencia, jurisdicción territorial, domicilio y fecha de inicio de funciones del Juzgado Sexto de Distrito en Materia Administrativa y de Trabajo en el Estado de Jalisco, con residencia en Zapopan; así como a las reglas de turno, sistema de recepción y distribución de asuntos entre los órganos jurisdiccionales de la materia, entidad federativa y residencia indicadas, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de ocho de agosto de dos mil doce, por unanimidad de votos de los señores Consejeros: Presidente Ministro Juan N. Silva Meza, Daniel Francisco Cabeza de Vaca Hernández, Juan Carlos Cruz Razo, César Esquinca Muñoa, Jorge Moreno Collado y Manuel Ernesto Saloma Vera.- México, Distrito Federal, a seis de septiembre de dos mil doce.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 1 DE OCTUBRE DE 2012.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO.</small>
+
+PRIMERO.- La nueva fecha de inicio de funciones del Juzgado Sexto de Distrito en Materias Administrativa y de Trabajo en el Estado de Jalisco, con residencia en Zapopan, será el dieciséis de octubre de dos mil doce
+
+SEGUNDO.- El presente acuerdo entrará en vigor el día de su aprobación.
+
+TERCERO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
