@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-del-supremo-tribunal-de-justicia-del-68506"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-11"
-last_updated: "2012-04-13"
+last_updated: "2012-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68506&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO INTERIOR DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el lunes 11 de mayo de 2009.
 
@@ -669,23 +669,33 @@ XXI. Las demás que se deriven de los ordenamientos aplicables, acuerdos del Ple
 
 La Oficialía Mayor, para el despacho de los asuntos de su competencia, contará con los siguientes órganos auxiliares:
 
-I. Área de Administración de Recursos Humanos y Materiales;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2012)</small>
+
+I. Área de Administración de Recursos Humanos;
 
 II. Área de Administración de Recursos Financieros;
 
-III. Área de Sistemas Administrativos;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2012)</small>
 
-IV. Área de Administración General de Archivos Judiciales; y,
+III. Área de Administración de Infraestructura Física, Servicios y Suministros; y,
 
-V. Los demás órganos que se requieran conforme a las necesidades del servicio y que permita el presupuesto de egresos del Poder Judicial.
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2012)</small>
+
+IV. Los demás órganos que se requieran conforme a las necesidades del servicio y que permita el presupuesto de egresos del Poder Judicial.
+
+V. (DEROGADA, P.O. 1 DE OCTUBRE DE 2012)
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 49.
 
-Los órganos auxiliares para el despacho de sus asuntos, estarán a cargo de un Titular y contarán con los servidores públicos que se requieran conforme a las necesidades del servicio, y que permita el presupuesto del Poder Judicial.
+Los órganos auxiliares para el despacho de sus asuntos, estarán a cargo de un Administrador y contarán con los servidores públicos que se requieran conforme a las necesidades del servicio, y que permita el presupuesto del Poder Judicial.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 50.
 
-Corresponde a los Titulares de los órganos auxiliares las siguientes facultades y obligaciones genéricas:
+Corresponde a los Administradores de los órganos auxiliares las siguientes facultades y obligaciones genéricas:
 
 I. Acordar con el superior jerárquico el despacho de los asuntos relevantes de los órganos auxiliares a su cargo y responsabilidad;
 
@@ -701,29 +711,41 @@ VI. Proporcionar la asesoría o cooperación técnica que les sean requeridas; y
 
 VII. Las demás que les confieran y señalen las disposiciones legales relativas, así como las que les competan a sus Unidades o Secciones que se les hubieren adscrito.
 
-#### SECCIÓN II. DEL ÁREA DE ADMINISTRACIÓN DE RECURSOS HUMANOS Y MATERIALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 2012)</small>
+
+#### SECCIÓN II. DEL ÁREA DE ADMINISTRACIÓN DE RECURSOS HUMANOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 51.
 
-Son atribuciones del Titular del Área de Administración de Recursos Humanos y Materiales, las siguientes:
+Son atribuciones del Administrador de Recursos Humanos las siguientes:
 
 I. Llevar el control del personal del Poder Judicial;
 
-II. Definir los criterios y medidas para el adecuado cumplimiento de las atribuciones de las Unidades que estén a su cargo y responsabilidad;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2012)</small>
 
-III. Coordinar la elaboración del anteproyecto de presupuesto de egresos del Poder Judicial, en lo que respecta a los capítulos de recursos humanos, recursos materiales y servicios generales;
+II. Definir los criterios y medidas para el adecuado cumplimiento de las atribuciones de la Unidad a su cargo y responsabilidad;
 
-IV. Vigilar el óptimo aprovechamiento de los bienes propiedad de la institución, de los materiales y servicios generales y adecuada administración de los recursos humanos;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2012)</small>
+
+III. Coordinar la elaboración del anteproyecto de presupuesto de egresos del Poder Judicial, en lo que respecta al capítulo de recursos humanos;
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2012)</small>
+
+IV. Llevar una adecuada administración de los recursos humanos;
 
 V. Revisar y emitir opinión acerca de los contratos, convenios, acuerdos y demás disposiciones de orden interno que deba suscribir el Oficial Mayor;
 
 VI. Efectuar los análisis y estudios necesarios para la elaboración de informes que deba presentar el Oficial Mayor, en lo referente a las actividades de las Unidades a su cargo;
 
-VII. Asegurar la oportunidad y suficiencia en el suministro de los recursos materiales y servicios generales a los órganos jurisdiccionales y dependencias administrativas del Poder Judicial;
+VII. (DEROGADA, P.O. 1 DE OCTUBRE DE 2012)
 
-VIII. Dar seguimiento a los procedimientos de adquisición, control y suministro de los materiales requeridos por las diversas áreas del Poder Judicial, a fin de asegurar su apego a los criterios y normatividad aplicables;
+VIII. (DEROGADA, P.O. 1 DE OCTUBRE DE 2012)
 
-IX. Preparar las respuestas correspondientes que deba presentar el Oficial Mayor, en el rubro de administración de recursos humanos, bienes, recursos materiales y servicios generales, a las observaciones que emita la Auditoría Superior del Estado, que resulten de la práctica de auditorías;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2012)</small>
+
+IX. Preparar las respuestas correspondientes que deba presentar el Oficial Mayor, en el rubro de administración de recursos humanos, a las observaciones que emita la Auditoría Superior del Estado, que resulten de la práctica de auditorías;
 
 X. Informar al Oficial Mayor de las modificaciones, altas o bajas de los servidores públicos que sean sujetos de presentar declaración de situación patrimonial;
 
@@ -731,17 +753,17 @@ XI. Gestionar programas de capacitación y asesoría para el personal adscrito a
 
 XII. Expedir constancias laborales de funcionarios y empleados del Poder Judicial;
 
-XIII. Sustituir al Oficial Mayor en sus ausencias temporales, accidentales o en los asuntos en que aquél tenga un impedimento legal; y,
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2012)</small>
 
-XIV. Las demás que se deriven de las disposiciones legales aplicables, acuerdos del Pleno, del Presidente o del Oficial Mayor.
+XIII. Las demás que se deriven de las disposiciones legales aplicables, acuerdos del Pleno, del Presidente o del Oficial Mayor.
+
+XIV. (DEROGADA, P.O. 1 DE OCTUBRE DE 2012)
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 52.
 
-El Área de Administración de Recursos Humanos y Materiales contará para el ejercicio de sus funciones con las siguientes Unidades:
-
-I. Unidad de Recursos Humanos; y,
-
-II. Unidad de Recursos Materiales y Servicios Generales.
+El Área de Administración de Recursos Humanos contará para el ejercicio de sus funciones con la Unidad de Recursos Humanos.
 
 ###### Artículo 53.
 
@@ -749,7 +771,9 @@ Son atribuciones del Jefe de la Unidad de Recursos Humanos, las siguientes:
 
 I. Coordinar y supervisar la elaboración de documentos impresos o electrónicos relativos a movimientos de personal, pagos, incidencias, y demás relativos, y vigilar que los trámites correspondientes se realicen de manera correcta y oportuna;
 
-II. Elaborar el Anteproyecto de presupuesto de egresos del Poder Judicial, en lo que respecta al rubro de recursos humanos, y someterlo a la consideración del Titular de la Administración de Recursos Humanos y Materiales;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2012)</small>
+
+II. Elaborar el Anteproyecto de presupuesto de egresos del Poder Judicial, en lo que respecta al rubro de recursos humanos, y someterlo a la consideración del Administrador de Recursos Humanos;
 
 III. Operar los mecanismos necesarios para mantener actualizado el catálogo de puestos y el tabulador de sueldos institucional;
 
@@ -763,59 +787,31 @@ VII. Vigilar el cumplimiento de los lineamientos de los sistemas de administraci
 
 VIII. Operar el sistema de elaboración de documentos de identificación de los servidores judiciales;
 
-IX. Rendir los informes que le sean solicitados por el Titular del Área de Administración de Recursos Humanos y Materiales;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2012)</small>
 
-X. Proponer al Titular del Área de Administración de Recursos Humanos y Materiales los criterios y medidas para el adecuado cumplimiento de las atribuciones de la Unidad de Recursos Humanos;
+IX. Rendir los informes que le sean solicitados por el Administrador de Recursos Humanos;
 
-XI. Auxiliar al Titular del Área de Administración de Recursos Humanos y Materiales en las labores que se le encomiende, en el marco de sus atribuciones; y,
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2012)</small>
+
+X. Proponer al Administrador de Recursos Humanos los criterios y medidas para el adecuado cumplimiento de las atribuciones de la Unidad de Recursos Humanos;
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2012)</small>
+
+XI. Auxiliar al Administrador de Recursos Humanos en las labores que se le encomiende, en el marco de sus atribuciones; y,
 
 XII. Las demás que le confieren la Ley Orgánica, el presente Reglamento, o las leyes aplicables.
 
 ###### Artículo 54.
 
-Son atribuciones del Jefe de la Unidad de Recursos Materiales y Servicios Generales, las siguientes:
-
-I. Cuidar que la prestación de los servicios de correspondencia, transporte, vigilancia, intendencia, mantenimiento y conservación de los bienes del Poder Judicial, sea la adecuada y se preste conforme a los lineamientos establecidos;
-
-II. Elaborar el Anteproyecto de presupuesto de egresos del Poder Judicial, en lo que respecta al rubro de recursos materiales y servicios generales y someterlo a la consideración del Titular del Área de Administración de Recursos Humanos y Materiales;
-
-III. Proponer al Titular del Área de Administración de Recursos Humanos y Materiales el programa anual de mantenimiento preventivo y correctivo de los bienes a disposición del Poder Judicial;
-
-IV. Elaborar el programa de visitas periódicas a los distintos inmuebles que ocupe el Poder Judicial para supervisar su estado y adoptar las medidas necesarias para su mantenimiento y funcionalidad;
-
-V. Planificar y gestionar la adquisición del material necesario para la conservación de los bienes del Poder Judicial, así como la contratación de los servicios de mantenimiento que se requieran;
-
-VI. Planear e instrumentar las estrategias y medidas para el uso, protección, y conservación de los bienes a disposición del Poder Judicial;
-
-VII. Programar los pagos de seguro, placas, tenencia y verificación de los vehículos propiedad del Poder Judicial;
-
-VIII. Vigilar la debida observancia de la reglamentación para el otorgamiento de viáticos y combustibles;
-
-IX. Supervisar y controlar las actividades de recepción, guarda, custodia, despacho, registro y distribución de bienes y materiales;
-
-X. Elaborar información comparativa sobre proveedores que presenten las mejores condiciones para la contratación de bienes y servicios que se requieran para el debido cumplimiento de las funciones del Poder Judicial;
-
-XI. Informar al Titular del Área de Administración de Recursos Humanos y Materiales sobre el cumplimiento de los contratos relacionados con las actividades asignadas a la Unidad de Recursos Materiales y Servicios Generales;
-
-XII. Efectuar, de acuerdo con la normatividad aplicable, las adquisiciones de bienes y servicios que se requieran para el cumplimiento de las funciones del Poder Judicial;
-
-XIII. Elaborar y mantener actualizado el inventario de bienes de la Institución y el registro de resguardo de los bienes asignados a los servidores públicos;
-
-XIV. Programar las actividades de los auxiliares de la Unidad de Recursos Materiales y Servicios Generales para que sus labores sean brindadas con las mayores condiciones de eficiencia y eficacia;
-
-XV. Validar las facturas que presenten los contratistas, proveedores y prestadores de servicio, a efecto de que gestionen los pagos correspondientes;
-
-XVI. Rendir los informes que le sean solicitados por el Titular del Área de Administración de Recursos Humanos y Materiales;
-
-XVII. Proponer al Titular del Área de Administración de Recursos Humanos y Materiales los criterios y medidas para el adecuado cumplimiento de las atribuciones de la Unidad de Recursos Materiales y Servicios Generales; y,
-
-XVIII. Las demás que le confieren la Ley Orgánica, el presente Reglamento, o las leyes aplicables.
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2012)
 
 #### SECCIÓN III. DEL ÁREA DE ADMINISTRACIÓN DE RECURSOS FINANCIEROS REGLAMENTO INTERIOR DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO DE SINALOA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 55.
 
-Son atribuciones del Titular del Área de Administración de Recursos Financieros, las siguientes:
+Son atribuciones del Administrador de Recursos Financieros, las siguientes:
 
 I. Llevar la contabilidad del Poder Judicial;
 
@@ -823,11 +819,15 @@ II. Vigilar y verificar el cumplimiento de las normas que regulan las actividade
 
 III. Resguardar la documentación contable del Poder Judicial;
 
-IV. Coordinar la elaboración e integración del anteproyecto de presupuesto de egresos del Poder Judicial, con la colaboración de las Administraciones, Departamentos y Unidades adscritos a Oficialía Mayor, y vigilar que este documento sea acorde con los programas, objetivos y metas de la Institución;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2012)</small>
+
+IV. Coordinar la elaboración e integración del programa operativo anual y del anteproyecto de presupuesto de egresos del Poder Judicial, con la colaboración de las Administraciones, Departamentos y Unidades adscritos a Oficialía Mayor, y vigilar que este documento sea acorde con los programas, objetivos y metas de la Institución;
 
 V. Suministrar a los diversos órganos jurisdiccionales y dependencias administrativas, de acuerdo a la normatividad aplicable, los recursos financieros necesarios para la adecuada prestación de los servicios institucionales y verificar la correcta aplicación de los mismos;
 
-VI. Mantener coordinación con la Secretaría de Administración y Finanzas del Gobierno del Estado de Sinaloa, a efecto de proceder a la aplicación de los recursos presupuestales del Estado o de la Federación asignados al Poder Judicial;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2012)</small>
+
+VI. Mantener coordinación con las áreas competentes del Gobierno del Estado de Sinaloa, para la obtención puntual de los recursos presupuestales calendarizados y a efecto de proceder a la aplicación de los recursos presupuestales del Estado o de la Federación asignados al Poder Judicial;
 
 VII. Supervisar el adecuado y oportuno registro de los activos, pasivos, ingresos y egresos que resulten de las diversas operaciones que se efectúan en el Poder Judicial;
 
@@ -841,77 +841,225 @@ XI. Garantizar la eficiencia del sistema de información contable, control de in
 
 XII. Brindar asesoría en la ejecución de las labores financieras y presupuestarias a todas las áreas destinatarias de recursos presupuestales del Poder Judicial;
 
-XIII. Gestionar programas de capacitación y asesoría informática y contable para el personal adscrito a sus Unidades; y,
+XIII. Gestionar programas de capacitación y asesoría informática y contable para el personal adscrito a sus Unidades; y, (sic)
 
-XIV. Las demás que se deriven de disposiciones legales aplicables, acuerdos del Pleno, del Presidente o del Oficial Mayor.
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2012)</small>
+
+XIV. Sustituir al Oficial Mayor en sus ausencias temporales, accidentales o en los asuntos en que aquél tenga un impedimento legal; y, (sic)
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2012)</small>
+
+XV. Vigilar y validar que las erogaciones se realicen acorde con los objetivos y presupuestos aprobados y que los mismos no excedan el monto del pago previsto para la acción correspondiente;
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2012)</small>
+
+XVI. Validar la procedencia de las transferencias o modificaciones presupuestales destinadas a cargo de los órganos jurisdiccionales y administrativos;
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2012)</small>
+
+XVII. Proponer las inversiones que produzcan los mayores rendimientos a los recursos del Poder Judicial;
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2012)</small>
+
+XVIII. Efectuar oportunamente el pago correspondiente a los proveedores y prestadores de servicio, de conformidad con las disposiciones legales y lineamientos establecidos; y,
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2012)</small>
+
+XIX. Las demás que se deriven de disposiciones legales aplicables, acuerdos del Pleno, del Presidente o del Oficial Mayor.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 56.
 
-El Área de Administración de Recursos Financieros contará para el ejercicio de sus funciones con la Unidad de Contabilidad y Presupuesto.
+El Área de Administración de Recursos Financieros contará para el ejercicio de sus funciones con las siguientes unidades:
+
+I. Unidad de Contabilidad; y,
+
+II. Unidad de Presupuesto.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 57.
 
-Son atribuciones del Jefe de la Unidad de Contabilidad y Presupuesto, las siguientes:
+Son atribuciones del Jefe de la Unidad de Contabilidad, las siguientes:
 
-I. Elaborar con base en los lineamientos establecidos, el anteproyecto de presupuesto de egresos del Poder Judicial, y presentarlo al Titular del Área de Administración de Recursos Financieros para su análisis y validación;
+I. Controlar el ejercicio presupuestal de la Institución mediante la operación de sistemas contables que reflejen, fiel y claramente, las operaciones realizadas;
 
-II. Controlar el ejercicio presupuestal de la Institución mediante la operación de sistemas contables que reflejen, fiel y claramente, las operaciones realizadas;
+II. Elaborar con base en la normatividad aplicable, los informes contables y financieros;
 
-III. Elaborar y someter a consideración del Titular del Área de Administración de Recursos Financieros el proceso de programación y presupuestación del gasto del Poder Judicial;
+III. Preparar las respuestas correspondientes que deba presentar el Oficial Mayor, en el rubro de contabilidad, a las observaciones que emita la Auditoría Superior del Estado;
 
-IV. Realizar los trámites ante la Secretaría de Administración y Finanzas para la liberación de los recursos asignados al Poder Judicial, conforme al calendario establecido;
+IV. Atender y dar cumplimiento a los requerimientos de información durante los procesos de auditoría;
 
-V. Elaborar con base en la normatividad aplicable, los estados contables, financieros, presupuestarios, programáticos, patrimoniales, y en general todo aquél que muestre el registro de las operaciones derivadas de la aplicación del presupuesto;
+V. Rendir los informes que le sean solicitados por el Administrador de Recursos Financieros y la normatividad aplicable;
 
-VI. Elaborar trimestralmente Informe de Avance de Gestión Financiera y presentarlo al Titular del Área de Administración de Recursos Financieros para su validación;
+VI. Proponer al Administrador de Recursos Financieros los criterios y las medidas para el adecuado cumplimiento de las funciones de la Unidad a su cargo; y,
 
-VII. Efectuar oportunamente el pago correspondiente a los proveedores y prestadores de servicio, de conformidad con las disposiciones legales y lineamientos establecidos;
+VII. Las demás que le confieren la Ley Orgánica, el Reglamento, o las leyes aplicables.
 
-VIII. Controlar, depurar, y actualizar tanto en archivos físicos como electrónicos, los documentos e información relativos a la asignación y ejercicio del presupuesto;
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2012)</small>
 
-IX. Preparar las respuestas correspondientes que deba presentar el Oficial Mayor, en el rubro de contabilidad y presupuesto, a las observaciones que emita la Auditoría Superior del Estado, que resulten de la práctica de auditorías;
+###### Artículo 57 Bis.
 
-X. Efectuar, cuando sea necesario, las transferencias, adecuaciones y modificaciones al presupuesto que se requieran para optimizar el ejercicio del gasto;
+Son atribuciones del Jefe de la Unidad de Presupuesto, las siguientes:
 
-XI. Atender y dar cumplimiento a los requerimientos de información durante los procesos de auditorías;
+I. Elaborar con base en los lineamientos establecidos, el anteproyecto de presupuesto de egresos del Poder Judicial, y presentarlo al Administrador de Recursos Financieros para su análisis y validación;
 
-XII. Ejecutar las medidas dictadas por el Titular del Área de Administración de Recursos Financieros para la salvaguarda y conservación de los bienes a disposición del Poder Judicial;
+II. Controlar el ejercicio presupuestal de la Institución mediante la operación de sistemas presupuestales que reflejen, fiel y claramente, las operaciones realizadas;
 
-XIII. Rendir los informes que le sean solicitados por el Titular del Área de Administración de Recursos Financieros;
+III. Elaborar y someter a consideración del Administrador de Recursos Financieros el proceso de programación y presupuestación del gasto del Poder Judicial;
 
-XIV. Proponer al Titular del Área de Administración de Recursos Financieros los criterios y las medidas para el adecuado cumplimiento de las funciones del Departamento de Contabilidad y Presupuesto; y,
+IV. Elaborar con base en la normatividad aplicable, los informes presupuestarios y financieros;
 
-XV. Las demás que le confieren la Ley Orgánica, el Reglamento, o las leyes aplicables.
+V. Elaborar trimestralmente Informe de Avance de Gestión Financiera y presentarlo al Administrador de Recursos Financieros para su validación;
 
-#### SECCIÓN IV. DEL ÁREA DE SISTEMAS ADMINISTRATIVOS
+VI. Controlar, depurar, y actualizar tanto en archivos físicos como electrónicos, los documentos e información relativos a la asignación y ejercicio del presupuesto;
+
+VII. Preparar las respuestas correspondientes que deba presentar el Oficial Mayor, en el rubro de presupuesto, a las observaciones que emita la Auditoría Superior del Estado;
+
+VIII. Efectuar, cuando sea necesario, las transferencias, adecuaciones y modificaciones al presupuesto que se requieran para optimizar el ejercicio del gasto;
+
+IX. Atender y dar cumplimiento a los requerimientos de información durante los procesos de auditoría;
+
+X. Rendir los informes que le sean solicitados por el Administrador de Recursos Financieros;
+
+XI. Proponer al Administrador de Recursos Financieros los criterios y las medidas para el adecuado cumplimiento de las funciones de la Unidad a su cargo; y,
+
+XII. Las demás que le confieren la Ley Orgánica, el Reglamento, o las leyes aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 2012)</small>
+
+#### SECCIÓN IV. DEL ÁREA (SIC) ADMINISTRACIÓN DE INFRAESTRUCTURA FÍSICA, SERVICIOS Y SUMINISTROS
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 58.
 
-Son atribuciones del Titular del Área de Sistemas Administrativos, las siguientes:
+Son atribuciones del Administrador de Infraestructura Física, Servicios y Suministros, las siguientes:
 
-I. Promover la modernización de los sistemas de Información Administrativa para garantizar la eficacia de los procesos a cargo de la Oficialía Mayor;
+I. Diagnosticar, cuantificar, evaluar y presentar un programa anual de trabajo en relación a las necesidades administrativas, dentro de su competencia, de los órganos y dependencias judiciales;
 
-II. Organizar, controlar, promover y evaluar el desarrollo de las actividades de Oficialía Mayor con el propósito de apoyar las funciones administrativas, financieras y contables;
+II. Vigilar la administración de la infraestructura, de los recursos materiales y de los servicios generales que provea el Supremo Tribunal de Justicia a los diversos órganos y dependencias judiciales, certificando la calidad y eficacia administrativa de su instalación, uso y operación, en cumplimiento de las normas y principios de protección civil;
 
-III. Diseñar, desarrollar e implementar sistemas y procesos administrativos que satisfagan las necesidades de agilización, simplificación, mejoramiento y calidad de los procedimientos y actividades de la Oficialía Mayor y sus órganos auxiliares;
+III. Definir los criterios y medidas para el adecuado cumplimiento de las atribuciones de las Unidades que estén a su cargo y responsabilidad;
 
-IV. Proporcionar el mantenimiento a los sistemas existentes, atendiendo los requerimientos de los diferentes órganos auxiliares de la Oficialía Mayor;
+IV. Coordinar la elaboración del anteproyecto de presupuesto de egresos del Poder Judicial, en lo que respecta a los capítulos de recursos materiales, servicios generales e infraestructura;
 
-V. Verificar que los procesos de captura y generación de reportes operen de manera oportuna y permanente, atendiendo los requerimientos de la Oficialía Mayor y sus órganos auxiliares;
+V. Efectuar los análisis y estudios necesarios para la elaboración de informes que deba presentar el Oficial Mayor, en lo referente a las actividades de las Unidades a su cargo;
 
-VI. Asesorar y capacitar a los trabajadores para el uso correcto de los sistemas y procesos administrativos que se aplican en las distintas áreas administrativas, financieras y contables de Oficialía Mayor;
+VI. Asegurar la oportunidad y suficiencia en el suministro de los recursos materiales y servicios generales a los órganos jurisdiccionales y dependencias administrativas del Poder Judicial;
 
-VII. Garantizar la conservación de datos y mantener los mecanismos de seguridad de la información disponible en la Oficialía Mayor;
+VII. Dar seguimiento a los procedimientos de adquisición, control y suministro de los materiales requeridos por las diversas áreas del Poder Judicial, a fin de asegurar su apego a los criterios y normatividad aplicables;
 
-VIII. Atender y coordinar oportunamente los requerimientos de los órganos auxiliares de la Oficialía Mayor sobre la elaboración de proyectos de sistemas en materia administrativa; y,
+VIII. Preparar las respuestas correspondientes que deba presentar el Oficial Mayor, en el rubro de administración de bienes, recursos materiales y servicios generales, a las observaciones que emita la Auditoría Superior del Estado;
 
-IX. Las demás que le confieren la Ley Orgánica, el presente Reglamento, o que le encomiende el Oficial Mayor.
+IX. Gestionar programas de capacitación y asesoría para el personal adscrito a sus Unidades; y,
 
-#### SECCIÓN V. DEL ÁREA DE ADMINISTRACIÓN GENERAL DE ARCHIVOS JUDICIALES
+X. Las demás que se deriven de las disposiciones legales aplicables, acuerdos del Pleno, del Presidente o del Oficial Mayor.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 58 Bis.
+
+El Área de Administración de Infraestructura Física, Servicios y Suministros contará para el ejercicio de sus funciones con las siguientes unidades:
+
+I. Una Unidad de Infraestructura;
+
+II. Una Unidad de Recursos Materiales;
+
+III. Una Unidad de Servicios Generales; y,
+
+IV. Los demás órganos que se requieran conforme a las necesidades del servicio y que permita el presupuesto de egresos del Poder Judicial.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 58 Bis-A.
+
+Son atribuciones del Jefe de la Unidad de Infraestructura, las siguientes:
+
+I. Diseñar y proponer estrategias de acción en relación con las prioridades de innovación y modernización;
+
+II. Elaborar y supervisar proyectos en sistemas eléctricos y cableado estructurado, verificando que las instalaciones correspondientes cumplan con lo establecido en los estándares y normas de calidad internacionales;
+
+III. Diseñar, elaborar y proponer las estrategias y los lineamientos generales para el manejo de riesgos en las instalaciones judiciales, incluyendo los planes de contingencia, manuales de seguridad laboral y la evaluación del impacto ambiental;
+
+IV. Rendir los informes que le sean solicitados por el Administrador de Infraestructura Física, Servicios y Suministros;
+
+V. Proponer al Administrador de Infraestructura Física, Servicios y Suministros los criterios y medidas para el adecuado cumplimiento de las atribuciones de la Unidad de Infraestructura;
+
+VI. Auxiliar al Administrador de Infraestructura Física, Servicios y Suministros en las labores que se le encomiende, en el marco de sus atribuciones;
+
+VII. Validar las facturas que presenten los contratistas, a efecto de que gestionen los pagos correspondientes; y,
+
+VIII. Las demás que le confieren la Ley Orgánica, el presente Reglamento, o las leyes aplicables.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 58 Bis-B.
+
+Son atribuciones del Jefe de la Unidad de Recursos Materiales, las siguientes:
+
+I. Garantizar el oportuno y suficiente suministro de recursos materiales a los órganos y dependencias judiciales, para ello tendrá a su cargo la compra de insumos, suministros y combustibles, así como la dotación de viáticos a los servidores judiciales en cumplimiento de comisiones;
+
+II. Tendrá a su cargo y disposición un inmueble para solventar provisionalmente las compras en volumen y los procesos de resguardo y bajas de bienes, y procurará el equilibrio ecológico mediante la canalización de dichas bajas hacia los organismos correspondientes.
+
+III. Elaborar el Anteproyecto de presupuesto de egresos del Poder Judicial, en lo que respecta al rubro de recursos materiales y someterlo a la consideración del Administrador de Infraestructura Física, Servicios y Suministros;
+
+IV. Vigilar la debida observancia de la reglamentación para el otorgamiento de viáticos y combustibles;
+
+V. Elaborar información comparativa sobre proveedores que presenten las mejores condiciones para la contratación de bienes que se requieran para el debido cumplimiento de las funciones del Poder Judicial;
+
+VI. Gestionar, de acuerdo con la normatividad aplicable, las adquisiciones de bienes que se requieran para el cumplimiento de las funciones del Poder Judicial;
+
+VII. Validar las facturas que presenten los proveedores, a efecto de que gestionen los pagos correspondientes;
+
+VIII. Rendir los informes que le sean solicitados por el Administrador de Infraestructura Física, Servicios y Suministros;
+
+IX. Proponer al Administrador de Infraestructura Física, Servicios y Suministros los criterios y medidas para el adecuado cumplimiento de las atribuciones de la Unidad de Recursos Materiales;
+
+X. Administrar el almacén de insumos menores de oficina y de enseres propios de las diversas funciones, y el suministro de los órganos y dependencia judiciales;
+
+XI. Auxiliar al Administrador de Infraestructura Física, Servicios y Suministros en las labores que se le encomiende, en el marco de sus atribuciones; y,
+
+XII. Las demás que le confieren la Ley Orgánica, el presente Reglamento, o las leyes aplicables.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 58 Bis-C.
+
+Son atribuciones del Jefe de la Unidad de Servicios Generales, las siguientes:
+
+I. Administrar el mantenimiento de los edificios y recintos públicos que ocupan los órganos y las dependencias judiciales en su fase de operación, con la finalidad de mantener en las mejores condiciones físicas y decorosas dichas instalaciones;
+
+II. Coordinar a los proveedores de servicios institucionales y de mantenimiento que se contraten, y para su auxilio tendrá a su disposición y cargo inmediato los auxiliares administrativos suficientes, quienes deberán especializarse en cada uno de los oficios para el que sean requeridos;
+
+III. Cuidar que la prestación de los servicios de correspondencia, transporte, intendencia, mantenimiento y conservación de los bienes del Poder Judicial, sea la adecuada y se preste conforme a los lineamientos establecidos;
+
+IV. Elaborar el Anteproyecto de presupuesto de egresos del Poder Judicial, en lo que respecta al rubro de servicios generales y someterlo a la consideración del Administrador de Infraestructura Física, Servicios y Suministros;
+
+V. Rendir los informes que le sean solicitados por el Administrador de Infraestructura Física, Servicios y Suministros;
+
+VI. Proponer al Administrador de Infraestructura Física, Servicios y Suministros los criterios y medidas para el adecuado cumplimiento de las atribuciones de la Unidad de Servicios Generales;
+
+VII. Auxiliar al Administrador de Infraestructura Física, Servicios y Suministros en las labores que se le encomiende, en el marco de sus atribuciones;
+
+VIII. Administrar el inventario del Poder Judicial del Estado, comprendiéndose en este concepto los bienes muebles e inmuebles adquiridos bajo cualquier forma de contrato por el Supremo Tribunal de Justicia, y los proporcionados por el Gobierno del Estado, así como los vehículos motrices, mobiliario, equipo de oficina y tecnológico;
+
+IX. Dar mantenimiento preventivo y correctivo de los bienes del Poder Judicial, procurando que éste no sufra menoscabo o se inutilice prematuramente.
+
+X. Programar los pagos de seguro, placas, tenencia y verificación de los vehículos propiedad del Poder Judicial;
+
+XI. Validar las facturas que presenten los prestadores de servicio, a efecto de que gestionen los pagos correspondientes; y,
+
+XII. Las demás que le confieren la Ley Orgánica, el presente Reglamento, o las leyes aplicables.
+
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 1 DE OCTUBRE DE 2012)</small>
+
+#### SECCIÓN V
 
 ###### Artículo 59.
 
-Son atribuciones del Administrador General de Archivos Judiciales, los previstos en el Reglamento de Archivos Judiciales y Biblioteca del Supremo Tribunal de Justicia del Estado de Sinaloa.
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2012
 
 ### CAPÍTULO II. DEL INSTITUTO DE CAPACITACIÓN JUDICIAL DE SU COMPETENCIA Y ORGANIZACIÓN
 
@@ -1107,15 +1255,21 @@ El Departamento de Apoyo Logístico y Administrativo estará conformado por el n
 
 El personal asignado a este departamento tendrá a su cargo la logística material de los eventos organizados por el Instituto así como el apoyo administrativo de esa oficina.
 
-### CAPÍTULO III. DE LA DIRECCIÓN DE INFORMÁTICA Y ESTADÍSTICA DE SU COMPETENCIA Y ORGANIZACIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 2012)</small>
+
+### CAPÍTULO III. DIRECCIÓN DE TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONES
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 71.
 
-La Dirección de Informática y Estadística, es la encargada de fijar las bases de la política informática que permitan conocer y planear el desarrollo tecnológico al interior del Poder Judicial.
+La Dirección de Tecnologías de la Información y Comunicaciones, es la encargada de fijar las bases de la política informática que permitan conocer y planear el desarrollo tecnológico al interior del Poder Judicial.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 72.
 
-A la Dirección de Informática y Estadística le corresponde:
+A la Dirección de Tecnologías de la Información y Comunicaciones le corresponde:
 
 I. Registrar y sistematizar los soportes estadísticos de cada uno de los órganos del Poder Judicial;
 
@@ -1135,7 +1289,9 @@ VIII. Diseñar e implementar redes de computadoras en diversos órganos jurisdic
 
 IX. Configurar y administrar la infraestructura de red y comunicaciones para la conectividad a la red estatal de telecomunicaciones del Poder Judicial;
 
-X. Dar mantenimiento preventivo y correctivo al equipo de cómputo del Poder Judicial;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2012)</small>
+
+X. Dar mantenimiento preventivo y correctivo, a través de la mesa de ayuda, al equipo de cómputo del Poder Judicial;
 
 XI. Coordinar las actividades de investigación, análisis, desarrollo, implementación y actualización de sistemas y programas informáticos para satisfacer las necesidades de las diferentes áreas del Poder Judicial;
 
@@ -1159,257 +1315,329 @@ XX. Mantener actualizado el inventario de bienes informáticos; y,
 
 XXI. Las demás que se deriven de los ordenamientos aplicables, acuerdos del Pleno o del Presidente.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 73.
 
-La Dirección de Informática y Estadística, para el despacho de los asuntos de su competencia, contará con:
+La Dirección de tecnologías de la información y comunicaciones, para el despacho de los asuntos de su competencia, contará con:
 
-I. Un Director de Informática y Estadística;
+I. Un Director;
 
-II. Un Subdirector;
+II. Un Administrador de Proyectos y Estándares Tecnológicos;
 
-III. Jefe del Departamento de Sistemas;
+III. Un Administrador de Bienes Informáticos;
 
-IV. Jefes de Departamento de Informática Regionales;
+IV. Un Departamento de Sistemas de Información de Desarrollo Administrativo;
 
-V. Unidad de Soporte Técnico;
+V. Un Departamento de Sistemas de Información de Apoyo jurisdiccional;
 
-VI. Unidad de Redes y Telecomunicaciones;
+VI. Departamentos de Tecnologías de la Información y Comunicaciones Regionales;
 
-VII. Unidad de Diseño Gráfico y Portal de Internet; y,
+VII. Un Departamento de Administración de Bases de Datos y Dominios; y,
 
-VIII. El demás personal técnico administrativo que se requiera conforme a las necesidades del servicio, y que permita el presupuesto del Poder Judicial.
+VIII. El demás personal de soporte técnico y administrativo que se requiera conforme a las necesidades del servicio, y que permita el presupuesto del Poder Judicial.
 
-#### SECCIÓN I. DEL DIRECTOR DE INFORMÁTICA Y ESTADÍSTICA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 2012)</small>
+
+#### SECCIÓN I. DEL DIRECTOR DE TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 74.
 
-Son atribuciones del Director de Informática y Estadística, las siguientes:
+Son atribuciones del Director de Tecnologías de la Información y Comunicaciones, las siguientes:
 
-I. Realizar estudios de viabilidad para la implementación de soluciones tecnológicas;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2012)</small>
 
-II. Organizar las actividades al interior de la Dirección;
+I. Realizar estudios de viabilidad para la implementación de soluciones tecnológicas para el desarrollo administrativo y de apoyo a la función jurisdiccional;
 
-III. Supervisar el cumplimiento de cada una de las acciones dirigidas;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2012)</small>
+
+II. Organizar las actividades al interior de la Dirección, las cuales deberán estar orientadas al Plan de Desarrollo Institucional y los lineamientos aplicables a su área;
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2012)</small>
+
+III. Supervisar y evaluar el cumplimiento de cada una de las acciones dirigidas;
 
 IV. Dar cumplimiento a las indicaciones del Pleno y del Presidente;
 
-V. Informar al Pleno y Presidencia de los avances de programas y proyectos en materia de Informática;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2012)</small>
+
+V. Informar al Pleno y Presidencia de los avances de programas y proyectos en materia de la información y comunicaciones;
 
 VI. Desempeñar las funciones y comisiones especiales que el Presidente del Supremo Tribunal le confiera y mantenerlo informado sobre su desarrollo y ejecución;
 
 VII. Dirigir y promover las políticas de seguridad sobre información, sistemas y programas informáticos, respaldos, recuperación de bases de datos y sitio de internet del Poder Judicial;
 
-VIII. Coordinar las jefaturas de informática respecto a informes de labores y requerimientos administrativos;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2012)</small>
 
-IX. Representar al Poder Judicial ante el Consejo Estatal de Seguridad Pública, en la gestión y administración de los recursos que se le asignen, ejerciéndolos en coordinación con la dependencia a la que se destinen; y,
+VIII. Coordinar las áreas a su cargo respecto a informes de labores y requerimientos administrativos;
 
-X. Las demás que se deriven de los ordenamientos aplicables, acuerdos del Pleno o del Presidente.
+IX. Representar al Poder Judicial ante el Consejo Estatal de Seguridad Pública, en la gestión y administración de los recursos que se le asignen, ejerciéndolos en coordinación con la dependencia a la que se destinen; y (sic),
 
-#### SECCIÓN II. DEL SUBDIRECTOR DE INFORMÁTICA Y ESTADÍSTICA
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2012)</small>
+
+X. Mantener actualizado el inventario de bienes informáticos del Poder Judicial;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE OCTUBRE DE 2012)</small>
+
+XI. Llevar a cabo la verificación y recepción de los equipos de cómputo adquiridos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE OCTUBRE DE 2012)</small>
+
+XII. Configurar e instalar los programas que requieran los equipos de cómputo del Poder Judicial;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE OCTUBRE DE 2012)</small>
+
+XIII. Vigilar y mantener el funcionamiento de los sistemas de grabación de audio y video aplicados a juicios orales del Poder Judicial;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE OCTUBRE DE 2012)</small>
+
+XIV. Aplicar el mantenimiento preventivo y correctivo al equipo de cómputo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE OCTUBRE DE 2012)</small>
+
+XV. Atender auditorías de inventario de bienes informáticos practicadas por autoridades competentes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE OCTUBRE DE 2012)</small>
+
+XVI. Elaborar informes estadísticos mensuales y los que se le soliciten;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE OCTUBRE DE 2012)</small>
+
+XVII. Brindar asesoría y servicios de soporte técnico a usuarios;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE OCTUBRE DE 2012)</small>
+
+XVIII. Administrar el sistema de video vigilancia del Supremo Tribunal de Justicia y elaborar informes de incidentes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE OCTUBRE DE 2012)</small>
+
+XIX. Administrar y supervisar el correcto funcionamiento de las redes y telecomunicaciones del Poder Judicial; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE OCTUBRE DE 2012)</small>
+
+XX. Las demás que se deriven de los ordenamientos aplicables, acuerdos del Pleno o del Presidente.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 2012)</small>
+
+#### SECCIÓN II. DEL ADMINISTRADOR DE PROYECTOS Y ESTÁNDARES TECNOLOGÍCOS; (SIC)
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 75.
 
-Son atribuciones del Subdirector, las siguientes:
+Son atribuciones del Administrador de Proyectos y Estándares Tecnológicos, las siguientes:
+
+I. Administrar los proyectos y estándares tecnológicos del Poder Judicial;
+
+II. Auxiliar al Director en el ejercicio de sus atribuciones, dentro del ámbito de sus respectivas competencias;
+
+III. Acordar con el Director los asuntos a su cargo;
+
+IV. Coordinar la documentación de los procesos informáticos;
+
+V. Coordinar la elaboración de los manuales de sistemas;
+
+VI. Administrar el buen funcionamiento del servicio de mesa de ayuda; y,
+
+VII. Las demás que se deriven de los ordenamientos aplicables, acuerdos del Pleno o del Presidente.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 2012)</small>
+
+#### SECCIÓN III. DEL ADMINISTRADOR DE BIENES INFORMÁTICOS
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 76.
+
+Son atribuciones del Administrador de Bienes Informáticos, las siguientes:
+
+I. Administrar los bienes informáticos del Poder Judicial;
+
+II. Auxiliar al Director en el ejercicio de sus atribuciones, dentro del ámbito de sus respectivas competencias;
+
+III. Acordar con el Director los asuntos a su cargo;
+
+IV. Llevar a cabo la documentación de los procesos administrativos, y,
+
+V. Las demás que se deriven de los ordenamientos aplicables, acuerdos del Pleno o del Presidente.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 2012)</small>
+
+#### SECCIÓN IV. DEL DEPARTAMENTO DE SISTEMAS DE INFORMACIÓN PARA EL DESARROLLO ADMINISTRATIVO
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2012)</small>
+
+#### SECCIÓN V. DEL DEPARTAMENTO DE SISTEMAS DE INFORMACIÓN DE APOYO JURISDICCIONAL
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2012)</small>
+
+#### SECCIÓN VI. DE LOS DEPARTAMENTOS DE TECNOLOGÍAS DE INFORMACIÓN Y COMUNICACIONES REGIONALES ZONA NORTE, CENTRO Y SUR
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 77.
+
+Son atribuciones del Jefe del Departamento de Sistemas de Información para el Desarrollo Administrativo, las siguientes:
 
 I. Auxiliar al Director en el ejercicio de sus atribuciones, dentro del ámbito de sus respectivas competencias;
 
 II. Acordar con el Director los asuntos a su cargo;
 
-III. Coordinar las Jefaturas de Informática; Unidades de soporte técnico, de redes y telecomunicaciones; y diseño gráfico y portal de internet;
+III. Apoyar en los proyectos definidos respecto al desarrollo de programas y plataformas informáticas del área administrativa;
 
-IV. Aplicar y vigilar las normas y estándares de la red de telecomunicaciones;
+IV. Coordinar e informar el desarrollo de sistemas informáticos para las dependencias administrativas del Poder Judicial;
 
-V. Diseñar e implementar el plan de respaldos de información;
+V. Planear, preparar y dirigir la implementación de los sistemas de información para el desarrollo administrativo del Poder Judicial;
 
-VI. Garantizar la seguridad de la información coordinando sistemas de protección contra acciones que representen amenazas;
+VI. Supervisar el mantenimiento y las actualizaciones surgidas de nuevos requerimientos en los aplicativos implementados;
 
-VII. Planificar y desarrollar propuestas para modernizar en el renglón informático y tecnológico al Poder Judicial;
+VII. Planear y organizar la capacitación y asesoría a los usuarios que operan los sistemas de información administrativa del Poder Judicial;
 
-VIII. Representar al Supremo Tribunal ante las entidades públicas en materia de desarrollo tecnológico aplicables a infraestructura informática y tecnológica;
+VIII. Integrar y mantener actualizada la documentación técnica de los sistemas de información administrativo en coordinación con el administrador de bienes informáticos;
 
-IX. Coordinar el inventario de bienes informáticos y resguardos de las dependencias del Poder Judicial;
+IX. Supervisar el cabal cumplimiento de cada una de las acciones que realiza el personal a su cargo;
 
-X. Fomentar la profesionalización y capacitación del personal de Informática; y,
+X. Promover la modernización de los sistemas de Información Administrativa para garantizar la eficacia de los procesos a cargo de la Oficialía Mayor; y,
 
-XI. Las demás que deriven de las disposiciones legales aplicables, acuerdos del Pleno, del Presidente o del Director.
+XI. Las demás que acuerde el Pleno, el Presidente, o el Director.
 
-#### SECCIÓN III. DEL JEFE DEL DEPARTAMENTO DE SISTEMAS
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADA, P.O. 1 DE OCTUBRE DE 2012)</small>
 
-###### Artículo 76.
+#### SECCIÓN VII. DEL DEPARTAMENTO DE ADMINISTRACIÓN DE BASES DE DATOS Y DOMINIO
 
-Son atribuciones del Jefe del Departamento de Sistemas, las siguientes:
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2012)</small>
 
-I. Auxiliar al Director y Subdirector en el ejercicio de sus atribuciones, dentro del ámbito de sus respectivas competencias;
+###### Artículo 77 Bis.
 
-II. Acordar con el Director y Subdirector los asuntos a su cargo;
+Son atribuciones del Jefe del Departamento de Sistemas de Información de Apoyo Jurisdiccional, las siguientes:
+
+I. Auxiliar al Director en el ejercicio de sus atribuciones, dentro del ámbito de sus respectivas competencias;
+
+II. Acordar con el Director los asuntos a su cargo;
 
 III. Apoyar en los proyectos definidos respecto al desarrollo de programas y plataformas informáticas;
 
-IV. Coordinar e informar el desarrollo de sistemas informáticos para las dependencias del Poder Judicial;
+IV. Coordinar y determinar el desarrollo de sistemas de información para los órganos jurisdiccionales del Poder Judicial;
 
-V. Analizar y diseñar las bases de datos para los sistemas informáticos;
+V. Planear, preparar y dirigir la implementación de los sistemas de información de apoyo jurisdiccional;
 
-VI. Supervisar el desarrollo de los sistemas de aplicación;
+VI. Supervisar el mantenimiento y las actualizaciones surgidas de nuevos requerimientos en los aplicativos implementados;
 
-VII. Planear, preparar y dirigir la implementación de los sistemas informáticos;
+VII. Planear y organizar la capacitación y asesoría a los usuarios que operan los sistemas informáticos;
 
-VIII. Supervisar el mantenimiento y las actualizaciones surgidas de nuevos requerimientos en los aplicativos implementados;
+VIII. Coordinarse con los departamentos de tecnologías de la información y comunicaciones regionales para la instalación y mantenimiento de los sistemas informáticos;
 
-IX. Planear y organizar la capacitación y asesoría a los usuarios que operan los sistemas informáticos;
+IX. Realizar los informes y estadísticas mensuales y anuales, así como los que se le soliciten;
 
-X. Coordinarse con las jefaturas de informática regionales para la instalación y mantenimiento de los sistemas informáticos;
+X. Integrar y mantener actualizada la documentación técnica de los sistemas de información jurisdiccional en coordinación con el administrador de proyectos informáticos;
 
-XI. Realizar los informes y estadísticas mensuales y anuales, así como los que se le soliciten;
+XI. Supervisar el cabal cumplimiento de cada una de las acciones que realiza el personal de esta área; y,
 
-XII. Integrar y mantener actualizada la documentación técnica de los sistemas informáticos;
+XII. Las demás que acuerde el Pleno, el Presidente, o el Director.
 
-XIII. Supervisar el cabal cumplimiento de cada una de las acciones que realiza el personal de esta área; y,
-
-XIV. Las demás que acuerde el Pleno, el Presidente, el Director o el Subdirector.
-
-#### SECCIÓN IV. DE LOS DEPARTAMENTOS DE INFORMÁTICA REGIONALES
-
-#### SECCIÓN V. DE LA UNIDAD DE SOPORTE TÉCNICO
-
-#### SECCIÓN VI. DE LA UNIDAD DE REDES Y TELECOMUNICACIONES
-
-###### Artículo 77.
-
-La Dirección de Informática y Estadística contará con Departamentos Regionales en las siguientes Zonas:
-
-I. Zona Norte, con residencia en la ciudad de Los Mochis, proporcionará el servicio a los Distritos Judiciales de Ahome, El Fuerte, Choix, Guasave, Sinaloa, Angostura y Salvador Alvarado; y,
-
-II. Zona Sur, con residencia en la ciudad de Mazatlán, proporcionará el servicio en los Distritos Judiciales de Elota, Cosalá, San Ignacio, Mazatlán, Concordia, Rosario y Escuinapa.
-
-#### SECCIÓN VII. DE LA UNIDAD DE DISEÑO GRÁFICO Y PORTAL DE INTERNET
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADA, P.O. 1 DE OCTUBRE DE 2012)</small>
 
 #### SECCIÓN I. DE LOS VISITADORES
 
 ###### Artículo 78.
 
-Son atribuciones de los Jefes de Departamentos de Informática Regionales, las siguientes:
+La Dirección contará con Departamentos de Tecnologías de Información y Comunicaciones Regionales en las siguientes Zonas:
 
-I. Auxiliar al Director y Subdirector en el ejercicio de sus atribuciones, dentro del ámbito de sus respectivas competencias;
+I. Zona Norte , con residencia en la ciudad de Los Mochis, proporcionará el servicio a los Distritos Judiciales de Ahome, El Fuerte, Choix, Guasave, Sinaloa, Angostura Salvador Alvarado y Mocorito;
 
-II. Acordar con el Director y Subdirector los asuntos del área a su cargo;
+II. Zona Centro, con residencia en la cuidad de Culiacán Rosales, proporcionará el servicio a los Distritos Judiciales de Culiacán, Badiraguato y Navolato; y,
 
-III. Mantener el correcto funcionamiento de los sistemas informáticos aplicados en las dependencias a su cargo en coordinación con el Departamento de Sistemas;
+III. Zona Sur, con residencia de la cuidad de Mazatlán, proporcionará el servicio en los Distritos Judiciales de Elota, Cosalá, San Ignacio, Mazatlán, Concordia, Rosario y Escuinapa.
 
-IV. Mantener el correcto funcionamiento de las redes y telecomunicaciones en coordinación con el Subdirector de Informática y Estadística;
-
-V. Instalar y aplicar mantenimiento al equipamiento y sistemas informáticos;
-
-VI. Configurar e instalar los programas que requieran los equipos de cómputo;
-
-VII. Garantizar la seguridad de la información actualizando los sistemas de protección contra acciones que representen amenazas;
-
-VIII. Proporcionar capacitación y asesoría a usuarios a su cargo;
-
-IX. Otorgar soporte técnico a los usuarios;
-
-X. Atender los requerimientos de materiales informáticos y enviarlas a la Dirección de Informática para su aprobación;
-
-XI. Recopilar mensualmente archivos y bases de datos de cada dependencia a su cargo para actualizar el banco de datos regional;
-
-XII. Operar el plan de respaldos de archivos y base de datos y recuperar información respaldada;
-
-XIII. Elaborar informes estadísticos mensuales y las que se le soliciten;
-
-XIV. Procesar las listas de acuerdos e incorporarlas al portal de Internet;
-
-XV. Integrar y mantener actualizada la documentación técnica de los recursos compartidos de red, permisos y usuarios;
-
-XVI. Vigilar y mantener el correcto funcionamiento de los sistemas de grabación de audio y video aplicados a juicios orales; y,
-
-XVII. Las demás que acuerde el Pleno, el Presidente, el Director o el Subdirector.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 79.
 
-Son atribuciones del responsable de la Unidad de Soporte Técnico, las siguientes:
+Son atribuciones de los Jefes de Departamento de Tecnologías de Información y Comunicaciones Regionales de Zona en sus respectivas circunscripciones, las siguientes:
 
-I. Auxiliar al Subdirector en el ejercicio de sus atribuciones, dentro del ámbito de sus respectivas competencias;
+I. Auxiliar al Director en el ejercicio de sus atribuciones, dentro del ámbito de sus respectivas competencias;
 
-II. Acordar con el Subdirector los asuntos de la Unidad a su cargo;
+II. Acordar con el Director los asuntos del área a su cargo;
 
-III. Instalar el cableado estructurado de redes;
+III. Mantener el correcto funcionamiento de los sistemas informáticos aplicados en la zona a su cargo en coordinación con el Departamento de Sistemas;
 
-IV. Mantener actualizado el inventario de bienes informáticos del Poder Judicial;
+IV. Instalar y aplicar mantenimiento al equipamiento y sistemas informáticos;
 
-V. Verificar la recepción de los equipos de cómputo adquiridos;
+V. Configurar e instalar los programas que requieran los equipos de cómputo;
 
-VI. Configurar e instalar los programas que requieran los equipos de cómputo del Poder Judicial;
+VI. Proporcionar capacitación y asesoría a usuarios a su cargo;
 
-VII. Vigilar y mantener el funcionamiento de los sistemas de grabación de audio y video aplicados a juicios orales del Poder Judicial;
+VII. Otorgar soporte técnico a los usuarios;
 
-VIII. Aplicar el mantenimiento preventivo y correctivo al equipo de cómputo;
+VIII. Atender los requerimientos de materiales informáticos y enviarlos a la Dirección para su aprobación;
 
-IX. Investigar y proponer tecnología de vanguardia;
+IX. Elaborar informes estadísticos mensuales y los que se le soliciten;
 
-X. Atender auditorías de inventario de bienes informáticos practicadas por autoridades competentes;
+X. Vigilar y mantener el correcto funcionamiento de los sistemas de grabación de audio y video aplicados a juicios orales de la zona a su cargo;
 
-XI. Brindar asesoría y servicios de soporte técnico a usuarios;
+XI. Mantener actualizado el inventario de bienes informáticos del Poder Judicial adscritos en su zona;
 
-XII. Implementar y administrar el sistema integral de Seguridad Informática y el despliegue de políticas del Poder Judicial;
+XII. Verificar la recepción de los equipos de cómputo adquiridos;
 
-XIII. Garantizar la seguridad de la información actualizando los sistemas de protección contra acciones que representen amenazas en el Poder Judicial;
+XIII. Configurar e instalar los programas que requieran los equipos de cómputo;
 
-XIV. Administrar el sistema de video vigilancia del Supremo Tribunal de Justicia y elaborar informes de incidentes;
+XIV. Aplicar el mantenimiento preventivo y correctivo al equipo de cómputo;
 
-XV. Elaborar el dictamen técnico para el proceso de licitación de bienes e insumos informáticos; y,
+XV. Atender auditorías de inventario de bienes informáticos practicadas por autoridades competentes en la zona a su cargo;
 
-XVI. Las demás que acuerde el Pleno, el Presidente, el Director o el Subdirector.
+XVI. Brindar asesoría y servicios de soporte técnico a usuarios;
+
+XVII. Las demás que acuerde el Pleno, el Presidente o el Director.
+
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADA, P.O. 1 DE OCTUBRE DE 2012)</small>
 
 #### SECCIÓN I. DEL COORDINADOR DE LA UNIDAD DE ACCESO A LA INFORMACIÓN PÚBLICA
 
 ###### Artículo 80.
 
-Son atribuciones del Administrador de redes y telecomunicaciones, las siguientes:
+Son atribuciones del Jefe de Departamento de Administración de Bases de Datos y Dominio, las siguientes:
 
-I. Auxiliar al Subdirector en el ejercicio de sus atribuciones, dentro del ámbito de sus respectivas competencias;
+I. Auxiliar al Director en el ejercicio de sus atribuciones, dentro del ámbito de sus respectivas competencias;
 
-II. Acordar con el Subdirector los asuntos de la Unidad a su cargo;
+II. Analizar y diseñar las bases de datos para los sistemas informáticos;
 
-III. Dar seguimiento y vigilar el buen funcionamiento de la arquitectura de las redes y telecomunicaciones del Poder Judicial;
+III. Garantizar la seguridad de la información actualizando los sistemas de protección contra acciones que representen amenazas;
 
-IV. Integrar y mantener actualizada la documentación técnica de los servidores de red, recursos compartidos y usuarios;
+IV. Recopilar archivos y bases de datos de cada dependencia a su cargo para actualizar el banco de datos regional;
 
-V. Supervisar el correcto funcionamiento de los servidores de red del Poder Judicial;
+V. Crear y operar el plan de respaldos de archivos y base de datos y recuperar información respaldada;
 
-VI. Operar el plan de respaldos de archivos y base de datos, y recuperar información respaldada;
+VI. Integrar y mantener actualizada la documentación técnica de los recursos compartidos de red, permisos y usuarios;
 
-VII. Vigilar el correcto funcionamiento de los enlaces de comunicaciones de la red del Poder Judicial y realizar los mantenimientos correctivos a las mismas;
+VII. Implementar y administrar el sistema de Seguridad Informática y el despliegue de políticas del Poder Judicial;
 
 VIII. Controlar el acceso de usuarios a la red y permisos a los recursos compartidos;
 
-IX. Mantener actualizado el compendio de Leyes y Jurisprudencia;
+IX. Mantener los equipos de cómputo libres malware;
 
-X. Aplicar mantenimientos preventivos y correctivos a servidores y redes del Poder Judicial; y,
+X. Optimizar el desempeño de las bases de datos;
 
-XI. Las demás que acuerde el Pleno, el Presidente, el Director o el Subdirector.
+XI. Cuidar la integridad de la información;
+
+XII. Implementar políticas de seguridad, privilegios y despliegues del dominio;
+
+XIII. Administrar y actualizar los sitios webs del Poder Judicial;
+
+XIV. Coordinar los proyectos de diseño gráfico institucionales;
+
+XV. Mantener el correcto funcionamiento del servicio antivirus de los equipos informáticos;
+
+XVI. Atender las solicitudes de diseños gráficos y elaboración de prototipos diversos del Poder Judicial;
+
+XVII. Diseñar y producir material de multimedia del Poder Judicial; y,
+
+XVIII. Las demás que acuerde el Pleno, el Presidente, o el Director.
 
 ###### Artículo 81.
 
-Son atribuciones del diseñador gráfico, las siguientes:
-
-I. Auxiliar al Subdirector en el ejercicio de sus funciones, dentro del ámbito de sus respectivas competencias;
-
-II. Acordar con el Subdirector los asuntos de la Unidad a su cargo;
-
-III. Atender las solicitudes de diseños gráficos y elaboración de prototipos diversos del Poder Judicial;
-
-IV. Mantener actualizado el sitio de Internet del Supremo Tribunal;
-
-V. Procesar las listas de acuerdos del Poder Judicial;
-
-VI. Recopilar y procesar los edictos judiciales para su publicación en la página de Internet en coordinación con la Dirección del Periódico Oficial “El Estado de Sinaloa”;
-
-VII. Asesorar a usuarios en la elaboración de diseños gráficos básicos;
-
-VIII. Diseñar y producir material de multimedia del Poder Judicial;
-
-IX. Impresión de estadísticas del Poder Judicial; y,
-
-X. Las demás que acuerde el Pleno, el Presidente, el Director o el Subdirector.
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2012)
 
 ### CAPÍTULO IV. DE LA VISITADURÍA JUDICIAL DE SU COMPETENCIA Y ORGANIZACIÓN
 
@@ -1512,5 +1740,15 @@ P.O. 13 DE ABRIL DE 2012.
 El presente Acuerdo entrará en vigor el día de su aprobación.
 
 ###### ARTÍCULO SEGUNDO.
+
+Publíquese el presente Acuerdo en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 1 DE OCTUBRE DE 2012.
+
+###### ARTICULO PRIMERO.
+
+El presente Acuerdo entrará en vigor el día de su aprobación.
+
+###### ARTICULO SEGUNDO.
 
 Publíquese el presente Acuerdo en el Periódico Oficial "El Estado de Sinaloa".
