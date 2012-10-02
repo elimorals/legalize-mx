@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-848-de-transparencia-y-acceso-a-la-informacion-54691
 country: "mx"
 rank: "ley"
 publication_date: "2007-02-27"
-last_updated: "2011-07-05"
+last_updated: "2012-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY NUMERO 848 DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY 848 DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA PARA EL ESTADO DE VERACRUZ
+LEY 848 DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE OCTUBRE DE 2012.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el martes 27 de febrero de 2007.
 
@@ -203,7 +203,7 @@ Artículo 7
 
 2. Los sujetos obligados atenderán al principio de máxima publicidad en la gestión pública, comprendiendo el derecho de acceso a la información como una de las fuentes de desarrollo y fortalecimiento de la democracia representativa y participativa que permite a los ciudadanos analizar, juzgar y evaluar a sus representantes y servidores públicos y estimula la transparencia en los actos de gobierno.
 
-3. (DEROGADO PARRAFO TERCERO, G.O. 27 DE JUNIO DE 2008)
+3. (DEROGADO PÁRRAFO TERCERO, G.O. 27 DE JUNIO DE 2008)
 
 ### CAPÍTULO SEGUNDO. DE LAS OBLIGACIONES DE TRANSPARENCIA
 
@@ -649,9 +649,9 @@ Artículo 18
 
 No podrá considerarse como información de carácter personal y por tanto confidencial, la relativa a los sueldos, salarios, dietas o remuneraciones de cualquier otra naturaleza percibidas con motivo del ejercicio de cargos, empleos o comisiones en el servicio público.
 
-### CAPÍTULO QUINTO. DE LA PROTECCIÓN DE LOS DATOS PERSONALES
+> <small>(DEROGADO POR EL TRANSITORIO SEXTO DE LA LEY NÚMERO 581 PARA LA TUTELA DE LOS DATOS PERSONALES EN EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. DE 2 DE OCTUBRE DE 2012)</small>
 
-Artículo 19
+### CAPÍTULO QUINTO. Artículo 19
 
 1. El titular de los datos personales tiene derecho a:
 
@@ -783,7 +783,7 @@ En la elaboración y aplicación de las políticas y programas del Instituto, se
 
 Artículo 34
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2008)</small>
 
 1. El Instituto contará con un Consejo General que funcionará de manera colegida y tendrá las siguientes atribuciones:
 
@@ -883,7 +883,7 @@ Artículo 39
 
 2. Si dicha propuesta es nuevamente rechazada, procederá la presentación de una última propuesta de tres candidatos conforme al procedimiento descrito en el párrafo anterior, en la inteligencia de que, invariablemente, el Congreso del Estado deberá pronunciarse a favor de alguno de los tres candidatos propuestos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(REFORMADO, G.O. 5 DE JULIO DE 2011)</small>
 
@@ -1429,7 +1429,7 @@ Gobernador del Estado
 
 Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.O. 27 DE JUNIO DE 2008.
 
@@ -1456,3 +1456,17 @@ Artículo segundo. La reforma al artículo 40 contenida en el presente Decreto, 
 Artículo tercero. A partir del inicio de la vigencia del presente Decreto, todas las disposiciones referentes al secretario general del Instituto se entenderán referidas al secretario Ejecutivo.
 
 (Sic) Cuarto. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 2 DE OCTUBRE DE 2012.
+
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Los entes públicos deberán notificar al Instituto, dentro de los ciento ochenta días hábiles después de la entrada en vigor de la presente Ley, la relación de sistemas de datos personales que posean para su registro.
+
+Tercero. Los entes públicos, dentro del plazo de trescientos sesenta días naturales, contado a partir de la entrada en vigor de la presente Ley, deberán ajustar los sistemas de datos personales que posean, así como adecuar su normatividad interna.
+
+Cuarto. Los entes públicos que a la entrada en vigor de la presente Ley no cuenten con un sistema de datos personales tendrán un plazo de trescientos sesenta días naturales para crear dicho sistema en términos de la presente Ley y demás normatividad que expida el Instituto.
+
+Quinto. El Instituto deberá emitir los lineamientos a que se refiere la presente Ley en un plazo de ciento ochenta días naturales, posteriores a la entrada en vigor de la presente Ley.
+
+Sexto. Se derogan el Capítulo Quinto del Título Primero de la Ley de Transparencia y Acceso a la Información para el Estado y todas las demás disposiciones que contravengan la presente Ley.
