@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-transparencia-e-informacion-publica-del-68170"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-04-09"
-last_updated: "2009-04-09"
+last_updated: "2012-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68170&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # REGLAMENTO DE TRANSPARENCIA E INFORMACION PUBLICA DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE JALISCO
 
-REGLAMENTO DE TRANSPARENCIA E INFORMACION PUBLICA DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE JALISCO
+REGLAMENTO DE TRANSPARENCIA E INFORMACIÓN PÚBLICA DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO DE INFORMACIÓN PÚBLICA DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. DE 2 DE OCTUBRE DE 2012, EL PRESENTE REGLAMENTO HA QUEDADO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2012 (ABROGADO).
 
 Reglamento publicado en la Sección VI del Periódico Oficial del Estado de Jalisco, el jueves 9 de abril de 2009.
 
@@ -93,7 +95,7 @@ VII. Secretario Ejecutivo: el Secretario Ejecutivo del Instituto Electoral;
 
 VIII. Consejero Presidente: el Consejero Presidente del Instituto Electoral;
 
-IX. Instituto de Transparencia: el Instituto de Transparencia e Información Pública del Estado de Jalisco; y (sic)
+IX. Instituto de Transparencia: el Instituto de Transparencia e Información Pública del Estado de Jalisco; y
 
 X. Ley de Transparencia: Ley de Transparencia e Información Pública del Estado de Jalisco;
 
@@ -444,3 +446,11 @@ Guadalajara, Jalisco a 07 siete de abril de 2009 dos mil nueve.
 CARLOS OSCAR TREJO HERRERA
 
 SECRETARIO EJECUTIVO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE OCTUBRE DE 2012.
+
+PRIMERO. Se abroga el Reglamento de Transparencia e Información Pública del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco IEPC-ACG-066/09, publicado en el Periódico Oficial "El Estado de Jalisco" el nueve de abril de dos mil nueve.
+
+SEGUNDO. El presente Reglamento entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial "El Estado de Jalisco".
