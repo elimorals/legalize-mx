@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-deuda-publica-del-estado-de-michoacan-de-ocampo-28003"
 country: "mx"
 rank: "ley"
 publication_date: "2003-01-17"
-last_updated: "2011-12-08"
+last_updated: "2012-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE DEUDA PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el viernes 17 de enero del 2003.
 
@@ -41,9 +41,11 @@ LEY DE DEUDA PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 1º.
 
-Esta Ley tiene por objeto establecer las bases para la contratación de empréstitos, así como regular la administración de la deuda pública del Estado.
+Esta Ley tiene por objeto regular y establecer las bases para la contratación y administración de la deuda pública.
 
 > <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
@@ -63,31 +65,25 @@ El Congreso, podrá autorizar el ejercicio de montos y conceptos de endeudamient
 
 La contratación de deuda pública por parte de las entidades se sujetará a los montos de endeudamiento neto aprobados por el Congreso y a lo establecido en la presente Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2011)</small>
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 2 DE OCTUBRE DE 2012)</small>
 
-No obstante lo anterior, las entidades podrán contratar deuda directa de corto plazo sin la previa autorización del Congreso, en adición a los montos de endeudamiento neto aprobados en las leyes de ingresos correspondientes, excepto los 6 meses anteriores al día en que concluya el período constitucional de las entidades públicas, siempre y cuando se cumplan los siguientes requisitos:
+I. (DEROGADA, P.O. 2 DE OCTUBRE DE 2012)
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2011)</small>
+II. (DEROGADA, P.O. 2 DE OCTUBRE DE 2012)
 
-I. Que su vencimiento y liquidación se realicen dentro del ejercicio fiscal para el que se contrató, o que los mismos no excedan el periodo constitucional de la administración que contrató dicha deuda.
+III. (DEROGADA, P.O. 2 DE OCTUBRE DE 2012)
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2012)</small>
 
-II. Que en todo momento, el saldo insoluto total del monto principal de dicha deuda no exceda del 4% de los ingresos ordinarios de la Entidad de que se trate durante el ejercicio fiscal correspondiente. Para efectos de lo anterior, se entenderá por ingresos ordinarios, los ingresos que perciban cada una de las entidades por concepto de ingresos propios, participaciones en ingresos federales y aportaciones federales y otros que sustituyan a los mencionados anteriormente o que recurrentemente perciba la Entidad que corresponda, sin considerar los recursos derivados de financiamiento; y,
+Los conceptos, montos y, en su caso, las afectaciones de participaciones o aportaciones federales, relativos a la deuda, serán fijados en las leyes de ingresos y en los respectivos presupuestos, o en los decretos mediante los cuales se autoricen endeudamientos netos adicionales conforme a la presente Ley, según corresponda.
 
-III. Que no se afecten en garantía o en pago el derecho a recibir participaciones o aportaciones derivadas de la coordinación fiscal o cualquier otro ingreso o derecho.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2012)</small>
 
-> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2011)</small>
+Además, en caso de que las obligaciones contraídas con motivo del endeudamiento comprometan recursos de ejercicios fiscales posteriores a aquél en que fueron contratadas, el Congreso deberá establecer el monto, destino, plazo y fuente de pago.
 
-Las entidades no estarán sujetas ni a los plazos límite y ni a los requisitos establecidos en el párrafo anterior, cuando se encuentren en riesgo la estabilidad económica y social del Estado, y cuando se haya presentado una disminución significativa de los ingresos de origen federal o estatal, en relación a los contemplados en la Ley de Ingresos del Estado, para el ejercicio fiscal correspondiente y de acuerdo con la calendarización programada de los mismos por las autoridades Federales o Estatales correspondientes.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2011)</small>
-
-La deuda contratada conforme al párrafo quinto del presente artículo, quedará sujeta a los requisitos de información y registro previstos en esta Ley.
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2011)</small>
-
-La deuda a que se refiere el párrafo quinto de este artículo no podrá ser refinanciada o reestructurada, excepto cuando se hayan presentado las circunstancias contempladas en el párrafo sexto.
+Igualmente, en los casos de contratación de deuda que responda a una emergencia en materia de protección civil y de reestructuración o refinanciamiento, se deberá contar con la aprobación del Congreso mediante Decreto.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
@@ -165,11 +161,13 @@ XII. Registro: el Registro de Deuda a cargo del Gobierno del Estado, de los Muni
 
 XIII. Secretaría de Finanzas y Administración: la Secretaría de Finanzas y Administración del Gobierno del Estado.
 
-> <small>(REFORMADO, P.O. 12 DE MARZO DE 2007)</small>
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2012)</small>
 
-###### Artículo 5º.
+###### Artículo 5°.
 
-Para los efectos de esta Ley, se entiende por inversiones públicas productivas las destinadas a la ejecución de obras públicas, adquisiciones o manufactura de bienes y prestación de servicios públicos, así como cualesquiera obras o acciones que en forma directa o indirecta produzcan beneficios para la población, generen o liberen recursos públicos o produzcan incremento en los ingresos de las entidades, incluyendo las acciones para refinanciar o reestructurar deuda a cargo de las entidades.
+Sólo se podrá contraer deuda pública cuando se destine a inversiones públicas productivas, esto es, erogaciones efectuadas en bienes y servicios públicos, modernización de infraestructura y, a valoración del Congreso del costo-beneficio en la adquisición de maquinaria, bienes o equipo que directa o indirectamente beneficien a la población.
+
+La deuda pública podrá ser reestructurada o refinanciada, previa autorización del Congreso, cuando dichas operaciones tengan como objeto mejorar la tasa de interés, plazo, perfil de amortización, garantías u otras de las condiciones originalmente pactadas.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
@@ -189,9 +187,9 @@ I. Efectuar oportunamente, ya sea en forma directa o mediante los mecanismos que
 
 II. Negociar, aprobar, celebrar y suscribir los contratos y documentos para la contratación de deuda a cargo del Estado, suscribiendo los títulos de crédito y demás instrumentos legales requeridos para tales efectos, siempre y cuando dicha deuda esté comprendida en el endeudamiento neto aprobado por el Congreso;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2012)</small>
 
-III. Reestructurar o refinanciar la deuda contraída ya sea como deudor, garante o avalista, o cualquier obligación contingente, en el entendido que, en caso de que dicha reestructura tenga como objeto mejorar las condiciones originales de la deuda mediante la disminución de la tasa de interés o la modificación favorable de las garantías o en su defecto el plazo, no se requerirá la autorización del Congreso;
+III. Reestructurar o refinanciar la deuda contraída ya sea como deudor, garante o avalista, previa autorización del Congreso;
 
 IV. Constituir al Estado en garante, avalista o deudor solidario de la deuda contraída por cualquiera de las demás entidades señaladas en el artículo 3 de esta Ley, previa autorización del Congreso y sujeto a lo establecido en esta Ley;
 
@@ -243,15 +241,15 @@ XII. Autorizar a las entidades paramunicipales para gestionar y contratar deuda,
 
 XIII. Inscribir en el Registro la deuda contraída por los municipios y las entidades paramunicipales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 7°.
 
-Las entidades a que se refiere el artículo 3° de este ordenamiento, podrán contratar deuda pública en los términos de esta Ley, previa autorización del Congreso, con excepción de las operaciones previstas en el sexto y séptimo párrafos del artículo 2° de esta propia Ley.
+Las entidades a que se refiere el artículo 3° de este ordenamiento podrán contratar, reestructurar o refinanciar deuda pública en los términos de esta ley, previa autorización del Congreso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MAYO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE OCTUBRE DE 2012)</small>
 
-Excepto en los casos previstos en el párrafo tercero del artículo 2° y el artículo 12 de esta Ley, para la contratación de deuda pública, se deberá contar con lo siguiente:
+Para la contratación de deuda pública, se deberá contar con lo siguiente:
 
 > <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
@@ -305,7 +303,9 @@ Los municipios deberán atender a lo dispuesto por el artículo 7° de esta Ley,
 
 Con independencia de que se contrate deuda pública cuya aplicación comprenda más de un ejercicio fiscal, en el presupuesto de egresos de las entidades establecidas en las fracciones I y II del artículo 3°, se deberán prever las asignaciones de recursos para el pago de dicha deuda pública para cada ejercicio, en el entendido de que para el caso de deuda pública emitida por los fideicomisos establecidos en la tracción III del artículo 3°, la entidad fideicomitente tendrá la obligación de presupuestar dichas asignaciones.
 
-Asimismo, con independencia de lo dispuesto en el párrafo anterior, el Congreso del Estado, podrá autorizar adicionalmente, la contratación de deuda pública para su aplicación durante el ejercicio en que se solicite, sobre todo Cuando se trate de obras y acciones que deban ejecutarse durante alguna emergencia declarada por el Gobernador del Estado.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2012)</small>
+
+Asimismo, con independencia de lo dispuesto en el párrafo anterior, el Congreso del Estado podrá autorizar adicionalmente la contratación de deuda pública para su aplicación durante el ejercicio en que se solicite, cuando se trate de obras y acciones que deban ejecutarse durante alguna emergencia declarada por el Gobernador del Estado en materia de protección civil.
 
 > <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
@@ -505,6 +505,12 @@ Las entidades deberán informar trimestralmente a la Secretaria de Finanzas y Ad
 
 La entidad que haya cumplido con todas sus obligaciones derivadas de una deuda inscrita en el Registro, deberá solicitar a la Secretaria de Finanzas y Administración la cancelación de dicha deuda, previa comprobación de su cumplimiento.
 
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 25.
+
+La Secretaría de Finanzas y Administración, adicionalmente a los informes financieros trimestrales de los ingresos y ejercicio del gasto que se remitan a la Comisión Inspectora, trimestralmente remitirá al Poder Legislativo copia actualizada del Registro, informando además la evolución detallada de la Deuda Pública.
+
 ## TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
@@ -584,3 +590,11 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado; al Titular de la Auditoría Superior del Estado de Michoacán de Ocampo, para los efectos legales a que haya lugar.
+
+P.O. 2 DE OCTUBRE DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado Libre y Soberano de Michoacán de Ocampo.
+
+SEGUNDO. La Secretaría de Finanzas y Administración remitirá a este Poder Legislativo la información referida en el Artículo 25 del presente Decreto dentro de los treinta días naturales siguientes a la entrada en vigor del mismo.
+
+TERCERO. Comuníquese para su conocimiento al Titular del Poder Ejecutivo y a los 113 Ayuntamientos del Estado de Michoacán de Ocampo.
