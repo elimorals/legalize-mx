@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-de-la-procuraduria-general-de-justicia-del-70288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-08-19"
-last_updated: "2012-03-07"
+last_updated: "2012-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2012.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 19 de agosto de 2009.
 
@@ -433,7 +433,9 @@ f) Fiscalías del Ministerio Público.
 
 II. Órganos Sustantivos Auxiliares y Técnicos del Ministerio Público:
 
-a) Órganos Sustantivos Auxiliares Directos:
+a) Órganos Sustantivos Auxiliares
+
+Directos:
 
 1. Una Policía Especializada, integrada por el Buró Ministerial de Investigación y la Policía de Apoyo Ministerial.
 
@@ -481,17 +483,21 @@ b) Órganos Sustantivos Técnicos:
 
 12. Una Dirección General del Centro de Justicia para las Mujeres.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2012)</small>
 
-13. Una Unidad de Comunicación Social.
+13. Una Dirección de Comunicación Social.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2012)</small>
 
-14. Una Unidad de Control y Seguimiento Documental.
+14. Una Unidad de Inteligencia y Seguimiento Criminal.
 
-> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2012)</small>
 
-15. Un Instituto de Investigación y Profesionalización.
+15. Una Unidad de Control y Seguimiento Documental.
+
+( ADICIONADO, P.O. 3 DE OCTUBRE DE 2012)
+
+16. Un Instituto de Investigación y Profesionalización.
 
 III. Órganos Sustantivos de Control Interno:
 
@@ -1045,11 +1051,13 @@ XI. Supervisar personalmente que los Fiscales del Ministerio Público que le est
 
 XII. Las demás que establezca la presente Ley, su Reglamento y otras disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 33.
 
-El funcionamiento y atribuciones específicas de las Fiscalías Especializadas en Protección a los Derechos de las Mujeres; en Delitos Cometidos en Contra de Inmigrantes; en Justicia Indígena; de Protección y Atención a los Organismos No Gubernamentales y la Defensa de los Derechos Humanos; en Atención de Periodistas y Libertad de Expresión; de Visitaduría; en Procedimientos Penales; Jurídica Normativa; en Atención a Grupos Sensibles, Vulnerables y en Contra de la Discriminación; para la Atención e Investigación de los Delitos Cometidos por Adolescentes; contra la Delincuencia Organizada; para la Atención de los Delitos Relacionados con Servidores Públicos; en Delitos Cometidos en la Procuración y Administración de Justicia en el Estado y en Aquellos Cometidos en el Poblado Acteal; y para la Atención de los Delitos Ambientales, estarán determinadas en el Reglamento de esta Ley y demás disposiciones aplicables.
+Además de las Fiscalías Especializadas, establecidas en la Constitución Política del Estado de Chiapas, la Procuraduría contará con las Fiscalías Especializadas de Visitaduría; en Procedimientos Penales; Jurídica Normativa; para la Atención e Investigación de los Delitos Cometidos por Adolescentes; y para la Atención de los Delitos Ambientales.
+
+El funcionamiento y atribuciones específicas de las Fiscalías Especializadas en Protección a los Derechos de las Mujeres; en Delitos Cometidos en Contra de Inmigrantes; en Justicia Indígena; de Protección y Atención a los Organismos No Gubernamentales y la Defensa de los Derechos Humanos; en Atención de Periodistas y Libertad de Expresión; en Atención a Grupos Sensibles, Vulnerables y en Contra de la Discriminación; para la Atención de los Delitos Relacionados con Servidores Públicos; contra la Delincuencia Organizada; en Secuestro; en Asuntos Especiales y Relevantes; de Visitaduría; en Procedimientos Penales; Jurídica Normativa; para la Atención e Investigación de los Delitos Cometidos por Adolescentes; y para la Atención de los Delitos Ambientales, estarán determinadas en la presente Ley, el Reglamento de la misma y demás disposiciones aplicables.
 
 ### Capítulo V. De la Fiscalía Electoral y Atribuciones de su Titular
 
@@ -1317,13 +1325,15 @@ La Dirección General del Centro de Justicia para las Mujeres, tiene como funci�
 
 Las atribuciones específicas de la Dirección General del Centro de Justicia para las Mujeres, se establecen en el Reglamento de esta Ley.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 60.
 
-La Unidad de Comunicación Social cumple con la función de informar a la sociedad las actividades sustantivas que desarrolla la Procuraduría y la Institución del Ministerio Público, en la investigación y persecución del delito.
+La Dirección de Comunicación Social cumple con la función de informar a la sociedad las actividades sustantivas que desarrolla la Procuraduría y la Institución del Ministerio Público, en la investigación y persecución del delito.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+Las atribuciones específicas de la Dirección de Comunicación Social, se establecen en el Reglamento de esta Ley.
 
-Las atribuciones específicas de la Unidad de Comunicación Social, se establecen en el Reglamento de esta Ley.
+(REUBICADA, P.O. 3 DE OCTUBRE DE 2012)
 
 #### Sección Tercera. De las Unidades
 
@@ -2282,3 +2292,13 @@ P.O. 7 DE MARZO DE 2012.
 Artículo Primero.- El presente Decreto entrará en vigor a los dos días posteriores a su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE OCTUBRE DE 2012.
+
+Artículo Primero.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+Artículo Tercero.- Los recursos humanos, materiales y financieros, que actualmente se encuentren asignados a la Fiscalía Especializada en Delitos Cometidos en la Procuración y Administración de Justicia en el Estado y en Aquellos Cometidos en el Poblado Acteal pasarán a formar parte de la Fiscalía Especial para el Control de Confianza y Combate a la Corrupción en los Cuerpos de Seguridad y Procuración de Justicia.
+
+Artículo Cuarto.- Las Investigaciones, procedimientos y en general todos los asuntos que se encuentren en trámite ante la Fiscalía Especializada en Delitos Cometidos en la Procuración y Administración de Justicia en el Estado y en Aquellos Cometidos en el Poblado Acteal, iniciados con anterioridad a la entrada en vigor del presente Decreto, seguirán su trámite y serán atendidos, desahogados y resueltos por la Fiscalía Especial para el Control de Confianza y Combate a la Corrupción en los Cuerpos de Seguridad y Procuración de Justicia, previa razón que se asiente en cada uno de los expedientes.
