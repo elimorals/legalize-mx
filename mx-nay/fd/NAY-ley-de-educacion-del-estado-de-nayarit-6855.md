@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-educacion-del-estado-de-nayarit-6855"
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-13"
-last_updated: "2012-03-17"
+last_updated: "2012-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2012.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 13 de julio de 1994.
 
@@ -105,13 +105,21 @@ X.- Implementar estrategias de prevención de adicciones partiendo de la educaci
 
 XI.- Coadyuvar a prevenir, combatir y erradicar el alcoholismo, tabaquismo, drogadicción o cualquier otro tipo de conducta adictiva que perturbe la percepción y comportamiento de las personas, señalando los detrimentos a la salud física así como a la integridad emocional, social y económica que conlleva el uso de sustancias dañinas independientemente de que su consumo se encuentre regulado por la ley;
 
-> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2012)</small>
 
-XII.- Promover la coordinación efectiva con las autoridades competentes de los tres órdenes de gobierno, así como con organizaciones sociales para el cumplimiento de las disposiciones antes citadas, y
+XII.- Fomentar en los alumnos, docentes y padres de familia, la cultura de la salud, promoviendo la educación física, la práctica del deporte, los hábitos de higiene y la sana alimentación, como parte integral de una vida saludable;
 
-> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2012)</small>
 
-XIII.- Las demás que con tal carácter determine el artículo 3 párrafo segundo de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación, la presente norma y demás ordenamientos legales que resulten aplicables.
+XIII.- Contribuir al desarrollo integral del ser humano, promoviendo la cultura de la legalidad, los valores sociales y éticos, así como la igualdad entre las personas y la equidad de género;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2012)</small>
+
+XIV.- Promover la coordinación efectiva con las autoridades competentes de los tres órdenes de gobierno, así como con organizaciones sociales para el cumplimiento de las disposiciones antes citadas, y
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2012)</small>
+
+XV.- Las demás que con tal carácter determine el artículo 3 párrafo segundo de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación, la presente norma y demás ordenamientos legales que resulten aplicables.
 
 > <small>(REFORMADO, P.O. 9 DE MARZO DE 2011)</small>
 
@@ -163,13 +171,21 @@ XV.- Atender a la población de bajo desarrollo y marginación para garantizar e
 
 XVI.- Nombrar y remover libremente a las Autoridades Educativas Estatales;
 
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2012)</small>
 
-XVII.- Regular la infraestructura física educativa al servicio del sistema educativo estatal; y
+XVII.- Regular la infraestructura física educativa al servicio del sistema educativo estatal;
 
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2012)</small>
 
-XVIII.- Las demás que fijen las leyes o normas aplicables en la materia.
+XVIII.- Impulsar la práctica de la actividad física y deportiva en las instituciones educativas públicas y privadas de la entidad, de conformidad a los planes y programas de estudio diseñados por la autoridad competente;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2012)</small>
+
+XIX.- Promover a través de la Secretaría de Salud, programas que fomenten en los educandos el consumo de una alimentación sana, balanceada e higiénica, así como llevar a cabo acciones de revisión en las tiendas y cooperativas escolares, a fin de vigilar el cumplimiento de esta disposición, y
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2012)</small>
+
+XX.- Las demás que fijen las leyes o normas aplicables en la materia.
 
 ###### ARTICULO 10.
 
@@ -549,9 +565,9 @@ Cuando se revoque la autorización para impartir educación a una Institución, 
 
 ### CAPITULO VII. DE LA CALIDAD DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2012)</small>
 
-ARTICULO 60 A.- Se entiende por Infraestructura física educativa los muebles e inmuebles destinados a la educación que impartan el Estado y los particulares con autorización o con reconocimiento de validez oficial de estudios en el marco del sistema educativo, así como a los servicios e instalaciones necesarios para su correcta operación.
+ARTICULO 60 A.- Se entiende por Infraestructura física educativa los muebles e inmuebles destinados a la educación que imparta el Estado y los particulares con autorización o con reconocimiento de validez oficial de estudios en el marco del sistema educativo, incluyendo las instalaciones escolares destinadas a la práctica de actividades relacionadas con la educación física y el deporte, así como los servicios e instalaciones necesarios para su correcta operación.
 
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2008)</small>
 
@@ -622,6 +638,30 @@ En el Estado de Nayarit, toda educación que se imparta, se promueva u ofrezca, 
 ###### ARTICULO 67.
 
 Las instituciones del sistema educativo estatal, realizaran acciones que las vinculen y proyecten con la comunidad de que formen parte para elevar la calidad de la educación.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2012)</small>
+
+ARTICULO 67 BIS.- Las instituciones del Sistema Educativo Estatal, en el ámbito de su competencia, deberán cumplir con las siguientes obligaciones:
+
+I.- Desarrollar sus actividades con estricto apego a los planes y programas de estudio establecidos por la autoridad educativa competente;
+
+II.- Fomentar la cultura de respeto a la ley, los valores sociales y éticos, la igualdad, la equidad de género, la democracia, la justicia social, así como el respeto a los símbolos patrios;
+
+III.- Garantizar la integridad física de los alumnos y docentes dentro de los Centros Escolares del Estado, adoptando para el caso los lineamientos y programas de protección civil y de emergencia escolar que establezcan las autoridades en la materia;
+
+IV.- En coordinación con los padres de familia, atender las recomendaciones, lineamientos, medidas y disposiciones que en materia de higiene, prevención y tratamiento de enfermedades o padecimientos, emita la Secretaría de Salud, a efecto de garantizar el bienestar de los educandos;
+
+V.- Impulsar la práctica de la actividad física y el deporte de conformidad con los planes y programas de estudio que al efecto se establezcan;
+
+VI.- Desarrollar labores y programas tendientes a evitar la reprobación y la deserción escolar;
+
+VII.- Implementar los lineamientos emitidos por la Secretaría de Educación a efecto de detectar, prevenir y en su caso erradicar las conductas de acoso escolar en las instituciones educativas;
+
+VIII.- En coordinación con las autoridades competentes llevar a cabo acciones para evitar que al interior o en los alrededores de los planteles educativos se distribuyan o consuman drogas psicotrópicas, enervantes o sustancias adictivas. Las autoridades responsables de los Centros Educativos deberán denunciar ante las instancias legales correspondientes cualquier hecho en este sentido;
+
+IX.- Promover el consumo de alimentos saludables, así como prohibir que las tiendas y cooperativas escolares comercialicen al interior de los Centros Educativos, alimentos y bebidas con bajo valor nutricional o que contengan ingredientes que favorezcan la aparición del sobrepeso y la obesidad en los alumnos, y
+
+X.- Las disposiciones contenidas en la presente Ley y demás ordenamientos legales que favorezcan la calidad de la educación y el bienestar integral de los educandos.
 
 > <small>(ADICIONADO, P.O. 27 DE JULIO DE 2011)</small>
 
@@ -916,5 +956,9 @@ P.O. 27 DE JULIO DE 2011.
 Artículo Único.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 P.O. 17 DE MARZO DE 2012.
+
+Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 3 DE OCTUBRE DE 2012.
 
 Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
