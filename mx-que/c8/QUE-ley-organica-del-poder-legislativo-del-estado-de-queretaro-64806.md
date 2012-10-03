@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-6480
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-01"
-last_updated: "2012-06-08"
+last_updated: "2012-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 1 de diciembre de 2008.
 
@@ -225,7 +225,9 @@ II. Se considerará retardo, la asistencia a las sesiones después del primer pa
 
 III. Se considera abandono de la sesión, cuando el diputado, habiendo registrado su asistencia, se retire definitivamente sin causa justificada en cualquier momento, antes del término de la sesión.
 
-El descuento por inasistencia a una sesión del Pleno consistirá en el equivalente a dos días de dieta y por inasistencia a una sesión de un órgano consistirá en el equivalente a un día de dieta; el descuento por retardo o abandono consistirá en el equivalente al cincuenta por ciento de un día de dieta.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2012)</small>
+
+El descuento por inasistencia a una sesión del Pleno consistirá en el equivalente a cuatro días de dieta; por inasistencia a una sesión de un órgano, en el equivalente dos días de dieta; y por retardo o abandono, en el equivalente un día de dieta.
 
 No podrá aplicarse más de un descuento a cada diputado por sesión.
 
@@ -675,7 +677,11 @@ I. Si el dictamen propone aprobar la iniciativa en sus términos o con modificac
 
 II. Si el dictamen propone aprobar la iniciativa en sus términos o con modificaciones y el Pleno lo rechaza, se ordenará su archivo, salvo que éste acuerde instruir a la Comisión que presentó el dictamen, a efecto de que emita uno nuevo;
 
-III. Si el dictamen propone rechazar la iniciativa y el Pleno lo aprueba, se archivará el asunto como concluido; y
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2012)</small>
+
+III. Si el dictamen propone rechazar la iniciativa y el Pleno lo aprueba, se archivará el asunto como concluido;
+
+Rechazada una iniciativa de ley, no podrá presentarse nuevamente, sino hasta pasados seis meses a partir de la fecha en que fuera rechazada por el Pleno; y
 
 IV. Si el dictamen propone rechazar la iniciativa y el Pleno lo rechaza, se devolverá a la Comisión que presentó el dictamen, a efecto de que emita uno nuevo.
 
@@ -1975,7 +1981,7 @@ PRIMER SECRETARIO
 
 Rúbrica
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 6 DE JULIO DE 2010.
 
@@ -2002,3 +2008,23 @@ P.O. 8 DE JUNIO DE 2012.
 Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones legales (sic) igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 3 DE OCTUBRE DE 2012.
+
+LEY QUE REFORMA EL ARTÍCULO 21 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su aprobación por el Pleno de la Quincuagésima Sexta Legislatura del Estado de Querétaro.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Envíese la presente Ley, al Titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 3 DE OCTUBRE DE 2012.
+
+LEY QUE REFORMA EL ARTÍCULO 79 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su aprobación por el Pleno de la Quincuagésima Sexta Legislatura del Estado de Querétaro.
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Tercero. Remítase la presente Ley al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga"
