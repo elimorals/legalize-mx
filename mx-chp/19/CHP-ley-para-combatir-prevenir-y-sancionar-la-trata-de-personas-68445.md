@@ -4,7 +4,7 @@ identifier: "CHP-ley-para-combatir-prevenir-y-sancionar-la-trata-de-personas-684
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-03"
-last_updated: "2009-04-03"
+last_updated: "2012-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68445&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY PARA COMBATIR, PREVENIR Y SANCIONAR LA TRATA DE PERSONAS EN EL ESTADO DE CHIAPAS.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el viernes 3 de abril de 2009.
 
@@ -49,21 +49,59 @@ Artículo Primero.- Se expide la Ley para Combatir, Prevenir y Sancionar la Trat
 
 ### Capítulo I. Del Objeto y Ámbito de Aplicación
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 1.
 
-Esta Ley se aplicará en el territorio del Estado de Chiapas, sus disposiciones son de orden público e interés social y tiene por objeto adoptar medidas de protección, atención y asistencia necesaria para garantizar los derechos de las víctimas del delito de trata de personas, así como fortalecer las acciones tendentes a la prevención, sanción y el combate del Estado contra este delito.
+Esta Ley se aplicará en el territorio del Estado de Chiapas, sus disposiciones son de orden público e interés social y tiene objeto, la prevención, atención y erradicación del delito de trata de personas, así como la protección, atención y asistencia a las víctimas del mismo, a fin de garantizar el respeto a la dignidad humana y el libre desarrollo de la personalidad de las víctimas y el fortalecimiento de acciones tendentes a erradicar de forma definitiva la trata de personas, mediante el fomento de la participación social en las políticas, programas y acciones institucionales en torno a las acciones de combate frontal al delito.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 2.
 
-Las autoridades estatales, en el ámbito de sus respectivas atribuciones, tienen la obligación de actuar con diligencia para prevenir la trata e personas, realizar las investigaciones y acciones necesarias con la finalidad de que los responsables de la trata de personas sean sancionados, y brindar atención y protección a las víctimas de este delito; asimismo, deberán colaborar en la realización de programas permanentes para evitar que se vulneren los derechos humanos por razón de la trata de personas.
+Las autoridades estatales, en el ámbito de sus respectivas atribuciones y conforme a la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, tienen la obligación de actuar con diligencia para prevenir la trata de personas, realizar las investigaciones y acciones necesarias con la finalidad de que los responsables sean sancionados, y brindar atención y protección a las víctimas de este delito; asimismo, deberán colaborar en la realización de programas permanentes para evitar que se vulneren los derechos humanos por razón de la trata de personas.
+
+Las autoridades a las que alude el párrafo anterior, conforme a la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, tendrán obligación de coordinarse con las autoridades federales en los términos que establezcan las leyes en dicha competencia.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 3.
 
-El delito de trata de personas, se investigará, perseguirá y sancionará por las autoridades de procuración y administración de justicia estatal, cuando se inicien, preparen o cometan en el territorio del Estado de Chiapas; o cuando se inicien, preparen o cometan en otra Entidad Federativa, siempre y cuando produzcan o se pretenda que tengan efectos en nuestra Entidad.
+El delito de trata de personas, se investigará, perseguirá y sancionará por las autoridades de procuración y administración de justicia estatal, fuera de los supuestos previstos en el primer párrafo del artículo 5° de la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 4.
 
-En todo lo no previsto por esta Ley, serán aplicables supletoriamente las disposiciones del Código Penal del Estado de Chiapas, del Código de Procedimientos Penales del Estado de Chiapas y de la Ley para la Protección a Víctimas del Delito del Estado de Chiapas.
+En todo lo no previsto por esta Ley, serán aplicables supletoriamente las disposiciones de la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos y demás disposiciones que ésta establezca.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 4 Bis.
+
+Son principios rectores en materia de prevención, atención y erradicación de la trata de personas, los derechos humanos consagrados en la Constitución Política de los Estados Unidos Mexicanos y sus garantías, los instrumentos internacionales en los que el Estado Mexicano sea parte, además de los previstos en la Constitución Política local y sus garantías. Obrarán además, en tratándose de dichas materias, los siguientes principios:
+
+I. Máxima protección.
+
+II. Perspectiva de género.
+
+III. Prohibición de la esclavitud y de la discriminación.
+
+IV. Interés superior de la infancia.
+
+V Debida diligencia.
+
+VI. Prohibición de devolución o expulsión.
+
+VII. Derecho a la reparación del daño.
+
+VIII. Garantía de no revictimización.
+
+IX. Laicidad y libertad de religión.
+
+X. Presunción de minoría de edad; y,
+
+XI. Las medidas de atención, asistencia y protección, beneficiarán a todas las víctimas del delito de trata de personas con independencia de si el sujeto activo ha sido identificado, aprehendido, juzgado o sentenciado, así como de la relación familiar, de dependencia, laboral o económica que pudiera existir entre éste y la víctima.
 
 ### Capítulo II. Del Delito de Trata de Personas
 
@@ -103,29 +141,121 @@ Cuando en la comisión del delito de trata de personas, concurra otro delito, se
 
 La tentativa del delito de trata de personas, se sancionará con pena de prisión que no será menor a la pena mínima y podrá llegar hasta las dos terceras partes de la sanción máxima prevista para el delito consumado.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 11.
 
-Cuando una persona sea sentenciada como penalmente responsable de la comisión del delito, el Juez deberá condenarla también al pago de la reparación del daño; éste incluirá:
+Todo servidor público en el ámbito de su competencia, procurará se garantice la reparación del daño a toda persona víctima de trata, y cuando una persona sea sentenciada como penalmente responsable de la comisión del delito de trata de personas, el Juez deberá condenarla también al pago de la reparación del daño; éste incluirá:
 
-I. Los costos del tratamiento médico;
+I. Los costos del tratamiento médico.
 
-II. Los costos de la terapia y rehabilitación física y ocupacional;
+II. Los costos de la terapia y rehabilitación física y ocupacional.
 
-III. Los costos del transporte, incluido el de retorno a su lugar de origen, gastos de alimentación, vivienda provisional y cuidado de personas menores de dieciocho o mayores de sesenta años de edad, así como de quienes no tengan capacidad para comprender el significado del hecho, o para resistirlo o que sean personas indígenas;
+III. Los costos del transporte, incluido el de retorno a su lugar de origen, gastos de alimentación, vivienda provisional y cuidado de personas menores de dieciocho o mayores de sesenta años de edad, así como de quienes no tengan capacidad para comprender el significado del hecho, o para resistirlo o que sean personas indígenas.
 
-IV. Los ingresos perdidos;
+IV. Los ingresos perdidos.
 
-V. El resarcimiento de los perjuicios ocasionados;
+V. El resarcimiento de los perjuicios ocasionados.
 
 VI. La indemnización por daño moral; y,
 
 VII. El resarcimiento derivado de cualquier otra pérdida sufrida por la víctima que haya sido generada por la comisión del delito.
 
-### Capítulo I. De la Denominación y Objeto
+A fin de garantizar la reparación del daño a la víctima, los servidores públicos, en el ámbito de su competencia, promoverán, y en su caso, determinarán el decomiso de los bienes muebles o inmuebles que se utilizaron para la comisión del delito, así como el embargo precautorio de los bienes del presunto responsable.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2012)</small>
+
+### Capítulo III. De la Asistencia y Protección de las Víctimas y la Reparación del Daño
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 3 DE OCTUBRE DE 2012)</small>
+
+#### Sección Primera. De la Asistencia y Derechos de las Víctimas
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 11 Bis.
+
+Las víctimas de la trata de personas tienen derecho a:
+
+I. Recibir información sobre sus derechos en un idioma que comprendan y en forma accesible a su edad y madurez.
+
+II. Contar con asistencia psicológica, médica y jurídica gratuitas, incluyendo la representación jurídica en las materias civil y familiar.
+
+III. Prestar testimonio en condiciones especiales de protección y cuidado; en todo caso deberán atenderse las garantías procesales que le asistan en cuanto a la protección de su identidad.
+
+IV. La protección frente a toda posible represalia contra su persona o su familia, en términos de la legislación federal y estatal en materia penal.
+
+V. La adopción de las medidas necesarias para garantizar su integridad física y psicológica.
+
+VI. Ser informadas del estado de las actuaciones, de las medidas adoptadas y de la evolución del proceso.
+
+VII. Ser oídas en todas las etapas del proceso.
+
+VIII. Permanecer en el país, bajo la protección del Estado, previo acuerdo de la autoridad que así lo resuelva, de conformidad con la legislación vigente, y a recibir la documentación o constancia que acredite tal circunstancia.
+
+IX. Que se les facilite el retorno al lugar en el que estuviera asentado su domicilio; y,
+
+X. Acceder de manera voluntaria y gratuita a los recursos de asistencia.
+
+En el caso de niñas, niños y adolescentes, además de los derechos enunciados, se garantizará que los procedimientos reconozcan sus necesidades especiales que implican la condición de ser un sujeto en pleno desarrollo de la personalidad. Conforme a la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, se deberá garantizar que las comparecencias y declaraciones de las niñas, niños y adolescentes que sean víctimas o testigos del delito de trata de personas y actuaciones, así como en las y desahogo de cualquier prueba se desarrollen libres de intimidación o temor por su seguridad o la de sus familiares y personas cercanas. Las medidas de protección de derechos aplicables no podrán restringir sus derechos y garantías, ni implicar privación de su libertad. En todo caso, se observarán las disposiciones contenidas en el Artículo 20 de la Constitución Política de los Estados Unidos Mexicanos.
+
+No será requisito la presentación de la denuncia penal o la cooperación en un proceso, para que la víctima goce de los derechos señalados en esta Ley.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 11 Ter.
+
+Cuando la víctima solicite regresar a su lugar de origen, se le deberá facilitar su retorno garantizando su seguridad y proporcionando en su caso la asistencia y apoyos necesarios, conforme a las leyes vigentes.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 11 Quáter.
+
+Deberá garantizarse a las víctimas la asesoría y representación legal, en los asuntos del orden civil y familiar, que les permita obtener la custodia de sus hijos, el divorcio, la reparación de daño, la recuperación de sus bienes, entre otros.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 3 DE OCTUBRE DE 2012)</small>
+
+#### Sección Segunda. De la Protección Especial a Menores de Edad
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 11 Quinquies.
+
+Atendiendo al principio de interés superior de la infancia, los servidores públicos en el ámbito de su competencia, llevarán a cabo estudios psicosociales, sobre la pertinencia de reincorporarlos a su núcleo familiar, tomando en cuenta para ello, la opinión que los menores de edad emitan.
+
+Cuando del estudio psicosocial se determine que la o el menor no pueden reincorporarse al núcleo familiar, se les deberá proporcionar asistencia social, que deberá incluir vivienda provisional, alimentación, estudios y cuidados de acuerdo a su edad, así como atención psicológica y médica, hasta lograr su recuperación física y psicológica, además de las medidas de protección que permitan salvaguardar su integridad y seguridad.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 11 Sexies.
+
+Tratándose de menores de edad que participen en la averiguación previa o etapa de investigación, procesos penales o juicios, independientemente de lo establecido por la legislación de la materia, deberá protegerse su identidad y garantizarse su seguridad e integridad física y emocional.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 11 Septies.
+
+Las medidas de protección y los tratamientos médicos y psicológicos que se proporcionen a los menores víctimas o testigos de trata, deberán llevarse a cabo en lugares separados de adultos, incluso de quienes han sido víctimas de trata.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 3 DE OCTUBRE DE 2012)</small>
+
+#### Sección Tercera. De las Medidas de Protección
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 11 Octies.
+
+Conforme a la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, todo servidor público que tenga conocimiento directo de conductas relacionadas con el delito de trata de personas, o bien, desde el momento que reciba o atienda a una víctima o testigo involucrado en el mismo, está obligado a ponerlo en conocimiento de la autoridad responsable, quien garantizará y solicitará, en su caso, todas las medidas de protección tendentes a salvaguardar la vida, integridad, libertad y seguridad de víctimas y testigos.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 11 Nonies.
+
+La víctima de trata de personas o testigo de las conductas delictivas de trata o delitos conexos, recibirá, en términos de la legislación aplicable, las medidas de protección necesarias, las cuales durarán hasta que la víctima o testigo se encuentren libres de daños o amenazas u otros actos de intimidación, por parte de las personas acusadas.
 
 ## Título Segundo. De la Comisión Interinstitucional
 
-### Capítulo II. De la Estructura
+### Capítulo I. De la Denominación y Objeto
 
 ###### Artículo 12.
 
@@ -135,7 +265,7 @@ El Ejecutivo del Estado establecerá una Comisión que tendrá el carácter de p
 
 La Comisión Interinstitucional tendrá por objeto coordinar las acciones de los órganos que la integran para elaborar y poner en práctica el Programa Estatal, el cual deberá incluir políticas públicas de protección, asistencia y atención a las víctimas de la trata de personas, así como aquellas tendentes a la prevención, sanción y el combate del Estado frente a este delito.
 
-### Capítulo III. De las Atribuciones
+### Capítulo II. De la Estructura
 
 ###### Artículo 14.
 
@@ -213,7 +343,7 @@ La Comisión Interinstitucional, para su mejor funcionamiento se organizará en 
 
 El cargo de integrante de la Comisión Interinstitucional o de las Subcomisiones será de carácter honorífico, por lo que no recibirán ninguna remuneración adicional por los servicios que presten.
 
-### Capítulo IV. De las Sesiones
+### Capítulo III. De las Atribuciones
 
 ###### Artículo 22.
 
@@ -253,7 +383,7 @@ XIV. Servir de órgano asesor y recomendar la realización de acciones a las dep
 
 XV. Las demás que se establezcan en esta Ley o en el Programa Estatal.
 
-### Capítulo V. De las Subcomisiones
+### Capítulo IV. De las Sesiones
 
 ###### Artículo 23.
 
@@ -261,7 +391,7 @@ La Comisión Interinstitucional sesionará ordinariamente de manera bimestral a 
 
 Los acuerdos que se tomen en sesiones serán válidos cuando participen en ellas la mitad más uno de sus integrantes, quedando obligados los demás a su cumplimiento.
 
-### Capítulo I. De la Prevención
+### Capítulo V. De las Subcomisiones
 
 ###### Artículo 24.
 
@@ -301,7 +431,7 @@ El Secretario Técnico de la Comisión Interinstitucional, podrá convocar a los
 
 ## Título Tercero. De la Política en Materia de Prevención y Protección de Víctimas
 
-### Capítulo II. De la Protección a las Víctimas
+### Capítulo I. De la Prevención
 
 ###### Artículo 29.
 
@@ -335,11 +465,13 @@ b) La capacitación y formación señaladas, incluirán los instrumentos interna
 
 c) La capacitación y formación tendrá como principio rector el respeto a los derechos humanos de la víctima y el victimario.
 
-### Capítulo I. Contenido del Programa
+### Capítulo II. De la Protección a las Víctimas
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 33.
 
-Se contemplan las siguientes medidas de atención y protección a las víctimas:
+Las autoridades estatales realizarán las acciones necesarias para identificar a las víctimas del delito de trata de personas, y adoptarán las siguientes medidas de atención y protección:
 
 a) Proporcionar orientación jurídica, asistencia social, educativa y laboral a las víctimas de trata de personas. En el caso de que las víctimas pertenezcan a alguna etnia o comunidad indígena o hablen un idioma o dialecto diferente al español se designará a un traductor, quien le asistirá en todo momento.
 
@@ -375,15 +507,19 @@ Las autoridades estatales, en el ámbito de su competencia, cumplirán con hacer
 
 ## Título Cuarto. Del Programa Estatal para Combatir, Prevenir la Trata de Personas y Proteger a sus Víctimas
 
-### Capítulo II. De la Participación Social
+### Capítulo I. Contenido del Programa
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 37.
 
-El Programa Estatal constituye el instrumento rector en materia de prevención, persecución del delito, así como protección y asistencia a las víctimas del delito de trata de personas.
+El Programa Estatal, conforme a la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos constituye el instrumento rector en materia de prevención, persecución del delito, así como protección y asistencia a las víctimas del delito de trata de personas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 38.
 
-La Comisión en el diseño del Programa Estatal deberá incluir los siguientes aspectos:
+La Comisión en el diseño del Programa Estatal deberá incluir, además de lo previsto en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, los siguientes aspectos:
 
 I. Un diagnóstico de la situación que en la materia prevalezca, así como la identificación de la problemática a superar.
 
@@ -405,7 +541,7 @@ IX. Generar alternativas para obtener recursos y financiar las acciones del prog
 
 X. Establecer metodología de evaluación y seguimiento de las actividades que deriven de este programa, fijando indicadores para evaluar los resultados.
 
-### Capítulo III. De los Recursos
+### Capítulo II. De la Participación Social
 
 ###### Artículo 39.
 
@@ -417,25 +553,51 @@ La capacitación también deberá tener en cuenta la necesidad de considerar los
 
 Las autoridades encargadas de hacer cumplir la Ley, vinculadas a la prevención, persecución del delito de trata, así como de protección y asistencia a las víctimas, cooperarán entre sí, intercambiando información, a fin de fortalecer las acciones encaminadas a combatir, prevenir y sancionar la trata de personas, y asistir a las víctimas de este delito.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 41.
 
-Los habitantes del Estado de Chiapas, sin perjuicio de lo que se establezca en otros ordenamientos jurídicos, tienen los siguientes derechos y obligaciones:
+La Comisión Interinstitucional, en coordinación con las autoridades Estatales y municipales promoverán la participación ciudadana, a fin de que la población y la sociedad civil organizada:
 
-a) Prevenir la trata de personas;
+a) Colaboren en la prevención del delito de trata de personas.
 
-b) Participar en las campañas y en las acciones que se deriven del Programa Estatal a que se refiere esta Ley;
+b) Participen en las campañas y en las acciones que se deriven del Programa Estatal a que se refiere esta Ley.
 
-c) Colaborar con las instituciones a fin de detectar a las personas que hayan sido víctimas de trata, así como denunciar a los posibles autores del delito;
+c) Colaboren con las instituciones a fin de detectar a las personas que hayan sido víctimas de trata, así como denunciar a los posibles autores del delito.
 
-d) Denunciar cualquier hecho que resulte violatorio a lo establecido en esta Ley;
+d) Denuncien cualquier hecho que resulte violatorio a lo establecido en esta Ley.
 
-e) Dar parte al Ministerio Público de cualquier indicio en el que alguna o algunas personas son víctimas del delito de trata de personas;
+e) Den parte al Ministerio Público de cualquier indicio en el que alguna o algunas personas sean víctimas del delito de trata de personas.
 
-f) Proporcionar .los datos necesarios para el desarrollo de la investigación estadística en la materia.
+f) Proporcionen los datos necesarios para el desarrollo de la investigación estadística en la materia.
 
 ###### Artículo 42.
 
 Con la participación ciudadana se podrá constituir fondos de financiamiento, en los que concurran las organizaciones civiles y sociales, las instituciones académicas, grupos empresariales y agencias de cooperación, que estarán destinados para el desarrollo de proyectos en la materia.
+
+> <small>(ADICIONADO EL ARTÍCULO QUE LO INTEGRA, P.O. 3 DE OCTUBRE DE 2012)</small>
+
+### Capítulo II Bis. De la Cooperación entre Autoridades
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 42 Bis.
+
+Los servidores públicos del Estado y los municipios, en el ámbito de su respectiva competencia, podrán llevar a cabo acuerdos de colaboración o coordinación con otras entidades federativas, municipios y la Federación, a efecto de:
+
+I. Identificar a las víctimas.
+
+II. Intercambiar información acerca de tratantes y de su forma de operar.
+
+III. Llevar a cabo investigaciones conjuntas.
+
+IV. Participar en acciones de prevención, protección a las víctimas en su traslado a sus lugares de origen.
+
+V. Identificar y entrevistar testigos; y,
+
+VI. Colaborar en todas aquellas acciones en las que se requiera una cooperación en beneficio de las víctimas.
+
+### Capítulo III. De los Recursos
 
 ###### Artículo 43.
 
@@ -444,6 +606,38 @@ Las dependencias y entidades que constituyan la Comisión lnterinstitucional, de
 ###### Artículo 44.
 
 Para financiar las acciones del Programa Estatal, el Estado podrá recibir y administrar los recursos que provengan de donaciones que realicen empresarios u organismos internacionales o de la sociedad civil, a través de la Secretaría de Hacienda.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 44 Bis.
+
+El Ejecutivo del Estado establecerá, en el ámbito de su respectiva competencia, un fondo para la protección y asistencia a las víctimas de los delitos de trata de personas.
+
+El Fondo para la Protección y Asistencia a las Víctimas de los Delitos de Trata de Personas del Estado de Chiapas, se constituirá en los términos y porcentajes que establezca el Reglamento respectivo y se integrará de la siguiente manera:
+
+I. Recursos previstos para dicho fin en los presupuestos de egresos del Estado.
+
+II. Recursos obtenidos por la enajenación de bienes decomisados en procesos penales que correspondan a los delitos de trata de personas.
+
+III. Recursos adicionales obtenido por los bienes que causen abandono.
+
+IV. Recursos producto de los bienes que hayan sido objeto de extinción de dominio y estén relacionados con la comisión de los delitos de trata de personas.
+
+V. Recursos provenientes de las fianzas o garantías que se hagan efectivas cuando los procesados incumplan con las obligaciones impuestas por la autoridad judicial.
+
+VI. Recursos que se produzcan por la administración de valores o los depósitos en dinero, de los recursos derivados del Fondo para la Protección y Asistencia a las Víctimas de los Delitos de Trata de Personas del Estado de Chiapas, distintos a los que se refiere la fracción anterior; y,
+
+VII. Las donaciones o aportaciones hechas a su favor por terceros.
+
+Los recursos que integren el Fondo para la Protección y Asistencia a las Víctimas de los Delitos de Trata de Personas del Estado de Chiapas así como los que destine la Federación serán fiscalizados por la Auditoría Superior de la Federación y por el Órgano de Fiscalización Superior del Congreso del Estado de Chiapas.
+
+Los recursos del Fondo para la Protección y Asistencia a las Víctimas de los Delitos de Trata de Personas del Estado de Chiapas provenientes de las fracciones II, III, IV, V y VII del presente artículo, podrán utilizarse para el pago de la reparación del daño a la víctima, en los términos de las legislaciones Federal y local en materia de extinción de dominio, en caso de que los recursos del sentenciado sean insuficientes para cubrir el monto determinado por el juzgador.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 44 Ter.
+
+El Ejecutivo del Estado y el Gobierno Federal, con sujeción a las disposiciones de sus respectivas leyes de ingresos y decretos de egresos, concurrirán en el financiamiento de la prevención, sanción y erradicación de los delitos de trata de personas y de los servicios para la asistencia y protección a las víctimas y ofendidos.
 
 T r a n s i t o r i o s
 
@@ -466,3 +660,15 @@ Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chi
 De conformidad con la fracción I del artículo 42 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los tres días del mes de abril del año dos mil nueve.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 3 DE OCTUBRE DE 2012.
+
+Artículo Primero.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Las disposiciones relativas a los delitos previstos en los artículos 5°,6°, 7°, 8°, 9° y 10, del Capítulo II, del Título Primero de esta Ley, seguirán aplicándose únicamente por los hechos realizados hasta antes de la entrada en vigor de la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, publicada en el Diario Oficial de la Federación, el catorce dé junio de dos mil doce. Así mismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos.
+
+Artículo Tercero.- El Titular del Poder Ejecutivo del Estado, a través de la Secretaría de Hacienda, deberá realizar todas las modificaciones y adecuaciones presupuestales así como administrativas necesarias para la creación y constitución del Fondo para la Protección y Asistencia a las Víctimas de los Delitos de Trata de Personas del Estado de Chiapas, así como para el financiamiento de la prevención, sanción y erradicación de los delitos de trata de personas y de los servicios para la asistencia y protección a las víctimas y ofendidos, y para la creación de la Fiscalía Especializada a que se refiere la Ley General para Prevenir Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos.
+
+Artículo Cuarto.- Se derogan todas las disposiciones legales locales que se opongan al presente Decreto.
