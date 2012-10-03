@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-de-transito-y-vialidad-del-municipio-de-tuxtla-62258
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-09"
-last_updated: "2010-12-22"
+last_updated: "2012-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62258&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "CHP"
 
 REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE TUXTLA GUTIÉRREZ, CHIAPAS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE TUXTLA GUTIÉRREZ, CHIAPAS, PUBLICADO EN EL P.O. DE 3 DE OCTUBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 9 de julio de 2008.
 
@@ -1856,3 +1858,15 @@ Primero.- La presente reforma entrará en vigor al día siguiente de su publicac
 Segundo.- Quedan derogadas todas aquellas disposiciones que se opongan al presente acuerdo.
 
 Tercero.- Para su debido conocimiento publíquese el presente Reglamento en la Gaceta Municipal, en los Estrados del Palacio Municipal y en cinco lugares de mayor afluencia vecinal de las Agencias Municipales.
+
+P.O. 3 DE OCTUBRE DE 2012.
+
+PRIMERO.- El presente Reglamento entrara en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+SEGUNDO.- Queda abrogado el Reglamento Municipal de Tránsito y Vialidad del Municipio de Tuxtla Gutiérrez, aprobado en Sesión Ordinaria de Cabildo, Acta número 14, punto cuarto del orden del día, a los 31 días del mes de marzo de 2008. Asimismo, quedan derogadas todas las disposiciones que contravengan al presente reglamento, a partir de la fecha en que entre en vigor.
+
+TERCERO.- Para su debido conocimiento publíquese el reglamento en la gaceta Municipal, en los Estrados del Palacio Municipal y en cinco lugares de mayor afluencia vecinal de las Agencias Municipales.
+
+CUARTO.- Las multas señaladas en el presente Reglamento serán susceptibles a los cambios, modificaciones y/o adiciones que considere la Secretaria de Tránsito y Vialidad Municipal para lo cual serán señalados en la Ley de Ingresos para el Municipio de Tuxtla Gutiérrez, Chiapas, vigente.
+
+QUINTO.- Se consideran parte integrante del presente Reglamento las láminas de señales restrictivas, preventivas, informativas y para protección de obras.
