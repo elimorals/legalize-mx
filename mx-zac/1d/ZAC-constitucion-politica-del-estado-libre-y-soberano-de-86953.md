@@ -4,7 +4,7 @@ identifier: "ZAC-constitucion-politica-del-estado-libre-y-soberano-de-86953"
 country: "mx"
 rank: "constitucion"
 publication_date: "1998-07-11"
-last_updated: "2012-05-26"
+last_updated: "2012-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2012.
 
 Constitución publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de julio de 1998.
 
@@ -267,7 +267,7 @@ Para el ejercicio de los derechos y prerrogativas en materia electoral, se enten
 
 a). Domicilio propio, no convencional, en territorio del Estado;
 
-b). (DEROGADO, P.O.19 DE ABRIL DE 2008)
+b). (DEROGADO, P.O. 19 DE ABRIL DE 2008)
 
 c). Clave Única de Registro de Población; y
 
@@ -295,7 +295,9 @@ III. Los mexicanos a quienes la Legislatura del Estado, con pleno conocimiento d
 
 Son derechos de los ciudadanos zacatecanos:
 
-I. Votar en las elecciones populares;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2012)</small>
+
+I. Votar en las elecciones y consultas populares, en los términos que señale la ley;
 
 > <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2009)</small>
 
@@ -325,7 +327,9 @@ I. Inscribirse en el catastro de la municipalidad donde residan, manifestando la
 
 II. Inscribirse en los padrones electorales en los términos que señale la ley;
 
-III. Votar en las elecciones populares;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2012)</small>
+
+III. Votar en las elecciones y consultas populares;
 
 IV. Desempeñar las funciones censales, electorales y de jurado para las que fueren nombrados, las cuales se realizarán de forma gratuita salvo aquellas que se realicen profesionalmente;
 
@@ -509,7 +513,7 @@ V. Los sujetos obligados deberán preservar sus documentos en archivos administr
 
 VI. Las leyes determinarán la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o morales.
 
-VIl. La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que disponga la ley.
+VII. La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que disponga la ley.
 
 ###### Artículo 30.
 
@@ -573,15 +577,17 @@ Los servidores públicos del Estado y de los Municipios, en el ámbito de sus co
 
 Los servidores públicos tendrán en todo momento la obligación de aplicar con imparcialidad los recursos públicos que estén bajo su responsabilidad y deberán abstenerse de participar para influir en la equidad de la competencia entre los partidos políticos.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 37.
 
-Los ciudadanos zacatecanos tienen el derecho de estar representados en todos los organismos que tengan a su cargo funciones electorales, así como de consulta a la población previstas por las leyes para el mejor desempeño de las atribuciones de los poderes públicos
+Los ciudadanos zacatecanos tienen el derecho de estar representados en todos los organismos que tengan a su cargo funciones electorales, así como de consulta popular previstas por las leyes para el mejor desempeño de las atribuciones de los poderes públicos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 38.
 
-El Estado garantizará la certeza, imparcialidad, independencia, legalidad y objetividad de la función electoral y de consulta ciudadana. La organización, preparación y realización de los procesos electorales, se sujetará a las reglas siguientes:
+El Estado garantizará la certeza, imparcialidad, independencia, legalidad y objetividad de la función electoral y de consulta popular. La organización, preparación y realización de los procesos electorales y de consulta popular, se sujetará a las reglas siguientes:
 
 I. Se ejercerá a través de un organismo público autónomo y de carácter permanente, denominado Instituto Electoral del Estado de Zacatecas, dotado de personalidad jurídica y patrimonio propios, en cuya integración intervienen el Poder Legislativo del Estado, los partidos políticos con registro y los ciudadanos zacatecanos, en los términos ordenados por esta Constitución y la ley de la materia;
 
@@ -605,15 +611,19 @@ VII. El Consejero Presidente propondrá al Consejo General una terna para la des
 
 VIII. Fungirán en el ámbito de su competencia, los Consejos Electorales Distritales y Municipales, los cuales se integran por un Consejero Presidente, un Secretario Ejecutivo con voz pero sin derecho a voto, cuatro consejeros electorales con sus respectivos suplentes, nombrados todos ellos por las dos terceras partes del Consejo General, el que podrá tomar en cuenta las propuestas que hagan los partidos políticos. Los partidos políticos estatales y nacionales podrán acreditar un representante en cada uno de los Consejos Distritales y Municipales, con derecho de voz pero no de voto; y (sic)
 
-> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2009)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2012)</small>
 
-IX. La ley señalará las atribuciones del Instituto Electoral del Estado de Zacatecas, así como las de los Consejos General, Distritales y Municipales. Para los procesos de participación ciudadana se estará a lo dispuesto por la ley de la materia, y
+IX. La Ley señalará las atribuciones del Instituto Electoral del Estado de Zacatecas, así como las de los Consejos General, Distritales y Municipales. Para los procesos de consulta popular se estará a lo dispuesto por la ley de la materia, y
 
 > <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2009)</small>
 
 X. La ley establecerá las bases para que el Instituto Electoral del Estado de Zacatecas, pueda convenir con el Instituto Federal Electoral, para que éste se haga cargo de la organización de los procesos electorales.
 
 Las sesiones de estos órganos serán públicas, salvo los casos de excepción que la ley determine.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2012)</small>
+
+El Instituto Electoral del Estado de Zacatecas tendrá a su cargo, en forma directa, la verificación del requisito establecido en los artículos 45, párrafo quinto, fracción IV y 47 fracción IV de esta Constitución, así como la organización, desarrollo, cómputo y declaración de resultados.
 
 ###### Artículo 39.
 
@@ -627,7 +637,7 @@ Las mesas directivas de las casillas encargadas de recibir la votación estarán
 
 La declaratoria de validez de las elecciones de Diputados por los principios de mayoría relativa y de representación proporcional, de Ayuntamientos y de Regidores de representación proporcional, es facultad de los organismos públicos previstos en el artículo 38 de esta Constitución, mediante los requisitos y procedimientos que establezca la ley electoral. Con base en la declaratoria de validez, los propios organismos otorgarán las constancias de acreditación a quienes favorezcan los resultados.
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2012)</small>
 
 ### CAPÍTULO SEGUNDO. DE LOS PARTIDOS POLÍTICOS
 
@@ -635,11 +645,11 @@ La declaratoria de validez de las elecciones de Diputados por los principios de 
 
 ###### Artículo 42.
 
-Se establecerá un sistema de medios de impugnación contra actos o resoluciones electorales, para garantizar los principios de legalidad y definitividad de los procesos. Será competente para conocer de los recursos que se interpongan, el Tribunal de Justicia Electoral del Estado de Zacatecas. En ningún caso la interposición de los medios de impugnación producirá efectos suspensivos respecto del acto, resolución o resultados que se hubiesen impugnado. La ley establecerá los requisitos y normas a que deban sujetarse la interposición y tramitación de los medios de impugnación en los procesos electorales y de consulta ciudadana.
+Se establecerá un sistema de medios de impugnación contra actos o resoluciones electorales, para garantizar los principios de legalidad y definitividad de los procesos. Será competente para conocer de los recursos que se interpongan, el Tribunal de Justicia Electoral del Estado de Zacatecas. En ningún caso la interposición de los medios de impugnación producirá efectos suspensivos respecto del acto, resolución o resultados que se hubiesen impugnado. La ley establecerá los requisitos y normas a que deban sujetarse la interposición y tramitación de los medios de impugnación en los procesos electorales y de consulta popular.
 
-### CAPÍTULO TERCERO. DEL REFERÉNDUM, PLEBISCITO E INICIATIVA POPULAR
+### CAPÍTULO TERCERO. DE LA CONSULTA E INICIATIVA POPULAR
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 43.
 
@@ -701,37 +711,73 @@ V. La ley establecerá las bases obligatorias para la coordinación entre el Ins
 
 > <small>(DEROGADO ULTIMO PÁRRAFO, P.O. 15 DE ABRIL DE 2009)</small>
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2012)</small>
+
 ### CAPÍTULO PRIMERO. DEL PODER LEGISLATIVO
 
 ###### Artículo 45.
 
-El referéndum es un instrumento democrático de participación ciudadana, por el cual, mediante el voto mayoritario de los electores, en los términos que establezca la ley, aprueba o rechaza disposiciones legislativas de notoria trascendencia para la vida común en el ámbito estatal o municipal.
+El referéndum es un instrumento democrático de consulta popular, por el cual, mediante el voto mayoritario de los electores, en los términos que establezca la ley, aprueba o rechaza disposiciones legislativas de notoria trascendencia para la vida común en el ámbito estatal o municipal.
 
 El referéndum puede ser total o parcial, según se refiera a toda una ley o solamente a algunos de sus preceptos.
 
 La legislación reglamentaria establecerá las materias que pueden ser objeto de referéndum, los requisitos para convocar y el órgano facultado para hacerlo, así como los plazos para su realización, los procedimientos a que estará sujeto, los porcentajes mínimos de participación electoral y los efectos que produzcan sus resultados.
 
-En ningún caso y por ningún motivo podrá convocarse a referéndum en materia tributaria o fiscal, ni respecto de reformas a la Constitución del Estado o a las leyes locales que se hubieren expedido para adecuar el marco jurídico del Estado a las reformas o adiciones que se hicieren a la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 15 DE MARZO DE 2000)</small>
+En ningún caso y por ningún motivo podrá convocarse a referéndum en materia electoral, tributaria o fiscal, los ingresos y gastos del Estado, ni respecto de reformas a la Constitución del Estado o a las leyes locales que se hubieren expedido para adecuar el marco jurídico del Estado a las reformas o adiciones que se hicieren a la Constitución Política de los Estados Unidos Mexicanos.
 
-Podrán solicitar que se convoque a referéndum, el Gobernador del Estado, los Diputados de la Legislatura, los Ayuntamientos y los ciudadanos en los términos que establezca la Ley Reglamentaria, la que además señalará el órgano que califique el resultado del referéndum, quien lo hará saber a la Legislatura para su formalización y publicación.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2012)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2000)</small>
+La Legislatura del Estado convocará a referéndum a petición de:
+
+I. El Gobernador del Estado;
+
+II. El equivalente al treinta y tres por ciento de los Diputados de la Legislatura;
+
+III. El equivalente al treinta y tres por ciento de los Ayuntamientos, que integran el Estado; o
+
+IV. Los ciudadanos, en un número equivalente, al menos, al dos por ciento de los inscritos en la lista nominal de electores en el Estado, en los términos que determine la Ley.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2012)</small>
+
+El referéndum se realizará el mismo día de la jornada electoral.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2012)</small>
+
+Cuando la participación total en el referéndum sea superior al cuarenta por ciento de los ciudadanos inscritos en la lista nominal de electores en el Estado en el mismo sentido, el resultado será vinculatorio para los poderes Legislativo y Ejecutivo locales y para las autoridades competentes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 46.
 
-El Plebiscito es un instrumento de participación ciudadana a través del cual se podrán someter a la consideración de los ciudadanos los actos de gobierno que pretendan llevar a cabo, en el ámbito estatal o municipal, para su aprobación o en su caso, desaprobación.
+El Plebiscito es un instrumento de consulta popular a través del cual se podrán someter a la consideración de los ciudadanos los actos de gobierno que pretendan llevar a cabo, en el ámbito estatal o municipal, para su aprobación o en su caso, desaprobación.
 
 El plebiscito será aplicable a los actos que corresponde efectuar a la Legislatura del Estado en lo relativo a la supresión, fusión o formación de Municipios.
 
 Los acuerdos referentes a las tarifas de los servicios públicos no son susceptibles de consulta a través del plebiscito.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2000)</small>
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2012)</small>
+
+El plebiscito se realizará el mismo día de la jornada electoral.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2012)</small>
+
+Cuando la participación total en el plebiscito sea superior al cuarenta por ciento de los ciudadanos inscritos en la lista nominal de electores en el Estado en el mismo sentido, el resultado será vinculatorio para los poderes Ejecutivo y Legislativo locales y para las autoridades competentes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 47.
 
-Podrán solicitar que se convoque a plebiscito, el Gobernador, la Legislatura del Estado, los Ayuntamientos y los ciudadanos en los términos que establezca la Ley Reglamentaria.
+La Legislatura del Estado convocará a plebiscito en los términos que establezca la ley, a petición de:
+
+I. El Gobernador del Estado;
+
+II. El equivalente al treinta y tres por ciento de los Diputados de la Legislatura;
+
+III. Los Ayuntamientos, respecto de sus propios actos o decisiones; o
+
+IV. Los ciudadanos, en un número equivalente, al menos, al dos por ciento de los inscritos en la lista nominal de electores en el Estado.
 
 (REUBICADO Y REFORMADO, [ANTES PRIMER PÁRRAFO], P.O. 15 DE MARZO DE 2000)
 
@@ -779,13 +825,13 @@ La facultad de asignar Diputados de representación proporcional corresponderá 
 
 Para la asignación de diputados de representación proporcional se seguirá el orden que tuvieren los candidatos en la lista correspondiente, a excepción de los dos que tengan la calidad de migrantes o binacionales, los que serán asignados a los dos partidos políticos que obtengan el mayor porcentaje en la votación. Al efecto, se aplicará una fórmula de proporcionalidad pura, integrada por los siguientes elementos: cociente natural y resto mayor. Ningún partido podrá tener más de dieciocho diputados en la Legislatura, por ambos principios.
 
-> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2012)</small>
 
-Los partidos políticos podrán coligarse conforme a la ley, y bajo un convenio que contenga fundamentalmente las bases siguientes: emblema único, representación única y financiamiento único.
+Los partidos políticos podrán coaligarse conforme a la ley, y bajo un convenio que contenga fundamentalmente las bases que establezca la legislación correspondiente.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO PRIMER PÁRRAFO], P.O. 1 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2012)</small>
 
-Para que un partido o coalición tenga derecho a participar en la asignación de diputados por el principio de representación proporcional, deberá de acreditar:
+Para que un partido tenga derecho a participar en la asignación de diputados por el principio de representación proporcional, deberá de acreditar:
 
 I. Que participa con candidatos cuando menos en trece distritos electorales uninominales así como en la totalidad de las fórmulas por lista plurinominal; y
 
@@ -793,17 +839,17 @@ I. Que participa con candidatos cuando menos en trece distritos electorales unin
 
 II. Que obtuvo por lo menos el dos punto cinco por ciento de la votación total efectiva en el Estado.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 1 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2012)</small>
 
-Al partido político o coalición que hubiere alcanzado la mayoría de la votación estatal efectiva y cumplido con las bases anteriores, independiente y adicionalmente a las constancias de mayoría relativa que hubiesen obtenido sus candidatos, se le asignarán diputados por el principio de representación proporcional, en un número que, en ningún caso podrá exceder de dieciocho diputados por ambos principios, o un porcentaje de integración de la Legislatura superior a ocho por ciento respecto de su votación efectiva. En esta disposición queda incluido aquel candidato que tuviere la calidad de binacional o migrante.
+Al partido político que hubiere alcanzado la mayoría de la votación estatal efectiva y cumplido con las bases anteriores, independiente y adicionalmente a las constancias de mayoría relativa que hubiesen obtenido sus candidatos, se le asignarán diputados por el principio de representación proporcional, en un número que, en ningún caso podrá exceder de dieciocho diputados por ambos principios, o un porcentaje de integración de la Legislatura superior a ocho por ciento respecto de su votación efectiva. En esta disposición queda incluido aquel candidato que tuviere la calidad de binacional o migrante.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 1 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2012)</small>
 
-Esta regla no se aplicará al partido político o coalición que obtenga, por el principio de mayoría relativa, el triunfo en los dieciocho distritos uninominales. En este caso, los diputados que tengan el carácter de migrantes o binacionales se asignarán a la primera y segunda minoría.
+Esta regla no se aplicará al partido político que obtenga, por el principio de mayoría relativa, el triunfo en los dieciocho distritos uninominales. En este caso, los diputados que tengan el carácter de migrantes o binacionales se asignarán a la primera y segunda minoría.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 1 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2012)</small>
 
-Las diputaciones por el principio de representación proporcional que resten, después de asignar las que correspondan al partido que se encuentre en el supuesto de los dos párrafos precedentes, y una vez que se ajuste la votación estatal efectiva, se asignarán a los demás partidos o coaliciones, con derecho a ello, en proporción directa con sus respectivas votaciones estatales. La ley desarrollará las reglas y fórmulas para tales efectos.
+Las diputaciones por el principio de representación proporcional que resten, después de asignar las que correspondan al partido que se encuentre en el supuesto de los dos párrafos precedentes, y una vez que se ajuste la votación estatal efectiva, se asignarán a los demás partidos, con derecho a ello, en proporción directa con sus respectivas votaciones estatales. La ley desarrollará las reglas y fórmulas para tales efectos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2003)</small>
 
@@ -893,7 +939,9 @@ IV. A los Ayuntamientos Municipales;
 
 V. A los representantes del Estado ante el Congreso de la Unión; y (sic)
 
-VI. A los ciudadanos zacatecanos radicados en el Estado.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2012)</small>
+
+VI. A los ciudadanos zacatecanos radicados en el Estado, en un número equivalente, por lo menos, al cero punto trece por ciento de la lista nominal de electores, en los términos que establezca la ley; y
 
 > <small>(ADICIONADA, P.O. 10 DE JULIO DE 2002)</small>
 
@@ -1073,9 +1121,11 @@ XLIII. Aprobar o desechar los nombramientos de Magistrados del Tribunal Superior
 
 XLIV. Aprobar los convenios que el Ejecutivo celebre respecto de los límites del Estado, y someterlos a la ratificación del Congreso de la Unión;
 
-> <small>(REFORMADA, P.O. 15 DE MARZO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2012)</small>
 
-XLV. Solicitar se convoque a plebiscito y referéndum, formalizar sus resultados y enviarlos al ejecutivo para su publicación.
+XLV. Convocar y aprobar las peticiones de las consultas populares en los términos de la ley.
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2000)</small>
 
 Convocar a foros de consulta a los ciudadanos, y llevarlos a cabo con el fin de obtener información y opiniones que contribuyan al ejercicio pleno de las atribuciones que esta Constitución le otorga;
 
@@ -1343,7 +1393,9 @@ VII. Dictar las medidas que le correspondan, en el ámbito de su competencia, pa
 
 VIII. Otorgar y revocar las concesiones, permisos y autorizaciones que, de acuerdo con esta Constitución, las leyes y reglamentos, le competen;
 
-IX. Intervenir, en los términos que esta Constitución establece, en los procesos de referéndum y plebiscito que sean formalmente convocados, y cumplir con lo que determinen sus resultados en lo concerniente a asuntos de su competencia;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2012)</small>
+
+IX. Intervenir, en los términos que esta Constitución establece, en los procesos de consulta popular que sean formalmente convocados, y cumplir con lo que determinen sus resultados en lo concerniente a asuntos de su competencia;
 
 X. Decretar expropiaciones por causa de utilidad pública en la forma que determine la ley, y aplicar las disposiciones de la Ley Reglamentaria de la Fracción XVII del Artículo 27 Constitucional;
 
@@ -1409,9 +1461,9 @@ Igualmente, podrá requerir la cooperación y colaboración de los habitantes de
 
 XXXIV. Expedir los títulos profesionales de las personas que hayan hecho sus estudios en los establecimientos de educación superior del Estado, previa la comprobación de los requisitos reglamentarios y legales correspondientes, a excepción de los que deban expedir las instituciones autónomas; y (sic)
 
-> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2000)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2012)</small>
 
-XXXIV-A. Solicitar se convoque a referéndum o plebiscito y ordenar la publicación de los resultados; y
+XXXIV-A. Solicitar se convoque a consultas populares; y
 
 XXXV. Las demás que expresamente le señale la presente Constitución.
 
@@ -1951,13 +2003,19 @@ h) No ser Magistrado del Tribunal Superior de Justicia, Juez de primera instanci
 
 i) No ser miembro de los órganos electorales, del Tribunal Estatal Electoral, ni prestar servicios de carácter profesional en alguno de ellos, salvo que hubiese renunciado ciento ochenta días antes de la elección. Se exceptúan de tal prohibición los consejeros representantes del Poder Legislativo y los representantes de los partidos políticos;
 
-(REFORMADA, P.O. 1 DE OCTUBRE DE 2003) (F. DE E., P.O. 4 DE OCTUBRE DE 2003)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2012)</small>
 
-IV. Los partidos políticos o coaliciones tendrán derecho a regidores por el principio de representación proporcional, siempre y cuando reúnan los requisitos que establecen la Ley Orgánica del Municipio y la legislación electoral del Estado, y hayan obtenido por lo menos el dos punto cinco por ciento de la votación municipal efectiva en el proceso electoral municipal correspondiente.
+IV. Los partidos políticos tendrán derecho a Regidores por el principio de representación proporcional, siempre y cuando reúnan los requisitos que establecen la Ley Orgánica del Municipio y la legislación electoral del Estado, y hayan obtenido por lo menos dos punto cinco por ciento de la votación municipal efectiva en el proceso electoral municipal correspondiente.
+
+(REFORMADO, P.O. 1 DE OCTUBRE DE 2003) (F. DE E., P.O. 4 DE OCTUBRE DE 2003)
 
 La ley establecerá las fórmulas y los procedimientos para la asignación de los Regidores por el principio de representación proporcional de los Ayuntamientos.
 
-Si los Ayuntamientos se constituyen de seis Regidores de mayoría relativa, aumentará su número hasta con cuatro Regidores de representación proporcional. Si el Ayuntamiento se compone de ocho Regidores de mayoría relativa, aumentará su número hasta con cinco Regidores de representación proporcional. Si el Ayuntamiento se integra con diez Regidores de mayoría relativa aumentará su número hasta con siete Regidores de representación proporcional. Si el Ayuntamiento se integra con doce Regidores de mayoría relativa aumentará su número hasta con ocho Regidores de representación proporcional.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2012)</small>
+
+Si los Ayuntamientos se constituyen de cuatro Regidores de mayoría relativa, aumentará su número hasta con tres Regidores de representación proporcional. Si el Ayuntamiento se compone de seis Regidores de mayoría relativa, aumentará su número hasta con cuatro Regidores de representación proporcional. Si el Ayuntamiento se integra con siete Regidores de mayoría relativa aumentará su número hasta con cinco Regidores de representación proporcional. Si el Ayuntamiento se integra con ocho Regidores de mayoría relativa aumentará su número hasta con seis Regidores de representación proporcional
+
+(REFORMADO, P.O. 1 DE OCTUBRE DE 2003) (F. DE E., P.O. 4 DE OCTUBRE DE 2003)
 
 En todos los casos se elegirá igual número de suplentes. Para estos efectos se tomarán en cuenta los datos del último censo oficial;
 
@@ -2081,7 +2139,9 @@ VIII. Fortalecer el gobierno democrático en las comunidades y centros de poblac
 
 IX. Informar mensualmente a la población, por los medios adecuados según las características de cada Municipio, acerca de los trabajos realizados durante ese lapso y publicar cada tres meses un reporte sobre el estado de las finanzas públicas.
 
-Todos los reglamentos municipales deberán ser publicados antes del inicio de su vigencia. Asimismo, deberá hacerse del conocimiento público el resultado de las consultas realizadas por la vía del plebiscito o el referéndum, así como lo relacionado con las iniciativas populares presentadas ante el Ayuntamiento.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2012)</small>
+
+Todos los reglamentos municipales deberán ser publicados antes del inicio de su vigencia. Asimismo, deberá hacerse del conocimiento público el resultado de las consultas populares realizadas por la vía del plebiscito o el referéndum, así como lo relacionado con las iniciativas populares presentadas ante el Ayuntamiento.
 
 El incumplimiento de estas obligaciones dará motivo a las sanciones que establezcan las leyes respectivas;
 
@@ -2946,3 +3006,13 @@ P.O. 29 DE JUNIO DE 2011.
 P.O. 26 DE MAYO DE 2012.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 3 DE OCTUBRE DE 2012.
+
+Artículo primero.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- La ley o leyes en materia electoral deberán ser adecuadas a más tardar el día seis de octubre del año dos mil doce.
+
+Artículo tercero.- Dentro del plazo señalado en el artículo tercero transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación de fecha 9 de agosto del año en curso, deberán expedirse las leyes y reformas en materia de iniciativa y consulta popular.
+
+Artículo cuarto.- Se derogan las reformas que contravengan este Decreto.
