@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-de-la-universidad-autonoma-de-ciudad-juarez-4765"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-12-30"
-last_updated: "2002-01-09"
+last_updated: "2012-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4765&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA DE CIUDAD JUAREZ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ENERO DE 2002.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2012.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 30 de diciembre de 1995.
 
@@ -74,6 +74,14 @@ II.- Promover en sus componentes una formación integral.
 III.- Realizar investigación científica relacionada fundamentalmente con los problemas del País, del Estado y de los Municipios.
 
 IV.- Conservar, renovar y transmitir la cultura, para promover el desarrollo y transformación de la comunidad a través de la extensión educativa, la educación continua y la prestación de servicios técnicos y especializados.
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2012)</small>
+
+V.- Gestionar y allegarse de recursos para su sostenimiento y desarrollo, determinando para ello las cuotas, derechos y participaciones por los servicios que preste.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2012)</small>
+
+Para la consecución de sus fines, la Universidad Autónoma de Ciudad Juárez podrá celebrar toda clase de actos jurídicos.
 
 ### CAPÍTULO 2. PRINCIPIOS DE LA UNIVERSIDAD
 
@@ -643,6 +651,10 @@ IV.- Los ingresos por prestación de servicios.
 
 V.- Los bienes muebles e inmuebles que se adquieran por cualquier otro título.
 
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2012)</small>
+
+VI.- Todo ingreso que perciba, distinto de los anteriores, destinado al cumplimiento de su objeto, en los términos de la legislación aplicable.
+
 ###### ARTICULO 46o.
 
 Los bienes muebles e inmuebles que adquiera la Universidad Autónoma de Ciudad Juárez serán imprescriptibles y sobre ellos no podrá constituirse gravamen alguno, mientras estén destinados a fines estrictamente universitarios.
@@ -734,3 +746,9 @@ P.O. 9 DE ENERO DE 2002.
 PRIMERO.- El presente decreto entrará en vigor al siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Las autoridades universitarias que fueron electas en el período inmediato anterior a la presente reforma, no quedarán comprendidas en las disposiciones que señala este decreto.
+
+P.O. 3 DE OCTUBRE DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
