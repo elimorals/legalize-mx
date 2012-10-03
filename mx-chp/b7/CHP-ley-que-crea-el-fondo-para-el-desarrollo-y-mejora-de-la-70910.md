@@ -4,7 +4,7 @@ identifier: "CHP-ley-que-crea-el-fondo-para-el-desarrollo-y-mejora-de-la-70910"
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-21"
-last_updated: "2009-10-21"
+last_updated: "2012-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHP"
 ---
 # LEY QUE CREA EL FONDO PARA EL DESARROLLO Y MEJORA DE LA PROCURACION DE JUSTICIA DEL ESTADO DE CHIAPAS
 
-LEY QUE CREA EL FONDO PARA EL DESARROLLO Y MEJORA DE LA PROCURACION DE JUSTICIA DEL ESTADO DE CHIAPAS
+LEY QUE CREA EL FONDO PARA EL DESARROLLO Y MEJORA DE LA PROCURACIÓN DE JUSTICIA DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 21 de octubre de 2009.
 
@@ -309,7 +309,9 @@ I. Invertirá las cantidades que integren el Fondo en la adquisición de título
 
 II. En el informe que rinda el Procurador, comunicará el resultado de los ingresos y rendimientos de las inversiones, así como las erogaciones efectuadas; y,
 
-III. El Órgano de Fiscalización Superior del Congreso del Estado, podrá ordenar la práctica de las auditorias internas o externas que considere necesarias para verificar que el manejo del Fondo se haga en forma adecuada, conveniente, honesta y transparente, de acuerdo con los fines establecidos en esta Ley, esto sin perjuicio de las facultades de supervisión, control y fiscalización que corresponda legalmente a cualquier otra dependencia u organismo del Gobierno del Estado de Chiapas.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2012)</small>
+
+III. Los Órganos de Control Interno de la Procuraduría General de Justicia del Estado, podrán ordenar la práctica de las auditorias o revisiones que consideren necesarias para verificar que el manejo del Fondo se haga en forma adecuada, conveniente, honesta y transparente, de acuerdo con los fines establecidos en esta Ley, esto sin perjuicio de las facultades de supervisión, control y fiscalización que corresponda legalmente a cualquier otra dependencia u organismo del gobierno del Estado de Chiapas.
 
 ### Capítulo II. De la Administración
 
@@ -462,3 +464,11 @@ Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chi
 De conformidad con la fracción I, del artículo 42, de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los tres días del mes de septiembre del año dos mil nueve.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 3 DE OCTUBRE DE 2012.
+
+Artículo Primero.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo-.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
