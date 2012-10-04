@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2012-06-29"
+last_updated: "2012-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE FEBRERO DE 2013 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2012.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -1509,11 +1511,15 @@ En los casos de delitos contra la libertad, la seguridad y el normal desarrollo 
 
 c).- El resarcimiento de los perjuicios causados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE OCTUBRE DE 2012)</small>
+
+28. El monto de la reparación del daño, será fijado por los jueces de acuerdo con las pruebas que obran en el proceso y la afectación causada a la víctima u ofendido del delito, salvo lo dispuesto en el artículo 29.
+
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-28.- El monto de la reparación del daño, será fijado de acuerdo con las pruebas que obran en el proceso, salvo lo dispuesto en el artículo 29.
-
 Cuando el daño se cause a las personas y produzca la muerte, incapacidad total o parcial, permanente o temporal, el monto de la reparación se determinará atendiendo a lo dispuesto en la Ley Federal del Trabajo, computado sobre el salario o ingresos que percibiera la víctima al momento de su fallecimiento o de producirse la incapacidad.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 La indemnización a que se refiere el párrafo anterior, no puede ser inferior al monto señalado en el artículo siguiente.
 
@@ -1521,13 +1527,15 @@ La indemnización a que se refiere el párrafo anterior, no puede ser inferior a
 
 29.- A falta de pruebas específicas para fijar el monto de la reparación del daño:
 
-I.- En caso de homicidio, el monto será la cantidad equivalente al importe de setecientos noventa días, calculados sobre el triple del salario mínimo vigente.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE OCTUBRE DE 2012)</small>
+
+I.- En caso de homicidio y feminicidio, el monto será la cantidad equivalente al importe de setecientos noventa días, calculados sobre el triple del salario mínimo vigente en el Estado.
 
 Tratándose de menores de dieciocho años o de incapacitados, que no contribuyan económicamente al sustento familiar, el monto será la cantidad mencionada en el párrafo anterior, calculada sobre el doble del salario mínimo vigente;
 
 > <small>(REFORMADA PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 1998)</small>
 
-II. En caso de lesiones que dejaren secuelas, el monto se determinará con base en la tabulación de indemnizaciones que fija la Ley Federal del Trabajo, computado sobre el triple del salario mínimo vigente.
+II.- En caso de lesiones que dejaren secuelas, el monto se determinará con base en la tabulación de indemnizaciones que fija la Ley Federal del Trabajo, computado sobre el triple del salario mínimo vigente.
 
 Si las secuelas fueren cicatrices perpetuas y notables en cara o en pabellón auricular, el monto será el equivalente de uno a dos años de salarios mínimos, según el grado de la notabilidad; y
 
@@ -3505,7 +3513,7 @@ Lenocinio.
 
 ## TITULO OCTAVO.
 
-Delitos cometidos por funcionarios y empleados de la Administración Pública, Estatal y Municipal o Descentralizada.
+Delitos cometidos por servidores públicos.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE NOVIEMBRE DE 1982)</small>
 
@@ -3593,7 +3601,7 @@ III.- Si el sujeto activo es ministro de un culto religioso.
 
 204.- Se aplicará prisión de uno a cinco años, multa de doscientos a tres mil pesos y suspensión de profesión, en su caso, de dos meses a un año, al que con perjuicio de alguien y sin consentimiento del que pueda resultar perjudicado, revele algún secreto o comunicación reservada que conoce por virtud de servicios personales o técnicos prestados, o cuando el secreto revelado o publicado sea de carácter industrial.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE OCTUBRE DE 2012)</small>
 
 ### CAPITULO I.
 
@@ -3747,9 +3755,11 @@ Se aplicará prisión de dos a siete años al que incurra en los delitos previst
 
 En todos los casos señalados anteriormente si resultare además cometido algún otro delito, se aplicarán las reglas de acumulación.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE OCTUBRE DE 2012)</small>
+
 ### CAPITULO III.
 
-Delitos cometidos en la administración de justicia.
+Delitos cometidos en la administración y procuración de justicia.
 
 210.- Se impondrá de dos meses a cinco años de prisión, destitución y multa de doscientos a cinco mil pesos a los funcionarios, empleados o auxiliares de la administración de justicia, que cometan alguno de los delitos siguientes:
 
@@ -3774,6 +3784,28 @@ VII.- Aprovechar el poder, el empleo o el cargo para satisfacer indebidamente al
 > <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2009)</small>
 
 VIII.- Obligar a declarar a las personas que se mencionan en el artículo 410 del Código de Procedimientos Penales para el Estado Libre y Soberano de Oaxaca, acerca de la información obtenida con motivo del desempeño de su actividad.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2012)</small>
+
+210 Bis. Se impondrá de dos meses a cinco años de prisión, destitución y multa de cincuenta a quinientos días de salario mínimo vigente a: los jueces, servidores públicos, empleados o auxiliares de la administración y procuración de justicia, que cometan algunos de los siguientes delitos durante el desempeño de sus funciones:
+
+I.- Inducir a la víctima de un delito, a sus representantes o familiares para otorgar el perdón o conciliar en los delitos que se hayan cometido en su perjuicio;
+
+II.- A quien se niegue a recibir una denuncia o querella de forma inmediata a su presentación, o a llevar a cabo la investigación correspondiente del delito denunciado;
+
+III.- No proporcionar información a las víctimas u ofendido o su representante sobre los avances de la investigación y en su caso del proceso o negarse a dar pleno acceso a los expedientes cuando así le sea solicitado;
+
+IV.- No llevar a cabo la investigación de manera inmediata, profesional e imparcial y sin discriminación;
+
+V.- No realizar una investigación real y una búsqueda exhaustiva de forma inmediata, a partir de que tenga conocimiento de la denuncia presentada por la desaparición de alguna persona;
+
+VI.- No canalizar a la víctima u ofendido a las instancias que brinden los servicios de atención a víctimas del delito, de manera pronta y expedita;
+
+VII.- Tratándose de víctimas menores de edad, no garantice, ni pondere sus derechos y no tome en consideración su bienestar e integridad física o psicológica;
+
+VIII.- No se proporcione de manera gratuita la asistencia de intérprete o traductor, en cualquier etapa de la investigación o del proceso, cuando la víctima u ofendido no conozca o no comprenda bien el idioma castellano, o tenga alguna discapacidad que así lo requiera, y
+
+IX.- No den cumplimiento a los Protocolos de Investigación de los delitos, y se ponga en riesgo el derecho a una debida investigación, particularmente en los casos relativos a los delitos de homicidio, feminicidio, los relacionados a la libertad sexual, trata de personas y violencia intrafamiliar.
 
 ### CAPITULO IV.
 
@@ -5403,7 +5435,7 @@ V.- Materiales electorales: los elementos físicos, tales como urnas, canceles o
 
 403.- Las sanciones previstas en los delitos del presente capítulo, se aplicarán sin perjuicio de las demás penas que pudieran corresponder al responsable por el concurso real de delitos.
 
-> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE OCTUBRE DE 2012)</small>
 
 ### CAPITULO I
 
@@ -5445,6 +5477,44 @@ De la Sustracción de Menores o Incapaces.
 
 410.- Al progenitor que cambie su domicilio señalado para la guarda y custodia de los menores hijos, fuera del estado o del país, argumentando cualquier causa, sin que exista consentimiento expreso y por escrito de la otra parte o por orden de autoridad competente, se le impondrá de tres a cinco años de prisión y multa de trescientos a quinientos cincuenta días de salario mínimo.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE OCTUBRE DE 2012)</small>
+
+### CAPITULO III.
+
+Feminicidio.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE FEBRERO DE 2013 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2012)</small>
+
+411. Comete el delito de feminicidio quien prive de la vida a una mujer por razones de género.
+
+Se entiende por razones de género cuando ocurra cualquiera de las siguientes circunstancias:
+
+I.- La víctima presente signos de violencia sexual de cualquier tipo;
+
+II.- A la victima se le hayan infligido heridas, escoriaciones, contusiones, fracturas, dislocaciones, quemaduras, mutilaciones con implicaciones sexuales o de tortura;
+
+III.- Existan antecedentes o indicios anteriores de amenazas, acoso o maltrato del sujeto activo en contra de la víctima;
+
+IV.- El cadáver o restos de la víctima hayan sido enterrados u ocultados;
+
+V.- El cadáver o restos de la víctima hayan sido expuestos en lugar público;
+
+VI.- La víctima haya sido incomunicada o privada de su libertad, y
+
+VII.- Por desprecio u odio a la víctima motivado por discriminación o misoginia.
+
+Se entiende por misoginia las conductas contra la mujer que se manifiestan mediante actos violentos o crueles contra ella.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2012)</small>
+
+412. A quien cometa el delito de feminicidio se le impondrá una sanción de cuarenta a sesenta años de prisión y multa de quinientos a mil salarios mínimos.
+
+Si entre el activo y la víctima existió una relación de parentesco por consanguinidad o afinidad, adopción, matrimonio, concubinato, relación de convivencia, noviazgo, amistad, laboral, docente, tutela o cualquier otra que implique confianza, además de la pena que le corresponda, se le impondrá hasta un tercio más de la misma.
+
+Se impondrá hasta dos tercios más de la pena cuando el sujeto activo se encuentre en servicio o se haya desempeñado dentro de los cinco años anteriores a la comisión del delito como servidor público integrante de las corporaciones de seguridad pública, de las Instituciones de procuración e impartición de justicia o de las fuerzas armadas.
+
 ARTICULOS TRANSITORIOS:
 
 ## TITULO VIGESIMO.
@@ -5469,9 +5539,7 @@ IV.- (DEROGADA, P.O. 3 DE OCTUBRE DE 1998)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 1995)</small>
 
-## TITULO VIGESIMO SEGUNDO.
-
-Delitos contra la familia.
+## TITULO VIGESIMO SEGUNDO.. Delitos contra el derecho a una vida libre de violencia
 
 > <small>(REFORMADO [N. DE E. ANTES CAPÍTULO ÚNICO], P.O. 23 DE SEPTIEMBRE DE 2011)</small>
 
@@ -5515,7 +5583,7 @@ SUFRAGIO EFECTIVO. NO REELECCION.- EL RESPETO AL DERECHO AJENO ES LA PAZ.- Oaxac
 
 Al C.........
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 30 DE OCTUBRE DE 1982.
 
@@ -5728,6 +5796,14 @@ CUARTO.- La Presente Ley deroga los delitos objetos de la misma del Código Pena
 P.O. 29 DE JUNIO DE 2012.
 
 PRIMERO. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 4 DE OCTUBRE DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El Procurador General de Justicia del Estado, expedirá el Protocolo Especializado para la Investigación del delito de Feminicidio, dentro de seis meses contados a partir del día siguiente a la entrada en vigor de este Decreto.
+
+TERCERO. Para la debida implementación del presente Decreto, se destinarán los recursos necesarios en el Presupuesto de Egresos del Estado de Oaxaca, para su ejecución a las instituciones correspondientes.
 
 ###### Artículo 10.
 
