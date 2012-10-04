@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-penales-para-el-estado-libre-y-6909"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2012-05-30"
+last_updated: "2012-10-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,13 @@ state: "OAX"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE FEBRERO DE 2013 EN EL P.O. DEL ESTADO OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL PENAL PARA EL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 9 DE SEPTIEMBRE DE 2006, 5 DE SEPTIEMBRE DE 2009, 2 DE MARZO DE 2010, 23 DE AGOSTO DE 2010 Y 5 DE MAYO DE 2011, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO EN LOS TÉRMINOS DEL TRANSITORIO PRIMERO DEL NUEVO CÓDIGO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2012.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -43,13 +45,15 @@ DECRETA:
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2012)</small>
+
 ## TITULO PRELIMINAR.
 
-DEL PROCEDIMIENTO EN MATERIA PENAL.
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2012)</small>
 
 ### CAPITULO I
 
-DE LA INICIACION DEL PROCEDIMIENTO.
+DEL PROCEDIMIENTO EN MATERIA PENAL.
 
 ###### Art. 1o.
 
@@ -63,11 +67,11 @@ III.- El de instrucción, que comprende las diligencias practicadas ante los Tri
 
 IV.- El de juicio, durante el cual el Ministerio Público precisa su acusación y el acusado su defensa ante los Tribunales y éstos valoran las pruebas y pronuncian sentencia definitiva.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE OCTUBRE DE 2012)</small>
 
 ###### Art. 2o.
 
-Dentro del período de averiguación previa, el Ministerio Público, con el auxilio de la policía ministerial, deberá en ejercicio de sus facultades:
+Dentro del período de averiguación previa, el Ministerio Público, con el auxilio de los cuerpos policiales, deberá en ejercicio de sus facultades:
 
 I.- Recibir las denuncias y querellas de los particulares o de las autoridades, sobre hechos que puedan constituír delitos;
 
@@ -85,9 +89,9 @@ III.- Solicitar al órgano jurisdiccional las medidas precautorias de aseguramie
 
 IV.- Acordar la detención o retención de los inculpados cuando así proceda;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE JUNIO DE 1995)</small>
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2012)</small>
 
-V.- Dictar todas las medidas y providencias necesarias para proporcionar seguridad y auxilio a las víctimas;
+V.- Dictar todas las medidas y providencias de protección necesarias para proporcionar seguridad y auxilio a las víctimas;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE JUNIO DE 1995)</small>
 
@@ -101,6 +105,42 @@ VII.- Conceder o revocar, cuando proceda, la libertad provisional bajo caución 
 
 VIII.- Ejercitar la acción penal.
 
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2012)</small>
+
+IX.- Brindar información a las víctimas u ofendidos sobre los avances de la investigación y darles pleno acceso a los expedientes, conforme al artículo 135 de este código;
+
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2012)</small>
+
+X.- Llevar a cabo la investigación de manera inmediata, exhaustiva, profesional, con perspectiva de género, sin discriminación y libre de estereotipos;
+
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2012)</small>
+
+XI.- Realizar una investigación real y una búsqueda exhaustiva de forma inmediata, a partir de la denuncia presentada por la desaparición de alguna persona;
+
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2012)</small>
+
+XII.- Canalizar a la víctima u ofendido a las instancias de atención a víctimas del delito, de manera pronta y expedita, para que se le proporcionen los servicios correspondientes;
+
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2012)</small>
+
+XIII.- Tratándose de víctimas u ofendidos menores de edad, deberá garantizar y ponderar sus derechos y tomar en consideración su bienestar e integridad física y psicológica;
+
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2012)</small>
+
+XIV.- Proporcionar durante todo el procedimiento de manera gratuita la asistencia de intérprete o traductor, cuando la víctima u ofendido pertenezca a un grupo étnico o que no conozca o no comprenda bien el idioma castellano, o tenga alguna discapacidad que así lo requiera;
+
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2012)</small>
+
+XV.- Con el fin de garantizar el derecho a una debida investigación los servidores públicos de la procuración de justicia deberán apegarse a los protocolos de investigación correspondientes según el delito de que se trate;
+
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2012)</small>
+
+XVI.- Autorizar la interrupción del embarazo conforme a lo estipulado en el artículo 316 fracción II del Código Penal del Estado Libre y Soberano de Oaxaca, en relación con el artículo 62 bis del presente código, y
+
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2012)</small>
+
+XVII.- Las demás que se señalen en las disposiciones aplicables.
+
 ###### Art. 3o.
 
 Los períodos de instrucción y juicio constituyen el procedimiento judicial, dentro del cual corresponde exclusivamente a los Tribunales, resolver si un hecho es delito o no lo es; determinar la responsabilidad o irresponsabilidad penal de las personas acusadas ante ellos, e imponer las penas que procedan con arreglo a la Ley.
@@ -109,13 +149,19 @@ Los períodos de instrucción y juicio constituyen el procedimiento judicial, de
 
 Durante estos períodos, el Ministerio Público, en su caso, aportará las pruebas tendientes a demostrar la existencia de los delitos y la responsabilidad de quienes en ellos hubieren participado. Cuidará también de que los tribunales apliquen estrictamente las leyes relativas y de que las resoluciones de aquéllos se cumplan debidamente. Para todos estos efectos tendrá el auxilio de la policía cuando lo estime conveniente.
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2012)</small>
 
 ### CAPITULO II
 
-DE LAS PRIMERAS DILIGENCIAS.
+SUJETOS PASIVOS.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2012)</small>
+
+###### Art. 3° Bis.
+
+·Son sujetos pasivos la víctima u ofendido del delito.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
 
 ###### Art. 4o.
 
@@ -125,11 +171,9 @@ La imposición de las penas y medidas de seguridad, su modificación y duración
 
 DE LA AVERIGUACION PREVIA.
 
-### CAPITULO III
+### CAPITULO I
 
-DE LA COMPROBACION DEL CUERPO DEL DELITO Y LA PROBABLE RESPONSABILIDAD DEL INCULPADO.
-
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2000)</small>
+DE LA INICIACION DEL PROCEDIMIENTO.
 
 ###### Art. 5o.
 
@@ -173,9 +217,9 @@ II.- Solicitar órdenes de comparecencia y de aprehensión;
 
 III.- Rendir las pruebas de la existencia de los delitos y la responsabilidad de los inculpados;
 
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 1995)</small>
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2012)</small>
 
-IV.- Comprobar el daño por reparar y la capacidad económica del obligado cuando fuere necesario, así como aportar las pruebas para acreditar el parentesco, la dependencia económica o la afectación directa e inmediata de quien tenga derecho a la reparación del daño en los casos de homicidio;
+IV.- Comprobar el daño por reparar, así como aportar las pruebas para acreditar el parentesco, la dependencia económica o la afectación directa e inmediata de quien tenga derecho a la reparación del daño en cualquier delito.
 
 V.- Pedir embargos precautorios;
 
@@ -201,17 +245,17 @@ IV.- Cuando se compruebe plenamente la existencia de alguna excluyente del delit
 
 Las consignaciones que se hagan por las autoridades ante el Ministerio Público, no necesitan ser ratificadas y podrán ser firmadas por éstas o por sus subordinados, conforme a sus reglamentos y atribuciones, y a ellas se acompañarán los datos y documentos correspondientes.
 
-### CAPITULO IV
+### CAPITULO II
 
-DE LA ASISTENCIA MEDICA A LESIONADOS Y ENFERMOS.
+DE LAS PRIMERAS DILIGENCIAS.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE OCTUBRE DE 2012)</small>
 
 ###### Art. 15.
 
-Inmediatamente que el Ministerio Público o los funcionarios encargados de practicar en su auxilio diligencias de averiguación previa tengan conocimiento de la probable existencia de un delito que deba perseguirse de oficio, dictarán todas las medidas y providencias necesarias para proporcionar seguridad y auxilio a las víctimas; impedir que se pierdan, destruyan o alteren las huellas o vestigios del hecho delictuoso, los instrumentos o cosas, objetos o efectos del mismo; saber qué personas fueron testigos; evitar que el delito se siga cometiendo y, en general, impedir que se dificulte la averiguación, procediendo a la detención de los que intervinieron en su comisión en los casos de delito flagrante.
+Inmediatamente que el Ministerio Público o los funcionarios encargados de practicar en su auxilio diligencias de averiguación previa tengan conocimiento de la probable existencia de un delito que deba perseguirse de oficio, dictarán todas las medidas de protección y providencias necesarias para proporcionar seguridad y auxilio a las víctimas; impedir que se pierdan, destruyan o alteren las huellas o vestigios del hecho delictuoso, los instrumentos o cosas, objetos o efectos del mismo; saber qué personas fueron testigos; evitar que el delito se siga cometiendo, y en general, impedir que se dificulte la averiguación, procediendo a la detención de los que intervinieron en su comisión en los casos de delito flagrante.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
 
 El Ministerio Público sólo podrá ordenar la detención de una persona, cuando se trate de delito flagrante o de caso urgente, conforme a lo dispuesto por el artículo 16 de la Constitución Federal y en los términos de los artículos 23 Bis y 23 Bis B de este Código.
 
@@ -315,6 +359,8 @@ En esos casos el Ministerio Público iniciará desde luego la averiguación prev
 
 La violación de esta disposición hará penalmente responsable a quien decrete la indebida retención, y el indiciado deberá ser puesto en inmediata libertad.
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE FEBRERO DE 2013 EN EL P.O. DEL ESTADO OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 > <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1994)</small>
 
 Art. 23 Bis A.- En caso urgente el Ministerio Público podrá bajo su responsabilidad, ordenar por escrito la detención de una persona, fundando y expresando los indicios que acrediten:
@@ -407,6 +453,10 @@ VIOLENCIA INTRAFAMILIAR, previsto en el artículo 404, y tipificado por el artí
 
 SUSTRACCIÓN DE MENORES O INCAPACES, cuando sea cometido por un tercero a instrucciones de quien ejerza la patria potestad o sea pariente sin limitación de grado del menor o incapaz, previsto en el artículo 407 del Código Penal del Estado Libre y Soberano de Oaxaca.
 
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2012)</small>
+
+EL FEMINICIDIO, previsto en el artículo 412 y sancionado en el artículo 413.
+
 > <small>(ADICIONADO, P.O. 9 DE JULIO DE 1994)</small>
 
 Art. 23 Bis B.- En los casos de delito FLAGRANTE y en los URGENTES, ningún indiciado podrá ser detenido por el Ministerio Público por más de 48 horas, plazo en el que deberá ordenar su libertad o ponerlo a disposición de la autoridad judicial, este plazo podrá duplicarse en los casos de delincuencia organizada.
@@ -419,11 +469,11 @@ Art. 23 Bis C.- En casos URGENTES o FLAGRANTES, el Juez que reciba la consignaci
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE MAYO DE 2000)</small>
 
-### CAPITULO V
+### CAPITULO III
 
-DE LA CONSIGNACION ANTE LOS TRIBUNALES.
+DE LA COMPROBACION DEL CUERPO DEL DELITO Y LA PROBABLE RESPONSABILIDAD DEL INCULPADO.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2000)</small>
 
 ###### Art. 24.
 
@@ -489,27 +539,43 @@ Si después del primer examen cesa, disminuye o aumenta la gravedad del ofendido
 
 Si muriere la persona lesionada, el encargado de asistirla avisará inmediatamente al Ministerio Público a efecto de que se ordene la autopsia del cadáver.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE OCTUBRE DE 2012)</small>
 
 ###### Art. 31.
 
-Si se tratare de homicidio, además de otras diligencias que sean procedentes, se practicará la inspección del cadáver, describiéndosele minuciosamente y se recabará el dictamen de los Peritos Médicos Oficiales, quienes practicarán la autopsia y expresarán con minuciosidad el estado que guarde el cadáver y las causas que originaron la muerte.
-
-Cuando en el lugar no hubiere Peritos Médicos Oficiales, será suficiente el dictamen de un solo facultativo o el de dos peritos prácticos ratificado.
-
-Para decretar la formal prisión de un indiciado no será necesario que obre en autos la ratificación por los Peritos Médicos Oficiales, de los dictámenes formulados por el facultativo o por los peritos prácticos a que este artículo se refiere.
+Si se tratare de homicidio o feminicidio, además de otras diligencias que sean procedentes, se practicará la inspección del cadáver, describiéndosele minuciosamente y se recabará el dictamen de los Peritos Médicos Oficiales, quienes practicarán la autopsia y expresaran con minuciosidad el estado que guarde el cadáver y las causas que originaron la muerte.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
 
+Cuando en el lugar no hubiere Peritos Médicos Oficiales, será suficiente el dictamen de un solo facultativo o el de dos peritos prácticos ratificado.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
+
+Para decretar la formal prisión de un indiciado no será necesario que obre en autos la ratificación por los Peritos Médicos Oficiales, de los dictámenes formulados por el facultativo o por los peritos prácticos a que este artículo se refiere.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2012)</small>
+
+En todo caso, el Ministerio Público y sus auxiliares deberán realizar todas las diligencias que hagan posible la plena identificación de la víctima y podrán auxiliarse de las técnicas a su alcance para cumplir con esta obligación.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2012)</small>
+
+###### Art. 31 Bis.
+
+En caso de delito de feminicidio el Ministerio Público, los Peritos y los cuerpos policiales apegarán sus actuaciones al Protocolo de Investigación para el delito de feminicidio expedido por la Procuraduría General de Justicia del Estado de Oaxaca.
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2012)</small>
+
 ###### Art. 32.
 
-Si el cadáver estuviere sepultado, y su autopsia se hace necesaria, se ordenará la exhumación siempre que, a pesar del tiempo transcurrido o de cualquier otra causa, a juicio de los Peritos Médicos Oficiales o en su defecto de un facultativo cuya opinión sea ratificada por aquéllos, la autopsia pueda conducir a la averiguación del homicidio.
+Si el cadáver estuviere sepultado, y su autopsia se hace necesaria, se ordenará la exhumación siempre que, a pesar del tiempo transcurrido o de cualquier otra causa, a juicio de los Peritos Médicos Oficiales o en su defecto de un facultativo cuya opinión sea ratificada por aquéllos, la autopsia pueda conducir a la averiguación del feminicidio u homicidio.
 
 ###### Art. 33.
 
 Cuando el cadáver no se encuentra bastará que los peritos, en vista de los datos que obren en el expediente declaren que la muerte fue resultado de las lesiones inferidas. A este efecto serán examinados los testigos que hayan visto el cadáver, quienes harán la descripción del mismo y darán todos los datos que tiendan a la averiguación expresando si conocieron en vida al occiso, los hábitos del mismo y las enfermedades que hubiere padecido.
 
-Cuando no se encuentren testigos que hayan visto el cadáver, pero hubiere datos, suficientes para suponer que se ha cometido un homicidio, se comprobará la preexistencia de la persona víctima del delito, sus costumbres, carácter, si ha padecido alguna enfermedad, el último lugar y fecha en que haya sido visto, y la posibilidad de que el cadáver haya podido ser ocultado o destruído, así como los motivos que los hagan suponer que se trata de un homicidio.
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2012)</small>
+
+Cuando no se encuentren testigos que hayan visto el cadáver, pero hubiere datos, suficientes para suponer que se ha cometido un feminicidio u homicidio, se comprobará la preexistencia de la persona víctima del delito, sus costumbres, carácter, si ha padecido alguna enfermedad, el último lugar y fecha en que haya sido visto, y la posibilidad de que el cadáver haya podido ser ocultado o destruido, así como los motivos que los hagan suponer que se trata de un feminicidio u homicidio.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
 
@@ -528,6 +594,14 @@ Los cadáveres deberán ser identificados por cualquier medio legal de prueba, y
 Si a pesar de haberse tomado las providencias que señala este artículo no se logra la identificación del cadáver, se tomarán fotografías del mismo agregándose un ejemplar a la averiguación, se pondrán otros en los lugares públicos, juntamente con todos los datos que puedan servir para que sea reconocido; y se exhortará a todos los que hayan conocido al occiso para que se presenten ante la autoridad exhortante a declarar sobre la identidad de aquél.
 
 Los vestidos se describirán minuciosamente en el expediente y se conservarán en depósito seguro para que puedan ser presentados a los testigos de identidad.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2012)</small>
+
+Cuando no es posible su identificación a través de los rasgos fisonómicos, esta se podrá llevar a cabo mediante los procedimientos técnico forenses legalmente reconocidos.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2012)</small>
+
+En todo momento, se deberán tomar las medidas necesarias para evitar la contaminación y garantizar la apropiada custodia de las muestras biológicas.
 
 ###### Art. 36.
 
@@ -649,9 +723,13 @@ Las diligencias prevenidas en este Capítulo se practicarán con preferencia a c
 
 Para la comprobación del cuerpo del delito y la probable responsabilidad del inculpado, el Ministerio Público y los tribunales, usarán los medios de investigación que estimen conducentes, según su criterio, aunque no sean de los que menciona la ley, siempre que estos medios no sean contrarios a derecho.
 
-### CAPITULO I
+### CAPITULO IV
 
-DE LA COMPETENCIA JURISDICCIONAL.
+DE LA ASISTENCIA MEDICA A LESIONADOS Y ENFERMOS.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2010)</small>
 
 ###### Art. 60.
 
@@ -715,9 +793,11 @@ El personal médico y psicológico de las instituciones del sistema público de 
 
 Esta información deberá ser proporcionada de manera oportuna y no tener como objetivo inducir o retrasar la decisión de la mujer.
 
-### CAPITULO II
+### CAPITULO V
 
-DE LOS IMPEDIMENTOS, RECUSACIONES Y EXCUSAS.
+DE LA CONSIGNACION ANTE LOS TRIBUNALES.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2000)</small>
 
 ###### Art. 63.
 
@@ -785,9 +865,9 @@ En la práctica de diligencias de averiguación previa, se aplicarán, en lo con
 
 REGLAS GENERALES PARA EL PROCEDIMIENTO JUDICIAL.
 
-### CAPITULO III
+### CAPITULO I
 
-DE LAS RESOLUCIONES JUDICIALES.
+DE LA COMPETENCIA JURISDICCIONAL.
 
 ###### Art. 69.
 
@@ -919,9 +999,9 @@ Cuando un Juez hubiere sostenido una competencia con notoria temeridad, será co
 
 Los conflictos de jurisdicción que se suscitaren entre los Tribunales del Estado y los de la Federación o los de otra Entidad Federativa, se substanciarán de acuerdo con las disposiciones relativas del Código Federal de Procedimientos Penales.
 
-### CAPITULO IV
+### CAPITULO II
 
-DE LAS FORMALIDADES Y DEL DESPACHO DE LOS ASUNTOS.
+DE LOS IMPEDIMENTOS, RECUSACIONES Y EXCUSAS.
 
 ###### Art. 98.
 
@@ -1111,11 +1191,9 @@ II.- Cuando el ofendido o el perjudicado por el delito sea el mismo defensor, su
 
 En cuanto a los representantes del Ministerio Público, podrán excusarse por las causas señaladas en el Artículo 120, con relación únicamente al acusado y no a las demás partes que intervengan en el proceso, pero exceptuándose las marcadas con los números IV a VII, inclusive, IX y XVII del mismo artículo.
 
-### CAPITULO V
+### CAPITULO III
 
-DE LOS OFICIOS DE COLABORACION, EXHORTOS Y REQUISITORIAS.
-
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
+DE LAS RESOLUCIONES JUDICIALES.
 
 ###### Art. 126.
 
@@ -1153,9 +1231,9 @@ Los Jueces y Alcaldes no podrán modificar ni variar sus sentencias después de 
 
 Las resoluciones judiciales, no se tendrán por consentidas, sino cuando notificada la parte conteste expresamente de conformidad o deje pasar el término señalado para interponer el recurso que proceda.
 
-### CAPITULO VI
+### CAPITULO IV
 
-DE LAS CORRECCIONES DISCIPLINARIAS Y DE LOS MEDIOS DE APREMIO.
+DE LAS FORMALIDADES Y DEL DESPACHO DE LOS ASUNTOS.
 
 ###### Art. 133.
 
@@ -1164,6 +1242,26 @@ No se practicarán por los Tribunales más diligencias que las conducentes a la 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
 
 En todo proceso penal la víctima o el ofendido por algún delito tendrá derecho a recibir asesoría jurídica, a que se le satisfaga la reparación del daño cuando proceda, a coadyuvar con el Ministerio Público, a que se le preste atención médica de urgencia cuando lo requiera y las demás que señalen las leyes, por lo tanto podrán poner a disposición del Ministerio Público o del juez todos los datos conducentes a acreditar los elementos del tipo penal, la probable y plena responsabilidad del inculpado según el caso, y a justificar la reparación del daño.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2012)</small>
+
+Además de los anteriores derechos, la víctima o el ofendido, tendrá las siguientes garantías:
+
+I. Ser informada de las resoluciones que finalicen o suspendan el proceso;
+
+II. Ser escuchada antes de cada decisión que implique la extinción o suspensión de la acción penal;
+
+III. Si por su edad, condición física o psíquica, se le dificulta gravemente su comparecencia ante cualquier autoridad que conozca de un delito, a rendir su declaración o ser interrogada en el lugar de su residencia;
+
+IV. Cuando reciba amenazas o corra peligro en razón del papel que cumple en la investigación del delito a recibir medidas de protección;
+
+V. Al resguardo de su identidad y otros datos personales, cuando sean menores de edad, se trate de delito de violación, secuestro o trata de personas para su protección;
+
+VI. A ser informada sobre sus derechos cuando realice la denuncia o en su primera intervención en el proceso;
+
+VII. A un trato humano, con calidad y calidez, sin discriminación alguna;
+
+VIII. Y tratándose de victimas menores de edad, que se le garantice y se le pondere sus derechos frente a los del inculpado, velando siempre por su bienestar e integridad física y psicológica, tomando en consideración el interés superior del menor.
 
 La persona que tenga derecho a exigir la responsabilidad civil, sólo será considerada como parte, en el incidente respectivo.
 
@@ -1319,9 +1417,9 @@ Los Tribunales, en todos los casos que la ley no lo prohiba o prevenga expresame
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE JUNIO DE 1995)</small>
 
-### CAPITULO VII
+### CAPITULO V
 
-DE LAS CITACIONES.
+DE LOS OFICIOS DE COLABORACION, EXHORTOS Y REQUISITORIAS.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
 
@@ -1423,9 +1521,9 @@ Si se tratare de requisitoria, el tribunal requirente hará uso de los medios de
 
 (DEROGADO, P.O. 3 DE JUNIO DE 1995)
 
-### CAPITULO VIII
+### CAPITULO VI
 
-DE LAS NOTIFICACIONES.
+DE LAS CORRECCIONES DISCIPLINARIAS Y DE LOS MEDIOS DE APREMIO.
 
 ###### Art. 178.
 
@@ -1489,9 +1587,11 @@ Contra cualquiera providencia en que se imponga alguna corrección disciplinaria
 
 En vista de lo que manifieste el interesado, el Servidor Público que la hubiere impuesto, resolverá sin más trámite lo que estime procedente. Contra esta resolución no cabrá recurso alguno.
 
-### CAPITULO IX
+### CAPITULO VII
 
-DE LAS AUDIENCIAS.
+DE LAS CITACIONES.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
 
 ###### Art. 184.
 
@@ -1543,11 +1643,9 @@ Cuando se ignorare la residencia de la persona que debe ser citada, se encargar�
 
 El Secretario del Tribunal dará cuenta, por medio de informe en autos, del resultado de la entrega de las citas a que se refieren los artículos anteriores, precisamente antes de la hora señalada para la audiencia, y dentro del mismo tiempo, la policía dará en su caso, dicho informe por escrito. La falta de cumplimiento a esta disposición, será sancionada por el Tribunal con multa hasta de doscientos cincuenta pesos.
 
-### CAPITULO I
+### CAPITULO VIII
 
-REGLAS GENERALES PARA LA INSTRUCCION.
-
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
+DE LAS NOTIFICACIONES.
 
 ###### Art. 193.
 
@@ -1635,11 +1733,9 @@ Si se probare que no se hizo la notificación decretada, o que se hizo en contra
 
 Si el procesado se encontrare en el mismo lugar que el Tribunal de apelación, las notificaciones que deban hacérseles (sic) se le harán en la forma que indican los artículos anteriores. Si se encontrare en lugar distinto, bastará para tenerlo por notificado, con las notificaciones que se hagan a su defensor, con excepción de la sentencia definitiva, la cual se le notificará personalmente por medio del Tribunal del lugar donde se encuentre, para éste efecto, no se librará despacho en forma, sino que será suficiente que la indicación se haga en la ejecutoria correspondiente.
 
-### CAPITULO II
+### CAPITULO IX
 
-DE LA DECLARACION PREPARATORIA DEL INCULPADO Y DEL NOMBRAMIENTO DEL DEFENSOR.
-
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
+DE LAS AUDIENCIAS.
 
 ###### Art. 210.
 
@@ -1699,9 +1795,9 @@ DE LA INSTRUCCION.
 
 PRIMERA PARTE.
 
-### CAPITULO III
+### CAPITULO I
 
-DE LOS AUTOS DE FORMAL PRISION, DE SUJECION A PROCESO Y DE LIBERTAD POR FALTA DE ELEMENTOS PARA PROCESAR.
+REGLAS GENERALES PARA LA INSTRUCCION.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
 
@@ -1829,11 +1925,11 @@ Ni al aprehender ni al conducir al establecimiento de detención a los presuntos
 
 Al recibirse en un establecimiento de detención a cualquier persona en calidad de detenida o en reclusión, el Alcaide o encargado del reclusorio deberá otorgar el recibo correspondiente, expresándose en él, el día y la hora en que se realice el internamiento. Si el detenido recluso debe quedar a disposición de alguna autoridad judicial del Estado, inmediatamente que se haga el internamiento, el Alcaide o encargado del reclusorio lo comunicará a la autoridad judicial respectiva.
 
-### CAPITULO I
+### CAPITULO II
 
-DE LA LIBERTAD BAJO CAUCION.
+DE LA DECLARACION PREPARATORIA DEL INCULPADO Y DEL NOMBRAMIENTO DEL DEFENSOR.
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
 
 ###### Art. 239.
 
@@ -1953,9 +2049,11 @@ Los defensores pueden promover todas las diligencias e intentar todos los recurs
 
 Los defensores pueden libremente desistirse de las diligencias que hubieren solicitado o de los recursos que hayan promovido, excepto en el caso en que el procesado personalmente haya hecho la promoción o intentado el recurso, pues entonces el desistimiento del defensor no surtirá ningún efecto sin expreso consentimiento de aquél.
 
-### CAPITULO II
+### CAPITULO III
 
-DE LA LIBERTAD BAJO PROTESTA.
+DE LOS AUTOS DE FORMAL PRISION, DE SUJECION A PROCESO Y DE LIBERTAD POR FALTA DE ELEMENTOS PARA PROCESAR.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
 
 ###### Art. 260.
 
@@ -2025,9 +2123,11 @@ SEGUNDA PARTE.
 
 INCIDENTES.
 
-### CAPITULO III
+### CAPITULO I
 
-DE LA LIBERTAD POR DESVANECIMIENTO DE DATOS PARA PROCESAR.
+DE LA LIBERTAD BAJO CAUCION.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1994)</small>
 
 ###### Art. 269.
 
@@ -2263,9 +2363,9 @@ En los casos a que se refiere el artículo anterior y en los que haya causado ej
 
 Ni la resolución de Primera Instancia ni al que se pronunciare en Segunda, negando la libertad bajo caución pasan en autoridad de cosa juzgada. Por causas legales supervenientes, puede en cualquier tiempo solicitarse de nuevo y concederse, sin que para que se conceda en Primera Instancia, sea obstáculo el que se encuentre pendiente la apelación contra el auto que la había negado.
 
-### CAPITULO IV
+### CAPITULO II
 
-DEL SOBRESEIMIENTO.
+DE LA LIBERTAD BAJO PROTESTA.
 
 ###### Art. 290.
 
@@ -2315,9 +2415,9 @@ I.- Cuando el tiempo de detención preventiva llegue ya al máximo de la reclusi
 
 II.- Cuando cumpla la reclusión impuesta en la sentencia de Primera Instancia, estando pendiente el recurso de apelación.
 
-### CAPITULO V
+### CAPITULO III
 
-DE LA SUSPENSION DEL PROCEDIMIENTO.
+DE LA LIBERTAD POR DESVANECIMIENTO DE DATOS PARA PROCESAR.
 
 ###### Art. 294.
 
@@ -2349,9 +2449,9 @@ La resolución que conceda la libertad por desvanecimiento de datos para procede
 
 La resolución que conceda o niegue la libertad a que se refiere éste Capítulo, será apelable en el efecto devolutivo.
 
-### CAPITULO VI
+### CAPITULO IV
 
-DE LA ACUMULACION DE PROCESOS.
+DEL SOBRESEIMIENTO.
 
 ###### Art. 300.
 
@@ -2409,9 +2509,9 @@ El inculpado a cuyo favor se haya decretado el sobreseimiento, será puesto en a
 
 El auto de sobreseimiento surtirá los efectos de una sentencia absolutoria, y una vez ejecutoriado tendrá el valor de cosa juzgada por lo que respecta a las personas y a los delitos que en él se expresen. Será apelable en el efecto devolutivo.
 
-### CAPITULO VII
+### CAPITULO V
 
-SEPARACION DE PROCESOS.
+DE LA SUSPENSION DEL PROCEDIMIENTO.
 
 ###### Art. 308.
 
@@ -2451,9 +2551,9 @@ El Tribunal resolverá de plano sobre la suspensión, con la sola petición del 
 
 En el caso de la Fracción II del mismo artículo, cuando lo solicite el inculpado, resolverá con audiencia del Ministerio Público. La resolución que en este caso se dicte, será apelable en el efecto devolutivo.
 
-### CAPITULO VIII
+### CAPITULO VI
 
-DE LOS INCIDENTES NO ESPECIFICADOS.
+DE LA ACUMULACION DE PROCESOS.
 
 ###### Art. 315.
 
@@ -2547,11 +2647,9 @@ I.- Si la infracción cometida en el Estado es anterior o posterior a la otra u 
 
 II.- Pronunciada ésta, se remitirá testimonio a la autoridad respectiva, a la cual serán consignados los infractores, cumplida que sea la sentencia en el Estado.
 
-### CAPITULO I
+### CAPITULO VII
 
-DE LA REPARACION DEL DAÑO COMO SANCION PUBLICA.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 1998)</small>
+SEPARACION DE PROCESOS.
 
 ###### Art. 330.
 
@@ -2583,11 +2681,9 @@ Cuando varios Jueces conocieren de procesos cuya separación se hubiere decretad
 
 La separación de autos podrá decretarse de oficio cuando también de oficio se haya decretado la acumulación.
 
-### CAPITULO II
+### CAPITULO VIII
 
-DE LA RESPONSABILIDAD EXIGIBLE A TERCEROS.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+DE LOS INCIDENTES NO ESPECIFICADOS.
 
 ###### Art. 335.
 
@@ -2615,7 +2711,9 @@ LA ACCION CIVIL.
 
 ### CAPITULO I
 
-DOCUMENTOS.
+DE LA REPARACION DEL DAÑO COMO SANCION PUBLICA.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 1998)</small>
 
 ###### Art. 340.
 
@@ -2643,7 +2741,9 @@ El secuestro se practicará con arreglo al Código de Procedimientos Civiles, y 
 
 ### CAPITULO II
 
-INSPECCION OCULAR Y RECONSTRUCCION DE HECHOS.
+DE LA RESPONSABILIDAD EXIGIBLE A TERCEROS.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ###### Art. 343.
 
@@ -2751,11 +2851,9 @@ SEGUNDA PARTE.
 
 DE LA NATURALEZA DE ALGUNOS MEDIOS DE PRUEBA EN PARTICULAR SU PRACTICA.
 
-### CAPITULO III
+### CAPITULO I
 
-DE LOS CATEOS E INSPECCIONES DOMICILIARIAS.
-
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
+DOCUMENTOS.
 
 ###### Art. 356.
 
@@ -2843,11 +2941,9 @@ II.- El cotejo se hará con documentos indubitables, teniéndose por tales los q
 
 El Tribunal podrá ordenar que se haga un nuevo cotejo por distintos peritos cuando lo juzgue conveniente.
 
-### CAPITULO IV
+### CAPITULO II
 
-CONFESION.
-
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
+INSPECCION OCULAR Y RECONSTRUCCION DE HECHOS.
 
 ###### Art. 370.
 
@@ -2899,9 +2995,11 @@ Para practicar la reconstrucción, el personal del Tribunal se trasladará al lu
 
 Cuando hubiere versiones distintas acerca de la forma en que ocurrieron los hechos, se practicarán si fueren conducentes al esclarecimiento de los mismos, las reconstrucciones relativas a cada una de aquéllas, y en caso de que se haga necesaria la intervención de peritos, éstos dictaminarán sobre cual de las versiones puede acercarse más a la verdad.
 
-### CAPITULO V
+### CAPITULO III
 
-PERITOS.
+DE LOS CATEOS E INSPECCIONES DOMICILIARIAS.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
 
 ###### Art. 382.
 
@@ -2965,7 +3063,11 @@ Si el inculpado estuviere presente, se le mostrarán los objetos recogidos para 
 
 En la misma forma que determina este Capítulo se procederá, cuando mediare exhorto, requisitoria de otro Tribunal u oficio de colaboración por el Ministerio Público requirente para el cateo o la visita domiciliaria.
 
-### CAPITULO VI
+### CAPITULO IV
+
+CONFESION.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
 
 ###### Art. 395.
 
@@ -2973,9 +3075,9 @@ La confesión es la declaración voluntaria hecha por persona no menor de diecis
 
 La confesión es admisible en cualquier estado del proceso hasta antes de pronunciarse la sentencia irrevocable.
 
-### CAPITULO I
+### CAPITULO V
 
-DE LA ACUSACION.
+PERITOS.
 
 ###### Art. 396.
 
@@ -3035,9 +3137,7 @@ Cuando las opiniones de los peritos discordaren, el funcionario que practique la
 
 Cuando el peritaje recaiga sobre objetos que se consuman al ser analizados, no se permitirá que se verifique el primer análisis sino cuando más sobre la mitad de la substancia, a no ser que su cantidad sea tan escasa que los peritos no puedan emitir su opinión sin consumirla por completo o que por su propia naturaleza no pueda conservarse en estado normal, lo cual se hará constar en el acta respectiva.
 
-### CAPITULO II
-
-DE LA DEFENSA.
+### CAPITULO VI
 
 #### SECCION PRIMERA.
 
@@ -3275,9 +3375,9 @@ La confrontación no sólo podrá practicarse en los casos a que se refiere el A
 
 DEL JUICIO.
 
-### CAPITULO III
+### CAPITULO I
 
-DE LA AUDIENCIA FINAL Y DE LA SENTENCIA.
+DE LA ACUSACION.
 
 ###### Art. 446.
 
@@ -3315,9 +3415,9 @@ Las conclusiones definitivas del Ministerio Público no pueden modificarse sino 
 
 Si el Ministerio Público quisiera rendir algunas de las pruebas a que se refiere el Artículo 461, así lo expresará en sus conclusiones, indicando el tiempo que crea necesario para prepararlas, el cual será tomado en cuenta por el Tribunal al fijar la fecha de la audiencia final.
 
-### CAPITULO IV
+### CAPITULO II
 
-DEL PROCEDIMIENTO SUMARIO.
+DE LA DEFENSA.
 
 ###### Art. 455.
 
@@ -3335,11 +3435,9 @@ Si al concluirse el término concedido al acusado y su defensor, éstos no hubie
 
 Es aplicable al acusado y a su defensor, lo dispuesto en el Artículo 454 de este Código.
 
-### CAPITULO V
+### CAPITULO III
 
-DE LA CONDENA CONDICIONAL.
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2003)</small>
+DE LA AUDIENCIA FINAL Y DE LA SENTENCIA.
 
 ###### Art. 459.
 
@@ -3369,9 +3467,9 @@ En las sentencias que impongan sanciones de duración temporal, se determinará 
 
 Inmediatamente después de que cause ejecutoria una sentencia condenatoria o que declare compurgada la sanción en ella impuesta, se amonestará al sentenciado para que no reincida, advirtiéndole a lo que se expone en caso de reincidencia. También se le harán saber, en su caso, las disposiciones relativas a la libertad preparatoria y a la retención.
 
-### CAPITULO VI
+### CAPITULO IV
 
-DE LA ACLARACION DE SENTENCIA.
+DEL PROCEDIMIENTO SUMARIO.
 
 ###### Art. 466.
 
@@ -3397,9 +3495,11 @@ Tratándose de delitos que estén sancionados únicamente con multa, caución de
 
 Son aplicables en lo conducente las disposiciones de los Artículos 96 y 103 del Código Penal.
 
-### CAPITULO VII
+### CAPITULO V
 
-SENTENCIA IRREVOCABLE.
+DE LA CONDENA CONDICIONAL.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2003)</small>
 
 ###### Art. 470.
 
@@ -3437,11 +3537,9 @@ Respecto a la ejecución de la sanción impuesta en la sentencia que concedió l
 
 En el caso de la primera parte del Artículo 104 del Código Penal, el fiador ocurrirá ante el Tribunal que conoció de la fianza, procediendo el Tribunal en la forma que establece la disposición de referencia.
 
-### CAPITULO I
+### CAPITULO VI
 
-PROCEDIMIENTO RELATIVO A LOS ENFERMOS MENTALES.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+DE LA ACLARACION DE SENTENCIA.
 
 ###### Art. 477.
 
@@ -3479,9 +3577,9 @@ Contra la resolución que se dicte negando la aclaración de una sentencia, no p
 
 La aclaración propuesta interrumpe el término señalado para la interposición de la apelación.
 
-### CAPITULO II
+### CAPITULO VII
 
-MENORES.
+SENTENCIA IRREVOCABLE.
 
 ###### Art. 486.
 
@@ -3579,7 +3677,9 @@ PROCEDIMIENTOS ESPECIALES.
 
 ### CAPITULO I
 
-REGLAS GENERALES.
+PROCEDIMIENTO RELATIVO A LOS ENFERMOS MENTALES.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ###### Art. 504.
 
@@ -3619,7 +3719,7 @@ El sobreseimiento a que se refiere este Capítulo y la resolución que impone la
 
 ### CAPITULO II
 
-DE LA REVOCACION.
+MENORES.
 
 ###### Art. 509.
 
@@ -3629,9 +3729,9 @@ El Consejo Tutelar para Menores tiene por objeto promover la readaptación socia
 
 DE LOS RECURSOS.
 
-### CAPITULO III
+### CAPITULO I
 
-DE LA APELACION.
+REGLAS GENERALES.
 
 ###### Art. 510.
 
@@ -3649,9 +3749,9 @@ Tampoco procederán los recursos que éste Código establece, cuando se interpon
 
 Solamente las partes o sus representantes legítimos o defensores, pueden interponer los recursos establecidos en este Código, sin perjuicio de lo dispuesto especialmente para la denegada apelación.
 
-### CAPITULO IV
+### CAPITULO II
 
-DE LA QUEJA.
+DE LA REVOCACION.
 
 ###### Art. 514.
 
@@ -3671,11 +3771,9 @@ Los Tribunales, dentro de las veinticuatro horas siguientes a la en que la resol
 
 Interpuesto el recurso, el Tribunal lo resolverá de plano si estimare que no es necesario oír a las partes. En caso contrario, las citará a una audiencia que se efectuará dentro de las cuarenta y ocho horas siguientes, y en ella dictará su resolución contra la que no cabrá recurso alguno.
 
-### CAPITULO I
+### CAPITULO III
 
-DISPOSICIONES GENERALES.
-
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
+DE LA APELACION.
 
 ###### Art. 518.
 
@@ -3877,9 +3975,9 @@ Notificado el fallo a las partes, se remitirá desde luego la ejecutoria al Trib
 
 Si el Tribunal de apelación encuentra que se retardó indebidamente el despacho del asunto o que se violó la ley durante el procedimiento judicial, llamará la atención al inferior y podrá imponerle una corrección disciplinaria de plano o dar vista al Ministerio Público, si la violación constituye un delito.
 
-### CAPITULO II. RECONOCIMIENTO DE INOCENCIA E INDULTO DEL REO
+### CAPITULO IV
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+DE LA QUEJA.
 
 ###### Art. 546.
 
@@ -3931,9 +4029,11 @@ Si la resolución que se dicte declara fundada la queja, se ordenará al Juez o 
 
 DE LA EJECUCION DE SENTENCIAS.
 
-### CAPITULO III
+### CAPITULO I
 
-DE LA REHABILITACION.
+DISPOSICIONES GENERALES.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
 
 ###### Art. 554.
 
@@ -4023,6 +4123,10 @@ IV.- Resolver los reclamos que formulen los internos sobre sanciones disciplinar
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
 
+### CAPITULO II. RECONOCIMIENTO DE INOCENCIA E INDULTO DEL REO
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
 ###### Art. 564.
 
 El reconocimiento de la inocencia del reo se declarará en cualesquiera de los casos siguientes:
@@ -4088,6 +4192,10 @@ El Ejecutivo, a la vista de la solicitud y de los comprobantes presentados, si s
 ###### Art. 574.
 
 Todo indulto se publicará en el Periódico Oficial del Estado y se comunicará al Tribunal que hubiere pronunciado sentencia condenatoria para que haga la anotación correspondiente en el proceso respectivo.
+
+### CAPITULO III
+
+DE LA REHABILITACION.
 
 ###### Art. 575.
 
@@ -4416,3 +4524,11 @@ P.O. 30 DE MAYO DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE OCTUBRE DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El Procurador General de Justicia del Estado, expedirá el Protocolo Especializado para la Investigación del delito de Feminicidio, dentro de seis meses contados a partir del día siguiente a la entrada en vigor de este Decreto.
+
+TERCERO. Para la debida implementación del presente Decreto, se destinarán los recursos necesarios en el Presupuesto de Egresos del Estado de Oaxaca, para su ejecución a las instituciones correspondientes.
