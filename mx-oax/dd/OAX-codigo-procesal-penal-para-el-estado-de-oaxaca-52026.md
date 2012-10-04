@@ -4,7 +4,7 @@ identifier: "OAX-codigo-procesal-penal-para-el-estado-de-oaxaca-52026"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-09"
-last_updated: "2011-09-23"
+last_updated: "2012-10-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52026&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "OAX"
 ---
 # CODIGO PROCESAL PENAL PARA EL ESTADO DE OAXACA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE FEBRERO DE 2013 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CODIGO PROCESAL PENAL PARA EL ESTADO DE OAXACA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL CODIGO PROCESAL PENAL PARA EL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 9 DE SEPTIEMBRE DE 2006, 5 DE SEPTIEMBRE DE 2009, 2 DE MARZO DE 2010, 23 DE AGOSTO DE 2010 Y 5 DE MAYO DE 2011, EL PRESENTE ORDENAMIENTO ENTRARA EN VIGOR SUCESIVAMENTE EN LOS TERMINOS SEÑALADOS EN EL PROPIO TRANSITORIO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 2012.
 
 Código publicado en la Cuarta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de septiembre de 2006.
 
@@ -887,9 +889,17 @@ La acción para obtener la reparación del daño comprende el reclamo de:
 
 I. La restitución de la cosa obtenida por el delito y sus frutos, o, en su defecto, el pago del precio correspondiente;
 
-II. El resarcimiento del daño material y moral causados, en su caso; y
+II. El resarcimiento del daño material y moral causados, en su caso; y (sic)
 
 III. El resarcimiento de los perjuicios ocasionados.
+
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2012)</small>
+
+IV. La reparación del daño material, físico, psicológico y moral causado, incluyendo el pago de los tratamientos curativos que, como consecuencia del delito, sean necesarios para la recuperación de la salud de la víctima, y
+
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2012)</small>
+
+V. El pago de la indemnización correspondiente por el delito de homicidio o feminicidio.
 
 ###### Artículo 91.
 
@@ -1261,9 +1271,17 @@ III. A la persona que hubiere vivido de forma permanente con el ofendido durante
 
 IV. A los socios, asociados o miembros, respecto de su parte alícuota, tratándose de los delitos que afectan a una persona jurídica;
 
-V. A las asociaciones, fundaciones y otros entes, en los delitos que afectan intereses colectivos o difusos, siempre que el objeto de la agrupación se vincule directamente con esos intereses; y
+V. A las asociaciones, fundaciones y otros entes, en los delitos que afectan intereses colectivos o difusos, siempre que el objeto de la agrupación se vincule directamente con esos intereses; y (sic)
 
 VI. A las comunidades indígenas, en los hechos punibles que impliquen discriminación o genocidio respecto de los miembros de la etnia o generen regresión demográfica, depredación de su hábitat, contaminación ambiental, explotación económica o alienación cultural.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE OCTUBRE DE 2012)</small>
+
+VII. A quienes se encuentren en situación de vulnerabilidad, especialmente a las mujeres, a las y los menores de edad y adultos y adultas mayores, personas con discapacidad, las personas pertenecientes a pueblos o comunidades indígenas, personas con diversas preferencias sexuales o cualquier persona que por sus condiciones sociales, económicas, psicológicas o culturales pueda ser sujetas de discriminación, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE OCTUBRE DE 2012)</small>
+
+VIII. A los familiares; cónyuge, concubino dependientes económicos de la víctima directa del delito, así como a cualquier otra persona que tenga una relación de hecho o convivencia afectiva con éstos y que sufran, hayan sufrido o se encuentren en situación de riesgo de sufrir algún daño o perjuicio por motivo o a consecuencia de la comisión del delito.
 
 La víctima deberá suministrar los datos que permitan su identificación personal y mostrar un documento oficial que acredite fehacientemente su identidad, sin perjuicio de las medidas de protección y reserva de su identidad que pudieran decretarse.
 
@@ -1303,11 +1321,39 @@ XI. Apelar del sobreseimiento;
 
 > <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
-XII. Solicitar las medidas de coerción y providencias necesarias para la protección y restitución de sus derechos; y
+XII. Solicitar las medidas de coerción y providencias necesarias para la protección y restitución de sus derechos; y (sic)
 
 > <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 XIII. Al resguardo de su identidad y otros datos personales, cuando sean menores de edad, se trate de delito de violación o secuestro, y cuando a juicio del juzgador sea necesario para su protección, salvaguardando en todo caso los derechos de la defensa.
+
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2012)</small>
+
+XIV. Canalizar a la víctima a las instancias que brinden los servicios de atención a víctimas del delito, de manera pronta y expedita;
+
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2012)</small>
+
+XV. A ser informada del avance de su denuncia y de las subsecuentes actuaciones sobre la misma, del desarrollo de la investigación, del proceso y tener acceso al expediente;
+
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2012)</small>
+
+XVI. Tratándose de víctimas menores de edad, a que se le garantice y ponderen sus derechos frente a los del inculpado, velando siempre por su bienestar e Integridad física y psicológica, tomando en consideración el interés superior del menor;
+
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2012)</small>
+
+XVII. Que se le proporcione de manera gratuita la asistencia de intérprete o traductor, en cualquier etapa del proceso, cuando la víctima u ofendido pertenezca a un grupo étnico o no conozca o no comprenda bien el idioma castellano, o tenga alguna discapacidad que así lo requiera;
+
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2012)</small>
+
+XVIII. Garantizarle el derecho a una debida investigación, sin discriminación y libre de estereotipos, particularmente en los casos relativos a la investigación de los delitos de homicidio, feminicidio, los relacionados a la libertad sexual, trata de personas o contra el normal desarrollo psicosexual de las personas;
+
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2012)</small>
+
+XIX. A un trato humano, con calidad y calidez, sin discriminación alguna, y
+
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2012)</small>
+
+XX. A recibir asesoría jurídica, protección especial de su integridad física o psicológica con inclusión de su familia inmediata, cuando reciba amenazas o corra peligro en razón del papel que cumple en la investigación del delito.
 
 La víctima será informada sobre sus derechos cuando realice la denuncia o en su primera intervención en el proceso.
 
@@ -1839,6 +1885,10 @@ XI. Lesiones dolosas, previsto en el artículo 271 y sancionado en los artículo
 
 XII. Violencia intrafamiliar, previsto en el artículo 404, y tipificado por el artículo 405.
 
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2012)</small>
+
+XIII. El feminicidio, previsto en el artículo 411 y sancionado en el artículo 412.
+
 Así como el delito de tortura, previsto en el artículo 1 y sancionado en los artículos 2, 3 y 4 de la Ley Estatal para Prevenir y Sancionar la Tortura.
 
 > <small>(REFORMADO EN SU RUBRO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
@@ -2139,6 +2189,8 @@ El cumplimiento de lo acordado extingue la acción penal.
 
 ### CAPÍTULO II. CRITERIOS DE OPORTUNIDAD
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE FEBRERO DE 2013 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 ###### Artículo 196.
 
 Principios de legalidad procesal y oportunidad
@@ -2157,9 +2209,9 @@ II. El imputado haya sufrido, a consecuencia del hecho, daño físico o psíquic
 
 III. La pena o medida de seguridad que pueda imponerse por el hecho de cuya persecución se prescinde, carezca de importancia en consideración a la pena o medida de seguridad ya impuesta, o a la que se debe esperar por los restantes hechos, o la que se le impuso o se le impondría en un proceso tramitado en otro Estado.
 
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2012)</small>
 
-El Ministerio Público deberá aplicar los criterios de oportunidad y otras facultades discrecionales sobre la base de razones objetivas y sin discriminación, valorando las pautas descritas en cada caso individual, según las pautas generales que al efecto se hayan dispuesto para la procuración de justicia. En los casos en que se verifique un daño, el Ministerio Público velará porque sea razonablemente reparado.
+El Ministerio Público deberá aplicar los criterios de oportunidad y otras facultades discrecionales sobre la base de razones objetivas, libre de estereotipos, con perspectiva de género y sin discriminación, valorando las pautas descritas en cada caso individual, según las pautas generales que al efecto se hayan dispuesto para la procuración de justicia. En los casos en que se verifique un daño, el Ministerio Público velará porque sea razonablemente reparado, exceptuando de esta disposición los delitos de violencia intrafamiliar, los delitos de carácter sexual y feminicidio.
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
@@ -4523,7 +4575,9 @@ Cuando se trate de delitos que afecten bienes jurídicos propios de un pueblo o 
 
 En estos casos, cualquier miembro de la comunidad indígena podrá solicitar que así se declare ante el juez competente.
 
-Se excluyen los casos de homicidio doloso, violación, violencia intrafamiliar, los delitos cometidos contra menores de doce años, los delitos agravados por el resultado de muerte y los delitos de asociación delictuosa.
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2012)</small>
+
+Se excluyen los casos de feminicidio, homicidio doloso, violación, violencia intrafamiliar, los delitos cometidos contra menores de doce años, los delitos agravados por el resultado de muerte y los delitos de asociación delictuosa.
 
 ## TÍTULO DÉCIMO. RECURSOS
 
@@ -5386,3 +5440,11 @@ P.O. 5 DE MAYO DE 2011.
 P.O. 23 DE SEPTIEMBRE DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 4 DE OCTUBRE DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El Procurador General de Justicia del Estado, expedirá el Protocolo Especializado para la Investigación del delito de Feminicidio, dentro de seis meses contados a partir del día siguiente a la entrada en vigor de este Decreto.
+
+TERCERO. Para la debida implementación del presente Decreto, se destinarán los recursos necesarios en el Presupuesto de Egresos del Estado de Oaxaca, para su ejecución a las instituciones correspondientes.
