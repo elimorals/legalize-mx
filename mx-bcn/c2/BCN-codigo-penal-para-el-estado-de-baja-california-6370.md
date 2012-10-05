@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2012-09-28"
+last_updated: "2012-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2012.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -2393,6 +2393,18 @@ Las instituciones y organismos auxiliares de crédito, las de fianza y las de se
 
 X.- Al fiador que habiendo garantizado la libertad caucional de un inculpado, caiga deliberadamente en insolvencia para impedir que se haga efectiva la caución, a raíz de la revocación del beneficio.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE OCTUBRE DE 2012)</small>
+
+XI.- A quien venda o intercambie por algún otro bien, vales de papel o cualquier dispositivo en forma de tarjeta plástica, emitido por personas morales utilizados para intercambiar o canjear bienes y servicios con conocimientos (sic) que son falso.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE OCTUBRE DE 2012)</small>
+
+XII.- Al que haga efectivos vales de papel o cualquier dispositivo en forma de tarjeta plástica, emitido por personas morales para intercambiar o canjear bienes o servicios, ante las tiendas o establecimientos que los aceptan, con conocimientos (sic) de que son falsos.
+
 > <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
 
 ###### Artículo 220.
@@ -3017,7 +3029,15 @@ Tipo y punibilidad de falsificación de documentos.- Se impondrá prisión de se
 
 Uso de documentos falsos.- Las mismas penas se impondrán al que, a sabiendas y con los fines a que se refiere el párrafo anterior, haga uso de un documento falso o alterado, o haga uso indebido de un documento verdadero, expedido en favor de otro, como si hubiera sido expedido a su nombre.
 
-> <small>(ADICIONADO, P.O. 4 DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE OCTUBRE DE 2012)</small>
+
+De igual forma comete el delito de falsificación el que sin autorización para ello, produzca, imprima, enajene, distribuya o altere vales de papel o cualquier dispositivo electrónico en forma de tarjeta plástica, emitido por personas morales utilizados para canjear bienes y servicios.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2012)</small>
 
 Se incrementará la pena hasta en una tercera parte, cuando el autor sea o haya sido integrante de alguna institución de seguridad pública o corporación policíaca, hasta un año después de haber concluido el empleo, cargo o comisión.
 
@@ -4854,3 +4874,7 @@ DECRETO No. 275, POR EL QUE SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 119 Y 120 
 P.O. 28 DE SEPTIEMBRE DE 2012.
 
 ÚNICO.- La reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE OCTUBRE DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor a los 20 días siguientes de su publicación en el Periódico Oficial del Estado.
