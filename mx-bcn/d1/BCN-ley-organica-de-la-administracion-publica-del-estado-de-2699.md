@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-2699"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "2012-06-01"
+last_updated: "2012-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2012.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el lunes 20 de enero de 1986.
 
@@ -669,9 +669,17 @@ XVII.- Promover la obtención de recursos públicos, privados, o extranjeros, pa
 
 XVIII.- Suscribir, previo acuerdo del Ejecutivo, los convenios necesarios para el cumplimiento de sus atribuciones;
 
-XIX.- Promover la realización de acciones o construcción de obras de infraestructura y equipamiento para el desarrollo urbano y el bienestar social en coordinación con los gobiernos federal y municipal y, con la participación de los sectores social y privado; y
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2012)</small>
 
-XX.- Los demás que determinen las leyes y reglamentos.
+XIX.- Promover la realización de acciones o construcción de obras de infraestructura y equipamiento para el desarrollo urbano y el bienestar social en coordinación con los gobiernos federal y municipal y, con la participación de los sectores social y privado;
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2012)</small>
+
+XX.- Implementar programas de fomento a proyectos productivos que permitan el mejoramiento y fortalecimiento de la calidad de vida de personas, familias o grupos sociales en situación de vulnerabilidad, preferentemente a quienes se ubiquen en zonas de mayor marginación; y
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2012)</small>
+
+XXI.- Los demás que determinen las leyes y reglamentos.
 
 ARTICULO 26 BIS.- (DEROGADO, P.O. 5 DE JUNIO DE 1998)
 
@@ -2034,3 +2042,7 @@ SEGUNDO: Para efectos administrativos y presupuestales, la Secretaría de Protec
 TERCERO: El reglamento que se derive de la presente reforma deberá ser elaborado dentro de un plazo no mayor de 90 días contados a partir de la entrada en vigor de la presente reforma.
 
 CUARTO: Las presentes reformas entrarán en vigor el día primero de enero del año dos mil trece.
+
+P.O. 5 DE OCTUBRE DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
