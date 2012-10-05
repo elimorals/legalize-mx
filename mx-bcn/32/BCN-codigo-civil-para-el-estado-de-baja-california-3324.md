@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2012-08-31"
+last_updated: "2012-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2012.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -511,9 +511,9 @@ Si al dar aviso de un nacimiento se comunicare también la muerte del recién na
 
 Cuando se trate de parto múltiple se levantará un acta por cada uno de los nacidos.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE OCTUBRE DE 2012)</small>
 
-### CAPITULO III. DE LAS ACTAS DE RECONOCIMIENTO DE HIJOS
+### CAPITULO III. DEL RECONOCIMIENTO DE HIJOS
 
 > <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
 
@@ -521,17 +521,15 @@ Cuando se trate de parto múltiple se levantará un acta por cada uno de los nac
 
 Si el padre o la madre de un hijo nacido fuera de matrimonio, o ambos, lo presentaren para que se registre su nacimiento, el acta surtirá todos los efectos del reconocimiento legal, respecto del progenitor compareciente.
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 1983)</small>
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2012)</small>
 
 ###### ARTICULO 78.
 
-Si el reconocimiento del hijo nacido fuera de matrimonio se hiciere después de haber sido registrado su nacimiento, se formará acta separada. Para tal reconocimiento es necesario recabar su consentimiento para ser reconocido si es mayor de edad, si es menor de edad pero mayor de 14 años, su consentimiento y el de la persona que lo tenga bajo su custodia, si es menor de 14 años, el consentimiento de quien lo tenga bajo su custodia.
-
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 1983)</small>
+Si el reconocimiento del hijo nacido fuera del matrimonio se hiciere después de haber sido registrado su nacimiento, se hará mención de éste con la nota marginal correspondiente en el acta de nacimiento originaria la cual quedará reservada por lo que no podrá expedir constancia de ella, ni se podrá publicar salvo por mandato judicial o a petición del interesado. En caso de que no existiera mandato judicial o petición del interesado se expedirá el acta con los datos actualizados y sin la nota marginal. Para realizar el reconocimiento es necesario recabar su consentimiento para ser reconocido si es mayor de edad, si es menor de edad pero mayor de 14 años, su consentimiento y el de la persona que lo tenga bajo su custodia, si es menor de 14 años, el consentimiento de quien lo tenga bajo su custodia.
 
 ###### ARTICULO 79.
 
-El acta de reconocimiento contendrá: nombre, apellidos, fecha y lugar de nacimiento, domicilio y huella digital del reconocido; nombre, apellidos, edad, domicilio y nacionalidad del reconocedor; nombre, apellidos, nacionalidad y domicilio de los abuelos, padres del reconocedor; nombres, apellidos, edad, estado civil, domicilio, nacionalidad y parentesco con el reconocido de la persona o personas que otorgan el consentimiento, en su caso, y nombres, apellidos, edad, domicilio y nacionalidad de los testigos.
+(DEROGADO, P.O. 5 DE OCTUBRE DE 2012)
 
 > <small>(REFORMADO, P.O. 10 DE MAYO DE 1983)</small>
 
@@ -545,11 +543,9 @@ Si el reconocimiento se hace por alguno de los otros medios establecidos en este
 
 La omisión del registro, en el caso del artículo que precede, no quita los efectos legales al reconocimiento hecho conforme a las disposiciones de este Código.
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 1983)</small>
-
 ###### ARTICULO 82.
 
-En el acta de reconocimiento hecho con posterioridad al acta de nacimiento, se hará mención de ésta, poniendo en ella la anotación correspondiente.
+(DEROGADO, P.O. 5 DE OCTUBRE DE 2012)
 
 > <small>(REFORMADO, P.O. 10 DE MAYO DE 1983)</small>
 
@@ -16048,3 +16044,11 @@ SEGUNDO.- Las disposiciones contenidas en la presente reforma, serán aplicables
 P.O. 31 DE AGOSTO DE 2012.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el periódico Oficial del Estado de Baja California.
+
+P.O. 5 DE OCTUBRE DE 2012.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las actas de reconocimiento expedidas con anterioridad de la entrada en vigor de la presente reforma, a solicitud del padre y la madre del menor, se regirán por las disposiciones aprobadas, con apego a los requisitos exigidos por ley.
+
+TERCERO.- Los diversos Ayuntamientos del Estado, difundirán a través de los medios de comunicación a la comunidad en general, el objeto de la presente reforma.
