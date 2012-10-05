@@ -4,7 +4,7 @@ identifier: "SIN-ley-electoral-del-estado-de-sinaloa-6493"
 country: "mx"
 rank: "ley"
 publication_date: "1992-05-06"
-last_updated: "2009-10-01"
+last_updated: "2012-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6493&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ELECTORAL DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE OCTUBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2012.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 6 de mayo de 1992.
 
@@ -45,7 +45,7 @@ LEY ELECTORAL DEL ESTADO DE SINALOA.
 
 Las disposiciones de esta ley son de orden publico y de observancia general en el Estado de Sinaloa, y reglamentan las normas constitucionales relativas a las instituciones políticas y a la función estatal de organizar las elecciones de los integrantes de los Poderes Legislativo, Ejecutivo y Ayuntamientos de la entidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ENERO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ENERO DE 1998)</small>
 
 ###### ARTICULO 2.
 
@@ -77,11 +77,25 @@ Las elecciones de Gobernador del Estado, de los Diputados del Congreso del Estad
 
 El Poder Legislativo de la entidad se deposita en una Asamblea que se denomina Congreso del Estado y se integrará con 40 diputados, 24 de ellos electos por el sistema de mayoría relativa en distritos electorales uninominales y 16 diputados electos de acuerdo con el principio de representación proporcional mediante el sistema de listas de candidatos votada en una sola circunscripción plurinominal.
 
-Por cada Diputado Propietario se elegirá un suplente. El suplente entrará en funciones para cubrir las faltas temporales o absolutas del propietario.
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2012)</small>
+
+Por cada Diputado Propietario se elegirá un suplente, debiendo ser ambos del mismo género. El suplente entrará en funciones para cubrir las faltas temporales o absolutas del propietario.
 
 En los casos de vacantes de miembros del Congreso del Estado, electos por el principio de mayoría relativa, el Congreso del Estado convocará en los términos previstos por la Constitución Política del Estado de Sinaloa.
 
-Las vacantes de los diputados que hubieren sido electos según el sistema de representación proporcional se cubrirán con los candidatos postulados por su propio partido que hubiesen quedado en lugar preferente en la lista de candidatos de la circunscripción plurinominal.
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2012)</small>
+
+Las vacantes de los diputados que hubieren sido electos según el principio de representación proporcional se cubrirán con sus respectivos suplentes, y a falta de ambos con los candidatos postulados por su propio partido que hubiesen quedado en lugar preferente en la lista de candidatos de la circunscripción plurinominal.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2012)</small>
+
+###### ARTICULO 3o.
+
+BIS A.- Los partidos políticos o coaliciones no podrán postular más del sesenta por ciento de las candidaturas a diputados propietarios y suplentes por el sistema de mayoría relativa de un mismo género.
+
+Quedan exceptuadas las postulaciones que sean producto de un proceso democrático de selección de candidatos, desarrollado de acuerdo con los estatutos de cada partido.
+
+Cuando la aplicación del porcentaje a que se refiere el párrafo primero de este artículo arroje un resultado fraccionario, se ajustará hacia el entero menor próximo.
 
 > <small>(REFORMADO, P.O. 5 DE ABRIL DE 1995)</small>
 
@@ -147,11 +161,21 @@ El ejercicio del Poder Ejecutivo se deposita en un ciudadano que se denomina Gob
 
 Los Ayuntamientos se integran con un Presidente Municipal, un Síndico Procurador y con el número de Regidores que fije la Ley.
 
-La elección de regidores por el sistema de mayoría relativa se hará por planilla, dentro de la cual se integrará al Síndico Procurador, y que encabezará la candidatura a presidente municipal.
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2012)</small>
 
-La elección de regidores por el principio de representación proporcional, se hará mediante listas municipales votadas en sus respectivas jurisdicciones.
+La elección de regidores por el sistema de mayoría relativa se hará por planilla, dentro de la cual se integrará al Síndico Procurador, y que encabezará la candidatura a presidente municipal. Las planillas deberán integrarse con un sesenta por ciento de fórmulas de candidatos a regidores de un género y cuarenta por ciento de formulas del otro género, mismas que se incluirán alternadamente, de tal manera que a una fórmula de un género siga siempre una fórmula de género distinto.
 
-Por cada Síndico Procurador y cada uno de los regidores propietarios se elegirá un suplente.
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2012)</small>
+
+Cuando la aplicación de los porcentajes arroje un resultado fraccionado, se ajustará hacia el entero menor próximo.
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2012)</small>
+
+La elección de regidores por el principio de representación proporcional, se hará mediante listas municipales votadas en sus respectivas jurisdicciones, aplicando los porcentajes y el criterio de alternancia a que se refiere los párrafos anteriores.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2012)</small>
+
+Por cada Síndico Procurador y cada uno de los regidores propietarios se elegirá un suplente. En caso de los regidores, tanto el propietario como el suplente deberán ser del mismo género.
 
 > <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2006)</small>
 
@@ -177,11 +201,17 @@ Para la elección de los Diputados de Representación Proporcional, la circunscr
 
 Para que un partido político obtenga el registro de su lista estatal para la elección de diputados de representación proporcional deberá acreditar que participa con candidatos a diputados de mayoría relativa en por lo menos diez distritos uninominales.
 
-Las listas estatales se integrarán con dieciséis fórmulas de candidatos propietarios y suplentes.
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2006)</small>
+Las listas estatales se integrarán con dieciséis fórmulas de candidatos propietarios y suplentes, cada formula deberá ser del mismo género.
 
-En ningún caso se deberá registrar una lista en la que más de once de los candidatos Propietarios y Suplentes sean de un mismo sexo. Dichas listas deberán estar integradas por segmentos de tres candidaturas y en cada segmento habrá una candidatura de sexo distinto.
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2012)</small>
+
+En ningún caso se deberá registrar una lista en la que más del sesenta por ciento de las fórmulas de candidatos sean de un solo género. Dichas listas deberán estar integradas por segmentos de cinco formulas, en cada uno de los cuales habrá al menos dos formulas de género distinto, mismas que se incluirán alternadamente, de tal manera que a una fórmula de un género siga siempre una fórmula de género distinto.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2012)</small>
+
+Cuando la aplicación de los porcentajes a que se refiere el párrafo anterior arroje un resultado fraccionario, se ajustará hacia el entero menor próximo.
 
 > <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2006)</small>
 
@@ -201,7 +231,17 @@ En ningún caso un partido político podrá contar con un número de Diputados p
 
 Para la elección de Regidores de representación proporcional de los Ayuntamientos, los partidos políticos participantes que obtengan votación minoritaria y alcancen cuando menos el 2% de la votación municipal emitida tendrán derecho a que se les asignen Regidores de representación proporcional.
 
-Las listas municipales se integrarán con el número de Regidores que corresponda al municipio respectivo conforme a las disposiciones de la Constitución Política del Estado.
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2012)</small>
+
+Las listas municipales se integrarán con el número de candidatos a regidores que corresponda al municipio respectivo, conforme lo establece el artículo 112 de la Constitución Política del Estado de Sinaloa.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2012)</small>
+
+En la elaboración de las listas de candidatos a regidores por el principio de representación proporcional deberán aplicarse los porcentajes y el criterio de alternancia de género a que se refiere el artículo 6o de esta Ley.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2012)</small>
+
+Cada una de las fórmulas de candidatos a regidores, tanto el propietario como el suplente serán del mismo género.
 
 ### CAPITULO III. DE LAS FORMULAS PARA LA ASIGNACION DE CURULES Y REGIDURIAS POR EL PRINCIPIO DE REPRESENTACION PROPORCIONAL
 
@@ -365,7 +405,13 @@ IV. Fomentar discusiones sobre cuestiones de interés común y deliberaciones so
 
 V. Fomentar los principios democráticos en el desarrollo de sus actividades, incluidos en aquellas relativas a los procesos de precampaña electoral; y
 
-VI. Promover la participación de la mujer en los cargos directivos partidarios así como en los cargos de elección popular. En el registro de candidatos a los puestos de elección popular de representación proporcional, tanto para Propietarios como Suplentes, no podrán postular más del setenta por ciento del mismo género.
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2012)</small>
+
+VI. Garantizar la participación de la mujer en los cargos directivos partidarios y en los cargos de elección popular.
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2012)</small>
+
+VII. Observar en todo tiempo los criterios y porcentajes previstos en los artículos 3o Bis, 3o Bis A, 6o, 8o y 9o de esta Ley, en la postulación de candidatos propietarios y suplentes a diputados y regidores por el sistema de mayoría relativa y por el principio de representación proporcional.
 
 > <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2009)</small>
 
@@ -681,9 +727,21 @@ XVI. Destinar los bienes muebles e inmuebles que tengan en propiedad o de los qu
 
 XVII. Aplicar de sus recursos financieros ordinarios al menos el dos por ciento por concepto de actividades de formación ideológica, políticas y de investigaciones académicas y editoriales;
 
-XVIII. Editar, por lo menos, una publicación trimestral de sus actividades y difundir otra de carácter teórico en forma semestral pudiendo ser de edición nacional; y
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2012)</small>
 
-XIX Las demás que establezca esta Ley.
+XVIII. Editar por lo menos una publicación trimestral de sus actividades y difundir otra de carácter teórico en forma semestral pudiendo ser de edición nacional;
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2012)</small>
+
+XIX. Destinar anualmente por lo menos el cinco por ciento del financiamiento público ordinario a la capacitación, promoción y desarrollo político de las mujeres;
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2012)</small>
+
+XX. Incluir en sus programas y procedimientos de selección de candidatos la realización de acciones afirmativas para la participación de las mujeres en los procesos de designación de dirigentes y de selección de candidatos; y
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2012)</small>
+
+XXI. Las demás que establezca esta Ley.
 
 Los partidos políticos tienen prohibido:
 
@@ -845,7 +903,7 @@ IV. Tener acceso equitativo a los medios privados de comunicación y de manera p
 
 V. Las demás que disponga esta Ley.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE AGOSTO DE 2006)</small>
 
 ### CAPITULO VII. DEL FINANCIAMIENTO PUBLICO y PRIVADO Y DE LOS INFORMES FINANCIEROS DE LOS PARTIDOS POLITICOS
 
@@ -1063,7 +1121,7 @@ El órgano electoral expedirá el reglamento y los acuerdos respectivos que prop
 
 ### CAPITULO I. DE LAS AUTORIDADES ELECTORALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ENERO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ENERO DE 1998)</small>
 
 ###### ARTICULO 47.
 
@@ -1181,7 +1239,7 @@ Los Consejeros Ciudadanos en el ejercicio de sus funciones, para garantizar su i
 
 Los Consejeros Ciudadanos podrán ser ratificados, recibirán salario durante el proceso electoral y fungirán en Pleno hasta la calificación de las elecciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 53.
 
@@ -1277,9 +1335,13 @@ D. Para que el Instituto Federal Electoral se haga cargo de la organización de 
 
 XXII.- Resolver, en los términos de esta Ley, el otorgamiento o pérdida del registro de partidos políticos estatales, emitir la declaratoria correspondiente y ordenar su publicación en el Periódico Oficial del Gobierno del Estado;
 
-XXIII.- Registrar de manera supletoria fórmulas de candidatos a Diputados y planillas municipales para la elección de mayoría relativa;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2012)</small>
 
-XXIV.- Registrar supletoriamente las listas municipales de candidatos a Regidores por el principio de representación proporcional;
+XXIII.- Recibir de manera supletoria las solicitudes de registro de fórmulas de candidatos a Diputados por el sistema de mayoría relativa; y resolver sobre la procedencia o improcedencia de todas las solicitudes, incluidas las que se presenten en los consejos distritales electorales;
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2012)</small>
+
+XXIV.- Recibir supletoriamente solicitudes de registro de planillas municipales para la elección de mayoría relativa y listas municipales de candidatos a Regidores por el principio de representación proporcional y remitirlas para su resolución al consejo municipal o distrital que corresponda;
 
 XXV.- Desahogar las dudas que se presenten sobre la aplicación e interpretación de esta Ley;
 
@@ -1287,9 +1349,9 @@ XXV.- Desahogar las dudas que se presenten sobre la aplicación e interpretació
 
 XXVI.- El Consejo Estatal Electoral podrá designar de entre sus miembros, todas las Comisiones que considere necesarias, precisando las funciones de cada una de ellas, considerando entre éstas informar oportunamente a la sociedad sobre los acuerdos y disposiciones que en su interior se generen; así como contribuir a la difusión de la cultura electoral;
 
-> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 1995)</small>
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2012)</small>
 
-XXVII.- Nombrar al Secretario del Consejo a propuesta del Presidente;
+XXVII.- Nombrar al Secretario General del Consejo a propuesta del Presidente;
 
 > <small>(ADICIONADA, P.O. 5 DE ABRIL DE 1995)</small>
 
@@ -1473,7 +1535,7 @@ El Presidente y los Consejeros Ciudadanos de los Consejos Distritales, serán no
 
 Los miembros de los Consejos Distritales tendrán voz y voto, con excepción del Secretario y los representantes de los partidos políticos, quienes únicamente tendrán derecho a voz.
 
-(DEROGADO QUINTO PARRAFO, P.O. 7 DE AGOSTO DE 2006) (F. DE E., P.O. 13 DE SEPTIEMBRE DE 2006)
+(DEROGADO QUINTO PÁRRAFO, P.O. 7 DE AGOSTO DE 2006) (F. DE E., P.O. 13 DE SEPTIEMBRE DE 2006)
 
 > <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2006)</small>
 
@@ -1517,7 +1579,9 @@ III.- Capacitar, seleccionar y designar a los ciudadanos que habrán de integrar
 
 IV.- Vigilar la oportuna y legal instalación de las Mesas Directivas de Casilla;
 
-V.- Recibir y resolver las solicitudes de registro de fórmulas de candidatos a Diputados por el sistema de mayoría relativa;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2012)</small>
+
+V.- Recibir las solicitudes de registro de fórmulas de candidatos a Diputados por el sistema de mayoría relativa, y remitirlas oportunamente para su resolución al Consejo Estatal Electoral;
 
 > <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2006)</small>
 
@@ -1609,7 +1673,7 @@ La designación del Presidente, el Secretario, los Consejeros ciudadanos y los r
 
 Los miembros de los Consejos Municipales Electorales tendrán voz y voto, con excepción del Secretario y los representantes de los partidos políticos, que tendrán voz.
 
-(DEROGADO QUINTO PARRAFO, P.O. 7 DE AGOSTO DE 2006) (F. DE E., P.O. 13 DE SEPTIEMBRE DE 2006)
+(DEROGADO QUINTO PÁRRAFO, P.O. 7 DE AGOSTO DE 2006) (F. DE E., P.O. 13 DE SEPTIEMBRE DE 2006)
 
 > <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2006)</small>
 
@@ -1793,7 +1857,7 @@ El sorteo se llevará a cabo mediante el procedimiento que, durante la segunda q
 
 II.- A los ciudadanos sorteados se les hará una evaluación objetiva y se excluirá a los que no sean elegibles por su avanzada edad, porque no sepan leer, escribir, contar o que por alguna razón estén impedidos. A los restantes se les dará una capacitación en materia electoral a partir del 1º de abril y hasta el 7 de mayo del año de la elección;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ENERO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ENERO DE 1998)</small>
 
 III.- Recibida la capacitación, el Consejo Distrital procederá a efectuar una selección grupal para que según sus aptitudes y conocimientos en materia electoral sean susceptibles de fungir como Presidente de Casilla;
 
@@ -1859,11 +1923,11 @@ Los Consejos Distritales y Municipales dentro de las veinticuatro horas siguient
 
 A los ciudadanos que funjan como funcionarios de las mesas directivas de casilla en la jornada electoral, los Consejos Distritales les otorgarán constancia de reconocimiento por su labor desarrollada.
 
-> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 7 DE AGOSTO DE 2006)</small>
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE AGOSTO DE 2006)</small>
 
 ## TITULO QUINTO. DEL REGISTRO ESTATAL DE ELECTORES
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE AGOSTO DE 2006)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE AGOSTO DE 2006)</small>
 
 ### CAPITULO I. DE LAS FUNCIONES, ESTRUCTURA Y ATRIBUCIONES DEL REGISTRO DE ELECTORES
 
@@ -1887,7 +1951,7 @@ A los ciudadanos que funjan como funcionarios de las mesas directivas de casilla
 
 (DEROGADO, P.O. 7 DE AGOSTO DE 2006)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE AGOSTO DE 2006)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE AGOSTO DE 2006)</small>
 
 ### CAPITULO II. DE LA INSCRIPCION DE CIUDADANOS
 
@@ -1899,7 +1963,7 @@ A los ciudadanos que funjan como funcionarios de las mesas directivas de casilla
 
 (DEROGADO, P.O. 7 DE AGOSTO DE 2006)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE AGOSTO DE 2006)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE AGOSTO DE 2006)</small>
 
 ### CAPITULO III. DE LA CREDENCIAL PARA VOTAR
 
@@ -1907,7 +1971,7 @@ A los ciudadanos que funjan como funcionarios de las mesas directivas de casilla
 
 (DEROGADO, P.O. 7 DE AGOSTO DE 2006)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE AGOSTO DE 2006)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE AGOSTO DE 2006)</small>
 
 ### CAPITULO IV. DE LA DEPURACION DEL PADRON ELECTORAL Y DEL PROCEDIMIENTO TECNICO CENSAL
 
@@ -1927,7 +1991,7 @@ A los ciudadanos que funjan como funcionarios de las mesas directivas de casilla
 
 (DEROGADO, P.O. 7 DE AGOSTO DE 2006)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE AGOSTO DE 2006)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE AGOSTO DE 2006)</small>
 
 ### CAPITULO V. DE LAS LISTAS NOMINALES DE ELECTORES
 
@@ -1939,7 +2003,7 @@ A los ciudadanos que funjan como funcionarios de las mesas directivas de casilla
 
 (DEROGADO, P.O. 7 DE AGOSTO DE 2006)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE AGOSTO DE 2006)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE AGOSTO DE 2006)</small>
 
 ### CAPITULO VI. DE LOS COMITES ESTATAL Y DISTRITALES DE VIGILANCIA
 
@@ -1967,7 +2031,7 @@ A los ciudadanos que funjan como funcionarios de las mesas directivas de casilla
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 1995)</small>
 
 ###### ARTICULO 109.
 
@@ -2043,19 +2107,19 @@ X.- Los observadores podrán presentar informe por escrito de sus actividades an
 
 Corresponde exclusivamente a los partidos políticos el derecho de solicitar el registro de candidatos a cargos de elección popular.
 
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE OCTUBRE DE 2012)</small>
 
 ###### ARTICULO 111.
 
-Los plazos y organismos competentes para el registro de las candidaturas, fórmulas, planillas y listas en el año de la elección ordinaria, son las siguientes:
+Los plazos y organismos competentes para recibir las solicitudes de registro de las fórmulas, planillas y listas de candidatos para los distintos cargos en el año de la elección ordinaria, son los siguientes:
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2009)</small>
 
 I. Para candidatos a Gobernador del Estado durante los diez primeros días del mes de mayo del año de la elección, por el Consejo Estatal Electoral;
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2012)</small>
 
-II. Para candidatos a Diputados por el sistema de mayoría relativa, del 11 al 20 de mayo del año de la elección, por los Consejos Distritales correspondientes;
+II. Para candidatos a Diputados por el sistema de mayoría relativa, del 11 al 20 de mayo del año de la elección, por los consejos distritales correspondientes y supletoriamente por el Consejo Estatal Electoral;
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2009)</small>
 
@@ -2065,9 +2129,9 @@ III. Para las listas de candidatos a Diputados por el principio de representaci�
 
 IV. Para las planillas de candidaturas a Presidente Municipal, Síndico Procurador y Regidores por el sistema de mayoría relativa, del 11 al 20 de mayo del año de la elección, por los Consejos Distritales y Municipales correspondientes; y,
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2012)</small>
 
-V. Para las listas municipales de candidatos a Regidores que serán electos por el principio de representación proporcional, del 21 al 28 de mayo del año de la elección, por los Consejos Distritales y Municipales correspondientes.
+V. Para las listas municipales de candidatos a Regidores que serán electos por el principio de representación proporcional, del 21 al 28 de mayo del año de la elección, por los consejos distritales y municipales correspondientes y supletoriamente por el Consejo Estatal Electoral.
 
 ###### ARTICULO 112.
 
@@ -2079,7 +2143,9 @@ La solicitud de registro de candidaturas deberá señalar el partido político o
 
 I.- Apellido paterno, materno y nombre completo;
 
-II.- Lugar y fecha de nacimiento;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2012)</small>
+
+II.- Lugar, fecha de nacimiento y sexo;
 
 III.- Domicilio;
 
@@ -2091,9 +2157,7 @@ VI.- Cargo para el que se les postule.
 
 La solicitud deberá acompañarse de la declaración de aceptación de la candidatura, copia del acta de nacimiento y de la credencial para votar, así como la constancia de residencia de los candidatos propietarios y suplentes en su caso.
 
-> <small>(REFORMADO, P.O. 28 DE ENERO DE 1998)</small>
-
-La solicitud de registro de la lista de candidatos a Diputados por el principio de representación proporcional, deberá acompañarse además de los documentos referidos en los párrafos anteriores, de la constancia de registro de, por lo menos, diez candidaturas de Diputados por el sistema de mayoría relativa.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 5 DE OCTUBRE DE 2012)</small>
 
 ###### ARTICULO 114.
 
@@ -2101,13 +2165,49 @@ Recibida una solicitud de registro, se analizará, si cumple los requisitos señ
 
 Si de la revisión se advierte que se omitió el cumplimiento de uno o varios requisitos, se notificará de inmediato al partido político correspondiente para que dentro de las cuarenta y ocho horas siguientes subsane las omisiones detectadas o sustituya la candidatura, siempre que esto pueda realizarse dentro de los plazos que señala el Artículo 111 de esta Ley.
 
-Cualquier solicitud o documentación presentada fuera de los plazos de registro, será desechada de plano. En su caso, no se registrará la candidatura o candidaturas que no satisfagan los requisitos.
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2009)</small>
+Salvo en los casos de sustitución previstos en esta Ley, cualquier solicitud o documentación que se presente fuera de los plazos de registro, será desechada de plano. En su caso, no se registrará la candidatura o candidaturas que no satisfagan los requisitos.
 
-Dentro de los tres días posteriores al vencimiento de los plazos a que se refiere el artículo 111 de esta Ley, el Consejo Estatal y los Consejos Distritales y Municipales celebrarán sesión, cuyo único objeto será resolver, en su ámbito de competencia, sobre las solicitudes de registro recibidas.
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2012)</small>
 
-Los Consejos Distritales y Municipales comunicarán de inmediato al Consejo Estatal Electoral, el acuerdo relativo al registro de candidaturas que hayan realizado.
+Dentro de los tres días siguientes al vencimiento del plazo de registro a que se refieren las fracciones IV y V del artículo 111 de esta Ley, los consejos municipales electorales y los consejos distritales electorales a los que corresponda, celebrarán sesión cuyo único objeto será resolver sobre la procedencia o improcedencia de las solicitudes de registro recibidas.
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2012)</small>
+
+Para resolver las solicitudes de registro de las listas de candidatos propietarios y suplentes a regidores por el sistema de mayoría relativa y por el principio de representación proporcional, los órganos electorales competentes se sujetarán al siguiente procedimiento:
+
+I. Se verificará que se haya dado cumplimiento a los criterios y porcentajes establecidos en los artículos 6o y 9o de esta Ley, respectivamente, procediendo a la aprobación de aquellas solicitudes que satisfagan todos los requisitos legales;
+
+II. Si de la revisión se advierte que alguna de las solicitudes no cumple con los criterios y porcentajes antes mencionados, se procederá al ordenamiento de las planillas o listas correspondiente y se aprobarán aquellas cuyo ordenamiento sea posible;
+
+III. Si por cualquier causa no es posible el ordenamiento de alguna planilla o lista, se requerirá al partido político o coalición que corresponda para que en un plazo improrrogable de veinticuatro horas realice las sustituciones necesarias y cumpla con los criterios y porcentajes necesarios para el ordenamiento, apercibiéndole de que en caso de no hacerlo se suprimirán de la planilla o lista tantas fórmulas como sea necesario para lograr que las candidaturas de un mismo género no superen el límite máximo legalmente establecido, iniciando la supresión con las fórmulas del género cuyo porcentaje se hubiere excedido ubicadas en los últimos lugares de la lista y continuando en orden regresivo.
+
+IV. Transcurrido este último plazo el órgano electoral competente sesionará nuevamente para aprobar aquellas solicitudes cuyos errores u omisiones hayan sido subsanadas, así como a rechazar el registro de las que no satisfagan los requisitos legales y de las suprimidas conforme a la fracción anterior.
+
+Los consejos municipales electorales y los consejos distritales electorales con competencia municipal, comunicarán de inmediato al Consejo Estatal Electoral, el acuerdo relativo al registro de candidaturas que hayan aprobado.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2012)</small>
+
+ARTICULO 114 BIS.- Al concluir el plazo para el registro de las candidaturas a diputados por el sistema de mayoría relativa, los consejos distritales electorales remitirán de inmediato al Consejo Estatal Electoral los expedientes de las solicitudes de registro que hubieren recibido, conservando copia certificada en sus archivos.
+
+Una vez que se encuentren los expedientes en su poder, el Consejo Estatal Electoral, por conducto de la Comisión de Organización y Vigilancia Electoral, revisará las solicitudes de registro para verificar que cumplen los requisitos previstos en los artículos 3o Bis segundo párrafo y 3o Bis A de esta Ley. Si de la revisión resulta el incumplimiento de tales requisitos, el Consejo Estatal Electoral lo notificará de inmediato a los partidos políticos o coaliciones que corresponda, para que en un plazo de setenta y dos horas realicen la sustitución de candidatos que se requiera para ajustarse a lo dispuesto en los numerales antes citados, apercibiéndoles de que en caso de incumplimiento se harán acreedores a una amonestación pública.
+
+A más tardar el 28 de mayo del año de la elección, el Consejo Estatal Electoral sesionará para aprobar el registro de candidaturas a diputados por el sistema de mayoría relativa correspondientes a los partidos políticos y coaliciones cuyas solicitudes se encuentren ajustadas a la Ley, así como a aquellos que habiendo sido requeridos atendieron adecuadamente el requerimiento. Si resultara que uno o más partidos políticos o coaliciones no dieron cumplimiento a lo requerido conforme a este artículo, en la misma sesión se aplicará la amonestación pública y se les requerirá nuevamente para que en un plazo improrrogable de veinticuatro horas realicen las sustituciones que se requieran.
+
+Transcurrido el nuevo plazo, el Consejo Estatal Electoral sesionará nuevamente para otorgar el registro de las candidaturas a los partidos políticos y coaliciones que hayan cumplido con lo requerido, y en su caso, para sancionar a los que no hubieran cumplido. En tal caso, la sanción consistirá en la negativa de registro de tantas candidaturas como sea necesario para establecer el tope máximo a que se refiere el artículo 3o Bis A. La selección de las fórmulas de candidatos cuyo registro será rechazado se realizará por sorteo en el que participarán todas las fórmulas del género cuyo límite se hubiera excedido del máximo legal, operación que se repetirá hasta obtener dicho tope máximo.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2012)</small>
+
+ARTICULO 114 BIS A.- Dentro de los tres días siguientes al vencimiento del plazo establecido en la fracción III del artículo 111 de esta Ley, el Consejo Estatal Electoral sesionará para resolver las solicitudes de registro de las listas de candidatos propietarios y suplentes a diputados por el principio de representación proporcional, conforme a lo siguiente:
+
+I. Se verificará que las listas se integren por segmentos conforme a lo dispuesto en el artículo 8o de esta Ley, y que en cada uno de ellos aparezcan alternadamente por lo menos dos fórmulas de candidatos de género distinto, de tal manera que a una fórmula de un género siga siempre una fórmula de género distinto, hasta completar los porcentajes antes mencionados. Procediendo a la aprobación de aquellas solicitudes que satisfagan todos los requisitos legales;
+
+II. Si de la revisión no se advierte la existencia de los segmentos en que pueda dividirse la lista, el cumplimiento de los porcentajes o la alternancia de género, se procederá al ordenamiento correspondiente, y se aprobarán aquellas cuyo ordenamiento sea posible;
+
+III. Si por cualquier causa no es posible el ordenamiento de listas o segmentos, se requerirá al partido político o coalición que corresponda para que en un plazo improrrogable de veinticuatro horas realice las sustituciones necesarias y presente el ordenamiento de los segmentos con apego a la Ley, apercibiéndole de que en caso de no hacerlo se suprimirán de la lista tantas fórmulas como sea necesario para lograr que las candidaturas de un mismo género no superen el límite máximo legalmente establecido, iniciando la supresión con las fórmulas ubicadas en los últimos lugares de la lista y continuando en orden regresivo. Igualmente se procederá a alternar las fórmulas por género.
+
+IV. Transcurrido este último plazo el Consejo Estatal Electoral sesionará nuevamente para aprobar aquellas solicitudes cuyos errores u omisiones hayan sido subsanadas, así como a rechazar el registro de las que no satisfagan los requisitos legales y de las suprimidas conforme a la fracción anterior.
 
 ###### ARTICULO 115.
 
@@ -2121,17 +2221,21 @@ La sustitución de candidatos deberá solicitarse por escrito, observando las si
 
 I.- Dentro del plazo establecido para el registro de candidatos, podrán sustituirse libremente ante el Consejo que recibió la solicitud;
 
-II.- Vencido el plazo a que se refiere la fracción anterior, exclusivamente podrán sustituirse por causas de fallecimiento, inhabilitación, incapacidad o renuncia. La solicitud de sustitución deberá presentarse ante el Consejo Estatal Electoral, que resolverá lo conducente.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE OCTUBRE DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2009)</small>
+II.- Vencido el plazo a que se refiere la fracción anterior, solo podrán sustituirse candidatos por causa de fallecimiento, inhabilitación, incapacidad o renuncia, así como en los casos previstos en los artículos 114, 114 Bis y 114 Bis A de esta Ley. La solicitud de sustitución deberá presentarse ante el órgano electoral competente, que resolverá lo conducente.
 
-No procederá la sustitución por renuncia de los candidatos, cuando la última tenga lugar dentro de los veinte días anteriores al de la elección.
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2012)</small>
+
+No procederá la sustitución por renuncia de los candidatos, cuando tenga lugar dentro de los veinte días anteriores al de la elección, ni cuando tenga por efecto el incumplimiento de lo previsto en los artículos 3o Bis, 3o Bis A, 8o y 9o de esta Ley.
 
 Para la corrección o sustitución en su caso, de las boletas electorales se estará a lo dispuesto en el Artículo 137 de esta Ley;
 
-III.- En los casos en que la renuncia del candidato fuera notificada por este a los Consejos, se hará del conocimiento del partido político que lo registró para que proceda, en su caso, a la sustitución.
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2012)</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE AGOSTO DE 2006)</small>
+III.- En los casos en que la renuncia del candidato fuera notificada por éste a los órganos electorales que correspondan, se hará del conocimiento del partido político o coalición que lo registró para que proceda, en su caso, a la sustitución.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE AGOSTO DE 2006)</small>
 
 ### CAPITULO II Bis. DE LAS PRECAMPAÑAS, CAMPAÑAS ELECTORALES Y TOPES DE GASTOS
 
@@ -2165,7 +2269,7 @@ III. Propaganda de precampaña electoral: el conjunto de escritos, publicaciones
 
 IV. Aspirante a candidato: los ciudadanos que deciden contender al interior de un determinado partido político o coalición, con el fin de alcanzar su nominación como candidato a un puesto de elección popular.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 117 Bis.
 
@@ -2523,7 +2627,7 @@ IV. Los Consejos Distritales Electorales sesionarán dentro de la segunda quince
 
 ### CAPITULO IV. DEL REGISTRO DE REPRESENTANTES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 124.
 
@@ -2685,7 +2789,7 @@ Para la elección de Diputados y Regidores por el principio de representación p
 
 Las boletas se enviarán para su impresión en la fecha que el Consejo Estatal Electoral determine, conforme a las especificaciones técnicas requeridas para su producción. En caso de cancelación o sustitución de uno o más candidatos, no habrá modificación a las boletas, si éstas ya estuvieren impresas. En todo caso, los votos contarán para los partidos y los candidatos que estuvieren legalmente registrados ante los órganos correspondientes, al momento de la elección.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 138.
 
@@ -2759,7 +2863,7 @@ Asimismo mandará publicar en los diarios de mayor circulación, el día de la j
 
 ### CAPITULO VI. DE LA JORNADA ELECTORAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 144.
 
@@ -2883,7 +2987,7 @@ Los presidentes de casilla permitirán emitir su voto a aquellos ciudadanos que,
 
 El presidente de la casilla recogerá las credenciales para votar que tengan muestras de alteración o no pertenezcan al ciudadano, poniendo a disposición de las autoridades a quienes las presenten. El secretario de la mesa directiva anotará el incidente en el acta respectiva, con mención expresa del nombre del ciudadano o ciudadanos presuntamente responsables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 1995)</small>
 
 ###### ARTICULO 153.
 
@@ -2965,7 +3069,7 @@ I.- Hora de inicio y cierre de la votación; y,
 
 II.- Incidentes registrados durante la votación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 164.
 
@@ -3187,7 +3291,7 @@ III.- El Presidente del Consejo, bajo su responsabilidad, dispondrá su custodia
 
 IV.- Con la recepción de la primera caja que contenga los paquetes electorales, se iniciará la elaboración de un acta circunstanciada en la que se hará constar, por exclusión, el estado físico de las cajas que hubieren sido recibidas sin reunir los requisitos que señala esta ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 178.
 
@@ -3215,7 +3319,7 @@ Del mismo modo, dicho Consejo podrá dar a conocer avances más precisos sobre l
 
 Los datos consignados en las actas finales de escrutinio y cómputo constituyen la única fuente del resultado preliminar de las elecciones.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 2009)</small>
 
 ### CAPITULO VIII. DE LOS COMPUTOS DISTRITALES Y MUNICIPALES Y DEL RECUENTO DE VOTOS
 
@@ -3313,7 +3417,7 @@ IV.- La suma de los resultados asentados, constituirá el cómputo distrital de 
 
 Serán aplicables al cómputo de la elección de Gobernador del Estado, las disposiciones contenidas en las fracciones de la VIII a la XIII del artículo 183 de esta ley, en lo que corresponde a los recuentos de votos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 185.
 
@@ -3421,7 +3525,7 @@ III.- Remitir, al Consejo Estatal Electoral, los expedientes del cómputo distri
 
 IV.- (DEROGADA, P.O. 5 DE ABRIL DE 1995)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 189.
 
@@ -3475,7 +3579,7 @@ Asimismo, tomarán las medidas necesarias para el depósito y salvaguarda de tod
 
 ### CAPITULO IX. DEL COMPUTO ESTATAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ENERO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ENERO DE 1998)</small>
 
 ###### ARTICULO 194.
 
@@ -3537,7 +3641,7 @@ C). El acta de cómputo estatal de la elección de Gobernador del Estado.
 
 El presidente del consejo estatal, una vez integrados los expedientes a que se refiere el artículo anterior procederá a:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ENERO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ENERO DE 1998)</small>
 
 I.- Remitir al Tribunal Estatal Electoral, cuando se hubiera interpuesto el recurso de reconsideración en contra de la asignación de Diputados por el principio de representación proporcional y de inconformidad en contra del cómputo estatal de la elección de Gobernador Constitucional del Estado los siguientes documentos:
 
@@ -3587,7 +3691,7 @@ CAPITUL I (sic)
 
 DEL TRIBUNAL ESTATAL ELECTORAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ENERO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ENERO DE 1998)</small>
 
 ###### ARTICULO 201.
 
@@ -3605,7 +3709,7 @@ El Tribunal Estatal Electoral, al resolver los asuntos de su competencia, garant
 
 El Tribunal Estatal Electoral se instalará dentro de la segunda quincena del mes de enero del año de la elección, para entrar en receso una vez calificadas las elecciones. Tendrá su sede en la ciudad de Culiacán Rosales, Sinaloa. Los Magistrados que formen parte de él, durarán siete años en su encargo Y RECIBIRÁN REMUNERACIÓN ÚNICAMENTE DURANTE EL PROCESO ELECTORAL. SE EXCEPTÚA DE LO ANTERIOR, LA SALA DE RECONSIDERACIÓN, LA QUE FUNCIONARÁ EN FORMA PERMANENTE Y SUS INTEGRANTES RECIBIRÁN LA REMUNERACIÓN CORRESPONDIENTE.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 1995)</small>
 
 ###### ARTICULO 203.
 
@@ -3895,7 +3999,7 @@ IV.- de resultar procedente el recurso, la resolución que así lo considere, or
 
 V.- Deberá hacerse entrega inmediata al promovente de los documentos que hubiere acompañado a su escrito de promoción del recurso, dejando copias certificadas de los mismos en el expediente respectivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE AGOSTO DE 2006)</small>
 
 ###### ARTICULO 220.
 
@@ -3923,7 +4027,7 @@ VII.- Señalar domicilio para oír y recibir notificaciones, del lugar en que re
 
 VIII.- Cuando se omita alguno de los requisitos señalados en la fracciones III y IV de este artículo, el Consejo ante el que se promueva requerirá por estrados al promovente para que las cumpla en un plazo de veinticuatro horas contadas a partir de que se fije en los estrados el requerimiento correspondiente, bajo apercibimiento de que de no hacerlo se tendrá por no interpuesto el recurso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 1995)</small>
 
 ###### ARTICULO 221.
 
@@ -3937,7 +4041,7 @@ Dentro de las setenta y dos horas siguientes de su fijación, los representantes
 
 En el caso de los coadyuvantes podrán comparecer, siempre y cuando no varíe ni se amplíe la materia del recurso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ENERO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ENERO DE 1998)</small>
 
 Una vez cumplido el plazo a que se refiere el párrafo segundo de este artículo, el Consejo que reciba el recurso de revisión deberá hacer llegar al Tribunal Estatal Electoral, de inmediato:
 
@@ -3999,7 +4103,7 @@ El presidente del Tribunal, a petición del secretario general, podrá requerir 
 
 En caso extraordinario, el presidente del tribunal podrá ordenar que se realice alguna diligencia o perfeccione alguna prueba, siempre que ello lo permitan los plazos establecidos por esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ENERO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ENERO DE 1998)</small>
 
 ###### ARTICULO 225.
 
@@ -4083,7 +4187,7 @@ El Tribunal Estatal Electoral realizará el recuento solicitado cuando la autori
 
 El Tribunal Estatal Electoral establecerá en su reglamento interior el procedimiento para la realización del recuento parcial o total de votos en sede jurisdiccional.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 232.
 
@@ -4191,7 +4295,7 @@ La personalidad de los representantes de los partidos políticos, se tendrá por
 
 De igual manera, se considerarán representantes legítimos de los partidos políticos los miembros de los comités nacionales, estatales, municipales o sus equivalentes. En estos casos, a su primera promoción deberá acompañar el documento en que conste su designación, de conformidad a los estatutos respectivos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE ABRIL DE 1995)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE ABRIL DE 1995)</small>
 
 ### CAPITULO IV. DE LAS NOTIFICACIONES
 
@@ -4245,7 +4349,7 @@ No requerirán de notificación personal y surtirán sus efectos al día siguien
 
 El recurso de aclaración será notificado personalmente al interesado por correo certificado.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE ABRIL DE 1995)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE ABRIL DE 1995)</small>
 
 ### CAPITULO V. DE LAS PRUEBAS
 
@@ -4293,7 +4397,7 @@ Son objeto de prueba los hechos controvertidos. No lo será el derecho, los hech
 
 El que afirma está obligado a probar. También lo está el que niega, cuando su negación envuelve la afirmación expresa de un hecho.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE AGOSTO DE 2006)</small>
 
 ### CAPITULO VI. PROCEDIMIENTO ADMINISTRATIVO SANCIONADOR
 
@@ -4559,7 +4663,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 Lic. Manuel Lazcano Ochoa
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 5 DE ABRIL DE 1995.
 
@@ -4596,3 +4700,9 @@ P.O. 1 DE OCTUBRE DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 5 DE OCTUBRE DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia a partir del día siguiente a la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
