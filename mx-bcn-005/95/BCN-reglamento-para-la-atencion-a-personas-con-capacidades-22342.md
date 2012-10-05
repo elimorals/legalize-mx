@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-la-atencion-a-personas-con-capacidades-22342"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-10-05"
-last_updated: "2001-10-05"
+last_updated: "2012-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22342&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "BCN"
 ---
 # REGLAMENTO PARA LA ATENCION A PERSONAS CON CAPACIDADES DIFERENTES EN EL MUNICIPIO DE PLAYAS DE ROSARITO, BAJA CALIFORNIA
 
-REGLAMENTO PARA LA ATENCION A PERSONAS CON CAPACIDADES DIFERENTES EN EL MUNICIPIO DE PLAYAS DE ROSARITO, BAJA CALIFORNIA
+REGLAMENTO PARA LA ATENCIÓN A PERSONAS CON CAPACIDADES DIFERENTES EN EL MUNICIPIO DE PLAYAS DE ROSARITO, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA EL DESARROLLO INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD DEL MUNICIPIO DE PLAYAS DE ROSARITO, BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 5 DE OCTUBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 5 de octubre de 2001.
 
@@ -308,3 +310,21 @@ ING. JAIME SANCHEZ LOPEZ
 SECRETARIO GENERAL
 
 H. I AYUNTAMIENTO DE PLAYAS DE ROSARITO, B.C.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE OCTUBRE DE 2012.
+
+###### ARTICULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga el REGLAMENTO PARA A (SIC) LA ATENCION A PERSONAS CON CAPACIDADES DIREFENTES (SIC) DEL MUNICIPIO DE PLAYAS DE ROSARITO, B.C., publicado en el Periódico Oficial No. 43, de fecha 05 de octubre de 2001, Tomo CVIII.
+
+###### ARTICULO TERCERO.
+
+Por única ocasión el Presidente Municipal, dentro de los 15 días naturales posteriores a la publicación del presente reglamento, deberá emitir la convocatoria que corresponda para que el Consejo Municipal para la atención a las personas con discapacidad quede integrado a más tardar, dos meses después de la entrada en vigor del presente reglamento.
+
+ARTICULO TERCERO (SIC).- Publíquese.
