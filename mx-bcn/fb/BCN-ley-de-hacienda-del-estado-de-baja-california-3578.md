@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "2011-12-30"
+last_updated: "2012-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2012.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -1019,23 +1019,31 @@ Este impuesto será destinado para la promoción y difusión de la actividad tur
 
 Cuando los servicios a que se refiere el Artículo 127 de esta Ley, se reciban con motivo de los actos jurídicos que realice el prestador del servicio con personas físicas o morales directamente o a través de agencias operadoras mayoristas, agencias de viajes minoristas o empresas de sistemas de intercambio de servicios turísticos y de cualquier tipo con el propósito de dar alojamiento o albergue a terceras personas, se tendrá obligación de enterar el impuesto en el momento en que sean exigibles las contraprestaciones a favor de quien preste los servicios de hospedaje y sobre el monto de los mismos.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2012)</small>
 
 ###### ARTICULO 131.
 
-Quienes presten los servicios señalados en este capítulo, tendrán el carácter de retenedores y deberán enterarlo mensualmente, a más tardar el día veinticinco del mes siguiente a aquel al que corresponda el impuesto causado, mediante las formas aprobadas por la Secretaría de Planeación y Finanzas del Estado, debiendo constar en la declaración correspondiente, la información y demás datos relativos a los actos y operaciones objeto de este impuesto, que se hayan realizado en el mes inmediato anterior.
+Quienes presten los servicios señalados en este capítulo tendrán el carácter de retenedores del impuesto sobre servicios de hospedaje, así como del impuesto adicional para la educación media y superior que se cause por aquel, y deberán enterarlos mensualmente, a más tardar el día veinticinco del mes siguiente a aquel al que correspondan los impuestos causados, mediante las formas aprobadas por la Secretaría de Planeación y Finanzas del Estado; debiendo constar en la declaración correspondiente, la información y demás datos relativos a los actos y operaciones objeto de estos impuestos, que se hayan realizado en el mes inmediato anterior.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE OCTUBRE DE 2012)</small>
 
 ###### ARTICULO 132.
 
-Las personas que presten los servicios de hospedaje, serán responsables solidarios de este impuesto y además de las obligaciones señaladas en el Código Fiscal del Estado, tendrán las siguientes:
+Las personas que presten los servicios de hospedaje, serán responsables solidarios de este impuesto, así como del impuesto adicional para la educación media y superior. Con independencia de las obligaciones señaladas en el Código Fiscal del Estado tendrán las siguientes:
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 I.- Estar inscritos en el Registro Estatal de Causantes, mediante la forma oficial correspondiente, y proporcionar la información relacionada con su identidad, su domicilio y aquella que le sea solicitada.
 
-II.- Retener y enterar el impuesto, aún cuando no hubieren hecho la retención o no hayan recibido el pago de las contraprestaciones del servicio prestado.
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2012)</small>
 
-III.- Llevar los controles contables necesarios que acrediten en forma fehaciente cada uno de los actos y operaciones objeto de este impuesto.
+II.- Retener y enterar los impuestos aún cuando no hubieren hecho la retención o no hayan recibido el pago de las contraprestaciones del servicio prestado.
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2012)</small>
+
+III.- Llevar los controles contables necesarios que acrediten en forma fehaciente cada uno de los actos y operaciones objeto del impuesto sobre servicios de hospedaje, así como del impuesto adicional para la educación media y superior que se cause por aquel.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 Dentro de estos controles se incluye la separación expresa en el comprobante fiscal expedido del monto de las contraprestaciones correspondientes a los servicios de hospedaje, servicios accesorios, transportación, alimentación y otros similares.
 
@@ -1659,7 +1667,7 @@ VIII.- El Impuesto Sobre Profesiones y Ejercicios Lucrativos.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE ENERO DE 1992)</small>
 
-### CAPITULO XIX. Del Impuesto sobre Loterias, Rifas, Sorteos, Juegos Permitidos y Concursos
+### CAPITULO XIX. Del Impuesto sobre Loterías, Rifas, Sorteos, Juegos Permitidos y Concursos
 
 > <small>(ADICIONADO, P.O. 10 DE ENERO DE 1992)</small>
 
@@ -2653,17 +2661,17 @@ Francisco Santana Peralta.
 
 (Firmado)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 28 DE FEBRERO DE 1973.
 
-DECRETO NUMERO 82.
+DECRETO NÚMERO 82.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
 P.O. 28 DE FEBRERO DE 1973.
 
-DECRETO NUMERO 83.
+DECRETO NÚMERO 83.
 
 ###### ARTICULO UNICO.
 
@@ -2671,7 +2679,7 @@ El presente Decreto entrará en vigor, el día siguiente al de su publicación e
 
 P.O. 28 DE FEBRERO DE 1973.
 
-DECRETO NUMERO 85.
+DECRETO NÚMERO 85.
 
 ###### ARTICULO UNICO.
 
@@ -2727,7 +2735,7 @@ EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITO
 
 P.O. 31 DE ENERO DE 1976.
 
-DECRETO NUMERO 100.
+DECRETO NÚMERO 100.
 
 ###### ARTICULO UNICO.
 
@@ -2735,7 +2743,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 P.O. 31 DE ENERO DE 1976.
 
-DECRETO NUMERO 108.
+DECRETO NÚMERO 108.
 
 UNICO.- Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
@@ -2781,7 +2789,7 @@ Es obligación de los sujetos y responsables solidarios del Impuesto Sobre Produ
 
 P.O. 31 DE DICIEMBRE DE 1979.
 
-DECRETO NUMERO 164.
+DECRETO NÚMERO 164.
 
 ###### ARTICULO UNICO.
 
@@ -2789,7 +2797,7 @@ Las disposiciones que establece el presente Decreto surtirán sus efectos a part
 
 P.O. 31 DE DICIEMBRE DE 1979.
 
-DECRETO NUMERO 165.
+DECRETO NÚMERO 165.
 
 ARTICULO Lo (sic).- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial Organo del Gobierno del Estado de Baja California.
 
@@ -2947,7 +2955,7 @@ La presente reforma, entrará en vigor al día siguiente de su publicación en e
 
 P.O. 31 DE DICIEMBRE DE 2002.
 
-DECRETO NUMERO 133.
+DECRETO NÚMERO 133.
 
 ###### ARTICULO PRIMERO.
 
@@ -2959,7 +2967,7 @@ El entero de los impuestos que se causen hasta el mes de diciembre del ejercicio
 
 P.O. 31 DE DICIEMBRE DE 2002.
 
-DECRETO NUMERO 144.
+DECRETO NÚMERO 144.
 
 UNICO.- La presente adición entrará en vigor el día primero de Enero del año dos mil tres.
 
@@ -3120,3 +3128,7 @@ Las personas que a la entrada en vigor del presente Decreto lleven a cabo las ac
 ###### ARTÍCULO QUINTO.
 
 Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 5 DE OCTUBRE DE 2012.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
