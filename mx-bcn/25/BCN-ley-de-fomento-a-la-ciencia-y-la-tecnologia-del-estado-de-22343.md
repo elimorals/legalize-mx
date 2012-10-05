@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fomento-a-la-ciencia-y-la-tecnologia-del-estado-de-22343
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-19"
-last_updated: "2012-09-28"
+last_updated: "2012-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22343&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 LEY DE FOMENTO A LA CIENCIA Y LA TECNOLOGÍA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN PARA EL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN EL P.O. DE 5 DE OCTUBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 19 de octubre de 2001.
 
@@ -454,3 +456,13 @@ CUARTO.- Se derogan las disposiciones de leyes o reglamentos que se opongan a lo
 P.O. 28 DE SEPTIEMBRE DE 2012.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. DE 5 DE OCTUBRE DE 2012.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- El COCIT se integrará con base en lo establecido en la presente Ley a más tardar sesenta días naturales después de que entre en vigor.
+
+TERCERO.- El Comité Interinstitucional de Planeación y Coordinación del Sistema de Investigación, Innovación y Desarrollo Tecnológico del Estado de Baja California al que se refiere esta Ley deberá instalarse a más tardar sesenta días naturales después de la entrada en vigor de la presente Ley.
+
+CUARTO.- Se abroga la Ley de Fomento a la Ciencia y la Tecnología del Estado de Baja California, publicada en el Periódico Oficial del Estado en fecha 19 de octubre de 2001, y se derogan las disposiciones de leyes o reglamentos que se opongan a lo que establece esta Ley.
