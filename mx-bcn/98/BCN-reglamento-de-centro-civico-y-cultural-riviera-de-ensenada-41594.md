@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-centro-civico-y-cultural-riviera-de-ensenada-4159
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-08"
-last_updated: "2007-01-19"
+last_updated: "2012-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # REGLAMENTO DE CENTRO CIVICO Y CULTURAL RIVIERA DE ENSENADA, BAJA CALIFORNIA
 
-REGLAMENTO DEL CENTRO CIVICO Y CULTURAL RIVIERA
+REGLAMENTO DEL CENTRO CÍVICO Y CULTURAL RIVIERA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DEL CENTRO SOCIAL, CÍVICO Y CULTURAL RIVERA DE ENSENADA, BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 5 DE OCTUBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 8 de octubre de 2004.
 
@@ -145,11 +147,11 @@ b).- La fijación de carteleras o cualquier tipo de propaganda política-partidi
 
 ###### Artículo 11.
 
-El Consejo deberá realizar y aprobar anualmente el presupuesto de ingresos y egresos, para lo cual se auxiliara del director administrativo. el anteproyecto de ingresos y egresos deberá ser presentado al ayuntamiento a más tardar el 30 de noviembre de cada año.
+El Consejo deberá realizar y aprobar anualmente el presupuesto de ingresos y egresos, para lo cual se auxiliara del director administrativo, el anteproyecto de ingresos y egresos deberá ser presentado al ayuntamiento a más tardar el 30 de noviembre de cada año.
 
 ###### Artículo 12.
 
-El consejo tendrá la obligación de presentar al ayuntamiento a mas tardar el día 15 de noviembre de cada año, un informe completo de las actividades realizadas durante el ultimo año, así como de los ingresos y egresos. el ayuntamiento realizara la glosa del mismo y emitirá el dictamen correspondiente.
+El consejo tendrá la obligación de presentar al ayuntamiento a mas tardar el día 15 de noviembre de cada año, un informe completo de las actividades realizadas durante el ultimo año, así como de los ingresos y egresos, el ayuntamiento realizara la glosa del mismo y emitirá el dictamen correspondiente.
 
 ###### Artículo 13.
 
@@ -189,7 +191,7 @@ para que cada sesión del consejo sea valida, deberán estar presentes la mitad 
 
 ###### Artículo 19.
 
-todos los consejeros tienen derecho a voz y voto. de acuerdo a lo establecido en el artículo 5 de este reglamento.
+todos los consejeros tienen derecho a voz y voto, de acuerdo a lo establecido en el artículo 5 de este reglamento.
 
 ###### Artículo 20.
 
@@ -197,7 +199,7 @@ De cada sesión del consejo el secretario levantará un acta en la cual se asent
 
 a).- Lista de asistencia y la declaratoria de quórum legal;
 
-b).- Lectura y aprobación del orden del Dia;
+b).- Lectura y aprobación del orden del Día;
 
 c).- Lectura y aprobación del acta de la sesión anterior;
 
@@ -527,8 +529,20 @@ LIC. GUILLERMO BERNARDO ISLAS LEON.
 
 SECRETARIO FEDATARIO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 19 DE ENERO DE 2007.
 
 LA PRESENTE REFORMA ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA.
+
+P.O. 5 DE OCTUBRE DE 2012.
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+Segundo.- Se abroga el Reglamento del Centro Cívico y Cultural Riviera de Ensenada, publicado en el Periódico Oficial del Estado de Bajo California, de fecha 08 de Octubre de 2004.
+
+Tercero.- Al inicio de la vigencia del presente ordenamiento se abrogan todas aquellas disposiciones que se opongan o contravengan su contenido normativo.
+
+Cuarto.- El Consejo Consultivo bajo los lineamientos aprobados en la presente reforma deberá integrarse y tomar la protesta correspondiente dentro de los 30 días siguientes a la entrada en vigor del presente reglamento. Quedando sin efectos los nombramientos realizados con anterioridad, toda vez que no fueron ratificados por la Administración Municipal vigente.
+
+Quinto.- EI Consejo Técnico deberá integrase y rendir la protesta correspondiente dentro de los 30 día siguientes a la entrada en vigor del presente reglamento.
