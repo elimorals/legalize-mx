@@ -4,7 +4,7 @@ identifier: "COA-reglamento-para-los-establecimientos-que-expenden-o-sirven-2390
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-02-19"
-last_updated: "2011-12-27"
+last_updated: "2012-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23902&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "COA"
 
 REGLAMENTO PARA LOS ESTABLECIMIENTOS QUE EXPENDEN O SIRVEN BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE SALTILLO, COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA LOS ESTABLECIMIENTOS QUE EXPENDEN O SIRVEN BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE SALTILLO, COAHUILA DE ZARAGOZA, PUBLICADO EN EL P.O. DE 5 DE OCTUBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 19 de febrero de 2002.
 
@@ -698,3 +700,25 @@ P.O. 27 DE DICIEMBRE DE 2011.
 ACUERDO 107/24/11, POR EL QUE SE REFORMAN LOS ARTÍCULO 10 Y 11 DEL REGLAMENTO PARA LOS ESTABLECIMIENTOS QUE EXPENDEN O SIRVEN BEBIDAS ALCOHÓLICAS, PARA EL MUNICIPIO DE SALTILLO, COAHUILA DE ZARAGOZA.
 
 TRANSITORIO. La presenta (sic) reforma entrará en vigor el día primero de febrero del año 2012.
+
+P.O. 5 DE OCTUBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial, independientemente de que en otro momento se haga lo propio en la Gaceta Municipal.
+
+###### ARTÍCULO SEGUNDO.
+
+Queda abrogado el Reglamento para los Establecimientos que Expenden o Sirven Bebidas Alcohólicas en el Municipio de Saltillo, del 19 de febrero de 2002, así como cualquier otro ordenamiento que se oponga al presente reglamento.
+
+###### ARTÍCULO TERCERO.
+
+Los establecimientos que a la fecha operen con un giro distinto a los señalados en los artículos 18 y 19 de este reglamento, deberán modificarlos. La autoridad municipal, sin costo alguno, realizará el cambio correspondiente previa solicitud de parte interesada.
+
+###### ARTÍCULO CUARTO.
+
+Las multas contenidas en el presente reglamento, entrarán en vigor a partir del 01 de enero de 2013. Mientras tanto se estará a lo dispuesto por el reglamento que se abroga.
+
+###### ARTÍCULO QUINTO.
+
+Los titulares de las licencias deberán de regularizar su situación de acuerdo a lo dispuesto a lo establecido (sic) en el presente reglamento, dentro de los seis meses posteriores a la entrada en vigencia del mismo.
