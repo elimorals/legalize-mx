@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-del-consejo-de-la-judicatura-del-estado-893
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-05-30"
-last_updated: "2012-06-13"
+last_updated: "2012-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE OCTUBRE DE 2012.
 
 Reglamento publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el lunes 30 de mayo de 2011.
 
@@ -1935,6 +1935,22 @@ El Juez y el Secretario usarán su criterio en la entrega de llaves de acceso al
 
 Solo el Juez y el Secretario tendrán llave del lugar en donde se depositen los valores, billetes de depósito, objetos e instrumentos del delito.
 
+> <small>(ADICIONADO, G.O. 5 DE OCTUBRE DE 2012)</small>
+
+En los juzgados que dispongan con chequera para efectuar pago de recibos de depósito, el juez será directamente responsable de su correcto manejo, por lo cual será el único autorizado para resguardarla.
+
+> <small>(ADICIONADO, G.O. 5 DE OCTUBRE DE 2012)</small>
+
+Los cheques que se libren serán firmados por el juez y por el secretario de acuerdos, preferentemente, o por el servidor público que el juez proponga, mediante oficio dirigido al Fonda Auxiliar para la Administración de Justicia.
+
+> <small>(ADICIONADO, G.O. 5 DE OCTUBRE DE 2012)</small>
+
+Es responsabilidad de los jueces y secretarios de acuerdos, informar dentro de los cinco días hábiles siguientes, al Fondo Auxiliar de toda exhibición o devolución de certificados de depósito de dinero y valores, adjuntando la documentación pertinente para el trámite bancario correspondiente.
+
+> <small>(ADICIONADO, G.O. 5 DE OCTUBRE DE 2012)</small>
+
+En caso de ausencia temporal y previo a los periodos vacacionales, el titular del juzgado informará por escrito con toda anticipación al Fondo Auxiliar, que persona autoriza para que emita y firme cheques, mientras se encuentre ausente.
+
 ###### Artículo 191.
 
 El Juez, el Secretario de Acuerdos y el Archivista, serán los únicos que tengan llave de la puerta del archivo.
@@ -3088,3 +3104,9 @@ Primero. El presente Acuerdo entrará en vigor al día de su publicación en la 
 Segundo. La Dirección de Administración realizará las proyecciones necesarias a efectos de que en el presupuesto de egresos del Poder Judicial para el ejercicio fiscal del año dos mil trece se incluyan las partidas necesarias para sufragar las erogaciones correspondientes al presente Acuerdo
 
 Tercero. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz.
+
+G.O. 5 DE OCTUBRE DE 2012.
+
+Primero. La presente adición entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
