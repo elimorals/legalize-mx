@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "2012-09-26"
+last_updated: "2012-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2012.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -139,7 +139,7 @@ En caso que la información solicitada por el Congreso estuviere disponible en o
 
 ## TITULO SEGUNDO. DE LA ADMINISTRACION PUBLICA CENTRALIZADA
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ### CAPITULO I. DE LAS DEPENDENCIAS DE LA ADMINISTRACION PUBLICA CENTRALIZADA
 
@@ -171,7 +171,7 @@ Los reglamentos, decretos y acuerdos expedidos por el Gobernador del Estado debe
 
 ###### ARTICULO 12.
 
-Los titulares de las dependencias, para el despacho de los asuntos de su competencia, se auxiliarán de Subsecretarios, Directores Generales, Directores, Jefes de Departamento, y demás servidores públicos que establezca el reglamento interior respectivo y autorice el presupuesto de egresos. Los titulares y demás funcionarios que establezca el Reglamento Interior de cada dependencia, tendrán fe pública respecto a los actos que realicen en el ámbito de su competencia y respecto a la certificación o constancia de los documentos y archivos que obren en su poder con motivo de sus atribuciones.
+Los titulares de las dependencias, para el despacho de los asuntos de su competencia, se auxiliarán de Subsecretarios, Directores Generales, Directores, Jefes de Departamento y demás servidores públicos que establezca el reglamento interior respectivo y autorice el presupuesto de egresos. Los titulares y demás funcionarios que establezca el Reglamento Interior de cada dependencia, tendrán fe pública respecto a los actos que realicen en el ámbito de su competencia y respecto a la certificación o constancia de los documentos y archivos que obren en su poder con motivo de sus atribuciones.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE FEBRERO DE 2012)</small>
 
@@ -303,7 +303,7 @@ VI.- Secretaría de Educación, Cultura y Deporte;
 
 VII.- Secretaría del Trabajo y Previsión Social;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 VIII.- (DEROGADA, P.O. 25 DE SEPTIEMBRE DE 2010)
 
@@ -493,7 +493,9 @@ XVII. Vigilar y controlar la aplicación programática y presupuestal en el ejer
 
 XVIII. Autorizar las erogaciones adicionales a las contempladas en el Presupuesto de Egresos, derivadas de ingresos excedentes a los estimados en la Ley de Ingresos y efectuar ampliaciones o transferencias entre partidas del Presupuesto de Egresos cuando no se requiera autorización del Congreso del Estado, de conformidad con las disposiciones legales aplicables;
 
-XIX. Someter al Ejecutivo las propuestas de ajustes al Presupuesto de Egresos ante la disminución de ingresos estimados en la Ley de Ingresos, con la opinión previa de la Comisión Estatal de Gasto-Financiamiento;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2012)</small>
+
+XIX. Someter al Ejecutivo las propuestas de ajustes al Presupuesto de Egresos ante la disminución de ingresos estimados en la Ley de Ingresos.
 
 XX. Notificar a los Poderes Legislativo y Judicial y Órganos Autónomos, así como a las dependencias y entidades de la administración pública estatal, los techos presupuestales autorizados;
 
@@ -721,7 +723,7 @@ ARTICULO 28 BIS.- (DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2010)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 29.
 
@@ -1789,7 +1791,7 @@ DÉCIMO.- En tanto se expidan los Reglamentos y Normas Técnicas que se deriven 
 
 P.O. 25 DE SEPTIEMBRE DE 2010.
 
-DECRETO NUMERO 1142/2010 XII P.E., POR EL QUE SE REFORMAN LOS ARTICULOS 2, FRACCION II; 5; 13, PARRAFOS PRIMERO, SEGUNDO Y SUS FRACCIONES I, II, III, IV Y V; TERCERO, CUARTO Y QUINTO PARRAFOS; 24, FRACCIONES XIV Y XV, Y 35; SE DEROGAN LOS ARTICULOS 13 EN SU FRACCION VI; 24, FRACCION XVI, Y 35 BIS; DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA.
+DECRETO NÚMERO 1142/2010 XII P.E., POR EL QUE SE REFORMAN LOS ARTÍCULOS 2, FRACCIÓN II; 5; 13, PÁRRAFOS PRIMERO, SEGUNDO Y SUS FRACCIONES I, II, III, IV Y V; TERCERO, CUARTO Y QUINTO PÁRRAFOS; 24, FRACCIONES XIV Y XV, Y 35; SE DEROGAN LOS ARTÍCULOS 13 EN SU FRACCIÓN VI; 24, FRACCIÓN XVI, Y 35 BIS; DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -1829,7 +1831,7 @@ Se abroga la Ley Orgánica del Ministerio Público del Estado.
 
 P.O. 25 DE SEPTIEMBRE DE 2010.
 
-DECRETO NUMERO 1143/2010 XII P.E., POR EL QUE SE ADICIONAN LAS FRACCIONES XXII A LA XXVII AL ARTICULO 25; LA FRACCION XVIII AL ARTICULO 29; LAS FRACCIONES XV Y XVI AL ARTICULO 31; LAS FRACCIONES XIX A LA XXII AL ARTICULO 34. SE REFORMAN LOS ARTICULOS 5; 12; 18; LAS FRACCIONES II, III, VI, VII Y XIV DEL ARTICULO 24; LAS FRACCIONES XVIII Y XXI DEL ARTICULO 25; 26; LA FRACCION IX DEL ARTICULO 27, 28; 29, FRACCIONES VII, VIII, X, XVI Y XVII; 30, FRACCION I; 31, FRACCION XIV; 33; LA FRACCION XVIII DEL ARTICULO 34; Y 36. SE DEROGAN LAS FRACCIONES VIII, XII, XV Y XVI DEL ARTICULO 24; LOS ARTICULOS 26 BIS Y 28 BIS, DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA.
+DECRETO NÚMERO 1143/2010 XII P.E., POR EL QUE SE ADICIONAN LAS FRACCIONES XXII A LA XXVII AL ARTÍCULO 25; LA FRACCIÓN XVIII AL ARTÍCULO 29; LAS FRACCIONES XV Y XVI AL ARTÍCULO 31; LAS FRACCIONES XIX A LA XXII AL ARTÍCULO 34. SE REFORMAN LOS ARTÍCULOS 5; 12; 18; LAS FRACCIONES II, III, VI, VII Y XIV DEL ARTÍCULO 24; LAS FRACCIONES XVIII Y XXI DEL ARTÍCULO 25; 26; LA FRACCIÓN IX DEL ARTÍCULO 27, 28; 29, FRACCIONES VII, VIII, X, XVI Y XVII; 30, FRACCIÓN I; 31, FRACCIÓN XIV; 33; LA FRACCIÓN XVIII DEL ARTÍCULO 34; Y 36. SE DEROGAN LAS FRACCIONES VIII, XII, XV Y XVI DEL ARTÍCULO 24; LOS ARTÍCULOS 26 BIS Y 28 BIS, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -1986,3 +1988,21 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Cuando en cualquier otro instrumento jurídico se haga referencia a la Secretaría de Fomento Social, se entenderá citada a la Secretaría de Desarrollo Social sin que ello afecte su competencia, derechos u obligaciones que haya contraído con antelación a la entrada en vigor del presente Decreto.
+
+P.O. 6 DE OCTUBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El trámite de los asuntos en la materia, solicitados ante la Comisión Estatal de Gasto Financiamiento, serán continuados por la Secretaría de Hacienda, a través de la Dirección General de Egresos.
+
+###### ARTÍCULO TERCERO.
+
+Las funciones, facultades, derechos y obligaciones establecidos en cualquier ordenamiento legal, así como los acuerdos celebrados con dependencias o entidades del Gobierno del Estado, establecidos a cargo de la Comisión Estatal de Gasto Financiamiento, serán asumidos por la Secretaría de Hacienda.
+
+###### ARTÍCULO CUARTO.
+
+Cuando en cualquier otro instrumento jurídico se haga referencia a la Comisión Estatal de Gasto Financiamiento, se entenderá a la Secretaría de Hacienda.
