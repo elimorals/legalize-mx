@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5707
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-07"
-last_updated: "2007-08-07"
+last_updated: "2012-10-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57072&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSI
 
-LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSI
+LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2012.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el martes 7 de agosto de 2007.
 
@@ -113,9 +113,17 @@ I. Familiar: todos aquellos actos abusivos de poder u omisión intencional dirig
 
 II. Laboral y docente: todo acto u omisión ejercida en abuso de poder por personas que tienen un vínculo laboral, docente o análogo con la víctima, independientemente de la relación jerárquica, que daña su autoestima, salud, integridad, libertad y seguridad, que impide su desarrollo y atenta contra la igualdad;
 
-III. Social: los actos individuales o colectivos que transgreden derechos fundamentales de las mujeres en el ámbito público y propician su denigración, discriminación, marginación o exclusión, y
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2012)</small>
 
-IV. De las instituciones públicas: los actos u omisiones de las y los servidores públicos que discriminen o tengan como fin o resultado dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres, así como su acceso a las políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia.
+III. Social: los actos individuales o colectivos que transgreden derechos fundamentales de las mujeres en el ámbito público y propician su denigración, discriminación, marginación o exclusión;
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2012)</small>
+
+IV. De las instituciones públicas: los actos u omisiones de las y los servidores públicos que discriminen o tengan como fin o resultado dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres, así como su acceso a las políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia, y
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2012)</small>
+
+V. Mediático: toda publicación de mensajes e imágenes estereotipados que, a través de cualquier medio de comunicación, ya sea de manera directa o indirecta, promuevan la explotación de mujeres, niñas y adolescentes, atenten contra su dignidad y fomenten la desigualdad entre mujeres y hombres.
 
 ###### ARTICULO 5º.
 
@@ -938,3 +946,11 @@ El Secretario General de Gobierno
 Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 6 DE OCTUBRE DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
