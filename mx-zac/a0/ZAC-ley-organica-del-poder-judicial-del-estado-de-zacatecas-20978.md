@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-judicial-del-estado-de-zacatecas-20978"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-04-04"
-last_updated: "2010-09-29"
+last_updated: "2012-10-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20978&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2012.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 4 de abril del 2001.
 
@@ -165,7 +165,9 @@ El Poder Judicial del Estado de Zacatecas se ejerce por:
 
 I. El Tribunal Superior de Justicia;
 
-II. El Tribunal Estatal Electoral;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2012)</small>
+
+II. El Tribunal de Justicia Electoral;
 
 > <small>(REFORMADA, P.O. 11 DE ENERO DE 2003)</small>
 
@@ -337,9 +339,9 @@ XXX. Ejercer en forma independiente al presupuesto de egresos, el Fondo Auxiliar
 
 XXXI. Vigilar que se lleve un inventario actualizado de los bienes muebles e inmuebles que sean patrimonio del Poder Judicial;
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2012)</small>
 
-XXXII. Proponer a la Legislatura del Estado, las ternas para el nombramiento de los magistrados que deben integrar los Tribunales Estatal Electoral, Contencioso Administrativo y Especializado en Justicia para Adolescentes;
+XXXII. Proponer a la Legislatura del Estado, las ternas para el nombramiento de los magistrados que deben integrar los Tribunales de Justicia Electoral, Contencioso Administrativo y Especializado en Justicia para Adolescentes;
 
 XXXIII. Imponer correcciones disciplinarias a sus miembros o a cualquier otro servidor público del Poder Judicial, así como a las partes, abogados patronos y procuradores, cuando falten al respeto a los órganos del Poder Judicial;
 
@@ -1451,15 +1453,17 @@ Los magistrados del Tribunal Superior de Justicia gozan de la inmunidad que les 
 
 Los demás servidores públicos del Poder Judicial, serán procesados por los delitos en que incurrieren.
 
-## TITULO QUINTO. DEL TRIBUNAL ESTATAL ELECTORAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE OCTUBRE DE 2012)</small>
+
+## TITULO QUINTO. DEL TRIBUNAL DE JUSTICIA ELECTORAL
 
 ### CAPITULO PRIMERO. DE SU INTEGRACION Y FUNCIONAMIENTO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 76.
 
-El Tribunal Estatal Electoral es un órgano especializado del Poder Judicial del Estado, la máxima autoridad jurisdiccional en materia electoral, tendrá su sede en la Capital del Estado o zona conurbada y su jurisdicción comprende todo el territorio de éste.
+El Tribunal de Justicia Electoral es un órgano especializado del Poder Judicial del Estado, la máxima autoridad jurisdiccional en materia electoral, tendrá su sede en la Capital del Estado o zona conurbana y su jurisdicción comprende todo el territorio de éste.
 
 Los Magistrados que lo integren deberán reunir los requisitos que se exigen en el artículo 97 de la Constitución Política del Estado y esta Ley, para su designación se observarán las reglas y procedimientos siguientes:
 
@@ -1477,41 +1481,69 @@ IV. La Legislatura del Estado o, en su caso, la Comisión Permanente, elegirá, 
 
 V. Si no es electo el candidato, conforme se señala en el inciso anterior, se notificará al Pleno del Tribunal Superior de Justicia para que presente nueva propuesta, la cual deberá enviarse dentro de los tres días siguientes, para que se vote a más tardar dentro de los cinco días posteriores a la recepción de la nueva propuesta.
 
-> <small>(REFORMADO, P.O. 12 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 77.
 
-El Tribunal Estatal Electoral en Sala única, compuesta por cinco Magistrados.
+El Tribunal de Justicia Electoral funcionará en Sala única, compuesta por cinco Magistrados, sus sesiones de resolución jurisdiccional serán públicas.
 
-> <small>(REFORMADO, P.O. 12 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 78.
 
-En términos del artículo 103 de la Constitución Política del Estado, el Tribunal Estatal Electoral, de conformidad con lo que señalen la propia Constitución y las leyes aplicables, es competente para resolver, en una sola instancia y en forma definitiva e inatacable:
+En términos del artículo 103 de la Constitución Política del Estado, el Tribunal de Justicia Electoral, de conformidad con lo que señalen la propia Constitución y las leyes aplicables, es competente para resolver, en una sola instancia y en forma definitiva e inatacable:
+
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
 
 I. Las impugnaciones sobre las elecciones para Diputados Locales y de Ayuntamientos.
+
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
 
 II. Las impugnaciones de la elección de Gobernador del Estado. Una vez resueltas las que se hubieren interpuesto, a más tardar el quince de agosto del año de la elección, la Sala realizará el cómputo final, procediendo a formular la declaración de validez de la elección y la de Gobernador electo, respecto del candidato que hubiese obtenido el mayor número de votos.
 
 La declaración de validez de la elección y la de Gobernador electo formuladas por el Tribunal Estatal Electoral, se notificarán a la Legislatura del Estado, a efecto de que esta última decrete, la expedición y publicación del Bando Solemne a que se refiere el artículo 65, fracción XLII de la Constitución Política del Estado.
 
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2012)</small>
+
+La Sala del Tribunal sólo podrá declarar la nulidad de una elección por las causales que expresamente se establezcan en la Ley del Sistema de Medios de Impugnación Electoral del Estado.
+
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
+
 III. Actos y resoluciones de la autoridad electoral, distintas a las señaladas en las dos fracciones anteriores, que violen las normas constitucionales o legales.
+
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
 
 IV. Conflictos o diferencias laborales con sus servidores y los correspondientes a los demás órganos electorales;
 
-V. La determinación e imposición de sanciones en la materia; y
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
 
-VI. Las demás que le señale la ley.
+V. La determinación e imposición de sanciones en la materia; y (sic)
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE ENERO DE 2002)</small>
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2012)</small>
 
-### CAPITULO SEGUNDO. DE LA INTEGRACION Y FUNCIONAMIENTO DE LA SALA DEL TRIBUNAL ESTATAL ELECTORAL
+VI. Actos y resoluciones que violen los derechos político-electorales de los ciudadanos de votar y ser votado en las elecciones populares, asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos concernientes al Estado o al Municipio y afiliarse libre e individualmente a los partidos políticos, siempre y cuando se hubiesen reunido los requisitos constitucionales y los que se señalen en las leyes para su ejercicio;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ENERO DE 2002)</small>
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2012)</small>
+
+VII. Conflictos concernientes a impedimentos presentados contra los magistrados;
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2012)</small>
+
+VIII. Impugnaciones contra los actos del Consejo General, del Consejero Presidente y de la Junta Ejecutiva del Instituto Electoral del Estado, y
+
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
+
+IX. Las demás que le señale la ley.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE OCTUBRE DE 2012)</small>
+
+### CAPÍTULO SEGUNDO. DE LA INTEGRACIÓN Y FUNCIONAMIENTO DE LA SALA DEL TRIBUNAL DE JUSTICIA ELECTORAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 79.
 
-La Sala del Tribunal Estatal Electoral estará integrada por cinco magistrados electorales. Para que pueda sesionar válidamente se requerirá por lo menos cuatro de sus miembros; sus resoluciones se tomarán por unanimidad o mayoría en los casos expresamente señalados en la ley.
+La Sala del Tribunal de Justicia Electoral estará integrada por cinco Magistrados Electorales. Para que pueda sesionar válidamente se requerirá por lo menos cuatro de sus miembros, sus resoluciones se tomarán por unanimidad o mayoría en los casos expresamente señalados en la Ley.
 
 > <small>(REFORMADO, P.O. 12 DE ENERO DE 2002)</small>
 
@@ -1525,11 +1557,11 @@ Cuando un Magistrado Electoral disintiere de la mayoría o su proyecto fuera rec
 
 La Sala elaborará anualmente el proyecto de su presupuesto y lo presentará al Pleno del Tribunal Superior de Justicia para su inclusión en el del Poder Judicial del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 81.
 
-La Sala del Tribunal Estatal Electoral emitirá el reglamento interior y los acuerdos generales que requiera el adecuado funcionamiento del Organo.
+La Sala del Tribunal de Justicia Electoral emitirá el reglamento interior y los acuerdos generales que requiera el adecuado funcionamiento del Órgano.
 
 Esta Sala será, además, la responsable de conducir las relaciones con otros Tribunales Electorales, autoridades e instituciones.
 
@@ -1541,53 +1573,97 @@ Los Magistrados de la Sala nombrarán al Secretario de Acuerdos de la misma y pr
 
 ### CAPITULO TERCERO. DE SUS ATRIBUCIONES
 
-> <small>(REFORMADO, P.O. 12 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 83.
 
-La Sala del Tribunal Estatal Electoral tendrá competencia par conocer y emitir fallo en revisión, respecto de las resoluciones recaídas con motivo de la interposición de recursos de revocación.
+La Sala del Tribunal de Justicia Electoral tendrá competencia para:
+
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
 
 I. Conocer en forma definitiva e inatacable:
 
-a) Los recursos de inconformidad que se presenten en contra de los cómputos distritales y estatal de la elección de Gobernador del Estado, en los términos de la ley de la materia. Una vez resueltos los que se hubieren interpuesto, realizará el cómputo final, procediendo a formular la declaración de validez de la elección y la de Gobernador Electo, respecto al candidato que hubiere obtenido el mayor número de votos. La decisión que adopte la Sala, será comunicada de inmediato a la Legislatura del Estado para los efectos constitucionales correspondientes;
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
 
-b) Los recursos de inconformidad encaminados a que se declare la nulidad de las elecciones, o para impugnar, en la elección de Diputados por ambos principios, los resultados consignados en las actas de computo distrital o estatal respectivas, por nulidad de la votación recibida en una o varias casillas o por error aritmético; la declaración de validez de la elección, la expedición de las Constancias de Mayoría o de Asignación, según sea el caso;
+a) Los Juicios de Nulidad, que se presenten en contra de los cómputos distritales y estatal de la elección de Gobernador del Estado, en los términos de la ley de la materia. Una vez resueltos los que se hubieren interpuesto, siempre que dichos juicios no tengan como efecto la nulidad de la elección, realizará el cómputo final, procediendo a formular la declaración de validez de la elección y la de Gobernador Electo, respecto al candidato que hubiere obtenido el mayor número de votos. La decisión que adopte la Sala, será comunicada de inmediato a la Legislatura del Estado para los efectos constitucionales correspondientes;
 
-c) Los recursos de inconformidad encaminados a que se declare nulidad de las elecciones, o para impugnar, en la elección de Ayuntamientos, los resultados consignados en las actas de cómputo municipal o estatal respectivas, por nulidad de la votación recibida en una o varias casillas o por error aritmético; la declaración de validez de la elección, la expedición de las Constancias de Mayoría o de Asignación, según sea el caso;
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
+
+b) Los Juicios de Nulidad encaminados a que se declare nulidad de las elecciones, o para impugnar, en la elección de Diputados por ambos principios, los resultados consignados en las actas de cómputo distrital o estatal respectivas, por nulidad de la votación recibida en una o varias casillas o por error aritmético; la declaración de validez de la elección, la expedición de las Constancias de Mayoría o de Asignación, según sea el caso;
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
+
+c) Los Juicios de Nulidad encaminados a que se declare nulidad de las elecciones, o para impugnar, en la elección de Ayuntamientos, los resultados consignados en las actas de cómputo municipal o estatal respectivas, por nulidad de la votación recibida en una o varias casillas o por error aritmético; la declaración de validez de la elección, la expedición de las Constancias de Mayoría o de Asignación, según sea el caso;
+
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2002)</small>
 
 d) Los recursos de revisión, que se presenten en contra de actos y resoluciones del Consejo General y del Consejero Presidente, relativos a las observaciones hechas por los partidos políticos a listas nominales de electores en los términos de las leyes aplicables; asimismo en contra de actos y resoluciones de la autoridad electoral, durante el tiempo en que no se desarrollen procesos electorales locales, de conformidad con la ley de la materia;
 
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2002)</small>
+
 e) Los recursos de revisión, respecto de las impugnaciones por la determinación y, en su caso, aplicación de sanciones a ciudadanos, partidos políticos, organizaciones o agrupaciones políticas o de ciudadanos, observadores y cualquier otra persona física o moral, en los términos de la ley de la materia;
 
-f) Los conflictos o diferencias laborales entre el Tribunal Estatal Electoral y sus servidores; y
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
+
+f) Los conflictos o diferencias laborales entre el Tribunal de Justicia Electoral y sus servidores;
+
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2002)</small>
 
 g) Los conflictos o diferencias laborales entre el Instituto Electoral del Estado y sus servidores.
 
-II. Apercibir, amonestar e imponer multas hasta por doscientas veces el importe del salario mínimo diario general vigente en el Estado al momento de cometerse la falta, a aquellas personas que falten al respeto en las promociones, a algún órgano o miembro del Tribunal Estatal Electoral;
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2012)</small>
+
+h) Los juicios del ciudadano, en única instancia y en los términos de la ley de la materia, que se promuevan por violación al derecho de ser votado en las elecciones de Gobernador del Estado, de diputados locales e integrantes de Ayuntamientos; los que se promuevan por violación al derecho de asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos concernientes al Estado o al Municipio, así como los que se presenten en contra de las determinaciones de los partidos políticos en la selección de sus candidatos en las elecciones antes mencionadas o en la integración de sus órganos partidistas. En los dos últimos casos la Sala admitirá el medio de impugnación una vez que los quejosos hayan agotado los medios partidistas de defensa.
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2012)</small>
+
+II. Apercibir, amonestar e imponer multas hasta por doscientas veces el importe del salario mínimo diario general vigente en el Estado al momento de cometerse la falta, a aquellas personas que falten al respeto en las promociones, a algún órgano o miembro del Tribunal de Justicia Electoral;
+
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
 
 III. Elegir a su Presidente, así como conocer y aceptar, en su caso, su renuncia a dicho cargo;
 
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
+
 IV. Conceder licencia a los Magistrados Electorales que lo integran, siempre que no exceda de un mes;
 
-V. Proponer a la Comisión de Administración el nombramiento de los servidores públicos, jurídicos y administrativos, que deban auxiliar en sus funciones al Tribunal Estatal Electoral;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2012)</small>
+
+V. Proponer a la Comisión de Administración el nombramiento de los servidores públicos, jurídicos y administrativos, que deban auxiliar en sus funciones al Tribunal de Justicia Electoral;
+
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
 
 VI. Aprobar el reglamento interior y dictar los acuerdos generales en las materias de su competencia;
 
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
+
 VII. Fijar los días y horas en que deba sesionar la Sala, tomando en cuenta los plazos electorales;
+
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
 
 VIII. Conocer y resolver sobre las excusas o impedimentos de los Magistrados Electorales que la integran;
 
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
+
 IX. Insacular de entre sus miembros a quien formará parte de la Comisión de Administración;
 
-X. Las demás que le confieran las leyes y el Reglamento Interno del Tribunal.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2012)</small>
 
-### CAPITULO CUARTO. DEL PRESIDENTE DEL TRIBUNAL ESTATAL ELECTORAL
+X. Las demás que le confieran las leyes y el Reglamento Interno del Tribunal de Justicia Electoral.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE OCTUBRE DE 2012)</small>
+
+### CAPITULO CUARTO. DEL PRESIDENTE DEL TRIBUNAL DE JUSTICIA ELECTORAL
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ENERO DE 2002)</small>
 
 ###### Artículo 84.
 
 El último viernes del mes de septiembre del año que corresponda, los miembros de la Sala elegirán de entre ellos a su Presidente, quien lo será también del Tribunal, por un periodo de dos años, pudiendo ser reelecto.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2012)</small>
+
+En caso de renuncia la Sala procederá a elegir a un nuevo Presidente, quien lo será hasta la conclusión del periodo para el que fue electo el sustituido.
 
 > <small>(REFORMADO, P.O. 12 DE ENERO DE 2002)</small>
 
@@ -1597,11 +1673,15 @@ Las ausencias del Presidente serán suplidas, si no exceden de un mes, por el Ma
 
 Si la ausencia de un Magistrado es definitiva, el Presidente de la Sala lo notificará de inmediato al Presidente del Tribunal Superior de Justicia, a fin de que se promueva el nombramiento correspondiente. En este caso, en tanto se hace la elección respectiva, la Sala podrá habilitar como Magistrado al Secretario de Acuerdos o al Secretario de Estudio y Cuenta que a criterio de los Magistrados, reúna el perfil profesional idóneo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 85.
 
-El Presidente del Tribunal Estatal Electoral tendrá las atribuciones siguientes:
+El Presidente del Tribunal de Justicia Electoral tendrá las atribuciones siguientes:
 
-I. Representar al Tribunal Estatal Electoral y celebrar todo tipo de actos jurídicos y administrativos que se requieran para el buen funcionamiento del mismo;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2012)</small>
+
+I. Representar al Tribunal de Justicia Electoral y celebrar todo tipo de actos jurídicos y administrativos que se requieran para el buen funcionamiento del mismo;
 
 > <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
 
@@ -1627,19 +1707,25 @@ VII. Llevar las relaciones con autoridades o instituciones que tengan vínculos 
 
 VIII. Presentar al Pleno del Tribunal Superior de Justicia el presupuesto anual para su inclusión en el del Poder Judicial del Estado;
 
-IX. Someter a la consideración de la Comisión de Administración, el anteproyecto de presupuesto del Tribunal Estatal Electoral, a efecto de que, una vez aprobado por ella, lo proponga al Pleno del Tribunal Superior de Justicia;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2012)</small>
 
-X. Convocar a sesiones públicas o reuniones internas de Magistrados Electorales y demás personal jurídico, técnico y administrativo del Tribunal Estatal Electoral;
+IX. Someter a la consideración de la Comisión de Administración, el anteproyecto de presupuesto del Tribunal de Justicia Electoral, a efecto de que, una vez aprobado por ella, lo proponga al Pleno del Tribunal Superior de Justicia;
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2012)</small>
+
+X. Convocar a sesiones públicas o reuniones internas de Magistrados Electorales y demás personal jurídico, técnico y administrativo del Tribunal de Justicia Electoral;
 
 > <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
 
 XI. Vigilar que se adopten y cumplan las medidas necesarias para coordinar las funciones jurisdiccionales y administrativas que corresponden a los Magistrados Electorales, por disposición de la ley o por acuerdo del Pleno del Tribunal Superior de Justicia;
 
-> <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2012)</small>
 
-XII. Tramitar ante la Comisión de Administración las licencias de los servidores del Tribunal Estatal Electoral;
+XII. Tramitar ante la Comisión de Administración las licencias de los servidores del Tribunal de Justicia Electoral;
 
-XIII. Comunicar al Pleno del Tribunal Superior de Justicia las ausencias de los Magistrados Electorales para los efectos que procedan de conformidad con las disposiciones constitucionales y legales aplicables;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2012)</small>
+
+XIII. Comunicar al Pleno del Tribunal Superior de Justicia las ausencias definitivas de los Magistrados Electorales para los efectos que procedan de conformidad con las disposiciones constitucionales y legales aplicables;
 
 > <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
 
@@ -1653,11 +1739,15 @@ XVI. Requerir cualquier informe o documento que, obrando en poder de los órgano
 
 XVII. Ordenar, en casos extraordinarios, que se realice alguna diligencia o se desahogue o perfeccione alguna prueba, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos en las leyes;
 
-XVIII. Rendir un informe anual ante Pleno del Tribunal Superior de Justicia y los miembros del Tribunal Estatal Electoral, ordenando su publicación en una edición especial. Dicho informe deberá hacerse antes de que el Presidente del Tribunal Superior de Justicia rinda el que corresponde a las labores del Poder Judicial del Estado y, en los años de proceso electoral, una vez que haya concluido el mismo;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2012)</small>
+
+XVIII. Rendir un informe anual ante Pleno del Tribunal Superior de Justicia y los miembros del Tribunal de Justicia Electoral, ordenando su publicación en una edición especial. Dicho informe deberá hacerse antes de que el Presidente del Tribunal Superior de Justicia rinda el que corresponde a las labores del Poder Judicial del Estado y, en los años de proceso electoral, una vez que haya concluido el mismo;
 
 XIX. Proporcionar al Presidente del Tribunal Superior de Justicia la información que requiera para el informe anual de labores del Poder Judicial;
 
-XX. Tramitar ante la Comisión de Administración la suspensión, remoción o cese del personal del Tribunal Estatal Electoral;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2012)</small>
+
+XX. Tramitar ante la Comisión de Administración la suspensión, remoción o cese del personal del Tribunal de Justicia Electoral;
 
 XXI. Vigilar que se cumplan las disposiciones del Reglamento Interior del Tribunal; y
 
@@ -1779,15 +1869,17 @@ III. Revisar los engroses de las resoluciones de la Sala;
 
 IV. Llevar el control del turno de los Magistrados Electorales;
 
-> <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2012)</small>
 
-V. Supervisar el debido funcionamiento de la Oficialía de Partes del Tribunal Estatal Electoral;
+V. Supervisar el debido funcionamiento de la Oficialía de Partes del Tribunal de Justicia Electoral;
 
 > <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
 
 VI. Supervisar que se hagan en tiempo y forma las notificaciones;
 
-VII. Supervisar el debido funcionamiento de las (sic) archivos jurisdiccionales del Tribunal Estatal Electoral y, en su momento, su concentración y preservación;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2012)</small>
+
+VII. Supervisar el debido funcionamiento de los archivos jurisdiccionales del Tribunal de Justicia Electoral y, en su momento, su concentración y preservación;
 
 VIII. Dictar, previo acuerdo con el Presidente del Tribunal, los lineamientos generales para la identificación e integración de los expedientes;
 
@@ -1811,9 +1903,11 @@ XI. Las demás que le señalen las leyes.
 
 ### CAPITULO DECIMO PRIMERO. DE LA COMISION DE ADMINISTRACION DE SU INTEGRACION Y FUNCIONAMIENTO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 97.
 
-La administración, vigilancia y disciplina del Tribunal Estatal Electoral estarán a cargo de la Comisión de Administración.
+La administración, vigilancia y disciplina del Tribunal de Justicia Electoral estarán a cargo de la Comisión de Administración.
 
 > <small>(REFORMADO, P.O. 12 DE ENERO DE 2002)</small>
 
@@ -1841,23 +1935,31 @@ Cuando la Comisión de Administración estime que sus acuerdos o resoluciones pu
 
 ### CAPITULO DECIMO SEGUNDO. DE SUS ATRIBUCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 101.
 
-La Comisión de Administración no tendrá injerencia en ningún caso en asuntos jurisdiccionales. Tendrá las atribuciones siguientes:
+La Comisión de Administración tendrá las atribuciones siguientes:
 
-> <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2012)</small>
 
-I. Proveer lo necesario para que conforme a sus atribuciones constitucionales y legales el Tribunal Estatal Electoral intervenga en los procesos electorales extraordinarios;
+I. Proveer lo necesario para que conforme a sus atribuciones constitucionales y legales, el Tribunal de Justicia Electoral intervenga en los procesos electorales ordinarios y extraordinarios;
 
-II. Expedir las normas internas en materia administrativa y establecer las disposiciones generales necesarias para el ingreso, régimen y remoción, así como las relativas a estímulos y capacitación del personal del Tribunal Estatal Electoral;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2012)</small>
 
-III. Establecer la normatividad y los criterios para modernizar las estructuras orgánicas, los sistemas y procedimientos administrativos, así como los servicios públicos;
+II. Expedir las normas internas en materia administrativa y establecer las disposiciones generales necesarias para el ingreso, régimen y remoción, así como las relativas a estímulos y capacitación del personal del Tribunal de Justicia Electoral;
 
-IV. Dictar las medidas que exijan el buen servicio y la disciplina en el Tribunal Estatal Electoral;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
+III. Establecer la normatividad y los criterios para modernizar las estructuras orgánicas, los sistemas y procedimientos administrativos, así como los servicios al público;
 
-V. Autorizar en términos de esta Ley al Presidente del Tribunal Estatal Electora para que, en caso de ausencia de alguno de sus servidores o empleados, nombre a un interino;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2012)</small>
+
+IV. Dictar las medidas que exijan el buen servicio y la disciplina en el Tribunal de Justicia Electoral;
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2012)</small>
+
+V. Autorizar en términos de esta ley al Presidente del Tribunal de Justicia Electoral para que, en caso de ausencia de alguno de sus servidores o empleados, nombre a un interino;
 
 VI. Conceder licencias en los términos previstos en esta Ley;
 
@@ -1885,17 +1987,29 @@ XV. Realizar visitas extraordinarias o integrar comités de investigación, cuan
 
 XVI. Apercibir, amonestar e imponen multas hasta por ciento ochenta veces el importe del salario mínimo diario general vigente en el Estado al momento de cometerse la falta, a aquellas personas que falten al respeto a algún órgano o miembro de la Comisión en las promociones que le presenten;
 
-XVII. Aportar al Presidente del Tribunal Estatal Electoral los elementos necesarios para la elaboración del anteproyecto de presupuesto anual de egresos del Tribunal Estatal Electoral a efecto de que una vez aprobado, sea presentado al Pleno del Tribunal Superior de Justicia a fin de que se incluya en el del Poder Judicial del Estado;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2012)</small>
 
-XVIII. Ejercer el Presupuesto de Egresos del Tribunal Estatal Electoral;
+XVII. Aportar al Presidente del Tribunal los elementos necesarios para la elaboración del anteproyecto de presupuesto anual de egresos del Tribunal de Justicia Electoral a efecto de que una vez aprobado, sea presentado al Pleno del Tribunal Superior de Justicia a fin de que se incluya en el del Poder Judicial del Estado;
 
-XIX. Emitir las bases mediante acuerdos generales para que las adquisiciones, arrendamiento y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra que realice el Tribunal Estatal Electoral, en ejercicio de su presupuesto de egresos, se ajusten a los criterios previstos por la ley;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2012)</small>
 
-XX. Administrar los bienes muebles e inmuebles al servicio del Tribunal Estatal Electoral, cuidando su mantenimiento, conservación y acondicionamiento;
+XVIII. Ejercer el Presupuesto de Egresos del Tribunal de Justicia Electoral;
 
-XXI. Fijar las bases de la política informática y estadística del Tribunal Estatal Electoral;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2012)</small>
 
-XXII. Vigilar que los servidores públicos del Tribunal Estatal Electoral cumplan en tiempo y forma con la presentación de su declaración de situación patrimonial;
+XIX. Emitir las bases mediante acuerdos generales para que las adquisiciones, arrendamiento y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra que realice el Tribunal de Justicia Electoral, en ejercicio de su presupuesto de egresos, se ajusten a los criterios previstos por la ley;
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2012)</small>
+
+XX. Administrar los bienes muebles e inmuebles al servicio del Tribunal de Justicia Electoral, cuidando su mantenimiento, conservación y acondicionamiento;
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2012)</small>
+
+XXI. Fijar las bases de la política informática y estadística del Tribunal de Justicia Electoral;
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2012)</small>
+
+XXII. Vigilar que los servidores públicos del Tribunal de Justicia Electoral cumplan en tiempo y forma con la presentación de su declaración de situación patrimonial; y
 
 XXIII. Desempeñar cualquier otra función que la Ley o su Reglamento Interior le encomienden.
 
@@ -1915,7 +2029,9 @@ II. Presidir la Comisión, dirigir los debates y conservar el orden durante las 
 
 III. Tramitar o turnar, cuando corresponda, los asuntos entre los miembros de la Comisión para que se formulen los proyectos de resolución;
 
-IV. Despachar la correspondencia de la Comisión y firmar las resoluciones o acuerdos, así como legalizar por si o por conducto del Secretario de la Comisión, la firma de cualquier servidor del Tribunal Estatal Electoral en los casos en que la ley lo exija;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2012)</small>
+
+IV. Despachar la correspondencia de la Comisión y firmar las resoluciones o acuerdos, así como legalizar por sí o por conducto del Secretario de la Comisión, la firma de cualquier servidor del Tribunal de Justicia Electoral en los casos en que la ley lo exija;
 
 V. Vigilar el correcto funcionamiento de los órganos auxiliares de la Comisión de Administración;
 
@@ -1939,11 +2055,11 @@ IV. No desempeñar ni haber desempeñado cargo de dirección nacional, estatal, 
 
 V. No ser militar en activo o ministro de culto religioso.
 
-> <small>(REFORMADO, P.O. 12 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 105.
 
-Para ser designado Secretario de Acuerdos de la Sala del Tribunal Estatal Electoral, se deberán satisfacer los requisitos que se exigen para ser electo Magistrado Electoral, en los términos del presente Capítulo, con excepción del de la edad que será de treinta años.
+Para ser designado Secretario de Acuerdos de la Sala del Tribunal de Justicia Electoral, se deberán satisfacer los requisitos que se exigen para ser electo Magistrado Electoral, en los términos del presente Capítulo, con excepción del de la edad que será de treinta años.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ENERO DE 2002)</small>
 
@@ -1979,11 +2095,11 @@ IV. Aprobar la evaluación que para acreditar los requisitos de conocimientos b�
 
 V. No ser militar en activo o ministro de culto religioso.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 108.
 
-El Presidente del Tribunal Estatal Electoral o la Comisión de Administración, en el ámbito de sus respectivas competencias, podrán establecer otras categorías de personal jurídico para atender las necesidades de la Sala, de acuerdo con las partidas autorizadas en el presupuesto.
+El Presidente del Tribunal de Justicia Electoral o la Comisión de Administración, en el ámbito de sus respectivas competencias, podrán establecer otras categorías de personal jurídico para atender las necesidades de la Sala, de acuerdo con las partidas autorizadas en el presupuesto.
 
 Asimismo, cuando las cargas de trabajo extraordinarias lo exijan, la Comisión de Administración podrá autorizar la contratación, con carácter de eventual, del personal jurídico y administrativo necesario para hacer frente a tal situación, sin necesidad de seguir los procedimientos ordinarios para su contratación e ingreso.
 
@@ -2011,27 +2127,33 @@ Asimismo, a los secretarios y actuarios, les será aplicable, en lo conducente, 
 
 Las excusas que por impedimento legal para conocer de un asunto presenten los Magistrados Electorales, serán calificadas y resueltas sin substanciación alguna por la propia Sala, en la forma y términos previstos por el Reglamento Interior.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 112.
 
-Los Magistrados Electorales y demás servidores del Tribunal Estatal Electoral, en los términos de la legislación aplicable, cumplirán sus obligaciones respecto a la rendición de su declaración patrimonial.
+Los Magistrados Electorales y demás servidores del Tribunal de Justicia Electoral, en los términos de la legislación aplicable, cumplirán sus obligaciones respecto a la rendición de su declaración patrimonial.
 
 ### CAPITULO DECIMO SEXTO. DE LAS VACACIONES, DIAS INHABILES, RENUNCIAS, AUSENCIAS Y LICENCIAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 113.
 
-Los servidores públicos y empleados de la Sala del Tribunal Estatal Electoral disfrutarán de dos períodos de vacaciones al año, de acuerdo con las necesidades del servicio.
+Los servidores públicos y empleados de la Sala del Tribunal de Justicia Electoral disfrutarán de dos períodos de vacaciones al año, de acuerdo con las necesidades del servicio.
 
 Durante los años de proceso electoral o durante los periodos de procesos electorales extraordinarios, tomando en cuenta que todos los días y horas son hábiles, las vacaciones podrán diferirse. En ningún caso se podrán acumular las vacaciones correspondientes a más de dos años.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 114.
 
-Los servidores públicos y empleados del Tribunal Estatal Electoral gozarán de descanso durante los días inhábiles señalados por el calendario oficial del Poder Judicial, siempre y cuando no se esté en el caso a que se refiere el párrafo segundo del artículo anterior.
+Los servidores públicos y empleados del Tribunal de Justicia Electoral gozarán de descanso durante los días inhábiles señalados por el calendario oficial del Poder Judicial, siempre y cuando no se esté en el caso a que se refiere el párrafo segundo del artículo anterior.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 115.
 
-Los servidores públicos o empleados del Tribunal Estatal Electoral estarán obligados a prestar sus servicios durante los horarios que señale la Comisión de Administración, tomando en cuenta que durante los procesos electorales todos los días y horas son hábiles.
+Los servidores públicos o empleados del Tribunal de Justicia Electoral estarán obligados a prestar sus servicios durante los horarios que señale la Comisión de Administración, tomando en cuenta que durante los procesos electorales todos los días y horas son hábiles.
 
 ###### Artículo 116.
 
@@ -2057,17 +2179,19 @@ Las ausencias por defunción o por cualquier otra causa de separación definitiv
 
 Las licencias de los Magistrados Electorales, cuando excedan de un mes, sólo podrán concederse por la Legislatura del Estado o, en su caso, la Comisión Permanente. Ninguna licencia podrá exceder del término de dos años, siempre que la misma no se encuentre en el lapso de un proceso electoral.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 121.
 
-Las licencias serán otorgadas a los servidores públicos y empleados del Tribunal Estatal Electoral por el órgano facultado para ello, en los términos de la Ley del Servicio Civil del Estado, los reglamentos y acuerdos generales correspondientes y a falta de disposición expresa por quien haya conocido de su nombramiento.
+Las licencias serán otorgadas a los servidores públicos y empleados del Tribunal de Justicia Electoral por el órgano facultado para ello, en los términos de la Ley del Servicio Civil del Estado, los reglamentos y acuerdos generales correspondientes y a falta de disposición expresa por quien haya conocido de su nombramiento.
 
 ### CAPITULO DECIMO SEPTIMO. DE LAS ACTUACIONES JUDICIALES Y DEL ARCHIVO JURISDICCIONAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 122.
 
-Para la realización de diligencias o actuaciones que deban practicarse fuera de las oficinas del Tribunal Estatal Electoral será aplicable lo siguiente:
+Para la realización de diligencias o actuaciones que deban practicarse fuera de las oficinas del Tribunal de Justicia Electoral será aplicable lo siguiente:
 
 > <small>(REFORMADA, P.O. 12 DE ENERO DE 2002)</small>
 
@@ -2083,21 +2207,27 @@ III. Las diligencias que hayan de practicarse fuera de las oficinas del Tribunal
 
 IV. Fuera del lugar de residencia del Tribunal las diligencias podrán encomendarse a los Jueces de Primera Instancia o Municipales del lugar en donde ha de realizarse la actuación.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 123.
 
-El Tribunal Estatal Electoral deberá conservar en su archivo jurisdiccional los expedientes de los asuntos definitivamente concluidos durante dos años contados a partir de que se ordene el archivo.
+El Tribunal de Justicia Electoral deberá conservar en su archivo jurisdiccional los expedientes de los asuntos definitivamente concluidos durante dos años contados a partir de que se ordene el archivo.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 124.
 
-Una vez concluido el plazo a que se refiere el artículo anterior el Tribunal Estatal Electoral deberá remitir los expedientes al Archivo General del Poder Judicial, y conservará copia de los que requiera, utilizando para ello cualquier método de digitalización, reproducción o reducción.
+Una vez concluido el plazo a que se refiere el artículo anterior el Tribunal de Justicia Electoral deberá remitir los expedientes al Archivo General del Poder Judicial, y conservará copia de los que requiera, utilizando para ello cualquier método de digitalización, reproducción o reducción.
 
-### CAPITULO DECIMO OCTAVO. DEL PERSONAL DEL TRIBUNAL ELECTORAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE OCTUBRE DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 12 DE ENERO DE 2002)</small>
+### CAPÍTULO DÉCIMO OCTAVO. DEL PERSONAL DEL TRIBUNAL DE JUSTICIA ELECTORAL
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 125.
 
-Serán considerados de confianza los siguientes servidores y empleados del Tribunal Estatal Electoral: el Secretario de Acuerdos, los Secretarios de Estudio y Cuenta, los Actuarios, las personas designadas por el Presidente de la Sala para auxiliarlos en las funciones administrativas, el Secretario Administrativo de la Comisión de Administración, los coordinadores, los directores, los jefes de departamento, el personal de apoyo y asesoría de los antes mencionados y todos aquellos que tengan a su cargo funciones de vigilancia, control, manejo de recursos, adquisiciones o inventarios.
+Serán considerados de confianza los siguientes servidores y empleados del Tribunal de Justicia Electoral: el Secretario de Acuerdos, los Secretarios de Estudio y Cuenta, los Actuarios, las personas designadas por el Presidente de la Sala para auxiliarlos en las funciones administrativas, el Secretario Administrativo de la Comisión de Administración, los coordinadores, los directores, los jefes de departamento, el personal de apoyo y asesoría de los antes mencionados y todos aquellos que tengan a su cargo funciones de vigilancia, control, manejo de recursos, adquisiciones o inventarios.
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 11 DE ENERO DE 2003)</small>
 
@@ -2274,3 +2404,9 @@ Segundo.- Dentro de los sesenta días naturales siguientes a la entrada en vigor
 Tercero.- Lo establecido en el presente Decreto, no le será aplicable a aquellos magistrados que, a la fecha de entrada en vigor del presente Instrumento Legislativo, se hayan separado de su encargo y ya están disfrutando del haber por retiro que señala dicho artículo.
 
 Cuarto.- Se derogan las disposiciones que contravengan a este Decreto.
+
+P.O. 6 DE OCTUBRE DE 2012.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones que contravengan el presente Instrumento Legislativo.
