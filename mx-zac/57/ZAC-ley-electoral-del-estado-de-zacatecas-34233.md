@@ -4,7 +4,7 @@ identifier: "ZAC-ley-electoral-del-estado-de-zacatecas-34233"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-04"
-last_updated: "2009-10-03"
+last_updated: "2012-10-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34233&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 LEY ELECTORAL DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE ZACATECAS, PUBLICADA EN EL P.O. DE 6 DE OCTUBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 4 de octubre de 2003.
 
@@ -1037,7 +1039,7 @@ Obligaciones de los Partidos Políticos
 
 ARTÍCULO 47
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 1. Son obligaciones de los partidos políticos:
 
@@ -1185,7 +1187,7 @@ X. Impedir de cualquier forma, que sus candidatos que hayan obtenido un triunfo 
 
 XI. Las demás que prevea la legislación aplicable.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 Cancelación de Registro, Resolución y Procedimiento de Liquidación
 
@@ -1257,7 +1259,7 @@ IV. Usar las franquicias postales y telegráficas que sean necesarias para el cu
 
 ### CAPÍTULO SEGUNDO. Acceso a los Medios de Comunicación Social
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 Acceso Equitativo y Distribución de Tiempos en Radio y Televisión.
 
@@ -1305,7 +1307,7 @@ ARTÍCULO 53
 
 11. Tratándose del Tribunal de Justicia Electoral del Estado, le será aplicable lo dispuesto en los dos párrafos anteriores.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE OCTUBRE DE 2009)</small>
 
 Acuerdos del Consejo General. Medios de Comunicación Impresos
 
@@ -1317,7 +1319,7 @@ ARTÍCULO 54
 
 2. En todo momento el Consejo General, verificará que los medios de comunicación impresos en la entidad, cumplan con las obligaciones que establezca esta ley, los lineamientos que para el efecto emita el Consejo General y el respectivo contrato.
 
-> <small>(REFORMADA SU DENOMINACION, P.O 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O 3 DE OCTUBRE DE 2009)</small>
 
 Contratación en medios de comunicación
 
@@ -1413,7 +1415,7 @@ XI. (DEROGADA, P.O. 3 DE OCTUBRE DE 2009)
 
 XII. El Instituto aplicará las sanciones correspondientes a los partidos políticos que incumplan lo señalado en la fracción X del artículo 47 de esta Ley.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 Obtención del Voto. Actividades Específicas. Financiamiento Público
 
@@ -1605,7 +1607,7 @@ VIII. Los partidos políticos nacionales o estatales entre si, salvo el caso que
 
 IX. Personas físicas o morales no identificadas, con excepción de las obtenidas mediante colectas realizadas en mítines o en la vía pública.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 Topes a los Gastos de Campaña
 
@@ -1661,7 +1663,7 @@ ARTÍCULO 69
 
 ### CAPÍTULO CUARTO. De la Fiscalización a los Partidos Políticos y su Régimen Tributario
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 Órgano Interno de Contabilidad de los Partidos Políticos
 
@@ -1695,7 +1697,7 @@ Informes Contables de los Partidos Políticos
 
 ARTÍCULO 71
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2006)</small>
 
 1. Los partidos políticos por conducto de sus dirigencias estatales deberán presentar al Consejo General del Instituto, informes sobre el origen y monto de los ingresos que perciban por cualquier modalidad de financiamiento; su empleo y aplicación, así como un estado de posición financiera anual, de conformidad a lo siguiente:
 
@@ -1747,7 +1749,7 @@ Bases para la Fiscalización a los Partidos Políticos
 
 ARTÍCULO 72
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 1. Para revisar y fiscalizar los informes financieros ordinarios, de precampaña y campaña que en términos de este capítulo los partidos políticos deben presentar, se estará a lo siguiente:
 
@@ -1945,7 +1947,7 @@ Coalición. Requisitos para su registro
 
 ARTICULO 82
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2006)</small>
 
 1. Para que el Instituto tramite la solicitud de registro de una coalición, los partidos políticos interesados a través de sus dirigencias estatales, deberán:
 
@@ -2175,7 +2177,7 @@ ARTÍCULO 94
 
 1. Para los efectos de esta ley por fusión se entiende la unión o incorporación de uno o varios partidos políticos estatales, para la subsistencia de uno de ellos o la constitución de un nuevo partido político.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 Convenio de Fusión. Elementos
 
@@ -2341,7 +2343,7 @@ ARTÍCULO 107
 
 1. De acuerdo con el principio de definitividad que regula los procesos electorales, a la conclusión de cualesquiera de sus etapas o de algunos de los actos o actividades trascendentes, quienes presidan los respectivos órganos electorales, difundirán el inicio y conclusión por los medios que estimen convenientes.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 ## TÍTULO TERCERO. De los procesos de selección de candidatos a cargos de elección popular y de las Precampañas
 
@@ -2575,13 +2577,13 @@ ARTÍCULO 122
 
 1. El Instituto, por conducto de sus Consejos deberá dar la más amplia difusión a la apertura del registro de las candidaturas y a los plazos a que se refiere el artículo anterior.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 Contenido de la solicitud de Registro de Candidaturas
 
 ARTÍCULO 123
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 1. La solicitud de registro de candidaturas deberá señalar el partido político, coalición o candidatura común que las postule y los siguientes datos personales de los candidatos:
 
@@ -2601,7 +2603,7 @@ VI. Cargo para el que se le postula; y
 
 VII. La firma del directivo o representante del partido político, coalición o de los partidos políticos en caso de candidatura común debidamente registrado o acreditado ante alguno de los Consejos del Instituto, según corresponda.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 Documentación Anexa a las solicitudes de Registro
 
@@ -2625,7 +2627,7 @@ V. Escrito bajo protesta de decir verdad, de tener vigentes sus derechos políti
 
 2. La solicitud de registro de candidaturas, con la documentación anexa, deberá ser presentada en original y copia, a fin de que al partido político le sea devuelta copia debidamente razonada por el órgano electoral respectivo.
 
-> <small>(REFORMADA SU DENOMINACION P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN P.O. 3 DE OCTUBRE DE 2009)</small>
 
 Verificación de cumplimiento
 
@@ -2665,7 +2667,7 @@ Sustitución de Candidatos Registrados
 
 ARTÍCULO 129
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2006)</small>
 
 1. Para la sustitución de candidatos registrados, los partidos políticos, a través de sus dirigencias estatales, y en su caso las coaliciones, deberán solicitarla por escrito dirigido al Consejo General, de conformidad con lo siguiente:
 
@@ -2685,7 +2687,7 @@ IV. Las sustituciones de candidatos aparecerán en las boletas electorales siemp
 
 2. El Consejo General notificará al partido político, coalición o candidatura común que corresponda, las renuncias que los candidatos le presentaren a aquél, en forma directa.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 Difusión de los Plazos de Registro de Candidaturas
 
@@ -2805,7 +2807,7 @@ VI. No podrá elaborarse ni distribuirse propaganda electoral en el interior de 
 
 5. Los consejos distritales y municipales, dentro del ámbito de su competencia velarán por la observancia de las anteriores disposiciones y adoptarán las medidas a que hubiere lugar con el fin de asegurar a partidos y candidatos el pleno ejercicio de sus derechos en la materia.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 Propaganda Audiovisual. Reglas
 
@@ -2991,7 +2993,7 @@ Ubicación de Casillas
 
 ARTÍCULO 153
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 1. Para la determinación del lugar en que habrán de instalarse las casillas, entre el 10 de febrero y el 10 de marzo del año de la elección, personal de los consejos distritales recorrerá las secciones de los correspondientes municipios con el propósito de localizar lugares que cumplan con los siguientes requisitos:
 
@@ -3179,7 +3181,7 @@ VII. Sólo podrán solicitar y obtener de las mesas directivas de casilla del di
 
 VIII. Podrán acompañar al presidente de la mesa directiva de casilla a los consejos electorales correspondientes, para hacer entrega de la documentación y el expediente electoral, cuando el representante de su partido o coalición no estuviere presente.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 Representantes Acreditados ante mesas de casilla. Derechos y Normas de Actuación
 
@@ -3233,7 +3235,7 @@ ARTÍCULO 165
 
 ### CAPÍTULO SEXTO. De la Documentación y Materiales Electorales
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 Formato
 
@@ -3563,7 +3565,7 @@ c). Relación de incidentes ocurridos durante la votación, si los hubiera, y
 
 d). Los nombres y firmas de los integrantes de la mesa directiva de casilla y representantes de partido o coalición.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 El Derecho de Voto
 
@@ -4017,7 +4019,7 @@ VIII. Los que expresamente les confiera el Consejo Distrital, particularmente lo
 
 3. El personal auxiliar del Instituto en su caso, dejara constancia firmada de su actuación a través de actas diseñadas para tal efecto
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 4. Son requisitos para ser instructor-asistente, los siguientes:
 
@@ -4095,7 +4097,7 @@ Cómputos Distritales
 
 ARTÍCULO 221
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 1. A las nueve horas del miércoles siguiente al domingo de la elección, los consejos distritales celebrarán sesión que tendrá el carácter de sucesiva e ininterrumpida hasta su conclusión, a la que podrán ser convocados los consejeros suplentes, con el objeto de efectuar los cómputos distritales, que seguirán el orden siguiente:
 
@@ -4575,15 +4577,15 @@ ARTICULO 251
 
 4. Los partidos políticos y en su caso, las coaliciones en los términos del convenio suscrito por el Instituto con el Instituto Federal Electoral, tendrán acceso a los trabajos que realice el Registro Federal de Electores, para la depuración y actualización del padrón electoral.
 
-> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(ADICIONADO CON EL TÍTULO, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 # LIBRO SEXTO. Del Régimen Sancionador Electoral
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 ## TÍTULO ÚNICO. Disposiciones Generales
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 ### CAPÍTULO PRIMERO. De los Procedimientos Administrativos Sancionadores Electorales
 
@@ -4931,7 +4933,7 @@ VI. En su caso, el monto del beneficio, lucro, daño o perjuicio derivado del in
 
 7. En el caso de los partidos políticos, el monto de las sanciones pecuniarias se les restará de sus ministraciones del financiamiento público ordinario conforme a lo que se determine en la resolución.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 ### CAPÍTULO SEGUNDO. De los Procedimientos Sancionadores
 
@@ -5059,7 +5061,7 @@ ARTÍCULO 270
 
 4. Para la resolución expedita de las quejas o denuncias y con el objeto de determinar en una sola resolución sobre dos o más de ellas, procederá decretar la acumulación por litispendencia, conexidad, o cuando exista vinculación de dos o más expedientes de procedimientos porque existan varias quejas o denuncias contra un mismo denunciado, respecto de una misma conducta y provengan de una misma causa.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 ### CAPÍTULO TERCERO. Procedimiento Sancionador Ordinario
 
@@ -5219,7 +5221,7 @@ V. Rechazado un proyecto de resolución se entiende que se aprueba un acuerdo de
 
 4. El Consejo General deberá resolver, en la sesión inmediata a su discusión por la Comisión.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 ### CAPÍTULO TERCERO (SIC). Procedimiento Sancionador Especial
 
@@ -5329,7 +5331,7 @@ ARTÍCULO 281
 
 1. Cuando la conducta infractora esté relacionada con propaganda política o electoral en radio y televisión durante la etapa de los procesos electorales en el estado, el Instituto remitirá la denuncia ante el Instituto Federal Electoral.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 ### CAPÍTULO CUARTO. Procedimiento Sancionador en Materia de Quejas sobre Financiamiento y Gasto de los Partidos Políticos
 
@@ -5487,7 +5489,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. TOMAS TORRES MERCADO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 7 DE OCTUBRE DE 2006.
 
@@ -5498,3 +5500,11 @@ P.O. 3 DE OCTUBRE DE 2009.
 Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación del (sic) Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo.- Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 6 DE OCTUBRE DE 2012.
+
+Primero: El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Segundo: Se abroga la Ley Electoral del Estado de Zacatecas, publicada en Suplemento al número 80 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al día 4 de octubre del 2003 y se derogan las reformas del cuatro de octubre de 2009 y las demás que contravengan el presente Decreto.
+
+Tercero: El Consejo General del Instituto Electoral del Estado de Zacatecas, en la elección del año dos mil trece, deberá implementar el sistema electrónico de recepción del voto como programa piloto, en los Municipios o Distritos que considere pertinentes.
