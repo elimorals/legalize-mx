@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-desarrollo-urbano-del-estado-de-san-luis-potosi-21373"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-07"
-last_updated: "2012-05-15"
+last_updated: "2012-10-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2012.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 7 de octubre de 2000.
 
@@ -1705,9 +1705,17 @@ b) En el aprovechamiento de los predios, se respetarán la naturaleza del terren
 
 c) La forestación de los espacios abiertos, públicos o privados, se llevarán acabo (sic) o complementará con especies propias de la localidad o nuevas de fácil adaptación, para así mejorar el medio ambiente y el aspecto de calles, plazas y zonas de edificios;
 
-d) Se contemplarán en los Planes de Centro de Población las áreas aptas para el funcionamiento de los sistemas de almacenamiento, tratamiento y disposición final de residuos sólidos. Igualmente las que fueren necesarias para los materiales y residuos peligrosos, sin perjuicio de la autorización que para la instalación y operación del respectivo sistema corresponda otorgar a la Secretaría del Medio Ambiente, Recursos Naturales y Pesca y de las normas técnicas que al efecto la misma establezca. Conforme lo dispone la Ley General de Equilibrio Ecológico y la Protección del Ambiente, y
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
 
-e) En general, la planeación del territorio perseguirá establecer un adecuado equilibrio e interrelación entre ambos aspectos del desarrollo, en términos de que por una parte, el crecimiento de la ciudad no se extienda a las tierras necesarias para la actividad económica y el mantenimiento del ambiente y que, por la otra, el aumento demográfico y satisfagan sus necesidades del suelo urbanizado, servicios y vivienda.
+d) Se contemplarán en los Planes de Centro de Población las áreas aptas para el funcionamiento de los sistemas de almacenamiento, tratamiento y disposición final de residuos sólidos. Igualmente las que fueren necesarias para los materiales y residuos peligrosos, sin perjuicio de la autorización que para la instalación y operación del respectivo sistema corresponda otorgar a la Secretaría del Medio Ambiente, Recursos Naturales y Pesca y de las normas técnicas que al efecto la misma establezca. Conforme lo dispone la Ley General de Equilibrio Ecológico y la Protección del Ambiente.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
+
+e) En general, la planeación del territorio perseguirá establecer un adecuado equilibrio e interrelación entre ambos aspectos del desarrollo, en términos de que por una parte, el crecimiento de la ciudad no se extienda a las tierras necesarias para la actividad económica y el mantenimiento del ambiente y que, por la otra, el aumento demográfico y satisfagan sus necesidades del suelo urbanizado, servicios y vivienda, y
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2012)</small>
+
+f) Se promoverá y procurará la movilidad sustentable, mediante la construcción, remodelación y rehabilitación de vialidades en áreas urbanas, adecuándolas para tal fin; contemplando zonas y áreas de circulación peatonal, así como establecer estrategias y medidas que favorezcan la accesibilidad de desplazamiento en las ciudades, distintas al uso del vehículo automotor, instalando la señalética en los lugares correspondientes.
 
 Con el mismo propósito se procurará proveer la recuperación de las áreas no urbanizables de los centros de población ocupadas por asentamientos espontáneos o no autorizados, mediante programas de traslados o reubicación de sus habitantes a suelos aptos, así como de regeneración de las áreas naturales recuperadas.
 
@@ -2061,9 +2069,17 @@ VIII. Los anchos de las vías proyectadas como prolongaciones de una existente;
 
 IX. Las normas para la instalación de las señales de tránsito, lámparas, casetas y demás elementos integrantes del mobiliario urbano;
 
-X. Las previsiones para que la infraestructura de las vialidades, cuenten con el equipamiento necesario para las personas con discapacidad, y
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2012)</small>
 
-XI. Los sitios para la instalación de las redes de instalaciones subterráneas de los servicios públicos de teléfonos, energía eléctrica, alumbrado, semáforos, gas natural y cualesquiera otros.
+X. Las previsiones para que la infraestructura de las vialidades, cuenten con el equipamiento necesario para las personas con discapacidad;
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2012)</small>
+
+XI. Los sitios para la instalación de las redes de instalaciones subterráneas de los servicios públicos de teléfonos, energía eléctrica, alumbrado, semáforos, gas natural y cualesquiera otros, y
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2012)</small>
+
+XII. Las previsiones necesarias para la movilidad sustentable, debiendo considerar en las mediciones, diseño y ejecución en la construcción, remodelación y rehabilitación de vialidades en áreas urbanas, las zonas y áreas de circulación peatonal, y accesibilidad para el desplazamiento de vehículos distintos al automotor, instalando la señalética en los lugares correspondientes.
 
 ## TITULO DECIMO SEGUNDO. DE LAS LICENCIAS DE USO DEL SUELO Y CONSTRUCCION
 
@@ -3077,7 +3093,7 @@ VI. Comprobante de pago del impuesto predial, y
 
 > <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
 
-VII. Autorización de impacto ambiental, cuando se encuentren en los supuestos establecidos en los artículos 118, 119 y 123 de la Ley Ambiental del Estado de San Luis Potosí.
+VII. Autorización de impacto ambiental, cuando se encuentren en los supuestos establecidos en los artículo 118, 119 y 123 de la Ley Ambiental del Estado de San Luis Potosí.
 
 > <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
 
@@ -3898,3 +3914,9 @@ P.O. 15 DE MAYO DE 2012.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se· opongan al presente Decreto.
+
+P.O. 6 DE OCTUBRE DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
