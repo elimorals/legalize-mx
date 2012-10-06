@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-consulta-indigena-para-el-estado-y-municipios-de-san-756
 country: "mx"
 rank: "ley"
 publication_date: "2010-07-08"
-last_updated: "2010-07-08"
+last_updated: "2012-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE CONSULTA INDÍGENA PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2012.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 8 de julio de 2010.
 
@@ -139,7 +139,9 @@ II. Los planes municipales de desarrollo;
 
 III. Los planes de Desarrollo Urbano, y de centro estratégico de población, cuando afecten el territorio correspondiente a las comunidades indígenas;
 
-IV. Las iniciativas de ley o reformas de ley en materia indígena, con excepción de las relativas a la materia fiscal y presupuestaria;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2012)</small>
+
+IV. Las iniciativas de Ley o de reforma de Ley en materia indígena, con excepción de las relativas a la materia fiscal y presupuestaria, así como las que se refieran a adecuaciones de normas ya previstas, o cuando sean notoriamente improcedentes;
 
 V. Los planes y programas de desarrollo estatales y municipales, relacionados a pueblos y comunidades indígenas;
 
@@ -384,3 +386,11 @@ El Secretario General de Gobierno
 Lic. José Guadalupe Durán Santillán
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 6 DE OCTUBRE DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
