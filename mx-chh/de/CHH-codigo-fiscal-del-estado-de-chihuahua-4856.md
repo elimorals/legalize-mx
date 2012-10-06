@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "2012-03-31"
+last_updated: "2012-10-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2012.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -3571,9 +3571,9 @@ B).- El 50% (cincuenta por ciento) restante, de acuerdo a los factores de increm
 
 316.- Como resultado de los procedimientos de distribución de participaciones, a que se refiere el Artículo anterior, anualmente fijará el Congreso del Estado, en la Ley de Ingresos para los Municipios, los porcentajes de participación sobre el producto total que les corresponda.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
 
-317.- El importe de las participaciones a que se contrae la fracción II del artículo 315, se destinará en un ciento por ciento a programas de obra pública. En condiciones excepcionales plenamente justificadas ante la Comisión de Gasto y Financiamiento, podrán destinarse a otros fines.
+317.- El importe de las participaciones a que se contrae la fracción II del artículo 315, se destinará en un ciento por ciento a programas de obra pública. En condiciones excepcionales plenamente justificadas ante la Secretaría de Hacienda, podrá destinarse a otros fines.
 
 # LIBRO SEGUNDO. PROCEDIMIENTOS FISCALES
 
@@ -4790,3 +4790,21 @@ La Junta Central, así como las juntas municipales y rurales, no se verán afect
 ###### ARTÍCULO CUARTO.
 
 El Ejecutivo del Estado dispone de hasta 180 días contados a partir de la entrada en vigor de la presente Ley, para expedir el Reglamento correspondiente.
+
+P.O. 6 DE OCTUBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El trámite de los asuntos en la materia, solicitado ante la Comisión Estatal de Gasto Financiamiento, serán continuados por la Secretaría de Hacienda, a través de la Dirección General de Egresos.
+
+###### ARTÍCULO TERCERO.
+
+Las funciones, facultades, derechos y obligaciones establecidos en cualquier ordenamiento legal, así como los acuerdos celebrados con dependencias o entidades del Gobierno del Estado, establecidos a cargo de la Comisión Estatal de Gasto Financiamiento, serán asumidos por la Secretaría de Hacienda.
+
+###### ARTÍCULO CUARTO.
+
+Cuando en cualquier otro instrumento jurídico se haga referencia a la Comisión Estatal de Gasto Financiamiento, se entenderá a la Secretaría de Hacienda.
