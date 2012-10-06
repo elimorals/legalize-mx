@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-atencion-a-la-victima-del-delito-del-estado-libre-y-1618
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-11"
-last_updated: "2012-04-21"
+last_updated: "2012-10-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY DE ATENCIÓN A LA VÍCTIMA DEL DELITO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE DERECHOS Y ATENCIÓN DE LA VÍCTIMA DEL DELITO PARA EL ESTADO DE SAN LUIS POTOSÍ, PUBLICADA EN EL P.O. DE FECHA 6 DE OCTUBRE DE 2012, EL PRESENTE ORDENAMIENTO SERÁ ABROGADO, A PARTIR DEL 1 DE MARZO DE 2014.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2012.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de abril de 2000.
 
@@ -374,3 +376,9 @@ P.O. 21 DE ABRIL DE 2012.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 6 DE OCTUBRE DE 2012.
+
+PRIMERO. Este decreto entrará en vigor el uno de marzo del año dos mil catorce, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Al entrar en vigor el presente Decreto, se abroga la Ley de Atención a la Víctima del Delito del Estado Libre y Soberano de San Luis Potosí, publicada en el Periódico Oficial del Estado en el Decreto 467, del once de abril del dos mil; así como las disposiciones que se opongan al presente ordenamiento.
