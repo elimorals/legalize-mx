@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interno-del-instituto-de-formacion-para-el-74803"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-04-21"
-last_updated: "2010-04-21"
+last_updated: "2012-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74803&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAB"
 ---
 # REGLAMENTO INTERNO DEL INSTITUTO DE FORMACION PARA EL TRABAJO DEL ESTADO DE TABASCO
 
-REGLAMENTO INTERNO DEL INSTITUTO DE FORMACION PARA EL TRABAJO DEL ESTADO DE TABASCO
+REGLAMENTO INTERNO DEL INSTITUTO DE FORMACIÓN PARA EL TRABAJO DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2012.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 21 de abril de 2010.
 
@@ -179,7 +179,13 @@ XX. Establecer, operar y supervisar los sistemas de control y evaluación necesa
 
 XXI. Difundir entre las Unidades de Capacitación las normas de control Escolar, supervisando su correcta aplicación y la utilización de los documentos de certificación;
 
-XXII. Asumir aquellas funciones que se requieran dentro del ámbito de su competencia y/o aquellas que le confieran expresamente las leyes o disposiciones reglamentarias aplicables.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2012)</small>
+
+XXII. Otorgar y revocar poderes generales y especiales, para pleitos y cobranzas y de administración; y
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2012)</small>
+
+XXIII. Asumir aquellas funciones que se requieran dentro del ámbito de su competencia y/o aquellas que le confieran expresamente las leyes o disposiciones reglamentarias aplicables.
 
 ### CAPÍTULO III. DE LAS ÁREAS ADMINISTRATIVAS
 
@@ -548,3 +554,9 @@ DADO EN LA SALA DE JUNTAS DE LA SECRETARÍA DE EDUCACIÓN, EN LA CIUDAD DE VILLA
 PROFRA. ROSA BEATRIZ LUQUE GREEN
 
 SECRETARIA DE EDUCACIÓN DEL ESTADO DE TABASCO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 6 DE OCTUBRE DE 2012.
+
+ÚNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
