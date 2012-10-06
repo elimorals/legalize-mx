@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-municipio-22084"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-09-14"
-last_updated: "2012-02-29"
+last_updated: "2012-10-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22084&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DEL MUNICIPIO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2012.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el viernes 14 de septiembre de 2001.
 
@@ -333,11 +333,15 @@ El Ayuntamiento es el órgano de gobierno del Municipio, a través del cual el p
 
 El Ayuntamiento se integrará con un Presidente, un Síndico y el número de Regidores que le corresponda según su población. Por cada integrante del Ayuntamiento con el carácter de propietario, se elegirá un suplente.
 
-Cuando el número de habitantes de un Municipio sea hasta de quince mil, serán electos seis Regidores por el principio de mayoría; si exceden esta suma pero su número es inferior a treinta mil, serán electos ocho Regidores; si es mayor de treinta mil, pero no pasa de cincuenta mil, se integrará con diez, y si la población es superior a esta suma, serán electos doce Regidores.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
+
+Cuando el número de habitantes de un Municipio sea hasta de diez mil, serán electos cuatro Regidores por el principio de mayoría; si exceden esta suma pero su número es inferior a treinta mil, serán electos seis Regidores; si es mayor de treinta mil, pero no pasa de sesenta mil, se integrará con siete, y si la población es superior a esta suma, serán electos ocho Regidores.
 
 La correlación entre el número de Regidores de mayoría y de los de representación proporcional, será la siguiente:
 
-Si los Ayuntamientos se componen de seis Regidores electos por mayoría, aumentará hasta cuatro el número de Regidores de representación proporcional. Si el Ayuntamiento se compone de ocho Regidores de mayoría, aumentará hasta con cinco el número de Regidores de representación proporcional. El Ayuntamiento que se integre con diez Regidores de elección mayoritaria, aumentará hasta siete el número de Regidores de representación proporcional. Si el Ayuntamiento se integra con doce Regidores de mayoría, aumentará hasta ocho el número de Regidores de representación proporcional. En todos los casos se elegirá igual número de suplentes. Para estos efectos se tomará en cuenta el último Censo General de Población.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
+
+Si los ayuntamientos se componen de cuatro regidores electos por mayoría, aumentará hasta tres el número de regidores de representación proporcional. Si el ayuntamiento se compone de seis regidores de mayoría, aumentará hasta con cuatro el número de regidores de representación proporcional. El ayuntamiento que se integre con siete regidores de elección mayoritaria, aumentará hasta cinco el número de regidores de representación proporcional. Si el ayuntamiento se integra con ocho regidores de mayoría, aumentará hasta seis el número de regidores de representación proporcional.
 
 ###### Artículo 30.
 
@@ -633,7 +637,7 @@ XVII. Del orden y la seguridad pública; y
 
 > <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2012)</small>
 
-XVIlI. De ecología y medio ambiente;
+XVIII. De ecología y medio ambiente;
 
 > <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2012)</small>
 
@@ -2379,7 +2383,7 @@ DIPUTADO SECRETARIO DIPUTADO SECRETARIO
 
 LIC. CATARINO MARTINEZ DIAZ PABLO RAMIREZ FIGUEROA
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 10 DE JULIO 2002.
 
@@ -2408,3 +2412,9 @@ Artículo segundo.- Dentro de los noventa días siguientes a la entrada en vigor
 Artículo tercero.- Dentro de los noventa días siguientes a la entrada en vigencia de este instrumento legal, los Ayuntamientos adecuarán su Bando y reglamentos a lo previsto en el presente Decreto.
 
 Artículo cuarto.- Se derogan las disposiciones que contravengan este Decreto.
+
+P.O. 6 DE OCTUBRE DE 2012.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones que contravengan el presente Instrumento Legislativo.
