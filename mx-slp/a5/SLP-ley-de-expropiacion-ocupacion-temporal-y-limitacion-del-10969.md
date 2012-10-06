@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-expropiacion-ocupacion-temporal-y-limitacion-del-10969"
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-21"
-last_updated: "2011-12-24"
+last_updated: "2012-10-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10969&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY DE EXPROPIACIÓN, OCUPACIÓN TEMPORAL Y LIMITACIÓN DEL DOMINIO POR CAUSA DE UTILIDAD PÚBLICA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE EXPROPIACIÓN, OCUPACIÓN TEMPORAL Y LIMITACIÓN DEL DOMINIO POR CAUSA DE UTILIDAD PÚBLICA PARA EL ESTADO DE SAN LUIS POTOSÍ, PUBLICADA EN EL P.O. DE 6 DE OCTUBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el miércoles 21 de agosto de 1996.
 
@@ -328,3 +330,17 @@ P.O. 24 DE DICIEMBRE DE 2011.
 PRIMERO. Este Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones, ordenamientos legales y administrativos que se opongan al presente Decreto.
+
+P.O. 6 DE OCTUBRE DE 2012.
+
+PRIMERO. La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Con la entrada en vigor de la presente Ley, se abroga la Ley de Expropiación, Ocupación Temporal y Limitación del Dominio por Causa de Utilidad Pública para el Estado de San Luis Potosí, aprobada por el Congreso del Estado de San Luis Potosí mediante decreto legislativo 646, publicado en el Periódico Oficial del Estado el 21 de agosto de 1996.
+
+TERCERO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+CUARTO. Los procedimientos y expedientes de expropiación que se encuentren en curso a la entrada en vigor del presente Decreto continuarán su trámite hasta su conclusión conforme a las disposiciones vigentes al momento de su inicio.
+
+No obstante lo anterior, las dependencias y entidades que dentro de los procedimientos en curso no hayan otorgado la garantía de audiencia a los posibles afectados, deberán hacerlo en lo conducente en términos del presente Decreto.
+
+QUINTO. El Ejecutivo del Estado tendrá ciento veinte días hábiles para emitir el Reglamento de esta Ley, a partir de su entrada en vigencia.
