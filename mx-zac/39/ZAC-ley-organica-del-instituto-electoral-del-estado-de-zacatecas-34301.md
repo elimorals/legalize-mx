@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-instituto-electoral-del-estado-de-zacatecas-34
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-10-04"
-last_updated: "2009-10-03"
+last_updated: "2012-10-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34301&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ZAC"
 ---
 # LEY ORGANICA DEL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS
 
-LEY ORGANICA DEL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS
+LEY ORGÁNICA DEL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2012.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 4 de octubre de 2003.
 
@@ -333,9 +333,9 @@ ARTÍCULO 13
 
 5. No ejercerán profesión por cuyos servicios se cobren honorarios, compensaciones o salario alguno.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
 
-6. Los consejeros electorales y el Consejero Presidente del Consejo General podrán recibir percepciones derivadas de la docencia, de sus regalías de derechos de autor o publicaciones, siempre que no afecte la independencia, imparcialidad y objetividad que debe regir el ejercicio de su función.
+6. Los consejeros electorales y el Consejero Presidente del Consejo General podrán recibir percepciones derivadas de la docencia, dedicando un máximo de 10 horas a la semana, así mismo de sus regalías de derechos de autor o publicaciones, siempre que no afecte la independencia, imparcialidad y objetividad que debe regir el ejercicio de su función.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
@@ -591,7 +591,9 @@ V. Cuidar y supervisar la debida integración y funcionamiento de los órganos e
 
 VI. Resolver el otorgamiento del registro a los partidos políticos estatales o sobre la acreditación de los partidos políticos nacionales, así como sobre la cancelación del mismo, en los términos de ley. Emitir la declaratoria que corresponda y ordenar su publicación en el Periódico Oficial, Órgano del Gobierno del Estado;
 
-VII. Vigilar que las actividades de los partidos políticos y en su caso coaliciones, se desarrollen de conformidad con la legislación aplicable y que cumplan con las obligaciones a que están sujetos;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2012)</small>
+
+VII. Vigilar que las actividades de los partidos políticos y en su caso candidaturas independientes, se desarrollen de conformidad con la legislación aplicable y que cumplan con las obligaciones a que están sujetos;
 
 VIII. Vigilar que las prerrogativas a que tienen derecho los partidos políticos se proporcionen en los términos señalados en la Ley Electoral;
 
@@ -601,205 +603,213 @@ X. Concluido un proceso electoral ordinario, revisar los elementos o factores co
 
 XI. Determinar el financiamiento público que corresponde a cada partido político, así como la calendarización de las ministraciones correspondientes;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2012)</small>
 
-XII. Determinar el tope máximo de gastos de precampaña y campaña que pueden erogar los partidos políticos o coaliciones en las elecciones constitucionales de los miembros de los Poderes Legislativo y Ejecutivo de la Entidad, así como de los integrantes de los ayuntamientos;
+XII. Determinar el tope máximo de gastos de precampaña y campaña que pueden erogar los partidos políticos o candidatos independientes, según corresponda, en las elecciones constitucionales de los miembros de los Poderes Legislativo y Ejecutivo de la Entidad, así como de los integrantes de los ayuntamientos;
 
 XIII. Insacular para los efectos conducentes, con apoyo de los consejos electorales a los ciudadanos inscritos en la lista nominal de electores;
 
-XIV. Registrar los nombramientos y designaciones de los representantes de partidos políticos o coaliciones que éstos acreditarán ante los consejos distritales, municipales y mesas directivas de casilla, cubriendo los requisitos y mediante los procedimientos establecidos en ley;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2012)</small>
+
+XIV. Registrar los nombramientos y designaciones de los representantes de partidos políticos y de candidatos independientes que acreditarán ante los consejos distritales, municipales y mesas directivas de casilla, cubriendo los requisitos y mediante los procedimientos establecidos en ley;
 
 XV. Publicar el número, tipo y ubicación de las casillas que se instalarán en cada sección electoral, así como la integración de sus mesas directivas, una vez que se reciba la información de los consejos distritales;
 
-XVI. Registrar la plataforma electoral que para cada proceso deben presentar los partidos políticos o en su caso las coaliciones en los términos de la Ley Electoral;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2012)</small>
+
+XVI. Registrar la plataforma electoral que para cada proceso deben presentar los partidos políticos, las coaliciones o candidaturas independientes en los términos de la Ley Electoral;
 
 XVII. Requerir a los partidos políticos nacionales que pretendan participar en los procesos electorales estatales para la elección de Gobernador del Estado, diputados y ayuntamientos por ambos principios, exhiban la constancia de registro vigente, expedida por el Instituto Federal Electoral, así como la presentación de su Declaración de Principios, Programa de Acción y Estatutos de cada partido, emitiendo la correspondiente resolución;
 
 XVIII. Registrar las candidaturas a Gobernador del Estado, a diputados por ambos principios, así como de las planillas para la integración de ayuntamientos por el principio de mayoría relativa y de regidores por el principio de representación proporcional, que presenten los partidos políticos o coaliciones, en términos de la Ley Electoral;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2012)</small>
 
-XIX. Efectuar preliminarmente el cómputo estatal de la elección de Gobernador del Estado, e integrar el expediente que deba remitirse al Tribunal de Justicia Electoral para la calificación final de la elección;
-
-XX. Efectuar los cómputos estatales de las elecciones de diputados y regidores por el principio de representación proporcional. Declarar su validez, asignar diputados y regidores por este principio, así como expedir las constancias de asignación correspondientes;
+XIX. Resolver sobre la procedencia de registro de candidaturas independientes;
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-XXI. Remitir al Tribunal de Justicia Electoral los recursos que presenten los partidos políticos o coaliciones, así como acompañar la documentación relacionada con el acto o resolución que se impugne, en los términos señalados en la Ley del Sistema de Medios de Impugnación Electoral del Estado;
+XX. Efectuar preliminarmente el cómputo estatal de la elección de Gobernador del Estado, e integrar el expediente que deba remitirse al Tribunal de Justicia Electoral para la calificación final de la elección;
 
-XXII. Registrar las constancias de mayoría de votos que expidan los consejos distritales y municipales con relación a las elecciones de diputados y ayuntamientos por el principio de mayoría relativa;
-
-XXIII. Informar a la Legislatura del Estado, sobre el otorgamiento de constancias de asignación de diputados por el principio de representación proporcional, así como de las constancias de mayoría que hayan expedido los consejos distritales;
-
-XXIV. Investigar por los medios a su alcance, hechos que afecten de manera relevante los derechos de los partidos políticos o incidan en los procesos electorales;
-
-XXV. (DEROGADA, P.O. 3 DE OCTUBRE DE 2009)
-
-XXVI. Aprobar anualmente y en su caso, modificar el proyecto de presupuesto de egresos del Instituto;
-
-XXVII. Emitido el decreto de presupuesto de egresos del Estado, aprobar la propuesta del calendario de ministraciones que se hará llegar a la Secretaría de Finanzas en el plazo previsto por la Ley de Administración y Finanzas Públicas del Estado;
-
-XXVIII. Ordenar a la Junta Ejecutiva del Instituto la realización de acciones, estudios, proyectos e investigaciones así como dictar los acuerdos que considere necesarios para el eficaz cumplimiento de los fines del Instituto;
-
-XXIX. Aprobar y sancionar en su caso los convenios de colaboración, así como de adquisición de productos y servicios necesarios, que para el mejor desempeño de las actividades del Instituto celebre su presidente;
-
-XXX. Revisar y aprobar anualmente las políticas, los programas generales y procedimientos administrativos del Instituto a propuesta de la Junta Ejecutiva;
-
-XXXI. Crear comités técnicos especiales para que realicen actividades o programas específicos, en que se requiera del auxilio o asesoría técnico-científica de especialistas en la materia en que así lo estime conveniente;
-
-XXXII. Con base en la disponibilidad presupuestal, y a propuesta del Presidente aprobar la creación, modificación o supresión de unidades técnicas y administrativas;
-
-XXXIII. Expedir el Acuerdo General en que se establezcan las bases, principios y estudios en que debe sustentarse el anteproyecto para dividir el territorio del Estado en 18 distritos uninominales;
-
-XXXIV. Remitir a la Legislatura del Estado, el proyecto de distritación para su revisión y aprobación, en su caso;
-
-XXXV. Designar por el voto de las dos terceras partes de sus miembros, al Secretario Ejecutivo del Instituto con base en la terna que proponga el Consejero Presidente, en los términos de la Constitución y la presente ley;
-
-XXXVI. Designar a propuesta del Consejero Presidente, al integrante de la Junta Ejecutiva que deba sustituir al Secretario Ejecutivo durante las ausencias temporales de éste;
+XXI. Efectuar los cómputos estatales de las elecciones de diputados y regidores por el principio de representación proporcional. Declarar su validez, asignar diputados y regidores por este principio, así como expedir las constancias de asignación correspondientes;
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-XXXVII. Designar a los Directores Ejecutivos del Instituto y títulares de los órganos técnicos con base en las ternas que proponga el Consejero Presidente, en los respectivos términos de la presente ley y el estatuto;
+XXII. Remitir al Tribunal de Justicia Electoral los recursos que presenten los partidos políticos o coaliciones, así como acompañar la documentación relacionada con el acto o resolución que se impugne, en los términos señalados en la Ley del Sistema de Medios de Impugnación Electoral del Estado;
+
+XXIII. Registrar las constancias de mayoría de votos que expidan los consejos distritales y municipales con relación a las elecciones de diputados y ayuntamientos por el principio de mayoría relativa;
+
+XXIV. Informar a la Legislatura del Estado, sobre el otorgamiento de constancias de asignación de diputados por el principio de representación proporcional, así como de las constancias de mayoría que hayan expedido los consejos distritales;
+
+XXV. Investigar por los medios a su alcance, hechos que afecten de manera relevante los derechos de los partidos políticos o incidan en los procesos electorales;
+
+XXVI. (DEROGADA, P.O. 3 DE OCTUBRE DE 2009)
+
+XXVII. Aprobar anualmente y en su caso, modificar el proyecto de presupuesto de egresos del Instituto;
+
+XXVIII. Emitido el decreto de presupuesto de egresos del Estado, aprobar la propuesta del calendario de ministraciones que se hará llegar a la Secretaría de Finanzas en el plazo previsto por la Ley de Administración y Finanzas Públicas del Estado;
+
+XXIX. Ordenar a la Junta Ejecutiva del Instituto la realización de acciones, estudios, proyectos e investigaciones así como dictar los acuerdos que considere necesarios para el eficaz cumplimiento de los fines del Instituto;
+
+XXX. Aprobar y sancionar en su caso los convenios de colaboración, así como de adquisición de productos y servicios necesarios, que para el mejor desempeño de las actividades del Instituto celebre su presidente;
+
+XXXI. Revisar y aprobar anualmente las políticas, los programas generales y procedimientos administrativos del Instituto a propuesta de la Junta Ejecutiva;
+
+XXXII. Crear comités técnicos especiales para que realicen actividades o programas específicos, en que se requiera del auxilio o asesoría técnico-científica de especialistas en la materia en que así lo estime conveniente;
+
+XXXIII. Con base en la disponibilidad presupuestal, y a propuesta del Presidente aprobar la creación, modificación o supresión de unidades técnicas y administrativas;
+
+XXXIV. Expedir el Acuerdo General en que se establezcan las bases, principios y estudios en que debe sustentarse el anteproyecto para dividir el territorio del Estado en 18 distritos uninominales;
+
+XXXV. Remitir a la Legislatura del Estado, el proyecto de distritación para su revisión y aprobación, en su caso;
+
+XXXVI. Designar por el voto de las dos terceras partes de sus miembros, al Secretario Ejecutivo del Instituto con base en la terna que proponga el Consejero Presidente, en los términos de la Constitución y la presente ley;
+
+XXXVII. Designar a propuesta del Consejero Presidente, al integrante de la Junta Ejecutiva que deba sustituir al Secretario Ejecutivo durante las ausencias temporales de éste;
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-XXXVIII. Autorizar la contratación del personal al servicio del Instituto Electoral, conforme al presupuesto;
-
-XXXIX. Implantar y fomentar permanentemente la educación democrática, y la cultura de equidad entre los géneros, así como cursos de capacitación dirigidos a servidores públicos del Instituto, partidos políticos y en general, a mujeres, ciudadanos, jóvenes, niñas y niños del Estado;
-
-XL. Emitir, a más tardar el 30 de enero del año en que se celebren las elecciones el acuerdo que contenga el listado que identifique los diversos productos y servicios y demás instrumentos que en materia de propaganda electoral, sean susceptibles de ser utilizados por los partidos políticos y coaliciones en las campañas electorales;
-
-XLI. Establecer las bases y emitir los lineamientos a que se sujetarán los debates públicos que deban efectuar los candidatos a puestos de elección popular;
+XXXVIII. Designar a los Directores Ejecutivos del Instituto y títulares de los órganos técnicos con base en las ternas que proponga el Consejero Presidente, en los respectivos términos de la presente ley y el estatuto;
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-XLII. Garantizar que el ejercicio de la prerrogativa correspondiente al acceso de los partidos políticos a radio y televisión, se realice de conformidad a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, el Código Federal de Instituciones y Procedimientos Electorales, Ley Electoral del Estado y demás disposiciones aplicables. Asimismo contratar, a petición de los partidos políticos, y en su caso de las coaliciones, los espacios en los medios de comunicación social impresos para difundir mensajes orientados a la obtención del voto durante las precampañas y campañas electorales; Dicha (sic) contratación se efectuará con cargo al financiamiento público correspondiente, sin rebasar, en ningún caso, el equivalente al 50% del financiamiento público para gastos de campaña de cada partido;
+XXXIX. Autorizar la contratación del personal al servicio del Instituto Electoral, conforme al presupuesto;
 
-XLIII. Expedir las convocatorias para los procesos electorales y de referéndum y plebiscito que deban celebrarse, así como cualquier otra que deba expedirse para la realización de sus fines;
+XL. Implantar y fomentar permanentemente la educación democrática, y la cultura de equidad entre los géneros, así como cursos de capacitación dirigidos a servidores públicos del Instituto, partidos políticos y en general, a mujeres, ciudadanos, jóvenes, niñas y niños del Estado;
 
-XLIV. Expedir el manual de organización y el catálogo de cargos y puestos del Instituto;
+XLI. Emitir, a más tardar el 30 de enero del año en que se celebren las elecciones el acuerdo que contenga el listado que identifique los diversos productos y servicios y demás instrumentos que en materia de propaganda electoral, sean susceptibles de ser utilizados por los partidos políticos y coaliciones en las campañas electorales;
 
-XLV. Resolver acerca de las solicitudes de registro de coaliciones y de candidaturas comunes;
-
-XLVI. Resolver solicitudes de partidos políticos estatales que pretendan fusionarse. En su caso emitir la constancia de registro del partido fusionado;
-
-XLVII. Conocer de las solicitudes de registro de ciudadanos y entidades que pretendan realizar encuestas o sondeos de opinión;
-
-XLVIII. Determinar los criterios generales de carácter científico, a que deberán sujetarse quienes realicen encuestas;
-
-XLIX. Solicitar a instituciones de educación superior, dictámenes técnico-científicos relativos a los procesos metodológicos utilizados por las personas y entidades que realicen encuestas;
+XLII. Establecer las bases y emitir los lineamientos a que se sujetarán los debates públicos que deban efectuar los candidatos a puestos de elección popular;
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-L. Aprobar los informes financieros mensuales, semestral y anual del Instituto e informar a la Legislatura del Estado de su manejo financiero y presupuestal en los términos de la Ley de Fiscalización Superior y esta Ley;
+XLIII. Garantizar que el ejercicio de la prerrogativa correspondiente al acceso de los partidos políticos a radio y televisión, se realice de conformidad a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, el Código Federal de Instituciones y Procedimientos Electorales, Ley Electoral del Estado y demás disposiciones aplicables. Asimismo contratar, a petición de los partidos políticos, y en su caso de las coaliciones, los espacios en los medios de comunicación social impresos para difundir mensajes orientados a la obtención del voto durante las precampañas y campañas electorales; Dicha (sic) contratación se efectuará con cargo al financiamiento público correspondiente, sin rebasar, en ningún caso, el equivalente al 50% del financiamiento público para gastos de campaña de cada partido;
 
-LI. Resolver sobre la procedencia de la acreditación de observadores electorales;
+XLIV. Expedir las convocatorias para los procesos electorales y de referéndum y plebiscito que deban celebrarse, así como cualquier otra que deba expedirse para la realización de sus fines;
+
+XLV. Expedir el manual de organización y el catálogo de cargos y puestos del Instituto;
+
+XLVI. Resolver acerca de las solicitudes de registro de coaliciones y de candidaturas comunes;
+
+XLVII. Resolver solicitudes de partidos políticos estatales que pretendan fusionarse. En su caso emitir la constancia de registro del partido fusionado;
+
+XLVIII. Conocer de las solicitudes de registro de ciudadanos y entidades que pretendan realizar encuestas o sondeos de opinión;
+
+XLIX. Determinar los criterios generales de carácter científico, a que deberán sujetarse quienes realicen encuestas;
+
+L. Solicitar a instituciones de educación superior, dictámenes técnico-científicos relativos a los procesos metodológicos utilizados por las personas y entidades que realicen encuestas;
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-LII. Designar a los integrantes de las comisiones permanentes y transitorias que se conformen con base en esta ley;
+LI. Aprobar los informes financieros mensuales, semestral y anual del Instituto e informar a la Legislatura del Estado de su manejo financiero y presupuestal en los términos de la Ley de Fiscalización Superior y esta Ley;
 
-LIII. Sustituir inmediatamente a los integrantes de los consejos distritales y municipales electorales, cuando por cualquier causa no se instalen o dejen de ejercer sus atribuciones, al transcurso del proceso electoral;
+LII. Resolver sobre la procedencia de la acreditación de observadores electorales;
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-LIV. Aprobar el modelo y los formatos de la documentación y materiales electorales, así como los sistemas relativos del ejercicio del voto a través de medios electrónicos para el ejercicio del sufragio popular, preservando su calidad de universal, libre, secreto y directo que sean utilizados en los procesos electorales y en consultas ciudadanas;
+LIII. Designar a los integrantes de las comisiones permanentes y transitorias que se conformen con base en esta ley;
 
-LV. Ordenar se publiquen en el Periódico Oficial, Órgano del Gobierno del Estado, los acuerdos, resoluciones y reglamentos que así determine el Consejo General;
+LIV. Sustituir inmediatamente a los integrantes de los consejos distritales y municipales electorales, cuando por cualquier causa no se instalen o dejen de ejercer sus atribuciones, al transcurso del proceso electoral;
 
-LVI. Analizar las solicitudes de referéndum y plebiscito; resolver sobre su procedencia y coordinar su organización;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-LVII. Conocer de las faltas e infracciones y, en su caso, imponer las sanciones que correspondan en los términos previstos en la presente ley;
+LV. Aprobar el modelo y los formatos de la documentación y materiales electorales, así como los sistemas relativos del ejercicio del voto a través de medios electrónicos para el ejercicio del sufragio popular, preservando su calidad de universal, libre, secreto y directo que sean utilizados en los procesos electorales y en consultas ciudadanas;
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+LVI. Ordenar se publiquen en el Periódico Oficial, Órgano del Gobierno del Estado, los acuerdos, resoluciones y reglamentos que así determine el Consejo General;
 
-LVIII. Autorizar con las dos terceras partes de sus integrantes, las bases del convenio con el Instituto Federal Electoral para que éste pueda coadyuvar en la organización de las elecciones locales. En todo caso, serán indelegables e irrenunciables las facultades del Consejo General para expedir la convocatoria, realizar el cómputo y la declaración de validez de las elecciones estatales y municipales, así como las respectivas asignaciones de diputados o regidores de representación proporcional. La coadyuvancia del Instituto Federal Electoral sólo procederá en cuestiones de logística y operación electoral, cuyo mando será determinado por el Consejo General;
+LVII. Analizar las solicitudes de referéndum y plebiscito; resolver sobre su procedencia y coordinar su organización;
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
-
-LIX. Garantizar la transparencia y el acceso a la información pública del Instituto;
+LVIII. Conocer de las faltas e infracciones y, en su caso, imponer las sanciones que correspondan en los términos previstos en la presente ley;
 
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-LX. Intervenir exclusivamente en los asuntos internos de los partidos políticos que señale la legislación electoral;
+LIX. Autorizar con las dos terceras partes de sus integrantes, las bases del convenio con el Instituto Federal Electoral para que éste pueda coadyuvar en la organización de las elecciones locales. En todo caso, serán indelegables e irrenunciables las facultades del Consejo General para expedir la convocatoria, realizar el cómputo y la declaración de validez de las elecciones estatales y municipales, así como las respectivas asignaciones de diputados o regidores de representación proporcional. La coadyuvancia del Instituto Federal Electoral sólo procederá en cuestiones de logística y operación electoral, cuyo mando será determinado por el Consejo General;
 
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-LXI. Controlar, vigilar y fiscalizar las finanzas de los partidos políticos y los gastos de las precampañas y campañas electorales, a través de la Comisión respectiva;
+LX. Garantizar la transparencia y el acceso a la información pública del Instituto;
 
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-LXII. Aprobar las bases de coordinación en materia de fiscalización de las finanzas de los partidos políticos con el Instituto Federal Electoral;
+LXI. Intervenir exclusivamente en los asuntos internos de los partidos políticos que señale la legislación electoral;
 
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-LXIII. Establecer la estructura administrativa de los órganos del Instituto y expedir los reglamentos interiores, acuerdos, circulares y lineamientos generales necesarios para el funcionamiento del Instituto y sus órganos;
+LXII. Controlar, vigilar y fiscalizar las finanzas de los partidos políticos y los gastos de las precampañas y campañas electorales, a través de la Comisión respectiva;
 
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-LXIV. La aprobación, en su caso, del modelo o sistema electrónico para la recepción del voto, cuando sea factible técnica y presupuestalmente y se garantice la vigencia de las disposiciones legales que amparan la libertad y secreto del voto ciudadano;
+LXIII. Aprobar las bases de coordinación en materia de fiscalización de las finanzas de los partidos políticos con el Instituto Federal Electoral;
 
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-LXV. Regular los mecanismos para que los partidos políticos puedan acceder a los medios de comunicación social, en los términos señalados por la Constitución Política de los Estados Unidos Mexicanos, el Código Federal de Instituciones y Procedimientos Electorales, la Constitución Local y la Ley Electoral;
+LXIV. Establecer la estructura administrativa de los órganos del Instituto y expedir los reglamentos interiores, acuerdos, circulares y lineamientos generales necesarios para el funcionamiento del Instituto y sus órganos;
 
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-LXVI. Aprobar el calendario integral de los procesos electorales o de participación ciudadana;
+LXV. La aprobación, en su caso, del modelo o sistema electrónico para la recepción del voto, cuando sea factible técnica y presupuestalmente y se garantice la vigencia de las disposiciones legales que amparan la libertad y secreto del voto ciudadano;
 
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-LXVII. Preparar, organizar y desarrollar los procesos electorales o de participación ciudadana, en los términos de esta ley y demás disposiciones aplicables;
+LXVI. Regular los mecanismos para que los partidos políticos puedan acceder a los medios de comunicación social, en los términos señalados por la Constitución Política de los Estados Unidos Mexicanos, el Código Federal de Instituciones y Procedimientos Electorales, la Constitución Local y la Ley Electoral;
 
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-LXVIII. Garantizar condiciones de equidad en la competencia electoral;
+LXVII. Aprobar el calendario integral de los procesos electorales o de participación ciudadana;
 
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-LXIX. Aprobar anualmente el tabulador de salarios de los servidores del Instituto;
+LXVIII. Preparar, organizar y desarrollar los procesos electorales o de participación ciudadana, en los términos de esta ley y demás disposiciones aplicables;
 
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-LXX. Monitorear el comportamiento de los medios de comunicación durante los procesos electorales;
+LXIX. Garantizar condiciones de equidad en la competencia electoral;
 
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-LXXI. Monitorear el comportamiento de los medios de comunicación durante las precampañas y campañas, respecto de los programas noticiosos, entrevistas, inserciones en prensa escrita y cualquier participación de los partidos políticos, precandidatos y candidatos;
+LXX. Aprobar anualmente el tabulador de salarios de los servidores del Instituto;
 
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-LXXII. Reglamentar los debates entre los candidatos a cargos de elección popular;
+LXXI. Monitorear el comportamiento de los medios de comunicación durante los procesos electorales;
 
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-LXXIII. Asumir las funciones de los Consejos Electorales, cuando por causa de fuerza mayor no puedan integrarse o instalarse o ejercer las mismas en las fechas que establece la ley, cuando sea determinante para que pueda efectuarse la jornada electoral, cómputo respectivo o cualquier otro acto;
+LXXII. Monitorear el comportamiento de los medios de comunicación durante las precampañas y campañas, respecto de los programas noticiosos, entrevistas, inserciones en prensa escrita y cualquier participación de los partidos políticos, precandidatos y candidatos;
 
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-LXXIV. Formular la declaratoria de inicio y clausura de los procesos electorales o de participación ciudadana;
+LXXIII. Reglamentar los debates entre los candidatos a cargos de elección popular;
 
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-LXXV. Aprobar a más tardar el día último de enero, la modificación y aplicación del presupuesto del Instituto para el ejercicio fiscal correspondiente;
+LXXIV. Asumir las funciones de los Consejos Electorales, cuando por causa de fuerza mayor no puedan integrarse o instalarse o ejercer las mismas en las fechas que establece la ley, cuando sea determinante para que pueda efectuarse la jornada electoral, cómputo respectivo o cualquier otro acto;
 
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-LXXVI. Remover libremente con el voto de las dos terceras partes de sus integrantes, al Secretario Ejecutivo y Titulares de las Direcciones Ejecutivas y órganos técnicos;
+LXXV. Formular la declaratoria de inicio y clausura de los procesos electorales o de participación ciudadana;
 
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-LXXVII. Revisar y en su caso modificar anualmente el manual de organización y el catálogo de cargos y puestos del Instituto;
+LXXVI. Aprobar a más tardar el día último de enero, la modificación y aplicación del presupuesto del Instituto para el ejercicio fiscal correspondiente;
 
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-LXXVIII. Hacer cumplir, en el ámbito de su competencia, las disposiciones legales relacionadas con la paridad entre los géneros en las postulaciones de candidaturas a cargos de elección popular hechas por los partidos políticos; así como impulsar permanentemente entre los servidores públicos del Instituto, la militancia de los partidos políticos y la ciudadanía en general, la cultura de la paridad entre los géneros a través de cursos de capacitación, investigaciones, talleres, foros y demás acciones dirigidas a tal fin;
+LXXVII. Remover libremente con el voto de las dos terceras partes de sus integrantes, al Secretario Ejecutivo y Titulares de las Direcciones Ejecutivas y órganos técnicos;
 
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-LXXIX. Aprobar los lineamientos que regirán el voto electrónico, así como las casillas en que se instalarán urnas electrónicas; y
+LXXVIII. Revisar y en su caso modificar anualmente el manual de organización y el catálogo de cargos y puestos del Instituto;
 
-LXXX. Las demás que le confiera la Constitución, la ley y demás legislación aplicable.
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+LXXIX. Hacer cumplir, en el ámbito de su competencia, las disposiciones legales relacionadas con la paridad entre los géneros en las postulaciones de candidaturas a cargos de elección popular hechas por los partidos políticos; así como impulsar permanentemente entre los servidores públicos del Instituto, la militancia de los partidos políticos y la ciudadanía en general, la cultura de la paridad entre los géneros a través de cursos de capacitación, investigaciones, talleres, foros y demás acciones dirigidas a tal fin;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+
+LXXX. Aprobar los lineamientos que regirán el voto electrónico, así como las casillas en que se instalarán urnas electrónicas; y
+
+LXXXI. Las demás que le confiera la Constitución, la ley y demás legislación aplicable.
 
 Presidente del Consejo General. Atribuciones
 
@@ -855,7 +865,9 @@ XX. Dirigir la Junta Ejecutiva e informar al Consejo General de los trabajos de 
 
 XXI. Recibir de los partidos políticos o coaliciones las solicitudes de registro de candidatos a Gobernador del Estado, de diputados, integrantes de ayuntamientos, y someterlas a la consideración del Consejo General;
 
-XXII. Recibir las solicitudes de registro relativas a coaliciones, candidaturas comunes y de fusión de partidos políticos;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2012)</small>
+
+XXII. Recibir las solicitudes de registro de candidaturas independientes y turnarlas a la Comisión de Asuntos Jurídicos para su análisis;
 
 XXIII. Proponer al Consejo General la terna de candidatos para la designación del Secretario Ejecutivo; así como las relativas a los titulares de las direcciones integrantes de la Junta Ejecutiva, conforme a lo establecido en el Estatuto;
 
@@ -869,9 +881,9 @@ XXV. Representar al Instituto con todas las facultades legales y necesarias inhe
 
 XXVI. Otorgar poderes de representación al Secretario Ejecutivo, Director o Coordinadores Jurídicos, según corresponda;
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2012)</small>
 
-XXVII. Celebrar convenios de coordinación con el Instituto Federal Electoral para la fiscalización de los recursos de los partidos políticos, con la aprobación del Consejo General;
+XXVII. Celebrar convenios de coordinación con el Instituto Federal Electoral para la fiscalización de los recursos de los partidos políticos y con las autoridades hacendarias, federal y estatal, para la revisión de los recursos de candidatos independientes, con la aprobación del Consejo General;
 
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
@@ -1601,7 +1613,9 @@ II. Atender ante las diversas instancias administrativas o jurisdiccionales, los
 
 III. Asesorar al Consejero Presidente en lo relativo a la representación legal de los intereses del Instituto, en controversias de carácter judicial;
 
-IV. (DEROGADA, P.O. 3 DE OCTUBRE DE 2009)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE OCTUBRE DE 2012)</small>
+
+IV. Coadyuvar con el Presidente del Consejo General en la recepción de solicitudes de registro de candidaturas e integrar los expedientes correspondientes;
 
 V. Dar asesoría y apoyo técnico al Secretario Ejecutivo, a la Junta Ejecutiva y a los consejos distritales y municipales electorales;
 
@@ -1615,11 +1629,19 @@ VIII. Elaborar y revisar los proyectos de convenios y contratos en que interveng
 
 IX. Apoyar a la Dirección de Organización Electoral y Partidos Políticos en el trámite de las solicitudes que formulen las organizaciones que pretendan constituirse como partidos políticos estatales, así como de la que formulen los partidos políticos nacionales para acreditar la vigencia de su registro;
 
-X. Actuar como secretario técnico de la Comisión de Asuntos Jurídicos;
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2012)</small>
 
-XI. Acordar con el Secretario Ejecutivo los asuntos de su competencia; y
+X. Analizar y dictaminar las solicitudes de procedencia de registro de candidaturas independientes y someterlas a la consideración del Consejo General;
 
-XII. Las demás que le confiera la ley y el reglamento.
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2012)</small>
+
+XI. Requerir de los partidos políticos o candidatos independientes la subsanación de errores u omisiones en el cumplimiento de los requisitos legales para el otorgamiento de registro de candidaturas;
+
+XII. Actuar como secretario técnico de la Comisión de Asuntos Jurídicos;
+
+XIII. Acordar con el Secretario Ejecutivo los asuntos de su competencia; y
+
+XIV. Las demás que le confiera la ley y el reglamento.
 
 Dirección Ejecutiva de Sistemas y Programas Informáticos. Atribuciones
 
@@ -1981,11 +2003,13 @@ VI. No desempeñar puesto de confianza con mando superior, en la administración
 
 VII. Saber leer y escribir; y
 
-VIII. No tener más de 70 años de edad al día de la elección.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+VIII. No tener más de 70 años de edad, cumplidos al día de la elección.
 
-4. Cuando un ciudadano designado para integrar alguna mesa directiva de casilla sea pariente por consanguinidad, tales como padres, hermanos e hijos, así como en el caso del cónyuge, de quien participare como candidato en la elección correspondiente, deberá informar tal circunstancia al presidente del Consejo Distrital electoral, para que sea sustituido de inmediato.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
+
+4. Cuando un ciudadano designado para integrar alguna Mesa Directiva de Casilla, sea pariente por consanguineidad en primer grado, como padres, hermanos e hijos, así como en el caso del cónyuge de quien participare como candidato propietario o suplente, en la elección correspondiente, deberá informar tal circunstancia al presidente del Consejo Distrital electoral, para que sea sustituido de inmediato.
 
 Funciones y Atribuciones
 
@@ -2398,3 +2422,9 @@ Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan al co
 Artículo Tercero.- El Consejo General deberá adecuar, y en su caso, expedir la reglamentación interna del Instituto en un plazo que no excederá de sesenta días naturales a su publicación. Entre tanto, se estará a lo que disponga el Estatuto y los reglamentos vigentes al momento de la entrada en vigor de la presente ley.
 
 Artículo Cuarto.- Los asuntos a cargo de los diversos órganos y unidades administrativas del Instituto, cuyo trámite se hubiere iniciado con anterioridad al inicio de la vigencia del presente Decreto, deberán concluirse de conformidad a la normatividad vigente, previo a la derogación a que se refiere el artículo segundo transitorio de este Decreto.
+
+P.O. 6 DE OCTUBRE DE 2012.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Articulo Segundo.- Se derogan las disposiciones que contravengan el presente Instrumento Legislativo.
