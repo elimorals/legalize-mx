@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-comision-de-radio-y-television-de-641
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-09-27"
-last_updated: "2008-09-27"
+last_updated: "2012-10-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAB"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION DE RADIO Y TELEVISION DE TABASCO -CORAT-
 
-REGLAMENTO INTERIOR DE LA COMISION DE RADIO Y TELEVISION DE TABASCO (CORAT)
+REGLAMENTO INTERIOR DE LA COMISIÓN DE RADIO Y TELEVISIÓN DE TABASCO (CORAT)
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2012.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 27 de septiembre de 2008.
 
@@ -121,7 +121,9 @@ IV. No haber sido condenado por delito doloso que merezca pena corporal; y
 
 V. Contar preferentemente con estudios profesionales relativos al ejercicio de las atribuciones que le competen al Órgano.
 
-Para los cargos de subdirectores, jefes de departamento, jefes de área y. demás eje menor nivel jerárquico, deberán cumplir con los mismos requisitos con excepción de la edad mínima que deberá ser de 18 años al día de su designación y tener conocimiento en la materia.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
+
+Para los cargos de Jefe de Unidad, Jefe de Departamento, Jefe de Área y demás de menor nivel jerárquico, deberán cumplir con los mismos requisitos con excepción de la edad mínima que deberá ser de 18 años al día de su designación y tener conocimiento en la materia.
 
 ###### ARTÍCULO 9.
 
@@ -239,7 +241,9 @@ ll. Atender y desahogar los asuntos que no requieran la atención directa del Di
 
 III. Tramitar y solicitar a la Dirección de Administración los recursos y servicios necesarios para el cumplimiento de las funciones de la Dirección General;
 
-IV. Recibir, revisar y turnar a la Dirección General la información que proceda de cualquier dependencia, de la ciudadanía en general y de las unidades administrativas de la CORAT, así como informar cualquier acontecimiento o contingencia relacionado con las actividades del órgano desconcentrado;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2012)</small>
+
+IV. Recibir, revisar y turnar a la Dirección General la correspondencia que proceda de cualquier Dependencia, de la ciudadanía en general y de las unidades administrativas de la CORAT, así como informar cualquier acontecimiento o contingencia relacionado con las actividades del Órgano Desconcentrado;
 
 V. Procurar la óptima realización de las actividades de la Dirección General;
 
@@ -605,7 +609,9 @@ Las ausencias temporales de los titulares de las unidades y direcciones de la CO
 
 Las relaciones de trabajo entre la CORAT y sus trabajadores, se regularán por la Ley de los Trabajadores al Servicio del Estado de Tabasco y las Condiciones Generales de Trabajo.
 
-Se consideran categorías de confianza las de Director General, directores de área o su equivalente, subdirectores, jefes de departamento, jefes de área, asesores y en general, las que tienen como propósito realizar funciones de dirección, inspección, supervisión, fiscalización, vigilancia y trabajos exclusivos de los titulares o altos funcionarios.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
+
+Se consideran categorías de confianza las de Director General, directores de área o su equivalente, jefes de unidad, jefes de departamento, jefes de área y en general, las que tienen como propósito realizar funciones de dirección, inspección, supervisión, fiscalización, vigilancia y trabajos exclusivos de los titulares o altos funcionarios.
 
 ###### ARTÍCULO 27.
 
@@ -656,3 +662,11 @@ SECRETARIO DE COMUNICACIONES Y TRANSPORTES.
 LIC. SALVADOR ANTONIO BRAVO NEMER
 
 DIRECTOR GENERAL DE LA CORAT.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 6 DE OCTUBRE DE 2012.
+
+PRIMERO. Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
