@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-presupuesto-de-egresos-contabilidad-y-gasto-publico-1194
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-14"
-last_updated: "2012-09-22"
+last_updated: "2012-10-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE PRESUPUESTO DE EGRESOS, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2012.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 14 de diciembre de 1996.
 
@@ -139,27 +139,11 @@ Las necesidades de crédito del Gobierno del Estado requerirán la aprobación d
 
 ###### ARTICULO 13.
 
-Será facultad del titular del Ejecutivo integrar la Comisión Estatal de Gastos-Financiamiento.
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2012)
 
 ###### ARTICULO 14.
 
-Son atribuciones de la Comisión:
-
-I. Analizar la proyección de los ingresos del Gobierno del Estado, para el ejercicio fiscal correspondiente,
-
-II. Analizar y discutir los ante-proyectos anuales de programas y presupuestos que formulen las Dependencias y Organismos del Gobierno del Estado, y emitir los dictámenes al respecto,
-
-III. Solicitar a las Dependencias y Organismos la información complementaria que a juicio de la Comisión se requiera para la justificación y el completo análisis de los proyectos de programas y presupuestos que aquellas formulen,
-
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
-
-IV. Analizar y proponer a la Secretaría las prioridades del Gasto Público Estatal, de conformidad con los planes y programas de Gobierno, las políticas del Ejecutivo y la proyección de los ingresos del Gobierno del Estado,
-
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
-
-V. Analizar y proponer a la Secretaría, fuentes y mecanismos que en su caso se requieran para financiar el Gasto Público Estatal, adicionalmente a los recursos provenientes de los créditos fiscales estatales y de las participaciones federales, procurando conservar el equilibrio financiero del Gobierno del Estado, en el corto, mediano y largo plazo; y
-
-VI. Las demás, que expresamente señale esta Ley.
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2012)
 
 ## TITULO TERCERO
 
@@ -215,7 +199,7 @@ Los programas operativos anuales, sean éstos de inversión o de operación, que
 
 Los programas operativos anuales de las dependencias y los organismos deberán ser analizados y compatibilizados por la Secretaría de Hacienda, con el apoyo que se requiera del Comité de Planeación para el Desarrollo del Estado, para que sean congruentes entre sí y respondan a los objetivos prioritarios del Plan Estatal de Desarrollo y de los programas de mediano plazo que de él se deriven, en los términos de las leyes relativas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 20.
 
@@ -491,7 +475,7 @@ III. Las erogaciones totales de este tipo, no podrán ser superiores al 3% del P
 
 Sin perjuicio de las atribuciones que las disposiciones legales otorgan a las entidades, la Secretaría tendrá a su cargo el registro y control del ejercicio del presupuesto, con el objeto de comprobar que la aplicación de los recursos aprobados se realice conforme a los programas autorizados y de conformidad con las disposiciones legales vigentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 49.
 
@@ -507,7 +491,7 @@ III.- Que se encuentren debidamente justificados y comprobados con los documento
 
 IV.- En el caso de obras públicas, el presupuesto se considerará devengado y ejercido al momento de aprobarse la estimación del avance físico de las mismas por los funcionarios autorizados para tal efecto. Para su contabilización, la Secretaría deberá recibir la documentación comprobatoria correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 50.
 
@@ -727,7 +711,7 @@ IV.- Informar al Congreso del Estado sobre el destino y manejo del Gasto Públic
 
 V.- Formular la Cuenta Pública para su presentación al Congreso del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 73.
 
@@ -753,7 +737,7 @@ La contabilización de las operaciones financieras y presupuestales del Gobierno
 
 La Secretaría deberá efectuar el cierre de la contabilidad gubernamental por año calendario.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 76.
 
@@ -805,7 +789,7 @@ Será responsabilidad de la Secretaría el diseño y la estructura del catálogo
 
 La Secretaría estará obligada a conservar en su poder durante los plazos que al respecto se establezcan en esta Ley y demás disposiciones legales aplicables, los libros, así como los registros auxiliares e información correspondiente, así como los documentos justificativos y comprobatorios de las operaciones financieras.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 82.
 
@@ -829,7 +813,7 @@ El conjunto de la documentación contable, consistente en registros contables y 
 
 La Secretaría mantendrá actualizados los sistemas de operación del archivo, en los términos de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 86.
 
@@ -873,9 +857,9 @@ a) Los estados financieros y reportes;
 
 b) Los libros y registros sumarizados y detallados a nivel de transacción.
 
-> <small>N. DE E. DE CONFORMIDAD CON LA PUBLICACION DEL DECRETO NO. 987/07 X P.E., POR EL QUE SE REFORMA EL PRESENTE ARTICULO, SE DESPRENDE QUE LOS PARRAFOS PRIMERO Y SEGUNDO QUEDAN INTEGRADOS EN UNO SOLO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON LA PUBLICACIÓN DEL DECRETO NO. 987/07 X P.E., POR EL QUE SE REFORMA EL PRESENTE ARTÍCULO, SE DESPRENDE QUE LOS PÁRRAFOS PRIMERO Y SEGUNDO QUEDAN INTEGRADOS EN UNO SOLO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 90.
 
@@ -895,7 +879,7 @@ II. El Compromiso presupuestal, referido al hecho consistente en que un monto se
 
 III. El Ejercicio presupuestal, determinado en el acto de efectuarse el pago.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 92.
 
@@ -967,7 +951,7 @@ III. Los análisis de las evaluaciones que realicen las Dependencias coordinador
 
 IV. Las demás fuentes y medios que la Secretaria juzgue apropiados para este fin.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 98.
 
@@ -997,7 +981,7 @@ Con objeto de efectuar una evaluación adecuada de la ejecución del Presupuesto
 
 La Secretaría suspenderá la asignación de los recursos autorizados a los programas cuando no se proporcione la información solicitada en los términos de los artículos precedentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 103.
 
@@ -1051,7 +1035,7 @@ EL SECRETARIO DE GOBIERNO
 
 LIC. EDUARDO ROMERO RAMOS
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 5 DE JUNIO DE 1999.
 
@@ -1224,3 +1208,13 @@ Las funciones, facultades, derechos y obligaciones establecidas a cargo del orga
 ###### ARTÍCULO NOVENO.
 
 En todo caso, deberá asegurarse que de ninguna forma resulten afectados los derechos de los trabajadores del organismo, que hayan adquirido con base en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
+
+P.O. 6 DE OCTUBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El trámite de los asuntos en la materia, solicitados ante la Comisión Estatal de Gasto Financiamiento, serán continuados por la Secretaría de Hacienda, a través de la Dirección General de Egresos.
