@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fomento-a-la-vivienda-del-estado-de-san-luis-potosi-3931
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-13"
-last_updated: "2004-05-13"
+last_updated: "2012-10-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39317&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DE FOMENTO A LA VIVIENDA DEL ESTADO DE SAN LUIS POTOSI
 
-LEY DE FOMENTO A LA VIVIENDA DEL ESTADO DE SAN LUIS POTOSI
+LEY DE FOMENTO A LA VIVIENDA DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2012.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 13 de mayo de 2004.
 
@@ -43,9 +43,15 @@ LEY DE FOMENTO A LA VIVIENDA DEL ESTADO DE SAN LUIS POTOSI
 
 La presente Ley es de orden público e interés social; y tiene por objeto establecer y regular las acciones de vivienda en beneficio de la población del Estado de San Luis Potosí.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
+
 ###### ARTICULO 2°.
 
-En los términos de esta Ley, el Estado y los municipios están obligados a establecer programas permanentes de apoyo a la vivienda popular y de interés social. Las autoridades estatales y municipales bajo ninguna circunstancia establecerán, ni apoyarán, acciones para la vivienda de lujo.
+Las disposiciones a las que se refiere esta Ley deberán atender a los principios de, equidad e inclusión social, de manera que toda persona, sin importar su origen étnico, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias, el estado civil o cualquier otra diferencia, pueda ejercer su derecho constitucional a la vivienda.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2012)</small>
+
+ARTICULO 2° BIS. En los términos de esta Ley, el Estado y los municipios están obligados a establecer programas permanentes de apoyo a la vivienda popular y de interés social. Las autoridades estatales y municipales bajo ninguna circunstancia establecerán, ni apoyarán, acciones para la vivienda de lujo.
 
 ###### ARTICULO 3°.
 
@@ -518,3 +524,11 @@ El Secretario General de Gobierno
 Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 6 DE OCTUBRE DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones, ordenamientos legales y administrativos que se opongan al presente.
