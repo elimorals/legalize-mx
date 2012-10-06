@@ -4,7 +4,7 @@ identifier: "CHH-ley-electoral-del-estado-de-chihuahua-70314"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-12"
-last_updated: "2012-09-12"
+last_updated: "2012-10-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ELECTORAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2012.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 12 de septiembre de 2009.
 
@@ -2037,11 +2037,13 @@ Artículo 124
 
 3. Los partidos políticos, cuando decidan realizar procesos internos para la selección de candidatos y precampañas para elegir a los ciudadanos que presentarán como candidatos a cargos de elección popular ante los organismos electorales, deberán informar por escrito al Consejo General del Instituto Estatal Electoral, el procedimiento que aplicarán para la selección de sus candidatos a cargos de elección popular, según la elección de que se trate, en los términos que siguen:
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
 
-a) A más tardar el veintidós de enero del año del proceso electoral, cuando se trate de la selección interna del candidato a Gobernador, y
+a) A más tardar el día quince de febrero del año del proceso electoral, cuando se trate de la selección interna del candidato a Gobernador, y
 
-b) A más tardar el día veintiocho de febrero del año del proceso electoral, cuando se trate de la selección interna de candidatos a diputados, miembros de los ayuntamientos y síndicos.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
+
+b) A más tardar el día quince de marzo del año del proceso electoral, cuando se trate de la selección interna de candidatos a diputados, miembros de los ayuntamientos y síndicos.
 
 4. La comunicación mencionada deberá señalar:
 
@@ -2071,21 +2073,25 @@ Artículo 125
 
 1. En ningún caso, las precampañas excederán de los siguientes límites:
 
-a) De cuarenta y cinco días para la elección de candidatos a Gobernador, y
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
 
-b) De treinta días para la elección de candidatos a diputados, miembros de los ayuntamientos y síndicos.
+a) De treinta días para la elección de candidatos a Gobernador, y
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
+
+b) De quince días para la elección de candidatos a diputados, miembros de los ayuntamientos y síndicos.
 
 Para tales efectos, el Consejo General podrá ajustar los plazos correspondientes a las precampañas a fin de garantizar que no excedan de sus límites, así como para adecuarlos cronológicamente a las demás disposiciones del presente ordenamiento.
 
 2. Para los efectos del numeral anterior, las precampañas electorales darán inicio en la forma que sigue:
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
 
-a) Dentro de los últimos ocho días del mes de enero del año del proceso electoral, para la elección de candidatos a Gobernador, y
+a) Durante el mes de marzo del año del proceso electoral, para la elección de candidatos a Gobernador, y
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
 
-b) Durante la primera semana del mes de marzo del año del proceso electoral, para la elección de candidatos a diputados, miembros de los ayuntamientos y síndicos.
+b) Durante el mes de abril del año del proceso electoral, para la elección de candidatos a diputados, miembro de los ayuntamientos y síndicos.
 
 3. Los precandidatos únicos podrán realizar precampaña, siempre y cuando el partido político comunique previamente al Instituto Estatal Electoral tal calidad.
 
@@ -2201,19 +2207,23 @@ Artículo 135
 
 2. Las plataformas deberán presentarse para su registro ante el Consejo General antes de la fecha de registro de candidatos a Gobernador, diputados, miembros del ayuntamiento y síndicos, según corresponda.
 
-a) El treinta y uno de marzo del año de la elección, cuando el proceso electoral tenga por objeto la renovación de Gobernador, diputados, ayuntamientos y síndicos, y
+a) (DEROGADO, P.O. 6 DE OCTUBRE DE 2012)
 
-b) El treinta de abril del año de la elección, cuando el proceso electoral tenga por objeto solamente la renovación de diputados, ayuntamientos y síndicos.
+b) (DEROGADO, P.O. 6 DE OCTUBRE DE 2012)
 
 Artículo 136
 
 Los plazos para presentar la solicitud de registro de candidaturas durante el año de la elección serán los siguientes:
 
-a) Dentro de los primeros diez días del mes de abril, tratándose de candidatos a Gobernador;
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
 
-b) Dentro de los primeros diez días del mes de mayo, tratándose de candidatos a diputados por el principio de mayoría relativa, miembros de los ayuntamientos y síndicos, y
+a) Dentro de un plazo de diez días comprendidos en la segunda quincena del mes de abril, tratándose de candidatos a Gobernador;
 
-c) Del once al quince de mayo, tratándose de candidatos a diputados por el principio de representación proporcional.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
+
+b) Dentro de un plazo de diez días comprendidos en la segunda quincena del mes de mayo, tratándose de candidatos a diputados por el principio de mayoría relativa, representación proporcional, miembros de los ayuntamientos y síndicos.
+
+c) (DEROGADO, P.O. 6 DE OCTUBRE DE 2012)
 
 Artículo 137
 
@@ -2265,13 +2275,21 @@ Artículo 140
 
 ### CAPÍTULO TERCERO. DE LAS CAMPAÑAS ELECTORALES
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
+
 Artículo 141
 
-1. Las campañas electorales para Gobernador del Estado tendrá una duración de setenta y cinco días.
+1. Las campañas electorales para Gobernador del Estado tendrán una duración de sesenta días.
 
-2. Las campañas electorales para diputados por el principio de mayoría relativa, miembros de los ayuntamientos y síndicos, tendrán una duración de cuarenta y cinco días.
+2. Las campañas electorales para miembros de los ayuntamientos y síndicos tendrán una duración:
 
-3. El Consejo General del Instituto Estatal Electoral emitirá un acuerdo a efecto de fijar el inicio y conclusión de las campañas electorales, para efecto de garantizar que su duración se ajuste a los plazos establecidos en los numerales 1 y 2 del presente artículo, en relación con el artículo 142.
+a) En los municipios donde la población sea menor a 500,000 habitantes, de veintiocho días.
+
+b) En los municipios donde la población sea mayor a 500,000 habitantes, de treinta y cinco días.
+
+3. Las campañas electorales para diputados por el principio de mayoría relativa tendrán una duración de treinta y cinco días.
+
+4. El Consejo General del Instituto Estatal Electoral emitirá un acuerdo a efecto de fijar el inicio y conclusión de las campañas electorales, con el propósito de garantizar que su duración se ajuste a los plazos establecidos en los numerales 1, 2 y 3 del presente artículo, en relación con el artículo 142.
 
 Artículo 142
 
@@ -2363,13 +2381,31 @@ En las oficinas, edificios y locales ocupados por la administración y los poder
 
 Artículo 150
 
-1. En la colocación de la propaganda electoral, los partidos y candidatos observarán las reglas siguientes:
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
 
-a) No podrá colocarse en elementos del equipamiento urbano, bastidores, mamparas y edificios ubicados en el centro histórico, plazas públicas y demás construcciones de valor arquitectónico. Para tal efecto, la colocación se sujetará a los lineamientos que expida el Instituto Estatal Electoral de conformidad con la normatividad aplicable. Fuera de las restricciones anteriores, se permitirá la colocación, siempre que no se dañe el equipamiento, se impida la visibilidad de conductores de vehículos o se impida la circulación de peatones. Las autoridades electorales competentes ordenarán el retiro de la propaganda electoral contraria a esta norma;
+1. En la colocación de propaganda electoral los partidos y candidatos observarán las reglas siguientes:
 
-b) Podrá colocarse o fijarse en inmuebles de propiedad privada, siempre que medie permiso del propietario, y
+a) No podrá colocarse en elementos del equipamiento urbano, transporte público, plazas públicas, monumentos o edificios públicos.
 
-c) Podrá colgarse o fijarse en los lugares de uso común que determinen las asambleas municipales, previo acuerdo con las autoridades correspondientes.
+b) No podrá colocarse, fijarse o pintarse en elementos del equipamiento urbano, carretero o ferroviario, ni en accidentes geográficos cualquiera que sea su régimen jurídico.
+
+c) Fuera de las restricciones anteriores, se permitirá la colocación durante eventos de campaña o actividades de los partidos o candidatos, siempre que:
+
+1. No se obstaculice en forma alguna la visibilidad de los señalamientos que permitan a las personas transitar y orientarse dentro de los centros de población.
+
+2. No impida la visibilidad de conductores de vehículos o la circulación de peatones.
+
+3. No se dañe el equipamiento, árboles o reservas ecológicas.
+
+4. Al término del evento o actividad, la propaganda electoral sea retirada por los partidos o candidatos.
+
+d) Podrá colocarse o fijarse en inmuebles de propiedad privada, siempre que medie permiso del propietario, y
+
+e) Podrá colgarse o fijarse en los bastidores, mamparas y lugares de uso común que determinen las asambleas municipales, previo acuerdo con las autoridades correspondientes.
+
+La colocación se sujetará a los lineamientos que expida el Instituto Estatal Electoral de conformidad con la normatividad aplicable.
+
+Las autoridades electorales competentes ordenarán el retiro de la propaganda electoral contraria a esta norma.
 
 2. Los organismos electorales, dentro del ámbito de su competencia, harán cumplir estas disposiciones y adoptarán las medidas a que hubiere lugar con el fin de asegurar a partidos y candidatos el pleno ejercicio de sus derechos y garantizar el cumplimiento de sus obligaciones en la materia.
 
@@ -2649,6 +2685,10 @@ d) Un solo círculo o recuadro para cada partido político o coalición.
 
 10. En caso de existir coaliciones, el emblema de la coalición o los emblemas de los partidos coaligados, aparecerán dentro de un espacio de las mismas dimensiones que aquel que se destine en la boleta al emblema de los partidos que participan por sí mismos.
 
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2012)</small>
+
+11. En el paquete electoral, deberán incluirse plantillas en sistema braille, para que los invidentes y débiles visuales, que así lo deseen, puedan ejercer personalmente su derecho al sufragio.
+
 Artículo 170
 
 En caso de cancelación o sustitución de uno o más candidatos, las boletas que ya estuvieren impresas serán corregidas en la parte relativa o sustituidas por otras, conforme lo acuerde el Consejo General del Instituto Estatal Electoral. Si no se pudiese efectuar su corrección o sustitución, los votos contarán para el partido político o coalición que haya tenido que hacer el cambio.
@@ -2811,7 +2851,9 @@ Artículo 179
 
 Artículo 180
 
-1. Los electores votarán en el orden en que se presenten ante la mesa directiva de casilla, debiendo exhibir su credencial para votar con fotografía o, en su caso, la resolución del Tribunal Electoral que les otorga el derecho de votar sin aparecer en la lista nominal o sin contar con credencial para votar o en ambos casos; asimismo, mostrarán su dedo pulgar derecho a efecto de comprobar que no se encuentra ya impregnado de tinta indeleble.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
+
+1. Los electores votarán en el orden en que se presenten ante la mesa directiva de casilla. Las personas que presenten cualquier tipo de discapacidad física que les impida con normalidad permanecer en la fila, así como los adultos mayores, tendrán derecho preferente para emitir su voto, debiendo exhibir su credencial para votar con fotografía o, en su caso, la resolución del Tribunal Electoral que les otorga el derecho de votar sin aparecer en la lista nominal o sin contar con credencial para votar o en ambos casos; asimismo, mostrarán su dedo pulgar derecho a efecto de comprobar que no se encuentra ya impregnado de tinta indeleble.
 
 2. El presidente de la mesa directiva se cerciorará de que el nombre y la persona que aparecen en la credencial figuren en la lista nominal. Hecho lo anterior, mencionará en voz alta el nombre del elector para el efecto de que los representantes de los partidos políticos y coaliciones lo puedan localizar en su copia de la lista nominal de electores.
 
@@ -5574,6 +5616,12 @@ Conforme lo dispone el artículo 202 de la Constitución Política del Estado, e
 Por lo que hace a la reforma constitucional contenida en el Artículo Primero del presente Decreto, ésta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado. Las reformas y derogaciones a la Ley Electoral del Estado de Chihuahua, contenidas en el Artículo Segundo del presente Decreto, surtirán vigencia un día después de que lo haga la reforma constitucional señalada.
 
 P.O. 12 DE SEPTIEMBRE DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE OCTUBRE DE 2012.
 
 ###### ARTÍCULO ÚNICO.
 
