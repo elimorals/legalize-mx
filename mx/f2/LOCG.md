@@ -4,7 +4,7 @@ identifier: "LOCG"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-09-03"
-last_updated: "2011-12-12"
+last_updated: "2012-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOCG"
 
 LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE OCTUBRE DE 2012.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de septiembre de 1999.
 
@@ -568,161 +568,111 @@ e) Las demás que se derivan de esta ley y de los ordenamientos relativos.
 
 1. Las Comisiones son órganos constituidos por el Pleno, que a través de la elaboración de dictámenes, informes, opiniones o resoluciones, contribuyen a que la Cámara cumpla sus atribuciones constitucionales y legales.
 
-> <small>(REFORMADO, D.O.F. 9 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 8 DE OCTUBRE DE 2012)</small>
 
 2. La Cámara de Diputados cuenta con comisiones ordinarias que se mantienen de legislatura a legislatura y son las siguientes:
 
-I. Agricultura y Ganadería;
+I. Agricultura y Sistemas de Riego;
 
-II. Asuntos Indígenas;
+II. Agua Potable y Saneamiento;
 
-III. Atención a Grupos Vulnerables;
+III. Asuntos Frontera Norte;
 
-IV. Ciencia y Tecnología;
+IV. Asuntos Frontera Sur-Sureste;
 
-> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
+V. Asuntos Indígenas;
 
-V. Comunicaciones;
+VI. Asuntos Migratorios;
 
-> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
+VII. Atención a Grupos Vulnerables;
 
-VI. Cultura;
+VIII. Cambio Climático;
 
-> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
+IX. Ciencia y Tecnología;
 
-VII. Defensa Nacional;
+X. Competitividad;
 
-> <small>(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 2006)</small>
+XI. Comunicaciones;
 
-VIII. Derechos Humanos;
+XII. Cultura y Cinematografía;
 
-> <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
+XIII. Defensa Nacional;
 
-IX. Desarrollo Metropolitano;
+XIV. Deporte;
 
-> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
+XV. Derechos de la Niñez;
 
-X. Desarrollo Rural;
+XVI. Derechos Humanos;
 
-> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
+XVII. Desarrollo Metropolitano;
 
-XI. Desarrollo Social;
+XVIII. Desarrollo Rural;
 
-> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
+XIX. Desarrollo Social;
 
-XII. Economía;
+XX. Economía;
 
-> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
+XXI. Educación Pública y Servicios Educativos;
 
-XIII. Educación Pública y Servicios Educativos;
+XXII. Energía;
 
-> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
+XXIII. Equidad y Género;
 
-XIV. Energía;
+XXIV. Fomento Cooperativo y Economía Social;
 
-> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
+XXV. Fortalecimiento al Federalismo;
 
-XV. Equidad y Género;
+XXVI. Función Pública;
 
-> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
+XXVII. Ganadería;
 
-XVI. Fomento Cooperativo y Economía Social;
+XXVIII. Gobernación;
 
-> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
+XXIX. Hacienda y Crédito Público;
 
-XVII. Fortalecimiento al Federalismo;
+XXX. Infraestructura;
 
-> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2006)</small>
+XXXI. Justicia;
 
-XVIII. Función Pública;
+XXXII. Juventud;
 
-> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
+XXXIII. Marina;
 
-XIX. Gobernación;
+XXXIV. Medio Ambiente y Recursos Naturales;
 
-> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
+XXXV. Participación Ciudadana;
 
-XX. Hacienda y Crédito Público;
+XXXVI. Pesca;
 
-> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 2006)</small>
+XXXVII. Población;
 
-XXI. Justicia;
+XXXVIII. Presupuesto y Cuenta Pública;
 
-> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
+XXXIX. Protección Civil;
 
-XXII. Juventud y Deporte;
+XL. Puntos Constitucionales;
 
-> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
+XLI. Radio y Televisión;
 
-XXIII. Marina;
+XLII. Recursos Hidráulicos;
 
-> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
+XLIII. Reforma Agraria;
 
-XXIV Medio Ambiente y Recursos Naturales;
+XLIV. Relaciones Exteriores;
 
-> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
+XLV. Salud;
 
-XXV. Participación Ciudadana;
+XLVI. Seguridad Pública;
 
-> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
+XLVII. Seguridad Social;
 
-XXVI. Pesca;
+XLVIII. Trabajo y Previsión Social;
 
-> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
+XLIX. Transportes;
 
-XXVII. Población, Fronteras y Asuntos Migratorios;
+L. Turismo, y
 
-> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
-
-XXVIII. Presupuesto y Cuenta Pública;
-
-> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
-
-XXIX. Puntos Constitucionales;
-
-> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
-
-XXX. Radio, Televisión y Cinematografía;
-
-> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
-
-XXXI. Recursos Hidráulicos;
-
-> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
-
-XXXII. Reforma Agraria;
-
-> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
-
-XXXIII. Relaciones Exteriores;
-
-> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
-
-XXXIV. Salud;
-
-> <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
-
-XXXV. Seguridad Pública;
-
-> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
-
-XXXVI. Seguridad Social;
-
-> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
-
-XXXVII. Trabajo y Previsión Social;
-
-> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
-
-XXXVIII. Transportes;
-
-> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
-
-XXXIX. Turismo; y
-
-> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
-
-XL. Vivienda.
+LI. Vivienda.
 
 3. Las comisiones ordinarias establecidas en el párrafo anterior, tienen a su cargo tareas de dictamen legislativo, de información y de control evaluatorio conforme a lo dispuesto por el párrafo primero del artículo 93 constitucional, y su competencia se corresponde en lo general con las otorgadas a las dependencias y entidades de la Administración Pública Federal.
 
@@ -730,7 +680,7 @@ XL. Vivienda.
 
 1. Las comisiones ordinarias que se establecen en este artículo desarrollan las tareas específicas que en cada caso se señalan.
 
-> <small>(REFORMADO PRIMER PARRAFO D.O.F. 31 DE MARZO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO D.O.F. 31 DE MARZO DE 2006)</small>
 
 2. La Comisión de Régimen, Reglamentos y Prácticas Parlamentarias se integra con veinte miembros de entre los diputados de mayor experiencia legislativa y todos los Grupos Parlamentarios estarán representados en la misma. Se encargará de:
 
@@ -2050,7 +2000,7 @@ V). En la última sesión del mes de octubre de 1999, la Cámara de Senadores pr
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-VI). Los artículos 112 y 113 de la Ley materia del presente Decreto, entrarán en vigor el 1 de enero del año 2000. El artículo 114 de esta Ley Orgánica, lo hará a partir del 1 de septiembre del mismo año.
+VI). Los artículos 112, 113 y 114 de la Ley materia del presente Decreto, entrarán en vigor el 1 de enero de 2000. El artículo 114 de esta Ley Orgánica, lo hará a partir del primero de septiembre del mismo año.
 
 VII). El Senado podrá designar de entre los funcionarios que ya presten sus servicios, a los que deban ocupar los puestos de nueva creación, hasta el final de la LVII Legislatura. Las designaciones definitivas de funcionarios se harán a partir del inicio de las tareas de la LVIII Legislatura.
 
@@ -2070,7 +2020,7 @@ Se abroga la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos,
 
 México, D.F., a 31 de agosto de 1999.- Sen. Ignacio Vázquez Torres, Presidente.- Dip. Victorio Montalvo Rojas, Presidente.- Sen. Hugo Andrés Araujo de la Torre, Secretario.- Dip. Ma. del Carmen Moreno Contreras, Secretario.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 31 DE DICIEMBRE DE 1999.
 
@@ -2164,7 +2114,7 @@ Artículo Único.- Para efectos de dar cumplimiento a los artículos Tercero y C
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
-A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO POR EL QUE SE REFORMA LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE 14 DE NOVIEMBRE DE 2007.
+A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO POR EL QUE SE REFORMA LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE 14 DE NOVIEMBRE DE 2007.
 
 "Artículo Tercero. El Congreso de la Unión deberá realizar las adecuaciones que correspondan en las leyes federales en un plazo máximo de treinta días naturales contados a partir del inicio de la vigencia de este Decreto.
 
@@ -2186,13 +2136,13 @@ D.O.F. 24 DE DICIEMBRE DE 2007.
 
 D.O.F. 21 DE ABRIL DE 2008.
 
-DECRETO POR EL QUE SE ADICIONA UN PARRAFO AL ARTICULO 46 DE LA LEY ORGANICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS.
+DECRETO POR EL QUE SE ADICIONA UN PÁRRAFO AL ARTÍCULO 46 DE LA LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS.
 
 ÚNICO.- El presente decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 21 DE ABRIL DE 2008.
 
-DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGANICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS.
+DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS.
 
 Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
@@ -2204,16 +2154,24 @@ D.O.F. 26 DE JUNIO DE 2008.
 
 D.O.F. 5 DE MARZO DE 2009.
 
-DECRETO POR EL QUE SE REFORMA EL ARTICULO 92 DE LA LEY ORGANICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS.
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 92 DE LA LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 5 DE MARZO DE 2009.
 
-DECRETO POR EL QUE SE REFORMAN LOS ARTICULOS 112 Y 113 DE LA LEY ORGANICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS.
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 112 Y 113 DE LA LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 12 DE DICIEMBRE DE 2011.
 
 Único.- El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 8 DE OCTUBRE DE 2012.
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las Comisiones Especiales de la Cámara de Diputados, constituidas durante la LXI Legislatura al Honorable Congreso de la Unión, y que a través del presente Decreto se formalizan como Comisiones Ordinarias, tendrán las facultades y atribuciones que anteriormente tenían asignadas.
+
+Tercero.- Por única ocasión, las Comisiones Ordinarias, deberán quedar constituidas a más tardar dentro de los siete días naturales siguientes a la entrada en vigor del presente Decreto.
