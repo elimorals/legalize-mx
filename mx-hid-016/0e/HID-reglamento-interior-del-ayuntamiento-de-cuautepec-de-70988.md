@@ -4,7 +4,7 @@ identifier: "HID-reglamento-interior-del-ayuntamiento-de-cuautepec-de-70988"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-09"
-last_updated: "2009-11-09"
+last_updated: "2012-10-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE CUAUTEPEC DE HINOJOSA, HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2018.
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 9 de noviembre de 2009.
 
@@ -49,9 +49,11 @@ El Municipio es la célula política que se integra con la población que reside
 
 El Ayuntamiento, es el órgano de Gobierno que delibera y funciona de manera colegiada. Para el cumplimiento de sus funciones, entre el Ayuntamiento y el Gobierno del Estado no existe autoridad intermedia.
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2018)</small>
+
 ###### ARTÍCULO 4.
 
-El Ayuntamiento se integra por un Presidente, un Síndico, y por doce Regidores de elección popular directa, de los cuales siete serán electos por el principio de mayoría relativa y cinco por el sistema de representación proporcional, conforme lo establece el Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
+El Ayuntamiento se integra por un Presidente, dos Síndicos, de los cuales uno se encargara de los asuntos relacionados a la Hacienda Pública Municipal y el otro a los asuntos Jurídicos, y por quince Regidores de elección popular directa, de los cuales nueve serán electos por el principio de mayoría relativa y seis por el sistema de representación proporcional, conforme lo establece el Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### ARTÍCULO 5.
 
@@ -117,7 +119,9 @@ A lo cual el Síndico y los Regidores levantando la mano dirán: "Sí protesto."
 
 El Presidente Municipal agregará: "Si así lo hicieres, que la patria os lo premie y si no, que el pueblo os lo demande."
 
-V.- Una vez rendida la protesta, el Presidente Municipal hará la declaratoria formal de que ha quedado legal y legítimamente instalado el nuevo Ayuntamiento, por el período comprendido del dieciséis de enero del año que corresponda al quince de enero del tercer año; dando lectura enseguida a su plan y programa de Gobierno. Se concederá el uso de la palabra, si así lo solicitan, al representante del Poder Legislativo Estatal y al titular del Poder Ejecutivo Estatal cuando asista; y
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2018)</small>
+
+V.- Una vez rendida la protesta, el Presidente Municipal hará la declaratoria formal de que ha quedado legalmente instalado el nuevo Ayuntamiento, por el período comprendido del dieciséis de enero del año que corresponda al cinco de septiembre del cuarto año siguiente; dando lectura enseguida a su plan y programa de Gobierno. Se concederá el uso de la palabra, sí así lo solicitan, al representante del Poder Legislativo Estatal y al titular del Poder Ejecutivo Estatal cuando asista; y
 
 VI.- Se clausurará la sesión nombrándose las Comisiones protocolarias que se requieran para que acompañen a su salida del Recinto a los Representantes de los Poderes Constitucionales del Estado que asistieren.
 
@@ -167,25 +171,27 @@ Para el desarrollo de sus atribuciones, el Presidente Municipal puede auxiliarse
 
 El Presidente Municipal debe conducir las actividades administrativas del Municipio en forma programada mediante el establecimiento de objetivos, políticas y prioridades del mismo, con base en los recursos disponibles y procurará la consecución de los objetivos propuestos. Para tal efecto, debe hacer del conocimiento del Ayuntamiento los planes y programas de desarrollo del Municipio.
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2018)</small>
+
 ###### ARTÍCULO 19.
 
-Para hacer cumplir los acuerdos del Ayuntamiento y sus propias resoluciones, el Presidente Municipal puede hacer uso de los siguientes medios de apremio:
+Para hacer cumplir los acuerdos del Ayuntamiento y sus resoluciones, el Presidente Municipal puede hacer uso de los siguientes medios de apremio:
 
 I.- Amonestación;
 
 II.- Apercibimiento;
 
-III.- Multa;
+III.- Multa; y
 
-IV.- Arresto hasta por treinta y seis horas en los términos señalados por la Constitución Federal; y
-
-V.- El empleo de la fuerza pública.
+IV.- El empleo de la fuerza pública.
 
 ###### ARTÍCULO 20.
 
 Dentro de las Sesiones del Ayuntamiento, el Presidente Municipal cuenta con las siguientes atribuciones:
 
-I.- Presidir las Sesiones del Ayuntamiento con derecho a voz y a voto;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2018)</small>
+
+I.- Presidir las Sesiones del Ayuntamiento con puntualidad y sobriedad; así como con derecho a voz y a voto;
 
 II.- Iniciar las Sesiones a la hora señalada usando la frase "Comienza la Sesión";
 
@@ -213,17 +219,23 @@ XIII.- Cerrar la Sesión cuando esté agotado (sic) la Orden del Día o cuando p
 
 ### CAPÍTULO II. DEL SÍNDICO MUNICIPAL
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2018)</small>
+
 ###### ARTÍCULO 21.
 
-El Síndico Municipal es el encargado de vigilar el adecuado funcionamiento de la Hacienda Municipal y de la conservación del patrimonio, así como de llevar la representación jurídica del Ayuntamiento ante las autoridades cuando así fuere necesario.
+El Síndico Municipal Hacendario es el encargado de vigilar el adecuado funcionamiento de la Hacienda Pública Municipal y de la conservación del patrimonio Municipal; el Síndico Jurídico de la representación jurídica del Ayuntamiento ante las autoridades cuando así fuere necesario.
+
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2018)</small>
 
 ###### ARTÍCULO 22.
 
-El Síndico Municipal debe comparecer por sí mismo o asistido por un profesional del derecho ante cualquier Tribunal, en los juicios en que el Municipio sea parte.
+Los Síndicos Municipales deben comparecer por sí mismos o asistidos por un profesional del derecho ante cualquier Tribunal, en los juicios en que el Municipio sea parte.
+
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2018)</small>
 
 ###### ARTÍCULO 23.
 
-El Síndico Municipal tiene las atribuciones y obligaciones que le señalen la Constitución Política del Estado, la Ley Orgánica Municipal, las Leyes y demás ordenamientos jurídicos vigentes.
+Los Síndicos Municipales tienen las atribuciones y obligaciones que le señalen la Constitución Política del Estado, la Ley Orgánica Municipal y demás leyes y ordenamientos jurídicos vigentes.
 
 ###### ARTÍCULO 24.
 
@@ -233,7 +245,9 @@ Los Síndicos no pueden desistirse, transigir, comprometerse en árbitros y hace
 
 Dentro de las sesiones del Ayuntamiento, el Síndico tiene las siguientes atribuciones:
 
-I.- Asistir con toda puntualidad a las Sesiones del Ayuntamiento, teniendo derecho a participar en ellas con voz y voto;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2018)</small>
+
+I.- Asistir con toda puntualidad y sobriedad a las Sesiones del Ayuntamiento, teniendo derecho a participar en ellas con voz y voto;
 
 II.- Guardar el orden y respeto a los miembros del Ayuntamiento y al recinto oficial donde se celebren las Sesiones;
 
@@ -267,7 +281,9 @@ Los Regidores Municipales tienen las atribuciones y obligaciones que les señala
 
 Dentro de las sesiones del Ayuntamiento, los Regidores tienen las siguientes atribuciones:
 
-I.- Estar presentes el día y hora que sean señalados para Sesión del Ayuntamiento, participando con voz y voto;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2018)</small>
+
+I.- Estar presentes con puntualidad y sobriedad el día y hora que sean señalados para Sesión del Ayuntamiento, participando con voz y voto;
 
 II.- Solicitar al Presidente Municipal el uso de la palabra, esperando el turno que les corresponda para su intervención;
 
@@ -279,9 +295,11 @@ V.- Proporcionar al Ayuntamiento los informes o dictámenes que les requiera sob
 
 ### CAPÍTULO IV. DE LAS COMISIONES DEL AYUNTAMIENTO
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2018)</small>
+
 ###### ARTÍCULO 32.
 
-En la primera sesión posterior a la de la instalación del Ayuntamiento, éste, a propuesta del Presidente Municipal procederá a establecer las comisiones que para el mejor desempeño de sus funciones (sic), en base a la Ley Orgánica Municipal y al Bando de Policía y Gobierno. Estas comisiones tienen un tiempo máximo de duración de tres años.
+En la primera sesión posterior a la de la instalación del Ayuntamiento, éste, a propuesta del Presidente Municipal procederá a establecer las comisiones que para el mejor desempeño de sus funciones, en base a la Ley Orgánica Municipal y al Bando de Policía y Gobierno. Estas comisiones tienen un tiempo máximo de duración de un año con opción a ratificación si así lo acuerda el H. Ayuntamiento.
 
 ###### ARTÍCULO 33.
 
@@ -313,11 +331,13 @@ VIII.- De Protección Civil.
 
 b).- Serán especiales, las que designe el Ayuntamiento, de acuerdo a las necesidades del Municipio.
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2018)</small>
+
 ###### ARTÍCULO 35.
 
-Al Síndico Municipal le corresponde ejercer la Presidencia de la Comisión de Hacienda Municipal y cuando menos un Regidor de cada fracción.
+Al Síndico Municipal Hacendario le corresponde ejercer la Presidencia de la Comisión de Hacienda Pública Municipal, además participaran en dicha comisión cuando menos un Regidor de cada fracción.
 
-Esta vigilará la recaudación en todas las ramas de la Hacienda Municipal y que la inversión de los Fondos Municipales se aplique con estricto apego al Presupuesto.
+Esta vigilará la recaudación en todas las ramas de la Hacienda Pública Municipal y que la inversión de los Fondos Municipales se aplique con estricto apego al Presupuesto. Al Síndico Municipal Jurídico le corresponde coadyuvar y supervisar a la comisión de seguridad Pública, así como las que por su naturaleza Jurídica le competan.
 
 ###### ARTÍCULO 36.
 
@@ -377,9 +397,11 @@ Salvo en las que se traten asuntos que requieren de una mayoría calificada para
 
 Cuando el Presidente Municipal no asista a la sesión del Ayuntamiento, lo suplirán el Primer Regidor, a falta de éste, la presidirá uno de los Regidores, por riguroso orden subsecuente.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE OCTUBRE DE 2018)</small>
+
 ###### ARTÍCULO 48.
 
-Las sesiones ordinarias del Ayuntamiento se celebrarán tres veces por mes. Realizándose el segundo y tercer lunes, así como el último viernes de cada mes a las 17:00 hrs. Las convocatorias para estas, las hará el Presidente Municipal y deberá sujetarse a los siguientes puntos:
+Las sesiones ordinarias del H. Ayuntamiento se celebrarán una vez por mes, Realizándose el segundo lunes de cada mes a las 17:00 hrs. Las convocatorias para estas, las hará el Presidente Municipal y deberá sujetarse a los siguientes puntos:
 
 I.- Pase de lista y verificación del Quórum Legal, que deberá de ser del 50% más uno de los integrantes.
 
@@ -419,9 +441,11 @@ V.- Las que se celebren para declarar huéspedes distinguidos del Municipio de C
 
 Las sesiones del Ayuntamiento serán públicas, salvo que por alguna circunstancia el Ayuntamiento acuerde que los asuntos a tratar exigen reserva, en cuyo caso serán privadas.
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2018)</small>
+
 ###### ARTÍCULO 52.
 
-A las sesiones públicas pueden concurrir quienes deseen hacerlo, pero en todo caso deben guardar compostura y abstenerse de hacer manifestaciones ruidosas u ofensivas. En todo caso, el Presidente Municipal debe hacer guardar el orden, pudiendo ordenar que se desaloje la sala de sesiones, e incluso hacer arrestar a quien o quienes por su comportamiento, impidan la buena marcha de la sesión.
+A las sesiones públicas pueden concurrir quienes deseen hacerlo y solo cuando la mayoría del (sic) los integrantes del H. Ayuntamiento lo apruebe se permitirá hacer uso de la palabra, pero en todo caso deben guardar compostura y abstenerse de hacer manifestaciones ruidosas u ofensivas. En caso contrario, el Presidente Municipal debe hacer guardar el orden, pudiendo mandar que se desaloje la sala de sesiones y de ser necesario hacer uso de la fuerza pública.
 
 ###### ARTÍCULO 53.
 
@@ -746,3 +770,13 @@ C. LUCIO VERTIZ OLMEDO
 C. MAHELET EDNA CHÁVEZ CASTELÁN
 
 LIC. FERNANDO RUEDA GERMAN
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE OCTUBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO UNO QUE MODIFICA Y REFORMA LOS ARTICULOS 4, 11, 19, 20, 21, 22, 23, 25, 31, 32, 35, 48 Y 52 DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DE CUAUTEPEC DE HINOJOSA, HIDALGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Se derogan todas las disposiciones vigentes y aplicables en el Municipio que antecedan al presente Decreto.
