@@ -4,7 +4,7 @@ identifier: "HID-reglamento-interior-de-la-secretaria-de-agricultura-y-50192"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-03-27"
-last_updated: "2006-03-27"
+last_updated: "2012-10-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50192&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE AGRICULTURA Y DESARROLLO RURAL
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE AGRICULTURA Y DESARROLLO RURAL
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE AGRICULTURA Y DESARROLLO RURAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO, PUBLICADO EN EL P.O. 8 DE OCTUBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 27 de marzo de 2006.
 
@@ -732,3 +734,23 @@ Dado en la residencia del Poder Ejecutivo del Estado de Hidalgo, en la Ciudad de
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO.
 
 LIC. MIGUEL ANGEL OSORIO CHONG.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 8 DE OCTUBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Manuales de Organización, de Procedimientos y de Servicios al Público se expedirán en los 60 días posteriores a la Publicación del presente Reglamento, en tanto el Secretario estará facultado para resolver lo que dichos Manuales deben regular.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Reglamento Interior de la Secretaría de Agricultura y Desarrollo Rural del Gobierno del Estado Publicado en el Periódico Oficial del Estado de Hidalgo, de fecha 27 de marzo de 2006.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan las demás disposiciones que se opongan al presente Reglamento.
