@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-del-fideicomiso-publico-denominado-50895"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-06-22"
-last_updated: "2006-06-22"
+last_updated: "2012-10-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50895&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # REGLAMENTO INTERIOR DEL FIDEICOMISO PUBLICO DENOMINADO "OPERADORA DE PROYECTOS ESTRATEGICOS DEL ESTADO DE SONORA"
 
-REGLAMENTO INTERIOR DEL FIDEICOMISO PUBLICO DENOMINADO "OPERADORA DE PROYECTOS ESTRATEGICOS DEL ESTADO DE SONORA"
+REGLAMENTO INTERIOR DEL FIDEICOMISO PÚBLICO DENOMINADO "OPERADORA DE PROYECTOS ESTRATÉGICOS DEL ESTADO DE SONORA"
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2012.
 
 Reglamento publicado en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 22 de junio del 2006.
 
@@ -53,9 +53,13 @@ I. Decreto: El Decreto que Autoriza la Creación del Fideicomiso Público Denomi
 
 II. Operadora: El Fideicomiso Público denominado "Operadora de Proyectos Estratégicos del Estado de Sonora";
 
-III. Contrato de Fideicomiso: El contrato de fideicomiso identificado con el número F/00168, celebrado entre el Gobierno del Estado de Sonora, por conducto de la Secretaría de Hacienda, y el Banco J.P. Morgan, S.A., Institución de Banca Múltiple, J.P. Morgan Grupo Financiero, el día 08 de abril de 2005 en la ciudad de Hermosillo, Sonora;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2012)</small>
 
-IV. Fiduciaria: El Banco J.P. Morgan, S.A.; Institución de Banca Múltiple, J.P. Morgan Grupo Financiero;
+III. Contrato de Fideicomiso: El contrato de fideicomiso identificado con el número F/00168, celebrado entre el Gobierno del Estado de Sonora, por conducto de la Secretaría de Hacienda, y el Banco J.P. Morgan, S.A., Institución de Banca Múltiple, J.P. Morgan Grupo Financiero, actualmente The Bank of New York Mellon, Sociedad Anónima, Institución de Banca Múltiple, el día 08 de abril de 2005 en la ciudad de Hermosillo, Sonora;
+
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2012)</small>
+
+IV. Fiduciaria: The Bank of New York Mellon, Sociedad Anónima, Institución de Banca Múltiple, causahabiente final universal de Banco J.P. Morgan, S.A.; Institución de Banca Múltiple, J.P. Morgan Grupo Financiero, División Fidufiaria (sic);
 
 V. Fideicomitente: El Gobierno del Estado de Sonora;
 
@@ -67,31 +71,25 @@ b) Fideicomisario en Segundo Lugar: Intermediarios financieros, incluyendo a ins
 
 VII. Reglamento: El Reglamento Interior del Fideicomiso Público Denominado "Operadora de Proyectos Estratégicos del Estado de Sonora".
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 4o.
 
-Para el cumplimiento de su objeto, la Operadora contará con los siguientes órganos y unidades administrativas:
+Para el cumplimiento de su objeto, la Operadora contará con un Comité Técnico que será la máxima autoridad, un Director General y las siguientes unidades administrativas:
 
-I. Órganos de Gobierno:
+I.- Coordinación Técnica de Desarrollo de Proyectos;
 
-- Un Comité Técnico, y
+II.- Dirección de Arquitectura e Imagen Urbana;
 
-- Un Director General.
+III.- Dirección de Análisis y Gestión Financiera;
 
-II. Unidades Administrativas:
+IV.- Dirección de Proyectos Regionales;
 
-- Coordinación General del Proyecto Costera;
+V.- Dirección de Promoción de Productos Inmobiliarios;
 
-- Coordinación General del Proyecto Guaymas;
+VI.- Dirección de Asuntos Jurídicos y Normatividad; y
 
-- Coordinación General del Proyecto Hermosillo;
-
-- Coordinación General del Proyecto Pasajes;
-
-- Coordinación General del Proyecto Software; y
-
-- Gerencia de Administración y Finanzas.
-
-- Se anexa organigrama estructural.
+VII.- Dirección de Administración y Finanzas.
 
 ###### ARTÍCULO 5º.
 
@@ -109,9 +107,11 @@ El Presidente y el Vicepresidente, tendrán la facultad de invitar a participar 
 
 Los suplentes de cada representante propietario, tendrán las mismas facultades que aquel en las sesiones del Comité Técnico, quienes deberán informar por escrito a los titulares que hubiesen suplido, sobre los temas tratados en la sesión a la que hayan asistido, los acuerdos tomados, así como cualquier otra circunstancia relevante que se haya suscitado durante el desarrollo de la misma.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 7o.
 
-Las sesiones serán convocadas por el Presidente o el Vicepresidente, indistintamente. Las sesiones ordinarias se llevarán a cabo de manera trimestral, en las fechas que sean acordadas por el Comité Técnico; las extraordinarias podrán celebrarse en cualquier momento.
+Las sesiones serán convocadas por el Presidente, el Vicepresidente o por el Secretario Técnico, indistintamente. Las sesiones ordinarias se llevarán a cabo de manera trimestral, en las fechas que sean acordadas por el Comité Técnico; las extraordinarias podrán celebrarse en cualquier momento.
 
 El calendario de las sesiones del Comité Técnico podrá ajustarse cuando se considere necesario a juicio del Presidente del Comité Técnico.
 
@@ -239,6 +239,10 @@ V. Someter a consideración del Comité Técnico, en la cuarta sesión ordinaria
 
 VI. Suscribir, conjuntamente con la Fiduciaria, una vez autorizado por el Comité Técnico, los contratos de fideicomiso señalados en la Cláusula Quinta, punto 7 del Contrato de Fideicomiso;
 
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2012)</small>
+
+VI BIS. Promover en el ámbito de su competencia, el manejo eficiente y responsable de los recursos de la Operadora y de sus fideicomisos auxiliares;
+
 VII. Representar legalmente a la Operadora en los términos de los poderes generales o especiales que le confiera la Fiduciaria, de conformidad con los acuerdos tomados por el Comité Técnico;
 
 VIII. Someter a la aprobación del Comité Técnico, el Reglamento, los manuales de organización y procedimientos, así como sus modificaciones;
@@ -255,199 +259,215 @@ XII. Aquellas que requiera para el mejor desempeño de las anteriores atribucion
 
 El Director General, de conformidad con las disposiciones aplicables, podrá contratar la asesoría externa que se requiera para la adecuada ejecución y desarrollo de los proyectos a cargo de la Operadora. Para tal efecto, deberá celebrar los contratos de prestación de servicios correspondientes, con aquellas personas físicas o morales que acrediten capacidad técnica en su área, en base a los procedimientos, criterios y lineamientos generales que habrán de seguirse para la selección y, en su caso, contratación de asesoría externa.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE OCTUBRE DE 2012)</small>
+
+### CAPÍTULO III BIS. DE LAS ATRIBUCIONES DE LA COORDINACIÓN TÉCNICA Y DE DESARROLLO DE PROYECTOS
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2012)</small>
+
+ARTÍCULO 20 BIS.- La Coordinación Técnica y de Desarrollo de Proyectos, estará adscrita a la Dirección General y le corresponden la conducción técnica y operativa de las unidades administrativas que estén bajo su adscripción, y será responsable ante el Director General de su correcto funcionamiento. Le corresponden las siguientes atribuciones genéricas:
+
+l.- Coordinar las acciones tendientes a identificar y apoyar nuevos proyectos detonadores del desarrollo urbano y de infraestructura en general;
+
+II.- Establecer relaciones con inversionistas estatales, nacionales y extranjeros a fin de promover hacia la entidad una mayor afluencia de inversiones en proyectos de infraestructura en general;
+
+III.- Brindar y gestionar apoyo técnico para la planeación estratégica y operativa de proyectos de inversión en bienes inmuebles que contribuyan al desarrollo de los proyectos estratégicos para el Estado de Sonora;
+
+IV.- Planear, coordinar, ejecutar, supervisar y evaluar en el ámbito de su competencia, el proceso de construcción de las obras de infraestructura que en su caso, se lleven a cabo por parte de la Operadora;
+
+V.- Participar de acuerdo a su competencia, en las licitaciones públicas de las obras públicas que en su caso, se lleven a cabo por parte de la Operadora;
+
+VI.- Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento de las Unidades Administrativas que se le adscriban, de acuerdo con los lineamientos que fije el Director General;
+
+VII.- Coordinar acciones con las demás Unidades Administrativas correspondientes de la Operadora, cuando resulte necesario para alcanzar el óptimo desarrollo de las acciones que sean competencia de la Operadora;
+
+VIII.- Acordar con el Director General de la Operadora, el despacho de los asuntos encomendados a las Unidades Administrativas adscritas a la Coordinación, e informarle oportunamente sobre el estado que guardan los mismos;
+
+IX.- Dictar las medidas necesarias para la modernización administrativa y mejora regulatoria de las Unidades Administrativas adscritas a la Coordinación;
+
+X.- Participar, en la esfera de su competencia, en la elaboración de los programas a cargo de la Operadora;
+
+XI.- Participar en la definición de políticas, lineamientos y criterios que se requieran para la formulación, revisión, actualización, seguimiento y evaluación de los programas y proyectos estratégicos que de ellos se deriven y de los correspondientes Programas Operativos Anuales;
+
+XII.- Formular e integrar el anteproyecto de Presupuesto de Egresos por Programas que corresponda a la Coordinación y verificar, una vez aprobado el mismo, su correcta y oportuna ejecución por parte de las Unidades Administrativas bajo su responsabilidad;
+
+XIII.- Proporcionar la información, los datos y la cooperación técnica que le sean solicitada, de conformidad con las políticas establecidas por el Director General;
+
+XIII.- Suscribir los documentos relativos al ejercicio de sus atribuciones y de aquellos que le sean señaladas por delegación o le correspondan por suplencia;
+
+XIV.- Evaluar y verificar periódicamente los resultados de las actividades de la Coordinación a su cargo, en función de los objetivos y prioridades definidos en los programas que se encuentren bajo su responsabilidad y adoptar, en su caso, las medidas necesarias para corregir las desviaciones que se hubieren detectado;
+
+XV.- Apoyar la coordinación y las tareas de planeación sectorial que correspondan a la Operadora, en el seno de los comités que existan para tal efecto;
+
+XVI.- Formular cuando así proceda, el Programa Anual de Obras Públicas y Servicios, señalado en el penúltimo párrafo del artículo 17 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas para el Estado de Sonora;
+
+XVII.- Fungir como área ejecutora de obras y Secretario Ejecutivo, en el Comité de Obras Públicas y Servicios de la Operadora;
+
+XVIII.- Recibir en acuerdo a los funcionarios y empleados adscritos a la Subsecretaría y conceder audiencias a los particulares, de conformidad con las políticas definidas al respecto;
+
+XIX.- Las demás que le señale el Director General, o le confieran otras disposiciones legales aplicables.
+
 ### CAPÍTULO IV. DE LAS ATRIBUCIONES GENÉRICAS DE LAS UNIDADES ADMINISTRATIVAS
 
-### CAPÍTULO V. DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS UNIDADES ADMINISTRATIVAS
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 21.
 
-Los titulares que estarán al frente de las unidades administrativas que constituyan a la Operadora, tendrán a su cargo la conducción técnica y administrativa de las mismas y serán responsables ante el Director General de su correcto funcionamiento. Dichos titulares serán auxiliados en la atención y despacho de los asuntos a su cargo, por el personal que las necesidades del servicio requiera y que aparezca en el presupuesto autorizado de la Operadora. Les corresponden las siguientes atribuciones genéricas:
+Al frente de cada una de las Direcciones, habrá un Director, los cuales tendrán a su cargo la conducción técnica y administrativa de las mismas y serán responsables de su correcto funcionamiento y serán auxiliados en la atención y despacho de los asuntos a su cargo, por el personal que las necesidades del servicio requiera y que aparezca en el presupuesto autorizado de la Operadora. Les corresponden las siguientes atribuciones genéricas:
 
 I. Organizar, dirigir, coordinar, controlar y evaluar el desempeño de las labores encomendadas a las distintas áreas que integren la unidad administrativa correspondiente;
 
-II. Formular los anteproyectos de programas y presupuestos que les correspondan y someterlos a la consideración del Director General;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2012)</small>
 
-III. Conducir sus actividades de acuerdo con los programas aprobados y las políticas que señale el Director General, para el logro de los objetivos y prioridades establecidos para la Operadora;
+II. Formular los anteproyectos de programas y presupuestos que les correspondan y someterlos a la consideración de su superior jerárquico;
 
-IV. Rendir los informes y formular los dictámenes, estudios y opiniones que solicite el Director General;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2012)</small>
+
+III. Conducir sus actividades de acuerdo con los programas aprobados y las políticas que señale su superior jerárquico, para el logro de los objetivos y prioridades establecidos para la Operadora;
+
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2012)</small>
+
+IV. Rendir los informes y formular los dictámenes, estudios y opiniones que solicite su superior jerárquico;
 
 V. Aplicar y vigilar el cumplimiento, en el área de su competencia, de las leyes, reglamentos, decretos, acuerdos, circulares, procedimientos y demás disposiciones relacionadas con los servicios y actividades de la competencia de la respectiva unidad administrativa, tomando las medidas adecuadas para prevenir y corregir la violación de esas normas y para la aplicación, en su caso, de las sanciones procedentes;
 
-VI. Acordar con el Director General los asuntos de la competencia de la unidad a su cargo;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2012)</small>
 
-VII. Someter a la consideración del Director General los proyectos de modernización y desarrollo administrativo de la unidad administrativa correspondiente, para su mejor funcionamiento y despacho de los asuntos a su cargo;
+VI. Acordar con su superior jerárquico los asuntos de la competencia de la unidad a su cargo;
+
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2012)</small>
+
+VII. Someter a la consideración de su superior jerárquico los proyectos de modernización y desarrollo administrativo de la unidad administrativa correspondiente, para su mejor funcionamiento y despacho de los asuntos a su cargo;
 
 VIII. Atender al público en los asuntos de la competencia de la unidad administrativa respectiva, y
 
 IX. Desempeñar las demás atribuciones que les confieran las distintas disposiciones legales y reglamentarias vigentes o les encomiende el Director General.
 
-### CAPÍTULO VI. DEL CONTROL Y VIGILANCIA
+### CAPÍTULO V. DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS UNIDADES ADMINISTRATIVAS
+
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 22.
 
-A la Coordinación General del Proyecto Costera le corresponden las siguientes atribuciones:
+La Dirección de Arquitectura e Imagen Urbana estará adscrita a la Coordinación Técnica y de Desarrollo de Proyectos, y le corresponden las siguientes atribuciones:
 
-I. Planear, dirigir, supervisar y evaluar las obras que conforman la carretera costera;
+I.- Identificar zonas estratégicas dentro del Estado de Sonora, donde su ágil transformación urbana propicie un impacto social y económico en beneficio de la comunidad;
 
-II. Integrar y evaluar la información relativa a los avances financieros y físicos, generada por las distintas dependencias que tengan a su cargo la obra carretera, y en general toda aquella información que esté vinculada con el avance de obra de los diferentes tramos carreteros;
+II.- Planear, evaluar, gestionar, realizar, dirigir, supervisar y promover todos aquellos proyectos urbano-arquitectónicos que representen un beneficio para la comunidad en general;
 
-III. Identificar y definir el trazo que corresponda a cada una de las etapas del proyecto carretero, en coordinación con instituciones en el ramo, con la finalidad de incidir en el mejor aprovechamiento de las diferentes regiones y favoreciendo al desarrollo económico y social;
+III.- Solicitar la información que se requiere a todas aquellas instancias del Poder Ejecutivo y demás órdenes de Gobierno, que por naturaleza de sus funciones estén directa o indirectamente vinculadas con la ejecución de proyectos de revitalización en imagen urbana;
 
-IV. Realizar los trabajos relativos a la planeación estratégica y de estructuración financiera de los tramos carreteros que así lo requieran;
+IV.- Ejecutar y supervisar por instrucciones de su superior jerárquico, los proyectos ejecutivos de obra de los diferentes proyectos estratégicos que realice la Operadora. Igualmente ser enlace de coordinación entre las diferentes instancias públicas y privadas que se involucran en la elaboración de dichos proyectos ejecutivos;
 
-V. Coordinar todas aquellas acciones que conlleven a la construcción de la carretera costera;
+V.- Gestionar con todos los sectores de la comunidad directa o indirectamente beneficiada por los proyectos de imagen urbana realizados por la Operadora, su aportación económica, en especie o ambas, al proyecto especifico a realizarse en la misma;
 
-VI. Gestionar con los propietarios de terrenos ubicados en las áreas de influencia de la obra carretera, la donación de terrenos a favor de la Operadora, con la finalidad de obtener infraestructura para impulsar la ejecución de los programas, proyectos y acciones estratégicas y prioritarias que son objeto de la Operadora;
+VI.- Proponer al Coordinador la celebración de convenios con instancias públicas y privadas cuyas propias actividades se realicen en beneficio de la ejecución de los proyectos de revitalización en imagen urbana que se realicen a través de la Operadora;
 
-VII. Identificar áreas territoriales sobre la zona de influencia de la carretera costera, que sean aptas para ser desarrolladas, con la finalidad de promoverlas ante inversionistas nacionales y extranjeros;
+VII.- Someter a consideración del Coordinador los proyectos de imagen urbana que están próximos a realizarse o ejecutarse; así como proponerle la contratación de despachos profesionales especializados en los diferentes ramos participantes en cada proyecto para que de esta manera sean cumplidos los objetivos establecidos en cada uno de ellos;
 
-VIII. Ser enlace entre los propietarios de terrenos beneficiados por la obra carretera e inversionistas potenciales con interés en realizar proyectos de inversión;
+VIII.- Fungir como área responsable de la contratación de obras públicas y servicios, en el Comité de Obras Públicas y Servicios de la Operadora;
 
-IX. Celebrar contratos de corretaje, comisión o intermediación con propietarios e inversionistas potenciales, nacionales o extranjeros, que muestren interés en realizar operaciones mercantiles en las áreas de influencia de la carretera costera;
+IX.- Brindar asesoría técnica para la planeación estratégica y operativa de los proyectos que se ejecutan en las distintas comunidades del Estado de Sonora, considerando sus potenciales culturales, naturales, turísticos y económicos, y
 
-X. Promover, impulsar y difundir en los sectores público, social y privado, la constitución, desarrollo y operación de fideicomisos o empresas dedicadas a la actividad turística, comercial e industrial, cualquiera que sea su naturaleza jurídica;
+X.- Las demás que le confieren las disposiciones legales aplicables y su superior jerárquico dentro de la esfera de sus atribuciones.
 
-XI. Gestionar y promover ante los entes públicos que correspondan, la agilización, y/o simplificación de trámites y permisos que se requieran para aquellos proyectos detonadores o de cualquier índole que sean en pro del desarrollo del corredor turístico carretero;
-
-XII. Impulsar proyectos de planificación y urbanización de los terrenos fideicomitidos, la venta de lotes y la creación de empresas turísticas o negocios conexos;
-
-XIII. Realizar todo tipo de tareas que en materia de mercadeo y publicidad resulten necesarias para promover ante la comunidad financiera e inversionista, nacional o internacional, la inversión en las zonas potenciales del corredor turístico carretero;
-
-XIV. Proponer al Director General la contratación de prestadores de servicios especializado en la realización de estudios e investigaciones, bases de datos, software y todos aquellos elementos que permitan cumplir con los objetivos de los proyectos de la manera más eficiente y que beneficien al mejoramiento económico y social de la zona de influencia de la carretera costera;
-
-XV. Brindar asistencia técnica para la planeación y operación de proyectos de inversión;
-
-XVI. Coordinarse con las diferentes instancias de gobierno u organismos privados para la formulación y evaluación de estudios de preinversión, para la integración de polos de desarrollo, a través de estudios de factibilidad técnica, planes maestros, proyectos arquitectónicos, urbanísticos, jurídicos, de factibilidad económica, financiera y de mercado;
-
-XVII. Procurar la colaboración interinstitucional para la promoción del corredor turístico carretero, en el ámbito nacional e internacional;
-
-XVIII. Apoyar a inversionistas nacionales o extranjeros que muestren interés por invertir en la zona de influencia del proyecto de la carretero costera; y
-
-XIX. Las demás que le atribuyan las distintas disposiciones legales aplicables o le encomiende el Director General.
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 23.
 
-A la Coordinación General del Proyecto Guaymas le corresponden las siguientes atribuciones:
+La Dirección de Análisis y Gestión Financiera estará adscrita a la Coordinación Técnica y de Desarrollo de Proyectos, y le corresponden las siguientes atribuciones:
 
-I. Conceptualizar, planear y evaluar proyectos estratégicos y económicos con impacto social, contribuyendo al mejoramiento de la calidad de vida de los habitantes de Guaymas y del Estado de Sonora;
+I.- Proponer la estructuración financiera de los proyectos a promoverse por parte de la Operadora, buscando en su caso, la restitución de los fondos aportados por el fideicomiso;
 
-II. Proponer al Director General la contratación y coordinación de estudios, planes maestros, proyectos ejecutivos, proyectos y estudios técnicos y asesorías para los proyectos estratégicos y detonadores conceptualizados por la Operadora;
+II.- Elaborar en el ámbito de su competencia directamente o a través de terceros, análisis de costo beneficio, estudios de preinversión y sustentabilidad financiera y, estudios de viabilidad económica y financiera de los proyectos de inversión que promueva la operadora;
 
-III. Formular planes de negocio, evaluaciones socioeconómicas, estudios costo beneficio y de factibilidad económica, así como estudios de preinversión y sustentabilidad financiera;
+III.- Promover la implementación del modelo Alianza Público Privada de Servicios, como esquema de financiamiento de proyectos a desarrollarse por parte de la Operadora, de igual forma, apoyar en coordinación con la Secretaría de Hacienda, los proyectos que en su caso, se ejecuten bajo esta modalidad;
 
-IV. Identificar las Inversiones públicas y privadas en la zona de influencia "IMPULSOR" Guaymas con el fin de buscar la integración y armonía con los proyectos detonadores del Estado;
+IV.- Promover la implementación de otros mecanismos alternativos para el financiamiento de los proyectos de infraestructura a cargo de la Operadora;
 
-V. Celebrar contratos de corretaje, comisión o intermediación mercantil con interesados en adquirir terrenos dentro de las Marinas con el fin de comercializar los mismos y allegar recursos a la Operadora;
+V.- Implementar y operar, metodologías de evaluación financiera de proyectos que permitan asignar mayor inversión con alta rentabilidad social y económica;
 
-VI. Solicitar información técnica y apoyos necesarios a las instancias públicas, privadas y sociales que se encuentren relacionadas con los proyectos de Guaymas;
+VI.- Gestionar y dar seguimiento a las solicitudes formuladas por la Operadora, relacionadas con la obtención de fondos locales, nacionales y extranjeros tendientes a la ejecución de proyectos específicos a cargo de la Operadora, de conformidad con la normatividad aplicable;
 
-VII. Gestionar ante las autoridades federales, estatales y municipales para obtener todo tipo de autorizaciones, permisos, concesiones y licencias, para el desarrollo de los proyectos;
+VII.- Operar los programas o fondos de apoyo asignados a la Operadora que permitan financiar proyectos detonadores del desarrollo de infraestructura del Estado, y
 
-VIII. Realizar estrategias de promoción y difusión de los proyectos estratégicos, así como la coordinación con las figuras de los tres niveles de Gobierno encargadas en la promoción económica;
+VIII.- Las demás que le atribuyan las distintas disposiciones legales aplicables o le encomiende el Director General.
 
-IX. Mostrar capacidad para adaptar y planear los proyectos estratégicos en base a la necesidad plasmada por el inversionista potencial que pretenda asociarse con la Operadora, siempre y cuando el objetivo detonador del proyecto permanezca o mejore;
-
-X. Brindar y gestionar apoyo técnico para la planeación estratégica y operativa de proyectos de inversión en bienes inmuebles que contribuyan al desarrollo de los proyectos estratégicos de Guaymas;
-
-XI. Gestionar para la adquisición de bienes inmuebles privados o públicos que contribuyan o se integren dentro de los proyectos estratégicos;
-
-XII. Promover en los sectores públicos, sociales y privados la conformación y operación de fideicomisos, empresas o cualquier figura legalmente constituida que contribuya al desarrollo de proyectos estratégicos para Guaymas;
-
-XIII. Contratar empresas y despachos con la especialidad en la promoción y corretaje de proyectos inmobiliarios bajo una comisión de venta que se fijará y autorizará por el Comité Técnico de la Operadora; y
-
-XIV. Las demás que le confieren las disposiciones jurídicas aplicables y el Director General dentro de la esfera de sus atribuciones.
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 24.
 
-A la Coordinación General del Proyecto Hermosillo le corresponden las siguientes atribuciones:
+La Dirección de Proyectos Regionales, estará adscrita a la Coordinación Técnica y de Desarrollo de Proyectos, y le corresponden las siguientes atribuciones:
 
-l. Analizar, evaluar y definir proyectos estratégicos que contribuyan al desarrollo, mejoramiento social y económico de la ciudad de Hermosillo;
+I.- Promover y coordinar el seguimiento a proyectos de Infraestructura detonadores con impacto en más de un Municipio del Estado o, de alta especialidad técnica;
 
-II. Coordinar, promover y supervisar programas, obras y acciones que sean parte de los proyectos estratégicos definidos para Hermosillo;
+II.- Coordinar la ejecución y supervisión de proyectos de infraestructura con participación mayoritaria de los gobiernos federal y municipal, en términos de los convenios correspondientes;
 
-III. Solicitar la información y apoyos que se requiera a las instancias, públicas, privadas y sociales que estén relacionadas con los proyectos estratégicos para Hermosillo;
+III.- Coordinar y dar seguimiento en el ámbito de su competencia, a proyectos de infraestructura carretera, portuaria y aeroportuaria donde la Operadora tenga alguna participación;
 
-IV. Coordinarse, con las dependencias y entidades estatales, federales y municipales, para obtener y simplificar las autorizaciones, permisos o concesiones necesarias que permitan el desarrollo de proyectos estratégicos para Hermosillo;
+IV.- Coordinar y apoyar a las áreas ejecutoras de infraestructura de los Ayuntamientos de los Municipios del Estado, en los proyectos estratégicos y detonadores que realicen conjuntamente con la Operadora, en términos de los convenios correspondientes;
 
-V. Identificar, gestionar y adquirir bienes inmuebles que contribuyan al desarrollo de proyectos estratégicos, definiendo esquemas para la habilitación, comercialización, donación, o cualquier tipo de enajenación de suelo urbanizable y urbanizado que contribuya al desarrollo urbano;
+V.- Proponer ante las instancias correspondientes de los tres niveles de gobierno, el desarrollo y mejora de la infraestructura para cruces fronterizos en el Estado, y
 
-VI. Promover en los sectores públicos, sociales y privados la conformación y operación de fideicomisos, empresas o cualquier figura legalmente constituida que contribuyan al desarrollo de Proyectos Estratégicos para Hermosillo;
+VI.- Las demás que le atribuyan las distintas disposiciones legales aplicables o le encomiende el Director General.
 
-VII. Participar en los fideicomisos que se conformen con la finalidad de operar los proyectos estratégicos para Hermosillo, de tal manera que en base a lo establecido por las instituciones fiduciarias, poder someter a consideración acciones, proyectos y obras referentes al mejor aprovechamiento del patrimonio de cada Fideicomiso;
-
-VIII. Realizar todo tipo de promoción y difusión de los proyectos estratégicos a su cargo;
-
-IX. Proponer al Director General la contratación de despachos especializados para el cumplimiento de sus fines;
-
-X. Brindar y gestionar apoyo técnico para la planeación estratégica y operativa de proyectos de inversión en bienes inmuebles que contribuyan al desarrollo de los proyectos estratégicos para Hermosillo;
-
-XI. Coordinarse con las distintas dependencias de gobierno para la formulación y evaluación de estudios para la conformación de polos de desarrollos integrales en Hermosillo, a través de estudios de factibilidad técnica, de mercado, económica y financiera;
-
-XII. Proponer al Director General la contratación de estudios, análisis e investigaciones que sean necesarios para el diseño y operación de los programas y proyectos estratégicos para Hermosillo;
-
-XIII. Impulsar esquemas de estructuración legal e ingeniería financiera para la puesta en marcha de los proyectos detonadores del desarrollo económico y sustentable de la región; y
-
-XIV. Las demás que le confieren las disposiciones jurídicas aplicables y el Director General dentro de la esfera de sus atribuciones.
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 25.
 
-A la Coordinación General del Proyecto Pasajes le corresponden las siguientes atribuciones:
+La Dirección de Promoción de Productos inmobiliarios estará adscrita a la Dirección General, y le corresponden las siguientes atribuciones:
 
-I. Identificar zonas estratégicas dentro del Estado de Sonora, donde su ágil transformación propicien un impacto en la economía de las localidades;
+I.- Identificar predios susceptibles de desarrollarse por parte de la Operadora;
 
-II. Planear, gestionar, dirigir, supervisar y evaluar todos aquellos proyectos donde los objetivos de Pasajes representen un beneficio para la comunidad en general;
+II.- Promover el control, conservación, administración y protección del patrimonio inmobiliario de la Operadora y de sus fideicomisos auxiliares;
 
-III. Solicitar la información que se requiere a todas aquellas instancias del Poder Ejecutivo y demás órdenes de Gobierno, que por naturaleza de sus funciones estén directa y/o indirectamente vinculadas con la ejecución de proyectos de regeneración en Imagen Urbana; así como también con aquellas cuyos programas propicien el desarrollo integral de los habitantes y de las economías regionales del Estado de Sonora;
+III.- Negociar, coordinar y preparar las operaciones inmobiliarias de la Operadora y de sus fideicomisos auxiliares, hasta antes de la suscripción de los contratos y convenios correspondientes;
 
-IV. Realizar, promover y ejecutar los proyectos de Pasajes ante la comunidad en general;
+IV.- Integrar y mantener actualizado el inventario del patrimonio inmobiliario de la Operadora y de sus fideicomisos auxiliares;
 
-V. Gestionar con todos los sectores de la comunidad beneficiada por el proyecto Pasajes su aportación económica y/o en especie al proyecto;
+V.- Verificar y mantener actualizado el registro de operaciones inmobiliarias realizadas por la Operadora o cualquiera de sus fideicomisos auxiliares;
 
-VI. Ser enlace de coordinación entre las diferentes instancias públicas y privadas que se involucran en la ejecución de los proyectos de Pasajes;
+VI.- Promover en coordinación con la Dirección de Asuntos Jurídicos y Normatividad y ante la Comisión Estatal de Bienes y Concesiones, la regularización de inmuebles susceptibles de desarrollarse por parte de la Operadora o por parte de sus fideicomisos auxiliares, y
 
-VII. Proponer al Director General la celebración de convenios con instancias públicas y privadas para la ejecución de los proyectos;
+VII.- Las demás que le atribuyan las distintas disposiciones legales aplicables o le encomiende el Director General.
 
-VIII. Promover, en coordinación con las instancias competentes, entre los diferentes sectores sociales, el fomento, la constitución, el desarrollo y la operación de empresas dedicadas a la actividad turística, donde la conservación de la cultura sonorense en todas sus expresiones sea un objetivo común;
-
-IX. Someter a consideración del Director General los proyectos de Pasajes que están por ejecutarse; así como proponerle la contratación de despachos especializados que complementen los fines de cada uno;
-
-X. Brindar asesoría técnica para la planeación estratégica y operativa de los proyectos que se ejecutan en las distintas comunidades del Estado de Sonora; y
-
-XI. Las demás que le confieren las disposiciones jurídicas aplicables y el Director General dentro de la esfera de sus atribuciones.
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 26.
 
-A la Coordinación General del Proyecto Software le corresponden las siguientes atribuciones:
+La Dirección de Asuntos Jurídicos y Normatividad, estará adscrita al Director General y le corresponden las siguientes atribuciones:
 
-I. Coordinar la definición de la estrategia global para la industria de Tecnologías de Información (TI) en el Estado, con la participación de los tres niveles de Gobierno, de Instituciones Educativas y de la Iniciativa Privada;
+I.- Representar al Director General de la Operadora, previa delegación expresa que realice este último a su favor, en los procedimientos judiciales y administrativos en los que tenga injerencia la Operadora, formulando demandas, denuncias o querellas y dando contestación y seguimiento a las demandas y reclamaciones en general que lleguen a formularse en su contra;
 
-II. Definir y diseñar los proyectos que ayuden a crear las condiciones necesarias para la atracción de inversión en la industria de Tecnologías de Información al Estado;
+II.- Fijar, sistematizar, unificar y difundir los criterios de interpretación y de aplicación de las leyes, reglamentos, decretos, acuerdos y demás disposiciones jurídicas y normativa que regulen el funcionamiento de la Operadora, de conformidad con las normas, lineamientos y criterios específicos que determine el Director General;
 
-III. Impulsar la realización de proyectos de beneficio a empresas de la industria de Tecnologías de Información y de instituciones educativas con planes afines;
+III.- Coordinar la implementación de mecanismos que contribuyan a garantizar a los ciudadanos el acceso a la información pública de la Operadora en el marco de lo dispuesto por la Ley de Acceso a la Información Pública del Estado de Sonora y la normatividad aplicable;
 
-IV. Coordinar a los consultores, asesores, arquitectos, abogados en la elaboración de planes de negocio, proyectos ejecutivos y figuras jurídicas, entre otros, que en su momento se contraten;
+IV.- Fungir como Titular de la Unidad de Enlace de la Operadora, conforme a lo previsto en la Ley de Acceso a la Información Pública del Estado de Sonora;
 
-V. Gestionar recursos ante los diferentes niveles de gobierno y la Iniciativa Privada, para impulsar la realización de proyectos en materia de Tecnologías de Información, buscando la autosuficiencia financiera de los propios proyectos;
+V.- Coadyuvar, con la Dirección General, en la clasificación de la información pública de conformidad con los criterios establecidos en la Ley de Acceso a la Información Pública del Estado de Sonora;
 
-VI. Atender a los inversionistas y la realización de viajes de promoción;
+VI.- Elaborar los contratos y convenios que celebre o intervenga el Director General de la Operadora;
 
-VII. Relacionarse con las distintas dependencias estatales y federales que de alguna manera participan en el proyecto, como son la Secretaría de Economía, la Secretaría de Educación y Cultura, la Secretaría de Infraestructura Urbana y Ecología, entre otras;
+VII.- Poner a consideración del Director General de la Operadora, las actas correspondientes a las sesiones del Comité Técnico de la Operadora y de sus fideicomisos auxiliares;
 
-VIII. Definir las estrategias específicas para la Industria en el Estado;
+VIII.- Realizar los estudios y emitir las opiniones y dictámenes de las consultas de carácter jurídico que le sean formuladas por el Comité Técnico, el Director General o por los responsables de las Unidades Administrativas de la Operadora;
 
-IX. Supervisar la ejecución y operación de los proyectos apoyados en coordinación con los operadores de los mismos;
+IX.- Instrumentar tanto los informes previos y justificados a cargo del Director General de la Operadora, como los ofrecimientos de pruebas, alegatos y recursos que deban interponerse en los Juicios de Amparo en los que la Operadora o sus fideicomisos auxiliares fueren parte, e intervenir en el cumplimiento de las resoluciones respectivas;
 
-X. Coordinar con las autoridades federales, estatales y municipales las gestiones necesarias para obtener y simplificar las autorizaciones, permisos o concesiones que permitan el desarrollo de infraestructura necesaria para detonar la industria de Tecnologías de Información en el Estado;
+X.- Dar seguimiento ante quien corresponda, a la regularización de inmuebles susceptibles de desarrollarse por parte de la Operadora o por parte de sus fideicomisos auxiliares;
 
-XI. Realizar todo tipo de promoción y publicidad de los proyectos y programas a su cargo;
+XI.- Dar seguimiento a las acciones de tipo jurídico, encomendadas a abogados patronos en las que sea parte de la Operadora o sus fideicomisos auxiliares;
 
-XII. Proponer al Director General la contratación de despachos especializados para el cumplimiento de los fines del proyecto; y
+XII.- Elaborar el proyecto del Reglamento Interior de la Operadora y sus modificaciones, y
 
-XIII. Las demás que le confieren las disposiciones jurídicas aplicables y el Director General dentro de la esfera de sus atribuciones.
+XIII.- Las demás que le atribuyan las distintas disposiciones legales aplicables o le encomiende el Director General.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 27.
 
-A la Gerencia de Administración y Finanzas le corresponden las siguientes atribuciones:
+A la Dirección de Administración y Finanzas le corresponden las siguientes atribuciones:
 
 I. Formular y someter, a consideración del Director General, la política de administración interna de la Operadora y conducirla en los términos aprobados;
 
@@ -473,15 +493,27 @@ XI. Llevar a cabo, semestralmente, una relación de todos los bienes en numerari
 
 XII. Proporcionar apoyo administrativo en materia de personal, servicios generales, conservación y mantenimiento de bienes muebles e inmuebles, así como de adquisiciones y suministros que requiera la Operadora;
 
-XIII. Elaborar y mantener actualizados, de manera permanente, los manuales de organización y de operación de la Operadora;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2012)</small>
 
-XIV. Asistir a las sesiones del Comité Técnico cuando sea requerido y presentar los informes que se le soliciten;
+XIII. Elaborar los proyectos de manuales de organización y de procedimientos, de la Operadora;
 
-XV. Coadyuvar, con el Director General, en la clasificación de la información pública de conformidad con los criterios establecidos en la Ley de Acceso a la Información Pública del Estado de Sonora; y
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2012)</small>
 
-XVI. Las demás que le confieren las disposiciones jurídicas aplicables y el Director General dentro de la esfera de sus atribuciones.
+XIV. Ejecutar transferencias presupuestales necesarias para la operación de los programas de su responsabilidad, de conformidad con la normatividad aplicable;
 
-### CAPÍTULO VII. DE LA SUPLENCIA DE FUNCIONARIOS
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2012)</small>
+
+XV. Administrar eficientemente y eficazmente los rendimientos obtenidos por inversiones realizadas por la Operadora, los subsidios de cualquier naturaleza, ingresos obtenidos por la realización de servicios, actos jurídicos, bienes y derechos adquiridos y los recursos que se obtengan por cualquier otro concepto legal;
+
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2012)</small>
+
+XVI. Coordinar la elaboración de la contabilidad de la Operadora y, en su caso, de sus fideicomisos auxiliares, y
+
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2012)</small>
+
+XVII. Las demás que le confieren las disposiciones jurídicas aplicables y el Director General dentro de la esfera de sus atribuciones.
+
+### CAPÍTULO VI. DEL CONTROL Y VIGILANCIA
 
 ###### ARTÍCULO 28.
 
@@ -503,7 +535,7 @@ El Comité Técnico y demás dependientes jerárquicos de éste, proporcionarán
 
 El titular del Órgano de Control y Desarrollo Administrativo y los Comisarios Públicos Oficial y Ciudadano, previa citación que por escrito se les formule en los términos del artículo 8° del presente Reglamento, asistirán, con voz pero sin voto, a las sesiones ordinarias y extraordinarias del Comité Técnico.
 
-### CAPÍTULO VIII. DE LOS RECURSOS PÚBLICOS Y PRIVADOS
+### CAPÍTULO VII. DE LA SUPLENCIA DE FUNCIONARIOS
 
 ###### ARTÍCULO 33.
 
@@ -513,7 +545,7 @@ Durante las ausencias del Director General, el despacho y la resolución de los 
 
 En las ausencias de uno o varios de los titulares de las unidades administrativas, éstos serán suplidos por los funcionarios que designe el Director General.
 
-### CAPÍTULO IX. DE LA OBTENCIÓN DE RECURSOS PRIVADOS
+### CAPÍTULO VIII. DE LOS RECURSOS PÚBLICOS Y PRIVADOS
 
 ###### ARTÍCULO 35.
 
@@ -525,7 +557,7 @@ Se considerarán recursos privados, aquellos que la Operadora obtenga de la inic
 
 Para efectos de mantener un estricto control administrativo, la Operadora, en coordinación con la Fiduciaria, mantendrá permanentemente actualizados los estados financieros con la finalidad de conocer en todo momento, con exactitud, la cantidad de recursos públicos y privados que se aglutinen en las cuentas y subcuentas de la Operadora.
 
-### CAPÍTULO X. DE LA INVERSIÓN DE LOS RECURSOS
+### CAPÍTULO IX. DE LA OBTENCIÓN DE RECURSOS PRIVADOS
 
 ###### ARTÍCULO 37.
 
@@ -543,7 +575,7 @@ En todo caso, el Comité Técnico se cerciorará, por los medios que resulten id
 
 Corresponderá al Director General la obligación de presentar al Comité Técnico, para su debida aprobación, los proyectos de aportaciones a realizar por la iniciativa privada.
 
-### CAPÍTULO XI. SOBRE LA CONSTITUCIÓN DE FIDEICOMISOS
+### CAPÍTULO X. DE LA INVERSIÓN DE LOS RECURSOS
 
 ###### ARTÍCULO 41.
 
@@ -571,6 +603,8 @@ Los rendimientos que se obtengan de las inversiones no podrán ser destinados a 
 
 El Director General de la Operadora someterá a consideración del Comité Técnico, los estados de cuenta de las inversiones hechas por la misma y, en general, la situación financiera que priva en la Operadora, de conformidad con lo dispuesto en el presente Reglamento.
 
+### CAPÍTULO XI. SOBRE LA CONSTITUCIÓN DE FIDEICOMISOS
+
 ###### ARTÍCULO 47.
 
 La Operadora podrá constituir contratos de fideicomisos con la finalidad de promover el desarrollo de los proyectos a su cargo. Para tal efecto, el Comité Técnico instruirá a la Fiduciaria, para que ésta, en nombre de la Operadora celebre, conjuntamente con el Director General, los respectivos contratos de fideicomiso con aquellas instituciones bancarias que se le instruyan.
@@ -585,9 +619,11 @@ En todo momento, el patrimonio de los fideicomisos constituidos será operado ba
 
 Todos aquellos fideicomisos que se deriven de los contratos que celebre la Operadora, con el objeto de que se constituyan para el desarrollo y apoyo de los proyectos a cargo de la misma, serán operados bajo la responsabilidad exclusiva de sus fideicomitentes e instituciones fiduciarias.
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 50.
 
-Será el Director General quien, con previa autorización del Comité Técnico, girará las correspondientes instrucciones a la Fiduciaria para efectos de ejecutar los acuerdos tomados por el mismo. Dicha atribución podrá recaer, cuando así lo considere pertinente el Comité Técnico, en el Gerente de Administración y Finanzas.
+Será el Director General quien, con previa autorización del Comité Técnico, girará las correspondientes instrucciones a la Fiduciaria para efectos de ejecutar los acuerdos tomados por el mismo. Dicha atribución podrá recaer, cuando así lo considere pertinente el Comité Técnico, en el Director de Administración y Finanzas.
 
 ## TRANSITORIOS
 
@@ -628,3 +664,21 @@ Gerencia
 Administración
 
 y Finanzas
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 8 DE OCTUBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Todos aquellos proyectos que hayan sido aprobados por el Comité Técnico con antelación a la entrada en vigor del presente Decreto, estarán a cargo y serán ejecutados por funcionario que determine expresamente el Director General.
+
+De igual forma, todos los asuntos que se encuentren en trámite iniciados por alguna de las unidades administrativas que con motivo del presente Decreto se modifican o extinguen, podrán ser continuados hasta su conclusión por el titular de la unidad administrativa que el Director General determine.
+
+###### ARTÍCULO TERCERO
+
+Los manuales de organización y de procedimientos, deberán adecuarse dentro de los sesenta días posteriores a la publicación del presente Decreto. En tanto se realicen las adecuaciones pertinentes a los referidos manuales, el Director General de la Operadora queda facultado para resolver las cuestiones que se presenten sobre el particular.
