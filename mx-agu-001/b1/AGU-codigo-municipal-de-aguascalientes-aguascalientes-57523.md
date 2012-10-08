@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2012-09-10"
+last_updated: "2012-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,13 +25,13 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2012.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
 C.P. MARTÍN OROZCO SANDOVAL, Presidente Municipal de Aguascalientes, en ejercicio de las facultades contenidas en los Artículos 16, 38, fracciones I y II de la Ley Municipal para el Estado de Aguascalientes; y las demás propias de su cargo, a los habitantes del Municipio de Aguascalientes hace saber que el Honorable Ayuntamiento ha tenido a bien aprobar y consecuentemente expedir el:
 
-CÓDIGO MUNICIPAL DE AGUASCALlENTES
+CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
 # LIBRO PRIMERO. DISPOSICIONES GENERALES
 
@@ -69,15 +69,81 @@ A la Delegación Urbana Insurgentes pertenece lo siguiente: Fraccionamiento El E
 
 A la Zona Centro pertenece lo siguiente: Fraccionamiento Circunvalación Norte, Colonia Francisco Guel Jiménez, Desarrollo Especial Talleres de Ferrocarril, Colonia Gremial, INFONAVIT Las Viñas, Colonia Industrial, Condominio Rinconada Cristal, Colonia Buenos Aires, Fraccionamiento El Sol, Colonia San Pablo, Colonia Altavista, Colonia Miravalle, Fraccionamiento Primavera, Unidad Habitacional Torres Las Bugambilias, Colonia La Fe, Colonia del Trabajo, Fraccionamiento Zona Centro, Colonia del Carmen, Fraccionamiento Ferronales, Barrio de Guadalupe, Colonia Ferronales, Barrio de la Estación, Barrio de la Purísima, Colonia Heliodoro García, Condominio Guadalupe Posada, Fraccionamiento Gómez, Colonia Héroes, Unidad Habitacional Guadalupe Posada, Barrio de San Marcos, Barrio del Encino, Colonia El Llanito, Fraccionamiento Gámez, Fraccionamiento La Huerta, Colonia San Luis, Fraccionamiento Jardines de la Cruz, Colonia Obraje, Barrio de la Salud, Zona de la Feria, Fraccionamiento Modelo, Condominio Residencial El Encino, Colonia La Luna, Unidad Habitacional Lázaro Cárdenas, Colonia Las Flores, Unidad Habitacional Vivienda Militar, INFONAVIT San Fernando, Fraccionamiento Residencial El Encino, Condominio Virreyes, Unidad Habitacional Vivienda Popular, Fraccionamiento Héroes de Aguascalientes, Fraccionamiento Circunvalación Poniente, Unidad Habitacional IV Centenario, Fraccionamiento Triana, Jardines de Triana, Fraccionamiento SIDUSA, Fraccionamiento Las Fuentes, Fraccionamiento Los Cedros, Fraccionamiento Jesús Terán, Condominio Triana, Colonia Laurel, Fraccionamiento Santa Elena, Fraccionamiento Las Américas, Fraccionamiento Lindavista, Fraccionamiento El Caminero y Fraccionamiento Boulevard.
 
-### CAPÍTULO II. Nombre y Escudo
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE OCTUBRE DE 2012)</small>
+
+### CAPÍTULO II. Del Nombre Oficial y Escudo de Armas del Municipio
+
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 4°.
 
-El Escudo del Municipio de Aguascalientes está cuartelado en cruz. El primer cuartel está partido en dos palos, en el siniestro hay una columna jónica de oro en campo de gules; en el diestro, una estrella de plata de cinco picos en campo de azur. El segundo cuartel tiene una rueda dentada en colores naturales sobre campo de oro. El tercer cuartel tiene una granada entreabierta, pintada en colores naturales sobre campo de sinople. El cuarto cuartel una imagen de fuego, pintado en colores naturales sobre campo fajado en dieciséis piezas de azur y plata. El escudo lleva un escusón sobre el todo, el cual tiene una bordura de esmalte púrpura, la cual ostenta en la parte superior la fecha "1575" y lleva, además, doce bezantes de oro, en el escusón pintada en colores naturales está la Virgen de Nuestra Señora de la Asunción. Remata el escudo un león alado que tiene la pata siniestra sobre los evangelios y está pintado con colores naturales. Bordea el escudo lateral e inferiormente, un listón de colores naturales en el que figura como divisa impresa una inscripción latina que dice: "Virtus in Aquis. Fidelitas in Pectoribus". Bajo el Escudo se asentará la leyenda "H. Ayuntamiento" seguido del Periodo Constitucional.
+“Aguascalientes” es el nombre oficial del Municipio conforme a lo preceptuado por el artículo 9° de la Constitución Política del Estado de Aguascalientes.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2012)</small>
+
+###### ARTÍCULO 4°
+
+BIS.- El Escudo de Armas representa la historia, costumbres, idiosincrasia y valores de la sociedad capitalina, por lo que se considera una insignia heráldica y distintivo propio de:
+
+I. El Municipio;
+
+II. El H. Ayuntamiento Constitucional del Municipio de Aguascalientes; y
+
+III. Las Dependencias y Entidades que conforman la Administración Pública Municipal.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2012)</small>
+
+###### ARTÍCULO 4°
+
+TER.- El Escudo de Armas consta de los siguientes elementos heráldicos:
+
+I. Escudo en forma francesa cuartelado en cruz;
+
+II. Primer cuartel partido: primera partición de gules con una columna jónica de oro; segunda partición de azur y una estrella de plata de cinco puntas;
+
+III. Segundo cuartel de oro y rueda dentada de plata (contraviniendo las leyes heráldicas de colocar esmalte sobre esmalte o metal sobre metal);
+
+IV. Tercer cuartel de sinople con una granada entreabierta de su color natural, con sus granos de gules y hojado de lo mismo;
+
+V. Cuarto cuartel fajado de dieciséis piezas, ocho de azur y ocho de plata, sobre el mismo una hoguera de su color;
+
+> <small>N. DE E. VÉASE IMÁGEN EN EL P.O. DE 8 DE OCTUBRE DE 2012, PÁGINA 15.</small>
+
+VI. Brochante sobre el todo, un escusón de azur en el que aparece el misterio de la Asunción de Nuestra Señora, de su color natural (carnación). La punta del escusón mojada de oro. Bordura de púrpura con doce bezantes de oro y en la parte superior la cifra de 1575;
+
+VII. El Escudo tiene como cimera el león del evangelista San Marcos, de color natural y alado de plata, que apoya su garra diestra sobre el libro de los Evangelios y cuya lectura no se presenta al espectador. Esta cimera surmontada sobre una cornisa; y
+
+VIII. El escudo está orlado por una filacteria de plata en la que aparece el logogrifo latino en letras de sable: “VIRTUS IN AQUIS. FIDELITAS IN PECTORIBUS”.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2012)</small>
+
+###### ARTÍCULO 4°
+
+QUATER.- De la composición heráldica anterior, el Escudo de Armas es el siguiente, tanto en su versión a colores como en su versión a una tinta:
+
+> <small>N. DE E. VÉASE IMÁGEN EN EL P.O. DE 8 DE OCTUBRE DE 2012, PÁGINA 15.</small>
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2012)</small>
+
+###### ARTÍCULO 4°
+
+QUINQUIES.- Bajo el Escudo de Armas se asentará la leyenda “H. Ayuntamiento Constitucional del Municipio de Aguascalientes”, seguido del periodo constitucional. Dicha leyenda se entenderá como nombre oficial del H. Ayuntamiento.
+
+El Escudo de Armas se guardará y empleará con el debido respeto por el H. Ayuntamiento, las Dependencias y Entidades, así como la población en general.
+
+Cada administración municipal en turno podrá utilizar, de manera alterna al Escudo de Armas, un logotipo oficial y un eslogan institucional inéditos que le permitan identificarse tanto en su organización interna como ante la sociedad.
+
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 5°.
 
-Todas las oficinas públicas municipales deberán exhibir el Escudo del Municipio. Se deberá utilizar además en toda la papelería que utilice el gobierno municipal, pudiendo usarse adicionalmente otro logotipo que distinga a determinada administración municipal. La utilización del Escudo o nombre del Municipio con fines publicitarios o de identificación de negocios, empresas privadas o con cualquier otro objeto, deberá realizarse previo permiso y pago de derechos al Municipio, para tal efecto, deberá llevarse el libro de registros correspondientes.
+Las características, uso, difusión, reproducción e interpretación del Escudo de Armas, así como cualquier falta de respeto y/o uso indebido del mismo, quedarán determinados en el Reglamento del Escudo de Armas del Municipio de Aguascalientes.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2012)</small>
+
+###### ARTÍCULO 5°
+
+BIS.- Queda prohibido el uso y reproducción de blasones heráldicos y sellos distintos al establecido en el presente Código Municipal, así como cualquier supresión y/o añadidura de figuras o elementos heráldicos y/o gráficos que rompan con la estética y armonía del mismo. Asimismo, queda prohibida cualquier alteración morfológica y/o añadidura de palabras distintas a las instituidas como nombre oficial del H. Ayuntamiento.
 
 ### CAPÍTULO III. Fines del Municipio
 
@@ -409,7 +475,7 @@ Los Regidores y Síndicos que no hubieren asistido a esta Sesión deberán rendi
 
 IV. Acto continuo el Presidente Municipal hará la declaración de instalación en los términos siguientes:
 
-El H. Ayuntamiento del Municipio de Aguascalientes, se declara legalmente instalado para el Periodo Constitucional del 1° de enero de… al 31 de diciembre de ......
+El H. Ayuntamiento del Municipio de Aguascalientes, se declara legalmente instalado para el Periodo Constitucional del 1° de enero de… al 31 de diciembre de ....
 
 V. Por último el Presidente Municipal podrá dar a conocer los lineamientos generales de su Administración Pública Municipal.
 
@@ -519,7 +585,7 @@ El miembro del H. Ayuntamiento que no hubiere sido citado a una Sesión de Cabil
 
 ###### ARTÍCULO 31.
 
-El Informe Anual de Gobierno del Presidente Municipal, será llevado a cabo en Sesión Solemne de Cabildo a celebrarse a más tardar en el mes de diciembre de cada año. El formato así como el orden del día de este tipo de sesiones serán acordadas por el Cabildo en sesión previa a la misma, pero en todo caso contendrá la participación de dos integrantes del Ayuntamiento, uno de extracción partidista del Primer Edil y otro más de entre los miembros de la oposición. En todas (sic) los casos, los integrantes del Ayuntamiento que participen en el Informe deberán ser de sexo distinto. Dicho informe deberá señalar todas las acciones realizadas por la Presidencia encaminadas a la protección de la equidad de género.
+El Informe Anual de Gobierno del Presidente Municipal, será llevado a cabo en Sesión Solemne de Cabildo a celebrarse a más tardar en el mes de diciembre de cada año. El formato así como el orden del día de este tipo de sesiones serán acordadas (sic) por el Cabildo en sesión previa a la misma, pero en todo caso contendrá la participación de dos integrantes del Ayuntamiento, uno de extracción partidista del Primer Edil y otro más de entre los miembros de la oposición. En todas (sic) los casos, los integrantes del Ayuntamiento que participen en el Informe deberán ser de sexo distinto. Dicho informe deberá señalar todas las acciones realizadas por la Presidencia encaminadas a la protección de la equidad de género.
 
 ###### ARTÍCULO 32.
 
@@ -2609,15 +2675,11 @@ Del Consejo por la Equidad Laboral y la Comisión para la Erradicación de la Vi
 
 > <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2012)</small>
 
-###### ARTÍCULO 138 Bis.
-
-El Consejo por la Equidad Laboral tiene por objeto establecer la coordinación entre las dependencias y entidades de la administración pública municipal, a fin de implementar políticas y acciones para prevenir y erradicar la violencia laboral, así como los principios y modalidades para garantizar su acceso a un espacio laboral libre de violencia que favorezca el desarrollo y bienestar conforme a los principios de igualdad y no discriminación que permitan un desarrollo integral en las funciones y actividades que se desarrollan dentro de la administración pública municipal.
+ARTÍCULO 138 BIS.- El Consejo por la Equidad Laboral tiene por objeto establecer la coordinación entre las dependencias y entidades de la administración pública municipal, a fin de implementar políticas y acciones para prevenir y erradicar la violencia laboral, así como los principios y modalidades para garantizar su acceso a un espacio laboral libre de violencia que favorezca el desarrollo y bienestar conforme a los principios de igualdad y no discriminación que permitan un desarrollo integral en las funciones y actividades que se desarrollan dentro de la administración pública municipal.
 
 > <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2012)</small>
 
-###### ARTÍCULO 138 Ter.
-
-El Consejo por la Equidad Laboral tendrá como atribuciones las siguientes:
+ARTÍCULO 138 TER.- El Consejo por la Equidad Laboral tendrá como atribuciones las siguientes:
 
 I. Implementar políticas sociales, laborales y culturales que justifiquen y alienten las relaciones humanas basadas en el respeto de sus derechos fundamentales;
 
@@ -2653,9 +2715,7 @@ XVI. Las demás que de manera enunciativa y no limitativa comprendan y prevengan
 
 > <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2012)</small>
 
-###### ARTÍCULO 138 Quáter.
-
-El Consejo por la Equidad Laboral estará integrado de la siguiente manera:
+ARTÍCULO 138 QUÁTER.- El Consejo por la Equidad Laboral estará integrado de la siguiente manera:
 
 I. Presidente(a) Municipal, quien fungirá como Presidente(a) del mismo;
 
@@ -2707,15 +2767,11 @@ Los integrantes del Consejo tendrán una representación exclusivamente honoríf
 
 > <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2012)</small>
 
-###### ARTÍCULO 138 Quinquies.
-
-Para la imposición de medidas disciplinarias relacionadas exclusivamente con la discriminación, violencia laboral, hostigamiento y acoso sexual, la Comisión para la Erradicación de la Violencia Laboral será la facultada para conocer y determinar los alcances de la sanción, no sin antes escuchar en defensa al trabajador y trabajadora.
+ARTÍCULO 138 QUINQUIES.- Para la imposición de medidas disciplinarias relacionadas exclusivamente con la discriminación, violencia laboral, hostigamiento y acoso sexual, la Comisión para la Erradicación de la Violencia Laboral será la facultada para conocer y determinar los alcances de la sanción, no sin antes escuchar en defensa al trabajador y trabajadora.
 
 > <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2012)</small>
 
-###### ARTÍCULO 138 Sexies.
-
-Para la interpretación, vigilancia y aplicación del Apartado Cuarto Bis del Título Tercero de la Normatividad Interna Municipal, se crea la Comisión para la Erradicación de la Violencia Laboral, la cual estará integrada de la siguiente manera:
+ARTÍCULO 138 SEXIES.- Para la interpretación, vigilancia y aplicación del Apartado Cuarto Bis del Título Tercero de la Normatividad Interna Municipal, se crea la Comisión para la Erradicación de la Violencia Laboral, la cual estará integrada de la siguiente manera:
 
 I. Titular Presidente(a) de la Comisión Permanente de Igualdad y Género, quien fungirá como Presidente(a) de la misma;
 
@@ -2747,7 +2803,7 @@ Los integrantes de la Comisión tendrán una representación exclusivamente hono
 
 > <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2012)</small>
 
-ARTÍCULO 138 Septis.- La Comisión tendrá las siguientes funciones:
+ARTÍCULO 138 SEPTIS.- La Comisión tendrá las siguientes funciones:
 
 I. Resolver las denuncias que se planteen ante ella por desacato al presente Código, Código de Ética para la Administración Pública del Municipio de Aguascalientes, y el Reglamento Interior de Trabajo del Municipio de Aguascalientes;
 
@@ -2781,9 +2837,7 @@ XV. Cualquier otra que determine el H. Ayuntamiento del Municipio de Aguascalien
 
 > <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2012)</small>
 
-###### ARTÍCULO 138 Octies.
-
-Para los efectos de la fracción V del artículo anterior se entiende por:
+ARTÍCULO 138 OCTIES.- Para los efectos de la fracción V del artículo anterior se entiende por:
 
 a) Hostigamiento sexual: El ejercicio del poder en una relación de subordinación real de la víctima frente al agresor en el ámbito laboral. Se expresa en conductas verbales, físicas o psicológicas, relacionadas con la sexualidad de connotación lasciva. El hostigamiento sexual incluye provocaciones, insinuaciones o invitaciones, pero de manera reiterada, lo que implica que un acto aislado no es considerado en la definición.
 
@@ -2791,13 +2845,11 @@ b) Acoso Sexual: La forma de violencia en la que, si bien no existe la subordina
 
 > <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2012)</small>
 
-ARTÍCULO 138 Novies.- Las conductas de las servidoras y servidores públicos del H. Ayuntamiento del Municipio de Aguascalientes contrarias al presente Código, el Código de Ética y al Reglamento Interior de Trabajo del Municipio de Aguascalientes, deberán ser denunciadas a la Comisión para la Erradicación de la Violencia Laboral.
+ARTÍCULO 138 NOVIES.- Las conductas de las servidoras y servidores públicos del H. Ayuntamiento del Municipio de Aguascalientes contrarias al presente Código, el Código de Ética y al Reglamento Interior de Trabajo del Municipio de Aguascalientes, deberán ser denunciadas a la Comisión para la Erradicación de la Violencia Laboral.
 
 > <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2012)</small>
 
-###### ARTÍCULO 138 Decies.
-
-Conocida la denuncia o la vista de acta administrativa, la Comisión dará derecho de audiencia al o los probables infractores, y procederá a determinar si existió o no la falta, en su caso, dictando las medidas disciplinarias establecidas en el artículo 138 del presente Código, resolución que remitirá a la Dirección de Recursos Humanos de la Secretaría de Administración para su ejecución.
+ARTÍCULO 138 DECIES.- Conocida la denuncia o la vista de acta administrativa, la Comisión dará derecho de audiencia al o los probables infractores, y procederá a determinar si existió o no la falta, en su caso, dictando las medidas disciplinarias establecidas en el artículo 138 del presente Código, resolución que remitirá a la Dirección de Recursos Humanos de la Secretaría de Administración para su ejecución.
 
 APARTADO QUINTO
 
@@ -10965,7 +11017,7 @@ Jardines y Parques 5/m2/día
 
 Observaciones:
 
-(1).- Las necesidades de riego se consideran por separado a razón de cinco Its/m2/día.
+(1).- Las necesidades de riego se consideran por separado a razón de cinco lts/m2/día.
 
 (2).- Las necesidades generadas por empleados y trabajadores se consideran por separado a razón de cien litros por trabajador por día.
 
@@ -12167,9 +12219,9 @@ VI. En todas las albercas donde la profundidad sea mayor de noventa centímetros
 
 VII. La instalación de trampolines y plataformas cumplirá las siguientes condiciones:
 
-TRAMPOLlNES y PLATAFORMAS
+TRAMPOLINES y PLATAFORMAS
 
-TRAMPOLlNES
+TRAMPOLINES
 
 Altura de los Profundidad Distancia que debe mantenerse
 
@@ -13499,7 +13551,7 @@ Deberán revisarse además los siguientes estados límite de servicio: asentamie
 
 Los empujes se estimarán tomando en cuenta la flexibilidad del muro, del tipo del material del relleno y el método de colocación del mismo los empujes debidos a sismo deberán calcularse de acuerdo con el capítulo de Diseño por Sismo.
 
-Los muros deberán tener un sistema de drenaje adecuado que incluya drenes, filtros y lIoraderos que limiten el desarrollo de empujes adicionales a los originalmente contemplados por efecto de presiones hidrostáticas.
+Los muros deberán tener un sistema de drenaje adecuado que incluya drenes, filtros y lloraderos que limiten el desarrollo de empujes adicionales a los originalmente contemplados por efecto de presiones hidrostáticas.
 
 Para el diseño de muros de contención permanentes no se considerarán empujes de tipo pasivo de rellenos por encima del nivel de desplante del muro que puedan favorecer su estabilidad.
 
@@ -18313,7 +18365,7 @@ Será preciso dar aviso oportuno al Municipio de la organización de cualquier f
 
 ###### ARTÍCULO 1429.
 
-Además, la empresa deberán formular con quince días de anticipación a la fecha en que vaya a iniciarse cualquier actividad, la solicitud respectiva ante el Municipio, acompañado de la siguiente documentación:
+Además, la empresa deberán (sic) formular con quince días de anticipación a la fecha en que vaya a iniciarse cualquier actividad, la solicitud respectiva ante el Municipio, acompañado de la siguiente documentación:
 
 I. Dictamen de las condiciones físicas de la plaza, expedido por perito debidamente registrado.
 
@@ -20662,3 +20714,17 @@ SE REFORMAN LOS ARTÍCULOS 98 FRACCIÓN XIV; 112 FRACCIÓN XXXVII Y; SE ADICIONA
 ###### ARTÍCULO ÚNICO.
 
 Las presentes reformas y adiciones al artículo 98 y 112 del Código Municipal de Aguascalientes entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 8 DE OCTUBRE DE 2012.
+
+SE TRANSCRIBEN LOS PUNTOS RESOLUTIVOS QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO
+
+PRIMERO.- Se aprueban las modificaciones, reformas y adiciones al Código Municipal de Aguascalientes en el siguiente orden:
+
+a) Se modifica la denominación del Capítulo II del Libro I para quedar: "Del Nombre Oficial y Escudo de Armas del Municipio (sic);
+
+b) Se reforma el artículo 4° y se adicionan los artículos 4°-Bis, 4°-Ter, 4°-Quater y 4°-Quinquies; y
+
+c) Se reforma el artículo 5° y se adiciona el artículo 5°-Bis.
+
+CUARTO.- Las anteriores disposiciones jurídicas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
