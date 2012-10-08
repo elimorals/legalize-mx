@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interior-general-del-h-tribunal-superior-de-3664"
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-08-30"
-last_updated: "2010-06-24"
+last_updated: "2012-10-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3664&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 REGLAMENTO INTERIOR GENERAL DEL H. TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO, DE LOS JUZGADOS DE PRIMERA INSTANCIA, MENORES Y DE CONCILIACIÓN Y DE LAS DEMÁS DEPENDENCIAS DEL PROPIO TRIBUNAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Campeche, el viernes 30 de agosto de 1991.
 
@@ -599,15 +599,21 @@ Los jueces de conciliación actuarán con un secretario de acuerdos.
 
 Los jueces de conciliación serán designados por el Tribunal en Pleno a propuesta del Gobernador del Estado, pudiendo ser confirmados.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 55-C.
 
-Los jueces de conciliación tendrán su sede en: las poblaciones de los municipios que a continuación se mencionan:
+Los jueces de conciliación tendrán su sede en las poblaciones de los municipios que a continuación se mencionan:
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 I.- Municipio de Calkiní, con sede en: Bécal y tendrá competencia en la población de Bécal; con sede en Calkiní y tendrá competencia en las poblaciones de Calkiní, y Tepakán; con sede (sic) Dzitbalché y tendrá competencia en las poblaciones de Bacabchén, Dzitbalché y Santa Cruz Pueblo; con sede en Nunkiní y tendrá competencia en la población de Nunkiní; con sede en San Antonio Sahcabchén y tendrá competencia en las poblaciones de San Antonio Sahcabchén, Concepción, Chunhuás y Xkakoch; con sede en Santa Cruz Ex-Hacienda y tendrá competencia en las poblaciones de Santa Cruz Ex-Hacienda, San Nicolás, Tankuché, Santa María, Pucnachén e Isla Arena.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 II.- Municipio de Campeche, con sede en: Hampolol y tendrá competencia en las poblaciones de Hampolol, Bethania, Chemblás y San Francisco Kobén; con sede en Pich y tendrá competencia en las poblaciones de: Pich, Alfredo V. Bonfil, Bolonchén Cahuich, Carlos Cano Cruz, Kikab, Melchor Ocampo, Pénjamo, San Luciano y San Miguel Allende; con sede en San Antonio Cayal y tendrá competencia en las poblaciones de San Antonio Cayal, Tikinmul, Crucero Oxá, Nilchí, Pueblo Nuevo y San Camilo; con sede en Tixmucuy y tendrá competencia en las poblaciones de Tixmucuy, Adolfo Ruiz Cortines, Nohakal, Pocyaxum y Uzahzil Edzná; con sede en Uayamón y tendrá competencia en las poblaciones de Uayamón, Hobomó y Mucuychakán.
 
@@ -615,17 +621,25 @@ II.- Municipio de Campeche, con sede en: Hampolol y tendrá competencia en las p
 
 III.- Municipio de Champotón, con sede en: Champotón y tendrá competencia en las poblaciones de Champotón, Canasayab, el Zapote, Moquel, Paraíso, Pixtum, Puntaxén, San Antonio del Río, San Miguel, San Juan Carpizo, Vicente Guerrero, Villa de Guadalupe, Villa Mar y Ulumal; con sede en Carrillo Puerto y tendrá competencia en las poblaciones de: Carrillo Puerto, A-Kim-Pech, Chac-cheíto, Chilán Balán, Kukulkán, López Mateos, Nuevo Paraíso, Yohaltún, Lázaro Cárdenas, Nueva Esperanza y Miguel Allende; con sede en Hool y tendrá competencia en las poblaciones de: Hool y Santa Cruz de Rovira; con sede en Seybaplaya y tendrá competencia en las poblaciones de: Seyba Playa, Ciudad del Sol, Haltunchén, Villa Madero y Xkeulil; con sede en Sihochac y tendrá competencia en las poblaciones de: Sihochac, Arellano, La Joya, San José Carpizo Número 1 y San José Carpizo Número 2; con sede en el Ejido 5 de Febrero y tendrá competencia en las poblaciones de: Ejido 5 de Febrero, Miguel Colorado y Pixoyal; con sede en el Ejido Aquiles Serdán y tendra competencia en las poblaciones de: Ejido Aquiles Serdán, Cerrito, Dzacabuchén, Reforma Agraria y X ab (sic); con sede en el Ejido Salinas de Gortari y tendrá competencia en las poblaciones de: Ejido Salinas de G ari (sic), Providencia, López Rayón, Buena Ventura, Dziblaché de Castellot, Valle de Quetzalcóatl y José López Portillo.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
 IV.- Municipio de Hecelchakán, con sede en Hecelchakán y tendrá competencia en las poblaciones de: Hecelchakán, Blanca Flor, Dzitnup y Santa Cruz; con sede en Poc Boc y tendrá competencia en la población de Poc Boc; con sede en: Pomuch y tendrá competencia en las poblaciones de: Pomuch, Chunckanán, Villa de Pomuch y Sodzil; con sede en San Vicente Cumpich y tendrá competencia en las poblaciones de Cumpich, Dzotchén, Nohalal, Montebello, Yalnón.
 
 > <small>(REFORMADA, P.O. 11 DE MARZO DE 1997)</small>
 
 V.- Municipio de Hopelchén, con sede en Bolonchén de Rejón y tendrá competencia en las poblaciones de: Bolonchén de Rejón, Chun-Cedro, Chunhuamil, Chunyaxnic, Huechil, San Antonio Yaxché, Xbilincoc, Xcalot-Akal, Xcanalhantún, Xculoc y Xtampac; con sede en Chunchintoc, y tendrá competencia en las poblaciones de: Chunchintoc, Cancabchén, Francisco J. Mújica y Xkix; con sede en Dzibalchén y tendrá competencia en las poblaciones de: Dzibalchén, Chenkoh, Konchén y Pakchén; con sede en Hopelchén y tendrá competencia en las poblaciones de: Hopelchén, El Poste, Halchakán, Katab, Rancho Sosa, San Juan Bautista, Sahacabchén, Santa Rita Becanchén, Xcupil Cacab y Yaxché-Akal, con sede en Ich-ek y tendrá competencia en las poblaciones de: Ich-ek, Crucero San Luis y San Francisco Suc-Tuc; con sede en Iturbide o Vicente Guerrero y tendrá competencia en las poblaciones de: Iturbide o Vicente Guerrero, Chembalam y Ramón Corona; con sede en Ukum y tendrá competencia en las poblaciones de: Ukum, Chanchem, Chun-ek, No-há, Pach-Uitz, Soltún, Xkahá, Xmabén y Xmejía.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
 VI.- Municipio de Tenabo, con sede en Emiliano Zapata y tendrá competencia en las poblaciones de: Emiliano Zapata, San Pedro Corralché y Santa Rita Corralché; con sede en Tenabo y tendrá competencia en las poblaciones de: Tenabo, Kankí, Santa Rosa, X'cuncheíl; con sede en Tinún y tendrá competencia en las poblaciones de: Tinún y Nache-ha.
 
-> <small>(ADICIONADA, P.O. 11 DE MARZO DE 1997)</small>
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2012)</small>
 
-VII.- Municipio de Calakmul, con sede en: Constitución y tendrá competencia en las poblaciones de: Constitución, Conhuás, Felipe Angeles, Kilómetro 120, Pablo García, Puebla de Morelia, Santa Lucía y Xbonil, con sede en: Ejido Altamira de Zináparo y tendrá competencia en las poblaciones de: Altamira de Zináparo, Chan Laguna, Jobal y Maravillas; con sede en: Ejido Centenario y tendrá competencia en las poblaciones de: Ejido Centenario, Benito Juárez, Flor de Chiapas, López Mateos, José López Portillo, Laguna Grande y Silvituc; con sede en: Cristóbal Colón y tendrá competencia en las poblaciones de: Cristóbal Colón, Once de Mayo, Veintidós de Abril, El Manantial, La Guadalupe, La Victoria, La Virgencita de la Candelaria, Narcizo Mendoza, Niños Héroes, San Miguel, Ricardo Payró Jene (Polo Norte) y Unidad y Trabajo; con sede en: Josefa Ortiz de Domínguez y tendrá competencia en las poblaciones de: Josefa Ortiz de Domínguez (Icaché), Veintiuno de Mayo, Dieciséis de Septiembre, Arroyo Negro, Carlos A. Madrazo, Manuel Crescencio Rejón, El Tesoro, Mosé (sic) Morelos y Pavón (Cibalito), Justo Sierra Méndez, Lázaro Cárdenas Número 2, Los Alacranes, Los Angeles, Nuevo Paraiso, Pioneros del Rio Xnohá, Santa Rosa, La Lucha y Nuevo Progreso; con sede en: Ley de Fomento Agropecuario y tendrá competencia en las poblaciones de: Ley de Fomento Agropecuario, Caña Brava, Carmen II, Dos Naciones, Nuevo San José, Quiché de las Pailas y Veinte de Noviembre; con sede en: Xpujil y tendrá competencia en las poblaciones de: Xpujil, Veinte de Noviembre, Zoh-Laguna (Alvaro Obregón), Becán, Bel-há, Nuevo Campanario, Centauro del Norte, Dos Lagunas, El Tepeyac, El Refugio, lng. Eugenio Echeverría Castellot, Ricardo Flores Magón (Laguna Cooxli), Gustavo Díaz Ordaz, La Lucha, Unión 20 de Junio (La Mancolona), Manuel Castilla Brito, Nueva Vida, Nuevo Becal (El 19) y Tomás Aznar Barbachano.
+VII.- Municipio de Calakmul, con sede en Constitución y tendrá competencia en las poblaciones de Constitución, Conhuás, Felipe Angeles, Kilómetro 120, Pablo García, Puebla de Morelia, Santa Lucía y Xbonil; con sede en el Ejido de Altamira de Zináparo y tendrán competencia en las poblaciones de Altamira de Zináparo, Chan Laguna, Jobal y Maravillas; con sede en el Ejido Centenario y tendrá competencia en las poblaciones de Ejido Centenario, Benito Juárez, Flor de Chiapas, López Mateos, López Portillo, Laguna Grande y Silvituc; con sede en Cristóbal Colón y tendrá competencia en las poblaciones de Cristóbal Colón, Once de Mayo, Veintidós de Abril, La Victoria, Narciso Mendoza, Niños Héroes; San Miguel y Unidad y Trabajo; con sede en Josefa Ortiz de Domínguez y tendrá competencia en las poblaciones de Joséfa Ortiz de Domínguez (Icaché), Dieciséis de Septiembre, El Tesoro, Los Alacranes, Nuevo Paraíso, Santa Rosa y La Lucha; con sede en Ley del Fomento Agrario y tendrá competencia en las poblaciones de Ley de Fomento Agropecuario, Caña Brava, Carmen II, Dos Naciones; Nuevo San José y Veinte de Noviembre; con sede en Xpujil y tendrá competencia en las poblaciones de Xpujil, Veinte de Noviembre Zoh-Laguna (Álvaro Obregón), Becán, Nuevo Campanario, Centauros del Norte, Ing. Eugenio Echeverría Castellot, Gustavo Díaz Ordaz, La Lucha, Manuel Castilla Brito, Nuevo Bécal (El 19) y Tomás Aznar Barbachano; con sede en José María Morelos y Pavón (El Cibalito) y tendrá competencia en José María Morelos y Pavón (El Cibalito), Arroyo Negro, Dos Lagunas, Justo Sierra Méndez, Pioneros del Río X-nohá, Manuel Crescencio Rejón y Lázaro Cárdenas número dos (Ojo de Agua) con sede en Cinco de Mayo (Plan de Ayala) y tendrá competencia en Cinco de Mayo (Plan de Ayala), Bella Unión Veracruz, Carlos A. Madrazo, 16 de Septiembre (Laguna Alvarado), Los Tambores de Emiliano Zapata, Quiché las pailas y Blasillo; con sede en Los Ángeles y tendrá competencia en Los Ángeles, Veintiuno de Mayo, Hermenegildo Galeana, Felipe Ángeles, Benito Juárez (El Tesoro), Nuevo Progreso y la Lucha Dos; con sede en El Manantial y tendrá competencia en El Manantial, La Virgencita de la Candelaria, Guillermo Prieto, Ingeniero Ricardo Payro Jene (Polo Norte) y la Guadalupe; con sede en Nueva Vida y tendrá competencia en Nueva Vida, El Refugio, Unión 20 de Junio (La Mancolona), Ricardo Flores Magón )Laguna Cooxli), Dos Lagunas Norte, El Tepeyac y Bel-há.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1466,3 +1480,11 @@ TERCERO.- En su oportunidad elaborar el Proyecto de Reglamento Interior y somete
 P.O. 24 DE JUNIO DE 2010.
 
 EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.
+
+P.O. 8 DE OCTUBRE DE 2012.
+
+PRIMERO.- Publíquese el presente acuerdo en el Periódico Oficial del Gobierno del Estado, en los estrados de la Secretaría general de Acuerdos del Pleno, en las Salas, Juzgados, áreas administrativas y en el Portal de Transparencia del Poder Judicial del Estado de Campeche.
+
+SEGUNDO.- El presente acuerdo entrará en vigor el nueve de octubre del dos mil doce.
+
+TERCERO.- Comuníquese a los Jueces de Conciliación del Municipio de Calakmul y circúlese esta determinación del Pleno del H. Tribunal Superior de Justicia del Estado, para su conocimiento. Cúmplase.
