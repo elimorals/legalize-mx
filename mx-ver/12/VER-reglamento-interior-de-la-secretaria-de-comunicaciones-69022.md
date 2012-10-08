@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-de-la-secretaria-de-comunicaciones-69022"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-06-24"
-last_updated: "2009-06-24"
+last_updated: "2012-10-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69022&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE COMUNICACIONES
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE COMUNICACIONES
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE COMUNICACIONES DEL ESTADO DE VERACRUZ
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE COMUNICACIONES DEL ESTADO DE VERACRUZ, PUBLICADO EN LA G.O. 8 DE OCTUBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADO
 
 Reglamento publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 24 de junio de 2009.
 
@@ -662,3 +664,19 @@ Fidel Herrera Beltrán
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 8 DE OCTUBRE DE 2012.
+
+Artículo Primero. El presente Reglamento entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Artículo Segundo. Se abroga el Reglamento Interior de la Secretaría de Comunicaciones publicado en la Gaceta Oficial del Estado número extraordinario 201, de fecha 24 de junio 2009.
+
+Artículo Tercero. Se derogan todas las disposiciones normativas que se opongan al presente Reglamento.
+
+Artículo Cuarto. Los actos y procedimientos administrativos iniciados por las unidades u órganos que cambian denominación o adscripción, continuarán su trámite, hasta su conclusión, por las áreas, unidades y órganos de nueva denominación y de funciones equivalentes.
+
+Artículo Quinto. La Secretaría expedirá, en un plazo no mayor a noventa días, contados a partir de la entrada en vigor del presente Reglamento, los Manuales de Organización, de Procedimientos, de Servicios al Público y demás manuales administrativos.
+
+Artículo Sexto. En tanto se expidan los manuales a que se refiere el artículo anterior, el Secretario estará facultado para resolver los asuntos que dichos manuales deban regular.
