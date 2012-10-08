@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-de-las-estancias-para-el-desarrollo-68795"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-06-04"
-last_updated: "2009-06-04"
+last_updated: "2012-10-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68795&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERNO DE LAS ESTANCIAS PARA EL DESARROLLO INFANTIL DEL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-REGLAMENTO INTERNO DE LAS ESTANCIAS PARA EL DESARROLLO INFANTIL DEL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE MEXICO Y MUNICIPIOS
+REGLAMENTO INTERNO DE LAS ESTANCIAS PARA EL DESARROLLO INFANTIL DEL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL REGLAMENTO INTERNO DE LAS ESTANCIAS PARA EL DESARROLLO INFANTIL DEL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE MÉXICO Y MUNICIPIOS, PUBLICADO EN LA G.G. DE 8 DE OCTUBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: ABROGADO.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 4 de junio de 2009.
 
@@ -320,3 +322,27 @@ SILVIANO JAIME PULIDO LÓPEZ
 SECRETARIO DEL HONORABLE CONSEJO DIRECTIVO DE ISSEMYM
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 8 DE OCTUBRE DE 2012.
+
+PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se abroga el Reglamento Interno de las Estancias para (sic) Desarrollo Infantil del Instituto de Seguridad Social del Estado de México y Municipios, publicado en el Periódico Oficial "Gaceta del Gobierno" el día 4 de junio de 2009,
+
+CUARTO.- La interpretación y cumplimiento del presente Reglamento, corresponderá al Comité de Estancias Infantiles o a la Coordinación de Prestaciones y Seguridad Social, según corresponda.
+
+QUINTO.- Se derogan todas las disposiciones de igual o menor jerarquía que se contrapongan a las estipuladas en el presente Reglamento.
+
+SEXTO.- Los casos y situaciones no previstas en el presente Reglamento, serán resueltos por el Comité de Estancias Infantiles o la Coordinación de Prestaciones y Seguridad Social, según corresponda.
+
+SÉPTIMO.- Los actos celebrados durante la vigencia de las disposiciones reglamentarias que se abrogan, seguirán surtiendo sus efectos hasta la conclusión del término o cumplimiento de las condiciones bajo las que se hayan celebrado u otorgado.
+
+OCTAVO.- El Comité de Estancias Infantiles Contratadas deberá quedar formalmente instalado dentro del plazo de quince días hábiles posteriores a partir de la fecha de publicación del presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+NOVENO.- El Comité de Estancias Infantiles Contratadas deberá aprobar y expedir su Manual de Operación dentro del plazo no mayor a treinta días hábiles posteriores a su instalación.
+
+DÉCIMO.- Las cuotas, aportaciones y subsidio para el pago del servicio asistencial que corresponda en las Estancias Infantiles Contratadas, serán aquellas que se encuentren vigentes para las estancias infantiles.
