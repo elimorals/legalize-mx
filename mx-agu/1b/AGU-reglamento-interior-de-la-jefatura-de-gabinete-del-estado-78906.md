@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-jefatura-de-gabinete-del-estado-78906
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-01-24"
-last_updated: "2011-01-24"
+last_updated: "2012-10-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78906&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DE LA JEFATURA DE GABINETE DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2012.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de enero de 2011.
 
@@ -69,9 +69,17 @@ II. Coordinación General Jurídica;
 
 III. Coordinación General de Análisis Legislativo;
 
-IV. Coordinación General del Gabinete, y
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2012)</small>
 
-V. Coordinación General de Información y Documentación.
+IV. Coordinación General de Información y Documentación;
+
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2012)</small>
+
+V. Coordinación General para la Implementación de la Reforma Penal Constitucional; y
+
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2012)</small>
+
+VI. Coordinación General de Asuntos Internos.
 
 Asimismo, la Jefatura contará con las direcciones de área, subdirecciones, departamentos y oficinas, así como con los servidores públicos necesarios para el cumplimiento de sus atribuciones, de conformidad con la normatividad y el presupuesto de egresos respectivos. Las funciones de estas áreas se especificarán en el Manual de Organización General correspondiente.
 
@@ -245,23 +253,37 @@ VII. Dar seguimiento al desahogo de la agenda legislativa y de las iniciativas q
 
 VIII. Realizar los análisis necesarios de las disposiciones legales federales, para determinar su aplicabilidad e impacto en el Estado.
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 16.
 
-Al Coordinador General del Gabinete le corresponden las siguientes facultades específicas:
+Al Coordinador General para la Implementación de la Reforma Penal Constitucional le corresponden las siguientes facultades específicas:
 
-I. Auxiliar al Jefe de Gabinete en la organización, desarrollo, seguimiento y evaluación de reuniones sectoriales y de Gabinete;
+l. Auxiliar al Jefe de Gabinete en los trabajos de la implementación de la Reforma Constitucional en Materia Penal;
 
-II. Llevar un registro de Comisiones y Gabinetes integrados en la Administración Pública Estatal, así como de los planes, programas, acuerdos y compromisos institucionales derivados de su funcionamiento;
+II. Atender los trámites relacionados con la implementación de la Reforma Constitucional en Materia Penal;
 
-III. Integrar y resguardar los libros de actas de las reuniones sectoriales y de Gabinete;
+III. Fungir de enlace de la Jefatura de Gabinete con la Comisión Estatal de Coordinación para la Implementación del Sistema de Justicia Penal Acusatorio Adversarial;
 
-IV. Establecer, conjuntamente con la Coordinación General de Asuntos Políticos, los lineamientos y mecanismos para el control, seguimiento y evaluación de los acuerdos sectoriales de Gabinete y Políticos, así como los que se suscriban con los Poderes Legislativo y Judicial;
+IV. Fungir de enlace de la Jefatura de Gabinete con los Poderes Legislativo y Judicial del Estado de Aguascalientes en materia de Implementación de la Reforma Constitucional en Materia Penal; y
 
-V. Proponer la integración de Comisiones, Comités y Gabinetes en áreas de actividad específica;
+V. Fungir de enlace de la Jefatura de Gabinete con las autoridades federales en materia de Implementación de la Reforma Constitucional en Materia Penal.
 
-VI. Atender los trámites relacionados con los nombramientos que, por acuerdo del Gobernador, le competan al Jefe de Gabinete, y
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2012)</small>
 
-VII. Supervisar el seguimiento de los programas de las Dependencias y Entidades, integrando y analizando los informes que le proporcione la Coordinación Estatal de Planeación y Proyectos.
+Artículo 16 A.- Al Coordinador General de Asuntos Internos le corresponden las siguientes facultades específicas:
+
+l. Auxiliar al Jefe de Gabinete en la coordinación de las relaciones internas de la Administración Pública Estatal;
+
+II. Formular análisis, estudios y opiniones respecto de los temas designados por el Jefe de Gabinete;
+
+III. Atender y dar seguimiento a las peticiones del público que le asigne el Jefe de Gabinete;
+
+IV. Proponer al Jefe de Gabinete los mecanismos legales que faciliten la coordinación interna de las Dependencias y Entidades de la Administración Pública Estatal;
+
+V. Establecer y realizar, conjuntamente con la Coordinación General para la Implementación de la Reforma Penal Constitucional, las actividades necesarias para la implementación del Sistema de Justicia Penal en el Estado; y
+
+VI. Auxiliar a las Coordinaciones General Jurídica y de Análisis Legislativo, en las actividades que así lo requieran.
 
 ###### Artículo 17.
 
@@ -273,9 +295,21 @@ II. Proponer, dar seguimiento y evaluar la integración, automatización y actua
 
 III. Llevar un registro de los ordenamientos jurídicos vigentes en el Estado;
 
-IV. Llevar un registro de los movimientos de los servidores públicos de mando, adscritos a las Dependencias y Entidades, e
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2012)</small>
 
-V. Integrar las síntesis informativas de los reportes generados por los distintos sistemas de información y bases de datos, que puedan resultar relevantes para la Jefatura.
+IV. Llevar un registro de los movimientos de los servidores públicos de mando, adscritos a las Dependencias y Entidades;
+
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2012)</small>
+
+V. Integrar las síntesis informativas de los reportes generados por los distintos sistemas de información y bases de datos, que puedan resultar relevantes para la Jefatura;
+
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2012)</small>
+
+VI. Auxiliar al Jefe de Gabinete en la organización, desarrollo y seguimiento de las reuniones de Gabinete con los titulares de las Dependencias y Entidades; y
+
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2012)</small>
+
+VIl. Llevar un registro de los Gabinetes Estratégicos de la Administración Pública Estatal, así como de los acuerdos derivados de su funcionamiento.
 
 ### CAPÍTULO IV. Régimen de Suplencias
 
@@ -312,3 +346,9 @@ GOBERNADOR CONSTITUCIONAL DEL ESTADO DE AGUASCALIENTES.
 Lic. Antonio Javier Aguilera García,
 
 JEFE DE GABINETE.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 8 DE OCTUBRE DE 2012.
+
+ÚNICO.- La presente reforma al Reglamento Interior de la Jefatura de Gabinete entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Aguascalientes.
