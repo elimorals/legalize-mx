@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-turismo-del-estado-de-quintana-roo-75669"
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-28"
-last_updated: "2011-12-15"
+last_updated: "2012-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75669&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE TURISMO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2012.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 28 de junio de 2010.
 
@@ -501,6 +501,10 @@ La Secretaría promoverá con la participación de las Instituciones involucrada
 
 En los eventos que señala el artículo anterior, la Secretaría escuchando la opinión del Consejo Consultivo de Turismo de Quintana Roo, procurará que se otorguen reconocimientos a los prestadores de servicios turísticos que se destaquen por su interés, creatividad, inversión, atención y promoción de la actividad turística en el Estado y por la calidad de sus servicios, de acuerdo a la convocatoria que para el efecto se expida.
 
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2012)</small>
+
+La Secretaría, también otorgará reconocimientos a aquellos prestadores turísticos que fomenten las acciones que dispone la fracción XIV del Artículo 54 de la presente ley.
+
 ###### Artículo 44.
 
 La promoción y difusión de atractivos y servicios turísticos que ofrezca el Estado de Quintana Roo en el extranjero, se realizará en coordinación con los fideicomisos de promoción turística y las oficinas que se encuentren vinculadas con el sector en otros países.
@@ -518,6 +522,10 @@ La Secretaría promoverá acciones de coordinación y formulará recomendaciones
 ###### Artículo 47.
 
 La Secretaría llevará un registro de centros de enseñanza dedicados a la especialidad de turismo, reconocidos oficialmente por las Secretarías de Educación del Estado y Federal, con el objeto de dar a conocer a los prestadores de servicios turísticos que así lo soliciten, sobre la validez oficial y el nivel académico de dichos planteles educativos.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2012)</small>
+
+Artículo 47 bis.- La Secretaría promoverá en coordinación con los Centros de Enseñanza que se señalan en el Artículo 47 de la presente ley, el establecimiento de un Padrón de Egresados de Especialidad Turística, el cual deberá mantener actualizado y darlo a conocer en forma anual a los prestadores de servicios turísticos, con la finalidad de que sean éstos, opción para ser contratados de acuerdo a su perfil y aptitudes profesionales.
 
 ###### Articulo 48.
 
@@ -581,9 +589,17 @@ XI. Participar en los programas de capacitación turística que promueva o lleve
 
 XII. Participar en los programas que fomenten una cultura de protección de los niños, niñas y adolescentes frente a la explotación sexual y/o laboral en la Industria del Turismo, que promueva o lleve a cabo la Secretaría;
 
-XIII. Recibir del turista la remuneración convenida por los servicios turísticos que proporcione; y
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2012)</small>
 
-XIV. Los demás que establezcan la legislación aplicable en la materia
+XIII. Recibir del turista la remuneración convenida por los servicios turísticos que proporcione;
+
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2012)</small>
+
+XIV.- Recibir de la Secretaría, reconocimiento cuando tenga dentro de su plantilla laboral, jóvenes quintanarroenses, estudiantes o egresados de las Instituciones Públicas o Privadas dedicadas a la especialidad de Turismo en el Estado; y
+
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2012)</small>
+
+XV. Los demás que establezcan la legislación aplicable en la materia.
 
 ###### Artículo 55.
 
@@ -679,9 +695,17 @@ III. La modernización de las empresas turísticas;
 
 IV. El otorgamiento de incentivos, distintivos, certificados o reconocimientos a los prestadores de servicios turísticos, de acuerdo con los lineamientos que establezca la propia Secretaría;
 
-V. El diseño y ejecución de acciones de coordinación entre dependencias y entidades de la Administración pública del Estado y de los Municipios para la promoción y establecimiento de empresas turísticas; y
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2012)</small>
 
-VI. La realización de acciones para favorecer las inversiones y proyectos turísticos de alto impacto en el sector, así como agilizar los mecanismos y procedimientos administrativos que faciliten su desarrollo y conclusión.
+V. El diseño y ejecución de acciones de coordinación entre dependencias y entidades de la administración pública del Estado y de los Municipios para la promoción y establecimiento de empresas turísticas;
+
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2012)</small>
+
+VI. La realización de acciones para favorecer las inversiones y proyectos turísticos de alto impacto en el sector, así como agilizar los mecanismos y procedimientos administrativos que faciliten su desarrollo y conclusión; y
+
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2012)</small>
+
+VII.- Fomentar la contratación de trabajadores turísticos provenientes de las instituciones educativas públicas y privadas del Estado en la especialidad de turismo, ante los prestadores de servicios turísticos.
 
 ###### Artículo 59.
 
@@ -892,3 +916,13 @@ P.O. 15 DE DICIEMBRE DE 2011.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO.- La Secretaría de Turismo del Estado contará con un plazo de doce meses a partir de la entrada en vigor del presente Decreto, para dar cumplimiento a la fracción XVIII del Artículo 9 de la Ley de Turismo del Estado de Quintana Roo.
+
+P.O. 8 DE OCTUBRE DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- La Secretaría de Turismo del Estado, contará con el término de 30 días contados a partir de la fecha de publicación del presente Decreto, para emitir la reglamentación correspondiente, dentro de la cual se contemplen los mecanismos de operación para implementar el presente decreto.
+
+TERCERO.- La Secretaría de Turismo del Estado, contará con un término de 60 días contados a partir de la publicación del presente Decreto, para concluir con el establecimiento del Padrón de Egresados y darlo a conocer a los prestadores de servicios turísticos dentro de los 30 días siguientes a la conclusión del mismo.
+
+CUARTO.- Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
