@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-legislativo-del-estado-libre-y-70231"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-09-21"
-last_updated: "2011-12-31"
+last_updated: "2012-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70231&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 21 de septiembre de 2009.
 
@@ -725,7 +725,9 @@ VI.- Comisión de la Niñez, la Juventud, el Deporte y la Familia;
 
 VII.- Comisión de Seguridad Pública, Justicia y de Seguimiento sobre las Agresiones contra Periodistas y Medios de Comunicación;
 
-VIII.- Comisión de Derechos Humanos;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2012)</small>
+
+VIII.- Comisión de Derechos Humanos y Atención de las Personas con Discapacidad.
 
 IX.- Comisión de Salud;
 
@@ -1381,6 +1383,10 @@ Declarado el Proyecto suficientemente discutido, se preguntará si se aprueba o 
 
 En caso de votación negativa, se preguntará si el Proyecto vuelve a la Comisión. Si la resolución es afirmativa, volverá a la Comisión para el efecto de su reforma, en sentido contrario, se tendrá por desechada.
 
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2012)</small>
+
+ARTÍCULO 162 BIS.- Es obligación del Congreso del Estado, difundir permanentemente en la red de información Mundial denominada internet, así como en la página de internet del Congreso a más tardar al día siguiente de la Sesión, el sentido de la votación de cada uno de los Diputados respecto de Dictámenes y Acuerdos Económicos, salvo aquellas que se hagan de forma cedular.
+
 ###### ARTÍCULO 163.
 
 Siempre que un asunto vuelva a la Comisión, ésta deberá presentar Dictamen en el sentido de la discusión; pudiendo pasar a una Comisión Especial, en caso de que aquella lo solicite y lo acuerde favorablemente el Pleno o la Diputación Permanente.
@@ -1743,7 +1749,7 @@ VIII.- Organizar y dirigir actividades académicas en materia de capacitación, 
 
 IX.- Las demás que le señalen esta Ley, su Reglamento y los ordenamientos legales aplicables.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE MARZO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE MARZO DE 2011)</small>
 
 ### CAPÍTULO ÚNICO. DEL RÉGIMEN DE RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS DEL CONGRESO DEL ESTADO
 
@@ -1859,7 +1865,7 @@ IV.- Directores Generales y de Área, Subdirectores, Auditores, Jefes de Departa
 
 ###### ARTÍCULO 205.
 
-la declaración patrimonial, deberá presentarse en los siguientes plazos:
+La declaración patrimonial, deberá presentarse en los siguientes plazos:
 
 I.- La inicial, dentro de los sesenta días hábiles siguientes al inicio de sus funciones;
 
@@ -1982,3 +1988,7 @@ El presente Decreto entrará en vigor al día siguiente de su Publicación en el
 P.O. 31 DE DICIEMBRE DE 2011.
 
 Único.- Envíese al Titular del Poder Ejecutivo para su Publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE OCTUBRE DE 2012.
+
+Artículo Único. Envíese el presente Decreto al Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno del Estado.
