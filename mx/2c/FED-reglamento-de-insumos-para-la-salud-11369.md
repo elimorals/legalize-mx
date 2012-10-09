@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-insumos-para-la-salud-11369"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-02-04"
-last_updated: "2012-05-17"
+last_updated: "2012-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11369&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-02-03"
 
 REGLAMENTO DE INSUMOS PARA LA SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE OCTUBRE DE 2012.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 4 de febrero de 1998.
 
@@ -1423,6 +1423,18 @@ La autoridad sanitaria determinará el destino final de los Insumos y productos 
 
 En los casos en que proceda la destrucción, los gastos correspondientes serán asumidos por el exportador.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 9 DE OCTUBRE DE 2012)</small>
+
+###### ARTÍCULO 152
+
+bis. Los trámites de importación y exportación de los insumos para la salud a los que se refiere el presente Reglamento, podrán presentarse por medios electrónicos.
+
+Los solicitantes que opten por los medios electrónicos en los trámites a que se refiere el párrafo anterior, deberán presentar la misma información y documentación que conforme a este Reglamento y demás disposiciones jurídicas aplicables requiere el trámite correspondiente. Dicha información y documentación deberá remitirse por dichos medios electrónicos.
+
+Los trámites realizados por medios electrónicos se substanciarán y resolverán por el mismo medio, por lo que las notificaciones realizadas al solicitante respecto de los requerimientos, actuaciones, resoluciones, exhibición, conservación o presentación de autorizaciones o documentación que deba entregar éste ante la autoridad competente y, en general, cualquier acto administrativo derivado de dichos trámites, se verificará vía electrónica, conforme a las disposiciones jurídicas aplicables.
+
 ## TÍTULO SEXTO. Autorizaciones y avisos
 
 ### Capítulo I. Disposiciones comunes
@@ -1608,6 +1620,10 @@ Para obtener el registro sanitario de medicamentos alopáticos de fabricación e
 > <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2008)</small>
 
 I. El certificado de libre venta o equivalente expedido por la autoridad correspondiente del país de origen;
+
+> <small>(ADICIONADO, D.O.F. 9 DE OCTUBRE DE 2012)</small>
+
+Para el caso de medicamentos que contengan nuevas entidades moleculares que no hayan sido comercializadas en ningún otro país por no contar con el registro sanitario correspondiente y que se pretendan registrar en México, el certificado a que se refiere el párrafo anterior, podrá ser sustituido por el informe de estudios clínicos que cuenten con la participación de población mexicana y que demuestren la seguridad, calidad y eficacia del producto, así como el documento que describa las actividades e intervenciones designadas para caracterizar y prevenir los potenciales riesgos previamente identificados, relacionados con los medicamentos, incluyendo la medición de la efectividad de dichas intervenciones.
 
 > <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2008)</small>
 
@@ -2564,3 +2580,9 @@ Tercero.- Aquellos trámites de solicitud de registro cuya resolución se encuen
 D.O.F. 17 DE MAYO DE 2012.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE OCTUBRE DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor a los treinta días hábiles posteriores a la fecha de su publicación en el Diario Oficial de la Federación, salvo la adición del segundo párrafo a la fracción I del artículo 170 del Reglamento de Insumos para la Salud, la cual entrará en vigor al día siguiente de la publicación de este Decreto.
+
+SEGUNDO.- Las disposiciones del presente Decreto no le serán aplicables a los trámites que hayan sido presentados con anterioridad a la entrada en vigor del mismo.
