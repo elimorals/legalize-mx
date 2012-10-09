@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-control-sanitario-de-productos-y-servicios-14576"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-08-09"
-last_updated: "2012-04-24"
+last_updated: "2012-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14576&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1999-07-29"
 
 REGLAMENTO DE CONTROL SANITARIO DE PRODUCTOS Y SERVICIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE OCTUBRE DE 2012.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 9 de agosto de 1999.
 
@@ -2236,6 +2236,18 @@ Cuando de la revisión efectuada, la Secretaría determine que el titular deba c
 ###### ARTÍCULO 229.
 
 Los trámites a que se refiere el presente título deberán iniciarse utilizando los formatos autorizados y publicados en el Diario Oficial de la Federación. En dichos formatos se especificarán los datos, requisitos y documentos que el solicitante, en cada caso, debe proporcionar, cumplir y acompañar.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 9 DE OCTUBRE DE 2012)</small>
+
+###### ARTÍCULO 229 Bis.
+
+Los trámites de importación y exportación de los productos a los que se refiere el presente Reglamento, podrán presentarse por medios electrónicos.
+
+Los solicitantes que opten por los medios electrónicos en los trámites a que se refiere el párrafo anterior, deberán presentar la misma información y documentación que conforme a este Reglamento y demás disposiciones jurídicas aplicables requiere el trámite correspondiente. Dicha información y documentación deberá remitirse por dichos medios electrónicos.
+
+Los trámites realizados por medios electrónicos se substanciarán y resolverán por el mismo medio, por lo que las notificaciones realizadas al solicitante respecto de los requerimientos, actuaciones, resoluciones, exhibición, conservación o presentación de autorizaciones o documentación que deba entregar éste ante la autoridad competente y, en general, cualquier acto administrativo derivado de dichos trámites, se verificará vía electrónica, conforme a las disposiciones jurídicas aplicables.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -5594,3 +5606,9 @@ D.O.F. 24 DE ABRIL DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor ciento veinte días naturales posteriores al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- La Secretaría de Salud deberá publicar en el Diario Oficial de la Federación, dentro de los sesenta días hábiles siguientes a la publicación del presente Decreto, el formato de solicitud de tarjeta de control sanitario, el modelo que contenga el cuestionario, el consentimiento informado y la autorización del quien ejerza la patria potestad o tutor a que se refieren los artículos 224 Bis 2, 224 Bis 3, 224 Bis 4 y 224 Bis 5.
+
+D.O.F. 9 DE OCTUBRE DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor a los treinta días hábiles posteriores a la fecha de su publicación en el Diario Oficial de la Federación, salvo la adición del segundo párrafo a la fracción I del artículo 170 del Reglamento de Insumos para la Salud, la cual entrará en vigor al día siguiente de la publicación de este Decreto.
+
+SEGUNDO.- Las disposiciones del presente Decreto no le serán aplicables a los trámites que hayan sido presentados con anterioridad a la entrada en vigor del mismo.
