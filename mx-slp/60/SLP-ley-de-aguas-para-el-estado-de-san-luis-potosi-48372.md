@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-aguas-para-el-estado-de-san-luis-potosi-48372"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2012-09-13"
+last_updated: "2012-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2012.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -447,7 +447,7 @@ VI. Coordinar las actividades técnicas, administrativas y financieras de la Com
 
 VII. Celebrar los actos jurídicos de dominio y administración que sean necesarios para el funcionamiento de la Comisión;
 
-VIII. Gestionar y obtener, conforme a la legislación aplicable y previa autorización de la Junta de Gobierno, el financiamiento para obras, servicios y amortización de pasivos, así como suscribir créditos o títulos de crédito, contratos u obligaciones ante instituciones públicas y privadas, incluyendo operaciones crediticias con organismos financieros no nacionales, en los términos de la Ley de Deuda Pública del Estado de San Luis Potosí;
+VIII. Gestionar y obtener, conforme a la legislación aplicable y previa autorización de la Junta de Gobierno, el financiamiento para obras, servicios y amortización de pasivos, así como suscribir créditos o títulos de créditos, contratos u obligaciones ante instituciones públicas y privadas; incluyendo operaciones crediticias con organismos financieros no nacionales, en los términos de la Ley de Deuda Pública del Estado de San Luis Potosí;
 
 IX. Autorizar las erogaciones correspondientes del presupuesto y someter a la aprobación de la Junta de Gobierno las erogaciones extraordinarias;
 
@@ -2451,13 +2451,11 @@ En los lugares en donde no haya medidores o mientras éstos no se instalen, los 
 
 Cuando no sea posible medir el consumo debido a la destrucción total o parcial del medidor respectivo, el prestador de los servicios podrá optar por determinar los cargos en función de los consumos anteriores en los términos del artículo 228 de esta Ley, independientemente de los cargos a cubrir por la reposición del medidor.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2012)</small>
 
 ###### ARTICULO 183.
 
-Todo usurario está obligado al pago mensual de los servicios públicos de agua potable, alcantarillado y saneamiento, con base en las cuotas o tarifas fijadas en los términos de la presente Ley.
-
-Los usuarios deben pagar el importe de la tarifa o cuota, dentro del plazo razonable que señala el recibo correspondiente.
+Toda persona usuaria está obligada al pago mensual de los servicio (sic) públicos de agua potable, alcantarillado y saneamiento, con base en las cuotas o tarifas fijadas en los términos de la presente Ley, con excepción de aquellas quienes reciben estos servicios por parte de un organismo operador intermunicipal, mismos que deberán pagar bimestralmente.
 
 ###### ARTICULO 184.
 
@@ -3164,3 +3162,11 @@ P.O. 13 DE SEPTIEMBRE DE 2012.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 9 DE OCTUBRE DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+TERCERO. Que derivado de la presente reforma, los rangos de consumo contemplado en el artículo 6° del Decreto Legislativo No. 880 publicado en el Periódico Oficial del Estado el 31 de diciembre 2011, relativo a la ley de Cuotas y Tarifas para la prestación de Servicios Públicos del Organismo Operador Intermunicipal Metropolitano de Agua Potable, Alcantarillado, Saneamiento y Servicios Conexos de los municipios de, Cerro de San Pedro, San Luis Potosí, serán los mismos aprobados por parte de este Poder Legislativo el pasado 30 de diciembre del año 2010, y publicados en el Periódico Oficial del Estado bajo el Decreto legislativo numero 485, en edición extraordinaria.
