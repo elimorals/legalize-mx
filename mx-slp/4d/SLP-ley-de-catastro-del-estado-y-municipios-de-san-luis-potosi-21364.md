@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-catastro-del-estado-y-municipios-de-san-luis-potosi-2136
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-22"
-last_updated: "2011-12-24"
+last_updated: "2012-10-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21364&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY DE CATASTRO DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY DE CATASTRO DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ, PUBLICADA EN EL P.O. DE 9 DE OCTUBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 22 de marzo de 2001.
 
@@ -530,3 +532,13 @@ P.O. 24 DE DICIEMBRE DE 2011.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones, ordenamientos legales y administrativos que se opongan al presente Decreto.
+
+P.O. 9 DE OCTUBRE DE 2012.
+
+PRIMERO. La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley de Catastro del Estado de San Luis Potosí, publicada en el Periódico Oficial del Estado, el veintidós de marzo del dos mil uno mediante el Decreto Legislativo No. 98, Asimismo, se derogan todas las demás disposiciones que se opongan a lo establecido en esta Ley.
+
+TERCERO. Todos los actos, procedimientos y recursos administrativos relacionados con la materia de esta Ley que se hubieren iniciado bajo la vigencia de la Ley de Catastro que se abroga, se tramitarán y resolverán conforme a las disposiciones de la misma.
+
+CUARTO. Los ayuntamientos del Estado expedirán la reglamentación municipal en materia de catastro necesaria para la aplicación de esta Ley, para lo cual contarán con un plazo máximo de ciento ochenta días, a partir de su publicación.
