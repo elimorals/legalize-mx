@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-del-despacho-del-gobernador-del-estado-8065
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-04-07"
-last_updated: "2011-04-07"
+last_updated: "2012-10-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80650&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DEL DESPACHO DEL GOBERNADOR DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL DESPACHO DEL GOBERNADOR Y DE LA UNIDAD DE DEPENDENCIAS AUXILIARES, PUBLICADO EN EL P.O. DE 9 DE OCTUBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección XIII del Periódico Oficial del Estado de Jalisco, el jueves 7 de abril de 2011.
 
@@ -449,3 +451,11 @@ LIC. FERNANDO ANTONIO GUZMÁN PÉREZ PELÁEZ
 Secretario General de Gobierno
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE OCTUBRE DE 2012.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abroga el Reglamento Interior del Despacho del Gobernador del Estado de Jalisco publicado en el periódico oficial "El Estado de Jalisco" con fecha 7 de abril de 2011, y se derogan todas las disposiciones administrativas que se opongan al presente Reglamento.
