@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2012-09-26"
+last_updated: "2012-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -3121,21 +3121,17 @@ Para que proceda la aplicación de la pena de infanticidio, se requiere que la m
 
 Aborto es la muerte del producto de la concepción en cualquier momento de la preñez.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2012)</small>
+
 ###### Art. 228.
 
-Se impondrán de cuatro meses a un año de prisión a la madre que, voluntariamente, procure el aborto o consienta en que otra persona la haga abortar con ese fin, si concurrieren las siguientes circunstancias:
+Se impondrán de cuatro meses a un año de prisión a la madre que, voluntariamente, procure el aborto o consienta en que otra persona la haga abortar con ese fin y que el aborto se efectúe dentro de los primeros cinco meses del embarazo.
 
-I. Que no tenga mala fama;
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2012)</small>
 
-II. Que haya logrado ocultar su embarazo;
+Si el aborto se efectúa después de los primeros cinco meses del embarazo se duplicará la pena.
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2009)</small>
-
-III. Que éste sea fruto de una unión ilegítima, y
-
-IV. Que el aborto se efectúe dentro de los primeros cinco meses del embarazo.
-
-Faltando una de las circunstancias anteriores se le duplicará la pena, pero si faltaren dos o más, se podrá triplicar.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 9 DE OCTUBRE DE 2012)</small>
 
 La misma sanción se impondrá al que haga abortar a una mujer a solicitud de ésta, siempre que no se trate de un abortador habitual o de persona ya condenada por aborto, pues en tal caso la sanción será de dos a cinco años de prisión.
 
@@ -4918,3 +4914,7 @@ QUINTO. El presente decreto no será aplicable de manera retroactiva en contra d
 SEXTO. Las nuevas disposiciones del artículo 17, contempladas en las fracciones III, IV y V, de la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, aplicarán a los nombramientos que se elaboren con posterioridad al presente decreto.
 
 SÉPTIMO. En tanto las entidades públicas no definan la unidad administrativa que fungirá como órgano de control disciplinario de conformidad con el artículo 25 de la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, el titular de la dependencia o entidad podrá delegar al funcionario encargado del jurídico, o quien haga sus veces, mediante acuerdo, la facultad de iniciar el procedimiento respectivo, quien una vez desahogado el mismo, remitirá las actuaciones al titular o encargado para que dicte la resolución respectiva.
+
+P.O. 9 DE OCTUBRE DE 2012.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
