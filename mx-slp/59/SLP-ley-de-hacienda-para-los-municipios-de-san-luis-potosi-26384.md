@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-los-municipios-de-san-luis-potosi-26384"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-06"
-last_updated: "2012-06-19"
+last_updated: "2012-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2012.
 
 Ley publicada en la Sección Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 6 de noviembre de 2001.
 
@@ -292,6 +292,22 @@ Están exentas de este impuesto las adquisiciones de inmuebles que hagan la Fede
 La base del impuesto es el que resulte mayor entre el precio pactado o valor declarado de la operación y, el valor catastral del inmueble.
 
 Para efecto de determinar la base del impuesto, deberá obtenerse un avalúo catastral con una antigüedad no mayor de seis meses a partir de la fecha en que se formalice la operación.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2012)</small>
+
+La certificación de avalúo a que se refiere el articulo 6 fracción I de la Ley de Catastro del Estado y Municipios de San Luis Potosí, previo el pago de derechos, podrá solicitarse y obtenerse directamente en las oficinas o módulos que la Autoridad tenga habilitados para tal fin, o bien, de manera electrónica a través de las páginas en la red de comunicación internet, cuyo dominio tengan los H. Ayuntamientos y que contengan, de oficio, la base de datos del padrón catastral, de cada inmueble, en forma completa y actualizada, en términos de las Leyes de Catastro y de Transparencia y Acceso a la Información Pública del estado de San Luis Potosí.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2012)</small>
+
+El pago de los derechos mencionados se podrá efectuar en las oficinas referidas, o bien, en línea, de manera electrónica, a través del portal que los H. Ayuntamientos autoricen, a efecto de que se les abone en la cuenta bancaria de las instituciones de crédito con las que así hayan convenido.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2012)</small>
+
+Los Ayuntamientos del Estado, que adopten el sistema de expedición y cobro electrónico en línea, deberán establecer los mecanismos necesarios para tal fin y elaborar los procesos que dicha actividad requiera, posibilitando que se obtenga una mejor y más fácil recaudación, de manera ágil y eficiente y una expedición de avalúos expedita, que posibilite el pago del Impuesto Sobre Adquisición de inmueble y otros Derechos Reales, en los mismos términos, pudiendo efectuarse incluso de inmediato., (sic) A este efecto, le son aplicables las disposiciones relativas a los avalúos.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2012)</small>
+
+Los servidores públicos designados por los H. Ayuntamientos que adopten este sistema, quedan debidamente facultados para firmar electrónicamente los documentos oficiales a que se ha hecho mención, bajo las reglas, términos y condiciones que al efecto se establezcan.
 
 ###### ARTICULO 31.
 
@@ -784,6 +800,12 @@ P.O. 19 DE JUNIO DE 2012.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE OCTUBRE DE 2012.
+
+PRIMERO.- Estas reformas y adiciones entraran en vigor al día siguientes (sic) de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abrogan y derogan las disposiciones que se opongan al presente decreto.
 
 ###### ARTICULO 82.
 
