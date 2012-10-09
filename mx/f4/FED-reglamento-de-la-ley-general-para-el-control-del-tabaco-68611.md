@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-general-para-el-control-del-tabaco-68611"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-31"
-last_updated: "2009-05-31"
+last_updated: "2012-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68611&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-05-29"
 
 REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE OCTUBRE DE 2012.
 
 Reglamento publicado en el Diario Oficial de la Federación, el domingo 31 de mayo de 2009.
 
@@ -266,6 +266,18 @@ En caso de incumplimiento de lo establecido en la Ley, este Reglamento y demás 
 ###### Artículo 29.
 
 Los trámites a que se refiere el presente Título deberán iniciarse utilizando los formatos autorizados y publicados en el Diario Oficial de la Federación. En dichos formatos se especificarán los datos, requisitos y documentos que el solicitante, en cada caso, debe proporcionar, cumplir y acompañar.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 9 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 29 Bis.
+
+El trámite para el permiso sanitario previo de importación a que se refiere el presente Reglamento, podrá presentarse por medios electrónicos.
+
+Los solicitantes que opten por los medios electrónicos en el trámite a que se refiere el párrafo anterior, deberán presentar la misma información y documentación que conforme a este Reglamento y demás disposiciones jurídicas aplicables requiere dicho trámite. Esta información y documentación deberá remitirse por dichos medios electrónicos.
+
+Los trámites realizados por medios electrónicos se substanciarán y resolverán por el mismo medio, por lo que las notificaciones realizadas al solicitante respecto de los requerimientos, actuaciones, resoluciones, exhibición, conservación o presentación de autorizaciones o documentación que deba entregar éste ante la autoridad competente y, en general, cualquier acto administrativo derivado de dichos trámites, se verificará vía electrónica, conforme a las disposiciones jurídicas aplicables.
 
 ### Capítulo Cuarto. Empaquetado y Etiquetado
 
@@ -718,3 +730,11 @@ QUINTO.- En los casos que conforme a este Reglamento se requiera proporcionar co
 Para el caso de que por alguna causa la licencia sanitaria sea negada por la autoridad competente, no se otorgará el permiso previo de importación a que se refiere este Reglamento.
 
 Dado en la Residencia del Ejecutivo Federal, en la Ciudad de México, Distrito Federal a veintinueve de mayo de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Salud, José Ángel Córdova Villalobos.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 9 DE OCTUBRE DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor a los treinta días hábiles posteriores a la fecha de su publicación en el Diario Oficial de la Federación, salvo la adición del segundo párrafo a la fracción I del artículo 170 del Reglamento de Insumos para la Salud, la cual entrará en vigor al día siguiente de la publicación de este Decreto.
+
+SEGUNDO.- Las disposiciones del presente Decreto no le serán aplicables a los trámites que hayan sido presentados con anterioridad a la entrada en vigor del mismo.
