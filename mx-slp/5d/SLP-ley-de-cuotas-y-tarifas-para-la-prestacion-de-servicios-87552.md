@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-cuotas-y-tarifas-para-la-prestacion-de-servicios-87552"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-31"
-last_updated: "2011-12-31"
+last_updated: "2012-10-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DE CUOTAS Y TARIFAS PARA LA PRESTACION DE SERVICIOS PUBLICOS DEL ORGANISMO OPERADOR INTERMUNICIPAL METROPOLITANO DE AGUA POTABLE, ALCANTARILLADO, SANEAMIENTO Y SERVICIOS CONEXOS DE LOS MUNICIPIOS DE CERRO DE SAN PEDRO, SAN LUIS POTOSI Y SOLEDAD DE GRACIANO SANCHEZ, SAN LUIS POTOSI
 
-LEY DE CUOTAS Y TARIFAS PARA LA PRESTACIÓN DE SERVICIOS PÚBLICOS DEL ORGANISMO OPERADOR INTERMUNlCIPAL METROPOLITANO DE AGUA POTABLE, ALCANTARILLADO, SANEAMIENTO Y SERVICIOS CONEXOS DE LOS MUNICIPIOS DE CERRO DE SAN PEDRO, SAN LUIS POTOSÍ Y SOLEDAD DE GRACIANO SANCHEZ, S.LP.
+LEY DE CUOTAS Y TARIFAS PARA LA PRESTACIÓN DE SERVICIOS PÚBLICOS DEL ORGANISMO OPERADOR INTERMUNlCIPAL METROPOLITANO DE AGUA POTABLE, ALCANTARILLADO, SANEAMIENTO Y SERVICIOS CONEXOS DE LOS MUNICIPIOS DE CERRO DE SAN PEDRO, SAN LUIS POTOSÍ Y SOLEDAD DE GRACIANO SÁNCHEZ, S.L.P.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2012.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 31 de diciembre de 2011.
 
@@ -115,9 +115,13 @@ Para mayores diámetros el organismo operador calculará la demanda máxima en l
 
 Las cuotas anteriores son independientes de los costos derivados por los trabajos necesarios para hacer la conexión a la red de agua potable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2012)</small>
+
 ###### ARTICULO 4.
 
-El pago derivado del suministro de agua potable de uso mínimo (cuota fija), se causará mensual, conforme a las siguientes clasificaciones y tarifas:
+El pago derivado del suministro de agua potable de uso mínimo (cuota fija), se causará bimestralmente, conforme a las siguientes clasificaciones y tarifas:
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2012)</small>
 
 Zona Económica Económica Residencial
 
@@ -125,23 +129,25 @@ Económica Popular SGS y CSP S.L.P.
 
 Uso doméstico
 
-Mensual $41.73 $66.34 $83.12 $244.34
+Bimestral $83.46 $132.68 $166.24 $488.68
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2012)</small>
 
 Otros Usos Tarifa
 
 Instituciones Públicas
 
-Pequeño $107.73
+Pequeño $215.46
 
-Mediano $347.08
+Mediano $694.16
 
-Grande $427.68
+Grande $855.36
 
 Uso Comercial
 
-Pequeño $173.72
+Pequeño $347.44
 
-Mediano y Grande $608.11
+Mediano y Grande $1,216.22
 
 El uso industrial se facturará por consumo de agua medido.
 
@@ -149,63 +155,71 @@ El uso industrial se facturará por consumo de agua medido.
 
 Para los efectos del pago de la tarifa para el servicio doméstico uso mínimo (cuota fija), las mismas se determinaron con base en las zonas económicas en que se divide la zona conurbada de Soledad de Graciano Sánchez, Cerro de San Pedro y San Luis Potosí.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2012)</small>
+
 ###### ARTICULO 6°.
 
-El pago de suministro de agua potable se efectuará mensual, y su monto se cuantificará conforme a la tarifa directa a su rango de consumo, con las siguientes clasificaciones:
+El pago de suministro de agua potable se efectuará bimestralmente y su monto se cuantificará conforme a la tarifa directa a su rango de consumo, con las siguientes clasificaciones:
 
-SERVICIO MEDIDO DOMESTICO
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2012)</small>
+
+SERVICIO MEDIDO
+
+DOMESTICO
 
 RANGO DE CONSUMO TOTAL
 
-MENSUAL POR M3
+BIMESTRAL POR M3
 
 M3 TARIFA
 
-HASTA 12.5 $2.99
+HASTA 25 $5.98
 
-HASTA 15 $2.99
+HASTA 30 $5.98
 
-HASTA 20 $5.71
+HASTA 40 $11.42
 
-HASTA 25 $7.42
+HASTA 50 $14.84
 
-HASTA 30 $7.70
+HASTA 60 $15.40
 
-HASTA 50 $10.14
+HASTA 100 $20.28
 
-HASTA 80 $12.41
+HASTA 160 $24.82
 
-HASTA 100 $12.55
+HASTA 200 $25.10
 
-HASTA 125 $19.97
+HASTA 250 $39.94
 
-HASTA 126 Y
+HASTA 251 O MAS $48.50
 
-SUPERIORES $24.25
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2012)</small>
 
 SERVICIOS MEDIDO
 
-INSTITUCIONES PÚBLICAS
+INSTITUCIONES PUBLICAS
 
 RANGO DE CONSUMO TOTAL
 
-MENSUAL POR M3
+BIMESTRAL POR M3
 
 M3 TARIFA
 
-HASTA 15 $ 7.56
+HASTA 30 $15.12
 
-HASTA 25 $10.71
+HASTA 50 $21.42
 
-HASTA 50 $11.27
+HASTA 100 $22.54
 
-HASTA 80 $15.69
+HASTA 160 $31.38
 
-HASTA 100 $17.12
+HASTA 200 $34.24
 
-HASTA 125 $26.40
+HASTA 250 $52.80
 
-DE 126 Y SUPERIORES $28.82
+DE 251 O MAS $57.64
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2012)</small>
 
 SERVICIO MEDIDO
 
@@ -213,27 +227,29 @@ COMERCIAL
 
 RANGO DE CONSUMO TOTAL
 
-MENSUAL POR M3
+BIMESTRAL POR M3
 
 M3 TARIFA
 
-HASTA 7.5 $10.40
+HASTA 15 $20.80
 
-HASTA 15 $10.40
+HASTA 30 $20.80
 
-HASTA 35 $12.27
+HASTA 70 $24.54
 
-HASTA 50 $12.41
+HASTA 100 $24.82
 
-HASTA 55 $17.12
+HASTA 110 $34.24
 
-HASTA 75 $18.55
+HASTA 150 $37.10
 
-HASTA 90 $20.69
+HASTA 180 $41.38
 
-HASTA 100 $21.40
+HASTA 200 $42.80
 
-HASTA 101 O MAS* $26.53
+HASTA 201 y Superior $53.06
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2012)</small>
 
 SERVICIO MEDIDO
 
@@ -245,27 +261,29 @@ MENSUAL POR M3
 
 M3 TARIFA
 
-HASTA 30 $15.69
+HASTA 30 $31.36
 
-HASTA 50 $16.40
+HASTA 50 $32.80
 
-HASTA 100 $17.12
+HASTA 100 $34.24
 
-HASTA 120 $19.98
+HASTA 120 $39.96
 
-HASTA 160 $20.69
+HASTA 160 $41.38
 
-HASTA 200 $22.10
+HASTA 200 $44.20
 
-HASTA 220· $24.90
+HASTA 220 $49.80
 
-HASTA 221 O MAS· $25.92
+HASTA 221 O MAS* $51.54
 
 DISPONIBILIDAD DEL SERVICIO
 
 TARIFA
 
-MENSUAL $24.25
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2012)</small>
+
+BIMESTRAL $24.25
 
 CUOTA FIJA MENSUAL INDUSTRIAL
 
@@ -596,3 +614,13 @@ El Secretario General de Gobierno
 Lic. Cándido Ochoa Rojas
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE OCTUBRE DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+TERCERO. Que derivado de la presente reforma, los rangos de consumo contemplado en el artículo 6° del Decreto legislativo No. 880 publicado en el Periódico Oficial del Estado el 31 de diciembre 2011, relativo a la ley de Cuotas y Tarifas para la prestación de Servicios Públicos del Organismo Operador Intermunicipal Metropolitano de Agua Potable, Alcantarillado, Saneamiento y Servicios Conexos de los municipios de, Cerro de San Pedro, San luis Potosí, serán los mismos aprobados por parte .de este Poder legislativo el pas.ado 30 de diciembre del año 2010, Y publicados en el Periódico Oficial del Estado bajo el Decreto legislativo numero 485, en edición extraordinaria.
