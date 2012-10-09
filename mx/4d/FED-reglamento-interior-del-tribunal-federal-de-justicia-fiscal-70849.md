@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-tribunal-federal-de-justicia-fiscal-708
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-13"
-last_updated: "2012-09-18"
+last_updated: "2012-10-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70849&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-11-11"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE OCTUBRE DE 2012.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 13 de noviembre de 2009.
 
@@ -607,9 +607,9 @@ I.- Una Sala Especializada en Materia de Propiedad Intelectual, con sede en el D
 
 II.- Una Sala Especializada en Juicios en Línea, con sede en el Distrito Federal, con competencia exclusiva para tramitar y resolver, en todo el territorio nacional, de los juicios en línea o bien de los que conforme a la Ley Federal de Procedimiento Contencioso Administrativo se deban tramitar de manera simultánea en línea y en la vía tradicional, que se promuevan en los supuestos señalados en los artículos 14 y 15 de la Ley, sin perjuicio de que la Sala Especializada en Materia de Propiedad Intelectual conozca de los juicios de su competencia que se tramiten en cualquiera de las vías señaladas;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE OCTUBRE DE 2012)</small>
 
-III.- Una Sala Especializada en Resoluciones de Organos Reguladores de la Actividad del Estado, con sede en el Distrito Federal, que tendrá competencia material en todo el territorio nacional para tramitar y resolver los juicios que se promuevan contra resoluciones definitivas que encuadren en los supuestos previstos por las fracciones III, XI, XII, XIV, penúltimo y último párrafos del artículo 14 de la Ley, dictadas por las Secretarías de Estado y entidades de la Administración Pública Federal, en materia de competencia económica, mejora regulatoria, telecomunicaciones, salud y riesgos sanitarios, acuacultura y pesca, transporte aéreo, hidrocarburos, seguridad nuclear y salvaguardias, ahorro para el retiro, intermediación financiera bancaria y no bancaria, protección y defensa de los usuarios de servicios financieros y reguladora de energía, así como las dictadas por los Organos Reguladores de la Actividad del Estado, aun cuando cambien de denominación, surjan otras distintas o desaparezcan, caso en el cual conocerá de las resoluciones que emita el órgano que asuma las funciones de la desaparecida, siendo en la actualidad las que a continuación se precisan:
+III.- Una Sala Especializada en Resoluciones de Organos Reguladores de la Actividad del Estado, con sede en el Distrito Federal, que tendrá competencia material en todo el territorio nacional para tramitar y resolver los juicios que se promuevan contra resoluciones definitivas, actos administrativos y procedimientos, que encuadren en los supuestos previstos por las fracciones III, XI, XII y XIV, penúltimo y último párrafo, del artículo 14 de la Ley, dictadas por los Organos Reguladores a que se refiere esta fracción, así como por las Secretarías de Estado y entidades de la Administración Pública Federal directamente relacionadas con las materias que sean competencia de los Organos Reguladores de la Actividad del Estado. Para los efectos de esta fracción, los Organos Reguladores de la Actividad del Estado son únicamente los siguientes:
 
 a) Comisión Federal de Competencia (CFC), en lo que resulte competente
 
@@ -2662,3 +2662,9 @@ CUARTO.- En términos de lo señalado por el artículo 41, fracciones I y IV, de
 QUINTO.- Se instruye a la Secretaría Operativa de Administración y a la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones, para que a partir de la aprobación del presente Acuerdo, realicen todas las gestiones, acciones, trámites administrativos y presupuestales, entre otros, para implementar lo dispuesto en el presente Acuerdo.
 
 SEXTO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE OCTUBRE DE 2012.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Para todo lo no previsto en el presente Acuerdo se estará a lo que resuelva el órgano competente del Tribunal Federal de Justicia Fiscal y Administrativa.
