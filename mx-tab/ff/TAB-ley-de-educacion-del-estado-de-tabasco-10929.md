@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-educacion-del-estado-de-tabasco-10929"
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-26"
-last_updated: "2012-05-26"
+last_updated: "2012-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE EDUCACIÓN DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el miércoles 26 de febrero de 1997.
 
@@ -867,11 +867,15 @@ V.- Comprenderá los servicios de alfabetización, primaria, secundaria, fomento
 
 #### Sección XI. DE LA FORMACIÓN PARA EL TRABAJO
 
-Artículo 94 La formación para el trabajo, tiene por objeto proporcionar al individuo los conocimientos, habilidades o destrezas que le permitan desarrollar una actividad productiva, mediante alguna ocupación u oficio calificado, demandada en el mercado.
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2012)</small>
+
+Artículo 94 La formación para el trabajo, tiene por objeto proporcionar al individuo los conocimientos, habilidades o destrezas que le permitan desarrollar una actividad productiva, mediante alguna ocupación u oficio calificado, demandada en el mercado, incluyendo la educación a los estudiantes mayores de 15 años, con capacidades diferentes mediante los programas de capacitación de la escuela de oficios integral.
 
 Artículo 95 El Ejecutivo del Estado podrá celebrar convenios con los Ayuntamientos, sindicatos y con el sector productivo de la entidad para que ofrezcan cursos o programas específicos de formación para el trabajo.
 
-Artículo 96 La educación a que se refiere la presente Ley tendrá las modalidades de escolarizada, no escolarizada o mixta.
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2012)</small>
+
+Artículo 96 La educación a que se refiere la presente Ley tendrá las modalidades de la enseñanza escolarizada, no escolarizada o mixta, incluyendo el Sistema USAER (UNIDADES DE SERVICIO Y APOYO A LA EDUCACION REGULAR), y la educación a los estudiantes mayores de 15 años en adelante, con capacidades diferentes, mediante los programas de capacitación de la escuela de oficios integral.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 24 DE DICIEMBRE DE 2008)</small>
 
@@ -1335,7 +1339,9 @@ V.- Informar a las autoridades educativas y escolares sobre cualquier irregulari
 
 VI.- Fomentar y mantener las relaciones de colaboración y respeto mutuo entre los trabajadores de la educación, los alumnos y los padres de familia, para un aprovechamiento óptimo de los educandos y del cumplimiento de los planes y programas educativos;
 
-VII.- Colaborar en la ejecución de proyectos estratégicos que mejoren la vida familiar y social de sus miembros;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2012)</small>
+
+VII.- Colaborar en la ejecución de proyectos estratégicos que mejoren la vida familiar y social de sus miembros; y bajo la modalidad de escuela de oficios integral para alumnos con capacidades diferentes, vigilar el cumplimiento del programa educativo haciéndolo extensivo para las actividades en casa.
 
 VIII.- Coadyuvar con las autoridades escolares y educativas, en las actividades y campañas de beneficio social, cultural, sanitario y ecológico que se efectúen en sus comunidades; y
 
@@ -1560,6 +1566,16 @@ P.O. 26 DE MAYO DE 2012.
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor a los 90 días siguientes de su publicación en el Periódico Oficial.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones legales que se opongan a la presente Ley.
+
+P.O. 10 DE OCTUBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO SEGUNDO.
 
