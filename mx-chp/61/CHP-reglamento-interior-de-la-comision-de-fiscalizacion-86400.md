@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-la-comision-de-fiscalizacion-86400"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-12-14"
-last_updated: "2011-12-14"
+last_updated: "2012-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DE LA COMISIÓN DE FISCALIZACIÓN ELECTORAL DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2012.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 14 de diciembre de 2011.
 
@@ -112,6 +112,10 @@ c) Unidad de Informática.
 V. De control:
 
 a) Contraloría Interna.
+
+> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2012)</small>
+
+Además de lo anterior, podrá crear otros órganos, con el fin de realizar acciones de promoción a la cultura y fortalecimiento de la legalidad electoral, capacitación, desarrollo y profesionalización de los servidores públicos de la Comisión, Partidos Políticos, autoridades electorales, instituciones públicas y en general de cualquier ciudadano interesado en los mismos; para lo cual podrá promover y/o gestionar ante las instituciones correspondientes las acciones necesarias encaminadas a obtener los permisos y/o autorizaciones, concesiones para desarrollar e impartir cursos, posgrados, Diplomados, entre otros, en cumplimiento a lo establecido en el artículo 197, fracciones XVII y XXV, del Código de Elecciones y Participación Ciudadana.
 
 ###### Artículo 6°.
 
@@ -884,3 +888,11 @@ Artículo Sexto.- En tanto se expide el Manual de Organización respectivo, el P
 Artículo Séptimo.- La Secretaría Ejecutiva tan pronto sea aprobado el presente instrumento procederá a su difusión solicitando al órgano correspondiente su publicación en el Periódico Oficial del Estado.
 
 Así lo aprobaron por unanimidad de votos de los ciudadanos Erik Alejandro Ocaña Espinosa, Rafael Augusto Morales Ochoa y Francisco Moisés Bedwell Jiménez, Presidente y Contralores Electorales de esta Comisión, respectivamente, ante el ciudadano Gabriel Enrique Bravo del Carpio, Secretario Ejecutivo, quién actúa y da fe, a los tres días del mes de noviembre del año dos mil once, en la ciudad de Tuxtla Gutiérrez, Chiapas.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE OCTUBRE DE 2012.
+
+Artículo Primero.- La presente Adición al Reglamento entrará en vigor a partir de su aprobación por el Pleno.
+
+Artículo Segundo.- La Secretaría Ejecutiva tan pronto sea aprobado el presente instrumento procederá a su difusión solicitando al órgano correspondiente su publicación en el Periódico Oficial del Estado.
