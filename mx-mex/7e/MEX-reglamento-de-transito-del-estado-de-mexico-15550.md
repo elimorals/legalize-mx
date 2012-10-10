@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-transito-del-estado-de-mexico-15550"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-21"
-last_updated: "2012-09-20"
+last_updated: "2012-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DE TRÁNSITO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE OCTUBRE DE 2012.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el lunes 21 de septiembre de 1992.
 
@@ -531,7 +531,7 @@ III.- Identificación oficial vigente,
 
 IV.- Comprobante de domicilio vigente,
 
-V.- Aprobar el examen de conocimientos del Reglamento de Tránsito del Estado de México,
+V.- (DEROGADA, G.G. 10 DE OCTUBRE DE 2012)
 
 VI.- Firmar el manifiesto.
 
@@ -545,7 +545,7 @@ III.- Identificación oficial vigente,
 
 IV.- Comprobante de domicilio vigente,
 
-V.- Aprobar el examen de conocimientos del Reglamento de Tránsito del Estado de México,
+V.- (DEROGADA, G.G. 10 DE OCTUBRE DE 2012)
 
 VI.- Aprobar el examen Médico,
 
@@ -556,6 +556,10 @@ VIII.- Aprobar el examen Toxicológico,
 IX.- Firmar el manifiesto.
 
 Se podrá expedir licencia y/o permiso para conducir vehículos y así como la tarjeta de identificación personal para operadores de transporte público, a toda persona que padezca de incapacidad física, siempre y cuando demuestre mediante certificado medico expedido por instituciones públicas de salud autorizadas, estar apta para conducir vehículos automotores, igualmente el vehículo deberá estar provisto con los mecanismos apropiados para su manejo.
+
+> <small>(ADICIONADO, G.G. 10 DE OCTUBRE DE 2012)</small>
+
+Para la obtención de la licencia para conducir vehículos o el permiso provisional de práctica "B", es necesario aprobar por única vez, el examen a que hace referencia este Reglamento, no siendo necesario dicho examen en las reexpediciones posteriores.
 
 > <small>(REFORMADO, G.G. 8 DE OCTUBRE DE 1998)</small>
 
@@ -1672,3 +1676,9 @@ TERCERO.- Las Secretarías de Finanzas y de Seguridad Ciudadana; en su esfera ad
 CUARTO.- Dentro de los sesenta días hábiles siguientes a la entrada en vigor del presente Acuerdo, las Secretarías de Finanzas y de Seguridad Ciudadana, dispondrán lo necesario para que los agentes de tránsito cuenten con la terminal electrónica.
 
 QUINTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en las presentes reformas.
+
+G.G. 10 DE OCTUBRE DE 2012.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Acuerdo, entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
