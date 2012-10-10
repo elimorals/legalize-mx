@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-del-servicio-de-tesoreria-de-la-13627"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-03-15"
-last_updated: "2004-05-07"
+last_updated: "2012-10-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13627&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "1999-02-22"
 ---
 # REGLAMENTO DE LA LEY DEL SERVICIO DE TESORERIA DE LA FEDERACION
 
-REGLAMENTO DE LA LEY DEL SERVICIO DE TESORERIA DE LA FEDERACION
+REGLAMENTO DE LA LEY DEL SERVICIO DE TESORERÍA DE LA FEDERACIÓN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE MAYO DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE OCTUBRE DE 2012.
 
 Reglamento Publicado en la Primera Sección del Diario Oficial de la Federación el lunes 15 de marzo de 1999.
 
@@ -2265,7 +2265,7 @@ Por lo que respecta a las concentraciones extemporáneas de fondos federales rec
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintidós días del mes de febrero de mil novecientos noventa y nueve.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Ángel Gurría Treviño.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
 
 D.O.F. 7 DE MAYO DE 2004.
 
@@ -2283,19 +2283,13 @@ QUINTO.- Los asuntos que a la entrada en vigor del presente Decreto se encuentre
 
 Los recursos humanos relativos al ejercicio de las facultades indicadas en el párrafo anterior serán transferidos a la Administración General de Aduanas del Servicio de Administración Tributaria. El Jefe del citado órgano desconcentrado determinará la distribución que de los expedientes correspondientes al ejercicio de las mencionadas facultades deba hacerse a las unidades administrativas del Servicio de Administración Tributaria.
 
-SEXTO.- Las facultades a que se refieren las fracciones XIII a la XIX del artículo 7o., LXVI del artículo 10 y LII del artículo 11, que se modifican por virtud de este Decreto, respectivamente, serán ejercidas por las Coordinaciones Administrativas que se determinen para tal efecto, mismas que quedarán adscritas una a cada Subsecretaría, una a la Procuraduría Fiscal de la Federación y una a la Tesorería de la Federación. Dichas Coordinaciones Administrativas fungirán como ventanilla única entre las unidades administrativas antes citadas y la Oficialía Mayor en los trámites y solicitudes que se deban llevar a cabo para la atención de cualquier asunto relacionado con recursos materiales, humanos o financieros.
-
-La Oficialía Mayor contará con una Coordinación Administrativa que, con base en las fracciones XIII a la XIX del artículo 7o. que se modifican por virtud de este Decreto, atenderá los asuntos administrativos de las áreas adscritas a dicha Oficialía.
-
-Los asuntos administrativos de la Unidad de Comunicación Social y Vocero, de la Unidad de Coordinación con Entidades Federativas, de la Unidad de Inteligencia Financiera, de la Coordinación General de Tecnologías de Información y Comunicaciones y de la Coordinación General de Calidad y Seguridad de la Información, serán tramitados ante la Oficialía Mayor por cualquiera de las Coordinaciones Administrativas a que se refieren los párrafos primero y segundo de este precepto que al efecto determine el Secretario.
-
-Las Coordinaciones Administrativas a que se refieren los párrafos primero y segundo de este precepto, tendrán en su estructura hasta dos direcciones de área.
+SEXTO.- (DEROGADO, D.O.F. 10 DE OCTUBRE DE 2012)
 
 SÉPTIMO.- Las estructuras distintas a las Direcciones de Técnica Operativa a que se refiere el artículo 92 que se deroga por virtud de este Decreto, que antes de la entrada en vigor del presente ordenamiento hayan realizado funciones de coordinación administrativa, deberán desaparecer de conformidad con las disposiciones aplicables. Lo anterior con excepción del personal asignado a funciones de control de gestión que quedará adscrito a las Jefaturas de Unidad o a las Direcciones Generales que correspondan, en tanto se implementa el sistema automatizado de control de documentos y previa autorización de la Coordinación General de Tecnologías de Información y Comunicaciones; así como con excepción de hasta dos servidores públicos con nivel máximo de Director de Área y Subdirector de Área, respectivamente, que la Unidad de Crédito Público, la Unidad de Planeación Económica de la Hacienda Pública y la Dirección General de Asuntos Internacionales de Hacienda tengan asignados para realizar funciones de control, seguimiento y cualquier otra actividad relacionada con contratos o convenios de los que deriven obligaciones pecuniarias para la Secretaría relacionados con las funciones sustantivas de dichas áreas, que quedarán adscritos a las mismas para continuar realizando dichas actividades.
 
 El personal adscrito a la Dirección de Técnica Operativa de la Tesorería de la Federación, que hasta antes de la entrada en vigor del presente Decreto haya ejercido funciones en materia de coordinación y supervisión de las actividades del Resguardo Federal de Valores, será transferido a la unidad administrativa que al efecto determine la citada Tesorería en términos del artículo 11, fracción LI que se modifica por virtud de este Decreto.
 
-OCTAVO.- Cuando concurran dos o más Coordinaciones Administrativas en un mismo inmueble, las facultades de administración de éste se ejercerán por la Coordinación Administrativa adscrita a la Subsecretaría de Hacienda y Crédito Público; a la de Ingresos; a la de Egresos; a la Procuraduría Fiscal de la Federación y a la Tesorería de la Federación, en el orden indicado, sin perjuicio de lo que al efecto disponga el Secretario.
+OCTAVO.- (DEROGADO, D.O.F. 10 DE OCTUBRE DE 2012)
 
 NOVENO.- Dentro de los 30 días naturales contados a partir de la publicación del presente Decreto en el Diario Oficial de la Federación, las subsecretarías de Hacienda y Crédito Público y de Egresos, la Tesorería de la Federación, así como la Oficialía Mayor, en el ámbito de sus respectivas competencias, transferirán a la Coordinación General de Tecnologías de Información y Comunicaciones los recursos humanos, financieros y materiales relacionados con los servicios informáticos que actualmente se encuentren a su cargo, que sean necesarios para el desempeño de las atribuciones conferidas a la citada Coordinación General.
 
@@ -2316,3 +2310,31 @@ Hasta en tanto se lleve a cabo la instalación del Sistema Integral de Administr
 DÉCIMO QUINTO. Se abroga el Acuerdo que establece el Sistema Integral de Administración Financiera Federal, publicado en el Diario Oficial de la Federación el 27 de enero de 1998, así como el Acuerdo por el que se establecen los lineamientos relativos al funcionamiento, organización y requerimientos de operación del Sistema Integral de Administración Financiera Federal, publicado en el Diario Oficial de la Federación el 30 de abril de 2002.
 
 DÉCIMO SEXTO.- Dentro de los 30 días naturales contados a partir de la publicación del presente Decreto en el Diario Oficial de la Federación, la Dirección General de Programación y Presupuesto "B" someterá a consideración del Secretario las políticas, directrices, normas o criterios técnicos y administrativos para la mejor organización y funcionamiento de los órganos desconcentrados de la Secretaría y las entidades del sector coordinado por la misma, incluyendo los relativos a la materia presupuestaria, de administración de sueldos y de prestaciones.
+
+D.O.F. 10 DE OCTUBRE DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las referencias que se hagan y las atribuciones que se otorgan en leyes, decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones a las unidades administrativas que cambian de denominación, adscripción o desaparecen por virtud del presente Decreto, se entenderán hechas o conferidas a las unidades administrativas que resulten competentes conforme al mismo.
+
+TERCERO.- Las modificaciones a la estructura orgánica de las unidades administrativas de la Secretaría de Hacienda y Crédito Público que se deriven de la entrada en vigor del presente Decreto, se realizarán a través de movimientos compensados del presupuesto autorizado de servicios personales a dicha Secretaría para el ejercicio fiscal en curso, por lo que no se incrementará el presupuesto regularizable de servicios personales para el siguiente ejercicio fiscal.
+
+CUARTO.- Los asuntos en trámite que son llevados por unidades administrativas que desaparecen, cambian de denominación o modifican sus atribuciones, en virtud de la entrada en vigor del presente Decreto serán atendidos y resueltos por las unidades administrativas a las que se les da la competencia correspondiente en este ordenamiento.
+
+QUINTO.- Los asuntos en trámite a cargo de las direcciones de Defraudación Fiscal, de Contrabando, de Delitos Financieros, de Delitos Diversos, de Control Procedimental "A", de Control Procedimental "B", de Control Procedimental "C" y regionales, adscritas las dos primeras a la Dirección General de Delitos Fiscales, la tercera y cuarta a la Dirección General de Delitos Financieros y Diversos, y la quinta, sexta y séptima a la Dirección General de Control Procedimental, y las octavas a la Subprocuraduría Fiscal Federal de Investigaciones, previstas en los artículos 82-A, 82-B, 83-A, 84, 86, 87, 87-A y 96, respectivamente, que se derogan, continuarán tramitándose hasta su conclusión por los titulares de las direcciones de investigaciones a que se refiere el artículo 86 de este Reglamento, que estén adscritas a las referidas Direcciones Generales.
+
+SEXTO.- Los asuntos relativos a la autorización para organizar y operar una institución de banca múltiple y que a la entrada en vigor del presente Decreto se encuentren en trámite en la Unidad de Banca, Valores y Ahorro, serán tramitados por ésta hasta su conclusión, para lo cual continuará ejerciendo las facultades conferidas en el presente Reglamento hasta antes de la entrada en vigor del presente Decreto.
+
+SÉPTIMO.- En tanto entran en vigor las reformas, adiciones y derogaciones a que se refieren los artículos Segundo y Tercero del "Decreto por el que se reforman, derogan y adicionan diversas disposiciones de la Ley General de Títulos y Operaciones de Crédito, Ley General de Organizaciones y Actividades Auxiliares del Crédito, Ley de Instituciones de Crédito, Ley General de Instituciones y Sociedades Mutualistas de Seguros, Ley Federal de Instituciones de Fianzas, Ley para Regular las Agrupaciones Financieras, Ley de Ahorro y Crédito Popular, Ley de Inversión Extranjera, Ley del Impuesto sobre la Renta, Ley del Impuesto al Valor Agregado y del Código Fiscal de la Federación", publicado el 18 de julio de 2006 en el Diario Oficial de la Federación, la Unidad de Banca, Valores y Ahorro será competente para ejercer las atribuciones previstas por el presente Decreto en su artículo 27, fracciones I, II, IX en materia de revocación, X y XXXIII, respecto de sociedades financieras de objeto limitado, arrendadoras financieras y empresas de factoraje financiero y filiales de instituciones financieras del exterior que se constituyan bajo estas figuras, así como respecto de las disposiciones contenidas en la Ley de Instituciones de Crédito y en la Ley General de Organizaciones y Actividades Auxiliares del Crédito en materia de las referidas entidades.
+
+Cualquier referencia contenida en el Reglamento Interior de la Secretaría de Hacienda y Crédito Público respecto de las fracciones I, II, IX, X y XXXIII del artículo 27 del mismo, se entenderá extensiva a las entidades previstas en este artículo hasta en tanto queden sin efectos.
+
+OCTAVO.- En tanto entran en vigor las reformas, adiciones y derogaciones a que se refieren los artículos Segundo y Tercero del "Decreto por el que se reforman, derogan y adicionan diversas disposiciones de la Ley General de Títulos y Operaciones de Crédito, Ley General de Organizaciones y Actividades Auxiliares del Crédito, Ley de Instituciones de Crédito, Ley General de Instituciones y Sociedades Mutualistas de Seguros, Ley Federal de Instituciones de Fianzas, Ley para Regular las Agrupaciones Financieras, Ley de Ahorro y Crédito Popular, Ley de Inversión Extranjera, Ley del Impuesto sobre la Renta, Ley del Impuesto al Valor Agregado y del Código Fiscal de la Federación", publicado el 18 de julio de 2006 en el Diario Oficial de la Federación, la Dirección General Adjunta de Banca y Valores será competente para ejercer las atribuciones previstas por el presente Decreto en su artículo 28, fracciones I, II, III, IX, en materia de revocación y XXVII, respecto de sociedades financieras de objeto limitado y filiales de instituciones financieras del exterior que se constituyan bajo esta figura, así como respecto de las disposiciones contenidas en la Ley de Instituciones de Crédito en materia de las referidas entidades.
+
+Cualquier referencia contenida en el Reglamento Interior de la Secretaría de Hacienda y Crédito Público respecto a las fracciones I, II, III, IX y XXVII del artículo 28 del mismo, se entenderá extensiva a las entidades previstas en este artículo hasta en tanto no queden derogadas.
+
+NOVENO.- En tanto entran en vigor las reformas y derogaciones a que se refieren los artículos Segundo y Tercero, así como Tercero Transitorio del "Decreto por el que se reforman, derogan y adicionan diversas disposiciones de la Ley General de Títulos y Operaciones de Crédito, Ley General de Organizaciones y Actividades Auxiliares del Crédito, Ley de Instituciones de Crédito, Ley General de Instituciones y Sociedades Mutualistas de Seguros, Ley Federal de Instituciones de Fianzas, Ley para Regular las Agrupaciones Financieras, Ley de Ahorro y Crédito Popular, Ley de Inversión Extranjera, Ley del Impuesto sobre la Renta, Ley del Impuesto al Valor Agregado y del Código Fiscal de la Federación", publicado el 18 de julio de 2006 en el Diario Oficial de la Federación, la Dirección de Regulación de Intermediarios Financieros No Bancarios será competente para ejercer las atribuciones previstas por el presente Decreto en su artículo 28-B, en sus fracciones I, en materia de revocación, II, IV y VI, respecto de sociedades financieras de objeto limitado, arrendadoras financieras y empresas de factoraje financiero y filiales de instituciones financieras del exterior que se constituyan bajo estas figuras, así como respecto de las disposiciones contenidas en la Ley de Instituciones de Crédito y en la Ley General de Organizaciones y Actividades Auxiliares del Crédito en materia de las referidas entidades.
+
+Cualquier referencia contenida en el Reglamento Interior de la Secretaría de Hacienda y Crédito Público respecto a las fracciones I, II, IV y VI del artículo 28-B del mismo, se entenderá extensiva a las entidades previstas en este artículo hasta en tanto queden sin efectos.
+
+DÉCIMO.- Los procedimientos de revocación de las autorizaciones para la constitución y operación de sociedades de ahorro y préstamo que se encuentren llevando a cabo, y que hasta la fecha de entrada en vigor de este Decreto estén en curso, serán concluidos de manera definitiva por la Secretaría de Hacienda y Crédito Público, de conformidad con las disposiciones que se encontraban vigentes al momento de iniciarse el procedimiento respectivo.
