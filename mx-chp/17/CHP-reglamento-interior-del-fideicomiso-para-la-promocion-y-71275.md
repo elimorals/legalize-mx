@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-del-fideicomiso-para-la-promocion-y-71275"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-18"
-last_updated: "2009-11-18"
+last_updated: "2012-10-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71275&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DEL FIDEICOMISO PARA LA PROMOCIÓN Y FOMENTO DE LA VIVIENDA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA PROMOTORA DE VIVIENDA CHIAPAS, PUBLICADO EN EL P.O. DE 10 DE OCTUBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 18 de noviembre de 2009.
 
@@ -444,3 +446,21 @@ Artículo Sexto.- En cumplimiento a lo dispuesto por el artículo 80, de la Ley 
 Dado en el Palacio de Gobierno, Residencia Oficial del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los catorce días del mes de agosto del año dos mil nueve.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Lic. Carlos Jair Jiménez Bolaños Cacho, Secretario de Hacienda.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE OCTUBRE DE 2012.
+
+Artículo Primero.- El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se abroga el Reglamento del Fideicomiso para el Fomento y la Promoción de la Vivienda y se derogan todas las disposiciones que tengan similar o menor jerarquía que este Reglamento y se opongan al mismo.
+
+Artículo Tercero.- En los casos no previstos en el presente Reglamento Interior y, en los que se presente controversia en cuanto su aplicación y observancia, el Director General resolverá lo conducente.
+
+Artículo Cuarto.- Para las cuestiones no previstas en este Reglamento Interior, respecto al funcionamiento de los Órganos Administrativos y del personal, se estará a lo dispuesto por el Manual de Organización de la PROVICH;
+
+Artículo Quinto.- El Manual de Organización de la PROVICH, deberá expedirse en un plazo no mayor a noventa días hábiles, después de la publicación del presente Reglamento Interior.
+
+Artículo Sexto.- En tanto se expide el Manual de Organización respectivo, el Director General resolverá las incidencias de operación que se originen por la aplicación de este ordenamiento legal.
+
+Artículo Séptimo.- En cumplimiento a lo dispuesto por el artículo 8°, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Reglamento Interior en el Periódico Oficial del Estado.
