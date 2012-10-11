@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2012-08-22"
+last_updated: "2012-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE OCTUBRE DE 2012.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -1497,9 +1497,9 @@ Las personas físicas y jurídico colectivas que estén obligadas a determinar e
 
 I. Las que hayan realizado pagos por concepto de remuneraciones al trabajo personal prestado dentro del territorio del Estado a más de 200 trabajadores en promedio mensual.
 
-II. Las que hayan realizado pagos por concepto de remuneraciones al trabajo personal prestado dentro del territorio del Estado superiores a $400,000.00 en promedio mensual.
+II. Las que hayan realizado pagos por concepto de remuneraciones al trabajo personal prestado dentro del territorio del Estado superiores a $400.000.00 en promedio mensual.
 
-III. Las que se encuentren obligadas a retener y enterar dicho impuesto en términos del presente Código, que hayan contratado servicios que generen la prestación de trabajo personal dentro del territorio del Estado por más de 200 trabajadores o cuando la base para la determinación de dicha retención haya sido superior a $400,000.00, en promedio mensual.
+III. Las que se encuentren obligadas a retener y enterar dicho impuesto en términos del presente Código, que hayan contratado servicios que generen la prestación de trabajo personal dentro del territorio del Estado por más de 200 trabajadores o cuando la base para la determinación de dicha retención haya sido superior a $400.000.00, en promedio mensual.
 
 IV. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2008)
 
@@ -9395,7 +9395,7 @@ El padrón catastral es el inventario analítico de los inmuebles, conformado po
 
 > <small>(REFORMADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
-La actividad catastral es el conjunto de acciones que permiten integrar, conservar y mantener actualizado el inventario analítico con las características cualitativas y cuantitativas de los inmuebles inscritos en el padrón catastral del Estado, realizadas con apego al LIGECEM, este Título, su reglamento, el Manual Catastral y demás disposiciones aplicables en la materia.
+La actividad catastral es el conjunto de acciones que permiten integrar, conservar y mantener actualizado el inventario analítico con las características cualitativas y cuantitativas de los inmuebles inscritos en el padrón catastral del Estado, realizadas con apego a el LIGECEM, este Título, su reglamento, el Manual Catastral y demás disposiciones aplicables en la materia.
 
 ### CAPITULO SEGUNDO. DE LAS AUTORIDADES CATASTRALES
 
@@ -12917,19 +12917,19 @@ No se podrán realizar traspasos presupuestarios del gasto de inversión en obra
 
 En el caso de los municipios, la tesorería autorizará los traspasos presupuestarios externos con la revisión de la Unidad de Información, Planeación, Programación y Evaluación, o bien de la Unidad Administrativa o los servidores públicos de los municipios que tengan encomendada esta responsabilidad.
 
-> <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 11 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 317 Bis-A.
 
-El Ejecutivo, por conducto de la Secretaría, podrá autorizar erogaciones adicionales a las aprobadas en el Presupuesto de Egresos, con cargo a los excedentes que, en su caso, resulten de los ingresos autorizados en la Ley de Ingresos, hasta por un monto equivalente al 2% del presupuesto aprobado.
+El Ejecutivo, por conducto de la Secretaría y los municipios, a través de la Tesorería, podrán autorizar erogaciones adicionales a las aprobadas en el Presupuesto de Egresos, con cargo a los excedentes que, en su caso, resulten de los ingresos autorizados en las Leyes de Ingresos estatal y municipal, respectivamente hasta por un monto equivalente al 2% del presupuesto aprobado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>(REFORMADO, G.G. 11 DE OCTUBRE DE 2012)</small>
 
-> <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
+En el caso del Estado, están exceptuadas por el cálculo del 2% señalado en el párrafo anterior, las erogaciones destinadas al pago de deuda a la inversión en obra pública y el cumplimiento de las disposiciones legales que así lo obliguen, así como las autorizaciones con cargo a los ingresos adicionales provenientes de los programas de apoyo y las aportaciones federales comprendidas en el Presupuesto de Egresos de la Federación y/o convenios firmados con otros ámbitos de gobierno por tener una aplicación a un fin determinado.
 
-Están exceptuadas por el cálculo del 2% señalado en el párrafo anterior, las erogaciones destinadas al pago de deuda a la inversión en obra pública y el cumplimiento de las disposiciones legales que así lo obliguen, así como las autorizaciones con cargo a los ingresos adicionales provenientes de los programas de apoyo y las aportaciones federales comprendidas en el Presupuesto de Egresos de la Federación y/o convenios firmados con otros ámbitos de gobierno por tener una aplicación a un fin determinado.
+> <small>(REFORMADO, G.G. 11 DE OCTUBRE DE 2012)</small>
 
-También se encuentran exceptuadas para el cálculo del 2% señalado en este artículo, las autorizaciones con cargo al excedente en los ingresos propios que obtengan las Entidades Públicas en el ejercicio de sus funciones, en atención a su personalidad jurídica y patrimonio propio; recursos que podrán ser aplicados para el cumplimiento de sus objetivos establecidos en términos de la Ley o Decreto de su creación.
+Así mismo, también se encuentran exceptuadas para el cálculo del 2% señalado en este artículo para el Estado, las autorizaciones con cargo al excedente en los ingresos propios que obtengan las Entidades Públicas en el ejercicio de sus funciones, en atención a su personalidad jurídica y patrimonio propios; recursos que podrán ser aplicados para el cumplimiento de sus objetivos establecidos en términos de la Ley o Decreto de su creación.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -13201,7 +13201,7 @@ Los ingresos que perciban las dependencias en términos de la Ley de Ingresos de
 
 > <small>(ADICIONADO, G.G. 3 DE DICIEMBRE DE 2007)</small>
 
-Los ingresos que perciban los organismos auxiliares en términos de la ley de Ingresos del Estado de México serán recaudados por los propios organismos auxiliares en instituciones de crédito de banca múltiple o establecimientos mercantiles autorizados para tal efecto. En caso de que dichos ingresos se encuentren afectados en fideicomiso, las cantidades recaudadas se podrán concentrar con el fiduciario correspondiente mediante el otorgamiento de instrucciones y/o mandatos irrevocables o transferencias a las cuentas del fideicomiso respectivo, entre otros mecanismos que se establezcan para dicho propósito.
+Los ingresos que perciban los organismos auxiliares en términos de la Ley de Ingresos del Estado de México serán recaudados por los propios organismos auxiliares en instituciones de crédito de banca múltiple o establecimientos mercantiles autorizados para tal efecto. En caso de que dichos ingresos se encuentren afectados en fideicomiso, las cantidades recaudadas se podrán concentrar con el fiduciario correspondiente mediante el otorgamiento de instrucciones y/o mandatos irrevocables o transferencias a las cuentas del fideicomiso respectivo, entre otros mecanismos que se establezcan para dicho propósito.
 
 ### CAPITULO PRIMERO. DE LA CONTABILIDAD GUBERNAMENTAL
 
@@ -15612,6 +15612,14 @@ G.G. 22 DE AGOSTO DE 2012.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 11 DE OCTUBRE DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan los ordenamientos jurídicos de igual o menor jerarquía, que se opongan a lo dispuesto por el presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE DA A CONOCER EL MANUAL GRÁFICO PARA EL USO DE UNIFORMES, DIVISAS Y EQUIPO DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS”.]
 
