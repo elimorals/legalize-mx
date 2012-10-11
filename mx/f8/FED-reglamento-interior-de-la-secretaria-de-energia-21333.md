@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-energia-21333"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-06-04"
-last_updated: "2004-01-26"
+last_updated: "2012-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21333&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2001-05-31"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE ENERGIA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE ENERGIA
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE ENERGÍA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE ENERO DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE ENERGÍA, PUBLICADO EN EL D.O.F. DE 11 DE OCTUBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO
 
 Reglamento publicado en el Diario Oficial de la Federación el 4 de Junio de 2001.
 
@@ -213,7 +215,7 @@ Los miembros representantes de la Secretaría en los órganos de gobierno de las
 
 ### CAPÍTULO CUARTO. De las Atribuciones Genéricas de los Subsecretarios y el Oficial Mayor
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE ENERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE ENERO DE 2004)</small>
 
 ###### Artículo 10.
 
@@ -493,7 +495,7 @@ XXV.- Las demás que le confieran las disposiciones jurídicas aplicables y el S
 
 ### CAPÍTULO SEXTO. De las Unidades Administrativas adscritas a la Oficina del Secretario
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE ENERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE ENERO DE 2004)</small>
 
 ###### Artículo 14.
 
@@ -951,7 +953,7 @@ El Director General y los directores mencionados podrán representar legalmente 
 
 (DEROGADO, D.O.F. 26 DE ENERO DE 2004)
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 26 DE ENERO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 26 DE ENERO DE 2004)</small>
 
 ### CAPÍTULO NOVENO. De la Subsecretaría de Planeación Energética y Desarrollo Tecnológico y sus Unidades Administrativas adscritas
 
@@ -1243,7 +1245,7 @@ Las atribuciones señaladas en el presente artículo podrán ser ejercidas por l
 
 ### CAPÍTULO UNDÉCIMO. De los Órganos Administrativos Desconcentrados
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE ENERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE ENERO DE 2004)</small>
 
 ###### Artículo 33.
 
@@ -1261,7 +1263,7 @@ I.- Representar al órgano desconcentrado que corresponda, ejercer desconcentrad
 
 II.- Planear, programar, organizar, dirigir, ejecutar, controlar y evaluar las actividades encomendadas a la unidad administrativa a su cargo;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE ENERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE ENERO DE 2004)</small>
 
 III.- Representar al órgano desconcentrado que corresponda, ante los órganos jurisdiccionales y administrativos en los procedimientos de cualquier índole, cuando se requiera su intervención, y en general fungir como órgano representativo de la Secretaría;
 
@@ -1477,7 +1479,7 @@ La Secretaría y sus órganos desconcentrados proporcionarán al Titular de su r
 
 ### CAPÍTULO DÉCIMO TERCERO. De la Suplencia de los Servidores Públicos de la Secretaría
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE ENERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE ENERO DE 2004)</small>
 
 ###### Artículo 49.
 
@@ -1511,7 +1513,7 @@ Artículo Quinto.- En tanto no se expidan los manuales que este Reglamento menci
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta y un días del mes de mayo de dos mil uno.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Energía, Tirso Ernesto Martens Rebolledo.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 26 DE ENERO DE 2004.
 
@@ -1532,3 +1534,19 @@ IV.- Los correspondientes a la Dirección General referida en el artículo 30 de
 V.- Los correspondientes a la Dirección General referida en el artículo 32 del Reglamento que se modifica, se transferirán a la Dirección General mencionada en el artículo 31 del presente Reglamento.
 
 Dichos documentos y expedientes serán entregados, cumpliendo en todo momento con las disposiciones en materia de responsabilidades administrativas de los servidores públicos.
+
+D.O.F. 11 DE OCTUBRE DE 2012.
+
+Artículo Primero.- El presente Reglamento entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo.- Se abroga el Reglamento Interior de la Secretaría de Energía publicado en el Diario Oficial de la Federación el 4 de junio de 2001 y su reforma del 26 de enero del 2004, y se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+Artículo Tercero.- Los asuntos en trámite que son llevados por unidades administrativas que desaparecen, en virtud de la entrada en vigor del presente Reglamento, serán atendidos y resueltos por las unidades administrativas a las que se les da la competencia correspondiente en este ordenamiento. Dichas unidades administrativas notificarán a los interesados el cambio respectivo. En el caso de que las unidades administrativas no desaparezcan pero sus facultades sean modificadas, corresponderá a la unidad administrativa competente conforme al reglamento interior abrogado, terminar la sustanciación de los asuntos que se encuentren en trámite y, en su caso, dictar la resolución que corresponda.
+
+Artículo Cuarto.- Las referencias que se hacen y las facultades que se otorgan en reglamentos, decretos, acuerdos, manuales y demás disposiciones a las unidades administrativas que cambian de denominación o desaparecen por virtud del presente ordenamiento, se entenderán hechas o conferidas a las unidades administrativas que correspondan conforme a lo establecido en el mismo.
+
+Artículo Quinto.- El Oficial Mayor realizará las acciones necesarias para que los recursos humanos, financieros y materiales asignados a las unidades o áreas que se modifican o desaparecen, sean transferidos a las unidades administrativas que correspondan, en los términos del presente ordenamiento y de conformidad con las normas aplicables y la disponibilidad presupuestaria.
+
+Artículo Sexto.- En casos extraordinarios o cuando exista duda de la competencia de alguna unidad u órgano administrativo desconcentrado, para conocer de un asunto determinado, corresponderá al Jefe de la Unidad de Asuntos Jurídicos resolver a qué unidad u órgano le corresponderá el despacho del mismo.
+
+Artículo Séptimo.- Las modificaciones a la estructura orgánica de la Secretaría de Energía que deriven de la entrada en vigor del presente reglamento, serán realizadas mediante movimientos compensados, por lo que no aumentarán el presupuesto regularizable de la Secretaría.
