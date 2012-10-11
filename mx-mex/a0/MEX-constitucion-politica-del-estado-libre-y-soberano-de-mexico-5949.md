@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2012-05-03"
+last_updated: "2012-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE OCTUBRE DE 2012.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -91,9 +91,9 @@ Queda prohibida toda discriminación motivada por origen étnico o nacional, gé
 
 El hombre y la mujer son iguales ante la ley, ésta garantizará el desarrollo pleno y la protección de la familia y sus miembros por ser base fundamental de la sociedad. Bajo el principio de igualdad consagrado en este precepto, debe considerarse la equidad entre hombre y mujer, en los ámbitos de desarrollo humano primordiales como lo son el educativo, laboral, político, económico, social y en general, todos aquellos que dignifiquen a la persona, por consiguiente las autoridades deben velar porque en los ordenamientos secundarios se prevean disposiciones que la garanticen.
 
-> <small>(REFORMADO, G.G. 3 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, G.G. 11 DE OCTUBRE DE 2012)</small>
 
-Toda persona tiene derecho a recibir educación. El Estado de México y los Municipios impartirán educación preescolar, primaria y secundaria de forma obligatoria para todos los mexiquenses.
+Todo individuo tiene derecho a recibir educación. El Estado de México y los Municipios impartirán educación preescolar, primaria, secundaria y media superior de forma obligatoria para todos los mexiquenses.
 
 > <small>(ADICIONADO, G.G. 24 DE JULIO DE 2008)</small>
 
@@ -107,9 +107,9 @@ La educación en el Estado de México se ajustará estrictamente a las disposici
 
 La Universidad Autónoma del Estado de México es un organismo público descentralizado del Estado de México, contará con personalidad jurídica y patrimonio propios; se encontrará dotada de plena autonomía en su régimen interior en todo lo concerniente a sus aspectos académico, técnico, de gobierno, administrativo y económico. Tendrá por fines impartir la educación media superior y superior; llevar a cabo la investigación humanística, científica y tecnológica; difundir y extender los avances del humanismo, la ciencia, la tecnología, el arte y otras manifestaciones de la cultura, conforme a lo dispuesto en la fracción VII del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(ADICIONADO, G.G. 24 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, G.G. 11 DE OCTUBRE DE 2012)</small>
 
-Además de impartir la educación básica, el Estado promoverá y atenderá todos los tipos, modalidades y niveles educativos incluyendo la educación inicial, superior e indígena considerados necesarios para el desarrollo de la nación. El sistema educativo del Estado contará con escuelas rurales, de artes y oficios y de agricultura, educación especial, educación indígena y educación para adultos.
+Además de impartir la educación básica, el Estado promoverá y atenderá todos los tipos, modalidades y niveles educativos incluyendo la educación inicial, superior e indígena considerados necesarios para el desarrollo de la nación; favorecerá políticas públicas para erradicar el analfabetismo en la Entidad. El sistema educativo del Estado contará con escuelas rurales, de artes y oficios y de agricultura, educación especial, educación indígena y educación para adultos.
 
 > <small>(ADICIONADO, G.G. 24 DE JULIO DE 2008)</small>
 
@@ -166,6 +166,10 @@ Toda persona tiene derecho a una alimentación adecuada.
 > <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2010)</small>
 
 En el Estado de México se fomentará a sus habitantes el cuidado de su salud, procurando que las autoridades atiendan la nutrición adecuada, la promoción de la activación física y deportiva de las familias, la alimentación segura, así como los medios para obtenerla, con primordial atención en la calidad de la alimentación que consumen los niños y jóvenes, en esta tarea participarán las dependencias y organismos competentes de la administración pública del Gobierno del Estado de México, así como los correspondientes de los Municipios de la Entidad.
+
+> <small>(ADICIONADO, G.G. 11 DE OCTUBRE DE 2012)</small>
+
+En todas las decisiones y actuaciones del Estado se velará y cumplirá con el principio del interés superior de la niñez, garantizando de manera plena sus derechos. Los niños y las niñas tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral. Este principio deberá guiar el diseño, ejecución, seguimiento y evaluación de las políticas públicas dirigidas a la niñez. Los ascendientes, tutores y custodios tienen la obligación de preservar y exigir el cumplimiento de estos derechos y principios.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -379,6 +383,10 @@ La legislación y las normas que al efecto se expidan harán énfasis en el fome
 
 Toda persona tiene derecho a un medio ambiente adecuado para su desarrollo y bienestar.
 
+> <small>(ADICIONADO, G.G. 11 DE OCTUBRE DE 2012)</small>
+
+En el Estado de México toda persona tiene derecho al acceso y disposición de agua de manera suficiente, asequible y salubre, para consumo personal y doméstico. La ley definirá las bases, accesos y modalidades en que se ejercerá este derecho, siendo obligación de los ciudadanos su cuidado y uso racional.
+
 > <small>(ADICIONADO, G.G. 21 DE JULIO DE 2011)</small>
 
 La Legislatura del Estado establecerá en la Ley la existencia de un organismo en materia de agua, integrado por un Comisionado Presidente aprobado por la Legislatura a propuesta del Gobernador, por representantes del Ejecutivo del Estado, de los municipios y por ciudadanos, el cual regulará y propondrá los mecanismos de coordinación para la prestación del servicio de agua potable, alcantarillado, saneamiento, tratamiento y disposición de aguas residuales y, en general, el mejoramiento de la gestión integral del agua en beneficio de la población.
@@ -461,7 +469,9 @@ I. Inscribirse oportunamente y proporcionar la información que se requiera para
 
 II. Contribuir para los gastos públicos del Estado y de los municipios donde residan o realicen actividades gravables, de la manera proporcional y equitativa que dispongan las leyes, según lo establecido por la Constitución Federal;
 
-III. Hacer que sus hijos o pupilos concurran a las escuelas públicas o privadas, para obtener la educación primaria y secundaria, y reciban la instrucción militar, en los términos que establezca la ley; y
+> <small>(REFORMADA, G.G. 11 DE OCTUBRE DE 2012)</small>
+
+III. Hacer que sus hijos o pupilos concurran a las escuelas públicas o privadas, para obtener la educación preescolar, primaria, secundaria y media superior, y reciban la instrucción militar, en los términos que establezca la ley; y
 
 IV. Las demás que esta Constitución y las leyes establezcan.
 
@@ -1109,7 +1119,7 @@ IV. Resolver sobre las renuncias, licencias o permisos que competan a la Legisla
 
 > <small>(REFORMADA, G.G. 1 DE OCTUBRE DE 2009)</small>
 
-V. Recibir el aviso del Ejecutivo del Estado cuando salga al extranjero en misiones especiales;
+V. Recibir el aviso del Ejecutivo del Estado cuando salga al extranjero en misiones oficiales;
 
 VI. Dictaminar sobre todos los asuntos que queden pendientes de resolución en los recesos, a fin de que continúen sus trámites al abrirse los períodos de sesiones; y
 
@@ -1409,11 +1419,11 @@ Las policías actuarán bajo la conducción y mando del ministerio público en l
 
 El ministerio público podrá aplicar criterios de oportunidad para el ejercicio de la acción penal, en los supuestos y condiciones que establezca la ley, la que señalará los casos en que serán objeto de revisión judicial.
 
-> <small>(REFORMADO, G.G. 30 DE MAYO DE 2005)</small>
+> <small>(REFORMADO, G.G. 11 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 82.
 
-El Ministerio Público hará efectivos los derechos del Estado e intervendrá en los juicios que afecten a quienes las leyes otorgan especial protección, así como también en los procedimientos de ejecución de sentencias.
+El Ministerio Público hará efectivos los derechos del Estado y en los casos previstos por la ley intervendrá en los juicios que afecten a quienes se otorgue especial protección, así como también en los procedimientos de ejecución de sentencias.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -1506,6 +1516,14 @@ Los jueces y magistrados del Estado de México, en el ámbito de su competencia,
 Las leyes determinarán los procedimientos que habrán de seguirse para sustanciar los juicios y todos los actos en que intervenga el Poder Judicial.
 
 La ley establecerá las bases para la formación y actualización de funcionarios, así como para el desarrollo de la carrera judicial, la cuál se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
+
+> <small>(ADICIONADO, G.G. 11 DE OCTUBRE DE 2012)</small>
+
+El Presupuesto de Egresos del Poder Judicial que se apruebe para el ejercicio fiscal anual, no podrá ser menor al porcentaje que represente de los ingresos ordinarios del Estado, correspondiente al año inmediato anterior.
+
+> <small>(ADICIONADO, G.G. 11 DE OCTUBRE DE 2012)</small>
+
+En ningún caso, el Presupuesto Anual de Egresos que se apruebe para el Poder Judicial del Estado, podrá ser inferior al 2.0% de los ingresos ordinarios del Estado, para el año fiscal de que se trate. De conformidad con las necesidades del servicio, dicho porcentaje se incrementará anualmente.
 
 > <small>(ADICIONADO, G.G. 12 DE JULIO DE 2004)</small>
 
@@ -1683,7 +1701,7 @@ En cada distrito o región judicial habrá un juez o los jueces necesarios, quie
 
 ###### Artículo 103.
 
-Los jueces de cuantía menor durarán en su encargo tres años y podrán ser ratificados por el Consejo de la Judicatura, por periodos iguales, previa aprobación de exámenes de actualización, de acuerdo con los mecanismos y demás requisitos que señale la ley, y únicamente podrán ser suspendidos o destituidos en sus funciones conforme a la misma. Tendrán la competencia que le señale la Ley Orgánica del Poder Judicial y demás ordenamientos aplicables, ejerciendo su jurisdicción en el ámbito territorial que determine el Pleno del Tribunal.
+Los jueces de cuantía menor durarán en su encargo tres años y podrán ser ratificados por el Consejo de la Judicatura, por períodos iguales, previa aprobación de exámenes de actualización, de acuerdo con los mecanismos y demás requisitos que señale la ley, y únicamente podrán ser suspendidos o destituidos en sus funciones conforme a la misma. Tendrán la competencia que le señale la Ley Orgánica del Poder Judicial y demás ordenamientos aplicables, ejerciendo su jurisdicción en el ámbito territorial que determine el Pleno del Tribunal.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -1757,7 +1775,7 @@ V. Dos designados por la Legislatura del Estado.
 
 > <small>(ADICIONADO, G.G. 10 DE ENERO DE 2010)</small>
 
-Las personas designadas por el Ejecutivo y la Legislatura deberán cumplir con los requisitos que para magistrado señala esta Constitución, salvo el de haber servido en el Poder judicial del Estado.
+Las personas designadas por el Ejecutivo y la Legislatura deberán cumplir con los requisitos que para magistrado señala esta Constitución, salvo el de haber servido en el Poder Judicial del Estado.
 
 > <small>(ADICIONADO, G.G. 10 DE ENERO DE 2010)</small>
 
@@ -1951,9 +1969,9 @@ Las leyes del Estado no podrán establecer exenciones o subsidios en favor de pe
 
 Los ayuntamientos, en el ámbito de su competencia, propondrán a la Legislatura, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria, en los términos que señalen la (sic) leyes de la materia.
 
-> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO, G.G. 11 DE OCTUBRE DE 2012)</small>
 
-Los Ayuntamientos celebrarán sesiones extraordinarias de cabildo cuando la Ley de Ingresos aprobada por la Legislatura, implique adecuaciones a su Presupuesto de Egresos. Estas sesiones nunca excederán al 15 de febrero y tendrán como único objeto, concordar el Presupuesto de Egresos con la citada Ley de Ingresos. Al concluir las sesiones en las que se apruebe el Presupuesto de Egresos Municipal en forma definitiva, se dispondrá, por el Presidente Municipal, su promulgación y publicación, teniendo la obligación de enviar la ratificación, o modificaciones en su caso, de dicho Presupuesto de Egresos, al Órgano Superior de Fiscalización, a más tardar el día 25 de febrero de cada año.
+Los Ayuntamientos podrán celebrar sesiones extraordinarias de cabildo cuando la Ley de Ingresos aprobada por la Legislatura, implique adecuaciones a su Presupuesto de Egresos, así como por la asignación de las participaciones y aportaciones federales y estatales. Estas sesiones tendrán como único objeto concordar con el Presupuesto de Egresos. El Presidente Municipal, promulgará y publicará el Presupuesto de Egresos Municipal, a más tardar el día 25 de febrero de cada año debiendo enviarlo al Órgano Superior de Fiscalización en la misma fecha.
 
 > <small>(ADICIONADO, G.G. 30 DE JULIO DE 2010)</small>
 
@@ -2151,7 +2169,7 @@ El desarrollo de la entidad se sustenta en el Sistema Estatal de Planeación Dem
 
 > <small>(REFORMADA, G.G. 31 DE AGOSTO DE 2010)</small>
 
-l. El Sistema Estatal de Planeación Democrática se integra por los planes y programas que formulen las autoridades estatales y municipales y considerará en su proceso: El planteamiento de la problemática con base en la realidad objetiva, los indicadores de desarrollo social y humano, la proyección genérica de los objetivos para la estructuración de planes, programas y acciones que regirán el ejercicio de sus funciones públicas, su control y evaluación. Las Leyes de la materia proveerán la participación de los sectores público, privado y social en el proceso y el mecanismo de retroalimentación permanente en el sistema.
+I. El Sistema Estatal de Planeación Democrática se integra por los planes y programas que formulen las autoridades estatales y municipales y considerará en su proceso: El planteamiento de la problemática con base en la realidad objetiva, los indicadores de desarrollo social y humano, la proyección genérica de los objetivos para la estructuración de planes, programas y acciones que regirán el ejercicio de sus funciones públicas, su control y evaluación. Las Leyes de la materia proveerán la participación de los sectores público, privado y social en el proceso y el mecanismo de retroalimentación permanente en el sistema.
 
 Los planes, programas y acciones que formulen y ejecuten los ayuntamientos en las materias de su competencia, se sujetarán a las disposiciones legales aplicables y serán congruentes con los planes y programas federales, estatales, regionales y metropolitanos, en su caso.
 
@@ -2159,7 +2177,7 @@ Los ciudadanos del Estado, individualmente o a través de agrupaciones legalment
 
 II. En materia metropolitana, el Gobierno del Estado y los Ayuntamientos de los municipios deberán en forma coordinada y en términos de la Constitución Política de los Estados Unidos Mexicanos:
 
-a) Participar en la planeación y ejecución de acciones coordinadas con la Federación, y con las entidades federativas colindantes con el Estado, en las materias de: Abasto y Empleo, Agua y Drenaje, Asentamientos Humanos, Coordinación Hacendaria, Desarrollo Económico, Preservación, Recolección, Tratamiento y Disposición de Desechos Sólidos, Protección al Ambiente, Protección Civil, Restauración del Equilibrio Ecológico, Salud Pública, Seguridad Pública y Transporte, Turismo y aquellas que resulten necesarias y conformar con dichas entidades las comisiones metropolitanas en las que concurran y participen con apego a sus atribuciones y conforme a las leyes de la materia. Estas comisiones también podrán ser creadas al interior del Estado, por el Gobernador del Estado y los ayuntamientos cuando sea declarada una Zona Metropolitana.
+a) Participar en la planeación y ejecución de acciones coordinadas con la Federación, y con las entidades federativas colindantes con el Estado, en las materias de: Abasto y Empleo, Agua y Drenaje, Asentamientos Humanos, Coordinación Hacendaría, Desarrollo Económico, Preservación, Recolección, Tratamiento y Disposición de Desechos Sólidos, Protección al Ambiente, Protección Civil, Restauración del Equilibrio Ecológico, Salud Pública, Seguridad Pública y Transporte, Turismo y aquellas que resulten necesarias y conformar con dichas entidades las comisiones metropolitanas en las que concurran y participen con apego a sus atribuciones y conforme a las leyes de la materia. Estas comisiones también podrán ser creadas al interior del Estado, por el Gobernador del Estado y los ayuntamientos cuando sea declarada una Zona Metropolitana.
 
 b) Integrar invariablemente al proceso de planeación regional y metropolitana a través de las comisiones respectivas para la ejecución de las obras y prestación de los servicios que conjuntamente hubieren aprobado para sus zonas metropolitanas y ejecutarán los programas conjuntos en los distintos ramos de la administración estatal y municipal, en los términos de los convenios suscritos al efecto.
 
@@ -2172,6 +2190,12 @@ d) Regular la ejecución conjunta y coordinada de los planes, programas y accion
 e) Suscribir convenios con la Federación, los Estados y municipios limítrofes y el Distrito Federal, en su caso, para la ejecución de obras, operación y prestación de servicios públicos o la realización de acciones en las materias que fueren determinadas por las comisiones metropolitanas y relacionados con los diversos ramos administrativos.
 
 f) Publicar los acuerdos y convenios que se suscriban para dar cumplimiento a los planes metropolitanos, en los periódicos oficiales.
+
+> <small>(ADICIONADO, G.G. 11 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 139 Bis.
+
+La Mejora Regulatoria es un instrumento de desarrollo. Es obligatorio para el Estado y los Municipios, sus dependencias y organismos descentralizados, implementar de manera permanente, continua y coordinada sus normas, actos, procedimientos y resoluciones, ajustándose a las disposiciones que establece la ley reglamentaria, a fin de promover el desarrollo económico del Estado de México.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -3546,3 +3570,63 @@ G.G. 3 DE MAYO DE 2012.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 11 DE OCTUBRE DE 2012.
+
+DECRETO NÚMERO 4 POR EL SE ADICIONA EL ARTÍCULO 139 BIS A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- El cumplimiento por parte de las dependencias del ejecutivo del estado, organismos públicos descentralizados y ayuntamientos, será en los términos que señala la Ley para la Mejora Regulatoria del Estado de México y Municipios, publicada mediante Decreto Número 148 y su reglamento, quedando derogadas las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+CUARTO.- Los Gobiernos Estatal y Municipal, proveerán lo necesario para el cumplimiento del presente Decreto.
+
+G.G. 11 DE OCTUBRE DE 2012.
+
+DECRETO NÚMERO 5 POR EL QUE SE ADICIONA UN QUINTO PÁRRAFO, RECORRIÉNDOSE EL ACTUAL PÁRRAFO QUINTO PARA SER SEXTO, AL ARTÍCULO 18 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 11 DE OCTUBRE DE 2012.
+
+DECRETO NÚMERO 6 POR EL QUE SE ADICIONAN DOS PÁRRAFOS AL ARTÍCULO 88 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- La relación porcentual del Presupuesto de Egresos del Poder Judicial respecto de los ingresos ordinarios del Estado para los siguientes ejercicios fiscales, deberá darse de conformidad con lo siguiente:
+
+a) Para el Ejercicio Fiscal 2013, deberá representar el 1.71 % del porcentaje de los ingresos ordinarios del Estado para dicho año;
+
+b) Para el Ejercicio Fiscal 2014, deberá representar el 1.78% del porcentaje de los ingresos ordinarios del Estado para dicho año;
+
+c) Para el Ejercicio Fiscal 2015, deberá representar el 1.85% del porcentaje de los ingresos ordinarios del Estado para dicho año;
+
+d) Para el Ejercicio Fiscal 2016, deberá representar el 1.93% del porcentaje de los ingresos ordinarios del Estado para dicho año; y
+
+e) Para el Ejercicio Fiscal 2017, deberá representar el 2.00% del porcentaje de los ingresos ordinarios del Estado para dicho año.
+
+G.G. 11 DE OCTUBRE DE 2012.
+
+DECRETO NÚMERO 7 POR EL QUE SE REFORMA EL CUARTO PÁRRAFO DEL ARTÍCULO 125 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
+
+PRIMERO.- PublÍquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno"
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan los ordenamientos jurídicos de igual o menor jerarquía, que se opongan a lo dispuesto por el presente Decreto.
+
+G.G. 11 DE OCTUBRE DE 2012.
+
+DECRETO NÚMERO 8 POR EL QUE SE REFORMAN LOS PÁRRAFOS SEXTO Y DÉCIMO DEL ARTÍCULO 5, LA FRACCIÓN III DEL ARTÍCULO 27 Y EL ARTÍCULO 82 Y SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- La obligatoriedad del Estado de garantizar la educación media superior a quien teniendo la edad típica hubiere concluido la educación básica, se realizará de manera gradual y creciente a partir del ciclo escolar 2013-2014 y hasta lograr la cobertura total a más tardar en el ciclo escolar 2021-2022, con la concurrencia presupuestal de la Federación, y en los términos establecidos en los instrumentos del Sistema Nacional y los Sistemas Estatales de Planeación Democrática para el Desarrollo.
