@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2012-08-29"
+last_updated: "2012-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE OCTUBRE DE 2012.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -683,11 +683,19 @@ XVII. Nombrar y remover al secretario, tesorero, titulares de las unidades admin
 
 XVIII. Administrar su hacienda en términos de ley, y controlar a través del presidente y síndico la aplicación del presupuesto de egresos del municipio;
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 11 DE OCTUBRE DE 2012)</small>
+
+XIX. Aprobar anualmente a más tardar el 20 de diciembre, su Presupuesto de Egresos, en base a los ingresos presupuestados para el ejercicio que corresponda, el cual podrá ser adecuado en función de las implicaciones que deriven de la aprobación de la Ley de Ingresos Municipal que haga la Legislatura, así como por la asignación de las participaciones y aportaciones federales y estatales.
+
+> <small>(ADICIONADO, G.G. 11 DE OCTUBRE DE 2012)</small>
+
+Si cumplido el plazo que corresponda no se hubiere aprobado el Presupuesto de Egresos referido, seguirá en vigor hasta el 28 o 29 de febrero del ejercicio fiscal inmediato siguiente, el expedido para el ejercicio inmediato anterior al de la iniciativa en discusión, únicamente respecto del gasto corriente.
+
 > <small>(REFORMADO, G.G. 6 DE ABRIL DE 2004)</small>
 
-XIX. Aprobar su presupuesto de egresos, en base a los ingresos presupuestados para el ejercicio que corresponda y establecer las medidas apropiadas para su correcta aplicación.
-
 Los Ayuntamientos al aprobar su presupuesto de egresos, deberán señalar la remuneración de todo tipo que corresponda a un empleo, cargo o comisión de cualquier naturaleza, determinada conforme a principios de racionalidad, austeridad, disciplina financiera, equidad, legalidad, igualdad y transparencia, sujetándose a lo dispuesto por el Código Financiero y demás disposiciones legales aplicables.
+
+> <small>(REFORMADO, G.G. 6 DE ABRIL DE 2004)</small>
 
 Las remuneraciones de todo tipo del Presidente Municipal, Síndicos, Regidores y servidores públicos en general, incluyendo mandos medios y superiores de la administración municipal, serán determinadas anualmente en el presupuesto de egresos correspondiente y se sujetarán a los lineamientos legales establecidos para todos los servidores públicos municipales.
 
@@ -695,7 +703,7 @@ XX. Autorizar la contratación de empréstitos, en términos de la Ley de Deuda 
 
 XXI. Formular, aprobar y ejecutar los planes de desarrollo municipal y los Programas correspondientes;
 
-(ADICIONADA, G.G. 3 DE SEPTIEMBRE DE 2010) (F. DE E.,G.G. 1 DE OCTUBRE DE 2010)
+(ADICIONADA, G.G. 3 DE SEPTIEMBRE DE 2010) (F. DE E., G.G. 1 DE OCTUBRE DE 2010)
 
 XXI Bis. Promover políticas públicas apoyadas en sistemas de financiamiento, cooperación y coordinación, que procuren el acceso a las tecnologías de la información y comunicación, específicamente servicios de acceso a internet, como un servicio gratuito, considerando para ello las características socioeconómicas de la población.
 
@@ -1183,7 +1191,13 @@ XIV. Admitir, tramitar y resolver los recursos administrativos que sean de su co
 
 XV. Revisar las relaciones de rezagos para que sean liquidados;
 
-XVI. Las demás que les señalen las disposiciones aplicables.
+> <small>(REFORMADA, G.G. 11 DE OCTUBRE DE 2012)</small>
+
+XVI. Revisar el informe mensual que le remita el Tesorero, y en su caso formular las observaciones correspondientes.
+
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2012)</small>
+
+XVII. Las demás que les señalen las disposiciones aplicables.
 
 En el caso de que sean dos los síndicos que se elijan, uno estará encargado de los ingresos de la hacienda municipal y el otro de los egresos. El primero tendrá las facultades y obligaciones consignadas en las fracciones I, IV, V, y XVI y el segundo, las contenidas en las fracciones II, III, VI, VII, VIII, IX, X y XII entendiéndose que se ejercerán indistintamente las demás.
 
@@ -1713,9 +1727,13 @@ XIX. Recaudar y administrar los ingresos que se deriven de la suscripción de co
 
 XX. Dar cumplimiento a las leyes, convenios de coordinación fiscal y demás que en materia hacendaria celebre el Ayuntamiento con el Estado;
 
-> <small>(ADICIONADA, G.G. 17 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, G.G. 11 DE OCTUBRE DE 2012)</small>
 
-XXI. Las que le señalen las demás disposiciones legales y el ayuntamiento.
+XXI. Entregar oportunamente a él o los Síndicos, según sea el caso, el informe mensual que corresponda, a fin de que se revise, y de ser necesario, para que se formulen las observaciones respectivas.
+
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2012)</small>
+
+XXII. Las que les señalen las demás disposiciones legales y el ayuntamiento.
 
 ###### Artículo 96.
 
@@ -1817,11 +1835,11 @@ VI. Las donaciones, herencias y legados que reciban.
 
 El gasto público comprende las erogaciones que por concepto de gasto corriente, inversión física, inversión financiera y cancelación de pasivo realicen los municipios.
 
-> <small>(REFORMADO, G.G. 11 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO, G.G. 11 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 99.
 
-El presidente municipal presentará anualmente al ayuntamiento a más tardar el 15 de noviembre, el proyecto de presupuesto de egresos, para su consideración y aprobación.
+El presidente municipal presentará anualmente al ayuntamiento a más tardar el 20 de diciembre, el proyecto de presupuesto de egresos, para su consideración y aprobación.
 
 ###### Artículo 100.
 
@@ -3578,3 +3596,11 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía, que se opongan a lo dispuesto por el presente Decreto.
+
+G.G. 11 DE OCTUBRE DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan los ordenamientos jurídicos de igual o menor jerarquía, que se opongan a lo dispuesto por el presente Decreto.
