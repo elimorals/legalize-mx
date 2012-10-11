@@ -4,7 +4,7 @@ identifier: "SON-ley-de-educacion-para-el-estado-de-sonora-8518"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2011-12-08"
+last_updated: "2012-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8518&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 8 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE OCTUBRE DE 2012.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 30 de diciembre de 1994.
 
@@ -211,19 +211,23 @@ X.- Desarrollar actitudes solidarias en los individuos, para crear conciencia so
 
 > <small>(REFORMADA, B.O. 8 DE DICIEMBRE DE 2011)</small>
 
-XI. Hacer conciencia de la necesidad de un aprovechamiento racional de los recursos naturales y de la protección del ambiente a través del conocimiento por el alumno del medio físico inmediato, de la región donde se desarrolla y del territorio del Estado;
+XI.- Hacer conciencia de la necesidad de un aprovechamiento racional de los recursos naturales y de la protección del ambiente a través del conocimiento por el alumno del medio físico inmediato, de la región donde se desarrolla y del territorio del Estado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADA, B.O. 11 DE OCTUBRE DE 2012)</small>
 
-> <small>(REFORMADA, B.O. 8 DE DICIEMBRE DE 2011)</small>
+XII.- Fomentar actitudes solidarias y positivas hacia el trabajo productivo, el ahorro y el bienestar general;
 
-XII. Fomentar actitudes solidarias y positivas hacia el trabajo productivo, el ahorro y el bienestar general; y
+> <small>(REFORMADA, B.O. 11 DE OCTUBRE DE 2012)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+XIII.- Contribuir a que se garantice el derecho de las niñas y los niños a no ser discriminados durante su proceso de aprendizaje, en los planteles de educación básica públicos y privados, por causa de actitudes, conductas diferentes, trastorno por déficit de atención con hiperactividad, alteraciones neuroconductuales y otros trastornos del comportamiento, evitando se atente contra su dignidad humana; y (sic)
 
-> <small>(ADICIONADA, B.O. 8 DE DICIEMBRE DE 2011)</small>
+> <small>(ADICIONADA, B.O. 11 DE OCTUBRE DE 2012)</small>
 
-XIII. Propiciar la salud mental y la prevención de alteraciones o problemas del desarrollo psicosocial, implementando programas de educación mental, tendientes a conocer los factores de riesgo, estimulando aquellos factores protectores que conducen a un desarrollo positivo.
+XIV.- Promover la derivación oportuna hacia médicos del sector salud de los menores que presenten actitudes, conductas diferentes, transtornos por déficit de atención con hiperactividad, alteraciones neuroconductuales u otros trastornos del comportamiento, a efecto de que se establezca un diagnóstico y, en su caso, bajo la responsabilidad de los padres, recibir un tratamiento oportuno multidisciplinario;
+
+> <small>(REFORMADA, B.O. 11 DE OCTUBRE DE 2012)</small>
+
+XV.- Propiciar la salud mental y la prevención de alteraciones o problemas del desarrollo psicosocial, proponiendo la implementación de programas de educación mental, tendientes a conocer los factores de riesgo, estimulando aquellos factores protectores que conducen a un desarrollo positivo.
 
 ###### ARTICULO 14.
 
@@ -258,6 +262,10 @@ La educación que se imparta en las escuelas deberá vincularse activa y constan
 ###### ARTICULO 17.
 
 El fin primordial del proceso educativo es la formación del educando. Para que éste logre el desarrollo armónico de su personalidad, debe asegurársele la participación activa en dicho proceso, estimulando su iniciativa, su sentido de responsabilidad social, el cuidado de la salud y de su cuerpo mediante una alimentación sana, el cuidado de su entorno, la práctica del deporte en cualquiera de sus expresiones y su espíritu creativo a través de actividades recreativas, artísticas y culturales; además deberá motivar su capacidad para interactuar entre sí y con el medio ambiente, proponiendo el desarrollo y uso óptimo de las potencialidades psicológicas, cognitivas, afectivas para el logro de metas individuales y colectivas.
+
+> <small>(ADICIONADO, B.O. 11 DE OCTUBRE DE 2012)</small>
+
+Todos los alumnos de escuelas públicas y privadas, tienen derecho a recibir orientación escolar para conseguir el máximo desarrollo personal, social y profesional, según sus capacidades físicas, sensoriales y psíquicas.
 
 ### CAPITULO III. DE LAS FACULTADES Y OBLIGACIONES DEL ESTADO EN MATERIA EDUCATIVA
 
@@ -333,6 +341,14 @@ XIII.- Distribuir geográficamente los servicios educativos, procurando benefici
 
 XIV.- Expedir constancias y certificados de estudios, otorgar diplomas, títulos y grados académicos;
 
+> <small>(ADICIONADA, B.O. 11 DE OCTUBRE DE 2012)</small>
+
+XIV Bis. Garantizar que en escuelas públicas y privadas no se niegue inscripción o suspenda la educación a alumnos a consecuencia de padecer trastorno por déficit de atención con hiperactividad, alteraciones neuroconductuales y otros trastornos del comportamiento;
+
+> <small>(ADICIONADA, B.O. 11 DE OCTUBRE DE 2012)</small>
+
+XIV Bis A. Garantizar que en los establecimientos educativos públicos o privados, se brinde el apoyo a los educandos que presenten problemas de bajo rendimiento escolar o síntomas de trastorno por déficit de atención con hiperactividad, alteraciones neuroconductuales u otros trastornos del comportamiento, para reconocerlos y derivarlos, con el consentimiento de los padres o tutores, al sector salud y a las instancias de apoyo pedagógico o psicológico, oficiales o privadas, correspondientes;
+
 XV.- Realizar campañas que tiendan a elevar los niveles culturales, sociales y económicos de la población y, en especial, los de las zonas rurales y urbanas marginadas;
 
 XVI.- Colaborar con el Poder Ejecutivo Federal, por conducto de la Secretaría de Educación Pública, en la formación y desarrollo de planes estatales, nacionales e internacionales en materia de docencia, investigación y difusión de la cultura;
@@ -363,9 +379,11 @@ VI.- Integrar un Consejo Municipal de Participación Social, en el cual cada Pre
 
 VII.- Las demás que con tal carácter establezca esta ley y otras disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE OCTUBRE DE 2012)</small>
+
 ###### ARTICULO 22.
 
-El Estado, a través de la Secretaria, tomará medidas tendientes a establecer condiciones que permitan el ejercicio pleno del derecho a la educación de cada individuo, una mayor equidad educativa, así como el logro de la efectiva igualdad en oportunidades de acceso y permanencia en los servicios educativos participando, en el ámbito de su competencia, en las actividades y principios establecidos en los artículos 32 y 33 de la Ley General.
+El Estado, a través de la Secretaría, tomará medidas tendientes a establecer condiciones que permitan el ejercicio pleno del derecho a la educación de cada individuo, tomando en consideración sus discapacidades físicas, sensoriales y psíquicas o cualquier otra condición o circunstancia personal o social, favoreciendo una mayor equidad educativa, así como el logro de la efectiva igualdad en oportunidades de acceso y permanencia en los servicios educativos participando, en el ámbito de su competencia, en las actividades y principios establecidos en los artículos 32 y 33 de la Ley General.
 
 Las negociaciones o empresas a que se refiere la fracción XII del apartado A) del artículo 123 de la Constitución, están obligadas a establecer y sostener escuelas cuando el número de educandos que las requiera sea mayor de veinte. Estos planteles quedarán bajo la dirección administrativa de la Secretaría.
 
@@ -453,13 +471,11 @@ El tipo superior es el que se imparte después del bachillerato o sus equivalent
 
 La educación básica en sus tres niveles, tendrá las adaptaciones requeridas para responder a las características lingüísticas y culturales de cada uno de los grupos indígenas de la Entidad, así como de la población rural dispersa y grupos migratorios.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, B.O. 8 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, B.O. 11 DE OCTUBRE DE 2012)</small>
 
 ###### ARTICULO 31.
 
-La educación inicial tiene como propósito favorecer el desarrollo físico, cognoscitivo, afectivo y social de los menores de cuatro años de edad, incluye orientación a padres de familia o tutores para la educación de sus hijos o pupilos, incluyendo la salud mental.
+La educación inicial tiene como propósito favorecer el desarrollo físico, cognoscitivo, afectivo y social de los menores de cuatro años de edad, incluye orientación a padres de familia o tutores para la educación de sus hijos o pupilos, incluyendo la salud mental, menores con discapacidades físicas, sensoriales y psíquicas, o cualquier otra condición o circunstancias personal o social.
 
 ###### ARTICULO 32.
 
@@ -467,11 +483,15 @@ La educación especial está destinada a individuos con discapacidades transitor
 
 Tratándose de menores de edad con discapacidades, esta educación propiciará su integración a los planteles de educación básica regular. Para quienes no logren esa integración, esta educación procurará la satisfacción de necesidades básicas de aprendizaje para la autónoma convivencia social y productiva.
 
-Esta educación incluye orientación a los padres y tutores, así como también a los maestros y personal de educación básica regular que integren a alumnos con necesidades especiales de educación.
+> <small>(REFORMADO, B.O. 11 DE OCTUBRE DE 2012)</small>
+
+Esta educación incluye orientación y asesoramiento a los padres y tutores, así como también a los maestros y personal de educación básica regular, tanto en escuelas públicas como privadas, que integren a alumnos con necesidades especiales de educación.
+
+> <small>(REFORMADO, B.O. 11 DE OCTUBRE DE 2012)</small>
 
 ###### ARTICULO 33.
 
-En la impartición de educación para menores de edad se tomarán medidas que aseguren al educando la protección y el cuidado necesarios para preservar su integridad física, psicológica y social sobre la base del respeto a su dignidad, y que la aplicación de la disciplina escolar sea compatible con su edad.
+En la impartición de educación para menores de edad se tomarán medidas que aseguren al educando la protección y el cuidado necesarios para preservar su integridad física, psicológica y social sobre la base del respeto a su dignidad, y que la aplicación de la disciplina escolar sea compatible con su edad, previendo que todos los alumnos sean respetados, no pudiendo ser objeto, en ningún caso, de tratos vejatorios o degradantes.
 
 ###### ARTICULO 34.
 
@@ -615,17 +635,21 @@ Los particulares que impartan estudios con autorización o con reconocimiento, d
 
 Los particulares que impartan educación con autorización o con reconocimiento de validez oficial de estudios tendrán las siguientes obligaciones:
 
-I.- Cumplir con lo dispuesto en el artículo tercero de la Constitución, en la Ley General y en la presente ley;
+I. Cumplir con lo dispuesto en el artículo tercero de la Constitución, en la Ley General y en la presente ley;
 
 > <small>(REFORMADA, B.O. 19 DE JULIO DE 2004)</small>
 
 II. Cumplir con los planes y programas de estudio que las autoridades competentes hayan determinado o considerado procedentes, así como, en su caso, con los programas de mejoramiento a que se refiere el artículo 40 de la presente Ley;
 
-III.- Proporcionar un mínimo de becas, en los términos de los lineamientos generales que la Secretaría determine y demás disposiciones aplicables;
+III. Proporcionar un mínimo de becas, en los términos de los lineamientos generales que la Secretaría determine y demás disposiciones aplicables;
 
 > <small>(REFORMADA, B.O. 19 DE JULIO DE 2004)</small>
 
 IV. Cumplir con los requisitos previstos en el artículo 45, de esta Ley;
+
+> <small>(ADICIONADA, B.O. 11 DE OCTUBRE DE 2012)</small>
+
+IV Bis. Contar con unidades de servicio y apoyo para la atención de alumnos con necesidades educativas especiales, dándole prioridad a aquéllos que presenten trastornos neuroconductuales, favoreciendo su integración;
 
 > <small>(REFORMADA, B.O. 19 DE JULIO DE 2004)</small>
 
@@ -903,7 +927,9 @@ VIII.- Coadyuvar a nivel municipal en actividades de protección civil y emergen
 
 IX.- Promover la superación educativa en el ámbito municipal mediante certámenes interescolares;
 
-X.- Promover actividades de orientación, capacitación y difusión dirigidas a padres de familia y tutores, para que cumplan cabalmente con sus obligaciones en materia educativa;
+> <small>(REFORMADA, B.O. 11 DE OCTUBRE DE 2012)</small>
+
+X.- Promover actividades de orientación, capacitación y difusión dirigidas a padres de familia y tutores, y de los educandos con discapacidades físicas, sensoriales y psíquicas o cualquier otra condición o circunstancias personal o social, para que cumplan cabalmente con sus obligaciones en materia educativa;
 
 XI.- Proponer estímulos y reconocimientos de carácter social a alumnos, maestros, directivos y empleados escolares;
 
@@ -1238,3 +1264,9 @@ El presente Decreto entrará en vigor al inicio del periodo escolar según el ca
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 11 DE OCTUBRE DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
