@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2012-07-27"
+last_updated: "2012-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CÓDIGO DE DEFENSA SOCIAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2012.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -569,13 +569,13 @@ II.- Si el ofendido o la persona que tuviere derecho al pago de la reparación d
 
 Si se trata de delitos que afecten la vida o la integridad corporal, el monto de la reparación del daño no podrá ser menor del que resulte de aplicar las disposiciones relativas de la Ley Federal del Trabajo.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE ENERO DE 2012)</small>
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
 
 ###### Artículo 51 Quinquies.
 
 En los delitos cometidos por servidores públicos a que se refiere el Capítulo Decimonoveno de este Código, la reparación del daño consistirá en la aplicación de hasta tres tantos del lucro obtenido y de los daños y perjuicios causados.
 
-> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE ENERO DE 2012)</small>
 
 ### CAPITULO DUODECIMO.- REGLAS DEL ASEGURAMIENTO DE BIENES, ENAJENACIÓN DE BIENES ABANDONADOS, DECOMISO, PÉRDIDA DE LOS INSTRUMENTOS DEL DELITO Y DESTRUCCIÓN DE COSAS PELIGROSAS O NOCIVAS
 
@@ -2939,9 +2939,9 @@ No se procederá contra el estuprador, sino por queja del ofendido, de sus padre
 
 Al que por medio de la violencia física o moral tuviere cópula con una persona sea cual fuere su sexo, se le aplicarán de seis a veinte años de prisión y multa de cincuenta a quinientos días de salario.
 
-> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2012)</small>
 
-Cuando el sujeto pasivo sea menor de dieciocho años de edad, se duplicará la sanción establecida en el párrafo anterior.
+Cuando el sujeto pasivo sea menor de 18 años de edad y mayor de 70 se duplicará la sanción establecida en el párrafo anterior.
 
 > <small>(ADICIONADO, P.O. 23 DE MARZO DE 2007)</small>
 
@@ -3187,6 +3187,10 @@ Comete el delito de violencia familiar el cónyuge; la cónyuge; concubino; conc
 
 A quien cometa el delito de violencia familiar, se le impondrán de uno a seis años de prisión y multa de cincuenta a ciento cincuenta días de salario; y estará sujeto a tratamiento integral para su rehabilitación por un tiempo que no rebase la sanción privativa de la libertad que se haya impuesto, así como la pérdida de la patria potestad, de los derechos hereditarios y de alimentos.
 
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2012)</small>
+
+La penalidad descrita en el tercer párrafo se aumentará hasta en una mitad, en caso de sujetos pasivos mayores de 70 años.
+
 La Autoridad Judicial y el Ministerio Público, en su caso, dictará las medidas necesarias para el tratamiento psicoterapéutico del agresor y la víctima, ordenando cuando sea procedente las medidas apropiadas para salvaguardar la integridad de sus familiares.
 
 (ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2003
@@ -3243,9 +3247,9 @@ I.- Al que por cualquier medio amenace a otro con causarle un mal en su persona,
 
 II.- Al que, por medio de amenazas de cualquier género, trate de impedir que otro ejecute lo que tiene derecho a hacer.
 
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2012)</small>
 
-El delito de amenazas se perseguirá a petición de parte.
+Dicha penalidad se aumentará hasta en una mitad, si la edad de la o el agraviado es mayor de 70 años. El delito de amenazas se perseguirá a petición de parte.
 
 ###### Artículo 291.
 
@@ -3267,7 +3271,9 @@ III.- Si lo que exigió fue que el amenazado dejara de ejecutar un acto lícito,
 
 Al que sin motivo justificado, sin orden de autoridad competente y fuera de los casos en que la Ley lo permitiere, se introdujere furtivamente o con engaños o con violencia o sin permiso de la persona autorizada para darlo, a un departamento, vivienda, habitación, aposento o dependencia de una casa habitación, se le impondrá de dos meses a cuatro años de prisión y multa de diez a cincuenta días de salario.
 
-En el delito de allanamiento de morada será necesaria la formulación de la querella de la parte ofendida.
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2012)</small>
+
+La penalidad se aumentará hasta en una mitad, cuando la o el agraviado tenga más de 70 años de edad. En el delito de allanamiento de morada será necesaria la formulación de la querella de la parte ofendida.
 
 #### SECCION SEGUNDA.- HOMICIDIO
 
@@ -3308,6 +3314,10 @@ I.- Al particular que ilegalmente y sin orden de autoridad competente prive a ot
 > <small>(REFORMADA, P.O. 1 DE JULIO DE 1994)</small>
 
 II.- Al particular que de alguna manera viole los derechos establecidos en la Constitución Política de los Estados Unidos Mexicanos, o en la del Estado, en favor de las personas.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2012)</small>
+
+La penalidad se aumentará hasta en una mitad, cuando la o el agraviado tenga más de 70 años de edad.
 
 ###### Artículo 300.
 
@@ -5606,5 +5616,11 @@ P.O. 27 DE JULIO DE 2012.
 DECRETO POR EL QUE SE REFORMAN LAS FRACCIONES I Y II DEL ARTÍCULO 374; LAS FRACCIONES III, VI Y VII DEL 375, Y LAS FRACCIONES XIX Y XX DEL 380; SE ADICIONAN LAS FRACCIONES VIII Y IX DEL ARTÍCULO 375 Y LAS FRACCIONES XXI, XXII, XXIII, XXIV Y XXV DEL ARTÍCULO 380; TODOS DEL CÓDIGO DE DEFENSA SOCIAL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
 PRIMERO.- El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el día hábil siguiente de su publicación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE OCTUBRE DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
