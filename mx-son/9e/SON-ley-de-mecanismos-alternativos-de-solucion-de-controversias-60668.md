@@ -4,7 +4,7 @@ identifier: "SON-ley-de-mecanismos-alternativos-de-solucion-de-controversias-606
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-07"
-last_updated: "2008-04-07"
+last_updated: "2012-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # LEY DE MECANISMOS ALTERNATIVOS DE SOLUCION DE CONTROVERSIAS PARA EL ESTADO DE SONORA
 
-LEY DE MECANISMOS ALTERNATIVOS DE SOLUCION DE CONTROVERSIAS PARA EL ESTADO DE SONORA
+LEY DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE OCTUBRE DE 2012.
 
 Ley publicada en el Número 28 Sección II del Boletín Oficial del Estado de Sonora, el lunes 7 de abril de 2008.
 
@@ -51,9 +51,17 @@ Los habitantes del Estado de Sonora tienen el derecho de resolver sus controvers
 
 Para los efectos de esta Ley, se entiende por:
 
-I.- Centros de Justicia Alternativa del Estado: Los Centros de Justicia Alternativa dependientes del Poder Judicial del Estado y de la Procuraduría General de Justicia del Estado;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II.- Especialista: Persona capacitada para aplicar los mecanismos alternativos en la solución de controversias;
+> <small>(REFORMADA, B.O. 11 DE OCTUBRE DE 2012)</small>
+
+I.- Centros de Justicia Alternativa del Estado: Los Centros de Justicia Alternativa dependientes del Poder Judicial del Estado;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 11 DE OCTUBRE DE 2012)</small>
+
+II.- Especialista: Persona adscrita al Centro o privada, capacitada y certificada para aplicar los mecanismos alternativos en la solución de controversias;
 
 III.- Mecanismos alternativos: Los mecanismos alterativos de solución de controversias, tales como la mediación, la conciliación y los demás que permitan a las personas prevenir conflictos, o en su caso, solucionarlos, sin necesidad de intervención de los órganos jurisdiccionales, salvo para garantizar la eficacia del convenio adoptado por los participantes y el cumplimiento del mismo;
 
@@ -115,11 +123,19 @@ XI.- Consentimiento informado, que consiste en la comprensión de las partes sob
 
 XII.- Intervención mínima, el cual consiste en el deber del especialista de realizar las actividades estrictamente indispensables para que las partes avancen y, en su caso, logren la solución de sus controversias.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 7.
 
-Pueden ser materia de mecanismos alternativos de solución de controversias, todas o algunas de las diferencias que se susciten entre personas interesadas en relación con determinado hecho, derecho, contrato, obligación, acción o pretensión, siempre que se trate de asuntos que puedan ser objeto de transacción, o de conductas tipificadas como delito, respecto de las cuales proceda el perdón o la manifestación de desinterés jurídico por la víctima en cuanto a la prosecución del procedimiento, y que no se afecten la moral, los derechos de terceros, ni se contravengan disposiciones de orden público.
+Pueden ser materia de mecanismos alternativos de solución de controversias, todas o algunas de las diferencias que se susciten entre personas interesadas en relación con determinado hecho, derecho, contrato, obligación, acción o pretensión, siempre que se trate de asuntos que puedan ser objeto de transacción o de hechos que la ley señale como delito, respecto de las cuales proceda el perdón o la manifestación de desinterés jurídico por la víctima en cuanto a la prosecución del procedimiento y que no se afecten la moral, los derechos de terceros ni se contravengan disposiciones de orden público.
 
-Asimismo, serán aplicables los mecanismos alternativos en lo que se refiere a conductas tipificadas como delito respecto de las que no proceda el perdón o el desinterés jurídico de la víctima, exclusivamente con el objeto de que se repare el daño o se atienda a sus diversas necesidades.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 11 DE OCTUBRE DE 2012)</small>
+
+Asimismo, serán aplicables los mecanismos alternativos en lo que se refiere a hechos que la ley señale como delito respecto de las que no proceda el perdón o el desinterés jurídico de la víctima, exclusivamente con el objeto de que se repare el daño o se atienda a sus diversas necesidades.
 
 En materia penal y de justicia para adolescentes, se promoverán y aplicarán los mecanismos alternativos en los términos de esta Ley, con el fin de lograr la justicia restaurativa, mediante la participación de la víctima u ofendido y el imputado, para buscar la solución a las controversias derivadas del hecho calificado como delito.
 
@@ -153,9 +169,17 @@ II.- A instancia del Ministerio Público o del Juez que conozcan del procedimien
 
 Cuando la petición se formule oralmente se registrarán los datos de identificación del interesado y su domicilio, así como los de la persona involucrada en la controversia y los antecedentes que sirvan para identificar la misma.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 11 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 12.
 
-Una vez planteada la solicitud, se analizará para determinar si la controversia es susceptible de solucionarse a través de algún mecanismo alterno y de ser así, se iniciará el procedimiento.
+Una vez planteada la solicitud, se analizará para determinar si la controversia es susceptible de solucionarse a través de algún mecanismo alterno y de ser así, se iniciará el procedimiento ordenando el especialista mandar citar a la parte contraria para informarle de la solicitud realizada y hacerle saber las reglas y consecuencias del trámite del procedimiento.
+
+Una vez aceptada por ambas partes, la sujeción al mecanismo alterno para la solución de su controversia, se abrirá el expediente correspondiente y se citará a las partes para proceder a la elaboración del Convenio o Acuerdo al que lleguen.
+
+Si el procedimiento fue solicitado a instancia de una autoridad, se le informará el resultado del mismo mediante oficio.
 
 En caso de que se considere que la controversia no es susceptible de solucionarse por algún mecanismo alterno, se hará del conocimiento del interesado, expresándole los motivos.
 
@@ -185,9 +209,13 @@ El trámite de los mecanismos alternativos interrumpe el término de la caducida
 
 Las partes deberán informar al tribunal, antes de que fenezca el plazo de interrupción, sobre los resultados obtenidos y para el caso de que no hubieren concluido las negociaciones, podrán solicitar la ampliación de dicho plazo, sobre el que el órgano jurisdiccional resolverá conforme a los lineamientos establecidos en el párrafo anterior. La omisión del informe dará lugar a la reanudación del término de la caducidad.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 18.
 
-En las controversias del orden penal que puedan someterse a algún mecanismo alternativo, el Ministerio Público durante la averiguación previa, o el Juez, en el auto de sujeción a proceso o de formal prisión, en su caso, podrán ordenar la citación al indiciado, imputado o procesado y al ofendido a una audiencia en la que se les expondrá la posibilidad de acudir a los centros de justicia alternativa para solucionar la controversia.
+En las controversias del orden penal que puedan someterse a algún mecanismo alternativo, el Ministerio Público, durante la averiguación previa o investigación, o el Juez, en el auto de sujeción a proceso o de formal prisión, o en la etapa intermedia, hasta antes del auto de apertura a juicio oral, en su caso, podrán ordenar la citación al imputado o acusado y a la víctima u ofendido a una audiencia en la que se les expondrá la posibilidad de acudir a los centros de justicia alternativa para solucionar la controversia.
 
 En caso de que las partes acuerden algún mecanismo alternativo, el Ministerio Público o el Juez, en su caso, lo notificará al Centro que corresponda.
 
@@ -197,17 +225,29 @@ Si las partes no aceptan iniciar los mecanismos alternativos, continuará el pro
 
 La prescripción tanto de las acciones civiles, como de las penales tratándose de delitos susceptibles de ser solucionados por un mecanismo alternativo, podrá interrumpirse hasta por el término de dos meses, por voluntad de las partes, a partir de la fecha que determinen de común acuerdo.
 
-### CAPÍTULO III. DE LOS CENTROS DE JUSTICIA ALTERNATIVA DEL PODER JUDICIAL DEL ESTADO Y DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 11 DE OCTUBRE DE 2012)</small>
+
+### CAPÍTULO III. DE LOS CENTROS DE JUSTICIA ALTERNATIVA DEL PODER JUDICIAL DEL ESTADO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 11 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 20.
 
-El Poder Judicial del Estado y la Procuraduría General de Justicia del Estado tendrán Centros de Justicia Alternativa, con autonomía técnica para la aplicación de los mecanismos de solución de controversias, previstos en esta Ley.
+El Poder Judicial del Estado tendrá Centros de Justicia Alternativa, con autonomía técnica para la aplicación de los mecanismos de solución de controversias, previstos en esta Ley.
 
 ###### Artículo 21.
 
 Los Centros de Justicia Alternativa, tendrán competencia en toda la Entidad para la aplicación de mecanismos alternativos de solución de controversias.
 
-Los centros dependerán jerárquicamente de las Direcciones Generales correspondientes del Poder Judicial del Estado y de la Procuraduría General de Justicia, con las atribuciones que se establezcan en los reglamentos respectivos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 11 DE OCTUBRE DE 2012)</small>
+
+Los centros dependerán jerárquicamente de las Direcciones Generales correspondientes del Poder Judicial del Estado, con las atribuciones que se establezcan en los reglamentos respectivos.
 
 ###### Artículo 22.
 
@@ -241,19 +281,45 @@ III.- El personal administrativo.
 
 Las personas que desempeñen cargos directivos o de especialistas en los Centros serán considerados servidores públicos de confianza.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 11 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 24.
 
-Para ser director general o director de los Centros de Justicia Alternativa del Estado, se requiere:
+Para ser Director General de los Centros de Justicia Alternativa del Estado, se requiere:
 
 I.- Estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
-II.- Poseer, al día en que inicie el cargo, título de profesional de licenciado en derecho y cédula profesional, y contar con experiencia mínima de tres años en el ejercicio de la profesión;
+II.- Poseer, al día en que inicie el cargo, título profesional de licenciado en derecho y cédula profesional y contar con experiencia mínima de tres años en el ejercicio de la profesión;
 
 III.- Contar con los conocimientos, aptitudes y habilidades suficientes para desempeñar el cargo de manera eficiente;
 
-IV.- No haber sido condenado por delito doloso que amerite pena privativa de libertad, ni estar inhabilitado para desempeñar empleo, cargo o comisión en el servicio público; y
+IV.- No haber sido condenado por delito doloso que amerite pena privativa de libertad, ni estar inhabilitado para desempeñar empleo, cargo o comisión en el servicio público;
 
-V.- Ser de reconocida honorabilidad.
+V.- Ser de reconocida honorabilidad; y
+
+VI.- Los demás requisitos que establezcan la ley, su respectivo reglamento y demás disposiciones que resulten aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 11 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 24 Bis.
+
+Para ser Director de un Centro de Justicia Alternativa del Estado, se requiere:
+
+I.- Estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+
+II.- Poseer, al día en que inicie el cargo, título profesional de licenciado en derecho y cédula profesional, y contar con experiencia mínima de tres años en el ejercicio de la profesión;
+
+II.- Contar con los conocimientos, aptitudes y habilidades suficientes para desempeñar el cargo de manera eficiente;
+
+IV.- No haber sido sentenciado por delito doloso que amerite pena privativa de libertad, ni estar inhabilitado para desempeñar empleo, cargo o comisión en el servicio público;
+
+V.- Ser de reconocida honorabilidad; y
+
+VI.- Los demás requisitos que establezcan la ley, su respectivo reglamento y demás disposiciones que resulten aplicables.
 
 ###### Artículo 25.
 
@@ -295,9 +361,71 @@ VIII.- Difundir información relativa a las funciones, actividades y logros del 
 
 IX.- Las demás atribuciones y obligaciones establecidas en esta Ley, en el Reglamento o en los acuerdos que emitan las autoridades competentes.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 11 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 27.
 
-Los mecanismos alternativos se realizarán por los Centros de Justicia Alternativa del Estado, de acuerdo con las directrices que se establezcan en el Reglamento o en los acuerdos que emitan las autoridades competentes.
+Los mecanismos alternativos se realizarán por los Centros de Justicia Alternativa del Estado, a través de los especialistas adscritos al Centro o bien por los especialistas privados autorizados por el Centro, de acuerdo con las directrices que se establezcan en el Reglamento o en los acuerdos que emitan las autoridades competentes.
+
+A) Para obtener la certificación como especialista adscrito se requiere:
+
+I.- Estar en pleno ejercicio de los derechos civiles y políticos;
+
+II.- Contar con los conocimientos, aptitudes y habilidades suficientes para desempeñar el cargo de manera eficiente;
+
+III.- No haber sido sentenciado por delito doloso que amerite pena privativa de libertad, ni estar inhabilitado para desempeñar empleo, cargo o comisión en el servicio público;
+
+IV.- No estar cumpliendo una sanción administrativa que implique inhabilitación para desempeñar empleo, cargo o comisión en el servicio público;
+
+V.- Cumplir con los programas de capacitación y evaluación que establezca el Centro;
+
+VI.- En el caso de personas especializadas, acreditar sus estudios y práctica en la materia;
+
+VII.- Contar con título profesional de licenciado en derecho y cédula profesional;
+
+VIII.- Acreditar los exámenes de ingreso que establezca el Centro; y
+
+IX.- Los demás que establezcan otras leyes o el Reglamento.
+
+Para obtener la certificación como especialista privado, además de los requisitos anteriores, se requiere acreditar que cuenta con la estructura suficiente para proporcionar el servicio como especialista, tener su domicilio en el Estado y mantener vigente el registro del servicio otorgado por el Centro.
+
+B) Son obligaciones comunes de los especialistas adscritos al Centro o de los especialistas privados:
+
+I.- Ejercer con probidad, eficiencia y respeto a los principios que rigen los mecanismos alternativos de solución de controversias y las funciones que esta Ley les encomienda;
+
+II.- Guardar la debida confidencialidad, en calidad de secreto profesional, respecto de la información obtenida en razón de su intervención, así como de las actuaciones y los convenios en que intervenga;
+
+III.- Conducir los procedimientos alternativos, atendiendo a los principios rectores a que se refiere esta Ley;
+
+IV.- Vigilar que en los mecanismos alternativos en que intervengan, no se afecten derechos de terceros, intereses de menores e incapaces y disposiciones de orden público;
+
+V.- Desarrollar el mecanismo alternativo elegido por los participantes;
+
+VI.- Cerciorarse del correcto entendimiento y comprensión que los participantes tengan del desarrollo del mecanismo alternativo elegido, desde su inicio hasta su conclusión, así como de sus alcances;
+
+VII.- Cerciorarse que la voluntad de los interesados no sufra algún vicio;
+
+VIII.- Abstenerse de prestar servicios profesionales diversos a los inherentes a su función a las personas sujetas a los medios alternativos;
+
+IX.- Exhortar y motivar a los participantes a cooperar en la solución del conflicto;
+
+X.- Declarar la improcedencia del mecanismo alternativo elegido, en los casos en que así corresponda, haciendo saber a las partes los motivos de la misma;
+
+XI. Excusarse de conocer del mecanismo alternativo elegido cuando se encuentre en alguno de los supuestos en que la legislación procesal aplicable al conflicto, obligue al juzgador a excusarse, salvo cuando los participantes con pleno conocimiento y por estimar que no se afecta la imparcialidad del prestador, lo acepten por escrito;
+
+XII. Informar a las partes sobre la naturaleza y ventajas de los procedimientos alternativos de solución de conflictos previstos en esta Ley, así como de las consecuencias legales del acuerdo, convenio o transacción que celebren en su caso;
+
+XIII.- Evitar la prolongación innecesaria de los procedimientos que atienda;
+
+XIV.- Actualizarse permanentemente en la teoría y técnicas de los mecanismos alternativos para la solución de controversias;
+
+XV.- Proporcionar los informes estadísticos o relacionados con su actividad que le requiera el mismo, de conformidad con lo dispuesto en esta Ley y en su reglamento;
+
+XVI.- Someter a consideración del Director del Centro los convenios celebrados por las partes; y
+
+XVII.- Los demás requisitos que establezcan la ley, su respectivo reglamento y demás disposiciones que resulten aplicables.
 
 ###### Artículo 28.
 
@@ -372,3 +500,11 @@ EDUARDO BOURS CASTELO
 EL SECRETARIO DE GOBIERNO
 
 ROBERTO RUIBAL ASTIAZARAN.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 11 DE OCTUBRE DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el 18 de junio de 2016, previa publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
