@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-educacion-publica-42430
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-01-21"
-last_updated: "2011-08-04"
+last_updated: "2012-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42430&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2005-01-20"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE OCTUBRE DE 2012.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 21 de enero de 2005.
 
@@ -77,7 +77,9 @@ XIII. Dirección General de Educación Superior Universitaria;
 
 XIV. Dirección General de Educación Superior Tecnológica;
 
-XV. Coordinación General de Universidades Tecnológicas;
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
+XV. Coordinación General de Universidades Tecnológicas y Politécnicas;
 
 XVI. Dirección General de Educación Superior para Profesionales de la Educación;
 
@@ -97,7 +99,9 @@ XXIII. (DEROGADA, D.O.F. 11 DE OCTUBRE DE 2006)
 
 XXIV. Dirección General de Desarrollo Curricular;
 
-XXV. Dirección General de Materiales Educativos;
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
+XXV. Dirección General de Materiales e Informática Educativa;
 
 XXVI. Dirección General de Desarrollo de la Gestión e Innovación Educativa;
 
@@ -115,11 +119,13 @@ XXXI. Dirección General de Innovación, Calidad y Organización;
 
 XXXII. Dirección General de Recursos Materiales y Servicios;
 
-XXXIII. Dirección General de Tecnología de la Información;
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
 
-> <small>(REFORMADA, D.O.F. 4 DE AGOSTO DE 2011)</small>
+XXXIII. Dirección General de Tecnologías de la Información y Comunicaciones;
 
-XXXIV. Dirección General de Planeación;
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
+XXXIV. Dirección General de Planeación y Estadística Educativa;
 
 XXXV. Dirección General de Evaluación de Políticas;
 
@@ -153,13 +159,17 @@ VII. Instituto Politécnico Nacional;
 
 VIII. Radio Educación;
 
-> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
 
-IX. Universidad Pedagógica Nacional, y
+IX. Universidad Pedagógica Nacional;
 
-> <small>(ADICIONADA, D.O.F. 1 DE JULIO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
 
-X. Instituto Nacional de Estudios Históricos de las Revoluciones de México.
+X. Instituto Nacional de Estudios Históricos de las Revoluciones de México, y
+
+> <small>(ADICIONADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
+XI. Universidad Abierta y a Distancia de México.
 
 > <small>(REFORMADO, D.O.F. 11 DE OCTUBRE DE 2006)</small>
 
@@ -261,7 +271,7 @@ VI. Proponer al Secretario los anteproyectos de tratados, acuerdos interinstituc
 
 VII. Proporcionar la información, datos y cooperación técnica que sean solicitados por otras dependencias y entidades de la Administración Pública Federal, de conformidad con las instrucciones del Secretario;
 
-VIII. Representar a la Secretaría, por acuerdo del Secretario, en las comisiones, consejos u órganos de gobierno de instituciones y entidades paraestatales en las que participe la Dependencia;
+VIII. (DEROGADA, D.O.F. 11 DE OCTUBRE DE 2012)
 
 IX. Suscribir los documentos relativos al ejercicio de las facultades que le hayan sido delegadas, autorizadas o le correspondan por suplencia;
 
@@ -307,7 +317,9 @@ IV. Autorizar, de acuerdo con las normas legales y demás disposiciones aplicabl
 
 V. Atender las necesidades administrativas de las unidades que integran la Secretaría, de acuerdo con las políticas fijadas por su Titular, así como autorizar la adquisición de bienes y la contratación de servicios para satisfacer dichas necesidades;
 
-VI. Suscribir, de conformidad con los lineamientos que expida el Secretario, los convenios y contratos que celebre la Secretaría de cuya ejecución se desprendan obligaciones patrimoniales a su cargo, así como los demás documentos que impliquen actos de administración. Esta atribución, previa autorización del Secretario, podrá ser delegada al servidor público que para tal efecto señale el Oficial Mayor;
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
+VI. Suscribir los convenios y contratos que celebre la Secretaría de cuya ejecución se desprendan obligaciones patrimoniales a su cargo, así como los demás documentos que impliquen actos de administración. Esta atribución, previa autorización del Secretario, podrá ser delegada al servidor público que para tal efecto señale el Oficial Mayor;
 
 VII. Proponer los proyectos de iniciativas de leyes, reglamentos, decretos, acuerdos, órdenes y demás disposiciones en asuntos de su competencia;
 
@@ -383,17 +395,17 @@ II. (DEROGADA, D.O.F. 4 DE AGOSTO DE 2011)
 
 III. Desarrollar, integrar y difundir la información necesaria para la planeación y evaluación del sector educativo y establecer los indicadores respectivos;
 
-> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2006)</small>
+IV. (DEROGADA, D.O.F. 11 DE OCTUBRE DE 2012)
 
-IV. Promover, en coordinación con la Unidad de Coordinación Ejecutiva, la participación social, la de las autoridades educativas y entidades especializadas en la planeación, programación y evaluación de las políticas educativas;
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
 
-V. Coordinar, en consulta con las unidades administrativas y órganos desconcentrados de la Secretaría, así como de las entidades del sector educativo, la planeación y evaluación de políticas y programas de carácter estratégico;
+V. Coordinar, en consulta con las unidades administrativas y órganos desconcentrados de la Secretaría, así como de las entidades del sector educativo, la planeación y evaluación de políticas y programas de carácter estratégico, incluyendo aquellas dirigidas a los educandos y docentes;
 
 VI. Desarrollar y coordinar el Sistema Nacional de Evaluación Educativa en consulta con las entidades federativas, así como con las entidades especializadas y las unidades administrativas competentes;
 
 VII. Planear, programar, organizar, dirigir y evaluar las actividades de las unidades administrativas adscritas a la Unidad, conforme a las instrucciones del Secretario;
 
-VIII. Impulsar el desarrollo de una instancia consultiva en materia de planeación y política educativa, en la que participen personalidades destacadas en el ámbito académico y la investigación educativa, de conformidad con los lineamientos que establezca el Secretario;
+VIII. (DEROGADA, D.O.F. 11 DE OCTUBRE DE 2012)
 
 IX. Auxiliar al Secretario en la coordinación de las acciones de radiodifusión y televisión educativa, así como en lo relativo a la coordinación de las entidades dedicadas a dichas actividades;
 
@@ -407,9 +419,9 @@ XII. Proponer al Secretario la delegación de facultades en funcionarios subalte
 
 XIII. Proporcionar la información, datos y cooperación técnica que sean solicitados por otras dependencias y entidades de la Administración Pública Federal, de conformidad con las instrucciones del Secretario;
 
-XIV. Representar a la Secretaría, por acuerdo del Secretario, en las comisiones, consejos u órganos de gobierno de instituciones y entidades paraestatales en las que participe la Dependencia;
+XIV. (DEROGADA, D.O.F. 11 DE OCTUBRE DE 2012)
 
-XV. Auxiliar al Secretario en la coordinación de los órganos desconcentrados y las entidades paraestatales sectorizadas;
+XV. (DEROGADA, D.O.F. 11 DE OCTUBRE DE 2012)
 
 XVI. Suscribir los documentos relativos al ejercicio de las facultades que le hayan sido delegadas, autorizadas o le correspondan por suplencia;
 
@@ -419,7 +431,23 @@ XVIII. Acordar con los titulares de las unidades administrativas adscritos a la 
 
 XIX. (DEROGADA, D.O.F. 4 DE AGOSTO DE 2011)
 
-XX. Las demás que las disposiciones aplicables le confieran, las que le encomiende el Secretario y las que correspondan a las unidades administrativas que se le adscriban, excepto en los casos en que por disposición legal, deban ser ejercidas por los titulares de ellas directamente.
+> <small>(ADICIONADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
+XX. Regular, con la participación de las entidades federativas, las entidades paraestatales, las unidades administrativas y los órganos desconcentrados del sector educativo, el padrón nacional de alumnos, docentes, instituciones y centros escolares, así como regular, coordinar y operar el registro nacional de emisión, validación e inscripción de documentos académicos;
+
+> <small>(ADICIONADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
+XXI. Establecer, con la participación de las entidades federativas, las instancias especializadas competentes, las unidades administrativas y los órganos desconcentrados de la Secretaría, el Sistema Nacional de Información Educativa;
+
+> <small>(ADICIONADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
+XXII. Definir, con la participación de las entidades federativas, las entidades paraestatales, las unidades administrativas y los órganos desconcentrados del sector educativo, los mecanismos de ingreso y promoción al servicio docente y de administración escolar;
+
+> <small>(ADICIONADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
+XXIII. Coordinar, con las unidades administrativas y órganos desconcentrados de la Secretaría, así como con las entidades paraestatales competentes, la planeación y evaluación de políticas y programas en materia de equidad de género, no violencia e inclusión de personas con discapacidad en el sistema educativo nacional, y
+
+XXIV. Las demás que las disposiciones aplicables le confieran, las que le encomiende el Secretario y las que correspondan a las unidades administrativas que se le adscriban, excepto en los casos en que por disposición legal, deban ser ejercidas por los titulares de ellas directamente.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 11 DE OCTUBRE DE 2006)</small>
 
@@ -445,9 +473,27 @@ VI. Proponer y tramitar los apoyos que corresponda otorgar a la Dependencia para
 
 VII. Coordinar la realización de estudios de opinión pública con relación a las políticas educativas, con la colaboración de las unidades administrativas y entidades especializadas competentes;
 
-VIII. Dar seguimiento a los compromisos y acuerdos del Gobierno de la República en materia de calidad de la educación, y
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
 
-IX. Las demás que las disposiciones aplicables le confieran, las que le encomiende el Secretario y las que correspondan a las unidades administrativas que se le adscriban, excepto en los casos en que por disposición legal deban ser ejercidas por los titulares de ellas directamente.
+VIII. Dar seguimiento a los compromisos y acuerdos del Gobierno de la República en materia de calidad de la educación;
+
+> <small>(ADICIONADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
+IX. Auxiliar al Secretario en la coordinación de los órganos desconcentrados y las entidades paraestatales sectorizadas;
+
+> <small>(ADICIONADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
+X. Planear, programar, organizar, promover, dirigir, ejecutar y evaluar acciones que fortalezcan la participación social en la educación, así como planear, coordinar y evaluar el registro público de consejos escolares de participación social y proponer los lineamientos que regulen la participación de la sociedad en actividades que tengan por objeto fortalecer y elevar la calidad de la educación pública, así como ampliar la cobertura de los servicios educativos;
+
+> <small>(ADICIONADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
+XI. Fungir como enlace entre la Secretaría y las asociaciones de padres de familia y proponer las disposiciones que regulen la organización y el funcionamiento de las mismas, en lo concerniente a sus relaciones con las autoridades de los establecimientos escolares;
+
+> <small>(ADICIONADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
+XII. Recibir las solicitudes, sugerencias y planteamientos que presenten ciudadanos y organizaciones de la sociedad civil ante la Secretaría, canalizarlas a las áreas competentes y darles seguimiento, así como sistematizar y proporcionar información a la ciudadanía sobre las actividades, trámites y servicios del sector educativo, y
+
+XIII. Las demás que las disposiciones aplicables le confieran, las que le encomiende el Secretario y las que correspondan a las unidades administrativas que se le adscriban, excepto en los casos en que por disposición legal deban ser ejercidas por los titulares de ellas directamente.
 
 ### CAPÍTULO VII. DE LAS ATRIBUCIONES GENÉRICAS DE LAS DIRECCIONES GENERALES Y DEMÁS UNIDADES ADMINISTRATIVAS
 
@@ -611,9 +657,9 @@ XXI. Llevar el registro de las personas acreditadas para efectuar trámites ante
 
 XXII. Remitir para su publicación en el Diario Oficial de la Federación las disposiciones y lineamientos generales de la Secretaría y del sector educativo que así lo ameriten, así como difundir los acuerdos del Secretario que no se divulguen por dicho órgano oficial;
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
 
-XXIII. Otorgar o negar, dentro del ámbito de competencia de la Secretaría, las autorizaciones a que se refiere el artículo 40 de la Ley sobre el Escudo, la Bandera y el Himno Nacionales;
+XXIII. Otorgar o negar, dentro del ámbito de competencia de la Secretaría, las autorizaciones a que se refieren los artículos 39 bis y 40 de la Ley sobre el Escudo, la Bandera y el Himno Nacionales;
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2009)</small>
 
@@ -829,43 +875,87 @@ XXIII. Definir normas y políticas en materia de equipamiento y mantenimiento de
 
 XXIV. Emitir dictamen para efectos de la creación de planteles destinados a impartir educación superior tecnológica a cargo de la Secretaría.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 20.
 
-Corresponde a la Coordinación General de Universidades Tecnológicas el ejercicio de las siguientes atribuciones:
+Corresponde a la Coordinación General de Universidades Tecnológicas y Politécnicas el ejercicio de las siguientes atribuciones:
 
-I. Proponer políticas para el desarrollo de las universidades tecnológicas y el cumplimiento de sus objetivos;
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
+I. Proponer políticas para el desarrollo de las universidades tecnológicas y politécnicas, así como para el cumplimiento de sus objetivos;
+
+> <small>(ADICIONADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
+I Bis. Promover el diseño, desarrollo e innovación curricular de programas académicos, planes y programas de estudio, materiales educativos e instrumentos de evaluación del aprendizaje de la educación de tipo superior que imparten las universidades tecnológicas y politécnicas, así como proporcionar a éstas la asistencia académica, técnica y pedagógica que acuerden con la Secretaría;
 
 II. Promover los procesos de planeación participativa en las instituciones a que se refiere este artículo;
 
 III. Promover, en coordinación con la Dirección General de Evaluación de Políticas, procesos de autoevaluación y evaluación externa de los programas educativos y de la gestión institucional en las instituciones a que se refiere este artículo;
 
-IV. Propiciar acciones dirigidas al mejoramiento de la calidad de los programas y servicios que ofrecen las universidades tecnológicas;
+> <small>(ADICIONADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
 
-V. Impulsar en las universidades tecnológicas la atención a las recomendaciones formuladas por organismos evaluadores externos en relación con sus programas educativos, así como con su gestión y administración institucional, con el propósito de que alcancen y mantengan sus reconocimientos de calidad;
+III Bis. Promover que las universidades tecnológicas y politécnicas formulen programas integrales de fortalecimiento institucional que les permitan alcanzar niveles superiores de desempeño;
+
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
+IV. Propiciar acciones dirigidas al mejoramiento de la calidad de los programas y servicios que ofrecen las universidades tecnológicas y politécnicas;
+
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
+V. Impulsar en las universidades tecnológicas y politécnicas la atención a las recomendaciones formuladas por organismos evaluadores externos en relación con sus programas educativos, así como con su gestión y administración institucional, con el propósito de que alcancen y mantengan sus reconocimientos de calidad;
 
 VI. Fomentar el desarrollo y consolidación de cuerpos académicos y de sus líneas de generación y aplicación del conocimiento en las instituciones a que se refiere este artículo;
 
 VII. Promover, dentro del marco de las normas aplicables, la adecuación de la estructura orgánica y la actualización normativa de las instituciones a que se refiere este artículo;
 
-VIII. Coordinar con las autoridades educativas de los estados el funcionamiento y operación de las universidades tecnológicas;
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
 
-IX. Participar en el estudio de los proyectos para el establecimiento, desarrollo y extensión de las universidades tecnológicas;
+VIII. Coordinar, de conformidad con los convenios que al efecto se suscriban con las autoridades educativas de las entidades federativas, el funcionamiento y operación de las universidades tecnológicas y politécnicas;
 
-X. Vigilar que las atribuciones de docencia, investigación aplicada y difusión de la cultura que realizan las universidades tecnológicas, guarden relación armónica y complementaria entre ellas y las del sistema de educación superior;
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
 
-XI. Desarrollar investigaciones para fortalecer la vinculación de las universidades tecnológicas con los sectores de producción de bienes y servicios;
+IX. Participar en el estudio de los proyectos para el establecimiento, desarrollo y extensión de las universidades tecnológicas y politécnicas;
 
-XII. Apoyar las acciones de concertación que propicien el desarrollo y consolidación de las universidades tecnológicas;
+> <small>(ADICIONADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
 
-XIII. Supervisar y evaluar el cumplimiento de los programas académicos, de control escolar y de administración, a cargo de las universidades tecnológicas;
+IX Bis. Proponer políticas en materia de equipamiento y mantenimiento de universidades tecnológicas y politécnicas, así como las prioridades en construcción, conservación, uso y aprovechamiento de edificios, instalaciones, mobiliario y equipo de dichas universidades;
 
-XIV. Desarrollar, en coordinación con las universidades tecnológicas, un sistema integral de información;
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
 
-XV. Establecer, en coordinación con las unidades administrativas competentes de la Secretaría, los procedimientos para el control de los apoyos financieros otorgados a las universidades tecnológicas;
+X. Vigilar que las atribuciones de docencia, investigación aplicada y difusión de la cultura que realizan las universidades tecnológicas y politécnicas, guarden relación armónica y complementaria entre ellas y las del sistema de educación superior;
 
-XVI. Proponer políticas para regular la administración de los recursos destinados a las universidades tecnológicas ante las unidades administrativas competentes de la Secretaría;
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
 
-XVII. Gestionar los apoyos necesarios para la operación de las universidades tecnológicas ante las unidades administrativas de la Secretaría y demás dependencias y entidades de la Administración Pública Federal;
+XI. Desarrollar investigaciones para fortalecer la vinculación de las universidades tecnológicas y politécnicas con los sectores de producción de bienes y servicios;
+
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
+XII. Apoyar las acciones de concertación que propicien el desarrollo y consolidación de las universidades tecnológicas y politécnicas;
+
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
+XIII. Supervisar y evaluar el cumplimiento de los programas académicos, así como los de control escolar, administración, vinculación e investigación, a cargo de las universidades tecnológicas y politécnicas;
+
+> <small>(ADICIONADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
+XIII Bis. Fomentar en las universidades tecnológicas y politécnicas el desarrollo de actividades de vinculación e investigación que fortalezcan la docencia y apoyen la articulación con los sectores de producción de bienes y servicios;
+
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
+XIV. Desarrollar, en coordinación con las universidades tecnológicas y politécnicas, un sistema integral de información;
+
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
+XV. Establecer, en coordinación con las unidades administrativas competentes de la Secretaría, los procedimientos para el control de los apoyos financieros otorgados a las universidades tecnológicas y politécnicas;
+
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
+XVI. Proponer políticas para regular la administración de los recursos destinados a las universidades tecnológicas y politécnicas ante las unidades administrativas competentes de la Secretaría;
+
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
+XVII. Gestionar los apoyos necesarios para la operación de las universidades tecnológicas y politécnicas ante las unidades administrativas de la Secretaría y demás dependencias y entidades de la Administración Pública Federal;
 
 XVIII. Establecer, en coordinación con la Dirección General de Evaluación de Políticas, indicadores para evaluar el desempeño de las instituciones de tipo superior a que se refiere este artículo;
 
@@ -1179,7 +1269,9 @@ IV. Proponer lineamientos y criterios pedagógicos que orienten los programas de
 
 V. Proponer, considerando la opinión de las autoridades educativas locales y en coordinación con las unidades administrativas competentes de la Secretaría y las respectivas instancias especializadas, lineamientos para verificar la correcta aplicación de normas pedagógicas y estándares referidos a los planes y programas de estudio, así como los métodos aplicados en los planteles que imparten educación inicial, especial y básica;
 
-VI. Proponer a la Dirección General de Materiales Educativos los contenidos de los libros de texto gratuitos, considerando la opinión de las autoridades educativas locales y de los diversos sectores sociales involucrados en la educación;
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
+VI. Proponer a la Dirección General de Materiales e Informática Educativa los contenidos de los libros de texto gratuitos, considerando la opinión de las autoridades educativas locales y de los diversos sectores sociales involucrados en la educación;
 
 VII. Establecer lineamientos y asesorar a las autoridades educativas locales para la elaboración de los contenidos regionales de los planes y programas de estudio, así como sobre la aplicación de métodos pedagógicos;
 
@@ -1193,39 +1285,41 @@ XI. Contribuir al desarrollo de las capacidades técnicas de equipos estatales p
 
 XII. Desarrollar, en coordinación con las entidades y unidades administrativas competentes, programas y acciones para atender necesidades educativas de los grupos vulnerables.
 
+> <small>(REFORMADO, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 30.
 
-Corresponde a la Dirección General de Materiales Educativos el ejercicio de las siguientes atribuciones:
+Corresponde a la Dirección General de Materiales e Informática Educativa el ejercicio de las siguientes atribuciones:
 
-I. Diseñar, editar y mantener actualizados los libros de texto gratuitos, a partir de los contenidos generados por la Dirección General de Desarrollo Curricular, así como entregarlos a la Comisión Nacional de Libros de Texto Gratuitos y autorizar la versión final para impresión y distribución;
+I. Elaborar los contenidos, mantener actualizados y editar los libros de texto gratuitos, a partir del plan y programas de estudio de educación básica y tomando en cuenta los contenidos propuestos por la Dirección General de Desarrollo Curricular, así como autorizar a la Comisión Nacional de Libros de Texto Gratuitos la versión final para su impresión y distribución;
 
-II. Proponer normas, criterios y estándares de calidad para la producción, selección, distribución y uso pedagógico de los materiales educativos y otros auxiliares didácticos, curriculares y complementarios para la educación inicial, especial y básica en sus diferentes niveles y modalidades, con objeto de apoyar el trabajo de los maestros y los alumnos, tomando en consideración los resultados de las evaluaciones educativas, las observaciones de las autoridades educativas locales, las escuelas y los sectores sociales involucrados en el desarrollo educativo;
+II. Proponer normas, criterios y estándares de calidad para la producción, selección y uso pedagógico de los materiales educativos para la educación inicial, básica y especial;
 
-III. Elaborar, diseñar y mantener actualizados, en coordinación con la Dirección General de Formación Continua de Maestros en Servicio, materiales y auxiliares didácticos para la actualización y capacitación de docentes de educación inicial, especial y básica, tomando en cuenta los perfiles de los educandos, las características y el entorno geográfico, ambiental y de infraestructura de la región;
+III. Elaborar los contenidos, diseñar y mantener actualizados los materiales educativos para la formación y capacitación de docentes de educación inicial, básica y especial;
 
-IV. Fomentar y asesorar la elaboración de auxiliares didácticos de calidad diseñados en el ámbito escolar a partir de la experiencia docente y adaptados a las condiciones específicas de los alumnos y de las escuelas;
+IV. Fomentar y asesorar en la elaboración de materiales educativos, diseñados a partir de la experiencia docente y adaptados a las condiciones específicas de los alumnos y de las escuelas;
 
-V. Impulsar la utilización de materiales y auxiliares didácticos propios de cada región que apoyen el aprovechamiento de los planes y programas de estudio de la educación inicial, especial y básica, y faciliten a los educandos la comprensión de sus orígenes históricos y de su entorno geográfico y ambiental;
+V. Impulsar la utilización de materiales educativos de educación inicial, básica y especial propios de cada región que apoyen el aprovechamiento de los correspondientes planes y programas de estudio y faciliten a los educandos la comprensión de sus orígenes históricos y de su entorno geográfico y ambiental;
 
-VI. Diseñar y producir materiales y auxiliares didácticos en soportes audiovisuales, informáticos, multimedia y otros recursos tecnológicos con la finalidad de apoyar los planes y programas de estudio de la educación inicial, especial y básica en sus diferentes niveles y modalidades, en coordinación con las unidades administrativas competentes de la Secretaría, organismos o entidades que correspondan;
+VI. Elaborar los contenidos, así como diseñar, desarrollar, innovar, producir y actualizar materiales educativos accesibles para la educación inicial, básica y especial a partir de los correspondientes planes y programas de estudio;
 
-VII. Proponer a la Dirección General de Desarrollo Curricular innovaciones a los contenidos y métodos educativos para la aplicación de los planes y programas de estudio de la educación inicial, especial y básica, en sus diferentes niveles y modalidades;
+VII. Asesorar a las autoridades educativas locales en la elaboración de materiales educativos regionales, así como en la aplicación de métodos pedagógicos para su adecuado aprovechamiento;
 
-VIII. Asesorar a las autoridades educativas locales en la elaboración de materiales educativos regionales, así como en la aplicación de métodos pedagógicos para su adecuado aprovechamiento;
+VIII. Contribuir al desarrollo de capacidades técnicas de equipos estatales para la elaboración, selección, distribución, difusión y uso de materiales educativos;
 
-IX. Contribuir al desarrollo de capacidades técnicas de equipos estatales para la elaboración, selección, distribución, difusión y uso de materiales y auxiliares didácticos;
+IX. Analizar y resolver las solicitudes de autorización para el uso de libros de texto y otros materiales educativos destinados a la educación básica;
 
-X. Estudiar y resolver las solicitudes de autorización para el uso de libros de texto y otros materiales educativos destinados a la educación básica, en coordinación con la Dirección General de Desarrollo Curricular;
+X. Efectuar la distribución de los libros de texto gratuitos, así como de los acervos para bibliotecas escolares y de aula y otros materiales educativos para la formación de lectores en las escuelas de educación básica y normal en coordinación con las autoridades educativas locales;
 
-XI. Proponer lineamientos para la publicación de libros y ediciones periódicas de la Secretaría en materia de educación inicial, especial y básica en sus diferentes modalidades, así como para el intercambio de publicaciones educativas con otras instituciones;
+XI. Colaborar, en coordinación con las autoridades educativas locales y unidades administrativas competentes de la Secretaría, así como las demás dependencias y entidades de la Administración Pública Federal, en la implementación, seguimiento y evaluación de estrategias para atender necesidades educativas de los grupos vulnerables o en rezago educativo;
 
-XII. Establecer normas y criterios para la dotación regular de acervos a las bibliotecas de aula y las escolares de educación básica, así como formular recomendaciones sobre las condiciones de equipamiento e infraestructura necesaria para el uso correcto de los materiales educativos, en coordinación con las unidades administrativas competentes de la Secretaría;
+XII. Diseñar e implementar estrategias para fomentar el uso de los materiales educativos de educación inicial, básica y especial, así como dar seguimiento y evaluar su uso pedagógico con la finalidad de mantenerlos actualizados;
 
-XIII. Proponer a la Dirección General de Desarrollo de la Gestión e Innovación Educativa y a las demás unidades administrativas competentes de la Secretaría, el desarrollo de proyectos experimentales respecto de materiales para la educación básica;
+XIII. Definir normas, criterios y estándares para el uso y administración de tecnologías de la información y comunicaciones, vinculados a los procesos pedagógicos de enseñanza aprendizaje de la educación básica, e instrumentar los programas en esta materia que sirvan de apoyo a la educación inicial, básica y especial; así como implementar, en coordinación con la Dirección General de Tecnologías de la Información y Comunicaciones, estrategias para el desarrollo informático de la Dirección General de Materiales e Informática Educativa;
 
-XIV. Desarrollar, en coordinación con las entidades y unidades administrativas competentes, programas y acciones para atender necesidades educativas de los grupos vulnerables, y
+XIV. Diseñar, implementar y dar seguimiento a estrategias para promover y fomentar la lectura y el libro, y
 
-XV. Diseñar y poner en operación procedimientos y métodos para dar seguimiento al uso de materiales de educación básica con la finalidad de mantenerlos actualizados, en coordinación con las unidades administrativas competentes de la Secretaría, las autoridades educativas locales, las escuelas y los sectores sociales involucrados en el desarrollo educativo.
+XV. Diseñar, implementar y dar seguimiento a estrategias para la planeación y aplicación del modelo pedagógico de telesecundaria en coordinación con las entidades federativas y unidades administrativas competentes de la Secretaría, así como las demás dependencias y entidades de la Administración Pública Federal.
 
 ###### ARTÍCULO 31.
 
@@ -1241,9 +1335,9 @@ IV. Impulsar procesos de autoevaluación en las escuelas, en coordinación con e
 
 V. Fomentar, en coordinación con las autoridades educativas locales, así como con las instancias especializadas y unidades administrativas competentes de la Secretaría, el desarrollo y uso de la investigación y la evaluación para el mejoramiento de las escuelas de educación inicial, especial y básica, en sus diferentes niveles y modalidades;
 
-> <small>(REFORMADA, D.O.F. 4 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
 
-VI. Contribuir, en coordinación con el Instituto Nacional para la Evaluación de la Educación, la Dirección General de Planeación, las instancias especializadas y demás unidades administrativas competentes de la Secretaría, al desarrollo y funcionamiento del Sistema Nacional de Información, Estadística e Indicadores Educativos;
+VI. Contribuir, en coordinación con el Instituto Nacional para la Evaluación de la Educación, la Dirección General de Planeación y Estadística Educativa, las instancias especializadas y demás unidades administrativas competentes de la Secretaría, al desarrollo y funcionamiento del Sistema Nacional de Información Educativa;
 
 VII. Asesorar a las autoridades educativas locales en el establecimiento y seguimiento de prácticas innovadoras en la escuela;
 
@@ -1311,19 +1405,29 @@ XI. Desarrollar en coordinación con las entidades y unidades administrativas co
 
 Corresponde a la Dirección General de Personal el ejercicio de las siguientes atribuciones:
 
-I. Proponer normas para regular el sistema de administración y desarrollo del personal de la Secretaría, difundir las vigentes y vigilar su cumplimiento;
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2009)</small>
+I. Proponer, de conformidad con las disposiciones jurídicas aplicables, normas para regular el sistema de administración y desarrollo del personal de la Secretaría, difundir las vigentes y vigilar su cumplimiento;
 
-II. Vigilar, en coordinación con la Unidad de Asuntos Jurídicos, la observancia de las Condiciones Generales de Trabajo y de las específicas correspondientes, así como del Reglamento de Escalafón y las normas de ingreso y promoción del personal;
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
 
-III. Proponer, conforme a las políticas y a las normas relativas, las estructuras y montos de las remuneraciones del personal de la Secretaría y del sector educativo e implementar los aprobados;
+II. Vigilar, en coordinación con la Unidad de Asuntos Jurídicos y demás unidades administrativas competentes de la Secretaría, la observancia de la normativa laboral aplicable;
 
-IV. Autorizar el diseño e impartición de los programas de capacitación y desarrollo para el personal de apoyo y asistencia a la educación de la Secretaría;
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
 
-V. Tramitar, registrar y controlar la admisión, baja y demás movimientos del personal de las áreas del Secretario, Oficial Mayor, Subsecretarías de Educación Superior y de Educación Básica, así como de la Unidad de Planeación y Evaluación de Políticas Educativas;
+III. Proponer, conforme a las políticas y a las normas relativas, las estructuras salariales y montos de las remuneraciones del personal de la Secretaría, así como comunicar a los órganos desconcentrados de ésta y a las entidades del sector educativo las estructuras salariales y montos de las remuneraciones de su personal determinadas por las dependencias competentes;
 
-VI. Realizar las liquidaciones de pago de servicios personales a las áreas del Secretario, Oficial Mayor, Subsecretarías de Educación Superior y de Educación Básica, así como de la Unidad de Planeación y Evaluación de Políticas Educativas;
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
+IV. Autorizar el diseño y los mecanismos de impartición de los programas de capacitación y desarrollo para el personal de apoyo y asistencia a la educación de la Secretaría, así como administrar el proceso de capacitación del personal de mando;
+
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
+V. Tramitar, registrar y controlar los movimientos del personal de las unidades administrativas de la Secretaría, excepto de aquéllas en las que dicha atribución sea conferida a otra unidad administrativa;
+
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
+VI. Realizar las liquidaciones de pago de servicios personales y administrar la información contenida en el sistema de nómina de las unidades administrativas de la Secretaría que para tal efecto se establezca, excepto de aquéllas en las que dicha administración sea conferida a otra unidad administrativa;
 
 VII. Controlar y evaluar la operación del sistema de administración y desarrollo de personal;
 
@@ -1333,21 +1437,51 @@ IX. Dar seguimiento a las acciones e incidencias propias de las relaciones labor
 
 X. Establecer criterios, políticas generales y programas de prevención en materia laboral respecto de las unidades administrativas y órganos desconcentrados de la Secretaría;
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2009)</small>
-
-XI. Vigilar, en coordinación con las demás unidades administrativas competentes, el cumplimiento de las disposiciones laborales y concertar las acciones necesarias para ello con la Unidad de Asuntos Jurídicos;
+XI. (DEROGADA, D.O.F. 11 DE OCTUBRE DE 2012)
 
 XII. Dictaminar la vigencia o prescripción del derecho del personal de la Secretaría para efectuar el cobro de remuneraciones omitidas;
 
 XIII. Diseñar y difundir los procedimientos para el pago de remuneraciones y la aplicación de descuentos al personal de la Secretaría y, en su caso, verificar su cumplimiento;
 
-XIV. Instrumentar y supervisar los aspectos técnicos, administrativos, de control y de apoyo, para que la Subsecretaría de Educación Media Superior realice adecuadamente la operación del sistema de pago y, en su caso, aplicar las soluciones que se requieran para corregir las desviaciones y problemas que se presenten;
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
 
-XV. Proporcionar apoyo y asesoría a las unidades administrativas y organismos desconcentrados de la Secretaría en materia de administración y desarrollo del personal;
+XIV. Instrumentar y supervisar los aspectos técnicos, administrativos, de control y de apoyo, para que la Subsecretaría de Educación Media Superior, realice adecuadamente la operación del sistema de pago y, en su caso, aplique las soluciones que se requieran para corregir las desviaciones y problemas que se presenten;
 
-XVI. Coordinar la aplicación de los Sistemas de Estímulos y Recompensas previstos por la Ley de la materia y las Condiciones Generales de Trabajo del Personal de la Secretaría, y
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
 
-XVII. Proponer un sistema de desempeño del personal basado en sus resultados y darle el seguimiento relativo.
+XV. Proporcionar apoyo y asesoría a las unidades administrativas y órganos desconcentrados de la Secretaría en materia de remuneraciones, administración y desarrollo de personal;
+
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
+XVI. Coordinar la aplicación de los Sistemas de Estímulos y Recompensas previstos por la Ley de la materia y las condiciones generales de trabajo del personal de la Secretaría;
+
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
+XVII. Proponer un sistema de desempeño del personal basado en sus resultados y darle el seguimiento relativo;
+
+> <small>(ADICIONADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
+XVIII. Administrar y operar el proceso de control de plazas del personal de las unidades administrativas de la Secretaría, así como dar seguimiento y atención a los acuerdos de la comisión encargada de los cambios interestatales. En el caso de las plazas con nivel de mando, esta atribución deberá ejercerse en coordinación con la Dirección General de Innovación, Calidad y Organización;
+
+> <small>(ADICIONADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
+XIX. Administrar la asignación presupuestal en materia de servicios personales, así como de prestaciones establecidas en la normativa aplicable de las unidades administrativas de la Secretaría, excepto de aquéllas en las que dicha atribución sea conferida a otra unidad administrativa;
+
+> <small>(ADICIONADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
+XX. Administrar las plazas vacantes del personal de apoyo y asistencia a la educación adscrito a las unidades administrativas de la Secretaría, excepto aquéllas en las que dicha atribución sea conferida a otra unidad administrativa;
+
+> <small>(ADICIONADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
+XXI. Implementar, en su ámbito de competencia, las acciones para cubrir las prestaciones al personal de las unidades administrativas de la Secretaría y, en su caso, de sus órganos desconcentrados que se deriven de las condiciones generales de trabajo y de los acuerdos existentes con la organización sindical correspondiente, así como programar, planear y coordinar las actividades sociales, culturales y recreativas que la Secretaría determine organizar como prestaciones para el personal de sus unidades administrativas que tenga derecho a éstas;
+
+> <small>(ADICIONADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
+XXII. Instrumentar el Sistema del Servicio Profesional de Carrera en la Secretaría de conformidad con las disposiciones jurídicas aplicables, y
+
+> <small>(ADICIONADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
+XXIII. Instrumentar, operar, controlar y evaluar los sistemas de desarrollo profesional de carrera del personal de apoyo y asistencia a la educación que se establezcan en la Secretaría.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE AGOSTO DE 2011)</small>
 
@@ -1359,9 +1493,9 @@ Corresponde a la Dirección General de Presupuesto y Recursos Financieros el eje
 
 I. Analizar y, en su caso, determinar y tramitar las adecuaciones presupuestarias procedentes;
 
-> <small>(REFORMADA, D.O.F. 4 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
 
-II. Proporcionar a la Dirección General de Evaluación de Políticas y a la Dirección General de Planeación la información necesaria, incluyendo el número y tipo de adecuaciones presupuestarias realizadas, para evaluar la inversión de los recursos públicos de la Secretaría;
+II. Proporcionar a la Dirección General de Evaluación de Políticas y a la Dirección General de Planeación y Estadística Educativa la información necesaria, incluyendo el número y tipo de adecuaciones presupuestarias realizadas, para evaluar la inversión de los recursos públicos de la Secretaría;
 
 > <small>(REFORMADA, D.O.F. 4 DE AGOSTO DE 2011)</small>
 
@@ -1505,45 +1639,43 @@ XII. Tramitar, en coordinación con la Unidad de Asuntos Jurídicos, los contrat
 
 XIII. Vigilar que las obras de construcción, reparación, adaptación o mantenimiento se realicen conforme a las especificaciones de los contratos y proyectos respectivos.
 
+> <small>(REFORMADO, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 38.
 
-Corresponde a la Dirección General de Tecnología de la Información el ejercicio de las siguientes atribuciones:
+Corresponde a la Dirección General de Tecnologías de la Información y Comunicaciones el ejercicio de las siguientes atribuciones:
 
-I. Llevar a cabo el diseño y la programación de los sistemas de información que requieran las unidades administrativas de la Secretaría para la administración de los recursos humanos, financieros y materiales y, cuando se le solicite, respecto de otros servicios y proyectos específicos, así como elaborar y difundir las estadísticas relativas a dichos recursos;
+I. Diseñar, desarrollar y establecer una arquitectura de sistemas de información que facilite los procesos de automatización, asimilación, uso y explotación de manera electrónica de la información generada por las unidades administrativas de la Secretaría, y proporcionar al personal de éstas la capacitación correspondiente;
 
-II. Formular y difundir las disposiciones técnicas y administrativas a las que deban ajustarse las unidades administrativas de la Secretaría para la organización, operación, mantenimiento, desarrollo, supervisión y evaluación de las áreas de procesamiento electrónico y verificar su cumplimiento;
+II. Proponer al Oficial Mayor para su aprobación, políticas, programas, estrategias, acciones, criterios y procedimientos para el uso, incorporación, adopción, adquisición, contratación, aprovechamiento y seguridad que en materia de tecnologías de la información y comunicaciones deberán observar las unidades administrativas de la Secretaría;
 
-III. Formular y ejecutar los programas de mantenimiento, funcionamiento y evaluación de los bienes de tecnología de la información de la Secretaría;
+III. Planear, desarrollar y, en su caso, habilitar la infraestructura de tecnologías de la información y comunicaciones en las unidades administrativas de la Secretaría;
 
-IV. Proporcionar, a solicitud de las unidades administrativas de la Secretaría, los servicios de procesamiento electrónico de datos;
+IV. Promover en las unidades administrativas de la Secretaría, el desarrollo e implementación de proyectos que incorporen tecnologías de la información y comunicaciones para la modernización, el desarrollo administrativo, la mejora de la gestión, la descentralización de funciones y la sistematización de trámites;
 
-V. Proporcionar el apoyo y la asesoría que se requiera en materia de tecnología de la información a las unidades administrativas de la Secretaría;
+V. Apoyar a las unidades administrativas de la Secretaría que realicen funciones en materia de tecnologías de la información y comunicaciones, así como asesorar en dicha materia a los órganos desconcentrados de la Secretaría;
 
-VI. Elaborar los estudios de viabilidad y emitir, en su caso, dictamen para la adquisición de los bienes y servicios informáticos requeridos por las unidades administrativas de la Secretaría;
+VI. Elaborar los estudios de viabilidad y emitir, cuando proceda, dictamen para la adquisición de bienes y servicios informáticos requeridos por las unidades administrativas y, en su caso, emitir opinión en la materia a los órganos desconcentrados de la Secretaría;
 
-VII. Proporcionar los medios tecnológicos para que las diversas áreas de la Secretaría establezcan bancos de información;
+VII. Proporcionar bienes y servicios de tecnologías de la información y comunicaciones a las unidades administrativas de la Secretaría;
 
-VIII. Apoyar, asesorar y capacitar en materia de tecnologías de la información, en los procesos de nómina y pago de remuneraciones al personal adscrito a las diferentes unidades administrativas de la Secretaría;
+VIII. Evaluar y fomentar proyectos orientados a la optimización del gasto y la inversión en materia de tecnologías de la información y comunicaciones en las unidades administrativas de la Secretaría, así como coordinar sus actividades con otras dependencias y entidades de la Administración Pública Federal que proporcionen servicios de tecnologías de la información y comunicaciones, a efecto de intercambiar información y asesoría que facilite a la Secretaría un mejor cumplimiento de las atribuciones que tiene encomendadas, y
 
-IX. Proporcionar apoyo en los procesos de nómina a las autoridades de las entidades federativas que lo soliciten, así como, de conformidad con su capacidad, a los órganos desconcentrados de la Secretaría;
+IX. Identificar y administrar los riesgos en materia de seguridad de las tecnologías de la información y comunicaciones, e implementar, en coordinación con las unidades administrativas de la Secretaría, las medidas que resulten necesarias para su salvaguarda.
 
-X. Capacitar al personal administrativo y a monitores para el personal docente de la Secretaría en el uso de sistemas, equipos y herramientas propias de la tecnología de la información, en coordinación con las demás unidades administrativas competentes;
-
-XI. Coordinar sus actividades con otras dependencias y entidades de la Administración Pública Federal que proporcionen servicios de procesamiento electrónico de datos, a efecto de intercambiar información y asesoría que facilite a la Secretaría un mejor cumplimiento de las atribuciones que tiene encomendadas, y
-
-XII. Proponer las normas para regular la administración de los recursos de tecnología de la información de la Secretaría bajo criterios de austeridad, modernización tecnológica, optimización, eficiencia y racionalidad.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 39.
 
-Corresponde a la Dirección General de Planeación el ejercicio de las siguientes atribuciones:
+Corresponde a la Dirección General de Planeación y Estadística Educativa el ejercicio de las siguientes atribuciones:
 
 > <small>(REFORMADA, D.O.F. 4 DE AGOSTO DE 2011)</small>
 
 I. Desarrollar y coordinar las actividades de planeación de la Secretaría para los diversos niveles, tipos y modalidades de educación, así como del sector educativo en su conjunto;
 
-II. Proponer lineamientos y coordinar la elaboración y actualización del Programa Sectorial de Educación, en los términos que establezcan la Ley de Planeación, la Ley General de Educación y el Plan Nacional de Desarrollo, en coordinación con las unidades administrativas competentes y con la participación de las autoridades de las entidades federativas, sectores sociales involucrados en la educación y la sociedad en general;
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
+II. Proponer lineamientos y coordinar la elaboración, actualización y seguimiento del Programa Sectorial de Educación, en los términos que establezcan la Ley de Planeación, la Ley General de Educación y el Plan Nacional de Desarrollo, en coordinación con las unidades administrativas competentes y con la participación de las autoridades de las entidades federativas, sectores sociales involucrados en la educación y la sociedad en general, así como coordinar la elaboración del informe de labores de la Secretaría;
 
 III. (DEROGADA, D.O.F. 4 DE AGOSTO DE 2011)
 
@@ -1559,7 +1691,9 @@ VIII. Contribuir al desarrollo y coordinación de un sistema nacional de planeac
 
 IX. (DEROGADA, D.O.F. 4 DE AGOSTO DE 2011)
 
-X. Llevar el registro nacional de instituciones pertenecientes al sistema educativo nacional;
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
+X. Coordinar y operar, con la participación de las entidades federativas, las entidades paraestatales, las unidades administrativas y los órganos desconcentrados del sector educativo, el padrón nacional de alumnos, docentes, instituciones y centros escolares;
 
 XI. (DEROGADA, D.O.F. 4 DE AGOSTO DE 2011)
 
@@ -1567,23 +1701,41 @@ XII. (DEROGADA, D.O.F. 4 DE AGOSTO DE 2011)
 
 XIII. (DEROGADA, D.O.F. 4 DE AGOSTO DE 2011)
 
-XIV. Desarrollar, en coordinación con el Instituto Nacional para la Evaluación de la Educación, la Dirección General de Evaluación de Políticas y demás unidades administrativas competentes, un Sistema Nacional de Información, Estadística e Indicadores Educativos relacionados con la planeación, programación y evaluación del sistema educativo;
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
 
-XV. Promover el uso de los datos derivados del Sistema Nacional de Información, Estadística e Indicadores Educativos entre todos los actores que intervienen en la conformación de este sistema, así como entre la sociedad en general;
+XIV. Operar y evaluar el Sistema Nacional de Información Educativa, a fin de proporcionar elementos para apoyar la toma de decisiones de las autoridades educativas federal y locales;
 
-XVI. Establecer la coordinación con el Instituto Nacional de Estadística, Geografía e Informática y otras instancias especializadas, nacionales e internacionales, para la obtención y uso sistemático de la información estadística y censal que permita integrar el Sistema Nacional de Información, Estadística e Indicadores Educativos de manera congruente con las diversas fuentes de información estadística nacional;
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
 
-XVII. Establecer lineamientos y coordinar la difusión de información, estadística e indicadores del sector educativo, y
+XV. Promover el uso de los datos derivados del Sistema Nacional de Información Educativa entre todos los actores que intervienen en la conformación de este sistema, así como entre la sociedad en general;
 
-XVIII. Proponer el calendario escolar aplicable en toda la República para cada ciclo lectivo de la educación preescolar, primaria y secundaria, así como la normal y demás para la formación de maestros de educación básica.
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
+XVI. Establecer la coordinación con el Instituto Nacional de Estadística y Geografía y otras instancias especializadas, nacionales e internacionales, para la obtención y uso sistemático de la información estadística, geográfica y censal que permita integrar el Sistema Nacional de Información Educativa de manera congruente con las diversas fuentes de información estadística nacional;
+
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
+XVII. Establecer lineamientos y coordinar la difusión de información, estadística e indicadores del sector educativo;
+
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
+XVIII. Proponer el calendario escolar aplicable en toda la República para cada ciclo lectivo de la educación preescolar, primaria y secundaria, así como la normal y demás para la formación de maestros de educación básica, y
+
+> <small>(ADICIONADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
+XIX. Evaluar de manera sistemática y permanente, en coordinación con las unidades administrativas y órganos desconcentrados de la Secretaría y las entidades paraestatales competentes, el cumplimiento de las políticas, objetivos, programas, proyectos, actividades y compromisos establecidos en el programa sectorial, así como el impacto de los mismos.
 
 ###### ARTÍCULO 40.
 
 Corresponde a la Dirección General de Evaluación de Políticas el ejercicio de las siguientes atribuciones:
 
-I. Evaluar de manera sistemática y permanente, en coordinación con las unidades administrativas de la Secretaría y las entidades especializadas competentes, el desarrollo del sistema educativo nacional, el cumplimiento de las políticas, objetivos, programas, proyectos, actividades y compromisos establecidos en el Programa Nacional de Educación, así como el impacto de los mismos;
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
 
-II. Desarrollar y coordinar con las unidades administrativas y las instancias especializadas competentes, mecanismos de evaluación de la calidad y eficacia del sistema educativo nacional;
+I. Evaluar de manera sistemática y permanente, en coordinación con las unidades administrativas y órganos desconcentrados de la Secretaría y las entidades paraestatales competentes, el desarrollo del sistema educativo nacional;
+
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
+II. Desarrollar y coordinar, con las unidades administrativas y los órganos desconcentrados de la Secretaría, así como con las instancias especializadas competentes, mecanismos de evaluación de la calidad y eficacia del sistema educativo nacional, incluyendo aquellos dirigidos a los educandos y docentes;
 
 III. Evaluar la correcta inversión de recursos públicos que haga la Secretaría, así como los resultados de las políticas y actividades a los que hayan sido asignados y, en su caso, proponer las medidas correctivas conducentes;
 
@@ -1595,19 +1747,33 @@ VI. Proponer, en coordinación con las instancias que correspondan, la política
 
 VII. Analizar, en coordinación con las autoridades educativas locales, el Instituto Nacional para la Evaluación de la Educación y las demás instancias especializadas y unidades administrativas competentes, los criterios para la evaluación de los programas educativos, los procedimientos e instrumentos necesarios a fin de obtener los parámetros que permitan valorar el rendimiento escolar individual, por materia, grado, nivel y tipo educativo, así como el correspondiente al desempeño docente, contribuyendo, en caso necesario, a su desarrollo y aplicación;
 
-VIII. Proponer, en coordinación con las entidades especializadas y las unidades administrativas competentes, los lineamientos generales de evaluación que las autoridades educativas locales deban realizar, y
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
 
-IX. Proponer las políticas, prioridades, programas y medidas de acción de carácter estratégico que pudieran derivarse de la evaluación del desarrollo educativo nacional, incluyendo las relativas al financiamiento, la certificación y acreditación de la calidad y la búsqueda de alternativas de educación continua y no escolarizada.
+VIII. Proponer, en coordinación con las entidades paraestatales, las unidades administrativas y órganos desconcentrados de la Secretaría, los lineamientos generales de evaluación que las autoridades educativas locales deban realizar;
+
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
+IX. Proponer las políticas, prioridades, programas y medidas de acción de carácter estratégico que pudieran derivarse de la evaluación del desarrollo educativo nacional, incluyendo las relativas al financiamiento, la certificación y acreditación de la calidad y la búsqueda de alternativas de educación continua y no escolarizada, y
+
+> <small>(ADICIONADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
+X. Operar, con la participación de las entidades federativas, las entidades paraestatales, las unidades administrativas y órganos desconcentrados del sector educativo, los mecanismos de ingreso y promoción al servicio docente.
 
 ###### ARTÍCULO 41.
 
 Corresponde a la Dirección General de Acreditación, Incorporación y Revalidación el ejercicio de las siguientes atribuciones:
 
-I. Acreditar y certificar, en coordinación con las unidades administrativas, órganos desconcentrados, entidades paraestatales agrupadas en el sector de la Secretaría y autoridades educativas locales competentes, los conocimientos y aptitudes adquiridos a través del sistema educativo nacional, expidiendo, en su caso, los certificados, títulos o grados que procedan;
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
 
-II. Establecer y difundir las normas correspondientes al control escolar, así como a los conocimientos y aptitudes adquiridos a través del sistema educativo nacional, en coordinación con las unidades administrativas y entidades competentes y verificar su cumplimiento;
+I. Acreditar y certificar, en coordinación con las unidades administrativas, órganos desconcentrados, entidades paraestatales del sector de la Secretaría y autoridades educativas locales competentes, los conocimientos, habilidades, capacidades y destrezas adquiridos a través del sistema educativo nacional, expidiendo, en su caso, los certificados, títulos o grados que procedan;
 
-III. Proponer procedimientos por medio de los cuales se expidan certificados, constancias, diplomas o títulos a quienes acrediten conocimientos terminales que correspondan a cierto nivel educativo o grado escolar, adquiridos en forma autodidacta o a través de la experiencia laboral;
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
+II. Establecer y difundir las normas correspondientes al control escolar, a los conocimientos, habilidades, capacidades y destrezas adquiridos a través del sistema educativo nacional, en coordinación con las unidades administrativas y entidades paraestatales del sector educativo y verificar su cumplimiento. Las normas de control escolar podrán incluir entre otras, la medición de habilidades de lectura, así como la medición de aquellas habilidades que resulten relevantes en cada nivel y grado escolar;
+
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
+III. Proponer procedimientos por medio de los cuales se expidan certificados, constancias, diplomas o títulos a quienes acrediten conocimientos parciales o terminales que correspondan a cierto nivel educativo o grado escolar, adquiridos en forma autodidacta, a través de la experiencia laboral o de otros procesos educativos;
 
 IV. Proponer, en coordinación con las instancias correspondientes de la Secretaría, lineamientos para el régimen de certificación aplicable en toda la República, referido a la formación para el trabajo que se determine de manera conjunta con las demás autoridades del Ejecutivo Federal competentes;
 
@@ -1635,9 +1801,21 @@ XV. Elaborar y mantener actualizada la estadística de las escuelas particulares
 
 XVI. Evaluar e interpretar las normas en materia de autorización y de reconocimiento de validez oficial de estudios, así como asesorar a las demás unidades administrativas de la Secretaría, a sus órganos desconcentrados, a organismos públicos descentralizados y a las autoridades educativas locales, en el cumplimiento de éstas;
 
-XVII. Evaluar e interpretar las normas en materia de revalidación y de equivalencia de estudios, así como asesorar a las demás unidades administrativas de la Secretaría, a sus órganos desconcentrados, a sus organismos públicos descentralizados y a las autoridades educativas locales, en el cumplimiento de éstas, y
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
 
-XVIII. Evaluar la prestación del servicio educativo en las escuelas particulares que funcionen con autorización o con reconocimiento de validez oficial de estudios otorgados por la Secretaría.
+XVII. Evaluar e interpretar las normas en materia de revalidación y de equivalencia de estudios, así como asesorar a las demás unidades administrativas de la Secretaría, a sus órganos desconcentrados, a sus organismos públicos descentralizados y a las autoridades educativas locales, en el cumplimiento de éstas;
+
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
+XVIII. Evaluar la prestación del servicio educativo en las escuelas particulares que funcionen con autorización o con reconocimiento de validez oficial de estudios otorgados por la Secretaría;
+
+> <small>(ADICIONADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
+XIX. Coadyuvar a la conformación y operación del padrón nacional de alumnos, docentes, instituciones y centros escolares, así como del registro nacional de emisión, validación e inscripción de documentos académicos, en coordinación con las autoridades educativas locales, así como las unidades administrativas y órganos desconcentrados de la Secretaría, y
+
+> <small>(ADICIONADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
+XX. Contribuir al desarrollo y coordinación del Sistema Nacional de Información Educativa.
 
 ###### ARTÍCULO 42.
 
@@ -1707,9 +1885,9 @@ I. Auxiliar al Secretario en las acciones de coordinación de las entidades para
 
 II. (DEROGADA, D.O.F. 4 DE AGOSTO DE 2011)
 
-> <small>(REFORMADA, D.O.F. 4 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
 
-III. Proponer, en coordinación con la Dirección General de Planeación, el establecimiento de políticas de desarrollo para las entidades paraestatales agrupadas en el sector a cargo de la Secretaría;
+III. Proponer, en coordinación con la Dirección General de Planeación y Estadística Educativa, el establecimiento de políticas de desarrollo para las entidades paraestatales agrupadas en el sector a cargo de la Secretaría;
 
 IV. Proponer y desarrollar mecanismos para conocer la operación de las entidades paraestatales del sector educativo con el fin de evaluar los resultados de su desempeño;
 
@@ -1751,13 +1929,17 @@ VII. Instituto Politécnico Nacional;
 
 VIII. Radio Educación;
 
-> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
 
-IX. Universidad Pedagógica Nacional, y
+IX. Universidad Pedagógica Nacional;
 
-> <small>(ADICIONADA, D.O.F. 1 DE JULIO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
 
-X. Instituto Nacional de Estudios Históricos de las Revoluciones de México.
+X. Instituto Nacional de Estudios Históricos de las Revoluciones de México, y
+
+> <small>(ADICIONADA, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
+XI. Universidad Abierta y a Distancia de México.
 
 Los órganos desconcentrados se regirán por sus instrumentos jurídicos de creación, así como por las disposiciones aplicables de este Reglamento y las que, en su caso, determine el Presidente de la República o el Secretario, en ejercicio de sus respectivas atribuciones.
 
@@ -1882,3 +2064,19 @@ CUARTO.- Los recursos humanos, financieros y materiales asignados a las unidades
 QUINTO.- Las reformas y adiciones contenidas en el presente Decreto no implican la creación de puestos ni de unidades administrativas, por lo que no tendrán impacto presupuestario.
 
 SEXTO.- Los derechos de los trabajadores serán respetados conforme a la ley.
+
+D.O.F. 11 DE OCTUBRE DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las referencias que se hacen a la Coordinación General de Universidades Tecnológicas, a la Dirección General de Materiales Educativos, a la Dirección General de Tecnología de la Información y a la Dirección General de Planeación en decretos, reglamentos, acuerdos, órdenes, reglas, manuales, circulares, lineamientos y demás disposiciones se entenderán hechas a la Coordinación General de Universidades Tecnológicas y Politécnicas, a la Dirección General de Materiales e Informática Educativa, a la Dirección General de Tecnologías de la Información y Comunicaciones y a la Dirección General de Planeación y Estadística Educativa, respectivamente.
+
+TERCERO.- Los asuntos pendientes al entrar en vigor este Decreto y que conforme al mismo deban pasar de una unidad administrativa a otra u otras, continuarán su trámite y serán resueltos por aquella o aquellas unidades a las que se les haya atribuido la competencia en este Decreto.
+
+CUARTO.- Los recursos humanos, financieros y materiales asignados a las unidades administrativas que modifican su competencia en virtud de lo dispuesto en el presente Decreto serán reasignados a las unidades que asumen las correspondientes atribuciones, de conformidad con las disposiciones aplicables.
+
+QUINTO.- Las reformas y adiciones contenidas en el presente Decreto no implican la creación de puestos ni de unidades administrativas, por lo que no tendrán impacto presupuestario.
+
+SEXTO.- Los derechos de los trabajadores serán respetados conforme a la ley.
+
+SÉPTIMO.- Se derogan las disposiciones que se opongan al presente Decreto.
