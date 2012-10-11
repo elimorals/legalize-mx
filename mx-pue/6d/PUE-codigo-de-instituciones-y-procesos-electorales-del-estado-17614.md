@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-instituciones-y-procesos-electorales-del-estado-17614
 country: "mx"
 rank: "codigo"
 publication_date: "2000-10-02"
-last_updated: "2012-09-03"
+last_updated: "2012-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17614&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CÓDIGO DE INSTITUCIONES Y PROCESOS ELECTORALES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2012.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Puebla, el lunes 2 de octubre de 2000.
 
@@ -6152,6 +6152,14 @@ DISTRITO 26 Cabecera: Xicotepec.
 Comprendiendo los municipios siguientes: Xicotepec, Francisco Z. Mena, Jalpan, Pantepec, Tlacuilotepec, Tlaxco, Venustiano Carranza y Zihuateutla.
 
 P.O. 3 DE SEPTIEMBRE DE 2012.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2012)</small>
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado y no aplicará para el proceso electoral que inicia en la segunda semana del mes de noviembre del año dos mil doce.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE OCTUBRE DE 2012.
 
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
