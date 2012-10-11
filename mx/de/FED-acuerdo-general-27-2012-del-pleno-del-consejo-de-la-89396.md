@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-27-2012-del-pleno-del-consejo-de-la-89396"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-09-17"
-last_updated: "2012-10-01"
+last_updated: "2012-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89396&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,13 +19,13 @@ issue_date: "2012-09-06"
 ---
 # ACUERDO GENERAL 27/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [DENOMINACION, JURISDICCION TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL JUZGADO SEXTO DE DISTRITO EN MATERIA ADMINISTRATIVA Y DE TRABAJO EN EL ESTADO DE JALISCO, CON RESIDENCIA EN ZAPOPAN; ASI COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCION Y DISTRIBUCION DE ASUNTOS ENTRE LOS ORGANOS JURISDICCIONALES DE LA MATERIA]
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE OCTUBRE DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ACUERDO GENERAL 27/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL JUZGADO SEXTO DE DISTRITO EN MATERIA ADMINISTRATIVA Y DE TRABAJO EN EL ESTADO DE JALISCO, CON RESIDENCIA EN ZAPOPAN; ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS ÓRGANOS JURISDICCIONALES DE LA MATERIA, ENTIDAD FEDERATIVA Y RESIDENCIA INDICADAS
 
 > <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL "ACUERDO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE DETERMINA LA NUEVA FECHA DE INICIO DE FUNCIONES DEL JUZGADO SEXTO DE DISTRITO EN MATERIA ADMINISTRATIVA Y DE TRABAJO EN EL ESTADO DE JALISCO, CON RESIDENCIA EN ZAPOPAN, PRECISADA EN EL ACUERDO GENERAL 27/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL", PUBLICADO EN EL D.O.F. DE 1 DE OCTUBRE DE 2012, LA NUEVA FECHA DE INICIO DE FUNCIONES DEL JUZGADO SEXTO DE DISTRITO EN MATERIAS ADMINISTRATIVA Y DE TRABAJO EN EL ESTADO DE JALISCO, CON RESIDENCIA EN ZAPOPAN, SERÁ EL 16 DE OCTUBRE DE 2012.</small>
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE OCTUBRE DE 2012.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 11 DE OCTUBRE DE 2012.</small>
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 17 de septiembre de 2012.
 
@@ -53,17 +53,17 @@ PRIMERO. El nuevo órgano jurisdiccional se denominará Juzgado Sexto de Distrit
 
 El domicilio de dicho juzgado estará ubicado en el edificio X2, nivel 1, en Anillo Periférico Poniente Manuel Gómez Morín, número 7727, Fraccionamiento Ciudad Judicial Federal, Municipio de Zapopan, Estado de Jalisco, código postal 45010. Toda la correspondencia y trámites relacionados con los asuntos de su competencia, deberán dirigirse y realizarse en el mismo.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE OCTUBRE DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., D.O.F. 11 DE OCTUBRE DE 2012)</small>
 
-SEGUNDO. El Juzgado Sexto de Distrito en Materia Administrativa y de Trabajo en el Estado de Jalisco, con sede en Zapopan, iniciará funciones el uno de octubre de dos mil doce, con la plantilla autorizada para ese órgano jurisdiccional.
+SEGUNDO. El Juzgado Sexto de Distrito en Materia Administrativa y de Trabajo en el Estado de Jalisco, con sede en Zapopan, iniciará funciones el dieciséis de octubre de dos mil doce, con la plantilla autorizada para ese órgano jurisdiccional.
 
 TERCERO. Los actuales Juzgados de Distrito en Materia Administrativa y de Trabajo en el Estado de Jalisco, conservarán la denominación, competencia y jurisdicción territorial que tienen asignadas o se les asignen.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE OCTUBRE DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CUARTO. Desde la fecha señalada en el punto segundo precedente, la Oficina de Correspondencia Común de los Juzgados de Distrito en Materia Administrativa y de Trabajo en el Estado de Jalisco, lo será también del nuevo órgano jurisdiccional.
 
-Todos los asuntos nuevos que se presenten en la mencionada oficina de correspondencia común en días y horas hábiles, del uno al once de octubre de dos mil doce, se remitirán conforme al sistema computarizado que se utiliza para esos efectos al Juzgado Sexto de Distrito en Materia Administrativa y de Trabajo en el Estado de Jalisco, con residencia en Zapopan, por lo que durante ese periodo no tendrán aplicación las reglas de relación de asuntos fijadas por el Acuerdo General 13/2007 del Pleno del Consejo de la Judicatura Federal, que Regula el Funcionamiento, Supervisión y Control de las Oficinas de Correspondencia Común de los Tribunales de Circuito y Juzgados de Distrito del Poder Judicial de la Federación, ni sus reformas.
+> <small>(F. DE E., D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
+Todos los asuntos nuevos que se presenten en la mencionada oficina de correspondencia común en días y horas hábiles, del dieciséis al veintiséis de octubre de dos mil doce, se remitirán conforme al sistema computarizado que se utiliza para esos efectos al Juzgado Sexto de Distrito en Materia Administrativa y de Trabajo en el Estado de Jalisco, con residencia en Zapopan, por lo que durante ese periodo no tendrán aplicación las reglas de relación de asuntos fijadas por el Acuerdo General 13/2007 del Pleno del Consejo de la Judicatura Federal, que Regula el Funcionamiento, Supervisión y Control de las Oficinas de Correspondencia Común de los Tribunales de Circuito y Juzgados de Distrito del Poder Judicial de la Federación, ni sus reformas.
 
 Durante el lapso antes indicado, el Juzgado Sexto de Distrito en Materia Administrativa y de Trabajo en el Estado de Jalisco, con residencia en Zapopan, no recibirá los asuntos urgentes que se presenten en horas y días inhábiles. Lo anterior con excepción del nuevo turno que se regula en el punto Sexto del presente Acuerdo.
 
@@ -73,9 +73,9 @@ Se faculta a la Comisión de Creación de Nuevos Organos para concluir de manera
 
 QUINTO. Al finalizar el periodo de exclusión de turno indicado en el punto anterior, los titulares de los Juzgados de Distrito en Materia Administrativa y de Trabajo en el Estado de Jalisco, con residencia en Zapopan, deberán informar a la Comisión de Creación de Nuevos Organos, a la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Organos, y a la Dirección General de Estadística Judicial sobre la productividad obtenida, dentro de los tres días hábiles siguientes.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE OCTUBRE DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., D.O.F. 11 DE OCTUBRE DE 2012)</small>
 
-SEXTO. Se modifica el rol de guardias de los Juzgados de Distrito en Materia Administrativa y de Trabajo en el Estado de Jalisco, a partir del uno de octubre de dos mil doce, para recibir asuntos en días y horas inhábiles, para quedar como sigue: del uno al siete de octubre de dos mil doce, estará de guardia el Juzgado Segundo de Distrito en Materia Administrativa y de Trabajo en el Estado de Jalisco, con sede en Zapopan; la semana del ocho al catorce de octubre de dos mil doce, estará de guardia el Juzgado Tercero de Distrito en Materia Administrativa y de Trabajo en el Estado de Jalisco, con sede en Zapopan; la semana del quince al veintiuno de octubre de dos mil doce, estará de guardia el Juzgado Cuarto de Distrito en Materia Administrativa y de Trabajo en el Estado de Jalisco, con sede en Zapopan; la semana del veintidós al veintiocho de octubre de dos mil doce, estará de guardia el Juzgado Quinto de Distrito en Materia Administrativa y de Trabajo el (sic) Estado de Jalisco, con sede en Zapopan; la semana del veintinueve de octubre al cuatro de noviembre de dos mil doce, estará de guardia el Juzgado Sexto de Distrito en Materia Administrativa y de Trabajo en el Estado de Jalisco, con sede en Zapopan; la semana del cinco al once de noviembre de dos mil doce, estará de guardia el Juzgado Primero de Distrito en Materia Administrativa y de Trabajo el (sic) Estado de Jalisco, con sede en Zapopan; y así sucesivamente.
+SEXTO. Se modifica el rol de guardias de los Juzgados de Distrito en Materia Administrativa y de Trabajo en el Estado de Jalisco, a partir del dieciséis de octubre de dos mil doce, para recibir asuntos en días y horas inhábiles, para quedar como sigue: del dieciséis al veintiuno de octubre de dos mil doce, estará de guardia el Juzgado Cuarto de Distrito en Materia Administrativa y de Trabajo en el Estado de Jalisco, con sede en Zapopan; la semana del veintidós al veintiocho de octubre de dos mil doce, estará de guardia el Juzgado Quinto de Distrito en Materia Administrativa y de Trabajo el (sic) Estado de Jalisco, con sede en Zapopan; la semana del veintinueve de octubre al cuatro de noviembre de dos mil doce, estará de guardia el Juzgado Sexto de Distrito en Materia Administrativa y de Trabajo en el Estado de Jalisco, con sede en Zapopan; la semana del cinco al once de noviembre de dos mil doce, estará de guardia el Juzgado Primero de Distrito en Materia Administrativa y de Trabajo el (sic) Estado de Jalisco, con sede en Zapopan; la semana del doce al dieciocho de noviembre de dos mil doce, estará de guardia el Juzgado Segundo de Distrito en Materia Administrativa y de Trabajo el (sic) Estado de Jalisco, con sede en Zapopan; la semana del diecinueve al veinticinco de noviembre de dos mil doce, estará de guardia el Juzgado Tercero de Distrito en Materia Administrativa y de Trabajo el (sic) Estado de Jalisco, con sede en Zapopan; y así sucesivamente.
 
 El juzgado de Distrito que se encuentre de guardia deberá informar sobre las demandas recibidas a la oficina de correspondencia común que les presta servicio, a fin de que, cuando ésta reanude sus labores, realice la compensación correspondiente y se equilibren las cargas de trabajo.
 
