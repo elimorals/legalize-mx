@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-fiscalizacion-superior-del-estado-de-mexico-40716"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-26"
-last_updated: "2012-08-24"
+last_updated: "2012-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40716&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE OCTUBRE DE 2012.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno, el jueves 26 de agosto de 2004.
 
@@ -669,19 +669,27 @@ Durante sus actuaciones, los comisionados que hubieren intervenido en las revisi
 
 Sin perjuicio de las atribuciones que en materia de cuenta pública tienen conferidas los Presidentes Municipales, los municipios coordinarán sus acciones con el Organo Superior a través de sus Síndicos y Tesoreros.
 
+> <small>(REFORMADO, G.G. 11 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 47.
 
-Los Presidentes Municipales y los Síndicos estarán obligados a informar al Organo Superior, dentro de los quince primeros días del mes de enero de cada año, el presupuesto aprobado. Asimismo, deberán informar de las modificaciones al presupuesto, dentro de los cinco días siguientes a su aprobación.
+Los Presidentes Municipales y los Síndicos estarán obligados a informar al Órgano Superior, a más tardar el 25 de febrero de cada año, el Presupuesto de Egresos Municipal que haya aprobado el Ayuntamiento correspondiente.
+
+> <small>(REFORMADO, G.G. 11 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 48.
 
-Los informes mensuales y la cuenta pública de los municipios, deberán firmarse por el Presidente Municipal, él o los Síndicos según corresponda; el Tesorero y el Secretario del Ayuntamiento.
+La cuenta pública de los municipios, deberá firmarse por el Presidente Municipal, él o los Síndicos según corresponda; el Tesorero y el Secretario del Ayuntamiento.
+
+Los informes mensuales deberán firmarse por el Presidente Municipal, el Tesorero y el Secretario del Ayuntamiento.
 
 Quienes firmen la cuenta pública o el informe de que se trate y no estén de acuerdo con su contenido, tendrán derecho a asentar las observaciones que tengan respecto del documento en cuestión en el cuerpo del mismo, debiendo fundar y motivar cada una de ellas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 11 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 49.
 
-Los informes mensuales o la cuenta pública municipal, según corresponda, así como la documentación comprobatoria y justificativa que los ampare, quedarán a disposición de los sujetos obligados a firmarlos, para que puedan revisarlos y en su caso, anotar sus observaciones.
+Los informes mensuales o la cuenta pública municipal, según corresponda, así como la documentación comprobatoria y justificativa que los ampare, quedarán a disposición de los sujetos obligados a firmarlos, para que puedan revisarlos y en su caso, anotar sus observaciones; así mismo, y en relación a los informes mensuales que no firman él o los Síndicos del Ayuntamiento, también recibirán dicha documentación.
 
 Los tesoreros municipales deberán notificar por escrito esta situación a los sujetos obligados a firmar dichos documentos y apercibirlos de que en caso de que no acudan a hacerlo, se tendrá por aceptada la documentación de que se trate en los términos señalados en el informe o cuenta pública respectiva.
 
@@ -1074,6 +1082,14 @@ Publíquese el presente Decreto en el Periódico Oficial "Gaceta de (sic) Gobier
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 G.G. 24 DE AGOSTO DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan los ordenamientos jurídicos de igual o menor jerarquía, que se opongan a lo dispuesto por el presente Decreto.
+
+G.G. 11 DE OCTUBRE DE 2012.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
