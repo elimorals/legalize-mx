@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-del-estado-de-durango-15851"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-23"
-last_updated: "2011-12-29"
+last_updated: "2012-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15851&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE HACIENDA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 23 de diciembre de 1999.
 
@@ -65,7 +65,7 @@ LEY DE HACIENDA DEL ESTADO DE DURANGO
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 1.
 
@@ -77,7 +77,7 @@ El Titular del Poder Ejecutivo del Estado podrá conceder exenciones de impuesto
 
 La Hacienda Pública del Estado de Durango se compone:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2010)</small>
 
@@ -109,7 +109,7 @@ VII. - (DEROGADA, P.O. 15 DE DICIEMBRE DE 2005)
 
 Es Objeto del Impuesto Sobre Nóminas, los pagos que se hagan en dinero o en especie por concepto de remuneraciones al trabajo personal subordinado, prestado dentro del territorio del Estado, bajo la dirección y dependencia de un patrón, independientemente de la designación que se les otorgue.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 3.
 
@@ -191,7 +191,7 @@ En ningún caso se dejará de causar recargos por las diferencias que en su caso
 
 La opción a que se refiere este artículo no podrá variarla respecto al mismo ejercicio fiscal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 8.
 
@@ -209,7 +209,7 @@ I. Inscribirse ante la oficina recaudadora correspondiente a su domicilio fiscal
 
 II. Dar aviso oportuno a la oficina recaudadora correspondiente, del cambio de domicilio, denominación social, suspención (sic) temporal y/o reanudación de actividades, conforme a los plazos establecidos en el Código Fiscal del Estado de Durango.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2003)</small>
 
 ###### ARTICULO 10.
 
@@ -229,7 +229,7 @@ V. Indemnizaciones por rescisión laboral que tenga su origen en la prestación 
 
 VI. Viáticos debidamente comprobados.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2003)</small>
 
 ###### ARTICULO 11.
 
@@ -317,7 +317,7 @@ No se consideran servicios de hospedaje el albergue o alojamiento prestados por 
 
 Son sujetos de este impuesto, las personas físicas y morales que presten los servicios de hospedaje mencionados en el artículo anterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2003)</small>
 
 ###### ARTICULO 21.
 
@@ -349,7 +349,7 @@ Tratándose de contribuyentes con establecimientos en diversos lugares del terri
 
 (DEROGADO, P.O. 21 DE DICIEMBRE DE 2006)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 25.
 
@@ -359,7 +359,7 @@ Las personas que presten los servicios de hospedaje a que se refiere este capít
 
 I. Inscribirse ante la oficina recaudadora correspondiente a su domicilio fiscal en el Estado, dentro del mes siguiente a la fecha de inicio de sus operaciones, haciendo uso de las formas oficiales aprobadas por la Secretaría de Finanzas y de Administración.
 
-II (DEROGADA, P.O. 21 DE DICIEMBRE DE 2006)
+II. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2006)
 
 > <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2010)</small>
 
@@ -513,7 +513,7 @@ Se entiende como vehículos automotores, los automóviles, omnibuses, camiones, 
 
 (DEROGADO, P.O. 21 DE DICIEMBRE DE 2006)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 41.
 
@@ -559,13 +559,13 @@ Están obligados al pago del Impuesto para la Modernización de los Registros P�
 
 La base gravable de este impuesto la constituye el monto total de la operación, considerándose como tal, la cantidad más alta que resulte de entre el pactado por las partes, el valor catastral vigente al momento de realizar el pago del impuesto, del avalúo bancario o el practicado por la Secretaría de Finanzas y de Administración.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 Todas las operaciones, cuyo monto total no rebase el equivalente a 40 salarios mínimos elevados al año, quedarán exentas del pago de este impuesto.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -589,13 +589,13 @@ Se consideran obligados solidarios en el cumplimiento del pago del presente impu
 
 Cuando sean varias las operaciones sujetas al presente impuesto, éste se causará sobre el valor de cada uno de ellos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 31 DE OCTUBRE DE 2010)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE OCTUBRE DE 2010)</small>
 
 ### CAPITULO VIII. DEL IMPUESTO SOBRE TENENCIA O USO DE VEHÍCULOS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2010)</small>
 
@@ -635,7 +635,7 @@ Noviembre 0.17
 
 Diciembre 0.08
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2010)</small>
 
@@ -685,7 +685,7 @@ X. Valor total del vehículo.- El precio de enajenación al consumidor, del fabr
 
 En el valor total del vehículo a que hace referencia el párrafo anterior, no se incluirán los intereses derivados de créditos otorgados para la adquisición del mismo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2010)</small>
 
@@ -701,7 +701,7 @@ Los sujetos de este impuesto, no están obligados a presentar por esta contribuc
 
 Los importadores ocasionales efectuarán el pago del Impuesto Sobre Tenencia o Uso de Vehículos, correspondiente al primer año de calendario en los plazos, lugares y formas establecidos en este Capítulo y de conformidad con los convenios que al efecto se suscriban con las autoridades competentes. Para los siguientes años de calendario, se estará en lo dispuesto en este artículo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2010)</small>
 
@@ -781,7 +781,7 @@ Octubre 0.83
 
 Noviembre 0.92
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2010)</small>
 
@@ -797,13 +797,13 @@ IV. Los servidores públicos del Estado que realicen los actos administrativos a
 
 Los servidores o empleados públicos que realicen los actos administrativos a que se refiere el esta Ley, solamente registrarán vehículos cuyos propietarios se encuentren domiciliados en el territorio del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE OCTUBRE DE 2010)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE OCTUBRE DE 2010)</small>
 
 #### SECCION I. DE LOS VEHÍCULOS NUEVOS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2010)</small>
 
@@ -817,25 +817,25 @@ Para efectos de esta fracción, peso bruto vehicular es el peso del vehículo to
 
 Para efectos de este artículo, se entiende por vehículos destinados a transporte de más de 15 pasajeros o para el transporte de efectos, los camiones, vehículos Pick Up sin importar el peso bruto vehicular, tractores no agrícolas tipo quinta rueda, así como minibuses, microbuses, omnibuses y autobuses integrales, cualquiera que sea su tipo y peso bruto vehicular.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2010)</small>
 
 ARTICULO 44 bis 7.- Tratándose de motocicletas nuevas, el impuesto a que se refiere este Capítulo se calculará aplicando al valor total de la motocicleta, la tarifa que señale la Ley de Ingresos del Estado vigente en el ejercicio fiscal que corresponda.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2010)</small>
 
 ARTICULO 44 bis 8.- Tratándose de vehículos eléctricos, así como de aquellos eléctricos que además cuenten con motor de combustión interna o con motor accionado por hidrógeno, el impuesto se pagará conforme a la tasa que establezca la Ley de Ingresos del Estado vigente en el ejercicio fiscal que corresponda.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE OCTUBRE DE 2010)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE OCTUBRE DE 2010)</small>
 
 #### SECCION II. DE LOS VEHÍCULOS USADOS DE UNO A NUEVE AÑOS MODELO DE ANTIGÜEDAD
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2010)</small>
 
@@ -867,7 +867,7 @@ antigüedad
 
 El resultado obtenido conforme al párrafo anterior, se actualizará de acuerdo con lo dispuesto en el artículo 44 bis 13 de este capítulo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2010)</small>
 
@@ -879,7 +879,7 @@ II. La cantidad obtenida conforme a la fracción anterior, se actualizará de co
 
 Para efectos de este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2010)</small>
 
@@ -915,7 +915,7 @@ II. La cantidad obtenida conforme a la fracción anterior, se actualizará de co
 
 Para efectos de la depreciación y actualización a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos, a partir del año modelo al que corresponda el vehículo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2010)</small>
 
@@ -951,35 +951,37 @@ A la cantidad obtenida conforme al párrafo anterior, se le aplicará la tarifa 
 
 Para efectos de la depreciación a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda la motocicleta.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2010)</small>
 
 ARTICULO 44 bis 13.- Para los efectos de lo dispuesto en los artículos 44 bis 9, 44 bis 10 fracción II, 44 bis 11 fracción II y 44 bis 14 de esta Ley, los montos de las cantidades que en los mismos se señalan se actualizarán cuando el incremento porcentual acumulado del Índice Nacional de Precios al Consumidor desde el mes en que se actualizaron por última vez, exceda del 10%. Dicha actualización se llevará a cabo a partir del mes de enero del siguiente ejercicio fiscal a aquél en el que se haya dado dicho incremento, aplicando el factor correspondiente al periodo comprendido desde el mes en el que éstas se actualizaron por última vez y hasta el último mes del ejercicio en el que se exceda el por ciento citado, mismo que se obtendrá de conformidad con el Código Fiscal del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LO INTEGRA, P.O. 31 DE OCTUBRE DE 2010)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE OCTUBRE DE 2010)</small>
 
 #### SECCION III. DE LOS VEHÍCULOS USADOS DE MÁS DE DIEZ AÑOS MODELO DE ANTIGÜEDAD
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2010)</small>
 
 ARTICULO 44 bis 14.- Los vehículos cuyo año modelo exceda a los señalados en la Sección II de este Capítulo, estarán exentos del pago del impuesto referido en el presente capítulo.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE OCTUBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE OCTUBRE DE 2010)</small>
 
 #### SECCION IV. OTROS VEHÍCULOS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2010)</small>
 
 ARTICULO 44 bis 15.- En la presente sección se establecen las disposiciones aplicables a las aeronaves, embarcaciones, veleros, esquí acuático motorizado, motocicleta acuática y tabla de oleaje con motor.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2010)</small>
 
@@ -987,7 +989,7 @@ ARTICULO 44 bis 16.- Tratándose de aeronaves nuevas, el impuesto a que se refie
 
 Para aeronaves de reacción, el impuesto a que se refiere este Capítulo será la cantidad que resulte de multiplicar el peso máximo, incluyendo la carga de la aeronave expresado en toneladas, por la cuota que señale la Ley de Ingresos del Estado vigente en el ejercicio fiscal que corresponda.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2010)</small>
 
@@ -1017,19 +1019,19 @@ Años de antigüedad Factor
 
 El resultado obtenido conforme al párrafo anterior, se actualizará de acuerdo con lo dispuesto en el artículo 44 bis 13 de este capítulo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2010)</small>
 
 ARTICULO 44 bis 18.- Tratándose de embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas y tablas de oleaje con motor, nuevos, el impuesto a que se refiere este Capítulo, será la cantidad que resulte de aplicar al valor total del vehículo de que se trate, la tasa que señale la Ley de Ingresos del Estado vigente en el ejercicio fiscal que corresponda.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2010)</small>
 
 ARTICULO 44 bis 19.- Tratándose de aeronaves de más de diez años de fabricación anteriores al de aplicación de esta Ley, este impuesto se pagará conforme a las cuotas que señale la Ley de Ingresos del Estado vigente en el ejercicio fiscal que corresponda.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2010)</small>
 
@@ -1083,13 +1085,13 @@ II. La cantidad obtenida conforme a la fracción anterior, se actualizara de con
 
 Para los efectos de la depreciación y actualización a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2010)</small>
 
 ARTICULO 44 bis 21.- Las autoridades competentes para expedir los certificados de aeronavegabilidad o de inspección de seguridad a embarcaciones y los certificados de matrícula para las aeronaves, se abstendrán de expedirlos cuando el tenedor o usuario del vehículo no compruebe el pago del impuesto a que se refiere este capítulo, a excepción de los casos en que se encuentre liberado de ese pago. De no comprobarse que se ha cumplido con la obligación de pago dichas oficinas lo harán del conocimiento de las autoridades fiscales competentes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2010)</small>
 
@@ -1113,13 +1115,13 @@ VIII. Presentar copia del acta del Ministerio Público o del documento en el que
 
 IX. Los demás casos que las leyes aplicables determinen.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LO INTEGRA, P.O. 31 DE OCTUBRE DE 2010)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE OCTUBRE DE 2010)</small>
 
 #### SECCION V. DEL OTORGAMIENTO DE BENEFICIOS EN EL PAGO DEL IMPUESTO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2010)</small>
 
@@ -1133,13 +1135,13 @@ III. Comprobar la adquisición en territorio del Estado, tratándose de vehícul
 
 IV. Tener actualizados, en los casos que proceda, los datos en el Registro Estatal Vehicular, mediante la presentación de la declaración informativa o los avisos correspondientes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LO INTEGRA, P.O. 31 DE OCTUBRE DE 2010)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE OCTUBRE DE 2010)</small>
 
 #### SECCION VI. DE LAS SANCIONES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2010)</small>
 
@@ -1151,17 +1153,17 @@ ARTICULO 44 bis 24.- Las infracciones a las disposiciones a que se refiere este 
 
 ### CAPITULO III. DE LOS DERECHOS POR LEGALIZACION DE FIRMAS, CERTIFICACIONES, EXPEDICION DE COPIAS DE DOCUMENTOS Y OTROS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
 ### CAPITULO IV. DE LOS DERECHOS POR ACTOS DEL REGISTRO CIVIL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
 ## TITULO TERCERO. DE LOS DERECHOS
 
 ### CAPITULO V. DE LOS DERECHOS POR SERVICIOS CATASTRALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 45.
 
@@ -1195,7 +1197,7 @@ La Federación, las Entidades Federativas, los Municipios, los Organismos Descen
 
 Para los efectos de este Título, se entiende por salario, el salario mínimo general diario que corresponda al área geográfica del Estado, vigente al momento en que el particular solicite la prestación del servicio.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE JUNIO DE 2003)</small>
 
 ### CAPITULO VI. DE LOS DERECHOS POR SERVICIOS DE CONTROL DE VEHICULOS Y POR EXPEDICION DE CONCESIONES, PERMISOS Y AUTORIZACIONES DE RUTA
 
@@ -1205,7 +1207,7 @@ Para los efectos de este Título, se entiende por salario, el salario mínimo ge
 
 Los servicios que se presten por el Registro Público de la Propiedad y del Comercio, causarán derechos conforme a un porcentaje de la base que corresponda o en días de salario o fracción del mismo de acuerdo a lo siguiente:
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE DICIEMBRE DE 2009)</small>
 
 DÍAS DE PORCENTAJE
 
@@ -1427,7 +1429,7 @@ a la escritura constitutiva de personas morales que
 
 no implique aumento de capital o patrimonio. 5
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 4 DE ABRIL DE 2010)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 4 DE ABRIL DE 2010)</small>
 
 XXVI.- La inscripción de actas de emisión de bonos
 
@@ -1545,7 +1547,7 @@ o cuando no exista valor o monto. 5
 
 Se entenderá como monto de la operación, a que se refieren distintas fracciones del presente artículo, la cantidad más alta que resulte de entre: el valor de la operación, el valor catastral vigente al momento de solicitar la inscripción, del avalúo bancario o el practicado por la Secretaría de Finanzas y de Administración, salvo que la propia fracción lo determine.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -1719,19 +1721,17 @@ DÍAS DE PORCENTAJE
 
 SALARIO
 
-> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2012)</small>
 
-I.- Copias certificadas de documentos
+I.- Copias certificadas de documentos solicitados,
 
-solicitados, por hoja. 0.64
+por hoja. 0.50
 
-> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2012)</small>
 
-II.- Expedición de copias simples de
+II.- Expedición de copias simples de documentos
 
-documentos solicitados, impresas
-
-en papel, por hoja. 0.02
+solicitados, impresas en papel, por hoja; 0.018
 
 > <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2009)</small>
 
@@ -1760,6 +1760,10 @@ mensajería o correo, por documento
 remitido, sin importar la forma de su
 
 impresión. Hasta 2.3
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2012)</small>
+
+En el caso de la fracción II de éste artículo, después de las primeras 100 hojas el monto se reducirá en 0.0085 salarios mínimos diarios por hoja hasta 100 hojas mas, las hojas que se soliciten adicionalmente a éstas su costo será de 0.0034 salarios mínimos diarios por hoja.
 
 ### CAPITULO VIII. DE LOS DERECHOS POR LOS SERVICIOS DE LA SECRETARIA DE RECURSOS NATURALES Y MEDIO AMBIENTE
 
@@ -2123,7 +2127,7 @@ con las leyes, reglamentos y normas de su
 
 competencia. 20
 
-> <small>(ADICIONADO CON EL APARTADO Y ARTICULO QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADO CON EL APARTADO Y ARTÍCULO QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 58.
 
@@ -2223,7 +2227,7 @@ en las fracciones anteriores: 3
 
 ### CAPITULO IX. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE SALUD
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 21 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
 COMISION PARA LA PROTECCION CONTRA RIESGOS SANITARIOS
 
@@ -2589,7 +2593,7 @@ expedición de título de propiedad de lote
 
 dentro de un fundo legal. 6.0
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -2597,15 +2601,15 @@ IV Bis.- Constancia de antecedentes del lote o
 
 fracción de éste, del fundo legal. 6.0
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 V.- Por medición de predios y elaboración de plano, tratándose de predios urbanos, el tamaño carta u oficio, de acuerdo con la siguiente tabla:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PARRÁFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 a).- Por predio:
 
@@ -2619,13 +2623,13 @@ a).- Por predio:
 
 5) De 1000.01 hasta 3000.0 m2 16
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 6) De 3000.01 hasta 5000 M2 21
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -2639,7 +2643,7 @@ de dicho numeral, por cada
 
 100 M2 o fracción. 0.10
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -2649,15 +2653,15 @@ tamaño oficio, se cobrará por decímetro
 
 cuadrado a razón de: 0.10
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 b).- (REFORMADO [N. DE E. DEROGADO], P.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. DEROGADO] SEGUNDO PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -2679,7 +2683,7 @@ bien inmueble, de acuerdo a lo siguiente:
 
 2) Por kilómetro de brecha o terracería 0.27
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -2689,7 +2693,7 @@ determinarán de acuerdo con las cartas
 
 topográficas oficiales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -2699,9 +2703,9 @@ elaboración de plano en tamaño carta u
 
 oficio, de acuerdo con la siguiente tabla:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 a) Por predio con fotografía plana o
 
@@ -2763,13 +2767,13 @@ Los costos citados en la presente fracción, se incrementarán de acuerdo a la d
 
 2) Por kilómetro de brecha o terracería 0.27
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 La clasificación del predio y la distancia se determinarán de acuerdo con las cartas topográficas oficiales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -2785,7 +2789,7 @@ VIII.- Expedición de copia de plano, tamaño
 
 carta. 2
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -2817,7 +2821,7 @@ c) Por el excedente del valor catastral
 
 de 7200 salarios mínimos. 0.20
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -2829,7 +2833,7 @@ Dirección General de Catastro o sus
 
 delegaciones.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -2853,23 +2857,23 @@ XVI.- Por corrección de información remitida por
 
 Usuarios. 2.0
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 XVII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 XVIII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 XIX.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 XX.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -2897,13 +2901,13 @@ trámites de actos de traslado
 
 de dominio: 2.0
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 XXIV.- Registro Catastral 3.0
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -2917,7 +2921,7 @@ XXVI.- Otros servicios no especificados en las
 
 fracciones anteriores. 3.0
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO UNICO
 
@@ -3371,7 +3375,7 @@ VIII. las demás autorizaciones no consideradas
 
 en el presente artículo 10
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2005)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2005)</small>
 
 ### CAPITULO UNICO
 
@@ -3387,7 +3391,7 @@ en el presente artículo 10
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2005)
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 8 DE JUNIO DE 2003)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE JUNIO DE 2003)</small>
 
 ### CAPITULO UNICO
 
@@ -3467,7 +3471,7 @@ II. Aportaciones extraordinarias del Gobierno Federal, de Organismos Públicos o
 
 III. Otros que no se encuentren comprendidos en las fracciones anteriores.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2005)</small>
 
 ## TITULO SEPTIMO. DE LOS INGRESOS FEDERADOS
 
@@ -3523,7 +3527,7 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. JOSE MIGUEL CASTRO CARRILLO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 20 DE DICIEMBRE DE 2001.
 
@@ -3634,3 +3638,17 @@ Se derogan los apartados relativos al cobro de derechos por la expedición de pe
 P.O. 29 DE DICIEMBRE DE 2011.
 
 ÚNICO.- El presente Decreto, entrara en vigor al día siguiente de su publicación en el periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+P.O. 11 DE OCTUBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto, entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+El Gobierno del Estado y los Municipios deberán adecuar, en su caso, sus respectivas leyes de ingresos vigentes.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que contravengan lo previsto en el presente decreto.
