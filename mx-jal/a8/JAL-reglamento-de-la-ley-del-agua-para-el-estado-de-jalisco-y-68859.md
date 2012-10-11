@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-del-agua-para-el-estado-de-jalisco-y-68859
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-06-09"
-last_updated: "2009-06-13"
+last_updated: "2012-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68859&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE LA LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 13 DE JUNIO DE 2012 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 9 DE JUNIO DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2012.
 
 Reglamento publicado en la Sección ll del Periódico Oficial del Estado de Jalisco, el martes 9 de junio de 2009.
 
@@ -49,9 +47,11 @@ REGLAMENTO DE LA LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
 ### Capítulo I. Del objeto del Reglamento
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 1°.
 
-El presente ordenamiento tiene por objeto reglamentar la Ley del Agua para el Estado de Jalisco y sus Municipios, así como establecer las disposiciones normativas que sirvan de referencia a los ayuntamientos para aprobar y expedir sus propios reglamentos. Asimismo, en términos del artículo 21 de la citada Ley, normar la estructura orgánica y funcionamiento de la Comisión.
+El presente ordenamiento tiene por objeto reglamentar la Ley del Agua para el Estado de Jalisco y sus Municipios, así como para establecer las disposiciones normativas que sirvan de referencia a los ayuntamientos y Organismos Operadores para la prestación de los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición final de las aguas residuales, y para aprobar y expedir los reglamentos y disposiciones para la constitución, integración y operación de sus respectivos Consejos Tarifarios, en los términos previstos en la Ley, a efecto de promover y hacer efectivo el derecho al agua potable y el saneamiento como un derecho humano. Asimismo, en términos del artículo 21 de la citada Ley, normar la estructura orgánica y funcionamiento de la Comisión.
 
 ###### Artículo 2°.
 
@@ -147,7 +147,9 @@ II. Lo dispuesto en la Ley de Aguas Nacionales, la Ley Estatal de Equilibrio Eco
 
 III. El uso racional y eficiente del agua;
 
-IV. La mejora en la prestación de los servicios públicos de suministro de agua potable, drenaje, tratamiento de aguas residuales y su reuso;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2012)</small>
+
+IV. La mejora en la prestación de los servicios públicos de suministro de agua potable, drenaje, tratamiento de aguas residuales y su reutilización;
 
 V. La consolidación de los organismos operadores; y
 
@@ -465,6 +467,8 @@ La Comisión evaluará los avances del Programa Hídrico del Estado y sus subpro
 
 #### Sección Primera. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 29.
 
 Para el estudio, planeación y despacho de las atribuciones de la Comisión, ésta contará con la estructura orgánica siguiente:
@@ -483,25 +487,25 @@ c) Dirección de Planeación Estratégica;
 
 d) Dirección de Cuencas y Sustentabilidad;
 
-e) Dirección de Apoyo a Municipios; y
+e) Dirección de Apoyo a Municipios;
 
-f) Dirección de Administración; y
+f) Dirección de Administración;
 
-IV. Los órganos públicos desconcentrados que a continuación se enlistan:
+g) Dirección de la Unidad Ejecutora de Abastecimiento y Saneamiento de la Zona Conurbada de Guadalajara; y
 
-a) Unidad Ejecutora de Abastecimiento y Saneamiento;
+h) Dirección de Operación de las Plantas de Tratamiento de Aguas.
 
-b) Órgano de Operación de las Plantas de Tratamiento de Aguas; y
+La Comisión, por medio de sus unidades administrativas, planeará y conducirá sus actividades con sujeción a los objetivos, estrategias y líneas de acción establecidas en el Plan Estatal de Desarrollo, para el logro de las metas y programas a su cargo.
 
-c) Órgano de Control y Vigilancia de la Calidad del Agua.
-
-La Comisión por medio de sus unidades administrativas, área jurídica y órganos desconcentrados, planeará y conducirá sus actividades con sujeción a los objetivos, estrategias y líneas de acción establecidas en el Plan Estatal de Desarrollo, para el logro de las metas y programas a su cargo.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 30.
 
-Los titulares de las unidades administrativas, área jurídica y órganos desconcentrados de la Comisión a que se refiere el artículo anterior, tendrán las siguientes atribuciones:
+Los titulares de las direcciones a que se refiere el artículo anterior, tendrán las siguientes atribuciones:
 
-l. Planear, programar, organizar, dirigir y evaluar el desarrollo de los programas y actividades de la unidad administrativa u órgano a su cargo, así como el desempeño de las atribuciones que le competen e informar de sus resultados al Director General de la Comisión;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2012)</small>
+
+I. Planear, programar, organizar, dirigir y evaluar el desarrollo de los programas y actividades de la unidad administrativa a su cargo, así como el desempeño de las atribuciones que les competen e informar de sus resultados al Director General de la Comisión;
 
 II. Proponer y difundir las políticas, criterios, metodología, herramientas y sistemas a los que se sujetará la organización y funcionamiento de la Comisión;
 
@@ -511,13 +515,21 @@ IV. Autorizar y someter a la consideración del Director General de la Comisión
 
 V. Aplicar las disposiciones generales, políticas, programas, sistemas, procedimientos, normativa, lineamientos, métodos de trabajo y criterios de interpretación de la Ley y su Reglamento; evaluar y verificar su cumplimiento en las materias de su competencia, conforme a la información que les proporcionen los titulares de las unidades administrativas que les estén adscritas y comunicar los resultados al Director General de la Comisión;
 
-VI. Formular el Proyecto de Programa Operativo Anual y el anteproyecto de presupuesto relativos a la unidad administrativa u órgano a su cargo y someterlo a la consideración del Director General de la Comisión para su validación y, en su caso, autorización de la Junta de Gobierno; así como ejercer el presupuesto autorizado y analizar y evaluar los avances en la ejecución de los proyectos previstos en el Programa Operativo Anual de la Comisión, en las materias de su competencia;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2012)</small>
 
-VII. Supervisar y evaluar el cumplimiento de las facultades, atribuciones y funciones a su cargo, incluyendo aquellas que sean objeto de descentralización o de transferencia derivada de la celebración de convenios de coordinación con los municipios o sus organismos operadores; así como de convenios de concertación con los sectores social y privado y demás instrumentos análogos, así como recibir la información correspondiente y evaluarla;
+VI. Formular el Proyecto de Programa Operativo Anual y el anteproyecto de presupuesto relativos a la unidad administrativa a su cargo y someterlo a la consideración del Director General de la Comisión para su validación y, en su caso, autorización de la Junta de Gobierno; así como ejercer el presupuesto autorizado y analizar y evaluar los avances en la ejecución de los proyectos previstos en el Programa Operativo Anual de la Comisión en las materias de su competencia;
 
-VIII. Formular el Anteproyecto de manual de integración, estructura orgánica y funcionamiento de la unidad administrativa u órgano a su cargo, así como los de organización, procedimientos y servicios al público en sus respectivos ámbitos de competencia;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2012)</small>
 
-IX. Coordinarse con los titulares de las demás unidades administrativas u órganos para el mejor despacho de los asuntos de su competencia, de conformidad con la normativa y lineamientos que expida el Director General de la Comisión; así como establecer con las dependencias, organismos y entidades de las administraciones públicas Federal y Estatal, con otras entidades federativas, los municipios y sus organismos operadores, los mecanismos de comunicación y coordinación que se requieran para la realización de acciones necesarias para promover el desarrollo y cumplimiento de los proyectos y programas a su cargo;
+VII. Supervisar y evaluar el cumplimiento de las facultades, atribuciones y funciones a su cargo, cuando éstas sean objeto de descentralización o de transferencia derivado de la celebración de convenios de coordinación con los municipios o sus organismos operadores, así como de convenios de concertación con los sectores social y privado y demás instrumentos análogos, así como recibir la información correspondiente y evaluarla;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2012)</small>
+
+VIII. Formular el Anteproyecto e manual de integración, estructura orgánica y funcionamiento de la unidad administrativa a su cargo, así como los de organización, procedimientos y servicios al público en sus respectivos ámbitos de competencia;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2012)</small>
+
+IX. Coordinarse con los titulares de las demás unidades administrativas para el mejor despacho de los asuntos de su competencia, de conformidad con la normativa y lineamientos que expida el Director General de la Comisión; así como establecer con las dependencias, organismos y entidades de las administraciones públicas Federal y Estatal, con las entidades federativas, los municipios y sus organismos operadores, los mecanismos de comunicación y coordinación que se requieran para la realización de acciones necesarias para promover el desarrollo y cumplimiento de los proyectos y programas a su cargo;
 
 X. Participar en la administración de los recursos humanos, financieros y materiales asignados a las unidades administrativas a su cargo;
 
@@ -525,15 +537,21 @@ XI. Elaborar anteproyectos sobre la creación, modificación, organización, fus
 
 XII. Comunicar a las unidades administrativas competentes hechos u omisiones que conozcan en el ejercicio de sus funciones y que puedan constituir posibles incumplimientos a la Ley, su Reglamento y demás disposiciones aplicables, o que puedan ser constitutivos de delitos;
 
-XIII. Aplicar los sistemas de información para el cumplimiento de sus atribuciones y facilitar en tiempo y forma al titular de la Unidad de Transparencia de la Comisión, la información y documentación a que se refiere la Ley de Transparencia e Información Pública del Estado de Jalisco;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2012)</small>
+
+XIII. Aplicar los sistemas de información para el cumplimiento de sus atribuciones y facilitar en tiempo y forma al titular de la Unidad de Transparencia de la Comisión, la información y documentación a que refiere la Ley de Información Pública del Estado de Jalisco y sus Municipios;
 
 XIV. Proponer, dentro del ámbito de su competencia, la participación de la Comisión en foros, programas, proyectos, acciones y la suscripción de instrumentos jurídicos de cooperación científica, económica, técnica, regulatoria o de cualquier otra índole en materia de gestión del agua y con instituciones u organizaciones públicas o privadas o con particulares, para promover y propiciar la investigación, el desarrollo tecnológico, la formación de recursos humanos, la difusión de conocimientos y la mejora en la calidad de sus servicios;
 
-XV. Emitir certificaciones de los expedientes o de los documentos que obren en sus archivos, con sujeción a las disposiciones legales aplicables, previo el pago de los derechos que, en su caso, se generen por la expedición de los mismos conforme a la ley de la materia;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2012)</small>
+
+XV. Solicitar al área jurídica la certificación de los documentos que obren en los archivos de la misma, con sujeción a las disposiciones legales aplicables;
 
 XVI. Analizar el marco legal y reglamentario que regule sus atribuciones para proponer, en su caso, el establecimiento, modificación o derogación de las disposiciones conducentes;
 
-XVII. Asesorar y apoyar, en los asuntos de su competencia, a las demás unidades administrativas u órganos de la Comisión y, cuando así lo soliciten, a los municipios y sus organismos operadores, así como a la sociedad civil;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2012)</small>
+
+XVII. Asesorar y apoyar, en los asuntos de su competencia, a las demás unidades administrativas de la Comisión y, cuando así lo soliciten, a los municipios y sus organismos operadores, así como a la sociedad civil;
 
 XVIII. Informar al Director General de la Comisión del trámite y resolución de los asuntos relevantes a su cargo;
 
@@ -559,11 +577,17 @@ l. Administrar los recursos humanos, financieros y técnicos que permitan abaste
 
 II. Coordinar el proceso de planeación e investigación de la Comisión, asegurando que la evaluación, programación y presupuestación de los proyectos estén orientados al abastecimiento y mejora del recurso hídrico en el Estado de Jalisco y sus municipios en el mediano y largo plazo;
 
-III. Dirigir el proceso de administración integral en materia de desarrollo del factor humano, servicios generales, adquisiciones, sistemas, contabilidad y aspectos jurídicos de la Comisión, con la finalidad de enfocar los esfuerzos de los servicios de soporte, así como la programación y presupuestación de los recursos que aseguren el suministro de bienes y servicios para la operación;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2012)</small>
 
-IV. Dirigir las estrategias enfocadas a la operación y desarrollo de órganos operadores, seguimiento de las obras y servicios prestados a los municipios en el Estado de Jalisco, garantizando el cumplimiento de los diferentes programas federalizados, a fin de proveer a los municipios de mecanismos que, de una manera autosuficiente y con apego a la legislación ambiental, cuenten y administren el recurso hídrico disponible de sus respectivas zonas;
+III. Dirigir el proceso de administración integral en materia de desarrollo del factor humano, servicios generales, adquisiciones, sistemas, contabilidad y procesos y criterios jurídicos de la Comisión, con la finalidad de enfocar los esfuerzos de los servicios de soporte, así como la programación y presupuestación de los recursos que aseguren el suministro de bienes y servicios para la operación;
 
-V. Definir, las estrategias de operación de las plantas de tratamiento de aguas residuales del Estado de Jalisco y sus municipios, a fin de proporcionar al Estado mecanismos de saneamiento y reuso del recurso hídrico en la Entidad;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2012)</small>
+
+IV. Dirigir las estrategias enfocadas a la operación y desarrollo de organismos operadores, seguimiento de las obras y servicios prestados a los municipios en el Estado de Jalisco, garantizando el cumplimiento de los diferentes programas federalizados, a fin de proveer a los municipios de mecanismos que, de una manera autosuficiente y con apego a la legislación ambiental, cuenten y administren el recurso hídrico disponible de sus respectivas zonas;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2012)</small>
+
+V. Definir las estrategias de operación de las plantas de tratamiento de aguas residuales del Estado de Jalisco y sus municipios, a fin de proporcionar al Estado mecanismos de saneamiento, confinamiento de biosólidos o, en su caso, procurar el mercado o destino final de éstos como mejoradores de suelo para el campo y reutilización del recurso hídrico en la Entidad;
 
 VI. Establecer y dirigir la estrategia de comunicación interna y externa que permita difundir las acciones realizadas por la Comisión, a fin de que los diferentes grupos de interés relacionados a la misma conozcan los beneficios y la importancia del recurso hídrico;
 
@@ -579,11 +603,21 @@ XI. Coordinar y evaluar el Programa Hídrico Estatal;
 
 XII. Promover alianzas y, en su caso, la celebración de convenios con organismos públicos y privados que permitan a la Comisión cumplir con sus objetivos;
 
-XIII. Reportar a la Junta de Gobierno e instancias reguladoras que así corresponda, los resultados y avances de los macro proyectos;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2012)</small>
 
-XIV. Representar al Gobierno del Estado de Jalisco en los consejos y comisiones de cuencas; y
+XIII. Reportar a la Junta de Gobierno e instancias reguladoras que así corresponda, los resultados y avances de los proyectos;
 
-XV. Las demás que establezcan otras disposiciones legales, reglamentarias o administrativas aplicables.
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2012)</small>
+
+XIV. Representar al Gobierno del Estado de Jalisco en los consejos y comisiones de cuencas;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2012)</small>
+
+XV. Certificar copias de los documentos y constancias existentes en los archivos de la Comisión, siempre que obren en original o copia certificada; y
+
+> <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2012)</small>
+
+XVI. Las demás que establezcan otras disposiciones legales, reglamentarias o administrativas aplicables.
 
 #### Sección Tercera. De la Contraloría Interna
 
@@ -591,27 +625,41 @@ XV. Las demás que establezcan otras disposiciones legales, reglamentarias o adm
 
 La Contraloría Interna tendrá las siguientes atribuciones:
 
-l. Vigilar la aplicación de los métodos y medidas adoptadas dentro de la entidad para salvaguardar sus recursos, verificar la exactitud y veracidad de la información financiera y administrativa de las unidades administrativas y de los órganos desconcentrados de la Comisión y promover la eficiencia en las operaciones;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2012)</small>
+
+I. Vigilar la aplicación de los métodos y medidas adoptadas dentro de la entidad para salvaguardar sus recursos, verificar la exactitud y veracidad de la información financiera y administrativa de las unidades que conforman la Comisión y promover la eficiencia en las operaciones;
 
 II. Vigilar la correcta y oportuna aplicación de los recursos de obra y proyectos en todos sus procesos, de conformidad con las leyes aplicables;
 
-III. Informar al Director General y a la Junta de Gobierno, las metas logradas con los recursos públicos que le fueron suministrados a la Comisión y a sus órganos desconcentrados, en apego a la normatividad;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2012)</small>
+
+III. Informar al Director General y a la Junta de Gobierno, las metas logradas con los recursos públicos que le fueron suministrados a la Comisión en apego a la normatividad;
 
 IV. Vigilar el cumplimiento de las obligaciones fiscales y administrativas de la Comisión en cada ejercicio presupuestal, así como los impactos que ello generen en los resultados del ejercicio a fin de asegurar que se cumpla en tiempo y forma;
 
-V. Coordinar y controlar la práctica de auditorías administrativas, contables, técnicas de sistemas, financieras y de obra pública, tanto a los recursos que ejerce la Comisión en su operación como los aplicados en los diferentes programas de obra para garantizar la eficiencia y calidad de los procesos internos;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2012)</small>
+
+V. Coordinar y controlar la práctica de auditorías administrativas, contables, técnicas de sistemas, financieras y de obra pública, tanto a los recursos que ejerce la Comisión en su operación, así como los aplicados en los diferentes programas de obra para garantizar la eficiencia y calidad de los procesos internos;
 
 VI. Supervisar que las disposiciones legales y administrativas emitidas por la autoridad competente sean aplicadas correctamente por las diferentes áreas de la Comisión;
 
-VII. Vigilar, monitorear y auditar todos los procesos técnicos y administrativos de las unidades administrativas y órganos desconcentrados de la Comisión, así como garantizar que la información y resultados obtenidos por dichas evaluaciones sean veraces y oportunas;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2012)</small>
 
-VIII. Brindar el apoyo necesario a las unidades administrativas y órganos desconcentrados de la Comisión para el cumplimiento de sus objetivos;
+VII. Vigilar, monitorear y auditar todos los procesos técnicos y administrativos de las unidades administrativas de la Comisión, así como garantizar que la información y resultados obtenidos por dichas evaluaciones sean veraces y oportunas;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2012)</small>
+
+VIII. Brindar el apoyo necesario a las unidades administrativas de la Comisión para el cumplimiento de sus objetivos;
 
 IX. Vigilar que la Dirección de Planeación Estratégica integre y presente en tiempo y forma el anteproyecto de presupuesto anual y, una vez aprobado éste, supervisar su correcta aplicación durante el ejercicio;
 
-X. Validar los manuales de operación elaborados por cada una de las unidades administrativas y órganos desconcentrados de la Comisión a fin de contar con un respaldo normativo que sirva de guía para las revisiones y auditorías que se realizan;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2012)</small>
 
-XI. Dar seguimiento a los informes de observaciones y recomendaciones emitidos por la auditoría interna y externa a fin de verificar el desarrollo eficiente de las funciones en las diferentes unidades administrativas y órganos desconcentrados de la Comisión, su organización, sistemas, procedimientos, recursos, atribuciones y acciones, en relación con sus objetivos y responsabilidades; y
+X. Validar los manuales de operación elaborados por cada una de las unidades administrativas de la Comisión a fin de contar con un respaldo normativo que sirva de guía para las revisiones y auditorías que se realizan;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2012)</small>
+
+XI. Dar seguimiento a los informes de observaciones y recomendaciones emitidos por la auditoría interna y externa a fin de verificar el desarrollo eficiente de las funciones en las diferentes áreas de la dependencia, su organización, sistemas, procedimientos, recursos, atribuciones y acciones, en relación con sus objetivos y responsabilidades; y
 
 XII. Las demás que determine el Director General y las que otorguen otras disposiciones legales aplicables.
 
@@ -621,7 +669,9 @@ XII. Las demás que determine el Director General y las que otorguen otras dispo
 
 La Dirección de Comunicación Institucional tendrá las siguientes atribuciones:
 
-l. Mantener informado al Director General, a las unidades administrativas y a los órganos desconcentrados de la Comisión respecto de la información que se genere en los medios de comunicación social de interés para la Comisión;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2012)</small>
+
+I. Mantener informado al Director General y a las unidades administrativas de la Comisión acerca de la información que se genere en los medios de comunicación social de interés para la Comisión;
 
 ll. Generar el análisis y síntesis de la información publicada en los diversos medios de comunicación;
 
@@ -634,6 +684,8 @@ V. Coordinar y supervisar, de conformidad con la agenda del Director General, la
 VI. Colaborar con el área correspondiente de la Comisión en la actualización de la información que se publica en su página Web;
 
 VII. Supervisar el desarrollo de los eventos públicos institucionales;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2012)</small>
 
 VIII. Llevar a cabo estrategias de comunicación que fortalezcan las relaciones entre los empleados de la Comisión, con la finalidad de lograr el sentido de identidad y pertenencia con su fuente de trabajo, así como el apoyo a las actividades de fortalecimiento institucional generadas por la gerencia de personal;
 
@@ -661,9 +713,13 @@ VI. Consolidar un sistema financiero estatal del agua, considerando en forma int
 
 VII. Conformar un sistema de información estatal con una base de datos que contenga la información hidrológica, disponibilidad del recurso, calidad del agua, inversiones e inventario de la infraestructura hidráulica;
 
-VIII. Dirigir los procesos de integración, formulación y seguimiento del presupuesto anual del gasto operativo y de inversión, a fin de garantizar la administración de los recursos de la Comisión y de sus órganos desconcentrados;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2012)</small>
 
-IX. Controlar el ejercicio presupuesta I de la Comisión y de sus órganos desconcentrados, procurando racionalizar el uso de los recursos financieros, de acuerdo a las leyes, reglamentos y disposiciones aplicables en la materia; y
+VIII. Dirigir los procesos de integración, formulación y seguimiento del presupuesto anual del gasto operativo y de inversión, a fin de garantizar la administración de los recursos de la Comisión;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2012)</small>
+
+IX. Controlar el ejercicio presupuestal de la Comisión, procurando racionalizar el uso de los recursos financieros, de acuerdo a las leyes, reglamentos y demás disposiciones legales aplicables en la materia; y
 
 X. Las demás que determine el Director General y las que le otorguen otras disposiciones legales aplicables.
 
@@ -675,7 +731,9 @@ La Dirección de Cuencas y Sustentabilidad tendrá las siguientes atribuciones:
 
 l. Definir y dirigir las estrategias relacionadas con la gestión integral de de los recursos hídricos por cuenca hidrológica, así como con la administración y cultura del agua;
 
-II. Representar al Gobierno del Estado ante los consejos y comisiones de cuenca y sus grupos auxiliares cuando esta función sea delegada por el Director General;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2012)</small>
+
+II. Representar al Gobierno del Estado ante los consejos, comisiones de cuenca y sus grupos auxiliares cuando esta función sea delegada por el Director General.
 
 III. Crear el Consejo Estatal y los Consejos Locales del Agua, así como promover la participación social para la resolución de los problemas hídricos en la entidad;
 
@@ -691,7 +749,9 @@ VIII. Monitorear y analizar el agua de las fuentes de abastecimiento y redes de 
 
 IX. Apoyar los requerimientos de los municipios en materia de operación y capacitación de plantas potabilizadoras;
 
-X. Implementar y ejecutar programas y acciones de inspección y vigilancia de la calidad del agua en las descargas residuales que se vierten a cuerpos receptores y redes de alcantarillado municipal en coadyuvancia con la Comisión nacional, la Secretaría de Medio Ambiente y los municipios del Estado para verificar el cumplimiento de la normatividad ambiental vigente;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2012)</small>
+
+X. Implementar y ejecutar programas y acciones de inspección y vigilancia de la calidad del agua en las descargas residuales que se vierten a cuerpos receptores y redes de alcantarillado municipal en coadyuvancia con las autoridades competentes entre otras con la Comisión Nacional del Agua, la Secretaría del Medio Ambiente para el Desarrollo Sustentable, la Procuraduría Estatal de Protección al Ambiente y los municipios del Estado para verificar el cumplimiento de la normatividad ambiental vigente;
 
 XI. Fomentar la participación de los diferentes niveles de gobierno a través de convenios de colaboración específica que coadyuven a eficientar las actividades de aprovechamiento y administración del recurso hídrico en el Estado;
 
@@ -735,9 +795,13 @@ l. Definir y administrar las políticas y estrategias en materia de desarrollo d
 
 ll. Garantizar que sean brindados los servicios generales de mantenimiento a edificios y parque vehicular de la Comisión, servicios de limpieza, jardinería, transportación, seguridad y control de acceso a los edificios;
 
-III. Mantener en condiciones óptimas los activos de las unidades administrativas y órganos desconcentrados de la Comisión que permitan la continuidad y operación de los procesos del organismo;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2012)</small>
 
-IV. Vigilar el cumplimiento de los procesos de adquisiciones de bienes y servicios requeridos por las unidades administrativas de la Comisión y sus órganos desconcentrados;
+III. Mantener en condiciones óptimas los activos de las unidades administrativas de la Comisión que permitan la continuidad y operación de los procesos del organismo;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2012)</small>
+
+IV. Vigilar el cumplimiento de los procesos de adquisiciones de bienes y servicios requeridos por las unidades administrativas de la Comisión;
 
 V. Administrar las relaciones laborales de la Comisión, de conformidad con las disposiciones legales aplicables;
 
@@ -749,21 +813,31 @@ VIII. Vigilar el cumplimiento de la normatividad administrativa gubernamental en
 
 IX. Las demás que determine el Director General y las que le otorguen otras disposiciones legales aplicables.
 
-#### Sección Novena. De la Unidad Ejecutora de Abastecimiento y Saneamiento
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE OCTUBRE DE 2012)</small>
+
+#### Sección Novena. De la Dirección de la Unidad Ejecutora de Abastecimiento y Saneamiento de la Zona Conurbada de Guadalajara
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 39.
 
-El órgano público desconcentrado de la Comisión denominado Unidad Ejecutora de Abastecimiento y Saneamiento tendrá las siguientes atribuciones:
+La Dirección de la Unidad Ejecutora de Abastecimiento y Saneamiento de Agua de la Zona Conurbada de Guadalajara tendrá las siguientes atribuciones:
 
-l. Propiciar, promover y planear el diseño y ejecución del Programa Integral de Abastecimiento y Saneamiento de Agua de la Zona Conurbada de Guadalajara, así como impulsar el desarrollo de la infraestructura requerida para la consolidación de dichos proyectos de una manera sustentable y ordenada con la finalidad de satisfacer las necesidades de más de cuatro millones de habitantes en un horizonte de treinta años contribuyendo con ello a una mejora calidad de vida de los jaliscienses;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2012)</small>
+
+I. Propiciar, promover y planear el diseño y ejecución del Programa Integral de Abastecimiento y Saneamiento de Agua de la Zona Conurbada de Guadalajara, así como impulsar el desarrollo de la infraestructura requerida para la consolidación de dichos proyectos de una manera sustentable y ordenada;
 
 ll. Planear, impulsar, promover y proponer la ejecución de estudios, programas de operación, estrategias de desarrollo y proyectos que permitan identificar las necesidades y prioridades de ejecución de la infraestructura requerida para el abastecimiento y saneamiento de agua de la zona conurbada de Guadalajara;
 
 lll. Celebrar acuerdos, convenios y actos administrativos y jurídicos que se requieran para el cumplimiento de sus obligaciones;
 
-IV. Dirigir, encauzar y ejecutar las acciones de concertación y negociación que sean necesarios ante particulares, organismos sociales, públicos y privados en la esfera municipal, estatal, federal e internacional, para la realización de los planes, proyectos, construcción e infraestructura, del Programa Integral de Abastecimiento y Saneamiento de Agua de la Zona Conurbada de Guadalajara;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2012)</small>
 
-V. Administrar, conducir y presentar el presupuesto de cada ejercicio fiscal para la operación de la Unidad Ejecutora de Abastecimiento y Saneamiento, así como para la ejecución de las obras y acciones del Programa Integral de Abastecimiento y Saneamiento de Agua de la Zona Conurbada de Guadalajara;
+IV. Dirigir, encauzar y ejecutar las acciones de concertación y negociación que sean necesarios ante particulares, comunidades agrarias, organismos sociales, públicos y privados en la esfera municipal, estatal, federal e internacional, para la realización de los planes, proyectos, construcción e infraestructura, del Programa Integral de Abastecimiento y Saneamiento de Agua de la Zona Conurbada de Guadalajara;
+
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2012)</small>
+
+V. Administrar, conducir y presentar el presupuesto de cada ejercicio fiscal para la operación de la Dirección de la Unidad Ejecutora de Abastecimiento y Saneamiento, así como para la ejecución de las obras y acciones del Programa Integral e Abastecimiento y Saneamiento de Agua de la Zona Conurbada de Guadalajara;
 
 VI. Delegar, encomendar y comisionar a los funcionarios públicos bajo su mando la ejecución de funciones administrativas, operativas, técnicas, financieras y jurídicas que se requieran para la adecuada consecución de la ejecución de las obras y acciones del Programa Integral de Abastecimiento y Saneamiento de Agua de la Zona Conurbada de Guadalajara;
 
@@ -771,17 +845,25 @@ VII. Conducir la búsqueda, obtención y ejecución de las herramientas, proceso
 
 VIII. Dirigir, coordinar y ejecutar las acciones de licitación, adjudicación, contratación, supervisión, control de calidad y pagos de las acciones y obras del Programa Integral de Abastecimiento y Saneamiento de Agua de la Zona Conurbada de Guadalajara;
 
-IX. Acordar con el Director General de la Comisión los programas, proyectos, obras y asuntos que le encomienden a la Unidad Ejecutora de Abastecimiento y Saneamiento, así como desempeñar las funciones, representaciones y comisiones que le confiera; y
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2012)</small>
+
+IX. Acordar con el Director General de la Comisión los programas, proyectos, obras y asuntos que le encomienden a la Dirección de la Unidad Ejecutora de Abastecimiento y Saneamiento, así como desempeñar las funciones, representaciones y comisiones que le confiera; y
 
 X. Las demás que determine el Director General y las que le otorguen otras disposiciones legales aplicables.
 
-#### Sección Décima. Del Órgano de Operación de Plantas de Tratamiento de Aguas
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE OCTUBRE DE 2012)</small>
+
+#### Sección Décima. De la Dirección de Operación de Plantas de Tratamiento de Aguas
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 40.
 
-El Órgano de Operación de las Plantas de Tratamiento de Aguas, órgano público desconcentrado de la Comisión, tendrá las siguientes atribuciones:
+La Dirección de Operación de Plantas de Tratamiento de Aguas tendrá las siguientes atribuciones:
 
-l. Analizar, diseñar y dirigir las estrategias para asegurar la operación de las plantas de tratamiento de aguas en el Estado, con la finalidad de garantizar la aplicación de la normatividad y reglamentación relacionada con el tratamiento y reuso de agua y biosólidos;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2012)</small>
+
+I. Analizar, diseñar y dirigir las estrategias para asegurar la operación de las plantas de tratamiento de aguas en el Estado, con la finalidad de garantizar la aplicación de la normatividad y reglamentación relacionada con el tratamiento y reutilización de agua y biosólidos;
 
 II. Realizar investigaciones y estudios para determinar la necesidad de la operación de plantas de tratamiento;
 
@@ -791,7 +873,9 @@ IV. Promover la coordinación con las Secretarías de Medio Ambiente y Recursos 
 
 V. Supervisar las descargas de los efluentes industriales y agroindustriales en los cuerpos receptores o sistemas de alcantarillado municipales, para que cumplan con las normas oficiales mexicanas vigentes;
 
-VI. Promover en los municipios donde existan plantas de tratamiento el reuso de aguas residuales tratadas, así como el cumplimiento de la NOM-003-SEMARNAT-1997 que establece los límites máximos permisibles de contaminantes para las aguas residuales tratadas que se reusen en servicios al público, a fin de promover que se remplace el consumo de agua de primer uso;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2012)</small>
+
+VI. Promover en los municipios donde existan plantas de tratamiento la reutilización de aguas residuales tratadas, así como el cumplimiento de la NOM-003-SEMARNAT-1997 que establece los límites máximos permisibles de contaminantes para las aguas residuales tratadas que se reutilicen en servicios al público, a fin de promover que se remplace el consumo de agua de primer uso;
 
 VII. Promover el uso de biosólidos producto del tratamiento de aguas residuales para usos industriales o agrícolas, a fin de evitar o disminuir el confinamiento de los mismos en el Estado;
 
@@ -805,49 +889,19 @@ XI. Acordar con el Director General de la Comisión los asuntos que le encomiend
 
 XII. Las demás que determine el Director General y las que le otorguen otras disposiciones legales aplicables.
 
-#### Sección Décima Primera. Del Órgano de Control y Vigilancia de la Calidad del Agua
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE OCTUBRE DE 2012)</small>
+
+#### Sección Décima Primera. Disposiciones Complementarias
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 41.
 
-El Órgano de Control y Vigilancia de la Calidad del Agua tendrá las siguientes atribuciones:
+Las ausencias del Director General hasta por sesenta días serán suplidas por el Director de Planeación Estratégica o por quién el Director General designe mediante acuerdo delegatorio que deberá ser publicado en el periódico oficial “El Estado de Jalisco”.
 
-l. Llevar a cabo las acciones preventivas y correctivas que legalmente le sean conferidas y tomar las medidas conducentes para la protección de la calidad del agua de las Cuencas Tributarias de las Presas de Arcediano, El Zapotillo y el Lago de Chapala en el territorio del Estado de Jalisco;
+En caso de ausencias mayores al plazo señalado en el párrafo anterior, será la Junta de Gobierno la que, en sesión extraordinaria determine la suplencia temporal.
 
-II. Llevar a cabo de manera permanente, acciones de monitoreo y verificación de la calidad del agua, para que la destinada a abastecimiento público, cumpla con los estándares de calidad establecidos en la normatividad aplicable en la materia;
-
-III. Cumplimentar, implementar y dar atención y seguimiento a las recomendaciones y lineamientos que en materia de agua destinada al uso público urbano, emita la Organización Panamericana de la Salud, así como las demás dependencias, organismos y entidades tanto nacionales como internacionales, competentes en esta materia;
-
-IV. Proponer las políticas públicas, estrategias, programas, proyectos y acciones que contribuyan a la conservación de las cuencas hidrológicas, los acuíferos, los bosques y el fomento a la reforestación de las Cuencas Tributarias de las presas de arcediano, El Zapotillo y el Lago de Chapala en el territorio del Estado de Jalisco, a fin de restablecer el equilibrio ecológico de las mismas;
-
-V. Promover los mecanismos idóneos para alentar la participación social y privada en su gestión;
-
-VI. Participar en la planeación de las acciones de saneamiento que se lleven a cabo en el área geográfica de su competencia;
-
-VII. Efectuar el monitoreo y evaluación de la calidad del agua de los cuerpos receptores superficiales en el área geográfica de su competencia;
-
-VIII. Coadyuvar con las autoridades federales, estatales y municipales en el monitoreo y control de las descargas a cuerpos receptores;
-
-IX. Efectuar acciones de monitoreo de la calidad y cantidad de las descargas puntuales y difusas a los cuerpos de agua;
-
-X. Vigilar el cumplimiento de la normatividad aplicable en materia de descargas de agua residual a cuerpos receptores;
-
-XI. Notificar a la autoridad que corresponda de los resultados de las actividades de inspección y monitoreo en descargas de agua residual y en los cuerpos receptores;
-
-XII. En los casos de incumplimiento de la normatividad aplicable en materia de descarga de agua residual, solicitar a la autoridad correspondiente la aplicación de las sanciones que se desprendan del incumplimiento;
-
-XIII. Elaborar las normas técnicas estatales de calidad del agua que complementen el marco normativo federal aplicable en esta materia, para su posterior aprobación y publicación por el Gobernador del Estado o de éste a través de la Comisión;
-
-XIV. Efectuar los estudios técnicos requeridos para entre otros aspectos evaluar el efecto de las descargas de agua residual en los cuerpos receptores;
-
-XV. Mantener y actualizar el padrón estatal de descargas de aguas residuales a cuerpos de agua nacionales en el área geográfica de su competencia;
-
-XVI. Informar de manera sistemática y oportuna del estado de la calidad del agua, de las acciones efectuadas y de los resultados obtenidos;
-
-XVII. Difundir y promover acciones de carácter estructural, de manejo o de gestión orientadas a reducir la carga contaminante de las descargas de agua residual;
-
-XVIII. Incorporar la participación pública en labores de vigilancia, seguimiento y saneamiento de los cauces y cuerpos de agua;
-
-XIX. Las demás que le confiera el Director General u otras disposiciones legales aplicables, así como las que le deleguen las autoridades federales derivadas de acuerdos o convenios que se celebren en materia de control y vigilancia de la calidad de las aguas localizadas en el área geográfica de su competencia.
+Las ausencias de los demás servidores públicos o empleados de la Comisión, serán suplidas por el inferior jerárquico inmediato o por quien designe el Director General o el titular de la unidad administrativa, lo que será mediante acuerdo que se publicará en el periódico oficial “El Estado de Jalisco”.
 
 ### Capítulo II. De las Autoridades Municipales
 
@@ -867,7 +921,9 @@ l. Los objetivos, las metas, la duración del convenio, así como la fuente de l
 
 ll. El programa de trabajo que incluirá las acciones necesarias para que, en su caso, quede constituido el organismo operador municipal o intermunicipal descentralizado;
 
-III. La responsabilidad solidaria en su caso, entre la Comisión y el municipio para la prestación de los servicios de agua potable, alcantarillado, tratamiento, disposición de aguas residuales y reuso, así como el tratamiento, uso y confinamiento de biosólidos, para ampliar su cobertura; y
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2012)</small>
+
+III. La responsabilidad solidaria, en su caso, entre la Comisión y el municipio para la prestación de los servicios de agua potable, alcantarillado, tratamiento, disposición de aguas residuales y reutilización, así como el tratamiento, uso y confinamiento de biosólidos, para ampliar su cobertura; y
 
 IV. El compromiso de sujetarse a las Bases de Apoyo para los Servicios de Agua Potable y Saneamiento en el Estado, emitidas por la Comisión.
 
@@ -905,11 +961,11 @@ III. Regular la participación de los sectores, garantizando igualdad de condici
 
 El Gobernador del Estado, o éste a través de la Comisión, observando la normatividad federal y estatal aplicable, formulará y publicará la normatividad estatal en materia de infraestructura y servicios de agua municipales. La Comisión coadyuvará con los municipios y con las dependencias estatales y federales en la supervisión del cumplimiento de dicha normatividad.
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 51.
 
-La Comisión formulará y mantendrá actualizadas las bases que establecen los mecanismos de apoyo y financiamiento de las acciones para ampliar, mejorar y eficientar la prestación de los servicios de agua potable, saneamiento y reuso en el Estado, las cuales determinarán las condiciones para otorgar inversiones, apoyos y asesoría a los organismos operadores y los municipios.
-
-Estas bases determinarán un conjunto de incentivos para que los organismos operadores adopten un proceso continuo de mejoramiento de la calidad del servicio y la eficiencia en su operación y funcionarán como soporte de la regulación para que los municipios y organismos operadores cumplan con las normas de servicio.
+La Comisión formulará y mantendrá actualizadas las bases que establecen los mecanismos de apoyo y financiamiento de las acciones para ampliar, mejorar y eficientar la prestación de los servicios de agua potable, saneamiento y reutilización en el Estado, las cuales determinarán las condiciones para otorgar inversiones, apoyo y asesoría a los organismos operadores y los municipios.
 
 ###### Artículo 52.
 
@@ -971,7 +1027,9 @@ l. Los mecanismos e instrumentos de garantía de pago, así como la autorizació
 
 ll. Que la Comisión no podrá reducir o restringir en forma alguna la cantidad o calidad del suministro de agua en bloque que venga proporcionando al municipio de que se trate; y
 
-III. La Comisión formulará semestralmente los compromisos y grado de cumplimiento de los prestadores de servicio respecto de los convenios celebrados para el suministro de agua en bloque y saneamiento y demás servicios en materia de agua potable, drenaje, tratamiento de aguas residuales y su reuso, así como tratamiento, uso y confinamiento de biosólidos.
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2012)</small>
+
+III. La Comisión formulará semestralmente los compromisos y grado de cumplimiento de los prestadores de servicio respecto de los convenios celebrados para el suministro de agua en boque y saneamiento y demás servicios en materia de agua potable, drenaje, tratamiento de aguas residuales y su reutilización, así como tratamiento, uso y confinamiento de biosólidos.
 
 ###### Artículo 56.
 
@@ -1053,7 +1111,9 @@ VI. Conocer, opinar y apoyar los procesos de administración del agua, incluyend
 
 VII. Promover y conseguir los consensos de los usuarios y de la sociedad en el uso racional del agua y su corresponsabilidad en el desarrollo de los programas del sector; y
 
-VIII. Promover el uso eficiente y sustentable del agua, y de manera particular, promover el reuso de las aguas servidas y confinamiento de biosólidos.
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2012)</small>
+
+VIII. Promover el uso eficiente y sustentable del agua, y de manera particular, promover la reutilización de las aguas servidas y confinamiento de biosólidos.
 
 ### Capítulo II. Del Consejo Estatal del Agua
 
@@ -1145,9 +1205,11 @@ IV. Se deberán substanciar los procedimientos administrativos generales o forma
 
 ### Capítulo ll. De la Participación de la Iniciativa Privada en la Prestación de los Servicios
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 81.
 
-La iniciativa privada podrá participar en proyectos de abastecimiento y distribución de agua potable, así como de alcantarillado, tratamiento de aguas residuales, reuso y manejo de biosólidos mediante concesión, contratos de financiamiento, aportación de tecnología, contrato integral de prestación de servicios, contrato parcial de prestación de servicios o empresa mixta y los demás previstos en este Reglamento.
+La iniciativa privada podrá participar en proyectos de abastecimiento y distribución de agua potable, así como de alcantarillado, tratamiento de aguas residuales, reutilización y manejo de biosólidos mediante concesión, contratos de financiamiento, aportación de tecnología, contrato integral de prestación de servicios o empresa mixta y los demás previstos en este Reglamento.
 
 Será requisito necesario para concesionar los servicios, que éstos resulten más convenientes que los ofrecidos por el municipio u organismo operador en los términos establecidos en la Ley.
 
@@ -1219,23 +1281,123 @@ Estos miembros de la Junta de Gobierno durarán en su encargo dos años.
 
 En el caso del artículo 25 fracción III inciso h) de la Ley, se propondrán dos binomios, uno será propuesto por la Junta de Gobierno de la Comisión conformado por presidentes municipales de los partidos que tengan mayor representación en el Estado y un segundo binomio libre a elección de los propios Presidentes Municipales. Los representantes ante la Junta de Gobierno de la Comisión serán los presidentes municipales que conformen el binomio que haya obtenido el mayor número de votos por parte de los Presidentes Municipales.
 
-## Título Séptimo (SIC). De la Prestación de los Servicios Públicos de Agua Potable, Alcantarillado y Saneamiento
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE OCTUBRE DE 2012)</small>
+
+## Título Sexto. De los Consejos Tarifarios
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE OCTUBRE DE 2012)</small>
+
+### Capítulo Único. De la Constitución, Integración y Operación de los Consejos Tarifarios
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 81
+
+A (SIC). Los reglamentos que se emitan para la constitución, integración y operación de los Consejos Tarifarios a que se refiere la Ley, deberán sujetarse a lo siguiente:
+
+I. En caso de que los servicios sean prestados a través de organismos descentralizados municipales o intermunicipales o por el Estado, serán éstos quienes constituyan sus Consejos Tarifarios, a través de su órgano de gobierno;
+
+II. Cuando los servicios sean prestados total o parcialmente a través de organismos operadores privados, la integración y operación de los Consejos Tarifarios se apegará a lo que establezca la concesión respectiva, la Ley y este Reglamento;
+
+III. Para la incorporación de la sociedad en la integración de los Consejos tarifarios, se promoverá preferentemente la participación de representantes de asociaciones las que hace referencia la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco, u organismos ciudadanos con mayor actividad económica, educativa o social en el municipio o municipios de que se trate, que sean usuarios de los servicios.
+
+En el caso de que no existan formalmente establecidas las agrupaciones mencionadas anteriormente, los municipios u organismos operadores impulsarán su conformación ante las instancias que correspondan;
+
+IV. El número de integrantes de los Consejos Tarifarios será el que se determine en los reglamentos respectivos, asegurando la mayoría de consejeros o vocales ciudadanos a que se refiere la Ley, además de la participación de la Comisión con un representante, y observando lo siguiente:
+
+a) En los Consejos Tarifarios de los Organismos Operadores Intermunicipales, la participación municipal será de un representante por cada Ayuntamiento que integre el Organismo Operador;
+
+b) En los Consejos Tarifarios de los Organismos Operadores concesionados, deberán integrarse cuando menos dos representantes de la autoridad concedente;
+
+c) En los Consejos Tarifarios de los Organismos Operadores Municipales, deberá integrarse cuando menos un representante del Gobierno Municipal; y
+
+d) En el caso de que los servicios sean prestados por el Estado, en los Consejos Tarifarios deberá integrarse a un representante de la autoridad de municipio donde se presten dichos servicios.
+
+V. En los Organismos Operadores privados, los consejeros o vocales representantes del concesionario en los Consejos Tarifarios, en ningún caso, será mayor a los de las autoridades;
+
+VI. En todos los casos, los miembros de los Consejos Tarifarios, deberán reunir, cuando menos, los siguientes requisitos:
+
+a) Ser mayor de edad;
+
+b) Estar al corriente en el pago de los servicios a que se refiere la Ley y en (sic) presente Reglamento;
+
+c) No estar desempeñando algún cargo púbico o puesto de elección popular o cargo en partido político ya sea a nivel federal, estatal o municipal, exceptuando a los representantes de las autoridades;
+
+d) No ser ministro religioso, u ocupar algún cargo similar en cualquier culto religioso; y
+
+e) No tener litigios pendientes con el prestador de los servicios.
+
+VII. Cada miembro de los Consejos Tarifarios tendrá un suplente, quien deberá cumplir los requisitos establecidos para ser consejero, y detentará los mismos derechos y obligaciones en ausencia del titular; y
+
+VIII. Cualquier integrante del Consejo Tarifario que faltare tres veces consecutivas a las sesiones del mismo, sin causa justificada, deberá ser sustituido de manera permanente por su suplente.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 81-B.
+
+Los reglamentos en materia de constitución, integración y operación de los Consejos Tarifarios a que se refiere la Ley, deberán establecer, cuando menos, lo siguiente:
+
+I. Las autoridades, las asociaciones a las que hace referencia la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco y organismos ciudadanos que participarán en el Consejo Tarifario;
+
+II. Periodicidad de las sesiones;
+
+III. El mecanismo para la designación del Secretario Técnico;
+
+IV. La conformación, en su caso, de Comisiones Técnicas para la realización o supervisión de estudios específicos;
+
+V. Permanencia o periodicidad de rotación de los miembros del Consejo Tarifario;
+
+VI. Las mayorías para la aprobación de los acuerdos de los Consejos Tarifarios, con excepción de lo previsto en el artículo siguiente;
+
+VII. Fuente de recursos financieros necesarios para la realización de los estudios para el cumplimiento de las funciones de los Consejos Tarifarios;
+
+VIII. El número de miembros del Consejo Tarifario que será necesario estén presentes en las sesiones para que se declare legalmente reunido. En todos los casos siempre deberá estar presente el Presidente del Consejo y haber mayoría ciudadana; y
+
+IX. El procedimiento para sesionar en segunda convocatoria, en caso de no haber quórum, en la primera convocatoria.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 81-C.
+
+Los acuerdos de los Consejos Tarifarios se aprobarán con una votación calificada de las dos terceras partes de sus miembros con derecho a voto, respecto a los siguientes temas:
+
+I. Las cuotas o tarifas.
+
+En el caso de que no se alcance la mayoría calificada, se someterá a una segunda votación dentro de los siguientes tres días hábiles, en la que se requerirá una mayoría simple, tomando en consideración lo establecido en el artículo 101 Bis de la Ley;
+
+II. Las propuestas de políticas y lineamientos mediante las cuales será viable el subsidio de tarifas, cancelación de adeudos o de sus accesorios; y
+
+III. las propuestas de políticas públicas para la mejor aplicación de las tarifas a los usuarios, de acuerdo a los consumos, características y usos de los predios.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 81-D.
+
+El Consejo Tarifario podrá invitar a participar a sus sesiones a funcionarios públicos relacionados con el cumplimiento de sus funciones, así como a expertos en la materia, quienes tendrán únicamente derecho a voz.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 81-E.
+
+Los costos que se originen, en su caso, por la realización de estudios financieros y tarifarios para la determinación de cuotas y tarifas, cuando el Consejo Tarifario considere necesario que sea ejecutado por terceros, serán cubiertos por los municipios o por los Organismos Operadores, según corresponda.
+
+## Título Séptimo. De la Prestación de los Servicios Públicos de Agua Potable, Alcantarillado y Saneamiento
 
 ### Capítulo I. De los Derechos y Obligaciones de los Usuarios
 
-## Título Séptimo. Disposiciones Complementarias
-
-### Capítulo II. De las Cuotas y Tarifas
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 91.
 
-La Comisión y los organismos prestadores de los servicios, deberán promover la utilización racional y eficiente del agua, propiciando el reuso del recurso, a fin de reducir la explotación de las aguas de primer uso y promover el desarrollo sustentable del recurso hídrico en el Estado.
+La Comisión y los organismos prestadores de los servicios deberán promover la utilización racional y eficiente del agua, propiciando la reutilización del recurso, a fin de reducir la explotación de las aguas de primer uso y promover el desarrollo sustentable del recurso hídrico en el Estado.
 
 En las industrias, comercios o servicios donde el agua sea materia prima o requiera de suministro de grandes volúmenes, así como en edificios, oficinas públicas, escuelas y centros comerciales, será obligatoria la instalación de accesorios de bajo consumo y uso eficiente del agua. Los organismos prestadores del servicio vigilarán y sancionarán a quien incumpla con esta disposición y promoverán su instalación generalizada para los demás usos y actividades.
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 92.
 
-El usuario estará obligado al pago por los servicios que le brinde el municipio u organismo operador, mismo que será determinado de acuerdo al sistema tarifario que se autorice en la ley de ingresos correspondiente.
+El usuario estará obligado al pago por los servicios que le brinde el municipio u organismo operador, mismo que será determinado de conformidad con lo establecido en la Ley y el presente Reglamento.
 
 ###### Artículo 93.
 
@@ -1263,7 +1425,9 @@ VI. Lavado de vehículos a nivel comercial, cuando las aguas tratadas cumplan co
 
 Los usuarios de los servicios de agua potable, drenaje, alcantarillado y aguas residuales, podrán solicitar a la autoridad competente:
 
-l. La celebración de contratos y la prestación de los servicios cuando exista disponibilidad del agua e infraestructura. En caso de no existir infraestructura, podrá solicitar los servicios pagando la infraestructura y los derechos correspondientes que fije el Ayuntamiento o el organismo operador, de conformidad con la ley de ingresos correspondiente;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2012)</small>
+
+I. La celebración de contratos y la prestación de los servicios cuando exista disponibilidad del agua e infraestructura. En caso de no existir infraestructura, podrá solicitar los servicios pagando la infraestructura y las tarifas correspondientes que se fijen en los términos establecidos en la Ley y el presente Reglamento;
 
 ll. Se autoricen derivaciones de agua potable o alcantarillado;
 
@@ -1285,7 +1449,7 @@ IV. Regaderas con plataforma de válvulas de contacto para baños públicos; y
 
 V. Drenajes separados, según la función que vayan a desempeñar en el inmueble.
 
-### Capítulo III. De la Medición y Subsidios
+### Capítulo II. De las Cuotas y Tarifas
 
 ###### Artículo 97.
 
@@ -1321,21 +1485,23 @@ En el caso de modificación de las tarifas o de su estructura, el Ayuntamiento o
 
 Esta fórmula también es aplicable para la actualización de cuotas de los servicios y apoyos operativos que brinda la Comisión. Las cuotas y tarifas por la prestación de los servicios, deberán ser autorizadas por la Junta de Gobierno.
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 98.
 
-Las cuotas y tarifas determinadas por el organismo operador, en su caso, serán sometidas a la aprobación del ayuntamiento correspondiente y enviadas al Congreso del Estado para su aprobación y publicación en la ley de ingresos del municipio.
-
-En caso de que las cuotas y tarifas no cumplan con lo establecido por el artículo 96 de la Ley, se deberá garantizar la suficiencia de los presupuestos públicos necesarios para asegurar la sustentabilidad de los servicios en beneficio de la población.
+Las cuotas y tarifas aprobadas por los Consejos Tarifarios, serán publicadas en las gacetas municipales correspondientes o, en su caso, en el Periódico Oficial “El Estado de Jalisco” a costa del Ayuntamiento u Organismo Operador, según sea el caso, a más tardar el 31 de diciembre del año inmediato anterior a su vigencia.
 
 ###### Artículo 99.
 
 Independientemente de la estructura tarifaria que se adopte en un ayuntamiento u organismo operador, se aplicará un rango mínimo de consumo no mayor de 10 metros cúbicos mensuales por toma domiciliaria, a costos inferiores de los costos medios de operación y no mayores de un día de salario mínimo, que permita a los usuarios de pequeñas familias o de escasos recursos disponer del servicio.
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 100.
 
-Además de las estructuras tarifarias para el cobro de los servicios que cubrirán los gastos e inversiones del organismo operador para administración, operación, mantenimiento, rehabilitación y mejoramiento de los servicios, se determinarán los importes de costo marginal por litro por segundo de la ampliación de capacidad de los servicios de agua potable y saneamiento, los cuales incluirán todos los costos de infraestructura para la prestación de los mismos, exceptuando las redes secundarias de agua y alcantarillado, las cuales deberán ser a cargo de los interesados.
+Además de las estructuras tarifarias para el cobro de los servicios que cubrirán los gastos e inversiones del organismo operador para administración, operación, mantenimiento, rehabilitación y mejoramiento de los servicios, amortización de las inversiones realizadas y los gastos financieros de los pasivos, se tomará en cuenta la evolución prevista en las eficiencias física, comercial, operativa y financiera y se determinarán los importes de costo marginal por litro por segundo de la ampliación de capacidad de los servicios de agua potable y saneamiento, los cuales incluirán todos los costos de infraestructura para la prestación de los mismos, exceptuando las redes secundarias de agua y alcantarillado, las cuales deberán ser a cargo de los interesados.
 
-### Capítulo V (SIC). De las Facultades de Comprobación
+### Capítulo III. De la Medición y Subsidios
 
 ###### Artículo 101.
 
@@ -1383,11 +1549,13 @@ ll. El Ayuntamiento u organismo operador efectuará una revisión técnica para 
 
 Los ayuntamientos u organismos operadores pueden efectuar la restricción temporal del servicio por morosidad en el pago del mismo, lo cual deberá estar estipulado en los contratos de adhesión al servicio y en el reglamento municipal correspondiente, de conformidad con lo establecido por el artículo 91 fracción IX de la Ley.
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 108.
 
-Para poder efectuar la restricción del servicio el ayuntamiento u organismo operador deberá tener instaladas tomas públicas controladas en la red en las condiciones y términos que se determinen en la norma oficial estatal que el Ejecutivo del Estado expida.
+Para los efectos del artículo 83 último párrafo de la Ley, los municipios y Organismos Operadores, deberán permitir al usuario en la modalidad de uso habitacional que se le haya suspendido el abastecimiento de agua potable en su domicilio por incumplimiento a la obligación del pago de los servicios consignado en la Ley, a concurrir a las instalaciones que determine el municipio u Organismo Operador, por una dotación de hasta 50 litros por persona por día para que por sus propios medios lo traslade a su domicilio, y satisfaga sus necesidades vitales y sanitarias.
 
-### Capítulo Único
+### Capítulo V (SIC). De las Facultades de Comprobación
 
 ###### Artículo 109.
 
@@ -1446,6 +1614,10 @@ Si la descarga domiciliaria al albañal se destruye por causas imputables a los 
 Cuando no sea posible efectuar la medición de consumo de agua por la destrucción total o parcial del medidor por causas no imputables ayuntamiento, organismo operador o concesionario, la tarifa de agua se determinará tomando como base los elementos objetivos del volumen estimado presuntivamente, consistente en el promedio de consumo de los últimos tres bimestres.
 
 Cuando no se pueda determinar el volumen de agua por causas imputables al usuario, la tarifa de agua que se pagará será de acuerdo a lo que establezca el reglamento municipal correspondiente o de acuerdo a los consumos promedio de la ruta de lectura o de usuarios semejantes en la población de que se trate.
+
+## Título Séptimo (SIC). Disposiciones Complementarias
+
+### Capítulo Único
 
 ###### Artículo 116.
 
@@ -1520,3 +1692,13 @@ Secretario de Desarrollo Rural
 LIC. MARTHA RUTH DEL TORO GAYTÁN
 
 Secretaria de Medio Ambiente para el Desarrollo Sustentable
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 11 DE OCTUBRE DE 2012.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Se derogan todas las disposiciones administrativas y reglamentarias que se opongan al presente Acuerdo.
+
+TERCERO. En caso de que por cualquier circunstancia los municipios u organismos operadores, no hubieren constituido sus Consejos Tarifarios en los plazos establecidos en la Ley para la determinación de las cuotas o tarifas para el ejercicio fiscal 2013, serán los propios municipios u organismos operadores, según sea el caso, quienes actualicen las cuotas o tarifas vigentes conforme al índice nacional de precios al consumidor, al mes de noviembre de 2012, y ordenen su publicación en las gacetas municipales correspondientes o, en el Periódico Oficial "El Estado de Jalisco", a más tardar el 31 de diciembre del año inmediato anterior a su vigencia. Lo anterior, de conformidad con el artículo cuarto transitorio del Decreto No 24083 publicado en el periódico oficial "El Estado de Jalisco" con fecha 18 de agosto de 2012.
