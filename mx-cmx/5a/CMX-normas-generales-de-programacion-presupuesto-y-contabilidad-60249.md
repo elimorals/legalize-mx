@@ -4,7 +4,7 @@ identifier: "CMX-normas-generales-de-programacion-presupuesto-y-contabilidad-602
 country: "mx"
 rank: "norma"
 publication_date: "2008-03-31"
-last_updated: "2009-03-31"
+last_updated: "2012-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60249&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2008-03-31"
 ---
 # NORMAS GENERALES DE PROGRAMACION, PRESUPUESTO Y CONTABILIDAD DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
 
-NORMAS GENERALES DE PROGRAMACION, PRESUPUESTO Y CONTABILIDAD DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
+NORMAS GENERALES DE PROGRAMACIÓN, PRESUPUESTO Y CONTABILIDAD DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE MARZO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DE LAS NORMAS GENERALES DE PROGRAMACIÓN, PRESUPUESTO Y CONTABILIDAD DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL, PUBLICADAS EN LA G.O. DE 11 DE OCTUBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 11 DE OCTUBRE DE 2012 (ABROGADA).
 
 Normas publicadas en la Gaceta Oficial del Distrito Federal, el lunes 31 de marzo de 2008.
 
@@ -774,7 +776,7 @@ Lo que certifico en ejercicio de la facultad prevista en los artículos 188, inc
 
 México, Distrito Federal, a seis de febrero de dos mil ocho. DOY FE.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS A LAS PRESENTES NORMAS.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS A LAS PRESENTES NORMAS.</small>
 
 G.O. 24 DE DICIEMBRE DE 2008.
 
@@ -789,3 +791,11 @@ PRIMERO.- Las presentes reformas a las Normas Generales de Programación, Presup
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a las presentes reformas.
 
 TERCERO.- Publíquese en la Gaceta Oficial del Distrito Federal, así como en los estrados y en el sitio de Internet del Tribunal.
+
+G.O. 11 DE OCTUBRE DE 2012.
+
+PRIMERO.- Las presentes Normas Generales de Programación, Presupuesto y Contabilidad del Tribunal Electoral del Distrito Federal, entrarán en vigor al día siguiente de su publicación en los estrados del Tribunal, con excepción de aquellos artículos que estén relacionados con las disposiciones contenidas en la Ley General de Contabilidad Gubernamental que entrarán en vigor a partir del 1º de enero de 2013, así como las que el Consejo Nacional de Armonización Contable prevea iniciar en dicha temporalidad, en este supuesto, se aplicarán sólo los artículos de las presentes Normas que resulten procedentes.
+
+SEGUNDO.- Se abrogan las Normas Generales de Programación, Presupuesto y Contabilidad del Tribunal Electoral del Distrito Federal, aprobadas por el Pleno de este Tribunal mediante acuerdo 008/2008 del 5 de febrero de 2008 y reformadas mediante los acuerdos 050/2008 y 014/2009 del 5 de noviembre de 2008 y del 17 de febrero de 2009, respectivamente.
+
+TERCERO.- Publíquense las presentes Normas Generales de Programación, Presupuesto y Contabilidad del Tribunal Electoral del Distrito Federal, en la Gaceta Oficial del Distrito Federal, así como en los estrados y en los sitios de Internet e Intranet del Tribunal.
