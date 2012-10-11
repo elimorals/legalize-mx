@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-registro-agrario-nacional-10307"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-04-09"
-last_updated: "1997-04-09"
+last_updated: "2012-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10307&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1997-04-04"
 
 REGLAMENTO INTERIOR DEL REGISTRO AGRARIO NACIONAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL REGISTRO AGRARIO NACIONAL, PUBLICADO EN EL D.O.F. DE 11 DE OCTUBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Reglamento publicado en el Diario Oficial de la Federación. Órgano del Gobierno Constitucional de los Estados Unidos Mexicanos, tomo DXXIII, número 7, del 9 de abril de 1997.
 
@@ -1066,3 +1068,25 @@ Artículo Tercero. La sustitución de los sistemas registrales de folios persona
 Artículo Cuarto. Para la ejecución de las atribuciones conferidas al Registro en materia de resguardo documental y de asistencia técnica, la Secretaría en coordinación con éste, establecerá las bases para realizar la transferencia de los recursos humanos, materiales y documentales que se requieran, en congruencia con los planes y programas respectivos.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los cuatro días del mes de abril de mil novecientos noventa y siete.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de la Reforma Agraria, Arturo Warman Gryj.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 11 DE OCTUBRE DE 2012.
+
+Primero. Este Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo la fracción III del artículo 62, que entrará en vigor al día siguiente de que el Registro Agrario Nacional publique en el Diario Oficial de la Federación que ha establecido y opera un sistema eficaz para comprobar fehacientemente la entrega y recepción de las notificaciones vía correo electrónico.
+
+Segundo. Se abroga el Reglamento Interior del Registro Agrario Nacional, publicado en el Diario Oficial de la Federación el día nueve de abril de mil novecientos noventa y siete.
+
+Las disposiciones administrativas que se expidieron con fundamento en el Reglamento que se abrogan (sic), continuarán vigentes en lo que no se opongan al presente Reglamento que se expide.
+
+Tercero. Para la sustitución del actual Sistema de Inscripciones del Registro Agrario Nacional denominado SIRAN, se emitirán dentro de los 30 días hábiles siguientes a la publicación del Reglamento, las normas operativas en las que se establezcan los requerimientos, las medidas de seguridad, así como el programa para la implementación del nuevo sistema denominado Sistema Integral de Modernización Catastral y Registral SIMCR, que permitirá mantener actualizada y vinculada la información registral y catastral.
+
+Cuarto. Las referencias que otros ordenamientos hacen a:
+
+I. La Dirección General de Registro o a la Dirección General de Titulación y Control Documental, se entenderán hechas a la Dirección General de Registro y Control Documental;
+
+II. La Dirección General de Catastro Rural, se entenderán hechas a la Dirección General de Catastro y Asistencia Técnica;
+
+III. La Dirección General de Delegaciones, se entenderán hechas a la Coordinación Interinstitucional, y
+
+IV. La Unidad de Contraloría Interna, se entenderán hechas al Órgano Interno de Control adscrito al Registro Agrario Nacional.
