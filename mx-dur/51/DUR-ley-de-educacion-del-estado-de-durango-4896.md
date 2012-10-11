@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-educacion-del-estado-de-durango-4896"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-29"
-last_updated: "2012-07-15"
+last_updated: "2012-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE EDUCACIÓN DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 29 de junio de 1995.
 
@@ -443,9 +443,17 @@ g) La Secretaría deberá coordinarse con la Secretaría de Salud, con la finali
 
 XXXVII.- Fomentar la instalación de comedores o desayunadores escolares en los centros escolares de educación básica del Sistema Estatal de Educación, y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2012)</small>
 
-XXXVIII.- Desempeñar las demás atribuciones establecidas o derivadas de la Ley General de Educación de la Ley Orgánica de la Administración Pública del Estado y de la presente Ley.
+XXXVIII.- Fomentar la instalación de comedores o desayunadores escolares en los centros de educación básica del Sistema Estatal de Educación.
+
+El sistema educativo, dentro de sus programas y acorde a sus posibilidades presupuestarias, procurará establecer acciones para garantizar que en los planteles educativos de educación básica se cuente con el servicio de profesionistas en nutrición, con la finalidad de:
+
+a) Orientar y concienciar tanto a los padres de familia como a quienes elaboren y expendan alimentos en los centros de distribución, sobre lo dispuesto en los incisos c) y d) de la fracción XXXVI del presente artículo, y
+
+b) Detectar alumnos con síntomas de desnutrición y obesidad infantil para canalizarlos a las instancias de salud correspondientes.
+
+XXXIX.- ... (sic)
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE DICIEMBRE DE 2006)</small>
 
@@ -1563,9 +1571,7 @@ La Secretaría, publicará en el Periódico Oficial del Gobierno Constitucional 
 
 De manera oportuna, incluirá en dicha relación, a nuevas instituciones con autorización o Reconocimiento de Validez Oficial de Estudios o, en su caso, suprimirá aquellas a las que se revoque o retire las autorizaciones o reconocimientos otorgados.
 
-### CAPITULO DECIMO PRIMERO. DE LA VALIDEZ OFICIAL DE ESTUDIOS
-
-Y DE LA CERTIFICACION DE CONOCIMIENTOS
+### CAPITULO DECIMO PRIMERO. DE LA VALIDEZ OFICIAL DE ESTUDIOS Y DE LA CERTIFICACION DE CONOCIMIENTOS
 
 ###### ARTICULO 163.
 
@@ -1719,9 +1725,7 @@ Los Consejos de Participación Social en la Educación, tendrán las funciones q
 
 #### Sección 1. De las Infracciones y las Sanciones
 
-### CAPITULO DECIMO TERCERO. DE LAS INFRACCIONES, LAS SANCIONES
-
-Y EL RECURSO ADMINISTRATIVO
+### CAPITULO DECIMO TERCERO. DE LAS INFRACCIONES, LAS SANCIONES Y EL RECURSO ADMINISTRATIVO
 
 #### Sección 2. Del Recurso Administrativo
 
@@ -1916,3 +1920,9 @@ La Secretaría de Educación, contará con 30 días hábiles a partir de la entr
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 11 DE OCTUBRE DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente.
