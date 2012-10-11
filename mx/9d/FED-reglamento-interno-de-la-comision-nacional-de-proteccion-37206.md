@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-de-la-comision-nacional-de-proteccion-37206"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-02-27"
-last_updated: "2006-11-28"
+last_updated: "2012-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37206&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2004-02-26"
 ---
 # REGLAMENTO INTERNO DE LA COMISION NACIONAL DE PROTECCION SOCIAL EN SALUD
 
-REGLAMENTO INTERNO DE LA COMISION NACIONAL DE PROTECCION SOCIAL EN SALUD
+REGLAMENTO INTERNO DE LA COMISIÓN NACIONAL DE PROTECCIÓN SOCIAL EN SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE NOVIEMBRE DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE OCTUBRE DE 2012.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 27 de febrero de 2004.
 
@@ -254,6 +254,10 @@ VII. Dirección General del Programa Oportunidades, y
 VIII. Dirección General de Procesos y Tecnología.
 
 Para el desarrollo de sus funciones la Comisión contará con un Consejo Interno en los términos previstos en el presente Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
+Asimismo, la Comisión contará con un Órgano Interno de Control que se regirá por lo dispuesto en el Capítulo Sexto de este Reglamento y demás disposiciones aplicables.
 
 ###### Artículo 6.
 
@@ -721,6 +725,28 @@ El Comisionado será suplido en sus ausencias, por los Directores Generales de A
 
 Las ausencias de los titulares de las direcciones generales serán suplidas por los servidores públicos del nivel jerárquico inmediato inferior que de ellos dependan, en los asuntos de sus respectivas competencias.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
+### CAPÍTULO SEXTO. Del Órgano Interno de Control
+
+> <small>(ADICIONADO, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 19.
+
+Al frente del Órgano Interno de Control habrá un Titular designado en los términos del artículo 37, fracción XII de la Ley Orgánica de la Administración Pública Federal, quien en el ejercicio de sus atribuciones, se podrá auxiliar por los titulares de las áreas de auditoría, quejas y responsabilidades, designados en los mismos términos.
+
+> <small>(ADICIONADO, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 20.
+
+Los servidores públicos a que se refiere el artículo anterior, en el ámbito de sus respectivas competencias, ejercerán las atribuciones previstas en la Ley Orgánica de la Administración Pública Federal, en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y demás ordenamientos legales y administrativos aplicables, conforme a lo previsto en el Reglamento Interior de la Secretaría de la Función Pública.
+
+> <small>(ADICIONADO, D.O.F. 11 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 21.
+
+Las ausencias del Titular del Órgano Interno de Control, así como de los titulares de las áreas de auditoría, quejas y responsabilidades señaladas en este Reglamento, serán suplidas conforme a lo previsto en el Reglamento Interior de la Secretaría de la Función Pública.
+
 ## TRANSITORIOS
 
 PRIMERO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -737,7 +763,7 @@ QUINTO.- Los demás recursos humanos y materiales que la Comisión requiera para
 
 Dado en la Residencia del Poder Ejecutivo Federal, en México, Distrito Federal, a los veintiséis días del mes de febrero de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Salud, Julio Frenk Mora.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 28 DE NOVIEMBRE DE 2006.
 
@@ -752,3 +778,11 @@ Las modificaciones que en virtud del presente Decreto se lleven a cabo a la estr
 CUARTO. Cuando la competencia de alguna unidad administrativa establecida con anterioridad a la vigencia de este Reglamento deba ser ejercida por alguna otra unidad de las que el mismo establece, el personal y los recursos materiales y financieros con que aquélla contaba y que fueren necesarios, pasarán a la unidad o unidades competentes, de acuerdo con la asignación que haga la Subsecretaría de Administración y Finanzas, de conformidad con el ámbito de facultades que a cada una corresponda.
 
 QUINTO. Los derechos laborales de los trabajadores de la Secretaría serán respetados conforme a las disposiciones legales aplicables.
+
+D.O.F. 11 DE OCTUBRE DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. El Órgano Interno de Control en la Secretaría de Salud, continuará conociendo, de aquellos asuntos relacionados con la competencia de la Comisión Nacional de Protección Social en Salud, que a la entrada en vigor del presente Decreto, se encuentren en trámite.
+
+TERCERO. La Secretaría de Salud, a través de la Comisión Nacional de Protección Social en Salud proporcionará al Órgano Interno de Control los recursos humanos, materiales y financieros que requiera para el ejercicio de las facultades que tiene conferidas, sujetándose a las autorizaciones correspondientes por las secretarías de Hacienda y Crédito Público y de la Función Pública en el ámbito de sus respectivas competencias.
