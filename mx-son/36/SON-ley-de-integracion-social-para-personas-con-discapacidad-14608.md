@@ -4,7 +4,7 @@ identifier: "SON-ley-de-integracion-social-para-personas-con-discapacidad-14608"
 country: "mx"
 rank: "ley"
 publication_date: "1999-07-12"
-last_updated: "2009-09-17"
+last_updated: "2012-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14608&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # LEY DE INTEGRACION SOCIAL PARA PERSONAS CON DISCAPACIDAD DEL ESTADO DE SONORA
 
-LEY DE INTEGRACION SOCIAL PARA PERSONAS CON DISCAPACIDAD DEL ESTADO DE SONORA
+LEY DE INTEGRACIÓN SOCIAL PARA PERSONAS CON DISCAPACIDAD DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 17 DE SEPTIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE OCTUBRE DE 2012.
 
 Ley publicada en la Tercera Sección del Boletín Oficial del Estado de Sonora, el lunes 12 de julio de 1999.
 
@@ -525,13 +525,27 @@ IV.- Un Administrador: Designado por el Consejo, quien será el encargado de adm
 
 V.- Hasta Cinco Vocales Gubernamentales: Quiénes preferentemente podrán ser el Director de Salud, el Director de Educación y Cultura, el Tesorero del Ayuntamiento, el Director del Instituto Municipal del Deporte y la Juventud, o aquellos designados por el Presidente Municipal, así como por un Regidor del H. Ayuntamiento;
 
-VI.- Hasta Cinco Vocales Ciudadanos: Que deberán ser profesionales de la medicina, del trabajo social, de la educación y cultura, del deporte y de la productividad, preferentemente aquellos profesionistas con discapacidad que reúnan los requisitos adecuados o los ciudadanos que se hayan distinguido en la prestación de ayuda social, laboral, deportiva y cultural a favor de las personas con discapacidad, quiénes serán designados por el Cabildo Municipal, a propuesta de las organizaciones de personas con discapacidad; y,
+> <small>(REFORMADA, B.O. 11 DE OCTUBRE DE 2012)</small>
 
-VII.- Hasta Cinco Vocales de la Iniciativa Privada: Quiénes deberán ser representantes de los diferentes organismos, asociaciones o cámaras del sector empresarial, a propuesta de ellos mismos.
+VI.- Hasta Cinco Vocales Ciudadanos: Que deberán ser profesionales de la medicina, del trabajo social, de la educación y cultura, del deporte y de la productividad, preferentemente aquellos profesionistas con discapacidad que reúnan los requisitos adecuados o los ciudadanos que se hayan distinguido en la prestación de ayuda social, laboral, deportiva y cultural a favor de las personas con discapacidad, quiénes serán designados por el Cabildo Municipal, a propuesta de las organizaciones de personas con discapacidad;
+
+> <small>(REFORMADA, B.O. 11 DE OCTUBRE DE 2012)</small>
+
+VII.- Hasta Cinco Vocales de la Iniciativa Privada: Quiénes deberán ser representantes de los diferentes organismos, asociaciones o cámaras del sector empresarial, a propuesta de ellos mismos; y
+
+> <small>(ADICIONADA, B.O. 11 DE OCTUBRE DE 2012)</small>
+
+VIII.- Entre los miembros que constituyen los consejos municipales, deberá haber por lo menos tres personas con alguna discapacidad de las reconocidas en el artículo 3 de la presente Ley.
 
 Los integrantes del Consejo tendrán derecho a voz y voto en todos aquellos asuntos competencia de ese Organo Colegiado, durando en funciones hasta por tres años, cuyos cargos son de carácter honorífico con excepción del Vocal Ejecutivo, Secretario y Administrador, más aquéllos que apruebe el Consejo, quiénes percibirán el salario y compensación establecidos en el Presupuesto de Egresos anual de ese Organismo.
 
 El Consejo deberá celebrar sesiones ordinarias, por lo menos, una vez cada tres meses, previa convocatoria pública.
+
+> <small>(ADICIONADO, B.O. 11 DE OCTUBRE DE 2012)</small>
+
+ARTÍCULO 29 BIS.- Los Consejos Municipales de Discapacidad formarán una comisión de supervisión y recomendación, integrada por dos de sus miembros, de los cuales, por lo menos uno deberá ser discapacitado.
+
+Esta comisión se organizará para asistir a diversos lugares y observar servicios en forma aleatoria o predeterminada por el Consejo Municipal respectivo; lo anterior tendrá como objetivo analizar la forma en que se acatan las disposiciones de la presente Ley. En caso de existir irregularidades, la Comisión recabará las pruebas que sean posibles y lo hará saber al Consejo para, posteriormente, turnarlo a las autoridades correspondientes para la imposición de la sanción aplicable al caso concreto.
 
 ### CAPÍTULO IV. DE LA PRESTACIÓN DE SERVICIOS
 
@@ -597,7 +611,7 @@ V.- Ninguna condición personal de las personas con discapacidad serán impedime
 
 (DEROGADO, B.O. 17 DE OCTUBRE DE 2005)
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 17 DE OCTUBRE DE 2005)</small>
 
 ###### ARTÍCULO 34.
 
@@ -655,21 +669,35 @@ La Secretaría de Educación y Cultura se coordinará con la Secretaría de Salu
 
 Las personas con discapacidad en edad escolar se integrarán al sistema educativo nacional asegurándoles su inscripción, reinscripción, acreditación y certificación.
 
-> <small>(ADICIONADO, B.O. 17 DE OCTUBRE DE 2005)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO PRIMER PÁRRAFO], B.O. 11 DE OCTUBRE DE 2012)</small>
 
-ARTÍCULO 42 BIS.- La Secretaría de Educación y Cultura establecerá acciones para:
+ARTÍCULO 42 BIS.- La Secretaría de Educación y Cultura, conforme a su disponibilidad presupuestal, establecerá acciones para:
+
+> <small>(ADICIONADA, B.O. 17 DE OCTUBRE DE 2005)</small>
 
 I.- La habilitación o rehabilitación de las personas con discapacidad;
 
+> <small>(ADICIONADA, B.O. 17 DE OCTUBRE DE 2005)</small>
+
 II.- Admitir y atender a menores, jóvenes y adultos con discapacidad en las escuelas públicas y privadas del sistema básico, educación media superior y superior e instituciones de capacitación para el trabajo.
+
+> <small>(ADICIONADO, B.O. 17 DE OCTUBRE DE 2005)</small>
 
 Todas las guarderías, albergues para menores y hospitales deberán contar con un área o programas de educación especial para prevenir la marginación del proceso educativo de los usuarios de esos lugares;
 
+> <small>(ADICIONADA, B.O. 17 DE OCTUBRE DE 2005)</small>
+
 III.- Implementar actividades y programas educativos y de capacitación para adultos que por su discapacidad no puedan incorporarse a otros sistemas regulares;
+
+> <small>(ADICIONADA, B.O. 17 DE OCTUBRE DE 2005)</small>
 
 IV.- Dar a las personas con discapacidad facilidad, acceso y uso de las instalaciones educativas y servicios de apoyo en función de sus necesidades;
 
+> <small>(ADICIONADA, B.O. 17 DE OCTUBRE DE 2005)</small>
+
 V.- Apoyar a los centros educativos con material didáctico acorde a las necesidades educativas de los menores y adultos con discapacidad;
+
+> <small>(ADICIONADO, B.O. 17 DE OCTUBRE DE 2005)</small>
 
 VI.- Formar, capacitar, actualizar y evaluar al personal docente y de apoyo que atiende a menores con discapacidad;
 
@@ -781,9 +809,11 @@ El DIF Estatal y los Sistemas DIF municipales promoverán ante las instancias p�
 
 El DIF Estatal en coordinación con las autoridades deportivas del Estado y los DIF municipales y demás instituciones públicas y privadas, promoverán en todo el Estado la capacitación deportiva y la práctica de deportes para las personas con discapacidad y buscarán otorgarles facilidades necesarias para el desarrollo de sus prácticas deportivas. Para tal efecto elaborarán un programa anual de capacitación y competencias deportivas de con discapacidad, en la que además se contemplará la construcción o remodelación de las instalaciones deportivas que se requieran para ese fin en los diferentes municipios del Estado.
 
+> <small>(REFORMADO, B.O. 11 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 55.
 
-Las actividades deportivas de personas con discapacidad se desarrollarán normalmente en las instalaciones y con los medios ordinarios existentes en la comunidad, en tanto sea posible construir instalaciones adecuadas y especiales para la enseñanza y práctica de sus deportes.
+El Gobierno del Estado, conforme a la disponibilidad presupuestal, adecuará las instalaciones deportivas existentes para que toda persona con cualesquier discapacidad pueda realizar las actividades para las que se hayan creado las mismas. Asimismo, las instalaciones deportivas por crearse deberán contar con dichas adaptaciones.
 
 ###### ARTÍCULO 56.
 
@@ -792,6 +822,10 @@ El DIF Estatal y los DIF municipales en coordinación con el Instituto Sonorense
 ###### ARTÍCULO 57.
 
 Para la participación de las personas con discapacidad en encuentros deportivos y culturales a nivel Estatal Regional, Nacional e Internacional se le dotará de medio de transporte, así como equipamiento y presentación adecuada para asistir a los eventos para que el deportista presente un mejor desempeño en su competencia.
+
+> <small>(ADICIONADO, B.O. 11 DE OCTUBRE DE 2012)</small>
+
+El Gobierno del Estado, conforme a la disponibilidad presupuestal que al efecto exista y en coordinación con la Secretaría los Consejos municipales y estatal, promoverá la celebración de una Olimpiada Especial de Personas con Discapacidad, una vez cada tres años, en la que exista, por lo menos, una actividad deportiva a realizar para cada tipo de discapacidad de los mencionados en el artículo 3° de esta Ley.
 
 ###### ARTÍCULO 58.
 
@@ -913,6 +947,10 @@ I.- Orientar y asistir jurídicamente a las personas con discapacidad, para lo c
 
 II.- Difundir los derechos de las personas con discapacidad, así como las disposiciones legales que los contemplan, a fin de garantizar su efectiva aplicación.
 
+> <small>(ADICIONADO, B.O. 11 DE OCTUBRE DE 2012)</small>
+
+ARTÍCULO 76 BIS.- En cualquier evento que se realice en materia de personas con discapacidad, así como también en cualquier institución de salud a la que asistan personas identificadas como discapacitadas, deberá hacerse de su conocimiento la existencia de la presente Ley, además de orientar sobre su contenido y acceso a través de cualquier medio.
+
 ### CAPITULO XIII. DE LOS SERVICIOS SOCIALES
 
 ###### ARTÍCULO 77.
@@ -988,6 +1026,12 @@ Los restaurantes y cafeterías deberán brindar la comodidad requerida a los usu
 ###### ARTÍCULO 87.
 
 Los auditorios, cines, teatros y salas de conciertos, de conferencias y, en general, cualquier recinto en el que se presenten espectáculos públicos deberán contar con espacios reservados y suficientes para personas con discapacidad imposibilitadas para hacer uso de las butacas o asientos con que cuente el recinto.
+
+> <small>(ADICIONADO, B.O. 11 DE OCTUBRE DE 2012)</small>
+
+ARTÍCULO 87 BIS.- Los establecimientos, públicos o privados, que cuenten con mecanismos o servicios tendientes a dar mayor celeridad o comodidad en la atención a usuarios con ciertas circunstancias como tener la calidad de preferentes, clientes distinguidos o cualesquiera otras, deberán hacer extensivos a personas identificadas como discapacitadas estas prerrogativas, siempre y cuando éstas tengan por objeto el reducir el tiempo de espera o esfuerzo por parte del cliente.
+
+Para los efectos de la presente Ley, la identificación de personas con discapacidad, cuando no sea notoria, se hará con credenciales que expidan los Consejos Municipales o certificados de cualquier institución de salud.
 
 ###### ARTÍCULO 88.
 
@@ -1147,7 +1191,9 @@ Para los efectos de la presente Ley, las autoridades estatales y municipales apl
 
 I.- Apercibimiento; estableciendo un plazo determinado para subsanar la infracción;
 
-II.- Multa equivalente de uno hasta cien veces el salario mínimo general diario vigente en la capital del Estado, atendiendo a la gravedad y circunstancias de la infracción;
+> <small>(REFORMADA, B.O. 11 DE OCTUBRE DE 2012)</small>
+
+II.- Multa equivalente de uno hasta doscientas veces el salario mínimo general diario vigente en la capital del Estado, atendiendo a la gravedad y circunstancias de la infracción;
 
 III.- Arresto hasta por treinta y seis horas;
 
@@ -1245,7 +1291,7 @@ SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Hermosillo, Sonora, a 22 de junio
 
 POR TANTO, mando se publique en el Boletín Oficial del Estado y se le de el debido cumplimiento.- PALACIO DE GOBIERNO.- Hermosillo, Sonora, dos de julio de mil novecientos noventa y nueve.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- ARMANDO LOPEZ NOGALES.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- MIGUEL ANGEL MURILLO AISPURO.- RUBRICA.-
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 B.O. 17 DE OCTUBRE DE 2005.
 
@@ -1258,3 +1304,9 @@ B.O. 17 DE SEPTIEMBRE DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 11 DE OCTUBRE DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
