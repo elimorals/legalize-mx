@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-minera-13283"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-02-15"
-last_updated: "1999-02-15"
+last_updated: "2012-10-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13283&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1999-02-10"
 
 REGLAMENTO DE LA LEY MINERA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY MINERA, PUBLICADO EN EL D.O.F. DE 12 DE OCTUBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Reglamento publicado en el Diario Oficial de la Federación el lunes 15 de febrero de 1999.
 
@@ -1668,3 +1670,23 @@ El derecho preferente deberá ejercerse en la fecha y hora en que surta efecto l
 DÉCIMO QUINTO.- Los derechos preferentes a que se refieren los dos artículos anteriores, deberán señalarse en las declaratorias de libertad de terreno que se publiquen en el Diario Oficial de la Federación.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de febrero de mil novecientos noventa y nueve.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Ángel Gurría Treviño.- Rúbrica.- El Secretario de Desarrollo Social, Esteban Moctezuma Barragán.- Rúbrica.- La Secretaria de Medio Ambiente, Recursos Naturales y Pesca, Julia Carabias Lillo.- Rúbrica.- El Secretario de Energía, Luis Téllez Kuenzler.- Rúbrica.- El Secretario de Comercio y Fomento Industrial, Herminio Blanco Mendoza.- Rúbrica.- El Secretario de Contraloría y Desarrollo Administrativo, Arsenio Farell Cubillas.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 12 DE OCTUBRE DE 2012.
+
+PRIMERO.- El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento de la Ley Minera, publicado en el Diario Oficial de la Federación el 15 de febrero de 1999.
+
+TERCERO.- Los trámites y procedimientos de cualquier naturaleza, pendientes de resolución al momento de entrar en vigor el presente Reglamento, se substanciarán conforme a la regulación aplicable al momento de la presentación de los mismos.
+
+CUARTO.- La Secretaría deberá adecuar el Manual a las disposiciones del presente Reglamento, a más tardar dentro de un plazo no mayor de ciento veinte días hábiles, contado a partir de la entrada en vigor del mismo.
+
+QUINTO.- La Secretaría establecerá en el Manual los procedimientos técnicos que se aplicarán en la elaboración de los trabajos periciales.
+
+SEXTO.- La Secretaría podrá continuar expidiendo los acuerdos de desincorporación de zonas incorporadas a reservas mineras nacionales con anterioridad a la fecha de entrada en vigor de la Ley Minera, cuando hayan cambiado los supuestos que motivaron su incorporación.
+
+Asimismo, la Secretaría seguirá expidiendo los acuerdos por los que se cancelen las asignaciones mineras otorgadas en favor del Servicio Geológico con antelación a la fecha de vigencia de la Ley Minera.
+
+SÉPTIMO.- Las referencias que los instrumentos jurídicos existentes y vigentes que se emitieron con fundamento en el Reglamento de la Ley Minera, publicado en el Diario Oficial de la Federación el 15 de febrero de 1999 que se abroga, hacen al Consejo de Recursos Minerales, se entenderán referidas al Servicio Geológico Mexicano.
