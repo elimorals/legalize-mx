@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-inclusion-para-las-personas-con-discapacidad-en-el-89412
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-14"
-last_updated: "2012-09-14"
+last_updated: "2012-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89412&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GUA"
 ---
 # LEY DE INCLUSION PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE GUANAJUATO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE OCTUBRE DE 2012 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE INCLUSIÓN PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE GUANAJUATO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 12 DE OCTUBRE DE 2012.</small>
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 14 de septiembre de 2012.
 
@@ -227,8 +227,6 @@ El Instituto es un organismo público descentralizado del Poder Ejecutivo del Es
 
 Al titular del Poder Ejecutivo del Estado le corresponde designar y remover libremente al Director del Instituto.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE OCTUBRE DE 2012 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 Atribuciones del Instituto
 
 ###### Artículo 11.
@@ -241,7 +239,9 @@ II. Promover la participación de la sociedad en la prevención, detección temp
 
 III. Elaborar un diagnóstico anual que determine la situación de las personas con discapacidad en el Estado y sirva para la elaboración y mejoramiento de las políticas públicas;
 
-IV. Realizar un registro de personas con discapacidad en el Estado, el cual deberá actualizarse de manera continúa con la información que será solicitada a las dependencias y entidades de la administración pública y a organizaciones de la sociedad civil;
+> <small>(F. DE E., P.O. 12 DE OCTUBRE DE 2012)</small>
+
+IV. Realizar un registro de personas con discapacidad en el Estado, el cual deberá actualizarse de manera continua con la información que será solicitada a las dependencias y entidades de la administración pública y a organizaciones de la sociedad civil;
 
 V. Elaborar un sistema de base de datos para el registro de personas con discapacidad y difundirlo a las autoridades de la administración pública estatal y municipal, así como a organizaciones de la sociedad civil;
 
