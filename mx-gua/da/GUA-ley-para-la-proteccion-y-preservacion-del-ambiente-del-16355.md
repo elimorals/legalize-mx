@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-proteccion-y-preservacion-del-ambiente-del-16355"
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-08"
-last_updated: "2012-09-25"
+last_updated: "2012-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16355&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GUA"
 ---
 # LEY PARA LA PROTECCION Y PRESERVACION DEL AMBIENTE DEL ESTADO DE GUANAJUATO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE OCTUBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY PARA LA PROTECCIÓN Y PRESERVACIÓN DEL AMBIENTE DEL ESTADO DE GUANAJUATO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2012.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 12 DE OCTUBRE DE 2012.</small>
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 8 de febrero de 2000.
 
@@ -1015,15 +1015,13 @@ La Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuat
 
 La Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato pondrá a disposición del Instituto de Ecología del Estado el padrón de prestadores de servicios ambientales, en materia de auditoría ambiental, para el debido cumplimiento de las funciones que le señala esta Ley.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE OCTUBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012) (F. DE E., P.O. 12 DE OCTUBRE DE 2012)
 
 ###### Artículo 64.
 
-Las personas que se encuentren laborando en el Instituto de Ecología del Estado, la Procuraduría Ambiental y de Ordenamiento Territorialdel (sic) Estado de Guanajuato, o en la administración pública municipal en el área ambiental, no podrán registrarse en el padrón de prestadores de servicios ambientales.
+Las personas que se encuentren laborando en el Instituto de Ecología del Estado, la Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato, o en la administración pública municipal en el área ambiental, no podrán registrarse en el padrón de prestadores de servicios ambientales.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2375,13 +2373,13 @@ Artículo Quinto.- Los Ayuntamientos del Estado deberán adecuar sus bandos y re
 
 Artículo Sexto.- El Ejecutivo del Estado y los Ayuntamientos deberán integrar los registros de fuentes, emisiones y transferencia de contaminantes al aire, agua, suelo y subsuelo, materiales y residuos de su competencia, a que se refiere el artículo 108, en un plazo de seis meses, contados a partir de la entrada en vigor del presente decreto, debiendo expedir las disposiciones administrativas que resulten pertinentes.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE OCTUBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 P.O. 25 DE SEPTIEMBRE DE 2012.
 
 Inicio de vigencia del artículo segundo del decreto
 
-Artículo Único. El artículo segundo del decreto que contiene las modificaciones de diversas disposiciones de la Ley para la Protección y Preservación del Ambiente del Estado de Guanajuato, entrará en vigencia el1 (sic) de enero de 2013, previa publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+> <small>(F. DE E., P.O. 12 DE OCTUBRE DE 2012)</small>
+
+Artículo Único. El artículo segundo del decreto que contiene las modificaciones de diversas disposiciones de la Ley para la Protección y Preservación del Ambiente del Estado de Guanajuato, entrará en vigencia el 1 de enero de 2013, previa publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
 TRANSITORIO DEL DECRETO
 
