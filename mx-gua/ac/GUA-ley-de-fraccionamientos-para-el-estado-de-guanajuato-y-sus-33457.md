@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-fraccionamientos-para-el-estado-de-guanajuato-y-sus-3345
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-15"
-last_updated: "2012-09-25"
+last_updated: "2012-10-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33457&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "GUA"
 ---
 # LEY DE FRACCIONAMIENTOS PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE OCTUBRE DE 2012 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE FRACCIONAMIENTOS PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO TERRITORIAL PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, PUBLICADO EN EL P.O. 25 DE SEPTIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO SERA ABROGADO EL 1 DE ENERO DE 2013.</small>
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2012.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 12 DE OCTUBRE DE 2012.</small>
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 15 de agosto del 2003.
 
@@ -1073,8 +1073,6 @@ Artículo Segundo.- En el Proyecto de Ley del Presupuesto General de Egresos del
 
 Artículo Tercero.- El Ejecutivo del Estado y los ayuntamientos deberán realizar las adecuaciones a los reglamentos respectivos dentro de los sesenta días siguientes a la entrada en vigor del presente decreto.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTOS TRANSITORIOS, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE OCTUBRE DE 2012 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 P.O. 25 DE SEPTIEMBRE DE 2012.
 
 Inicio de vigencia
@@ -1119,7 +1117,9 @@ La Secretaría de Desarrollo Social y Humano remitirá a los ayuntamientos, los 
 
 Término para adecuar la estructura de la Procuraduría
 
-Artículo Octavo. El Ejecutivo del Estado en un plazo no mayor a veinte días a partir de la entrada en vigor de este Código, deberá adecuar la estructura orgánica para el funcionamiento de la Procuraduría Ambiental y de Ordenamiento Territorialdel (sic) Estado de Guanajuato.
+Artículo Octavo. El Ejecutivo del Estado en un plazo no mayor a veinte días a partir de la entrada en vigor de este Código, deberá adecuar la estructura orgánica para el funcionamiento de la Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato.
+
+> <small>(F. DE E., P.O. 12 DE OCTUBRE DE 2012)</small>
 
 Cualquier referencia a la Procuraduría de Protección al Ambiente, contenida en cualquiera otra disposición jurídica, se entenderá realizada a la Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato.
 
