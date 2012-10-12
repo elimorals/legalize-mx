@@ -4,7 +4,7 @@ identifier: "GUA-codigo-territorial-para-el-estado-y-los-municipios-de-89555"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-09-25"
-last_updated: "2012-09-25"
+last_updated: "2012-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GUA"
 ---
 # CODIGO TERRITORIAL PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE OCTUBRE DE 2012 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO TERRITORIAL PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 12 DE OCTUBRE DE 2012.</small>
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 25 de septiembre de 2012.
 
@@ -717,8 +717,6 @@ VIII. Las demás que establezca el Código y las demás disposiciones jurídicas
 
 #### Sección Sexta. Instituto de Planeación
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE OCTUBRE DE 2012 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 Atribuciones del Instituto
 
 ###### Artículo 29.
@@ -739,7 +737,9 @@ VI. Tramitar y obtener la inscripción del programa estatal en el Registro Públ
 
 VII. Brindar asesoría y soporte técnico a las dependencias y entidades en materia de ordenamiento y administración sustentable del territorio;
 
-VIII. Asesorar a los ayuntamientos en la formulación, revisión, evaluación y actualizaciónde (sic)los programas municipales y metropolitanos, cuando así se lo soliciten, a efecto de que sean congruentes con el programa estatal; en la integración, conservación y actualización de la información catastral, así como en la capacitación de su personal proporcionando el apoyo técnico necesario para que en el ámbito municipal se cumplan los objetivos del Código;
+> <small>(F. DE E., P.O. 12 DE OCTUBRE DE 2012)</small>
+
+VIII. Asesorar a los ayuntamientos en la formulación, revisión, evaluación y actualización de los programas municipales y metropolitanos, cuando así se lo soliciten, a efecto de que sean congruentes con el programa estatal; en la integración, conservación y actualización de la información catastral, así como en la capacitación de su personal proporcionando el apoyo técnico necesario para que en el ámbito municipal se cumplan los objetivos del Código;
 
 IX. Opinar sobre la congruencia de los proyectos de programas municipales, respecto al programa estatal, previa consulta con las dependencias y entidades correspondientes;
 
@@ -760,8 +760,6 @@ XVI. Cumplir y hacer cumplir, en el ámbito de su competencia, las disposiciones
 XVII. Las demás que establezca el Código y las demás disposiciones jurídicas aplicables.
 
 #### Sección Séptima. Procuraduría
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE OCTUBRE DE 2012 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 Atribuciones de la Procuraduría
 
@@ -793,7 +791,9 @@ XI. Suscribir los convenios de restauración o compensación de daños que den p
 
 XII. Emitir la opinión que le solicite el Instituto de Planeación, respecto a los proyectos de programas;
 
-XIII. Presentar al Ejecutivo del Estado un informe anual, relativo a la aplicación de las políticas y acciones en materia de ordenamiento y administraciónsustentable (sic) del territorio en el Estado;
+> <small>(F. DE E., P.O. 12 DE OCTUBRE DE 2012)</small>
+
+XIII. Presentar al Ejecutivo del Estado un informe anual, relativo a la aplicación de las políticas y acciones en materia de ordenamiento y administración sustentable del territorio en el Estado;
 
 XIV. Cumplir y hacer cumplir, en el ámbito de su competencia, las disposiciones del Código; y
 
@@ -1103,8 +1103,6 @@ III. Programas metropolitanos.
 
 Los instrumentos de planeación a que se refiere este anterior deberán guardar congruencia entre sí, y se regirán por las disposiciones del Código, la Ley de Planeación para el Estado de Guanajuato y los demás ordenamientos jurídicos aplicables.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE OCTUBRE DE 2012 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 Capítulos que contendrán los programas
 
 ###### Artículo 41.
@@ -1125,7 +1123,9 @@ VI. Instrumentos de política: contendrán el conjunto de medidas, mecanismos y 
 
 VII. Programación de proyectos, medidas, obras y acciones en el que se definirán aquéllas para:
 
-a) Desarrollar proyectos y acciones depreservación (sic) y restauración del ambiente, del patrimonio cultural urbano y arquitectónico y de las áreas de valor escénico;
+> <small>(F. DE E., P.O. 12 DE OCTUBRE DE 2012)</small>
+
+a) Desarrollar proyectos y acciones de preservación y restauración del ambiente, del patrimonio cultural urbano y arquitectónico y de las áreas de valor escénico;
 
 b) Ejecutar proyectos y acciones para la consolidación y mejoramiento de los centros de población, incluyendo la constitución, administración y aprovechamiento de reservas territoriales;
 
@@ -1741,8 +1741,6 @@ Para que el programa metropolitano surta sus efectos deberá publicarse en el Pe
 
 En caso de ser aprobado por la totalidad de los ayuntamientos involucrados y por el Titular del Ejecutivo, se procederá a su publicación. Si algún Ayuntamiento se niegue a aprobar o publicar el programa metropolitano, se resolverá en los términos del artículo 89, fracción XV, inciso A, de la Constitución Política para el Estado de Guanajuato.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE OCTUBRE DE 2012 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 Contenido de los programas metropolitanos
 
 ###### Artículo 72.
@@ -1757,7 +1755,9 @@ III. La determinación de los proyectos estratégicos y acciones prioritarias;
 
 IV. La articulación con los instrumentos de planeación territorial que inciden en la zona de que se trate;
 
-V. Los elementos de la infraestructura pública y de equipamiento urbano requeridos para el desarrollo de la zona metropolitanao (sic) zona conurbada; y
+> <small>(F. DE E., P.O. 12 DE OCTUBRE DE 2012)</small>
+
+V. Los elementos de la infraestructura pública y de equipamiento urbano requeridos para el desarrollo de la zona metropolitana o zona conurbada; y
 
 VI. La clasificación básica del territorio de los centros de población, en áreas urbanizadas, áreas para consolidación, áreas para crecimiento y áreas no urbanizables, a que se sujetarán los programas municipales que se ubiquen en la zona metropolitana o zona conurbada.
 
@@ -1959,7 +1959,7 @@ Una vez que el programa municipal en que se establezca la zonificación haya sid
 
 #### Sección Segunda. Áreas naturales protegidas
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE OCTUBRE DE 2012 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 12 DE OCTUBRE DE 2012)</small>
 
 Régimen al que quedarán sujetas las áreas naturales protegidas
 
@@ -2013,7 +2013,7 @@ Protección y preservación de los humedales de importancia internacional
 
 ###### Artículo 87.
 
-Las zonas del territorio del Estado en las que los ambientes originales no han sido significativamente alterados por la actividad del ser humano, o que requieran ser protegidas, conservadasy (sic) restauradas, quedarán sujetas al régimen previsto en el Código, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley para la Protección y Preservación del Ambiente del Estado de Guanajuato y los demás ordenamientos aplicables.
+Las zonas del territorio del Estado en las que los ambientes originales no han sido significativamente alterados por la actividad del ser humano, o que requieran ser protegidas, conservadas y restauradas, quedarán sujetas al régimen previsto en el Código, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley para la Protección y Preservación del Ambiente del Estado de Guanajuato y los demás ordenamientos aplicables.
 
 Áreas naturales protegidas de competencia estatal
 
@@ -2031,13 +2031,13 @@ IV. Parques ecológicos: aquéllos que tienen como objetivo brindar oportunidade
 
 V. Reservas de conservación: aquéllas que tienen por objeto proteger fenómenos o procesos naturales inalterados para mantener la diversidad biológica.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE OCTUBRE DE 2012 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 12 DE OCTUBRE DE 2012)</small>
 
 Zonas de conservación ecológica
 
 ###### Artículo 89.
 
-Las zonas de conservación ecológica de los centros de población que establezcan los ayuntamientos tendrán el carácter de área natural protegida, cuyas declaratorias y programas de manejo se sujetarán al régimen establecido en el Código, la Ley para la Protección y Preservación del Ambiente del Estado de Guanajuato y los reglamentos municipales
+Las zonas de conservación ecológica de los centros de población que establezcan los ayuntamientos tendrán el carácter de área natural protegida, cuyas declaratorias y programas de manejo se sujetarán al régimen establecido en el Código, la Ley para la Protección y Preservación del Ambiente del Estado de Guanajuato y los reglamentos municipales correspondientes.
 
 Objeto del establecimiento de áreas naturales protegidas
 
@@ -2069,8 +2069,6 @@ Elementos para la identificación de áreas naturales protegidas
 
 Para la identificación de las zonas del territorio del Estado en que se declaren áreas naturales protegidas, se considerarán sus elementos biológicos, así como el grado de amenaza y las oportunidades de protección y conservación en tales zonas.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE OCTUBRE DE 2012 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 Participación en el proceso para declarar un área natural protegida
 
 ###### Artículo 92.
@@ -2079,7 +2077,9 @@ Las áreas naturales protegidas de competencia estatal se establecerán mediante
 
 Los ayuntamientos emitirán las declaratorias correspondientes al establecimiento de las zonas de conservación ecológica.
 
-En todo caso, las declaratorias deberán publicarse en el Periódico Oficial del Gobierno del Estado de Guanajuatoy (sic) en un diario de circulación en el o los municipios en que se ubique el área natural protegida.
+> <small>(F. DE E., P.O. 12 DE OCTUBRE DE 2012)</small>
+
+En todo caso, las declaratorias deberán publicarse en el Periódico Oficial del Gobierno del Estado de Guanajuato y en un diario de circulación en el o los municipios en que se ubique el área natural protegida.
 
 Opinión durante el proceso para declarar un área natural protegida
 
@@ -2251,8 +2251,6 @@ Los pueblos y comunidades indígenas y demás propietarios, poseedores o usufruc
 
 El solicitante deberá presentar el programa de aprovechamiento, el que se sujetará a la declaratoria y al programa de manejo respectivo.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE OCTUBRE DE 2012 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 Propuestas para el establecimiento de áreas naturales protegidas
 
 ###### Artículo 107.
@@ -2261,7 +2259,9 @@ Los pueblos y comunidades indígenas, comunidades ejidales, organizaciones socia
 
 El Instituto de Ecología, en su caso, promoverá ante el Ejecutivo del Estado la expedición de la declaratoria respectiva y elaborará el programa de manejo con la participación del solicitante, conforme a las disposiciones de esta Sección.
 
-Los predios a que se refiere este artículo se considerarán como áreas productivas dedicadas a una función de utilidad pública, por lo que, una vez emitida la declaratoria y el programa de manejo respectivo, los propietarios, poseedores o usufructuarios podrán solicitar al Instituto de Ecología que expida el certificado respectivo, mismo que deberá contener, al menos, el nombre del interesado, la denominación y modalidad del área o predio, su ubicación, superficie y colindancias, el régimen de manejo a que se sujetará y, en su caso, (sic)
+> <small>(F. DE E., P.O. 12 DE OCTUBRE DE 2012)</small>
+
+Los predios a que se refiere este artículo se considerarán como áreas productivas dedicadas a una función de utilidad pública, por lo que, una vez emitida la declaratoria y el programa de manejo respectivo, los propietarios, poseedores o usufructuarios podrán solicitar al Instituto de Ecología que expida el certificado respectivo, mismo que deberá contener, al menos, el nombre del interesado, la denominación y modalidad del área o predio, su ubicación, superficie y colindancias, el régimen de manejo a que se sujetará y, en su caso, el plazo de vigencia.
 
 Denuncia de los actos que impliquen infracción a las declaratorias o programas de manejo
 
@@ -2483,13 +2483,13 @@ El Ejecutivo del Estado y los ayuntamientos podrán convenir la realización de 
 
 Los convenios a que se refiere este artículo tendrán por objeto promover y ordenar el crecimiento poblacional y económico en la región de que se trate, ejecutar y evaluar proyectos, medidas y acciones para la protección al ambiente y la preservación y restauración del equilibrio ecológico, así como garantizar el mejoramiento de la calidad de vida de la población, el ordenamiento y administración sustentable del territorio, y la conservación y preservación de los espacios naturales.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE OCTUBRE DE 2012 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 Criterios para la delimitación de la región ecológica
+
+> <small>(F. DE E., P.O. 12 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 128.
 
-La delimitación de la región ecológicade (sic) que se trate, atenderá a las características ambientales, geohidrológicas, socioeconómicas o culturales comunes a determinada extensión del territorio del Estado.
+La delimitación de la región ecológica de que se trate, atenderá a las características ambientales, geohidrológicas, socioeconómicas o culturales comunes a determinada extensión del territorio del Estado.
 
 Contenido del convenio
 
@@ -2695,13 +2695,13 @@ XIX. Expedir su reglamento interior y aprobar sus programas operativos anuales; 
 
 XX. Las demás que establezca el Código y las demás disposiciones jurídicas aplicables.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE OCTUBRE DE 2012 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 Atribuciones del Secretario Técnico de la Comisión Metropolitana
+
+> <small>(F. DE E., P.O. 12 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 143.
 
-El Secretario Técnico dela (sic) Comisión Metropolitana tendrá las atribuciones siguientes:
+El Secretario Técnico de la Comisión Metropolitana tendrá las atribuciones siguientes:
 
 I. Formular, apoyar técnicamente las consultas y deliberaciones y proponer los proyectos y acciones prioritarios para el desarrollo de la zona metropolitana;
 
@@ -2937,8 +2937,6 @@ IV. Proteger, preservar las zonas de conservación ecológica, así como los par
 
 V. Mantener y restaurar las edificaciones y monumentos públicos, la imagen urbana, el patrimonio cultural urbano y arquitectónico, el paisaje y las áreas de valor escénico en los centros de población.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE OCTUBRE DE 2012 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 Zonas prioritarias para la ejecución de acciones de conservación
 
 ###### Artículo 165.
@@ -2947,11 +2945,17 @@ Las acciones de conservación se llevarán a cabo, de manera prioritaria, en:
 
 I. Zonas de conservación ecológica, de recarga de mantos acuíferos, de alta vulnerabilidad a los efectos del cambio climático, y aquéllas en que habiten ejemplares de especies endémicas, en peligro de extinción, amenazadas o sujetas a protección especial;
 
-II. Los parques urbanos, jardines públicos, áreas verdes y cualquier otro bien municipalde (sic) uso común con cubierta vegetal, incluyendo el mantenimiento de su equipamiento;
+> <small>(F. DE E., P.O. 12 DE OCTUBRE DE 2012)</small>
 
-III. Las áreas de valor escénico, las zonas de desarrollo turístico sustentable o aquéllas queforman (sic) parte del patrimonio cultural urbano y arquitectónico de los centros de población;
+II. Los parques urbanos, jardines públicos, áreas verdes y cualquier otro bien municipal de uso común con cubierta vegetal, incluyendo el mantenimiento de su equipamiento;
 
-IV. Las obras de infraestructura pública, el equipamiento urbano e instalaciones para la prestación de servicios públicos que formen parte de laszonas (sic) metropolitanas; y
+> <small>(F. DE E., P.O. 12 DE OCTUBRE DE 2012)</small>
+
+III. Las áreas de valor escénico, las zonas de desarrollo turístico sustentable o aquéllas que forman parte del patrimonio cultural urbano y arquitectónico de los centros de población;
+
+> <small>(F. DE E., P.O. 12 DE OCTUBRE DE 2012)</small>
+
+IV. Las obras de infraestructura pública, el equipamiento urbano e instalaciones para la prestación de servicios públicos que formen parte de las zonas metropolitanas; y
 
 V. Las zonas cuyo subsuelo se haya visto afectado por fenómenos naturales o por explotaciones de cualquier género, que representen peligro permanente o eventual para los asentamientos humanos.
 
@@ -3109,15 +3113,15 @@ II. Habilitar o garantizar la infraestructura pública primaria.
 
 La administración, mantenimiento y conservación de las provisiones y reservas territoriales, deberá hacerse mediante mecanismos legales que garanticen la viabilidad financiera de los proyectos y la transparencia en su administración.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE OCTUBRE DE 2012 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 Modificaciones al programa municipal derivadas de la utilización de provisiones o reservas territoriales
 
 ###### Artículo 178.
 
 Cuando se haga necesaria la utilización total o parcial de las provisiones o de las reservas territoriales, se efectuará, en su caso, la modificación al programa municipal.
 
-La ejecución de las obras o actividades relativas a la utilización de provisiones o reservas territorialesdeberán (sic) contar, de manera previa, con las autorizaciones en materia de evaluación del impacto ambiental que correspondan.
+> <small>(F. DE E., P.O. 12 DE OCTUBRE DE 2012)</small>
+
+La ejecución de las obras o actividades relativas a la utilización de provisiones o reservas territoriales deberán contar, de manera previa, con las autorizaciones en materia de evaluación del impacto ambiental que correspondan.
 
 #### Sección Cuarta. Derecho de preferencia
 
@@ -3317,13 +3321,13 @@ Restricción para la inscripción en el Registro Público de la Propiedad
 
 No se podrá inscribir en el Registro Público de la Propiedad ningún acto, contrato o instrumento notarial sin que le acompañe la autorización catastral que ampare el inmueble de referencia.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE OCTUBRE DE 2012 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 Obligación de proporcionar información a la Tesorería Municipal
+
+> <small>(F. DE E., P.O. 12 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 200.
 
-Las dependencias y entidades de la administración pública estatal y municipal, están obligadas a proporcionar a la Tesorería Municipal toda la información que se les solicite, en relación a sus actos que afecten a la propiedad inmobiliaria. Asimismo proporcionarán información de los predios de su propiedad o posesión dentro del territorio del municipio,de (sic) tal forma que la misma autoridad pueda plenamente identificar los terrenos y construcciones que sean de dominio público o privado.
+Las dependencias y entidades de la administración pública estatal y municipal, están obligadas a proporcionar a la Tesorería Municipal toda la información que se les solicite, en relación a sus actos que afecten a la propiedad inmobiliaria. Asimismo proporcionarán información de los predios de su propiedad o posesión dentro del territorio del municipio, de tal forma que la misma autoridad pueda plenamente identificar los terrenos y construcciones que sean de dominio público o privado.
 
 Obligación de notificar las modificaciones a los inmuebles
 
@@ -3533,13 +3537,13 @@ Contenido de los proyectos y acciones de conservación y restauración de los es
 
 Los proyectos y acciones de conservación y restauración de los espacios naturales, podrán incluir la forestación o reforestación de terrenos forestales o preferentemente forestales, sumideros de carbono y tierras agropecuarias reconvertidas a zonas de conservación ecológica o de recarga de mantos acuíferos, las que se realizarán con las técnicas y especies apropiadas, preferentemente originarias de la región ecológica de que se trate, y se sujetarán a las normas oficiales mexicanas y a las normas técnicas ambientales aplicables.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE OCTUBRE DE 2012 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 Obligación de realizar proyectos, medidas y acciones para la restauración y conservación de los espacios naturales
+
+> <small>(F. DE E., P.O. 12 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 227.
 
-Los propietarios, poseedores y usufructuarios de terrenos forestales o preferentemente forestales, sumideros de carbono o de tierras agropecuarias reconvertidas a zonas de conservación ecológica o de recarga de mantos acuíferos, están obligados a realizar los proyectos, medidas y acciones para la restauración y conservación que se establezcan en los (sic)
+Los propietarios, poseedores y usufructuarios de terrenos forestales o preferentemente forestales, sumideros de carbono o de tierras agropecuarias reconvertidas a zonas de conservación ecológica o de recarga de mantos acuíferos, están obligados a realizar los proyectos, medidas y acciones para la restauración y conservación que se establezcan en los programas.
 
 En el caso de que las personas a que se refiere el párrafo anterior demuestren carecer de recursos, el Ejecutivo del Estado podrá incorporarlos a los programas de apoyo que instrumente de acuerdo a las asignaciones que para tal fin se contemplen, en su caso, en el Presupuesto de Egresos del Estado.
 
@@ -3781,13 +3785,13 @@ Vigencia de la constancia de factibilidad
 
 La constancia de factibilidad tendrá una vigencia igual al programa municipal en el que se haya fundado, siempre que éste no haya sufrido modificaciones aplicables al inmueble de que se trate.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE OCTUBRE DE 2012 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 Permiso de uso de suelo
+
+> <small>(F. DE E., P.O. 12 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 256.
 
-La persona física o jurídico colectiva, pública o privada, que pretenda realizar obras, acciones, actividades, servicios, proyectos o inversiones en cualquier área o predio ubicado en el territorio de Estado, deberá obtener, previamente a la ejecución de las mismas, el permiso de uso de suelo que expidan las autoridades municipales. que expidan las autoridades municipales (sic).
+La persona física o jurídico colectiva, pública o privada, que pretenda realizar obras, acciones, actividades, servicios, proyectos o inversiones en cualquier área o predio ubicado en el territorio de Estado (sic), deberá obtener, previamente a la ejecución de las mismas, el permiso de uso de suelo que expidan las autoridades municipales.
 
 Objeto del permiso de uso de suelo
 
@@ -3913,9 +3917,9 @@ XII. La creación y aplicación de tecnologías que protejan al ambiente, mejore
 
 #### Sección Sexta. Prevención de riesgos, contingencias y desastres urbanos
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE OCTUBRE DE 2012 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 Acciones para la prevención de riesgos y contingencias
+
+> <small>(F. DE E., P.O. 12 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 266.
 
@@ -4133,7 +4137,7 @@ Cultura del Agua
 
 ###### Artículo 283.
 
-Para la prevención de riesgos y contingencias urbanas, así como de desastres por impactos adversos del cambio climático, el Ejecutivo del Estadoy (sic) los ayuntamientos, en el ámbito de sus competencias:
+Para la prevención de riesgos y contingencias urbanas, así como de desastres por impactos adversos del cambio climático, el Ejecutivo del Estado y los ayuntamientos, en el ámbito de sus competencias:
 
 I. Utilizarán la información contenida en los atlas de riesgo para el establecimiento de modalidades y restricciones a los usos de suelo y a las construcciones, así como para la formulación, revisión y actualización de los programas y de los reglamentos en materia de zonificación y de construcciones;
 
@@ -4155,13 +4159,13 @@ Actividades de seguridad hidráulica
 
 El Ejecutivo del Estado en coordinación con las autoridades federales, estatales y municipales, así como con la participación de los diferentes sectores sociales, intervendrá en las actividades de seguridad hidráulica y programará proyectos, medidas y acciones para prevenir los efectos de avenidas, inundaciones, sequías y otros fenómenos extremos; dichas acciones deberán estar integradas en el Programa de Gobierno del Estado o en los programas que deriven del mismo.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE OCTUBRE DE 2012 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 Medidas para la construcción y operación de obras
+
+> <small>(F. DE E., P.O. 12 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 286.
 
-El Ejecutivo del Estado y los ayuntamientos, en el ámbito de sus respectivas competencias y en coordinación con las autoridades federales, tomarán las medidas necesarias para la construcción y operación de las obras de control de escurrimientos y avenidas, zonas inundables y obras complementarias para la protección de las personas y de sus bienes; así como para adoptar las medidas necesarias en casos de contingencias o desastres.
+El Ejecutivo del Estado y los ayuntamientos, en el ámbito de sus respectivas competencias y en coordinación con las autoridades federales, tomarán las medidas necesarias para la construcción y operación de las obras de control de escurrimientos y avenidas, zonas inundables y obras complementarias para la protección de las personas y de sus bienes; así como para adoptar las medidas necesarias en casos de contingencias o desastres originados o vinculados con el agua.
 
 ## TÍTULO CUARTO. INFRAESTRUCTURA PÚBLICA Y EQUIPAMIENTO URBANO
 
@@ -5121,17 +5125,17 @@ Recibido el aviso de terminación de obra, la unidad administrativa municipal or
 
 Si dentro de los diez días hábiles, contados a partir del día siguiente a aquél en que se presentó el aviso, no se recibe la inspección, se entenderá que no existe inconveniente para la ocupación de la edificación.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE OCTUBRE DE 2012 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 Autorización para el uso y ocupación de la construcción
+
+> <small>(F. DE E., P.O. 12 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 381.
 
-Si del resultado de la inspección practicada se aprecia que la construcción cumple con los requisitos señalados en el artículo anterior, la unidad administrativa municipalautorizará (sic) su uso y su ocupación. En caso contrario ordenará al propietario efectuar las modificaciones y, en tanto no se satisfagan, no se autorizará el uso y ocupación de la obra.
+Si del resultado de la inspección practicada se aprecia que la construcción cumple con los requisitos señalados en el artículo anterior, la unidad administrativa municipal autorizará su uso y su ocupación. En caso contrario ordenará al propietario efectuar las modificaciones y, en tanto no se satisfagan, no se autorizará el uso y ocupación de la obra.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE OCTUBRE DE 2012 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 12 DE OCTUBRE DE 2012)</small>
 
-Obras que requieren de autorización por parte de la unidad administrativa municipalen (sic) materia de protección civil
+Obras que requieren de autorización por parte de la unidad administrativa municipal en materia de protección civil
 
 ###### Artículo 382.
 
@@ -5165,13 +5169,13 @@ II. Peritos de obra: profesionistas en las ramas de la arquitectura, la ingenier
 
 III. Peritos supervisores: profesionistas en las ramas de la arquitectura, el urbanismo o cualquiera de las ingenierías afines a los proyectos objeto de la supervisión, con experiencia en la materia, quienes fungen como auxiliares de las autoridades municipales en la verificación de las obras de construcción, urbanización o edificación, con el propósito de que éstas se ejecuten estrictamente de acuerdo a los proyectos y especificaciones aprobados por la unidad administrativa municipal, a la que rendirán periódicamente los informes correspondientes a su función y notificarán, de inmediato, las incidencias que detecten con motivo del ejercicio de la misma.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE OCTUBRE DE 2012 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 Función de los peritos
+
+> <small>(F. DE E., P.O. 12 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 386.
 
-Los peritos de proyecto o de obra serán los responsables técnicos de los proyectos u obras, respectivamente, actuando siempre a peticiónde (sic) los interesados.
+Los peritos de proyecto o de obra serán los responsables técnicos de los proyectos u obras, respectivamente, actuando siempre a petición de los interesados.
 
 Los peritos supervisores tendrán una función de auxilio a las autoridades municipales y actuarán a petición de las mismas.
 
@@ -5251,8 +5255,6 @@ El Registro Público de la Propiedad negará la inscripción de cualquier escrit
 
 ### Capítulo II. División de bienes inmuebles
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE OCTUBRE DE 2012 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 Requisitos para obtener el permiso de división
 
 ###### Artículo 395.
@@ -5269,7 +5271,9 @@ IV. Constancia de apeo y deslinde, en caso de que se requiera;
 
 V. Certificación de clave catastral del inmueble;
 
-VI. Plano del levantamiento topográfico que incluya las vialidades urbanas colindantes, la infraestructura y la propuesta de división, garantizando la servidumbre de paso a los predios resultantes de una división de predios urbanos;
+> <small>(F. DE E., P.O. 12 DE OCTUBRE DE 2012)</small>
+
+VI. Plano del levantamiento topográfico que incluya las vialidades urbanas colindantes, la infraestructura pública existente y la propuesta de división, garantizando la servidumbre de paso a los predios resultantes de una división de predios urbanos;
 
 VII. La constancia de suficiencia del servicio público de energía eléctrica, expedida por la entidad paraestatal correspondiente, tratándose de inmuebles urbanos; y
 
@@ -5451,13 +5455,13 @@ II. Estacionamiento para vehículos de acuerdo a los requerimientos establecidos
 
 III. Instalaciones y equipo de seguridad para la atención de emergencias, en desarrollos en condominio de tipo vertical, en los términos de las disposiciones jurídicas en materia de protección civil.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE OCTUBRE DE 2012 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 Convenios para la ejecución de obras de infraestructura pública
+
+> <small>(F. DE E., P.O. 12 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 412.
 
-El desarrollador estará obligado a ejecutar únicamente las obras de infraestructura pública a que se refieren los dos artículos anteriores, para lo cual podrá celebrar los convenios respectivos con el organismo operador, la entidad paraestatal y la unidad administrativa municipal, previamente a la solicitud del permiso de urbanizacióno (sic) de edificación.
+El desarrollador estará obligado a ejecutar únicamente las obras de infraestructura pública a que se refieren los dos artículos anteriores, para lo cual podrá celebrar los convenios respectivos con el organismo operador, la entidad paraestatal y la unidad administrativa municipal, previamente a la solicitud del permiso de urbanización o de edificación.
 
 Los convenios que se celebren en los términos del párrafo anterior, se sujetarán a las disposiciones del artículo 293 del Código.
 
@@ -5533,13 +5537,13 @@ Las áreas verdes que el desarrollador entregue al Municipio deberán estar fore
 
 Las áreas destinadas para la dotación de equipamiento urbano, serán urbanizadas por el desarrollador de acuerdo a las características del proyecto. La unidad administrativa municipal, determinará el tipo de equipamiento urbano a que se destinarán estas áreas, previo análisis de la propuesta presentada por el desarrollador.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE OCTUBRE DE 2012 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 Ubicación de las áreas de donación
+
+> <small>(F. DE E., P.O. 12 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 419.
 
-La ubicación de las áreas de donación se establecerá atendiendo a las necesidades del fraccionamiento o desarrollo en condominio, respecto a la dotación deequipamiento (sic) urbano y áreas verdes.
+La ubicación de las áreas de donación se establecerá atendiendo a las necesidades del fraccionamiento o desarrollo en condominio, respecto a la dotación de equipamiento urbano y áreas verdes.
 
 Cuando el fraccionamiento o desarrollo en condominio se construya en una superficie de hasta una hectárea, las áreas de donación se entregarán en una sola porción; en caso de que la superficie en la que se lleve a cabo sea mayor a la referida, la unidad administrativa municipal en materia de administración sustentable del territorio determinará, por medio del dictamen técnico correspondiente, las porciones en que el desarrollador entregará tales áreas de donación, procurando que estén consolidadas las áreas verdes de fraccionamientos y desarrollos en condominio.
 
@@ -5569,15 +5573,15 @@ En caso de que la solicitud o la documentación adjunta no cumpla con los requis
 
 Transcurrido el plazo a que se refiere el párrafo anterior sin que el desarrollador haya desahogado la prevención, se desechará la solicitud, dejando a salvo los derechos para que se inicie un nuevo trámite.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE OCTUBRE DE 2012 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 Inicio de las obras
 
 ###### Artículo 423.
 
 Otorgado el permiso de urbanización o de edificación, el desarrollador deberá dar inicio a las obras en un plazo de sesenta días naturales y respetar las especificaciones, normas técnicas, etapas constructivas y programas autorizados.
 
-Con posterioridad a la notificación del permiso de urbanizacióno (sic) de edificación, el desarrollador podrá solicitar la asignación de las claves catastrales de los lotes, viviendas o unidades de propiedad privativa que se establezcan en el proyecto de diseño urbano autorizado, en los términos del reglamento municipal respectivo.
+> <small>(F. DE E., P.O. 12 DE OCTUBRE DE 2012)</small>
+
+Con posterioridad a la notificación del permiso de urbanización o de edificación, el desarrollador podrá solicitar la asignación de las claves catastrales de los lotes, viviendas o unidades de propiedad privativa que se establezcan en el proyecto de diseño urbano autorizado, en los términos del reglamento municipal respectivo.
 
 Fraccionamientos de urbanización progresiva
 
@@ -5657,31 +5661,31 @@ Garantía en los fraccionamientos o desarrollos en condominio que se urbanicen p
 
 Cuando la unidad administrativa municipal autorice que un fraccionamiento o desarrollo en condominio se urbanice por etapas, la garantía se constituirá por cada una de ellas, fijándose como base para su monto, el presupuesto de la misma.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE OCTUBRE DE 2012 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 Publicación del permiso de venta
+
+> <small>(F. DE E., P.O. 12 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 432.
 
-En el permiso de venta se estipularán todas las obligaciones a que debe sujetarse el desarrollador y, a costa de éste, se inscribirá en el Registro Público de la Propiedad que corresponda y se publicará, por una sola vez, en el Periódico Oficial del Gobierno del Estado de Guanajuato y en un diario de circulación localen (sic) el municipio de que se trate.
+En el permiso de venta se estipularán todas las obligaciones a que debe sujetarse el desarrollador y, a costa de éste, se inscribirá en el Registro Público de la Propiedad que corresponda y se publicará, por una sola vez, en el Periódico Oficial del Gobierno del Estado de Guanajuato y en un diario de circulación local en el municipio de que se trate.
 
 Tratándose de desarrollos en condominio, además se deberá presentar para su inscripción la escritura constitutiva del régimen en condominio.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE OCTUBRE DE 2012 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 Conclusión de las obras de urbanización o de edificación
+
+> <small>(F. DE E., P.O. 12 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 433.
 
-Otorgado el permiso de venta, el desarrollador estará obligado a realizar y concluir las obras de urbanización o de edificación,con (sic) apego al programa de ejecución.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE OCTUBRE DE 2012 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+Otorgado el permiso de venta, el desarrollador estará obligado a realizar y concluir las obras de urbanización o de edificación, con apego al programa de ejecución.
 
 Análisis de los expedientes integrados para el trámite de divisiones, fraccionamientos o desarrollos en condominio
 
+> <small>(F. DE E., P.O. 12 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 434.
 
-La unidad administrativa municipal se auxiliará del organismo operador y de las dependencias o entidades competentes para el análisis de los expedientes integrados para el trámite de divisiones, fraccionamientos o desarrollos en condominio, así como en la supervisión y en la entrega-recepción de las obras de urbanización conforme al proyecto.
+La unidad administrativa municipal se auxiliará del organismo operador y de las dependencias o entidades competentes para el análisis de los expedientes integrados para el trámite de divisiones, fraccionamientos o desarrollos en condominio, así como en la supervisión y en la entrega-recepción de las obras de urbanización conforme al proyecto autorizado.
 
 Recepción de las obras
 
@@ -5709,13 +5713,13 @@ II. El estado físico de las obras de urbanización del fraccionamiento o de aqu
 
 III. Las reposiciones y reparaciones a realizar, en caso de que existieran, a efecto de que proceda la recepción definitiva.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE OCTUBRE DE 2012 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 Desperfectos detectados en las obras durante la inspección final
+
+> <small>(F. DE E., P.O. 12 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 438.
 
-Los desperfectos que se detecten en las obras de urbanización del fraccionamiento o en aquéllas destinadas a la prestación de servicios públicos y a la dotación de equipamiento urbano del desarrollo en condominiodurante (sic) la inspección final, serán notificados por la dependencia o entidad competente al desarrollador, dentro de los cinco días hábiles siguientes al cierre del acta respectiva, a efecto de que éste lleve a cabo las reparaciones necesarias dentro del plazo señalado por los mismos.
+Los desperfectos que se detecten en las obras de urbanización del fraccionamiento o en aquéllas destinadas a la prestación de servicios públicos y a la dotación de equipamiento urbano del desarrollo en condominio durante la inspección final, serán notificados por la dependencia o entidad competente al desarrollador, dentro de los cinco días hábiles siguientes al cierre del acta respectiva, a efecto de que éste lleve a cabo las reparaciones necesarias dentro del plazo señalado por los mismos.
 
 En caso de que no sea notificado el requerimiento a que se refiere el párrafo anterior dentro del plazo establecido, se entenderá que no se tiene inconveniente con la recepción de las obras de urbanización, por parte de la dependencia o entidad competente.
 
@@ -5839,13 +5843,13 @@ Permisos de construcción
 
 La unidad administrativa municipal, previo a la terminación de las obras de urbanización de un fraccionamiento o desarrollo en condominio de tipo horizontal que haya obtenido permiso de venta, podrá expedir permisos de construcción en los que se incluirá que el inmueble no podrá ser ocupado hasta en tanto no se concluyan las obras de urbanización y se tramite ante el organismo operador, la entidad paraestatal y la unidad administrativa municipal la contratación de los servicios.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE OCTUBRE DE 2012 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 Consecuencia de la demora en la terminación de las obras de urbanización o de edificación
+
+> <small>(F. DE E., P.O. 12 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 453.
 
-Si concluido el plazo y en su caso la ampliación otorgada en los términos previstos por el Código, el desarrollador no ha terminado las obras de urbanizacióno (sic) de edificación, la unidad administrativa municipal tiene la obligación en un plazo no mayor a diez días hábiles de:
+Si concluido el plazo y en su caso la ampliación otorgada en los términos previstos por el Código, el desarrollador no ha terminado las obras de urbanización o de edificación, la unidad administrativa municipal tiene la obligación en un plazo no mayor a diez días hábiles de:
 
 I. Notificar a las autoridades competentes para que dicten las medidas de seguridad;
 
@@ -5867,13 +5871,13 @@ Levantamiento de la suspensión del permiso de venta
 
 Concluidas las obras de urbanización o de edificación, la autoridad municipal levantará la suspensión del permiso de venta, y el desarrollador deberá continuar con la fase de entrega-recepción del fraccionamiento o desarrollo en condominio o sección autorizada, sujetándose al procedimiento y obligaciones que para tal efecto se señalen en el Código y en las disposiciones jurídicas aplicables.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE OCTUBRE DE 2012 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 Permuta de la superficie de donación
+
+> <small>(F. DE E., P.O. 12 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 456.
 
-En el caso de que el inmueble objeto de un proyecto de fraccionamiento o desarrollo en condominiose (sic) encuentre ubicado en una zona donde exista la dotación de equipamiento urbano, el desarrollador podrá solicitar la permuta de la superficie de donación destinada a la dotación de equipamiento urbano.
+En el caso de que el inmueble objeto de un proyecto de fraccionamiento o desarrollo en condominio se encuentre ubicado en una zona donde exista la dotación de equipamiento urbano, el desarrollador podrá solicitar la permuta de la superficie de donación destinada a la dotación de equipamiento urbano.
 
 El Ayuntamiento podrá permutar hasta el cincuenta por ciento del área de donación destinada a la dotación del equipamiento urbano de un fraccionamiento, a cambio de la construcción de las obras destinadas a este fin, previo dictamen de la unidad administrativa municipal.
 
@@ -6041,13 +6045,13 @@ XII. Que tengan posibilidad o peligro de inestabilidad o deslizamiento del suelo
 
 XIII. Ubicados en las laderas de un volcán.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE OCTUBRE DE 2012 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 Lineamientos que deberán observar las acciones de suelo y vivienda
+
+> <small>(F. DE E., P.O. 12 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 470.
 
-Las acciones de suelo y vivienda financiadas con recursos públicos del Estado de Guanajuato deberán observar los lineamientos que en materia de vivienda popular o económica y de interés social, equipamiento, infraestructura y vinculación con el entorno establezca la Comisión de Vivienda, en coordinación con el Instituto de Planeación,a (sic) fin de considerar los impactos de las mismas, de conformidad con lo establecido en el Código y las demás disposiciones jurídicas.
+Las acciones de suelo y vivienda financiadas con recursos públicos del Estado de Guanajuato deberán observar los lineamientos que en materia de vivienda popular o económica y de interés social, equipamiento, infraestructura y vinculación con el entorno establezca la Comisión de Vivienda, en coordinación con el Instituto de Planeación, a fin de considerar los impactos de las mismas, de conformidad con lo establecido en el Código y las demás disposiciones jurídicas.
 
 Promoción de la calidad de la vivienda
 
@@ -6587,13 +6591,13 @@ El Consejo Estatal de Vivienda es la instancia de consulta y asesoría de la Com
 
 En la integración del Consejo deberán observarse los principios de pluralidad y equidad.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE OCTUBRE DE 2012 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 Integración del Consejo Estatal de Vivienda
+
+> <small>(F. DE E., P.O. 12 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 526.
 
-El Consejo Estatal de Vivienda se integrarácon (sic):
+El Consejo Estatal de Vivienda se integrará con:
 
 I. Un Presidente, que será el Titular de la Secretaría;
 
@@ -6985,8 +6989,6 @@ XIII. Cualquier acto o hecho que contravenga las disposiciones del Código o de 
 
 Los ayuntamientos podrán adicionar, en los reglamentos que emitan, otras conductas constitutivas de infracción a tales ordenamientos.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE OCTUBRE DE 2012 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 Infracciones imputables a los peritos
 
 ###### Artículo 554.
@@ -6995,11 +6997,15 @@ Son infracciones cuya responsabilidad es imputable a peritos:
 
 I. Abstenerse de firmar la bitácora de obra de conformidad con lo señalado por la autoridad;
 
-II. Abstenerse de notificar a la unidad administrativa municipal competente, cualquier incidencia o cambio de proyecto que detecte, en el caso de que no cuente, al momento de la inspección, con el permisocorrespondiente (sic);
+> <small>(F. DE E., P.O. 12 DE OCTUBRE DE 2012)</small>
+
+II. Abstenerse de notificar a la unidad administrativa municipal competente, cualquier incidencia o cambio de proyecto que detecte, en el caso de que no cuente, al momento de la inspección, con el permiso correspondiente;
 
 III. Abstenerse de asentar la información relativa a sus funciones en la bitácora de obra, estando obligado a ello conforme al Código o el reglamento respectivo;
 
-IV. Asentar cualquier dato falso en la bitácora de obra,o (sic) cualquier otro documento utilizado con el propósito de simular el cumplimiento de las obligaciones derivadas del Código o de los reglamentos correspondientes;
+> <small>(F. DE E., P.O. 12 DE OCTUBRE DE 2012)</small>
+
+IV. Asentar cualquier dato falso en la bitácora de obra, o cualquier otro documento utilizado con el propósito de simular el cumplimiento de las obligaciones derivadas del Código o de los reglamentos correspondientes;
 
 V. Abstenerse de notificar a la unidad administrativa municipal que ha dejado de fungir como responsable de una obra;
 
@@ -7053,8 +7059,6 @@ V. Multa equivalente al importe de cincuenta a diez mil días de salario mínimo
 
 VI. Reparación del daño.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE OCTUBRE DE 2012 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 Reglas para la imposición de sanciones
 
 ###### Artículo 558.
@@ -7063,7 +7067,9 @@ En materia de fraccionamientos y desarrollos en condominio, la imposición de la
 
 I. La suspensión, total o parcial, temporal o definitiva se impondrá cuando las obras no se ajusten a los requisitos y especificaciones contenidas en la aprobación de traza o permiso de urbanización o de edificación de acuerdo al tipo de fraccionamiento o desarrollo en condominio de que se trate; o bien cuando se incumpla por segunda ocasión con el avance de obra;
 
-II. La clausura temporal sólo se impondrá cuando no se cuente con la aprobación de traza oel (sic) permiso de urbanización o de edificación; no se ajuste al tipo de fraccionamiento o desarrollo en condominio aprobado; o no sehaya (sic) obtenido el permiso de venta correspondiente; y
+> <small>(F. DE E., P.O. 12 DE OCTUBRE DE 2012)</small>
+
+II. La clausura temporal sólo se impondrá cuando no se cuente con la aprobación de traza o el permiso de urbanización o de edificación; no se ajuste al tipo de fraccionamiento o desarrollo en condominio aprobado; o no se haya obtenido el permiso de venta correspondiente; y
 
 III. La clausura definitiva se impondrá a quien realice actos de división, fraccionamiento, desarrollo en condominio o cualquier otra obra o actividad, en un inmueble ubicado en zona o área no permitida para tal efecto, de acuerdo a lo establecido en los programas que al efecto emita la autoridad competente.
 
@@ -7125,8 +7131,6 @@ En todo tiempo podrán asegurarse bienes del obligado a la reparación del daño
 
 Las resoluciones definitivas dictadas con motivo de la aplicación del Código podrán ser impugnadas mediante los medios de defensa que establece el Código de Procedimiento y Justicia Administrativa para el Estado y los Municipios de Guanajuato.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTOS TRANSITORIOS, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE OCTUBRE DE 2012 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 T r a n s i t o r i o s
 
 Inicio de vigencia
@@ -7171,9 +7175,11 @@ La Secretaría de Desarrollo Social y Humano remitirá a los ayuntamientos, los 
 
 Término para adecuar la estructura de la Procuraduría
 
-Artículo Octavo. El Ejecutivo del Estado en un plazo no mayor a veinte días a partir de la entrada en vigor de este Código, deberá adecuar la estructura orgánica para el funcionamiento de la Procuraduría Ambiental y de Ordenamiento Territorialdel (sic) Estado de Guanajuato.
+Artículo Octavo. El Ejecutivo del Estado en un plazo no mayor a veinte días a partir de la entrada en vigor de este Código, deberá adecuar la estructura orgánica para el funcionamiento de la Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato.
 
-Cualquier referencia a la Procuraduría de Protección al Ambiente, contenida en cualquiera otra disposición jurídica, se entenderá realizada a la Procuraduría Ambiental y de Ordenamiento Territorialdel (sic) Estado de Guanajuato.
+> <small>(F. DE E., P.O. 12 DE OCTUBRE DE 2012)</small>
+
+Cualquier referencia a la Procuraduría de Protección al Ambiente, contenida en cualquiera otra disposición jurídica, se entenderá realizada a la Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato.
 
 La Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato deberá cumplir íntegramente con las obligaciones y compromisos asumidos por la Procuraduría de Protección al Ambiente.
 
