@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-relaciones-64853"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-08"
-last_updated: "2011-09-27"
+last_updated: "2012-10-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64853&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-12-30"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE RELACIONES EXTERIORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE OCTUBRE DE 2012.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 8 de enero de 2009.
 
@@ -153,9 +153,11 @@ XXVII. De Cooperación Técnica y Científica, y
 
 XXVIII. Del Acervo Histórico Diplomático.
 
-I) Desconcentración administrativa:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE OCTUBRE DE 2012)</small>
 
-I. Las Delegaciones;
+I) Órganos Administrativos Desconcentrados:
+
+I. (DEROGADO, D.O.F. 12 DE OCTUBRE DE 2012)
 
 > <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
 
@@ -175,7 +177,11 @@ I. Entre México y Estados Unidos, y
 
 II. Entre México y Guatemala, y entre México y Belize.
 
-K) La Secretaría contará con un Órgano Interno de Control, que se regirá conforme al artículo 52 de este Reglamento.
+> <small>(ADICIONADO, D.O.F. 12 DE OCTUBRE DE 2012)</small>
+
+K) Las Delegaciones.
+
+L) La Secretaría contará con un Órgano Interno de Control, que se regirá conforme al artículo 52 de este Reglamento.
 
 ### CAPÍTULO II. De las facultades del Secretario
 
@@ -317,11 +323,11 @@ Cada una de la (sic) Subsecretarías contará con una coordinación administrati
 
 Al Subsecretario para América del Norte le corresponderá, además de las funciones señaladas en el artículo anterior, coordinar las funciones de la Sección Mexicana de la Comisión Internacional de Límites y Aguas entre México y Estados Unidos, así como emitir lineamientos sobre asuntos políticos bilaterales en materia de límites y aguas internacionales, por sí o por conducto de la Dirección General para América del Norte.
 
-> <small>(REFORMADO, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 12 DE OCTUBRE DE 2012)</small>
 
 ###### ARTÍCULO 10.
 
-Al Subsecretario para América Latina y el Caribe le corresponderá, además de las funciones señaladas en el artículo 8, coordinar las funciones de la Sección Mexicana de las Comisiones Internacionales de Límites y Aguas entre México y Guatemala y entre México y Belize, así como emitir lineamientos sobre asuntos políticos bilaterales en materia de límites y aguas internacionales. Asimismo, fungir como Comisionado Presidencial ante el Proyecto de Integración y Desarrollo de Mesoamérica.
+Al Subsecretario para América Latina y el Caribe le corresponderá, además de las funciones señaladas en el artículo 8, coordinar las funciones de la Sección Mexicana de las Comisiones Internacionales de Límites y Aguas entre México y Guatemala y entre México y Belize, así como emitir lineamientos sobre asuntos políticos bilaterales en materia de límites y aguas internacionales.
 
 ### CAPÍTULO IV. De las atribuciones del Oficial Mayor
 
@@ -911,6 +917,10 @@ X. Mantener mecanismos de diálogo y consulta con actores relevantes de la socie
 
 XI. Planear, preparar, organizar y dar seguimiento a las reuniones que en materia de cooperación sobre seguridad se realicen con los Estados Unidos de América y Canadá;
 
+> <small>(ADICIONADA, D.O.F. 12 DE OCTUBRE DE 2012)</small>
+
+XI bis. Autorizar conforme a los acuerdos bilaterales y en observancia de la normativa interna, la expedición de visas y la acreditación de los funcionarios de agencias extranjeras de seguridad y procuración de justicia adscritos a las embajadas y consulados de los países de América del Norte en México, en coordinación con las unidades administrativas correspondientes;
+
 XII. Promover y difundir, en coordinación con la Dirección General de Comunicación Social, los avances y resultados de los programas de cooperación sobre seguridad regional con América del Norte, y
 
 XIII. Ejercer las demás atribuciones que las disposiciones legales confieran a la Secretaría, que sean afines a las señaladas en las fracciones anteriores o que le encomiende el Secretario.
@@ -1423,21 +1433,25 @@ II. Expedir certificados de nacionalidad mexicana y declaratorias de nacionalida
 
 III. Conceder a los extranjeros las autorizaciones correspondientes para adquirir el dominio de tierras, aguas y sus accesiones; así como para adquirir bienes inmuebles ubicados fuera de la zona restringida, y para la obtención de concesiones de explotación de minas, aguas o combustibles minerales en la República Mexicana;
 
-> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+IV. (DEROGADA, D.O.F. 12 DE OCTUBRE DE 2012)
 
-IV. Otorgar los permisos de uso de denominación o razón social para la constitución de sociedades mexicanas civiles o mercantiles; y para el cambio de denominación o razón social;
+> <small>(REFORMADA, D.O.F. 12 DE OCTUBRE DE 2012)</small>
 
-> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+V. Registrar los siguientes avisos a que se refiere la Ley de Inversión Extranjera:
 
-V. Registrar los avisos a que se refiere el Reglamento de la Ley de Inversión Extranjera y del Registro Nacional de Inversiones Extranjeras;
+a) Aviso de suscripción del convenio previsto en el artículo 27, fracción I de la Constitución Política de los Estados Unidos Mexicanos, en los instrumentos públicos en los que se haga constar la constitución de sociedades que establezcan la cláusula de admisión de extranjeros;
+
+b) Aviso de suscripción del convenio previsto en el artículo 27, fracción I de la Constitución Política de los Estados Unidos Mexicanos, cuando una sociedad modifique la cláusula de exclusión de extranjeros por la de admisión de extranjeros en las sociedades ya constituidas, y
+
+c) Aviso de adquisición de inmuebles por sociedades mexicanas con cláusula de admisión de extranjeros en la zona restringida que se destinen a un fin no residencial.
 
 > <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
 
 VI. Expedir a las instituciones de crédito, los permisos para la constitución o modificación de fideicomisos;
 
-> <small>(ADICIONADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 12 DE OCTUBRE DE 2012)</small>
 
-VI bis. Imponer las sanciones a que se refiere la Ley de Inversión Extranjera y su Reglamento;
+VI bis. Imponer las sanciones a que se refiere la Ley de Inversión Extranjera y su Reglamento, respecto de los asuntos que sean competencia de la Secretaría;
 
 VII. Intervenir en los procedimientos de extradición y tramitar las solicitudes de detención provisional y formal correspondientes conforme a lo que establece la Ley de Extradición Internacional, así como las solicitudes de entrega temporal, de reextradición y de consentimiento a la excepción a la Regla de Especialidad previstos en los tratados y convenios que nuestro país ha celebrado con otros Estados en la materia;
 
@@ -1639,9 +1653,9 @@ c) Se preste un servicio eficiente y de calidad a la ciudadanía;
 
 X. Promover y coordinar el programa de desconcentración administrativa de los servicios que presta la Secretaría, a través del establecimiento de delegaciones y subdelegaciones, que podrán auxiliarse de oficinas de enlace estatales o municipales, mediante la suscripción de convenios de colaboración administrativa, conforme a la normatividad aplicable;
 
-> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 12 DE OCTUBRE DE 2012)</small>
 
-XI. Colaborar con las diversas unidades administrativas de la Secretaría en el desarrollo de sus atribuciones en los estados y municipios, mediante la organización, dirección y supervisión de las delegaciones y subdelegaciones, en las distintas funciones enunciadas en el artículo 46 de este Reglamento Interior;
+XI. Colaborar con las diversas unidades administrativas de la Secretaría en el desarrollo de sus atribuciones en las entidades federativas y municipios, mediante la organización, dirección y supervisión de las delegaciones y subdelegaciones, en las distintas funciones enunciadas en el artículo 51 ter de este Reglamento Interior;
 
 XII. Expedir copias certificadas de los documentos, fichas microfilmadas o documentos digitalizados que obren en sus archivos y proporcionar información al respecto, a petición del Ministerio Público, autoridades jurisdiccionales, administrativas y del trabajo, o bien, cuando sean materia de solicitudes de acceso a la información, y
 
@@ -1905,7 +1919,9 @@ IX. Coordinar y supervisar las funciones y atribuciones de la Unidad de Enlace e
 
 X. Ejercer las demás atribuciones que las disposiciones legales confieran a la Secretaría, que sean afines a las señaladas en las fracciones anteriores o que le encomiende el Secretario.
 
-### CAPÍTULO VIII. De la Desconcentración Administrativa
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 12 DE OCTUBRE DE 2012)</small>
+
+### CAPÍTULO VIII. De los Órganos Administrativos Desconcentrados
 
 ###### ARTÍCULO 43.
 
@@ -1917,51 +1933,11 @@ De acuerdo con las disposiciones relativas, la Secretaría podrá revisar, confi
 
 ###### ARTÍCULO 45.
 
-Al frente de cada una de las delegaciones y subdelegaciones habrá un delegado y subdelegado, respectivamente, quienes serán auxiliados en el ejercicio de sus funciones por los servidores públicos necesarios.
-
-Corresponde a las delegaciones y subdelegaciones de la Secretaría, expedir pasaportes ordinarios y legalizar las firmas de los documentos públicos que deban producir efectos en el extranjero.
+(DEROGADO, D.O.F. 12 DE OCTUBRE DE 2012)
 
 ###### ARTÍCULO 46.
 
-Corresponde a las delegaciones y subdelegaciones localizadas fuera del Distrito Federal, además de las funciones señaladas en el artículo anterior, las siguientes:
-
-I. Conceder permisos y otorgar las constancias, con las modalidades, condiciones y excepciones que fije la Dirección General de Asuntos Jurídicos de la propia Secretaría para:
-
-a) La constitución de asociaciones y sociedades civiles o mercantiles;
-
-b) La modificación de los estatutos de asociaciones y sociedades, civiles o mercantiles, por lo que se refiere al cambio de denominación o razón social;
-
-c) La adquisición de bienes inmuebles por parte de personas físicas y morales extranjeras;
-
-d) La obtención de concesiones de explotación de minas, aguas, combustibles y minerales en la República Mexicana, a sociedades extranjeras o personas físicas extranjeras;
-
-e) La constitución de fideicomisos para la adquisición de bienes inmuebles en zona restringida por parte de personas físicas o morales extranjeras o personas morales mexicanas con cláusula de admisión de extranjeros, y
-
-f) La recepción y control de los avisos, a que se refiere el Reglamento de la Ley de Inversión Extranjera y del Registro Nacional de Inversiones Extranjeras;
-
-II. Coadyuvar en la recepción de solicitudes de extranjeros que deseen obtener la nacionalidad mexicana por la vía de la naturalización y darlos de alta en el Sistema de Nacionalidad y Naturalización en las modalidades y condiciones que fije la Dirección General de Asuntos Jurídicos;
-
-III. Expedir declaratorias de nacionalidad mexicana por nacimiento y certificados de nacionalidad mexicana, con las modalidades, condiciones y excepciones que fije la mencionada Dirección General de Asuntos Jurídicos;
-
-> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
-
-IV. Intervenir de acuerdo a las instrucciones que reciban de la Dirección General de Asuntos Jurídicos, en los procedimientos y juicios en que la Secretaría sea parte, así como en materia de pensiones alimenticias, adopciones y restitución de menores en los términos que lo solicite la Dirección General de Protección a Mexicanos en el Exterior;
-
-V. Tramitar previo dictamen de su procedencia, los exhortos y cartas rogatorias que reciban;
-
-VI. Presentar denuncias y querellas ante el Ministerio Público respecto de los hechos que así lo ameriten;
-
-VII. Expedir copia certificada de los documentos, fichas microfilmadas o documentos digitalizados en materia de expedición de pasaportes, que obren en sus archivos y proporcionar información al respecto, a petición del Ministerio Público, autoridades jurisdiccionales, administrativas y del trabajo, o bien, cuando sean materia de solicitudes de acceso a la información;
-
-VIII. Coadyuvar en la atención de los casos de protección a connacionales en el extranjero que encomiende la Dirección General de Protección a Mexicanos en el Exterior, o en su caso, las representaciones de México en el exterior, así como los que se presenten en la propia delegación o subdelegación;
-
-IX. Apoyar, previa autorización de la Dirección General de Delegaciones, la realización en el interior del país de reuniones mixtas de cooperación económica, comercial, cultural, educativa, técnica y científica que el gobierno federal promueve, coordina o mantiene con o hacia el extranjero, en coordinación con las unidades administrativas competentes;
-
-X. Difundir y promover entre las instituciones de educación superior públicas y privadas, los programas de cooperación cultural, educativa, técnica y científica, especialmente los aspectos relacionados con las becas que ofrecen los gobiernos extranjeros y las oportunidades de cooperación que se presentan en el exterior;
-
-XI. Elaborar programas y presupuestos de operación, así como rendir informes mensuales y someterlos a consideración de la Dirección General de Delegaciones, y
-
-XII. Ejercer las demás atribuciones que las disposiciones legales confieran a la Secretaría, que sean afines a las señaladas en las fracciones anteriores o que les encomiende el Secretario.
+(DEROGADO, D.O.F. 12 DE OCTUBRE DE 2012)
 
 > <small>(REFORMADO, D.O.F. 27 DE SEPTIEMBRE DE 2011)</small>
 
@@ -2089,6 +2065,10 @@ VI. Dictar lineamientos de política exterior en materia de cooperación interna
 
 VII. Representar al Secretario en foros nacionales e internacionales en materia de su competencia;
 
+> <small>(ADICIONADA, D.O.F. 12 DE OCTUBRE DE 2012)</small>
+
+VII bis. Fungir como Comisionado Presidencial ante el Proyecto de Integración y Desarrollo de Mesoamérica;
+
 VIII. Formular el anteproyecto de programa-presupuesto de la Agencia a su cargo, en coordinación con la Dirección General de Programación, Organización y Presupuesto, y de conformidad con las disposiciones legales aplicables;
 
 IX. Autorizar por escrito a las unidades administrativas que se le adscriban, la celebración de convenios y contratos que impliquen obligaciones patrimoniales a cargo de la Secretaría, previamente a su formalización;
@@ -2179,9 +2159,57 @@ VIII. (DEROGADA, D.O.F. 27 DE SEPTIEMBRE DE 2011)
 
 IX. Ejercer las demás funciones que se deriven de los acuerdos y tratados internacionales vigentes.
 
-### CAPÍTULO X. Del Órgano Interno de Control
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F 12 DE OCTUBRE DE 2012)</small>
 
-### CAPÍTULO XI. De la Suplencia de los Servidores Públicos de la Secretaría
+### CAPÍTULO IX BIS. De las Delegaciones
+
+> <small>(ADICIONADO, D.O.F. 12 DE OCTUBRE DE 2012)</small>
+
+ARTÍCULO 51 bis. Al frente de cada una de las delegaciones y subdelegaciones habrá un delegado y subdelegado, respectivamente, quienes serán auxiliados en el ejercicio de sus funciones por los servidores públicos necesarios.
+
+Corresponde a las delegaciones y subdelegaciones de la Secretaría, expedir pasaportes ordinarios y legalizar las firmas de los documentos públicos que deban producir efectos en el extranjero.
+
+> <small>(ADICIONADO, D.O.F. 12 DE OCTUBRE DE 2012)</small>
+
+ARTÍCULO 51 ter. Corresponde a las delegaciones y subdelegaciones localizadas fuera del Distrito Federal, además de las funciones señaladas en el artículo anterior, las siguientes:
+
+I. Conceder permisos y otorgar las constancias, con las modalidades, condiciones y excepciones que fije la Dirección General de Asuntos Jurídicos de la propia Secretaría para:
+
+a) La adquisición de bienes inmuebles fuera de zona restringida por parte de personas físicas y morales extranjeras;
+
+b) La obtención de concesiones para la exploración y explotación de minas y aguas en la República Mexicana, a personas físicas o morales extranjeras, y
+
+c) Recibir y registrar los siguientes avisos a que se refiere la Ley de Inversión Extranjera:
+
+1. Aviso de suscripción del convenio previsto en el artículo 27, fracción I de la Constitución Política de los Estados Unidos Mexicanos, en los instrumentos públicos en los que se haga constar la constitución de sociedades que establezcan la cláusula de admisión de extranjeros;
+
+2. Aviso de suscripción del convenio previsto en el artículo 27, fracción I de la Constitución Política de los Estados Unidos Mexicanos, cuando una sociedad modifique la cláusula de exclusión de extranjeros por la de admisión de extranjeros en las sociedades ya constituidas, y
+
+3. Aviso de adquisición de inmuebles por sociedades mexicanas con cláusula de admisión de extranjeros en la zona restringida que se destinen a un fin no residencial.
+
+II. Coadyuvar en la recepción de solicitudes de extranjeros que deseen obtener la nacionalidad mexicana por la vía de la naturalización y darlos de alta en el sistema electrónico que determine la Dirección General de Asuntos Jurídicos;
+
+III. Expedir declaratorias de nacionalidad mexicana por nacimiento y certificados de nacionalidad mexicana, con las modalidades, condiciones y excepciones que fije la mencionada Dirección General de Asuntos Jurídicos;
+
+IV. Intervenir de acuerdo a las instrucciones que reciban de la Dirección General de Asuntos Jurídicos, en los procedimientos y juicios en que la Secretaría sea parte, así como en materia de pensiones alimenticias, adopciones y restitución de menores en los términos que lo solicite la Dirección General de Protección a Mexicanos en el Exterior;
+
+V. Tramitar previo dictamen de su procedencia, los exhortos y cartas rogatorias que reciban;
+
+VI. Presentar denuncias y querellas ante el Ministerio Público respecto de los hechos que así lo ameriten;
+
+VII. Expedir copia certificada de los documentos, fichas microfilmadas o documentos digitalizados en materia de expedición de pasaportes, que obren en sus archivos y proporcionar información al respecto, a petición del Ministerio Público, autoridades jurisdiccionales, administrativas y del trabajo, o bien, cuando sean materia de solicitudes de acceso a la información;
+
+VIII. Coadyuvar en la atención de los casos de protección a connacionales en el extranjero que encomiende la Dirección General de Protección a Mexicanos en el Exterior, o en su caso, las representaciones de México en el exterior, así como los que se presenten en la propia delegación o subdelegación;
+
+IX. Apoyar, previa autorización de la Dirección General de Delegaciones, la realización en el interior del país de reuniones mixtas de cooperación económica, comercial, cultural, educativa, técnica y científica que el gobierno federal promueve, coordina o mantiene con o hacia el extranjero, en coordinación con las unidades administrativas competentes;
+
+X. Difundir y promover entre las instituciones de educación superior públicas y privadas, los programas de cooperación cultural, educativa, técnica y científica, especialmente los aspectos relacionados con las becas que ofrecen los gobiernos extranjeros y las oportunidades de cooperación que se presentan en el exterior;
+
+XI. Elaborar programas y presupuestos de operación, así como rendir informes mensuales y someterlos a consideración de la Dirección General de Delegaciones, y
+
+XII. Ejercer las demás atribuciones que las disposiciones legales confieran a la Secretaría, que sean afines a las señaladas en las fracciones anteriores o que les encomiende el Secretario.
+
+### CAPÍTULO X. Del Órgano Interno de Control
 
 ###### ARTÍCULO 52.
 
@@ -2195,7 +2223,7 @@ En el caso específico de los miembros del Servicio Exterior Mexicano, el Titula
 
 La Secretaría proporcionará al Titular del Órgano Interno de Control los recursos humanos y materiales que requiera para la atención de los asuntos a su cargo. Asimismo, los servidores públicos de la Secretaría y sus órganos desconcentrados están obligados a proporcionar el auxilio necesario al Titular del Órgano Interno de Control para el desempeño de sus facultades.
 
-### CAPÍTULO XII. De la Comisión Consultiva de Política Exterior y de la Comisión de Personal del Servicio Exterior Mexicano
+### CAPÍTULO XI. De la Suplencia de los Servidores Públicos de la Secretaría
 
 ###### ARTÍCULO 53.
 
@@ -2234,6 +2262,8 @@ Los Delegados y Subdelegados serán suplidos en sus ausencias por el servidor p�
 ###### ARTÍCULO 57.
 
 Las ausencias del Contralor Interno, así como las de los titulares de las áreas de Responsabilidades, Auditoría y Quejas, serán suplidas conforme a lo previsto por el artículo 88 del Reglamento Interior de la Secretaría de la Función Pública.
+
+### CAPÍTULO XII. De la Comisión Consultiva de Política Exterior y de la Comisión de Personal del Servicio Exterior Mexicano
 
 ###### ARTÍCULO 58.
 
@@ -2344,3 +2374,7 @@ SEXTO. Las modificaciones a la estructura orgánica que deriven de la entrada en
 SÉPTIMO. Los cambios en la estructura y programas para atender el contenido del presente Decreto, serán cubiertos con el presupuesto autorizado a la Secretaría de Relaciones Exteriores.
 
 OCTAVO. La Oficialía Mayor de la Secretaría de Relaciones Exteriores realizará las acciones necesarias para que los recursos humanos, financieros y materiales asignados a las unidades o áreas que se modifican o desaparecen, sean transferidos a las unidades que correspondan, en los términos del presente Decreto y de conformidad con las normas aplicables y disponibilidad presupuestaria.
+
+D.O.F. 12 DE OCTUBRE DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
