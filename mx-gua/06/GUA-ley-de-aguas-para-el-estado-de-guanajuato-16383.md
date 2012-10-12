@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-aguas-para-el-estado-de-guanajuato-16383"
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-26"
-last_updated: "2012-09-25"
+last_updated: "2012-10-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "GUA"
 ---
 # LEY DE AGUAS PARA EL ESTADO DE GUANAJUATO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE OCTUBRE DE 2012 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE AGUAS PARA EL ESTADO DE GUANAJUATO
 
 > <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL CÓDIGO TERRITORIAL PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, PUBLICADO EN EL P.O. DE 25 DE SEPTIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO A PARTIR DEL 1 DE ENERO DE 2013.</small>
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2012.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 12 DE OCTUBRE DE 2012.</small>
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 26 de mayo de 2000.
 
@@ -1165,8 +1165,6 @@ Artículo Cuarto.- Los Ayuntamientos deberán adecuar sus reglamentos a las disp
 
 Artículo Quinto.- El Comité Consultivo de la Cultura del Agua deberá ser constituido dentro de los ciento ochenta días siguientes a la entrada en vigor del presente decreto.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTOS TRANSITORIOS, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE OCTUBRE DE 2012 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 P.O. 25 DE SEPTIEMBRE DE 2012.
 
 Inicio de vigencia
@@ -1213,7 +1211,9 @@ Término para adecuar la estructura de la Procuraduría
 
 Artículo Octavo. El Ejecutivo del Estado en un plazo no mayor a veinte días a partir de la entrada en vigor de este Código, deberá adecuar la estructura orgánica para el funcionamiento de la Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato.
 
-Cualquier referencia a la Procuraduría de Protección al Ambiente, contenida en cualquiera otra disposición jurídica, se entenderá realizada a la Procuraduría Ambiental y de Ordenamiento Territorialdel (sic) Estado de Guanajuato.
+(F. DE E., P.O. 12 DE OCTUBRE DE 2012
+
+Cualquier referencia a la Procuraduría de Protección al Ambiente, contenida en cualquiera otra disposición jurídica, se entenderá realizada a la Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato.
 
 La Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato deberá cumplir íntegramente con las obligaciones y compromisos asumidos por la Procuraduría de Protección al Ambiente.
 
