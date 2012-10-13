@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2012-09-27"
+last_updated: "2012-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2012.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -2755,11 +2755,17 @@ El adoptante y el adoptado tienen obligación de darse alimentos, en los casos e
 
 Toda persona que hubiere recibido alimentos de una institución ya sea pública, descentralizada o privada, como pueden ser hospicios, orfelinatos, casas de cuna y otras afines, tiene la obligación a su vez de proporcionar alimentos a otro interno de esas instituciones y, en caso de que ya hubieren desaparecido, a otra similar. El Consejo de Familia o el Agente de la Procuraduría Social, indistintamente, podrán ejercitar tal reclamación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE OCTUBRE DE 2012)</small>
+
 ###### Art. 439.
 
-Los alimentos comprenden el recibir los elementos de subsistencia material y educativa, como son: la comida, el vestido, la habitación y la asistencia en casos de enfermedad. Respecto de los menores, los alimentos comprenden, además, los gastos para la educación de jardín de niños, primaria y secundaria del acreedor alimentario y para proporcionarle algún oficio, arte o profesión honestos y adecuados a sus capacidades, potencialidades y circunstancias personales.
+Los alimentos comprenden el recibir los elementos de subsistencia material y educativa, como son: la comida, el vestido, la habitación y la asistencia en casos de enfermedad y, en su caso, los gastos de embarazo y parto. Respecto de los menores, los alimentos comprenden, además, los gastos para la educación de jardín de niños, primaria y secundaria del acreedor alimentario y para proporcionarle algún oficio, arte o profesión honestos y adecuados a sus capacidades, potencialidades y circunstancias personales.
 
 También comprenden las atenciones a las necesidades psíquica, afectiva y de sano esparcimiento y en su caso, los gastos de funerales.
+
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2012)</small>
+
+Definida la paternidad conforme lo establece este Código, toda mujer tiene derecho a exigir al padre del menor los gastos de embarazo y del parto.
 
 ###### Art. 440.
 
@@ -18138,5 +18144,9 @@ P.O. 27 DE DICIEMBRE DE 2011.
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 27 DE SEPTIEMBRE DE 2012.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 13 DE OCTUBRE DE 2012.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
