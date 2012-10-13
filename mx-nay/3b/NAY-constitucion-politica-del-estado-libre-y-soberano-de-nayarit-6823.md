@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2012-06-23"
+last_updated: "2012-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2012.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -65,21 +65,23 @@ La ley establecerá las bases y lineamientos a los cuales habrá de sujetarse el
 
 El Territorio del Estado es el que le corresponde conforme a la Constitución Federal, y se divide en los siguientes municipios: Acaponeta, Ahuacatlán, Amatlán de Cañas, Bahía de Banderas, Compostela, El Nayar, Huajicori, Ixtlán del Río, Jala, La Yesca, Rosamorada, Ruiz, San Blas, San Pedro Lagunillas, Santiago Ixcuintla, Santa María del Oro, Tecuala, Tepic, Tuxpan y Xalisco. Igualmente, forman parte del Territorio del Estado las islas que le corresponden conforme al Artículo 48o. de la Constitución General de la República.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2012)</small>
 
 ###### Art. 4.
 
-La ley establecerá los límites, extensiones territoriales y colindancias entre las municipalidades, para la preservación de su integridad física conservarán la extensión y límites que actualmente tienen, atendiendo a lo dispuesto por el artículo 5 y las fracciones III y IV del artículo 47 de esta Constitución.
+La ley establecerá los límites, extensiones territoriales y colindancias entre las municipalidades, para la preservación de su integridad física conservarán la extensión y límites que actualmente tienen, atendiendo a lo dispuesto por esta Constitución.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE OCTUBRE DE 2012)</small>
 
 ###### Art. 5.
 
-Los municipios podrán convenir entre sí sus respectivos límites; dichos arreglos no tendrán efecto sin la aprobación del Congreso del Estado.
+Los municipios podrán convenir entre sí y en cualquier momento sus respectivos límites; dichos arreglos no tendrán efecto sin la aprobación del Congreso del Estado.
 
-A falta de acuerdo, cualquier municipio podrá acudir ante el Congreso del Estado, el cual actuará en términos del artículo 47, fracción IV, de ésta Constitución.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2012)</small>
 
-Las resoluciones del Congreso del Estado serán definitivas e inatacables. La Sala Constitucional-Electoral del Tribunal Superior de Justicia del Estado conocerá a través de controversia constitucional, a instancia de parte interesada, de los conflictos derivados de la ejecución del correspondiente decreto emitido por el Congreso del Estado.
+A falta de acuerdo, cualquier municipio podrá acudir ante la Sala Constitucional-Electoral del Tribunal Superior de Justicia del Estado, la que conocerá de los conflictos por límites territoriales en la vía contenciosa, en términos de lo dispuesto por el artículo 91 de esta Constitución. Sus resoluciones serán inatacables.
+
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 13 DE OCTUBRE DE 2012)</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE JUNIO DE 2012)</small>
 
@@ -205,11 +207,15 @@ XIII.- Los derechos sociales que a continuación se enuncian:
 
 4.- Todo individuo tiene derecho a recibir educación.
 
-a) El estado y los municipios están obligados a impartir la educación básica y los padres de familia o tutores a enviar a sus hijos para que la reciban.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2012)</small>
+
+a) El Estado y los Municipios están obligados a impartir la educación preescolar, primaria, secundaria y media superior, y los padres de familia o tutores a enviar a sus hijos para que la reciban.
 
 b) La educación que se imparta será integral, gratuita, laica, científica, democrática y fortalecerá la identidad nacional y local, impulsará la formación de valores y promoverá el desarrollo humano.
 
-c) Corresponde al estado fortalecer y promover la educación inicial, media superior y superior.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2012)</small>
+
+c) Corresponde al estado fortalecer y promover la educación inicial y superior.
 
 d) En los planes y programas oficiales se promoverá la incorporación de contenidos regionales para difundir la cultura nacional y local así como la educación bilingüe e intercultural de los grupos étnicos de la entidad permitiendo el combate al rezago educativo.
 
@@ -237,6 +243,58 @@ Toda investigación biomédica se orientará preferentemente a aliviar las enfer
 
 XIV.- Todas las personas gozarán de los derechos humanos y de las garantías consagrados en la Constitución Política de los Estados Unidos Mexicanos, en el presente texto constitucional local, así como los contenidos en los Tratados Internacionales de los que el Estado Mexicano sea parte, cuyo ejercicio no podrá restringirse ni suspenderse, salvo los casos y bajo las condiciones previstas en la Constitución Federal.
 
+> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2012)</small>
+
+XV.- No podrá librarse orden de aprehensión contra persona alguna, sino por la autoridad judicial y sin que preceda denuncia o querella de un hecho determinado que la ley señale como delito, sancionado cuando menos con pena privativa de libertad y obren datos que establezcan que se ha cometido ese hecho y que exista la probabilidad de que el indiciado lo cometió o participó en su comisión.
+
+En todo proceso de orden penal, el imputado, la víctima o el ofendido tendrán los derechos y las garantías que señala la Constitución Política de los Estados Unidos Mexicanos, los Tratados internacionales en materia de derechos fundamentales de los que el Estado Mexicano sea parte, el presente texto constitucional local y las leyes penales del Estado.
+
+El ejercicio de la acción penal ante los órganos jurisdiccionales, corresponde al Ministerio Público. Los particulares podrán ejercer la acción penal ante la autoridad judicial en los casos que determine la ley.
+
+El Ministerio Público podrá considerar criterios de oportunidad para el ejercicio de la acción penal, de acuerdo a los principios de mínima intervención, presunción de inocencia y proporcionalidad, en los supuestos y condiciones que señale la ley.
+
+El Poder Judicial contará con jueces que resolverán, en forma inmediata y por cualquier medio, las solicitudes de medidas cautelares, providencias precautorias y técnicas de investigación de la autoridad, que requieran control judicial, garantizando los derechos de los indiciados y de las víctimas u ofendidos. Deberá existir un registro fehaciente de todas las comunicaciones entre jueces y Ministerio Público y demás autoridades competentes.
+
+Toda persona en el Estado tiene derecho a resolver sus diferencias mediante métodos alternos para la solución de controversias, en la forma y términos establecidos por las leyes. En materia penal, las leyes regularán su aplicación, asegurarán la reparación del daño y establecerán los casos en los que se requerirá supervisión judicial.
+
+> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2012)</small>
+
+XVI.- Ninguna detención ante autoridad judicial podrá exceder del plazo de setenta y dos horas, a partir de que el indiciado sea puesto a su disposición, sin que se justifique con un auto de vinculación al proceso en el que se expresará: el delito que se le impute al acusado; el lugar, tiempo y circunstancias de ejecución, así como los datos que establezcan que se ha cometido un hecho que la ley señale como delito y que exista la probabilidad de que el indiciado lo cometió o participó en su comisión.
+
+El Ministerio Público sólo podrá solicitar al juez la prisión preventiva cuando otras medidas cautelares no sean suficientes para garantizar la comparecencia del imputado en el juicio, el desarrollo de la investigación, la protección de la víctima, de los testigos o de la comunidad, así como cuando el imputado esté siendo procesado o haya sido sentenciado previamente por la comisión de un delito doloso. La ley señalará los términos en que proceda la prisión preventiva oficiosa, de conformidad a los casos y finalidades señaladas expresamente en la Constitución Federal.
+
+La ley determinará los casos en los cuales el juez podrá revocar la libertad de los individuos vinculados a proceso. El plazo para dictar el auto de vinculación a proceso podrá prorrogarse únicamente a petición del indiciado, en la forma que señale la Ley.
+
+Todo proceso se seguirá forzosamente por el delito o delitos señalados en el auto de vinculación a proceso.
+
+Toda pena deberá ser proporcional al delito que sancione y al bien jurídico afectado. La imposición de las penas, su modificación y duración son propias y exclusivas del Poder Judicial, quien en forma concurrente con el Poder Ejecutivo vigilará que la política penitenciaria se ejecute como medio para lograr la reinserción del sentenciado a la sociedad.
+
+> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2012)</small>
+
+XVII.- El proceso penal será acusatorio y oral. Se regirá por los principios de publicidad, contradicción, concentración, continuidad, inmediación e igualdad procesal.
+
+La etapa de juicio oral se celebrará ante un Juez o Tribunal que no haya conocido del caso previamente, sujetándose a los principios generales siguientes:
+
+1.- Tendrá por objeto el esclarecimiento de los hechos, proteger al inocente, procurar que el culpable no quede impune y que los daños causados por el delito se reparen;
+
+2.- Toda audiencia se desarrollará en presencia del juez, sin que pueda delegar en ninguna persona el desahogo y la valoración de las pruebas, la cual deberá realizarse de manera libre y lógica;
+
+3.- Para los efectos de la sentencia sólo se considerarán como prueba aquellas que hayan sido desahogadas en la audiencia de juicio. La ley establecerá las excepciones y los requisitos para admitir en juicio la prueba anticipada, que por su naturaleza requiera desahogo previo;
+
+4.- El juicio se celebrará ante un juez que no haya conocido del caso previamente. La presentación de los argumentos y los elementos probatorios se desarrollará de manera pública, contradictoria y oral;
+
+5.- La carga de la prueba para demostrar la culpabilidad corresponde a la parte acusadora, conforme lo establezca el tipo penal. Las partes tendrán igualdad procesal para sostener la acusación o la defensa, respectivamente;
+
+6.- Ningún juzgador podrá tratar asuntos que estén sujetos a proceso con cualquiera de las partes sin que esté presente la otra, respetando en todo momento el principio de contradicción, salvo las excepciones que establece esta Constitución;
+
+7.- Una vez iniciado el proceso penal, siempre y cuando no exista oposición del inculpado, se podrá decretar su terminación anticipada en los supuestos y bajo las modalidades que determine la ley. Si el imputado reconoce ante la autoridad judicial, voluntariamente y con conocimiento de las consecuencias, su participación en el delito y existen medios de convicción suficientes para corroborar la imputación, el juez citará a audiencia de sentencia. La ley establecerá los beneficios que se podrán otorgar al inculpado cuando acepte su responsabilidad;
+
+8.- El Juez sólo condenará cuando exista convicción de la culpabilidad del procesado. Las sentencias que pongan fin al procedimiento oral, deberán ser explicadas en audiencia pública, previa citación a las partes.
+
+9.- Cualquier prueba obtenida con violación de derechos fundamentales será nula; y
+
+10.- Los principios previstos en este artículo, se observarán también en las audiencias preliminares al juicio.
+
 ###### Art. 8.
 
 Las leyes establecerán las sanciones correspondientes a los atentados en contra de estos derechos los cuales tienen como límites el interés legítimo del Estado y los derechos iguales de los demás hombres, según se encuentran formulados en esta Constitución, en la de la República y en las leyes secundarias.
@@ -251,9 +309,9 @@ I. Respetar y observar el estricto cumplimiento de la Constitución General de l
 
 II. A prestar auxilio a las autoridades cuando para ello sean legalmente requeridos.
 
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 1993)</small>
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2012)</small>
 
-III. A recibir la educación primaria y secundaria haciendo que sus hijos o pupilos concurran a las escuelas públicas o privadas en la forma prevenida por las Leyes y conforme a los planes y programas que de acuerdo con ellas se expidan.
+III. Recibir la educación preescolar, primaria, secundaria y media superior haciendo que sus hijos o pupilos concurran a las escuelas públicas o privadas en la forma prevenida por las Leyes y conforme a los planes y programas que de acuerdo con ellas se expidan.
 
 > <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 1943)</small>
 
@@ -625,11 +683,11 @@ A estas sesiones extraordinarias, precederá una Junta Preparatoria.
 
 La celebración de sesiones extraordinarias no impedirá la elección del Congreso en el tiempo que deba hacerse, y el nuevo seguirá ocupándose del asunto o asuntos de que se ocupaba el saliente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE OCTUBRE 2012)</small>
 
 ###### Art. 42.
 
-El 17 de diciembre de cada año, el gobernador presentará al Congreso un informe por escrito, en el que manifieste el estado general que guarda la administración pública del Estado. El informe relativo al primer año de ejercicio constitucional deberá ser presentado en la fecha antes señalada, correspondiente al año posterior del inicio de su encargo.
+El 17 de noviembre de cada año, el gobernador presentará al Congreso un informe por escrito, en el que manifieste el estado general que guarda la administración pública del Estado. El informe relativo al primer año de ejercicio constitucional deberá ser presentado en la fecha antes señalada, correspondiente al año posterior del inicio de su encargo.
 
 > <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2008)</small>
 
@@ -711,13 +769,11 @@ g) Las relaciones de trabajo entre el Estado y Municipio con sus trabajadores, c
 
 h) Todos los aspectos previstos por las Constituciones federal y local, y leyes que de ellas emanen.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE 2012)</small>
 
-III. Crear nuevas Municipalidades y modificar los límites de los ya existentes, en los términos y condiciones previstos en la ley de la materia.
+III. Crear nuevas Municipalidades y reconocer en la legislación los límites de las ya existentes, en los términos y condiciones previstos en la ley de la materia;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
-
-IV. Resolver en forma definitiva los conflictos sobre límites territoriales de los municipios que así lo soliciten, mediante decreto aprobado por el voto de la mayoría calificada del Congreso.
+IV. (DEROGADA, P.O. 13 DE OCTUBRE DE 2012)
 
 > <small>(REFORMADA, P.O. 17 DE MAYO DE 2004)</small>
 
@@ -1119,7 +1175,9 @@ VIII.- Convocar a la Legislatura a sesiones extraordinarias.
 
 IX.- Tomar parte sin voto en la discusión de las Leyes o Decretos o comisionar para ello ante el Congreso del Estado al Secretario General de Gobierno o a cualquiera otra persona.
 
-X.- Hacer cumplir los fallos y sentencias de los Tribunales y prestar a éstos el auxilio que necesiten para el ejercicio expedito de sus funciones.
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE 2012)</small>
+
+X. Hacer cumplir los fallos y sentencias de los tribunales y prestar a estos el auxilio que necesiten para el ejercicio expedito de sus funciones, además de establecer las medidas correspondientes para la organización del sistema penitenciario basado en el respeto a los derechos humanos, el trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medios para lograr la reinserción del sentenciado a la sociedad.
 
 XI.- (DEROGADA, P.O. 5 DE SEPTIEMBRE DE 1998)
 
@@ -1537,9 +1595,17 @@ IV.- De las cuestiones de inconstitucionalidad planteadas por cualquier autorida
 
 V.- Conocer y resolver, en los términos de la ley respectiva, del juicio de protección de derechos fundamentales, por actos u omisiones que vulneren los derechos reconocidos por esta Constitución, provenientes de cualquier autoridad;
 
-VI.- Resolver los medios de impugnación en materia electoral en los términos que disponga la ley de la materia; y
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE 2012)</small>
 
-VII.- Los demás que con base en la Constitución Federal, esta Constitución y demás leyes, se le confieran.
+VI.- De los medios de impugnación en materia electoral en los términos que disponga la ley de la materia;
+
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2012)</small>
+
+VII.- De los conflictos por límites territoriales entre dos o más municipios del estado en los términos que establezca la ley de la materia, y
+
+> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2012)</small>
+
+VIII.- Los demás que con base en la Constitución Federal, esta Constitución y demás leyes, se le confieran.
 
 > <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 6 DE OCTUBRE DE 2010)</small>
 
@@ -1629,11 +1695,13 @@ El Presidente de la Comisión para la Defensa de los Derechos Humanos del Estado
 
 ### CAPITULO IV. De la Defensoría de Oficio
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE OCTUBRE DE 2012)</small>
 
 ###### Art. 102.
 
-El servicio de defensoría de oficio del fuero común estará a cargo del Poder Ejecutivo quien obligatoriamente deberá proveer en forma gratuita la prestación de asesoría y asistencia legal a quienes carezcan de recursos económicos para contratar servicios profesionales y para los fines que expresamente dispone la Constitución General de la República.
+El Estado garantizará la existencia de un servicio de defensoría pública del fuero común de calidad, que estará a cargo del Poder Ejecutivo, quien obligatoriamente deberá proveer en forma gratuita la prestación de asesoría y asistencia legal a quienes carezcan de recursos económicos para contratar servicios profesionales y para los fines que expresamente dispone la Constitución General de la República, y asegurará las condiciones de un servicio profesional de carrera para los defensores.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2010)</small>
 
 La Ley organizará la institución, fijará su estructura administrativa, los requisitos para desempeñarse como defensor de oficio y las bases de coordinación con las instituciones educativas y asociaciones o colegios de profesionistas.
 
@@ -2174,6 +2242,10 @@ Esta Constitución no perderá su fuerza y vigor aún cuando por trastornos se h
 ###### Art. 131.
 
 Esta Constitución puede ser adicionada o reformada. Las proposiciones que tengan este objeto deberán ser presentadas por cualquier diputado integrante de la legislatura o ser iniciadas por el Ejecutivo del Estado, necesitándose para su aprobación el voto afirmativo de las dos terceras partes de los diputados miembros del Congreso, así como también de las dos terceras partes de los Ayuntamientos.
+
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2012)</small>
+
+A partir de la recepción del proyecto de reforma o adición a esta Constitución que les remita el Congreso a los Ayuntamientos, contarán con un plazo de treinta días hábiles para emitir su voto y hacerlo del conocimiento de la Legislatura; en caso de omisión se computará en sentido aprobatorio.
 
 ###### Art. 132.
 
@@ -3296,5 +3368,21 @@ Artículo Segundo.- Para los efectos del segundo párrafo de la fracción VI del
 Artículo Tercero.- A efecto de garantizar el cumplimiento de lo dispuesto por el artículo 101 del presente decreto, dentro de un plazo que no excederá de los seis meses posteriores a su entrada en vigencia, la Legislatura procederá a realizar las adecuaciones a las leyes correspondientes.
 
 Artículo Cuarto.- Para los efectos previstos por el párrafo quinto del artículo 101 del presente decreto relativo a la expectativa de reelección del Presidente de la Comisión de Defensa de los Derechos Humanos, tendrá vigencia a partir del 1 de enero del año 2014.
+
+Artículo Quinto.- Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente decreto a los Ayuntamientos de la entidad.
+
+P.O. 13 DE OCTUBRE DE 2012.
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Nayarit, con excepción de lo dispuesto en el artículo transitorio siguiente.
+
+Artículo Segundo.- El sistema procesal penal acusatorio previsto en la fracción XVII del artículo 7º de la Constitución, entrará en vigor según lo establezca el Poder Legislativo en la legislación secundaria correspondiente, sin que pueda exceder del plazo señalado en la Constitución Federal en sus disposiciones transitorias.
+
+En consecuencia, los poderes Ejecutivo, Legislativo y Judicial, en el ámbito de sus respectivas competencias, deberán expedir, poner en vigor y ejecutar, las modificaciones u ordenamientos legales que sean necesarios a fin de incorporar el sistema procesal penal acusatorio en la entidad, adoptando el sistema en la modalidad que determinen, sea regional o por tipo de delito.
+
+En el momento en que se publiquen los ordenamientos legales a que se refiere el párrafo anterior y a efecto de que entren en vigor los mismos, el Poder Legislativo deberá emitir una declaratoria mediante bando solemne, que se publicará en Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, en la que señale expresamente que el sistema penal acusatorio ha sido incorporado en dichos ordenamientos y, en consecuencia, que las garantías que consagra esta Constitución y la General de la República, empezarán a regular la forma y términos en que se substanciarán los procedimientos penales.
+
+Artículo Tercero.- Los procedimientos penales iniciados con anterioridad a la entrada en vigor del nuevo sistema procesal penal acusatorio previsto en la fracción XVII del artículo 7º de esta Constitución, serán concluidos conforme a las disposiciones vigentes con anterioridad a dicho acto.
+
+Artículo Cuarto.- El Congreso del Estado, deberá realizar las adecuaciones pertinentes a la legislación secundaria en materia de límites territoriales relacionadas con el presente decreto, dentro de un plazo que no excederá de treinta días hábiles contados a partir de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Nayarit.
 
 Artículo Quinto.- Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente decreto a los Ayuntamientos de la entidad.
