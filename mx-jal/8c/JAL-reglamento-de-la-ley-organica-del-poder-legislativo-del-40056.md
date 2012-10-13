@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40056"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2012-08-16"
+last_updated: "2012-10-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40056&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2012.
 
 Reglamento publicado en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 19 de junio de 2004.
 
@@ -1089,11 +1089,15 @@ XXXII. Disponer lo conducente a efecto de diseñar, desarrollar y mantener los s
 
 XXXIII. Foliar con el número progresivo anual que corresponda, las iniciativas presentadas en la Asamblea y acusar de recibo a los autores; y (sic)
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2012)</small>
 
-XXXIV. Traducir la Legislación del Estado de Jalisco, al braile y a las lenguas Náhuatl y Wixarica, y ponerla a disposición de la sociedad a través de los módulos de información y enlace establecidos por el Congreso del Estado, en las distintas regiones de la entidad; conforme a la disponibilidad presupuestal; y
+XXXIV. Traducir la legislación del estado de Jalisco al Braille y a las lenguas náhuatl y wixárica, y ponerla a disposición de la sociedad a través de los módulos de información y enlaces establecidos por el Congreso del Estado en las distintas regiones de la entidad, conforme a la disponibilidad presupuestal;
 
-XXXV. Las demás que señale este reglamento o acuerde la Asamblea.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE OCTUBRE DE 2012)</small>
+
+XXXV. La elaboración, publicación y archivo de la Gaceta Parlamentaria del Congreso del Estado, y
+
+XXXVI. Las demás que señale este reglamento o acuerde la Asamblea.
 
 ###### Artículo 107.
 
@@ -1139,7 +1143,9 @@ I. La planeación y programación técnica de las sesiones; elaborar el protocol
 
 II. La realización de minutas y su remisión correspondiente;
 
-III. La elaboración de las actas de la sesión y del Diario de los Debates;
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2012)</small>
+
+III. La elaboración de las actas de las sesiones, la Gaceta Parlamentaria y del Diario de los Debates;
 
 IV. Asistir a todas las sesiones de la Asamblea, excepto en los casos que señale la propia ley;
 
@@ -2153,6 +2159,10 @@ III. Adjudicación directa: cuyos montos serán aquellos que sean iguales o supe
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
+### Capítulo Único
+
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 182.
 
 1. Las personas que hubieren participado en algún procedimiento de concurso o invitación a cotizar y que consideren afectados sus legítimos intereses por no haberse apegado el procedimiento de adquisición a lo estipulado por el presente ordenamiento, los Acuerdos Legislativos aplicables o los términos de la respectiva convocatoria, podrán inconformarse por escrito ante la Comisión, explicando detalladamente las causas que motivan sus discrepancias y las conductas indebidas en que, a su juicio, podría haber incurrido cualesquier servidor público por los actos impugnados.
@@ -2214,6 +2224,52 @@ II. Con la suspensión no se cause perjuicio al interés público y no se contra
 I. Declarar la nulidad de todo o parte del procedimiento a partir del acto o actos irregulares, estableciendo las directrices necesarias para que el mismo se realice conforme a la ley; o
 
 II. La declaración de improcedencia de la inconformidad.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE OCTUBRE DE 2012)</small>
+
+## TÍTULO DÉCIMO CUARTO. De la Gaceta Parlamentaria
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 190.
+
+La Gaceta Parlamentaria es el órgano oficial de difusión de las actividades de los órganos del Poder Legislativo del Estado.
+
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 191.
+
+La Gaceta Parlamentaria se publicará los días hábiles de forma electrónica en la página oficial del Poder Legislativo del Estado y además por escrito los días hábiles inmediatos anteriores a las sesiones ordinarias del Congreso del Estado.
+
+Las ediciones de la Gaceta Parlamentaria no son sujetas de modificación una vez cerradas y publicadas.
+
+La Dirección de Biblioteca, Archivo y Editorial debe conservar cuando menos dos ejemplares de cada edición impresa de la Gaceta Parlamentaria para el archivo y dos para consulta al público, así como almacenar las versiones electrónicas de la misma para los mismos efectos.
+
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 192.
+
+Deberán publicarse en la Gaceta Parlamentaria los siguientes documentos íntegros:
+
+l. las convocatorias, los órdenes del día y las actas de las sesiones de la Asamblea y de las reuniones de las comisiones y comités del Congreso del Estado;
+
+II. Las comunicaciones recibidas por el Congreso del Estado;
+
+III. Las iniciativas de ley, decreto y acuerdo legislativo presentadas ante el Congreso del Estado;
+
+IV. Los dictámenes emitidos por comisiones y comités, así como sus votos particulares;
+
+V. los acuerdos legislativos y minutas aprobados por el Congreso del Estado;
+
+VI. Los acuerdos internos de las comisiones y comités, y
+
+VII. Los demás que ordene la Asamblea, la Junta de Coordinación Política o la Mesa Directiva o que autorice el Secretario General.
+
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 193.
+
+Para la publicación de documentos en la Gaceta Parlamentaria deberán presentarse los mismos por escrito firmado y en formato digital, en los plazos, términos y condiciones que señalen los lineamientos técnicos que al efecto expida el Secretario General.
 
 T R A N S I T O R I O S
 
@@ -2382,3 +2438,9 @@ P.O. 8 DE OCTUBRE DE 2011.
 P.O. 16 DE AGOSTO DE 2012.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 13 DE OCTUBRE DE 2012.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. El Congreso del Estado, a través de la Secretaría General, deberá realizar las acciones necesarias para que, a más tardar el 1.° de enero de 2013, se edite la versión impresa de la Gaceta Parlamentaria.
