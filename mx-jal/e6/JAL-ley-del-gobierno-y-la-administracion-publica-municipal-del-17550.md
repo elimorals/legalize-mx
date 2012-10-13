@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2012-08-16"
+last_updated: "2012-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2012.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -1375,9 +1375,9 @@ I. VERIFICAR POR SÍ MISMO O POR MEDIO DE SUS SUBALTERNOS, LA RECAUDACIÓN DE LA
 
 II. ENVIAR AL CONGRESO DEL ESTADO, A TRAVÉS DE SU ÓRGANO DE FISCALIZACIÓN, LAS CUENTAS DETALLADAS DE LOS MOVIMIENTOS DE FONDOS, EN LOS TÉRMINOS DE LA FRACCIÓN III DEL ARTÍCULO 37, DE ESTA LEY Y NOTIFICAR POR ESCRITO AL CONGRESO DEL ESTADO QUE SE HA CUMPLIDO CON ESTA DISPOSICIÓN;
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2001)</small>
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2012)</small>
 
-III. Aplicar los gastos, de acuerdo con el presupuesto de egresos aprobado por el Ayuntamiento y, exigir que los comprobantes respectivos estén firmados por el Presidente Municipal o por el servidor público al que le haya sido delegada esta facultad de conformidad con los reglamentos respectivos, así como el encargado de la Secretaría del Ayuntamiento; y
+III. Aplicar los gastos, de acuerdo con el Presupuesto de Egresos aprobado por el Ayuntamiento y, exigir que los comprobantes respectivos estén firmados por el Presidente Municipal o por el servidor público al que le haya sido delegada esta facultad de conformidad con los reglamentos respectivos, y
 
 IV. Las demás que señale esta Ley, otras leyes y reglamentos.
 
@@ -1607,11 +1607,11 @@ Los ayuntamientos podrán prever para su último año de gestión administrativa
 
 (NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 80.
 
-La oficina encargada de la Hacienda Municipal no debe hacer ningún pago sin la orden expresa del Presidente Municipal, que debe autorizar el servidor público encargado de la Secretaría del Ayuntamiento.
+La oficina encargada de la Hacienda Municipal no debe hacer ningún pago sin la orden expresa del Presidente Municipal.
 
 Únicamente el Presidente Municipal está autorizado a condonar multas, así como a autorizar al funcionario encargado de la Hacienda Municipal a que firme convenios tendientes al pago a plazos de créditos fiscales, cuando de exigirse el pago total de los mismos se causare la insolvencia del deudor, previo estudio del caso. Los plazos mencionados nunca podrán exceder de seis meses, y debe asegurarse siempre el interés fiscal. Las atribuciones que establece este párrafo podrán ser delegadas por el Presidente Municipal, en los términos de lo dispuesto por los reglamentos respectivos.
 
@@ -2892,5 +2892,9 @@ P.O. 31 DE MARZO DE 2012.
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 16 DE AGOSTO DE 2012.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 13 DE OCTUBRE DE 2012.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
