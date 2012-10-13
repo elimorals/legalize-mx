@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-para-el-gobierno-interior-del-congreso-del-65896"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-16"
-last_updated: "2011-10-05"
+last_updated: "2012-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 2012.
 
 Reglamento publicado en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 16 de agosto de 2008.
 
@@ -2375,11 +2375,9 @@ De conformidad a lo dispuesto por la Constitución Local, el Congreso recibirá 
 
 El análisis del informe de Gobierno y Evaluación del cumplimiento del Plan Estatal de Desarrollo se realizará enunciativamente de conformidad a las siguientes prescripciones:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE REGLAMENTO.</small>
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2011)</small>
-
-I. La Asamblea procederá al desahogo del análisis del Informe y evaluación del cumplimiento del Plan Estatal de Desarrollo dentro de los quince días naturales de iniciado el periodo ordinario de sesiones respectivo, en los términos del Acuerdo aprobado por la Comisión de Gobierno;
+I. La Asamblea iniciará el análisis del informe y evaluación del cumplimiento del Plan Estatal de Desarrollo dentro de los ocho días hábiles siguientes a la fecha de presentación del Informe, en los términos del Acuerdo aprobado por la Comisión de Gobierno;
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2008)</small>
 
@@ -2389,9 +2387,9 @@ II. Concluido el análisis, la Asamblea podrá acordar preguntas al Gobernador p
 
 III. Igualmente la Asamblea podrá acordar preguntas a los titulares de la administración pública centralizada y descentralizada y al Procurador General de Justicia para que amplíen por escrito la información, las cuales deberán ser respondidas en un término no mayor a quince días naturales a partir de su recepción;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2012)</small>
 
-IV. Si del análisis del informe y de las respuestas resultaren elementos para citar a los titulares de la administración pública centralizada y descentralizada y al Procurador General de Justicia, la Asamblea podrá hacerlo para que comparezcan ante ella y rindan un informe sobre el estado que guardan sus respectivos ramos;
+IV. Si del análisis del informe y de las respuestas resultaren elementos para citar a los titulares de la administración pública centralizada y descentralizada y al Procurador General de Justicia, la Asamblea en periodo ordinario o extraordinario en su caso, podrá hacerlo para que comparezcan ante ella y rindan un informe sobre el estado que guardan sus respectivos ramos, y
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2008)</small>
 
@@ -3772,6 +3770,10 @@ Artículo Primero.- El presente Decreto entrará en vigor en treinta días poste
 Artículo Segundo.- Para los efectos de difusión del presente decreto, deberá publicarse edición especial de la Gaceta Parlamentaria con el contenido íntegro de la Ley Orgánica del Poder Legislativo y Reglamento para el Gobierno Interior del Congreso.
 
 P.O. 5 DE OCTUBRE DE 2011.
+
+Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 13 DE OCTUBRE DE 2012.
 
 Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
