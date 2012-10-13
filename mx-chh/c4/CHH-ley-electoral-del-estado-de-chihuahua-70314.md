@@ -4,7 +4,7 @@ identifier: "CHH-ley-electoral-del-estado-de-chihuahua-70314"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-12"
-last_updated: "2012-10-06"
+last_updated: "2012-10-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ELECTORAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2012.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 12 de septiembre de 2009.
 
@@ -859,9 +859,13 @@ III. Cuando dos o más partidos políticos hayan participado bajo convenio de co
 
 6. Para gastos de campaña:
 
-a) En el año de la elección en que se renueven el Gobernador, los miembros de los ayuntamientos y diputados, a cada partido político se le otorgará para gastos de campaña un monto equivalente al 70% del financiamiento público que para el sostenimiento de sus actividades ordinarias permanentes le corresponda en ese año;
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2012)</small>
 
-b) En el año de la elección en que se renueven solamente diputados y los miembros de los ayuntamientos, a cada partido político se le otorgará para gastos de campaña un monto equivalente al 50% del financiamiento público que para el sostenimiento de sus actividades ordinarias permanentes le corresponda en ese año, y
+a) En el año de la elección en que se renueven el Gobernador, los miembros de los ayuntamientos y diputados, a cada partido político se le otorgará para gastos de campaña un monto equivalente al 55% del financiamiento público que para el sostenimiento de sus actividades ordinarias permanentes le corresponda en ese año;
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2012)</small>
+
+b) En el año de la elección en que se renueven solamente diputados y los miembros de los ayuntamientos, a cada partido político se le otorgará para gastos de campaña un monto equivalente al 35% del financiamiento público que para el sostenimiento de sus actividades ordinarias permanentes le corresponda en ese año, y
 
 c) El monto para gastos de campaña se otorgará a los partidos políticos en forma adicional al resto de las prerrogativas.
 
@@ -5626,3 +5630,25 @@ P.O. 6 DE OCTUBRE DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE OCTUBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de las Iniciativas, del Dictamen y de los Debates del Congreso a los Ayuntamientos de los sesenta y siete Municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución Política del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Por lo que hace a la reforma constitucional contenida en el Artículo Primero del presente Decreto, ésta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado. La reforma al artículo 58 de la Ley Electoral del Estado de Chihuahua, contenida en el Artículo Segundo del presente Decreto, surtirá vigencia un día después de que lo haga la reforma constitucional señalada.
+
+###### ARTÍCULO TERCERO.
+
+Por una sola vez, circunscrita a los casos que enseguida se enumeran, la periodicidad establecida en artículos 36, segundo párrafo; 40, primer párrafo; 44, tercer párrafo; 87; y 126, fracciones I, primer párrafo; II y III, primer párrafo, todos de la Constitución Política del Estado de Chihuahua, para la designación de Diputados locales, integrantes de los Ayuntamientos, así como de las Juntas Municipales y Comisarios de Policía, se regirán en los términos siguientes:
+
+I.- El próximo Gobernador Constitucional del Estado se elegirá por un período de cinco años, que comprenderá del 04 de octubre de 2016 al 03 de octubre de 2021;
+
+II.- Los Diputados que integrarán la LXV Legislatura local, durarán dos años en su cargo, que comprenderá del 01 de octubre de 2016 al 30 de septiembre de 2018;
+
+III.- Los integrantes de los Ayuntamientos, así como de las Juntas Municipales y Comisarios de Policía que se elijan en el año 2016, durarán igualmente dos años en su cargo.
+
+Las autoridades electorales del Estado proveerán lo necesario en cada caso, a fin de que las disposiciones contenidas en este artículo tengan un exacto cumplimiento, y para que la periodicidad establecida por los artículos constitucionales mencionados, se concrete precisamente a los casos enunciados en las fracciones anteriores.
