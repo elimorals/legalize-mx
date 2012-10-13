@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2012-10-09"
+last_updated: "2012-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -932,6 +932,10 @@ El reconocimiento de inocencia extingue todas las sanciones impuestas cualesquie
 ###### Art. 76.
 
 La rehabilitación tiene por objeto reintegrar al condenado al ejercicio de los derechos civiles, políticos o de familia, que se habían suspendido con motivo del proceso o perdido por sentencia ejecutoria.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE OCTUBRE DE 2012)</small>
+
+Una vez extinguida la causa que motivó la suspensión de los derechos civiles, políticos o de familia, la rehabilitación operará de pleno derecho en los términos señalados por el Código de Procedimientos Penales para el Estado Libre y Soberano de Jalisco.
 
 ###### Art. 77.
 
@@ -4916,5 +4920,9 @@ SEXTO. Las nuevas disposiciones del artículo 17, contempladas en las fracciones
 SÉPTIMO. En tanto las entidades públicas no definan la unidad administrativa que fungirá como órgano de control disciplinario de conformidad con el artículo 25 de la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, el titular de la dependencia o entidad podrá delegar al funcionario encargado del jurídico, o quien haga sus veces, mediante acuerdo, la facultad de iniciar el procedimiento respectivo, quien una vez desahogado el mismo, remitirá las actuaciones al titular o encargado para que dicte la resolución respectiva.
 
 P.O. 9 DE OCTUBRE DE 2012.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 13 DE OCTUBRE DE 2012.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
