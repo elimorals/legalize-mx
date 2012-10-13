@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2012-09-22"
+last_updated: "2012-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2012.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -491,7 +491,9 @@ El financiamiento público para los partidos políticos que mantengan el derecho
 
 I.- El financiamiento público para el sostenimiento de sus actividades ordinarias permanentes se fijará anualmente, multiplicando el número total de ciudadanos inscritos en el padrón electoral del Estado por el sesenta y cinco por ciento del salario mínimo vigente en la capital del Estad o(sic). El treinta por ciento de la cantidad que resulte, de acuerdo con lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria, y el setenta por ciento restante, de acuerdo al porcentaje de votos que hubieran obtenido en la elección de diputados inmediata anterior.
 
-II.- El financiamiento público para las actividades tendientes a la obtención del voto durante el año en que se elijan Gobernador del Estado, diputados al Congreso del Estado y miembros de los ayuntamientos, equivaldrá al setenta por ciento del financiamiento público que le corresponda a cada partido político por actividades ordinarias en ese mismo año; cuando sólo se elijan diputados y miembros de los ayuntamientos, equivaldrá al cincuenta por ciento de dicho financiamiento por actividades ordinarias.
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2012)</small>
+
+II.- El financiamiento público para las actividades tendientes a la obtención del voto durante el año en que se elijan Gobernador del Estado, diputados al Congreso del Estado y miembros de los ayuntamientos, equivaldrá al cincuenta y cinco por ciento del financiamiento público que le corresponda a cada partido político por actividades ordinarias en ese mismo año; cuando sólo se elijan diputados y miembros de los ayuntamientos, equivaldrá al treinta y cinco por ciento de dicho financiamiento por actividades ordinarias.
 
 III.- El financiamiento público por actividades específicas, relativas a la educación, capacitación, investigación socioeconómica y política, así como a las tareas editoriales, equivaldrá al tres por ciento del monto total del financiamiento público que corresponda en cada año por actividades ordinarias. El treinta por ciento de la cantidad que resulte, de acuerdo con lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria, y el setenta por ciento restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior.
 
@@ -597,7 +599,9 @@ DE LOS PROCESOS ELECTORALES.
 
 La renovación de los Poderes Legislativo, Ejecutivo y los Ayuntamientos, se realizará mediante sufragio universal, libre, secreto y directo, conforme a las bases que establezca la presente Constitución. La jornada electoral tendrá lugar el primer domingo de julio del año que corresponda.
 
-Los procesos electorales ordinarios se celebrarán cada tres años y se sujetarán a los principios rectores de certeza, legalidad, imparcialidad, objetividad e independencia.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2012)</small>
+
+Los procesos electorales ordinarios para la renovación del Poder Ejecutivo se celebrarán cada seis años, y para el Poder Legislativo y los Ayuntamientos cada tres años; todos los procesos se sujetarán a los principios rectores de certeza, legalidad, imparcialidad, objetividad e independencia.
 
 Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la Ley. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales, fijando los plazos convenientes para el desahogo de todas las instancias impugnativas.
 
@@ -709,7 +713,9 @@ Ningún partido político podrá contar con más de veintidós diputados por amb
 
 Si un partido político alcanzara las 22 diputaciones por mayoría relativa, para poder adicionarse o reformarse la Constitución del Estado, se requerirá el voto de, cuando menos, 23 de los Diputados.
 
-Para la asignación de Diputados electos por el principio de representación proporcional, cada partido político deberá registrar una lista de seis fórmulas de candidatos propietarios y suplentes, la cual no podrá contener entre propietarios y suplentes, más del 70% de candidatos de un mismo género.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2012)</small>
+
+Para la asignación de diputados electos por el principio de representación proporcional, cada partido político deberá registrar una lista de seis fórmulas de candidatos propietarios y suplentes, la cual no podrá contener entre propietarios y suplentes más del 50% de candidatos de un mismo género.
 
 Sólo se asignarán diputaciones de representación proporcional a los partidos políticos que postularon candidatos de mayoría relativa en catorce ó más distritos electorales uninominales y hayan alcanzado cuando menos el 2% de la votación estatal válida emitida.
 
@@ -3880,3 +3886,25 @@ Las funciones, facultades, derechos y obligaciones establecidas a cargo del orga
 ###### ARTÍCULO NOVENO.
 
 En todo caso, deberá asegurarse que de ninguna forma resulten afectados los derechos de los trabajadores del organismo, que hayan adquirido con base en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
+
+P.O. 13 DE OCTUBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de las Iniciativas, del Dictamen y de los Debates del Congreso a los Ayuntamientos de los sesenta y siete Municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución Política del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Por lo que hace a la reforma constitucional contenida en el Artículo Primero del presente Decreto, ésta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado. La reforma al artículo 58 de la Ley Electoral del Estado de Chihuahua, contenida en el Artículo Segundo del presente Decreto, surtirá vigencia un día después de que lo haga la reforma constitucional señalada.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
+
+###### ARTÍCULO TERCERO.
+
+Por una sola vez, circunscrita a los casos que enseguida se enumeran, la periodicidad establecida en los artículos 36, segundo párrafo; 40, primer párrafo; 44, tercer párrafo, 87; y 129, fracciones I, primer párrafo; II y III primer párrafo, todos de la Constitución Política del Estado, para la asignación de diputados locales, integrantes de los Ayuntamientos, así como de las Juntas Municipales y Comisarios de Policía, se regirán en los siguientes términos:
+
+I.- El próximo Gobernador Constitucional del Estado se elegirá por un periodo comprendido del 4 de octubre del 2016 al 7 de septiembre de 2021;
+
+II.- Los Diputados que integrarán la LXV Legislatura local, durarán en su cargo un año, once meses, que comprenderá del 01 octubre de 2016 al 31 de agosto de 2018.
+
+III.- Los integrantes de los Ayuntamientos, así como las Juntas Municipales y Comisarios de Policía que se elijan en el año 2016, durarán igualmente un año, once meses en su encargo, que corresponderá del 10 de octubre de 2016, al 9 de septiembre de 2018.
