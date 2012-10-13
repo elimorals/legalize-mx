@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-de-la-ley-de-obra-publica-y-servicios-72752"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-01-30"
-last_updated: "2010-01-30"
+last_updated: "2012-10-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72752&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # REGLAMENTO DE LA LEY DE OBRA PUBLICA Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE CHIHUAHUA
 
-REGLAMENTO DE LA LEY DE OBRA PUBLICA Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE CHIHUAHUA
+REGLAMENTO DE LA LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2012.
 
 Reglamento publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 30 de enero de 2010.
 
@@ -193,7 +193,9 @@ VII. Las demás previsiones que deban tomarse en consideración según las carac
 
 Para que los Entes Públicos puedan iniciar obras o servicios, ya sea por administración directa o por contrato, será necesario que se verifique lo siguiente:
 
-I. Que estén incluidos en el programa de inversiones autorizado, salvo los casos excepcionales donde se cuente con la autorización previa de Planeación y/o Finanzas;
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2012)</small>
+
+I. Que estén incluidos en el programa de inversiones autorizado, salvo los casos excepcionales donde se cuente con la autorización previa de Hacienda;
 
 II. Dependiendo del tipo y forma de contratación, que se cuente, al nivel del contrato, con aquellos estudios y proyectos de arquitectura y ejecutivos necesarios para iniciar la obra; las especificaciones técnicas generales y particulares y las normas de calidad de los materiales correspondientes; el presupuesto de obra total o de cada ejercicio, según sea el caso; el programa de ejecución, los programas de suministro de materiales, mano de obra y maquinaria y equipo y, en su caso, de equipos de instalación permanente, ya sea que éstos sean a cargo del Convocante o de los contratistas. Tratándose de servicios se deberá contar con los términos de referencia, la plantilla y organigrama de personal y presupuesto de los trabajos;
 
@@ -895,11 +897,11 @@ V. El acta deberá contener opiniones no vinculatorias y deberá remitirse para 
 
 #### SECCIÓN SEGUNDA. DEL COMITÉ TÉCNICO RESOLUTIVO DE OBRA PÚBLICA
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 34.
 
-El Comité Técnico Resolutivo de Obra Pública, en el Poder Ejecutivo y sus Organismos se integrará con los titulares o representantes designados de la Secretaría, la Secretaría General de Gobierno, Finanzas, Planeación, así como del Ente Público Convocante, quienes en las reuniones tendrán derecho a voz y voto.
-
-El Presidente del Comité, será el titular de la Secretaría o su representante designado.
+El Comité Técnico Resolutivo de Obra Pública, en el Poder Ejecutivo y sus Organismos se integrará con los titulares o representantes designados de la Secretaría, la Secretaría General de Gobierno, Hacienda, así como del Ente Público Convocante, quienes en las reuniones tendrán derecho a voz y voto.
 
 ###### Artículo 35.
 
@@ -2729,9 +2731,13 @@ VII. Manifestación de las partes de que no existen adeudos y por lo tanto se da
 
 El ajuste de costos a que hace referencia el Artículo 66 de la Ley, así como el procedimiento señalado en el Artículo 67 de la misma, deberá indicarse desde las bases de la licitación y ser pactado en el contrato correspondiente, el cual no podrá ser modificado durante la vigencia del mismo y su aplicación a las estimaciones, serán calculados con base en los relativos o las variaciones en el índice que determine la Contraloría, en el ámbito del Poder Ejecutivo y sus Organismos, así como los Ayuntamientos cuando ejecuten obra con recurso estatal. Los Poderes Legislativo, Judicial y los Ayuntamientos cuando realicen obra con recurso propio aplicarán estas disposiciones en lo conducente.
 
-En el supuesto de que la Contraloría no emita los relativos o índices a que se refiere el párrafo anterior, el ajuste de costos se realizará con base en los índices de precios de genéricos para el mercado nacional, que determina el Banco de México en el índice de precios productor y servicios, y a falta de éstos, el índice correspondiente se obtendrá del índice de insumos de las obras públicas que se publica en el índice nacional de precios productor por el Banco de México, o en su defecto, el Ente Público procederá a calcularlos conforme a los precios que investigue, utilizando los lineamientos y metodología que expida el Banco de México.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2012)</small>
 
-Tratándose de infraestructura carretera, y a falta de los relativos que emita la Contraloría, los Entes Públicos podrán emplear los porcentajes de incremento o decremento que emite mensualmente la Subsecretaría de Infraestructura de la Secretaría de Comunicaciones y Transportes, siempre y cuando los primeros estén formulados con base en los índices de precios de genéricos para el mercado nacional, que determina el Banco de México en el índice de precios productor y servicios, de no ser así o de no encontrarse el precio que se requiera dentro de dichos porcentajes se aplicará lo señalado en el párrafo anterior.
+En el supuesto de que la Contraloría no emita los relativos o índices a que se refiere el párrafo anterior, el ajuste de costos se realizará con base en los índices de precios que para tales efectos determine el Instituto Nacional de Estadística y Geografía o el ente público que lo sustituya, y que se encuentren vigentes al momento de la adjudicación del contrato, y a falta de éstos, el Ente Público procederá a calcularlos conforme a los precios que investigue, utilizando los lineamientos y metodología que expida el Instituto Nacional de Estadística y Geografía o el ente público que lo sustituya.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2012)</small>
+
+Tratándose de infraestructura carretera, y a falta de los relativos que emita la Contraloría, los Entes Públicos podrán emplear los porcentajes de incremento o decremento que emite mensualmente la Subsecretaría de Infraestructura de la Secretaría de Comunicaciones y Transportes, siempre y cuando los primeros estén formulados con base en los índices de precios que para tales efectos determina el Instituto Nacional de Estadística y Geografía o el ente público que lo sustituya, de no ser así o de no encontrarse el precio que se requiera dentro de dichos porcentajes se aplicará lo señalado en el párrafo anterior.
 
 ###### Artículo 203.
 
@@ -3747,25 +3753,27 @@ Cuando a juicio del Ente Público y sin estar terminada la totalidad de la obra,
 
 ### CAPÍTULO PRIMERO. DE LA INFORMACIÓN
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 278.
 
-La Secretaría, Planeación y la Contraloría, en el ámbito de sus competencias, señalarán las formas por medio de las cuales de manera sistemática y ordenada las Dependencias y Organismos Estatales y los Ayuntamientos cuando ejercen recurso estatal informarán de los actos que regulan la ley y este Reglamento, así mismo, la forma y términos en que practicarán las verificaciones, las cuales serán las mismas para todos los obligados.
+La Secretaría, Hacienda y la Contraloría, en el ámbito de sus competencias, señalarán las formas por medio de las cuales de manera sistemática y ordenada las Dependencias y Organismos Estatales y los Ayuntamientos cuando ejercen recurso estatal informarán de los actos que regulan la ley y este Reglamento. Así mismo, la forma y términos en que practicarán las verificaciones, las cuales serán las mismas para todos los obligados.
 
 ###### Artículo 279.
 
 Con el objeto de tener un adecuado seguimiento y control de los procedimientos de contratación y ejecución de obras y servicios, los Entes Públicos rendirán los informes que establece la Ley y este Reglamento.
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 280.
 
-Los titulares de las áreas responsables de la ejecución de los trabajos, deberán enviar al Órgano Interno de Control, a la Secretaría y a Planeación un informe mensual sobre las adjudicaciones contratadas mediante licitación pública y aquellas en las que se utilizó el procedimiento de excepción de la misma.
+Los titulares de las áreas responsables de la ejecución de los trabajos, deberán enviar al Órgano Interno de Control, a la Secretaría y a Hacienda un informe mensual sobre las adjudicaciones contratadas mediante licitación pública y aquellas en las que se utilizó el procedimiento de excepción de la misma.
 
-Los informes deberán entregarse, a más tardar, el último día hábil del mes siguiente al que se reporta.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 281.
 
-Los titulares de las áreas responsables de la ejecución de los trabajos, deberán enviar al Órgano Interno de control, a la Secretaría y a Planeación un informe trimestral sobre los adeudos a cargo de los contratistas, derivados de anticipos no amortizados, finiquitos no liquidados o materiales y equipos no devueltos.
-
-Los informes deberán entregarse, a más tardar, el último día hábil del mes siguiente al trimestre que se reporta.
+Los titulares de las áreas responsables de la ejecución de los trabajos, deberán enviar al Órgano Interno de Control, a la Secretaría y a Hacienda un informe trimestral sobre los adeudos a cargo de los contratistas, derivados de anticipos no amortizados, finiquitos no liquidados o materiales y equipos no devueltos.
 
 ###### Artículo 282.
 
@@ -3783,21 +3791,23 @@ Los Entes Públicos deberán remitir sus informes en los plazos que expresamente
 
 ### CAPÍTULO SEGUNDO. DE LA VERIFICACIÓN
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 284.
 
-Con los informes que remitan los Entes Públicos, la Secretaría, Planeación o la Contraloría podrán verificar que los trabajos sean realizados de conformidad con lo establecido en los programas y presupuestos autorizados para cada obra y servicio. Para cumplir este objetivo, en el ámbito de sus respectivas competencias, señalarán la forma y términos en que se practicarán las verificaciones, las cuales serán iguales para todos los obligados.
+Con los informes que remitan los Entes Públicos, la Secretaría, Hacienda o la Contraloría podrán verificar que los trabajos sean realizados de conformidad con lo establecido en los programas y presupuestos autorizados para cada obra y servicio. Para cumplir este objetivo, en el ámbito de sus respectivas competencias, señalarán la forma y términos en que se practicarán las verificaciones, las cuales serán iguales para todos los obligados.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 285.
 
-La Secretaría, Planeación, o la Contraloría, en el ámbito de su competencia, podrán vigilar el uso, operación y mantenimiento de las obras públicas, mediante visitas periódicas, para constatar si las obras cumplen con los fines para las que fueron destinadas y si se encuentran en condiciones apropiadas para su uso.
+La Secretaría, Hacienda o la Contraloría, en el ámbito de su competencia, podrán vigilar el uso, operación y mantenimiento de las obras públicas, mediante visitas periódicas, para constatar si las obras cumplen con los fines para las que fueron destinadas y si se encuentran en condiciones apropiadas para su uso.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 286.
 
-La Secretaría, Planeación y la Contraloría, en el ejercicio de la facultad que les otorga el Artículo 88 de la Ley, podrán solicitar los datos e informes relacionados con actos relativos a obras y servicios y los servidores públicos y contratistas estarán obligados a proporcionarlos.
-
-Los contratistas que no aporten la información que se les requiera, serán sancionados en los términos que establece el Artículo 90 de la Ley.
-
-La documentación original de los actos y contratos que regula la Ley y este Reglamento deberá estar depositada y resguardada en las oficinas centrales de los Entes Públicos, o en el lugar que específicamente designe su titular y bajo su estricta responsabilidad, la cual podrá ser consultada y cotejada en esos lugares, para los efectos de información, verificación y cualquier otro, sin que en ningún caso pueda ser sustraída.
+La Secretaría, Hacienda y la Contraloría, en el ejercicio de la facultad que les otorga el Artículo 88 de la Ley, podrán solicitar los datos e informes relacionados con actos relativos a obras y servicios y los servidores públicos y contratistas estarán obligados a proporcionarlos.
 
 ## TÍTULO SEXTO. INFRACCIONES Y SANCIONES
 
@@ -4248,3 +4258,11 @@ CUARTO. Los actos y contratos que los Entes Públicos hayan celebrado hasta ante
 Dado en el palacio del Poder Ejecutivo, a los veintiocho días del mes de enero del año 2010.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JOSÉ REYES BAEZA TERRAZAS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. SERGIO GRANADOS PINEDA. Rúbrica. EL SECRETARIO DE COMUNICACIONES Y OBRAS PÚBLICAS, ING. LUIS ALONSO FERNÁNDEZ CASILLAS. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE OCTUBRE DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
