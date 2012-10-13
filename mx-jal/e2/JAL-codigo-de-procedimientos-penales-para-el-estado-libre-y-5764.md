@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-penales-para-el-estado-libre-y-5764"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-12-07"
-last_updated: "2012-09-22"
+last_updated: "2012-10-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el martes 7 de diciembre de 1982.
 
@@ -43,7 +43,7 @@ Código de Procedimientos Penales para el Estado Libre y Soberano de Jalisco
 
 ### CAPITULO I. Competencia
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
@@ -331,7 +331,7 @@ Cuando el Juez de Primera Instancia requerido no pudiere practicar por sí mismo
 
 Cuando un Juez no pueda dar cumplimiento a un exhorto, por hallarse en otra jurisdicción la persona o las cosas que sean objeto de la diligencia, lo remitirá al Juzgado del lugar en que aquella o éstas se encuentren y lo hará saber al requeriente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Art. 39.
 
@@ -439,7 +439,7 @@ En las audiencias la policía estará a cargo del funcionario que presida.
 
 ### CAPITULO IX. Correcciones disciplinarias y medios de apremio
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JULIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2003)</small>
 
 ###### Art. 55.
 
@@ -471,7 +471,7 @@ Las correcciones disciplinarias previstas en las fracciones I, II y III del art�
 
 Contra cualquiera providencia en que se imponga alguna corrección disciplinaria, se oirá al interesado, si lo solicita dentro de las veinticuatro horas siguientes de la que tenga conocimiento de ella. En vista de lo que manifieste el interesado, el funcionario que la hubiese impuesto resolverá desde luego lo que estime procedente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JULIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2003)</small>
 
 ###### Art. 58.
 
@@ -667,7 +667,7 @@ Se tendrá por incoada la denuncia, y acreditada la persecución, desde el momen
 
 El Ejecutivo del Estado podrá recompensar tratándose de delitos graves, recompensará a no mas de tres personas por cada caso, con el importe de por lo menos del equivalente a doscientos días de salario mínimo general vigente en la época y área geográfica en que se cometa el delito, siempre que se proporcione a la autoridad ministerial, información veraz con pormenores que hagan posible evitar o aclarar un delito o cuando producido éste, identifique a todos o algunos de los coautores de la comisión del mismo, pudiendo en su caso proporcionar a los informantes la protección y vigilancia que corresponda.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JULIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2003)</small>
 
 ###### Art. 89.
 
@@ -687,7 +687,7 @@ Cuando se presente la querella o la denuncia por escrito, deberá ser ratificada
 
 Las personas a quienes se refiere el Art. 88, párrafo segundo, no están obligadas a hacer esa ratificación, pero el funcionario que reciba la denuncia, si tuviere dudas sobre ellas, deberá asegurarse de su personalidad y de la autenticidad del documento en que se haga la denuncia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JULIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2003)</small>
 
 ###### Art. 92.
 
@@ -701,39 +701,39 @@ II. Cuando la ley exija algún requisito previo, si éste no se ha llenado.
 
 Si quien inicie una investigación no tiene a su cargo la función de proseguirla, dará inmediatamente cuenta a quien corresponda legalmente practicarla.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE JULIO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE JULIO DE 2003)</small>
 
 ### CAPITULO II. Reglas especiales para las actuaciones en la Averiguación Previa
 
 > <small>N. DE E. PARA CONSULTAR LA ESTRUCTURA DEL PRESENTE ARTÍCULO VÉANSE PUBLICACIONES OFICIALES DE FECHAS 28 DE DICIEMBRE DE 2006, 22 DE FEBRERO DE 2007 Y 24 DE OCTUBRE DE 2009.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JULIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2003)</small>
 
 ###### Art. 93.
 
 Inmediatamente que el Ministerio Público, o el servidor público encargado de practicar diligencias de averiguación previa, tengan conocimiento de la probable existencia de un delito, dictará todas las medidas y providencias necesarias, para proporcionar seguridad y auxilio a las víctimas, incluyendo en su caso, la atención médica de urgencia que requieran y la asesoría jurídica necesaria; impedir que se pierdan, destruyan o alteren las huellas o vestigios del hecho delictuoso, los instrumentos o cosas objeto o efecto del mismo, saber que personas fueron testigos; evitar que el delito se siga cometiendo y, en general, impedir que se dificulte la averiguación; además, procederá a la aprehensión de los responsables en los casos de flagrante delito.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE MARZO DE 2011)</small>
 
 El procedimiento controlado denominado cadena de custodia, es el que se aplica a los indicios materiales relacionados con el delito, desde su localización, identificación, recolección, embalaje, transportación, hasta su dictaminación y que tiene como fin no viciar el manejo que de ellos se haga y así evitar alteraciones, sustituciones, contaminaciones o destrucciones.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 17 DE MARZO DE 2011)</small>
 
 Cuando exista aseguramiento de estupefacientes o psicotrópicos previstos en la tabla del artículo 479 de la Ley General de Salud, el Ministerio Publico o el Juez solicitarán la elaboración del dictamen pericial correspondiente, a la autoridad competente, sobre los caracteres organolépticos o químicos de la sustancia asegurada. Este dictamen, cuando hubiere detenido, será rendido dentro del término de doce horas, a partir de su legal solicitud, a fin de no vulnerar lo dispuesto en el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE MARZO DE 2011)</small>
 
 El Ministerio Público sólo podrá ordenar la detención del inculpado cuando se trate de caso urgente y se cometa algún delito de los señalados como graves en el artículo 342 de este código, conforme a lo dispuesto por el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], P.O. 17 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 17 DE MARZO DE 2011)</small>
 
 Si el inculpado fue detenido o se presentó de manera voluntaria ante el Ministerio Público, se procederá de la siguiente forma:
 
@@ -841,7 +841,7 @@ III. Canalizar a las víctimas a los servicios de atención a víctimas del deli
 
 IV. Las demás que sean necesarias para garantizar los derechos humanos de la mujer, o que sean adecuadas para el mejor esclarecimiento de los hechos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE MARZO DE 2011)</small>
 
@@ -853,7 +853,7 @@ Los servidores públicos que descubran indicios, huellas o vestigios de un hecho
 
 De lo anterior se deberá levantar el acta circunstanciada, en la que conste entrega-recepción de la custodia, donde describe las circunstancias de modo, tiempo y lugar respecto de los indicios entregados, además de la firma autógrafa de los servidores públicos que entregan y de quienes reciben.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE MARZO DE 2011)</small>
 
@@ -919,7 +919,7 @@ En la práctica de las diligencias del Ministerio Público y de la policía inve
 
 Cuando en vista de la averiguación previa, el agente del Ministerio Público respectivo estimare que no es de ejercitarse la acción penal por los hechos que hubiesen sido materia de la denuncia o querella inicial, remitirá el expediente con su opinión fundada, al Procurador General de Justicia, a fin de que decida si la averiguación debe continuar, con expresión de las diligencias pertinentes; si se suspende en espera de mejores datos; o si se archiva definitivamente. Contra esa resolución del Procurador no procede recurso alguno.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JULIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2003)</small>
 
 ###### Art. 102 Bis.
 
@@ -961,7 +961,7 @@ II. Asentar constancia del desglose efectuado, precisando para tal efecto el nú
 
 III. Registrar con un nuevo número las actuaciones desglosadas, para proseguir con la averiguación de los hechos relacionados con la averiguación previa inicial.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE FEBRERO DE 2001)</small>
 
 ###### Art. 105.
 
@@ -1023,25 +1023,25 @@ I. Cuando de los hechos que logre averiguar se advierta plenamente que no existe
 
 II. Cuando, aún pudiendo serlo, resulte imposible la prueba de la existencia de los hechos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
 III. Cuando se encuentre extinguida;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
 IV. Cuando se hubieren cumplido las obligaciones impuestas a las partes en el convenio final del método alternativo de solución de conflictos en los delitos no excluidos por la Ley de Justicia Alternativa del Estado de Jalisco, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE DICIEMBRE DE 2010)</small>
 
 V. En los demás casos que señalen las leyes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
@@ -1061,7 +1061,7 @@ II. Cuando, durante el procedimiento judicial aparezca plenamente comprobado que
 
 Para que el desistimiento de la acción penal produzca el efecto señalado en la Ley, deberá ser formulado expresamente por el Ministerio Público y confirmado por el Procurador General de Justicia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JULIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2003)</small>
 
 ###### Art. 112.
 
@@ -1153,7 +1153,7 @@ c) Ausencia de los reflejos del tallo cerebral; y
 
 d) Paro cardiaco irreversible.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE ENERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2011)</small>
 
 2. Se presenta muerte encefálica cuando existen los siguientes signos:
 
@@ -1287,7 +1287,7 @@ En los casos de daños por incendio se recabará dictamen pericial respecto del 
 
 En todos aquellos delitos en que se requieran conocimientos especiales para su comprobación, se utilizarán, asociadas, las pruebas de inspección ocular y de peritos, sin perjuicio de las demás pertinentes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
@@ -1295,7 +1295,7 @@ En todos aquellos delitos en que se requieran conocimientos especiales para su c
 
 El Ministerio Público deberá informar oportunamente al Ministerio Público de la Federación del inicio de las averiguaciones previas, tratándose de los delitos previstos en el artículo 474 de la Ley General de Salud, a efecto de que éste cuente con los elementos necesarios para que, en su caso, solicite la remisión de la investigación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
@@ -1305,7 +1305,7 @@ Cuando se trate de los casos previstos en el segundo párrafo del artículo 474 
 
 Si hubiere detenidos, la remisión se hará sin demora y se observarán las disposiciones relativas a la retención ministerial por flagrancia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
@@ -1313,7 +1313,7 @@ Si hubiere detenidos, la remisión se hará sin demora y se observarán las disp
 
 Si de las constancias del procedimiento se advierte la incompetencia de las autoridades del fuero común, remitirá el expediente al Ministerio Público de la Federación o al Juez federal que corresponda, dependiendo de la etapa procesal en que se encuentre, a fin de que se continúe el procedimiento, para lo cual las diligencias desahogadas hasta ese momento por la autoridad considerada incompetente gozarán de plena validez.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
@@ -1429,7 +1429,7 @@ Cuando un lesionado necesite pronta curación, cualquier persona puede atenderlo
 
 ### CAPITULO IV. Aseguramiento del inculpado
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Art. 145.
 
@@ -1487,7 +1487,7 @@ La resolución del ministerio Público, en la que se ordene el aseguramiento del
 
 (DEROGADO, P.O. 1 DE JULIO DE 2003)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JULIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2003)</small>
 
 ###### Art. 149.
 
@@ -1655,7 +1655,7 @@ El juez interrogará al inculpado sobre su participación en los hechos imputado
 
 ### CAPITULO III. Autos de formal prisión, de sujeción a proceso o de libertad por falta de elementos para procesar
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JULIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2003)</small>
 
 ###### Art. 166.
 
@@ -1709,7 +1709,7 @@ V. La tipificación legal de los propios hechos comprobados; y
 
 VI. El nombre del juez que dicte la determinación y el del Secretario que la autorice.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JULIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2003)</small>
 
 ###### Art. 170.
 
@@ -2065,7 +2065,7 @@ Si no hubiere peritos de los que menciona el párrafo anterior, se podrán nombr
 
 Los peritos que acepten el cargo, con excepción de los oficiales titulares, tienen obligación de protestar su fiel desempeño ante el funcionario que practique las diligencias. En casos urgentes, la protesta la rendirán al emitir o ratificar su dictamen.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2010)</small>
 
@@ -2305,7 +2305,7 @@ Cuando en una misma causa hubiese dos o más declaraciones diversas de la misma 
 
 La retractación de los testigos sólo tendrá eficacia, y valor probatorio, cuando esta se encuentre apoyada con elementos de prueba idóneos, que el Juez o el Ministerio Público harán valer en auto fundado y motivado, en el que se razonará por separado la retractación objeto de examen.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2010)</small>
 
@@ -2527,7 +2527,7 @@ Contra las sentencias de los Juzgados de Paz no procede recurso alguno.
 
 Los Jueces Menores y los de Paz, en sus respectivas jurisdicciones, deberán actuar a prevención en todos los asuntos que, sin ser de su competencia, el agente del Ministerio Público someta a su conocimiento, pero su intervención cesará a petición de dicho funcionario o cuando se haya dictado la orden de aprehensión, el auto de formal prisión o el de soltura, pues en cada uno de esos casos remitirá los autos relativos al Juzgado que sea competente para conocer del asunto.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE JULIO DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE JULIO DE 2003)</small>
 
 ### CAPITULO VI. Del Procedimiento Penal Sumario
 
@@ -2589,7 +2589,7 @@ VII. Cuando esté plenamente comprobado que, en favor del inculpado, existe algu
 
 VIII. Cuando en los casos de querella necesaria, el ofendido otorgue su perdón expresamente ante el juez o tribunal que conozca del asunto, con los requisitos que señala el artículo 73 del Código Penal; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 29 DE ABRIL DE 2008)</small>
 
@@ -2629,7 +2629,7 @@ I. Cuando la muerte del inculpado haya sido declarada erróneamente;
 
 II. Cuando se declare la nulidad del matrimonio que hubiese contraído el acusado con la ofendida de los delitos de rapto; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 29 DE ABRIL DE 2008)</small>
 
@@ -2835,7 +2835,7 @@ Cualquiera de las partes puede formular queja ante el Juez del conocimiento, por
 
 ### CAPITULO I. Libertad provisional bajo caución
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE MARZO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 1998)</small>
 
 ###### Art. 342.
 
@@ -2997,7 +2997,7 @@ III. Cuando con posterioridad se demuestre la insolvencia del fiador; y
 
 IV. En el caso del Art. 358.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Art. 356.
 
@@ -3517,7 +3517,7 @@ Las providencias precautorias que pudiere intentar quien tenga derecho a la repa
 
 ### CAPITULO X. Medidas provisionales para la restitución al ofendido en el goce de sus derechos
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE FEBRERO DE 2001)</small>
 
 ###### Art. 429.
 
@@ -3575,31 +3575,33 @@ Cuando por alguna de las causas que señala el Art. 71 del Código Penal, deba r
 
 La rehabilitación de los derechos de familia, civiles o políticos, no procederá antes de que el reo extinga la sanción privativa de libertad.
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2012)</small>
+
 ###### Art. 439.
 
-Si el reo hubiese extinguido ya la sanción privativa de libertad, o si ésta no le hubiese sido impuesta y si ya transcurrió la mitad del término de la inhabilitación o suspensión de derechos que se le impuso, podrá ocurrir al Juzgado o Tribunal que haya dictado la sentencia irrevocable, a solicitar que se le rehabilite en los derechos de que se le privó o en cuyo ejercicio estuviese suspenso, para lo cual acompañará a su escrito relativo los documentos siguientes:
+El inculpado al que le decreten auto de libertad que no haya sido impugnado o recurrido y se confirme, así como el reo absuelto o que haya cumplido la pena que le fue impuesta, tendrá derecho a solicitar la rehabilitación de sus derechos civiles, políticos y de familia de los cuales haya sido privado, debiendo formular la petición por escrito o por comparecencia ante el Secretario del juzgado o tribunal competente, sin que medie diversa formalidad, debiendo ser resuelta por la autoridad dentro de las siguientes veinticuatro horas.
 
-I. Un certificado expedido por la autoridad que corresponda, que acredite que extinguió o le fue conmutada la sanción privativa de libertad que se le impuso; y
+Una vez declarada la rehabilitación de derechos políticos, civiles y de familia por parte del juzgado o tribunal competente, éste deberá enviar de oficio las constancias necesarias a las autoridades competentes dentro de las siguientes setenta y dos horas, a efecto de que se proceda a la rehabilitación de dichos derechos.
 
-II. Un certificado de la autoridad municipal del lugar donde hubiese residido, desde que comenzó a sufrir la inhabilitación o la suspensión, que demuestre la ausencia de arrestos policíacos.
+Además, el juzgado o tribunal competente deberá otorgar al solicitante una constancia del auto, mismo que constituye prueba plena de la rehabilitación de sus derechos políticos, civiles y de familia ante cualquier autoridad.
 
 ###### Art. 440.
 
-Recibida la solicitud, el Juzgado o el Tribunal, señalará día y hora para recibir la información testimonial que aportará el interesado para dejar precisada la conducta del reo y su actual situación personal y social.
+(DEROGADO, P.O. 13 DE OCTUBRE DE 2012)
 
 ###### Art. 441.
 
-Recibidas las informaciones, el Juzgado o el Tribunal dará vista al Ministerio Público, para que dentro de las veinticuatro horas exponga lo que a su representación convenga y, dentro de los tres días siguientes resolverá lo procedente.
+(DEROGADO, P.O. 13 DE OCTUBRE DE 2012)
 
 ###### Art. 442.
 
-Concedida la rehabilitación, se ordenará su anotación en el proceso respectivo, así como en el registro de antecedentes del reclusorio correspondiente. Si se negare, el reo tendrá derecho a solicitarla de nuevo, después de un año.
+(DEROGADO, P.O. 13 DE OCTUBRE DE 2012)
 
 > <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
 ### CAPITULO III. El Reconocimiento de Inocencia e Indulto
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 1995)</small>
 
 ###### Art. 443.
 
@@ -3799,7 +3801,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 Lic. Alfonso de Alba Martín
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 P.O. 25 DE FEBRERO DE 1986.
 
@@ -3979,13 +3981,13 @@ DECIMO. El titular del Poder Ejecutivo Estatal dispondrá que el presente decret
 
 P.O. 30 DE ENERO DE 2007.
 
-DECRETO No. 21775/LVII/07, POR EL QUE SE REFORMAN EL ARTICULO 342 DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO.
+DECRETO No. 21775/LVII/07, POR EL QUE SE REFORMA EL ARTÍCULO 342 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO.
 
 UNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 30 DE ENERO DE 2007.
 
-DECRETO No. 21755/LVII/06, POR EL QUE SE REFORMAN LOS ARTICULOS 109, 308, 309 Y 313 DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO.
+DECRETO No. 21755/LVII/06, POR EL QUE SE REFORMAN LOS ARTÍCULOS 109, 308, 309 Y 313 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO.
 
 PRIMERO. El presente decreto entrará en vigor el día 1° de enero de 2008, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
 
@@ -4063,7 +4065,7 @@ P.O. 5 DE MARZO DE 2009.
 
 P.O. 24 DE OCTUBRE DE 2009.
 
-DECRETO NUMERO 22747/LVIII/09, POR EL QUE SE REFORMA EL ARTICULO 93 ULTIMO PARRAFO DEL CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE JALISCO.
+DECRETO NÚMERO 22747/LVIII/09, POR EL QUE SE REFORMA EL ARTÍCULO 93 ÚLTIMO PÁRRAFO DEL CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE JALISCO.
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.
 
@@ -4075,7 +4077,7 @@ CUARTO. A partir de la entrada en vigor de este decreto, el Poder Ejecutivo debe
 
 P.O. 24 DE OCTUBRE DE 2009.
 
-DECRETO NUMERO 22694/LVIII/09, POR EL QUE SE REFORMA LA FRACCON V DEL ARTICULO 115 DEL CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE JALISCO.
+DECRETO NÚMERO 22694/LVIII/09, POR EL QUE SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 115 DEL CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE JALISCO.
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
@@ -4144,3 +4146,7 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El artículo 133-Bis del Código de Procedimientos Penales del Estado Libre y Soberano de Jalisco, entrará en vigor a los sesenta días siguientes de la publicación del presente decreto, plazo en el cual la Procuraduría General de Justicia del Estado y el Instituto Jalisciense de Ciencias Forenses, deberán emitir el protocolo respectivo, que se publicará en el periódico oficial El Estado de Jalisco.
 
 TERCERO. Se autoriza al Poder Ejecutivo del Estado a realizar las adecuaciones presupuestales necesarias para el debido cumplimiento del presente decreto.
+
+P.O. 13 DE OCTUBRE DE 2012.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
