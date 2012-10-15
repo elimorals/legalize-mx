@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2012-10-11"
+last_updated: "2012-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE OCTUBRE DE 2012.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -635,9 +635,13 @@ Son atribuciones de los ayuntamientos:
 
 I. Expedir y reformar el Bando Municipal, así como los reglamentos, circulares y disposiciones administrativas de observancia general dentro del territorio del municipio, que sean necesarios para su organización, prestación de los servicios públicos y, en general, para el cumplimiento de sus atribuciones;
 
-> <small>(ADICIONADA, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.G. 15 DE OCTUBRE DE 2012)</small>
 
-I Bis. Aprobar programas y acciones que promuevan un proceso constante de mejora regulatoria, con base en las propuestas que sean sometidas a su consideración, de acuerdo con la Ley para la Mejora Regulatoria del Estado de México y Municipios, y el reglamento municipal correspondiente;
+I Bis. Aprobar e implementar programas y acciones que promuevan un proceso constante de mejora regulatoria, de acuerdo con la Ley para la Mejora Regulatoria del Estado de México y Municipios y las disposiciones reglamentarias;
+
+> <small>(ADICIONADA, G.G. 15 DE OCTUBRE DE 2012)</small>
+
+I Ter. Aprobar y promover un programa para el otorgamiento de la licencia provisional de funcionamiento para negocios de bajo riesgo que no impliquen riesgos sanitarios, ambientales o de protección civil, conforme al Catálogo Mexiquense de Actividades Industriales, Comerciales y de Servicios de Bajo Riesgo, consignado en la Ley de la materia, mismo que deberá publicarse dentro de los primeros 30 días naturales de cada Ejercicio Fiscal y será aplicable hasta la publicación del siguiente catálogo;
 
 II. Celebrar convenios, cuando así fuese necesario, con las autoridades estatales competentes; en relación con la prestación de los servicios públicos a que se refiere el artículo 115, fracción III de la Constitución General, así como en lo referente a la administración de contribuciones fiscales;
 
@@ -827,11 +831,11 @@ XLV. Colaborar con las autoridades estatales y federales en el ámbito de su com
 
 XLVI. Las demás que señalen las leyes y otras disposiciones legales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 15 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 32.
 
-Para ocupar los cargos de secretario, tesorero, director de obras públicas o equivalente, titulares de las unidades administrativas y de los organismos auxiliares se deberán satisfacer los siguientes requisitos:
+Para ocupar los cargos de Secretario, Tesorero, Director de Obras Públicas, Director de Desarrollo Económico, o equivalentes, titulares de las unidades administrativas y de los organismos auxiliares se deberán satisfacer los siguientes requisitos:
 
 I. Ser ciudadano del Estado en pleno uso de sus derechos;
 
@@ -1080,6 +1084,14 @@ XII. Tener bajo su mando los cuerpos de seguridad pública, tránsito y bomberos
 XII bis. Vigilar y ejecutar los programas y subprogramas de protección civil y realizar las acciones encaminadas a optimizar los programas tendientes a prevenir el impacto de los fenómenos perturbadores;
 
 XIII. Vigilar que se integren y funcionen en forma legal las dependencias, unidades administrativas y organismos desconcentrados o descentralizados y fideicomisos que formen parte de la estructura administrativa;
+
+> <small>(ADICIONADA, G.G. 15 DE OCTUBRE DE 2012)</small>
+
+XIII Bis. Desarrollar un programa permanente de mejora regulatoria, en coordinación con la dependencia del Ejecutivo del Estado que establezca la Ley de la materia, mismo que deberá de someter al acuerdo de Cabildo;
+
+> <small>(ADICIONADA, G.G. 15 DE OCTUBRE DE 2012)</small>
+
+XIII Ter. Proponer al ayuntamiento y ejecutar un programa especial para otorgar la licencia provisional de funcionamiento para negocios de bajo riesgo sanitario, ambiental o de protección civil, que autorice el cabildo conforme a la clasificación contenida en el Catálogo Mexiquense de Actividades Industriales, Comerciales y de Servicios de Bajo Riesgo;
 
 > <small>N. DE E. LA APLICACIÓN DE ESTA FRACCIÓN SERA A PARTIR DEL PRIMERO DE ENERO DE 2012; PREVIO A SU APLICACIÓN, LOS INFORMES DE LOS PRESIDENTES MUNICIPALES SE LLEVARAN A CABO DENTRO DE LOS PRIMEROS DIEZ DÍAS DEL MES DE AGOSTO, CON LAS FORMALIDADES ESTABLECIDAS EN LA LEY, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA.</small>
 
@@ -1595,6 +1607,10 @@ II. La tesorería municipal.
 
 III. La Dirección de Obras Públicas o equivalente.
 
+> <small>(ADICIONADA, G.G. 15 DE OCTUBRE DE 2012)</small>
+
+IV. La Dirección de Desarrollo Económico o equivalente.
+
 ###### Artículo 88.
 
 Las dependencias y entidades de la administración pública municipal conducirán sus acciones con base en los programas anuales que establezca el ayuntamiento para el logro de los objetivos del Plan de Desarrollo Municipal.
@@ -1812,6 +1828,50 @@ XXVI. Las demás que les señalen las disposiciones aplicables.
 ###### Artículo 96. Ter.
 
 El Director de Obras Públicas o el Titular de la Unidad Administrativa equivalente, además de los requisitos del artículo 32 de esta Ley, requiere tener los conocimientos suficientes para poder desempeñar el cargo, a juicio del ayuntamiento, contar con título en ingeniería, arquitectura o alguna área afín o con una experiencia mínima de un año.
+
+> <small>(ADICIONADO, G.G. 15 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 96. Quáter.
+
+El Director de Desarrollo Económico o el Titular de la Unidad Administrativa equivalente, tiene las siguientes atribuciones:
+
+I. Diseñar y promover políticas que generen inversiones productivas y empleos remunerados;
+
+II. Promover programas de simplificación, desregulación y transparencia administrativa para facilitar la actividad económica;
+
+III. Auxiliar al Presidente Municipal en la ejecución del programa de mejora regulatoria que autorice el Cabildo en los términos de la Ley de la materia;
+
+IV. Desarrollar e implementar las acciones de coordinación que permitan la adecuada operación del Sistema Único de Gestión Empresarial, de conformidad con la Ley de la materia;
+
+V. Establecer y operar el Sistema de Apertura Rápida de Empresas del Estado de México en coordinación con los distintos órdenes de Gobierno en los términos que establece la Ley de la materia;
+
+VI. Desarrollar y difundir un sistema de información y promoción del sector productivo del Municipio;
+
+VII. Promover y difundir, dentro y fuera del Municipio las ventajas competitivas que se ofrecen en la localidad a la inversión productiva, en foros estatales, nacionales e internacionales;
+
+VIII. Promover en el sector privado la investigación y desarrollo de proyectos productivos, para atraer capitales de inversión;
+
+IX. Impulsar la participación del sector privado en el desarrollo de infraestructura comercial e industrial;
+
+X. Promover la capacitación, tanto del sector empresarial como del sector laboral, en coordinación con instituciones y organismos públicos y privados, para alcanzar mejores niveles de productividad y calidad de la base empresarial instalada en el Municipio, así como difundir los resultados y efectos de dicha capacitación;
+
+XI. Fomentar la creación de cadenas productivas entre micro, pequeños y medianos empresarios, con los grandes empresarios;
+
+XII. Fomentar y promover la actividad comercial, incentivando su desarrollo ordenado y equilibrado, para la obtención de una cultura de negocios corresponsables de la seguridad, limpia y abasto cualitativo en el Municipio;
+
+XIII. Impulsar el desarrollo rural sustentable a través de la capacitación para el empleo de nuevas tecnologías, la vinculación del sector con las fuentes de financiamiento, la constitución de cooperativas para el desarrollo, y el establecimiento de mecanismos de información sobre los programas municipales, estatales y federales, públicos o privados;
+
+XIV. Difundir la actividad artesanal a través de la organización del sector, capacitación de sus integrantes y su participación en ferias y foros, que incentive la comercialización de los productos;
+
+XV. Promover el consumo en establecimientos comerciales y de servicios del Municipio;
+
+XVI. Fomentar la comercialización de productos hechos en el Municipio en mercados nacionales e internacionales;
+
+XVII. Auxiliar al Presidente Municipal en la coordinación con las dependencias del Ejecutivo Estatal que son responsables de la mejora regulatoria y fomento económico en los términos que señale la Ley de la materia;
+
+XVIII. Conducir la coordinación interinstitucional de las dependencias municipales a las que corresponda conocer sobre el otorgamiento de permisos y licencias para la apertura y funcionamiento de unidades económicas;
+
+XIX. Las demás que señalen las disposiciones aplicables.
 
 ### CAPITULO CUARTO. De la Contraloría Municipal
 
@@ -2821,6 +2881,10 @@ IV. Gobierno Municipal, autoridades y organismos auxiliares del ayuntamiento;
 
 V. Servicios públicos municipales;
 
+> <small>(ADICIONADA, G.G. 15 DE OCTUBRE DE 2012)</small>
+
+V Bis. Los principios, acciones y etapas del programa de mejora regulatoria;
+
 VI. Desarrollo económico y bienestar social;
 
 > <small>(REFORMADA, G.G. 18 DE MARZO DE 2011)</small>
@@ -3604,3 +3668,13 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan los ordenamientos jurídicos de igual o menor jerarquía, que se opongan a lo dispuesto por el presente Decreto.
+
+G.G. 15 DE OCTUBRE DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
+
+CUARTO.- El Gobernador y los Ayuntamientos en el ámbito de su esfera administrativa, proveerán el cumplimiento del presente Decreto.
