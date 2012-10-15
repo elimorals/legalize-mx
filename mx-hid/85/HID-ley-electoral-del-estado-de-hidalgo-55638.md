@@ -4,7 +4,7 @@ identifier: "HID-ley-electoral-del-estado-de-hidalgo-55638"
 country: "mx"
 rank: "ley"
 publication_date: "2007-05-11"
-last_updated: "2011-04-25"
+last_updated: "2012-10-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ELECTORAL DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ABRIL DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 11 de mayo de 2007.
 
@@ -225,6 +225,14 @@ De conformidad con lo dispuesto en los artículos 61 y 62 de la Constitución Po
 
 Como lo establecen los artículos 115 de la Constitución Política de los Estados Unidos Mexicanos y 115, 116, 122, 123 y 124 de la Constitución Política del Estado de Hidalgo, el municipio libre es la base de la división territorial y de la organización política y de gobierno. La elección de los miembros integrantes del Ayuntamiento se hará por planillas.
 
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2012)</small>
+
+Los partidos políticos, al integrar sus planillas, deberán registrar por lo menos a un ciudadano que no sea mayor a 29 años como candidato a Regidor, mismo que deberá ocupar uno de los cuatro primeros lugares de la planilla respectiva.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2012)</small>
+
+el ciudadano menor a los 29 años resulta ser candidato a Presidente Municipal o Síndico Procurador, el partido político quedará exento de registrar a otro ciudadano menor a los 29 años como candidato a Regidor.
+
 #### SECCIÓN SEGUNDA. DE LOS DIPUTADOS, SÍNDICOS Y REGIDORES
 
 > <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
@@ -258,6 +266,10 @@ IV.- Los municipios que tengan una población de más de 100,000 habitantes, con
 ###### Artículo 17.
 
 Las elecciones ordinarias de Ayuntamientos se celebrarán cada cuatro años, la de Diputados cada tres años y la de Gobernador cada seis, el primer domingo de julio del año que corresponda. Los electos tomarán posesión de sus cargos el día cinco de septiembre del año de la elección.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2012)</small>
+
+El día en que deban celebrarse las elecciones ordinarias será considerado como no laborable en todo el Territorio Estatal.
 
 > <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
@@ -393,7 +405,7 @@ c.- Fueron aprobados su declaración de principios, programa de acción y estatu
 
 Las actuaciones y documentos a que se refieren las fracciones II y III de este artículo deberán quedar debidamente protocolizadas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 29.
 
@@ -553,7 +565,7 @@ IX.- Someterse al procedimiento para la liquidación de los partidos políticos 
 
 X.- Las demás que establezcan sus estatutos, la presente Ley y sus reglamentos.
 
-> <small>(ADICIONADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 35.
 
@@ -579,9 +591,11 @@ Los partidos políticos no tendrán ante el Instituto Estatal Electoral, represe
 
 Los Consejos Municipales y Distritales enviarán al Consejo General del Instituto Estatal Electoral, el registro de asistencia de cada sesión, al término de la misma.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 36.
 
-No podrán actuar como representantes de los partidos ni coaliciones ante los órganos electorales del Instituto, quienes se encuentren en los siguientes supuestos:
+No podrán actuar como representantes de los partidos ante los órganos electorales del instituto, quienes se encuentren en los siguientes supuestos:
 
 I.- Toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en los Poderes Ejecutivo y Judicial de la Federación y del Estado, así como de los Ayuntamientos, excepto en el caso de que se trate de los ramos de la docencia o de la beneficencia;
 
@@ -645,6 +659,14 @@ o.- Los partidos políticos que no tengan antecedente electoral en la elección 
 
 p.- El financiamiento será entregado en exhibiciones mensuales a los titulares de los órganos internos responsables de la percepción y administración de los recursos, debidamente acreditados ante el Consejo General del Instituto Estatal Electoral, de acuerdo a sus normas estatutarias;
 
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2012)</small>
+
+Aunado a lo anterior, los partidos políticos recibirán por concepto de actividades de educación y capacitación política, investigación socioeconómica y política, así como las tareas editoriales, financiamiento público por un monto total anual equivalente al dos por ciento del que corresponda en el mismo año para las actividades generales a que se refiere esta fracción, el monto total será distribuido y regulado con base en los lineamientos que emita el instituto Estatal Electoral.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2012)</small>
+
+Se destinará anualmente por lo menos el cinco por ciento del financiamiento público a la capacitación, promoción y desarrollo político de las mujeres.
+
 II.- Financiamiento por actividad electoral:
 
 a.- En años de elecciones locales y con base en el presupuesto autorizado para tal fin, se darán apoyos adicionales a los partidos políticos;
@@ -677,7 +699,7 @@ En caso de haber diferencia entre el registro de representantes y la verificaci�
 
 #### SECCIÓN SEGUNDA. DEL FINANCIAMIENTO PRIVADO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 39.
 
@@ -877,7 +899,7 @@ En términos de lo dispuesto en el penúltimo párrafo de la fracción V, del Ar
 
 #### SECCIÓN SÉPTIMA. DE LA REGLAMENTACIÓN CONCERNIENTE AL ACCESO A MEDIOS DE COMUNICACIÓN
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 46.
 
@@ -929,7 +951,7 @@ Los partidos políticos y coaliciones deberán proporcionar oportunamente y cuan
 
 ### CAPÍTULO QUINTO. DE LAS COALICIONES Y FUSIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 51.
 
@@ -939,19 +961,23 @@ Los partidos políticos podrán acordar celebrar coaliciones parciales o totales
 
 Los partidos políticos que se coaliguen, deberán celebrar y registrar el convenio correspondiente en los términos del presente capítulo.
 
-Las coaliciones se subrogarán a los derechos y obligaciones que se consideran por Ley para los partidos políticos, debiendo sujetarse a las siguientes reglas:
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2012)</small>
 
-I.- Las coaliciones no podrán registrar como candidatos, fórmulas o planillas, a quienes hayan sido registrados por otra coalición o partido político para la misma elección.
+Los partidos políticos que conformen una coalición, deberán sujetarse a las siguientes reglas:
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2009)</small>
+l.- Ningún partido político podrá registrar como candidato propio a quien ya haya sido registrado por alguna coalición para la misma elección.
 
-II.- Los partidos políticos no podrán postular a un candidato ya registrado por otro partido político. No se aplicará esta prohibición en los casos en que exista coalición en los términos del presente capítulo. Tampoco podrán postular candidatos propios donde ya hubiese candidatos de la coalición de la que ellos formen parte;
+II.- Las coaliciones no podrán registrar como candidatos, fórmulas o planillas, a quienes hayan sido registrados por otra coalición o partido político para la misma elección.
 
-III.- Los partidos políticos no podrán formar parte en más de una coalición para el mismo proceso electoral; y
+III.- Los partidos políticos no podrán postular a un candidato ya registrado por otro partido político. No se aplicará ésta prohibición en los casos en que exista coalición en los términos del presente capítulo;
 
-IV.- Concluida la etapa de resultados y declaración de validez de las elecciones en las que se encuentren coaligados, automáticamente dejará de surtir sus efectos la coalición.
+IV.- Los partidos políticos no podrán formar parte en más de una coalición para el mismo proceso electoral; y
 
-La coalición permanecerá vigente en el caso de que existan recursos legales promovidos donde sea parte de la misma, ante los órganos electorales o ante los Tribunales Electorales, en cuyo caso, los efectos de la coalición concluirán al momento en que se resuelvan definitivamente los medios de impugnación por parte de la autoridad electoral competente.
+V.- La coalición permanecerá vigente en el caso de que existan recursos legales promovidos donde sea parte de la misma, ante los órganos electorales o ante los Tribunales Electorales, en cuyo caso, los efectos de la coalición concluirán al momento en que se resuelvan definitivamente los medios de impugnación por parte de la autoridad electoral competente.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2012)</small>
+
+Concluida la etapa de resultados y declaración de validez de las elecciones en las que se encuentren coaligados, automáticamente dejará de surtir sus efectos la coalición, en cuyo caso los candidatos de la coalición que resultaren electos quedarán comprendidos en el partido político ante el Congreso y los Ayuntamientos que se hayan señalado en el convenio de coalición.
 
 ###### Artículo 52.
 
@@ -961,15 +987,19 @@ La coalición que se formule para la elección de Gobernador del Estado, tendrá
 
 La coalición que se formule para la elección de Ayuntamientos, tendrá sus efectos en los municipios para los que se concrete el convenio de coalición.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 54.
 
-La coalición total que se celebre para la elección de Diputados por el principio de mayoría relativa, tendrá efectos sobre los dieciocho distritos en que se divide el territorio del Estado, por lo que la coalición deberá registrar fórmulas únicas de candidatos a Diputados de mayoría relativa en los 18 distritos, así como una sola lista de doce fórmulas de candidatos a Diputados por el principio de representación proporcional.
+La coalición total que se celebre para la elección de diputados por el principio de mayoría relativa, comprenderá obligatoriamente los dieciocho distritos en que se divide el territorio del Estado, por lo que la coalición deberá registrar fórmulas únicas de candidatos a Diputados de mayoría relativa en los 18 distritos y cada partido político presentará en lo individual, una lista de doce fórmulas a diputados por el principio de representación proporcional.
 
 ###### Artículo 55.
 
 La coalición parcial que se formule para la elección de Diputados por el principio de mayoría relativa y que tenga como propósito registrar entre una y doce fórmulas de candidatos tendrá efectos exclusivamente dentro de los distritos electorales para los que se coaligaron.
 
-Las coaliciones que se constituyan para postular candidatos a Diputados por el principio de mayoría relativa en trece o más distritos electorales, deberán postular y registrar una sola lista de candidatos a Diputados por el principio de representación proporcional, sin que puedan hacerlo en lo individual, en los términos de esta Ley.
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2012)</small>
+
+Los partidos que se constituyan en coalición para postular candidatos a Diputados por el principio de mayoría relativa en trece o más distritos electorales, deberán postular y registrar sus listas en lo individual de candidatos a Diputados por el principio de representación proporcional, en los términos de esta Ley.
 
 ###### Artículo 56.
 
@@ -979,15 +1009,23 @@ La Secretaría General dará cuenta de inmediato al Consejo General de la solici
 
 En caso de que durante el estudio y análisis del expediente se advierta la existencia de omisiones en el cumplimiento de los requisitos establecidos en la presente Ley, la Secretaría General notificará a los solicitantes para que dentro de las 48 horas siguientes se subsane la omisión, y proceda el Consejo a emitir su resolutivo. En caso de que no se subsanen las omisiones, se les tendrá por no presentada la solicitud de registro del convenio de coalición.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 57.
 
-Las coaliciones se sujetarán a lo siguiente:
+Los partidos políticos que conforman una coalición se sujetarán a lo siguiente:
 
-I.- Las coaliciones deberán registrar a sus representantes ante el Consejo General, Distritales y Municipales, como si se tratara de un solo partido político, la representación de la misma sustituye a la de los coaligados;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2012)</small>
 
-II.- Deberán acreditar tantos representantes como corresponda a un solo partido político ante las mesas de casilla y generales;
+l.- Cada partido político deberá registrar a sus representantes ante el Consejo General, Distritales y Municipales;
 
-III.- Deberán utilizar el emblema autorizado;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2012)</small>
+
+II.- Cada partido político deberá acreditar a sus representantes ante las mesas de casilla y generales;
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2012)</small>
+
+III.- Independientemente del tipo de elección, convenio y términos que en el mismo adopten los partidos coaligados, cada uno de ellos aparecerá con su propio emblema en la boleta electoral, según la elección de que se trate; los votos se sumarán para el candidato de la coalición y contarán en lo individual para cada uno de los partidos políticos para todos los efectos establecidos en esta Ley;
 
 IV.- La prerrogativa de financiamiento público por actividad electoral que corresponda a cada partido político será entregada a cada uno de los partidos coaligados, quienes lo aportarán a la coalición en los términos del convenio celebrado;
 
@@ -995,9 +1033,11 @@ V.- (DEROGADA, P.O. 12 DE OCTUBRE DE 2009)
 
 VI.- La postulación de los candidatos, fórmulas, listas y planillas de las coaliciones deberán apegarse a lo dispuesto en la Sección Primera del Capítulo Cuarto del Título Sexto de esta Ley;
 
-VII.- En la elección de mayoría relativa los votos obtenidos para la coalición, contarán únicamente para ésta;
+VII.- (DEROGADA, P.O. 15 DE OCTUBRE DE 2012)
 
-VIII.- Para efectos de la asignación de la representación proporcional, las coaliciones deberán obtener un porcentaje de la votación equivalente a la que se exige a cada partido político en lo individual y los votos se distribuirán equitativamente entre los partidos coaligados, observando lo dispuesto en el Artículo 56 de esta Ley;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2012)</small>
+
+VIII.- Para efectos de la asignación de la representación proporcional, cada uno de los partidos coaligados deberá obtener el porcentaje de la votación equivalente a la que se exige a cada partido político en lo individual, de igual forma los partidos coaligados deberán registrar listas propias de candidatos a diputados por el principio de representación proporcional observando lo dispuesto en el Artículo 56 de esta Ley;
 
 IX.- Las coaliciones deberán señalar al momento de presentar su solicitud de registro, el número de cada uno de los distritos electorales y el nombre de los municipios en donde pretendan coaligarse; y
 
@@ -1011,9 +1051,9 @@ I.- Los partidos políticos que la forman;
 
 II.- La elección y causas que la motivan;
 
-III.- El emblema y el color o colores, de uno de los partidos que la forman u otros distintos, que cumplan con los requisitos que pidan en particular a los partidos políticos;
+III.- (DEROGADA, P.O. 15 DE OCTUBRE DE 2012)
 
-IV.- El nombre de los representantes comunes de la coalición quienes actuarán como propietarios y suplentes ante los organismos electorales que correspondan;
+IV.- (DEROGADA, P.O. 15 DE OCTUBRE DE 2012)
 
 V.- El nombre del responsable financiero para el manejo de la prerrogativa por actividad electoral, quien será el representante ante la Comisión de Auditoría y Fiscalización;
 
@@ -1031,7 +1071,7 @@ El convenio de fusión deberá registrarse ante el Instituto Estatal Electoral, 
 
 ### CAPÍTULO SEXTO. DE LA PÉRDIDA DEL REGISTRO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 60.
 
@@ -1207,7 +1247,9 @@ El Consejo General será el Órgano Superior de Dirección del Instituto Estatal
 
 El Consejo General se integrará de la forma siguiente:
 
-I.- Cinco consejeros electorales con derecho a voz y voto;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2012)</small>
+
+l.- Siete consejeros electorales con derecho a voz y a voto;
 
 II.- Un representante por cada partido político con registro nacional o estatal, los que contarán únicamente con voz;
 
@@ -1217,7 +1259,9 @@ IV.- El Vocal del Registro Federal de Electores en el Estado, de conformidad con
 
 El Secretario General y el Vocal del Registro Federal de Electores, asistirán únicamente con voz.
 
-Para suplir la ausencia permanente de cualquiera de los consejeros, se designarán cinco consejeros electorales suplentes, listados en orden de prelación.
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2012)</small>
+
+Para suplir la ausencia permanente de cualquiera de los consejeros, se designarán siete consejeros electorales suplentes, listados en orden de prelación.
 
 Por cada representante propietario de partido político, se acreditará un suplente.
 
@@ -1307,13 +1351,13 @@ II.- Realizar cualquier acción contraria a los principios que rigen a la funci�
 
 Su actuación estará sujeta a la Ley de Responsabilidades de los Servidores Públicos del Estado, a través del Congreso Local.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 81.
 
 El Presidente del Instituto Estatal Electoral, en el mes de diciembre del año anterior al de la elección, convocará a los partidos políticos para que a más tardar cinco días antes del inicio del proceso electoral que corresponda, acrediten a sus representantes para integrar el Consejo General.
 
-(DEROGADO SEGUNDO PARRAFO, P.O. 12 DE OCTUBRE DE 2009) (F. DE E. 15 DE FEBRERO DE 2010)
+(DEROGADO SEGUNDO PÁRRAFO, P.O. 12 DE OCTUBRE DE 2009) (F. DE E. 15 DE FEBRERO DE 2010)
 
 > <small>(F. DE E. 15 DE FEBRERO DE 2010)</small>
 
@@ -1567,7 +1611,9 @@ III.- Auxiliar al Consejo Distrital o Municipal en la entrega de los materiales 
 
 IV.- Auxiliar al Consejo Distrital o Municipal para garantizar que en las casillas se cuente con mesas y sillas para su funcionamiento y verificar que se armen e instalen las mamparas, para el secreto del voto;
 
-V.- Instalar la casilla electoral en los términos del Artículo 208 fracción III de este ordenamiento;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2012)</small>
+
+V.- Instalar la casilla electoral en los términos del Artículo 208 fracción V de este ordenamiento;
 
 VI.- Coordinar la entrega de los alimentos a los funcionarios de casilla y a los representantes de partidos ante las mismas;
 
@@ -1891,15 +1937,19 @@ Como autoridad electoral tendrá a su cargo respetar y hacer respetar la libre e
 
 Las Mesas Directivas de Casillas estarán integradas por ciudadanos residentes en la sección respectiva, en ejercicio de sus derechos políticos, de reconocida probidad, que tengan modo honesto de vivir, que sepan leer y escribir, que estén inscritos en el padrón electoral, que cuenten con credencial para votar con fotografía, que hayan participado en el curso de capacitación electoral impartido por el consejo correspondiente, no ser servidores públicos de confianza con mando superior ni tengan cargo de dirección partidista de cualquier jerarquía y no tener más de sesenta años al momento de la designación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 110.
 
-Las mesas directivas de casillas, se integrarán con un Presidente, un Secretario, dos Escrutadores y cuatro suplentes comunes que indistintamente podrán ocupar el cargo de los propietarios ausentes, mismos que serán designados bajo el siguiente procedimiento:
+Las mesas directivas de casillas, se integrarán con un Presidente, un Secretario, dos Escrutadores, y cuatro suplentes generales, mismos que serán designados bajo el siguiente procedimiento:
 
 I.- Hasta cien días antes de la elección de que se trate, el Consejo General procederá a insacular del listado nominal del Estado a un 15% de ciudadanos por cada sección electoral, sin que en ningún caso el número de ciudadanos insaculados sea menor de 50. Esta insaculación se hará por el mes de nacimiento;
 
 II.- El órgano electoral correspondiente notificará, capacitará y evaluará a los ciudadanos insaculados;
 
-III.- El Consejo Electoral respectivo, hará una relación de los ciudadanos con las mejores calificaciones de estos cursos y éstos serán insaculados para designar al Presidente, Secretario, dos Escrutadores y sus suplentes comunes;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2012)</small>
+
+III.- El Consejo Electoral respectivo, hará una relación de los ciudadanos con las mejores calificaciones de estos cursos y éstos serán insaculados para designar al Presidente, Secretario, dos Escrutadores, y los cuatro suplentes generales;
 
 > <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2007)</small>
 
@@ -2333,7 +2383,7 @@ III.- Propaganda de precampaña electoral: El conjunto de escritos, publicacione
 
 IV.- Precandidatos: Los ciudadanos que deciden contender al interior de un determinado partido político o coalición, con el fin de alcanzar su nominación como candidato a un puesto de elección popular.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 149.
 
@@ -2357,11 +2407,11 @@ IV.- El compromiso de retirar la propaganda de sus precandidatos, una vez conclu
 
 En caso de que un partido político o coalición, no informe del inicio de sus procesos partidistas de selección y postulación de candidatos respectivos al Consejo General del Instituto Estatal Electoral, dentro de los plazos establecidos, se entenderá que éstos han iniciado una vez que sean públicos y notorios los actos y gastos de dichos procesos. En tal virtud, se aplicarán las sanciones correspondientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 150.
 
-Los procesos partidistas de selección y postulación de candidatos no podrán iniciarse antes de 75 días naturales del inicio del periodo de presentación de solicitudes de registro de candidatos correspondientes, debiendo concluir a más tardar 15 días naturales antes del inicio de ese periodo, tratándose de las elecciones de diputados y ayuntamientos, y diez días, en el caso de la elección de Gobernador.
+Los procesos partidistas de selección y postulación de candidatos no podrán iniciarse antes de 65 días naturales del inicio del periodo de presentación de solicitudes de registro de candidatos correspondientes, debiendo concluir a más tardar 5 días naturales antes del inicio de ese periodo, tratándose de las elecciones de Diputados y Ayuntamientos, y diez días, en el caso de la elección de Gobernador.
 
 Ninguna precampaña podrá exceder en su duración los siguientes plazos:
 
@@ -2557,11 +2607,11 @@ Los precandidatos podrán ser requeridos por el Instituto Estatal Electoral, a t
 
 El plazo para la presentación de solicitudes de registro de candidatos a Diputados por los principios de mayoría relativa y de representación proporcional, así como de Gobernador del Estado, correrá del quincuagésimo noveno al quincuagésimo séptimo día anterior al de la celebración de la jornada electoral. El de registro de planillas para Ayuntamientos será del trigésimo noveno al trigésimo séptimo día anterior al de la jornada comicial. Los órganos electorales darán amplia difusión a la apertura del periodo de registro.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 173.
 
-Las fórmulas de candidatos a Diputados por el principio de representación proporcional, deberán ser registradas por los partidos políticos o coaliciones ante el Consejo General del Instituto Estatal Electoral, mediante una lista de 12 fórmulas de candidatos a Diputados propietarios con sus respectivos suplentes.
+Las fórmulas de candidatos a Diputados por el principio de representación proporcional, deberán ser registradas por los partidos políticos ante el Consejo General del Instituto Estatal Electoral, mediante una lista de 12 fórmulas de candidatos a Diputados propietarios con sus respectivos suplentes.
 
 Los partidos políticos podrán participar, hasta en cuatro distritos, con candidatos por el principio de mayoría relativa y de representación proporcional.
 
@@ -2581,9 +2631,13 @@ En caso de duplicidad en los registros, será la dirigencia estatal de cada part
 
 Las candidaturas para Diputados serán registradas por fórmulas y las de Ayuntamientos mediante planillas completas para todos los cargos; en ambos casos se integrarán con los propietarios y suplentes respectivos.
 
-De la totalidad de las solicitudes de registro, tanto de las candidaturas a diputados como de las planillas que conforman los ayuntamientos, que presenten los partidos políticos o las coaliciones, en ningún caso incluirán más del 70% de candidatos propietarios de un mismo género.
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2012)</small>
 
-Las listas de representación proporcional se integrarán por segmentos de tres candidaturas. En cada uno de estos, habrá una candidatura de género distinto. Lo anterior, sin perjuicio de los mayores avances que en esta materia señale la normatividad interna y los procedimientos de cada partido político.
+De la totalidad de las solicitudes de registro, tanto de las candidaturas a diputados como de las planillas que conforman los Ayuntamientos, que presenten los partidos políticos o las coaliciones, en ningún caso incluirán más del 70% de candidatos propietarios de un mismo género. En ambos casos las candidaturas, producto de la cuota de género, deberán integrarse por fórmulas de candidaturas propietarias y suplentes del mismo género.
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2012)</small>
+
+Las listas de representación proporcional se integrarán por segmentos de tres candidaturas. En cada uno de éstos, habrá una candidatura de género distinto. Lo anterior, sin perjuicio de los mayores avances que en esa materia señale la normatividad interna y los procedimientos de cada partido. Las candidaturas producto de la cuota de género deberán integrarse por fórmulas de candidaturas propietarias y suplentes del mismo género.
 
 Quedan exceptuadas las candidaturas de mayoría relativa que sean resultado de los procesos de elección interna que establezcan los Estatutos de cada partido político, lo cual deberán acreditar debidamente.
 
@@ -2599,7 +2653,9 @@ II.- Lugar de nacimiento, edad y domicilio;
 
 III.- Cargo para el que se postula;
 
-IV.- Denominación, color o combinación de colores y emblemas del partido político o coalición postulante;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2012)</small>
+
+IV.- Denominación y emblema del partido político postulante;
 
 V.- Clave de elector;
 
@@ -2641,9 +2697,11 @@ II.- Vencido el plazo al que se refiere la fracción anterior, exclusivamente po
 
 Para las coaliciones se tendrá que acreditar que cumplió con lo dispuesto en los artículos 51 al 58 de esta Ley, según corresponda.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 181.
 
-El Instituto Estatal Electoral publicará oportunamente en el Periódico Oficial del Estado y en los diarios de mayor circulación, los nombres de los candidatos, fórmulas o planillas registradas, haciendo constar la denominación, color o colores y emblema del partido o coalición que los postula.
+El Instituto Estatal Electoral Publicará oportunamente en el Periódico Oficial del Estado y en los diarios de mayor circulación, los nombres de los candidatos, fórmulas o planillas registradas, haciendo constar la denominación, color o colores y emblema del partido que los postula.
 
 #### SECCIÓN SEGUNDA. DE LAS CAMPAÑAS ELECTORALES Y DE LA PROPAGANDA ELECTORAL
 
@@ -2771,7 +2829,9 @@ IV.- Vigilar el cumplimiento de las disposiciones de esta Ley, así como firmar 
 
 V.- Acompañar al Presidente de la Mesa Directiva de Casilla al Consejo Distrital, Municipal o Centro de Acopio correspondiente, para hacer llegar el paquete y sobre electoral;
 
-VI.- Deberán portar en sitio visible un distintivo adherible con el logotipo del partido político o coalición que representen, en medidas de 2.5 x 2.5 centímetros, identificando el tipo de nombramiento, propietario, suplente o general, que serán proporcionados por el consejo respectivo al momento de regresar a los partidos políticos los nombramientos debidamente requisitados;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2012)</small>
+
+VI.- Deberán portar en sitio visible un distintivo adherible con el logotipo del partido político que representen, en medidas de 2.5 x 2.5 centímetros, identificando el tipo de nombramiento, propietario, suplente o general, que serán proporcionados por el consejo respectivo al momento de regresar a los partidos políticos los nombramientos debidamente requisitados;
 
 VII.- Solicitar los servicios de notarios públicos, los cuales deben prestarse de manera pronta y gratuita; y
 
@@ -2813,7 +2873,9 @@ II.- Cargo para el que se postula al candidato o candidatos;
 
 III.- Nombre y apellidos del candidato o candidatos y el de los suplentes;
 
-IV.- Color o combinación de colores y emblema del partido político o coalición, en el orden que le corresponde de acuerdo a la antigüedad de su registro;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2012)</small>
+
+IV.- Emblema del partido político, en el orden que le corresponde de acuerdo a la antigüedad de su registro;
 
 V.- Para la elección de Gobernador, un círculo para cada candidato y en el caso de las elecciones de Diputados y Ayuntamientos, un solo círculo para cada fórmula o planilla de propietario y suplente;
 
@@ -2931,21 +2993,33 @@ En caso de que se de alguno de los supuestos anteriores, será suficiente que la
 
 Por consenso de los miembros de la mesa directiva de casilla y de los representantes de los partidos políticos consideren que las condiciones climáticas interfieren con el buen funcionamiento de la casilla, anotándolo en el acta única de la jornada electoral en el renglón de incidentes.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 208.
 
-De no instalarse la casilla conforme al artículo 206 de esta Ley, se procederá conforme a lo siguiente:
+De no instalarse la casilla, a las 8:15 horas conforme al Artículo 206, se procederá conforme a lo siguiente:
 
-I.- Si a las 08:15 horas no están presentes algunos de los propietarios, actuarán en su lugar los suplentes comunes;
+l.- Si estuviera el Presidente, éste designará a los funcionarios necesarios para su integración, recorriendo, en primer término y en su caso, el orden para ocupar los cargos de los funcionarios ausentes con los propietarios presentes y habilitando a los suplentes generales presentes para los faltantes, y en ausencia de los funcionarios designados, de entre los electores que se encuentren en la casilla, verificando previamente que se encuentren inscritos en la lista nominal de electores de la sección correspondiente y cuenten con credencial para votar vigente;
 
-II.- Si a las 08:30 horas no está integrada la mesa directiva con los suplentes comunes, pero está presente el Presidente o un suplente, éste procederá a instalar la casilla designando de entre los votantes a los funcionarios necesarios para suplir a los ausentes. No podrán ser designados los representantes de los partidos políticos acreditados;
+II.- Si no estuviera el Presidente, pero estuviera el Secretario, éste asumirá y realizará las funciones de Presidente de la casilla y procede a integrarla en los términos señalados en la fracción anterior;
 
-III.- En ausencia del Presidente y los suplentes a las 08:30 horas, la casilla deberá instalarse por el Coordinador Electoral del Consejo Distrital o Municipal que corresponda, quien designará de entre los electores presentes a los funcionarios necesarios para suplir a los ausentes;
+III.- Si no estuvieran el Presidente ni el Secretario, pero estuviera alguno de los escrutadores, éste asumirá y realizará las funciones de Presidente y procederá a integrar la casilla de conformidad con lo señalado en la fracción l;
 
-IV.- Cuando no sea posible la intervención oportuna del Coordinador Electoral del Consejo Distrital o Municipal, los representantes de los partidos políticos ante las casillas, designarán por unanimidad a los funcionarios necesarios para integrar la mesa directiva e instalar la casilla.
+IV.- Si sólo estuvieran los suplentes generales, uno de ellos asumirá y realizará las funciones de Presidente, los otros las de Secretario, primer y segundo Escrutador.
 
-Para lo anterior, bastará que los representantes de los partidos políticos expresen su conformidad para designar a los miembros de la mesa directiva, siempre y cuando los mismos garanticen la imparcialidad del proceso, en los términos de esta Ley; y
+Si faltare alguno o algunos de los suplentes, él que haya asumido la calidad de Presidente deberá instalar la casilla nombrando a los funcionarios necesarios de entre los electores presentes, verificando previamente que se encuentren inscritos en la lista nominal de electores de la sección correspondiente y cuenten con credencial para votar vigente;
 
-V.- De ocurrir alguno de los supuestos previstos, se hará constar en el acta única de la jornada electoral.
+V.- Si no asistiera ninguno de los funcionarios propietarios y suplentes generales, el Coordinador Electoral del Consejo Distrital o Municipal que corresponda tomará las medidas necesarias para la instalación de la misma y designará al personal encargado de ejecutarlas y cerciorarse de su instalación;
+
+VI.- Cuando no sea posible la intervención oportuna del Coordinador Electoral del Consejo Distrital o Municipal que corresponda, los representantes de los partidos políticos ante la mesa directiva de casilla designarán, por mayoría, a los funcionarios necesarios para integrar e instalar las casillas de entre los electores presentes, verificando previamente que se encuentren inscritos en la lista nominal de electores de la sección correspondiente y cuenten con credencial para votar vigente; y
+
+VII.- De ocurrir alguno de los supuestos previstos, se hará constar en el acta única de la jornada electoral.
+
+En el supuesto previsto en la fracción VI, se solicitará:
+
+a.- La presencia de Notario Público, quien tiene la obligación a petición expresa de los interesados de acudir y dar fe de hechos; y
+
+b.- En ausencia de Notario Público, bastará que los representantes expresen su conformidad para designar, de común acuerdo a los miembros de la mesa directiva.
 
 ###### Artículo 209.
 
@@ -3047,11 +3121,27 @@ El escrutinio y cómputo es el procedimiento por el cual los integrantes de cada
 
 I.- El número de electores que votó en la casilla;
 
-II.- El número de votos emitidos en favor de cada uno de los partidos políticos, coaliciones o candidatos;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2012)</small>
 
-III.- El número de votos nulos; y
+II.- El número de votos emitidos en favor de cada uno de los partidos políticos o candidatos;
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2012)</small>
+
+III.- El número de votos nulos, debiéndose entender por éstos:
+
+a).- Aquél expresado por un elector en una boleta que depositó en la urna, sin haber marcado ningún emblema de un partido político; y
+
+b).- Cuando el elector marque dos o más emblemas sin existir coalición entre los partidos que hayan sido marcados; y
 
 IV.- El número de boletas sobrantes de cada elección.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2012)</small>
+
+Se entenderá por boletas sobrantes aquellas que habiendo sido entregadas a la mesa directiva de casilla no fueron utilizadas por los electores.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2012)</small>
+
+Para los efectos anteriores, en el acta única de la jornada electoral, se incluirá un apartado por cada coalición registrada que precise, que en el caso de votar por más de un partido, cuando exista coalición, se tomará como un solo voto a favor del candidato.
 
 ###### Artículo 218.
 
@@ -3061,7 +3151,9 @@ I.- El Secretario de la Mesa Directiva de Casilla contará las boletas electoral
 
 II.- Se abrirá la urna de la elección de que se trate;
 
-III.- Se comprobará si el número de boletas depositadas en ella corresponde al número de electores que sufragaron, para lo cual uno de los escrutadores sacará de la urna, una por una las boletas, contándolas en voz alta, en tanto que el otro escrutador irá contando en la lista nominal de electores el número de los ciudadanos que votaron. El resultado de estas operaciones se consignará en el acta única de la jornada electoral en el apartado correspondiente al escrutinio y cómputo;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2012)</small>
+
+III.- Se comprobará si el número de boletas depositadas en ella corresponde al número de electores que sufragaron, para lo cual uno de los escrutadores sacará de la urna, una por una las boletas, contándolas en voz alta, y clasificándolas, en tanto que el otro escrutador irá contando en la lista nominal de electores el número de los ciudadanos que votaron. El resultado de estas operaciones se consignará en el acta única de la jornada electoral en el apartado correspondiente al escrutinio y cómputo;
 
 IV.- Al terminar de sacar las boletas de la urna, se mostrará a todos los presentes que quedó vacía;
 
@@ -3071,7 +3163,13 @@ a.- Elección de Gobernador del Estado; y
 
 b.- Elección de Diputados;
 
-VI.- A continuación, tomando una por una las boletas, el primer escrutador leerá en voz alta los nombres de los partidos políticos en favor de cuyo candidato, fórmula o planilla se haya votado, lo que comprobará el otro escrutador, quien irá agrupando las boletas que correspondan a cada uno de los partidos políticos, las de los candidatos no registrados y las que tengan cruzados dos o más círculos de partido o ninguno; y
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2012)</small>
+
+c.- Elección de Ayuntamientos.
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2012)</small>
+
+VI.- A continuación, tomando una por una las boletas, el primer escrutador leerá en voz alta los nombres de los partidos políticos en favor de cuyo candidato, fórmula o planilla se haya votado, lo que comprobará el otro escrutador, quien irá agrupando las boletas que correspondan a cada uno de los partidos políticos, las de los candidatos no registrados y las que tengan cruzados dos o más círculos de partido o ninguno, con la excepción prevista en la fracción II del Artículo siguiente; y
 
 VII.- Posteriormente se realizará la suma de los votos.
 
@@ -3081,9 +3179,13 @@ Para el cómputo de los votos, se observarán las siguientes reglas:
 
 I.- Los votos emitidos se computarán a cada partido político en favor de cuyo candidato, fórmula o planilla se haya sufragado, contándose un voto por cada boleta que aparezca marcada;
 
-II.- Si el elector cruza o marca más de un círculo o bien, no cruza ninguno, el voto será nulo y se computará como tal;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2012)</small>
 
-III.- Se sumarán y agruparán por separado las boletas que contengan los votos válidos emitidos a favor de cada candidato, fórmula o planilla registrados, así como los votos nulos emitidos a favor de los candidatos no registrados y los que tengan cruzados más de un círculo o ninguno; y
+II.- Si el elector cruza o marca más de un círculo y exista coalición entre los partidos cuyos emblemas hayan sido marcados, el voto contará para el candidato de la coalición y se registrará por separado en el espacio correspondiente del acta única de la jornada electoral de casilla;
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2012)</small>
+
+III.- Se sumarán y agruparán por separado las boletas que contengan los votos válidos emitidos a favor de cada candidato, fórmula o planilla registrados, así como los votos nulos emitidos a favor de los candidatos no registrados y los que tengan cruzados más de un círculo o ninguno, con la excepción prevista en la fracción anterior; y
 
 IV.- El voto será válido si el elector cruza o marca dentro del cuadro en que se encuentren comprendidos los nombres de los candidatos y el emblema del partido postulante, de tal modo que a simple vista, se desprenda de manera indubitable que votó en favor de determinado candidato. El voto será válido en el caso previsto en el artículo 192 de esta Ley.
 
@@ -3327,6 +3429,10 @@ a).- Se extraerá del sobre respectivo, el original del acta única de la jornad
 
 En caso de que el contenido del acta única de la jornada electoral referente a los resultados de la votación sea cuestionado por evidenciar presunto error aritmético o alteración notoria en el texto de los datos asentados, o porque todos los votos hayan sido depositados a favor de un mismo partido, será procedente por única vez, abrir el paquete electoral y repetir el escrutinio y cómputo de la casilla de que se trate.
 
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2012)</small>
+
+En su caso, se sumarán los votos que hayan sido emitidos a favor de dos o más partidos coaligados y que por esa causa hayan sido consignados por separado en el apartado correspondiente del acta única de la jornada electoral. La suma distrital o municipal según sea el caso, de tales votos se distribuirá igualitariamente entre los partidos que integran la coalición; de existir fracción, los votos correspondientes se asignarán a los partidos de más alta votación.
+
 > <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 b).- Respecto de la elección de Diputados y de los cómputos distritales para la elección de Gobernador, si de la sumatoria se establece que la diferencia entre el candidato presunto ganador de la elección y el que haya obtenido el segundo lugar en votación es igual o menor a un punto porcentual de la votación válida emitida en el distrito, y existe la petición expresa del representante del partido que postuló al segundo de los candidatos antes señalados, el Consejo Distrital deberá proceder a realizar el recuento de votos en la totalidad de las casillas. En todo caso, se excluirán del procedimiento anterior las casillas que ya hubiesen sido objeto de recuento.
@@ -3555,7 +3661,7 @@ V.- Sobrepasen por más del 10% en las elecciones de Ayuntamientos o Diputados l
 
 VI.- Incurran en cualquier otra falta de las previstas en esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 257.
 
@@ -3567,7 +3673,7 @@ Las precitadas resoluciones podrán ser impugnadas en los términos de la Ley Es
 
 El monto de las multas impuestas incrementará el presupuesto del Instituto Estatal Electoral, y deberá cubrirse en un plazo improrrogable de quince días naturales, contados a partir de la notificación al partido político o coalición.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 258.
 
@@ -3655,7 +3761,7 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 10 DE SEPTIEMBRE DE 2007.
 
@@ -3684,3 +3790,13 @@ Segundo.- Las presentes Reformas se aplicarán a partir del inicio del proceso e
 Tercero.- En tanto no se apliquen las presentes Reformas, queda vigente el transitorio noveno del Decreto Número 209, de fecha primero de octubre de 2009, Publicado el 6 de octubre del mismo año en el Periódico Oficial del Estado.
 
 Cuarto.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE OCTUBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su Publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones que contravengan lo dispuesto en las presentes reformas, adiciones y derogaciones.
