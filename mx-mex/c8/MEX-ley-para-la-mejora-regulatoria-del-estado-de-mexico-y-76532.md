@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-mejora-regulatoria-del-estado-de-mexico-y-76532"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-06"
-last_updated: "2010-09-06"
+last_updated: "2012-10-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76532&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2012.
 
 Ley publicada en la Sección Tercera a la Gaceta de Gobierno del Estado de México, el lunes 6 de septiembre de 2010.
 
@@ -60,6 +60,10 @@ II. Promueva la eficacia y eficiencia gubernamental en todos sus ámbitos;
 III. Promueva la transparencia;
 
 IV. Fomente el desarrollo socioeconómico y la competitividad de la entidad;
+
+> <small>(ADICIONADA, G.G. 15 DE OCTUBRE DE 2012)</small>
+
+IV Bis. Implemente la desregulación para la apertura, instalación, operación y ampliación de empresas;
 
 V. Mejore la calidad e incremente la eficiencia del marco regulatorio, a través de la disminución de los requisitos, costos y tiempos en que incurren los particulares para cumplir con la normativa aplicable, sin incrementar con ello los costos sociales;
 
@@ -643,21 +647,65 @@ Los Ayuntamientos que no cuenten con un portal de internet, podrán celebrar un 
 
 Las infracciones administrativas que se generen por el incumplimiento al contenido de la Ley, se sancionarán de conformidad con lo previsto en el Código de Procedimientos Administrativos del Estado de México y la Ley de Responsabilidades de los Servidores Públicos del Estado de México y Municipios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 15 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 40.
 
-Sin perjuicio de las infracciones previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado de México y Municipios, constituyen infracciones administrativas imputables a los titulares de las dependencias o entidades, así como de las unidades administrativas competentes:
+Sin perjuicio de las previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, constituyen infracciones administrativas en materia de mejora regulatoria imputables a los servidores públicos, las siguientes:
 
 I. La ausencia de notificación de la información susceptible de inscribirse o modificarse en el Registro Estatal o Municipal de Trámites, respecto de trámites a realizarse por los particulares para cumplir una obligación, dentro de los cinco días hábiles siguientes a que entre en vigor la disposición que regule dicho trámite;
 
 II. La ausencia de entrega al responsable de la comisión de los anteproyectos y demás actos materia del conocimiento de ésta, acompañados con los estudios de impacto regulatorio correspondientes;
 
-III. La exigencia de trámites, cargas tributarias, datos o documentos adicionales a los previstos en el Registro;
+> <small>(REFORMADA, G.G. 15 DE OCTUBRE DE 2012)</small>
+
+III. La exigencia de trámites, requisitos, cargas tributarias, datos o documentos adicionales a los previstos en la legislación aplicable y en el Registro;
 
 IV. La falta de respuesta de la información que cualquier interesado realice por escrito sobre los anteproyectos de normatividad y sus estudios de impacto regulatorio; y
 
 V. Incumplimiento de plazos de respuesta establecidos en los trámites, inscritos en los Registros Estatal y Municipales, de Trámites y Servicios.
 
+> <small>(ADICIONADA, G.G. 15 DE OCTUBRE DE 2012)</small>
+
+VI. Incumplimiento sin causa justificada a los programas y acciones de mejora regulatoria aprobados en el Ejercicio Fiscal que corresponda, en perjuicio de terceros, promotores de inversión, inversionistas, empresarios y emprendedores;
+
+> <small>(ADICIONADA, G.G. 15 DE OCTUBRE DE 2012)</small>
+
+VII. Obstrucción de la gestión empresarial consistente en cualquiera de las conductas siguientes:
+
+a) Alteración de reglas y procedimientos;
+
+b) Negligencia o mala fe en el manejo de los documentos del particular o pérdida de éstos;
+
+c) Negligencia o mala fe en la integración de expedientes;
+
+d) Negligencia o mala fe en el seguimiento de trámites que dé lugar a la aplicación de la afirmativa ficta;
+
+e) Cualquier otra que pueda generar intencionalmente perjuicios o atrasos en las materias previstas en esta Ley.
+
+> <small>(ADICIONADA, G.G. 15 DE OCTUBRE DE 2012)</small>
+
+VIII. Incumplimiento a lo dispuesto en la fracción IV Bis del artículo 2 de la presente Ley.
+
 La Comisión respectiva informará por escrito a la Contraloría que corresponda, de los casos que tenga conocimiento sobre incumplimiento a lo previsto en esta Ley y su reglamento, para efecto de que, conforme a sus atribuciones, instruya el procedimiento respectivo y aplique las sanciones correspondientes.
+
+> <small>(ADICIONADO G.G. 15 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 40 Bis.
+
+Las infracciones administrativas a las que se refiere este artículo serán imputables al servidor público que por acción u omisión constituya una infracción a las disposiciones de esta Ley, mismas que serán calificadas y sancionadas por el Órgano de Control Interno competente, quien sancionará con:
+
+I. Amonestación;
+
+II. Multa de 50 a 1000 días de salario mínimo vigente;
+
+III. Suspensión de 15 a 60 días del empleo, cargo o comisión;
+
+IV. Destitución del empleo, cargo o comisión; y/o
+
+V. Inhabilitación de 1 a 10 años en el servicio público estatal y municipal.
+
+La Comisión respectiva a petición de parte, denunciará por escrito a la Controlaría que corresponda, de los casos que conozca sobre incumplimiento a lo previsto en esta Ley y su Reglamento, para efecto de que, conforme a sus atribuciones, instruya el procedimiento respectivo y aplique las sanciones correspondientes.
 
 ###### Artículo 41.
 
@@ -708,3 +756,15 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. LUIS ENRIQUE MIRANDA NAVA
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 15 DE OCTUBRE DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
+
+CUARTO.- El Gobernador y los Ayuntamientos en el ámbito de su esfera administrativa, proveerán el cumplimiento del presente Decreto.
