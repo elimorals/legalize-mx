@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2012-08-23"
+last_updated: "2012-10-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE OCTUBRE DE 2012.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -6040,65 +6040,11 @@ XXVIII. Representar a la Secretaría de Cultura ante el Comité de Patrimonio In
 
 XXIX. Coordinarse con las dependencias de la Administración Pública local, en las acciones de mantenimiento mayor a los inmuebles y espacios culturales de la ciudad, con la finalidad de conservar y mantener en buen estado su patrimonio histórico y cultural.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE JULIO DE 2005)</small>
-
-Artículo 97 D.- Corresponde a la Coordinación de Programación Artística:
-
-> <small>(REFORMADA, G.O. 26 DE OCTUBRE DE 2007)</small>
-
-I. Presentar oportunamente al Secretario, el programa anual de actividades con relación a eventos artísticos y culturales a realizarse en el territorio del Distrito Federal;
-
-> <small>(REFORMADA, G.O. 26 DE OCTUBRE DE 2007)</small>
-
-II. Previa aprobación del Secretario, coordinar y evaluar la contratación de artistas, grupos musicales y eventos artísticos en general;
-
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
-
-III. Definir los criterios para la utilización de los diferentes foros en el Distrito Federal, para la realización de los eventos programados;
-
-> <small>(REFORMADA, G.O. 26 DE OCTUBRE DE 2007)</small>
-
-IV. Establecer coordinación con los Órganos Político-Administrativos del Distrito Federal para la celebración de eventos en sus correspondientes demarcaciones territoriales;
-
-> <small>(REFORMADA, G.O. 26 DE OCTUBRE DE 2007)</small>
-
-V. Establecer, coordinar, operar y supervisar los requerimientos de apoyo logístico a los diversos eventos culturales donde participa la Secretaría de Cultura;
-
-> <small>(REFORMADA, G.O. 26 DE OCTUBRE DE 2007)</small>
-
-VI. Establecer los mecanismos necesarios para proporcionar el debido mantenimiento al equipo de producción e infraestructura para los diversos eventos culturales;
-
-> <small>(REFORMADA, G.O. 26 DE OCTUBRE DE 2007)</small>
-
-VII. Formar un catálogo de artistas y grupos musicales con el fin de disponer de un instrumento de información sistematizada para la realización de sus propias actividades; y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE OCTUBRE DE 2007)</small>
-
-VIII. Coordinar y programar al personal artístico de la Secretaría.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE OCTUBRE DE 2007)</small>
-
 ###### Artículo 97-D.
 
-Corresponde a la Dirección de Programación Artística:
+(DEROGADO, G.O. 15 DE OCTUBRE DE 2012)
 
-I. Presentar oportunamente el programa anual de actividades con relación a eventos artísticos y culturales a realizarse en el territorio del Distrito Federal;
-
-> <small>(F. DE E., G.O. 11 DE JULIO DE 2002)</small>
-
-II. Coordinar y evaluar la contratación de artistas, grupos musicales y eventos artísticos en general, previa aprobación del Secretario;
-
-III. Definir los criterios para la utilización de los diferentes foros en el Distrito Federal, para la realización de los eventos programados;
-
-IV. Establecer la debida coordinación con los Órganos Político-Administrativos del Distrito Federal para la celebración de eventos en sus correspondientes demarcaciones territoriales;
-
-V. Promover la obtención de apoyos externos y donativos encaminados al desarrollo de las actividades artísticas y culturales de la Secretaría;
-
-VI. Establecer el debido contacto con entidades del Gobierno Federal en el ámbito cultural, así como con instituciones y fundaciones culturales de carácter privado que coadyuven al mejor desarrollo de las actividades artísticas y culturales de la Secretaría; y
-
-VII. Formar un catálogo de artistas y grupos musicales con el fin de disponer de un instrumento de información sistematizada para la realización de sus propias actividades.
-
-(ADICIONADO, G.O. 21 DE MAYO DE 2002) (F. DE E., G.O. 11 DE JULIO DE 2002)
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 97-E.
 
@@ -6192,33 +6138,57 @@ XXII. Implementar un sistema de información que permita evaluar el funcionamien
 
 XXIII. Desarrollar las actividades que por necesidades institucionales se requieran, así como aquellas que encomiende el Titular de la Secretaría de Cultura.
 
-> <small>(ADICIONADO, G.O. 26 DE OCTUBRE DE 2007)</small>
-
 ###### Artículo 97-G.
 
-Corresponde a la Coordinación de Circuito de Festivales:
-
-I. Proponer el calendario de festivales, proyectos, exhibiciones y eventos que puedan formar parte de los Círculos de Festivales;
-
-II. Desarrollar cada uno de los proyectos desde su planeación, desarrollo, gestión, ejecución y evaluación;
-
-III. Llevar la oferta cultural de los festivales de primer nivel al público que no tiene acceso a ellos por carecer de los recursos necesarios para ello;
-
-IV. Recuperar espacios públicos a través de la programación de actividades artístico-culturales;
-
-V. (DEROGADA, G.O. 25 DE NOVIEMBRE DE 2008)
-
-VI. (DEROGADA, G.O. 25 DE NOVIEMBRE DE 2008)
-
-VII. (DEROGADA, G.O. 25 DE NOVIEMBRE DE 2008)
-
-VIII. (DEROGADA, G.O. 25 DE NOVIEMBRE DE 2008)
-
-IX. (DEROGADA, G.O. 25 DE NOVIEMBRE DE 2008)
+(DEROGADO, G.O. 15 DE OCTUBRE DE 2012)
 
 ###### Artículo 97-H.
 
 (DEROGADO, G.O. 25 DE NOVIEMBRE DE 2008)
+
+> <small>(ADICIONADO, G.O. 15 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 97-I.
+
+Corresponde a la Coordinación de Programación en Espacios Públicos:
+
+I. Presentar oportunamente al Secretario el programa anual de actividades en relación con eventos artísticos y culturales a realizarse en el territorio del Distrito Federal;
+
+II. Previa aprobación del Secretario, coordinar y evaluar la contratación de artistas, grupos musicales y eventos artísticos en general;
+
+III. Definir los criterios para la utilización de los diferentes foros en el Distrito Federal para la realización de los eventos programados.
+
+IV. Establecer coordinación con los Órganos Político-Administrativos del Distrito Federal para la celebración de eventos en sus correspondientes demarcaciones territoriales;
+
+V. Establecer, coordinar, operar y supervisar los requerimientos de apoyo logístico a los diversos eventos culturales donde participa la Secretaría de Cultura;
+
+VI. Establecer los mecanismos necesarios para proporcionar el debido mantenimiento al equipo de producción e infraestructura para los diversos eventos culturales;
+
+VII. Formar un catálogo de artistas y grupos musicales con el fin de disponer de un instrumento de información sistematizada para la realización de sus propias actividades;
+
+VIII. Coordinar y programar al personal artístico de la Secretaría de Cultura;
+
+IX. Proponer el calendario de festivales, proyectos, exhibiciones y eventos que puedan formar parte de la Programación de Espacios Públicos;
+
+X. Desarrollar cada uno de los proyectos desde su planeación, desarrollo, gestión, ejecución y evaluación;
+
+XI. Llevar la oferta cultural de los festivales de primer nivel al público que no tiene acceso a ellos por carecer de los recursos necesarios para ello; y
+
+XII. Recuperar espacios públicos a través de la programación de actividades artístico-culturales.
+
+> <small>(ADICIONADO, G.O. 15 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 97-J.
+
+Corresponde a la Dirección General de la Comisión de Filmaciones de la Ciudad de México:
+
+I. Regular las actividades de la industria audiovisual en el Distrito Federal privilegiando la sana convivencia entre productores audiovisuales, autoridades y los distintos actores de la sociedad y, en su caso, servir como mediador entre los mismos;
+
+II. Coadyuvar con las instancias de la administración pública local y federal, así como con los particulares para ampliar la oferta de espacios propicios para la actividad propia de los productores audiovisuales;
+
+III. Difundir por todos los medios a su alcance la oferta de los productores audiovisuales y la infraestructura fílmica con la que cuenta el Distrito Federal; y
+
+IV. Las demás atribuciones que señala la Ley de Filmaciones del Distrito Federal y los demás ordenamientos aplicables.
 
 #### SECCION XII
 
@@ -10076,9 +10046,13 @@ D) Dirección General de Servicios Urbanos;
 
 E) Dirección General de Desarrollo Social;
 
-F) Dirección General de Participación Ciudadana y Gestión Social; y
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 2012)</small>
 
-G) (DEROGADO, G.O. 19 DE DICIEMBRE DE 2008)
+F) Dirección General de Cultura; e (sic)
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 15 DE OCTUBRE DE 2012)</small>
+
+G) Dirección General de Seguridad Pública.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE NOVIEMBRE DE 2008)</small>
 
@@ -10304,9 +10278,17 @@ F) Dirección General de Ecología y Desarrollo Sustentable; y (sic)
 
 G) Dirección General de Cultura;
 
-> <small>(ADICIONADA, G.O. 26 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 2012)</small>
 
-H) Dirección General de Enlace Ciudadano.
+H) Dirección General de Participación y Concertación Ciudadana;
+
+> <small>(ADICIONADO, G.O. 15 DE OCTUBRE DE 2012)</small>
+
+I) Dirección General de Desarrollo Económico y Fomento Cooperativo; e (sic)
+
+> <small>(ADICIONADO, G.O. 15 DE OCTUBRE DE 2012)</small>
+
+J) Dirección Ejecutiva de Mejora Comunitaria.
 
 > <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
 
@@ -11640,31 +11622,93 @@ II. Formular y ejecutar los programas de simplificación administrativa, moderni
 
 III. Coordinar y dar seguimiento a los programas que lleve a cabo el Órgano Político-Administrativo o en los cuales participe, en materia de modernización administrativa.
 
-> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 151.
 
-Corresponde a la Dirección General de Participación Ciudadana y Gestión Social:
+Corresponde a la Dirección General de Cultura:
 
-I. Fomentar la participación para que la población intervenga en los programas Delegacionales;
+I. Establecer los lineamientos generales de la actividad cultural de la demarcación territorial en Cuauhtémoc, observando lo establecido por la Secretaría de Cultura del Gobierno del Distrito Federal;
 
-II. Realizar las acciones necesarias para dar cumplimiento dentro de las responsabilidades de la Delegación a la Ley de Participación Ciudadana, como forma permanente de ejercer un Gobierno Democrático;
+II. Aprobar acciones, actividades y eventos culturales, de recreación y esparcimiento, talleres de iniciación artística, de turismo cultural, salvaguarda, conservación y puesta en valor del patrimonio cultural, los monumentos culturales, espacios y zonas patrimoniales ubicados dentro de la demarcación territorial en el Órgano Político-Administrativo en Cuauhtémoc;
 
-III. Coordinar con organizaciones de Colonos, asociaciones, y representaciones vecinales, los servicios que deben realizarse en su comunidad en concertación con las autoridades;
+III. Programar acciones de coordinación, vinculación interinstitucional y de apoyo para la programación y realización de programas, proyectos, actividades o eventos especiales, en coordinación con Direcciones Territoriales en Cuauhtémoc; otras Delegaciones Políticas, la Secretaría de Cultura del Gobierno del Distrito Federal, la Secretaría de Turismo del Distrito Federal, otros organismos y entidades del Gobierno del Distrito Federal.
 
-IV. Coadyuvar a la atención de las quejas que los colonos presentan por conducto de sus representantes o en forma individual;
+IV. Planear y coordinar eventos de preservación de las tradiciones y costumbres populares de los barrios y colonias, promoviendo las culturas populares, urbanas, juveniles e indígenas, como un espacio de identidad y encuentro en Cuauhtémoc;
 
-V. Vigilar y supervisar que las demandas ciudadanas sean debidamente atendidas;
+V. Administrar y asegurar los recursos económicos generados en los Centros Culturales, Casas de Cultura, Auditorios, Teatros y Foros al Aire Libre, proporcionando los recursos materiales y humanos suficientes para su óptimo funcionamiento; así como gestionar y administrar los recursos materiales, humanos, la logística y equipamiento;
 
-VI. Coordinar las acciones que las Direcciones Generales Sustantivas deban realizar a fin de que las demandas de los ciudadanos sean atendidas;
+VI. Coordinar la implementación de los programas de animación cultural y de cultura comunitaria en toda la demarcación;
 
-VII. Recibir, atender y dar respuesta a las solicitudes y peticiones que formulen los comités vecinales con base en la Ley de Participación Ciudadana; y
+VII. Coordinar a nivel general la implementación y buen funcionamiento de todos los Programas Culturales en la demarcación;
 
-VIII. Proporcionar servicios funerarios básicos a la comunidad de escasos recursos.
+VIII. Planear, elaborar y dirigir estrategias para incentivar el arte y la cultura entre los habitantes de la demarcación;
+
+IX. Planear y elaborar estrategias para colocar a la demarcación entre los principales destinos culturales de la ciudad;
+
+X. Coordinar a nivel institucional las acciones conjuntas para la implementación de apoyos e intercambios en materia de cultura;
+
+XI. Elaborar y dar seguimiento a la aplicación del Presupuesto Operativo Anual de la Dirección General de Cultura;
+
+XII. Elaborar y coordinar la impresión y distribución de acervos editoriales en diversos géneros;
+
+XIII. Generar condiciones favorables para el adecuado uso del tiempo libre y su consecuente impacto en el desarrollo social de la población y su enriquecimiento cultural;
+
+XIV. Establecer la coordinación en materia de cultura con instituciones u organismos de gobierno, tanto municipales y nacionales, como internacionales que trabajen en materia de cultura, para impulsar los proyectos de la Dirección General de Cultura;
+
+XV. Establecer convenios en materia de cultura con instituciones públicas o privadas, que sean beneficiosos para los proyectos y objetivos de la Delegación Cuauhtémoc;
+
+XVI. Coordinar coloquios, foros, encuentros culturales, mesas redondas y presentaciones de libros;
+
+XVII. Fomentar y coordinar el arte público como son murales, espacios escultóricos, grafiti, entre otros;
+
+XVIII. Asegurar la participación de la Delegación en Programas Culturales; y
+
+XIX. Las demás que le asignen conforme a las funciones inherentes al puesto y la normatividad aplicable.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 15 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 152.
 
-(DEROGADO, G.O. 19 DE DICIEMBRE DE 2008)
+Corresponde a la Dirección General de Seguridad Pública:
+
+I. Establecer y cooperar con el Titular de la Jefatura Delegacional en Cuauhtémoc las medidas pertinentes para el cumplimiento del Programa de Seguridad Publica;
+
+II. Apoyar al Titular de la Jefatura Delegacional en Cuauhtémoc en la ejecución de las Políticas Generales en materia de Seguridad Pública que a efecto establezca el Jefe de Gobierno;
+
+III. Programar, coordinar y supervisar con la Secretaría de Seguridad Pública del Distrito Federal acciones para prevenir faltas administrativas que van en contra de la Ley de Cultura Cívica del Distrito Federal, tales como tarjeteros, prostitución, indigentes, franeleros, hojalateros y talleres mecánicos que desempeñen sus labores en la vía pública y la reventa de boletos de espectáculos públicos en cualquier horario;
+
+IV. Coadyuvar acciones con la Secretaría de Educación del Distrito Federal y la Secretaría de Seguridad Pública del Distrito Federal, con el fin de generar una cultura de respeto a las instituciones y comunidad;
+
+V. Coordinar y supervisar el Programa de Enfajillado y Retiro de los vehículos abandonados en la vía pública, en conjunto con la Secretaría de Seguridad Pública del Distrito Federal y la Dirección Ejecutiva de Juzgados Cívicos del Gobierno del Distrito Federal;
+
+VI. Establecer, formular, ejecutar y vigilar el Programa de Seguridad Pública Delegacional, en coordinación con las dependencias competentes;
+
+VII. Coordinar con la Secretaría de Educación Pública y la Secretaría de Seguridad Pública del Gobierno del Distrito Federal, las sesiones mensuales del Subcomité de Seguridad Escolar;
+
+VIII. Diseñar conjuntamente con la Jefatura Delegacional la determinación de las medidas conducentes, para el cumplimiento de las políticas generales de Seguridad Pública, que al efecto establezca el Jefe de Gobierno del Distrito Federal;
+
+IX. Coordinar, organizar y vigilar la integración así como el buen funcionamiento de las sesiones del Subcomité de Seguridad Pública Delegacional en Cuauhtémoc;
+
+X. Participar conjuntamente con los integrantes del Subcomité de Seguridad Pública Delegacional en Cuauhtémoc para el desarrollo del Programa de Seguridad Pública de la Delegación, con base en los estudios de los Índices de Delincuencia, tomando en consideración las propuestas de grupos sociales, organizaciones y ciudadanos en general;
+
+XI. Coordinar, supervisar e implementar programas como: Escuela Segura y Libre de Drogas; Padres Vigilantes Camino Seguro a Casa; Mochila Segura; Código de Apoyo Ciudadano y Socio Dramas para la Prevención del Delito y las Adicciones, con el apoyo de la Secretaría de Seguridad Pública del Distrito Federal, la Secretaría de Educación Pública y Padres de Familia;
+
+XII. Promover y coordinar acciones tendientes a disminuir la incidencia delictiva, con la Jefatura de Unidad Departamental de Policía para la Prevención del Delito y las Direcciones Territoriales integrantes de la Delegación Cuauhtémoc;
+
+XIII. Elaborar y participar en políticas, normas y mecanismos de protección a la ciudadanía que habita, labora o visita la Delegación Cuauhtémoc;
+
+XIV. Coordinar, con las diversas instancias delegacionales y de gobierno, el desarrollo e instrumentación de proyectos, acciones y medidas tendientes a prevenir el delito y así fomentar la cultura de la legalidad entre la población;
+
+XV. Fungir como enlace ante la Secretaría de Seguridad Pública, la Secretaría de Transportes y Vialidad, la Procuraduría General de Justicia del Distrito Federal y demás autoridades relacionadas con la procuración de justicia;
+
+XVI. Coadyuvar en las acciones y medidas pertinentes para la instrumentación de operativos conjuntos con la Secretaría de Seguridad Pública tendientes a prevenir y combatir los índices de delincuencia;
+
+XVII. Supervisar y coordinar la elaboración y actualización permanentemente de la mapoteca de la demarcación, a efecto de tener identificado plenamente en el ámbito territorial, las zonas y hechos constitutivos de delito que ocurren en las mismas;
+
+XVIII. Establecer la coordinación correspondiente con las áreas de la Delegación, así como con otras Dependencias para la atención de emergencias, siniestros, desastres o en eventos de alta concentración masiva que se presenten en la demarcación territorial en la Delegación Cuauhtémoc; y
+
+XIX. Coordinar, controlar y supervisar los servicios de vigilancia que requieren los inmuebles que ocupan las diferentes oficinas de la Delegación tales como: el edificio delegacional; albergues; juzgados cívicos; juzgados de registro civil; campamentos y bajo puentes; direcciones territoriales; monumentos históricos; bibliotecas públicas; teatro; deportivos y estancia juvenil, a través de la policía auxiliar o de la policía bancaria e industrial.
 
 > <small>(ADICIONADO, G.O. 15 DE JULIO DE 2005)</small>
 
@@ -12998,6 +13042,10 @@ La Dirección General Jurídica y de Gobierno tendrá además de las señaladas 
 
 I. Promover, dentro del ámbito de competencia y de conformidad con las disposiciones jurídicas y administrativas aplicables y con las directrices que fije el titular del Órgano Político-Administrativo, acciones de promoción de inversión inmobiliaria, tanto del sector público como privado, para la vivienda, equipamiento y servicios.
 
+> <small>(ADICIONADA, G.O. 15 DE OCTUBRE DE 2012)</small>
+
+II. Coordinar las actividades en materia de seguridad pública, ejerciendo las atribuciones del Órgano Político-Administrativo en esta materia.
+
 > <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
 
 ###### Artículo 183.
@@ -13022,11 +13070,15 @@ V. Prestar en su demarcación territorial los servicios de suministro de agua po
 
 La Dirección General de Servicios Urbanos tendrá además de las señaladas en el artículo 127, las siguientes atribuciones:
 
-I. Dar mantenimiento a los monumentos públicos, plazas típicas o históricas, de obras de ornato, propiedad del Distrito Federal, así como participar, en los términos del Estatuto de Gobierno y de los convenios correspondientes en el mantenimiento de aquellos que sean propiedad federal y que se encuentren dentro de su propia demarcación territorial;
+> <small>(REFORMADA, G.O. 15 DE OCTUBRE DE 2012)</small>
 
-II. Dar mantenimiento a los parques públicos que se encuentran a su cargo, de conformidad con la normatividad que al efecto expidan las Dependencias competentes; y
+I. Dar mantenimiento preventivo, correctivo y de emergencia al equipo de la red de alumbrado público así como en (sic) de los monumentos públicos, plazas típicas o históricas y en obras de ornato, propiedad del Distrito Federal;
 
-III. (DEROGADA, G.O. 29 DE SEPTIEMBRE DE 2006)
+> <small>(REFORMADA, G.O. 15 DE OCTUBRE DE 2012)</small>
+
+II. Mantener limpias y en buen estado las áreas verdes urbanas, como parques y jardines públicos, así como plazas jardinadas, jardineras y camellones de vías públicas secundarias, de conformidad con los programas establecidos y la normatividad aplicable en la materia.
+
+III. (DEROGADA, G.O. 15 DE OCTUBRE DE 2012)
 
 > <small>(REFORMADO, G.O. 21 DE MAYO DE 2002)</small>
 
@@ -13072,37 +13124,39 @@ XV. Evaluar y autorizar cuando proceda la poda, derribo o trasplante de árboles
 
 XVI. Colaborar con las áreas competentes en los proyectos de recuperación y restauración de áreas verdes urbanas;
 
-XVII. Promover y apoyar actividades económicas que tengan un sustento ambiental sólido y que reditúen en un desarrollo económico viable;
+XVII. (DEROGADA, G.O. 15 DE OCTUBRE DE 2012)
 
-XVIII. Apoyar las políticas y programas generales en materia de desarrollo, promoción y fomento económico sustentable, así como formular, conducir, coordinar y evaluar dichos programas en el ámbito de la demarcación;
+XVIII. (DEROGADA, G.O. 15 DE OCTUBRE DE 2012)
 
-XIX. Proponer y ejecutar, en coordinación con la Secretaría de Desarrollo Económico y la Secretaría del Medio Ambiente, los programas específicos en materia agropecuaria, industrial, de comercio, abasto, servicios, desregulación económica y desarrollo tecnológico sustentable en el ámbito de la demarcación;
+XIX. (DEROGADA, G.O. 15 DE OCTUBRE DE 2012)
 
-XX. Promover en coordinación con los sectores público, social y privado la creación de empleos y la adopción de medidas de simplificación, fomento e incentivos a la actividad productiva sustentable, incluyendo el establecimiento de parques y zonas industriales, comerciales y de servicios;
+XX. (DEROGADA, G.O. 15 DE OCTUBRE DE 2012)
 
-XXI. Proponer al Jefe Delegacional los mecanismos de coordinación interinstitucional, que permitan incentivar el desarrollo y la inversión productiva en actividades económicamente viables y ecológicamente sustentables;
+> <small>(REFORMADA, G.O. 15 DE OCTUBRE DE 2012)</small>
 
-XXII. Impulsar y coordinar los programas de promoción del comercio e inversión en los distintos sectores de la economía de la demarcación territorial;
+XXI. Proponer al Jefe Delegacional los mecanismos de coordinación interinstitucional que permitan incentivar el desarrollo en actividades ecológicamente sustentables;
 
-XXIII. Promover, orientar y estimular el desarrollo sustentable y la modernización del sector empresarial de la demarcación territorial;
+XXII. (DEROGADA, G.O. 15 DE OCTUBRE DE 2012)
 
-XXIV. Ejecutar las acciones del Programa de Fomento y Desarrollo Económico en la demarcación territorial;
+> <small>(REFORMADA, G.O. 15 DE OCTUBRE DE 2012)</small>
 
-XXV. Coordinar con las instancias correspondientes los mecanismos de apoyo al sector empresarial, incluyendo el respaldo financiero, asesorías y asistencia técnica;
+XXIII. Promover, orientar y estimular el desarrollo sustentable y de modernización conservando los espacios ecológicos de la demarcación;
 
-XXVI. Presidir los comités técnicos, comisiones y órganos de fomento establecidos para el desarrollo económico en la demarcación;
+XXIV. (DEROGADA, G.O. 15 DE OCTUBRE DE 2012)
 
-XXVII. Observar la normatividad que regule, coordine y dé seguimiento a los subcomités de promoción y fomento económico delegacional;
+XXV. (DEROGADA, G.O. 15 DE OCTUBRE DE 2012)
 
-XXVIII. Coordinar la realización de estudios y programas especiales, sobre la simplificación y desregulación administrativa de la actividad económica;
+XXVI. (DEROGADA, G.O. 15 DE OCTUBRE DE 2012)
 
-XXIX. Coadyuvar a establecer y coordinar los programas de abasto y comercialización de productos básicos, promoviendo la modernización y optimización en la materia y canalizar apoyos en este sentido hacia los productores rurales de la demarcación;
+XXVII. (DEROGADA, G.O. 15 DE OCTUBRE DE 2012)
 
-XXX. Realizar acciones tendientes a la promoción turística de la demarcación territorial y del Distrito Federal;
+XXVIII. (DEROGADA, G.O. 15 DE OCTUBRE DE 2012)
 
-> <small>(REFORMADA, G.O. 6 DE MAYO DE 2005)</small>
+XXIX. (DEROGADA, G.O. 15 DE OCTUBRE DE 2012)
 
-XXXI. Promover la realización de ferias, exposiciones y congresos de carácter local, nacional e internacional, vinculados a la promoción de actividades industriales, comerciales y económicas en el marco del desarrollo sustentable;
+XXX. (DEROGADA, G.O. 15 DE OCTUBRE DE 2012)
+
+XXXI. (DEROGADA, G.O. 15 DE OCTUBRE DE 2012)
 
 > <small>(REFORMADA, G.O. 6 DE MAYO DE 2005)</small>
 
@@ -13116,17 +13170,25 @@ XXXIII. Substanciar el procedimiento administrativo de visitas domiciliarias y a
 
 XXXIV. Intervenir en el ámbito de su competencia, en los procesos de aplicación de modelos de ordenamiento territorial y regularización de la tenencia de la tierra.
 
-> <small>(REFORMADO, G.O. 26 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 186.
 
-Corresponde a la Dirección General de Enlace Ciudadano, las siguientes atribuciones:
+Corresponde a la Dirección General de de (sic) Participación y Concertación Ciudadana las siguientes atribuciones:
+
+> <small>(REFORMADA, G.O. 26 DE OCTUBRE DE 2007)</small>
 
 I. Coordinar la instrumentación de las políticas de participación ciudadana, individual y colectiva, en el marco de la cultura de la corresponsablidad (sic) entre gobierno y sociedad de conformidad con las disposiciones jurídicas y administrativas aplicables;
 
+> <small>(REFORMADA, G.O. 26 DE OCTUBRE DE 2007)</small>
+
 II. Promover una política de concertación con las instituciones políticas y organizaciones sociales, para impulsar los programas de gobierno;
 
+> <small>(REFORMADA, G.O. 26 DE OCTUBRE DE 2007)</small>
+
 III. Coordinarse con los Comités Vecinales de la demarcación territorial, para apoyar la ejecución de los programas delegacionales, así como para atender sus necesidades de capacitación y asesoría; y
+
+> <small>(REFORMADA, G.O. 26 DE OCTUBRE DE 2007)</small>
 
 IV. Promover la celebración de convenios con instituciones públicas y privadas, y la relación con organismos civiles y sociales que permitan fortalecer los programas y acciones delegacionales.
 
@@ -13145,6 +13207,64 @@ III. Promover, apoyar e impulsar las tareas de preservación del patrimonio cult
 ###### Artículo 188.
 
 (DEROGADO, G.O. 21 DE MAYO DE 2002)
+
+> <small>(ADICIONADO, G.O. 15 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 188 Bis.
+
+Corresponde a la Dirección General de Desarrollo Económico y Fomento Cooperativo las siguientes atribuciones:
+
+I. Promover y apoyar actividades económicas que tengan un sustento ambiental sólido y que reditúen en un desarrollo económico viable;
+
+II. Apoyar las políticas y programas generales en materia de desarrollo, promoción y fomento económico sustentable, así como formular, conducir, coordinar y evaluar dichos programas en el ámbito de la demarcación;
+
+III. Proponer y ejecutar, en coordinación con la Secretaría de Desarrollo Económico, los programas específicos en materia agropecuaria, industrial, de comercio, abasto, servicios, desregulación económica y desarrollo tecnológico sustentable en el ámbito de la demarcación;
+
+IV. Promover en coordinación con los sectores público, social y privado la creación de empleos y la adopción de medidas de simplificación, fomento e incentivos a la actividad productiva sustentable, incluyendo el establecimiento de parques y zonas industriales, comerciales y de servicios;
+
+V. Proponer al Jefe Delegacional los mecanismos de coordinación interinstitucional, que permitan incentivar el desarrollo y la inversión productiva en actividades económicamente viables;
+
+VI. Impulsar y coordinar los programas de promoción del comercio e inversión en los distintos sectores de la economía de la demarcación territorial;
+
+VII. Ejecutar las acciones del Programa de Fomento y Desarrollo Económico en la demarcación territorial;
+
+VIII. Coordinar con las instancias correspondientes los mecanismos de apoyo al sector empresarial, incluyendo el respaldo financiero, asesorías y asistencia técnica;
+
+IX. Presidir los comités técnicos, comisiones y órganos de fomento establecidos para el desarrollo económico en la demarcación;
+
+X. Observar la normatividad que regule, coordine y dé seguimiento a los subcomités de promoción y fomento económico delegacional;
+
+XII. Coordinar la realización de estudios y programas especiales, sobre la simplificación y desregulación administrativa de la actividad económica;
+
+XII (SIC). Coadyuvar a establecer y coordinar los programas de abasto y comercialización de productos básicos, promoviendo la modernización y optimización en la materia y canalizar apoyos en este sentido hacia los productores rurales de la demarcación;
+
+XII (SIC). Realizar acciones tendientes a la promoción turística de la demarcación territorial y del Distrito Federal;
+
+XIV. Promover la realización de ferias, exposiciones y congresos de carácter local, nacional e internacional, vinculados a la promoción de actividades industriales, comerciales y económicas en el marco del desarrollo sustentable;
+
+XV. Ordenar la ejecución de visitas domiciliarias y actos de inspección, así como la imposición de medidas de seguridad, correctivas o de urgente aplicación, dentro de la demarcación territorial, en los términos y condiciones establecidos en la Ley Ambiental del Distrito Federal; y
+
+XVI. Promover, orientar y estimular el desarrollo y la modernización del sector empresarial de la demarcación territorial.
+
+> <small>(ADICIONADO, G.O. 15 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 188 Ter.
+
+Corresponde a la Dirección Ejecutiva de Mejora Comunitaria las siguientes atribuciones:
+
+I. Coordinar la atención territorial de los servicios de mantenimiento menor de la infraestructura urbana;
+
+II. Ejecutar las acciones de mantenimiento correctivo menor a la infraestructura urbana de la Delegación;
+
+III. Proponer al jefe Delegacional proyectos de mantenimiento menor preventivo de la infraestructura urbana de la Delegación;
+
+IV. Coordinar los estudios y proyectos de obras de mantenimiento menor, preventivo y correctivo, del equipamiento e infraestructura de vialidades secundarias y demás instalaciones de orden público responsabilidad de la Delegación;
+
+V. Disponer de los métodos de verificación para el cumplimiento de planes, proyectos, programas y acciones de mantenimiento preventivo y correctivo menor de infraestructura y equipamiento urbano;
+
+VI. Coordinar la atención inmediata de las acciones de obra, mantenimiento y rehabilitación de vialidades secundarias, guarniciones y banquetas en la demarcación; y
+
+VII. Establecer con la comunidad de la Delegación Cuauhtémoc, planes y programas de mantenimiento menor de la infraestructura urbana.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
@@ -15001,3 +15121,9 @@ G.O. 23 DE AGOSTO DE 2012.
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 15 DE OCTUBRE DE 2012.
+
+PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
