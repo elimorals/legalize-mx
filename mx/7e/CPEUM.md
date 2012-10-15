@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2012-08-09"
+last_updated: "2012-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE OCTUBRE DE 2012.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -1448,15 +1448,13 @@ La Ciudad de México es el Distrito Federal, sede de los Poderes de la Unión y 
 
 Los Estados de la Federación conservan la extensión y límites que hasta hoy han tenido, siempre que no haya dificultad en cuanto a éstos.
 
-> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 15 DE OCTUBRE DE 2012)</small>
 
 ###### Art. 46.
 
-Las entidades federativas pueden arreglar entre sí, por convenios amistosos, sus respectivos límites; pero no se llevarán a efecto esos arreglos sin la aprobación de la Cámara de Senadores.
+Las entidades federativas pueden arreglar entre sí y en cualquier momento, por convenios amistosos, sus respectivos límites; pero no se llevarán a efecto esos arreglos sin la aprobación de la Cámara de Senadores.
 
-A falta de acuerdo, cualquiera de las partes podrá acudir ante la Cámara de Senadores, quien actuará en términos del artículo 76, fracción XI, de esta Constitución.
-
-Las resoluciones del Senado en la materia serán definitivas e inatacables. La Suprema Corte de Justicia de la Nación podrá conocer a través de controversia constitucional, a instancia de parte interesada, de los conflictos derivados de la ejecución del correspondiente decreto de la Cámara de Senadores.
+De no existir el convenio a que se refiere el párrafo anterior, y a instancia de alguna de las partes en conflicto, la Suprema Corte de Justicia de la Nación conocerá, sustanciará y resolverá con carácter de inatacable, las controversias sobre límites territoriales que se susciten entre las entidades federativas, en los términos de la fracción I del artículo 105 de esta Constitución.
 
 ###### Art. 47.
 
@@ -2188,9 +2186,7 @@ IX.- Nombrar y remover al Jefe del Distrito Federal en los supuestos previstos e
 
 X.- Autorizar mediante decreto aprobado por el voto de las dos terceras partes de los individuos presentes, los convenios amistosos que sobre sus respectivos límites celebren las entidades federativas.
 
-> <small>(ADICIONADA, D.O.F. 8 DE DICIEMBRE DE 2005)</small>
-
-XI.- Resolver de manera definitiva los conflictos sobre límites territoriales de las entidades federativas que así lo soliciten, mediante decreto aprobado por el voto de las dos terceras partes de los individuos presentes.
+XI.- (DEROGADA, D.O.F. 15 DE OCTUBRE DE 2012)
 
 (REUBICADA, D.O.F. 8 DE DICIEMBRE DE 2005)
 
@@ -5268,9 +5264,9 @@ VIII. De los casos concernientes a miembros del Cuerpo Diplomático y Consular.
 
 La Suprema Corte de Justicia de la Nación conocerá, en los términos que señale la ley reglamentaria, de los asuntos siguientes:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE OCTUBRE DE 2012)</small>
 
-I.- De las controversias constitucionales que, con excepción de las que se refieran a la materia electoral y a lo establecido en el artículo 46 de esta Constitución, se susciten entre:
+I.- De las controversias constitucionales que, con excepción de las que se refieran a la materia electoral, se susciten entre:
 
 a).- La Federación y un Estado o el Distrito Federal;
 
@@ -9845,6 +9841,10 @@ Los Congresos de los Estados y la Asamblea Legislativa del Distrito Federal debe
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 15 DE OCTUBRE DE 2012.
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación, y quedarán derogadas todas las disposiciones normativas que contravengan a este decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 601 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES MUEBLES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE; DEL CÓDIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, Y DE LOS CÓDIGOS HACENDARIOS PARA LOS MUNICIPIOS DE ALVARADO, BOCA DEL RÍO, COATEPEC, COATZACOALCOS, CÓRDOBA, COSOLEACAQUE, EMILIANO ZAPATA, MEDELLÍN DE BRAVO, ORIZABA, TIERRA BLANCA; VERACRUZ Y XALAPA, TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
