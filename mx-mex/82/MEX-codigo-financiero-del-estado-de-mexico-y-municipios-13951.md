@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2012-10-11"
+last_updated: "2012-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE OCTUBRE DE 2012.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -107,7 +107,7 @@ XII. Ejercicio Fiscal. Al que comprende del primero de enero al treinta y uno de
 
 XIII. Organismos Autónomos. Aquellas Entidades que cuentan con personalidad jurídica y patrimonio propios, autonomía de gestión e independencia de los Poderes Legislativo, Ejecutivo y Judicial, tales como la Universidad Autónoma del Estado de México, Comisión de Derechos Humanos del Estado de México y órganos electorales del Estado de México.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -115,7 +115,7 @@ XIV. Entidades Públicas. A tribunales administrativos y organismos públicos de
 
 XV. Estado. Al Estado Libre y Soberano de México.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -139,7 +139,7 @@ XXII. Hacienda Pública. A la obtención, administración y aplicación de los i
 
 XXIII. IGECEM. Al Instituto de Información e Investigación Geográfica, Estadística y Catastral del Estado de México.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -237,13 +237,13 @@ F). Residencial alto y campestre. La que tenga al término de la construcción o
 
 En el caso que las leyes federales incrementen o disminuyan los montos estimados, se deberá estar a lo dispuesto en esas disposiciones legales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 XLI. Establecimiento principal. El lugar en el que se realicen actividades de administración, económicas, comerciales o de dirección, que generen obligaciones fiscales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -385,7 +385,7 @@ El Estado, los municipios y los organismos públicos descentralizados podrán ce
 
 El Gobernador, por conducto del titular de la Secretaría, podrá celebrar convenios de colaboración administrativa con otros Estados y el Distrito Federal, en las materias de verificación, determinación y recaudación de las contribuciones, así como para la notificación de créditos fiscales y aplicación del procedimiento administrativo de ejecución.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 18.
 
@@ -401,7 +401,7 @@ Las demás disposiciones fiscales se deberán aplicar mediante cualquier método
 
 Las personas físicas y jurídicas colectivas, incluidas las asociaciones en participación, están obligadas al pago de las contribuciones y aprovechamientos, conforme a las disposiciones de este Código.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 20.
 
@@ -439,25 +439,25 @@ El pago de los créditos fiscales determinados conforme al presente artículo, n
 
 Cuando la declaración y/o pago referido en el párrafo anterior se realice con posterioridad al pago que haya efectuado del crédito fiscal determinado por la autoridad conforme a este artículo, este último pago se disminuirá del importe que tenga que pagar por la contribución a su cargo. En caso de que en la declaración y/o pago resultare una cantidad menor a la determinada por la autoridad fiscal, la diferencia únicamente podrá ser compensada en las declaraciones y/o pagos subsecuentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 20-A.
 
 Cuando las disposiciones fiscales obliguen a presentar documentos, éstos deberán ser digitales y contener una firma electrónica del autor, en los términos de la Ley de Medios Electrónicos, salvo los casos que establezcan una regla diferente. Las autoridades fiscales, mediante reglas de carácter general podrán autorizar el uso de otras firmas electrónicas.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
-> <small>(DEROGADO TERCER PARRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
-> <small>(DEROGADO CUARTO PARRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 > <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
 Cuando los contribuyentes remitan un documento digital a las autoridades fiscales, recibirán acuse de recibo que contenga el sello digital.
 
-> <small>(DEROGADO SEXTO PARRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>(DEROGADO SEXTO PÁRRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 21.
 
@@ -475,37 +475,37 @@ Si como consecuencia de la presentación de la declaración complementaria, se d
 
 Los sujetos que tengan obligación de presentar declaraciones periódicas de conformidad con las disposiciones de este Código y no tengan impuestos a cargo, presentarán la declaración en ceros y sólo estarán obligados a presentar nuevamente las declaraciones hasta que exista cantidad a pagar, se presente aviso de baja o suspensión o bien se trate de un nuevo ejercicio fiscal, teniendo que presentar en su caso la declaración del primer periodo en ceros.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 22.
 
 Se considera domicilio fiscal de las personas físicas y jurídicas colectivas:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 I. El lugar o establecimiento donde se realicen actividades que generen obligaciones fiscales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 II. El lugar o establecimiento en que se realice el hecho generador de la obligación fiscal, cuando las actividades no se realicen en forma habitual.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 III. El lugar o establecimiento que señalen ante la autoridad fiscal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 IV. La residencia que identifique la autoridad fiscal, cuando exista certeza de que es el único lugar posible de localización del contribuyente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -531,9 +531,9 @@ E). El contribuyente desocupe el local donde tenga su domicilio fiscal, sin pres
 
 F). Cuando se señale domicilio inexistente o falso.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
-> <small>(DEROGADO CUARTO PARRAFO, G.G. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 > <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
@@ -589,7 +589,7 @@ En el caso de que la autoridad, no reciba el acuse de recibo por parte del contr
 
 Cuando se realicen notificaciones por medios electrónicos se tendrá como fecha de notificación la que corresponda al acuse de recibo y surtirá efectos a partir del día hábil siguiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 23.
 
@@ -601,13 +601,13 @@ Están exentos del pago de impuestos, derechos y aportaciones de mejoras, el Est
 
 Lo dispuesto en el párrafo anterior no resulta aplicable para los artículos 56 y 216 I, así como a lo previsto en la Sección Segunda, del Capítulo Primero del Título Tercero de este Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 Para efectos de la declaración de la exención a que se refiere la fracción IV del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, la calidad de bien del dominio público, deberá acreditarse fehacientemente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -633,7 +633,7 @@ Cualquier estipulación privada, relativa al pago de un crédito fiscal que se o
 
 El cumplimiento o exigibilidad de la obligación fiscal, no legitimará hechos o circunstancias no apegadas a la ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -641,7 +641,7 @@ El cumplimiento o exigibilidad de la obligación fiscal, no legitimará hechos o
 
 La determinación de los créditos fiscales corresponde a los contribuyentes, salvo disposición expresa en contrario. En caso de que la autoridad fiscal deba realizar esta determinación, los contribuyentes, proporcionarán la información necesaria dentro de los quince días siguientes contados a partir de que surta efecto la notificación del requerimiento de la autoridad.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 26.
 
@@ -671,7 +671,7 @@ Quien pague créditos fiscales recibirá de la oficina recaudadora el recibo ofi
 
 En el pago de créditos fiscales a través de transferencia de fondos, se considerará como recibo oficial del pago, el documento impreso por el contribuyente, emitido por el sistema de cobranza automatizado reconocido por la autoridad fiscal, en el que conste el número de referencia que se asigne a la operación autorizada.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -679,7 +679,7 @@ En el pago de créditos fiscales a través de transferencia de fondos, se consid
 
 El pago en especie de un crédito fiscal vía dación en pago podrá hacerse en forma total o parcial y estará condicionado a la aceptación por parte de la autoridad fiscal competente, quien en su caso, lo admitirá únicamente cuando no existan bienes de más fácil realización y el deudor manifieste bajo protesta de decir verdad tal circunstancia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -719,7 +719,7 @@ Los bienes muebles e inmuebles recibidos en dación en pago quedarán en custodi
 
 Para determinar las contribuciones, aprovechamientos y sus accesorios se considerarán, inclusive, las fracciones del peso. No obstante lo anterior, para efectuar su pago, el monto se ajustará para que las que contengan cantidades que incluyan de uno hasta cincuenta centavos se ajusten a la unidad inmediata anterior y las que contengan cantidades de cincuenta y uno a noventa y nueve centavos, se ajusten a la unidad inmediata superior.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -739,7 +739,7 @@ Los créditos fiscales se pagarán en la fecha o dentro del plazo señalado en l
 
 Los retenedores de contribuciones o las personas a quienes las leyes impongan la obligación de retenerlos periódicamente, los enterarán a más tardar el día diez del mes de calendario inmediato posterior al de la terminación del periodo de la retención o causación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -763,7 +763,7 @@ El Fisco Estatal y Municipal tendrán preferencia para recibir el pago de crédi
 
 A). De los saldos garantizados con embargo o hipoteca que hayan sido inscritos en el Registro Público de la Propiedad con anterioridad a la fecha de notificación del crédito fiscal originario, o del reconocimiento expreso del contribuyente mediante declaración en la que haya reconocido el adeudo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -773,7 +773,7 @@ C). De los adeudos por el pago de sueldos, salarios o indemnizaciones a los trab
 
 D). De los créditos fiscales federales notificados con anterioridad a los estatales o municipales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -789,25 +789,25 @@ Cuando en el procedimiento administrativo de ejecución concurran contra un mism
 
 La falta de pago de un crédito fiscal en la fecha o dentro del plazo fijado por este Código, dará lugar a que sea exigible mediante el procedimiento administrativo de ejecución.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 Cuando no se cubran las contribuciones o los aprovechamientos en la fecha o dentro del plazo fijado por las disposiciones fiscales, su monto se actualizará por el transcurso del tiempo y con motivo de los cambios de precios aplicando la tasa que resulte de sumar el porcentaje mensual de actualización que fije la correspondiente Ley de Ingresos, por cada mes o fracción que transcurra desde el día siguiente al vencimiento del plazo para pagar la contribución o aprovechamiento, hasta que el mismo se efectúe.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 Además deberán pagarse recargos en concepto de indemnización al fisco por la falta de pago oportuno. Dichos recargos se calcularán aplicando a la contribución o aprovechamiento actualizado, la tasa que resulte de sumar la tasa mensual que fije la correspondiente Ley de Ingresos para cada uno de los meses en cada uno de los años que transcurran en el periodo referido en el presente artículo, excluyendo los propios recargos, la indemnización a que se refiere el cuarto párrafo del artículo 26 de este Código, los gastos de ejecución y las multas por infracciones a las disposiciones fiscales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 La causación de la actualización y los recargos inicia a partir del día siguiente al del vencimiento del plazo para realizar el pago de la contribución o aprovechamiento de que se trate.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -827,7 +827,7 @@ No causarán recargos las multas impuestas por autoridades no fiscales, ni las r
 
 Las responsabilidades administrativas y las multas impuestas por autoridades no fiscales en su caso, se actualizarán de acuerdo con las disposiciones de este Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -879,7 +879,7 @@ Durante el transcurso de la prórroga se causarán los recargos sobre saldos ins
 
 El saldo que se utilizará para el cálculo de las parcialidades, será el que resulte de restar el 20% del pago inicial al total del adeudo, y a dicho saldo se le aplicarán los recargos por prórroga sobre saldos insolutos, de conformidad a las tasas que se establezcan en la correspondiente Ley de Ingresos. La primera y subsecuentes parcialidades se cubrirán en montos iguales y en forma mensual y sucesiva, debiéndose enterar la primera de ellas el mismo día del mes siguiente a aquél en que se entere el 20% como pago inicial y las posteriores el mismo día de los meses subsecuentes, siendo aplicable el contenido del artículo 28 de este ordenamiento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -895,7 +895,7 @@ Tratándose del pago diferido, el monto a diferir será el resultado de restar e
 
 Los recargos por prórroga que refiere el párrafo anterior, se calculará adicionando al monto a diferir, la cantidad que resulte de multiplicar la tasa de recargos por prórroga establecida en la Ley de Ingresos correspondiente, por el número de meses, o fracción de mes que transcurra desde el mes siguiente a aquél en que se realizó el pago anticipado del 20 % y hasta la fecha autorizada para realizar el pago en forma diferida.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -935,13 +935,13 @@ Los pagos que haga el deudor se aplicarán, antes que al crédito principal actu
 
 I. Los gastos de ejecución.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 II. Los recargos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -951,9 +951,9 @@ IV. La indemnización en el caso de devolución de cheques.
 
 Cuando se trate de contribuciones que se causen periódicamente y se adeuden los correspondientes a diversos períodos, si los pagos relativos a esas contribuciones no cubren la totalidad del adeudo, se aplicarán a cuenta de los adeudos que corresponden a los períodos más antiguos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 35.
 
@@ -975,15 +975,15 @@ VI. (DEROGADA, G.G. 29 DE DICIEMBRE DE 2006)
 
 La garantía deberá comprender, además del crédito principal debidamente actualizado a la fecha de su otorgamiento, los accesorios causados, así como los que se causen en los doce meses siguientes a dicha fecha. Al terminar este periodo y en tanto no se cubra el crédito, deberá ampliarse la garantía para que cubra el crédito actualizado y el importe de los accesorios causados, incluso los recargos correspondientes a los doce meses siguientes; dicha ampliación deberá otorgarse dentro de los 10 días siguientes al en que haya vencido el plazo señalado. Si la garantía consiste en depósito de dinero no procederá la actualización, ni se causarán recargos, a partir de la fecha en que éste se realice. Tratándose del pago a plazos, la garantía deberá otorgarse respecto del 80% del total del adeudo más los accesorios que se causen en el plazo elegido.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 36.
 
 La garantía del interés fiscal se otorgará a favor del Gobierno del Estado de México, del Ayuntamiento o del organismo auxiliar, según corresponda en los siguientes términos:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -995,9 +995,9 @@ A). Bienes muebles, por el 75% de su valor de avalúo.
 
 No serán admisibles como garantía, los bienes que ya se encuentren embargados por autoridades fiscales, judiciales o en el dominio de los acreedores. Los de procedencia extranjera, sólo se admitirán cuando se compruebe su legal estancia en el país.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 B). Bienes inmuebles, por el 75% del valor de avalúo o catastral. Para estos efectos se deberá acompañar a la solicitud respectiva, el certificado del Instituto de la Función Registral en el que se acredite que está libre de gravamen y que no tiene afectación urbanística o agraria, documento que será aceptado siempre y cuando a la fecha de presentación el mismo no tenga más de tres meses de que fue expedido. En el supuesto de que el inmueble reporte gravámenes, la suma del monto total de éstos y el interés fiscal a garantizar no podrá exceder del 75% del valor de avalúo.
 
@@ -1011,7 +1011,7 @@ IV. Tratándose del embargo en la vía administrativa, se sujetará a lo previst
 
 A). Se practicará a solicitud del contribuyente, quien deberá acompañar los documentos que señale la forma oficial correspondiente y a falta de ésta en escrito libre que cumpla con los requisitos que refiere el artículo 116 del Código de Procedimientos Administrativos del Estado de México y se realizará siguiendo los lineamientos que señala el Título Décimo Tercero del Código Financiero.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -1031,7 +1031,7 @@ D). Deberán cubrirse, con anticipación a la práctica de la diligencia de emba
 
 V. Para que un tercero asuma la obligación de garantizar el interés fiscal, deberá sujetarse a lo siguiente:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -1053,7 +1053,7 @@ La garantía del interés fiscal se ofrecerá por el interesado ante la autorida
 
 La autoridad al calificar la garantía, deberá verificar que se cumplan los requisitos que se establecen en este Código, de no ser así, requerirá al interesado, a fin de que en un plazo de diez días hábiles contados a partir del día siguiente a aquél en que se le notifique dicho requerimiento, cumpla con los requisitos omitidos; en caso contrario, no se aceptará la garantía.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -1143,13 +1143,13 @@ XIII. Las sociedades nacionales de crédito, instituciones de crédito y cualqui
 
 XIV. Los copropietarios o los participantes en derechos mancomunados, respecto de los créditos fiscales derivados del bien o derecho en común y hasta por el valor de éste. Por el excedente de los créditos fiscales cada uno quedará obligado en la proporción que le corresponda en el bien o derecho mancomunado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 XV. Tratándose del Impuesto sobre la Adquisición de Vehículos Automotores Usados, los consignatarios y/o comisionistas, en su caso, así como los adquirientes y enajenantes, que intervengan en la venta o adquisición de vehículos automotores, que no acrediten el pago de las contribuciones ante la autoridad fiscal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -1165,19 +1165,19 @@ En el caso de extemporaneidad en la presentación del aviso, la responsabilidad 
 
 XVI. Por lo que hace al Impuesto sobre Tenencia o Uso de Vehículos, los propietarios, tenedores, usuarios, adquirientes, enajenantes, así como los consignatarios y/o comisionistas, en su caso, por los adeudos que estos reportaren en el momento de la adquisición o venta.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 XVII. Los propietarios, tenedores, usuarios, adquirientes, enajenantes, así como los consignatarios y/o comisionistas, en su caso, por los derechos de control vehicular.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 XVIII. Los propietarios o poseedores de inmuebles en que se coloquen, instalen, armen o construyan anuncios publicitarios respecto del Impuesto sobre Anuncios Publicitarios.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -1211,7 +1211,7 @@ XXV. Los propietarios o poseedores de inmuebles, en los cuales se explote el ser
 
 XXVI. Los albaceas, por los créditos fiscales que deje de pagar el contribuyente, hasta por el total de la masa hereditaria.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -1225,7 +1225,7 @@ La responsabilidad solidaria a que se refiere esta fracción, será hasta por el
 
 XXVIII. Los servidores públicos que autoricen la inscripción de vehículos, permisos provisionales para circulación, matrículas, cambios o bajas de placas o efectúen el refrendo de los mismos, sin haberse cerciorado que no existan adeudos por estos conceptos, por el Impuesto sobre Tenencia o Uso de Vehículos previsto en este Código o del Impuesto sobre Tenencia o Uso de Vehículos previsto en la legislación federal, correspondiente a los últimos cinco años, salvo en los supuestos en que el contribuyente acredite que se encuentra liberado de la obligación que corresponda.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -1233,7 +1233,7 @@ En los supuestos de las fracciones IV, VI y XII, a que se refiere este artículo
 
 La responsabilidad solidaria comprenderá los accesorios, con excepción de las multas.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 42.
 
@@ -1265,13 +1265,13 @@ El pago de intereses deberá incluirse en la liquidación correspondiente, sin n
 
 El contribuyente que habiendo efectuado el pago de una contribución, interponga oportunamente los medios de defensa y obtenga resolución firme que le sea favorable total o parcialmente, tendrá derecho a recibir intereses sobre las cantidades que se hayan pagado indebidamente, a partir de que se efectuó el pago. En estos casos, el contribuyente podrá compensar las cantidades a su favor, incluyendo los intereses, contra la misma contribución que se pague, ya sea a su cargo o que deba enterar en su carácter de retenedor.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 En ningún caso los intereses excederán del 100% del monto de las contribuciones. La obligación de devolver prescribe en los mismos términos y condiciones que el crédito fiscal. Para estos efectos, la solicitud de devolución que presente el contribuyente interrumpe el plazo de la prescripción, excepto cuando el particular se desista de la solicitud.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 43.
 
@@ -1293,7 +1293,7 @@ Cuando se suspenda el procedimiento administrativo de ejecución, también se in
 
 Los contribuyentes obligados a pagar mediante declaraciones podrán optar por compensar las cantidades que tengan a su favor contra las que estén obligados a pagar por adeudo propio o por retención a terceros, siempre que ambas deriven de una misma contribución, incluyendo sus accesorios. Al efecto, bastará que efectúen la compensación de dichas cantidades actualizadas, conforme al porcentaje que para tal efecto se señale en la Ley de Ingresos correspondiente, por cada mes que transcurra desde que se presentó la declaración que manifiesta el saldo a favor o se hizo el pago de lo indebido, hasta aquel en que la compensación se realice.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -1345,7 +1345,7 @@ Son derechos de los contribuyentes:
 
 I. Recibir de la autoridad fiscal orientación y asistencia gratuitas, para el cumplimiento de sus obligaciones fiscales.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 6 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
 II. Recibir de la autoridad fiscal, en los términos de este Código, la respuesta que proceda, respecto de las solicitudes presentadas para:
 
@@ -1359,7 +1359,7 @@ D). La declaración de caducidad de las facultades de la autoridad.
 
 E). La autorización del pago mediante prórroga o parcialidades para regularizar su situación fiscal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 F). (DEROGADO, G.G. 18 DE DICIEMBRE DE 2008)
 
@@ -1397,7 +1397,7 @@ I. Inscribirse en los registros fiscales en un plazo que no excederá de treinta
 
 Tratándose del Impuesto sobre Tenencia o Uso de Vehículos, inscribir el vehículo en el padrón vehicular de la entidad, dentro de los treinta días siguientes contados a partir de la fecha de adquisición.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -1453,13 +1453,13 @@ XIV. Tramitar la baja del vehículo del padrón vehicular de la entidad, en caso
 
 La presentación del aviso no libera de contribuciones pendientes de pago.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
 XV. Entregar constancias de retención, en caso de estar obligado conforme a las disposiciones de este Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -1487,7 +1487,7 @@ El registro a que se refiere la fracción VIII de este artículo incluirá los r
 
 En los casos en los que las demás disposiciones de este Código hagan referencia a la contabilidad, se entenderá que la misma se integra por los registros contables, cuentas especiales, documentos, papeles de trabajo, libros y registros sociales señalados en el párrafo precedente, por los equipos y sistemas electrónicos de registro fiscal y sus registros, así como por la documentación comprobatoria de los asientos respectivos y los comprobantes de haber cumplido con las disposiciones fiscales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -1497,9 +1497,9 @@ Las personas físicas y jurídico colectivas que estén obligadas a determinar e
 
 I. Las que hayan realizado pagos por concepto de remuneraciones al trabajo personal prestado dentro del territorio del Estado a más de 200 trabajadores en promedio mensual.
 
-II. Las que hayan realizado pagos por concepto de remuneraciones al trabajo personal prestado dentro del territorio del Estado superiores a $400.000.00 en promedio mensual.
+II. Las que hayan realizado pagos por concepto de remuneraciones al trabajo personal prestado dentro del territorio del Estado superiores a $400,000.00 en promedio mensual.
 
-III. Las que se encuentren obligadas a retener y enterar dicho impuesto en términos del presente Código, que hayan contratado servicios que generen la prestación de trabajo personal dentro del territorio del Estado por más de 200 trabajadores o cuando la base para la determinación de dicha retención haya sido superior a $400.000.00, en promedio mensual.
+III. Las que se encuentren obligadas a retener y enterar dicho impuesto en términos del presente Código, que hayan contratado servicios que generen la prestación de trabajo personal dentro del territorio del Estado por más de 200 trabajadores o cuando la base para la determinación de dicha retención haya sido superior a $400,000.00, en promedio mensual.
 
 IV. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2008)
 
@@ -1521,9 +1521,9 @@ X. Las que hayan entrado en liquidación, por el ejercicio fiscal en que esto oc
 
 Las personas físicas y jurídico colectivas que no estén obligadas a dictaminar la determinación y pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal conforme a este artículo, podrán optar por dictaminarse respecto del ejercicio fiscal inmediato anterior presentando oportunamente ante la autoridad fiscal competente el aviso de dictamen a que se refiere el primer párrafo del artículo 47 B de este Código, en cuyo caso les serán aplicables las mismas disposiciones fiscales atribuibles a los contribuyentes obligados. No se dará efecto legal alguno al ejercicio de la opción de dictaminarse fuera del plazo establecido en el primer párrafo del artículo 47 B de este Código, ni cuando dicha opción se ejerza después de notificado al contribuyente el inicio del ejercicio de las facultades de comprobación de las autoridades fiscales, respecto del impuesto y el ejercicio fiscal que se pretenda dictaminar, salvo que se trate del supuesto previsto en el numeral 7 del párrafo cuarto de la fracción I del artículo 48 del Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 47-B.
 
@@ -1533,7 +1533,7 @@ Las personas físicas y jurídico colectivas que estén obligadas a dictaminarse
 
 Los contribuyentes que se dictaminen, podrán sustituir en cualquier tiempo al Contador Público autorizado que hayan designado en el aviso de dictamen a que se refiere el párrafo anterior, informando a la autoridad fiscal competente de dicho cambio, expresando los motivos que se tengan y presentando en su caso las pruebas documentales pertinentes, a más tardar el último día en que concluya el plazo para la presentación oportuna del dictamen conforme al párrafo siguiente, sin que esto modifique en forma alguna el término autorizado para dicha presentación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -1581,25 +1581,25 @@ III. El Contador Público incluya en el dictamen que formule, el informe sobre l
 
 IV. El dictamen sea formulado y presentado de conformidad con los lineamientos establecidos en este Código y con las reglas de carácter general que al efecto expidan las autoridades fiscales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 Las aclaraciones a que se refiere el primer párrafo de este artículo, podrán efectuarse en una sola ocasión respecto de un mismo dictamen durante los 60 días siguientes a la fecha de presentación del dictamen respectivo, señalando las precisiones correspondientes y diferencias determinadas, así como su efecto cuantitativo sobre la determinación del impuesto, siempre que no se haya iniciado el ejercicio de facultades de comprobación de la autoridad fiscal competente relativo a la revisión de dicho dictamen y la demás información y documentación con este relacionada en términos del artículo 48 B de este Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 Artículo 47 D.- El Contador Público que desee obtener autorización para formular dictamen fiscal a los contribuyentes sobre la determinación y pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal en los términos de este Código, deberá cubrir los siguientes requisitos:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 I. Presentar solicitud ante la autoridad fiscal competente, en la que manifieste lo siguiente:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -1613,7 +1613,7 @@ B). Domicilio en el territorio del Estado para oír y recibir notificaciones por
 
 C). El nombre, denominación o razón social del colegio profesional o asociación de contadores públicos reconocida y autorizada por la Secretaría de Educación Pública y, en su caso, de la Federación de Colegios Profesionales a la que pertenezca, al momento de presentar esta solicitud, así como el número de socio que tenga en dichas agrupaciones.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -1623,7 +1623,7 @@ D). Manifestar bajo protesta de decir verdad que cuenta con experiencia mínima 
 
 E). En caso de ser funcionario, socio, accionista, integrante o miembro de personas jurídicas colectivas, o en caso de tener conferido algún cargo o función en éstas o de estar vinculado de cualquier otra forma con dichas personas, deberá indicar el nombre, denominación o razón social y registro federal de contribuyentes de éstas, manifestando el vínculo que tienen entre sí y la fecha a partir de la cual se estableció dicho vínculo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -1639,7 +1639,7 @@ B). Cédula profesional de Contador Público otorgada por la Secretaría de Educ
 
 C). Identificación oficial.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -1667,7 +1667,7 @@ El registro otorgado para formular dictamen, se dará de baja del padrón de pro
 
 Cuando un Contador Público formule dictamen sobre la determinación y pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal en contravención a lo dispuesto en este Código, la autoridad fiscal competente lo amonestará, suspenderá temporalmente los efectos de su registro para formular dictamen o cancelará definitivamente el registro que le haya otorgado revocando la autorización correspondiente, de conformidad a la fracción III del artículo 362 Bis de este Código, previa la garantía de audiencia establecida en el artículo 129 del Código de Procedimientos Administrativos del Estado de México.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -1687,7 +1687,7 @@ I. Sea cónyuge, pariente por consanguinidad o civil en línea recta sin limitac
 
 II. Sea o haya sido en el ejercicio fiscal que dictamina, director, miembro del consejo de administración, administrador, comisario o empleado del contribuyente o de una empresa afiliada, subsidiaria o que esté vinculada económica o administrativamente a él, cualquiera que sea la forma como se le designe aún y cuando no se le retribuyan sus servicios.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -1705,7 +1705,7 @@ V. Sea agente o corredor de bolsa de valores en ejercicio.
 
 VI. Sea funcionario o empleado del Gobierno Federal, Estatal o Municipal o de un organismo descentralizado competente para determinar contribuciones locales o federales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -1741,7 +1741,7 @@ II. Las relativas al trabajo profesional, cuando:
 
 A). La planeación del trabajo y la supervisión de sus ayudantes le permitan allegarse de los elementos de juicio suficientes para fundar su dictamen.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -1751,7 +1751,7 @@ C). Los elementos probatorios y la información presentada en el dictamen como s
 
 En caso de excepciones a lo anterior, el Contador Público deberá mencionar claramente en qué consisten, indicando los motivos y, en su caso, los fundamentos legales y conceptos que las originaron, señalando las inconsistencias o diferencias detectadas, así como su efecto cuantificado sobre la determinación y pago de la contribución revisada, emitiendo en consecuencia como resultado de su trabajo, una opinión negativa o con salvedades, según corresponda. Cuando se carezca de elementos probatorios, el Contador Público emitirá una abstención razonada de opinión sobre la información y documentación que en su conjunto tenga del contribuyente, respecto del cumplimiento de sus obligaciones fiscales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -1767,31 +1767,31 @@ Artículo 47 G.- La información cuantitativa a que se refiere la fracción III 
 
 I. La integración de esta información se presentará por cada uno de los establecimientos dentro del territorio del Estado, en los que se haya realizado el hecho generador o actividades que generen obligaciones fiscales respecto del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal, indicando su domicilio o ubicación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 II. La información se mostrará relacionada con la descripción de la base para la determinación y el pago de la contribución revisada, ya sea como causante y/o retenedor, observando las diferencias determinadas respecto del cálculo del contribuyente dictaminado, debiendo manifestarse todos los pagos realizados en efectivo o en especie por concepto de remuneraciones al trabajo personal prestado dentro del territorio del Estado, independientemente de la denominación que se les haya otorgado, así como el número total de trabajadores, informando aquellos pagos que no se consideraron en la determinación referida.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 III. En cuanto a los pagos de la contribución revisada que haya realizado el contribuyente dictaminado, deberá mencionarse su importe y el folio de la declaración o del acuse de recibo del documento digital de la declaración electrónica correspondiente que permita su identificación. Asimismo, se indicará el monto de las compensaciones y estímulos fiscales que se disminuyan del impuesto determinado a cargo del contribuyente o retenedor en el ejercicio fiscal que se dictamina, cuando dichas aplicaciones hayan sido autorizadas en caso necesario por la autoridad fiscal competente y surtan sus efectos para dicho ejercicio fiscal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 IV. En caso de que el contribuyente dictaminado tenga saldos a favor de la contribución revisada provenientes de ejercicios fiscales anteriores al que se refiera el dictamen, que se encuentren pendientes de aplicación al cierre del ejercicio fiscal inmediato anterior al que se revisa, dichos saldos y los que en su caso se generen en el ejercicio fiscal revisado, deberán manifestarse en el dictamen indicando el periodo en el que se originaron y en el que se aplicaron en caso de haberse compensado o solicitado en devolución durante el ejercicio fiscal revisado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 V. Análisis pormenorizado de la contribución revisada cuando se encuentre por pagar al cierre del ejercicio fiscal que se dictamina, el cual se presentará por cada periodo de causación o retención al que esté sujeta, una vez considerados los pagos que hayan sido cubiertos por el contribuyente o retenedor a la fecha de presentación del dictamen formulado. Cuando se haya obtenido de la autoridad fiscal competente la autorización para el pago en parcialidades de dicha contribución, esta situación deberá aclararse en el dictamen señalando los datos de identificación del documento de autorización correspondiente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -1799,7 +1799,7 @@ VI. Conciliación entre las cifras dictaminadas acumuladas de las remuneraciones
 
 En caso de que los saldos finales de las cuentas y subcuentas mencionadas en el párrafo inmediato anterior contengan información relativa a erogaciones realizadas por concepto de remuneraciones al trabajo personal prestado fuera del territorio del Estado, la conciliación referida deberá efectuarse únicamente respecto del monto que represente en dichos saldos las erogaciones realizadas por el contribuyente dictaminado por concepto de remuneraciones al trabajo personal prestado dentro del territorio del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -1815,13 +1815,13 @@ Artículo 47 H.- En el informe a que se refiere la fracción IV del artículo 47
 
 I. Que se emite con estricto apego a lo dispuesto en este Código y de conformidad con las reglas de carácter general que al efecto expidan las autoridades fiscales, respecto de toda la información y documentación del contribuyente relacionada con la determinación y pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 II. Que dentro de las pruebas llevadas a cabo en cumplimento a las normas de auditoría generalmente aceptadas, se examinó la situación fiscal del contribuyente por el ejercicio fiscal y la contribución que comprende el dictamen. En caso de haber observado cualquier omisión respecto al cumplimiento de las obligaciones fiscales del contribuyente inherentes a la contribución revisada, ésta se mencionará en forma expresa; con independencia de que sea subsanada antes de la presentación del dictamen; de lo contrario, se manifestará haberse cerciorado mediante la utilización de procedimientos de auditoría general aplicables a las circunstancias, que la contribución revisada fue razonablemente determinada y pagada.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -1835,31 +1835,31 @@ IV. Que se revisaron en función de su naturaleza y mecánica de aplicación uti
 
 V. Que se revisó la información relativa a la aplicación de compensaciones, devoluciones, bonificaciones, estímulos fiscales o exenciones efectuadas en su caso por el contribuyente y que éstas se aplicaron en estricto apego a las disposiciones fiscales respectivas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 VI. Que se corroboró la correcta aplicación de sentencias y resoluciones provenientes de cualquier medio de defensa o consulta jurídica sobre caso real y concreto que en su caso haya obtenido el contribuyente respecto del impuesto dictaminado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 VII. Que se revisó la información y documentación relativa a la contratación de la prestación de servicios personales subordinados y profesionales independientes, así como de servicios proporcionados por terceros que hayan generado la causación y/o retención del impuesto revisado con motivo de la prestación de trabajo personal dentro del territorio del Estado de México.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 VIII. Que se comprobó que los pagos por remuneraciones al trabajo personal objeto del impuesto revisado, corresponden a servicios efectivamente recibidos y se encuentran debidamente clasificados y registrados, verificando su correcta aplicación contable, incluyendo los montos devengados no pagados en el ejercicio fiscal dictaminado, confirmando la existencia de las personas a las que se les hayan efectuado dichos pagos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 IX. Que se verificó el correcto registro y valuación de todas las obligaciones contractuales y legales relacionadas con las remuneraciones al trabajo personal prestado dentro del territorio del Estado de México.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -2059,19 +2059,19 @@ F). El nombre de la persona o personas que deban efectuar la visita, las cuales 
 
 G). El nombre de las contribuciones a revisar, indicando el o los ejercicios sujetos a revisión.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 Las autoridades fiscales deberán concluir la visita que se desarrolle en el domicilio fiscal de los contribuyentes, dentro de un plazo máximo de doce meses contados a partir de que se le notifique al contribuyente el inicio de facultades de comprobación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
-> <small>(DEROGADO CUARTO PARRAFO, G.G. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 El plazo antes referido se suspenderá cuando:
 
@@ -2085,7 +2085,7 @@ El plazo antes referido se suspenderá cuando:
 
 4. Fallezca el contribuyente, hasta en tanto se designe al representante de la sucesión.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -2093,7 +2093,7 @@ El plazo antes referido se suspenderá cuando:
 
 Dicha suspensión no podrá exceder de un plazo de dos meses contados a partir de que la autoridad notifique al contribuyente la reposición del procedimiento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -2169,9 +2169,9 @@ Cuando las autoridades no levanten el acta final de visita, dentro de los plazos
 
 II. Realizar la verificación física, clasificación o valuación de bienes relacionados con las obligaciones fiscales establecidas por este Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 III. Requerir a los sujetos directamente obligados, responsables solidarios o terceros, para que exhiban en su domicilio fiscal o en las oficinas de las propias autoridades fiscales los documentos que se estimen necesarios para comprobar el cumplimiento de las disposiciones señaladas en este Código, así como para que proporcionen los datos o informes que tengan relación con dicho cumplimiento, en un plazo de quince días contados a partir del día siguiente a aquél en que se le notificó la solicitud.
 
@@ -2185,7 +2185,7 @@ C). Estar fundado y motivado.
 
 D). Ostentar la firma del servidor público competente y, en su caso, el nombre o nombres de las personas a las que vaya dirigido. Cuando se ignore el nombre de la persona a la que va dirigido, se señalarán los datos suficientes que permitan su identificación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -2195,15 +2195,15 @@ E). Indicar el domicilio fiscal del contribuyente, y, de ser el caso, el que se 
 
 F). El nombre de las contribuciones a revisar, indicando el o los periodos o ejercicios sujetos a revisión.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 Las autoridades fiscales deberán concluir la revisión de la contabilidad de los contribuyentes, dentro de un plazo máximo de doce meses contados a partir de que se le notifique al contribuyente el inicio de facultades de comprobación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
-> <small>(DEROGADO CUARTO PARRAFO, G.G. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2217,7 +2217,7 @@ Cuando en el desarrollo de la revisión se conozcan hechos u omisiones de los co
 
 Para estos efectos, el contribuyente o su representante legal podrán acudir a la invitación de la autoridad fiscal acompañados por el director general, administrador único, socios o accionistas, miembros del consejo directivo o de administración o las personas que tengan funciones o puestos homólogos. La autoridad fiscal levantará una constancia de los hechos que acontezcan en la reunión que se lleve a cabo con motivo de la invitación referida, otorgándole al contribuyente un plazo de 10 días contados a partir del día siguiente a aquél en que se celebre la reunión, para que le exhiba por escrito el recibo de pago de la totalidad de las contribuciones omitidas actualizadas y de sus accesorios, como prueba de la corrección de su situación fiscal. En caso de que el contribuyente o su representante legal no acudan a la invitación que le formule la autoridad fiscal en los términos del párrafo anterior o no corrija su situación fiscal en el plazo referido o cuando el contribuyente no se encuentre localizado, se perderá el beneficio de la condonación de las multas a que se refiere esta disposición.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -2255,7 +2255,7 @@ XIII. Rectificar los errores aritméticos, omisiones u otros que aparezcan en la
 
 XIV. Cuando a instancia de parte o bien dentro de un procedimiento administrativo, la autoridad detecte documentos que presuman el pago de créditos fiscales y se compruebe por medios aleatorios que son apócrifos o falsos, procederán a retenerlos previo acuerdo debidamente fundado y motivado, y remitirlos a la autoridad competente para que, en su caso, proceda a la formulación de la querella.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 XV. (DEROGADA, G.G. 21 DE DICIEMBRE DE 2010)
 
@@ -2263,7 +2263,7 @@ XV. (DEROGADA, G.G. 21 DE DICIEMBRE DE 2010)
 
 XVI. Revisar los dictámenes formulados por contadores públicos registrados a nombre de los contribuyentes, sobre el debido cumplimiento de las disposiciones fiscales de este Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -2333,13 +2333,13 @@ B). El dictamen se emita con abstención de opinión, opinión negativa o con sa
 
 C). En el dictamen se determinen diferencias de impuesto por pagar y éstas no se enteren de conformidad con lo dispuesto en el último párrafo del artículo 47 B del Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 D). El dictamen no se presente o se presente en forma extemporánea.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -2351,13 +2351,13 @@ G). El dictamen haya sido formulado en contravención a lo dispuesto en este Có
 
 H). El contribuyente no acepte o no esté de acuerdo con su dictamen respecto del Contador Público autorizado que lo haya formulado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
 I). El Contador Público Autorizado que haya formulado el dictamen hubiese fallecido.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -2371,7 +2371,7 @@ Las autoridades fiscales podrán ejercer las facultades de comprobación a que s
 
 Tratándose de la revisión de pagos definitivos o de aquellos que en su caso tengan el carácter de provisionales efectuados por el contribuyente dictaminado, sólo se aplicará el orden establecido en este artículo, respecto de aquellos comprendidos en los meses a los que se refiera el ejercicio fiscal por el cual haya sido presentado el dictamen.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -2449,7 +2449,7 @@ Cuando con motivo del ejercicio de sus facultades de comprobación la autoridad 
 
 Cuando en el ejercicio de sus facultades de comprobación la autoridad fiscal conozca de hechos presuntamente delictivos, comunicará éstos a la autoridad competente para que, en su caso, proceda a la formulación de la querella sin perjuicio de que la propia autoridad fiscal pueda continuar ejerciendo sus facultades de comprobación, con base en las cuales podrán aportarse elementos de prueba adicionales.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 53.
 
@@ -2477,13 +2477,13 @@ El plazo señalado en este artículo se suspenderá cuando las autoridades fisca
 
 Los contribuyentes, transcurridos los plazos a que se refiere este artículo, podrán solicitar se declare que se han extinguido las facultades de la autoridad fiscal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 El plazo a que se refiere este articulo será de diez años cuando el contribuyente no haya dado cumplimiento a las obligaciones en los términos previstos en este Código, de empadronarse o registrarse ante la autoridad fiscal, así como cuando no presente las declaraciones a las que esté obligado; en este último caso, el plazo de diez años se computará a partir del día siguiente a aquél en que se debió haber presentado la declaración correspondiente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -2509,9 +2509,9 @@ No se podrá resolver favorablemente una solicitud de revisión administrativa p
 
 Lo señalado en el párrafo anterior, no constituirá instancia y las resoluciones que dicte la autoridad al respecto no podrán ser impugnadas por los contribuyentes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(DEROGADO ULTIMO PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2531,27 +2531,27 @@ El uso, manejo y transmisión de datos personales a que se refieren los párrafo
 
 #### SECCION PRIMERA. DEL IMPUESTO SOBRE EROGACIONES POR REMUNERACIONES AL TRABAJO PERSONAL
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 56.
 
 Están obligadas al pago de este impuesto, las personas físicas y jurídicas colectivas, incluidas las asociaciones en participación, que realicen pagos en efectivo o especie por concepto de remuneraciones al trabajo personal, prestado dentro del territorio del Estado, independientemente de la denominación que se les otorgue.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 Están obligadas a retener y enterar este impuesto, las personas físicas y jurídico colectivas que contraten la prestación de servicios de contribuyentes domiciliados en otro Estado o entidad federativa, cuya realización genere la prestación de trabajo personal dentro del territorio del Estado. La retención del impuesto se efectuará al contribuyente que preste los servicios contratados, debiendo entregarle la constancia de retención correspondiente durante los quince días siguientes al periodo respectivo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 Cuando para la determinación de la retención del impuesto se desconozca el monto de las remuneraciones al trabajo personal realizadas por el contribuyente de que se trate, la retención deberá determinarse aplicando la tasa del 2.5% al valor total de las contraprestaciones efectivamente pagadas por los servicios contratados en el mes que corresponda, sin incluir el Impuesto al Valor Agregado e independientemente de la denominación con que se designen.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 Para efectos de este impuesto se consideran remuneraciones al trabajo personal, las siguientes:
 
@@ -2559,7 +2559,7 @@ I. Pagos de sueldos y salarios.
 
 II. Pagos de tiempo extraordinario de trabajo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -2575,7 +2575,7 @@ VII. Pagos de primas de antigüedad.
 
 VIII. Pagos de participación de los trabajadores en las utilidades.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA [N. DE E., ADICIONADA], G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -2583,25 +2583,25 @@ IX. Pagos en bienes y servicios, incluyendo la casa habitación, inclusive con l
 
 X. Pagos de comisiones.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
 XI. Pagos realizados a administradores, comisarios, accionistas, socios o asociados de personas jurídicas colectivas, que provengan de una relación de trabajo personal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 XII. Pagos en efectivo o en especie, directa o indirectamente otorgados por los servicios de comedor y comida proporcionados a los trabajadores.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 XIII. Pagos de despensa en efectivo, en especie o vales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -2609,25 +2609,25 @@ XIV. Pagos en efectivo o en especie directa o indirectamente otorgados por los s
 
 XV. Pagos de primas de seguros para gastos médicos o de vida.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 XVI. Pagos que se asimilen a los ingresos por salarios en los términos de la Ley del Impuesto Sobre la Renta.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 XVII. Cualquier otra de naturaleza análoga a las señaladas en esta disposición que se entregue a cambio del trabajo personal, independientemente de la denominación que se le otorgue.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 Cuando se desconozca el valor de los bienes o servicios, el monto de los mismos se considerará a valor de mercado.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 56 Bis.
 
@@ -2719,7 +2719,7 @@ y conexas $1,175
 
 El impuesto se determinará aplicando la tasa del 2.5% sobre el monto total de los pagos efectuados por concepto de remuneraciones al trabajo personal a que se refiere el artículo 56 de este Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -2727,9 +2727,9 @@ El impuesto se determinará aplicando la tasa del 2.5% sobre el monto total de l
 
 Este impuesto se causará o retendrá en el momento en que se realicen las erogaciones por remuneraciones al trabajo personal a que se refiere el artículo 56 de este Código, y se pagará o enterará mediante declaración en la forma oficial aprobada, que deberá presentarse a más tardar el día diez del mes siguiente a aquél en que se causó o retuvo el impuesto.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 58 Bis.
 
@@ -2747,7 +2747,7 @@ II. Contraten en territorio del Estado, servicios mediante los cuales se le prop
 
 La presentación de declaraciones informativas a que refiere este artículo se harán conforme a las reglas de carácter general que emitirá la autoridad fiscal competente, mismas que habrán de publicarse en el Periódico Oficial.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 59.
 
@@ -2763,7 +2763,7 @@ III. Becas educacionales y deportivas para los trabajadores.
 
 IV. (DEROGADA, G.G. 29 DE DICIEMBRE DE 2000)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -2787,7 +2787,7 @@ B). (DEROGADO, G.G. 24 DE DICIEMBRE DE 1999)
 
 C). (DEROGADO, G.G. 29 DE DICIEMBRE DE 2006)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -2795,11 +2795,11 @@ D). Las instituciones de asistencia privada reconocidas por el Estado.
 
 E). (DEROGADO, G.G. 29 DE DICIEMBRE DE 2006)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 F). (DEROGADO, G.G. 18 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 G). (DEROGADO, G.G. 18 DE DICIEMBRE DE 2008)
 
@@ -2807,7 +2807,7 @@ H). (DEROGADO, G.G. 29 DE DICIEMBRE DE 2000)
 
 I). (DEROGADO, G.G. 29 DE DICIEMBRE DE 2000)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -3157,7 +3157,7 @@ La autoridad fiscal informará del cumplimiento de pago del impuesto a que se re
 
 #### SECCION TERCERA. DEL IMPUESTO SOBRE LA ADQUISICION DE VEHICULOS AUTOMOTORES USADOS
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 62.
 
@@ -3183,7 +3183,7 @@ Este impuesto se determinará aplicando el siguiente procedimiento:
 
 I. Tratándose de automóviles de hasta diez años modelo anterior al de aplicación de este Código:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -3253,7 +3253,7 @@ Están obligados a presentar declaración trimestral informativa dentro de los p
 
 #### SECCION CUARTA. DEL IMPUESTO SOBRE LOTERIAS, RIFAS, SORTEOS, CONCURSOS Y JUEGOS PERMITIDOS CON CRUCE DE APUESTAS
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 65.
 
@@ -3271,9 +3271,9 @@ II. Distribuyan o vendan los billetes, boletos, contraseñas o instrumentos que 
 
 III. Reciban, registren, crucen o capten apuestas, no obstante que el organizador del evento se encuentre fuera del territorio del Estado y de que el evento de cuyo resultado dependa la obtención del premio, se celebre también fuera del territorio estatal, aun cuando el importe de lo cobrado por la participación en ese evento sea inferior al costo del premio.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 IV. Obtengan los premios derivados o relacionados con las actividades a que se refiere esta sección, incluyendo como premios las participaciones de bolsas formadas con el importe de las inscripciones o cuotas que se distribuyan en función del resultado de las propias actividades.
 
@@ -3355,7 +3355,7 @@ Este impuesto se pagará de manera acumulada, mediante declaración en la forma 
 
 Quienes realicen este tipo de actividades de manera habitual deberán presentar dentro de los primeros diez días de cada mes, una declaración que contenga la descripción de los actos realizados en el mes inmediato anterior por los que se cause el impuesto.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 69.
 
@@ -3375,11 +3375,11 @@ IV. Señalar en los boletos, billetes, contraseñas o instrumentos que permitan 
 
 V. Presentar declaración mensual informativa dentro de los primeros 10 días del mes siguiente al en que se realizaron los eventos respecto de las personas físicas y jurídico colectivas, incluidas las asociaciones en participación, que obtuvieron premios derivados de loterías, rifas, sorteos o juegos permitidos con cruce de apuestas, conforme a las reglas de carácter general que emitirá la autoridad fiscal competente, mismas que habrán de publicarse en el Periódico Oficial.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
 #### SECCION PRIMERA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA GENERAL DE GOBIERNO
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 SUBSECCION PRIMERA
 
@@ -3389,21 +3389,21 @@ DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA DIRECCION TECNICA Y DEL PERIODICO
 
 #### SECCION SEGUNDA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE FINANZAS
 
-(REFORMADO PRIMER PARRAFO, G.G. 27 DE DICIEMBRE DE 2005) (ACTUALIZADO EN SUS CUOTAS, TARIFAS Y CONCEPTOS, G.G. 1 DE ENERO DE 2012)
+(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE DICIEMBRE DE 2005) (ACTUALIZADO EN SUS CUOTAS, TARIFAS Y CONCEPTOS, G.G. 1 DE ENERO DE 2012)
 
 #### SECCIÓN TERCERA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARÍA DE EDUCACIÓN
 
-(REFORMADO PRIMER PARRAFO, G.G. 27 DE DICIEMBRE DE 2005) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2012)
+(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE DICIEMBRE DE 2005) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2012)
 
 #### SECCION CUARTA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE DESARROLLO URBANO
 
-(REFORMADO PRIMER PARRAFO, G.G. 27 DE DICIEMBRE DE 2005) (ACTUALIZADO EN SUS CUOTAS, TARIFAS Y CONCEPTOS, G.G. 1 DE ENERO DE 2012)
+(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE DICIEMBRE DE 2005) (ACTUALIZADO EN SUS CUOTAS, TARIFAS Y CONCEPTOS, G.G. 1 DE ENERO DE 2012)
 
 #### SECCION QUINTA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE AGUA Y OBRA PUBLICA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-(REFORMADO PRIMER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008) (ACTUALIZADO EN SUS CUOTAS, TARIFAS Y CONCEPTOS, G.G. 1 DE ENERO DE 2012)
+(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2008) (ACTUALIZADO EN SUS CUOTAS, TARIFAS Y CONCEPTOS, G.G. 1 DE ENERO DE 2012)
 
 #### SECCION SEXTA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE LA CONTRALORIA
 
@@ -3539,7 +3539,7 @@ A). Folios de protocolo ordinario, por volumen. $215
 
 B). Folios de libros de cotejos, por volumen. $359
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
 SUBSECCION SEGUNDA
 
@@ -3555,7 +3555,7 @@ DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA AGENCIA DE SEGURIDAD ESTATAL
 
 #### SECCION OCTAVA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE TRANSPORTE
 
-(REFORMADO PRIMER PARRAFO, G.G. 26 DE DICIEMBRE DE 2007) (ACTUALIZADO EN SUS CUOTAS, TARIFAS Y CONCEPTOS, G.G. 1 DE ENERO DE 2012)
+(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE DICIEMBRE DE 2007) (ACTUALIZADO EN SUS CUOTAS, TARIFAS Y CONCEPTOS, G.G. 1 DE ENERO DE 2012)
 
 ###### Artículo 74.
 
@@ -3563,7 +3563,7 @@ DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA AGENCIA DE SEGURIDAD ESTATAL
 
 #### SECCION NOVENA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DEL MEDIO AMBIENTE
 
-(REFORMADO PRIMER PARRAFO, G.G. 27 DE DICIEMBRE DE 2005) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2012)
+(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE DICIEMBRE DE 2005) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2012)
 
 ###### Artículo 75.
 
@@ -3787,7 +3787,7 @@ B). Para la elaboración de análisis de vulnerabilidad y riesgo,
 
 por guía. $1,023
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 SUBSECCION CUARTA
 
@@ -3929,7 +3929,7 @@ Para efectos del párrafo anterior, los contratos privados de compraventa no se 
 
 Por la cancelación de la inscripción a que alude esta fracción, ordenada por la autoridad judicial o cuando así lo soliciten las partes que intervienen en el acto o documento, siempre y cuando no se haya realizado la inscripción definitiva, se pagarán $232.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -3991,7 +3991,7 @@ actos contenidos en este artículo $1,384
 
 #### SECCION PRIMERA. DEL IMPUESTO PREDIAL
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 79.
 
@@ -4007,7 +4007,7 @@ de administradores de conformidad a la legislación
 
 aplicable. $1,371
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -4035,7 +4035,7 @@ VII. Depósito de copia autorizada por
 
 balance, se pagarán $1,384
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -4045,7 +4045,7 @@ acto que sea inscribible de acuerdo con este
 
 artículo. $1,021
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 (ACTUALIZADA EN SU TARIFA, G.G. 21 DE DICIEMBRE DE 2010)
 
@@ -4195,7 +4195,7 @@ secuencia registral de un inmueble o asiento
 
 registral, por cada asiento que se certifique. $552
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -4207,13 +4207,13 @@ electrónicos del Registro Público de la Propiedad
 
 de antecedentes regístrales. $287
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 En el caso de los certificados a que hace referencia la fracción I y tratándose de programas o campañas de regularización de la tenencia de la tierra llevadas a cabo por los organismos reguladores del Estado o de los municipios, quedarán exentos del pago de derechos, siempre y cuando el Instituto de la Función Registral del Estado de México sea parte en los convenios suscritos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -4227,7 +4227,7 @@ Cuando los servicios a que aluden las fracciones I, incisos C) y D), V, VII, VII
 
 #### SECCION QUINTA. DEL IMPUESTO SOBRE DIVERSIONES, JUEGOS Y ESPECTACULOS PUBLICOS
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 84.
 
@@ -4265,11 +4265,11 @@ Tratándose de instituciones y organizaciones de crédito y seguros, las inscrip
 
 (DEROGADO, G.G. 30 DE JUNIO DE 2006)
 
-(REFORMADO PRIMER PARRAFO, G.G. 24 DE DICIEMBRE DE 1999) (ACTUALIZADO EN SUS CUOTAS, TARIFAS Y CONCEPTOS, G.G. 1 DE ENERO DE 2012)
+(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE DICIEMBRE DE 1999) (ACTUALIZADO EN SUS CUOTAS, TARIFAS Y CONCEPTOS, G.G. 1 DE ENERO DE 2012)
 
 #### SECCION PRIMERA. DE LOS DERECHOS DE AGUA POTABLE, DRENAJE, ALCANTARILLADO, RECEPCION DE LOS CAUDALES DE AGUAS RESIDUALES PARA SU TRATAMIENTO O MANEJO Y CONDUCCION
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 88.
 
@@ -4395,7 +4395,7 @@ libros de Oficialía de las diversas actas de los actos y hechos
 
 del estado civil, por libro. $246
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 91.
 
@@ -4613,7 +4613,7 @@ sujeto a disponibilidad. $3,044
 
 (DEROGADO, G.G. 26 DE DICIEMBRE DE 2007)
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 93.
 
@@ -4835,7 +4835,7 @@ la actualización del mismo, a planteles particulares de tipo
 
 superior. $963
 
-(REFORMADO PRIMER PARRAFO, G.G. 30 DE DICIEMBRE DE 2005) (ACTUALIZADO EN SUS CUOTAS, TARIFAS Y CONCEPTOS, G.G. 1 DE ENERO DE 2012)
+(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE DICIEMBRE DE 2005) (ACTUALIZADO EN SUS CUOTAS, TARIFAS Y CONCEPTOS, G.G. 1 DE ENERO DE 2012)
 
 ###### Artículo 93 Bis.
 
@@ -4965,7 +4965,7 @@ IX. Por la aprobación de proyectos arquitectónicos de equipamiento urbano para
 
 X. Por la aprobación del respectivo proyecto de lotificación del conjunto urbano, se pagarán $ 2,197.
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 95.
 
@@ -5003,9 +5003,9 @@ La Comisión del Agua del Estado de México conjuntamente con los municipios o s
 
 Cuando los derechos a que se refiere esta fracción sean pagados previamente por quienes lleven a cabo los nuevos conjuntos urbanos a los ayuntamientos o sus descentralizadas, éstos deberán pagar los derechos a la Comisión del Agua del Estado de México por los servicios prestados, en un plazo no mayor de diez días después de haber recibido el pago.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 II. Por los servicios proporcionados a través de la Comisión del Agua del Estado de México, se pagarán los siguientes derechos:
 
@@ -5039,13 +5039,13 @@ Otros: Quedan comprendidos en forma transitoria en esta tarifa aquellos usuarios
 
 En caso de que un municipio distinto a los anteriores solicite el servicio, será clasificado de acuerdo al análisis de sus características socio-económicas y al costo que implique prestar el servicio, para incluirlo en algún grupo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 B). Para usuarios que tengan asignación directa de la Comisión Nacional del Agua y utilicen la infraestructura que opera la Comisión del Agua del Estado de México, para la conducción de los volúmenes asignados, pagarán:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -5101,19 +5101,19 @@ proporcionada por el usuario $98
 
 La iniciativa de reforma de cuotas y tarifas previstas en el presente artículo, deberán ser presentadas a más tardar el 15 de octubre a la Legislatura.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 Para efectos de aplicación de las tarifas previstas en este artículo, deberá atenderse invariablemente a las características circunstancias y costos de los servicios. Las autoridades municipales competentes, tratándose de municipios u organismos descentralizados; los representantes legales de los conjuntos urbanos; o particulares que requieran cualquiera de los servicios prestados por la Comisión del Agua del Estado de México, deberán firmar el contrato o convenio correspondiente y pagar los derechos contra la prestación del servicio, durante los treinta días posteriores a aquel en que se haya recibido el servicio.
 
-> <small>N. DE E. EL PRESENTE PARRAFO HA SIDO REUBICADO, PERTENECIA A LA FRACCION II, COMO TERCER PARRAFO</small>
+> <small>N. DE E. EL PRESENTE PÁRRAFO HA SIDO REUBICADO, PERTENECÍA A LA FRACCIÓN II, COMO TERCER PÁRRAFO</small>
 
 (REUBICADO, G.G. 29 DE DICIEMBRE DE 2006)
 
 Los contribuyentes tendrán la obligación de presentar la declaración de pago en las formas aprobadas por la Comisión del Agua del Estado de México.
 
-> <small>N. DE E. EL PRESENTE PARRAFO HA SIDO REUBICADO, PERTENECIA A LA FRACCION II, COMO CUARTO PARRAFO</small>
+> <small>N. DE E. EL PRESENTE PÁRRAFO HA SIDO REUBICADO, PERTENECÍA A LA FRACCIÓN II, COMO CUARTO PÁRRAFO</small>
 
 (REUBICADO, G.G. 29 DE DICIEMBRE DE 2006)
 
@@ -5153,7 +5153,7 @@ Los estudios técnicos que con motivo de la auditoría técnica sean necesarios 
 
 II. (DEROGADA, G.G. 30 DE DICIEMBRE DE 2003)
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 6 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 97.
 
@@ -5475,7 +5475,7 @@ derechos de vía de las autopistas de cuotas estatales
 
 y zonas aledañas, por kilómetro lineal o fracción. $4,819
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 6 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 97-B.
 
@@ -5637,9 +5637,9 @@ IV. Por el otorgamiento de permisos de:
 
 A). Servicio discrecional de pasaje en la modalidad especializado:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
 1 Vehículos de transporte de pasaje especializado escolar y personal de empresa en que se obtenga lucro por la prestación del servicio:
 
@@ -5649,9 +5649,9 @@ b). Minibús. $2,191
 
 c). Vagonetas. $1,880
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
 2. El servicio de transporte de pasaje especializado de turismo e individual en vehículo de propulsión no mecánica, en que se obtenga lucro por la prestación del servicio:
 
@@ -5717,7 +5717,7 @@ de cobertizos. $3,168
 
 8. (DEROGADO, G.G. 30 DE DICIEMBRE DE 2003)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -5729,7 +5729,7 @@ para el otorgamiento de concesiones y permisos en todas
 
 sus modalidades, por unidad vehicular. $1,566
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -5763,13 +5763,13 @@ con un máximo de cinco asientos y un mínimo de cuatro,
 
 incluido el del operador. $254
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 H). (DEROGADO, G.G. 21 DE DICIEMBRE DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
 V. Por la cesión de derechos o cambio de titular del permiso de carga en general:
 
@@ -5849,7 +5849,7 @@ B). El servicio de carga en general y especializado de carga:
 
 2. Capacidad de carga de más de 3,000 kgs. $1,568
 
-(REFORMADO PRIMER PARRAFO, G.G. 10 DE DICIEMBRE DE 2009) (F. DE E., G.G. 2 DE FEBRERO DE 2010)
+(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE DICIEMBRE DE 2009) (F. DE E., G.G. 2 DE FEBRERO DE 2010)
 
 C). El servicio discrecional de arrastre y traslado, prestado
 
@@ -5869,7 +5869,7 @@ D). Los servicios conexos, por el establecimiento de:
 
 E). El permiso para la instalación de anuncios publicitarios: $3,168
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -5879,7 +5879,7 @@ Se exceptúan de lo anterior, los permisos para servicio con vehículos de propu
 
 VII. Por la expedición de autorizaciones o modificaciones complementarias de las concesiones y permisos que correspondan, respecto de:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -5899,7 +5899,7 @@ B). Modificación de rutas o área geográfica de operación del servicio públi
 
 2. Por la fusión de dos rutas como resultado de un enlace. $1,381
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -5913,7 +5913,7 @@ destino, reduciendo el derrotero. $156
 
 5. De frecuencia de la ruta o derrotero. $1,381
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -6063,7 +6063,7 @@ XII. Expedición de permiso de transporte público en otras
 
 modalidades $783
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -6265,7 +6265,7 @@ Taller autorizado en el Programa Integral de Reducción
 
 de Emisiones Contaminantes (PIREC). $4,751
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 6 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 103.
 
@@ -6301,17 +6301,17 @@ E). Las copias certificadas que se expidan para la sustanciación de procedimien
 
 #### SECCION TERCERA. DE LOS DERECHOS DE DESARROLLO URBANO Y OBRAS PUBLICAS
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 105.
 
 (DEROGADO, G.G. 30 DE JUNIO DE 2006)
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
 #### SECCIÓN CUARTA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR AUTORIDADES FISCALES, ADMINISTRATIVAS Y DE ACCESO A LA INFORMACIÓN PÚBLICA
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 106.
 
@@ -6435,21 +6435,21 @@ Tratándose de predios destinados a panteones particulares, no se considera como
 
 El propietario del panteón bimestralmente presentará ante las autoridades catastral y fiscal competentes, una relación de los actos o contratos por los que se haya transmitido la posesión de lotes para destinarse a sepulturas en que se indique la fecha y superficie, así como una lista de lotes cuya posesión haya revertido a su favor.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 112.
 
 El pago del impuesto se efectuará en una sola exhibición durante los meses de enero, febrero y marzo, cuando su importe sea hasta de seis días de salario mínimo general del área geográfica que corresponda a la ubicación del inmueble.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 Cuando el importe sea mayor de seis y hasta nueve días de salario mínimo, el pago se hará en dos exhibiciones que se enterarán durante los meses de enero y julio.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -6469,11 +6469,11 @@ Si la copropiedad o el régimen de condominio se constituye sin estar terminadas
 
 Respecto de los créditos fiscales derivados del Impuesto Predial que no hayan sido pagados en los plazos previstos en este artículo, no procederá su actualización en los términos que dispone este Código.
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 #### SECCION SEPTIMA. DE LOS DERECHOS POR USO DE VIAS Y AREAS PUBLICAS PARA EL EJERCICIO DE ACTIVIDADES COMERCIALES O DE SERVICIOS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -6485,7 +6485,7 @@ Están obligadas al pago de este impuesto las personas físicas y jurídicas col
 
 Para efectos de este impuesto se entiende por adquisición, la que se derive de:
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 I. Todo acto por el que se adquiera la propiedad, incluyendo la donación, la que ocurra por causa de muerte, la aportación de toda clase de asociaciones o sociedades e incluso los bienes que el trabajador se adjudique por virtud de remate judicial, a excepción de las que se realicen al constituir la copropiedad o la sociedad conyugal, siempre que sean inmuebles propiedad de los copropietarios o de los cónyuges, o cuando se trate de donación de inmuebles a asociaciones y sociedades que tengan por objeto social la atención a personas discapacitadas y promuevan el cuidado del medio ambiente, y cuyo valor no supere los $200,000.00.
 
@@ -6531,13 +6531,13 @@ G). (DEROGADO, G.G. 26 DE DICIEMBRE DE 2007)
 
 H). En el momento en el que alguna persona, física o jurídica colectiva, con el carácter distinto de fiduciario o miembro del comité técnico, adquiera algún derecho derivado del fideicomiso relacionado con los inmuebles, con posterioridad a su constitución.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 Cuando el fideicomitente reciba certificados de participación por los bienes que afecte en fideicomiso, se considerarán enajenados esos bienes al momento en que el fideicomitente reciba los certificados, salvo que se trate de acciones o que habiéndose reservado el fideicomitente el derecho de readquirir los bienes, los certificados de participación se emitan al fideicomitente y al gran público inversionista.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -6561,7 +6561,7 @@ XV. La readquisición de la propiedad de bienes inmuebles a consecuencia de la r
 
 XVI. La disolución de la sociedad conyugal, por la parte que se adquiera en demasía del por ciento que le corresponda a cada cónyuge.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(ADICIONADA, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -6581,7 +6581,7 @@ En el momento en que se constituya o transmita el usufructo sobre los bienes apo
 
 Este impuesto se determinará conforme a la siguiente:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -6615,33 +6615,33 @@ La base gravable de este impuesto será el valor que resulte mayor entre el valo
 
 El monto del impuesto a pagar, será el resultado de sumar a la cuota fija que corresponda, de conformidad con la tarifa, la cantidad que se determine al multiplicar el factor aplicable previsto para cada rango, por la diferencia que exista entre la base gravable determinada conforme al párrafo anterior y el importe indicado en el límite inferior del rango de valor base relativo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(DEROGADO CUARTO PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(DEROGADO QUINTO PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO QUINTO PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(DEROGADO SEXTO PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO SEXTO PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 En caso de que se transmita el usufructo o la nuda propiedad, el monto del impuesto que se determine según el valor que resulte más alto, entre el catastral y el de operación total, se reducirá en un 50%.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(DEROGADO OCTAVO PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO OCTAVO PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(DEROGADO NOVENO PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO NOVENO PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 > <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 En el caso de la adquisición de inmuebles en copropiedad o de los derechos relacionados con los mismos, el impuesto se calculará sobre el valor que resulte mayor entre el valor catastral y el de operación total del inmueble; el monto del impuesto así determinado se multiplicará por la parte o proporción que corresponda a cada copropietario, para determinar el monto del impuesto a su cargo.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 116.
 
@@ -6665,7 +6665,7 @@ VI. En los contratos de arrendamiento financiero de bienes inmuebles, cuando se 
 
 VII. En los casos no previstos en las fracciones anteriores, cuando los actos de que se trate se eleven a escritura pública o se inscriban en el Registro Público de la Propiedad, o si se trata de documentos privados, cuando se adquiera el dominio del bien conforme a las leyes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -6693,7 +6693,7 @@ Si las adquisiciones se hacen constar en documentos privados, el cálculo y ente
 
 No se pagará el impuesto establecido en esta Sección en las adquisiciones de inmuebles que hagan los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero.
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 6 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
 #### SECCION OCTAVA. DE LOS DERECHOS POR SERVICIOS DE PANTEONES
 
@@ -6813,7 +6813,7 @@ II. Los montos determinados de conformidad con lo previsto en este artículo, se
 
 Están obligadas al pago de este impuesto las personas físicas o jurídicas colectivas que se anuncien en bienes del dominio público o privado, mediante anuncios publicitarios susceptibles de ser observados desde la vía pública o lugares de uso común, así como la distribución de publicidad impresa en la vía pública, que anuncien o promuevan la venta de bienes o servicios. Lo anterior, observando las disposiciones aplicables en la materia, incluyendo las emitidas por la autoridad municipal de que se trate.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -6877,7 +6877,7 @@ por día. 3.63
 
 Tratándose de las personas físicas y jurídicas colectivas que de manera eventual realicen esta actividad, deberán cumplir con la obligación de pago por el número de días en que se llevó a cabo la publicidad, conforme a la tarifa de este artículo, para lo cual, en caso de que no se señale una cuota diaria, deberán de dividir el monto a pagar bimestral entre 60 y el resultado multiplicarlo por el número de días en los que se efectuó la publicidad, de acuerdo al concepto de que se trate. En este caso, se pagará mediante declaración mensual que deberá presentarse dentro de los cinco días siguientes del mes siguiente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -6887,7 +6887,7 @@ Para efectos de este artículo se entenderá como anuncio luminoso, aquél que s
 
 #### SECCION DECIMA. DE LOS DERECHOS POR LA EXPEDICION O REFRENDO ANUAL DE LICENCIAS PARA LA VENTA DE BEBIDAS ALCOHOLICAS AL PUBLICO
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 122.
 
@@ -6921,7 +6921,7 @@ II. Tratándose de espectáculos públicos explotados por personas físicas o ju
 
 Cuando se trate de espectáculos públicos explotados por personas físicas o jurídicas colectivas que cuenten con establecimiento debidamente constituido, la tasa del 5%.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 III. Tratándose de espectáculos públicos de tipo cultural, teatral y circense la tasa del 3%.
 
@@ -6937,7 +6937,7 @@ Los contribuyentes que habitualmente realicen actividades por las que se cause e
 
 #### SECCION DECIMA PRIMERA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR AUTORIDADES DE SEGURIDAD PUBLICA
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 125.
 
@@ -6953,7 +6953,7 @@ El impuesto se determinará aplicando la tasa del 4% sobre el monto total de la 
 
 Este impuesto se pagará mediante declaración que se presentará a la tesorería, en la forma oficial aprobada, a más tardar el día diecisiete del mes siguiente a aquél en que se perciban las contraprestaciones.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -6961,13 +6961,13 @@ Este impuesto se pagará mediante declaración que se presentará a la tesorerí
 
 La Tesorería deberá depositar el 50% de lo recaudado por el impuesto a que se refiere la presente Sección, dentro de los diez días siguientes al mes en que se reciba el pago del propio gravamen, en una cuenta bancaria específica en la que únicamente podrán depositarse los montos recaudados por el impuesto y en su caso los rendimientos que éstos produzcan.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 Artículo 128 Bis A.- Los ingresos depositados en la cuenta a que se refiere el artículo 128 del Código deberán destinarse al desarrollo de actividades de fomento al turismo en el territorio del municipio de que se trate.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -7007,7 +7007,7 @@ V. Por el control para el establecimiento de los sistemas de agua potable y de a
 
 VI. Conexión de la toma para el suministro de agua en bloque proporcionada por autoridades municipales o sus descentralizadas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -7041,9 +7041,9 @@ El consejo directivo del organismo público descentralizado de carácter municip
 
 Los usuarios del servicio de agua potable, drenaje, alcantarillado y recepción de los caudales de aguas residuales para su tratamiento o manejo y conducción están obligados a realizar el pago de los derechos derivados de la prestación del servicio, cuando se encuentren asentados en áreas urbanizables, susceptibles de ser integradas a los centros de población.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 130.
 
@@ -7053,9 +7053,9 @@ I. Para uso doméstico:
 
 A). Con medidor.
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -7069,7 +7069,7 @@ Se considerará como consumo de tipo mixto, aquellos casos en donde en un mismo 
 
 El pago del consumo por servicio medido, se hará por cada uno de los usuarios conforme al uso del servicio y la tarifa aplicable, promediando el consumo total entre el número de usuarios beneficiados.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -7079,13 +7079,13 @@ Para consumo de agua en edificios de departamentos y vecindades que tengan para 
 
 La cuota mínima a pagar en el mes o bimestre no será menor a la que corresponda a un consumo de 7.5 m3 y 15 m3, respectivamente, incluyendo la aplicación de los estímulos fiscales establecidos en la Ley de Ingresos del ejercicio de que se trate.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
 B). Si no existe aparato medidor o se encuentra en desuso, se pagarán los derechos dentro de los primeros diecisiete días siguientes al mes o bimestre que corresponda de acuerdo con lo siguiente:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TARIFA, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TARIFA, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -7109,7 +7109,7 @@ Residencial Alta 23.1188 20.7902 18.5818 16.4938
 
 Toma de 19 a 26 mm 48.4030 43.5417 38.9310 34.5709
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TARIFA, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TARIFA, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -7133,7 +7133,7 @@ Residencial Alta 46.2375 41.5803 37.1635 32.9876
 
 Toma de 19 a 26 mm 96.8060 87.0833 77.8619 69.1417
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -7147,27 +7147,27 @@ II. Para uso no doméstico:
 
 A). Con medidor:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 En caso de que el medidor se encuentre descompuesto, el usuario pagará los derechos de suministro de agua potable de conformidad al promedio de consumo de los tres últimos meses o bimestres inmediatos anteriores, según sea el caso, en que estuvo funcionando el aparato.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 La cuota mínima a pagar en el mes o bimestre no será menor a la que corresponda a un consumo de 7.5 m3 y 15 m3, respectivamente, incluyendo la aplicación de los estímulos fiscales establecidos en la Ley de Ingresos del ejercicio de que se trate.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
 B). Si no existe aparato medidor o se encuentra en desuso, se pagarán los derechos dentro de los primeros diecisiete días siguientes al mes o bimestre que corresponda de acuerdo con lo siguiente:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TARIFA, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TARIFA, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -7197,7 +7197,7 @@ EN MM 1 2 3 4
 
 75 1,592.2573 1,430.8863 1,280.2666 1,099.4537
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TARIFA, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TARIFA, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -7229,7 +7229,7 @@ EN MM 1 2 3 4
 
 Para los efectos de estos derechos, se aplicará el 50% de la tarifa correspondiente, cuando se trate de núcleos de población de zonas rurales, que cuenten con sistemas locales de agua y que reporten una población menor a 1,000 habitantes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -7257,43 +7257,43 @@ B). Para uso no doméstico: 4 días de salario mínimo general del área geográ
 
 No se pagarán los derechos previstos en esta fracción, durante el primer año natural, a partir de la instalación del aparato medidor, por una sola vez, salvo los casos en que dicho aparato haya sido deteriorado por causas imputables al usuario, en los que éste deberá cubrir el 100% del costo de la reparación del aparato.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 En los casos en que el pago de los derechos a que se refiere este artículo se realice en base a consumos cuantificados a través de aparato medidor, mismo que será instalado por la autoridad municipal competente a costa del usuario, éste está obligado a reportar mediante los formatos oficiales, al prestador de servicios que corresponda, los consumos mensuales o bimestrales de agua y efectuar su pago dentro de los primeros diecisiete días siguientes al bimestre que se esté reportando.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 Para consumo de agua bajo la modalidad de prepago, el usuario pagará mensualmente los derechos de suministro de agua potable, mediante la aplicación de la tarifa para servicio medido mensual, se trate de uso doméstico o no doméstico, que corresponda al rango de volumen en metros cúbicos adquiridos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 En el supuesto de que el usuario de la modalidad de prepago requiera en el mismo periodo mensual volúmenes adicionales para cubrir su consumo, éstos se acumularán con los anteriormente adquiridos, el volumen resultante se ubicará en el rango de la tarifa de servicio medido que le corresponda, deduciendo al monto determinado, el o los pagos que se hayan efectuado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 El caudal mínimo que los usuarios de esta modalidad de servicio deben pagar al mes no será menor a 7.5 m3, incluyendo la aplicación de los estímulos fiscales establecidos en la Ley de Ingresos del ejercicio fiscal que corresponda.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 130 Bis.
 
 Por el servicio de drenaje y alcantarillado se pagará el 8% del monto determinado por el servicio de agua potable.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 Los usuarios que se abastezcan de agua de carros tanque, fuente propia o cualquiera que sea distinta de la red municipal y que se hayan conectado a la red de drenaje municipal, pagarán la tarifa establecida en el párrafo anterior, conforme al monto determinado por la aplicación de la tarifa del artículo 130 según corresponda, en relación a los volúmenes recibidos. extraídos o que le sean suministrados.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -7305,7 +7305,7 @@ El usuario está obligado a reportar al municipio o al organismo operador, media
 
 Por el suministro de agua en bloque por parte de las autoridades municipales o sus organismos descentralizados a conjuntos urbanos y lotificaciones para condominio en el periodo comprendido desde la construcción hasta la entrega de las obras al municipio, se pagarán bimestralmente los derechos desde el momento en que reciba el servicio y que quede debidamente establecido en los convenios que al efecto se celebren con la autoridad fiscal competente, de acuerdo a la siguiente:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TARIFA, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TARIFA, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -7321,7 +7321,7 @@ Grupo 1 Grupo 2 Grupo 3 Grupo 4
 
 Agua en Bloque 0.1452 0.1332 0.1218 0.1109
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -7367,7 +7367,7 @@ III. Para viviendas que se ubiquen en el mismo predio del de la toma principal y
 
 Por la derivación se deberá efectuar un pago único de 7.297 número de salarios mínimos diarios del área geográfica que corresponda, independientemente del consumo. Los propietarios o poseedores de los predios que den su conformidad para establecer la derivación, además de pagar su propio consumo, están obligados solidariamente a pagar la cuota correspondiente a las derivaciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 135.
 
@@ -7475,11 +7475,11 @@ Tratándose de vivienda de interés social y popular, los derechos de conexión 
 
 Tratándose de viviendas de tipo social progresiva, los derechos de conexión a que se refiere este artículo, se reducirán un 50%.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
-> <small>(DEROGADO DECIMO PARRAFO, G.G. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(DEROGADO DÉCIMO PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -7489,9 +7489,9 @@ Los usuarios que se abastezcan de agua de fuente propia o distinta a la red muni
 
 Los adquirentes de lotes no están obligados al pago de los derechos previstos en este artículo cuando los titulares de las autorizaciones de subdivisiones o conjuntos urbanos de carácter habitacional, industrial, agroindustrial y de abasto, comercio y servicios, hayan realizado bajo su costo las obras de conexión de agua potable y drenaje entre las redes generales y el lote.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 136.
 
@@ -7501,9 +7501,9 @@ Por la recepción de los caudales de aguas residuales, de uso doméstico y no do
 
 I. Una cantidad equivalente al 51% del monto de los derechos por el suministro de agua potable, cuando el municipio o los organismos prestadores de los servicios proporcionen dicho servicio.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 II. Cuando los usuarios sujetos al pago de este derecho se abastezcan de agua potable mediante fuente propia o distinta a la red municipal, pagarán bimestralmente los derechos conforme a lo siguiente:
 
@@ -7515,7 +7515,7 @@ A) Para uso doméstico:
 
 TARIFA
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 > <small>(REFORMADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
@@ -7525,7 +7525,7 @@ B) Para uso no doméstico:
 
 TARIFA
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -7545,9 +7545,9 @@ Los derechos previstos en este artículo se pagarán en el momento en que se pag
 
 Las aguas residuales originadas o derivadas de predios dedicados a actividades industriales, descargadas en los sistemas municipales, deberán cumplir con las normas oficiales mexicanas, las disposiciones jurídicas aplicables y serán sujetos al pago de este derecho.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 137.
 
@@ -7561,7 +7561,7 @@ En cuanto al tipo de desarrollo se estará a las definiciones establecidas en la
 
 No pagarán los derechos previstos en este artículo las viviendas de tipo social progresiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 137 Bis.
 
@@ -7659,7 +7659,7 @@ En cuanto a las lotificaciones para condominios de tipo vertical, horizontal y m
 
 No pagarán los derechos previstos en este artículo las viviendas de tipo social progresiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 138.
 
@@ -7689,7 +7689,7 @@ No pagarán los derechos previstos en este artículo los conjuntos urbanos o uni
 
 Los Ayuntamientos, que de conformidad con las características o circunstancias técnicas y operativas de la prestación de los servicios a que se refiere esta sección, requieran de tarifas diferentes a las establecidas, las propondrán a más tardar el 15 de noviembre a la Legislatura.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -7723,7 +7723,7 @@ Por los servicios que presta el Registro Civil, se pagarán derechos de acuerdo 
 
 TARIFA
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
 CONCEPTO NÚMERO DE SALARIOS
 
@@ -7735,7 +7735,7 @@ GENERALES DEL
 
 QUE CORRESPONDA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -7745,7 +7745,7 @@ nacimiento de recién nacidos,
 
 hasta cumplido un año. Exento
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -7815,9 +7815,9 @@ que no se originen por acuerdos de la
 
 Dirección General. 1.3.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
 XI. Expedición de copias certificadas
 
@@ -7845,7 +7845,7 @@ administrativos, concentrados en las
 
 oficialías. 0.44.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -7859,7 +7859,7 @@ cuando no se señale fecha de registro, por
 
 cada año o fracción. 0.144
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -7871,7 +7871,7 @@ del Registro Civil, o en días y horas inhábiles,
 
 pagarán una cuota adicional de: 4.95
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -7881,7 +7881,7 @@ efectuado ante las Oficialías del Registro Civil. 20.92
 
 XV. (DEROGADA, G.G. 29 DE DICIEMBRE DE 2006)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -7905,7 +7905,7 @@ En los casos de desastres como heladas, inundaciones, epidemias, sismos o de cam
 
 #### SECCION DECIMA CUARTA. DE LOS DERECHOS POR LOS SERVICIOS PRESTADOS POR LAS AUTORIDADES DE CATASTRO
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 143.
 
@@ -7943,13 +7943,13 @@ VII. Expedición de cédulas informativas de zonificación;
 
 VIII. Expedición y certificación de duplicados de documentos existentes en archivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 144.
 
 Por los servicios prestados por desarrollo urbano y obras públicas municipales, se pagarán los siguientes derechos:
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 I. Por la expedición de licencias municipales de construcción, con vigencia de un año, en cualquiera de sus tipos de obra nueva, ampliación, modificación, reparación que no afecte elementos estructurales, reparación que afecte elementos estructurales y la modificación del proyecto de una obra autorizada, así como las prórrogas de las mismas que serán proporcionales al tiempo solicitado, se pagarán derechos de acuerdo a lo siguiente:
 
@@ -8041,9 +8041,9 @@ La licencia de construcción incluye además los servicios de ocupación de la v
 
 Cuando la licencia municipal de construcción se expida o se autorice una prórroga por un período mayor de la vigencia señalada en esta fracción, se pagarán derechos en forma proporcional por el período que exceda de dicha vigencia.
 
-> <small>(DEROGADO ULTIMO PARRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
 II. Cuando se autorice alguno o algunos de los siguientes servicios, se pagarán los derechos de acuerdo a la siguiente:
 
@@ -8081,7 +8081,7 @@ al régimen en condominio
 
 por m2 edificado. 0.176 0.107
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 F). Por la expedición de constancias
 
@@ -8103,7 +8103,7 @@ G). DEROGADO, G.G. 27 DE DICIEMBRE DE 2005)
 
 III. Por la autorización de la subrogación de los derechos de titularidad de un conjunto urbano, subdivisión o condominio se pagarán derechos equivalentes a 135.23 días de salario mínimo general del área geográfica que corresponda.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 IV. Por la autorización de relotificación de conjuntos urbanos, subdivisiones o condominios se pagarán por cada vivienda prevista o cada 100 m2 de superficie útil de otros servicios, los siguientes derechos:
 
@@ -8129,7 +8129,7 @@ V. Por la autorización para realizar obras de modificación, rotura o corte de 
 
 VI. Por la autorización para la instalación, tendido o permanencia anual de cables y/o tuberías subterráneas o áreas en la vía pública, por metro lineal se pagarán 0.05 días de salario mínimo general del área geográfica que corresponda. Este pago deberá efectuarse dentro de los primeros tres meses de cada año.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 VII. Por servicios de control necesarios para su ejecución, se cobrará un 2% a las compañías contratistas con quienes se celebren contratos de obra pública o de servicios relacionados con la misma, sobre el importe de cada una de las estimaciones de trabajo generados por las dependencias y entidades, la tesorería y las entidades en su caso, al realizar el pago de las estimaciones retendrán el importe respectivo.
 
@@ -8191,7 +8191,7 @@ XI. Por la autorización de cambios de uso del suelo, de densidad e intensidad d
 
 XII. Por la expedición de cédulas informativas de zonificación, se pagará una cuota equivalente a 2.84 días de salario mínimo general vigente del área geográfica que corresponda.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
 XIII. Por la expedición de duplicados de documentos y planos existentes en archivo, se pagarán los derechos conforme a la siguiente:
 
@@ -8231,7 +8231,7 @@ Por la autorización de fusión, subdivisión de predios y lotificación en cond
 
 I. Fusión de predios, por cada uno 15.55 días de salario mínimo general del área geográfica que corresponda.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 II. Subdivisión de predios cuando no son objeto del impuesto sobre conjuntos urbanos, por cada lote resultante se pagarán los derechos conforme a la siguiente:
 
@@ -8249,7 +8249,7 @@ A 27.04
 
 B 18.85
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 III. Lotificación para condominio cuando no son objeto del impuesto sobre conjuntos urbanos:
 
@@ -8325,7 +8325,7 @@ IV. Tratándose de regularización de la tenencia de la tierra, mediante program
 
 Para los efectos de esta Sección, se atenderá a la clasificación de municipios contenida en el artículo 119 de este Código.
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
 #### SECCION PRIMERA. DE LOS ELEMENTOS DE LAS TABLAS DE VALOR
 
@@ -8337,7 +8337,7 @@ Por la prestación de los siguientes servicios se pagarán:
 
 TARIFA
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
 CONCEPTO Número de Salarios Mínimos
 
@@ -8473,9 +8473,9 @@ excedente, por día. 1.0
 
 #### SECCION SEGUNDA. DEL PROCEDIMIENTO PARA LA INTEGRACION Y ACTUALIZACION DE LAS TABLAS DE VALOR
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 150.
 
@@ -8583,11 +8583,11 @@ por día. 0.4
 
 Por el registro anual de instrumentos para la identificación de señales de sangre, tatuajes y elementos electromagnéticos y fierros para marcar ganado y magueyes, para acreditar su propiedad, se pagará por concepto de derechos una cuota de 1.5 días de salario mínimo general del área geográfica que corresponda.
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
 #### SECCION PRIMERA. DE LAS DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 154.
 
@@ -8653,7 +8653,7 @@ A). Adultos. 1.00
 
 B). Niños. 0.50
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 II. Por refrendo anual, posterior
 
@@ -8721,7 +8721,7 @@ IX. Inhumación de restos
 
 cremados 1.00
 
-> <small>(DEROGADO SEGUNDO PARRAFO, G.G. 6 DE DICIEMBRE DE 2002)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
 > <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -8795,7 +8795,7 @@ B). Niño 5.00
 
 El Ayuntamiento mediante acuerdo de cabildo determinará a favor de pensionados, jubilados, personas con discapacidades, adultos mayores y viudas sin ingresos fijos; que acrediten fehacientemente encontrarse en estos supuestos, y comprueben un bajo nivel de ingresos económicos, el otorgamiento de bonificaciones de hasta el 50%, en el pago de los derechos a que se refiere este artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 156.
 
@@ -8819,7 +8819,7 @@ Generales Diarios Vigentes del
 
 corresponda.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA SU TARIFA, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -8851,9 +8851,9 @@ En el caso de las fracciones II y III, el pago se realizará durante los diez pr
 
 Para proceder al cobro de este derecho la autoridad municipal deberá emitir las disposiciones administrativas que delimiten el uso de los cajones de estacionamiento por los que se hayan realizado los pagos de derechos en términos de la fracción II de este artículo, así como propiciar la correcta señalización y uso de la vía pública, de conformidad con el reglamento que para tal fin emita la propia autoridad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 158.
 
@@ -8867,7 +8867,7 @@ II. Cuando el servicio se preste de manera eventual se pagarán 0.30 días de sa
 
 El permisionario podrá establecer una cuota fija por tiempo libre o cobrar el servicio por hora y por fracción en la parte proporcional que corresponda a cada quince minutos que transcurran después de la primera hora.
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 #### SECCION CUARTA. DE LA FORMA DE PAGO
 
@@ -8991,7 +8991,7 @@ con venta de bebidas alcohólicas
 
 al copeo. 200.00 150.00
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -9261,7 +9261,7 @@ Por los servicios prestados por las autoridades municipales de catastro, se paga
 
 TARIFA
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
 CONCEPTO Número de Salarios Mínimos Diarios
 
@@ -9293,7 +9293,7 @@ IV. Constancia de identificación
 
 catastral. 2.00
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 V. Por el levantamiento topográfico catastral, se pagarán derechos conforme a la siguiente:
 
@@ -9367,9 +9367,9 @@ El importe de los derechos a pagar, será el resultado de sumar a la cuota fija 
 
 ### CAPITULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 167.
 
@@ -9379,15 +9379,15 @@ Las disposiciones de este título tienen por objeto normar la actividad catastra
 
 En lo concerniente a la integración, conservación y actualización de la información e investigación catastral, se estará a lo dispuesto en el LIGECEM, este Título, su reglamento, el Manual Catastral y demás disposiciones aplicables en la materia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 168.
 
 Catastro es el sistema de información territorial, cuyo propósito es integrar, conservar y mantener actualizado el padrón catastral que contiene los datos técnicos y administrativos de un inventario analítico de los inmuebles ubicados en el Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -9395,7 +9395,7 @@ El padrón catastral es el inventario analítico de los inmuebles, conformado po
 
 > <small>(REFORMADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
-La actividad catastral es el conjunto de acciones que permiten integrar, conservar y mantener actualizado el inventario analítico con las características cualitativas y cuantitativas de los inmuebles inscritos en el padrón catastral del Estado, realizadas con apego a el LIGECEM, este Título, su reglamento, el Manual Catastral y demás disposiciones aplicables en la materia.
+La actividad catastral es el conjunto de acciones que permiten integrar, conservar y mantener actualizado el inventario analítico con las características cualitativas y cuantitativas de los inmuebles inscritos en el padrón catastral del Estado, realizadas con apego al LIGECEM, este Título, su reglamento, el Manual Catastral y demás disposiciones aplicables en la materia.
 
 ### CAPITULO SEGUNDO. DE LAS AUTORIDADES CATASTRALES
 
@@ -9413,7 +9413,7 @@ II. El Secretario de Finanzas;
 
 III. El Director General del Instituto de Información e Investigación Geográfica, Estadística y Catastral del Estado de México;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -9423,7 +9423,7 @@ IV. El ayuntamiento y el servidor público que éste designe como titular del á
 
 Las facultades y obligaciones que en materia catastral corresponden a estas autoridades, son aquellas que se encuentran conferidas en los términos de el LIGECEM, este Título, su reglamento, el Manual Catastral y demás disposiciones aplicables en la materia.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 6 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 170.
 
@@ -9433,7 +9433,7 @@ Además de las atribuciones que otros ordenamientos le confieren en materia de i
 
 I. Establecer los procedimientos técnicos y administrativos en materia catastral y verificar su cumplimiento, en términos de el LIGECEM, este Título, su reglamento, el Manual Catastral y demás disposiciones aplicables en la materia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -9447,19 +9447,19 @@ III. Integrar, conservar y mantener actualizado el padrón catastral del Estado.
 
 IV. Practicar estudios de valores unitarios comerciales de suelo en el territorio del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 V. Practicar avalúos catastrales y comerciales de inmuebles, levantamientos topográficos y verificar los avalúos catastrales practicados por los especialistas en valuación inmobiliaria registrados en el IGECEM.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 VI. Integrar la información geográfica y catastral del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -9473,13 +9473,13 @@ VIII. Diagnosticar que la actividad catastral a cargo de los ayuntamientos se re
 
 IX. Asumir mediante convenio algunas de las funciones catastrales conferidas en este título al ayuntamiento, cuando se considere procedente y medie solicitud.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 X. Establecer conjuntamente con las autoridades catastrales municipales los lineamientos de coordinación y participación catastral conforme a lo establecido en el Reglamento correspondiente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -9505,7 +9505,7 @@ XIV. Practicar el avalúo de los inmuebles vacantes que sean adjudicados al Gobi
 
 XV. Integrar una base de datos con la información recabada a través de investigaciones de valores unitarios comerciales de suelo, realizadas en el territorio del Estado, estableciendo las medidas necesarias para su vinculación cartográfica.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(ADICIONADA, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -9545,7 +9545,7 @@ VII. Practicar levantamientos topográficos catastrales y verificación de linde
 
 VIII. Proporcionar la información que soliciten por escrito otras dependencias oficiales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -9555,7 +9555,7 @@ IX. Solicitar la opinión técnica al IGECEM sobre la modificación y actualizac
 
 X. Difundir dentro de su territorio las Tablas de Valores Unitarios de Suelo y Construcción aprobadas por la Legislatura.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -9577,7 +9577,7 @@ XIV. Proponer al IGECEM la realización de estudios tendientes a lograr la actua
 
 XV. Proponer a la Legislatura para su aprobación el proyecto de Tablas de Valores Unitarios de Suelo y Construcciones.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -9593,13 +9593,13 @@ XVIII. Expedir las constancias o certificaciones catastrales en el ámbito de su
 
 XIX. Verificar y registrar oportunamente los cambios que se operen en los inmuebles, que por cualquier concepto alteren los datos contenidos en el Padrón Catastral Municipal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 XX. (DEROGADA, G.G. 21 DE DICIEMBRE DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 172.
 
@@ -9609,7 +9609,7 @@ Cuando el IGECEM o la autoridad catastral municipal practiquen trabajos de levan
 
 Los hechos y circunstancias del levantamiento topográfico catastral y observaciones de los interesados, se harán constar en acta, que será firmada por todos los que intervengan y quieran hacerlo, a quienes previa solicitud se les entregará copia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -9619,13 +9619,13 @@ Los datos obtenidos como resultado de los trabajos catastrales enunciados en est
 
 Cuando los colindantes hubiesen sido notificados en términos del Código de Procedimientos Administrativos del Estado de México y alguno de ellos o todos no se presentaren, el levantamiento topográfico catastral correspondiente se llevará al cabo con la presencia del solicitante, debiendo firmar el acta dos testigos de asistencia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 Los levantamientos topográficos catastrales se practicarán de acuerdo a los términos y formas previstos por el reglamento de este Título, el Manual Catastral y demás disposiciones aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -9639,11 +9639,11 @@ El IGECEM y la autoridad catastral municipal, a costa del interesado, previa sol
 
 El IGECEM emitirá la normatividad para la elaboración de la representación gráfica, que permita la localización geográfica e identificación de los inmuebles.
 
-> <small>(DEROGADO PENULTIMO PARRAFO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(DEROGADO PENÚLTIMO PÁRRAFO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 Los límites municipales y estatales, representados en los registros gráficos del IGECEM, son de carácter administrativo, por lo tanto no generan derechos para el o los territorios de que se trate.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -9651,7 +9651,7 @@ Los límites municipales y estatales, representados en los registros gráficos d
 
 La autoridad catastral municipal, enviará al IGECEM la información actualizada de los registros gráfico y alfanumérico, dentro de los primeros diez días posteriores al mes de que se informe, a efecto de revisar y validar la información para integrar y actualizar el padrón catastral del Estado.
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ### CAPITULO TERCERO. DE LA INSCRIPCION DE INMUEBLES
 
@@ -9687,7 +9687,7 @@ La autoridad catastral municipal está facultada para constatar la veracidad de 
 
 Cuando no fuese presentada la manifestación, y hayan sido detectadas modificaciones en los inmuebles, la autoridad catastral municipal podrá requerir a los propietarios o poseedores que proporcionen los datos, documentos e informes de los inmuebles; y realizar levantamientos topográficos, investigaciones en campo y demás actividades catastrales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -9701,7 +9701,7 @@ Cuando de las manifestaciones y del resultado de los estudios técnicos que real
 
 En términos de este capítulo, en lo sucesivo, salvo mención expresa, se entenderá por:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -9723,13 +9723,13 @@ IV. Manzana catastral. La delimitación del terreno por vialidades y límites f�
 
 V. Predio.- El inmueble urbano o rústico con o sin construcciones, integrante de una manzana catastral, cuyos linderos forman un polígono cerrado; está representado por los dígitos noveno y décimo de la clave catastral.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 VI. Edificio. El total de unidades privativas que integran un módulo en un conjunto urbano de régimen de propiedad condominal, en sus modalidades horizontal, vertical o mixto destinadas a la vivienda, comercio, servicio e industria y se representa por los dígitos décimo primero y duodécimo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -9741,7 +9741,7 @@ VII. Departamento. La unidad privativa de un módulo en un conjunto urbano de r�
 
 El padrón catastral se integra por un registro alfanumérico y un registro gráfico y deberán contener los datos, catálogos y especificaciones establecidos en el reglamento de este Título, el Manual Catastral y demás disposiciones aplicables a la materia.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 181.
 
@@ -9759,7 +9759,7 @@ II. Los notarios públicos.
 
 III. La autoridad catastral municipal, de oficio, cuando un inmueble no esté inscrito o presente modificaciones no manifestadas.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 182.
 
@@ -9783,7 +9783,7 @@ V. Acta de entrega, cuando se trate de inmuebles de interés social.
 
 VI. Cédula de contratación que emita la dependencia oficial autorizada para la regulación de la tenencia de la tierra.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -9793,7 +9793,7 @@ VII. Título, certificado o cesión de derechos agrarios, parcelarios o comunes;
 
 VIII. Inmatriculación Administrativa o Judicial.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -9807,17 +9807,17 @@ La inscripción de un inmueble en el padrón catastral municipal, no genera por 
 
 Cuando no se inscriba un inmueble, no se manifieste su valor o las modificaciones de terreno o construcción, en los términos establecidos en este Capítulo, el Ayuntamiento, sin perjuicio de la responsabilidad que le resulte al propietario o poseedor del inmueble, conforme a el LIGECEM, este Título, su reglamento, el Manual Catastral y demás disposiciones aplicables de la materia, le hará llegar la notificación correspondiente, para que dentro del término de quince días corrija la omisión o en su defecto, con los elementos de que disponga, haga la actualización, inscripción en el padrón y la determinación del valor catastral.
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ### CAPITULO CUARTO. DE LAS TABLAS DE VALOR
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 185.
 
 El sistema de valuación catastral de inmuebles tiene como base las características predominantes en la circunscripción territorial denominada área homogénea y tomará como referencia los valores de mercado del suelo y de la construcción.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -9837,7 +9837,7 @@ El área homogénea es la delimitación constituida por un conjunto de manzanas 
 
 La delimitación técnica de las áreas homogéneas se hará en polígonos cerrados de forma y tamaño variables integrando manzanas completas; su perímetro deberá estar definido por límites físicos como son vialidades y accidentes topográficos, que determinen las características predominantes indicadas en el artículo anterior y permitan establecer con claridad las demarcaciones de unas y otras.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -9851,15 +9851,15 @@ Las bandas de valor son tramos de vialidad identificados dentro de una área hom
 
 El área base, es la superficie promedio preponderante, de los predios que integran a cada área homogénea, que determina las dimensiones del frente y fondo base, constituyen la referencia de comparación para la determinación y aplicación de los factores correspondientes, en la valuación de un inmueble.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 191.
 
 Las bandas de valor se delimitarán por frentes completos de manzanas, en uno o ambos lados de la vialidad, por lo que sus extremos deben coincidir necesariamente, con cruceros de vialidades o límites físicos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -9875,9 +9875,9 @@ Para efectos de integración del código de identificación de las bandas de val
 
 Los valores unitarios de suelo y de construcciones se determinarán por la unidad de medida que establecen las Tablas de Valores Unitarios de Suelo y Construcciones aprobadas por la Legislatura y que forman parte de este Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 193.
 
@@ -9887,7 +9887,7 @@ I. Tratándose de suelo, en la codificación que servirá para identificar a los
 
 El uso de suelo puede ser: Habitacional (H), Comercial (C), Industrial (I), Equipamiento (E), Agrícola (A), Agostadero (B), Forestal (F), Eriazo (G) y Especial (L).
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -9951,15 +9951,15 @@ L2 Especial Cuerpos de agua 2
 
 L3 Especial Reservas naturales 3
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 Las definiciones de los usos de suelo y las características que permitan identificar las diferencias cualitativas y cuantitativas que corresponden a cada una de las áreas homogéneas antes indicadas, deberán establecerse en el Reglamento de este Título.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 II. Tratándose de construcciones, en la codificación que servirá para identificar a las diferentes tipologías de construcciones, se deberán considerar los criterios de uso, clase y categoría, siguientes:
 
@@ -9969,9 +9969,9 @@ Cada uso se clasifica en clases de acuerdo con el proyecto de la construcción y
 
 Asimismo, cada clase se clasifica en categorías atendiendo a la existencia y calidad de los acabados básicamente en muros, pisos, techos y baños.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 Con base en lo descrito en los tres párrafos anteriores, el código de las tipologías de construcciones se integra por tres caracteres, el primero es alfabético e identifica el uso; el segundo es alfabético para referir la clase; y el tercero es numérico y corresponde a la categoría, de conformidad con la siguiente clasificación:
 
@@ -10263,7 +10263,7 @@ EM1 Especiales Cancha Césped Baja
 
 EN1 Especiales Gradas Concreto Media
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -10295,31 +10295,31 @@ Las Tablas de Valores Unitarios de Suelo y Construcciones, se modificarán, y ac
 
 I. La autoridad catastral municipal en coordinación con el IGECEM, de acuerdo a la normatividad establecida en el Reglamento de este Título y en el Manual Catastral, elaborará las propuestas para la modificación y actualización de áreas homogéneas, bandas de valor, manzanas, códigos de clave de calle, nomenclatura y valores unitarios de suelo y construcciones, de la totalidad del territorio municipal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 Para mantener la homogeneidad y la congruencia técnica de la información, la autoridad catastral municipal presentará al IGECEM las propuestas acompañadas de los soportes técnicos que sustenten las actualizaciones, durante el período comprendido entre el uno de enero y el treinta de junio de cada año.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 Los soportes técnicos a que se hace mención en el párrafo anterior, se conforman por la documentación que contiene los estudios con los que se acredita que los valores unitarios de suelo y construcciones propuestos, son equiparables a los valores de mercado, así como los gráficos correspondientes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 Para efectos de este Título, se entenderá por valor de mercado a la expresión en términos monetarios por unidad de medida, resultado de una investigación de precios de inmuebles comparables dentro del área homogénea o banda de valor en estudio, obtenidos en un período de tiempo razonable y en un mercado inmobiliario abierto donde imperen condiciones libres de toda coacción entre la oferta y la demanda, información que permite, mediante un proceso de análisis estadístico, obtener un valor promedio aplicable en el área homogénea o banda de valor de que se trate.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 II. Las propuestas y los soportes técnicos a que se refiere la fracción anterior, serán revisadas técnicamente por el IGECEM durante los meses de julio y agosto de cada año, a efecto de que cumplan con lo dispuesto en este Título, su Reglamento y en el Manual Catastral, que hayan sido elaboradas de acuerdo con los instructivos y formatos autorizados. El IGECEM enviará la opinión técnica correspondiente durante los primeros siete días de septiembre a la autoridad catastral municipal para la integración del proyecto municipal de Tablas de Valores Unitarios de Suelo y Construcciones.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -10331,7 +10331,7 @@ En los años de renovación del Ayuntamiento, las autoridades municipales que in
 
 III. A la recepción de las iniciativas municipales de Tablas de Valores Unitarios de Suelo y Construcciones, la Legislatura verificará que los soportes documentales coincidan con aquellos revisados técnicamente por el IGECEM y en su caso, las aprobará durante los primeros quince días del mes de noviembre.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -10341,15 +10341,15 @@ Tratándose de los ayuntamientos que no presenten ante la Legislatura su iniciat
 
 Los valores unitarios aprobados iniciarán si (sic) vigencia a partir del primer día del mes de enero del siguiente año.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 IV. El Ayuntamiento remitirá al IGECEM copia certificada del acuerdo contenido en el acta de cabildo de la sesión a que alude el segundo párrafo de la fracción II de este artículo, a más tardar el día quince de octubre.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 196.
 
@@ -10375,7 +10375,7 @@ IV. Cuando no haya operaciones inmobiliarias o sean escasas en el área homogén
 
 V. Con base en los estudios anteriores se determinará la consistencia, subdivisión o fusión del área homogénea y la existencia de una, varias o ninguna banda de valor.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -10405,7 +10405,7 @@ Independientemente del método que se adopte para determinar el Valor Unitario d
 
 Los propietarios o poseedores de bienes inmuebles para efectos de la valuación catastral, se sujetarán a lo dispuesto por este Título, su reglamento y en el Manual Catastral, a los criterios de clasificación de áreas homogéneas y tipologías de construcción; y a las Tablas de Valores Unitarios de Suelo y Construcciones aprobadas por la Legislatura y publicadas en el Periódico Oficial.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 198.
 
@@ -10421,9 +10421,9 @@ Vt = Valor del Terreno
 
 Vc= Valor de la Construcción
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 198 Bis.
 
@@ -10431,9 +10431,9 @@ Cuando en el transcurso de un ejercicio fiscal se requiera la creación de nueva
 
 Lo establecido en el párrafo anterior se aplicará hasta en tanto sean aprobadas y publicadas las Tablas de Valores Unitarios de Suelo y Construcciones para el siguiente ejercicio fiscal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 199.
 
@@ -10443,7 +10443,7 @@ El valor del terreno de un inmueble se obtiene de multiplicar la superficie de t
 
 En todos los casos de condominios, para cada unidad, el valor del terreno se obtendrá tomando en cuenta la superficie privativa más la parte proporcional indivisa del área común.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 200.
 
@@ -10461,7 +10461,7 @@ El IGECEM registrará y autorizará a los especialistas en valuación inmobiliar
 
 ## TITULO SEXTO. DE LAS APORTACIONES DE MEJORAS
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 6 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
 ### CAPITULO PRIMERO. DE LAS APORTACIONES PARA OBRA PUBLICA Y ACCIONES DE BENEFICIO SOCIAL
 
@@ -10601,13 +10601,13 @@ III. Promover el pago de las aportaciones.
 
 IV. Participar en la licitación, concurso y adjudicación cuando la obra o acción se encomiende a un tercero mediante contrato.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 V. Supervisar que la obra o acción se realice de acuerdo con las especificaciones del proyecto aprobado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -10639,7 +10639,7 @@ Cuando la obra o la acción no se esté realizando conforme a las especificacion
 
 Si de la aplicación de las medidas correctivas recomendadas, resultare un costo adicional, éste no impactará en el pago de las aportaciones individuales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -10667,7 +10667,7 @@ El documento de notificación deberá contener la misma información de la publi
 
 Las aportaciones notificadas a cargo de los beneficiarios, tendrán el carácter de crédito fiscal, deberán ser enteradas en la oficina recaudadora correspondiente y en caso de incumplimiento serán exigibles a través del procedimiento administrativo de ejecución.
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ### CAPITULO SEGUNDO. DE LAS APORTACIONES ESTATALES PARA OBRAS DE IMPACTO VIAL
 
@@ -10745,11 +10745,11 @@ Para establecer el número de cajones de estacionamiento requeridos por el inmue
 
 Esta tabla solo se establece para efectos de poder determinar la aportación para obras de impacto vial, el número de cajones de estacionamiento requeridos por el inmueble por metro cuadrado o características de uso, sin que surta efectos para ningún otro fin.
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 Cuando no se encuentre comprendido en la tabla anterior por su denominación algún uso de suelo general o específico, se ubicará en aquél que por sus características le sea más semejante.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 216-E.
 
@@ -10919,7 +10919,7 @@ VII. Los inmuebles destinados a actividades agrícolas, ganaderas, silvícola o 
 
 VIII. Los estacionamientos, terminales de autobuses urbanos y foráneos, torres o sitios celulares denominados radiobases.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 216-H.
 
@@ -10929,11 +10929,11 @@ El ingreso que se perciba por este concepto, será destinado para el desarrollo 
 
 El proyecto de obra y su ejecución, se dará de manera coordinada, entre la Secretaría de Comunicaciones y el municipio o municipios afectados, conforme lo dispone el artículo 5.10, fracción XV del Código Administrativo del Estado de México.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 ### CAPITULO TERCERO. DE LAS APORTACIONES POR SERVICIOS AMBIENTALES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -10941,7 +10941,7 @@ El proyecto de obra y su ejecución, se dará de manera coordinada, entre la Sec
 
 Están obligados al pago de Aportaciones de Mejoras por Servicios Ambientales, los organismos públicos descentralizados municipales que presten, entre otros, los servicios de suministro de agua potable; los municipios cuando no cuenten con organismo prestador de dichos servicios, y las personas físicas o jurídico colectivas que presten el servicio de suministro de agua potable.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -10949,13 +10949,13 @@ Están obligados al pago de Aportaciones de Mejoras por Servicios Ambientales, l
 
 Para determinar el monto a pagar por concepto de aportación de mejoras por servicios ambientales, se aplicará una tarifa del 3.5 por ciento sobre el monto de los ingresos efectivamente recaudados por concepto del suministro de agua potable, sin incluir conceptos diversos a dicho suministro.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 Las aportaciones de mejoras, deberán pagarse mediante declaración en la forma oficial aprobada, de manera bimestral, dentro de los diecisiete días siguientes al vencimiento del bimestre que corresponda, a través de depósito al fideicomiso constituido al efecto o a través de los medios autorizados por la Secretaría, debiendo transferirse dichos recursos al fideicomiso en un plazo máximo de 5 días hábiles contados a partir de su recaudación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -10999,7 +10999,7 @@ III. Entregar a la Legislatura la información que esta requiera respecto de los
 
 IV. Vigilar el comportamiento de estas aportaciones de mejoras, su impacto y repercusiones.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -11021,7 +11021,7 @@ El incentivo previsto en el artículo 216-L, consistirá en un pago anual por ca
 
 Ñ.- En el caso de propietarios o poseedores de predios que se registren ante el fideicomiso, y se demuestre que fueron superficies boscosas y que actualmente no se encuentren cultivados o estén destinados a cultivos de temporal de muy bajo rendimiento, el incentivo del primer año consistirá en la entrega de plantas para reforestar el predio correspondiente y en los años subsecuentes podrán hacerse acreedores al incentivo referido en el artículo anterior.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -11181,7 +11181,7 @@ Las participaciones a favor de los municipios a que se refiere el inciso C) frac
 
 En caso de no contar con la información a que se refiere el artículo 221 del presente Código, la Secretaría practicará la estimación que considere conveniente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -11199,7 +11199,7 @@ Las participaciones federales e incentivos federales derivados de convenios, as�
 
 La Secretaría, una vez identificada la asignación mensual que le corresponda a la Entidad de los mencionados fondos, determinará la participación mensual que le corresponda a cada municipio.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -11213,11 +11213,11 @@ I. El 70%, en proporción directa al número de habitantes que tenga cada munici
 
 II. El 30% restante se distribuirá en partes iguales entre los municipios del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(DEROGADO ULTIMO PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 225.
 
@@ -11241,7 +11241,7 @@ La compensación entre el derecho del municipio a recibir participaciones y las 
 
 El Estado deberá realizar pagos por cuenta del municipio con cargo a sus participaciones derivadas de gravámenes federales y estatales, cuando este último así lo solicite o convenga, o bien, cuando dichas participaciones hayan sido afectadas en garantía, en los términos de este Código en materia de deuda pública.
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO CUARTO. DEL INSTITUTO HACENDARIO
 
@@ -11331,7 +11331,7 @@ Salvo lo dispuesto en el párrafo precedente, la solicitud de retención y pago 
 
 La Secretaría deberá efectuar los depósitos correspondientes a las retenciones y pagos a que se refiere el artículo 230 B del Código, dentro de los 5 días siguientes a la realización de la afectación correspondiente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -11407,7 +11407,7 @@ Las obras o acciones que se lleven a cabo con los recursos a que se refiere el p
 
 La Secretaría con base en los lineamientos establecidos por la Ley de Coordinación Fiscal, calculará y hará la entrega de las aportaciones federales correspondientes a los municipios, debiendo publicarlas en el Periódico Oficial a más tardar el treinta y uno de enero del ejercicio fiscal aplicable, así como la fórmula y su respectiva metodología, justificando cada elemento y comunicado a cada uno de los ayuntamientos el monto calendarizado mensual y los procedimientos para su entrega.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -11431,7 +11431,7 @@ El monto de la inversión asignada y ejercida con los fondos federales, convenio
 
 El Gobierno Estatal y el de los municipios, en el ámbito de sus respectivas competencias, serán responsables de la correcta orientación, destino y aplicación de los apoyos federales que se otorguen.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -11465,7 +11465,7 @@ La Legislatura deberá celebrar convenios con el objeto de coordinar acciones pa
 
 Las responsabilidades administrativas, civiles y penales en que incurran las autoridades estatales o municipales por el manejo o aplicación indebido de los recursos recibidos de los fondos federales, convenios de descentralización y programas de apoyo federales señalados en este capítulo, para fines distintos a los previstos por la Ley de Coordinación Fiscal, serán sancionados en los términos de la legislación federal y estatal aplicable.
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 ### CAPITULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
@@ -11517,7 +11517,7 @@ III. El Comisario, será quién designe la Secretaría de la Contraloría.
 
 IV. Los vocales, que serán seis diputados de la Legislatura, el Titular del Organo Superior de Fiscalización y los presidentes municipales del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 249.
 
@@ -11615,7 +11615,7 @@ VII. Promover los convenios entre los municipios y el Estado para que éste se h
 
 VIII. Recomendar las regiones en que se agrupen los municipios del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -11669,7 +11669,7 @@ XIII. Llevar un sistema de estadística hacendaria.
 
 XIV. Solicitar a los municipios la información hacendaria que considere necesaria para cumplir con las funciones encomendadas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -11731,7 +11731,7 @@ Para la atención y resolución de problemas específicos, el Consejo Directivo 
 
 En estas comisiones se podrá invitar a participar a instituciones académicas, de investigación y agrupaciones del sector social y privado relacionadas con la materia hacendaria.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 255.
 
@@ -11759,7 +11759,7 @@ IV. Las empresas de participación estatal o municipal mayoritaria.
 
 V. Los fideicomisos en que el fideicomitente sea alguna de las entidades públicas señaladas en las fracciones anteriores.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE JUNIO DE 2004)</small>
 
 ###### Artículo 257.
 
@@ -11831,9 +11831,9 @@ En los términos del artículo 117 fracción VIII de la Constitución Política 
 
 Estas obligaciones podrán incrementar el saldo de la deuda pública, cuando los costos del financiamiento se incrementen por efecto de la inflación o cuando por circunstancias especiales el costo financiero sea mayor a lo presupuestado, debiendo informar de esta circunstancia a la Legislatura.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(ADICIONADO, G.G. 10 DE DICIEMBREDE 2009)</small>
+> <small>(ADICIONADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
 Se entiende por Deuda Pública la que contraiga el Gobierno del Estado como responsable directo y como avalista o deudor solidario de sus organismos descentralizados, empresas de participación mayoritaria y sus respectivos fideicomisos públicos o municipios, siempre que no estén dentro de las prohibiciones previstas por la fracción VIII del artículo 117 de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -11869,7 +11869,7 @@ IV. Los montos de endeudamiento adicionales a los previstos en la Ley de Ingreso
 
 V. La contratación de financiamiento y la reestructuración de créditos de los ayuntamientos cuando el plazo de amortización exceda el período constitucional para el que fue electo el Ayuntamiento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, G.G. 10 DE DICIEMBRE 2009)</small>
 
@@ -11941,7 +11941,7 @@ I. Celebrar contratos, convenios y demás instrumentos legales relacionados dire
 
 II. Reestructurar los créditos adquiridos como deudor directo o responsable solidario.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -11951,7 +11951,7 @@ III. Constituir por si o con el apoyo del Ejecutivo Estatal, las garantías y fu
 
 IV. Afectar como fuente o garantía de pago o ambas, de las obligaciones que contraigan los municipios, incluyendo la emisión de valores representativos de un pasivo a su cargo para su colocación en el Mercado de Valores, sus ingresos derivados de contribuciones, productos, aprovechamientos y accesorios, así como las participaciones derivadas del Sistema Nacional de Coordinación Fiscal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -12031,7 +12031,7 @@ X. Todo lo no previsto en este artículo, será resuelto por el Gobernador a tra
 
 El resultado de lo anterior se hará del conocimiento de la Legislatura.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 12 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 12 DE MAYO DE 2010)</small>
 
 Artículo 265 B Bis.- No se considerarán deuda pública las obligaciones de pasivo directas, indirectas o contingentes, derivadas de créditos, préstamos, empréstitos o financiamientos de cualquier naturaleza, incluyendo la emisión de valores, a cargo de los fideicomisos en que el fideicomitente sea un organismo público descentralizado, siempre y cuando (i) lo prevea expresamente la ley de creación del organismo público descentralizado; (ii) el fideicomitente no tenga obligación alguna, directa o contingente, de pago de los mencionados créditos, empréstitos, préstamos o financiamientos; y (iii) la fuente de pago del crédito, empréstito, préstamo o financiamiento se derive de la recaudación de derechos por la prestación de servicios de dicho organismo público descentralizado y no de cualquier otra contribución. Asimismo, no constituirá un financiamiento ni deuda pública, los recursos que, en su caso, reciban los organismos públicos descentralizados por cualquier concepto de parte de los fideicomisos mencionados. En adición a lo anterior, los organismos públicos descentralizados podrán otorgar garantías, en los términos que al efecto apruebe la Secretaría de Finanzas, en relación a las obligaciones asumidas por los fideicomisos que constituyan cuando así lo establezca la ley de su creación y previa autorización de la Legislatura, en cuyo caso las obligaciones de pasivo directas, indirectas o contingentes antes mencionadas serán deuda pública conforme a los términos del presente Título Octavo. Los fideicomisos a que se refiere este párrafo deberán tener como propósito principal contratar financiamientos, servir como medio de pago, medio alterno de pago, garantía y/o como emisores de valores.
 
@@ -12113,7 +12113,7 @@ De igual manera, la Legislatura deberá autorizar anualmente en la Ley de Ingres
 
 Las dependencias y entidades públicas del Gobierno del Estado no podrán celebrar contratos o convenios para la obtención de financiamientos en los que se afecten como fuente o garantía de pago los recursos del Gobierno del Estado sin autorización previa de la Secretaría.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 267.
 
@@ -12137,7 +12137,7 @@ III. (DEROGADA, G.G. 6 DE DICIEMBRE DE 2002)
 
 IV. No se afecten en garantía o como fuente de pago los ingresos provenientes de las participaciones derivadas de la Coordinación Fiscal.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE JUNIO DE 2004)</small>
 
 ###### Artículo 269.
 
@@ -12155,7 +12155,7 @@ IV. Que el solicitante acredite que cuenta con elementos económicos suficientes
 
 V. Que las entidades públicas estén al corriente en la información que deben proporcionar al Registro de Deuda Pública, en los casos no previstos se requerirá la autorización de la Legislatura.
 
-> <small>(DEROGADA ULTIMO PARRAFO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 > <small>(REFORMADO, G.G. 4 DE JUNIO DE 2004)</small>
 
@@ -12195,7 +12195,7 @@ Cuando los municipios, los organismos descentralizados, las empresas de particip
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 273.
 
@@ -12327,13 +12327,13 @@ Cuando un crédito esté totalmente amortizado se deberá dar de baja en el Regi
 
 ## TITULO NOVENO. DEL PRESUPUESTO DE EGRESOS
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO SEGUNDO. DE LA INTEGRACION Y PRESENTACION DEL PRESUPUESTO DE EGRESOS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 285.
 
@@ -12367,7 +12367,7 @@ Las remuneraciones estarán sujetas a las modificaciones que, en su caso, sean c
 
 Los poderes Legislativo y Judicial; así como los organismos autónomos y Municipios se sujetarán a la disposiciones de este Título en lo que no se contraponga a los ordenamientos legales que los rigen.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -12407,7 +12407,7 @@ Las dependencias, entidades públicas, organismos autónomos y municipios que re
 
 La Secretaría realizará las acciones tendientes a procurar que las asignaciones presupuestales multianuales que se propongan en el proyecto de presupuesto de egresos correspondientes a programas en materia de obra pública, respeten las políticas de austeridad y no sean menores a las del ejercicio fiscal anterior.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -12417,7 +12417,7 @@ Los servidores públicos, recibirán una remuneración adecuada e irrenunciable 
 
 Para determinar las remuneraciones de los servidores públicos municipales, los ayuntamientos considerarán entre otros, los factores siguientes: población, recursos económicos disponibles, costo promedio de vida en el municipio y en la entidad, índice inflacionario, grado de marginalidad municipal, productividad en la prestación de servicios públicos, responsabilidad de la función y eficiencia en la recaudación de ingresos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -12433,7 +12433,7 @@ La Legislatura al aprobar el Presupuesto de Egresos no podrá dejar de señalar 
 
 La Legislatura verificara que en el Presupuesto de Egresos, de que se trate, se asignen los montos requeridos para programas y proyectos comprendidos bajo la modalidad de presupuestos multianuales que se hubieran aprobado en ejercicios fiscales anteriores.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO TERCERO. DE LA EJECUCION DEL PRESUPUESTO DE EGRESOS
 
@@ -12473,25 +12473,25 @@ b). 2000 Materiales y Suministros;
 
 c). 3000 Servicios Generales;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 d). 4000 Transferencias, Asignaciones, Subsidios y otras ayudas;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 e). 5000 Bienes Muebles, Inmuebles e Intangibles;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 f). 6000 Inversión Pública;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -12501,7 +12501,7 @@ g). 7000 Inversiones Financieras y otras provisiones.
 
 II. El gasto no programable comprende los siguientes capítulos:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -12529,7 +12529,7 @@ Los capítulos de gasto se dividirán en concepto, partida genérica y partida e
 
 En el caso de los municipios, corresponderá a su Tesorería emitir el Clasificador por Objeto del Gasto, el cual deberá guardar congruencia y homogeneidad con el que determine la Secretaría en términos del párrafo anterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 294.
 
@@ -12541,7 +12541,7 @@ Antes del último día hábil de mayo, la Secretaría dará a conocer a las depe
 
 En el caso de los municipios, corresponderá a la Tesorería en coordinación con la Unidad de Información, Planeación, Programación y Evaluación, la Unidad Administrativa o servidores públicos responsables de realizar estas funciones, dar a conocer las disposiciones que se aprueben en materia de planeación, programación, presupuestación, evaluación y contabilidad gubernamental, así como los documentos a que refiere el presente artículo, aprobados en el marco del Sistema de Coordinación Hacendaria del Estado de México, con la participación de la Secretaría, las tesorerías y el Órgano Superior de Fiscalización del Estado de México.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 295.
 
@@ -12575,7 +12575,7 @@ Cuando la Legislatura del Estado apruebe una asignación presupuestal para el cu
 
 Tratándose de obra pública cuando existan obras o acciones cuya ejecución abarque varios ejercicios presupuestales, las dependencias, entidades públicas y unidades administrativas ejecutoras deberán presentar a la Secretaría o la Tesorería en el ámbito de sus respectivas competencias, el programa de ejecución de la obra en el que se establezca claramente el plazo para su ejecución, dicho documento deberá formar parte del expediente técnico.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 298.
 
@@ -12593,17 +12593,13 @@ Las unidades administrativas de los Municipios enviarán su anteproyecto de pres
 
 Los poderes Legislativo, Judicial y los Organismos Autónomos, formularán sus respectivos anteproyectos de presupuesto, y los presentarán al Ejecutivo el último día hábil anterior al día quince del mes de agosto, para su incorporación al proyecto del Presupuesto de Egresos, considerando las previsiones de ingresos y gasto público.
 
-> <small>(ADICIONADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.G. 15 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 299 Bis.
 
-El Proyecto de Presupuesto Operativo Básico del Poder Judicial que se apruebe para cualquier ejercicio fiscal, no podrá ser menor al porcentaje que represente de los ingresos ordinarios del Estado, el correspondiente al año inmediato anterior.
+El Presupuesto de Egresos del Poder Judicial que se apruebe para el ejercicio fiscal anual, no podrá ser menor al porcentaje que represente de los ingresos ordinarios del Estado, correspondiente al año inmediato anterior.
 
-Se entenderá como presupuesto operativo básico, aquel que cubre las asignaciones de recursos para la operación de los programas fundamentales e inherentes a la operación de la institución, debidamente considerados en su programa operativo anual; comprende el rubro de servicios personales y el gasto operativo, sin incluir los recursos que de manera coyuntural se destinen a gasto de inversión, excepto para concluir obras que estén en proceso y que rebasen un ejercicio fiscal, es decir, que no tienen el carácter de irreductible.
-
-Con base en las necesidades básicas de operación y de inversión de este poder, el porcentaje que de los ingresos ordinarios represente su presupuesto, se incrementará anualmente hasta alcanzar el 2% de dichos ingresos.
-
-Para este efecto, en el cálculo de los ingresos ordinarios del Estado, no se considerarán, las asignaciones extraordinarias derivadas de modificaciones al Sistema Nacional de Coordinación Fiscal.
+En ningún caso, el presupuesto Anual de Egresos que se apruebe para el Poder Judicial del Estado, podrá ser inferior al 2.0% de los ingresos ordinarios del Estado, para el año fiscal de que se trate. De conformidad con las necesidades del servicio, dicho porcentaje se incrementará anualmente.
 
 > <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -12627,7 +12623,7 @@ La Secretaría podrá efectuar las modificaciones que considere necesarias a los
 
 En el caso de los Municipios lo hará la Tesorería, en coordinación con la unidad de información, planeación, programación y evaluación.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 302.
 
@@ -12655,7 +12651,7 @@ II. Estimación de los ingresos por cada una de sus fuentes;
 
 III. Estimaciones de egresos, agrupados de la siguiente forma:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -12671,7 +12667,7 @@ V. Resumen y descripción de la ejecución de los principales programas, identif
 
 En el ámbito Estatal, las estimaciones de egresos a que se refiere este artículo comprenderán por separado los poderes Legislativo y Judicial.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -12679,7 +12675,7 @@ En el ámbito Estatal, las estimaciones de egresos a que se refiere este artícu
 
 El Ejecutivo del Estado por conducto de la Secretaría de Finanzas deberá enviar a la Legislatura o a la Diputación Permanente en los recesos de ésta, a más tardar 30 días hábiles contados a partir de la publicación del Presupuesto de Egresos del Gobierno del Estado de México del ejercicio fiscal correspondiente, la actualización de los anexos del Presupuesto, con excepción de aquellos que refieran recursos federales que incluirán las modificaciones respectivas derivadas de los montos definitivos aprobados en el Decreto correspondiente.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO CUARTO. DEL CONTROL, INFORMACION Y EVALUACION DEL GASTO PUBLICO
 
@@ -12693,7 +12689,7 @@ El presupuesto de egresos se ejercerá de acuerdo con lo que determine el Decret
 
 El egreso podrá efectuarse cuando exista partida específica de gasto en el presupuesto de egresos autorizado y saldo suficiente para cubrirlo y no podrán cubrir acciones o gastos fuera de los programas a los que correspondan por su propia naturaleza.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 306.
 
@@ -12703,7 +12699,7 @@ Una vez que se apruebe el presupuesto de egresos por la Legislatura, el Ejecutiv
 
 En el caso de los municipios la comunicación a que se refiere el presente artículo la realizará la Tesorería, una vez aprobado el presupuesto por el ayuntamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 307.
 
@@ -12727,13 +12723,13 @@ La Secretaría no reconocerá adeudos ni pagos por cantidades reclamadas o eroga
 
 Para efectos de este Capítulo, se entenderá por subsidios, cooperaciones y donativos a las previsiones presupuestales que se proporcionarán como apoyos económicos a los sectores social y privado para la ejecución de programas prioritarios.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 309.
 
 Las dependencias, entidades públicas y unidades administrativas municipales, informarán y remitirán la documentación comprobatoria a la Secretaría o Tesorería según corresponda, dentro de los primeros diez días hábiles posteriores al término del ejercicio, todos los adeudos contraídos al 31 de diciembre del ejercicio inmediato anterior, para ser registrados como pasivos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -12763,7 +12759,7 @@ En el caso a que se refiere esta fracción, las Dependencias y Entidades Públic
 
 Para el caso de los municipios, corresponderá a la Tesorería en coordinación con la Unidad de Información, Planeación, Programación y Evaluación, la Unidad Administrativa o servidores públicos responsables de realizar estas funciones, autorizar y verificar en el ámbito de sus competencias la reasignación de los recursos presupuestarios a otros programas sociales prioritarios mediante el dictamen de reconducción correspondiente, informando en ambos casos, al Ayuntamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 311.
 
@@ -12823,7 +12819,7 @@ Las dependencias y entidades públicas deberán reportar a la Secretaría el pre
 
 Las partidas de gasto en que se registra el ejercicio del Presupuesto de Egresos solo serán afectadas por los importes devengados en el propio ejercicio; en consecuencia, no se podrán hacer cargos por conceptos que debieron registrarse en años anteriores, salvo que lo autorice la Secretaría o la Tesorería en el caso de los Municipios, en tal caso, en la respectiva Cuenta Pública se incluirá un apartado que contenga la descripción precisa de estas operaciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 316.
 
@@ -12835,9 +12831,9 @@ Las garantías que deban constituirse para asegurar los actos y contratos que ce
 
 En el caso de los Municipios, las garantías en todos los casos se constituirán a favor del municipio de que se trate.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 317.
 
@@ -12851,19 +12847,19 @@ Estos traspasos serán realizados de manera directa por las unidades ejecutoras,
 
 En el caso de las entidades públicas dichos traspasos deberán ser autorizados previamente por el órgano de gobierno.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 En el caso de que los traspasos presupuestarios internos rebasen el 25% del total del programa, éstos deberán ser autorizados previamente por la Legislatura.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 Tratándose de traspasos entre proyectos, el límite máximo ascenderá al 25% del valor original del programa de que se trate. En caso de exceder dicho porcentaje, requerirá la autorización previa de la Legislatura.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -12887,25 +12883,25 @@ Para el caso de las entidades públicas, adicionalmente a la solicitud de traspa
 
 Los traspasos presupuestarios autorizados deberán informarse dentro de los primeros diez días del mes siguiente en el que se realicen para ser integrados al informe que el Poder Ejecutivo rinda al Poder Legislativo, el que invariablemente deberá contener montos, los programas, unidades ejecutoras y capítulos afectados por cada uno de los traspasos realizados.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
 El monto total de traspasos presupuestarios externos que autorice la Secretaría no podrá exceder del 5% del presupuesto total autorizado anual, exceptuando de este capítulo los ajustes por incrementos salariales de carácter general, los ajustes derivados de la firma de convenios específicos con otros ámbitos de gobierno y las contingencias derivadas de desastres naturales y siniestros.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 En caso de que se requiera la realización de traspasos presupuestarios externos que rebasen el porcentaje señalado en este artículo, el Ejecutivo deberá solicitar la autorización a la Legislatura o a la Diputación Permanente cuando aquella se encuentra en receso, quien deberá aprobarlo en un plazo no mayor de 15 días.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 La Secretaría deberá informar a la Legislatura de aquellos traspasos externos que realice.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -12953,13 +12949,13 @@ Las solicitudes de ampliación presupuestaria que presenten las dependencias y e
 
 En el caso de los municipios, los Ayuntamientos podrán autorizar la adecuación solicitada, la cual emitirá la Tesorería previa revisión de la Unidad de Información, Planeación, Programación y Evaluación o bien de la Unidad Administrativa o los servidores públicos de los municipios que tengan encomendada esta responsabilidad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
 El Ejecutivo deberá informar a la Legislatura, tanto en los informes trimestrales que señala el artículo 327 E del presente Código como al rendir la cuenta pública, los programas a los que se aprobaron erogaciones adicionales en los términos de este artículo, describiendo con precisión los montos, proyectos, metas, unidades ejecutorias y capítulos afectados por dichos movimientos.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 319.
 
@@ -13007,15 +13003,15 @@ En el caso de aquellas entidades que no se encuentren adscritas a un sector, ser
 
 Los recursos asignados pero no ejercidos que resulten de la reestructuración de dependencias y de la desincorporación de entidades públicas, deberán destinarse preferentemente a cubrir los gastos del proceso de liquidación y el remanente a la amortización de la deuda pública estatal. En el caso de los municipios, la aplicación del remanente lo determinará el ayuntamiento respectivo, procurando preferentemente destinarlo a la amortización de la deuda pública y/o ejecución de programas prioritarios de desarrollo social.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 322 Bis.
 
 Los recursos estatales asignados al sector central, a los órganos autónomos y a las entidades descentralizadas, que no hayan sido ejercidos en los plazos legales correspondientes, así como los que resulten del superávit de las finanzas públicas estatales, serán reintegrados a la hacienda pública estatal, registrándose lo anterior a través de un apartado específico en la Ley de Ingresos del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -13051,7 +13047,7 @@ IV. La medición de que el ejercicio de estos recursos, se sujetará a las dispo
 
 V. El compromiso de los Ayuntamientos cuando menos de:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -13071,13 +13067,13 @@ VI. Contendrán las demás estipulaciones que las partes consideren necesarias p
 
 Los proyectos de inversión deberán guardar congruencia con los planes y programas, así como a sus objetivos, metas, estrategias, prioridades y líneas de acción contenidas en el Plan Estatal de Desarrollo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 La Cartera de Programas y Proyectos de Inversión se integrará con aquellos que cuenten con el análisis de costo-beneficio correspondiente y que estén validados por la Secretaría.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -13257,7 +13253,7 @@ La devolución del pago, se efectuará solamente al titular del mismo, quien deb
 
 Las disposiciones de este Título tienen por objeto regular la contabilidad gubernamental y la cuenta pública del Estado, y la de los Municipios, de conformidad con las disposiciones establecidas en la Ley General de Contabilidad Gubernamental.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -13343,7 +13339,7 @@ El registro contable del efecto patrimonial y presupuestal de las operaciones fi
 
 En el caso de los municipios, el registro a que se refiere el párrafo anterior, se realizará conforme al sistema y a las disposiciones en materia de planeación, programación, presupuestación, evaluación y contabilidad gubernamental, que se aprueben en el marco del Sistema de Coordinación Hacendaria del Estado de México.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 343.
 
@@ -13511,7 +13507,7 @@ La información que los organismos auxiliares y fideicomisos deban proporcionar 
 
 La Secretaría y las tesorerías, clasificarán cuando sea necesario, la información que les proporcionen las dependencias, entidades públicas y unidades administrativas, para efectos de integración y presentación de la cuenta pública.
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 ## TITULO DECIMO SEGUNDO. DE LAS INFRACCIONES, SANCIONES Y DELITOS FISCALES
 
@@ -13565,7 +13561,7 @@ C). En una cantidad igual al 50% del importe de las contribuciones no enteradas,
 
 D) En un 50% del importe de las contribuciones retenidas o recaudadas y no enteradas.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
 > <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -13631,25 +13627,25 @@ XIII. Resistirse por cualquier medio a las visitas de verificación; no proporci
 
 XIV. No conservar los registros contables y documentos que le sean dejados en calidad de depositario, por los visitadores al estarse practicando visitas de verificación; y se aplicará la sanción prevista en la fracción anterior.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 XV. No presentar el dictamen correspondiente sobre la determinación y pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal estando obligado a ello o habiendo optado por dictaminarse; presentar dicho dictamen en forma extemporánea a requerimiento de autoridad fiscal competente, o cuando no obstante su presentación, se haya formulado por Contador Público impedido en términos del artículo 47 E de este Código, lo cual se sancionará con una multa de trescientos y hasta setecientos días de salario mínimo general del área geográfica "A".
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 XVI. No presentar el aviso de dictamen correspondiente o presentarlo extemporáneamente a requerimiento de autoridad fiscal competente, y se sancionará con una multa de setenta y cinco y hasta ciento cincuenta días de salario mínimo general del área geográfica "A".
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 XVII. No entregar la constancia de retención del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal, por cada contribuyente y periodo al que corresponda, y se sancionará con una multa de cincuenta y hasta cien días de salario mínimo general del área geográfica "A".
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -13723,7 +13719,7 @@ A). Se amonestará al Contador Público cuando:
 
 B de este Código, sin justificación que lo motive.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -13745,7 +13741,7 @@ C). Se cancelará definitivamente su registro para formular dictamen, revocándo
 
 2. No exhiba a requerimiento de la autoridad fiscal competente los papeles de trabajo a que se refiere el inciso B) de la fracción I del artículo 48-B de éste Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -13783,19 +13779,19 @@ V. No destinar al pago de contribuciones las cantidades ministradas por los cont
 
 Mediante acuerdo del Gobernador del Estado, del Secretario de Finanzas, así como del Ayuntamiento, en el caso de los municipios, se podrán condonar total o parcialmente las multas por infracción a las disposiciones de este Código, indemnizaciones por devolución de cheques y recargos tomando en cuenta las circunstancias del caso y los motivos que tuvo la autoridad para imponer la sanción y la situación económica del contribuyente. La solicitud de condonación no constituirá instancia y dará lugar a la suspensión del procedimiento administrativo de ejecución, si se garantiza el interés fiscal. Asimismo, esta atribución podrá ser delegada mediante acuerdo que se publique en el Periódico Oficial y conforme a las bases en él contenidas, para el mejor ejercicio de la autoridad fiscal competente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 Tratándose de organismos públicos descentralizados estatales o municipales que tengan la calidad de autoridad fiscal, deberán someter la solicitud de condonación para acuerdo del Gobernador, del Secretario de Finanzas o del Ayuntamiento, según se trate, previa aprobación de su consejo directivo u órgano de gobierno.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 En el ámbito estatal, las solicitudes deberán ser enviadas a través de la Secretaría de Finanzas.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO SEGUNDO. DE LAS INFRACCIONES Y SANCIONES
 
@@ -13895,7 +13891,7 @@ Para que proceda la libertad provisional cuando se incurra en delitos fiscales, 
 
 En lo no previsto en el presente Capítulo, se aplicará de manera supletoria los Códigos Penal y de Procedimientos Penales del Estado de México.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
 ## TITULO DECIMO TERCERO. DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
 
@@ -13923,7 +13919,7 @@ La actualización a que se refiere el artículo 30 de éste Código y los acceso
 
 Cuando sea necesario emplear el procedimiento administrativo de ejecución para hacer efectivo un crédito fiscal, las personas físicas y las jurídico colectivas estarán obligadas a pagar el 2% del total del crédito, por cada una de las diligencias de requerimiento de pago, embargo, ampliación de embargo, remate, enajenación fuera de remate o adjudicación al fisco estatal o municipal, previstos en el presente Código, por concepto de gastos de ejecución ordinarios.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -13977,7 +13973,7 @@ Se entregará el mandamiento de ejecución a la persona con quien se entienda la
 
 Si la notificación del crédito fiscal adeudado o del requerimiento, en su caso, se hizo por edictos, la diligencia se entenderá con la autoridad administrativa estatal o municipal de la circunscripción de los bienes, salvo que en el momento de iniciarse la diligencia compareciera el deudor, en cuyo caso se entenderá con él.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -13995,7 +13991,7 @@ Si el particular garantiza el interés fiscal en los términos del artículo 35 
 
 Son aplicables al embargo precautorio a que se refiere este artículo y a lo previsto por el artículo 41, fracción II, de este Código, las disposiciones establecidas para el embargo y para la intervención en el procedimiento administrativo de ejecución que, conforme a su naturaleza, le sean aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -14039,7 +14035,7 @@ El embargo de bienes raíces, de derechos reales o de negociaciones de cualquier
 
 El embargo podrá ampliarse en cualquier momento del procedimiento administrativo de ejecución, cuando a criterio razonado de la autoridad ejecutora, los bienes embargados sean insuficientes para cubrir los créditos fiscales, o cuando por circunstancias ajenas a la autoridad no sea posible determinar su valor, debiendo fundar y motivar el criterio o circunstancia correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 384.
 
@@ -14057,7 +14053,7 @@ II. Los bienes inmuebles, cuando se trate de contribuciones a la propiedad inmob
 
 III. En los demás casos:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -14079,9 +14075,9 @@ G). Negociaciones comerciales, industriales o agrícolas.
 
 En caso de que la persona con quien se entienda la diligencia de embargo no designe testigos, y si lo hiciere los testigos designados se negaren a firmar, así lo hará constar el ejecutor en el acta, sin que tales circunstancias afecten la legalidad del embargo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 384 Bis.
 
@@ -14207,15 +14203,15 @@ El ejecutor trabará el embargo en bienes bastantes para asegurar la recuperaci�
 
 En el acto de la diligencia, después de haber nombrado al o los depositarios, el ejecutor podrá designar al perito valuador o especialista en valuación que corresponda, en función a la naturaleza de los bienes embargados, mismos que deberán estar inscritos en el Registro Estatal de Especialistas en Valuación y en Levantamiento Topográfico Catastral.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 391.
 
 El embargo de créditos será notificado personalmente por el ejecutor a los deudores del embargado para que no hagan el pago de las cantidades respectivas a éste sino a la autoridad fiscal correspondiente en las oficinas o instituciones autorizadas, apercibidos de doble pago en caso de desobediencia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -14339,15 +14335,15 @@ IV. Cuando de conformidad con este Título se haya enajenado la negociación.
 
 En los casos de las fracciones I y IV de este artículo, la oficina ejecutora comunicará el hecho a la oficina del Registro Público de la Propiedad que corresponda para que se cancele la inscripción respectiva.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 401.
 
 Los interventores con cargo a caja o en administración, así como los administradores de bienes inmuebles que causen rentas, percibirán mensualmente por concepto de honorarios, el 5 al millar de los ingresos brutos mensuales que perciba el contribuyente o del importe mensual de las rentas, respectivamente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -14443,9 +14439,9 @@ II. En el caso de embargo precautorio, cuando los créditos se hagan exigibles y
 
 III. Cuando el embargado no proponga comprador dentro del plazo a que se refiere la fracción I del artículo 429 de este Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 408.
 
@@ -14455,7 +14451,7 @@ Salvo los casos que este Código autoriza, toda venta se hará en subasta públi
 
 La autoridad fiscal podrá designar otro lugar para la venta u ordenar que los bienes embargados se vendan en lotes o fracciones o en piezas sueltas, con el objeto de obtener un mayor rendimiento.
 
-> <small>(DEROGADO TERCER PARRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 > <small>(ADICIONADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -14463,7 +14459,7 @@ La autoridad fiscal podrá designar otro lugar para la venta u ordenar que los b
 
 Cuando las autoridades no fiscales estatales o municipales, saquen a remate bienes ya embargados por el fisco, se considerará crédito preferente el de este último.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 410.
 
@@ -14493,7 +14489,7 @@ Las irregularidades u omisiones que se observen en la tramitación del procedimi
 
 El remate podrá ser convocado para una fecha fijada dentro de los 20 días siguientes a la fecha en que se emita el avalúo comercial. La publicación de la convocatoria se hará cuando menos 5 días antes de la fecha del remate.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -14507,7 +14503,7 @@ En todo caso, a petición del deudor y previo pago del costo, la autoridad ejecu
 
 En la convocatoria se darán a conocer los bienes objeto del remate, el valor que servirá de base para su venta, el nombre de los acreedores que aparezcan en el certificado de gravámenes correspondientes a los últimos diez años, así como los requisitos que deberán cumplir los postores para concurrir al mismo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -14559,7 +14555,7 @@ Cuando el postor en cuyo favor se hubiere fincado un remate no cumpla con las ob
 
 En el supuesto de que los postores no adquieran los bienes subastados, se convocará nuevamente a remate en los plazos que se señalan en el artículo 411 del presente ordenamiento. El plazo de veinte días a que refiere el primer párrafo del artículo aludido, correrá a partir del día siguiente del último día en que el postor debió haber efectuado el pago a que refieren los artículos 419 y 420 de este Código.
 
-> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 417.
 
@@ -14589,7 +14585,7 @@ Si la subasta o el remate se realizan por conducto del SEITS, las posturas deber
 
 4. El monto y número de la transferencia electrónica de fondos que haya realizado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -14615,13 +14611,13 @@ Los deudores garantizarán en efectivo cada puja.
 
 La subasta a través del SEITS tendrá una duración de 5 días que empezará a partir de las 12:00 horas del primer día y concluirá a las 12:00 horas del quinto día. En dicho periodo los postores presentarán sus posturas y podrán mejorar las propuestas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 Si dentro de los veinte minutos previos al vencimiento del plazo de remate se recibe una postura que mejore las anteriores, el remate no se cerrará conforme al término mencionado en el párrafo precedente, en este caso y a partir de las 12:00 horas del día de que se trate, se concederán plazos sucesivos de 5 minutos cada uno, hasta que la última postura no sea mejorada. Una vez transcurrido el último plazo sin que se reciba una mejor postura se tendrá por concluido el remate.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -14737,7 +14733,7 @@ III. Los impuestos, derechos, aportaciones de mejoras y aprovechamientos que mot
 
 IV. (DEROGADA, G.G. 29 DE DICIEMBRE DE 2006)
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 425.
 
@@ -14823,7 +14819,7 @@ II. Se trate de bienes de fácil descomposición o deterioro o de materiales inf
 
 III. (DEROGADA, G.G. 26 DE DICIEMBRE DE 2007)
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 430.
 
@@ -14923,7 +14919,7 @@ LIC. ARTURO UGALDE MENESES
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 G.G. 24 DE DICIEMBRE DE 1999.
 
@@ -14951,7 +14947,7 @@ G.G. 21 DE DICIEMBRE DE 2001.
 
 LEY DE PLANEACION DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CÓDIGO.
 
 PRIMERO.- Publíquese la presente Ley en el periódico oficial "Gaceta del Gobierno".
 
@@ -15133,7 +15129,7 @@ G.G. 30 DE DICIEMBRE DE 2005.
 
 Único.- Publíquese en el periódico oficial "Gaceta del Gobierno".
 
-EL ACUERDO CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 1.2 DEL CODIGO CIVIL VIGENTE DEL ESTADO DE MEXICO.
+EL ACUERDO CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 1.2 DEL CÓDIGO CIVIL VIGENTE DEL ESTADO DE MÉXICO.
 
 G.G. 30 DE JUNIO DE 2006.
 
@@ -15211,7 +15207,7 @@ TERCERO.- En el ejercicio fiscal 2007, los servicios respecto de los cuales el A
 
 CUARTO.- Los Ayuntamientos u Organismos Públicos Descentralizados para la prestación de los Servicios de Agua Potable, Drenaje, Alcantarillado y Saneamiento, deberán aprobar los precios públicos aplicables a los productos y aprovechamientos que se generen por el ejercicio de sus actividades de derecho privado y de derecho público, distintos a las contribuciones, los cuales deberán publicarse en el Periódico Oficial "Gaceta del Gobierno".
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 3 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE JULIO DE 2007)</small>
 
 QUINTO.- Los organismos descentralizados municipales prestadores del servicio de agua, deberán llevar a cabo un diagnóstico que permita conocer la situación actual de cada uno de ellos, con la finalidad de mejorar las eficiencias (sic) físicas, operativas, financieras, comerciales, entre otras, motivo por el cual, se constituirá un fondo para contratar los servicio de empresas especializadas en este tipo de trabajados, que se integre con recursos del Gobierno del Estado, a través de la Comisión del Agua del Estado de México y de los ayuntamientos, por un monto de $120'000,000.00 (CIENTO VEINTE MILLONES DE PESOS 00/100 M.N.), en partes iguales, sin menoscabo de la participación de otras instituciones.
 
@@ -15353,7 +15349,7 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 
 SEGUNDO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación, en el Periódico Oficial "Gaceta del Gobierno".
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
 TERCERO.- Las retenciones y pagos que se realicen con cargo a los recursos del Fondo previsto en la fracción IV del artículo 228 del Código Financiero del Estado de México y Municipios, por adeudos que correspondan al municipio, sus organismos operadores de agua y/o sus organismos auxiliares, a que se refieren los artículos 230 B, 230 D, 230 E, 230 H, 230 J y 230 K del referido Código Financiero, solo podrán solicitarse para el cobro de adeudos generados a partir del 1º de enero de 2008. Lo anterior, en el entendido de que las retenciones y pagos relativos a los conceptos del Derecho sobre agua por la explotación, uso o aprovechamiento de aguas nacionales y de Aprovechamientos por el suministro de agua en bloque por parte de la Comisión Nacional del Agua, por concepto de suministro de agua en bloque, cloración, operación, uso de la infraestructura hidráulica para la conducción de volúmenes y entrega de agua por la Comisión del Agua del Estado de México, y por concepto de suministro de energía eléctrica, con cargo a los recursos del citado Fondo deberán efectuarse de manera gradual, con base en los siguientes porcentajes aplicables sobre el total de los recursos que correspondan a cada municipio por concepto del Fondo previsto en la fracción IV del artículo 228 del propio Código Financiero Vigente en la Entidad.
 
@@ -15395,9 +15391,9 @@ SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en
 
 G.G. 18 DE DICIEMBRE DE 2008.
 
-DECRETO No. 233, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS DEL CODIGO FINANCIERO DEL ESTADO DE MEXICO Y MUNICIPIOS.
+DECRETO No. 233, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO No. 233, QUE SE RELACIONAN CON EL CODIGO.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO No. 233, QUE SE RELACIONAN CON EL CÓDIGO.
 
 ###### ARTÍCULO TERCERO.
 
@@ -15427,9 +15423,9 @@ CUARTO.- El párrafo que se adiciona al artículo 116 entrará en vigor a partir
 
 G.G. 18 DE DICIEMBRE DE 2008.
 
-DECRETO No. 235, POR EL QUE SE ADICIONAN LOS ARTICULOS 203-G, 230-H, 230-I, 230-J, 230-K Y 230-L AL CODIGO FINANCIERO DEL ESTADO DE MEXICO Y MUNICIPIOS.
+DECRETO No. 235, POR EL QUE SE ADICIONAN LOS ARTÍCULOS 203-G, 230-H, 230-I, 230-J, 230-K Y 230-L AL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS.
 
-SE TRANSCRIBEN UNICAMENTE EL ARTICULO SEGUNDO DEL DECRETO No. 235, QUE SE RELACIONA CON EL CODIGO.
+SE TRANSCRIBEN ÚNICAMENTE EL ARTÍCULO SEGUNDO DEL DECRETO No. 235, QUE SE RELACIONA CON EL CÓDIGO.
 
 ###### ARTICULO SEGUNDO.
 
@@ -15620,6 +15616,12 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan los ordenamientos jurídicos de igual o menor jerarquía, que se opongan a lo dispuesto por el presente Decreto.
+
+G.G. 15 DE OCTUBRE DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE DA A CONOCER EL MANUAL GRÁFICO PARA EL USO DE UNIFORMES, DIVISAS Y EQUIPO DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS”.]
 
