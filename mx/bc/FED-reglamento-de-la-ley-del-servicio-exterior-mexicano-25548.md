@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-del-servicio-exterior-mexicano-25548"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-08-23"
-last_updated: "2005-05-24"
+last_updated: "2012-10-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25548&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-08-20"
 
 REGLAMENTO DE LA LEY DEL SERVICIO EXTERIOR MEXICANO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE MAYO DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE OCTUBRE DE 2012.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 23 de agosto de 2002.
 
@@ -367,13 +367,21 @@ c) Una Agencia Consular;
 
 d) Una Sección Consular;
 
-> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 15 DE OCTUBRE DE 2012)</small>
 
-e) La Dirección General de la Secretaría encargada de los Asuntos Consulares; y
+e) La Dirección General de la Secretaría encargada de los Asuntos Consulares;
 
-> <small>(ADICIONADO, D.O.F. 24 DE MAYO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 15 DE OCTUBRE DE 2012)</small>
 
-f) La Dirección General encargada de coordinar a las delegaciones foráneas y metropolitanas de la Secretaría, así como dichas delegaciones.
+f) La Dirección General encargada de coordinar a las delegaciones foráneas y metropolitanas de la Secretaría, así como dichas delegaciones;
+
+> <small>(ADICIONADO, D.O.F. 15 DE OCTUBRE DE 2012)</small>
+
+g) La Dirección General encargada de la Protección de los Mexicanos en el Exterior, y
+
+> <small>(ADICIONADO, D.O.F. 15 DE OCTUBRE DE 2012)</small>
+
+h) El Instituto de los Mexicanos en el Exterior.
 
 Para los efectos de la Ley y de este Reglamento, la adscripción de tipo consular deberá tener una duración mínima de 2 años, pudiendo cubrirse en una o más adscripciones.
 
@@ -983,15 +991,25 @@ Asimismo, el jefe de representación deberá dar aviso oportuno a la Secretaría
 
 Cuando se disponga el traslado de un miembro del Servicio Exterior del extranjero a la Secretaría fuera del programa de rotación, se le notificará con éste el nombre de la unidad a la que estará adscrito y, a su arribo y presentación, las funciones que desempeñará en la misma.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 96.
 
-En las adscripciones de vida difícil, definidas en los términos del artículo 90 de este Reglamento, el personal de carrera del Servicio Exterior tendrá, sin excepciones, una permanencia máxima de dos años. En ningún caso se podrá trasladar a un miembro del Servicio Exterior de una adscripción de vida difícil a otra.
+En las adscripciones de vida difícil, definidas en los términos del artículo 92 de este Reglamento, el personal de carrera del Servicio Exterior tendrá, sin excepciones, una permanencia máxima de dos años. En ningún caso se podrá trasladar a un miembro del Servicio Exterior de una adscripción de vida difícil a otra. El personal de las adscripciones de vida difícil disfrutará de dos salidas de las mismas por cada seis meses laborados. La duración de estas salidas la determinará la Comisión de Personal, y no se computarán como licencias económicas o vacaciones.
 
 Para los efectos de este artículo la condición de vida difícil se considerará desde la fecha en que la Secretaría, conforme al artículo 92 de este Reglamento, haga la determinación de dicha calidad.
 
+> <small>(REFORMADO, D.O.F. 15 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 97.
 
-El personal de las adscripciones de vida difícil disfrutará de dos salidas de las mismas por cada año laborado. La duración de estas salidas la determinará la Comisión de Personal, y no se computarán como licencias económicas o vacaciones.
+Al personal adscrito en ciudades en las que imperen circunstancias ambientales o de seguridad adversas, pero que no ameritan ser consideradas de vida difícil por no cumplir los requisitos del artículo 92 del presente Reglamento, se les otorgará una semana sanitaria por cada seis meses laborados, que consistirá en un periodo adicional de descanso por siete días naturales, periodo que no se computará como licencias económicas o vacaciones.
+
+Se considera como circunstancias ambientales adversas, aquéllas que como producto de la contaminación ambiental impliquen un riesgo a la salud, así como las que deriven de fenómenos naturales que pongan en riesgo la integridad física de los miembros del Servicio Exterior Mexicano.
+
+Asimismo, se entenderá por circunstancias de seguridad adversas, aquéllas en las que, si bien no existen conflictos armados, impliquen un peligro para la seguridad e integridad física y emocional de los miembros adscritos en las representaciones.
+
+La Comisión de Personal someterá a la autorización del Secretario las adscripciones en las que se deba dar al personal dicha prestación, las cuales se darán a conocer en el mes de febrero de cada año o cuando ocurra una circunstancia de emergencia extrema.
 
 ###### ARTÍCULO 98.
 
@@ -1085,6 +1103,10 @@ Las autorizaciones para disfrutar vacaciones o licencias se considerarán cancel
 
 Las solicitudes de licencia por enfermedad o maternidad deberán acompañarse por el certificado médico respectivo, en el primer caso, el médico deberá certificar la enfermedad de la que se trata y el periodo que comprende la incapacidad para prestar sus funciones, así como la fecha probable en que el funcionario podrá reincorporarse a su trabajo.
 
+> <small>(ADICIONADO, D.O.F. 15 DE OCTUBRE DE 2012)</small>
+
+A fin de proceder con el registro correspondiente, el personal del Servicio Exterior adscrito tanto en territorio nacional como en el extranjero deberá presentar las licencias médicas de conformidad con las instrucciones giradas por la Dirección General.
+
 ###### ARTÍCULO 112.
 
 Las solicitudes de licencia sin goce de sueldo se presentarán por escrito a la Comisión de Personal a través de la Dirección General, explicando los motivos que las justifiquen, así como la fecha en que se pretendan iniciar y su duración. En caso de considerarlas procedentes, la Comisión de Personal así lo recomendará al Secretario, quien en su caso las acordará. Las licencias no podrán exceder, en ningún caso, el término de seis meses y la Secretaría fijará la fecha de inicio y término de la misma.
@@ -1141,17 +1163,21 @@ II.- Clase económica: los miembros del Servicio Exterior que no se encuentren c
 
 Cuando el personal de carrera se encuentre comisionado en la Secretaría, se regirá por las disposiciones que al respecto defina la Secretaría, sin detrimento de lo señalado en el presente artículo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 119.
 
-Para el otorgamiento de la ayuda para el pago del alquiler de la vivienda, a que se refiere la fracción V del artículo 47 de la Ley, la Secretaría, previa consulta a la Secretaría de Hacienda y Crédito Público, definirá anualmente la lista de las adscripciones cuyas condiciones económicas repercutan de manera grave sobre los ingresos de los miembros del Servicio Exterior, así como las modalidades y condiciones en que ésta podrá otorgarse.
+Para el otorgamiento de la ayuda para el pago del alquiler de la vivienda, a que se refiere la fracción VI del artículo 47 de la Ley, la Secretaría, previa consulta a la Secretaría de Hacienda y Crédito Público, definirá anualmente la lista de las adscripciones cuyas condiciones económicas repercutan de manera grave sobre los ingresos de los miembros del Servicio Exterior, así como las modalidades y condiciones en que ésta podrá otorgarse.
 
 Para los efectos de este artículo, se considerará repercusión grave la erogación del 30% o más del salario neto mensual por concepto de alquiler. Lo que deberá demostrarse ante la Dirección General.
 
 La ayuda económica se otorgará conforme a lo dispuesto en la Norma que al efecto emita anualmente la Secretaría de Hacienda y Crédito Público.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 120.
 
-Para los efectos de la fracción VI del artículo 47 de la Ley, la Secretaría otorgará anualmente ayuda para el pago de la educación de los hijos menores de 18 años de los miembros del Servicio Exterior comisionados en el extranjero, que se encuentren cursando niveles educativos equivalentes a primaria, secundaria y preparatoria, incluyendo a los hijos de sus cónyuges, si son dependientes económicos de aquéllos.
+Para los efectos de la fracción VII del artículo 47 de la Ley, la Secretaría otorgará anualmente ayuda para el pago de la educación de los hijos menores de 18 años de los miembros del Servicio Exterior comisionados en el extranjero, que se encuentren cursando niveles educativos equivalentes a primaria, secundaria y preparatoria, incluyendo a los hijos de sus cónyuges, si son dependientes económicos de aquéllos y radiquen de manera permanente con el funcionario.
 
 La ayuda económica se otorgará conforme a lo dispuesto en la Norma que al efecto emita anualmente la Secretaría de Hacienda y Crédito Público.
 
@@ -1297,11 +1323,17 @@ La Subcomisión de Asuntos Disciplinarios, se integrará en términos de lo disp
 
 Las ausencias temporales de los miembros de la Subcomisión de Asuntos Disciplinarios no podrán ser suplidas por otro de los miembros de la Comisión de Personal con excepción del Presidente de la misma. Las ausencias temporales del Titular del Órgano Interno de Control serán suplidas por otro funcionario de la misma unidad administrativa que designe.
 
+> <small>(REFORMADO, D.O.F. 15 DE OCTUBRE DE 2012)</small>
+
 ###### ARTÍCULO 145.
 
-La Subcomisión de Asuntos Disciplinarios podrá ampliar el plazo a que se refiere la fracción III del artículo 60 de la Ley, a petición del afectado con objeto de que se recaben más elementos de prueba para su defensa. En ningún caso la ampliación del plazo excederá de 15 días hábiles.
+La Subcomisión de Asuntos Disciplinarios y el Órgano Interno de Control en la Secretaría podrán allegarse de todas las pruebas pertinentes para el mejor conocimiento del asunto. Esta última se hará cargo de la investigación correspondiente.
 
-De conformidad con lo dispuesto por la fracción I del artículo 60 de la Ley, la Subcomisión de Asuntos Disciplinarios y el Órgano Interno de Control en la Secretaría podrán allegarse todas las pruebas pertinentes para el mejor conocimiento del asunto. Esta última se hará cargo de la investigación correspondiente.
+El acta administrativa de presunta responsabilidad será firmada por quien presida la Subcomisión de Asuntos Disciplinarios de la Comisión de Personal del Servicio Exterior Mexicano.
+
+A petición del afectado, la Subcomisión de Asuntos Disciplinarios podrá ampliar el plazo para presentar por escrito sus argumentos y pruebas, con objeto de que se recaben más elementos de prueba para su defensa. En ningún caso la ampliación del plazo excederá de 15 días hábiles.
+
+A fin de estar en posibilidad de declarar cerrada la instrucción del procedimiento, una vez desahogadas las pruebas, la Subcomisión de Asuntos Disciplinarios otorgará al afectado un plazo de 15 días hábiles para formular alegatos, respecto de las pruebas y demás constancias que integran el expediente, el cual correrá a partir del día siguiente al que surta efectos la notificación respectiva.
 
 ###### ARTÍCULO 146.
 
@@ -1355,8 +1387,14 @@ SÉPTIMO. Se abroga el Reglamento de la Ley del Servicio Exterior Mexicano, publ
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veinte días del mes de agosto de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Relaciones Exteriores, Jorge Castañeda Gutman.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LAS DISPOSICIONES TRANSITORIAS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LAS DISPOSICIONES TRANSITORIAS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO</small>
 
 D.O.F. 24 DE MAYO DE 2005.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 15 DE OCTUBRE DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La Dirección General del Servicio Exterior y de Recursos Humanos de la Secretaría realizará los trámites necesarios para la aplicación de las disposiciones contenidas en el presente Decreto.
