@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-17-2012-del-pleno-del-consejo-de-la-88363"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-06-15"
-last_updated: "2012-09-17"
+last_updated: "2012-10-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88363&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-06-07"
 
 ACUERDO GENERAL 17/2012, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE OCTUBRE DE 2012.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 26 de junio de 2012.
 
@@ -133,13 +133,15 @@ II. SEGUNDO CIRCUITO:
 
 III. TERCER CIRCUITO:
 
-1. Catorce tribunales colegiados especializados: dos en materia penal, cuatro en materia administrativa, cinco en materia civil y tres en materia de trabajo; todos con residencia en Zapopan.
+> <small>(REFORMADO POR EL PUNTO DÉCIMO DEL ACUERDO GENERAL 33/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2012)</small>
+
+1.- Dieciséis tribunales colegiados especializados: tres en materia penal, cuatro en materia administrativa, cinco en materia civil y cuatro en materia de trabajo, todos con residencia en Zapopan.
 
 2. Cinco tribunales unitarios con residencia en Zapopan.
 
-> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 27/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO POR EL PUNTO DECIMONOVENO DEL ACUERDO GENERAL 25/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2012)</small>
 
-3. Veintiún juzgados de Distrito especializados en el Estado de Jalisco: nueve en materia penal, con sede en Puente Grande, Municipio de Juanacatlán; seis en materia administrativa y de trabajo, y seis en materia civil, todos con residencia en Zapopan.
+3. Veintitrés juzgados de Distrito especializados: siete en Procesos Penales Federales con sede en Puente Grande, Municipio de Juanacatlán; cuatro de Amparo en Materia Penal seis en materia administrativa y de trabajo, y seis en materia civil, todos con residencia en Zapopan.
 
 IV. CUARTO CIRCUITO:
 
@@ -509,9 +511,11 @@ Los juzgados de Distrito en el Estado de México, con residencia en Nezahualcóy
 
 Los Juzgados de Distrito Especializados en Ejecución de Penas, con sede en Tlalnepantla de Baz, Estado de México, ejercerán jurisdicción territorial en toda la República Mexicana.
 
+> <small>(REFORMADA POR EL PUNTO DECIMONOVENO DEL ACUERDO GENERAL 25/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2012)</small>
+
 III. TERCER CIRCUITO:
 
-Los juzgados de Distrito en el Estado de Jalisco, con residencia en Guadalajara y Puente Grande, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
+Los juzgados de Distrito en el Estado de Jalisco, con residencia en Zapopan y Puente Grande, ejercerán jurisdicción territorial en el Distrito Judicial conformado por la propia entidad federativa.
 
 IV. CUARTO CIRCUITO:
 
@@ -695,7 +699,9 @@ XXXII. TRIGESIMO SEGUNDO CIRCUITO:
 
 Los juzgados de Distrito en el Estado de Colima, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
 
-XXXIII. Los Jueces de Distrito de Procesos Penales Federales del Primero y Segundo Circuito, los Penales del Tercer Circuito y los Mixtos, así como los de Procesos Penales Federales que en lo futuro se lleguen a crear en aquellos lugares donde exista un centro federal de readaptación social de máxima seguridad, ejercerán jurisdicción en toda la República para conocer de aquellos asuntos que se encuentren en la hipótesis del artículo 10, párrafo tercero, del Código Federal de Procedimientos Penales.
+> <small>(REFORMADA POR EL PUNTO DECIMONOVENO DEL ACUERDO GENERAL 25/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2012)</small>
+
+XXXIII. Los Jueces de Distrito de Procesos Penales Federales del Primero, Segundo y Tercer Circuito, y los Mixtos, así como los de Procesos Penales Federales que en lo futuro se lleguen a crear en aquellos lugares donde exista un centro federal de readaptación social de máxima seguridad, ejercerán jurisdicción en toda la República para conocer de aquellos asuntos que se encuentren en la hipótesis del artículo 10, párrafo tercero, del Código Federal de Procedimientos Penales.
 
 QUINTO. Se contará con:
 
@@ -705,7 +711,9 @@ QUINTO. Se contará con:
 
 2. El Centro El Centro (sic) Auxiliar de la Segunda Región, se integrará por cuatro tribunales colegiados de Circuito Auxiliares y seis juzgados de Distrito Auxiliares, con residencia en San Andrés Cholula, Puebla y dos juzgados de Distrito Auxiliar, con residencia en Puebla, Puebla.
 
-3. El Centro Auxiliar de la Tercera Región, se integrará por seis tribunales colegiados de Circuito Auxiliares, dos con residencia en Guanajuato, Guanajuato, dos con sede en Guadalajara, Jalisco y dos con residencia en Morelia, Michoacán; siete tribunales unitarios de Circuito Auxiliares, cinco con residencia en Guanajuato, Guanajuato y dos con sede en Guadalajara, Jalisco y, cinco juzgados de Distrito Auxiliares, dos con residencia en Guanajuato, Guanajuato, dos con sede en Guadalajara, Jalisco y uno en Uruapan, Michoacán.
+> <small>(REFORMADO POR EL PUNTO DECIMONOVENO DEL ACUERDO GENERAL 25/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2012)</small>
+
+3. El Centro Auxiliar de la Tercera Región, se integrará por ocho tribunales colegiados de Circuito Auxiliares, dos con residencia en Guanajuato, Guanajuato, cuatro con sede en Guadalajara, Jalisco y dos con residencia en Morelia, Michoacán; siete tribunales unitarios de Circuito Auxiliares, cinco con residencia en Guanajuato, Guanajuato y dos con sede en Guadalajara, Jalisco, y tres juzgados de Distrito Auxiliares, dos con residencia en Guanajuato, Guanajuato y uno en Uruapan, Michoacán.
 
 > <small>(REFORMADO POR EL PUNTO DECIMOPRIMERO DEL ACUERDO GENERAL 24/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE AGOSTO DE 2012)</small>
 
@@ -796,3 +804,55 @@ PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 17/2012, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los circuitos en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales colegiados y unitarios de Circuito y de los juzgados de Distrito.
+
+D.O.F. 15 DE OCTUBRE DE 2012.
+
+ACUERDO GENERAL 30/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO PRIMERO Y DECIMOPRIMERO.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 18/2008, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Auxiliar de la Tercera Región, así como los órganos jurisdiccionales que lo integrarán.
+
+D.O.F. 15 DE OCTUBRE DE 2012.
+
+ACUERDO GENERAL 32/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO, APARTADO III.- TERCER CIRCUITO, NÚMERO 1.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 17/2012, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los circuitos en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales colegiados y unitarios de Circuito y de los juzgados de Distrito.
+
+TERCERO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 15 DE OCTUBRE DE 2012.
+
+ACUERDO GENERAL 33/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO, APARTADO III.- TERCER CIRCUITO, NÚMERO 1.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 17/2012, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los circuitos en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales colegiados y unitarios de Circuito y de los juzgados de Distrito.
+
+TERCERO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 15 DE OCTUBRE DE 2012.
+
+ACUERDO GENERAL 25/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA LOS PUNTOS SEGUNDO, APARTADO III.- TERCER CIRCUITO, NÚMERO 3; CUARTO, APARTADOS III.- TERCER CIRCUITO Y XXXIII; Y QUINTO EN SU NÚMERO 3.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. En virtud de los ajustes de nomenclatura y residencia previstos en el presente acuerdo, las Administraciones Regionales y Delegaciones Administrativas proveerán a los órganos jurisdiccionales respectivos, de los recursos materiales necesarios (sello oficial, directorios, placa conmemorativa del órgano jurisdiccional, papelería, etc.), para que a la brevedad cuenten con ellos.
+
+CUARTO. Los movimientos estadísticos originados con motivo del reparto de expedientes, deberán informarse oportunamente a la Dirección General de Estadística Judicial del Consejo de la Judicatura Federal, remitiendo por separado el reporte estadístico mensual correspondiente.
+
+QUINTO. Los titulares de los órganos jurisdiccionales que cambian de denominación y que se trasforman, deberán colocar en un lugar visible de la puerta de entrada, estrados, reja de prácticas y demás que consideren necesarios del local que cada uno ocupa, letreros tanto para el público como para los que en su caso se encuentren tras las rejas de la ventanilla de prácticas judiciales, que: en atención al Acuerdo General 25/2011, del Pleno del Consejo de la Judicatura Federal, se instruyó la transformación, cambio de denominación y competencia de los juzgados de Distrito en Materia Penal en el Estado de Jalisco, a partir del dieciséis de octubre de dos mil doce, a juzgados de Distrito de Procesos Penales Federales, y de Amparo en Materia Penal, en esta entidad federativa; por lo que cada órgano jurisdiccional especificará a cuál se transforma y si conserva o cambia su domicilio, en éste caso deberá señalar el mismo. La colocación de avisos se hará también en las oficinas de correspondencia común a que se hace mérito.
+
+SEXTO. Se derogan todas las disposiciones emitidas por el Consejo de la Judicatura Federal, que se opongan al presente Acuerdo.
+
+SEPTIMO. La Secretaría Ejecutiva de Administración, instrumentará la división de la Unidad de Notificadores Común a los juzgados de Distrito en Materia Penal en el Estado de Jalisco, para dar servicio a los juzgados de Distrito de Amparo en Materia Penal y de Procesos Penales Federales en el Estado de Jalisco, mencionada en el punto de acuerdo VIGESIMO PRIMERO.
+
+La propia Comisión de Administración determinará la creación de una nueva Unidad de Notificadores Común, su denominación y personal que la integrará.
+
+OCTAVO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar con la debida oportunidad, el texto de la reforma al Acuerdo General 17/2012, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los circuitos en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales colegiados y unitarios de Circuito y de los juzgados de Distrito. Asimismo, la reforma al Acuerdo General 18/2008, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Auxiliar de la Tercera Región, así como los órganos jurisdiccionales que lo integrarán.
