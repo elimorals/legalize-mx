@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-merito-civil-del-estado-de-mexico-26748"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-08-30"
-last_updated: "2012-01-31"
+last_updated: "2012-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,15 @@ state: "MEX"
 
 REGLAMENTO DEL MÉRITO CIVIL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE OCTUBRE DE 2012.
 
 Reglamento publicado en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el viernes 30 de agosto de 2002.
 
 ARTURO MONTIEL ROJAS, GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MÉXICO, EN EJERCICIO DE LA FACULTAD QUE ME CONFIERE EL ARTÍCULO 77 FRACCIÓN IV DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, Y CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTÍCULOS 2, 7 Y 8 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MEXICO, Y
 
-C O N S I D E R A N D O...
+C O N S I D E R A N D O
+
+[...]
 
 En mérito de lo expuesto, he tenido a bien expedir el siguiente:
 
@@ -41,15 +43,19 @@ REGLAMENTO DEL MÉRITO CIVIL DEL ESTADO DE MÉXICO
 
 El presente reglamento tiene por objeto establecer las normas que regulan los reconocimientos públicos que haga el Estado, de aquellas personas, individual o colectivamente consideradas, que, por su conducta, actos u obras lo merezcan, conforme al Título Noveno del Libro Tercero del Código Administrativo del Estado de México.
 
+> <small>(REFORMADO, G.G. 15 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 2.
 
-Estos reconocimientos se otorgarán a favor de las personas originarias o vecinas del Estado de México, con excepción de la Presea "José María Luis Mora", que se entregará a aquellas personas que sin ser oriundas o habitantes de la Entidad, reúnan los elementos previstos en el artículo 67 de este reglamento, y de los reconocimientos especiales que decrete el Ejecutivo del Estado en los términos del artículo 69 del mismo.
+Estos reconocimientos se otorgarán a favor de las personas originarias o vecinas del Estado de México, con excepción de la Presea a quienes sin ser mexiquenses tengan méritos o hayan prestado servicios eminentes “José María Luis Mora”, que se entregará a quienes sin ser oriundos o habitantes de la Entidad, reúnan los elementos previstos en el artículo 67 de este reglamento.
 
 ###### Artículo 3.
 
 Los reconocimientos públicos sólo se otorgarán cuando se acredite una conducta o trayectoria vital singularmente ejemplar, así como también la realización de determinados actos u obras relevantes, en beneficio de la humanidad, del país, del Estado de México o de la comunidad.
 
-La Presea Estado de México, en las modalidades y denominaciones que establece el Código Administrativo del Estado de México, podrá concederse post-mortem a quienes, teniendo merecimientos para ello, hayan fallecido en el año inmediato anterior al de la premiación.
+> <small>(REFORMADO, G.G. 15 DE OCTUBRE DE 2012)</small>
+
+La Presea Estado de México, en las modalidades y denominaciones que establece el Código Administrativo del Estado de México, podrá concederse post-mortem.
 
 ###### Artículo 4.
 
@@ -87,11 +93,21 @@ XII. Al impulso económico "Filiberto Gómez";
 
 XIII. Al mérito en la preservación del ambiente "José Mariano Mociño Suárez Lozada"; y
 
-XIV. "José María Luis Mora";
+> <small>(REFORMADA, G.G. 15 DE OCTUBRE DE 2012)</small>
+
+XIV. A quienes sin ser mexiquenses tengan méritos o hayan prestado servicios eminentes "José María Luis Mora".
 
 > <small>(ADICIONADA, G.G. 2 DE DICIEMBRE DE 2003)</small>
 
-XV. A residentes en el extranjero “José María Heredia y Heredia”.
+XV. A residentes en el extranjero "José María Heredia y Heredia".
+
+> <small>(ADICIONADA, G.G. 15 DE OCTUBRE DE 2012)</small>
+
+XVI. A la Defensa de los Derechos Humanos "José María Morelos y Pavón; y
+
+> <small>(ADICIONADA, G.G. 15 DE OCTUBRE DE 2012)</small>
+
+XVII. Al Fortalecimiento de las Instituciones Públicas "León Guzmán".
 
 ###### Artículo 6.
 
@@ -119,6 +135,10 @@ El derecho al uso de la presea a que se refiere este reglamento, se extingue por
 
 Una misma persona podrá recibir dos o más preseas siempre y cuando sean de diversa área, dentro de las señaladas por el artículo 5 de este reglamento, pero nunca podrá entregarse la misma presea por segunda ocasión a la persona que la haya obtenido anteriormente.
 
+> <small>(ADICIONADO, G.G. 15 DE OCTUBRE DE 2012)</small>
+
+Las personas propuestas como candidatos a recibir la Presea Estado de México, no podrán estar registradas en más de una modalidad y denominación durante la misma promoción.
+
 ###### Artículo 11.
 
 Las obras o actos que acrediten la asignación de las preseas no necesariamente deberán haberse producido dentro del año al que éstas correspondan.
@@ -127,11 +147,11 @@ Las obras o actos que acrediten la asignación de las preseas no necesariamente 
 
 Podrán concurrir como triunfadoras varias personas con derecho a presea, cuando así se dictamine, en cuyo caso se distribuirá a partes iguales entre los premiados, la entrega en numerario.
 
-> <small>(REFORMADO, G.G. 23 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO, G.G. 15 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 13.
 
-Las preseas serán otorgadas por el Gobernador Constitucional del Estado de México, el día 2 de marzo de cada dos años, en ceremonia solemne.
+Las preseas serán otorgadas por el Gobernador Constitucional del Estado de México, el 2 de marzo de cada año en ceremonia solemne.
 
 ### CAPITULO TERCERO. DE LOS ORGANOS DE PREMIACION
 
@@ -301,13 +321,11 @@ La presea se tramitará ante el Consejo de Premiación, el que designará un jur
 
 Presea de Deportes "Filiberto Navas Valdés"
 
+> <small>(REFORMADO, G.G. 15 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 40.
 
-La presea de deportes se concederá en dos campos:
-
-I. Por la actuación destacada en alguna rama del deporte; y
-
-II. Por el fomento, la protección o el impulso de la práctica de los deportes.
+La presea de deportes se otorgará a las personas físicas o jurídicas colectivas, por el fomento, la protección, el impulso de la práctica del deporte o su destacada actuación en alguna de sus ramas.
 
 ###### Artículo 41.
 
@@ -317,23 +335,19 @@ Presea de Periodismo e Información "José María Cos"
 
 ###### Artículo 42.
 
-La presea de periodismo e información se entregará en los siguientes campos:
-
-I. Noticias, reportajes, crónicas o entrevistas;
-
-II. Fotografías, filmes, caricaturas, portadas o cartones; y
-
-III. Artículos de fondo o comentario y publicaciones o programas de divulgación cultural.
+(DEROGADO, G.G. 15 DE OCTUBRE DE 2012)
 
 ###### Artículo 43.
 
-Estos reconocimientos se concederán, por un lado, a personas físicas y, por otro, a las organizaciones responsables.
+(DEROGADO, G.G. 15 DE OCTUBRE DE 2012)
+
+> <small>(REFORMADO, G.G. 15 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 44.
 
-Los reconocimientos se otorgarán a quienes notoriamente se distingan, según lo exija la naturaleza de cada campo, por el uso correcto de los medios de expresión y la estética de la presentación; además, por la veracidad y la objetividad de las informaciones, de los artículos y de los programas culturales y por el interés que susciten, así como por el efecto socialmente benéfico que produzcan. Esta última condición será la consideración básica para premiar publicaciones y programas destinados a la niñez y a la juventud.
+La presea de periodismo e información se otorgará a las personas físicas o jurídicas colectivas, por el uso correcto de los medios de expresión y la estética de la presentación; por la veracidad y la objetividad de las informaciones, de los artículos y de los programas culturales y por el interés que susciten, así como por el efecto socialmente benéfico que produzcan. Esta última condición será la consideración básica para premiar publicaciones y programas destinados a la niñez y a la juventud.
 
-El otorgamiento de estos reconocimientos nunca estará condicionado por la mayor o menor amplitud del público del correspondiente órgano de difusión.
+El otorgamiento de esta Presea nunca estará condicionado por la mayor o menor amplitud del público del correspondiente órgano de difusión.
 
 ###### Artículo 45.
 
@@ -345,9 +359,11 @@ Para el otorgamiento de esta presea se tomará en cuenta, tanto la actuación du
 
 Presea al Mérito Cívico "Isidro Fabela Alfaro"
 
+> <small>(REFORMADO, G.G. 15 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 47.
 
-La presea al mérito cívico se otorgará a quienes constituyen en su comunidad ejemplos respetables de dignidad cívica por su diligente cumplimiento de la ley, por la firme y serena defensa de los derechos propios y de los demás, por el respeto a las instituciones públicas, por un relevante comportamiento de participación ciudadana o por la realización de actos heroicos.
+La presea al mérito cívico se otorgará a quienes constituyen en su comunidad ejemplos respetables de dignidad cívica por su diligente cumplimiento de la ley, por un relevante comportamiento de participación ciudadana o por la realización de actos heroicos.
 
 > <small>(REFORMADO, G.G. 23 DE OCTUBRE DE 2006)</small>
 
@@ -427,13 +443,15 @@ Este reconocimiento se tramitará ante el Consejo de Premiación, el que integra
 
 Presea al Impulso Económico "Filiberto Gómez"
 
+> <small>(REFORMADO, G.G. 15 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 62.
 
-La presea al impulso económico se entregará a quienes en las actividades agropecuarias, artesanales, comerciales o industriales realicen un esfuerzo extraordinario en beneficio de la comunidad y del interés público y social, elevando la productividad, generando empleos o propiciando la consolidación económica de la entidad.
+La presea al impulso económico se entregará a las personas físicas o jurídicas colectivas que en el desarrollo de actividades económicas realicen un esfuerzo extraordinario, beneficien a la comunidad, al interés público y social, elevando la productividad, generando empleos o propiciando la consolidación económica de la entidad.
 
 ###### Artículo 63.
 
-El Consejo de Premiación podrá establecer una presea por cada uno de los rubros económicos que se mencionan en el artículo anterior.
+(DEROGADO, G.G. 15 DE OCTUBRE DE 2012)
 
 > <small>(REFORMADO, G.G. 23 DE OCTUBRE DE 2006)</small>
 
@@ -453,7 +471,9 @@ La presea al mérito en la preservación del ambiente se otorgará a personas f�
 
 El otorgamiento de la presea se discernirá en el Consejo de Premiación, que designará un jurado calificador integrado por cinco a diez miembros, cuya calificación y conocimientos en la materia sean reconocidos e idóneos por la naturaleza del premio. En todo caso, deberán formar parte de este jurado el Secretario de Desarrollo Urbano, el de Medio Ambiente, y un representante de las instituciones públicas de educación superior del Estado; asimismo, se invitará al Poder Legislativo a efecto de que, a través de un representante, forme parte de este jurado.
 
-Presea "José María Luis Mora"
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 15 DE OCTUBRE DE 2012)</small>
+
+Presea a quienes sin ser mexiquenses tengan méritos o hayan prestado servicios eminentes “José María Luis Mora”
 
 ###### Artículo 67.
 
@@ -479,25 +499,59 @@ La presea "José María Heredia y Heredia" se entregará a las personas físicas
 
 Este reconocimiento se tramitará ante el Consejo de Premiación, el que integrará un jurado calificador con el Coordinador General de Enlace Institucional o su equivalente, el Subsecretario General de Gobierno, un representante de la Secretaría de Desarrollo Económico, un representante de la Secretaría del Trabajo y otro de la Secretaría de Educación y tres presidentes municipales.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 15 DE OCTUBRE DE 2012)</small>
+
+Presea a la Defensa de los Derechos Humanos “José María Morelos y Pavón”
+
+> <small>(ADICIONADO, G.G. 15 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 68-C.
+
+La presea a la defensa de los derechos humanos se entregará a las personas físicas o jurídicas colectivas que se hayan destacado por su lucha contra la discriminación por razones de género, edad, capacidades corporales o mentales, condición social, étnica o racial y que para lograrlo hayan emprendido programas, campañas o acciones que repercutan en el mejoramiento de vida de grupos vulnerables.
+
+> <small>(ADICIONADO, G.G. 15 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 68-D.
+
+La Presea se tramitará ante el Consejo de Premiación el que integrará un jurado con el Secretario de Desarrollo Social quien lo presidirá, el Director General del Sistema Estatal para el Desarrollo Integral de la Familia, un representante del Consejo Estatal de la Mujer y Bienestar Social, un representante de la Comisión de Derechos Humanos del Estado de México, un representante del Consejo Estatal para el Desarrollo Integral de los Pueblos Indígenas del Estado de México, asimismo, se invitará a los Poderes Legislativo y Judicial a efecto de que, a través de un representante, formen parte de este jurado.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 15 DE OCTUBRE DE 2012)</small>
+
+Presea al Fortalecimiento de las Instituciones Públicas “León Guzmán”.
+
+> <small>(ADICIONADO, G.G. 15 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 68-E.
+
+La presea al fortalecimiento de las instituciones públicas se entregará a las personas físicas o jurídicas colectivas que se distingan por el respeto firme y sereno de las instituciones o por su labor de creación e investigación para la integración de valores humanos relevantes para la comunidad, municipio o el Estado.
+
+> <small>(ADICIONADO, G.G. 15 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 68-F.
+
+La Presea se tramitará ante el Consejo de Premiación el que integrará un jurado con un representante de la Secretaría General de Gobierno que será el presidente, un representante de la Procuraduría General de Justicia del Estado de México, un representante de la Universidad Autónoma del Estado de México, un representante de la Secretaría de Educación, asimismo se invitará a los Poderes Legislativo y Judicial a efecto de que, a través de un representante, formen parte de este jurado.
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 15 DE OCTUBRE DE 2012)</small>
+
 ### CAPITULO SEXTO. DE LOS RECONOCIMIENTOS ESPECIALES
 
 «León Guzmán»
 
 ###### Artículo 69.
 
-En cualquier tiempo y a propuesta de personas físicas o morales, o a juicio del Ejecutivo del Estado, se podrá conceder un reconocimiento público especial a las personas con un mérito civil relevante. Estos reconocimientos podrán otorgarse Post-Mortem, en los términos que marca el párrafo segundo del artículo 3 de este reglamento.
+(DEROGADO, G.G. 15 DE OCTUBRE DE 2012)
 
 ###### Artículo 70.
 
-Los reconocimientos especiales constarán de un diploma, firmado por el Ejecutivo del Estado, en el que se expresarán las razones de su otorgamiento, y a consideración del Ejecutivo, podrá hacerse la entrega de numerario; dichos reconocimientos llevarán el nombre del Constituyente León Guzmán.
+(DEROGADO, G.G. 15 DE OCTUBRE DE 2012)
 
 ###### Artículo 71.
 
-El otorgamiento de un reconocimiento especial no inhabilita para obtener alguna de las preseas a las que se refiere el artículo 5 de este reglamento.
+(DEROGADO, G.G. 15 DE OCTUBRE DE 2012)
 
 ###### Artículo 72.
 
-Los reconocimientos especiales serán entregados en ceremonia pública por el Titular del Ejecutivo del Estado.
+(DEROGADO, G.G. 15 DE OCTUBRE DE 2012)
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 31 DE ENERO DE 2012)</small>
 
@@ -582,3 +636,11 @@ PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a las contenidas en el presente Acuerdo.
+
+G.G. 15 DE OCTUBRE DE 2012.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DEL EJECUTIVO DEL ESTADO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DEL MÉRITO CIVIL DEL ESTADO DE MÉXICO".]
+
+PRIMERO.- Publíquese este Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
