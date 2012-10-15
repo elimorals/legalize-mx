@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-18-2008-del-pleno-del-consejo-de-la-60760"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-04-30"
-last_updated: "2012-05-04"
+last_updated: "2012-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60760&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2008-04-16"
 ---
 # ACUERDO GENERAL 18/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, [SE CREA EL CENTRO AUXILIAR DE LA TERCERA REGION, ASI COMO LOS ORGANOS JURISDICCIONALES QUE LO INTEGRARAN EN GUANAJUATO, GUANAJUATO]
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE OCTUBRE DE 2012 EN EL D.O.F., SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 ACUERDO GENERAL 18/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE CREA EL CENTRO AUXILIAR DE LA TERCERA REGIÓN, ASÍ COMO LOS ÓRGANOS JURISDICCIONALES QUE LO INTEGRARÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE OCTUBRE DE 2012.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 30 de abril de 2008.
 
@@ -57,15 +59,17 @@ En consecuencia, con fundamento en los artículos Constitucionales y legales inv
 
 ACUERDO
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 14/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE MAYO DE 2012)</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE OCTUBRE DE 2012 EN EL D.O.F., SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-PRIMERO. CONFORMACION, UBICACION, COMPETENCIA Y DENOMINACION. Se crea el Centro Auxiliar de la Tercera Región, conformado por seis tribunales colegiados de Circuito Auxiliares, dos con residencia en Guanajuato, Guanajuato, dos con sede en Guadalajara Jalisco y dos con residencia en Morelia, Michoacán; siete Tribunales Unitarios de Circuito Auxiliares, cinco con residencia en Guanajuato, Guanajuato, y dos con sede en Guadalajara, Jalisco y, cuatro Juzgados de Distrito Auxiliares, dos con residencia en Guanajuato, Guanajuato y dos con sede en Guadalajara, Jalisco.
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO DECIMOOCTAVO DEL ACUERDO GENERAL 25/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2012)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 14/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE MAYO DE 2012)</small>
+PRIMERO. CONFORMACION, UBICACION, COMPETENCIA Y DENOMINACION. Se crea el Centro Auxiliar de la Tercera Región, conformado por ocho tribunales colegiados de Circuito Auxiliares, dos con residencia en Guanajuato, Guanajuato, cuatro con sede en Guadalajara, Jalisco y dos con residencia en Morelia, Michoacán; siete tribunales unitarios de Circuito Auxiliares, cinco con sede en Guanajuato, Guanajuato y dos con residencia en Guadalajara, Jalisco y, dos Juzgados de Distrito Auxiliares con residencia en Guanajuato, Guanajuato.
+
+> <small>(REFORMADO POR EL PUNTO DECIMOOCTAVO DEL ACUERDO GENERAL 25/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2012)</small>
 
 Todos los órganos jurisdiccionales antes mencionados, tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias, su denominación será la siguiente:
 
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 31/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 30/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2012)</small>
 
 Los tribunales colegiados se denominarán:
 
@@ -81,7 +85,11 @@ Quinto Tribunal Colegiado de Circuito del Centro Auxiliar de la Tercera Región,
 
 Sexto Tribunal Colegiado de Circuito del Centro Auxiliar de la Tercera Región, con residencia en Morelia, Michoacán.
 
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 31/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE OCTUBRE DE 2011)</small>
+Séptimo Tribunal Colegiado de Circuito del Centro Auxiliar de la Tercera Región, con residencia en Guadalajara, Jalisco.
+
+Octavo Tribunal Colegiado de Circuito del Centro Auxiliar de la Tercera Región, con residencia en Guadalajara, Jalisco.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 30/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2012)</small>
 
 Los tribunales unitarios se denominarán:
 
@@ -99,17 +107,13 @@ Sexto Tribunal Unitario de Circuito del Centro Auxiliar de la Tercera Región, c
 
 Séptimo Tribunal Unitario de Circuito del Centro Auxiliar de la Tercera Región, con residencia en Guadalajara, Jalisco.
 
-> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 14/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE MAYO DE 2012)</small>
+> <small>(REFORMADO POR EL PUNTO DECIMOOCTAVO DEL ACUERDO GENERAL 25/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2012)</small>
 
 Los juzgados de distrito se denominarán:
 
 Juzgado Primero de Distrito del Centro Auxiliar de la Tercera Región, con residencia en Guanajuato, Guanajuato.
 
 Juzgado Segundo de Distrito del Centro Auxiliar de la Tercera Región, con residencia en Guanajuato, Guanajuato.
-
-Juzgado Cuarto de Distrito del Centro Auxiliar de la Tercera Región, con residencia en Guadalajara, Jalisco.
-
-Juzgado Quinto de Distrito del Centro Auxiliar de la Tercera Región, con residencia en Guadalajara, Jalisco.
 
 SEGUNDO. INICIO DE FUNCIONES. El Pleno del Consejo de la Judicatura Federal determinará la fecha de inicio de funciones de los órganos jurisdiccionales que integrarán el Centro Auxiliar de la Tercera Región, con residencia en Guanajuato, Guanajuato.
 
@@ -291,19 +295,17 @@ NOVENO. DE LA COMISION. La Comisión de Creación de Nuevos Organos del Consejo 
 
 DECIMO. COMPETENCIA DE LOS DEMAS ORGANOS JURISDICCIONALES. Los juzgados de Distrito y tribunales de Circuito a que se refiere el Acuerdo General 57/2006 del Pleno del Consejo de la Judicatura Federal, conservarán su denominación, residencia y competencia.
 
-> <small>N. DE E. SE SUGIERE CONSULTAR EL ARTÍCULO QUINTO DE MODO ÍNTEGRO EN EL ACUERDO 11/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. EL 12 DE MAYO DE 2011, JUNTO CON SUS REFORMAS.</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 30/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2012)</small>
 
-> <small>(REFORMADO POR EL ÚNICO DEL ACUERDO GENERAL 3172011 DEL PLANO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. DEL 14 DE OCTUBRE DE 2011)</small>
-
-DECIMOPRIMERO. MODIFICACIONES DEL ACUERDO GENERAL 11/2011. Se reforma el punto 3 del apartado QUINTO del Acuerdo General 11/2011 del Pleno del Consejo de la Judicatura Federal, para quedar como sigue:
+DECIMOPRIMERO. MODIFICACIONES DEL ACUERDO GENERAL 17/2012. Se reforma el punto 3 del apartado QUINTO del Acuerdo General 17/2012 del Pleno del Consejo de la Judicatura Federal, para quedar como sigue:
 
 QUINTO. Se contará con:
 
 …
 
-3. El Centro Auxiliar de la Tercera Región, se integrará por seis tribunales colegiados de Circuito Auxiliares, dos con residencia en Guanajuato, Guanajuato, dos con sede en Guadalajara, Jalisco y dos con residencia en Morelia, Michoacán; siete tribunales unitarios de Circuito Auxiliares, cinco con residencia en Guanajuato, Guanajuato y dos con sede en Guadalajara, Jalisco, y seis juzgados de Distrito Auxiliares, tres con residencia en Guanajuato, Guanajuato, dos con sede en Guadalajara, Jalisco, y uno con sede en Uruapan, Michoacán.
+3. El Centro Auxiliar de la Tercera Región, se integrará por ocho tribunales colegiados de Circuito Auxiliares, dos con residencia en Guanajuato, Guanajuato, cuatro con sede en Guadalajara, Jalisco y dos con residencia en Morelia, Michoacán; siete tribunales unitarios de Circuito Auxiliares, cinco con residencia en Guanajuato, Guanajuato y dos con sede en Guadalajara, Jalisco, y cinco juzgados de Distrito Auxiliares, dos con residencia en Guanajuato, Guanajuato, dos con sede en Guadalajara, Jalisco, y uno con sede en Uruapan, Michoacán.
 
-…...
+... .
 
 > <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 12/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE MAYO DE 2011)</small>
 
@@ -380,3 +382,35 @@ SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así c
 TERCERO. La Dirección General de Estadística Judicial y la Dirección General de Tecnologías de la Información determinarán, en el ámbito de su competencia, lo relativo al funcionamiento de la Oficina de Correspondencia Común de los Juzgados de Distrito en el Estado de Guanajuato, con residencia en Irapuato.
 
 CUARTO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 11/2011, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los circuitos en que se divide la república mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales colegiados y unitarios de Circuito y de los juzgados de Distrito. Asimismo, la reforma al Acuerdo General 18/2008, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Auxiliar de la Tercera Región, con residencia en Guanajuato, Guanajuato, así como los órganos jurisdiccionales que lo integrarán.
+
+D.O.F. 15 DE OCTUBRE DE 2012.
+
+ACUERDO GENERAL 30/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO PRIMERO Y DECIMOPRIMERO.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 18/2008, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Auxiliar de la Tercera Región, así como los órganos jurisdiccionales que lo integrarán.
+
+D.O.F. 15 DE OCTUBRE DE 2012.
+
+ACUERDO GENERAL 25/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO DE PRIMERO.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. En virtud de los ajustes de nomenclatura y residencia previstos en el presente acuerdo, las Administraciones Regionales y Delegaciones Administrativas proveerán a los órganos jurisdiccionales respectivos, de los recursos materiales necesarios (sello oficial, directorios, placa conmemorativa del órgano jurisdiccional, papelería, etc.), para que a la brevedad cuenten con ellos.
+
+CUARTO. Los movimientos estadísticos originados con motivo del reparto de expedientes, deberán informarse oportunamente a la Dirección General de Estadística Judicial del Consejo de la Judicatura Federal, remitiendo por separado el reporte estadístico mensual correspondiente.
+
+QUINTO. Los titulares de los órganos jurisdiccionales que cambian de denominación y que se trasforman, deberán colocar en un lugar visible de la puerta de entrada, estrados, reja de prácticas y demás que consideren necesarios del local que cada uno ocupa, letreros tanto para el público como para los que en su caso se encuentren tras las rejas de la ventanilla de prácticas judiciales, que: en atención al Acuerdo General 25/2011, del Pleno del Consejo de la Judicatura Federal, se instruyó la transformación, cambio de denominación y competencia de los juzgados de Distrito en Materia Penal en el Estado de Jalisco, a partir del dieciséis de octubre de dos mil doce, a juzgados de Distrito de Procesos Penales Federales, y de Amparo en Materia Penal, en esta entidad federativa; por lo que cada órgano jurisdiccional especificará a cuál se transforma y si conserva o cambia su domicilio, en éste caso deberá señalar el mismo. La colocación de avisos se hará también en las oficinas de correspondencia común a que se hace mérito.
+
+SEXTO. Se derogan todas las disposiciones emitidas por el Consejo de la Judicatura Federal, que se opongan al presente Acuerdo.
+
+SEPTIMO. La Secretaría Ejecutiva de Administración, instrumentará la división de la Unidad de Notificadores Común a los juzgados de Distrito en Materia Penal en el Estado de Jalisco, para dar servicio a los juzgados de Distrito de Amparo en Materia Penal y de Procesos Penales Federales en el Estado de Jalisco, mencionada en el punto de acuerdo VIGESIMO PRIMERO.
+
+La propia Comisión de Administración determinará la creación de una nueva Unidad de Notificadores Común, su denominación y personal que la integrará.
+
+OCTAVO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar con la debida oportunidad, el texto de la reforma al Acuerdo General 17/2012, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los circuitos en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales colegiados y unitarios de Circuito y de los juzgados de Distrito. Asimismo, la reforma al Acuerdo General 18/2008, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Auxiliar de la Tercera Región, así como los órganos jurisdiccionales que lo integrarán.
