@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-administrativos-del-estado-de-17468"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-07"
-last_updated: "2012-08-24"
+last_updated: "2012-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17468&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE OCTUBRE DE 2012.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 7 de febrero de 1997.
 
@@ -1627,7 +1627,7 @@ IV. De los actos administrativos o fiscales que se relacionen con la resolución
 
 V. De las resoluciones negativas fictas que se configuren por el silencio de las autoridades administrativas y fiscales de carácter estatal o municipal, para dar respuesta a las peticiones de los particulares, en el plazo de 30 días siguientes a su presentación, conforme a las disposiciones de este ordenamiento;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(REFORMADA, G.G. 30 DE AGOSTO DE 2011)</small>
 
@@ -1846,6 +1846,14 @@ Cuando se otorgue la suspensión, se comunicará sin demora a la autoridad deman
 ###### Artículo 255.
 
 La suspensión tendrá por efecto mantener las cosas en el estado en que se encuentren, en tanto concluye el proceso administrativo. No se otorgará la suspensión sino a solicitud de parte, si se sigue perjuicio al interés social, si se contravienen disposiciones de orden público o se deja sin materia el juicio.
+
+> <small>(ADICIONADO, G.G. 15 DE OCTUBRE DE 2012)</small>
+
+La suspensión podrá concederse con efectos restitutorios siempre que proceda el otorgamiento de la medida cautelar genérica, cuando se trate de actos privativos de libertad decretados por autoridad administrativa, cuando se actualicen a favor del particular la apariencia del buen derecho y el peligro en la demora o bien, cuando a criterio del magistrado sea necesario otorgarle estos efectos con el objeto de conservar la materia del litigio o impedir perjuicios irreparables al propio particular.
+
+> <small>(ADICIONADO, G.G. 15 DE OCTUBRE DE 2012)</small>
+
+La suspensión podrá ser revocada o modificada por la sala, en cualquier momento del juicio, previa vista que se conceda a los interesados en un plazo de tres días, si varían las condiciones en las cuales se otorgó.
 
 ###### Artículo 256.
 
@@ -2474,3 +2482,13 @@ DECRETO NÚMERO 493, POR EL QUE SE REFORMAN LOS ARTÍCULOS 200 Y 227 EN SU FRACC
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 15 DE OCTUBRE DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
+
+CUARTO.- El Gobernador y los Ayuntamientos en el ámbito de su esfera administrativa, proveerán el cumplimiento del presente Decreto.
