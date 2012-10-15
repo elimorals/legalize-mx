@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2012-10-11"
+last_updated: "2012-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE OCTUBRE DE 2012.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -191,6 +191,10 @@ XIII. Resolver expresamente todos los puntos propuestos por los interesados o pr
 
 10.- Todo acto administrativo se presumirá válido mientras no haya sido declarada su invalidez, y será eficaz y exigible desde el momento en que la notificación del mismo surta sus efectos, salvo cuando el acto tenga señalada una fecha de vigencia, en cuyo supuesto se estará a la fecha de inicio de dicha vigencia, siempre y cuando haya surtido efectos la notificación respectiva, o cuando haya operado la afirmativa o negativa ficta. Tratándose de actos administrativos por los que se otorguen beneficios a los particulares, éstos podrán exigir su cumplimiento desde la fecha en que se haya emitido el acto o desde aquélla que tenga señalada para iniciar su vigencia.
 
+> <small>(ADICIONADO, G.G. 15 DE OCTUBRE DE 2012)</small>
+
+Todo acto administrativo que se emita para la apertura y funcionamiento de unidades económicas requerirá los documentos y datos que se indiquen en forma expresa en la ley de la materia y los registros estatal y municipal de trámites y servicios.
+
 Se considera que ha operado la afirmativa ficta cuando la autoridad competente haya expedido la certificación respectiva, o no haya dado respuesta a la solicitud de certificación en el plazo a que se refiere el segundo párrafo del artículo 135 del Código de Procedimientos Administrativos del Estado de México, o cuando así lo haya declarado el Tribunal Contencioso Administrativo. Tratándose de la negativa ficta, ésta operará cuando el interesado la haga valer al promover el medio de impugnación correspondiente.
 
 ### CAPITULO TERCERO. De la invalidez de los actos administrativos
@@ -251,39 +255,39 @@ IX. Las demás que se establezcan en las disposiciones aplicables.
 
 La tramitación de esta declaratoria de extinción de los efectos del acto administrativo no otorga derechos al particular, no constituirá recurso alguno y tampoco suspenderá la ejecución del acto.
 
-> <small>(DEROGADO POR ARTICULO DECIMO SEGUNDO TRANSITORIO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
+> <small>(DEROGADO POR ARTÍCULO DÉCIMO SEGUNDO TRANSITORIO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
 
 ## TITULO CUARTO. De la mejora regulatoria
 
-> <small>(DEROGADO POR ARTICULO DECIMO SEGUNDO TRANSITORIO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
+> <small>(DEROGADO POR ARTÍCULO DÉCIMO SEGUNDO TRANSITORIO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
 
 ### CAPITULO PRIMERO. Disposiciones generales
 
 ###### Artículo 1.
 
-17.- (DEROGADO POR ARTICULO DECIMO SEGUNDO TRANSITORIO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 6 DE SEPTIEMBRE DE 2010)
+17.- (DEROGADO POR ARTÍCULO DÉCIMO SEGUNDO TRANSITORIO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 6 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 1.
 
-18.- (DEROGADO POR ARTICULO DECIMO SEGUNDO TRANSITORIO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 6 DE SEPTIEMBRE DE 2010)
+18.- (DEROGADO POR ARTÍCULO DÉCIMO SEGUNDO TRANSITORIO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 6 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 1.
 
-19.- (DEROGADO POR ARTICULO DECIMO SEGUNDO TRANSITORIO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 6 DE SEPTIEMBRE DE 2010)
+19.- (DEROGADO POR ARTÍCULO DÉCIMO SEGUNDO TRANSITORIO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 6 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 1.
 
-20.- (DEROGADO POR ARTICULO DECIMO SEGUNDO TRANSITORIO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 6 DE SEPTIEMBRE DE 2010)
+20.- (DEROGADO POR ARTÍCULO DÉCIMO SEGUNDO TRANSITORIO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 6 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 1.
 
-21.- (DEROGADO POR ARTICULO DECIMO SEGUNDO TRANSITORIO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 6 DE SEPTIEMBRE DE 2010)
+21.- (DEROGADO POR ARTÍCULO DÉCIMO SEGUNDO TRANSITORIO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 6 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 1.
 
-22.- (DEROGADO POR ARTICULO DECIMO SEGUNDO TRANSITORIO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 6 DE SEPTIEMBRE DE 2010)
+22.- (DEROGADO POR ARTÍCULO DÉCIMO SEGUNDO TRANSITORIO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 6 DE SEPTIEMBRE DE 2010)
 
-> <small>(DEROGADO POR ARTICULO DECIMO SEGUNDO TRANSITORIO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
+> <small>(DEROGADO POR ARTÍCULO DÉCIMO SEGUNDO TRANSITORIO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
 
 ### CAPITULO SEGUNDO. Del manifiesto de impacto regulatorio
 
@@ -351,13 +355,13 @@ El personal naval desempeñará los Mandos, cargos y comisiones acordes a su Cue
 
 ###### Artículo 1.
 
-23.- (DEROGADO POR ARTICULO DECIMO SEGUNDO TRANSITORIO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 6 DE SEPTIEMBRE DE 2010)
+23.- (DEROGADO POR ARTÍCULO DÉCIMO SEGUNDO TRANSITORIO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 6 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 1.
 
-24.- (DEROGADO POR ARTICULO DECIMO SEGUNDO TRANSITORIO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 6 DE SEPTIEMBRE DE 2010)
+24.- (DEROGADO POR ARTÍCULO DÉCIMO SEGUNDO TRANSITORIO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 6 DE SEPTIEMBRE DE 2010)
 
-> <small>(DEROGADO POR ARTICULO DECIMO SEGUNDO TRANSITORIO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
+> <small>(DEROGADO POR ARTÍCULO DÉCIMO SEGUNDO TRANSITORIO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
 
 ### CAPITULO TERCERO. De los registros estatal y municipales de trámites
 
@@ -377,19 +381,19 @@ III. Desempeñar los Mandos, cargos y comisiones que se requieran para el cumpli
 
 ###### Artículo 1.
 
-25.- (DEROGADO POR ARTICULO DECIMO SEGUNDO TRANSITORIO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 6 DE SEPTIEMBRE DE 2010)
+25.- (DEROGADO POR ARTÍCULO DÉCIMO SEGUNDO TRANSITORIO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 6 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 1.
 
-26.- (DEROGADO POR ARTICULO DECIMO SEGUNDO TRANSITORIO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 6 DE SEPTIEMBRE DE 2010)
+26.- (DEROGADO POR ARTÍCULO DÉCIMO SEGUNDO TRANSITORIO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 6 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 1.
 
-27.- (DEROGADO POR ARTICULO DECIMO SEGUNDO TRANSITORIO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 6 DE SEPTIEMBRE DE 2010)
+27.- (DEROGADO POR ARTÍCULO DÉCIMO SEGUNDO TRANSITORIO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 6 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 1.
 
-28.- (DEROGADO POR ARTICULO DECIMO SEGUNDO TRANSITORIO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 6 DE SEPTIEMBRE DE 2010)
+28.- (DEROGADO POR ARTÍCULO DÉCIMO SEGUNDO TRANSITORIO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 6 DE SEPTIEMBRE DE 2010)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1885,7 +1889,7 @@ V. Las utilidades, intereses, dividendos, rendimientos de sus bienes, derechos y
 
 Los ingresos de la Comisión, así como los productos e instrumentos financieros autorizados serán destinados y aplicados a las actividades señaladas en los programas aprobados por el consejo.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
 
 ### CAPÍTULO QUINTO. De la Participación en la Prevención y Atención a las Adicciones
 
@@ -3517,17 +3521,17 @@ Los ingresos del Instituto, así como los productos e instrumentos financieros a
 
 ###### Artículo 3.
 
-55.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE LA JUVENTUD DEL ESTADO DE MEXICO, G.G. 31 DE AGOSTO DE 2010)
+55.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE LA JUVENTUD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2010)
 
 ###### Artículo 3.
 
-56.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE LA JUVENTUD DEL ESTADO DE MEXICO, G.G. 31 DE AGOSTO DE 2010)
+56.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE LA JUVENTUD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2010)
 
 ###### Artículo 3.
 
-57.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE LA JUVENTUD DEL ESTADO DE MEXICO, G.G. 31 DE AGOSTO DE 2010)
+57.- (DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE LA JUVENTUD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2010)
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 22 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 22 DE DICIEMBRE DE 2010)</small>
 
 ## TITULO NOVENO. Del mérito civil
 
@@ -3683,7 +3687,7 @@ El derecho al uso de la presea a que se refiere este Capítulo, se extingue por 
 
 66.- Podrán concurrir como triunfadoras varias personas con derecho a presea, cuando así se dictamine, en cuyo caso se distribuirá a partes iguales entre los premiados, la entrega en numerario.
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 6 DE MARZO DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 6 DE MARZO DE 2010)</small>
 
 ###### Artículo 3.
 
@@ -3755,7 +3759,7 @@ Para asegurar el cumplimiento de las disposiciones de este Libro, así como para
 
 76.- Las asociaciones de profesionistas que se ostenten con el carácter de colegios, sin contar con registro de la Secretaría de Educación, Cultura y Bienestar Social, serán sancionadas con multa de cien a mil veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción.
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 10 DE NOVIEMBRE DE 2010)</small>
 
 # LIBRO CUARTO. Del Turismo
 
@@ -3973,7 +3977,7 @@ XII. Las demás que este Libro y otros ordenamientos jurídicos señalen.
 
 ## TITULO TERCERO. Del Fomento del Turismo
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 10 DE NOVIEMBRE DE 2010)</small>
 
 ### CAPITULO SEGUNDO. Del Desarrollo Turístico
 
@@ -3989,7 +3993,7 @@ En todos los casos, la selección de las Zonas de Interés Turístico deberán c
 
 9.- (DEROGADO, G.G. 10 DE NOVIEMBRE DE 2010)
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 10 DE NOVIEMBRE DE 2010)</small>
 
 ## TITULO CUARTO. Clasificación, Ordenamiento y Registro de los Servicios Turísticos
 
@@ -4007,7 +4011,7 @@ En todos los casos, la selección de las Zonas de Interés Turístico deberán c
 
 11.- (DEROGADO, G.G. 10 DE NOVIEMBRE DE 2010)
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 10 DE NOVIEMBRE DE 2010)</small>
 
 ### CAPITULO CUARTO. De la Promoción Turística
 
@@ -4035,7 +4039,7 @@ V. Brindar asesoría en la operación de la actividad turística para que ésta 
 
 VI. Coordinar acciones de verificación de cumplimiento de la norma a los prestadores de servicios turísticos.
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 10 DE NOVIEMBRE DE 2010)</small>
 
 ### CAPITULO PRIMERO. Del Ordenamiento y Clasificación de los Servicios Turísticos
 
@@ -4157,7 +4161,7 @@ Para tal efecto, la Secretaría determinará los servicios turísticos que estar
 
 ## TITULO SEXTO. De los Derechos y Obligaciones de los Prestadores de Servicios Turísticos y de los Turistas
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 10 DE NOVIEMBRE DE 2010)</small>
 
 ### CAPITULO PRIMERO. De los Derechos y Obligaciones de los Prestadores de Servicios Turísticos
 
@@ -4191,7 +4195,7 @@ La Secretaría será la responsable de desarrollar y reglamentar el procedimient
 
 En cualquier caso, la Secretaría tomará siempre en consideración todos los parámetros establecidos en el Artículo 4.1 de turismo sustentable.
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 10 DE NOVIEMBRE DE 2010)</small>
 
 ## TITULO PRIMERO. De las Disposiciones generales
 
@@ -4263,7 +4267,7 @@ La Secretaría será la responsable de desarrollar y reglamentar el procedimient
 
 En cualquier caso, la Secretaría tomará siempre en consideración todos los parámetros establecidos en el artículo 4.3, relacionados con el turismo sustentable, quedando los procedimientos de certificación antes mencionados, sujetos a las disposiciones reglamentarias aplicables en la materia.
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 10 DE NOVIEMBRE DE 2010)</small>
 
 ### CAPITULO SEGUNDO. De las autoridades
 
@@ -7719,7 +7723,7 @@ III. (DEROGADA, G.G. 24 DE AGOSTO DE 2012)
 
 22.- Sólo después de haberse cubierto el importe de las multas, traslado y depósito ante la autoridad competente en su caso, se procederá a la entrega de los vehículos.
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 3 DE MAYO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 3 DE MAYO DE 2006)</small>
 
 ## TITULO PRIMERO. Disposiciones generales
 
@@ -7759,7 +7763,7 @@ III. (DEROGADA, G.G. 24 DE AGOSTO DE 2012)
 
 Se entiende por productor rural la persona física que directa o indirectamente se dedique a la producción de especies vegetales o animales, o quienes agreguen valor a su producción mediante procesos de transformación y comercialización.
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 3 DE MAYO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 3 DE MAYO DE 2006)</small>
 
 ## TITULO TERCERO. Del Sistema Estatal de Información de Desarrollo Agropecuario y Acuícola
 
@@ -7951,7 +7955,7 @@ VI. Los mecanismos de responsabilidad de los productores respecto a la utilizaci
 
 VII. Considerar a quienes no puedan por sí mismos llevar a cabo las inversiones necesarias.
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 3 DE MAYO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 3 DE MAYO DE 2006)</small>
 
 ## TITULO CUARTO. De las infracciones y sanciones
 
@@ -7985,7 +7989,7 @@ I. En caso de la fracción I, el beneficiario deberá devolver los apoyos y est�
 
 II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los apoyos y estímulos recibidos o su equivalente y no podrá ser sujeto de nuevos apoyos o estímulos por un plazo de dos años, contado a partir de la devolución correspondiente.
 
-> <small>(DEROGADO CON LOS TITULOS, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
+> <small>(DEROGADO CON LOS TÍTULOS, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
 ### CAPITULO TERCERO. Del Sistema para el Desarrollo Integral de la Familia del Estado de México
 
@@ -7993,7 +7997,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 # LIBRO DECIMO. Del fomento económico
 
-> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
 ## TITULO SEGUNDO. Del fomento empresarial
 
@@ -8545,7 +8549,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 43.- (DEROGADO POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)
 
-> <small>(ADICIONADO CON LOS CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 # LIBRO DECIMO SEGUNDO. De la obra pública
 
@@ -8841,7 +8845,7 @@ III. Elaborar y aprobar su manual de funcionamiento;
 
 IV. Las demás que establezca el Reglamento respectivo.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 12.
 
@@ -9447,7 +9451,7 @@ La inconformidad administrativa en lo no previsto por este Libro, se substanciar
 
 En contra de la resolución que se dicte en la inconformidad administrativa, así como de los demás actos y resoluciones derivados de los contratos y convenios regulados por este Libro, procede juicio ante el Tribunal de lo Contencioso Administrativo.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 ### CAPITULO DECIMO PRIMERO. De los contratos abiertos
 
@@ -15493,7 +15497,7 @@ Hasta, el treinta y uno de marzo de dos mil once en los Distritos Judiciales de 
 
 Hasta, el treinta de septiembre de dos mil once en los Distritos judiciales de Ecatepec de Morelos, Jilotepec y Valle de Chalco.
 
-CUARTO.·Los artículos 2.134 al 2.140 del Código de Procedimientos Civiles del Estado de México, quedarán derogados en las fechas y términos señalados a continuación:
+CUARTO. Los artículos 2.134 al 2.140 del Código de Procedimientos Civiles del Estado de México, quedarán derogados en las fechas y términos señalados a continuación:
 
 El uno de febrero de dos mil diez en los distritos judiciales de Chalco, Tenango del Valle y Otumba;
 
@@ -16094,3 +16098,13 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del (sic) "Ga
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- La obligatoriedad del Estado de garantizar la educación media superior a quien teniendo la edad típica hubiere concluido la educación básica, se realizará de manera gradual y creciente a partir del ciclo escolar 2013-2014 y hasta lograr la cobertura total a más tardar en el ciclo escolar 2021-2022, con la concurrencia presupuestal de la Federación, y en los términos establecidos en los instrumentos del Sistema Nacional y los Sistemas Estatales de Planeación Democrática para el Desarrollo.
+
+G.G. 15 DE OCTUBRE DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
+
+CUARTO.- El Gobernador y los Ayuntamientos en el ámbito de su esfera administrativa, proveerán el cumplimiento del presente Decreto.
