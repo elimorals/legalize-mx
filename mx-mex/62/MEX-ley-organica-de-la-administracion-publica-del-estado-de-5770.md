@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2012-08-31"
+last_updated: "2012-10-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE OCTUBRE DE 2012.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -110,6 +110,10 @@ Las dependencias del Ejecutivo y los organismos auxiliares a que se refiere el a
 > <small>(ADICIONADO, G.G. 6 DE MARZO DE 2010)</small>
 
 Así mismo, promoverán que sus planes, programas y acciones, sean realizados con perspectiva de género.
+
+> <small>(ADICIONADO, G.G. 15 DE OCTUBRE DE 2012)</small>
+
+De igual forma, deberán implementar un programa permanente, coordinado y continuo de Mejora Regulatoria, conforme a las reglas que establece la ley de la materia.
 
 ###### Artículo 14.
 
@@ -1299,11 +1303,13 @@ XIV.- Supervisar la construcción, conservación, mantenimiento, operación y ad
 
 XV.- Las demás que le señalen otras leyes, reglamentos y disposiciones de observancia general.
 
-> <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 15 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 36.
 
-La Secretaría de Desarrollo Económico es la dependencia encargada de regular, promover y fomentar el desarrollo industrial y comercial del Estado.
+La Secretaría de Desarrollo Económico es la dependencia encargada de regular, promover y fomentar el desarrollo económico del Estado.
+
+> <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2002)</small>
 
 A esta Secretaría le corresponde el despacho de los siguientes asuntos:
 
@@ -1326,6 +1332,10 @@ IV. Asesorar técnicamente a los Ayuntamientos, a los sectores sociales y privad
 > <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2004)</small>
 
 V. Apoyar la creación y desarrollo de agroindustrias en el Estado y fomentar la industrial rural;
+
+> <small>(ADICIONADA, G.G. 15 DE OCTUBRE DE 2012)</small>
+
+V Bis. Desarrollar y coordinar con las dependencias del Ejecutivo, organismos públicos descentralizados y ayuntamientos el Programa de Mejora Regulatoria, a través de la Comisión Estatal de Mejora Regulatoria;
 
 > <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2004)</small>
 
@@ -1455,7 +1465,9 @@ V. Establecer y dictar las bases generales para la realización de auditorías e
 
 VI. Comprobar el cumplimiento por parte de las dependencias, organismos auxiliares y fideicomisos de la administración pública estatal; de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio y fondos y valores de la propiedad o al cuidado del gobierno estatal.
 
-VII. Realizar por sí o a solicitud de parte, auditorías y evaluaciones a las dependencias, organismos auxiliares y fideicomisos de carácter estatal, con el fin de promover la eficacia y transparencia en sus operaciones y verificar de acuerdo con su competencia el cumplimiento de los objetivos contenidos en sus programas.
+> <small>(REFORMADA, G.G. 15 DE OCTUBRE DE 2012)</small>
+
+VII. Realizar por sí o a solicitud de parte, auditorías y evaluaciones a las dependencias, organismos auxiliares y fideicomisos de carácter estatal, con el fin de promover la eficacia y transparencia en sus operaciones y verificar de acuerdo con su competencia el cumplimiento de los objetivos y metas contenidos en sus programas, de manera trimestral a los programas de mejora regulatoria y a la actualización del Registro Estatal de Trámites y Servicios.
 
 VIII. Inspeccionar y vigilar directamente o a través de los órganos de control, que las dependencias, organismos auxiliares y fideicomisos de la administración pública estatal, cumplan con las normas y disposiciones en materia de: sistema de registro y contabilidad, contratación y pago de personal, contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes y demás activos y recursos materiales de la administración pública estatal.
 
@@ -2168,6 +2180,16 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
+
+G.G. 15 DE OCTUBRE DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
+
+CUARTO.- El Gobernador y los Ayuntamientos en el ámbito de su esfera administrativa, proveerán el cumplimiento del presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 158 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LA LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA Y LA LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA”.]
 
