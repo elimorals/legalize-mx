@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-interior-de-la-secretaria-de-hacienda-del-estado-811
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-03-25"
-last_updated: "2012-09-29"
+last_updated: "2012-10-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81128&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE HACIENDA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2012.
 
 Reglamento publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 25 de marzo de 2011.
 
@@ -269,7 +269,9 @@ XVII. Elaborar y proponer al Ejecutivo del Estado, los anteproyectos de modifica
 
 XVIII. Suscribir las credenciales o constancias de identificación del personal autorizado, para la práctica de notificaciones, actuaciones relativas al procedimiento administrativo de ejecución, visitas domiciliarias, inspecciones, verificaciones y auditorias;
 
-XIX. Autorizar y delegar a la Unidad Administrativa correspondiente el embargo precautorio, para asegurar el interés fiscal, cuando a su juicio hubiera peligro de que el obligado se ausente o realice cualquier maniobra tendiente a evadir el cumplimiento de las obligaciones fiscales, así como levantarlo cuando proceda;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2012)</small>
+
+XIX. Autorizar y delegar a la Unidad Administrativa correspondiente el aseguramiento de bienes o la negociación del contribuyente y el embargo precautorio, para asegurar el interés fiscal, cuando a su juicio hubiera peligro de que el obligado se ausente o realice cualquier maniobra tendiente a evadir el cumplimiento de las obligaciones fiscales, así como levantarlo cuando proceda;
 
 XX. Requerir por sí o a través de la Unidad Administrativa correspondiente a los contribuyentes, responsables solidarios y terceros con ellos relacionados, domiciliados en el Estado, para que exhiban y en su caso, proporcionen la documentación fiscal, de acuerdo a lo previsto en los ordenamientos Estatales y Federales de la materia, asimismo, otorgar prórrogas para la presentación de la documentación fiscal requerida para su revisión;
 
@@ -593,7 +595,9 @@ VIII. Requerir y custodiar la garantía del interés fiscal, en términos del C�
 
 IX. Llevar a cabo el embargo por la vía administrativa;
 
-X. Llevar a cabo el embargo precautorio para asegurar el interés fiscal en los casos en que la ley lo señale, así como levantarlo cuando proceda;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2012)</small>
+
+X. Llevar a cabo el aseguramiento de bienes o la negociación del contribuyente y el embargo precautorio para asegurar el interés fiscal en los casos en que la ley lo señale, así como levantarlo cuando proceda;
 
 XI. Aplicar el Procedimiento Administrativo de Ejecución (PAE), para hacer efectivos los créditos fiscales de carácter Estatal o Federal a cargo de los contribuyentes, responsables solidarios y demás obligados;
 
@@ -695,7 +699,9 @@ XII. Ordenar y practicar visitas domiciliarias a los contribuyentes, a fin de ve
 
 XIII. Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados o a contadores públicos autorizados que hayan formulado dictamen o declaratorias para efectos fiscales para que exhiban y, en su caso proporcione (sic) la contabilidad, declaraciones, avisos, datos, otros documentos e informes y en el caso de dichos Contadores, también para que exhiban sus papeles de trabajo, así como recabar de los servidores públicos y de los fedatarios los informes y datos que tengan con motivo de sus funciones todos ellos para proceder a su revisión a fin de comprobar el cumplimiento de las disposiciones legales en las materias señaladas en la Fracción X de este artículo, así como autorizar prorrogas para su presentación. Tratándose de las revisiones previstas en esta fracción, emitir los oficios de observaciones, el de conclusión de la revisión y en su caso el de prórroga de plazo;
 
-XIV. Ordenar y practicar embargo precautorio para asegurar el interés fiscal en los casos en que la Ley señale, así como levantarlo cuando proceda;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2012)</small>
+
+XIV. Ordenar y practicar el aseguramiento de bienes o la negociación del contribuyente y el embargo precautorio para asegurar el interés fiscal en los casos en que la Ley señale, así como levantarlo cuando proceda;
 
 XV. Ordenar y sustentar el Procedimiento Administrativo de Ejecución para hacer efectivos los créditos fiscales que sean determinados en las resoluciones que hubiera notificado esta Dirección General de Auditoría Fiscal y las garantías constituidas para garantizar el crédito fiscal en dichos créditos, inclusive tratándose de fianzas a favor de la federación otorgadas para garantizar obligaciones fiscales a cargo de terceros; ordenar y cobrar los gastos de ejecución y los gastos extraordinarios respecto de los citados créditos; aceptar previa calificación, las garantías que se otorguen para garantizar el interés fiscal en los créditos fiscales cuyo cobro le corresponda registrarlas exigir su ampliación, autorizar su sustitución y cancelarlas, enajenar fuera de remate bienes embargados, así como expedir las credenciales y constancias del personal que autorice para llevar a cabo esas diligencias;
 
@@ -1864,6 +1870,12 @@ SEGUNDO.- Se dejan sin efecto todas las disposiciones de igual o menor jerarquí
 P.O. 29 DE SEPTIEMBRE DE 2012.
 
 DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 15, LA FRACCIÓN XVIII DEL ARTÍCULO 21 Y EL ARTÍCULO 62; SE ADICIONAN EL PUNTO 1.1.1.11 AL ARTÍCULO 4; Y SE DEROGAN EL PUNTO 1.1.1.1 DEL ARTÍCULO 4, EL CAPÍTULO III DEL TÍTULO QUINTO QUE CONTIENE AL ARTÍCULO 17, LA FRACCIÓN X Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 18, TODOS DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE HACIENDA.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se dejan sin efecto todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 15 DE OCTUBRE DE 2012.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
