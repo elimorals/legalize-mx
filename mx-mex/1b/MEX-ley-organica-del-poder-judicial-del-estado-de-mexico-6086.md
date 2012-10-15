@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-judicial-del-estado-de-mexico-6086"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-08"
-last_updated: "2012-05-04"
+last_updated: "2012-10-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MÉXICO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NO. 4 PUBLICADO EN LA G.G. DE 30 DE SEPTIEMBRE DE 2009, EL SISTEMA PROCESAL PENAL ACUSATORIO ADVERSARIAL Y ORAL HA SIDO INCORPORADO EN EL PRESENTE ORDENAMIENTO, Y ENTRARÁ EN VIGOR EN LOS SIGUIENTES PLAZOS Y DISTRITOS: 1) EL PRIMERO DE OCTUBRE DE DOS MIL NUEVE, EN LOS DISTRITOS JUDICIALES DE TOLUCA, LERMA, TENANCINGO Y TENANGO DEL VALLE; 2) EL PRIMERO DE ABRIL DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE CHALCO, OTUMBA Y TEXCOCO; 3) EL PRIMERO DE OCTUBRE DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE NETZAHUALCÓYOTL, EL ORO, IXTLAHUACA, SULTEPEC Y TEMASCALTEPEC; 4) EL PRIMERO DE ABRIL DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE TLALNEPANTLA, CUAUTITLÁN Y ZUMPANGO; 5) EL PRIMERO DE OCTUBRE DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE ECATEPEC DE MORELOS, JILOTEPEC Y VALLE DE BRAVO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE OCTUBRE DE 2012.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 8 de septiembre de 1995.
 
@@ -834,6 +834,14 @@ XV. Nombrar, con el número ordinal que les corresponda, a los secretarios de la
 XVI. Adoptar las providencias necesarias para el eficiente manejo administrativo del Poder Judicial;
 
 XVII. Aprobar el proyecto del presupuesto de egresos del Poder Judicial y acordar su estricta distribución, conforme a las partidas establecidas al efecto;
+
+> <small>(ADICIONADO, G.G. 15 DE OCTUBRE DE 2012)</small>
+
+El Presupuesto de Egresos del Poder Judicial que se apruebe para el ejercicio fiscal anual, no podrá ser menor al porcentaje que represente de los ingresos ordinarios del Estado, correspondiente al año inmediato anterior.
+
+> <small>(ADICIONADO, G.G. 15 DE OCTUBRE DE 2012)</small>
+
+En ningún caso, el presupuesto Anual de Egresos que se apruebe para el Poder Judicial del Estado, podrá ser inferior al 2.0% de los ingresos ordinarios del Estado, para el año fiscal de que se trate. De conformidad con las necesidades del servicio, dicho porcentaje se incrementará anualmente.
 
 XVIII. Ejercer el presupuesto de egresos y el Fondo Auxiliar de la Administración de Justicia con transparencia, eficacia, honradez y con estricto apego a las políticas de disciplina, racionalidad y austeridad;
 
@@ -1861,9 +1869,9 @@ III. El Consejo de la Judicatura ordenará la práctica de las auditorías inter
 
 Los productos y los rendimientos del fondo auxiliar, se aplicarán a los siguientes conceptos:
 
-I. Adquisición, construcción o remodelación de inmuebles, para el establecimiento de salas, juzgados u oficinas del tribunal, no consideradas en el presupuesto del Poder Judicial;
+I. Adquisición, construcción o remodelación de inmuebles, para el establecimiento de salas, juzgados y oficinas del tribunal, no consideradas en el presupuesto del Poder Judicial;
 
-II. Compra del mobiliario y equipo que se requiera en las salas, juzgados y oficinas, o de libros para la biblioteca del Poder Judicial;
+II. Compra del mobiliario y equipo que se requiera en las salas, juzgados u oficinas, o de libros para la biblioteca del Poder Judicial;
 
 III. Pago de rentas de locales para las salas, juzgados y oficinas cuyo gasto no esté considerado en su presupuesto;
 
@@ -2868,6 +2876,12 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 G.G. 4 DE MAYO DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 15 DE OCTUBRE DE 2012.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
