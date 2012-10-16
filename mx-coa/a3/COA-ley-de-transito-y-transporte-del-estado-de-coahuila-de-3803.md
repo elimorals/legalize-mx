@@ -4,7 +4,7 @@ identifier: "COA-ley-de-transito-y-transporte-del-estado-de-coahuila-de-3803"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-19"
-last_updated: "2010-09-14"
+last_updated: "2012-10-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3803&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COA"
 ---
 # LEY DE TRANSITO Y TRANSPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-LEY DE TRANSITO Y TRANSPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA
+LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 19 de enero de 1996.
 
@@ -189,7 +189,7 @@ Las licencias a que se refiere el artículo anterior se expedirán para las clas
 
 Las licencias de conducir tendrán una vigencia de dos años y, en su caso, podrán ser renovadas a solicitud del interesado, previa la observancia de los requisitos previstos por esta Ley, su Reglamento y demás disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 17.
 
@@ -413,7 +413,7 @@ IX.- Servicio de grúas o remolques, el servicio que tiene por finalidad transpo
 
 X.- Servicio de carga especializada, aquel que se presta en vehículos que, por las características o condiciones de la carga que transportan, deben contar con el equipo adicional que a juicio de la Secretaría se requiera para garantizar la seguridad de las personas y sus bienes, no estando sujeto a itinerario, horario ni tarifa.
 
-Quedan incluidos en este servicio el transporte de materiales a granel, explosivos, materiales inflamables, productos químicos, elementos radioactivos y otros de semejante naturaleza; y
+Quedan incluidos en este servicio el transporte de materiales a granel, explosivos, materiales inflamables, productos químicos, elementos radioactivos y otros de semejante naturaleza; y (sic)
 
 XI.- Servicio de transporte mixto, el que se presta para transportar personas o pequeña carga en el mismo vehículo, el cual debe acondicionarse con compartimiento para los pasajeros, para el equipaje y la carga; este servicio deberá tener itinerario y horario determinado, pero tarifa únicamente para el transporte de pasajeros.
 
@@ -485,7 +485,7 @@ Se requerirá permiso para el servicio de turismo, el transporte especializado e
 
 Por cada concesión o permiso sólo se autorizará la explotación de un vehículo. La autoridad competente expedirá una tarjeta de identificación que contendrá los datos de la concesión, así como del vehículo y deberá portarse en lugar visible.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 52.
 
@@ -551,7 +551,7 @@ Las personas físicas deberán acompañar a la solicitud copias del acta de naci
 
 La Secretaría y, en su caso, los Ayuntamientos, en la esfera de su competencia, revisarán y verificarán, tratándose de la solicitud presentada por personas morales, que el objeto de la sociedad mercantil sea acorde con la concesión que se solicita y que las estipulaciones en el instrumento de su constitución no contraríen las disposiciones de la presente Ley, su Reglamento y demás aplicables. En caso de que se percaten de alguna contravención rechazarán la solicitud fundamentando y motivando la negativa.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 60.
 
@@ -583,7 +583,7 @@ c).- Fecha de iniciación de servicios;
 
 d).- Plazo de presentación de las propuestas;
 
-e).- Fecha, hora y lugar de celebración del acto de apertura de proposiciones; y
+e).- Fecha, hora y lugar de celebración del acto de apertura de proposiciones; y (sic)
 
 > <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
@@ -641,7 +641,7 @@ Las unidades de transporte que se utilicen para el servicio público de pasajero
 
 Las concesiones del servicio público de transporte se otorgarán por el término de treinta años, prorrogables cada treinta años, siempre que el concesionario demuestre haber cumplido con todas las obligaciones que esta Ley y su Reglamento le señalen y acredite que satisface los requisitos y condiciones que estos ordenamientos establecen para seguir con la prestación del servicio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 65.
 
@@ -661,7 +661,7 @@ El monto de la caución será fijado por las autoridades competentes de conformi
 
 Los concesionarios del transporte público de pasajeros deberán, dentro del plazo a que se refiere el artículo anterior, contratar seguros de viajero con compañía autorizadas (sic) legalmente para tal fin y/o pertenecer a un fondo de contingencia o fideicomiso constituido por concesionarios o permisionarios, conforme a lo establecido por esta ley, su reglamento y demás disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 67.
 
@@ -683,7 +683,7 @@ Los derechos obtenidos a través de la concesión o permiso sólo podrán ceders
 
 El adjudicatario de una concesión o permiso no podrá explotarlos si no cumple con los requisitos que para tal efecto establecen en esta Ley, su Reglamento y demás disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 70.
 
@@ -843,7 +843,7 @@ IV.- Responder ante la autoridad Estatal o Municipal competente, de las faltas o
 
 V.- Contar con las medidas de seguridad que determinen las autoridades correspondientes;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
 VI.- Adquirir seguros que amparen a los pasajeros y su equipaje, la carga, la propia unidad, así como la reparación de los daños que se pudieran ocasionar a terceros en su persona o bienes, con compañías aseguradoras legalmente autorizadas para tal fin y/o pertenecer a un fondo de contingencia o fideicomiso constituido por concesionarios y permisionarios, conforme a lo establecido por esta Ley, su reglamento y demás disposiciones aplicables.
 
@@ -881,7 +881,7 @@ XV.- Las demás que les señale esta Ley, su Reglamento y otras disposiciones ap
 
 En caso de que los concesionarios o permisionarios no cumplan con las obligaciones a su cargo, se harán acreedores a las sanciones señaladas en la presente Ley, su Reglamento y demás disposiciones aplicables, sin perjuicio de la responsabilidad penal o civil en que pudieren incurrir.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 84.
 
@@ -1023,7 +1023,7 @@ II.- La devolución de cualquier cantidad del precio cobrado cuando aquélla tie
 
 III.- La expedición de boletos que autoricen la prestación gratuita del servicio, así como los de cortesía, excepto aquellos que se determinen por acuerdo de las autoridades competentes y los prestadores del servicio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 101.
 
@@ -1031,7 +1031,7 @@ Los niños menores de cinco años no pagarán tarifa alguna y los estudiantes de
 
 Fuera de los supuestos a que se refiere esta Ley, las tarifas se aplicarán uniformemente a todas las personas que hagan uso de los vehículos destinados al servicio público del transporte de pasajeros.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 102.
 
@@ -1145,7 +1145,7 @@ Los inspectores que, en el ejercicio de sus atribuciones, reciban gratificacione
 
 Las autoridades a que se refiere esta Ley no podrán solicitar el otorgamiento de concesiones o permisos durante el término de su cargo, ni durante el año siguiente a la separación del mismo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
 ### CAPITULO DECIMO TERCERO. DE LAS INFRACCIONES Y SANCIONES
 
@@ -1153,7 +1153,7 @@ Las autoridades a que se refiere esta Ley no podrán solicitar el otorgamiento d
 
 Se crea el Consejo Estatal de Transporte como órgano de carácter interinstitucional de consulta, auxiliar del titular del Poder Ejecutivo, que tiene por objeto diagnosticar, estudiar y analizar la problemática en materia de tránsito y transporte, así como emitir las recomendaciones que, para su mejoramiento, estime procedentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 116.
 
@@ -1177,7 +1177,7 @@ Cada uno de los miembros contará con un suplente designado por él mismo.
 
 Los cargos de los miembros del Consejo serán honoríficos, por lo que no percibirán remuneración alguna.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 117.
 
@@ -1325,9 +1325,27 @@ VI.- Llevar a cabo bloques, paros y, en general, cualquier acto que obstruya o a
 
 > <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
-VII.- Las agresiones físicas y verbales y cualquier otro acto que atente con la integridad de los usuarios y de las autoridades del transporte público, y
+VII.- Las agresiones físicas y verbales y cualquier otro acto que atente con la integridad de los usuarios y de las autoridades del transporte público, y (sic)
 
-VIII.- Las demás previstas en la presente Ley, su Reglamento y otras disposiciones aplicables.
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2012)</small>
+
+VIII.- Utilizar sirenas, torretas u otros accesorios sin tener la calidad de vehículo de emergencia;
+
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2012)</small>
+
+IX.- Ejecutar servicios distintos a los autorizados en los permisos de transporte de uso particular, conforme lo establecido en los artículos 41 y 42 de la presente Ley;
+
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2012)</small>
+
+X.- Conducir un vehículo de servicio público de transporte sin la licencia respectiva, permiso de circulación provisional y/o tarjeta de circulación; o bien, que éstos muestren un grado de deterioro tal, que los haga ilegibles;
+
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2012)</small>
+
+XI.- Circular en condiciones mecánicas que constituyan un peligro tanto para las personas como para la vía pública; y
+
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2012)</small>
+
+XII.- Impedir el acceso sin costo al servicio público de transporte a los servidores públicos descritos en el artículo 102 de la presente Ley.
 
 ###### ARTICULO 127.
 
@@ -1345,9 +1363,11 @@ Los supuestos previstos en las fracciones IV, V, VI y VII del artículo 126 de e
 
 En el caso de la fracción V y VI además de la multa a que se refiere el párrafo anterior, se procederá a la cancelación definitiva de la concesión o permiso correspondiente.
 
-###### ARTICULO 130.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE OCTUBRE DE 2012)</small>
 
-Cualquier infracción cometida por los concesionarios o permisionarios cuya sanción no esté específicamente prevista por esta Ley, se homologará a las señaladas en los artículos anteriores.
+###### ARTÍCULO 130.
+
+Los casos referidos en las fracciones, X, XI y XII del artículo 126 de esta Ley, se sancionarán con multa de 5 hasta 10 veces el salario mínimo diario vigente en el Estado. En el caso de las fracciones VIII y IX del mismo artículo 126, la sanción será multa de 50 hasta 200 veces el salario mínimo diario vigente en el Estado.
 
 En caso de reincidencia se duplicará la multa. Para los efectos de esta Ley, se entiende por reincidencia la comisión de las infracciones previstas en la misma en dos ocasiones o más, en un plazo de tres meses.
 
@@ -1465,7 +1485,7 @@ EL SECRETARIO DE COMUNICACIONES Y OBRAS PUBLICAS
 
 LIC. ANTONIO KARAM MACCISE
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 26 DE DICIEMBRE DE 1997.
 
@@ -1532,3 +1552,9 @@ SEGUNDO.- En un plazo no mayor de ciento ochenta días hábiles, deberán expedi
 TERCERO.- Para los efectos del artículo 19, las licencias de manejo expedidas con anterioridad a la vigencia del presente decreto, serán válidas por el tiempo que fueron otorgadas.
 
 CUARTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 16 DE OCTUBRE DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
