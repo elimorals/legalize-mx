@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-21296"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2012-07-31"
+last_updated: "2012-10-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL PRIMERO Y SEGUNDO TRANSITORIOS DEL CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ, PUBLICADO EN EL P.O. DE 16 DE OCTUBRE DE 2012, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO EL UNO DE MARZO DEL AÑO DOS MIL CATORCE.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2012.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -4217,7 +4219,7 @@ c) El Director del Centro de Readaptación Social para Menores, "Profesor Angel 
 
 Las medidas impuestas, tanto las de internamiento, como las de externación, serán adecuadas por el Juez de Ejecución.
 
-d) Si las autoridades del Consejo Tutelar par Menores del Estado tuvieren detenidos a menores de catorce años, ordenarán su inmediata libertad. Los nuevos órganos y autoridades proseguirán con el trámite del procedimiento, de acuerdo con las reglas de la Ley de Justicia para Menores del Estado de San Luis Potosí, salvo en los aspectos en que resulte más benéfica para el menor, la aplicación de la ley que se abroga.
+d) Si las autoridades del Consejo Tutelar para Menores del Estado tuvieren detenidos a menores de catorce años, ordenarán su inmediata libertad. Los nuevos órganos y autoridades proseguirán con el trámite del procedimiento, de acuerdo con las reglas de la Ley de Justicia para Menores del Estado de San Luis Potosí, salvo en los aspectos en que resulte más benéfica para el menor, la aplicación de la ley que se abroga.
 
 P.O. 10 DE MARZO DE 2007.
 
@@ -4540,3 +4542,17 @@ PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. El Ejecutivo del Estado expedirá en ciento veinte días los reglamentos a que se refiere este Decreto; y adecuará aquellos que así lo requieran.
+
+P.O. 16 DE OCTUBRE DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor el uno de marzo del año dos mil catorce, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Al entrar en vigor el presente ordenamiento, se abroga el Código Penal del Estado de San Luis Potosí, publicado en el Periódico Oficial el Estado en el Decreto 571, el treinta de septiembre del año dos mil.
+
+TERCERO. El Código abrogado y los anteriores seguirán aplicándose para los hechos u omisiones ejecutados durante su vigencia, a menos que, conforme al presente Código, hayan dejado de considerarse como delitos o que este ordenamiento resulte más favorable. Así mismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos.
+
+CUARTO. Quedan vigentes las disposiciones de carácter penal contenidas en leyes especiales, en todo lo que no esté previsto en este Código.
+
+QUINTO. En los lugares en que se aplique el sistema procesal penal acusatorio, de conformidad con el artículo transitorio segundo del decreto de reforma constitucional publicado del (sic) dieciocho de junio de dos mil ocho, se aplicarán las reglas previstas para la investigación de los delitos objeto de la (sic) presente Código.
+
+SEXTO. Los poderes, Ejecutivo; y Judicial del Estado expedirán los reglamentos necesarios para la implementación de las disposiciones del presente Decreto, en un plazo de noventa días a partir de la entrada en vigor del mismo.
