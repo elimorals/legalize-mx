@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2012-10-13"
+last_updated: "2012-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -1463,13 +1463,9 @@ Se excluye de responsabilidad a quien con motivo de prestar servicios periciales
 
 ### CAPITULO IV. Prostitución Infantil
 
-> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2012)</small>
 
-Art. 142 F. A quien, a cambio de cualquier prestación en dinero, especie o servicios, tenga relaciones sexuales u obtenga la realización de cualquier acto erótico sexual con persona menor de dieciocho años de edad o quien no tenga capacidad para comprender el significado del hecho, se le aplicarán las siguientes sanciones:
-
-I. De dos a cuatro años de prisión y multa por el equivalente de cien a doscientos días de salario mínimo, cuando la víctima sea menor de dieciocho años pero mayor de quince, siendo este hecho del conocimiento del activo; y
-
-II. De cuatro a siete años de prisión, y multa por el equivalente de doscientos a quinientos días de salario mínimo, cuando la víctima sea menor de dieciocho años de edad o con quien no tengan capacidad para comprender el significado del hecho.
+Art. 142 F. Se impondrán de cuatro a siete años de prisión, y multa por el equivalente de doscientos a quinientos días de salario mínimo, a quien, a cambio de cualquier prestación en dinero, especie o servicios, tenga relaciones sexuales u obtenga la realización de cualquier acto erótico sexual con persona menor de dieciocho años de edad o quien no tenga capacidad para comprender el significado del hecho.
 
 > <small>(ADICIONADO, P.O. 30 DE ENERO DE 2007)</small>
 
@@ -4924,5 +4920,9 @@ P.O. 9 DE OCTUBRE DE 2012.
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 13 DE OCTUBRE DE 2012.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 16 DE OCTUBRE DE 2012.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
