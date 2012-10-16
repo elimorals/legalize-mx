@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-penales-para-el-estado-de-san-luis-181
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2012-09-15"
+last_updated: "2012-10-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18105&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO, SEGUNDO, TERCERO Y CUARTO TRANSITORIOS, EL PRESENTE ORDENAMIENTO SE SEGUIRÁ APLICANDO HASTA EN TANTO SEAN APLICABLES EN TODO EL TERRITORIO DEL ESTADO LAS DISPOSICIONES DEL CÓDIGO PROCESAL PENAL QUE SE EXPIDIÓ A TRAVÉS DEL DECRETO 1156 PUBLICADO EN LA EDICIÓN EXTRAORDINARIA DEL P.O. DE 16 DE OCTUBRE DE 2012.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2012.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -4044,3 +4046,27 @@ P.O. 15 DE SEPTIEMBRE DE 2012.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
 
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+P.O. 16 DE OCTUBRE DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor el uno de marzo del dos mil catorce, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Poder Legislativo del Estado de San Luis Potosí, emitirá a más a tardar el treinta de septiembre del año dos mil doce, Declaratoria que se publicará en los órganos de difusión oficiales, en la que señale expresamente que el sistema procesal penal acusatorio ha sido incorporado en el ordenamiento respectivo y, en consecuencia, que las garantías que consagra la Constitución Política de los Estados Unidos Mexicanos empezarán a regular la forma y términos en que se substanciarán los procedimientos penales. Esto con apego a lo que establece el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el día dieciocho de junio del año dos mil ocho.
+
+TERCERO. Las disposiciones del presente Decreto se aplicarán gradualmente en cada una de las zonas del Estado, iniciando en la del altiplano, con el Segundo Distrito Judicial que comprende los municipios de Matehuala, Catorce, Villa de la Paz, Villa de Guadalupe y Cedral, con residencia en la cabecera Municipal de Matehuala; continuando con el Décimo Distrito Judicial que comprende Guadalcázar, Villa Hidalgo y Villa de Arista, con residencia en la cabecera Municipal de Guadalcázar; concluyendo con el Décimo Primero Distrito Judicial que comprende los municipios de Venado, Moctezuma, Charcas y Santo Domingo, con residencia en la cabecera municipal de Venado; posteriormente, el Poder Ejecutivo, a través de la Procuraduría General de Justicia del Estado, en coordinación con el Consejo de la Judicatura y la opinión del Supremo Tribunal de Justicia establecerán las Zonas y los Distritos Judiciales en que se implementará el sistema de justicia penal acusatorio.
+
+CUARTO. Para los efectos de la transición del sistema penal actual al sistema penal acusatorio, seguirá aplicándose el Código de Procedimientos para el Estado de San Luis Potosí, publicado en el Periódico Oficial del Estado, en el Decreto 572, el treinta de septiembre del año dos mil, hasta en tanto sean aplicables en todo el territorio del Estado las disposiciones del Código que se expide a través de este Decreto, y además se concluyan todos los procesos iniciados antes de la entrada en vigor del mismo en la zona o distrito judicial respectivos.
+
+QUINTO. Los procesos iniciados con anterioridad a la entrada en vigor de este Decreto que se encuentren en trámite, deberán ser desahogados y concluidos de acuerdo a las normas y procedimientos establecidos en el Código de Procedimientos Penales para el Estado de San Luis Potosí, publicado en el Periódico Oficial del Estado, en el Decreto 572, el treinta de septiembre del año dos mil.
+
+SEXTO. Los hechos delictuosos de carácter permanente o continuado, que iniciaron bajo la vigencia del Código de Procedimientos Penales para el Estado de San Luis Potosí, publicado en el Periódico Oficial del Estado, en el Decreto 572, el treinta de septiembre del año dos mil, y cuya comisión continúe en la Zona o Distrito Judicial, en el que se esté aplicando el Código que se expide con el presente Decreto, estarán sujetos a las disposiciones de este último.
+
+SÉPTIMO. Será improcedente la acumulación, investigaciones o procesos sobre hechos delictuosos, cuando alguno de ellos esté sometido a las disposiciones de este Código y algún otro hecho lo esté al Código de Procedimientos Penales para el Estado de San Luis Potosí, publicado en el Periódico Oficial del Estado, en el Decreto 572, el treinta de septiembre del año dos mil.
+
+OCTAVO. La ejecución de las sentencias que se dicten de acuerdo a lo establecido en el Código de Procedimientos Penales para el Estado de San Luis Potosí, publicado en el Periódico Oficial del Estado, en el Decreto 572, el treinta de septiembre del año dos mil, y el Código que con este Decreto se expide, se sujetarán al procedimiento que en este último se establezca.
+
+NOVENO. El Código que se expide en este Decreto será de aplicación supletoria, respecto a lo no previsto en la Ley de Justicia para Menores del Estado de San Luis Potosí, una vez que entre en vigor.
+
+DÉCIMO. El Congreso del Estado, con base en el presupuesto de egresos que remitan los poderes, Ejecutivo; y Judicial, deberá destinar una partida en el presupuesto de egresos del año dos mil trece, y en los sucesivos, cuyos recursos se apliquen en la implementación del sistema de justicia penal. Este presupuesto deberá destinarse al diseño de las reformas legales, los cambios organizacionales, la construcción y operación de la infraestructura, y la capacitación necesarias para jueces, agentes del Ministerio Público, policías, defensores, peritos y abogados, en los términos del Artículo Octavo Transitorio del Decreto publicado en el Diario Oficial de la Federación, el dieciocho de junio del dos mil ocho.
+
+DÉCIMO PRIMERO. Los poderes, Ejecutivo; y Judicial, según corresponda, además de las facultades que expresamente les confiere el Código que con este Decreto se expide, y otros ordenamientos aplicables, emitirán los reglamentos, manuales, acuerdos generales, lineamientos, y demás normatividad que sea necesaria para la correcta implementación y funcionamiento del sistema penal acusatorio. De igual manera, en el ámbito de su competencia los Ayuntamientos del Estado, formularán los ordenamientos legales para los efectos expresados.
