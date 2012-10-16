@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-85674"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-02-03"
-last_updated: "2012-07-12"
+last_updated: "2012-10-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85674&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-01-26"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE OCTUBRE DE 2012.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de febrero de 2012.
 
@@ -211,13 +211,21 @@ XV. Instruir al Secretario Ejecutivo de Vigilancia, Información y Evaluación p
 
 XVI. Suscribir los nombramientos de los servidores públicos comprendidos en los niveles 2 al 9 del Catálogo General de Puestos;
 
-> <small>(REFORMADA, D.O.F. 12 DE JULIO DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2012)</small>
 
-XVII. Firmar las credenciales que acrediten al personal del Poder Judicial de la Federación, de los niveles 2 al 7 del Tabulador de Puestos; y
+XVII. Firmar las credenciales que acrediten al personal del Poder Judicial de la Federación, de los niveles 2 al 7 del Tabulador de Puestos;
 
-> <small>(ADICIONADA, D.O.F. 12 DE JULIO DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2012)</small>
 
-XVIII. Las demás que establezca el Pleno, mediante acuerdos generales.
+XVIII. Definir, por conducto del Secretario General de la Presidencia, las directrices de los programas en materia de derechos humanos, equidad de género y asuntos internacionales;
+
+> <small>(ADICIONADA, D.O.F. 16 DE OCTUBRE DE 2012)</small>
+
+XIX. Determinar, por conducto del Secretario General de la Presidencia, las acciones del Consejo en materia de derechos humanos, equidad de género y asuntos internacionales; y
+
+> <small>(ADICIONADA, D.O.F. 16 DE OCTUBRE DE 2012)</small>
+
+XX. Las demás que establezca el Pleno mediante Acuerdos Generales.
 
 ###### Artículo 18.
 
@@ -273,13 +281,17 @@ XX. Someter al Pleno, por conducto de la Secretaría Ejecutiva del Pleno, inicia
 
 XXI. Ordenar que les sea entregada cualquier información elaborada, recopilada, resguardada o investigada por cualquiera de las áreas administrativas;
 
-> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2012)</small>
 
-XXII. Dirigir y supervisar las funciones de la Unidad de Enlace Legislativo, en aquellos casos en que sean designados por el Pleno; y
+XXII. Dirigir y supervisar las funciones de la Unidad de Enlace Legislativo, en aquellos casos en que sean designados por el Pleno;
 
-> <small>(ADICIONADA, D.O.F. 25 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2012)</small>
 
-XXIII. Las demás que establezcan la Ley; este Acuerdo; y los acuerdos plenarios.
+XXIII. Auxiliar al Presidente en el ejercicio de las atribuciones que le corresponden en materia de derechos humanos, equidad de género y asuntos internacionales; y
+
+> <small>(ADICIONADA, D.O.F. 16 DE OCTUBRE DE 2012)</small>
+
+XXIV. Las demás que establezcan la Ley, este Acuerdo y los acuerdos plenarios.
 
 ### Capítulo IV. De las Comisiones y Comités
 
@@ -477,7 +489,9 @@ XIV. Proponer las medidas administrativas que exija el buen servicio de las ofic
 
 XV. Aprobar, en su caso, los nombramientos que le remitan las áreas administrativas;
 
-XVI. Opinar sobre las propuestas de nombramientos de los directores generales adscritos a las Secretarías Ejecutivas de Administración; de Finanzas, y de Obra, Recursos Materiales y Servicios Generales;
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2012)</small>
+
+XVI. Opinar sobre las propuestas de nombramiento de los directores generales adscritos a la Secretaría Ejecutiva de Administración;
 
 XVII. Designar, a propuesta del Presidente, al representante del Consejo en los procesos que se substancien ante la Suprema Corte de Justicia de la Nación, de acuerdo a la fracción XX del artículo 11 de la Ley;
 
@@ -521,9 +535,11 @@ XXXIV. Autorizar las adecuaciones al presupuesto, de conformidad con lo establec
 
 XXXV. Las demás que establezcan la Ley, el Pleno, y el presente Acuerdo.
 
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 40.
 
-La Oficialía Mayor estará adscrita a la Comisión de Administración.
+La Oficialía Mayor y la Dirección General de Gestión Administrativa estarán adscritas a la Comisión de Administración.
 
 Sección 4a.
 
@@ -765,7 +781,7 @@ I. Técnico del Fondo de Apoyo para la Administración de Justicia;
 
 II. De Acuerdos, Reglamentos e Iniciativas;
 
-III. De Derechos Humanos, Equidad de Género y Asuntos Internacionales; y
+III. (DEROGADA, D.O.F. 16 DE OCTUBRE DE 2012)
 
 IV. Los demás que determine el Pleno.
 
@@ -783,7 +799,9 @@ Generalidades
 
 Al frente de la Oficialía Mayor, de la Secretaría General de la Presidencia, de cada una de las secretarías ejecutivas, de las coordinaciones y de la Unidad de Implementación de las Reformas Penal, de Juicio de Amparo y Derechos Humanos en el Poder Judicial de la Federación, estará un Titular, quienes deberán tener experiencia profesional mínima de cinco años; contar con título profesional, expedido legalmente, afín a las funciones que deban desempeñar; gozar de buena reputación; y no haber sido condenados por delito doloso con sanción privativa de libertad mayor de un año.
 
-En el caso de los Secretarios Ejecutivos del Pleno, de Carrera Judicial, Adscripción y Creación de Nuevos Organos, y de Disciplina, el título profesional deberá ser de Licenciado en Derecho. Tratándose de los titulares de la Oficialía Mayor, de la Secretaría General de la Presidencia, las Secretarías Ejecutivas de Administración; de Finanzas; de Obra, Recursos Materiales y Servicios Generales; de Vigilancia, Información y Evaluación, de los coordinadores y del Titular de la Unidad de Implementación de las Reformas Penal, de Juicio de Amparo y Derechos Humanos en el Poder Judicial de la Federación, el título deberá estar relacionado con sus funciones.
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2012)</small>
+
+En el caso de los Secretarios Ejecutivos del Pleno, de Carrera Judicial, Adscripción y Creación de Nuevos Organos, y de Disciplina, el título profesional deberá ser de Licenciado en Derecho. Tratándose de los titulares de la Oficialía Mayor, de la Secretaría General de la Presidencia, las Secretarías Ejecutivas de Administración; de Vigilancia, Información y Evaluación; de los coordinadores y del Titular de la Unidad de Implementación de las Reformas Penal, de Juicio de Amparo y Derechos Humanos en el Poder Judicial de la Federación, el título deberá estar relacionado con sus funciones.
 
 ###### Artículo 53.
 
@@ -871,7 +889,9 @@ VII. Coordinar la elaboración de manuales de organización y procedimiento inte
 
 VIII. Proponer a la Comisión de Administración procedimientos de sistemas de recursos materiales, servicios generales, arrendamiento y obra pública, y en su caso instrumentarlos en la forma y términos que establezca la normatividad aplicable;
 
-IX. Acordar con los titulares de las unidades administrativas que le estén adscritas;
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2012)</small>
+
+IX. Acordar con los Titulares de las unidades administrativas que sean de su adscripción y, en su caso, autorizarles proporcionar información a las demás instancias del Poder Judicial de la Federación, cuando así se los requieran, con excepción de lo establecido en los artículos 19, fracción XXI, y 60 fracción XI, del presente acuerdo, delegándoles, en su caso la facultad de firma en los actos administrativos que considere procedentes a los titulares de dichas unidades, conforme a las disposiciones legales y administrativas aplicables;
 
 X. Celebrar, otorgar, suscribir y ejecutar los actos jurídicos de su competencia, conforme a la normatividad aplicable;
 
@@ -921,31 +941,25 @@ XXII. Coordinar la elaboración de las políticas generales en materia de tecnol
 
 XXIII. Las demás que establezcan la normatividad aplicable, el Pleno, y la Comisión de Administración.
 
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 58.
 
 Para el desempeño de sus atribuciones la Oficialía Mayor contará con las siguientes unidades administrativas:
 
 I. Secretaría Ejecutiva de Administración;
 
-II. Secretaría Ejecutiva de Obra, Recursos Materiales y Servicios Generales;
+II. Dirección General de Programación y Presupuesto;
 
-III. Secretaría Ejecutiva de Finanzas;
+III. Dirección General de Tesorería;
 
 IV. Coordinación de Administración Regional;
 
-> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2012)</small>
-
 V. Dirección General de Tecnologías de la Información;
-
-> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2012)</small>
 
 VI. Dirección General de Innovación, Planeación y Desarrollo Institucional;
 
-> <small>(ADICIONADA, D.O.F. 25 DE MAYO DE 2012)</small>
-
 VII. Dirección General de Estadística Judicial; y
-
-> <small>(ADICIONADA, D.O.F. 25 DE MAYO DE 2012)</small>
 
 VIII. Las demás que determine el Pleno.
 
@@ -991,9 +1005,13 @@ XIV. (DEROGADA, D.O.F. 25 DE MAYO DE 2012)
 
 XV. Coordinar la presentación de las políticas de información, difusión y comunicación social del Poder Judicial de la Federación a la Comisión de Vigilancia, Información y Evaluación, y vigilar su ejecución;
 
-XVI. (DEROGADA, D.O.F. 25 DE MAYO DE 2012)
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 16 DE OCTUBRE DE 2012)</small>
 
-XVII. (DEROGADA, D.O.F. 25 DE MAYO DE 2012)
+XVI. Proponer al Pleno los programas relativos a la capacitación, promoción, fomento y defensa de los derechos humanos y, al Presidente las acciones conducentes en la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 16 DE OCTUBRE DE 2012)</small>
+
+XVII. Proponer al Pleno los programas respecto a la capacitación y transversalidad de la perspectiva de género y al Presidente, las acciones conducentes en la materia;
 
 XVIII. (DEROGADA, D.O.F. 25 DE MAYO DE 2012)
 
@@ -1015,11 +1033,13 @@ XXVI. Presidir los Comités integrados por las áreas administrativas que corres
 
 XXVII. Coordinar la elaboración de la propuesta del programa de producción de radio y televisión del Poder Judicial de la Federación, y someterlas a la consideración de la Comisión de Vigilancia, Información y Evaluación;
 
-> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2012)</small>
 
-XXVIII. Coordinarse con el Oficial Mayor y con los Titulares de las Secretarías Ejecutivas del Pleno; Carrera Judicial, Adscripción y Creación de Nuevos Organos; Disciplina; y de Vigilancia, Información y Evaluación, así como con la Dirección General de Derechos Humanos, Equidad de Género y Asuntos Internacionales, cuando sea necesario para el ejercicio de sus atribuciones; y
+XXVIII. Coordinarse con el Oficial Mayor y con los Titulares de las Secretarías Ejecutivas del Pleno; Carrera Judicial, Adscripción y Creación de Nuevos Organos; Disciplina; y de Vigilancia, Información y Evaluación, cuando sea necesario para el ejercicio de sus atribuciones; y
 
 XXIX. Las demás que establezcan la normatividad aplicable, el Pleno, y las comisiones.
+
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 61.
 
@@ -1031,19 +1051,15 @@ II. Dirección General de Asuntos Jurídicos;
 
 III. Dirección General de Comunicación Social;
 
-IV. Dirección General de Imagen Institucional;
+IV. Dirección General de Derechos Humanos, Equidad de Género y Asuntos Internacionales; y
 
-> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2012)</small>
-
-V. Dirección General de Gestión Administrativa;
-
-VI. (DEROGADA, D.O.F. 25 DE MAYO DE 2012)
-
-VII. Las demás que determine el Pleno.
+V. Las demás que determine el Pleno.
 
 Sección 4a.
 
 De las Secretarías Ejecutivas en lo Particular
+
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 62.
 
@@ -1053,17 +1069,13 @@ I. El Secretario Ejecutivo del Pleno;
 
 II. El Secretario Ejecutivo de Administración;
 
-III. El Secretario Ejecutivo de Obra, Recursos Materiales y Servicios Generales;
+III. El Secretario Ejecutivo de Carrera Judicial, Adscripción y Creación de Nuevos Organos;
 
-IV. El Secretario Ejecutivo de Finanzas;
+IV. El Secretario Ejecutivo de Disciplina;
 
-V. El Secretario Ejecutivo de Carrera Judicial, Adscripción y Creación de Nuevos Organos;
+V. El Secretario Ejecutivo de Vigilancia, Información y Evaluación; y
 
-VI. El Secretario Ejecutivo de Disciplina;
-
-VII. El Secretario Ejecutivo de Vigilancia, Información y Evaluación; y
-
-VIII. Los demás que determine el Pleno.
+VI. Los demás que determine el Pleno.
 
 ###### Artículo 63.
 
@@ -1131,9 +1143,17 @@ XXVIII. Enviar a los titulares de los órganos jurisdiccionales las peticiones y
 
 XXIX. Las demás que establezcan el Pleno, y las comisiones.
 
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 65.
 
-La Secretaría Ejecutiva de Administración es la responsable de dirigir y supervisar la operación del sistema de administración y desarrollo de los recursos humanos y los subsistemas de registro, empleo, remuneraciones, capacitación, prestaciones y relaciones laborales del personal del Consejo, de conformidad con las disposiciones legales y la normatividad aplicable.
+La Secretaría Ejecutiva de Administración será la responsable de planear, programar, dirigir, ejecutar y controlar los recursos humanos, materiales, servicios generales, obra pública, así como los servicios relacionados con la misma, para lo cual actuará en la siguiente forma:
+
+a) En materia de recursos humanos se encargará de dirigir, establecer los controles de supervisión, y la operación del sistema de administración y desarrollo de los recursos humanos y los subsistemas de registro, empleo, remuneraciones, capacitación, prestaciones y relaciones laborales del personal del Poder Judicial de la Federación; así como, de las acciones en materia de protección civil y salud en el trabajo, de conformidad con las disposiciones legales y la normatividad aplicable.
+
+b) En materia de recursos materiales, servicios generales, arrendamiento, obra pública y servicios relacionados con la misma, será responsable de dirigir y supervisar la operación del sistema de administración de recursos materiales y los subsistemas de adquisiciones, contratación de servicios, arrendamientos, prestación de servicios, obra pública y los servicios relacionados con la misma, de control, conservación y custodia de los bienes muebles e inmuebles propiedad del Consejo o de los que, bajo cualquier título tenga bajo su posesión, y del control, implementación y supervisión de las acciones en materia de protección civil y salud en el trabajo.
+
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 66.
 
@@ -1141,7 +1161,7 @@ El titular de la Secretaría Ejecutiva de Administración tendrá las siguientes
 
 I. Someter a consideración del Oficial Mayor los asuntos y propuestas formulados en el ámbito de su competencia para su autorización;
 
-II. Proponer proyectos de acuerdos y lineamientos que permitan optimizar el aprovechamiento de los recursos del Consejo;
+II. Proponer proyectos de acuerdos y lineamientos que permitan optimizar el aprovechamiento de los recursos del Poder Judicial de la Federación;
 
 III. Dirigir y supervisar la propuesta del Programa Anual de Capacitación Administrativa e informar los resultados de su ejecución;
 
@@ -1155,9 +1175,9 @@ VII. Proponer para autorización las prórrogas de nombramiento que por tiempo d
 
 VIII. Someter de manera fundada y motivada al superior la adscripción temporal de plazas para órganos jurisdiccionales en los supuestos de creación de nuevos órganos, previa solicitud de los titulares;
 
-IX. Vigilar la ejecución de los calendarios y la observancia de los lineamientos y procedimientos establecidos para el pago de las remuneraciones, prestaciones y apoyos económicos hubiere a los servidores públicos del Poder Judicial de la Federación, conforme a las disposiciones legales y la normatividad aplicable;
+IX. Vigilar la ejecución de los calendarios y la observancia de los lineamientos y procedimientos establecidos para el pago de las remuneraciones, prestaciones y apoyos económicos que hubiere a los servidores públicos del Poder Judicial de la Federación, conforme a las disposiciones legales y la normatividad aplicable;
 
-X. Participar en el proceso de mejora continua de las prestaciones autorizadas a su personal, considerando para el Poder Judicial de la Federación la situación e impacto presupuestal y las disposiciones legales y normatividad;
+X. Participar en el proceso de mejora continua de las prestaciones autorizadas al personal del Poder Judicial de la Federación;
 
 XI. Supervisar la operación de los servicios médicos y el funcionamiento de los Centros de Desarrollo Infantil del Poder Judicial de la Federación;
 
@@ -1169,9 +1189,29 @@ XIV. Avalar las propuestas de movimientos e incidencias del personal a cargo del
 
 XV. Suscribir los nombramientos y credenciales de los servidores públicos adscritos a las áreas administrativas, comprendidos entre los niveles 8 a 33 del Catálogo General de Puestos;
 
-XVI. Refrendar las credenciales de los servidores públicos, niveles 2 a 33 del Catálogo General de Puestos, con el auxilio de la Coordinación de Administración Regional; y
+XVI. Refrendar las credenciales de los servidores públicos, niveles 2 a 33 del Catálogo General de Puestos, con el auxilio de la Coordinación de Administración Regional;
 
-XVII. Las demás que establezcan el Pleno, y las comisiones.
+XVII. Dirigir y supervisar las propuestas de los Programas Anuales de Ejecución de Adquisiciones, Arrendamientos y Prestación de Servicios; y de Obra Pública;
+
+XVIII. Controlar y administrar la operación de los inmuebles, conforme a las disposiciones legales y normativas;
+
+XIX. Otorgar las autorizaciones para la asignación temporal de espacios que sometan a su consideración los Directores Generales de Recursos Materiales, de Servicios Generales y de Inmuebles y Mantenimiento, tratándose de inmuebles ubicados en el Distrito Federal y Zona Metropolitana, así como del Coordinador de Administración Regional para los inmuebles ubicados en el interior de la República;
+
+XX. Asegurar y verificar el suministro oportuno de bienes y servicios necesarios a los órganos jurisdiccionales y áreas administrativas, con excepción de informática, telefonía, redes y cableado estructurado;
+
+XXI. Vigilar y proponer los lineamientos en materia de protección civil, higiene y medio ambiente en el trabajo y evaluar los resultados;
+
+XXII. Coordinar y supervisar el funcionamiento de las diversas comisiones de seguridad y salud en el trabajo, de conformidad con las disposiciones legales y la normatividad aplicable;
+
+XXIII. Colaborar en la instalación de órganos jurisdiccionales y oficinas de correspondencia común, así como en la realización de eventos organizados por el Consejo;
+
+XXIV. Operar, con las áreas administrativas competentes, los mecanismos de coordinación para la recepción, custodia y conservación de bienes decomisados, asegurados, no reclamados y abandonados, y coadyuvar con la Secretaría Técnica del Fondo de Apoyo a la Administración de Justicia en la realización de acciones relativas a su destino final;
+
+XXV. Instrumentar acciones orientadas a la localización de inmuebles requeridos para la instalación de nuevos órganos jurisdiccionales y la ampliación de espacios físicos, de acuerdo a la normatividad aplicable; y
+
+XXVI. Las demás que establezcan el Pleno, y las comisiones.
+
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 67.
 
@@ -1181,101 +1221,41 @@ I. Dirección General de Recursos Humanos;
 
 II. Dirección General de Servicios al Personal;
 
-III. Dirección General de Servicios Médicos y Desarrollo Infantil; y
+III. Dirección General de Servicios Médicos y Desarrollo Infantil;
 
-IV. Las demás que determine el Pleno.
+IV. Dirección General de Recursos Materiales;
+
+V. Dirección General de Servicios Generales;
+
+VI. Dirección General de Inmuebles y Mantenimiento;
+
+VII. Dirección General de Protección Civil y Salud en el Trabajo; y
+
+VIII. Las demás que determine el Pleno.
 
 ###### Artículo 68.
 
-La Secretaría Ejecutiva de Obra, Recursos Materiales y Servicios Generales es la responsable de dirigir y supervisar la operación del sistema de administración de recursos materiales y los subsistemas de: adquisiciones, arrendamientos, prestación de servicios, obra pública y los servicios relacionados con la misma, de control, conservación y custodia de los bienes muebles e inmuebles propiedad del Consejo o de los que, bajo cualquier título tenga su posesión y del control de las acciones en materia de protección civil y salud en el trabajo.
+(DEROGADO, D.O.F. 16 DE OCTUBRE DE 2012)
 
 ###### Artículo 69.
 
-El titular de la Secretaría Ejecutiva de Obra, Recursos Materiales y Servicios Generales tendrá las siguientes atribuciones:
-
-I. Someter a consideración del Oficial Mayor los asuntos y propuestas formulados en el ámbito de su competencia para su autorización;
-
-II. Proponer proyectos de acuerdos y lineamientos que permitan optimizar el aprovechamiento de los recursos del Poder Judicial de la Federación;
-
-III. Dirigir y supervisar las propuestas de los Programas Anuales de Ejecución de Adquisiciones, Arrendamientos y Prestación de Servicios; y de Obra Pública;
-
-IV. Proponer para su autorización la elaboración de proyectos de acuerdos y lineamientos que permitan optimizar el aprovechamiento de los recursos del Poder Judicial de la Federación;
-
-V. Controlar y administrar la operación de los inmuebles, conforme a las disposiciones legales y normativas;
-
-VI. Otorgar las autorizaciones para la asignación temporal de espacios que sometan a su consideración los Directores Generales de Recursos Materiales y Servicios Generales y de Inmuebles y Mantenimiento, tratándose de inmuebles ubicados en el Distrito Federal y Zona Metropolitana, así como del Coordinador de Administración Regional para los inmuebles ubicados en el interior de la República;
-
-VII. Asegurar y verificar el suministro oportuno de bienes y servicios necesarios a los órganos jurisdiccionales y áreas administrativas, con excepción de informática, sistemas, telefonía, redes y cableado estructurado;
-
-VIII. Vigilar y proponer los lineamientos en materia de protección civil, higiene y medio ambiente en el trabajo, así como de bienes inmuebles e inmuebles (sic), y evaluar los resultados;
-
-IX. Coordinar y supervisar el funcionamiento de las diversas comisiones de seguridad y salud en el trabajo, con la participación de la Secretaría Ejecutiva de Administración, de conformidad con las disposiciones legales y la normatividad aplicable;
-
-X. Colaborar en la instalación de órganos jurisdiccionales y oficinas de correspondencia común, así como en la realización de eventos organizados por el Consejo;
-
-XI. Operar, con las áreas administrativas competentes, los mecanismos de coordinación para la recepción, custodia y conservación de bienes decomisados, asegurados, no reclamados y abandonados, y coadyuvar con la Secretaría Técnica del Fondo de Apoyo a la Administración de Justicia en la realización de acciones relativas a su destino final;
-
-XII. Instrumentar acciones orientadas a la localización de inmuebles requeridos para la instalación de nuevos órganos jurisdiccionales y la ampliación de espacios físicos, de acuerdo a la normatividad aplicable; y
-
-XIII. Las demás que establezcan el Pleno, y las comisiones.
+(DEROGADO, D.O.F. 16 DE OCTUBRE DE 2012)
 
 ###### Artículo 70.
 
-La Secretaría Ejecutiva de Obra, Recursos Materiales y Servicios Generales contará con las siguientes unidades administrativas:
-
-I. Dirección General de Recursos Materiales y Servicios Generales;
-
-II. Dirección General de Inmuebles y Mantenimiento;
-
-III. Dirección General de Protección Civil y Salud en el Trabajo; y
-
-IV. Las demás que determine el Pleno.
+(DEROGADO, D.O.F. 16 DE OCTUBRE DE 2012)
 
 ###### Artículo 71.
 
-La Secretaría Ejecutiva de Finanzas es responsable de dirigir y supervisar la operación del sistema de recursos financieros, relativo a los subsistemas de presupuestos, contabilidad, ingresos y egresos, de conformidad con la legislación aplicable, acuerdos del Pleno y la Comisión de Administración, y lineamientos de la Oficialía Mayor.
+(DEROGADO, D.O.F. 16 DE OCTUBRE DE 2012)
 
 ###### Artículo 72.
 
-El titular de la Secretaría Ejecutiva de Finanzas tendrá las siguientes atribuciones:
-
-I. Someter a consideración del Oficial Mayor los asuntos y propuestas formulados en el ámbito de su competencia para su autorización;
-
-II. Proponer proyectos de acuerdos y lineamientos que permitan optimizar el aprovechamiento de los recursos del Poder Judicial de la Federación;
-
-III. Dirigir la elaboración e integrar el anteproyecto de presupuesto anual de egresos del Poder Judicial de la Federación y presentarlo a la consideración del superior jerárquico;
-
-> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2012)</small>
-
-IV. Integrar la Cuenta Pública anual del Consejo;
-
-V. Controlar el ejercicio y registro de los recursos presupuestales y no presupuestales del Consejo;
-
-VI. Elaborar la propuesta de distribución y calendarización del presupuesto anual de egresos del Poder Judicial de la Federación autorizado para las unidades ejecutoras del gasto;
-
-VII. Dar seguimiento y evaluar los ingresos y egresos de los Fideicomisos e informar su comportamiento financiero, así como del cumplimiento de las metas y objetivos programados;
-
-VIII. Dirigir y vigilar el subsistema de contabilidad gubernamental, para el registro, seguimiento y evaluación del ejercicio y aplicación de los recursos presupuestales y no presupuestales, así como emitir informes financieros consolidados del Consejo, para la toma de decisiones;
-
-IX. Elaborar propuestas de medidas de austeridad y disciplina presupuestal;
-
-X. Dirigir y vigilar la formulación de los estudios y dictámenes presupuestales para la creación, retabulación, conversión y transferencia de plazas administrativas que hayan sido solicitadas, conforme a los lineamientos aplicables;
-
-XI. Informar al superior jerárquico el avance y logro de los objetivos y metas programadas en el ámbito de su competencia, así como el funcionamiento de las áreas a su cargo;
-
-XII. Informar a la Secretaría Ejecutiva de Administración, al inicio de cada año, la disponibilidad presupuestal para la creación de las plazas a cargo del Consejo, así como proponer conjuntamente, los proyectos de criterios de disposición y pago; y
-
-XIII. Las demás que establezcan el Pleno, y las comisiones.
+(DEROGADO, D.O.F. 16 DE OCTUBRE DE 2012)
 
 ###### Artículo 73.
 
-La Secretaría Ejecutiva de Finanzas contará con las siguientes unidades administrativas:
-
-I. Dirección General de Programación y Presupuesto;
-
-II. Dirección General de Tesorería; y
-
-III. Las demás que determine el Pleno.
+(DEROGADO, D.O.F. 16 DE OCTUBRE DE 2012)
 
 ###### Artículo 74.
 
@@ -1911,45 +1891,49 @@ XXI. Coordinar las tareas tendentes al establecimiento, desarrollo y mantenimien
 
 XXII. Las demás que establezcan el Pleno, y las comisiones.
 
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 106.
 
-La Dirección General de Derechos Humanos, Equidad de Género y Asuntos Internacionales estará adscrita al Comité de Derechos Humanos, Equidad de Género y Asuntos Internacionales, que es el órgano competente para conocer de los asuntos relacionados con esas materias.
+La Dirección General de Derechos Humanos, Equidad de Género y Asuntos Internacionales, será la responsable de auxiliar al Presidente y al Secretario General de la Presidencia, en la ejecución de las acciones que se determinen en dichas materias.
+
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 106 Bis.
 
 El titular de la Dirección General de Derechos Humanos, Equidad de Género y Asuntos Internacionales, tendrá las siguientes atribuciones:
 
-I. Ejecutar los programas y acciones que determinen el Pleno y el Comité en materia de derechos humanos, equidad de género y asuntos internacionales;
+I. Ejecutar los programas que establezca el Pleno y las acciones que determine el presidente, a través de la Secretaría General de la Presidencia, en materia de derechos humanos, equidad de género y asuntos internacionales;
 
-II. Proponer al Comité los programas y acciones relativas a la capacitación, promoción, fomento y defensa de los derechos humanos;
+II. Elaborar los programas relativos a la capacitación, promoción, fomento y defensa de los derechos humanos y proponer al Secretario General de la Presidencia las acciones conducentes en la materia;
 
-III. Proponer al Comité los programas y acciones respecto a la capacitación y transversalidad de la perspectiva de género;
+III. Elaborar los programas respecto a la capacitación y transversalidad de la perspectiva de género y proponer al Secretario General de la Presidencia las acciones conducentes en la materia;
 
-IV. Fungir como enlace y apoyo del Consejo y del Comité para la atención de los asuntos internacionales;
+IV. Fungir como enlace y apoyo del Consejo para la atención de asuntos internacionales;
 
 V. Tramitar y dar seguimiento a los casos relacionados con derechos humanos y equidad de género, que incidan en el ámbito de competencia del Consejo;
 
-VI. Coordinar las acciones de capacitación y difusión que en esas materias apruebe el Comité;
+VI. Coordinar las acciones de capacitación y difusión que en materia de derechos humanos, equidad de género y asuntos internacionales determine el Presidente;
 
 VII. Promover y coordinar la celebración de convenios de colaboración con instituciones públicas, privadas y de la sociedad civil que promuevan y defiendan los derechos humanos y las acciones de transversalidad de la perspectiva de género;
 
 VIII. Atender las solicitudes de información provenientes de las Secretarías de Gobernación y de Relaciones Exteriores, relacionadas con peticiones formuladas ante la Corte Interamericana de Derechos Humanos y la Comisión Interamericana de Derechos Humanos que se formulen al Estado Mexicano y que incidan en el ámbito competencial del Consejo, así como aquéllas peticiones que tengan como propósito satisfacer solicitudes de información relacionadas con mecanismos de derechos humanos cuya competencia haya sido aceptada por el propio Estado Mexicano;
 
-IX. Remitir, previo acuerdo del Presidente del Comité, la convocatoria y el orden del día de cada sesión, en las que tomará nota de los acuerdos establecidos y de las observaciones formuladas, para la elaboración del acta correspondiente y puntual seguimiento de los asuntos;
+IX. Informar trimestralmente, o con la periodicidad que se determine, al Presidente, por conducto del Secretario General de la Presidencia, de las actividades efectuadas y de los reportes de evaluación administrativa;
 
-X. Informar trimestralmente al Comité, o con la periodicidad que éste determine, de las actividades efectuadas, y de los reportes de evaluación administrativa;
+X. Ejercer el presupuesto autorizado para el Programa de Equidad de Género, informando mensualmente al Presidente, por conducto de la Secretaría General de la Presidencia, y a las instancias administrativas correspondientes, del avance en el ejercicio de los recursos presupuestales como Unidad Ejecutora de Gasto;
 
-XI. Ejercer el presupuesto autorizado para el Programa de Equidad de Género, informando mensualmente al Comité y a las instancias administrativas correspondientes, el avance en el ejercicio de los recursos presupuestales como Unidad Ejecutora de Gasto;
+XI. Brindar el apoyo a los Consejeros en los asuntos que éstos le encomienden; y
 
-XII. Brindar el apoyo a los Consejeros en los asuntos que éstos le encomienden; y
-
-XIII. Las que establezcan el Pleno y el Comité.
+XII. Las demás que establezcan el Pleno y el Presidente.
 
 > <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2012)</small>
 
 ###### Artículo 107.
 
 La Dirección General de Gestión Administrativa será la encargada de atender los requerimientos de atención y apoyo a los Consejeros o a las personas que éstos determinen.
+
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 108.
 
@@ -1963,15 +1947,9 @@ III. Auxiliar y proporcionar apoyo a los consejeros en los trámites administrat
 
 IV. Proporcionar a los consejeros información, orientación, formatos e instructivos necesarios para efectuar trámites administrativos y legales, así como para el traslado de documentos oficiales y confidenciales;
 
-V. Informar al superior jerárquico el funcionamiento de las áreas a su cargo, así como el avance y logro de los objetivos y metas programados;
+V. Informar a la Comisión de Administración respecto del funcionamiento de las áreas a su cargo, así como el avance y logro de los objetivos y metas programados; y
 
-VI. (DEROGADA, D.O.F. 25 DE MAYO DE 2012)
-
-VII. (DEROGADA, D.O.F. 25 DE MAYO DE 2012)
-
-VIII. (DEROGADA, D.O.F. 25 DE MAYO DE 2012)
-
-IX. Las que establezcan el Pleno, y las comisiones.
+VI. Las que establezcan el Pleno, y la Comisión de Administración.
 
 ###### Artículo 109.
 
@@ -2139,59 +2117,57 @@ XIV. Informar al superior jerárquico, sobre el funcionamiento de la unidad admi
 
 XV. Las demás que establezcan el Pleno y, las comisiones.
 
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 115.
 
-La Dirección General de Recursos Materiales y Servicios Generales será la encargada de administrar y proporcionar los recursos materiales y los servicios generales que se requieren para el adecuado funcionamiento de los órganos jurisdiccionales y áreas administrativas.
+La Dirección General de Recursos Materiales será la encargada de suministrar los recursos materiales que se requieren para el adecuado funcionamiento de los órganos jurisdiccionales y áreas administrativas.
+
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 116.
 
-El titular de la Dirección General de Recursos Materiales y Servicios Generales tendrá las siguientes atribuciones:
+El titular de la Dirección General de Recursos Materiales tendrá las siguientes atribuciones:
 
-I. Participar en la elaboración del subsistema y procedimientos de recursos materiales y servicios generales;
+I. Participar en la elaboración del subsistema y procedimientos de recursos materiales y registro de inmuebles del Consejo;
 
-II. Participar en la elaboración de anteproyectos de acuerdos, disposiciones, reglas, bases de carácter general, normas, lineamientos y políticas para optimizar el aprovechamiento de los recursos materiales del Consejo y elevar la calidad de los servicios que proporciona;
+II. Participar en la elaboración de anteproyectos de acuerdos, disposiciones, reglas, bases de carácter general, normas, lineamientos y políticas para optimizar el aprovechamiento de los recursos materiales del Consejo;
 
-III. Elaborar, integrar y proponer en coordinación con la Dirección General de Inmuebles y Mantenimiento, el anteproyecto de Programa Anual de Ejecución de Adquisiciones, Arrendamientos y Prestación de Servicios, así como los proyectos de políticas y los criterios técnicos correspondientes;
+III. Elaborar, integrar y proponer en coordinación con las Direcciones Generales de Servicios Generales y de Inmuebles y Mantenimiento, el anteproyecto del Programa Anual de Ejecución de Adquisiciones, Arrendamientos y Prestación de Servicios, así como los proyectos de políticas y los criterios correspondientes;
 
-IV. Ejecutar programas para la adquisición de bienes y contratación de servicios requeridos por órganos jurisdiccionales y áreas administrativas del Poder Judicial de la Federación, de conformidad con la autorización del Pleno;
+IV. Ejecutar los programas para la adquisición y contratación de bienes muebles e inmuebles requeridos por órganos jurisdiccionales y áreas administrativas del Poder Judicial de la Federación, de conformidad con la normatividad aplicable;
 
-V. Proponer al superior jerárquico la inclusión de las necesidades no programadas en materia de recursos materiales y prestación de servicios generales, así como las actividades que para el efecto resulte necesario;
+V. Proponer al superior jerárquico la inclusión de las necesidades no programadas en materia de recursos materiales, así como las actividades que para el efecto resulte necesario;
 
-VI. Coordinar la administración, registro y control de los bienes muebles del Consejo, proveyendo lo necesario para su vigilancia, resguardo, mantenimiento, conservación y acondicionamiento, así como realizar y actualizar su inventario;
+VI. Coordinar la recepción, registro, suministro y control de los bienes muebles de inversión y de consumo del Poder Judicial de la Federación, proveyendo lo necesario para su vigilancia, resguardo y conservación, así como realizar y actualizar su inventario;
 
-VII. Administrar los bienes inmuebles en propiedad o posesión del Poder Judicial de la Federación;
+VII. Coordinar el registro y control de los bienes inmuebles del Poder Judicial de la Federación, proveyendo lo necesario para su vigilancia, resguardo y conservación, así como realizar y actualizar su inventario;
 
-VIII. Dirigir, operar y vigilar el cumplimiento de las políticas de organización y funcionamiento de los almacenes y sub-almacenes del Consejo, de conformidad con las normas y procedimientos;
+VIII. Dirigir, operar y vigilar el cumplimiento de las políticas de organización y funcionamiento del almacén general del Poder Judicial de la Federación;
 
-IX. Dirigir el subsistema de recepción, suministro y control de inventarios de bienes de consumo y de inversión así como operar los mecanismos para la baja y destino final de los mismos, con apego a la normatividad;
+IX. Llevar a cabo los procedimientos de adquisición y contratación de los bienes muebles, inmuebles, arrendamientos y servicios generales para órganos jurisdiccionales y áreas administrativas, de acuerdo con el Programa Anual de Ejecución de Adquisiciones, Arrendamientos y Prestación de Servicios, la disponibilidad presupuestal y la normatividad aplicable;
 
-X. Llevar a cabo los procedimientos de adquisición y contratación de los bienes y servicios para órganos jurisdiccionales y áreas administrativas, de acuerdo con el Programa Anual de Ejecución de Adquisiciones, Arrendamientos y Prestación de Servicios, la disponibilidad presupuestal y la normatividad aplicable;
+X. Formalizar, previa opinión de la Dirección General de Asuntos Jurídicos, las adjudicaciones de bienes muebles, inmuebles, arrendamientos y servicios generales, así como llevar a cabo la elaboración y en su caso trámite para la formalización y firma de los contratos correspondientes;
 
-XI. Formalizar, previa opinión de la Dirección General de Asuntos Jurídicos, las adjudicaciones en materia de recursos materiales y prestación de servicios generales, así como llevar a cabo la elaboración y firma de los contratos correspondientes;
+XI. Realizar los trámites necesarios ante la Secretaría de Hacienda y Crédito Público y la Secretaría de Economía, referentes a la adquisición de bienes de procedencia extranjera o de inversión registrada;
 
-XII. Realizar los trámites necesarios ante la Secretaría de Hacienda y Crédito Público y la Secretaría de Economía, referentes a la adquisición de bienes de procedencia extranjera o de inversión registrada;
+XII. Supervisar la recepción, conjunta con el área requirente y custodiar los bienes muebles, así como instrumentar el procedimiento para su afectación y destino, tratándose de recepción y validación de garantías;
 
-XIII. Supervisar la recepción, revisión y custodia de los bienes muebles, así como el procedimiento para su afectación y destino;
+XIII. Dar seguimiento al puntual y efectivo cumplimiento de las obligaciones a cargo de proveedores o contratistas que se deriven de pedidos y contratos en materia de adquisición de bienes muebles e inmuebles del Poder Judicial de la Federación;
 
-XIV. Realizar el seguimiento y verificar que se dé el cumplimiento de obligaciones a cargo de proveedores o contratistas que se deriven de pedidos y contratos;
+XIV. Tramitar, previa validación de la Secretaría Ejecutiva de Administración y opinión de la Dirección General de Asuntos Jurídicos, los contratos de arrendamiento de inmuebles que le correspondan conforme a la normatividad aplicable al Poder Judicial de la Federación;
 
-XV. Efectuar el registro, renovación y administración de pólizas de seguros patrimoniales que cubren los bienes muebles e inmuebles del Poder Judicial de la Federación;
+XV. Realizar, en coordinación con las áreas administrativas competentes, las actividades relativas a la recepción y custodia de los bienes que por disposición o resolución judicial se hayan asegurado o decomisado, de conformidad con las disposiciones aplicables, y coadyuvar con la Secretaría Técnica del Comité Técnico del Fondo de Apoyo a la Administración de Justicia en las actividades correspondientes al destino de dichos bienes;
 
-XVI. Tramitar, previa validación de la Secretaría Ejecutiva de Obra, Recursos Materiales y Servicios Generales y opinión de la Dirección General de Asuntos Jurídicos, los contratos de arrendamiento de inmuebles que le correspondan conforme a la normatividad aplicable para Poder Judicial de la Federación, así como los actos que se deriven por su uso y supervisión, y llevar a cabo los trámites para el pago de los servicios de agua, energía eléctrica y los necesarios para el funcionamiento de las oficinas;
+XVI. Apoyar, en el ámbito de sus responsabilidades, la realización de eventos especiales en que participe el Consejo;
 
-XVII. Administrar el parque vehicular propiedad del Consejo y controlar el servicio de estacionamientos oficiales, conforme a las disposiciones y lineamientos aplicables;
+XVII. Proponer, coordinar y vigilar en el ámbito de su competencia el programa de austeridad y disciplina presupuestal del Consejo, de conformidad con los acuerdos que se emitan;
 
-XVIII. Realizar, en coordinación con las áreas administrativas competentes, las actividades relativas a la recepción y custodia de los bienes que por disposición o resolución judicial se hayan asegurado o decomisado, de conformidad con las disposiciones aplicables, y coadyuvar con la Secretaría Técnica del Comité Técnico del Fondo de Apoyo a la Administración de Justicia en las actividades correspondientes al destino de dichos bienes;
+XVIII. Participar en los comités y grupos de trabajo que el Pleno, la Comisión de Administración, la Oficialía Mayor y la Secretaría Ejecutiva de Administración determinen;
 
-XIX. Apoyar, en el ámbito de sus responsabilidades, la realización de eventos especiales en que participe el Consejo;
+XIX. Informar al superior jerárquico sobre el funcionamiento de la unidad administrativa a su cargo y del avance y logro de objetivos y metas programadas, en el ámbito de su competencia; y
 
-XX. Proponer, coordinar y vigilar el Programa de Austeridad y Disciplina Presupuestal del Consejo, de conformidad con los acuerdos que se emitan;
-
-XXI. Participar en los comités y grupos de trabajo que el Pleno, la Comisión de Administración, la Oficialía Mayor y la Secretaría Ejecutiva de Administración determinen;
-
-XXII. Informar al superior jerárquico sobre el funcionamiento de la unidad administrativa a su cargo y del avance y logro de objetivos y metas programadas en el ámbito de su competencia; y
-
-XXIII. Las demás que establezcan el Pleno y, las comisiones.
+XX. Las demás que establezcan el Pleno y las comisiones.
 
 ###### Artículo 117.
 
@@ -2277,95 +2253,69 @@ IX. Elaborar y mantener actualizado el padrón de brigadistas del Poder Judicial
 
 X. Las demás que establezcan el Pleno, y las comisiones.
 
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 121.
 
-La Dirección General de Programación y Presupuesto será la encargada de programar, presupuestar, controlar y evaluar el ejercicio del presupuesto anual de egresos del Poder Judicial de la Federación, y elaborar los estados financieros correspondientes.
+La Dirección General de Programación y Presupuesto será la encargada de dirigir, programar, presupuestar, controlar y evaluar el ejercicio del presupuesto anual de egresos del Poder Judicial de la Federación; así como de los subsistemas de contabilidad, ingresos y egresos de conformidad con la legislación aplicable y acuerdos del Pleno, la Comisión de Administración y la Oficialía Mayor.
+
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 122.
 
 El titular de la Dirección General de Programación y Presupuesto tendrá las siguientes atribuciones:
 
-I. Realizar actividades de programación, presupuestación, control, seguimiento y evaluación del presupuesto anual de egresos del Poder Judicial de la Federación;
+I. Integrar la elaboración, e integrar el anteproyecto de presupuesto anual de egresos del Poder Judicial de la Federación y presentarlo a la consideración de la Oficialía Mayor;
 
-II. Proponer a la superioridad, anteproyectos de políticas, lineamientos y procedimientos para guiar el proceso programático presupuestal, en coordinación con la Dirección General de Innovación, Planeación y Desarrollo Institucional;
+II. Elaborar la propuesta de programación, presupuestación, distribución y calendarización del presupuesto anual de egresos del Poder Judicial de la Federación, y una vez autorizado por las instancias competentes, llevar a cabo su distribución, control, seguimiento y evaluación;
 
-III. Asesorar y capacitar a las áreas administrativas en materia de programación, presupuestación y ejercicio del presupuesto;
+III. Proponer al Oficial Mayor, los anteproyectos de políticas, lineamientos y procedimientos para guiar el proceso programático presupuestal en coordinación con la Dirección General de Innovación, Planeación y Desarrollo Institucional;
 
-IV. Solicitar a las áreas administrativas sus requerimientos presupuestales;
+IV. Integrar la Cuenta Pública anual del Consejo;
 
-V. Elaborar el anteproyecto de presupuesto anual de egresos del Poder Judicial de la Federación, conforme a las disposiciones legales y normativa aplicable;
+V. Controlar el ejercicio y registro de los recursos presupuestales y no presupuestales del Consejo;
 
-VI. Auxiliar a la Secretaría Ejecutiva de Finanzas en la elaboración de la propuesta y asignación del presupuesto programático autorizado;
+VI. Dirigir, diseñar, estructurar y vigilar el subsistema de contabilidad gubernamental, para el registro, seguimiento y evaluación del ejercicio y aplicación de los recursos presupuestales y no presupuestales;
 
-> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2012)</small>
+VII. Elaborar y emitir los estados e informes financieros consolidados; así como los presupuestales que emanen de la contabilidad en los plazos legales y términos establecidos en la normatividad aplicable, o como sustento del Pleno para la toma de decisiones;
 
-VII. Emitir las certificaciones de disponibilidad presupuestal;
+VIII. Elaborar propuestas de medidas de austeridad y disciplina presupuestal;
 
-VIII. Elaborar cuando proceda las adecuaciones presupuestarias internas en los capítulos de gasto por Unidad Ejecutora de Gasto;
+IX. Dirigir y vigilar la formulación de los estudios y dictámenes presupuestales para la creación, retabulación, conversión y transferencia de plazas administrativas que hayan sido solicitadas, conforme a los lineamientos aplicables;
 
-IX. Generar y validar, en su caso, la información que se requiera para la tramitación y registro ante la Secretaría de Hacienda y Crédito Público de adecuaciones externas al presupuesto anual de egresos del Poder Judicial de la Federación;
+X. Informar a la Oficialía Mayor del avance de los objetivos y metas programadas en el ámbito de su competencia, así como el funcionamiento de las áreas a su cargo;
 
-X. Con base en los requisitos administrativos y fiscales aplicables, recibir, revisar, registrar y autorizar la documentación comprobatoria y justificativa de las áreas administrativas, relativa al ejercicio del presupuesto anual de egresos del Poder Judicial de la Federación;
+XI. Informar a la Oficialía Mayor, al inicio de cada año, la disponibilidad presupuestal para la creación de plazas a cargo del Consejo, así como proponer conjuntamente, los proyectos de criterios de disposición de pago;
 
-XI. Aprobar, de acuerdo con el clasificador por objeto del gasto, los artículos y cantidades que se afectan en cada partida, así como el monto ejercido con base en el presupuesto asignado;
+XII. Asesorar a las áreas administrativas en el ámbito de su competencia;
 
-XII. Tramitar y autorizar, a través de la emisión del volante de autorización presupuestal, el gasto de los bienes y servicios aprobados por la Comisión de Administración o por el Pleno, y corroborar la facturación final en caso de diferencias;
+XIII. Proporcionar, recibir e intercambiar información sobre métodos, procedimientos y ordenamientos contables, financieros y jurídicos con dependencias y entidades del sector público;
 
-XIII. Autorizar, mediante la expedición del volante de autorización presupuestal, los gastos que afecten los recursos asignados para el ejercicio central, con excepción de los que requieran aprobación de la Comisión de Administración o del Pleno, y llevar a cabo el control correspondiente;
+XIV. Emitir cuando sea procedente, los dictámenes de suficiencia presupuestal que le requieran las instancias competentes;
 
-XIV. Aprobar las afectaciones al presupuesto de servicios personales, controlar presupuestalmente la plantilla de plazas autorizadas en el presupuesto anual de egresos del Poder Judicial de la Federación y efectuar las conciliaciones correspondientes con la Dirección General de Recursos Humanos;
+XV. Participar en el desarrollo de sistemas automatizados de carácter financiero en el ámbito de su competencia;
 
-XV. Emitir los informes mensuales y trimestrales respecto al estado que guardan las distintas fases del proceso presupuestal según los términos establecidos, así como proporcionar los informes internos y externos que se requieran;
+XVI. Solicitar a la Tesorería de la Federación el calendario de ministración de fondos autorizados e informar el avance de su cumplimiento conforme a las disposiciones legales y normas correspondientes;
 
-XVI. Dar seguimiento al ejercicio del gasto del Poder Judicial de la Federación, de conformidad con los programas, objetivos y metas autorizados e informar los resultados, así como proponer modificaciones y ajustes;
+XVII. Informar al superior jerárquico el avance en el cumplimiento de objetivos y metas de los programas institucionales y del ejercicio presupuestal, en coordinación con la Dirección General de Innovación, Planeación y Desarrollo Institucional;
 
-XVII. Coordinar, revisar y dar seguimiento a los programas de ejecución que elaboran las áreas concentradoras con base en el presupuesto anual de egresos del Poder Judicial de la Federación; e informar el resultado obtenido;
+XVIII. Proponer en coordinación con la Dirección General de Tesorería el programa de pagos y hacerlo del conocimiento de la Oficialía Mayor y vigilar su cumplimiento;
 
-XVIII. Dar seguimiento a los ingresos y egresos de los Fideicomisos en operación, incluyendo al Fideicomiso para la adquisición de vivienda y mantenimiento de casas-habitación de magistrados de circuito y jueces de distrito, e informar sobre su comportamiento financiero;
+XIX. Asignar las claves presupuestales de los órganos jurisdiccionales y áreas administrativas de nueva creación antes de su operación;
 
-XIX. Comunicarse y coordinarse con las otras áreas administrativas del Poder Judicial de la Federación, así como con las áreas afines de la Administración Pública Federal y del sector privado, a fin de intercambiar información en materia presupuestal;
+XX. Coordinar con la Dirección General de Tesorería los ingresos del Consejo, y establecer los mecanismos de seguimiento correspondiente;
 
-> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2012)</small>
+XXI. Solicitar a la Dirección General de Tesorería los pagos a terceros, derivados de las retenciones efectuadas a través de nómina;
 
-XX. Elaborar y presentar a la Comisión de Administración la cuenta pública del Consejo de conformidad con la normatividad aplicable;
+XXII. Presentar las declaraciones fiscales, y realizar los enteros a terceros, de conformidad con lo establecido en las disposiciones aplicables; y
 
-XXI. Cumplir con los lineamientos y normatividad aplicable para el registro de las operaciones contables del Consejo;
-
-XXII. Proporcionar la información financiera que se requiera con motivo de las auditorías internas y externas, así como acatar y vigilar el cumplimiento de observaciones efectuadas sobre normas de control, fiscalización y evaluación que emita la Auditoria Superior de la Federación y la Contraloría del Poder Judicial de la Federación y proponer a ésta normas complementarias de control;
-
-XXIII. Diseñar y estructurar el sistema de contabilidad del ejercicio del gasto de conformidad con las disposiciones aplicables;
-
-XXIV. Proporcionar, recibir e intercambiar información sobre métodos, procedimientos, y ordenamientos jurídicos y contables con dependencias y entidades del sector público;
-
-XXV. Resguardar la documentación contable y financiera del Consejo conforme a los lineamientos legales aplicables;
-
-XXVI. Formular los estados financieros e informes financieros y presupuestales que emanen de la contabilidad, en los plazos legales y términos establecidos en la normatividad aplicable;
-
-XXVII. Emitir dictámenes de suficiencia presupuestal que le requieran las instancias competentes;
-
-XXVIII. Participar en el desarrollo de sistemas automatizados de carácter financiero en el ámbito de su competencia;
-
-XXIX. Asesorar, en el ámbito de su competencia, a las áreas administrativas del Consejo;
-
-XXX. Requerir a la Tesorería de la Federación el calendario de ministración de fondos autorizados e informar el avance de su cumplimiento conforme a las disposiciones legales y normas correspondientes;
-
-XXXI. Informar el avance en el cumplimiento de objetivos y metas de los programas institucionales y del ejercicio presupuestal, en coordinación con la Dirección General de Innovación, Planeación y Desarrollo Institucional;
-
-XXXII. Proponer en forma mancomunada con la Dirección General de Tesorería el programa de pagos y hacerlo del conocimiento del superior jerárquico y vigilar su cumplimiento;
-
-XXXIII. Asignar las claves presupuestales de los órganos jurisdiccionales y áreas administrativas de nueva creación antes de su operación;
-
-XXXIV. Coordinar con la Dirección General de Tesorería los ingresos recibidos por conceptos de ampliaciones líquidas e ingresos propios y establecer los mecanismos de seguimiento correspondientes;
-
-XXXV. Solicitar a la Dirección General de Tesorería los pagos a terceros, derivados de las retenciones efectuadas a través de nómina;
-
-XXXVI. Presentar las declaraciones fiscales, y realizar los enteros a terceros, de conformidad con lo establecido en las disposiciones aplicables; y
-
-XXXVII. Las demás que establezcan el Pleno, y las comisiones.
+XXIII. Las demás que establezca el Pleno y las comisiones.
 
 ###### Artículo 123.
 
 La Dirección General de Tesorería coordinará la administración, gestión y ejecución de los recursos financieros autorizados por la Cámara de Diputados al Poder Judicial de la Federación, con apoyo en los lineamientos emitidos para su registro, guarda y control; asimismo, resguardará el numerario en moneda nacional y extranjera, documentos y valores puestos en su custodia y establecerá los pronósticos y metas financieras del Consejo, considerando los recursos disponibles.
+
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 124.
 
@@ -2401,9 +2351,17 @@ XIV. Cumplir los compromisos de pago contraídos por el Consejo en las contratac
 
 XV. Solicitar a las áreas administrativas en materia de seguridad y logística el apoyo para salvaguardar los recursos financieros y humanos de la Tesorería;
 
-XVI. Tramitar, controlar y suministrar los recursos requeridos para el cumplimiento de comisiones oficiales; y
+XVI. Tramitar, controlar y suministrar los recursos requeridos para el cumplimiento de comisiones oficiales;
 
-XVII. Las demás que establezcan el Pleno, y las comisiones.
+XVII. Someter a consideración del Oficial Mayor los asuntos y propuestas formulados en el ámbito de su competencia para su autorización;
+
+XVIII. Proponer proyectos de acuerdos y lineamientos en materia de su competencia;
+
+XIX. Dar seguimiento y evaluar los ingresos y egresos de los Fideicomisos e informar su comportamiento financiero, así como del cumplimiento de las metas y objetivos programados;
+
+XX. Informar al superior jerárquico el avance y logro de los objetivos y metas programadas en el ámbito de su competencia, así como el funcionamiento de las áreas a su cargo; y
+
+XXI. Las demás que establezcan el Pleno, y las comisiones.
 
 ###### Artículo 125.
 
@@ -2469,73 +2427,115 @@ XXV. Intervenir, en el ámbito de su competencia, en el desahogo de acciones rel
 
 XXVI. Las demás que establezcan el Pleno, y las comisiones.
 
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2012)</small>
+
 ###### Artículo 127.
 
-La Dirección General de Comunicación Social será la encargada de formular e instrumentar la política de información, difusión y comunicación social del Poder Judicial de la Federación; así como de mantener actualizados a los órganos jurisdiccionales y a las áreas administrativas respecto de la información emitida por los medios de comunicación.
+La Dirección General de Comunicación Social será la encargada de formular e instrumentar la política de información, difusión y comunicación social del Poder Judicial de la Federación; y, de mantener actualizados a los órganos jurisdiccionales y a las áreas administrativas respecto de la información emitida por los medios de comunicación; así como desarrollar e implementar el esquema de coordinación con las áreas de comunicación social de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral del Poder Judicial de la Federación, para promover de forma unificada su imagen; y, producir directa o coordinadamente el material audiovisual que permita dar a conocer a la ciudadanía las acciones emprendidas, a través de la televisión, la radio, Internet, y demás medios de comunicación.
+
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 128.
 
 El Titular de la Dirección General de Comunicación Social tendrá las siguientes atribuciones:
 
-I. Proponer a la Secretaría General de la Presidencia las políticas de información, difusión y comunicación social del Consejo, y ejecutarlas a fin de promover la cultura jurisdiccional en la opinión pública;
-
-II. Velar por la transparencia y fidelidad de la información que se proporcione a los medios de comunicación sobre asuntos de los órganos jurisdiccionales y de las áreas administrativas, mediante boletines, conferencias y entrevistas de prensa;
-
-III. Asesorar y auxiliar a los titulares de los órganos jurisdiccionales y de las áreas administrativas en su relación con los medios de comunicación;
-
-IV. Coordinar y fomentar las relaciones de los órganos jurisdiccionales y de las áreas administrativas con los medios de comunicación;
-
-V. Expedir constancias de acreditación a medios de información para tener acceso a las instalaciones del Poder Judicial de la Federación;
-
-VI. Diseñar, proponer, dirigir y ejecutar la política de comunicación al interior del Poder Judicial de la Federación, así como coordinar las campañas para difundir sus objetivos y actividades, para promover de forma unificada e integral la identidad del mismo;
-
-VII. Coadyuvar con la Dirección General de Imagen Institucional, en la promoción unificada e integral de la identidad del Poder Judicial de la Federación incluidos la Suprema Corte de Justicia de la Nación y el Tribunal Electoral;
-
-VIII. Efectuar investigaciones para conocer el impacto que causa en la sociedad la información proporcionada por medios de comunicación con relación al Poder Judicial de la Federación;
-
-IX. Recopilar y sintetizar la información de interés que los medios de comunicación generan cotidianamente, en particular, la relacionada con el Poder Judicial de la Federación;
-
-X. Organizar y ejecutar las necesidades de impresión de los órganos jurisdiccionales y de las áreas administrativas, y operar sus talleres de impresión;
-
-XI. Formular, proponer, dirigir y ejecutar el programa de ediciones para difundir el pensamiento jurídico, la cultura y la experiencia jurisdiccional;
-
-XII. Participar en la elaboración de las publicaciones internas que realice el Consejo, tanto en formato impreso como por cualquier otro medio, aun en coordinación con otros órganos de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral del Poder Judicial de la Federación, conforme a las políticas de comunicación y difusión que se establezcan;
-
-> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2012)</small>
-
-XIII. Diseñar y gestionar la publicación de avisos, acuerdos, convocatorias, licitaciones y edictos, entre otros, en el Diario Oficial de la Federación y diversos medios impresos, con excepción de lo previsto en el artículo 83, fracción X, de este Acuerdo; y
-
-XIV. Las demás que establezcan el Pleno, y las comisiones.
-
-###### Artículo 129.
-
-La Dirección General de Imagen Institucional será la encargada de desarrollar e implementar el esquema de coordinación con las áreas de comunicación social de la Suprema Corte de Justicia de la Nación, del Tribunal Electoral del Poder Judicial de la Federación y del Consejo, para promover de forma unificada su imagen; así como producir directa o coordinadamente el material audiovisual que permita dar a conocer a la ciudadanía las acciones emprendidas, a través de la televisión, la radio, Internet, y demás medios de comunicación.
-
-###### Artículo 130.
-
-La Dirección General de Imagen Institucional tendrá las siguientes atribuciones:
-
-I. Formular, instrumentar y evaluar la política de imagen institucional del Poder Judicial de la Federación;
+I. Proponer a la Secretaría General de la Presidencia las políticas, normas y procedimientos de imagen institucional, información, difusión y comunicación social del Consejo, y ejecutarlas a fin de promover la imagen y cultura jurisdiccional en la opinión pública;
 
 II. Llevar a cabo las acciones de enlace tendentes a establecer esquemas de coordinación con las áreas de comunicación social de la Suprema Corte de Justicia de la Nación, del Tribunal Electoral del Poder Judicial de la Federación y del propio Consejo, para promover de forma unificada su imagen, como órganos integrantes del poder judicial a nivel federal;
 
 III. Formular, proponer y ejecutar el programa de producción de radio y televisión del Poder Judicial de la Federación;
 
-IV. Coordinar con el Canal Judicial el uso de tiempo aire para difundir el quehacer de los órganos jurisdiccionales y de las áreas administrativas;
+IV. Diseñar, proponer, dirigir y ejecutar la política de comunicación al interior del Poder Judicial de la Federación, así como coordinar las campañas para difundir sus objetivos y actividades, para promover de forma unificada e integral la identidad del mismo;
 
-V. Producir y postproducir programas, documentales, spots y cápsulas para difundir el quehacer público y social de los órganos jurisdiccionales y de las áreas administrativas en la radio, la televisión e Internet;
+V. Coordinar con el Canal Judicial el uso de tiempo aire para difundir el quehacer de los órganos jurisdiccionales y de las áreas administrativas;
 
-VI. Organizar y gestionar el uso de tiempos fiscales en radio y televisión para la difusión de materiales audiovisuales del Poder Judicial de la Federación;
+VI. Producir y post-producir programas, documentales, spots y cápsulas para difundir el quehacer público y social de los órganos jurisdiccionales y de las áreas administrativas en la radio, la televisión e Internet;
 
-VII. Organizar, proponer y ejecutar el programa para el aprovechamiento del equipo televisivo de grabación, edición, producción y postproducción del Poder Judicial de la Federación;
+VII. Organizar y gestionar el uso de tiempos oficiales en radio y televisión para la difusión de materiales audiovisuales del Poder Judicial de la Federación;
 
-VIII. Apoyar en la grabación, edición y postproducción de los eventos y actividades que realicen los órganos jurisdiccionales y las áreas administrativas;
+VIII. Organizar, proponer y ejecutar el programa para el aprovechamiento del equipo televisivo de grabación, edición, producción y postproducción del Poder Judicial de la Federación;
 
-IX. Organizar, preservar e informar sobre el estado de la videoteca y audioteca del Consejo;
+IX. Apoyar en la grabación, edición y postproducción de los eventos y actividades que realicen los órganos jurisdiccionales y las áreas administrativas;
 
-X. Participar con la Dirección General de Tecnologías de la Información en el diseño y actualización del portal de Internet del Consejo; y
+X. Organizar, preservar e informar sobre el estado de la videoteca y audioteca del Consejo;
 
-XI. Las demás establezca el Pleno, y las comisiones.
+XI. Participar con la Dirección General de Tecnologías de la Información en el diseño y actualización del portal de Internet del Consejo;
+
+XII. Velar por la transparencia y fidelidad de la información que se proporcione a los medios de comunicación sobre asuntos de los órganos jurisdiccionales y de las áreas administrativas mediante boletines, conferencias y entrevistas de prensa;
+
+XIII. Asesorar y auxiliar a los titulares de los órganos jurisdiccionales y de las áreas administrativas en su relación con los medios de comunicación;
+
+XIV. Coordinar y fomentar las relaciones de los órganos jurisdiccionales y de las áreas administrativas con los medios de comunicación;
+
+XV. Expedir constancias de acreditación a medios de información para tener acceso a las instalaciones del Poder Judicial de la Federación;
+
+XVI. Efectuar investigaciones para conocer el impacto que causa en la sociedad la información proporcionada por medios de comunicación con relación al Poder Judicial de la Federación;
+
+XVII. Recopilar y sintetizar la información de interés que los medios de comunicación generan cotidianamente, en particular, la relacionada con el Poder Judicial de la Federación;
+
+XVIII. Organizar y ejecutar las necesidades de impresión de los órganos jurisdiccionales y de las áreas administrativas, y operar sus talleres de impresión;
+
+XIX. Formular, proponer, dirigir y ejecutar el programa de ediciones para difundir el pensamiento jurídico, la cultura y la experiencia jurisdiccional;
+
+XX. Participar en la elaboración de las publicaciones internas que realice el Consejo, tanto en formato impreso como por cualquier otro medio, aun en coordinación con otros órganos de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral del Poder Judicial de la Federación, conforme a las políticas de comunicación y difusión que se establezcan;
+
+XXI. Diseñar y gestionar oportunamente la publicación de avisos, acuerdos, convocatorias, licitaciones y edictos, entre otros, en el Diario Oficial de la Federación y diversos medios impresos, con excepción de lo previsto en el artículo 83, fracción X, de este Acuerdo; y
+
+XXII. Las demás que establezca el Pleno y las comisiones.
+
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 129.
+
+La Dirección General de Servicios Generales será la encargada de planear, programar, suministrar y controlar los servicios generales que se requieren para el adecuado funcionamiento de los órganos jurisdiccionales y áreas administrativas.
+
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 130.
+
+El titular de la Dirección General de Servicios Generales tendrá las siguientes atribuciones:
+
+I. Participar en la elaboración del subsistema y procedimientos de los servicios generales;
+
+II. Participar en la elaboración de anteproyectos de acuerdos, disposiciones, reglas, bases de carácter general, normas, lineamientos y políticas para optimizar el aprovechamiento de los servicios generales del Poder Judicial de la Federación y elevar la calidad de los servicios que proporciona;
+
+III. Elaborar, integrar y proponer en coordinación con las Direcciones Generales de Recursos Materiales y de Inmuebles y Mantenimiento, el anteproyecto del Programa Anual de Ejecución de Adquisiciones, Arrendamientos y Prestación de Servicios, así como los proyectos de políticas y los criterios técnicos correspondientes;
+
+IV. Ejecutar programas derivados de la contratación de los servicios generales requeridos por órganos jurisdiccionales y áreas administrativas del Poder Judicial de la Federación, de conformidad con la normatividad aplicable;
+
+V. Proponer al superior jerárquico la inclusión de las necesidades no programadas en materia de prestación de servicios generales, así como las actividades que para el efecto resulte necesario;
+
+VI. Coordinar la planeación, programación suministro y control de los servicios generales, proveyendo lo necesario para su vigilancia, y correcta prestación;
+
+VII. Dirigir, operar y vigilar el cumplimiento de las políticas de operación de la prestación de servicios del Poder Judicial de la Federación, de conformidad con las normas y procedimientos;
+
+VIII. Administrar el parque vehicular propiedad del Poder Judicial de la Federación, conforme a las disposiciones y lineamientos;
+
+IX. Solicitar y en su caso elaborar los requerimientos técnicos para la contratación de los servicios para órganos jurisdiccionales y áreas administrativas, de acuerdo con el Programa Anual de Ejecución de Adquisiciones, Arrendamientos y Prestación de Servicios, la disponibilidad presupuestal y la normatividad aplicable;
+
+X. Administrar los bienes inmuebles en propiedad o posesión del Poder Judicial de la Federación en el Distrito Federal y Zona Conurbada;
+
+XI. Supervisar la prestación de los servicios en los distintos bienes propiedad del Poder Judicial de la Federación;
+
+XII. Llevar a cabo el trámite de exención de pago del impuesto predial y del pago de los servicios de agua, energía eléctrica y los necesarios para el funcionamiento de las oficinas del Poder Judicial de la Federación;
+
+XIII. Dar seguimiento puntual y efectivo al cumplimiento de las obligaciones a cargo de los prestadores de servicios en el marco de los pedidos y contratos formalizados por el Poder Judicial de la Federación;
+
+XIV. Efectuar el registro, renovación y administración de pólizas de seguros patrimoniales que cubren los bienes muebles e inmuebles del Poder Judicial de la Federación;
+
+XV. Administrar, supervisar y controlar el servicio de estacionamientos oficiales, conforme a las disposiciones y lineamientos aplicables;
+
+XVI. Compilar, organizar, resguardar, actualizar y controlar la información y documentación relativa al catastro de los inmuebles administrados por el Consejo, así como establecer y mantener actualizado un sistema de administración de inmuebles con la información del inventario de los mismos;
+
+XVII. Apoyar, en el ámbito de sus responsabilidades, la realización de eventos especiales en que participe el Consejo;
+
+XVIII. Proponer, coordinar y vigilar en el ámbito de su competencia el Programa de Austeridad y Disciplina Presupuestal del Consejo, de conformidad con los acuerdos que se emitan;
+
+XIX. Participar en los comités y grupos de trabajo que el Pleno, la Comisión de Administración, la Oficialía Mayor y la Secretaría Ejecutiva de Administración determinen;
+
+XX. Informar al superior jerárquico sobre el funcionamiento de la unidad administrativa a su cargo y del avance y logro de objetivos y metas programadas en el ámbito de su competencia; y
+
+XXI. Las demás que establezcan el Pleno y, las comisiones.
 
 ###### Artículo 131.
 
@@ -2595,7 +2595,9 @@ XXIII. Verificar que se proporcione el seguimiento y atención oportuna a las so
 
 XXIV. Efectuar la dotación de infraestructura de telecomunicaciones y redes de datos para el buen funcionamiento de las aplicaciones informáticas en los órganos jurisdiccionales y áreas administrativas;
 
-XXV. Diseñar, modernizar y mantener el portal de Internet y de Intranet del Consejo, en coordinación con la Dirección General de Imagen Institucional;
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2012)</small>
+
+XXV. Diseñar, modernizar y mantener el portal de Internet y de Intranet del Consejo, en coordinación con la Dirección General de Comunicación Social;
 
 XXVI. Diseñar, implantar y mantener la infraestructura de videoconferencias a nivel nacional que apoye el correcto funcionamiento de las labores sustantivas del Poder Judicial de la Federación;
 
@@ -3524,3 +3526,25 @@ Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el
 ###### ARTICULO TERCERO.
 
 La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá incorporar el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo.
+
+D.O.F. 16 DE OCTUBRE DE 2012.
+
+###### ARTICULO PRIMERO.
+
+El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta, y en el portal de Internet del Consejo.
+
+###### ARTICULO TERCERO.
+
+Con motivo de la actualización de la estructura orgánica que contiene el presente Acuerdo General modificatorio y en tanto se reforman los Acuerdos Generales 53/2006, 24/2004, 66/2006 y 27/2007, las referencias que en la normativa interna del Consejo se hagan en lo particular a las Secretarías Ejecutivas de Finanzas y de Obra, Recursos Materiales y Servicios Generales, deberán entenderse a cargo de las unidades administrativas que de acuerdo a sus nuevas atribuciones las tengan conferidas.
+
+###### ARTICULO CUARTO.
+
+Los Consejeros responsables de auxiliar al Presidente en el ejercicio de las atribuciones que le corresponden en materia de derechos humanos, equidad de género y asuntos internacionales, serán los designados por el Pleno con antelación a la entrada en vigor del presente acuerdo, sin perjuicio de las determinaciones que adopte dicho órgano colegiado.
+
+###### ARTICULO QUINTO.
+
+La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá incorporar el texto de este instrumento, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo.
