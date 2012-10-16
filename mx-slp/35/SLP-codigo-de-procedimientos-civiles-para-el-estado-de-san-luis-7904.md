@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-civiles-para-el-estado-de-san-luis-790
 country: "mx"
 rank: "codigo"
 publication_date: "1947-06-19"
-last_updated: "2012-08-25"
+last_updated: "2012-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2012.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 19 de junio de 1947.
 
@@ -321,7 +321,11 @@ ART. 75.- Las nulidades a que se refiere el artículo anterior se promoverán an
 
 En el caso de que proceda la nulidad se impondrá al responsable una multa de uno a tres días de salario mínimo vigente en la región y se le condenará al pago de las costas y gastos.
 
-ART. 76.- En cualquier estado del negocio pueden los jueces o tribunales citar a las partes a las juntas que crean convenientes, ya sea para procurar su avenencia o para esclarecer algún punto, sin que se suspendan los términos que estén corriendo. Estas juntas, lo mismo que todas las diligencias, se efectuarán en el juzgado o tribunal, a menos que por su propia naturaleza deban practicarse en otro lugar, o cuando por razón del sexo, edad, enfermedad u otra circunstancia grave de las personas que deban intervenir, el juzgado o tribunal designe lugar diverso.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2012)</small>
+
+ART. 76.- En cualquier estado del negocio pueden los jueces o tribunales citar a las partes a las juntas que crean convenientes, ya sea para procurar su avenencia o para esclarecer algún punto, sin que se suspendan los términos que estén corriendo. Igualmente, los jueces o tribunales en cualquier parte del procedimiento, cuando adviertan la oportunidad de que las partes lleguen a un arreglo fuera del proceso jurisdiccional, podrán citar a las partes a efecto de invitarlos a resolver sus controversias a través de los mecanismos alternativos para la solución de conflictos. Estas juntas, lo mismo que todas las diligencias, se efectuarán en el juzgado o tribunal, a menos que por su propia naturaleza deban practicarse en otro lugar, o cuando por razón del sexo, edad, enfermedad u otra circunstancia grave de las personas que deban intervenir, el juzgado o tribunal designe lugar diverso.
 
 ART. 77.- Queda estrictamente prohibido decretar trámites que no estén autorizados por este Código, así como los que sean inútiles para la substanciación del procedimiento.
 
@@ -552,6 +556,12 @@ ART. 136.- Se exceptúan de lo prevenido en el artículo anterior:
 I.- Los casos en que desestimada la demanda, lo sea igualmente la reconvención y aquellos en que tanto una como la otra se encontraren en parte procedentes;
 
 II.- Cuando ejercitada una acción sólo se estime procedente en parte, por las excepciones que hubiere hecho valer el demandado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2012)</small>
+
+III.- En caso de que las partes hubieren llegado a un convenio como resultado de la mediación, de la conciliación o de cualquier otro arreglo con apoyo de mecanismos alternativos de solución de conflictos, no habrá condena en costas, debiendo soportar cada parte las que hubiere erogado, salvo acuerdo en contrario.
 
 ART. 137.- Las costas serán reguladas por la parte a cuyo favor se hubieren declarado y se substanciará el artículo con un escrito de cada parte, resolviéndose dentro de tercer día.
 
@@ -1109,6 +1119,20 @@ Si las cuestiones controvertidas fueren puramente de derecho y no de hecho, se p
 
 ART. 268.- Queda abolida la práctica de oponer excepciones o defensas contradictorias, aun cuando sea con el carácter de subsidiarias, debiendo los jueces desechar éstas de plano.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2012)</small>
+
+ART. 268 BIS. En los juicios del orden civil, familiar y mercantil, una vez contestada la demanda y resueltas las excepciones de previo y especial pronunciamiento relativas a la legitimación de las partes, el Juez convocará a las partes a una audiencia, a fin de que comparezcan personalmente y conozcan la posibilidad de someter el conflicto a los mecanismos alternativos de mediación y conciliación, a través del Centro Estatal o de los Centros Públicos o Privados.
+
+En caso de que asistan y acepten, el Juez suspenderá el procedimiento hasta por el plazo de cuarenta y cinco días hábiles, prorrogable por quince días más, a solicitud de las partes, y notificará al Centro elegido por éstas, para que cite a los interesados a una audiencia informativa y aplique el mecanismo alternativo que las partes prefieran, en los términos que disponga la Ley de la materia.
+
+La inasistencia de las partes a la audiencia convocada por el Juez para invitarlos a sujetarse a los mecanismos alternativos, se entenderá como una negativa a someter su conflicto a ellos, continuando con el procedimiento en la vía intentada.
+
+Tratándose de niños, niñas y adolescentes e incapaces, éstos serán representados por la persona o personas que ejerzan la patria potestad, tutela o curatela; en caso de que el conflicto sea con uno de sus tutores, se le deberá designar una persona que represente los intereses de este; sin perjuicio de lo anterior, se deberá escuchar al menor que esté en condiciones de formarse un juicio propio, para que exprese su opinión libremente sobre el asunto.
+
+Las partes de común acuerdo podrán solicitar en cualquier etapa del procedimiento hasta antes de que se dicte sentencia, la suspensión del mismo, a efecto de que se apliquen los mecanismos alternativos de solución de conflictos en la forma y términos previstos en la Ley correspondiente.
+
 ART. 269.- El juez mandará recibir el pleito a prueba en caso de que los litigantes lo hayan solicitado, o de que él lo estime necesario. Si el juez no decidiere nada sobre el particular al resolver sobre la contestación de la demanda, se entenderá que se recibe a prueba, corriendo desde luego el término para ofrecerlas.
 
 El auto que manda abrir un negocio a prueba no admite recurso alguno; el que lo niegue, será apelable en ambos efectos si además lo fuere la sentencia definitiva.
@@ -1145,7 +1169,11 @@ ART. 279.- Los terceros están obligados, en todo tiempo, a prestar auxilio a lo
 
 Los tribunales tienen la facultad y el deber de compeler a terceros, por los apremios más eficaces, para que cumplan con esta obligación; y en caso de oposición, oirán las razones en que la funden y resolverán sin ulterior recurso.
 
-De la mencionada obligación están exentos los ascendientes, descendientes, cónyuge y personas que deben guardar secreto profesional en los casos en que se trate de probar contra la parte con la que están relacionados.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2012)</small>
+
+De la mencionada obligación están exentos los ascendientes, descendientes, cónyuge, facilitadores y prestadores de servicios de mecanismos alternativos de solución de conflictos que hubieren conocido del asunto y personas que deban guardar secreto profesional, en los casos en que se trate de probar contra la parte con la que están relacionados.
 
 ART. 280.- La Ley reconoce como medios de prueba:
 
@@ -1479,6 +1507,42 @@ Para el examen de los testigos que no residan en el lugar del negocio, se librar
 
 ART. 362.- Después de tomarle al testigo la protesta de conducirse con verdad y de advertirle de las penas en que incurren los testigos falsos, se hará constar el nombre, edad, estado, domicilio y ocupación; si es pariente por consanguinidad o afinidad y en qué grado, de alguno de los litigantes; si es dependiente o empleado del que lo presente, o tiene con él sociedad o alguna otra relación de intereses; si tiene interés directo o indirecto en el pleito, si es amigo íntimo o enemigo de alguno de los litigantes. A continuación se procederá al examen.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2012)</small>
+
+ART. 362 BIS.- Tienen impedimento legal, y por tal motivo son tachables:
+
+I.- El menor de catorce años, a menos que se trate de casos de imprescindible necesidad, a juicio del juez;
+
+II.- Los dementes;
+
+III.- Los ebrios consuetudinarios y los vagos;
+
+IV.- El que haya sido condenado por el delito de falsedad;
+
+V.- Los parientes por consanguinidad, dentro del cuarto grado, y por afinidad dentro del segundo; a no ser que el juicio verse sobre asuntos de orden familiar;
+
+VI.- Un cónyuge a favor del otro;
+
+VII.- Los que tengan interés directo o indirecto en el pleito;
+
+VIII.- Los que vivan a expensas o sueldo del que los presente, a excepción de los juicios de divorcio, en los que es admisible su testimonio; quedando reservada al juez la calificación de la fe que deba darse a sus dichos según las circunstancias;
+
+IX.- El enemigo manifiesto;
+
+X.- El juez, en el pleito en que haya resuelto algún punto substancial;
+
+XI.- El abogado y el apoderado en el negocio en que lo sean o hayan sido;
+
+XII.- El tutor o el curador por los menores, y éstos por aquéllos mientras no fueren probadas las cuentas de la tutela;
+
+XIII.- El sordomudo, a no ser que sepa leer y escribir pues entonces podrá dar su declaración por escrito;
+
+XIV.- El tahúr de profesión; y
+
+XV.- El prestador de servicios de métodos alternos de solución de conflictos que hubiere conocido o resuelto algún conflicto relacionado con el asunto materia del juicio.
+
 ART. 363.- Los testigos serán examinados separada y sucesivamente, sin que unos puedan presenciar las declaraciones de los otros. A este efecto, el juez fijará un solo día para que se presenten los testigos que deben declarar y designará el lugar en que deben permanecer hasta la conclusión de la diligencia, salvo lo dispuesto en los artículos 357 a 359. Si no fuere posible terminar el examen de los testigos en un solo día, la diligencia se suspenderá para continuarla al día siguiente.
 
 ART. 364.- Cuando el testigo deje de contestar algún punto o haya incurrido en contradicción o se haya expresado con ambigüedad, pueden las partes llamar la atención del juez para que éste, si lo estima conveniente, exija al testigo las aclaraciones oportunas.
@@ -1745,7 +1809,19 @@ VII.- Las pólizas originales de contratos celebrados con intervención de corre
 
 VIII.- El juicio uniforme de contadores, si las partes ante el juez o por escritura pública o por escrito privado reconocido judicialmente, se hubieren sujetado a él expresamente o lo hubieren aprobado.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2012)</small>
+
+IX.- Los acuerdos o convenios no reconocidos judicialmente o sin certificar por la autoridad competente, que resulten con motivo de la aplicación del procedimiento de los mecanismos alternativos de solución de conflictos, en los términos previstos por la Ley de la materia.
+
 ART. 419.- Las sentencias que causen ejecutoria y los convenios judiciales, laudos o juicios de contadores, motivarán ejecución si el interesado no intentare la vía de apremio.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2012)</small>
+
+Igualmente los acuerdos o convenios celebrados por virtud de la aplicación de los mecanismos alternativos para la solución de conflictos, siempre y cuando cumplan con las formalidades y requisitos que disponga la Ley de la materia, motivarán ejecución si el interesado no intentaré en la vía de apremio.
 
 ART. 420.- Cuando la confesión judicial se haga durante la secuela del juicio ordinario, cesará éste si el actor lo pidiere y se procederá en la vía ejecutiva.
 
@@ -3415,13 +3491,29 @@ ART. 787.- Concluída la averiguación criminal continuará el curso de los auto
 
 ### CAPITULO I. Suspensión
 
-ART. 788.- El proceso se suspende cuando el tribunal del juicio no está en posibilidad de funcionar, por un caso de fuerza mayor, y cuando alguna de las partes o su representante legal, en su caso, sin culpa alguna suya, se encuentra en la absoluta imposibilidad de atender al cuidado de sus intereses en el litigio.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2012)</small>
+
+ART. 788.- El proceso se suspenderá cuando:
+
+I. El Tribunal del juicio no está en posibilidad de funcionar, por un caso de fuerza mayor;
+
+II. Alguna de las partes o su representante procesal en su caso, sin culpa alguna, se encuentre en la absoluta imposibilidad de atender al cuidado de sus intereses en el litigio;
+
+IV. Cuando las partes han consentido en acudir a un Centro para la solución de conflictos para intentar algún avenimiento que ponga fin al asunto, en los términos de la Ley de Mecanismos Alternativos y Prevención de Conflictos del Estado de San Luis Potosí, y
+
+V. En cualquier otro caso determinado por este Código y otras disposiciones legales.
 
 ART. 789.- También se suspende cuando no puede pronunciarse la decisión sino hasta que se pronuncie una resolución en otro negocio, y en cualquier otro caso especial determinado por la Ley.
 
-ART. 790.- La suspensión se decretará por el juez, a instancia de parte o de oficio, indicando en su resolución el día en que deba terminar la suspensión.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Cuando llegue el día señalado para terminar la suspensión y subsistan los motivos de la misma, en los términos de los dos artículos anteriores, se prorrogará la suspensión en la forma establecida en el párrafo precedente. Si el representante fuese un procurador, pasado el término de la suspensión, ya no se prorrogará éste siendo a perjuicio de la parte la falta de aquél, si no nombra nuevo representante.
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2012)</small>
+
+ART. 790.- Cuando en autos aparezca una causa de suspensión, o se denuncie y pruebe por parte interesada, el Juez decretará tal suspensión, expresando el día desde el que deberá contarse y el en que deba terminar.
+
+Concluido el plazo de suspensión del procedimiento, si subsisten los motivos, se prorrogará prudentemente por el Tribunal. Si la suspensión fue a causa de la falta del representante de una de las partes, no originará prórroga de la suspensión, siendo en su perjuicio la falta de procurador.
 
 ART. 791.- Con excepción de las medidas urgentes y de aseguramiento, todo acto procesal verificado durante la suspensión, es ineficaz, sin que sea necesario pedir ni declarar su nulidad.
 
@@ -4043,17 +4135,45 @@ ART. 976.- Si el juez no rinde el informe a que se refiere este Capítulo, será
 
 ART. 977.- Procede la vía de apremio a instancia de parte, siempre que se trate de la ejecución de una sentencia o de un convenio celebrado en el juicio, ya sea por las partes o por terceros que hayan venido al juicio por cualquier motivo que sea.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2012)</small>
+
+También procede la vía de apremio en la ejecución de convenios aprobados por la Procuraduría Federal del Consumidor, en la ejecución de laudos emitidos por dicha Procuraduría y en· la ejecución de convenios o acuerdos certificados por el Centro Estatal de Solución de Conflictos del Poder Judicial del Estado celebrados con motivo de los mecanismos alternativos para la solución de conflictos previstos en la Ley de la materia.
+
 ART. 978.- La ejecución de sentencia que hubiere causado ejecutoria o que deba llevarse adelante por estar otorgada la fianza correspondiente, se hará por el juez que conoció del negocio en la primera instancia.
 
 La ejecución de las interlocutorias firmes que resuelvan un incidente queda a cargo del juez que conozca del principal.
 
-La ejecución de las transacciones o convenios celebrados en juicio, se hará por el juez que conozca del negocio en la primera instancia; pero no procederá en la vía de apremio si no consta en escritura pública o judicialmente en autos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2012)</small>
+
+La ejecución de las transacciones o convenios celebrados en juicio o reconocidos judicialmente, se hará por el juez que conozca del negocio en la primera instancia; pero no procederá en la vía de apremio si no consta en escritura pública o judicialmente en autos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2012)</small>
+
+Cuando las transacciones o los convenios se celebren en las Salas, se tendrá por concluido el trámite del recurso y serán ejecutados por el Juzgado que conoció en primera instancia, a cuyo efecto la Sala devolverá los autos al inferior, acompañándole testimonio del convenio.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2012)</small>
+
+La ejecución de los convenios o acuerdos certificados por el Centro Estatal de Solución de Conflictos del Poder Judicial del Estado, se hará por el Juez designado por las partes en el convenio o en su defecto por el del lugar donde se llevó a cabo
 
 ART. 979.- El tribunal que dicte sentencia ejecutoria, dentro de los tres días siguientes a la notificación, devolverá los autos al inferior acompañándole la ejecutoria y constancia de las notificaciones. Si se tratare de transacción o convenio remitirá testimonio de los mismos al devolver los autos.
 
 ART. 980.- La ejecución de las sentencias arbitrales, se hará por el juez competente designado por las partes, y, en su defecto, por el juez del lugar del juicio; si hubiere varios, por el de número más bajo.
 
 ART. 981.- La ejecución de las sentencias y convenios, en la vía ejecutiva, se efectuará conforme a las reglas generales de los juicios ejecutivos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2012)</small>
+
+En el caso de que la petición de la ejecución en vía de apremio resulte con motivo del incumplimiento de un acuerdo o convenio celebrado al amparo de los mecanismos alternativos de solución de conflictos, el Juez revisará si el instrumento del que se pide su ejecución, cumple con las formalidades y requisitos que previene la Ley de la materia. Si el convenio fuere oscuro, irregular o incompleto, el Juez señalará en concreto sus defectos y prevendrá tanto a las partes como al prestador de servicios de mecanismos alternativos, para que dentro de un plazo máximo de quince días hábiles, la aclaren, corrijan o completen; hecho lo cual le dará curso, y en caso contrario, denegará su trámite.
 
 ART. 982.- Cuando se pida la ejecución de sentencia, el juez señalará al deudor el término improrrogable de cinco días para que la cumpla, si en ella no se hubiere fijado otro término para ese efecto.
 
@@ -4136,6 +4256,12 @@ ART. 1008.- Contra la ejecución de la sentencia y convenios judiciales, no se a
 ART. 1009.- Los términos fijados en el artículo anterior se contarán desde la fecha de la sentencia o convenio, a no ser que en ellos se fije el plazo para el cumplimiento de la obligación, en cuyo caso el término se computará desde el día en que venció el plazo o desde que pudo exigirse la última prestación vencida, si se tratare de prestaciones periódicas.
 
 ART. 1010.- Todo lo que en este Capítulo se dispone respecto de la sentencia, comprende las transacciones, convenios judiciales y los laudos que ponen fin a los juicios arbitrales.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2012)</small>
+
+Igualmente comprende, los acuerdos o convenios certificados celebrados con motivo de la aplicación de los procedimientos de los mecanismos alternativos para la solución de conflictos en la forma prevista por la Ley de la materia.
 
 ## TITULO DECIMO CUARTO. De la Ejecución de las Sentencias
 
@@ -5102,3 +5228,49 @@ P.O. 25 DE AGOSTO DE 2012.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE OCTUBRE DE 2012.
+
+###### ARTICULO PRIMERO.
+
+Esta Ley entrará en vigor a los ciento ochenta días siguientes a su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+La vigencia en cuanto a la aplicación y ejecución del procedimiento de los mecanismos alternativos por parte del Centro Estatal, iniciará después de noventa días, contados a partir de la entrada en vigor del presente; por lo que hace al funcionamiento de los Centros Privados, y Centros públicos, iniciará después de ciento ochenta días de iniciada la vigencia de este decreto.
+
+###### ARTICULO TERCERO.
+
+El Poder Judicial del Estado de San Luis Potosí deberá elaborar las disposiciones legales orgánicas y complementarias necesarias en la materia de esta Ley, para su debida aplicación, en el plazo no mayor de tres meses siguientes a la entrada en vigor de la presente Ley.
+
+###### ARTICULO CUARTO.
+
+En el mismo término inicial del párrafo precedente, el Poder Judicial del Estado de San Luis Potosí deberá proveer los recursos financieros y humanos necesarios para el funcionamiento del Centro Estatal.
+
+###### ARTICULO QUINTO.
+
+El Centro Estatal deberá estar instalado y conformado en un término no mayor a treinta días posteriores a la entrada en vigor del presente Decreto.
+
+###### ARTICULO SEXTO.
+
+El Ejecutivo del Estado deberá contemplar en sus presupuestos los recursos necesarios para el funcionamiento de los Centros Públicos de Solución de Controversias.
+
+###### ARTICULO SÉPTIMO.
+
+Los Ayuntamientos del Estado, deberán emitir la reglamentación de esta Ley en el ámbito de su competencia, de manera previa a la implementación de los mecanismos que regula esta Ley.
+
+###### ARTICULO OCTAVO.
+
+Las autoridades e instituciones públicas en el Estado de San Luis Potosí que refiere el Capítulo II de esta Ley, observarán lo conducente en el ámbito de su competencia y dentro de un plazo no mayor de un año, deberán proponer y realizar las adecuaciones a las disposiciones legales que rigen su operación y funcionamiento, así como a los planes y programas que los gobiernan, con el fin de hacer efectiva en la entidad y para la ciudadanía, las culturas de la paz, y de la legalidad.
+
+###### ARTICULO NOVENO.
+
+Las disposiciones relativos (sic) al y del Código de Procedimientos Civiles, entrarán en vigor posterior a los seis meses en que se publique el presente decreto
+
+###### ARTICULO DECIMO.
+
+Las disposiciones relativos (sic) al y de los Códigos Procesal de Procedimientos (sic) Civiles, y Penales, entrarán en vigor posterior a los seis meses en que se publique el presente decreto.
+
+###### ARTICULO DECIMO PRIMERO.
+
+Se derogan todas las disposiciones de igual o menor rango en lo que se opongan a esta Ley.
