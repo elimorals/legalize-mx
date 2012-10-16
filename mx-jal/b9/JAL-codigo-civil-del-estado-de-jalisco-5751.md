@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2012-10-13"
+last_updated: "2012-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2012.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -11081,21 +11081,11 @@ Puede pactarse que el bien comprado no se venda a determinada persona; pero es n
 
 ###### Art. 1893.
 
-Puede en el momento de formalizarse el contrato de compraventa que verse sobre inmuebles, señalarse por el comprador que el mismo pase en propiedad a su cónyuge o a sus ascendientes o sus descendientes cuando ocurra su fallecimiento.
-
-> <small>(REFORMADO, P.O. 11 DE ENERO DE 2007)</small>
-
-Al fallecimiento del comprador, bastará que se exhiban ante el encargado de la oficina del Registro Público de la Propiedad el pago de los impuestos que se causaren por la transmisión de dominio, copia certificada de la partida de defunción y la constancia expedida por el Registro Público de la Propiedad y del Director del Archivo de Instrumentos Públicos, en la que conste que no ha sido revocada o modificada la designación, para que se hagan las anotaciones que corresponden.
+(DEROGADO, P.O. 16 DE OCTUBRE DE 2012)
 
 ###### Art. 1894.
 
-La designación hecha conforme al artículo anterior, tiene las siguientes características:
-
-I. Podrá ser libremente constituida, revocada o modificada en cualquier momento debiendo constar la misma en escritura pública o en disposición testamentaria;
-
-II. Queda limitada a un solo inmueble, y cuando el comprador la realice por más de una ocasión se entenderá que la última es la que subsiste; y
-
-III. Cuando la adquisición se haga para una sociedad económico-matrimonial o en copropiedad, ésta se equiparará a la adquisición de un inmueble y desde luego el derecho a la designación de beneficiarios comprende exclusivamente los derechos adquiridos.
+(DEROGADO, P.O. 16 DE OCTUBRE DE 2012)
 
 ###### Art. 1895.
 
@@ -15393,6 +15383,22 @@ El heredero de parte de los bienes, que quiera vender a un extraño su derecho h
 
 Si dos o más coherederos quisieran hacer uso del derecho del tanto, se preferirá al que represente mayor porción en la herencia; y si las porciones son iguales, la suerte decidirá quien hace uso del derecho.
 
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2012)</small>
+
+###### Art. 2665
+
+Bis.- En la escritura pública que formalice los contratos o actos traslativos de dominio sobre bienes inmuebles, las personas que adquieren la propiedad de los mismos pueden señalar que a su fallecimiento, la propiedad de dichos inmuebles pasará a su cónyuge, ascendientes o descendientes, al momento de elaborar la escritura pública o mediante la adición de una anotación de forma posterior.
+
+Al fallecimiento del adquiriente de la propiedad de los bienes inmuebles, bastará que se exhiban ante el encargado de la oficina del Registro Público de la Propiedad el pago de los impuestos que se causaren por la transmisión de dominio, copia certificada de la partida de defunción y la constancia expedida por el Registro Público de la Propiedad y del Director del Archivo de Instrumentos Públicos, en la que conste que no ha sido revocada o modificada la designación, para que se hagan las anotaciones que corresponden.
+
+La designación hecha conforme a este artículo tiene las siguientes características:
+
+I. Podrá ser libremente constituida, revocada o modificada en cualquier momento, debiendo constar la misma en escritura pública o en disposición testamentaria;
+
+II. Cuando el adquiriente del inmueble la realice por más de una ocasión se entenderá que la última es la que subsiste, y
+
+III. Cuando la adquisición se haga para una sociedad económico matrimonial o en copropiedad, ésta se equiparará a la adquisición de un inmueble y, desde luego, el derecho a la designación de beneficiarios comprende exclusivamente los derechos adquiridos.
+
 ## TITULO TERCERO. De la forma de los testamentos
 
 ### CAPITULO V. De la institución de heredero
@@ -18148,5 +18154,9 @@ P.O. 27 DE SEPTIEMBRE DE 2012.
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 13 DE OCTUBRE DE 2012.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 16 DE OCTUBRE DE 2012.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
