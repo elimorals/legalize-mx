@@ -4,7 +4,7 @@ identifier: "VER-reglamento-de-la-ley-de-transito-y-transporte-para-del-6722"
 country: "mx"
 rank: "reglamento"
 publication_date: "1988-11-24"
-last_updated: "2012-08-08"
+last_updated: "2012-10-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6722&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,11 +20,11 @@ state: "VER"
 ---
 # REGLAMENTO DE LA LEY DE TRANSITO Y TRANSPORTE PARA DEL ESTADO DE VERACRUZ
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE OCTUBRE DE 2012 EN LA G.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO DE LA LEY DE TRÁNSITO Y TRANSPORTE PARA EL ESTADO DE VERACRUZ
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE AGOSTO DE 2012.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 16 DE OCTUBRE DE 2012.</small>
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el jueves 24 de noviembre de 1988.
 
@@ -4210,11 +4210,9 @@ V.- Se violen en más de tres ocasiones las condiciones establecidas en la conce
 
 VI.- Se niegue sin causa justificada, previo apercibimiento de la Dirección General, la prestación del servicio público a cualquier persona que lo solicite.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE OCTUBRE DE 2012 EN LA G.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+(ADICIONADO, G.O. 8 DE AGOSTO DE 2012) (F. DE E., G.O. 16 DE OCTUBRE DE 2012)
 
-> <small>(ADICIONADO, G.O. 8 DE AGOSTO DE 2012)</small>
-
-ART. 228 BIS. Para efectos de lo dispuesto en el artículo 134, fracción IV, de la Ley, el plazo que tiene el concesionario para iniciar la prestación del servicio de transporte público, será de veinte días hábiles contados a partir del día siguiente a aquél en que sea entregado el título de concesión.
+ART. 228 BIS. Para efectos de lo dispuesto en el artículo 134, fracción VI, de la Ley, el plazo que tiene el concesionario para iniciar la prestación del servicio de transporte público, será de veinte días hábiles contados a partir del día siguiente a aquél en que sea entregado el título de concesión.
 
 > <small>(REFORMADO, G.O. 4 DE ABRIL DE 1996)</small>
 
