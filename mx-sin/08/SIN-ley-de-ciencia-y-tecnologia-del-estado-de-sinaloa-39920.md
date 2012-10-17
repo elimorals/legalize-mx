@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-ciencia-y-tecnologia-del-estado-de-sinaloa-39920"
 country: "mx"
 rank: "ley"
 publication_date: "2004-06-09"
-last_updated: "2004-06-09"
+last_updated: "2012-10-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39920&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # LEY DE CIENCIA Y TECNOLOGIA DEL ESTADO DE SINALOA
 
-LEY DE CIENCIA Y TECNOLOGIA DEL ESTADO DE SINALOA
+LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE SINALOA, PUBLICADA EN EL P.O. DE 17 DE OCTUBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial "El Estado de Sinaloa", el miércoles 9 de junio de 2004.
 
@@ -824,3 +826,37 @@ J. Antonio Malacón Díaz.
 El Secretario de la Contraloría y Desarrollo Administrativo.
 
 José Luis López Uranga.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE OCTUBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Ciencia y Tecnología, expedida mediante decreto número 543, publicado en el Periódico Oficial "El Estado de Sinaloa", No. 69 de fecha 09 de junio de 2004.
+
+###### ARTÍCULO TERCERO.
+
+Las disposiciones administrativas expedidas en esta materia, vigentes al momento de la entrada en vigor de este ordenamiento, se seguiran aplicando en todo lo que no se opongan a la presente Ley, en tanto se expiden las que deben sustituirlas.
+
+###### ARTÍCULO CUARTO.
+
+En un plazo no mayor de noventa días contados a partir de la entrada en vigor del presente decreto, el Ejecutivo Estatal, deberá emitir las disposiciones reglamentarias correspondientes y realizar las acciones necesarias para su debida observancia.
+
+###### ARTÍCULO QUINTO.
+
+El Instituto de Apoyo a la Investigación e Innovación contará con la estructura y presupuesto del Consejo Estatal de Ciencia y Tecnología, en tanto no se expida el Reglamento correspondiente.
+
+El personal que preste sus servicios en el Consejo Estatal de Ciencia y Tecnología, formará parte de la plantilla laboral del Instituto de Apoyo a la Investigación e Innovación, respetándose todos sus derechos laborales, conforme a la Ley de los Trabajadores al Servicio del Estado de Sinaloa.
+
+###### ARTÍCULO SEXTO.
+
+Las referencias que se hacen al Consejo Estatal de Ciencia y Tecnología en leyes, reglamentos, decretos, acuerdos administrativos y demás disposiciones legales, se entenderán hechas al Instituto de Apoyo a la Investigación e Innovación.
+
+###### ARTÍCULO SÉPTIMO.
+
+El presupuesto anual que se otorgue al Instituto de Apoyo a la Investigación e Innovación, nunca deberá ser menor al establecido dentro de la Ley de Ingresos y Presupuesto para el ejercicio fiscal del año inmediato anterior.
