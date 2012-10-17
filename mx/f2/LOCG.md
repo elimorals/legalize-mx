@@ -4,7 +4,7 @@ identifier: "LOCG"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-09-03"
-last_updated: "2012-10-08"
+last_updated: "2012-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOCG"
 
 LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE OCTUBRE DE 2012.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de septiembre de 1999.
 
@@ -568,9 +568,9 @@ e) Las demás que se derivan de esta ley y de los ordenamientos relativos.
 
 1. Las Comisiones son órganos constituidos por el Pleno, que a través de la elaboración de dictámenes, informes, opiniones o resoluciones, contribuyen a que la Cámara cumpla sus atribuciones constitucionales y legales.
 
-> <small>(REFORMADO, D.O.F. 8 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
-2. La Cámara de Diputados cuenta con comisiones ordinarias que se mantienen de legislatura a legislatura y son las siguientes:
+2. La Cámara de Diputados contará con las comisiones ordinarias y especiales que requiera para el cumplimiento de sus funciones. Las comisiones ordinarias serán:
 
 I. Agricultura y Sistemas de Riego;
 
@@ -606,41 +606,41 @@ XVI. Derechos Humanos;
 
 XVII. Desarrollo Metropolitano;
 
-XVIII. Desarrollo Rural;
+XVIII. Desarrollo Municipal;
 
-XIX. Desarrollo Social;
+XIX. Desarrollo Rural;
 
-XX. Economía;
+XX. Desarrollo Social;
 
-XXI. Educación Pública y Servicios Educativos;
+XXI. Desarrollo Urbano y Ordenamiento Territorial;
 
-XXII. Energía;
+XXII. Economía;
 
-XXIII. Equidad y Género;
+XXIII. Educación Pública y Servicios Educativos;
 
-XXIV. Fomento Cooperativo y Economía Social;
+XXIV. Energía;
 
-XXV. Fortalecimiento al Federalismo;
+XXV. Equidad y Género;
 
-XXVI. Función Pública;
+XXVI. Fomento Cooperativo y Economía Social;
 
-XXVII. Ganadería;
+XXVII. Fortalecimiento al Federalismo;
 
-XXVIII. Gobernación;
+XXVIII. Ganadería;
 
-XXIX. Hacienda y Crédito Público;
+XXIX. Gobernación;
 
-XXX. Infraestructura;
+XXX. Hacienda y Crédito Público;
 
-XXXI. Justicia;
+XXXI. Infraestructura;
 
-XXXII. Juventud;
+XXXII. Justicia;
 
-XXXIII. Marina;
+XXXIII. Juventud;
 
-XXXIV. Medio Ambiente y Recursos Naturales;
+XXXIV. Marina;
 
-XXXV. Participación Ciudadana;
+XXXV. Medio Ambiente y Recursos Naturales;
 
 XXXVI. Pesca;
 
@@ -668,11 +668,13 @@ XLVII. Seguridad Social;
 
 XLVIII. Trabajo y Previsión Social;
 
-XLIX. Transportes;
+XLIX. Transparencia y Anticorrupción;
 
-L. Turismo, y
+L. Transportes;
 
-LI. Vivienda.
+LI. Turismo, y
+
+LII. Vivienda.
 
 3. Las comisiones ordinarias establecidas en el párrafo anterior, tienen a su cargo tareas de dictamen legislativo, de información y de control evaluatorio conforme a lo dispuesto por el párrafo primero del artículo 93 constitucional, y su competencia se corresponde en lo general con las otorgadas a las dependencias y entidades de la Administración Pública Federal.
 
@@ -2175,3 +2177,7 @@ Primero.- El presente Decreto entrará en vigor el día siguiente al de su publi
 Segundo.- Las Comisiones Especiales de la Cámara de Diputados, constituidas durante la LXI Legislatura al Honorable Congreso de la Unión, y que a través del presente Decreto se formalizan como Comisiones Ordinarias, tendrán las facultades y atribuciones que anteriormente tenían asignadas.
 
 Tercero.- Por única ocasión, las Comisiones Ordinarias, deberán quedar constituidas a más tardar dentro de los siete días naturales siguientes a la entrada en vigor del presente Decreto.
+
+D.O.F. 17 DE OCTUBRE DE 2012.
+
+Único.- El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
